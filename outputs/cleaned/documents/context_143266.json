@@ -1,0 +1,1131 @@
+{
+  "schema_version": "2.0",
+  "document_id": 143266,
+  "metadata": {
+    "name": "Quyet-dinh-4159-QD-BYT-2014-Quy-dinh-dam-bao-an-toan-thong-tin-y-te-dien-tu-256976",
+    "link": "https://thuvienphapluat.vn/van-ban/Cong-nghe-thong-tin/Quyet-dinh-4159-QD-BYT-2014-Quy-dinh-dam-bao-an-toan-thong-tin-y-te-dien-tu-256976.aspx",
+    "issuing_agency": "BỘ Y TẾ",
+    "national_header": "CỘNG HÒA XÃ HỘI\r\n\n  CHỦ NGHĨA VIỆT NAM",
+    "motto": "Độc lập - Tự do - Hạnh phúc",
+    "document_number": "4159/QĐ-BYT",
+    "issued_place": "Hà Nội",
+    "issued_date": "ngày 13\r\n\n  tháng 10 năm 2014",
+    "document_type": "QUYẾT ĐỊNH",
+    "title": "BAN HÀNH QUY ĐỊNH VỀ ĐẢM BẢO AN TOÀN THÔNG TIN Y TẾ ĐIỆN TỬ TẠI CÁC ĐƠN VỊ TRONG NGÀNH Y TẾ"
+  },
+  "administrative_header": {
+    "removed": true,
+    "removed_char_count": 146
+  },
+  "preamble": {
+    "text": "QUYẾT ĐỊNH\nBAN HÀNH QUY ĐỊNH VỀ ĐẢM BẢO AN TOÀN THÔNG TIN Y TẾ ĐIỆN TỬ TẠI CÁC ĐƠN\nVỊ TRONG NGÀNH Y TẾ BỘ TRƯỞNG BỘ Y TẾ\nCăn cứ Nghị định số 63/2012/NĐ-CP ngày 31/8/2012 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Y tế; Căn cứ Nghị định số 64/2007/NĐ-CP ngày 10/4/2007 của Chính phủ về ứng dụng công nghệ thông tin trong hoạt động của cơ quan nhà nước; Xét đề nghị của Cục trưởng Cục Công nghệ thông tin,\nQUYẾT ĐỊNH:",
+    "legal_bases": [
+      "Căn cứ Nghị định số 64/2007/NĐ-CP ngày 10/4/2007 của Chính phủ về ứng dụng công nghệ thông tin trong hoạt động của cơ quan nhà nước"
+    ],
+    "proposals": [
+      "Xét đề nghị của Cục trưởng Cục Công nghệ thông tin,\nQUYẾT ĐỊNH:"
+    ],
+    "enactment_formula": "QUYẾT ĐỊNH"
+  },
+  "passage": "QUYẾT ĐỊNH\nBAN HÀNH QUY ĐỊNH VỀ ĐẢM BẢO AN TOÀN THÔNG TIN Y TẾ ĐIỆN TỬ TẠI CÁC ĐƠN\nVỊ TRONG NGÀNH Y TẾ BỘ TRƯỞNG BỘ Y TẾ\nCăn cứ Nghị định số 63/2012/NĐ-CP ngày 31/8/2012 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Y tế; Căn cứ Nghị định số 64/2007/NĐ-CP ngày 10/4/2007 của Chính phủ về ứng dụng công nghệ thông tin trong hoạt động của cơ quan nhà nước; Xét đề nghị của Cục trưởng Cục Công nghệ thông tin,\nQUYẾT ĐỊNH:\nĐiều 1. Ban hành kèm theo quyết định này “Quy định về đảm bảo an toàn thông tin y tế điện tử tại các đơn vị trong ngành y tế”.\nĐiều 2. Quyết định này có hiệu lực kể từ ngày ký ban hành.\nĐiều 3. Chánh văn phòng Bộ, Cục trưởng Cục Công nghệ thông tin, Thủ trưởng các đơn vị thuộc/trực thuộc Bộ Y tế và các đơn vị, tổ chức liên quan chịu trách nhiệm thi hành quyết định này./.\nNơi nhận:\n- Như điều 3;\n- Bộ trưởng Bộ Y tế (để b/c);\n- Các Thứ trưởng Bộ Y tế (để phối hợp chỉ đạo);\n- Sở Y tế các tỉnh/thành phố trực thuộc TW;\n- Lưu: VT, CNTT(2).\nKT. BỘ TRƯỞNG\nTHỨ TRƯỞNG\nLê Quang Cường\nQUY ĐỊNH\nVỀ ĐẢM BẢO AN TOÀN THÔNG TIN Y TẾ ĐIỆN TỬ TẠI CÁC ĐƠN VỊ TRONG NGÀNH Y\nTẾ\n(Ban hành kèm theo Quyết định số 4159/QĐ-BYT ngày 13 tháng 10 năm 2014 của Bộ\ntrưởng Bộ Y tế)\nChương I\nQUY ĐỊNH CHUNG\nĐiều 1. Phạm vi điều chỉnh và đối tượng áp dụng\n1. Quyết định này quy định các yêu cầu đảm bảo\nthông suốt, an toàn, bảo mật thông tin cho việc ứng dụng công nghệ thông tin trong việc quản lý, sử dụng, lưu trữ, truyền đưa các thông tin y tế trên môi trường mạng.\n2. Quy định này áp dụng đối với các đơn vị, cơ quan\ntrong ngành y tế triển khai ứng dụng công nghệ thông tin trong quản lý, sử dụng, lưu trữ, truyền đưa thông tin y tế trên môi trường mạng.\nĐiều 2. Giải thích từ ngữ Trong Quy định này, các từ ngữ dưới đây được hiểu như sau:\n1. Thông tin y tế: bao gồm các thông tin\ntrong các lĩnh vực khác nhau trong ngành y tế.\n2. Thông tin y tế điện tử: là thông tin y tế\nđược quản lý, sử dụng, lưu trữ, truyền đưa trên môi trường mạng.\n3. Tài khoản đặc quyền: là tài khoản truy cập\nvào hệ thống thông tin nhằm thực hiện các công việc đặc biệt hoặc truy cập vào dữ liệu nhạy cảm. Tài khoản đặc quyền thường sử dụng cho việc cấu hình thiết bị, quản trị hệ thống, quản trị hệ điều hành, quản trị cơ sở dữ liệu hay quản trị ứng dụng nghiệp vụ (ví dụ như các tài khoản root, supervisors, system, administrator...).\n4. Bên cung cấp, hỗ trợ: là những cá nhân, tổ\nchức cung cấp, hỗ trợ các dịch vụ công nghệ thông tin cho đơn vị bao gồm:\na) Cá nhân, tổ chức cung cấp phần mềm, phần cứng, mạng;\nb) Cá nhân, tổ chức bảo trì các dịch vụ cung cấp phần\nmềm, phần cứng, mạng.\nĐiều 3. Nguyên tắc chung đối với việc đảm bảo an toàn thông tin y tế\n1. Đảm bảo tính bảo mật\na) Đảm bảo thông tin y tế chỉ có thể được truy cập\nbởi những đối tượng (người, chương trình máy tính...) được cấp quyền truy cập.\nb) Mật khẩu truy cập, khóa mã hóa và các mã khóa\nkhác được mã hóa trong quá trình truy cập, trên đường truyền và lưu trữ tại đơn vị quản lý thông tin y tế.\n2. Đảm bảo tính toàn vẹn\na) Đảm bảo tính toàn vẹn thông tin là việc thông\ntin chỉ được phép xóa hoặc sửa bởi những đối tượng được phép và phải đảm bảo rằng thông tin vẫn còn chính xác khi được lưu trữ hay truyền đi.\nb) Việc quản lý, sử dụng, lưu trữ, truyền đưa các\nthông tin y tế phải đảm bảo tính toàn vẹn, không được thay đổi khi chưa được phép của đơn vị quản lý thông tin y tế.\nc) Việc đảm bảo tính toàn vẹn phải được thực hiện\ntrong toàn bộ các quá trình truy cập, các quá trình nhập, lưu trữ, sử dụng, xử lý, truyền tải, trích rút và khôi phục dữ liệu.\n3. Đảm bảo tính sẵn sàng\na) Đảm bảo khả năng hoạt động liên tục của hệ thống\nthông tin.\nb) Đảm bảo thông tin y tế phải được truy cập nhanh\nchóng khi có sự yêu cầu từ phía cá nhân, tổ chức được cho phép truy cập thông tin.\nc) Đảm bảo nguồn nhân lực trong việc vận hành hệ thống\nthông tin.\nd) Xây dựng, ban hành, tuân thủ các quy trình trong\nviệc quản lý, vận hành hệ thống thông tin.\nChương II\nQUY ĐỊNH CỤ THỂ\nĐiều 4. Ban hành quy định cụ thể về an toàn, bảo mật hệ thống thông tin\n1. Các đơn vị cần xây dựng, ban hành quy định cụ thể\ncho đơn vị về an toàn, bảo mật cho hệ thống thông tin. Quy định cần được phê duyệt bởi lãnh đạo đơn vị, phù hợp với quy định của Nhà nước, ngành y tế và quy chế an toàn, bảo mật của đơn vị. Quy định bao gồm tối thiểu các nội dung sau:\na) Quy định chung (phạm vi, đối tượng, khái niệm, mục\nđích).\nb) Quy định cụ thể (nội dung, tiêu chuẩn, các yêu cầu\ncần tuân thủ).\nc) Trách nhiệm của các bên liên quan.\nd) Tổ chức thực hiện.\n2. Định kỳ tối thiểu mỗi năm một lần, đơn vị rà\nsoát, chỉnh sửa, hoàn thiện các quy định này đảm bảo sự phù hợp, đầy đủ và hiệu quả của quy định.\nĐiều 5. Mạng nội bộ và Internet\n1. Có biện pháp phát hiện và phòng chống\nxâm nhập, phòng chống phát tán mã độc hại trên mạng nội bộ và Internet.\n2. Có biện pháp phòng chống tấn công\ntừ chối dịch vụ từ bên trong mạng nội bộ và bên ngoài Internet.\n3. Yêu cầu có các biện pháp xác thực\nđảm bảo an toàn đối với các kết nối không dây.\n4. Có biện pháp phân tách các phân\nvùng mạng để đảm bảo kiểm soát được các truy cập hệ thống thông tin và đảm bảo truy cập hiệu quả đối với các dữ liệu cần truy cập nhanh chóng.\n5. Xác định, xây dựng và triển khai\ncác phương án dự phòng cho các vị trí có mức độ ảnh hưởng cao tới hoạt động của hệ thống mạng hoặc có khả năng làm tê liệt hệ thống mạng của đơn vị khi xảy ra sự cố.\n6. Xác định và đảm bảo nhu cầu băng\nthông của mạng nội bộ và Internet.\n7. Thường xuyên cập nhật các bản vá lỗi\nhệ thống, cập nhật cấu hình cho các thiết bị mạng và các thiết bị bảo mật.\n8. Bảo đảm chất lượng và đầy đủ các\ntrang thiết bị mạng, an ninh, bảo mật, phần mềm chống virus, công cụ phân tích, quản trị mạng được cài đặt trong mạng của đơn vị.\nĐiều 6. Máy chủ và phần mềm hệ thống\n1. Bảo đảm có hạ tầng máy chủ và các thiết\nbị đi kèm phục vụ hệ thống thông tin đủ công suất, đạt hiệu năng yêu cầu, đảm bảo tốc độ xử lý truy xuất thông tin y tế đáp ứng yêu cầu của đơn vị.\n2. Yêu cầu đối với máy chủ:\na) Có tính năng sẵn sàng cao, cơ chế\ndự phòng linh hoạt để đảm bảo tính hoạt động liên tục.\nb) Máy chủ phải được đặt ở phòng\nriêng, được bảo vệ an toàn về mặt vật lý. Phòng máy chủ phải được khóa, đặt mã bảo vệ và được giám sát chặt chẽ. Đảm bảo môi trường cho hoạt động của máy chủ như nguồn điện, nhiệt độ phục vụ cho hoạt động liên tục của máy chủ. Có các biện pháp phòng chống cháy, nổ cho phòng máy chủ. Quy định rõ ràng về quyền hạn, trách nhiệm của những cá nhân được phép vào phòng máy chủ.\n3. Việc truy cập máy chủ trực tiếp hoặc\ntừ xa đều phải thông qua kiểm soát bằng mật khẩu hoặc các biện pháp kiểm soát phù hợp khác. Có phương án đặt máy chủ tại các phân vùng mạng phù hợp theo chức năng và yêu cầu bảo mật của máy chủ.\n4. Có biện pháp phát hiện, phòng chống\nxâm nhập, phát tán mã độc hại và virus máy tính cho máy chủ.\n5. Yêu cầu đối với phần mềm hệ thống:\na) Phần mềm hệ điều hành cài lên máy\nchủ ưu tiên là phần mềm hệ điều hành có bản quyền hoặc là phần mềm mã nguồn mở được sử dụng rộng rãi trong nước và quốc tế (như UNIX, LINUX và các hệ điều hành thông dụng khác).\nb) Có tài liệu liệt kê, cài đặt với\nnhững phần mềm hệ thống cài trong máy chủ.\nc) Thường xuyên rà soát, cập nhật các\nphiên bản vá lỗi phần mềm hệ thống.\nĐiều 7. Máy trạm\n1. Máy trạm (bao gồm máy tính để bàn\nvà máy tính xách tay) tối thiểu yêu cầu được bảo vệ bằng mật khẩu.\n2. Các cơ sở dữ liệu hoặc các tập tin\nchứa thông tin y tế quan trọng yêu cầu được bảo vệ bằng mật khẩu.\n3. Yêu cầu có phương án phát hiện,\nphòng chống xâm nhập, phát tán mã độc hại và virus cho máy trạm.\n4. Yêu cầu có phương án bảo vệ dữ liệu\nmáy trạm nếu kết nối với mạng Internet.\n5. Đối với các máy trạm trực tiếp làm\nviệc với người dân tại các cơ sở y tế, cần đảm bảo thông tin y tế trên màn hình máy tính trong lúc làm việc không được xem bởi các cá nhân không được phép. Đặt chế độ khóa màn hình khi không làm việc trên máy tính.\n6. Thường xuyên cập nhật bản vá lỗi\nvà nâng cấp hệ điều hành.\nĐiều 8. Phần mềm ứng dụng\n1. Các yêu cầu, thiết kế về an toàn bảo\nmật của phần mềm ứng dụng cần được xác định rõ trong tài liệu phân tích, thiết kế. Trong quá trình triển khai, vận hành các phần mềm ứng dụng cần đảm bảo nghiêm ngặt theo các yêu cầu, thiết kế về an toàn bảo mật.\n2. Yêu cầu có phương án xác định và\nkhắc phục rủi ro trước, trong quá trình triển khai và khi vận hành các phần mềm ứng dụng.\n3. Yêu cầu tiến hành kiểm tra, thử\nnghiệm và có biên bản đánh giá tính an toàn, bảo mật đối với phần mềm ứng dụng theo yêu cầu khi nghiệm thu các phần mềm này. Việc tiến hành thử nghiệm phải đảm bảo trên môi trường riêng biệt, không ảnh hưởng tới hoạt động và dữ liệu của đơn vị.\n4. Quản lý chặt chẽ các tài khoản\nphát sinh trước, trong và sau khi triển khai phần mềm ứng dụng.\n5. Quản lý và nâng cấp phiên bản\na) Yêu cầu đánh giá hiệu quả, ảnh hưởng\nkhi tích hợp với các phần mềm khác, rủi ro gặp phải khi nâng cấp phiên bản.\nb) Các phiên bản nâng cấp cần được thử\nnghiệm tính an toàn, bảo mật, báo cáo lãnh đạo phê duyệt trước khi đưa vào sử dụng.\nc) Yêu cầu có phương án phục hồi lại\nphần mềm khi không nâng cấp được phiên bản mới.\nd) Yêu cầu ghi lại quá trình nâng cấp\nphần mềm bao gồm lý do, phiên bản, thời gian, người nâng cấp.\ne) Các phiên bản phần mềm cần được quản\nlý chặt chẽ và lưu tại vị trí được bảo mật.\ng) Yêu cầu có tài liệu hướng dẫn nâng\ncấp, sử dụng, cài đặt chi tiết khi tiến hành nâng cấp phiên bản phần mềm.\n6. Kiểm soát chương trình nguồn\na) Chỉ định cụ thể các cá nhân quản\nlý chương trình nguồn của phần mềm ứng dụng.\nb) Việc truy cập tới chương trình nguồn\nphải được sự phê chuẩn của cấp có thẩm quyền và được ghi lại.\nc) Chương trình nguồn phải được lưu\ntrữ an toàn tại ít nhất hai địa điểm tách biệt.\nd) Phải có cam kết không chứa mã độc\nhại giữa bên cung cấp, hỗ trợ và đơn vị khi triển khai phần mềm ứng dụng.\n7. Khuyến khích việc tăng cường sử dụng\ncác phần mềm bản quyền, hạn chế tối đa việc sử dụng phần mềm không hợp pháp. Đơn vị, cá nhân chịu trách nhiệm về các hậu quả phát sinh do việc sử dụng các phần mềm không hợp pháp.\nĐiều 9. Thư điện tử\n1. Không sử dụng các hộp thư điện tử\ncông cộng, không được xác thực và không đảm bảo tính an toàn, bảo mật thông tin cho các mục đích trao đổi công việc của đơn vị. Không sử dụng thư điện tử chính thức của đơn vị vào mục đích cá nhân.\n2. Khuyến khích việc đặt mật khẩu và\nsử dụng các định dạng không chỉnh sửa được cho các tập tin quan trọng đính kèm thư điện tử.\n3. Bảo đảm mỗi hộp thư điện tử cá\nnhân chỉ được truy cập bởi cá nhân đó. Mỗi cá nhân cần đặt mật khẩu đủ mạnh cho hộp thư điện tử của mình. Chỉ có cá nhân quản lý hộp thư điện tử mới được quyền thay đổi mật khẩu hộp thư điện tử của mình.\n4. Đơn vị quản lý hệ thống thư điện tử\ncần có quy định về việc khóa và xóa bỏ hộp thư điện tử cá nhân khi cá nhân đó không còn làm việc tại đơn vị.\n5. Đơn vị quản lý hệ thống thư điện tử\ncần xây dựng phương án đảm bảo an toàn và tính sẵn sàng truy cập cho hệ thống thư điện tử trong nội bộ và trên Internet, phương án chống thư rác cho thư điện tử.\nĐiều 10. Cơ sở dữ liệu\n1. Chỉ được sử dụng hệ quản trị cơ sở\ndữ liệu có bản quyền, nguồn gốc, xuất xứ rõ ràng, hoặc các hệ quản trị cơ sở dữ liệu mã nguồn mở nhưng được sử dụng rộng rãi trong nước và quốc tế (như MySQL, PostgreSQL, MongoDB hoặc các hệ quản trị cơ sở dữ liệu thông dụng khác).\n2. Hệ quản trị cơ sở dữ liệu sử dụng\ncho hệ thống thông tin của đơn vị cần đáp ứng được yêu cầu hoạt động ổn định; xử lý, lưu trữ được khối lượng dữ liệu của đơn vị theo yêu cầu nghiệp vụ; có cơ chế bảo vệ và phân quyền truy cập đối với các tài nguyên cơ sở dữ liệu.\n3. Thường xuyên rà soát, cập nhật các\nbản vá, các bản sửa lỗi hệ quản trị cơ sở dữ liệu.\n4. Xây dựng phương án sao lưu, dự\nphòng đối với cơ sở dữ liệu, đảm bảo khôi phục dữ liệu nhanh chóng khi có sự cố xảy ra. Việc sao lưu dữ liệu được quy định tại Điều 11 của quy định này.\n5. Thực hiện phân quyền và có quy định\nchặt chẽ với từng cá nhân truy cập đến cơ sở dữ liệu, khuyến khích việc ghi nhật ký đối với các truy cập và các thao tác cơ sở dữ liệu nhưng phải không ảnh hưởng đến tốc độ xử lý dữ liệu của cơ sở dữ liệu.\n6. Yêu cầu có các phương án ngăn chặn\ncác hình thức tấn công và truy cập cơ sở dữ liệu trái phép.\nĐiều 11. Sao lưu, phục hồi\n1. Đối với dữ liệu trên máy tính cá\nnhân:\na) Đối với các dữ liệu quan trọng,\nsao lưu cần được thực hiện khi dữ liệu có sự thay đổi. Đảm bảo các dữ liệu quan trọng được phục hồi nguyên vẹn khi cần thiết.\nb) Đảm bảo dữ liệu cần thiết trên máy\ntính đều được sao lưu khi có các thay đổi hoặc nâng cấp bất kỳ đối với hệ điều hành.\nc) Phương tiện sao lưu và quy trình\nphục hồi phải được kiểm tra thường xuyên nếu có thể để đảm bảo sẵn sàng sử dụng cho trường hợp khẩn cấp.\nd) Dữ liệu sao lưu phải được lưu ở vị\ntrí an toàn, cách xa dữ liệu gốc và những người không được cho phép. Đối với những dữ liệu quan trọng, khuyến khích dữ liệu sao lưu đặt cách xa vị trí địa lý của đơn vị.\n2. Đối với cơ sở dữ liệu trên máy chủ:\na) Các dữ liệu sao lưu và các bản sao\nlưu hoàn chỉnh của cơ sở dữ liệu và tài liệu quy trình phục hồi phải được lưu trữ ở các địa điểm cách xa vị trí cài đặt để đảm bảo tránh khỏi các sự cố nghiêm trọng nếu có. Số bản sao lưu phải được đơn vị tính toán để đảm bảo phục hồi dữ liệu theo yêu cầu của đơn vị, đặc biệt đối với các dữ liệu quan trọng.\nb) Phương tiện sao lưu phải được kiểm\ntra thường xuyên để sẵn sàng sử dụng trong trường hợp khẩn cấp.\nc) Dữ liệu sao lưu cần được lưu giữ tại\nmột địa điểm được bảo vệ vật lý và có môi trường đồng bộ với các tiêu chuẩn áp dụng tại địa điểm chính.\nd) Cần xác định thời gian lưu trữ cho\ncác thông tin quan trọng và các yêu cầu cho các bản sao lưu trữ vĩnh viễn.\ne) Quy trình phục hồi cơ sở dữ liệu\nphải được kiểm tra thường xuyên để đảm bảo hiệu quả và có thể hoàn thành trong thời gian cho phép.\n3. Đối với phần mềm:\nBản gốc phần mềm đã mua phải được lưu trữ an toàn để có thể cài lại nhanh chóng trong trường hợp máy tính hỏng.\nĐiều 12. Trao đổi thông tin y tế trên môi trường mạng\n1. Sử dụng các phương pháp định danh\nphù hợp với quy định của Pháp luật và Bộ Y tế.\n2. Sử dụng các phương pháp mã hóa phù\nhợp đáp ứng yêu cầu bảo mật và khả năng xử lý của hệ thống thông tin để bảo mật thông tin y tế điện tử và tính toàn vẹn của thông tin.\n3. Các khóa mã hóa phải được khởi tạo,\nthay đổi, phân phối, lưu trữ một cách an toàn.\n4. Đảm bảo khôi phục được các thông\ntin đã mã hóa khi cần thiết.\n5. Xây dựng quy định về thu hồi, hủy\nkhóa và phục hồi khóa mã hóa.\nĐiều 13. Tài khoản người sử dụng\n1. Xây dựng quy trình chính thức bằng\nvăn bản để quy định quyền truy cập vào mạng, máy chủ, phần mềm ứng dụng, cơ sở dữ liệu của từng cán bộ trong đơn vị. Các quy trình này bao gồm tất cả các quy định đối với cán bộ, bao gồm từ lúc đăng ký truy cập tới khi hủy bỏ đăng ký truy cập.\n2. Cần có quy định kiểm soát và theo\ndõi chặt chẽ việc truy cập vào các tài khoản đặc quyền.\n3. Các quy tắc bảo mật cơ bản đối với\ntài khoản người sử dụng bao gồm:\na) Chỉ cho phép mỗi người sử dụng có\nmột tài khoản truy cập.\nb) Áp dụng quy tắc phân quyền tài khoản\nngười sử dụng theo quyền của nhóm tài khoản.\nc) Yêu cầu mật khẩu được thay đổi một\ncách thường xuyên (ít nhất là mỗi tháng một lần).\nd) Các đơn vị cần có quy định về mật\nkhẩu mạnh (như quy định số ký tự tối thiểu của mật khẩu, bắt buộc có cả chữ in hoa, chữ thường hay bắt buộc có cả ký tự chữ và số).\ne) Khi một người dùng mới được quyền\ntruy cập vào hệ thống thông tin, đảm bảo rằng họ được cấp mật khẩu tạm thời. Sau lần truy cập đầu, người sử dụng cần thay đổi mật khẩu tạm thời này. Nếu hệ thống thông tin cho phép, yêu cầu không sử dụng lại mật khẩu cũ.\ng) Có quy trình để loại bỏ ngay lập tức\ncác tài khoản và quyền truy cập hệ thống của người thay đổi công việc, hoặc không còn làm việc tại đơn vị.\nĐiều 14. Truy cập từ xa\n1. Xác thực người dùng và nhận dạng:\nchủ động xác định được ai đang sử dụng hệ thống thông tin và xác định mức độ truy cập được yêu cầu. Việc nhận dạng tối thiểu bằng mật khẩu. Đối với các tài nguyên quan trọng, cần xem xét sử dụng thẻ thông minh, sinh mã ngẫu nhiên (Token key) hoặc sinh trắc học.\n2. Bảo vệ các dữ liệu đang truyền\nđưa: nếu dữ liệu là bí mật cần sử dụng các công nghệ mã hóa phù hợp.\n3. Bảo vệ tài nguyên mạng: có phương\nán kiểm soát các tài nguyên được yêu cầu truy cập từ xa.\nĐiều 15. Hủy bỏ các thiết bị lưu trữ thông tin y tế\n1. Các thiết bị có chứa thông tin y tế\nquan trọng như ổ cứng, băng đĩa cần được kiểm tra và đảm bảo rằng bất kỳ dữ liệu và phần mềm cấp phép nào phải được gỡ bỏ hay định dạng lại trước khi hủy bỏ.\n2. Thiết bị lưu trữ thông tin y tế\nquan trọng hư hỏng không còn hoạt động phải được phá hủy vật lý trước khi hủy bỏ.\nĐiều 16. Đảm bảo tính liên tục của hệ thống thông tin\n1. Xây dựng, ban hành phương án đảm bảo\ntính liên tục của hệ thống thông tin.\n2. Có phương án sao lưu, phục hồi dữ\nliệu theo quy định tại Điều 11 của Quyết định này.\n3. Đảm bảo việc truy cập dữ liệu\nnhanh chóng, không gián đoạn.\n4. Có phương án đảm bảo dự phòng hệ\nthống mạng theo quy định tại Điều 5 của Quy định này.\n5. Có phương án đảm bảo tính liên tục\ncủa hệ thống máy chủ. Khuyến khích sử dụng các công nghệ đảm bảo tính sẵn sàng cho hệ thống máy chủ.\nĐiều 17. Quản lý sự cố\n1. Xây dựng quy trình quản lý sự cố\ntrong hoạt động công nghệ thông tin của đơn vị mình. Quy trình quản lý sự cố phải được rà soát, cập nhật sự cố và các phương án xử lý tối thiểu sáu tháng một lần.\n2. Áp dụng các giải pháp kỹ thuật để\nphát hiện, xử lý kịp thời các cuộc tấn công từ chối dịch vụ như sử dụng thiết bị tường lửa; thiết bị phát hiện và ngăn chặn xâm nhập; các thiết bị chuyên dụng cảnh báo tấn công, làm lệch hướng lưu lượng mạng; lọc gói tin khi bị tấn công.\n3. Yêu cầu bên cung cấp, hỗ trợ cung\ncấp quy trình xử lý sự cố cho các dịch vụ do bên cung cấp, hỗ trợ cung cấp liên quan đến hệ thống.\nĐiều 18. Bố trí nhân sự\n1. Mỗi đơn vị cần bố trí tối thiểu một\ncán bộ có chuyên môn phù hợp làm đầu mối theo dõi công tác đảm bảo an toàn, bảo mật thông tin y tế điện tử tại đơn vị.\n2. Các nhiệm vụ quản trị hệ thống;\nphát triển, bảo trì phần mềm ứng dụng và vận hành hệ thống cần được phân công cho từng bộ phận, cá nhân cụ thể. Đảm bảo không có cá nhân nào có thể có toàn quyền trên hệ thống trừ cá nhân được lãnh đạo đơn vị cho phép. Ban hành quy định bằng văn bản về trách nhiệm và phân quyền rõ ràng cho từng nhóm bộ phận, cá nhân nêu trên.\n3. Yêu cầu có phương án quản lý chặt\nchẽ việc truy cập hệ thống thông qua tài khoản đặc quyền.\n4. Tổ chức đào tạo, nâng cao chuyên\nmôn nghiệp vụ cho các cán bộ làm công tác an toàn thông tin tại đơn vị.\n5. Phổ biến quy định về an toàn thông\ntin cho các cán bộ khi được tuyển dụng vào đơn vị.\nĐiều 19. Giám sát bên cung cấp, hỗ trợ\n1. Có quy định cụ thể, rõ ràng và thực\nhiện đầy đủ công tác quản lý, giám sát nhân sự bên cung cấp, hỗ trợ khi truy cập vào hệ thống.\n2. Có quy định cụ thể bằng văn bản và\nđược lãnh đạo đơn vị chấp thuận về phương án đảm bảo an toàn, bảo mật thông tin khi có bên cung cấp, hỗ trợ truy cập trực tiếp hay gián tiếp vào hệ thống.\nChương III\nTỔ CHỨC THỰC HIỆN\nĐiều 20. Trách nhiệm thi hành\n1. Cục Công nghệ thông tin có trách\nnhiệm hướng dẫn, theo dõi, kiểm tra việc thi hành Quy định này của các đơn vị thuộc ngành y tế. Hàng năm thông qua báo cáo của các đơn vị hoặc thực hiện kiểm tra tại chỗ để đánh giá việc tuân thủ quy định và đảm bảo an toàn, bảo mật cho hệ thống của các đơn vị; tổng hợp, báo cáo lãnh đạo Bộ tình hình về an toàn, bảo mật hệ thống của các đơn vị trong ngành y tế.\n2. Hàng năm Cục Công nghệ thông tin -\nBộ Y tế có trách nhiệm tổ chức các lớp đào tạo, cập nhật bổ sung về công tác đảm bảo an toàn thông tin y tế cho các đơn vị.\nĐiều 21. Yêu cầu báo cáo\n1. Sở Y tế và các đơn vị trực thuộc Bộ\nY tế có trách nhiệm gửi báo cáo hàng năm theo mẫu tại Phụ lục I về tình hình đảm bảo an toàn thông tin y tế điện tử tại đơn vị mình và các đơn vị trực thuộc trước ngày 31 tháng 03 hàng năm; hoặc báo cáo đột xuất theo yêu cầu của Bộ Y tế.\n2. Các báo cáo theo yêu cầu của khoản\n1 điều này được gửi về Cục Công nghệ thông tin - Bộ Y tế.\nPHỤ LỤC I\nBIỂU MẪU BÁO CÁO TÌNH HÌNH ĐẢM BẢO AN TOÀN\nTHÔNG TIN Y TẾ ĐIỆN TỬ\n(Ban hành kèm theo Quyết định số\n/QĐ-BYT ngày tháng năm 2014 của Bộ trưởng Bộ Y tế)\nMỤC 1. THÔNG TIN CHUNG\n1. Năm báo cáo: ……….\n2. Tên cơ quan báo cáo: ………\n3. Địa chỉ: ……….\n4. Điện thoại: ……………… Fax: ………………\n5. Thư điện tử liên hệ: …………..\n6. Địa chỉ trang/cổng thông tin điện tử\n(Website/Portal) chính thức: ……\nMỤC 2. THÔNG TIN LIÊN HỆ\n1. Họ và tên người thực hiện báo cáo: ………..\n2. Đơn vị công tác: …………..\n3. Chức vụ: …………\n4. Điện thoại cố định: ………….. Điện thoại di động:\n………….\n5. Thư điện tử: ……….\nMỤC 3. TÌNH HÌNH ĐẢM BẢO AN TOÀN THÔNG TIN TẠI ĐƠN\nVỊ\n1. Các hệ thống, phần mềm ứng dụng của đơn vị hiện\nđang sử dụng\n2. Các nội dung đảm bảo an toàn thông tin theo\nquy định này\na) Ban hành (hoặc chỉnh sửa) quyết định đảm bảo an\ntoàn hệ thống thông tin tại đơn vị\nb) Mạng nội bộ và Internet\nc) Máy chủ và phần mềm hệ thống\nd) Máy trạm\ne) Phần mềm ứng dụng\ng) Thư điện tử\nh) Cơ sở dữ liệu\ni) Sao lưu, phục hồi\nk) Trao đổi thông tin y tế trên môi\ntrường mạng\nl) Tài khoản người sử dụng\nm) Truy cập từ xa\nn) Hủy bỏ các thiết bị lưu trữ thông\ntin y tế\no) Đảm bảo tính liên tục của hệ thống\np) Quản lý sự cố\nq) Tổ chức thực hiện\n3. Những sự cố phát sinh trong năm\nvà phương án khắc phục\n4. Kiến nghị, đề xuất\n………., ngày ……. tháng …… năm …….. Người lập báo cáo (Ký và ghi rõ họ, tên) ………., ngày ……. tháng …… năm …….. Thủ trưởng cơ quan (Ký tên, đóng dấu)",
+  "tree": {
+    "parts": [
+      {
+        "part_id": "doc:143266:part:1",
+        "part_type": "main",
+        "part_title": null,
+        "reference": null,
+        "direct_text": "QUYẾT ĐỊNH\nBAN HÀNH QUY ĐỊNH VỀ ĐẢM BẢO AN TOÀN THÔNG TIN Y TẾ ĐIỆN TỬ TẠI CÁC ĐƠN\nVỊ TRONG NGÀNH Y TẾ BỘ TRƯỞNG BỘ Y TẾ\nCăn cứ Nghị định số 63/2012/NĐ-CP ngày 31/8/2012 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Y tế; Căn cứ Nghị định số 64/2007/NĐ-CP ngày 10/4/2007 của Chính phủ về ứng dụng công nghệ thông tin trong hoạt động của cơ quan nhà nước; Xét đề nghị của Cục trưởng Cục Công nghệ thông tin,\nQUYẾT ĐỊNH:\n(Ban hành kèm theo Quyết định số 4159/QĐ-BYT ngày 13 tháng 10 năm 2014 của Bộ\ntrưởng Bộ Y tế)",
+        "chapters": [
+          {
+            "chapter_id": "doc:143266:part:1:chapter:1",
+            "number": "I",
+            "title": "QUY ĐỊNH CHUNG",
+            "content": "Chương I\nQUY ĐỊNH CHUNG",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:143266:part:1:article:4",
+                "number": "1",
+                "title": "Phạm vi điều chỉnh và đối tượng áp dụng",
+                "content": "Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng",
+                "clauses": [
+                  {
+                    "clause_id": "doc:143266:part:1:article:4:clause:1",
+                    "number": "1",
+                    "content": "1. Quyết định này quy định các yêu cầu đảm bảo\nthông suốt, an toàn, bảo mật thông tin cho việc ứng dụng công nghệ thông tin trong việc quản lý, sử dụng, lưu trữ, truyền đưa các thông tin y tế trên môi trường mạng.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:143266:part:1:article:4:clause:2",
+                    "number": "2",
+                    "content": "2. Quy định này áp dụng đối với các đơn vị, cơ quan\ntrong ngành y tế triển khai ứng dụng công nghệ thông tin trong quản lý, sử dụng, lưu trữ, truyền đưa thông tin y tế trên môi trường mạng.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:143266:part:1:article:5",
+                "number": "2",
+                "title": "Giải thích từ ngữ Trong Quy định này, các từ ngữ dưới đây được hiểu như sau:",
+                "content": "Điều 2. Giải thích từ ngữ Trong Quy định này, các từ ngữ dưới đây được hiểu như sau:",
+                "clauses": [
+                  {
+                    "clause_id": "doc:143266:part:1:article:5:clause:1",
+                    "number": "1",
+                    "content": "1. Thông tin y tế: bao gồm các thông tin\ntrong các lĩnh vực khác nhau trong ngành y tế.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:143266:part:1:article:5:clause:2",
+                    "number": "2",
+                    "content": "2. Thông tin y tế điện tử: là thông tin y tế\nđược quản lý, sử dụng, lưu trữ, truyền đưa trên môi trường mạng.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:143266:part:1:article:5:clause:3",
+                    "number": "3",
+                    "content": "3. Tài khoản đặc quyền: là tài khoản truy cập\nvào hệ thống thông tin nhằm thực hiện các công việc đặc biệt hoặc truy cập vào dữ liệu nhạy cảm. Tài khoản đặc quyền thường sử dụng cho việc cấu hình thiết bị, quản trị hệ thống, quản trị hệ điều hành, quản trị cơ sở dữ liệu hay quản trị ứng dụng nghiệp vụ (ví dụ như các tài khoản root, supervisors, system, administrator...).",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:143266:part:1:article:5:clause:4",
+                    "number": "4",
+                    "content": "4. Bên cung cấp, hỗ trợ: là những cá nhân, tổ\nchức cung cấp, hỗ trợ các dịch vụ công nghệ thông tin cho đơn vị bao gồm:",
+                    "points": [
+                      {
+                        "point_id": "doc:143266:part:1:article:5:clause:4:point:1",
+                        "label": "a",
+                        "content": "a) Cá nhân, tổ chức cung cấp phần mềm, phần cứng, mạng;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:143266:part:1:article:5:clause:4:point:2",
+                        "label": "b",
+                        "content": "b) Cá nhân, tổ chức bảo trì các dịch vụ cung cấp phần\nmềm, phần cứng, mạng.",
+                        "children": []
+                      }
+                    ]
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:143266:part:1:article:6",
+                "number": "3",
+                "title": "Nguyên tắc chung đối với việc đảm bảo an toàn thông tin y tế",
+                "content": "Điều 3. Nguyên tắc chung đối với việc đảm bảo an toàn thông tin y tế",
+                "clauses": [
+                  {
+                    "clause_id": "doc:143266:part:1:article:6:clause:1",
+                    "number": "1",
+                    "content": "1. Đảm bảo tính bảo mật",
+                    "points": [
+                      {
+                        "point_id": "doc:143266:part:1:article:6:clause:1:point:1",
+                        "label": "a",
+                        "content": "a) Đảm bảo thông tin y tế chỉ có thể được truy cập\nbởi những đối tượng (người, chương trình máy tính...) được cấp quyền truy cập.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:143266:part:1:article:6:clause:1:point:2",
+                        "label": "b",
+                        "content": "b) Mật khẩu truy cập, khóa mã hóa và các mã khóa\nkhác được mã hóa trong quá trình truy cập, trên đường truyền và lưu trữ tại đơn vị quản lý thông tin y tế.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:143266:part:1:article:6:clause:2",
+                    "number": "2",
+                    "content": "2. Đảm bảo tính toàn vẹn",
+                    "points": [
+                      {
+                        "point_id": "doc:143266:part:1:article:6:clause:2:point:1",
+                        "label": "a",
+                        "content": "a) Đảm bảo tính toàn vẹn thông tin là việc thông\ntin chỉ được phép xóa hoặc sửa bởi những đối tượng được phép và phải đảm bảo rằng thông tin vẫn còn chính xác khi được lưu trữ hay truyền đi.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:143266:part:1:article:6:clause:2:point:2",
+                        "label": "b",
+                        "content": "b) Việc quản lý, sử dụng, lưu trữ, truyền đưa các\nthông tin y tế phải đảm bảo tính toàn vẹn, không được thay đổi khi chưa được phép của đơn vị quản lý thông tin y tế.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:143266:part:1:article:6:clause:2:point:3",
+                        "label": "c",
+                        "content": "c) Việc đảm bảo tính toàn vẹn phải được thực hiện\ntrong toàn bộ các quá trình truy cập, các quá trình nhập, lưu trữ, sử dụng, xử lý, truyền tải, trích rút và khôi phục dữ liệu.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:143266:part:1:article:6:clause:3",
+                    "number": "3",
+                    "content": "3. Đảm bảo tính sẵn sàng",
+                    "points": [
+                      {
+                        "point_id": "doc:143266:part:1:article:6:clause:3:point:1",
+                        "label": "a",
+                        "content": "a) Đảm bảo khả năng hoạt động liên tục của hệ thống\nthông tin.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:143266:part:1:article:6:clause:3:point:2",
+                        "label": "b",
+                        "content": "b) Đảm bảo thông tin y tế phải được truy cập nhanh\nchóng khi có sự yêu cầu từ phía cá nhân, tổ chức được cho phép truy cập thông tin.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:143266:part:1:article:6:clause:3:point:3",
+                        "label": "c",
+                        "content": "c) Đảm bảo nguồn nhân lực trong việc vận hành hệ thống\nthông tin.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:143266:part:1:article:6:clause:3:point:4",
+                        "label": "d",
+                        "content": "d) Xây dựng, ban hành, tuân thủ các quy trình trong\nviệc quản lý, vận hành hệ thống thông tin.",
+                        "children": []
+                      }
+                    ]
+                  }
+                ],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:143266:part:1:chapter:2",
+            "number": "II",
+            "title": "QUY ĐỊNH CỤ THỂ",
+            "content": "Chương II\nQUY ĐỊNH CỤ THỂ",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:143266:part:1:article:7",
+                "number": "4",
+                "title": "Ban hành quy định cụ thể về an toàn, bảo mật hệ thống thông tin",
+                "content": "Điều 4. Ban hành quy định cụ thể về an toàn, bảo mật hệ thống thông tin",
+                "clauses": [
+                  {
+                    "clause_id": "doc:143266:part:1:article:7:clause:1",
+                    "number": "1",
+                    "content": "1. Các đơn vị cần xây dựng, ban hành quy định cụ thể\ncho đơn vị về an toàn, bảo mật cho hệ thống thông tin. Quy định cần được phê duyệt bởi lãnh đạo đơn vị, phù hợp với quy định của Nhà nước, ngành y tế và quy chế an toàn, bảo mật của đơn vị. Quy định bao gồm tối thiểu các nội dung sau:",
+                    "points": [
+                      {
+                        "point_id": "doc:143266:part:1:article:7:clause:1:point:1",
+                        "label": "a",
+                        "content": "a) Quy định chung (phạm vi, đối tượng, khái niệm, mục\nđích).",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:143266:part:1:article:7:clause:1:point:2",
+                        "label": "b",
+                        "content": "b) Quy định cụ thể (nội dung, tiêu chuẩn, các yêu cầu\ncần tuân thủ).",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:143266:part:1:article:7:clause:1:point:3",
+                        "label": "c",
+                        "content": "c) Trách nhiệm của các bên liên quan.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:143266:part:1:article:7:clause:1:point:4",
+                        "label": "d",
+                        "content": "d) Tổ chức thực hiện.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:143266:part:1:article:7:clause:2",
+                    "number": "2",
+                    "content": "2. Định kỳ tối thiểu mỗi năm một lần, đơn vị rà\nsoát, chỉnh sửa, hoàn thiện các quy định này đảm bảo sự phù hợp, đầy đủ và hiệu quả của quy định.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:143266:part:1:article:8",
+                "number": "5",
+                "title": "Mạng nội bộ và Internet",
+                "content": "Điều 5. Mạng nội bộ và Internet",
+                "clauses": [
+                  {
+                    "clause_id": "doc:143266:part:1:article:8:clause:1",
+                    "number": "1",
+                    "content": "1. Có biện pháp phát hiện và phòng chống\nxâm nhập, phòng chống phát tán mã độc hại trên mạng nội bộ và Internet.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:143266:part:1:article:8:clause:2",
+                    "number": "2",
+                    "content": "2. Có biện pháp phòng chống tấn công\ntừ chối dịch vụ từ bên trong mạng nội bộ và bên ngoài Internet.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:143266:part:1:article:8:clause:3",
+                    "number": "3",
+                    "content": "3. Yêu cầu có các biện pháp xác thực\nđảm bảo an toàn đối với các kết nối không dây.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:143266:part:1:article:8:clause:4",
+                    "number": "4",
+                    "content": "4. Có biện pháp phân tách các phân\nvùng mạng để đảm bảo kiểm soát được các truy cập hệ thống thông tin và đảm bảo truy cập hiệu quả đối với các dữ liệu cần truy cập nhanh chóng.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:143266:part:1:article:8:clause:5",
+                    "number": "5",
+                    "content": "5. Xác định, xây dựng và triển khai\ncác phương án dự phòng cho các vị trí có mức độ ảnh hưởng cao tới hoạt động của hệ thống mạng hoặc có khả năng làm tê liệt hệ thống mạng của đơn vị khi xảy ra sự cố.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:143266:part:1:article:8:clause:6",
+                    "number": "6",
+                    "content": "6. Xác định và đảm bảo nhu cầu băng\nthông của mạng nội bộ và Internet.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:143266:part:1:article:8:clause:7",
+                    "number": "7",
+                    "content": "7. Thường xuyên cập nhật các bản vá lỗi\nhệ thống, cập nhật cấu hình cho các thiết bị mạng và các thiết bị bảo mật.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:143266:part:1:article:8:clause:8",
+                    "number": "8",
+                    "content": "8. Bảo đảm chất lượng và đầy đủ các\ntrang thiết bị mạng, an ninh, bảo mật, phần mềm chống virus, công cụ phân tích, quản trị mạng được cài đặt trong mạng của đơn vị.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:143266:part:1:article:9",
+                "number": "6",
+                "title": "Máy chủ và phần mềm hệ thống",
+                "content": "Điều 6. Máy chủ và phần mềm hệ thống",
+                "clauses": [
+                  {
+                    "clause_id": "doc:143266:part:1:article:9:clause:1",
+                    "number": "1",
+                    "content": "1. Bảo đảm có hạ tầng máy chủ và các thiết\nbị đi kèm phục vụ hệ thống thông tin đủ công suất, đạt hiệu năng yêu cầu, đảm bảo tốc độ xử lý truy xuất thông tin y tế đáp ứng yêu cầu của đơn vị.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:143266:part:1:article:9:clause:2",
+                    "number": "2",
+                    "content": "2. Yêu cầu đối với máy chủ:",
+                    "points": [
+                      {
+                        "point_id": "doc:143266:part:1:article:9:clause:2:point:1",
+                        "label": "a",
+                        "content": "a) Có tính năng sẵn sàng cao, cơ chế\ndự phòng linh hoạt để đảm bảo tính hoạt động liên tục.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:143266:part:1:article:9:clause:2:point:2",
+                        "label": "b",
+                        "content": "b) Máy chủ phải được đặt ở phòng\nriêng, được bảo vệ an toàn về mặt vật lý. Phòng máy chủ phải được khóa, đặt mã bảo vệ và được giám sát chặt chẽ. Đảm bảo môi trường cho hoạt động của máy chủ như nguồn điện, nhiệt độ phục vụ cho hoạt động liên tục của máy chủ. Có các biện pháp phòng chống cháy, nổ cho phòng máy chủ. Quy định rõ ràng về quyền hạn, trách nhiệm của những cá nhân được phép vào phòng máy chủ.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:143266:part:1:article:9:clause:3",
+                    "number": "3",
+                    "content": "3. Việc truy cập máy chủ trực tiếp hoặc\ntừ xa đều phải thông qua kiểm soát bằng mật khẩu hoặc các biện pháp kiểm soát phù hợp khác. Có phương án đặt máy chủ tại các phân vùng mạng phù hợp theo chức năng và yêu cầu bảo mật của máy chủ.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:143266:part:1:article:9:clause:4",
+                    "number": "4",
+                    "content": "4. Có biện pháp phát hiện, phòng chống\nxâm nhập, phát tán mã độc hại và virus máy tính cho máy chủ.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:143266:part:1:article:9:clause:5",
+                    "number": "5",
+                    "content": "5. Yêu cầu đối với phần mềm hệ thống:",
+                    "points": [
+                      {
+                        "point_id": "doc:143266:part:1:article:9:clause:5:point:1",
+                        "label": "a",
+                        "content": "a) Phần mềm hệ điều hành cài lên máy\nchủ ưu tiên là phần mềm hệ điều hành có bản quyền hoặc là phần mềm mã nguồn mở được sử dụng rộng rãi trong nước và quốc tế (như UNIX, LINUX và các hệ điều hành thông dụng khác).",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:143266:part:1:article:9:clause:5:point:2",
+                        "label": "b",
+                        "content": "b) Có tài liệu liệt kê, cài đặt với\nnhững phần mềm hệ thống cài trong máy chủ.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:143266:part:1:article:9:clause:5:point:3",
+                        "label": "c",
+                        "content": "c) Thường xuyên rà soát, cập nhật các\nphiên bản vá lỗi phần mềm hệ thống.",
+                        "children": []
+                      }
+                    ]
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:143266:part:1:article:10",
+                "number": "7",
+                "title": "Máy trạm",
+                "content": "Điều 7. Máy trạm",
+                "clauses": [
+                  {
+                    "clause_id": "doc:143266:part:1:article:10:clause:1",
+                    "number": "1",
+                    "content": "1. Máy trạm (bao gồm máy tính để bàn\nvà máy tính xách tay) tối thiểu yêu cầu được bảo vệ bằng mật khẩu.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:143266:part:1:article:10:clause:2",
+                    "number": "2",
+                    "content": "2. Các cơ sở dữ liệu hoặc các tập tin\nchứa thông tin y tế quan trọng yêu cầu được bảo vệ bằng mật khẩu.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:143266:part:1:article:10:clause:3",
+                    "number": "3",
+                    "content": "3. Yêu cầu có phương án phát hiện,\nphòng chống xâm nhập, phát tán mã độc hại và virus cho máy trạm.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:143266:part:1:article:10:clause:4",
+                    "number": "4",
+                    "content": "4. Yêu cầu có phương án bảo vệ dữ liệu\nmáy trạm nếu kết nối với mạng Internet.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:143266:part:1:article:10:clause:5",
+                    "number": "5",
+                    "content": "5. Đối với các máy trạm trực tiếp làm\nviệc với người dân tại các cơ sở y tế, cần đảm bảo thông tin y tế trên màn hình máy tính trong lúc làm việc không được xem bởi các cá nhân không được phép. Đặt chế độ khóa màn hình khi không làm việc trên máy tính.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:143266:part:1:article:10:clause:6",
+                    "number": "6",
+                    "content": "6. Thường xuyên cập nhật bản vá lỗi\nvà nâng cấp hệ điều hành.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:143266:part:1:article:11",
+                "number": "8",
+                "title": "Phần mềm ứng dụng",
+                "content": "Điều 8. Phần mềm ứng dụng",
+                "clauses": [
+                  {
+                    "clause_id": "doc:143266:part:1:article:11:clause:1",
+                    "number": "1",
+                    "content": "1. Các yêu cầu, thiết kế về an toàn bảo\nmật của phần mềm ứng dụng cần được xác định rõ trong tài liệu phân tích, thiết kế. Trong quá trình triển khai, vận hành các phần mềm ứng dụng cần đảm bảo nghiêm ngặt theo các yêu cầu, thiết kế về an toàn bảo mật.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:143266:part:1:article:11:clause:2",
+                    "number": "2",
+                    "content": "2. Yêu cầu có phương án xác định và\nkhắc phục rủi ro trước, trong quá trình triển khai và khi vận hành các phần mềm ứng dụng.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:143266:part:1:article:11:clause:3",
+                    "number": "3",
+                    "content": "3. Yêu cầu tiến hành kiểm tra, thử\nnghiệm và có biên bản đánh giá tính an toàn, bảo mật đối với phần mềm ứng dụng theo yêu cầu khi nghiệm thu các phần mềm này. Việc tiến hành thử nghiệm phải đảm bảo trên môi trường riêng biệt, không ảnh hưởng tới hoạt động và dữ liệu của đơn vị.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:143266:part:1:article:11:clause:4",
+                    "number": "4",
+                    "content": "4. Quản lý chặt chẽ các tài khoản\nphát sinh trước, trong và sau khi triển khai phần mềm ứng dụng.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:143266:part:1:article:11:clause:5",
+                    "number": "5",
+                    "content": "5. Quản lý và nâng cấp phiên bản",
+                    "points": [
+                      {
+                        "point_id": "doc:143266:part:1:article:11:clause:5:point:1",
+                        "label": "a",
+                        "content": "a) Yêu cầu đánh giá hiệu quả, ảnh hưởng\nkhi tích hợp với các phần mềm khác, rủi ro gặp phải khi nâng cấp phiên bản.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:143266:part:1:article:11:clause:5:point:2",
+                        "label": "b",
+                        "content": "b) Các phiên bản nâng cấp cần được thử\nnghiệm tính an toàn, bảo mật, báo cáo lãnh đạo phê duyệt trước khi đưa vào sử dụng.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:143266:part:1:article:11:clause:5:point:3",
+                        "label": "c",
+                        "content": "c) Yêu cầu có phương án phục hồi lại\nphần mềm khi không nâng cấp được phiên bản mới.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:143266:part:1:article:11:clause:5:point:4",
+                        "label": "d",
+                        "content": "d) Yêu cầu ghi lại quá trình nâng cấp\nphần mềm bao gồm lý do, phiên bản, thời gian, người nâng cấp.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:143266:part:1:article:11:clause:5:point:5",
+                        "label": "e",
+                        "content": "e) Các phiên bản phần mềm cần được quản\nlý chặt chẽ và lưu tại vị trí được bảo mật.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:143266:part:1:article:11:clause:5:point:6",
+                        "label": "g",
+                        "content": "g) Yêu cầu có tài liệu hướng dẫn nâng\ncấp, sử dụng, cài đặt chi tiết khi tiến hành nâng cấp phiên bản phần mềm.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:143266:part:1:article:11:clause:6",
+                    "number": "6",
+                    "content": "6. Kiểm soát chương trình nguồn",
+                    "points": [
+                      {
+                        "point_id": "doc:143266:part:1:article:11:clause:6:point:1",
+                        "label": "a",
+                        "content": "a) Chỉ định cụ thể các cá nhân quản\nlý chương trình nguồn của phần mềm ứng dụng.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:143266:part:1:article:11:clause:6:point:2",
+                        "label": "b",
+                        "content": "b) Việc truy cập tới chương trình nguồn\nphải được sự phê chuẩn của cấp có thẩm quyền và được ghi lại.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:143266:part:1:article:11:clause:6:point:3",
+                        "label": "c",
+                        "content": "c) Chương trình nguồn phải được lưu\ntrữ an toàn tại ít nhất hai địa điểm tách biệt.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:143266:part:1:article:11:clause:6:point:4",
+                        "label": "d",
+                        "content": "d) Phải có cam kết không chứa mã độc\nhại giữa bên cung cấp, hỗ trợ và đơn vị khi triển khai phần mềm ứng dụng.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:143266:part:1:article:11:clause:7",
+                    "number": "7",
+                    "content": "7. Khuyến khích việc tăng cường sử dụng\ncác phần mềm bản quyền, hạn chế tối đa việc sử dụng phần mềm không hợp pháp. Đơn vị, cá nhân chịu trách nhiệm về các hậu quả phát sinh do việc sử dụng các phần mềm không hợp pháp.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:143266:part:1:article:12",
+                "number": "9",
+                "title": "Thư điện tử",
+                "content": "Điều 9. Thư điện tử",
+                "clauses": [
+                  {
+                    "clause_id": "doc:143266:part:1:article:12:clause:1",
+                    "number": "1",
+                    "content": "1. Không sử dụng các hộp thư điện tử\ncông cộng, không được xác thực và không đảm bảo tính an toàn, bảo mật thông tin cho các mục đích trao đổi công việc của đơn vị. Không sử dụng thư điện tử chính thức của đơn vị vào mục đích cá nhân.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:143266:part:1:article:12:clause:2",
+                    "number": "2",
+                    "content": "2. Khuyến khích việc đặt mật khẩu và\nsử dụng các định dạng không chỉnh sửa được cho các tập tin quan trọng đính kèm thư điện tử.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:143266:part:1:article:12:clause:3",
+                    "number": "3",
+                    "content": "3. Bảo đảm mỗi hộp thư điện tử cá\nnhân chỉ được truy cập bởi cá nhân đó. Mỗi cá nhân cần đặt mật khẩu đủ mạnh cho hộp thư điện tử của mình. Chỉ có cá nhân quản lý hộp thư điện tử mới được quyền thay đổi mật khẩu hộp thư điện tử của mình.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:143266:part:1:article:12:clause:4",
+                    "number": "4",
+                    "content": "4. Đơn vị quản lý hệ thống thư điện tử\ncần có quy định về việc khóa và xóa bỏ hộp thư điện tử cá nhân khi cá nhân đó không còn làm việc tại đơn vị.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:143266:part:1:article:12:clause:5",
+                    "number": "5",
+                    "content": "5. Đơn vị quản lý hệ thống thư điện tử\ncần xây dựng phương án đảm bảo an toàn và tính sẵn sàng truy cập cho hệ thống thư điện tử trong nội bộ và trên Internet, phương án chống thư rác cho thư điện tử.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:143266:part:1:article:13",
+                "number": "10",
+                "title": "Cơ sở dữ liệu",
+                "content": "Điều 10. Cơ sở dữ liệu",
+                "clauses": [
+                  {
+                    "clause_id": "doc:143266:part:1:article:13:clause:1",
+                    "number": "1",
+                    "content": "1. Chỉ được sử dụng hệ quản trị cơ sở\ndữ liệu có bản quyền, nguồn gốc, xuất xứ rõ ràng, hoặc các hệ quản trị cơ sở dữ liệu mã nguồn mở nhưng được sử dụng rộng rãi trong nước và quốc tế (như MySQL, PostgreSQL, MongoDB hoặc các hệ quản trị cơ sở dữ liệu thông dụng khác).",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:143266:part:1:article:13:clause:2",
+                    "number": "2",
+                    "content": "2. Hệ quản trị cơ sở dữ liệu sử dụng\ncho hệ thống thông tin của đơn vị cần đáp ứng được yêu cầu hoạt động ổn định; xử lý, lưu trữ được khối lượng dữ liệu của đơn vị theo yêu cầu nghiệp vụ; có cơ chế bảo vệ và phân quyền truy cập đối với các tài nguyên cơ sở dữ liệu.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:143266:part:1:article:13:clause:3",
+                    "number": "3",
+                    "content": "3. Thường xuyên rà soát, cập nhật các\nbản vá, các bản sửa lỗi hệ quản trị cơ sở dữ liệu.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:143266:part:1:article:13:clause:4",
+                    "number": "4",
+                    "content": "4. Xây dựng phương án sao lưu, dự\nphòng đối với cơ sở dữ liệu, đảm bảo khôi phục dữ liệu nhanh chóng khi có sự cố xảy ra. Việc sao lưu dữ liệu được quy định tại Điều 11 của quy định này.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:143266:part:1:article:13:clause:5",
+                    "number": "5",
+                    "content": "5. Thực hiện phân quyền và có quy định\nchặt chẽ với từng cá nhân truy cập đến cơ sở dữ liệu, khuyến khích việc ghi nhật ký đối với các truy cập và các thao tác cơ sở dữ liệu nhưng phải không ảnh hưởng đến tốc độ xử lý dữ liệu của cơ sở dữ liệu.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:143266:part:1:article:13:clause:6",
+                    "number": "6",
+                    "content": "6. Yêu cầu có các phương án ngăn chặn\ncác hình thức tấn công và truy cập cơ sở dữ liệu trái phép.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:143266:part:1:article:14",
+                "number": "11",
+                "title": "Sao lưu, phục hồi",
+                "content": "Điều 11. Sao lưu, phục hồi",
+                "clauses": [
+                  {
+                    "clause_id": "doc:143266:part:1:article:14:clause:1",
+                    "number": "1",
+                    "content": "1. Đối với dữ liệu trên máy tính cá\nnhân:",
+                    "points": [
+                      {
+                        "point_id": "doc:143266:part:1:article:14:clause:1:point:1",
+                        "label": "a",
+                        "content": "a) Đối với các dữ liệu quan trọng,\nsao lưu cần được thực hiện khi dữ liệu có sự thay đổi. Đảm bảo các dữ liệu quan trọng được phục hồi nguyên vẹn khi cần thiết.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:143266:part:1:article:14:clause:1:point:2",
+                        "label": "b",
+                        "content": "b) Đảm bảo dữ liệu cần thiết trên máy\ntính đều được sao lưu khi có các thay đổi hoặc nâng cấp bất kỳ đối với hệ điều hành.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:143266:part:1:article:14:clause:1:point:3",
+                        "label": "c",
+                        "content": "c) Phương tiện sao lưu và quy trình\nphục hồi phải được kiểm tra thường xuyên nếu có thể để đảm bảo sẵn sàng sử dụng cho trường hợp khẩn cấp.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:143266:part:1:article:14:clause:1:point:4",
+                        "label": "d",
+                        "content": "d) Dữ liệu sao lưu phải được lưu ở vị\ntrí an toàn, cách xa dữ liệu gốc và những người không được cho phép. Đối với những dữ liệu quan trọng, khuyến khích dữ liệu sao lưu đặt cách xa vị trí địa lý của đơn vị.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:143266:part:1:article:14:clause:2",
+                    "number": "2",
+                    "content": "2. Đối với cơ sở dữ liệu trên máy chủ:",
+                    "points": [
+                      {
+                        "point_id": "doc:143266:part:1:article:14:clause:2:point:1",
+                        "label": "a",
+                        "content": "a) Các dữ liệu sao lưu và các bản sao\nlưu hoàn chỉnh của cơ sở dữ liệu và tài liệu quy trình phục hồi phải được lưu trữ ở các địa điểm cách xa vị trí cài đặt để đảm bảo tránh khỏi các sự cố nghiêm trọng nếu có. Số bản sao lưu phải được đơn vị tính toán để đảm bảo phục hồi dữ liệu theo yêu cầu của đơn vị, đặc biệt đối với các dữ liệu quan trọng.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:143266:part:1:article:14:clause:2:point:2",
+                        "label": "b",
+                        "content": "b) Phương tiện sao lưu phải được kiểm\ntra thường xuyên để sẵn sàng sử dụng trong trường hợp khẩn cấp.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:143266:part:1:article:14:clause:2:point:3",
+                        "label": "c",
+                        "content": "c) Dữ liệu sao lưu cần được lưu giữ tại\nmột địa điểm được bảo vệ vật lý và có môi trường đồng bộ với các tiêu chuẩn áp dụng tại địa điểm chính.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:143266:part:1:article:14:clause:2:point:4",
+                        "label": "d",
+                        "content": "d) Cần xác định thời gian lưu trữ cho\ncác thông tin quan trọng và các yêu cầu cho các bản sao lưu trữ vĩnh viễn.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:143266:part:1:article:14:clause:2:point:5",
+                        "label": "e",
+                        "content": "e) Quy trình phục hồi cơ sở dữ liệu\nphải được kiểm tra thường xuyên để đảm bảo hiệu quả và có thể hoàn thành trong thời gian cho phép.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:143266:part:1:article:14:clause:3",
+                    "number": "3",
+                    "content": "3. Đối với phần mềm:\nBản gốc phần mềm đã mua phải được lưu trữ an toàn để có thể cài lại nhanh chóng trong trường hợp máy tính hỏng.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:143266:part:1:article:15",
+                "number": "12",
+                "title": "Trao đổi thông tin y tế trên môi trường mạng",
+                "content": "Điều 12. Trao đổi thông tin y tế trên môi trường mạng",
+                "clauses": [
+                  {
+                    "clause_id": "doc:143266:part:1:article:15:clause:1",
+                    "number": "1",
+                    "content": "1. Sử dụng các phương pháp định danh\nphù hợp với quy định của Pháp luật và Bộ Y tế.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:143266:part:1:article:15:clause:2",
+                    "number": "2",
+                    "content": "2. Sử dụng các phương pháp mã hóa phù\nhợp đáp ứng yêu cầu bảo mật và khả năng xử lý của hệ thống thông tin để bảo mật thông tin y tế điện tử và tính toàn vẹn của thông tin.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:143266:part:1:article:15:clause:3",
+                    "number": "3",
+                    "content": "3. Các khóa mã hóa phải được khởi tạo,\nthay đổi, phân phối, lưu trữ một cách an toàn.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:143266:part:1:article:15:clause:4",
+                    "number": "4",
+                    "content": "4. Đảm bảo khôi phục được các thông\ntin đã mã hóa khi cần thiết.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:143266:part:1:article:15:clause:5",
+                    "number": "5",
+                    "content": "5. Xây dựng quy định về thu hồi, hủy\nkhóa và phục hồi khóa mã hóa.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:143266:part:1:article:16",
+                "number": "13",
+                "title": "Tài khoản người sử dụng",
+                "content": "Điều 13. Tài khoản người sử dụng",
+                "clauses": [
+                  {
+                    "clause_id": "doc:143266:part:1:article:16:clause:1",
+                    "number": "1",
+                    "content": "1. Xây dựng quy trình chính thức bằng\nvăn bản để quy định quyền truy cập vào mạng, máy chủ, phần mềm ứng dụng, cơ sở dữ liệu của từng cán bộ trong đơn vị. Các quy trình này bao gồm tất cả các quy định đối với cán bộ, bao gồm từ lúc đăng ký truy cập tới khi hủy bỏ đăng ký truy cập.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:143266:part:1:article:16:clause:2",
+                    "number": "2",
+                    "content": "2. Cần có quy định kiểm soát và theo\ndõi chặt chẽ việc truy cập vào các tài khoản đặc quyền.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:143266:part:1:article:16:clause:3",
+                    "number": "3",
+                    "content": "3. Các quy tắc bảo mật cơ bản đối với\ntài khoản người sử dụng bao gồm:",
+                    "points": [
+                      {
+                        "point_id": "doc:143266:part:1:article:16:clause:3:point:1",
+                        "label": "a",
+                        "content": "a) Chỉ cho phép mỗi người sử dụng có\nmột tài khoản truy cập.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:143266:part:1:article:16:clause:3:point:2",
+                        "label": "b",
+                        "content": "b) Áp dụng quy tắc phân quyền tài khoản\nngười sử dụng theo quyền của nhóm tài khoản.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:143266:part:1:article:16:clause:3:point:3",
+                        "label": "c",
+                        "content": "c) Yêu cầu mật khẩu được thay đổi một\ncách thường xuyên (ít nhất là mỗi tháng một lần).",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:143266:part:1:article:16:clause:3:point:4",
+                        "label": "d",
+                        "content": "d) Các đơn vị cần có quy định về mật\nkhẩu mạnh (như quy định số ký tự tối thiểu của mật khẩu, bắt buộc có cả chữ in hoa, chữ thường hay bắt buộc có cả ký tự chữ và số).",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:143266:part:1:article:16:clause:3:point:5",
+                        "label": "e",
+                        "content": "e) Khi một người dùng mới được quyền\ntruy cập vào hệ thống thông tin, đảm bảo rằng họ được cấp mật khẩu tạm thời. Sau lần truy cập đầu, người sử dụng cần thay đổi mật khẩu tạm thời này. Nếu hệ thống thông tin cho phép, yêu cầu không sử dụng lại mật khẩu cũ.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:143266:part:1:article:16:clause:3:point:6",
+                        "label": "g",
+                        "content": "g) Có quy trình để loại bỏ ngay lập tức\ncác tài khoản và quyền truy cập hệ thống của người thay đổi công việc, hoặc không còn làm việc tại đơn vị.",
+                        "children": []
+                      }
+                    ]
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:143266:part:1:article:17",
+                "number": "14",
+                "title": "Truy cập từ xa",
+                "content": "Điều 14. Truy cập từ xa",
+                "clauses": [
+                  {
+                    "clause_id": "doc:143266:part:1:article:17:clause:1",
+                    "number": "1",
+                    "content": "1. Xác thực người dùng và nhận dạng:\nchủ động xác định được ai đang sử dụng hệ thống thông tin và xác định mức độ truy cập được yêu cầu. Việc nhận dạng tối thiểu bằng mật khẩu. Đối với các tài nguyên quan trọng, cần xem xét sử dụng thẻ thông minh, sinh mã ngẫu nhiên (Token key) hoặc sinh trắc học.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:143266:part:1:article:17:clause:2",
+                    "number": "2",
+                    "content": "2. Bảo vệ các dữ liệu đang truyền\nđưa: nếu dữ liệu là bí mật cần sử dụng các công nghệ mã hóa phù hợp.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:143266:part:1:article:17:clause:3",
+                    "number": "3",
+                    "content": "3. Bảo vệ tài nguyên mạng: có phương\nán kiểm soát các tài nguyên được yêu cầu truy cập từ xa.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:143266:part:1:article:18",
+                "number": "15",
+                "title": "Hủy bỏ các thiết bị lưu trữ thông tin y tế",
+                "content": "Điều 15. Hủy bỏ các thiết bị lưu trữ thông tin y tế",
+                "clauses": [
+                  {
+                    "clause_id": "doc:143266:part:1:article:18:clause:1",
+                    "number": "1",
+                    "content": "1. Các thiết bị có chứa thông tin y tế\nquan trọng như ổ cứng, băng đĩa cần được kiểm tra và đảm bảo rằng bất kỳ dữ liệu và phần mềm cấp phép nào phải được gỡ bỏ hay định dạng lại trước khi hủy bỏ.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:143266:part:1:article:18:clause:2",
+                    "number": "2",
+                    "content": "2. Thiết bị lưu trữ thông tin y tế\nquan trọng hư hỏng không còn hoạt động phải được phá hủy vật lý trước khi hủy bỏ.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:143266:part:1:article:19",
+                "number": "16",
+                "title": "Đảm bảo tính liên tục của hệ thống thông tin",
+                "content": "Điều 16. Đảm bảo tính liên tục của hệ thống thông tin",
+                "clauses": [
+                  {
+                    "clause_id": "doc:143266:part:1:article:19:clause:1",
+                    "number": "1",
+                    "content": "1. Xây dựng, ban hành phương án đảm bảo\ntính liên tục của hệ thống thông tin.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:143266:part:1:article:19:clause:2",
+                    "number": "2",
+                    "content": "2. Có phương án sao lưu, phục hồi dữ\nliệu theo quy định tại Điều 11 của Quyết định này.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:143266:part:1:article:19:clause:3",
+                    "number": "3",
+                    "content": "3. Đảm bảo việc truy cập dữ liệu\nnhanh chóng, không gián đoạn.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:143266:part:1:article:19:clause:4",
+                    "number": "4",
+                    "content": "4. Có phương án đảm bảo dự phòng hệ\nthống mạng theo quy định tại Điều 5 của Quy định này.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:143266:part:1:article:19:clause:5",
+                    "number": "5",
+                    "content": "5. Có phương án đảm bảo tính liên tục\ncủa hệ thống máy chủ. Khuyến khích sử dụng các công nghệ đảm bảo tính sẵn sàng cho hệ thống máy chủ.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:143266:part:1:article:20",
+                "number": "17",
+                "title": "Quản lý sự cố",
+                "content": "Điều 17. Quản lý sự cố",
+                "clauses": [
+                  {
+                    "clause_id": "doc:143266:part:1:article:20:clause:1",
+                    "number": "1",
+                    "content": "1. Xây dựng quy trình quản lý sự cố\ntrong hoạt động công nghệ thông tin của đơn vị mình. Quy trình quản lý sự cố phải được rà soát, cập nhật sự cố và các phương án xử lý tối thiểu sáu tháng một lần.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:143266:part:1:article:20:clause:2",
+                    "number": "2",
+                    "content": "2. Áp dụng các giải pháp kỹ thuật để\nphát hiện, xử lý kịp thời các cuộc tấn công từ chối dịch vụ như sử dụng thiết bị tường lửa; thiết bị phát hiện và ngăn chặn xâm nhập; các thiết bị chuyên dụng cảnh báo tấn công, làm lệch hướng lưu lượng mạng; lọc gói tin khi bị tấn công.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:143266:part:1:article:20:clause:3",
+                    "number": "3",
+                    "content": "3. Yêu cầu bên cung cấp, hỗ trợ cung\ncấp quy trình xử lý sự cố cho các dịch vụ do bên cung cấp, hỗ trợ cung cấp liên quan đến hệ thống.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:143266:part:1:article:21",
+                "number": "18",
+                "title": "Bố trí nhân sự",
+                "content": "Điều 18. Bố trí nhân sự",
+                "clauses": [
+                  {
+                    "clause_id": "doc:143266:part:1:article:21:clause:1",
+                    "number": "1",
+                    "content": "1. Mỗi đơn vị cần bố trí tối thiểu một\ncán bộ có chuyên môn phù hợp làm đầu mối theo dõi công tác đảm bảo an toàn, bảo mật thông tin y tế điện tử tại đơn vị.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:143266:part:1:article:21:clause:2",
+                    "number": "2",
+                    "content": "2. Các nhiệm vụ quản trị hệ thống;\nphát triển, bảo trì phần mềm ứng dụng và vận hành hệ thống cần được phân công cho từng bộ phận, cá nhân cụ thể. Đảm bảo không có cá nhân nào có thể có toàn quyền trên hệ thống trừ cá nhân được lãnh đạo đơn vị cho phép. Ban hành quy định bằng văn bản về trách nhiệm và phân quyền rõ ràng cho từng nhóm bộ phận, cá nhân nêu trên.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:143266:part:1:article:21:clause:3",
+                    "number": "3",
+                    "content": "3. Yêu cầu có phương án quản lý chặt\nchẽ việc truy cập hệ thống thông qua tài khoản đặc quyền.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:143266:part:1:article:21:clause:4",
+                    "number": "4",
+                    "content": "4. Tổ chức đào tạo, nâng cao chuyên\nmôn nghiệp vụ cho các cán bộ làm công tác an toàn thông tin tại đơn vị.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:143266:part:1:article:21:clause:5",
+                    "number": "5",
+                    "content": "5. Phổ biến quy định về an toàn thông\ntin cho các cán bộ khi được tuyển dụng vào đơn vị.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:143266:part:1:article:22",
+                "number": "19",
+                "title": "Giám sát bên cung cấp, hỗ trợ",
+                "content": "Điều 19. Giám sát bên cung cấp, hỗ trợ",
+                "clauses": [
+                  {
+                    "clause_id": "doc:143266:part:1:article:22:clause:1",
+                    "number": "1",
+                    "content": "1. Có quy định cụ thể, rõ ràng và thực\nhiện đầy đủ công tác quản lý, giám sát nhân sự bên cung cấp, hỗ trợ khi truy cập vào hệ thống.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:143266:part:1:article:22:clause:2",
+                    "number": "2",
+                    "content": "2. Có quy định cụ thể bằng văn bản và\nđược lãnh đạo đơn vị chấp thuận về phương án đảm bảo an toàn, bảo mật thông tin khi có bên cung cấp, hỗ trợ truy cập trực tiếp hay gián tiếp vào hệ thống.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:143266:part:1:chapter:3",
+            "number": "III",
+            "title": "TỔ CHỨC THỰC HIỆN",
+            "content": "Chương III\nTỔ CHỨC THỰC HIỆN",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:143266:part:1:article:23",
+                "number": "20",
+                "title": "Trách nhiệm thi hành",
+                "content": "Điều 20. Trách nhiệm thi hành",
+                "clauses": [
+                  {
+                    "clause_id": "doc:143266:part:1:article:23:clause:1",
+                    "number": "1",
+                    "content": "1. Cục Công nghệ thông tin có trách\nnhiệm hướng dẫn, theo dõi, kiểm tra việc thi hành Quy định này của các đơn vị thuộc ngành y tế. Hàng năm thông qua báo cáo của các đơn vị hoặc thực hiện kiểm tra tại chỗ để đánh giá việc tuân thủ quy định và đảm bảo an toàn, bảo mật cho hệ thống của các đơn vị; tổng hợp, báo cáo lãnh đạo Bộ tình hình về an toàn, bảo mật hệ thống của các đơn vị trong ngành y tế.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:143266:part:1:article:23:clause:2",
+                    "number": "2",
+                    "content": "2. Hàng năm Cục Công nghệ thông tin -\nBộ Y tế có trách nhiệm tổ chức các lớp đào tạo, cập nhật bổ sung về công tác đảm bảo an toàn thông tin y tế cho các đơn vị.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:143266:part:1:article:24",
+                "number": "21",
+                "title": "Yêu cầu báo cáo",
+                "content": "Điều 21. Yêu cầu báo cáo",
+                "clauses": [
+                  {
+                    "clause_id": "doc:143266:part:1:article:24:clause:1",
+                    "number": "1",
+                    "content": "1. Sở Y tế và các đơn vị trực thuộc Bộ\nY tế có trách nhiệm gửi báo cáo hàng năm theo mẫu tại Phụ lục I về tình hình đảm bảo an toàn thông tin y tế điện tử tại đơn vị mình và các đơn vị trực thuộc trước ngày 31 tháng 03 hàng năm; hoặc báo cáo đột xuất theo yêu cầu của Bộ Y tế.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:143266:part:1:article:24:clause:2",
+                    "number": "2",
+                    "content": "2. Các báo cáo theo yêu cầu của khoản\n1 điều này được gửi về Cục Công nghệ thông tin - Bộ Y tế.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          }
+        ],
+        "sections": [],
+        "articles": [
+          {
+            "article_id": "doc:143266:part:1:article:1",
+            "number": "1",
+            "title": "Ban hành kèm theo quyết định này “Quy định về đảm bảo an toàn thông tin y tế điện tử tại các đơn vị trong ngành y tế”.",
+            "content": "Điều 1. Ban hành kèm theo quyết định này “Quy định về đảm bảo an toàn thông tin y tế điện tử tại các đơn vị trong ngành y tế”.",
+            "clauses": [],
+            "points": []
+          },
+          {
+            "article_id": "doc:143266:part:1:article:2",
+            "number": "2",
+            "title": "Quyết định này có hiệu lực kể từ ngày ký ban hành.",
+            "content": "Điều 2. Quyết định này có hiệu lực kể từ ngày ký ban hành.",
+            "clauses": [],
+            "points": []
+          },
+          {
+            "article_id": "doc:143266:part:1:article:3",
+            "number": "3",
+            "title": "Chánh văn phòng Bộ, Cục trưởng Cục Công nghệ thông tin, Thủ trưởng các đơn vị thuộc/trực thuộc Bộ Y tế và các đơn vị, tổ chức liên quan chịu trách nhiệm thi hành quyết định này./.",
+            "content": "Điều 3. Chánh văn phòng Bộ, Cục trưởng Cục Công nghệ thông tin, Thủ trưởng các đơn vị thuộc/trực thuộc Bộ Y tế và các đơn vị, tổ chức liên quan chịu trách nhiệm thi hành quyết định này./.",
+            "clauses": [],
+            "points": []
+          }
+        ],
+        "unstructured_blocks": []
+      },
+      {
+        "part_id": "doc:143266:part:2",
+        "part_type": "appendix",
+        "part_title": "PHỤ LỤC I",
+        "reference": null,
+        "direct_text": null,
+        "chapters": [],
+        "sections": [],
+        "articles": [],
+        "unstructured_blocks": [
+          {
+            "block_id": "doc:143266:part:2:block:1",
+            "content": "PHỤ LỤC I",
+            "indexable": true
+          }
+        ]
+      },
+      {
+        "part_id": "doc:143266:part:3",
+        "part_type": "form",
+        "part_title": "BIỂU MẪU BÁO CÁO TÌNH HÌNH ĐẢM BẢO AN TOÀN",
+        "reference": null,
+        "direct_text": "BIỂU MẪU BÁO CÁO TÌNH HÌNH ĐẢM BẢO AN TOÀN\nTHÔNG TIN Y TẾ ĐIỆN TỬ\n(Ban hành kèm theo Quyết định số\n/QĐ-BYT ngày tháng năm 2014 của Bộ trưởng Bộ Y tế)\nVỊ\n1. Các hệ thống, phần mềm ứng dụng của đơn vị hiện\nđang sử dụng\n2. Các nội dung đảm bảo an toàn thông tin theo\nquy định này\na) Ban hành (hoặc chỉnh sửa) quyết định đảm bảo an\ntoàn hệ thống thông tin tại đơn vị\nb) Mạng nội bộ và Internet\nc) Máy chủ và phần mềm hệ thống\nd) Máy trạm\ne) Phần mềm ứng dụng\ng) Thư điện tử\nh) Cơ sở dữ liệu\ni) Sao lưu, phục hồi\nk) Trao đổi thông tin y tế trên môi\ntrường mạng\nl) Tài khoản người sử dụng\nm) Truy cập từ xa\nn) Hủy bỏ các thiết bị lưu trữ thông\ntin y tế\no) Đảm bảo tính liên tục của hệ thống\np) Quản lý sự cố\nq) Tổ chức thực hiện\n3. Những sự cố phát sinh trong năm\nvà phương án khắc phục\n4. Kiến nghị, đề xuất\n………., ngày ……. tháng …… năm …….. Người lập báo cáo (Ký và ghi rõ họ, tên) ………., ngày ……. tháng …… năm …….. Thủ trưởng cơ quan (Ký tên, đóng dấu)",
+        "chapters": [],
+        "sections": [
+          {
+            "section_id": "doc:143266:part:3:section:1",
+            "number": "1",
+            "title": "1. Năm báo cáo: ………. 2. Tên cơ quan báo cáo: ……… 3. Địa chỉ: ………. 4. Điện thoại: ……………… Fax: ……………… 5. Thư điện tử liên hệ: ………….. 6. Địa chỉ trang/cổng thông tin điện tử (Website/Portal) chính thức: ……",
+            "content": "MỤC 1. THÔNG TIN CHUNG\n1. Năm báo cáo: ……….\n2. Tên cơ quan báo cáo: ………\n3. Địa chỉ: ……….\n4. Điện thoại: ……………… Fax: ………………\n5. Thư điện tử liên hệ: …………..\n6. Địa chỉ trang/cổng thông tin điện tử\n(Website/Portal) chính thức: ……",
+            "articles": []
+          },
+          {
+            "section_id": "doc:143266:part:3:section:2",
+            "number": "2",
+            "title": "1. Họ và tên người thực hiện báo cáo: ……….. 2. Đơn vị công tác: ………….. 3. Chức vụ: ………… 4. Điện thoại cố định: ………….. Điện thoại di động: …………. 5. Thư điện tử: ………",
+            "content": "MỤC 2. THÔNG TIN LIÊN HỆ\n1. Họ và tên người thực hiện báo cáo: ………..\n2. Đơn vị công tác: …………..\n3. Chức vụ: …………\n4. Điện thoại cố định: ………….. Điện thoại di động:\n………….\n5. Thư điện tử: ……….",
+            "articles": []
+          },
+          {
+            "section_id": "doc:143266:part:3:section:3",
+            "number": "3",
+            "title": "TÌNH HÌNH ĐẢM BẢO AN TOÀN THÔNG TIN TẠI ĐƠN",
+            "content": "MỤC 3. TÌNH HÌNH ĐẢM BẢO AN TOÀN THÔNG TIN TẠI ĐƠN",
+            "articles": []
+          }
+        ],
+        "articles": [],
+        "unstructured_blocks": []
+      }
+    ]
+  },
+  "issues": [],
+  "status": "ok",
+  "source_hash": "context_143266.json",
+  "stats": {
+    "source_chars": 21486,
+    "passage_chars": 21339,
+    "parts": 3,
+    "chapters": 3,
+    "sections": 3,
+    "articles": 24,
+    "clauses": 83,
+    "points": 45
+  }
+}

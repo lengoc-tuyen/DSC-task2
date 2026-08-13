@@ -1,0 +1,439 @@
+{
+  "schema_version": "2.0",
+  "document_id": 143628,
+  "metadata": {
+    "name": "Thong-tu-71-2015-TT-BTNMT-quy-dinh-ky-thuat-dat-chup-anh-vien-tham-299562",
+    "link": "https://thuvienphapluat.vn/van-ban/Tai-nguyen-Moi-truong/Thong-tu-71-2015-TT-BTNMT-quy-dinh-ky-thuat-dat-chup-anh-vien-tham-299562.aspx",
+    "issuing_agency": "BỘ TÀI NGUYÊN VÀ MÔI TRƯỜNG",
+    "national_header": "CỘNG\r\n\n  HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM",
+    "motto": "Độc lập - Tự do - Hạnh phúc",
+    "document_number": "71/2015/TT-BTNMT",
+    "issued_place": "Hà Nội",
+    "issued_date": "ngày 24 tháng 12 năm 2015",
+    "document_type": "THÔNG TƯ",
+    "title": "QUY ĐỊNH KỸ THUẬT ĐẶT CHỤP ẢNH VIỄN THÁM"
+  },
+  "administrative_header": {
+    "removed": true,
+    "removed_char_count": 169
+  },
+  "preamble": {
+    "text": "THÔNG TƯ\nQUY ĐỊNH KỸ THUẬT ĐẶT CHỤP ẢNH VIỄN THÁM\nCăn cứ Nghị định số 21/2013/NĐ-CP ngày 04 tháng 3 năm 2013 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài nguyên và Môi trường; Căn cứ Quyết định số 30/2014/QĐ-TTg ngày 26 tháng 4 năm 2014 của Thủ tướng chính phủ về việc Quản lý, vận hành và khai thác vệ tinh quan sát trái đất đầu tiên của Việt Nam VNREDSat-1; Căn cứ Quyết định số 81/2010/QĐ-TTg ngày 13 tháng 12 năm 2010 của Thủ tướng Chính phủ quy định về thu nhận, xử lý, khai thác và sử dụng dữ liệu viễn thám quốc gia; Quyết định số 76/2014/QĐ-TTg ngày 24 tháng 12 năm 2014 của Thủ tướng Chính phủ sửa đổi, bổ sung một số điều của Quyết định số 81/2010/QĐ-TTg ngày 13 tháng 12 năm 2010 của Thủ tướng Chính phủ quy định về thu nhận, lưu trữ, xử lý, khai thác và sử dụng dữ liệu viễn thám quốc gia; Xét đề nghị của Cục trưởng Cục Viễn thám quốc gia, Vụ trưởng Vụ Khoa học và Công nghệ và Vụ trưởng Vụ Pháp chế, Bộ trưởng Bộ Tài nguyên và Môi trường ban hành Thông tư quy định kỹ thuật đặt chụp ảnh viễn thám.\nChương I\nQUY ĐỊNH CHUNG",
+    "legal_bases": [
+      "Căn cứ Quyết định số 30/2014/QĐ-TTg ngày 26 tháng 4 năm 2014 của Thủ tướng chính phủ về việc Quản lý, vận hành và khai thác vệ tinh quan sát trái đất đầu tiên của Việt Nam VNREDSat-1",
+      "Căn cứ Quyết định số 81/2010/QĐ-TTg ngày 13 tháng 12 năm 2010 của Thủ tướng Chính phủ quy định về thu nhận, xử lý, khai thác và sử dụng dữ liệu viễn thám quốc gia"
+    ],
+    "proposals": [
+      "Xét đề nghị của Cục trưởng Cục Viễn thám quốc gia, Vụ trưởng Vụ Khoa học và Công nghệ và Vụ trưởng Vụ Pháp chế, Bộ trưởng Bộ Tài nguyên và Môi trường ban hành Thông tư quy định kỹ thuật đặt chụp ảnh viễn thám.\nChương I\nQUY ĐỊNH CHUNG"
+    ],
+    "enactment_formula": null
+  },
+  "passage": "THÔNG TƯ\nQUY ĐỊNH KỸ THUẬT ĐẶT CHỤP ẢNH VIỄN THÁM\nCăn cứ Nghị định số 21/2013/NĐ-CP ngày 04 tháng 3 năm 2013 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài nguyên và Môi trường; Căn cứ Quyết định số 30/2014/QĐ-TTg ngày 26 tháng 4 năm 2014 của Thủ tướng chính phủ về việc Quản lý, vận hành và khai thác vệ tinh quan sát trái đất đầu tiên của Việt Nam VNREDSat-1; Căn cứ Quyết định số 81/2010/QĐ-TTg ngày 13 tháng 12 năm 2010 của Thủ tướng Chính phủ quy định về thu nhận, xử lý, khai thác và sử dụng dữ liệu viễn thám quốc gia; Quyết định số 76/2014/QĐ-TTg ngày 24 tháng 12 năm 2014 của Thủ tướng Chính phủ sửa đổi, bổ sung một số điều của Quyết định số 81/2010/QĐ-TTg ngày 13 tháng 12 năm 2010 của Thủ tướng Chính phủ quy định về thu nhận, lưu trữ, xử lý, khai thác và sử dụng dữ liệu viễn thám quốc gia; Xét đề nghị của Cục trưởng Cục Viễn thám quốc gia, Vụ trưởng Vụ Khoa học và Công nghệ và Vụ trưởng Vụ Pháp chế, Bộ trưởng Bộ Tài nguyên và Môi trường ban hành Thông tư quy định kỹ thuật đặt chụp ảnh viễn thám.\nChương I\nQUY ĐỊNH CHUNG\nĐiều 1. Phạm vi điều chỉnh Thông tư này quy định về nội dung và kỹ thuật của việc đặt chụp ảnh viễn thám.\nĐiều 2. Đối tượng áp dụng Thông tư này áp dụng đối với các cơ quan, tổ chức, cá nhân có các hoạt động liên quan đến việc đặt chụp ảnh viễn thám.\nĐiều 3. Giải thích từ ngữ Trong Thông tư này, các từ ngữ dưới đây được hiểu như sau:\n1. Đặt chụp ảnh viễn thám là\nviệc xác định yêu cầu chụp ảnh, xây dựng đơn hàng và theo dõi quá trình thực hiện đơn hàng đặt chụp ảnh viễn thám.\n2. Bên đặt chụp ảnh viễn thám\n(sau đây gọi là Bên đặt chụp ảnh) là cơ quan, tổ chức có chức năng đặt chụp ảnh viễn thám và được cấp có thẩm quyền cho phép.\n3. Khách hàng là các cơ quan,\ntổ chức hoặc cá nhân có nhu cầu về đặt chụp ảnh viễn thám.\n4. Đơn hàng đặt ảnh viễn thám\nlà thỏa thuận về đặt chụp dữ liệu ảnh viễn thám giữa khách hàng và bên đặt chụp ảnh.\n5. Ảnh\nxem nhanh (từ tiếng Anh là Quicklook) là ảnh có kích thước nhỏ, được rút gọn từ ảnh thực.\n6. Kích thước đặt ảnh viễn thám tối thiểu là diện tích và độ dài cạnh nhỏ nhất\ncho phép của vùng đặt chụp ảnh trên thực địa và được quy định riêng đối với từng loại ảnh viễn thám.\nChương II\nQUY ĐỊNH KỸ THUẬT ĐẶT CHỤP ẢNH VIỄN THÁM\nĐiều 4. Xác định yêu cầu về dữ liệu viễn thám\n1. Căn cứ vào yêu cầu về dữ liệu viễn\nthám của khách hàng, bên đặt chụp ảnh phải chuẩn hóa nội dung các thông tin phục vụ đặt ảnh viễn thám, bao gồm:\na) Vị trí, phạm vi của khu vực đặt chụp\nảnh được dựa trên một trong các trường hợp sau: - Hình đa giác với các tọa độ của các đỉnh đa giác. Các cạnh của đa giác không được cắt nhau, số đỉnh tối thiểu là 3 và tối đa là 99; - Hình chữ nhật với tọa độ góc trên bên trái và góc dưới bên phải; - Hình tròn với tọa độ tâm và bán kính (độ chính xác đến giây hoặc km). Tọa độ có thể là tọa độ địa lý (độ chính xác đến giây) hoặc tọa độ bản đồ (độ chính xác đến km); - Địa danh, địa giới; - Theo các đối tượng hình tuyến, đường bờ (sông, biển); Trên cơ sở các thông tin trên, bên đặt chụp ảnh phải xây dựng sơ đồ để xác định chính xác vị trí, phạm vi khu vực đặt chụp ảnh.\nb) Thời điểm và tần suất chụp ảnh\n- Thời điểm xác định theo ngày, tháng, năm hoặc theo mùa; - Tần suất chụp một lần hay lặp lại nhiều lần.\nc) Thông số kỹ thuật của ảnh\n- Tên loại dữ liệu ảnh (bộ cảm hoặc vệ tinh); - Chế độ chụp ảnh; - Góc nghiêng chụp ảnh; - Độ phủ chờm giữa các ảnh; - Kênh phổ; - Độ phân giải mặt đất; - Số lượng bit để biểu diễn giá trị độ xám của điểm ảnh.\nd) Mục đích sử dụng ảnh viễn thám.\nđ) Độ che phủ mây theo các mức quy định\ntại Thông tư số 10/2015/TT-BTNMT ngày 25 tháng 03 năm 2015 của Bộ Tài nguyên và Môi trường quy định kỹ thuật về sản xuất ảnh viễn thám quang học độ phân giải cao và siêu cao để cung cấp đến người sử dụng.\ne) Hệ tọa độ: hệ tọa độ Quốc gia\nVN-2000 hoặc hệ tọa độ khác theo nhu cầu của khách hàng.\n2. Đối với các yêu cầu khẩn cấp, chỉ\ncần xác định khu vực đặt chụp ảnh dựa trên các thông tin về tọa độ hoặc địa danh, phạm vi của khu vực và thời điểm cần đặt chụp ảnh viễn thám.\nĐiều 5. Xây dựng đơn hàng đặt chụp ảnh viễn thám Bên đặt chụp ảnh phải thực hiện các công đoạn sau:\n1. Phân loại, sắp xếp các yêu cầu chụp\nảnh theo mức độ ưu tiên.\n2. Phân tích, đánh giá sự phù hợp giữa\nnhu cầu ứng dụng của khách hàng với loại ảnh viễn thám và các thông số tương ứng được yêu cầu. Dựa trên kết quả phân tích, đánh giá, cùng với khách hàng lựa chọn và đặt hàng các loại ảnh viễn thám với các thông số thích hợp nhất.\n3. Tính toán xác định kích thước các\nvùng đặt chụp ảnh. Nếu kích thước các vùng đặt chụp nhỏ hơn kích thước đặt chụp ảnh tối thiểu thì phải thống nhất với khách hàng để chỉnh sửa lại, bảo đảm tất cả các vùng đặt chụp đều có kích thước đạt yêu cầu.\n4. Đánh giá bước đầu tính khả thi của\nyêu cầu đặt chụp ảnh của khách hàng và phân loại theo 3 mức: cao, trung bình và thấp.\n5. Ước tính diện tích, số lượng ảnh\nhoặc dải ảnh cần chụp, khoảng thời gian cần thiết để hoàn thành toàn bộ hoặc từng phần của yêu cầu đặt chụp ảnh.\n6. Điều chỉnh yêu cầu đặt chụp ảnh đối\nvới trường hợp nếu khách hàng muốn thay đổi tính khả thi, diện tích, số lượng ảnh hoặc thời gian thi công ước tính.\nĐiều 6. Đặt chụp ảnh viễn thám\n1. Bên đặt chụp ảnh tổng hợp các yêu\ncầu đặt chụp ảnh, bao gồm yêu cầu đặt chụp ảnh mới và các đơn hàng đặt chụp ảnh đang tiến hành. Nếu có khu vực yêu cầu đặt chụp trùng nhau về vị trí thì sẽ ưu tiên yêu cầu có đòi hỏi cao hơn về thời gian thực hiện hoặc các thông số kỹ thuật.\n2. Bên đặt chụp ảnh gửi đơn hàng tới\ncơ quan vận hành vệ tinh.\nĐiều 7. Xác nhận và chính xác hóa nội dung đơn hàng Trên cơ sở đơn hàng đã được xây dựng tại Điều 5 Thông tư này, bên đặt chụp ảnh phối hợp với cơ quan vận hành vệ tinh tiến hành xác nhận và chính xác hóa nội dung của đơn hàng, bao gồm các bước sau:\n1. Phân tích, đánh giá chi tiết tính\nkhả thi của đơn hàng theo các mức độ như ở Khoản 4 Điều 5 Thông tư này trên cơ sở phân tích, cân đối giữa các yếu tố sau:\na) Thời điểm, khu vực và các thông số\nkỹ thuật của yêu cầu đặt chụp ảnh;\nb) Các đơn hàng, yêu cầu đặt chụp ảnh\nkhác đang và sẽ được cơ quan vận hành vệ tinh thực hiện;\nc) Năng lực chụp ảnh và tài nguyên hiện\ncó của vệ tinh;\nd) Số liệu thống kê về điều kiện thời\ntiết của khu vực cần chụp ảnh viễn thám trong các năm trước;\nđ) Thông tin dự báo thời tiết tại khu\nvực đặt chụp ảnh của Trung tâm Khí tượng Thủy văn quốc gia.\n2. Tính toán xác định chính xác diện\ntích, số lượng ảnh hoặc dải ảnh cần chụp và thời gian, thời điểm thi công các hạng mục của yêu cầu chụp ảnh.\n3. Điều chỉnh đơn hàng đặt chụp ảnh nếu\nkhách hàng muốn thay đổi tính khả thi, diện tích, số lượng ảnh hoặc thời gian thi công ước tính.\n4. Bên đặt chụp ảnh chính thức xác nhận\nnội dung đơn hàng và thời gian thi công với cơ quan vận hành vệ tinh và khách hàng.\nĐiều 8. Theo dõi việc thực hiện đơn hàng đặt chụp ảnh viễn thám Trong quá trình thi công đơn hàng, bên đặt chụp ảnh phải thường xuyên tiến hành các công việc sau:\n1. Kiểm tra, đánh giá chất lượng các ảnh\nđã chụp được thông qua ảnh xem nhanh. Nếu chất lượng ảnh chưa đạt yêu cầu thì phải thông báo cho cơ quan vận hành vệ tinh để tiến hành chụp lại. Nội dung các hạng mục cần kiểm tra được thực hiện theo quy định tại Điều 9 Thông tư này.\n2. Theo dõi các thông tin về thời tiết\ntại các khu vực thi công. Nếu dự báo thời tiết tại các khu vực đặt chụp thuận lợi (bầu trời trong, ít mây), bên đặt chụp ảnh sẽ chủ động yêu cầu cơ quan vận hành vệ tinh đẩy nhanh tiến độ chụp ảnh viễn thám. Trường hợp dự báo thời tiết không thuận lợi, bên đặt chụp ảnh sẽ đề nghị cơ quan vận hành vệ tinh tạm dừng chụp ảnh viễn thám.\nĐiều 9. Kiểm tra chất lượng ảnh viễn thám\n1. Bên đặt chụp ảnh viễn thám phải\nthường xuyên kiểm tra, đánh giá chất lượng ảnh viễn thám đã chụp được trong suốt quá trình thực hiện đơn hàng theo đúng các tiêu chuẩn, quy chuẩn kỹ thuật và các quy định hiện hành của Nhà nước. Các nội dung kiểm tra bao gồm:\na) Vị trí của ảnh viễn thám đã chụp\nphải trùng với vị trí khu vực đặt chụp trong đơn hàng;\nb) Độ che phủ mây của ảnh viễn thám\nđã chụp phải thấp hơn hoặc bằng độ che phủ mây theo yêu cầu;\nc) Ảnh viễn thám đã chụp phải đảm bảo\nvề chất lượng hình ảnh trong quá trình thu nhận và xử lý tín hiệu. Tín hiệu không bị lỗi hay bị đứt đoạn, ảnh có độ tương phản đồng đều, không bị lóa, không quá tối, không có những đốm hoặc vệt đen do các lỗi của hệ thống.\n2. Trường hợp ảnh viễn thám đã chụp\nchưa đạt yêu cầu, bên đặt chụp ảnh viễn thám sẽ yêu cầu cơ quan vận hành vệ tinh tiến hành chụp lại.\nChương III\nĐIỀU KHOẢN THI HÀNH\nĐiều 10. Hiệu lực thi hành Thông tư này có hiệu lực từ ngày 15 tháng 02 năm 2016.\nĐiều 11. Tổ chức thực hiện\n1. Bộ, cơ quan ngang Bộ, cơ quan thuộc\nChính phủ; Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này.\n2. Cục Viễn thám quốc gia, Bộ Tài\nnguyên và Môi trường có trách nhiệm hướng dẫn, kiểm tra việc thực hiện Thông tư này.\n3. Sở Tài nguyên và Môi trường các tỉnh\ncó trách nhiệm giúp Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương triển khai thực hiện Thông tư này ở địa phương.\n4. Trong quá trình thực hiện, nếu có vướng\nmắc, đề nghị các cơ quan, tổ chức, cá nhân phản ánh kịp thời về Bộ Tài nguyên và Môi trường để xem xét, quyết định./.\nNơi nhận:\n- Văn phòng Quốc hội;\n- Văn phòng Chính phủ;\n- Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ;\n- Kiểm toán Nhà nước;\n- UBND các tỉnh, thành phố trực thuộc Trung ương;\n- Cục kiểm tra văn bản QPPL - Bộ Tư pháp;\n- Bộ trưởng, các Thứ trưởng Bộ TN&MT;\n- Sở TNMT các tỉnh, thành phố trực thuộc Trung ương;\n- Công báo; CTTĐT Chính phủ;\n- Các đơn vị thuộc Bộ TN&MT, Cổng TTĐT Bộ TN&MT;\n- Lưu: VT, PC, KHCN, VTQG.\nKT.\nBỘ TRƯỞNG\nTHỨ TRƯỞNG\nNguyễn Thái Lai",
+  "tree": {
+    "parts": [
+      {
+        "part_id": "doc:143628:part:1",
+        "part_type": "main",
+        "part_title": null,
+        "reference": null,
+        "direct_text": "THÔNG TƯ\nQUY ĐỊNH KỸ THUẬT ĐẶT CHỤP ẢNH VIỄN THÁM\nCăn cứ Nghị định số 21/2013/NĐ-CP ngày 04 tháng 3 năm 2013 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài nguyên và Môi trường; Căn cứ Quyết định số 30/2014/QĐ-TTg ngày 26 tháng 4 năm 2014 của Thủ tướng chính phủ về việc Quản lý, vận hành và khai thác vệ tinh quan sát trái đất đầu tiên của Việt Nam VNREDSat-1; Căn cứ Quyết định số 81/2010/QĐ-TTg ngày 13 tháng 12 năm 2010 của Thủ tướng Chính phủ quy định về thu nhận, xử lý, khai thác và sử dụng dữ liệu viễn thám quốc gia; Quyết định số 76/2014/QĐ-TTg ngày 24 tháng 12 năm 2014 của Thủ tướng Chính phủ sửa đổi, bổ sung một số điều của Quyết định số 81/2010/QĐ-TTg ngày 13 tháng 12 năm 2010 của Thủ tướng Chính phủ quy định về thu nhận, lưu trữ, xử lý, khai thác và sử dụng dữ liệu viễn thám quốc gia; Xét đề nghị của Cục trưởng Cục Viễn thám quốc gia, Vụ trưởng Vụ Khoa học và Công nghệ và Vụ trưởng Vụ Pháp chế, Bộ trưởng Bộ Tài nguyên và Môi trường ban hành Thông tư quy định kỹ thuật đặt chụp ảnh viễn thám.",
+        "chapters": [
+          {
+            "chapter_id": "doc:143628:part:1:chapter:1",
+            "number": "I",
+            "title": "QUY ĐỊNH CHUNG",
+            "content": "Chương I\nQUY ĐỊNH CHUNG",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:143628:part:1:article:1",
+                "number": "1",
+                "title": "Phạm vi điều chỉnh Thông tư này quy định về nội dung và kỹ thuật của việc đặt chụp ảnh viễn thám.",
+                "content": "Điều 1. Phạm vi điều chỉnh Thông tư này quy định về nội dung và kỹ thuật của việc đặt chụp ảnh viễn thám.",
+                "clauses": [],
+                "points": []
+              },
+              {
+                "article_id": "doc:143628:part:1:article:2",
+                "number": "2",
+                "title": "Đối tượng áp dụng Thông tư này áp dụng đối với các cơ quan, tổ chức, cá nhân có các hoạt động liên quan đến việc đặt chụp ảnh viễn thám.",
+                "content": "Điều 2. Đối tượng áp dụng Thông tư này áp dụng đối với các cơ quan, tổ chức, cá nhân có các hoạt động liên quan đến việc đặt chụp ảnh viễn thám.",
+                "clauses": [],
+                "points": []
+              },
+              {
+                "article_id": "doc:143628:part:1:article:3",
+                "number": "3",
+                "title": "Giải thích từ ngữ Trong Thông tư này, các từ ngữ dưới đây được hiểu như sau:",
+                "content": "Điều 3. Giải thích từ ngữ Trong Thông tư này, các từ ngữ dưới đây được hiểu như sau:",
+                "clauses": [
+                  {
+                    "clause_id": "doc:143628:part:1:article:3:clause:1",
+                    "number": "1",
+                    "content": "1. Đặt chụp ảnh viễn thám là\nviệc xác định yêu cầu chụp ảnh, xây dựng đơn hàng và theo dõi quá trình thực hiện đơn hàng đặt chụp ảnh viễn thám.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:143628:part:1:article:3:clause:2",
+                    "number": "2",
+                    "content": "2. Bên đặt chụp ảnh viễn thám\n(sau đây gọi là Bên đặt chụp ảnh) là cơ quan, tổ chức có chức năng đặt chụp ảnh viễn thám và được cấp có thẩm quyền cho phép.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:143628:part:1:article:3:clause:3",
+                    "number": "3",
+                    "content": "3. Khách hàng là các cơ quan,\ntổ chức hoặc cá nhân có nhu cầu về đặt chụp ảnh viễn thám.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:143628:part:1:article:3:clause:4",
+                    "number": "4",
+                    "content": "4. Đơn hàng đặt ảnh viễn thám\nlà thỏa thuận về đặt chụp dữ liệu ảnh viễn thám giữa khách hàng và bên đặt chụp ảnh.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:143628:part:1:article:3:clause:5",
+                    "number": "5",
+                    "content": "5. Ảnh\nxem nhanh (từ tiếng Anh là Quicklook) là ảnh có kích thước nhỏ, được rút gọn từ ảnh thực.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:143628:part:1:article:3:clause:6",
+                    "number": "6",
+                    "content": "6. Kích thước đặt ảnh viễn thám tối thiểu là diện tích và độ dài cạnh nhỏ nhất\ncho phép của vùng đặt chụp ảnh trên thực địa và được quy định riêng đối với từng loại ảnh viễn thám.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:143628:part:1:chapter:2",
+            "number": "II",
+            "title": "QUY ĐỊNH KỸ THUẬT ĐẶT CHỤP ẢNH VIỄN THÁM",
+            "content": "Chương II\nQUY ĐỊNH KỸ THUẬT ĐẶT CHỤP ẢNH VIỄN THÁM",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:143628:part:1:article:4",
+                "number": "4",
+                "title": "Xác định yêu cầu về dữ liệu viễn thám",
+                "content": "Điều 4. Xác định yêu cầu về dữ liệu viễn thám",
+                "clauses": [
+                  {
+                    "clause_id": "doc:143628:part:1:article:4:clause:1",
+                    "number": "1",
+                    "content": "1. Căn cứ vào yêu cầu về dữ liệu viễn\nthám của khách hàng, bên đặt chụp ảnh phải chuẩn hóa nội dung các thông tin phục vụ đặt ảnh viễn thám, bao gồm:",
+                    "points": [
+                      {
+                        "point_id": "doc:143628:part:1:article:4:clause:1:point:1",
+                        "label": "a",
+                        "content": "a) Vị trí, phạm vi của khu vực đặt chụp\nảnh được dựa trên một trong các trường hợp sau: - Hình đa giác với các tọa độ của các đỉnh đa giác. Các cạnh của đa giác không được cắt nhau, số đỉnh tối thiểu là 3 và tối đa là 99; - Hình chữ nhật với tọa độ góc trên bên trái và góc dưới bên phải; - Hình tròn với tọa độ tâm và bán kính (độ chính xác đến giây hoặc km). Tọa độ có thể là tọa độ địa lý (độ chính xác đến giây) hoặc tọa độ bản đồ (độ chính xác đến km); - Địa danh, địa giới; - Theo các đối tượng hình tuyến, đường bờ (sông, biển); Trên cơ sở các thông tin trên, bên đặt chụp ảnh phải xây dựng sơ đồ để xác định chính xác vị trí, phạm vi khu vực đặt chụp ảnh.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:143628:part:1:article:4:clause:1:point:2",
+                        "label": "b",
+                        "content": "b) Thời điểm và tần suất chụp ảnh\n- Thời điểm xác định theo ngày, tháng, năm hoặc theo mùa; - Tần suất chụp một lần hay lặp lại nhiều lần.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:143628:part:1:article:4:clause:1:point:3",
+                        "label": "c",
+                        "content": "c) Thông số kỹ thuật của ảnh\n- Tên loại dữ liệu ảnh (bộ cảm hoặc vệ tinh); - Chế độ chụp ảnh; - Góc nghiêng chụp ảnh; - Độ phủ chờm giữa các ảnh; - Kênh phổ; - Độ phân giải mặt đất; - Số lượng bit để biểu diễn giá trị độ xám của điểm ảnh.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:143628:part:1:article:4:clause:1:point:4",
+                        "label": "d",
+                        "content": "d) Mục đích sử dụng ảnh viễn thám.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:143628:part:1:article:4:clause:1:point:5",
+                        "label": "đ",
+                        "content": "đ) Độ che phủ mây theo các mức quy định\ntại Thông tư số 10/2015/TT-BTNMT ngày 25 tháng 03 năm 2015 của Bộ Tài nguyên và Môi trường quy định kỹ thuật về sản xuất ảnh viễn thám quang học độ phân giải cao và siêu cao để cung cấp đến người sử dụng.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:143628:part:1:article:4:clause:1:point:6",
+                        "label": "e",
+                        "content": "e) Hệ tọa độ: hệ tọa độ Quốc gia\nVN-2000 hoặc hệ tọa độ khác theo nhu cầu của khách hàng.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:143628:part:1:article:4:clause:2",
+                    "number": "2",
+                    "content": "2. Đối với các yêu cầu khẩn cấp, chỉ\ncần xác định khu vực đặt chụp ảnh dựa trên các thông tin về tọa độ hoặc địa danh, phạm vi của khu vực và thời điểm cần đặt chụp ảnh viễn thám.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:143628:part:1:article:5",
+                "number": "5",
+                "title": "Xây dựng đơn hàng đặt chụp ảnh viễn thám Bên đặt chụp ảnh phải thực hiện các công đoạn sau:",
+                "content": "Điều 5. Xây dựng đơn hàng đặt chụp ảnh viễn thám Bên đặt chụp ảnh phải thực hiện các công đoạn sau:",
+                "clauses": [
+                  {
+                    "clause_id": "doc:143628:part:1:article:5:clause:1",
+                    "number": "1",
+                    "content": "1. Phân loại, sắp xếp các yêu cầu chụp\nảnh theo mức độ ưu tiên.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:143628:part:1:article:5:clause:2",
+                    "number": "2",
+                    "content": "2. Phân tích, đánh giá sự phù hợp giữa\nnhu cầu ứng dụng của khách hàng với loại ảnh viễn thám và các thông số tương ứng được yêu cầu. Dựa trên kết quả phân tích, đánh giá, cùng với khách hàng lựa chọn và đặt hàng các loại ảnh viễn thám với các thông số thích hợp nhất.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:143628:part:1:article:5:clause:3",
+                    "number": "3",
+                    "content": "3. Tính toán xác định kích thước các\nvùng đặt chụp ảnh. Nếu kích thước các vùng đặt chụp nhỏ hơn kích thước đặt chụp ảnh tối thiểu thì phải thống nhất với khách hàng để chỉnh sửa lại, bảo đảm tất cả các vùng đặt chụp đều có kích thước đạt yêu cầu.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:143628:part:1:article:5:clause:4",
+                    "number": "4",
+                    "content": "4. Đánh giá bước đầu tính khả thi của\nyêu cầu đặt chụp ảnh của khách hàng và phân loại theo 3 mức: cao, trung bình và thấp.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:143628:part:1:article:5:clause:5",
+                    "number": "5",
+                    "content": "5. Ước tính diện tích, số lượng ảnh\nhoặc dải ảnh cần chụp, khoảng thời gian cần thiết để hoàn thành toàn bộ hoặc từng phần của yêu cầu đặt chụp ảnh.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:143628:part:1:article:5:clause:6",
+                    "number": "6",
+                    "content": "6. Điều chỉnh yêu cầu đặt chụp ảnh đối\nvới trường hợp nếu khách hàng muốn thay đổi tính khả thi, diện tích, số lượng ảnh hoặc thời gian thi công ước tính.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:143628:part:1:article:6",
+                "number": "6",
+                "title": "Đặt chụp ảnh viễn thám",
+                "content": "Điều 6. Đặt chụp ảnh viễn thám",
+                "clauses": [
+                  {
+                    "clause_id": "doc:143628:part:1:article:6:clause:1",
+                    "number": "1",
+                    "content": "1. Bên đặt chụp ảnh tổng hợp các yêu\ncầu đặt chụp ảnh, bao gồm yêu cầu đặt chụp ảnh mới và các đơn hàng đặt chụp ảnh đang tiến hành. Nếu có khu vực yêu cầu đặt chụp trùng nhau về vị trí thì sẽ ưu tiên yêu cầu có đòi hỏi cao hơn về thời gian thực hiện hoặc các thông số kỹ thuật.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:143628:part:1:article:6:clause:2",
+                    "number": "2",
+                    "content": "2. Bên đặt chụp ảnh gửi đơn hàng tới\ncơ quan vận hành vệ tinh.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:143628:part:1:article:7",
+                "number": "7",
+                "title": "Xác nhận và chính xác hóa nội dung đơn hàng Trên cơ sở đơn hàng đã được xây dựng tại Điều 5 Thông tư này, bên đặt chụp ảnh phối hợp với cơ quan vận hành vệ tinh tiến hành xác nhận và chính xác hóa nội dung của đơn hàng, bao gồm các bước sau:",
+                "content": "Điều 7. Xác nhận và chính xác hóa nội dung đơn hàng Trên cơ sở đơn hàng đã được xây dựng tại Điều 5 Thông tư này, bên đặt chụp ảnh phối hợp với cơ quan vận hành vệ tinh tiến hành xác nhận và chính xác hóa nội dung của đơn hàng, bao gồm các bước sau:",
+                "clauses": [
+                  {
+                    "clause_id": "doc:143628:part:1:article:7:clause:1",
+                    "number": "1",
+                    "content": "1. Phân tích, đánh giá chi tiết tính\nkhả thi của đơn hàng theo các mức độ như ở Khoản 4 Điều 5 Thông tư này trên cơ sở phân tích, cân đối giữa các yếu tố sau:",
+                    "points": [
+                      {
+                        "point_id": "doc:143628:part:1:article:7:clause:1:point:1",
+                        "label": "a",
+                        "content": "a) Thời điểm, khu vực và các thông số\nkỹ thuật của yêu cầu đặt chụp ảnh;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:143628:part:1:article:7:clause:1:point:2",
+                        "label": "b",
+                        "content": "b) Các đơn hàng, yêu cầu đặt chụp ảnh\nkhác đang và sẽ được cơ quan vận hành vệ tinh thực hiện;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:143628:part:1:article:7:clause:1:point:3",
+                        "label": "c",
+                        "content": "c) Năng lực chụp ảnh và tài nguyên hiện\ncó của vệ tinh;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:143628:part:1:article:7:clause:1:point:4",
+                        "label": "d",
+                        "content": "d) Số liệu thống kê về điều kiện thời\ntiết của khu vực cần chụp ảnh viễn thám trong các năm trước;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:143628:part:1:article:7:clause:1:point:5",
+                        "label": "đ",
+                        "content": "đ) Thông tin dự báo thời tiết tại khu\nvực đặt chụp ảnh của Trung tâm Khí tượng Thủy văn quốc gia.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:143628:part:1:article:7:clause:2",
+                    "number": "2",
+                    "content": "2. Tính toán xác định chính xác diện\ntích, số lượng ảnh hoặc dải ảnh cần chụp và thời gian, thời điểm thi công các hạng mục của yêu cầu chụp ảnh.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:143628:part:1:article:7:clause:3",
+                    "number": "3",
+                    "content": "3. Điều chỉnh đơn hàng đặt chụp ảnh nếu\nkhách hàng muốn thay đổi tính khả thi, diện tích, số lượng ảnh hoặc thời gian thi công ước tính.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:143628:part:1:article:7:clause:4",
+                    "number": "4",
+                    "content": "4. Bên đặt chụp ảnh chính thức xác nhận\nnội dung đơn hàng và thời gian thi công với cơ quan vận hành vệ tinh và khách hàng.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:143628:part:1:article:8",
+                "number": "8",
+                "title": "Theo dõi việc thực hiện đơn hàng đặt chụp ảnh viễn thám Trong quá trình thi công đơn hàng, bên đặt chụp ảnh phải thường xuyên tiến hành các công việc sau:",
+                "content": "Điều 8. Theo dõi việc thực hiện đơn hàng đặt chụp ảnh viễn thám Trong quá trình thi công đơn hàng, bên đặt chụp ảnh phải thường xuyên tiến hành các công việc sau:",
+                "clauses": [
+                  {
+                    "clause_id": "doc:143628:part:1:article:8:clause:1",
+                    "number": "1",
+                    "content": "1. Kiểm tra, đánh giá chất lượng các ảnh\nđã chụp được thông qua ảnh xem nhanh. Nếu chất lượng ảnh chưa đạt yêu cầu thì phải thông báo cho cơ quan vận hành vệ tinh để tiến hành chụp lại. Nội dung các hạng mục cần kiểm tra được thực hiện theo quy định tại Điều 9 Thông tư này.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:143628:part:1:article:8:clause:2",
+                    "number": "2",
+                    "content": "2. Theo dõi các thông tin về thời tiết\ntại các khu vực thi công. Nếu dự báo thời tiết tại các khu vực đặt chụp thuận lợi (bầu trời trong, ít mây), bên đặt chụp ảnh sẽ chủ động yêu cầu cơ quan vận hành vệ tinh đẩy nhanh tiến độ chụp ảnh viễn thám. Trường hợp dự báo thời tiết không thuận lợi, bên đặt chụp ảnh sẽ đề nghị cơ quan vận hành vệ tinh tạm dừng chụp ảnh viễn thám.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:143628:part:1:article:9",
+                "number": "9",
+                "title": "Kiểm tra chất lượng ảnh viễn thám",
+                "content": "Điều 9. Kiểm tra chất lượng ảnh viễn thám",
+                "clauses": [
+                  {
+                    "clause_id": "doc:143628:part:1:article:9:clause:1",
+                    "number": "1",
+                    "content": "1. Bên đặt chụp ảnh viễn thám phải\nthường xuyên kiểm tra, đánh giá chất lượng ảnh viễn thám đã chụp được trong suốt quá trình thực hiện đơn hàng theo đúng các tiêu chuẩn, quy chuẩn kỹ thuật và các quy định hiện hành của Nhà nước. Các nội dung kiểm tra bao gồm:",
+                    "points": [
+                      {
+                        "point_id": "doc:143628:part:1:article:9:clause:1:point:1",
+                        "label": "a",
+                        "content": "a) Vị trí của ảnh viễn thám đã chụp\nphải trùng với vị trí khu vực đặt chụp trong đơn hàng;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:143628:part:1:article:9:clause:1:point:2",
+                        "label": "b",
+                        "content": "b) Độ che phủ mây của ảnh viễn thám\nđã chụp phải thấp hơn hoặc bằng độ che phủ mây theo yêu cầu;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:143628:part:1:article:9:clause:1:point:3",
+                        "label": "c",
+                        "content": "c) Ảnh viễn thám đã chụp phải đảm bảo\nvề chất lượng hình ảnh trong quá trình thu nhận và xử lý tín hiệu. Tín hiệu không bị lỗi hay bị đứt đoạn, ảnh có độ tương phản đồng đều, không bị lóa, không quá tối, không có những đốm hoặc vệt đen do các lỗi của hệ thống.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:143628:part:1:article:9:clause:2",
+                    "number": "2",
+                    "content": "2. Trường hợp ảnh viễn thám đã chụp\nchưa đạt yêu cầu, bên đặt chụp ảnh viễn thám sẽ yêu cầu cơ quan vận hành vệ tinh tiến hành chụp lại.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:143628:part:1:chapter:3",
+            "number": "III",
+            "title": "ĐIỀU KHOẢN THI HÀNH",
+            "content": "Chương III\nĐIỀU KHOẢN THI HÀNH",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:143628:part:1:article:10",
+                "number": "10",
+                "title": "Hiệu lực thi hành Thông tư này có hiệu lực từ ngày 15 tháng 02 năm 2016.",
+                "content": "Điều 10. Hiệu lực thi hành Thông tư này có hiệu lực từ ngày 15 tháng 02 năm 2016.",
+                "clauses": [],
+                "points": []
+              },
+              {
+                "article_id": "doc:143628:part:1:article:11",
+                "number": "11",
+                "title": "Tổ chức thực hiện",
+                "content": "Điều 11. Tổ chức thực hiện",
+                "clauses": [
+                  {
+                    "clause_id": "doc:143628:part:1:article:11:clause:1",
+                    "number": "1",
+                    "content": "1. Bộ, cơ quan ngang Bộ, cơ quan thuộc\nChính phủ; Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:143628:part:1:article:11:clause:2",
+                    "number": "2",
+                    "content": "2. Cục Viễn thám quốc gia, Bộ Tài\nnguyên và Môi trường có trách nhiệm hướng dẫn, kiểm tra việc thực hiện Thông tư này.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:143628:part:1:article:11:clause:3",
+                    "number": "3",
+                    "content": "3. Sở Tài nguyên và Môi trường các tỉnh\ncó trách nhiệm giúp Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương triển khai thực hiện Thông tư này ở địa phương.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:143628:part:1:article:11:clause:4",
+                    "number": "4",
+                    "content": "4. Trong quá trình thực hiện, nếu có vướng\nmắc, đề nghị các cơ quan, tổ chức, cá nhân phản ánh kịp thời về Bộ Tài nguyên và Môi trường để xem xét, quyết định./.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          }
+        ],
+        "sections": [],
+        "articles": [],
+        "unstructured_blocks": []
+      }
+    ]
+  },
+  "issues": [],
+  "status": "ok",
+  "source_hash": "context_143628.json",
+  "stats": {
+    "source_chars": 9841,
+    "passage_chars": 9671,
+    "parts": 1,
+    "chapters": 3,
+    "sections": 0,
+    "articles": 11,
+    "clauses": 28,
+    "points": 14
+  }
+}

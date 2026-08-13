@@ -1,0 +1,1179 @@
+{
+  "schema_version": "2.0",
+  "document_id": 145694,
+  "metadata": {
+    "name": "Quyet-dinh-16-2021-QD-TTg-dau-gia-chuyen-nhuong-quyen-su-dung-ten-mien-Internet-469229",
+    "link": "https://thuvienphapluat.vn/van-ban/Cong-nghe-thong-tin/Quyet-dinh-16-2021-QD-TTg-dau-gia-chuyen-nhuong-quyen-su-dung-ten-mien-Internet-469229.aspx",
+    "issuing_agency": "THỦ TƯỚNG CHÍNH PHỦ",
+    "national_header": "CỘNG HÒA XÃ\r\n\n  HỘI CHỦ NGHĨA VIỆT NAM",
+    "motto": "Độc lập - Tự do - Hạnh phúc",
+    "document_number": "16/2021/QĐ-TTg",
+    "issued_place": "Hà Nội",
+    "issued_date": "ngày 30 tháng 3 năm\r\n\n  2021",
+    "document_type": "QUYẾT ĐỊNH",
+    "title": "QUY ĐỊNH VỀ ĐẤU GIÁ, CHUYỂN NHƯỢNG QUYỀN SỬ DỤNG KHO SỐ VIỄN THÔNG, TÊN MIỀN INTERNET"
+  },
+  "administrative_header": {
+    "removed": true,
+    "removed_char_count": 158
+  },
+  "preamble": {
+    "text": "QUYẾT ĐỊNH QUY\nĐỊNH VỀ ĐẤU GIÁ, CHUYỂN NHƯỢNG QUYỀN SỬ DỤNG KHO SỐ VIỄN THÔNG, TÊN MIỀN INTERNET\nCăn cứ Luật Tổ chức Chính phủ ngày 19 tháng 6 năm 2015; Luật sửa đổi, bổ sung một số điều của Luật Tổ chức Chính phủ và Luật Tổ chức chính quyền địa phương ngày 22 tháng 11 năm 2019; Căn cứ Luật Viễn thông ngày 23 tháng 11 năm 2009; Căn cứ Luật Giá ngày 20 tháng 6 năm 2012; Căn cứ Luật Đấu giá tài sản ngày 17 tháng 11 năm 2016; Căn cứ Luật Quản lý, sử dụng tài sản công ngày 21 tháng 6 năm 2017; Căn cứ Nghị định số 25/2011/NĐ-CP ngày 06 tháng 4 năm 2011 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Viễn thông; Căn cứ Nghị định số 89/2013/NĐ-CP ngày 06 tháng 8 năm 2013 của Chính phủ quy định chi tiết một số điều của Luật Giá về thẩm định giá; Căn cứ Nghị định số 62/2017/NĐ-CP ngày 16 tháng 5 năm 2017 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Đấu giá tài sản; Căn cứ Nghị định số 151/2017/NĐ-CP ngày 26 tháng 12 năm 2017 của Chính phủ quy định chi tiết một số điều của Luật Quản lý, sử dụng tài sản công; Căn cứ Nghị định số 72/2013/NĐ-CP ngày 15 tháng 7 năm 2013 của Chính phủ về quản lý, cung cấp, sử dụng dịch vụ Internet và thông tin trên mạng; Nghị định số 27/2018/NĐ-CP ngày 01 tháng 3 năm 2018 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 72/2013/NĐ-CP ; Căn cứ Nghị định số 17/2017/NĐ-CP ngày 17 tháng 02 năm 2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Thông tin và Truyền thông; Theo đề nghị của Bộ trưởng Bộ Thông tin và Truyền thông; Thủ tướng Chính phủ ban hành Quyết định quy định về đấu giá, chuyển nhượng quyền sử dụng kho số viễn thông, tên miền Internet.\nChương I\nQUY ĐỊNH CHUNG",
+    "legal_bases": [
+      "Căn cứ Luật Viễn thông ngày 23 tháng 11 năm 2009",
+      "Căn cứ Luật Giá ngày 20 tháng 6 năm 2012",
+      "Căn cứ Luật Đấu giá tài sản ngày 17 tháng 11 năm 2016",
+      "Căn cứ Luật Quản lý, sử dụng tài sản công ngày 21 tháng 6 năm 2017",
+      "Căn cứ Nghị định số 25/2011/NĐ-CP ngày 06 tháng 4 năm 2011 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Viễn thông",
+      "Căn cứ Nghị định số 89/2013/NĐ-CP ngày 06 tháng 8 năm 2013 của Chính phủ quy định chi tiết một số điều của Luật Giá về thẩm định giá",
+      "Căn cứ Nghị định số 62/2017/NĐ-CP ngày 16 tháng 5 năm 2017 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Đấu giá tài sản",
+      "Căn cứ Nghị định số 151/2017/NĐ-CP ngày 26 tháng 12 năm 2017 của Chính phủ quy định chi tiết một số điều của Luật Quản lý, sử dụng tài sản công",
+      "Căn cứ Nghị định số 72/2013/NĐ-CP ngày 15 tháng 7 năm 2013 của Chính phủ về quản lý, cung cấp, sử dụng dịch vụ Internet và thông tin trên mạng",
+      "Căn cứ Nghị định số 17/2017/NĐ-CP ngày 17 tháng 02 năm 2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Thông tin và Truyền thông"
+    ],
+    "proposals": [
+      "Theo đề nghị của Bộ trưởng Bộ Thông tin và Truyền thông"
+    ],
+    "enactment_formula": null
+  },
+  "passage": "QUYẾT ĐỊNH QUY\nĐỊNH VỀ ĐẤU GIÁ, CHUYỂN NHƯỢNG QUYỀN SỬ DỤNG KHO SỐ VIỄN THÔNG, TÊN MIỀN INTERNET\nCăn cứ Luật Tổ chức Chính phủ ngày 19 tháng 6 năm 2015; Luật sửa đổi, bổ sung một số điều của Luật Tổ chức Chính phủ và Luật Tổ chức chính quyền địa phương ngày 22 tháng 11 năm 2019; Căn cứ Luật Viễn thông ngày 23 tháng 11 năm 2009; Căn cứ Luật Giá ngày 20 tháng 6 năm 2012; Căn cứ Luật Đấu giá tài sản ngày 17 tháng 11 năm 2016; Căn cứ Luật Quản lý, sử dụng tài sản công ngày 21 tháng 6 năm 2017; Căn cứ Nghị định số 25/2011/NĐ-CP ngày 06 tháng 4 năm 2011 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Viễn thông; Căn cứ Nghị định số 89/2013/NĐ-CP ngày 06 tháng 8 năm 2013 của Chính phủ quy định chi tiết một số điều của Luật Giá về thẩm định giá; Căn cứ Nghị định số 62/2017/NĐ-CP ngày 16 tháng 5 năm 2017 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Đấu giá tài sản; Căn cứ Nghị định số 151/2017/NĐ-CP ngày 26 tháng 12 năm 2017 của Chính phủ quy định chi tiết một số điều của Luật Quản lý, sử dụng tài sản công; Căn cứ Nghị định số 72/2013/NĐ-CP ngày 15 tháng 7 năm 2013 của Chính phủ về quản lý, cung cấp, sử dụng dịch vụ Internet và thông tin trên mạng; Nghị định số 27/2018/NĐ-CP ngày 01 tháng 3 năm 2018 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 72/2013/NĐ-CP ; Căn cứ Nghị định số 17/2017/NĐ-CP ngày 17 tháng 02 năm 2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Thông tin và Truyền thông; Theo đề nghị của Bộ trưởng Bộ Thông tin và Truyền thông; Thủ tướng Chính phủ ban hành Quyết định quy định về đấu giá, chuyển nhượng quyền sử dụng kho số viễn thông, tên miền Internet.\nChương I\nQUY ĐỊNH CHUNG\nĐiều 1. Phạm vi điều chỉnh Quyết định này quy định về đấu giá quyền sử dụng kho số viễn thông, tên miền Internet; chuyển nhượng quyển sử dụng kho số viễn thông được phân bổ thông qua đấu giá, chuyển nhượng quyền sử dụng tên miền Internet,\nĐiều 2. Đối tượng áp dụng\n1. Doanh nghiệp viễn thông, doanh nghiệp cung cấp\ndịch vụ ứng dụng viễn thông, tổ chức được phép sử dụng kho số viễn thông,\n2. Tổ chức, cá nhân liên quan tới\nhoạt động đấu giá, chuyển nhượng quyền sử dụng kho số viễn thông.\n3. Tổ chức, cá nhân trong nước và tổ\nchức, cá nhân nước ngoài liên quan tới hoạt động đấu giá, chuyển nhượng quyền sử dụng tên miền Internet.\nĐiều 3. Giải thích từ ngữ Trong Quyết định này, các từ ngữ dưới đây được hiểu như sau:\n1. Đấu giá quyền sử dụng kho số viễn thông là việc xác định\ndoanh nghiệp, tổ chức được quyền sử dụng mã, số viễn thông thông qua việc đánh giá các điều kiện tham gia đấu giá và mức trả giá cao nhất của doanh nghiệp, tổ chức tham gia đấu giá theo trình tự, thủ tục đấu giá.\n2. Đấu giá quyền sử dụng tên miền\nInternet là việc xác định tổ chức, cá nhân được quyền đăng ký sử dụng tên miền quốc gia Việt Nam “.vn” theo quy định pháp luật về đấu giá.\n3. Điều kiện tham gia đấu giá là tập\nhợp các yêu cầu, điều kiện được áp dụng với từng cuộc đấu giá và được quy định cụ thể trong Quy chế đấu giá của cuộc đấu giá đó.\n4. Người tham gia đấu giá là doanh\nnghiệp, tổ chức, cá nhân có đủ điều kiện tham gia đấu giá quyền sử dụng kho số viễn thông, tên miền Internet theo quy định của Quyết định này và quy định khác của pháp luật có liên quan,\n5. Người trúng đấu giá là người tham gia\nđấu giá có mức trả giá cao nhất so với giá khởi điểm hoặc bằng giá khởi điểm trong trường hợp không có người trả giá cao hơn giá khởi điểm khi đấu giá theo phương thức trả giá lên.\n6. Quy chế cuộc đấu giá (sau đây gọi\nlà Quy chế đấu giá) là tập hợp các thông tin, tài liệu liên quan đến cuộc đấu giá do Tổ chức đấu giá tài sản hoặc Hội đồng đấu giá tài sản ban hành, làm cơ sở cho tổ chức, cá nhân lập Hồ sơ tham gia đấu giá.\n7. Hồ sơ tham gia đấu giá là các tài\nliệu do tổ chức, cá nhân tham gia đấu giá lập và nộp cho Tổ chức đấu giá tài sản hoặc Hội đồng đấu giá theo yêu cầu quy định tại Quy chế cuộc đấu giá.\n8. Bản cam kết là tài liệu trong\nHồ sơ đấu giá quyền sử dụng kho số viễn thông được đại diện theo pháp luật của doanh nghiệp, tổ chức ký tên, đóng dấu để cam kết thực hiện các yêu cầu tối thiểu; cam kết chấp hành hình thức và mức phạt khi không thực hiện các yêu cầu tối thiểu sau khi được phân bổ mã, số viễn thông.\n9. Tiền trúng đấu giá là số tiền mà người\ntrúng đấu giá phải nộp để được quyền sử dụng mã, số viễn thông hoặc số tiền mà người trúng đấu giá phải nộp để được quyền đăng ký sử dụng tên miền Internet. Tiền trúng đấu giá không bao gồm lệ phí phân bổ, phí sử dụng mã số viễn thông, lệ phí đăng ký, phí duy trì tên miền Internet.\n10. Chuyển nhượng quyền sử dụng kho số\nviễn thông là việc doanh nghiệp, tổ chức chuyển nhượng toàn bộ quyền sử dụng mã, số viễn thông do trúng đấu giá cho doanh nghiệp, tổ chức khác.\n11. Chuyển nhượng quyền sử dụng tên miền\nInternet là việc tổ chức, cá nhân chuyển quyền sử dụng tên miền quốc gia Việt Nam “.vn” của mình cho tổ chức, cá nhân khác theo quy định pháp luật về chuyển nhượng tên miền.\n12. Số thuê bao viễn thông được đấu\ngiá là số quốc gia có nghĩa theo Quy hoạch kho số viễn thông bao gồm mã mạng và số thuê bao.\n13. Cơ quan được giao nhiệm vụ tổ chức\nđấu giá là đơn vị trực thuộc Bộ Thông tin và Truyền thông chịu trách nhiệm quản lý về kho số viễn thông, tên miền Internet.\nĐiều 4. Hình thức đấu giá và phương thức đấu giá\n1. Hình thức đấu giá, phương thức đấu\ngiá được quy định trong Quy chế đấu giá và công bố công khai cho người tham gia đấu giá biết.\n2. Phương thức đấu giá là phương thức\ntrả giá lên.\nĐiều 5. Thù lao dịch vụ đấu giá, chi phí đấu giá tài sản Thù lao dịch vụ đấu giá và chi phí đấu giá tài sản thực hiện theo quy định tại Điều 66 Luật Đấu giá tài sản và các quy định liên quan của Bộ Tài chính.\nĐiều 6. Lựa chọn Tổ chức đấu giá tài sản\n1. Sau khi Bộ trưởng Bộ Thông tin và Truyền\nthông phê duyệt Kế hoạch tổ chức đấu giá kho số viễn thông, tên miền Internet, cơ quan được giao nhiệm vụ tổ chức đấu giá thuê Tổ chức đấu giá tài sản để tổ chức cuộc đấu giá theo quy định của pháp luật.\n2. Việc lựa chọn tổ chức đấu giá tài sản\nđược thực hiện theo Điều 56 Luật Đấu giá tài sản. Trường hợp không lựa chọn được tổ chức đấu giá tài sản, Bộ trưởng Bộ Thông tin và Truyền thông quyết định thành lập Hội đồng đấu giá tài sản. Hội đồng đấu giá tài sản gồm 3 thành viên trở lên; Chủ tịch Hội đồng là Bộ trưởng Bộ Thông tin và Truyền thông hoặc người được Bộ trưởng Bộ Thông tin và Truyền thông ủy quyền; thành viên của Hội đồng là đại diện Bộ Tài chính, Bộ Tư pháp, đại diện cơ quan khác có liên quan. Hội đồng đấu giá tài sản có thể ký hợp đồng với tổ chức đấu giá tài sản để cử đấu giá viên điều hành cuộc đấu giá.\nĐiều 7. Trình tự, thủ tục đấu giá Việc đấu giá quyền sử dụng kho số viễn thông, tên miền Internet được thực hiện theo trình tự, thủ tục quy định tại Chương III, Chương IV Luật Đấu giá tài sản.\nĐiều 8. Quy chế đấu giá\n1. Tổ chức đấu giá tài sản hoặc Hội đồng\nđấu giá tài sản ban hành Quy chế đấu giá bao gồm những nội dung chính như kho số viễn thông, tên miền Internet đấu giá, tiền đặt trước, hình thức đấu giá, giá khởi điểm (trong trường hợp công khai giá khởi điểm) và các nội dung khác theo quy định tại Điều 34 Luật Đấu giá tài sản.\n2. Quy chế đấu giá áp dụng cho từng cuộc đấu\ngiá phải được ban hành trước ngày niêm yết việc đấu giá tài sản theo quy định tại\nĐiều 34 Luật Đấu giá tài sản.\n3. Cơ quan được giao nhiệm vụ tổ chức\nđấu giá xây dựng và trình Bộ trưởng Bộ Thông tin và Truyền thông quyết định các nội dung về tiền đặt trước, hình thức đấu giá, giá khởi điểm (trong trường hợp công khai giá khởi điểm) trước khi thống nhất với Tổ chức đấu giá tài sản để đưa vào Quy chế đấu giá.\nĐiều 9. Trường hợp không tổ chức đấu giá Tổ chức đấu giá tài sản hoặc Hội đồng đấu giá tài sản không tổ chức cuộc đấu giá và hoàn trả tiền đặt trước cho người tham gia đấu giá trong các trường hợp sau:\n1. Trước ngày tổ chức cuộc đấu giá, cơ\nquan nhà nước có thẩm quyền có văn bản yêu cầu dừng tổ chức cuộc đấu giá.\n2. Trong trường hợp chỉ có 01 người đăng\nký tham gia đấu giá hoặc có nhiều người đăng ký tham gia đấu giá nhưng chỉ có 01 người tham gia cuộc đấu giá.\nĐiều 10. Trường hợp tổ chức đấu giá lại\n1. Tổ chức đấu giá lại mã, số viễn\nthông, tên miền Internet trong các trường hợp sau:\na) Các trường hợp không tổ chức đấu\ngiá quy định tại Điều 9 Quyết định này;\nb) Có nhiều người tham gia cuộc đấu\ngiá nhưng chỉ có 01 người trả giá, hoặc có nhiều người trả giá nhưng chỉ có 01 người trả giá cao nhất nhưng thấp hơn giá khởi điểm;\nc) Tên miền đã được đấu giá\nnhưng tổ chức, cá nhân trúng đấu giá không nộp tiền trúng đấu giá; tên miền đã được đấu giá nhưng tổ chức, cá nhân trúng đấu giá không hoàn tất thủ tục đăng ký sử dụng tên miền theo quy định; tên miền đấu giá đã được đăng ký sử dụng nhưng chủ thể không tiếp tục nộp phí duy trì sử dụng khi tên miền hết hạn sử dụng theo quy định;\nd) Các trường hợp đấu giá không thành\nquy định tại khoản 1 Điều 52 Luật Đấu giá tài sản.\n2. Trường hợp tổ chức đấu giá lại đối với\nmã, số viễn thông, tên miền Internet quy định tại khoản 1 Điều này nếu vẫn chưa xác định được người trúng đấu giá hoặc trong trường hợp chỉ có một phần của mã, số viễn thông, danh mục tên miền Internet đấu giá không thành thì cơ quan được giao nhiệm vụ tổ chức đấu giá tài sản trình Bộ trưởng Bộ Thông tin và Truyền thông xem xét, quyết định đấu giá lại vào thời điểm phù hợp theo quy định pháp luật về đấu giá tài sản.\nChương II\nĐẤU\nGIÁ QUYỀN SỬ DỤNG KHO SỐ VIỄN THÔNG, TÊN MIỀN INTERNET\nMục 1. QUY ĐỊNH CHUNG\nVỀ ĐẤU GIÁ QUYỀN SỬ DỤNG KHO SỐ VIỄN THÔNG, TÊN MIỀN INTERNET\nĐiều 11. Kho số viễn thông được đấu giá\n1. Kho số viễn thông được đấu giá quyền\nsử dụng là các mã, số viễn thông có cấu trúc đặc biệt nằm trong quy hoạch kho số viễn thông và có tiêu chí quy định tại Phụ lục I kèm theo Quyết định này.\n2. Kho số viễn thông đấu giá quyển sử\ndụng được xem xét, lựa chọn từ kho số viễn thông chưa phân bổ cho cơ quan, tổ chức, doanh nghiệp.\n3. Bộ Thông tin và Truyền thông công bố\nDanh mục kho số\nviễn thông được đấu giá theo từng thời kỳ căn cứ vào Quy hoạch kho số viễn thông và tình hình thực tế của thị trường viễn thông Việt Nam.\nĐiều 12. Tên miền Internet được đấu giá\n1. Các tên miền quốc gia Việt\nNam “.vn” được phân bổ thông qua phương thức đấu giá bao gồm:\na) Các tên miền quốc gia Việt Nam “.vn” không dấu\ncấp 2 dùng riêng có 01 ký tự (là tên miền cấp 2 dưới “.vn” được lập nên từ 01 ký tự trong số 26 chữ cái trong bảng chữ cái tiếng Anh và 10 số tự nhiên từ 0 đến 9);\nb) Các tên miền quốc gia Việt Nam “.vn” không dấu\ncấp 2 dùng riêng có 02 ký tự (là tên miền cấp 2 dưới “.vn” được lập nên từ 02 ký tự trong số 26 chữ cái trong bảng chữ cái tiếng Anh và 10 số tự nhiên từ 0 đến 9);\nc) Trừ các tên miền được bảo vệ theo quy\nđịnh tại Điều 68 Luật Công nghệ Thông tin và các văn bản quy phạm pháp luật có liên quan.\n2. Bộ Thông tin và Truyền thông công bố\nDanh mục tên miền Internet triển khai đấu giá theo từng thời kỳ căn cứ vào tình\nhình thực tế quản lý, đăng ký sử dụng tên miền Internet tại Việt Nam.\nĐiều 13. Điều kiện được tham gia đấu giá mã, số viễn thông\n1. Doanh nghiệp, tổ chức thành lập\ntheo pháp luật Việt Nam, phải đáp ứng được yêu cầu về tài chính, kỹ thuật phù hợp đối với từng loại mã, số viễn thông được đấu giá theo quy hoạch và quy định về quản lý kho số viễn thông.\n2. Phải cam kết triển khai việc đưa\nmã, số viễn thông vào khai thác, sử dụng tối thiểu 06 tháng sau khi trúng đấu giá.\n3. Phải hoàn thành các nghĩa vụ tài chính có liên\nquan (nộp đầy đủ các khoản phí sử dụng kho số, tần số, nghĩa vụ công ích, phí quyền hoạt động viễn thông của doanh nghiệp, tổ chức) trước khi tham gia đấu giá (nếu có).\n4. Có giấy phép kinh doanh dịch vụ viễn\nthông phù hợp với loại mã, số viễn thông được đấu giá; giấy chứng nhận cung cấp dịch vụ nội dung thông tin trên mạng viễn thông di động theo quy định của pháp luật về viễn thông.\nĐiều 14. Xác định giá khởi điểm mã, số viễn thông, tên miền Internet\n1. Phương pháp xác định giá khởi điểm\na) Giá khởi điểm của mã, số viễn thông\ncó cấu trúc đặc biệt được quy định tại khoản 1 Điều 11; tên miền Internet được quy định tại khoản 1 Điều 12 Quyết định này được xác định theo phương pháp so sánh và các phương pháp khác theo quy định của pháp luật về giá để xác định giá khởi điểm;\nb) Trong trường hợp không xác định được\ngiá khởi điểm bằng phương pháp quy định tại điểm a khoản này, giá khởi điểm của mã, số viễn thông, tên miền Internet được xác định theo công thức như sau: Trong đó: Gkđ là giá khởi điểm của mã, số viễn thông, tên miền Internet đơn vị tính là Việt Nam đồng; GDPvn là chỉ số thu nhập bình quân đầu người danh định (GDP/capita) của Việt Nam tại thời điểm xác định giá khởi điểm, đơn vị tính là đô la Mỹ/người; GDPi là chỉ số thu nhập bình quân đầu người danh định (GDP/capita) của quốc gia hoặc vùng lãnh thổ tương ứng với mẫu thứ i tại thời điểm quốc gia hoặc vùng lãnh thổ đó công bố, đơn vị tính là đô la Mỹ/người; Gđgi là giá trúng đấu giá tham khảo của quốc gia, vùng lãnh thổ thứ i hoặc tổ chức, doanh nghiệp viễn thông trong nước thứ i (i = 1 - N) của cùng loại số, cấu trúc số tại thời điểm gần nhất với thời điểm xác định giá khởi điểm; N là số lượng quốc gia, vùng lãnh thổ hoặc tổ chức, doanh nghiệp viễn thông ở trong nước (N ≥ 3). Số liệu về giá trúng đấu giá thu thập từ quốc gia, vùng lãnh thổ hoặc tổ chức, doanh nghiệp viễn thông trong nước để lấy số liệu so sánh phải đảm bảo số liệu này được thu thập trong thời gian 05 năm gần nhất so với thời điểm xác định giá khởi điểm. Thông tin về số tiền, số lượng mã, số viễn thông, tên miền Internet của quốc gia, vùng lãnh thổ được cung cấp bởi cơ quan quản lý nhà nước của quốc gia, vùng lãnh thổ, tổ chức, doanh nghiệp viễn thông trong nước công bố; trường hợp không có được thông tin từ cơ quan quản lý nhà nước thì lấy từ nguồn trên website của các tổ chức quốc tế hoặc các nguồn tin chuyên ngành viễn thông, tài nguyên kho số viễn thông, tên miền Internet. Số liệu về thu nhập bình quân đầu người danh định (GDP/capita) của các quốc gia hoặc vùng lãnh thổ và của Việt Nam được lấy trên Website chính thức của Ngân hàng thế giới (World Bank);\nc) Giá khởi điểm của mã, số viễn thông,\ntên miền Internet xác định theo công thức quy định tại điểm b Điều này được áp dụng như sau: Nếu thấp hơn hoặc bằng phí sử dụng mã, số viễn thông trong 10 năm, phí duy trì sử dụng tên miền Internet trong 01 năm thì giá khởi điểm của mã, số viễn thông bằng 10 năm phí sử dụng; giá khởi điểm của tên miền Internet bằng 01 năm phí duy trì tên miền theo quy định pháp luật về phí và lệ phí. Nếu cao hơn phí sử dụng mã, số viễn thông trong 10 năm, phí duy trì sử dụng tên miền Internet trong 01 năm thì áp dụng công thức quy định tại điểm b Điều này để xác định giá khởi điểm theo quy định pháp luật về phí và lệ phí.\n2. Quy trình xác định\nvà phê duyệt giá khởi điểm\na) Bộ Thông tin và Truyền thông giao\ncho cơ quan được giao nhiệm vụ tổ chức đấu giá thuê các tổ chức đủ điều kiện hoạt động thẩm định giá do Bộ Tài chính công bố hàng năm xác định giá để làm căn cứ phê duyệt giá khởi điểm;\nb) Trong trường hợp không lựa chọn được tổ\nchức thẩm định giá, cơ quan được giao nhiệm vụ tổ chức đấu giá trình Bộ trưởng Bộ Thông tin và Truyền thông quyết định thành lập Hội đồng thẩm định giá Nhà nước để xác định giá khởi điểm theo các quy định của pháp luật hiện hành về giá;\nc) Trong thời hạn 30 ngày, kể từ khi\ncó kết quả thẩm định giá của tổ chức thẩm định giá hoặc Hội đồng thẩm định giá Nhà nước, cơ quan được giao nhiệm vụ tổ chức đấu giá trình Bộ trưởng Bộ Thông tin và Truyền thông phê duyệt giá khởi điểm trước khi tổ chức đấu giá.\nMục 2. ĐẤU GIÁ QUYỀN\nSỬ DỤNG ĐỐI VỚI KHO SỐ VIỄN THÔNG\nĐiều 15. Kế hoạch tổ chức đấu giá Căn cứ Danh mục kho số viễn thông được đấu giá và hiện trạng phân bổ mã, số viễn thông, cơ quan được giao nhiệm vụ tổ chức đấu giá trình Bộ trưởng Bộ Thông tin và Truyền thông phê duyệt Kế hoạch tổ chức đấu giá kho số viễn thông.\nĐiều 16. Hồ sơ tham gia đấu giá\n1. Người tham gia đấu giá nộp Hồ sơ\ntham gia đấu giá cho Tổ chức đấu giá tài sản theo quy định tại Quy chế đấu giá.\n2. Hồ sơ tham gia đấu giá bao\ngồm:\na) Đơn đăng ký tham gia đấu giá;\nb) Tài liệu chứng minh đáp ứng đủ các điều\nkiện tham gia đấu giá quy định tại khoản 1 Điều 13 Quyết định này;\nc) Bản cam kết triển khai việc đưa mã,\nsố viễn thông vào khai thác, sử dụng sau khi trúng đấu giá;\nd) Tài liệu khác theo yêu cầu của Quy\nchế cuộc đấu giá.\n3. Tổ chức đấu giá tài sản hoặc Hội đồng\nđấu giá tài sản phối hợp với Bộ Thông tin và Truyền thông đánh giá hồ sơ tham gia đấu giá theo nguyên tắc đảm bảo bí mật thông tin về người tham gia đấu giá, đảm bảo tính khách quan, công khai, minh bạch của việc tổ chức đấu giá theo pháp luật về đấu giá tài sản và công khai danh sách người tham gia đấu giá đủ điều kiện tham gia đấu giá theo quy định.\nĐiều 17. Chuyển hồ sơ cuộc đấu giá Trong thời hạn 03 ngày làm việc, kể từ ngày kết thúc cuộc đấu giá, Tổ chức đấu giá tài sản chuyển kết quả đấu giá, biên bản đấu giá, danh sách doanh nghiệp, tổ chức trúng đấu giá cho cơ quan được giao nhiệm vụ tổ chức đấu giá đề trình Bộ Thông tin và Truyền thông phê duyệt kết quả đấu giá và hoàn thiện các thủ tục liên quan.\nĐiều 18. Phê duyệt và công bố kết quả đấu giá\n1. Bộ Thông tin và Truyền thông phê\nduyệt và công bố kết quả đấu giá trong thời hạn 15 ngày, kể từ ngày Biên bản đấu giá được ký.\n2. Bộ Thông tin và Truyền thông hủy\nquyết định phê duyệt kết quả đấu giá đối với doanh nghiệp, tổ chức trúng đấu giá nhưng không nộp đủ số tiền trúng đấu giá theo quy định tại khoản 1 Điều 19 Quyết định này. Mã, số viễn thông có kết quả đấu giá bị hủy được xử lý đấu giá lại theo quy định tại Điều 10 Quyết định này.\nĐiều 19. Thu, nộp, quản lý và sử dụng tiền trúng đấu giá\n1. Trong thời hạn 30 ngày, kể từ ngày\nBộ Thông tin và Truyền thông công bố kết quả đấu giá, người trúng đấu giá phải nộp toàn bộ số tiền trúng đấu giá sau khi đã trừ đi số tiền đặt trước vào ngân sách nhà nước theo thông báo nộp tiền trúng đấu giá.\n2. Thông báo nộp tiền trúng đấu giá\nbao gồm các nội dung sau:\na) Số tiền trúng đấu giá\nphải nộp và phương thức, địa điểm, thời gian phải nộp theo kết quả trúng đấu giá đã được Bộ Thông tin và Truyền thông công bố;\nb) Tên, địa chỉ và số tài khoản\ntại kho bạc nhà nước để nộp tiền trúng đấu giá;\nc) Thời hạn yêu cầu nộp tiền trúng đấu\ngiá.\n3. Tiền trúng đấu giá không bao gồm lệ\nphí phân bổ và phí sử dụng kho số viễn thông.\nĐiều 20. Phân bổ và thu hồi mã, số viễn thông trúng đấu giá\n1. Sau khi đã nộp đủ tiền trúng đấu\ngiá theo quy định tại khoản 1 Điều 19 Quyết định này, người trúng đấu giá thực hiện các thủ tục đề nghị phân bổ mã, số viễn thông theo quy định của pháp luật về viễn thông và các quy định tại Hồ sơ mời đấu giá để được phân bổ mã, số viễn thông trúng đấu giá.\n2. Trường hợp bị thu hồi mã, số viễn thông theo quy định\ntại điểm c khoản 2 Điều 50 Luật Viễn thông, người trúng đấu giá không được hoàn trả tiền trúng đấu giá và phí sử dụng kho số viễn thông đã nộp.\n3. Trường hợp bị thu hồi mã, số viễn\nthông quy định tại điểm a, b khoản 2 Điều 50 Luật Viễn thông, người trúng đấu giá được bồi thường theo quy định của pháp luật.\nMục 3. ĐẤU GIÁ QUYỀN\nSỬ DỤNG TÊN MIỀN INTERNET\nĐiều 21. Kế hoạch tổ chức đấu giá Căn cứ Danh mục tên miền Internet được đấu giá và tình hình thực tế quản lý, đăng ký sử dụng tên miền Internet tại Việt Nam, cơ quan được giao nhiệm vụ tổ chức đấu giá trình Bộ trưởng Bộ Thông tin và Truyền thông phê duyệt Kế hoạch tổ chức đấu giá tên miền Internet.\nĐiều 22. Chuyển hồ sơ cuộc đấu giá Trong thời hạn 03 ngày làm việc, kể từ ngày kết thúc cuộc đấu giá, Tổ chức đấu giá tài sản chuyển kết quả đấu giá, biên bản đấu giá, danh sách tổ chức, cá nhân trúng đấu giá cho cơ quan được giao nhiệm vụ tổ chức đấu giá để trình Bộ Thông tin và Truyền thông phê duyệt kết quả đấu giá và hoàn thiện các thủ tục liên quan.\nĐiều 23. Phê duyệt kết quả đấu giá Bộ Thông tin và Truyền thông phê duyệt và công bố kết quả đấu giá trong thời hạn 15 ngày, kể từ ngày Biên bản đấu giá được ký.\nĐiều 24. Hủy kết quả đấu giá\n1. Bộ Thông tin và Truyền\nthông hủy quyết định phê duyệt kết quả đấu giá đối với tổ chức, cá nhân trúng đấu giá nhưng không nộp tiền trúng đấu giá theo quy định. Tên miền có kết quả đấu giá bị hủy được xử lý đấu giá lại theo quy định tại Điều 10 Quyết định này.\n2. Trường hợp tổ chức, cá nhân trúng đấu\ngiá nhưng không hoàn tất thủ tục đăng ký sử dụng tên miền theo quy định tại khoản 3 Điều 25 Quyết định này, Bộ Thông tin và Truyền thông hủy quyết định phê duyệt kết quả đấu giá đối với tổ chức, cá nhân; tên miền có kết quả đấu giá bị hủy được xử lý đấu giá lại theo quy định tại Điều 10 Quyết định này.\nĐiều 25. Thu, nộp, quản lý và sử dụng tiền trúng đấu giá và đăng ký sử dụng tên miền trúng đấu giá\n1. Trong thời hạn 03 ngày làm việc, kể\ntừ ngày kết quả đấu giá được phê duyệt, Bộ Thông tin và Truyền thông thông báo cho người trúng đấu giá nộp tiền trúng đấu giá, nội dung thông báo nộp tiền trúng đấu giá quy định tại khoản 2 Điều 19 Quyết định này.\n2. Tổ chức, cá nhân trúng đấu giá phải\nnộp đủ số tiền trúng đấu giá sau khi trừ đi tiền đặt trước vào ngân sách nhà nước trong thời hạn 15 ngày, kể từ ngày nhận được thông báo nộp tiền trúng đấu giá. Tiền trúng đấu giá không bao gồm lệ phí đăng ký và phí sử dụng tên miền Internet.\n3. Tổ chức, cá nhân trúng đấu giá phải\nthực hiện thủ tục đăng ký sử dụng tên miền Internet trúng đấu giá theo quy định về quản lý sử dụng tài nguyên Internet và nộp phí đăng ký sử dụng, phí duy trì tên miền Internet theo quy định của Bộ Tài chính trong thời hạn 30 ngày, kể từ khi Bộ Thông tin và Truyền thông công bố kết quả đấu giá.\n4. Trường hợp chủ thể không tiếp tục nộp\nphí duy trì sử dụng khi tên miền hết hạn sử dụng theo quy định, tên miền được đưa vào danh sách tên miền đấu giá theo quy định của Luật Đấu giá tài sản, Quyết định này và các quy định pháp luật có liên quan.\nChương III.\nCHUYỂN\nNHƯỢNG QUYỀN SỬ DỤNG KHO SỐ VIỄN THÔNG, TÊN MIỀN INTERNET\nMục 1. CHUYỂN NHƯỢNG\nQUYỀN SỬ DỤNG KHO SỐ VIỄN THÔNG\nĐiều 26. Điều kiện chuyển nhượng quyền sử dụng kho số viễn thông\n1. Ngoài các điều kiện quy định\nlại khoản 2 Điều 49 của Luật Viễn thông, doanh nghiệp, tổ chức được phân bổ mã, số, khối số viễn thông thông qua đấu giá được phép chuyển nhượng quyền sử dụng mã, số, khối số này cho các doanh nghiệp, tổ chức quy định tại khoản 2 Điều này sau khi đã khai thác và sử dụng mã, số, khối số viễn thông trong thời gian ít nhất 03 năm, kể từ ngày được cấp, phân bổ mã, số, khối số viễn thông.\n2. Đối tượng được nhận chuyển nhượng\nquyền sử dụng kho số viễn thông là các doanh nghiệp, tổ chức đáp ứng yêu cầu tối thiểu quy định tại cuộc đấu giá mà doanh nghiệp chuyển nhượng tham gia.\nĐiều 27. Thủ tục chuyển nhượng quyền sử dụng kho số viễn thông\n1. Hồ sơ chuyển nhượng quyền sử dụng kho\nsố viễn thông được lập thành 01 bộ, bao gồm:\na) Văn bản đề nghị chuyển nhượng và\nnhận chuyển nhượng có dấu và chữ ký của người đại diện theo pháp luật của doanh nghiệp, tổ chức chuyển nhượng và nhận chuyển nhượng theo mẫu tại Phụ lục II ban hành kèm theo Quyết định này;\nb) Bản thỏa thuận giữa doanh\nnghiệp, tổ chức chuyển nhượng và doanh nghiệp, tổ chức nhận chuyển nhượng về bảo đảm quyền và lợi ích hợp pháp của các tổ chức, cá nhân chịu ảnh hưởng của việc chuyển nhượng;\nc) Tài liệu chứng minh của doanh nghiệp,\ntổ chức nhận chuyển nhượng về việc đáp ứng các yêu cầu tối thiểu tại cuộc đấu giá mà doanh nghiệp, tổ chức chuyển nhượng đã tham gia; bản cam kết của doanh nghiệp, tổ chức nhận chuyển nhượng.\n2. Thủ tục chuyển nhượng\na) Doanh nghiệp, tổ chức chuyển nhượng\nvà nhận chuyển nhượng quyền sử dụng kho số viễn thông nộp hồ sơ chuyển nhượng trực tiếp hoặc thông qua hệ thống bưu chính tại Bộ Thông tin và Truyền thông hoặc thông qua hình thức trực tuyến tại Cổng dịch vụ công quốc gia (http://dichvucong.vn) hoặc Cổng dịch vụ công trực tuyến của Bộ Thông tin và Truyền thông (http://dichvucong.mic.gov.vn);\nb) Trong thời hạn 30 ngày, kể từ ngày\nnhận đủ hồ sơ hợp lệ, Bộ Thông tin và Truyền thông thông báo bằng văn bản cho các doanh nghiệp, tổ chức về việc chấp thuận chuyển nhượng quyền sử dụng mã, số viễn thông; Trường hợp không cho phép chuyển nhượng quyền sử dụng mã, số viễn thông, Bộ Thông tin và Truyền thông thông báo bằng văn bản cho doanh nghiệp, tổ chức chuyển nhượng và nhận chuyển nhượng biết và nêu rõ lý do từ chối;\nc) Sau khi nhận được văn bản chấp\nthuận cho phép chuyển nhượng mã, số viễn thông, doanh nghiệp, tổ chức thực hiện nghĩa vụ nộp thuế đối với hoạt động chuyển nhượng và làm thủ tục xin phân bổ mã, số viễn thông theo quy định;\nd) Sau khi xác nhận việc doanh nghiệp,\ntổ chức đã hoàn thành nộp thuế đối với hoạt động chuyển nhượng quyền sử dụng kho số viễn thông theo quy định của pháp luật về thuế, Bộ Thông tin và Truyền thông sẽ phân bố mã, số viễn thông cho doanh nghiệp, tổ chức nhận chuyển nhượng theo quy định của pháp luật về viễn thông.\nMục 2. CHUYỂN NHƯỢNG\nQUYỀN SỬ DỤNG TÊN MIỀN INTERNET\nĐiều 28. Điều kiện chuyển nhượng quyền sử dụng tên miền Internet Ngoài các điều kiện quy định tại khoản 2 Điều 49 của Luật Viễn thông, việc chuyển nhượng quyền sử dụng tên miền Internet quốc gia Việt Nam “.vn” và các tên miền Internet khác thuộc quyền quản lý của Việt Nam phải đáp ứng các điều kiện sau:\n1. Không được phép chuyển nhượng tên miền\nInternet đối với:\na) Tên miền được ưu tiên bảo vệ, bao gồm\ntên miền là tên gọi của các tổ chức Đảng, cơ quan nhà nước, các tổ chức chính trị - xã hội và tên miền khác liên quan đến lợi ích, an ninh chủ quyền quốc gia do Bộ Thông tin và Truyền thông quy định;\nb) Tên miền Internet đang xử lý vi phạm,\nđang trong quá trình giải quyết tranh chấp, khiếu nại hoặc đang bị tạm ngừng sử dụng.\n2. Tổ chức, cá nhân nhận chuyển nhượng\nquyền sử dụng tên miền Internet phải làm thủ tục đăng ký lại tên miền Internet và nộp phí, lệ phí đăng ký, duy trì sử dụng tên miền theo quy định về đăng ký, sử dụng tài nguyên Internet.\n3. Quá trình chuyển nhượng quyền sử dụng\ntên miền Internet được thực hiện tại nhà đăng ký đang quản lý tên miền Internet đó.\n4. Tên miền Internet đang trong quá trình\nchuyển nhượng quyền sử dụng không được cấp cho các tổ chức, cá nhân khác ngoài các bên đang thực hiện việc chuyển nhượng.\n5. Các bên tham gia chuyển nhượng tự\nchịu trách nhiệm nếu việc chuyển nhượng không thực hiện được do trong quá trình chuyển nhượng, tên miền Internet bị tạm ngừng hoặc thu hồi theo các quy định về quản lý và sử dụng tài nguyên Internet của Bộ Thông tin và Truyền thông.\nĐiều 29. Thủ tục chuyển nhượng quyền sử dụng tên miền Internet\n1. Hồ sơ chuyển nhượng\nHồ sơ chuyển nhượng quyền sử dụng tên miền Internet được lập thành 01 bộ gồm văn bản đề nghị chuyển nhượng và nhận chuyển nhượng tên miền Internet theo mẫu quy định tại Phụ lục III ban hành kèm theo Quyết định này. Văn bản phải có dấu và chữ ký của người đại diện theo pháp luật của tổ chức hoặc chữ ký của cá nhân là chủ thể đang đứng tên đăng ký sử dụng tên miền Internet được chuyển nhượng; dấu và chữ ký của người đại diện theo pháp luật của tổ chức hoặc chữ ký của cá nhân nhận chuyển nhượng tên miền Internet.\n2. Thủ tục chuyển nhượng\na) Tổ chức, cá nhân chuyển nhượng và\nnhận chuyển nhượng quyền sử dụng tên miền Internet nộp hồ sơ chuyển nhượng theo quy định tại khoản 1 Điều này trực tiếp, trực tuyến hoặc qua đường bưu chính về nhà đăng ký đang quản lý tên miền Internet đó;\nb) Trường hợp tên miền được cấp quyền\nsử dụng không thông qua đấu giá, trong thời hạn 05 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ, nhà đăng ký đang quản lý tên miền Internet xem xét điều kiện chuyển nhượng quyền sử dụng tên miền Internet và thông báo bằng văn bản cho bên chuyển nhượng và bên nhận chuyển nhượng về việc tên miền được chuyển nhượng;\nc) Trường hợp tên miền được cấp quyền\nsử dụng thông qua đấu giá, trong thời hạn 10 ngày, kể từ ngày nhận đủ hồ sơ hợp lệ, nhà đăng ký đang quản lý tên miền xem xét điều kiện chuyển nhượng quyền sử dụng tên miền Internet và gửi yêu cầu về Bộ Thông tin và Truyền thông (Trung tâm Internet Việt Nam) đề nghị chấp nhận yêu cầu chuyển nhượng quyền sử dụng tên miền. Trường hợp yêu cầu chuyển nhượng quyền sử dụng tên miền được duyệt, Nhà đăng ký đang quản lý tên miền thông báo bằng văn bản cho bên chuyển nhượng và bên nhận chuyển nhượng về việc tên miền được chuyển nhượng trong thời hạn không quá 02 ngày làm việc, kể từ ngày nhận được thông báo duyệt yêu cầu chuyển nhượng quyền sử dụng tên miền từ Bộ Thông tin và Truyền thông (Trung tâm Internet Việt Nam);\nd) Trường hợp tên miền Internet\nkhông được phép chuyển nhượng quyền sử dụng, nhà đăng ký đang quản lý tên miền Internet thông báo bằng văn bản cho tổ chức, cá nhân nộp hồ sơ xin chuyển nhượng và nêu rõ lý do từ chối;\nđ) Sau khi nhận được văn bản chấp thuận của\nnhà đăng ký đang quản lý tên miền Internet được chuyển nhượng, tổ chức, cá nhân thực hiện nghĩa vụ nộp thuế đối với hoạt động chuyển nhượng;\ne) Sau khi các bên hoàn thành\nnghĩa vụ nộp thuế đối với hoạt động chuyển nhượng theo quy định, bên nhận chuyển nhượng phải hoàn tất các thủ tục đăng ký lại tên miền Internet tại nhà đăng ký đang quản lý tên miền Internet theo quy định đăng ký và sử dụng tài nguyên Internet;\ng) Nhà đăng ký đang quản lý\ntên miền Internet thực hiện các thủ tục đăng ký lại tên miền Internet cho bên nhận chuyển nhượng, lưu giữ hồ sơ và thực hiện việc báo cáo theo yêu cầu của cơ quan quản lý trong trường hợp cần thiết.\n3. Giao dịch chuyển nhượng bị coi là\nkhông hợp pháp trong các trường hợp: các bên tham gia quá trình chuyển nhượng không thực hiện nghĩa vụ nộp thuế đối với hoạt động chuyển nhượng quyền sử dụng tên miền Internet theo quy định của pháp luật về thuế; thực hiện chuyển nhượng không thông qua nhà đăng ký đang quản lý tên miền; có sự giả mạo về thông tin, hồ sơ chuyển nhượng quyền sử dụng tên miền.\nMục 3. TRÁCH NHIỆM CỦA\nCÁC BÊN\nĐiều 30. Trách nhiệm của bên chuyển nhượng Doanh nghiệp, tổ chức, cá nhân chuyển nhượng quyền sử dụng kho số viễn thông, tên miền Internet có trách nhiệm sau: 1, Bảo đảm quyền và lợi ích hợp pháp của doanh nghiệp, tổ chức, cá nhân chịu ảnh hưởng của việc chuyển nhượng.\n2. Thực hiện nghĩa vụ về thuế đối với hoạt động\nchuyển nhượng quyền sử dụng kho số viễn thông, tên miền Internet theo quy định của pháp luật về thuế.\n3. Nộp lệ phí phân bổ và phí sử dụng kho\nsố viễn thông, tên miền Internet theo quy định.\n4. Tuân thủ các quy định của pháp luật\nvề viễn thông.\nĐiều 31. Trách nhiệm của bên nhận chuyển nhượng Doanh nghiệp, tổ chức, cá nhân nhận chuyển nhượng quyền sử dụng kho số viễn thông, tên miền Internet có trách nhiệm sau:\n1. Bảo đảm quyền và lợi ích hợp pháp của\ndoanh nghiệp, tổ chức, cá nhân chịu ảnh hưởng của việc chuyển nhượng.\n2. Thực hiện nghĩa vụ về thuế đối với\nhoạt động nhận chuyển nhượng quyền sử dụng kho số viễn thông, tên miền Internet (nếu có) theo quy định của pháp luật về thuế.\n3. Nộp lệ phí phân bổ và phí sử dụng kho số viễn\nthông, tên miền Internet theo quy định,\n4. Tuân thủ các quy định\ncủa pháp luật về viễn thông.\nChương IV\nĐIỀU KHOẢN THI HÀNH\nĐiều 32. Hiệu lực thi hành\n1. Quyết định này có hiệu lực\ntừ ngày 01 tháng 6 năm 2021.\n2. Quyết định số 38/2014/QĐ-TTg ngày\n01 tháng 7 năm 2014 của Thủ tướng Chính phủ quy định về đấu giá, chuyển nhượng quyền sử dụng kho số viễn thông, tên miền Internet hết hiệu lực kể từ ngày Quyết định này có hiệu lực thi hành.\nĐiều 33. Tổ chức thực hiện\n1. Bộ Thông tin và Truyền thông chủ\ntrì, phối hợp với Bộ Tài chính và các bộ, ngành liên quan có trách nhiệm hướng dẫn thực hiện Quyết định này.\n2. Các Bộ trưởng, Thủ trưởng cơ quan\nngang bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương chịu trách nhiệm thi hành Quyết định này\nNơi nhận:\n-\nThủ tướng, các Phó Thủ tướng Chính phủ;\n- Các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ;\n- UBND các tỉnh, thành\nphố trực thuộc trung ương;\n- Văn phòng\nTrung ương Đảng;\n- Văn phòng Quốc\nhội;\n- VPCP: BTCN, các PCN,\nTrợ lý TTg, các Vụ: TH, KTTH, PL, CN, Cục KSTT;\n- Lưu: VT, KGVX (2).\nKT. THỦ TRƯỞNG\nPHÓ THỦ TƯỚNG\nVũ Đức Đam\nPHỤ LỤC I\nMÃ,\nSỐ, KHỐI SỐ CÓ CẤU TRÚC ĐẶC BIỆT\n(Kèm theo Quyết định số 16/2021/QĐ-TTg ngày 30 tháng 3 năm 2021 của Thủ tướng Chính phủ)\n1. Số dịch vụ tin nhắn ngắn (SMS)\nTT\nSố dịch vụ tin nhắn ngắn (SMS) độ dài 04 chữ số Số dịch vụ tin nhắn ngắn (SMS) độ dài 05 chữ số Số/Cấu trúc số Ghi chú Số Ghi chú 1 1234\nA=1, 5, 6, 7, 8, 9;\nB=0-9;\n22222 2 5678 33333 3 6789 44444 4\nAAAA\n23456 5\nABBB\n34567 6\nAAAB\n45678\n2. Mã mạng viễn thông di động mặt đất\ndùng cho phương thức giao tiếp giữa người với người (H2H)\nTT\nCấu trúc mã mạng Mô tả cấu trúc Ghi chú 1\n4A\n2 chữ số\nA=2, 4, 6, 8, 9\n2\n5A\n2 chữ số\nA=2, 4, 7\n3\n7A\n2 chữ số\nA=2-5\n4\n9A\n2 chữ số\nA=5 PHỤ LỤC II MẪU\nVĂN BẢN ĐỀ NGHỊ CHUYỂN NHƯỢNG VÀ NHẬN CHUYỂN NHƯỢNG QUYỀN SỬ DỤNG MÃ, SỐ VIỄN\nTHÔNG\n(Kèm theo Quyết định số 16/2021/QĐ-TTg ngày 30 tháng 3 năm 2021 của Thủ tướng Chính phủ)\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc ---------------\nVĂN BẢN ĐỀ\nNGHỊ CHUYỂN NHƯỢNG VÀ NHẬN CHUYỂN NHƯỢNG QUYỀN SỬ DỤNG MÃ, SỐ VIỄN THÔNG\nKính gửi: Cục Viễn thông, Bộ Thông tin và Truyền thông. Thực hiện quy định tại Quyết định số …./2021/QĐ-TTg ngày ... tháng ... năm 2021 của Thủ tướng Chính phủ quy định về đấu giá, chuyển nhượng quyền sử dụng kho số viễn thông, tên miền Internet, chúng tôi gồm có:\n1. Bên chuyển nhượng quyền sử dụng mã,\nsố viễn thông\na) Trường hợp là doanh nghiệp\n- Tên doanh nghiệp: …………………………………………………………….. - Địa chỉ trụ sở chính: ………Số điện thoại: …………..Địa chỉ email: …………….. - Người đại diện theo pháp luật: ………………………………………………. - Mã số doanh nghiệp: ………………………………………………………….. - Thông tin về Giấy phép kinh doanh viễn thông (nếu là doanh nghiệp viễn thông): Số ……ngày cấp: ……………….ngày hết hạn: ……………………………..\nb) Trường hợp là tổ chức:\n- Tên tổ chức: ………………………………………………………………... - Địa chỉ: ………….Số điện thoại: ………………Địa chỉ email: …………………….. - Người đại diện theo pháp luật: …………………………………………. - Thông tin về Quyết định thành lập tổ chức: Số: ………………ngày thành lập ………………………………………….\n2. Bên nhận chuyển nhượng quyền sử dụng\nmã, số viễn thông\na) Trường hợp là doanh nghiệp:\n- Tên doanh nghiệp: ………………………………………………………… - Địa chỉ trụ sở chính: ……….Số điện thoại: …………...Địa chỉ email: ……………….. - Người đại diện theo pháp luật: ……………………………………………. - Mã số doanh nghiệp: ………………………………………………………….. - Thông tin về Giấy phép kinh doanh viễn thông (nếu là doanh nghiệp viễn thông): Số ………..ngày cấp: ……………..ngày hết hạn: ……………………………….\nb) Trường hợp là tổ chức\n- Tên tổ chức: .............................................................................................. - Địa chỉ: ………….Số điện thoại: …………….Địa chỉ email: …………………….. - Người đại diện theo pháp luật: ……………………………………………….. - Thông tin về Quyết định thành lập tổ chức: ……………………………………. Số: ………………ngày thành lập ……………………………………………..\n3. Mã, số viễn thông chuyển nhượng:\nSTT\nMã, số viễn thông chuyển nhượng Số tiền chuyển nhượng (Đơn vị: đồng) 1 2 ...\n4. Tài liệu chuyển nhượng\n- Tài liệu chứng minh của bên nhận chuyển nhượng về việc đáp ứng các yêu cầu tối thiểu tại cuộc đấu giá mà bên chuyển nhượng đã tham gia; bản cam kết của bên nhận chuyển nhượng. - Tài liệu liên quan khác (nếu có).\n5. Điều khoản cam kết\nCác bên tham gia chuyển nhượng và nhận chuyển nhượng chịu trách nhiệm trước pháp luật về các thông tin cung cấp và cam kết thực hiện nội dung chuyển nhượng quyền sử dụng mã, số viễn thông theo quy định của pháp luật về viễn thông và pháp luật liên quan.\nBÊN CHUYỂN NHƯỢNG\n(Ký ghi rõ họ tên, chức danh, đóng dấu) ……, ngày... tháng.... năm…….\nBÊN NHẬN CHUYỂN NHƯỢNG\n(Ký ghi rõ họ tên, chức danh, đóng dấu)\nPHỤ LỤC III\nMẪU\nVĂN BẢN ĐỀ NGHỊ CHUYỂN NHƯỢNG VÀ NHẬN CHUYỂN NHƯỢNG QUYỀN SỬ DỤNG TÊN MIỀN\nINTERNET THÔNG QUA ĐẤU GIÁ\n(Kèm theo Quyết định số 16/2021/QĐ-TTg ngày 30 tháng 3 năm 2021 của Thủ tướng Chính phủ)\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc ---------------\nVĂN BẢN ĐỀ\nNGHỊ CHUYỂN NHƯỢNG VÀ NHẬN CHUYỂN NHƯỢNG QUYỀN SỬ DỤNG TÊN MIỀN INTERNET\nKính gửi: ……….. (tên Nhà đăng ký)…………. Chúng tôi (bên chuyển nhượng và bên nhận chuyển nhượng quyền sử dụng tên miền Internet) đã thống nhất và đề nghị Nhà đăng ký …………………thực hiện việc chuyển nhượng quyền sử dụng tên miền Internet theo các thông tin dưới đây:\n1. Tên miền Internet đề\nnghị chuyển nhượng quyền sử dụng:………………….. ……………………………………………………………………………………………….. - Ngày đăng ký: ………………………………………………………………… - Ngày hết hạn: …………………………………………………………………… - Nhà đăng ký quản lý: …………………………………………………………..\n2. Bên chuyển nhượng quyền sử dụng\ntên miền Internet (Chủ thể tên miền)\na) Trường hợp là tổ chức:\n- Tên tổ chức: …………………………………………………………………. - Tên giao dịch viết bằng tiếng nước ngoài (nếu có): …………………………… - Mã số doanh nghiệp: …………………………………………………………. - Địa chỉ: …………………………………………………………… - Số điện thoại: ………………………………………… - Địa chỉ email: ………………………………………………………………… - Họ tên người đại diện theo pháp luật …………………….Chức vụ: ………………… - Thông tin của người được ủy quyền thay mặt tổ chức, doanh nghiệp làm thủ tục chuyển nhượng quyền sử dụng tên miền internet: + Họ và tên: ………………………………………………………….. + Số chứng minh nhân dân/số thẻ căn cước công dân/số hộ chiếu: ……………\nb) Trường hợp là cá nhân:\n- Họ và tên: …………………………………………………… - Số chứng minh nhân dân/số thẻ căn cước công dân/số hộ chiếu: ………………. - Địa chỉ: …………………………………………………………….. - Số điện thoại: …………………………………………………….. - Địa chỉ email: ………………………………………………………..\n3. Bên nhận chuyển nhượng quyền sử dụng\ntên miền Internet\na) Trường hợp là tổ chức:\n- Tên tổ chức: …………………………………………………………………. - Tên giao dịch viết bằng tiếng nước ngoài (nếu có): ……………………….. - Mã số doanh nghiệp: …………………………………………….. - Địa chỉ: ……………………………………………………………….. - Số điện thoại: …………………………………………………….. - Địa chỉ email: ……………………………………………………… - Họ tên người đại diện theo pháp luật …………….Chức vụ: ………………….. - Thông tin của người được ủy quyền thay mặt tổ chức, doanh nghiệp làm thủ tục chuyển nhượng quyền sử dụng tên miền Internet: + Họ và tên: ……………………………………………………………… + Số chứng minh nhân dân/Số thẻ căn cước công dân/số hộ chiếu: …………\nb) Trường hợp là cá nhân:\n- Họ và tên: ………………………………………. - Số chứng minh nhân dân/Số thẻ căn cước công dân/Số hộ chiếu: …………… - Địa chỉ: ……………………………………………….. - Số điện thoại: ………………………………………………………… - Địa chỉ email: ……………………………………..\n4. Số tiền chuyển nhượng: …………………………………………………\n5. Cam kết\nChúng tôi xin chịu trách nhiệm trước pháp luật về các thông tin cung cấp và cam kết: - Tên miền Internet chuyển nhượng quyền sử dụng đang hoạt động bình thường, không có tranh chấp, đủ điều kiện được thực hiện chuyển quyền sử dụng theo quy định của pháp luật. - Bên nhận chuyển nhượng quyền sử dụng tên miền Internet đúng đối tượng được đăng ký tên miền chuyển nhượng. - Thực hiện đầy đủ trách nhiệm của các bên tham gia chuyển nhượng theo quy định của pháp luật. Trân trọng cảm ơn.\nBÊN CHUYỂN NHƯỢNG\n(Cá nhân ký ghi rõ họ tên; người đại diện theo pháp luật ký tên và đóng dấu nếu là tổ chức) ……, ngày... tháng ... năm ......\nBÊN NHẬN CHUYỂN NHƯỢNG\n(Cá nhân ký ghi rõ họ tên; người đại diện theo pháp luật ký tên và đóng dấu nếu là tổ chức)",
+  "tree": {
+    "parts": [
+      {
+        "part_id": "doc:145694:part:1",
+        "part_type": "main",
+        "part_title": null,
+        "reference": null,
+        "direct_text": "QUYẾT ĐỊNH QUY\nĐỊNH VỀ ĐẤU GIÁ, CHUYỂN NHƯỢNG QUYỀN SỬ DỤNG KHO SỐ VIỄN THÔNG, TÊN MIỀN INTERNET\nCăn cứ Luật Tổ chức Chính phủ ngày 19 tháng 6 năm 2015; Luật sửa đổi, bổ sung một số điều của Luật Tổ chức Chính phủ và Luật Tổ chức chính quyền địa phương ngày 22 tháng 11 năm 2019; Căn cứ Luật Viễn thông ngày 23 tháng 11 năm 2009; Căn cứ Luật Giá ngày 20 tháng 6 năm 2012; Căn cứ Luật Đấu giá tài sản ngày 17 tháng 11 năm 2016; Căn cứ Luật Quản lý, sử dụng tài sản công ngày 21 tháng 6 năm 2017; Căn cứ Nghị định số 25/2011/NĐ-CP ngày 06 tháng 4 năm 2011 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Viễn thông; Căn cứ Nghị định số 89/2013/NĐ-CP ngày 06 tháng 8 năm 2013 của Chính phủ quy định chi tiết một số điều của Luật Giá về thẩm định giá; Căn cứ Nghị định số 62/2017/NĐ-CP ngày 16 tháng 5 năm 2017 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Đấu giá tài sản; Căn cứ Nghị định số 151/2017/NĐ-CP ngày 26 tháng 12 năm 2017 của Chính phủ quy định chi tiết một số điều của Luật Quản lý, sử dụng tài sản công; Căn cứ Nghị định số 72/2013/NĐ-CP ngày 15 tháng 7 năm 2013 của Chính phủ về quản lý, cung cấp, sử dụng dịch vụ Internet và thông tin trên mạng; Nghị định số 27/2018/NĐ-CP ngày 01 tháng 3 năm 2018 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 72/2013/NĐ-CP ; Căn cứ Nghị định số 17/2017/NĐ-CP ngày 17 tháng 02 năm 2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Thông tin và Truyền thông; Theo đề nghị của Bộ trưởng Bộ Thông tin và Truyền thông; Thủ tướng Chính phủ ban hành Quyết định quy định về đấu giá, chuyển nhượng quyền sử dụng kho số viễn thông, tên miền Internet.\nDanh mục kho số\nviễn thông được đấu giá theo từng thời kỳ căn cứ vào Quy hoạch kho số viễn thông và tình hình thực tế của thị trường viễn thông Việt Nam.\nDanh mục tên miền Internet triển khai đấu giá theo từng thời kỳ căn cứ vào tình\nhình thực tế quản lý, đăng ký sử dụng tên miền Internet tại Việt Nam.",
+        "chapters": [
+          {
+            "chapter_id": "doc:145694:part:1:chapter:1",
+            "number": "I",
+            "title": "QUY ĐỊNH CHUNG",
+            "content": "Chương I\nQUY ĐỊNH CHUNG",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:145694:part:1:article:1",
+                "number": "1",
+                "title": "Phạm vi điều chỉnh Quyết định này quy định về đấu giá quyền sử dụng kho số viễn thông, tên miền Internet; chuyển nhượng quyển sử dụng kho số viễn thông được phân bổ thông qua đấu giá, chuyển nhượng quyền sử dụng tên miền Internet,",
+                "content": "Điều 1. Phạm vi điều chỉnh Quyết định này quy định về đấu giá quyền sử dụng kho số viễn thông, tên miền Internet; chuyển nhượng quyển sử dụng kho số viễn thông được phân bổ thông qua đấu giá, chuyển nhượng quyền sử dụng tên miền Internet,",
+                "clauses": [],
+                "points": []
+              },
+              {
+                "article_id": "doc:145694:part:1:article:2",
+                "number": "2",
+                "title": "Đối tượng áp dụng",
+                "content": "Điều 2. Đối tượng áp dụng",
+                "clauses": [
+                  {
+                    "clause_id": "doc:145694:part:1:article:2:clause:1",
+                    "number": "1",
+                    "content": "1. Doanh nghiệp viễn thông, doanh nghiệp cung cấp\ndịch vụ ứng dụng viễn thông, tổ chức được phép sử dụng kho số viễn thông,",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:145694:part:1:article:2:clause:2",
+                    "number": "2",
+                    "content": "2. Tổ chức, cá nhân liên quan tới\nhoạt động đấu giá, chuyển nhượng quyền sử dụng kho số viễn thông.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:145694:part:1:article:2:clause:3",
+                    "number": "3",
+                    "content": "3. Tổ chức, cá nhân trong nước và tổ\nchức, cá nhân nước ngoài liên quan tới hoạt động đấu giá, chuyển nhượng quyền sử dụng tên miền Internet.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:145694:part:1:article:3",
+                "number": "3",
+                "title": "Giải thích từ ngữ Trong Quyết định này, các từ ngữ dưới đây được hiểu như sau:",
+                "content": "Điều 3. Giải thích từ ngữ Trong Quyết định này, các từ ngữ dưới đây được hiểu như sau:",
+                "clauses": [
+                  {
+                    "clause_id": "doc:145694:part:1:article:3:clause:1",
+                    "number": "1",
+                    "content": "1. Đấu giá quyền sử dụng kho số viễn thông là việc xác định\ndoanh nghiệp, tổ chức được quyền sử dụng mã, số viễn thông thông qua việc đánh giá các điều kiện tham gia đấu giá và mức trả giá cao nhất của doanh nghiệp, tổ chức tham gia đấu giá theo trình tự, thủ tục đấu giá.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:145694:part:1:article:3:clause:2",
+                    "number": "2",
+                    "content": "2. Đấu giá quyền sử dụng tên miền\nInternet là việc xác định tổ chức, cá nhân được quyền đăng ký sử dụng tên miền quốc gia Việt Nam “.vn” theo quy định pháp luật về đấu giá.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:145694:part:1:article:3:clause:3",
+                    "number": "3",
+                    "content": "3. Điều kiện tham gia đấu giá là tập\nhợp các yêu cầu, điều kiện được áp dụng với từng cuộc đấu giá và được quy định cụ thể trong Quy chế đấu giá của cuộc đấu giá đó.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:145694:part:1:article:3:clause:4",
+                    "number": "4",
+                    "content": "4. Người tham gia đấu giá là doanh\nnghiệp, tổ chức, cá nhân có đủ điều kiện tham gia đấu giá quyền sử dụng kho số viễn thông, tên miền Internet theo quy định của Quyết định này và quy định khác của pháp luật có liên quan,",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:145694:part:1:article:3:clause:5",
+                    "number": "5",
+                    "content": "5. Người trúng đấu giá là người tham gia\nđấu giá có mức trả giá cao nhất so với giá khởi điểm hoặc bằng giá khởi điểm trong trường hợp không có người trả giá cao hơn giá khởi điểm khi đấu giá theo phương thức trả giá lên.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:145694:part:1:article:3:clause:6",
+                    "number": "6",
+                    "content": "6. Quy chế cuộc đấu giá (sau đây gọi\nlà Quy chế đấu giá) là tập hợp các thông tin, tài liệu liên quan đến cuộc đấu giá do Tổ chức đấu giá tài sản hoặc Hội đồng đấu giá tài sản ban hành, làm cơ sở cho tổ chức, cá nhân lập Hồ sơ tham gia đấu giá.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:145694:part:1:article:3:clause:7",
+                    "number": "7",
+                    "content": "7. Hồ sơ tham gia đấu giá là các tài\nliệu do tổ chức, cá nhân tham gia đấu giá lập và nộp cho Tổ chức đấu giá tài sản hoặc Hội đồng đấu giá theo yêu cầu quy định tại Quy chế cuộc đấu giá.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:145694:part:1:article:3:clause:8",
+                    "number": "8",
+                    "content": "8. Bản cam kết là tài liệu trong\nHồ sơ đấu giá quyền sử dụng kho số viễn thông được đại diện theo pháp luật của doanh nghiệp, tổ chức ký tên, đóng dấu để cam kết thực hiện các yêu cầu tối thiểu; cam kết chấp hành hình thức và mức phạt khi không thực hiện các yêu cầu tối thiểu sau khi được phân bổ mã, số viễn thông.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:145694:part:1:article:3:clause:9",
+                    "number": "9",
+                    "content": "9. Tiền trúng đấu giá là số tiền mà người\ntrúng đấu giá phải nộp để được quyền sử dụng mã, số viễn thông hoặc số tiền mà người trúng đấu giá phải nộp để được quyền đăng ký sử dụng tên miền Internet. Tiền trúng đấu giá không bao gồm lệ phí phân bổ, phí sử dụng mã số viễn thông, lệ phí đăng ký, phí duy trì tên miền Internet.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:145694:part:1:article:3:clause:10",
+                    "number": "10",
+                    "content": "10. Chuyển nhượng quyền sử dụng kho số\nviễn thông là việc doanh nghiệp, tổ chức chuyển nhượng toàn bộ quyền sử dụng mã, số viễn thông do trúng đấu giá cho doanh nghiệp, tổ chức khác.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:145694:part:1:article:3:clause:11",
+                    "number": "11",
+                    "content": "11. Chuyển nhượng quyền sử dụng tên miền\nInternet là việc tổ chức, cá nhân chuyển quyền sử dụng tên miền quốc gia Việt Nam “.vn” của mình cho tổ chức, cá nhân khác theo quy định pháp luật về chuyển nhượng tên miền.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:145694:part:1:article:3:clause:12",
+                    "number": "12",
+                    "content": "12. Số thuê bao viễn thông được đấu\ngiá là số quốc gia có nghĩa theo Quy hoạch kho số viễn thông bao gồm mã mạng và số thuê bao.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:145694:part:1:article:3:clause:13",
+                    "number": "13",
+                    "content": "13. Cơ quan được giao nhiệm vụ tổ chức\nđấu giá là đơn vị trực thuộc Bộ Thông tin và Truyền thông chịu trách nhiệm quản lý về kho số viễn thông, tên miền Internet.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:145694:part:1:article:4",
+                "number": "4",
+                "title": "Hình thức đấu giá và phương thức đấu giá",
+                "content": "Điều 4. Hình thức đấu giá và phương thức đấu giá",
+                "clauses": [
+                  {
+                    "clause_id": "doc:145694:part:1:article:4:clause:1",
+                    "number": "1",
+                    "content": "1. Hình thức đấu giá, phương thức đấu\ngiá được quy định trong Quy chế đấu giá và công bố công khai cho người tham gia đấu giá biết.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:145694:part:1:article:4:clause:2",
+                    "number": "2",
+                    "content": "2. Phương thức đấu giá là phương thức\ntrả giá lên.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:145694:part:1:article:5",
+                "number": "5",
+                "title": "Thù lao dịch vụ đấu giá, chi phí đấu giá tài sản Thù lao dịch vụ đấu giá và chi phí đấu giá tài sản thực hiện theo quy định tại Điều 66 Luật Đấu giá tài sản và các quy định liên quan của Bộ Tài chính.",
+                "content": "Điều 5. Thù lao dịch vụ đấu giá, chi phí đấu giá tài sản Thù lao dịch vụ đấu giá và chi phí đấu giá tài sản thực hiện theo quy định tại Điều 66 Luật Đấu giá tài sản và các quy định liên quan của Bộ Tài chính.",
+                "clauses": [],
+                "points": []
+              },
+              {
+                "article_id": "doc:145694:part:1:article:6",
+                "number": "6",
+                "title": "Lựa chọn Tổ chức đấu giá tài sản",
+                "content": "Điều 6. Lựa chọn Tổ chức đấu giá tài sản",
+                "clauses": [
+                  {
+                    "clause_id": "doc:145694:part:1:article:6:clause:1",
+                    "number": "1",
+                    "content": "1. Sau khi Bộ trưởng Bộ Thông tin và Truyền\nthông phê duyệt Kế hoạch tổ chức đấu giá kho số viễn thông, tên miền Internet, cơ quan được giao nhiệm vụ tổ chức đấu giá thuê Tổ chức đấu giá tài sản để tổ chức cuộc đấu giá theo quy định của pháp luật.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:145694:part:1:article:6:clause:2",
+                    "number": "2",
+                    "content": "2. Việc lựa chọn tổ chức đấu giá tài sản\nđược thực hiện theo Điều 56 Luật Đấu giá tài sản. Trường hợp không lựa chọn được tổ chức đấu giá tài sản, Bộ trưởng Bộ Thông tin và Truyền thông quyết định thành lập Hội đồng đấu giá tài sản. Hội đồng đấu giá tài sản gồm 3 thành viên trở lên; Chủ tịch Hội đồng là Bộ trưởng Bộ Thông tin và Truyền thông hoặc người được Bộ trưởng Bộ Thông tin và Truyền thông ủy quyền; thành viên của Hội đồng là đại diện Bộ Tài chính, Bộ Tư pháp, đại diện cơ quan khác có liên quan. Hội đồng đấu giá tài sản có thể ký hợp đồng với tổ chức đấu giá tài sản để cử đấu giá viên điều hành cuộc đấu giá.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:145694:part:1:article:7",
+                "number": "7",
+                "title": "Trình tự, thủ tục đấu giá Việc đấu giá quyền sử dụng kho số viễn thông, tên miền Internet được thực hiện theo trình tự, thủ tục quy định tại Chương III, Chương IV Luật Đấu giá tài sản.",
+                "content": "Điều 7. Trình tự, thủ tục đấu giá Việc đấu giá quyền sử dụng kho số viễn thông, tên miền Internet được thực hiện theo trình tự, thủ tục quy định tại Chương III, Chương IV Luật Đấu giá tài sản.",
+                "clauses": [],
+                "points": []
+              },
+              {
+                "article_id": "doc:145694:part:1:article:8",
+                "number": "8",
+                "title": "Quy chế đấu giá",
+                "content": "Điều 8. Quy chế đấu giá",
+                "clauses": [
+                  {
+                    "clause_id": "doc:145694:part:1:article:8:clause:1",
+                    "number": "1",
+                    "content": "1. Tổ chức đấu giá tài sản hoặc Hội đồng\nđấu giá tài sản ban hành Quy chế đấu giá bao gồm những nội dung chính như kho số viễn thông, tên miền Internet đấu giá, tiền đặt trước, hình thức đấu giá, giá khởi điểm (trong trường hợp công khai giá khởi điểm) và các nội dung khác theo quy định tại Điều 34 Luật Đấu giá tài sản.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:145694:part:1:article:8:clause:2",
+                    "number": "2",
+                    "content": "2. Quy chế đấu giá áp dụng cho từng cuộc đấu\ngiá phải được ban hành trước ngày niêm yết việc đấu giá tài sản theo quy định tại",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:145694:part:1:article:9",
+                "number": "34",
+                "title": "Luật Đấu giá tài sản.",
+                "content": "Điều 34 Luật Đấu giá tài sản.",
+                "clauses": [
+                  {
+                    "clause_id": "doc:145694:part:1:article:9:clause:1",
+                    "number": "3",
+                    "content": "3. Cơ quan được giao nhiệm vụ tổ chức\nđấu giá xây dựng và trình Bộ trưởng Bộ Thông tin và Truyền thông quyết định các nội dung về tiền đặt trước, hình thức đấu giá, giá khởi điểm (trong trường hợp công khai giá khởi điểm) trước khi thống nhất với Tổ chức đấu giá tài sản để đưa vào Quy chế đấu giá.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:145694:part:1:article:10",
+                "number": "9",
+                "title": "Trường hợp không tổ chức đấu giá Tổ chức đấu giá tài sản hoặc Hội đồng đấu giá tài sản không tổ chức cuộc đấu giá và hoàn trả tiền đặt trước cho người tham gia đấu giá trong các trường hợp sau:",
+                "content": "Điều 9. Trường hợp không tổ chức đấu giá Tổ chức đấu giá tài sản hoặc Hội đồng đấu giá tài sản không tổ chức cuộc đấu giá và hoàn trả tiền đặt trước cho người tham gia đấu giá trong các trường hợp sau:",
+                "clauses": [
+                  {
+                    "clause_id": "doc:145694:part:1:article:10:clause:1",
+                    "number": "1",
+                    "content": "1. Trước ngày tổ chức cuộc đấu giá, cơ\nquan nhà nước có thẩm quyền có văn bản yêu cầu dừng tổ chức cuộc đấu giá.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:145694:part:1:article:10:clause:2",
+                    "number": "2",
+                    "content": "2. Trong trường hợp chỉ có 01 người đăng\nký tham gia đấu giá hoặc có nhiều người đăng ký tham gia đấu giá nhưng chỉ có 01 người tham gia cuộc đấu giá.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:145694:part:1:article:11",
+                "number": "10",
+                "title": "Trường hợp tổ chức đấu giá lại",
+                "content": "Điều 10. Trường hợp tổ chức đấu giá lại",
+                "clauses": [
+                  {
+                    "clause_id": "doc:145694:part:1:article:11:clause:1",
+                    "number": "1",
+                    "content": "1. Tổ chức đấu giá lại mã, số viễn\nthông, tên miền Internet trong các trường hợp sau:",
+                    "points": [
+                      {
+                        "point_id": "doc:145694:part:1:article:11:clause:1:point:1",
+                        "label": "a",
+                        "content": "a) Các trường hợp không tổ chức đấu\ngiá quy định tại Điều 9 Quyết định này;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:145694:part:1:article:11:clause:1:point:2",
+                        "label": "b",
+                        "content": "b) Có nhiều người tham gia cuộc đấu\ngiá nhưng chỉ có 01 người trả giá, hoặc có nhiều người trả giá nhưng chỉ có 01 người trả giá cao nhất nhưng thấp hơn giá khởi điểm;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:145694:part:1:article:11:clause:1:point:3",
+                        "label": "c",
+                        "content": "c) Tên miền đã được đấu giá\nnhưng tổ chức, cá nhân trúng đấu giá không nộp tiền trúng đấu giá; tên miền đã được đấu giá nhưng tổ chức, cá nhân trúng đấu giá không hoàn tất thủ tục đăng ký sử dụng tên miền theo quy định; tên miền đấu giá đã được đăng ký sử dụng nhưng chủ thể không tiếp tục nộp phí duy trì sử dụng khi tên miền hết hạn sử dụng theo quy định;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:145694:part:1:article:11:clause:1:point:4",
+                        "label": "d",
+                        "content": "d) Các trường hợp đấu giá không thành\nquy định tại khoản 1 Điều 52 Luật Đấu giá tài sản.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:145694:part:1:article:11:clause:2",
+                    "number": "2",
+                    "content": "2. Trường hợp tổ chức đấu giá lại đối với\nmã, số viễn thông, tên miền Internet quy định tại khoản 1 Điều này nếu vẫn chưa xác định được người trúng đấu giá hoặc trong trường hợp chỉ có một phần của mã, số viễn thông, danh mục tên miền Internet đấu giá không thành thì cơ quan được giao nhiệm vụ tổ chức đấu giá tài sản trình Bộ trưởng Bộ Thông tin và Truyền thông xem xét, quyết định đấu giá lại vào thời điểm phù hợp theo quy định pháp luật về đấu giá tài sản.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:145694:part:1:chapter:2",
+            "number": "II",
+            "title": "ĐẤU GIÁ QUYỀN SỬ DỤNG KHO SỐ VIỄN THÔNG, TÊN MIỀN INTERNET",
+            "content": "Chương II\nĐẤU\nGIÁ QUYỀN SỬ DỤNG KHO SỐ VIỄN THÔNG, TÊN MIỀN INTERNET",
+            "sections": [
+              {
+                "section_id": "doc:145694:part:1:section:1",
+                "number": "1",
+                "title": "VỀ ĐẤU GIÁ QUYỀN SỬ DỤNG KHO SỐ VIỄN THÔNG, TÊN MIỀN INTERNET",
+                "content": "Mục 1. QUY ĐỊNH CHUNG\nVỀ ĐẤU GIÁ QUYỀN SỬ DỤNG KHO SỐ VIỄN THÔNG, TÊN MIỀN INTERNET",
+                "articles": [
+                  {
+                    "article_id": "doc:145694:part:1:article:12",
+                    "number": "11",
+                    "title": "Kho số viễn thông được đấu giá",
+                    "content": "Điều 11. Kho số viễn thông được đấu giá",
+                    "clauses": [
+                      {
+                        "clause_id": "doc:145694:part:1:article:12:clause:1",
+                        "number": "1",
+                        "content": "1. Kho số viễn thông được đấu giá quyền\nsử dụng là các mã, số viễn thông có cấu trúc đặc biệt nằm trong quy hoạch kho số viễn thông và có tiêu chí quy định tại Phụ lục I kèm theo Quyết định này.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:145694:part:1:article:12:clause:2",
+                        "number": "2",
+                        "content": "2. Kho số viễn thông đấu giá quyển sử\ndụng được xem xét, lựa chọn từ kho số viễn thông chưa phân bổ cho cơ quan, tổ chức, doanh nghiệp.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:145694:part:1:article:12:clause:3",
+                        "number": "3",
+                        "content": "3. Bộ Thông tin và Truyền thông công bố",
+                        "points": []
+                      }
+                    ],
+                    "points": []
+                  },
+                  {
+                    "article_id": "doc:145694:part:1:article:13",
+                    "number": "12",
+                    "title": "Tên miền Internet được đấu giá",
+                    "content": "Điều 12. Tên miền Internet được đấu giá",
+                    "clauses": [
+                      {
+                        "clause_id": "doc:145694:part:1:article:13:clause:1",
+                        "number": "1",
+                        "content": "1. Các tên miền quốc gia Việt\nNam “.vn” được phân bổ thông qua phương thức đấu giá bao gồm:",
+                        "points": [
+                          {
+                            "point_id": "doc:145694:part:1:article:13:clause:1:point:1",
+                            "label": "a",
+                            "content": "a) Các tên miền quốc gia Việt Nam “.vn” không dấu\ncấp 2 dùng riêng có 01 ký tự (là tên miền cấp 2 dưới “.vn” được lập nên từ 01 ký tự trong số 26 chữ cái trong bảng chữ cái tiếng Anh và 10 số tự nhiên từ 0 đến 9);",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:145694:part:1:article:13:clause:1:point:2",
+                            "label": "b",
+                            "content": "b) Các tên miền quốc gia Việt Nam “.vn” không dấu\ncấp 2 dùng riêng có 02 ký tự (là tên miền cấp 2 dưới “.vn” được lập nên từ 02 ký tự trong số 26 chữ cái trong bảng chữ cái tiếng Anh và 10 số tự nhiên từ 0 đến 9);",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:145694:part:1:article:13:clause:1:point:3",
+                            "label": "c",
+                            "content": "c) Trừ các tên miền được bảo vệ theo quy\nđịnh tại Điều 68 Luật Công nghệ Thông tin và các văn bản quy phạm pháp luật có liên quan.",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "clause_id": "doc:145694:part:1:article:13:clause:2",
+                        "number": "2",
+                        "content": "2. Bộ Thông tin và Truyền thông công bố",
+                        "points": []
+                      }
+                    ],
+                    "points": []
+                  },
+                  {
+                    "article_id": "doc:145694:part:1:article:14",
+                    "number": "13",
+                    "title": "Điều kiện được tham gia đấu giá mã, số viễn thông",
+                    "content": "Điều 13. Điều kiện được tham gia đấu giá mã, số viễn thông",
+                    "clauses": [
+                      {
+                        "clause_id": "doc:145694:part:1:article:14:clause:1",
+                        "number": "1",
+                        "content": "1. Doanh nghiệp, tổ chức thành lập\ntheo pháp luật Việt Nam, phải đáp ứng được yêu cầu về tài chính, kỹ thuật phù hợp đối với từng loại mã, số viễn thông được đấu giá theo quy hoạch và quy định về quản lý kho số viễn thông.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:145694:part:1:article:14:clause:2",
+                        "number": "2",
+                        "content": "2. Phải cam kết triển khai việc đưa\nmã, số viễn thông vào khai thác, sử dụng tối thiểu 06 tháng sau khi trúng đấu giá.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:145694:part:1:article:14:clause:3",
+                        "number": "3",
+                        "content": "3. Phải hoàn thành các nghĩa vụ tài chính có liên\nquan (nộp đầy đủ các khoản phí sử dụng kho số, tần số, nghĩa vụ công ích, phí quyền hoạt động viễn thông của doanh nghiệp, tổ chức) trước khi tham gia đấu giá (nếu có).",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:145694:part:1:article:14:clause:4",
+                        "number": "4",
+                        "content": "4. Có giấy phép kinh doanh dịch vụ viễn\nthông phù hợp với loại mã, số viễn thông được đấu giá; giấy chứng nhận cung cấp dịch vụ nội dung thông tin trên mạng viễn thông di động theo quy định của pháp luật về viễn thông.",
+                        "points": []
+                      }
+                    ],
+                    "points": []
+                  },
+                  {
+                    "article_id": "doc:145694:part:1:article:15",
+                    "number": "14",
+                    "title": "Xác định giá khởi điểm mã, số viễn thông, tên miền Internet",
+                    "content": "Điều 14. Xác định giá khởi điểm mã, số viễn thông, tên miền Internet",
+                    "clauses": [
+                      {
+                        "clause_id": "doc:145694:part:1:article:15:clause:1",
+                        "number": "1",
+                        "content": "1. Phương pháp xác định giá khởi điểm",
+                        "points": [
+                          {
+                            "point_id": "doc:145694:part:1:article:15:clause:1:point:1",
+                            "label": "a",
+                            "content": "a) Giá khởi điểm của mã, số viễn thông\ncó cấu trúc đặc biệt được quy định tại khoản 1 Điều 11; tên miền Internet được quy định tại khoản 1 Điều 12 Quyết định này được xác định theo phương pháp so sánh và các phương pháp khác theo quy định của pháp luật về giá để xác định giá khởi điểm;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:145694:part:1:article:15:clause:1:point:2",
+                            "label": "b",
+                            "content": "b) Trong trường hợp không xác định được\ngiá khởi điểm bằng phương pháp quy định tại điểm a khoản này, giá khởi điểm của mã, số viễn thông, tên miền Internet được xác định theo công thức như sau: Trong đó: Gkđ là giá khởi điểm của mã, số viễn thông, tên miền Internet đơn vị tính là Việt Nam đồng; GDPvn là chỉ số thu nhập bình quân đầu người danh định (GDP/capita) của Việt Nam tại thời điểm xác định giá khởi điểm, đơn vị tính là đô la Mỹ/người; GDPi là chỉ số thu nhập bình quân đầu người danh định (GDP/capita) của quốc gia hoặc vùng lãnh thổ tương ứng với mẫu thứ i tại thời điểm quốc gia hoặc vùng lãnh thổ đó công bố, đơn vị tính là đô la Mỹ/người; Gđgi là giá trúng đấu giá tham khảo của quốc gia, vùng lãnh thổ thứ i hoặc tổ chức, doanh nghiệp viễn thông trong nước thứ i (i = 1 - N) của cùng loại số, cấu trúc số tại thời điểm gần nhất với thời điểm xác định giá khởi điểm; N là số lượng quốc gia, vùng lãnh thổ hoặc tổ chức, doanh nghiệp viễn thông ở trong nước (N ≥ 3). Số liệu về giá trúng đấu giá thu thập từ quốc gia, vùng lãnh thổ hoặc tổ chức, doanh nghiệp viễn thông trong nước để lấy số liệu so sánh phải đảm bảo số liệu này được thu thập trong thời gian 05 năm gần nhất so với thời điểm xác định giá khởi điểm. Thông tin về số tiền, số lượng mã, số viễn thông, tên miền Internet của quốc gia, vùng lãnh thổ được cung cấp bởi cơ quan quản lý nhà nước của quốc gia, vùng lãnh thổ, tổ chức, doanh nghiệp viễn thông trong nước công bố; trường hợp không có được thông tin từ cơ quan quản lý nhà nước thì lấy từ nguồn trên website của các tổ chức quốc tế hoặc các nguồn tin chuyên ngành viễn thông, tài nguyên kho số viễn thông, tên miền Internet. Số liệu về thu nhập bình quân đầu người danh định (GDP/capita) của các quốc gia hoặc vùng lãnh thổ và của Việt Nam được lấy trên Website chính thức của Ngân hàng thế giới (World Bank);",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:145694:part:1:article:15:clause:1:point:3",
+                            "label": "c",
+                            "content": "c) Giá khởi điểm của mã, số viễn thông,\ntên miền Internet xác định theo công thức quy định tại điểm b Điều này được áp dụng như sau: Nếu thấp hơn hoặc bằng phí sử dụng mã, số viễn thông trong 10 năm, phí duy trì sử dụng tên miền Internet trong 01 năm thì giá khởi điểm của mã, số viễn thông bằng 10 năm phí sử dụng; giá khởi điểm của tên miền Internet bằng 01 năm phí duy trì tên miền theo quy định pháp luật về phí và lệ phí. Nếu cao hơn phí sử dụng mã, số viễn thông trong 10 năm, phí duy trì sử dụng tên miền Internet trong 01 năm thì áp dụng công thức quy định tại điểm b Điều này để xác định giá khởi điểm theo quy định pháp luật về phí và lệ phí.",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "clause_id": "doc:145694:part:1:article:15:clause:2",
+                        "number": "2",
+                        "content": "2. Quy trình xác định\nvà phê duyệt giá khởi điểm",
+                        "points": [
+                          {
+                            "point_id": "doc:145694:part:1:article:15:clause:2:point:1",
+                            "label": "a",
+                            "content": "a) Bộ Thông tin và Truyền thông giao\ncho cơ quan được giao nhiệm vụ tổ chức đấu giá thuê các tổ chức đủ điều kiện hoạt động thẩm định giá do Bộ Tài chính công bố hàng năm xác định giá để làm căn cứ phê duyệt giá khởi điểm;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:145694:part:1:article:15:clause:2:point:2",
+                            "label": "b",
+                            "content": "b) Trong trường hợp không lựa chọn được tổ\nchức thẩm định giá, cơ quan được giao nhiệm vụ tổ chức đấu giá trình Bộ trưởng Bộ Thông tin và Truyền thông quyết định thành lập Hội đồng thẩm định giá Nhà nước để xác định giá khởi điểm theo các quy định của pháp luật hiện hành về giá;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:145694:part:1:article:15:clause:2:point:3",
+                            "label": "c",
+                            "content": "c) Trong thời hạn 30 ngày, kể từ khi\ncó kết quả thẩm định giá của tổ chức thẩm định giá hoặc Hội đồng thẩm định giá Nhà nước, cơ quan được giao nhiệm vụ tổ chức đấu giá trình Bộ trưởng Bộ Thông tin và Truyền thông phê duyệt giá khởi điểm trước khi tổ chức đấu giá.",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ],
+                    "points": []
+                  }
+                ]
+              },
+              {
+                "section_id": "doc:145694:part:1:section:2",
+                "number": "2",
+                "title": "SỬ DỤNG ĐỐI VỚI KHO SỐ VIỄN THÔNG",
+                "content": "Mục 2. ĐẤU GIÁ QUYỀN\nSỬ DỤNG ĐỐI VỚI KHO SỐ VIỄN THÔNG",
+                "articles": [
+                  {
+                    "article_id": "doc:145694:part:1:article:16",
+                    "number": "15",
+                    "title": "Kế hoạch tổ chức đấu giá Căn cứ Danh mục kho số viễn thông được đấu giá và hiện trạng phân bổ mã, số viễn thông, cơ quan được giao nhiệm vụ tổ chức đấu giá trình Bộ trưởng Bộ Thông tin và Truyền thông phê duyệt Kế hoạch tổ chức đấu giá kho số viễn thông.",
+                    "content": "Điều 15. Kế hoạch tổ chức đấu giá Căn cứ Danh mục kho số viễn thông được đấu giá và hiện trạng phân bổ mã, số viễn thông, cơ quan được giao nhiệm vụ tổ chức đấu giá trình Bộ trưởng Bộ Thông tin và Truyền thông phê duyệt Kế hoạch tổ chức đấu giá kho số viễn thông.",
+                    "clauses": [],
+                    "points": []
+                  },
+                  {
+                    "article_id": "doc:145694:part:1:article:17",
+                    "number": "16",
+                    "title": "Hồ sơ tham gia đấu giá",
+                    "content": "Điều 16. Hồ sơ tham gia đấu giá",
+                    "clauses": [
+                      {
+                        "clause_id": "doc:145694:part:1:article:17:clause:1",
+                        "number": "1",
+                        "content": "1. Người tham gia đấu giá nộp Hồ sơ\ntham gia đấu giá cho Tổ chức đấu giá tài sản theo quy định tại Quy chế đấu giá.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:145694:part:1:article:17:clause:2",
+                        "number": "2",
+                        "content": "2. Hồ sơ tham gia đấu giá bao\ngồm:",
+                        "points": [
+                          {
+                            "point_id": "doc:145694:part:1:article:17:clause:2:point:1",
+                            "label": "a",
+                            "content": "a) Đơn đăng ký tham gia đấu giá;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:145694:part:1:article:17:clause:2:point:2",
+                            "label": "b",
+                            "content": "b) Tài liệu chứng minh đáp ứng đủ các điều\nkiện tham gia đấu giá quy định tại khoản 1 Điều 13 Quyết định này;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:145694:part:1:article:17:clause:2:point:3",
+                            "label": "c",
+                            "content": "c) Bản cam kết triển khai việc đưa mã,\nsố viễn thông vào khai thác, sử dụng sau khi trúng đấu giá;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:145694:part:1:article:17:clause:2:point:4",
+                            "label": "d",
+                            "content": "d) Tài liệu khác theo yêu cầu của Quy\nchế cuộc đấu giá.",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "clause_id": "doc:145694:part:1:article:17:clause:3",
+                        "number": "3",
+                        "content": "3. Tổ chức đấu giá tài sản hoặc Hội đồng\nđấu giá tài sản phối hợp với Bộ Thông tin và Truyền thông đánh giá hồ sơ tham gia đấu giá theo nguyên tắc đảm bảo bí mật thông tin về người tham gia đấu giá, đảm bảo tính khách quan, công khai, minh bạch của việc tổ chức đấu giá theo pháp luật về đấu giá tài sản và công khai danh sách người tham gia đấu giá đủ điều kiện tham gia đấu giá theo quy định.",
+                        "points": []
+                      }
+                    ],
+                    "points": []
+                  },
+                  {
+                    "article_id": "doc:145694:part:1:article:18",
+                    "number": "17",
+                    "title": "Chuyển hồ sơ cuộc đấu giá Trong thời hạn 03 ngày làm việc, kể từ ngày kết thúc cuộc đấu giá, Tổ chức đấu giá tài sản chuyển kết quả đấu giá, biên bản đấu giá, danh sách doanh nghiệp, tổ chức trúng đấu giá cho cơ quan được giao nhiệm vụ tổ chức đấu giá đề trình Bộ Thông tin và Truyền thông phê duyệt kết quả đấu giá và hoàn thiện các thủ tục liên quan.",
+                    "content": "Điều 17. Chuyển hồ sơ cuộc đấu giá Trong thời hạn 03 ngày làm việc, kể từ ngày kết thúc cuộc đấu giá, Tổ chức đấu giá tài sản chuyển kết quả đấu giá, biên bản đấu giá, danh sách doanh nghiệp, tổ chức trúng đấu giá cho cơ quan được giao nhiệm vụ tổ chức đấu giá đề trình Bộ Thông tin và Truyền thông phê duyệt kết quả đấu giá và hoàn thiện các thủ tục liên quan.",
+                    "clauses": [],
+                    "points": []
+                  },
+                  {
+                    "article_id": "doc:145694:part:1:article:19",
+                    "number": "18",
+                    "title": "Phê duyệt và công bố kết quả đấu giá",
+                    "content": "Điều 18. Phê duyệt và công bố kết quả đấu giá",
+                    "clauses": [
+                      {
+                        "clause_id": "doc:145694:part:1:article:19:clause:1",
+                        "number": "1",
+                        "content": "1. Bộ Thông tin và Truyền thông phê\nduyệt và công bố kết quả đấu giá trong thời hạn 15 ngày, kể từ ngày Biên bản đấu giá được ký.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:145694:part:1:article:19:clause:2",
+                        "number": "2",
+                        "content": "2. Bộ Thông tin và Truyền thông hủy\nquyết định phê duyệt kết quả đấu giá đối với doanh nghiệp, tổ chức trúng đấu giá nhưng không nộp đủ số tiền trúng đấu giá theo quy định tại khoản 1 Điều 19 Quyết định này. Mã, số viễn thông có kết quả đấu giá bị hủy được xử lý đấu giá lại theo quy định tại Điều 10 Quyết định này.",
+                        "points": []
+                      }
+                    ],
+                    "points": []
+                  },
+                  {
+                    "article_id": "doc:145694:part:1:article:20",
+                    "number": "19",
+                    "title": "Thu, nộp, quản lý và sử dụng tiền trúng đấu giá",
+                    "content": "Điều 19. Thu, nộp, quản lý và sử dụng tiền trúng đấu giá",
+                    "clauses": [
+                      {
+                        "clause_id": "doc:145694:part:1:article:20:clause:1",
+                        "number": "1",
+                        "content": "1. Trong thời hạn 30 ngày, kể từ ngày\nBộ Thông tin và Truyền thông công bố kết quả đấu giá, người trúng đấu giá phải nộp toàn bộ số tiền trúng đấu giá sau khi đã trừ đi số tiền đặt trước vào ngân sách nhà nước theo thông báo nộp tiền trúng đấu giá.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:145694:part:1:article:20:clause:2",
+                        "number": "2",
+                        "content": "2. Thông báo nộp tiền trúng đấu giá\nbao gồm các nội dung sau:",
+                        "points": [
+                          {
+                            "point_id": "doc:145694:part:1:article:20:clause:2:point:1",
+                            "label": "a",
+                            "content": "a) Số tiền trúng đấu giá\nphải nộp và phương thức, địa điểm, thời gian phải nộp theo kết quả trúng đấu giá đã được Bộ Thông tin và Truyền thông công bố;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:145694:part:1:article:20:clause:2:point:2",
+                            "label": "b",
+                            "content": "b) Tên, địa chỉ và số tài khoản\ntại kho bạc nhà nước để nộp tiền trúng đấu giá;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:145694:part:1:article:20:clause:2:point:3",
+                            "label": "c",
+                            "content": "c) Thời hạn yêu cầu nộp tiền trúng đấu\ngiá.",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "clause_id": "doc:145694:part:1:article:20:clause:3",
+                        "number": "3",
+                        "content": "3. Tiền trúng đấu giá không bao gồm lệ\nphí phân bổ và phí sử dụng kho số viễn thông.",
+                        "points": []
+                      }
+                    ],
+                    "points": []
+                  },
+                  {
+                    "article_id": "doc:145694:part:1:article:21",
+                    "number": "20",
+                    "title": "Phân bổ và thu hồi mã, số viễn thông trúng đấu giá",
+                    "content": "Điều 20. Phân bổ và thu hồi mã, số viễn thông trúng đấu giá",
+                    "clauses": [
+                      {
+                        "clause_id": "doc:145694:part:1:article:21:clause:1",
+                        "number": "1",
+                        "content": "1. Sau khi đã nộp đủ tiền trúng đấu\ngiá theo quy định tại khoản 1 Điều 19 Quyết định này, người trúng đấu giá thực hiện các thủ tục đề nghị phân bổ mã, số viễn thông theo quy định của pháp luật về viễn thông và các quy định tại Hồ sơ mời đấu giá để được phân bổ mã, số viễn thông trúng đấu giá.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:145694:part:1:article:21:clause:2",
+                        "number": "2",
+                        "content": "2. Trường hợp bị thu hồi mã, số viễn thông theo quy định\ntại điểm c khoản 2 Điều 50 Luật Viễn thông, người trúng đấu giá không được hoàn trả tiền trúng đấu giá và phí sử dụng kho số viễn thông đã nộp.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:145694:part:1:article:21:clause:3",
+                        "number": "3",
+                        "content": "3. Trường hợp bị thu hồi mã, số viễn\nthông quy định tại điểm a, b khoản 2 Điều 50 Luật Viễn thông, người trúng đấu giá được bồi thường theo quy định của pháp luật.",
+                        "points": []
+                      }
+                    ],
+                    "points": []
+                  }
+                ]
+              },
+              {
+                "section_id": "doc:145694:part:1:section:3",
+                "number": "3",
+                "title": "SỬ DỤNG TÊN MIỀN INTERNET",
+                "content": "Mục 3. ĐẤU GIÁ QUYỀN\nSỬ DỤNG TÊN MIỀN INTERNET",
+                "articles": [
+                  {
+                    "article_id": "doc:145694:part:1:article:22",
+                    "number": "21",
+                    "title": "Kế hoạch tổ chức đấu giá Căn cứ Danh mục tên miền Internet được đấu giá và tình hình thực tế quản lý, đăng ký sử dụng tên miền Internet tại Việt Nam, cơ quan được giao nhiệm vụ tổ chức đấu giá trình Bộ trưởng Bộ Thông tin và Truyền thông phê duyệt Kế hoạch tổ chức đấu giá tên miền Internet.",
+                    "content": "Điều 21. Kế hoạch tổ chức đấu giá Căn cứ Danh mục tên miền Internet được đấu giá và tình hình thực tế quản lý, đăng ký sử dụng tên miền Internet tại Việt Nam, cơ quan được giao nhiệm vụ tổ chức đấu giá trình Bộ trưởng Bộ Thông tin và Truyền thông phê duyệt Kế hoạch tổ chức đấu giá tên miền Internet.",
+                    "clauses": [],
+                    "points": []
+                  },
+                  {
+                    "article_id": "doc:145694:part:1:article:23",
+                    "number": "22",
+                    "title": "Chuyển hồ sơ cuộc đấu giá Trong thời hạn 03 ngày làm việc, kể từ ngày kết thúc cuộc đấu giá, Tổ chức đấu giá tài sản chuyển kết quả đấu giá, biên bản đấu giá, danh sách tổ chức, cá nhân trúng đấu giá cho cơ quan được giao nhiệm vụ tổ chức đấu giá để trình Bộ Thông tin và Truyền thông phê duyệt kết quả đấu giá và hoàn thiện các thủ tục liên quan.",
+                    "content": "Điều 22. Chuyển hồ sơ cuộc đấu giá Trong thời hạn 03 ngày làm việc, kể từ ngày kết thúc cuộc đấu giá, Tổ chức đấu giá tài sản chuyển kết quả đấu giá, biên bản đấu giá, danh sách tổ chức, cá nhân trúng đấu giá cho cơ quan được giao nhiệm vụ tổ chức đấu giá để trình Bộ Thông tin và Truyền thông phê duyệt kết quả đấu giá và hoàn thiện các thủ tục liên quan.",
+                    "clauses": [],
+                    "points": []
+                  },
+                  {
+                    "article_id": "doc:145694:part:1:article:24",
+                    "number": "23",
+                    "title": "Phê duyệt kết quả đấu giá Bộ Thông tin và Truyền thông phê duyệt và công bố kết quả đấu giá trong thời hạn 15 ngày, kể từ ngày Biên bản đấu giá được ký.",
+                    "content": "Điều 23. Phê duyệt kết quả đấu giá Bộ Thông tin và Truyền thông phê duyệt và công bố kết quả đấu giá trong thời hạn 15 ngày, kể từ ngày Biên bản đấu giá được ký.",
+                    "clauses": [],
+                    "points": []
+                  },
+                  {
+                    "article_id": "doc:145694:part:1:article:25",
+                    "number": "24",
+                    "title": "Hủy kết quả đấu giá",
+                    "content": "Điều 24. Hủy kết quả đấu giá",
+                    "clauses": [
+                      {
+                        "clause_id": "doc:145694:part:1:article:25:clause:1",
+                        "number": "1",
+                        "content": "1. Bộ Thông tin và Truyền\nthông hủy quyết định phê duyệt kết quả đấu giá đối với tổ chức, cá nhân trúng đấu giá nhưng không nộp tiền trúng đấu giá theo quy định. Tên miền có kết quả đấu giá bị hủy được xử lý đấu giá lại theo quy định tại Điều 10 Quyết định này.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:145694:part:1:article:25:clause:2",
+                        "number": "2",
+                        "content": "2. Trường hợp tổ chức, cá nhân trúng đấu\ngiá nhưng không hoàn tất thủ tục đăng ký sử dụng tên miền theo quy định tại khoản 3 Điều 25 Quyết định này, Bộ Thông tin và Truyền thông hủy quyết định phê duyệt kết quả đấu giá đối với tổ chức, cá nhân; tên miền có kết quả đấu giá bị hủy được xử lý đấu giá lại theo quy định tại Điều 10 Quyết định này.",
+                        "points": []
+                      }
+                    ],
+                    "points": []
+                  },
+                  {
+                    "article_id": "doc:145694:part:1:article:26",
+                    "number": "25",
+                    "title": "Thu, nộp, quản lý và sử dụng tiền trúng đấu giá và đăng ký sử dụng tên miền trúng đấu giá",
+                    "content": "Điều 25. Thu, nộp, quản lý và sử dụng tiền trúng đấu giá và đăng ký sử dụng tên miền trúng đấu giá",
+                    "clauses": [
+                      {
+                        "clause_id": "doc:145694:part:1:article:26:clause:1",
+                        "number": "1",
+                        "content": "1. Trong thời hạn 03 ngày làm việc, kể\ntừ ngày kết quả đấu giá được phê duyệt, Bộ Thông tin và Truyền thông thông báo cho người trúng đấu giá nộp tiền trúng đấu giá, nội dung thông báo nộp tiền trúng đấu giá quy định tại khoản 2 Điều 19 Quyết định này.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:145694:part:1:article:26:clause:2",
+                        "number": "2",
+                        "content": "2. Tổ chức, cá nhân trúng đấu giá phải\nnộp đủ số tiền trúng đấu giá sau khi trừ đi tiền đặt trước vào ngân sách nhà nước trong thời hạn 15 ngày, kể từ ngày nhận được thông báo nộp tiền trúng đấu giá. Tiền trúng đấu giá không bao gồm lệ phí đăng ký và phí sử dụng tên miền Internet.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:145694:part:1:article:26:clause:3",
+                        "number": "3",
+                        "content": "3. Tổ chức, cá nhân trúng đấu giá phải\nthực hiện thủ tục đăng ký sử dụng tên miền Internet trúng đấu giá theo quy định về quản lý sử dụng tài nguyên Internet và nộp phí đăng ký sử dụng, phí duy trì tên miền Internet theo quy định của Bộ Tài chính trong thời hạn 30 ngày, kể từ khi Bộ Thông tin và Truyền thông công bố kết quả đấu giá.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:145694:part:1:article:26:clause:4",
+                        "number": "4",
+                        "content": "4. Trường hợp chủ thể không tiếp tục nộp\nphí duy trì sử dụng khi tên miền hết hạn sử dụng theo quy định, tên miền được đưa vào danh sách tên miền đấu giá theo quy định của Luật Đấu giá tài sản, Quyết định này và các quy định pháp luật có liên quan.",
+                        "points": []
+                      }
+                    ],
+                    "points": []
+                  }
+                ]
+              }
+            ],
+            "articles": []
+          },
+          {
+            "chapter_id": "doc:145694:part:1:chapter:3",
+            "number": "III",
+            "title": "CHUYỂN NHƯỢNG QUYỀN SỬ DỤNG KHO SỐ VIỄN THÔNG, TÊN MIỀN INTERNET",
+            "content": "Chương III.\nCHUYỂN\nNHƯỢNG QUYỀN SỬ DỤNG KHO SỐ VIỄN THÔNG, TÊN MIỀN INTERNET",
+            "sections": [
+              {
+                "section_id": "doc:145694:part:1:section:4",
+                "number": "1",
+                "title": "QUYỀN SỬ DỤNG KHO SỐ VIỄN THÔNG",
+                "content": "Mục 1. CHUYỂN NHƯỢNG\nQUYỀN SỬ DỤNG KHO SỐ VIỄN THÔNG",
+                "articles": [
+                  {
+                    "article_id": "doc:145694:part:1:article:27",
+                    "number": "26",
+                    "title": "Điều kiện chuyển nhượng quyền sử dụng kho số viễn thông",
+                    "content": "Điều 26. Điều kiện chuyển nhượng quyền sử dụng kho số viễn thông",
+                    "clauses": [
+                      {
+                        "clause_id": "doc:145694:part:1:article:27:clause:1",
+                        "number": "1",
+                        "content": "1. Ngoài các điều kiện quy định\nlại khoản 2 Điều 49 của Luật Viễn thông, doanh nghiệp, tổ chức được phân bổ mã, số, khối số viễn thông thông qua đấu giá được phép chuyển nhượng quyền sử dụng mã, số, khối số này cho các doanh nghiệp, tổ chức quy định tại khoản 2 Điều này sau khi đã khai thác và sử dụng mã, số, khối số viễn thông trong thời gian ít nhất 03 năm, kể từ ngày được cấp, phân bổ mã, số, khối số viễn thông.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:145694:part:1:article:27:clause:2",
+                        "number": "2",
+                        "content": "2. Đối tượng được nhận chuyển nhượng\nquyền sử dụng kho số viễn thông là các doanh nghiệp, tổ chức đáp ứng yêu cầu tối thiểu quy định tại cuộc đấu giá mà doanh nghiệp chuyển nhượng tham gia.",
+                        "points": []
+                      }
+                    ],
+                    "points": []
+                  },
+                  {
+                    "article_id": "doc:145694:part:1:article:28",
+                    "number": "27",
+                    "title": "Thủ tục chuyển nhượng quyền sử dụng kho số viễn thông",
+                    "content": "Điều 27. Thủ tục chuyển nhượng quyền sử dụng kho số viễn thông",
+                    "clauses": [
+                      {
+                        "clause_id": "doc:145694:part:1:article:28:clause:1",
+                        "number": "1",
+                        "content": "1. Hồ sơ chuyển nhượng quyền sử dụng kho\nsố viễn thông được lập thành 01 bộ, bao gồm:",
+                        "points": [
+                          {
+                            "point_id": "doc:145694:part:1:article:28:clause:1:point:1",
+                            "label": "a",
+                            "content": "a) Văn bản đề nghị chuyển nhượng và\nnhận chuyển nhượng có dấu và chữ ký của người đại diện theo pháp luật của doanh nghiệp, tổ chức chuyển nhượng và nhận chuyển nhượng theo mẫu tại Phụ lục II ban hành kèm theo Quyết định này;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:145694:part:1:article:28:clause:1:point:2",
+                            "label": "b",
+                            "content": "b) Bản thỏa thuận giữa doanh\nnghiệp, tổ chức chuyển nhượng và doanh nghiệp, tổ chức nhận chuyển nhượng về bảo đảm quyền và lợi ích hợp pháp của các tổ chức, cá nhân chịu ảnh hưởng của việc chuyển nhượng;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:145694:part:1:article:28:clause:1:point:3",
+                            "label": "c",
+                            "content": "c) Tài liệu chứng minh của doanh nghiệp,\ntổ chức nhận chuyển nhượng về việc đáp ứng các yêu cầu tối thiểu tại cuộc đấu giá mà doanh nghiệp, tổ chức chuyển nhượng đã tham gia; bản cam kết của doanh nghiệp, tổ chức nhận chuyển nhượng.",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "clause_id": "doc:145694:part:1:article:28:clause:2",
+                        "number": "2",
+                        "content": "2. Thủ tục chuyển nhượng",
+                        "points": [
+                          {
+                            "point_id": "doc:145694:part:1:article:28:clause:2:point:1",
+                            "label": "a",
+                            "content": "a) Doanh nghiệp, tổ chức chuyển nhượng\nvà nhận chuyển nhượng quyền sử dụng kho số viễn thông nộp hồ sơ chuyển nhượng trực tiếp hoặc thông qua hệ thống bưu chính tại Bộ Thông tin và Truyền thông hoặc thông qua hình thức trực tuyến tại Cổng dịch vụ công quốc gia (http://dichvucong.vn) hoặc Cổng dịch vụ công trực tuyến của Bộ Thông tin và Truyền thông (http://dichvucong.mic.gov.vn);",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:145694:part:1:article:28:clause:2:point:2",
+                            "label": "b",
+                            "content": "b) Trong thời hạn 30 ngày, kể từ ngày\nnhận đủ hồ sơ hợp lệ, Bộ Thông tin và Truyền thông thông báo bằng văn bản cho các doanh nghiệp, tổ chức về việc chấp thuận chuyển nhượng quyền sử dụng mã, số viễn thông; Trường hợp không cho phép chuyển nhượng quyền sử dụng mã, số viễn thông, Bộ Thông tin và Truyền thông thông báo bằng văn bản cho doanh nghiệp, tổ chức chuyển nhượng và nhận chuyển nhượng biết và nêu rõ lý do từ chối;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:145694:part:1:article:28:clause:2:point:3",
+                            "label": "c",
+                            "content": "c) Sau khi nhận được văn bản chấp\nthuận cho phép chuyển nhượng mã, số viễn thông, doanh nghiệp, tổ chức thực hiện nghĩa vụ nộp thuế đối với hoạt động chuyển nhượng và làm thủ tục xin phân bổ mã, số viễn thông theo quy định;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:145694:part:1:article:28:clause:2:point:4",
+                            "label": "d",
+                            "content": "d) Sau khi xác nhận việc doanh nghiệp,\ntổ chức đã hoàn thành nộp thuế đối với hoạt động chuyển nhượng quyền sử dụng kho số viễn thông theo quy định của pháp luật về thuế, Bộ Thông tin và Truyền thông sẽ phân bố mã, số viễn thông cho doanh nghiệp, tổ chức nhận chuyển nhượng theo quy định của pháp luật về viễn thông.",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ],
+                    "points": []
+                  }
+                ]
+              },
+              {
+                "section_id": "doc:145694:part:1:section:5",
+                "number": "2",
+                "title": "QUYỀN SỬ DỤNG TÊN MIỀN INTERNET",
+                "content": "Mục 2. CHUYỂN NHƯỢNG\nQUYỀN SỬ DỤNG TÊN MIỀN INTERNET",
+                "articles": [
+                  {
+                    "article_id": "doc:145694:part:1:article:29",
+                    "number": "28",
+                    "title": "Điều kiện chuyển nhượng quyền sử dụng tên miền Internet Ngoài các điều kiện quy định tại khoản 2 Điều 49 của Luật Viễn thông, việc chuyển nhượng quyền sử dụng tên miền Internet quốc gia Việt Nam “.vn” và các tên miền Internet khác thuộc quyền quản lý của Việt Nam phải đáp ứng các điều kiện sau:",
+                    "content": "Điều 28. Điều kiện chuyển nhượng quyền sử dụng tên miền Internet Ngoài các điều kiện quy định tại khoản 2 Điều 49 của Luật Viễn thông, việc chuyển nhượng quyền sử dụng tên miền Internet quốc gia Việt Nam “.vn” và các tên miền Internet khác thuộc quyền quản lý của Việt Nam phải đáp ứng các điều kiện sau:",
+                    "clauses": [
+                      {
+                        "clause_id": "doc:145694:part:1:article:29:clause:1",
+                        "number": "1",
+                        "content": "1. Không được phép chuyển nhượng tên miền\nInternet đối với:",
+                        "points": [
+                          {
+                            "point_id": "doc:145694:part:1:article:29:clause:1:point:1",
+                            "label": "a",
+                            "content": "a) Tên miền được ưu tiên bảo vệ, bao gồm\ntên miền là tên gọi của các tổ chức Đảng, cơ quan nhà nước, các tổ chức chính trị - xã hội và tên miền khác liên quan đến lợi ích, an ninh chủ quyền quốc gia do Bộ Thông tin và Truyền thông quy định;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:145694:part:1:article:29:clause:1:point:2",
+                            "label": "b",
+                            "content": "b) Tên miền Internet đang xử lý vi phạm,\nđang trong quá trình giải quyết tranh chấp, khiếu nại hoặc đang bị tạm ngừng sử dụng.",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "clause_id": "doc:145694:part:1:article:29:clause:2",
+                        "number": "2",
+                        "content": "2. Tổ chức, cá nhân nhận chuyển nhượng\nquyền sử dụng tên miền Internet phải làm thủ tục đăng ký lại tên miền Internet và nộp phí, lệ phí đăng ký, duy trì sử dụng tên miền theo quy định về đăng ký, sử dụng tài nguyên Internet.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:145694:part:1:article:29:clause:3",
+                        "number": "3",
+                        "content": "3. Quá trình chuyển nhượng quyền sử dụng\ntên miền Internet được thực hiện tại nhà đăng ký đang quản lý tên miền Internet đó.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:145694:part:1:article:29:clause:4",
+                        "number": "4",
+                        "content": "4. Tên miền Internet đang trong quá trình\nchuyển nhượng quyền sử dụng không được cấp cho các tổ chức, cá nhân khác ngoài các bên đang thực hiện việc chuyển nhượng.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:145694:part:1:article:29:clause:5",
+                        "number": "5",
+                        "content": "5. Các bên tham gia chuyển nhượng tự\nchịu trách nhiệm nếu việc chuyển nhượng không thực hiện được do trong quá trình chuyển nhượng, tên miền Internet bị tạm ngừng hoặc thu hồi theo các quy định về quản lý và sử dụng tài nguyên Internet của Bộ Thông tin và Truyền thông.",
+                        "points": []
+                      }
+                    ],
+                    "points": []
+                  },
+                  {
+                    "article_id": "doc:145694:part:1:article:30",
+                    "number": "29",
+                    "title": "Thủ tục chuyển nhượng quyền sử dụng tên miền Internet",
+                    "content": "Điều 29. Thủ tục chuyển nhượng quyền sử dụng tên miền Internet",
+                    "clauses": [
+                      {
+                        "clause_id": "doc:145694:part:1:article:30:clause:1",
+                        "number": "1",
+                        "content": "1. Hồ sơ chuyển nhượng\nHồ sơ chuyển nhượng quyền sử dụng tên miền Internet được lập thành 01 bộ gồm văn bản đề nghị chuyển nhượng và nhận chuyển nhượng tên miền Internet theo mẫu quy định tại Phụ lục III ban hành kèm theo Quyết định này. Văn bản phải có dấu và chữ ký của người đại diện theo pháp luật của tổ chức hoặc chữ ký của cá nhân là chủ thể đang đứng tên đăng ký sử dụng tên miền Internet được chuyển nhượng; dấu và chữ ký của người đại diện theo pháp luật của tổ chức hoặc chữ ký của cá nhân nhận chuyển nhượng tên miền Internet.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:145694:part:1:article:30:clause:2",
+                        "number": "2",
+                        "content": "2. Thủ tục chuyển nhượng",
+                        "points": [
+                          {
+                            "point_id": "doc:145694:part:1:article:30:clause:2:point:1",
+                            "label": "a",
+                            "content": "a) Tổ chức, cá nhân chuyển nhượng và\nnhận chuyển nhượng quyền sử dụng tên miền Internet nộp hồ sơ chuyển nhượng theo quy định tại khoản 1 Điều này trực tiếp, trực tuyến hoặc qua đường bưu chính về nhà đăng ký đang quản lý tên miền Internet đó;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:145694:part:1:article:30:clause:2:point:2",
+                            "label": "b",
+                            "content": "b) Trường hợp tên miền được cấp quyền\nsử dụng không thông qua đấu giá, trong thời hạn 05 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ, nhà đăng ký đang quản lý tên miền Internet xem xét điều kiện chuyển nhượng quyền sử dụng tên miền Internet và thông báo bằng văn bản cho bên chuyển nhượng và bên nhận chuyển nhượng về việc tên miền được chuyển nhượng;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:145694:part:1:article:30:clause:2:point:3",
+                            "label": "c",
+                            "content": "c) Trường hợp tên miền được cấp quyền\nsử dụng thông qua đấu giá, trong thời hạn 10 ngày, kể từ ngày nhận đủ hồ sơ hợp lệ, nhà đăng ký đang quản lý tên miền xem xét điều kiện chuyển nhượng quyền sử dụng tên miền Internet và gửi yêu cầu về Bộ Thông tin và Truyền thông (Trung tâm Internet Việt Nam) đề nghị chấp nhận yêu cầu chuyển nhượng quyền sử dụng tên miền. Trường hợp yêu cầu chuyển nhượng quyền sử dụng tên miền được duyệt, Nhà đăng ký đang quản lý tên miền thông báo bằng văn bản cho bên chuyển nhượng và bên nhận chuyển nhượng về việc tên miền được chuyển nhượng trong thời hạn không quá 02 ngày làm việc, kể từ ngày nhận được thông báo duyệt yêu cầu chuyển nhượng quyền sử dụng tên miền từ Bộ Thông tin và Truyền thông (Trung tâm Internet Việt Nam);",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:145694:part:1:article:30:clause:2:point:4",
+                            "label": "d",
+                            "content": "d) Trường hợp tên miền Internet\nkhông được phép chuyển nhượng quyền sử dụng, nhà đăng ký đang quản lý tên miền Internet thông báo bằng văn bản cho tổ chức, cá nhân nộp hồ sơ xin chuyển nhượng và nêu rõ lý do từ chối;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:145694:part:1:article:30:clause:2:point:5",
+                            "label": "đ",
+                            "content": "đ) Sau khi nhận được văn bản chấp thuận của\nnhà đăng ký đang quản lý tên miền Internet được chuyển nhượng, tổ chức, cá nhân thực hiện nghĩa vụ nộp thuế đối với hoạt động chuyển nhượng;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:145694:part:1:article:30:clause:2:point:6",
+                            "label": "e",
+                            "content": "e) Sau khi các bên hoàn thành\nnghĩa vụ nộp thuế đối với hoạt động chuyển nhượng theo quy định, bên nhận chuyển nhượng phải hoàn tất các thủ tục đăng ký lại tên miền Internet tại nhà đăng ký đang quản lý tên miền Internet theo quy định đăng ký và sử dụng tài nguyên Internet;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:145694:part:1:article:30:clause:2:point:7",
+                            "label": "g",
+                            "content": "g) Nhà đăng ký đang quản lý\ntên miền Internet thực hiện các thủ tục đăng ký lại tên miền Internet cho bên nhận chuyển nhượng, lưu giữ hồ sơ và thực hiện việc báo cáo theo yêu cầu của cơ quan quản lý trong trường hợp cần thiết.",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "clause_id": "doc:145694:part:1:article:30:clause:3",
+                        "number": "3",
+                        "content": "3. Giao dịch chuyển nhượng bị coi là\nkhông hợp pháp trong các trường hợp: các bên tham gia quá trình chuyển nhượng không thực hiện nghĩa vụ nộp thuế đối với hoạt động chuyển nhượng quyền sử dụng tên miền Internet theo quy định của pháp luật về thuế; thực hiện chuyển nhượng không thông qua nhà đăng ký đang quản lý tên miền; có sự giả mạo về thông tin, hồ sơ chuyển nhượng quyền sử dụng tên miền.",
+                        "points": []
+                      }
+                    ],
+                    "points": []
+                  }
+                ]
+              },
+              {
+                "section_id": "doc:145694:part:1:section:6",
+                "number": "3",
+                "title": "CÁC BÊN",
+                "content": "Mục 3. TRÁCH NHIỆM CỦA\nCÁC BÊN",
+                "articles": [
+                  {
+                    "article_id": "doc:145694:part:1:article:31",
+                    "number": "30",
+                    "title": "Trách nhiệm của bên chuyển nhượng Doanh nghiệp, tổ chức, cá nhân chuyển nhượng quyền sử dụng kho số viễn thông, tên miền Internet có trách nhiệm sau: 1, Bảo đảm quyền và lợi ích hợp pháp của doanh nghiệp, tổ chức, cá nhân chịu ảnh hưởng của việc chuyển nhượng.",
+                    "content": "Điều 30. Trách nhiệm của bên chuyển nhượng Doanh nghiệp, tổ chức, cá nhân chuyển nhượng quyền sử dụng kho số viễn thông, tên miền Internet có trách nhiệm sau: 1, Bảo đảm quyền và lợi ích hợp pháp của doanh nghiệp, tổ chức, cá nhân chịu ảnh hưởng của việc chuyển nhượng.",
+                    "clauses": [
+                      {
+                        "clause_id": "doc:145694:part:1:article:31:clause:1",
+                        "number": "2",
+                        "content": "2. Thực hiện nghĩa vụ về thuế đối với hoạt động\nchuyển nhượng quyền sử dụng kho số viễn thông, tên miền Internet theo quy định của pháp luật về thuế.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:145694:part:1:article:31:clause:2",
+                        "number": "3",
+                        "content": "3. Nộp lệ phí phân bổ và phí sử dụng kho\nsố viễn thông, tên miền Internet theo quy định.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:145694:part:1:article:31:clause:3",
+                        "number": "4",
+                        "content": "4. Tuân thủ các quy định của pháp luật\nvề viễn thông.",
+                        "points": []
+                      }
+                    ],
+                    "points": []
+                  },
+                  {
+                    "article_id": "doc:145694:part:1:article:32",
+                    "number": "31",
+                    "title": "Trách nhiệm của bên nhận chuyển nhượng Doanh nghiệp, tổ chức, cá nhân nhận chuyển nhượng quyền sử dụng kho số viễn thông, tên miền Internet có trách nhiệm sau:",
+                    "content": "Điều 31. Trách nhiệm của bên nhận chuyển nhượng Doanh nghiệp, tổ chức, cá nhân nhận chuyển nhượng quyền sử dụng kho số viễn thông, tên miền Internet có trách nhiệm sau:",
+                    "clauses": [
+                      {
+                        "clause_id": "doc:145694:part:1:article:32:clause:1",
+                        "number": "1",
+                        "content": "1. Bảo đảm quyền và lợi ích hợp pháp của\ndoanh nghiệp, tổ chức, cá nhân chịu ảnh hưởng của việc chuyển nhượng.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:145694:part:1:article:32:clause:2",
+                        "number": "2",
+                        "content": "2. Thực hiện nghĩa vụ về thuế đối với\nhoạt động nhận chuyển nhượng quyền sử dụng kho số viễn thông, tên miền Internet (nếu có) theo quy định của pháp luật về thuế.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:145694:part:1:article:32:clause:3",
+                        "number": "3",
+                        "content": "3. Nộp lệ phí phân bổ và phí sử dụng kho số viễn\nthông, tên miền Internet theo quy định,",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:145694:part:1:article:32:clause:4",
+                        "number": "4",
+                        "content": "4. Tuân thủ các quy định\ncủa pháp luật về viễn thông.",
+                        "points": []
+                      }
+                    ],
+                    "points": []
+                  }
+                ]
+              }
+            ],
+            "articles": []
+          },
+          {
+            "chapter_id": "doc:145694:part:1:chapter:4",
+            "number": "IV",
+            "title": "ĐIỀU KHOẢN THI HÀNH",
+            "content": "Chương IV\nĐIỀU KHOẢN THI HÀNH",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:145694:part:1:article:33",
+                "number": "32",
+                "title": "Hiệu lực thi hành",
+                "content": "Điều 32. Hiệu lực thi hành",
+                "clauses": [
+                  {
+                    "clause_id": "doc:145694:part:1:article:33:clause:1",
+                    "number": "1",
+                    "content": "1. Quyết định này có hiệu lực\ntừ ngày 01 tháng 6 năm 2021.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:145694:part:1:article:33:clause:2",
+                    "number": "2",
+                    "content": "2. Quyết định số 38/2014/QĐ-TTg ngày\n01 tháng 7 năm 2014 của Thủ tướng Chính phủ quy định về đấu giá, chuyển nhượng quyền sử dụng kho số viễn thông, tên miền Internet hết hiệu lực kể từ ngày Quyết định này có hiệu lực thi hành.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:145694:part:1:article:34",
+                "number": "33",
+                "title": "Tổ chức thực hiện",
+                "content": "Điều 33. Tổ chức thực hiện",
+                "clauses": [
+                  {
+                    "clause_id": "doc:145694:part:1:article:34:clause:1",
+                    "number": "1",
+                    "content": "1. Bộ Thông tin và Truyền thông chủ\ntrì, phối hợp với Bộ Tài chính và các bộ, ngành liên quan có trách nhiệm hướng dẫn thực hiện Quyết định này.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:145694:part:1:article:34:clause:2",
+                    "number": "2",
+                    "content": "2. Các Bộ trưởng, Thủ trưởng cơ quan\nngang bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương chịu trách nhiệm thi hành Quyết định này",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          }
+        ],
+        "sections": [],
+        "articles": [],
+        "unstructured_blocks": []
+      },
+      {
+        "part_id": "doc:145694:part:2",
+        "part_type": "appendix",
+        "part_title": "PHỤ LỤC I",
+        "reference": null,
+        "direct_text": null,
+        "chapters": [],
+        "sections": [],
+        "articles": [],
+        "unstructured_blocks": [
+          {
+            "block_id": "doc:145694:part:2:block:1",
+            "content": "PHỤ LỤC I\nMÃ,\nSỐ, KHỐI SỐ CÓ CẤU TRÚC ĐẶC BIỆT\n(Kèm theo Quyết định số 16/2021/QĐ-TTg ngày 30 tháng 3 năm 2021 của Thủ tướng Chính phủ)\n1. Số dịch vụ tin nhắn ngắn (SMS)\nTT\nSố dịch vụ tin nhắn ngắn (SMS) độ dài 04 chữ số Số dịch vụ tin nhắn ngắn (SMS) độ dài 05 chữ số Số/Cấu trúc số Ghi chú Số Ghi chú 1 1234\nA=1, 5, 6, 7, 8, 9;\nB=0-9;\n22222 2 5678 33333 3 6789 44444 4\nAAAA\n23456 5\nABBB\n34567 6\nAAAB\n45678\n2. Mã mạng viễn thông di động mặt đất\ndùng cho phương thức giao tiếp giữa người với người (H2H)\nTT\nCấu trúc mã mạng Mô tả cấu trúc Ghi chú 1\n4A\n2 chữ số\nA=2, 4, 6, 8, 9\n2\n5A\n2 chữ số\nA=2, 4, 7\n3\n7A\n2 chữ số\nA=2-5\n4\n9A\n2 chữ số\nA=5 PHỤ LỤC II MẪU\nVĂN BẢN ĐỀ NGHỊ CHUYỂN NHƯỢNG VÀ NHẬN CHUYỂN NHƯỢNG QUYỀN SỬ DỤNG MÃ, SỐ VIỄN\nTHÔNG\n(Kèm theo Quyết định số 16/2021/QĐ-TTg ngày 30 tháng 3 năm 2021 của Thủ tướng Chính phủ)\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc ---------------\nVĂN BẢN ĐỀ\nNGHỊ CHUYỂN NHƯỢNG VÀ NHẬN CHUYỂN NHƯỢNG QUYỀN SỬ DỤNG MÃ, SỐ VIỄN THÔNG\nKính gửi: Cục Viễn thông, Bộ Thông tin và Truyền thông. Thực hiện quy định tại Quyết định số …./2021/QĐ-TTg ngày ... tháng ... năm 2021 của Thủ tướng Chính phủ quy định về đấu giá, chuyển nhượng quyền sử dụng kho số viễn thông, tên miền Internet, chúng tôi gồm có:\n1. Bên chuyển nhượng quyền sử dụng mã,\nsố viễn thông\na) Trường hợp là doanh nghiệp\n- Tên doanh nghiệp: …………………………………………………………….. - Địa chỉ trụ sở chính: ………Số điện thoại: …………..Địa chỉ email: …………….. - Người đại diện theo pháp luật: ………………………………………………. - Mã số doanh nghiệp: ………………………………………………………….. - Thông tin về Giấy phép kinh doanh viễn thông (nếu là doanh nghiệp viễn thông): Số ……ngày cấp: ……………….ngày hết hạn: ……………………………..\nb) Trường hợp là tổ chức:\n- Tên tổ chức: ………………………………………………………………... - Địa chỉ: ………….Số điện thoại: ………………Địa chỉ email: …………………….. - Người đại diện theo pháp luật: …………………………………………. - Thông tin về Quyết định thành lập tổ chức: Số: ………………ngày thành lập ………………………………………….\n2. Bên nhận chuyển nhượng quyền sử dụng\nmã, số viễn thông\na) Trường hợp là doanh nghiệp:\n- Tên doanh nghiệp: ………………………………………………………… - Địa chỉ trụ sở chính: ……….Số điện thoại: …………...Địa chỉ email: ……………….. - Người đại diện theo pháp luật: ……………………………………………. - Mã số doanh nghiệp: ………………………………………………………….. - Thông tin về Giấy phép kinh doanh viễn thông (nếu là doanh nghiệp viễn thông): Số ………..ngày cấp: ……………..ngày hết hạn: ……………………………….\nb) Trường hợp là tổ chức\n- Tên tổ chức: .............................................................................................. - Địa chỉ: ………….Số điện thoại: …………….Địa chỉ email: …………………….. - Người đại diện theo pháp luật: ……………………………………………….. - Thông tin về Quyết định thành lập tổ chức: ……………………………………. Số: ………………ngày thành lập ……………………………………………..\n3. Mã, số viễn thông chuyển nhượng:\nSTT\nMã, số viễn thông chuyển nhượng Số tiền chuyển nhượng (Đơn vị: đồng) 1 2 ...\n4. Tài liệu chuyển nhượng\n- Tài liệu chứng minh của bên nhận chuyển nhượng về việc đáp ứng các yêu cầu tối thiểu tại cuộc đấu giá mà bên chuyển nhượng đã tham gia; bản cam kết của bên nhận chuyển nhượng. - Tài liệu liên quan khác (nếu có).\n5. Điều khoản cam kết\nCác bên tham gia chuyển nhượng và nhận chuyển nhượng chịu trách nhiệm trước pháp luật về các thông tin cung cấp và cam kết thực hiện nội dung chuyển nhượng quyền sử dụng mã, số viễn thông theo quy định của pháp luật về viễn thông và pháp luật liên quan.\nBÊN CHUYỂN NHƯỢNG\n(Ký ghi rõ họ tên, chức danh, đóng dấu) ……, ngày... tháng.... năm…….\nBÊN NHẬN CHUYỂN NHƯỢNG\n(Ký ghi rõ họ tên, chức danh, đóng dấu)",
+            "indexable": true
+          }
+        ]
+      },
+      {
+        "part_id": "doc:145694:part:3",
+        "part_type": "appendix",
+        "part_title": "PHỤ LỤC III",
+        "reference": null,
+        "direct_text": null,
+        "chapters": [],
+        "sections": [],
+        "articles": [],
+        "unstructured_blocks": [
+          {
+            "block_id": "doc:145694:part:3:block:1",
+            "content": "PHỤ LỤC III\nMẪU\nVĂN BẢN ĐỀ NGHỊ CHUYỂN NHƯỢNG VÀ NHẬN CHUYỂN NHƯỢNG QUYỀN SỬ DỤNG TÊN MIỀN\nINTERNET THÔNG QUA ĐẤU GIÁ\n(Kèm theo Quyết định số 16/2021/QĐ-TTg ngày 30 tháng 3 năm 2021 của Thủ tướng Chính phủ)\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc ---------------\nVĂN BẢN ĐỀ\nNGHỊ CHUYỂN NHƯỢNG VÀ NHẬN CHUYỂN NHƯỢNG QUYỀN SỬ DỤNG TÊN MIỀN INTERNET\nKính gửi: ……….. (tên Nhà đăng ký)…………. Chúng tôi (bên chuyển nhượng và bên nhận chuyển nhượng quyền sử dụng tên miền Internet) đã thống nhất và đề nghị Nhà đăng ký …………………thực hiện việc chuyển nhượng quyền sử dụng tên miền Internet theo các thông tin dưới đây:\n1. Tên miền Internet đề\nnghị chuyển nhượng quyền sử dụng:………………….. ……………………………………………………………………………………………….. - Ngày đăng ký: ………………………………………………………………… - Ngày hết hạn: …………………………………………………………………… - Nhà đăng ký quản lý: …………………………………………………………..\n2. Bên chuyển nhượng quyền sử dụng\ntên miền Internet (Chủ thể tên miền)\na) Trường hợp là tổ chức:\n- Tên tổ chức: …………………………………………………………………. - Tên giao dịch viết bằng tiếng nước ngoài (nếu có): …………………………… - Mã số doanh nghiệp: …………………………………………………………. - Địa chỉ: …………………………………………………………… - Số điện thoại: ………………………………………… - Địa chỉ email: ………………………………………………………………… - Họ tên người đại diện theo pháp luật …………………….Chức vụ: ………………… - Thông tin của người được ủy quyền thay mặt tổ chức, doanh nghiệp làm thủ tục chuyển nhượng quyền sử dụng tên miền internet: + Họ và tên: ………………………………………………………….. + Số chứng minh nhân dân/số thẻ căn cước công dân/số hộ chiếu: ……………\nb) Trường hợp là cá nhân:\n- Họ và tên: …………………………………………………… - Số chứng minh nhân dân/số thẻ căn cước công dân/số hộ chiếu: ………………. - Địa chỉ: …………………………………………………………….. - Số điện thoại: …………………………………………………….. - Địa chỉ email: ………………………………………………………..\n3. Bên nhận chuyển nhượng quyền sử dụng\ntên miền Internet\na) Trường hợp là tổ chức:\n- Tên tổ chức: …………………………………………………………………. - Tên giao dịch viết bằng tiếng nước ngoài (nếu có): ……………………….. - Mã số doanh nghiệp: …………………………………………….. - Địa chỉ: ……………………………………………………………….. - Số điện thoại: …………………………………………………….. - Địa chỉ email: ……………………………………………………… - Họ tên người đại diện theo pháp luật …………….Chức vụ: ………………….. - Thông tin của người được ủy quyền thay mặt tổ chức, doanh nghiệp làm thủ tục chuyển nhượng quyền sử dụng tên miền Internet: + Họ và tên: ……………………………………………………………… + Số chứng minh nhân dân/Số thẻ căn cước công dân/số hộ chiếu: …………\nb) Trường hợp là cá nhân:\n- Họ và tên: ………………………………………. - Số chứng minh nhân dân/Số thẻ căn cước công dân/Số hộ chiếu: …………… - Địa chỉ: ……………………………………………….. - Số điện thoại: ………………………………………………………… - Địa chỉ email: ……………………………………..\n4. Số tiền chuyển nhượng: …………………………………………………\n5. Cam kết\nChúng tôi xin chịu trách nhiệm trước pháp luật về các thông tin cung cấp và cam kết: - Tên miền Internet chuyển nhượng quyền sử dụng đang hoạt động bình thường, không có tranh chấp, đủ điều kiện được thực hiện chuyển quyền sử dụng theo quy định của pháp luật. - Bên nhận chuyển nhượng quyền sử dụng tên miền Internet đúng đối tượng được đăng ký tên miền chuyển nhượng. - Thực hiện đầy đủ trách nhiệm của các bên tham gia chuyển nhượng theo quy định của pháp luật. Trân trọng cảm ơn.\nBÊN CHUYỂN NHƯỢNG\n(Cá nhân ký ghi rõ họ tên; người đại diện theo pháp luật ký tên và đóng dấu nếu là tổ chức) ……, ngày... tháng ... năm ......\nBÊN NHẬN CHUYỂN NHƯỢNG\n(Cá nhân ký ghi rõ họ tên; người đại diện theo pháp luật ký tên và đóng dấu nếu là tổ chức)",
+            "indexable": true
+          }
+        ]
+      }
+    ]
+  },
+  "issues": [],
+  "status": "ok",
+  "source_hash": "context_145694.json",
+  "stats": {
+    "source_chars": 38930,
+    "passage_chars": 38771,
+    "parts": 3,
+    "chapters": 4,
+    "sections": 6,
+    "articles": 34,
+    "clauses": 78,
+    "points": 36
+  }
+}

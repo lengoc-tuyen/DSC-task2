@@ -1,0 +1,1605 @@
+{
+  "schema_version": "2.0",
+  "document_id": 191218,
+  "metadata": {
+    "name": "Nghi-dinh-45-2020-ND-CP-thuc-hien-thu-tuc-hanh-chinh-tren-moi-truong-dien-tu-426372",
+    "link": "https://thuvienphapluat.vn/van-ban/Cong-nghe-thong-tin/Nghi-dinh-45-2020-ND-CP-thuc-hien-thu-tuc-hanh-chinh-tren-moi-truong-dien-tu-426372.aspx",
+    "issuing_agency": "CHÍNH PHỦ",
+    "national_header": "CỘNG HÒA XÃ HỘI\r\n\n  CHỦ NGHĨA VIỆT NAM",
+    "motto": "Độc lập - Tự do - Hạnh phúc",
+    "document_number": "45/2020/NĐ-CP",
+    "issued_place": "Hà Nội",
+    "issued_date": "ngày 08\r\n\n  tháng 4 năm 2020",
+    "document_type": "NGHỊ ĐỊNH",
+    "title": "VỀ THỰC HIỆN THỦ TỤC HÀNH CHÍNH TRÊN MÔI TRƯỜNG ĐIỆN TỬ"
+  },
+  "administrative_header": {
+    "removed": true,
+    "removed_char_count": 147
+  },
+  "preamble": {
+    "text": "NGHỊ ĐỊNH VỀ\nTHỰC HIỆN THỦ TỤC HÀNH CHÍNH TRÊN MÔI TRƯỜNG ĐIỆN TỬ\nCăn cứ Luật Tổ chức Chính phủ ngày 19 tháng 6 năm 2015; Căn cứ Luật Giao dịch điện tử ngày 29 tháng 11 năm 2005; Căn cứ Luật Công nghệ thông tin ngày 29 tháng 6 năm 2006; Căn cứ Luật An toàn thông tin mạng ngày 19 tháng 11 năm 2015; Căn cứ Luật An ninh mạng ngày 12 tháng 6 năm 2018; Theo đề nghị của Bộ trưởng, Chủ nhiệm Văn phòng Chính phủ; Chính phủ ban hành Nghị định về thực hiện thủ tục hành chính trên môi trường điện tử.\nChương I\nNHỮNG QUY ĐỊNH CHUNG",
+    "legal_bases": [
+      "Căn cứ Luật Giao dịch điện tử ngày 29 tháng 11 năm 2005",
+      "Căn cứ Luật Công nghệ thông tin ngày 29 tháng 6 năm 2006",
+      "Căn cứ Luật An toàn thông tin mạng ngày 19 tháng 11 năm 2015",
+      "Căn cứ Luật An ninh mạng ngày 12 tháng 6 năm 2018"
+    ],
+    "proposals": [
+      "Theo đề nghị của Bộ trưởng, Chủ nhiệm Văn phòng Chính phủ"
+    ],
+    "enactment_formula": null
+  },
+  "passage": "NGHỊ ĐỊNH VỀ\nTHỰC HIỆN THỦ TỤC HÀNH CHÍNH TRÊN MÔI TRƯỜNG ĐIỆN TỬ\nCăn cứ Luật Tổ chức Chính phủ ngày 19 tháng 6 năm 2015; Căn cứ Luật Giao dịch điện tử ngày 29 tháng 11 năm 2005; Căn cứ Luật Công nghệ thông tin ngày 29 tháng 6 năm 2006; Căn cứ Luật An toàn thông tin mạng ngày 19 tháng 11 năm 2015; Căn cứ Luật An ninh mạng ngày 12 tháng 6 năm 2018; Theo đề nghị của Bộ trưởng, Chủ nhiệm Văn phòng Chính phủ; Chính phủ ban hành Nghị định về thực hiện thủ tục hành chính trên môi trường điện tử.\nChương I\nNHỮNG QUY ĐỊNH CHUNG\nĐiều 1. Phạm vi điều chỉnh\n1. Nghị định này quy định việc thực hiện thủ tục\nhành chính trên môi trường điện tử.\n2. Nghị định này không điều chỉnh việc thực hiện thủ\ntục hành chính theo cơ chế một cửa quốc gia, một cửa ASEAN và kiểm tra chuyên ngành đối với hàng hóa xuất khẩu, nhập khẩu.\nĐiều 2. Đối tượng áp dụng\n1. Các cơ quan giải quyết thủ tục hành chính\na) Bộ, cơ quan ngang bộ, Bảo hiểm xã hội Việt Nam,\ntổng cục và tương đương, cục, vụ thuộc bộ, cơ quan ngang bộ, cơ quan đại diện ngoại giao, đại diện lãnh sự của Việt Nam ở nước ngoài có nhiệm vụ, quyền hạn giải quyết thủ tục hành chính và tham gia vào quá trình giải quyết thủ tục hành chính;\nb) Ủy ban nhân dân các cấp; các cơ quan chuyên môn\nthuộc Ủy ban nhân dân cấp tỉnh, cấp huyện; các ban quản lý khu công nghiệp, khu chế xuất, khu kinh tế, khu công nghệ cao có nhiệm vụ, quyền hạn giải quyết thủ tục hành chính. Các cơ quan quy định tại điểm a, b khoản này sau đây được gọi tắt là cơ quan có thẩm quyền.\n2. Cán bộ, công chức, viên chức của các cơ quan có\nthẩm quyền quy định tại khoản 1 Điều này, sỹ quan, hạ sỹ quan quân đội, sỹ quan, hạ sỹ quan công an thuộc Bộ Quốc phòng, Bộ Công an (sau đây gọi chung là cán bộ, công chức, viên chức).\n3. Tổ chức, cá nhân có yêu cầu thực hiện thủ tục\nhành chính trên môi trường điện tử và tổ chức, cá nhân khác có liên quan (sau đây gọi là tổ chức, cá nhân).\n4. Doanh nghiệp cung ứng dịch vụ bưu chính công\ních; doanh nghiệp, cá nhân được thuê hoặc được ủy quyền thực hiện thủ tục hành chính theo quy định của pháp luật.\n5. Ngân hàng và các tổ chức trung gian thanh toán\ntham gia cung cấp dịch vụ thanh toán trên môi trường điện tử.\n6. Khuyến khích các đơn vị sự nghiệp công lập,\ndoanh nghiệp nhà nước và các cơ quan, tổ chức cung cấp dịch vụ công khác áp dụng Nghị định này trong việc cung cấp dịch vụ công trực tuyến cho tổ chức, cá nhân.\nĐiều 3. Giải thích từ ngữ Trong Nghị định này, những từ ngữ dưới đây được hiểu như sau:\n1. Môi trường điện tử: là môi trường trong đó thông\ntin được tạo lập, cung cấp, trao đổi, thu thập, xử lý, lưu trữ thông qua mạng Internet, mạng máy tính, các hệ thống thông tin, cơ sở dữ liệu.\n2. Thực hiện thủ tục hành chính trên môi trường điện\ntử: là việc cơ quan, tổ chức, cá nhân tiến hành toàn bộ hoặc một số bước thực hiện thủ tục hành chính, thủ tục giải quyết công việc bằng phương tiện điện tử thông qua các dịch vụ công trực tuyến.\n3. Hồ sơ điện tử thực hiện thủ tục hành chính: là\nnhững loại giấy tờ, tài liệu ở dạng điện tử được tổ chức, cá nhân thực hiện thủ tục hành chính nộp, bổ sung cho cơ quan, tổ chức có thẩm quyền theo quy định hoặc giấy tờ, tài liệu ở dạng điện tử được luân chuyển giữa các cơ quan, tổ chức có thẩm quyền trong quá trình tiếp nhận, giải quyết thủ tục hành chính.\n4. Tài khoản giao dịch điện tử: là danh tính điện tử\ncủa cơ quan, cán bộ, công chức, viên chức có thẩm quyền, tổ chức, cá nhân được xác thực điện tử để đăng nhập vào Cổng dịch vụ công quốc gia, Cổng dịch vụ công, Hệ thống thông tin một cửa điện tử cấp bộ, cấp tỉnh khi thực hiện thủ tục hành chính trên môi trường điện tử và các hoạt động khác theo quy định của pháp luật.\n5. Nền tảng trao đổi định danh điện tử của Cổng dịch\nvụ công quốc gia: là hợp phần giúp hỗ trợ việc kết nối, xác thực danh tính điện tử của cơ quan, cán bộ, công chức, viên chức có thẩm quyền, tổ chức, cá nhân và đăng nhập một lần từ Cổng dịch vụ công quốc gia tới các Cổng dịch vụ công, Hệ thống thông tin một cửa điện tử cấp bộ, cấp tỉnh.\n6. Biểu mẫu điện tử: là các mẫu\nđơn, tờ khai thực hiện thủ tục hành chính được thể hiện dưới dạng điện tử.\n7. Bản sao điện tử: là bản chụp dưới dạng điện tử từ\nbản chính dạng văn bản giấy hoặc tập tin có nội dung đầy đủ, chính xác như nội dung ghi trong sổ gốc, bản chính dạng văn bản giấy.\n8. Cấp bản sao điện tử từ sổ gốc: là việc cơ quan,\ntổ chức đang quản lý sổ gốc, căn cứ vào sổ gốc để cấp bản sao điện tử. Bản sao điện tử từ sổ gốc có nội dung đầy đủ, chính xác như nội dung ghi trong sổ gốc.\n9. Chứng thực bản sao điện tử từ bản chính: là việc\ncơ quan, tổ chức có thẩm quyền căn cứ vào bản chính dạng văn bản giấy để chứng thực bản sao bằng hình thức điện tử là đúng với bản chính.\n10. Số hóa kết quả giải quyết thủ tục hành chính:\nlà việc cơ quan nhà nước chuyển đổi các kết quả giải quyết thủ tục hành chính đã cấp từ văn bản giấy sang văn bản điện tử hoặc thông tin số để bảo đảm cho việc thực hiện thủ tục hành chính trên môi trường điện tử.\n11. Kho quản lý dữ liệu điện tử của tổ chức, cá\nnhân: là không gian điện tử riêng của tổ chức, cá nhân tại Cổng dịch vụ công quốc gia, Cổng dịch vụ công cấp bộ, cấp tỉnh để hỗ trợ quản lý, lưu giữ thông tin, dữ liệu điện tử liên quan đến giao dịch hành chính của tổ chức, cá nhân đó.\nĐiều 4. Nguyên tắc thực hiện thủ tục hành chính trên môi trường điện tử\n1. Việc thực hiện thủ tục hành chính trên môi trường\nđiện tử có giá trị pháp lý như các hình thức khác theo quy định của pháp luật.\n2. Việc tổ chức tiếp nhận, giải quyết thủ tục hành chính\ntrên môi trường điện tử được thực hiện hợp pháp, hợp lý, khoa học; bảo đảm sự bình đẳng, khách quan, công khai, minh bạch, an toàn thông tin và có sự phối hợp chặt chẽ giữa các cơ quan có thẩm quyền trong quá trình giải quyết thủ tục hành chính.\n3. Việc thực hiện thủ tục hành chính trên môi trường\nđiện tử phải lấy tổ chức, cá nhân có yêu cầu thực hiện thủ tục hành chính trên môi trường điện tử làm trung tâm, bảo đảm ngôn ngữ, phương thức thực hiện đơn giản, dễ hiểu, dễ thực hiện, góp phần thực hiện có hiệu quả mục tiêu cải cách thủ tục hành chính.\n4. Không yêu cầu tổ chức, cá\nnhân khai, nộp lại những dữ liệu mà cơ quan thực hiện thủ tục hành chính đang quản lý hoặc đã được cơ quan nhà nước khác sẵn sàng chia sẻ.\n5. Tối đa hóa các bước thực hiện thủ tục hành chính\ntrên môi trường điện tử để tiết kiệm thời gian, chi phí, công sức của tổ chức, cá nhân và cơ quan có thẩm quyền.\n6. Việc thực hiện thủ tục hành chính trên môi trường\nđiện tử không làm tăng phí, lệ phí ngoài quy định của pháp luật.\n7. Tuân thủ các quy định của pháp luật Việt Nam và\ncác điều ước quốc tế có liên quan đến thực hiện giao dịch điện tử mà nước Cộng hòa xã hội chủ nghĩa Việt Nam đã ký kết hoặc gia nhập.\nĐiều 5. Quyền, nghĩa vụ và các hành vi không được làm của tổ chức, cá nhân có yêu cầu thực hiện thủ tục hành chính trên môi trường điện tử\n1. Quyền\na) Được hỗ trợ trong quá trình thực hiện thủ tục\nhành chính trên môi trường điện tử;\nb) Được tra cứu, theo dõi, tải về toàn bộ hồ sơ điện\ntử thực hiện thủ tục hành chính đã gửi thành công từ Cổng dịch vụ công quốc gia, Cổng dịch vụ công cấp bộ, cấp tỉnh và kết quả giải quyết thủ tục hành chính điện tử;\nc) Được bảo quản, lưu trữ an toàn đối với hồ sơ,\ntài liệu, kết quả giải quyết thủ tục hành chính dưới dạng điện tử theo quy định của pháp luật;\nd) Được yêu cầu cơ quan có thẩm quyền xác nhận bằng\nvăn bản việc thực hiện thủ tục hành chính trên môi trường điện tử để phục vụ các hoạt động khác có liên quan trong phạm vi quy định của pháp luật. Việc yêu cầu và xác nhận phải tuân thủ quy định của pháp luật về tiếp cận thông tin;\nđ) Được yêu cầu cơ quan có thẩm quyền chia sẻ thông\ntin, dữ liệu là kết quả giải quyết thủ tục hành chính của tổ chức, cá nhân cho cơ quan khác để phục vụ các yêu cầu, lợi ích có liên quan của tổ chức, cá nhân đó.\ne) Được công nhận kết quả giải quyết thủ tục hành\nchính điện tử và hồ sơ thủ tục hành chính đã được ký số của cơ quan, tổ chức, cá nhân có thẩm quyền theo quy định của pháp luật trong các giao dịch điện tử;\ng) Thực hiện các quyền theo quy định tại Luật Giao dịch điện tử, Luật Công nghệ thông tin và các văn bản hướng dẫn\nLuật, thực hiện quyền và trách nhiệm được quy định tại khoản 1 Điều 6 Nghị định số 61/2018/NĐ-CP ngày 23 tháng 4 năm 2018 của Chính phủ về thực hiện cơ chế một cửa, một cửa liên thông trong giải quyết thủ tục hành chính.\n2. Nghĩa vụ\na) Cung cấp thông tin đăng ký giao dịch điện tử với\ncơ quan giải quyết thủ tục hành chính kịp thời, chính xác;\nb) Quản lý, sử dụng tài khoản giao dịch điện tử an\ntoàn, bảo mật;\nc) Chịu trách nhiệm về tính chính xác, hợp pháp của\nthông tin hồ sơ kê khai khi thực hiện thủ tục hành chính trên môi trường điện tử;\nd) Theo dõi, cập nhật, phản hồi các thông tin liên\nquan đến giao dịch điện tử với cơ quan giải quyết thủ tục hành chính và thực hiện theo các hướng dẫn, thông báo của cơ quan gửi tới tổ chức, cá nhân;\nđ) Thực hiện đầy đủ các quy định về thực hiện thủ tục\nhành chính trên môi trường điện tử; nộp đầy đủ các khoản phí, lệ phí và các nghĩa vụ tài chính khác (nếu có) theo quy định;\ne) Chịu trách nhiệm trước pháp luật về hành vi vi\nphạm quy định tại khoản 3 Điều này và các quy định khác của pháp luật có liên quan.\n3. Hành vi không được làm\nTổ chức, cá nhân thực hiện thủ tục hành chính trên môi trường điện tử không được thực hiện các hành vi bị cấm quy định tại Điều 9 Luật Giao dịch điện tử năm 2005, Điều 12 Luật Công nghệ thông tin năm 2006, Điều 7 Luật An toàn thông tin mạng năm 2015, Điều 8 Luật An ninh mạng năm 2018, Điều 5 Luật Bảo vệ bí mật nhà nước năm 2018 và các quy định tại các khoản 2 và 3 Điều 5 Nghị định số 61/2018/NĐ-CP ngày 23 tháng 4 năm 2018 của Chính phủ về thực hiện cơ chế một cửa, một cửa liên thông trong giải quyết thủ tục hành chính.\nĐiều 6. Trách nhiệm và hành vi không được làm của cán bộ, công chức, viên chức tiếp nhận, giải quyết thủ tục hành chính trên môi trường điện tử\n1. Trách nhiệm\na) Hướng dẫn, hỗ trợ để tổ chức, cá nhân thực hiện\nthủ tục hành chính trên môi trường điện tử;\nb) Kiểm tra hồ sơ, gửi các thông tin phản hồi cho tổ\nchức, cá nhân theo các thông tin tổ chức, cá nhân đã đăng ký khi thực hiện thủ tục hành chính trên môi trường điện tử;\nc) Sử dụng tài khoản giao dịch điện tử đã đăng ký\nđăng nhập vào Hệ thống thông tin một cửa điện tử cấp bộ, cấp tỉnh để theo dõi, giải quyết hồ sơ điện tử thực hiện thủ tục hành chính của tổ chức, cá nhân theo đúng quy định và đảm bảo hiệu quả;\nd) Báo cáo Thủ trưởng cơ quan giải quyết thủ tục\nhành chính khi phát hiện các hành vi sử dụng hệ thống thông tin không đúng mục đích, các dấu hiệu gây ảnh hưởng đến an toàn, an ninh thông tin để kịp thời xử lý;\nđ) Tuân thủ Luật An\ntoàn thông tin mạng, Luật An ninh mạng và các quy định pháp luật liên quan về bảo vệ thông tin cá nhân khi thực hiện thu thập thông tin cá nhân của tổ chức, cá nhân tham gia thực hiện thủ tục hành chính trên môi trường điện tử;\ne) Cập nhật các kiến thức bảo đảm sử dụng thành thạo\ncác phần mềm ứng dụng được triển khai trong giải quyết thủ tục hành chính trên môi trường điện tử.\n2. Hành vi không được làm\na) Cản trở việc lựa chọn phương thức thực hiện thủ\ntục hành chính trên môi trường điện tử của tổ chức, cá nhân;\nb) Yêu cầu tổ chức, cá nhân nộp giấy tờ, tài liệu bằng\nvăn bản giấy để xác minh, kiểm tra đối với các thành phần hồ sơ đã được ký số và ghi nhận tính pháp lý trong quá trình tiếp nhận, giải quyết thủ tục hành chính;\nc) Can thiệp trái phép vào quá trình thực hiện thủ\ntục hành chính trên môi trường điện tử, bao gồm: truyền, thu thập, xử lý, gửi hoặc thông báo kết quả xử lý hồ sơ, giao dịch thanh toán; can thiệp trái phép, làm sai lệch dữ liệu hồ sơ, giao dịch thanh toán, kết quả xử lý thủ tục hành chính; tiết lộ thông tin, sao chép dữ liệu trái thẩm quyền;\nd) Gian lận, mạo nhận, chiếm đoạt, sử dụng trái\nphép danh tính điện tử của tổ chức, cá nhân, cơ quan có thẩm quyền;\nđ) Các hành vi bị cấm khác của pháp luật có liên\nquan đến hoạt động của cán bộ, công chức, viên chức trên môi trường điện tử.\nChương II\nQUY TRÌNH THỰC HIỆN THỦ\nTỤC HÀNH CHÍNH TRÊN MÔI TRƯỜNG ĐIỆN TỬ\nĐiều 7. Đăng ký tài khoản\n1. Việc đăng ký tài khoản thực\nhiện thủ tục hành chính trên môi trường điện tử được thực hiện tại Cổng dịch vụ công quốc gia, Cổng dịch vụ công cấp bộ, cấp tỉnh hoặc sử dụng danh tính điện tử do các tổ chức cung cấp định danh điện tử đã kết nối, tích hợp với Nền tảng trao đổi định danh điện tử trên Cổng dịch vụ công quốc gia.\n2. Việc tiếp nhận, giải quyết thủ tục hành chính\ntrên môi trường điện tử chỉ được thực hiện khi hồ sơ được gửi từ tài khoản đã đăng ký.\nĐiều 8. Đăng nhập tài khoản\n1. Tổ chức, cá nhân truy cập vào địa chỉ Cổng dịch\nvụ công quốc gia hoặc Cổng dịch vụ công cấp bộ, cấp tỉnh, đăng nhập tài khoản và thực hiện xác thực điện tử người dùng.\n2. Mức độ bảo đảm khi đăng nhập tài khoản\na) Mức độ bảo đảm của danh tính điện tử của tổ chức,\ncá nhân được dùng để đăng nhập dựa trên xác minh được các thông tin của danh tính điện tử do tổ chức, cá nhân cung cấp là chính xác thông qua việc so sánh, đối chiếu tự động với các thông tin, dữ liệu hệ thống đang quản lý hoặc được kết nối, chia sẻ; hoặc so sánh với các bằng chứng mà tổ chức, cá nhân đó cung cấp trực tiếp;\nb) Mức độ bảo đảm xác thực người dùng khi đăng nhập\ntài khoản dựa trên ít nhất một yếu tố xác thực của tổ chức, cá nhân.\n3. Tổ chức, cá nhân đăng nhập và xác thực thành\ncông trên Cổng dịch vụ công quốc gia được đăng nhập trực tiếp vào các Cổng dịch vụ công cấp bộ, cấp tỉnh hoặc hệ thống cung cấp các dịch vụ công có liên quan theo cơ chế đăng nhập một lần.\n4. Mức độ bảo đảm xác thực người dùng khi thực hiện\nthủ tục hành chính do cơ quan, tổ chức xây dựng, cung cấp dịch vụ công trực tuyến xác định. Trường hợp mức độ bảo đảm xác thực khi thực hiện thủ tục hành chính yêu cầu cao hơn so với mức độ khi đăng nhập, tổ chức, cá nhân bổ sung giải pháp xác thực theo hướng dẫn cụ thể của cơ quan cung cấp thủ tục hành chính tại Cổng dịch vụ công quốc gia hoặc Cổng dịch vụ công cấp bộ, cấp tỉnh.\nĐiều 9. Chuẩn bị và nộp hồ sơ điện tử thực hiện thủ tục hành chính\n1. Tổ chức, cá nhân chuẩn bị hồ sơ điện tử, kê khai\nmẫu đơn, tờ khai điện tử theo yêu cầu của hệ thống cung cấp dịch vụ công trực tuyến như sau:\na) Khai mẫu đơn, tờ khai trên các biểu mẫu điện tử\nđược cung cấp sẵn;\nb) Đăng tải các giấy tờ, tài liệu điện tử hợp lệ hoặc\ndẫn nguồn tài liệu từ Kho quản lý dữ liệu điện tử của tổ chức, cá nhân;\nc) Ký chữ ký số vào mẫu đơn, tờ khai, giấy tờ, tài\nliệu điện tử nếu có yêu cầu. Việc yêu cầu ký số được công khai trước khi tổ chức, cá nhân nộp hồ sơ điện tử. Thành phần hồ sơ được ký chữ ký số có giá trị pháp lý như văn bản giấy được ký hợp lệ.\n2. Sau khi hoàn thành chuẩn bị hồ sơ, mẫu đơn, tờ\nkhai điện tử, tổ chức, cá nhân gửi đến cơ quan có thẩm quyền tiếp nhận. Các thông tin, dữ liệu sau khi được ghi nhận nếu được tổ chức, cá nhân đồng ý sẽ được hệ thống thông tin lưu giữ và điền tự động trong các biểu mẫu điện tử, hồ sơ điện tử khi thực hiện các thủ tục hành chính lần sau theo nhu cầu của tổ chức, cá nhân.\nĐiều 10. Yêu cầu cấp bản sao điện tử có giá trị pháp lý\n1. Đối với các giấy tờ, tài liệu chưa được số hóa,\nlưu giữ, kết nối, chia sẻ thông tin với Cổng dịch vụ công quốc gia, Cổng dịch vụ công, Hệ thống thông tin một cửa điện tử cấp bộ, cấp tỉnh, tùy theo nhu cầu, tổ chức, cá nhân yêu cầu cơ quan nhà nước có thẩm quyền cấp bản sao điện tử theo hai cách:\na) Yêu cầu cấp bản sao điện tử từ sổ gốc;\nb) Yêu cầu chứng thực bản sao điện tử từ bản chính\ngiấy tờ, tài liệu.\n2. Trường hợp tổ chức, cá nhân yêu cầu cấp bản sao\nđiện tử từ sổ gốc, cơ quan đang quản lý sổ gốc căn cứ vào sổ gốc để cấp bản sao điện tử có chữ ký số của cơ quan cho người yêu cầu. Thẩm quyền cấp, tổ chức, cá nhân có quyền yêu cầu cấp bản sao điện tử từ sổ gốc được thực hiện theo các quy định của pháp luật về cấp bản sao từ sổ gốc. Bản sao điện tử được cấp từ sổ gốc có giá trị sử dụng thay cho bản chính trong các giao dịch, trừ trường hợp pháp luật có quy định khác.\n3. Trường hợp tổ chức, cá nhân yêu cầu chứng thực bản\nsao điện tử từ bản chính, thẩm quyền, địa điểm, giấy tờ, văn bản làm cơ sở để thực hiện, trách nhiệm của người yêu cầu chứng thực và người thực hiện chứng thực, thời hạn thực hiện và việc gia hạn thời hạn, lệ phí và các chi phí khác, chế độ lưu trữ thực hiện theo quy định của pháp luật về chứng thực bản sao từ bản chính. Thủ tục chứng thực bản sao điện tử từ bản chính được thực hiện như sau:\na) Tổ chức, cá nhân xuất trình bản chính giấy tờ,\ntài liệu làm cơ sở để chứng thực bản sao. Trong trường hợp bản chính giấy tờ, tài liệu do cơ quan, tổ chức có thẩm quyền của nước ngoài cấp, công chứng hoặc chứng nhận thì phải được hợp pháp hóa lãnh sự theo quy định của pháp luật trước khi yêu cầu chứng thực bản sao; trừ trường hợp được miễn hợp pháp hóa lãnh sự theo điều ước quốc tế mà Việt Nam là thành viên hoặc theo nguyên tắc có đi, có lại.\nb) Người thực hiện chứng thực kiểm tra bản chính,\nchụp điện tử bản chính, nhập lời chứng chứng thực bản sao từ bản chính và thực hiện ký số của người thực hiện chứng thực, cơ quan có thẩm quyền chứng thực và cập nhật vào sổ chứng thực. Bản sao điện tử được chứng thực từ bản chính dạng văn bản giấy theo quy định tại Nghị định này có giá trị sử dụng thay cho bản chính đã dùng để đối chiếu chứng thực trong các giao dịch, trừ trường hợp pháp luật có quy định khác.\n4. Cơ quan có thẩm quyền cấp bản sao điện tử gửi bản\nsao điện tử đã được ký số vào Kho quản lý dữ liệu điện tử của tổ chức, cá nhân đó tại Cổng dịch vụ công quốc gia. Trường hợp tổ chức, cá nhân chưa có tài khoản trên Cổng dịch vụ công quốc gia, cơ quan có thẩm quyền gửi bản sao điện tử đã được ký số cho tổ chức, cá nhân qua địa chỉ thư điện tử do tổ chức, cá nhân cung cấp.\nĐiều 11. Quy trình tiếp nhận, giải quyết thủ tục hành chính trên môi trường điện tử\n1. Cổng dịch vụ công quốc gia hoặc Cổng dịch vụ\ncông cấp bộ, cấp tỉnh tiếp nhận yêu cầu, kiểm tra tự động về mặt kỹ thuật. Nếu hồ sơ đã đủ các thành phần và bảo đảm về mặt kỹ thuật thì phản hồi tự động xác nhận tổ chức, cá nhân đã gửi thành công và thông báo về thời điểm tiếp nhận chính thức hồ sơ.\n2. Cán bộ, công chức, viên chức đăng nhập Hệ thống\nthông tin một cửa điện tử cấp bộ, cấp tỉnh và kiểm tra hồ sơ điện tử tổ chức, cá nhân gửi đến. Nội dung kiểm tra hồ sơ bao gồm:\na) Kiểm tra tính chính xác của thông tin tại mẫu\nđơn, tờ khai thông qua việc khai thác thông tin, dữ liệu tại các hệ thống thông tin, cơ sở dữ liệu đã sẵn sàng kết nối, chia sẻ thông tin cho Cổng dịch vụ công quốc gia, Cổng dịch vụ công cấp bộ, cấp tỉnh, Hệ thống thông tin một cửa điện tử cấp bộ, cấp tỉnh;\nb) Kiểm tra thông tin chữ ký số để đảm bảo tính xác\nthực, tính hợp lệ, chính xác, nguyên vẹn đối với các thành phần hồ sơ được đăng tải, dẫn nguồn, các thành phần hồ sơ theo yêu cầu chứng thực điện tử; việc kiểm tra chữ ký số được thực hiện theo quy định của Luật Giao dịch điện tử.\n3. Sau khi kiểm tra, nếu bảo đảm các điều kiện để\ntiếp nhận, cán bộ, công chức, viên chức tiếp nhận, cấp mã hồ sơ thủ tục hành chính và xử lý hồ sơ theo quy trình quy định tại Chương III Nghị định số 61/2018/NĐ-CP ngày 23 tháng 4 năm 2018 của Chính phủ và các quy định của pháp luật có liên quan. Trường hợp hồ sơ chưa đầy đủ, đúng quy định, cán bộ, công chức, viên chức thông báo cho tổ chức, cá nhân biết thông qua tài khoản của tổ chức, cá nhân trên Cổng dịch vụ công quốc gia, Cổng dịch vụ công cấp bộ, cấp tỉnh, các kênh thông tin tổ chức, cá nhân đăng ký và hướng dẫn đầy đủ, cụ thể một lần để công dân, tổ chức bổ sung đầy đủ hồ sơ theo yêu cầu.\n4. Cán bộ, công chức, viên chức thông báo về việc\ntiếp nhận chính thức hoặc yêu cầu chỉnh sửa, bổ sung hồ sơ cho tổ chức, cá nhân không muộn hơn tám giờ làm việc kể từ khi hệ thống tiếp nhận.\n5. Những thông tin, thành phần hồ sơ được nêu tại khoản\n2 Điều này sau khi được cơ quan có thẩm quyền tiếp nhận và ghi nhận tính chính xác, nếu được tổ chức, cá nhân đồng ý sẽ được lưu giữ tại Kho quản lý dữ liệu điện tử của tổ chức, cá nhân.\nĐiều 12. Sửa đổi, bổ sung thông tin hồ sơ điện tử thực hiện thủ tục hành chính\n1. Tổ chức, cá nhân thực hiện sửa đổi, bổ sung\nthành phần hồ sơ trên Cổng dịch vụ công quốc gia, Cổng dịch vụ công cấp bộ, cấp tỉnh theo yêu cầu của cơ quan có thẩm quyền.\n2. Hình thức sửa đổi, bổ sung hồ sơ điện tử bao gồm:\na) Tạo lập thông tin sửa đổi, bổ sung theo tiêu\nchí, định dạng theo hướng dẫn và gửi đến Cổng dịch vụ công quốc gia, Cổng dịch vụ công cấp bộ, cấp tỉnh;\nb) Khai báo trực tiếp trên Cổng dịch vụ công quốc\ngia hoặc Cổng dịch vụ công cấp bộ, cấp tỉnh.\nc) Việc sửa đổi, bổ sung thông tin, hồ sơ điện tử\nđược lưu lại lịch sử sửa đổi và không làm thay đổi mã hồ sơ thủ tục hành chính.\nĐiều 13. Thanh toán trực tuyến nghĩa vụ tài chính trong giải quyết thủ tục hành chính\n1. Tổ chức, cá nhân nộp phí, lệ phí, thuế và các\nnghĩa vụ tài chính khác (nếu có) trong giải quyết thủ tục hành chính thông qua chức năng thanh toán trực tuyến trên Cổng dịch vụ công quốc gia hoặc Cổng dịch vụ công cấp bộ, cấp tỉnh hoặc bằng cách thức khác theo quy định của pháp luật.\n2. Việc thực hiện xác thực trong thanh toán trực\ntuyến nghĩa vụ tài chính trên Cổng dịch vụ công quốc gia được thực hiện theo một trong các phương thức:\na) Đăng nhập một lần trên cơ sở liên kết tài khoản\ngiữa Cổng dịch vụ công quốc gia với Cổng dịch vụ công cấp bộ, cấp tỉnh, đơn vị cung cấp dịch vụ công và hệ thống thanh toán của các ngân hàng, tổ chức cung ứng dịch vụ trung gian thanh toán;\nb) Thực hiện bằng tài khoản của ngân hàng hoặc tổ\nchức cung ứng dịch vụ trung gian thanh toán trong trường hợp không thực hiện đăng nhập bằng tài khoản của Cổng dịch vụ công quốc gia.\n3. Thời điểm, mức nộp phí, lệ\nphí và các nghĩa vụ tài chính khác (nếu có) thực hiện theo Luật Phí, lệ phí và các văn bản quy phạm pháp luật có liên quan.\n4. Chứng từ nộp ngân sách nhà nước có chữ ký số của\nngân hàng hoặc tổ chức cung ứng dịch vụ trung gian thanh toán và thông tin đã trích nộp vào ngân sách nhà nước thành công được gửi cho người nộp ngân sách nhà nước, cơ quan, đơn vị giải quyết thủ tục hành chính và các cơ quan, tổ chức liên quan (nếu có) để thực hiện các bước tiếp theo trong giải quyết thủ tục hành chính cho tổ chức, cá nhân.\n5. Chứng từ được sử dụng để trao đổi thông tin giữa\ncác cơ quan, đơn vị giải quyết thủ tục hành chính, người nộp nghĩa vụ tài chính và các ngân hàng hoặc tổ chức cung ứng dịch vụ trung gian thanh toán thực hiện theo quy định pháp luật về thủ tục hành chính trong lĩnh vực Kho bạc Nhà nước.\n6. Phí dịch vụ thanh toán trực tuyến thực hiện theo\nquy định của các ngân hàng hoặc tổ chức cung ứng dịch vụ trung gian thanh toán, trừ trường hợp pháp luật có quy định khác.\n7. Trách nhiệm của ngân hàng\nhoặc tổ chức cung ứng dịch vụ trung gian thanh toán:\na) Thực hiện cung ứng các giải pháp dịch vụ thanh\ntoán trực tuyến phí, lệ phí, thuế và các nghĩa vụ tài chính khác trong giải quyết thủ tục hành chính của cá nhân, tổ chức cho các cơ quan, đơn vị giải quyết thủ tục hành chính thông qua việc kết nối, tích hợp với chức năng thanh toán trực tuyến trên Cổng dịch vụ công quốc gia hoặc Cổng dịch vụ công cấp bộ, cấp tỉnh;\nb) Công khai mức phí dịch vụ thanh toán trực tuyến\ntheo từng trường hợp cụ thể trước khi cá nhân, tổ chức thực hiện thanh toán;\nc) Công khai quy trình nghiệp vụ, phương thức thực\nhiện thanh toán của cá nhân, tổ chức trên Cổng dịch vụ công quốc gia, Cổng dịch vụ công cấp bộ, cấp tỉnh làm cơ sở các bên phối hợp thực hiện nghiệp vụ thanh quyết toán, giải quyết tra soát, khiếu nại;\nd) Thực hiện đối soát hàng ngày đảm bảo khớp, đúng\ndữ liệu trong giao dịch giữa các ngân hàng, tổ chức cung cấp dịch vụ trung gian thanh toán và giữa ngân hàng hoặc tổ chức cung cấp dịch vụ trung gian thanh toán với cơ quan, đơn vị giải quyết thủ tục hành chính; trường hợp có chênh lệch thì các bên tìm hiểu nguyên nhân và phối hợp xử lý;\nđ) Thực hiện hạch toán, quyết toán các khoản thu\nnghĩa vụ tài chính giải quyết thủ tục hành chính đầy đủ theo đúng quy định pháp luật;\ne) Thường xuyên rà soát, kiểm tra, kịp thời phát hiện\nvà khắc phục những sự cố do nguyên nhân kỹ thuật của hệ thống hoặc lỗi của cán bộ ngân hàng hoặc tổ chức cung ứng dịch vụ trung gian thanh toán gây ra; phối hợp với các cơ quan, đơn vị liên quan trong tìm nguyên nhân và giải pháp bảo đảm an toàn, thông suốt trong quá trình quản lý, vận hành hệ thống thanh toán trực tuyến trên Cổng dịch vụ công quốc gia hoặc Cổng dịch vụ công cấp bộ, cấp tỉnh;\ng) Bảo đảm chất lượng dịch vụ thanh toán trực tuyến\nvà việc bảo mật thông tin trong quá trình thực hiện theo quy định pháp luật;\nh) Phối hợp với các cơ quan giải quyết thủ tục hành\nchính giải đáp vướng mắc, tra soát cho tổ chức, cá nhân thực hiện thủ tục hành chính.\n8. Trách nhiệm của cơ quan, đơn vị giải quyết thủ tục\nhành chính:\na) Tích hợp, đồng bộ thông tin, dữ liệu liên quan\nyêu cầu thực hiện nghĩa vụ tài chính trong giải quyết thủ tục hành chính của cá nhân, tổ chức với Cổng dịch vụ công quốc gia, Cổng dịch vụ công cấp bộ, cấp tỉnh theo phạm vi quản lý giải quyết thủ tục hành chính;\nb) Phối hợp với ngân hàng hoặc tổ chức cung cấp dịch\nvụ trung gian thanh toán thực hiện kết nối, tích hợp, triển khai dịch vụ thanh toán trực tuyến nghĩa vụ tài chính đối với thủ tục hành chính thuộc thẩm quyền giải quyết; thực hiện đối soát hàng ngày đảm bảo khớp, đúng dữ liệu giữa các bên, trường hợp có chênh lệch thì các bên tìm hiểu nguyên nhân và phối hợp xử lý;\nc) Công khai về đầu mối phối hợp thực hiện với ngân\nhàng thương mại, tổ chức cung cấp dịch vụ trung gian thanh toán và các cơ quan, đơn vị có liên quan trên Cổng dịch vụ công quốc gia, Cổng dịch vụ công cấp bộ, cấp tỉnh làm cơ sở phối hợp thực hiện nghiệp vụ thanh quyết toán, giải quyết tra soát, khiếu nại;\nd) Thường xuyên rà soát, kiểm tra, kịp thời phát hiện\nvà khắc phục những sự cố do nguyên nhân kỹ thuật của hệ thống hoặc lỗi của cán bộ, công chức, viên chức thuộc cơ quan, đơn vị gây ra; phối hợp với các cơ quan, đơn vị liên quan trong tìm nguyên nhân và giải pháp đảm bảo an toàn, thông suốt trong quá trình quản lý, vận hành hệ thống thanh toán trực tuyến trên Cổng dịch vụ công quốc gia hoặc Cổng dịch vụ công cấp bộ, cấp tỉnh;\nđ) Bảo đảm chất lượng dịch vụ thanh toán trực tuyến\nvà việc bảo mật thông tin trong quá trình thực hiện theo quy định pháp luật.\n9. Kho bạc Nhà nước có trách nhiệm kết nối, tích hợp,\nchia sẻ dữ liệu với Cổng dịch vụ công Quốc gia phục vụ thanh toán trực tuyến nghĩa vụ tài chính trong giải quyết thủ tục hành chính.\nĐiều 14. Kết quả giải quyết thủ tục hành chính\n1. Cơ quan có thẩm quyền trả kết quả giải quyết thủ\ntục hành chính cho tổ chức, cá nhân theo quy định tại văn bản quy phạm pháp luật chuyên ngành, đồng thời trả kết quả giải quyết thủ tục hành chính bản điện tử cho tổ chức, cá nhân tại Kho quản lý dữ liệu điện tử của tổ chức, cá nhân. Trường hợp tổ chức, cá nhân thực hiện thủ tục hành chính theo phương thức ủy quyền, việc lưu kết quả điện tử thực hiện theo thỏa thuận ủy quyền.\n2. Kết quả giải quyết thủ tục hành chính bản điện tử\ncủa cơ quan có thẩm quyền có giá trị pháp lý như kết quả giải quyết thủ tục hành chính bằng văn bản giấy.\n3. Kết quả giải quyết thủ tục hành chính bản điện tử\nphải bảo đảm:\na) Phản ánh đầy đủ các nội dung kết quả giải quyết\nthủ tục hành chính đã được quy định;\nb) Có chữ ký số của cơ quan có thẩm quyền giải quyết\nthủ tục hành chính;\nc) Bảo đảm tính toàn vẹn của dữ liệu, tính xác thực,\ntính chống chối bỏ, phù hợp với quy định của Luật Giao dịch điện tử;\nd) Được đồng bộ vào Kho quản lý dữ liệu điện tử của\ntổ chức, cá nhân trên Cổng dịch vụ công quốc gia theo cấu trúc mã thống nhất, bao gồm: Mã hồ sơ thủ tục hành chính-KQ(n) Trong đó n là số thứ tự của kết quả giải quyết đối với hồ sơ thủ tục hành chính có nhiều kết quả.\nĐiều 15. Hủy hiệu lực của kết quả thực hiện thủ tục hành chính điện tử\n1. Trường hợp kết quả thực hiện thủ tục hành chính\nbị hủy do hết hiệu lực, cơ quan có thẩm quyền phải đánh dấu, ghi nhận thời điểm, thực hiện hủy hiệu lực kết quả thực hiện thủ tục hành chính điện tử trên các cơ sở dữ liệu, hệ thống thông tin, Kho quản lý dữ liệu điện tử của tổ chức, cá nhân và thông báo với các cơ quan có liên quan.\n2. Kết quả giải quyết thủ tục hành chính điện tử đã\nhủy hiệu lực vẫn được lưu trữ phục vụ việc tra cứu của cơ quan nhà nước có thẩm quyền theo thời hạn lưu trữ quy định của pháp luật chuyên ngành.\n3. Thời điểm kết quả giải quyết thủ tục hành chính\nđiện tử bị hủy hiệu lực thì đồng thời văn bản giấy đã chuyển đổi từ kết quả giải quyết thủ tục hành chính điện tử này (nếu có) cũng bị mất hiệu lực và không còn giá trị sử dụng.\nĐiều 16. Kho quản lý dữ liệu điện tử của tổ chức, cá nhân\n1. Tổ chức, cá nhân có tài khoản để thực hiện các\ngiao dịch trên Cổng dịch vụ công quốc gia hoặc Cổng dịch vụ công cấp bộ, cấp tỉnh thì được cung cấp một Kho quản lý dữ liệu điện tử của tổ chức, cá nhân tại các cổng này.\n2. Kho quản lý dữ liệu điện tử của tổ chức, cá nhân\ntại Cổng dịch vụ công quốc gia giúp quản lý, lưu giữ dữ liệu hoặc đường dẫn tới dữ liệu:\na) Thông tin cơ bản về doanh nghiệp trên cơ sở cung\ncấp, cập nhật từ Cơ sở dữ liệu quốc gia về doanh nghiệp; thông tin cơ bản về công dân trên cơ sở cung cấp, cập nhật từ Cơ sở dữ liệu quốc gia về dân cư;\nb) Kết quả hoặc đường dẫn kết quả giải quyết thủ tục\nhành chính thuộc thẩm quyền giải quyết của các bộ, cơ quan ngang bộ, địa phương;\nc) Các thành phần hồ sơ thủ tục hành chính đã được\ncơ quan có thẩm quyền tiếp nhận, giải quyết thành công và được tổ chức, cá nhân đồng ý lưu giữ;\nd) Bản sao điện tử từ sổ gốc hoặc bản sao điện tử\nđược chứng thực từ bản chính do cơ quan có thẩm quyền cấp;\nđ) Các thông tin sẵn có từ Cổng dịch vụ công cấp bộ,\ncấp tỉnh được đồng bộ với Cổng dịch vụ công quốc gia.\n3. Kho quản lý dữ liệu điện tử\ncủa tổ chức, cá nhân tại Cổng dịch vụ công cấp bộ, cấp tỉnh giúp lưu giữ các thông tin hoặc đường dẫn tới các thông tin:\na) Thông tin cơ bản về doanh nghiệp trên cơ sở cung\ncấp thông tin từ Cơ sở dữ liệu doanh nghiệp hoặc thông tin cơ bản về công dân trên cơ sở cung cấp thông tin từ Cơ sở dữ liệu quốc gia về dân cư khi đã thực hiện được việc kết nối, chia sẻ với các cơ sở dữ liệu này;\nb) Các thành phần hồ sơ thủ tục hành chính đã được\ntiếp nhận và giải quyết thành công, kết quả giải quyết thủ tục hành chính thuộc thẩm quyền giải quyết của bộ, cơ quan ngang bộ, địa phương chủ quản hệ thống.\n4. Các thông tin được lưu giữ tại Kho quản lý dữ liệu\nđiện tử của tổ chức, cá nhân tại Cổng dịch vụ công quốc gia, Cổng dịch vụ công cấp bộ, cấp tỉnh được phân tích tự động, hỗ trợ tổ chức, cá nhân:\na) Tự động điền các thông tin tại các biểu mẫu điện\ntử;\nb) Hỗ trợ, thông báo, gợi ý việc thực hiện các thủ\ntục hành chính liên quan đến người sử dụng phù hợp với nhu cầu của tổ chức, cá nhân.\n5. Việc quản lý, kết nối, chia sẻ dữ liệu trên Kho\nquản lý dữ liệu điện tử của tổ chức, cá nhân thực hiện theo các quy định về quản lý, kết nối, chia sẻ dữ liệu số của cơ quan nhà nước, quy định về bảo vệ dữ liệu cá nhân và các quy định của pháp luật có liên quan.\nĐiều 17. Lưu trữ hồ sơ, kết quả giải quyết thủ tục hành chính điện tử\n1. Hồ sơ, kết quả giải quyết thủ tục hành chính điện\ntử được lưu trữ theo quy định của pháp luật chuyên ngành, phù hợp với môi trường, điều kiện lưu trữ điện tử và các quy định có liên quan của pháp luật về lưu trữ. Việc lưu trữ hồ sơ, kết quả giải quyết thủ tục hành chính điện tử có giá trị như lưu trữ hồ sơ, kết quả giải quyết thủ tục hành chính dạng văn bản giấy.\n2. Cơ quan, đơn vị thực hiện lưu trữ hồ sơ, kết quả\ngiải quyết thủ tục hành chính điện tử phải bảo đảm các điều kiện quy định tại khoản 1 Điều 15 Luật Giao dịch điện tử.\nĐiều 18. Chuyển đổi hồ sơ, kết quả giải quyết thủ tục hành chính điện tử ra văn bản giấy\n1. Tổ chức, cá nhân có thể in hồ sơ, kết quả giải\nquyết thủ tục hành chính điện tử do tổ chức, cá nhân đó khởi tạo và cơ quan có thẩm quyền giải quyết thủ tục hành chính có thể in hồ sơ, kết quả giải quyết thủ tục hành chính điện tử của tổ chức, cá nhân do mình quản lý từ hệ thống thông tin để lưu, đối chiếu thông tin hoặc xuất trình cho cơ quan có thẩm quyền kiểm tra thông tin về hồ sơ, kết quả giải quyết thủ tục hành chính hoặc cung cấp cho các tổ chức, cá nhân có nhu cầu tra cứu, xác minh thông tin trong phạm vi quy định của pháp luật.\n2. Văn bản giấy được chuyển đổi từ hồ sơ, kết quả\nđiện tử phải đáp ứng các điều kiện sau:\na) Phản ánh đầy đủ, chính xác nội dung của hồ sơ, kết\nquả giải quyết thủ tục hành chính điện tử;\nb) Có thông tin thể hiện hồ sơ, kết quả giải quyết\nthủ tục hành chính đã được xử lý trên hệ thống thông tin và tên của hệ thống thông tin hoặc tên của chủ quản hệ thống thông tin;\nc) Có mã định danh của hồ sơ, kết quả giải quyết thủ\ntục hành chính điện tử để phục vụ việc tra cứu, xác minh thông tin hoặc có họ tên, chữ ký của người thực hiện chuyển đổi;\nd) Có con dấu của cơ quan, tổ chức thực hiện việc\nchuyển đổi trong trường hợp phải thực hiện theo quy định của pháp luật hoặc theo thỏa thuận giữa các bên giao dịch;\nđ) Tra cứu được tại bất kỳ thời điểm nào trong thời\ngian hệ thống thông tin hoạt động bình thường.\n3. Văn bản giấy được chuyển đổi từ hồ sơ, kết quả\ngiải quyết thủ tục hành chính điện tử có giá trị như hồ sơ, kết quả giải quyết thủ tục hành chính điện tử trừ trường hợp pháp luật chuyên ngành có quy định khác.\n4. Hệ thống thông tin phục vụ khởi tạo, xử lý hồ\nsơ, kết quả giải quyết thủ tục hành chính điện tử phải có tính năng chuyển đổi hồ sơ, kết quả giải quyết thủ tục hành chính điện tử sang hồ sơ, kết quả giải quyết thủ tục hành chính bản giấy.\nChương III\nKIỂM SOÁT VIỆC CUNG CẤP\nTHỦ TỤC HÀNH CHÍNH TRÊN MÔI TRƯỜNG ĐIỆN TỬ\nĐiều 19. Trách nhiệm bảo đảm cung cấp thủ tục hành chính trên môi trường điện tử\n1. Bộ, cơ quan ngang bộ, Bảo hiểm xã hội Việt Nam\nxây dựng và cung cấp thủ tục hành chính được thực hiện trên môi trường điện tử đối với:\na) Thủ tục hành chính thuộc phạm vi giải quyết của\nbộ, cơ quan;\nb) Thủ tục hành chính được cấp có thẩm quyền giao\nxây dựng giải pháp cung cấp tập trung trên toàn quốc;\nc) Nhóm thủ tục hành chính có liên quan đến nhau\nthuộc lĩnh vực quản lý nhà nước của nhiều bộ, cơ quan.\n2. Ủy ban nhân dân tỉnh, thành phố trực thuộc trung\nương xây dựng và thực hiện giải pháp bảo đảm phương thức thực hiện thủ tục hành chính trên môi trường điện tử đối với thủ tục hành chính thuộc phạm vi giải quyết của địa phương, trừ những thủ tục hành chính được nêu tại khoản 1 Điều này.\nĐiều 20. Nội dung kiểm soát việc cung cấp thủ tục hành chính trên môi trường điện tử\n1. Cung cấp thủ tục hành chính trên môi trường điện\ntử được kiểm soát về nghiệp vụ và về kỹ thuật trong quá trình xây dựng và vận hành.\n2. Việc kiểm soát về nghiệp vụ bao gồm đánh giá về\nsự cần thiết, tính hợp lý, hợp pháp, hiệu quả trong quá trình lựa chọn thủ tục, mức độ bảo đảm về danh tính, xác thực điện tử đối với thủ tục, tổ chức các giải pháp thực hiện thủ tục hành chính trên môi trường điện tử và trong quá trình rà soát việc cung cấp thủ tục hành chính trên môi trường điện tử.\n3. Việc kiểm soát về kỹ thuật bao gồm đánh giá theo\ncác tiêu chuẩn về thiết kế hệ thống; kết nối, chia sẻ dữ liệu; bảo đảm an toàn thông tin, toàn vẹn dữ liệu; thời gian phản hồi của hệ thống; khả năng lưu trữ dữ liệu; thời gian xử lý, khắc phục lỗi; mức độ thân thiện của giao diện người dùng.\nĐiều 21. Lựa chọn nhóm thủ tục hành chính và thủ tục hành chính để thực hiện trên môi trường điện tử Các thủ tục hành chính, nhóm thủ tục hành chính được ưu tiên thực hiện trên môi trường điện tử nếu đáp ứng ít nhất một loại tiêu chí dưới đây:\n1. Những thủ tục hành chính có số lượng hồ sơ phát\nsinh nhiều, tần suất giao dịch lớn;\n2. Thủ tục hành chính có các thành phần hồ sơ, dữ\nliệu đầu vào đã được cơ quan nhà nước số hóa và sẵn sàng cho việc kết nối, chia sẻ;\n3. Thủ tục hành chính có nhiều thành phần hồ sơ,\ndung lượng hồ sơ điện tử thực hiện thủ tục hành chính lớn;\n4. Nhóm thủ tục hành chính có liên quan đến nhau\nthuộc thẩm quyền giải quyết của nhiều bộ, cơ quan ngang bộ, địa phương;\n5. Nhóm thủ tục hành chính liên quan đến thẩm quyền\ngiải quyết của nhiều đơn vị trong bộ, cơ quan ngang bộ, địa phương;\n6. Thủ tục hành chính, nhóm thủ tục hành chính ưu\ntiên triển khai trên môi trường điện tử theo chỉ đạo của Chính phủ, Thủ tướng Chính phủ.\nĐiều 22. Lập danh mục thủ tục hành chính ưu tiên thực hiện trên môi trường điện tử\n1. Hàng năm, cơ quan, đơn vị chuyên môn phối hợp với\ncơ quan, đơn vị có chức năng kiểm soát thủ tục hành chính của bộ, cơ quan ngang bộ, Bảo hiểm xã hội Việt Nam, Ủy ban nhân dân cấp tỉnh rà soát thủ tục hành chính thuộc trách nhiệm quy định tại Điều 19 và các tiêu chí lựa chọn quy định tại Điều 21 Nghị định này, đề xuất danh mục thủ tục hành chính ưu tiên thực hiện trên môi trường điện tử, lấy ý kiến các cơ quan, đơn vị liên quan, đối tượng chịu tác động và trình Bộ trưởng, Thủ trưởng cơ quan, Chủ tịch Ủy ban nhân dân cấp tỉnh xem xét, ra quyết định, trong đó xác định rõ thời gian, lộ trình thực hiện và việc xây dựng, vận hành, khai thác.\n2. Văn phòng Chính phủ chủ trì, phối hợp với các bộ,\ncơ quan, Ủy ban nhân dân cấp tỉnh rà soát và tham mưu cho Chính phủ, Thủ tướng Chính phủ ban hành Danh mục những thủ tục hành chính, nhóm thủ tục hành chính thuộc thẩm quyền quản lý của nhiều bộ, cơ quan ngang bộ; thuộc thẩm quyền giải quyết của cả bộ và địa phương ưu tiên thực hiện.\nĐiều 23. Quy trình tổ chức xây dựng và thực hiện giải pháp bảo đảm phương thức thực hiện thủ tục hành chính trên môi trường điện tử\n1. Cơ quan, đơn vị có chức năng kiểm soát thủ tục\nhành chính phối hợp cơ quan, đơn vị chuyên môn của bộ, cơ quan ngang bộ, Bảo hiểm xã hội Việt Nam, Ủy ban nhân dân cấp tỉnh rà soát các nhóm thủ tục hành chính liên thông, thủ tục hành chính thuộc danh mục ưu tiên thực hiện đã được phê duyệt; đơn giản hóa thành phần hồ sơ thông qua đánh giá các nguồn dữ liệu đã có và mức độ sẵn sàng tích hợp, cung cấp thông tin trong quá trình giải quyết thủ tục hành chính trên môi trường điện tử qua các giải pháp:\na) Bổ sung vào biểu mẫu điện tử các thông tin trong\nnhững thành phần hồ sơ có thể kiểm tra, xác thực được thông tin do đã tích hợp, chia sẻ dữ liệu giữa các hệ thống thông tin, cơ sở dữ liệu. Đối với những thành phần hồ sơ loại này không yêu cầu tổ chức, cá nhân nộp, đăng tải hoặc dẫn nguồn;\nb) Yêu cầu tổ chức, cá nhân đăng tải bản điện tử, bản\nsao điện tử có giá trị pháp lý do cơ quan có thẩm quyền cấp hoặc dẫn nguồn tài liệu đối với các giấy tờ, tài liệu kết quả giải quyết thủ tục hành chính trước đó;\nc) Yêu cầu tổ chức, cá nhân đăng tải bản điện tử\nphù hợp quy chuẩn đối với các giấy tờ, tài liệu không phải kết quả giải quyết thủ tục hành chính do cơ quan nhà nước có thẩm quyền cấp và chịu trách nhiệm về tính chính xác của giấy tờ, tài liệu do tổ chức, cá nhân đăng tải.\n2. Đơn giản hóa quy trình, thời gian thực hiện và\ncác bộ phận cấu thành khác của thủ tục hành chính trên cơ sở ứng dụng công nghệ thông tin trong quá trình tiếp nhận, giải quyết hồ sơ thủ tục hành chính.\n3. Xác định giải pháp nghiệp vụ giải quyết thủ tục\nhành chính; giải pháp định danh, mức độ bảo đảm an toàn của các phương thức xác thực điện tử; giải pháp tích hợp, chia sẻ, khai thác thông tin với các nguồn dữ liệu, dịch vụ công có liên quan và các giải pháp kỹ thuật khác.\n4. Trên cơ sở các phương án đơn giản hóa và các giải\npháp được nêu tại khoản 1, 2 của Điều này, người đứng đầu bộ, cơ quan ngang bộ, Ủy ban nhân dân cấp tỉnh chỉ đạo việc cung cấp thủ tục hành chính trên môi trường điện tử đáp ứng các tiêu chuẩn kỹ thuật về giao diện, truy cập, tương tác, kết nối, chia sẻ dữ liệu, lưu trữ, bảo mật theo quy định.\n5. Dịch vụ được chạy thử nghiệm trong 02 tháng và\nhoàn thiện trước khi vận hành chính thức trên Cổng dịch vụ công cấp bộ, cấp tỉnh và Cổng dịch vụ công quốc gia.\nĐiều 24. Rà soát, đánh giá việc cung cấp thủ tục hành chính trên môi trường điện tử\n1. Cơ quan có trách nhiệm rà soát, đánh giá việc\ncung cấp thủ tục hành chính trên môi trường điện tử là cơ quan có trách nhiệm bảo đảm điều kiện thực hiện thủ tục hành chính trên môi trường điện tử theo quy định tại Điều 19 Nghị định này.\n2. Cơ quan, đơn vị có chức năng kiểm soát thủ tục\nhành chính phối hợp cơ quan, đơn vị chuyên môn của bộ, cơ quan ngang bộ, Bảo hiểm xã hội Việt Nam, Ủy ban nhân dân cấp tỉnh lập danh mục rà soát, đánh giá các thủ tục hành chính đang thực hiện trên môi trường điện tử dựa trên một trong các căn cứ sau:\na) Chỉ đạo của Chính phủ, Thủ tướng Chính phủ;\nb) Quyết định của Bộ trưởng, Thủ trưởng cơ quan\nngang bộ, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương;\nc) Phản ánh, kiến nghị, kết quả đánh giá của cá\nnhân, tổ chức về thủ tục hành chính được cung cấp trên môi trường điện tử.\n3. Văn phòng Chính phủ chịu trách nhiệm rà soát,\nđánh giá độc lập việc cung cấp thủ tục hành chính trên môi trường điện tử trong các trường hợp sau đây:\na) Theo chỉ đạo của Chính phủ, Thủ tướng Chính phủ;\nb) Nhóm thủ tục hành chính có liên quan đến nhau\nthuộc thẩm quyền giải quyết của nhiều bộ, cơ quan ngang bộ, địa phương;\nc) Thủ tục hành chính được tích hợp, cung cấp trên\nCổng dịch vụ công quốc gia có nhiều phản ánh, kiến nghị, đánh giá của tổ chức, cá nhân còn rườm rà, khó thực hiện, gây cản trở hoạt động sản xuất, kinh doanh của tổ chức kinh tế và đời sống của nhân dân.\n4. Rà soát, đánh giá cung cấp thủ tục hành chính\ntrên môi trường điện tử bao gồm rà soát, đánh giá về thủ tục hành chính theo quy định về kiểm soát thủ tục hành chính và đánh giá các giải pháp bảo đảm phương thức thực hiện thủ tục hành chính điện tử.\n5. Kết quả rà soát, đánh giá là cơ sở để Bộ trưởng,\nThủ trưởng cơ quan ngang bộ, Chủ tịch Ủy ban nhân dân cấp tỉnh chỉ đạo nâng cấp chất lượng cung cấp thủ tục hành chính trên môi trường điện tử.\nĐiều 25. Số hóa kết quả giải quyết thủ tục hành chính\n1. Đối với kết quả giải quyết thủ tục hành chính\nđang được cơ quan có thẩm quyền quản lý, lưu trữ bằng văn bản giấy, Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Tổng Giám đốc Bảo hiểm xã hội Việt Nam, Chủ tịch Ủy ban nhân dân cấp tỉnh chỉ đạo việc số hóa kết quả giải quyết thủ tục hành chính và lưu thông tin, dữ liệu tại các hệ thống thông tin, cơ sở dữ liệu liên quan theo thẩm quyền quản lý.\n2. Phương thức số hóa kết quả giải quyết thủ tục\nhành chính từ giấy sang điện tử bao gồm:\na) Kết quả giải quyết thủ tục hành chính từ giấy\nsang điện tử bằng hình thức sao chụp và chuyển thành tệp tin trên hệ thống thông tin, cơ sở dữ liệu;\nb) Chuyển nội dung của kết quả giải quyết thủ tục\nhành chính từ giấy sang dữ liệu điện tử để lưu vào hệ thống thông tin, cơ sở dữ liệu.\n3. Kết quả giải quyết thủ tục hành chính được chuyển\nđổi từ bản giấy sang điện tử phải đáp ứng các yêu cầu sau:\na) Phản ánh đầy đủ nội dung của kết quả giải quyết\nthủ tục hành chính bản giấy;\nb) Cá nhân hoặc cơ quan, tổ chức thực hiện (hoặc chịu\ntrách nhiệm về) việc chuyển đổi từ bản giấy sang điện tử ký số trên bản điện tử sau khi được chuyển đổi từ kết quả giải quyết thủ tục hành chính giấy hoặc được xác thực bằng các biện pháp xác thực do cơ quan có thẩm quyền quyết định;\nc) Có ký hiệu riêng xác nhận đã được chuyển đổi từ\nbản giấy sang bản điện tử.\n4. Kết quả giải quyết thủ tục hành chính bản điện tử\nđược chuyển đổi từ văn bản giấy có giá trị như văn bản giấy trừ trường hợp pháp luật chuyên ngành có quy định khác.\nChương IV\nNHIỆM VỤ CỦA CÁC BỘ, CƠ\nQUAN, ĐỊA PHƯƠNG\nĐiều 26. Nhiệm vụ của Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Tổng Giám đốc Bảo hiểm xã hội Việt Nam\n1. Chỉ đạo xây dựng và thực hiện giải pháp bảo đảm điều\nkiện thực hiện thủ tục hành chính trên môi trường điện tử thuộc thẩm quyền quản lý của bộ, ngành mình theo quy định tại khoản 1 Điều 19 Nghị định này.\n2. Ban hành kế hoạch và chỉ đạo\nviệc số hóa kết quả giải quyết thủ tục hành chính còn hiệu lực thuộc thẩm quyền giải quyết để đảm bảo việc kết nối chia sẻ dữ liệu trong giải quyết thủ tục hành chính trên môi trường điện tử, hoàn thành trước ngày 31 tháng 12 năm 2025.\n3. Công khai danh mục và tổ chức việc tiếp nhận, giải\nquyết thủ tục hành chính trên môi trường điện tử thuộc thẩm quyền giải quyết của bộ, cơ quan ngang bộ trên Cổng dịch vụ công của bộ, cơ quan.\n4. Chỉ đạo việc quản lý, bảo vệ, định kỳ kiểm tra,\nrà soát, tăng cường các biện pháp bảo đảm an toàn, an ninh thông tin đối với Cổng dịch vụ công, Hệ thống thông tin một cửa cấp bộ, bảo đảm hoạt động tin cậy, liên tục, an toàn, kịp thời khắc phục sự cố của hệ thống khi thực hiện thủ tục hành chính trên môi trường điện tử.\n5. Thanh tra, kiểm tra hoạt động thực hiện thủ tục\nhành chính trên môi trường điện tử thuộc ngành, lĩnh vực được phân công theo quy định của pháp luật.\n6. Chỉ đạo tổ chức đánh giá chất lượng đối với\nphương thức thực hiện thủ tục hành chính trên môi trường điện tử do mình cung cấp và do địa phương cung cấp thuộc thẩm quyền quản lý của bộ, ngành.\n7. Ban hành kế hoạch truyền thông về việc thực hiện\nthủ tục hành chính trên môi trường điện tử để thu hút tổ chức, cá nhân khai thác, sử dụng thủ tục hành chính trên môi trường điện tử đảm bảo hiệu quả.\n8. Có hình thức khen thưởng và xử lý phù hợp đối với\ntập thể, cá nhân trong quá trình thực hiện nhiệm vụ được giao theo thẩm quyền.\n9. Định kỳ 6 tháng trước ngày 15 tháng 6 và ngày 15\ntháng 12 hàng năm báo cáo Thủ tướng Chính phủ về tình hình, kết quả thực hiện Nghị định này theo hướng dẫn của Văn phòng Chính phủ.\nĐiều 27. Trách nhiệm của Chủ tịch Ủy ban nhân dân cấp tỉnh\n1. Chỉ đạo, tổ chức việc tiếp nhận, giải quyết thủ\ntục hành chính trên môi trường điện tử thuộc thẩm quyền giải quyết của địa phương trên Cổng dịch vụ công cấp tỉnh phù hợp quy định tại khoản 2 Điều 19 Nghị định này.\n2. Tổ chức đánh giá chất lượng đối với phương thức\nthực hiện thủ tục hành chính trên môi trường điện tử do địa phương cung cấp.\n3. Ban hành kế hoạch và chỉ đạo việc số hóa kết quả\ngiải quyết thủ tục hành chính còn hiệu lực, thuộc thẩm quyền giải quyết để đảm bảo việc kết nối chia sẻ dữ liệu trong giải quyết thủ tục hành chính trên môi trường điện tử, hoàn thành trước ngày 31 tháng 12 năm 2025.\n4. Công khai danh mục và tổ chức việc tiếp nhận, giải\nquyết thủ tục hành chính trên môi trường điện tử thuộc thẩm quyền giải quyết của địa phương trên Cổng dịch vụ công cấp tỉnh.\n5. Chỉ đạo việc quản lý, bảo vệ, định kỳ kiểm tra,\nrà soát, tăng cường các biện pháp bảo đảm an toàn, an ninh thông tin đối với Cổng dịch vụ công, Hệ thống thông tin một cửa cấp tỉnh, bảo đảm hoạt động tin cậy, liên tục, an toàn, kịp thời khắc phục sự cố của hệ thống khi thực hiện thủ tục hành chính trên môi trường điện tử.\n6. Ban hành kế hoạch truyền thông về việc thực hiện\nthủ tục hành chính trên môi trường điện tử để thu hút tổ chức, cá nhân khai thác, sử dụng thủ tục hành chính trên môi trường điện tử đảm bảo hiệu quả.\n7. Có hình thức khen thưởng và xử lý phù hợp đối với\ntập thể, cá nhân trong quá trình thực hiện nhiệm vụ được giao theo thẩm quyền.\n8. Định kỳ 6 tháng trước ngày 15 tháng 6 và ngày 15\ntháng 12 hàng năm báo cáo Thủ tướng Chính phủ về tình hình, kết quả thực hiện Nghị định này theo hướng dẫn của Văn phòng Chính phủ.\nĐiều 28. Văn phòng Chính phủ Ngoài thực hiện nhiệm vụ được giao tại khoản 2 Điều 22, khoản 3 Điều 24 Nghị định này, thực hiện các nhiệm vụ sau:\n1. Quy định chi tiết tiêu chí đánh giá chất lượng đối\nvới phương thức thực hiện thủ tục hành chính trên môi trường điện tử do bộ, cơ quan ngang bộ, địa phương cung cấp.\n2. Hướng dẫn các thông tin, dữ liệu cần tích hợp,\nchia sẻ, đồng bộ để phục vụ thanh toán trực tuyến nghĩa vụ tài chính trong giải quyết thủ tục hành chính trên Cổng dịch vụ công quốc gia.\n3. Đánh giá mức độ hiệu quả, thuận tiện của việc\nxây dựng và thực hiện thủ tục hành chính trên môi trường điện tử do bộ, cơ quan ngang bộ, địa phương cung cấp và tích hợp dịch vụ trên Cổng dịch vụ công quốc gia.\n4. Phối hợp với Bộ Thông tin và Truyền thông, Bộ\nCông an, Bộ Quốc phòng, Ban Cơ yếu Chính phủ bảo đảm an toàn, an ninh thông tin Cổng dịch vụ công quốc gia.\nĐiều 29. Bộ Thông tin và Truyền thông\n1. Hướng dẫn việc giám sát, đánh giá hiệu quả, mức\nđộ sử dụng dịch vụ công trực tuyến.\n2. Hướng dẫn, hỗ trợ việc triển khai tích hợp chữ\nký số công cộng trong quá trình thực hiện dịch vụ công trực tuyến.\nĐiều 30. Ban Cơ yếu Chính phủ\n1. Cung cấp chứng thư số, dịch vụ chứng thực chữ ký\nsố chuyên dùng Chính phủ cho các cơ quan, tổ chức nhà nước có thẩm quyền tiếp nhận, giải quyết thủ tục hành chính.\n2. Hướng dẫn, hỗ trợ các cơ quan, tổ chức nhà nước\ntriển khai tích hợp chữ ký số, dịch vụ chứng thực chữ ký số chuyên dùng Chính phủ trong giải quyết thủ tục hành chính trên môi trường điện tử.\nChương V\nĐIỀU KHOẢN THI HÀNH\nĐiều 31. Hiệu lực thi hành\n1. Nghị định này có hiệu lực thi hành từ ngày 22\ntháng 5 năm 2020.\n2. Bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ, Ủy\nban nhân dân tỉnh, thành phố trực thuộc trung ương rà soát, điều chỉnh, nâng cấp, hoàn thiện các thủ tục hành chính đã được cung cấp trên môi trường điện tử để đáp ứng các quy định tại Nghị định này trước ngày 31 tháng 12 năm 2020.\nĐiều 32. Trách nhiệm thi hành\n1. Văn phòng Chính phủ chủ trì, phối hợp với Bộ Nội\nvụ, Bộ Tư pháp, Bộ Thông tin và Truyền thông hướng dẫn, đôn đốc, kiểm tra việc thực hiện Nghị định này; kịp thời báo cáo Thủ tướng Chính phủ chỉ đạo tháo gỡ vướng mắc trong quá trình thực hiện.\n2. Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Thủ trưởng\ncơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương và các cơ quan, tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Nghị định này./.\nNơi nhận:\n- Ban Bí thư Trung ương Đảng;\n- Thủ tướng, các Phó Thủ tướng Chính phủ;\n- Các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ;\n- HĐND, UBND các tỉnh, thành phố trực thuộc trung ương;\n- Văn phòng Trung ương và các Ban của Đảng;\n- Văn phòng Tổng Bí thư;\n- Văn phòng Chủ tịch nước;\n- Hội đồng Dân tộc và các Ủy ban của Quốc hội;\n- Văn phòng Quốc hội;\n- Tòa án nhân dân tối cao;\n- Viện kiểm sát nhân dân tối cao;\n- Kiểm toán Nhà nước;\n- Ủy ban Giám sát tài chính Quốc gia;\n- Ngân hàng Chính sách xã hội;\n- Ngân hàng Phát triển Việt Nam;\n- Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam;\n- Cơ quan trung ương của các đoàn thể;\n- VPCP: BTCN, các PCN, Trợ lý TTg, TGĐ Cổng TTĐT, các Vụ, Cục, đơn vị trực\nthuộc, Công báo;\n- Lưu: VT, KSTT (2b).TM\nTM. CHÍNH PHỦ\nTHỦ TƯỚNG\nNguyễn Xuân Phúc",
+  "tree": {
+    "parts": [
+      {
+        "part_id": "doc:191218:part:1",
+        "part_type": "main",
+        "part_title": null,
+        "reference": null,
+        "direct_text": "NGHỊ ĐỊNH VỀ\nTHỰC HIỆN THỦ TỤC HÀNH CHÍNH TRÊN MÔI TRƯỜNG ĐIỆN TỬ\nCăn cứ Luật Tổ chức Chính phủ ngày 19 tháng 6 năm 2015; Căn cứ Luật Giao dịch điện tử ngày 29 tháng 11 năm 2005; Căn cứ Luật Công nghệ thông tin ngày 29 tháng 6 năm 2006; Căn cứ Luật An toàn thông tin mạng ngày 19 tháng 11 năm 2015; Căn cứ Luật An ninh mạng ngày 12 tháng 6 năm 2018; Theo đề nghị của Bộ trưởng, Chủ nhiệm Văn phòng Chính phủ; Chính phủ ban hành Nghị định về thực hiện thủ tục hành chính trên môi trường điện tử.",
+        "chapters": [
+          {
+            "chapter_id": "doc:191218:part:1:chapter:1",
+            "number": "I",
+            "title": "NHỮNG QUY ĐỊNH CHUNG",
+            "content": "Chương I\nNHỮNG QUY ĐỊNH CHUNG",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:191218:part:1:article:1",
+                "number": "1",
+                "title": "Phạm vi điều chỉnh",
+                "content": "Điều 1. Phạm vi điều chỉnh",
+                "clauses": [
+                  {
+                    "clause_id": "doc:191218:part:1:article:1:clause:1",
+                    "number": "1",
+                    "content": "1. Nghị định này quy định việc thực hiện thủ tục\nhành chính trên môi trường điện tử.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:191218:part:1:article:1:clause:2",
+                    "number": "2",
+                    "content": "2. Nghị định này không điều chỉnh việc thực hiện thủ\ntục hành chính theo cơ chế một cửa quốc gia, một cửa ASEAN và kiểm tra chuyên ngành đối với hàng hóa xuất khẩu, nhập khẩu.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:191218:part:1:article:2",
+                "number": "2",
+                "title": "Đối tượng áp dụng",
+                "content": "Điều 2. Đối tượng áp dụng",
+                "clauses": [
+                  {
+                    "clause_id": "doc:191218:part:1:article:2:clause:1",
+                    "number": "1",
+                    "content": "1. Các cơ quan giải quyết thủ tục hành chính",
+                    "points": [
+                      {
+                        "point_id": "doc:191218:part:1:article:2:clause:1:point:1",
+                        "label": "a",
+                        "content": "a) Bộ, cơ quan ngang bộ, Bảo hiểm xã hội Việt Nam,\ntổng cục và tương đương, cục, vụ thuộc bộ, cơ quan ngang bộ, cơ quan đại diện ngoại giao, đại diện lãnh sự của Việt Nam ở nước ngoài có nhiệm vụ, quyền hạn giải quyết thủ tục hành chính và tham gia vào quá trình giải quyết thủ tục hành chính;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:191218:part:1:article:2:clause:1:point:2",
+                        "label": "b",
+                        "content": "b) Ủy ban nhân dân các cấp; các cơ quan chuyên môn\nthuộc Ủy ban nhân dân cấp tỉnh, cấp huyện; các ban quản lý khu công nghiệp, khu chế xuất, khu kinh tế, khu công nghệ cao có nhiệm vụ, quyền hạn giải quyết thủ tục hành chính. Các cơ quan quy định tại điểm a, b khoản này sau đây được gọi tắt là cơ quan có thẩm quyền.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:191218:part:1:article:2:clause:2",
+                    "number": "2",
+                    "content": "2. Cán bộ, công chức, viên chức của các cơ quan có\nthẩm quyền quy định tại khoản 1 Điều này, sỹ quan, hạ sỹ quan quân đội, sỹ quan, hạ sỹ quan công an thuộc Bộ Quốc phòng, Bộ Công an (sau đây gọi chung là cán bộ, công chức, viên chức).",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:191218:part:1:article:2:clause:3",
+                    "number": "3",
+                    "content": "3. Tổ chức, cá nhân có yêu cầu thực hiện thủ tục\nhành chính trên môi trường điện tử và tổ chức, cá nhân khác có liên quan (sau đây gọi là tổ chức, cá nhân).",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:191218:part:1:article:2:clause:4",
+                    "number": "4",
+                    "content": "4. Doanh nghiệp cung ứng dịch vụ bưu chính công\ních; doanh nghiệp, cá nhân được thuê hoặc được ủy quyền thực hiện thủ tục hành chính theo quy định của pháp luật.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:191218:part:1:article:2:clause:5",
+                    "number": "5",
+                    "content": "5. Ngân hàng và các tổ chức trung gian thanh toán\ntham gia cung cấp dịch vụ thanh toán trên môi trường điện tử.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:191218:part:1:article:2:clause:6",
+                    "number": "6",
+                    "content": "6. Khuyến khích các đơn vị sự nghiệp công lập,\ndoanh nghiệp nhà nước và các cơ quan, tổ chức cung cấp dịch vụ công khác áp dụng Nghị định này trong việc cung cấp dịch vụ công trực tuyến cho tổ chức, cá nhân.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:191218:part:1:article:3",
+                "number": "3",
+                "title": "Giải thích từ ngữ Trong Nghị định này, những từ ngữ dưới đây được hiểu như sau:",
+                "content": "Điều 3. Giải thích từ ngữ Trong Nghị định này, những từ ngữ dưới đây được hiểu như sau:",
+                "clauses": [
+                  {
+                    "clause_id": "doc:191218:part:1:article:3:clause:1",
+                    "number": "1",
+                    "content": "1. Môi trường điện tử: là môi trường trong đó thông\ntin được tạo lập, cung cấp, trao đổi, thu thập, xử lý, lưu trữ thông qua mạng Internet, mạng máy tính, các hệ thống thông tin, cơ sở dữ liệu.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:191218:part:1:article:3:clause:2",
+                    "number": "2",
+                    "content": "2. Thực hiện thủ tục hành chính trên môi trường điện\ntử: là việc cơ quan, tổ chức, cá nhân tiến hành toàn bộ hoặc một số bước thực hiện thủ tục hành chính, thủ tục giải quyết công việc bằng phương tiện điện tử thông qua các dịch vụ công trực tuyến.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:191218:part:1:article:3:clause:3",
+                    "number": "3",
+                    "content": "3. Hồ sơ điện tử thực hiện thủ tục hành chính: là\nnhững loại giấy tờ, tài liệu ở dạng điện tử được tổ chức, cá nhân thực hiện thủ tục hành chính nộp, bổ sung cho cơ quan, tổ chức có thẩm quyền theo quy định hoặc giấy tờ, tài liệu ở dạng điện tử được luân chuyển giữa các cơ quan, tổ chức có thẩm quyền trong quá trình tiếp nhận, giải quyết thủ tục hành chính.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:191218:part:1:article:3:clause:4",
+                    "number": "4",
+                    "content": "4. Tài khoản giao dịch điện tử: là danh tính điện tử\ncủa cơ quan, cán bộ, công chức, viên chức có thẩm quyền, tổ chức, cá nhân được xác thực điện tử để đăng nhập vào Cổng dịch vụ công quốc gia, Cổng dịch vụ công, Hệ thống thông tin một cửa điện tử cấp bộ, cấp tỉnh khi thực hiện thủ tục hành chính trên môi trường điện tử và các hoạt động khác theo quy định của pháp luật.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:191218:part:1:article:3:clause:5",
+                    "number": "5",
+                    "content": "5. Nền tảng trao đổi định danh điện tử của Cổng dịch\nvụ công quốc gia: là hợp phần giúp hỗ trợ việc kết nối, xác thực danh tính điện tử của cơ quan, cán bộ, công chức, viên chức có thẩm quyền, tổ chức, cá nhân và đăng nhập một lần từ Cổng dịch vụ công quốc gia tới các Cổng dịch vụ công, Hệ thống thông tin một cửa điện tử cấp bộ, cấp tỉnh.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:191218:part:1:article:3:clause:6",
+                    "number": "6",
+                    "content": "6. Biểu mẫu điện tử: là các mẫu\nđơn, tờ khai thực hiện thủ tục hành chính được thể hiện dưới dạng điện tử.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:191218:part:1:article:3:clause:7",
+                    "number": "7",
+                    "content": "7. Bản sao điện tử: là bản chụp dưới dạng điện tử từ\nbản chính dạng văn bản giấy hoặc tập tin có nội dung đầy đủ, chính xác như nội dung ghi trong sổ gốc, bản chính dạng văn bản giấy.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:191218:part:1:article:3:clause:8",
+                    "number": "8",
+                    "content": "8. Cấp bản sao điện tử từ sổ gốc: là việc cơ quan,\ntổ chức đang quản lý sổ gốc, căn cứ vào sổ gốc để cấp bản sao điện tử. Bản sao điện tử từ sổ gốc có nội dung đầy đủ, chính xác như nội dung ghi trong sổ gốc.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:191218:part:1:article:3:clause:9",
+                    "number": "9",
+                    "content": "9. Chứng thực bản sao điện tử từ bản chính: là việc\ncơ quan, tổ chức có thẩm quyền căn cứ vào bản chính dạng văn bản giấy để chứng thực bản sao bằng hình thức điện tử là đúng với bản chính.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:191218:part:1:article:3:clause:10",
+                    "number": "10",
+                    "content": "10. Số hóa kết quả giải quyết thủ tục hành chính:\nlà việc cơ quan nhà nước chuyển đổi các kết quả giải quyết thủ tục hành chính đã cấp từ văn bản giấy sang văn bản điện tử hoặc thông tin số để bảo đảm cho việc thực hiện thủ tục hành chính trên môi trường điện tử.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:191218:part:1:article:3:clause:11",
+                    "number": "11",
+                    "content": "11. Kho quản lý dữ liệu điện tử của tổ chức, cá\nnhân: là không gian điện tử riêng của tổ chức, cá nhân tại Cổng dịch vụ công quốc gia, Cổng dịch vụ công cấp bộ, cấp tỉnh để hỗ trợ quản lý, lưu giữ thông tin, dữ liệu điện tử liên quan đến giao dịch hành chính của tổ chức, cá nhân đó.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:191218:part:1:article:4",
+                "number": "4",
+                "title": "Nguyên tắc thực hiện thủ tục hành chính trên môi trường điện tử",
+                "content": "Điều 4. Nguyên tắc thực hiện thủ tục hành chính trên môi trường điện tử",
+                "clauses": [
+                  {
+                    "clause_id": "doc:191218:part:1:article:4:clause:1",
+                    "number": "1",
+                    "content": "1. Việc thực hiện thủ tục hành chính trên môi trường\nđiện tử có giá trị pháp lý như các hình thức khác theo quy định của pháp luật.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:191218:part:1:article:4:clause:2",
+                    "number": "2",
+                    "content": "2. Việc tổ chức tiếp nhận, giải quyết thủ tục hành chính\ntrên môi trường điện tử được thực hiện hợp pháp, hợp lý, khoa học; bảo đảm sự bình đẳng, khách quan, công khai, minh bạch, an toàn thông tin và có sự phối hợp chặt chẽ giữa các cơ quan có thẩm quyền trong quá trình giải quyết thủ tục hành chính.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:191218:part:1:article:4:clause:3",
+                    "number": "3",
+                    "content": "3. Việc thực hiện thủ tục hành chính trên môi trường\nđiện tử phải lấy tổ chức, cá nhân có yêu cầu thực hiện thủ tục hành chính trên môi trường điện tử làm trung tâm, bảo đảm ngôn ngữ, phương thức thực hiện đơn giản, dễ hiểu, dễ thực hiện, góp phần thực hiện có hiệu quả mục tiêu cải cách thủ tục hành chính.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:191218:part:1:article:4:clause:4",
+                    "number": "4",
+                    "content": "4. Không yêu cầu tổ chức, cá\nnhân khai, nộp lại những dữ liệu mà cơ quan thực hiện thủ tục hành chính đang quản lý hoặc đã được cơ quan nhà nước khác sẵn sàng chia sẻ.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:191218:part:1:article:4:clause:5",
+                    "number": "5",
+                    "content": "5. Tối đa hóa các bước thực hiện thủ tục hành chính\ntrên môi trường điện tử để tiết kiệm thời gian, chi phí, công sức của tổ chức, cá nhân và cơ quan có thẩm quyền.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:191218:part:1:article:4:clause:6",
+                    "number": "6",
+                    "content": "6. Việc thực hiện thủ tục hành chính trên môi trường\nđiện tử không làm tăng phí, lệ phí ngoài quy định của pháp luật.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:191218:part:1:article:4:clause:7",
+                    "number": "7",
+                    "content": "7. Tuân thủ các quy định của pháp luật Việt Nam và\ncác điều ước quốc tế có liên quan đến thực hiện giao dịch điện tử mà nước Cộng hòa xã hội chủ nghĩa Việt Nam đã ký kết hoặc gia nhập.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:191218:part:1:article:5",
+                "number": "5",
+                "title": "Quyền, nghĩa vụ và các hành vi không được làm của tổ chức, cá nhân có yêu cầu thực hiện thủ tục hành chính trên môi trường điện tử",
+                "content": "Điều 5. Quyền, nghĩa vụ và các hành vi không được làm của tổ chức, cá nhân có yêu cầu thực hiện thủ tục hành chính trên môi trường điện tử",
+                "clauses": [
+                  {
+                    "clause_id": "doc:191218:part:1:article:5:clause:1",
+                    "number": "1",
+                    "content": "1. Quyền",
+                    "points": [
+                      {
+                        "point_id": "doc:191218:part:1:article:5:clause:1:point:1",
+                        "label": "a",
+                        "content": "a) Được hỗ trợ trong quá trình thực hiện thủ tục\nhành chính trên môi trường điện tử;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:191218:part:1:article:5:clause:1:point:2",
+                        "label": "b",
+                        "content": "b) Được tra cứu, theo dõi, tải về toàn bộ hồ sơ điện\ntử thực hiện thủ tục hành chính đã gửi thành công từ Cổng dịch vụ công quốc gia, Cổng dịch vụ công cấp bộ, cấp tỉnh và kết quả giải quyết thủ tục hành chính điện tử;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:191218:part:1:article:5:clause:1:point:3",
+                        "label": "c",
+                        "content": "c) Được bảo quản, lưu trữ an toàn đối với hồ sơ,\ntài liệu, kết quả giải quyết thủ tục hành chính dưới dạng điện tử theo quy định của pháp luật;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:191218:part:1:article:5:clause:1:point:4",
+                        "label": "d",
+                        "content": "d) Được yêu cầu cơ quan có thẩm quyền xác nhận bằng\nvăn bản việc thực hiện thủ tục hành chính trên môi trường điện tử để phục vụ các hoạt động khác có liên quan trong phạm vi quy định của pháp luật. Việc yêu cầu và xác nhận phải tuân thủ quy định của pháp luật về tiếp cận thông tin;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:191218:part:1:article:5:clause:1:point:5",
+                        "label": "đ",
+                        "content": "đ) Được yêu cầu cơ quan có thẩm quyền chia sẻ thông\ntin, dữ liệu là kết quả giải quyết thủ tục hành chính của tổ chức, cá nhân cho cơ quan khác để phục vụ các yêu cầu, lợi ích có liên quan của tổ chức, cá nhân đó.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:191218:part:1:article:5:clause:1:point:6",
+                        "label": "e",
+                        "content": "e) Được công nhận kết quả giải quyết thủ tục hành\nchính điện tử và hồ sơ thủ tục hành chính đã được ký số của cơ quan, tổ chức, cá nhân có thẩm quyền theo quy định của pháp luật trong các giao dịch điện tử;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:191218:part:1:article:5:clause:1:point:7",
+                        "label": "g",
+                        "content": "g) Thực hiện các quyền theo quy định tại Luật Giao dịch điện tử, Luật Công nghệ thông tin và các văn bản hướng dẫn\nLuật, thực hiện quyền và trách nhiệm được quy định tại khoản 1 Điều 6 Nghị định số 61/2018/NĐ-CP ngày 23 tháng 4 năm 2018 của Chính phủ về thực hiện cơ chế một cửa, một cửa liên thông trong giải quyết thủ tục hành chính.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:191218:part:1:article:5:clause:2",
+                    "number": "2",
+                    "content": "2. Nghĩa vụ",
+                    "points": [
+                      {
+                        "point_id": "doc:191218:part:1:article:5:clause:2:point:1",
+                        "label": "a",
+                        "content": "a) Cung cấp thông tin đăng ký giao dịch điện tử với\ncơ quan giải quyết thủ tục hành chính kịp thời, chính xác;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:191218:part:1:article:5:clause:2:point:2",
+                        "label": "b",
+                        "content": "b) Quản lý, sử dụng tài khoản giao dịch điện tử an\ntoàn, bảo mật;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:191218:part:1:article:5:clause:2:point:3",
+                        "label": "c",
+                        "content": "c) Chịu trách nhiệm về tính chính xác, hợp pháp của\nthông tin hồ sơ kê khai khi thực hiện thủ tục hành chính trên môi trường điện tử;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:191218:part:1:article:5:clause:2:point:4",
+                        "label": "d",
+                        "content": "d) Theo dõi, cập nhật, phản hồi các thông tin liên\nquan đến giao dịch điện tử với cơ quan giải quyết thủ tục hành chính và thực hiện theo các hướng dẫn, thông báo của cơ quan gửi tới tổ chức, cá nhân;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:191218:part:1:article:5:clause:2:point:5",
+                        "label": "đ",
+                        "content": "đ) Thực hiện đầy đủ các quy định về thực hiện thủ tục\nhành chính trên môi trường điện tử; nộp đầy đủ các khoản phí, lệ phí và các nghĩa vụ tài chính khác (nếu có) theo quy định;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:191218:part:1:article:5:clause:2:point:6",
+                        "label": "e",
+                        "content": "e) Chịu trách nhiệm trước pháp luật về hành vi vi\nphạm quy định tại khoản 3 Điều này và các quy định khác của pháp luật có liên quan.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:191218:part:1:article:5:clause:3",
+                    "number": "3",
+                    "content": "3. Hành vi không được làm\nTổ chức, cá nhân thực hiện thủ tục hành chính trên môi trường điện tử không được thực hiện các hành vi bị cấm quy định tại Điều 9 Luật Giao dịch điện tử năm 2005, Điều 12 Luật Công nghệ thông tin năm 2006, Điều 7 Luật An toàn thông tin mạng năm 2015, Điều 8 Luật An ninh mạng năm 2018, Điều 5 Luật Bảo vệ bí mật nhà nước năm 2018 và các quy định tại các khoản 2 và 3 Điều 5 Nghị định số 61/2018/NĐ-CP ngày 23 tháng 4 năm 2018 của Chính phủ về thực hiện cơ chế một cửa, một cửa liên thông trong giải quyết thủ tục hành chính.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:191218:part:1:article:6",
+                "number": "6",
+                "title": "Trách nhiệm và hành vi không được làm của cán bộ, công chức, viên chức tiếp nhận, giải quyết thủ tục hành chính trên môi trường điện tử",
+                "content": "Điều 6. Trách nhiệm và hành vi không được làm của cán bộ, công chức, viên chức tiếp nhận, giải quyết thủ tục hành chính trên môi trường điện tử",
+                "clauses": [
+                  {
+                    "clause_id": "doc:191218:part:1:article:6:clause:1",
+                    "number": "1",
+                    "content": "1. Trách nhiệm",
+                    "points": [
+                      {
+                        "point_id": "doc:191218:part:1:article:6:clause:1:point:1",
+                        "label": "a",
+                        "content": "a) Hướng dẫn, hỗ trợ để tổ chức, cá nhân thực hiện\nthủ tục hành chính trên môi trường điện tử;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:191218:part:1:article:6:clause:1:point:2",
+                        "label": "b",
+                        "content": "b) Kiểm tra hồ sơ, gửi các thông tin phản hồi cho tổ\nchức, cá nhân theo các thông tin tổ chức, cá nhân đã đăng ký khi thực hiện thủ tục hành chính trên môi trường điện tử;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:191218:part:1:article:6:clause:1:point:3",
+                        "label": "c",
+                        "content": "c) Sử dụng tài khoản giao dịch điện tử đã đăng ký\nđăng nhập vào Hệ thống thông tin một cửa điện tử cấp bộ, cấp tỉnh để theo dõi, giải quyết hồ sơ điện tử thực hiện thủ tục hành chính của tổ chức, cá nhân theo đúng quy định và đảm bảo hiệu quả;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:191218:part:1:article:6:clause:1:point:4",
+                        "label": "d",
+                        "content": "d) Báo cáo Thủ trưởng cơ quan giải quyết thủ tục\nhành chính khi phát hiện các hành vi sử dụng hệ thống thông tin không đúng mục đích, các dấu hiệu gây ảnh hưởng đến an toàn, an ninh thông tin để kịp thời xử lý;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:191218:part:1:article:6:clause:1:point:5",
+                        "label": "đ",
+                        "content": "đ) Tuân thủ Luật An\ntoàn thông tin mạng, Luật An ninh mạng và các quy định pháp luật liên quan về bảo vệ thông tin cá nhân khi thực hiện thu thập thông tin cá nhân của tổ chức, cá nhân tham gia thực hiện thủ tục hành chính trên môi trường điện tử;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:191218:part:1:article:6:clause:1:point:6",
+                        "label": "e",
+                        "content": "e) Cập nhật các kiến thức bảo đảm sử dụng thành thạo\ncác phần mềm ứng dụng được triển khai trong giải quyết thủ tục hành chính trên môi trường điện tử.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:191218:part:1:article:6:clause:2",
+                    "number": "2",
+                    "content": "2. Hành vi không được làm",
+                    "points": [
+                      {
+                        "point_id": "doc:191218:part:1:article:6:clause:2:point:1",
+                        "label": "a",
+                        "content": "a) Cản trở việc lựa chọn phương thức thực hiện thủ\ntục hành chính trên môi trường điện tử của tổ chức, cá nhân;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:191218:part:1:article:6:clause:2:point:2",
+                        "label": "b",
+                        "content": "b) Yêu cầu tổ chức, cá nhân nộp giấy tờ, tài liệu bằng\nvăn bản giấy để xác minh, kiểm tra đối với các thành phần hồ sơ đã được ký số và ghi nhận tính pháp lý trong quá trình tiếp nhận, giải quyết thủ tục hành chính;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:191218:part:1:article:6:clause:2:point:3",
+                        "label": "c",
+                        "content": "c) Can thiệp trái phép vào quá trình thực hiện thủ\ntục hành chính trên môi trường điện tử, bao gồm: truyền, thu thập, xử lý, gửi hoặc thông báo kết quả xử lý hồ sơ, giao dịch thanh toán; can thiệp trái phép, làm sai lệch dữ liệu hồ sơ, giao dịch thanh toán, kết quả xử lý thủ tục hành chính; tiết lộ thông tin, sao chép dữ liệu trái thẩm quyền;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:191218:part:1:article:6:clause:2:point:4",
+                        "label": "d",
+                        "content": "d) Gian lận, mạo nhận, chiếm đoạt, sử dụng trái\nphép danh tính điện tử của tổ chức, cá nhân, cơ quan có thẩm quyền;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:191218:part:1:article:6:clause:2:point:5",
+                        "label": "đ",
+                        "content": "đ) Các hành vi bị cấm khác của pháp luật có liên\nquan đến hoạt động của cán bộ, công chức, viên chức trên môi trường điện tử.",
+                        "children": []
+                      }
+                    ]
+                  }
+                ],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:191218:part:1:chapter:2",
+            "number": "II",
+            "title": "QUY TRÌNH THỰC HIỆN THỦ TỤC HÀNH CHÍNH TRÊN MÔI TRƯỜNG ĐIỆN TỬ",
+            "content": "Chương II\nQUY TRÌNH THỰC HIỆN THỦ\nTỤC HÀNH CHÍNH TRÊN MÔI TRƯỜNG ĐIỆN TỬ",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:191218:part:1:article:7",
+                "number": "7",
+                "title": "Đăng ký tài khoản",
+                "content": "Điều 7. Đăng ký tài khoản",
+                "clauses": [
+                  {
+                    "clause_id": "doc:191218:part:1:article:7:clause:1",
+                    "number": "1",
+                    "content": "1. Việc đăng ký tài khoản thực\nhiện thủ tục hành chính trên môi trường điện tử được thực hiện tại Cổng dịch vụ công quốc gia, Cổng dịch vụ công cấp bộ, cấp tỉnh hoặc sử dụng danh tính điện tử do các tổ chức cung cấp định danh điện tử đã kết nối, tích hợp với Nền tảng trao đổi định danh điện tử trên Cổng dịch vụ công quốc gia.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:191218:part:1:article:7:clause:2",
+                    "number": "2",
+                    "content": "2. Việc tiếp nhận, giải quyết thủ tục hành chính\ntrên môi trường điện tử chỉ được thực hiện khi hồ sơ được gửi từ tài khoản đã đăng ký.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:191218:part:1:article:8",
+                "number": "8",
+                "title": "Đăng nhập tài khoản",
+                "content": "Điều 8. Đăng nhập tài khoản",
+                "clauses": [
+                  {
+                    "clause_id": "doc:191218:part:1:article:8:clause:1",
+                    "number": "1",
+                    "content": "1. Tổ chức, cá nhân truy cập vào địa chỉ Cổng dịch\nvụ công quốc gia hoặc Cổng dịch vụ công cấp bộ, cấp tỉnh, đăng nhập tài khoản và thực hiện xác thực điện tử người dùng.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:191218:part:1:article:8:clause:2",
+                    "number": "2",
+                    "content": "2. Mức độ bảo đảm khi đăng nhập tài khoản",
+                    "points": [
+                      {
+                        "point_id": "doc:191218:part:1:article:8:clause:2:point:1",
+                        "label": "a",
+                        "content": "a) Mức độ bảo đảm của danh tính điện tử của tổ chức,\ncá nhân được dùng để đăng nhập dựa trên xác minh được các thông tin của danh tính điện tử do tổ chức, cá nhân cung cấp là chính xác thông qua việc so sánh, đối chiếu tự động với các thông tin, dữ liệu hệ thống đang quản lý hoặc được kết nối, chia sẻ; hoặc so sánh với các bằng chứng mà tổ chức, cá nhân đó cung cấp trực tiếp;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:191218:part:1:article:8:clause:2:point:2",
+                        "label": "b",
+                        "content": "b) Mức độ bảo đảm xác thực người dùng khi đăng nhập\ntài khoản dựa trên ít nhất một yếu tố xác thực của tổ chức, cá nhân.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:191218:part:1:article:8:clause:3",
+                    "number": "3",
+                    "content": "3. Tổ chức, cá nhân đăng nhập và xác thực thành\ncông trên Cổng dịch vụ công quốc gia được đăng nhập trực tiếp vào các Cổng dịch vụ công cấp bộ, cấp tỉnh hoặc hệ thống cung cấp các dịch vụ công có liên quan theo cơ chế đăng nhập một lần.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:191218:part:1:article:8:clause:4",
+                    "number": "4",
+                    "content": "4. Mức độ bảo đảm xác thực người dùng khi thực hiện\nthủ tục hành chính do cơ quan, tổ chức xây dựng, cung cấp dịch vụ công trực tuyến xác định. Trường hợp mức độ bảo đảm xác thực khi thực hiện thủ tục hành chính yêu cầu cao hơn so với mức độ khi đăng nhập, tổ chức, cá nhân bổ sung giải pháp xác thực theo hướng dẫn cụ thể của cơ quan cung cấp thủ tục hành chính tại Cổng dịch vụ công quốc gia hoặc Cổng dịch vụ công cấp bộ, cấp tỉnh.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:191218:part:1:article:9",
+                "number": "9",
+                "title": "Chuẩn bị và nộp hồ sơ điện tử thực hiện thủ tục hành chính",
+                "content": "Điều 9. Chuẩn bị và nộp hồ sơ điện tử thực hiện thủ tục hành chính",
+                "clauses": [
+                  {
+                    "clause_id": "doc:191218:part:1:article:9:clause:1",
+                    "number": "1",
+                    "content": "1. Tổ chức, cá nhân chuẩn bị hồ sơ điện tử, kê khai\nmẫu đơn, tờ khai điện tử theo yêu cầu của hệ thống cung cấp dịch vụ công trực tuyến như sau:",
+                    "points": [
+                      {
+                        "point_id": "doc:191218:part:1:article:9:clause:1:point:1",
+                        "label": "a",
+                        "content": "a) Khai mẫu đơn, tờ khai trên các biểu mẫu điện tử\nđược cung cấp sẵn;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:191218:part:1:article:9:clause:1:point:2",
+                        "label": "b",
+                        "content": "b) Đăng tải các giấy tờ, tài liệu điện tử hợp lệ hoặc\ndẫn nguồn tài liệu từ Kho quản lý dữ liệu điện tử của tổ chức, cá nhân;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:191218:part:1:article:9:clause:1:point:3",
+                        "label": "c",
+                        "content": "c) Ký chữ ký số vào mẫu đơn, tờ khai, giấy tờ, tài\nliệu điện tử nếu có yêu cầu. Việc yêu cầu ký số được công khai trước khi tổ chức, cá nhân nộp hồ sơ điện tử. Thành phần hồ sơ được ký chữ ký số có giá trị pháp lý như văn bản giấy được ký hợp lệ.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:191218:part:1:article:9:clause:2",
+                    "number": "2",
+                    "content": "2. Sau khi hoàn thành chuẩn bị hồ sơ, mẫu đơn, tờ\nkhai điện tử, tổ chức, cá nhân gửi đến cơ quan có thẩm quyền tiếp nhận. Các thông tin, dữ liệu sau khi được ghi nhận nếu được tổ chức, cá nhân đồng ý sẽ được hệ thống thông tin lưu giữ và điền tự động trong các biểu mẫu điện tử, hồ sơ điện tử khi thực hiện các thủ tục hành chính lần sau theo nhu cầu của tổ chức, cá nhân.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:191218:part:1:article:10",
+                "number": "10",
+                "title": "Yêu cầu cấp bản sao điện tử có giá trị pháp lý",
+                "content": "Điều 10. Yêu cầu cấp bản sao điện tử có giá trị pháp lý",
+                "clauses": [
+                  {
+                    "clause_id": "doc:191218:part:1:article:10:clause:1",
+                    "number": "1",
+                    "content": "1. Đối với các giấy tờ, tài liệu chưa được số hóa,\nlưu giữ, kết nối, chia sẻ thông tin với Cổng dịch vụ công quốc gia, Cổng dịch vụ công, Hệ thống thông tin một cửa điện tử cấp bộ, cấp tỉnh, tùy theo nhu cầu, tổ chức, cá nhân yêu cầu cơ quan nhà nước có thẩm quyền cấp bản sao điện tử theo hai cách:",
+                    "points": [
+                      {
+                        "point_id": "doc:191218:part:1:article:10:clause:1:point:1",
+                        "label": "a",
+                        "content": "a) Yêu cầu cấp bản sao điện tử từ sổ gốc;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:191218:part:1:article:10:clause:1:point:2",
+                        "label": "b",
+                        "content": "b) Yêu cầu chứng thực bản sao điện tử từ bản chính\ngiấy tờ, tài liệu.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:191218:part:1:article:10:clause:2",
+                    "number": "2",
+                    "content": "2. Trường hợp tổ chức, cá nhân yêu cầu cấp bản sao\nđiện tử từ sổ gốc, cơ quan đang quản lý sổ gốc căn cứ vào sổ gốc để cấp bản sao điện tử có chữ ký số của cơ quan cho người yêu cầu. Thẩm quyền cấp, tổ chức, cá nhân có quyền yêu cầu cấp bản sao điện tử từ sổ gốc được thực hiện theo các quy định của pháp luật về cấp bản sao từ sổ gốc. Bản sao điện tử được cấp từ sổ gốc có giá trị sử dụng thay cho bản chính trong các giao dịch, trừ trường hợp pháp luật có quy định khác.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:191218:part:1:article:10:clause:3",
+                    "number": "3",
+                    "content": "3. Trường hợp tổ chức, cá nhân yêu cầu chứng thực bản\nsao điện tử từ bản chính, thẩm quyền, địa điểm, giấy tờ, văn bản làm cơ sở để thực hiện, trách nhiệm của người yêu cầu chứng thực và người thực hiện chứng thực, thời hạn thực hiện và việc gia hạn thời hạn, lệ phí và các chi phí khác, chế độ lưu trữ thực hiện theo quy định của pháp luật về chứng thực bản sao từ bản chính. Thủ tục chứng thực bản sao điện tử từ bản chính được thực hiện như sau:",
+                    "points": [
+                      {
+                        "point_id": "doc:191218:part:1:article:10:clause:3:point:1",
+                        "label": "a",
+                        "content": "a) Tổ chức, cá nhân xuất trình bản chính giấy tờ,\ntài liệu làm cơ sở để chứng thực bản sao. Trong trường hợp bản chính giấy tờ, tài liệu do cơ quan, tổ chức có thẩm quyền của nước ngoài cấp, công chứng hoặc chứng nhận thì phải được hợp pháp hóa lãnh sự theo quy định của pháp luật trước khi yêu cầu chứng thực bản sao; trừ trường hợp được miễn hợp pháp hóa lãnh sự theo điều ước quốc tế mà Việt Nam là thành viên hoặc theo nguyên tắc có đi, có lại.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:191218:part:1:article:10:clause:3:point:2",
+                        "label": "b",
+                        "content": "b) Người thực hiện chứng thực kiểm tra bản chính,\nchụp điện tử bản chính, nhập lời chứng chứng thực bản sao từ bản chính và thực hiện ký số của người thực hiện chứng thực, cơ quan có thẩm quyền chứng thực và cập nhật vào sổ chứng thực. Bản sao điện tử được chứng thực từ bản chính dạng văn bản giấy theo quy định tại Nghị định này có giá trị sử dụng thay cho bản chính đã dùng để đối chiếu chứng thực trong các giao dịch, trừ trường hợp pháp luật có quy định khác.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:191218:part:1:article:10:clause:4",
+                    "number": "4",
+                    "content": "4. Cơ quan có thẩm quyền cấp bản sao điện tử gửi bản\nsao điện tử đã được ký số vào Kho quản lý dữ liệu điện tử của tổ chức, cá nhân đó tại Cổng dịch vụ công quốc gia. Trường hợp tổ chức, cá nhân chưa có tài khoản trên Cổng dịch vụ công quốc gia, cơ quan có thẩm quyền gửi bản sao điện tử đã được ký số cho tổ chức, cá nhân qua địa chỉ thư điện tử do tổ chức, cá nhân cung cấp.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:191218:part:1:article:11",
+                "number": "11",
+                "title": "Quy trình tiếp nhận, giải quyết thủ tục hành chính trên môi trường điện tử",
+                "content": "Điều 11. Quy trình tiếp nhận, giải quyết thủ tục hành chính trên môi trường điện tử",
+                "clauses": [
+                  {
+                    "clause_id": "doc:191218:part:1:article:11:clause:1",
+                    "number": "1",
+                    "content": "1. Cổng dịch vụ công quốc gia hoặc Cổng dịch vụ\ncông cấp bộ, cấp tỉnh tiếp nhận yêu cầu, kiểm tra tự động về mặt kỹ thuật. Nếu hồ sơ đã đủ các thành phần và bảo đảm về mặt kỹ thuật thì phản hồi tự động xác nhận tổ chức, cá nhân đã gửi thành công và thông báo về thời điểm tiếp nhận chính thức hồ sơ.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:191218:part:1:article:11:clause:2",
+                    "number": "2",
+                    "content": "2. Cán bộ, công chức, viên chức đăng nhập Hệ thống\nthông tin một cửa điện tử cấp bộ, cấp tỉnh và kiểm tra hồ sơ điện tử tổ chức, cá nhân gửi đến. Nội dung kiểm tra hồ sơ bao gồm:",
+                    "points": [
+                      {
+                        "point_id": "doc:191218:part:1:article:11:clause:2:point:1",
+                        "label": "a",
+                        "content": "a) Kiểm tra tính chính xác của thông tin tại mẫu\nđơn, tờ khai thông qua việc khai thác thông tin, dữ liệu tại các hệ thống thông tin, cơ sở dữ liệu đã sẵn sàng kết nối, chia sẻ thông tin cho Cổng dịch vụ công quốc gia, Cổng dịch vụ công cấp bộ, cấp tỉnh, Hệ thống thông tin một cửa điện tử cấp bộ, cấp tỉnh;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:191218:part:1:article:11:clause:2:point:2",
+                        "label": "b",
+                        "content": "b) Kiểm tra thông tin chữ ký số để đảm bảo tính xác\nthực, tính hợp lệ, chính xác, nguyên vẹn đối với các thành phần hồ sơ được đăng tải, dẫn nguồn, các thành phần hồ sơ theo yêu cầu chứng thực điện tử; việc kiểm tra chữ ký số được thực hiện theo quy định của Luật Giao dịch điện tử.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:191218:part:1:article:11:clause:3",
+                    "number": "3",
+                    "content": "3. Sau khi kiểm tra, nếu bảo đảm các điều kiện để\ntiếp nhận, cán bộ, công chức, viên chức tiếp nhận, cấp mã hồ sơ thủ tục hành chính và xử lý hồ sơ theo quy trình quy định tại Chương III Nghị định số 61/2018/NĐ-CP ngày 23 tháng 4 năm 2018 của Chính phủ và các quy định của pháp luật có liên quan. Trường hợp hồ sơ chưa đầy đủ, đúng quy định, cán bộ, công chức, viên chức thông báo cho tổ chức, cá nhân biết thông qua tài khoản của tổ chức, cá nhân trên Cổng dịch vụ công quốc gia, Cổng dịch vụ công cấp bộ, cấp tỉnh, các kênh thông tin tổ chức, cá nhân đăng ký và hướng dẫn đầy đủ, cụ thể một lần để công dân, tổ chức bổ sung đầy đủ hồ sơ theo yêu cầu.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:191218:part:1:article:11:clause:4",
+                    "number": "4",
+                    "content": "4. Cán bộ, công chức, viên chức thông báo về việc\ntiếp nhận chính thức hoặc yêu cầu chỉnh sửa, bổ sung hồ sơ cho tổ chức, cá nhân không muộn hơn tám giờ làm việc kể từ khi hệ thống tiếp nhận.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:191218:part:1:article:11:clause:5",
+                    "number": "5",
+                    "content": "5. Những thông tin, thành phần hồ sơ được nêu tại khoản\n2 Điều này sau khi được cơ quan có thẩm quyền tiếp nhận và ghi nhận tính chính xác, nếu được tổ chức, cá nhân đồng ý sẽ được lưu giữ tại Kho quản lý dữ liệu điện tử của tổ chức, cá nhân.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:191218:part:1:article:12",
+                "number": "12",
+                "title": "Sửa đổi, bổ sung thông tin hồ sơ điện tử thực hiện thủ tục hành chính",
+                "content": "Điều 12. Sửa đổi, bổ sung thông tin hồ sơ điện tử thực hiện thủ tục hành chính",
+                "clauses": [
+                  {
+                    "clause_id": "doc:191218:part:1:article:12:clause:1",
+                    "number": "1",
+                    "content": "1. Tổ chức, cá nhân thực hiện sửa đổi, bổ sung\nthành phần hồ sơ trên Cổng dịch vụ công quốc gia, Cổng dịch vụ công cấp bộ, cấp tỉnh theo yêu cầu của cơ quan có thẩm quyền.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:191218:part:1:article:12:clause:2",
+                    "number": "2",
+                    "content": "2. Hình thức sửa đổi, bổ sung hồ sơ điện tử bao gồm:",
+                    "points": [
+                      {
+                        "point_id": "doc:191218:part:1:article:12:clause:2:point:1",
+                        "label": "a",
+                        "content": "a) Tạo lập thông tin sửa đổi, bổ sung theo tiêu\nchí, định dạng theo hướng dẫn và gửi đến Cổng dịch vụ công quốc gia, Cổng dịch vụ công cấp bộ, cấp tỉnh;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:191218:part:1:article:12:clause:2:point:2",
+                        "label": "b",
+                        "content": "b) Khai báo trực tiếp trên Cổng dịch vụ công quốc\ngia hoặc Cổng dịch vụ công cấp bộ, cấp tỉnh.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:191218:part:1:article:12:clause:2:point:3",
+                        "label": "c",
+                        "content": "c) Việc sửa đổi, bổ sung thông tin, hồ sơ điện tử\nđược lưu lại lịch sử sửa đổi và không làm thay đổi mã hồ sơ thủ tục hành chính.",
+                        "children": []
+                      }
+                    ]
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:191218:part:1:article:13",
+                "number": "13",
+                "title": "Thanh toán trực tuyến nghĩa vụ tài chính trong giải quyết thủ tục hành chính",
+                "content": "Điều 13. Thanh toán trực tuyến nghĩa vụ tài chính trong giải quyết thủ tục hành chính\n1. Tổ chức, cá nhân nộp phí, lệ phí, thuế và các\nnghĩa vụ tài chính khác (nếu có) trong giải quyết thủ tục hành chính thông qua chức năng thanh toán trực tuyến trên Cổng dịch vụ công quốc gia hoặc Cổng dịch vụ công cấp bộ, cấp tỉnh hoặc bằng cách thức khác theo quy định của pháp luật.\n2. Việc thực hiện xác thực trong thanh toán trực\ntuyến nghĩa vụ tài chính trên Cổng dịch vụ công quốc gia được thực hiện theo một trong các phương thức:\na) Đăng nhập một lần trên cơ sở liên kết tài khoản\ngiữa Cổng dịch vụ công quốc gia với Cổng dịch vụ công cấp bộ, cấp tỉnh, đơn vị cung cấp dịch vụ công và hệ thống thanh toán của các ngân hàng, tổ chức cung ứng dịch vụ trung gian thanh toán;\nb) Thực hiện bằng tài khoản của ngân hàng hoặc tổ\nchức cung ứng dịch vụ trung gian thanh toán trong trường hợp không thực hiện đăng nhập bằng tài khoản của Cổng dịch vụ công quốc gia.\n3. Thời điểm, mức nộp phí, lệ\nphí và các nghĩa vụ tài chính khác (nếu có) thực hiện theo Luật Phí, lệ phí và các văn bản quy phạm pháp luật có liên quan.\n4. Chứng từ nộp ngân sách nhà nước có chữ ký số của\nngân hàng hoặc tổ chức cung ứng dịch vụ trung gian thanh toán và thông tin đã trích nộp vào ngân sách nhà nước thành công được gửi cho người nộp ngân sách nhà nước, cơ quan, đơn vị giải quyết thủ tục hành chính và các cơ quan, tổ chức liên quan (nếu có) để thực hiện các bước tiếp theo trong giải quyết thủ tục hành chính cho tổ chức, cá nhân.\n5. Chứng từ được sử dụng để trao đổi thông tin giữa\ncác cơ quan, đơn vị giải quyết thủ tục hành chính, người nộp nghĩa vụ tài chính và các ngân hàng hoặc tổ chức cung ứng dịch vụ trung gian thanh toán thực hiện theo quy định pháp luật về thủ tục hành chính trong lĩnh vực Kho bạc Nhà nước.\n6. Phí dịch vụ thanh toán trực tuyến thực hiện theo\nquy định của các ngân hàng hoặc tổ chức cung ứng dịch vụ trung gian thanh toán, trừ trường hợp pháp luật có quy định khác.\n7. Trách nhiệm của ngân hàng\nhoặc tổ chức cung ứng dịch vụ trung gian thanh toán:\na) Thực hiện cung ứng các giải pháp dịch vụ thanh\ntoán trực tuyến phí, lệ phí, thuế và các nghĩa vụ tài chính khác trong giải quyết thủ tục hành chính của cá nhân, tổ chức cho các cơ quan, đơn vị giải quyết thủ tục hành chính thông qua việc kết nối, tích hợp với chức năng thanh toán trực tuyến trên Cổng dịch vụ công quốc gia hoặc Cổng dịch vụ công cấp bộ, cấp tỉnh;\nb) Công khai mức phí dịch vụ thanh toán trực tuyến\ntheo từng trường hợp cụ thể trước khi cá nhân, tổ chức thực hiện thanh toán;\nc) Công khai quy trình nghiệp vụ, phương thức thực\nhiện thanh toán của cá nhân, tổ chức trên Cổng dịch vụ công quốc gia, Cổng dịch vụ công cấp bộ, cấp tỉnh làm cơ sở các bên phối hợp thực hiện nghiệp vụ thanh quyết toán, giải quyết tra soát, khiếu nại;\nd) Thực hiện đối soát hàng ngày đảm bảo khớp, đúng\ndữ liệu trong giao dịch giữa các ngân hàng, tổ chức cung cấp dịch vụ trung gian thanh toán và giữa ngân hàng hoặc tổ chức cung cấp dịch vụ trung gian thanh toán với cơ quan, đơn vị giải quyết thủ tục hành chính; trường hợp có chênh lệch thì các bên tìm hiểu nguyên nhân và phối hợp xử lý;\nđ) Thực hiện hạch toán, quyết toán các khoản thu\nnghĩa vụ tài chính giải quyết thủ tục hành chính đầy đủ theo đúng quy định pháp luật;\ne) Thường xuyên rà soát, kiểm tra, kịp thời phát hiện\nvà khắc phục những sự cố do nguyên nhân kỹ thuật của hệ thống hoặc lỗi của cán bộ ngân hàng hoặc tổ chức cung ứng dịch vụ trung gian thanh toán gây ra; phối hợp với các cơ quan, đơn vị liên quan trong tìm nguyên nhân và giải pháp bảo đảm an toàn, thông suốt trong quá trình quản lý, vận hành hệ thống thanh toán trực tuyến trên Cổng dịch vụ công quốc gia hoặc Cổng dịch vụ công cấp bộ, cấp tỉnh;\ng) Bảo đảm chất lượng dịch vụ thanh toán trực tuyến\nvà việc bảo mật thông tin trong quá trình thực hiện theo quy định pháp luật;\nh) Phối hợp với các cơ quan giải quyết thủ tục hành\nchính giải đáp vướng mắc, tra soát cho tổ chức, cá nhân thực hiện thủ tục hành chính.\n8. Trách nhiệm của cơ quan, đơn vị giải quyết thủ tục\nhành chính:\na) Tích hợp, đồng bộ thông tin, dữ liệu liên quan\nyêu cầu thực hiện nghĩa vụ tài chính trong giải quyết thủ tục hành chính của cá nhân, tổ chức với Cổng dịch vụ công quốc gia, Cổng dịch vụ công cấp bộ, cấp tỉnh theo phạm vi quản lý giải quyết thủ tục hành chính;\nb) Phối hợp với ngân hàng hoặc tổ chức cung cấp dịch\nvụ trung gian thanh toán thực hiện kết nối, tích hợp, triển khai dịch vụ thanh toán trực tuyến nghĩa vụ tài chính đối với thủ tục hành chính thuộc thẩm quyền giải quyết; thực hiện đối soát hàng ngày đảm bảo khớp, đúng dữ liệu giữa các bên, trường hợp có chênh lệch thì các bên tìm hiểu nguyên nhân và phối hợp xử lý;\nc) Công khai về đầu mối phối hợp thực hiện với ngân\nhàng thương mại, tổ chức cung cấp dịch vụ trung gian thanh toán và các cơ quan, đơn vị có liên quan trên Cổng dịch vụ công quốc gia, Cổng dịch vụ công cấp bộ, cấp tỉnh làm cơ sở phối hợp thực hiện nghiệp vụ thanh quyết toán, giải quyết tra soát, khiếu nại;\nd) Thường xuyên rà soát, kiểm tra, kịp thời phát hiện\nvà khắc phục những sự cố do nguyên nhân kỹ thuật của hệ thống hoặc lỗi của cán bộ, công chức, viên chức thuộc cơ quan, đơn vị gây ra; phối hợp với các cơ quan, đơn vị liên quan trong tìm nguyên nhân và giải pháp đảm bảo an toàn, thông suốt trong quá trình quản lý, vận hành hệ thống thanh toán trực tuyến trên Cổng dịch vụ công quốc gia hoặc Cổng dịch vụ công cấp bộ, cấp tỉnh;\nđ) Bảo đảm chất lượng dịch vụ thanh toán trực tuyến\nvà việc bảo mật thông tin trong quá trình thực hiện theo quy định pháp luật.\n9. Kho bạc Nhà nước có trách nhiệm kết nối, tích hợp,\nchia sẻ dữ liệu với Cổng dịch vụ công Quốc gia phục vụ thanh toán trực tuyến nghĩa vụ tài chính trong giải quyết thủ tục hành chính.",
+                "clauses": [],
+                "points": []
+              },
+              {
+                "article_id": "doc:191218:part:1:article:14",
+                "number": "14",
+                "title": "Kết quả giải quyết thủ tục hành chính",
+                "content": "Điều 14. Kết quả giải quyết thủ tục hành chính",
+                "clauses": [
+                  {
+                    "clause_id": "doc:191218:part:1:article:14:clause:1",
+                    "number": "1",
+                    "content": "1. Cơ quan có thẩm quyền trả kết quả giải quyết thủ\ntục hành chính cho tổ chức, cá nhân theo quy định tại văn bản quy phạm pháp luật chuyên ngành, đồng thời trả kết quả giải quyết thủ tục hành chính bản điện tử cho tổ chức, cá nhân tại Kho quản lý dữ liệu điện tử của tổ chức, cá nhân. Trường hợp tổ chức, cá nhân thực hiện thủ tục hành chính theo phương thức ủy quyền, việc lưu kết quả điện tử thực hiện theo thỏa thuận ủy quyền.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:191218:part:1:article:14:clause:2",
+                    "number": "2",
+                    "content": "2. Kết quả giải quyết thủ tục hành chính bản điện tử\ncủa cơ quan có thẩm quyền có giá trị pháp lý như kết quả giải quyết thủ tục hành chính bằng văn bản giấy.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:191218:part:1:article:14:clause:3",
+                    "number": "3",
+                    "content": "3. Kết quả giải quyết thủ tục hành chính bản điện tử\nphải bảo đảm:",
+                    "points": [
+                      {
+                        "point_id": "doc:191218:part:1:article:14:clause:3:point:1",
+                        "label": "a",
+                        "content": "a) Phản ánh đầy đủ các nội dung kết quả giải quyết\nthủ tục hành chính đã được quy định;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:191218:part:1:article:14:clause:3:point:2",
+                        "label": "b",
+                        "content": "b) Có chữ ký số của cơ quan có thẩm quyền giải quyết\nthủ tục hành chính;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:191218:part:1:article:14:clause:3:point:3",
+                        "label": "c",
+                        "content": "c) Bảo đảm tính toàn vẹn của dữ liệu, tính xác thực,\ntính chống chối bỏ, phù hợp với quy định của Luật Giao dịch điện tử;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:191218:part:1:article:14:clause:3:point:4",
+                        "label": "d",
+                        "content": "d) Được đồng bộ vào Kho quản lý dữ liệu điện tử của\ntổ chức, cá nhân trên Cổng dịch vụ công quốc gia theo cấu trúc mã thống nhất, bao gồm: Mã hồ sơ thủ tục hành chính-KQ(n) Trong đó n là số thứ tự của kết quả giải quyết đối với hồ sơ thủ tục hành chính có nhiều kết quả.",
+                        "children": []
+                      }
+                    ]
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:191218:part:1:article:15",
+                "number": "15",
+                "title": "Hủy hiệu lực của kết quả thực hiện thủ tục hành chính điện tử",
+                "content": "Điều 15. Hủy hiệu lực của kết quả thực hiện thủ tục hành chính điện tử",
+                "clauses": [
+                  {
+                    "clause_id": "doc:191218:part:1:article:15:clause:1",
+                    "number": "1",
+                    "content": "1. Trường hợp kết quả thực hiện thủ tục hành chính\nbị hủy do hết hiệu lực, cơ quan có thẩm quyền phải đánh dấu, ghi nhận thời điểm, thực hiện hủy hiệu lực kết quả thực hiện thủ tục hành chính điện tử trên các cơ sở dữ liệu, hệ thống thông tin, Kho quản lý dữ liệu điện tử của tổ chức, cá nhân và thông báo với các cơ quan có liên quan.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:191218:part:1:article:15:clause:2",
+                    "number": "2",
+                    "content": "2. Kết quả giải quyết thủ tục hành chính điện tử đã\nhủy hiệu lực vẫn được lưu trữ phục vụ việc tra cứu của cơ quan nhà nước có thẩm quyền theo thời hạn lưu trữ quy định của pháp luật chuyên ngành.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:191218:part:1:article:15:clause:3",
+                    "number": "3",
+                    "content": "3. Thời điểm kết quả giải quyết thủ tục hành chính\nđiện tử bị hủy hiệu lực thì đồng thời văn bản giấy đã chuyển đổi từ kết quả giải quyết thủ tục hành chính điện tử này (nếu có) cũng bị mất hiệu lực và không còn giá trị sử dụng.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:191218:part:1:article:16",
+                "number": "16",
+                "title": "Kho quản lý dữ liệu điện tử của tổ chức, cá nhân",
+                "content": "Điều 16. Kho quản lý dữ liệu điện tử của tổ chức, cá nhân",
+                "clauses": [
+                  {
+                    "clause_id": "doc:191218:part:1:article:16:clause:1",
+                    "number": "1",
+                    "content": "1. Tổ chức, cá nhân có tài khoản để thực hiện các\ngiao dịch trên Cổng dịch vụ công quốc gia hoặc Cổng dịch vụ công cấp bộ, cấp tỉnh thì được cung cấp một Kho quản lý dữ liệu điện tử của tổ chức, cá nhân tại các cổng này.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:191218:part:1:article:16:clause:2",
+                    "number": "2",
+                    "content": "2. Kho quản lý dữ liệu điện tử của tổ chức, cá nhân\ntại Cổng dịch vụ công quốc gia giúp quản lý, lưu giữ dữ liệu hoặc đường dẫn tới dữ liệu:",
+                    "points": [
+                      {
+                        "point_id": "doc:191218:part:1:article:16:clause:2:point:1",
+                        "label": "a",
+                        "content": "a) Thông tin cơ bản về doanh nghiệp trên cơ sở cung\ncấp, cập nhật từ Cơ sở dữ liệu quốc gia về doanh nghiệp; thông tin cơ bản về công dân trên cơ sở cung cấp, cập nhật từ Cơ sở dữ liệu quốc gia về dân cư;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:191218:part:1:article:16:clause:2:point:2",
+                        "label": "b",
+                        "content": "b) Kết quả hoặc đường dẫn kết quả giải quyết thủ tục\nhành chính thuộc thẩm quyền giải quyết của các bộ, cơ quan ngang bộ, địa phương;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:191218:part:1:article:16:clause:2:point:3",
+                        "label": "c",
+                        "content": "c) Các thành phần hồ sơ thủ tục hành chính đã được\ncơ quan có thẩm quyền tiếp nhận, giải quyết thành công và được tổ chức, cá nhân đồng ý lưu giữ;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:191218:part:1:article:16:clause:2:point:4",
+                        "label": "d",
+                        "content": "d) Bản sao điện tử từ sổ gốc hoặc bản sao điện tử\nđược chứng thực từ bản chính do cơ quan có thẩm quyền cấp;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:191218:part:1:article:16:clause:2:point:5",
+                        "label": "đ",
+                        "content": "đ) Các thông tin sẵn có từ Cổng dịch vụ công cấp bộ,\ncấp tỉnh được đồng bộ với Cổng dịch vụ công quốc gia.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:191218:part:1:article:16:clause:3",
+                    "number": "3",
+                    "content": "3. Kho quản lý dữ liệu điện tử\ncủa tổ chức, cá nhân tại Cổng dịch vụ công cấp bộ, cấp tỉnh giúp lưu giữ các thông tin hoặc đường dẫn tới các thông tin:",
+                    "points": [
+                      {
+                        "point_id": "doc:191218:part:1:article:16:clause:3:point:1",
+                        "label": "a",
+                        "content": "a) Thông tin cơ bản về doanh nghiệp trên cơ sở cung\ncấp thông tin từ Cơ sở dữ liệu doanh nghiệp hoặc thông tin cơ bản về công dân trên cơ sở cung cấp thông tin từ Cơ sở dữ liệu quốc gia về dân cư khi đã thực hiện được việc kết nối, chia sẻ với các cơ sở dữ liệu này;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:191218:part:1:article:16:clause:3:point:2",
+                        "label": "b",
+                        "content": "b) Các thành phần hồ sơ thủ tục hành chính đã được\ntiếp nhận và giải quyết thành công, kết quả giải quyết thủ tục hành chính thuộc thẩm quyền giải quyết của bộ, cơ quan ngang bộ, địa phương chủ quản hệ thống.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:191218:part:1:article:16:clause:4",
+                    "number": "4",
+                    "content": "4. Các thông tin được lưu giữ tại Kho quản lý dữ liệu\nđiện tử của tổ chức, cá nhân tại Cổng dịch vụ công quốc gia, Cổng dịch vụ công cấp bộ, cấp tỉnh được phân tích tự động, hỗ trợ tổ chức, cá nhân:",
+                    "points": [
+                      {
+                        "point_id": "doc:191218:part:1:article:16:clause:4:point:1",
+                        "label": "a",
+                        "content": "a) Tự động điền các thông tin tại các biểu mẫu điện\ntử;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:191218:part:1:article:16:clause:4:point:2",
+                        "label": "b",
+                        "content": "b) Hỗ trợ, thông báo, gợi ý việc thực hiện các thủ\ntục hành chính liên quan đến người sử dụng phù hợp với nhu cầu của tổ chức, cá nhân.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:191218:part:1:article:16:clause:5",
+                    "number": "5",
+                    "content": "5. Việc quản lý, kết nối, chia sẻ dữ liệu trên Kho\nquản lý dữ liệu điện tử của tổ chức, cá nhân thực hiện theo các quy định về quản lý, kết nối, chia sẻ dữ liệu số của cơ quan nhà nước, quy định về bảo vệ dữ liệu cá nhân và các quy định của pháp luật có liên quan.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:191218:part:1:article:17",
+                "number": "17",
+                "title": "Lưu trữ hồ sơ, kết quả giải quyết thủ tục hành chính điện tử",
+                "content": "Điều 17. Lưu trữ hồ sơ, kết quả giải quyết thủ tục hành chính điện tử",
+                "clauses": [
+                  {
+                    "clause_id": "doc:191218:part:1:article:17:clause:1",
+                    "number": "1",
+                    "content": "1. Hồ sơ, kết quả giải quyết thủ tục hành chính điện\ntử được lưu trữ theo quy định của pháp luật chuyên ngành, phù hợp với môi trường, điều kiện lưu trữ điện tử và các quy định có liên quan của pháp luật về lưu trữ. Việc lưu trữ hồ sơ, kết quả giải quyết thủ tục hành chính điện tử có giá trị như lưu trữ hồ sơ, kết quả giải quyết thủ tục hành chính dạng văn bản giấy.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:191218:part:1:article:17:clause:2",
+                    "number": "2",
+                    "content": "2. Cơ quan, đơn vị thực hiện lưu trữ hồ sơ, kết quả\ngiải quyết thủ tục hành chính điện tử phải bảo đảm các điều kiện quy định tại khoản 1 Điều 15 Luật Giao dịch điện tử.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:191218:part:1:article:18",
+                "number": "18",
+                "title": "Chuyển đổi hồ sơ, kết quả giải quyết thủ tục hành chính điện tử ra văn bản giấy",
+                "content": "Điều 18. Chuyển đổi hồ sơ, kết quả giải quyết thủ tục hành chính điện tử ra văn bản giấy",
+                "clauses": [
+                  {
+                    "clause_id": "doc:191218:part:1:article:18:clause:1",
+                    "number": "1",
+                    "content": "1. Tổ chức, cá nhân có thể in hồ sơ, kết quả giải\nquyết thủ tục hành chính điện tử do tổ chức, cá nhân đó khởi tạo và cơ quan có thẩm quyền giải quyết thủ tục hành chính có thể in hồ sơ, kết quả giải quyết thủ tục hành chính điện tử của tổ chức, cá nhân do mình quản lý từ hệ thống thông tin để lưu, đối chiếu thông tin hoặc xuất trình cho cơ quan có thẩm quyền kiểm tra thông tin về hồ sơ, kết quả giải quyết thủ tục hành chính hoặc cung cấp cho các tổ chức, cá nhân có nhu cầu tra cứu, xác minh thông tin trong phạm vi quy định của pháp luật.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:191218:part:1:article:18:clause:2",
+                    "number": "2",
+                    "content": "2. Văn bản giấy được chuyển đổi từ hồ sơ, kết quả\nđiện tử phải đáp ứng các điều kiện sau:",
+                    "points": [
+                      {
+                        "point_id": "doc:191218:part:1:article:18:clause:2:point:1",
+                        "label": "a",
+                        "content": "a) Phản ánh đầy đủ, chính xác nội dung của hồ sơ, kết\nquả giải quyết thủ tục hành chính điện tử;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:191218:part:1:article:18:clause:2:point:2",
+                        "label": "b",
+                        "content": "b) Có thông tin thể hiện hồ sơ, kết quả giải quyết\nthủ tục hành chính đã được xử lý trên hệ thống thông tin và tên của hệ thống thông tin hoặc tên của chủ quản hệ thống thông tin;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:191218:part:1:article:18:clause:2:point:3",
+                        "label": "c",
+                        "content": "c) Có mã định danh của hồ sơ, kết quả giải quyết thủ\ntục hành chính điện tử để phục vụ việc tra cứu, xác minh thông tin hoặc có họ tên, chữ ký của người thực hiện chuyển đổi;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:191218:part:1:article:18:clause:2:point:4",
+                        "label": "d",
+                        "content": "d) Có con dấu của cơ quan, tổ chức thực hiện việc\nchuyển đổi trong trường hợp phải thực hiện theo quy định của pháp luật hoặc theo thỏa thuận giữa các bên giao dịch;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:191218:part:1:article:18:clause:2:point:5",
+                        "label": "đ",
+                        "content": "đ) Tra cứu được tại bất kỳ thời điểm nào trong thời\ngian hệ thống thông tin hoạt động bình thường.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:191218:part:1:article:18:clause:3",
+                    "number": "3",
+                    "content": "3. Văn bản giấy được chuyển đổi từ hồ sơ, kết quả\ngiải quyết thủ tục hành chính điện tử có giá trị như hồ sơ, kết quả giải quyết thủ tục hành chính điện tử trừ trường hợp pháp luật chuyên ngành có quy định khác.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:191218:part:1:article:18:clause:4",
+                    "number": "4",
+                    "content": "4. Hệ thống thông tin phục vụ khởi tạo, xử lý hồ\nsơ, kết quả giải quyết thủ tục hành chính điện tử phải có tính năng chuyển đổi hồ sơ, kết quả giải quyết thủ tục hành chính điện tử sang hồ sơ, kết quả giải quyết thủ tục hành chính bản giấy.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:191218:part:1:chapter:3",
+            "number": "III",
+            "title": "KIỂM SOÁT VIỆC CUNG CẤP THỦ TỤC HÀNH CHÍNH TRÊN MÔI TRƯỜNG ĐIỆN TỬ",
+            "content": "Chương III\nKIỂM SOÁT VIỆC CUNG CẤP\nTHỦ TỤC HÀNH CHÍNH TRÊN MÔI TRƯỜNG ĐIỆN TỬ",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:191218:part:1:article:19",
+                "number": "19",
+                "title": "Trách nhiệm bảo đảm cung cấp thủ tục hành chính trên môi trường điện tử",
+                "content": "Điều 19. Trách nhiệm bảo đảm cung cấp thủ tục hành chính trên môi trường điện tử",
+                "clauses": [
+                  {
+                    "clause_id": "doc:191218:part:1:article:19:clause:1",
+                    "number": "1",
+                    "content": "1. Bộ, cơ quan ngang bộ, Bảo hiểm xã hội Việt Nam\nxây dựng và cung cấp thủ tục hành chính được thực hiện trên môi trường điện tử đối với:",
+                    "points": [
+                      {
+                        "point_id": "doc:191218:part:1:article:19:clause:1:point:1",
+                        "label": "a",
+                        "content": "a) Thủ tục hành chính thuộc phạm vi giải quyết của\nbộ, cơ quan;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:191218:part:1:article:19:clause:1:point:2",
+                        "label": "b",
+                        "content": "b) Thủ tục hành chính được cấp có thẩm quyền giao\nxây dựng giải pháp cung cấp tập trung trên toàn quốc;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:191218:part:1:article:19:clause:1:point:3",
+                        "label": "c",
+                        "content": "c) Nhóm thủ tục hành chính có liên quan đến nhau\nthuộc lĩnh vực quản lý nhà nước của nhiều bộ, cơ quan.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:191218:part:1:article:19:clause:2",
+                    "number": "2",
+                    "content": "2. Ủy ban nhân dân tỉnh, thành phố trực thuộc trung\nương xây dựng và thực hiện giải pháp bảo đảm phương thức thực hiện thủ tục hành chính trên môi trường điện tử đối với thủ tục hành chính thuộc phạm vi giải quyết của địa phương, trừ những thủ tục hành chính được nêu tại khoản 1 Điều này.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:191218:part:1:article:20",
+                "number": "20",
+                "title": "Nội dung kiểm soát việc cung cấp thủ tục hành chính trên môi trường điện tử",
+                "content": "Điều 20. Nội dung kiểm soát việc cung cấp thủ tục hành chính trên môi trường điện tử",
+                "clauses": [
+                  {
+                    "clause_id": "doc:191218:part:1:article:20:clause:1",
+                    "number": "1",
+                    "content": "1. Cung cấp thủ tục hành chính trên môi trường điện\ntử được kiểm soát về nghiệp vụ và về kỹ thuật trong quá trình xây dựng và vận hành.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:191218:part:1:article:20:clause:2",
+                    "number": "2",
+                    "content": "2. Việc kiểm soát về nghiệp vụ bao gồm đánh giá về\nsự cần thiết, tính hợp lý, hợp pháp, hiệu quả trong quá trình lựa chọn thủ tục, mức độ bảo đảm về danh tính, xác thực điện tử đối với thủ tục, tổ chức các giải pháp thực hiện thủ tục hành chính trên môi trường điện tử và trong quá trình rà soát việc cung cấp thủ tục hành chính trên môi trường điện tử.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:191218:part:1:article:20:clause:3",
+                    "number": "3",
+                    "content": "3. Việc kiểm soát về kỹ thuật bao gồm đánh giá theo\ncác tiêu chuẩn về thiết kế hệ thống; kết nối, chia sẻ dữ liệu; bảo đảm an toàn thông tin, toàn vẹn dữ liệu; thời gian phản hồi của hệ thống; khả năng lưu trữ dữ liệu; thời gian xử lý, khắc phục lỗi; mức độ thân thiện của giao diện người dùng.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:191218:part:1:article:21",
+                "number": "21",
+                "title": "Lựa chọn nhóm thủ tục hành chính và thủ tục hành chính để thực hiện trên môi trường điện tử Các thủ tục hành chính, nhóm thủ tục hành chính được ưu tiên thực hiện trên môi trường điện tử nếu đáp ứng ít nhất một loại tiêu chí dưới đây:",
+                "content": "Điều 21. Lựa chọn nhóm thủ tục hành chính và thủ tục hành chính để thực hiện trên môi trường điện tử Các thủ tục hành chính, nhóm thủ tục hành chính được ưu tiên thực hiện trên môi trường điện tử nếu đáp ứng ít nhất một loại tiêu chí dưới đây:",
+                "clauses": [
+                  {
+                    "clause_id": "doc:191218:part:1:article:21:clause:1",
+                    "number": "1",
+                    "content": "1. Những thủ tục hành chính có số lượng hồ sơ phát\nsinh nhiều, tần suất giao dịch lớn;",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:191218:part:1:article:21:clause:2",
+                    "number": "2",
+                    "content": "2. Thủ tục hành chính có các thành phần hồ sơ, dữ\nliệu đầu vào đã được cơ quan nhà nước số hóa và sẵn sàng cho việc kết nối, chia sẻ;",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:191218:part:1:article:21:clause:3",
+                    "number": "3",
+                    "content": "3. Thủ tục hành chính có nhiều thành phần hồ sơ,\ndung lượng hồ sơ điện tử thực hiện thủ tục hành chính lớn;",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:191218:part:1:article:21:clause:4",
+                    "number": "4",
+                    "content": "4. Nhóm thủ tục hành chính có liên quan đến nhau\nthuộc thẩm quyền giải quyết của nhiều bộ, cơ quan ngang bộ, địa phương;",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:191218:part:1:article:21:clause:5",
+                    "number": "5",
+                    "content": "5. Nhóm thủ tục hành chính liên quan đến thẩm quyền\ngiải quyết của nhiều đơn vị trong bộ, cơ quan ngang bộ, địa phương;",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:191218:part:1:article:21:clause:6",
+                    "number": "6",
+                    "content": "6. Thủ tục hành chính, nhóm thủ tục hành chính ưu\ntiên triển khai trên môi trường điện tử theo chỉ đạo của Chính phủ, Thủ tướng Chính phủ.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:191218:part:1:article:22",
+                "number": "22",
+                "title": "Lập danh mục thủ tục hành chính ưu tiên thực hiện trên môi trường điện tử",
+                "content": "Điều 22. Lập danh mục thủ tục hành chính ưu tiên thực hiện trên môi trường điện tử",
+                "clauses": [
+                  {
+                    "clause_id": "doc:191218:part:1:article:22:clause:1",
+                    "number": "1",
+                    "content": "1. Hàng năm, cơ quan, đơn vị chuyên môn phối hợp với\ncơ quan, đơn vị có chức năng kiểm soát thủ tục hành chính của bộ, cơ quan ngang bộ, Bảo hiểm xã hội Việt Nam, Ủy ban nhân dân cấp tỉnh rà soát thủ tục hành chính thuộc trách nhiệm quy định tại Điều 19 và các tiêu chí lựa chọn quy định tại Điều 21 Nghị định này, đề xuất danh mục thủ tục hành chính ưu tiên thực hiện trên môi trường điện tử, lấy ý kiến các cơ quan, đơn vị liên quan, đối tượng chịu tác động và trình Bộ trưởng, Thủ trưởng cơ quan, Chủ tịch Ủy ban nhân dân cấp tỉnh xem xét, ra quyết định, trong đó xác định rõ thời gian, lộ trình thực hiện và việc xây dựng, vận hành, khai thác.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:191218:part:1:article:22:clause:2",
+                    "number": "2",
+                    "content": "2. Văn phòng Chính phủ chủ trì, phối hợp với các bộ,\ncơ quan, Ủy ban nhân dân cấp tỉnh rà soát và tham mưu cho Chính phủ, Thủ tướng Chính phủ ban hành Danh mục những thủ tục hành chính, nhóm thủ tục hành chính thuộc thẩm quyền quản lý của nhiều bộ, cơ quan ngang bộ; thuộc thẩm quyền giải quyết của cả bộ và địa phương ưu tiên thực hiện.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:191218:part:1:article:23",
+                "number": "23",
+                "title": "Quy trình tổ chức xây dựng và thực hiện giải pháp bảo đảm phương thức thực hiện thủ tục hành chính trên môi trường điện tử",
+                "content": "Điều 23. Quy trình tổ chức xây dựng và thực hiện giải pháp bảo đảm phương thức thực hiện thủ tục hành chính trên môi trường điện tử",
+                "clauses": [
+                  {
+                    "clause_id": "doc:191218:part:1:article:23:clause:1",
+                    "number": "1",
+                    "content": "1. Cơ quan, đơn vị có chức năng kiểm soát thủ tục\nhành chính phối hợp cơ quan, đơn vị chuyên môn của bộ, cơ quan ngang bộ, Bảo hiểm xã hội Việt Nam, Ủy ban nhân dân cấp tỉnh rà soát các nhóm thủ tục hành chính liên thông, thủ tục hành chính thuộc danh mục ưu tiên thực hiện đã được phê duyệt; đơn giản hóa thành phần hồ sơ thông qua đánh giá các nguồn dữ liệu đã có và mức độ sẵn sàng tích hợp, cung cấp thông tin trong quá trình giải quyết thủ tục hành chính trên môi trường điện tử qua các giải pháp:",
+                    "points": [
+                      {
+                        "point_id": "doc:191218:part:1:article:23:clause:1:point:1",
+                        "label": "a",
+                        "content": "a) Bổ sung vào biểu mẫu điện tử các thông tin trong\nnhững thành phần hồ sơ có thể kiểm tra, xác thực được thông tin do đã tích hợp, chia sẻ dữ liệu giữa các hệ thống thông tin, cơ sở dữ liệu. Đối với những thành phần hồ sơ loại này không yêu cầu tổ chức, cá nhân nộp, đăng tải hoặc dẫn nguồn;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:191218:part:1:article:23:clause:1:point:2",
+                        "label": "b",
+                        "content": "b) Yêu cầu tổ chức, cá nhân đăng tải bản điện tử, bản\nsao điện tử có giá trị pháp lý do cơ quan có thẩm quyền cấp hoặc dẫn nguồn tài liệu đối với các giấy tờ, tài liệu kết quả giải quyết thủ tục hành chính trước đó;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:191218:part:1:article:23:clause:1:point:3",
+                        "label": "c",
+                        "content": "c) Yêu cầu tổ chức, cá nhân đăng tải bản điện tử\nphù hợp quy chuẩn đối với các giấy tờ, tài liệu không phải kết quả giải quyết thủ tục hành chính do cơ quan nhà nước có thẩm quyền cấp và chịu trách nhiệm về tính chính xác của giấy tờ, tài liệu do tổ chức, cá nhân đăng tải.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:191218:part:1:article:23:clause:2",
+                    "number": "2",
+                    "content": "2. Đơn giản hóa quy trình, thời gian thực hiện và\ncác bộ phận cấu thành khác của thủ tục hành chính trên cơ sở ứng dụng công nghệ thông tin trong quá trình tiếp nhận, giải quyết hồ sơ thủ tục hành chính.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:191218:part:1:article:23:clause:3",
+                    "number": "3",
+                    "content": "3. Xác định giải pháp nghiệp vụ giải quyết thủ tục\nhành chính; giải pháp định danh, mức độ bảo đảm an toàn của các phương thức xác thực điện tử; giải pháp tích hợp, chia sẻ, khai thác thông tin với các nguồn dữ liệu, dịch vụ công có liên quan và các giải pháp kỹ thuật khác.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:191218:part:1:article:23:clause:4",
+                    "number": "4",
+                    "content": "4. Trên cơ sở các phương án đơn giản hóa và các giải\npháp được nêu tại khoản 1, 2 của Điều này, người đứng đầu bộ, cơ quan ngang bộ, Ủy ban nhân dân cấp tỉnh chỉ đạo việc cung cấp thủ tục hành chính trên môi trường điện tử đáp ứng các tiêu chuẩn kỹ thuật về giao diện, truy cập, tương tác, kết nối, chia sẻ dữ liệu, lưu trữ, bảo mật theo quy định.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:191218:part:1:article:23:clause:5",
+                    "number": "5",
+                    "content": "5. Dịch vụ được chạy thử nghiệm trong 02 tháng và\nhoàn thiện trước khi vận hành chính thức trên Cổng dịch vụ công cấp bộ, cấp tỉnh và Cổng dịch vụ công quốc gia.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:191218:part:1:article:24",
+                "number": "24",
+                "title": "Rà soát, đánh giá việc cung cấp thủ tục hành chính trên môi trường điện tử",
+                "content": "Điều 24. Rà soát, đánh giá việc cung cấp thủ tục hành chính trên môi trường điện tử",
+                "clauses": [
+                  {
+                    "clause_id": "doc:191218:part:1:article:24:clause:1",
+                    "number": "1",
+                    "content": "1. Cơ quan có trách nhiệm rà soát, đánh giá việc\ncung cấp thủ tục hành chính trên môi trường điện tử là cơ quan có trách nhiệm bảo đảm điều kiện thực hiện thủ tục hành chính trên môi trường điện tử theo quy định tại Điều 19 Nghị định này.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:191218:part:1:article:24:clause:2",
+                    "number": "2",
+                    "content": "2. Cơ quan, đơn vị có chức năng kiểm soát thủ tục\nhành chính phối hợp cơ quan, đơn vị chuyên môn của bộ, cơ quan ngang bộ, Bảo hiểm xã hội Việt Nam, Ủy ban nhân dân cấp tỉnh lập danh mục rà soát, đánh giá các thủ tục hành chính đang thực hiện trên môi trường điện tử dựa trên một trong các căn cứ sau:",
+                    "points": [
+                      {
+                        "point_id": "doc:191218:part:1:article:24:clause:2:point:1",
+                        "label": "a",
+                        "content": "a) Chỉ đạo của Chính phủ, Thủ tướng Chính phủ;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:191218:part:1:article:24:clause:2:point:2",
+                        "label": "b",
+                        "content": "b) Quyết định của Bộ trưởng, Thủ trưởng cơ quan\nngang bộ, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:191218:part:1:article:24:clause:2:point:3",
+                        "label": "c",
+                        "content": "c) Phản ánh, kiến nghị, kết quả đánh giá của cá\nnhân, tổ chức về thủ tục hành chính được cung cấp trên môi trường điện tử.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:191218:part:1:article:24:clause:3",
+                    "number": "3",
+                    "content": "3. Văn phòng Chính phủ chịu trách nhiệm rà soát,\nđánh giá độc lập việc cung cấp thủ tục hành chính trên môi trường điện tử trong các trường hợp sau đây:",
+                    "points": [
+                      {
+                        "point_id": "doc:191218:part:1:article:24:clause:3:point:1",
+                        "label": "a",
+                        "content": "a) Theo chỉ đạo của Chính phủ, Thủ tướng Chính phủ;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:191218:part:1:article:24:clause:3:point:2",
+                        "label": "b",
+                        "content": "b) Nhóm thủ tục hành chính có liên quan đến nhau\nthuộc thẩm quyền giải quyết của nhiều bộ, cơ quan ngang bộ, địa phương;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:191218:part:1:article:24:clause:3:point:3",
+                        "label": "c",
+                        "content": "c) Thủ tục hành chính được tích hợp, cung cấp trên\nCổng dịch vụ công quốc gia có nhiều phản ánh, kiến nghị, đánh giá của tổ chức, cá nhân còn rườm rà, khó thực hiện, gây cản trở hoạt động sản xuất, kinh doanh của tổ chức kinh tế và đời sống của nhân dân.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:191218:part:1:article:24:clause:4",
+                    "number": "4",
+                    "content": "4. Rà soát, đánh giá cung cấp thủ tục hành chính\ntrên môi trường điện tử bao gồm rà soát, đánh giá về thủ tục hành chính theo quy định về kiểm soát thủ tục hành chính và đánh giá các giải pháp bảo đảm phương thức thực hiện thủ tục hành chính điện tử.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:191218:part:1:article:24:clause:5",
+                    "number": "5",
+                    "content": "5. Kết quả rà soát, đánh giá là cơ sở để Bộ trưởng,\nThủ trưởng cơ quan ngang bộ, Chủ tịch Ủy ban nhân dân cấp tỉnh chỉ đạo nâng cấp chất lượng cung cấp thủ tục hành chính trên môi trường điện tử.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:191218:part:1:article:25",
+                "number": "25",
+                "title": "Số hóa kết quả giải quyết thủ tục hành chính",
+                "content": "Điều 25. Số hóa kết quả giải quyết thủ tục hành chính",
+                "clauses": [
+                  {
+                    "clause_id": "doc:191218:part:1:article:25:clause:1",
+                    "number": "1",
+                    "content": "1. Đối với kết quả giải quyết thủ tục hành chính\nđang được cơ quan có thẩm quyền quản lý, lưu trữ bằng văn bản giấy, Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Tổng Giám đốc Bảo hiểm xã hội Việt Nam, Chủ tịch Ủy ban nhân dân cấp tỉnh chỉ đạo việc số hóa kết quả giải quyết thủ tục hành chính và lưu thông tin, dữ liệu tại các hệ thống thông tin, cơ sở dữ liệu liên quan theo thẩm quyền quản lý.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:191218:part:1:article:25:clause:2",
+                    "number": "2",
+                    "content": "2. Phương thức số hóa kết quả giải quyết thủ tục\nhành chính từ giấy sang điện tử bao gồm:",
+                    "points": [
+                      {
+                        "point_id": "doc:191218:part:1:article:25:clause:2:point:1",
+                        "label": "a",
+                        "content": "a) Kết quả giải quyết thủ tục hành chính từ giấy\nsang điện tử bằng hình thức sao chụp và chuyển thành tệp tin trên hệ thống thông tin, cơ sở dữ liệu;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:191218:part:1:article:25:clause:2:point:2",
+                        "label": "b",
+                        "content": "b) Chuyển nội dung của kết quả giải quyết thủ tục\nhành chính từ giấy sang dữ liệu điện tử để lưu vào hệ thống thông tin, cơ sở dữ liệu.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:191218:part:1:article:25:clause:3",
+                    "number": "3",
+                    "content": "3. Kết quả giải quyết thủ tục hành chính được chuyển\nđổi từ bản giấy sang điện tử phải đáp ứng các yêu cầu sau:",
+                    "points": [
+                      {
+                        "point_id": "doc:191218:part:1:article:25:clause:3:point:1",
+                        "label": "a",
+                        "content": "a) Phản ánh đầy đủ nội dung của kết quả giải quyết\nthủ tục hành chính bản giấy;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:191218:part:1:article:25:clause:3:point:2",
+                        "label": "b",
+                        "content": "b) Cá nhân hoặc cơ quan, tổ chức thực hiện (hoặc chịu\ntrách nhiệm về) việc chuyển đổi từ bản giấy sang điện tử ký số trên bản điện tử sau khi được chuyển đổi từ kết quả giải quyết thủ tục hành chính giấy hoặc được xác thực bằng các biện pháp xác thực do cơ quan có thẩm quyền quyết định;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:191218:part:1:article:25:clause:3:point:3",
+                        "label": "c",
+                        "content": "c) Có ký hiệu riêng xác nhận đã được chuyển đổi từ\nbản giấy sang bản điện tử.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:191218:part:1:article:25:clause:4",
+                    "number": "4",
+                    "content": "4. Kết quả giải quyết thủ tục hành chính bản điện tử\nđược chuyển đổi từ văn bản giấy có giá trị như văn bản giấy trừ trường hợp pháp luật chuyên ngành có quy định khác.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:191218:part:1:chapter:4",
+            "number": "IV",
+            "title": "NHIỆM VỤ CỦA CÁC BỘ, CƠ QUAN, ĐỊA PHƯƠNG",
+            "content": "Chương IV\nNHIỆM VỤ CỦA CÁC BỘ, CƠ\nQUAN, ĐỊA PHƯƠNG",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:191218:part:1:article:26",
+                "number": "26",
+                "title": "Nhiệm vụ của Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Tổng Giám đốc Bảo hiểm xã hội Việt Nam",
+                "content": "Điều 26. Nhiệm vụ của Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Tổng Giám đốc Bảo hiểm xã hội Việt Nam",
+                "clauses": [
+                  {
+                    "clause_id": "doc:191218:part:1:article:26:clause:1",
+                    "number": "1",
+                    "content": "1. Chỉ đạo xây dựng và thực hiện giải pháp bảo đảm điều\nkiện thực hiện thủ tục hành chính trên môi trường điện tử thuộc thẩm quyền quản lý của bộ, ngành mình theo quy định tại khoản 1 Điều 19 Nghị định này.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:191218:part:1:article:26:clause:2",
+                    "number": "2",
+                    "content": "2. Ban hành kế hoạch và chỉ đạo\nviệc số hóa kết quả giải quyết thủ tục hành chính còn hiệu lực thuộc thẩm quyền giải quyết để đảm bảo việc kết nối chia sẻ dữ liệu trong giải quyết thủ tục hành chính trên môi trường điện tử, hoàn thành trước ngày 31 tháng 12 năm 2025.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:191218:part:1:article:26:clause:3",
+                    "number": "3",
+                    "content": "3. Công khai danh mục và tổ chức việc tiếp nhận, giải\nquyết thủ tục hành chính trên môi trường điện tử thuộc thẩm quyền giải quyết của bộ, cơ quan ngang bộ trên Cổng dịch vụ công của bộ, cơ quan.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:191218:part:1:article:26:clause:4",
+                    "number": "4",
+                    "content": "4. Chỉ đạo việc quản lý, bảo vệ, định kỳ kiểm tra,\nrà soát, tăng cường các biện pháp bảo đảm an toàn, an ninh thông tin đối với Cổng dịch vụ công, Hệ thống thông tin một cửa cấp bộ, bảo đảm hoạt động tin cậy, liên tục, an toàn, kịp thời khắc phục sự cố của hệ thống khi thực hiện thủ tục hành chính trên môi trường điện tử.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:191218:part:1:article:26:clause:5",
+                    "number": "5",
+                    "content": "5. Thanh tra, kiểm tra hoạt động thực hiện thủ tục\nhành chính trên môi trường điện tử thuộc ngành, lĩnh vực được phân công theo quy định của pháp luật.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:191218:part:1:article:26:clause:6",
+                    "number": "6",
+                    "content": "6. Chỉ đạo tổ chức đánh giá chất lượng đối với\nphương thức thực hiện thủ tục hành chính trên môi trường điện tử do mình cung cấp và do địa phương cung cấp thuộc thẩm quyền quản lý của bộ, ngành.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:191218:part:1:article:26:clause:7",
+                    "number": "7",
+                    "content": "7. Ban hành kế hoạch truyền thông về việc thực hiện\nthủ tục hành chính trên môi trường điện tử để thu hút tổ chức, cá nhân khai thác, sử dụng thủ tục hành chính trên môi trường điện tử đảm bảo hiệu quả.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:191218:part:1:article:26:clause:8",
+                    "number": "8",
+                    "content": "8. Có hình thức khen thưởng và xử lý phù hợp đối với\ntập thể, cá nhân trong quá trình thực hiện nhiệm vụ được giao theo thẩm quyền.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:191218:part:1:article:26:clause:9",
+                    "number": "9",
+                    "content": "9. Định kỳ 6 tháng trước ngày 15 tháng 6 và ngày 15\ntháng 12 hàng năm báo cáo Thủ tướng Chính phủ về tình hình, kết quả thực hiện Nghị định này theo hướng dẫn của Văn phòng Chính phủ.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:191218:part:1:article:27",
+                "number": "27",
+                "title": "Trách nhiệm của Chủ tịch Ủy ban nhân dân cấp tỉnh",
+                "content": "Điều 27. Trách nhiệm của Chủ tịch Ủy ban nhân dân cấp tỉnh",
+                "clauses": [
+                  {
+                    "clause_id": "doc:191218:part:1:article:27:clause:1",
+                    "number": "1",
+                    "content": "1. Chỉ đạo, tổ chức việc tiếp nhận, giải quyết thủ\ntục hành chính trên môi trường điện tử thuộc thẩm quyền giải quyết của địa phương trên Cổng dịch vụ công cấp tỉnh phù hợp quy định tại khoản 2 Điều 19 Nghị định này.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:191218:part:1:article:27:clause:2",
+                    "number": "2",
+                    "content": "2. Tổ chức đánh giá chất lượng đối với phương thức\nthực hiện thủ tục hành chính trên môi trường điện tử do địa phương cung cấp.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:191218:part:1:article:27:clause:3",
+                    "number": "3",
+                    "content": "3. Ban hành kế hoạch và chỉ đạo việc số hóa kết quả\ngiải quyết thủ tục hành chính còn hiệu lực, thuộc thẩm quyền giải quyết để đảm bảo việc kết nối chia sẻ dữ liệu trong giải quyết thủ tục hành chính trên môi trường điện tử, hoàn thành trước ngày 31 tháng 12 năm 2025.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:191218:part:1:article:27:clause:4",
+                    "number": "4",
+                    "content": "4. Công khai danh mục và tổ chức việc tiếp nhận, giải\nquyết thủ tục hành chính trên môi trường điện tử thuộc thẩm quyền giải quyết của địa phương trên Cổng dịch vụ công cấp tỉnh.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:191218:part:1:article:27:clause:5",
+                    "number": "5",
+                    "content": "5. Chỉ đạo việc quản lý, bảo vệ, định kỳ kiểm tra,\nrà soát, tăng cường các biện pháp bảo đảm an toàn, an ninh thông tin đối với Cổng dịch vụ công, Hệ thống thông tin một cửa cấp tỉnh, bảo đảm hoạt động tin cậy, liên tục, an toàn, kịp thời khắc phục sự cố của hệ thống khi thực hiện thủ tục hành chính trên môi trường điện tử.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:191218:part:1:article:27:clause:6",
+                    "number": "6",
+                    "content": "6. Ban hành kế hoạch truyền thông về việc thực hiện\nthủ tục hành chính trên môi trường điện tử để thu hút tổ chức, cá nhân khai thác, sử dụng thủ tục hành chính trên môi trường điện tử đảm bảo hiệu quả.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:191218:part:1:article:27:clause:7",
+                    "number": "7",
+                    "content": "7. Có hình thức khen thưởng và xử lý phù hợp đối với\ntập thể, cá nhân trong quá trình thực hiện nhiệm vụ được giao theo thẩm quyền.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:191218:part:1:article:27:clause:8",
+                    "number": "8",
+                    "content": "8. Định kỳ 6 tháng trước ngày 15 tháng 6 và ngày 15\ntháng 12 hàng năm báo cáo Thủ tướng Chính phủ về tình hình, kết quả thực hiện Nghị định này theo hướng dẫn của Văn phòng Chính phủ.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:191218:part:1:article:28",
+                "number": "28",
+                "title": "Văn phòng Chính phủ Ngoài thực hiện nhiệm vụ được giao tại khoản 2 Điều 22, khoản 3 Điều 24 Nghị định này, thực hiện các nhiệm vụ sau:",
+                "content": "Điều 28. Văn phòng Chính phủ Ngoài thực hiện nhiệm vụ được giao tại khoản 2 Điều 22, khoản 3 Điều 24 Nghị định này, thực hiện các nhiệm vụ sau:",
+                "clauses": [
+                  {
+                    "clause_id": "doc:191218:part:1:article:28:clause:1",
+                    "number": "1",
+                    "content": "1. Quy định chi tiết tiêu chí đánh giá chất lượng đối\nvới phương thức thực hiện thủ tục hành chính trên môi trường điện tử do bộ, cơ quan ngang bộ, địa phương cung cấp.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:191218:part:1:article:28:clause:2",
+                    "number": "2",
+                    "content": "2. Hướng dẫn các thông tin, dữ liệu cần tích hợp,\nchia sẻ, đồng bộ để phục vụ thanh toán trực tuyến nghĩa vụ tài chính trong giải quyết thủ tục hành chính trên Cổng dịch vụ công quốc gia.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:191218:part:1:article:28:clause:3",
+                    "number": "3",
+                    "content": "3. Đánh giá mức độ hiệu quả, thuận tiện của việc\nxây dựng và thực hiện thủ tục hành chính trên môi trường điện tử do bộ, cơ quan ngang bộ, địa phương cung cấp và tích hợp dịch vụ trên Cổng dịch vụ công quốc gia.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:191218:part:1:article:28:clause:4",
+                    "number": "4",
+                    "content": "4. Phối hợp với Bộ Thông tin và Truyền thông, Bộ\nCông an, Bộ Quốc phòng, Ban Cơ yếu Chính phủ bảo đảm an toàn, an ninh thông tin Cổng dịch vụ công quốc gia.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:191218:part:1:article:29",
+                "number": "29",
+                "title": "Bộ Thông tin và Truyền thông",
+                "content": "Điều 29. Bộ Thông tin và Truyền thông",
+                "clauses": [
+                  {
+                    "clause_id": "doc:191218:part:1:article:29:clause:1",
+                    "number": "1",
+                    "content": "1. Hướng dẫn việc giám sát, đánh giá hiệu quả, mức\nđộ sử dụng dịch vụ công trực tuyến.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:191218:part:1:article:29:clause:2",
+                    "number": "2",
+                    "content": "2. Hướng dẫn, hỗ trợ việc triển khai tích hợp chữ\nký số công cộng trong quá trình thực hiện dịch vụ công trực tuyến.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:191218:part:1:article:30",
+                "number": "30",
+                "title": "Ban Cơ yếu Chính phủ",
+                "content": "Điều 30. Ban Cơ yếu Chính phủ",
+                "clauses": [
+                  {
+                    "clause_id": "doc:191218:part:1:article:30:clause:1",
+                    "number": "1",
+                    "content": "1. Cung cấp chứng thư số, dịch vụ chứng thực chữ ký\nsố chuyên dùng Chính phủ cho các cơ quan, tổ chức nhà nước có thẩm quyền tiếp nhận, giải quyết thủ tục hành chính.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:191218:part:1:article:30:clause:2",
+                    "number": "2",
+                    "content": "2. Hướng dẫn, hỗ trợ các cơ quan, tổ chức nhà nước\ntriển khai tích hợp chữ ký số, dịch vụ chứng thực chữ ký số chuyên dùng Chính phủ trong giải quyết thủ tục hành chính trên môi trường điện tử.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:191218:part:1:chapter:5",
+            "number": "V",
+            "title": "ĐIỀU KHOẢN THI HÀNH",
+            "content": "Chương V\nĐIỀU KHOẢN THI HÀNH",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:191218:part:1:article:31",
+                "number": "31",
+                "title": "Hiệu lực thi hành",
+                "content": "Điều 31. Hiệu lực thi hành",
+                "clauses": [
+                  {
+                    "clause_id": "doc:191218:part:1:article:31:clause:1",
+                    "number": "1",
+                    "content": "1. Nghị định này có hiệu lực thi hành từ ngày 22\ntháng 5 năm 2020.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:191218:part:1:article:31:clause:2",
+                    "number": "2",
+                    "content": "2. Bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ, Ủy\nban nhân dân tỉnh, thành phố trực thuộc trung ương rà soát, điều chỉnh, nâng cấp, hoàn thiện các thủ tục hành chính đã được cung cấp trên môi trường điện tử để đáp ứng các quy định tại Nghị định này trước ngày 31 tháng 12 năm 2020.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:191218:part:1:article:32",
+                "number": "32",
+                "title": "Trách nhiệm thi hành",
+                "content": "Điều 32. Trách nhiệm thi hành",
+                "clauses": [
+                  {
+                    "clause_id": "doc:191218:part:1:article:32:clause:1",
+                    "number": "1",
+                    "content": "1. Văn phòng Chính phủ chủ trì, phối hợp với Bộ Nội\nvụ, Bộ Tư pháp, Bộ Thông tin và Truyền thông hướng dẫn, đôn đốc, kiểm tra việc thực hiện Nghị định này; kịp thời báo cáo Thủ tướng Chính phủ chỉ đạo tháo gỡ vướng mắc trong quá trình thực hiện.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:191218:part:1:article:32:clause:2",
+                    "number": "2",
+                    "content": "2. Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Thủ trưởng\ncơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương và các cơ quan, tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Nghị định này./.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          }
+        ],
+        "sections": [],
+        "articles": [],
+        "unstructured_blocks": []
+      }
+    ]
+  },
+  "issues": [],
+  "status": "ok",
+  "source_hash": "context_191218.json",
+  "stats": {
+    "source_chars": 49976,
+    "passage_chars": 49828,
+    "parts": 1,
+    "chapters": 5,
+    "sections": 0,
+    "articles": 32,
+    "clauses": 123,
+    "points": 75
+  }
+}

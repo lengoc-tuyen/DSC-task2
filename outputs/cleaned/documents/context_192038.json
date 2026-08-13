@@ -1,0 +1,1197 @@
+{
+  "schema_version": "2.0",
+  "document_id": 192038,
+  "metadata": {
+    "name": "Quyet-dinh-2449-QD-BTC-Quy-che-cong-tac-luu-tru-2016-330523",
+    "link": "https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-2449-QD-BTC-Quy-che-cong-tac-luu-tru-2016-330523.aspx",
+    "issuing_agency": "BỘ TÀI CHÍNH",
+    "national_header": "CỘNG\r\n\n  HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM",
+    "motto": "Độc lập - Tự do - Hạnh phúc",
+    "document_number": "2449/QĐ-BTC",
+    "issued_place": "Hà Nội",
+    "issued_date": "ngày 11 tháng 11 năm 2016",
+    "document_type": "QUYẾT ĐỊNH",
+    "title": "BAN HÀNH QUY CHẾ CÔNG TÁC LƯU TRỮ CỦA BỘ TÀI CHÍNH"
+  },
+  "administrative_header": {
+    "removed": true,
+    "removed_char_count": 149
+  },
+  "preamble": {
+    "text": "QUYẾT ĐỊNH BAN\nHÀNH QUY CHẾ CÔNG TÁC LƯU TRỮ CỦA BỘ TÀI CHÍNH\nBỘ TRƯỞNG BỘ TÀI CHÍNH\nCăn cứ Luật lưu trữ số 01/2011/QH13 ngày 11/11/2011; Căn cứ Nghị định số 01/2013/NĐ-CP ngày 03/01/2013 của Chính phủ quy định chi tiết thi hành một số điều của Luật lưu trữ; Căn cứ Nghị định số 215/2013/NĐ-CP ngày 23/12/2013 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài chính; Căn cứ Thông tư số 06/2015/TT-BNV ngày 08/12/2015 của Bộ Nội vụ hướng dẫn chức năng, nhiệm vụ, quyền hạn và tổ chức của tổ chức văn thư, lưu trữ Bộ, cơ quan ngang Bộ; Căn cứ Thông tư số 09/2007/TT-BNV ngày 26/11/2007 của Bộ Nội vụ hướng dẫn về kho lưu trữ chuyên dụng; Căn cứ Thông tư số 07/2012/TT-BNV ngày 22/11/2012 của Bộ Nội vụ hướng dẫn quản lý văn bản, lập hồ sơ và nộp lưu hồ sơ tài liệu vào lưu trữ cơ quan; Căn cứ Thông tư số 04/2013/TT-BNV ngày 16/4/2013 của Bộ Nội vụ hướng dẫn xây dựng quy chế công tác văn thư, lưu trữ của các cơ quan, tổ chức; Căn cứ Thông tư số 09/2013/TT-BNV ngày 31/10/2013 của Bộ Nội vụ về quy định chế độ báo cáo thống kê công tác lưu trữ và tài liệu lưu trữ; Căn cứ Thông tư số 155/2013/TT-BTC ngày 06/11/2013 của Bộ Tài chính quy định về thời hạn bảo quản, hồ sơ, tài liệu hình thành phổ biến trong hoạt động của ngành Tài chính; Căn cứ Thông tư số 16/2014/TT-BNV ngày 20/11/2014 của Bộ Nội vụ hướng dẫn giao, nhận tài liệu lưu trữ vào lịch sử các cấp; Căn cứ Thông tư số 17/2014/TT-BNV ngày 20/11/2014 của Bộ Nội vụ hướng dẫn xác định cơ quan, tổ chức thuộc nguồn nộp lưu tài liệu vào lưu trữ lịch sử các cấp; Căn cứ Thông tư số 161/2014/TT-BTC ngày 31/10/2014 của Bộ Tài chính quy định công tác bảo vệ bí mật nhà nước của ngành Tài chính; Theo đề nghị của Chánh Văn phòng Bộ Tài chính,\nQUYẾT ĐỊNH:",
+    "legal_bases": [
+      "Căn cứ Nghị định số 01/2013/NĐ-CP ngày 03/01/2013 của Chính phủ quy định chi tiết thi hành một số điều của Luật lưu trữ",
+      "Căn cứ Nghị định số 215/2013/NĐ-CP ngày 23/12/2013 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài chính",
+      "Căn cứ Thông tư số 06/2015/TT-BNV ngày 08/12/2015 của Bộ Nội vụ hướng dẫn chức năng, nhiệm vụ, quyền hạn và tổ chức của tổ chức văn thư, lưu trữ Bộ, cơ quan ngang Bộ",
+      "Căn cứ Thông tư số 09/2007/TT-BNV ngày 26/11/2007 của Bộ Nội vụ hướng dẫn về kho lưu trữ chuyên dụng",
+      "Căn cứ Thông tư số 07/2012/TT-BNV ngày 22/11/2012 của Bộ Nội vụ hướng dẫn quản lý văn bản, lập hồ sơ và nộp lưu hồ sơ tài liệu vào lưu trữ cơ quan",
+      "Căn cứ Thông tư số 04/2013/TT-BNV ngày 16/4/2013 của Bộ Nội vụ hướng dẫn xây dựng quy chế công tác văn thư, lưu trữ của các cơ quan, tổ chức",
+      "Căn cứ Thông tư số 09/2013/TT-BNV ngày 31/10/2013 của Bộ Nội vụ về quy định chế độ báo cáo thống kê công tác lưu trữ và tài liệu lưu trữ",
+      "Căn cứ Thông tư số 155/2013/TT-BTC ngày 06/11/2013 của Bộ Tài chính quy định về thời hạn bảo quản, hồ sơ, tài liệu hình thành phổ biến trong hoạt động của ngành Tài chính",
+      "Căn cứ Thông tư số 16/2014/TT-BNV ngày 20/11/2014 của Bộ Nội vụ hướng dẫn giao, nhận tài liệu lưu trữ vào lịch sử các cấp",
+      "Căn cứ Thông tư số 17/2014/TT-BNV ngày 20/11/2014 của Bộ Nội vụ hướng dẫn xác định cơ quan, tổ chức thuộc nguồn nộp lưu tài liệu vào lưu trữ lịch sử các cấp",
+      "Căn cứ Thông tư số 161/2014/TT-BTC ngày 31/10/2014 của Bộ Tài chính quy định công tác bảo vệ bí mật nhà nước của ngành Tài chính"
+    ],
+    "proposals": [
+      "Theo đề nghị của Chánh Văn phòng Bộ Tài chính,\nQUYẾT ĐỊNH:"
+    ],
+    "enactment_formula": "QUYẾT ĐỊNH:"
+  },
+  "passage": "QUYẾT ĐỊNH BAN\nHÀNH QUY CHẾ CÔNG TÁC LƯU TRỮ CỦA BỘ TÀI CHÍNH\nBỘ TRƯỞNG BỘ TÀI CHÍNH\nCăn cứ Luật lưu trữ số 01/2011/QH13 ngày 11/11/2011; Căn cứ Nghị định số 01/2013/NĐ-CP ngày 03/01/2013 của Chính phủ quy định chi tiết thi hành một số điều của Luật lưu trữ; Căn cứ Nghị định số 215/2013/NĐ-CP ngày 23/12/2013 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài chính; Căn cứ Thông tư số 06/2015/TT-BNV ngày 08/12/2015 của Bộ Nội vụ hướng dẫn chức năng, nhiệm vụ, quyền hạn và tổ chức của tổ chức văn thư, lưu trữ Bộ, cơ quan ngang Bộ; Căn cứ Thông tư số 09/2007/TT-BNV ngày 26/11/2007 của Bộ Nội vụ hướng dẫn về kho lưu trữ chuyên dụng; Căn cứ Thông tư số 07/2012/TT-BNV ngày 22/11/2012 của Bộ Nội vụ hướng dẫn quản lý văn bản, lập hồ sơ và nộp lưu hồ sơ tài liệu vào lưu trữ cơ quan; Căn cứ Thông tư số 04/2013/TT-BNV ngày 16/4/2013 của Bộ Nội vụ hướng dẫn xây dựng quy chế công tác văn thư, lưu trữ của các cơ quan, tổ chức; Căn cứ Thông tư số 09/2013/TT-BNV ngày 31/10/2013 của Bộ Nội vụ về quy định chế độ báo cáo thống kê công tác lưu trữ và tài liệu lưu trữ; Căn cứ Thông tư số 155/2013/TT-BTC ngày 06/11/2013 của Bộ Tài chính quy định về thời hạn bảo quản, hồ sơ, tài liệu hình thành phổ biến trong hoạt động của ngành Tài chính; Căn cứ Thông tư số 16/2014/TT-BNV ngày 20/11/2014 của Bộ Nội vụ hướng dẫn giao, nhận tài liệu lưu trữ vào lịch sử các cấp; Căn cứ Thông tư số 17/2014/TT-BNV ngày 20/11/2014 của Bộ Nội vụ hướng dẫn xác định cơ quan, tổ chức thuộc nguồn nộp lưu tài liệu vào lưu trữ lịch sử các cấp; Căn cứ Thông tư số 161/2014/TT-BTC ngày 31/10/2014 của Bộ Tài chính quy định công tác bảo vệ bí mật nhà nước của ngành Tài chính; Theo đề nghị của Chánh Văn phòng Bộ Tài chính,\nQUYẾT ĐỊNH:\nĐiều 1. Ban hành kèm theo Quyết định này Quy chế công tác lưu trữ của Bộ Tài chính.\nĐiều 2. Quyết định này có hiệu lực thi hành kể từ ngày ký và thay thế Quyết định số 62/QĐ-BTC của Bộ trưởng Bộ Tài chính ngày 10/01/2005 về ban hành\nQuy chế công tác lưu trữ của Bộ Tài chính\nĐiều 3. Chánh Văn phòng Bộ, Thủ trưởng các cơ quan, đơn vị và cán bộ, công chức, viên chức Bộ Tài chính chịu trách nhiệm thi hành Quyết định này./.\nNơi nhận:\n- Lãnh đạo Bộ (để b/c);\n- Như Điều 3;\n- Cục Văn thư và Lưu trữ NN;\n- Cổng thông tin điện tử BTC;\n- Lưu: VT, VP.\nKT. BỘ TRƯỞNG\nTHỨ TRƯỞNG\nVũ Thị Mai\nQUY CHẾ\nCÔNG TÁC LƯU TRỮ CỦA BỘ TÀI CHÍNH\n(Ban hành kèm theo Quyết định số\n2449/QĐ-BTC ngày 11/11/2016 của Bộ Tài chính)\nChương I\nQUY ĐỊNH CHUNG\nĐiều 1. Phạm vi điều chỉnh và đối tượng áp dụng\n1. Quy chế này, quy định các hoạt động\nvề công tác lưu trữ trong quá trình quản lý, chỉ đạo của Bộ Tài chính để thực hiện chức năng, nhiệm vụ của Bộ.\n2. Đối tượng áp dụng: Các cơ quan, tổ\nchức, đơn vị, cá nhân thuộc Bộ Tài chính.\nĐiều 2. Giải thích từ ngữ Các cụm từ gồm: Phông lưu trữ, hoạt động lưu trữ, tài liệu, tài liệu lưu trữ, lưu trữ cơ quan, lưu trữ lịch sử, hồ sơ, lập hồ sơ, lập hồ sơ điện tử, hồ sơ điện tử, thu thập tài liệu, chỉnh lý tài liệu, xác định giá trị tài liệu, được giải thích tại Điều 2, Luật lưu trữ 2011 và Điều 2 Nghị định số 01/2013/NĐ-CP ngày 03/01/2013 của Chính phủ quy định chi tiết thi hành một số điều của Luật lưu trữ.\nĐiều 3. Hệ thống Lưu trữ cơ quan thuộc Bộ Tài chính từ Trung ương đến địa phương\n1. Ở Trung ương\na) Lưu trữ cơ quan tại Bộ Tài chính là Văn phòng Bộ, có trách nhiệm quản lý toàn bộ hồ sơ, tài liệu của\nVăn phòng, Vụ, Cục, Thanh tra, các dự án thuộc cơ quan Bộ quản lý;\nb) Lưu trữ cơ quan tại các Tổng cục\ntrực thuộc Bộ (gồm: Tổng cục Thuế, Tổng cục Hải quan, Kho bạc Nhà nước, Tổng cục Dự trữ, Ủy ban Chứng khoán Nhà nước) là Văn phòng Tổng cục hoặc tương đương, có trách nhiệm quản lý toàn bộ hồ sơ, tài liệu của các Văn phòng, Vụ, Cục, Ban thuộc Tổng cục và tương đương;\nc) Lưu trữ cơ quan tại các đơn vị sự\nnghiệp, các doanh nghiệp hoặc tương đương trực thuộc Bộ là đơn vị được phân công làm công tác lưu trữ, có trách nhiệm quản lý hồ sơ tài liệu của các phòng, ban,... thuộc đơn vị trực thuộc cấp mình.\n2. Ở địa phương\na) Lưu trữ cơ quan tại các Cục và đơn\nvị tương đương thuộc hệ thống Thuế, Kho bạc, Hải quan, Dự trữ nhà nước có trách nhiệm quản lý tài liệu của các phòng, ban, bộ phận chuyên môn thuộc Cục và tương đương;\nb) Lưu trữ cơ quan tại các Chi\ncục và đơn vị tương đương thuộc hệ thống Thuế, Kho bạc, Hải quan, Dự trữ nhà nước quản lý tài liệu của các phòng, tổ, đội,... thuộc Chi cục và đơn vị tương đương.\nĐiều 4. Người làm lưu trữ Ngoài các điều kiện, tiêu chuẩn của người làm lưu trữ theo quy định tại Điều 7, Luật lưu trữ 2011, người làm lưu trữ được hưởng các chế độ, quyền lợi theo quy định của Nhà nước và của Bộ Tài chính.\nĐiều 5. Các hành vi bị nghiêm cấm\n1. Chiếm đoạt, làm hỏng, làm mất tài\nliệu lưu trữ.\n2. Làm giả, sửa chữa, làm sai lệch nội\ndung tài liệu lưu trữ.\n3. Mua bán, chuyển giao, hủy trái phép tài liệu lưu trữ.\n4. Sử dụng tài liệu lưu trữ vào mục\nđích xâm phạm lợi ích của Nhà nước, quyền và lợi ích hợp pháp của cơ quan, cá nhân.\n5. Mang tài liệu lưu trữ ra ngoài cơ\nquan và ra nước ngoài khi chưa được cấp có thẩm quyền phê duyệt.\n6. Đối với tài liệu lưu trữ điện từ\nngoài các hành vi bị nghiêm cấm nêu tại Khoản 1, 2, 3, 4, 5 điều này, nghiêm cấm truy cập, thay đổi, giả mạo, sao chép, tiết lộ, gửi, hủy trái phép tài liệu lưu trữ điện tử. Tạo ra hoặc phát tán chương trình phần mềm làm rối loạn, thay đổi, phá hoại hệ thống điều hành hoặc có hành vi khác nhằm phá hoại phương tiện quản lý tài liệu lưu trữ điện tử.\nChương II\nQUY ĐỊNH CỤ THỂ\nMục 1. GIAO NỘP HỒ SƠ, TÀI LIỆU\nVÀO LƯU TRỮ CƠ QUAN\nĐiều 6. Giao nộp hồ sơ, tài liệu vào Lưu trữ cơ quan\n1. Trách nhiệm lập hồ sơ và giao nộp\nhồ sơ, tài liệu vào Lưu trữ cơ quan\na) Thủ trưởng các cơ quan, đơn vị có\ntrách nhiệm quản lý hồ sơ, tài liệu lưu trữ của cơ quan, chỉ đạo, kiểm tra, hướng dẫn việc lập hồ sơ và giao nộp hồ sơ, tài liệu vào Lưu trữ cơ quan theo quy định;\nb) Cán bộ, công\nchức, viên chức được giao giải quyết, theo dõi công việc có trách nhiệm lập hồ sơ và giao nộp hồ sơ, tài liệu vào Lưu trữ cơ quan theo quy định tại Quy chế công tác văn thư của Bộ Tài chính ban hành kèm theo Quyết định số 1616/QĐ-BTC ngày 19/7/2016 của Bộ Tài chính và Quyết định số 1939/QĐ-BTC ngày 12/8/2011 của Bộ Tài chính quy định công tác lập hồ sơ, danh mục hồ sơ và giao nộp hồ sơ vào Lưu trữ hiện hành của Bộ Tài chính và các đơn vị thuộc Bộ;\nc) Cán bộ văn thư tại cơ quan, đơn vị\ncó trách nhiệm hướng dẫn, đôn đốc cán bộ công chức, viên chức lập hồ sơ công việc và giao nộp hồ sơ, tài liệu vào Lưu trữ cơ quan theo đúng quy định;\nd) Trường hợp nghỉ hưu, thôi việc hoặc\nchuyển công tác khác phải làm thủ tục bàn giao hồ sơ, tài liệu cho đơn vị hay người kế nhiệm. Tài liệu bàn giao phải được thống kê danh mục và lập biên bản giao nhận.\n2. Nhiệm vụ của Lưu trữ cơ quan: Hàng\nnăm cán bộ công chức, viên chức lưu trữ cơ quan có nhiệm vụ tổ chức thu thập hồ sơ, tài liệu đã đến hạn nộp lưu vào kho lưu trữ cơ quan, theo quy định sau:\na) Lập kế hoạch thu thập hồ sơ, tài\nliệu;\nb) Phối hợp với\ncác bộ phận liên quan và cán bộ công chức, viên chức xác định những loại hồ sơ, tài liệu cần nộp lưu vào Lưu trữ cơ quan;\nc) Hướng dẫn các đơn vị, cán bộ công\nchức, viên chức chuẩn bị hồ sơ, tài liệu và lập “Mục lục hồ sơ, tài liệu nộp lưu”;\nd) Chuẩn bị kho và các phương tiện bảo\nquản tiếp nhận hồ sơ, tài liệu;\ne) Tổ chức tiếp nhận hồ sơ, tài liệu, kiểm tra đối chiếu giữa Mục lục hồ sơ, tài liệu nộp lưu với\nthực tế và lập Biên bản bàn giao hồ sơ, tài liệu;\nf) Hoàn chỉnh và sắp xếp hồ sơ, tài\nliệu theo quy định.\n3. Thời hạn và thành phần hồ sơ, tài\nliệu giao nộp (bao gồm cả tài liệu lưu trữ điện tử)\na) Thời hạn nộp hồ sơ, tài liệu vào\nLưu trữ cơ quan: - Trong thời hạn 01 năm, kể từ ngày công việc kết thúc cán bộ, công chức, viên chức phải thực hiện việc giao nộp hồ sơ, tài liệu và các vật mang tin khác vào kho lưu trữ cơ quan. Riêng đối với tài liệu xây dựng cơ bản trong thời hạn 03 tháng, kể từ ngày công trình được quyết toán hoặc tất toán tài khoản dự án đầu tư. - Trường hợp đơn vị, cá nhân có nhu cầu cần giữ lại hồ sơ, tài liệu đã đến hạn nộp lưu để phục vụ công việc thì phải được người đứng đầu cơ quan, đơn vị đồng ý và phải lập danh mục hồ sơ, tài liệu giữ lại gửi cho Lưu trữ cơ quan. Thời hạn giữ lại hồ sơ, tài liệu của đơn vị, cá nhân không quá 02 năm, kể từ ngày đến hạn nộp lưu.\nb) Thành phần hồ sơ, tài liệu nộp lưu\nvào Lưu trữ cơ quan, gồm toàn bộ hồ sơ, tài liệu hình thành trong quá trình theo dõi giải quyết công việc theo chức năng, nhiệm vụ được giao (bao gồm cả những hồ sơ chưa được đề cập đến trong Danh mục hồ sơ dự kiến nhưng phát sinh trong năm đã được giao giải quyết), trừ những loại hồ sơ sau không phải giao nộp vào Lưu trữ cơ quan: - Hồ sơ nguyên tắc dưới dạng các văn bản chụp dấu đen được dùng làm căn cứ để theo dõi, giải quyết công việc thuộc trách nhiệm của mỗi cá nhân như: Luật, Nghị định, Thông tư lấy từ trên mạng. - Hồ sơ công việc chưa giải quyết xong. - Tài liệu để tham khảo.\n4. Thủ tục giao, nhận hồ sơ, tài liệu\nvào Lưu trữ cơ quan đối với tài liệu lưu trữ và vật mang tin khác\na) Trách nhiệm đối với bên giao:\n- Thống kê toàn bộ hồ sơ, tài liệu đã đến hạn giao nộp vào Mục lục hồ sơ, tài liệu nộp lưu theo mẫu Phụ lục I. Cách lập hồ sơ, thống kê Mục lục hồ sơ được quy định cụ thể tại Quyết định số 1939/QĐ-BTC ngày 12/8/2011 của Bộ Tài chính quy định về công tác lập hồ sơ, danh mục hồ sơ và giao nộp hồ sơ vào lưu trữ hiện hành của Bộ Tài chính và các đơn vị thuộc Bộ. - Vận chuyển hồ sơ, tài liệu đến kho lưu trữ của cơ quan để làm thủ tục giao nộp.\nb) Trách nhiệm đối với bên nhận:\nLưu trữ cơ quan tiến hành kiểm tra, đối chiếu thống nhất với Bên giao về các nội dung của Mục lục hồ sơ, tài liệu nộp lưu; tiếp nhận và lập Biên bản giao nhận hồ sơ, tài liệu theo mẫu Phụ lục II.\nc) Mục lục hồ sơ, tài liệu nộp lưu và Biên bản giao nhận hồ sơ, tài liệu được lập thành\n02 bản, bên giao và bên nhận mỗi bên giữ một bản.\n5. Thu thập hồ sơ, tài liệu lưu trữ\nđiện tử vào Lưu trữ cơ quan\na) Trách nhiệm của bên giao:\n- Cán bộ công chức, viên chức phải lập hồ sơ điện tử để giao nộp vào lưu trữ cơ quan. - Lập Danh mục hồ sơ, tài liệu lưu trữ điện tử để giao nộp vào Lưu trữ cơ quan. - Đơn vị giao nộp hồ sơ, tài liệu và dữ liệu đặc tả kèm theo. - Tài liệu điện tử giao nộp vào Lưu trữ cơ quan phải chuẩn thông tin đầu vào; đảm bảo tính chính xác, toàn vẹn và khả năng truy cập; bảo đảm nội dung, cấu trúc, bối cảnh hình thành và được bảo vệ để không bị hư hỏng hoặc bị hủy hoại, sửa chữa hay bị mất dữ liệu.\nb) Trách nhiệm của bên nhận:\n- Lưu trữ cơ quan thông báo cho đơn vị giao nộp Danh mục hồ sơ nộp lưu. - Kiểm tra để bảo đảm hồ sơ nhận đúng, đủ theo Danh mục; dạng thức và cấu trúc đã thống nhất; liên kết chính xác dữ liệu đặc tả với hồ sơ, tài liệu; kiểm tra virút và kiểm tra tính chính xác, toàn vẹn và khả năng truy cập. - Lập Biên bản giao nhận hồ sơ, tài liệu lưu trữ điện tử. - Chuyển hồ sơ, tài liệu vào hệ thống quản lý tài liệu lưu trữ điện tử của cơ quan và thực hiện các biện pháp sao lưu dự phòng. Trường hợp tài liệu lưu trữ điện tử và tài liệu lưu trữ giấy có nội dung trùng nhau thì thu thập cả hai loại.\nĐiều 7. Quản lý tài liệu lưu trữ trong trường hợp sáp nhập, giải thể, chia tách và chuyển đổi hình thức sở hữu\n1. Tài liệu hình thành trong quá\ntrình hoạt động của cơ quan, đơn vị nào phải được chỉnh lý, thống kê và bảo quản theo phông lưu trữ của cơ quan, đơn vị đó.\n2. Nếu một hoặc nhiều đơn vị được sáp\nnhập vào một đơn vị khác hoặc thành lập đơn vị mới thì các hồ sơ, tài liệu đã giải quyết xong của đơn vị cũ phải chuyển giao cho đơn vị cấp trên trực tiếp hoặc cơ quan có thẩm quyền; các tài liệu chưa giải quyết xong sẽ do đơn vị mới tiếp nhận.\n3. Nếu một đơn vị sáp nhập vào một số\nđơn vị khác hoặc chia thành nhiều đơn vị mới thì hồ sơ, tài liệu đã giải quyết xong của đơn vị cũ được chuyển giao cho đơn vị cấp trên trực tiếp hoặc cơ quan có thẩm quyền; các tài liệu chưa giải quyết xong thuộc chức năng của đơn vị mới, thì do đơn vị đó tiếp nhận.\n4. Nếu cơ quan, đơn vị giải thể thì\ntoàn bộ hồ sơ tài liệu lưu trữ chuyển vào cơ quan quản lý cấp trên.\n5. Tài liệu lưu trữ sau khi chỉnh lý\nđược quản lý như sau:\na) Tài liệu lưu trữ của các đơn vị\nthuộc nguồn nộp lưu tài liệu vào Lưu trữ lịch sử được giao nộp vào Lưu trữ lịch sử có thẩm quyền;\nb) Tài liệu lưu trữ của các đơn vị không thuộc nguồn nộp lưu vào lưu trữ lịch sử được quản lý tại Lưu\ntrữ cơ quan của cơ quan doanh nghiệp mới tiếp nhận trụ sở cũ; trường hợp cơ quan giải thể, doanh nghiệp phá sản, giải thể hoặc không có cơ quan, doanh nghiệp tiếp nhận trụ sở cũ hoặc có nhiều cơ quan, doanh nghiệp mới cùng tiếp nhận trụ sở cũ thì tài liệu lưu trữ của cơ quan, doanh nghiệp được giao nộp vào lưu trữ cơ quan theo quyết định của cơ quan cấp trên trực tiếp hoặc cơ quan có thẩm quyền.\nMục 2. CHỈNH LÝ, XÁC ĐỊNH GIÁ TRỊ\nTÀI LIỆU\nĐiều 8. Chỉnh lý tài liệu\n1. Trách nhiệm chỉ đạo\n- Thủ trưởng các đơn vị thuộc cơ quan Bộ gồm: Các Vụ, Cục, Thanh tra, Văn phòng có trách nhiệm chỉ đạo việc giao nộp hồ sơ, tài liệu vào lưu trữ cơ quan Bộ theo đúng Điều 6 quy chế này; việc chỉnh lý tài liệu lưu trữ sẽ do Văn phòng Bộ thực hiện chung. - Thủ trưởng các cơ quan, đơn vị trực thuộc Bộ có trách nhiệm chỉ đạo, tổ chức việc chỉnh lý tài liệu thuộc phạm vi quản lý.\n2. Nguyên tắc chỉnh lý\na) Không phân tán phông lưu trữ. Tài\nliệu của từng đơn vị hình thành phông phải được chỉnh lý và sắp xếp riêng biệt;\nb) Khi phân loại, lập hồ sơ (chỉnh sửa\nhoàn thiện, lập mới hồ sơ) phải tôn trọng sự hình thành tài liệu theo trình tự theo dõi, giải quyết công việc (không phá vỡ hồ sơ đã lập);\nc) Tài liệu sau khi chỉnh lý phải phản\nánh được các hoạt động của cơ quan hình thành tài liệu; sự liên hệ lôgíc và lịch sử của tài liệu.\n3. Trình tự các bước chỉnh lý tài liệu\nThực hiện theo quy định tại Công văn số 283/VTLTNN-NVTW ngày 19/5/2004 của Cục Văn thư và Lưu trữ Nhà nước về hướng dẫn chỉnh lý tài liệu hành chính; Quyết định số 128/QĐ-VTLTNN ngày 01/6/2009 của Cục trưởng Cục Văn thư và Lưu trữ Nhà nước về quy trình chỉnh lý tài liệu giấy theo TCVN ISO 9001:2000 ; Quyết định số 4027/QĐ-BTC ngày 06/12/2004 của Bộ Tài chính về ban hành quy chế chỉnh lý hồ sơ, tài liệu lưu trữ thuộc Bộ Tài chính; Thông tư 155/2013/TT-BTC ngày 06/11/2013 của Bộ Tài chính về quy định thời hạn bảo quản hồ sơ, tài liệu hình thành phổ biến trong hoạt động của ngành Tài chính và các quy định liên quan.\n4. Yêu cầu đối với tài liệu sau khi\nchỉnh lý\na) Phân loại và lập thành hồ sơ hoàn\nchỉnh theo nguyên tắc nghiệp vụ lưu trữ;\nb) Xác định thời hạn bảo quản cho hồ\nsơ, tài liệu;\nc) Hệ thống hóa hồ sơ, tài liệu;\nd) Lập các công cụ tra cứu: Mục lục hồ\nsơ, cơ sở dữ liệu và các công cụ tra cứu khác phục vụ cho việc quản lý và tra cứu sử dụng tài liệu;\ne) Lập danh mục tài liệu hết giá trị\ncần loại ra để hủy (nếu có);\nf) Lập danh mục tài liệu bảo quản\nvĩnh viễn (nếu có);\ng) Lập danh mục tài liệu lạc phông (nếu\ncó);\nh) Lập danh mục tài liệu bảo quản có\nthời hạn;\ni) Tài liệu đưa lên giá được sắp xếp\nkhoa học, có chỉ dẫn khai thác.\n5. Đối với các cơ quan, đơn vị khi\nthuê công ty chỉnh lý tài liệu\na) Phải thực hiện đúng các quy trình,\nthủ tục quy định của Luật Đấu thầu và pháp luật có liên quan;\nb) Công ty thực hiện chỉnh lý phải bảo\nmật thông tin hồ sơ, tài liệu lưu trữ của đơn vị thuê chỉnh lý;\nc) Cơ quan, đơn vị thuê chỉnh lý phải\nquản lý, giám sát chặt chẽ quá trình thực hiện và sản phẩm sau khi thuê chỉnh lý phải đáp ứng được các quy định của nhà nước và của Bộ Tài chính.\nĐiều 9. Xác định giá trị tài liệu\n1. Việc xác định giá trị tài liệu thực\nhiện theo các quy định của Luật lưu trữ, các văn bản hướng dẫn thi hành Luật lưu trữ và Thông tư số 155/2013/TT-BTC ngày 06/11/2013 của Bộ Tài chính quy định về thời hạn bảo quản hồ sơ, tài liệu hình thành phổ biến trong hoạt động của ngành Tài chính.\n2. Thủ trưởng các Tổng cục và đơn vị\ntương đương, các đơn vị sự nghiệp, doanh nghiệp thuộc Bộ căn cứ vào Bảng thời hạn bảo quản hồ sơ, tài liệu hình thành phổ biến của ngành Tài chính (ban hành kèm theo Thông tư số 155/2013/TT-BTC ngày 06/11/2013) quy định cụ thể Bảng thời hạn bảo quản hồ sơ, tài liệu của cơ quan sau khi có ý kiến tham gia của Văn phòng Bộ.\n3. Xác định giá trị tài liệu lưu trữ\nđiện tử\na) Tài liệu lưu trữ điện tử được xác\nđịnh giá trị theo nguyên tắc, phương pháp và tiêu chuẩn xác định giá trị nội dung như tài liệu lưu trữ trên các vật mang tin khác và phải đáp ứng các yêu cầu sau: - Bảo đảm độ tin cậy, tính toàn vẹn và xác thực của thông tin chứa trong tài liệu điện tử kể từ khi tài liệu lưu trữ điện tử được khởi tạo lần đầu dưới dạng một thông điệp dữ liệu hoàn chỉnh. - Thông tin chứa trong tài liệu lưu trữ điện tử có thể truy cập, sử dụng được dưới dạng hoàn chỉnh.\nb) Tài liệu lưu\ntrữ điện tử đáp ứng các điều kiện quy định tại Điểm a, Khoản 3 Điều này có giá trị như bản gốc.\nĐiều 10. Hội đồng xác định giá trị tài liệu\n1. Nhiệm vụ của\nHội đồng xác định giá trị tài liệu Hội đồng xác định giá trị tài liệu được thành lập để tham mưu, giúp việc cho người đứng đầu cơ quan trong việc xác định thời hạn bảo quản, lựa chọn tài liệu của Lưu trữ cơ quan giao nộp vào Lưu trữ lịch sử và tiêu hủy tài liệu hết giá trị.\n2. Hội đồng xác định giá trị tài liệu do người đứng đầu cơ quan quyết định thành lập. Thành phần\ncủa Hội đồng quy định như sau:\na) Tại cơ quan Bộ Tài chính\n- Chủ tịch Hội đồng: Chánh Văn phòng Bộ. - Thư ký Hội đồng: Người làm lưu trữ của cơ quan. - Đại diện lãnh đạo đơn vị có tài liệu là ủy viên. - Người am hiểu về lĩnh vực có tài liệu cần xác định giá trị là ủy viên.\nb) Tại các Tổng cục và đơn vị tương\nđương thuộc Bộ - Chủ tịch Hội đồng: Lãnh đạo Tổng cục và tương đương. - Thư ký Hội đồng: Người làm lưu trữ của cơ quan. - Đại diện lãnh đạo đơn vị có tài liệu là ủy viên. - Người am hiểu về lĩnh vực có tài liệu cần xác định giá trị là ủy viên.\nc) Tại các đơn vị sự nghiệp, doanh\nnghiệp và đơn vị tương đương trực thuộc Bộ - Chủ tịch Hội đồng: Lãnh đạo đơn vị. - Thư ký Hội đồng: Người làm lưu trữ của cơ quan. - Đại diện lãnh đạo đơn vị có tài liệu là ủy viên. - Người am hiểu về lĩnh vực có tài liệu cần xác định giá trị là ủy viên.\nd) Tại các Cục và tương đương trực\nthuộc Tổng cục và tương đương ở các tỉnh, thành phố - Chủ tịch Hội đồng: Lãnh đạo Cục. - Thư ký Hội đồng: Người làm lưu trữ của cơ quan. - Đại diện lãnh đạo đơn vị có tài liệu là ủy viên. - Người am hiểu về lĩnh vực có tài liệu cần xác định giá trị là ủy viên.\ne) Tại các Chi cục và các đơn vị\ntương đương ở các tỉnh, thành phố - Chủ tịch Hội đồng: Chi cục trưởng. - Thư ký Hội đồng: Người làm lưu trữ của cơ quan. - Đại diện lãnh đạo đơn vị có tài liệu là ủy viên. - Người am hiểu về lĩnh vực có tài liệu cần xác định giá trị là ủy viên.\n3. Phương thức làm việc của Hội đồng:\nHội đồng thảo luận tập thể, kết luận theo đa số; các ý kiến khác nhau phải ghi vào biên bản cuộc họp để trình Thủ trưởng đơn vị quyết định; Hội đồng tự giải thể khi công việc hoàn thành.\n4. Trên cơ sở đề nghị của Hội đồng\nxác định giá trị tài liệu, Thủ trưởng cơ quan, đơn vị quyết định thời hạn bảo quản tài liệu, lựa chọn tài liệu để giao nộp vào Lưu trữ lịch sử và tiêu hủy tài liệu hết giá trị theo quy định tại Điều 15 của Quyết định này.\nMục 3. GIAO NỘP TÀI LIỆU VÀO LƯU\nTRỮ LỊCH SỬ\nĐiều 11. Giao nộp hồ sơ, tài liệu vào Lưu trữ lịch sử\n1. Thời hạn nộp lưu tài liệu vào Lưu\ntrữ lịch sử: Trong thời hạn 10 năm, kể từ năm công việc kết thúc, cơ quan, tổ chức thuộc Danh mục nguồn nộp lưu tài liệu vào Lưu trữ lịch sử, có trách nhiệm giao nộp tài liệu có giá trị bảo quản vĩnh viễn vào Lưu trữ lịch sử.\n2. Cơ quan, tổ chức thực hiện việc\ngiao nộp tài liệu vào Lưu trữ lịch sử các cấp thực hiện theo quy định tại Thông tư số 17/2014/TT-BNV ngày 20/11/2014 của Bộ Nội vụ về việc hướng dẫn xác định cơ quan, tổ chức thuộc nguồn nộp lưu tài liệu vào Lưu trữ lịch sử các cấp.\n3. Trình tự, thủ tục giao nộp tài liệu\ncó thời hạn bảo quản vĩnh viễn vào Lưu trữ lịch sử được thực hiện theo quy định tại Thông tư số 16/2014/TT-BNV ngày 20/11/2014 của Bộ Nội vụ về hướng dẫn giao, nhận tài liệu lưu trữ vào Lưu trữ lịch sử các cấp. Đối với việc giao nộp tài liệu lưu trữ điện tử vào Lưu trữ lịch sử được thực hiện theo quy định tại Điều 7, Nghị định số 01/2013/NĐ-CP ngày 03/01/2013 của Chính phủ về quy định chi tiết thi hành một số điều của Luật Lưu trữ.\n4. Đối với các cơ quan, đơn vị không\nthuộc danh mục nộp hồ sơ, tài liệu vào Lưu trữ lịch sử: Tài liệu lưu trữ được hình thành trong quá trình hoạt động của cơ quan không thuộc Danh mục cơ quan thuộc nguồn nộp lưu tài liệu hoặc tài liệu không thuộc\nDanh mục tài liệu nộp lưu vào Lưu trữ lịch sử được quản lý tại Lưu trữ cơ quan.\nMục 4. BẢO QUẢN, THỐNG KÊ, SỬ DỤNG\nTÀI LIỆU LƯU TRỮ VÀ HỦY TÀI LIỆU HẾT GIÁ TRỊ\nĐiều 12. Bảo quản hồ sơ, tài liệu lưu trữ\n1. Cán bộ công chức, viên chức được\ngiao giải quyết, theo dõi công việc, phải có trách nhiệm bảo quản an toàn hồ sơ, tài liệu lưu trữ cho đến khi giao nộp tài liệu vào Lưu trữ cơ quan.\n2. Hồ sơ, tài liệu sau khi giao nộp\nvào Lưu trữ cơ quan phải được bảo quản trong hộp có đề nhãn ký hiệu, mã số theo mục lục hồ sơ và sắp xếp khoa học trên giá để dễ thấy, dễ lấy và dễ di chuyển khi cần thiết.\n3. Các cơ quan, đơn vị phải bố trí\nkho lưu trữ theo quy định để bảo quản tài liệu; kho lưu trữ phải được bố trí nơi khô ráo, thoáng khí, không được bố trí kho lưu trữ ở tầng hầm và tầng áp mái; đảm bảo các phương tiện phòng chống cháy nổ, chống thiên tai, giá, máy hút ẩm, hút mùi, quạt thông gió, máy điều hòa; thực hiện các biện pháp phòng, chống côn trùng, nấm mốc và các tác nhân khác gây hư hỏng hồ sơ, tài liệu. Khi xây dựng kho lưu trữ mới phải đảm bảo tiêu chuẩn, kỹ thuật theo quy định của Nhà nước, của Bộ về kho lưu trữ.\n4. Thực hiện vệ sinh tài liệu, kho\ngiá định kỳ theo quy định của pháp luật.\n5. Bảo quản tài liệu lưu trữ điện tử\na) Tài liệu lưu trữ điện tử phải được\nbảo quản an toàn và được chuyển đổi theo công nghệ phù hợp;\nb) Tài liệu lưu trữ điện tử phải được\nthường xuyên kiểm tra, sao lưu để bảo đảm an toàn, tính toàn vẹn, khả năng truy cập của tài liệu lưu trữ điện tử và sử dụng các biện pháp kỹ thuật để việc phân loại, lưu trữ được thuận lợi nhưng phải đảm bảo không thay đổi nội dung tài liệu;\nc) Phương tiện lưu trữ tài liệu lưu\ntrữ điện tử phải được bảo quản trong môi trường lưu trữ thích hợp.\nĐiều 13. Chế độ báo cáo thống kê công tác lưu trữ\n1. Báo cáo thống kê cơ sở công tác\nlưu trữ được thực hiện theo Biểu 02/CS của Thông tư số 09/2013/TT-BNV ngày 31/10/2013 của Bộ trưởng Bộ Nội vụ, cụ thể:\na) Văn phòng, Thanh tra, Vụ, Cục, Viện\nvà tương đương trực thuộc Bộ không có tổ chức trực thuộc báo cáo về Bộ trước ngày 15 tháng 01 năm kế tiếp của năm báo cáo;\nb) Văn phòng của các Tổng cục, Cục,\nTrung tâm, Viện và tương đương thuộc Bộ báo cáo về Tổng cục, Cục, Trung tâm, Viện và tương đương trước ngày 15 tháng 01 năm kế tiếp của năm báo cáo;\nc) Các cơ quan, tổ chức trực thuộc Tổng\ncục, Cục, Trung tâm, Viện và tương đương báo cáo về Tổng cục, Cục, Trung tâm, Viện và tương đương trước ngày 15 tháng 01 năm kế tiếp của năm báo cáo;\nd) Các Cục hoặc tương đương ở địa\nphương thuộc các Tổng cục và tương đương không có tổ chức trực thuộc gửi báo cáo về Sở Nội vụ trước ngày 15 tháng 01 năm kế tiếp của năm báo cáo;\ne) Các Chi cục hoặc tương đương ở cấp\nhuyện của hệ thống ngành dọc thuộc Bộ Tài chính, gửi báo cáo về Phòng Nội vụ trước ngày 15 tháng 01 năm kế tiếp của năm báo cáo.\n2. Báo cáo thống kê tổng hợp công tác\nlưu trữ thực hiện theo Biểu 02/TH của Thông tư số 09/2013/TT-BNV ngày 31/10/2013 của Bộ trưởng Bộ Nội vụ, cụ thể:\na) Các cơ quan trực thuộc Bộ có tổ chức\ntrực thuộc tổng hợp số liệu báo cáo về Bộ trước ngày 31 tháng 01 năm kế tiếp của năm báo cáo. Đối với cấp Tổng cục và tương đương báo cáo số liệu của Văn phòng và các đơn vị thuộc Tổng cục và tương đương không báo cáo số liệu cấp Cục và tương đương, cấp Chi cục và tương đương;\nb) Văn phòng Bộ tổng hợp báo cáo thống\nkê về Cục Văn thư - Lưu trữ Nhà nước trước ngày 15 tháng 02 năm kế tiếp của năm báo cáo.\n3. Kèm theo báo cáo thống kê, hàng\nnăm các Tổng cục và tương đương, các đơn vị sự nghiệp, doanh nghiệp thuộc Bộ tổng hợp số lượng tài liệu lưu trữ thuê dịch vụ chỉnh lý trong kỳ hạn 01 năm (từ ngày 01/01 đến hết ngày 31/12) báo cáo Bộ để Bộ có kế hoạch kiểm tra chất lượng chỉnh lý tài liệu. Đối với các Tổng cục báo cáo số liệu cụ thể của từng Cục và tương đương (số liệu của Cục có cả số lượng của Chi cục và tương đương).\n4. Kỳ hạn và hình thức gửi báo cáo thống\nkê định kỳ - Kỳ hạn báo cáo: 01 năm, tính từ ngày 01 tháng 01 đến ngày 31 tháng 12 của năm báo cáo. - Hình thức gửi báo cáo: Các báo cáo thống kê được thực hiện dưới 02 hình thức: bằng bản giấy và bản điện tử định dạng bảng tính Excel (gửi kèm thư điện tử).\n5. Trách nhiệm của cơ quan, tổ chức\nbáo cáo và cơ quan, tổ chức nhận báo cáo\na) Trách nhiệm của cơ quan, tổ chức\nbáo cáo - Báo cáo đầy đủ, trung thực, khách quan, đúng nội dung thông tin được quy định trong chế độ báo cáo thống kê công tác lưu trữ và tài liệu lưu trữ và chịu trách nhiệm trước pháp luật về các nội dung báo cáo. - Gửi báo cáo đúng hạn. - Kiểm tra, cung cấp lại số liệu và các thông tin liên quan đến báo cáo thống kê khi có yêu cầu của cơ quan, tổ chức nhận báo cáo. - Các trách nhiệm khác theo quy định của pháp luật.\nb) Trách nhiệm của cơ quan, tổ chức\nnhận báo cáo - Kiểm tra, đối chiếu, xử lý và tổng hợp số liệu từ các báo cáo thống kê cơ sở thành báo cáo thống kê tổng hợp. - Yêu cầu cơ quan, tổ chức báo cáo kiểm tra, cung cấp lại số liệu và các thông tin liên quan đến báo cáo thống kê khi cần thiết. - Cung cấp số liệu cho cơ quan quản lý nhà nước cấp trên về lưu trữ theo quy định của pháp luật. - Bảo đảm công bố, sử dụng và bảo mật thông tin thống kê theo quy định của pháp luật về thống kê và pháp luật về lưu trữ. - Các trách nhiệm khác theo quy định của pháp luật.\n6. Ngoài báo cáo thống kê theo định kỳ,\ncác cơ quan, đơn vị trong ngành Tài chính phải thực hiện báo cáo đột xuất khi có yêu cầu của cấp có thẩm quyền.\nĐiều 14. Sử dụng, khai thác tài liệu Lưu trữ\n1. Các đơn vị,\ncá nhân trong và ngoài cơ quan đều được khai thác, sử dụng tài liệu lưu trữ vì mục đích công vụ và các nhu cầu riêng chính đáng.\n2. Khi khai thác tài liệu lưu trữ phục\nvụ công vụ, các đơn vị, cá nhân phải có giấy giới thiệu ghi rõ mục đích nghiên cứu tài liệu lưu trữ và phải được Lãnh đạo cơ quan có thẩm quyền quy định tại khoản 4 Điều này đồng ý.\n3. Cá nhân khai thác sử dụng tài liệu\nvì mục đích riêng phải có đơn xin sử dụng tài liệu, chứng minh thư nhân dân hoặc hộ chiếu phải được lãnh đạo cơ quan có thẩm quyền quy định tại khoản 4 Điều này đồng ý.\n4. Thẩm quyền khai thác, sử dụng tài\nliệu lưu trữ\na) Đối với tài liệu mật: thẩm quyền\ncho phép khai thác, sử dụng tài liệu lưu trữ mật được thực hiện theo quy định tại Thông tư 161/2014/TT-BTC của Bộ Tài chính ngày 31/10/2014 về quy định công tác bảo vệ bí mật nhà nước của ngành Tài chính;\nb) Đối với tài liệu thường\n- Đối với cơ quan Bộ Tài chính: Trưởng phòng Lưu trữ - Thư viện cho phép sử dụng tài liệu thường. - Đối với các đơn vị không thuộc cơ quan Bộ Tài chính, Chánh Văn phòng hoặc Trưởng phòng quản lý công tác lưu trữ cho phép sử dụng tài liệu thường.\nc) Đối với người nước ngoài việc sử dụng\ntài liệu lưu trữ do Bộ trưởng Bộ Tài chính quyết định;\nd) Tài liệu lưu trữ mang ra ngoài cơ\nquan - Đối với việc mang tài liệu lưu trữ ra nước ngoài và ra ngoài cơ quan, thủ trưởng cơ quan, đơn vị quyết định và chịu trách nhiệm về việc này. - Các đơn vị, cá nhân được mang tài liệu lưu trữ ra ngoài cơ quan để phục vụ công tác, nghiên cứu khoa học và các nhu cầu chính đáng khác sau khi được Thủ trưởng cơ quan cho phép và phải hoàn trả nguyên vẹn tài liệu lưu trữ đó.\nđ) Phòng Lưu trữ - Thư viện thuộc Văn\nphòng Bộ, bộ phận lưu trữ các đơn vị phải lập các sổ nhập, xuất tài liệu, sổ đăng ký mục lục hồ sơ và số đăng ký độc giả để quản lý tài liệu lưu trữ và phục vụ khai thác tài liệu, định kỳ cuối năm báo cáo Chánh Văn phòng Bộ, thủ trưởng đơn vị tình hình khai thác sử dụng tài liệu lưu trữ.\n5. Trên cơ sở quy định tại khoản 1 đến khoản 4 của Điều này và căn cứ vào tình hình thực tế Thủ\ntrưởng các cơ quan, đơn vị quy định nội quy sử dụng tài liệu lưu trữ và niêm yết tại phòng đọc của kho lưu trữ của cơ quan. Nội quy sử dụng tài liệu lưu trữ bao gồm:\na) Thời gian phục vụ độc giả;\nb) Các giấy tờ độc giả cần xuất trình khi đến khai thác tài liệu;\nc) Những vật dụng được và không được\nmang vào phòng đọc;\nd) Quy định độc giả phải thực hiện\ncác thủ tục nghiên cứu và khai thác tài liệu theo hướng dẫn của cán bộ lưu trữ;\ne) Độc giả không được tự ý sao, chụp ảnh\ntài liệu, dữ liệu trên máy tính và thông tin trong công cụ tra cứu khi chưa được phép;\nf) Ngoài các quy định trên, độc giả cần thực hiện nghiêm chỉnh các quy định có liên quan như: Nội quy ra,\nvào cơ quan; Quy định về sử dụng tài liệu; Quy định về phòng chống cháy nổ của cơ quan.\n6. Sử dụng tài liệu lưu trữ điện tử\na) Thẩm quyền cho phép đọc, sao, chứng\nthực lưu trữ đối với tài liệu lưu trữ điện tử được thực hiện như đối với tài liệu lưu trữ trên các vật mang tin khác;\nb) Cơ quan, đơn vị có trách nhiệm\nđăng tải thông tin và quy trình, thủ tục, chi phí thực hiện dịch vụ sử dụng tài liệu lưu trữ điện tử trên trang tin điện tử của cơ quan;\nc) Phương tiện lưu trữ tài liệu lưu\ntrữ điện tử thuộc Danh mục tài liệu hạn chế sử dụng và tài liệu mật không được kết nối và sử dụng trên mạng diện rộng.\n7. Sao tài liệu lưu trữ, chứng thực\nlưu trữ\na) Việc sao tài liệu lưu trữ và chứng\nthực lưu trữ do Lưu trữ cơ quan thực hiện. Người có thẩm quyền cho phép sử dụng tài liệu lưu trữ cho phép sao tài liệu lưu trữ;\nb) Chứng thực lưu trữ là xác nhận của\ncơ quan về nội dung thông tin hoặc bản sao tài liệu lưu trữ do Lưu trữ cơ quan đang quản lý. Cơ quan sao tài liệu lưu trữ, chứng thực lưu trữ phải chịu trách nhiệm pháp lý về bản sao tài liệu lưu trữ, bản chứng thực lưu trữ;\nc) Người được cấp bản sao tài liệu\nlưu trữ, bản chứng thực lưu trữ phải nộp lệ phí theo quy định;\nd) Bản sao tài liệu lưu trữ, bản chứng\nthực lưu trữ có giá trị như tài liệu lưu trữ gốc trong các quan hệ, giao dịch.\n8. Các hình thức tổ chức sử dụng tài\nliệu lưu trữ\na) Sử dụng tài liệu lưu trữ tại phòng\nđọc của Lưu trữ cơ quan;\nb) Cấp bản sao tài liệu lưu trữ;\nc) Cấp bản chứng\nthực lưu trữ.\nĐiều 15. Tiêu hủy tài liệu hết giá trị\n1. Thẩm quyền quyết định tiêu hủy tài\nliệu hết giá trị\na) Bộ trưởng Bộ Tài chính quyết định\ntiêu hủy tài liệu hết giá trị bảo quản của các cơ quan Bộ Tài chính, sau khi có ý kiến thẩm định bằng văn bản của Cục Văn thư và Lưu trữ Nhà nước;\nb) Tổng cục trưởng và Thủ trưởng các\nđơn vị tương đương quyết định tiêu hủy tài liệu hết giá trị bảo quản của đơn vị sau khi có ý kiến thẩm định bằng văn bản của Cục Văn thư và Lưu trữ Nhà nước;\nc) Cục trưởng các Cục trực thuộc Tổng\ncục và Thủ trưởng các đơn vị tương đương ở cấp tỉnh quyết định tiêu hủy tài liệu hết giá trị bảo quản của đơn vị mình, sau khi có ý kiến thẩm định bằng văn bản của Sở Nội vụ tỉnh, thành phố;\nd) Chi cục trưởng\ncác Chi cục và Thủ trưởng các đơn vị tương đương ở cấp huyện quyết định tiêu hủy tài liệu hết giá trị bảo quản của đơn vị mình, sau khi có ý kiến thẩm định bằng văn bản của Sở Nội vụ tỉnh, thành phố;\ne) Thủ trưởng các đơn vị sự nghiệp trực\nthuộc Bộ quyết định tiêu hủy tài liệu hết giá trị của đơn vị mình, sau khi có ý kiến thẩm định bằng văn bản thẩm định của cơ quan quản lý nhà nước về lưu trữ cùng cấp. Các đơn vị sự nghiệp có trụ sở tại Hà Nội thì cơ quan thẩm định là Cục Văn thư và Lưu trữ Nhà nước; Trụ sở đóng tại địa phương thì cơ quan thẩm định là Sở Nội vụ tỉnh, thành phố;\nf) Thủ trưởng các doanh nghiệp thuộc\nBộ quyết định tiêu hủy tài liệu hết giá trị bảo quản của đơn vị mình, sau khi có ý kiến thẩm định bằng văn bản của Bộ Tài chính.\n2. Quy trình, thủ tục tiêu hủy hồ sơ,\ntài liệu hết giá trị\na) Bước 1: Lập kế hoạch thực hiện;\nb) Bước 2: Lập\ndanh mục, viết thuyết minh tài liệu hết giá trị;\nc) Bước 3: Phòng hoặc Bộ phận Lưu trữ\ntrình Thủ trưởng cơ quan hồ sơ xét hủy tài liệu hết giá trị, bao gồm: - Soạn thảo tờ trình về việc tiêu hủy tài liệu hết giá trị. - Danh mục tài liệu hết giá trị (theo mẫu tại Phụ lục III). - Bản thuyết minh tài liệu hết giá trị (theo mẫu tại Phụ lục IV). - Mục lục hồ sơ, tài liệu giữ lại. - Dự thảo quyết định về thành lập Hội đồng xác định giá trị tài liệu. - Thủ trưởng đơn vị có tài liệu tiêu hủy ra Quyết định thành lập Hội đồng xác định giá trị tài liệu;\nd) Bước 4: Xét hủy tài liệu hết giá\ntrị: - Từng thành viên của Hội đồng nghiên cứu danh mục tài liệu và kiểm tra thực tế tài liệu (nếu cần thiết) để xác định những hồ sơ, tài liệu cần giữ lại bảo quản hoặc đã hết giá trị để tiêu hủy; - Hội đồng thảo luận tập thể và biểu quyết theo đa số về tài liệu dự kiến tiêu hủy hoặc giữ lại. Nội dung cuộc họp được lập thành biên bản có đủ chữ ký của các thành viên trong Hội đồng. Biên bản được lập thành 2 bản, một bản lưu tại Hồ sơ hủy tài liệu của cơ quan và một bản đưa vào hồ sơ trình cấp có thẩm quyền thẩm tra tài liệu hết giá trị (Biên bản theo mẫu tại Phụ lục V);\ne) Bước 5: Phòng hoặc Bộ phận Lưu trữ\nhoàn chỉnh danh mục tài liệu hết giá trị và trình người đứng đầu cơ quan, tổ chức xem xét, gửi cơ quan có thẩm quyền thẩm định tài liệu hủy theo quy định tại khoản 1 Điều này. Hồ sơ đề nghị thẩm định gồm: - Công văn đề nghị thẩm định tài liệu hết giá trị (theo mẫu tại Phụ lục VI). - Danh mục tài liệu hết giá trị. - Bản thuyết minh tài liệu hết giá trị. - Biên bản họp Hội đồng xác định giá trị tài liệu.\nf) Bước 6: Sau khi có ý kiến thẩm định\nbằng văn bản của cơ quan có thẩm quyền, Phòng hoặc Bộ phận Lưu trữ cơ quan có trách nhiệm hoàn thiện hồ sơ, tài liệu và Danh mục hồ sơ; thuyết minh tài liệu hủy theo ý kiến thẩm định (nếu có);\ng) Bước 7: Phòng hoặc Bộ phận Lưu trữ\ncơ quan trình cấp có thẩm quyền ra quyết định tiêu hủy tài liệu hết giá trị theo quy định tại Khoản 1 Điều này;\nh) Bước 8: Phòng hoặc Bộ phận Lưu trữ\ncơ quan tổ chức tiêu hủy tài liệu hết giá trị: - Việc tiêu hủy tài liệu hết giá trị chỉ được thực hiện sau khi có quyết định bằng văn bản của người có thẩm quyền. - Việc tiêu hủy tài liệu hết giá trị phải đảm bảo hủy hết thông tin trong tài liệu, không thể phục hồi được. - Việc tổ chức tiêu hủy được thực hiện theo các bước sau: + Đóng gói tài liệu hết giá trị. + Lập biên bản bàn giao tài liệu hết giá trị giữa công chức, viên chức quản lý kho lưu trữ và người được giao nhiệm vụ thực hiện hủy tài liệu hết giá trị (theo mẫu tại Phụ lục VII). + Vận chuyển tài liệu đến nơi tiêu hủy (chuyển tài liệu từ kho ra xe). + Thực hiện tiêu hủy tài liệu hết giá trị. Việc tiêu hủy thực hiện tại cơ quan bằng máy cắt giấy, ngâm nước hoặc chuyển đến nhà máy giấy để tiêu hủy. Trường hợp khi hủy tài liệu tại nhà máy phải có sự giám sát của cán bộ lưu trữ và hủy đến khi tài liệu hủy không còn thông tin. + Lập biên bản tiêu hủy tài liệu hết giá trị (theo mẫu tại Phụ lục VIII).\ni) Bước 9: Phòng hoặc Bộ phận Lưu trữ\ncơ quan lập và lưu hồ sơ tiêu hủy tài liệu hết giá trị, hồ sơ tiêu hủy tài liệu hết giá trị bao gồm: - Tờ trình về việc tiêu hủy tài liệu hết giá trị. - Danh mục tài liệu hết giá trị và tài liệu giữ lại. - Bản thuyết minh tài liệu hết giá trị. - Quyết định thành lập Hội đồng xác định giá trị tài liệu. - Biên bản họp Hội đồng xác định giá trị tài liệu. - Văn bản đề nghị thẩm định, xin ý kiến của cơ quan có tài liệu hết giá trị. - Văn bản thẩm định, cho ý kiến của cơ quan có thẩm quyền. - Quyết định của người có thẩm quyền cho phép tiêu hủy tài liệu hết giá trị (theo mẫu tại Phụ lục IX). - Biên bản bàn giao tài liệu hết giá trị. - Biên bản về việc tiêu hủy tài liệu hết giá trị. - Các tài liệu khác có liên quan. Hồ sơ tiêu hủy tài liệu hết giá trị phải được bảo quản vĩnh viễn tại Lưu trữ cơ quan có tài liệu tiêu hủy.\n3. Hủy tài liệu lưu trữ điện tử hết giá\ntrị\na) Tài liệu lưu trữ điện tử hết giá\ntrị được hủy theo thẩm quyền, thủ tục như tài liệu lưu trữ trên các vật mang tin khác hết giá trị;\nb) Việc hủy tài liệu lưu trữ điện tử\nphải được thực hiện đối với toàn bộ hồ sơ thuộc Danh mục tài liệu hết giá trị đã được phê duyệt và phải bảo đảm thông tin đã bị hủy không thể khôi phục lại được.\nMục 5. QUẢN LÝ VỀ LƯU TRỮ\nĐiều 16. Trách nhiệm quản lý về lưu trữ\n1. Chánh Văn phòng Bộ: Giúp Bộ trưởng quản lý công tác lưu trữ thống nhất từ trung\nương đến địa phương; làm đầu mối chỉ đạo, hướng dẫn nghiệp vụ chuyên môn về công tác lưu trữ của Bộ Tài chính, gồm:\na) Xây dựng, trình Bộ ban hành các chế độ, quy định về công tác lưu trữ;\nb) Xây dựng, tổ chức thực hiện các đề\nán, chương trình, quy hoạch, kế hoạch dài hạn, ngắn hạn, hàng năm về công tác lưu trữ;\nc) Chỉ đạo, hướng dẫn, kiểm tra việc\nthực hiện các quy định của pháp luật về công tác lưu trữ của Bộ Tài chính;\nd) Là đầu mối trao đổi và quan hệ với\ncơ quan quản lý lưu trữ cấp trên và lưu trữ các Bộ, ngành;\ne) Thực hiện chế độ báo cáo đột xuất,\nbáo cáo định kỳ và báo cáo thống kê tổng hợp về công tác lưu trữ và tài liệu lưu trữ theo quy định;\nf) Tổ chức tập huấn, bồi dưỡng nghiệp\nvụ lưu trữ cho cán bộ, công chức, viên chức;\ng) Thực hiện sơ kết, tổng kết, thi\nđua, khen thưởng, kỷ luật về công tác lưu trữ;\nh) Nghiên cứu, ứng dụng khoa học và\ncông nghệ, sáng kiến trong công tác lưu trữ;\ni) Phối hợp với Vụ Tổ chức cán bộ đưa ra các tiêu chuẩn đối với người làm công tác lưu trữ ngành Tài chính;\nk) Quản lý kho lưu trữ của Bộ Tài\nchính;\nm) Tiếp nhận hồ sơ các đơn vị thuộc Bộ\nkhông nằm trong các quy định tại Điểm b, c Khoản 1 và Khoản 2 Điều 3 của Quy chế này.\n2. Thủ trưởng các cơ quan trực thuộc\nBộ, gồm các Tổng cục và các đơn vị tương đương; các đơn vị sự nghiệp; các doanh nghiệp có trách nhiệm quản lý, chỉ đạo, kiểm tra, hướng dẫn việc thực hiện các quy định của Nhà nước, của Bộ và chỉ đạo việc thu thập, chỉnh lý, bảo quản, khai thác, sử dụng tài liệu lưu trữ thuộc thẩm quyền quản lý; xây dựng, bố trí kho lưu trữ, thiết bị, phương tiện cần thiết và thực hiện các biện pháp kỹ thuật nghiệp vụ để bảo vệ, bảo quản an toàn tài liệu lưu trữ và chịu trách nhiệm quản lý kho lưu trữ của cơ quan; ban hành quy chế về công tác lưu trữ của cơ quan; riêng các đơn vị tại cơ quan Bộ (Văn phòng, Thanh tra, các Vụ, Cục) không ban hành quy chế lưu trữ mà thực hiện theo quy định tại Quyết định này.\n3. Cán bộ, công chức, viên chức\nCán bộ, công chức, viên chức của Bộ Tài chính có trách nhiệm thực hiện đúng các quy định của Nhà nước, của Bộ về công tác lưu trữ và phải lập hồ sơ công việc được giao, thực hiện việc giao nộp tài liệu vào kho lưu trữ theo quy định tại Điều 6 của Quyết định này. Nghiêm cấm mọi cá nhân tự tiêu hủy tài liệu lưu trữ trái với quy định của pháp luật dưới bất kỳ hình thức nào.\n4. Cán bộ, công chức, viên chức làm\ncông tác lưu trữ\na) Giúp lãnh đạo cơ quan, tổ chức hướng\ndẫn cán bộ, công chức, viên chức trong cơ quan chuẩn bị hồ sơ, tài liệu giao nộp vào Lưu trữ cơ quan theo quy định của Nhà nước và của Bộ;\nb) Thu thập hồ sơ, tài liệu đến hạn nộp\nlưu vào Lưu trữ cơ quan;\nc) Chỉnh lý, xác định giá trị tài liệu;\nd) Bố trí kho, thực hiện các nghiệp vụ\nbảo quản an toàn hồ sơ, tài liệu;\ne) Tổ chức sử dụng tài liệu lưu trữ;\nf) Giao nộp tài liệu lưu trữ có giá\ntrị bảo quản vĩnh viễn thuộc danh mục tài liệu nộp lưu vào Lưu trữ lịch sử và tổ chức hủy tài liệu hết giá trị theo quyết định của người đứng đầu cơ quan, tổ chức;\ng) Báo cáo thống kê cơ sở về công tác\nlưu trữ theo quy định;\nh) Bảo mật thông tin tài liệu lưu trữ.\n5. Trách nhiệm quản lý tài liệu lưu\ntrữ điện tử\na) Lãnh đạo các đơn vị có trách nhiệm\nchỉ đạo thực hiện việc quản lý tài liệu lưu trữ điện tử theo quy định của pháp luật;\nb) Người làm lưu trữ cơ quan có trách\nnhiệm tham mưu, đề xuất cho thủ trưởng cơ quan thực hiện đúng quy định của pháp luật về lưu trữ tài liệu điện tử; phối hợp với đơn vị, bộ phận chuyên trách về công nghệ thông tin của cơ quan cùng đề xuất các quy trình để thực hiện các ứng dụng công nghệ thông tin trong việc quản lý tài liệu lưu trữ điện tử;\nc) Đơn vị, bộ phận\nchuyên trách về công nghệ thông tin của cơ quan có trách nhiệm tham mưu, đề xuất cho thủ trưởng cơ quan về ứng dụng công nghệ thông tin đối với việc quản lý tài liệu lưu trữ điện tử và thực hiện các biện pháp kỹ thuật để duy trì hoạt động của hệ thống quản lý tài liệu điện tử của cơ quan;\nd) Người trực tiếp theo dõi, giải quyết\ncông việc có trách nhiệm thực hiện các quy định về tạo lập và quản lý hồ sơ điện tử trong quá trình theo dõi, giải quyết công việc và giao nộp hồ sơ, tài liệu điện tử vào Lưu trữ cơ quan.\nĐiều 17. Bảo vệ bí mật nhà nước trong công tác lưu trữ\n1. Mọi hoạt động trong công tác lưu\ntrữ của Bộ Tài chính phải thực hiện theo các quy định của pháp luật về bảo vệ bí mật nhà nước và Thông tư số 161/2014/TT-BTC ngày 31 tháng 10 năm 2014 của Bộ trưởng Bộ Tài chính quy định công tác bảo vệ bí mật nhà nước của ngành Tài chính.\n2. Cán bộ lưu trữ phải làm cam kết bảo\nvệ bí mật nhà nước bằng văn bản nộp cho cơ quan quản lý cán bộ công chức (theo mẫu quy định tại Thông tư 161/2014/TT-BTC ngày 31 tháng 10 năm 2014 của Bộ trưởng Bộ Tài chính quy định công tác bảo vệ bí mật nhà nước của ngành Tài chính).\n3. Hàng năm các đơn vị rà soát, thông\nbáo tài liệu lưu trữ thuộc Danh mục tài liệu có đóng dấu chỉ mức độ mật đã được giải mật.\nĐiều 18. Kinh phí cho công tác lưu trữ\n1. Kinh phí cho công tác lưu trữ được\nđảm bảo từ nguồn dự toán chi ngân sách hàng năm giao cho Bộ Tài chính và các nguồn kinh phí hợp pháp khác. Việc lập dự toán, quản lý, sử dụng và thanh quyết toán kinh phí cho công tác lưu trữ được thực hiện theo quy định của Luật Ngân sách nhà nước và các văn bản hướng dẫn khác.\n2. Kinh phí phục vụ cho các hoạt động\nlưu trữ\na) Xây dựng và cải tạo kho lưu\ntrữ;\nb) Mua sắm thiết bị, phương tiện bảo\nquản và phục vụ việc sử dụng tài liệu lưu trữ;\nc) Chỉnh lý tài liệu;\nd) Thực hiện các biện pháp kỹ thuật bảo\nquản tài liệu lưu trữ;\ne) Nghiên cứu, ứng dụng khoa học và\nchuyển giao công nghệ lưu trữ;\nf) Những hoạt động khác liên quan đến\nhoạt động lưu trữ.\nChương III\nTỔ CHỨC THỰC HIỆN\nĐiều 19. Khen thưởng Tập thể, cá nhân có thành tích sau đây sẽ được xét khen thưởng theo quy định của Luật Thi đua khen thưởng và các văn bản hướng dẫn thi hành:\n1. Có thành tích\ntiêu biểu, xuất sắc trong công tác lưu trữ.\n2. Phát hiện, giao nộp, tặng cho cơ\nquan lưu trữ những tài liệu có giá trị và tài liệu lưu trữ đặc biệt quý hiếm.\n3. Phát hiện, tố giác kịp thời hành\nvi chiếm đoạt, làm hư hại hoặc tiêu hủy trái phép tài liệu lưu trữ cơ quan.\nĐiều 20. Xử lý vi phạm Tập thể, cá nhân vi phạm các quy định của Quyết định này và các quy định khác của pháp luật về lưu trữ, tùy theo tính chất, mức độ vi phạm xử lý theo quy định của pháp luật.\nĐiều 21. Điều khoản thi hành\n1. Trong quá trình thực hiện, nếu các\nvăn bản dẫn chiếu tại quy chế này được sửa đổi, bổ sung hoặc thay thế bằng các văn bản mới thì áp dụng theo các văn bản mới.\n2. Chánh Văn phòng Bộ, Thủ trưởng các\ncơ quan, đơn vị thuộc Bộ Tài chính có trách nhiệm hướng dẫn, chỉ đạo, kiểm tra, đôn đốc việc thực hiện quy chế này; đồng thời phổ biến, quán triệt đến toàn thể cán bộ công chức, viên chức của đơn vị mình. Trong quá trình triển khai thực hiện, nếu có những khó khăn, vướng mắc đề nghị các cơ quan, đơn vị trong ngành Tài chính phản ánh kịp thời về Bộ Tài chính (qua Văn phòng Bộ) để xem xét, hướng dẫn, điều chỉnh cho phù hợp./.\nPHỤ LỤC I\nMẪU MỤC LỤC HỒ SƠ, TÀI LIỆU NỘP LƯU\n(Kèm theo Quyết định số 2449/QĐ-BTC ngày 11/11/2016 của Bộ Tài chính) TÊN ĐƠN VỊ (nộp lưu tài liệu)\nMỤC\nLỤC HỒ SƠ, TÀI LIỆU NỘP LƯU\nNăm 20... Hộp/ cặp số Số, ký hiệu hồ sơ Tiêu đề hồ sơ Thời gian tài liệu Thời hạn bảo quản Số tờ Ghi chú (1) (2) (3) (4) (5) (6) (7) Mục lục này gồm:………………………………………………………… hồ sơ (đơn vị bảo quản). Viết bằng chữ: ……………………………………………………….hồ sơ (đơn vị bảo quản). Trong đó có: ………………………………. hồ sơ (đơn vị bảo quản) bảo quản vĩnh viễn. ……………………………… hồ sơ (đơn vị bảo quản) bảo quản có thời hạn. …………., ngày .... tháng …. năm 20.... Người lập (Ký và ghi rõ họ tên, chức vụ/chức danh) Hướng dẫn cách ghi các cột: Cột 1: Ghi số thứ tự của hộp hoặc cặp tài liệu giao nộp. Cột 2: Ghi số và ký hiệu của hồ sơ như trên bìa hồ sơ. Cột 3: Ghi tiêu đề hồ sơ như trên bìa hồ sơ. Cột 4: Ghi thời gian sớm nhất và muộn nhất của văn bản, tài liệu trong hồ sơ. Cột 5: Ghi thời hạn bảo quản của hồ sơ như trên bìa hồ sơ. Cột 6: Ghi tổng số tờ tài liệu có trong hồ sơ. Cột 7: Ghi những thông tin cần chú ý về nội dung và hình thức của văn bản có trong hồ sơ./.\nPHỤ LỤC II\nMẪU BIÊN BẢN GIAO NHẬN TÀI LIỆU\n(Kèm theo Quyết định số 2449/QĐ-BTC ngày 11/11/2016 của Bộ Tài chính)\nTÊN CQ, TC CẤP TRÊN TÊN CƠ QUAN, TỔ CHỨC\n-------\nCỘNG\nHÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc --------------- ………….., ngày tháng năm 20..…..\nBIÊN BẢN\nVề việc giao nhận tài liệu Căn cứ Quyết định số 2449/QĐ-BTC ngày 11 tháng 11 năm 2016 về ban hành quy chế công tác lưu trữ của Bộ Tài chính; Căn cứ ………………………. (Danh mục hồ sơ năm ……, Kế hoạch thu thập tài liệu) Chúng tôi gồm: BÊN GIAO: (tên đơn vị giao nộp tài liệu), đại diện là: - Ông (bà): ……………………………………………………………………………………… - Chức vụ công tác/chức danh: …………………………………………………. BÊN NHẬN: (Lưu trữ cơ quan), đại diện là: - Ông (bà): ………………………………………………………………………… - Chức vụ công tác/chức danh: …………………………………………………. Thống nhất lập biên bản giao nhận tài liệu với những nội dung như sau:\n1. Tên khối tài liệu giao nộp:\n……………………………………………………….\n2. Thời gian của tài liệu: …………………………………………………………..\n3. Số lượng tài liệu:\n- Tổng số hộp (cặp): …………………………………………… - Tổng số hồ sơ (đơn vị bảo quản); ……………….. Quy ra mét giá: ……….. mét\n4. Tình trạng tài\nliệu giao nộp: ……………………………………………………………….\n5. Mục lục hồ sơ, tài liệu nộp lưu\nkèm theo. Biên bản này được lập thành hai bản; bên giao (đơn vị /cá nhân) giữ một bản, bên nhận (Lưu trữ cơ quan) giữ một bản./.\nĐẠI DIỆN BÊN GIAO\n(Ký tên và ghi rõ họ tên)\nĐẠI DIỆN BÊN NHẬN\n(Ký tên và ghi rõ họ tên)\nPHỤ LỤC III\nMẪU DANH MỤC TÀI LIỆU HẾT GIÁ TRỊ\n(Kèm theo Quyết định số 2449/QĐ-BTC ngày 11/11/2016 của Bộ Tài chính)\nDANH\nMỤC TÀI LIỆU HẾT GIÁ TRỊ\nPhông (khối) ………………….. Từ năm …………… đến năm Bó số Hồ sơ số Tiêu đề hồ sơ hoặc tập tài liệu Lý do hủy Ghi chú (1) (2) (3) (4) (5) Hướng dẫn cách ghi: Phông (khối): Ghi tên phông hoặc khối tài liệu (1): Ghi thứ tự các bó (cặp) tài liệu. Số thứ tự được ghi liên tục cho một phông (hoặc khối) tài liệu. (2): Ghi số thứ tự hồ sơ hoặc tập tài liệu hết giá trị trong từng bó (cặp). (3): Ghi tiêu đề của hồ sơ hoặc tài liệu hết giá trị. Tiêu đề tài liệu hết giá trị phải phản ánh hết nội dung tài liệu bên trong. (4): Ghi lý do hủy tài liệu như: hết thời hạn bảo quản; bị bao hàm (đối với kế hoạch, báo cáo tháng, quý mà đã giữ báo cáo 6 tháng hoặc năm); trùng; tài liệu bị rách nát không còn khả năng phục hồi; bản nháp; tư liệu tham khảo; bản chụp ... Đối với những hồ sơ hoặc tập tài liệu bị bao hàm, trùng thừa phải ghi rõ bị bao hàm hoặc trùng với hồ sơ nào trong mục lục hồ sơ giữ lại. (5): Ghi ý kiến của Hội đồng xác định giá trị tài liệu hoặc các ghi chú khác.\nPHỤ LỤC IV\nMẪU BẢN THUYẾT MINH TÀI LIỆU HẾT GIÁ\nTRỊ\n(Kèm theo Quyết định số 2449/QĐ-BTC ngày 11/11/2016 của Bộ Tài chính)\nBẢN\nTHUYẾT MINH TÀI LIỆU HẾT GIÁ TRỊ\nPhông (khối)........................ Thời gian của Phông (khối) tài liệu ………………….. I. Tóm tắt tình hình khối tài liệu hết giá trị\n1. Sự hình thành khối tài liệu hết\ngiá trị: Tài liệu được loại ra khi nào? (Trong quá trình chỉnh lý hay khi tiến hành đánh giá độc lập phông (khối) tài liệu lưu trữ?).\n2. Số lượng: Tổng số tài liệu khi đưa\nra chỉnh lý là ... mét; hồ sơ, tài liệu giữ lại bảo quản là ….. mét; số lượng tài liệu loại ra ... mét (bó, gói); tỷ lệ loại ra so với tài liệu giữ lại là ...%.\n3. Thời gian: Thời gian bắt đầu và thời\ngian kết thúc của khối tài liệu hết giá trị. II. Tóm tắt thành phần và nội dung chủ yếu của tài liệu hết giá trị Tài liệu hết giá trị bao gồm các nhóm: Tài liệu hết thời hạn bảo quản, tài liệu bị bao hàm, tài liệu trùng, tài liệu bị rách nát không khôi phục được, tư liệu tham khảo, bản chụp ...\n1. Nhóm tài liệu hết thời hạn bảo quản:\nGồm những tài liệu gì? Nội dung về vấn đề gì? Tác giả? Thời gian? Lý do hủy? ...).\n2. Nhóm tài liệu bị bao hàm: Gồm những\ntài liệu gì? Về vấn đề gì? Lý do hủy? ...\n3. Nhóm tài liệu trùng: Gồm những tài\nliệu gì?\n4. Nhóm tư liệu: Gồm những loại nào?\nNội dung về vấn đề gì? …….., ngày ...tháng....năm...\nNGƯỜI VIẾT THUYẾT MINH\n(Họ và tên, chữ ký)\nPHỤ LỤC V\nMẪU BIÊN BẢN HỌP HỘI ĐỒNG XÁC ĐỊNH\nGIÁ TRỊ TÀI LIỆU\n(Kèm theo Quyết định số 2449/QĐ-BTC ngày 11/11/2016 của Bộ Tài chính)\nTÊN CƠ QUAN, TỔ CHỨC HỘI ĐỒNG XÁC ĐỊNH\nGIÁ TRỊ TÀI LIỆU\n-------\nCỘNG\nHÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc --------------- ……, ngày .... tháng .... năm ....\nBIÊN BẢN\nHọp Hội đồng xác định giá trị tài liệu Căn cứ Điều 18, Luật Lưu trữ năm 2011 của Quốc hội và Quyết định số.... ngày …. tháng ….. năm..... của.... về việc thành lập Hội đồng xác định giá trị tài liệu. Hôm nay, vào hồi....giờ ngày...tháng...năm….., Tại……………………………………………........ Hội đồng xác định giá trị của ………………. (cơ quan) gồm có: ………………… (ghi rõ họ tên các thành viên trong Hội đồng) ……………………………………………. Chủ tọa: ………………………………. Thư ký: ………………………………….. Ủy viên …………………………………… Nội dung họp: Xét hủy tài liệu hết giá trị Phông (khối) tài liệu …………… Sau khi nghiên cứu, xem xét Danh mục tài liệu hết giá trị của Phông (khối) …………………… và kiểm tra thực tế, các thành viên trong Hội đồng có ý kiến như sau: 1…………………………………….. 2……………………………………. 3……………………………………. Chủ tọa cuộc họp thống nhất kết luận:\n1. Đề nghị giữ lại những tập (hồ sơ)\ntài liệu số:……………….., nêu lý do (nếu có).\n2. Đề nghị (người có thẩm quyền)\n……………… xem xét, quyết định cho phép tiêu hủy tài liệu theo Danh mục đính kèm. Hội đồng thông qua biên bản cuộc họp, với ý kiến nhất trí .../... (ghi rõ số lượng) Cuộc họp kết thúc vào hồi......h ngày... ./.\nTHƯ KÝ\n(Ký và ghi rõ họ tên)\nCHỦ TỊCH HỘI ĐỒNG\n(Ký và ghi rõ họ tên)\nPHỤ LỤC VI\nMẪU CÔNG VĂN ĐỀ NGHỊ THẨM ĐỊNH TÀI LIỆU\nHẾT GIÁ TRỊ\n(Kèm theo Quyết định số 2449/QĐ-BTC ngày 11/11/2016 của Bộ Tài chính)\nTÊN CQ, TC CẤP TRÊN TÊN CƠ QUAN, TỔ CHỨC\n-------\nCỘNG\nHÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc --------------- Số: /... - .... V/v đề nghị thẩm định tài liệu hết giá trị ….., ngày .... tháng .... năm .... Kính gửi: ………………………………………\nDanh mục tài liệu hết giá trị của\nPhông (khối).... được lập ra trong quá trình phân loại, chỉnh lý tài liệu (hoặc trong quá trình xác định giá trị tài liệu). Danh mục đã được Hội đồng xác định giá trị tài liệu của (cơ quan) xem xét, kiểm tra và nhất trí để cho phép tiêu hủy. Để việc tiêu hủy tài liệu được thực hiện đúng theo quy định pháp luật, (cơ quan) gửi hồ sơ xét hủy tài liệu hết giá trị của Phông (khối) …….. đề nghị ………. thẩm tra và cho ý kiến bằng văn bản để (cơ quan) có cơ sở ra quyết định tiêu hủy số tài liệu hết giá trị trên./.\nNơi nhận:\n- Như trên;\n- Lưu VT,...\nQUYỀN HẠN VÀ CHỨC\nVỤ CỦA NGƯỜI KÝ\n(Chữ ký, dấu)\nHọ và tên\nPHỤ LỤC VII\nMẪU BIÊN BẢN BÀN GIAO TÀI LIỆU HẾT\nGIÁ TRỊ\n(Kèm theo Quyết định số 2449/QĐ-BTC ngày 11/11/2016 của Bộ Tài chính)\nTÊN CQ, TC CẤP TRÊN TÊN CƠ QUAN, TỔ CHỨC\n-------\nCỘNG\nHÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc --------------- ………., ngày …. tháng ….. năm …….\nBIÊN BẢN\nVề việc bàn giao tài liệu hết giá trị Căn cứ Điều 28, Luật Lưu trữ năm 2011 của Quốc hội; Căn cứ Quyết định số ngày...... tháng…... năm…... của ….... về việc cho tiêu hủy tài liệu hết giá trị, Hôm nay, vào hồi ..... Tại (nơi tiêu hủy): ………………………… Chúng tôi gồm: Bên giao: 1………………………………………. cơ quan (đơn vị) …………………………. 2……………………………………… cơ quan…………………………………….. 3……………………………………… cơ quan…………………………………….. Bên nhận: 1………………………………………. cơ quan (đơn vị) …………………………. 2……………………………………… cơ quan…………………………………….. 3……………………………………… cơ quan…………………………………….. Cùng giao và nhận khối lượng tài liệu để tiêu hủy như sau: - Tên phông (khối) tài liệu: ………………………………………………………… - Số lượng ………….. tập (hồ sơ) theo Danh mục tài liệu hết giá trị. Hai bên đã giao và nhận đầy đủ số lượng tài liệu hết giá trị ghi trong Danh mục. Biên bản này lập thành 2 bản: bên giao giữ một bản, bên nhận giữ một bản./.\nĐẠI DIỆN BÊN GIAO\n(Họ và tên, ký)\nĐẠI DIỆN BÊN NHẬN\n(Họ và tên, ký)\nPHỤ LỤC VIII\nMẪU BIÊN BẢN BÀN GIAO TÀI LIỆU HẾT\nGIÁ TRỊ\n(Kèm theo Quyết định số 2449/QĐ-BTC ngày 11/11/2016 của Bộ Tài chính)\nTÊN CQ, TC CẤP TRÊN TÊN CƠ QUAN, TỔ CHỨC\n-------\nCỘNG\nHÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc --------------- ………., ngày …. tháng ….. năm …….\nBIÊN BẢN\nVề việc tiêu hủy tài liệu hết giá trị Căn cứ Quyết định số …….. ngày... tháng... năm….. của …………… về việc tiêu hủy tài liệu hết giá trị, Hôm nay, vào hồi....... Tại (nơi hủy)...................................................................................................................... Chúng tôi gồm: 1………………………………………………..cơ quan………………………………………. 2………………………………………………..cơ quan………………………………………. 3………………………………………………..cơ quan………………………………………. 4………………………………………………..cơ quan………………………………………. 5……………………………………….. Đã tiến hành tiêu hủy số tài liệu hết giá trị thuộc Phông (khối)……………………………… Số lượng tài liệu được tiêu hủy …………………………………………….. Phương pháp hủy: (nghiền bột giấy, cắt nhỏ...) ………………………….. Chúng tôi đã hủy hết số tài liệu ghi trong Danh mục tài liệu hết giá trị theo quy định. Biên bản này lập thành 2 bản: cơ quan có tài liệu giữ một bản, cơ quan thực hiện tiêu hủy tài liệu giữ một bản./.\nĐẠI DIỆN CƠ QUAN (ĐƠN VỊ)\nTIÊU HỦY TÀI LIỆU\n(Họ và tên, ký) Xác nhận của cơ quan (Ký tên, đóng dấu)\nĐẠI DIỆN CƠ QUAN (ĐƠN VỊ)\nCÓ TÀI LIỆU TIÊU HỦY\n(Họ và tên, ký) Xác nhận của cơ quan (Ký tên, đóng dấu)\nPHỤ LỤC IX\nMẪU QUYẾT ĐỊNH TIÊU HỦY TÀI LIỆU HẾT\nGIÁ TRỊ\n(Kèm theo Quyết định số 2449/QĐ-BTC ngày 11/11/2016 của Bộ Tài chính)\nTÊN CQ, TC CẤP TRÊN TÊN CƠ QUAN, TỔ CHỨC\n-------\nCỘNG\nHÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc --------------- Số:\n/QĐ-....\n………., ngày …. tháng ….. năm …….\nQUYẾT ĐỊNH\nVề việc tiêu hủy tài liệu hết giá trị\nTHẨM QUYỀN BAN HÀNH………………………………\nCăn cứ ...... (văn bản quy định chức năng, nhiệm vụ, quyền hạn của cơ quan.....); Căn cứ Luật Lưu trữ số 01/2011/QH13 ngày 11/11/2011; Căn cứ ... (văn bản thẩm định của cấp có thẩm quyền); Theo đề nghị của Chủ tịch Hội đồng xác định giá trị tài liệu,\nQUYẾT ĐỊNH:\nĐiều 1. Tiêu hủy ... tập (hồ sơ) tài liệu hết giá trị thuộc Phông (khối).... (kèm theo\nDanh mục tài liệu hết giá trị).\nĐiều 2. Giao cho (Lưu trữ cơ quan).... thực hiện việc tiêu hủy tài liệu theo đúng quy định pháp luật.\nĐiều 3. Chủ tịch Hội đồng xác định giá trị tài liệu ………….. chịu trách nhiệm thi hành Quyết định này./.\nNơi nhận:\n- Như Điều 3;\n- Lưu: VT.\nQUYỀN\nHẠN VÀ CHỨC VỤ CỦA NGƯỜI KÝ\n(Chữ\nký, dấu)\nHọ và tên",
+  "tree": {
+    "parts": [
+      {
+        "part_id": "doc:192038:part:1",
+        "part_type": "main",
+        "part_title": null,
+        "reference": null,
+        "direct_text": "QUYẾT ĐỊNH BAN\nHÀNH QUY CHẾ CÔNG TÁC LƯU TRỮ CỦA BỘ TÀI CHÍNH\nBỘ TRƯỞNG BỘ TÀI CHÍNH\nCăn cứ Luật lưu trữ số 01/2011/QH13 ngày 11/11/2011; Căn cứ Nghị định số 01/2013/NĐ-CP ngày 03/01/2013 của Chính phủ quy định chi tiết thi hành một số điều của Luật lưu trữ; Căn cứ Nghị định số 215/2013/NĐ-CP ngày 23/12/2013 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài chính; Căn cứ Thông tư số 06/2015/TT-BNV ngày 08/12/2015 của Bộ Nội vụ hướng dẫn chức năng, nhiệm vụ, quyền hạn và tổ chức của tổ chức văn thư, lưu trữ Bộ, cơ quan ngang Bộ; Căn cứ Thông tư số 09/2007/TT-BNV ngày 26/11/2007 của Bộ Nội vụ hướng dẫn về kho lưu trữ chuyên dụng; Căn cứ Thông tư số 07/2012/TT-BNV ngày 22/11/2012 của Bộ Nội vụ hướng dẫn quản lý văn bản, lập hồ sơ và nộp lưu hồ sơ tài liệu vào lưu trữ cơ quan; Căn cứ Thông tư số 04/2013/TT-BNV ngày 16/4/2013 của Bộ Nội vụ hướng dẫn xây dựng quy chế công tác văn thư, lưu trữ của các cơ quan, tổ chức; Căn cứ Thông tư số 09/2013/TT-BNV ngày 31/10/2013 của Bộ Nội vụ về quy định chế độ báo cáo thống kê công tác lưu trữ và tài liệu lưu trữ; Căn cứ Thông tư số 155/2013/TT-BTC ngày 06/11/2013 của Bộ Tài chính quy định về thời hạn bảo quản, hồ sơ, tài liệu hình thành phổ biến trong hoạt động của ngành Tài chính; Căn cứ Thông tư số 16/2014/TT-BNV ngày 20/11/2014 của Bộ Nội vụ hướng dẫn giao, nhận tài liệu lưu trữ vào lịch sử các cấp; Căn cứ Thông tư số 17/2014/TT-BNV ngày 20/11/2014 của Bộ Nội vụ hướng dẫn xác định cơ quan, tổ chức thuộc nguồn nộp lưu tài liệu vào lưu trữ lịch sử các cấp; Căn cứ Thông tư số 161/2014/TT-BTC ngày 31/10/2014 của Bộ Tài chính quy định công tác bảo vệ bí mật nhà nước của ngành Tài chính; Theo đề nghị của Chánh Văn phòng Bộ Tài chính,\nQUYẾT ĐỊNH:\nQuy chế công tác lưu trữ của Bộ Tài chính",
+        "chapters": [],
+        "sections": [],
+        "articles": [
+          {
+            "article_id": "doc:192038:part:1:article:1",
+            "number": "1",
+            "title": "Ban hành kèm theo Quyết định này Quy chế công tác lưu trữ của Bộ Tài chính.",
+            "content": "Điều 1. Ban hành kèm theo Quyết định này Quy chế công tác lưu trữ của Bộ Tài chính.",
+            "clauses": [],
+            "points": []
+          },
+          {
+            "article_id": "doc:192038:part:1:article:2",
+            "number": "2",
+            "title": "Quyết định này có hiệu lực thi hành kể từ ngày ký và thay thế Quyết định số 62/QĐ-BTC của Bộ trưởng Bộ Tài chính ngày 10/01/2005 về ban hành",
+            "content": "Điều 2. Quyết định này có hiệu lực thi hành kể từ ngày ký và thay thế Quyết định số 62/QĐ-BTC của Bộ trưởng Bộ Tài chính ngày 10/01/2005 về ban hành",
+            "clauses": [],
+            "points": []
+          },
+          {
+            "article_id": "doc:192038:part:1:article:3",
+            "number": "3",
+            "title": "Chánh Văn phòng Bộ, Thủ trưởng các cơ quan, đơn vị và cán bộ, công chức, viên chức Bộ Tài chính chịu trách nhiệm thi hành Quyết định này./.",
+            "content": "Điều 3. Chánh Văn phòng Bộ, Thủ trưởng các cơ quan, đơn vị và cán bộ, công chức, viên chức Bộ Tài chính chịu trách nhiệm thi hành Quyết định này./.",
+            "clauses": [],
+            "points": []
+          }
+        ],
+        "unstructured_blocks": []
+      },
+      {
+        "part_id": "doc:192038:part:2",
+        "part_type": "regulation",
+        "part_title": "QUY CHẾ",
+        "reference": null,
+        "direct_text": "QUY CHẾ\nCÔNG TÁC LƯU TRỮ CỦA BỘ TÀI CHÍNH\n(Ban hành kèm theo Quyết định số\n2449/QĐ-BTC ngày 11/11/2016 của Bộ Tài chính)\nDanh mục tài liệu nộp lưu vào Lưu trữ lịch sử được quản lý tại Lưu trữ cơ quan.\ndanh mục, viết thuyết minh tài liệu hết giá trị;\nc) Bước 3: Phòng hoặc Bộ phận Lưu trữ\ntrình Thủ trưởng cơ quan hồ sơ xét hủy tài liệu hết giá trị, bao gồm: - Soạn thảo tờ trình về việc tiêu hủy tài liệu hết giá trị. - Danh mục tài liệu hết giá trị (theo mẫu tại Phụ lục III). - Bản thuyết minh tài liệu hết giá trị (theo mẫu tại Phụ lục IV). - Mục lục hồ sơ, tài liệu giữ lại. - Dự thảo quyết định về thành lập Hội đồng xác định giá trị tài liệu. - Thủ trưởng đơn vị có tài liệu tiêu hủy ra Quyết định thành lập Hội đồng xác định giá trị tài liệu;\nd) Bước 4: Xét hủy tài liệu hết giá\ntrị: - Từng thành viên của Hội đồng nghiên cứu danh mục tài liệu và kiểm tra thực tế tài liệu (nếu cần thiết) để xác định những hồ sơ, tài liệu cần giữ lại bảo quản hoặc đã hết giá trị để tiêu hủy; - Hội đồng thảo luận tập thể và biểu quyết theo đa số về tài liệu dự kiến tiêu hủy hoặc giữ lại. Nội dung cuộc họp được lập thành biên bản có đủ chữ ký của các thành viên trong Hội đồng. Biên bản được lập thành 2 bản, một bản lưu tại Hồ sơ hủy tài liệu của cơ quan và một bản đưa vào hồ sơ trình cấp có thẩm quyền thẩm tra tài liệu hết giá trị (Biên bản theo mẫu tại Phụ lục V);\ne) Bước 5: Phòng hoặc Bộ phận Lưu trữ\nhoàn chỉnh danh mục tài liệu hết giá trị và trình người đứng đầu cơ quan, tổ chức xem xét, gửi cơ quan có thẩm quyền thẩm định tài liệu hủy theo quy định tại khoản 1 Điều này. Hồ sơ đề nghị thẩm định gồm: - Công văn đề nghị thẩm định tài liệu hết giá trị (theo mẫu tại Phụ lục VI). - Danh mục tài liệu hết giá trị. - Bản thuyết minh tài liệu hết giá trị. - Biên bản họp Hội đồng xác định giá trị tài liệu.\nf) Bước 6: Sau khi có ý kiến thẩm định\nbằng văn bản của cơ quan có thẩm quyền, Phòng hoặc Bộ phận Lưu trữ cơ quan có trách nhiệm hoàn thiện hồ sơ, tài liệu và Danh mục hồ sơ; thuyết minh tài liệu hủy theo ý kiến thẩm định (nếu có);\ng) Bước 7: Phòng hoặc Bộ phận Lưu trữ\ncơ quan trình cấp có thẩm quyền ra quyết định tiêu hủy tài liệu hết giá trị theo quy định tại Khoản 1 Điều này;\nh) Bước 8: Phòng hoặc Bộ phận Lưu trữ\ncơ quan tổ chức tiêu hủy tài liệu hết giá trị: - Việc tiêu hủy tài liệu hết giá trị chỉ được thực hiện sau khi có quyết định bằng văn bản của người có thẩm quyền. - Việc tiêu hủy tài liệu hết giá trị phải đảm bảo hủy hết thông tin trong tài liệu, không thể phục hồi được. - Việc tổ chức tiêu hủy được thực hiện theo các bước sau: + Đóng gói tài liệu hết giá trị. + Lập biên bản bàn giao tài liệu hết giá trị giữa công chức, viên chức quản lý kho lưu trữ và người được giao nhiệm vụ thực hiện hủy tài liệu hết giá trị (theo mẫu tại Phụ lục VII). + Vận chuyển tài liệu đến nơi tiêu hủy (chuyển tài liệu từ kho ra xe). + Thực hiện tiêu hủy tài liệu hết giá trị. Việc tiêu hủy thực hiện tại cơ quan bằng máy cắt giấy, ngâm nước hoặc chuyển đến nhà máy giấy để tiêu hủy. Trường hợp khi hủy tài liệu tại nhà máy phải có sự giám sát của cán bộ lưu trữ và hủy đến khi tài liệu hủy không còn thông tin. + Lập biên bản tiêu hủy tài liệu hết giá trị (theo mẫu tại Phụ lục VIII).\ni) Bước 9: Phòng hoặc Bộ phận Lưu trữ\ncơ quan lập và lưu hồ sơ tiêu hủy tài liệu hết giá trị, hồ sơ tiêu hủy tài liệu hết giá trị bao gồm: - Tờ trình về việc tiêu hủy tài liệu hết giá trị. - Danh mục tài liệu hết giá trị và tài liệu giữ lại. - Bản thuyết minh tài liệu hết giá trị. - Quyết định thành lập Hội đồng xác định giá trị tài liệu. - Biên bản họp Hội đồng xác định giá trị tài liệu. - Văn bản đề nghị thẩm định, xin ý kiến của cơ quan có tài liệu hết giá trị. - Văn bản thẩm định, cho ý kiến của cơ quan có thẩm quyền. - Quyết định của người có thẩm quyền cho phép tiêu hủy tài liệu hết giá trị (theo mẫu tại Phụ lục IX). - Biên bản bàn giao tài liệu hết giá trị. - Biên bản về việc tiêu hủy tài liệu hết giá trị. - Các tài liệu khác có liên quan. Hồ sơ tiêu hủy tài liệu hết giá trị phải được bảo quản vĩnh viễn tại Lưu trữ cơ quan có tài liệu tiêu hủy.\n3. Hủy tài liệu lưu trữ điện tử hết giá\ntrị\na) Tài liệu lưu trữ điện tử hết giá\ntrị được hủy theo thẩm quyền, thủ tục như tài liệu lưu trữ trên các vật mang tin khác hết giá trị;\nb) Việc hủy tài liệu lưu trữ điện tử\nphải được thực hiện đối với toàn bộ hồ sơ thuộc Danh mục tài liệu hết giá trị đã được phê duyệt và phải bảo đảm thông tin đã bị hủy không thể khôi phục lại được.",
+        "chapters": [
+          {
+            "chapter_id": "doc:192038:part:2:chapter:1",
+            "number": "I",
+            "title": "QUY ĐỊNH CHUNG",
+            "content": "Chương I\nQUY ĐỊNH CHUNG",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:192038:part:2:article:1",
+                "number": "1",
+                "title": "Phạm vi điều chỉnh và đối tượng áp dụng",
+                "content": "Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng",
+                "clauses": [
+                  {
+                    "clause_id": "doc:192038:part:2:article:1:clause:1",
+                    "number": "1",
+                    "content": "1. Quy chế này, quy định các hoạt động\nvề công tác lưu trữ trong quá trình quản lý, chỉ đạo của Bộ Tài chính để thực hiện chức năng, nhiệm vụ của Bộ.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:192038:part:2:article:1:clause:2",
+                    "number": "2",
+                    "content": "2. Đối tượng áp dụng: Các cơ quan, tổ\nchức, đơn vị, cá nhân thuộc Bộ Tài chính.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:192038:part:2:article:2",
+                "number": "2",
+                "title": "Giải thích từ ngữ Các cụm từ gồm: Phông lưu trữ, hoạt động lưu trữ, tài liệu, tài liệu lưu trữ, lưu trữ cơ quan, lưu trữ lịch sử, hồ sơ, lập hồ sơ, lập hồ sơ điện tử, hồ sơ điện tử, thu thập tài liệu, chỉnh lý tài liệu, xác định giá trị tài liệu, được giải thích tại Điều 2, Luật lưu trữ 2011 và Điều 2 Nghị định số 01/2013/NĐ-CP ngày 03/01/2013 của Chính phủ quy định chi tiết thi hành một số điều của Luật lưu trữ.",
+                "content": "Điều 2. Giải thích từ ngữ Các cụm từ gồm: Phông lưu trữ, hoạt động lưu trữ, tài liệu, tài liệu lưu trữ, lưu trữ cơ quan, lưu trữ lịch sử, hồ sơ, lập hồ sơ, lập hồ sơ điện tử, hồ sơ điện tử, thu thập tài liệu, chỉnh lý tài liệu, xác định giá trị tài liệu, được giải thích tại Điều 2, Luật lưu trữ 2011 và Điều 2 Nghị định số 01/2013/NĐ-CP ngày 03/01/2013 của Chính phủ quy định chi tiết thi hành một số điều của Luật lưu trữ.",
+                "clauses": [],
+                "points": []
+              },
+              {
+                "article_id": "doc:192038:part:2:article:3",
+                "number": "3",
+                "title": "Hệ thống Lưu trữ cơ quan thuộc Bộ Tài chính từ Trung ương đến địa phương",
+                "content": "Điều 3. Hệ thống Lưu trữ cơ quan thuộc Bộ Tài chính từ Trung ương đến địa phương",
+                "clauses": [
+                  {
+                    "clause_id": "doc:192038:part:2:article:3:clause:1",
+                    "number": "1",
+                    "content": "1. Ở Trung ương",
+                    "points": [
+                      {
+                        "point_id": "doc:192038:part:2:article:3:clause:1:point:1",
+                        "label": "a",
+                        "content": "a) Lưu trữ cơ quan tại Bộ Tài chính là Văn phòng Bộ, có trách nhiệm quản lý toàn bộ hồ sơ, tài liệu của\nVăn phòng, Vụ, Cục, Thanh tra, các dự án thuộc cơ quan Bộ quản lý;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:192038:part:2:article:3:clause:1:point:2",
+                        "label": "b",
+                        "content": "b) Lưu trữ cơ quan tại các Tổng cục\ntrực thuộc Bộ (gồm: Tổng cục Thuế, Tổng cục Hải quan, Kho bạc Nhà nước, Tổng cục Dự trữ, Ủy ban Chứng khoán Nhà nước) là Văn phòng Tổng cục hoặc tương đương, có trách nhiệm quản lý toàn bộ hồ sơ, tài liệu của các Văn phòng, Vụ, Cục, Ban thuộc Tổng cục và tương đương;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:192038:part:2:article:3:clause:1:point:3",
+                        "label": "c",
+                        "content": "c) Lưu trữ cơ quan tại các đơn vị sự\nnghiệp, các doanh nghiệp hoặc tương đương trực thuộc Bộ là đơn vị được phân công làm công tác lưu trữ, có trách nhiệm quản lý hồ sơ tài liệu của các phòng, ban,... thuộc đơn vị trực thuộc cấp mình.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:192038:part:2:article:3:clause:2",
+                    "number": "2",
+                    "content": "2. Ở địa phương",
+                    "points": [
+                      {
+                        "point_id": "doc:192038:part:2:article:3:clause:2:point:1",
+                        "label": "a",
+                        "content": "a) Lưu trữ cơ quan tại các Cục và đơn\nvị tương đương thuộc hệ thống Thuế, Kho bạc, Hải quan, Dự trữ nhà nước có trách nhiệm quản lý tài liệu của các phòng, ban, bộ phận chuyên môn thuộc Cục và tương đương;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:192038:part:2:article:3:clause:2:point:2",
+                        "label": "b",
+                        "content": "b) Lưu trữ cơ quan tại các Chi\ncục và đơn vị tương đương thuộc hệ thống Thuế, Kho bạc, Hải quan, Dự trữ nhà nước quản lý tài liệu của các phòng, tổ, đội,... thuộc Chi cục và đơn vị tương đương.",
+                        "children": []
+                      }
+                    ]
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:192038:part:2:article:4",
+                "number": "4",
+                "title": "Người làm lưu trữ Ngoài các điều kiện, tiêu chuẩn của người làm lưu trữ theo quy định tại Điều 7, Luật lưu trữ 2011, người làm lưu trữ được hưởng các chế độ, quyền lợi theo quy định của Nhà nước và của Bộ Tài chính.",
+                "content": "Điều 4. Người làm lưu trữ Ngoài các điều kiện, tiêu chuẩn của người làm lưu trữ theo quy định tại Điều 7, Luật lưu trữ 2011, người làm lưu trữ được hưởng các chế độ, quyền lợi theo quy định của Nhà nước và của Bộ Tài chính.",
+                "clauses": [],
+                "points": []
+              },
+              {
+                "article_id": "doc:192038:part:2:article:5",
+                "number": "5",
+                "title": "Các hành vi bị nghiêm cấm",
+                "content": "Điều 5. Các hành vi bị nghiêm cấm",
+                "clauses": [
+                  {
+                    "clause_id": "doc:192038:part:2:article:5:clause:1",
+                    "number": "1",
+                    "content": "1. Chiếm đoạt, làm hỏng, làm mất tài\nliệu lưu trữ.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:192038:part:2:article:5:clause:2",
+                    "number": "2",
+                    "content": "2. Làm giả, sửa chữa, làm sai lệch nội\ndung tài liệu lưu trữ.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:192038:part:2:article:5:clause:3",
+                    "number": "3",
+                    "content": "3. Mua bán, chuyển giao, hủy trái phép tài liệu lưu trữ.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:192038:part:2:article:5:clause:4",
+                    "number": "4",
+                    "content": "4. Sử dụng tài liệu lưu trữ vào mục\nđích xâm phạm lợi ích của Nhà nước, quyền và lợi ích hợp pháp của cơ quan, cá nhân.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:192038:part:2:article:5:clause:5",
+                    "number": "5",
+                    "content": "5. Mang tài liệu lưu trữ ra ngoài cơ\nquan và ra nước ngoài khi chưa được cấp có thẩm quyền phê duyệt.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:192038:part:2:article:5:clause:6",
+                    "number": "6",
+                    "content": "6. Đối với tài liệu lưu trữ điện từ\nngoài các hành vi bị nghiêm cấm nêu tại Khoản 1, 2, 3, 4, 5 điều này, nghiêm cấm truy cập, thay đổi, giả mạo, sao chép, tiết lộ, gửi, hủy trái phép tài liệu lưu trữ điện tử. Tạo ra hoặc phát tán chương trình phần mềm làm rối loạn, thay đổi, phá hoại hệ thống điều hành hoặc có hành vi khác nhằm phá hoại phương tiện quản lý tài liệu lưu trữ điện tử.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:192038:part:2:chapter:2",
+            "number": "II",
+            "title": "QUY ĐỊNH CỤ THỂ",
+            "content": "Chương II\nQUY ĐỊNH CỤ THỂ",
+            "sections": [
+              {
+                "section_id": "doc:192038:part:2:section:1",
+                "number": "1",
+                "title": "VÀO LƯU TRỮ CƠ QUAN",
+                "content": "Mục 1. GIAO NỘP HỒ SƠ, TÀI LIỆU\nVÀO LƯU TRỮ CƠ QUAN",
+                "articles": [
+                  {
+                    "article_id": "doc:192038:part:2:article:6",
+                    "number": "6",
+                    "title": "Giao nộp hồ sơ, tài liệu vào Lưu trữ cơ quan",
+                    "content": "Điều 6. Giao nộp hồ sơ, tài liệu vào Lưu trữ cơ quan\n1. Trách nhiệm lập hồ sơ và giao nộp\nhồ sơ, tài liệu vào Lưu trữ cơ quan\na) Thủ trưởng các cơ quan, đơn vị có\ntrách nhiệm quản lý hồ sơ, tài liệu lưu trữ của cơ quan, chỉ đạo, kiểm tra, hướng dẫn việc lập hồ sơ và giao nộp hồ sơ, tài liệu vào Lưu trữ cơ quan theo quy định;\nb) Cán bộ, công\nchức, viên chức được giao giải quyết, theo dõi công việc có trách nhiệm lập hồ sơ và giao nộp hồ sơ, tài liệu vào Lưu trữ cơ quan theo quy định tại Quy chế công tác văn thư của Bộ Tài chính ban hành kèm theo Quyết định số 1616/QĐ-BTC ngày 19/7/2016 của Bộ Tài chính và Quyết định số 1939/QĐ-BTC ngày 12/8/2011 của Bộ Tài chính quy định công tác lập hồ sơ, danh mục hồ sơ và giao nộp hồ sơ vào Lưu trữ hiện hành của Bộ Tài chính và các đơn vị thuộc Bộ;\nc) Cán bộ văn thư tại cơ quan, đơn vị\ncó trách nhiệm hướng dẫn, đôn đốc cán bộ công chức, viên chức lập hồ sơ công việc và giao nộp hồ sơ, tài liệu vào Lưu trữ cơ quan theo đúng quy định;\nd) Trường hợp nghỉ hưu, thôi việc hoặc\nchuyển công tác khác phải làm thủ tục bàn giao hồ sơ, tài liệu cho đơn vị hay người kế nhiệm. Tài liệu bàn giao phải được thống kê danh mục và lập biên bản giao nhận.\n2. Nhiệm vụ của Lưu trữ cơ quan: Hàng\nnăm cán bộ công chức, viên chức lưu trữ cơ quan có nhiệm vụ tổ chức thu thập hồ sơ, tài liệu đã đến hạn nộp lưu vào kho lưu trữ cơ quan, theo quy định sau:\na) Lập kế hoạch thu thập hồ sơ, tài\nliệu;\nb) Phối hợp với\ncác bộ phận liên quan và cán bộ công chức, viên chức xác định những loại hồ sơ, tài liệu cần nộp lưu vào Lưu trữ cơ quan;\nc) Hướng dẫn các đơn vị, cán bộ công\nchức, viên chức chuẩn bị hồ sơ, tài liệu và lập “Mục lục hồ sơ, tài liệu nộp lưu”;\nd) Chuẩn bị kho và các phương tiện bảo\nquản tiếp nhận hồ sơ, tài liệu;\ne) Tổ chức tiếp nhận hồ sơ, tài liệu, kiểm tra đối chiếu giữa Mục lục hồ sơ, tài liệu nộp lưu với\nthực tế và lập Biên bản bàn giao hồ sơ, tài liệu;\nf) Hoàn chỉnh và sắp xếp hồ sơ, tài\nliệu theo quy định.\n3. Thời hạn và thành phần hồ sơ, tài\nliệu giao nộp (bao gồm cả tài liệu lưu trữ điện tử)\na) Thời hạn nộp hồ sơ, tài liệu vào\nLưu trữ cơ quan: - Trong thời hạn 01 năm, kể từ ngày công việc kết thúc cán bộ, công chức, viên chức phải thực hiện việc giao nộp hồ sơ, tài liệu và các vật mang tin khác vào kho lưu trữ cơ quan. Riêng đối với tài liệu xây dựng cơ bản trong thời hạn 03 tháng, kể từ ngày công trình được quyết toán hoặc tất toán tài khoản dự án đầu tư. - Trường hợp đơn vị, cá nhân có nhu cầu cần giữ lại hồ sơ, tài liệu đã đến hạn nộp lưu để phục vụ công việc thì phải được người đứng đầu cơ quan, đơn vị đồng ý và phải lập danh mục hồ sơ, tài liệu giữ lại gửi cho Lưu trữ cơ quan. Thời hạn giữ lại hồ sơ, tài liệu của đơn vị, cá nhân không quá 02 năm, kể từ ngày đến hạn nộp lưu.\nb) Thành phần hồ sơ, tài liệu nộp lưu\nvào Lưu trữ cơ quan, gồm toàn bộ hồ sơ, tài liệu hình thành trong quá trình theo dõi giải quyết công việc theo chức năng, nhiệm vụ được giao (bao gồm cả những hồ sơ chưa được đề cập đến trong Danh mục hồ sơ dự kiến nhưng phát sinh trong năm đã được giao giải quyết), trừ những loại hồ sơ sau không phải giao nộp vào Lưu trữ cơ quan: - Hồ sơ nguyên tắc dưới dạng các văn bản chụp dấu đen được dùng làm căn cứ để theo dõi, giải quyết công việc thuộc trách nhiệm của mỗi cá nhân như: Luật, Nghị định, Thông tư lấy từ trên mạng. - Hồ sơ công việc chưa giải quyết xong. - Tài liệu để tham khảo.\n4. Thủ tục giao, nhận hồ sơ, tài liệu\nvào Lưu trữ cơ quan đối với tài liệu lưu trữ và vật mang tin khác\na) Trách nhiệm đối với bên giao:\n- Thống kê toàn bộ hồ sơ, tài liệu đã đến hạn giao nộp vào Mục lục hồ sơ, tài liệu nộp lưu theo mẫu Phụ lục I. Cách lập hồ sơ, thống kê Mục lục hồ sơ được quy định cụ thể tại Quyết định số 1939/QĐ-BTC ngày 12/8/2011 của Bộ Tài chính quy định về công tác lập hồ sơ, danh mục hồ sơ và giao nộp hồ sơ vào lưu trữ hiện hành của Bộ Tài chính và các đơn vị thuộc Bộ. - Vận chuyển hồ sơ, tài liệu đến kho lưu trữ của cơ quan để làm thủ tục giao nộp.\nb) Trách nhiệm đối với bên nhận:\nLưu trữ cơ quan tiến hành kiểm tra, đối chiếu thống nhất với Bên giao về các nội dung của Mục lục hồ sơ, tài liệu nộp lưu; tiếp nhận và lập Biên bản giao nhận hồ sơ, tài liệu theo mẫu Phụ lục II.\nc) Mục lục hồ sơ, tài liệu nộp lưu và Biên bản giao nhận hồ sơ, tài liệu được lập thành\n02 bản, bên giao và bên nhận mỗi bên giữ một bản.\n5. Thu thập hồ sơ, tài liệu lưu trữ\nđiện tử vào Lưu trữ cơ quan\na) Trách nhiệm của bên giao:\n- Cán bộ công chức, viên chức phải lập hồ sơ điện tử để giao nộp vào lưu trữ cơ quan. - Lập Danh mục hồ sơ, tài liệu lưu trữ điện tử để giao nộp vào Lưu trữ cơ quan. - Đơn vị giao nộp hồ sơ, tài liệu và dữ liệu đặc tả kèm theo. - Tài liệu điện tử giao nộp vào Lưu trữ cơ quan phải chuẩn thông tin đầu vào; đảm bảo tính chính xác, toàn vẹn và khả năng truy cập; bảo đảm nội dung, cấu trúc, bối cảnh hình thành và được bảo vệ để không bị hư hỏng hoặc bị hủy hoại, sửa chữa hay bị mất dữ liệu.\nb) Trách nhiệm của bên nhận:\n- Lưu trữ cơ quan thông báo cho đơn vị giao nộp Danh mục hồ sơ nộp lưu. - Kiểm tra để bảo đảm hồ sơ nhận đúng, đủ theo Danh mục; dạng thức và cấu trúc đã thống nhất; liên kết chính xác dữ liệu đặc tả với hồ sơ, tài liệu; kiểm tra virút và kiểm tra tính chính xác, toàn vẹn và khả năng truy cập. - Lập Biên bản giao nhận hồ sơ, tài liệu lưu trữ điện tử. - Chuyển hồ sơ, tài liệu vào hệ thống quản lý tài liệu lưu trữ điện tử của cơ quan và thực hiện các biện pháp sao lưu dự phòng. Trường hợp tài liệu lưu trữ điện tử và tài liệu lưu trữ giấy có nội dung trùng nhau thì thu thập cả hai loại.",
+                    "clauses": [],
+                    "points": []
+                  },
+                  {
+                    "article_id": "doc:192038:part:2:article:7",
+                    "number": "7",
+                    "title": "Quản lý tài liệu lưu trữ trong trường hợp sáp nhập, giải thể, chia tách và chuyển đổi hình thức sở hữu",
+                    "content": "Điều 7. Quản lý tài liệu lưu trữ trong trường hợp sáp nhập, giải thể, chia tách và chuyển đổi hình thức sở hữu",
+                    "clauses": [
+                      {
+                        "clause_id": "doc:192038:part:2:article:7:clause:1",
+                        "number": "1",
+                        "content": "1. Tài liệu hình thành trong quá\ntrình hoạt động của cơ quan, đơn vị nào phải được chỉnh lý, thống kê và bảo quản theo phông lưu trữ của cơ quan, đơn vị đó.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:192038:part:2:article:7:clause:2",
+                        "number": "2",
+                        "content": "2. Nếu một hoặc nhiều đơn vị được sáp\nnhập vào một đơn vị khác hoặc thành lập đơn vị mới thì các hồ sơ, tài liệu đã giải quyết xong của đơn vị cũ phải chuyển giao cho đơn vị cấp trên trực tiếp hoặc cơ quan có thẩm quyền; các tài liệu chưa giải quyết xong sẽ do đơn vị mới tiếp nhận.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:192038:part:2:article:7:clause:3",
+                        "number": "3",
+                        "content": "3. Nếu một đơn vị sáp nhập vào một số\nđơn vị khác hoặc chia thành nhiều đơn vị mới thì hồ sơ, tài liệu đã giải quyết xong của đơn vị cũ được chuyển giao cho đơn vị cấp trên trực tiếp hoặc cơ quan có thẩm quyền; các tài liệu chưa giải quyết xong thuộc chức năng của đơn vị mới, thì do đơn vị đó tiếp nhận.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:192038:part:2:article:7:clause:4",
+                        "number": "4",
+                        "content": "4. Nếu cơ quan, đơn vị giải thể thì\ntoàn bộ hồ sơ tài liệu lưu trữ chuyển vào cơ quan quản lý cấp trên.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:192038:part:2:article:7:clause:5",
+                        "number": "5",
+                        "content": "5. Tài liệu lưu trữ sau khi chỉnh lý\nđược quản lý như sau:",
+                        "points": [
+                          {
+                            "point_id": "doc:192038:part:2:article:7:clause:5:point:1",
+                            "label": "a",
+                            "content": "a) Tài liệu lưu trữ của các đơn vị\nthuộc nguồn nộp lưu tài liệu vào Lưu trữ lịch sử được giao nộp vào Lưu trữ lịch sử có thẩm quyền;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:192038:part:2:article:7:clause:5:point:2",
+                            "label": "b",
+                            "content": "b) Tài liệu lưu trữ của các đơn vị không thuộc nguồn nộp lưu vào lưu trữ lịch sử được quản lý tại Lưu\ntrữ cơ quan của cơ quan doanh nghiệp mới tiếp nhận trụ sở cũ; trường hợp cơ quan giải thể, doanh nghiệp phá sản, giải thể hoặc không có cơ quan, doanh nghiệp tiếp nhận trụ sở cũ hoặc có nhiều cơ quan, doanh nghiệp mới cùng tiếp nhận trụ sở cũ thì tài liệu lưu trữ của cơ quan, doanh nghiệp được giao nộp vào lưu trữ cơ quan theo quyết định của cơ quan cấp trên trực tiếp hoặc cơ quan có thẩm quyền.",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ],
+                    "points": []
+                  }
+                ]
+              },
+              {
+                "section_id": "doc:192038:part:2:section:2",
+                "number": "2",
+                "title": "TÀI LIỆU",
+                "content": "Mục 2. CHỈNH LÝ, XÁC ĐỊNH GIÁ TRỊ\nTÀI LIỆU",
+                "articles": [
+                  {
+                    "article_id": "doc:192038:part:2:article:8",
+                    "number": "8",
+                    "title": "Chỉnh lý tài liệu",
+                    "content": "Điều 8. Chỉnh lý tài liệu",
+                    "clauses": [
+                      {
+                        "clause_id": "doc:192038:part:2:article:8:clause:1",
+                        "number": "1",
+                        "content": "1. Trách nhiệm chỉ đạo\n- Thủ trưởng các đơn vị thuộc cơ quan Bộ gồm: Các Vụ, Cục, Thanh tra, Văn phòng có trách nhiệm chỉ đạo việc giao nộp hồ sơ, tài liệu vào lưu trữ cơ quan Bộ theo đúng Điều 6 quy chế này; việc chỉnh lý tài liệu lưu trữ sẽ do Văn phòng Bộ thực hiện chung. - Thủ trưởng các cơ quan, đơn vị trực thuộc Bộ có trách nhiệm chỉ đạo, tổ chức việc chỉnh lý tài liệu thuộc phạm vi quản lý.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:192038:part:2:article:8:clause:2",
+                        "number": "2",
+                        "content": "2. Nguyên tắc chỉnh lý",
+                        "points": [
+                          {
+                            "point_id": "doc:192038:part:2:article:8:clause:2:point:1",
+                            "label": "a",
+                            "content": "a) Không phân tán phông lưu trữ. Tài\nliệu của từng đơn vị hình thành phông phải được chỉnh lý và sắp xếp riêng biệt;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:192038:part:2:article:8:clause:2:point:2",
+                            "label": "b",
+                            "content": "b) Khi phân loại, lập hồ sơ (chỉnh sửa\nhoàn thiện, lập mới hồ sơ) phải tôn trọng sự hình thành tài liệu theo trình tự theo dõi, giải quyết công việc (không phá vỡ hồ sơ đã lập);",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:192038:part:2:article:8:clause:2:point:3",
+                            "label": "c",
+                            "content": "c) Tài liệu sau khi chỉnh lý phải phản\nánh được các hoạt động của cơ quan hình thành tài liệu; sự liên hệ lôgíc và lịch sử của tài liệu.",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "clause_id": "doc:192038:part:2:article:8:clause:3",
+                        "number": "3",
+                        "content": "3. Trình tự các bước chỉnh lý tài liệu\nThực hiện theo quy định tại Công văn số 283/VTLTNN-NVTW ngày 19/5/2004 của Cục Văn thư và Lưu trữ Nhà nước về hướng dẫn chỉnh lý tài liệu hành chính; Quyết định số 128/QĐ-VTLTNN ngày 01/6/2009 của Cục trưởng Cục Văn thư và Lưu trữ Nhà nước về quy trình chỉnh lý tài liệu giấy theo TCVN ISO 9001:2000 ; Quyết định số 4027/QĐ-BTC ngày 06/12/2004 của Bộ Tài chính về ban hành quy chế chỉnh lý hồ sơ, tài liệu lưu trữ thuộc Bộ Tài chính; Thông tư 155/2013/TT-BTC ngày 06/11/2013 của Bộ Tài chính về quy định thời hạn bảo quản hồ sơ, tài liệu hình thành phổ biến trong hoạt động của ngành Tài chính và các quy định liên quan.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:192038:part:2:article:8:clause:4",
+                        "number": "4",
+                        "content": "4. Yêu cầu đối với tài liệu sau khi\nchỉnh lý",
+                        "points": [
+                          {
+                            "point_id": "doc:192038:part:2:article:8:clause:4:point:1",
+                            "label": "a",
+                            "content": "a) Phân loại và lập thành hồ sơ hoàn\nchỉnh theo nguyên tắc nghiệp vụ lưu trữ;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:192038:part:2:article:8:clause:4:point:2",
+                            "label": "b",
+                            "content": "b) Xác định thời hạn bảo quản cho hồ\nsơ, tài liệu;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:192038:part:2:article:8:clause:4:point:3",
+                            "label": "c",
+                            "content": "c) Hệ thống hóa hồ sơ, tài liệu;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:192038:part:2:article:8:clause:4:point:4",
+                            "label": "d",
+                            "content": "d) Lập các công cụ tra cứu: Mục lục hồ\nsơ, cơ sở dữ liệu và các công cụ tra cứu khác phục vụ cho việc quản lý và tra cứu sử dụng tài liệu;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:192038:part:2:article:8:clause:4:point:5",
+                            "label": "e",
+                            "content": "e) Lập danh mục tài liệu hết giá trị\ncần loại ra để hủy (nếu có);",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:192038:part:2:article:8:clause:4:point:6",
+                            "label": "f",
+                            "content": "f) Lập danh mục tài liệu bảo quản\nvĩnh viễn (nếu có);",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:192038:part:2:article:8:clause:4:point:7",
+                            "label": "g",
+                            "content": "g) Lập danh mục tài liệu lạc phông (nếu\ncó);",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:192038:part:2:article:8:clause:4:point:8",
+                            "label": "h",
+                            "content": "h) Lập danh mục tài liệu bảo quản có\nthời hạn;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:192038:part:2:article:8:clause:4:point:9",
+                            "label": "i",
+                            "content": "i) Tài liệu đưa lên giá được sắp xếp\nkhoa học, có chỉ dẫn khai thác.",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "clause_id": "doc:192038:part:2:article:8:clause:5",
+                        "number": "5",
+                        "content": "5. Đối với các cơ quan, đơn vị khi\nthuê công ty chỉnh lý tài liệu",
+                        "points": [
+                          {
+                            "point_id": "doc:192038:part:2:article:8:clause:5:point:1",
+                            "label": "a",
+                            "content": "a) Phải thực hiện đúng các quy trình,\nthủ tục quy định của Luật Đấu thầu và pháp luật có liên quan;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:192038:part:2:article:8:clause:5:point:2",
+                            "label": "b",
+                            "content": "b) Công ty thực hiện chỉnh lý phải bảo\nmật thông tin hồ sơ, tài liệu lưu trữ của đơn vị thuê chỉnh lý;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:192038:part:2:article:8:clause:5:point:3",
+                            "label": "c",
+                            "content": "c) Cơ quan, đơn vị thuê chỉnh lý phải\nquản lý, giám sát chặt chẽ quá trình thực hiện và sản phẩm sau khi thuê chỉnh lý phải đáp ứng được các quy định của nhà nước và của Bộ Tài chính.",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ],
+                    "points": []
+                  },
+                  {
+                    "article_id": "doc:192038:part:2:article:9",
+                    "number": "9",
+                    "title": "Xác định giá trị tài liệu",
+                    "content": "Điều 9. Xác định giá trị tài liệu",
+                    "clauses": [
+                      {
+                        "clause_id": "doc:192038:part:2:article:9:clause:1",
+                        "number": "1",
+                        "content": "1. Việc xác định giá trị tài liệu thực\nhiện theo các quy định của Luật lưu trữ, các văn bản hướng dẫn thi hành Luật lưu trữ và Thông tư số 155/2013/TT-BTC ngày 06/11/2013 của Bộ Tài chính quy định về thời hạn bảo quản hồ sơ, tài liệu hình thành phổ biến trong hoạt động của ngành Tài chính.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:192038:part:2:article:9:clause:2",
+                        "number": "2",
+                        "content": "2. Thủ trưởng các Tổng cục và đơn vị\ntương đương, các đơn vị sự nghiệp, doanh nghiệp thuộc Bộ căn cứ vào Bảng thời hạn bảo quản hồ sơ, tài liệu hình thành phổ biến của ngành Tài chính (ban hành kèm theo Thông tư số 155/2013/TT-BTC ngày 06/11/2013) quy định cụ thể Bảng thời hạn bảo quản hồ sơ, tài liệu của cơ quan sau khi có ý kiến tham gia của Văn phòng Bộ.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:192038:part:2:article:9:clause:3",
+                        "number": "3",
+                        "content": "3. Xác định giá trị tài liệu lưu trữ\nđiện tử",
+                        "points": [
+                          {
+                            "point_id": "doc:192038:part:2:article:9:clause:3:point:1",
+                            "label": "a",
+                            "content": "a) Tài liệu lưu trữ điện tử được xác\nđịnh giá trị theo nguyên tắc, phương pháp và tiêu chuẩn xác định giá trị nội dung như tài liệu lưu trữ trên các vật mang tin khác và phải đáp ứng các yêu cầu sau: - Bảo đảm độ tin cậy, tính toàn vẹn và xác thực của thông tin chứa trong tài liệu điện tử kể từ khi tài liệu lưu trữ điện tử được khởi tạo lần đầu dưới dạng một thông điệp dữ liệu hoàn chỉnh. - Thông tin chứa trong tài liệu lưu trữ điện tử có thể truy cập, sử dụng được dưới dạng hoàn chỉnh.",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:192038:part:2:article:9:clause:3:point:2",
+                            "label": "b",
+                            "content": "b) Tài liệu lưu\ntrữ điện tử đáp ứng các điều kiện quy định tại Điểm a, Khoản 3 Điều này có giá trị như bản gốc.",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ],
+                    "points": []
+                  },
+                  {
+                    "article_id": "doc:192038:part:2:article:10",
+                    "number": "10",
+                    "title": "Hội đồng xác định giá trị tài liệu",
+                    "content": "Điều 10. Hội đồng xác định giá trị tài liệu",
+                    "clauses": [
+                      {
+                        "clause_id": "doc:192038:part:2:article:10:clause:1",
+                        "number": "1",
+                        "content": "1. Nhiệm vụ của\nHội đồng xác định giá trị tài liệu Hội đồng xác định giá trị tài liệu được thành lập để tham mưu, giúp việc cho người đứng đầu cơ quan trong việc xác định thời hạn bảo quản, lựa chọn tài liệu của Lưu trữ cơ quan giao nộp vào Lưu trữ lịch sử và tiêu hủy tài liệu hết giá trị.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:192038:part:2:article:10:clause:2",
+                        "number": "2",
+                        "content": "2. Hội đồng xác định giá trị tài liệu do người đứng đầu cơ quan quyết định thành lập. Thành phần\ncủa Hội đồng quy định như sau:",
+                        "points": [
+                          {
+                            "point_id": "doc:192038:part:2:article:10:clause:2:point:1",
+                            "label": "a",
+                            "content": "a) Tại cơ quan Bộ Tài chính\n- Chủ tịch Hội đồng: Chánh Văn phòng Bộ. - Thư ký Hội đồng: Người làm lưu trữ của cơ quan. - Đại diện lãnh đạo đơn vị có tài liệu là ủy viên. - Người am hiểu về lĩnh vực có tài liệu cần xác định giá trị là ủy viên.",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:192038:part:2:article:10:clause:2:point:2",
+                            "label": "b",
+                            "content": "b) Tại các Tổng cục và đơn vị tương\nđương thuộc Bộ - Chủ tịch Hội đồng: Lãnh đạo Tổng cục và tương đương. - Thư ký Hội đồng: Người làm lưu trữ của cơ quan. - Đại diện lãnh đạo đơn vị có tài liệu là ủy viên. - Người am hiểu về lĩnh vực có tài liệu cần xác định giá trị là ủy viên.",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:192038:part:2:article:10:clause:2:point:3",
+                            "label": "c",
+                            "content": "c) Tại các đơn vị sự nghiệp, doanh\nnghiệp và đơn vị tương đương trực thuộc Bộ - Chủ tịch Hội đồng: Lãnh đạo đơn vị. - Thư ký Hội đồng: Người làm lưu trữ của cơ quan. - Đại diện lãnh đạo đơn vị có tài liệu là ủy viên. - Người am hiểu về lĩnh vực có tài liệu cần xác định giá trị là ủy viên.",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:192038:part:2:article:10:clause:2:point:4",
+                            "label": "d",
+                            "content": "d) Tại các Cục và tương đương trực\nthuộc Tổng cục và tương đương ở các tỉnh, thành phố - Chủ tịch Hội đồng: Lãnh đạo Cục. - Thư ký Hội đồng: Người làm lưu trữ của cơ quan. - Đại diện lãnh đạo đơn vị có tài liệu là ủy viên. - Người am hiểu về lĩnh vực có tài liệu cần xác định giá trị là ủy viên.",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:192038:part:2:article:10:clause:2:point:5",
+                            "label": "e",
+                            "content": "e) Tại các Chi cục và các đơn vị\ntương đương ở các tỉnh, thành phố - Chủ tịch Hội đồng: Chi cục trưởng. - Thư ký Hội đồng: Người làm lưu trữ của cơ quan. - Đại diện lãnh đạo đơn vị có tài liệu là ủy viên. - Người am hiểu về lĩnh vực có tài liệu cần xác định giá trị là ủy viên.",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "clause_id": "doc:192038:part:2:article:10:clause:3",
+                        "number": "3",
+                        "content": "3. Phương thức làm việc của Hội đồng:\nHội đồng thảo luận tập thể, kết luận theo đa số; các ý kiến khác nhau phải ghi vào biên bản cuộc họp để trình Thủ trưởng đơn vị quyết định; Hội đồng tự giải thể khi công việc hoàn thành.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:192038:part:2:article:10:clause:4",
+                        "number": "4",
+                        "content": "4. Trên cơ sở đề nghị của Hội đồng\nxác định giá trị tài liệu, Thủ trưởng cơ quan, đơn vị quyết định thời hạn bảo quản tài liệu, lựa chọn tài liệu để giao nộp vào Lưu trữ lịch sử và tiêu hủy tài liệu hết giá trị theo quy định tại Điều 15 của Quyết định này.",
+                        "points": []
+                      }
+                    ],
+                    "points": []
+                  }
+                ]
+              },
+              {
+                "section_id": "doc:192038:part:2:section:3",
+                "number": "3",
+                "title": "TRỮ LỊCH SỬ",
+                "content": "Mục 3. GIAO NỘP TÀI LIỆU VÀO LƯU\nTRỮ LỊCH SỬ",
+                "articles": [
+                  {
+                    "article_id": "doc:192038:part:2:article:11",
+                    "number": "11",
+                    "title": "Giao nộp hồ sơ, tài liệu vào Lưu trữ lịch sử",
+                    "content": "Điều 11. Giao nộp hồ sơ, tài liệu vào Lưu trữ lịch sử",
+                    "clauses": [
+                      {
+                        "clause_id": "doc:192038:part:2:article:11:clause:1",
+                        "number": "1",
+                        "content": "1. Thời hạn nộp lưu tài liệu vào Lưu\ntrữ lịch sử: Trong thời hạn 10 năm, kể từ năm công việc kết thúc, cơ quan, tổ chức thuộc Danh mục nguồn nộp lưu tài liệu vào Lưu trữ lịch sử, có trách nhiệm giao nộp tài liệu có giá trị bảo quản vĩnh viễn vào Lưu trữ lịch sử.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:192038:part:2:article:11:clause:2",
+                        "number": "2",
+                        "content": "2. Cơ quan, tổ chức thực hiện việc\ngiao nộp tài liệu vào Lưu trữ lịch sử các cấp thực hiện theo quy định tại Thông tư số 17/2014/TT-BNV ngày 20/11/2014 của Bộ Nội vụ về việc hướng dẫn xác định cơ quan, tổ chức thuộc nguồn nộp lưu tài liệu vào Lưu trữ lịch sử các cấp.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:192038:part:2:article:11:clause:3",
+                        "number": "3",
+                        "content": "3. Trình tự, thủ tục giao nộp tài liệu\ncó thời hạn bảo quản vĩnh viễn vào Lưu trữ lịch sử được thực hiện theo quy định tại Thông tư số 16/2014/TT-BNV ngày 20/11/2014 của Bộ Nội vụ về hướng dẫn giao, nhận tài liệu lưu trữ vào Lưu trữ lịch sử các cấp. Đối với việc giao nộp tài liệu lưu trữ điện tử vào Lưu trữ lịch sử được thực hiện theo quy định tại Điều 7, Nghị định số 01/2013/NĐ-CP ngày 03/01/2013 của Chính phủ về quy định chi tiết thi hành một số điều của Luật Lưu trữ.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:192038:part:2:article:11:clause:4",
+                        "number": "4",
+                        "content": "4. Đối với các cơ quan, đơn vị không\nthuộc danh mục nộp hồ sơ, tài liệu vào Lưu trữ lịch sử: Tài liệu lưu trữ được hình thành trong quá trình hoạt động của cơ quan không thuộc Danh mục cơ quan thuộc nguồn nộp lưu tài liệu hoặc tài liệu không thuộc",
+                        "points": []
+                      }
+                    ],
+                    "points": []
+                  }
+                ]
+              },
+              {
+                "section_id": "doc:192038:part:2:section:4",
+                "number": "4",
+                "title": "TÀI LIỆU LƯU TRỮ VÀ HỦY TÀI LIỆU HẾT GIÁ TRỊ",
+                "content": "Mục 4. BẢO QUẢN, THỐNG KÊ, SỬ DỤNG\nTÀI LIỆU LƯU TRỮ VÀ HỦY TÀI LIỆU HẾT GIÁ TRỊ",
+                "articles": [
+                  {
+                    "article_id": "doc:192038:part:2:article:12",
+                    "number": "12",
+                    "title": "Bảo quản hồ sơ, tài liệu lưu trữ",
+                    "content": "Điều 12. Bảo quản hồ sơ, tài liệu lưu trữ",
+                    "clauses": [
+                      {
+                        "clause_id": "doc:192038:part:2:article:12:clause:1",
+                        "number": "1",
+                        "content": "1. Cán bộ công chức, viên chức được\ngiao giải quyết, theo dõi công việc, phải có trách nhiệm bảo quản an toàn hồ sơ, tài liệu lưu trữ cho đến khi giao nộp tài liệu vào Lưu trữ cơ quan.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:192038:part:2:article:12:clause:2",
+                        "number": "2",
+                        "content": "2. Hồ sơ, tài liệu sau khi giao nộp\nvào Lưu trữ cơ quan phải được bảo quản trong hộp có đề nhãn ký hiệu, mã số theo mục lục hồ sơ và sắp xếp khoa học trên giá để dễ thấy, dễ lấy và dễ di chuyển khi cần thiết.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:192038:part:2:article:12:clause:3",
+                        "number": "3",
+                        "content": "3. Các cơ quan, đơn vị phải bố trí\nkho lưu trữ theo quy định để bảo quản tài liệu; kho lưu trữ phải được bố trí nơi khô ráo, thoáng khí, không được bố trí kho lưu trữ ở tầng hầm và tầng áp mái; đảm bảo các phương tiện phòng chống cháy nổ, chống thiên tai, giá, máy hút ẩm, hút mùi, quạt thông gió, máy điều hòa; thực hiện các biện pháp phòng, chống côn trùng, nấm mốc và các tác nhân khác gây hư hỏng hồ sơ, tài liệu. Khi xây dựng kho lưu trữ mới phải đảm bảo tiêu chuẩn, kỹ thuật theo quy định của Nhà nước, của Bộ về kho lưu trữ.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:192038:part:2:article:12:clause:4",
+                        "number": "4",
+                        "content": "4. Thực hiện vệ sinh tài liệu, kho\ngiá định kỳ theo quy định của pháp luật.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:192038:part:2:article:12:clause:5",
+                        "number": "5",
+                        "content": "5. Bảo quản tài liệu lưu trữ điện tử",
+                        "points": [
+                          {
+                            "point_id": "doc:192038:part:2:article:12:clause:5:point:1",
+                            "label": "a",
+                            "content": "a) Tài liệu lưu trữ điện tử phải được\nbảo quản an toàn và được chuyển đổi theo công nghệ phù hợp;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:192038:part:2:article:12:clause:5:point:2",
+                            "label": "b",
+                            "content": "b) Tài liệu lưu trữ điện tử phải được\nthường xuyên kiểm tra, sao lưu để bảo đảm an toàn, tính toàn vẹn, khả năng truy cập của tài liệu lưu trữ điện tử và sử dụng các biện pháp kỹ thuật để việc phân loại, lưu trữ được thuận lợi nhưng phải đảm bảo không thay đổi nội dung tài liệu;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:192038:part:2:article:12:clause:5:point:3",
+                            "label": "c",
+                            "content": "c) Phương tiện lưu trữ tài liệu lưu\ntrữ điện tử phải được bảo quản trong môi trường lưu trữ thích hợp.",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ],
+                    "points": []
+                  },
+                  {
+                    "article_id": "doc:192038:part:2:article:13",
+                    "number": "13",
+                    "title": "Chế độ báo cáo thống kê công tác lưu trữ",
+                    "content": "Điều 13. Chế độ báo cáo thống kê công tác lưu trữ",
+                    "clauses": [
+                      {
+                        "clause_id": "doc:192038:part:2:article:13:clause:1",
+                        "number": "1",
+                        "content": "1. Báo cáo thống kê cơ sở công tác\nlưu trữ được thực hiện theo Biểu 02/CS của Thông tư số 09/2013/TT-BNV ngày 31/10/2013 của Bộ trưởng Bộ Nội vụ, cụ thể:",
+                        "points": [
+                          {
+                            "point_id": "doc:192038:part:2:article:13:clause:1:point:1",
+                            "label": "a",
+                            "content": "a) Văn phòng, Thanh tra, Vụ, Cục, Viện\nvà tương đương trực thuộc Bộ không có tổ chức trực thuộc báo cáo về Bộ trước ngày 15 tháng 01 năm kế tiếp của năm báo cáo;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:192038:part:2:article:13:clause:1:point:2",
+                            "label": "b",
+                            "content": "b) Văn phòng của các Tổng cục, Cục,\nTrung tâm, Viện và tương đương thuộc Bộ báo cáo về Tổng cục, Cục, Trung tâm, Viện và tương đương trước ngày 15 tháng 01 năm kế tiếp của năm báo cáo;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:192038:part:2:article:13:clause:1:point:3",
+                            "label": "c",
+                            "content": "c) Các cơ quan, tổ chức trực thuộc Tổng\ncục, Cục, Trung tâm, Viện và tương đương báo cáo về Tổng cục, Cục, Trung tâm, Viện và tương đương trước ngày 15 tháng 01 năm kế tiếp của năm báo cáo;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:192038:part:2:article:13:clause:1:point:4",
+                            "label": "d",
+                            "content": "d) Các Cục hoặc tương đương ở địa\nphương thuộc các Tổng cục và tương đương không có tổ chức trực thuộc gửi báo cáo về Sở Nội vụ trước ngày 15 tháng 01 năm kế tiếp của năm báo cáo;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:192038:part:2:article:13:clause:1:point:5",
+                            "label": "e",
+                            "content": "e) Các Chi cục hoặc tương đương ở cấp\nhuyện của hệ thống ngành dọc thuộc Bộ Tài chính, gửi báo cáo về Phòng Nội vụ trước ngày 15 tháng 01 năm kế tiếp của năm báo cáo.",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "clause_id": "doc:192038:part:2:article:13:clause:2",
+                        "number": "2",
+                        "content": "2. Báo cáo thống kê tổng hợp công tác\nlưu trữ thực hiện theo Biểu 02/TH của Thông tư số 09/2013/TT-BNV ngày 31/10/2013 của Bộ trưởng Bộ Nội vụ, cụ thể:",
+                        "points": [
+                          {
+                            "point_id": "doc:192038:part:2:article:13:clause:2:point:1",
+                            "label": "a",
+                            "content": "a) Các cơ quan trực thuộc Bộ có tổ chức\ntrực thuộc tổng hợp số liệu báo cáo về Bộ trước ngày 31 tháng 01 năm kế tiếp của năm báo cáo. Đối với cấp Tổng cục và tương đương báo cáo số liệu của Văn phòng và các đơn vị thuộc Tổng cục và tương đương không báo cáo số liệu cấp Cục và tương đương, cấp Chi cục và tương đương;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:192038:part:2:article:13:clause:2:point:2",
+                            "label": "b",
+                            "content": "b) Văn phòng Bộ tổng hợp báo cáo thống\nkê về Cục Văn thư - Lưu trữ Nhà nước trước ngày 15 tháng 02 năm kế tiếp của năm báo cáo.",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "clause_id": "doc:192038:part:2:article:13:clause:3",
+                        "number": "3",
+                        "content": "3. Kèm theo báo cáo thống kê, hàng\nnăm các Tổng cục và tương đương, các đơn vị sự nghiệp, doanh nghiệp thuộc Bộ tổng hợp số lượng tài liệu lưu trữ thuê dịch vụ chỉnh lý trong kỳ hạn 01 năm (từ ngày 01/01 đến hết ngày 31/12) báo cáo Bộ để Bộ có kế hoạch kiểm tra chất lượng chỉnh lý tài liệu. Đối với các Tổng cục báo cáo số liệu cụ thể của từng Cục và tương đương (số liệu của Cục có cả số lượng của Chi cục và tương đương).",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:192038:part:2:article:13:clause:4",
+                        "number": "4",
+                        "content": "4. Kỳ hạn và hình thức gửi báo cáo thống\nkê định kỳ - Kỳ hạn báo cáo: 01 năm, tính từ ngày 01 tháng 01 đến ngày 31 tháng 12 của năm báo cáo. - Hình thức gửi báo cáo: Các báo cáo thống kê được thực hiện dưới 02 hình thức: bằng bản giấy và bản điện tử định dạng bảng tính Excel (gửi kèm thư điện tử).",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:192038:part:2:article:13:clause:5",
+                        "number": "5",
+                        "content": "5. Trách nhiệm của cơ quan, tổ chức\nbáo cáo và cơ quan, tổ chức nhận báo cáo",
+                        "points": [
+                          {
+                            "point_id": "doc:192038:part:2:article:13:clause:5:point:1",
+                            "label": "a",
+                            "content": "a) Trách nhiệm của cơ quan, tổ chức\nbáo cáo - Báo cáo đầy đủ, trung thực, khách quan, đúng nội dung thông tin được quy định trong chế độ báo cáo thống kê công tác lưu trữ và tài liệu lưu trữ và chịu trách nhiệm trước pháp luật về các nội dung báo cáo. - Gửi báo cáo đúng hạn. - Kiểm tra, cung cấp lại số liệu và các thông tin liên quan đến báo cáo thống kê khi có yêu cầu của cơ quan, tổ chức nhận báo cáo. - Các trách nhiệm khác theo quy định của pháp luật.",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:192038:part:2:article:13:clause:5:point:2",
+                            "label": "b",
+                            "content": "b) Trách nhiệm của cơ quan, tổ chức\nnhận báo cáo - Kiểm tra, đối chiếu, xử lý và tổng hợp số liệu từ các báo cáo thống kê cơ sở thành báo cáo thống kê tổng hợp. - Yêu cầu cơ quan, tổ chức báo cáo kiểm tra, cung cấp lại số liệu và các thông tin liên quan đến báo cáo thống kê khi cần thiết. - Cung cấp số liệu cho cơ quan quản lý nhà nước cấp trên về lưu trữ theo quy định của pháp luật. - Bảo đảm công bố, sử dụng và bảo mật thông tin thống kê theo quy định của pháp luật về thống kê và pháp luật về lưu trữ. - Các trách nhiệm khác theo quy định của pháp luật.",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "clause_id": "doc:192038:part:2:article:13:clause:6",
+                        "number": "6",
+                        "content": "6. Ngoài báo cáo thống kê theo định kỳ,\ncác cơ quan, đơn vị trong ngành Tài chính phải thực hiện báo cáo đột xuất khi có yêu cầu của cấp có thẩm quyền.",
+                        "points": []
+                      }
+                    ],
+                    "points": []
+                  },
+                  {
+                    "article_id": "doc:192038:part:2:article:14",
+                    "number": "14",
+                    "title": "Sử dụng, khai thác tài liệu Lưu trữ",
+                    "content": "Điều 14. Sử dụng, khai thác tài liệu Lưu trữ\n1. Các đơn vị,\ncá nhân trong và ngoài cơ quan đều được khai thác, sử dụng tài liệu lưu trữ vì mục đích công vụ và các nhu cầu riêng chính đáng.\n2. Khi khai thác tài liệu lưu trữ phục\nvụ công vụ, các đơn vị, cá nhân phải có giấy giới thiệu ghi rõ mục đích nghiên cứu tài liệu lưu trữ và phải được Lãnh đạo cơ quan có thẩm quyền quy định tại khoản 4 Điều này đồng ý.\n3. Cá nhân khai thác sử dụng tài liệu\nvì mục đích riêng phải có đơn xin sử dụng tài liệu, chứng minh thư nhân dân hoặc hộ chiếu phải được lãnh đạo cơ quan có thẩm quyền quy định tại khoản 4 Điều này đồng ý.\n4. Thẩm quyền khai thác, sử dụng tài\nliệu lưu trữ\na) Đối với tài liệu mật: thẩm quyền\ncho phép khai thác, sử dụng tài liệu lưu trữ mật được thực hiện theo quy định tại Thông tư 161/2014/TT-BTC của Bộ Tài chính ngày 31/10/2014 về quy định công tác bảo vệ bí mật nhà nước của ngành Tài chính;\nb) Đối với tài liệu thường\n- Đối với cơ quan Bộ Tài chính: Trưởng phòng Lưu trữ - Thư viện cho phép sử dụng tài liệu thường. - Đối với các đơn vị không thuộc cơ quan Bộ Tài chính, Chánh Văn phòng hoặc Trưởng phòng quản lý công tác lưu trữ cho phép sử dụng tài liệu thường.\nc) Đối với người nước ngoài việc sử dụng\ntài liệu lưu trữ do Bộ trưởng Bộ Tài chính quyết định;\nd) Tài liệu lưu trữ mang ra ngoài cơ\nquan - Đối với việc mang tài liệu lưu trữ ra nước ngoài và ra ngoài cơ quan, thủ trưởng cơ quan, đơn vị quyết định và chịu trách nhiệm về việc này. - Các đơn vị, cá nhân được mang tài liệu lưu trữ ra ngoài cơ quan để phục vụ công tác, nghiên cứu khoa học và các nhu cầu chính đáng khác sau khi được Thủ trưởng cơ quan cho phép và phải hoàn trả nguyên vẹn tài liệu lưu trữ đó.\nđ) Phòng Lưu trữ - Thư viện thuộc Văn\nphòng Bộ, bộ phận lưu trữ các đơn vị phải lập các sổ nhập, xuất tài liệu, sổ đăng ký mục lục hồ sơ và số đăng ký độc giả để quản lý tài liệu lưu trữ và phục vụ khai thác tài liệu, định kỳ cuối năm báo cáo Chánh Văn phòng Bộ, thủ trưởng đơn vị tình hình khai thác sử dụng tài liệu lưu trữ.\n5. Trên cơ sở quy định tại khoản 1 đến khoản 4 của Điều này và căn cứ vào tình hình thực tế Thủ\ntrưởng các cơ quan, đơn vị quy định nội quy sử dụng tài liệu lưu trữ và niêm yết tại phòng đọc của kho lưu trữ của cơ quan. Nội quy sử dụng tài liệu lưu trữ bao gồm:\na) Thời gian phục vụ độc giả;\nb) Các giấy tờ độc giả cần xuất trình khi đến khai thác tài liệu;\nc) Những vật dụng được và không được\nmang vào phòng đọc;\nd) Quy định độc giả phải thực hiện\ncác thủ tục nghiên cứu và khai thác tài liệu theo hướng dẫn của cán bộ lưu trữ;\ne) Độc giả không được tự ý sao, chụp ảnh\ntài liệu, dữ liệu trên máy tính và thông tin trong công cụ tra cứu khi chưa được phép;\nf) Ngoài các quy định trên, độc giả cần thực hiện nghiêm chỉnh các quy định có liên quan như: Nội quy ra,\nvào cơ quan; Quy định về sử dụng tài liệu; Quy định về phòng chống cháy nổ của cơ quan.\n6. Sử dụng tài liệu lưu trữ điện tử\na) Thẩm quyền cho phép đọc, sao, chứng\nthực lưu trữ đối với tài liệu lưu trữ điện tử được thực hiện như đối với tài liệu lưu trữ trên các vật mang tin khác;\nb) Cơ quan, đơn vị có trách nhiệm\nđăng tải thông tin và quy trình, thủ tục, chi phí thực hiện dịch vụ sử dụng tài liệu lưu trữ điện tử trên trang tin điện tử của cơ quan;\nc) Phương tiện lưu trữ tài liệu lưu\ntrữ điện tử thuộc Danh mục tài liệu hạn chế sử dụng và tài liệu mật không được kết nối và sử dụng trên mạng diện rộng.\n7. Sao tài liệu lưu trữ, chứng thực\nlưu trữ\na) Việc sao tài liệu lưu trữ và chứng\nthực lưu trữ do Lưu trữ cơ quan thực hiện. Người có thẩm quyền cho phép sử dụng tài liệu lưu trữ cho phép sao tài liệu lưu trữ;\nb) Chứng thực lưu trữ là xác nhận của\ncơ quan về nội dung thông tin hoặc bản sao tài liệu lưu trữ do Lưu trữ cơ quan đang quản lý. Cơ quan sao tài liệu lưu trữ, chứng thực lưu trữ phải chịu trách nhiệm pháp lý về bản sao tài liệu lưu trữ, bản chứng thực lưu trữ;\nc) Người được cấp bản sao tài liệu\nlưu trữ, bản chứng thực lưu trữ phải nộp lệ phí theo quy định;\nd) Bản sao tài liệu lưu trữ, bản chứng\nthực lưu trữ có giá trị như tài liệu lưu trữ gốc trong các quan hệ, giao dịch.\n8. Các hình thức tổ chức sử dụng tài\nliệu lưu trữ\na) Sử dụng tài liệu lưu trữ tại phòng\nđọc của Lưu trữ cơ quan;\nb) Cấp bản sao tài liệu lưu trữ;\nc) Cấp bản chứng\nthực lưu trữ.",
+                    "clauses": [],
+                    "points": []
+                  },
+                  {
+                    "article_id": "doc:192038:part:2:article:15",
+                    "number": "15",
+                    "title": "Tiêu hủy tài liệu hết giá trị",
+                    "content": "Điều 15. Tiêu hủy tài liệu hết giá trị",
+                    "clauses": [
+                      {
+                        "clause_id": "doc:192038:part:2:article:15:clause:1",
+                        "number": "1",
+                        "content": "1. Thẩm quyền quyết định tiêu hủy tài\nliệu hết giá trị",
+                        "points": [
+                          {
+                            "point_id": "doc:192038:part:2:article:15:clause:1:point:1",
+                            "label": "a",
+                            "content": "a) Bộ trưởng Bộ Tài chính quyết định\ntiêu hủy tài liệu hết giá trị bảo quản của các cơ quan Bộ Tài chính, sau khi có ý kiến thẩm định bằng văn bản của Cục Văn thư và Lưu trữ Nhà nước;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:192038:part:2:article:15:clause:1:point:2",
+                            "label": "b",
+                            "content": "b) Tổng cục trưởng và Thủ trưởng các\nđơn vị tương đương quyết định tiêu hủy tài liệu hết giá trị bảo quản của đơn vị sau khi có ý kiến thẩm định bằng văn bản của Cục Văn thư và Lưu trữ Nhà nước;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:192038:part:2:article:15:clause:1:point:3",
+                            "label": "c",
+                            "content": "c) Cục trưởng các Cục trực thuộc Tổng\ncục và Thủ trưởng các đơn vị tương đương ở cấp tỉnh quyết định tiêu hủy tài liệu hết giá trị bảo quản của đơn vị mình, sau khi có ý kiến thẩm định bằng văn bản của Sở Nội vụ tỉnh, thành phố;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:192038:part:2:article:15:clause:1:point:4",
+                            "label": "d",
+                            "content": "d) Chi cục trưởng\ncác Chi cục và Thủ trưởng các đơn vị tương đương ở cấp huyện quyết định tiêu hủy tài liệu hết giá trị bảo quản của đơn vị mình, sau khi có ý kiến thẩm định bằng văn bản của Sở Nội vụ tỉnh, thành phố;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:192038:part:2:article:15:clause:1:point:5",
+                            "label": "e",
+                            "content": "e) Thủ trưởng các đơn vị sự nghiệp trực\nthuộc Bộ quyết định tiêu hủy tài liệu hết giá trị của đơn vị mình, sau khi có ý kiến thẩm định bằng văn bản thẩm định của cơ quan quản lý nhà nước về lưu trữ cùng cấp. Các đơn vị sự nghiệp có trụ sở tại Hà Nội thì cơ quan thẩm định là Cục Văn thư và Lưu trữ Nhà nước; Trụ sở đóng tại địa phương thì cơ quan thẩm định là Sở Nội vụ tỉnh, thành phố;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:192038:part:2:article:15:clause:1:point:6",
+                            "label": "f",
+                            "content": "f) Thủ trưởng các doanh nghiệp thuộc\nBộ quyết định tiêu hủy tài liệu hết giá trị bảo quản của đơn vị mình, sau khi có ý kiến thẩm định bằng văn bản của Bộ Tài chính.",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "clause_id": "doc:192038:part:2:article:15:clause:2",
+                        "number": "2",
+                        "content": "2. Quy trình, thủ tục tiêu hủy hồ sơ,\ntài liệu hết giá trị",
+                        "points": [
+                          {
+                            "point_id": "doc:192038:part:2:article:15:clause:2:point:1",
+                            "label": "a",
+                            "content": "a) Bước 1: Lập kế hoạch thực hiện;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:192038:part:2:article:15:clause:2:point:2",
+                            "label": "b",
+                            "content": "b) Bước 2: Lập",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ],
+                    "points": []
+                  }
+                ]
+              },
+              {
+                "section_id": "doc:192038:part:2:section:5",
+                "number": "5",
+                "title": "QUẢN LÝ VỀ LƯU TRỮ",
+                "content": "Mục 5. QUẢN LÝ VỀ LƯU TRỮ",
+                "articles": [
+                  {
+                    "article_id": "doc:192038:part:2:article:16",
+                    "number": "16",
+                    "title": "Trách nhiệm quản lý về lưu trữ",
+                    "content": "Điều 16. Trách nhiệm quản lý về lưu trữ\n1. Chánh Văn phòng Bộ: Giúp Bộ trưởng quản lý công tác lưu trữ thống nhất từ trung\nương đến địa phương; làm đầu mối chỉ đạo, hướng dẫn nghiệp vụ chuyên môn về công tác lưu trữ của Bộ Tài chính, gồm:\na) Xây dựng, trình Bộ ban hành các chế độ, quy định về công tác lưu trữ;\nb) Xây dựng, tổ chức thực hiện các đề\nán, chương trình, quy hoạch, kế hoạch dài hạn, ngắn hạn, hàng năm về công tác lưu trữ;\nc) Chỉ đạo, hướng dẫn, kiểm tra việc\nthực hiện các quy định của pháp luật về công tác lưu trữ của Bộ Tài chính;\nd) Là đầu mối trao đổi và quan hệ với\ncơ quan quản lý lưu trữ cấp trên và lưu trữ các Bộ, ngành;\ne) Thực hiện chế độ báo cáo đột xuất,\nbáo cáo định kỳ và báo cáo thống kê tổng hợp về công tác lưu trữ và tài liệu lưu trữ theo quy định;\nf) Tổ chức tập huấn, bồi dưỡng nghiệp\nvụ lưu trữ cho cán bộ, công chức, viên chức;\ng) Thực hiện sơ kết, tổng kết, thi\nđua, khen thưởng, kỷ luật về công tác lưu trữ;\nh) Nghiên cứu, ứng dụng khoa học và\ncông nghệ, sáng kiến trong công tác lưu trữ;\ni) Phối hợp với Vụ Tổ chức cán bộ đưa ra các tiêu chuẩn đối với người làm công tác lưu trữ ngành Tài chính;\nk) Quản lý kho lưu trữ của Bộ Tài\nchính;\nm) Tiếp nhận hồ sơ các đơn vị thuộc Bộ\nkhông nằm trong các quy định tại Điểm b, c Khoản 1 và Khoản 2 Điều 3 của Quy chế này.\n2. Thủ trưởng các cơ quan trực thuộc\nBộ, gồm các Tổng cục và các đơn vị tương đương; các đơn vị sự nghiệp; các doanh nghiệp có trách nhiệm quản lý, chỉ đạo, kiểm tra, hướng dẫn việc thực hiện các quy định của Nhà nước, của Bộ và chỉ đạo việc thu thập, chỉnh lý, bảo quản, khai thác, sử dụng tài liệu lưu trữ thuộc thẩm quyền quản lý; xây dựng, bố trí kho lưu trữ, thiết bị, phương tiện cần thiết và thực hiện các biện pháp kỹ thuật nghiệp vụ để bảo vệ, bảo quản an toàn tài liệu lưu trữ và chịu trách nhiệm quản lý kho lưu trữ của cơ quan; ban hành quy chế về công tác lưu trữ của cơ quan; riêng các đơn vị tại cơ quan Bộ (Văn phòng, Thanh tra, các Vụ, Cục) không ban hành quy chế lưu trữ mà thực hiện theo quy định tại Quyết định này.\n3. Cán bộ, công chức, viên chức\nCán bộ, công chức, viên chức của Bộ Tài chính có trách nhiệm thực hiện đúng các quy định của Nhà nước, của Bộ về công tác lưu trữ và phải lập hồ sơ công việc được giao, thực hiện việc giao nộp tài liệu vào kho lưu trữ theo quy định tại Điều 6 của Quyết định này. Nghiêm cấm mọi cá nhân tự tiêu hủy tài liệu lưu trữ trái với quy định của pháp luật dưới bất kỳ hình thức nào.\n4. Cán bộ, công chức, viên chức làm\ncông tác lưu trữ\na) Giúp lãnh đạo cơ quan, tổ chức hướng\ndẫn cán bộ, công chức, viên chức trong cơ quan chuẩn bị hồ sơ, tài liệu giao nộp vào Lưu trữ cơ quan theo quy định của Nhà nước và của Bộ;\nb) Thu thập hồ sơ, tài liệu đến hạn nộp\nlưu vào Lưu trữ cơ quan;\nc) Chỉnh lý, xác định giá trị tài liệu;\nd) Bố trí kho, thực hiện các nghiệp vụ\nbảo quản an toàn hồ sơ, tài liệu;\ne) Tổ chức sử dụng tài liệu lưu trữ;\nf) Giao nộp tài liệu lưu trữ có giá\ntrị bảo quản vĩnh viễn thuộc danh mục tài liệu nộp lưu vào Lưu trữ lịch sử và tổ chức hủy tài liệu hết giá trị theo quyết định của người đứng đầu cơ quan, tổ chức;\ng) Báo cáo thống kê cơ sở về công tác\nlưu trữ theo quy định;\nh) Bảo mật thông tin tài liệu lưu trữ.\n5. Trách nhiệm quản lý tài liệu lưu\ntrữ điện tử\na) Lãnh đạo các đơn vị có trách nhiệm\nchỉ đạo thực hiện việc quản lý tài liệu lưu trữ điện tử theo quy định của pháp luật;\nb) Người làm lưu trữ cơ quan có trách\nnhiệm tham mưu, đề xuất cho thủ trưởng cơ quan thực hiện đúng quy định của pháp luật về lưu trữ tài liệu điện tử; phối hợp với đơn vị, bộ phận chuyên trách về công nghệ thông tin của cơ quan cùng đề xuất các quy trình để thực hiện các ứng dụng công nghệ thông tin trong việc quản lý tài liệu lưu trữ điện tử;\nc) Đơn vị, bộ phận\nchuyên trách về công nghệ thông tin của cơ quan có trách nhiệm tham mưu, đề xuất cho thủ trưởng cơ quan về ứng dụng công nghệ thông tin đối với việc quản lý tài liệu lưu trữ điện tử và thực hiện các biện pháp kỹ thuật để duy trì hoạt động của hệ thống quản lý tài liệu điện tử của cơ quan;\nd) Người trực tiếp theo dõi, giải quyết\ncông việc có trách nhiệm thực hiện các quy định về tạo lập và quản lý hồ sơ điện tử trong quá trình theo dõi, giải quyết công việc và giao nộp hồ sơ, tài liệu điện tử vào Lưu trữ cơ quan.",
+                    "clauses": [],
+                    "points": []
+                  },
+                  {
+                    "article_id": "doc:192038:part:2:article:17",
+                    "number": "17",
+                    "title": "Bảo vệ bí mật nhà nước trong công tác lưu trữ",
+                    "content": "Điều 17. Bảo vệ bí mật nhà nước trong công tác lưu trữ",
+                    "clauses": [
+                      {
+                        "clause_id": "doc:192038:part:2:article:17:clause:1",
+                        "number": "1",
+                        "content": "1. Mọi hoạt động trong công tác lưu\ntrữ của Bộ Tài chính phải thực hiện theo các quy định của pháp luật về bảo vệ bí mật nhà nước và Thông tư số 161/2014/TT-BTC ngày 31 tháng 10 năm 2014 của Bộ trưởng Bộ Tài chính quy định công tác bảo vệ bí mật nhà nước của ngành Tài chính.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:192038:part:2:article:17:clause:2",
+                        "number": "2",
+                        "content": "2. Cán bộ lưu trữ phải làm cam kết bảo\nvệ bí mật nhà nước bằng văn bản nộp cho cơ quan quản lý cán bộ công chức (theo mẫu quy định tại Thông tư 161/2014/TT-BTC ngày 31 tháng 10 năm 2014 của Bộ trưởng Bộ Tài chính quy định công tác bảo vệ bí mật nhà nước của ngành Tài chính).",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:192038:part:2:article:17:clause:3",
+                        "number": "3",
+                        "content": "3. Hàng năm các đơn vị rà soát, thông\nbáo tài liệu lưu trữ thuộc Danh mục tài liệu có đóng dấu chỉ mức độ mật đã được giải mật.",
+                        "points": []
+                      }
+                    ],
+                    "points": []
+                  },
+                  {
+                    "article_id": "doc:192038:part:2:article:18",
+                    "number": "18",
+                    "title": "Kinh phí cho công tác lưu trữ",
+                    "content": "Điều 18. Kinh phí cho công tác lưu trữ",
+                    "clauses": [
+                      {
+                        "clause_id": "doc:192038:part:2:article:18:clause:1",
+                        "number": "1",
+                        "content": "1. Kinh phí cho công tác lưu trữ được\nđảm bảo từ nguồn dự toán chi ngân sách hàng năm giao cho Bộ Tài chính và các nguồn kinh phí hợp pháp khác. Việc lập dự toán, quản lý, sử dụng và thanh quyết toán kinh phí cho công tác lưu trữ được thực hiện theo quy định của Luật Ngân sách nhà nước và các văn bản hướng dẫn khác.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:192038:part:2:article:18:clause:2",
+                        "number": "2",
+                        "content": "2. Kinh phí phục vụ cho các hoạt động\nlưu trữ",
+                        "points": [
+                          {
+                            "point_id": "doc:192038:part:2:article:18:clause:2:point:1",
+                            "label": "a",
+                            "content": "a) Xây dựng và cải tạo kho lưu\ntrữ;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:192038:part:2:article:18:clause:2:point:2",
+                            "label": "b",
+                            "content": "b) Mua sắm thiết bị, phương tiện bảo\nquản và phục vụ việc sử dụng tài liệu lưu trữ;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:192038:part:2:article:18:clause:2:point:3",
+                            "label": "c",
+                            "content": "c) Chỉnh lý tài liệu;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:192038:part:2:article:18:clause:2:point:4",
+                            "label": "d",
+                            "content": "d) Thực hiện các biện pháp kỹ thuật bảo\nquản tài liệu lưu trữ;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:192038:part:2:article:18:clause:2:point:5",
+                            "label": "e",
+                            "content": "e) Nghiên cứu, ứng dụng khoa học và\nchuyển giao công nghệ lưu trữ;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:192038:part:2:article:18:clause:2:point:6",
+                            "label": "f",
+                            "content": "f) Những hoạt động khác liên quan đến\nhoạt động lưu trữ.",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ],
+                    "points": []
+                  }
+                ]
+              }
+            ],
+            "articles": []
+          },
+          {
+            "chapter_id": "doc:192038:part:2:chapter:3",
+            "number": "III",
+            "title": "TỔ CHỨC THỰC HIỆN",
+            "content": "Chương III\nTỔ CHỨC THỰC HIỆN",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:192038:part:2:article:19",
+                "number": "19",
+                "title": "Khen thưởng Tập thể, cá nhân có thành tích sau đây sẽ được xét khen thưởng theo quy định của Luật Thi đua khen thưởng và các văn bản hướng dẫn thi hành:",
+                "content": "Điều 19. Khen thưởng Tập thể, cá nhân có thành tích sau đây sẽ được xét khen thưởng theo quy định của Luật Thi đua khen thưởng và các văn bản hướng dẫn thi hành:",
+                "clauses": [
+                  {
+                    "clause_id": "doc:192038:part:2:article:19:clause:1",
+                    "number": "1",
+                    "content": "1. Có thành tích\ntiêu biểu, xuất sắc trong công tác lưu trữ.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:192038:part:2:article:19:clause:2",
+                    "number": "2",
+                    "content": "2. Phát hiện, giao nộp, tặng cho cơ\nquan lưu trữ những tài liệu có giá trị và tài liệu lưu trữ đặc biệt quý hiếm.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:192038:part:2:article:19:clause:3",
+                    "number": "3",
+                    "content": "3. Phát hiện, tố giác kịp thời hành\nvi chiếm đoạt, làm hư hại hoặc tiêu hủy trái phép tài liệu lưu trữ cơ quan.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:192038:part:2:article:20",
+                "number": "20",
+                "title": "Xử lý vi phạm Tập thể, cá nhân vi phạm các quy định của Quyết định này và các quy định khác của pháp luật về lưu trữ, tùy theo tính chất, mức độ vi phạm xử lý theo quy định của pháp luật.",
+                "content": "Điều 20. Xử lý vi phạm Tập thể, cá nhân vi phạm các quy định của Quyết định này và các quy định khác của pháp luật về lưu trữ, tùy theo tính chất, mức độ vi phạm xử lý theo quy định của pháp luật.",
+                "clauses": [],
+                "points": []
+              },
+              {
+                "article_id": "doc:192038:part:2:article:21",
+                "number": "21",
+                "title": "Điều khoản thi hành",
+                "content": "Điều 21. Điều khoản thi hành",
+                "clauses": [
+                  {
+                    "clause_id": "doc:192038:part:2:article:21:clause:1",
+                    "number": "1",
+                    "content": "1. Trong quá trình thực hiện, nếu các\nvăn bản dẫn chiếu tại quy chế này được sửa đổi, bổ sung hoặc thay thế bằng các văn bản mới thì áp dụng theo các văn bản mới.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:192038:part:2:article:21:clause:2",
+                    "number": "2",
+                    "content": "2. Chánh Văn phòng Bộ, Thủ trưởng các\ncơ quan, đơn vị thuộc Bộ Tài chính có trách nhiệm hướng dẫn, chỉ đạo, kiểm tra, đôn đốc việc thực hiện quy chế này; đồng thời phổ biến, quán triệt đến toàn thể cán bộ công chức, viên chức của đơn vị mình. Trong quá trình triển khai thực hiện, nếu có những khó khăn, vướng mắc đề nghị các cơ quan, đơn vị trong ngành Tài chính phản ánh kịp thời về Bộ Tài chính (qua Văn phòng Bộ) để xem xét, hướng dẫn, điều chỉnh cho phù hợp./.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          }
+        ],
+        "sections": [],
+        "articles": [],
+        "unstructured_blocks": []
+      },
+      {
+        "part_id": "doc:192038:part:3",
+        "part_type": "appendix",
+        "part_title": "PHỤ LỤC I",
+        "reference": null,
+        "direct_text": null,
+        "chapters": [],
+        "sections": [],
+        "articles": [],
+        "unstructured_blocks": [
+          {
+            "block_id": "doc:192038:part:3:block:1",
+            "content": "PHỤ LỤC I\nMẪU MỤC LỤC HỒ SƠ, TÀI LIỆU NỘP LƯU\n(Kèm theo Quyết định số 2449/QĐ-BTC ngày 11/11/2016 của Bộ Tài chính) TÊN ĐƠN VỊ (nộp lưu tài liệu)\nMỤC\nLỤC HỒ SƠ, TÀI LIỆU NỘP LƯU\nNăm 20... Hộp/ cặp số Số, ký hiệu hồ sơ Tiêu đề hồ sơ Thời gian tài liệu Thời hạn bảo quản Số tờ Ghi chú (1) (2) (3) (4) (5) (6) (7) Mục lục này gồm:………………………………………………………… hồ sơ (đơn vị bảo quản). Viết bằng chữ: ……………………………………………………….hồ sơ (đơn vị bảo quản). Trong đó có: ………………………………. hồ sơ (đơn vị bảo quản) bảo quản vĩnh viễn. ……………………………… hồ sơ (đơn vị bảo quản) bảo quản có thời hạn. …………., ngày .... tháng …. năm 20.... Người lập (Ký và ghi rõ họ tên, chức vụ/chức danh) Hướng dẫn cách ghi các cột: Cột 1: Ghi số thứ tự của hộp hoặc cặp tài liệu giao nộp. Cột 2: Ghi số và ký hiệu của hồ sơ như trên bìa hồ sơ. Cột 3: Ghi tiêu đề hồ sơ như trên bìa hồ sơ. Cột 4: Ghi thời gian sớm nhất và muộn nhất của văn bản, tài liệu trong hồ sơ. Cột 5: Ghi thời hạn bảo quản của hồ sơ như trên bìa hồ sơ. Cột 6: Ghi tổng số tờ tài liệu có trong hồ sơ. Cột 7: Ghi những thông tin cần chú ý về nội dung và hình thức của văn bản có trong hồ sơ./.",
+            "indexable": true
+          }
+        ]
+      },
+      {
+        "part_id": "doc:192038:part:4",
+        "part_type": "appendix",
+        "part_title": "PHỤ LỤC II",
+        "reference": null,
+        "direct_text": null,
+        "chapters": [],
+        "sections": [],
+        "articles": [],
+        "unstructured_blocks": [
+          {
+            "block_id": "doc:192038:part:4:block:1",
+            "content": "PHỤ LỤC II\nMẪU BIÊN BẢN GIAO NHẬN TÀI LIỆU\n(Kèm theo Quyết định số 2449/QĐ-BTC ngày 11/11/2016 của Bộ Tài chính)\nTÊN CQ, TC CẤP TRÊN TÊN CƠ QUAN, TỔ CHỨC\n-------\nCỘNG\nHÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc --------------- ………….., ngày tháng năm 20..…..\nBIÊN BẢN\nVề việc giao nhận tài liệu Căn cứ Quyết định số 2449/QĐ-BTC ngày 11 tháng 11 năm 2016 về ban hành quy chế công tác lưu trữ của Bộ Tài chính; Căn cứ ………………………. (Danh mục hồ sơ năm ……, Kế hoạch thu thập tài liệu) Chúng tôi gồm: BÊN GIAO: (tên đơn vị giao nộp tài liệu), đại diện là: - Ông (bà): ……………………………………………………………………………………… - Chức vụ công tác/chức danh: …………………………………………………. BÊN NHẬN: (Lưu trữ cơ quan), đại diện là: - Ông (bà): ………………………………………………………………………… - Chức vụ công tác/chức danh: …………………………………………………. Thống nhất lập biên bản giao nhận tài liệu với những nội dung như sau:\n1. Tên khối tài liệu giao nộp:\n……………………………………………………….\n2. Thời gian của tài liệu: …………………………………………………………..\n3. Số lượng tài liệu:\n- Tổng số hộp (cặp): …………………………………………… - Tổng số hồ sơ (đơn vị bảo quản); ……………….. Quy ra mét giá: ……….. mét\n4. Tình trạng tài\nliệu giao nộp: ……………………………………………………………….\n5. Mục lục hồ sơ, tài liệu nộp lưu\nkèm theo. Biên bản này được lập thành hai bản; bên giao (đơn vị /cá nhân) giữ một bản, bên nhận (Lưu trữ cơ quan) giữ một bản./.\nĐẠI DIỆN BÊN GIAO\n(Ký tên và ghi rõ họ tên)\nĐẠI DIỆN BÊN NHẬN\n(Ký tên và ghi rõ họ tên)",
+            "indexable": true
+          }
+        ]
+      },
+      {
+        "part_id": "doc:192038:part:5",
+        "part_type": "appendix",
+        "part_title": "PHỤ LỤC III",
+        "reference": null,
+        "direct_text": null,
+        "chapters": [],
+        "sections": [],
+        "articles": [],
+        "unstructured_blocks": [
+          {
+            "block_id": "doc:192038:part:5:block:1",
+            "content": "PHỤ LỤC III\nMẪU DANH MỤC TÀI LIỆU HẾT GIÁ TRỊ\n(Kèm theo Quyết định số 2449/QĐ-BTC ngày 11/11/2016 của Bộ Tài chính)\nDANH\nMỤC TÀI LIỆU HẾT GIÁ TRỊ\nPhông (khối) ………………….. Từ năm …………… đến năm Bó số Hồ sơ số Tiêu đề hồ sơ hoặc tập tài liệu Lý do hủy Ghi chú (1) (2) (3) (4) (5) Hướng dẫn cách ghi: Phông (khối): Ghi tên phông hoặc khối tài liệu (1): Ghi thứ tự các bó (cặp) tài liệu. Số thứ tự được ghi liên tục cho một phông (hoặc khối) tài liệu. (2): Ghi số thứ tự hồ sơ hoặc tập tài liệu hết giá trị trong từng bó (cặp). (3): Ghi tiêu đề của hồ sơ hoặc tài liệu hết giá trị. Tiêu đề tài liệu hết giá trị phải phản ánh hết nội dung tài liệu bên trong. (4): Ghi lý do hủy tài liệu như: hết thời hạn bảo quản; bị bao hàm (đối với kế hoạch, báo cáo tháng, quý mà đã giữ báo cáo 6 tháng hoặc năm); trùng; tài liệu bị rách nát không còn khả năng phục hồi; bản nháp; tư liệu tham khảo; bản chụp ... Đối với những hồ sơ hoặc tập tài liệu bị bao hàm, trùng thừa phải ghi rõ bị bao hàm hoặc trùng với hồ sơ nào trong mục lục hồ sơ giữ lại. (5): Ghi ý kiến của Hội đồng xác định giá trị tài liệu hoặc các ghi chú khác.",
+            "indexable": true
+          }
+        ]
+      },
+      {
+        "part_id": "doc:192038:part:6",
+        "part_type": "appendix",
+        "part_title": "PHỤ LỤC IV",
+        "reference": null,
+        "direct_text": null,
+        "chapters": [],
+        "sections": [],
+        "articles": [],
+        "unstructured_blocks": [
+          {
+            "block_id": "doc:192038:part:6:block:1",
+            "content": "PHỤ LỤC IV\nMẪU BẢN THUYẾT MINH TÀI LIỆU HẾT GIÁ\nTRỊ\n(Kèm theo Quyết định số 2449/QĐ-BTC ngày 11/11/2016 của Bộ Tài chính)\nBẢN\nTHUYẾT MINH TÀI LIỆU HẾT GIÁ TRỊ\nPhông (khối)........................ Thời gian của Phông (khối) tài liệu ………………….. I. Tóm tắt tình hình khối tài liệu hết giá trị\n1. Sự hình thành khối tài liệu hết\ngiá trị: Tài liệu được loại ra khi nào? (Trong quá trình chỉnh lý hay khi tiến hành đánh giá độc lập phông (khối) tài liệu lưu trữ?).\n2. Số lượng: Tổng số tài liệu khi đưa\nra chỉnh lý là ... mét; hồ sơ, tài liệu giữ lại bảo quản là ….. mét; số lượng tài liệu loại ra ... mét (bó, gói); tỷ lệ loại ra so với tài liệu giữ lại là ...%.\n3. Thời gian: Thời gian bắt đầu và thời\ngian kết thúc của khối tài liệu hết giá trị. II. Tóm tắt thành phần và nội dung chủ yếu của tài liệu hết giá trị Tài liệu hết giá trị bao gồm các nhóm: Tài liệu hết thời hạn bảo quản, tài liệu bị bao hàm, tài liệu trùng, tài liệu bị rách nát không khôi phục được, tư liệu tham khảo, bản chụp ...\n1. Nhóm tài liệu hết thời hạn bảo quản:\nGồm những tài liệu gì? Nội dung về vấn đề gì? Tác giả? Thời gian? Lý do hủy? ...).\n2. Nhóm tài liệu bị bao hàm: Gồm những\ntài liệu gì? Về vấn đề gì? Lý do hủy? ...\n3. Nhóm tài liệu trùng: Gồm những tài\nliệu gì?\n4. Nhóm tư liệu: Gồm những loại nào?\nNội dung về vấn đề gì? …….., ngày ...tháng....năm...\nNGƯỜI VIẾT THUYẾT MINH\n(Họ và tên, chữ ký)",
+            "indexable": true
+          }
+        ]
+      },
+      {
+        "part_id": "doc:192038:part:7",
+        "part_type": "appendix",
+        "part_title": "PHỤ LỤC V",
+        "reference": null,
+        "direct_text": null,
+        "chapters": [],
+        "sections": [],
+        "articles": [],
+        "unstructured_blocks": [
+          {
+            "block_id": "doc:192038:part:7:block:1",
+            "content": "PHỤ LỤC V\nMẪU BIÊN BẢN HỌP HỘI ĐỒNG XÁC ĐỊNH\nGIÁ TRỊ TÀI LIỆU\n(Kèm theo Quyết định số 2449/QĐ-BTC ngày 11/11/2016 của Bộ Tài chính)\nTÊN CƠ QUAN, TỔ CHỨC HỘI ĐỒNG XÁC ĐỊNH\nGIÁ TRỊ TÀI LIỆU\n-------\nCỘNG\nHÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc --------------- ……, ngày .... tháng .... năm ....\nBIÊN BẢN\nHọp Hội đồng xác định giá trị tài liệu Căn cứ Điều 18, Luật Lưu trữ năm 2011 của Quốc hội và Quyết định số.... ngày …. tháng ….. năm..... của.... về việc thành lập Hội đồng xác định giá trị tài liệu. Hôm nay, vào hồi....giờ ngày...tháng...năm….., Tại……………………………………………........ Hội đồng xác định giá trị của ………………. (cơ quan) gồm có: ………………… (ghi rõ họ tên các thành viên trong Hội đồng) ……………………………………………. Chủ tọa: ………………………………. Thư ký: ………………………………….. Ủy viên …………………………………… Nội dung họp: Xét hủy tài liệu hết giá trị Phông (khối) tài liệu …………… Sau khi nghiên cứu, xem xét Danh mục tài liệu hết giá trị của Phông (khối) …………………… và kiểm tra thực tế, các thành viên trong Hội đồng có ý kiến như sau: 1…………………………………….. 2……………………………………. 3……………………………………. Chủ tọa cuộc họp thống nhất kết luận:\n1. Đề nghị giữ lại những tập (hồ sơ)\ntài liệu số:……………….., nêu lý do (nếu có).\n2. Đề nghị (người có thẩm quyền)\n……………… xem xét, quyết định cho phép tiêu hủy tài liệu theo Danh mục đính kèm. Hội đồng thông qua biên bản cuộc họp, với ý kiến nhất trí .../... (ghi rõ số lượng) Cuộc họp kết thúc vào hồi......h ngày... ./.\nTHƯ KÝ\n(Ký và ghi rõ họ tên)\nCHỦ TỊCH HỘI ĐỒNG\n(Ký và ghi rõ họ tên)",
+            "indexable": true
+          }
+        ]
+      },
+      {
+        "part_id": "doc:192038:part:8",
+        "part_type": "appendix",
+        "part_title": "PHỤ LỤC VI",
+        "reference": null,
+        "direct_text": null,
+        "chapters": [],
+        "sections": [],
+        "articles": [],
+        "unstructured_blocks": [
+          {
+            "block_id": "doc:192038:part:8:block:1",
+            "content": "PHỤ LỤC VI\nMẪU CÔNG VĂN ĐỀ NGHỊ THẨM ĐỊNH TÀI LIỆU\nHẾT GIÁ TRỊ\n(Kèm theo Quyết định số 2449/QĐ-BTC ngày 11/11/2016 của Bộ Tài chính)\nTÊN CQ, TC CẤP TRÊN TÊN CƠ QUAN, TỔ CHỨC\n-------\nCỘNG\nHÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc --------------- Số: /... - .... V/v đề nghị thẩm định tài liệu hết giá trị ….., ngày .... tháng .... năm .... Kính gửi: ………………………………………\nDanh mục tài liệu hết giá trị của\nPhông (khối).... được lập ra trong quá trình phân loại, chỉnh lý tài liệu (hoặc trong quá trình xác định giá trị tài liệu). Danh mục đã được Hội đồng xác định giá trị tài liệu của (cơ quan) xem xét, kiểm tra và nhất trí để cho phép tiêu hủy. Để việc tiêu hủy tài liệu được thực hiện đúng theo quy định pháp luật, (cơ quan) gửi hồ sơ xét hủy tài liệu hết giá trị của Phông (khối) …….. đề nghị ………. thẩm tra và cho ý kiến bằng văn bản để (cơ quan) có cơ sở ra quyết định tiêu hủy số tài liệu hết giá trị trên./.",
+            "indexable": true
+          }
+        ]
+      },
+      {
+        "part_id": "doc:192038:part:9",
+        "part_type": "appendix",
+        "part_title": "PHỤ LỤC VII",
+        "reference": null,
+        "direct_text": null,
+        "chapters": [],
+        "sections": [],
+        "articles": [],
+        "unstructured_blocks": [
+          {
+            "block_id": "doc:192038:part:9:block:1",
+            "content": "PHỤ LỤC VII\nMẪU BIÊN BẢN BÀN GIAO TÀI LIỆU HẾT\nGIÁ TRỊ\n(Kèm theo Quyết định số 2449/QĐ-BTC ngày 11/11/2016 của Bộ Tài chính)\nTÊN CQ, TC CẤP TRÊN TÊN CƠ QUAN, TỔ CHỨC\n-------\nCỘNG\nHÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc --------------- ………., ngày …. tháng ….. năm …….\nBIÊN BẢN\nVề việc bàn giao tài liệu hết giá trị Căn cứ Điều 28, Luật Lưu trữ năm 2011 của Quốc hội; Căn cứ Quyết định số ngày...... tháng…... năm…... của ….... về việc cho tiêu hủy tài liệu hết giá trị, Hôm nay, vào hồi ..... Tại (nơi tiêu hủy): ………………………… Chúng tôi gồm: Bên giao: 1………………………………………. cơ quan (đơn vị) …………………………. 2……………………………………… cơ quan…………………………………….. 3……………………………………… cơ quan…………………………………….. Bên nhận: 1………………………………………. cơ quan (đơn vị) …………………………. 2……………………………………… cơ quan…………………………………….. 3……………………………………… cơ quan…………………………………….. Cùng giao và nhận khối lượng tài liệu để tiêu hủy như sau: - Tên phông (khối) tài liệu: ………………………………………………………… - Số lượng ………….. tập (hồ sơ) theo Danh mục tài liệu hết giá trị. Hai bên đã giao và nhận đầy đủ số lượng tài liệu hết giá trị ghi trong Danh mục. Biên bản này lập thành 2 bản: bên giao giữ một bản, bên nhận giữ một bản./.\nĐẠI DIỆN BÊN GIAO\n(Họ và tên, ký)\nĐẠI DIỆN BÊN NHẬN\n(Họ và tên, ký)",
+            "indexable": true
+          }
+        ]
+      },
+      {
+        "part_id": "doc:192038:part:10",
+        "part_type": "appendix",
+        "part_title": "PHỤ LỤC VIII",
+        "reference": null,
+        "direct_text": null,
+        "chapters": [],
+        "sections": [],
+        "articles": [],
+        "unstructured_blocks": [
+          {
+            "block_id": "doc:192038:part:10:block:1",
+            "content": "PHỤ LỤC VIII\nMẪU BIÊN BẢN BÀN GIAO TÀI LIỆU HẾT\nGIÁ TRỊ\n(Kèm theo Quyết định số 2449/QĐ-BTC ngày 11/11/2016 của Bộ Tài chính)\nTÊN CQ, TC CẤP TRÊN TÊN CƠ QUAN, TỔ CHỨC\n-------\nCỘNG\nHÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc --------------- ………., ngày …. tháng ….. năm …….\nBIÊN BẢN\nVề việc tiêu hủy tài liệu hết giá trị Căn cứ Quyết định số …….. ngày... tháng... năm….. của …………… về việc tiêu hủy tài liệu hết giá trị, Hôm nay, vào hồi....... Tại (nơi hủy)...................................................................................................................... Chúng tôi gồm: 1………………………………………………..cơ quan………………………………………. 2………………………………………………..cơ quan………………………………………. 3………………………………………………..cơ quan………………………………………. 4………………………………………………..cơ quan………………………………………. 5……………………………………….. Đã tiến hành tiêu hủy số tài liệu hết giá trị thuộc Phông (khối)……………………………… Số lượng tài liệu được tiêu hủy …………………………………………….. Phương pháp hủy: (nghiền bột giấy, cắt nhỏ...) ………………………….. Chúng tôi đã hủy hết số tài liệu ghi trong Danh mục tài liệu hết giá trị theo quy định. Biên bản này lập thành 2 bản: cơ quan có tài liệu giữ một bản, cơ quan thực hiện tiêu hủy tài liệu giữ một bản./.\nĐẠI DIỆN CƠ QUAN (ĐƠN VỊ)\nTIÊU HỦY TÀI LIỆU\n(Họ và tên, ký) Xác nhận của cơ quan (Ký tên, đóng dấu)\nĐẠI DIỆN CƠ QUAN (ĐƠN VỊ)\nCÓ TÀI LIỆU TIÊU HỦY\n(Họ và tên, ký) Xác nhận của cơ quan (Ký tên, đóng dấu)",
+            "indexable": true
+          }
+        ]
+      },
+      {
+        "part_id": "doc:192038:part:11",
+        "part_type": "appendix",
+        "part_title": "PHỤ LỤC IX",
+        "reference": null,
+        "direct_text": "PHỤ LỤC IX\nMẪU QUYẾT ĐỊNH TIÊU HỦY TÀI LIỆU HẾT\nGIÁ TRỊ\n(Kèm theo Quyết định số 2449/QĐ-BTC ngày 11/11/2016 của Bộ Tài chính)\nTÊN CQ, TC CẤP TRÊN TÊN CƠ QUAN, TỔ CHỨC\n-------\nCỘNG\nHÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc --------------- Số:\n/QĐ-....\n………., ngày …. tháng ….. năm …….\nQUYẾT ĐỊNH\nVề việc tiêu hủy tài liệu hết giá trị\nTHẨM QUYỀN BAN HÀNH………………………………\nCăn cứ ...... (văn bản quy định chức năng, nhiệm vụ, quyền hạn của cơ quan.....); Căn cứ Luật Lưu trữ số 01/2011/QH13 ngày 11/11/2011; Căn cứ ... (văn bản thẩm định của cấp có thẩm quyền); Theo đề nghị của Chủ tịch Hội đồng xác định giá trị tài liệu,\nQUYẾT ĐỊNH:\nDanh mục tài liệu hết giá trị).",
+        "chapters": [],
+        "sections": [],
+        "articles": [
+          {
+            "article_id": "doc:192038:part:11:article:1",
+            "number": "1",
+            "title": "Tiêu hủy ... tập (hồ sơ) tài liệu hết giá trị thuộc Phông (khối).... (kèm theo",
+            "content": "Điều 1. Tiêu hủy ... tập (hồ sơ) tài liệu hết giá trị thuộc Phông (khối).... (kèm theo",
+            "clauses": [],
+            "points": []
+          },
+          {
+            "article_id": "doc:192038:part:11:article:2",
+            "number": "2",
+            "title": "Giao cho (Lưu trữ cơ quan).... thực hiện việc tiêu hủy tài liệu theo đúng quy định pháp luật.",
+            "content": "Điều 2. Giao cho (Lưu trữ cơ quan).... thực hiện việc tiêu hủy tài liệu theo đúng quy định pháp luật.",
+            "clauses": [],
+            "points": []
+          },
+          {
+            "article_id": "doc:192038:part:11:article:3",
+            "number": "3",
+            "title": "Chủ tịch Hội đồng xác định giá trị tài liệu ………….. chịu trách nhiệm thi hành Quyết định này./.",
+            "content": "Điều 3. Chủ tịch Hội đồng xác định giá trị tài liệu ………….. chịu trách nhiệm thi hành Quyết định này./.",
+            "clauses": [],
+            "points": []
+          }
+        ],
+        "unstructured_blocks": []
+      }
+    ]
+  },
+  "issues": [],
+  "status": "ok",
+  "source_hash": "context_192038.json",
+  "stats": {
+    "source_chars": 54264,
+    "passage_chars": 54114,
+    "parts": 11,
+    "chapters": 3,
+    "sections": 5,
+    "articles": 27,
+    "clauses": 54,
+    "points": 55
+  }
+}

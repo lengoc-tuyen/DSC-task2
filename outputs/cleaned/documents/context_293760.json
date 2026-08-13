@@ -1,0 +1,808 @@
+{
+  "schema_version": "2.0",
+  "document_id": 293760,
+  "metadata": {
+    "name": "Nghi-dinh-108-2016-ND-CP-dieu-kien-kinh-doanh-san-pham-dich-vu-an-toan-thong-tin-mang-319676",
+    "link": "https://thuvienphapluat.vn/van-ban/Thuong-mai/Nghi-dinh-108-2016-ND-CP-dieu-kien-kinh-doanh-san-pham-dich-vu-an-toan-thong-tin-mang-319676.aspx",
+    "issuing_agency": "CHÍNH PHỦ",
+    "national_header": "CỘNG HÒA XÃ HỘI\r\n\n  CHỦ NGHĨA VIỆT NAM",
+    "motto": "Độc lập - Tự do - Hạnh phúc",
+    "document_number": "108/2016/NĐ-CP",
+    "issued_place": "Hà Nội",
+    "issued_date": "ngày 01\r\n\n  tháng 7 năm 2016",
+    "document_type": "NGHỊ ĐỊNH",
+    "title": "QUY ĐỊNH CHI TIẾT ĐIỀU KIỆN KINH DOANH SẢN PHẨM, DỊCH VỤ AN TOÀN THÔNG TIN MẠNG"
+  },
+  "administrative_header": {
+    "removed": true,
+    "removed_char_count": 148
+  },
+  "preamble": {
+    "text": "NGHỊ ĐỊNH QUY\nĐỊNH CHI TIẾT ĐIỀU KIỆN KINH DOANH SẢN PHẨM, DỊCH VỤ AN TOÀN THÔNG TIN MẠNG\nCăn cứ Luật tổ chức Chính phủ ngày 19 tháng 6 năm 2015; Căn cứ Luật an toàn thông tin mạng ngày 19 tháng 11 năm 2015; Căn cứ Luật đầu tư ngày 26 tháng 11 năm 2014; Căn cứ Luật doanh nghiệp ngày 26 tháng 11 năm 2014; Theo đề nghị của Bộ trưởng Bộ Thông tin và Truyền thông; Chính phủ ban hành Nghị định quy định chi Tiết Điều kiện kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng.\nChương I\nNHỮNG QUY ĐỊNH CHUNG",
+    "legal_bases": [
+      "Căn cứ Luật an toàn thông tin mạng ngày 19 tháng 11 năm 2015",
+      "Căn cứ Luật đầu tư ngày 26 tháng 11 năm 2014",
+      "Căn cứ Luật doanh nghiệp ngày 26 tháng 11 năm 2014"
+    ],
+    "proposals": [
+      "Theo đề nghị của Bộ trưởng Bộ Thông tin và Truyền thông"
+    ],
+    "enactment_formula": null
+  },
+  "passage": "NGHỊ ĐỊNH QUY\nĐỊNH CHI TIẾT ĐIỀU KIỆN KINH DOANH SẢN PHẨM, DỊCH VỤ AN TOÀN THÔNG TIN MẠNG\nCăn cứ Luật tổ chức Chính phủ ngày 19 tháng 6 năm 2015; Căn cứ Luật an toàn thông tin mạng ngày 19 tháng 11 năm 2015; Căn cứ Luật đầu tư ngày 26 tháng 11 năm 2014; Căn cứ Luật doanh nghiệp ngày 26 tháng 11 năm 2014; Theo đề nghị của Bộ trưởng Bộ Thông tin và Truyền thông; Chính phủ ban hành Nghị định quy định chi Tiết Điều kiện kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng.\nChương I\nNHỮNG QUY ĐỊNH CHUNG\nĐiều 1. Phạm vi Điều chỉnh\n1. Nghị định này quy định về:\na) Điều kiện, quy trình, thủ tục, hồ sơ cấp Giấy\nphép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng;\nb) Sản phẩm, dịch vụ an toàn thông tin mạng;\nc) Sản phẩm an toàn thông tin mạng nhập khẩu theo\ngiấy phép.\n2. Nghị định này không Điều chỉnh hoạt động kinh\ndoanh sản phẩm, dịch vụ mật mã dân sự và hoạt động kinh doanh dịch vụ chứng thực chữ ký điện tử.\nĐiều 2. Đối tượng áp dụng Nghị định này áp dụng đối với tổ chức, doanh nghiệp trực tiếp tham gia hoặc có liên quan đến hoạt động sản xuất, nhập khẩu sản phẩm an toàn thông tin mạng và cung cấp dịch vụ an toàn thông tin mạng tại Việt Nam.\nĐiều 3. Sản phẩm, dịch vụ an toàn thông tin mạng\n1. Sản phẩm an toàn thông tin mạng gồm:\na) Sản phẩm kiểm tra, đánh giá an toàn thông tin mạng\nlà các thiết bị phần cứng, phần mềm có các chức năng cơ bản sau: Rà quét, kiểm tra, phân tích cấu hình, hiện trạng, dữ liệu nhật ký của hệ thống thông tin; phát hiện lỗ hổng, Điểm yếu; đưa ra đánh giá rủi ro an toàn thông tin;\nb) Sản phẩm giám sát an toàn thông tin mạng là các\nthiết bị phần cứng, phần mềm có các chức năng cơ bản sau: Giám sát, phân tích dữ liệu truyền trên hệ thống thông tin; thu thập, phân tích dữ liệu nhật ký theo thời gian thực; phát hiện và đưa ra cảnh báo sự kiện bất thường, có nguy cơ gây mất an toàn thông tin;\nc) Sản phẩm chống tấn công, xâm nhập là các thiết bị\nphần cứng, phần mềm có chức năng cơ bản ngăn chặn tấn công, xâm nhập vào hệ thống thông tin.\n2. Dịch vụ an toàn thông tin mạng gồm:\na) Dịch vụ giám sát an toàn thông tin mạng là dịch\nvụ giám sát, phân tích lưu lượng dữ liệu truyền trên hệ thống thông tin; thu thập, phân tích dữ liệu nhật ký theo thời gian thực; phát hiện và đưa ra cảnh báo sự kiện bất thường, có nguy cơ gây mất an toàn thông tin;\nb) Dịch vụ phòng ngừa, chống tấn công mạng là dịch\nvụ ngăn chặn các hành vi tấn công, xâm nhập vào hệ thống thông tin thông qua việc giám sát, thu thập, phân tích các sự kiện đang xảy ra trên hệ thống thông tin;\nc) Dịch vụ tư vấn an toàn thông tin mạng là dịch vụ\nhỗ trợ tư vấn, kiểm tra, đánh giá, triển khai, thiết kế, xây dựng các giải pháp bảo đảm an toàn thông tin;\nd) Dịch vụ ứng cứu sự cố an toàn thông tin mạng là\ndịch vụ xử lý, khắc phục kịp thời sự cố gây mất an toàn thông tin đối với hệ thống thông tin;\nđ) Dịch vụ khôi phục dữ liệu là dịch vụ khôi phục dữ\nliệu trong hệ thống thông tin đã bị xóa hoặc hư hỏng;\ne) Dịch vụ kiểm tra, đánh giá an toàn thông tin mạng\nlà dịch vụ rà quét, kiểm tra, phân tích cấu hình, hiện trạng, dữ liệu nhật ký của hệ thống thông tin; phát hiện lỗ hổng, Điểm yếu; đưa ra đánh giá rủi ro mất an toàn thông tin;\ng) Dịch vụ bảo mật thông tin không sử dụng mật mã\ndân sự là dịch vụ hỗ trợ người sử dụng bảo đảm tính bí mật của thông tin, hệ thống thông tin mà không sử dụng hệ thống mật mã dân sự.\nĐiều 4. Danh Mục sản phẩm an toàn thông tin mạng nhập khẩu theo giấy phép\n1. Sản phẩm an toàn thông tin mạng nhập khẩu theo\ngiấy phép bao gồm:\na) Sản phẩm kiểm tra, đánh giá an toàn thông tin mạng;\nb) Sản phẩm giám sát an toàn thông tin mạng;\nc) Sản phẩm chống tấn công, xâm nhập.\n2. Bộ Thông tin và Truyền thông\nxây dựng Danh Mục chi Tiết các sản phẩm an toàn thông tin mạng nhập khẩu theo giấy phép quy định tại Khoản 1 Điều này.\n3. Doanh nghiệp nhập khẩu sản phẩm an toàn thông\ntin mạng không thuộc quy định tại Khoản 1 Điều này thì không yêu cầu Giấy phép nhập khẩu sản phẩm an toàn thông tin mạng.\nChương II\nCẤP GIẤY PHÉP KINH DOANH\nSẢN PHẨM, DỊCH VỤ AN TOÀN THÔNG TIN MẠNG\nĐiều 5. Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng\n1. Bộ Thông tin và Truyền thông cấp Giấy phép kinh\ndoanh sản phẩm, dịch vụ an toàn thông tin mạng.\n2. Giấy phép kinh doanh sản phẩm, dịch vụ an toàn\nthông tin mạng được cấp cho doanh nghiệp có thời hạn là 10 năm theo Mẫu số 01 tại Phụ lục ban hành kèm theo Nghị định này.\nĐiều 6. Điều kiện cấp Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng\n1. Doanh nghiệp được cấp Giấy phép kinh doanh sản\nphẩm, dịch vụ an toàn thông tin mạng quy định tại Điều 3 Nghị định này khi đáp ứng đủ các Điều kiện quy định tại Điều 42 Luật an toàn thông tin mạng và các Điều kiện tại Nghị định này.\n2. Đối với hoạt động nhập khẩu sản phẩm an toàn\nthông tin mạng quy định tại Khoản 1 Điều 3 Nghị định này, doanh nghiệp cần đáp ứng Điều kiện quy định tại Khoản 1 Điều này. Trong đó, chi Tiết các Điều kiện tại Điểm c, d Khoản 1 Điều 42 Luật an toàn thông tin mạng cụ thể như sau:\na) Có đội ngũ quản lý, Điều hành đáp ứng được yêu cầu\nchuyên môn về an toàn thông tin; có cán bộ kỹ thuật chịu trách nhiệm chính có bằng đại học chuyên ngành hoặc chứng chỉ an toàn thông tin hoặc công nghệ thông tin hoặc điện tử viễn thông với số lượng nhân sự đáp ứng được quy mô, yêu cầu của phương án kinh doanh;\nb) Có phương án kinh doanh phù hợp và bao gồm các nội\ndung: Mục đích nhập khẩu; phạm vi, đối tượng cung cấp sản phẩm; sự đáp ứng tiêu chuẩn, quy chuẩn kỹ thuật liên quan đối với từng loại sản phẩm; chi Tiết các tính năng kỹ thuật cơ bản của sản phẩm.\n3. Đối với hoạt động sản xuất sản phẩm an toàn\nthông tin mạng quy định tại Khoản 1 Điều 3 Nghị định này, doanh nghiệp cần đáp ứng Điều kiện quy định tại Khoản 1 Điều này. Trong đó, chi Tiết các Điều kiện tại Điểm b, c, d Khoản 1 Điều 42 Luật an toàn thông tin mạng cụ thể như sau:\na) Có hệ thống trang thiết bị, cơ sở vật chất và\ncông nghệ sản xuất phù hợp với phương án kinh doanh sản phẩm an toàn thông tin mạng;\nb) Có đội ngũ quản lý, Điều hành đáp ứng được yêu cầu\nchuyên môn về an toàn thông tin; có đội ngũ kỹ thuật có bằng đại học chuyên ngành hoặc chứng chỉ an toàn thông tin hoặc công nghệ thông tin hoặc điện tử viễn thông với số lượng nhân sự đáp ứng được quy mô, yêu cầu của phương án kinh doanh;\nc) Có phương án kinh doanh phù hợp và bao gồm các nội\ndung: Phạm vi đối tượng cung cấp sản phẩm; loại hình sản phẩm dự kiến sản xuất; sự đáp ứng tiêu chuẩn, quy chuẩn kỹ thuật liên quan đối với từng loại sản phẩm; các tính năng kỹ thuật cơ bản của sản phẩm.\n4. Đối với hoạt động cung cấp dịch vụ an toàn thông\ntin mạng quy định tại Điểm a, b, c, d, đ Khoản 2 Điều 3 Nghị định này, doanh nghiệp cần đáp ứng Điều kiện quy định tại Khoản 1 Điều này. Trong đó, chi Tiết các Điều kiện tại Điểm b, c, d Khoản 1 Điều 42 Luật an toàn thông tin mạng cụ thể như sau:\na) Có hệ thống trang thiết bị, cơ sở vật chất phù hợp\nvới quy mô cung cấp dịch vụ, phương án kinh doanh;\nb) Có đội ngũ quản lý, Điều hành đáp ứng được yêu cầu\nchuyên môn về an toàn thông tin; có đội ngũ kỹ thuật có bằng đại học chuyên ngành hoặc chứng chỉ an toàn thông tin hoặc công nghệ thông tin hoặc điện tử viễn thông với số lượng nhân sự đáp ứng được quy mô, yêu cầu của phương án kinh doanh;\nc) Có phương án kinh doanh phù hợp và bao gồm các nội\ndung: Phạm vi đối tượng cung cấp dịch vụ; loại hình dịch vụ dự kiến cung cấp; phương án bảo mật thông tin của khách hàng; phương án bảo đảm chất lượng dịch vụ.\n5. Đối với hoạt động cung cấp dịch vụ kiểm tra đánh\ngiá an toàn thông tin mạng cần đáp ứng Điều kiện quy định tại Khoản 2 Điều 42 Luật an toàn thông tin mạng. Đối với hoạt động cung cấp dịch vụ bảo mật thông tin không sử dụng mật mã dân sự cần đáp ứng Điều kiện quy định tại Khoản 3 Điều 42 Luật an toàn thông tin mạng. Chi Tiết các Điều kiện tại Điểm a, d Khoản 2 Điều 42 Luật an toàn thông tin mạng cụ thể như sau:\na) Các Điều kiện quy định tại Khoản 4 Điều này;\nb) Có phương án kỹ thuật phù hợp và bao gồm các nội\ndung: Tổng thể hệ thống kỹ thuật; việc đáp ứng về chức năng của hệ thống tương ứng với loại hình dịch vụ dự kiến cung cấp; việc đáp ứng với các quy chuẩn kỹ thuật và tiêu chuẩn bắt buộc áp dụng tương ứng.\nĐiều 7. Hồ sơ, trình tự thủ tục cấp Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng Hồ sơ và trình tự thủ tục cấp, sửa đổi, bổ sung, gia hạn, tạm đình chỉ, thu hồi và cấp lại Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng theo quy định tại Điều 43, 44, 45 Luật an toàn thông tin mạng.\nĐiều 8. Tiếp nhận hồ sơ đề nghị cấp Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng\n1. Doanh nghiệp nộp hồ sơ đề nghị cấp Giấy phép\nkinh doanh sản phẩm, dịch vụ an toàn thông tin mạng đến Bộ Thông tin và Truyền thông bằng một trong các hình thức sau:\na) Nộp trực tiếp đến đơn vị tiếp nhận hồ sơ;\nb) Nộp bằng cách sử dụng dịch vụ bưu chính;\nc) Nộp trực tuyến trên Cổng thông tin điện tử của Bộ\nThông tin và Truyền thông.\n2. Đơn vị tiếp nhận hồ sơ có trách nhiệm xác nhận bằng\nvăn bản hoặc qua thư điện tử về việc đã nhận hồ sơ của doanh nghiệp trong vòng 01 ngày làm việc kể từ khi nhận được hồ sơ.\n3. Đối với hình thức nộp trực tiếp, ngày nhận hồ sơ\nlà ngày đơn vị tiếp nhận hồ sơ nhận được hồ sơ do doanh nghiệp nộp.\n4. Đối với hình thức nộp bằng cách sử dụng dịch vụ\nbưu chính, ngày nhận hồ sơ là ngày đơn vị tiếp nhận hồ sơ nhận được hồ sơ do doanh nghiệp cung cấp dịch vụ bưu chính chuyển đến.\n5. Đối với hình thức nộp trực tuyến, Bộ Thông tin\nvà Truyền thông triển khai cấp Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng theo lộ trình cung cấp dịch vụ công trực tuyến của Chính phủ.\nĐiều 9. Kiểm tra tính hợp lệ hồ sơ đề nghị cấp Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng\n1. Hồ sơ đề nghị cấp Giấy phép kinh doanh sản phẩm,\ndịch vụ an toàn thông tin mạng phải làm bằng tiếng Việt, gồm 01 bộ hồ sơ gốc và 04 bộ bản sao hồ sơ hợp lệ đối với trường hợp đề nghị cấp Giấy phép, 01 bộ hồ sơ gốc và 01 bộ bản sao hồ sơ hợp lệ đối với các trường hợp đề nghị sửa đổi, bổ sung và gia hạn Giấy phép. Bộ hồ sơ gốc phải có đủ chữ ký, dấu xác nhận của doanh nghiệp, các tài liệu do doanh nghiệp lập nếu có từ 02 tờ văn bản trở lên phải có dấu giáp lai. Các bộ bản sao hồ sơ hợp lệ không yêu cầu phải có dấu xác nhận, dấu chứng thực bản sao nhưng phải có dấu giáp lai của doanh nghiệp nộp hồ sơ.\n2. Mẫu hồ sơ về Đơn đề nghị cấp/cấp lại/gia hạn/sửa\nđổi, bổ sung Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng quy định tại Mẫu số 02; Phương án kinh doanh quy định tại Mẫu số 03; Phương án kỹ thuật quy định tại Mẫu số 04; Báo cáo tình hình thực hiện Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng quy định tại Mẫu số 05 tại Phụ lục ban hành kèm theo Nghị định này.\n3. Bộ Thông tin và Truyền thông kiểm tra và thông\nbáo cho doanh nghiệp nộp hồ sơ biết về tính hợp lệ của hồ sơ sau 03 ngày làm việc kể từ khi nhận được hồ sơ.\n4. Việc kiểm tra tính hợp lệ của hồ sơ được thực hiện\ndựa trên các tiêu chí sau:\na) Hồ sơ được lập theo đúng quy định tại Khoản 1 Điều\nnày;\nb) Đủ tài liệu quy định tương ứng đối với từng loại\nhồ sơ đề nghị cấp phép quy định tại Điều 43 Luật an toàn thông tin mạng;\nc) Các tài liệu cung cấp đủ đầu Mục thông tin theo\nyêu cầu và tuân theo mẫu hồ sơ tương ứng đã được quy định tại Phụ lục của Nghị định này.\n5. Đối với hồ sơ không hợp lệ, Bộ Thông tin và Truyền\nthông có văn bản thông báo cho doanh nghiệp nộp hồ sơ và nêu rõ yếu tố không hợp lệ. Doanh nghiệp có quyền nộp lại hồ sơ bổ sung hoặc văn bản giải trình tính hợp lệ. Việc kiểm tra tính hợp lệ của hồ sơ nộp lại được thực hiện theo quy định tại Khoản 4 Điều này.\nĐiều 10. Nộp, giải trình, bổ sung hồ sơ trong quá trình thẩm định\n1. Trong thời hạn thẩm định hồ sơ, Bộ Thông tin và\nTruyền thông có quyền gửi thông báo yêu cầu doanh nghiệp bổ sung hồ sơ, giải trình bằng văn bản hoặc giải trình trực tiếp nếu hồ sơ đề nghị cấp phép tương ứng không cung cấp đủ thông tin, không đáp ứng đủ Điều kiện theo quy định nhưng không quá 01 lần.\n2. Doanh nghiệp có trách nhiệm nộp hồ sơ bổ sung,\ngiải trình bằng văn bản hoặc giải trình trực tiếp cho Bộ Thông tin và Truyền thông theo nội dung yêu cầu và trong thời hạn tối đa là 10 ngày làm việc kể từ ngày doanh nghiệp nhận được thông báo quy định tại Khoản 1 Điều này. Thời hạn thẩm định được tính tiếp kể từ thời Điểm đơn vị tiếp nhận hồ sơ nhận được hồ sơ bổ sung hoặc văn bản giải trình của doanh nghiệp hoặc ngày ký biên bản cuộc họp giải trình.\n3. Nếu kết thúc thời hạn nộp hồ sơ bổ sung, giải\ntrình quy định tại Khoản 2 Điều này, doanh nghiệp không nộp hồ sơ bổ sung hoặc không giải trình và không có văn bản đề nghị được lùi thời hạn nộp bổ sung thì xem như doanh nghiệp từ bỏ việc nộp hồ sơ. Việc tiếp nhận hồ sơ nộp sau khi hết hạn nộp bổ sung, giải trình hoặc sau ngày doanh nghiệp đề nghị được lùi thời hạn được xét như tiếp nhận hồ sơ nộp mới.\n4. Thời gian thẩm định hồ sơ ban đầu và hồ sơ bổ\nsung, ý kiến giải trình và cấp Giấy phép hoặc ra thông báo không cấp Giấy phép;\na) Không vượt quá 15 ngày làm việc kể từ ngày nhận\nđược hồ sơ hợp lệ đối với hồ sơ đề nghị cấp Giấy phép;\nb) Không vượt quá 10 ngày làm việc kể từ ngày nhận\nđược hồ sơ hợp lệ đối với hồ sơ đề nghị gia hạn Giấy phép và hồ sơ đề nghị sửa đổi, bổ sung Giấy phép;\nc) Không vượt quá 05 ngày làm việc kể từ ngày nhận\nđược hồ sơ hợp lệ đối với hồ sơ đề nghị cấp lại Giấy phép.\nĐiều 11. Chế độ báo cáo của doanh nghiệp kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng Doanh nghiệp được cấp Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng có trách nhiệm báo cáo đột xuất theo yêu cầu và báo cáo định kỳ hằng năm (trước ngày 31 tháng 12) về tình hình kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng đến Bộ Thông tin và Truyền thông theo Mẫu số 05 tại Phụ lục ban hành kèm theo Nghị định này.\nChương III\nĐIỀU KHOẢN THI HÀNH\nĐiều 12. Điều Khoản chuyển tiếp\n1. Doanh nghiệp đang kinh doanh sản phẩm, dịch vụ\nan toàn thông tin mạng quy định tại Điều 3 Nghị định này cần hoàn tất hồ sơ, thủ tục để được cấp Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng tối đa 06 tháng kể từ ngày Nghị định này có hiệu lực.\n2. Đối với các hợp đồng kinh doanh sản phẩm, dịch vụ\nan toàn thông tin mạng đã được ký kết và có giá trị trước thời Điểm Nghị định này có hiệu lực thi hành, doanh nghiệp vẫn tiếp tục được thực hiện các nội dung trong hợp đồng.\nĐiều 13. Hiệu lực thi hành Nghị định này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2016.\nĐiều 14. Trách nhiệm thi hành\n1. Bộ trưởng Bộ Thông tin và Truyền thông chịu\ntrách nhiệm hướng dẫn, kiểm tra việc thi hành Nghị định này.\n2. Các Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Thủ\ntrưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Nghị định này./.\nNơi nhận:\n- Ban Bí thư Trung ương Đảng;\n- Thủ tướng, các Phó Thủ tướng Chính phủ;\n- Các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ;\n- HĐND, UBND các tỉnh, thành phố trực thuộc trung ương;\n- Văn phòng Trung ương và các Ban của Đảng;\n- Văn phòng Tổng Bí thư;\n- Văn phòng Chủ tịch nước;\n- Hội đồng dân tộc và các Ủy ban của Quốc hội;\n- Văn phòng Quốc hội;\n- Tòa án nhân dân tối cao;\n- Viện kiểm sát nhân dân tối cao;\n- Ủy ban Giám sát tài chính Quốc gia;\n- Kiểm toán nhà nước;\n- Ngân hàng Chính sách xã hội;\n- Ngân hàng Phát triển Việt Nam;\n- Ủy ban trung ương Mặt trận Tổ quốc Việt Nam;\n- Cơ quan Trung ương của các đoàn thể;\n- Phòng Thương mại và Công nghiệp Việt Nam;\n- VPCP: BTCN, các PCN, Trợ lý TTg, TGĐ Cổng TTĐT, các Vụ, Cục, đơn vị trực\nthuộc, Công báo;\n- Lưu: VT, KGVX (3b).\nTM. CHÍNH PHỦ\nTHỦ TƯỚNG\nNguyễn Xuân Phúc\nPHỤ LỤC\n(Kèm theo Nghị định số 108/2016/NĐ-CP ngày 01 tháng 7 năm 2016 của Chính phủ) Mẫu số 01 Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng Mẫu số 02 Đơn đề nghị cấp/cấp lại/gia hạn/sửa đổi, bổ sung Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng Mẫu số 03 Phương án kinh doanh Mẫu số 04 Phương án kỹ thuật Mẫu số 05 Báo cáo tình hình thực hiện Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng Mẫu số 01\nBỘ THÔNG TIN VÀ TRUYỀN THÔNG\n-------\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc --------------- Số:\n/GP-BTTTT\nHà Nội, ngày … tháng … năm …..\nGIẤY PHÉP KINH DOANH\nSẢN PHẨM, DỊCH VỤ AN TOÀN THÔNG TIN MẠNG\n(Có giá trị đến hết ngày.../.../...)\nBỘ THÔNG TIN VÀ TRUYỀN THÔNG\nCăn cứ Luật an toàn thông tin mạng ngày 19 tháng 11 năm 2015; Căn cứ Nghị định số ……/2016/NĐ-CP ngày ….. tháng ….. năm 2016 của Chính phủ quy định chi Tiết Điều kiện kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng; Căn cứ Nghị định số ………./………/NĐ-CP ngày.....tháng …..năm ….. của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Thông tin và Truyền thông; Xét hồ sơ đề nghị cấp/cấp lại/sửa đổi, bổ sung Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng ngày ….. tháng ….. năm ….. của …………………..(1); Theo đề nghị của.... (2),\nQUYẾT ĐỊNH:\nĐiều 1. Cho phép …………………………….(1) được kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng\n1. Thông tin doanh nghiệp\na) Tên giao dịch của doanh nghiệp bằng tiếng Việt\nhoặc tiếng nước ngoài (nếu có): ……\nb) Tên người đại diện theo pháp luật:\n………………………………………………………….\nc) Giấy chứng nhận đăng ký doanh nghiệp số: .... do\n.... cấp ngày ... tháng ... năm ... tại.............\nd) Địa chỉ trụ sở chính tại Việt Nam:\n……………………………………………………………\nđ) Điện thoại: ………………………………………………………………………………………\ne) Số Fax: ………………………………………………………………………………………….\ng) Mã số thuế: …………………………………………………………………………………….\n2. Doanh nghiệp được phép:\na) …………………………………….(3);\nb) ……………………………………. (3);\nc) ……………………………………. (3);\nĐiều 2. ……………………………….(1) phải thực hiện đúng các quy định tại Nghị định số …………./2016/NĐ-CP ngày …… tháng …… năm 2016 của Chính phủ quy định chi Tiết Điều kiện kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng và các quy định khác của pháp luật có liên quan.\nĐiều 3. Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng này có hiệu lực kể từ ngày ký và có giá trị đến hết ngày …… tháng .... năm……; (4) thay thế cho Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng ……/GP-BTTTT ngày ... tháng ... năm……/. BỘ TRƯỞNG Chú thích: (1) Tên doanh nghiệp được cấp Giấy phép. (2) Thủ trưởng đơn vị trình cấp Giấy phép. (3) Sản phẩm, dịch vụ an toàn thông tin mạng được phép kinh doanh. (4) Sử dụng trong trường hợp cấp lại/sửa đổi, bổ sung Giấy phép. Mẫu số 02 (TÊN DOANH NGHIỆP) ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: ………….. ….., ngày ….. tháng ….. năm ….. ĐƠN ĐỀ NGHỊ CẤP/CẤP LẠI/GIA HẠN/SỬA ĐỔI, BỔ SUNG GIẤY PHÉP KINH DOANH SẢN PHẨM, DỊCH VỤ AN TOÀN THÔNG TIN MẠNG Kính gửi: Bộ Thông tin và Truyền thông. Căn cứ Luật an toàn thông tin mạng ngày 19 tháng 11 năm 2015; Căn cứ Nghị định số ……/2016/NĐ-CP ngày …… tháng …… năm 2016 của Chính phủ quy định chi Tiết Điều kiện kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng; (Tên doanh nghiệp) đề nghị cấp/cấp lại/gia hạn/sửa đổi, bổ sung Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng với các nội dung sau: Phần 1. Thông tin chung\n1. Tên doanh nghiệp: …………………………………………………………………………….\n2. Tên giao dịch của doanh nghiệp bằng tiếng Việt\nhoặc tiếng nước ngoài (nếu có): ……\n3. Tên người đại diện theo pháp luật:\n………………………………………………………….\n4. Giấy chứng nhận đăng ký doanh nghiệp số: .... do\n.... cấp ngày ... tháng ... năm ... tại...........\n5. Địa chỉ trụ sở chính:\n……………………………………………………………………………\n6. Điện thoại: ………………………………7. Số Fax:\n………………………………………….\n8. Mã số thuế: ………………………………………………………………………………………\nPhần 2. Hồ sơ kèm theo (ghi rõ loại và số lượng hồ sơ)\n1. …………………………………………………………………………………………………….\n2. ……………………………………………………………………………………………………\n3. ……………………………………………………………………………………………………\nPhần 3. Lý do cấp lại/sửa đổi, bổ sung (trong trường hợp cấp lại/ sửa đổi, bổ sung Giấy phép) Phần 4. Cam kết (Tên doanh nghiệp) xin cam kết:\n1. Chịu trách nhiệm trước pháp luật về tính chính\nxác và tính hợp pháp của nội dung trong đơn đề nghị cấp/cấp lại/gia hạn/sửa đổi, bổ sung Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng và các tài liệu kèm theo.\n2. Nếu được cấp/cấp lại/gia hạn/sửa đổi, bổ sung giấy\nphép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng, (tên doanh nghiệp) sẽ chấp hành nghiêm chỉnh các quy định của pháp luật Việt Nam về kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng và các quy định trong giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng./.\nNơi nhận:\n- Như trên;\n- ………….\nNGƯỜI ĐẠI DIỆN\nTHEO PHÁP LUẬT CỦA DOANH NGHIỆP\n(Ký, ghi rõ họ tên, chức danh và đóng dấu)\nMẫu\nsố 03\n(TÊN DOANH NGHIỆP)\n-------\nCỘNG HÒA XÃ HỘI\nCHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\n---------------\n….., ngày …..\ntháng ….. năm …..\nPHƯƠNG\nÁN KINH DOANH\n(Kèm theo Đơn đề nghị số ... ngày ... tháng ... năm ...)\nPhần 1. Tổng quan\n1. Cơ cấu tổ chức của doanh nghiệp.\n2. Tóm tắt hoạt động kinh doanh của doanh nghiệp.\n3. Thuyết minh hệ thống trang thiết bị, cơ sở vật\nchất của doanh nghiệp.\n4. Mô tả nhân sự: Số lượng; kinh nghiệm kỹ thuật/kinh\ndoanh trong lĩnh vực đề nghị cấp Giấy phép.\nPhần 2. Phạm vi, đối tượng kinh doanh sản phẩm,\ndịch vụ\n1. Loại hình sản phẩm, dịch vụ dự kiến kinh doanh.\n2. Quy mô hoạt động kinh doanh sản phẩm, dịch vụ.\n3. Đối tượng dự kiến cung cấp sản phẩm, dịch vụ.\n4. Kế hoạch triển khai hệ thống thiết bị cung cấp dịch\nvụ/sản xuất sản phẩm.\nPhần 3. Phương án bảo đảm chất lượng sản phẩm, dịch\nvụ\n1. Tiêu chuẩn chất lượng sản phẩm, dịch vụ.\n2. Quy chế bảo mật thông tin.\n3. Phương án bảo mật thông tin khách hàng (trước,\ntrong và sau khi cung cấp dịch vụ).\n4. Các tiêu chuẩn bảo đảm chất lượng dịch vụ được\náp dụng/Phương án chứng nhận và công bố hợp chuẩn, hợp quy đối với sản phẩm do\ndoanh nghiệp công bố và lưu hành trên thị trường.\n5. Thủ tục giải quyết khiếu nại về chất lượng dịch\nvụ của khách hàng.\nMẫu\nsố 04\n(TÊN DOANH NGHIỆP)\n-------\nCỘNG HÒA XÃ HỘI\nCHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\n---------------\n….., ngày …..\ntháng ….. năm …..\nPHƯƠNG\nÁN KỸ THUẬT\n(Kèm theo Đơn đề nghị số ... ngày ... tháng ... năm ...)\n1. Tổng thể hệ thống kỹ thuật\nMô tả cấu hình, sơ đồ lắp đặt thiết bị, giải pháp kỹ\nthuật tổng thể.\n2. Tính năng của hệ thống\n3. Thuyết minh đáp ứng quy chuẩn kỹ thuật, tiêu chuẩn\nbắt buộc áp dụng về sản phẩm, dịch vụ an toàn thông tin mạng\nMô tả, chứng minh sự đáp ứng với các quy chuẩn kỹ\nthuật và tiêu chuẩn bắt buộc áp dụng căn cứ vào các đặc tả kỹ thuật của giải\npháp sử dụng, các chứng chỉ, chứng nhận đáp ứng tiêu chuẩn của nhà cung cấp giải\npháp đã thực hiện kiểm định và đã được công nhận hoặc chứng nhận của tổ chức kiểm\nđịnh được thừa nhận.\nĐối với các sản phẩm phần mềm cần mô tả, chứng minh\nnguồn gốc, có bản quyền hay tự phát triển.\n4. Phụ lục\nPhụ lục các tài liệu đặc tả thiết bị kỹ thuật hệ thống,\ncác chứng nhận, chứng chỉ tuân thủ tiêu chuẩn đã được cấp. Mẫu số 05\n(TÊN DOANH NGHIỆP)\n-------\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc --------------- Số: ………….. ….., ngày ….. tháng ….. năm …..\nBÁO\nCÁO TÌNH HÌNH THỰC HIỆN GIẤY PHÉP KINH DOANH SẢN PHẨM, DỊCH VỤ AN TOÀN THÔNG\nTIN MẠNG\n(Từ tháng .../... đến tháng .../...) Phần 1. Thông tin chung\n1. Tên doanh nghiệp: ……………………………………………………………………………\n2. Địa chỉ trụ sở chính: ………………………………………………………………………….\n3. Điện thoại: ……………………………. 4. Số Fax:\n………………………………………….\n5. Giấy phép kinh doanh sản phẩm, dịch vụ an toàn\nthông tin mạng số .... cấp ngày ... tháng .... năm …… Phần 2. Tình hình triển khai thực hiện Giấy phép\n1. Tóm tắt hoạt động kinh doanh sản phẩm, dịch vụ\nan toàn thông tin mạng của doanh nghiệp: …………………………………………………………………………….\n2. Số lượng, loại sản phẩm an toàn thông tin mạng\nnhập khẩu, sản xuất, tiêu thụ trong năm: …………………………………………………………………………….\n3. Số lượng khách hàng phân theo loại hình dịch vụ\ncung cấp trong năm: ………………\n4. Tổng doanh thu, lợi nhuận trong năm:\n…………………………………………………….\n5. Tình hình nhân sự trực tiếp tham gia các hoạt động\nnhập khẩu, sản xuất, cung cấp dịch vụ an toàn thông tin mạng: ………………………………………………………….\n6. Nội dung khác: …………………………………………………………………………………\nPhần 3. Cam kết (Tên doanh nghiệp) xin cam kết chịu trách nhiệm trước pháp luật về tính chính xác của nội dung trong Báo cáo và các tài liệu kèm theo.\nNơi nhận:\n- Như trên;\n- …………\nNGƯỜI ĐẠI DIỆN\nTHEO PHÁP LUẬT CỦA DOANH NGHIỆP\n(Ký, ghi rõ họ tên, chức danh và đóng dấu)",
+  "tree": {
+    "parts": [
+      {
+        "part_id": "doc:293760:part:1",
+        "part_type": "main",
+        "part_title": null,
+        "reference": null,
+        "direct_text": "NGHỊ ĐỊNH QUY\nĐỊNH CHI TIẾT ĐIỀU KIỆN KINH DOANH SẢN PHẨM, DỊCH VỤ AN TOÀN THÔNG TIN MẠNG\nCăn cứ Luật tổ chức Chính phủ ngày 19 tháng 6 năm 2015; Căn cứ Luật an toàn thông tin mạng ngày 19 tháng 11 năm 2015; Căn cứ Luật đầu tư ngày 26 tháng 11 năm 2014; Căn cứ Luật doanh nghiệp ngày 26 tháng 11 năm 2014; Theo đề nghị của Bộ trưởng Bộ Thông tin và Truyền thông; Chính phủ ban hành Nghị định quy định chi Tiết Điều kiện kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng.",
+        "chapters": [
+          {
+            "chapter_id": "doc:293760:part:1:chapter:1",
+            "number": "I",
+            "title": "NHỮNG QUY ĐỊNH CHUNG",
+            "content": "Chương I\nNHỮNG QUY ĐỊNH CHUNG",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:293760:part:1:article:1",
+                "number": "1",
+                "title": "Phạm vi Điều chỉnh",
+                "content": "Điều 1. Phạm vi Điều chỉnh",
+                "clauses": [
+                  {
+                    "clause_id": "doc:293760:part:1:article:1:clause:1",
+                    "number": "1",
+                    "content": "1. Nghị định này quy định về:",
+                    "points": [
+                      {
+                        "point_id": "doc:293760:part:1:article:1:clause:1:point:1",
+                        "label": "a",
+                        "content": "a) Điều kiện, quy trình, thủ tục, hồ sơ cấp Giấy\nphép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:293760:part:1:article:1:clause:1:point:2",
+                        "label": "b",
+                        "content": "b) Sản phẩm, dịch vụ an toàn thông tin mạng;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:293760:part:1:article:1:clause:1:point:3",
+                        "label": "c",
+                        "content": "c) Sản phẩm an toàn thông tin mạng nhập khẩu theo\ngiấy phép.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:293760:part:1:article:1:clause:2",
+                    "number": "2",
+                    "content": "2. Nghị định này không Điều chỉnh hoạt động kinh\ndoanh sản phẩm, dịch vụ mật mã dân sự và hoạt động kinh doanh dịch vụ chứng thực chữ ký điện tử.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:293760:part:1:article:2",
+                "number": "2",
+                "title": "Đối tượng áp dụng Nghị định này áp dụng đối với tổ chức, doanh nghiệp trực tiếp tham gia hoặc có liên quan đến hoạt động sản xuất, nhập khẩu sản phẩm an toàn thông tin mạng và cung cấp dịch vụ an toàn thông tin mạng tại Việt Nam.",
+                "content": "Điều 2. Đối tượng áp dụng Nghị định này áp dụng đối với tổ chức, doanh nghiệp trực tiếp tham gia hoặc có liên quan đến hoạt động sản xuất, nhập khẩu sản phẩm an toàn thông tin mạng và cung cấp dịch vụ an toàn thông tin mạng tại Việt Nam.",
+                "clauses": [],
+                "points": []
+              },
+              {
+                "article_id": "doc:293760:part:1:article:3",
+                "number": "3",
+                "title": "Sản phẩm, dịch vụ an toàn thông tin mạng",
+                "content": "Điều 3. Sản phẩm, dịch vụ an toàn thông tin mạng",
+                "clauses": [
+                  {
+                    "clause_id": "doc:293760:part:1:article:3:clause:1",
+                    "number": "1",
+                    "content": "1. Sản phẩm an toàn thông tin mạng gồm:",
+                    "points": [
+                      {
+                        "point_id": "doc:293760:part:1:article:3:clause:1:point:1",
+                        "label": "a",
+                        "content": "a) Sản phẩm kiểm tra, đánh giá an toàn thông tin mạng\nlà các thiết bị phần cứng, phần mềm có các chức năng cơ bản sau: Rà quét, kiểm tra, phân tích cấu hình, hiện trạng, dữ liệu nhật ký của hệ thống thông tin; phát hiện lỗ hổng, Điểm yếu; đưa ra đánh giá rủi ro an toàn thông tin;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:293760:part:1:article:3:clause:1:point:2",
+                        "label": "b",
+                        "content": "b) Sản phẩm giám sát an toàn thông tin mạng là các\nthiết bị phần cứng, phần mềm có các chức năng cơ bản sau: Giám sát, phân tích dữ liệu truyền trên hệ thống thông tin; thu thập, phân tích dữ liệu nhật ký theo thời gian thực; phát hiện và đưa ra cảnh báo sự kiện bất thường, có nguy cơ gây mất an toàn thông tin;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:293760:part:1:article:3:clause:1:point:3",
+                        "label": "c",
+                        "content": "c) Sản phẩm chống tấn công, xâm nhập là các thiết bị\nphần cứng, phần mềm có chức năng cơ bản ngăn chặn tấn công, xâm nhập vào hệ thống thông tin.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:293760:part:1:article:3:clause:2",
+                    "number": "2",
+                    "content": "2. Dịch vụ an toàn thông tin mạng gồm:",
+                    "points": [
+                      {
+                        "point_id": "doc:293760:part:1:article:3:clause:2:point:1",
+                        "label": "a",
+                        "content": "a) Dịch vụ giám sát an toàn thông tin mạng là dịch\nvụ giám sát, phân tích lưu lượng dữ liệu truyền trên hệ thống thông tin; thu thập, phân tích dữ liệu nhật ký theo thời gian thực; phát hiện và đưa ra cảnh báo sự kiện bất thường, có nguy cơ gây mất an toàn thông tin;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:293760:part:1:article:3:clause:2:point:2",
+                        "label": "b",
+                        "content": "b) Dịch vụ phòng ngừa, chống tấn công mạng là dịch\nvụ ngăn chặn các hành vi tấn công, xâm nhập vào hệ thống thông tin thông qua việc giám sát, thu thập, phân tích các sự kiện đang xảy ra trên hệ thống thông tin;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:293760:part:1:article:3:clause:2:point:3",
+                        "label": "c",
+                        "content": "c) Dịch vụ tư vấn an toàn thông tin mạng là dịch vụ\nhỗ trợ tư vấn, kiểm tra, đánh giá, triển khai, thiết kế, xây dựng các giải pháp bảo đảm an toàn thông tin;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:293760:part:1:article:3:clause:2:point:4",
+                        "label": "d",
+                        "content": "d) Dịch vụ ứng cứu sự cố an toàn thông tin mạng là\ndịch vụ xử lý, khắc phục kịp thời sự cố gây mất an toàn thông tin đối với hệ thống thông tin;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:293760:part:1:article:3:clause:2:point:5",
+                        "label": "đ",
+                        "content": "đ) Dịch vụ khôi phục dữ liệu là dịch vụ khôi phục dữ\nliệu trong hệ thống thông tin đã bị xóa hoặc hư hỏng;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:293760:part:1:article:3:clause:2:point:6",
+                        "label": "e",
+                        "content": "e) Dịch vụ kiểm tra, đánh giá an toàn thông tin mạng\nlà dịch vụ rà quét, kiểm tra, phân tích cấu hình, hiện trạng, dữ liệu nhật ký của hệ thống thông tin; phát hiện lỗ hổng, Điểm yếu; đưa ra đánh giá rủi ro mất an toàn thông tin;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:293760:part:1:article:3:clause:2:point:7",
+                        "label": "g",
+                        "content": "g) Dịch vụ bảo mật thông tin không sử dụng mật mã\ndân sự là dịch vụ hỗ trợ người sử dụng bảo đảm tính bí mật của thông tin, hệ thống thông tin mà không sử dụng hệ thống mật mã dân sự.",
+                        "children": []
+                      }
+                    ]
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:293760:part:1:article:4",
+                "number": "4",
+                "title": "Danh Mục sản phẩm an toàn thông tin mạng nhập khẩu theo giấy phép",
+                "content": "Điều 4. Danh Mục sản phẩm an toàn thông tin mạng nhập khẩu theo giấy phép",
+                "clauses": [
+                  {
+                    "clause_id": "doc:293760:part:1:article:4:clause:1",
+                    "number": "1",
+                    "content": "1. Sản phẩm an toàn thông tin mạng nhập khẩu theo\ngiấy phép bao gồm:",
+                    "points": [
+                      {
+                        "point_id": "doc:293760:part:1:article:4:clause:1:point:1",
+                        "label": "a",
+                        "content": "a) Sản phẩm kiểm tra, đánh giá an toàn thông tin mạng;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:293760:part:1:article:4:clause:1:point:2",
+                        "label": "b",
+                        "content": "b) Sản phẩm giám sát an toàn thông tin mạng;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:293760:part:1:article:4:clause:1:point:3",
+                        "label": "c",
+                        "content": "c) Sản phẩm chống tấn công, xâm nhập.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:293760:part:1:article:4:clause:2",
+                    "number": "2",
+                    "content": "2. Bộ Thông tin và Truyền thông\nxây dựng Danh Mục chi Tiết các sản phẩm an toàn thông tin mạng nhập khẩu theo giấy phép quy định tại Khoản 1 Điều này.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:293760:part:1:article:4:clause:3",
+                    "number": "3",
+                    "content": "3. Doanh nghiệp nhập khẩu sản phẩm an toàn thông\ntin mạng không thuộc quy định tại Khoản 1 Điều này thì không yêu cầu Giấy phép nhập khẩu sản phẩm an toàn thông tin mạng.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:293760:part:1:chapter:2",
+            "number": "II",
+            "title": "CẤP GIẤY PHÉP KINH DOANH SẢN PHẨM, DỊCH VỤ AN TOÀN THÔNG TIN MẠNG",
+            "content": "Chương II\nCẤP GIẤY PHÉP KINH DOANH\nSẢN PHẨM, DỊCH VỤ AN TOÀN THÔNG TIN MẠNG",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:293760:part:1:article:5",
+                "number": "5",
+                "title": "Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng",
+                "content": "Điều 5. Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng",
+                "clauses": [
+                  {
+                    "clause_id": "doc:293760:part:1:article:5:clause:1",
+                    "number": "1",
+                    "content": "1. Bộ Thông tin và Truyền thông cấp Giấy phép kinh\ndoanh sản phẩm, dịch vụ an toàn thông tin mạng.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:293760:part:1:article:5:clause:2",
+                    "number": "2",
+                    "content": "2. Giấy phép kinh doanh sản phẩm, dịch vụ an toàn\nthông tin mạng được cấp cho doanh nghiệp có thời hạn là 10 năm theo Mẫu số 01 tại Phụ lục ban hành kèm theo Nghị định này.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:293760:part:1:article:6",
+                "number": "6",
+                "title": "Điều kiện cấp Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng",
+                "content": "Điều 6. Điều kiện cấp Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng",
+                "clauses": [
+                  {
+                    "clause_id": "doc:293760:part:1:article:6:clause:1",
+                    "number": "1",
+                    "content": "1. Doanh nghiệp được cấp Giấy phép kinh doanh sản\nphẩm, dịch vụ an toàn thông tin mạng quy định tại Điều 3 Nghị định này khi đáp ứng đủ các Điều kiện quy định tại Điều 42 Luật an toàn thông tin mạng và các Điều kiện tại Nghị định này.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:293760:part:1:article:6:clause:2",
+                    "number": "2",
+                    "content": "2. Đối với hoạt động nhập khẩu sản phẩm an toàn\nthông tin mạng quy định tại Khoản 1 Điều 3 Nghị định này, doanh nghiệp cần đáp ứng Điều kiện quy định tại Khoản 1 Điều này. Trong đó, chi Tiết các Điều kiện tại Điểm c, d Khoản 1 Điều 42 Luật an toàn thông tin mạng cụ thể như sau:",
+                    "points": [
+                      {
+                        "point_id": "doc:293760:part:1:article:6:clause:2:point:1",
+                        "label": "a",
+                        "content": "a) Có đội ngũ quản lý, Điều hành đáp ứng được yêu cầu\nchuyên môn về an toàn thông tin; có cán bộ kỹ thuật chịu trách nhiệm chính có bằng đại học chuyên ngành hoặc chứng chỉ an toàn thông tin hoặc công nghệ thông tin hoặc điện tử viễn thông với số lượng nhân sự đáp ứng được quy mô, yêu cầu của phương án kinh doanh;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:293760:part:1:article:6:clause:2:point:2",
+                        "label": "b",
+                        "content": "b) Có phương án kinh doanh phù hợp và bao gồm các nội\ndung: Mục đích nhập khẩu; phạm vi, đối tượng cung cấp sản phẩm; sự đáp ứng tiêu chuẩn, quy chuẩn kỹ thuật liên quan đối với từng loại sản phẩm; chi Tiết các tính năng kỹ thuật cơ bản của sản phẩm.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:293760:part:1:article:6:clause:3",
+                    "number": "3",
+                    "content": "3. Đối với hoạt động sản xuất sản phẩm an toàn\nthông tin mạng quy định tại Khoản 1 Điều 3 Nghị định này, doanh nghiệp cần đáp ứng Điều kiện quy định tại Khoản 1 Điều này. Trong đó, chi Tiết các Điều kiện tại Điểm b, c, d Khoản 1 Điều 42 Luật an toàn thông tin mạng cụ thể như sau:",
+                    "points": [
+                      {
+                        "point_id": "doc:293760:part:1:article:6:clause:3:point:1",
+                        "label": "a",
+                        "content": "a) Có hệ thống trang thiết bị, cơ sở vật chất và\ncông nghệ sản xuất phù hợp với phương án kinh doanh sản phẩm an toàn thông tin mạng;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:293760:part:1:article:6:clause:3:point:2",
+                        "label": "b",
+                        "content": "b) Có đội ngũ quản lý, Điều hành đáp ứng được yêu cầu\nchuyên môn về an toàn thông tin; có đội ngũ kỹ thuật có bằng đại học chuyên ngành hoặc chứng chỉ an toàn thông tin hoặc công nghệ thông tin hoặc điện tử viễn thông với số lượng nhân sự đáp ứng được quy mô, yêu cầu của phương án kinh doanh;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:293760:part:1:article:6:clause:3:point:3",
+                        "label": "c",
+                        "content": "c) Có phương án kinh doanh phù hợp và bao gồm các nội\ndung: Phạm vi đối tượng cung cấp sản phẩm; loại hình sản phẩm dự kiến sản xuất; sự đáp ứng tiêu chuẩn, quy chuẩn kỹ thuật liên quan đối với từng loại sản phẩm; các tính năng kỹ thuật cơ bản của sản phẩm.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:293760:part:1:article:6:clause:4",
+                    "number": "4",
+                    "content": "4. Đối với hoạt động cung cấp dịch vụ an toàn thông\ntin mạng quy định tại Điểm a, b, c, d, đ Khoản 2 Điều 3 Nghị định này, doanh nghiệp cần đáp ứng Điều kiện quy định tại Khoản 1 Điều này. Trong đó, chi Tiết các Điều kiện tại Điểm b, c, d Khoản 1 Điều 42 Luật an toàn thông tin mạng cụ thể như sau:",
+                    "points": [
+                      {
+                        "point_id": "doc:293760:part:1:article:6:clause:4:point:1",
+                        "label": "a",
+                        "content": "a) Có hệ thống trang thiết bị, cơ sở vật chất phù hợp\nvới quy mô cung cấp dịch vụ, phương án kinh doanh;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:293760:part:1:article:6:clause:4:point:2",
+                        "label": "b",
+                        "content": "b) Có đội ngũ quản lý, Điều hành đáp ứng được yêu cầu\nchuyên môn về an toàn thông tin; có đội ngũ kỹ thuật có bằng đại học chuyên ngành hoặc chứng chỉ an toàn thông tin hoặc công nghệ thông tin hoặc điện tử viễn thông với số lượng nhân sự đáp ứng được quy mô, yêu cầu của phương án kinh doanh;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:293760:part:1:article:6:clause:4:point:3",
+                        "label": "c",
+                        "content": "c) Có phương án kinh doanh phù hợp và bao gồm các nội\ndung: Phạm vi đối tượng cung cấp dịch vụ; loại hình dịch vụ dự kiến cung cấp; phương án bảo mật thông tin của khách hàng; phương án bảo đảm chất lượng dịch vụ.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:293760:part:1:article:6:clause:5",
+                    "number": "5",
+                    "content": "5. Đối với hoạt động cung cấp dịch vụ kiểm tra đánh\ngiá an toàn thông tin mạng cần đáp ứng Điều kiện quy định tại Khoản 2 Điều 42 Luật an toàn thông tin mạng. Đối với hoạt động cung cấp dịch vụ bảo mật thông tin không sử dụng mật mã dân sự cần đáp ứng Điều kiện quy định tại Khoản 3 Điều 42 Luật an toàn thông tin mạng. Chi Tiết các Điều kiện tại Điểm a, d Khoản 2 Điều 42 Luật an toàn thông tin mạng cụ thể như sau:",
+                    "points": [
+                      {
+                        "point_id": "doc:293760:part:1:article:6:clause:5:point:1",
+                        "label": "a",
+                        "content": "a) Các Điều kiện quy định tại Khoản 4 Điều này;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:293760:part:1:article:6:clause:5:point:2",
+                        "label": "b",
+                        "content": "b) Có phương án kỹ thuật phù hợp và bao gồm các nội\ndung: Tổng thể hệ thống kỹ thuật; việc đáp ứng về chức năng của hệ thống tương ứng với loại hình dịch vụ dự kiến cung cấp; việc đáp ứng với các quy chuẩn kỹ thuật và tiêu chuẩn bắt buộc áp dụng tương ứng.",
+                        "children": []
+                      }
+                    ]
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:293760:part:1:article:7",
+                "number": "7",
+                "title": "Hồ sơ, trình tự thủ tục cấp Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng Hồ sơ và trình tự thủ tục cấp, sửa đổi, bổ sung, gia hạn, tạm đình chỉ, thu hồi và cấp lại Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng theo quy định tại Điều 43, 44, 45 Luật an toàn thông tin mạng.",
+                "content": "Điều 7. Hồ sơ, trình tự thủ tục cấp Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng Hồ sơ và trình tự thủ tục cấp, sửa đổi, bổ sung, gia hạn, tạm đình chỉ, thu hồi và cấp lại Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng theo quy định tại Điều 43, 44, 45 Luật an toàn thông tin mạng.",
+                "clauses": [],
+                "points": []
+              },
+              {
+                "article_id": "doc:293760:part:1:article:8",
+                "number": "8",
+                "title": "Tiếp nhận hồ sơ đề nghị cấp Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng",
+                "content": "Điều 8. Tiếp nhận hồ sơ đề nghị cấp Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng",
+                "clauses": [
+                  {
+                    "clause_id": "doc:293760:part:1:article:8:clause:1",
+                    "number": "1",
+                    "content": "1. Doanh nghiệp nộp hồ sơ đề nghị cấp Giấy phép\nkinh doanh sản phẩm, dịch vụ an toàn thông tin mạng đến Bộ Thông tin và Truyền thông bằng một trong các hình thức sau:",
+                    "points": [
+                      {
+                        "point_id": "doc:293760:part:1:article:8:clause:1:point:1",
+                        "label": "a",
+                        "content": "a) Nộp trực tiếp đến đơn vị tiếp nhận hồ sơ;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:293760:part:1:article:8:clause:1:point:2",
+                        "label": "b",
+                        "content": "b) Nộp bằng cách sử dụng dịch vụ bưu chính;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:293760:part:1:article:8:clause:1:point:3",
+                        "label": "c",
+                        "content": "c) Nộp trực tuyến trên Cổng thông tin điện tử của Bộ\nThông tin và Truyền thông.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:293760:part:1:article:8:clause:2",
+                    "number": "2",
+                    "content": "2. Đơn vị tiếp nhận hồ sơ có trách nhiệm xác nhận bằng\nvăn bản hoặc qua thư điện tử về việc đã nhận hồ sơ của doanh nghiệp trong vòng 01 ngày làm việc kể từ khi nhận được hồ sơ.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:293760:part:1:article:8:clause:3",
+                    "number": "3",
+                    "content": "3. Đối với hình thức nộp trực tiếp, ngày nhận hồ sơ\nlà ngày đơn vị tiếp nhận hồ sơ nhận được hồ sơ do doanh nghiệp nộp.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:293760:part:1:article:8:clause:4",
+                    "number": "4",
+                    "content": "4. Đối với hình thức nộp bằng cách sử dụng dịch vụ\nbưu chính, ngày nhận hồ sơ là ngày đơn vị tiếp nhận hồ sơ nhận được hồ sơ do doanh nghiệp cung cấp dịch vụ bưu chính chuyển đến.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:293760:part:1:article:8:clause:5",
+                    "number": "5",
+                    "content": "5. Đối với hình thức nộp trực tuyến, Bộ Thông tin\nvà Truyền thông triển khai cấp Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng theo lộ trình cung cấp dịch vụ công trực tuyến của Chính phủ.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:293760:part:1:article:9",
+                "number": "9",
+                "title": "Kiểm tra tính hợp lệ hồ sơ đề nghị cấp Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng",
+                "content": "Điều 9. Kiểm tra tính hợp lệ hồ sơ đề nghị cấp Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng",
+                "clauses": [
+                  {
+                    "clause_id": "doc:293760:part:1:article:9:clause:1",
+                    "number": "1",
+                    "content": "1. Hồ sơ đề nghị cấp Giấy phép kinh doanh sản phẩm,\ndịch vụ an toàn thông tin mạng phải làm bằng tiếng Việt, gồm 01 bộ hồ sơ gốc và 04 bộ bản sao hồ sơ hợp lệ đối với trường hợp đề nghị cấp Giấy phép, 01 bộ hồ sơ gốc và 01 bộ bản sao hồ sơ hợp lệ đối với các trường hợp đề nghị sửa đổi, bổ sung và gia hạn Giấy phép. Bộ hồ sơ gốc phải có đủ chữ ký, dấu xác nhận của doanh nghiệp, các tài liệu do doanh nghiệp lập nếu có từ 02 tờ văn bản trở lên phải có dấu giáp lai. Các bộ bản sao hồ sơ hợp lệ không yêu cầu phải có dấu xác nhận, dấu chứng thực bản sao nhưng phải có dấu giáp lai của doanh nghiệp nộp hồ sơ.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:293760:part:1:article:9:clause:2",
+                    "number": "2",
+                    "content": "2. Mẫu hồ sơ về Đơn đề nghị cấp/cấp lại/gia hạn/sửa\nđổi, bổ sung Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng quy định tại Mẫu số 02; Phương án kinh doanh quy định tại Mẫu số 03; Phương án kỹ thuật quy định tại Mẫu số 04; Báo cáo tình hình thực hiện Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng quy định tại Mẫu số 05 tại Phụ lục ban hành kèm theo Nghị định này.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:293760:part:1:article:9:clause:3",
+                    "number": "3",
+                    "content": "3. Bộ Thông tin và Truyền thông kiểm tra và thông\nbáo cho doanh nghiệp nộp hồ sơ biết về tính hợp lệ của hồ sơ sau 03 ngày làm việc kể từ khi nhận được hồ sơ.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:293760:part:1:article:9:clause:4",
+                    "number": "4",
+                    "content": "4. Việc kiểm tra tính hợp lệ của hồ sơ được thực hiện\ndựa trên các tiêu chí sau:",
+                    "points": [
+                      {
+                        "point_id": "doc:293760:part:1:article:9:clause:4:point:1",
+                        "label": "a",
+                        "content": "a) Hồ sơ được lập theo đúng quy định tại Khoản 1 Điều\nnày;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:293760:part:1:article:9:clause:4:point:2",
+                        "label": "b",
+                        "content": "b) Đủ tài liệu quy định tương ứng đối với từng loại\nhồ sơ đề nghị cấp phép quy định tại Điều 43 Luật an toàn thông tin mạng;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:293760:part:1:article:9:clause:4:point:3",
+                        "label": "c",
+                        "content": "c) Các tài liệu cung cấp đủ đầu Mục thông tin theo\nyêu cầu và tuân theo mẫu hồ sơ tương ứng đã được quy định tại Phụ lục của Nghị định này.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:293760:part:1:article:9:clause:5",
+                    "number": "5",
+                    "content": "5. Đối với hồ sơ không hợp lệ, Bộ Thông tin và Truyền\nthông có văn bản thông báo cho doanh nghiệp nộp hồ sơ và nêu rõ yếu tố không hợp lệ. Doanh nghiệp có quyền nộp lại hồ sơ bổ sung hoặc văn bản giải trình tính hợp lệ. Việc kiểm tra tính hợp lệ của hồ sơ nộp lại được thực hiện theo quy định tại Khoản 4 Điều này.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:293760:part:1:article:10",
+                "number": "10",
+                "title": "Nộp, giải trình, bổ sung hồ sơ trong quá trình thẩm định",
+                "content": "Điều 10. Nộp, giải trình, bổ sung hồ sơ trong quá trình thẩm định",
+                "clauses": [
+                  {
+                    "clause_id": "doc:293760:part:1:article:10:clause:1",
+                    "number": "1",
+                    "content": "1. Trong thời hạn thẩm định hồ sơ, Bộ Thông tin và\nTruyền thông có quyền gửi thông báo yêu cầu doanh nghiệp bổ sung hồ sơ, giải trình bằng văn bản hoặc giải trình trực tiếp nếu hồ sơ đề nghị cấp phép tương ứng không cung cấp đủ thông tin, không đáp ứng đủ Điều kiện theo quy định nhưng không quá 01 lần.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:293760:part:1:article:10:clause:2",
+                    "number": "2",
+                    "content": "2. Doanh nghiệp có trách nhiệm nộp hồ sơ bổ sung,\ngiải trình bằng văn bản hoặc giải trình trực tiếp cho Bộ Thông tin và Truyền thông theo nội dung yêu cầu và trong thời hạn tối đa là 10 ngày làm việc kể từ ngày doanh nghiệp nhận được thông báo quy định tại Khoản 1 Điều này. Thời hạn thẩm định được tính tiếp kể từ thời Điểm đơn vị tiếp nhận hồ sơ nhận được hồ sơ bổ sung hoặc văn bản giải trình của doanh nghiệp hoặc ngày ký biên bản cuộc họp giải trình.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:293760:part:1:article:10:clause:3",
+                    "number": "3",
+                    "content": "3. Nếu kết thúc thời hạn nộp hồ sơ bổ sung, giải\ntrình quy định tại Khoản 2 Điều này, doanh nghiệp không nộp hồ sơ bổ sung hoặc không giải trình và không có văn bản đề nghị được lùi thời hạn nộp bổ sung thì xem như doanh nghiệp từ bỏ việc nộp hồ sơ. Việc tiếp nhận hồ sơ nộp sau khi hết hạn nộp bổ sung, giải trình hoặc sau ngày doanh nghiệp đề nghị được lùi thời hạn được xét như tiếp nhận hồ sơ nộp mới.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:293760:part:1:article:10:clause:4",
+                    "number": "4",
+                    "content": "4. Thời gian thẩm định hồ sơ ban đầu và hồ sơ bổ\nsung, ý kiến giải trình và cấp Giấy phép hoặc ra thông báo không cấp Giấy phép;",
+                    "points": [
+                      {
+                        "point_id": "doc:293760:part:1:article:10:clause:4:point:1",
+                        "label": "a",
+                        "content": "a) Không vượt quá 15 ngày làm việc kể từ ngày nhận\nđược hồ sơ hợp lệ đối với hồ sơ đề nghị cấp Giấy phép;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:293760:part:1:article:10:clause:4:point:2",
+                        "label": "b",
+                        "content": "b) Không vượt quá 10 ngày làm việc kể từ ngày nhận\nđược hồ sơ hợp lệ đối với hồ sơ đề nghị gia hạn Giấy phép và hồ sơ đề nghị sửa đổi, bổ sung Giấy phép;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:293760:part:1:article:10:clause:4:point:3",
+                        "label": "c",
+                        "content": "c) Không vượt quá 05 ngày làm việc kể từ ngày nhận\nđược hồ sơ hợp lệ đối với hồ sơ đề nghị cấp lại Giấy phép.",
+                        "children": []
+                      }
+                    ]
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:293760:part:1:article:11",
+                "number": "11",
+                "title": "Chế độ báo cáo của doanh nghiệp kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng Doanh nghiệp được cấp Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng có trách nhiệm báo cáo đột xuất theo yêu cầu và báo cáo định kỳ hằng năm (trước ngày 31 tháng 12) về tình hình kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng đến Bộ Thông tin và Truyền thông theo Mẫu số 05 tại Phụ lục ban hành kèm theo Nghị định này.",
+                "content": "Điều 11. Chế độ báo cáo của doanh nghiệp kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng Doanh nghiệp được cấp Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng có trách nhiệm báo cáo đột xuất theo yêu cầu và báo cáo định kỳ hằng năm (trước ngày 31 tháng 12) về tình hình kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng đến Bộ Thông tin và Truyền thông theo Mẫu số 05 tại Phụ lục ban hành kèm theo Nghị định này.",
+                "clauses": [],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:293760:part:1:chapter:3",
+            "number": "III",
+            "title": "ĐIỀU KHOẢN THI HÀNH",
+            "content": "Chương III\nĐIỀU KHOẢN THI HÀNH",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:293760:part:1:article:12",
+                "number": "12",
+                "title": "Điều Khoản chuyển tiếp",
+                "content": "Điều 12. Điều Khoản chuyển tiếp",
+                "clauses": [
+                  {
+                    "clause_id": "doc:293760:part:1:article:12:clause:1",
+                    "number": "1",
+                    "content": "1. Doanh nghiệp đang kinh doanh sản phẩm, dịch vụ\nan toàn thông tin mạng quy định tại Điều 3 Nghị định này cần hoàn tất hồ sơ, thủ tục để được cấp Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng tối đa 06 tháng kể từ ngày Nghị định này có hiệu lực.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:293760:part:1:article:12:clause:2",
+                    "number": "2",
+                    "content": "2. Đối với các hợp đồng kinh doanh sản phẩm, dịch vụ\nan toàn thông tin mạng đã được ký kết và có giá trị trước thời Điểm Nghị định này có hiệu lực thi hành, doanh nghiệp vẫn tiếp tục được thực hiện các nội dung trong hợp đồng.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:293760:part:1:article:13",
+                "number": "13",
+                "title": "Hiệu lực thi hành Nghị định này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2016.",
+                "content": "Điều 13. Hiệu lực thi hành Nghị định này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2016.",
+                "clauses": [],
+                "points": []
+              },
+              {
+                "article_id": "doc:293760:part:1:article:14",
+                "number": "14",
+                "title": "Trách nhiệm thi hành",
+                "content": "Điều 14. Trách nhiệm thi hành",
+                "clauses": [
+                  {
+                    "clause_id": "doc:293760:part:1:article:14:clause:1",
+                    "number": "1",
+                    "content": "1. Bộ trưởng Bộ Thông tin và Truyền thông chịu\ntrách nhiệm hướng dẫn, kiểm tra việc thi hành Nghị định này.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:293760:part:1:article:14:clause:2",
+                    "number": "2",
+                    "content": "2. Các Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Thủ\ntrưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Nghị định này./.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          }
+        ],
+        "sections": [],
+        "articles": [],
+        "unstructured_blocks": []
+      },
+      {
+        "part_id": "doc:293760:part:2",
+        "part_type": "appendix",
+        "part_title": "PHỤ LỤC",
+        "reference": null,
+        "direct_text": "PHỤ LỤC\n(Kèm theo Nghị định số 108/2016/NĐ-CP ngày 01 tháng 7 năm 2016 của Chính phủ) Mẫu số 01 Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng Mẫu số 02 Đơn đề nghị cấp/cấp lại/gia hạn/sửa đổi, bổ sung Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng Mẫu số 03 Phương án kinh doanh Mẫu số 04 Phương án kỹ thuật Mẫu số 05 Báo cáo tình hình thực hiện Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng Mẫu số 01\nBỘ THÔNG TIN VÀ TRUYỀN THÔNG\n-------\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc --------------- Số:\n/GP-BTTTT\nHà Nội, ngày … tháng … năm …..\nGIẤY PHÉP KINH DOANH\nSẢN PHẨM, DỊCH VỤ AN TOÀN THÔNG TIN MẠNG\n(Có giá trị đến hết ngày.../.../...)\nBỘ THÔNG TIN VÀ TRUYỀN THÔNG\nCăn cứ Luật an toàn thông tin mạng ngày 19 tháng 11 năm 2015; Căn cứ Nghị định số ……/2016/NĐ-CP ngày ….. tháng ….. năm 2016 của Chính phủ quy định chi Tiết Điều kiện kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng; Căn cứ Nghị định số ………./………/NĐ-CP ngày.....tháng …..năm ….. của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Thông tin và Truyền thông; Xét hồ sơ đề nghị cấp/cấp lại/sửa đổi, bổ sung Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng ngày ….. tháng ….. năm ….. của …………………..(1); Theo đề nghị của.... (2),\nQUYẾT ĐỊNH:\nPhụ lục các tài liệu đặc tả thiết bị kỹ thuật hệ thống,\ncác chứng nhận, chứng chỉ tuân thủ tiêu chuẩn đã được cấp. Mẫu số 05\n(TÊN DOANH NGHIỆP)\n-------\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc --------------- Số: ………….. ….., ngày ….. tháng ….. năm …..\nBÁO\nCÁO TÌNH HÌNH THỰC HIỆN GIẤY PHÉP KINH DOANH SẢN PHẨM, DỊCH VỤ AN TOÀN THÔNG\nTIN MẠNG\n(Từ tháng .../... đến tháng .../...) Phần 1. Thông tin chung\n1. Tên doanh nghiệp: ……………………………………………………………………………\n2. Địa chỉ trụ sở chính: ………………………………………………………………………….\n3. Điện thoại: ……………………………. 4. Số Fax:\n………………………………………….\n5. Giấy phép kinh doanh sản phẩm, dịch vụ an toàn\nthông tin mạng số .... cấp ngày ... tháng .... năm …… Phần 2. Tình hình triển khai thực hiện Giấy phép\n1. Tóm tắt hoạt động kinh doanh sản phẩm, dịch vụ\nan toàn thông tin mạng của doanh nghiệp: …………………………………………………………………………….\n2. Số lượng, loại sản phẩm an toàn thông tin mạng\nnhập khẩu, sản xuất, tiêu thụ trong năm: …………………………………………………………………………….\n3. Số lượng khách hàng phân theo loại hình dịch vụ\ncung cấp trong năm: ………………\n4. Tổng doanh thu, lợi nhuận trong năm:\n…………………………………………………….\n5. Tình hình nhân sự trực tiếp tham gia các hoạt động\nnhập khẩu, sản xuất, cung cấp dịch vụ an toàn thông tin mạng: ………………………………………………………….\n6. Nội dung khác: …………………………………………………………………………………\nPhần 3. Cam kết (Tên doanh nghiệp) xin cam kết chịu trách nhiệm trước pháp luật về tính chính xác của nội dung trong Báo cáo và các tài liệu kèm theo.",
+        "chapters": [],
+        "sections": [],
+        "articles": [
+          {
+            "article_id": "doc:293760:part:2:article:1",
+            "number": "1",
+            "title": "Cho phép …………………………….(1) được kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng",
+            "content": "Điều 1. Cho phép …………………………….(1) được kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng",
+            "clauses": [
+              {
+                "clause_id": "doc:293760:part:2:article:1:clause:1",
+                "number": "1",
+                "content": "1. Thông tin doanh nghiệp",
+                "points": [
+                  {
+                    "point_id": "doc:293760:part:2:article:1:clause:1:point:1",
+                    "label": "a",
+                    "content": "a) Tên giao dịch của doanh nghiệp bằng tiếng Việt\nhoặc tiếng nước ngoài (nếu có): ……",
+                    "children": []
+                  },
+                  {
+                    "point_id": "doc:293760:part:2:article:1:clause:1:point:2",
+                    "label": "b",
+                    "content": "b) Tên người đại diện theo pháp luật:\n………………………………………………………….",
+                    "children": []
+                  },
+                  {
+                    "point_id": "doc:293760:part:2:article:1:clause:1:point:3",
+                    "label": "c",
+                    "content": "c) Giấy chứng nhận đăng ký doanh nghiệp số: .... do\n.... cấp ngày ... tháng ... năm ... tại.............",
+                    "children": []
+                  },
+                  {
+                    "point_id": "doc:293760:part:2:article:1:clause:1:point:4",
+                    "label": "d",
+                    "content": "d) Địa chỉ trụ sở chính tại Việt Nam:\n……………………………………………………………",
+                    "children": []
+                  },
+                  {
+                    "point_id": "doc:293760:part:2:article:1:clause:1:point:5",
+                    "label": "đ",
+                    "content": "đ) Điện thoại: ………………………………………………………………………………………",
+                    "children": []
+                  },
+                  {
+                    "point_id": "doc:293760:part:2:article:1:clause:1:point:6",
+                    "label": "e",
+                    "content": "e) Số Fax: ………………………………………………………………………………………….",
+                    "children": []
+                  },
+                  {
+                    "point_id": "doc:293760:part:2:article:1:clause:1:point:7",
+                    "label": "g",
+                    "content": "g) Mã số thuế: …………………………………………………………………………………….",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "clause_id": "doc:293760:part:2:article:1:clause:2",
+                "number": "2",
+                "content": "2. Doanh nghiệp được phép:",
+                "points": [
+                  {
+                    "point_id": "doc:293760:part:2:article:1:clause:2:point:1",
+                    "label": "a",
+                    "content": "a) …………………………………….(3);",
+                    "children": []
+                  },
+                  {
+                    "point_id": "doc:293760:part:2:article:1:clause:2:point:2",
+                    "label": "b",
+                    "content": "b) ……………………………………. (3);",
+                    "children": []
+                  },
+                  {
+                    "point_id": "doc:293760:part:2:article:1:clause:2:point:3",
+                    "label": "c",
+                    "content": "c) ……………………………………. (3);",
+                    "children": []
+                  }
+                ]
+              }
+            ],
+            "points": []
+          },
+          {
+            "article_id": "doc:293760:part:2:article:2",
+            "number": "2",
+            "title": "……………………………….(1) phải thực hiện đúng các quy định tại Nghị định số …………./2016/NĐ-CP ngày …… tháng …… năm 2016 của Chính phủ quy định chi Tiết Điều kiện kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng và các quy định khác của pháp luật có liên quan.",
+            "content": "Điều 2. ……………………………….(1) phải thực hiện đúng các quy định tại Nghị định số …………./2016/NĐ-CP ngày …… tháng …… năm 2016 của Chính phủ quy định chi Tiết Điều kiện kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng và các quy định khác của pháp luật có liên quan.",
+            "clauses": [],
+            "points": []
+          },
+          {
+            "article_id": "doc:293760:part:2:article:3",
+            "number": "3",
+            "title": "Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng này có hiệu lực kể từ ngày ký và có giá trị đến hết ngày …… tháng .... năm……; (4) thay thế cho Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng ……/GP-BTTTT ngày ... tháng ... năm……/. BỘ TRƯỞNG Chú thích: (1) Tên doanh nghiệp được cấp Giấy phép. (2) Thủ trưởng đơn vị trình cấp Giấy phép. (3) Sản phẩm, dịch vụ an toàn thông tin mạng được phép kinh doanh. (4) Sử dụng trong trường hợp cấp lại/sửa đổi, bổ sung Giấy phép. Mẫu số 02 (TÊN DOANH NGHIỆP) ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: ………….. ….., ngày ….. tháng ….. năm ….. ĐƠN ĐỀ NGHỊ CẤP/CẤP LẠI/GIA HẠN/SỬA ĐỔI, BỔ SUNG GIẤY PHÉP KINH DOANH SẢN PHẨM, DỊCH VỤ AN TOÀN THÔNG TIN MẠNG Kính gửi: Bộ Thông tin và Truyền thông. Căn cứ Luật an toàn thông tin mạng ngày 19 tháng 11 năm 2015; Căn cứ Nghị định số ……/2016/NĐ-CP ngày …… tháng …… năm 2016 của Chính phủ quy định chi Tiết Điều kiện kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng; (Tên doanh nghiệp) đề nghị cấp/cấp lại/gia hạn/sửa đổi, bổ sung Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng với các nội dung sau: Phần 1. Thông tin chung",
+            "content": "Điều 3. Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng này có hiệu lực kể từ ngày ký và có giá trị đến hết ngày …… tháng .... năm……; (4) thay thế cho Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng ……/GP-BTTTT ngày ... tháng ... năm……/. BỘ TRƯỞNG Chú thích: (1) Tên doanh nghiệp được cấp Giấy phép. (2) Thủ trưởng đơn vị trình cấp Giấy phép. (3) Sản phẩm, dịch vụ an toàn thông tin mạng được phép kinh doanh. (4) Sử dụng trong trường hợp cấp lại/sửa đổi, bổ sung Giấy phép. Mẫu số 02 (TÊN DOANH NGHIỆP) ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: ………….. ….., ngày ….. tháng ….. năm ….. ĐƠN ĐỀ NGHỊ CẤP/CẤP LẠI/GIA HẠN/SỬA ĐỔI, BỔ SUNG GIẤY PHÉP KINH DOANH SẢN PHẨM, DỊCH VỤ AN TOÀN THÔNG TIN MẠNG Kính gửi: Bộ Thông tin và Truyền thông. Căn cứ Luật an toàn thông tin mạng ngày 19 tháng 11 năm 2015; Căn cứ Nghị định số ……/2016/NĐ-CP ngày …… tháng …… năm 2016 của Chính phủ quy định chi Tiết Điều kiện kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng; (Tên doanh nghiệp) đề nghị cấp/cấp lại/gia hạn/sửa đổi, bổ sung Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng với các nội dung sau: Phần 1. Thông tin chung",
+            "clauses": [
+              {
+                "clause_id": "doc:293760:part:2:article:3:clause:1",
+                "number": "1",
+                "content": "1. Tên doanh nghiệp: …………………………………………………………………………….",
+                "points": []
+              },
+              {
+                "clause_id": "doc:293760:part:2:article:3:clause:2",
+                "number": "2",
+                "content": "2. Tên giao dịch của doanh nghiệp bằng tiếng Việt\nhoặc tiếng nước ngoài (nếu có): ……",
+                "points": []
+              },
+              {
+                "clause_id": "doc:293760:part:2:article:3:clause:3",
+                "number": "3",
+                "content": "3. Tên người đại diện theo pháp luật:\n………………………………………………………….",
+                "points": []
+              },
+              {
+                "clause_id": "doc:293760:part:2:article:3:clause:4",
+                "number": "4",
+                "content": "4. Giấy chứng nhận đăng ký doanh nghiệp số: .... do\n.... cấp ngày ... tháng ... năm ... tại...........",
+                "points": []
+              },
+              {
+                "clause_id": "doc:293760:part:2:article:3:clause:5",
+                "number": "5",
+                "content": "5. Địa chỉ trụ sở chính:\n……………………………………………………………………………",
+                "points": []
+              },
+              {
+                "clause_id": "doc:293760:part:2:article:3:clause:6",
+                "number": "6",
+                "content": "6. Điện thoại: ………………………………7. Số Fax:\n………………………………………….",
+                "points": []
+              },
+              {
+                "clause_id": "doc:293760:part:2:article:3:clause:7",
+                "number": "8",
+                "content": "8. Mã số thuế: ………………………………………………………………………………………\nPhần 2. Hồ sơ kèm theo (ghi rõ loại và số lượng hồ sơ)",
+                "points": []
+              },
+              {
+                "clause_id": "doc:293760:part:2:article:3:clause:8",
+                "number": "1",
+                "content": "1. …………………………………………………………………………………………………….",
+                "points": []
+              },
+              {
+                "clause_id": "doc:293760:part:2:article:3:clause:9",
+                "number": "2",
+                "content": "2. ……………………………………………………………………………………………………",
+                "points": []
+              },
+              {
+                "clause_id": "doc:293760:part:2:article:3:clause:10",
+                "number": "3",
+                "content": "3. ……………………………………………………………………………………………………\nPhần 3. Lý do cấp lại/sửa đổi, bổ sung (trong trường hợp cấp lại/ sửa đổi, bổ sung Giấy phép) Phần 4. Cam kết (Tên doanh nghiệp) xin cam kết:",
+                "points": []
+              },
+              {
+                "clause_id": "doc:293760:part:2:article:3:clause:11",
+                "number": "1",
+                "content": "1. Chịu trách nhiệm trước pháp luật về tính chính\nxác và tính hợp pháp của nội dung trong đơn đề nghị cấp/cấp lại/gia hạn/sửa đổi, bổ sung Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng và các tài liệu kèm theo.",
+                "points": []
+              },
+              {
+                "clause_id": "doc:293760:part:2:article:3:clause:12",
+                "number": "2",
+                "content": "2. Nếu được cấp/cấp lại/gia hạn/sửa đổi, bổ sung giấy\nphép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng, (tên doanh nghiệp) sẽ chấp hành nghiêm chỉnh các quy định của pháp luật Việt Nam về kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng và các quy định trong giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng./.",
+                "points": []
+              }
+            ],
+            "points": []
+          }
+        ],
+        "unstructured_blocks": []
+      }
+    ]
+  },
+  "issues": [],
+  "status": "ok",
+  "source_hash": "context_293760.json",
+  "stats": {
+    "source_chars": 24322,
+    "passage_chars": 24173,
+    "parts": 2,
+    "chapters": 3,
+    "sections": 0,
+    "articles": 17,
+    "clauses": 46,
+    "points": 45
+  }
+}

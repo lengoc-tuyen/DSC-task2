@@ -1,0 +1,686 @@
+{
+  "schema_version": "2.0",
+  "document_id": 295237,
+  "metadata": {
+    "name": "Thong-tu-20-2021-TT-BLDTBXH-He-thong-co-so-du-lieu-lao-dong-lam-viec-o-nuoc-ngoai-479456",
+    "link": "https://thuvienphapluat.vn/van-ban/Lao-dong-Tien-luong/Thong-tu-20-2021-TT-BLDTBXH-He-thong-co-so-du-lieu-lao-dong-lam-viec-o-nuoc-ngoai-479456.aspx",
+    "issuing_agency": "BỘ LAO ĐỘNG - THƯƠNG BINH VÀ XÃ HỘI",
+    "national_header": "CỘNG HÒA XÃ HỘI\r\n\n  CHỦ NGHĨA VIỆT NAM",
+    "motto": "Độc lập - Tự do - Hạnh phúc",
+    "document_number": "20/2021/TT-BLĐTBXH",
+    "issued_place": "Hà Nội",
+    "issued_date": "ngày 15\r\n\n  tháng 12 năm 2021",
+    "document_type": "THÔNG TƯ",
+    "title": "QUY ĐỊNH VỀ HỆ THỐNG CƠ SỞ DỮ LIỆU VỀ NGƯỜI LAO ĐỘNG VIỆT NAM ĐI LÀM VIỆC Ở NƯỚC NGOÀI THEO HỢP ĐỒNG"
+  },
+  "administrative_header": {
+    "removed": true,
+    "removed_char_count": 179
+  },
+  "preamble": {
+    "text": "THÔNG TƯ QUY\nĐỊNH VỀ HỆ THỐNG CƠ SỞ DỮ LIỆU VỀ NGƯỜI LAO ĐỘNG VIỆT NAM ĐI LÀM VIỆC Ở NƯỚC\nNGOÀI THEO HỢP ĐỒNG\nCăn cứ Luật Người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng số 69/2020/QH14 ngày 13 tháng 11 năm 2020 (Luật số 69/2020/QH14); Căn cứ Nghị định số 14/2017/NĐ-CP ngày 17 tháng 02 năm 2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Lao động - Thương binh và Xã hội; Căn cứ Nghị định số 112/2021/NĐ-CP ngày 10 tháng 12 năm 2021 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng; Theo đề nghị của Cục trưởng Cục Quản lý lao động ngoài nước; Bộ trưởng Bộ Lao động - Thương binh và Xã hội ban hành Thông tư quy định về Hệ thống cơ sở dữ liệu về người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng.\nChương I\nQUY ĐỊNH CHUNG",
+    "legal_bases": [
+      "Căn cứ Nghị định số 14/2017/NĐ-CP ngày 17 tháng 02 năm 2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Lao động - Thương binh và Xã hội",
+      "Căn cứ Nghị định số 112/2021/NĐ-CP ngày 10 tháng 12 năm 2021 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng"
+    ],
+    "proposals": [
+      "Theo đề nghị của Cục trưởng Cục Quản lý lao động ngoài nước"
+    ],
+    "enactment_formula": null
+  },
+  "passage": "THÔNG TƯ QUY\nĐỊNH VỀ HỆ THỐNG CƠ SỞ DỮ LIỆU VỀ NGƯỜI LAO ĐỘNG VIỆT NAM ĐI LÀM VIỆC Ở NƯỚC\nNGOÀI THEO HỢP ĐỒNG\nCăn cứ Luật Người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng số 69/2020/QH14 ngày 13 tháng 11 năm 2020 (Luật số 69/2020/QH14); Căn cứ Nghị định số 14/2017/NĐ-CP ngày 17 tháng 02 năm 2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Lao động - Thương binh và Xã hội; Căn cứ Nghị định số 112/2021/NĐ-CP ngày 10 tháng 12 năm 2021 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng; Theo đề nghị của Cục trưởng Cục Quản lý lao động ngoài nước; Bộ trưởng Bộ Lao động - Thương binh và Xã hội ban hành Thông tư quy định về Hệ thống cơ sở dữ liệu về người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng.\nChương I\nQUY ĐỊNH CHUNG\nĐiều 1. Phạm vi điều chỉnh Thông tư này quy định về việc quản lý, vận hành, khai thác Hệ thống cơ sở dữ liệu về người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng (sau đây viết tắt là Hệ thống cơ sở dữ liệu); cập nhật thông tin trên Hệ thống cơ sở dữ liệu; kết nối, chia sẻ thông tin, dữ liệu về người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng.\nĐiều 2. Đối tượng áp dụng\n1. Người lao động Việt Nam đi làm việc ở nước ngoài\ntheo hợp đồng.\n2. Doanh nghiệp Việt Nam đưa người lao động Việt\nNam đi làm việc ở nước ngoài theo hợp đồng.\n3. Đơn vị sự nghiệp được giao nhiệm vụ đưa người\nlao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng.\n4. Cơ quan, tổ chức, cá nhân có liên quan đến lĩnh\nvực người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng.\nĐiều 3. Giải thích từ ngữ\n1. Nghiệp vụ trên Hệ thống cơ sở dữ là các\nthao tác được thực hiện trực tuyến trên Hệ thống cơ sở dữ liệu về người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng.\n2. Thông tin về người lao động Việt Nam đi làm\nviệc ở nước ngoài theo hợp đồng (sau đây viết tắt là thông tin về người lao động) là thông tin cơ bản (họ, tên, ngày sinh, giới tính, mã số định danh cá nhân/chứng minh nhân dân/hộ chiếu, trình độ chuyên môn, kỹ năng nghề, nơi ở hiện tại, số điện thoại) và thông tin về quá trình làm việc ở nước ngoài (thông tin xuất/nhập cảnh, bên tiếp nhận lao động, địa chỉ làm việc, ngành nghề, mức lương, thời hạn hợp đồng, tình trạng làm việc ở nước ngoài).\n3. Mã số của người lao động Việt Nam đi làm việc\nở nước ngoài theo hợp đồng (sau đây viết tắt là mã số lao động) là mã số định danh cá nhân hoặc số chứng minh nhân dân của người lao động.\nĐiều 4. Cấu trúc và chức năng của Hệ thống cơ sở dữ liệu\n1. Hệ thống cơ sở dữ liệu là tập hợp số liệu, thông\ntin về người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng, do Bộ Lao động - Thương binh và Xã hội quản lý, vận hành và chia sẻ qua Nền tảng chia sẻ, tích hợp cấp bộ, địa phương (LGSP - Local Government Service Platform).\n2. Hệ thống cơ sở dữ liệu có chức năng:\na) Cập nhật, lưu trữ, khai thác, chia sẻ cơ sở dữ\nliệu về người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng;\nb) Thực hiện trực tuyến các nghiệp vụ trong hoạt động\nđưa người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng;\nc) Quản lý người lao động Việt Nam đi làm việc ở nước\nngoài theo hợp đồng bằng mã số lao động;\nd) Tích hợp, phân tích, tổng hợp dữ liệu để cơ quan\nquản lý nhà nước đánh giá, định hướng và xây dựng kế hoạch về người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng.\nĐiều 5. Nguyên tắc vận hành, quản lý, khai thác, chia sẻ và thực hiện các nghiệp vụ trên Hệ thống cơ sở dữ liệu\n1. Việc vận hành, quản lý Hệ thống cơ sở dữ liệu phải\ntuân thủ các quy định của pháp luật về giao dịch điện tử, lưu trữ điện tử, an ninh, an toàn, bảo vệ dữ liệu, bảo mật thông tin và các quy định khác có liên quan; thông tin, dữ liệu trao đổi trên Hệ thống cơ sở dữ liệu được mã hoá và ký số, bảo đảm tính toàn vẹn, xác thực.\n2. Việc khai thác dữ liệu được thực hiện theo quy định\ncủa Luật Tiếp cận thông tin và các quy định của pháp luật hiện hành.\n3. Việc chia sẻ thông tin, dữ liệu trên Hệ thống cơ\nsở dữ liệu nhằm phục vụ người lao động, doanh nghiệp, đơn vị sự nghiệp; tuân thủ quy định của pháp luật trong việc tạo lập, quản lý và sử dụng dữ liệu; đảm bảo không làm ảnh hưởng tới quyền lợi và trách nhiệm của doanh nghiệp, tổ chức, cá nhân liên quan; không được xâm phạm quyền về đời sống riêng tư, bí mật cá nhân, bí mật gia đình, bí mật kinh doanh trừ trường hợp pháp luật có quy định khác.\nĐiều 6. Cấp, đăng ký tài khoản trên Hệ thống cơ sở dữ liệu\n1. Cơ quan, đơn vị được cấp tài khoản truy cập Hệ\nthống cơ sở dữ liệu bao gồm:\na) Cục Quản lý lao động ngoài nước, Bộ Lao động -\nThương binh và Xã hội;\nb) Cơ quan chuyên môn về lao động thuộc Ủy ban nhân\ndân cấp tỉnh;\nc) Cơ quan đại diện Việt Nam ở nước ngoài.\n2. Doanh nghiệp; đơn vị sự nghiệp; tổ chức, cá nhân\nđầu tư ra nước ngoài và công dân Việt Nam giao kết hợp đồng lao động sau khi xuất cảnh đăng ký tài khoản trên Hệ thống cơ sở dữ liệu tại địa chỉ http://molisa.gov.vn\n3. Tài khoản đã được cấp theo quy định tại Thông tư\nsố 35/2017/TT-BLĐTBXH ngày 29/12/2017 quy định việc quản lý, vận hành và khai thác cơ sở dữ liệu về người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng (sau đây viết tắt là Thông tư số 35/2017/TT-BLĐTBXH) được tiếp tục sử dụng và quản lý theo quy định của Thông tư này.\nChương II\nSỬ DỤNG, KHAI THÁC HỆ THỐNG\nCƠ SỞ DỮ LIỆU\nĐiều 7. Cấp Giấy phép hoạt động dịch vụ đưa người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng\n1. Doanh nghiệp đề nghị cấp Giấy phép theo Điều 12 Luật Người lao động Việt Nam đi làm việc ở nước ngoài theo\nhợp đồng thao tác như sau:\na) Đăng nhập tài khoản, truy cập vào mục “Cấp Giấy\nphép” và khai thông tin theo mẫu đề nghị cấp Giấy phép hoạt động dịch vụ đưa người lao động đi làm việc ở nước ngoài;\nb) Đăng tải các tài liệu theo quy định lên Hệ thống\ncơ sở dữ liệu;\nc) Ký số và gửi hồ sơ trực tuyến.\n2. Trong thời hạn 20 ngày kể từ ngày nhận được hồ\nsơ hợp lệ trên Hệ thống cơ sở dữ liệu, Bộ Lao động - Thương binh và Xã hội cấp Giấy phép cho doanh nghiệp, bản gốc Giấy phép được trả trực tiếp tại bộ phận một cửa hoặc qua dịch vụ bưu chính; trường hợp không cấp Giấy phép phải trả lời bằng văn bản và nêu rõ lý do. Trạng thái xử lý hồ sơ được hiển thị trên Hệ thống cơ sở dữ liệu.\nĐiều 8. Điều chỉnh thông tin Giấy phép hoạt động dịch vụ đưa người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng\n1. Doanh nghiệp đề nghị điều chỉnh thông tin Giấy\nphép theo Điều 13 Luật số 69/2020/QH14 thao tác như sau:\na) Đăng nhập tài khoản, truy cập vào mục “Điều chỉnh\nthông tin Giấy phép” và khai thông tin điều chỉnh Giấy phép của doanh nghiệp;\nb) Đăng tải các tài liệu liên quan đến thông tin\nthay đổi so với nội dung ghi trong Giấy phép đã được cấp lên Hệ thống cơ sở dữ liệu;\nc) Ký số và gửi hồ sơ trực tuyến.\n2. Trong thời hạn 05 ngày làm việc kể từ ngày nhận\nđược hồ sơ hợp lệ trên Hệ thống cơ sở dữ liệu, Bộ Lao động - Thương binh và Xã hội điều chỉnh thông tin Giấy phép cho doanh nghiệp. Bản gốc Giấy phép được trả trực tiếp tại bộ phận một cửa hoặc qua dịch vụ bưu chính. Trạng thái xử lý hồ sơ được hiển thị trên Hệ thống cơ sở dữ liệu.\nĐiều 9. Các nghiệp vụ khác\n1. Doanh nghiệp, đơn vị sự nghiệp, tổ chức, cá nhân\nđầu tư ra nước ngoài, người lao động thực hiện đăng ký chuẩn bị nguồn lao động; đăng ký hợp đồng cung ứng lao động; đề nghị xác nhận danh sách lao động dự kiến xuất cảnh; đăng ký hợp đồng nhận lao động thực tập; đăng ký hợp đồng lao động trực tiếp giao kết sau khi xuất cảnh; báo cáo phương án đưa người lao động Việt Nam đi làm việc ở nước ngoài của doanh nghiệp Việt Nam trúng thầu, nhận thầu công trình dự án ở nước ngoài; báo cáo phương án đưa người lao động Việt Nam đi làm việc ở nước ngoài của tổ chức, cá nhân đầu tư ra nước ngoài và các nghiệp vụ khác thao tác như sau:\na) Đăng nhập tài khoản, truy cập vào nghiệp vụ cần\nthực hiện và khai thông tin theo hướng dẫn của Hệ thống cơ sở dữ liệu;\nb) Đăng tải các tài liệu theo quy định lên Hệ thống\ncơ sở dữ liệu;\nc) Ký số và gửi hồ sơ trực tuyến.\n2. Trong thời hạn 05 ngày làm việc kể từ ngày nhận\nđược hồ sơ hợp lệ trên Hệ thống cơ sở dữ liệu, Bộ Lao động - Thương binh và Xã hội trả lời bằng văn bản về việc chấp thuận; trường hợp không chấp thuận phải nêu rõ lý do. Trạng thái xử lý hồ sơ được hiển thị trên Hệ thống cơ sở dữ liệu.\nĐiều 10. Cập nhật thông tin về chi nhánh doanh nghiệp Doanh nghiệp Việt Nam hoạt động dịch vụ đưa người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng (sau đây viết tắt là doanh nghiệp dịch vụ) đăng nhập vào tài khoản, truy cập vào mục “chi nhánh doanh nghiệp” và thực hiện cập nhật thông tin chi nhánh trong thời hạn 05 ngày làm việc kể từ ngày giao nhiệm vụ, chấm dứt giao nhiệm vụ hoạt động dịch vụ đưa người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng cho chi nhánh hoặc chi nhánh chấm dứt hoạt động.\nĐiều 11. Cập nhật thông tin về người lao động bằng mã số lao động Doanh nghiệp, đơn vị sự nghiệp, cơ quan chuyên môn về lao động, tổ chức, cá nhân Việt Nam đầu tư ra nước ngoài, công dân Việt Nam đăng nhập vào tài khoản, truy cập vào mục “thông tin về người lao động” và thực hiện cập nhật thông tin như sau:\n1. Trong thời hạn 05 ngày kể từ ngày người lao động\nxuất cảnh và trước ngày 20 hằng tháng khi có sự thay đổi, phát sinh trong thời gian làm việc ở nước ngoài, doanh nghiệp dịch vụ, đơn vị sự nghiệp cập nhật thông tin về người lao động cho đến khi thanh lý hợp đồng.\n2. Trong thời hạn 05 ngày làm việc kể từ ngày người\nlao động xuất cảnh, doanh nghiệp Việt Nam trúng thầu, nhận thầu công trình, dự án ở nước ngoài; tổ chức, cá nhân Việt Nam đầu tư ra nước ngoài; doanh nghiệp Việt Nam đưa người lao động đi đào tạo, nâng cao trình độ, kỹ năng nghề ở nước ngoài cập nhật thông tin về người lao động.\n3. Cơ quan chuyên môn về lao động thuộc Ủy ban nhân\ndân cấp tỉnh cập nhật thông tin về người lao động đi làm việc ở nước ngoài theo hình thức hợp đồng lao động trực tiếp giao kết đã được xác nhận theo quy định tại\nĐiều 53 Luật số 69/2020/QH14.\n4. Công dân Việt Nam giao kết hợp đồng lao động sau\nkhi xuất cảnh đã thực hiện đăng ký trực tuyến hợp đồng lao động theo quy định tại\nĐiều 54 Luật số 69/2020/QH14 cập nhật thông tin khi có sự thay đổi, phát sinh trong thời gian làm việc ở nước ngoài cho đến khi chấm dứt hợp đồng.\nChương III\nKẾT NỐI, CHIA SẺ CƠ SỞ DỮ\nLIỆU VỀ NGƯỜI LAO ĐỘNG VIỆT NAM ĐI LÀM VIỆC Ở NƯỚC NGOÀI THEO HỢP ĐỒNG\nĐiều 12. Kết nối, chia sẻ cơ sở dữ liệu với Cổng Thông tin điện tử của Cục Quản lý lao động ngoài nước, Bộ Lao động - Thương binh và Xã hội Các thông tin, dữ liệu được tự động cập nhật, chia sẻ từ Hệ thống cơ sở dữ liệu lên Cổng thông tin điện tử của Cục Quản lý lao động ngoài nước bao gồm:\n1. Thông tin Giấy phép hoạt động dịch vụ đưa người\nlao động Việt Nam đi làm việc ở nước ngoài; thông tin xử lý vi phạm hành chính đối với doanh nghiệp dịch vụ trong lĩnh vực người lao động Việt Nam đi làm việc ở nước ngoài.\n2. Thông tin về chuẩn bị nguồn lao động, đăng ký hợp\nđồng cung ứng lao động, đăng ký hợp đồng nhận lao động thực tập; về việc đưa người lao động Việt Nam đi làm việc ở nước ngoài của doanh nghiệp Việt Nam trúng thầu, nhận thầu công trình dự án ở nước ngoài và việc đưa người lao động Việt Nam đi làm việc ở nước ngoài của tổ chức, cá nhân, đầu tư ra nước ngoài.\n3. Thông tin khác về hoạt động đưa người lao động\nViệt Nam đi làm việc ở nước ngoài theo hợp đồng.\nĐiều 13. Kết nối, chia sẻ cơ sở dữ liệu với các hệ thống thông tin khác\n1. Hệ thống cơ sở dữ liệu được kết nối, chia sẻ\nthông tin, dữ liệu với Cơ sở dữ liệu về giáo dục nghề nghiệp và Cơ sở dữ liệu thị trường lao động để người sử dụng lao động, người lao động tiếp cận, khai thác, sử dụng thông tin và tìm kiếm việc làm phù hợp.\n2. Hệ thống cơ sở dữ liệu kết nối, chia sẻ thông\ntin, dữ liệu với Cổng dịch vụ công quốc gia, Cổng dịch vụ công của Bộ Lao động - Thương binh và Xã hội và các hệ thống thông tin, cơ sở dữ liệu khác theo quy định của pháp luật.\nChương IV\nTỔ CHỨC THỰC HIỆN\nĐiều 14. Trách nhiệm của tổ chức, cá nhân\n1. Quản lý, bảo mật thông tin tài khoản được cấp.\n2. Chịu trách nhiệm về tính chính xác, toàn vẹn đối\nvới những thông tin, dữ liệu được đăng tải, cập nhật trên Hệ thống cơ sở dữ liệu.\n3. Chia sẻ dữ liệu, thông tin đúng thẩm quyền.\nKhông tạo ra hoặc phát tán các chương trình, phần mềm với mục đích phá hoại Hệ thống cơ sở dữ liệu.\nĐiều 15. Trách nhiệm của các đơn vị thuộc Bộ Lao động - Thương binh và Xã hội\n1. Cục Quản lý lao động ngoài nước, Bộ Lao động -\nThương binh và Xã hội có trách nhiệm:\na) Quản lý người lao động đi làm việc ở nước ngoài\ntheo hợp đồng bằng mã số, tích hợp trên Hệ thống cơ sở dữ liệu;\nb) Vận hành, quản lý, khai thác Hệ thống cơ sở dữ\nliệu hiệu quả, an toàn; kịp thời phản ánh và phối hợp khắc phục các sự cố phát sinh;\nc) Tổ chức tập huấn, hướng dẫn sử dụng Hệ thống cơ\nsở dữ liệu;\nd) Thường xuyên rà soát, đánh giá hiệu quả và đề xuất\ngiải pháp trong việc quản lý, vận hành Hệ thống cơ sở dữ liệu;\nđ) Hằng năm lập dự toán kinh phí phục vụ việc cập\nnhật, nâng cấp Hệ thống cơ sở dữ liệu.\n2. Trung tâm thông tin, Bộ Lao động - Thương binh\nvà Xã hội có trách nhiệm:\na) Quản trị hệ thống hạ tầng, trang thiết bị công\nnghệ thông tin tại Trung tâm Tích hợp dữ liệu của Bộ Lao động - Thương binh và Xã hội đảm bảo hoạt động thông suốt, an toàn và bảo mật cho Hệ thống cơ sở dữ liệu;\nb) Rà soát, đề xuất kế hoạch và phương án bảo đảm\nduy trì hoạt động liên tục của Hệ thống cơ sở dữ liệu;\nc) Hằng năm lập dự toán kinh phí phục vụ cho việc\nduy trì, vận hành Hệ thống cơ sở dữ liệu tại Trung tâm Tích hợp dữ liệu.\nĐiều 16. Trách nhiệm của cơ quan chuyên môn về lao động thuộc Ủy ban nhân dân cấp tỉnh\n1. Cập nhật thông tin về người lao động đi làm việc\nở nước ngoài theo hợp đồng quy định tại khoản 3 Điều 11 Thông tư này.\n2. Khai thác, sử dụng Hệ thống cơ sở dữ liệu theo\nquy định tại Điều 14 Thông tư này.\nChương V\nĐIỀU KHOẢN THI HÀNH\nĐiều 17. Quy định chuyển tiếp Thông tin, dữ liệu của cơ sở dữ liệu theo quy định tại Thông tư số 35/2017/TT-BLĐTBXH được tiếp tục khai thác, sử dụng theo quy định của Thông tư này.\nĐiều 18. Hiệu lực thi hành\n1. Thông tư này có hiệu lực thi hành kể từ ngày 01\ntháng 02 năm 2022.\n2. Thông tư số 35/2017/TT-BLĐTBXH\nngày 29/12/2017 hết hiệu lực thi hành kể từ ngày Thông tư này có hiệu lực thi hành.\n3. Doanh nghiệp; đơn vị sự nghiệp; tổ chức, cá nhân\nđầu tư ra nước ngoài và công dân Việt Nam giao kết hợp đồng lao động sau khi xuất cảnh thực hiện:\na) Trực tuyến trên Hệ thống cơ sở dữ liệu theo quy\nđịnh của Thông tư này đối với các nghiệp vụ: đăng ký hợp đồng lao động trực tiếp giao kết sau khi xuất cảnh, cập nhật thông tin về chi nhánh doanh nghiệp dịch vụ, cập nhật thông tin về người lao động;\nb) Lựa chọn hình thức trực tiếp hoặc qua dịch vụ\nbưu chính cho cơ quan có thẩm quyền theo quy định của pháp luật hoặc trực tuyến trên Hệ thống cơ sở dữ liệu theo quy định của Thông tư này đối với các nghiệp vụ: đề nghị cấp giấy phép, đề nghị điều chỉnh thông tin giấy phép và các nghiệp vụ khác nêu tại Điều 9 của Thông tư này, trừ nghiệp vụ đăng ký hợp đồng lao động trực tiếp giao kết sau khi xuất cảnh. Trong quá trình thực hiện nếu có vướng mắc, đề nghị phản ánh về Bộ Lao động -Thương binh và Xã hội để hướng dẫn, bổ sung kịp thời./.\nNơi nhận:\n- Ban Bí thư Trung ương Đảng;\n- Thủ tướng, các Phó Thủ tướng Chính phủ;\n- Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ;\n- Văn phòng Trung ương Đảng và các Ban của Đảng;\n- Văn phòng Quốc hội;\n- Văn phòng Tổng Bí thư;\n- Văn phòng Chủ tịch nước;\n- Viện Kiểm sát nhân dân tối cao;\n- Tòa án nhân dân tối cao;\n- Kiểm toán Nhà nước;\n- Cơ quan Trung ương của các đoàn thể;\n- Sở LĐTBXH các tỉnh, TP trực thuộc Trung ương;\n- Công báo;\n- Cục Kiểm tra văn bản QPPL (Bộ Tư pháp);\n- Cổng Thông tin điện tử Chính phủ;\n- Trung tâm Thông tin (để đăng tải);\n- Các đơn vị có liên quan thuộc Bộ LĐTBXH;\n- Lưu: VT, QLLĐNN (30 bản).\nKT. BỘ TRƯỞNG\nTHỨ TRƯỞNG\nNguyễn Bá Hoan",
+  "tree": {
+    "parts": [
+      {
+        "part_id": "doc:295237:part:1",
+        "part_type": "main",
+        "part_title": null,
+        "reference": null,
+        "direct_text": "THÔNG TƯ QUY\nĐỊNH VỀ HỆ THỐNG CƠ SỞ DỮ LIỆU VỀ NGƯỜI LAO ĐỘNG VIỆT NAM ĐI LÀM VIỆC Ở NƯỚC\nNGOÀI THEO HỢP ĐỒNG\nCăn cứ Luật Người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng số 69/2020/QH14 ngày 13 tháng 11 năm 2020 (Luật số 69/2020/QH14); Căn cứ Nghị định số 14/2017/NĐ-CP ngày 17 tháng 02 năm 2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Lao động - Thương binh và Xã hội; Căn cứ Nghị định số 112/2021/NĐ-CP ngày 10 tháng 12 năm 2021 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng; Theo đề nghị của Cục trưởng Cục Quản lý lao động ngoài nước; Bộ trưởng Bộ Lao động - Thương binh và Xã hội ban hành Thông tư quy định về Hệ thống cơ sở dữ liệu về người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng.",
+        "chapters": [
+          {
+            "chapter_id": "doc:295237:part:1:chapter:1",
+            "number": "I",
+            "title": "QUY ĐỊNH CHUNG",
+            "content": "Chương I\nQUY ĐỊNH CHUNG",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:295237:part:1:article:1",
+                "number": "1",
+                "title": "Phạm vi điều chỉnh Thông tư này quy định về việc quản lý, vận hành, khai thác Hệ thống cơ sở dữ liệu về người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng (sau đây viết tắt là Hệ thống cơ sở dữ liệu); cập nhật thông tin trên Hệ thống cơ sở dữ liệu; kết nối, chia sẻ thông tin, dữ liệu về người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng.",
+                "content": "Điều 1. Phạm vi điều chỉnh Thông tư này quy định về việc quản lý, vận hành, khai thác Hệ thống cơ sở dữ liệu về người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng (sau đây viết tắt là Hệ thống cơ sở dữ liệu); cập nhật thông tin trên Hệ thống cơ sở dữ liệu; kết nối, chia sẻ thông tin, dữ liệu về người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng.",
+                "clauses": [],
+                "points": []
+              },
+              {
+                "article_id": "doc:295237:part:1:article:2",
+                "number": "2",
+                "title": "Đối tượng áp dụng",
+                "content": "Điều 2. Đối tượng áp dụng",
+                "clauses": [
+                  {
+                    "clause_id": "doc:295237:part:1:article:2:clause:1",
+                    "number": "1",
+                    "content": "1. Người lao động Việt Nam đi làm việc ở nước ngoài\ntheo hợp đồng.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:295237:part:1:article:2:clause:2",
+                    "number": "2",
+                    "content": "2. Doanh nghiệp Việt Nam đưa người lao động Việt\nNam đi làm việc ở nước ngoài theo hợp đồng.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:295237:part:1:article:2:clause:3",
+                    "number": "3",
+                    "content": "3. Đơn vị sự nghiệp được giao nhiệm vụ đưa người\nlao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:295237:part:1:article:2:clause:4",
+                    "number": "4",
+                    "content": "4. Cơ quan, tổ chức, cá nhân có liên quan đến lĩnh\nvực người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:295237:part:1:article:3",
+                "number": "3",
+                "title": "Giải thích từ ngữ",
+                "content": "Điều 3. Giải thích từ ngữ",
+                "clauses": [
+                  {
+                    "clause_id": "doc:295237:part:1:article:3:clause:1",
+                    "number": "1",
+                    "content": "1. Nghiệp vụ trên Hệ thống cơ sở dữ là các\nthao tác được thực hiện trực tuyến trên Hệ thống cơ sở dữ liệu về người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:295237:part:1:article:3:clause:2",
+                    "number": "2",
+                    "content": "2. Thông tin về người lao động Việt Nam đi làm\nviệc ở nước ngoài theo hợp đồng (sau đây viết tắt là thông tin về người lao động) là thông tin cơ bản (họ, tên, ngày sinh, giới tính, mã số định danh cá nhân/chứng minh nhân dân/hộ chiếu, trình độ chuyên môn, kỹ năng nghề, nơi ở hiện tại, số điện thoại) và thông tin về quá trình làm việc ở nước ngoài (thông tin xuất/nhập cảnh, bên tiếp nhận lao động, địa chỉ làm việc, ngành nghề, mức lương, thời hạn hợp đồng, tình trạng làm việc ở nước ngoài).",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:295237:part:1:article:3:clause:3",
+                    "number": "3",
+                    "content": "3. Mã số của người lao động Việt Nam đi làm việc\nở nước ngoài theo hợp đồng (sau đây viết tắt là mã số lao động) là mã số định danh cá nhân hoặc số chứng minh nhân dân của người lao động.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:295237:part:1:article:4",
+                "number": "4",
+                "title": "Cấu trúc và chức năng của Hệ thống cơ sở dữ liệu",
+                "content": "Điều 4. Cấu trúc và chức năng của Hệ thống cơ sở dữ liệu",
+                "clauses": [
+                  {
+                    "clause_id": "doc:295237:part:1:article:4:clause:1",
+                    "number": "1",
+                    "content": "1. Hệ thống cơ sở dữ liệu là tập hợp số liệu, thông\ntin về người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng, do Bộ Lao động - Thương binh và Xã hội quản lý, vận hành và chia sẻ qua Nền tảng chia sẻ, tích hợp cấp bộ, địa phương (LGSP - Local Government Service Platform).",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:295237:part:1:article:4:clause:2",
+                    "number": "2",
+                    "content": "2. Hệ thống cơ sở dữ liệu có chức năng:",
+                    "points": [
+                      {
+                        "point_id": "doc:295237:part:1:article:4:clause:2:point:1",
+                        "label": "a",
+                        "content": "a) Cập nhật, lưu trữ, khai thác, chia sẻ cơ sở dữ\nliệu về người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:295237:part:1:article:4:clause:2:point:2",
+                        "label": "b",
+                        "content": "b) Thực hiện trực tuyến các nghiệp vụ trong hoạt động\nđưa người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:295237:part:1:article:4:clause:2:point:3",
+                        "label": "c",
+                        "content": "c) Quản lý người lao động Việt Nam đi làm việc ở nước\nngoài theo hợp đồng bằng mã số lao động;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:295237:part:1:article:4:clause:2:point:4",
+                        "label": "d",
+                        "content": "d) Tích hợp, phân tích, tổng hợp dữ liệu để cơ quan\nquản lý nhà nước đánh giá, định hướng và xây dựng kế hoạch về người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng.",
+                        "children": []
+                      }
+                    ]
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:295237:part:1:article:5",
+                "number": "5",
+                "title": "Nguyên tắc vận hành, quản lý, khai thác, chia sẻ và thực hiện các nghiệp vụ trên Hệ thống cơ sở dữ liệu",
+                "content": "Điều 5. Nguyên tắc vận hành, quản lý, khai thác, chia sẻ và thực hiện các nghiệp vụ trên Hệ thống cơ sở dữ liệu",
+                "clauses": [
+                  {
+                    "clause_id": "doc:295237:part:1:article:5:clause:1",
+                    "number": "1",
+                    "content": "1. Việc vận hành, quản lý Hệ thống cơ sở dữ liệu phải\ntuân thủ các quy định của pháp luật về giao dịch điện tử, lưu trữ điện tử, an ninh, an toàn, bảo vệ dữ liệu, bảo mật thông tin và các quy định khác có liên quan; thông tin, dữ liệu trao đổi trên Hệ thống cơ sở dữ liệu được mã hoá và ký số, bảo đảm tính toàn vẹn, xác thực.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:295237:part:1:article:5:clause:2",
+                    "number": "2",
+                    "content": "2. Việc khai thác dữ liệu được thực hiện theo quy định\ncủa Luật Tiếp cận thông tin và các quy định của pháp luật hiện hành.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:295237:part:1:article:5:clause:3",
+                    "number": "3",
+                    "content": "3. Việc chia sẻ thông tin, dữ liệu trên Hệ thống cơ\nsở dữ liệu nhằm phục vụ người lao động, doanh nghiệp, đơn vị sự nghiệp; tuân thủ quy định của pháp luật trong việc tạo lập, quản lý và sử dụng dữ liệu; đảm bảo không làm ảnh hưởng tới quyền lợi và trách nhiệm của doanh nghiệp, tổ chức, cá nhân liên quan; không được xâm phạm quyền về đời sống riêng tư, bí mật cá nhân, bí mật gia đình, bí mật kinh doanh trừ trường hợp pháp luật có quy định khác.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:295237:part:1:article:6",
+                "number": "6",
+                "title": "Cấp, đăng ký tài khoản trên Hệ thống cơ sở dữ liệu",
+                "content": "Điều 6. Cấp, đăng ký tài khoản trên Hệ thống cơ sở dữ liệu",
+                "clauses": [
+                  {
+                    "clause_id": "doc:295237:part:1:article:6:clause:1",
+                    "number": "1",
+                    "content": "1. Cơ quan, đơn vị được cấp tài khoản truy cập Hệ\nthống cơ sở dữ liệu bao gồm:",
+                    "points": [
+                      {
+                        "point_id": "doc:295237:part:1:article:6:clause:1:point:1",
+                        "label": "a",
+                        "content": "a) Cục Quản lý lao động ngoài nước, Bộ Lao động -\nThương binh và Xã hội;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:295237:part:1:article:6:clause:1:point:2",
+                        "label": "b",
+                        "content": "b) Cơ quan chuyên môn về lao động thuộc Ủy ban nhân\ndân cấp tỉnh;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:295237:part:1:article:6:clause:1:point:3",
+                        "label": "c",
+                        "content": "c) Cơ quan đại diện Việt Nam ở nước ngoài.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:295237:part:1:article:6:clause:2",
+                    "number": "2",
+                    "content": "2. Doanh nghiệp; đơn vị sự nghiệp; tổ chức, cá nhân\nđầu tư ra nước ngoài và công dân Việt Nam giao kết hợp đồng lao động sau khi xuất cảnh đăng ký tài khoản trên Hệ thống cơ sở dữ liệu tại địa chỉ http://molisa.gov.vn",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:295237:part:1:article:6:clause:3",
+                    "number": "3",
+                    "content": "3. Tài khoản đã được cấp theo quy định tại Thông tư\nsố 35/2017/TT-BLĐTBXH ngày 29/12/2017 quy định việc quản lý, vận hành và khai thác cơ sở dữ liệu về người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng (sau đây viết tắt là Thông tư số 35/2017/TT-BLĐTBXH) được tiếp tục sử dụng và quản lý theo quy định của Thông tư này.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:295237:part:1:chapter:2",
+            "number": "II",
+            "title": "SỬ DỤNG, KHAI THÁC HỆ THỐNG CƠ SỞ DỮ LIỆU",
+            "content": "Chương II\nSỬ DỤNG, KHAI THÁC HỆ THỐNG\nCƠ SỞ DỮ LIỆU",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:295237:part:1:article:7",
+                "number": "7",
+                "title": "Cấp Giấy phép hoạt động dịch vụ đưa người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng",
+                "content": "Điều 7. Cấp Giấy phép hoạt động dịch vụ đưa người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng",
+                "clauses": [
+                  {
+                    "clause_id": "doc:295237:part:1:article:7:clause:1",
+                    "number": "1",
+                    "content": "1. Doanh nghiệp đề nghị cấp Giấy phép theo Điều 12 Luật Người lao động Việt Nam đi làm việc ở nước ngoài theo\nhợp đồng thao tác như sau:",
+                    "points": [
+                      {
+                        "point_id": "doc:295237:part:1:article:7:clause:1:point:1",
+                        "label": "a",
+                        "content": "a) Đăng nhập tài khoản, truy cập vào mục “Cấp Giấy\nphép” và khai thông tin theo mẫu đề nghị cấp Giấy phép hoạt động dịch vụ đưa người lao động đi làm việc ở nước ngoài;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:295237:part:1:article:7:clause:1:point:2",
+                        "label": "b",
+                        "content": "b) Đăng tải các tài liệu theo quy định lên Hệ thống\ncơ sở dữ liệu;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:295237:part:1:article:7:clause:1:point:3",
+                        "label": "c",
+                        "content": "c) Ký số và gửi hồ sơ trực tuyến.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:295237:part:1:article:7:clause:2",
+                    "number": "2",
+                    "content": "2. Trong thời hạn 20 ngày kể từ ngày nhận được hồ\nsơ hợp lệ trên Hệ thống cơ sở dữ liệu, Bộ Lao động - Thương binh và Xã hội cấp Giấy phép cho doanh nghiệp, bản gốc Giấy phép được trả trực tiếp tại bộ phận một cửa hoặc qua dịch vụ bưu chính; trường hợp không cấp Giấy phép phải trả lời bằng văn bản và nêu rõ lý do. Trạng thái xử lý hồ sơ được hiển thị trên Hệ thống cơ sở dữ liệu.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:295237:part:1:article:8",
+                "number": "8",
+                "title": "Điều chỉnh thông tin Giấy phép hoạt động dịch vụ đưa người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng",
+                "content": "Điều 8. Điều chỉnh thông tin Giấy phép hoạt động dịch vụ đưa người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng",
+                "clauses": [
+                  {
+                    "clause_id": "doc:295237:part:1:article:8:clause:1",
+                    "number": "1",
+                    "content": "1. Doanh nghiệp đề nghị điều chỉnh thông tin Giấy\nphép theo Điều 13 Luật số 69/2020/QH14 thao tác như sau:",
+                    "points": [
+                      {
+                        "point_id": "doc:295237:part:1:article:8:clause:1:point:1",
+                        "label": "a",
+                        "content": "a) Đăng nhập tài khoản, truy cập vào mục “Điều chỉnh\nthông tin Giấy phép” và khai thông tin điều chỉnh Giấy phép của doanh nghiệp;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:295237:part:1:article:8:clause:1:point:2",
+                        "label": "b",
+                        "content": "b) Đăng tải các tài liệu liên quan đến thông tin\nthay đổi so với nội dung ghi trong Giấy phép đã được cấp lên Hệ thống cơ sở dữ liệu;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:295237:part:1:article:8:clause:1:point:3",
+                        "label": "c",
+                        "content": "c) Ký số và gửi hồ sơ trực tuyến.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:295237:part:1:article:8:clause:2",
+                    "number": "2",
+                    "content": "2. Trong thời hạn 05 ngày làm việc kể từ ngày nhận\nđược hồ sơ hợp lệ trên Hệ thống cơ sở dữ liệu, Bộ Lao động - Thương binh và Xã hội điều chỉnh thông tin Giấy phép cho doanh nghiệp. Bản gốc Giấy phép được trả trực tiếp tại bộ phận một cửa hoặc qua dịch vụ bưu chính. Trạng thái xử lý hồ sơ được hiển thị trên Hệ thống cơ sở dữ liệu.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:295237:part:1:article:9",
+                "number": "9",
+                "title": "Các nghiệp vụ khác",
+                "content": "Điều 9. Các nghiệp vụ khác",
+                "clauses": [
+                  {
+                    "clause_id": "doc:295237:part:1:article:9:clause:1",
+                    "number": "1",
+                    "content": "1. Doanh nghiệp, đơn vị sự nghiệp, tổ chức, cá nhân\nđầu tư ra nước ngoài, người lao động thực hiện đăng ký chuẩn bị nguồn lao động; đăng ký hợp đồng cung ứng lao động; đề nghị xác nhận danh sách lao động dự kiến xuất cảnh; đăng ký hợp đồng nhận lao động thực tập; đăng ký hợp đồng lao động trực tiếp giao kết sau khi xuất cảnh; báo cáo phương án đưa người lao động Việt Nam đi làm việc ở nước ngoài của doanh nghiệp Việt Nam trúng thầu, nhận thầu công trình dự án ở nước ngoài; báo cáo phương án đưa người lao động Việt Nam đi làm việc ở nước ngoài của tổ chức, cá nhân đầu tư ra nước ngoài và các nghiệp vụ khác thao tác như sau:",
+                    "points": [
+                      {
+                        "point_id": "doc:295237:part:1:article:9:clause:1:point:1",
+                        "label": "a",
+                        "content": "a) Đăng nhập tài khoản, truy cập vào nghiệp vụ cần\nthực hiện và khai thông tin theo hướng dẫn của Hệ thống cơ sở dữ liệu;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:295237:part:1:article:9:clause:1:point:2",
+                        "label": "b",
+                        "content": "b) Đăng tải các tài liệu theo quy định lên Hệ thống\ncơ sở dữ liệu;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:295237:part:1:article:9:clause:1:point:3",
+                        "label": "c",
+                        "content": "c) Ký số và gửi hồ sơ trực tuyến.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:295237:part:1:article:9:clause:2",
+                    "number": "2",
+                    "content": "2. Trong thời hạn 05 ngày làm việc kể từ ngày nhận\nđược hồ sơ hợp lệ trên Hệ thống cơ sở dữ liệu, Bộ Lao động - Thương binh và Xã hội trả lời bằng văn bản về việc chấp thuận; trường hợp không chấp thuận phải nêu rõ lý do. Trạng thái xử lý hồ sơ được hiển thị trên Hệ thống cơ sở dữ liệu.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:295237:part:1:article:10",
+                "number": "10",
+                "title": "Cập nhật thông tin về chi nhánh doanh nghiệp Doanh nghiệp Việt Nam hoạt động dịch vụ đưa người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng (sau đây viết tắt là doanh nghiệp dịch vụ) đăng nhập vào tài khoản, truy cập vào mục “chi nhánh doanh nghiệp” và thực hiện cập nhật thông tin chi nhánh trong thời hạn 05 ngày làm việc kể từ ngày giao nhiệm vụ, chấm dứt giao nhiệm vụ hoạt động dịch vụ đưa người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng cho chi nhánh hoặc chi nhánh chấm dứt hoạt động.",
+                "content": "Điều 10. Cập nhật thông tin về chi nhánh doanh nghiệp Doanh nghiệp Việt Nam hoạt động dịch vụ đưa người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng (sau đây viết tắt là doanh nghiệp dịch vụ) đăng nhập vào tài khoản, truy cập vào mục “chi nhánh doanh nghiệp” và thực hiện cập nhật thông tin chi nhánh trong thời hạn 05 ngày làm việc kể từ ngày giao nhiệm vụ, chấm dứt giao nhiệm vụ hoạt động dịch vụ đưa người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng cho chi nhánh hoặc chi nhánh chấm dứt hoạt động.",
+                "clauses": [],
+                "points": []
+              },
+              {
+                "article_id": "doc:295237:part:1:article:11",
+                "number": "11",
+                "title": "Cập nhật thông tin về người lao động bằng mã số lao động Doanh nghiệp, đơn vị sự nghiệp, cơ quan chuyên môn về lao động, tổ chức, cá nhân Việt Nam đầu tư ra nước ngoài, công dân Việt Nam đăng nhập vào tài khoản, truy cập vào mục “thông tin về người lao động” và thực hiện cập nhật thông tin như sau:",
+                "content": "Điều 11. Cập nhật thông tin về người lao động bằng mã số lao động Doanh nghiệp, đơn vị sự nghiệp, cơ quan chuyên môn về lao động, tổ chức, cá nhân Việt Nam đầu tư ra nước ngoài, công dân Việt Nam đăng nhập vào tài khoản, truy cập vào mục “thông tin về người lao động” và thực hiện cập nhật thông tin như sau:",
+                "clauses": [
+                  {
+                    "clause_id": "doc:295237:part:1:article:11:clause:1",
+                    "number": "1",
+                    "content": "1. Trong thời hạn 05 ngày kể từ ngày người lao động\nxuất cảnh và trước ngày 20 hằng tháng khi có sự thay đổi, phát sinh trong thời gian làm việc ở nước ngoài, doanh nghiệp dịch vụ, đơn vị sự nghiệp cập nhật thông tin về người lao động cho đến khi thanh lý hợp đồng.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:295237:part:1:article:11:clause:2",
+                    "number": "2",
+                    "content": "2. Trong thời hạn 05 ngày làm việc kể từ ngày người\nlao động xuất cảnh, doanh nghiệp Việt Nam trúng thầu, nhận thầu công trình, dự án ở nước ngoài; tổ chức, cá nhân Việt Nam đầu tư ra nước ngoài; doanh nghiệp Việt Nam đưa người lao động đi đào tạo, nâng cao trình độ, kỹ năng nghề ở nước ngoài cập nhật thông tin về người lao động.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:295237:part:1:article:11:clause:3",
+                    "number": "3",
+                    "content": "3. Cơ quan chuyên môn về lao động thuộc Ủy ban nhân\ndân cấp tỉnh cập nhật thông tin về người lao động đi làm việc ở nước ngoài theo hình thức hợp đồng lao động trực tiếp giao kết đã được xác nhận theo quy định tại",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:295237:part:1:article:12",
+                "number": "53",
+                "title": "Luật số 69/2020/QH14.",
+                "content": "Điều 53 Luật số 69/2020/QH14.",
+                "clauses": [
+                  {
+                    "clause_id": "doc:295237:part:1:article:12:clause:1",
+                    "number": "4",
+                    "content": "4. Công dân Việt Nam giao kết hợp đồng lao động sau\nkhi xuất cảnh đã thực hiện đăng ký trực tuyến hợp đồng lao động theo quy định tại",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:295237:part:1:article:13",
+                "number": "54",
+                "title": "Luật số 69/2020/QH14 cập nhật thông tin khi có sự thay đổi, phát sinh trong thời gian làm việc ở nước ngoài cho đến khi chấm dứt hợp đồng.",
+                "content": "Điều 54 Luật số 69/2020/QH14 cập nhật thông tin khi có sự thay đổi, phát sinh trong thời gian làm việc ở nước ngoài cho đến khi chấm dứt hợp đồng.",
+                "clauses": [],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:295237:part:1:chapter:3",
+            "number": "III",
+            "title": "KẾT NỐI, CHIA SẺ CƠ SỞ DỮ LIỆU VỀ NGƯỜI LAO ĐỘNG VIỆT NAM ĐI LÀM VIỆC Ở NƯỚC NGOÀI THEO HỢP ĐỒNG",
+            "content": "Chương III\nKẾT NỐI, CHIA SẺ CƠ SỞ DỮ\nLIỆU VỀ NGƯỜI LAO ĐỘNG VIỆT NAM ĐI LÀM VIỆC Ở NƯỚC NGOÀI THEO HỢP ĐỒNG",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:295237:part:1:article:14",
+                "number": "12",
+                "title": "Kết nối, chia sẻ cơ sở dữ liệu với Cổng Thông tin điện tử của Cục Quản lý lao động ngoài nước, Bộ Lao động - Thương binh và Xã hội Các thông tin, dữ liệu được tự động cập nhật, chia sẻ từ Hệ thống cơ sở dữ liệu lên Cổng thông tin điện tử của Cục Quản lý lao động ngoài nước bao gồm:",
+                "content": "Điều 12. Kết nối, chia sẻ cơ sở dữ liệu với Cổng Thông tin điện tử của Cục Quản lý lao động ngoài nước, Bộ Lao động - Thương binh và Xã hội Các thông tin, dữ liệu được tự động cập nhật, chia sẻ từ Hệ thống cơ sở dữ liệu lên Cổng thông tin điện tử của Cục Quản lý lao động ngoài nước bao gồm:",
+                "clauses": [
+                  {
+                    "clause_id": "doc:295237:part:1:article:14:clause:1",
+                    "number": "1",
+                    "content": "1. Thông tin Giấy phép hoạt động dịch vụ đưa người\nlao động Việt Nam đi làm việc ở nước ngoài; thông tin xử lý vi phạm hành chính đối với doanh nghiệp dịch vụ trong lĩnh vực người lao động Việt Nam đi làm việc ở nước ngoài.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:295237:part:1:article:14:clause:2",
+                    "number": "2",
+                    "content": "2. Thông tin về chuẩn bị nguồn lao động, đăng ký hợp\nđồng cung ứng lao động, đăng ký hợp đồng nhận lao động thực tập; về việc đưa người lao động Việt Nam đi làm việc ở nước ngoài của doanh nghiệp Việt Nam trúng thầu, nhận thầu công trình dự án ở nước ngoài và việc đưa người lao động Việt Nam đi làm việc ở nước ngoài của tổ chức, cá nhân, đầu tư ra nước ngoài.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:295237:part:1:article:14:clause:3",
+                    "number": "3",
+                    "content": "3. Thông tin khác về hoạt động đưa người lao động\nViệt Nam đi làm việc ở nước ngoài theo hợp đồng.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:295237:part:1:article:15",
+                "number": "13",
+                "title": "Kết nối, chia sẻ cơ sở dữ liệu với các hệ thống thông tin khác",
+                "content": "Điều 13. Kết nối, chia sẻ cơ sở dữ liệu với các hệ thống thông tin khác",
+                "clauses": [
+                  {
+                    "clause_id": "doc:295237:part:1:article:15:clause:1",
+                    "number": "1",
+                    "content": "1. Hệ thống cơ sở dữ liệu được kết nối, chia sẻ\nthông tin, dữ liệu với Cơ sở dữ liệu về giáo dục nghề nghiệp và Cơ sở dữ liệu thị trường lao động để người sử dụng lao động, người lao động tiếp cận, khai thác, sử dụng thông tin và tìm kiếm việc làm phù hợp.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:295237:part:1:article:15:clause:2",
+                    "number": "2",
+                    "content": "2. Hệ thống cơ sở dữ liệu kết nối, chia sẻ thông\ntin, dữ liệu với Cổng dịch vụ công quốc gia, Cổng dịch vụ công của Bộ Lao động - Thương binh và Xã hội và các hệ thống thông tin, cơ sở dữ liệu khác theo quy định của pháp luật.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:295237:part:1:chapter:4",
+            "number": "IV",
+            "title": "TỔ CHỨC THỰC HIỆN",
+            "content": "Chương IV\nTỔ CHỨC THỰC HIỆN",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:295237:part:1:article:16",
+                "number": "14",
+                "title": "Trách nhiệm của tổ chức, cá nhân",
+                "content": "Điều 14. Trách nhiệm của tổ chức, cá nhân",
+                "clauses": [
+                  {
+                    "clause_id": "doc:295237:part:1:article:16:clause:1",
+                    "number": "1",
+                    "content": "1. Quản lý, bảo mật thông tin tài khoản được cấp.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:295237:part:1:article:16:clause:2",
+                    "number": "2",
+                    "content": "2. Chịu trách nhiệm về tính chính xác, toàn vẹn đối\nvới những thông tin, dữ liệu được đăng tải, cập nhật trên Hệ thống cơ sở dữ liệu.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:295237:part:1:article:16:clause:3",
+                    "number": "3",
+                    "content": "3. Chia sẻ dữ liệu, thông tin đúng thẩm quyền.\nKhông tạo ra hoặc phát tán các chương trình, phần mềm với mục đích phá hoại Hệ thống cơ sở dữ liệu.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:295237:part:1:article:17",
+                "number": "15",
+                "title": "Trách nhiệm của các đơn vị thuộc Bộ Lao động - Thương binh và Xã hội",
+                "content": "Điều 15. Trách nhiệm của các đơn vị thuộc Bộ Lao động - Thương binh và Xã hội",
+                "clauses": [
+                  {
+                    "clause_id": "doc:295237:part:1:article:17:clause:1",
+                    "number": "1",
+                    "content": "1. Cục Quản lý lao động ngoài nước, Bộ Lao động -\nThương binh và Xã hội có trách nhiệm:",
+                    "points": [
+                      {
+                        "point_id": "doc:295237:part:1:article:17:clause:1:point:1",
+                        "label": "a",
+                        "content": "a) Quản lý người lao động đi làm việc ở nước ngoài\ntheo hợp đồng bằng mã số, tích hợp trên Hệ thống cơ sở dữ liệu;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:295237:part:1:article:17:clause:1:point:2",
+                        "label": "b",
+                        "content": "b) Vận hành, quản lý, khai thác Hệ thống cơ sở dữ\nliệu hiệu quả, an toàn; kịp thời phản ánh và phối hợp khắc phục các sự cố phát sinh;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:295237:part:1:article:17:clause:1:point:3",
+                        "label": "c",
+                        "content": "c) Tổ chức tập huấn, hướng dẫn sử dụng Hệ thống cơ\nsở dữ liệu;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:295237:part:1:article:17:clause:1:point:4",
+                        "label": "d",
+                        "content": "d) Thường xuyên rà soát, đánh giá hiệu quả và đề xuất\ngiải pháp trong việc quản lý, vận hành Hệ thống cơ sở dữ liệu;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:295237:part:1:article:17:clause:1:point:5",
+                        "label": "đ",
+                        "content": "đ) Hằng năm lập dự toán kinh phí phục vụ việc cập\nnhật, nâng cấp Hệ thống cơ sở dữ liệu.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:295237:part:1:article:17:clause:2",
+                    "number": "2",
+                    "content": "2. Trung tâm thông tin, Bộ Lao động - Thương binh\nvà Xã hội có trách nhiệm:",
+                    "points": [
+                      {
+                        "point_id": "doc:295237:part:1:article:17:clause:2:point:1",
+                        "label": "a",
+                        "content": "a) Quản trị hệ thống hạ tầng, trang thiết bị công\nnghệ thông tin tại Trung tâm Tích hợp dữ liệu của Bộ Lao động - Thương binh và Xã hội đảm bảo hoạt động thông suốt, an toàn và bảo mật cho Hệ thống cơ sở dữ liệu;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:295237:part:1:article:17:clause:2:point:2",
+                        "label": "b",
+                        "content": "b) Rà soát, đề xuất kế hoạch và phương án bảo đảm\nduy trì hoạt động liên tục của Hệ thống cơ sở dữ liệu;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:295237:part:1:article:17:clause:2:point:3",
+                        "label": "c",
+                        "content": "c) Hằng năm lập dự toán kinh phí phục vụ cho việc\nduy trì, vận hành Hệ thống cơ sở dữ liệu tại Trung tâm Tích hợp dữ liệu.",
+                        "children": []
+                      }
+                    ]
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:295237:part:1:article:18",
+                "number": "16",
+                "title": "Trách nhiệm của cơ quan chuyên môn về lao động thuộc Ủy ban nhân dân cấp tỉnh",
+                "content": "Điều 16. Trách nhiệm của cơ quan chuyên môn về lao động thuộc Ủy ban nhân dân cấp tỉnh",
+                "clauses": [
+                  {
+                    "clause_id": "doc:295237:part:1:article:18:clause:1",
+                    "number": "1",
+                    "content": "1. Cập nhật thông tin về người lao động đi làm việc\nở nước ngoài theo hợp đồng quy định tại khoản 3 Điều 11 Thông tư này.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:295237:part:1:article:18:clause:2",
+                    "number": "2",
+                    "content": "2. Khai thác, sử dụng Hệ thống cơ sở dữ liệu theo\nquy định tại Điều 14 Thông tư này.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:295237:part:1:chapter:5",
+            "number": "V",
+            "title": "ĐIỀU KHOẢN THI HÀNH",
+            "content": "Chương V\nĐIỀU KHOẢN THI HÀNH",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:295237:part:1:article:19",
+                "number": "17",
+                "title": "Quy định chuyển tiếp Thông tin, dữ liệu của cơ sở dữ liệu theo quy định tại Thông tư số 35/2017/TT-BLĐTBXH được tiếp tục khai thác, sử dụng theo quy định của Thông tư này.",
+                "content": "Điều 17. Quy định chuyển tiếp Thông tin, dữ liệu của cơ sở dữ liệu theo quy định tại Thông tư số 35/2017/TT-BLĐTBXH được tiếp tục khai thác, sử dụng theo quy định của Thông tư này.",
+                "clauses": [],
+                "points": []
+              },
+              {
+                "article_id": "doc:295237:part:1:article:20",
+                "number": "18",
+                "title": "Hiệu lực thi hành",
+                "content": "Điều 18. Hiệu lực thi hành",
+                "clauses": [
+                  {
+                    "clause_id": "doc:295237:part:1:article:20:clause:1",
+                    "number": "1",
+                    "content": "1. Thông tư này có hiệu lực thi hành kể từ ngày 01\ntháng 02 năm 2022.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:295237:part:1:article:20:clause:2",
+                    "number": "2",
+                    "content": "2. Thông tư số 35/2017/TT-BLĐTBXH\nngày 29/12/2017 hết hiệu lực thi hành kể từ ngày Thông tư này có hiệu lực thi hành.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:295237:part:1:article:20:clause:3",
+                    "number": "3",
+                    "content": "3. Doanh nghiệp; đơn vị sự nghiệp; tổ chức, cá nhân\nđầu tư ra nước ngoài và công dân Việt Nam giao kết hợp đồng lao động sau khi xuất cảnh thực hiện:",
+                    "points": [
+                      {
+                        "point_id": "doc:295237:part:1:article:20:clause:3:point:1",
+                        "label": "a",
+                        "content": "a) Trực tuyến trên Hệ thống cơ sở dữ liệu theo quy\nđịnh của Thông tư này đối với các nghiệp vụ: đăng ký hợp đồng lao động trực tiếp giao kết sau khi xuất cảnh, cập nhật thông tin về chi nhánh doanh nghiệp dịch vụ, cập nhật thông tin về người lao động;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:295237:part:1:article:20:clause:3:point:2",
+                        "label": "b",
+                        "content": "b) Lựa chọn hình thức trực tiếp hoặc qua dịch vụ\nbưu chính cho cơ quan có thẩm quyền theo quy định của pháp luật hoặc trực tuyến trên Hệ thống cơ sở dữ liệu theo quy định của Thông tư này đối với các nghiệp vụ: đề nghị cấp giấy phép, đề nghị điều chỉnh thông tin giấy phép và các nghiệp vụ khác nêu tại Điều 9 của Thông tư này, trừ nghiệp vụ đăng ký hợp đồng lao động trực tiếp giao kết sau khi xuất cảnh. Trong quá trình thực hiện nếu có vướng mắc, đề nghị phản ánh về Bộ Lao động -Thương binh và Xã hội để hướng dẫn, bổ sung kịp thời./.",
+                        "children": []
+                      }
+                    ]
+                  }
+                ],
+                "points": []
+              }
+            ]
+          }
+        ],
+        "sections": [],
+        "articles": [],
+        "unstructured_blocks": []
+      }
+    ]
+  },
+  "issues": [],
+  "status": "ok",
+  "source_hash": "context_295237.json",
+  "stats": {
+    "source_chars": 16009,
+    "passage_chars": 15829,
+    "parts": 1,
+    "chapters": 5,
+    "sections": 0,
+    "articles": 20,
+    "clauses": 40,
+    "points": 26
+  }
+}

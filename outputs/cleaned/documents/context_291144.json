@@ -1,0 +1,878 @@
+{
+  "schema_version": "2.0",
+  "document_id": 291144,
+  "metadata": {
+    "name": "Thong-tu-134-2017-TT-BTC-huong-dan-giao-dich-dien-tu-tren-thi-truong-chung-khoan-372688",
+    "link": "https://thuvienphapluat.vn/van-ban/Chung-khoan/Thong-tu-134-2017-TT-BTC-huong-dan-giao-dich-dien-tu-tren-thi-truong-chung-khoan-372688.aspx",
+    "issuing_agency": "BỘ TÀI CHÍNH",
+    "national_header": "CỘNG HÒA XÃ HỘI\r\n\n  CHỦ NGHĨA VIỆT NAM",
+    "motto": "Độc lập - Tự do - Hạnh phúc",
+    "document_number": "134/2017/TT-BTC",
+    "issued_place": "Hà Nội",
+    "issued_date": "ngày 19\r\n\n  tháng 12 năm 2017",
+    "document_type": "THÔNG TƯ",
+    "title": "HƯỚNG DẪN GIAO DỊCH ĐIỆN TỬ TRÊN THỊ TRƯỜNG CHỨNG KHOÁN"
+  },
+  "administrative_header": {
+    "removed": true,
+    "removed_char_count": 153
+  },
+  "preamble": {
+    "text": "THÔNG TƯ HƯỚNG\nDẪN GIAO DỊCH ĐIỆN TỬ TRÊN THỊ TRƯỜNG CHỨNG KHOÁN\nCăn cứ Luật Chứng khoán ngày 29 tháng 6 năm 2006; Căn cứ Luật sửa đổi, bổ sung một số điều của Luật Chứng khoán ngày 24 tháng 11 năm 2010; Căn cứ Luật Giao dịch điện tử ngày 29 tháng 11 năm 2005; Căn cứ Luật Công nghệ thông tin ngày 29 tháng 6 năm 2006; Căn cứ Luật An toàn thông tin mạng ngày 19 tháng 11 năm 2015; Căn cứ Nghị định số 58/2012/NĐ-CP ngày 20 tháng 7 năm 2012 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật chứng khoán và Luật sửa đổi, bổ sung một số điều của Luật chứng khoán; Căn cứ Nghị định số 60/2015/NĐ-CP ngày 26 tháng 6 năm 2015 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 58/2012/NĐ-CP ngày 20 tháng 7 năm 2012 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Chứng khoán và Luật sửa đổi, bổ sung một số điều của Luật Chứng khoán; Căn cứ Nghị định số 42/2015/NĐ-CP ngày 05 tháng 5 năm 2015 của Chính phủ về chứng khoán phái sinh và thị trường chứng khoán phái sinh; Căn cứ Nghị định số 27/2007/NĐ-CP ngày 23 tháng 02 năm 2007 của Chính phủ về giao dịch điện tử trong hoạt động tài chính; Căn cứ Nghị định số 156/2016/NĐ-CP ngày 21 tháng 11 năm 2016 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 27/2007/NĐ-CP ngày 23 tháng 02 năm 2007 của Chính phủ về giao dịch điện tử trong hoạt động tài chính; Căn cứ Nghị định số 87/2017/NĐ-CP ngày 26 tháng 7 năm 2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài chính; Theo đề nghị của Chủ tịch Ủy ban Chứng khoán Nhà nước; Bộ trưởng Bộ Tài chính ban hành Thông tư hướng dẫn giao dịch điện tử trên thị trường chứng khoán.\nChương I\nQUY ĐỊNH CHUNG",
+    "legal_bases": [
+      "Căn cứ Luật sửa đổi, bổ sung một số điều của Luật Chứng khoán ngày 24 tháng 11 năm 2010",
+      "Căn cứ Luật Giao dịch điện tử ngày 29 tháng 11 năm 2005",
+      "Căn cứ Luật Công nghệ thông tin ngày 29 tháng 6 năm 2006",
+      "Căn cứ Luật An toàn thông tin mạng ngày 19 tháng 11 năm 2015",
+      "Căn cứ Nghị định số 58/2012/NĐ-CP ngày 20 tháng 7 năm 2012 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật chứng khoán và Luật sửa đổi, bổ sung một số điều của Luật chứng khoán",
+      "Căn cứ Nghị định số 60/2015/NĐ-CP ngày 26 tháng 6 năm 2015 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 58/2012/NĐ-CP ngày 20 tháng 7 năm 2012 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Chứng khoán và Luật sửa đổi, bổ sung một số điều của Luật Chứng khoán",
+      "Căn cứ Nghị định số 42/2015/NĐ-CP ngày 05 tháng 5 năm 2015 của Chính phủ về chứng khoán phái sinh và thị trường chứng khoán phái sinh",
+      "Căn cứ Nghị định số 27/2007/NĐ-CP ngày 23 tháng 02 năm 2007 của Chính phủ về giao dịch điện tử trong hoạt động tài chính",
+      "Căn cứ Nghị định số 156/2016/NĐ-CP ngày 21 tháng 11 năm 2016 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 27/2007/NĐ-CP ngày 23 tháng 02 năm 2007 của Chính phủ về giao dịch điện tử trong hoạt động tài chính",
+      "Căn cứ Nghị định số 87/2017/NĐ-CP ngày 26 tháng 7 năm 2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài chính"
+    ],
+    "proposals": [
+      "Theo đề nghị của Chủ tịch Ủy ban Chứng khoán Nhà nước"
+    ],
+    "enactment_formula": null
+  },
+  "passage": "THÔNG TƯ HƯỚNG\nDẪN GIAO DỊCH ĐIỆN TỬ TRÊN THỊ TRƯỜNG CHỨNG KHOÁN\nCăn cứ Luật Chứng khoán ngày 29 tháng 6 năm 2006; Căn cứ Luật sửa đổi, bổ sung một số điều của Luật Chứng khoán ngày 24 tháng 11 năm 2010; Căn cứ Luật Giao dịch điện tử ngày 29 tháng 11 năm 2005; Căn cứ Luật Công nghệ thông tin ngày 29 tháng 6 năm 2006; Căn cứ Luật An toàn thông tin mạng ngày 19 tháng 11 năm 2015; Căn cứ Nghị định số 58/2012/NĐ-CP ngày 20 tháng 7 năm 2012 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật chứng khoán và Luật sửa đổi, bổ sung một số điều của Luật chứng khoán; Căn cứ Nghị định số 60/2015/NĐ-CP ngày 26 tháng 6 năm 2015 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 58/2012/NĐ-CP ngày 20 tháng 7 năm 2012 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Chứng khoán và Luật sửa đổi, bổ sung một số điều của Luật Chứng khoán; Căn cứ Nghị định số 42/2015/NĐ-CP ngày 05 tháng 5 năm 2015 của Chính phủ về chứng khoán phái sinh và thị trường chứng khoán phái sinh; Căn cứ Nghị định số 27/2007/NĐ-CP ngày 23 tháng 02 năm 2007 của Chính phủ về giao dịch điện tử trong hoạt động tài chính; Căn cứ Nghị định số 156/2016/NĐ-CP ngày 21 tháng 11 năm 2016 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 27/2007/NĐ-CP ngày 23 tháng 02 năm 2007 của Chính phủ về giao dịch điện tử trong hoạt động tài chính; Căn cứ Nghị định số 87/2017/NĐ-CP ngày 26 tháng 7 năm 2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài chính; Theo đề nghị của Chủ tịch Ủy ban Chứng khoán Nhà nước; Bộ trưởng Bộ Tài chính ban hành Thông tư hướng dẫn giao dịch điện tử trên thị trường chứng khoán.\nChương I\nQUY ĐỊNH CHUNG\nĐiều 1. Phạm vi điều chỉnh Thông tư này hướng dẫn hoạt động giao dịch chứng khoán trực tuyến, hoạt động trao đổi thông tin điện tử trên thị trường chứng khoán và các hoạt động khác liên quan đến giao dịch điện tử trên thị trường chứng khoán.\nĐiều 2. Đối tượng áp dụng Đối tượng áp dụng Thông tư này bao gồm:\n1. Ủy ban Chứng khoán\nNhà nước, Sở giao dịch chứng khoán, Trung tâm lưu ký chứng khoán Việt Nam.\n2. Tổ chức, cá nhân tham gia giao dịch và hoạt động\ntrên thị trường chứng khoán bằng phương tiện điện tử, bao gồm:\na) Tổ chức phát hành, tổ chức niêm yết, tổ chức\nđăng ký giao dịch, công ty đại chúng;\nb) Công ty chứng khoán,\ncông ty quản lý quỹ, công ty đầu tư chứng khoán;\nc) Văn phòng đại diện, chi nhánh công ty chứng khoán nước ngoài tại Việt Nam; văn phòng đại diện,\nchi nhánh công ty quản lý quỹ nước ngoài tại Việt Nam;\nd) Ngân hàng thương mại, chi nhánh ngân hàng nước\nngoài là thành viên thị trường trái phiếu hoặc thị trường chứng khoán phái sinh, ngân hàng giám sát, thành viên lưu ký, thành viên bù trừ, đại lý phân phối chứng chỉ quỹ;\nđ) Nhà đầu tư;\ne) Các tổ chức, cá nhân khác tham gia giao dịch và\nhoạt động trên thị trường chứng khoán bằng phương tiện điện tử.\nĐiều 3. Giải thích thuật ngữ Trong Thông tư này, các thuật ngữ dưới đây được hiểu như sau:\n1. Hoạt động giao dịch chứng khoán trực tuyến\nlà hoạt động giao dịch chứng khoán được thực hiện thông qua hệ thống công nghệ thông tin và môi trường mạng Internet, mạng viễn thông hoặc các mạng mở khác, bao gồm: Giao dịch chứng khoán giữa nhà đầu tư và các tổ chức cung cấp dịch vụ giao dịch chứng khoán trực tuyến; giao dịch chứng khoán giữa thành viên giao dịch và Sở giao dịch chứng khoán; giao dịch liên quan đến chứng khoán giữa thành viên lưu ký, thành viên bù trừ và Trung tâm lưu ký chứng khoán Việt Nam.\n2. Hệ thống giao dịch chứng khoán trực tuyến\nlà hệ thống phục vụ quản lý và thực hiện hoạt động giao dịch chứng khoán trực tuyến, bao gồm: Trang thiết bị phần cứng, phần mềm, cơ sở dữ liệu, hệ thống mạng viễn thông, mạng Internet, mạng máy tính.\n3. Chứng từ điện tử trong\nlĩnh vực chứng khoán là thông điệp dữ liệu về hoạt động giao dịch điện tử trên thị trường chứng khoán được tạo ra, được gửi đi, được nhận và được lưu trữ bằng phương tiện điện tử.\n4. Phiếu lệnh điện tử là thông điệp dữ liệu\nghi lại những thông tin nhà đầu tư đã đặt lệnh giao dịch qua hệ thống giao dịch chứng khoán trực tuyến tại một thời điểm nhất định mà chỉ có nhà đầu tư đó truy cập được vào hệ thống thông qua xác thực truy cập và đặt lệnh.\n5. Xác thực hai yếu tố là phương pháp xác thực\nyêu cầu hai yếu tố để chứng minh tính đúng đắn của một danh tính. Xác thực hai yếu tố dựa trên những thông tin mà người dùng biết như số PIN, mã khóa bí mật cùng với những thông tin mà người dùng có như thẻ thông minh, thiết bị token, điện thoại di động hoặc những dấu hiệu sinh trắc học của người dùng để xác minh danh tính.\n6. An toàn thông tin mạng là sự bảo vệ thông\ntin, hệ thống thông tin trên mạng tránh bị truy nhập, sử dụng, tiết lộ, gián đoạn, sửa đổi hoặc phá hoại trái phép nhằm bảo đảm tính nguyên vẹn, tính bảo mật và tính khả dụng của thông tin.\n7. Địa chỉ vật lý của thiết\nbị đặt lệnh (còn gọi là địa chỉ MAC - Media Access Control) là mã duy nhất được gán bởi nhà sản xuất dùng để nhận dạng thiết bị khi đặt, hủy lệnh trong hệ thống giao dịch chứng khoán trực tuyến.\n8. Số điện thoại đặt lệnh là số điện thoại của\nnhà đầu tư đăng ký với tổ chức cung cấp dịch vụ giao dịch chứng khoán trực tuyến để thực hiện đặt lệnh giao dịch chứng khoán.\n9. Dịch vụ giao dịch chứng khoán trực tuyến\nlà dịch vụ do các tổ chức cung cấp dịch vụ giao dịch chứng khoán trực tuyến cung cấp cho nhà đầu tư để mở tài khoản, đặt lệnh, đưa ra yêu cầu đối với các giao dịch chứng khoán hoặc nhận kết quả giao dịch thông qua mạng Internet hoặc điện thoại.\n10. Tổ chức cung cấp dịch vụ giao dịch chứng khoán trực tuyến là công ty chứng khoán, công ty quản lý quỹ và đại lý phân phối\nchứng chỉ quỹ cung cấp dịch vụ giao dịch chứng khoán trực tuyến.\n11. Thành viên lưu ký là công ty chứng khoán, ngân hàng thương mại hoạt động tại Việt\nNam được Ủy ban Chứng khoán Nhà nước cấp Giấy chứng nhận đăng ký hoạt động lưu ký chứng khoán và được Trung tâm lưu ký chứng khoán Việt Nam chấp thuận trở thành thành viên lưu ký.\n12. Thành viên bù trừ là công ty chứng khoán, ngân hàng thương mại, chi nhánh ngân hàng\nnước ngoài được thực hiện bù trừ, thanh toán giao dịch chứng khoán phái sinh.\n13. Sự cố nghiêm trọng là các sự cố kỹ thuật\nxảy ra đối với hệ thống giao dịch chứng khoán trực tuyến gây hậu quả là hệ thống phải dừng hoặc tạm dừng hoạt động.\nĐiều 4. Nguyên tắc giao dịch điện tử trên thị trường chứng khoán Giao dịch điện tử trên thị trường chứng khoán phải đảm bảo nguyên tắc chính xác, công bằng, công khai, minh bạch, an toàn, hiệu quả và phù hợp với Luật Giao dịch điện tử, Luật An toàn thông tin mạng, các văn bản hướng dẫn thi hành và các quy định pháp luật khác có liên quan.\nChương II\nHOẠT ĐỘNG GIAO DỊCH CHỨNG KHOÁN TRỰC TUYẾN\nMục 1. YÊU CẦU DỊCH VỤ, HẠ TẦNG\nKỸ THUẬT, AN NINH BẢO MẬT VÀ LƯU TRỮ DỮ LIỆU\nĐiều 5. Yêu cầu về dịch vụ\n1. Đối với Sở giao dịch chứng khoán và Trung tâm lưu ký chứng khoán Việt Nam:\na) Xây dựng, ban hành quy định kết nối hệ thống\ngiao dịch chứng khoán trực tuyến, các quy trình về xử lý sự cố, dự phòng hệ thống, kiểm soát rủi ro trong hoạt động giao dịch chứng khoán trực tuyến phù hợp với Luật Giao dịch điện tử, Luật An toàn thông tin mạng, các văn bản hướng dẫn thi hành và quy định tại Thông tư này;\nb) Đảm bảo cung cấp hoạt động giao dịch chứng khoán trực tuyến công khai, công bằng, minh bạch,\nan toàn và hiệu quả cho các thành viên sử dụng cùng một loại dịch vụ.\n2. Đối với công ty chứng khoán cung cấp dịch vụ giao dịch chứng khoán trực tuyến:\na) Trực tiếp cung cấp dịch vụ giao dịch chứng khoán trực tuyến cho nhà đầu tư;\nb) Xây dựng trang thông tin điện tử với tên miền đã\nđăng ký trên mạng Internet để cung cấp dịch vụ giao dịch chứng khoán trực tuyến. Các chương trình, ứng dụng dùng để giao dịch chứng khoán trực tuyến phải đăng tải hoặc tích hợp trên trang thông tin điện tử này;\nc) Ban hành quy trình thực hiện dịch vụ giao dịch\nchứng khoán trực tuyến bao gồm: Quy trình vận hành theo dõi quản trị hàng ngày; quy trình đăng ký, hủy sử dụng dịch vụ giao dịch chứng khoán trực tuyến; quy trình về xử lý sự cố; quy trình sao lưu dự phòng hệ thống, dữ liệu; quy trình kiểm soát rủi ro trong hoạt động cung cấp dịch vụ giao dịch chứng khoán trực tuyến cho nhà đầu tư và các quy trình khác phù hợp Luật Giao dịch điện tử, Luật An toàn thông tin mạng, các văn bản hướng dẫn thi hành và quy định của Thông tư này, trong đó phải nêu rõ trách nhiệm của đối tượng tham gia quy trình;\nd) Bố trí đội ngũ nhân viên có bằng cấp, chứng chỉ\ncông nghệ thông tin về quản trị phần mềm, quản trị hệ thống và an ninh thông tin để quản lý và giám sát các hoạt động của hệ thống giao dịch chứng khoán trực tuyến đảm bảo liên tục và thông suốt;\nđ) Việc cung cấp và sử dụng dịch vụ giao dịch chứng\nkhoán trực tuyến với nhà đầu tư phải được thể hiện bằng hợp đồng hoặc điều khoản của hợp đồng mở tài khoản giao dịch chứng khoán, trong đó quy định cụ thể về phương thức giao dịch chứng khoán trực tuyến, những rủi ro có thể xảy ra khi thực hiện giao dịch chứng khoán trực tuyến theo quy định tại khoản 1 Điều 15 Thông tư này, trách nhiệm bồi thường của mỗi bên khi xảy ra rủi ro và trách nhiệm khác liên quan đến hoạt động giao dịch chứng khoán trực tuyến;\ne) Ghi nhận thông tin về các yêu cầu giao dịch của\nnhà đầu tư trên hệ thống giao dịch chứng khoán trực tuyến. Các thông tin này phải lưu trữ để tra cứu được theo thời gian, phiên đăng nhập, kết quả thực hiện giao dịch, số dư phát sinh trước và sau giao dịch đối với tài khoản của nhà đầu tư;\ng) Thông báo kết quả thực hiện lệnh giao dịch cho\nnhà đầu tư ngay sau khi lệnh được khớp trên hệ thống giao dịch chứng khoán trực tuyến.\n3. Công ty quản lý quỹ, đại lý phân phối chứng chỉ\nquỹ cung cấp dịch vụ giao dịch chứng khoán trực tuyến phải đáp ứng các yêu cầu theo quy định tại điểm a, b, c, đ, e và g khoản 2 Điều này. Điều\n6. Yêu cầu về hạ tầng, kỹ thuật hệ thống giao dịch chứng khoán trực tuyến\n1. Đối với công ty chứng khoán cung cấp dịch vụ giao dịch chứng khoán trực tuyến:\na) Hệ thống giao dịch chứng khoán trực tuyến phải tách biệt về mặt vật lý với\ncác hệ thống kinh doanh khác của công ty để đảm bảo an toàn thông tin mạng, giảm thiểu rủi ro và tránh xung đột giữa các hệ thống;\nb) Trang bị máy chủ chuyên dùng cho hệ thống giao dịch\nchứng khoán trực tuyến, không sử dụng máy tính cá nhân đóng vai trò máy chủ và không sử dụng chung với máy chủ của các đơn vị hoặc công ty khác. Trang thiết bị công nghệ thông tin chuyên dùng cho hệ thống giao dịch chứng khoán trực tuyến phải có dự phòng;\nc) Khu vực đặt hệ thống giao dịch chứng khoán trực tuyến phải bảo đảm các điều kiện an\nninh, môi trường và an toàn hệ thống: Khu vực riêng biệt, có hệ thống khóa từ hoặc thiết bị tương đương kiểm soát vào ra, hệ thống ghi hình; hệ thống báo cháy và chữa cháy chuyên dụng; hệ thống điều hòa không khí, theo dõi kiểm soát nhiệt độ và độ ẩm; hệ thống lưu điện và máy phát điện dự phòng chuyên dụng; hệ thống chống sét lan truyền;\nd) Công ty có thể thuê chỗ đặt hệ thống giao dịch\nchứng khoán trực tuyến tại các trung tâm dữ liệu (Data Center). Các trung tâm dữ liệu này phải đảm bảo tuân thủ theo quy định của pháp luật về hoạt động của Data Center. Hệ thống giao dịch chứng khoán trực tuyến đặt tại Data Center phải có các giải pháp đảm bảo tránh truy cập và khai thác dữ liệu bất hợp pháp;\nđ) Hệ thống giao dịch chứng\nkhoán trực tuyến phải tích hợp giải pháp có sử dụng chứng thư số, chữ ký số của tổ chức cung cấp dịch vụ chứng thực chữ ký số công cộng và các giải pháp xác thực khác (nếu có) theo quy định tại điểm a và điểm c khoản 1 Điều 8 Thông tư này;\ne) Cung cấp phương thức giao dịch\nqua điện thoại phải trang bị hệ thống tổng đài có chức năng ghi âm, quản lý, tra cứu cuộc gọi và có dự phòng. Mọi cuộc gọi đặt lệnh của nhà đầu tư phải được ghi âm lưu trữ đầy đủ và phải đảm bảo an ninh thông tin và bảo mật dữ liệu;\ng) Áp dụng những biện pháp kỹ thuật hoặc quản lý để\nthiết lập các mức giới hạn về mua bán chứng khoán theo quy định của pháp luật cho nhà đầu tư tham gia dịch vụ giao dịch chứng khoán trực tuyến. Các giới hạn này phải được thông báo cho nhà đầu tư trên trang giao dịch chứng khoán trực tuyến và phải có quy trình phê duyệt đối với sự thay đổi các mức giới hạn này.\n2. Đối với công ty quản lý quỹ, đại lý phân phối chứng\nchỉ quỹ cung cấp dịch vụ giao dịch chứng khoán trực tuyến phải đáp ứng các yêu cầu theo quy định tại điểm a, b và e khoản 1 và khoản 3 Điều này.\n3. Sở giao dịch chứng khoán, Trung tâm lưu ký chứng khoán\nViệt Nam, tổ chức cung cấp dịch vụ giao dịch chứng khoán trực tuyến phải có phương án dự phòng cho hệ thống giao dịch chứng khoán trực tuyến và cung cấp phương thức giao dịch thay thế trong trường hợp hệ thống giao dịch chứng khoán trực tuyến gặp sự cố.\nĐiều 7. Quy định về an ninh bảo mật thông tin và lưu trữ dữ liệu của tổ chức cung cấp dịch vụ giao dịch chứng khoán trực tuyến\n1. Trang thông tin điện tử, hệ thống thư điện tử của\ntổ chức cung cấp dịch vụ giao dịch chứng khoán trực tuyến phải được xác thực bởi chứng thư số.\n2. Hệ thống giao dịch chứng khoán trực tuyến phải được thiết lập để ngăn chặn\nviệc truy cập bất hợp pháp vào hệ thống kinh doanh nội bộ thông qua hoạt động giao dịch trực tuyến và phải được phân quyền hệ thống giữa các bộ phận nghiệp vụ có tiềm ẩn xung đột lợi ích theo quy trình kiểm soát nội bộ.\n3. Hệ thống phần mềm ứng dụng trước khi đưa vào khai\nthác, vận hành phải được rà soát, quét lỗ hổng bảo mật và có báo cáo đánh giá bằng biên bản. Môi trường vận hành hệ thống phần mềm giao dịch chứng khoán trực tuyến phải tách biệt với môi trường kiểm thử, môi trường phát triển phần mềm. Định kỳ thực hiện đánh giá rủi ro an toàn thông tin mạng của hệ thống giao dịch chứng khoán trực tuyến một (01) năm một (01) lần.\n4. Hệ thống giao dịch chứng khoán trực tuyến phải có các giải pháp kỹ thuật\nđảm bảo an toàn thông tin mạng và bảo mật dữ liệu hệ thống.\n5. Các chứng từ điện tử, phiếu lệnh điện tử, dữ liệu\nđiện tử và ghi âm các cuộc gọi đặt lệnh của khách hàng, bao gồm cả lệnh hủy phải được lưu trữ ít nhất mười (10) năm ở dạng nguyên bản.\n6. Thông tin về khách hàng sử dụng dịch vụ giao dịch\ntrực tuyến, các lệnh giao dịch và thông tin trao đổi trên hệ thống phải được mã hóa trên đường truyền và ở mức ứng dụng, được bảo mật theo quy định của pháp luật trừ khi có yêu cầu từ cơ quan quản lý nhà nước có thẩm quyền.\nĐiều 8. Quy định về xác thực\n1. Các giải pháp xác thực áp dụng trong giao dịch\nchứng khoán trực tuyến phải có độ an toàn tối thiểu tương đương giải pháp xác thực hai yếu tố trở lên, bao gồm:\na) Giải pháp xác thực hai yếu tố;\nb) Giải pháp xác thực sử dụng chứng thư số;\nc) Các giải pháp xác thực khác được pháp luật cho\nphép và phù hợp với các quy định của cơ quan có thẩm quyền.\n2. Khi đặt lệnh qua điện thoại,\nnhà đầu tư phải sử dụng số điện thoại đặt lệnh và cung cấp tối thiểu các thông tin sau: số tài khoản giao dịch, thông tin xác thực theo quy định tại điểm a khoản 1 Điều này. Giao dịch chỉ được thực hiện khi thông tin nhà đầu tư cung cấp được so khớp với thông tin nhà đầu tư đã đăng ký và lưu trong hệ thống giao dịch chứng khoán trực tuyến.\n3. Nhà đầu tư được lựa chọn giải pháp xác thực do tổ\nchức cung cấp dịch vụ giao dịch chứng khoán trực tuyến cung cấp khi đăng ký sử dụng dịch vụ giao dịch chứng khoán trực tuyến và được đăng ký lại giải pháp xác thực khi có nhu cầu.\nĐiều 9. Quy định về phiếu lệnh điện tử\n1. Phiếu lệnh điện tử phải có tối\nthiểu các thông tin: số hiệu lệnh, loại lệnh, số tài khoản đặt lệnh, phương thức giao dịch, mã chứng khoán hoặc tên chứng khoán, số lượng và giá giao dịch, thời gian giao dịch (năm, tháng, ngày, giờ, phút), thiết bị đặt lệnh, địa chỉ vật lý của thiết bị đặt lệnh hoặc thông tin nhận dạng khác đảm bảo tính duy nhất của thiết bị đặt lệnh.\n2. Phiếu lệnh hủy phải có thông tin về số hiệu lệnh,\nkhối lượng hủy và xác nhận lệnh hủy.\n3. Phiếu lệnh điện tử phải được\nký bằng chữ ký số hoặc gắn liền, kết hợp một cách lô gíc với thông tin xác thực của nhà đầu tư theo quy định tại Điều 8 Thông tư này trước khi được gửi vào hệ thống.\n4. Phiếu lệnh điện tử trong giao dịch chứng chỉ quỹ\nphải đảm bảo đầy đủ các thông tin theo quy định của pháp luật về giao dịch chứng chỉ quỹ và đáp ứng quy định tại khoản 3 Điều này.\nMục 2. ĐĂNG KÝ, THU HỒI CHẤP THUẬN\nCUNG CẤP DỊCH VỤ GIAO DỊCH CHỨNG KHOÁN TRỰC TUYẾN\nĐiều 10. Đối tượng đăng ký cung cấp dịch vụ giao dịch chứng khoán trực tuyến Đối tượng đăng ký cung cấp dịch vụ giao dịch chứng khoán trực tuyến là công ty chứng khoán thành viên của Sở giao dịch chứng khoán, đã thực hiện kết nối với hệ thống giao dịch của Sở giao dịch chứng khoán và không thuộc trường hợp sau:\n1. Đang trong quá trình giải thể, phá sản, tạm ngừng\nhoạt động hoặc bị ngừng giao dịch để chấm dứt tư cách thành viên tại Sở giao dịch chứng khoán.\n2. Bị rút nghiệp vụ môi giới hoặc đang thực hiện thủ\ntục rút nghiệp vụ môi giới.\n3. Bị kiểm soát, kiểm soát đặc biệt.\n4. Các trường hợp bị đình chỉ hoạt động khác theo\nquy định của pháp luật.\nĐiều 11. Hồ sơ đăng ký cung cấp dịch vụ giao dịch chứng khoán trực tuyến Hồ sơ đăng ký cung cấp dịch vụ giao dịch chứng khoán trực tuyến bao gồm:\n1. Đơn đăng ký cung cấp dịch vụ giao dịch chứng khoán trực tuyến theo mẫu quy định tại Phụ lục số 01 ban hành kèm theo Thông tư này.\n2. Danh sách tên và lý lịch của các chuyên gia quản\nlý hệ thống giao dịch chứng khoán trực tuyến theo mẫu quy định tại Phụ lục số 02 ban hành kèm theo Thông tư này.\n3. Báo cáo thiết kế hệ thống giao dịch chứng khoán\ntrực tuyến theo mẫu quy định tại Phụ lục số 03 ban hành kèm theo Thông tư này.\n4. Bản sao có chứng thực văn bản chấp thuận và biên\nbản kiểm tra hệ thống giao dịch chứng khoán trực tuyến của Sở giao dịch chứng khoán đối với thành viên giao dịch.\nĐiều 12. Thủ tục chấp thuận cung cấp dịch vụ giao dịch chứng khoán trực tuyến Công ty chứng khoán lập hồ sơ theo quy định tại Điều 11 Thông tư này và lựa chọn phương thức giải quyết thủ tục với Ủy ban Chứng khoán Nhà nước thông qua hệ thống dịch vụ công trực tuyến của Ủy ban Chứng khoán Nhà nước hoặc nộp hồ sơ trực tiếp hoặc dịch vụ bưu chính công ích.\n1. Trong thời hạn năm (05) ngày làm việc kể từ ngày\nnhận được hồ sơ theo quy định tại Điều 11 Thông tư này, trường hợp hồ sơ cần sửa đổi bổ sung, Ủy ban Chứng khoán Nhà nước có văn bản yêu cầu bổ sung hoặc giải trình bằng văn bản đối với trường hợp hồ sơ chưa hợp lệ.\n2. Trong thời hạn mười (10) ngày làm việc kể từ\nngày nhận được văn bản yêu cầu sửa đổi, bổ sung hồ sơ của Ủy ban Chứng khoán Nhà nước, công ty chứng khoán phải hoàn chỉnh hồ sơ theo yêu cầu gửi Ủy ban Chứng khoán Nhà nước. Sau thời hạn này nếu công ty chứng khoán không bổ sung hồ sơ theo yêu cầu, Ủy ban Chứng khoán Nhà nước có quyền từ chối chấp thuận.\n3. Trong thời hạn hai mươi (20) ngày làm việc, kể từ\nngày nhận được hồ sơ đầy đủ, hợp lệ, Ủy ban Chứng khoán Nhà nước xem xét và quyết định chấp thuận cung cấp dịch vụ giao dịch chứng khoán trực tuyến cho công ty chứng khoán. Trường hợp từ chối, Ủy ban Chứng khoán Nhà nước phải trả lời bằng văn bản và nêu rõ lý do.\nĐiều 13. Thu hồi quyết định chấp thuận, tạm dừng cung cấp dịch vụ giao dịch chứng khoán trực tuyến\n1. Trường hợp công ty chứng khoán bị tạm ngừng hoạt động hoặc bị đình chỉ hoạt\nđộng môi giới chứng khoán hoặc bị đình chỉ toàn bộ hoạt động, công ty chứng khoán phải tạm dừng cung cấp dịch vụ giao dịch chứng khoán trực tuyến cho đến khi khắc phục được các tình trạng này.\n2. Công ty chứng khoán\nbị thu hồi Quyết định chấp thuận cung cấp dịch vụ giao dịch chứng khoán trực tuyến trong các trường hợp sau:\na) Đã đăng ký rút nghiệp vụ môi giới chứng khoán và đã được sự chấp thuận của Ủy ban Chứng\nkhoán Nhà nước;\nb) Bị rút nghiệp vụ môi giới chứng khoán;\nc) Bị chấm dứt tư cách thành viên với các Sở giao dịch\nchứng khoán;\nd) Bị sáp nhập, bị chia, bị hợp nhất;\nđ) Bị giải thể, bị phá sản, thu hồi Giấy phép thành\nlập và hoạt động;\ne) Không duy trì, đáp ứng được các quy định tại khoản\n2 Điều 5, khoản 1 và khoản 3 Điều 6, Điều 7, khoản 1 Điều 8 và khoản 3 Điều 9 Thông tư này;\ng) Hồ sơ đăng ký cung cấp dịch vụ giao dịch chứng khoán trực tuyến có thông tin sai sự thật;\nh) Các trường hợp khác do yêu cầu từ phía cơ quan\nquản lý hoặc do công ty tự nguyện nộp đơn xin ngừng cung cấp dịch vụ giao dịch chứng khoán trực tuyến.\n3. Công ty chứng khoán\nbị thu hồi quyết định chấp thuận cung cấp dịch vụ giao dịch chứng khoán trực tuyến theo quy định tại các điểm b, c, e và g khoản 2 Điều này được đăng ký cung cấp lại dịch vụ giao dịch chứng khoán trực tuyến.\n4. Công ty chứng khoán\nbị thu hồi quyết định chấp thuận cung cấp dịch vụ giao dịch chứng khoán trực tuyến theo quy định tại khoản 2 Điều này phải duy trì và đảm bảo thời gian lưu trữ dữ liệu của hệ thống giao dịch chứng khoán trực tuyến để thực hiện các nghĩa vụ theo quy định của pháp luật.\n5. Trình tự thu hồi quyết định chấp thuận cung cấp\ndịch vụ giao dịch chứng khoán trực tuyến của công ty chứng khoán được thực hiện theo hướng dẫn của Ủy ban Chứng khoán Nhà nước.\nMục 3. BÁO CÁO VÀ CÔNG BỐ THÔNG\nTIN TRONG HOẠT ĐỘNG GIAO DỊCH CHỨNG KHOÁN TRỰC TUYẾN\nĐiều 14. Quy định về báo cáo trong hoạt động giao dịch chứng khoán trực tuyến\n1. Công ty chứng khoán\nđược chấp thuận cung cấp dịch vụ giao dịch chứng khoán trực tuyến phải gửi Ủy ban Chứng khoán Nhà nước các báo cáo sau:\na) Báo cáo năm về hoạt động giao dịch chứng khoán\ntrực tuyến theo mẫu quy định tại Phụ lục số 04 ban hành kèm theo Thông tư này trong vòng ba mươi (30) ngày kể từ ngày kết thúc năm;\nb) Báo cáo kèm theo các tài liệu liên quan khi có\nnâng cấp, thay đổi hệ thống giao dịch chứng khoán trực tuyến: Thay đổi core hệ thống, thay đổi phương thức giao dịch, thay đổi nhân sự công nghệ thông tin, thay đổi địa điểm đặt hệ thống theo mẫu quy định tại Phụ lục số 08 ban hành kèm theo Thông tư này. Thời hạn nộp báo cáo trong vòng bảy (07) ngày làm việc sau khi công ty chứng khoán thực hiện nâng cấp hoặc thay đổi.\n2. Sở giao dịch chứng khoán gửi Ủy ban Chứng khoán\nNhà nước các báo cáo sau:\na) Báo cáo năm về hệ thống giao dịch chứng khoán trực\ntuyến theo mẫu quy định tại Phụ lục số 05 ban hành kèm theo Thông tư này trong vòng ba mươi (30) ngày kể từ ngày kết thúc năm;\nb) Báo cáo về các thay đổi quy định tiêu chuẩn công\nnghệ đối với thành viên giao dịch của Sở giao dịch chứng khoán. Thời hạn báo cáo trong vòng bảy (07) ngày làm việc sau khi có thay đổi.\n3. Trung tâm lưu ký chứng khoán Việt Nam gửi Ủy ban\nChứng khoán Nhà nước báo cáo năm về tình hình giao dịch chứng khoán trực tuyến theo mẫu quy định tại Phụ lục số 06 ban hành kèm theo Thông tư này trong vòng ba mươi (30) ngày kể từ ngày kết thúc năm.\n4. Trong vòng hai mươi bốn (24) giờ kể từ khi xảy\nra các sự cố nghiêm trọng liên quan đến hệ thống giao dịch chứng khoán trực tuyến, Sở giao dịch chứng khoán, Trung tâm lưu ký chứng khoán Việt Nam, công ty chứng khoán phải gửi báo cáo theo mẫu quy định tại Phụ lục số 07 ban hành kèm theo Thông tư này.\n5. Công ty quản lý quỹ, đại lý phân phối chứng chỉ\nquỹ phải báo cáo Ủy ban Chứng khoán Nhà nước tài liệu quy định tại khoản 3 Điều 11 Thông tư này tối thiểu năm (05) ngày làm việc trước ngày triển khai hệ thống giao dịch chứng khoán trực tuyến cho nhà đầu tư; thực hiện báo cáo năm về hoạt động giao dịch chứng khoán trực tuyến theo mẫu quy định tại Phụ lục số 04 ban hành kèm theo Thông tư này trong vòng ba mươi (30) ngày kể từ ngày kết thúc năm.\n6. Báo cáo phải được gửi bằng bản điện tử trên các\nhệ thống trao đổi thông tin điện tử theo hướng dẫn của Ủy ban Chứng khoán Nhà nước.\nĐiều 15. Công bố thông tin trong hoạt động giao dịch chứng khoán trực tuyến\n1. Trang thông tin điện tử chính thức và phần mềm ứng\ndụng phục vụ giao dịch chứng khoán trực tuyến cho nhà đầu tư của công ty chứng khoán, công ty quản lý quỹ, đại lý phân phối chứng chỉ quỹ phải công bố các quy định về dịch vụ giao dịch chứng khoán trực tuyến và những rủi ro có thể xảy ra khi nhà đầu tư thực hiện giao dịch chứng khoán trực tuyến. Các rủi ro bao gồm:\na) Trong khi truyền tải qua mạng internet, lệnh\ngiao dịch có thể bị treo, bị ngừng, bị trì hoãn hoặc có lỗi dữ liệu;\nb) Việc nhận dạng các tổ chức hoặc nhà đầu tư có thể\nkhông chính xác, lỗi về bảo mật có thể xảy ra;\nc) Giá cả thị trường và các thông tin chứng khoán khác có thể có lỗi hoặc sai lệch;\nd) Những rủi ro có thể xảy ra của các phương thức\nxác thực đặt lệnh cho nhà đầu tư;\nđ) Những rủi ro khác mà các cơ quan quản lý nhà nước\ncó thẩm quyền, công ty chứng khoán, công ty quản lý quỹ, đại lý phân phối chứng chỉ quỹ thấy cần thiết phải công bố.\n2. Sở giao dịch chứng khoán công bố trên trang thông tin điện tử của Sở giao dịch chứng\nkhoán quy định pháp luật liên quan đến giao dịch điện tử trên thị trường chứng khoán và các văn bản quy định về hoạt động giao dịch điện tử do Sở giao dịch chứng khoán ban hành.\n3. Trung tâm lưu ký chứng khoán Việt Nam công bố trên trang thông tin điện tử của Trung tâm\nlưu ký chứng khoán Việt Nam danh sách các sản phẩm, dịch vụ giao dịch chứng khoán trực tuyến được phép cung cấp; quy định pháp luật liên quan đến giao dịch điện tử trên thị trường chứng khoán và các văn bản quy định về hoạt động giao dịch điện tử do Trung tâm lưu ký chứng khoán Việt Nam ban hành.\n4. Ủy ban Chứng khoán\nNhà nước đăng tải trên cổng thông tin điện tử Ủy ban Chứng khoán Nhà nước danh sách công ty chứng khoán được phép cung cấp dịch vụ giao dịch chứng khoán trực tuyến, thủ tục, quy định về hồ sơ đăng ký cung cấp dịch vụ giao dịch chứng khoán trực tuyến, danh sách công ty chứng khoán bị thu hồi quyết định chấp thuận cung cấp dịch vụ giao dịch chứng khoán trực tuyến.\nChương III\nHOẠT ĐỘNG TRAO ĐỔI THÔNG TIN ĐIỆN TỬ\nĐiều 16. Quy định về hoạt động trao đổi thông tin điện tử\n1. Nội dung trao đổi thông tin điện tử bao gồm\nthông tin trao đổi qua Internet hoặc mạng riêng liên quan đến các hoạt động sau:\na) Chào bán chứng khoán\nra công chúng, đăng ký chứng khoán, lưu ký chứng khoán, niêm yết, đăng ký giao dịch và giao dịch chứng khoán;\nb) Hoạt động quản lý các tổ chức, cá nhân theo quy định\ntại khoản 2 Điều 2 Thông tư này;\nc) Hoạt động công bố thông tin trên thị trường chứng\nkhoán;\nd) Hoạt động khác liên quan đến thị trường chứng khoán theo quy định của pháp luật chứng khoán.\n2. Tổ chức cung cấp dịch vụ trao đổi thông tin điện\ntử có trách nhiệm:\na) Tạo lập trang thông tin điện tử trên mạng\nInternet đóng vai trò như một cổng vào cho dịch vụ trao đổi thông tin điện tử;\nb) Bảo mật thông tin cho các đối tượng đăng ký sử dụng\ndịch vụ và đảm bảo an toàn thông tin cho hệ thống trao đổi thông tin điện tử;\nc) Ban hành quy chế hướng dẫn về dịch vụ trao đổi\nthông tin điện tử.\n3. Đối tượng tham gia trao đổi thông tin điện tử\nđăng ký sử dụng dịch vụ và thực hiện theo quy chế hướng dẫn của tổ chức cung cấp dịch vụ trao đổi thông tin điện tử.\n4. Việc sử dụng chứng thư số, chữ ký số trong hoạt\nđộng trao đổi thông tin điện tử được thực hiện theo quy định của pháp luật về giao dịch điện tử trong hoạt động tài chính.\nChương IV\nTRÁCH NHIỆM CỦA CÁC CƠ\nQUAN, TỔ CHỨC, CÁ NHÂN THAM GIA HOẠT ĐỘNG GIAO DỊCH ĐIỆN TỬ TRÊN THỊ TRƯỜNG CHỨNG\nKHOÁN\nĐiều\n17. Trách nhiệm của các tổ chức, cá nhân tham gia hoạt động giao dịch điện tử\ntrên thị trường chứng khoán\n1. Tuân thủ quy định trong hoạt động giao dịch chứng\nkhoán và thị trường chứng khoán.\n2. Tuân thủ quy định về bảo vệ thông tin trong hoạt\nđộng giao dịch điện tử và các quy định về an toàn bảo mật, về nhân sự, về hệ thống dữ liệu.\n3. Thực hiện lưu giữ đầy đủ hồ sơ, tài liệu chứng từ\nliên quan đến hoạt động giao dịch chứng khoán trực tuyến của công ty; Lập, xác nhận hồ sơ đăng ký cung cấp dịch vụ giao dịch chứng khoán trực tuyến có thông tin chính xác, thực hiện sửa đổi, bổ sung hồ sơ khi phát hiện thông tin không chính xác và không được bỏ sót nội dung quan trọng theo quy định; Thực hiện lưu giữ thông tin đã báo cáo theo quy định của pháp luật.\n4. Công ty chứng khoán\nkhông được cung cấp dịch vụ giao dịch chứng khoán trực tuyến khi chưa được Ủy ban Chứng khoán Nhà nước chấp thuận hoặc khi quyết định chấp thuận bị thu hồi.\n5. Thực hiện báo cáo đúng thời hạn, báo cáo đầy đủ\nnội dung theo quy định của pháp luật hoặc theo yêu cầu của Ủy ban Chứng khoán Nhà nước.\nĐiều 18. Kiểm tra, giám sát hoạt động giao dịch điện tử trên thị trường chứng khoán\n1. Ủy ban Chứng khoán\nNhà nước có trách nhiệm giám sát, kiểm tra định kỳ hoặc bất thường đối với Sở giao dịch chứng khoán, Trung tâm lưu ký chứng khoán Việt Nam, công ty chứng khoán, công ty quản lý quỹ, đại lý phân phối chứng chỉ quỹ và các tổ chức, cá nhân khác về thực hiện giao dịch điện tử trên thị trường chứng khoán theo quy định hoặc khi xảy ra sự cố ảnh hưởng đến quyền lợi của nhà đầu tư và sự an toàn của thị trường chứng khoán.\n2. Sở giao dịch chứng khoán, Trung tâm lưu ký chứng khoán\nViệt Nam có trách nhiệm phối hợp giám sát hoạt động giao dịch chứng khoán trực tuyến của tổ chức cung cấp dịch vụ giao dịch chứng khoán trực tuyến và các tổ chức, cá nhân có liên quan theo yêu cầu của Ủy ban Chứng khoán Nhà nước.\n3. Tổ chức, cá nhân tham gia giao dịch điện tử trên\nthị trường chứng khoán có trách nhiệm cung cấp đầy đủ, kịp thời thông tin, dữ liệu và các tài liệu liên quan đến hoạt động giao dịch điện tử khi có yêu cầu của cơ quan có thẩm quyền.\nChương V\nĐIỀU KHOẢN THI HÀNH\nĐiều\n19. Hiệu lực thi hành\nThông tư này có hiệu lực thi hành kể từ ngày 01 tháng 03 năm 2018 và thay thế Thông tư số 87/2013/TT-BTC ngày 28 tháng 6 năm 2013 của Bộ trưởng Bộ Tài chính hướng dẫn giao dịch điện tử trên thị trường chứng khoán.\nĐiều 20. Tổ chức thực hiện\n1. Trong vòng sáu (06) tháng kể từ ngày Thông tư\nnày có hiệu lực thi hành, các công ty chứng khoán đã được Ủy ban Chứng khoán Nhà nước chấp thuận cung cấp dịch vụ giao dịch chứng khoán trực tuyến trước ngày Thông tư này có hiệu lực thi hành có trách nhiệm hoàn thiện hệ thống giao dịch chứng khoán trực tuyến, đảm bảo đáp ứng yêu cầu về dịch vụ, hạ tầng kỹ thuật, an ninh bảo mật, yêu cầu về xác thực và lưu trữ dữ liệu theo quy định của Thông tư này.\n2. Ủy ban Chứng khoán\nNhà nước hướng dẫn, ban hành tiêu chuẩn kỹ thuật về ứng dụng công nghệ thông tin trong giao dịch điện tử trên thị trường chứng khoán.\n3. Ủy ban Chứng khoán\nNhà nước, Sở giao dịch chứng khoán, Trung tâm lưu ký chứng khoán Việt Nam và các tổ chức, cá nhân tham gia giao dịch điện tử trên thị trường chứng khoán chịu trách nhiệm thi hành Thông tư này./.\nNơi nhận:\n- Thủ tướng Chính phủ, các Phó thủ tướng\nChính phủ;\n- Văn phòng Quốc hội;\n- Văn phòng Tổng Bí thư;\n- Văn phòng Chính phủ;\n- Văn phòng Trung ương và các Ban của Đảng;\n- Văn phòng Chủ tịch nước;\n- Văn phòng Ban chỉ đạo TW về phòng chống tham nhũng;\n- Viện Kiểm sát nhân dân tối cao;\n- Tòa án nhân dân tối cao;\n- Kiểm toán Nhà nước;\n- Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ;\n- HĐND, UBND các tỉnh, thành phố trực thuộc TW;\n- Cơ quan Trung ương của các đoàn thể;\n- Công báo;\n- Cục kiểm tra văn bản - Bộ Tư pháp;\n- Các đơn vị thuộc Bộ Tài chính;\n- Website Chính phủ;\n- Website Bộ Tài chính;\n- Các Sở GDCK, TTLKCK;\n- Lưu: VT, UBCK (400).\nKT. BỘ TRƯỞNG\nTHỨ TRƯỞNG\nTrần Xuân Hà\nPhụ lục số 01. Mẫu đơn\nđăng ký cung cấp dịch vụ giao dịch chứng khoán trực tuyến (Ban hành kèm theo Thông tư số 134/2017/TT-BTC ngày 19 tháng 12 năm 2017 của Bộ trưởng Bộ Tài chính hướng dẫn giao dịch điện tử trên thị trường chứng khoán)\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc --------------- … …, ngày... tháng ... năm ...\nĐƠN ĐĂNG KÝ CUNG\nCẤP DỊCH VỤ GIAO DỊCH CHỨNG KHOÁN TRỰC TUYẾN\nKính gửi: Ủy ban Chứng khoán Nhà nước Tên đầy đủ của công ty (ghi bằng chữ in hoa): ................................................................... Tên viết tắt: .......................................................................................................................... Được thành lập theo Giấy phép thành lập và hoạt động số... ngày... do Ủy ban Chứng khoán Nhà nước cấp, đăng ký cung cấp dịch vụ giao dịch chứng khoán trực tuyến cho khách hàng. I. Các thông tin chung:\n1. Địa điểm:\n1.1. Trụ sở chính: - Địa chỉ: .............................................................................................................................. - Điện thoại: …………………………………………Fax:........................................................ - Website:…………………………………………….Email:.................................................... - Địa chỉ trang thông tin điện tử để truy nhập vào dịch vụ giao dịch chứng khoán trực tuyến của công ty: …………………………………………………………… 1.2. Các chi nhánh, phòng giao dịch: - Chi nhánh 1, Phòng giao dịch 1/Văn phòng đại diện 1: Tên, địa chỉ, điện thoại, Fax. - Chi nhánh 2, Phòng giao dịch 2/Văn phòng đại diện 2: Tên, địa chỉ, điện thoại, Fax...\n2. Các nghiệp vụ kinh doanh đã được cấp phép:\nMôi giới chứng khoán □ Tự doanh chứng khoán □ Bảo lãnh phát hành chứng khoán □ Tư vấn đầu tư chứng khoán □ Lưu ký chứng khoán □ Nghiệp vụ khác: .................................................................................................................. II. Phương thức giao dịch chứng khoán trực tuyến:\n1. Giao dịch qua Internet\n□\n2. Giao dịch qua điện thoại\n□\n3. Phương thức khác (ghi cụ thể phương thức, nếu có):\n.................................................... Chúng tôi xin cam đoan những lời khai trên đây là chính xác, trung thực và cam kết tuân thủ đầy đủ các quy định pháp luật về chứng khoán và thị trường chứng khoán, giao dịch điện tử. Nếu vi phạm chúng tôi xin hoàn toàn chịu trách nhiệm. Người đại diện theo pháp luật (Ký, đóng dấu, ghi rõ họ tên)\nPhụ lục số 02. Danh sách\ntên và lý lịch của các chuyên gia quản lý hệ thống giao dịch chứng khoán trực tuyến (Ban hành kèm theo Thông tư số 134/2017/TT-BTC ngày 19 tháng 12 năm 2017 của Bộ trưởng Bộ Tài chính hướng dẫn giao dịch điện tử trên thị trường chứng khoán)\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc --------------- … …, ngày... tháng ... năm ...\nDANH SÁCH ĐỘI NGŨ\nNHÂN VIÊN CHUYÊN MÔN VỀ CÔNG NGHỆ THÔNG TIN QUẢN LÝ HỆ THỐNG DỊCH VỤ GIAO DỊCH\nCHỨNG KHOÁN TRỰC TUYẾN STT\nHọ và tên Văn bằng, chứng chỉ Vị trí công việc đảm nhận Văn bằng(1) Chứng chỉ(2) 1 2 …. Ghi chú: (1) Văn bằng (tốt nghiệp cao đẳng trở lên): Tiến sỹ, Thạc sỹ, Cử nhân, Kỹ sư,... (2) Chứng chỉ: Chứng chỉ chuyên môn liên quan đến công nghệ thông tin. Chúng tôi cam đoan hoàn toàn chịu trách nhiệm về tính chính xác, trung thực những nội dung trên. Người đại diện theo pháp luật (Ký, đóng dấu, ghi rõ họ tên)\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc ---------------\nLÝ LỊCH CHUYÊN GIA CÔNG NGHỆ THÔNG TIN\n1) Họ và tên: Giới tính: nam/nữ; Ảnh chân dung 4x6 2) Ngày, tháng, năm sinh: ……………… Nơi sinh:…………… 3) Quốc tịch: 4) Số chứng minh thư nhân dân/hộ chiếu (hoặc mã số định danh cá nhân): …………… ngày cấp ………. nơi cấp …… ngày giá trị hiệu lực (đối với hộ chiếu) ………….. 5) Nơi đăng ký hộ khẩu thường trú: số nhà …… phường/xã.... quận/huyện ………… tỉnh/thành phố.... 6) Chỗ ở hiện tại: 7) Trình độ văn hóa: 8) Trình độ chuyên môn cao nhất: 9) Quá trình học tập, đào tạo chuyên môn liên quan đến công nghệ thông tin(1): Từ tháng, năm đến tháng, năm Chuyên ngành đào tạo, bồi dưỡng Hình thức đào tạo(2) Văn bằng, chứng chỉ Tên cơ sở đào tạo Văn bằng(3) Chứng chỉ(4) 10) Kinh nghiệm làm việc (liệt kê tất cả các công việc, dự án, sản phẩm đã tham gia phát triển, xây dựng) Từ tháng, năm đến tháng, năm Tên công ty/dự án/sản phẩm đã làm hoặc tham gia Vị trí công việc có liên quan Tôi cam kết và chịu trách nhiệm về tính chính xác, trung thực các nội dung nói trên. Xác nhận của đơn vị công tác Người khai (Ký, ghi rõ họ tên) Ghi chú: (1) Tài liệu gửi kèm: Bằng tốt nghiệp, các chứng chỉ liên quan (bản sao có xác nhận sao y bản chính của đơn vị công tác, kèm theo bản dịch tiếng Việt nếu là văn bằng, chứng chỉ nước ngoài). Lĩnh vực chuyên môn liên quan đến công nghệ thông tin bao gồm: khoa học máy tính và thông tin, hệ điều hành, hệ thống mạng máy tính, truyền thông dữ liệu và an toàn hệ thống, công nghệ thông tin và ứng dụng,... (2) Hình thức đào tạo: Chính quy, tại chức, chuyên tu, bồi dưỡng, .... (3) Văn bằng (tốt nghiệp cao đẳng trở lên): Tiến sỹ, Thạc sỹ, Cử nhân, Kỹ sư,... (4) Chứng chỉ: Chứng chỉ chuyên môn liên quan đến công nghệ thông tin.\nPhụ lục số 03. Báo cáo thiết\nkế hệ thống giao dịch chứng khoán trực tuyến (Ban hành kèm theo Thông tư số 134/2017/TT-BTC ngày 19 tháng 12 năm 2017 của Bộ trưởng Bộ Tài chính hướng dẫn giao dịch điện tử trên thị trường chứng khoán)\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc --------------- ..., ngày... tháng... năm...\nBÁO CÁO THIẾT KẾ\nHỆ THỐNG GIAO DỊCH CHỨNG KHOÁN TRỰC TUYẾN\nKính gửi: Ủy ban Chứng khoán Nhà nước Chúng tôi thay mặt các cổ đông sáng lập (hoặc các thành viên sáng lập, chủ sở hữu công ty) báo cáo thiết kế hệ thống giao dịch chứng khoán trực tuyến (GDTT) cho [Tên Công ty (1)] như sau:\n1. Tổng quan về hệ thống giao dịch chứng khoán trực tuyến (GDTT)\n1.1. Mô tả sơ lược quy trình hoạt động của hệ thống GDTT của [Công ty] 1.2. Các quy trình giao dịch chứng khoán trực tuyến tại công ty - Mô tả quy trình giao dịch chứng khoán qua Internet; - Mô tả quy trình giao dịch chứng khoán qua điện thoại; - Mô tả quy trình giao dịch chứng khoán trực tuyến qua các phương thức khác. (Đính kèm các quy trình thực hiện dịch vụ giao dịch chứng khoán trực tuyến đã ban hành của Công ty). 1.3. Địa điểm đặt hệ thống GDTT:\n2. Giải pháp xây dựng cơ sở hạ tầng hệ thống\nGDTT\n2.1 Giải pháp xây dựng hệ thống - Kiến trúc hệ thống mạng: + Kiến trúc và mô hình tổng thể hệ thống mạng của công ty; + Kiến trúc và mô hình hệ thống mạng GDTT kèm theo các thuyết minh chi tiết. - Hệ thống máy chủ: Cách bố trí, cấu hình hệ thống máy chủ đảm bảo tính bảo mật, tính dự phòng, sẵn sàng của hệ thống GDTT.\nSTT\nTên máy chủ Số lượng Mô tả chức năng Nhà cung cấp 1 .... - Đường truyền mạng: Cách bố trí, cấu hình đường truyền, số lượng đường truyền và dung lượng đường truyền để duy trì sự liên tục của hệ thống.\nSTT\nTên đường truyền Mô tả chức năng Nhà cung cấp 1 2 .... - Thiết bị hệ thống mạng và hệ thống phụ trợ liên quan đến hệ thống GDTT. Việc bố trí hệ thống và thiết bị dự phòng. Cách thiết lập hệ thống để khắc phục các tình huống sự cố xảy ra và các quy trình xử lý liên quan.\nSTT\nTên thiết bị Số lượng Mô tả chức năng Nhà cung cấp 1 2 .... - Hệ thống tổng đài điện thoại: mô tả hệ thống tổng đài (tên hệ thống tổng đài, tên máy chủ cài đặt, tên phần mềm giao dịch qua điện thoại, tên đường truyền tổng đài điện thoại), số lượng, tên nhà cung cấp.\nSTT\nMô tả hệ thống tổng đài điện thoại Số lượng Mô tả chức năng Nhà cung cấp 1 2 .... 2.2 Giải pháp an ninh bảo mật của hệ thống - Giải pháp an ninh bảo mật cho hệ thống GDTT: + Thiết bị an ninh bảo mật và mô tả cách thức tổ chức hệ thống để đảm bảo an toàn bảo mật. + Mô tả hệ thống phần mềm bảo mật, cấu hình và giải pháp bảo mật cơ sở dữ liệu. - Giải pháp an ninh bảo mật cho website giao dịch trực tuyến: Xác thực website, mã hóa thông tin giao dịch trên đường truyền, chống đột nhập, giả mạo qua giao diện Web... - Quy định chính sách về an ninh bảo mật: Các chính sách được thiết lập trên hệ thống; Chính sách quy định trong nội bộ công ty và giữa công ty với khách hàng; Giải pháp kiểm soát an ninh phòng máy chủ; Đánh giá rủi ro an toàn thông tin mạng của hệ thống\nGDTT.\n- Giải pháp xác thực trong giao dịch chứng khoán trực tuyến: + Mô tả các giải pháp xác thực lệnh đối với mỗi phương thức đặt lệnh (Internet, điện thoại,...) do công ty sử dụng. + Giải pháp xác thực sử dụng chứng thư số: Tên nhà cung cấp chứng thư số, số lượng chứng thư số được cung cấp và sử dụng, nội dung áp dụng chứng thư số. + Xác thực hai yếu tố: Tên giải pháp (SMS, Matrix, OTP,..), nhà cung cấp giải pháp; + Giải pháp xác thực khác (nếu có):\n3. Giải pháp xây dựng phần mềm GDTT\n- Thông tin về nhà cung cấp phần mềm, tên đầy đủ và tên viết tắt của phần mềm. - Công nghệ phát triển, nền tảng cơ sở dữ liệu, hệ điều hành được lựa chọn. - Các chức năng chính của phần mềm. - Các giải pháp bảo mật của phần mềm: Bao gồm quản trị hệ thống, phân quyền, việc kiểm soát vào ra hệ thống, khả năng cho phép tích hợp các giải pháp an ninh bảo mật của các hãng khác. (Đính kèm báo cáo hoặc biên bản đánh giá hệ thống phần mềm GDTT).\n4. Kế hoạch dự phòng, kiểm soát rủi ro hệ thống\n- Giải pháp dự phòng dữ liệu: Bao gồm cách bố trí, thiết lập cấu hình; các giải pháp lưu trữ, sao lưu dữ liệu và quy trình khôi phục dữ liệu. - Giải pháp thiết kế dự phòng cho hệ thống GDTT: Phương án, cách thiết lập, cấu hình hệ thống dự phòng (bao gồm: Dự phòng cho hệ thống máy chủ; Dự phòng hệ thống mạng, đường truyền; Dự phòng hệ thống tổng đài điện thoại; Dự phòng hệ thống giao dịch; Dự phòng về nhân sự quản lý hệ thống\nGDTT).\n- Giải pháp hệ thống điện dự phòng: Hệ thống UPS, Hệ thống máy phát điện dự phòng. Cách tổ chức, bố trí thiết lập khi có các tình huống xấu xảy ra. - Giải pháp hệ thống chống sét (chống sét lan truyền, chống sét phòng máy chủ,..), hệ thống làm mát, hệ thống kiểm soát an ninh phòng máy chủ, hệ thống phòng cháy chữa cháy,.. - Kế hoạch bảo trì, bảo dưỡng định kỳ hệ thống\nGDTT.\nChúng tôi cam kết chịu trách nhiệm hoàn toàn về tính chính xác, trung thực những nội dung trên. Người đại diện theo pháp luật (Ký, đóng dấu, ghi rõ họ tên) Ghi chú: (1) Công ty: Công ty chứng khoán đối với trường hợp là Báo cáo của Công ty chứng khoán; Công ty Quản lý quỹ đối với trường hợp là Báo cáo của Công ty Quản lý quỹ; Đại lý phân phối chứng chỉ quỹ đối với trường hợp là Báo cáo của Đại lý phân phối chứng chỉ quỹ.\nPhụ lục số 04. Báo cáo hoạt\nđộng giao dịch chứng khoán trực tuyến năm của công ty chứng khoán/công ty quản lý quỹ/đại lý phân phối chứng chỉ quỹ (Ban hành kèm theo Thông tư số 134/2017/TT-BTC ngày 19 tháng 12 năm 2017 của Bộ trưởng Bộ Tài chính hướng dẫn giao dịch điện tử trên thị trường chứng khoán)\nCÔNG TY....\n-------\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc --------------- Số:\n/BCGDTT\n...., ngày... tháng... năm...\nBÁO CÁO HOẠT ĐỘNG\nGIAO DỊCH CHỨNG KHOÁN TRỰC TUYẾN\nNĂM...\n(Tính từ thời điểm ngày 01/01 đến hết ngày 31/12 của năm báo cáo) Kính gửi: Ủy ban Chứng khoán Nhà nước\n1. Phương thức giao dịch chứng khoán trực tuyến cung cấp cho khách hàng:\n1.1. Giao dịch qua internet □ 1.2. Giao dịch qua điện thoại □ 1.3. Phương thức khác (ghi cụ thể phương thức, nếu có):................................................\n2. Giải pháp xác thực:\n- Chứng thư số □ - Hai yếu tố □ (Thẻ ma trận, Token key, Smart OTP,...) - Xác thực khác □ (Mô tả rõ phương thức xác thực)\n3. Báo cáo chi tiết tình hình giao dịch chứng khoán trực tuyến trong năm\nTổng số lượng tài khoản: ……………………………….., Tổng số tài khoản đăng ký giao dịch chứng khoán trực tuyến:……. 3.1. Các phương thức giao dịch được áp dụng trong giao dịch chứng khoán trực tuyến\nSTT\nPhương thức giao dịch Tổng số tài khoản đăng ký Tổng số tài khoản giao dịch thực tế Tổng số lệnh giao dịch Tổng số lệnh khớp Tổng khối lượng giao dịch Tổng giá trị giao dịch 1 Qua internet 2 Qua điện thoại 3 Phương thức giao dịch khác (nếu có)\nTỔNG:\n3.2. Các giải pháp xác thực trong giao dịch chứng khoán trực tuyến\nSTT\nGiải pháp xác thực Tổng số tài khoản đăng ký Tổng số tài khoản giao dịch thực tế Tổng số lệnh giao dịch Tổng số lệnh khớp Tổng khối lượng giao dịch Tổng giá trị giao dịch 1 Chứng thư số 2 Xác thực hai yếu tố 3 Phương thức xác thực khác (nếu có)\nTỔNG:\n4. Báo cáo những thay đổi hệ thống giao dịch chứng\nkhoán trực tuyến 4.1. Hệ thống, trang thiết bị\nSTT\nTên thiết bị Số lượng Chức năng Nhà cung cấp Nâng cấp (1) Thay mới (2) Máy chủ Thiết bị mạng Hệ thống tổng đài Thiết bị lưu điện Hệ thống chống sét Hệ thống phụ trợ khác (nếu có) 4.2. Đường truyền\nSTT\nTên đường truyền Chức năng Nhà cung cấp Nâng cấp(1) Thay mới(1) 1 2 .... 4.3. Hệ thống phần mềm\nSTT\nTên phần mềm Chức năng Nhà cung cấp Nâng cấp (1) Thay mới(1) 1 Phần mềm giao dịch chứng khoán trực tuyến 2 Hệ điều hành 3 Cơ sở dữ liệu 4 Phần mềm khác (nếu có) 4.4. Chứng thư số\nSTT\nTên nhà cung cấp Số lượng Nội dung áp dụng 1 2 ...\n5. Báo cáo về đội ngũ tin học vận hành hệ thống\nSTT\nHọ và tên Chuyên ngành đào tạo, bồi dưỡng(2) Văn bằng, chứng chỉ Tên cơ sở đào tạo Vị trí công việc(5) Văn bằng(3) Chứng chỉ(4) 1 2 ... Ghi chú: (1) Đánh dấu “X” nếu có nâng cấp hoặc thay mới hệ thống. (2) Chuyên ngành đào tạo, bồi dưỡng liên quan đến công nghệ thông tin bao gồm: khoa học máy tính và thông tin, hệ điều hành, hệ thống mạng máy tính, truyền thông dữ liệu và an toàn hệ thống, công nghệ thông tin và ứng dụng,... (3) Văn bằng (tốt nghiệp cao đẳng trở lên): Tiến sỹ, Thạc sỹ, Cử nhân, Kỹ sư,... (4) Chứng chỉ: Chứng chỉ chuyên môn liên quan đến công nghệ thông tin. (5) Vị trí công việc: quản trị phần mềm, quản trị hệ thống, an ninh thông tin,... (Gửi kèm bản sao có xác nhận bằng cấp, chứng chỉ chuyên môn của nhân viên mới) _______________________________________________________________________ Thông tin về người lập báo cáo Họ và tên: ............................................................................................................................ Địa chỉ Email: ………………………………………Điện thoại di động:.................................. Người đại diện theo pháp luật (Ký, đóng dấu, ghi rõ họ tên)\nPhụ lục số 05. Báo cáo hệ\nthống giao dịch chứng khoán trực tuyến năm của Sở GDCK (Ban hành kèm theo Thông tư số 134/2017/TT-BTC ngày 19 tháng 12 năm 2017 của Bộ trưởng Bộ Tài chính hướng dẫn giao dịch điện tử trên thị trường chứng khoán)\nBỘ TÀI CHÍNH SỞ GIAO DỊCH CHỨNG KHOÁN\n-------\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc --------------- Số:\n/SGDCK…..\n…….., ngày ….. tháng ……. năm……\nBÁO CÁO TÌNH HÌNH\nGIAO DỊCH CHỨNG KHOÁN TRỰC TUYẾN\nNĂM....\n(Tính từ thời điểm ngày 01/01 đến hết ngày 31/12 của năm báo cáo) Kính gửi: Ủy ban Chứng khoán Nhà nước\n1. Các văn bản quy định liên quan đến hoạt động\ngiao dịch chứng khoán trực tuyến do Sở GDCK ban hành\nSTT\nTên văn bản Số văn bản Ngày ban hành 1 2 ... Đính kèm các quy trình mới ban hành trong năm báo cáo (nếu có).\n2. Tình hình giao dịch chứng khoán trực tuyến trong năm\nLoại chứng khoán Tổng số lượng chứng khoán giao dịch Tổng giá trị giao dịch Tổng số lượng lệnh giao dịch Cổ phiếu Trái phiếu Chứng chỉ quỹ Chứng khoán phái sinh\n3. Thành viên kết nối\nBiểu 1: Thống kê thành viên giao dịch Thị trường Số thành viên đầu kỳ Số thành viên được chấp thuận trong năm Số thành viên bị hủy bỏ tư cách Số thành viên cuối kỳ Niêm yết Upcom Biểu 2: Hoạt động chấp thuận tư cách thành viên Thị trường Tên Thành viên Ngày chấp thuận Niêm yết Upcom Biểu 3: Hoạt động hủy bỏ tư cách thành viên Thị trường Tên Thành viên Ngày hủy bỏ Niêm yết Upcom Biểu 4: Danh sách thành viên hiện tại Thị trường Tên Thành viên Ghi chú Niêm yết Upcom\n4. Báo cáo hệ thống giao dịch chứng khoán trực tuyến\n4.1. Hệ thống, trang thiết bị\nSTT\nTên thiết bị Số lượng Chức năng Nhà cung cấp Nâng cấp(1) Thay mới(1) Máy chủ Thiết bị mạng Hệ thống bảo mật Thiết bị lưu điện Hệ thống chống sét Hệ thống phụ trợ khác (nếu có) 4.2. Đường truyền\nSTT\nTên đường truyền Chức năng Nhà cung cấp 1 2 .... 4.3. Hệ thống phần mềm\nSTT\nTên phần mềm Chức năng Nhà cung cấp Nâng cấp (1) Thay đổi (1) 1 Phần mềm giao dịch chứng khoán trực tuyến 2 Hệ điều hành 3 Cơ sở dữ liệu … Các phần mềm khác (nếu có)\n5. Danh sách đội ngũ nhân viên công nghệ thông tin\nSTT\nHọ và tên Chuyên ngành đào tạo, bồi dưỡng(2) Văn bằng, chứng chỉ Tên cơ sở đào tạo Vị trí công việc(5) Văn bằng(3) Chứng chỉ(4) 1 2 ... Ghi chú: (1) Đánh dấu “X” nếu có nâng cấp hoặc thay đổi hệ thống. (2) Chuyên ngành đào tạo, bồi dưỡng liên quan đến công nghệ thông tin bao gồm: khoa học máy tính và thông tin, hệ điều hành, hệ thống mạng máy tính, truyền thông dữ liệu và an toàn hệ thống, công nghệ thông tin và ứng dụng,... (3) Văn bằng (tốt nghiệp cao đẳng trở lên): Tiến sỹ, Thạc sỹ, Cử nhân, Kỹ sư,... (4) Chứng chỉ: Chứng chỉ chuyên môn liên quan đến công nghệ thông tin. (5) Vị trí công việc: quản trị phần mềm, quản trị hệ thống, an ninh thông tin,... _______________________________________________________________________ Thông tin của người lập báo cáo: Họ và tên: ............................................................................................................................ Điện thoại: ………………………………………Email:...........................................................\nTỔNG GIÁM ĐỐC\n(Ký tên, đóng dấu, ghi rõ họ tên)\nPhụ lục số 06. Báo cáo\ntình hình giao dịch chứng khoán trực tuyến năm của Trung tâm lưu ký chứng khoán Việt Nam (Ban hành kèm theo Thông tư số 134/2017/TT-BTC ngày 19 tháng 12 năm 2017 của Bộ trưởng Bộ Tài chính hướng dẫn giao dịch điện tử trên thị trường chứng khoán)\nBỘ TÀI CHÍNH\nTRUNG TÂM LƯU KÝ CHỨNG KHOÁN\n-------\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc --------------- Số:\n/TTLK\n………, ngày ….. tháng …… năm ………\nBÁO CÁO TÌNH HÌNH\nGIAO DỊCH CHỨNG KHOÁN TRỰC TUYẾN\nNĂM...\n(Tính từ thời điểm ngày 01/01 đến hết ngày 31/12 của năm báo cáo) Kính gửi: Ủy ban Chứng khoán Nhà nước\n1. Các văn bản quy định liên quan đến hoạt động\ngiao dịch chứng khoán trực tuyến do TTLK ban hành\nSTT\nTên văn bản Số văn bản Ngày ban hành 1 2 ... Đính kèm các quy trình mới ban hành trong năm báo cáo (nếu có).\n2. Tình hình cung cấp dịch vụ giao dịch chứng khoán trực tuyến\n2.1. Tài khoản khách hàng Tổng số tài khoản khách hàng đăng ký Tổng giá trị giao dịch Tổng số lượng lệnh giao dịch 2.2. Tình hình cung cấp dịch vụ giao dịch chứng khoán trực tuyến cho thành viên\nSTT\nTên dịch vụ Số lượng thành viên đăng ký Số lượng thành viên sử dụng dịch vụ\n3. Quản lý thành viên lưu ký\n3.1. Thành viên Lưu ký Biểu 1: Thống kê thành viên lưu ký Số thành viên đầu kỳ Số thành viên được chấp thuận trong năm Số thành viên bị hủy bỏ tư cách Số thành viên cuối kỳ Biểu 2: Hoạt động chấp thuận tư cách thành viên\nSTT\nTên Thành viên Ngày chấp thuận Biểu 3: Hoạt động hủy bỏ tư cách thành viên\nSTT\nTên Thành viên Ngày hủy bỏ Biểu 4: Danh sách thành viên hiện tại\nSTT\nTên Thành viên Ghi chú 3.2. Thành viên Bù trừ Biểu 1: Thống kê thành viên bù trừ Số thành viên đầu kỳ Số thành viên được chấp thuận trong năm Số thành viên bị hủy bỏ tư cách Số thành viên cuối kỳ Biểu 2: Hoạt động chấp thuận tư cách thành viên\nSTT\nTên Thành viên Ngày chấp thuận Biểu 3: Hoạt động hủy bỏ tư cách thành viên\nSTT\nTên Thành viên Ngày hủy bỏ Biểu 4: Danh sách thành viên hiện tại\nSTT\nTên Thành viên Ghi chú\n4. Báo cáo các thay đổi của hệ thống\n4.1. Hệ thống, thiết bị phần cứng\nSTT\nTên thiết bị Số lượng Chức năng Nhà cung cấp Nâng cấp(1) Thay mới(1) Máy chủ Thiết bị mạng Hệ thống tổng đài Thiết bị lưu điện Hệ thống chống sét Hệ thống phụ trợ khác (nếu có) 4.2. Đường truyền\nSTT\nTên đường truyền Chức năng Nhà cung cấp 1 2 .... 4.3. Hệ thống phần mềm\nSTT\nTên phần mềm Chức năng Nhà cung cấp Nâng cấp (1) Thay đổi(1) 1 Phần mềm giao dịch chứng khoán trực tuyến 2 Hệ điều hành 3 Cơ sở dữ liệu .... Các phần mềm khác (nếu có) 4.4. Chứng thư số\nSTT\nTên nhà cung cấp Số lượng Phạm vi áp dụng 1 2 ...\n5. Danh sách đội ngũ nhân viên công nghệ thông tin\nSTT\nHọ và tên Chuyên ngành đào tạo, bồi dưỡng(2) Văn bằng, chứng chỉ Tên cơ sở đào tạo Vị trí công việc(5) Văn bằng(3) Chứng chỉ(4) 1 2 … Ghi chú: (1) Đánh dấu “X” nếu có nâng cấp/thay đổi hệ thống. (2) Chuyên ngành đào tạo, bồi dưỡng liên quan đến công nghệ thông tin bao gồm: khoa học máy tính và thông tin, hệ điều hành, hệ thống mạng máy tính, truyền thông dữ liệu và an toàn hệ thống, công nghệ thông tin và ứng dụng,... (3) Văn bằng (tốt nghiệp cao đẳng trở lên): TSKH, TS, Ths, Cử nhân, Kỹ sư,... (4) Chứng chỉ: Chứng chỉ chuyên môn liên quan đến công nghệ thông tin. (5) Vị trí công việc: quản trị phần mềm, quản trị hệ thống, an ninh thông tin,... (Gửi kèm bản sao có xác nhận bằng cấp, chứng chỉ chuyên môn của nhân viên mới). ______________________________________________________________________ Thông tin của người lập báo cáo: Họ và tên: .......................................................................................................................... Điện thoại: ……………………………………….Email:........................................................\nTỔNG GIÁM ĐỐC\n(Ký tên, đóng dấu, ghi rõ họ tên)\nPhụ lục số 07. Báo cáo sự\ncố giao dịch chứng khoán trực tuyến\n(Ban hành kèm theo\nThông tư số 134/2017/TT-BTC ngày 19 tháng 12 năm 2017 của Bộ trưởng Bộ Tài chính hướng dẫn giao dịch điện tử trên thị trường chứng khoán)\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc --------------- ..., ngày... tháng... năm...\nBÁO CÁO SỰ CỐ\nGIAO DỊCH CHỨNG KHOÁN TRỰC TUYẾN\nKính gửi: Ủy ban Chứng khoán Nhà nước Tên (Tổ chức kinh doanh chứng khoán, Sở GDCK, Trung tâm LKCK): ............................. Thông tin người phụ trách GDTT: ....................................................................................... Họ và tên: ............................................................................................................................ Địa chỉ Email: ……………………………………Điện thoại: .................................................. Báo cáo sự cố giao dịch chứng khoán trực tuyến như sau:\n1. Thời gian, địa điểm phát sinh sự cố:.................................................................................\n2. Mô tả sơ bộ về sự cố, tình trạng khi xảy ra sự cố:\n..........................................................\n3. Nguyên nhân sự cố:\n........................................................................................................\n4. Đánh giá rủi ro, ảnh hưởng đối với thị trường,\nkhách hàng, hệ thống GDTT và các hệ thống khác có liên quan:\n5. Tình hình thiệt hại:\n...........................................................................................................\n6. Các biện pháp đã thực hiện để khắc phục sự cố,\nngăn chặn và phòng ngừa rủi ro: .......\n7. Kết quả khắc\nphục sự cố: .................................................................................................\n8. Kiến nghị, đề xuất (nếu có):\n..............................................................................................\nTỔNG GIÁM ĐỐC\n(Ký tên, đóng dấu, ghi rõ họ tên)\nPhụ lục số 08. Báo cáo\nnâng cấp, thay đổi hệ thống giao dịch chứng khoán trực tuyến của công ty chứng khoán (Ban hành kèm theo Thông tư số 134/2017/TT-BTC ngày 19 tháng 12 năm 2017 của Bộ trưởng Bộ Tài chính hướng dẫn giao dịch điện tử trên thị trường chứng khoán)\nCÔNG TY CHỨNG KHOÁN …..\n-------\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc --------------- Số:\n/BCGDTT\n……, ngày … tháng … năm …\nBÁO CÁO NÂNG CẤP,\nTHAY ĐỔI HỆ THỐNG GIAO DỊCH CHỨNG KHOÁN TRỰC TUYẾN\nKính gửi: Ủy ban Chứng khoán Nhà nước Công ty ………….. xin báo cáo các thay đổi nâng cấp liên quan đến hệ thống giao dịch chứng khoán trực tuyến của công ty như sau:\n1. Hệ thống Core giao dịch chứng khoán trực tuyến (khi có nâng cấp, thay đổi):\n- Mô tả mô hình hệ thống Core kèm thuyết minh chi tiết hệ thống; - Mô tả các nội dung nâng cấp, thay đổi hệ thống Core chứng khoán của công ty: bao gồm máy chủ, các thiết bị mạng, đường truyền, giải pháp an ninh bảo mật hệ thống, giải pháp xây dựng phần mềm, giải pháp dự phòng và kiểm soát rủi ro đối với hệ thống. - Thời gian vận hành chính thức sau khi thực hiện nâng cấp, thay đổi.\n2. Phương thức giao dịch chứng khoán trực tuyến (khi có nâng cấp, thay đổi):\n- Tên phương thức giao dịch; - Mô tả quy trình giao dịch chứng khoán trực tuyến của phương thức giao dịch khi có thay đổi - Mô tả giải pháp xác thực đối của phương thức giao dịch - Mô tả nhà cung cấp giải pháp.\n3. Nhân sự công nghệ\nthông tin quản lý hệ thống (nếu có thay đổi):\n4. Địa điểm đặt hệ thống:\n- Mô tả địa điểm đặt hệ thống giao dịch chứng khoán trực tuyến (khi có thay đổi).\n5. Nội dung nâng cấp, thay đổi khác (nếu\ncó): .............................................................. ______________________________________________________________________ Thông tin của người lập báo cáo: Họ và tên: .......................................................................................................................... Điện thoại di động: ………………………………………Email:............................................\nTỔNG GIÁM ĐỐC\n(Ký, đóng dấu, ghi rõ họ tên)",
+  "tree": {
+    "parts": [
+      {
+        "part_id": "doc:291144:part:1",
+        "part_type": "main",
+        "part_title": null,
+        "reference": null,
+        "direct_text": "THÔNG TƯ HƯỚNG\nDẪN GIAO DỊCH ĐIỆN TỬ TRÊN THỊ TRƯỜNG CHỨNG KHOÁN\nCăn cứ Luật Chứng khoán ngày 29 tháng 6 năm 2006; Căn cứ Luật sửa đổi, bổ sung một số điều của Luật Chứng khoán ngày 24 tháng 11 năm 2010; Căn cứ Luật Giao dịch điện tử ngày 29 tháng 11 năm 2005; Căn cứ Luật Công nghệ thông tin ngày 29 tháng 6 năm 2006; Căn cứ Luật An toàn thông tin mạng ngày 19 tháng 11 năm 2015; Căn cứ Nghị định số 58/2012/NĐ-CP ngày 20 tháng 7 năm 2012 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật chứng khoán và Luật sửa đổi, bổ sung một số điều của Luật chứng khoán; Căn cứ Nghị định số 60/2015/NĐ-CP ngày 26 tháng 6 năm 2015 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 58/2012/NĐ-CP ngày 20 tháng 7 năm 2012 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Chứng khoán và Luật sửa đổi, bổ sung một số điều của Luật Chứng khoán; Căn cứ Nghị định số 42/2015/NĐ-CP ngày 05 tháng 5 năm 2015 của Chính phủ về chứng khoán phái sinh và thị trường chứng khoán phái sinh; Căn cứ Nghị định số 27/2007/NĐ-CP ngày 23 tháng 02 năm 2007 của Chính phủ về giao dịch điện tử trong hoạt động tài chính; Căn cứ Nghị định số 156/2016/NĐ-CP ngày 21 tháng 11 năm 2016 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 27/2007/NĐ-CP ngày 23 tháng 02 năm 2007 của Chính phủ về giao dịch điện tử trong hoạt động tài chính; Căn cứ Nghị định số 87/2017/NĐ-CP ngày 26 tháng 7 năm 2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài chính; Theo đề nghị của Chủ tịch Ủy ban Chứng khoán Nhà nước; Bộ trưởng Bộ Tài chính ban hành Thông tư hướng dẫn giao dịch điện tử trên thị trường chứng khoán.\nPhụ lục số 01. Mẫu đơn\nđăng ký cung cấp dịch vụ giao dịch chứng khoán trực tuyến (Ban hành kèm theo Thông tư số 134/2017/TT-BTC ngày 19 tháng 12 năm 2017 của Bộ trưởng Bộ Tài chính hướng dẫn giao dịch điện tử trên thị trường chứng khoán)\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc --------------- … …, ngày... tháng ... năm ...\nĐƠN ĐĂNG KÝ CUNG\nCẤP DỊCH VỤ GIAO DỊCH CHỨNG KHOÁN TRỰC TUYẾN\nKính gửi: Ủy ban Chứng khoán Nhà nước Tên đầy đủ của công ty (ghi bằng chữ in hoa): ................................................................... Tên viết tắt: .......................................................................................................................... Được thành lập theo Giấy phép thành lập và hoạt động số... ngày... do Ủy ban Chứng khoán Nhà nước cấp, đăng ký cung cấp dịch vụ giao dịch chứng khoán trực tuyến cho khách hàng. I. Các thông tin chung:\n1. Địa điểm:\n1.1. Trụ sở chính: - Địa chỉ: .............................................................................................................................. - Điện thoại: …………………………………………Fax:........................................................ - Website:…………………………………………….Email:.................................................... - Địa chỉ trang thông tin điện tử để truy nhập vào dịch vụ giao dịch chứng khoán trực tuyến của công ty: …………………………………………………………… 1.2. Các chi nhánh, phòng giao dịch: - Chi nhánh 1, Phòng giao dịch 1/Văn phòng đại diện 1: Tên, địa chỉ, điện thoại, Fax. - Chi nhánh 2, Phòng giao dịch 2/Văn phòng đại diện 2: Tên, địa chỉ, điện thoại, Fax...\n2. Các nghiệp vụ kinh doanh đã được cấp phép:\nMôi giới chứng khoán □ Tự doanh chứng khoán □ Bảo lãnh phát hành chứng khoán □ Tư vấn đầu tư chứng khoán □ Lưu ký chứng khoán □ Nghiệp vụ khác: .................................................................................................................. II. Phương thức giao dịch chứng khoán trực tuyến:\n1. Giao dịch qua Internet\n□\n2. Giao dịch qua điện thoại\n□\n3. Phương thức khác (ghi cụ thể phương thức, nếu có):\n.................................................... Chúng tôi xin cam đoan những lời khai trên đây là chính xác, trung thực và cam kết tuân thủ đầy đủ các quy định pháp luật về chứng khoán và thị trường chứng khoán, giao dịch điện tử. Nếu vi phạm chúng tôi xin hoàn toàn chịu trách nhiệm. Người đại diện theo pháp luật (Ký, đóng dấu, ghi rõ họ tên)\nPhụ lục số 02. Danh sách\ntên và lý lịch của các chuyên gia quản lý hệ thống giao dịch chứng khoán trực tuyến (Ban hành kèm theo Thông tư số 134/2017/TT-BTC ngày 19 tháng 12 năm 2017 của Bộ trưởng Bộ Tài chính hướng dẫn giao dịch điện tử trên thị trường chứng khoán)\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc --------------- … …, ngày... tháng ... năm ...\nDANH SÁCH ĐỘI NGŨ\nNHÂN VIÊN CHUYÊN MÔN VỀ CÔNG NGHỆ THÔNG TIN QUẢN LÝ HỆ THỐNG DỊCH VỤ GIAO DỊCH\nCHỨNG KHOÁN TRỰC TUYẾN STT\nHọ và tên Văn bằng, chứng chỉ Vị trí công việc đảm nhận Văn bằng(1) Chứng chỉ(2) 1 2 …. Ghi chú: (1) Văn bằng (tốt nghiệp cao đẳng trở lên): Tiến sỹ, Thạc sỹ, Cử nhân, Kỹ sư,... (2) Chứng chỉ: Chứng chỉ chuyên môn liên quan đến công nghệ thông tin. Chúng tôi cam đoan hoàn toàn chịu trách nhiệm về tính chính xác, trung thực những nội dung trên. Người đại diện theo pháp luật (Ký, đóng dấu, ghi rõ họ tên)\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc ---------------\nLÝ LỊCH CHUYÊN GIA CÔNG NGHỆ THÔNG TIN\n1) Họ và tên: Giới tính: nam/nữ; Ảnh chân dung 4x6 2) Ngày, tháng, năm sinh: ……………… Nơi sinh:…………… 3) Quốc tịch: 4) Số chứng minh thư nhân dân/hộ chiếu (hoặc mã số định danh cá nhân): …………… ngày cấp ………. nơi cấp …… ngày giá trị hiệu lực (đối với hộ chiếu) ………….. 5) Nơi đăng ký hộ khẩu thường trú: số nhà …… phường/xã.... quận/huyện ………… tỉnh/thành phố.... 6) Chỗ ở hiện tại: 7) Trình độ văn hóa: 8) Trình độ chuyên môn cao nhất: 9) Quá trình học tập, đào tạo chuyên môn liên quan đến công nghệ thông tin(1): Từ tháng, năm đến tháng, năm Chuyên ngành đào tạo, bồi dưỡng Hình thức đào tạo(2) Văn bằng, chứng chỉ Tên cơ sở đào tạo Văn bằng(3) Chứng chỉ(4) 10) Kinh nghiệm làm việc (liệt kê tất cả các công việc, dự án, sản phẩm đã tham gia phát triển, xây dựng) Từ tháng, năm đến tháng, năm Tên công ty/dự án/sản phẩm đã làm hoặc tham gia Vị trí công việc có liên quan Tôi cam kết và chịu trách nhiệm về tính chính xác, trung thực các nội dung nói trên. Xác nhận của đơn vị công tác Người khai (Ký, ghi rõ họ tên) Ghi chú: (1) Tài liệu gửi kèm: Bằng tốt nghiệp, các chứng chỉ liên quan (bản sao có xác nhận sao y bản chính của đơn vị công tác, kèm theo bản dịch tiếng Việt nếu là văn bằng, chứng chỉ nước ngoài). Lĩnh vực chuyên môn liên quan đến công nghệ thông tin bao gồm: khoa học máy tính và thông tin, hệ điều hành, hệ thống mạng máy tính, truyền thông dữ liệu và an toàn hệ thống, công nghệ thông tin và ứng dụng,... (2) Hình thức đào tạo: Chính quy, tại chức, chuyên tu, bồi dưỡng, .... (3) Văn bằng (tốt nghiệp cao đẳng trở lên): Tiến sỹ, Thạc sỹ, Cử nhân, Kỹ sư,... (4) Chứng chỉ: Chứng chỉ chuyên môn liên quan đến công nghệ thông tin.\nPhụ lục số 03. Báo cáo thiết\nkế hệ thống giao dịch chứng khoán trực tuyến (Ban hành kèm theo Thông tư số 134/2017/TT-BTC ngày 19 tháng 12 năm 2017 của Bộ trưởng Bộ Tài chính hướng dẫn giao dịch điện tử trên thị trường chứng khoán)\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc --------------- ..., ngày... tháng... năm...\nBÁO CÁO THIẾT KẾ\nHỆ THỐNG GIAO DỊCH CHỨNG KHOÁN TRỰC TUYẾN\nKính gửi: Ủy ban Chứng khoán Nhà nước Chúng tôi thay mặt các cổ đông sáng lập (hoặc các thành viên sáng lập, chủ sở hữu công ty) báo cáo thiết kế hệ thống giao dịch chứng khoán trực tuyến (GDTT) cho [Tên Công ty (1)] như sau:\n1. Tổng quan về hệ thống giao dịch chứng khoán trực tuyến (GDTT)\n1.1. Mô tả sơ lược quy trình hoạt động của hệ thống GDTT của [Công ty] 1.2. Các quy trình giao dịch chứng khoán trực tuyến tại công ty - Mô tả quy trình giao dịch chứng khoán qua Internet; - Mô tả quy trình giao dịch chứng khoán qua điện thoại; - Mô tả quy trình giao dịch chứng khoán trực tuyến qua các phương thức khác. (Đính kèm các quy trình thực hiện dịch vụ giao dịch chứng khoán trực tuyến đã ban hành của Công ty). 1.3. Địa điểm đặt hệ thống GDTT:\n2. Giải pháp xây dựng cơ sở hạ tầng hệ thống\nGDTT\n2.1 Giải pháp xây dựng hệ thống - Kiến trúc hệ thống mạng: + Kiến trúc và mô hình tổng thể hệ thống mạng của công ty; + Kiến trúc và mô hình hệ thống mạng GDTT kèm theo các thuyết minh chi tiết. - Hệ thống máy chủ: Cách bố trí, cấu hình hệ thống máy chủ đảm bảo tính bảo mật, tính dự phòng, sẵn sàng của hệ thống GDTT.\nSTT\nTên máy chủ Số lượng Mô tả chức năng Nhà cung cấp 1 .... - Đường truyền mạng: Cách bố trí, cấu hình đường truyền, số lượng đường truyền và dung lượng đường truyền để duy trì sự liên tục của hệ thống.\nSTT\nTên đường truyền Mô tả chức năng Nhà cung cấp 1 2 .... - Thiết bị hệ thống mạng và hệ thống phụ trợ liên quan đến hệ thống GDTT. Việc bố trí hệ thống và thiết bị dự phòng. Cách thiết lập hệ thống để khắc phục các tình huống sự cố xảy ra và các quy trình xử lý liên quan.\nSTT\nTên thiết bị Số lượng Mô tả chức năng Nhà cung cấp 1 2 .... - Hệ thống tổng đài điện thoại: mô tả hệ thống tổng đài (tên hệ thống tổng đài, tên máy chủ cài đặt, tên phần mềm giao dịch qua điện thoại, tên đường truyền tổng đài điện thoại), số lượng, tên nhà cung cấp.\nSTT\nMô tả hệ thống tổng đài điện thoại Số lượng Mô tả chức năng Nhà cung cấp 1 2 .... 2.2 Giải pháp an ninh bảo mật của hệ thống - Giải pháp an ninh bảo mật cho hệ thống GDTT: + Thiết bị an ninh bảo mật và mô tả cách thức tổ chức hệ thống để đảm bảo an toàn bảo mật. + Mô tả hệ thống phần mềm bảo mật, cấu hình và giải pháp bảo mật cơ sở dữ liệu. - Giải pháp an ninh bảo mật cho website giao dịch trực tuyến: Xác thực website, mã hóa thông tin giao dịch trên đường truyền, chống đột nhập, giả mạo qua giao diện Web... - Quy định chính sách về an ninh bảo mật: Các chính sách được thiết lập trên hệ thống; Chính sách quy định trong nội bộ công ty và giữa công ty với khách hàng; Giải pháp kiểm soát an ninh phòng máy chủ; Đánh giá rủi ro an toàn thông tin mạng của hệ thống\nGDTT.\n- Giải pháp xác thực trong giao dịch chứng khoán trực tuyến: + Mô tả các giải pháp xác thực lệnh đối với mỗi phương thức đặt lệnh (Internet, điện thoại,...) do công ty sử dụng. + Giải pháp xác thực sử dụng chứng thư số: Tên nhà cung cấp chứng thư số, số lượng chứng thư số được cung cấp và sử dụng, nội dung áp dụng chứng thư số. + Xác thực hai yếu tố: Tên giải pháp (SMS, Matrix, OTP,..), nhà cung cấp giải pháp; + Giải pháp xác thực khác (nếu có):\n3. Giải pháp xây dựng phần mềm GDTT\n- Thông tin về nhà cung cấp phần mềm, tên đầy đủ và tên viết tắt của phần mềm. - Công nghệ phát triển, nền tảng cơ sở dữ liệu, hệ điều hành được lựa chọn. - Các chức năng chính của phần mềm. - Các giải pháp bảo mật của phần mềm: Bao gồm quản trị hệ thống, phân quyền, việc kiểm soát vào ra hệ thống, khả năng cho phép tích hợp các giải pháp an ninh bảo mật của các hãng khác. (Đính kèm báo cáo hoặc biên bản đánh giá hệ thống phần mềm GDTT).\n4. Kế hoạch dự phòng, kiểm soát rủi ro hệ thống\n- Giải pháp dự phòng dữ liệu: Bao gồm cách bố trí, thiết lập cấu hình; các giải pháp lưu trữ, sao lưu dữ liệu và quy trình khôi phục dữ liệu. - Giải pháp thiết kế dự phòng cho hệ thống GDTT: Phương án, cách thiết lập, cấu hình hệ thống dự phòng (bao gồm: Dự phòng cho hệ thống máy chủ; Dự phòng hệ thống mạng, đường truyền; Dự phòng hệ thống tổng đài điện thoại; Dự phòng hệ thống giao dịch; Dự phòng về nhân sự quản lý hệ thống\nGDTT).\n- Giải pháp hệ thống điện dự phòng: Hệ thống UPS, Hệ thống máy phát điện dự phòng. Cách tổ chức, bố trí thiết lập khi có các tình huống xấu xảy ra. - Giải pháp hệ thống chống sét (chống sét lan truyền, chống sét phòng máy chủ,..), hệ thống làm mát, hệ thống kiểm soát an ninh phòng máy chủ, hệ thống phòng cháy chữa cháy,.. - Kế hoạch bảo trì, bảo dưỡng định kỳ hệ thống\nGDTT.\nChúng tôi cam kết chịu trách nhiệm hoàn toàn về tính chính xác, trung thực những nội dung trên. Người đại diện theo pháp luật (Ký, đóng dấu, ghi rõ họ tên) Ghi chú: (1) Công ty: Công ty chứng khoán đối với trường hợp là Báo cáo của Công ty chứng khoán; Công ty Quản lý quỹ đối với trường hợp là Báo cáo của Công ty Quản lý quỹ; Đại lý phân phối chứng chỉ quỹ đối với trường hợp là Báo cáo của Đại lý phân phối chứng chỉ quỹ.\nPhụ lục số 04. Báo cáo hoạt\nđộng giao dịch chứng khoán trực tuyến năm của công ty chứng khoán/công ty quản lý quỹ/đại lý phân phối chứng chỉ quỹ (Ban hành kèm theo Thông tư số 134/2017/TT-BTC ngày 19 tháng 12 năm 2017 của Bộ trưởng Bộ Tài chính hướng dẫn giao dịch điện tử trên thị trường chứng khoán)\nCÔNG TY....\n-------\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc --------------- Số:\n/BCGDTT\n...., ngày... tháng... năm...\nBÁO CÁO HOẠT ĐỘNG\nGIAO DỊCH CHỨNG KHOÁN TRỰC TUYẾN\nNĂM...\n(Tính từ thời điểm ngày 01/01 đến hết ngày 31/12 của năm báo cáo) Kính gửi: Ủy ban Chứng khoán Nhà nước\n1. Phương thức giao dịch chứng khoán trực tuyến cung cấp cho khách hàng:\n1.1. Giao dịch qua internet □ 1.2. Giao dịch qua điện thoại □ 1.3. Phương thức khác (ghi cụ thể phương thức, nếu có):................................................\n2. Giải pháp xác thực:\n- Chứng thư số □ - Hai yếu tố □ (Thẻ ma trận, Token key, Smart OTP,...) - Xác thực khác □ (Mô tả rõ phương thức xác thực)\n3. Báo cáo chi tiết tình hình giao dịch chứng khoán trực tuyến trong năm\nTổng số lượng tài khoản: ……………………………….., Tổng số tài khoản đăng ký giao dịch chứng khoán trực tuyến:……. 3.1. Các phương thức giao dịch được áp dụng trong giao dịch chứng khoán trực tuyến\nSTT\nPhương thức giao dịch Tổng số tài khoản đăng ký Tổng số tài khoản giao dịch thực tế Tổng số lệnh giao dịch Tổng số lệnh khớp Tổng khối lượng giao dịch Tổng giá trị giao dịch 1 Qua internet 2 Qua điện thoại 3 Phương thức giao dịch khác (nếu có)\nTỔNG:\n3.2. Các giải pháp xác thực trong giao dịch chứng khoán trực tuyến\nSTT\nGiải pháp xác thực Tổng số tài khoản đăng ký Tổng số tài khoản giao dịch thực tế Tổng số lệnh giao dịch Tổng số lệnh khớp Tổng khối lượng giao dịch Tổng giá trị giao dịch 1 Chứng thư số 2 Xác thực hai yếu tố 3 Phương thức xác thực khác (nếu có)\nTỔNG:\n4. Báo cáo những thay đổi hệ thống giao dịch chứng\nkhoán trực tuyến 4.1. Hệ thống, trang thiết bị\nSTT\nTên thiết bị Số lượng Chức năng Nhà cung cấp Nâng cấp (1) Thay mới (2) Máy chủ Thiết bị mạng Hệ thống tổng đài Thiết bị lưu điện Hệ thống chống sét Hệ thống phụ trợ khác (nếu có) 4.2. Đường truyền\nSTT\nTên đường truyền Chức năng Nhà cung cấp Nâng cấp(1) Thay mới(1) 1 2 .... 4.3. Hệ thống phần mềm\nSTT\nTên phần mềm Chức năng Nhà cung cấp Nâng cấp (1) Thay mới(1) 1 Phần mềm giao dịch chứng khoán trực tuyến 2 Hệ điều hành 3 Cơ sở dữ liệu 4 Phần mềm khác (nếu có) 4.4. Chứng thư số\nSTT\nTên nhà cung cấp Số lượng Nội dung áp dụng 1 2 ...\n5. Báo cáo về đội ngũ tin học vận hành hệ thống\nSTT\nHọ và tên Chuyên ngành đào tạo, bồi dưỡng(2) Văn bằng, chứng chỉ Tên cơ sở đào tạo Vị trí công việc(5) Văn bằng(3) Chứng chỉ(4) 1 2 ... Ghi chú: (1) Đánh dấu “X” nếu có nâng cấp hoặc thay mới hệ thống. (2) Chuyên ngành đào tạo, bồi dưỡng liên quan đến công nghệ thông tin bao gồm: khoa học máy tính và thông tin, hệ điều hành, hệ thống mạng máy tính, truyền thông dữ liệu và an toàn hệ thống, công nghệ thông tin và ứng dụng,... (3) Văn bằng (tốt nghiệp cao đẳng trở lên): Tiến sỹ, Thạc sỹ, Cử nhân, Kỹ sư,... (4) Chứng chỉ: Chứng chỉ chuyên môn liên quan đến công nghệ thông tin. (5) Vị trí công việc: quản trị phần mềm, quản trị hệ thống, an ninh thông tin,... (Gửi kèm bản sao có xác nhận bằng cấp, chứng chỉ chuyên môn của nhân viên mới) _______________________________________________________________________ Thông tin về người lập báo cáo Họ và tên: ............................................................................................................................ Địa chỉ Email: ………………………………………Điện thoại di động:.................................. Người đại diện theo pháp luật (Ký, đóng dấu, ghi rõ họ tên)\nPhụ lục số 05. Báo cáo hệ\nthống giao dịch chứng khoán trực tuyến năm của Sở GDCK (Ban hành kèm theo Thông tư số 134/2017/TT-BTC ngày 19 tháng 12 năm 2017 của Bộ trưởng Bộ Tài chính hướng dẫn giao dịch điện tử trên thị trường chứng khoán)\nBỘ TÀI CHÍNH SỞ GIAO DỊCH CHỨNG KHOÁN\n-------\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc --------------- Số:\n/SGDCK…..\n…….., ngày ….. tháng ……. năm……\nBÁO CÁO TÌNH HÌNH\nGIAO DỊCH CHỨNG KHOÁN TRỰC TUYẾN\nNĂM....\n(Tính từ thời điểm ngày 01/01 đến hết ngày 31/12 của năm báo cáo) Kính gửi: Ủy ban Chứng khoán Nhà nước\n1. Các văn bản quy định liên quan đến hoạt động\ngiao dịch chứng khoán trực tuyến do Sở GDCK ban hành\nSTT\nTên văn bản Số văn bản Ngày ban hành 1 2 ... Đính kèm các quy trình mới ban hành trong năm báo cáo (nếu có).\n2. Tình hình giao dịch chứng khoán trực tuyến trong năm\nLoại chứng khoán Tổng số lượng chứng khoán giao dịch Tổng giá trị giao dịch Tổng số lượng lệnh giao dịch Cổ phiếu Trái phiếu Chứng chỉ quỹ Chứng khoán phái sinh\n3. Thành viên kết nối\nBiểu 1: Thống kê thành viên giao dịch Thị trường Số thành viên đầu kỳ Số thành viên được chấp thuận trong năm Số thành viên bị hủy bỏ tư cách Số thành viên cuối kỳ Niêm yết Upcom Biểu 2: Hoạt động chấp thuận tư cách thành viên Thị trường Tên Thành viên Ngày chấp thuận Niêm yết Upcom Biểu 3: Hoạt động hủy bỏ tư cách thành viên Thị trường Tên Thành viên Ngày hủy bỏ Niêm yết Upcom Biểu 4: Danh sách thành viên hiện tại Thị trường Tên Thành viên Ghi chú Niêm yết Upcom\n4. Báo cáo hệ thống giao dịch chứng khoán trực tuyến\n4.1. Hệ thống, trang thiết bị\nSTT\nTên thiết bị Số lượng Chức năng Nhà cung cấp Nâng cấp(1) Thay mới(1) Máy chủ Thiết bị mạng Hệ thống bảo mật Thiết bị lưu điện Hệ thống chống sét Hệ thống phụ trợ khác (nếu có) 4.2. Đường truyền\nSTT\nTên đường truyền Chức năng Nhà cung cấp 1 2 .... 4.3. Hệ thống phần mềm\nSTT\nTên phần mềm Chức năng Nhà cung cấp Nâng cấp (1) Thay đổi (1) 1 Phần mềm giao dịch chứng khoán trực tuyến 2 Hệ điều hành 3 Cơ sở dữ liệu … Các phần mềm khác (nếu có)\n5. Danh sách đội ngũ nhân viên công nghệ thông tin\nSTT\nHọ và tên Chuyên ngành đào tạo, bồi dưỡng(2) Văn bằng, chứng chỉ Tên cơ sở đào tạo Vị trí công việc(5) Văn bằng(3) Chứng chỉ(4) 1 2 ... Ghi chú: (1) Đánh dấu “X” nếu có nâng cấp hoặc thay đổi hệ thống. (2) Chuyên ngành đào tạo, bồi dưỡng liên quan đến công nghệ thông tin bao gồm: khoa học máy tính và thông tin, hệ điều hành, hệ thống mạng máy tính, truyền thông dữ liệu và an toàn hệ thống, công nghệ thông tin và ứng dụng,... (3) Văn bằng (tốt nghiệp cao đẳng trở lên): Tiến sỹ, Thạc sỹ, Cử nhân, Kỹ sư,... (4) Chứng chỉ: Chứng chỉ chuyên môn liên quan đến công nghệ thông tin. (5) Vị trí công việc: quản trị phần mềm, quản trị hệ thống, an ninh thông tin,... _______________________________________________________________________ Thông tin của người lập báo cáo: Họ và tên: ............................................................................................................................ Điện thoại: ………………………………………Email:...........................................................\nTỔNG GIÁM ĐỐC\n(Ký tên, đóng dấu, ghi rõ họ tên)\nPhụ lục số 06. Báo cáo\ntình hình giao dịch chứng khoán trực tuyến năm của Trung tâm lưu ký chứng khoán Việt Nam (Ban hành kèm theo Thông tư số 134/2017/TT-BTC ngày 19 tháng 12 năm 2017 của Bộ trưởng Bộ Tài chính hướng dẫn giao dịch điện tử trên thị trường chứng khoán)\nBỘ TÀI CHÍNH\nTRUNG TÂM LƯU KÝ CHỨNG KHOÁN\n-------\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc --------------- Số:\n/TTLK\n………, ngày ….. tháng …… năm ………\nBÁO CÁO TÌNH HÌNH\nGIAO DỊCH CHỨNG KHOÁN TRỰC TUYẾN\nNĂM...\n(Tính từ thời điểm ngày 01/01 đến hết ngày 31/12 của năm báo cáo) Kính gửi: Ủy ban Chứng khoán Nhà nước\n1. Các văn bản quy định liên quan đến hoạt động\ngiao dịch chứng khoán trực tuyến do TTLK ban hành\nSTT\nTên văn bản Số văn bản Ngày ban hành 1 2 ... Đính kèm các quy trình mới ban hành trong năm báo cáo (nếu có).\n2. Tình hình cung cấp dịch vụ giao dịch chứng khoán trực tuyến\n2.1. Tài khoản khách hàng Tổng số tài khoản khách hàng đăng ký Tổng giá trị giao dịch Tổng số lượng lệnh giao dịch 2.2. Tình hình cung cấp dịch vụ giao dịch chứng khoán trực tuyến cho thành viên\nSTT\nTên dịch vụ Số lượng thành viên đăng ký Số lượng thành viên sử dụng dịch vụ\n3. Quản lý thành viên lưu ký\n3.1. Thành viên Lưu ký Biểu 1: Thống kê thành viên lưu ký Số thành viên đầu kỳ Số thành viên được chấp thuận trong năm Số thành viên bị hủy bỏ tư cách Số thành viên cuối kỳ Biểu 2: Hoạt động chấp thuận tư cách thành viên\nSTT\nTên Thành viên Ngày chấp thuận Biểu 3: Hoạt động hủy bỏ tư cách thành viên\nSTT\nTên Thành viên Ngày hủy bỏ Biểu 4: Danh sách thành viên hiện tại\nSTT\nTên Thành viên Ghi chú 3.2. Thành viên Bù trừ Biểu 1: Thống kê thành viên bù trừ Số thành viên đầu kỳ Số thành viên được chấp thuận trong năm Số thành viên bị hủy bỏ tư cách Số thành viên cuối kỳ Biểu 2: Hoạt động chấp thuận tư cách thành viên\nSTT\nTên Thành viên Ngày chấp thuận Biểu 3: Hoạt động hủy bỏ tư cách thành viên\nSTT\nTên Thành viên Ngày hủy bỏ Biểu 4: Danh sách thành viên hiện tại\nSTT\nTên Thành viên Ghi chú\n4. Báo cáo các thay đổi của hệ thống\n4.1. Hệ thống, thiết bị phần cứng\nSTT\nTên thiết bị Số lượng Chức năng Nhà cung cấp Nâng cấp(1) Thay mới(1) Máy chủ Thiết bị mạng Hệ thống tổng đài Thiết bị lưu điện Hệ thống chống sét Hệ thống phụ trợ khác (nếu có) 4.2. Đường truyền\nSTT\nTên đường truyền Chức năng Nhà cung cấp 1 2 .... 4.3. Hệ thống phần mềm\nSTT\nTên phần mềm Chức năng Nhà cung cấp Nâng cấp (1) Thay đổi(1) 1 Phần mềm giao dịch chứng khoán trực tuyến 2 Hệ điều hành 3 Cơ sở dữ liệu .... Các phần mềm khác (nếu có) 4.4. Chứng thư số\nSTT\nTên nhà cung cấp Số lượng Phạm vi áp dụng 1 2 ...\n5. Danh sách đội ngũ nhân viên công nghệ thông tin\nSTT\nHọ và tên Chuyên ngành đào tạo, bồi dưỡng(2) Văn bằng, chứng chỉ Tên cơ sở đào tạo Vị trí công việc(5) Văn bằng(3) Chứng chỉ(4) 1 2 … Ghi chú: (1) Đánh dấu “X” nếu có nâng cấp/thay đổi hệ thống. (2) Chuyên ngành đào tạo, bồi dưỡng liên quan đến công nghệ thông tin bao gồm: khoa học máy tính và thông tin, hệ điều hành, hệ thống mạng máy tính, truyền thông dữ liệu và an toàn hệ thống, công nghệ thông tin và ứng dụng,... (3) Văn bằng (tốt nghiệp cao đẳng trở lên): TSKH, TS, Ths, Cử nhân, Kỹ sư,... (4) Chứng chỉ: Chứng chỉ chuyên môn liên quan đến công nghệ thông tin. (5) Vị trí công việc: quản trị phần mềm, quản trị hệ thống, an ninh thông tin,... (Gửi kèm bản sao có xác nhận bằng cấp, chứng chỉ chuyên môn của nhân viên mới). ______________________________________________________________________ Thông tin của người lập báo cáo: Họ và tên: .......................................................................................................................... Điện thoại: ……………………………………….Email:........................................................\nTỔNG GIÁM ĐỐC\n(Ký tên, đóng dấu, ghi rõ họ tên)\nPhụ lục số 07. Báo cáo sự\ncố giao dịch chứng khoán trực tuyến\n(Ban hành kèm theo\nThông tư số 134/2017/TT-BTC ngày 19 tháng 12 năm 2017 của Bộ trưởng Bộ Tài chính hướng dẫn giao dịch điện tử trên thị trường chứng khoán)\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc --------------- ..., ngày... tháng... năm...\nBÁO CÁO SỰ CỐ\nGIAO DỊCH CHỨNG KHOÁN TRỰC TUYẾN\nKính gửi: Ủy ban Chứng khoán Nhà nước Tên (Tổ chức kinh doanh chứng khoán, Sở GDCK, Trung tâm LKCK): ............................. Thông tin người phụ trách GDTT: ....................................................................................... Họ và tên: ............................................................................................................................ Địa chỉ Email: ……………………………………Điện thoại: .................................................. Báo cáo sự cố giao dịch chứng khoán trực tuyến như sau:\n1. Thời gian, địa điểm phát sinh sự cố:.................................................................................\n2. Mô tả sơ bộ về sự cố, tình trạng khi xảy ra sự cố:\n..........................................................\n3. Nguyên nhân sự cố:\n........................................................................................................\n4. Đánh giá rủi ro, ảnh hưởng đối với thị trường,\nkhách hàng, hệ thống GDTT và các hệ thống khác có liên quan:\n5. Tình hình thiệt hại:\n...........................................................................................................\n6. Các biện pháp đã thực hiện để khắc phục sự cố,\nngăn chặn và phòng ngừa rủi ro: .......\n7. Kết quả khắc\nphục sự cố: .................................................................................................\n8. Kiến nghị, đề xuất (nếu có):\n..............................................................................................\nTỔNG GIÁM ĐỐC\n(Ký tên, đóng dấu, ghi rõ họ tên)\nPhụ lục số 08. Báo cáo\nnâng cấp, thay đổi hệ thống giao dịch chứng khoán trực tuyến của công ty chứng khoán (Ban hành kèm theo Thông tư số 134/2017/TT-BTC ngày 19 tháng 12 năm 2017 của Bộ trưởng Bộ Tài chính hướng dẫn giao dịch điện tử trên thị trường chứng khoán)\nCÔNG TY CHỨNG KHOÁN …..\n-------\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc --------------- Số:\n/BCGDTT\n……, ngày … tháng … năm …\nBÁO CÁO NÂNG CẤP,\nTHAY ĐỔI HỆ THỐNG GIAO DỊCH CHỨNG KHOÁN TRỰC TUYẾN\nKính gửi: Ủy ban Chứng khoán Nhà nước Công ty ………….. xin báo cáo các thay đổi nâng cấp liên quan đến hệ thống giao dịch chứng khoán trực tuyến của công ty như sau:\n1. Hệ thống Core giao dịch chứng khoán trực tuyến (khi có nâng cấp, thay đổi):\n- Mô tả mô hình hệ thống Core kèm thuyết minh chi tiết hệ thống; - Mô tả các nội dung nâng cấp, thay đổi hệ thống Core chứng khoán của công ty: bao gồm máy chủ, các thiết bị mạng, đường truyền, giải pháp an ninh bảo mật hệ thống, giải pháp xây dựng phần mềm, giải pháp dự phòng và kiểm soát rủi ro đối với hệ thống. - Thời gian vận hành chính thức sau khi thực hiện nâng cấp, thay đổi.\n2. Phương thức giao dịch chứng khoán trực tuyến (khi có nâng cấp, thay đổi):\n- Tên phương thức giao dịch; - Mô tả quy trình giao dịch chứng khoán trực tuyến của phương thức giao dịch khi có thay đổi - Mô tả giải pháp xác thực đối của phương thức giao dịch - Mô tả nhà cung cấp giải pháp.\n3. Nhân sự công nghệ\nthông tin quản lý hệ thống (nếu có thay đổi):\n4. Địa điểm đặt hệ thống:\n- Mô tả địa điểm đặt hệ thống giao dịch chứng khoán trực tuyến (khi có thay đổi).\n5. Nội dung nâng cấp, thay đổi khác (nếu\ncó): .............................................................. ______________________________________________________________________ Thông tin của người lập báo cáo: Họ và tên: .......................................................................................................................... Điện thoại di động: ………………………………………Email:............................................\nTỔNG GIÁM ĐỐC\n(Ký, đóng dấu, ghi rõ họ tên)",
+        "chapters": [
+          {
+            "chapter_id": "doc:291144:part:1:chapter:1",
+            "number": "I",
+            "title": "QUY ĐỊNH CHUNG",
+            "content": "Chương I\nQUY ĐỊNH CHUNG",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:291144:part:1:article:1",
+                "number": "1",
+                "title": "Phạm vi điều chỉnh Thông tư này hướng dẫn hoạt động giao dịch chứng khoán trực tuyến, hoạt động trao đổi thông tin điện tử trên thị trường chứng khoán và các hoạt động khác liên quan đến giao dịch điện tử trên thị trường chứng khoán.",
+                "content": "Điều 1. Phạm vi điều chỉnh Thông tư này hướng dẫn hoạt động giao dịch chứng khoán trực tuyến, hoạt động trao đổi thông tin điện tử trên thị trường chứng khoán và các hoạt động khác liên quan đến giao dịch điện tử trên thị trường chứng khoán.",
+                "clauses": [],
+                "points": []
+              },
+              {
+                "article_id": "doc:291144:part:1:article:2",
+                "number": "2",
+                "title": "Đối tượng áp dụng Đối tượng áp dụng Thông tư này bao gồm:",
+                "content": "Điều 2. Đối tượng áp dụng Đối tượng áp dụng Thông tư này bao gồm:",
+                "clauses": [
+                  {
+                    "clause_id": "doc:291144:part:1:article:2:clause:1",
+                    "number": "1",
+                    "content": "1. Ủy ban Chứng khoán\nNhà nước, Sở giao dịch chứng khoán, Trung tâm lưu ký chứng khoán Việt Nam.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:291144:part:1:article:2:clause:2",
+                    "number": "2",
+                    "content": "2. Tổ chức, cá nhân tham gia giao dịch và hoạt động\ntrên thị trường chứng khoán bằng phương tiện điện tử, bao gồm:",
+                    "points": [
+                      {
+                        "point_id": "doc:291144:part:1:article:2:clause:2:point:1",
+                        "label": "a",
+                        "content": "a) Tổ chức phát hành, tổ chức niêm yết, tổ chức\nđăng ký giao dịch, công ty đại chúng;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:291144:part:1:article:2:clause:2:point:2",
+                        "label": "b",
+                        "content": "b) Công ty chứng khoán,\ncông ty quản lý quỹ, công ty đầu tư chứng khoán;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:291144:part:1:article:2:clause:2:point:3",
+                        "label": "c",
+                        "content": "c) Văn phòng đại diện, chi nhánh công ty chứng khoán nước ngoài tại Việt Nam; văn phòng đại diện,\nchi nhánh công ty quản lý quỹ nước ngoài tại Việt Nam;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:291144:part:1:article:2:clause:2:point:4",
+                        "label": "d",
+                        "content": "d) Ngân hàng thương mại, chi nhánh ngân hàng nước\nngoài là thành viên thị trường trái phiếu hoặc thị trường chứng khoán phái sinh, ngân hàng giám sát, thành viên lưu ký, thành viên bù trừ, đại lý phân phối chứng chỉ quỹ;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:291144:part:1:article:2:clause:2:point:5",
+                        "label": "đ",
+                        "content": "đ) Nhà đầu tư;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:291144:part:1:article:2:clause:2:point:6",
+                        "label": "e",
+                        "content": "e) Các tổ chức, cá nhân khác tham gia giao dịch và\nhoạt động trên thị trường chứng khoán bằng phương tiện điện tử.",
+                        "children": []
+                      }
+                    ]
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:291144:part:1:article:3",
+                "number": "3",
+                "title": "Giải thích thuật ngữ Trong Thông tư này, các thuật ngữ dưới đây được hiểu như sau:",
+                "content": "Điều 3. Giải thích thuật ngữ Trong Thông tư này, các thuật ngữ dưới đây được hiểu như sau:",
+                "clauses": [
+                  {
+                    "clause_id": "doc:291144:part:1:article:3:clause:1",
+                    "number": "1",
+                    "content": "1. Hoạt động giao dịch chứng khoán trực tuyến\nlà hoạt động giao dịch chứng khoán được thực hiện thông qua hệ thống công nghệ thông tin và môi trường mạng Internet, mạng viễn thông hoặc các mạng mở khác, bao gồm: Giao dịch chứng khoán giữa nhà đầu tư và các tổ chức cung cấp dịch vụ giao dịch chứng khoán trực tuyến; giao dịch chứng khoán giữa thành viên giao dịch và Sở giao dịch chứng khoán; giao dịch liên quan đến chứng khoán giữa thành viên lưu ký, thành viên bù trừ và Trung tâm lưu ký chứng khoán Việt Nam.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:291144:part:1:article:3:clause:2",
+                    "number": "2",
+                    "content": "2. Hệ thống giao dịch chứng khoán trực tuyến\nlà hệ thống phục vụ quản lý và thực hiện hoạt động giao dịch chứng khoán trực tuyến, bao gồm: Trang thiết bị phần cứng, phần mềm, cơ sở dữ liệu, hệ thống mạng viễn thông, mạng Internet, mạng máy tính.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:291144:part:1:article:3:clause:3",
+                    "number": "3",
+                    "content": "3. Chứng từ điện tử trong\nlĩnh vực chứng khoán là thông điệp dữ liệu về hoạt động giao dịch điện tử trên thị trường chứng khoán được tạo ra, được gửi đi, được nhận và được lưu trữ bằng phương tiện điện tử.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:291144:part:1:article:3:clause:4",
+                    "number": "4",
+                    "content": "4. Phiếu lệnh điện tử là thông điệp dữ liệu\nghi lại những thông tin nhà đầu tư đã đặt lệnh giao dịch qua hệ thống giao dịch chứng khoán trực tuyến tại một thời điểm nhất định mà chỉ có nhà đầu tư đó truy cập được vào hệ thống thông qua xác thực truy cập và đặt lệnh.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:291144:part:1:article:3:clause:5",
+                    "number": "5",
+                    "content": "5. Xác thực hai yếu tố là phương pháp xác thực\nyêu cầu hai yếu tố để chứng minh tính đúng đắn của một danh tính. Xác thực hai yếu tố dựa trên những thông tin mà người dùng biết như số PIN, mã khóa bí mật cùng với những thông tin mà người dùng có như thẻ thông minh, thiết bị token, điện thoại di động hoặc những dấu hiệu sinh trắc học của người dùng để xác minh danh tính.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:291144:part:1:article:3:clause:6",
+                    "number": "6",
+                    "content": "6. An toàn thông tin mạng là sự bảo vệ thông\ntin, hệ thống thông tin trên mạng tránh bị truy nhập, sử dụng, tiết lộ, gián đoạn, sửa đổi hoặc phá hoại trái phép nhằm bảo đảm tính nguyên vẹn, tính bảo mật và tính khả dụng của thông tin.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:291144:part:1:article:3:clause:7",
+                    "number": "7",
+                    "content": "7. Địa chỉ vật lý của thiết\nbị đặt lệnh (còn gọi là địa chỉ MAC - Media Access Control) là mã duy nhất được gán bởi nhà sản xuất dùng để nhận dạng thiết bị khi đặt, hủy lệnh trong hệ thống giao dịch chứng khoán trực tuyến.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:291144:part:1:article:3:clause:8",
+                    "number": "8",
+                    "content": "8. Số điện thoại đặt lệnh là số điện thoại của\nnhà đầu tư đăng ký với tổ chức cung cấp dịch vụ giao dịch chứng khoán trực tuyến để thực hiện đặt lệnh giao dịch chứng khoán.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:291144:part:1:article:3:clause:9",
+                    "number": "9",
+                    "content": "9. Dịch vụ giao dịch chứng khoán trực tuyến\nlà dịch vụ do các tổ chức cung cấp dịch vụ giao dịch chứng khoán trực tuyến cung cấp cho nhà đầu tư để mở tài khoản, đặt lệnh, đưa ra yêu cầu đối với các giao dịch chứng khoán hoặc nhận kết quả giao dịch thông qua mạng Internet hoặc điện thoại.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:291144:part:1:article:3:clause:10",
+                    "number": "10",
+                    "content": "10. Tổ chức cung cấp dịch vụ giao dịch chứng khoán trực tuyến là công ty chứng khoán, công ty quản lý quỹ và đại lý phân phối\nchứng chỉ quỹ cung cấp dịch vụ giao dịch chứng khoán trực tuyến.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:291144:part:1:article:3:clause:11",
+                    "number": "11",
+                    "content": "11. Thành viên lưu ký là công ty chứng khoán, ngân hàng thương mại hoạt động tại Việt\nNam được Ủy ban Chứng khoán Nhà nước cấp Giấy chứng nhận đăng ký hoạt động lưu ký chứng khoán và được Trung tâm lưu ký chứng khoán Việt Nam chấp thuận trở thành thành viên lưu ký.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:291144:part:1:article:3:clause:12",
+                    "number": "12",
+                    "content": "12. Thành viên bù trừ là công ty chứng khoán, ngân hàng thương mại, chi nhánh ngân hàng\nnước ngoài được thực hiện bù trừ, thanh toán giao dịch chứng khoán phái sinh.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:291144:part:1:article:3:clause:13",
+                    "number": "13",
+                    "content": "13. Sự cố nghiêm trọng là các sự cố kỹ thuật\nxảy ra đối với hệ thống giao dịch chứng khoán trực tuyến gây hậu quả là hệ thống phải dừng hoặc tạm dừng hoạt động.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:291144:part:1:article:4",
+                "number": "4",
+                "title": "Nguyên tắc giao dịch điện tử trên thị trường chứng khoán Giao dịch điện tử trên thị trường chứng khoán phải đảm bảo nguyên tắc chính xác, công bằng, công khai, minh bạch, an toàn, hiệu quả và phù hợp với Luật Giao dịch điện tử, Luật An toàn thông tin mạng, các văn bản hướng dẫn thi hành và các quy định pháp luật khác có liên quan.",
+                "content": "Điều 4. Nguyên tắc giao dịch điện tử trên thị trường chứng khoán Giao dịch điện tử trên thị trường chứng khoán phải đảm bảo nguyên tắc chính xác, công bằng, công khai, minh bạch, an toàn, hiệu quả và phù hợp với Luật Giao dịch điện tử, Luật An toàn thông tin mạng, các văn bản hướng dẫn thi hành và các quy định pháp luật khác có liên quan.",
+                "clauses": [],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:291144:part:1:chapter:2",
+            "number": "II",
+            "title": "HOẠT ĐỘNG GIAO DỊCH CHỨNG KHOÁN TRỰC TUYẾN",
+            "content": "Chương II\nHOẠT ĐỘNG GIAO DỊCH CHỨNG KHOÁN TRỰC TUYẾN",
+            "sections": [
+              {
+                "section_id": "doc:291144:part:1:section:1",
+                "number": "1",
+                "title": "KỸ THUẬT, AN NINH BẢO MẬT VÀ LƯU TRỮ DỮ LIỆU",
+                "content": "Mục 1. YÊU CẦU DỊCH VỤ, HẠ TẦNG\nKỸ THUẬT, AN NINH BẢO MẬT VÀ LƯU TRỮ DỮ LIỆU",
+                "articles": [
+                  {
+                    "article_id": "doc:291144:part:1:article:5",
+                    "number": "5",
+                    "title": "Yêu cầu về dịch vụ",
+                    "content": "Điều 5. Yêu cầu về dịch vụ\n1. Đối với Sở giao dịch chứng khoán và Trung tâm lưu ký chứng khoán Việt Nam:\na) Xây dựng, ban hành quy định kết nối hệ thống\ngiao dịch chứng khoán trực tuyến, các quy trình về xử lý sự cố, dự phòng hệ thống, kiểm soát rủi ro trong hoạt động giao dịch chứng khoán trực tuyến phù hợp với Luật Giao dịch điện tử, Luật An toàn thông tin mạng, các văn bản hướng dẫn thi hành và quy định tại Thông tư này;\nb) Đảm bảo cung cấp hoạt động giao dịch chứng khoán trực tuyến công khai, công bằng, minh bạch,\nan toàn và hiệu quả cho các thành viên sử dụng cùng một loại dịch vụ.\n2. Đối với công ty chứng khoán cung cấp dịch vụ giao dịch chứng khoán trực tuyến:\na) Trực tiếp cung cấp dịch vụ giao dịch chứng khoán trực tuyến cho nhà đầu tư;\nb) Xây dựng trang thông tin điện tử với tên miền đã\nđăng ký trên mạng Internet để cung cấp dịch vụ giao dịch chứng khoán trực tuyến. Các chương trình, ứng dụng dùng để giao dịch chứng khoán trực tuyến phải đăng tải hoặc tích hợp trên trang thông tin điện tử này;\nc) Ban hành quy trình thực hiện dịch vụ giao dịch\nchứng khoán trực tuyến bao gồm: Quy trình vận hành theo dõi quản trị hàng ngày; quy trình đăng ký, hủy sử dụng dịch vụ giao dịch chứng khoán trực tuyến; quy trình về xử lý sự cố; quy trình sao lưu dự phòng hệ thống, dữ liệu; quy trình kiểm soát rủi ro trong hoạt động cung cấp dịch vụ giao dịch chứng khoán trực tuyến cho nhà đầu tư và các quy trình khác phù hợp Luật Giao dịch điện tử, Luật An toàn thông tin mạng, các văn bản hướng dẫn thi hành và quy định của Thông tư này, trong đó phải nêu rõ trách nhiệm của đối tượng tham gia quy trình;\nd) Bố trí đội ngũ nhân viên có bằng cấp, chứng chỉ\ncông nghệ thông tin về quản trị phần mềm, quản trị hệ thống và an ninh thông tin để quản lý và giám sát các hoạt động của hệ thống giao dịch chứng khoán trực tuyến đảm bảo liên tục và thông suốt;\nđ) Việc cung cấp và sử dụng dịch vụ giao dịch chứng\nkhoán trực tuyến với nhà đầu tư phải được thể hiện bằng hợp đồng hoặc điều khoản của hợp đồng mở tài khoản giao dịch chứng khoán, trong đó quy định cụ thể về phương thức giao dịch chứng khoán trực tuyến, những rủi ro có thể xảy ra khi thực hiện giao dịch chứng khoán trực tuyến theo quy định tại khoản 1 Điều 15 Thông tư này, trách nhiệm bồi thường của mỗi bên khi xảy ra rủi ro và trách nhiệm khác liên quan đến hoạt động giao dịch chứng khoán trực tuyến;\ne) Ghi nhận thông tin về các yêu cầu giao dịch của\nnhà đầu tư trên hệ thống giao dịch chứng khoán trực tuyến. Các thông tin này phải lưu trữ để tra cứu được theo thời gian, phiên đăng nhập, kết quả thực hiện giao dịch, số dư phát sinh trước và sau giao dịch đối với tài khoản của nhà đầu tư;\ng) Thông báo kết quả thực hiện lệnh giao dịch cho\nnhà đầu tư ngay sau khi lệnh được khớp trên hệ thống giao dịch chứng khoán trực tuyến.\n3. Công ty quản lý quỹ, đại lý phân phối chứng chỉ\nquỹ cung cấp dịch vụ giao dịch chứng khoán trực tuyến phải đáp ứng các yêu cầu theo quy định tại điểm a, b, c, đ, e và g khoản 2 Điều này. Điều\n6. Yêu cầu về hạ tầng, kỹ thuật hệ thống giao dịch chứng khoán trực tuyến\n1. Đối với công ty chứng khoán cung cấp dịch vụ giao dịch chứng khoán trực tuyến:\na) Hệ thống giao dịch chứng khoán trực tuyến phải tách biệt về mặt vật lý với\ncác hệ thống kinh doanh khác của công ty để đảm bảo an toàn thông tin mạng, giảm thiểu rủi ro và tránh xung đột giữa các hệ thống;\nb) Trang bị máy chủ chuyên dùng cho hệ thống giao dịch\nchứng khoán trực tuyến, không sử dụng máy tính cá nhân đóng vai trò máy chủ và không sử dụng chung với máy chủ của các đơn vị hoặc công ty khác. Trang thiết bị công nghệ thông tin chuyên dùng cho hệ thống giao dịch chứng khoán trực tuyến phải có dự phòng;\nc) Khu vực đặt hệ thống giao dịch chứng khoán trực tuyến phải bảo đảm các điều kiện an\nninh, môi trường và an toàn hệ thống: Khu vực riêng biệt, có hệ thống khóa từ hoặc thiết bị tương đương kiểm soát vào ra, hệ thống ghi hình; hệ thống báo cháy và chữa cháy chuyên dụng; hệ thống điều hòa không khí, theo dõi kiểm soát nhiệt độ và độ ẩm; hệ thống lưu điện và máy phát điện dự phòng chuyên dụng; hệ thống chống sét lan truyền;\nd) Công ty có thể thuê chỗ đặt hệ thống giao dịch\nchứng khoán trực tuyến tại các trung tâm dữ liệu (Data Center). Các trung tâm dữ liệu này phải đảm bảo tuân thủ theo quy định của pháp luật về hoạt động của Data Center. Hệ thống giao dịch chứng khoán trực tuyến đặt tại Data Center phải có các giải pháp đảm bảo tránh truy cập và khai thác dữ liệu bất hợp pháp;\nđ) Hệ thống giao dịch chứng\nkhoán trực tuyến phải tích hợp giải pháp có sử dụng chứng thư số, chữ ký số của tổ chức cung cấp dịch vụ chứng thực chữ ký số công cộng và các giải pháp xác thực khác (nếu có) theo quy định tại điểm a và điểm c khoản 1 Điều 8 Thông tư này;\ne) Cung cấp phương thức giao dịch\nqua điện thoại phải trang bị hệ thống tổng đài có chức năng ghi âm, quản lý, tra cứu cuộc gọi và có dự phòng. Mọi cuộc gọi đặt lệnh của nhà đầu tư phải được ghi âm lưu trữ đầy đủ và phải đảm bảo an ninh thông tin và bảo mật dữ liệu;\ng) Áp dụng những biện pháp kỹ thuật hoặc quản lý để\nthiết lập các mức giới hạn về mua bán chứng khoán theo quy định của pháp luật cho nhà đầu tư tham gia dịch vụ giao dịch chứng khoán trực tuyến. Các giới hạn này phải được thông báo cho nhà đầu tư trên trang giao dịch chứng khoán trực tuyến và phải có quy trình phê duyệt đối với sự thay đổi các mức giới hạn này.\n2. Đối với công ty quản lý quỹ, đại lý phân phối chứng\nchỉ quỹ cung cấp dịch vụ giao dịch chứng khoán trực tuyến phải đáp ứng các yêu cầu theo quy định tại điểm a, b và e khoản 1 và khoản 3 Điều này.\n3. Sở giao dịch chứng khoán, Trung tâm lưu ký chứng khoán\nViệt Nam, tổ chức cung cấp dịch vụ giao dịch chứng khoán trực tuyến phải có phương án dự phòng cho hệ thống giao dịch chứng khoán trực tuyến và cung cấp phương thức giao dịch thay thế trong trường hợp hệ thống giao dịch chứng khoán trực tuyến gặp sự cố.",
+                    "clauses": [],
+                    "points": []
+                  },
+                  {
+                    "article_id": "doc:291144:part:1:article:6",
+                    "number": "7",
+                    "title": "Quy định về an ninh bảo mật thông tin và lưu trữ dữ liệu của tổ chức cung cấp dịch vụ giao dịch chứng khoán trực tuyến",
+                    "content": "Điều 7. Quy định về an ninh bảo mật thông tin và lưu trữ dữ liệu của tổ chức cung cấp dịch vụ giao dịch chứng khoán trực tuyến",
+                    "clauses": [
+                      {
+                        "clause_id": "doc:291144:part:1:article:6:clause:1",
+                        "number": "1",
+                        "content": "1. Trang thông tin điện tử, hệ thống thư điện tử của\ntổ chức cung cấp dịch vụ giao dịch chứng khoán trực tuyến phải được xác thực bởi chứng thư số.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:291144:part:1:article:6:clause:2",
+                        "number": "2",
+                        "content": "2. Hệ thống giao dịch chứng khoán trực tuyến phải được thiết lập để ngăn chặn\nviệc truy cập bất hợp pháp vào hệ thống kinh doanh nội bộ thông qua hoạt động giao dịch trực tuyến và phải được phân quyền hệ thống giữa các bộ phận nghiệp vụ có tiềm ẩn xung đột lợi ích theo quy trình kiểm soát nội bộ.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:291144:part:1:article:6:clause:3",
+                        "number": "3",
+                        "content": "3. Hệ thống phần mềm ứng dụng trước khi đưa vào khai\nthác, vận hành phải được rà soát, quét lỗ hổng bảo mật và có báo cáo đánh giá bằng biên bản. Môi trường vận hành hệ thống phần mềm giao dịch chứng khoán trực tuyến phải tách biệt với môi trường kiểm thử, môi trường phát triển phần mềm. Định kỳ thực hiện đánh giá rủi ro an toàn thông tin mạng của hệ thống giao dịch chứng khoán trực tuyến một (01) năm một (01) lần.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:291144:part:1:article:6:clause:4",
+                        "number": "4",
+                        "content": "4. Hệ thống giao dịch chứng khoán trực tuyến phải có các giải pháp kỹ thuật\nđảm bảo an toàn thông tin mạng và bảo mật dữ liệu hệ thống.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:291144:part:1:article:6:clause:5",
+                        "number": "5",
+                        "content": "5. Các chứng từ điện tử, phiếu lệnh điện tử, dữ liệu\nđiện tử và ghi âm các cuộc gọi đặt lệnh của khách hàng, bao gồm cả lệnh hủy phải được lưu trữ ít nhất mười (10) năm ở dạng nguyên bản.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:291144:part:1:article:6:clause:6",
+                        "number": "6",
+                        "content": "6. Thông tin về khách hàng sử dụng dịch vụ giao dịch\ntrực tuyến, các lệnh giao dịch và thông tin trao đổi trên hệ thống phải được mã hóa trên đường truyền và ở mức ứng dụng, được bảo mật theo quy định của pháp luật trừ khi có yêu cầu từ cơ quan quản lý nhà nước có thẩm quyền.",
+                        "points": []
+                      }
+                    ],
+                    "points": []
+                  },
+                  {
+                    "article_id": "doc:291144:part:1:article:7",
+                    "number": "8",
+                    "title": "Quy định về xác thực",
+                    "content": "Điều 8. Quy định về xác thực",
+                    "clauses": [
+                      {
+                        "clause_id": "doc:291144:part:1:article:7:clause:1",
+                        "number": "1",
+                        "content": "1. Các giải pháp xác thực áp dụng trong giao dịch\nchứng khoán trực tuyến phải có độ an toàn tối thiểu tương đương giải pháp xác thực hai yếu tố trở lên, bao gồm:",
+                        "points": [
+                          {
+                            "point_id": "doc:291144:part:1:article:7:clause:1:point:1",
+                            "label": "a",
+                            "content": "a) Giải pháp xác thực hai yếu tố;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:291144:part:1:article:7:clause:1:point:2",
+                            "label": "b",
+                            "content": "b) Giải pháp xác thực sử dụng chứng thư số;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:291144:part:1:article:7:clause:1:point:3",
+                            "label": "c",
+                            "content": "c) Các giải pháp xác thực khác được pháp luật cho\nphép và phù hợp với các quy định của cơ quan có thẩm quyền.",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "clause_id": "doc:291144:part:1:article:7:clause:2",
+                        "number": "2",
+                        "content": "2. Khi đặt lệnh qua điện thoại,\nnhà đầu tư phải sử dụng số điện thoại đặt lệnh và cung cấp tối thiểu các thông tin sau: số tài khoản giao dịch, thông tin xác thực theo quy định tại điểm a khoản 1 Điều này. Giao dịch chỉ được thực hiện khi thông tin nhà đầu tư cung cấp được so khớp với thông tin nhà đầu tư đã đăng ký và lưu trong hệ thống giao dịch chứng khoán trực tuyến.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:291144:part:1:article:7:clause:3",
+                        "number": "3",
+                        "content": "3. Nhà đầu tư được lựa chọn giải pháp xác thực do tổ\nchức cung cấp dịch vụ giao dịch chứng khoán trực tuyến cung cấp khi đăng ký sử dụng dịch vụ giao dịch chứng khoán trực tuyến và được đăng ký lại giải pháp xác thực khi có nhu cầu.",
+                        "points": []
+                      }
+                    ],
+                    "points": []
+                  },
+                  {
+                    "article_id": "doc:291144:part:1:article:8",
+                    "number": "9",
+                    "title": "Quy định về phiếu lệnh điện tử",
+                    "content": "Điều 9. Quy định về phiếu lệnh điện tử",
+                    "clauses": [
+                      {
+                        "clause_id": "doc:291144:part:1:article:8:clause:1",
+                        "number": "1",
+                        "content": "1. Phiếu lệnh điện tử phải có tối\nthiểu các thông tin: số hiệu lệnh, loại lệnh, số tài khoản đặt lệnh, phương thức giao dịch, mã chứng khoán hoặc tên chứng khoán, số lượng và giá giao dịch, thời gian giao dịch (năm, tháng, ngày, giờ, phút), thiết bị đặt lệnh, địa chỉ vật lý của thiết bị đặt lệnh hoặc thông tin nhận dạng khác đảm bảo tính duy nhất của thiết bị đặt lệnh.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:291144:part:1:article:8:clause:2",
+                        "number": "2",
+                        "content": "2. Phiếu lệnh hủy phải có thông tin về số hiệu lệnh,\nkhối lượng hủy và xác nhận lệnh hủy.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:291144:part:1:article:8:clause:3",
+                        "number": "3",
+                        "content": "3. Phiếu lệnh điện tử phải được\nký bằng chữ ký số hoặc gắn liền, kết hợp một cách lô gíc với thông tin xác thực của nhà đầu tư theo quy định tại Điều 8 Thông tư này trước khi được gửi vào hệ thống.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:291144:part:1:article:8:clause:4",
+                        "number": "4",
+                        "content": "4. Phiếu lệnh điện tử trong giao dịch chứng chỉ quỹ\nphải đảm bảo đầy đủ các thông tin theo quy định của pháp luật về giao dịch chứng chỉ quỹ và đáp ứng quy định tại khoản 3 Điều này.",
+                        "points": []
+                      }
+                    ],
+                    "points": []
+                  }
+                ]
+              },
+              {
+                "section_id": "doc:291144:part:1:section:2",
+                "number": "2",
+                "title": "CUNG CẤP DỊCH VỤ GIAO DỊCH CHỨNG KHOÁN TRỰC TUYẾN",
+                "content": "Mục 2. ĐĂNG KÝ, THU HỒI CHẤP THUẬN\nCUNG CẤP DỊCH VỤ GIAO DỊCH CHỨNG KHOÁN TRỰC TUYẾN",
+                "articles": [
+                  {
+                    "article_id": "doc:291144:part:1:article:9",
+                    "number": "10",
+                    "title": "Đối tượng đăng ký cung cấp dịch vụ giao dịch chứng khoán trực tuyến Đối tượng đăng ký cung cấp dịch vụ giao dịch chứng khoán trực tuyến là công ty chứng khoán thành viên của Sở giao dịch chứng khoán, đã thực hiện kết nối với hệ thống giao dịch của Sở giao dịch chứng khoán và không thuộc trường hợp sau:",
+                    "content": "Điều 10. Đối tượng đăng ký cung cấp dịch vụ giao dịch chứng khoán trực tuyến Đối tượng đăng ký cung cấp dịch vụ giao dịch chứng khoán trực tuyến là công ty chứng khoán thành viên của Sở giao dịch chứng khoán, đã thực hiện kết nối với hệ thống giao dịch của Sở giao dịch chứng khoán và không thuộc trường hợp sau:",
+                    "clauses": [
+                      {
+                        "clause_id": "doc:291144:part:1:article:9:clause:1",
+                        "number": "1",
+                        "content": "1. Đang trong quá trình giải thể, phá sản, tạm ngừng\nhoạt động hoặc bị ngừng giao dịch để chấm dứt tư cách thành viên tại Sở giao dịch chứng khoán.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:291144:part:1:article:9:clause:2",
+                        "number": "2",
+                        "content": "2. Bị rút nghiệp vụ môi giới hoặc đang thực hiện thủ\ntục rút nghiệp vụ môi giới.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:291144:part:1:article:9:clause:3",
+                        "number": "3",
+                        "content": "3. Bị kiểm soát, kiểm soát đặc biệt.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:291144:part:1:article:9:clause:4",
+                        "number": "4",
+                        "content": "4. Các trường hợp bị đình chỉ hoạt động khác theo\nquy định của pháp luật.",
+                        "points": []
+                      }
+                    ],
+                    "points": []
+                  },
+                  {
+                    "article_id": "doc:291144:part:1:article:10",
+                    "number": "11",
+                    "title": "Hồ sơ đăng ký cung cấp dịch vụ giao dịch chứng khoán trực tuyến Hồ sơ đăng ký cung cấp dịch vụ giao dịch chứng khoán trực tuyến bao gồm:",
+                    "content": "Điều 11. Hồ sơ đăng ký cung cấp dịch vụ giao dịch chứng khoán trực tuyến Hồ sơ đăng ký cung cấp dịch vụ giao dịch chứng khoán trực tuyến bao gồm:",
+                    "clauses": [
+                      {
+                        "clause_id": "doc:291144:part:1:article:10:clause:1",
+                        "number": "1",
+                        "content": "1. Đơn đăng ký cung cấp dịch vụ giao dịch chứng khoán trực tuyến theo mẫu quy định tại Phụ lục số 01 ban hành kèm theo Thông tư này.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:291144:part:1:article:10:clause:2",
+                        "number": "2",
+                        "content": "2. Danh sách tên và lý lịch của các chuyên gia quản\nlý hệ thống giao dịch chứng khoán trực tuyến theo mẫu quy định tại Phụ lục số 02 ban hành kèm theo Thông tư này.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:291144:part:1:article:10:clause:3",
+                        "number": "3",
+                        "content": "3. Báo cáo thiết kế hệ thống giao dịch chứng khoán\ntrực tuyến theo mẫu quy định tại Phụ lục số 03 ban hành kèm theo Thông tư này.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:291144:part:1:article:10:clause:4",
+                        "number": "4",
+                        "content": "4. Bản sao có chứng thực văn bản chấp thuận và biên\nbản kiểm tra hệ thống giao dịch chứng khoán trực tuyến của Sở giao dịch chứng khoán đối với thành viên giao dịch.",
+                        "points": []
+                      }
+                    ],
+                    "points": []
+                  },
+                  {
+                    "article_id": "doc:291144:part:1:article:11",
+                    "number": "12",
+                    "title": "Thủ tục chấp thuận cung cấp dịch vụ giao dịch chứng khoán trực tuyến Công ty chứng khoán lập hồ sơ theo quy định tại Điều 11 Thông tư này và lựa chọn phương thức giải quyết thủ tục với Ủy ban Chứng khoán Nhà nước thông qua hệ thống dịch vụ công trực tuyến của Ủy ban Chứng khoán Nhà nước hoặc nộp hồ sơ trực tiếp hoặc dịch vụ bưu chính công ích.",
+                    "content": "Điều 12. Thủ tục chấp thuận cung cấp dịch vụ giao dịch chứng khoán trực tuyến Công ty chứng khoán lập hồ sơ theo quy định tại Điều 11 Thông tư này và lựa chọn phương thức giải quyết thủ tục với Ủy ban Chứng khoán Nhà nước thông qua hệ thống dịch vụ công trực tuyến của Ủy ban Chứng khoán Nhà nước hoặc nộp hồ sơ trực tiếp hoặc dịch vụ bưu chính công ích.",
+                    "clauses": [
+                      {
+                        "clause_id": "doc:291144:part:1:article:11:clause:1",
+                        "number": "1",
+                        "content": "1. Trong thời hạn năm (05) ngày làm việc kể từ ngày\nnhận được hồ sơ theo quy định tại Điều 11 Thông tư này, trường hợp hồ sơ cần sửa đổi bổ sung, Ủy ban Chứng khoán Nhà nước có văn bản yêu cầu bổ sung hoặc giải trình bằng văn bản đối với trường hợp hồ sơ chưa hợp lệ.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:291144:part:1:article:11:clause:2",
+                        "number": "2",
+                        "content": "2. Trong thời hạn mười (10) ngày làm việc kể từ\nngày nhận được văn bản yêu cầu sửa đổi, bổ sung hồ sơ của Ủy ban Chứng khoán Nhà nước, công ty chứng khoán phải hoàn chỉnh hồ sơ theo yêu cầu gửi Ủy ban Chứng khoán Nhà nước. Sau thời hạn này nếu công ty chứng khoán không bổ sung hồ sơ theo yêu cầu, Ủy ban Chứng khoán Nhà nước có quyền từ chối chấp thuận.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:291144:part:1:article:11:clause:3",
+                        "number": "3",
+                        "content": "3. Trong thời hạn hai mươi (20) ngày làm việc, kể từ\nngày nhận được hồ sơ đầy đủ, hợp lệ, Ủy ban Chứng khoán Nhà nước xem xét và quyết định chấp thuận cung cấp dịch vụ giao dịch chứng khoán trực tuyến cho công ty chứng khoán. Trường hợp từ chối, Ủy ban Chứng khoán Nhà nước phải trả lời bằng văn bản và nêu rõ lý do.",
+                        "points": []
+                      }
+                    ],
+                    "points": []
+                  },
+                  {
+                    "article_id": "doc:291144:part:1:article:12",
+                    "number": "13",
+                    "title": "Thu hồi quyết định chấp thuận, tạm dừng cung cấp dịch vụ giao dịch chứng khoán trực tuyến",
+                    "content": "Điều 13. Thu hồi quyết định chấp thuận, tạm dừng cung cấp dịch vụ giao dịch chứng khoán trực tuyến",
+                    "clauses": [
+                      {
+                        "clause_id": "doc:291144:part:1:article:12:clause:1",
+                        "number": "1",
+                        "content": "1. Trường hợp công ty chứng khoán bị tạm ngừng hoạt động hoặc bị đình chỉ hoạt\nđộng môi giới chứng khoán hoặc bị đình chỉ toàn bộ hoạt động, công ty chứng khoán phải tạm dừng cung cấp dịch vụ giao dịch chứng khoán trực tuyến cho đến khi khắc phục được các tình trạng này.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:291144:part:1:article:12:clause:2",
+                        "number": "2",
+                        "content": "2. Công ty chứng khoán\nbị thu hồi Quyết định chấp thuận cung cấp dịch vụ giao dịch chứng khoán trực tuyến trong các trường hợp sau:",
+                        "points": [
+                          {
+                            "point_id": "doc:291144:part:1:article:12:clause:2:point:1",
+                            "label": "a",
+                            "content": "a) Đã đăng ký rút nghiệp vụ môi giới chứng khoán và đã được sự chấp thuận của Ủy ban Chứng\nkhoán Nhà nước;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:291144:part:1:article:12:clause:2:point:2",
+                            "label": "b",
+                            "content": "b) Bị rút nghiệp vụ môi giới chứng khoán;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:291144:part:1:article:12:clause:2:point:3",
+                            "label": "c",
+                            "content": "c) Bị chấm dứt tư cách thành viên với các Sở giao dịch\nchứng khoán;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:291144:part:1:article:12:clause:2:point:4",
+                            "label": "d",
+                            "content": "d) Bị sáp nhập, bị chia, bị hợp nhất;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:291144:part:1:article:12:clause:2:point:5",
+                            "label": "đ",
+                            "content": "đ) Bị giải thể, bị phá sản, thu hồi Giấy phép thành\nlập và hoạt động;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:291144:part:1:article:12:clause:2:point:6",
+                            "label": "e",
+                            "content": "e) Không duy trì, đáp ứng được các quy định tại khoản\n2 Điều 5, khoản 1 và khoản 3 Điều 6, Điều 7, khoản 1 Điều 8 và khoản 3 Điều 9 Thông tư này;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:291144:part:1:article:12:clause:2:point:7",
+                            "label": "g",
+                            "content": "g) Hồ sơ đăng ký cung cấp dịch vụ giao dịch chứng khoán trực tuyến có thông tin sai sự thật;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:291144:part:1:article:12:clause:2:point:8",
+                            "label": "h",
+                            "content": "h) Các trường hợp khác do yêu cầu từ phía cơ quan\nquản lý hoặc do công ty tự nguyện nộp đơn xin ngừng cung cấp dịch vụ giao dịch chứng khoán trực tuyến.",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "clause_id": "doc:291144:part:1:article:12:clause:3",
+                        "number": "3",
+                        "content": "3. Công ty chứng khoán\nbị thu hồi quyết định chấp thuận cung cấp dịch vụ giao dịch chứng khoán trực tuyến theo quy định tại các điểm b, c, e và g khoản 2 Điều này được đăng ký cung cấp lại dịch vụ giao dịch chứng khoán trực tuyến.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:291144:part:1:article:12:clause:4",
+                        "number": "4",
+                        "content": "4. Công ty chứng khoán\nbị thu hồi quyết định chấp thuận cung cấp dịch vụ giao dịch chứng khoán trực tuyến theo quy định tại khoản 2 Điều này phải duy trì và đảm bảo thời gian lưu trữ dữ liệu của hệ thống giao dịch chứng khoán trực tuyến để thực hiện các nghĩa vụ theo quy định của pháp luật.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:291144:part:1:article:12:clause:5",
+                        "number": "5",
+                        "content": "5. Trình tự thu hồi quyết định chấp thuận cung cấp\ndịch vụ giao dịch chứng khoán trực tuyến của công ty chứng khoán được thực hiện theo hướng dẫn của Ủy ban Chứng khoán Nhà nước.",
+                        "points": []
+                      }
+                    ],
+                    "points": []
+                  }
+                ]
+              },
+              {
+                "section_id": "doc:291144:part:1:section:3",
+                "number": "3",
+                "title": "TIN TRONG HOẠT ĐỘNG GIAO DỊCH CHỨNG KHOÁN TRỰC TUYẾN",
+                "content": "Mục 3. BÁO CÁO VÀ CÔNG BỐ THÔNG\nTIN TRONG HOẠT ĐỘNG GIAO DỊCH CHỨNG KHOÁN TRỰC TUYẾN",
+                "articles": [
+                  {
+                    "article_id": "doc:291144:part:1:article:13",
+                    "number": "14",
+                    "title": "Quy định về báo cáo trong hoạt động giao dịch chứng khoán trực tuyến",
+                    "content": "Điều 14. Quy định về báo cáo trong hoạt động giao dịch chứng khoán trực tuyến",
+                    "clauses": [
+                      {
+                        "clause_id": "doc:291144:part:1:article:13:clause:1",
+                        "number": "1",
+                        "content": "1. Công ty chứng khoán\nđược chấp thuận cung cấp dịch vụ giao dịch chứng khoán trực tuyến phải gửi Ủy ban Chứng khoán Nhà nước các báo cáo sau:",
+                        "points": [
+                          {
+                            "point_id": "doc:291144:part:1:article:13:clause:1:point:1",
+                            "label": "a",
+                            "content": "a) Báo cáo năm về hoạt động giao dịch chứng khoán\ntrực tuyến theo mẫu quy định tại Phụ lục số 04 ban hành kèm theo Thông tư này trong vòng ba mươi (30) ngày kể từ ngày kết thúc năm;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:291144:part:1:article:13:clause:1:point:2",
+                            "label": "b",
+                            "content": "b) Báo cáo kèm theo các tài liệu liên quan khi có\nnâng cấp, thay đổi hệ thống giao dịch chứng khoán trực tuyến: Thay đổi core hệ thống, thay đổi phương thức giao dịch, thay đổi nhân sự công nghệ thông tin, thay đổi địa điểm đặt hệ thống theo mẫu quy định tại Phụ lục số 08 ban hành kèm theo Thông tư này. Thời hạn nộp báo cáo trong vòng bảy (07) ngày làm việc sau khi công ty chứng khoán thực hiện nâng cấp hoặc thay đổi.",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "clause_id": "doc:291144:part:1:article:13:clause:2",
+                        "number": "2",
+                        "content": "2. Sở giao dịch chứng khoán gửi Ủy ban Chứng khoán\nNhà nước các báo cáo sau:",
+                        "points": [
+                          {
+                            "point_id": "doc:291144:part:1:article:13:clause:2:point:1",
+                            "label": "a",
+                            "content": "a) Báo cáo năm về hệ thống giao dịch chứng khoán trực\ntuyến theo mẫu quy định tại Phụ lục số 05 ban hành kèm theo Thông tư này trong vòng ba mươi (30) ngày kể từ ngày kết thúc năm;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:291144:part:1:article:13:clause:2:point:2",
+                            "label": "b",
+                            "content": "b) Báo cáo về các thay đổi quy định tiêu chuẩn công\nnghệ đối với thành viên giao dịch của Sở giao dịch chứng khoán. Thời hạn báo cáo trong vòng bảy (07) ngày làm việc sau khi có thay đổi.",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "clause_id": "doc:291144:part:1:article:13:clause:3",
+                        "number": "3",
+                        "content": "3. Trung tâm lưu ký chứng khoán Việt Nam gửi Ủy ban\nChứng khoán Nhà nước báo cáo năm về tình hình giao dịch chứng khoán trực tuyến theo mẫu quy định tại Phụ lục số 06 ban hành kèm theo Thông tư này trong vòng ba mươi (30) ngày kể từ ngày kết thúc năm.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:291144:part:1:article:13:clause:4",
+                        "number": "4",
+                        "content": "4. Trong vòng hai mươi bốn (24) giờ kể từ khi xảy\nra các sự cố nghiêm trọng liên quan đến hệ thống giao dịch chứng khoán trực tuyến, Sở giao dịch chứng khoán, Trung tâm lưu ký chứng khoán Việt Nam, công ty chứng khoán phải gửi báo cáo theo mẫu quy định tại Phụ lục số 07 ban hành kèm theo Thông tư này.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:291144:part:1:article:13:clause:5",
+                        "number": "5",
+                        "content": "5. Công ty quản lý quỹ, đại lý phân phối chứng chỉ\nquỹ phải báo cáo Ủy ban Chứng khoán Nhà nước tài liệu quy định tại khoản 3 Điều 11 Thông tư này tối thiểu năm (05) ngày làm việc trước ngày triển khai hệ thống giao dịch chứng khoán trực tuyến cho nhà đầu tư; thực hiện báo cáo năm về hoạt động giao dịch chứng khoán trực tuyến theo mẫu quy định tại Phụ lục số 04 ban hành kèm theo Thông tư này trong vòng ba mươi (30) ngày kể từ ngày kết thúc năm.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:291144:part:1:article:13:clause:6",
+                        "number": "6",
+                        "content": "6. Báo cáo phải được gửi bằng bản điện tử trên các\nhệ thống trao đổi thông tin điện tử theo hướng dẫn của Ủy ban Chứng khoán Nhà nước.",
+                        "points": []
+                      }
+                    ],
+                    "points": []
+                  },
+                  {
+                    "article_id": "doc:291144:part:1:article:14",
+                    "number": "15",
+                    "title": "Công bố thông tin trong hoạt động giao dịch chứng khoán trực tuyến",
+                    "content": "Điều 15. Công bố thông tin trong hoạt động giao dịch chứng khoán trực tuyến",
+                    "clauses": [
+                      {
+                        "clause_id": "doc:291144:part:1:article:14:clause:1",
+                        "number": "1",
+                        "content": "1. Trang thông tin điện tử chính thức và phần mềm ứng\ndụng phục vụ giao dịch chứng khoán trực tuyến cho nhà đầu tư của công ty chứng khoán, công ty quản lý quỹ, đại lý phân phối chứng chỉ quỹ phải công bố các quy định về dịch vụ giao dịch chứng khoán trực tuyến và những rủi ro có thể xảy ra khi nhà đầu tư thực hiện giao dịch chứng khoán trực tuyến. Các rủi ro bao gồm:",
+                        "points": [
+                          {
+                            "point_id": "doc:291144:part:1:article:14:clause:1:point:1",
+                            "label": "a",
+                            "content": "a) Trong khi truyền tải qua mạng internet, lệnh\ngiao dịch có thể bị treo, bị ngừng, bị trì hoãn hoặc có lỗi dữ liệu;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:291144:part:1:article:14:clause:1:point:2",
+                            "label": "b",
+                            "content": "b) Việc nhận dạng các tổ chức hoặc nhà đầu tư có thể\nkhông chính xác, lỗi về bảo mật có thể xảy ra;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:291144:part:1:article:14:clause:1:point:3",
+                            "label": "c",
+                            "content": "c) Giá cả thị trường và các thông tin chứng khoán khác có thể có lỗi hoặc sai lệch;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:291144:part:1:article:14:clause:1:point:4",
+                            "label": "d",
+                            "content": "d) Những rủi ro có thể xảy ra của các phương thức\nxác thực đặt lệnh cho nhà đầu tư;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:291144:part:1:article:14:clause:1:point:5",
+                            "label": "đ",
+                            "content": "đ) Những rủi ro khác mà các cơ quan quản lý nhà nước\ncó thẩm quyền, công ty chứng khoán, công ty quản lý quỹ, đại lý phân phối chứng chỉ quỹ thấy cần thiết phải công bố.",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "clause_id": "doc:291144:part:1:article:14:clause:2",
+                        "number": "2",
+                        "content": "2. Sở giao dịch chứng khoán công bố trên trang thông tin điện tử của Sở giao dịch chứng\nkhoán quy định pháp luật liên quan đến giao dịch điện tử trên thị trường chứng khoán và các văn bản quy định về hoạt động giao dịch điện tử do Sở giao dịch chứng khoán ban hành.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:291144:part:1:article:14:clause:3",
+                        "number": "3",
+                        "content": "3. Trung tâm lưu ký chứng khoán Việt Nam công bố trên trang thông tin điện tử của Trung tâm\nlưu ký chứng khoán Việt Nam danh sách các sản phẩm, dịch vụ giao dịch chứng khoán trực tuyến được phép cung cấp; quy định pháp luật liên quan đến giao dịch điện tử trên thị trường chứng khoán và các văn bản quy định về hoạt động giao dịch điện tử do Trung tâm lưu ký chứng khoán Việt Nam ban hành.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:291144:part:1:article:14:clause:4",
+                        "number": "4",
+                        "content": "4. Ủy ban Chứng khoán\nNhà nước đăng tải trên cổng thông tin điện tử Ủy ban Chứng khoán Nhà nước danh sách công ty chứng khoán được phép cung cấp dịch vụ giao dịch chứng khoán trực tuyến, thủ tục, quy định về hồ sơ đăng ký cung cấp dịch vụ giao dịch chứng khoán trực tuyến, danh sách công ty chứng khoán bị thu hồi quyết định chấp thuận cung cấp dịch vụ giao dịch chứng khoán trực tuyến.",
+                        "points": []
+                      }
+                    ],
+                    "points": []
+                  }
+                ]
+              }
+            ],
+            "articles": []
+          },
+          {
+            "chapter_id": "doc:291144:part:1:chapter:3",
+            "number": "III",
+            "title": "HOẠT ĐỘNG TRAO ĐỔI THÔNG TIN ĐIỆN TỬ",
+            "content": "Chương III\nHOẠT ĐỘNG TRAO ĐỔI THÔNG TIN ĐIỆN TỬ",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:291144:part:1:article:15",
+                "number": "16",
+                "title": "Quy định về hoạt động trao đổi thông tin điện tử",
+                "content": "Điều 16. Quy định về hoạt động trao đổi thông tin điện tử",
+                "clauses": [
+                  {
+                    "clause_id": "doc:291144:part:1:article:15:clause:1",
+                    "number": "1",
+                    "content": "1. Nội dung trao đổi thông tin điện tử bao gồm\nthông tin trao đổi qua Internet hoặc mạng riêng liên quan đến các hoạt động sau:",
+                    "points": [
+                      {
+                        "point_id": "doc:291144:part:1:article:15:clause:1:point:1",
+                        "label": "a",
+                        "content": "a) Chào bán chứng khoán\nra công chúng, đăng ký chứng khoán, lưu ký chứng khoán, niêm yết, đăng ký giao dịch và giao dịch chứng khoán;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:291144:part:1:article:15:clause:1:point:2",
+                        "label": "b",
+                        "content": "b) Hoạt động quản lý các tổ chức, cá nhân theo quy định\ntại khoản 2 Điều 2 Thông tư này;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:291144:part:1:article:15:clause:1:point:3",
+                        "label": "c",
+                        "content": "c) Hoạt động công bố thông tin trên thị trường chứng\nkhoán;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:291144:part:1:article:15:clause:1:point:4",
+                        "label": "d",
+                        "content": "d) Hoạt động khác liên quan đến thị trường chứng khoán theo quy định của pháp luật chứng khoán.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:291144:part:1:article:15:clause:2",
+                    "number": "2",
+                    "content": "2. Tổ chức cung cấp dịch vụ trao đổi thông tin điện\ntử có trách nhiệm:",
+                    "points": [
+                      {
+                        "point_id": "doc:291144:part:1:article:15:clause:2:point:1",
+                        "label": "a",
+                        "content": "a) Tạo lập trang thông tin điện tử trên mạng\nInternet đóng vai trò như một cổng vào cho dịch vụ trao đổi thông tin điện tử;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:291144:part:1:article:15:clause:2:point:2",
+                        "label": "b",
+                        "content": "b) Bảo mật thông tin cho các đối tượng đăng ký sử dụng\ndịch vụ và đảm bảo an toàn thông tin cho hệ thống trao đổi thông tin điện tử;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:291144:part:1:article:15:clause:2:point:3",
+                        "label": "c",
+                        "content": "c) Ban hành quy chế hướng dẫn về dịch vụ trao đổi\nthông tin điện tử.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:291144:part:1:article:15:clause:3",
+                    "number": "3",
+                    "content": "3. Đối tượng tham gia trao đổi thông tin điện tử\nđăng ký sử dụng dịch vụ và thực hiện theo quy chế hướng dẫn của tổ chức cung cấp dịch vụ trao đổi thông tin điện tử.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:291144:part:1:article:15:clause:4",
+                    "number": "4",
+                    "content": "4. Việc sử dụng chứng thư số, chữ ký số trong hoạt\nđộng trao đổi thông tin điện tử được thực hiện theo quy định của pháp luật về giao dịch điện tử trong hoạt động tài chính.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:291144:part:1:chapter:4",
+            "number": "IV",
+            "title": "TRÁCH NHIỆM CỦA CÁC CƠ QUAN, TỔ CHỨC, CÁ NHÂN THAM GIA HOẠT ĐỘNG GIAO DỊCH ĐIỆN TỬ TRÊN THỊ TRƯỜNG CHỨNG KHOÁN Điều 17. Trách nhiệm của các tổ chức, cá nhân tham gia hoạt động giao dịch điện tử trên thị trường chứng khoán 1. Tuân thủ quy định trong hoạt động giao dịch chứng khoán và thị trường chứng khoán. 2. Tuân thủ quy định về bảo vệ thông tin trong hoạt động giao dịch điện tử và các quy định về an toàn bảo mật, về nhân sự, về hệ thống dữ liệu. 3. Thực hiện lưu giữ đầy đủ hồ sơ, tài liệu chứng từ liên quan đến hoạt động giao dịch chứng khoán trực tuyến của công ty; Lập, xác nhận hồ sơ đăng ký cung cấp dịch vụ giao dịch chứng khoán trực tuyến có thông tin chính xác, thực hiện sửa đổi, bổ sung hồ sơ khi phát hiện thông tin không chính xác và không được bỏ sót nội dung quan trọng theo quy định; Thực hiện lưu giữ thông tin đã báo cáo theo quy định của pháp luật. 4. Công ty chứng khoán không được cung cấp dịch vụ giao dịch chứng khoán trực tuyến khi chưa được Ủy ban Chứng khoán Nhà nước chấp thuận hoặc khi quyết định chấp thuận bị thu hồi. 5. Thực hiện báo cáo đúng thời hạn, báo cáo đầy đủ nội dung theo quy định của pháp luật hoặc theo yêu cầu của Ủy ban Chứng khoán Nhà nước",
+            "content": "Chương IV\nTRÁCH NHIỆM CỦA CÁC CƠ\nQUAN, TỔ CHỨC, CÁ NHÂN THAM GIA HOẠT ĐỘNG GIAO DỊCH ĐIỆN TỬ TRÊN THỊ TRƯỜNG CHỨNG\nKHOÁN\nĐiều\n17. Trách nhiệm của các tổ chức, cá nhân tham gia hoạt động giao dịch điện tử\ntrên thị trường chứng khoán\n1. Tuân thủ quy định trong hoạt động giao dịch chứng\nkhoán và thị trường chứng khoán.\n2. Tuân thủ quy định về bảo vệ thông tin trong hoạt\nđộng giao dịch điện tử và các quy định về an toàn bảo mật, về nhân sự, về hệ thống dữ liệu.\n3. Thực hiện lưu giữ đầy đủ hồ sơ, tài liệu chứng từ\nliên quan đến hoạt động giao dịch chứng khoán trực tuyến của công ty; Lập, xác nhận hồ sơ đăng ký cung cấp dịch vụ giao dịch chứng khoán trực tuyến có thông tin chính xác, thực hiện sửa đổi, bổ sung hồ sơ khi phát hiện thông tin không chính xác và không được bỏ sót nội dung quan trọng theo quy định; Thực hiện lưu giữ thông tin đã báo cáo theo quy định của pháp luật.\n4. Công ty chứng khoán\nkhông được cung cấp dịch vụ giao dịch chứng khoán trực tuyến khi chưa được Ủy ban Chứng khoán Nhà nước chấp thuận hoặc khi quyết định chấp thuận bị thu hồi.\n5. Thực hiện báo cáo đúng thời hạn, báo cáo đầy đủ\nnội dung theo quy định của pháp luật hoặc theo yêu cầu của Ủy ban Chứng khoán Nhà nước.",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:291144:part:1:article:16",
+                "number": "18",
+                "title": "Kiểm tra, giám sát hoạt động giao dịch điện tử trên thị trường chứng khoán",
+                "content": "Điều 18. Kiểm tra, giám sát hoạt động giao dịch điện tử trên thị trường chứng khoán",
+                "clauses": [
+                  {
+                    "clause_id": "doc:291144:part:1:article:16:clause:1",
+                    "number": "1",
+                    "content": "1. Ủy ban Chứng khoán\nNhà nước có trách nhiệm giám sát, kiểm tra định kỳ hoặc bất thường đối với Sở giao dịch chứng khoán, Trung tâm lưu ký chứng khoán Việt Nam, công ty chứng khoán, công ty quản lý quỹ, đại lý phân phối chứng chỉ quỹ và các tổ chức, cá nhân khác về thực hiện giao dịch điện tử trên thị trường chứng khoán theo quy định hoặc khi xảy ra sự cố ảnh hưởng đến quyền lợi của nhà đầu tư và sự an toàn của thị trường chứng khoán.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:291144:part:1:article:16:clause:2",
+                    "number": "2",
+                    "content": "2. Sở giao dịch chứng khoán, Trung tâm lưu ký chứng khoán\nViệt Nam có trách nhiệm phối hợp giám sát hoạt động giao dịch chứng khoán trực tuyến của tổ chức cung cấp dịch vụ giao dịch chứng khoán trực tuyến và các tổ chức, cá nhân có liên quan theo yêu cầu của Ủy ban Chứng khoán Nhà nước.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:291144:part:1:article:16:clause:3",
+                    "number": "3",
+                    "content": "3. Tổ chức, cá nhân tham gia giao dịch điện tử trên\nthị trường chứng khoán có trách nhiệm cung cấp đầy đủ, kịp thời thông tin, dữ liệu và các tài liệu liên quan đến hoạt động giao dịch điện tử khi có yêu cầu của cơ quan có thẩm quyền.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:291144:part:1:chapter:5",
+            "number": "V",
+            "title": "ĐIỀU KHOẢN THI HÀNH Điều 19. Hiệu lực thi hành Thông tư này có hiệu lực thi hành kể từ ngày 01 tháng 03 năm 2018 và thay thế Thông tư số 87/2013/TT-BTC ngày 28 tháng 6 năm 2013 của Bộ trưởng Bộ Tài chính hướng dẫn giao dịch điện tử trên thị trường chứng khoán",
+            "content": "Chương V\nĐIỀU KHOẢN THI HÀNH\nĐiều\n19. Hiệu lực thi hành\nThông tư này có hiệu lực thi hành kể từ ngày 01 tháng 03 năm 2018 và thay thế Thông tư số 87/2013/TT-BTC ngày 28 tháng 6 năm 2013 của Bộ trưởng Bộ Tài chính hướng dẫn giao dịch điện tử trên thị trường chứng khoán.",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:291144:part:1:article:17",
+                "number": "20",
+                "title": "Tổ chức thực hiện",
+                "content": "Điều 20. Tổ chức thực hiện",
+                "clauses": [
+                  {
+                    "clause_id": "doc:291144:part:1:article:17:clause:1",
+                    "number": "1",
+                    "content": "1. Trong vòng sáu (06) tháng kể từ ngày Thông tư\nnày có hiệu lực thi hành, các công ty chứng khoán đã được Ủy ban Chứng khoán Nhà nước chấp thuận cung cấp dịch vụ giao dịch chứng khoán trực tuyến trước ngày Thông tư này có hiệu lực thi hành có trách nhiệm hoàn thiện hệ thống giao dịch chứng khoán trực tuyến, đảm bảo đáp ứng yêu cầu về dịch vụ, hạ tầng kỹ thuật, an ninh bảo mật, yêu cầu về xác thực và lưu trữ dữ liệu theo quy định của Thông tư này.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:291144:part:1:article:17:clause:2",
+                    "number": "2",
+                    "content": "2. Ủy ban Chứng khoán\nNhà nước hướng dẫn, ban hành tiêu chuẩn kỹ thuật về ứng dụng công nghệ thông tin trong giao dịch điện tử trên thị trường chứng khoán.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:291144:part:1:article:17:clause:3",
+                    "number": "3",
+                    "content": "3. Ủy ban Chứng khoán\nNhà nước, Sở giao dịch chứng khoán, Trung tâm lưu ký chứng khoán Việt Nam và các tổ chức, cá nhân tham gia giao dịch điện tử trên thị trường chứng khoán chịu trách nhiệm thi hành Thông tư này./.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          }
+        ],
+        "sections": [],
+        "articles": [],
+        "unstructured_blocks": []
+      }
+    ]
+  },
+  "issues": [],
+  "status": "ok",
+  "source_hash": "context_291144.json",
+  "stats": {
+    "source_chars": 55651,
+    "passage_chars": 55497,
+    "parts": 1,
+    "chapters": 5,
+    "sections": 3,
+    "articles": 17,
+    "clauses": 64,
+    "points": 33
+  }
+}

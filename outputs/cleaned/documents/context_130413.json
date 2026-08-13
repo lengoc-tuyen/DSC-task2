@@ -1,0 +1,798 @@
+{
+  "schema_version": "2.0",
+  "document_id": 130413,
+  "metadata": {
+    "name": "Quyet-dinh-706-QD-BHXH-2023-Quy-trinh-giai-quyet-Dang-ky-khai-tu-Xoa-dang-ky-thuong-tru-Tro-cap-mai-",
+    "link": "https://thuvienphapluat.vn/van-ban/Bao-hiem/Quyet-dinh-706-QD-BHXH-2023-Quy-trinh-giai-quyet-Dang-ky-khai-tu-Xoa-dang-ky-thuong-tru-Tro-cap-mai-tang-phi-569060.aspx",
+    "issuing_agency": "BẢO HIỂM XÃ HỘI VIỆT NAM",
+    "national_header": "CỘNG HÒA XÃ HỘI\r\n\n  CHỦ NGHĨA VIỆT NAM",
+    "motto": "Độc lập - Tự do - Hạnh phúc",
+    "document_number": "706/QĐ-BHXH",
+    "issued_place": "Hà Nội",
+    "issued_date": "ngày 19\r\n\n  tháng 5 năm 2023",
+    "document_type": "QUYẾT ĐỊNH",
+    "title": "BAN HÀNH QUY TRÌNH LIÊN THÔNG ĐIỆN TỬ GIẢI QUYẾT NHÓM THỦ TỤC HÀNH CHÍNH “ĐĂNG KÝ KHAI TỬ - XÓA ĐĂNG KÝ THƯỜNG TRÚ - TRỢ CẤP MAI TÁNG PHÍ” TRÊN CỔNG DỊCH VỤ CÔNG QUỐC GIA THEO QUYẾT ĐỊNH SỐ 06/QĐ-TTG NGÀY 06/01/2022 CỦA THỦ TƯỚNG CHÍNH PHỦ TỔNG GIÁM ĐỐC BẢO HIỂM XÃ HỘI VIỆT NAM"
+  },
+  "administrative_header": {
+    "removed": true,
+    "removed_char_count": 160
+  },
+  "preamble": {
+    "text": "QUYẾT ĐỊNH BAN\nHÀNH QUY TRÌNH LIÊN THÔNG ĐIỆN TỬ GIẢI QUYẾT NHÓM THỦ TỤC HÀNH CHÍNH “ĐĂNG KÝ\nKHAI TỬ - XÓA ĐĂNG KÝ THƯỜNG TRÚ - TRỢ CẤP MAI TÁNG PHÍ” TRÊN CỔNG DỊCH VỤ CÔNG\nQUỐC GIA THEO QUYẾT ĐỊNH SỐ 06/QĐ-TTG NGÀY\n06/01/2022 CỦA THỦ TƯỚNG CHÍNH PHỦ\nTỔNG GIÁM ĐỐC BẢO HIỂM XÃ HỘI VIỆT NAM\nCăn cứ Luật Bảo hiểm xã hội ngày 20 tháng 11 năm 2014; Căn cứ Nghị định số 166/2016/NĐ-CP ngày 24 tháng 12 năm 2016 của Chính phủ quy định về giao dịch điện tử trong lĩnh vực bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp; Căn cứ Nghị định số 143/2018/NĐ-CP ngày 15 tháng 10 năm 2018 của Chính phủ quy định chi tiết Luật Bảo hiểm xã hội và Luật An toàn, vệ sinh lao động về bảo hiểm xã hội bắt buộc đối với người lao động là công dân nước ngoài làm việc tại Việt Nam; Căn cứ Nghị định số 45/2020/NĐ-CP ngày 08 tháng 4 năm 2020 của Chính phủ quy định việc thực hiện thủ tục hành chính trên môi trường điện tử; Căn cứ Nghị định số 89/2020/NĐ-CP ngày 04/8/2020 của Chính phủ quy định chức năng; nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bảo hiểm xã hội Việt Nam; Căn cứ Quyết định số 1380/QĐ-TTg ngày 18/10/2018 của Thủ tướng Chính phủ phê duyệt “Đề án thực hiện liên thông các thủ tục hành chính; Đăng ký khai tử, xóa đăng ký thường trú, hưởng chế độ tử tuất/hỗ trợ chi phí mai táng/hưởng mai táng phí”; Căn cứ Quyết định số 06/QĐ-TTg ngày 06/01/2022 của Thủ tướng Chính phủ phê duyệt Đề án phát triển ứng dụng dữ liệu về dân cư, định danh và xác thực điện tử phục vụ chuyển đổi số quốc gia giai đoạn 2022-2025, tầm nhìn đến năm 2030; Căn cứ Quyết định số 838/QĐ-BHXH ngày 29 tháng 5 năm 2017 của Bảo hiểm xã hội Việt Nam ban hành quy trình giao dịch điện tử trong lĩnh vực bảo hiểm xã hội, bảo hiểm y tế và bảo hiểm thất nghiệp; Căn cứ Quyết định số 166/QĐ-BHXH ngày 31/01/2019 của Bảo hiểm xã hội Việt Nam ban hành quy trình giải quyết hưởng các chế độ bảo hiểm xã hội, chi trả các chế độ bảo hiểm xã hội, bảo hiểm thất nghiệp; Căn cứ Quyết định số 475/QĐ-BHXH ngày 27 tháng 3 năm 2023 của Tổng Giám đốc Bảo hiểm xã hội Việt Nam ban hành Quy chế tổ chức và hoạt động của Bộ phận Tiếp nhận và Trả kết quả giải quyết thủ tục hành chính theo cơ chế một cửa, một cửa liên thông trong ngành Bảo hiểm xã hội Việt Nam; Căn cứ Công văn số 2084/VPCP-KSTT ngày 30/3/2023 của Văn phòng Chính phủ về việc thực hiện quy trình liên thông điện tử đối với 02 nhóm thủ tục hành chính thiết yếu tại Đề án 06; Theo đề nghị của Trưởng Ban Thực hiện chính sách bảo hiểm xã hội.\nQUYẾT ĐỊNH:",
+    "legal_bases": [
+      "Căn cứ Nghị định số 166/2016/NĐ-CP ngày 24 tháng 12 năm 2016 của Chính phủ quy định về giao dịch điện tử trong lĩnh vực bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp",
+      "Căn cứ Nghị định số 143/2018/NĐ-CP ngày 15 tháng 10 năm 2018 của Chính phủ quy định chi tiết Luật Bảo hiểm xã hội và Luật An toàn, vệ sinh lao động về bảo hiểm xã hội bắt buộc đối với người lao động là công dân nước ngoài làm việc tại Việt Nam",
+      "Căn cứ Nghị định số 45/2020/NĐ-CP ngày 08 tháng 4 năm 2020 của Chính phủ quy định việc thực hiện thủ tục hành chính trên môi trường điện tử",
+      "Căn cứ Nghị định số 89/2020/NĐ-CP ngày 04/8/2020 của Chính phủ quy định chức năng",
+      "Căn cứ Quyết định số 1380/QĐ-TTg ngày 18/10/2018 của Thủ tướng Chính phủ phê duyệt “Đề án thực hiện liên thông các thủ tục hành chính",
+      "Căn cứ Quyết định số 06/QĐ-TTg ngày 06/01/2022 của Thủ tướng Chính phủ phê duyệt Đề án phát triển ứng dụng dữ liệu về dân cư, định danh và xác thực điện tử phục vụ chuyển đổi số quốc gia giai đoạn 2022-2025, tầm nhìn đến năm 2030",
+      "Căn cứ Quyết định số 838/QĐ-BHXH ngày 29 tháng 5 năm 2017 của Bảo hiểm xã hội Việt Nam ban hành quy trình giao dịch điện tử trong lĩnh vực bảo hiểm xã hội, bảo hiểm y tế và bảo hiểm thất nghiệp",
+      "Căn cứ Quyết định số 166/QĐ-BHXH ngày 31/01/2019 của Bảo hiểm xã hội Việt Nam ban hành quy trình giải quyết hưởng các chế độ bảo hiểm xã hội, chi trả các chế độ bảo hiểm xã hội, bảo hiểm thất nghiệp",
+      "Căn cứ Quyết định số 475/QĐ-BHXH ngày 27 tháng 3 năm 2023 của Tổng Giám đốc Bảo hiểm xã hội Việt Nam ban hành Quy chế tổ chức và hoạt động của Bộ phận Tiếp nhận và Trả kết quả giải quyết thủ tục hành chính theo cơ chế một cửa, một cửa liên thông trong ngành Bảo hiểm xã hội Việt Nam",
+      "Căn cứ Công văn số 2084/VPCP-KSTT ngày 30/3/2023 của Văn phòng Chính phủ về việc thực hiện quy trình liên thông điện tử đối với 02 nhóm thủ tục hành chính thiết yếu tại Đề án 06"
+    ],
+    "proposals": [
+      "Theo đề nghị của Trưởng Ban Thực hiện chính sách bảo hiểm xã hội.\nQUYẾT ĐỊNH:"
+    ],
+    "enactment_formula": "QUYẾT ĐỊNH:"
+  },
+  "passage": "QUYẾT ĐỊNH BAN\nHÀNH QUY TRÌNH LIÊN THÔNG ĐIỆN TỬ GIẢI QUYẾT NHÓM THỦ TỤC HÀNH CHÍNH “ĐĂNG KÝ\nKHAI TỬ - XÓA ĐĂNG KÝ THƯỜNG TRÚ - TRỢ CẤP MAI TÁNG PHÍ” TRÊN CỔNG DỊCH VỤ CÔNG\nQUỐC GIA THEO QUYẾT ĐỊNH SỐ 06/QĐ-TTG NGÀY\n06/01/2022 CỦA THỦ TƯỚNG CHÍNH PHỦ\nTỔNG GIÁM ĐỐC BẢO HIỂM XÃ HỘI VIỆT NAM\nCăn cứ Luật Bảo hiểm xã hội ngày 20 tháng 11 năm 2014; Căn cứ Nghị định số 166/2016/NĐ-CP ngày 24 tháng 12 năm 2016 của Chính phủ quy định về giao dịch điện tử trong lĩnh vực bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp; Căn cứ Nghị định số 143/2018/NĐ-CP ngày 15 tháng 10 năm 2018 của Chính phủ quy định chi tiết Luật Bảo hiểm xã hội và Luật An toàn, vệ sinh lao động về bảo hiểm xã hội bắt buộc đối với người lao động là công dân nước ngoài làm việc tại Việt Nam; Căn cứ Nghị định số 45/2020/NĐ-CP ngày 08 tháng 4 năm 2020 của Chính phủ quy định việc thực hiện thủ tục hành chính trên môi trường điện tử; Căn cứ Nghị định số 89/2020/NĐ-CP ngày 04/8/2020 của Chính phủ quy định chức năng; nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bảo hiểm xã hội Việt Nam; Căn cứ Quyết định số 1380/QĐ-TTg ngày 18/10/2018 của Thủ tướng Chính phủ phê duyệt “Đề án thực hiện liên thông các thủ tục hành chính; Đăng ký khai tử, xóa đăng ký thường trú, hưởng chế độ tử tuất/hỗ trợ chi phí mai táng/hưởng mai táng phí”; Căn cứ Quyết định số 06/QĐ-TTg ngày 06/01/2022 của Thủ tướng Chính phủ phê duyệt Đề án phát triển ứng dụng dữ liệu về dân cư, định danh và xác thực điện tử phục vụ chuyển đổi số quốc gia giai đoạn 2022-2025, tầm nhìn đến năm 2030; Căn cứ Quyết định số 838/QĐ-BHXH ngày 29 tháng 5 năm 2017 của Bảo hiểm xã hội Việt Nam ban hành quy trình giao dịch điện tử trong lĩnh vực bảo hiểm xã hội, bảo hiểm y tế và bảo hiểm thất nghiệp; Căn cứ Quyết định số 166/QĐ-BHXH ngày 31/01/2019 của Bảo hiểm xã hội Việt Nam ban hành quy trình giải quyết hưởng các chế độ bảo hiểm xã hội, chi trả các chế độ bảo hiểm xã hội, bảo hiểm thất nghiệp; Căn cứ Quyết định số 475/QĐ-BHXH ngày 27 tháng 3 năm 2023 của Tổng Giám đốc Bảo hiểm xã hội Việt Nam ban hành Quy chế tổ chức và hoạt động của Bộ phận Tiếp nhận và Trả kết quả giải quyết thủ tục hành chính theo cơ chế một cửa, một cửa liên thông trong ngành Bảo hiểm xã hội Việt Nam; Căn cứ Công văn số 2084/VPCP-KSTT ngày 30/3/2023 của Văn phòng Chính phủ về việc thực hiện quy trình liên thông điện tử đối với 02 nhóm thủ tục hành chính thiết yếu tại Đề án 06; Theo đề nghị của Trưởng Ban Thực hiện chính sách bảo hiểm xã hội.\nQUYẾT ĐỊNH:\nĐiều 1. Ban hành kèm theo Quyết định này Quy trình liên thông điện tử giải quyết nhóm thủ tục hành chính: “Đăng ký khai tử - Xóa đăng ký thường trú -Trợ cấp mai táng phí” trên Cổng Dịch vụ công quốc gia theo Quyết định số 06/QĐ-TTg ngày 06/01/2022 của Thủ tướng Chính phủ thuộc trách nhiệm thực hiện của cơ quan Bảo hiểm xã hội.\nĐiều 2. Quyết định này có hiệu lực thi hành kể từ ngày 15/6/2023.\nĐiều 3. Thủ trưởng các đơn vị trực thuộc Bảo hiểm xã hội Việt Nam; Giám đốc Bảo hiểm xã hội các tỉnh, thành phố trực thuộc Trung ương, Giám đốc Bảo hiểm xã hội quận, huyện, thị xã, thành phố trực thuộc tỉnh; các cơ quan, đơn vị, tổ chức, cá nhân có liên quan căn cứ Quyết định này để thi hành./.\nNơi nhận:\n- Như Điều 3;\n- Thủ tướng Chính phủ;\n- Các Phó Thủ tướng;\n- Văn phòng Quốc hội, Văn phòng Trung ương Đảng; Văn phòng Chủ tịch nước; Văn\nphòng Chính phủ;\n- Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ;\n- Tòa án nhân dân Tối cao;\n- Viện Kiểm sát nhân dân Tối cao;\n- Kiểm toán Nhà nước;\n- Cơ quan Trung ương của các đoàn thể;\n- Cục Kiểm soát thủ tục hành chính VPCP;\n- UBND tỉnh, thành phố trực thuộc Trung ương;\n- Hội đồng quản lý BHXH;\n- Tổng Giám đốc, các Phó Tổng Giám đốc;\n- Các đơn vị trực thuộc BHXH Việt Nam;\n- Lưu: VT, CSXH.\nTỔNG GIÁM ĐỐC\nNguyễn Thế Mạnh\nQUY TRÌNH\nGIẢI\nQUYẾT LIÊN THÔNG ĐIỆN TỬ ĐỐI VỚI NHÓM THỦ TỤC HÀNH CHÍNH “ĐĂNG KÝ KHAI TỬ - XÓA\nĐĂNG KÝ THƯỜNG TRÚ - TRỢ CẤP MAI TÁNG PHÍ” TRÊN CỔNG DỊCH VỤ CÔNG QUỐC GIA THEO\nQUYẾT ĐỊNH SỐ 06/QĐ-TTG NGÀY 06/01/2022 CỦA THỦ\nTƯỚNG CHÍNH PHỦ\n(Ban hành kèm theo Quyết định số: 706/QĐ-BHXH ngày 19 tháng 5 năm 2023 của Tổng\nGiám đốc Bảo hiểm xã hội Việt Nam)\nChương I\nQUY ĐỊNH CHUNG\nĐiều 1. Phạm vi thực hiện Quy trình này quy định trình tự thực hiện thủ tục hành chính liên thông “Đăng ký khai tử - Xóa đăng ký thường trú - Trợ cấp mai táng phí” trên Cổng Dịch vụ công quốc gia thực hiện tại cơ quan Bảo hiểm xã hội đối với người chết thuộc các trường hợp sau:\n1. Người đang hưởng lương hưu, trợ cấp bảo hiểm xã\nhội hằng tháng;\n2. Người đang bảo lưu thời gian đóng bảo hiểm xã hội\nmà đã có thời gian đóng bảo hiểm xã hội bắt buộc từ đủ 12 tháng trở lên;\n3. Người tham gia bảo hiểm xã hội tự nguyện có thời\ngian đóng bảo hiểm xã hội tự nguyện từ đủ 60 tháng trở lên;\n4. Người tham gia bảo hiểm xã hội tự nguyện có thời\ngian đóng bảo hiểm xã hội bắt buộc từ đủ 12 tháng trở lên hoặc có tổng thời gian đóng bảo hiểm xã hội bắt buộc và tự nguyện từ đủ 60 tháng trở lên;\n5. Người đang chờ đủ điều kiện về tuổi đời để hưởng\nchế độ hưu trí, trợ cấp hằng tháng;\n6. Người từ đủ 80 tuổi trở lên đang hưởng trợ cấp\ntuất hằng tháng.\nĐiều 2. Đối tượng và điều kiện áp dụng\n1. Đối tượng áp dụng\na) Cá nhân thực hiện đăng ký khai tử cho người chết\nthuộc trường hợp nêu tại khoản 1, 2, 3, 4, 5 Điều 1 có đề nghị cơ quan Bảo hiểm xã hội giải quyết hưởng trợ cấp mai táng hoặc thuộc trường hợp nêu tại khoản 6 Điều 1 được cơ quan có thẩm quyền chuyển Trích lục khai tử điện tử trên Cổng Dịch vụ công quốc gia thông qua phần mềm Dịch vụ công liên thông đến cơ quan Bảo hiểm xã hội để cấp Quyết định thôi hưởng trợ cấp tuất hằng tháng.\nb) Cơ quan Bảo hiểm xã hội, tổ chức và cá nhân có\nliên quan đến trình tự thực hiện trong quy trình này.\n2. Điều kiện áp dụng\na) Cá nhân thực hiện theo điểm a khoản 1 Điều này\ncó tài khoản được cấp bởi Cổng Dịch vụ công quốc gia.\nb) Cơ quan Bảo hiểm xã hội có thẩm quyền giải quyết\ntrợ cấp mai táng và ban hành Quyết định thôi hưởng trợ cấp tuất hằng tháng trên cùng một địa bàn cấp tỉnh với cơ quan có thẩm quyền giải quyết thủ tục đăng ký khai tử. Trường hợp người chết là người đang hưởng lương hưu, trợ cấp bảo hiểm xã hội hàng tháng hoặc đang tham gia bảo hiểm xã hội tự nguyện hoặc đang chờ đủ điều kiện về tuổi đời để hưởng chế độ hưu trí, trợ cấp hàng tháng thì cơ quan Bảo hiểm xã hội có thẩm quyền giải quyết trợ cấp mai táng hoặc thủ tục thôi hưởng trợ cấp tuất hằng tháng là cơ quan Bảo hiểm xã hội nơi đang quản lý chi trả lương hưu, trợ cấp bảo hiểm xã hội hằng tháng hoặc đang quản lý thu bảo hiểm xã hội tự nguyện hoặc đang quản lý hồ sơ chờ đủ điều kiện về tuổi đời để hưởng chế độ hưu trí, trợ cấp hằng tháng.\nĐiều 3. Giải thích từ ngữ\n1. BHXH là chữ viết tắt của cụm từ “bảo hiểm xã hội”.\n2. BHYT là chữ viết tắt của cụm từ “bảo hiểm y tế”.\n3. CMND/CCCD là chữ viết tắt của cụm từ “Chứng minh\nnhân dân/Căn cước công dân”.\n4. Bộ phận Một cửa: Gọi chung cho “Tổ Tiếp nhận hồ\nsơ và trả kết quả thủ tục hành chính” của BHXH cấp huyện và “Bộ phận Tiếp nhận hồ sơ và trả kết quả giải quyết thủ tục hành chính” của BHXH cấp tỉnh.\n5. Bộ phận Chế độ BHXH: Gọi chung cho “Tổ Giải quyết\nchế độ BHXH” và “Bộ phận giải quyết chế độ BHXH” của BHXH cấp huyện.\n6. Bộ phận Kế toán: Gọi chung cho Tổ Kế toán và Bộ\nphận Kế toán của BHXH cấp huyện.\n7. Người nhận trợ cấp mai táng là người lo mai táng\nhoặc người đại diện các thân nhân lo mai táng đứng tên nhận trợ cấp mai táng.\n8. Tờ khai điện tử (Mẫu số 02): Là mẫu được cung cấp\ntrên Cổng Dịch vụ công quốc gia do Văn phòng Chính phủ quy định.\n9. Nghị định số 143/2018/NĐ-CP là chữ viết tắt của\ncụm từ “Nghị định số 143/2018/NĐ-CP ngày 15/10/2018 của Chính phủ quy định chi tiết Luật Bảo hiểm xã hội và Luật An toàn, vệ sinh lao động về bảo hiểm xã hội bắt buộc đối với người lao động là công dân nước ngoài làm việc tại Việt Nam”.\n10. Quyết định số 06/QĐ-TTg là chữ viết tắt của cụm\ntừ “Quyết định số 06/QĐ-TTg ngày 06/01/2022 của Thủ tướng Chính phủ phê duyệt Đề án phát triển ứng dụng dữ liệu về dân cư, định danh và xác thực điện tử phục vụ chuyển đổi số quốc gia giai đoạn 2022-2025, tầm nhìn đến năm 2030”.\n11. Thông tư số 59/2015/TT-BLĐTBXH là chữ viết tắt\ncủa cụm từ “Thông tư số 59/2015/TT-BLĐTBXH ngày 29/12/2015 của Bộ Lao động - Thương binh và Xã hội quy định chi tiết và hướng dẫn thi hành một số điều của Luật Bảo hiểm xã hội về bảo hiểm xã hội bắt buộc”.\n12. Thông tư số 136/2020/TT-BQP là chữ viết tắt của\ncụm từ “Thông tư số 136/2020/TT-BQP ngày 29/10/2020 của Bộ Quốc phòng hướng dẫn về hồ sơ, quy trình và trách nhiệm giải quyết hưởng các chế độ bảo hiểm xã hội trong Bộ Quốc phòng”.\n13. Quyết định số 838/QĐ-BHXH là chữ viết tắt của cụm\ntừ “Quyết định số 838/QĐ-BHXH ngày 29/5/2017 của Tổng Giám đốc Bảo hiểm xã hội Việt Nam ban hành quy trình giao dịch điện tử trong lĩnh vực bảo hiểm xã hội, bảo hiểm y tế và bảo hiểm thất nghiệp”.\n14. Quyết định số 166/QĐ-BHXH là chữ viết tắt của cụm\ntừ “Quyết định số 166/QĐ-BHXH ngày 31/01/2019 của Tổng Giám đốc Bảo hiểm xã hội Việt Nam ban hành quy trình giải quyết hưởng các chế độ bảo hiểm xã hội, chi trả các chế độ bảo hiểm xã hội, bảo hiểm thất nghiệp”.\n15. Quyết định số 515/QĐ-BHXH là chữ viết tắt của cụm\ntừ “Quyết định số 515/QĐ-BHXH ngày 27/3/2020 của Tổng Giám đốc Bảo hiểm xã hội Việt Nam ban hành Quy chế quản lý cơ sở dữ liệu hộ gia đình và mã số bảo hiểm xã hội của người tham gia bảo hiểm xã hội, bảo hiểm y tế”.\n16. Quyết định số 490/QĐ-BHXH là chữ viết tắt của cụm\ntừ “Quyết định số 490/QĐ-BHXH ngày 28/03/2023 sửa đổi, bổ sung một số điều quy trình thu bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp, bảo hiểm tai nạn lao động, bệnh nghề nghiệp; quản lý sổ bảo hiểm xã hội, thẻ bảo hiểm y tế ban hành kèm theo Quyết định số 595/QĐ-BHXH ngày 14/4/2017 của Tổng Giám đốc Bảo hiểm xã hội Việt Nam và sửa đổi, bổ sung điều 1 của Quyết định số 505/QĐ-BHXH ngày 27/3/2020 của Tổng Giám đốc Bảo hiểm xã hội Việt Nam”.\n17. Quyết định số 475/QĐ-BHXH là chữ viết tắt của cụm\ntừ “Quyết định số 475/QĐ-BHXH ngày 27/3/2023 của Tổng Giám đốc Bảo hiểm xã hội Việt Nam ban hành Quy chế tổ chức và hoạt động của Bộ phận Tiếp nhận và Trả kết quả giải quyết thủ tục hành chính theo cơ chế một cửa, một cửa liên thông trong ngành Bảo hiểm xã hội Việt Nam”.\n18. Thông báo giải quyết hồ sơ giao dịch điện tử và\ntrả kết quả (Mẫu số 03/TB-GDĐT): Là mẫu được ban hành kèm theo Quyết định số\n838/QĐ- BHXH.\n19. Bản quá trình đóng BHXH (Mẫu số 04-HSB): Là mẫu\nđược ban hành kèm theo Quyết định số 166/QĐ-BHXH .\n20. Quyết định về việc hưởng trợ cấp mai táng (Mẫu\nsố 08A-HSB và 08B-HSB): Là mẫu được ban hành kèm theo Quyết định số 166/QĐ-BHXH và được sửa đổi, bổ sung tại Quyết định này.\n21. Quyết định về việc hưởng trợ cấp tuất hằng\ntháng (Mẫu số 08C-HSB): Là mẫu được ban hành kèm theo Quyết định số 166/QĐ-BHXH và được sửa đổi, bổ sung tại Quyết định này.\n22. Quyết định về việc hưởng trợ cấp tuất một lần\n(Mẫu số 08D-HSB và 08E-HSB): Là mẫu được ban hành kèm theo Quyết định số 166/QĐ-BHXH và được sửa đổi, bổ sung tại Quyết định này.\n23. Quyết định về việc thôi hưởng trợ cấp tuất hằng\ntháng là mẫu được ban hành kèm theo Công văn số 4967/BHXH-CSXH ngày 12/12/2016 của BHXH Việt Nam và được sửa đổi, bổ sung tại Quyết định này.\n24. Tờ khai của thân nhân (Mẫu số 09-HSB): Là mẫu\nđược ban hành kèm theo Quyết định số 166/QĐ-BHXH và được sửa đổi, bổ sung tại Quyết định này.\nChương II\nQUY TRÌNH LIÊN THÔNG ĐIỆN\nTỬ GIẢI QUYẾT HƯỞNG VÀ CHI TRẢ TRỢ CẤP MAI TÁNG\nĐiều 4. Tiếp nhận hồ sơ\n1. Cán bộ Bộ phận Một cửa truy cập phần mềm Tiếp nhận\nvà quản lý hồ sơ, nhận Mẫu số 02 và Trích lục khai tử điện tử do Cổng Dịch vụ công quốc gia chuyển đến qua phần mềm Dịch vụ công liên thông.\n2. Kiểm tra các thông tin kê khai trên Mẫu số 02 và\nTrích lục khai tử điện tử với cơ sở dữ liệu đóng, hưởng BHXH do ngành BHXH Việt Nam quản lý. Chủ động liên hệ với thân nhân của người chết theo thông tin kê khai trên Mẫu số 02 để kiểm tra, xác nhận thông tin đề nghị hưởng mai táng phí; liên lạc với người nhận trợ cấp mai táng theo hình thức chi trả qua tài khoản ngân hàng không phải là người kê khai Mẫu số 02 theo số điện thoại ghi trên Mẫu số 02 để xác thực một số thông tin như: số CMND/CCCD/hộ chiếu, họ và tên, giới tính, nơi thường trú,..; đồng thời đối chiếu, kiểm tra số điện thoại liên hệ và các thông tin nêu trên với cơ sở dữ liệu đang quản lý (nếu có).\na) Nếu thông tin xác thực danh tính và thông tin hồ\nsơ chính xác, đầy đủ thì gửi thông báo theo Mẫu số 03/TB-GDĐT cho người dân và phản hồi trạng thái xử lý cho phần mềm Dịch vụ công liên thông trong thời gian không quá 2 giờ làm việc kể từ khi nhận được thông tin dữ liệu.\nb) Trường hợp các thông tin đối chiếu không khớp, hồ\nsơ không đầy đủ, không hợp lệ (bao gồm cả trường hợp quá trình đóng BHXH chưa đồng bộ với cơ sở dữ liệu thu, sổ thẻ đã được quản lý tập trung thống nhất trong cả nước) thì gửi thông báo theo Mẫu số 03/TB-GDĐT, nêu rõ lý do kèm theo hướng dẫn hoàn thiện hồ sơ và thực hiện đồng bộ với phần mềm Dịch vụ công liên thông để thông báo cho người dân.\nc) Trường hợp xác định hồ sơ không hợp lệ do lỗi của\ncơ quan có thẩm quyền giải quyết thủ tục hành chính trước đó thì gửi thông báo theo Mẫu số 03/TB-GDĐT và nêu rõ lý do cho cơ quan đó thông qua phần mềm Dịch vụ công liên thông. Thời gian thông báo hồ sơ không đầy đủ, hợp lệ: Trong thời gian không quá 01 ngày làm việc kể từ khi nhận được hồ sơ điện tử trên Hệ thống.\n3. Chuyển toàn bộ hồ sơ hợp lệ đã tiếp nhận cho Bộ\nphận/Phòng Chế độ BHXH trên phần mềm Tiếp nhận và quản lý hồ sơ.\nĐiều 5. Giải quyết hưởng và lập danh sách chi trả Bộ phận/Phòng Chế độ BHXH:\n1. Tiếp nhận hồ sơ từ phần mềm Tiếp nhận và quản lý\nhồ sơ; thực hiện kiểm tra, đối chiếu thông tin theo quy định tại tiết 1.1.1 điểm 1.1 khoản 1 Điều 7 Chương III Quyết định số 166/QĐ-BHXH; trường hợp nếu thấy cần thiết thì tổ chức kiểm tra, xác minh trước khi giải quyết hưởng trợ cấp mai táng.\n2. Truy cập Hệ thống quản lý chính sách để:\na) Báo giảm đối tượng hưởng chế độ BHXH hằng tháng\nđối với trường hợp người chết là người đang hưởng lương hưu, trợ cấp BHXH hằng tháng; thông báo cho cơ quan Bưu điện đối chiếu số tiền còn phải trả, không phải trả, số phải thu hồi cập nhật vào phần mềm nghiệp vụ.\nb) Xét duyệt và trình lãnh đạo phê duyệt Quyết định\nvề việc hưởng trợ cấp mai táng (Mẫu số 08A-HSB hoặc 08B-HSB), Bản quá trình đóng BHXH (Mẫu số 04-HSB). Việc giải quyết trợ cấp mai táng căn cứ vào cơ sở dữ liệu thu, sổ thẻ đã được quản lý tập trung thống nhất trong cả nước và dữ liệu người hưởng hằng tháng do cơ quan BHXH đang quản lý.\nc) Sau khi được lãnh đạo phê duyệt, chuyển Quyết định\nvề việc hưởng trợ cấp mai táng (Mẫu số 08A-HSB hoặc 08B-HSB), Bản quá trình đóng BHXH theo Mẫu số 04-HSB (đối với trường hợp người đang bảo lưu thời gian đóng BHXH, người tham gia BHXH tự nguyện và người đang chờ đủ điều kiện về tuổi đời để hưởng chế độ hưu trí, trợ cấp hằng tháng) về Bộ phận Một cửa để phát hành và trả kết quả giải quyết thủ tục hành chính cho người dân.\nd) Lập danh sách chi trả trợ cấp mai táng theo quy\nđịnh tại điểm 2.1 khoản 2 Điều 7 Chương III Quyết định số 166/QĐ-BHXH và chuyển Bộ phận Kế toán/Phòng Kế hoạch - Tài chính.\nĐiều 6. Trả kết quả giải quyết\n1. Trả kết quả là Quyết định về việc hưởng trợ cấp\nmai táng Bộ phận Một cửa tiếp nhận hồ sơ đã được giải quyết từ Bộ phận/Phòng Chế độ BHXH để trả cho người dân gồm: Quyết định về việc hưởng trợ cấp mai táng (Mẫu số 08A-HSB hoặc 08B-HSB), Bản quá trình đóng BHXH theo Mẫu số 04-HSB (nếu có) và thực hiện trả hồ sơ theo quy định tại khoản 2, 3, 4 Điều 17 Quyết định số 475/QĐ-BHXH; đồng thời hướng dẫn người dân về việc lập hồ sơ để giải quyết hưởng trợ cấp tuất một lần hoặc hằng tháng sau khi đã giải quyết hưởng trợ cấp mai táng theo thủ tục liên thông.\n2. Trả kết quả là tiền trợ cấp mai táng\nThực hiện quy trình chi trả như quy định tại khoản 3 Điều 7 Chương III Quyết định số 166/QĐ-BHXH và khoản 5 Điều 17 Quyết định số 475/QĐ-BHXH.\nĐiều 7. Thời hạn giải quyết Không quá 10 ngày làm việc kể từ ngày nhận đủ thông tin, dữ liệu, hồ sơ hợp lệ.\nĐiều 8. Lưu trữ hồ sơ Hồ sơ hưởng trợ cấp mai táng được lưu trữ tại phần mềm Lưu trữ hồ sơ điện tử của BHXH Việt Nam theo quy định về lưu trữ.\nChương III\nQUY TRÌNH LIÊN THÔNG ĐIỆN\nTỬ GIẢI QUYẾT THÔI HƯỞNG TRỢ CẤP TUẤT HẰNG THÁNG ĐỐI VỚI NGƯỜI TỪ ĐỦ 80 TUỔI TRỞ\nLÊN ĐANG HƯỞNG TRỢ CẤP TUẤT HẰNG THÁNG CHẾT\nĐiều 9. Tiếp nhận hồ sơ\n1. Cán bộ Bộ phận Một cửa truy cập phần mềm Tiếp nhận\nvà quản lý hồ sơ, nhận Mẫu số 02 và Trích lục khai tử điện tử do Cổng Dịch vụ công quốc gia chuyển đến qua phần mềm Dịch vụ công liên thông.\n2. Kiểm tra các thông tin kê khai trên Mẫu số 02 và\nTrích lục khai tử điện tử với cơ sở dữ liệu hưởng BHXH do ngành BHXH Việt Nam quản lý.\na) Trường hợp người chết là người từ đủ 80 tuổi trở\nlên đang hưởng trợ cấp tuất hằng tháng và thông tin kê khai đầy đủ, chính xác thì gửi thông báo theo Mẫu số 03/TB-GDĐT cho người dân và phản hồi trạng thái xử lý cho phần mềm Dịch vụ công liên thông trong thời gian không quá 2 giờ làm việc kể từ khi nhận được thông tin dữ liệu.\nb) Trường hợp thông tin về nhân thân tại hồ sơ hưởng\ntrợ cấp tuất hằng tháng với Mẫu số 02 và Trích lục khai tử điện tử không thống nhất thì kiểm tra, đối chiếu với thông tin tham gia BHYT và dữ liệu Hộ gia đình: - Nếu thông tin khớp đúng với thông tin tham gia BHYT và dữ liệu Hộ gia đình thì tiếp nhận hồ sơ và gửi thông báo theo Mẫu số 03/TB-GDĐT cho người dân và phản hồi trạng thái xử lý cho phần mềm Dịch vụ công liên thông. - Nếu thông tin không khớp đúng với thông tin tham gia BHYT và dữ liệu Hộ gia đình thì gửi thông báo theo Mẫu số 03/TB-GDĐT, nêu rõ lý do kèm theo hướng dẫn người dân lập Mẫu TK1-TS ban hành kèm theo Quyết định số 490/QĐ-BHXH và đồng bộ với phần mềm Dịch vụ công liên thông để thông báo cho người dân hoàn thiện hồ sơ điều chỉnh thông tin người tham gia trong cơ sở dữ liệu hộ gia đình theo quy định tại Quyết định số 515/QĐ-BHXH .\nc) Trường hợp hồ sơ không đầy đủ, không hợp lệ và\nkhông thuộc lý do nêu trên thì gửi thông báo theo Mẫu số 03/TB-GDĐT, nêu rõ lý do kèm theo hướng dẫn hoàn thiện hồ sơ và thực hiện đồng bộ với phần mềm Dịch vụ công liên thông để thông báo cho người dân.\nd) Trường hợp xác định hồ sơ không hợp lệ do lỗi của\ncơ quan có thẩm quyền giải quyết thủ tục hành chính trước đó thì gửi thông báo theo Mẫu số 03/TB-GDĐT, nêu rõ lý do cho cơ quan đó thông qua phần mềm Dịch vụ công liên thông. Thời gian thông báo hồ sơ không đầy đủ, hợp lệ: Trong thời gian không quá 01 ngày làm việc kể từ khi nhận được hồ sơ điện tử trên Hệ thống.\n3. Chuyển toàn bộ hồ sơ hợp lệ đã tiếp nhận cho Bộ\nphận/Phòng Chế độ BHXH trên phần mềm Tiếp nhận và quản lý hồ sơ.\nĐiều 10. Giải quyết Bộ phận/Phòng Chế độ BHXH:\n1. Tiếp nhận hồ sơ hợp lệ từ phần mềm Tiếp nhận và\nquản lý hồ sơ. Trường hợp thông tin không khớp đúng thì từ chối hồ sơ và nêu rõ lý do, gửi lại Bộ phận Một cửa để trả lại cho người dân theo quy định tại tiết b khoản 2 Điều 9.\n2. Truy cập Hệ thống quản lý chính sách để:\na) Cập nhật thông tin nhân thân người hưởng trợ cấp\ntuất hằng tháng chết theo dữ liệu tham gia BHYT và dữ liệu Hộ gia đình đối với trường hợp thông tin tham gia BHYT và dữ liệu Hộ gia đình khớp đúng với thông tin trên Mẫu số 02, Trích lục khai tử điện tử.\nb) Báo giảm đối tượng hưởng chế độ BHXH hàng tháng;\nthông báo cho cơ quan Bưu điện đối chiếu số tiền còn phải trả, không phải trả, số phải thu hồi cập nhật vào phần mềm nghiệp vụ.\nc) Xét duyệt và trình lãnh đạo phê duyệt Quyết định\nvề việc thôi hưởng trợ cấp tuất hằng tháng.\nd) Sau khi được lãnh đạo phê duyệt, chuyển Quyết định\nvề việc thôi hưởng trợ cấp tuất hằng tháng về Bộ phận Một cửa để phát hành và trả kết quả giải quyết.\nĐiều 11. Trả kết quả giải quyết Bộ phận Một cửa tiếp nhận Quyết định về việc thôi hưởng trợ cấp tuất hằng tháng từ Bộ phận/Phòng Chế độ BHXH để phát hành, chuyển đến phần mềm Dịch vụ công liên thông để chuyển sang ngành Lao động - Thương binh và Xã hội thực hiện nghĩa vụ chi trả hỗ trợ chi phí mai táng và trả cho người dân theo hình thức đăng ký nhận kết quả giải quyết thủ tục hành chính (nếu có đề nghị).\nĐiều 12. Thời hạn giải quyết Không quá 02 ngày làm việc, kể từ ngày nhận đủ thông tin, dữ liệu, hồ sơ hợp lệ. Trường hợp giải quyết không đúng thời hạn thì phải xin lỗi bằng văn bản và hẹn lại ngày trả kết quả, trong đó nêu rõ lý do chậm trả kết quả và thời hạn trả kết quả gửi phần mềm Dịch vụ công liên thông để gửi cho người dân. Trường hợp không kết nối, chia sẻ được dữ liệu vì lý do kỹ thuật mà chưa được xử lý trong thời hạn 02 ngày làm việc thì Bộ phận Một cửa thực hiện luân chuyển hồ sơ giấy cho cơ quan có thẩm quyền giải quyết hỗ trợ chi phí mai táng qua dịch vụ bưu chính công ích để giải quyết theo quy định pháp luật.\nChương IV\nGIẢI QUYẾT HƯỞNG VÀ CHI\nTRẢ TRỢ CẤP TUẤT MỘT LẦN HOẶC HẰNG THÁNG SAU KHI ĐÃ GIẢI QUYẾT HƯỞNG TRỢ CẤP\nMAI TÁNG THEO THỦ TỤC LIÊN THÔNG “ĐĂNG KÝ KHAI TỬ - XÓA ĐĂNG KÝ THƯỜNG TRÚ - TRỢ\nCẤP MAI TÁNG PHÍ” TRÊN CỔNG DỊCH VỤ CÔNG QUỐC GIA\nĐiều 13. Thành phần hồ sơ Hồ sơ giải quyết hưởng trợ cấp tuất một lần hoặc trợ cấp tuất hằng tháng sau khi giải quyết hưởng trợ cấp mai táng thực hiện theo quy định tại Điều 111 Luật BHXH; Mẫu số 04C-HBQP ban hành kèm theo Thông tư số 136/2020/TT-BQP đối với người có thời gian phục vụ trong Quân đội trước ngày 01/01/2007 tại địa bàn có hưởng phụ cấp khu vực mà sổ BHXH không thể hiện đầy đủ thông tin làm căn cứ tính phụ cấp khu vực; khoản 4 Điều 25 Thông tư số 59/2015/TT-BLĐTBXH, khoản 1 Điều 15 Nghị định số 143/2018/NĐ-CP, gồm:\n1. Đối với thân nhân của người đang tham gia BHXH tự\nnguyện, đang bảo lưu thời gian đóng BHXH hoặc đang chờ đủ điều kiện về tuổi đời để hưởng chế độ hưu trí, trợ cấp cán bộ xã hằng tháng: Tờ khai của thân nhân (Mẫu số 09-HSB) và hồ sơ quy định tại các nội dung a1, a4, a6, a7 thuộc tiểu tiết a tiết 1.2.4 điểm 1.2 khoản 1 Điều 6 Chương III Quyết định số 166/QĐ-BHXH.\n2. Đối với thân nhân của người đang hưởng hoặc tạm\ndừng hưởng lương hưu, trợ cấp BHXH hằng tháng: Tờ khai của thân nhân (Mẫu số 09-HSB) và hồ sơ quy định tại các nội dung a4, a6 thuộc tiểu tiết a tiết 1.2.4 điểm 1.2 khoản 1 Điều 6 Quyết định số 166/QĐ-BHXH.\nĐiều 14. Giải quyết hưởng và chi trả\n1. Cán bộ xét duyệt kiểm tra dữ liệu để xác định việc\nđã giải quyết trợ cấp mai táng theo quy trình liên thông tại Quyết định này để tránh giải quyết trùng trợ cấp mai táng.\n2. Quy trình giải quyết hưởng và chi trả trợ cấp tuất\nmột lần hoặc trợ cấp tuất hằng tháng sau khi giải quyết hưởng trợ cấp mai táng được thực hiện theo quy định tại Quyết định số 166/QĐ-BHXH và hướng dẫn tại văn bản này.\n3. Trường hợp người chết có thời gian đóng BHXH có\nbao gồm phụ cấp khu vực và người lo mai táng đã nhận trợ cấp mai táng theo Quyết định này mà thân nhân đề nghị hưởng trợ cấp tuất hằng tháng thì Quyết định về việc hưởng trợ cấp tuất hằng tháng được ban hành theo Mẫu số 08C-HSB.\n4. Trường hợp người lo mai táng đã nhận trợ cấp mai\ntáng theo Quyết định này mà thân nhân đề nghị hưởng trợ cấp tuất một lần thì Quyết định về việc hưởng trợ cấp tuất một lần được ban hành theo Mẫu số 08D,\n08E-HSB.\n5. Kết quả giải quyết hưởng trợ cấp tử tuất lưu trữ\ncùng kết quả giải quyết trợ cấp mai táng tại phần mềm Lưu trữ hồ sơ điện tử của BHXH Việt Nam.\nChương V\nTỔ CHỨC THỰC HIỆN\nĐiều 15. Trách nhiệm của BHXH tỉnh, thành phố trực thuộc Trung ương\n1. Tổ chức thực hiện Quyết định này; định kỳ trong\n10 ngày tháng đầu mỗi quý báo cáo tình hình thực hiện, những khó khăn, vướng mắc, kiến nghị, đề xuất về BHXH Việt Nam (nếu có) qua Ban Thực hiện chính sách BHXH.\n2. Tham mưu Ủy ban nhân dân tỉnh, thành phố trực\nthuộc Trung ương chỉ đạo các Sở, Ngành phối hợp với cơ quan BHXH triển khai Quy trình này đáp ứng mục tiêu, nhiệm vụ tại Quyết định số 06/QĐ-TTg .\nĐiều 16. Trách nhiệm của các đơn vị trực thuộc BHXH Việt Nam\n1. Ban Thực hiện chính sách BHXH\na) Chủ trì, phối hợp với các đơn vị liên quan chỉ đạo,\nhướng dẫn, kiểm tra thực hiện Quyết định này.\nb) Tổng hợp các khó khăn, vướng mắc trong quá trình\ntriển khai thực hiện quy trình này.\n2. Vụ Tài chính - Kế toán\nChủ trì phối hợp với các đơn vị liên quan chịu trách nhiệm tổ chức, quản lý, thống nhất hướng dẫn việc chi trả chế độ tử tuất theo quy trình ban hành tại Quyết định này.\n3. Văn phòng BHXH Việt Nam\na) Chủ trì hướng dẫn BHXH các tỉnh, thành phố trực\nthuộc Trung ương thực hiện tiếp nhận hồ sơ và trả kết quả thủ tục hành chính chuyển đến từ Cổng Dịch vụ công quốc gia qua phần mềm Dịch vụ công liên thông.\nb) Tổng hợp, đánh giá số lượng, báo cáo tình hình kết\nquả thực hiện thủ tục hành chính theo Quyết định này với cơ quan có thẩm quyền.\n4. Trung tâm Công nghệ thông tin\na) Xây dựng, điều chỉnh hệ thống các phần mềm nghiệp\nvụ, biểu mẫu đáp ứng việc thực hiện quy định ban hành kèm theo Quyết định này; giám sát việc triển khai trên các phần mềm, hướng dẫn, triển khai và kịp thời giải quyết vướng mắc trong quá trình sử dụng các phần mềm nghiệp vụ.\nb) Xây dựng chức năng lưu trữ kết quả giải quyết thủ\ntục hành chính được ký số tại Hệ thống thông tin giải quyết thủ tục hành chính của BHXH Việt Nam theo quy định, đảm bảo việc thực hiện thủ tục hành chính trên môi trường điện tử, đáp ứng yêu cầu tra cứu và cung cấp thông tin cho cá nhân, tổ chức theo quy định.\nc) Xây dựng chức năng tổng hợp tình hình giải quyết\nhưởng trợ cấp mai táng theo danh sách ban hành kèm theo Quyết định này trên Hệ thống quản lý chính sách.\nd) Xây dựng chức năng tổng hợp kết quả hồ sơ giao dịch\ntheo Quyết định này trên phần mềm Tiếp nhận và quản lý hồ sơ.\n5. Thủ trưởng các đơn vị trực thuộc BHXH Việt Nam\ntheo chức năng nhiệm vụ được giao có trách nhiệm thực hiện Quyết định này.\nĐiều 17. Điều khoản tham chiếu Các nội dung không hướng dẫn tại văn bản này thì thực hiện theo Quyết định số 838/QĐ-BHXH , Quyết định số 166/QĐ-BHXH , Quyết định số 475/QĐ-BHXH và các văn bản hướng dẫn của BHXH Việt Nam. Trong quá trình triển khai thực hiện, trường hợp các văn bản quy phạm pháp luật và các quy định được viện dẫn tại văn bản này có sự thay đổi, bổ sung hoặc được thay thế thì áp dụng theo văn bản quy phạm pháp luật mới./. Mẫu số 08A-HSB BẢO HIỂM XÃ HỘI………….. BẢO HIỂM XÃ HỘI………….. ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: …./QĐ-BHXH …., ngày... tháng... năm ... MÃ SỐ BHXH….. (1) QUYẾT ĐỊNH Về việc hưởng trợ cấp mai táng GIÁM ĐỐC BẢO HIỂM XÃ HỘI………............... Căn cứ Luật Bảo hiểm xã hội ngày….. tháng.... năm ....; Căn cứ Quyết định số... ngày... tháng ... năm ... của Tổng Giám đốc Bảo hiểm xã hội Việt Nam về việc thành lập Bảo hiểm xã hội……………….. ; Căn cứ hồ sơ giải quyết chế độ tử tuất đối với thân nhân của ông/bà ……..chết ngày... tháng... năm ... QUYẾT ĐỊNH:\nĐiều 1. Giải quyết trợ cấp mai táng đối với thân nhân ông/bà ………………….. - Tổng số thời gian đóng BHXH: ... năm ... tháng, trong đó có ... năm ... tháng đóng BHXH bắt buộc. - Mức trợ cấp mai táng:………………………………………………………….. đồng - Trợ cấp chết do TNLĐ, BNN (nếu có):..........(2) ………………… đồng - Trợ cấp khu vực một lần (nếu có): ………. (3) …………………. đồng Tổng số tiền trợ cấp: ……………………………….. (4)…………….. đồng (Số tiền bằng chữ ……………………………………………….. đồng) - Người đứng tên nhận trợ cấp: ……….., là (5) ……..của ông/bà có tên trên; số CMND/CCCD/Hộ chiếu:……… ;mã số BHXH……………………………. ; - Số điện thoại liên hệ: ………………………………………………………….. - Nơi cư trú:……………… (6) …………………………………………………… - Hình thức nhận trợ cấp: (7) ……………………………………………………..\nĐiều 2. Các ông, bà Trưởng phòng Chế độ BHXH, Kế hoạch - Tài chính, Giám đốc BHXH…………… (8) và người đứng tên nhận trợ cấp nêu tại Điều 1 chịu trách nhiệm thi hành Quyết định này./.\nNơi nhận:\n- (9)……………;\n- Lưu hồ sơ.\nGIÁM ĐỐC\n(ký, đóng dấu)\nGhi chú:\n- (1) Ghi mã số của người chết;\n- (2), (3), (4) Chỉ hiển thị đối với trường hợp\nđang tham gia hoặc đang bảo lưu thời gian đóng BHXH hoặc đang chờ đủ điều kiện\nvề tuổi đời để hưởng chế độ hưu trí, trợ cấp cán bộ xã hàng tháng bị chết mà\nthân nhân được hưởng các loại trợ cấp này và thân nhân đề nghị hưởng trợ cấp tuất\nhàng tháng.\nKhông hiển thị đối với các trường hợp: Người đang\ntham gia hoặc đang bảo lưu thời gian đóng BHXH hoặc đang chờ đủ điều kiện về tuổi\nđời để hưởng chế độ hưu trí, trợ cấp cán bộ xã hàng tháng bị chết mà thân nhân\nkhông được hưởng các loại trợ cấp này và trường hợp hưởng trợ cấp mai táng theo\nthủ tục hành chính liên thông “Đăng ký khai tử, xóa đăng ký thường trú, hỗ trợ\nmai táng, hưởng mai táng phí” trên Cổng Dịch vụ công quốc gia.\n- (5) Ghi họ và tên người nhận trợ cấp, mối quan hệ\nvới người hưởng; mã số BHXH của người nhận trợ cấp;\n- (6) Ghi đầy đủ địa chỉ nơi đang cư trú của người\ncó yêu cầu giải quyết: Số nhà, ngõ (ngách, hẻm), đường phố, tổ (thôn, xóm, ấp),\nxã (phường, thị trấn), huyện (thị xã, thành phố), tỉnh, thành phố;\n- (7) Trường hợp thân nhân hưởng trợ cấp mai táng đồng\nthời là người hưởng trợ cấp tuất hàng tháng thì nơi nhận trợ cấp mai táng đồng\nthời là nơi nhận trợ cấp tuất hàng tháng là điểm chi trả thuộc xã (phường, thị\ntrấn), huyện (thị xã, thành phố), tỉnh, thành phố;\nTrường hợp nhận bằng tiền mặt thì ghi: “Bằng tiền mặt”,\nnếu nhận qua tài khoản thì ghi “Thông qua tài khoản, số tài khoản ....., tên\nngân hàng mở tài khoản....”.\n- (8) Ghi theo tên đơn vị hành chính cấp huyện; nếu\nBHXH cấp huyện giải quyết thì thay cụm từ “Trưởng phòng Chế độ BHXH, Kế hoạch -\nTài chính, Giám đốc BHXH huyện/quận…….. ” bằng “Phụ trách Chế độ BHXH, Kế toán\ntrưởng”.\n- (9) Ghi tên người đứng nhận trợ cấp.\n(Mẫu này sử dụng\nđối với trường hợp đang tham gia hoặc đang bảo lưu thời gian đóng BHXH, đang chờ\nđủ điều kiện về tuổi đời để hưởng chế độ hưu trí, trợ cấp cán bộ xã hàng tháng\nbị chết)\nMẫu số 08B-HSB\nBẢO HIỂM XÃ HỘI\nBẢO HIỂM XÃ HỘI…\n-------\nCỘNG HÒA XÃ HỘI\nCHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\n---------------\nSố: …../QĐ-BHXH\n…., ngày...\ntháng... năm ...\nMÃ SỐ BHXH…. (1)\nQUYẾT ĐỊNH\nVề việc hưởng trợ cấp mai táng\nGIÁM ĐỐC BẢO HIỂM\nXÃ HỘI………….............\nCăn cứ Luật Bảo hiểm xã hội ngày.... tháng....\nnăm....;\nCăn cứ Quyết định số... ngày... tháng... năm\n.... của Tổng Giám đốc Bảo hiểm xã hội Việt Nam về việc thành lập Bảo hiểm xã hội……………….\n;\nCăn cứ hồ sơ giải quyết chế độ tử tuất đối với\nthân nhân của ông/bà………… chết ngày.... tháng... năm …………\nQUYẾT ĐỊNH:\nĐiều 1. Thôi trả (2)……………….. kể từ tháng ...năm ... đối với ông/bà …………………….\nĐiều 2. Giải quyết trợ cấp mai táng đối với thân nhân của ông/bà có tên nêu tại Điều 1. - Mức trợ cấp mai táng:…………….…………….…………….…………….……………. đồng (Số tiền bằng chữ…………….…………….…………….…………….…………….……………. đồng) - (3) Người đứng nhận trợ cấp:…………….……………. ; là .... của ông/bà có tên trên; số CMND/CCCD/Hộ chiếu:……………. ; mã số BHXH……………. ; - Số điện thoại liên hệ: …………….…………….…………….……………. - Nơi cư trú (4): …………….…………….…………….……………. - Hình thức nhận trợ cấp (5): …………….…………….…………….…………….…………….\nĐiều 3. Các ông, bà Trưởng phòng Chế độ BHXH, Kế hoạch - Tài chính, Giám đốc BHXH…… (6) và người đứng tên nhận trợ cấp nêu tại Điều 2 chịu trách nhiệm thi hành Quyết định này./.\nNơi nhận:\n- (7)…………….……;\n- Lưu hồ sơ.\nGIÁM ĐỐC\n(ký, đóng dấu)\nGhi chú:\n- (1) Ghi mã số của người chết;\n- (2) Ghi rõ lương hưu hoặc loại trợ cấp;\n- (3) Ghi họ và tên người nhận trợ cấp, mối quan hệ\nvới người chết; số CMND/CCCD/Hộ chiếu; mã số BHXH của người nhận trợ cấp;\n- (4) Ghi đầy đủ địa chỉ nơi đang cư trú của người\ncó yêu cầu giải quyết: Số nhà, ngõ (ngách, hẻm), đường phố, tổ (thôn, xóm, ấp),\nxã (phường, thị trấn), huyện (thị xã, thành phố), tỉnh, thành phố;\n- (5) Trường hợp thân nhân hưởng trợ cấp mai táng đồng\nthời là người hưởng trợ cấp tuất hàng tháng thì nơi nhận trợ cấp mai táng đồng\nthời là nơi nhận trợ cấp tuất hàng tháng là điểm chi trả thuộc xã (phường, thị\ntrấn), huyện (thị xã, thành phố), tỉnh, thành phố;\nTrường hợp nhận bằng tiền mặt thì ghi: “Bằng tiền mặt”,\nnếu nhận qua tài khoản thì ghi “Thông qua tài khoản, số tài khoản...., tên ngân\nhàng mở tài khoản ……”\n- (6) Ghi theo tên đơn vị hành chính cấp huyện; nếu\nBHXH cấp huyện giải quyết thì thay cụm từ “Trưởng phòng Chế độ BHXH, Kế hoạch -\nTài chính, Giám đốc BHXH huyện/quận…….. ” bằng “Phụ trách Chế độ BHXH, Kế toán\ntrưởng”.\n- (7) Ghi tên người đứng tên nhận trợ cấp.\n(Mẫu này sử dụng\nđối với trường hợp đang hưởng lương hưu, trợ cấp BHXH hàng tháng bị chết)\nMẫu số 08C-HSB\nBẢO HIỂM XÃ HỘI\nBẢO HIỂM XÃ HỘI…\n-------\nCỘNG HÒA XÃ HỘI\nCHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\n---------------\nSố: …./QĐ-BHXH\n...., ngày...\ntháng... năm...\nTRỢ CẤP TUẤT\nHÀNG THÁNG\nMÃ SỐ BHXH…………….. (1)\nQUYẾT ĐỊNH\nVề việc hưởng trợ cấp tuất hàng tháng\nGIÁM ĐỐC BẢO HIỂM\nXÃ HỘI .......................\nCăn cứ Luật Bảo hiểm xã hội ngày.... tháng....\nnăm....;\nCăn cứ Quyết định số ... ngày ... tháng ... năm\n... của Tổng Giám đốc Bảo hiểm xã hội Việt Nam về việc thành lập Bảo hiểm xã hội..........................;\nCăn cứ hồ sơ giải quyết chế độ tử tuất đối với\nthân nhân của ông/bà ………………. chết ngày.... tháng... năm\nQUYẾT ĐỊNH:\nĐiều 1. Giải quyết trợ cấp tuất hàng tháng đối với thân nhân của ông/bà ……………. có thời gian đóng BHXH là ... năm ... tháng, trong đó có ... năm ... tháng đóng BHXH bắt buộc. - Họ và tên người được hưởng trợ cấp:…………….…………….……………. Nam/Nữ - Sinh ngày ... tháng ... năm ...; mã số BHXH(2) …………….…………….……………. - Mối quan hệ với người chết: …………….…………….……………. - Mức trợ cấp hàng tháng:…… x………… đồng = …………….đồng - Phí khám giám định y khoa (nếu có):…………….…………….……………. đồng - Trợ cấp khu vực một lần (nếu có) (3):…………….…………….……………. đồng - Thời điểm hưởng trợ cấp kể từ tháng……………. năm ……………….. - Họ và tên người đứng nhận trợ cấp(4):…………….……………. , mối quan hệ với người hưởng trợ cấp ……………. - Số điện thoại liên hệ: …………….…………….…………….…………….……………. - Nơi cư trú:……………. (5) …………….…………….…………….…………….……………. - Hình thức nhận trợ cấp:……………. (6) …………….…………….…………….…………….………\nĐiều 2. Các ông, bà Trưởng phòng Chế độ BHXH, Giám đốc BHXH ………(7) và thân nhân có tên tại Điều 1 chịu trách nhiệm thi hành Quyết định này./.\nNơi nhận:\n- (8) …………….;\n- Lưu hồ sơ.\nGIÁM ĐỐC\n(ký, đóng dấu)\nGhi chú:\n- (1) Ghi mã số BHXH của người chết; trường hợp có\nnhiều thân nhân hưởng trợ cấp tuất tháng thì ghi thêm sổ A hoặc B hoặc C hoặc D\nlần lượt đối với từng thân nhân;\n- (2) Ghi mã số BHXH của người hưởng trợ cấp (nếu\ncó);\n- (3) Chỉ thực hiện đối với trường hợp thân nhân hưởng\ntrợ cấp tuất hàng tháng được các thân nhân thống nhất cử đứng tên đồng thời nhận\nkhoản trợ cấp khu vực một lần mà người lo mai táng đã nhận trợ cấp mai táng\ntheo nhóm thủ tục liên thông “Đăng ký khai tử - Xóa đăng ký thường trú - Trợ cấp\nmai táng” theo Quyết định số 06/QĐ-TTg ngày 06/01/2022 của Thủ tướng Chính phủ\nphê duyệt Đề án phát triển ứng dụng dữ liệu về dân cư, định danh và xác thực điện\ntử phục vụ chuyển đổi số quốc gia giai đoạn 2022-2025, tầm nhìn đến năm 2030;\n- (4) Ghi họ và tên của người đứng tên nhận trợ cấp,\nmối quan hệ với người hưởng trợ cấp; chỉ hiển thị nội dung này trong trường hợp\nngười được hưởng trợ cấp dưới 15 tuổi hoặc bị mất, hạn chế năng lực hành vi dân\nsự;\n- (5) Ghi đầy đủ địa chỉ nơi đang cư trú của người\ncó yêu cầu giải quyết: Số nhà, ngõ (ngách, hẻm), đường phố, tổ (thôn, xóm, ấp),\nxã (phường, thị trấn), huyện (thị xã, thành phố), tỉnh, thành phố;\n- (6) Trường hợp nhận bằng tiền mặt thì ghi: “Bằng\ntiền mặt”, nếu nhận qua tài khoản thì ghi “Thông qua tài khoản, số tài khoản....,\ntên ngân hàng mở tài khoản …..”.\n- (7) Ghi theo tên đơn vị hành chính cấp huyện; nếu\nBHXH cấp huyện giải quyết thì thay cụm từ “Trưởng phòng Chế độ BHXH, Kế hoạch -\nTài chính, Giám đốc BHXH huyện/quận…… ” bằng “Phụ trách Chế độ BHXH, Kế toán\ntrưởng”.\n- (8) Ghi tên người hưởng trợ cấp hoặc tên người đứng\ntên nhận trợ cấp trong trường hợp người hưởng không nhận trợ cấp.\nMẫu số 08D-HSB\nBẢO HIỂM XÃ HỘI\nBẢO HIỂM XÃ HỘI….\n-------\nCỘNG HÒA XÃ HỘI\nCHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\n---------------\nSố: …../QĐ-BHXH\n..., ngày...\ntháng... năm...\nMÃ SỐ BHXH…………….\n(1)\nQUYẾT ĐỊNH\nVề việc hưởng trợ cấp tuất một lần\nGIÁM ĐỐC BẢO HIỂM\nXÃ HỘI .......................\nCăn cứ Luật Bảo hiểm xã hội ngày.... tháng....\nnăm....;\nCăn cứ Quyết định số... ngày... tháng... năm...\ncủa Tổng Giám đốc Bảo hiểm xã hội Việt Nam về việc thành lập Bảo hiểm xã hội………………………………..\n;\nCăn cứ hồ sơ giải quyết chế độ tử tuất đối với\nthân nhân của ông/bà……………. , chết ngày... tháng... năm ....\nQUYẾT ĐỊNH:\nĐiều 1. Giải quyết chế độ tử tuất đối với thân nhân của ông/bà………….. có có thời gian đóng BHXH là ... năm ... tháng, trong đó có ... năm ... tháng đóng BHXH bắt buộc. Chế độ tử tuất gồm:\n1. Trợ cấp tuất một lần:\na. Mức hưởng đối với thời gian đã đóng BHXH trước năm 2014 = BQTLTN x số năm x 1,5 = …………..………….. đồng b. Mức hưởng đối với thời gian đã đóng BHXH từ năm 2014 trở đi: BQTLTN x số năm x 2 = …………..…………..………….. đồng Tổng số tiền trợ cấp (a + b):…………..…………..…………..………….. đồng (Số tiền bằng chữ:…………..…………..…………..…………..…………..………….. đồng)\n2. Trợ cấp mai táng\n(3):…………..…………..…………..…………..………….. đồng\n3. Trợ cấp chết do TNLĐ, BNN (nếu có):…………..…………..…………..\nđồng\n4. Trợ cấp khu vực một lần (nếu\ncó):…………..…………..…………..………….. đồng Tổng số tiền trợ cấp (1 +2 + 3 + 4): …………..…………..…………..…………..đồng (Số tiền bằng chữ:…………..…………..…………..…………..…………..………….. đồng) Họ và tên người đứng tên nhận trợ cấp (2):…………..………….. ; quan hệ với người chết………….. ; mã số BHXH …………..………….. Số điện thoại liên hệ: …………..…………..…………..………….. Nơi cư trú: (4) …………..…………..…………..………….. Hình thức nhận trợ cấp:…………..………….. (5) …………..…………..\nĐiều 2. Các ông, bà Trưởng phòng Chế độ BHXH, Kế hoạch - Tài chính, Giám đốc BHXH………….. (6) và người đứng tên nhận trợ cấp nêu tại Điều 1 chịu trách nhiệm thi hành Quyết định này./.\nNơi nhận:\n- (7).......…………..;\n- Lưu hồ sơ.\nGIÁM ĐỐC\n(ký, đóng dấu)\nGhi chú:\n- (1) Ghi mã số BHXH của người chết;\n- (2) Ghi họ và tên người nhận trợ cấp, mối quan hệ\nvới người chết; mã số BHXH của người nhận trợ cấp;\n- (3) Trường hợp đã nhận trợ cấp mai táng theo thủ\ntục hành chính liên thông thì tại nội dung này hiển thị thông tin “Đã nhận trợ\ncấp mai táng theo nhóm thủ tục liên thông “Đăng ký khai tử - Xóa đăng ký thường\ntrú - Trợ cấp mai táng” tại Quyết định số …../QĐ-BHXH ngày ... tháng ... năm\n... của ...”\n- (4) Ghi đầy đủ địa chỉ nơi đang cư trú của người\ncó yêu cầu giải quyết: Số nhà, ngõ (ngách, hẻm), đường phố, tổ (thôn, xóm, ấp),\nxã (phường, thị trấn), huyện (thị xã, thành phố), tỉnh, thành phố;\n- (5) Trường hợp nhận bằng tiền mặt thì ghi: “Bằng\ntiền mặt”, nếu nhận qua tài khoản thì ghi “Thông qua tài khoản, số tài khoản....,\ntên ngân hàng mở tài khoản...., chi nhánh ngân hàng mở tài khoản…….. ”.\n- (6) Ghi theo tên đơn vị hành chính cấp huyện; nếu\nBHXH cấp huyện giải quyết thì thay cụm từ “Trưởng phòng Chế độ BHXH, Kế hoạch -\nTài chính, Giám đốc BHXH huyện/quận….. ” bằng “Phụ trách Chế độ BHXH, Kế toán\ntrưởng”.\n- (7) Ghi tên người đứng tên nhận trợ cấp.\n(Mẫu này sử dụng\nđối với thân nhân người đang tham gia hoặc bảo lưu thời gian đóng BHXH, đang chờ\nđủ điều kiện về tuổi đời để hưởng chế độ hưu trí, trợ cấp cán bộ xã hàng tháng\nbị chết)\nMẫu số 08E-HSB\nBẢO HIỂM XÃ HỘI………..\nBẢO HIỂM XÃ HỘI………..\n-------\nCỘNG HÒA XÃ HỘI\nCHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\n---------------\nSố: …../QĐ-BHXH\n...., ngày...\ntháng... năm...\nMÃ SỐ BHXH…………..(1)\nQUYẾT ĐỊNH\nVề việc hưởng chế độ tử tuất một lần\nGIÁM ĐỐC BẢO HIỂM\nXÃ HỘI .........................\nCăn cứ Luật bảo hiểm xã hội ngày.... tháng....\nnăm ....;\nCăn cứ Quyết định số... ngày... tháng... năm ...\ncủa Tổng Giám đốc Bảo hiểm xã hội Việt Nam về việc thành lập Bảo hiểm xã hội………………\n;\nCăn cứ hồ sơ giải quyết chế độ tử tuất đối với\nthân nhân của ông/bà………………….. chết ngày.... tháng... năm …………….\nQUYẾT ĐỊNH:\nĐiều 1. Thôi trả(2)……………………….. kể từ tháng….. năm……. đối với ông/bà…………………. Tổng số tháng đã hưởng:…………… tháng. Mức lương hưu/trợ cấp BHXH hàng tháng:……………………………………………………đồng\nĐiều 2. Giải quyết chế độ tử tuất đối với thân nhân của ông/bà có tên nêu tại Điều 1, chế độ gồm: - Trợ cấp mai táng: (3)………………………………………………………………… đồng - Trợ cấp tuất một lần: ……………x ... tháng= ……………………………………… đồng Tổng số tiền trợ cấp:………………………………………………………………… đồng (Số tiền bằng chữ:……………………………………………………………………………… đồng) (4)Họ và tên người đứng nhận trợ cấp:………………………… ; quan hệ với người chết …………… ; mã số BHXH ………………………… Số điện thoại liên hệ: …………………………………………………… Nơi cư trú (5): …………………………………………………… Hình thức nhận trợ cấp (6 ): ………………………………………\nĐiều 3. Các ông, bà Trưởng phòng Chế độ BHXH, Kế hoạch - Tài chính, Giám đốc BHXH…………… (7) và thân nhân có tên tại Điều 2 chịu trách nhiệm thi hành Quyết định này./.\nNơi nhận:\n- (8)……………;\n- Lưu hồ sơ.\nGIÁM ĐỐC\n(ký, đóng dấu)\nGhi chú:\n- (1) Ghi mã số của người chết\n- (2) Ghi rõ lương hưu hoặc loại trợ cấp;\n- (3) Trường hợp đã nhận trợ cấp mai táng theo thủ\ntục hành chính liên thông thì tại nội dung này hiển thị thông tin “Đã nhận trợ\ncấp mai táng theo nhóm thủ tục liên thông “Đăng ký khai tử - Xóa đăng ký thường\ntrú - Trợ cấp mai táng” tại Quyết định số ……/QĐ-BHXH ngày ... tháng ... năm ...\ncủa ...”\n- (4) Ghi họ tên người nhận trợ cấp, mối quan hệ với\nngười chết, mã số BHXH của người nhận trợ cấp;\n- (5) Ghi đầy đủ địa chỉ nơi đang cư trú của người\ncó yêu cầu giải quyết: Số nhà, ngõ (ngách, hẻm), đường phố, tổ (thôn, xóm, ấp),\nxã (phường, thị trấn), huyện (thị xã, thành phố), tỉnh, thành phố;\n- (6) Trường hợp nhận bằng tiền mặt thì ghi: “Bằng\ntiền mặt”, nếu nhận qua tài khoản thì ghi “Thông qua tài khoản, số tài khoản....,\ntên ngân hàng mở tài khoản...., chi nhánh ngân hàng mở tài khoản......”.\n- (7) Ghi theo tên đơn vị hành chính cấp huyện; nếu\nBHXH cấp huyện giải quyết thì thay cụm từ “Trưởng phòng Chế độ BHXH, Kế hoạch -\nTài chính, Giám đốc BHXH huyện/quận…………… ” bằng “Phụ trách Chế độ BHXH, Kế toán\ntrưởng”.\n- (8) Ghi tên người đứng tên nhận trợ cấp.\n(Mẫu này sử dụng\nđối với thân nhân người đang hưởng lương hưu, trợ cấp BHXH hàng tháng chết)\nMẫu số 09-HSB\nCỘNG HÒA XÃ HỘI\nCHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\n---------------\nTỜ KHAI CỦA THÂN NHÂN\nI. Họ và tên người khai (1):………………………… ;\nsinh ngày.... /… /…… ; Nam/Nữ………….. ; Quan hệ với người chết:…………………………..\nSố định danh/số căn cước công dân/hộ chiếu:\n…………………………do…………… cấp ngày …/…. /……. ;\nNơi cư trú (Ghi chi tiết số nhà, phố, tổ, thôn,\nxã/phường/thị trấn, quận/huyện, tỉnh/thành phố):……………………………………………………………\n………………………………………………………………………………………………………\n………………………………………………………………………………………………………\nSố điện thoại di động liên hệ:...…………………………………………………………………\nII. Họ và tên người chết:……………… mã số\nBHXH:………… ; chết ngày …./…. /…….\nNơi hưởng lương hưu/trợ cấp BHXH (đối với người\nđang hưởng lương hưu hoặc trợ cấp BHXH hàng tháng) hoặc đơn vị công tác (đối với\nngười đang làm việc), nơi đóng BHXH (đối với người đang đóng BHXH tự nguyện, tự\nđóng tiếp BHXH bắt buộc), nơi cư trú (đối với người bảo lưu thời gian đóng BHXH)\ntrước khi chết:\n..................................................................................................\nIII. Danh sách thân nhân (Kê khai tất cả\nthân nhân theo thứ tự con, vợ hoặc chồng, cha đẻ, mẹ đẻ, cha vợ hoặc cha chồng,\nmẹ vợ hoặc mẹ chồng; thành viên khác trong gia đình mà người tham gia BHXH khi\ncòn sống có nghĩa vụ nuôi dưỡng. Trường hợp thân nhân đã chết thì ghi \"đã\nchết\" vào cột \"địa chỉ nơi cư trú\" và không phải kê khai cột\n\"ngày tháng năm sinh\" và 3 cột ngoài cùng bên phải)\nSố TT\nHọ và tên\n(Trường hợp nhận\ntrợ cấp tuất tháng qua tài khoản thẻ ATM thì ghi bổ sung trong ngoặc đơn ngay\ndưới họ tên: số tài khoản...., ngân hàng mở tài khoản..., chi nhánh mở tài\nkhoản...)\nMối quan hệ với\nngười chết (2)\nNgày, tháng, năm\nsinh\nĐịa chỉ nơi cư\ntrú, số điện thoại\n(Ghi chi tiết số\nnhà, phố, tổ, thôn, xã/phường/thị trấn, quận/huyện, tỉnh/thành phố; ghi số điện\nthoại di động trong trường hợp nhận trợ cấp)\nMã số BHXH/số căn\ncước công dân/ hộ chiếu (3)\nMức thu nhập hàng\ntháng (4)\nLoại trợ cấp tuất\nđề nghị hưởng (5)\nNam\nNữ\n1\n2\n…\nTrường hợp thân nhân hưởng trợ cấp tử tuất chưa đủ\n15 tuổi hoặc bị mất, hạn chế năng lực hành vi dân sự thì khai bổ sung:\nSố TT\nHọ, tên người hưởng\ntrợ cấp\nHọ, tên người đứng\ntên nhận trợ cấp\n(Trường hợp nhận\ntrợ cấp tuất tháng qua tài khoản thẻ ATM thì ghi bổ sung trong ngoặc đơn ngay\ndưới họ tên: số tài khoản..., ngân hàng mở tài khoản..., chi nhánh mở tài khoản...)\nMối quan hệ của\nngười đứng tên nhận trợ cấp với người hưởng trợ cấp\nMã số BHXH/số định\ndanh/ số căn cước công dân/ hộ chiếu (3)\n(Nếu người đứng\ntên nhận trợ cấp trùng với thân nhân đã khai ở hàng trên khì không phải khai\ncột này)\nĐịa chỉ nơi cư trú\n(Ghi chi tiết số\nnhà, phố, tổ, thôn, xã/phường/thị trấn, quận/huyện, tỉnh/thành phố; Nếu người\nđứng tên nhận trợ cấp trùng với thân nhân đã khai ở bảng trên thì không phải\nkhai cột này)\nSố điện thoại di động\n1\n…\nIV. Người nhận trợ cấp mai táng, các khoản\ntrợ cấp tuất một lần\n1. Họ và tên người nhận trợ cấp mai táng (8):\n…………………………\n2. Họ và tên người được cử nhận các khoản trợ cấp\ntuất một lần (9): …………………………\nV. Cam kết của người khai: Tôi cam kết Tôi\nlà người được các thân nhân thống nhất ủy quyền lập Tờ khai của thân nhân theo\nmẫu số 09-HSB Tôi xin cam đoan những nội dung kê khai trên đây là đầy đủ, đúng\nsự thật, nếu sai hoặc có khiếu kiện về sau tôi xin chịu trách nhiệm trước pháp\nluật. Đề nghị cơ quan BHXH xem xét, giải quyết chế độ tử tuất cho gia đình tôi\ntheo quy định./.\n(10)…..\n……, ngày…..\ntháng... .năm....\nChứng thực về chữ ký hoặc điểm chỉ của người khai (6)\n…..,ngày….tháng….năm….\nNgười khai\n(ký hoặc điểm chỉ, ghi rõ họ tên)\nXác nhận của các thân nhân về việc cử người đại diện\nkê khai, nhận trợ cấp một lần; về lựa chọn nhận trợ cấp tuất một lần (7)\nThân nhân\n(Ký hoặc điểm chỉ, ghi rõ họ tên)\nThân nhân\n(Ký hoặc điểm chỉ, ghi rõ họ tên)\nThân nhân\n(Ký hoặc điểm chỉ, ghi rõ họ tên)\nThân nhân\n(Ký hoặc điểm chỉ, ghi rõ họ tên)\nBẢO HIỂM XÃ HỘI…\nBẢO HIỂM XÃ HỘI…\n-------\nCỘNG HÒA XÃ HỘI\nCHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\n---------------\nSố: ……/QĐ-BHXH\n….., ngày……\ntháng…… năm ……..\nQUYẾT\nĐỊNH\nVề việc thôi hưởng trợ cấp tuất hàng tháng\nGIÁM ĐỐC BẢO HIỂM\nXÃ HỘI …………......................\nCăn cứ Luật Bảo hiểm xã hội số 58/2014/QH13 (1);\nCăn cứ Nghị định số 20/2021/NĐ-CP ngày 15/3/2021\ncủa Chính phủ quy định chính sách trợ giúp xã hội đối với đối tượng bảo trợ xã\nhội (2);\nCăn cứ Quyết định số ..... ngày .... tháng ....\nnăm…… của Tổng Giám đốc Bảo hiểm xã hội Việt Nam về việc thành lập Bảo hiểm xã\nhội tỉnh/thành phố………………. ;\nCăn cứ Quyết định số…… ngày….. tháng .... năm……\ncủa Tổng Giám đốc Bảo hiểm xã hội Việt Nam quy định chức năng, nhiệm vụ, quyền\nhạn và cơ cấu tổ chức của Bảo hiểm xã hội địa phương;\nCăn cứ …………………………đối với ông/bà………………………. (3);\nQUYẾT ĐỊNH:\nĐiều 1. Thôi hưởng trợ cấp tuất hằng tháng kể từ ngày ... tháng ... năm ... đối với: Ông/Bà:……………………………………. sinh ngày .... tháng ... năm ... (4) Ông/Bà:……………………………………. sinh ngày .... tháng ... năm ... (theo thông tin tham gia BHYT và dữ liệu Hộ gia đình) Mã số BHXH: ……………………………… - Cư trú tại: …………………………………………………………………………………… - Là thân nhân của Ông/Bà ……………………………………………………………………… - Lý do thôi hưởng: Bị chết ngày………. tháng…………. năm ……………………………… - Nơi thôi hưởng trợ cấp: …………………………………………………………………………\nĐiều 2. Các Ông, Bà Trưởng phòng Chế độ BHXH, KHTC, Giám đốc BHXH …………………… và thân nhân Ông/Bà có tên tại Điều 1 chịu trách nhiệm thi hành Quyết định này./.\nNơi nhận:\n- Như Điều 2;\n- Cơ quan LĐ-TB&XH;\n- Lưu hồ sơ.\nGIÁM ĐỐC\n(ký/ký số, đóng dấu)\nGhi chú:\n(1), (2) Khi văn bản quy phạm pháp luật được viện dẫn\ncó sự thay thế, sửa đổi, bổ sung thì được cập nhật theo tên văn bản mới ban\nhành.\n(3) Ghi rõ Giấy chứng tử hoặc giấy báo tử hoặc\ntrích lục khai tử hoặc quyết định tuyên bố là đã chết của Tòa án đã có hiệu lực\npháp luật; ghi rõ số ... kí hiệu văn bản... ngày... tháng... năm tên cơ quan\nban hành: họ, tên người chết\n(4) Hiển thị thông tin theo hồ sơ hưởng trợ cấp tuất\nhàng tháng\n(5) Chỉ hiển thị đối với trường hợp thông tin nhân\nthân của người hưởng trợ cấp tuất hằng tháng được điều chỉnh trên Hệ thống Quản\nlý chính sách.\nHƯỚNG DẪN LẬP TỜ\nKHAI THEO MẪU SỐ 09-HSB\n- (1) Người khai theo thứ tự vợ hoặc chồng, con,\ncha đẻ, mẹ đẻ, cha vợ hoặc cha chồng, mẹ vợ hoặc mẹ chồng. Trường hợp không còn\ncác thân nhân nêu trên thì xác định người khai theo quy định của pháp luật về\nthừa kế.\nTrường hợp hưởng trợ cấp tuất một lần theo quy định\ncủa pháp luật về thừa kế thì tại cột \"Mối quan hệ với người chết\"\ntrong Danh sách tại Mục III của Tờ khai, ghi: “người thừa kế” và người khai\ntrong trường hợp này là người đại diện cho các thân nhân cùng hàng thừa kế nhận\ntrợ cấp.\nTrường hợp người chết chỉ có thân nhân chưa đủ 15\ntuổi hoặc bị mất hoặc bị hạn chế năng lực hành vi dân sự thì người khai là người\nđại diện hợp pháp của thân nhân theo quy định của pháp luật dân sự và tại cột\n“Mối quan hệ của người đứng tên nhận trợ cấp với người hưởng trợ cấp” ghi rõ\n“Người đại diện hợp pháp”.\n- (2) Ghi cụ thể mối quan hệ với người chết như:\nCon đẻ, con nuôi, vợ, chồng, cha đẻ, mẹ đẻ, cha vợ, mẹ vợ, cha chồng, mẹ chồng,\ncha nuôi, mẹ nuôi; nếu là thành viên khác trong gia đình thì cũng ghi cụ thể\nnhư: ông, bà, con dâu, con rể, chị dâu, anh rể...\n- (3) Nếu đã có mã số BHXH thì phải ghi mã số BHXH;\ntrường hợp chưa mã số BHXH thì ghi số định danh, số căn cước công dân, số hộ\nchiếu;\n- (4) Ghi rõ mức thu nhập hàng tháng thực tế hiện\ncó từ nguồn thu nhập như tiền lương, tiền công hoặc lương hưu hoặc loại trợ cấp\ncụ thể (nếu là trợ cấp người có công thì cũng ghi rõ là trợ cấp người có công)\nhoặc các nguồn thu nhập cụ thể khác để làm căn cứ xác định loại trợ cấp được hưởng\nlà hàng tháng hay một lần.\n- (5) Thân nhân đối chiếu điều kiện để xác định loại\ntrợ cấp được hưởng là hàng tháng hay một lần. Trường hợp chế độ được hưởng là\ntrợ cấp tuất một lần thì để trống và mặc nhiên được hiểu là trợ cấp tuất một lần;\ntrường hợp thân nhân đủ điều kiện hưởng trợ cấp tuất hàng tháng thì ghi “Tuất\ntháng”; nếu hưởng trợ cấp tuất tháng do bị khuyết tật mức độ đặc biệt nặng hoặc\nsuy giảm KNLĐ từ 81% trở lên thì ghi: “Tuất tháng KT” hoặc “Tuất tháng 81 %”; trường\nhợp thân nhân hoặc các thân nhân đủ điều kiện hưởng trợ cấp tuất hàng tháng\nnhưng thống nhất 100% lựa chọn hưởng trợ cấp tuất một lần thì ghi “Tuất tháng\nchọn tuất một lần’’. Nếu tất cả các thân nhân đủ điều kiện hưởng tuất tháng\nkhông thống nhất lựa chọn hưởng tuất một lần thì loại trợ cấp được hưởng là trợ\ncấp tuất tháng.\nNếu số thân nhân đủ điều kiện hưởng trợ cấp tuất\nhàng tháng nhiều hơn 4 người thì các thân nhân thống nhất lựa chọn và đánh số\ntrong ngoặc đơn theo thứ tự ưu tiên từ 1 đến 4. Ví dụ: Tuất tháng (1).\n- (6) Chứng thực chữ ký hoặc điểm chỉ của người\nkhai: Là chứng thực của chính quyền địa phương hoặc của Phòng Công chứng hoặc của\nThủ trưởng trại giam, trại tạm giam trong trường hợp chấp hành hình phạt tù, bị\ntạm giam hoặc của Đại sứ quán Việt Nam hoặc cơ quan đại diện ngoại giao Việt\nNam trong trường hợp cư trú ở nước ngoài.\nNếu Tờ khai từ 02 tờ rời trở lên thì giữa các tờ phải\nđóng dấu giáp lai của nơi chứng thực chữ ký hoặc điểm chỉ.\n- (7) Trường hợp thân nhân hưởng trợ cấp tuất một lần\ncử người khai làm đại diện nhận tiền trợ cấp một lần hoặc người đủ điều kiện hưởng\ntrợ cấp tuất tháng mà lựa chọn tuất một lần thì ký, ghi rõ họ tên hoặc điểm chỉ;\nnếu thân nhân dưới 15 tuổi hoặc mất năng lực hành vi dân sự thì người giám hộ\nký xác nhận; đồng thời ghi cụm từ “Người giám hộ” lên trước dòng họ tên.\n- (8) Ghi đầy đủ họ, tên đệm, tên người nhận trợ cấp\nmai táng; trường hợp người nhận trợ cấp không thuộc số thân nhân có tên trong Tờ\nkhai thì ghi bổ sung: Mã số BHXH (nếu đã được cấp) hoặc số định danh hoặc số\ncăn cước công dân hoặc số hộ chiếu; địa chỉ chi tiết nơi cư trú; trường hợp nhận\nqua tài khoản thẻ thì ghi bổ sung: Số tài khoản, ngân hàng mở tài khoản, chi\nnhánh mở tài khoản). Trường hợp người nhận trợ cấp mai táng đồng thời là người\nđược cử nhận các khoản trợ cấp tuất một lần thì ghi rõ vào cuối phần này: “Tôi\nđồng thời nhận các khoản trợ cấp tuất một lần”.\nTrường hợp đã nhận trợ cấp mai táng theo nhóm thủ tục\nliên thông “Đăng ký khai tử - Xóa đăng ký thường trú - Trợ cấp mai táng” theo\nQuyết định số 06/QĐ-TTg ngày 06/01/2022 của Thủ tướng Chính phủ phê duyệt Đề án\nphát triển ứng dụng dữ liệu về dân cư, định danh và xác thực điện tử phục vụ\nchuyển đổi số quốc gia giai đoạn 2022-2025, tầm nhìn đến năm 2030 thì ghi rõ:\nĐã nhận trợ cấp mai táng theo nhóm thủ tục liên thông “Đăng ký khai tử - Xóa\nđăng ký thường trú - Trợ cấp mai táng” tại Quyết định số ………./QĐ-BHXH ngày ...\ntháng... năm ... của...\n(9) Ghi đầy đủ họ, tên đệm, tên người nhận các khoản\ntrợ cấp một lần; trường hợp nhận qua tài khoản thẻ thì ghi bổ sung: số tài khoản,\nngân hàng mở tài khoản, chi nhánh mở tài khoản). Trường hợp người nhận trợ cấp\nmai táng đồng thời là người được cử nhận các khoản trợ cấp tuất một lần thì thực\nhiện theo hướng dẫn tại phần (8) và không phải ghi thông tin ở phần này.\nTrường hợp người lao động có thời gian đóng BHXH ở\nnơi có phụ cấp khu vực mà thân nhân đề nghị giải quyết tuất hằng tháng và người\nlo mai táng đã nhận trợ cấp mai táng theo nhóm thủ tục liên thông “Đăng ký khai\ntử - Xóa đăng ký thường trú - Trợ cấp mai táng” theo Quyết định số 06/QĐ-TTg\nngày 06/01/2022 của Thủ tướng Chính phủ phê duyệt Đề án phát triển ứng dụng dữ\nliệu về dân cư, định danh và xác thực điện tử phục vụ chuyển đổi số quốc gia\ngiai đoạn 2022-2025, tầm nhìn đến năm 2030 thì thân nhân thống nhất cử một thân\nnhân hưởng trợ cấp tuất hàng tháng đứng tên đồng thời nhận khoản trợ cấp khu vực\nmột lần.\n- (10) Trường hợp thân nhân nộp hồ sơ chậm hơn so với\nthời hạn quy định thì giải trình lý do nộp chậm vào phần này.\nBẢO HIỂM XÃ HỘI…..\nBẢO HIỂM XÃ HỘI…..\n-------\nCỘNG HÒA XÃ HỘI\nCHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\n---------------\nTỔNG\nHỢP GIẢI QUYẾT HƯỞNG TRỢ CẤP MAI TÁNG, TRỢ CẤP TUẤT MỘT LẦN, TRỢ CẤP TUẤT HẰNG\nTHÁNG THEO NHÓM THỦ TỤC HÀNH CHÍNH LIÊN THÔNG\n(Ban hành kèm theo\nQuyết định số ………………/QĐ-BHXH ngày... tháng ... năm của BHXH Việt Nam)\nSTT\nCơ quan BHXH Họ và tên người chết Loại đối tượng Mã số BHXH của người chết Số QĐ hưởng trợ cấp mai táng Ngày ra Quyết định hưởng trợ cấp mai táng Họ và tên người nhận trợ cấp mai táng Hình thức nhận tiền Số điện thoại liên hệ của người nhận trợ cấp mai táng Đã giải quyết trợ cấp trợ cấp tuất một lần/hằng tháng sau đó Là người kê khai Không phải người kê khai Tiền mặt Tài khoản ngân hàng Số quyết định Ngày ra quyết định 1 2 3 4 5 6 7 8 9 10 11 12 13 14 1 x 2 x … x Hướng dẫn lập danh sách: - Thời gian lập danh sách: Tháng, quý, năm - Trách nhiệm lập: BHXH cấp huyện lập đối với dữ liệu do huyện giải quyết. BHXH cấp tỉnh lập đối với dữ liệu toàn tỉnh. BHXH Việt Nam lập đối với dữ liệu toàn quốc - Cột 4: Người chết nêu tại cột 3 thuộc một trong các trường hợp sau: + Người đang hưởng lương hưu, trợ cấp BHXH hàng tháng (Mã ĐH); + Người đang bảo lưu thời gian đóng bảo hiểm xã hội (Mã BL); + Người tham gia bảo hiểm xã hội tự nguyện (Mã TN); + Người đang chờ đủ điều kiện về tuổi đời để hưởng chế độ hưu trí, trợ cấp hằng tháng (Mã CH). - Cột 8: Hiển thị họ và tên của người nhận trợ cấp mai táng là người kê khai Tờ khai điện tử (Mẫu 02) được cung cấp trên Cổng Dịch vụ công quốc gia do Văn phòng Chính phủ quy định. - Cột 9: Hiển thị họ và tên của người nhận trợ cấp mai táng không phải là người kê khai Tờ khai điện tử (Mẫu 02) được cung cấp trên Cổng Dịch vụ công quốc gia do Văn phòng Chính phủ quy định. - Cột 13, 14: Cập nhật dữ liệu tại thời điểm kết xuất Danh sách.",
+  "tree": {
+    "parts": [
+      {
+        "part_id": "doc:130413:part:1",
+        "part_type": "main",
+        "part_title": null,
+        "reference": null,
+        "direct_text": "QUYẾT ĐỊNH BAN\nHÀNH QUY TRÌNH LIÊN THÔNG ĐIỆN TỬ GIẢI QUYẾT NHÓM THỦ TỤC HÀNH CHÍNH “ĐĂNG KÝ\nKHAI TỬ - XÓA ĐĂNG KÝ THƯỜNG TRÚ - TRỢ CẤP MAI TÁNG PHÍ” TRÊN CỔNG DỊCH VỤ CÔNG\nQUỐC GIA THEO QUYẾT ĐỊNH SỐ 06/QĐ-TTG NGÀY\n06/01/2022 CỦA THỦ TƯỚNG CHÍNH PHỦ\nTỔNG GIÁM ĐỐC BẢO HIỂM XÃ HỘI VIỆT NAM\nCăn cứ Luật Bảo hiểm xã hội ngày 20 tháng 11 năm 2014; Căn cứ Nghị định số 166/2016/NĐ-CP ngày 24 tháng 12 năm 2016 của Chính phủ quy định về giao dịch điện tử trong lĩnh vực bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp; Căn cứ Nghị định số 143/2018/NĐ-CP ngày 15 tháng 10 năm 2018 của Chính phủ quy định chi tiết Luật Bảo hiểm xã hội và Luật An toàn, vệ sinh lao động về bảo hiểm xã hội bắt buộc đối với người lao động là công dân nước ngoài làm việc tại Việt Nam; Căn cứ Nghị định số 45/2020/NĐ-CP ngày 08 tháng 4 năm 2020 của Chính phủ quy định việc thực hiện thủ tục hành chính trên môi trường điện tử; Căn cứ Nghị định số 89/2020/NĐ-CP ngày 04/8/2020 của Chính phủ quy định chức năng; nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bảo hiểm xã hội Việt Nam; Căn cứ Quyết định số 1380/QĐ-TTg ngày 18/10/2018 của Thủ tướng Chính phủ phê duyệt “Đề án thực hiện liên thông các thủ tục hành chính; Đăng ký khai tử, xóa đăng ký thường trú, hưởng chế độ tử tuất/hỗ trợ chi phí mai táng/hưởng mai táng phí”; Căn cứ Quyết định số 06/QĐ-TTg ngày 06/01/2022 của Thủ tướng Chính phủ phê duyệt Đề án phát triển ứng dụng dữ liệu về dân cư, định danh và xác thực điện tử phục vụ chuyển đổi số quốc gia giai đoạn 2022-2025, tầm nhìn đến năm 2030; Căn cứ Quyết định số 838/QĐ-BHXH ngày 29 tháng 5 năm 2017 của Bảo hiểm xã hội Việt Nam ban hành quy trình giao dịch điện tử trong lĩnh vực bảo hiểm xã hội, bảo hiểm y tế và bảo hiểm thất nghiệp; Căn cứ Quyết định số 166/QĐ-BHXH ngày 31/01/2019 của Bảo hiểm xã hội Việt Nam ban hành quy trình giải quyết hưởng các chế độ bảo hiểm xã hội, chi trả các chế độ bảo hiểm xã hội, bảo hiểm thất nghiệp; Căn cứ Quyết định số 475/QĐ-BHXH ngày 27 tháng 3 năm 2023 của Tổng Giám đốc Bảo hiểm xã hội Việt Nam ban hành Quy chế tổ chức và hoạt động của Bộ phận Tiếp nhận và Trả kết quả giải quyết thủ tục hành chính theo cơ chế một cửa, một cửa liên thông trong ngành Bảo hiểm xã hội Việt Nam; Căn cứ Công văn số 2084/VPCP-KSTT ngày 30/3/2023 của Văn phòng Chính phủ về việc thực hiện quy trình liên thông điện tử đối với 02 nhóm thủ tục hành chính thiết yếu tại Đề án 06; Theo đề nghị của Trưởng Ban Thực hiện chính sách bảo hiểm xã hội.\nQUYẾT ĐỊNH:\n(Ban hành kèm theo Quyết định số: 706/QĐ-BHXH ngày 19 tháng 5 năm 2023 của Tổng\nGiám đốc Bảo hiểm xã hội Việt Nam)\n(Ban hành kèm theo\nQuyết định số ………………/QĐ-BHXH ngày... tháng ... năm của BHXH Việt Nam)\nSTT\nCơ quan BHXH Họ và tên người chết Loại đối tượng Mã số BHXH của người chết Số QĐ hưởng trợ cấp mai táng Ngày ra Quyết định hưởng trợ cấp mai táng Họ và tên người nhận trợ cấp mai táng Hình thức nhận tiền Số điện thoại liên hệ của người nhận trợ cấp mai táng Đã giải quyết trợ cấp trợ cấp tuất một lần/hằng tháng sau đó Là người kê khai Không phải người kê khai Tiền mặt Tài khoản ngân hàng Số quyết định Ngày ra quyết định 1 2 3 4 5 6 7 8 9 10 11 12 13 14 1 x 2 x … x Hướng dẫn lập danh sách: - Thời gian lập danh sách: Tháng, quý, năm - Trách nhiệm lập: BHXH cấp huyện lập đối với dữ liệu do huyện giải quyết. BHXH cấp tỉnh lập đối với dữ liệu toàn tỉnh. BHXH Việt Nam lập đối với dữ liệu toàn quốc - Cột 4: Người chết nêu tại cột 3 thuộc một trong các trường hợp sau: + Người đang hưởng lương hưu, trợ cấp BHXH hàng tháng (Mã ĐH); + Người đang bảo lưu thời gian đóng bảo hiểm xã hội (Mã BL); + Người tham gia bảo hiểm xã hội tự nguyện (Mã TN); + Người đang chờ đủ điều kiện về tuổi đời để hưởng chế độ hưu trí, trợ cấp hằng tháng (Mã CH). - Cột 8: Hiển thị họ và tên của người nhận trợ cấp mai táng là người kê khai Tờ khai điện tử (Mẫu 02) được cung cấp trên Cổng Dịch vụ công quốc gia do Văn phòng Chính phủ quy định. - Cột 9: Hiển thị họ và tên của người nhận trợ cấp mai táng không phải là người kê khai Tờ khai điện tử (Mẫu 02) được cung cấp trên Cổng Dịch vụ công quốc gia do Văn phòng Chính phủ quy định. - Cột 13, 14: Cập nhật dữ liệu tại thời điểm kết xuất Danh sách.",
+        "chapters": [
+          {
+            "chapter_id": "doc:130413:part:1:chapter:1",
+            "number": "I",
+            "title": "QUY ĐỊNH CHUNG",
+            "content": "Chương I\nQUY ĐỊNH CHUNG",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:130413:part:1:article:4",
+                "number": "1",
+                "title": "Phạm vi thực hiện Quy trình này quy định trình tự thực hiện thủ tục hành chính liên thông “Đăng ký khai tử - Xóa đăng ký thường trú - Trợ cấp mai táng phí” trên Cổng Dịch vụ công quốc gia thực hiện tại cơ quan Bảo hiểm xã hội đối với người chết thuộc các trường hợp sau:",
+                "content": "Điều 1. Phạm vi thực hiện Quy trình này quy định trình tự thực hiện thủ tục hành chính liên thông “Đăng ký khai tử - Xóa đăng ký thường trú - Trợ cấp mai táng phí” trên Cổng Dịch vụ công quốc gia thực hiện tại cơ quan Bảo hiểm xã hội đối với người chết thuộc các trường hợp sau:",
+                "clauses": [
+                  {
+                    "clause_id": "doc:130413:part:1:article:4:clause:1",
+                    "number": "1",
+                    "content": "1. Người đang hưởng lương hưu, trợ cấp bảo hiểm xã\nhội hằng tháng;",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:130413:part:1:article:4:clause:2",
+                    "number": "2",
+                    "content": "2. Người đang bảo lưu thời gian đóng bảo hiểm xã hội\nmà đã có thời gian đóng bảo hiểm xã hội bắt buộc từ đủ 12 tháng trở lên;",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:130413:part:1:article:4:clause:3",
+                    "number": "3",
+                    "content": "3. Người tham gia bảo hiểm xã hội tự nguyện có thời\ngian đóng bảo hiểm xã hội tự nguyện từ đủ 60 tháng trở lên;",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:130413:part:1:article:4:clause:4",
+                    "number": "4",
+                    "content": "4. Người tham gia bảo hiểm xã hội tự nguyện có thời\ngian đóng bảo hiểm xã hội bắt buộc từ đủ 12 tháng trở lên hoặc có tổng thời gian đóng bảo hiểm xã hội bắt buộc và tự nguyện từ đủ 60 tháng trở lên;",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:130413:part:1:article:4:clause:5",
+                    "number": "5",
+                    "content": "5. Người đang chờ đủ điều kiện về tuổi đời để hưởng\nchế độ hưu trí, trợ cấp hằng tháng;",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:130413:part:1:article:4:clause:6",
+                    "number": "6",
+                    "content": "6. Người từ đủ 80 tuổi trở lên đang hưởng trợ cấp\ntuất hằng tháng.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:130413:part:1:article:5",
+                "number": "2",
+                "title": "Đối tượng và điều kiện áp dụng",
+                "content": "Điều 2. Đối tượng và điều kiện áp dụng",
+                "clauses": [
+                  {
+                    "clause_id": "doc:130413:part:1:article:5:clause:1",
+                    "number": "1",
+                    "content": "1. Đối tượng áp dụng",
+                    "points": [
+                      {
+                        "point_id": "doc:130413:part:1:article:5:clause:1:point:1",
+                        "label": "a",
+                        "content": "a) Cá nhân thực hiện đăng ký khai tử cho người chết\nthuộc trường hợp nêu tại khoản 1, 2, 3, 4, 5 Điều 1 có đề nghị cơ quan Bảo hiểm xã hội giải quyết hưởng trợ cấp mai táng hoặc thuộc trường hợp nêu tại khoản 6 Điều 1 được cơ quan có thẩm quyền chuyển Trích lục khai tử điện tử trên Cổng Dịch vụ công quốc gia thông qua phần mềm Dịch vụ công liên thông đến cơ quan Bảo hiểm xã hội để cấp Quyết định thôi hưởng trợ cấp tuất hằng tháng.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:130413:part:1:article:5:clause:1:point:2",
+                        "label": "b",
+                        "content": "b) Cơ quan Bảo hiểm xã hội, tổ chức và cá nhân có\nliên quan đến trình tự thực hiện trong quy trình này.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:130413:part:1:article:5:clause:2",
+                    "number": "2",
+                    "content": "2. Điều kiện áp dụng",
+                    "points": [
+                      {
+                        "point_id": "doc:130413:part:1:article:5:clause:2:point:1",
+                        "label": "a",
+                        "content": "a) Cá nhân thực hiện theo điểm a khoản 1 Điều này\ncó tài khoản được cấp bởi Cổng Dịch vụ công quốc gia.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:130413:part:1:article:5:clause:2:point:2",
+                        "label": "b",
+                        "content": "b) Cơ quan Bảo hiểm xã hội có thẩm quyền giải quyết\ntrợ cấp mai táng và ban hành Quyết định thôi hưởng trợ cấp tuất hằng tháng trên cùng một địa bàn cấp tỉnh với cơ quan có thẩm quyền giải quyết thủ tục đăng ký khai tử. Trường hợp người chết là người đang hưởng lương hưu, trợ cấp bảo hiểm xã hội hàng tháng hoặc đang tham gia bảo hiểm xã hội tự nguyện hoặc đang chờ đủ điều kiện về tuổi đời để hưởng chế độ hưu trí, trợ cấp hàng tháng thì cơ quan Bảo hiểm xã hội có thẩm quyền giải quyết trợ cấp mai táng hoặc thủ tục thôi hưởng trợ cấp tuất hằng tháng là cơ quan Bảo hiểm xã hội nơi đang quản lý chi trả lương hưu, trợ cấp bảo hiểm xã hội hằng tháng hoặc đang quản lý thu bảo hiểm xã hội tự nguyện hoặc đang quản lý hồ sơ chờ đủ điều kiện về tuổi đời để hưởng chế độ hưu trí, trợ cấp hằng tháng.",
+                        "children": []
+                      }
+                    ]
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:130413:part:1:article:6",
+                "number": "3",
+                "title": "Giải thích từ ngữ",
+                "content": "Điều 3. Giải thích từ ngữ\n1. BHXH là chữ viết tắt của cụm từ “bảo hiểm xã hội”.\n2. BHYT là chữ viết tắt của cụm từ “bảo hiểm y tế”.\n3. CMND/CCCD là chữ viết tắt của cụm từ “Chứng minh\nnhân dân/Căn cước công dân”.\n4. Bộ phận Một cửa: Gọi chung cho “Tổ Tiếp nhận hồ\nsơ và trả kết quả thủ tục hành chính” của BHXH cấp huyện và “Bộ phận Tiếp nhận hồ sơ và trả kết quả giải quyết thủ tục hành chính” của BHXH cấp tỉnh.\n5. Bộ phận Chế độ BHXH: Gọi chung cho “Tổ Giải quyết\nchế độ BHXH” và “Bộ phận giải quyết chế độ BHXH” của BHXH cấp huyện.\n6. Bộ phận Kế toán: Gọi chung cho Tổ Kế toán và Bộ\nphận Kế toán của BHXH cấp huyện.\n7. Người nhận trợ cấp mai táng là người lo mai táng\nhoặc người đại diện các thân nhân lo mai táng đứng tên nhận trợ cấp mai táng.\n8. Tờ khai điện tử (Mẫu số 02): Là mẫu được cung cấp\ntrên Cổng Dịch vụ công quốc gia do Văn phòng Chính phủ quy định.\n9. Nghị định số 143/2018/NĐ-CP là chữ viết tắt của\ncụm từ “Nghị định số 143/2018/NĐ-CP ngày 15/10/2018 của Chính phủ quy định chi tiết Luật Bảo hiểm xã hội và Luật An toàn, vệ sinh lao động về bảo hiểm xã hội bắt buộc đối với người lao động là công dân nước ngoài làm việc tại Việt Nam”.\n10. Quyết định số 06/QĐ-TTg là chữ viết tắt của cụm\ntừ “Quyết định số 06/QĐ-TTg ngày 06/01/2022 của Thủ tướng Chính phủ phê duyệt Đề án phát triển ứng dụng dữ liệu về dân cư, định danh và xác thực điện tử phục vụ chuyển đổi số quốc gia giai đoạn 2022-2025, tầm nhìn đến năm 2030”.\n11. Thông tư số 59/2015/TT-BLĐTBXH là chữ viết tắt\ncủa cụm từ “Thông tư số 59/2015/TT-BLĐTBXH ngày 29/12/2015 của Bộ Lao động - Thương binh và Xã hội quy định chi tiết và hướng dẫn thi hành một số điều của Luật Bảo hiểm xã hội về bảo hiểm xã hội bắt buộc”.\n12. Thông tư số 136/2020/TT-BQP là chữ viết tắt của\ncụm từ “Thông tư số 136/2020/TT-BQP ngày 29/10/2020 của Bộ Quốc phòng hướng dẫn về hồ sơ, quy trình và trách nhiệm giải quyết hưởng các chế độ bảo hiểm xã hội trong Bộ Quốc phòng”.\n13. Quyết định số 838/QĐ-BHXH là chữ viết tắt của cụm\ntừ “Quyết định số 838/QĐ-BHXH ngày 29/5/2017 của Tổng Giám đốc Bảo hiểm xã hội Việt Nam ban hành quy trình giao dịch điện tử trong lĩnh vực bảo hiểm xã hội, bảo hiểm y tế và bảo hiểm thất nghiệp”.\n14. Quyết định số 166/QĐ-BHXH là chữ viết tắt của cụm\ntừ “Quyết định số 166/QĐ-BHXH ngày 31/01/2019 của Tổng Giám đốc Bảo hiểm xã hội Việt Nam ban hành quy trình giải quyết hưởng các chế độ bảo hiểm xã hội, chi trả các chế độ bảo hiểm xã hội, bảo hiểm thất nghiệp”.\n15. Quyết định số 515/QĐ-BHXH là chữ viết tắt của cụm\ntừ “Quyết định số 515/QĐ-BHXH ngày 27/3/2020 của Tổng Giám đốc Bảo hiểm xã hội Việt Nam ban hành Quy chế quản lý cơ sở dữ liệu hộ gia đình và mã số bảo hiểm xã hội của người tham gia bảo hiểm xã hội, bảo hiểm y tế”.\n16. Quyết định số 490/QĐ-BHXH là chữ viết tắt của cụm\ntừ “Quyết định số 490/QĐ-BHXH ngày 28/03/2023 sửa đổi, bổ sung một số điều quy trình thu bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp, bảo hiểm tai nạn lao động, bệnh nghề nghiệp; quản lý sổ bảo hiểm xã hội, thẻ bảo hiểm y tế ban hành kèm theo Quyết định số 595/QĐ-BHXH ngày 14/4/2017 của Tổng Giám đốc Bảo hiểm xã hội Việt Nam và sửa đổi, bổ sung điều 1 của Quyết định số 505/QĐ-BHXH ngày 27/3/2020 của Tổng Giám đốc Bảo hiểm xã hội Việt Nam”.\n17. Quyết định số 475/QĐ-BHXH là chữ viết tắt của cụm\ntừ “Quyết định số 475/QĐ-BHXH ngày 27/3/2023 của Tổng Giám đốc Bảo hiểm xã hội Việt Nam ban hành Quy chế tổ chức và hoạt động của Bộ phận Tiếp nhận và Trả kết quả giải quyết thủ tục hành chính theo cơ chế một cửa, một cửa liên thông trong ngành Bảo hiểm xã hội Việt Nam”.\n18. Thông báo giải quyết hồ sơ giao dịch điện tử và\ntrả kết quả (Mẫu số 03/TB-GDĐT): Là mẫu được ban hành kèm theo Quyết định số\n838/QĐ- BHXH.\n19. Bản quá trình đóng BHXH (Mẫu số 04-HSB): Là mẫu\nđược ban hành kèm theo Quyết định số 166/QĐ-BHXH .\n20. Quyết định về việc hưởng trợ cấp mai táng (Mẫu\nsố 08A-HSB và 08B-HSB): Là mẫu được ban hành kèm theo Quyết định số 166/QĐ-BHXH và được sửa đổi, bổ sung tại Quyết định này.\n21. Quyết định về việc hưởng trợ cấp tuất hằng\ntháng (Mẫu số 08C-HSB): Là mẫu được ban hành kèm theo Quyết định số 166/QĐ-BHXH và được sửa đổi, bổ sung tại Quyết định này.\n22. Quyết định về việc hưởng trợ cấp tuất một lần\n(Mẫu số 08D-HSB và 08E-HSB): Là mẫu được ban hành kèm theo Quyết định số 166/QĐ-BHXH và được sửa đổi, bổ sung tại Quyết định này.\n23. Quyết định về việc thôi hưởng trợ cấp tuất hằng\ntháng là mẫu được ban hành kèm theo Công văn số 4967/BHXH-CSXH ngày 12/12/2016 của BHXH Việt Nam và được sửa đổi, bổ sung tại Quyết định này.\n24. Tờ khai của thân nhân (Mẫu số 09-HSB): Là mẫu\nđược ban hành kèm theo Quyết định số 166/QĐ-BHXH và được sửa đổi, bổ sung tại Quyết định này.",
+                "clauses": [],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:130413:part:1:chapter:2",
+            "number": "II",
+            "title": "QUY TRÌNH LIÊN THÔNG ĐIỆN TỬ GIẢI QUYẾT HƯỞNG VÀ CHI TRẢ TRỢ CẤP MAI TÁNG",
+            "content": "Chương II\nQUY TRÌNH LIÊN THÔNG ĐIỆN\nTỬ GIẢI QUYẾT HƯỞNG VÀ CHI TRẢ TRỢ CẤP MAI TÁNG",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:130413:part:1:article:7",
+                "number": "4",
+                "title": "Tiếp nhận hồ sơ",
+                "content": "Điều 4. Tiếp nhận hồ sơ",
+                "clauses": [
+                  {
+                    "clause_id": "doc:130413:part:1:article:7:clause:1",
+                    "number": "1",
+                    "content": "1. Cán bộ Bộ phận Một cửa truy cập phần mềm Tiếp nhận\nvà quản lý hồ sơ, nhận Mẫu số 02 và Trích lục khai tử điện tử do Cổng Dịch vụ công quốc gia chuyển đến qua phần mềm Dịch vụ công liên thông.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:130413:part:1:article:7:clause:2",
+                    "number": "2",
+                    "content": "2. Kiểm tra các thông tin kê khai trên Mẫu số 02 và\nTrích lục khai tử điện tử với cơ sở dữ liệu đóng, hưởng BHXH do ngành BHXH Việt Nam quản lý. Chủ động liên hệ với thân nhân của người chết theo thông tin kê khai trên Mẫu số 02 để kiểm tra, xác nhận thông tin đề nghị hưởng mai táng phí; liên lạc với người nhận trợ cấp mai táng theo hình thức chi trả qua tài khoản ngân hàng không phải là người kê khai Mẫu số 02 theo số điện thoại ghi trên Mẫu số 02 để xác thực một số thông tin như: số CMND/CCCD/hộ chiếu, họ và tên, giới tính, nơi thường trú,..; đồng thời đối chiếu, kiểm tra số điện thoại liên hệ và các thông tin nêu trên với cơ sở dữ liệu đang quản lý (nếu có).",
+                    "points": [
+                      {
+                        "point_id": "doc:130413:part:1:article:7:clause:2:point:1",
+                        "label": "a",
+                        "content": "a) Nếu thông tin xác thực danh tính và thông tin hồ\nsơ chính xác, đầy đủ thì gửi thông báo theo Mẫu số 03/TB-GDĐT cho người dân và phản hồi trạng thái xử lý cho phần mềm Dịch vụ công liên thông trong thời gian không quá 2 giờ làm việc kể từ khi nhận được thông tin dữ liệu.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:130413:part:1:article:7:clause:2:point:2",
+                        "label": "b",
+                        "content": "b) Trường hợp các thông tin đối chiếu không khớp, hồ\nsơ không đầy đủ, không hợp lệ (bao gồm cả trường hợp quá trình đóng BHXH chưa đồng bộ với cơ sở dữ liệu thu, sổ thẻ đã được quản lý tập trung thống nhất trong cả nước) thì gửi thông báo theo Mẫu số 03/TB-GDĐT, nêu rõ lý do kèm theo hướng dẫn hoàn thiện hồ sơ và thực hiện đồng bộ với phần mềm Dịch vụ công liên thông để thông báo cho người dân.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:130413:part:1:article:7:clause:2:point:3",
+                        "label": "c",
+                        "content": "c) Trường hợp xác định hồ sơ không hợp lệ do lỗi của\ncơ quan có thẩm quyền giải quyết thủ tục hành chính trước đó thì gửi thông báo theo Mẫu số 03/TB-GDĐT và nêu rõ lý do cho cơ quan đó thông qua phần mềm Dịch vụ công liên thông. Thời gian thông báo hồ sơ không đầy đủ, hợp lệ: Trong thời gian không quá 01 ngày làm việc kể từ khi nhận được hồ sơ điện tử trên Hệ thống.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:130413:part:1:article:7:clause:3",
+                    "number": "3",
+                    "content": "3. Chuyển toàn bộ hồ sơ hợp lệ đã tiếp nhận cho Bộ\nphận/Phòng Chế độ BHXH trên phần mềm Tiếp nhận và quản lý hồ sơ.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:130413:part:1:article:8",
+                "number": "5",
+                "title": "Giải quyết hưởng và lập danh sách chi trả Bộ phận/Phòng Chế độ BHXH:",
+                "content": "Điều 5. Giải quyết hưởng và lập danh sách chi trả Bộ phận/Phòng Chế độ BHXH:",
+                "clauses": [
+                  {
+                    "clause_id": "doc:130413:part:1:article:8:clause:1",
+                    "number": "1",
+                    "content": "1. Tiếp nhận hồ sơ từ phần mềm Tiếp nhận và quản lý\nhồ sơ; thực hiện kiểm tra, đối chiếu thông tin theo quy định tại tiết 1.1.1 điểm 1.1 khoản 1 Điều 7 Chương III Quyết định số 166/QĐ-BHXH; trường hợp nếu thấy cần thiết thì tổ chức kiểm tra, xác minh trước khi giải quyết hưởng trợ cấp mai táng.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:130413:part:1:article:8:clause:2",
+                    "number": "2",
+                    "content": "2. Truy cập Hệ thống quản lý chính sách để:",
+                    "points": [
+                      {
+                        "point_id": "doc:130413:part:1:article:8:clause:2:point:1",
+                        "label": "a",
+                        "content": "a) Báo giảm đối tượng hưởng chế độ BHXH hằng tháng\nđối với trường hợp người chết là người đang hưởng lương hưu, trợ cấp BHXH hằng tháng; thông báo cho cơ quan Bưu điện đối chiếu số tiền còn phải trả, không phải trả, số phải thu hồi cập nhật vào phần mềm nghiệp vụ.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:130413:part:1:article:8:clause:2:point:2",
+                        "label": "b",
+                        "content": "b) Xét duyệt và trình lãnh đạo phê duyệt Quyết định\nvề việc hưởng trợ cấp mai táng (Mẫu số 08A-HSB hoặc 08B-HSB), Bản quá trình đóng BHXH (Mẫu số 04-HSB). Việc giải quyết trợ cấp mai táng căn cứ vào cơ sở dữ liệu thu, sổ thẻ đã được quản lý tập trung thống nhất trong cả nước và dữ liệu người hưởng hằng tháng do cơ quan BHXH đang quản lý.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:130413:part:1:article:8:clause:2:point:3",
+                        "label": "c",
+                        "content": "c) Sau khi được lãnh đạo phê duyệt, chuyển Quyết định\nvề việc hưởng trợ cấp mai táng (Mẫu số 08A-HSB hoặc 08B-HSB), Bản quá trình đóng BHXH theo Mẫu số 04-HSB (đối với trường hợp người đang bảo lưu thời gian đóng BHXH, người tham gia BHXH tự nguyện và người đang chờ đủ điều kiện về tuổi đời để hưởng chế độ hưu trí, trợ cấp hằng tháng) về Bộ phận Một cửa để phát hành và trả kết quả giải quyết thủ tục hành chính cho người dân.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:130413:part:1:article:8:clause:2:point:4",
+                        "label": "d",
+                        "content": "d) Lập danh sách chi trả trợ cấp mai táng theo quy\nđịnh tại điểm 2.1 khoản 2 Điều 7 Chương III Quyết định số 166/QĐ-BHXH và chuyển Bộ phận Kế toán/Phòng Kế hoạch - Tài chính.",
+                        "children": []
+                      }
+                    ]
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:130413:part:1:article:9",
+                "number": "6",
+                "title": "Trả kết quả giải quyết",
+                "content": "Điều 6. Trả kết quả giải quyết",
+                "clauses": [
+                  {
+                    "clause_id": "doc:130413:part:1:article:9:clause:1",
+                    "number": "1",
+                    "content": "1. Trả kết quả là Quyết định về việc hưởng trợ cấp\nmai táng Bộ phận Một cửa tiếp nhận hồ sơ đã được giải quyết từ Bộ phận/Phòng Chế độ BHXH để trả cho người dân gồm: Quyết định về việc hưởng trợ cấp mai táng (Mẫu số 08A-HSB hoặc 08B-HSB), Bản quá trình đóng BHXH theo Mẫu số 04-HSB (nếu có) và thực hiện trả hồ sơ theo quy định tại khoản 2, 3, 4 Điều 17 Quyết định số 475/QĐ-BHXH; đồng thời hướng dẫn người dân về việc lập hồ sơ để giải quyết hưởng trợ cấp tuất một lần hoặc hằng tháng sau khi đã giải quyết hưởng trợ cấp mai táng theo thủ tục liên thông.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:130413:part:1:article:9:clause:2",
+                    "number": "2",
+                    "content": "2. Trả kết quả là tiền trợ cấp mai táng\nThực hiện quy trình chi trả như quy định tại khoản 3 Điều 7 Chương III Quyết định số 166/QĐ-BHXH và khoản 5 Điều 17 Quyết định số 475/QĐ-BHXH.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:130413:part:1:article:10",
+                "number": "7",
+                "title": "Thời hạn giải quyết Không quá 10 ngày làm việc kể từ ngày nhận đủ thông tin, dữ liệu, hồ sơ hợp lệ.",
+                "content": "Điều 7. Thời hạn giải quyết Không quá 10 ngày làm việc kể từ ngày nhận đủ thông tin, dữ liệu, hồ sơ hợp lệ.",
+                "clauses": [],
+                "points": []
+              },
+              {
+                "article_id": "doc:130413:part:1:article:11",
+                "number": "8",
+                "title": "Lưu trữ hồ sơ Hồ sơ hưởng trợ cấp mai táng được lưu trữ tại phần mềm Lưu trữ hồ sơ điện tử của BHXH Việt Nam theo quy định về lưu trữ.",
+                "content": "Điều 8. Lưu trữ hồ sơ Hồ sơ hưởng trợ cấp mai táng được lưu trữ tại phần mềm Lưu trữ hồ sơ điện tử của BHXH Việt Nam theo quy định về lưu trữ.",
+                "clauses": [],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:130413:part:1:chapter:3",
+            "number": "III",
+            "title": "QUY TRÌNH LIÊN THÔNG ĐIỆN TỬ GIẢI QUYẾT THÔI HƯỞNG TRỢ CẤP TUẤT HẰNG THÁNG ĐỐI VỚI NGƯỜI TỪ ĐỦ 80 TUỔI TRỞ LÊN ĐANG HƯỞNG TRỢ CẤP TUẤT HẰNG THÁNG CHẾT",
+            "content": "Chương III\nQUY TRÌNH LIÊN THÔNG ĐIỆN\nTỬ GIẢI QUYẾT THÔI HƯỞNG TRỢ CẤP TUẤT HẰNG THÁNG ĐỐI VỚI NGƯỜI TỪ ĐỦ 80 TUỔI TRỞ\nLÊN ĐANG HƯỞNG TRỢ CẤP TUẤT HẰNG THÁNG CHẾT",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:130413:part:1:article:12",
+                "number": "9",
+                "title": "Tiếp nhận hồ sơ",
+                "content": "Điều 9. Tiếp nhận hồ sơ",
+                "clauses": [
+                  {
+                    "clause_id": "doc:130413:part:1:article:12:clause:1",
+                    "number": "1",
+                    "content": "1. Cán bộ Bộ phận Một cửa truy cập phần mềm Tiếp nhận\nvà quản lý hồ sơ, nhận Mẫu số 02 và Trích lục khai tử điện tử do Cổng Dịch vụ công quốc gia chuyển đến qua phần mềm Dịch vụ công liên thông.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:130413:part:1:article:12:clause:2",
+                    "number": "2",
+                    "content": "2. Kiểm tra các thông tin kê khai trên Mẫu số 02 và\nTrích lục khai tử điện tử với cơ sở dữ liệu hưởng BHXH do ngành BHXH Việt Nam quản lý.",
+                    "points": [
+                      {
+                        "point_id": "doc:130413:part:1:article:12:clause:2:point:1",
+                        "label": "a",
+                        "content": "a) Trường hợp người chết là người từ đủ 80 tuổi trở\nlên đang hưởng trợ cấp tuất hằng tháng và thông tin kê khai đầy đủ, chính xác thì gửi thông báo theo Mẫu số 03/TB-GDĐT cho người dân và phản hồi trạng thái xử lý cho phần mềm Dịch vụ công liên thông trong thời gian không quá 2 giờ làm việc kể từ khi nhận được thông tin dữ liệu.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:130413:part:1:article:12:clause:2:point:2",
+                        "label": "b",
+                        "content": "b) Trường hợp thông tin về nhân thân tại hồ sơ hưởng\ntrợ cấp tuất hằng tháng với Mẫu số 02 và Trích lục khai tử điện tử không thống nhất thì kiểm tra, đối chiếu với thông tin tham gia BHYT và dữ liệu Hộ gia đình: - Nếu thông tin khớp đúng với thông tin tham gia BHYT và dữ liệu Hộ gia đình thì tiếp nhận hồ sơ và gửi thông báo theo Mẫu số 03/TB-GDĐT cho người dân và phản hồi trạng thái xử lý cho phần mềm Dịch vụ công liên thông. - Nếu thông tin không khớp đúng với thông tin tham gia BHYT và dữ liệu Hộ gia đình thì gửi thông báo theo Mẫu số 03/TB-GDĐT, nêu rõ lý do kèm theo hướng dẫn người dân lập Mẫu TK1-TS ban hành kèm theo Quyết định số 490/QĐ-BHXH và đồng bộ với phần mềm Dịch vụ công liên thông để thông báo cho người dân hoàn thiện hồ sơ điều chỉnh thông tin người tham gia trong cơ sở dữ liệu hộ gia đình theo quy định tại Quyết định số 515/QĐ-BHXH .",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:130413:part:1:article:12:clause:2:point:3",
+                        "label": "c",
+                        "content": "c) Trường hợp hồ sơ không đầy đủ, không hợp lệ và\nkhông thuộc lý do nêu trên thì gửi thông báo theo Mẫu số 03/TB-GDĐT, nêu rõ lý do kèm theo hướng dẫn hoàn thiện hồ sơ và thực hiện đồng bộ với phần mềm Dịch vụ công liên thông để thông báo cho người dân.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:130413:part:1:article:12:clause:2:point:4",
+                        "label": "d",
+                        "content": "d) Trường hợp xác định hồ sơ không hợp lệ do lỗi của\ncơ quan có thẩm quyền giải quyết thủ tục hành chính trước đó thì gửi thông báo theo Mẫu số 03/TB-GDĐT, nêu rõ lý do cho cơ quan đó thông qua phần mềm Dịch vụ công liên thông. Thời gian thông báo hồ sơ không đầy đủ, hợp lệ: Trong thời gian không quá 01 ngày làm việc kể từ khi nhận được hồ sơ điện tử trên Hệ thống.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:130413:part:1:article:12:clause:3",
+                    "number": "3",
+                    "content": "3. Chuyển toàn bộ hồ sơ hợp lệ đã tiếp nhận cho Bộ\nphận/Phòng Chế độ BHXH trên phần mềm Tiếp nhận và quản lý hồ sơ.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:130413:part:1:article:13",
+                "number": "10",
+                "title": "Giải quyết Bộ phận/Phòng Chế độ BHXH:",
+                "content": "Điều 10. Giải quyết Bộ phận/Phòng Chế độ BHXH:",
+                "clauses": [
+                  {
+                    "clause_id": "doc:130413:part:1:article:13:clause:1",
+                    "number": "1",
+                    "content": "1. Tiếp nhận hồ sơ hợp lệ từ phần mềm Tiếp nhận và\nquản lý hồ sơ. Trường hợp thông tin không khớp đúng thì từ chối hồ sơ và nêu rõ lý do, gửi lại Bộ phận Một cửa để trả lại cho người dân theo quy định tại tiết b khoản 2 Điều 9.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:130413:part:1:article:13:clause:2",
+                    "number": "2",
+                    "content": "2. Truy cập Hệ thống quản lý chính sách để:",
+                    "points": [
+                      {
+                        "point_id": "doc:130413:part:1:article:13:clause:2:point:1",
+                        "label": "a",
+                        "content": "a) Cập nhật thông tin nhân thân người hưởng trợ cấp\ntuất hằng tháng chết theo dữ liệu tham gia BHYT và dữ liệu Hộ gia đình đối với trường hợp thông tin tham gia BHYT và dữ liệu Hộ gia đình khớp đúng với thông tin trên Mẫu số 02, Trích lục khai tử điện tử.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:130413:part:1:article:13:clause:2:point:2",
+                        "label": "b",
+                        "content": "b) Báo giảm đối tượng hưởng chế độ BHXH hàng tháng;\nthông báo cho cơ quan Bưu điện đối chiếu số tiền còn phải trả, không phải trả, số phải thu hồi cập nhật vào phần mềm nghiệp vụ.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:130413:part:1:article:13:clause:2:point:3",
+                        "label": "c",
+                        "content": "c) Xét duyệt và trình lãnh đạo phê duyệt Quyết định\nvề việc thôi hưởng trợ cấp tuất hằng tháng.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:130413:part:1:article:13:clause:2:point:4",
+                        "label": "d",
+                        "content": "d) Sau khi được lãnh đạo phê duyệt, chuyển Quyết định\nvề việc thôi hưởng trợ cấp tuất hằng tháng về Bộ phận Một cửa để phát hành và trả kết quả giải quyết.",
+                        "children": []
+                      }
+                    ]
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:130413:part:1:article:14",
+                "number": "11",
+                "title": "Trả kết quả giải quyết Bộ phận Một cửa tiếp nhận Quyết định về việc thôi hưởng trợ cấp tuất hằng tháng từ Bộ phận/Phòng Chế độ BHXH để phát hành, chuyển đến phần mềm Dịch vụ công liên thông để chuyển sang ngành Lao động - Thương binh và Xã hội thực hiện nghĩa vụ chi trả hỗ trợ chi phí mai táng và trả cho người dân theo hình thức đăng ký nhận kết quả giải quyết thủ tục hành chính (nếu có đề nghị).",
+                "content": "Điều 11. Trả kết quả giải quyết Bộ phận Một cửa tiếp nhận Quyết định về việc thôi hưởng trợ cấp tuất hằng tháng từ Bộ phận/Phòng Chế độ BHXH để phát hành, chuyển đến phần mềm Dịch vụ công liên thông để chuyển sang ngành Lao động - Thương binh và Xã hội thực hiện nghĩa vụ chi trả hỗ trợ chi phí mai táng và trả cho người dân theo hình thức đăng ký nhận kết quả giải quyết thủ tục hành chính (nếu có đề nghị).",
+                "clauses": [],
+                "points": []
+              },
+              {
+                "article_id": "doc:130413:part:1:article:15",
+                "number": "12",
+                "title": "Thời hạn giải quyết Không quá 02 ngày làm việc, kể từ ngày nhận đủ thông tin, dữ liệu, hồ sơ hợp lệ. Trường hợp giải quyết không đúng thời hạn thì phải xin lỗi bằng văn bản và hẹn lại ngày trả kết quả, trong đó nêu rõ lý do chậm trả kết quả và thời hạn trả kết quả gửi phần mềm Dịch vụ công liên thông để gửi cho người dân. Trường hợp không kết nối, chia sẻ được dữ liệu vì lý do kỹ thuật mà chưa được xử lý trong thời hạn 02 ngày làm việc thì Bộ phận Một cửa thực hiện luân chuyển hồ sơ giấy cho cơ quan có thẩm quyền giải quyết hỗ trợ chi phí mai táng qua dịch vụ bưu chính công ích để giải quyết theo quy định pháp luật.",
+                "content": "Điều 12. Thời hạn giải quyết Không quá 02 ngày làm việc, kể từ ngày nhận đủ thông tin, dữ liệu, hồ sơ hợp lệ. Trường hợp giải quyết không đúng thời hạn thì phải xin lỗi bằng văn bản và hẹn lại ngày trả kết quả, trong đó nêu rõ lý do chậm trả kết quả và thời hạn trả kết quả gửi phần mềm Dịch vụ công liên thông để gửi cho người dân. Trường hợp không kết nối, chia sẻ được dữ liệu vì lý do kỹ thuật mà chưa được xử lý trong thời hạn 02 ngày làm việc thì Bộ phận Một cửa thực hiện luân chuyển hồ sơ giấy cho cơ quan có thẩm quyền giải quyết hỗ trợ chi phí mai táng qua dịch vụ bưu chính công ích để giải quyết theo quy định pháp luật.",
+                "clauses": [],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:130413:part:1:chapter:4",
+            "number": "IV",
+            "title": "GIẢI QUYẾT HƯỞNG VÀ CHI TRẢ TRỢ CẤP TUẤT MỘT LẦN HOẶC HẰNG THÁNG SAU KHI ĐÃ GIẢI QUYẾT HƯỞNG TRỢ CẤP MAI TÁNG THEO THỦ TỤC LIÊN THÔNG “ĐĂNG KÝ KHAI TỬ - XÓA ĐĂNG KÝ THƯỜNG TRÚ - TRỢ CẤP MAI TÁNG PHÍ” TRÊN CỔNG DỊCH VỤ CÔNG QUỐC GIA",
+            "content": "Chương IV\nGIẢI QUYẾT HƯỞNG VÀ CHI\nTRẢ TRỢ CẤP TUẤT MỘT LẦN HOẶC HẰNG THÁNG SAU KHI ĐÃ GIẢI QUYẾT HƯỞNG TRỢ CẤP\nMAI TÁNG THEO THỦ TỤC LIÊN THÔNG “ĐĂNG KÝ KHAI TỬ - XÓA ĐĂNG KÝ THƯỜNG TRÚ - TRỢ\nCẤP MAI TÁNG PHÍ” TRÊN CỔNG DỊCH VỤ CÔNG QUỐC GIA",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:130413:part:1:article:16",
+                "number": "13",
+                "title": "Thành phần hồ sơ Hồ sơ giải quyết hưởng trợ cấp tuất một lần hoặc trợ cấp tuất hằng tháng sau khi giải quyết hưởng trợ cấp mai táng thực hiện theo quy định tại Điều 111 Luật BHXH; Mẫu số 04C-HBQP ban hành kèm theo Thông tư số 136/2020/TT-BQP đối với người có thời gian phục vụ trong Quân đội trước ngày 01/01/2007 tại địa bàn có hưởng phụ cấp khu vực mà sổ BHXH không thể hiện đầy đủ thông tin làm căn cứ tính phụ cấp khu vực; khoản 4 Điều 25 Thông tư số 59/2015/TT-BLĐTBXH, khoản 1 Điều 15 Nghị định số 143/2018/NĐ-CP, gồm:",
+                "content": "Điều 13. Thành phần hồ sơ Hồ sơ giải quyết hưởng trợ cấp tuất một lần hoặc trợ cấp tuất hằng tháng sau khi giải quyết hưởng trợ cấp mai táng thực hiện theo quy định tại Điều 111 Luật BHXH; Mẫu số 04C-HBQP ban hành kèm theo Thông tư số 136/2020/TT-BQP đối với người có thời gian phục vụ trong Quân đội trước ngày 01/01/2007 tại địa bàn có hưởng phụ cấp khu vực mà sổ BHXH không thể hiện đầy đủ thông tin làm căn cứ tính phụ cấp khu vực; khoản 4 Điều 25 Thông tư số 59/2015/TT-BLĐTBXH, khoản 1 Điều 15 Nghị định số 143/2018/NĐ-CP, gồm:",
+                "clauses": [
+                  {
+                    "clause_id": "doc:130413:part:1:article:16:clause:1",
+                    "number": "1",
+                    "content": "1. Đối với thân nhân của người đang tham gia BHXH tự\nnguyện, đang bảo lưu thời gian đóng BHXH hoặc đang chờ đủ điều kiện về tuổi đời để hưởng chế độ hưu trí, trợ cấp cán bộ xã hằng tháng: Tờ khai của thân nhân (Mẫu số 09-HSB) và hồ sơ quy định tại các nội dung a1, a4, a6, a7 thuộc tiểu tiết a tiết 1.2.4 điểm 1.2 khoản 1 Điều 6 Chương III Quyết định số 166/QĐ-BHXH.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:130413:part:1:article:16:clause:2",
+                    "number": "2",
+                    "content": "2. Đối với thân nhân của người đang hưởng hoặc tạm\ndừng hưởng lương hưu, trợ cấp BHXH hằng tháng: Tờ khai của thân nhân (Mẫu số 09-HSB) và hồ sơ quy định tại các nội dung a4, a6 thuộc tiểu tiết a tiết 1.2.4 điểm 1.2 khoản 1 Điều 6 Quyết định số 166/QĐ-BHXH.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:130413:part:1:article:17",
+                "number": "14",
+                "title": "Giải quyết hưởng và chi trả",
+                "content": "Điều 14. Giải quyết hưởng và chi trả",
+                "clauses": [
+                  {
+                    "clause_id": "doc:130413:part:1:article:17:clause:1",
+                    "number": "1",
+                    "content": "1. Cán bộ xét duyệt kiểm tra dữ liệu để xác định việc\nđã giải quyết trợ cấp mai táng theo quy trình liên thông tại Quyết định này để tránh giải quyết trùng trợ cấp mai táng.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:130413:part:1:article:17:clause:2",
+                    "number": "2",
+                    "content": "2. Quy trình giải quyết hưởng và chi trả trợ cấp tuất\nmột lần hoặc trợ cấp tuất hằng tháng sau khi giải quyết hưởng trợ cấp mai táng được thực hiện theo quy định tại Quyết định số 166/QĐ-BHXH và hướng dẫn tại văn bản này.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:130413:part:1:article:17:clause:3",
+                    "number": "3",
+                    "content": "3. Trường hợp người chết có thời gian đóng BHXH có\nbao gồm phụ cấp khu vực và người lo mai táng đã nhận trợ cấp mai táng theo Quyết định này mà thân nhân đề nghị hưởng trợ cấp tuất hằng tháng thì Quyết định về việc hưởng trợ cấp tuất hằng tháng được ban hành theo Mẫu số 08C-HSB.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:130413:part:1:article:17:clause:4",
+                    "number": "4",
+                    "content": "4. Trường hợp người lo mai táng đã nhận trợ cấp mai\ntáng theo Quyết định này mà thân nhân đề nghị hưởng trợ cấp tuất một lần thì Quyết định về việc hưởng trợ cấp tuất một lần được ban hành theo Mẫu số 08D,\n08E-HSB.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:130413:part:1:article:17:clause:5",
+                    "number": "5",
+                    "content": "5. Kết quả giải quyết hưởng trợ cấp tử tuất lưu trữ\ncùng kết quả giải quyết trợ cấp mai táng tại phần mềm Lưu trữ hồ sơ điện tử của BHXH Việt Nam.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:130413:part:1:chapter:5",
+            "number": "V",
+            "title": "TỔ CHỨC THỰC HIỆN",
+            "content": "Chương V\nTỔ CHỨC THỰC HIỆN",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:130413:part:1:article:18",
+                "number": "15",
+                "title": "Trách nhiệm của BHXH tỉnh, thành phố trực thuộc Trung ương",
+                "content": "Điều 15. Trách nhiệm của BHXH tỉnh, thành phố trực thuộc Trung ương",
+                "clauses": [
+                  {
+                    "clause_id": "doc:130413:part:1:article:18:clause:1",
+                    "number": "1",
+                    "content": "1. Tổ chức thực hiện Quyết định này; định kỳ trong\n10 ngày tháng đầu mỗi quý báo cáo tình hình thực hiện, những khó khăn, vướng mắc, kiến nghị, đề xuất về BHXH Việt Nam (nếu có) qua Ban Thực hiện chính sách BHXH.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:130413:part:1:article:18:clause:2",
+                    "number": "2",
+                    "content": "2. Tham mưu Ủy ban nhân dân tỉnh, thành phố trực\nthuộc Trung ương chỉ đạo các Sở, Ngành phối hợp với cơ quan BHXH triển khai Quy trình này đáp ứng mục tiêu, nhiệm vụ tại Quyết định số 06/QĐ-TTg .",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:130413:part:1:article:19",
+                "number": "16",
+                "title": "Trách nhiệm của các đơn vị trực thuộc BHXH Việt Nam",
+                "content": "Điều 16. Trách nhiệm của các đơn vị trực thuộc BHXH Việt Nam",
+                "clauses": [
+                  {
+                    "clause_id": "doc:130413:part:1:article:19:clause:1",
+                    "number": "1",
+                    "content": "1. Ban Thực hiện chính sách BHXH",
+                    "points": [
+                      {
+                        "point_id": "doc:130413:part:1:article:19:clause:1:point:1",
+                        "label": "a",
+                        "content": "a) Chủ trì, phối hợp với các đơn vị liên quan chỉ đạo,\nhướng dẫn, kiểm tra thực hiện Quyết định này.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:130413:part:1:article:19:clause:1:point:2",
+                        "label": "b",
+                        "content": "b) Tổng hợp các khó khăn, vướng mắc trong quá trình\ntriển khai thực hiện quy trình này.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:130413:part:1:article:19:clause:2",
+                    "number": "2",
+                    "content": "2. Vụ Tài chính - Kế toán\nChủ trì phối hợp với các đơn vị liên quan chịu trách nhiệm tổ chức, quản lý, thống nhất hướng dẫn việc chi trả chế độ tử tuất theo quy trình ban hành tại Quyết định này.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:130413:part:1:article:19:clause:3",
+                    "number": "3",
+                    "content": "3. Văn phòng BHXH Việt Nam",
+                    "points": [
+                      {
+                        "point_id": "doc:130413:part:1:article:19:clause:3:point:1",
+                        "label": "a",
+                        "content": "a) Chủ trì hướng dẫn BHXH các tỉnh, thành phố trực\nthuộc Trung ương thực hiện tiếp nhận hồ sơ và trả kết quả thủ tục hành chính chuyển đến từ Cổng Dịch vụ công quốc gia qua phần mềm Dịch vụ công liên thông.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:130413:part:1:article:19:clause:3:point:2",
+                        "label": "b",
+                        "content": "b) Tổng hợp, đánh giá số lượng, báo cáo tình hình kết\nquả thực hiện thủ tục hành chính theo Quyết định này với cơ quan có thẩm quyền.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:130413:part:1:article:19:clause:4",
+                    "number": "4",
+                    "content": "4. Trung tâm Công nghệ thông tin",
+                    "points": [
+                      {
+                        "point_id": "doc:130413:part:1:article:19:clause:4:point:1",
+                        "label": "a",
+                        "content": "a) Xây dựng, điều chỉnh hệ thống các phần mềm nghiệp\nvụ, biểu mẫu đáp ứng việc thực hiện quy định ban hành kèm theo Quyết định này; giám sát việc triển khai trên các phần mềm, hướng dẫn, triển khai và kịp thời giải quyết vướng mắc trong quá trình sử dụng các phần mềm nghiệp vụ.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:130413:part:1:article:19:clause:4:point:2",
+                        "label": "b",
+                        "content": "b) Xây dựng chức năng lưu trữ kết quả giải quyết thủ\ntục hành chính được ký số tại Hệ thống thông tin giải quyết thủ tục hành chính của BHXH Việt Nam theo quy định, đảm bảo việc thực hiện thủ tục hành chính trên môi trường điện tử, đáp ứng yêu cầu tra cứu và cung cấp thông tin cho cá nhân, tổ chức theo quy định.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:130413:part:1:article:19:clause:4:point:3",
+                        "label": "c",
+                        "content": "c) Xây dựng chức năng tổng hợp tình hình giải quyết\nhưởng trợ cấp mai táng theo danh sách ban hành kèm theo Quyết định này trên Hệ thống quản lý chính sách.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:130413:part:1:article:19:clause:4:point:4",
+                        "label": "d",
+                        "content": "d) Xây dựng chức năng tổng hợp kết quả hồ sơ giao dịch\ntheo Quyết định này trên phần mềm Tiếp nhận và quản lý hồ sơ.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:130413:part:1:article:19:clause:5",
+                    "number": "5",
+                    "content": "5. Thủ trưởng các đơn vị trực thuộc BHXH Việt Nam\ntheo chức năng nhiệm vụ được giao có trách nhiệm thực hiện Quyết định này.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:130413:part:1:article:20",
+                "number": "17",
+                "title": "Điều khoản tham chiếu Các nội dung không hướng dẫn tại văn bản này thì thực hiện theo Quyết định số 838/QĐ-BHXH , Quyết định số 166/QĐ-BHXH , Quyết định số 475/QĐ-BHXH và các văn bản hướng dẫn của BHXH Việt Nam. Trong quá trình triển khai thực hiện, trường hợp các văn bản quy phạm pháp luật và các quy định được viện dẫn tại văn bản này có sự thay đổi, bổ sung hoặc được thay thế thì áp dụng theo văn bản quy phạm pháp luật mới./. Mẫu số 08A-HSB BẢO HIỂM XÃ HỘI………….. BẢO HIỂM XÃ HỘI………….. ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: …./QĐ-BHXH …., ngày... tháng... năm ... MÃ SỐ BHXH….. (1) QUYẾT ĐỊNH Về việc hưởng trợ cấp mai táng GIÁM ĐỐC BẢO HIỂM XÃ HỘI………............... Căn cứ Luật Bảo hiểm xã hội ngày….. tháng.... năm ....; Căn cứ Quyết định số... ngày... tháng ... năm ... của Tổng Giám đốc Bảo hiểm xã hội Việt Nam về việc thành lập Bảo hiểm xã hội……………….. ; Căn cứ hồ sơ giải quyết chế độ tử tuất đối với thân nhân của ông/bà ……..chết ngày... tháng... năm ... QUYẾT ĐỊNH:",
+                "content": "Điều 17. Điều khoản tham chiếu Các nội dung không hướng dẫn tại văn bản này thì thực hiện theo Quyết định số 838/QĐ-BHXH , Quyết định số 166/QĐ-BHXH , Quyết định số 475/QĐ-BHXH và các văn bản hướng dẫn của BHXH Việt Nam. Trong quá trình triển khai thực hiện, trường hợp các văn bản quy phạm pháp luật và các quy định được viện dẫn tại văn bản này có sự thay đổi, bổ sung hoặc được thay thế thì áp dụng theo văn bản quy phạm pháp luật mới./. Mẫu số 08A-HSB BẢO HIỂM XÃ HỘI………….. BẢO HIỂM XÃ HỘI………….. ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: …./QĐ-BHXH …., ngày... tháng... năm ... MÃ SỐ BHXH….. (1) QUYẾT ĐỊNH Về việc hưởng trợ cấp mai táng GIÁM ĐỐC BẢO HIỂM XÃ HỘI………............... Căn cứ Luật Bảo hiểm xã hội ngày….. tháng.... năm ....; Căn cứ Quyết định số... ngày... tháng ... năm ... của Tổng Giám đốc Bảo hiểm xã hội Việt Nam về việc thành lập Bảo hiểm xã hội……………….. ; Căn cứ hồ sơ giải quyết chế độ tử tuất đối với thân nhân của ông/bà ……..chết ngày... tháng... năm ... QUYẾT ĐỊNH:",
+                "clauses": [],
+                "points": []
+              },
+              {
+                "article_id": "doc:130413:part:1:article:21",
+                "number": "1",
+                "title": "Giải quyết trợ cấp mai táng đối với thân nhân ông/bà ………………….. - Tổng số thời gian đóng BHXH: ... năm ... tháng, trong đó có ... năm ... tháng đóng BHXH bắt buộc. - Mức trợ cấp mai táng:………………………………………………………….. đồng - Trợ cấp chết do TNLĐ, BNN (nếu có):..........(2) ………………… đồng - Trợ cấp khu vực một lần (nếu có): ………. (3) …………………. đồng Tổng số tiền trợ cấp: ……………………………….. (4)…………….. đồng (Số tiền bằng chữ ……………………………………………….. đồng) - Người đứng tên nhận trợ cấp: ……….., là (5) ……..của ông/bà có tên trên; số CMND/CCCD/Hộ chiếu:……… ;mã số BHXH……………………………. ; - Số điện thoại liên hệ: ………………………………………………………….. - Nơi cư trú:……………… (6) …………………………………………………… - Hình thức nhận trợ cấp: (7) ……………………………………………………..",
+                "content": "Điều 1. Giải quyết trợ cấp mai táng đối với thân nhân ông/bà ………………….. - Tổng số thời gian đóng BHXH: ... năm ... tháng, trong đó có ... năm ... tháng đóng BHXH bắt buộc. - Mức trợ cấp mai táng:………………………………………………………….. đồng - Trợ cấp chết do TNLĐ, BNN (nếu có):..........(2) ………………… đồng - Trợ cấp khu vực một lần (nếu có): ………. (3) …………………. đồng Tổng số tiền trợ cấp: ……………………………….. (4)…………….. đồng (Số tiền bằng chữ ……………………………………………….. đồng) - Người đứng tên nhận trợ cấp: ……….., là (5) ……..của ông/bà có tên trên; số CMND/CCCD/Hộ chiếu:……… ;mã số BHXH……………………………. ; - Số điện thoại liên hệ: ………………………………………………………….. - Nơi cư trú:……………… (6) …………………………………………………… - Hình thức nhận trợ cấp: (7) ……………………………………………………..",
+                "clauses": [],
+                "points": []
+              },
+              {
+                "article_id": "doc:130413:part:1:article:22",
+                "number": "2",
+                "title": "Các ông, bà Trưởng phòng Chế độ BHXH, Kế hoạch - Tài chính, Giám đốc BHXH…………… (8) và người đứng tên nhận trợ cấp nêu tại Điều 1 chịu trách nhiệm thi hành Quyết định này./.",
+                "content": "Điều 2. Các ông, bà Trưởng phòng Chế độ BHXH, Kế hoạch - Tài chính, Giám đốc BHXH…………… (8) và người đứng tên nhận trợ cấp nêu tại Điều 1 chịu trách nhiệm thi hành Quyết định này./.",
+                "clauses": [],
+                "points": []
+              },
+              {
+                "article_id": "doc:130413:part:1:article:23",
+                "number": "1",
+                "title": "Thôi trả (2)……………….. kể từ tháng ...năm ... đối với ông/bà …………………….",
+                "content": "Điều 1. Thôi trả (2)……………….. kể từ tháng ...năm ... đối với ông/bà …………………….",
+                "clauses": [],
+                "points": []
+              },
+              {
+                "article_id": "doc:130413:part:1:article:24",
+                "number": "2",
+                "title": "Giải quyết trợ cấp mai táng đối với thân nhân của ông/bà có tên nêu tại Điều 1. - Mức trợ cấp mai táng:…………….…………….…………….…………….……………. đồng (Số tiền bằng chữ…………….…………….…………….…………….…………….……………. đồng) - (3) Người đứng nhận trợ cấp:…………….……………. ; là .... của ông/bà có tên trên; số CMND/CCCD/Hộ chiếu:……………. ; mã số BHXH……………. ; - Số điện thoại liên hệ: …………….…………….…………….……………. - Nơi cư trú (4): …………….…………….…………….……………. - Hình thức nhận trợ cấp (5): …………….…………….…………….…………….…………….",
+                "content": "Điều 2. Giải quyết trợ cấp mai táng đối với thân nhân của ông/bà có tên nêu tại Điều 1. - Mức trợ cấp mai táng:…………….…………….…………….…………….……………. đồng (Số tiền bằng chữ…………….…………….…………….…………….…………….……………. đồng) - (3) Người đứng nhận trợ cấp:…………….……………. ; là .... của ông/bà có tên trên; số CMND/CCCD/Hộ chiếu:……………. ; mã số BHXH……………. ; - Số điện thoại liên hệ: …………….…………….…………….……………. - Nơi cư trú (4): …………….…………….…………….……………. - Hình thức nhận trợ cấp (5): …………….…………….…………….…………….…………….",
+                "clauses": [],
+                "points": []
+              },
+              {
+                "article_id": "doc:130413:part:1:article:25",
+                "number": "3",
+                "title": "Các ông, bà Trưởng phòng Chế độ BHXH, Kế hoạch - Tài chính, Giám đốc BHXH…… (6) và người đứng tên nhận trợ cấp nêu tại Điều 2 chịu trách nhiệm thi hành Quyết định này./.",
+                "content": "Điều 3. Các ông, bà Trưởng phòng Chế độ BHXH, Kế hoạch - Tài chính, Giám đốc BHXH…… (6) và người đứng tên nhận trợ cấp nêu tại Điều 2 chịu trách nhiệm thi hành Quyết định này./.",
+                "clauses": [],
+                "points": []
+              },
+              {
+                "article_id": "doc:130413:part:1:article:26",
+                "number": "1",
+                "title": "Giải quyết trợ cấp tuất hàng tháng đối với thân nhân của ông/bà ……………. có thời gian đóng BHXH là ... năm ... tháng, trong đó có ... năm ... tháng đóng BHXH bắt buộc. - Họ và tên người được hưởng trợ cấp:…………….…………….……………. Nam/Nữ - Sinh ngày ... tháng ... năm ...; mã số BHXH(2) …………….…………….……………. - Mối quan hệ với người chết: …………….…………….……………. - Mức trợ cấp hàng tháng:…… x………… đồng = …………….đồng - Phí khám giám định y khoa (nếu có):…………….…………….……………. đồng - Trợ cấp khu vực một lần (nếu có) (3):…………….…………….……………. đồng - Thời điểm hưởng trợ cấp kể từ tháng……………. năm ……………….. - Họ và tên người đứng nhận trợ cấp(4):…………….……………. , mối quan hệ với người hưởng trợ cấp ……………. - Số điện thoại liên hệ: …………….…………….…………….…………….……………. - Nơi cư trú:……………. (5) …………….…………….…………….…………….……………. - Hình thức nhận trợ cấp:……………. (6) …………….…………….…………….…………….………",
+                "content": "Điều 1. Giải quyết trợ cấp tuất hàng tháng đối với thân nhân của ông/bà ……………. có thời gian đóng BHXH là ... năm ... tháng, trong đó có ... năm ... tháng đóng BHXH bắt buộc. - Họ và tên người được hưởng trợ cấp:…………….…………….……………. Nam/Nữ - Sinh ngày ... tháng ... năm ...; mã số BHXH(2) …………….…………….……………. - Mối quan hệ với người chết: …………….…………….……………. - Mức trợ cấp hàng tháng:…… x………… đồng = …………….đồng - Phí khám giám định y khoa (nếu có):…………….…………….……………. đồng - Trợ cấp khu vực một lần (nếu có) (3):…………….…………….……………. đồng - Thời điểm hưởng trợ cấp kể từ tháng……………. năm ……………….. - Họ và tên người đứng nhận trợ cấp(4):…………….……………. , mối quan hệ với người hưởng trợ cấp ……………. - Số điện thoại liên hệ: …………….…………….…………….…………….……………. - Nơi cư trú:……………. (5) …………….…………….…………….…………….……………. - Hình thức nhận trợ cấp:……………. (6) …………….…………….…………….…………….………",
+                "clauses": [],
+                "points": []
+              },
+              {
+                "article_id": "doc:130413:part:1:article:27",
+                "number": "2",
+                "title": "Các ông, bà Trưởng phòng Chế độ BHXH, Giám đốc BHXH ………(7) và thân nhân có tên tại Điều 1 chịu trách nhiệm thi hành Quyết định này./.",
+                "content": "Điều 2. Các ông, bà Trưởng phòng Chế độ BHXH, Giám đốc BHXH ………(7) và thân nhân có tên tại Điều 1 chịu trách nhiệm thi hành Quyết định này./.",
+                "clauses": [],
+                "points": []
+              },
+              {
+                "article_id": "doc:130413:part:1:article:28",
+                "number": "1",
+                "title": "Giải quyết chế độ tử tuất đối với thân nhân của ông/bà………….. có có thời gian đóng BHXH là ... năm ... tháng, trong đó có ... năm ... tháng đóng BHXH bắt buộc. Chế độ tử tuất gồm:",
+                "content": "Điều 1. Giải quyết chế độ tử tuất đối với thân nhân của ông/bà………….. có có thời gian đóng BHXH là ... năm ... tháng, trong đó có ... năm ... tháng đóng BHXH bắt buộc. Chế độ tử tuất gồm:",
+                "clauses": [
+                  {
+                    "clause_id": "doc:130413:part:1:article:28:clause:1",
+                    "number": "1",
+                    "content": "1. Trợ cấp tuất một lần:\na. Mức hưởng đối với thời gian đã đóng BHXH trước năm 2014 = BQTLTN x số năm x 1,5 = …………..………….. đồng b. Mức hưởng đối với thời gian đã đóng BHXH từ năm 2014 trở đi: BQTLTN x số năm x 2 = …………..…………..………….. đồng Tổng số tiền trợ cấp (a + b):…………..…………..…………..………….. đồng (Số tiền bằng chữ:…………..…………..…………..…………..…………..………….. đồng)",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:130413:part:1:article:28:clause:2",
+                    "number": "2",
+                    "content": "2. Trợ cấp mai táng\n(3):…………..…………..…………..…………..………….. đồng",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:130413:part:1:article:28:clause:3",
+                    "number": "3",
+                    "content": "3. Trợ cấp chết do TNLĐ, BNN (nếu có):…………..…………..…………..\nđồng",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:130413:part:1:article:28:clause:4",
+                    "number": "4",
+                    "content": "4. Trợ cấp khu vực một lần (nếu\ncó):…………..…………..…………..………….. đồng Tổng số tiền trợ cấp (1 +2 + 3 + 4): …………..…………..…………..…………..đồng (Số tiền bằng chữ:…………..…………..…………..…………..…………..………….. đồng) Họ và tên người đứng tên nhận trợ cấp (2):…………..………….. ; quan hệ với người chết………….. ; mã số BHXH …………..………….. Số điện thoại liên hệ: …………..…………..…………..………….. Nơi cư trú: (4) …………..…………..…………..………….. Hình thức nhận trợ cấp:…………..………….. (5) …………..…………..",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:130413:part:1:article:29",
+                "number": "2",
+                "title": "Các ông, bà Trưởng phòng Chế độ BHXH, Kế hoạch - Tài chính, Giám đốc BHXH………….. (6) và người đứng tên nhận trợ cấp nêu tại Điều 1 chịu trách nhiệm thi hành Quyết định này./.",
+                "content": "Điều 2. Các ông, bà Trưởng phòng Chế độ BHXH, Kế hoạch - Tài chính, Giám đốc BHXH………….. (6) và người đứng tên nhận trợ cấp nêu tại Điều 1 chịu trách nhiệm thi hành Quyết định này./.",
+                "clauses": [],
+                "points": []
+              },
+              {
+                "article_id": "doc:130413:part:1:article:30",
+                "number": "1",
+                "title": "Thôi trả(2)……………………….. kể từ tháng….. năm……. đối với ông/bà…………………. Tổng số tháng đã hưởng:…………… tháng. Mức lương hưu/trợ cấp BHXH hàng tháng:……………………………………………………đồng",
+                "content": "Điều 1. Thôi trả(2)……………………….. kể từ tháng….. năm……. đối với ông/bà…………………. Tổng số tháng đã hưởng:…………… tháng. Mức lương hưu/trợ cấp BHXH hàng tháng:……………………………………………………đồng",
+                "clauses": [],
+                "points": []
+              },
+              {
+                "article_id": "doc:130413:part:1:article:31",
+                "number": "2",
+                "title": "Giải quyết chế độ tử tuất đối với thân nhân của ông/bà có tên nêu tại Điều 1, chế độ gồm: - Trợ cấp mai táng: (3)………………………………………………………………… đồng - Trợ cấp tuất một lần: ……………x ... tháng= ……………………………………… đồng Tổng số tiền trợ cấp:………………………………………………………………… đồng (Số tiền bằng chữ:……………………………………………………………………………… đồng) (4)Họ và tên người đứng nhận trợ cấp:………………………… ; quan hệ với người chết …………… ; mã số BHXH ………………………… Số điện thoại liên hệ: …………………………………………………… Nơi cư trú (5): …………………………………………………… Hình thức nhận trợ cấp (6 ): ………………………………………",
+                "content": "Điều 2. Giải quyết chế độ tử tuất đối với thân nhân của ông/bà có tên nêu tại Điều 1, chế độ gồm: - Trợ cấp mai táng: (3)………………………………………………………………… đồng - Trợ cấp tuất một lần: ……………x ... tháng= ……………………………………… đồng Tổng số tiền trợ cấp:………………………………………………………………… đồng (Số tiền bằng chữ:……………………………………………………………………………… đồng) (4)Họ và tên người đứng nhận trợ cấp:………………………… ; quan hệ với người chết …………… ; mã số BHXH ………………………… Số điện thoại liên hệ: …………………………………………………… Nơi cư trú (5): …………………………………………………… Hình thức nhận trợ cấp (6 ): ………………………………………",
+                "clauses": [],
+                "points": []
+              },
+              {
+                "article_id": "doc:130413:part:1:article:32",
+                "number": "3",
+                "title": "Các ông, bà Trưởng phòng Chế độ BHXH, Kế hoạch - Tài chính, Giám đốc BHXH…………… (7) và thân nhân có tên tại Điều 2 chịu trách nhiệm thi hành Quyết định này./.",
+                "content": "Điều 3. Các ông, bà Trưởng phòng Chế độ BHXH, Kế hoạch - Tài chính, Giám đốc BHXH…………… (7) và thân nhân có tên tại Điều 2 chịu trách nhiệm thi hành Quyết định này./.",
+                "clauses": [],
+                "points": []
+              },
+              {
+                "article_id": "doc:130413:part:1:article:33",
+                "number": "1",
+                "title": "Thôi hưởng trợ cấp tuất hằng tháng kể từ ngày ... tháng ... năm ... đối với: Ông/Bà:……………………………………. sinh ngày .... tháng ... năm ... (4) Ông/Bà:……………………………………. sinh ngày .... tháng ... năm ... (theo thông tin tham gia BHYT và dữ liệu Hộ gia đình) Mã số BHXH: ……………………………… - Cư trú tại: …………………………………………………………………………………… - Là thân nhân của Ông/Bà ……………………………………………………………………… - Lý do thôi hưởng: Bị chết ngày………. tháng…………. năm ……………………………… - Nơi thôi hưởng trợ cấp: …………………………………………………………………………",
+                "content": "Điều 1. Thôi hưởng trợ cấp tuất hằng tháng kể từ ngày ... tháng ... năm ... đối với: Ông/Bà:……………………………………. sinh ngày .... tháng ... năm ... (4) Ông/Bà:……………………………………. sinh ngày .... tháng ... năm ... (theo thông tin tham gia BHYT và dữ liệu Hộ gia đình) Mã số BHXH: ……………………………… - Cư trú tại: …………………………………………………………………………………… - Là thân nhân của Ông/Bà ……………………………………………………………………… - Lý do thôi hưởng: Bị chết ngày………. tháng…………. năm ……………………………… - Nơi thôi hưởng trợ cấp: …………………………………………………………………………",
+                "clauses": [],
+                "points": []
+              },
+              {
+                "article_id": "doc:130413:part:1:article:34",
+                "number": "2",
+                "title": "Các Ông, Bà Trưởng phòng Chế độ BHXH, KHTC, Giám đốc BHXH …………………… và thân nhân Ông/Bà có tên tại Điều 1 chịu trách nhiệm thi hành Quyết định này./.",
+                "content": "Điều 2. Các Ông, Bà Trưởng phòng Chế độ BHXH, KHTC, Giám đốc BHXH …………………… và thân nhân Ông/Bà có tên tại Điều 1 chịu trách nhiệm thi hành Quyết định này./.",
+                "clauses": [],
+                "points": []
+              }
+            ]
+          }
+        ],
+        "sections": [],
+        "articles": [
+          {
+            "article_id": "doc:130413:part:1:article:1",
+            "number": "1",
+            "title": "Ban hành kèm theo Quyết định này Quy trình liên thông điện tử giải quyết nhóm thủ tục hành chính: “Đăng ký khai tử - Xóa đăng ký thường trú -Trợ cấp mai táng phí” trên Cổng Dịch vụ công quốc gia theo Quyết định số 06/QĐ-TTg ngày 06/01/2022 của Thủ tướng Chính phủ thuộc trách nhiệm thực hiện của cơ quan Bảo hiểm xã hội.",
+            "content": "Điều 1. Ban hành kèm theo Quyết định này Quy trình liên thông điện tử giải quyết nhóm thủ tục hành chính: “Đăng ký khai tử - Xóa đăng ký thường trú -Trợ cấp mai táng phí” trên Cổng Dịch vụ công quốc gia theo Quyết định số 06/QĐ-TTg ngày 06/01/2022 của Thủ tướng Chính phủ thuộc trách nhiệm thực hiện của cơ quan Bảo hiểm xã hội.",
+            "clauses": [],
+            "points": []
+          },
+          {
+            "article_id": "doc:130413:part:1:article:2",
+            "number": "2",
+            "title": "Quyết định này có hiệu lực thi hành kể từ ngày 15/6/2023.",
+            "content": "Điều 2. Quyết định này có hiệu lực thi hành kể từ ngày 15/6/2023.",
+            "clauses": [],
+            "points": []
+          },
+          {
+            "article_id": "doc:130413:part:1:article:3",
+            "number": "3",
+            "title": "Thủ trưởng các đơn vị trực thuộc Bảo hiểm xã hội Việt Nam; Giám đốc Bảo hiểm xã hội các tỉnh, thành phố trực thuộc Trung ương, Giám đốc Bảo hiểm xã hội quận, huyện, thị xã, thành phố trực thuộc tỉnh; các cơ quan, đơn vị, tổ chức, cá nhân có liên quan căn cứ Quyết định này để thi hành./.",
+            "content": "Điều 3. Thủ trưởng các đơn vị trực thuộc Bảo hiểm xã hội Việt Nam; Giám đốc Bảo hiểm xã hội các tỉnh, thành phố trực thuộc Trung ương, Giám đốc Bảo hiểm xã hội quận, huyện, thị xã, thành phố trực thuộc tỉnh; các cơ quan, đơn vị, tổ chức, cá nhân có liên quan căn cứ Quyết định này để thi hành./.",
+            "clauses": [],
+            "points": []
+          }
+        ],
+        "unstructured_blocks": []
+      }
+    ]
+  },
+  "issues": [],
+  "status": "ok",
+  "source_hash": "context_130413.json",
+  "stats": {
+    "source_chars": 54966,
+    "passage_chars": 54805,
+    "parts": 1,
+    "chapters": 5,
+    "sections": 0,
+    "articles": 34,
+    "clauses": 38,
+    "points": 27
+  }
+}

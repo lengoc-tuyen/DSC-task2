@@ -7,3 +7,5 @@ __pycache__/
 selected-contexts/
 tests/
 outputs/cleaned/nodes.jsonl
+artifacts/
+outputs/rag/

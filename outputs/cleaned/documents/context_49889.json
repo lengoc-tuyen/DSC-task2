@@ -1,0 +1,993 @@
+{
+  "schema_version": "2.0",
+  "document_id": 49889,
+  "metadata": {
+    "name": "Thong-tu-lien-tich-20-2013-TTLT-BYT-BCT-BNNPTNT-trinh-tu-thu-tuc-kiem-nghiem-thuc-pham-204270",
+    "link": "https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Thong-tu-lien-tich-20-2013-TTLT-BYT-BCT-BNNPTNT-trinh-tu-thu-tuc-kiem-nghiem-thuc-pham-204270.aspx",
+    "issuing_agency": "BỘ Y TẾ - BỘ CÔNG THƯƠNG - BỘ NÔNG NGHIỆP VÀ PHÁT TRIỂN NÔNG THÔN",
+    "national_header": "CỘNG\r\n\n  HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM",
+    "motto": "Độc lập - Tự do - Hạnh phúc",
+    "document_number": "20/2013/TTLT-BYT-BCT-BNNPTNT",
+    "issued_place": "Hà Nội",
+    "issued_date": "ngày 01\r\n\n  tháng 08 năm 2013",
+    "document_type": "THÔNG TƯ",
+    "title": "LIÊN TỊCH QUY ĐỊNH ĐIỀU KIỆN, TRÌNH TỰ THỦ TỤC CHỈ ĐỊNH CƠ SỞ KIỂM NGHIỆM THỰC PHẨM PHỤC VỤ QUẢN LÝ NHÀ NƯỚC"
+  },
+  "administrative_header": {
+    "removed": true,
+    "removed_char_count": 218
+  },
+  "preamble": {
+    "text": "THÔNG TƯ LIÊN TỊCH QUY\nĐỊNH ĐIỀU KIỆN, TRÌNH TỰ THỦ TỤC CHỈ ĐỊNH CƠ SỞ KIỂM NGHIỆM THỰC PHẨM PHỤC VỤ\nQUẢN LÝ NHÀ NƯỚC\nCăn cứ Luật an toàn thực phẩm ngày 17 tháng 6 năm 2010 và Nghị định số 38/2012/NĐ-CP ngày 25 tháng 4 năm 2012 của Chính phủ về việc quy định chi tiết thi hành một số điều của Luật an toàn thực phẩm; Căn cứ Luật chất lượng, sản phẩm hàng hóa ngày 21 tháng 11 năm 2007 và Nghị định số 132/2008/NĐ-CP ngày 31 tháng 12 năm 2008 của Chính phủ quy định chi tiết thi hành một số điều của Luật chất lượng, sản phẩm hàng hóa; Căn cứ Luật tiêu chuẩn và quy chuẩn kỹ thuật ngày 29 tháng 6 năm 2006 và Nghị định số 127/2007/NĐ-CP ngày 01 tháng 8 năm 2007 của Chính phủ quy định chi tiết thi hành một số điều của Luật tiêu chuẩn và quy chuẩn kỹ thuật; Căn cứ Nghị định số 63/2012/NĐ-CP ngày 31 tháng 8 năm 2012 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Y tế; Căn cứ Nghị định số 95/2012/NĐ-CP ngày 12 tháng 11 năm 2012 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Công Thương; Căn cứ Nghị định số 01/2008/NĐ-CP ngày 03 tháng 01 năm 2008 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Nông nghiệp và Phát triển nông thôn và Nghị định số 75/2009/NĐ-CP sửa đổi Điều 3 Nghị định số 01/2008/NĐ-CP ngày 03 tháng 01 năm 2008 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Nông nghiệp và Phát triển nông thôn; Theo đề nghị của Cục trưởng Cục An toàn thực phẩm - Bộ Y tế, Vụ trưởng Vụ Khoa học và Công nghệ - Bộ Công Thương, Cục trưởng Cục Quản lý chất lượng Nông lâm sản và Thủy sản - Bộ Nông nghiệp và Phát triển nông thôn, Bộ trưởng Bộ Y tế - Bộ trưởng Bộ Công Thương - Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn ban hành Thông tư liên tịch quy định điều kiện, trình tự thủ tục chỉ định cơ sở kiểm nghiệm thực phẩm phục vụ quản lý nhà nước, Chương 1.\nQUY ĐỊNH CHUNG",
+    "legal_bases": [
+      "Căn cứ Luật chất lượng, sản phẩm hàng hóa ngày 21 tháng 11 năm 2007 và Nghị định số 132/2008/NĐ-CP ngày 31 tháng 12 năm 2008 của Chính phủ quy định chi tiết thi hành một số điều của Luật chất lượng, sản phẩm hàng hóa",
+      "Căn cứ Luật tiêu chuẩn và quy chuẩn kỹ thuật ngày 29 tháng 6 năm 2006 và Nghị định số 127/2007/NĐ-CP ngày 01 tháng 8 năm 2007 của Chính phủ quy định chi tiết thi hành một số điều của Luật tiêu chuẩn và quy chuẩn kỹ thuật",
+      "Căn cứ Nghị định số 63/2012/NĐ-CP ngày 31 tháng 8 năm 2012 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Y tế",
+      "Căn cứ Nghị định số 95/2012/NĐ-CP ngày 12 tháng 11 năm 2012 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Công Thương",
+      "Căn cứ Nghị định số 01/2008/NĐ-CP ngày 03 tháng 01 năm 2008 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Nông nghiệp và Phát triển nông thôn và Nghị định số 75/2009/NĐ-CP sửa đổi Điều 3 Nghị định số 01/2008/NĐ-CP ngày 03 tháng 01 năm 2008 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Nông nghiệp và Phát triển nông thôn"
+    ],
+    "proposals": [
+      "Theo đề nghị của Cục trưởng Cục An toàn thực phẩm - Bộ Y tế, Vụ trưởng Vụ Khoa học và Công nghệ - Bộ Công Thương, Cục trưởng Cục Quản lý chất lượng Nông lâm sản và Thủy sản - Bộ Nông nghiệp và Phát triển nông thôn, Bộ trưởng Bộ Y tế - Bộ trưởng Bộ Công Thương - Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn ban hành Thông tư liên tịch quy định điều kiện, trình tự thủ tục chỉ định cơ sở kiểm nghiệm thực phẩm phục vụ quản lý nhà nước, Chương 1.\nQUY ĐỊNH CHUNG"
+    ],
+    "enactment_formula": null
+  },
+  "passage": "THÔNG TƯ LIÊN TỊCH QUY\nĐỊNH ĐIỀU KIỆN, TRÌNH TỰ THỦ TỤC CHỈ ĐỊNH CƠ SỞ KIỂM NGHIỆM THỰC PHẨM PHỤC VỤ\nQUẢN LÝ NHÀ NƯỚC\nCăn cứ Luật an toàn thực phẩm ngày 17 tháng 6 năm 2010 và Nghị định số 38/2012/NĐ-CP ngày 25 tháng 4 năm 2012 của Chính phủ về việc quy định chi tiết thi hành một số điều của Luật an toàn thực phẩm; Căn cứ Luật chất lượng, sản phẩm hàng hóa ngày 21 tháng 11 năm 2007 và Nghị định số 132/2008/NĐ-CP ngày 31 tháng 12 năm 2008 của Chính phủ quy định chi tiết thi hành một số điều của Luật chất lượng, sản phẩm hàng hóa; Căn cứ Luật tiêu chuẩn và quy chuẩn kỹ thuật ngày 29 tháng 6 năm 2006 và Nghị định số 127/2007/NĐ-CP ngày 01 tháng 8 năm 2007 của Chính phủ quy định chi tiết thi hành một số điều của Luật tiêu chuẩn và quy chuẩn kỹ thuật; Căn cứ Nghị định số 63/2012/NĐ-CP ngày 31 tháng 8 năm 2012 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Y tế; Căn cứ Nghị định số 95/2012/NĐ-CP ngày 12 tháng 11 năm 2012 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Công Thương; Căn cứ Nghị định số 01/2008/NĐ-CP ngày 03 tháng 01 năm 2008 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Nông nghiệp và Phát triển nông thôn và Nghị định số 75/2009/NĐ-CP sửa đổi Điều 3 Nghị định số 01/2008/NĐ-CP ngày 03 tháng 01 năm 2008 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Nông nghiệp và Phát triển nông thôn; Theo đề nghị của Cục trưởng Cục An toàn thực phẩm - Bộ Y tế, Vụ trưởng Vụ Khoa học và Công nghệ - Bộ Công Thương, Cục trưởng Cục Quản lý chất lượng Nông lâm sản và Thủy sản - Bộ Nông nghiệp và Phát triển nông thôn, Bộ trưởng Bộ Y tế - Bộ trưởng Bộ Công Thương - Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn ban hành Thông tư liên tịch quy định điều kiện, trình tự thủ tục chỉ định cơ sở kiểm nghiệm thực phẩm phục vụ quản lý nhà nước, Chương 1.\nQUY ĐỊNH CHUNG\nĐiều 1. Phạm vi điều chỉnh và đối tượng áp dụng\n1. Phạm vi điều chỉnh: Thông tư liên\ntịch này quy định các điều kiện, trình tự, thủ tục chỉ định cơ sở kiểm nghiệm thực phẩm phục vụ quản lý nhà nước (sau đây gọi tắt là cơ sở kiểm nghiệm).\n2. Đối tượng áp dụng: Thông tư liên tịch\nnày áp dụng đối với các cơ sở kiểm nghiệm, các cơ quan quản lý liên quan đến hoạt động đánh giá, chỉ định và quản lý các cơ sở kiểm nghiệm.\nĐiều 2. Giải thích từ ngữ Trong Thông tư liên tịch này các từ ngữ dưới đây được hiểu như sau:\n1. Cơ sở kiểm nghiệm là tổ chức có tư cách pháp nhân thực hiện kiểm nghiệm các chỉ tiêu về\nchất lượng, an toàn thực phẩm.\n2. Hệ thống quản lý chất lượng bao gồm hệ thống tài liệu quản lý và kĩ thuật nhằm đảm bảo chất lượng,\nchính xác, minh bạch kết quả kiểm nghiệm, toàn bộ hồ sơ liên quan đến hoạt động kiểm nghiệm và đảm bảo chất lượng kết quả kiểm nghiệm thực hiện tại cơ sở với phạm vi đăng ký như: nhân sự, trang thiết bị, cơ sở vật chất, phương pháp kiểm nghiệm.\n3. So sánh liên phòng là việc đánh giá chất lượng kết quả kiểm nghiệm giữa hai hay nhiều cơ\nsở kiểm nghiệm do đơn vị độc lập tổ chức bằng cách so sánh kết quả kiểm nghiệm trên các mẫu đồng nhất với giá trị chung của tập hợp các kết quả có được từ các cơ sở kiểm nghiệm tham gia thử nghiệm thành thạo.\n4. Thử nghiệm thành thạo là việc thực hiện các phép thử trên cùng một mẫu bởi hai hay nhiều cơ\nsở kiểm nghiệm theo các điều kiện định trước nhằm đánh giá khả năng thực hiện phép thử đó của cơ sở kiểm nghiệm.\n5. Đánh giá cơ sở kiểm nghiệm là hoạt động xem xét sự phù hợp của hệ thống quản lý chất lượng và\nnăng lực phân tích đáp ứng yêu cầu kiểm nghiệm đối với các chỉ tiêu cụ thể về chất lượng, an toàn thực phẩm.\n6. Lĩnh vực đăng ký chỉ định: Bao gồm các chỉ tiêu/phép thử áp dụng đối với các nhóm thực phẩm hoặc\nsản phẩm thực phẩm theo phạm vi được phân công quản lý của Bộ quản lý ngành.\nĐiều 3. Nguyên tắc chung Liên Bộ giao: Cục An toàn thực phẩm - Bộ Y tế; Vụ Khoa học và Công nghệ - Bộ Công Thương; Cục Quản lý chất lượng Nông lâm sản và Thủy sản - Bộ Nông nghiệp và Phát triển nông thôn là đơn vị giúp Bộ trưởng Bộ Y tế, Bộ trưởng Bộ Công Thương và Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn quản lý nhà nước về kiểm nghiệm thực phẩm (sau đây gọi tắt là cơ quan quản lý nhà nước có thẩm quyền) thực hiện việc tổ chức tiếp nhận hồ sơ đăng ký, đánh giá, chỉ định, kiểm tra, giám sát cơ sở kiểm nghiệm tương ứng với phạm vi quản lý nhà nước về an toàn thực phẩm được phân công.\nChương 2.\nĐIỀU KIỆN ĐỐI VỚI CƠ SỞ\nKIỂM NGHIỆM\nĐiều\n4. Yêu cầu về pháp nhân\nĐược thành lập theo quy định của pháp luật; có chức năng kiểm nghiệm thực phẩm hoặc Quyết định giao nhiệm vụ của các cơ quan có thẩm quyền.\nĐiều 5. Yêu cầu về năng lực Năng lực của cơ sở kiểm nghiệm đối với các chỉ tiêu đăng ký chỉ định phải đáp ứng các yêu cầu sau:\n1. Hệ thống quản lý chất lượng đáp ứng\nTiêu chuẩn quốc gia TCVN ISO/IEC 17025: 2007 hoặc Tiêu chuẩn quốc tế ISO/IEC 17025:2005;\n2. Có đủ trang thiết bị, cơ sở vật chất\nphù hợp với yêu cầu kiểm nghiệm và lĩnh vực đăng ký chỉ định;\n3. Có ít nhất hai (02) kiểm nghiệm\nviên là cán bộ kỹ thuật có trình độ đại học phù hợp với lĩnh vực đăng ký chỉ định được đào tạo và có kinh nghiệm thực tế về kiểm nghiệm trong cùng lĩnh vực từ ba (03) năm trở lên;\n4. Các phương pháp thử được cập nhật\nvà xác nhận giá trị sử dụng, năng lực phân tích/kiểm nghiệm các chỉ tiêu/phép thử đăng ký chỉ định đáp ứng quy định hoặc quy chuẩn kỹ thuật tương ứng và các yêu cầu khác có liên quan theo quy định của Bộ quản lý ngành;\n5. Kết quả thử nghiệm thành thạo hoặc so sánh liên phòng đạt yêu cầu đối với ít nhất một chỉ tiêu/phép thử đăng ký chỉ định.\nChương 3.\nHỒ SƠ, TRÌNH TỰ\nTHỦ TỤC ĐĂNG KÝ, CHỈ ĐỊNH CƠ SỞ THỬ NGHIỆM\nĐiều 6. Đăng ký chỉ định\n1. Cơ sở kiểm nghiệm đáp ứng các yêu cầu\nquy định tại Điều 4 và Điều 5 Thông tư liên tịch này nộp một (01) bộ hồ sơ đăng ký chỉ định (nộp trực tiếp hoặc qua đường bưu điện) cho cơ quan quản lý nhà nước có thẩm quyền theo quy định tại Điều 3 Thông tư liên tịch này.\n2. Các cơ quan quản lý nhà nước có thẩm\nquyền nêu tại Điều 3 Thông tư liên tịch này có trách nhiệm tiếp nhận hồ sơ đăng ký, tổ chức đánh giá các cơ sở kiểm nghiệm thực phẩm thuộc lĩnh vực quản lý tương ứng của từng Bộ hoặc phối hợp tổ chức đánh giá các cơ sở kiểm nghiệm thực phẩm đa lĩnh vực theo trình tự thủ tục quy định tại Thông tư liên tịch này và xem xét chỉ định phù hợp theo lĩnh vực được phân công quản lý của từng Bộ quản lý ngành.\n3. Hồ sơ đăng ký chỉ định bao gồm:\na) Đơn đăng ký chỉ định cơ sở kiểm\nnghiệm theo mẫu quy định tại Phụ lục 1 ban hành kèm theo Thông tư liên tịch này;\nb) Quyết định thành lập hoặc Giấy chứng\nnhận đăng ký kinh doanh (bản sao có chứng thực);\nc) Tài liệu, hồ sơ kỹ thuật và các\nquy trình liên quan đến chỉ tiêu/phép thử đăng ký chỉ định.\nd) Hồ sơ năng lực:\n- Danh sách, hồ sơ trang thiết bị chính, cơ sở hạ tầng (phù hợp nội dung báo cáo năng lực hoạt động cơ sở kiểm nghiệm theo mẫu quy định tại Phụ lục 2 ban hành kèm theo Thông tư liên tịch này); - Danh sách, hồ sơ kiểm nghiệm viên tương ứng với lĩnh vực đăng ký chỉ định kèm theo bản sao có chứng thực các chứng chỉ chuyên môn; - Các tài liệu chứng minh về bảo đảm chất lượng kiểm nghiệm: kế hoạch, kết quả thử nghiệm thành thạo hoặc so sánh liên phòng; Báo cáo kết quả kiểm tra thành thạo tay nghề của kiểm nghiệm viên đối với chỉ tiêu/phép thử đăng ký chỉ định; - Báo cáo năng lực cơ sở kiểm nghiệm theo mẫu quy định tại Phụ lục 2 ban hành kèm theo Thông tư liên tịch này; - Mẫu Phiếu kết quả kiểm nghiệm theo quy định tại Phụ lục 3 ban hành kèm theo Thông tư liên tịch này; - Kết quả hoạt động kiểm nghiệm đối với lĩnh vực đăng ký chỉ định trong mười hai (12) tháng gần nhất theo mẫu quy định tại Phụ lục 4 ban hành theo Thông tư liên tịch này.\nđ) Đối với cơ sở kiểm nghiệm đã được\ntổ chức công nhận hợp pháp của Việt Nam hoặc tổ chức công nhận nước ngoài là thành viên tham gia ký thỏa thuận thừa nhận lẫn nhau của Hiệp, hội Công nhận phòng thí nghiệm Quốc tế (ILAC - International Laboratory Accreditation Cooperation), Hiệp hội Công nhận phòng thí nghiệm Châu Á - Thái Bình Dương (APLAC - Asian Pacific Laboratory Accreditation Cooperation) đánh giá và cấp chứng chỉ công nhận theo Tiêu chuẩn quốc gia TCVN ISO/IEC 17025: 2007 hoặc Tiêu chuẩn quốc tế ISO/IEC 17025:2005, đăng ký chỉ định các chỉ tiêu/phép thử trong phạm vi đã được công nhận: nộp các tài liệu nêu tại Điểm a, b, c và d Khoản 3 Điều này; bản sao (có chứng thực) chứng chỉ công nhận, danh mục, phạm vi công nhận.\nĐiều 7. Hồ sơ đăng ký gia hạn chỉ định Trước khi Quyết định chỉ định hết hiệu lực chín mươi (90) ngày, cơ sở kiểm nghiệm gửi một (01) bộ hồ sơ gia hạn chỉ định cho cơ quan quản lý nhà nước có thẩm quyền. Hồ sơ bao gồm:\n1. Đơn đăng ký gia hạn chỉ định cơ sở\nkiểm nghiệm theo mẫu quy định tại Phụ lục 1 ban hành kèm theo Thông tư liên tịch này;\n2. Kết quả so sánh liên phòng, thử\nnghiệm thành thạo đối với chỉ tiêu/phép thử do cơ quan quản lý nhà nước có thẩm quyền hoặc từ các nhà cung cấp thử nghiệm thành thạo, liên quan đến phạm vi đăng ký tổ chức;\n3. Báo cáo kết quả thực hiện công tác\nkiểm nghiệm trong thời gian được chỉ định theo mẫu quy định tại Phụ lục 4 ban hành kèm theo Thông tư liên tịch này.\nĐiều 8. Hồ sơ đăng ký thay đổi, bổ sung phạm vi chỉ định Cơ sở kiểm nghiệm đã được chỉ định khi có thay đổi, bổ sung phạm vi chỉ định phải thực hiện việc đăng ký thay đổi, bổ sung gửi cơ quan quản lý nhà nước có thẩm quyền. Hồ sơ đăng ký thay đổi, bổ sung phạm vi chỉ định được thực hiện theo quy định tại Điều 6 Thông tư liên tịch này. Trường hợp cơ sở kiểm nghiệm đã được chỉ định có thay đổi tư cách pháp nhân hoặc địa chỉ cơ sở phải có văn bản nêu rõ các nội dung thay đổi.\nĐiều 9. Thủ tục chỉ định\n1. Trong thời gian mười (10)\nngày làm việc, kể từ ngày nhận hồ sơ, cơ quan quản lý nhà nước có thẩm quyền tiến hành soát xét hồ sơ. Nếu có yêu cầu sửa đổi, bổ sung phải có văn bản thông báo cho đơn vị nộp hồ sơ để hoàn chỉnh hồ sơ theo đúng quy định. Trường hợp không có yêu cầu sửa đổi, bổ sung thì cơ quan quản lý nhà nước có thẩm quyền tiến hành đánh giá theo quy định tại Điều 10 Thông tư liên tịch này.\n2. Đối với cơ sở\nkiểm nghiệm không thuộc đối tượng quy định tại Điểm đ Khoản 3 Điều 6 Thông tư liên tịch này:\na) Trong thời gian mười lăm (15) ngày làm việc, kể từ ngày nhận hồ sơ đầy đủ, hợp lệ, cơ quan quản\nlý nhà nước có thẩm quyền ký ban hành quyết định thành lập đoàn đánh giá cơ sở kiểm nghiệm.\nb) Đoàn đánh giá cơ sở kiểm nghiệm\nbao gồm các thành viên có kiến thức chuyên môn và kinh nghiệm về lĩnh vực đánh giá, chỉ định.\nc) Quyết định thành lập đoàn đánh giá\nphải nêu rõ phạm vi, nội dung đánh giá, danh sách và phân công trách nhiệm của từng thành viên tiến hành đánh giá tại cơ sở kiểm nghiệm. Trong thời gian năm (05) ngày làm việc, kể từ khi kết thúc đánh giá tại cơ sở 3 đoàn đánh giá phải gửi kết luận về cơ quan quản lý nhà nước có thẩm quyền (Mẫu Biên bản đánh giá cơ sở kiểm nghiệm quy định tại Phụ lục 5 ban hành kèm theo Thông tư liên tịch này).\nd) Trong thời gian mười lăm (15) ngày\nlàm việc, kể từ khi nhận được kết luận của đoàn đánh giá, cơ quan quản lý nhà nước có thẩm quyền có trách nhiệm xem xét và chỉ định đơn vị kiểm nghiệm nếu đạt yêu cầu (mẫu Quyết định chỉ định quy định tại Phụ lục 6 ban hành kèm theo Thông tư liên tịch này). Nếu không đạt yêu cầu, cơ quan quản lý nhà nước có thẩm quyền phải có thông báo bằng văn bản về lý do không chỉ định cho cơ sở kiểm nghiệm.\nđ) Trong trường hợp cần thiết, cơ\nquan quản lý nhà nước có thẩm quyền có thể thành lập hội đồng tư vấn trước khi ký ban hành Quyết định chỉ định.\n3. Đối với cơ sở kiểm nghiệm quy định tại Điểm đ Khoản 3 Điều 6 Thông tư liên tịch này:\na) Trong thời gian ba mươi (30) ngày\nlàm việc, kể từ ngày nhận hồ sơ đầy đủ, hợp lệ, cơ quan quản lý nhà nước có thẩm quyền thẩm định hồ sơ. Nếu hồ sơ năng lực đáp ứng theo quy định tại Điều 4, Điều 5 của Thông tư liên tịch này và các yêu cầu của Bộ quản lý ngành, cơ quan quản lý nhà nước có thẩm quyền ký ban hành Quyết định chỉ định cơ sở kiểm nghiệm kèm theo\ndanh mục các chỉ tiêu/phép thử.\nTrường hợp hồ sơ không đạt yêu cầu, cơ quan quản lý nhà nước có thẩm quyền phải có thông báo bằng văn bản về lý do không chỉ định cho cơ sở kiểm nghiệm.\nb) Trong trường hợp cần thiết (kết quả\nthẩm định hồ sơ chưa đủ cơ sở kết luận năng lực phân tích của cơ sở đáp ứng theo quy định tại Điều 5), cơ quan quản lý nhà nước có thẩm quyền sẽ thành lập đoàn đánh giá để tiến hành đánh giá tại cơ sở kiểm nghiệm.\n4. Thời hạn hiệu lực của Quyết định\nchỉ định: Quyết định chỉ định có hiệu lực ba (03) năm kể từ ngày ký ban hành.\nĐiều 10. Đánh giá cơ sở kiểm nghiệm Đoàn đánh giá do cơ quan quản lý nhà nước có thẩm quyền thành lập tiến hành đánh giá tại cơ sở kiểm nghiệm (không áp dụng đối với cơ sở kiểm nghiệm quy định tại Điểm đ Khoản 3\nĐiều 6 và Điểm a Khoản 3 Điều 9 Thông tư liên tịch này). Các bước tiến hành đánh giá như sau:\n1. Đánh giá sự tuân thủ, phù hợp\ncủa cơ sở kiểm nghiệm đối với yêu cầu quy định tại Điều 5 của Thông tư liên tịch này;\n2. Lập Báo cáo đánh giá cơ sở kiểm\nnghiệm theo mẫu quy định tại Phụ lục 7 ban hành kèm theo Thông tư liên tịch này;\n3. Kết luận của\nđoàn đánh giá theo mẫu quy định tại Phụ lục 5 ban hành kèm theo Thông tư liên tịch này. Trên cơ sở báo cáo khắc phục của cơ sở kiểm nghiệm, nếu cần thiết, cơ quan quản lý nhà nước có thẩm quyền tiến hành xem xét đánh giá tại cơ sở kiểm nghiệm.\nĐiều 11. Cấp mã số cơ sở kiểm nghiệm\n1. Cơ quan quản lý nhà nước có thẩm\nquyền có trách nhiệm cấp và quản lý mã số cho các cơ sở kiểm nghiệm được chỉ định.\n2. Mã số cơ sở kiểm nghiệm được ký hiệu\nnhư sau: (số thứ tự)/(năm cấp)/BYT-KNTP (BCT-KNTP/BNN-KNTP). Ví dụ:\n001/2011/BYT-KNTP\n3. Cách\nghi mã số cơ sở kiểm nghiệm:\na) Mã số cơ sở kiểm nghiệm được trình\nbày bằng chữ in hoa, phông chữ Times New Roman cỡ chữ 16, kiểu chữ đứng, đậm. Trong đó, số thứ tự của mã số cơ sở kiểm nghiệm gồm ba (03) chữ số.\nb) Mã số cơ sở kiểm nghiệm được in ở\ngóc trên bên trái phiếu kết quả kiểm nghiệm. Trên phiếu kết quả kiểm nghiệm cần ghi rõ các chỉ tiêu đã được chỉ định của cơ sở kiểm nghiệm.\nĐiều 12. Cơ sở kiểm nghiệm kiểm chứng Căn cứ vào nhu cầu quản lý, các tiêu chí quy định tại Điều 4, Điều 5 của Thông tư liên tịch này và các quy định khác có liên quan theo quy định của Bộ quản lý ngành, Bộ quản lý ngành chỉ định cơ sở kiểm nghiệm kiểm chứng theo quy định của pháp luật.\nChương 4.\nKIỂM TRA, GIÁM SÁT SAU CHỈ ĐỊNH\nĐiều 13. Phương thức kiểm tra, giám sát\n1. Kiểm tra,\ngiám sát định kỳ: Một (01) lần/một (01) năm.\n2. Kiểm tra, giám sát đột xuất khi có\nyêu cầu của cơ quan quản lý.\nĐiều 14. So sánh liên phòng\n1. Đơn vị tổ chức so sánh liên phòng\nphải đáp ứng yêu cầu của Tiêu chuẩn quốc tế ISO/IEC 17043:2010 hoặc có năng lực tương đương.\n2. Trên cơ sở năng lực của các đơn vị\ntổ chức so sánh liên phòng đủ điều kiện, cơ quan quản lý nhà nước có thẩm quyền chỉ định đơn vị tiến hành tổ chức so sánh liên phòng.\nĐiều 15. Kiểm tra, giám sát hoạt động Áp dụng cho các cơ sở kiểm nghiệm được chỉ định với tần suất một (01) lần/một (01) năm. Kiểm tra, giám sát hoạt động bao gồm các hình thức sau:\n1. Đánh giá sơ bộ qua báo cáo hoạt động\ndo cơ sở kiểm nghiệm gửi về theo quy định (sáu (06) tháng và hàng năm).\n2. Kiểm tra giám sát hoạt động tại cơ\nsở Cơ sở kiểm nghiệm được kiểm tra sẽ được thông báo trước khi thực hiện giám sát mười lăm (15) ngày. Đoàn kiểm tra do cơ quan nhà nước có thẩm quyền thành lập theo quyết định có trách nhiệm thực hiện các nhiệm vụ sau đây:\na) Đánh giá việc duy trì sự tuân thủ và phù hợp của hệ thống quản lý và năng lực của cơ sở kiểm\nnghiệm theo Điều 5 của Thông tư liên tịch này;\nb) Kiểm tra quy trình thực hiện các\nphép thử được chỉ định theo phương pháp đã đăng ký. Phương pháp phải đáp ứng yêu cầu của Quy chuẩn kỹ thuật tương ứng hoặc quy định hiện hành;\nc) Kiểm tra việc tuân thủ hệ thống\ntài liệu, quy trình, quy định trong kiểm nghiệm;\nd) Kiểm tra hồ sơ của quá trình kiểm nghiệm;\nđ) Báo cáo kết quả giám sát theo mẫu\ntại Phụ lục 8 ban hành kèm theo Thông tư liên tịch này;\ne) Đoàn giám sát thẩm định kết quả khắc\nphục, báo cáo cơ quan quản lý nhà nước có thẩm quyền. Căn cứ báo cáo kết quả khắc phục, cơ quan quản lý nhà nước có thẩm quyền sẽ tiến hành kiểm tra thực tế tại cơ sở kiểm nghiệm nếu cần thiết.\nĐiều 16. Miễn kiểm tra giám sát\n1. Miễn kiểm tra giám sát đối với cơ sở kiểm nghiệm quy định tại Điểm đ Khoản 3 Điều 6 đáp ứng đầy đủ\ncác quy định tại Điều 4, Điều 5 của Thông tư liên tịch này và các quy định khác có liên quan theo quy định của Bộ quản lý ngành.\n2. Cơ sở kiểm nghiệm đáp ứng yêu cầu\nquy định tại Khoản 1 Điều này nộp một (01) bộ hồ sơ đề nghị miễn kiểm tra giám sát về cơ quan quản lý nhà nước có thẩm quyền. Hồ sơ bao gồm:\na) Công văn đề\nnghị miễn kiểm tra;\nb) Biên bản giám sát của cơ quan công\nnhận hợp chuẩn Tiêu chuẩn quốc gia TCVN ISO/IEC 17025: 2007 hoặc Tiêu chuẩn quốc tế ISO/IEC 17025:2005 (trong vòng mười hai (12) tháng kể từ ngày nộp hồ sơ);\nc) Báo cáo kết quả hoạt động trong\nvòng mười hai (12) tháng kể từ ngày nộp hồ sơ, trong đó nêu rõ kết quả tự đánh giá năng lực phân tích của cơ sở kiểm nghiệm so với quy định có liên quan của Bộ quản lý ngành.\n3. Trong thời hạn không quá năm (05)\nngày làm việc, kể từ ngày nhận được hồ sơ đầy đủ và hợp lệ, cơ quan quản lý nhà nước có thẩm quyền thẩm định hồ sơ và trả lời kết quả bằng văn bản cho cơ sở kiểm nghiệm.\n4. Hằng năm, các cơ sở kiểm nghiệm được\nmiễn kiểm tra được quy định tại Khoản 1 Điều này vẫn phải chịu sự kiểm tra, giám sát đột xuất của cơ quan quản lý.\nĐiều 17. Thông báo kết quả kiểm tra, giám sát Căn cứ vào kết quả kiểm tra, giám sát; tùy theo mức độ vi phạm các quy định theo Thông tư liên tịch này, đoàn kiểm tra, giám sát đề xuất với cơ quan quản lý nhà nước có thẩm quyền hình thức xử lý sau:\n1. Yêu cầu khắc phục và gửi báo cáo khắc\nphục về cơ quan quản lý nhà nước có thẩm quyền.\n2. Đình chỉ việc\nthực hiện Quyết định chỉ định. Sau khi cơ sở kiểm nghiệm hoàn thành và báo cáo việc khắc phục theo yêu cầu của đoàn kiểm tra, giám sát, cơ quan quản lý nhà nước có thẩm quyền tiến hành xem xét phục hồi Quyết định chỉ định.\n3. Thu hồi, hủy bỏ Quyết định chỉ định\nvà báo cáo Bộ quản lý ngành khi cơ sở thuộc một trong các trường hợp sau: bị giải thể; không còn hoạt động trong phạm vi đã được chỉ định; quá thời hạn khắc phục; các vi phạm không khắc phục được. Chương 5.\nTRÁCH NHIỆM CỦA\nCƠ QUAN QUẢN LÝ VÀ CƠ SỞ KIỂM NGHIỆM\nĐiều 18. Trách nhiệm của cơ quan quản lý nhà nước có thẩm quyền\n1. Thực hiện tiếp nhận hồ sơ đăng ký chỉ định, gia hạn đăng ký chỉ định, đăng ký thay đổi bổ\nsung; tổ chức đánh giá, chỉ định cơ sở kiểm nghiệm.\n2. Kiểm tra, giám sát sau chỉ định.\n3. Bảo đảm tính khách quan và công bằng\ntrong hoạt động đánh giá, chỉ định, kiểm tra, giám sát.\n4. Bảo mật các thông tin, số liệu\nliên quan đến cơ sở kiểm nghiệm.\n5. Cấp, đình chỉ,\nhủy bỏ, phục hồi, thu hồi Quyết định chỉ định.\n6. Công bố danh sách cơ sở kiểm nghiệm\nđược chỉ định, bị đình chỉ, hủy bỏ, phục hồi, thu hồi Quyết định chỉ định.\n7. Tổ chức kiểm\ntra, giải quyết khiếu nại tố cáo liên quan đến cơ sở kiểm nghiệm theo quy định của pháp luật.\n8. Lưu hồ sơ cơ sở kiểm nghiệm.\n9. Thu, sử dụng phí, lệ phí đánh giá,\nchỉ định, giám sát hoạt động cơ sở kiểm nghiệm thực hiện theo quy định của pháp luật về phí và lệ phí.\nĐiều 19. Trách nhiệm của cơ sở kiểm nghiệm\n1. Thực hiện việc báo cáo định kỳ, đột\nxuất về cơ quan quản lý nhà nước có thẩm quyền:\na) Báo cáo định kỳ: Báo cáo hoạt động\nsáu (06) tháng trước ngày 10 tháng 7 và báo cáo năm trước ngày 30 tháng 12 hằng năm (theo mẫu tại Phụ lục 4 ban hành kèm theo Thông tư liên tịch này).\nb) Báo cáo đột xuất: Theo yêu cầu của\ncơ quan quản lý nhà nước có thẩm quyền.\n2. Báo cáo khi có thay đổi liên quan\nđến phạm vi hoạt động kiểm nghiệm được chỉ định, trong thời hạn không quá ba mươi (30) ngày kể từ ngày có thay đổi. Các nội dung thay đổi phải báo cáo bao gồm:\na) Tư cách pháp nhân;\nb) Cơ cấu tổ chức và lãnh đạo;\nc) Chính sách và thủ tục;\nd) Địa chỉ, điện thoại, Fax, E-mail;\nđ) Nhân sự, cán bộ chủ chốt, thiết bị,\ncơ sở vật chất, môi trường làm việc hoặc các nguồn lực khác nếu có tác động đến hệ thống quản lý;\ne) Các biện pháp khắc phục khi được\nyêu cầu theo mẫu quy định tại Phụ lục 9 ban hành kèm theo Thông tư liên tịch này.\n3. Ngoài việc thực hiện các quy định\ntại Khoản 1, Khoản 2, Điều này, cơ sở kiểm nghiệm còn phải thực hiện các nội dung sau:\na) Đảm bảo độ tin cậy, chính xác của\nkết quả kiểm nghiệm đối với các phép thử được chỉ định;\nb) Chịu sự kiểm tra, giám sát về hoạt\nđộng kiểm nghiệm của các đoàn thanh tra trong và ngoài nước khi có sự yêu cầu của cơ quan quản lý nhà nước;\nc) Tạo điều kiện thuận lợi cho đoàn\nđánh giá trong quá trình đánh giá tại cơ sở kiểm nghiệm;\nd) Chi trả phí, lệ phí cho việc đánh\ngiá, chỉ định, giám sát hoạt động cơ sở kiểm nghiệm thực hiện theo quy định của pháp luật về phí và lệ phí.\n4. Thực hiện các nghĩa vụ khác quy định\ntại Điều 20 Luật Chất lượng sản phẩm hàng hóa.\nChương 6.\nĐIỀU KHOẢN THI HÀNH\nĐiều 20. Hiệu lực thi hành Thông tư liên tịch này có hiệu lực từ ngày 10 tháng 10 năm 2013. Các cơ sở kiểm nghiệm thực phẩm đã được chỉ định theo quy định của các Bộ quản lý ngành được tiếp tục duy trì hiệu lực cho đến hết thời hạn của Quyết định chỉ định.\nĐiều 21. Tổ chức thực hiện Cục An toàn thực phẩm - Bộ Y tế, Vụ Khoa học và Công nghệ - Bộ Công Thương, Cục Quản lý chất lượng Nông lâm sản và Thủy sản - Bộ Nông nghiệp và Phát triển Nông thôn có trách nhiệm tổ chức, kiểm tra, giám sát và hướng dẫn thực hiện Thông tư liên tịch này. Trong quá trình thực hiện, nếu có vướng mắc, tổ chức, cá nhân cần kịp thời phản ánh về Bộ Y tế (Cục An toàn thực phẩm), Bộ Công Thương (Vụ Khoa học và Công nghệ), Bộ Nông nghiệp và Phát triển nông thôn (Cục Quản lý chất lượng Nông lâm sản và Thủy sản) để nghiên cứu, giải quyết./. KT. BỘ TRƯỞNG BỘ NÔNG NGHIỆP VÀ PHÁT TRIỂN NÔNG THÔN THỨ TRƯỞNG Nguyễn Thị Xuân Thu KT. BỘ TRƯỞNG BỘ CÔNG THƯƠNG THỨ TRƯỞNG Nguyễn Cẩm Tú KT. BỘ TRƯỞNG BỘ Y TẾ THỨ TRƯỞNG Nguyễn Thanh Long\nNơi nhận:\n- Thủ tướng Chính phủ và các Phó Thủ tướng Chính phủ (để\nbáo cáo);\n- Vàn phòng Chính phủ (Vụ KGVX, Công báo, Cổng TTĐT);\n- Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ;\n- Bộ trưởng Bộ Y tế, Bộ trưởng Bộ\nCông Thương, Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn (để báo\ncáo);\n- Các Thứ trưởng Bộ Y tế, Bộ Công Thương, Bộ Nông nghiệp và Phát triển\nnông thôn;\n- UBND các tỉnh, thành phố trực thuộc TW;\n- Bộ Tư pháp (Cục Kiểm tra VBQPPL);\n- Sở Y tế, Sở Công Thương, Sở Nông nghiệp và PTNT các tỉnh, thành phố trực\nthuộc TW;\n- Cổng Thông tin điện tử Bộ Y tế, Bộ Công Thương, Bộ Nông nghiệp và Phát\ntriển nông thôn;\n- Lưu: VT BYT, BCT, BNNPTNT; PC, ATTP - BYT; PC, KHCN - BCT; PC, QLCL\nBNNPTNT.\nPHỤ LỤC 1\nĐƠN ĐĂNG KÝ CHỈ ĐỊNH CƠ SỞ KIỂM NGHIỆM\n(Ban hành kèm theo Thông tư liên tịch số 20/2013/TTLT-BYT-BCT-BNNPTNT\nngày 01 tháng 8 năm 2013 của Bộ Y tế - Bộ Công Thương - Bộ Nông nghiệp và Phát triển nông thôn)\nCƠ SỞ KIỂM NGHIỆM\n--------\nCỘNG\nHÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc --------------- Số: ……/…….. ……, ngày……tháng…..năm…….\nĐƠN\nĐĂNG KÝ CHỈ ĐỊNH/GIA HẠN CHỈ ĐỊNH\nCƠ SỞ KIỂM NGHIỆM\nKính gửi: (Cơ quan quản lý nhà nước có thẩm quyền)\n1. Tên cơ sở kiểm nghiệm:\nĐịa chỉ: Điện thoại: Fax: E-mail:\n2. Họ tên, chức danh người phụ trách\ncơ sở kiểm nghiệm: Địa chỉ: Điện thoại: Fax: E-mail:\n3. Hình thức đề nghị chỉ định\nĐăng ký lần đầu  Đăng ký thay đổi, bổ sung  Đăng ký gia hạn \n4. Phạm vi đề nghị chỉ định\nTT\nLĩnh vực Tên phép thử Phương pháp thử Giới hạn phát hiện của phép thử (nếu có)/phạm vi đo Ghi chú (1) (2) (3) (4) (5) (6) Chú ý: ghi (*) đối với phép thử đã được công nhận và tại cột (6) ghi tên cơ quan công nhận tương ứng.\n5. Thời gian đề nghị bắt đầu đánh\ngiá: ngày....tháng....năm... (áp dụng đối với trường hợp quy định tại khoản 3, Điều 9 Thông tư liên tịch này)\n6. Chúng tôi cam\nkết thực hiện đầy đủ quy định tại Thông tư liên tịch số... /2013/TT-BYT-BCT-BNNPTNT ngày .... tháng .... năm 2013 của Bộ Y tế - Bộ Công Thương - Bộ Nông nghiệp và Phát triển nông thôn. Thủ trưởng đơn vị (Ký tên và đóng dấu) Phụ trách cơ sở kiểm nghiệm (Ký và ghi rõ họ tên)\nPHỤ LỤC 2\nMẪU BÁO CÁO NĂNG LỰC HOAT ĐỘNG CƠ SỞ\nKIỂM NGHIỆM\n(Ban hành kèm theo Thông tư liên tịch số 20/2013/TTLT-BYT-BCT-BNNPTNT ngày 01 tháng 8 năm 2013 của\nBộ Y tế - Bộ Công Thương - Bộ Nông nghiệp và Phát triển nông thôn)\nCƠ SỞ KIỂM NGHIỆM\n---------\nCỘNG\nHÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc --------------- Số: ……/…….. ……, ngày……tháng…..năm…….\nBÁO CÁO NĂNG LỰC HOẠT ĐỘNG\nCƠ SỞ KIỂM NGHIỆM\n1. Tên cơ sở kiểm nghiệm:\nĐịa chỉ: Điện thoại: Fax: E-mail:\n2. Họ tên, chức danh người phụ trách\ncơ sở kiểm nghiệm: Địa chỉ: Điện thoại: Fax: E-mail:\n3. Cán bộ, nhân viên của cơ sở kiểm nghiệm:\nTT\nHọ và tên Chứng chỉ đào tạo chuyên môn Chứng chỉ đào tạo hệ thống quản lý Công việc được giao hiện tại Thâm niên trong lĩnh vực kiểm nghiệm Ghi chú (1) (2) (3) (4) (5) (6) (7)\n4. Trang thiết bị\n4.1. Trang thiết bị cần kiểm định/hiệu chuẩn\nTT\nTên phương tiện đo lường Phạm vi đo, cấp chính xác Chu kỳ kiểm định, hiệu chuẩn Ngày kiểm định, hiệu chuẩn lần cuối Đơn vị kiểm định/hiệu chuẩn Ghi chú (1) (2) (3) (4) (5) (6) (7) 4.2. Trang thiết bị khác\nTT\nTên thiết bị Đặc trưng kỹ thuật Ngày đưa vào sử dụng Ghi chú 1 2 3 4 5\n5. Diện\ntích và môi trường của cơ sở kiểm nghiệm 5.1. Sơ đồ mặt bằng và diện tích của từng bộ phận của cơ sở kiểm nghiệm 5.2. Điều kiện môi trường các bộ phận của cơ sở kiểm nghiệm - Điều hòa nhiệt độ; - Khả năng thông khí và thoát hơi độc; - Các điều kiện bảo đảm khác ( chống rung, bụi, ồn, ánh sáng, phóng xạ...). 5.3. Các điều kiện bảo hộ và an toàn lao động cho cán bộ và nhân viên của cơ sở kiểm nghiệm\n6. Danh mục các lĩnh vực và phép thử\ncơ sở kiểm nghiệm đề nghị chỉ định\nSTT\nLĩnh vực Tên phép thử Phương pháp thử Giới hạn phát hiện (nếu có) Công suất kiểm nghiệm (số mẫu/năm) Kết quả thử nghiệm thành thạo/so sánh liên phòng 1 2 3 4 5 6 7 Ghi chú: cột (7) ghi rõ tên chương trình, chỉ tiêu và nền mẫu tham gia, kết quả.\n7. Kết quả hoạt động cơ sở kiểm nghiệm\nthực hiện 03 (ba) năm gần nhất\nSTT\nLĩnh vực Tên phép thử Phương pháp thử Tổng số mẫu Ghi chú 1 2 3 4 5 6\n8. Cơ sở kiểm nghiệm cam kết\n- Thực hiện Quyết định chỉ định và quản lý hoạt động cơ sở kiểm nghiệm; - Đáp ứng các yêu cầu của cơ quan đánh giá khi tiến hành đánh giá cơ sở kiểm nghiệm. Thủ trưởng đơn vị (Ký tên và đóng dấu) Phụ trách cơ sở kiểm nghiệm (Ký và ghi rõ họ tên)\nPHỤ LỤC 3\nMẪU PHIẾU KIỂM NGHIỆM\n(Ban hành kèm theo Thông tư liên tịch\nsố: 20/2013/TTLT-BYT-BCT-BNNPTNT ngày 01 tháng 8 năm 2013 của Bộ Y tế - Bộ Công Thương - Bộ Nông nghiệp và Phát triển nông thôn)\nCƠ SỞ KIỂM NGHIỆM\n---------\nCỘNG\nHÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc --------------- Số: ……/……..\nPHIẾU KIỂM NGHIỆM\n(Kết quả kiểm nghiệm chỉ có giá trị với mẫu đem thử)\n1. Tên mẫu: (Ghi tên của mẫu kiểm nghiệm)\n2. Mã số mẫu:\n3. Mô tả mẫu: (tình trạng mẫu khi nhận, khối lượng mẫu, ngày sản xuất, hạn\nsử dụng, tình trạng lưu mẫu)\n4. Thời gian lưu mẫu:\n5. Ngày lấy mẫu:\n6. Ngày nhận mẫu:\n7. Thời gian kiểm nghiệm:\n8. Nơi gửi mẫu:\n9. Tài liệu kèm theo: (ghi\nrõ nội dung, số, ngày, tháng năm của công văn hay giấy tờ kèm theo)\n10. Kết quả kiểm nghiệm (các chỉ tiêu\nđã được chỉ định của cơ sở kiểm nghiệm):\nTT\nChỉ tiêu kiểm nghiệm Phương pháp kiểm nghiệm Đơn vị Kết quả So với QCVN.../ TCVN.../QĐ... 1 2 ….. ………………. ………………… ………… ……………. ……………………\n11. Kết luận:\n(Cần nêu rõ mẫu có đạt yêu cầu hay không)\n12. Ghi chú: (nếu có)\nThủ trưởng đơn vị (Ký tên và đóng dấu) Phụ trách cơ sở kiểm nghiệm (Ký và ghi rõ họ tên) …., ngày…..tháng….năm…. Kiểm nghiệm viên (Ký và ghi rõ họ tên)\nPHỤ LỤC 4\nMẪU BÁO CÁO KẾT QUẢ HOẠT ĐỘNG\n(Ban hành kèm theo Thông tư liên tịch\nsố 20/2013/TTLT-BYT-BCT-BNNPTNT ngày 01 tháng 8 năm 2013 của Bộ Y tế - Bộ Công Thương - Bộ Nông nghiệp và Phát triển nông thôn)\nCƠ SỞ KIỂM NGHIỆM\n---------\nCỘNG\nHÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc --------------- Số: ……/…….. ……, ngày…..tháng……..năm……\nBÁO CÁO KẾT QUẢ HOẠT ĐỘNG\nCƠ SỞ KIỂM NGHIỆM\n1. Tên cơ sở kiểm nghiệm:\nĐịa chỉ: Điện thoại: Fax: E-mail: Họ tên, chức danh, người phụ trách cơ sở kiểm nghiệm: Điện thoại: Fax: E-mail:\n3. Đào tạo: Nâng cao trình độ chuyên môn cho cán bộ cơ sở kiểm nghiệm trong 6 tháng (hoặc 12\ntháng) năm ……\nTT\nHọ và tên Chức vụ Khóa đào tạo tham gia Thời gian Kết quả đạt được Ghi chú (1) (2) (3) (4) (5) (6) (7)\n4. Trang thiết bị\n4.1. Trang thiết bị được kiểm định/hiệu chuẩn trong 6 tháng (hoặc 12 tháng) năm ……..\nTT\nTên phương tiện đo lường Phạm vi đo, cấp chính xác Chu kỳ kiểm định, hiệu chuẩn Ngày kiểm định, hiệu chuẩn lần cuối Đơn vị kiểm định/hiệu chuẩn Ghi chú (1) (2) (3) (4) (5) (6) (7) 4.2. Trang thiết bị mới được bổ sung trong 6 tháng (hoặc 12 tháng) năm …….\nTT\nTên thiết bị Đặc trưng kỹ thuật Ngày đưa vào sử dụng Ghi chú 1 2 3 4 6\n5. Lĩnh vực và phép thử cơ sở kiểm nghiệm thực hiện trong 6 tháng (hoặc 12\ntháng) năm …..\nSTT\nLĩnh vực Tên phép thử Phương pháp thử Công suất kiểm nghiệm (tổng số mẫu/ 6 tháng (hoặc 12 tháng)) Giới hạn phát hiện (nếu có) Ghi chú 1 2 3 4 5 6 7\n6. Đảm bảo chất lượng kết quả kiểm\nnghiệm (tham gia thử nghiệm thành thạo/so sánh liên phòng) thực hiện 6 tháng (hoặc 12 tháng) năm ………:\nSTT\nTên phép thử Phương pháp thử Nền mẫu Đơn vị tổ chức Thời gian tham gia Kết quả 1 2 3 4 5 6 7\n7. Kết quả hoạt động cơ sở kiểm nghiệm\nthực hiện 6 tháng (hoặc 12 tháng) năm\nSTT\nLĩnh vực Loại thực phẩm Tên phép thử Phương pháp thử Tổng số mẫu Số mẫu không đạt yêu cầu 1 2 3 4 5 6 7 Thủ trưởng đơn vị (Ký tên và đóng dấu) Phụ trách cơ sở kiểm nghiệm (Ký, ghi rõ họ tên)\nPHỤ LỤC 5\nBIÊN BẢN ĐÁNH GIÁ CƠ SỞ KIỂM NGHIỆM\n(Ban hành kèm theo Thông tư liên\ntịch số: 20/2013/TTLT-BYT-BCT-BNNPTNT ngày 01 tháng 8 năm 2013 của Bộ Y tế - Bộ Công Thương - Bộ Nông nghiệp và Phát triển nông thôn)\nCỘNG\nHÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc --------------- ……, ngày…….tháng….năm…….\nBIÊN BẢN\nĐÁNH GIÁ CƠ SỞ KIỂM NGHIỆM\nĐoàn đánh giá cơ sở kiểm nghiệm ………….. được thành lập theo Quyết định số .... /QĐ-.... ngày ... tháng ... năm ... của cơ quan quản lý nhà nước có thẩm quyền, gồm: (Họ, tên trưởng đoàn đánh giá, thư ký, các thành viên)\n1. Tên cơ sở kiểm nghiệm:\nĐịa chỉ: Điện thoại: Fax: E-mail:\n2. Kết luận của\nTrưởng đoàn đánh giá 2.1. Các điều phù hợp: 2.2. Các điều không phù hợp:\nTT\nCác điều không phù hợp Mức 1 Mức 2 Căn cứ/chuẩn mực (1) (2) (3) (4) (5) 2.3. Đề nghị cơ quan quản lý nhà nước có thẩm quyền chỉ định (tên cơ sở kiểm nghiệm), thuộc ……….. là cơ sở kiểm nghiệm được chỉ định đối với các lĩnh vực và phép thử sau sau khi cơ sở kiểm nghiệm hoàn thành việc khắc phục toàn bộ các điều không phù hợp nêu trên:\nTT\nLĩnh vực Tên phép thử hoặc loại phép thử Phương pháp thử Ghi chú (1) (2) (3) (4) (5)\n3. Biên\nbản này được thông qua với sự đồng ý của ……. thành viên đoàn đánh giá.\n4. Ý kiến khác nếu có (nêu rõ nội dung và tên người\ncó ý kiến khác)\n5. Tài liệu khác kèm theo biên bản gồm:\n………………………………….. Đại diện cơ sở kiểm nghiệm (Ký và ghi rõ họ, tên) Thư ký đoàn đánh giá (Ký và ghi rõ họ, tên) Trưởng đoàn đánh giá (Ký và ghi rõ họ, tên)\nPHỤ LỤC 6\nMẪU QUYẾT ĐỊNH CHỈ ĐỊNH CƠ SỞ KIỂM NGHIỆM\n(Ban hành kèm theo Thông tư liên tịch\nsố: 20/2013/TTLT-BYT-BCT-BNNPTNT ngày 01 tháng 8 năm 2013 của Bộ Y tế - Bộ Công Thương - Bộ Nông nghiệp và Phát triển nông thôn)\nBỘ QUẢN LÝ CHUYÊN NGÀNH\nCƠ QUAN QUẢN LÝ NHÀ NƯỚC CÓ THẨM QUYỀN\nCỘNG\nHÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc --------------- Số: …/QĐ-… Hà Nội, ngày …. tháng…..năm….\nQUYẾT ĐỊNH VỀ VIỆC\nCHỈ ĐỊNH CƠ SỞ KIỂM NGHIỆM THỰC PHẨM PHỤC VỤ QUẢN LÝ NHÀ NƯỚC VỀ AN TOÀN THỰC\nPHẨM\nCăn cứ Luật an toàn thực phẩm ngày 17 tháng 6 năm 2010; Căn cứ Nghị định số 38/2012/NĐ-CP ngày 25 tháng 4 năm 2012 quy định chi tiết thi hành một số điều của Luật an toàn thực phẩm; Căn cứ Thông tư liên tịch số ... /2013/TTLT-BYT-BCT-BNNPTNT ngày …. tháng ... năm 2013 của Bộ Y tế - Bộ Công Thương - Bộ Nông nghiệp và Phát triển nông thôn quy định yêu cầu, trình tự thủ tục chỉ định đối với cơ sở kiểm nghiệm phục vụ quản lý nhà nước về thực phẩm; (Thủ trưởng cơ quan nhà nước có thẩm quyền) …………………….,\nQUYẾT ĐỊNH:\nĐiều 1. Chỉ định …….. (tên cơ sở kiểm nghiệm), địa chỉ………………. được chỉ định kiểm nghiệm thực phẩm đối với các chỉ tiêu kỹ thuật có tên trong danh mục chỉ tiêu được chỉ định kèm theo Quyết định này. - Mã số cơ sở kiểm nghiệm: ..../20..../BYT-KNTP (BCT-KNTP/BNN-KNTP).\nĐiều 2. Quyết định này có hiệu lực ba (03) năm, kể từ ngày ký.\nĐiều 3. (Tên cơ sở kiểm nghiệm) ……. có trách nhiệm thực hiện công tác kiểm nghiệm phục vụ quản lý nhà nước khi có yêu cầu và phải tuân thủ các quy định và hướng dẫn của cơ quan quản lý nhà nước có thẩm quyền.\nNơi nhận:\n- Như trên;\n- Tổ chức liên quan (để biết);\n- Lưu: Cơ quan quản lý nhà nước có thẩm quyền.\nTHỦ TRƯỞNG\nCƠ QUAN QUẢN LÝ NHÀ NƯỚC CÓ\nTHẨM QUYỀN\n(Ký tên và đóng dấu)\nDANH\nMỤC CHỈ TIÊU ĐƯỢC CHỈ ĐỊNH\n(Kèm theo Quyết định chỉ định cơ sở kiểm nghiệm số\n……./QĐ-……. ngày…. tháng…… năm……. của cơ quan quản lý nhà nước có thẩm quyền)\nTT\nTên chỉ tiêu được chỉ định\nPhạm vi áp dụng\nGiới hạn phát hiện (nếu có)/phạm vi đo\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15\n16\n17\n18\n19\n20\n...\n………………………………..\n……………………………….\n……………………………\nPHỤ LỤC 7\nMẪU BÁO CÁO ĐÁNH GIÁ CƠ SỞ KIỂM NGHIỆM\n(Ban hành kèm theo Thông tư liên tịch\nsố: 20/2013/TTLT-BYT-BCT-BNNPTNT ngày 01 tháng 8 năm 2013 của Bộ Y tế - Bộ Công Thương - Bộ Nông nghiệp và Phát triển nông thôn)\nCỘNG\nHÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc --------------- ………, ngày…….tháng……năm……\nBÁO CÁO\nĐÁNH GIÁ CƠ SỞ KIỂM NGHIỆM\n1. Tên cơ sở kiểm nghiệm được đánh\ngiá: Địa chỉ: Điện thoại: Fax: E-mail:\n2. Phạm vi đề nghị chỉ định: Các lĩnh vực và phép thử đề nghị chỉ định.\n3. Đoàn đánh giá hoặc thành viên đoàn\nđánh giá: (ghi rõ họ, tên)\n4. Thời gian\nđánh giá\n5. Các căn cứ để đánh giá\n- Hệ thống quản lý chất lượng cơ sở kiểm nghiệm; - Các quy trình kỹ thuật của cơ sở kiểm nghiệm; - Tiêu chuẩn, quy định yêu cầu về năng lực cơ sở kiểm nghiệm.\n6. Nội dung đánh giá:\n- TCVN ISO/IEC 17025:2007 hoặc các tiêu chuẩn tương đương khác; - Sự tuân thủ và phù hợp của cơ sở kiểm nghiệm theo quy định tại Điều 5 Thông tư liên tịch này (các điểm không phù hợp của cơ sở kiểm nghiệm).\n7. Kết quả đánh giá\nKết luận về từng nội dung đánh giá (có hồ sơ, biên bản đánh giá kèm theo).\n8. Kết luận và kiến nghị của trưởng\nđoàn đánh giá ………………………………………………………………………………………………………….. ………………………………………………………………………………………………………….. Trưởng đoàn đánh giá (Ký và ghi rõ họ, tên)\nPHỤ LỤC 8\nMẪU BÁO CÁO KẾT QUẢ GIÁM SÁT\n(Ban hành kèm theo Thông tư liên tịch\nsố: 20/2013/TTLT-BYT-BCT-BNNPTNT ngày 01 tháng 8 năm 2013 của Bộ Y tế - Bộ Công Thương - Bộ Nông nghiệp và Phát triển nông thôn)\nCỘNG\nHÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc --------------- ………, ngày…….tháng……năm……\nBÁO CÁO KẾT QUẢ GIÁM SÁT\nTên cơ sở kiểm nghiệm được giám sát: Mã số: Phạm vi được chỉ định: Họ và tên các cán bộ giám sát: I. Nội dung giám sát ……………………………………………………………………………………………………………. ……………………………………………………………………………………………………………. ……………………………………………………………………………………………………………. ……………………………………………………………………………………………………………. II. Các điều không phù hợp được phát hiện ……………………………………………………………………………………………………………. ……………………………………………………………………………………………………………. ……………………………………………………………………………………………………………. …………………………………………………………………………………………………………….\nIII.\nThời hạn báo cáo kết quả khắc phục các điều không phù hợp ……………………………………………………………………………………………………………. ……………………………………………………………………………………………………………. ……………………………………………………………………………………………………………. …………………………………………………………………………………………………………….\nNơi nhận:\n- Cơ quan quản lý nhà nước có thẩm quyền;\n- Cơ sở kiểm nghiệm được giám sát.\nTrưởng đoàn\ngiám sát\n(Ký và ghi rõ họ tên)\nPHỤ LỤC 9\nMẪU BÁO CÁO KẾT QUẢ THỰC HIỆN HÀNH ĐỘNG\nKHẮC PHỤC\n(Ban hành kèm theo Thông tư liên tịch\nsố: 20/2013/TTLT-BYT-BCT-BNNPTNT ngày 01 tháng 8 năm 2013 của Bộ Y tế - Bộ Công Thương - Bộ Nông nghiệp và Phát triển nông thôn)\nCỘNG\nHÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc --------------- ………, ngày…….tháng……năm…… Kính gửi: (Cơ quan quản lý nhà nước có thẩm quyền)\nBÁO CÁO\nKẾT QUẢ THỰC HIỆN BIỆN PHÁP KHẮC PHỤC\n1 .Tên cơ sở kiểm nghiệm được giám sát:\n2. Mã số chỉ định:\n3. Điều không phù hợp được phát hiện: Mức độ:\n4. Nguyên nhân\n5. Biện pháp khắc phục\n6. Những thay đổi\nkèm theo để hoàn chỉnh hệ thống quản lý (nếu có) Thủ trưởng đơn vị (Ký, ghi rõ họ tên) Người báo cáo (Ký, ghi rõ họ tên)\n7. Ý kiến thẩm định của Trưởng đoàn\ngiám sát ……………………………………………………………………………………………………………. …………………………………………………………………………………………………………….\n8. Kết luận của Trưởng đoàn giám sát\n……………………………………………………………………………………………………………. ……………………………………………………………………………………………………………. Thư ký đoàn giám sát (Ký, ghi rõ họ tên) ………, ngày……tháng……..năm Trưởng đoàn giám sát (Ký, ghi rõ họ tên)",
+  "tree": {
+    "parts": [
+      {
+        "part_id": "doc:49889:part:1",
+        "part_type": "main",
+        "part_title": null,
+        "reference": null,
+        "direct_text": "THÔNG TƯ LIÊN TỊCH QUY\nĐỊNH ĐIỀU KIỆN, TRÌNH TỰ THỦ TỤC CHỈ ĐỊNH CƠ SỞ KIỂM NGHIỆM THỰC PHẨM PHỤC VỤ\nQUẢN LÝ NHÀ NƯỚC\nCăn cứ Luật an toàn thực phẩm ngày 17 tháng 6 năm 2010 và Nghị định số 38/2012/NĐ-CP ngày 25 tháng 4 năm 2012 của Chính phủ về việc quy định chi tiết thi hành một số điều của Luật an toàn thực phẩm; Căn cứ Luật chất lượng, sản phẩm hàng hóa ngày 21 tháng 11 năm 2007 và Nghị định số 132/2008/NĐ-CP ngày 31 tháng 12 năm 2008 của Chính phủ quy định chi tiết thi hành một số điều của Luật chất lượng, sản phẩm hàng hóa; Căn cứ Luật tiêu chuẩn và quy chuẩn kỹ thuật ngày 29 tháng 6 năm 2006 và Nghị định số 127/2007/NĐ-CP ngày 01 tháng 8 năm 2007 của Chính phủ quy định chi tiết thi hành một số điều của Luật tiêu chuẩn và quy chuẩn kỹ thuật; Căn cứ Nghị định số 63/2012/NĐ-CP ngày 31 tháng 8 năm 2012 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Y tế; Căn cứ Nghị định số 95/2012/NĐ-CP ngày 12 tháng 11 năm 2012 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Công Thương; Căn cứ Nghị định số 01/2008/NĐ-CP ngày 03 tháng 01 năm 2008 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Nông nghiệp và Phát triển nông thôn và Nghị định số 75/2009/NĐ-CP sửa đổi Điều 3 Nghị định số 01/2008/NĐ-CP ngày 03 tháng 01 năm 2008 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Nông nghiệp và Phát triển nông thôn; Theo đề nghị của Cục trưởng Cục An toàn thực phẩm - Bộ Y tế, Vụ trưởng Vụ Khoa học và Công nghệ - Bộ Công Thương, Cục trưởng Cục Quản lý chất lượng Nông lâm sản và Thủy sản - Bộ Nông nghiệp và Phát triển nông thôn, Bộ trưởng Bộ Y tế - Bộ trưởng Bộ Công Thương - Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn ban hành Thông tư liên tịch quy định điều kiện, trình tự thủ tục chỉ định cơ sở kiểm nghiệm thực phẩm phục vụ quản lý nhà nước, Chương 1.\nQUY ĐỊNH CHUNG\ndanh mục các chỉ tiêu/phép thử.\nTrường hợp hồ sơ không đạt yêu cầu, cơ quan quản lý nhà nước có thẩm quyền phải có thông báo bằng văn bản về lý do không chỉ định cho cơ sở kiểm nghiệm.\nb) Trong trường hợp cần thiết (kết quả\nthẩm định hồ sơ chưa đủ cơ sở kết luận năng lực phân tích của cơ sở đáp ứng theo quy định tại Điều 5), cơ quan quản lý nhà nước có thẩm quyền sẽ thành lập đoàn đánh giá để tiến hành đánh giá tại cơ sở kiểm nghiệm.\n4. Thời hạn hiệu lực của Quyết định\nchỉ định: Quyết định chỉ định có hiệu lực ba (03) năm kể từ ngày ký ban hành.",
+        "chapters": [
+          {
+            "chapter_id": "doc:49889:part:1:chapter:1",
+            "number": "2",
+            "title": "ĐIỀU KIỆN ĐỐI VỚI CƠ SỞ KIỂM NGHIỆM Điều 4. Yêu cầu về pháp nhân Được thành lập theo quy định của pháp luật; có chức năng kiểm nghiệm thực phẩm hoặc Quyết định giao nhiệm vụ của các cơ quan có thẩm quyền",
+            "content": "Chương 2.\nĐIỀU KIỆN ĐỐI VỚI CƠ SỞ\nKIỂM NGHIỆM\nĐiều\n4. Yêu cầu về pháp nhân\nĐược thành lập theo quy định của pháp luật; có chức năng kiểm nghiệm thực phẩm hoặc Quyết định giao nhiệm vụ của các cơ quan có thẩm quyền.",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:49889:part:1:article:4",
+                "number": "5",
+                "title": "Yêu cầu về năng lực Năng lực của cơ sở kiểm nghiệm đối với các chỉ tiêu đăng ký chỉ định phải đáp ứng các yêu cầu sau:",
+                "content": "Điều 5. Yêu cầu về năng lực Năng lực của cơ sở kiểm nghiệm đối với các chỉ tiêu đăng ký chỉ định phải đáp ứng các yêu cầu sau:",
+                "clauses": [
+                  {
+                    "clause_id": "doc:49889:part:1:article:4:clause:1",
+                    "number": "1",
+                    "content": "1. Hệ thống quản lý chất lượng đáp ứng\nTiêu chuẩn quốc gia TCVN ISO/IEC 17025: 2007 hoặc Tiêu chuẩn quốc tế ISO/IEC 17025:2005;",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:49889:part:1:article:4:clause:2",
+                    "number": "2",
+                    "content": "2. Có đủ trang thiết bị, cơ sở vật chất\nphù hợp với yêu cầu kiểm nghiệm và lĩnh vực đăng ký chỉ định;",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:49889:part:1:article:4:clause:3",
+                    "number": "3",
+                    "content": "3. Có ít nhất hai (02) kiểm nghiệm\nviên là cán bộ kỹ thuật có trình độ đại học phù hợp với lĩnh vực đăng ký chỉ định được đào tạo và có kinh nghiệm thực tế về kiểm nghiệm trong cùng lĩnh vực từ ba (03) năm trở lên;",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:49889:part:1:article:4:clause:4",
+                    "number": "4",
+                    "content": "4. Các phương pháp thử được cập nhật\nvà xác nhận giá trị sử dụng, năng lực phân tích/kiểm nghiệm các chỉ tiêu/phép thử đăng ký chỉ định đáp ứng quy định hoặc quy chuẩn kỹ thuật tương ứng và các yêu cầu khác có liên quan theo quy định của Bộ quản lý ngành;",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:49889:part:1:article:4:clause:5",
+                    "number": "5",
+                    "content": "5. Kết quả thử nghiệm thành thạo hoặc so sánh liên phòng đạt yêu cầu đối với ít nhất một chỉ tiêu/phép thử đăng ký chỉ định.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:49889:part:1:chapter:2",
+            "number": "3",
+            "title": "HỒ SƠ, TRÌNH TỰ THỦ TỤC ĐĂNG KÝ, CHỈ ĐỊNH CƠ SỞ THỬ NGHIỆM",
+            "content": "Chương 3.\nHỒ SƠ, TRÌNH TỰ\nTHỦ TỤC ĐĂNG KÝ, CHỈ ĐỊNH CƠ SỞ THỬ NGHIỆM",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:49889:part:1:article:5",
+                "number": "6",
+                "title": "Đăng ký chỉ định",
+                "content": "Điều 6. Đăng ký chỉ định",
+                "clauses": [
+                  {
+                    "clause_id": "doc:49889:part:1:article:5:clause:1",
+                    "number": "1",
+                    "content": "1. Cơ sở kiểm nghiệm đáp ứng các yêu cầu\nquy định tại Điều 4 và Điều 5 Thông tư liên tịch này nộp một (01) bộ hồ sơ đăng ký chỉ định (nộp trực tiếp hoặc qua đường bưu điện) cho cơ quan quản lý nhà nước có thẩm quyền theo quy định tại Điều 3 Thông tư liên tịch này.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:49889:part:1:article:5:clause:2",
+                    "number": "2",
+                    "content": "2. Các cơ quan quản lý nhà nước có thẩm\nquyền nêu tại Điều 3 Thông tư liên tịch này có trách nhiệm tiếp nhận hồ sơ đăng ký, tổ chức đánh giá các cơ sở kiểm nghiệm thực phẩm thuộc lĩnh vực quản lý tương ứng của từng Bộ hoặc phối hợp tổ chức đánh giá các cơ sở kiểm nghiệm thực phẩm đa lĩnh vực theo trình tự thủ tục quy định tại Thông tư liên tịch này và xem xét chỉ định phù hợp theo lĩnh vực được phân công quản lý của từng Bộ quản lý ngành.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:49889:part:1:article:5:clause:3",
+                    "number": "3",
+                    "content": "3. Hồ sơ đăng ký chỉ định bao gồm:",
+                    "points": [
+                      {
+                        "point_id": "doc:49889:part:1:article:5:clause:3:point:1",
+                        "label": "a",
+                        "content": "a) Đơn đăng ký chỉ định cơ sở kiểm\nnghiệm theo mẫu quy định tại Phụ lục 1 ban hành kèm theo Thông tư liên tịch này;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:49889:part:1:article:5:clause:3:point:2",
+                        "label": "b",
+                        "content": "b) Quyết định thành lập hoặc Giấy chứng\nnhận đăng ký kinh doanh (bản sao có chứng thực);",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:49889:part:1:article:5:clause:3:point:3",
+                        "label": "c",
+                        "content": "c) Tài liệu, hồ sơ kỹ thuật và các\nquy trình liên quan đến chỉ tiêu/phép thử đăng ký chỉ định.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:49889:part:1:article:5:clause:3:point:4",
+                        "label": "d",
+                        "content": "d) Hồ sơ năng lực:\n- Danh sách, hồ sơ trang thiết bị chính, cơ sở hạ tầng (phù hợp nội dung báo cáo năng lực hoạt động cơ sở kiểm nghiệm theo mẫu quy định tại Phụ lục 2 ban hành kèm theo Thông tư liên tịch này); - Danh sách, hồ sơ kiểm nghiệm viên tương ứng với lĩnh vực đăng ký chỉ định kèm theo bản sao có chứng thực các chứng chỉ chuyên môn; - Các tài liệu chứng minh về bảo đảm chất lượng kiểm nghiệm: kế hoạch, kết quả thử nghiệm thành thạo hoặc so sánh liên phòng; Báo cáo kết quả kiểm tra thành thạo tay nghề của kiểm nghiệm viên đối với chỉ tiêu/phép thử đăng ký chỉ định; - Báo cáo năng lực cơ sở kiểm nghiệm theo mẫu quy định tại Phụ lục 2 ban hành kèm theo Thông tư liên tịch này; - Mẫu Phiếu kết quả kiểm nghiệm theo quy định tại Phụ lục 3 ban hành kèm theo Thông tư liên tịch này; - Kết quả hoạt động kiểm nghiệm đối với lĩnh vực đăng ký chỉ định trong mười hai (12) tháng gần nhất theo mẫu quy định tại Phụ lục 4 ban hành theo Thông tư liên tịch này.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:49889:part:1:article:5:clause:3:point:5",
+                        "label": "đ",
+                        "content": "đ) Đối với cơ sở kiểm nghiệm đã được\ntổ chức công nhận hợp pháp của Việt Nam hoặc tổ chức công nhận nước ngoài là thành viên tham gia ký thỏa thuận thừa nhận lẫn nhau của Hiệp, hội Công nhận phòng thí nghiệm Quốc tế (ILAC - International Laboratory Accreditation Cooperation), Hiệp hội Công nhận phòng thí nghiệm Châu Á - Thái Bình Dương (APLAC - Asian Pacific Laboratory Accreditation Cooperation) đánh giá và cấp chứng chỉ công nhận theo Tiêu chuẩn quốc gia TCVN ISO/IEC 17025: 2007 hoặc Tiêu chuẩn quốc tế ISO/IEC 17025:2005, đăng ký chỉ định các chỉ tiêu/phép thử trong phạm vi đã được công nhận: nộp các tài liệu nêu tại Điểm a, b, c và d Khoản 3 Điều này; bản sao (có chứng thực) chứng chỉ công nhận, danh mục, phạm vi công nhận.",
+                        "children": []
+                      }
+                    ]
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:49889:part:1:article:6",
+                "number": "7",
+                "title": "Hồ sơ đăng ký gia hạn chỉ định Trước khi Quyết định chỉ định hết hiệu lực chín mươi (90) ngày, cơ sở kiểm nghiệm gửi một (01) bộ hồ sơ gia hạn chỉ định cho cơ quan quản lý nhà nước có thẩm quyền. Hồ sơ bao gồm:",
+                "content": "Điều 7. Hồ sơ đăng ký gia hạn chỉ định Trước khi Quyết định chỉ định hết hiệu lực chín mươi (90) ngày, cơ sở kiểm nghiệm gửi một (01) bộ hồ sơ gia hạn chỉ định cho cơ quan quản lý nhà nước có thẩm quyền. Hồ sơ bao gồm:",
+                "clauses": [
+                  {
+                    "clause_id": "doc:49889:part:1:article:6:clause:1",
+                    "number": "1",
+                    "content": "1. Đơn đăng ký gia hạn chỉ định cơ sở\nkiểm nghiệm theo mẫu quy định tại Phụ lục 1 ban hành kèm theo Thông tư liên tịch này;",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:49889:part:1:article:6:clause:2",
+                    "number": "2",
+                    "content": "2. Kết quả so sánh liên phòng, thử\nnghiệm thành thạo đối với chỉ tiêu/phép thử do cơ quan quản lý nhà nước có thẩm quyền hoặc từ các nhà cung cấp thử nghiệm thành thạo, liên quan đến phạm vi đăng ký tổ chức;",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:49889:part:1:article:6:clause:3",
+                    "number": "3",
+                    "content": "3. Báo cáo kết quả thực hiện công tác\nkiểm nghiệm trong thời gian được chỉ định theo mẫu quy định tại Phụ lục 4 ban hành kèm theo Thông tư liên tịch này.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:49889:part:1:article:7",
+                "number": "8",
+                "title": "Hồ sơ đăng ký thay đổi, bổ sung phạm vi chỉ định Cơ sở kiểm nghiệm đã được chỉ định khi có thay đổi, bổ sung phạm vi chỉ định phải thực hiện việc đăng ký thay đổi, bổ sung gửi cơ quan quản lý nhà nước có thẩm quyền. Hồ sơ đăng ký thay đổi, bổ sung phạm vi chỉ định được thực hiện theo quy định tại Điều 6 Thông tư liên tịch này. Trường hợp cơ sở kiểm nghiệm đã được chỉ định có thay đổi tư cách pháp nhân hoặc địa chỉ cơ sở phải có văn bản nêu rõ các nội dung thay đổi.",
+                "content": "Điều 8. Hồ sơ đăng ký thay đổi, bổ sung phạm vi chỉ định Cơ sở kiểm nghiệm đã được chỉ định khi có thay đổi, bổ sung phạm vi chỉ định phải thực hiện việc đăng ký thay đổi, bổ sung gửi cơ quan quản lý nhà nước có thẩm quyền. Hồ sơ đăng ký thay đổi, bổ sung phạm vi chỉ định được thực hiện theo quy định tại Điều 6 Thông tư liên tịch này. Trường hợp cơ sở kiểm nghiệm đã được chỉ định có thay đổi tư cách pháp nhân hoặc địa chỉ cơ sở phải có văn bản nêu rõ các nội dung thay đổi.",
+                "clauses": [],
+                "points": []
+              },
+              {
+                "article_id": "doc:49889:part:1:article:8",
+                "number": "9",
+                "title": "Thủ tục chỉ định",
+                "content": "Điều 9. Thủ tục chỉ định",
+                "clauses": [
+                  {
+                    "clause_id": "doc:49889:part:1:article:8:clause:1",
+                    "number": "1",
+                    "content": "1. Trong thời gian mười (10)\nngày làm việc, kể từ ngày nhận hồ sơ, cơ quan quản lý nhà nước có thẩm quyền tiến hành soát xét hồ sơ. Nếu có yêu cầu sửa đổi, bổ sung phải có văn bản thông báo cho đơn vị nộp hồ sơ để hoàn chỉnh hồ sơ theo đúng quy định. Trường hợp không có yêu cầu sửa đổi, bổ sung thì cơ quan quản lý nhà nước có thẩm quyền tiến hành đánh giá theo quy định tại Điều 10 Thông tư liên tịch này.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:49889:part:1:article:8:clause:2",
+                    "number": "2",
+                    "content": "2. Đối với cơ sở\nkiểm nghiệm không thuộc đối tượng quy định tại Điểm đ Khoản 3 Điều 6 Thông tư liên tịch này:",
+                    "points": [
+                      {
+                        "point_id": "doc:49889:part:1:article:8:clause:2:point:1",
+                        "label": "a",
+                        "content": "a) Trong thời gian mười lăm (15) ngày làm việc, kể từ ngày nhận hồ sơ đầy đủ, hợp lệ, cơ quan quản\nlý nhà nước có thẩm quyền ký ban hành quyết định thành lập đoàn đánh giá cơ sở kiểm nghiệm.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:49889:part:1:article:8:clause:2:point:2",
+                        "label": "b",
+                        "content": "b) Đoàn đánh giá cơ sở kiểm nghiệm\nbao gồm các thành viên có kiến thức chuyên môn và kinh nghiệm về lĩnh vực đánh giá, chỉ định.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:49889:part:1:article:8:clause:2:point:3",
+                        "label": "c",
+                        "content": "c) Quyết định thành lập đoàn đánh giá\nphải nêu rõ phạm vi, nội dung đánh giá, danh sách và phân công trách nhiệm của từng thành viên tiến hành đánh giá tại cơ sở kiểm nghiệm. Trong thời gian năm (05) ngày làm việc, kể từ khi kết thúc đánh giá tại cơ sở 3 đoàn đánh giá phải gửi kết luận về cơ quan quản lý nhà nước có thẩm quyền (Mẫu Biên bản đánh giá cơ sở kiểm nghiệm quy định tại Phụ lục 5 ban hành kèm theo Thông tư liên tịch này).",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:49889:part:1:article:8:clause:2:point:4",
+                        "label": "d",
+                        "content": "d) Trong thời gian mười lăm (15) ngày\nlàm việc, kể từ khi nhận được kết luận của đoàn đánh giá, cơ quan quản lý nhà nước có thẩm quyền có trách nhiệm xem xét và chỉ định đơn vị kiểm nghiệm nếu đạt yêu cầu (mẫu Quyết định chỉ định quy định tại Phụ lục 6 ban hành kèm theo Thông tư liên tịch này). Nếu không đạt yêu cầu, cơ quan quản lý nhà nước có thẩm quyền phải có thông báo bằng văn bản về lý do không chỉ định cho cơ sở kiểm nghiệm.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:49889:part:1:article:8:clause:2:point:5",
+                        "label": "đ",
+                        "content": "đ) Trong trường hợp cần thiết, cơ\nquan quản lý nhà nước có thẩm quyền có thể thành lập hội đồng tư vấn trước khi ký ban hành Quyết định chỉ định.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:49889:part:1:article:8:clause:3",
+                    "number": "3",
+                    "content": "3. Đối với cơ sở kiểm nghiệm quy định tại Điểm đ Khoản 3 Điều 6 Thông tư liên tịch này:",
+                    "points": [
+                      {
+                        "point_id": "doc:49889:part:1:article:8:clause:3:point:1",
+                        "label": "a",
+                        "content": "a) Trong thời gian ba mươi (30) ngày\nlàm việc, kể từ ngày nhận hồ sơ đầy đủ, hợp lệ, cơ quan quản lý nhà nước có thẩm quyền thẩm định hồ sơ. Nếu hồ sơ năng lực đáp ứng theo quy định tại Điều 4, Điều 5 của Thông tư liên tịch này và các yêu cầu của Bộ quản lý ngành, cơ quan quản lý nhà nước có thẩm quyền ký ban hành Quyết định chỉ định cơ sở kiểm nghiệm kèm theo",
+                        "children": []
+                      }
+                    ]
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:49889:part:1:article:9",
+                "number": "10",
+                "title": "Đánh giá cơ sở kiểm nghiệm Đoàn đánh giá do cơ quan quản lý nhà nước có thẩm quyền thành lập tiến hành đánh giá tại cơ sở kiểm nghiệm (không áp dụng đối với cơ sở kiểm nghiệm quy định tại Điểm đ Khoản 3",
+                "content": "Điều 10. Đánh giá cơ sở kiểm nghiệm Đoàn đánh giá do cơ quan quản lý nhà nước có thẩm quyền thành lập tiến hành đánh giá tại cơ sở kiểm nghiệm (không áp dụng đối với cơ sở kiểm nghiệm quy định tại Điểm đ Khoản 3",
+                "clauses": [],
+                "points": []
+              },
+              {
+                "article_id": "doc:49889:part:1:article:10",
+                "number": "6",
+                "title": "và Điểm a Khoản 3 Điều 9 Thông tư liên tịch này). Các bước tiến hành đánh giá như sau:",
+                "content": "Điều 6 và Điểm a Khoản 3 Điều 9 Thông tư liên tịch này). Các bước tiến hành đánh giá như sau:",
+                "clauses": [
+                  {
+                    "clause_id": "doc:49889:part:1:article:10:clause:1",
+                    "number": "1",
+                    "content": "1. Đánh giá sự tuân thủ, phù hợp\ncủa cơ sở kiểm nghiệm đối với yêu cầu quy định tại Điều 5 của Thông tư liên tịch này;",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:49889:part:1:article:10:clause:2",
+                    "number": "2",
+                    "content": "2. Lập Báo cáo đánh giá cơ sở kiểm\nnghiệm theo mẫu quy định tại Phụ lục 7 ban hành kèm theo Thông tư liên tịch này;",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:49889:part:1:article:10:clause:3",
+                    "number": "3",
+                    "content": "3. Kết luận của\nđoàn đánh giá theo mẫu quy định tại Phụ lục 5 ban hành kèm theo Thông tư liên tịch này. Trên cơ sở báo cáo khắc phục của cơ sở kiểm nghiệm, nếu cần thiết, cơ quan quản lý nhà nước có thẩm quyền tiến hành xem xét đánh giá tại cơ sở kiểm nghiệm.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:49889:part:1:article:11",
+                "number": "11",
+                "title": "Cấp mã số cơ sở kiểm nghiệm",
+                "content": "Điều 11. Cấp mã số cơ sở kiểm nghiệm",
+                "clauses": [
+                  {
+                    "clause_id": "doc:49889:part:1:article:11:clause:1",
+                    "number": "1",
+                    "content": "1. Cơ quan quản lý nhà nước có thẩm\nquyền có trách nhiệm cấp và quản lý mã số cho các cơ sở kiểm nghiệm được chỉ định.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:49889:part:1:article:11:clause:2",
+                    "number": "2",
+                    "content": "2. Mã số cơ sở kiểm nghiệm được ký hiệu\nnhư sau: (số thứ tự)/(năm cấp)/BYT-KNTP (BCT-KNTP/BNN-KNTP). Ví dụ:\n001/2011/BYT-KNTP",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:49889:part:1:article:11:clause:3",
+                    "number": "3",
+                    "content": "3. Cách\nghi mã số cơ sở kiểm nghiệm:",
+                    "points": [
+                      {
+                        "point_id": "doc:49889:part:1:article:11:clause:3:point:1",
+                        "label": "a",
+                        "content": "a) Mã số cơ sở kiểm nghiệm được trình\nbày bằng chữ in hoa, phông chữ Times New Roman cỡ chữ 16, kiểu chữ đứng, đậm. Trong đó, số thứ tự của mã số cơ sở kiểm nghiệm gồm ba (03) chữ số.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:49889:part:1:article:11:clause:3:point:2",
+                        "label": "b",
+                        "content": "b) Mã số cơ sở kiểm nghiệm được in ở\ngóc trên bên trái phiếu kết quả kiểm nghiệm. Trên phiếu kết quả kiểm nghiệm cần ghi rõ các chỉ tiêu đã được chỉ định của cơ sở kiểm nghiệm.",
+                        "children": []
+                      }
+                    ]
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:49889:part:1:article:12",
+                "number": "12",
+                "title": "Cơ sở kiểm nghiệm kiểm chứng Căn cứ vào nhu cầu quản lý, các tiêu chí quy định tại Điều 4, Điều 5 của Thông tư liên tịch này và các quy định khác có liên quan theo quy định của Bộ quản lý ngành, Bộ quản lý ngành chỉ định cơ sở kiểm nghiệm kiểm chứng theo quy định của pháp luật.",
+                "content": "Điều 12. Cơ sở kiểm nghiệm kiểm chứng Căn cứ vào nhu cầu quản lý, các tiêu chí quy định tại Điều 4, Điều 5 của Thông tư liên tịch này và các quy định khác có liên quan theo quy định của Bộ quản lý ngành, Bộ quản lý ngành chỉ định cơ sở kiểm nghiệm kiểm chứng theo quy định của pháp luật.",
+                "clauses": [],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:49889:part:1:chapter:3",
+            "number": "4",
+            "title": "KIỂM TRA, GIÁM SÁT SAU CHỈ ĐỊNH",
+            "content": "Chương 4.\nKIỂM TRA, GIÁM SÁT SAU CHỈ ĐỊNH",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:49889:part:1:article:13",
+                "number": "13",
+                "title": "Phương thức kiểm tra, giám sát",
+                "content": "Điều 13. Phương thức kiểm tra, giám sát",
+                "clauses": [
+                  {
+                    "clause_id": "doc:49889:part:1:article:13:clause:1",
+                    "number": "1",
+                    "content": "1. Kiểm tra,\ngiám sát định kỳ: Một (01) lần/một (01) năm.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:49889:part:1:article:13:clause:2",
+                    "number": "2",
+                    "content": "2. Kiểm tra, giám sát đột xuất khi có\nyêu cầu của cơ quan quản lý.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:49889:part:1:article:14",
+                "number": "14",
+                "title": "So sánh liên phòng",
+                "content": "Điều 14. So sánh liên phòng",
+                "clauses": [
+                  {
+                    "clause_id": "doc:49889:part:1:article:14:clause:1",
+                    "number": "1",
+                    "content": "1. Đơn vị tổ chức so sánh liên phòng\nphải đáp ứng yêu cầu của Tiêu chuẩn quốc tế ISO/IEC 17043:2010 hoặc có năng lực tương đương.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:49889:part:1:article:14:clause:2",
+                    "number": "2",
+                    "content": "2. Trên cơ sở năng lực của các đơn vị\ntổ chức so sánh liên phòng đủ điều kiện, cơ quan quản lý nhà nước có thẩm quyền chỉ định đơn vị tiến hành tổ chức so sánh liên phòng.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:49889:part:1:article:15",
+                "number": "15",
+                "title": "Kiểm tra, giám sát hoạt động Áp dụng cho các cơ sở kiểm nghiệm được chỉ định với tần suất một (01) lần/một (01) năm. Kiểm tra, giám sát hoạt động bao gồm các hình thức sau:",
+                "content": "Điều 15. Kiểm tra, giám sát hoạt động Áp dụng cho các cơ sở kiểm nghiệm được chỉ định với tần suất một (01) lần/một (01) năm. Kiểm tra, giám sát hoạt động bao gồm các hình thức sau:",
+                "clauses": [
+                  {
+                    "clause_id": "doc:49889:part:1:article:15:clause:1",
+                    "number": "1",
+                    "content": "1. Đánh giá sơ bộ qua báo cáo hoạt động\ndo cơ sở kiểm nghiệm gửi về theo quy định (sáu (06) tháng và hàng năm).",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:49889:part:1:article:15:clause:2",
+                    "number": "2",
+                    "content": "2. Kiểm tra giám sát hoạt động tại cơ\nsở Cơ sở kiểm nghiệm được kiểm tra sẽ được thông báo trước khi thực hiện giám sát mười lăm (15) ngày. Đoàn kiểm tra do cơ quan nhà nước có thẩm quyền thành lập theo quyết định có trách nhiệm thực hiện các nhiệm vụ sau đây:",
+                    "points": [
+                      {
+                        "point_id": "doc:49889:part:1:article:15:clause:2:point:1",
+                        "label": "a",
+                        "content": "a) Đánh giá việc duy trì sự tuân thủ và phù hợp của hệ thống quản lý và năng lực của cơ sở kiểm\nnghiệm theo Điều 5 của Thông tư liên tịch này;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:49889:part:1:article:15:clause:2:point:2",
+                        "label": "b",
+                        "content": "b) Kiểm tra quy trình thực hiện các\nphép thử được chỉ định theo phương pháp đã đăng ký. Phương pháp phải đáp ứng yêu cầu của Quy chuẩn kỹ thuật tương ứng hoặc quy định hiện hành;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:49889:part:1:article:15:clause:2:point:3",
+                        "label": "c",
+                        "content": "c) Kiểm tra việc tuân thủ hệ thống\ntài liệu, quy trình, quy định trong kiểm nghiệm;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:49889:part:1:article:15:clause:2:point:4",
+                        "label": "d",
+                        "content": "d) Kiểm tra hồ sơ của quá trình kiểm nghiệm;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:49889:part:1:article:15:clause:2:point:5",
+                        "label": "đ",
+                        "content": "đ) Báo cáo kết quả giám sát theo mẫu\ntại Phụ lục 8 ban hành kèm theo Thông tư liên tịch này;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:49889:part:1:article:15:clause:2:point:6",
+                        "label": "e",
+                        "content": "e) Đoàn giám sát thẩm định kết quả khắc\nphục, báo cáo cơ quan quản lý nhà nước có thẩm quyền. Căn cứ báo cáo kết quả khắc phục, cơ quan quản lý nhà nước có thẩm quyền sẽ tiến hành kiểm tra thực tế tại cơ sở kiểm nghiệm nếu cần thiết.",
+                        "children": []
+                      }
+                    ]
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:49889:part:1:article:16",
+                "number": "16",
+                "title": "Miễn kiểm tra giám sát",
+                "content": "Điều 16. Miễn kiểm tra giám sát",
+                "clauses": [
+                  {
+                    "clause_id": "doc:49889:part:1:article:16:clause:1",
+                    "number": "1",
+                    "content": "1. Miễn kiểm tra giám sát đối với cơ sở kiểm nghiệm quy định tại Điểm đ Khoản 3 Điều 6 đáp ứng đầy đủ\ncác quy định tại Điều 4, Điều 5 của Thông tư liên tịch này và các quy định khác có liên quan theo quy định của Bộ quản lý ngành.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:49889:part:1:article:16:clause:2",
+                    "number": "2",
+                    "content": "2. Cơ sở kiểm nghiệm đáp ứng yêu cầu\nquy định tại Khoản 1 Điều này nộp một (01) bộ hồ sơ đề nghị miễn kiểm tra giám sát về cơ quan quản lý nhà nước có thẩm quyền. Hồ sơ bao gồm:",
+                    "points": [
+                      {
+                        "point_id": "doc:49889:part:1:article:16:clause:2:point:1",
+                        "label": "a",
+                        "content": "a) Công văn đề\nnghị miễn kiểm tra;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:49889:part:1:article:16:clause:2:point:2",
+                        "label": "b",
+                        "content": "b) Biên bản giám sát của cơ quan công\nnhận hợp chuẩn Tiêu chuẩn quốc gia TCVN ISO/IEC 17025: 2007 hoặc Tiêu chuẩn quốc tế ISO/IEC 17025:2005 (trong vòng mười hai (12) tháng kể từ ngày nộp hồ sơ);",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:49889:part:1:article:16:clause:2:point:3",
+                        "label": "c",
+                        "content": "c) Báo cáo kết quả hoạt động trong\nvòng mười hai (12) tháng kể từ ngày nộp hồ sơ, trong đó nêu rõ kết quả tự đánh giá năng lực phân tích của cơ sở kiểm nghiệm so với quy định có liên quan của Bộ quản lý ngành.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:49889:part:1:article:16:clause:3",
+                    "number": "3",
+                    "content": "3. Trong thời hạn không quá năm (05)\nngày làm việc, kể từ ngày nhận được hồ sơ đầy đủ và hợp lệ, cơ quan quản lý nhà nước có thẩm quyền thẩm định hồ sơ và trả lời kết quả bằng văn bản cho cơ sở kiểm nghiệm.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:49889:part:1:article:16:clause:4",
+                    "number": "4",
+                    "content": "4. Hằng năm, các cơ sở kiểm nghiệm được\nmiễn kiểm tra được quy định tại Khoản 1 Điều này vẫn phải chịu sự kiểm tra, giám sát đột xuất của cơ quan quản lý.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:49889:part:1:article:17",
+                "number": "17",
+                "title": "Thông báo kết quả kiểm tra, giám sát Căn cứ vào kết quả kiểm tra, giám sát; tùy theo mức độ vi phạm các quy định theo Thông tư liên tịch này, đoàn kiểm tra, giám sát đề xuất với cơ quan quản lý nhà nước có thẩm quyền hình thức xử lý sau:",
+                "content": "Điều 17. Thông báo kết quả kiểm tra, giám sát Căn cứ vào kết quả kiểm tra, giám sát; tùy theo mức độ vi phạm các quy định theo Thông tư liên tịch này, đoàn kiểm tra, giám sát đề xuất với cơ quan quản lý nhà nước có thẩm quyền hình thức xử lý sau:",
+                "clauses": [
+                  {
+                    "clause_id": "doc:49889:part:1:article:17:clause:1",
+                    "number": "1",
+                    "content": "1. Yêu cầu khắc phục và gửi báo cáo khắc\nphục về cơ quan quản lý nhà nước có thẩm quyền.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:49889:part:1:article:17:clause:2",
+                    "number": "2",
+                    "content": "2. Đình chỉ việc\nthực hiện Quyết định chỉ định. Sau khi cơ sở kiểm nghiệm hoàn thành và báo cáo việc khắc phục theo yêu cầu của đoàn kiểm tra, giám sát, cơ quan quản lý nhà nước có thẩm quyền tiến hành xem xét phục hồi Quyết định chỉ định.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:49889:part:1:article:17:clause:3",
+                    "number": "3",
+                    "content": "3. Thu hồi, hủy bỏ Quyết định chỉ định\nvà báo cáo Bộ quản lý ngành khi cơ sở thuộc một trong các trường hợp sau: bị giải thể; không còn hoạt động trong phạm vi đã được chỉ định; quá thời hạn khắc phục; các vi phạm không khắc phục được. Chương 5.\nTRÁCH NHIỆM CỦA\nCƠ QUAN QUẢN LÝ VÀ CƠ SỞ KIỂM NGHIỆM",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:49889:part:1:article:18",
+                "number": "18",
+                "title": "Trách nhiệm của cơ quan quản lý nhà nước có thẩm quyền",
+                "content": "Điều 18. Trách nhiệm của cơ quan quản lý nhà nước có thẩm quyền",
+                "clauses": [
+                  {
+                    "clause_id": "doc:49889:part:1:article:18:clause:1",
+                    "number": "1",
+                    "content": "1. Thực hiện tiếp nhận hồ sơ đăng ký chỉ định, gia hạn đăng ký chỉ định, đăng ký thay đổi bổ\nsung; tổ chức đánh giá, chỉ định cơ sở kiểm nghiệm.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:49889:part:1:article:18:clause:2",
+                    "number": "2",
+                    "content": "2. Kiểm tra, giám sát sau chỉ định.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:49889:part:1:article:18:clause:3",
+                    "number": "3",
+                    "content": "3. Bảo đảm tính khách quan và công bằng\ntrong hoạt động đánh giá, chỉ định, kiểm tra, giám sát.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:49889:part:1:article:18:clause:4",
+                    "number": "4",
+                    "content": "4. Bảo mật các thông tin, số liệu\nliên quan đến cơ sở kiểm nghiệm.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:49889:part:1:article:18:clause:5",
+                    "number": "5",
+                    "content": "5. Cấp, đình chỉ,\nhủy bỏ, phục hồi, thu hồi Quyết định chỉ định.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:49889:part:1:article:18:clause:6",
+                    "number": "6",
+                    "content": "6. Công bố danh sách cơ sở kiểm nghiệm\nđược chỉ định, bị đình chỉ, hủy bỏ, phục hồi, thu hồi Quyết định chỉ định.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:49889:part:1:article:18:clause:7",
+                    "number": "7",
+                    "content": "7. Tổ chức kiểm\ntra, giải quyết khiếu nại tố cáo liên quan đến cơ sở kiểm nghiệm theo quy định của pháp luật.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:49889:part:1:article:18:clause:8",
+                    "number": "8",
+                    "content": "8. Lưu hồ sơ cơ sở kiểm nghiệm.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:49889:part:1:article:18:clause:9",
+                    "number": "9",
+                    "content": "9. Thu, sử dụng phí, lệ phí đánh giá,\nchỉ định, giám sát hoạt động cơ sở kiểm nghiệm thực hiện theo quy định của pháp luật về phí và lệ phí.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:49889:part:1:article:19",
+                "number": "19",
+                "title": "Trách nhiệm của cơ sở kiểm nghiệm",
+                "content": "Điều 19. Trách nhiệm của cơ sở kiểm nghiệm",
+                "clauses": [
+                  {
+                    "clause_id": "doc:49889:part:1:article:19:clause:1",
+                    "number": "1",
+                    "content": "1. Thực hiện việc báo cáo định kỳ, đột\nxuất về cơ quan quản lý nhà nước có thẩm quyền:",
+                    "points": [
+                      {
+                        "point_id": "doc:49889:part:1:article:19:clause:1:point:1",
+                        "label": "a",
+                        "content": "a) Báo cáo định kỳ: Báo cáo hoạt động\nsáu (06) tháng trước ngày 10 tháng 7 và báo cáo năm trước ngày 30 tháng 12 hằng năm (theo mẫu tại Phụ lục 4 ban hành kèm theo Thông tư liên tịch này).",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:49889:part:1:article:19:clause:1:point:2",
+                        "label": "b",
+                        "content": "b) Báo cáo đột xuất: Theo yêu cầu của\ncơ quan quản lý nhà nước có thẩm quyền.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:49889:part:1:article:19:clause:2",
+                    "number": "2",
+                    "content": "2. Báo cáo khi có thay đổi liên quan\nđến phạm vi hoạt động kiểm nghiệm được chỉ định, trong thời hạn không quá ba mươi (30) ngày kể từ ngày có thay đổi. Các nội dung thay đổi phải báo cáo bao gồm:",
+                    "points": [
+                      {
+                        "point_id": "doc:49889:part:1:article:19:clause:2:point:1",
+                        "label": "a",
+                        "content": "a) Tư cách pháp nhân;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:49889:part:1:article:19:clause:2:point:2",
+                        "label": "b",
+                        "content": "b) Cơ cấu tổ chức và lãnh đạo;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:49889:part:1:article:19:clause:2:point:3",
+                        "label": "c",
+                        "content": "c) Chính sách và thủ tục;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:49889:part:1:article:19:clause:2:point:4",
+                        "label": "d",
+                        "content": "d) Địa chỉ, điện thoại, Fax, E-mail;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:49889:part:1:article:19:clause:2:point:5",
+                        "label": "đ",
+                        "content": "đ) Nhân sự, cán bộ chủ chốt, thiết bị,\ncơ sở vật chất, môi trường làm việc hoặc các nguồn lực khác nếu có tác động đến hệ thống quản lý;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:49889:part:1:article:19:clause:2:point:6",
+                        "label": "e",
+                        "content": "e) Các biện pháp khắc phục khi được\nyêu cầu theo mẫu quy định tại Phụ lục 9 ban hành kèm theo Thông tư liên tịch này.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:49889:part:1:article:19:clause:3",
+                    "number": "3",
+                    "content": "3. Ngoài việc thực hiện các quy định\ntại Khoản 1, Khoản 2, Điều này, cơ sở kiểm nghiệm còn phải thực hiện các nội dung sau:",
+                    "points": [
+                      {
+                        "point_id": "doc:49889:part:1:article:19:clause:3:point:1",
+                        "label": "a",
+                        "content": "a) Đảm bảo độ tin cậy, chính xác của\nkết quả kiểm nghiệm đối với các phép thử được chỉ định;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:49889:part:1:article:19:clause:3:point:2",
+                        "label": "b",
+                        "content": "b) Chịu sự kiểm tra, giám sát về hoạt\nđộng kiểm nghiệm của các đoàn thanh tra trong và ngoài nước khi có sự yêu cầu của cơ quan quản lý nhà nước;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:49889:part:1:article:19:clause:3:point:3",
+                        "label": "c",
+                        "content": "c) Tạo điều kiện thuận lợi cho đoàn\nđánh giá trong quá trình đánh giá tại cơ sở kiểm nghiệm;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:49889:part:1:article:19:clause:3:point:4",
+                        "label": "d",
+                        "content": "d) Chi trả phí, lệ phí cho việc đánh\ngiá, chỉ định, giám sát hoạt động cơ sở kiểm nghiệm thực hiện theo quy định của pháp luật về phí và lệ phí.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:49889:part:1:article:19:clause:4",
+                    "number": "4",
+                    "content": "4. Thực hiện các nghĩa vụ khác quy định\ntại Điều 20 Luật Chất lượng sản phẩm hàng hóa.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:49889:part:1:chapter:4",
+            "number": "6",
+            "title": "ĐIỀU KHOẢN THI HÀNH",
+            "content": "Chương 6.\nĐIỀU KHOẢN THI HÀNH",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:49889:part:1:article:20",
+                "number": "20",
+                "title": "Hiệu lực thi hành Thông tư liên tịch này có hiệu lực từ ngày 10 tháng 10 năm 2013. Các cơ sở kiểm nghiệm thực phẩm đã được chỉ định theo quy định của các Bộ quản lý ngành được tiếp tục duy trì hiệu lực cho đến hết thời hạn của Quyết định chỉ định.",
+                "content": "Điều 20. Hiệu lực thi hành Thông tư liên tịch này có hiệu lực từ ngày 10 tháng 10 năm 2013. Các cơ sở kiểm nghiệm thực phẩm đã được chỉ định theo quy định của các Bộ quản lý ngành được tiếp tục duy trì hiệu lực cho đến hết thời hạn của Quyết định chỉ định.",
+                "clauses": [],
+                "points": []
+              },
+              {
+                "article_id": "doc:49889:part:1:article:21",
+                "number": "21",
+                "title": "Tổ chức thực hiện Cục An toàn thực phẩm - Bộ Y tế, Vụ Khoa học và Công nghệ - Bộ Công Thương, Cục Quản lý chất lượng Nông lâm sản và Thủy sản - Bộ Nông nghiệp và Phát triển Nông thôn có trách nhiệm tổ chức, kiểm tra, giám sát và hướng dẫn thực hiện Thông tư liên tịch này. Trong quá trình thực hiện, nếu có vướng mắc, tổ chức, cá nhân cần kịp thời phản ánh về Bộ Y tế (Cục An toàn thực phẩm), Bộ Công Thương (Vụ Khoa học và Công nghệ), Bộ Nông nghiệp và Phát triển nông thôn (Cục Quản lý chất lượng Nông lâm sản và Thủy sản) để nghiên cứu, giải quyết./. KT. BỘ TRƯỞNG BỘ NÔNG NGHIỆP VÀ PHÁT TRIỂN NÔNG THÔN THỨ TRƯỞNG Nguyễn Thị Xuân Thu KT. BỘ TRƯỞNG BỘ CÔNG THƯƠNG THỨ TRƯỞNG Nguyễn Cẩm Tú KT. BỘ TRƯỞNG BỘ Y TẾ THỨ TRƯỞNG Nguyễn Thanh Long",
+                "content": "Điều 21. Tổ chức thực hiện Cục An toàn thực phẩm - Bộ Y tế, Vụ Khoa học và Công nghệ - Bộ Công Thương, Cục Quản lý chất lượng Nông lâm sản và Thủy sản - Bộ Nông nghiệp và Phát triển Nông thôn có trách nhiệm tổ chức, kiểm tra, giám sát và hướng dẫn thực hiện Thông tư liên tịch này. Trong quá trình thực hiện, nếu có vướng mắc, tổ chức, cá nhân cần kịp thời phản ánh về Bộ Y tế (Cục An toàn thực phẩm), Bộ Công Thương (Vụ Khoa học và Công nghệ), Bộ Nông nghiệp và Phát triển nông thôn (Cục Quản lý chất lượng Nông lâm sản và Thủy sản) để nghiên cứu, giải quyết./. KT. BỘ TRƯỞNG BỘ NÔNG NGHIỆP VÀ PHÁT TRIỂN NÔNG THÔN THỨ TRƯỞNG Nguyễn Thị Xuân Thu KT. BỘ TRƯỞNG BỘ CÔNG THƯƠNG THỨ TRƯỞNG Nguyễn Cẩm Tú KT. BỘ TRƯỞNG BỘ Y TẾ THỨ TRƯỞNG Nguyễn Thanh Long",
+                "clauses": [],
+                "points": []
+              }
+            ]
+          }
+        ],
+        "sections": [],
+        "articles": [
+          {
+            "article_id": "doc:49889:part:1:article:1",
+            "number": "1",
+            "title": "Phạm vi điều chỉnh và đối tượng áp dụng",
+            "content": "Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng",
+            "clauses": [
+              {
+                "clause_id": "doc:49889:part:1:article:1:clause:1",
+                "number": "1",
+                "content": "1. Phạm vi điều chỉnh: Thông tư liên\ntịch này quy định các điều kiện, trình tự, thủ tục chỉ định cơ sở kiểm nghiệm thực phẩm phục vụ quản lý nhà nước (sau đây gọi tắt là cơ sở kiểm nghiệm).",
+                "points": []
+              },
+              {
+                "clause_id": "doc:49889:part:1:article:1:clause:2",
+                "number": "2",
+                "content": "2. Đối tượng áp dụng: Thông tư liên tịch\nnày áp dụng đối với các cơ sở kiểm nghiệm, các cơ quan quản lý liên quan đến hoạt động đánh giá, chỉ định và quản lý các cơ sở kiểm nghiệm.",
+                "points": []
+              }
+            ],
+            "points": []
+          },
+          {
+            "article_id": "doc:49889:part:1:article:2",
+            "number": "2",
+            "title": "Giải thích từ ngữ Trong Thông tư liên tịch này các từ ngữ dưới đây được hiểu như sau:",
+            "content": "Điều 2. Giải thích từ ngữ Trong Thông tư liên tịch này các từ ngữ dưới đây được hiểu như sau:",
+            "clauses": [
+              {
+                "clause_id": "doc:49889:part:1:article:2:clause:1",
+                "number": "1",
+                "content": "1. Cơ sở kiểm nghiệm là tổ chức có tư cách pháp nhân thực hiện kiểm nghiệm các chỉ tiêu về\nchất lượng, an toàn thực phẩm.",
+                "points": []
+              },
+              {
+                "clause_id": "doc:49889:part:1:article:2:clause:2",
+                "number": "2",
+                "content": "2. Hệ thống quản lý chất lượng bao gồm hệ thống tài liệu quản lý và kĩ thuật nhằm đảm bảo chất lượng,\nchính xác, minh bạch kết quả kiểm nghiệm, toàn bộ hồ sơ liên quan đến hoạt động kiểm nghiệm và đảm bảo chất lượng kết quả kiểm nghiệm thực hiện tại cơ sở với phạm vi đăng ký như: nhân sự, trang thiết bị, cơ sở vật chất, phương pháp kiểm nghiệm.",
+                "points": []
+              },
+              {
+                "clause_id": "doc:49889:part:1:article:2:clause:3",
+                "number": "3",
+                "content": "3. So sánh liên phòng là việc đánh giá chất lượng kết quả kiểm nghiệm giữa hai hay nhiều cơ\nsở kiểm nghiệm do đơn vị độc lập tổ chức bằng cách so sánh kết quả kiểm nghiệm trên các mẫu đồng nhất với giá trị chung của tập hợp các kết quả có được từ các cơ sở kiểm nghiệm tham gia thử nghiệm thành thạo.",
+                "points": []
+              },
+              {
+                "clause_id": "doc:49889:part:1:article:2:clause:4",
+                "number": "4",
+                "content": "4. Thử nghiệm thành thạo là việc thực hiện các phép thử trên cùng một mẫu bởi hai hay nhiều cơ\nsở kiểm nghiệm theo các điều kiện định trước nhằm đánh giá khả năng thực hiện phép thử đó của cơ sở kiểm nghiệm.",
+                "points": []
+              },
+              {
+                "clause_id": "doc:49889:part:1:article:2:clause:5",
+                "number": "5",
+                "content": "5. Đánh giá cơ sở kiểm nghiệm là hoạt động xem xét sự phù hợp của hệ thống quản lý chất lượng và\nnăng lực phân tích đáp ứng yêu cầu kiểm nghiệm đối với các chỉ tiêu cụ thể về chất lượng, an toàn thực phẩm.",
+                "points": []
+              },
+              {
+                "clause_id": "doc:49889:part:1:article:2:clause:6",
+                "number": "6",
+                "content": "6. Lĩnh vực đăng ký chỉ định: Bao gồm các chỉ tiêu/phép thử áp dụng đối với các nhóm thực phẩm hoặc\nsản phẩm thực phẩm theo phạm vi được phân công quản lý của Bộ quản lý ngành.",
+                "points": []
+              }
+            ],
+            "points": []
+          },
+          {
+            "article_id": "doc:49889:part:1:article:3",
+            "number": "3",
+            "title": "Nguyên tắc chung Liên Bộ giao: Cục An toàn thực phẩm - Bộ Y tế; Vụ Khoa học và Công nghệ - Bộ Công Thương; Cục Quản lý chất lượng Nông lâm sản và Thủy sản - Bộ Nông nghiệp và Phát triển nông thôn là đơn vị giúp Bộ trưởng Bộ Y tế, Bộ trưởng Bộ Công Thương và Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn quản lý nhà nước về kiểm nghiệm thực phẩm (sau đây gọi tắt là cơ quan quản lý nhà nước có thẩm quyền) thực hiện việc tổ chức tiếp nhận hồ sơ đăng ký, đánh giá, chỉ định, kiểm tra, giám sát cơ sở kiểm nghiệm tương ứng với phạm vi quản lý nhà nước về an toàn thực phẩm được phân công.",
+            "content": "Điều 3. Nguyên tắc chung Liên Bộ giao: Cục An toàn thực phẩm - Bộ Y tế; Vụ Khoa học và Công nghệ - Bộ Công Thương; Cục Quản lý chất lượng Nông lâm sản và Thủy sản - Bộ Nông nghiệp và Phát triển nông thôn là đơn vị giúp Bộ trưởng Bộ Y tế, Bộ trưởng Bộ Công Thương và Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn quản lý nhà nước về kiểm nghiệm thực phẩm (sau đây gọi tắt là cơ quan quản lý nhà nước có thẩm quyền) thực hiện việc tổ chức tiếp nhận hồ sơ đăng ký, đánh giá, chỉ định, kiểm tra, giám sát cơ sở kiểm nghiệm tương ứng với phạm vi quản lý nhà nước về an toàn thực phẩm được phân công.",
+            "clauses": [],
+            "points": []
+          }
+        ],
+        "unstructured_blocks": []
+      },
+      {
+        "part_id": "doc:49889:part:2",
+        "part_type": "appendix",
+        "part_title": "PHỤ LỤC 1",
+        "reference": null,
+        "direct_text": null,
+        "chapters": [],
+        "sections": [],
+        "articles": [],
+        "unstructured_blocks": [
+          {
+            "block_id": "doc:49889:part:2:block:1",
+            "content": "PHỤ LỤC 1\nĐƠN ĐĂNG KÝ CHỈ ĐỊNH CƠ SỞ KIỂM NGHIỆM\n(Ban hành kèm theo Thông tư liên tịch số 20/2013/TTLT-BYT-BCT-BNNPTNT\nngày 01 tháng 8 năm 2013 của Bộ Y tế - Bộ Công Thương - Bộ Nông nghiệp và Phát triển nông thôn)\nCƠ SỞ KIỂM NGHIỆM\n--------\nCỘNG\nHÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc --------------- Số: ……/…….. ……, ngày……tháng…..năm…….\nĐƠN\nĐĂNG KÝ CHỈ ĐỊNH/GIA HẠN CHỈ ĐỊNH\nCƠ SỞ KIỂM NGHIỆM\nKính gửi: (Cơ quan quản lý nhà nước có thẩm quyền)\n1. Tên cơ sở kiểm nghiệm:\nĐịa chỉ: Điện thoại: Fax: E-mail:\n2. Họ tên, chức danh người phụ trách\ncơ sở kiểm nghiệm: Địa chỉ: Điện thoại: Fax: E-mail:\n3. Hình thức đề nghị chỉ định\nĐăng ký lần đầu  Đăng ký thay đổi, bổ sung  Đăng ký gia hạn \n4. Phạm vi đề nghị chỉ định\nTT\nLĩnh vực Tên phép thử Phương pháp thử Giới hạn phát hiện của phép thử (nếu có)/phạm vi đo Ghi chú (1) (2) (3) (4) (5) (6) Chú ý: ghi (*) đối với phép thử đã được công nhận và tại cột (6) ghi tên cơ quan công nhận tương ứng.\n5. Thời gian đề nghị bắt đầu đánh\ngiá: ngày....tháng....năm... (áp dụng đối với trường hợp quy định tại khoản 3, Điều 9 Thông tư liên tịch này)\n6. Chúng tôi cam\nkết thực hiện đầy đủ quy định tại Thông tư liên tịch số... /2013/TT-BYT-BCT-BNNPTNT ngày .... tháng .... năm 2013 của Bộ Y tế - Bộ Công Thương - Bộ Nông nghiệp và Phát triển nông thôn. Thủ trưởng đơn vị (Ký tên và đóng dấu) Phụ trách cơ sở kiểm nghiệm (Ký và ghi rõ họ tên)",
+            "indexable": true
+          }
+        ]
+      },
+      {
+        "part_id": "doc:49889:part:3",
+        "part_type": "appendix",
+        "part_title": "PHỤ LỤC 2",
+        "reference": null,
+        "direct_text": null,
+        "chapters": [],
+        "sections": [],
+        "articles": [],
+        "unstructured_blocks": [
+          {
+            "block_id": "doc:49889:part:3:block:1",
+            "content": "PHỤ LỤC 2\nMẪU BÁO CÁO NĂNG LỰC HOAT ĐỘNG CƠ SỞ\nKIỂM NGHIỆM\n(Ban hành kèm theo Thông tư liên tịch số 20/2013/TTLT-BYT-BCT-BNNPTNT ngày 01 tháng 8 năm 2013 của\nBộ Y tế - Bộ Công Thương - Bộ Nông nghiệp và Phát triển nông thôn)\nCƠ SỞ KIỂM NGHIỆM\n---------\nCỘNG\nHÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc --------------- Số: ……/…….. ……, ngày……tháng…..năm…….\nBÁO CÁO NĂNG LỰC HOẠT ĐỘNG\nCƠ SỞ KIỂM NGHIỆM\n1. Tên cơ sở kiểm nghiệm:\nĐịa chỉ: Điện thoại: Fax: E-mail:\n2. Họ tên, chức danh người phụ trách\ncơ sở kiểm nghiệm: Địa chỉ: Điện thoại: Fax: E-mail:\n3. Cán bộ, nhân viên của cơ sở kiểm nghiệm:\nTT\nHọ và tên Chứng chỉ đào tạo chuyên môn Chứng chỉ đào tạo hệ thống quản lý Công việc được giao hiện tại Thâm niên trong lĩnh vực kiểm nghiệm Ghi chú (1) (2) (3) (4) (5) (6) (7)\n4. Trang thiết bị\n4.1. Trang thiết bị cần kiểm định/hiệu chuẩn\nTT\nTên phương tiện đo lường Phạm vi đo, cấp chính xác Chu kỳ kiểm định, hiệu chuẩn Ngày kiểm định, hiệu chuẩn lần cuối Đơn vị kiểm định/hiệu chuẩn Ghi chú (1) (2) (3) (4) (5) (6) (7) 4.2. Trang thiết bị khác\nTT\nTên thiết bị Đặc trưng kỹ thuật Ngày đưa vào sử dụng Ghi chú 1 2 3 4 5\n5. Diện\ntích và môi trường của cơ sở kiểm nghiệm 5.1. Sơ đồ mặt bằng và diện tích của từng bộ phận của cơ sở kiểm nghiệm 5.2. Điều kiện môi trường các bộ phận của cơ sở kiểm nghiệm - Điều hòa nhiệt độ; - Khả năng thông khí và thoát hơi độc; - Các điều kiện bảo đảm khác ( chống rung, bụi, ồn, ánh sáng, phóng xạ...). 5.3. Các điều kiện bảo hộ và an toàn lao động cho cán bộ và nhân viên của cơ sở kiểm nghiệm\n6. Danh mục các lĩnh vực và phép thử\ncơ sở kiểm nghiệm đề nghị chỉ định\nSTT\nLĩnh vực Tên phép thử Phương pháp thử Giới hạn phát hiện (nếu có) Công suất kiểm nghiệm (số mẫu/năm) Kết quả thử nghiệm thành thạo/so sánh liên phòng 1 2 3 4 5 6 7 Ghi chú: cột (7) ghi rõ tên chương trình, chỉ tiêu và nền mẫu tham gia, kết quả.\n7. Kết quả hoạt động cơ sở kiểm nghiệm\nthực hiện 03 (ba) năm gần nhất\nSTT\nLĩnh vực Tên phép thử Phương pháp thử Tổng số mẫu Ghi chú 1 2 3 4 5 6\n8. Cơ sở kiểm nghiệm cam kết\n- Thực hiện Quyết định chỉ định và quản lý hoạt động cơ sở kiểm nghiệm; - Đáp ứng các yêu cầu của cơ quan đánh giá khi tiến hành đánh giá cơ sở kiểm nghiệm. Thủ trưởng đơn vị (Ký tên và đóng dấu) Phụ trách cơ sở kiểm nghiệm (Ký và ghi rõ họ tên)",
+            "indexable": true
+          }
+        ]
+      },
+      {
+        "part_id": "doc:49889:part:4",
+        "part_type": "appendix",
+        "part_title": "PHỤ LỤC 3",
+        "reference": null,
+        "direct_text": null,
+        "chapters": [],
+        "sections": [],
+        "articles": [],
+        "unstructured_blocks": [
+          {
+            "block_id": "doc:49889:part:4:block:1",
+            "content": "PHỤ LỤC 3\nMẪU PHIẾU KIỂM NGHIỆM\n(Ban hành kèm theo Thông tư liên tịch\nsố: 20/2013/TTLT-BYT-BCT-BNNPTNT ngày 01 tháng 8 năm 2013 của Bộ Y tế - Bộ Công Thương - Bộ Nông nghiệp và Phát triển nông thôn)\nCƠ SỞ KIỂM NGHIỆM\n---------\nCỘNG\nHÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc --------------- Số: ……/……..\nPHIẾU KIỂM NGHIỆM\n(Kết quả kiểm nghiệm chỉ có giá trị với mẫu đem thử)\n1. Tên mẫu: (Ghi tên của mẫu kiểm nghiệm)\n2. Mã số mẫu:\n3. Mô tả mẫu: (tình trạng mẫu khi nhận, khối lượng mẫu, ngày sản xuất, hạn\nsử dụng, tình trạng lưu mẫu)\n4. Thời gian lưu mẫu:\n5. Ngày lấy mẫu:\n6. Ngày nhận mẫu:\n7. Thời gian kiểm nghiệm:\n8. Nơi gửi mẫu:\n9. Tài liệu kèm theo: (ghi\nrõ nội dung, số, ngày, tháng năm của công văn hay giấy tờ kèm theo)\n10. Kết quả kiểm nghiệm (các chỉ tiêu\nđã được chỉ định của cơ sở kiểm nghiệm):\nTT\nChỉ tiêu kiểm nghiệm Phương pháp kiểm nghiệm Đơn vị Kết quả So với QCVN.../ TCVN.../QĐ... 1 2 ….. ………………. ………………… ………… ……………. ……………………\n11. Kết luận:\n(Cần nêu rõ mẫu có đạt yêu cầu hay không)\n12. Ghi chú: (nếu có)\nThủ trưởng đơn vị (Ký tên và đóng dấu) Phụ trách cơ sở kiểm nghiệm (Ký và ghi rõ họ tên) …., ngày…..tháng….năm…. Kiểm nghiệm viên (Ký và ghi rõ họ tên)",
+            "indexable": true
+          }
+        ]
+      },
+      {
+        "part_id": "doc:49889:part:5",
+        "part_type": "appendix",
+        "part_title": "PHỤ LỤC 4",
+        "reference": null,
+        "direct_text": null,
+        "chapters": [],
+        "sections": [],
+        "articles": [],
+        "unstructured_blocks": [
+          {
+            "block_id": "doc:49889:part:5:block:1",
+            "content": "PHỤ LỤC 4\nMẪU BÁO CÁO KẾT QUẢ HOẠT ĐỘNG\n(Ban hành kèm theo Thông tư liên tịch\nsố 20/2013/TTLT-BYT-BCT-BNNPTNT ngày 01 tháng 8 năm 2013 của Bộ Y tế - Bộ Công Thương - Bộ Nông nghiệp và Phát triển nông thôn)\nCƠ SỞ KIỂM NGHIỆM\n---------\nCỘNG\nHÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc --------------- Số: ……/…….. ……, ngày…..tháng……..năm……\nBÁO CÁO KẾT QUẢ HOẠT ĐỘNG\nCƠ SỞ KIỂM NGHIỆM\n1. Tên cơ sở kiểm nghiệm:\nĐịa chỉ: Điện thoại: Fax: E-mail: Họ tên, chức danh, người phụ trách cơ sở kiểm nghiệm: Điện thoại: Fax: E-mail:\n3. Đào tạo: Nâng cao trình độ chuyên môn cho cán bộ cơ sở kiểm nghiệm trong 6 tháng (hoặc 12\ntháng) năm ……\nTT\nHọ và tên Chức vụ Khóa đào tạo tham gia Thời gian Kết quả đạt được Ghi chú (1) (2) (3) (4) (5) (6) (7)\n4. Trang thiết bị\n4.1. Trang thiết bị được kiểm định/hiệu chuẩn trong 6 tháng (hoặc 12 tháng) năm ……..\nTT\nTên phương tiện đo lường Phạm vi đo, cấp chính xác Chu kỳ kiểm định, hiệu chuẩn Ngày kiểm định, hiệu chuẩn lần cuối Đơn vị kiểm định/hiệu chuẩn Ghi chú (1) (2) (3) (4) (5) (6) (7) 4.2. Trang thiết bị mới được bổ sung trong 6 tháng (hoặc 12 tháng) năm …….\nTT\nTên thiết bị Đặc trưng kỹ thuật Ngày đưa vào sử dụng Ghi chú 1 2 3 4 6\n5. Lĩnh vực và phép thử cơ sở kiểm nghiệm thực hiện trong 6 tháng (hoặc 12\ntháng) năm …..\nSTT\nLĩnh vực Tên phép thử Phương pháp thử Công suất kiểm nghiệm (tổng số mẫu/ 6 tháng (hoặc 12 tháng)) Giới hạn phát hiện (nếu có) Ghi chú 1 2 3 4 5 6 7\n6. Đảm bảo chất lượng kết quả kiểm\nnghiệm (tham gia thử nghiệm thành thạo/so sánh liên phòng) thực hiện 6 tháng (hoặc 12 tháng) năm ………:\nSTT\nTên phép thử Phương pháp thử Nền mẫu Đơn vị tổ chức Thời gian tham gia Kết quả 1 2 3 4 5 6 7\n7. Kết quả hoạt động cơ sở kiểm nghiệm\nthực hiện 6 tháng (hoặc 12 tháng) năm\nSTT\nLĩnh vực Loại thực phẩm Tên phép thử Phương pháp thử Tổng số mẫu Số mẫu không đạt yêu cầu 1 2 3 4 5 6 7 Thủ trưởng đơn vị (Ký tên và đóng dấu) Phụ trách cơ sở kiểm nghiệm (Ký, ghi rõ họ tên)",
+            "indexable": true
+          }
+        ]
+      },
+      {
+        "part_id": "doc:49889:part:6",
+        "part_type": "appendix",
+        "part_title": "PHỤ LỤC 5",
+        "reference": null,
+        "direct_text": null,
+        "chapters": [],
+        "sections": [],
+        "articles": [],
+        "unstructured_blocks": [
+          {
+            "block_id": "doc:49889:part:6:block:1",
+            "content": "PHỤ LỤC 5\nBIÊN BẢN ĐÁNH GIÁ CƠ SỞ KIỂM NGHIỆM\n(Ban hành kèm theo Thông tư liên\ntịch số: 20/2013/TTLT-BYT-BCT-BNNPTNT ngày 01 tháng 8 năm 2013 của Bộ Y tế - Bộ Công Thương - Bộ Nông nghiệp và Phát triển nông thôn)\nCỘNG\nHÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc --------------- ……, ngày…….tháng….năm…….\nBIÊN BẢN\nĐÁNH GIÁ CƠ SỞ KIỂM NGHIỆM\nĐoàn đánh giá cơ sở kiểm nghiệm ………….. được thành lập theo Quyết định số .... /QĐ-.... ngày ... tháng ... năm ... của cơ quan quản lý nhà nước có thẩm quyền, gồm: (Họ, tên trưởng đoàn đánh giá, thư ký, các thành viên)\n1. Tên cơ sở kiểm nghiệm:\nĐịa chỉ: Điện thoại: Fax: E-mail:\n2. Kết luận của\nTrưởng đoàn đánh giá 2.1. Các điều phù hợp: 2.2. Các điều không phù hợp:\nTT\nCác điều không phù hợp Mức 1 Mức 2 Căn cứ/chuẩn mực (1) (2) (3) (4) (5) 2.3. Đề nghị cơ quan quản lý nhà nước có thẩm quyền chỉ định (tên cơ sở kiểm nghiệm), thuộc ……….. là cơ sở kiểm nghiệm được chỉ định đối với các lĩnh vực và phép thử sau sau khi cơ sở kiểm nghiệm hoàn thành việc khắc phục toàn bộ các điều không phù hợp nêu trên:\nTT\nLĩnh vực Tên phép thử hoặc loại phép thử Phương pháp thử Ghi chú (1) (2) (3) (4) (5)\n3. Biên\nbản này được thông qua với sự đồng ý của ……. thành viên đoàn đánh giá.\n4. Ý kiến khác nếu có (nêu rõ nội dung và tên người\ncó ý kiến khác)\n5. Tài liệu khác kèm theo biên bản gồm:\n………………………………….. Đại diện cơ sở kiểm nghiệm (Ký và ghi rõ họ, tên) Thư ký đoàn đánh giá (Ký và ghi rõ họ, tên) Trưởng đoàn đánh giá (Ký và ghi rõ họ, tên)",
+            "indexable": true
+          }
+        ]
+      },
+      {
+        "part_id": "doc:49889:part:7",
+        "part_type": "appendix",
+        "part_title": "PHỤ LỤC 6",
+        "reference": null,
+        "direct_text": "PHỤ LỤC 6\nMẪU QUYẾT ĐỊNH CHỈ ĐỊNH CƠ SỞ KIỂM NGHIỆM\n(Ban hành kèm theo Thông tư liên tịch\nsố: 20/2013/TTLT-BYT-BCT-BNNPTNT ngày 01 tháng 8 năm 2013 của Bộ Y tế - Bộ Công Thương - Bộ Nông nghiệp và Phát triển nông thôn)\nBỘ QUẢN LÝ CHUYÊN NGÀNH\nCƠ QUAN QUẢN LÝ NHÀ NƯỚC CÓ THẨM QUYỀN\nCỘNG\nHÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc --------------- Số: …/QĐ-… Hà Nội, ngày …. tháng…..năm….\nQUYẾT ĐỊNH VỀ VIỆC\nCHỈ ĐỊNH CƠ SỞ KIỂM NGHIỆM THỰC PHẨM PHỤC VỤ QUẢN LÝ NHÀ NƯỚC VỀ AN TOÀN THỰC\nPHẨM\nCăn cứ Luật an toàn thực phẩm ngày 17 tháng 6 năm 2010; Căn cứ Nghị định số 38/2012/NĐ-CP ngày 25 tháng 4 năm 2012 quy định chi tiết thi hành một số điều của Luật an toàn thực phẩm; Căn cứ Thông tư liên tịch số ... /2013/TTLT-BYT-BCT-BNNPTNT ngày …. tháng ... năm 2013 của Bộ Y tế - Bộ Công Thương - Bộ Nông nghiệp và Phát triển nông thôn quy định yêu cầu, trình tự thủ tục chỉ định đối với cơ sở kiểm nghiệm phục vụ quản lý nhà nước về thực phẩm; (Thủ trưởng cơ quan nhà nước có thẩm quyền) …………………….,\nQUYẾT ĐỊNH:",
+        "chapters": [],
+        "sections": [],
+        "articles": [
+          {
+            "article_id": "doc:49889:part:7:article:1",
+            "number": "1",
+            "title": "Chỉ định …….. (tên cơ sở kiểm nghiệm), địa chỉ………………. được chỉ định kiểm nghiệm thực phẩm đối với các chỉ tiêu kỹ thuật có tên trong danh mục chỉ tiêu được chỉ định kèm theo Quyết định này. - Mã số cơ sở kiểm nghiệm: ..../20..../BYT-KNTP (BCT-KNTP/BNN-KNTP).",
+            "content": "Điều 1. Chỉ định …….. (tên cơ sở kiểm nghiệm), địa chỉ………………. được chỉ định kiểm nghiệm thực phẩm đối với các chỉ tiêu kỹ thuật có tên trong danh mục chỉ tiêu được chỉ định kèm theo Quyết định này. - Mã số cơ sở kiểm nghiệm: ..../20..../BYT-KNTP (BCT-KNTP/BNN-KNTP).",
+            "clauses": [],
+            "points": []
+          },
+          {
+            "article_id": "doc:49889:part:7:article:2",
+            "number": "2",
+            "title": "Quyết định này có hiệu lực ba (03) năm, kể từ ngày ký.",
+            "content": "Điều 2. Quyết định này có hiệu lực ba (03) năm, kể từ ngày ký.",
+            "clauses": [],
+            "points": []
+          },
+          {
+            "article_id": "doc:49889:part:7:article:3",
+            "number": "3",
+            "title": "(Tên cơ sở kiểm nghiệm) ……. có trách nhiệm thực hiện công tác kiểm nghiệm phục vụ quản lý nhà nước khi có yêu cầu và phải tuân thủ các quy định và hướng dẫn của cơ quan quản lý nhà nước có thẩm quyền.",
+            "content": "Điều 3. (Tên cơ sở kiểm nghiệm) ……. có trách nhiệm thực hiện công tác kiểm nghiệm phục vụ quản lý nhà nước khi có yêu cầu và phải tuân thủ các quy định và hướng dẫn của cơ quan quản lý nhà nước có thẩm quyền.",
+            "clauses": [],
+            "points": []
+          }
+        ],
+        "unstructured_blocks": []
+      },
+      {
+        "part_id": "doc:49889:part:8",
+        "part_type": "appendix",
+        "part_title": "PHỤ LỤC 7",
+        "reference": null,
+        "direct_text": null,
+        "chapters": [],
+        "sections": [],
+        "articles": [],
+        "unstructured_blocks": [
+          {
+            "block_id": "doc:49889:part:8:block:1",
+            "content": "PHỤ LỤC 7\nMẪU BÁO CÁO ĐÁNH GIÁ CƠ SỞ KIỂM NGHIỆM\n(Ban hành kèm theo Thông tư liên tịch\nsố: 20/2013/TTLT-BYT-BCT-BNNPTNT ngày 01 tháng 8 năm 2013 của Bộ Y tế - Bộ Công Thương - Bộ Nông nghiệp và Phát triển nông thôn)\nCỘNG\nHÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc --------------- ………, ngày…….tháng……năm……\nBÁO CÁO\nĐÁNH GIÁ CƠ SỞ KIỂM NGHIỆM\n1. Tên cơ sở kiểm nghiệm được đánh\ngiá: Địa chỉ: Điện thoại: Fax: E-mail:\n2. Phạm vi đề nghị chỉ định: Các lĩnh vực và phép thử đề nghị chỉ định.\n3. Đoàn đánh giá hoặc thành viên đoàn\nđánh giá: (ghi rõ họ, tên)\n4. Thời gian\nđánh giá\n5. Các căn cứ để đánh giá\n- Hệ thống quản lý chất lượng cơ sở kiểm nghiệm; - Các quy trình kỹ thuật của cơ sở kiểm nghiệm; - Tiêu chuẩn, quy định yêu cầu về năng lực cơ sở kiểm nghiệm.\n6. Nội dung đánh giá:\n- TCVN ISO/IEC 17025:2007 hoặc các tiêu chuẩn tương đương khác; - Sự tuân thủ và phù hợp của cơ sở kiểm nghiệm theo quy định tại Điều 5 Thông tư liên tịch này (các điểm không phù hợp của cơ sở kiểm nghiệm).\n7. Kết quả đánh giá\nKết luận về từng nội dung đánh giá (có hồ sơ, biên bản đánh giá kèm theo).\n8. Kết luận và kiến nghị của trưởng\nđoàn đánh giá ………………………………………………………………………………………………………….. ………………………………………………………………………………………………………….. Trưởng đoàn đánh giá (Ký và ghi rõ họ, tên)",
+            "indexable": true
+          }
+        ]
+      },
+      {
+        "part_id": "doc:49889:part:9",
+        "part_type": "appendix",
+        "part_title": "PHỤ LỤC 8",
+        "reference": null,
+        "direct_text": null,
+        "chapters": [],
+        "sections": [],
+        "articles": [],
+        "unstructured_blocks": [
+          {
+            "block_id": "doc:49889:part:9:block:1",
+            "content": "PHỤ LỤC 8\nMẪU BÁO CÁO KẾT QUẢ GIÁM SÁT\n(Ban hành kèm theo Thông tư liên tịch\nsố: 20/2013/TTLT-BYT-BCT-BNNPTNT ngày 01 tháng 8 năm 2013 của Bộ Y tế - Bộ Công Thương - Bộ Nông nghiệp và Phát triển nông thôn)\nCỘNG\nHÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc --------------- ………, ngày…….tháng……năm……\nBÁO CÁO KẾT QUẢ GIÁM SÁT\nTên cơ sở kiểm nghiệm được giám sát: Mã số: Phạm vi được chỉ định: Họ và tên các cán bộ giám sát: I. Nội dung giám sát ……………………………………………………………………………………………………………. ……………………………………………………………………………………………………………. ……………………………………………………………………………………………………………. ……………………………………………………………………………………………………………. II. Các điều không phù hợp được phát hiện ……………………………………………………………………………………………………………. ……………………………………………………………………………………………………………. ……………………………………………………………………………………………………………. …………………………………………………………………………………………………………….\nIII.\nThời hạn báo cáo kết quả khắc phục các điều không phù hợp ……………………………………………………………………………………………………………. ……………………………………………………………………………………………………………. ……………………………………………………………………………………………………………. …………………………………………………………………………………………………………….",
+            "indexable": true
+          }
+        ]
+      },
+      {
+        "part_id": "doc:49889:part:10",
+        "part_type": "appendix",
+        "part_title": "PHỤ LỤC 9",
+        "reference": null,
+        "direct_text": null,
+        "chapters": [],
+        "sections": [],
+        "articles": [],
+        "unstructured_blocks": [
+          {
+            "block_id": "doc:49889:part:10:block:1",
+            "content": "PHỤ LỤC 9\nMẪU BÁO CÁO KẾT QUẢ THỰC HIỆN HÀNH ĐỘNG\nKHẮC PHỤC\n(Ban hành kèm theo Thông tư liên tịch\nsố: 20/2013/TTLT-BYT-BCT-BNNPTNT ngày 01 tháng 8 năm 2013 của Bộ Y tế - Bộ Công Thương - Bộ Nông nghiệp và Phát triển nông thôn)\nCỘNG\nHÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc --------------- ………, ngày…….tháng……năm…… Kính gửi: (Cơ quan quản lý nhà nước có thẩm quyền)\nBÁO CÁO\nKẾT QUẢ THỰC HIỆN BIỆN PHÁP KHẮC PHỤC\n1 .Tên cơ sở kiểm nghiệm được giám sát:\n2. Mã số chỉ định:\n3. Điều không phù hợp được phát hiện: Mức độ:\n4. Nguyên nhân\n5. Biện pháp khắc phục\n6. Những thay đổi\nkèm theo để hoàn chỉnh hệ thống quản lý (nếu có) Thủ trưởng đơn vị (Ký, ghi rõ họ tên) Người báo cáo (Ký, ghi rõ họ tên)\n7. Ý kiến thẩm định của Trưởng đoàn\ngiám sát ……………………………………………………………………………………………………………. …………………………………………………………………………………………………………….\n8. Kết luận của Trưởng đoàn giám sát\n……………………………………………………………………………………………………………. ……………………………………………………………………………………………………………. Thư ký đoàn giám sát (Ký, ghi rõ họ tên) ………, ngày……tháng……..năm Trưởng đoàn giám sát (Ký, ghi rõ họ tên)",
+            "indexable": true
+          }
+        ]
+      }
+    ]
+  },
+  "issues": [],
+  "status": "ok",
+  "source_hash": "context_49889.json",
+  "stats": {
+    "source_chars": 36607,
+    "passage_chars": 36388,
+    "parts": 10,
+    "chapters": 4,
+    "sections": 0,
+    "articles": 24,
+    "clauses": 54,
+    "points": 34
+  }
+}

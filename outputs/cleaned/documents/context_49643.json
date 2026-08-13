@@ -1,0 +1,1086 @@
+{
+  "schema_version": "2.0",
+  "document_id": 49643,
+  "metadata": {
+    "name": "Quyet-dinh-922-QD-BXD-2022-Quy-che-hoat-dong-He-thong-thong-tin-giai-quyet-thu-tuc-hanh-chinh-541916",
+    "link": "https://thuvienphapluat.vn/van-ban/Cong-nghe-thong-tin/Quyet-dinh-922-QD-BXD-2022-Quy-che-hoat-dong-He-thong-thong-tin-giai-quyet-thu-tuc-hanh-chinh-541916.aspx",
+    "issuing_agency": "BỘ XÂY DỰNG",
+    "national_header": "CỘNG\r\n\n  HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM",
+    "motto": "Độc lập - Tự do - Hạnh phúc",
+    "document_number": "922/QĐ-BXD",
+    "issued_place": "Hà Nội",
+    "issued_date": "ngày 24 tháng 10 năm 2022",
+    "document_type": "QUYẾT ĐỊNH",
+    "title": "BAN HÀNH QUY CHẾ HOẠT ĐỘNG CỦA HỆ THỐNG THÔNG TIN GIẢI QUYẾT THỦ TỤC HÀNH CHÍNH BỘ XÂY DỰNG"
+  },
+  "administrative_header": {
+    "removed": true,
+    "removed_char_count": 147
+  },
+  "preamble": {
+    "text": "QUYẾT ĐỊNH\nBAN HÀNH QUY CHẾ HOẠT ĐỘNG CỦA HỆ THỐNG THÔNG TIN GIẢI QUYẾT THỦ TỤC\nHÀNH CHÍNH BỘ XÂY DỰNG BỘ TRƯỞNG BỘ XÂY DỰNG\nCăn cứ Luật Công nghệ thông tin số 67/2006/QH11 ngày 29/06/2006 của Quốc Hội; Căn cứ Luật Giao dịch điện tử số 51/2005/QH11 ngày 29/11/2005 của Quốc Hội; Căn cứ nghị định số 52/2022/NĐ-CP ngày 08/8/2022 của Chính phủ về quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Xây dựng; Căn cứ Nghị định số 20/2008/NĐ-CP ngày 14/02/2008 của Chính phủ việc tiếp nhận, xử lý phản ánh, kiến nghị của cá nhân, tổ chức về quy định hành chính; Căn cứ Nghị định số 63/2010/NĐ-CP ngày 08/6/2010 của Chính phủ về kiểm soát thủ tục hành chính; Căn cứ Nghị định số 92/2017/NĐ-CP ngày 07/8/2017 của Chính phủ về sửa đổi, bổ sung một số điều của các nghị định liên quan đến kiểm soát thủ tục hành chính; Căn cứ Nghị định số 42/2012/NĐ-CP ngày 24/6/2022 của Chính phủ Quy định về việc cung cấp thông tin và dịch vụ công trực tuyến của cơ quan nhà nước trên môi trường mạng; Căn cứ Nghị định số 61/2018/NĐ-CP ngày 23/4/2018 của Chính phủ về thực hiện cơ chế một cửa, một cửa liên thông trong giải quyết thủ tục hành chính; Căn cứ Nghị định số 107/2021/NĐ-CP ngày 6/12/2021 của Chính phủ về sửa đổi, bổ sung một số điều của Nghị định số 61/2018/NĐ-CP ngày 23/4/2018 của Chính phủ về thực hiện cơ chế một cửa, một cửa liên thông trong giải quyết thủ tục hành chính; Căn cứ Nghị định số 45/2020/NĐ-CP ngày 08/4/2020 của Chính phủ về thực hiện thủ tục hành chính trên môi trường điện tử; Căn cứ Nghị định số 47/2020/NĐ-CP ngày 09/4/2020 của Chính phủ về quản lý, kết nối và chia sẻ dữ liệu số trong cơ quan nhà nước; Căn cứ Quyết định số 468/QĐ-TTg ngày 27/3/2021 của Chính phủ phê duyệt đề án đổi mới việc thực hiện cơ chế một cửa, một cửa liên thông trong giải quyết thủ tục hành chính; Căn cứ Thông tư số 01/2018/TT-VPCP ngày 23/11/2018 của Văn phòng Chính phủ hướng dẫn thi hành một số quy định của Nghị định số 61/2018/CĐ-CP ngày 23/4/2018 của Chính phủ về thực hiện cơ chế một cửa, một cửa liên thông trong giải quyết thủ tục hành chính; Theo đề nghị của Giám đốc Trung tâm Thông tin.\nQUYẾT ĐỊNH:",
+    "legal_bases": [
+      "Căn cứ Luật Giao dịch điện tử số 51/2005/QH11 ngày 29/11/2005 của Quốc Hội",
+      "Căn cứ nghị định số 52/2022/NĐ-CP ngày 08/8/2022 của Chính phủ về quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Xây dựng",
+      "Căn cứ Nghị định số 20/2008/NĐ-CP ngày 14/02/2008 của Chính phủ việc tiếp nhận, xử lý phản ánh, kiến nghị của cá nhân, tổ chức về quy định hành chính",
+      "Căn cứ Nghị định số 63/2010/NĐ-CP ngày 08/6/2010 của Chính phủ về kiểm soát thủ tục hành chính",
+      "Căn cứ Nghị định số 92/2017/NĐ-CP ngày 07/8/2017 của Chính phủ về sửa đổi, bổ sung một số điều của các nghị định liên quan đến kiểm soát thủ tục hành chính",
+      "Căn cứ Nghị định số 42/2012/NĐ-CP ngày 24/6/2022 của Chính phủ Quy định về việc cung cấp thông tin và dịch vụ công trực tuyến của cơ quan nhà nước trên môi trường mạng",
+      "Căn cứ Nghị định số 61/2018/NĐ-CP ngày 23/4/2018 của Chính phủ về thực hiện cơ chế một cửa, một cửa liên thông trong giải quyết thủ tục hành chính",
+      "Căn cứ Nghị định số 107/2021/NĐ-CP ngày 6/12/2021 của Chính phủ về sửa đổi, bổ sung một số điều của Nghị định số 61/2018/NĐ-CP ngày 23/4/2018 của Chính phủ về thực hiện cơ chế một cửa, một cửa liên thông trong giải quyết thủ tục hành chính",
+      "Căn cứ Nghị định số 45/2020/NĐ-CP ngày 08/4/2020 của Chính phủ về thực hiện thủ tục hành chính trên môi trường điện tử",
+      "Căn cứ Nghị định số 47/2020/NĐ-CP ngày 09/4/2020 của Chính phủ về quản lý, kết nối và chia sẻ dữ liệu số trong cơ quan nhà nước",
+      "Căn cứ Quyết định số 468/QĐ-TTg ngày 27/3/2021 của Chính phủ phê duyệt đề án đổi mới việc thực hiện cơ chế một cửa, một cửa liên thông trong giải quyết thủ tục hành chính",
+      "Căn cứ Thông tư số 01/2018/TT-VPCP ngày 23/11/2018 của Văn phòng Chính phủ hướng dẫn thi hành một số quy định của Nghị định số 61/2018/CĐ-CP ngày 23/4/2018 của Chính phủ về thực hiện cơ chế một cửa, một cửa liên thông trong giải quyết thủ tục hành chính"
+    ],
+    "proposals": [
+      "Theo đề nghị của Giám đốc Trung tâm Thông tin.\nQUYẾT ĐỊNH:"
+    ],
+    "enactment_formula": "QUYẾT ĐỊNH"
+  },
+  "passage": "QUYẾT ĐỊNH\nBAN HÀNH QUY CHẾ HOẠT ĐỘNG CỦA HỆ THỐNG THÔNG TIN GIẢI QUYẾT THỦ TỤC\nHÀNH CHÍNH BỘ XÂY DỰNG BỘ TRƯỞNG BỘ XÂY DỰNG\nCăn cứ Luật Công nghệ thông tin số 67/2006/QH11 ngày 29/06/2006 của Quốc Hội; Căn cứ Luật Giao dịch điện tử số 51/2005/QH11 ngày 29/11/2005 của Quốc Hội; Căn cứ nghị định số 52/2022/NĐ-CP ngày 08/8/2022 của Chính phủ về quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Xây dựng; Căn cứ Nghị định số 20/2008/NĐ-CP ngày 14/02/2008 của Chính phủ việc tiếp nhận, xử lý phản ánh, kiến nghị của cá nhân, tổ chức về quy định hành chính; Căn cứ Nghị định số 63/2010/NĐ-CP ngày 08/6/2010 của Chính phủ về kiểm soát thủ tục hành chính; Căn cứ Nghị định số 92/2017/NĐ-CP ngày 07/8/2017 của Chính phủ về sửa đổi, bổ sung một số điều của các nghị định liên quan đến kiểm soát thủ tục hành chính; Căn cứ Nghị định số 42/2012/NĐ-CP ngày 24/6/2022 của Chính phủ Quy định về việc cung cấp thông tin và dịch vụ công trực tuyến của cơ quan nhà nước trên môi trường mạng; Căn cứ Nghị định số 61/2018/NĐ-CP ngày 23/4/2018 của Chính phủ về thực hiện cơ chế một cửa, một cửa liên thông trong giải quyết thủ tục hành chính; Căn cứ Nghị định số 107/2021/NĐ-CP ngày 6/12/2021 của Chính phủ về sửa đổi, bổ sung một số điều của Nghị định số 61/2018/NĐ-CP ngày 23/4/2018 của Chính phủ về thực hiện cơ chế một cửa, một cửa liên thông trong giải quyết thủ tục hành chính; Căn cứ Nghị định số 45/2020/NĐ-CP ngày 08/4/2020 của Chính phủ về thực hiện thủ tục hành chính trên môi trường điện tử; Căn cứ Nghị định số 47/2020/NĐ-CP ngày 09/4/2020 của Chính phủ về quản lý, kết nối và chia sẻ dữ liệu số trong cơ quan nhà nước; Căn cứ Quyết định số 468/QĐ-TTg ngày 27/3/2021 của Chính phủ phê duyệt đề án đổi mới việc thực hiện cơ chế một cửa, một cửa liên thông trong giải quyết thủ tục hành chính; Căn cứ Thông tư số 01/2018/TT-VPCP ngày 23/11/2018 của Văn phòng Chính phủ hướng dẫn thi hành một số quy định của Nghị định số 61/2018/CĐ-CP ngày 23/4/2018 của Chính phủ về thực hiện cơ chế một cửa, một cửa liên thông trong giải quyết thủ tục hành chính; Theo đề nghị của Giám đốc Trung tâm Thông tin.\nQUYẾT ĐỊNH:\nĐiều 1. Ban hành kèm theo Quyết định này Quy chế hoạt động của Hệ thống thông tin giải quyết thủ tục hành chính Bộ Xây dựng.\nĐiều 2. Quyết định này có hiệu lực kể từ ngày ký ban hành.\nĐiều 3. Chánh Văn phòng Bộ, Giám đốc Trung tâm Thông tin, Thủ trưởng các đơn vị thuộc Bộ Xây dựng và các cơ quan, tổ chức có liên quan chịu trách nhiệm thi hành Quyết định này./.\nNơi nhận:\n- Như Điều 3;\n- Bộ trưởng (để b/c);\n- Các Thứ trưởng;\n- Lưu: VT, TTTT.\nKT.\nBỘ TRƯỞNG\nTHỨ TRƯỞNG\nNguyễn Văn Sinh\nQUY CHẾ HOẠT ĐỘNG\nCỦA HỆ THỐNG THÔNG TIN GIẢI QUYẾT THỦ TỤC HÀNH CHÍNH BỘ XÂY DỰNG\n(Ban hành kèm theo Quyết định số 922/QĐ-BXD ngày\n24/10/2022 của Bộ trưởng Bộ Xây dựng)\nChương I\nQUY ĐỊNH CHUNG\nĐiều 1. Phạm vi điều chỉnh\nQuy chế này quy định về hoạt động của\nHệ thống thông tin giải quyết thủ tục hành chính (TTHC) Bộ Xây dựng.\nĐiều 2. Đối tượng áp dụng\n1. Các cơ quan, đơn vị thuộc Bộ Xây dựng\n(sau đây gọi là đơn vị) có nhiệm vụ, quyền hạn tiếp nhận giải quyết, trả kết quả giải quyết TTHC và quản lý, vận hành Hệ thống thông tin giải quyết TTHC Bộ Xây dựng theo quy định của pháp luật.\n2. Cán bộ, công chức, viên chức của\ncác đơn vị quy định tại Khoản 1 Điều này (sau đây gọi là cán bộ, công chức, viên chức).\n3. Tổ chức, cá nhân thực hiện TTHC\nthuộc thẩm quyền giải quyết của Bộ Xây dựng và TTHC thuộc thẩm quyền giải quyết của các cơ quan chuyên môn thuộc Bộ Xây dựng (sau đây gọi là tổ chức, cá nhân).\n4. Doanh nghiệp cung ứng dịch vụ bưu\nchính công ích; doanh nghiệp thực hiện thu hộ phí, lệ phí giải quyết TTHC thuộc thẩm quyền giải quyết của Bộ Xây dựng và TTHC thuộc thẩm quyền giải quyết của cơ quan chuyên môn thuộc Bộ Xây dựng.\nĐiều 3. Giải thích từ ngữ\n1. Hệ thống thông tin giải quyết\nTTHC Bộ Xây dựng: là hệ thống thống nhất được phát triển trên cơ sở hợp nhất Cổng dịch vụ công Bộ Xây dựng và Hệ thống thông tin một cửa điện tử Bộ Xây dựng nhằm đảm bảo các chức năng, quy trình nghiệp vụ thống nhất đối với người sử dụng trong tìm hiểu, đăng ký, nộp, tiếp nhận, giải quyết và trả kết quả TTHC. Hệ thống gồm hai hợp phần: giao tiếp với người dân (Cổng dịch vụ công Bộ Xây dựng) và xử lý nghiệp vụ của cán bộ, công chức, viên chức (Hệ thống thông tin một cửa điện tử).\n2. Cổng Dịch vụ công Bộ Xây dựng:\nlà Cổng tích hợp thông tin về dịch vụ công trực tuyến, về tình hình và kết quả giải quyết TTHC của Bộ Xây dựng trên cơ sở tích hợp, chia sẻ dữ liệu với Hệ thống thông tin một cửa điện tử Bộ Xây dựng.\n3. Hệ thống thông tin một cửa điện\ntử Bộ Xây dựng (viết tắt là Hệ thống một cửa điện tử Bộ Xây dựng): là hệ thống thông tin nội bộ có chức năng hỗ trợ việc tiếp nhận, giải quyết, theo dõi tình hình tiếp nhận, giải quyết và kết quả giải quyết TTHC của các đơn vị thuộc Bộ; kết nối, tích hợp với Cổng dịch vụ công Bộ Xây dựng để đăng tải công khai kết quả giải quyết TTHC.\n4. Dịch vụ công trực tuyến của Bộ\nXây dựng là các dịch vụ công trực tuyến của các TTHC thuộc thẩm quyền giải quyết của Bộ Xây dựng.\nĐiều 4. Tên miền truy cập hệ thống Tên miền truy cập hệ thống là: https://dichvucong.xaydung.gov.vn.\nĐiều 5. Nguyên tắc hoạt động của Hệ thống thông tin giải quyết TTHC Bộ Xây dựng\n1. Hệ thống thông tin giải quyết TTHC\nBộ Xây dựng là hệ thống được xây dựng tập trung, thống nhất để áp dụng chung cho các đơn vị giải quyết TTHC trong cơ quan Bộ Xây dựng và các tổ chức, cá nhân có liên quan.\n2. Hệ thống thông tin giải quyết TTHC\nBộ Xây dựng tuân thủ các quy định của pháp luật về kiểm soát TTHC, thực hiện cơ chế một cửa, một cửa liên thông, giao dịch điện tử, an toàn, an ninh thông tin, bảo vệ bí mật Nhà nước và các quy định khác có liên quan, bảo đảm việc thực hiện TTHC trên môi trường điện tử, dịch vụ công trực tuyến được thông suốt, tiết kiệm, an toàn, hiệu quả.\n3. Việc xây dựng quản lý, vận hành, sử\ndụng Hệ thống thông tin giải quyết TTHC Bộ Xây dựng theo hướng lấy người dùng làm trung tâm; các thông tin được cung cấp bảo đảm chính xác, rõ ràng, cập nhật liên tục, kịp thời theo các quy định hiện hành; các thông tin, giao diện được trình bày khoa học, dễ tiếp cận cho người sử dụng và có thể truy cập, khai thác trong mọi thời điểm.\n4. Hệ thống thông tin giải quyết TTHC\nBộ Xây dựng được kết nối thông suốt, liên tục, chia sẻ thông tin với Cổng Dịch vụ công quốc gia và các hệ thống thông tin liên quan khác theo quy định tại Nghị định 47/2020/NĐ-CP ngày 09/4/2020 của Chính phủ về Quản lý, kết nối và chia sẻ dữ liệu số của cơ quan nhà nước.\n5. Đảm bảo khả năng cung cấp công cụ,\nphương thức tiếp nhận, xử lý, trả kết quả hồ sơ giải quyết TTHC, phối hợp giải quyết TTHC trên môi trường mạng; đảm bảo cung cấp công cụ hỗ trợ cơ quan hành chính nhà nước trong công tác tổ chức, quản lý, khai thác, lưu trữ khoa học, nhất quán, lâu dài, an toàn, bảo mật hồ sơ TTHC của tổ chức, cá nhân.\n6. Đảm bảo tính công khai, minh bạch\nvề thông tin, thời gian giải quyết, tình trạng giải quyết hồ sơ.\n7. Hệ thống thông tin giải quyết TTHC\nBộ Xây dựng được duy trì, nâng cấp thường xuyên. Kinh phí quản lý, vận hành, nâng cấp, bảo trì Hệ thống được đảm bảo từ nguồn ngân sách nhà nước. Việc lập dự toán, quản lý, sử dụng kinh phí thực hiện theo quy định của Luật Ngân sách Nhà nước và các văn bản hướng dẫn thi hành.\n8. Kho quản lý dữ liệu điện tử của tổ\nchức, cá nhân được thực hiện theo quy định tại Điều 16 Nghị định số 45/2020/NĐ-CP ngày 08 tháng 04 năm 2020 của Chính phủ về thực hiện thủ tục hành chính trên môi trường điện tử (sau đây gọi tắt là Nghị định số\n45/2020/NĐ-CP).\nĐiều 6. Chức năng dành cho tổ chức, cá nhân trên Hệ thống thông tin giải quyết TTHC Bộ Xây dựng\n1. Cung cấp thông tin về TTHC, dịch vụ\ncông trực tuyến của Bộ Xây dựng, gồm các thông tin được đồng bộ từ Cơ sở dữ liệu quốc gia về TTHC như số hiệu TTHC, các nội dung bộ phận cấu thành của TTHC, mức độ dịch vụ công trực tuyến.\n2. Định danh và xác thực người dùng\ntheo quy định.\n3. Nộp hồ sơ dịch vụ công trực tuyến\ntrên Hệ thống hoặc qua kết nối với Cổng Dịch vụ công quốc gia.\n4. Tra cứu thông tin theo các mức độ\nxác thực\na) Mức độ không đòi hỏi xác thực:\nCông khai các thông tin về mã số hồ sơ TTHC và tiến độ hoàn thành việc giải quyết\nTTHC;\nb) Mức độ đã được xác thực: Cung cấp\nthông tin trạng thái giải quyết TTHC; tình hình, kết quả giải quyết phản ánh, kiến nghị của người dùng; các thông tin, hồ sơ điện tử của người dùng đã cung cấp trên hệ thống.\n5. Hướng dẫn, hỗ trợ thực hiện TTHC\nthông qua bộ câu hỏi - trả lời mẫu và thông tin tổng hợp những nội dung hỏi đáp đã thực hiện trên hệ thống; qua chức năng trả lời người dùng.\n6. Đánh giá việc giải quyết TTHC, giải\nquyết phản ánh, kiến nghị của cơ quan nhà nước theo quy định.\n7. Thống kê, tổng hợp tình hình cung\ncấp, giải quyết TTHC.\nĐiều 7. Chức năng dành cho cán bộ, công chức, viên chức trong quá trình tiếp nhận, giải quyết và trả kết quả giải quyết hồ sơ TTHC; quản trị, quản lý, vận hành Hệ thống\n1. Cán bộ, công chức, viên chức tiếp\nnhận, giải quyết và trả kết quả giải quyết TTHC:\na) Tiếp nhận hồ sơ của tổ chức, cá\nnhân từ Bộ phận Một cửa, Hệ thống thông tin giải quyết thủ tục hành chính Bộ Xây dựng và Cổng Dịch vụ công Quốc gia; tự động sinh mã số hồ sơ TTHC để theo dõi việc xử lý hồ sơ và trả kết quả;\nb) Quản lý toàn bộ quá trình giải quyết\nđối với từng hồ sơ giải quyết TTHC trên cơ sở ghi nhận từng bước thực hiện của quá trình theo thời gian thực và lưu trữ thông tin lịch sử của việc giải quyết\nTTHC;\nc) Đánh giá chất lượng giải quyết\nTTHC theo Bộ chỉ số phục vụ người dân và doanh nghiệp.\nd) Chức năng hỗ trợ thanh toán và quản\nlý thanh toán trực tuyến: tích hợp, sử dụng Nền tảng thanh toán điện tử quốc gia, đặc biệt là thanh toán trực tuyến của Cổng dịch vụ công quốc gia;\ne) Các chức năng thực hiện số hóa\ntheo quy định: - Thực hiện kiểm tra tài khoản số của cá nhân, tổ chức; - Hỗ trợ số hóa giấy tờ, hồ sơ; - Ký số trên tệp tin; - Kết nối, tích hợp Cổng Dịch vụ công Quốc gia về: Kiểm tra danh tính số cá nhân, tổ chức; chia sẻ dữ liệu; đồng bộ trạng thái, kết quả xử lý hồ sơ TTHC... - Kết nối, tích hợp và chia sẻ dữ liệu với CSDL Quốc gia (nếu có): Dân cư, Doanh nghiệp, BHXH, Hộ tịch, Thuế...\n2. Cán bộ quản lý vận hành Hệ thống tại\nBộ phận Một cửa - Văn phòng Bộ\na) Quản lý, theo dõi, kiểm soát thông\ntin tổng quan của hệ thống về Một cửa điện tử và các TTHC được thực hiện.\nb) Tra cứu thông tin về thủ tục hành\nchính; thông tin về hồ sơ cá nhân, tổ chức tham gia thực hiện TTHC; thông tin có liên quan để phục vụ tiếp nhận hồ sơ giải quyết TTHC.\nc) Thống kê, tổng hợp tình hình cung\ncấp, giải quyết TTHC và xây dựng báo cáo tổng hợp để báo cáo Lãnh đạo Bộ, Văn phòng Chính phủ.\n3. Trung tâm Thông tin\na) Tạo tài khoản và phân quyền xử lý\ntheo quy trình chuyên môn của các đơn vị có thủ tục hành chính.\nb) Thêm mới, khởi tạo quy trình của\ncác dịch vụ công mới đã được Bộ Xây dựng công bố.\nc) Hướng dẫn, hỗ trợ Văn phòng Bộ và\ncác đơn vị giải quyết TTHC trong khai thác, sử dụng Hệ thống.\nd) Quản trị Hệ thống, đảm bảo kết nối,\nan ninh, an toàn và thường xuyên nâng cấp đáp ứng các yêu cầu Hệ thống, đảm bảo tích hợp, chia sẻ dữ liệu với Cổng Dịch vụ công quốc gia; khắc phục kịp thời các lỗi hoặc sự cố (nếu có).\nChương II\nQUY ĐỊNH VỀ THỰC\nHIỆN THỦ TỤC HÀNH CHÍNH TRÊN HỆ THỐNG THÔNG TIN GIẢI QUYẾT TTHC BỘ XÂY DỰNG\nĐiều 8. Quản lý đăng ký, thay đổi, cấp lại, sử dụng tài khoản\n1. Quy trình đăng ký, thay đổi, cấp lại\ntài khoản của tổ chức, cá nhân\na) Tổ chức, cá nhân truy cập vào hệ\nthống và thực hiện các bước khai báo thông tin để đăng ký tài khoản. Hệ thống sẽ xác nhận thông tin và cấp tài khoản cho tổ chức, cá nhân.\nb) Tổ chức, cá nhân có thể thay đổi\nthông tin tài khoản (nếu cần).\nc) Trong quá trình sử dụng nếu quên mật\nkhẩu, có thể sử dụng chức năng quên mật khẩu để được cấp lại mật khẩu mới hoặc liên hệ Bộ phận hỗ trợ để được cấp lại thông tin tài khoản. Việc cấp lại tài khoản được thực hiện trong vòng 8 giờ làm việc làm việc sau khi tổ chức, cá nhân cung cấp đầy đủ thông tin cần thiết.\n2. Quy trình đăng ký, thay đổi, cấp lại\ntài khoản của cán bộ, công chức, viên chức của Bộ Xây dựng\na) Các đơn vị gửi thông tin đăng ký,\nthay đổi, cấp lại tài khoản của cán bộ, công chức, viên chức về Trung tâm Thông tin.\nb) Sau khi nhận được yêu cầu, Trung\ntâm Thông tin thực hiện việc cấp, thay đổi, cấp lại tài khoản theo yêu cầu của đơn vị.\n3. Quản lý, sử dụng tài khoản\na) Mật khẩu tài khoản được thiết lập\nbao gồm ít nhất 08 ký tự, trong đó có chữ thường, chữ hoa, số và khuyến khích sử dụng thêm ký hiệu đặc biệt. Cán bộ, công chức, viên chức phải sử dụng hộp thư công vụ để đăng ký tài khoản.\nb) Tổ chức, cá nhân, cán bộ, công chức,\nviên chức của Bộ Xây dựng sử dụng tài khoản được cấp để thực hiện giao dịch các dịch vụ công trực tuyến trên Hệ thống thông tin giải quyết TTHC Bộ Xây dựng và có trách nhiệm bảo mật thông tin về tài khoản được cấp, các thông tin của Hệ thống theo quy định.\nĐiều 9. Chuẩn bị và nộp hồ sơ điện tử thực hiện TTHC\n1. Tổ chức, cá nhân chuẩn bị hồ sơ điện\ntử, kê khai mẫu đơn, tờ khai điện tử theo yêu cầu của Hệ thống thông tin giải quyết TTHC Bộ Xây dựng như sau:\na) Khai mẫu đơn, tờ khai theo các biểu\nmẫu được cung cấp trên hệ thống.\nb) Đăng tải các giấy tờ, tài liệu hợp\nlệ hoặc dẫn nguồn tài liệu từ Kho quản lý dữ liệu điện tử của tổ chức, cá nhân.\nc) Ký chữ ký số vào mẫu đơn, tờ khai,\ngiấy tờ, tài liệu nếu có yêu cầu. Thành phần hồ sơ được ký số có giá trị pháp lý như văn bản giấy được ký hợp lệ.\n2. Sau khi hoàn thành việc chuẩn bị,\ntổ chức, cá nhân gửi đơn, tờ khai, hồ sơ điện tử trên Hệ thống. Các thông tin, dữ liệu sau khi được ghi nhận sẽ được Hệ thống thông tin lưu giữ và điền tự động trong các biểu mẫu điện tử, hồ sơ điện tử thực hiện các lần sau.\n3. Tổ chức, cá nhân chịu trách nhiệm\nvề tính chính xác, hợp pháp của thông tin, tài liệu do mình cung cấp.\nĐiều 10. Tiếp nhận, chuyển xử lý hồ sơ trực tuyến\n1. Cán bộ, công chức, viên chức được\nphân công tiếp nhận, giải quyết TTHC có trách nhiệm kiểm tra hồ sơ điện tử tổ chức, cá nhân gửi đến Hệ thống thông tin giải quyết TTHC Bộ Xây dựng.\n2. Trường hợp hồ sơ đáp ứng đầy đủ,\ncán bộ, công chức, viên chức tiếp nhận, xử lý hồ sơ theo quy định tại Chương III Nghị định số 61/2018/NĐ-CP ngày 23/4/2018 của Chính phủ và các quy định của pháp luật có liên quan; trường hợp hồ sơ chưa đầy đủ, cán bộ, công chức, viên chức có trách nhiệm thông báo bổ sung hồ sơ thông qua Hệ thống thông tin giải quyết TTHC Bộ Xây dựng.\n3. Hồ sơ đáp ứng đầy đủ theo yêu cầu\nsẽ được tiếp nhận và chuyển đến đơn vị giải quyết TTHC.\n4. Những thông tin, thành phần hồ sơ\nsau khi được cơ quan, đơn vị giải quyết thủ tục hành chính tiếp nhận và xử lý sẽ được lưu trữ tại Kho quản lý dữ liệu điện tử của tổ chức, cá nhân trên Hệ thống thông tin giải quyết TTHC Bộ Xây dựng.\nĐiều 11. Thời gian giải quyết hồ sơ TTHC\n1. Thời gian giải quyết hồ sơ được tính\ntừ thời điểm hồ sơ được tiếp nhận.\n2. Thời gian giải quyết hồ sơ không\nvượt quá thời hạn giải quyết được quy định của tại văn bản quy phạm pháp luật về quy định TTHC đó.\nĐiều 12. Thanh toán phí, lệ phí\n1. Thanh toán phí, lệ phí (nếu có) được\nthực hiện thông qua các công cụ thanh toán trực tuyến, chuyển khoản theo quy định hiện hành của pháp luật.\na) Tổ chức, cá nhân lựa chọn ngân\nhàng hoặc tổ chức cung ứng dịch vụ trung gian thanh toán đã kết nối, tích hợp với hệ thống thanh toán trực tuyến của Hệ thống thông tin giải quyết TTHC Bộ Xây dựng hoặc hệ thống thanh toán trực tuyến của Cổng Dịch vụ công quốc gia để thực hiện thanh toán.\nb) Thời gian tổ chức, cá nhân hoàn\nthành nộp thuế, phí, lệ phí, nghĩa vụ tài chính khác (nếu có) đối với loại giao dịch thanh toán và số tiền đã đóng là thời gian tổ chức, cá nhân nhận được thông báo giao dịch thành công của ngân hàng, trung gian thanh toán cho loại giao dịch thanh toán và số tiền đã đóng đó.\n2. Hoàn trả phí, lệ phí đã nộp chỉ áp\ndụng khi tổ chức, cá nhân có đề xuất được hoàn phí và thuộc một trong các trường hợp sau:\na) Hồ sơ đề nghị cung cấp dịch vụ\ncông trực tuyến không thuộc thẩm quyền giải quyết của Bộ Xây dựng.\nb) Tổ chức, cá nhân nộp thừa hoặc nộp\ntrùng phí, lệ phí.\nc) Hồ sơ không được giải quyết do lỗi\ncủa đơn vị cung cấp dịch vụ công hoặc có thay đổi theo các quy định mới của pháp luật.\nd) Các trường hợp khác theo quy định\ncủa pháp luật. Việc hoàn trả phí sẽ được thực hiện thông qua các công cụ thanh toán trực tuyến, chuyển khoản. Đơn vị cung cấp dịch vụ công có trách nhiệm tra soát, đối chiếu, phát hiện và phối hợp với ngân hàng hoặc tổ chức cung ứng dịch vụ trung gian thanh toán hoặc kho bạc nhà nước xử lý việc hoàn trả tiền cho tổ chức, cá nhân.\n3. Quản lý tài khoản phí, lệ phí\nVăn phòng Bộ và các Cục quản lý tài khoản phí, lệ phí theo quy định của pháp luật đối với các dịch vụ công trực tuyến do Bộ Xây dựng quản lý và cung cấp trên Hệ thống thông tin giải quyết TTHC Bộ Xây dựng.\nĐiều 13. Trả kết quả giải quyết TTHC\n1. Cơ quan có thẩm quyền trả kết quả\ngiải quyết TTHC cho tổ chức, cá nhân bằng bản giấy hoặc bản điện tử theo quy định tại văn bản quy phạm pháp luật chuyên ngành và quy định của pháp luật về dịch vụ công trực tuyến.\n2. Trước khi chuyển kết quả giải quyết\nTTHC ra Bộ phận Một cửa, các đơn vị giải quyết TTHC có trách nhiệm thực hiện số hóa và đăng tải lên Cơ sở dữ liệu Kết quả giải quyết TTHC theo quy định.\n3. Kết quả giải quyết TTHC là bản điện\ntử của cơ quan có thẩm quyền có giá trị pháp lý như kết quả giải quyết TTHC bằng văn bản giấy theo quy định tại Điều 14 Nghị định số\n45/2020/NĐ-CP.\n4. Kết quả giải quyết TTHC bản điện tử\nphải bảo đảm:\na) Phản ánh đầy đủ các nội dung kết\nquả giải quyết TTHC đã được quy định.\nb) Có chữ ký số của cơ quan có thẩm\nquyền giải quyết TTHC.\nc) Bảo đảm tính toàn vẹn của dữ liệu,\ntính xác thực, tính chống chối bỏ, phù hợp với quy định của Luật Giao dịch điện tử, Nghị định số 45/2020/NĐ-CP .\nĐiều 14. Tra cứu hồ sơ TTHC Tổ chức, cá nhân đăng nhập vào Hệ thống thông tin giải quyết TTHC Bộ Xây dựng hoặc Cổng Dịch vụ công Quốc gia (đối với các dịch vụ công đã tích hợp với Cổng Dịch vụ công Quốc gia), sau đó nhập mã số hồ sơ đã được cấp để tra cứu quá trình giải quyết thủ tục hành chính, đánh giá việc giải quyết thủ tục hành chính và thực hiện các giao dịch khác với các cơ quan có thẩm quyền.\nChương III\nQUY ĐỊNH VỀ TIẾP\nNHẬN, XỬ LÝ PHẢN ÁNH KIẾN NGHỊ VỀ GIẢI QUYẾT TTHC TRÊN HỆ THỐNG THÔNG TIN GIẢI\nQUYẾT TTHC BỘ XÂY DỰNG\nĐiều 15. Nội dung phản ánh kiến nghị\n1. Phản ánh kiến nghị về những vướng\nmắc trong giải quyết TTHC thuộc thẩm quyền giải quyết của Bộ Xây dựng và cơ quan chuyên môn thuộc Bộ.\n2. Nội dung phản ánh, kiến nghị về những\nvướng mắc của tổ chức, cá nhân khi sử dụng Hệ thống thông tin giải quyết TTHC Bộ Xây dựng.\nĐiều 16. Tiếp nhận phản ánh, kiến nghị\n1. Đối với nội dung phản ánh kiến nghị\nquy định tại Khoản 1 Điều 15, tổ chức, cá nhân thực hiện TTHC thực hiện gửi phản ánh, kiến nghị theo các hình thức sau đây:\na) Gửi phản ánh\nkiến nghị qua cổng thông tin phản ánh, kiến nghị tại địa chỉ: https://pakn.dichvucong.gov.vn.\nb) Gửi phản ánh\nkiến nghị bằng hình thức thư điện tử vào địa chỉ: hotrodvc@moc.gov.vn.\nc) Liên hệ trực tiếp theo số điện thoại\nđường dây nóng đăng tải trên trang chủ Hệ thống thông tin giải quyết TTHC Bộ Xây dựng.\n2. Đối với nội dung phản ánh, kiến\nnghị quy định tại Khoản 2 Điều 15, tổ chức, cá nhân thực hiện TTHC thực hiện gửi phản ánh, kiến nghị theo các hình thức sau đây:\na) Gửi phản ánh,\nkiến nghị bằng hình thức thư điện tử vào địa chỉ: hotrodvc@moc.gov.vn.\nb) Liên hệ trực tiếp theo số điện thoại\nhướng dẫn kỹ thuật đăng tải trên trang chủ Hệ thống thông tin giải quyết TTHC Bộ Xây dựng.\n3. Hệ thống thông tin giải quyết TTHC\nBộ Xây dựng không tiếp nhận phản ánh, kiến nghị nằm ngoài các nội dung đã được quy định tại Điều 15.\nĐiều 17. Xử lý nội dung trả lời phản ánh, kiến nghị\n1. Khi nhận được phản ánh, kiến nghị,\ncán bộ, công chức, viên chức làm việc tại Bộ phận Một cửa Bộ Xây dựng, đơn vị quản trị vận hành Hệ thống tiếp nhận và phân loại nội dung sau đó chuyển về đơn vị có trách nhiệm trả lời để giải quyết.\n2. Phản ánh, kiến nghị của tổ chức,\ncá nhân phải được trả lời trong thời hạn 20 ngày.\nChương IV\nQUY ĐỊNH VỀ\nTRÁCH NHIỆM QUẢN LÝ, VẬN HÀNH VÀ SỬ DỤNG HỆ THỐNG THÔNG TIN GIẢI QUYẾT TTHC BỘ\nXÂY DỰNG\nĐiều 18. Trách nhiệm của Trung tâm Thông tin\n1. Là đơn vị đầu mối chịu trách nhiệm\nvề kỹ thuật, bảo trì, nâng cấp để đảm bảo Hệ thống thông tin giải quyết TTHC Bộ Xây dựng hoạt động thông suốt, ổn định; kịp thời hỗ trợ, khắc phục sự cố kỹ thuật khi phát sinh.\n2. Đơn vị quản trị Hệ thống thông tin\ngiải quyết TTHC Bộ Xây dựng.\n3. Đảm bảo an toàn, bảo mật thông\ntin, dữ liệu của Hệ thống theo các quy định hiện hành.\n4. Theo dõi, đôn đốc các đơn vị thuộc\nBộ kịp thời xây dựng, sửa đổi, nâng cấp các dịch vụ công trực tuyến; định kỳ hàng năm tổng hợp, báo cáo Lãnh đạo Bộ tình hình cung cấp dịch vụ công trực tuyến của Bộ Xây dựng.\n5. Theo dõi, duy trì và đảm bảo việc\nkết nối, chia sẻ, khai thác dữ liệu giữa Hệ thống thông tin giải quyết TTHC Bộ Xây dựng với Cổng dịch vụ công quốc gia, Cổng thông tin một cửa quốc gia và các cơ sở dữ liệu chuyên ngành.\n6. Tổ chức tập huấn, hướng dẫn sử dụng\nHệ thống thông tin giải quyết TTHC Bộ Xây dựng cho các đơn vị có liên quan.\n7. Đầu mối theo dõi, đôn đốc việc thực\nhiện Quy chế này; tổng hợp các vướng mắc, phát sinh trong quá trình thực hiện để báo cáo Lãnh đạo Bộ xem xét điều chỉnh, bổ sung cho phù hợp.\n8. Là đầu mối thực hiện báo cáo định\nkỳ hoặc đột xuất về Hệ thống thông tin giải quyết TTHC theo chức năng, nhiệm vụ được giao.\nĐiều 19. Trách nhiệm của Văn phòng Bộ\n1. Theo dõi, kiểm tra, đánh giá tình\nhình giải quyết hồ sơ TTHC của các cơ quan, đơn vị nhằm kịp thời phát hiện, giải quyết các vướng mắc phát sinh; hỗ trợ tổ chức, cá nhân sử dụng dịch vụ công trực tuyến trên Hệ thống thông tin giải quyết TTHC Bộ Xây dựng; tổng hợp các vướng mắc, phát sinh trong quá trình thực hiện, gửi Trung tâm Thông tin xem xét điều chỉnh, bổ sung, nâng cấp cho phù hợp.\n2. Đầu mối tiếp nhận phản ánh, kiến\nnghị của tổ chức, cá nhân về tình hình xử lý các dịch vụ công trực tuyến của các đơn vị cung cấp dịch vụ trên Hệ thống thông tin giải quyết TTHC Bộ Xây dựng, phân loại và chuyển tới các đơn vị chuyên môn trả lời; theo dõi, đôn đốc, tổng hợp nội dung trả lời để trả lời tổ chức, cá nhân theo quy định.\n3. Phối hợp với Trung tâm Thông tin\nvà các đơn vị liên quan xây dựng dịch vụ công mới, sửa đổi khi có thay đổi về quy trình của các TTHC, thông báo cho Trung tâm Thông tin biết TTHC bị bãi bỏ để dừng hoạt động của dịch vụ công trực tuyến trên Hệ thống thông tin giải quyết thủ tục hành chính Bộ Xây dựng.\n4. Triển khai công tác tuyên truyền,\ngiới thiệu dịch vụ công trực tuyến để nâng cao nhận thức và khuyến khích, hướng dẫn các tổ chức, cá nhân tham gia, sử dụng dịch vụ công trực tuyến.\nĐiều 20. Trách nhiệm của các đơn vị giải quyết TTHC thuộc Bộ Xây dựng\n1. Tuân thủ quy định của pháp luật\nchuyên ngành, giao dịch điện tử, bí mật nhà nước và sử dụng chữ ký số.\n2. Cán bộ, công chức, viên chức của\ncác đơn vị được cấp tài khoản người dùng để truy cập vào Hệ thống thông tin giải quyết TTHC Bộ Xây dựng có trách nhiệm bảo đảm bí mật của tài khoản được cấp.\n3. Tiếp nhận, xử lý, thẩm định hồ sơ,\nphê duyệt hoặc từ chối phê duyệt, trả kết quả giải quyết TTHC theo Quy chế này và các quy định liên quan.\n4. Thủ trưởng đơn vị thường xuyên kiểm\ntra tiến độ giải quyết hồ sơ TTHC của đơn vị qua Hệ thống thông tin giải quyết TTHC Bộ Xây dựng; chỉ đạo kịp thời việc xử lý hồ sơ còn tồn đọng (nếu có); chịu trách nhiệm về kết quả giải quyết TTHC của đơn vị mình.\n5. Cán bộ, công chức, viên chức của\nđơn vị được cử đến làm việc tại Bộ phận Tiếp nhận và Trả kết quả giải quyết TTHC Bộ Xây dựng và cán bộ, công chức, viên chức tham gia giải quyết hồ sơ TTHC có trách nhiệm sử dụng tài khoản được cấp trên Hệ thống thông tin giải quyết TTHC Bộ Xây dựng để thực hiện nhiệm vụ được giao; xử lý đồng bộ hồ sơ điện tử trên Hệ thống và hồ sơ giấy (nếu có) cùng lúc để đảm bảo hồ sơ không bị chậm trễ; có trách nhiệm bảo mật thông tin về tài khoản của mình và các thông tin, dữ liệu của Hệ thống.\n6. Tiếp nhận thông tin, đề xuất, kiến\nnghị của tổ chức, cá nhân về việc cung cấp dịch vụ công trực tuyến; hướng dẫn tổ chức, cá nhân trong quá trình sử dụng các dịch vụ của Hệ thống thông tin giải quyết TTHC Bộ Xây dựng; phối hợp với Trung tâm Thông tin, Văn phòng Bộ bảo đảm cung cấp dịch vụ công trực tuyến đúng quy định.\n7. Kịp thời phát hiện các vướng mắc\nphát sinh trong quá trình thực hiện tiếp nhận giải quyết và trả kết quả giải quyết TTHC trên Hệ thống thông tin giải quyết TTHC Bộ Xây dựng, gửi Văn phòng Bộ và Trung tâm Thông tin để xử lý kịp thời.\n8. Thực hiện chế độ báo cáo định kỳ\nhoặc đột xuất về tình hình thực hiện dịch vụ công trực tuyến trên Hệ thống thông tin giải quyết TTHC Bộ Xây dựng do Lãnh đạo Bộ hoặc Văn phòng Chính phủ yêu cầu.\n9. Tạo điều kiện, hỗ trợ và phối hợp\nvới cán bộ quản trị Hệ thống thực hiện chức năng được phân công để đảm bảo hệ thống hoạt động ổn định, nhanh chóng và kịp thời.\n10. Chủ trì, phối hợp với Trung tâm\nThông tin và Văn phòng Bộ xây dựng dịch vụ công mới hoặc sửa đổi khi có thay đổi về quy trình của các TTHC, dừng hoạt động của dịch vụ công trực tuyến khi TTHC bị bãi bỏ.\n11. Phối hợp với Trung tâm Thông tin\nvà các đơn vị liên quan duy trì kết nối, hoạt động của các dịch vụ công trực tuyến để đảm bảo Hệ thống thông tin giải quyết TTHC Bộ Xây dựng hoạt động thông suốt, ổn định; đảm bảo an toàn, bảo mật thông tin, dữ liệu của các dịch vụ công trực tuyến theo các quy định hiện hành; phối hợp với Trung tâm Thông tin và các đơn vị liên quan khắc phục sự cố kỹ thuật khi phát sinh.\nĐiều 21. Trách nhiệm của Vụ Kế hoạch - Tài chính Chủ trì, phối hợp với Văn phòng Bộ, Trung tâm Thông tin tham mưu cho Lãnh đạo Bộ Xây dựng bố trí kinh phí cho việc xây dựng, nâng cấp, quản lý, vận hành, bảo trì Hệ thống thông tin giải quyết TTHC Bộ Xây dựng; kết nối, tích hợp với Cổng dịch vụ công quốc gia.\nĐiều 22. Trách nhiệm của cán bộ, công chức, viên chức tiếp nhận giải quyết hồ sơ và trả kết quả giải quyết TTHC trên Hệ thống thông tin giải quyết TTHC Thực hiện các nhiệm vụ được giao theo\nQuy chế này, Quy chế tổ chức và hoạt động của Bộ phận Tiếp nhận và Trả kết quả\ngiải quyết thủ tục hành chính theo cơ chế một cửa, một cửa liên thông tại Bộ Xây dựng và các quy định pháp luật liên quan khác.\nĐiều 23. Trách nhiệm tổ chức, cá nhân sử dụng Hệ thống thông tin giải quyết TTHC Bộ Xây dựng\n1. Cung cấp đầy đủ thông tin khi tạo\ntài khoản và chịu mọi trách nhiệm liên quan khi sử dụng tài khoản trên Hệ thống thông tin giải quyết TTHC Bộ Xây dựng.\n2. Cung cấp đầy đủ, chính xác và chịu\ntrách nhiệm trước pháp luật về nội dung hồ sơ, tài liệu cung cấp khi thực hiện các TTHC trực tuyến.\n3. Tuân thủ quy định của pháp luật\nchuyên ngành, giao dịch điện tử, bí mật nhà nước và sử dụng chữ ký số.\n4. Lưu giữ hồ sơ hành chính trực tuyến\ntheo quy định của pháp luật về giao dịch điện tử và pháp luật chuyên ngành; cung cấp hồ sơ, chứng từ điện tử và bản giấy liên quan để phục vụ công tác kiểm tra, thanh tra (nếu có).\n5. Không làm sai lệch, hư hỏng, thất\nthoát, chiếm đoạt, phá hủy, gian lận, mạo nhận trái phép và khai thác, sử dụng, phát tán thông tin, dữ liệu TTHC.\n6. Không được sử dụng các dịch vụ giả\nmạo, sử dụng mật khẩu trái phép, chiếm quyền điều khiển; tạo, cài đặt, phát tán phần mềm độc hại, vi-rút máy tính; phá hoại Hệ thống thông tin giải quyết TTHC Bộ Xây dựng.\n7. Nộp phí, lệ phí, các khoản khác\ntheo quy định của pháp luật.\nĐiều 24. Tổ chức thực hiện Trong quá trình triển khai thực hiện, nếu phát sinh khó khăn, vướng mắc, các đơn vị, tổ chức, cá nhân kịp thời phản ánh về Trung tâm Thông tin, Bộ Xây dựng để tổng hợp, báo cáo Lãnh đạo Bộ xem xét, điều chỉnh Quy chế cho phù hợp./.",
+  "tree": {
+    "parts": [
+      {
+        "part_id": "doc:49643:part:1",
+        "part_type": "main",
+        "part_title": null,
+        "reference": null,
+        "direct_text": "QUYẾT ĐỊNH\nBAN HÀNH QUY CHẾ HOẠT ĐỘNG CỦA HỆ THỐNG THÔNG TIN GIẢI QUYẾT THỦ TỤC\nHÀNH CHÍNH BỘ XÂY DỰNG BỘ TRƯỞNG BỘ XÂY DỰNG\nCăn cứ Luật Công nghệ thông tin số 67/2006/QH11 ngày 29/06/2006 của Quốc Hội; Căn cứ Luật Giao dịch điện tử số 51/2005/QH11 ngày 29/11/2005 của Quốc Hội; Căn cứ nghị định số 52/2022/NĐ-CP ngày 08/8/2022 của Chính phủ về quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Xây dựng; Căn cứ Nghị định số 20/2008/NĐ-CP ngày 14/02/2008 của Chính phủ việc tiếp nhận, xử lý phản ánh, kiến nghị của cá nhân, tổ chức về quy định hành chính; Căn cứ Nghị định số 63/2010/NĐ-CP ngày 08/6/2010 của Chính phủ về kiểm soát thủ tục hành chính; Căn cứ Nghị định số 92/2017/NĐ-CP ngày 07/8/2017 của Chính phủ về sửa đổi, bổ sung một số điều của các nghị định liên quan đến kiểm soát thủ tục hành chính; Căn cứ Nghị định số 42/2012/NĐ-CP ngày 24/6/2022 của Chính phủ Quy định về việc cung cấp thông tin và dịch vụ công trực tuyến của cơ quan nhà nước trên môi trường mạng; Căn cứ Nghị định số 61/2018/NĐ-CP ngày 23/4/2018 của Chính phủ về thực hiện cơ chế một cửa, một cửa liên thông trong giải quyết thủ tục hành chính; Căn cứ Nghị định số 107/2021/NĐ-CP ngày 6/12/2021 của Chính phủ về sửa đổi, bổ sung một số điều của Nghị định số 61/2018/NĐ-CP ngày 23/4/2018 của Chính phủ về thực hiện cơ chế một cửa, một cửa liên thông trong giải quyết thủ tục hành chính; Căn cứ Nghị định số 45/2020/NĐ-CP ngày 08/4/2020 của Chính phủ về thực hiện thủ tục hành chính trên môi trường điện tử; Căn cứ Nghị định số 47/2020/NĐ-CP ngày 09/4/2020 của Chính phủ về quản lý, kết nối và chia sẻ dữ liệu số trong cơ quan nhà nước; Căn cứ Quyết định số 468/QĐ-TTg ngày 27/3/2021 của Chính phủ phê duyệt đề án đổi mới việc thực hiện cơ chế một cửa, một cửa liên thông trong giải quyết thủ tục hành chính; Căn cứ Thông tư số 01/2018/TT-VPCP ngày 23/11/2018 của Văn phòng Chính phủ hướng dẫn thi hành một số quy định của Nghị định số 61/2018/CĐ-CP ngày 23/4/2018 của Chính phủ về thực hiện cơ chế một cửa, một cửa liên thông trong giải quyết thủ tục hành chính; Theo đề nghị của Giám đốc Trung tâm Thông tin.\nQUYẾT ĐỊNH:",
+        "chapters": [],
+        "sections": [],
+        "articles": [
+          {
+            "article_id": "doc:49643:part:1:article:1",
+            "number": "1",
+            "title": "Ban hành kèm theo Quyết định này Quy chế hoạt động của Hệ thống thông tin giải quyết thủ tục hành chính Bộ Xây dựng.",
+            "content": "Điều 1. Ban hành kèm theo Quyết định này Quy chế hoạt động của Hệ thống thông tin giải quyết thủ tục hành chính Bộ Xây dựng.",
+            "clauses": [],
+            "points": []
+          },
+          {
+            "article_id": "doc:49643:part:1:article:2",
+            "number": "2",
+            "title": "Quyết định này có hiệu lực kể từ ngày ký ban hành.",
+            "content": "Điều 2. Quyết định này có hiệu lực kể từ ngày ký ban hành.",
+            "clauses": [],
+            "points": []
+          },
+          {
+            "article_id": "doc:49643:part:1:article:3",
+            "number": "3",
+            "title": "Chánh Văn phòng Bộ, Giám đốc Trung tâm Thông tin, Thủ trưởng các đơn vị thuộc Bộ Xây dựng và các cơ quan, tổ chức có liên quan chịu trách nhiệm thi hành Quyết định này./.",
+            "content": "Điều 3. Chánh Văn phòng Bộ, Giám đốc Trung tâm Thông tin, Thủ trưởng các đơn vị thuộc Bộ Xây dựng và các cơ quan, tổ chức có liên quan chịu trách nhiệm thi hành Quyết định này./.",
+            "clauses": [],
+            "points": []
+          }
+        ],
+        "unstructured_blocks": []
+      },
+      {
+        "part_id": "doc:49643:part:2",
+        "part_type": "regulation",
+        "part_title": "QUY CHẾ HOẠT ĐỘNG",
+        "reference": null,
+        "direct_text": "QUY CHẾ HOẠT ĐỘNG\nCỦA HỆ THỐNG THÔNG TIN GIẢI QUYẾT THỦ TỤC HÀNH CHÍNH BỘ XÂY DỰNG\n(Ban hành kèm theo Quyết định số 922/QĐ-BXD ngày\n24/10/2022 của Bộ trưởng Bộ Xây dựng)\nQuy chế này quy định về hoạt động của\nHệ thống thông tin giải quyết thủ tục hành chính (TTHC) Bộ Xây dựng.\nQuy chế này, Quy chế tổ chức và hoạt động của Bộ phận Tiếp nhận và Trả kết quả\ngiải quyết thủ tục hành chính theo cơ chế một cửa, một cửa liên thông tại Bộ Xây dựng và các quy định pháp luật liên quan khác.",
+        "chapters": [
+          {
+            "chapter_id": "doc:49643:part:2:chapter:1",
+            "number": "I",
+            "title": "QUY ĐỊNH CHUNG",
+            "content": "Chương I\nQUY ĐỊNH CHUNG",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:49643:part:2:article:1",
+                "number": "1",
+                "title": "Phạm vi điều chỉnh",
+                "content": "Điều 1. Phạm vi điều chỉnh",
+                "clauses": [],
+                "points": []
+              },
+              {
+                "article_id": "doc:49643:part:2:article:2",
+                "number": "2",
+                "title": "Đối tượng áp dụng",
+                "content": "Điều 2. Đối tượng áp dụng",
+                "clauses": [
+                  {
+                    "clause_id": "doc:49643:part:2:article:2:clause:1",
+                    "number": "1",
+                    "content": "1. Các cơ quan, đơn vị thuộc Bộ Xây dựng\n(sau đây gọi là đơn vị) có nhiệm vụ, quyền hạn tiếp nhận giải quyết, trả kết quả giải quyết TTHC và quản lý, vận hành Hệ thống thông tin giải quyết TTHC Bộ Xây dựng theo quy định của pháp luật.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:49643:part:2:article:2:clause:2",
+                    "number": "2",
+                    "content": "2. Cán bộ, công chức, viên chức của\ncác đơn vị quy định tại Khoản 1 Điều này (sau đây gọi là cán bộ, công chức, viên chức).",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:49643:part:2:article:2:clause:3",
+                    "number": "3",
+                    "content": "3. Tổ chức, cá nhân thực hiện TTHC\nthuộc thẩm quyền giải quyết của Bộ Xây dựng và TTHC thuộc thẩm quyền giải quyết của các cơ quan chuyên môn thuộc Bộ Xây dựng (sau đây gọi là tổ chức, cá nhân).",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:49643:part:2:article:2:clause:4",
+                    "number": "4",
+                    "content": "4. Doanh nghiệp cung ứng dịch vụ bưu\nchính công ích; doanh nghiệp thực hiện thu hộ phí, lệ phí giải quyết TTHC thuộc thẩm quyền giải quyết của Bộ Xây dựng và TTHC thuộc thẩm quyền giải quyết của cơ quan chuyên môn thuộc Bộ Xây dựng.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:49643:part:2:article:3",
+                "number": "3",
+                "title": "Giải thích từ ngữ",
+                "content": "Điều 3. Giải thích từ ngữ",
+                "clauses": [
+                  {
+                    "clause_id": "doc:49643:part:2:article:3:clause:1",
+                    "number": "1",
+                    "content": "1. Hệ thống thông tin giải quyết\nTTHC Bộ Xây dựng: là hệ thống thống nhất được phát triển trên cơ sở hợp nhất Cổng dịch vụ công Bộ Xây dựng và Hệ thống thông tin một cửa điện tử Bộ Xây dựng nhằm đảm bảo các chức năng, quy trình nghiệp vụ thống nhất đối với người sử dụng trong tìm hiểu, đăng ký, nộp, tiếp nhận, giải quyết và trả kết quả TTHC. Hệ thống gồm hai hợp phần: giao tiếp với người dân (Cổng dịch vụ công Bộ Xây dựng) và xử lý nghiệp vụ của cán bộ, công chức, viên chức (Hệ thống thông tin một cửa điện tử).",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:49643:part:2:article:3:clause:2",
+                    "number": "2",
+                    "content": "2. Cổng Dịch vụ công Bộ Xây dựng:\nlà Cổng tích hợp thông tin về dịch vụ công trực tuyến, về tình hình và kết quả giải quyết TTHC của Bộ Xây dựng trên cơ sở tích hợp, chia sẻ dữ liệu với Hệ thống thông tin một cửa điện tử Bộ Xây dựng.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:49643:part:2:article:3:clause:3",
+                    "number": "3",
+                    "content": "3. Hệ thống thông tin một cửa điện\ntử Bộ Xây dựng (viết tắt là Hệ thống một cửa điện tử Bộ Xây dựng): là hệ thống thông tin nội bộ có chức năng hỗ trợ việc tiếp nhận, giải quyết, theo dõi tình hình tiếp nhận, giải quyết và kết quả giải quyết TTHC của các đơn vị thuộc Bộ; kết nối, tích hợp với Cổng dịch vụ công Bộ Xây dựng để đăng tải công khai kết quả giải quyết TTHC.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:49643:part:2:article:3:clause:4",
+                    "number": "4",
+                    "content": "4. Dịch vụ công trực tuyến của Bộ\nXây dựng là các dịch vụ công trực tuyến của các TTHC thuộc thẩm quyền giải quyết của Bộ Xây dựng.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:49643:part:2:article:4",
+                "number": "4",
+                "title": "Tên miền truy cập hệ thống Tên miền truy cập hệ thống là: https://dichvucong.xaydung.gov.vn.",
+                "content": "Điều 4. Tên miền truy cập hệ thống Tên miền truy cập hệ thống là: https://dichvucong.xaydung.gov.vn.",
+                "clauses": [],
+                "points": []
+              },
+              {
+                "article_id": "doc:49643:part:2:article:5",
+                "number": "5",
+                "title": "Nguyên tắc hoạt động của Hệ thống thông tin giải quyết TTHC Bộ Xây dựng",
+                "content": "Điều 5. Nguyên tắc hoạt động của Hệ thống thông tin giải quyết TTHC Bộ Xây dựng",
+                "clauses": [
+                  {
+                    "clause_id": "doc:49643:part:2:article:5:clause:1",
+                    "number": "1",
+                    "content": "1. Hệ thống thông tin giải quyết TTHC\nBộ Xây dựng là hệ thống được xây dựng tập trung, thống nhất để áp dụng chung cho các đơn vị giải quyết TTHC trong cơ quan Bộ Xây dựng và các tổ chức, cá nhân có liên quan.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:49643:part:2:article:5:clause:2",
+                    "number": "2",
+                    "content": "2. Hệ thống thông tin giải quyết TTHC\nBộ Xây dựng tuân thủ các quy định của pháp luật về kiểm soát TTHC, thực hiện cơ chế một cửa, một cửa liên thông, giao dịch điện tử, an toàn, an ninh thông tin, bảo vệ bí mật Nhà nước và các quy định khác có liên quan, bảo đảm việc thực hiện TTHC trên môi trường điện tử, dịch vụ công trực tuyến được thông suốt, tiết kiệm, an toàn, hiệu quả.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:49643:part:2:article:5:clause:3",
+                    "number": "3",
+                    "content": "3. Việc xây dựng quản lý, vận hành, sử\ndụng Hệ thống thông tin giải quyết TTHC Bộ Xây dựng theo hướng lấy người dùng làm trung tâm; các thông tin được cung cấp bảo đảm chính xác, rõ ràng, cập nhật liên tục, kịp thời theo các quy định hiện hành; các thông tin, giao diện được trình bày khoa học, dễ tiếp cận cho người sử dụng và có thể truy cập, khai thác trong mọi thời điểm.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:49643:part:2:article:5:clause:4",
+                    "number": "4",
+                    "content": "4. Hệ thống thông tin giải quyết TTHC\nBộ Xây dựng được kết nối thông suốt, liên tục, chia sẻ thông tin với Cổng Dịch vụ công quốc gia và các hệ thống thông tin liên quan khác theo quy định tại Nghị định 47/2020/NĐ-CP ngày 09/4/2020 của Chính phủ về Quản lý, kết nối và chia sẻ dữ liệu số của cơ quan nhà nước.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:49643:part:2:article:5:clause:5",
+                    "number": "5",
+                    "content": "5. Đảm bảo khả năng cung cấp công cụ,\nphương thức tiếp nhận, xử lý, trả kết quả hồ sơ giải quyết TTHC, phối hợp giải quyết TTHC trên môi trường mạng; đảm bảo cung cấp công cụ hỗ trợ cơ quan hành chính nhà nước trong công tác tổ chức, quản lý, khai thác, lưu trữ khoa học, nhất quán, lâu dài, an toàn, bảo mật hồ sơ TTHC của tổ chức, cá nhân.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:49643:part:2:article:5:clause:6",
+                    "number": "6",
+                    "content": "6. Đảm bảo tính công khai, minh bạch\nvề thông tin, thời gian giải quyết, tình trạng giải quyết hồ sơ.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:49643:part:2:article:5:clause:7",
+                    "number": "7",
+                    "content": "7. Hệ thống thông tin giải quyết TTHC\nBộ Xây dựng được duy trì, nâng cấp thường xuyên. Kinh phí quản lý, vận hành, nâng cấp, bảo trì Hệ thống được đảm bảo từ nguồn ngân sách nhà nước. Việc lập dự toán, quản lý, sử dụng kinh phí thực hiện theo quy định của Luật Ngân sách Nhà nước và các văn bản hướng dẫn thi hành.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:49643:part:2:article:5:clause:8",
+                    "number": "8",
+                    "content": "8. Kho quản lý dữ liệu điện tử của tổ\nchức, cá nhân được thực hiện theo quy định tại Điều 16 Nghị định số 45/2020/NĐ-CP ngày 08 tháng 04 năm 2020 của Chính phủ về thực hiện thủ tục hành chính trên môi trường điện tử (sau đây gọi tắt là Nghị định số\n45/2020/NĐ-CP).",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:49643:part:2:article:6",
+                "number": "6",
+                "title": "Chức năng dành cho tổ chức, cá nhân trên Hệ thống thông tin giải quyết TTHC Bộ Xây dựng",
+                "content": "Điều 6. Chức năng dành cho tổ chức, cá nhân trên Hệ thống thông tin giải quyết TTHC Bộ Xây dựng",
+                "clauses": [
+                  {
+                    "clause_id": "doc:49643:part:2:article:6:clause:1",
+                    "number": "1",
+                    "content": "1. Cung cấp thông tin về TTHC, dịch vụ\ncông trực tuyến của Bộ Xây dựng, gồm các thông tin được đồng bộ từ Cơ sở dữ liệu quốc gia về TTHC như số hiệu TTHC, các nội dung bộ phận cấu thành của TTHC, mức độ dịch vụ công trực tuyến.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:49643:part:2:article:6:clause:2",
+                    "number": "2",
+                    "content": "2. Định danh và xác thực người dùng\ntheo quy định.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:49643:part:2:article:6:clause:3",
+                    "number": "3",
+                    "content": "3. Nộp hồ sơ dịch vụ công trực tuyến\ntrên Hệ thống hoặc qua kết nối với Cổng Dịch vụ công quốc gia.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:49643:part:2:article:6:clause:4",
+                    "number": "4",
+                    "content": "4. Tra cứu thông tin theo các mức độ\nxác thực",
+                    "points": [
+                      {
+                        "point_id": "doc:49643:part:2:article:6:clause:4:point:1",
+                        "label": "a",
+                        "content": "a) Mức độ không đòi hỏi xác thực:\nCông khai các thông tin về mã số hồ sơ TTHC và tiến độ hoàn thành việc giải quyết\nTTHC;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:49643:part:2:article:6:clause:4:point:2",
+                        "label": "b",
+                        "content": "b) Mức độ đã được xác thực: Cung cấp\nthông tin trạng thái giải quyết TTHC; tình hình, kết quả giải quyết phản ánh, kiến nghị của người dùng; các thông tin, hồ sơ điện tử của người dùng đã cung cấp trên hệ thống.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:49643:part:2:article:6:clause:5",
+                    "number": "5",
+                    "content": "5. Hướng dẫn, hỗ trợ thực hiện TTHC\nthông qua bộ câu hỏi - trả lời mẫu và thông tin tổng hợp những nội dung hỏi đáp đã thực hiện trên hệ thống; qua chức năng trả lời người dùng.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:49643:part:2:article:6:clause:6",
+                    "number": "6",
+                    "content": "6. Đánh giá việc giải quyết TTHC, giải\nquyết phản ánh, kiến nghị của cơ quan nhà nước theo quy định.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:49643:part:2:article:6:clause:7",
+                    "number": "7",
+                    "content": "7. Thống kê, tổng hợp tình hình cung\ncấp, giải quyết TTHC.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:49643:part:2:article:7",
+                "number": "7",
+                "title": "Chức năng dành cho cán bộ, công chức, viên chức trong quá trình tiếp nhận, giải quyết và trả kết quả giải quyết hồ sơ TTHC; quản trị, quản lý, vận hành Hệ thống",
+                "content": "Điều 7. Chức năng dành cho cán bộ, công chức, viên chức trong quá trình tiếp nhận, giải quyết và trả kết quả giải quyết hồ sơ TTHC; quản trị, quản lý, vận hành Hệ thống",
+                "clauses": [
+                  {
+                    "clause_id": "doc:49643:part:2:article:7:clause:1",
+                    "number": "1",
+                    "content": "1. Cán bộ, công chức, viên chức tiếp\nnhận, giải quyết và trả kết quả giải quyết TTHC:",
+                    "points": [
+                      {
+                        "point_id": "doc:49643:part:2:article:7:clause:1:point:1",
+                        "label": "a",
+                        "content": "a) Tiếp nhận hồ sơ của tổ chức, cá\nnhân từ Bộ phận Một cửa, Hệ thống thông tin giải quyết thủ tục hành chính Bộ Xây dựng và Cổng Dịch vụ công Quốc gia; tự động sinh mã số hồ sơ TTHC để theo dõi việc xử lý hồ sơ và trả kết quả;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:49643:part:2:article:7:clause:1:point:2",
+                        "label": "b",
+                        "content": "b) Quản lý toàn bộ quá trình giải quyết\nđối với từng hồ sơ giải quyết TTHC trên cơ sở ghi nhận từng bước thực hiện của quá trình theo thời gian thực và lưu trữ thông tin lịch sử của việc giải quyết\nTTHC;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:49643:part:2:article:7:clause:1:point:3",
+                        "label": "c",
+                        "content": "c) Đánh giá chất lượng giải quyết\nTTHC theo Bộ chỉ số phục vụ người dân và doanh nghiệp.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:49643:part:2:article:7:clause:1:point:4",
+                        "label": "d",
+                        "content": "d) Chức năng hỗ trợ thanh toán và quản\nlý thanh toán trực tuyến: tích hợp, sử dụng Nền tảng thanh toán điện tử quốc gia, đặc biệt là thanh toán trực tuyến của Cổng dịch vụ công quốc gia;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:49643:part:2:article:7:clause:1:point:5",
+                        "label": "e",
+                        "content": "e) Các chức năng thực hiện số hóa\ntheo quy định: - Thực hiện kiểm tra tài khoản số của cá nhân, tổ chức; - Hỗ trợ số hóa giấy tờ, hồ sơ; - Ký số trên tệp tin; - Kết nối, tích hợp Cổng Dịch vụ công Quốc gia về: Kiểm tra danh tính số cá nhân, tổ chức; chia sẻ dữ liệu; đồng bộ trạng thái, kết quả xử lý hồ sơ TTHC... - Kết nối, tích hợp và chia sẻ dữ liệu với CSDL Quốc gia (nếu có): Dân cư, Doanh nghiệp, BHXH, Hộ tịch, Thuế...",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:49643:part:2:article:7:clause:2",
+                    "number": "2",
+                    "content": "2. Cán bộ quản lý vận hành Hệ thống tại\nBộ phận Một cửa - Văn phòng Bộ",
+                    "points": [
+                      {
+                        "point_id": "doc:49643:part:2:article:7:clause:2:point:1",
+                        "label": "a",
+                        "content": "a) Quản lý, theo dõi, kiểm soát thông\ntin tổng quan của hệ thống về Một cửa điện tử và các TTHC được thực hiện.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:49643:part:2:article:7:clause:2:point:2",
+                        "label": "b",
+                        "content": "b) Tra cứu thông tin về thủ tục hành\nchính; thông tin về hồ sơ cá nhân, tổ chức tham gia thực hiện TTHC; thông tin có liên quan để phục vụ tiếp nhận hồ sơ giải quyết TTHC.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:49643:part:2:article:7:clause:2:point:3",
+                        "label": "c",
+                        "content": "c) Thống kê, tổng hợp tình hình cung\ncấp, giải quyết TTHC và xây dựng báo cáo tổng hợp để báo cáo Lãnh đạo Bộ, Văn phòng Chính phủ.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:49643:part:2:article:7:clause:3",
+                    "number": "3",
+                    "content": "3. Trung tâm Thông tin",
+                    "points": [
+                      {
+                        "point_id": "doc:49643:part:2:article:7:clause:3:point:1",
+                        "label": "a",
+                        "content": "a) Tạo tài khoản và phân quyền xử lý\ntheo quy trình chuyên môn của các đơn vị có thủ tục hành chính.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:49643:part:2:article:7:clause:3:point:2",
+                        "label": "b",
+                        "content": "b) Thêm mới, khởi tạo quy trình của\ncác dịch vụ công mới đã được Bộ Xây dựng công bố.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:49643:part:2:article:7:clause:3:point:3",
+                        "label": "c",
+                        "content": "c) Hướng dẫn, hỗ trợ Văn phòng Bộ và\ncác đơn vị giải quyết TTHC trong khai thác, sử dụng Hệ thống.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:49643:part:2:article:7:clause:3:point:4",
+                        "label": "d",
+                        "content": "d) Quản trị Hệ thống, đảm bảo kết nối,\nan ninh, an toàn và thường xuyên nâng cấp đáp ứng các yêu cầu Hệ thống, đảm bảo tích hợp, chia sẻ dữ liệu với Cổng Dịch vụ công quốc gia; khắc phục kịp thời các lỗi hoặc sự cố (nếu có).",
+                        "children": []
+                      }
+                    ]
+                  }
+                ],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:49643:part:2:chapter:2",
+            "number": "II",
+            "title": "QUY ĐỊNH VỀ THỰC HIỆN THỦ TỤC HÀNH CHÍNH TRÊN HỆ THỐNG THÔNG TIN GIẢI QUYẾT TTHC BỘ XÂY DỰNG",
+            "content": "Chương II\nQUY ĐỊNH VỀ THỰC\nHIỆN THỦ TỤC HÀNH CHÍNH TRÊN HỆ THỐNG THÔNG TIN GIẢI QUYẾT TTHC BỘ XÂY DỰNG",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:49643:part:2:article:8",
+                "number": "8",
+                "title": "Quản lý đăng ký, thay đổi, cấp lại, sử dụng tài khoản",
+                "content": "Điều 8. Quản lý đăng ký, thay đổi, cấp lại, sử dụng tài khoản",
+                "clauses": [
+                  {
+                    "clause_id": "doc:49643:part:2:article:8:clause:1",
+                    "number": "1",
+                    "content": "1. Quy trình đăng ký, thay đổi, cấp lại\ntài khoản của tổ chức, cá nhân",
+                    "points": [
+                      {
+                        "point_id": "doc:49643:part:2:article:8:clause:1:point:1",
+                        "label": "a",
+                        "content": "a) Tổ chức, cá nhân truy cập vào hệ\nthống và thực hiện các bước khai báo thông tin để đăng ký tài khoản. Hệ thống sẽ xác nhận thông tin và cấp tài khoản cho tổ chức, cá nhân.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:49643:part:2:article:8:clause:1:point:2",
+                        "label": "b",
+                        "content": "b) Tổ chức, cá nhân có thể thay đổi\nthông tin tài khoản (nếu cần).",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:49643:part:2:article:8:clause:1:point:3",
+                        "label": "c",
+                        "content": "c) Trong quá trình sử dụng nếu quên mật\nkhẩu, có thể sử dụng chức năng quên mật khẩu để được cấp lại mật khẩu mới hoặc liên hệ Bộ phận hỗ trợ để được cấp lại thông tin tài khoản. Việc cấp lại tài khoản được thực hiện trong vòng 8 giờ làm việc làm việc sau khi tổ chức, cá nhân cung cấp đầy đủ thông tin cần thiết.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:49643:part:2:article:8:clause:2",
+                    "number": "2",
+                    "content": "2. Quy trình đăng ký, thay đổi, cấp lại\ntài khoản của cán bộ, công chức, viên chức của Bộ Xây dựng",
+                    "points": [
+                      {
+                        "point_id": "doc:49643:part:2:article:8:clause:2:point:1",
+                        "label": "a",
+                        "content": "a) Các đơn vị gửi thông tin đăng ký,\nthay đổi, cấp lại tài khoản của cán bộ, công chức, viên chức về Trung tâm Thông tin.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:49643:part:2:article:8:clause:2:point:2",
+                        "label": "b",
+                        "content": "b) Sau khi nhận được yêu cầu, Trung\ntâm Thông tin thực hiện việc cấp, thay đổi, cấp lại tài khoản theo yêu cầu của đơn vị.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:49643:part:2:article:8:clause:3",
+                    "number": "3",
+                    "content": "3. Quản lý, sử dụng tài khoản",
+                    "points": [
+                      {
+                        "point_id": "doc:49643:part:2:article:8:clause:3:point:1",
+                        "label": "a",
+                        "content": "a) Mật khẩu tài khoản được thiết lập\nbao gồm ít nhất 08 ký tự, trong đó có chữ thường, chữ hoa, số và khuyến khích sử dụng thêm ký hiệu đặc biệt. Cán bộ, công chức, viên chức phải sử dụng hộp thư công vụ để đăng ký tài khoản.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:49643:part:2:article:8:clause:3:point:2",
+                        "label": "b",
+                        "content": "b) Tổ chức, cá nhân, cán bộ, công chức,\nviên chức của Bộ Xây dựng sử dụng tài khoản được cấp để thực hiện giao dịch các dịch vụ công trực tuyến trên Hệ thống thông tin giải quyết TTHC Bộ Xây dựng và có trách nhiệm bảo mật thông tin về tài khoản được cấp, các thông tin của Hệ thống theo quy định.",
+                        "children": []
+                      }
+                    ]
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:49643:part:2:article:9",
+                "number": "9",
+                "title": "Chuẩn bị và nộp hồ sơ điện tử thực hiện TTHC",
+                "content": "Điều 9. Chuẩn bị và nộp hồ sơ điện tử thực hiện TTHC",
+                "clauses": [
+                  {
+                    "clause_id": "doc:49643:part:2:article:9:clause:1",
+                    "number": "1",
+                    "content": "1. Tổ chức, cá nhân chuẩn bị hồ sơ điện\ntử, kê khai mẫu đơn, tờ khai điện tử theo yêu cầu của Hệ thống thông tin giải quyết TTHC Bộ Xây dựng như sau:",
+                    "points": [
+                      {
+                        "point_id": "doc:49643:part:2:article:9:clause:1:point:1",
+                        "label": "a",
+                        "content": "a) Khai mẫu đơn, tờ khai theo các biểu\nmẫu được cung cấp trên hệ thống.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:49643:part:2:article:9:clause:1:point:2",
+                        "label": "b",
+                        "content": "b) Đăng tải các giấy tờ, tài liệu hợp\nlệ hoặc dẫn nguồn tài liệu từ Kho quản lý dữ liệu điện tử của tổ chức, cá nhân.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:49643:part:2:article:9:clause:1:point:3",
+                        "label": "c",
+                        "content": "c) Ký chữ ký số vào mẫu đơn, tờ khai,\ngiấy tờ, tài liệu nếu có yêu cầu. Thành phần hồ sơ được ký số có giá trị pháp lý như văn bản giấy được ký hợp lệ.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:49643:part:2:article:9:clause:2",
+                    "number": "2",
+                    "content": "2. Sau khi hoàn thành việc chuẩn bị,\ntổ chức, cá nhân gửi đơn, tờ khai, hồ sơ điện tử trên Hệ thống. Các thông tin, dữ liệu sau khi được ghi nhận sẽ được Hệ thống thông tin lưu giữ và điền tự động trong các biểu mẫu điện tử, hồ sơ điện tử thực hiện các lần sau.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:49643:part:2:article:9:clause:3",
+                    "number": "3",
+                    "content": "3. Tổ chức, cá nhân chịu trách nhiệm\nvề tính chính xác, hợp pháp của thông tin, tài liệu do mình cung cấp.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:49643:part:2:article:10",
+                "number": "10",
+                "title": "Tiếp nhận, chuyển xử lý hồ sơ trực tuyến",
+                "content": "Điều 10. Tiếp nhận, chuyển xử lý hồ sơ trực tuyến",
+                "clauses": [
+                  {
+                    "clause_id": "doc:49643:part:2:article:10:clause:1",
+                    "number": "1",
+                    "content": "1. Cán bộ, công chức, viên chức được\nphân công tiếp nhận, giải quyết TTHC có trách nhiệm kiểm tra hồ sơ điện tử tổ chức, cá nhân gửi đến Hệ thống thông tin giải quyết TTHC Bộ Xây dựng.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:49643:part:2:article:10:clause:2",
+                    "number": "2",
+                    "content": "2. Trường hợp hồ sơ đáp ứng đầy đủ,\ncán bộ, công chức, viên chức tiếp nhận, xử lý hồ sơ theo quy định tại Chương III Nghị định số 61/2018/NĐ-CP ngày 23/4/2018 của Chính phủ và các quy định của pháp luật có liên quan; trường hợp hồ sơ chưa đầy đủ, cán bộ, công chức, viên chức có trách nhiệm thông báo bổ sung hồ sơ thông qua Hệ thống thông tin giải quyết TTHC Bộ Xây dựng.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:49643:part:2:article:10:clause:3",
+                    "number": "3",
+                    "content": "3. Hồ sơ đáp ứng đầy đủ theo yêu cầu\nsẽ được tiếp nhận và chuyển đến đơn vị giải quyết TTHC.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:49643:part:2:article:10:clause:4",
+                    "number": "4",
+                    "content": "4. Những thông tin, thành phần hồ sơ\nsau khi được cơ quan, đơn vị giải quyết thủ tục hành chính tiếp nhận và xử lý sẽ được lưu trữ tại Kho quản lý dữ liệu điện tử của tổ chức, cá nhân trên Hệ thống thông tin giải quyết TTHC Bộ Xây dựng.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:49643:part:2:article:11",
+                "number": "11",
+                "title": "Thời gian giải quyết hồ sơ TTHC",
+                "content": "Điều 11. Thời gian giải quyết hồ sơ TTHC",
+                "clauses": [
+                  {
+                    "clause_id": "doc:49643:part:2:article:11:clause:1",
+                    "number": "1",
+                    "content": "1. Thời gian giải quyết hồ sơ được tính\ntừ thời điểm hồ sơ được tiếp nhận.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:49643:part:2:article:11:clause:2",
+                    "number": "2",
+                    "content": "2. Thời gian giải quyết hồ sơ không\nvượt quá thời hạn giải quyết được quy định của tại văn bản quy phạm pháp luật về quy định TTHC đó.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:49643:part:2:article:12",
+                "number": "12",
+                "title": "Thanh toán phí, lệ phí",
+                "content": "Điều 12. Thanh toán phí, lệ phí",
+                "clauses": [
+                  {
+                    "clause_id": "doc:49643:part:2:article:12:clause:1",
+                    "number": "1",
+                    "content": "1. Thanh toán phí, lệ phí (nếu có) được\nthực hiện thông qua các công cụ thanh toán trực tuyến, chuyển khoản theo quy định hiện hành của pháp luật.",
+                    "points": [
+                      {
+                        "point_id": "doc:49643:part:2:article:12:clause:1:point:1",
+                        "label": "a",
+                        "content": "a) Tổ chức, cá nhân lựa chọn ngân\nhàng hoặc tổ chức cung ứng dịch vụ trung gian thanh toán đã kết nối, tích hợp với hệ thống thanh toán trực tuyến của Hệ thống thông tin giải quyết TTHC Bộ Xây dựng hoặc hệ thống thanh toán trực tuyến của Cổng Dịch vụ công quốc gia để thực hiện thanh toán.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:49643:part:2:article:12:clause:1:point:2",
+                        "label": "b",
+                        "content": "b) Thời gian tổ chức, cá nhân hoàn\nthành nộp thuế, phí, lệ phí, nghĩa vụ tài chính khác (nếu có) đối với loại giao dịch thanh toán và số tiền đã đóng là thời gian tổ chức, cá nhân nhận được thông báo giao dịch thành công của ngân hàng, trung gian thanh toán cho loại giao dịch thanh toán và số tiền đã đóng đó.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:49643:part:2:article:12:clause:2",
+                    "number": "2",
+                    "content": "2. Hoàn trả phí, lệ phí đã nộp chỉ áp\ndụng khi tổ chức, cá nhân có đề xuất được hoàn phí và thuộc một trong các trường hợp sau:",
+                    "points": [
+                      {
+                        "point_id": "doc:49643:part:2:article:12:clause:2:point:1",
+                        "label": "a",
+                        "content": "a) Hồ sơ đề nghị cung cấp dịch vụ\ncông trực tuyến không thuộc thẩm quyền giải quyết của Bộ Xây dựng.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:49643:part:2:article:12:clause:2:point:2",
+                        "label": "b",
+                        "content": "b) Tổ chức, cá nhân nộp thừa hoặc nộp\ntrùng phí, lệ phí.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:49643:part:2:article:12:clause:2:point:3",
+                        "label": "c",
+                        "content": "c) Hồ sơ không được giải quyết do lỗi\ncủa đơn vị cung cấp dịch vụ công hoặc có thay đổi theo các quy định mới của pháp luật.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:49643:part:2:article:12:clause:2:point:4",
+                        "label": "d",
+                        "content": "d) Các trường hợp khác theo quy định\ncủa pháp luật. Việc hoàn trả phí sẽ được thực hiện thông qua các công cụ thanh toán trực tuyến, chuyển khoản. Đơn vị cung cấp dịch vụ công có trách nhiệm tra soát, đối chiếu, phát hiện và phối hợp với ngân hàng hoặc tổ chức cung ứng dịch vụ trung gian thanh toán hoặc kho bạc nhà nước xử lý việc hoàn trả tiền cho tổ chức, cá nhân.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:49643:part:2:article:12:clause:3",
+                    "number": "3",
+                    "content": "3. Quản lý tài khoản phí, lệ phí\nVăn phòng Bộ và các Cục quản lý tài khoản phí, lệ phí theo quy định của pháp luật đối với các dịch vụ công trực tuyến do Bộ Xây dựng quản lý và cung cấp trên Hệ thống thông tin giải quyết TTHC Bộ Xây dựng.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:49643:part:2:article:13",
+                "number": "13",
+                "title": "Trả kết quả giải quyết TTHC",
+                "content": "Điều 13. Trả kết quả giải quyết TTHC",
+                "clauses": [
+                  {
+                    "clause_id": "doc:49643:part:2:article:13:clause:1",
+                    "number": "1",
+                    "content": "1. Cơ quan có thẩm quyền trả kết quả\ngiải quyết TTHC cho tổ chức, cá nhân bằng bản giấy hoặc bản điện tử theo quy định tại văn bản quy phạm pháp luật chuyên ngành và quy định của pháp luật về dịch vụ công trực tuyến.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:49643:part:2:article:13:clause:2",
+                    "number": "2",
+                    "content": "2. Trước khi chuyển kết quả giải quyết\nTTHC ra Bộ phận Một cửa, các đơn vị giải quyết TTHC có trách nhiệm thực hiện số hóa và đăng tải lên Cơ sở dữ liệu Kết quả giải quyết TTHC theo quy định.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:49643:part:2:article:13:clause:3",
+                    "number": "3",
+                    "content": "3. Kết quả giải quyết TTHC là bản điện\ntử của cơ quan có thẩm quyền có giá trị pháp lý như kết quả giải quyết TTHC bằng văn bản giấy theo quy định tại Điều 14 Nghị định số\n45/2020/NĐ-CP.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:49643:part:2:article:13:clause:4",
+                    "number": "4",
+                    "content": "4. Kết quả giải quyết TTHC bản điện tử\nphải bảo đảm:",
+                    "points": [
+                      {
+                        "point_id": "doc:49643:part:2:article:13:clause:4:point:1",
+                        "label": "a",
+                        "content": "a) Phản ánh đầy đủ các nội dung kết\nquả giải quyết TTHC đã được quy định.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:49643:part:2:article:13:clause:4:point:2",
+                        "label": "b",
+                        "content": "b) Có chữ ký số của cơ quan có thẩm\nquyền giải quyết TTHC.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:49643:part:2:article:13:clause:4:point:3",
+                        "label": "c",
+                        "content": "c) Bảo đảm tính toàn vẹn của dữ liệu,\ntính xác thực, tính chống chối bỏ, phù hợp với quy định của Luật Giao dịch điện tử, Nghị định số 45/2020/NĐ-CP .",
+                        "children": []
+                      }
+                    ]
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:49643:part:2:article:14",
+                "number": "14",
+                "title": "Tra cứu hồ sơ TTHC Tổ chức, cá nhân đăng nhập vào Hệ thống thông tin giải quyết TTHC Bộ Xây dựng hoặc Cổng Dịch vụ công Quốc gia (đối với các dịch vụ công đã tích hợp với Cổng Dịch vụ công Quốc gia), sau đó nhập mã số hồ sơ đã được cấp để tra cứu quá trình giải quyết thủ tục hành chính, đánh giá việc giải quyết thủ tục hành chính và thực hiện các giao dịch khác với các cơ quan có thẩm quyền.",
+                "content": "Điều 14. Tra cứu hồ sơ TTHC Tổ chức, cá nhân đăng nhập vào Hệ thống thông tin giải quyết TTHC Bộ Xây dựng hoặc Cổng Dịch vụ công Quốc gia (đối với các dịch vụ công đã tích hợp với Cổng Dịch vụ công Quốc gia), sau đó nhập mã số hồ sơ đã được cấp để tra cứu quá trình giải quyết thủ tục hành chính, đánh giá việc giải quyết thủ tục hành chính và thực hiện các giao dịch khác với các cơ quan có thẩm quyền.",
+                "clauses": [],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:49643:part:2:chapter:3",
+            "number": "III",
+            "title": "QUY ĐỊNH VỀ TIẾP NHẬN, XỬ LÝ PHẢN ÁNH KIẾN NGHỊ VỀ GIẢI QUYẾT TTHC TRÊN HỆ THỐNG THÔNG TIN GIẢI QUYẾT TTHC BỘ XÂY DỰNG",
+            "content": "Chương III\nQUY ĐỊNH VỀ TIẾP\nNHẬN, XỬ LÝ PHẢN ÁNH KIẾN NGHỊ VỀ GIẢI QUYẾT TTHC TRÊN HỆ THỐNG THÔNG TIN GIẢI\nQUYẾT TTHC BỘ XÂY DỰNG",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:49643:part:2:article:15",
+                "number": "15",
+                "title": "Nội dung phản ánh kiến nghị",
+                "content": "Điều 15. Nội dung phản ánh kiến nghị",
+                "clauses": [
+                  {
+                    "clause_id": "doc:49643:part:2:article:15:clause:1",
+                    "number": "1",
+                    "content": "1. Phản ánh kiến nghị về những vướng\nmắc trong giải quyết TTHC thuộc thẩm quyền giải quyết của Bộ Xây dựng và cơ quan chuyên môn thuộc Bộ.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:49643:part:2:article:15:clause:2",
+                    "number": "2",
+                    "content": "2. Nội dung phản ánh, kiến nghị về những\nvướng mắc của tổ chức, cá nhân khi sử dụng Hệ thống thông tin giải quyết TTHC Bộ Xây dựng.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:49643:part:2:article:16",
+                "number": "16",
+                "title": "Tiếp nhận phản ánh, kiến nghị",
+                "content": "Điều 16. Tiếp nhận phản ánh, kiến nghị",
+                "clauses": [
+                  {
+                    "clause_id": "doc:49643:part:2:article:16:clause:1",
+                    "number": "1",
+                    "content": "1. Đối với nội dung phản ánh kiến nghị\nquy định tại Khoản 1 Điều 15, tổ chức, cá nhân thực hiện TTHC thực hiện gửi phản ánh, kiến nghị theo các hình thức sau đây:",
+                    "points": [
+                      {
+                        "point_id": "doc:49643:part:2:article:16:clause:1:point:1",
+                        "label": "a",
+                        "content": "a) Gửi phản ánh\nkiến nghị qua cổng thông tin phản ánh, kiến nghị tại địa chỉ: https://pakn.dichvucong.gov.vn.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:49643:part:2:article:16:clause:1:point:2",
+                        "label": "b",
+                        "content": "b) Gửi phản ánh\nkiến nghị bằng hình thức thư điện tử vào địa chỉ: hotrodvc@moc.gov.vn.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:49643:part:2:article:16:clause:1:point:3",
+                        "label": "c",
+                        "content": "c) Liên hệ trực tiếp theo số điện thoại\nđường dây nóng đăng tải trên trang chủ Hệ thống thông tin giải quyết TTHC Bộ Xây dựng.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:49643:part:2:article:16:clause:2",
+                    "number": "2",
+                    "content": "2. Đối với nội dung phản ánh, kiến\nnghị quy định tại Khoản 2 Điều 15, tổ chức, cá nhân thực hiện TTHC thực hiện gửi phản ánh, kiến nghị theo các hình thức sau đây:",
+                    "points": [
+                      {
+                        "point_id": "doc:49643:part:2:article:16:clause:2:point:1",
+                        "label": "a",
+                        "content": "a) Gửi phản ánh,\nkiến nghị bằng hình thức thư điện tử vào địa chỉ: hotrodvc@moc.gov.vn.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:49643:part:2:article:16:clause:2:point:2",
+                        "label": "b",
+                        "content": "b) Liên hệ trực tiếp theo số điện thoại\nhướng dẫn kỹ thuật đăng tải trên trang chủ Hệ thống thông tin giải quyết TTHC Bộ Xây dựng.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:49643:part:2:article:16:clause:3",
+                    "number": "3",
+                    "content": "3. Hệ thống thông tin giải quyết TTHC\nBộ Xây dựng không tiếp nhận phản ánh, kiến nghị nằm ngoài các nội dung đã được quy định tại Điều 15.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:49643:part:2:article:17",
+                "number": "17",
+                "title": "Xử lý nội dung trả lời phản ánh, kiến nghị",
+                "content": "Điều 17. Xử lý nội dung trả lời phản ánh, kiến nghị",
+                "clauses": [
+                  {
+                    "clause_id": "doc:49643:part:2:article:17:clause:1",
+                    "number": "1",
+                    "content": "1. Khi nhận được phản ánh, kiến nghị,\ncán bộ, công chức, viên chức làm việc tại Bộ phận Một cửa Bộ Xây dựng, đơn vị quản trị vận hành Hệ thống tiếp nhận và phân loại nội dung sau đó chuyển về đơn vị có trách nhiệm trả lời để giải quyết.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:49643:part:2:article:17:clause:2",
+                    "number": "2",
+                    "content": "2. Phản ánh, kiến nghị của tổ chức,\ncá nhân phải được trả lời trong thời hạn 20 ngày.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:49643:part:2:chapter:4",
+            "number": "IV",
+            "title": "QUY ĐỊNH VỀ TRÁCH NHIỆM QUẢN LÝ, VẬN HÀNH VÀ SỬ DỤNG HỆ THỐNG THÔNG TIN GIẢI QUYẾT TTHC BỘ XÂY DỰNG",
+            "content": "Chương IV\nQUY ĐỊNH VỀ\nTRÁCH NHIỆM QUẢN LÝ, VẬN HÀNH VÀ SỬ DỤNG HỆ THỐNG THÔNG TIN GIẢI QUYẾT TTHC BỘ\nXÂY DỰNG",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:49643:part:2:article:18",
+                "number": "18",
+                "title": "Trách nhiệm của Trung tâm Thông tin",
+                "content": "Điều 18. Trách nhiệm của Trung tâm Thông tin",
+                "clauses": [
+                  {
+                    "clause_id": "doc:49643:part:2:article:18:clause:1",
+                    "number": "1",
+                    "content": "1. Là đơn vị đầu mối chịu trách nhiệm\nvề kỹ thuật, bảo trì, nâng cấp để đảm bảo Hệ thống thông tin giải quyết TTHC Bộ Xây dựng hoạt động thông suốt, ổn định; kịp thời hỗ trợ, khắc phục sự cố kỹ thuật khi phát sinh.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:49643:part:2:article:18:clause:2",
+                    "number": "2",
+                    "content": "2. Đơn vị quản trị Hệ thống thông tin\ngiải quyết TTHC Bộ Xây dựng.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:49643:part:2:article:18:clause:3",
+                    "number": "3",
+                    "content": "3. Đảm bảo an toàn, bảo mật thông\ntin, dữ liệu của Hệ thống theo các quy định hiện hành.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:49643:part:2:article:18:clause:4",
+                    "number": "4",
+                    "content": "4. Theo dõi, đôn đốc các đơn vị thuộc\nBộ kịp thời xây dựng, sửa đổi, nâng cấp các dịch vụ công trực tuyến; định kỳ hàng năm tổng hợp, báo cáo Lãnh đạo Bộ tình hình cung cấp dịch vụ công trực tuyến của Bộ Xây dựng.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:49643:part:2:article:18:clause:5",
+                    "number": "5",
+                    "content": "5. Theo dõi, duy trì và đảm bảo việc\nkết nối, chia sẻ, khai thác dữ liệu giữa Hệ thống thông tin giải quyết TTHC Bộ Xây dựng với Cổng dịch vụ công quốc gia, Cổng thông tin một cửa quốc gia và các cơ sở dữ liệu chuyên ngành.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:49643:part:2:article:18:clause:6",
+                    "number": "6",
+                    "content": "6. Tổ chức tập huấn, hướng dẫn sử dụng\nHệ thống thông tin giải quyết TTHC Bộ Xây dựng cho các đơn vị có liên quan.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:49643:part:2:article:18:clause:7",
+                    "number": "7",
+                    "content": "7. Đầu mối theo dõi, đôn đốc việc thực\nhiện Quy chế này; tổng hợp các vướng mắc, phát sinh trong quá trình thực hiện để báo cáo Lãnh đạo Bộ xem xét điều chỉnh, bổ sung cho phù hợp.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:49643:part:2:article:18:clause:8",
+                    "number": "8",
+                    "content": "8. Là đầu mối thực hiện báo cáo định\nkỳ hoặc đột xuất về Hệ thống thông tin giải quyết TTHC theo chức năng, nhiệm vụ được giao.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:49643:part:2:article:19",
+                "number": "19",
+                "title": "Trách nhiệm của Văn phòng Bộ",
+                "content": "Điều 19. Trách nhiệm của Văn phòng Bộ",
+                "clauses": [
+                  {
+                    "clause_id": "doc:49643:part:2:article:19:clause:1",
+                    "number": "1",
+                    "content": "1. Theo dõi, kiểm tra, đánh giá tình\nhình giải quyết hồ sơ TTHC của các cơ quan, đơn vị nhằm kịp thời phát hiện, giải quyết các vướng mắc phát sinh; hỗ trợ tổ chức, cá nhân sử dụng dịch vụ công trực tuyến trên Hệ thống thông tin giải quyết TTHC Bộ Xây dựng; tổng hợp các vướng mắc, phát sinh trong quá trình thực hiện, gửi Trung tâm Thông tin xem xét điều chỉnh, bổ sung, nâng cấp cho phù hợp.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:49643:part:2:article:19:clause:2",
+                    "number": "2",
+                    "content": "2. Đầu mối tiếp nhận phản ánh, kiến\nnghị của tổ chức, cá nhân về tình hình xử lý các dịch vụ công trực tuyến của các đơn vị cung cấp dịch vụ trên Hệ thống thông tin giải quyết TTHC Bộ Xây dựng, phân loại và chuyển tới các đơn vị chuyên môn trả lời; theo dõi, đôn đốc, tổng hợp nội dung trả lời để trả lời tổ chức, cá nhân theo quy định.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:49643:part:2:article:19:clause:3",
+                    "number": "3",
+                    "content": "3. Phối hợp với Trung tâm Thông tin\nvà các đơn vị liên quan xây dựng dịch vụ công mới, sửa đổi khi có thay đổi về quy trình của các TTHC, thông báo cho Trung tâm Thông tin biết TTHC bị bãi bỏ để dừng hoạt động của dịch vụ công trực tuyến trên Hệ thống thông tin giải quyết thủ tục hành chính Bộ Xây dựng.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:49643:part:2:article:19:clause:4",
+                    "number": "4",
+                    "content": "4. Triển khai công tác tuyên truyền,\ngiới thiệu dịch vụ công trực tuyến để nâng cao nhận thức và khuyến khích, hướng dẫn các tổ chức, cá nhân tham gia, sử dụng dịch vụ công trực tuyến.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:49643:part:2:article:20",
+                "number": "20",
+                "title": "Trách nhiệm của các đơn vị giải quyết TTHC thuộc Bộ Xây dựng",
+                "content": "Điều 20. Trách nhiệm của các đơn vị giải quyết TTHC thuộc Bộ Xây dựng",
+                "clauses": [
+                  {
+                    "clause_id": "doc:49643:part:2:article:20:clause:1",
+                    "number": "1",
+                    "content": "1. Tuân thủ quy định của pháp luật\nchuyên ngành, giao dịch điện tử, bí mật nhà nước và sử dụng chữ ký số.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:49643:part:2:article:20:clause:2",
+                    "number": "2",
+                    "content": "2. Cán bộ, công chức, viên chức của\ncác đơn vị được cấp tài khoản người dùng để truy cập vào Hệ thống thông tin giải quyết TTHC Bộ Xây dựng có trách nhiệm bảo đảm bí mật của tài khoản được cấp.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:49643:part:2:article:20:clause:3",
+                    "number": "3",
+                    "content": "3. Tiếp nhận, xử lý, thẩm định hồ sơ,\nphê duyệt hoặc từ chối phê duyệt, trả kết quả giải quyết TTHC theo Quy chế này và các quy định liên quan.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:49643:part:2:article:20:clause:4",
+                    "number": "4",
+                    "content": "4. Thủ trưởng đơn vị thường xuyên kiểm\ntra tiến độ giải quyết hồ sơ TTHC của đơn vị qua Hệ thống thông tin giải quyết TTHC Bộ Xây dựng; chỉ đạo kịp thời việc xử lý hồ sơ còn tồn đọng (nếu có); chịu trách nhiệm về kết quả giải quyết TTHC của đơn vị mình.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:49643:part:2:article:20:clause:5",
+                    "number": "5",
+                    "content": "5. Cán bộ, công chức, viên chức của\nđơn vị được cử đến làm việc tại Bộ phận Tiếp nhận và Trả kết quả giải quyết TTHC Bộ Xây dựng và cán bộ, công chức, viên chức tham gia giải quyết hồ sơ TTHC có trách nhiệm sử dụng tài khoản được cấp trên Hệ thống thông tin giải quyết TTHC Bộ Xây dựng để thực hiện nhiệm vụ được giao; xử lý đồng bộ hồ sơ điện tử trên Hệ thống và hồ sơ giấy (nếu có) cùng lúc để đảm bảo hồ sơ không bị chậm trễ; có trách nhiệm bảo mật thông tin về tài khoản của mình và các thông tin, dữ liệu của Hệ thống.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:49643:part:2:article:20:clause:6",
+                    "number": "6",
+                    "content": "6. Tiếp nhận thông tin, đề xuất, kiến\nnghị của tổ chức, cá nhân về việc cung cấp dịch vụ công trực tuyến; hướng dẫn tổ chức, cá nhân trong quá trình sử dụng các dịch vụ của Hệ thống thông tin giải quyết TTHC Bộ Xây dựng; phối hợp với Trung tâm Thông tin, Văn phòng Bộ bảo đảm cung cấp dịch vụ công trực tuyến đúng quy định.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:49643:part:2:article:20:clause:7",
+                    "number": "7",
+                    "content": "7. Kịp thời phát hiện các vướng mắc\nphát sinh trong quá trình thực hiện tiếp nhận giải quyết và trả kết quả giải quyết TTHC trên Hệ thống thông tin giải quyết TTHC Bộ Xây dựng, gửi Văn phòng Bộ và Trung tâm Thông tin để xử lý kịp thời.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:49643:part:2:article:20:clause:8",
+                    "number": "8",
+                    "content": "8. Thực hiện chế độ báo cáo định kỳ\nhoặc đột xuất về tình hình thực hiện dịch vụ công trực tuyến trên Hệ thống thông tin giải quyết TTHC Bộ Xây dựng do Lãnh đạo Bộ hoặc Văn phòng Chính phủ yêu cầu.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:49643:part:2:article:20:clause:9",
+                    "number": "9",
+                    "content": "9. Tạo điều kiện, hỗ trợ và phối hợp\nvới cán bộ quản trị Hệ thống thực hiện chức năng được phân công để đảm bảo hệ thống hoạt động ổn định, nhanh chóng và kịp thời.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:49643:part:2:article:20:clause:10",
+                    "number": "10",
+                    "content": "10. Chủ trì, phối hợp với Trung tâm\nThông tin và Văn phòng Bộ xây dựng dịch vụ công mới hoặc sửa đổi khi có thay đổi về quy trình của các TTHC, dừng hoạt động của dịch vụ công trực tuyến khi TTHC bị bãi bỏ.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:49643:part:2:article:20:clause:11",
+                    "number": "11",
+                    "content": "11. Phối hợp với Trung tâm Thông tin\nvà các đơn vị liên quan duy trì kết nối, hoạt động của các dịch vụ công trực tuyến để đảm bảo Hệ thống thông tin giải quyết TTHC Bộ Xây dựng hoạt động thông suốt, ổn định; đảm bảo an toàn, bảo mật thông tin, dữ liệu của các dịch vụ công trực tuyến theo các quy định hiện hành; phối hợp với Trung tâm Thông tin và các đơn vị liên quan khắc phục sự cố kỹ thuật khi phát sinh.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:49643:part:2:article:21",
+                "number": "21",
+                "title": "Trách nhiệm của Vụ Kế hoạch - Tài chính Chủ trì, phối hợp với Văn phòng Bộ, Trung tâm Thông tin tham mưu cho Lãnh đạo Bộ Xây dựng bố trí kinh phí cho việc xây dựng, nâng cấp, quản lý, vận hành, bảo trì Hệ thống thông tin giải quyết TTHC Bộ Xây dựng; kết nối, tích hợp với Cổng dịch vụ công quốc gia.",
+                "content": "Điều 21. Trách nhiệm của Vụ Kế hoạch - Tài chính Chủ trì, phối hợp với Văn phòng Bộ, Trung tâm Thông tin tham mưu cho Lãnh đạo Bộ Xây dựng bố trí kinh phí cho việc xây dựng, nâng cấp, quản lý, vận hành, bảo trì Hệ thống thông tin giải quyết TTHC Bộ Xây dựng; kết nối, tích hợp với Cổng dịch vụ công quốc gia.",
+                "clauses": [],
+                "points": []
+              },
+              {
+                "article_id": "doc:49643:part:2:article:22",
+                "number": "22",
+                "title": "Trách nhiệm của cán bộ, công chức, viên chức tiếp nhận giải quyết hồ sơ và trả kết quả giải quyết TTHC trên Hệ thống thông tin giải quyết TTHC Thực hiện các nhiệm vụ được giao theo",
+                "content": "Điều 22. Trách nhiệm của cán bộ, công chức, viên chức tiếp nhận giải quyết hồ sơ và trả kết quả giải quyết TTHC trên Hệ thống thông tin giải quyết TTHC Thực hiện các nhiệm vụ được giao theo",
+                "clauses": [],
+                "points": []
+              },
+              {
+                "article_id": "doc:49643:part:2:article:23",
+                "number": "23",
+                "title": "Trách nhiệm tổ chức, cá nhân sử dụng Hệ thống thông tin giải quyết TTHC Bộ Xây dựng",
+                "content": "Điều 23. Trách nhiệm tổ chức, cá nhân sử dụng Hệ thống thông tin giải quyết TTHC Bộ Xây dựng",
+                "clauses": [
+                  {
+                    "clause_id": "doc:49643:part:2:article:23:clause:1",
+                    "number": "1",
+                    "content": "1. Cung cấp đầy đủ thông tin khi tạo\ntài khoản và chịu mọi trách nhiệm liên quan khi sử dụng tài khoản trên Hệ thống thông tin giải quyết TTHC Bộ Xây dựng.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:49643:part:2:article:23:clause:2",
+                    "number": "2",
+                    "content": "2. Cung cấp đầy đủ, chính xác và chịu\ntrách nhiệm trước pháp luật về nội dung hồ sơ, tài liệu cung cấp khi thực hiện các TTHC trực tuyến.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:49643:part:2:article:23:clause:3",
+                    "number": "3",
+                    "content": "3. Tuân thủ quy định của pháp luật\nchuyên ngành, giao dịch điện tử, bí mật nhà nước và sử dụng chữ ký số.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:49643:part:2:article:23:clause:4",
+                    "number": "4",
+                    "content": "4. Lưu giữ hồ sơ hành chính trực tuyến\ntheo quy định của pháp luật về giao dịch điện tử và pháp luật chuyên ngành; cung cấp hồ sơ, chứng từ điện tử và bản giấy liên quan để phục vụ công tác kiểm tra, thanh tra (nếu có).",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:49643:part:2:article:23:clause:5",
+                    "number": "5",
+                    "content": "5. Không làm sai lệch, hư hỏng, thất\nthoát, chiếm đoạt, phá hủy, gian lận, mạo nhận trái phép và khai thác, sử dụng, phát tán thông tin, dữ liệu TTHC.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:49643:part:2:article:23:clause:6",
+                    "number": "6",
+                    "content": "6. Không được sử dụng các dịch vụ giả\nmạo, sử dụng mật khẩu trái phép, chiếm quyền điều khiển; tạo, cài đặt, phát tán phần mềm độc hại, vi-rút máy tính; phá hoại Hệ thống thông tin giải quyết TTHC Bộ Xây dựng.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:49643:part:2:article:23:clause:7",
+                    "number": "7",
+                    "content": "7. Nộp phí, lệ phí, các khoản khác\ntheo quy định của pháp luật.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:49643:part:2:article:24",
+                "number": "24",
+                "title": "Tổ chức thực hiện Trong quá trình triển khai thực hiện, nếu phát sinh khó khăn, vướng mắc, các đơn vị, tổ chức, cá nhân kịp thời phản ánh về Trung tâm Thông tin, Bộ Xây dựng để tổng hợp, báo cáo Lãnh đạo Bộ xem xét, điều chỉnh Quy chế cho phù hợp./.",
+                "content": "Điều 24. Tổ chức thực hiện Trong quá trình triển khai thực hiện, nếu phát sinh khó khăn, vướng mắc, các đơn vị, tổ chức, cá nhân kịp thời phản ánh về Trung tâm Thông tin, Bộ Xây dựng để tổng hợp, báo cáo Lãnh đạo Bộ xem xét, điều chỉnh Quy chế cho phù hợp./.",
+                "clauses": [],
+                "points": []
+              }
+            ]
+          }
+        ],
+        "sections": [],
+        "articles": [],
+        "unstructured_blocks": []
+      }
+    ]
+  },
+  "issues": [],
+  "status": "ok",
+  "source_hash": "context_49643.json",
+  "stats": {
+    "source_chars": 27663,
+    "passage_chars": 27515,
+    "parts": 2,
+    "chapters": 4,
+    "sections": 0,
+    "articles": 27,
+    "clauses": 82,
+    "points": 38
+  }
+}

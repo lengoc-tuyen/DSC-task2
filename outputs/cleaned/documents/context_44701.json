@@ -1,0 +1,658 @@
+{
+  "schema_version": "2.0",
+  "document_id": 44701,
+  "metadata": {
+    "name": "Quyet-dinh-450-QD-UBCK-2021-Quy-che-su-dung-He-thong-cong-bo-thong-tin-cua-Uy-ban-Chung-khoan-488044",
+    "link": "https://thuvienphapluat.vn/van-ban/Chung-khoan/Quyet-dinh-450-QD-UBCK-2021-Quy-che-su-dung-He-thong-cong-bo-thong-tin-cua-Uy-ban-Chung-khoan-488044.aspx",
+    "issuing_agency": "BỘ TÀI CHÍNH ỦY BAN CHỨNG KHOÁN",
+    "national_header": "CỘNG\r\n\n  HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM",
+    "motto": "Độc lập - Tự do - Hạnh phúc",
+    "document_number": "450/QĐ-UBCK",
+    "issued_place": "Hà Nội",
+    "issued_date": "ngày 14 tháng 7\r\n\n  năm 2021",
+    "document_type": "QUYẾT ĐỊNH",
+    "title": "BAN HÀNH QUY CHẾ SỬ DỤNG HỆ THỐNG CÔNG BỐ THÔNG TIN CỦA ỦY BAN CHỨNG KHOÁN NHÀ NƯỚC"
+  },
+  "administrative_header": {
+    "removed": true,
+    "removed_char_count": 176
+  },
+  "preamble": {
+    "text": "QUYẾT ĐỊNH\nBAN HÀNH QUY CHẾ SỬ DỤNG HỆ THỐNG CÔNG BỐ THÔNG TIN CỦA ỦY BAN CHỨNG\nKHOÁN NHÀ NƯỚC\nCHỦ TỊCH ỦY BAN CHỨNG KHOÁN NHÀ NƯỚC\nCăn cứ Luật Chứng khoán ngày 26 tháng 11 năm 2019; Căn cứ Quyết định số 48/2015/QĐ-TTg ngày 08 tháng 10 năm 2015 của Thủ tướng Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Ủy ban Chứng khoán Nhà nước trực thuộc Bộ Tài chính; Căn cứ Nghị định số 155/2020/NĐ-CP ngày 31 tháng 12 năm 2020 của Chính phủ quy định chi tiết thi hành một số điều của Luật chứng khoán; Căn cứ Thông tư số 96/2020/TT-BTC ngày 16 tháng 11 năm 2020 của Bộ trưởng Bộ Tài chính hướng dẫn công bố thông tin trên thị trường chứng khoán; Căn cứ Thông tư số 118/2020/TT-BTC ngày 31 tháng 12 năm 2020 của Bộ trưởng Bộ Tài chính hướng dẫn một số nội dung về chào bán, phát hành chứng khoán, chào mua công khai, mua lại cổ phiếu, đăng ký công ty đại chúng và hủy tư cách công ty đại chúng; Căn cứ Thông tư số 134/2017/TT-BTC ngày 19 tháng 12 năm 2017 của Bộ trưởng Bộ Tài chính hướng dẫn giao dịch điện tử trên thị trường chứng khoán; Thông tư số 73/2020/TT-BTC ngày 07 tháng 8 năm 2020 của Bộ trưởng Bộ Tài chính về sửa đổi, bổ sung một số điều của Thông tư 134/2017/TT-BTC ngày 19 tháng 12 năm 2017 của Bộ trưởng Bộ Tài chính về hướng dẫn giao dịch điện tử trên thị trường chứng khoán; Theo đề nghị của Cục trưởng Cục Công nghệ thông tin.\nQUYẾT ĐỊNH:",
+    "legal_bases": [
+      "Căn cứ Quyết định số 48/2015/QĐ-TTg ngày 08 tháng 10 năm 2015 của Thủ tướng Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Ủy ban Chứng khoán Nhà nước trực thuộc Bộ Tài chính",
+      "Căn cứ Nghị định số 155/2020/NĐ-CP ngày 31 tháng 12 năm 2020 của Chính phủ quy định chi tiết thi hành một số điều của Luật chứng khoán",
+      "Căn cứ Thông tư số 96/2020/TT-BTC ngày 16 tháng 11 năm 2020 của Bộ trưởng Bộ Tài chính hướng dẫn công bố thông tin trên thị trường chứng khoán",
+      "Căn cứ Thông tư số 118/2020/TT-BTC ngày 31 tháng 12 năm 2020 của Bộ trưởng Bộ Tài chính hướng dẫn một số nội dung về chào bán, phát hành chứng khoán, chào mua công khai, mua lại cổ phiếu, đăng ký công ty đại chúng và hủy tư cách công ty đại chúng",
+      "Căn cứ Thông tư số 134/2017/TT-BTC ngày 19 tháng 12 năm 2017 của Bộ trưởng Bộ Tài chính hướng dẫn giao dịch điện tử trên thị trường chứng khoán"
+    ],
+    "proposals": [
+      "Theo đề nghị của Cục trưởng Cục Công nghệ thông tin.\nQUYẾT ĐỊNH:"
+    ],
+    "enactment_formula": "QUYẾT ĐỊNH"
+  },
+  "passage": "QUYẾT ĐỊNH\nBAN HÀNH QUY CHẾ SỬ DỤNG HỆ THỐNG CÔNG BỐ THÔNG TIN CỦA ỦY BAN CHỨNG\nKHOÁN NHÀ NƯỚC\nCHỦ TỊCH ỦY BAN CHỨNG KHOÁN NHÀ NƯỚC\nCăn cứ Luật Chứng khoán ngày 26 tháng 11 năm 2019; Căn cứ Quyết định số 48/2015/QĐ-TTg ngày 08 tháng 10 năm 2015 của Thủ tướng Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Ủy ban Chứng khoán Nhà nước trực thuộc Bộ Tài chính; Căn cứ Nghị định số 155/2020/NĐ-CP ngày 31 tháng 12 năm 2020 của Chính phủ quy định chi tiết thi hành một số điều của Luật chứng khoán; Căn cứ Thông tư số 96/2020/TT-BTC ngày 16 tháng 11 năm 2020 của Bộ trưởng Bộ Tài chính hướng dẫn công bố thông tin trên thị trường chứng khoán; Căn cứ Thông tư số 118/2020/TT-BTC ngày 31 tháng 12 năm 2020 của Bộ trưởng Bộ Tài chính hướng dẫn một số nội dung về chào bán, phát hành chứng khoán, chào mua công khai, mua lại cổ phiếu, đăng ký công ty đại chúng và hủy tư cách công ty đại chúng; Căn cứ Thông tư số 134/2017/TT-BTC ngày 19 tháng 12 năm 2017 của Bộ trưởng Bộ Tài chính hướng dẫn giao dịch điện tử trên thị trường chứng khoán; Thông tư số 73/2020/TT-BTC ngày 07 tháng 8 năm 2020 của Bộ trưởng Bộ Tài chính về sửa đổi, bổ sung một số điều của Thông tư 134/2017/TT-BTC ngày 19 tháng 12 năm 2017 của Bộ trưởng Bộ Tài chính về hướng dẫn giao dịch điện tử trên thị trường chứng khoán; Theo đề nghị của Cục trưởng Cục Công nghệ thông tin.\nQUYẾT ĐỊNH:\nĐiều 1. Ban hành kèm theo Quyết định này Quy chế sử dụng Hệ thống công bố thông tin của Ủy ban Chứng khoán Nhà nước.\nĐiều 2. Quyết định này có hiệu lực kể từ ngày ký và thay thế Quyết định số 296/QĐ-UBCK ngày 31 tháng 3 năm 2017 của Chủ tịch Ủy ban Chứng khoán Nhà nước về ban hành Quy chế hướng dẫn công ty đại chúng sử dụng hệ thống công bố thông tin của Ủy ban Chứng khoán Nhà nước.\nĐiều 3. Chánh Văn phòng, Cục trưởng Cục Công nghệ thông tin, Vụ trưởng Vụ Giám sát công ty đại chúng, Vụ trưởng Vụ Quản lý chào bán chứng khoán, các công ty đại chúng và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này./.\nNơi nhận:\n- Như điều 3;\n- Lưu: VT, CNTT(10b).\nCHỦ\nTỊCH\nTrần Văn Dũng\nQUY CHẾ\nSỬ DỤNG HỆ THỐNG CÔNG BỐ THÔNG TIN CỦA ỦY BAN CHỨNG KHOÁN NHÀ NƯỚC\n(Ban hành kèm theo Quyết định số 450/QĐ-UBCK ngày 14 tháng 7 năm 2021 của Chủ tịch\nỦy ban Chứng khoán Nhà nước)\nChương I\nQUY ĐỊNH CHUNG\nĐiều 1. Phạm vi điều chỉnh\nQuy chế này quy định việc sử dụng Hệ\nthống công bố thông tin của Ủy ban Chứng khoán Nhà nước (UBCKNN) để thực hiện báo cáo và công bố thông tin bằng hình thức điện tử theo quy định của pháp luật về công bố thông tin trên thị trường chứng khoán.\nĐiều 2. Đối tượng áp dụng\n1. Công ty đại chúng theo quy định tại\nkhoản 1 Điều 32 Luật Chứng khoán (trừ công ty chứng khoán, công ty quản lý quỹ đầu tư chứng khoán).\n2. Tổ chức, cá nhân có liên quan\nkhác.\nĐiều 3. Giải thích từ ngữ Trong quy chế này, các từ ngữ dưới đây được hiểu như sau:\n1. Hệ thống IDS (Information\nDisclosure System) là Hệ thống công bố thông tin của UBCKNN, bao gồm: - Hệ thống tiếp nhận báo cáo, thông tin công bố của công ty đại chúng tại địa chỉ http://ids.ssc.gov.vn. - Trang thông tin điện tử hiển thị thông tin công bố của công ty đại chúng được tiếp nhận và phê duyệt trên Hệ thống tiếp nhận, có địa chỉ http://congbothongtin.ssc.gov.vn.\n2. Hồ sơ công ty trên IDS bao\ngồm thông tin cơ bản về công ty đại chúng; danh sách người nội bộ và người liên quan, danh sách cổ đông (cổ đông sáng lập và cổ đông lớn); hồ sơ chào bán, phát hành chứng khoán, chào mua công khai; thông tin tài chính và lịch sử thay đổi thông tin công ty đại chúng.\n3. Mật khẩu phức tạp là mật khẩu\nđáp ứng yêu cầu sau: - Có tối thiểu tám (08) ký tự; - Gồm tối thiểu ba (03) trong số bốn (04) loại ký tự sau: chữ cái viết hoa (A-Z), chữ cái viết thường (a-z), chữ số (0-9), các ký tự khác trên bàn phím máy tính (~,!,...).\n4. Chứng thư số công cộng là một\ndạng chứng thư điện tử do tổ chức cung cấp dịch vụ chứng thực chữ ký số công cộng cấp cho các cơ quan, tổ chức, cá nhân sử dụng trong các hoạt động công cộng.\n5. Token là thiết bị đáp ứng\ntiêu chuẩn của Bộ Thông tin và Truyền thông để lưu trữ chứng thư số công cộng và khóa bí mật của người sử dụng.\n6. Email nhận phản hồi, số\nđiện thoại di động là địa chỉ hòm thư điện tử và số điện thoại di động của người thực hiện công bố thông tin của công ty đại chúng đăng ký với UBCKNN để nhận thông tin từ Hệ thống IDS, các thông tin bao gồm: Thông tin tài khoản sử dụng Hệ thống IDS, thông báo gửi báo cáo thành công, thông báo báo cáo đã gửi bị từ chối.\n7. Ngày báo cáo trên Hệ thống IDS\nlà ngày thông tin được tiếp nhận trên Hệ thống IDS.\n8. Ngày công bố thông tin trên Hệ\nthống IDS là ngày thông tin xuất hiện trên Hệ thống IDS.\n9. XBRL (eXtensible Business\nReporting Language) là chuẩn dữ liệu ngôn ngữ báo cáo kinh doanh mở rộng.\n10. Biểu mẫu XBRL là biểu mẫu\nbáo cáo tài chính có định dạng XBRL trên Hệ thống IDS, cho phép các công ty đại chúng tải về, nhập dữ liệu và đổ dữ liệu báo cáo tài chính trên Hệ thống IDS.\nĐiều 4. Các yêu cầu chung\n1. Công ty đại chúng thực hiện báo\ncáo, công bố thông tin trên Hệ thống IDS tại địa chỉ http://ids.ssc.gov.vn.\n2. Công ty đại chúng sử dụng tài khoản\ndo UBCKNN cấp và chữ ký số công cộng có giá trị pháp lý tương đương con dấu của công ty để thực hiện báo cáo và công bố thông tin điện tử trên Hệ thống IDS.\n3. Công ty đại chúng phải đăng ký thông\ntin về người thực hiện công bố thông tin của công ty với UBCKNN theo mẫu tại Phụ lục II ban hành kèm theo Quy chế này. Khi có thay đổi về người thực hiện công bố thông tin, công ty phải cập nhật trên Hệ thống IDS và chịu trách nhiệm về các thay đổi này.\n4. Công ty đại chúng phải cập nhật\ncác thông tin về Hồ sơ công ty đại chúng trên Hệ thống IDS ngay sau khi đăng nhập hệ thống. Khi có thay đổi về các thông tin nêu trên, công ty phải cập nhật trên Hệ thống IDS và chịu trách nhiệm về các thay đổi này.\nĐiều 5. Yêu cầu về kỹ thuật\n1. Máy tính sử dụng để gửi báo cáo và\ncông bố thông tin: - Máy tính sử dụng một trong các trình duyệt Internet Explorer hoặc Firefox hoặc Chrome. - Máy tính phải được kết nối internet.\n2. Thiết bị lưu chứng thư số công cộng\n(Token) do nhà cung cấp dịch vụ chứng thư số công cộng cấp cho công ty.\nĐiều 6. Yêu cầu về dữ liệu của báo cáo\n1. Công ty đại chúng gửi các báo cáo\nvà thông tin công bố dưới dạng file dữ liệu điện tử lên Hệ thống IDS. Các báo cáo và thông tin công bố theo quy định tại Điều 14 Quy chế này.\n2. Định dạng file báo cáo:\n- File biểu mẫu của báo cáo và công bố thông tin trên Hệ thống IDS có định dạng file Excel hoặc XBRL. Công ty đại chúng chỉ sử dụng các file biểu mẫu mới nhất được tải về từ Hệ thống IDS, đảm bảo thứ tự của các cột, các ô theo đúng file biểu mẫu. - File đính kèm phải được định dạng file PDF.\n3. Định dạng font chữ: Thông tin nhập\nvào Hệ thống IDS phải sử dụng Tiếng Việt với font chữ Unicode TCVN 6909:2001 .\n4. Công ty đại chúng không được tự ý\nthay đổi định dạng biểu mẫu báo cáo trên Hệ thống IDS. Trường hợp cần thay đổi, sửa chữa phải có văn bản đề nghị và được UBCKNN chấp thuận.\nĐiều 7. Yêu cầu về an toàn bảo mật\n1. Để đảm bảo an toàn thông tin, tệp\ntài liệu báo cáo và thông tin công bố trên Hệ thống IDS phải được công ty đại chúng ký số bằng chữ ký số công cộng hợp lệ.\n2. Công ty đại chúng tham gia sử dụng\nHệ thống IDS phải tuân thủ quy định về phân quyền sử dụng; quản lý và sử dụng tài khoản; không được phát tán virus máy tính, sử dụng tài khoản, mật khẩu khác để thâm nhập hệ thống.\nĐiều 8. Nghĩa vụ công bố thông tin và nghĩa vụ báo cáo Việc công bố thông tin của công ty đại chúng qua Hệ thống IDS được xác định đồng thời hoàn thành nghĩa vụ công bố thông tin và nghĩa vụ báo cáo UBCKNN theo quy định của pháp luật về công bố thông tin trên thị trường chứng khoán.\nChương II\nQUY ĐỊNH CỤ THỂ\nĐiều 9. Quy định cấp tài khoản sử dụng Hệ thống IDS\n1. Công ty đại chúng chưa được cấp\ntài khoản sử dụng Hệ thống IDS thực hiện theo quy trình như sau: Bước 1: Công ty đại chúng hoàn thiện Phiếu đăng ký tham gia sử dụng Hệ thống IDS theo mẫu đăng ký sử dụng hệ thống tại Phụ lục II ban hành kèm theo Quy chế này và gửi tới UBCKNN (Cục Công nghệ thông tin) hoặc gửi bản mềm có chữ ký số vào email: hotroids@ssc.gov.vn; Bước 2: Trường hợp Phiếu đăng ký hợp lệ, UBCKNN (Cục Công nghệ thông tin) căn cứ các thông tin trên Phiếu đăng ký thực hiện tạo tài khoản (account) và phân quyền sử dụng IDS cho công ty đại chúng. Thông tin về tài khoản sử dụng Hệ thống IDS được Hệ thống IDS gửi tự động qua email công ty đã đăng ký. Trường hợp Phiếu đăng ký không hợp lệ, trong vòng ba (03) ngày làm việc, UBCKNN (Cục Công nghệ thông tin) sẽ gửi thông báo bằng văn bản cho công ty và nêu rõ lý do. Bước 3: Sau khi nhận được thông tin tài khoản, công ty đại chúng truy cập địa chỉ: http://ids.ssc.gov.vn, thực hiện các công việc sau: - Đăng nhập hệ thống bằng tài khoản đã được cấp; - Đổi mật khẩu ngay sau khi đăng nhập thành công; - Cập nhật hồ sơ công ty đại chúng (nếu có).\n2. Trường hợp công ty đại chúng đã được\ncấp tài khoản sử dụng Hệ thống IDS (phiên bản cũ) hoặc quên mật khẩu, công ty đại chúng thực hiện các công việc sau: - Truy cập địa chỉ: http://ids.ssc.gov.vn; - Nhấn nút Quên mật khẩu; - Nhập Tên đăng nhập và địa chỉ email đã đăng ký với UBCKNN; - Hệ thống IDS sẽ tự động gửi vào email thông tin tài khoản cho công ty; - Sau khi nhận được email thông tin tài khoản, công ty thực hiện theo Bước 3 khoản 1 Điều này.\nĐiều 10. Quy trình gửi báo cáo và công bố thông tin trên Hệ thống IDS Công ty đại chúng gửi báo cáo và công bố thông tin trên Hệ thống IDS theo quy trình sau:\n1. Trường hợp gửi báo cáo và công bố\nthông tin thuộc nhóm báo cáo tài chính và chào bán, phát hành chứng khoán, người dùng thực hiện các bước như sau: Bước 1: Truy cập địa chỉ http://ids.ssc.gov.vn. Bước 2: Đăng nhập Hệ thống IDS bằng tài khoản đã được cấp. Bước 3: Chọn menu Quản lý báo cáo và chọn Nhóm báo cáo tương ứng; chọn Mẫu báo cáo và nhấn nút Thêm Trên màn hình gửi báo cáo, người dùng nhập dữ liệu vào các trường thông tin (các trường thông tin có dấu * là bắt buộc nhập). Lưu ý: Hệ thống IDS hỗ trợ các cách nhập dữ liệu báo cáo như sau: Cách 1: Nhập trực tiếp dữ liệu vào các ô theo Form giao diện chương trình. Cách 2: Nhập dữ liệu từ file excel + Tải biểu mẫu excel và nhập dữ liệu vào file excel; + Trên màn hình Gửi báo cáo kích chọn Đổ dữ liệu excel, khi đó các dữ liệu được hiển thị trên giao diện chương trình. Cách 3: Nhập dữ liệu từ XBRL (áp dụng đối với báo cáo tài chính) + Tải biểu mẫu XBRL và nhập dữ liệu vào file XBRL; + Trên màn hình Gửi báo cáo kích chọn Đổ dữ liệu XBRL, khi đó các dữ liệu được hiển thị trên giao diện chương trình. Bước 4: Tải lên file toàn văn báo cáo đã được ký số. Bước 5: Nhấn nút Gửi duyệt.\n2. Trường hợp gửi báo cáo và công bố\nthông tin bất thường, công bố thông tin định kỳ khác, người dùng thực hiện các bước sau: Bước 1: Truy cập địa chỉ http://ids.ssc.gov.vn. Bước 2: Đăng nhập Hệ thống IDS bằng tài khoản đã được cấp. Bước 3: Chọn menu Quản lý báo cáo và chọn Nhóm báo cáo tương ứng; chọn Mẫu báo cáo và nhấn nút Thêm. Trên màn hình gửi báo cáo, người dùng nhập dữ liệu vào các trường thông tin (các trường thông tin có dấu * là bắt buộc nhập). Bước 4: Đính kèm file báo cáo đã được ký số. Bước 5: Nhấn nút Gửi duyệt. (Chi tiết các bước thực hiện quy trình gửi báo cáo, quản lý báo cáo, quản lý hồ sơ công ty đại chúng, sử dụng chữ ký số theo hướng dẫn trong Tài liệu Hướng dẫn sử dụng Hệ thống công bố thông tin của UBCKNN).\n3. Ký số tài liệu báo cáo: Công ty đại\nchúng ký số tài liệu báo cáo bằng công cụ ký số của nhà cung cấp dịch vụ chữ ký số trước khi tải file tài liệu báo cáo lên Hệ thống IDS.\n4. Trường hợp UBCKNN từ chối báo cáo\ncủa công ty đại chúng, lý do từ chối được UBCKNN thông báo trên màn hình Quản lý báo cáo của Hệ thống IDS. Công ty đại chúng phải gửi lại báo cáo cho UBCKNN trong thời hạn hai mươi bốn (24) giờ kể từ khi nhận được thông báo của UBCKNN.\nĐiều 11. Quy định về cập nhật hồ sơ công ty đại chúng\n1. Sau khi nhận được tài khoản đăng\nnhập Hệ thống IDS từ UBCKNN, công ty đại chúng truy cập Hệ thống IDS tại địa chỉ http://ids.ssc.gov.vn và chọn mục “Hồ sơ công ty” để khai báo hoặc cập nhật hồ sơ công ty theo nội dung quy định tại khoản 2 Điều 3 Quy chế này.\n2. Công ty đại chúng có trách nhiệm cập\nnhật thông tin về hồ sơ công ty khi có phát sinh các thay đổi liên quan đến hồ sơ công ty. Việc cập nhật hồ sơ công ty được thực hiện đồng thời với việc gửi báo cáo công bố thông tin qua Hệ thống IDS theo quy định tại Điều 14 Quy chế này.\nĐiều 12. Xử lý sự cố hoặc thay đổi địa chỉ hệ thống báo cáo\n1. Trường hợp Hệ thống IDS của UBCKNN\ngặp sự cố hoặc thay đổi địa chỉ hệ thống báo cáo và công bố thông tin, UBCKNN thông báo cho công ty đại chúng thông qua Cổng thông tin điện tử của UBCKNN hoặc qua email, số điện thoại di động của người thực hiện công bố thông tin của công ty đại chúng đã đăng ký với UBCKNN.\n2. Trường hợp Hệ thống IDS của UBCKNN\ngặp sự cố, công ty đại chúng gửi báo cáo bằng văn bản (ngoài phong bì ghi rõ: Tài liệu báo cáo công bố thông tin) hoặc file điện tử có chữ ký số đến địa chỉ nêu tại khoản 2 Điều 17 Quy chế này. Trong trường hợp này, thời gian nhận thông tin công bố bằng văn bản được xác định theo dấu bưu điện; thời gian nhận thông tin công bố qua email được xác định theo thời gian nhận được email hiển thị trên phần mềm nhận thư. Sau khi sự cố được khắc phục, UBCKNN thông báo theo các hình thức nêu tại khoản 1 Điều này ngay trong ngày làm việc và công ty đại chúng gửi lại báo cáo điện tử qua Hệ thống IDS.\nĐiều 13. Quy định về quản lý và sử dụng tài khoản\n1. Công ty đại chúng chỉ được cấp duy\nnhất một tài khoản truy cập Hệ thống IDS bao gồm tên đăng nhập và mật khẩu; Công ty đại chúng phải chịu trách nhiệm trong việc quản lý, sử dụng và bảo mật tài khoản được cấp.\n2. Công ty đại chúng sử dụng Hệ thống\nIDS phải thay đổi mật khẩu của tài khoản tại lần đầu tiên đăng nhập và tối thiểu ba (03) tháng một lần phải thay đổi mật khẩu; Mật khẩu tài khoản phải được đặt ở mức “mật khẩu phức tạp”.\n3. Trong trường hợp phát hiện nguy cơ\nlộ thông tin về tài khoản và mật khẩu sử dụng, công ty đại chúng báo cáo ngay về UBCKNN (Cục Công nghệ thông tin) qua email (file gửi có chữ ký số)/fax và/hoặc công văn. UBCKNN (Cục Công nghệ thông tin) sẽ khóa tài khoản sử dụng ngay sau khi nhận được báo cáo của công ty đại chúng. UBCKNN (Cục Công nghệ thông tin) cấp lại tài khoản sử dụng cho công ty đại chúng (qua email công ty đã đăng ký) trong vòng một (01) ngày làm việc kể từ khi nhận được báo cáo của công ty đại chúng.\nĐiều 14. Thông tin báo cáo và công bố qua Hệ thống IDS Các thông tin báo cáo và công bố qua Hệ thống IDS bao gồm:\n1. Báo cáo và công bố thông tin định kỳ,\nbất thường, theo yêu cầu và công bố thông tin khác quy định tại Thông tư số 96/2020/TT-BTC ngày 16 tháng 11 năm 2020 của Bộ Tài chính về hướng dẫn công bố thông tin trên thị trường chứng khoán.\n2. Báo cáo và công bố thông tin liên\nquan đến chào bán, phát hành chứng khoán theo quy định tại Nghị định số 155/2020/NĐ-CP ngày 31 tháng 12 năm 2020 của Chính phủ quy định chi tiết thi hành một số điều của Luật chứng khoán; Thông tư số 118/2020/TT-BTC ngày 31 tháng 12 năm 2020 của Bộ trưởng Bộ Tài chính hướng dẫn một số nội dung về chào bán, phát hành chứng khoán, chào mua công khai, mua lại cổ phiếu, đăng ký công ty đại chúng và hủy tư cách công ty đại chúng.\n3. Danh sách biểu mẫu báo cáo công bố\nthông tin trên Hệ thống IDS tại Phụ lục I ban hành kèm theo Quy chế này.\nĐiều 15. Trách nhiệm của công ty đại chúng\n1. Công ty đại chúng có trách nhiệm\ncông bố thông tin đầy đủ, chính xác và kịp thời theo quy định của pháp luật về công bố thông tin trên thị trường chứng khoán, chịu trách nhiệm trước pháp luật về nội dung thông tin và thời hạn được công bố.\n2. Trường hợp công ty đại chúng không\nđăng ký Hệ thống IDS hoặc không sử dụng Hệ thống IDS sẽ bị xem xét, xử lý theo quy định của pháp luật hiện hành.\nChương III\nTỔ CHỨC THỰC HIỆN\nĐiều 16. Tổ chức thực hiện\n1. UBCKNN tổ chức thực hiện hỗ trợ kỹ\nthuật và nghiệp vụ cho công ty đại chúng sử dụng Hệ thống IDS như sau: - Cục Công nghệ thông tin chịu trách nhiệm quản lý, quản trị, vận hành Hệ thống IDS; hướng dẫn và hỗ trợ kỹ thuật cho công ty đại chúng và các đơn vị liên quan trong quá trình đăng ký và sử dụng Hệ thống IDS; hướng dẫn công ty đại chúng sử dụng chữ ký số trong giao dịch điện tử theo quy định. - Vụ Giám sát công ty đại chúng chịu trách nhiệm hướng dẫn và hỗ trợ về nghiệp vụ cho công ty đại chúng liên quan đến hoạt động công bố thông tin. - Vụ Quản lý chào bán chứng khoán chịu trách nhiệm hướng dẫn và hỗ trợ về nghiệp vụ cho công ty đại chúng liên quan đến hoạt động chào bán, phát hành chứng khoán; giải đáp các thắc mắc (nếu có) của tổ chức kiểm toán được chấp thuận kiểm toán cho đơn vị có lợi ích công chúng thuộc lĩnh vực chứng khoán.\n2. Công ty đại chúng chịu trách nhiệm\ntổ chức triển khai thực hiện việc sử dụng Hệ thống IDS; phân công và giám sát cán bộ thực hiện báo cáo, công bố thông tin qua Hệ thống IDS theo các quy định tại Quy chế này.\nĐiều 17. Thông tin về đơn vị hỗ trợ kỹ thuật và nghiệp vụ\n1. Đối với các yêu cầu về kỹ thuật\nCục Công nghệ thông tin - Ủy ban Chứng khoán Nhà nước: Điện thoại 04.3934.0750; 04.3935.0177 hoặc 04.3926.2545; Email: hotroids@ssc.gov.vn.\n2. Đối với các yêu cầu về nghiệp vụ\n- Vụ Giám sát công ty đại chúng - Ủy ban Chứng khoán Nhà nước: Điện thoại: 04.3934.0750; Email: giamsatdaichung@ssc.gov.vn. - Vụ Quản lý chào bán chứng khoán - Ủy ban Chứng khoán Nhà nước: Điện thoại: 04.3934.0750; Email: quanlychaoban@ssc.gov.vn.\n3. Thông tin chi tiết về hỗ trợ kỹ\nthuật và nghiệp vụ được đăng tải trên Trang hỗ trợ các ứng dụng công nghệ thông tin của Cổng thông tin điện tử Ủy ban Chứng khoán Nhà nước tại địa chỉ www.ssc.gov.vn và trên Trang chủ của Hệ thống IDS.\nĐiều 18. Sửa đổi bổ sung\n1. Trong quá trình thực hiện Quy chế,\nnếu có khó khăn vướng mắc, đề nghị các công ty đại chúng phản ánh kịp thời về UBCKNN theo địa chỉ tại Điều 17 Quy chế này để được hỗ trợ và giải quyết.\n2. Việc thay thế, sửa đổi, bổ sung\nQuy chế này do Chủ tịch UBCKNN quyết định./.\nPHỤ LỤC I\nDANH SÁCH BIỂU MẪU BÁO CÁO\n(Ban hành kèm theo Quyết định số 450/QĐ-UBCK ngày 14 tháng 7 năm 2021 của Chủ tịch Ủy ban Chứng khoán Nhà nước)\nI. Báo cáo, công bố thông tin định kỳ, bất thường, theo yêu cầu và công bố thông tin khác\nTT\nBiểu mẫu\nTên báo cáo Đối tượng Thời hạn công bố Căn cứ 1 Excel hoặc XBRL Báo cáo tài chính năm đã được kiểm toán Công ty đại chúng Trong thời hạn 10 ngày, kể từ ngày tổ chức kiểm toán ký báo cáo kiểm toán nhưng không vượt quá 90 ngày, kể từ ngày kết thúc năm tài chính Khoản 1, Điều 10, Thông tư\n96/2020/TT- BTC\n2 Excel hoặc XBRL Báo cáo tài chính bán niên đã được soát xét Tổ chức niêm yết, công ty đại chúng quy mô lớn Trong thời hạn 05 ngày, kể từ ngày tổ chức kiểm toán ký báo cáo soát xét nhưng không vượt quá 45 ngày, kể từ ngày kết thúc 06 tháng đầu năm tài chính Khoản 2 Điều 14, Thông tư\n96/2020/TT-BTC\n3 Excel hoặc XBRL Báo cáo tài chính quý/ BCTC quý đã được soát xét (nếu có) Tổ chức niêm yết, công ty đại chúng quy mô lớn Trong thời hạn 20 ngày kể từ ngày kết thúc quý hoặc trong thời hạn 05 ngày kể từ ngày tổ chức kiểm toán ký báo cáo soát xét (nếu có) nhưng không được vượt quá 45 ngày kể từ ngày kết thúc quý Khoản 3 Điều 14, Thông tư\n96/2020/TT-BTC\n4 Báo cáo thường niên Công ty đại chúng Trong thời hạn 20 ngày kể từ ngày công bố báo cáo tài chính năm được kiểm toán nhưng không vượt quá 110 ngày, kể từ ngày kết thúc năm tài chính Khoản 2, Điều 10 và Phụ lục IV, Thông tư 96/2020/TT-BTC 5 Báo cáo tình hình quản trị công ty 06 tháng và năm Công ty đại chúng Trong thời hạn 30 ngày, kể từ ngày kết thúc 06 tháng đầu năm và kết thúc năm dương lịch. Khoản 4, Điều 10 và Phụ lục V, Thông tư 96/2020/TT-BTC 6 Họp Đại hội đồng cổ đông thường niên Công ty đại chúng Tối thiểu 21 ngày trước ngày khai mạc họp Đại hội đồng cổ đông nếu Điều lệ công ty không quy định thời hạn dài hơn Khoản 3, Điều 10, Thông tư\n96/2020/TT-BTC\n7 Công bố thông tin bất thường 24 giờ Công ty đại chúng Trong vòng 24 giờ, kể từ khi xảy ra sự kiện\nĐiều 6, Điều 11 Thông tư 96/2020/TT-BTC Tổ chức niêm yết, công ty đại chúng quy mô lớn\nĐiều 11 và Điều 15 Thông tư 96/2020/TT- BTC 8 Công bố thông tin theo yêu cầu Công ty đại chúng Trong vòng 24 giờ, kể từ khi nhận được yêu cầu của UBCKNN\nĐiều 12 Thông tư 96/2020/TT-BTC Tổ chức niêm yết, công ty đại chúng quy mô lớn\nĐiều 12 và Điều 16 Thông tư 96/2020/TT-BTC 9 Công bố thông tin về việc đăng ký công ty đại chúng Công ty đại chúng Trong thời hạn 07 ngày kể từ ngày Ủy ban Chứng khoán Nhà nước xác nhận hoàn tất việc đăng ký công ty đại chúng theo quy định tại khoản 3 Điều 32 Luật Chứng khoán\nĐiều 9 Thông tư 96/2020/TT-BTC 10 Công bố thông tin về các hoạt động khác của công ty đại chúng Công ty đại chúng\nĐiều 13 và Điều 17 Thông tư 96/2020/TT- BTC II. Danh sách báo cáo, công bố thông tin (nếu có) liên quan đến hoạt động chào bán, phát hành chứng khoán trên Hệ thống IDS TT Tên báo cáo Đối tượng Căn cứ Thông báo chào bán, phát hành chứng khoán, chào mua công khai 1 Thông báo chào bán cổ phiếu ra công chúng Công ty đại chúng\nPhụ lục số 13, Thông tư 118/2020/TT-BTC\n2 Thông báo chào bán trái phiếu ra công chúng Công ty đại chúng\nPhụ lục số 14, Thông tư 118/2020/TT-BTC\n3 Thông báo phát hành cổ phiếu để trả cổ tức, phát hành cổ phiếu để tăng vốn cổ phần từ nguồn vốn chủ sở hữu Công ty đại chúng\nPhụ lục số 17, Thông tư 118/2020/TT-BTC\n4 Thông báo phát hành cổ phiếu theo chương trình lựa chọn cho người lao động trong công ty Công ty đại chúng\nPhụ lục số 18, Thông tư 118/2020/TT-BTC\n5 Thông báo chào mua công khai Công ty đại chúng\nPhụ lục số 20, Thông tư 118/2020/TT-BTC\nBáo cáo kết quả đợt chào bán, đợt phát hành chứng khoán, đợt chào mua công khai 6 Báo cáo kết quả đợt chào bán cổ phiếu ra công chúng Công ty đại chúng\nPhụ lục số 21, Thông tư 118/2020/TT-BTC\n7 Báo cáo kết quả đợt chào bán trái phiếu ra công chúng Công ty đại chúng\nPhụ lục số 22, Thông tư 118/2020/TT-BTC\n8 Báo cáo kết quả đợt chào bán cổ phiếu riêng lẻ Công ty đại chúng\nPhụ lục số 23, Thông tư 118/2020/TT-BTC\n9 Báo cáo kết quả đợt phát hành cổ phiếu để trả cổ tức, đợt phát hành cổ phiếu để tăng vốn cổ phần từ nguồn vốn chủ sở hữu Công ty đại chúng\nPhụ lục số 28, Thông tư 118/2020/TT-BTC\n10 Báo cáo kết quả đợt phát hành cổ phiếu theo chương trình lựa chọn cho người lao động trong công ty Công ty đại chúng\nPhụ lục số 29, Thông tư 118/2020/TT-BTC\n11 Báo cáo kết quả đợt chào bán cổ phiếu ra nước ngoài Công ty đại chúng\nPhụ lục số 32, Thông tư 118/2020/TT-BTC\n12 Báo cáo kết quả đợt chào mua công khai Công ty đại chúng\nPhụ lục số 33, Thông tư 118/2020/TT-BTC\n13 Báo cáo kết quả giao dịch mua lại cổ phiếu, bán cổ phiếu quỹ Công ty đại chúng\nPhụ lục số 39, Thông tư 118/2020/TT-BTC\nPHỤ LỤC II\nMẪU\nĐĂNG KÝ SỬ DỤNG HỆ THỐNG IDS\n(Ban hành kèm theo Quyết định số 450/QĐ-UBCK ngày 14 tháng 7 năm 2021 của Chủ tịch Ủy ban Chứng khoán Nhà nước)\nTên công ty -------\nCỘNG\nHÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc ---------------\nĐĂNG KÝ THAM GIA SỬ DỤNG HỆ THỐNG CÔNG\nBỐ THÔNG TIN (IDS)\nKính gửi: Ủy ban Chứng khoán Nhà nước Công ty ............................................................................................................ Xác nhận tham gia Hệ thống Công bố thông tin (IDS) và đăng ký thông tin tạo tài khoản sử dụng Hệ thống như sau:\n1. Tên công ty(*): ................................................................................................................\n2. Địa chỉ: ............................................................................................................................\n3. Website: ..........................................................................................................................\n4. Mã số doanh nghiệp(*): ....................................\nNgày cấp ............. Nơi cấp: ..................\n5. Sàn niêm yết(*): ....................................\nMã chứng khoán: ..............................................\n6. Vốn điều lệ thực góp: .....................................................................................................\n7. Ngày bắt đầu được chấp thuận là\nCTĐC: .......................................................................\n8. Loại hình công ty(*):\nBảo hiểm □ Môi giới bảo hiểm □ Tổ chức tín dụng □ Doanh nghiệp thông thường □\n9. Ngày kết thúc năm tài chính(*): .......................................................................................\n10. Loại báo cáo tài chính (*):\nBCTC riêng □ BCTC hợp nhất □ BCTC mẹ □ BCTC tổng hợp □\n11. Thông tin người công bố thông\ntin(*): - Họ và tên(*): ..................................................................................................................... - Email(*): .................................... - Điện thoại di động(*): ................................................. Lưu ý: địa chỉ email và số điện thoại di động của người thực hiện công bố thông tin được sử dụng để nhận thông tin phản hồi từ Hệ thống IDS, các thông tin bao gồm: thông báo tài khoản sử dụng Hệ thống IDS, thông báo gửi báo cáo thành công, thông báo báo cáo đã gửi bị từ chối.\n12. Thông tin liên hệ cán bộ trực tiếp\nsử dụng Hệ thống IDS:\nTT\nHọ và tên Email\nĐTDĐ\n1 2 ... Chúng tôi xin cam kết các thông tin trên đây là đúng sự thật và hoàn toàn chịu trách nhiệm trước pháp luật về nội dung đã đăng ký./. Ngày ... tháng ... năm ... Người đại diện theo pháp luật (Ký, ghi rõ họ tên, đóng dấu) Ghi chú: - (*): thông tin bắt buộc - Đề nghị Quý Công ty gửi bản đăng ký này cho UBCKNN theo địa chỉ: Cục CNTT - Ủy ban Chứng khoán Nhà nước, 234 Lương Thế Vinh, phường Trung Văn, quận Nam Từ Liêm, Hà Nội Điện thoại: 04.3934.0750; 04.3935.0177; 04.3926.2545; Fax: 04.39350943; Email: hotroids@ssc.gov.vn",
+  "tree": {
+    "parts": [
+      {
+        "part_id": "doc:44701:part:1",
+        "part_type": "main",
+        "part_title": null,
+        "reference": null,
+        "direct_text": "QUYẾT ĐỊNH\nBAN HÀNH QUY CHẾ SỬ DỤNG HỆ THỐNG CÔNG BỐ THÔNG TIN CỦA ỦY BAN CHỨNG\nKHOÁN NHÀ NƯỚC\nCHỦ TỊCH ỦY BAN CHỨNG KHOÁN NHÀ NƯỚC\nCăn cứ Luật Chứng khoán ngày 26 tháng 11 năm 2019; Căn cứ Quyết định số 48/2015/QĐ-TTg ngày 08 tháng 10 năm 2015 của Thủ tướng Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Ủy ban Chứng khoán Nhà nước trực thuộc Bộ Tài chính; Căn cứ Nghị định số 155/2020/NĐ-CP ngày 31 tháng 12 năm 2020 của Chính phủ quy định chi tiết thi hành một số điều của Luật chứng khoán; Căn cứ Thông tư số 96/2020/TT-BTC ngày 16 tháng 11 năm 2020 của Bộ trưởng Bộ Tài chính hướng dẫn công bố thông tin trên thị trường chứng khoán; Căn cứ Thông tư số 118/2020/TT-BTC ngày 31 tháng 12 năm 2020 của Bộ trưởng Bộ Tài chính hướng dẫn một số nội dung về chào bán, phát hành chứng khoán, chào mua công khai, mua lại cổ phiếu, đăng ký công ty đại chúng và hủy tư cách công ty đại chúng; Căn cứ Thông tư số 134/2017/TT-BTC ngày 19 tháng 12 năm 2017 của Bộ trưởng Bộ Tài chính hướng dẫn giao dịch điện tử trên thị trường chứng khoán; Thông tư số 73/2020/TT-BTC ngày 07 tháng 8 năm 2020 của Bộ trưởng Bộ Tài chính về sửa đổi, bổ sung một số điều của Thông tư 134/2017/TT-BTC ngày 19 tháng 12 năm 2017 của Bộ trưởng Bộ Tài chính về hướng dẫn giao dịch điện tử trên thị trường chứng khoán; Theo đề nghị của Cục trưởng Cục Công nghệ thông tin.\nQUYẾT ĐỊNH:",
+        "chapters": [],
+        "sections": [],
+        "articles": [
+          {
+            "article_id": "doc:44701:part:1:article:1",
+            "number": "1",
+            "title": "Ban hành kèm theo Quyết định này Quy chế sử dụng Hệ thống công bố thông tin của Ủy ban Chứng khoán Nhà nước.",
+            "content": "Điều 1. Ban hành kèm theo Quyết định này Quy chế sử dụng Hệ thống công bố thông tin của Ủy ban Chứng khoán Nhà nước.",
+            "clauses": [],
+            "points": []
+          },
+          {
+            "article_id": "doc:44701:part:1:article:2",
+            "number": "2",
+            "title": "Quyết định này có hiệu lực kể từ ngày ký và thay thế Quyết định số 296/QĐ-UBCK ngày 31 tháng 3 năm 2017 của Chủ tịch Ủy ban Chứng khoán Nhà nước về ban hành Quy chế hướng dẫn công ty đại chúng sử dụng hệ thống công bố thông tin của Ủy ban Chứng khoán Nhà nước.",
+            "content": "Điều 2. Quyết định này có hiệu lực kể từ ngày ký và thay thế Quyết định số 296/QĐ-UBCK ngày 31 tháng 3 năm 2017 của Chủ tịch Ủy ban Chứng khoán Nhà nước về ban hành Quy chế hướng dẫn công ty đại chúng sử dụng hệ thống công bố thông tin của Ủy ban Chứng khoán Nhà nước.",
+            "clauses": [],
+            "points": []
+          },
+          {
+            "article_id": "doc:44701:part:1:article:3",
+            "number": "3",
+            "title": "Chánh Văn phòng, Cục trưởng Cục Công nghệ thông tin, Vụ trưởng Vụ Giám sát công ty đại chúng, Vụ trưởng Vụ Quản lý chào bán chứng khoán, các công ty đại chúng và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này./.",
+            "content": "Điều 3. Chánh Văn phòng, Cục trưởng Cục Công nghệ thông tin, Vụ trưởng Vụ Giám sát công ty đại chúng, Vụ trưởng Vụ Quản lý chào bán chứng khoán, các công ty đại chúng và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này./.",
+            "clauses": [],
+            "points": []
+          }
+        ],
+        "unstructured_blocks": []
+      },
+      {
+        "part_id": "doc:44701:part:2",
+        "part_type": "regulation",
+        "part_title": "QUY CHẾ",
+        "reference": null,
+        "direct_text": "QUY CHẾ\nSỬ DỤNG HỆ THỐNG CÔNG BỐ THÔNG TIN CỦA ỦY BAN CHỨNG KHOÁN NHÀ NƯỚC\n(Ban hành kèm theo Quyết định số 450/QĐ-UBCK ngày 14 tháng 7 năm 2021 của Chủ tịch\nỦy ban Chứng khoán Nhà nước)\nQuy chế này quy định việc sử dụng Hệ\nthống công bố thông tin của Ủy ban Chứng khoán Nhà nước (UBCKNN) để thực hiện báo cáo và công bố thông tin bằng hình thức điện tử theo quy định của pháp luật về công bố thông tin trên thị trường chứng khoán.\nQuy chế này do Chủ tịch UBCKNN quyết định./.",
+        "chapters": [
+          {
+            "chapter_id": "doc:44701:part:2:chapter:1",
+            "number": "I",
+            "title": "QUY ĐỊNH CHUNG",
+            "content": "Chương I\nQUY ĐỊNH CHUNG",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:44701:part:2:article:1",
+                "number": "1",
+                "title": "Phạm vi điều chỉnh",
+                "content": "Điều 1. Phạm vi điều chỉnh",
+                "clauses": [],
+                "points": []
+              },
+              {
+                "article_id": "doc:44701:part:2:article:2",
+                "number": "2",
+                "title": "Đối tượng áp dụng",
+                "content": "Điều 2. Đối tượng áp dụng",
+                "clauses": [
+                  {
+                    "clause_id": "doc:44701:part:2:article:2:clause:1",
+                    "number": "1",
+                    "content": "1. Công ty đại chúng theo quy định tại\nkhoản 1 Điều 32 Luật Chứng khoán (trừ công ty chứng khoán, công ty quản lý quỹ đầu tư chứng khoán).",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:44701:part:2:article:2:clause:2",
+                    "number": "2",
+                    "content": "2. Tổ chức, cá nhân có liên quan\nkhác.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:44701:part:2:article:3",
+                "number": "3",
+                "title": "Giải thích từ ngữ Trong quy chế này, các từ ngữ dưới đây được hiểu như sau:",
+                "content": "Điều 3. Giải thích từ ngữ Trong quy chế này, các từ ngữ dưới đây được hiểu như sau:",
+                "clauses": [
+                  {
+                    "clause_id": "doc:44701:part:2:article:3:clause:1",
+                    "number": "1",
+                    "content": "1. Hệ thống IDS (Information\nDisclosure System) là Hệ thống công bố thông tin của UBCKNN, bao gồm: - Hệ thống tiếp nhận báo cáo, thông tin công bố của công ty đại chúng tại địa chỉ http://ids.ssc.gov.vn. - Trang thông tin điện tử hiển thị thông tin công bố của công ty đại chúng được tiếp nhận và phê duyệt trên Hệ thống tiếp nhận, có địa chỉ http://congbothongtin.ssc.gov.vn.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:44701:part:2:article:3:clause:2",
+                    "number": "2",
+                    "content": "2. Hồ sơ công ty trên IDS bao\ngồm thông tin cơ bản về công ty đại chúng; danh sách người nội bộ và người liên quan, danh sách cổ đông (cổ đông sáng lập và cổ đông lớn); hồ sơ chào bán, phát hành chứng khoán, chào mua công khai; thông tin tài chính và lịch sử thay đổi thông tin công ty đại chúng.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:44701:part:2:article:3:clause:3",
+                    "number": "3",
+                    "content": "3. Mật khẩu phức tạp là mật khẩu\nđáp ứng yêu cầu sau: - Có tối thiểu tám (08) ký tự; - Gồm tối thiểu ba (03) trong số bốn (04) loại ký tự sau: chữ cái viết hoa (A-Z), chữ cái viết thường (a-z), chữ số (0-9), các ký tự khác trên bàn phím máy tính (~,!,...).",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:44701:part:2:article:3:clause:4",
+                    "number": "4",
+                    "content": "4. Chứng thư số công cộng là một\ndạng chứng thư điện tử do tổ chức cung cấp dịch vụ chứng thực chữ ký số công cộng cấp cho các cơ quan, tổ chức, cá nhân sử dụng trong các hoạt động công cộng.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:44701:part:2:article:3:clause:5",
+                    "number": "5",
+                    "content": "5. Token là thiết bị đáp ứng\ntiêu chuẩn của Bộ Thông tin và Truyền thông để lưu trữ chứng thư số công cộng và khóa bí mật của người sử dụng.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:44701:part:2:article:3:clause:6",
+                    "number": "6",
+                    "content": "6. Email nhận phản hồi, số\nđiện thoại di động là địa chỉ hòm thư điện tử và số điện thoại di động của người thực hiện công bố thông tin của công ty đại chúng đăng ký với UBCKNN để nhận thông tin từ Hệ thống IDS, các thông tin bao gồm: Thông tin tài khoản sử dụng Hệ thống IDS, thông báo gửi báo cáo thành công, thông báo báo cáo đã gửi bị từ chối.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:44701:part:2:article:3:clause:7",
+                    "number": "7",
+                    "content": "7. Ngày báo cáo trên Hệ thống IDS\nlà ngày thông tin được tiếp nhận trên Hệ thống IDS.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:44701:part:2:article:3:clause:8",
+                    "number": "8",
+                    "content": "8. Ngày công bố thông tin trên Hệ\nthống IDS là ngày thông tin xuất hiện trên Hệ thống IDS.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:44701:part:2:article:3:clause:9",
+                    "number": "9",
+                    "content": "9. XBRL (eXtensible Business\nReporting Language) là chuẩn dữ liệu ngôn ngữ báo cáo kinh doanh mở rộng.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:44701:part:2:article:3:clause:10",
+                    "number": "10",
+                    "content": "10. Biểu mẫu XBRL là biểu mẫu\nbáo cáo tài chính có định dạng XBRL trên Hệ thống IDS, cho phép các công ty đại chúng tải về, nhập dữ liệu và đổ dữ liệu báo cáo tài chính trên Hệ thống IDS.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:44701:part:2:article:4",
+                "number": "4",
+                "title": "Các yêu cầu chung",
+                "content": "Điều 4. Các yêu cầu chung",
+                "clauses": [
+                  {
+                    "clause_id": "doc:44701:part:2:article:4:clause:1",
+                    "number": "1",
+                    "content": "1. Công ty đại chúng thực hiện báo\ncáo, công bố thông tin trên Hệ thống IDS tại địa chỉ http://ids.ssc.gov.vn.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:44701:part:2:article:4:clause:2",
+                    "number": "2",
+                    "content": "2. Công ty đại chúng sử dụng tài khoản\ndo UBCKNN cấp và chữ ký số công cộng có giá trị pháp lý tương đương con dấu của công ty để thực hiện báo cáo và công bố thông tin điện tử trên Hệ thống IDS.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:44701:part:2:article:4:clause:3",
+                    "number": "3",
+                    "content": "3. Công ty đại chúng phải đăng ký thông\ntin về người thực hiện công bố thông tin của công ty với UBCKNN theo mẫu tại Phụ lục II ban hành kèm theo Quy chế này. Khi có thay đổi về người thực hiện công bố thông tin, công ty phải cập nhật trên Hệ thống IDS và chịu trách nhiệm về các thay đổi này.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:44701:part:2:article:4:clause:4",
+                    "number": "4",
+                    "content": "4. Công ty đại chúng phải cập nhật\ncác thông tin về Hồ sơ công ty đại chúng trên Hệ thống IDS ngay sau khi đăng nhập hệ thống. Khi có thay đổi về các thông tin nêu trên, công ty phải cập nhật trên Hệ thống IDS và chịu trách nhiệm về các thay đổi này.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:44701:part:2:article:5",
+                "number": "5",
+                "title": "Yêu cầu về kỹ thuật",
+                "content": "Điều 5. Yêu cầu về kỹ thuật",
+                "clauses": [
+                  {
+                    "clause_id": "doc:44701:part:2:article:5:clause:1",
+                    "number": "1",
+                    "content": "1. Máy tính sử dụng để gửi báo cáo và\ncông bố thông tin: - Máy tính sử dụng một trong các trình duyệt Internet Explorer hoặc Firefox hoặc Chrome. - Máy tính phải được kết nối internet.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:44701:part:2:article:5:clause:2",
+                    "number": "2",
+                    "content": "2. Thiết bị lưu chứng thư số công cộng\n(Token) do nhà cung cấp dịch vụ chứng thư số công cộng cấp cho công ty.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:44701:part:2:article:6",
+                "number": "6",
+                "title": "Yêu cầu về dữ liệu của báo cáo",
+                "content": "Điều 6. Yêu cầu về dữ liệu của báo cáo",
+                "clauses": [
+                  {
+                    "clause_id": "doc:44701:part:2:article:6:clause:1",
+                    "number": "1",
+                    "content": "1. Công ty đại chúng gửi các báo cáo\nvà thông tin công bố dưới dạng file dữ liệu điện tử lên Hệ thống IDS. Các báo cáo và thông tin công bố theo quy định tại Điều 14 Quy chế này.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:44701:part:2:article:6:clause:2",
+                    "number": "2",
+                    "content": "2. Định dạng file báo cáo:\n- File biểu mẫu của báo cáo và công bố thông tin trên Hệ thống IDS có định dạng file Excel hoặc XBRL. Công ty đại chúng chỉ sử dụng các file biểu mẫu mới nhất được tải về từ Hệ thống IDS, đảm bảo thứ tự của các cột, các ô theo đúng file biểu mẫu. - File đính kèm phải được định dạng file PDF.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:44701:part:2:article:6:clause:3",
+                    "number": "3",
+                    "content": "3. Định dạng font chữ: Thông tin nhập\nvào Hệ thống IDS phải sử dụng Tiếng Việt với font chữ Unicode TCVN 6909:2001 .",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:44701:part:2:article:6:clause:4",
+                    "number": "4",
+                    "content": "4. Công ty đại chúng không được tự ý\nthay đổi định dạng biểu mẫu báo cáo trên Hệ thống IDS. Trường hợp cần thay đổi, sửa chữa phải có văn bản đề nghị và được UBCKNN chấp thuận.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:44701:part:2:article:7",
+                "number": "7",
+                "title": "Yêu cầu về an toàn bảo mật",
+                "content": "Điều 7. Yêu cầu về an toàn bảo mật",
+                "clauses": [
+                  {
+                    "clause_id": "doc:44701:part:2:article:7:clause:1",
+                    "number": "1",
+                    "content": "1. Để đảm bảo an toàn thông tin, tệp\ntài liệu báo cáo và thông tin công bố trên Hệ thống IDS phải được công ty đại chúng ký số bằng chữ ký số công cộng hợp lệ.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:44701:part:2:article:7:clause:2",
+                    "number": "2",
+                    "content": "2. Công ty đại chúng tham gia sử dụng\nHệ thống IDS phải tuân thủ quy định về phân quyền sử dụng; quản lý và sử dụng tài khoản; không được phát tán virus máy tính, sử dụng tài khoản, mật khẩu khác để thâm nhập hệ thống.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:44701:part:2:article:8",
+                "number": "8",
+                "title": "Nghĩa vụ công bố thông tin và nghĩa vụ báo cáo Việc công bố thông tin của công ty đại chúng qua Hệ thống IDS được xác định đồng thời hoàn thành nghĩa vụ công bố thông tin và nghĩa vụ báo cáo UBCKNN theo quy định của pháp luật về công bố thông tin trên thị trường chứng khoán.",
+                "content": "Điều 8. Nghĩa vụ công bố thông tin và nghĩa vụ báo cáo Việc công bố thông tin của công ty đại chúng qua Hệ thống IDS được xác định đồng thời hoàn thành nghĩa vụ công bố thông tin và nghĩa vụ báo cáo UBCKNN theo quy định của pháp luật về công bố thông tin trên thị trường chứng khoán.",
+                "clauses": [],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:44701:part:2:chapter:2",
+            "number": "II",
+            "title": "QUY ĐỊNH CỤ THỂ",
+            "content": "Chương II\nQUY ĐỊNH CỤ THỂ",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:44701:part:2:article:9",
+                "number": "9",
+                "title": "Quy định cấp tài khoản sử dụng Hệ thống IDS",
+                "content": "Điều 9. Quy định cấp tài khoản sử dụng Hệ thống IDS",
+                "clauses": [
+                  {
+                    "clause_id": "doc:44701:part:2:article:9:clause:1",
+                    "number": "1",
+                    "content": "1. Công ty đại chúng chưa được cấp\ntài khoản sử dụng Hệ thống IDS thực hiện theo quy trình như sau: Bước 1: Công ty đại chúng hoàn thiện Phiếu đăng ký tham gia sử dụng Hệ thống IDS theo mẫu đăng ký sử dụng hệ thống tại Phụ lục II ban hành kèm theo Quy chế này và gửi tới UBCKNN (Cục Công nghệ thông tin) hoặc gửi bản mềm có chữ ký số vào email: hotroids@ssc.gov.vn; Bước 2: Trường hợp Phiếu đăng ký hợp lệ, UBCKNN (Cục Công nghệ thông tin) căn cứ các thông tin trên Phiếu đăng ký thực hiện tạo tài khoản (account) và phân quyền sử dụng IDS cho công ty đại chúng. Thông tin về tài khoản sử dụng Hệ thống IDS được Hệ thống IDS gửi tự động qua email công ty đã đăng ký. Trường hợp Phiếu đăng ký không hợp lệ, trong vòng ba (03) ngày làm việc, UBCKNN (Cục Công nghệ thông tin) sẽ gửi thông báo bằng văn bản cho công ty và nêu rõ lý do. Bước 3: Sau khi nhận được thông tin tài khoản, công ty đại chúng truy cập địa chỉ: http://ids.ssc.gov.vn, thực hiện các công việc sau: - Đăng nhập hệ thống bằng tài khoản đã được cấp; - Đổi mật khẩu ngay sau khi đăng nhập thành công; - Cập nhật hồ sơ công ty đại chúng (nếu có).",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:44701:part:2:article:9:clause:2",
+                    "number": "2",
+                    "content": "2. Trường hợp công ty đại chúng đã được\ncấp tài khoản sử dụng Hệ thống IDS (phiên bản cũ) hoặc quên mật khẩu, công ty đại chúng thực hiện các công việc sau: - Truy cập địa chỉ: http://ids.ssc.gov.vn; - Nhấn nút Quên mật khẩu; - Nhập Tên đăng nhập và địa chỉ email đã đăng ký với UBCKNN; - Hệ thống IDS sẽ tự động gửi vào email thông tin tài khoản cho công ty; - Sau khi nhận được email thông tin tài khoản, công ty thực hiện theo Bước 3 khoản 1 Điều này.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:44701:part:2:article:10",
+                "number": "10",
+                "title": "Quy trình gửi báo cáo và công bố thông tin trên Hệ thống IDS Công ty đại chúng gửi báo cáo và công bố thông tin trên Hệ thống IDS theo quy trình sau:",
+                "content": "Điều 10. Quy trình gửi báo cáo và công bố thông tin trên Hệ thống IDS Công ty đại chúng gửi báo cáo và công bố thông tin trên Hệ thống IDS theo quy trình sau:",
+                "clauses": [
+                  {
+                    "clause_id": "doc:44701:part:2:article:10:clause:1",
+                    "number": "1",
+                    "content": "1. Trường hợp gửi báo cáo và công bố\nthông tin thuộc nhóm báo cáo tài chính và chào bán, phát hành chứng khoán, người dùng thực hiện các bước như sau: Bước 1: Truy cập địa chỉ http://ids.ssc.gov.vn. Bước 2: Đăng nhập Hệ thống IDS bằng tài khoản đã được cấp. Bước 3: Chọn menu Quản lý báo cáo và chọn Nhóm báo cáo tương ứng; chọn Mẫu báo cáo và nhấn nút Thêm Trên màn hình gửi báo cáo, người dùng nhập dữ liệu vào các trường thông tin (các trường thông tin có dấu * là bắt buộc nhập). Lưu ý: Hệ thống IDS hỗ trợ các cách nhập dữ liệu báo cáo như sau: Cách 1: Nhập trực tiếp dữ liệu vào các ô theo Form giao diện chương trình. Cách 2: Nhập dữ liệu từ file excel + Tải biểu mẫu excel và nhập dữ liệu vào file excel; + Trên màn hình Gửi báo cáo kích chọn Đổ dữ liệu excel, khi đó các dữ liệu được hiển thị trên giao diện chương trình. Cách 3: Nhập dữ liệu từ XBRL (áp dụng đối với báo cáo tài chính) + Tải biểu mẫu XBRL và nhập dữ liệu vào file XBRL; + Trên màn hình Gửi báo cáo kích chọn Đổ dữ liệu XBRL, khi đó các dữ liệu được hiển thị trên giao diện chương trình. Bước 4: Tải lên file toàn văn báo cáo đã được ký số. Bước 5: Nhấn nút Gửi duyệt.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:44701:part:2:article:10:clause:2",
+                    "number": "2",
+                    "content": "2. Trường hợp gửi báo cáo và công bố\nthông tin bất thường, công bố thông tin định kỳ khác, người dùng thực hiện các bước sau: Bước 1: Truy cập địa chỉ http://ids.ssc.gov.vn. Bước 2: Đăng nhập Hệ thống IDS bằng tài khoản đã được cấp. Bước 3: Chọn menu Quản lý báo cáo và chọn Nhóm báo cáo tương ứng; chọn Mẫu báo cáo và nhấn nút Thêm. Trên màn hình gửi báo cáo, người dùng nhập dữ liệu vào các trường thông tin (các trường thông tin có dấu * là bắt buộc nhập). Bước 4: Đính kèm file báo cáo đã được ký số. Bước 5: Nhấn nút Gửi duyệt. (Chi tiết các bước thực hiện quy trình gửi báo cáo, quản lý báo cáo, quản lý hồ sơ công ty đại chúng, sử dụng chữ ký số theo hướng dẫn trong Tài liệu Hướng dẫn sử dụng Hệ thống công bố thông tin của UBCKNN).",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:44701:part:2:article:10:clause:3",
+                    "number": "3",
+                    "content": "3. Ký số tài liệu báo cáo: Công ty đại\nchúng ký số tài liệu báo cáo bằng công cụ ký số của nhà cung cấp dịch vụ chữ ký số trước khi tải file tài liệu báo cáo lên Hệ thống IDS.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:44701:part:2:article:10:clause:4",
+                    "number": "4",
+                    "content": "4. Trường hợp UBCKNN từ chối báo cáo\ncủa công ty đại chúng, lý do từ chối được UBCKNN thông báo trên màn hình Quản lý báo cáo của Hệ thống IDS. Công ty đại chúng phải gửi lại báo cáo cho UBCKNN trong thời hạn hai mươi bốn (24) giờ kể từ khi nhận được thông báo của UBCKNN.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:44701:part:2:article:11",
+                "number": "11",
+                "title": "Quy định về cập nhật hồ sơ công ty đại chúng",
+                "content": "Điều 11. Quy định về cập nhật hồ sơ công ty đại chúng",
+                "clauses": [
+                  {
+                    "clause_id": "doc:44701:part:2:article:11:clause:1",
+                    "number": "1",
+                    "content": "1. Sau khi nhận được tài khoản đăng\nnhập Hệ thống IDS từ UBCKNN, công ty đại chúng truy cập Hệ thống IDS tại địa chỉ http://ids.ssc.gov.vn và chọn mục “Hồ sơ công ty” để khai báo hoặc cập nhật hồ sơ công ty theo nội dung quy định tại khoản 2 Điều 3 Quy chế này.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:44701:part:2:article:11:clause:2",
+                    "number": "2",
+                    "content": "2. Công ty đại chúng có trách nhiệm cập\nnhật thông tin về hồ sơ công ty khi có phát sinh các thay đổi liên quan đến hồ sơ công ty. Việc cập nhật hồ sơ công ty được thực hiện đồng thời với việc gửi báo cáo công bố thông tin qua Hệ thống IDS theo quy định tại Điều 14 Quy chế này.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:44701:part:2:article:12",
+                "number": "12",
+                "title": "Xử lý sự cố hoặc thay đổi địa chỉ hệ thống báo cáo",
+                "content": "Điều 12. Xử lý sự cố hoặc thay đổi địa chỉ hệ thống báo cáo",
+                "clauses": [
+                  {
+                    "clause_id": "doc:44701:part:2:article:12:clause:1",
+                    "number": "1",
+                    "content": "1. Trường hợp Hệ thống IDS của UBCKNN\ngặp sự cố hoặc thay đổi địa chỉ hệ thống báo cáo và công bố thông tin, UBCKNN thông báo cho công ty đại chúng thông qua Cổng thông tin điện tử của UBCKNN hoặc qua email, số điện thoại di động của người thực hiện công bố thông tin của công ty đại chúng đã đăng ký với UBCKNN.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:44701:part:2:article:12:clause:2",
+                    "number": "2",
+                    "content": "2. Trường hợp Hệ thống IDS của UBCKNN\ngặp sự cố, công ty đại chúng gửi báo cáo bằng văn bản (ngoài phong bì ghi rõ: Tài liệu báo cáo công bố thông tin) hoặc file điện tử có chữ ký số đến địa chỉ nêu tại khoản 2 Điều 17 Quy chế này. Trong trường hợp này, thời gian nhận thông tin công bố bằng văn bản được xác định theo dấu bưu điện; thời gian nhận thông tin công bố qua email được xác định theo thời gian nhận được email hiển thị trên phần mềm nhận thư. Sau khi sự cố được khắc phục, UBCKNN thông báo theo các hình thức nêu tại khoản 1 Điều này ngay trong ngày làm việc và công ty đại chúng gửi lại báo cáo điện tử qua Hệ thống IDS.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:44701:part:2:article:13",
+                "number": "13",
+                "title": "Quy định về quản lý và sử dụng tài khoản",
+                "content": "Điều 13. Quy định về quản lý và sử dụng tài khoản",
+                "clauses": [
+                  {
+                    "clause_id": "doc:44701:part:2:article:13:clause:1",
+                    "number": "1",
+                    "content": "1. Công ty đại chúng chỉ được cấp duy\nnhất một tài khoản truy cập Hệ thống IDS bao gồm tên đăng nhập và mật khẩu; Công ty đại chúng phải chịu trách nhiệm trong việc quản lý, sử dụng và bảo mật tài khoản được cấp.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:44701:part:2:article:13:clause:2",
+                    "number": "2",
+                    "content": "2. Công ty đại chúng sử dụng Hệ thống\nIDS phải thay đổi mật khẩu của tài khoản tại lần đầu tiên đăng nhập và tối thiểu ba (03) tháng một lần phải thay đổi mật khẩu; Mật khẩu tài khoản phải được đặt ở mức “mật khẩu phức tạp”.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:44701:part:2:article:13:clause:3",
+                    "number": "3",
+                    "content": "3. Trong trường hợp phát hiện nguy cơ\nlộ thông tin về tài khoản và mật khẩu sử dụng, công ty đại chúng báo cáo ngay về UBCKNN (Cục Công nghệ thông tin) qua email (file gửi có chữ ký số)/fax và/hoặc công văn. UBCKNN (Cục Công nghệ thông tin) sẽ khóa tài khoản sử dụng ngay sau khi nhận được báo cáo của công ty đại chúng. UBCKNN (Cục Công nghệ thông tin) cấp lại tài khoản sử dụng cho công ty đại chúng (qua email công ty đã đăng ký) trong vòng một (01) ngày làm việc kể từ khi nhận được báo cáo của công ty đại chúng.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:44701:part:2:article:14",
+                "number": "14",
+                "title": "Thông tin báo cáo và công bố qua Hệ thống IDS Các thông tin báo cáo và công bố qua Hệ thống IDS bao gồm:",
+                "content": "Điều 14. Thông tin báo cáo và công bố qua Hệ thống IDS Các thông tin báo cáo và công bố qua Hệ thống IDS bao gồm:",
+                "clauses": [
+                  {
+                    "clause_id": "doc:44701:part:2:article:14:clause:1",
+                    "number": "1",
+                    "content": "1. Báo cáo và công bố thông tin định kỳ,\nbất thường, theo yêu cầu và công bố thông tin khác quy định tại Thông tư số 96/2020/TT-BTC ngày 16 tháng 11 năm 2020 của Bộ Tài chính về hướng dẫn công bố thông tin trên thị trường chứng khoán.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:44701:part:2:article:14:clause:2",
+                    "number": "2",
+                    "content": "2. Báo cáo và công bố thông tin liên\nquan đến chào bán, phát hành chứng khoán theo quy định tại Nghị định số 155/2020/NĐ-CP ngày 31 tháng 12 năm 2020 của Chính phủ quy định chi tiết thi hành một số điều của Luật chứng khoán; Thông tư số 118/2020/TT-BTC ngày 31 tháng 12 năm 2020 của Bộ trưởng Bộ Tài chính hướng dẫn một số nội dung về chào bán, phát hành chứng khoán, chào mua công khai, mua lại cổ phiếu, đăng ký công ty đại chúng và hủy tư cách công ty đại chúng.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:44701:part:2:article:14:clause:3",
+                    "number": "3",
+                    "content": "3. Danh sách biểu mẫu báo cáo công bố\nthông tin trên Hệ thống IDS tại Phụ lục I ban hành kèm theo Quy chế này.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:44701:part:2:article:15",
+                "number": "15",
+                "title": "Trách nhiệm của công ty đại chúng",
+                "content": "Điều 15. Trách nhiệm của công ty đại chúng",
+                "clauses": [
+                  {
+                    "clause_id": "doc:44701:part:2:article:15:clause:1",
+                    "number": "1",
+                    "content": "1. Công ty đại chúng có trách nhiệm\ncông bố thông tin đầy đủ, chính xác và kịp thời theo quy định của pháp luật về công bố thông tin trên thị trường chứng khoán, chịu trách nhiệm trước pháp luật về nội dung thông tin và thời hạn được công bố.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:44701:part:2:article:15:clause:2",
+                    "number": "2",
+                    "content": "2. Trường hợp công ty đại chúng không\nđăng ký Hệ thống IDS hoặc không sử dụng Hệ thống IDS sẽ bị xem xét, xử lý theo quy định của pháp luật hiện hành.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:44701:part:2:chapter:3",
+            "number": "III",
+            "title": "TỔ CHỨC THỰC HIỆN",
+            "content": "Chương III\nTỔ CHỨC THỰC HIỆN",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:44701:part:2:article:16",
+                "number": "16",
+                "title": "Tổ chức thực hiện",
+                "content": "Điều 16. Tổ chức thực hiện",
+                "clauses": [
+                  {
+                    "clause_id": "doc:44701:part:2:article:16:clause:1",
+                    "number": "1",
+                    "content": "1. UBCKNN tổ chức thực hiện hỗ trợ kỹ\nthuật và nghiệp vụ cho công ty đại chúng sử dụng Hệ thống IDS như sau: - Cục Công nghệ thông tin chịu trách nhiệm quản lý, quản trị, vận hành Hệ thống IDS; hướng dẫn và hỗ trợ kỹ thuật cho công ty đại chúng và các đơn vị liên quan trong quá trình đăng ký và sử dụng Hệ thống IDS; hướng dẫn công ty đại chúng sử dụng chữ ký số trong giao dịch điện tử theo quy định. - Vụ Giám sát công ty đại chúng chịu trách nhiệm hướng dẫn và hỗ trợ về nghiệp vụ cho công ty đại chúng liên quan đến hoạt động công bố thông tin. - Vụ Quản lý chào bán chứng khoán chịu trách nhiệm hướng dẫn và hỗ trợ về nghiệp vụ cho công ty đại chúng liên quan đến hoạt động chào bán, phát hành chứng khoán; giải đáp các thắc mắc (nếu có) của tổ chức kiểm toán được chấp thuận kiểm toán cho đơn vị có lợi ích công chúng thuộc lĩnh vực chứng khoán.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:44701:part:2:article:16:clause:2",
+                    "number": "2",
+                    "content": "2. Công ty đại chúng chịu trách nhiệm\ntổ chức triển khai thực hiện việc sử dụng Hệ thống IDS; phân công và giám sát cán bộ thực hiện báo cáo, công bố thông tin qua Hệ thống IDS theo các quy định tại Quy chế này.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:44701:part:2:article:17",
+                "number": "17",
+                "title": "Thông tin về đơn vị hỗ trợ kỹ thuật và nghiệp vụ",
+                "content": "Điều 17. Thông tin về đơn vị hỗ trợ kỹ thuật và nghiệp vụ",
+                "clauses": [
+                  {
+                    "clause_id": "doc:44701:part:2:article:17:clause:1",
+                    "number": "1",
+                    "content": "1. Đối với các yêu cầu về kỹ thuật\nCục Công nghệ thông tin - Ủy ban Chứng khoán Nhà nước: Điện thoại 04.3934.0750; 04.3935.0177 hoặc 04.3926.2545; Email: hotroids@ssc.gov.vn.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:44701:part:2:article:17:clause:2",
+                    "number": "2",
+                    "content": "2. Đối với các yêu cầu về nghiệp vụ\n- Vụ Giám sát công ty đại chúng - Ủy ban Chứng khoán Nhà nước: Điện thoại: 04.3934.0750; Email: giamsatdaichung@ssc.gov.vn. - Vụ Quản lý chào bán chứng khoán - Ủy ban Chứng khoán Nhà nước: Điện thoại: 04.3934.0750; Email: quanlychaoban@ssc.gov.vn.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:44701:part:2:article:17:clause:3",
+                    "number": "3",
+                    "content": "3. Thông tin chi tiết về hỗ trợ kỹ\nthuật và nghiệp vụ được đăng tải trên Trang hỗ trợ các ứng dụng công nghệ thông tin của Cổng thông tin điện tử Ủy ban Chứng khoán Nhà nước tại địa chỉ www.ssc.gov.vn và trên Trang chủ của Hệ thống IDS.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:44701:part:2:article:18",
+                "number": "18",
+                "title": "Sửa đổi bổ sung",
+                "content": "Điều 18. Sửa đổi bổ sung",
+                "clauses": [
+                  {
+                    "clause_id": "doc:44701:part:2:article:18:clause:1",
+                    "number": "1",
+                    "content": "1. Trong quá trình thực hiện Quy chế,\nnếu có khó khăn vướng mắc, đề nghị các công ty đại chúng phản ánh kịp thời về UBCKNN theo địa chỉ tại Điều 17 Quy chế này để được hỗ trợ và giải quyết.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:44701:part:2:article:18:clause:2",
+                    "number": "2",
+                    "content": "2. Việc thay thế, sửa đổi, bổ sung",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          }
+        ],
+        "sections": [],
+        "articles": [],
+        "unstructured_blocks": []
+      },
+      {
+        "part_id": "doc:44701:part:3",
+        "part_type": "appendix",
+        "part_title": "PHỤ LỤC I",
+        "reference": null,
+        "direct_text": "PHỤ LỤC I\nDANH SÁCH BIỂU MẪU BÁO CÁO\n(Ban hành kèm theo Quyết định số 450/QĐ-UBCK ngày 14 tháng 7 năm 2021 của Chủ tịch Ủy ban Chứng khoán Nhà nước)\nI. Báo cáo, công bố thông tin định kỳ, bất thường, theo yêu cầu và công bố thông tin khác\nTT\nBiểu mẫu\nTên báo cáo Đối tượng Thời hạn công bố Căn cứ 1 Excel hoặc XBRL Báo cáo tài chính năm đã được kiểm toán Công ty đại chúng Trong thời hạn 10 ngày, kể từ ngày tổ chức kiểm toán ký báo cáo kiểm toán nhưng không vượt quá 90 ngày, kể từ ngày kết thúc năm tài chính Khoản 1, Điều 10, Thông tư\n96/2020/TT- BTC\n2 Excel hoặc XBRL Báo cáo tài chính bán niên đã được soát xét Tổ chức niêm yết, công ty đại chúng quy mô lớn Trong thời hạn 05 ngày, kể từ ngày tổ chức kiểm toán ký báo cáo soát xét nhưng không vượt quá 45 ngày, kể từ ngày kết thúc 06 tháng đầu năm tài chính Khoản 2 Điều 14, Thông tư\n96/2020/TT-BTC\n3 Excel hoặc XBRL Báo cáo tài chính quý/ BCTC quý đã được soát xét (nếu có) Tổ chức niêm yết, công ty đại chúng quy mô lớn Trong thời hạn 20 ngày kể từ ngày kết thúc quý hoặc trong thời hạn 05 ngày kể từ ngày tổ chức kiểm toán ký báo cáo soát xét (nếu có) nhưng không được vượt quá 45 ngày kể từ ngày kết thúc quý Khoản 3 Điều 14, Thông tư\n96/2020/TT-BTC\n4 Báo cáo thường niên Công ty đại chúng Trong thời hạn 20 ngày kể từ ngày công bố báo cáo tài chính năm được kiểm toán nhưng không vượt quá 110 ngày, kể từ ngày kết thúc năm tài chính Khoản 2, Điều 10 và Phụ lục IV, Thông tư 96/2020/TT-BTC 5 Báo cáo tình hình quản trị công ty 06 tháng và năm Công ty đại chúng Trong thời hạn 30 ngày, kể từ ngày kết thúc 06 tháng đầu năm và kết thúc năm dương lịch. Khoản 4, Điều 10 và Phụ lục V, Thông tư 96/2020/TT-BTC 6 Họp Đại hội đồng cổ đông thường niên Công ty đại chúng Tối thiểu 21 ngày trước ngày khai mạc họp Đại hội đồng cổ đông nếu Điều lệ công ty không quy định thời hạn dài hơn Khoản 3, Điều 10, Thông tư\n96/2020/TT-BTC\n7 Công bố thông tin bất thường 24 giờ Công ty đại chúng Trong vòng 24 giờ, kể từ khi xảy ra sự kiện\nPhụ lục số 13, Thông tư 118/2020/TT-BTC\n2 Thông báo chào bán trái phiếu ra công chúng Công ty đại chúng\nPhụ lục số 14, Thông tư 118/2020/TT-BTC\n3 Thông báo phát hành cổ phiếu để trả cổ tức, phát hành cổ phiếu để tăng vốn cổ phần từ nguồn vốn chủ sở hữu Công ty đại chúng\nPhụ lục số 17, Thông tư 118/2020/TT-BTC\n4 Thông báo phát hành cổ phiếu theo chương trình lựa chọn cho người lao động trong công ty Công ty đại chúng\nPhụ lục số 18, Thông tư 118/2020/TT-BTC\n5 Thông báo chào mua công khai Công ty đại chúng\nPhụ lục số 20, Thông tư 118/2020/TT-BTC\nBáo cáo kết quả đợt chào bán, đợt phát hành chứng khoán, đợt chào mua công khai 6 Báo cáo kết quả đợt chào bán cổ phiếu ra công chúng Công ty đại chúng\nPhụ lục số 21, Thông tư 118/2020/TT-BTC\n7 Báo cáo kết quả đợt chào bán trái phiếu ra công chúng Công ty đại chúng\nPhụ lục số 22, Thông tư 118/2020/TT-BTC\n8 Báo cáo kết quả đợt chào bán cổ phiếu riêng lẻ Công ty đại chúng\nPhụ lục số 23, Thông tư 118/2020/TT-BTC\n9 Báo cáo kết quả đợt phát hành cổ phiếu để trả cổ tức, đợt phát hành cổ phiếu để tăng vốn cổ phần từ nguồn vốn chủ sở hữu Công ty đại chúng\nPhụ lục số 28, Thông tư 118/2020/TT-BTC\n10 Báo cáo kết quả đợt phát hành cổ phiếu theo chương trình lựa chọn cho người lao động trong công ty Công ty đại chúng\nPhụ lục số 29, Thông tư 118/2020/TT-BTC\n11 Báo cáo kết quả đợt chào bán cổ phiếu ra nước ngoài Công ty đại chúng\nPhụ lục số 32, Thông tư 118/2020/TT-BTC\n12 Báo cáo kết quả đợt chào mua công khai Công ty đại chúng\nPhụ lục số 33, Thông tư 118/2020/TT-BTC\n13 Báo cáo kết quả giao dịch mua lại cổ phiếu, bán cổ phiếu quỹ Công ty đại chúng\nPhụ lục số 39, Thông tư 118/2020/TT-BTC",
+        "chapters": [],
+        "sections": [],
+        "articles": [
+          {
+            "article_id": "doc:44701:part:3:article:1",
+            "number": "6",
+            "title": ", Điều 11 Thông tư 96/2020/TT-BTC Tổ chức niêm yết, công ty đại chúng quy mô lớn",
+            "content": "Điều 6, Điều 11 Thông tư 96/2020/TT-BTC Tổ chức niêm yết, công ty đại chúng quy mô lớn",
+            "clauses": [],
+            "points": []
+          },
+          {
+            "article_id": "doc:44701:part:3:article:2",
+            "number": "11",
+            "title": "và Điều 15 Thông tư 96/2020/TT- BTC 8 Công bố thông tin theo yêu cầu Công ty đại chúng Trong vòng 24 giờ, kể từ khi nhận được yêu cầu của UBCKNN",
+            "content": "Điều 11 và Điều 15 Thông tư 96/2020/TT- BTC 8 Công bố thông tin theo yêu cầu Công ty đại chúng Trong vòng 24 giờ, kể từ khi nhận được yêu cầu của UBCKNN",
+            "clauses": [],
+            "points": []
+          },
+          {
+            "article_id": "doc:44701:part:3:article:3",
+            "number": "12",
+            "title": "Thông tư 96/2020/TT-BTC Tổ chức niêm yết, công ty đại chúng quy mô lớn",
+            "content": "Điều 12 Thông tư 96/2020/TT-BTC Tổ chức niêm yết, công ty đại chúng quy mô lớn",
+            "clauses": [],
+            "points": []
+          },
+          {
+            "article_id": "doc:44701:part:3:article:4",
+            "number": "12",
+            "title": "và Điều 16 Thông tư 96/2020/TT-BTC 9 Công bố thông tin về việc đăng ký công ty đại chúng Công ty đại chúng Trong thời hạn 07 ngày kể từ ngày Ủy ban Chứng khoán Nhà nước xác nhận hoàn tất việc đăng ký công ty đại chúng theo quy định tại khoản 3 Điều 32 Luật Chứng khoán",
+            "content": "Điều 12 và Điều 16 Thông tư 96/2020/TT-BTC 9 Công bố thông tin về việc đăng ký công ty đại chúng Công ty đại chúng Trong thời hạn 07 ngày kể từ ngày Ủy ban Chứng khoán Nhà nước xác nhận hoàn tất việc đăng ký công ty đại chúng theo quy định tại khoản 3 Điều 32 Luật Chứng khoán",
+            "clauses": [],
+            "points": []
+          },
+          {
+            "article_id": "doc:44701:part:3:article:5",
+            "number": "9",
+            "title": "Thông tư 96/2020/TT-BTC 10 Công bố thông tin về các hoạt động khác của công ty đại chúng Công ty đại chúng",
+            "content": "Điều 9 Thông tư 96/2020/TT-BTC 10 Công bố thông tin về các hoạt động khác của công ty đại chúng Công ty đại chúng",
+            "clauses": [],
+            "points": []
+          },
+          {
+            "article_id": "doc:44701:part:3:article:6",
+            "number": "13",
+            "title": "và Điều 17 Thông tư 96/2020/TT- BTC II. Danh sách báo cáo, công bố thông tin (nếu có) liên quan đến hoạt động chào bán, phát hành chứng khoán trên Hệ thống IDS TT Tên báo cáo Đối tượng Căn cứ Thông báo chào bán, phát hành chứng khoán, chào mua công khai 1 Thông báo chào bán cổ phiếu ra công chúng Công ty đại chúng",
+            "content": "Điều 13 và Điều 17 Thông tư 96/2020/TT- BTC II. Danh sách báo cáo, công bố thông tin (nếu có) liên quan đến hoạt động chào bán, phát hành chứng khoán trên Hệ thống IDS TT Tên báo cáo Đối tượng Căn cứ Thông báo chào bán, phát hành chứng khoán, chào mua công khai 1 Thông báo chào bán cổ phiếu ra công chúng Công ty đại chúng",
+            "clauses": [],
+            "points": []
+          }
+        ],
+        "unstructured_blocks": []
+      },
+      {
+        "part_id": "doc:44701:part:4",
+        "part_type": "appendix",
+        "part_title": "PHỤ LỤC II",
+        "reference": null,
+        "direct_text": null,
+        "chapters": [],
+        "sections": [],
+        "articles": [],
+        "unstructured_blocks": [
+          {
+            "block_id": "doc:44701:part:4:block:1",
+            "content": "PHỤ LỤC II\nMẪU\nĐĂNG KÝ SỬ DỤNG HỆ THỐNG IDS\n(Ban hành kèm theo Quyết định số 450/QĐ-UBCK ngày 14 tháng 7 năm 2021 của Chủ tịch Ủy ban Chứng khoán Nhà nước)\nTên công ty -------\nCỘNG\nHÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc ---------------\nĐĂNG KÝ THAM GIA SỬ DỤNG HỆ THỐNG CÔNG\nBỐ THÔNG TIN (IDS)\nKính gửi: Ủy ban Chứng khoán Nhà nước Công ty ............................................................................................................ Xác nhận tham gia Hệ thống Công bố thông tin (IDS) và đăng ký thông tin tạo tài khoản sử dụng Hệ thống như sau:\n1. Tên công ty(*): ................................................................................................................\n2. Địa chỉ: ............................................................................................................................\n3. Website: ..........................................................................................................................\n4. Mã số doanh nghiệp(*): ....................................\nNgày cấp ............. Nơi cấp: ..................\n5. Sàn niêm yết(*): ....................................\nMã chứng khoán: ..............................................\n6. Vốn điều lệ thực góp: .....................................................................................................\n7. Ngày bắt đầu được chấp thuận là\nCTĐC: .......................................................................\n8. Loại hình công ty(*):\nBảo hiểm □ Môi giới bảo hiểm □ Tổ chức tín dụng □ Doanh nghiệp thông thường □\n9. Ngày kết thúc năm tài chính(*): .......................................................................................\n10. Loại báo cáo tài chính (*):\nBCTC riêng □ BCTC hợp nhất □ BCTC mẹ □ BCTC tổng hợp □\n11. Thông tin người công bố thông\ntin(*): - Họ và tên(*): ..................................................................................................................... - Email(*): .................................... - Điện thoại di động(*): ................................................. Lưu ý: địa chỉ email và số điện thoại di động của người thực hiện công bố thông tin được sử dụng để nhận thông tin phản hồi từ Hệ thống IDS, các thông tin bao gồm: thông báo tài khoản sử dụng Hệ thống IDS, thông báo gửi báo cáo thành công, thông báo báo cáo đã gửi bị từ chối.\n12. Thông tin liên hệ cán bộ trực tiếp\nsử dụng Hệ thống IDS:\nTT\nHọ và tên Email\nĐTDĐ\n1 2 ... Chúng tôi xin cam kết các thông tin trên đây là đúng sự thật và hoàn toàn chịu trách nhiệm trước pháp luật về nội dung đã đăng ký./. Ngày ... tháng ... năm ... Người đại diện theo pháp luật (Ký, ghi rõ họ tên, đóng dấu) Ghi chú: - (*): thông tin bắt buộc - Đề nghị Quý Công ty gửi bản đăng ký này cho UBCKNN theo địa chỉ: Cục CNTT - Ủy ban Chứng khoán Nhà nước, 234 Lương Thế Vinh, phường Trung Văn, quận Nam Từ Liêm, Hà Nội Điện thoại: 04.3934.0750; 04.3935.0177; 04.3926.2545; Fax: 04.39350943; Email: hotroids@ssc.gov.vn",
+            "indexable": true
+          }
+        ]
+      }
+    ]
+  },
+  "issues": [],
+  "status": "ok",
+  "source_hash": "context_44701.json",
+  "stats": {
+    "source_chars": 25730,
+    "passage_chars": 25553,
+    "parts": 4,
+    "chapters": 3,
+    "sections": 0,
+    "articles": 27,
+    "clauses": 49,
+    "points": 0
+  }
+}

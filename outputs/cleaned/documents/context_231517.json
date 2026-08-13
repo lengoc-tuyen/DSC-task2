@@ -1,0 +1,844 @@
+{
+  "schema_version": "2.0",
+  "document_id": 231517,
+  "metadata": {
+    "name": "Quyet-dinh-352-QD-BHXH-2020-Quy-che-hoat-dong-cua-Cong-Dich-vu-cong-nganh-Bao-hiem-xa-hoi-436837",
+    "link": "https://thuvienphapluat.vn/van-ban/Bao-hiem/Quyet-dinh-352-QD-BHXH-2020-Quy-che-hoat-dong-cua-Cong-Dich-vu-cong-nganh-Bao-hiem-xa-hoi-436837.aspx",
+    "issuing_agency": "BẢO HIỂM XÃ HỘI VIỆT NAM",
+    "national_header": "CỘNG\r\n\n  HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM",
+    "motto": "Độc lập - Tự do - Hạnh phúc",
+    "document_number": "352/QĐ-BHXH",
+    "issued_place": "Hà Nội",
+    "issued_date": "ngày 06 tháng 03 năm 2020",
+    "document_type": "QUYẾT ĐỊNH",
+    "title": "BAN HÀNH QUY CHẾ HOẠT ĐỘNG CỦA CỔNG DỊCH VỤ CÔNG VÀ HỆ THỐNG THÔNG TIN MỘT CỬA ĐIỆN TỬ NGÀNH BẢO HIỂM XÃ HỘI TỔNG GIÁM ĐỐC BẢO HIỂM XÃ HỘI VIỆT NAM"
+  },
+  "administrative_header": {
+    "removed": true,
+    "removed_char_count": 161
+  },
+  "preamble": {
+    "text": "QUYẾT ĐỊNH BAN\nHÀNH QUY CHẾ HOẠT ĐỘNG CỦA CỔNG DỊCH VỤ CÔNG VÀ HỆ THỐNG THÔNG TIN MỘT CỬA ĐIỆN\nTỬ NGÀNH BẢO HIỂM XÃ HỘI\nTỔNG GIÁM ĐỐC BẢO HIỂM XÃ HỘI VIỆT NAM\nCăn cứ Luật Công nghệ thông tin ngày 29 tháng 6 năm 2006; Căn cứ Luật An toàn thông tin mạng ngày 19 tháng 11 năm 2015; Căn cứ Nghị định số 01/2016/NĐ-CP ngày 05 tháng 01 năm 2016 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bảo hiểm xã hội Việt Nam; Căn cứ Nghị định số 166/2016/NĐ-CP ngày 24 tháng 12 năm 2016 của Chính phủ quy định về giao dịch điện tử trong lĩnh vực bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp; Căn cứ Nghị định số 61/2018/NĐ-CP ngày 23 tháng 4 năm 2018 của Chính phủ về thực hiện cơ chế một cửa, một cửa liên thông trong giải quyết thủ tục hành chính; Căn cứ Thông tư số 01/2018/TT-VPCP ngày 23 tháng 11 năm 2018 của Văn phòng Chính phủ hướng dẫn thi hành một số quy định của Nghị định 61/2018/NĐ-CP ; Căn cứ Thông tư số 32/2017/TT-BTTTT ngày 15 tháng 11 năm 2017 của Bộ trưởng Bộ Thông tin và Truyền thông quy định về việc cung cấp dịch vụ công trực tuyến và bảo đảm khả năng truy cập thuận tiện đối với Trang thông tin điện tử hoặc Cổng thông tin điện tử của cơ quan nhà nước; Căn cứ Quyết định số 3582/QĐ-BHXH ngày 26 tháng 12 năm 2006 của Tổng Giám đốc Bảo hiểm xã hội Việt Nam về việc ban hành quy định về quản lý hoạt động công nghệ thông tin trong hệ thống Bảo hiểm xã hội Việt Nam; Căn cứ Quyết định 967/QĐ-BHXH ngày 20 tháng 06 năm 2017 của Tổng Giám đốc Bảo hiểm xã hội Việt Nam về việc ban hành quy chế bảo đảm an toàn thông tin trong ứng dụng công nghệ thông tin của ngành Bảo hiểm xã hội; Xét đề nghị của Giám đốc Trung tâm Công nghệ thông tin,\nQUYẾT ĐỊNH:",
+    "legal_bases": [
+      "Căn cứ Luật An toàn thông tin mạng ngày 19 tháng 11 năm 2015",
+      "Căn cứ Nghị định số 01/2016/NĐ-CP ngày 05 tháng 01 năm 2016 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bảo hiểm xã hội Việt Nam",
+      "Căn cứ Nghị định số 166/2016/NĐ-CP ngày 24 tháng 12 năm 2016 của Chính phủ quy định về giao dịch điện tử trong lĩnh vực bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp",
+      "Căn cứ Nghị định số 61/2018/NĐ-CP ngày 23 tháng 4 năm 2018 của Chính phủ về thực hiện cơ chế một cửa, một cửa liên thông trong giải quyết thủ tục hành chính",
+      "Căn cứ Thông tư số 01/2018/TT-VPCP ngày 23 tháng 11 năm 2018 của Văn phòng Chính phủ hướng dẫn thi hành một số quy định của Nghị định 61/2018/NĐ-CP",
+      "Căn cứ Thông tư số 32/2017/TT-BTTTT ngày 15 tháng 11 năm 2017 của Bộ trưởng Bộ Thông tin và Truyền thông quy định về việc cung cấp dịch vụ công trực tuyến và bảo đảm khả năng truy cập thuận tiện đối với Trang thông tin điện tử hoặc Cổng thông tin điện tử của cơ quan nhà nước",
+      "Căn cứ Quyết định số 3582/QĐ-BHXH ngày 26 tháng 12 năm 2006 của Tổng Giám đốc Bảo hiểm xã hội Việt Nam về việc ban hành quy định về quản lý hoạt động công nghệ thông tin trong hệ thống Bảo hiểm xã hội Việt Nam",
+      "Căn cứ Quyết định 967/QĐ-BHXH ngày 20 tháng 06 năm 2017 của Tổng Giám đốc Bảo hiểm xã hội Việt Nam về việc ban hành quy chế bảo đảm an toàn thông tin trong ứng dụng công nghệ thông tin của ngành Bảo hiểm xã hội"
+    ],
+    "proposals": [
+      "Xét đề nghị của Giám đốc Trung tâm Công nghệ thông tin,\nQUYẾT ĐỊNH:"
+    ],
+    "enactment_formula": "QUYẾT ĐỊNH:"
+  },
+  "passage": "QUYẾT ĐỊNH BAN\nHÀNH QUY CHẾ HOẠT ĐỘNG CỦA CỔNG DỊCH VỤ CÔNG VÀ HỆ THỐNG THÔNG TIN MỘT CỬA ĐIỆN\nTỬ NGÀNH BẢO HIỂM XÃ HỘI\nTỔNG GIÁM ĐỐC BẢO HIỂM XÃ HỘI VIỆT NAM\nCăn cứ Luật Công nghệ thông tin ngày 29 tháng 6 năm 2006; Căn cứ Luật An toàn thông tin mạng ngày 19 tháng 11 năm 2015; Căn cứ Nghị định số 01/2016/NĐ-CP ngày 05 tháng 01 năm 2016 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bảo hiểm xã hội Việt Nam; Căn cứ Nghị định số 166/2016/NĐ-CP ngày 24 tháng 12 năm 2016 của Chính phủ quy định về giao dịch điện tử trong lĩnh vực bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp; Căn cứ Nghị định số 61/2018/NĐ-CP ngày 23 tháng 4 năm 2018 của Chính phủ về thực hiện cơ chế một cửa, một cửa liên thông trong giải quyết thủ tục hành chính; Căn cứ Thông tư số 01/2018/TT-VPCP ngày 23 tháng 11 năm 2018 của Văn phòng Chính phủ hướng dẫn thi hành một số quy định của Nghị định 61/2018/NĐ-CP ; Căn cứ Thông tư số 32/2017/TT-BTTTT ngày 15 tháng 11 năm 2017 của Bộ trưởng Bộ Thông tin và Truyền thông quy định về việc cung cấp dịch vụ công trực tuyến và bảo đảm khả năng truy cập thuận tiện đối với Trang thông tin điện tử hoặc Cổng thông tin điện tử của cơ quan nhà nước; Căn cứ Quyết định số 3582/QĐ-BHXH ngày 26 tháng 12 năm 2006 của Tổng Giám đốc Bảo hiểm xã hội Việt Nam về việc ban hành quy định về quản lý hoạt động công nghệ thông tin trong hệ thống Bảo hiểm xã hội Việt Nam; Căn cứ Quyết định 967/QĐ-BHXH ngày 20 tháng 06 năm 2017 của Tổng Giám đốc Bảo hiểm xã hội Việt Nam về việc ban hành quy chế bảo đảm an toàn thông tin trong ứng dụng công nghệ thông tin của ngành Bảo hiểm xã hội; Xét đề nghị của Giám đốc Trung tâm Công nghệ thông tin,\nQUYẾT ĐỊNH:\nĐiều 1. Ban hành kèm theo Quyết định này Quy chế hoạt động của Cổng Dịch vụ công và Hệ thống thông tin một cửa điện tử ngành Bảo hiểm xã hội.\nĐiều 2. Quyết định có hiệu lực thi hành kể từ ngày ký.\nĐiều 3. Thủ trưởng các đơn vị trực thuộc Bảo hiểm xã hội Việt Nam, Giám đốc Bảo hiểm xã hội các tỉnh, thành phố trực thuộc Trung ương và các tổ chức, cá nhân liên quan chịu trách nhiệm thi hành Quyết định này./.\nNơi nhận:\n- Như Điều 3;\n- Tổng Giám đốc (để b/c);\n- Các Phó Tổng Giám đốc;\n- Lưu: VT, CNTT.\nKT. TỔNG GIÁM ĐỐC\nPHÓ TỔNG GIÁM ĐỐC\nPhạm Lương Sơn\nQUY CHẾ\nHOẠT\nĐỘNG CỔNG DỊCH VỤ CÔNG VÀ HỆ THỐNG THÔNG TIN MỘT CỬA ĐIỆN TỬ NGÀNH BẢO HIỂM XÃ\nHỘI\n(Ban hành kèm theo Quyết định số /QĐ-BHXH ngày\ntháng năm 2020 của Tổng Giám đốc Bảo hiểm xã hội Việt Nam)\nChương I\nNHỮNG QUY ĐỊNH CHUNG\nĐiều 1. Phạm vi điều chỉnh\nQuy chế này quy định về hoạt động\ncủa Cổng Dịch vụ công và Hệ thống thông tin một cửa điện tử của Bảo hiểm xã hội Việt Nam.\nĐiều 2. Đối tượng áp dụng\n1. Các đơn vị trực thuộc Bảo hiểm\nxã hội Việt Nam, Bảo hiểm xã hội các tỉnh, thành phố trực thuộc Trung ương.\n2. Các tổ chức, cá nhân tham\ngia cung cấp thông tin, dịch vụ công trực tuyến và quản trị vận hành Cổng Dịch vụ công của Bảo hiểm xã hội Việt Nam.\n3. Các tổ chức, cá nhân khai\nthác và sử dụng thông tin dịch vụ công trực tuyến do Bảo hiểm xã hội Việt Nam cung cấp.\nĐiều 3. Giải thích từ ngữ\n1. Cổng Dịch vụ công Bảo hiểm\nxã hội Việt Nam: là cổng tích hợp thông tin về dịch vụ công trực tuyến, tình hình, kết quả giải quyết thủ tục hành chính trên cơ sở tích hợp và chia sẻ dữ liệu với Hệ thống thông tin một cửa điện tử của Ngành.\n2. Hệ thống thông tin một cửa\nđiện tử Bảo hiểm xã hội Việt Nam: là hệ thống thông tin nội bộ có chức năng hỗ trợ việc tiếp nhận, giải quyết, theo dõi tình hình tiếp nhận, giải quyết, trả kết quả giải quyết thủ tục hành chính của Bảo hiểm xã hội; được phép kết nối, tích hợp, chia sẻ dữ liệu với các hệ thống khác theo quy định tại Nghị định số 61/2018/NĐ-CP ngày 23 tháng 4 năm 2018 của Chính phủ về thực hiện cơ chế một cửa, một cửa liên thông trong giải quyết thủ tục hành chính (sau đây viết tắt là Nghị định số 61/2018/NĐ-CP).\n3. Dịch vụ công trực tuyến của\nBảo hiểm xã hội Việt Nam (gọi tắt là dịch vụ công trực tuyến) là dịch vụ hành chính công của Bảo hiểm xã hội Việt Nam được đăng tải trên Cổng Dịch vụ công của Bảo hiểm xã hội Việt Nam, cung cấp các thông tin cho các tổ chức, cá nhân trên môi trường mạng và được công bố trên Cơ sở dữ liệu quốc gia về thủ tục hành chính.\n4. Nộp hồ sơ trực tuyến qua Cổng\nDịch vụ công là việc thực hiện nộp hồ sơ điện tử trực tuyến trên Cổng Dịch vụ công.\n5. Thiết lập quy trình giải quyết\nthủ tục hành chính là việc xây dựng và tạo lập quy trình tiếp nhận, luân chuyển, thụ lý giải quyết và trả kết quả thủ tục hành chính trên Hệ thống thông tin một cửa điện tử của BHXH Việt Nam.\nĐiều 4. Nguyên tắc cung cấp dịch vụ công trên Cổng Dịch vụ công\n1. Thủ tục hành chính đơn giản,\nrõ ràng, thuận tiện cho người sử dụng.\n2. Công khai, minh bạch thông\ntin, thời gian giải quyết, tình trạng giải quyết hồ sơ.\n3. Bảo đảm sự phối hợp chặt chẽ\ngiữa các cơ quan BHXH với các tổ chức, cá nhân trong việc giải quyết thủ tục hành chính.\n4. Chính xác, thuận tiện, nhằm tiết\nkiệm thời gian, công sức và chi phí thực hiện cho các tổ chức, cá nhân; không gây phiền hà, ách tắc trong quá trình giải quyết.\n5. Cung cấp dịch vụ công trực tuyến\nphải bảo đảm tính toàn vẹn, an toàn, đảm bảo tính pháp lý và vận hành liên tục 24 giờ/24 giờ hàng ngày.\nĐiều 5. Các hành vi bị cấm khi sử dụng dịch vụ trên Cổng Dịch vụ công và Hệ thống thông tin một cửa điện tử BHXH Việt Nam\n1. Cản trở việc lựa chọn sử dụng\ndịch vụ công trực tuyến.\n2. Cản trở hoặc can thiệp trái\nphép quá trình truyền, gửi, nhận thông điệp dữ liệu.\n3. Thay đổi, xóa, hủy, giả mạo,\nsao chép, tiết lộ, hiển thị, di chuyển trái phép một phần hoặc toàn bộ thông điệp dữ liệu.\n4. Tạo ra hoặc phát tán chương\ntrình phần mềm làm thay đổi, phá hoại hệ thống điều hành hoặc có hành vi khác nhằm phá hoại hạ tầng công nghệ thông tin phục vụ hệ thống cung cấp dịch vụ trên Cổng Dịch vụ công và Hệ thống thông tin một cửa điện tử.\n5. Các hành vi vi phạm khác\ntheo quy định của pháp luật.\n6. Đối với các thủ tục hành\nchính do cơ quan BHXH giải quyết thủ tục hành chính tiếp nhận, thụ lý giải quyết thì phiếu tiếp nhận và trả kết quả phải được kết xuất từ Hệ thống thông tin một cửa điện tử (mã số hồ sơ trên phiếu tiếp nhận được thực hiện theo quy định tại Điều 10 Quy chế này). Nghiêm cấm công chức, viên chức tiếp nhận tự ý tạo phiếu tiếp nhận ngoài Hệ thống thông tin một cửa điện tử để trả cho các tổ chức, cá nhân.\nĐiều 6. Yêu cầu đối với thông tin cung cấp trên Cổng Dịch vụ công\n1. Thực hiện theo các tiêu chuẩn\nđược quy định tại Chương II, Thông tư số 32/2017/TT-BTTTT ngày 15 tháng 11 năm 2017 của Bộ trưởng Bộ Thông tin và Truyền thông quy định về việc cung cấp dịch vụ công trực tuyến và bảo đảm khả năng truy cập thuận tiện đối với Trang thông tin điện tử hoặc Cổng thông tin điện tử của cơ quan nhà nước.\n2. Đảm bảo cung cấp các nội\ndung quy định tại khoản 2 Điều 16 Thông tư số 01/2018/TT-VPCP ngày 23/11/2018 của Văn phòng Chính phủ hướng dẫn thi hành một số quy định của Nghị định 61/2018/NĐ-CP .\nĐiều 7. Các yêu cầu chung của Hệ thống thông tin một cửa điện tử\n1. Hệ thống thông tin một cửa\nđiện tử của Bảo hiểm xã hội Việt Nam phải đảm bảo có tính năng thực hiện quy trình cơ chế một cửa, một cửa liên thông theo quy định tại Điều 17, Điều 18, Điều 19 và Điều 20 Nghị định số 61/2018/NĐ-CP.\n2. Trang thiết bị phục vụ cho Hệ\nthống thông tin một cửa điện tử tại Bộ phận Tiếp nhận và Trả kết quả thực hiện theo quy định tại Điều 13 Nghị định số 61/2018/NĐ-CP.\n3. Đối với thủ tục hành chính\nliên thông, việc tạo lập hồ sơ trên Hệ thống thông tin một cửa điện tử phải được thực hiện từ cơ quan BHXH đầu tiên giải quyết thủ tục hành chính, các cơ quan BHXH liên thông cùng cấp hoặc cấp trên có trách nhiệm xử lý trong toàn bộ quy trình giải quyết cho đến khi có kết quả giải quyết cuối cùng.\nĐiều 8. Quản lý và khai thác dữ liệu\n1. Cơ sở dữ liệu của các phần mềm\nnghiệp vụ của Ngành phải được tích hợp, đồng bộ hoặc kết xuất dữ liệu tra cứu tình trạng hồ sơ về Cổng Dịch vụ công theo Quy chế này.\n2. Cơ sở dữ liệu tra cứu tình\ntrạng hồ sơ được đảm bảo an toàn, chính xác.\n3. Thời gian lưu trữ dữ liệu được\nthực hiện theo quy định của pháp luật về lưu trữ.\nChương II\nQUY ĐỊNH QUẢN LÝ, KHAI\nTHÁC, SỬ DỤNG CỦA CỔNG DỊCH VỤ CÔNG\nĐiều 9. Thông tin về dịch vụ công trực tuyến\n1. Thông tin về dịch vụ công trực\ntuyến của BHXH Việt Nam phải được đăng tải, cập nhật, bổ sung, chỉnh sửa kịp thời trên Cổng Dịch vụ công của BHXH Việt Nam tại địa chỉ: http://dichvucong.baohiemxahoi.gov.vn. Việc đăng tải, cập nhật thông tin về dịch vụ công trực tuyến được thực hiện theo quy định hiện hành về công bố công khai thủ tục hành chính.\n2. Cổng Thông tin điện tử của\nBHXH Việt Nam, Trang Thông tin điện tử thành phần của BHXH các tỉnh, thành phố trực thuộc Trung ương phải có mục “Dịch vụ công trực tuyến” thông báo danh mục các dịch vụ công trực tuyến đang thực hiện và liên kết trực tiếp đến địa chỉ thực hiện cung cấp dịch vụ công trực tuyến của cơ quan trên Cổng Dịch vụ công để thuận tiện cho việc khai thác và sử dụng.\n3. Yêu cầu đối với các mức độ của\ndịch vụ công trực tuyến: Đảm bảo cung cấp đầy đủ các thông tin cơ bản theo quy định tại Điều 5 Thông tư số 32/2017/TT- BTTTT.\nĐiều 10. Mã số hồ sơ thủ tục hành chính Mã số hồ sơ thủ tục hành chính do Hệ thống thông tin một cửa điện tử cấp tự động, được sử dụng thống nhất trong hoạt động giao dịch giữa các cơ quan BHXH, đơn vị với tổ chức, cá nhân và giữa các cơ quan BHXH với nhau. Mã số hồ sơ thủ tục hành chính thể hiện trên Phiếu tiếp nhận và trả kết quả được sử dụng để tra cứu tình hình, kết quả giải quyết thủ tục hành chính trên Hệ thống thông tin một cửa điện tử.\nĐiều 11. Đăng ký, thay đổi thông tin tài khoản để khai thác, sử dụng Cổng Dịch vụ công\n1. Đăng ký, thay đổi thông tin\ntài khoản:\na) Tổ chức, cá nhân nhập đầy đủ\nthông tin theo yêu cầu trên Cổng Dịch vụ công tại địa chỉ: http://dichvucong.baohiemxahoi.gov.vn;\nb) Cổng Dịch vụ công thông báo\ntài khoản truy nhập ban đầu qua thư điện tử hoặc tin nhắn trên điện thoại theo đăng ký của tổ chức, cá nhân;\nc) Tổ chức, cá nhân sử dụng tài\nkhoản đã đăng ký để truy nhập Cổng Dịch vụ công để thực hiện các giao dịch;\nd) Việc thay đổi thông tin tài khoản\nthực hiện trên Cổng Dịch vụ công trong trường hợp có sự thay đổi các thông tin đăng ký.\n2. Sử dụng tài khoản nộp hồ sơ\ntrực tuyến trên Cổng Dịch vụ công:\na) Sau khi đăng ký thành công hệ\nthống sẽ cấp tài khoản cho tổ chức, cá nhân truy cập vào Cổng Dịch vụ công, kê khai và gửi hồ sơ trực tuyến hoặc sửa đổi, bổ sung thông tin, hồ sơ trực tuyến;\nb) Tổ chức, cá nhân sử dụng Cổng\nDịch vụ công có trách nhiệm xuất trình hồ sơ theo quy định khi có yêu cầu kiểm tra, đối chiếu trong quá trình sử dụng dịch vụ công trực tuyến mức độ 3, mức độ 4.\n3. Sửa đổi, bổ sung thông tin hồ\nsơ trực tuyến\na) Việc sửa đổi, bổ sung thông\ntin hồ sơ trực tuyến thực hiện khi có sự thay đổi của hồ sơ hoặc theo yêu cầu của cơ quan thực hiện thủ tục hành chính;\nb) Việc sửa đổi, bổ sung thông\ntin hồ sơ trực tuyến được thực hiện thông qua việc sửa đổi, bổ sung trực tiếp trên Cổng Dịch vụ công.\nĐiều 12. Tra cứu tình trạng hồ sơ\n1. Nội dung thể hiện kết quả\ntra cứu tình trạng hồ sơ trên Cổng Dịch vụ công và các điểm tra cứu của cơ quan cung cấp dịch vụ hành chính công. - Cơ quan BHXH giải quyết; - Phòng ban giải quyết; - Ngày tiếp nhận; - Ngày trả kết quả; - Tình trạng xử lý hồ sơ: Bảo hiểm xã hội đã tiếp nhận hồ sơ; Bảo hiểm xã hội đang xử lý hồ sơ; Bảo hiểm xã hội đã xử lý xong hồ sơ và đã có kết quả; Bảo hiểm xã hội đã trả kết quả; Bảo hiểm xã hội đã từ chối hồ sơ.\n2. Cách thức thực hiện tra cứu\ntình trạng hồ sơ bao gồm:\na) Tra cứu trực tuyến tại địa\nchỉ: http://dichvucong.baohiemxahoi.gov.vn;\nb) Hệ thống trả lời tự động qua\ntin nhắn (SMS) điện thoại;\nĐiều 13. Sử dụng Cổng Dịch vụ công để nộp hồ sơ trực tuyến Khi tài khoản đã được đăng ký thành công theo quy định tại Điều 11 của Quy chế này, các tổ chức, cá nhân có thể đăng nhập vào Cổng Dịch vụ công để kê khai, thực hiện việc nộp hồ sơ trực tuyến đối với các thủ tục hành chính đã được công bố cung cấp và tra cứu các dịch vụ trên Cổng Dịch vụ công cung cấp.\nĐiều 14. Tiếp nhận, giải quyết và trả kết quả thủ tục hành chính được nộp trực tuyến trên Cổng Dịch vụ công\n1. Xử lý hồ sơ nộp trực tuyến\ntrên Cổng Dịch vụ công.\na) Việc tiếp nhận hồ sơ được nộp\ntrực tuyến thông qua Cổng Dịch vụ công của BHXH Việt Nam được thực hiện theo quy định tại khoản 2 Điều 17 Nghị định số 61/2018/NĐ-CP;\nb) Việc chuyển hồ sơ được thực\nhiện theo Quyết định số 838/QĐ-BHXH ngày 29/5/2017 của Tổng Giám đốc BHXH Việt Nam.\n2. Giải quyết thủ tục hành\nchính nộp trực tuyến trên Cổng Dịch vụ công\na) Sau khi nhận hồ sơ trực tuyến\nđầy đủ và hợp lệ, cơ quan Bảo hiểm xã hội thực hiện xử lý, thẩm định hồ sơ theo quy định của Bảo hiểm xã hội Việt Nam;\nb) Thời gian xử lý, thẩm định hồ\nsơ trực tuyến thực hiện theo quyết định của Bảo hiểm xã hội Việt Nam quy định về trình tự, thời gian giải quyết thủ tục hành chính\nc) Quá trình giải quyết hồ sơ nộp\ntrực tuyến tại cơ quan, đơn vị được thực hiện theo quyết định của BHXH Việt Nam quy định trình tự, thời gian giải quyết thủ tục giao dịch điện tử.\n3. Trả kết quả giải quyết thủ tục\nhành chính nộp trực tuyến trên Cổng Dịch vụ công\na) Cơ quan BHXH thực hiện dịch\nvụ công trực tuyến có trách nhiệm trả kết quả cho tổ chức, cá nhân theo phương thức sau: - Qua Hệ thống dịch vụ công trực tuyến đối với các thủ tục hành chính được phép trả kết quả qua hệ thống này; - Thông qua dịch vụ bưu chính công ích; - Tại Bộ phận Tiếp nhận và Trả kết quả thủ tục hành chính của cơ quan BHXH.\nb) Việc trả kết quả giải quyết\nthủ tục hành chính và các hồ sơ kèm theo kết quả giải quyết (nếu có) được thực hiện theo quy định tại Điều 20 Nghị định số 61/2018/NĐ-CP. Chương\nIII HOẠT ĐỘNG CỦA HỆ THỐNG\nTHÔNG TIN MỘT CỬA ĐIỆN TỬ\nĐiều 15. Tổ chức Hệ thống thông tin một cửa điện tử\n1. Hệ thống thông tin một cửa\nđiện tử của BHXH Việt Nam triển khai tại BHXH các tỉnh, thành phố và cơ quan BHXH các quận, huyện để thực hiện thủ tục hành chính được tổ chức theo mô hình quản lý tập trung, hệ thống phần mềm được xây dựng trên nền tảng web, cơ sở dữ liệu được lưu trữ tập trung tại Trung ương\n2. Hệ thống thông tin một cửa\nđiện tử được vận hành trên môi trường mạng, dữ liệu được liên thông, luân chuyển khép kín từ Bộ phận Tiếp nhận và Trả kết quả thủ tục hành chính đến các phòng ban chuyên môn trong hệ thống một cửa điện tử.\n3. Bộ phận Tiếp nhận và Trả kết\nquả thủ tục hành chính thực hiện theo quy định tại Điều 8 Nghị định số 61/2018/NĐ-CP.\n4. Các tổ chức, cá nhân nộp hồ\nsơ trực tiếp tại Bộ phận Tiếp nhận và Trả kết quả thủ tục hành chính hoặc nộp trực tuyến trên hệ thống theo quy định của Quy chế này.\nĐiều 16. Tạo lập hồ sơ hành chính điện tử trên Hệ thống thông tin một cửa điện tử Hồ sơ điện tử được tạo lập từ thông tin kê khai, kết quả xử lý, thông báo được tạo ra, gửi đi, nhận và lưu trữ bằng phương tiện điện tử để thực hiện các thủ tục hành chính.\nĐiều 17. Xác thực giá trị pháp lý của hồ sơ điện tử Hồ sơ điện tử của cá nhân, tổ chức trong quá trình giao dịch thủ tục hành chính với cơ quan BHXH được tạo lập và xác thực (xác thực bằng mã OTP đối với cá nhân và chữ ký số đối với tổ chức) nhằm bảo đảm giá trị pháp lý.\nĐiều 18. Cập nhật thông tin về thủ tục hành chính vào Hệ thống thông tin một cửa điện tử\n1. Cập nhật thông tin về thủ tục\nhành chính\na) Thông tin về thủ tục hành\nchính: Tất cả thủ tục hành chính của BHXH Việt Nam được áp dụng để giải quyết cho các tổ chức, cá nhân đều phải được công khai thông tin trên Hệ thống thông tin một cửa điện tử của BHXH bao gồm: - Thủ tục hành chính do BHXH Việt Nam công bố căn cứ theo các quyết định của Tổng Giám đốc BHXH Việt Nam. - Thủ tục hành chính được thực hiện thống nhất trong phạm vi toàn Ngành.\nb) Về mức độ công khai thủ tục\nhành chính: Các thủ tục hành chính trên Hệ thống phải quy định rõ mức độ của từng dịch vụ có hướng dẫn sử dụng chi tiết. Các dịch vụ được tổ chức, phân loại theo từng lĩnh vực để thuận tiện cho việc khai thác, sử dụng.\nc) Hình thức cập nhật thông tin\nthủ tục hành chính: Việc thực hiện cập nhật thông tin về thủ tục hành chính phải bảo đảm tính kịp thời, đầy đủ, chính xác.\n2. Trình tự các bước tiến hành\ncập nhật thông tin thủ tục hành chính Sau khi BHXH Việt Nam có quyết định công bố nhưng thay đổi về thủ tục hành chính thì các thủ tục này phải được đăng tải trên hệ thống của Cổng thông tin của BHXH Việt Nam, Trang tin điện tử của BHXH các tỉnh, thành phố và công bố sử dụng trên Cơ sở dữ liệu quốc gia về thủ tục hành chính.\nĐiều 19. Quy trình giải quyết thủ tục hành chính trên Hệ thống thông tin một cửa điện tử\n1. Quy trình giải quyết thủ tục\nhành chính trên Hệ thống thông tin một cửa điện tử được tiếp nhận thông qua Cổng Dịch vụ công (thủ tục được nộp trực tuyến) thực hiện theo Quyết định số 838/QĐ-BHXH ngày 29/5/2017 của Tổng Giám đốc BHXH Việt Nam.\n2. Quy trình giải quyết thủ tục\nhành chính trên Hệ thống thông tin một cửa điện tử đối với thủ tục được tiếp nhận trực tiếp tại Bộ phận Tiếp nhận và Trả kết quả thủ tục hành chính.\na) Việc giải quyết thủ tục hành\nchính đối với hình thức nộp trực tiếp tại Bộ phận Tiếp nhận và Trả kết quả thủ tục hành chính, qua dịch vụ bưu chính công ích được thực hiện theo các quy định của BHXH Việt Nam quy định về quy trình giải quyết thủ tục hành chính;\nb) Cán bộ tiếp nhận hồ sơ có\ntrách nhiệm chụp hoặc scan hồ sơ trực tiếp từ Hệ thống thông tin một cửa điện tử để chuyển xử lý (theo quy định tại khoản 5 Điều 3 Quy chế này).\nc) Trường hợp hồ sơ có liên\nquan đến nhiều cơ quan BHXH giải quyết (hồ sơ liên thông), cơ quan đầu mối tiếp nhận hồ sơ thì cơ quan BHXH được giao quản lý Hệ thống thông tin một cửa điện tử có trách nhiệm thiết lập thủ tục liên thông trên Hệ thống để bảo đảm quá trình chuyển hồ sơ trên Hệ thống thông tin một cửa điện tử thông suốt từ khâu tiếp nhận đến khâu trả kết quả.\nChương IV\nTRÁCH NHIỆM CỦA CÁC TỔ\nCHỨC, CÁ NHÂN TRONG QUẢN LÝ, SỬ DỤNG CỔNG DỊCH VỤ CÔNG VÀ HỆ THỐNG THÔNG TIN MỘT\nCỬA ĐIỆN TỬ\nĐiều 20. Trách nhiệm của các cơ quan BHXH tham gia Cổng Dịch vụ công và Hệ thống thông tin một cửa điện tử\n1. Các cơ quan BHXH có thủ tục\nhành chính bắt buộc phải xử lý toàn bộ quy trình trên Hệ thống thông tin một cửa điện tử, có trách nhiệm chỉ đạo các cán bộ của đơn vị sử dụng Hệ thống thông tin một cửa điện tử vào quá trình giải quyết thủ tục hành chính; thường xuyên theo dõi, kiểm tra, đánh giá tình hình xử lý hồ sơ thủ tục hành chính tại cơ quan mình thông qua Hệ thống thông tin một cửa điện tử nhằm kịp thời phát hiện, giải quyết các khó khăn, vướng mắc phát sinh.\n2. Các cơ quan BHXH thường\nxuyên theo dõi và kiểm tra tình hình thực hiện, đảm bảo thông tin cung cấp trên Hệ thống thông tin một cửa điện tử đúng thực tế.\n3. Việc tiếp nhận hồ sơ, thủ tục\nhành chính phải căn cứ trên cơ sở thủ tục hành chính được công bố theo quyết định của Tổng Giám đốc BHXH Việt Nam (được cập nhật trên Cơ sở dữ liệu của Cổng Dịch vụ công và Hệ thống thông tin một cửa điện tử).\nĐiều 21. Trách nhiệm của đơn vị quản lý Cổng Dịch vụ công và Hệ thống thông tin một cửa điện tử\n1. Trung tâm Công nghệ thông\ntin chịu trách nhiệm quản lý chung về mặt kỹ thuật của Cổng Dịch vụ công và Hệ thống thông tin một cửa điện tử; phối hợp với các đơn vị có liên quan đảm bảo Hệ thống hoạt động ổn định, liên tục; thường xuyên theo dõi, kiểm tra việc sử dụng.\n2. Trung tâm Công nghệ thông\ntin tham mưu xây dựng kế hoạch bảo trì vận hành, nâng cấp Cổng Dịch vụ công và Hệ thống thông tin một cửa điện tử và hạ tầng kỹ thuật liên quan.\n3. Trung tâm Công nghệ thông\ntin hỗ trợ kỹ thuật đối với BHXH các tỉnh, thành phố trong việc sử dụng Cổng Dịch vụ công và Hệ thống thông tin một cửa điện tử để phục vụ tổ chức, cá nhân.\n4. Vụ Pháp chế chủ trì phối hợp\nvới các đơn vị nghiệp vụ và Trung tâm Công nghệ thông tin thực hiện kiểm soát dịch vụ công trực tuyến toàn Ngành; báo cáo các cơ quan có thẩm quyền về hình thức thực hiện dịch vụ công theo quy định.\nĐiều 22. Trách nhiệm của tổ chức, cá nhân trong kê khai, nộp hồ sơ, tra cứu, sử dụng Cổng Dịch vụ công\n1. Kê khai, nộp hồ sơ, tra cứu và\nsử dụng Cổng Dịch vụ công phục vụ cho việc thực hiện thủ tục hành chính theo quy định của BHXH Việt Nam và theo quy định của pháp luật.\n2. Thực hiện những thủ tục hành\nchính, hồ sơ, thành phần hồ sơ, yêu cầu, điều kiện được đăng tải công khai trên Cổng Dịch vụ công của BHXH Việt Nam.\n3. Nghĩa vụ của tổ chức, cá\nnhân khi tham gia sử dụng Cổng Dịch vụ công:\na) Có nghĩa vụ bảo vệ tài khoản\nđược cung cấp để đăng nhập sử dụng Cổng Dịch vụ công. Nghiêm cấm việc gian lận, mạo nhận, chiếm đoạt hoặc sử dụng trái phép tài khoản, chữ ký số của người khác;\nb) Đăng ký, kê khai các thông\ntin chính xác; chịu trách nhiệm trước pháp luật về những thông tin đăng ký, kê khai.\nChương V\nTỔ CHỨC THỰC HIỆN\nĐiều 23. Trách nhiệm của các đơn vị Chánh Văn phòng BHXH Việt Nam; Giám đốc Trung tâm Công nghệ thông tin; Thủ trưởng các đơn vị trực thuộc BHXH Việt Nam; Giám đốc BHXH các tỉnh, thành phố trực thuộc Trung ương chịu trách nhiệm thi hành Quy chế này.\nĐiều 24. Sửa đổi, bổ sung Trong quá trình thực hiện Quy chế này, BHXH tỉnh, thành phố trực thuộc Trung ương và các đơn vị trực thuộc BHXH Việt Nam kịp thời phản ánh những vướng mắc, bất cập hoặc đề xuất giải pháp, gửi về BHXH Việt Nam (Trung tâm Công nghệ thông tin) để tổng hợp, trình Tổng Giám đốc xem xét, quyết định bổ sung hoặc sửa đổi Quy chế cho phù hợp./.",
+  "tree": {
+    "parts": [
+      {
+        "part_id": "doc:231517:part:1",
+        "part_type": "main",
+        "part_title": null,
+        "reference": null,
+        "direct_text": "QUYẾT ĐỊNH BAN\nHÀNH QUY CHẾ HOẠT ĐỘNG CỦA CỔNG DỊCH VỤ CÔNG VÀ HỆ THỐNG THÔNG TIN MỘT CỬA ĐIỆN\nTỬ NGÀNH BẢO HIỂM XÃ HỘI\nTỔNG GIÁM ĐỐC BẢO HIỂM XÃ HỘI VIỆT NAM\nCăn cứ Luật Công nghệ thông tin ngày 29 tháng 6 năm 2006; Căn cứ Luật An toàn thông tin mạng ngày 19 tháng 11 năm 2015; Căn cứ Nghị định số 01/2016/NĐ-CP ngày 05 tháng 01 năm 2016 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bảo hiểm xã hội Việt Nam; Căn cứ Nghị định số 166/2016/NĐ-CP ngày 24 tháng 12 năm 2016 của Chính phủ quy định về giao dịch điện tử trong lĩnh vực bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp; Căn cứ Nghị định số 61/2018/NĐ-CP ngày 23 tháng 4 năm 2018 của Chính phủ về thực hiện cơ chế một cửa, một cửa liên thông trong giải quyết thủ tục hành chính; Căn cứ Thông tư số 01/2018/TT-VPCP ngày 23 tháng 11 năm 2018 của Văn phòng Chính phủ hướng dẫn thi hành một số quy định của Nghị định 61/2018/NĐ-CP ; Căn cứ Thông tư số 32/2017/TT-BTTTT ngày 15 tháng 11 năm 2017 của Bộ trưởng Bộ Thông tin và Truyền thông quy định về việc cung cấp dịch vụ công trực tuyến và bảo đảm khả năng truy cập thuận tiện đối với Trang thông tin điện tử hoặc Cổng thông tin điện tử của cơ quan nhà nước; Căn cứ Quyết định số 3582/QĐ-BHXH ngày 26 tháng 12 năm 2006 của Tổng Giám đốc Bảo hiểm xã hội Việt Nam về việc ban hành quy định về quản lý hoạt động công nghệ thông tin trong hệ thống Bảo hiểm xã hội Việt Nam; Căn cứ Quyết định 967/QĐ-BHXH ngày 20 tháng 06 năm 2017 của Tổng Giám đốc Bảo hiểm xã hội Việt Nam về việc ban hành quy chế bảo đảm an toàn thông tin trong ứng dụng công nghệ thông tin của ngành Bảo hiểm xã hội; Xét đề nghị của Giám đốc Trung tâm Công nghệ thông tin,\nQUYẾT ĐỊNH:",
+        "chapters": [],
+        "sections": [],
+        "articles": [
+          {
+            "article_id": "doc:231517:part:1:article:1",
+            "number": "1",
+            "title": "Ban hành kèm theo Quyết định này Quy chế hoạt động của Cổng Dịch vụ công và Hệ thống thông tin một cửa điện tử ngành Bảo hiểm xã hội.",
+            "content": "Điều 1. Ban hành kèm theo Quyết định này Quy chế hoạt động của Cổng Dịch vụ công và Hệ thống thông tin một cửa điện tử ngành Bảo hiểm xã hội.",
+            "clauses": [],
+            "points": []
+          },
+          {
+            "article_id": "doc:231517:part:1:article:2",
+            "number": "2",
+            "title": "Quyết định có hiệu lực thi hành kể từ ngày ký.",
+            "content": "Điều 2. Quyết định có hiệu lực thi hành kể từ ngày ký.",
+            "clauses": [],
+            "points": []
+          },
+          {
+            "article_id": "doc:231517:part:1:article:3",
+            "number": "3",
+            "title": "Thủ trưởng các đơn vị trực thuộc Bảo hiểm xã hội Việt Nam, Giám đốc Bảo hiểm xã hội các tỉnh, thành phố trực thuộc Trung ương và các tổ chức, cá nhân liên quan chịu trách nhiệm thi hành Quyết định này./.",
+            "content": "Điều 3. Thủ trưởng các đơn vị trực thuộc Bảo hiểm xã hội Việt Nam, Giám đốc Bảo hiểm xã hội các tỉnh, thành phố trực thuộc Trung ương và các tổ chức, cá nhân liên quan chịu trách nhiệm thi hành Quyết định này./.",
+            "clauses": [],
+            "points": []
+          }
+        ],
+        "unstructured_blocks": []
+      },
+      {
+        "part_id": "doc:231517:part:2",
+        "part_type": "regulation",
+        "part_title": "QUY CHẾ",
+        "reference": null,
+        "direct_text": "QUY CHẾ\nHOẠT\nĐỘNG CỔNG DỊCH VỤ CÔNG VÀ HỆ THỐNG THÔNG TIN MỘT CỬA ĐIỆN TỬ NGÀNH BẢO HIỂM XÃ\nHỘI\n(Ban hành kèm theo Quyết định số /QĐ-BHXH ngày\ntháng năm 2020 của Tổng Giám đốc Bảo hiểm xã hội Việt Nam)\nQuy chế này quy định về hoạt động\ncủa Cổng Dịch vụ công và Hệ thống thông tin một cửa điện tử của Bảo hiểm xã hội Việt Nam.",
+        "chapters": [
+          {
+            "chapter_id": "doc:231517:part:2:chapter:1",
+            "number": "I",
+            "title": "NHỮNG QUY ĐỊNH CHUNG",
+            "content": "Chương I\nNHỮNG QUY ĐỊNH CHUNG",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:231517:part:2:article:1",
+                "number": "1",
+                "title": "Phạm vi điều chỉnh",
+                "content": "Điều 1. Phạm vi điều chỉnh",
+                "clauses": [],
+                "points": []
+              },
+              {
+                "article_id": "doc:231517:part:2:article:2",
+                "number": "2",
+                "title": "Đối tượng áp dụng",
+                "content": "Điều 2. Đối tượng áp dụng",
+                "clauses": [
+                  {
+                    "clause_id": "doc:231517:part:2:article:2:clause:1",
+                    "number": "1",
+                    "content": "1. Các đơn vị trực thuộc Bảo hiểm\nxã hội Việt Nam, Bảo hiểm xã hội các tỉnh, thành phố trực thuộc Trung ương.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:231517:part:2:article:2:clause:2",
+                    "number": "2",
+                    "content": "2. Các tổ chức, cá nhân tham\ngia cung cấp thông tin, dịch vụ công trực tuyến và quản trị vận hành Cổng Dịch vụ công của Bảo hiểm xã hội Việt Nam.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:231517:part:2:article:2:clause:3",
+                    "number": "3",
+                    "content": "3. Các tổ chức, cá nhân khai\nthác và sử dụng thông tin dịch vụ công trực tuyến do Bảo hiểm xã hội Việt Nam cung cấp.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:231517:part:2:article:3",
+                "number": "3",
+                "title": "Giải thích từ ngữ",
+                "content": "Điều 3. Giải thích từ ngữ",
+                "clauses": [
+                  {
+                    "clause_id": "doc:231517:part:2:article:3:clause:1",
+                    "number": "1",
+                    "content": "1. Cổng Dịch vụ công Bảo hiểm\nxã hội Việt Nam: là cổng tích hợp thông tin về dịch vụ công trực tuyến, tình hình, kết quả giải quyết thủ tục hành chính trên cơ sở tích hợp và chia sẻ dữ liệu với Hệ thống thông tin một cửa điện tử của Ngành.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:231517:part:2:article:3:clause:2",
+                    "number": "2",
+                    "content": "2. Hệ thống thông tin một cửa\nđiện tử Bảo hiểm xã hội Việt Nam: là hệ thống thông tin nội bộ có chức năng hỗ trợ việc tiếp nhận, giải quyết, theo dõi tình hình tiếp nhận, giải quyết, trả kết quả giải quyết thủ tục hành chính của Bảo hiểm xã hội; được phép kết nối, tích hợp, chia sẻ dữ liệu với các hệ thống khác theo quy định tại Nghị định số 61/2018/NĐ-CP ngày 23 tháng 4 năm 2018 của Chính phủ về thực hiện cơ chế một cửa, một cửa liên thông trong giải quyết thủ tục hành chính (sau đây viết tắt là Nghị định số 61/2018/NĐ-CP).",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:231517:part:2:article:3:clause:3",
+                    "number": "3",
+                    "content": "3. Dịch vụ công trực tuyến của\nBảo hiểm xã hội Việt Nam (gọi tắt là dịch vụ công trực tuyến) là dịch vụ hành chính công của Bảo hiểm xã hội Việt Nam được đăng tải trên Cổng Dịch vụ công của Bảo hiểm xã hội Việt Nam, cung cấp các thông tin cho các tổ chức, cá nhân trên môi trường mạng và được công bố trên Cơ sở dữ liệu quốc gia về thủ tục hành chính.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:231517:part:2:article:3:clause:4",
+                    "number": "4",
+                    "content": "4. Nộp hồ sơ trực tuyến qua Cổng\nDịch vụ công là việc thực hiện nộp hồ sơ điện tử trực tuyến trên Cổng Dịch vụ công.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:231517:part:2:article:3:clause:5",
+                    "number": "5",
+                    "content": "5. Thiết lập quy trình giải quyết\nthủ tục hành chính là việc xây dựng và tạo lập quy trình tiếp nhận, luân chuyển, thụ lý giải quyết và trả kết quả thủ tục hành chính trên Hệ thống thông tin một cửa điện tử của BHXH Việt Nam.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:231517:part:2:article:4",
+                "number": "4",
+                "title": "Nguyên tắc cung cấp dịch vụ công trên Cổng Dịch vụ công",
+                "content": "Điều 4. Nguyên tắc cung cấp dịch vụ công trên Cổng Dịch vụ công",
+                "clauses": [
+                  {
+                    "clause_id": "doc:231517:part:2:article:4:clause:1",
+                    "number": "1",
+                    "content": "1. Thủ tục hành chính đơn giản,\nrõ ràng, thuận tiện cho người sử dụng.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:231517:part:2:article:4:clause:2",
+                    "number": "2",
+                    "content": "2. Công khai, minh bạch thông\ntin, thời gian giải quyết, tình trạng giải quyết hồ sơ.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:231517:part:2:article:4:clause:3",
+                    "number": "3",
+                    "content": "3. Bảo đảm sự phối hợp chặt chẽ\ngiữa các cơ quan BHXH với các tổ chức, cá nhân trong việc giải quyết thủ tục hành chính.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:231517:part:2:article:4:clause:4",
+                    "number": "4",
+                    "content": "4. Chính xác, thuận tiện, nhằm tiết\nkiệm thời gian, công sức và chi phí thực hiện cho các tổ chức, cá nhân; không gây phiền hà, ách tắc trong quá trình giải quyết.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:231517:part:2:article:4:clause:5",
+                    "number": "5",
+                    "content": "5. Cung cấp dịch vụ công trực tuyến\nphải bảo đảm tính toàn vẹn, an toàn, đảm bảo tính pháp lý và vận hành liên tục 24 giờ/24 giờ hàng ngày.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:231517:part:2:article:5",
+                "number": "5",
+                "title": "Các hành vi bị cấm khi sử dụng dịch vụ trên Cổng Dịch vụ công và Hệ thống thông tin một cửa điện tử BHXH Việt Nam",
+                "content": "Điều 5. Các hành vi bị cấm khi sử dụng dịch vụ trên Cổng Dịch vụ công và Hệ thống thông tin một cửa điện tử BHXH Việt Nam",
+                "clauses": [
+                  {
+                    "clause_id": "doc:231517:part:2:article:5:clause:1",
+                    "number": "1",
+                    "content": "1. Cản trở việc lựa chọn sử dụng\ndịch vụ công trực tuyến.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:231517:part:2:article:5:clause:2",
+                    "number": "2",
+                    "content": "2. Cản trở hoặc can thiệp trái\nphép quá trình truyền, gửi, nhận thông điệp dữ liệu.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:231517:part:2:article:5:clause:3",
+                    "number": "3",
+                    "content": "3. Thay đổi, xóa, hủy, giả mạo,\nsao chép, tiết lộ, hiển thị, di chuyển trái phép một phần hoặc toàn bộ thông điệp dữ liệu.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:231517:part:2:article:5:clause:4",
+                    "number": "4",
+                    "content": "4. Tạo ra hoặc phát tán chương\ntrình phần mềm làm thay đổi, phá hoại hệ thống điều hành hoặc có hành vi khác nhằm phá hoại hạ tầng công nghệ thông tin phục vụ hệ thống cung cấp dịch vụ trên Cổng Dịch vụ công và Hệ thống thông tin một cửa điện tử.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:231517:part:2:article:5:clause:5",
+                    "number": "5",
+                    "content": "5. Các hành vi vi phạm khác\ntheo quy định của pháp luật.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:231517:part:2:article:5:clause:6",
+                    "number": "6",
+                    "content": "6. Đối với các thủ tục hành\nchính do cơ quan BHXH giải quyết thủ tục hành chính tiếp nhận, thụ lý giải quyết thì phiếu tiếp nhận và trả kết quả phải được kết xuất từ Hệ thống thông tin một cửa điện tử (mã số hồ sơ trên phiếu tiếp nhận được thực hiện theo quy định tại Điều 10 Quy chế này). Nghiêm cấm công chức, viên chức tiếp nhận tự ý tạo phiếu tiếp nhận ngoài Hệ thống thông tin một cửa điện tử để trả cho các tổ chức, cá nhân.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:231517:part:2:article:6",
+                "number": "6",
+                "title": "Yêu cầu đối với thông tin cung cấp trên Cổng Dịch vụ công",
+                "content": "Điều 6. Yêu cầu đối với thông tin cung cấp trên Cổng Dịch vụ công",
+                "clauses": [
+                  {
+                    "clause_id": "doc:231517:part:2:article:6:clause:1",
+                    "number": "1",
+                    "content": "1. Thực hiện theo các tiêu chuẩn\nđược quy định tại Chương II, Thông tư số 32/2017/TT-BTTTT ngày 15 tháng 11 năm 2017 của Bộ trưởng Bộ Thông tin và Truyền thông quy định về việc cung cấp dịch vụ công trực tuyến và bảo đảm khả năng truy cập thuận tiện đối với Trang thông tin điện tử hoặc Cổng thông tin điện tử của cơ quan nhà nước.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:231517:part:2:article:6:clause:2",
+                    "number": "2",
+                    "content": "2. Đảm bảo cung cấp các nội\ndung quy định tại khoản 2 Điều 16 Thông tư số 01/2018/TT-VPCP ngày 23/11/2018 của Văn phòng Chính phủ hướng dẫn thi hành một số quy định của Nghị định 61/2018/NĐ-CP .",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:231517:part:2:article:7",
+                "number": "7",
+                "title": "Các yêu cầu chung của Hệ thống thông tin một cửa điện tử",
+                "content": "Điều 7. Các yêu cầu chung của Hệ thống thông tin một cửa điện tử",
+                "clauses": [
+                  {
+                    "clause_id": "doc:231517:part:2:article:7:clause:1",
+                    "number": "1",
+                    "content": "1. Hệ thống thông tin một cửa\nđiện tử của Bảo hiểm xã hội Việt Nam phải đảm bảo có tính năng thực hiện quy trình cơ chế một cửa, một cửa liên thông theo quy định tại Điều 17, Điều 18, Điều 19 và Điều 20 Nghị định số 61/2018/NĐ-CP.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:231517:part:2:article:7:clause:2",
+                    "number": "2",
+                    "content": "2. Trang thiết bị phục vụ cho Hệ\nthống thông tin một cửa điện tử tại Bộ phận Tiếp nhận và Trả kết quả thực hiện theo quy định tại Điều 13 Nghị định số 61/2018/NĐ-CP.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:231517:part:2:article:7:clause:3",
+                    "number": "3",
+                    "content": "3. Đối với thủ tục hành chính\nliên thông, việc tạo lập hồ sơ trên Hệ thống thông tin một cửa điện tử phải được thực hiện từ cơ quan BHXH đầu tiên giải quyết thủ tục hành chính, các cơ quan BHXH liên thông cùng cấp hoặc cấp trên có trách nhiệm xử lý trong toàn bộ quy trình giải quyết cho đến khi có kết quả giải quyết cuối cùng.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:231517:part:2:article:8",
+                "number": "8",
+                "title": "Quản lý và khai thác dữ liệu",
+                "content": "Điều 8. Quản lý và khai thác dữ liệu",
+                "clauses": [
+                  {
+                    "clause_id": "doc:231517:part:2:article:8:clause:1",
+                    "number": "1",
+                    "content": "1. Cơ sở dữ liệu của các phần mềm\nnghiệp vụ của Ngành phải được tích hợp, đồng bộ hoặc kết xuất dữ liệu tra cứu tình trạng hồ sơ về Cổng Dịch vụ công theo Quy chế này.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:231517:part:2:article:8:clause:2",
+                    "number": "2",
+                    "content": "2. Cơ sở dữ liệu tra cứu tình\ntrạng hồ sơ được đảm bảo an toàn, chính xác.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:231517:part:2:article:8:clause:3",
+                    "number": "3",
+                    "content": "3. Thời gian lưu trữ dữ liệu được\nthực hiện theo quy định của pháp luật về lưu trữ.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:231517:part:2:chapter:2",
+            "number": "II",
+            "title": "QUY ĐỊNH QUẢN LÝ, KHAI THÁC, SỬ DỤNG CỦA CỔNG DỊCH VỤ CÔNG",
+            "content": "Chương II\nQUY ĐỊNH QUẢN LÝ, KHAI\nTHÁC, SỬ DỤNG CỦA CỔNG DỊCH VỤ CÔNG",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:231517:part:2:article:9",
+                "number": "9",
+                "title": "Thông tin về dịch vụ công trực tuyến",
+                "content": "Điều 9. Thông tin về dịch vụ công trực tuyến",
+                "clauses": [
+                  {
+                    "clause_id": "doc:231517:part:2:article:9:clause:1",
+                    "number": "1",
+                    "content": "1. Thông tin về dịch vụ công trực\ntuyến của BHXH Việt Nam phải được đăng tải, cập nhật, bổ sung, chỉnh sửa kịp thời trên Cổng Dịch vụ công của BHXH Việt Nam tại địa chỉ: http://dichvucong.baohiemxahoi.gov.vn. Việc đăng tải, cập nhật thông tin về dịch vụ công trực tuyến được thực hiện theo quy định hiện hành về công bố công khai thủ tục hành chính.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:231517:part:2:article:9:clause:2",
+                    "number": "2",
+                    "content": "2. Cổng Thông tin điện tử của\nBHXH Việt Nam, Trang Thông tin điện tử thành phần của BHXH các tỉnh, thành phố trực thuộc Trung ương phải có mục “Dịch vụ công trực tuyến” thông báo danh mục các dịch vụ công trực tuyến đang thực hiện và liên kết trực tiếp đến địa chỉ thực hiện cung cấp dịch vụ công trực tuyến của cơ quan trên Cổng Dịch vụ công để thuận tiện cho việc khai thác và sử dụng.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:231517:part:2:article:9:clause:3",
+                    "number": "3",
+                    "content": "3. Yêu cầu đối với các mức độ của\ndịch vụ công trực tuyến: Đảm bảo cung cấp đầy đủ các thông tin cơ bản theo quy định tại Điều 5 Thông tư số 32/2017/TT- BTTTT.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:231517:part:2:article:10",
+                "number": "10",
+                "title": "Mã số hồ sơ thủ tục hành chính Mã số hồ sơ thủ tục hành chính do Hệ thống thông tin một cửa điện tử cấp tự động, được sử dụng thống nhất trong hoạt động giao dịch giữa các cơ quan BHXH, đơn vị với tổ chức, cá nhân và giữa các cơ quan BHXH với nhau. Mã số hồ sơ thủ tục hành chính thể hiện trên Phiếu tiếp nhận và trả kết quả được sử dụng để tra cứu tình hình, kết quả giải quyết thủ tục hành chính trên Hệ thống thông tin một cửa điện tử.",
+                "content": "Điều 10. Mã số hồ sơ thủ tục hành chính Mã số hồ sơ thủ tục hành chính do Hệ thống thông tin một cửa điện tử cấp tự động, được sử dụng thống nhất trong hoạt động giao dịch giữa các cơ quan BHXH, đơn vị với tổ chức, cá nhân và giữa các cơ quan BHXH với nhau. Mã số hồ sơ thủ tục hành chính thể hiện trên Phiếu tiếp nhận và trả kết quả được sử dụng để tra cứu tình hình, kết quả giải quyết thủ tục hành chính trên Hệ thống thông tin một cửa điện tử.",
+                "clauses": [],
+                "points": []
+              },
+              {
+                "article_id": "doc:231517:part:2:article:11",
+                "number": "11",
+                "title": "Đăng ký, thay đổi thông tin tài khoản để khai thác, sử dụng Cổng Dịch vụ công",
+                "content": "Điều 11. Đăng ký, thay đổi thông tin tài khoản để khai thác, sử dụng Cổng Dịch vụ công",
+                "clauses": [
+                  {
+                    "clause_id": "doc:231517:part:2:article:11:clause:1",
+                    "number": "1",
+                    "content": "1. Đăng ký, thay đổi thông tin\ntài khoản:",
+                    "points": [
+                      {
+                        "point_id": "doc:231517:part:2:article:11:clause:1:point:1",
+                        "label": "a",
+                        "content": "a) Tổ chức, cá nhân nhập đầy đủ\nthông tin theo yêu cầu trên Cổng Dịch vụ công tại địa chỉ: http://dichvucong.baohiemxahoi.gov.vn;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:231517:part:2:article:11:clause:1:point:2",
+                        "label": "b",
+                        "content": "b) Cổng Dịch vụ công thông báo\ntài khoản truy nhập ban đầu qua thư điện tử hoặc tin nhắn trên điện thoại theo đăng ký của tổ chức, cá nhân;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:231517:part:2:article:11:clause:1:point:3",
+                        "label": "c",
+                        "content": "c) Tổ chức, cá nhân sử dụng tài\nkhoản đã đăng ký để truy nhập Cổng Dịch vụ công để thực hiện các giao dịch;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:231517:part:2:article:11:clause:1:point:4",
+                        "label": "d",
+                        "content": "d) Việc thay đổi thông tin tài khoản\nthực hiện trên Cổng Dịch vụ công trong trường hợp có sự thay đổi các thông tin đăng ký.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:231517:part:2:article:11:clause:2",
+                    "number": "2",
+                    "content": "2. Sử dụng tài khoản nộp hồ sơ\ntrực tuyến trên Cổng Dịch vụ công:",
+                    "points": [
+                      {
+                        "point_id": "doc:231517:part:2:article:11:clause:2:point:1",
+                        "label": "a",
+                        "content": "a) Sau khi đăng ký thành công hệ\nthống sẽ cấp tài khoản cho tổ chức, cá nhân truy cập vào Cổng Dịch vụ công, kê khai và gửi hồ sơ trực tuyến hoặc sửa đổi, bổ sung thông tin, hồ sơ trực tuyến;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:231517:part:2:article:11:clause:2:point:2",
+                        "label": "b",
+                        "content": "b) Tổ chức, cá nhân sử dụng Cổng\nDịch vụ công có trách nhiệm xuất trình hồ sơ theo quy định khi có yêu cầu kiểm tra, đối chiếu trong quá trình sử dụng dịch vụ công trực tuyến mức độ 3, mức độ 4.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:231517:part:2:article:11:clause:3",
+                    "number": "3",
+                    "content": "3. Sửa đổi, bổ sung thông tin hồ\nsơ trực tuyến",
+                    "points": [
+                      {
+                        "point_id": "doc:231517:part:2:article:11:clause:3:point:1",
+                        "label": "a",
+                        "content": "a) Việc sửa đổi, bổ sung thông\ntin hồ sơ trực tuyến thực hiện khi có sự thay đổi của hồ sơ hoặc theo yêu cầu của cơ quan thực hiện thủ tục hành chính;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:231517:part:2:article:11:clause:3:point:2",
+                        "label": "b",
+                        "content": "b) Việc sửa đổi, bổ sung thông\ntin hồ sơ trực tuyến được thực hiện thông qua việc sửa đổi, bổ sung trực tiếp trên Cổng Dịch vụ công.",
+                        "children": []
+                      }
+                    ]
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:231517:part:2:article:12",
+                "number": "12",
+                "title": "Tra cứu tình trạng hồ sơ",
+                "content": "Điều 12. Tra cứu tình trạng hồ sơ",
+                "clauses": [
+                  {
+                    "clause_id": "doc:231517:part:2:article:12:clause:1",
+                    "number": "1",
+                    "content": "1. Nội dung thể hiện kết quả\ntra cứu tình trạng hồ sơ trên Cổng Dịch vụ công và các điểm tra cứu của cơ quan cung cấp dịch vụ hành chính công. - Cơ quan BHXH giải quyết; - Phòng ban giải quyết; - Ngày tiếp nhận; - Ngày trả kết quả; - Tình trạng xử lý hồ sơ: Bảo hiểm xã hội đã tiếp nhận hồ sơ; Bảo hiểm xã hội đang xử lý hồ sơ; Bảo hiểm xã hội đã xử lý xong hồ sơ và đã có kết quả; Bảo hiểm xã hội đã trả kết quả; Bảo hiểm xã hội đã từ chối hồ sơ.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:231517:part:2:article:12:clause:2",
+                    "number": "2",
+                    "content": "2. Cách thức thực hiện tra cứu\ntình trạng hồ sơ bao gồm:",
+                    "points": [
+                      {
+                        "point_id": "doc:231517:part:2:article:12:clause:2:point:1",
+                        "label": "a",
+                        "content": "a) Tra cứu trực tuyến tại địa\nchỉ: http://dichvucong.baohiemxahoi.gov.vn;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:231517:part:2:article:12:clause:2:point:2",
+                        "label": "b",
+                        "content": "b) Hệ thống trả lời tự động qua\ntin nhắn (SMS) điện thoại;",
+                        "children": []
+                      }
+                    ]
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:231517:part:2:article:13",
+                "number": "13",
+                "title": "Sử dụng Cổng Dịch vụ công để nộp hồ sơ trực tuyến Khi tài khoản đã được đăng ký thành công theo quy định tại Điều 11 của Quy chế này, các tổ chức, cá nhân có thể đăng nhập vào Cổng Dịch vụ công để kê khai, thực hiện việc nộp hồ sơ trực tuyến đối với các thủ tục hành chính đã được công bố cung cấp và tra cứu các dịch vụ trên Cổng Dịch vụ công cung cấp.",
+                "content": "Điều 13. Sử dụng Cổng Dịch vụ công để nộp hồ sơ trực tuyến Khi tài khoản đã được đăng ký thành công theo quy định tại Điều 11 của Quy chế này, các tổ chức, cá nhân có thể đăng nhập vào Cổng Dịch vụ công để kê khai, thực hiện việc nộp hồ sơ trực tuyến đối với các thủ tục hành chính đã được công bố cung cấp và tra cứu các dịch vụ trên Cổng Dịch vụ công cung cấp.",
+                "clauses": [],
+                "points": []
+              },
+              {
+                "article_id": "doc:231517:part:2:article:14",
+                "number": "14",
+                "title": "Tiếp nhận, giải quyết và trả kết quả thủ tục hành chính được nộp trực tuyến trên Cổng Dịch vụ công",
+                "content": "Điều 14. Tiếp nhận, giải quyết và trả kết quả thủ tục hành chính được nộp trực tuyến trên Cổng Dịch vụ công",
+                "clauses": [
+                  {
+                    "clause_id": "doc:231517:part:2:article:14:clause:1",
+                    "number": "1",
+                    "content": "1. Xử lý hồ sơ nộp trực tuyến\ntrên Cổng Dịch vụ công.",
+                    "points": [
+                      {
+                        "point_id": "doc:231517:part:2:article:14:clause:1:point:1",
+                        "label": "a",
+                        "content": "a) Việc tiếp nhận hồ sơ được nộp\ntrực tuyến thông qua Cổng Dịch vụ công của BHXH Việt Nam được thực hiện theo quy định tại khoản 2 Điều 17 Nghị định số 61/2018/NĐ-CP;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:231517:part:2:article:14:clause:1:point:2",
+                        "label": "b",
+                        "content": "b) Việc chuyển hồ sơ được thực\nhiện theo Quyết định số 838/QĐ-BHXH ngày 29/5/2017 của Tổng Giám đốc BHXH Việt Nam.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:231517:part:2:article:14:clause:2",
+                    "number": "2",
+                    "content": "2. Giải quyết thủ tục hành\nchính nộp trực tuyến trên Cổng Dịch vụ công",
+                    "points": [
+                      {
+                        "point_id": "doc:231517:part:2:article:14:clause:2:point:1",
+                        "label": "a",
+                        "content": "a) Sau khi nhận hồ sơ trực tuyến\nđầy đủ và hợp lệ, cơ quan Bảo hiểm xã hội thực hiện xử lý, thẩm định hồ sơ theo quy định của Bảo hiểm xã hội Việt Nam;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:231517:part:2:article:14:clause:2:point:2",
+                        "label": "b",
+                        "content": "b) Thời gian xử lý, thẩm định hồ\nsơ trực tuyến thực hiện theo quyết định của Bảo hiểm xã hội Việt Nam quy định về trình tự, thời gian giải quyết thủ tục hành chính",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:231517:part:2:article:14:clause:2:point:3",
+                        "label": "c",
+                        "content": "c) Quá trình giải quyết hồ sơ nộp\ntrực tuyến tại cơ quan, đơn vị được thực hiện theo quyết định của BHXH Việt Nam quy định trình tự, thời gian giải quyết thủ tục giao dịch điện tử.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:231517:part:2:article:14:clause:3",
+                    "number": "3",
+                    "content": "3. Trả kết quả giải quyết thủ tục\nhành chính nộp trực tuyến trên Cổng Dịch vụ công",
+                    "points": [
+                      {
+                        "point_id": "doc:231517:part:2:article:14:clause:3:point:1",
+                        "label": "a",
+                        "content": "a) Cơ quan BHXH thực hiện dịch\nvụ công trực tuyến có trách nhiệm trả kết quả cho tổ chức, cá nhân theo phương thức sau: - Qua Hệ thống dịch vụ công trực tuyến đối với các thủ tục hành chính được phép trả kết quả qua hệ thống này; - Thông qua dịch vụ bưu chính công ích; - Tại Bộ phận Tiếp nhận và Trả kết quả thủ tục hành chính của cơ quan BHXH.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:231517:part:2:article:14:clause:3:point:2",
+                        "label": "b",
+                        "content": "b) Việc trả kết quả giải quyết\nthủ tục hành chính và các hồ sơ kèm theo kết quả giải quyết (nếu có) được thực hiện theo quy định tại Điều 20 Nghị định số 61/2018/NĐ-CP. Chương\nIII HOẠT ĐỘNG CỦA HỆ THỐNG\nTHÔNG TIN MỘT CỬA ĐIỆN TỬ",
+                        "children": []
+                      }
+                    ]
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:231517:part:2:article:15",
+                "number": "15",
+                "title": "Tổ chức Hệ thống thông tin một cửa điện tử",
+                "content": "Điều 15. Tổ chức Hệ thống thông tin một cửa điện tử",
+                "clauses": [
+                  {
+                    "clause_id": "doc:231517:part:2:article:15:clause:1",
+                    "number": "1",
+                    "content": "1. Hệ thống thông tin một cửa\nđiện tử của BHXH Việt Nam triển khai tại BHXH các tỉnh, thành phố và cơ quan BHXH các quận, huyện để thực hiện thủ tục hành chính được tổ chức theo mô hình quản lý tập trung, hệ thống phần mềm được xây dựng trên nền tảng web, cơ sở dữ liệu được lưu trữ tập trung tại Trung ương",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:231517:part:2:article:15:clause:2",
+                    "number": "2",
+                    "content": "2. Hệ thống thông tin một cửa\nđiện tử được vận hành trên môi trường mạng, dữ liệu được liên thông, luân chuyển khép kín từ Bộ phận Tiếp nhận và Trả kết quả thủ tục hành chính đến các phòng ban chuyên môn trong hệ thống một cửa điện tử.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:231517:part:2:article:15:clause:3",
+                    "number": "3",
+                    "content": "3. Bộ phận Tiếp nhận và Trả kết\nquả thủ tục hành chính thực hiện theo quy định tại Điều 8 Nghị định số 61/2018/NĐ-CP.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:231517:part:2:article:15:clause:4",
+                    "number": "4",
+                    "content": "4. Các tổ chức, cá nhân nộp hồ\nsơ trực tiếp tại Bộ phận Tiếp nhận và Trả kết quả thủ tục hành chính hoặc nộp trực tuyến trên hệ thống theo quy định của Quy chế này.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:231517:part:2:article:16",
+                "number": "16",
+                "title": "Tạo lập hồ sơ hành chính điện tử trên Hệ thống thông tin một cửa điện tử Hồ sơ điện tử được tạo lập từ thông tin kê khai, kết quả xử lý, thông báo được tạo ra, gửi đi, nhận và lưu trữ bằng phương tiện điện tử để thực hiện các thủ tục hành chính.",
+                "content": "Điều 16. Tạo lập hồ sơ hành chính điện tử trên Hệ thống thông tin một cửa điện tử Hồ sơ điện tử được tạo lập từ thông tin kê khai, kết quả xử lý, thông báo được tạo ra, gửi đi, nhận và lưu trữ bằng phương tiện điện tử để thực hiện các thủ tục hành chính.",
+                "clauses": [],
+                "points": []
+              },
+              {
+                "article_id": "doc:231517:part:2:article:17",
+                "number": "17",
+                "title": "Xác thực giá trị pháp lý của hồ sơ điện tử Hồ sơ điện tử của cá nhân, tổ chức trong quá trình giao dịch thủ tục hành chính với cơ quan BHXH được tạo lập và xác thực (xác thực bằng mã OTP đối với cá nhân và chữ ký số đối với tổ chức) nhằm bảo đảm giá trị pháp lý.",
+                "content": "Điều 17. Xác thực giá trị pháp lý của hồ sơ điện tử Hồ sơ điện tử của cá nhân, tổ chức trong quá trình giao dịch thủ tục hành chính với cơ quan BHXH được tạo lập và xác thực (xác thực bằng mã OTP đối với cá nhân và chữ ký số đối với tổ chức) nhằm bảo đảm giá trị pháp lý.",
+                "clauses": [],
+                "points": []
+              },
+              {
+                "article_id": "doc:231517:part:2:article:18",
+                "number": "18",
+                "title": "Cập nhật thông tin về thủ tục hành chính vào Hệ thống thông tin một cửa điện tử",
+                "content": "Điều 18. Cập nhật thông tin về thủ tục hành chính vào Hệ thống thông tin một cửa điện tử",
+                "clauses": [
+                  {
+                    "clause_id": "doc:231517:part:2:article:18:clause:1",
+                    "number": "1",
+                    "content": "1. Cập nhật thông tin về thủ tục\nhành chính",
+                    "points": [
+                      {
+                        "point_id": "doc:231517:part:2:article:18:clause:1:point:1",
+                        "label": "a",
+                        "content": "a) Thông tin về thủ tục hành\nchính: Tất cả thủ tục hành chính của BHXH Việt Nam được áp dụng để giải quyết cho các tổ chức, cá nhân đều phải được công khai thông tin trên Hệ thống thông tin một cửa điện tử của BHXH bao gồm: - Thủ tục hành chính do BHXH Việt Nam công bố căn cứ theo các quyết định của Tổng Giám đốc BHXH Việt Nam. - Thủ tục hành chính được thực hiện thống nhất trong phạm vi toàn Ngành.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:231517:part:2:article:18:clause:1:point:2",
+                        "label": "b",
+                        "content": "b) Về mức độ công khai thủ tục\nhành chính: Các thủ tục hành chính trên Hệ thống phải quy định rõ mức độ của từng dịch vụ có hướng dẫn sử dụng chi tiết. Các dịch vụ được tổ chức, phân loại theo từng lĩnh vực để thuận tiện cho việc khai thác, sử dụng.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:231517:part:2:article:18:clause:1:point:3",
+                        "label": "c",
+                        "content": "c) Hình thức cập nhật thông tin\nthủ tục hành chính: Việc thực hiện cập nhật thông tin về thủ tục hành chính phải bảo đảm tính kịp thời, đầy đủ, chính xác.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:231517:part:2:article:18:clause:2",
+                    "number": "2",
+                    "content": "2. Trình tự các bước tiến hành\ncập nhật thông tin thủ tục hành chính Sau khi BHXH Việt Nam có quyết định công bố nhưng thay đổi về thủ tục hành chính thì các thủ tục này phải được đăng tải trên hệ thống của Cổng thông tin của BHXH Việt Nam, Trang tin điện tử của BHXH các tỉnh, thành phố và công bố sử dụng trên Cơ sở dữ liệu quốc gia về thủ tục hành chính.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:231517:part:2:article:19",
+                "number": "19",
+                "title": "Quy trình giải quyết thủ tục hành chính trên Hệ thống thông tin một cửa điện tử",
+                "content": "Điều 19. Quy trình giải quyết thủ tục hành chính trên Hệ thống thông tin một cửa điện tử",
+                "clauses": [
+                  {
+                    "clause_id": "doc:231517:part:2:article:19:clause:1",
+                    "number": "1",
+                    "content": "1. Quy trình giải quyết thủ tục\nhành chính trên Hệ thống thông tin một cửa điện tử được tiếp nhận thông qua Cổng Dịch vụ công (thủ tục được nộp trực tuyến) thực hiện theo Quyết định số 838/QĐ-BHXH ngày 29/5/2017 của Tổng Giám đốc BHXH Việt Nam.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:231517:part:2:article:19:clause:2",
+                    "number": "2",
+                    "content": "2. Quy trình giải quyết thủ tục\nhành chính trên Hệ thống thông tin một cửa điện tử đối với thủ tục được tiếp nhận trực tiếp tại Bộ phận Tiếp nhận và Trả kết quả thủ tục hành chính.",
+                    "points": [
+                      {
+                        "point_id": "doc:231517:part:2:article:19:clause:2:point:1",
+                        "label": "a",
+                        "content": "a) Việc giải quyết thủ tục hành\nchính đối với hình thức nộp trực tiếp tại Bộ phận Tiếp nhận và Trả kết quả thủ tục hành chính, qua dịch vụ bưu chính công ích được thực hiện theo các quy định của BHXH Việt Nam quy định về quy trình giải quyết thủ tục hành chính;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:231517:part:2:article:19:clause:2:point:2",
+                        "label": "b",
+                        "content": "b) Cán bộ tiếp nhận hồ sơ có\ntrách nhiệm chụp hoặc scan hồ sơ trực tiếp từ Hệ thống thông tin một cửa điện tử để chuyển xử lý (theo quy định tại khoản 5 Điều 3 Quy chế này).",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:231517:part:2:article:19:clause:2:point:3",
+                        "label": "c",
+                        "content": "c) Trường hợp hồ sơ có liên\nquan đến nhiều cơ quan BHXH giải quyết (hồ sơ liên thông), cơ quan đầu mối tiếp nhận hồ sơ thì cơ quan BHXH được giao quản lý Hệ thống thông tin một cửa điện tử có trách nhiệm thiết lập thủ tục liên thông trên Hệ thống để bảo đảm quá trình chuyển hồ sơ trên Hệ thống thông tin một cửa điện tử thông suốt từ khâu tiếp nhận đến khâu trả kết quả.",
+                        "children": []
+                      }
+                    ]
+                  }
+                ],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:231517:part:2:chapter:3",
+            "number": "IV",
+            "title": "TRÁCH NHIỆM CỦA CÁC TỔ CHỨC, CÁ NHÂN TRONG QUẢN LÝ, SỬ DỤNG CỔNG DỊCH VỤ CÔNG VÀ HỆ THỐNG THÔNG TIN MỘT CỬA ĐIỆN TỬ",
+            "content": "Chương IV\nTRÁCH NHIỆM CỦA CÁC TỔ\nCHỨC, CÁ NHÂN TRONG QUẢN LÝ, SỬ DỤNG CỔNG DỊCH VỤ CÔNG VÀ HỆ THỐNG THÔNG TIN MỘT\nCỬA ĐIỆN TỬ",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:231517:part:2:article:20",
+                "number": "20",
+                "title": "Trách nhiệm của các cơ quan BHXH tham gia Cổng Dịch vụ công và Hệ thống thông tin một cửa điện tử",
+                "content": "Điều 20. Trách nhiệm của các cơ quan BHXH tham gia Cổng Dịch vụ công và Hệ thống thông tin một cửa điện tử",
+                "clauses": [
+                  {
+                    "clause_id": "doc:231517:part:2:article:20:clause:1",
+                    "number": "1",
+                    "content": "1. Các cơ quan BHXH có thủ tục\nhành chính bắt buộc phải xử lý toàn bộ quy trình trên Hệ thống thông tin một cửa điện tử, có trách nhiệm chỉ đạo các cán bộ của đơn vị sử dụng Hệ thống thông tin một cửa điện tử vào quá trình giải quyết thủ tục hành chính; thường xuyên theo dõi, kiểm tra, đánh giá tình hình xử lý hồ sơ thủ tục hành chính tại cơ quan mình thông qua Hệ thống thông tin một cửa điện tử nhằm kịp thời phát hiện, giải quyết các khó khăn, vướng mắc phát sinh.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:231517:part:2:article:20:clause:2",
+                    "number": "2",
+                    "content": "2. Các cơ quan BHXH thường\nxuyên theo dõi và kiểm tra tình hình thực hiện, đảm bảo thông tin cung cấp trên Hệ thống thông tin một cửa điện tử đúng thực tế.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:231517:part:2:article:20:clause:3",
+                    "number": "3",
+                    "content": "3. Việc tiếp nhận hồ sơ, thủ tục\nhành chính phải căn cứ trên cơ sở thủ tục hành chính được công bố theo quyết định của Tổng Giám đốc BHXH Việt Nam (được cập nhật trên Cơ sở dữ liệu của Cổng Dịch vụ công và Hệ thống thông tin một cửa điện tử).",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:231517:part:2:article:21",
+                "number": "21",
+                "title": "Trách nhiệm của đơn vị quản lý Cổng Dịch vụ công và Hệ thống thông tin một cửa điện tử",
+                "content": "Điều 21. Trách nhiệm của đơn vị quản lý Cổng Dịch vụ công và Hệ thống thông tin một cửa điện tử",
+                "clauses": [
+                  {
+                    "clause_id": "doc:231517:part:2:article:21:clause:1",
+                    "number": "1",
+                    "content": "1. Trung tâm Công nghệ thông\ntin chịu trách nhiệm quản lý chung về mặt kỹ thuật của Cổng Dịch vụ công và Hệ thống thông tin một cửa điện tử; phối hợp với các đơn vị có liên quan đảm bảo Hệ thống hoạt động ổn định, liên tục; thường xuyên theo dõi, kiểm tra việc sử dụng.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:231517:part:2:article:21:clause:2",
+                    "number": "2",
+                    "content": "2. Trung tâm Công nghệ thông\ntin tham mưu xây dựng kế hoạch bảo trì vận hành, nâng cấp Cổng Dịch vụ công và Hệ thống thông tin một cửa điện tử và hạ tầng kỹ thuật liên quan.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:231517:part:2:article:21:clause:3",
+                    "number": "3",
+                    "content": "3. Trung tâm Công nghệ thông\ntin hỗ trợ kỹ thuật đối với BHXH các tỉnh, thành phố trong việc sử dụng Cổng Dịch vụ công và Hệ thống thông tin một cửa điện tử để phục vụ tổ chức, cá nhân.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:231517:part:2:article:21:clause:4",
+                    "number": "4",
+                    "content": "4. Vụ Pháp chế chủ trì phối hợp\nvới các đơn vị nghiệp vụ và Trung tâm Công nghệ thông tin thực hiện kiểm soát dịch vụ công trực tuyến toàn Ngành; báo cáo các cơ quan có thẩm quyền về hình thức thực hiện dịch vụ công theo quy định.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:231517:part:2:article:22",
+                "number": "22",
+                "title": "Trách nhiệm của tổ chức, cá nhân trong kê khai, nộp hồ sơ, tra cứu, sử dụng Cổng Dịch vụ công",
+                "content": "Điều 22. Trách nhiệm của tổ chức, cá nhân trong kê khai, nộp hồ sơ, tra cứu, sử dụng Cổng Dịch vụ công",
+                "clauses": [
+                  {
+                    "clause_id": "doc:231517:part:2:article:22:clause:1",
+                    "number": "1",
+                    "content": "1. Kê khai, nộp hồ sơ, tra cứu và\nsử dụng Cổng Dịch vụ công phục vụ cho việc thực hiện thủ tục hành chính theo quy định của BHXH Việt Nam và theo quy định của pháp luật.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:231517:part:2:article:22:clause:2",
+                    "number": "2",
+                    "content": "2. Thực hiện những thủ tục hành\nchính, hồ sơ, thành phần hồ sơ, yêu cầu, điều kiện được đăng tải công khai trên Cổng Dịch vụ công của BHXH Việt Nam.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:231517:part:2:article:22:clause:3",
+                    "number": "3",
+                    "content": "3. Nghĩa vụ của tổ chức, cá\nnhân khi tham gia sử dụng Cổng Dịch vụ công:",
+                    "points": [
+                      {
+                        "point_id": "doc:231517:part:2:article:22:clause:3:point:1",
+                        "label": "a",
+                        "content": "a) Có nghĩa vụ bảo vệ tài khoản\nđược cung cấp để đăng nhập sử dụng Cổng Dịch vụ công. Nghiêm cấm việc gian lận, mạo nhận, chiếm đoạt hoặc sử dụng trái phép tài khoản, chữ ký số của người khác;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:231517:part:2:article:22:clause:3:point:2",
+                        "label": "b",
+                        "content": "b) Đăng ký, kê khai các thông\ntin chính xác; chịu trách nhiệm trước pháp luật về những thông tin đăng ký, kê khai.",
+                        "children": []
+                      }
+                    ]
+                  }
+                ],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:231517:part:2:chapter:4",
+            "number": "V",
+            "title": "TỔ CHỨC THỰC HIỆN",
+            "content": "Chương V\nTỔ CHỨC THỰC HIỆN",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:231517:part:2:article:23",
+                "number": "23",
+                "title": "Trách nhiệm của các đơn vị Chánh Văn phòng BHXH Việt Nam; Giám đốc Trung tâm Công nghệ thông tin; Thủ trưởng các đơn vị trực thuộc BHXH Việt Nam; Giám đốc BHXH các tỉnh, thành phố trực thuộc Trung ương chịu trách nhiệm thi hành Quy chế này.",
+                "content": "Điều 23. Trách nhiệm của các đơn vị Chánh Văn phòng BHXH Việt Nam; Giám đốc Trung tâm Công nghệ thông tin; Thủ trưởng các đơn vị trực thuộc BHXH Việt Nam; Giám đốc BHXH các tỉnh, thành phố trực thuộc Trung ương chịu trách nhiệm thi hành Quy chế này.",
+                "clauses": [],
+                "points": []
+              },
+              {
+                "article_id": "doc:231517:part:2:article:24",
+                "number": "24",
+                "title": "Sửa đổi, bổ sung Trong quá trình thực hiện Quy chế này, BHXH tỉnh, thành phố trực thuộc Trung ương và các đơn vị trực thuộc BHXH Việt Nam kịp thời phản ánh những vướng mắc, bất cập hoặc đề xuất giải pháp, gửi về BHXH Việt Nam (Trung tâm Công nghệ thông tin) để tổng hợp, trình Tổng Giám đốc xem xét, quyết định bổ sung hoặc sửa đổi Quy chế cho phù hợp./.",
+                "content": "Điều 24. Sửa đổi, bổ sung Trong quá trình thực hiện Quy chế này, BHXH tỉnh, thành phố trực thuộc Trung ương và các đơn vị trực thuộc BHXH Việt Nam kịp thời phản ánh những vướng mắc, bất cập hoặc đề xuất giải pháp, gửi về BHXH Việt Nam (Trung tâm Công nghệ thông tin) để tổng hợp, trình Tổng Giám đốc xem xét, quyết định bổ sung hoặc sửa đổi Quy chế cho phù hợp./.",
+                "clauses": [],
+                "points": []
+              }
+            ]
+          }
+        ],
+        "sections": [],
+        "articles": [],
+        "unstructured_blocks": []
+      }
+    ]
+  },
+  "issues": [],
+  "status": "ok",
+  "source_hash": "context_231517.json",
+  "stats": {
+    "source_chars": 21306,
+    "passage_chars": 21144,
+    "parts": 2,
+    "chapters": 4,
+    "sections": 0,
+    "articles": 27,
+    "clauses": 56,
+    "points": 25
+  }
+}

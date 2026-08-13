@@ -1,0 +1,778 @@
+{
+  "schema_version": "2.0",
+  "document_id": 226628,
+  "metadata": {
+    "name": "Quyet-dinh-1439-QD-BNN-TCLN-2016-quy-che-su-dung-He-thong-thong-tin-quan-ly-Lam-nghiep-321601",
+    "link": "https://thuvienphapluat.vn/van-ban/Cong-nghe-thong-tin/Quyet-dinh-1439-QD-BNN-TCLN-2016-quy-che-su-dung-He-thong-thong-tin-quan-ly-Lam-nghiep-321601.aspx",
+    "issuing_agency": "BỘ NÔNG NGHIỆP VÀ",
+    "national_header": "CỘNG HÒA XÃ\r\n\n  HỘI CHỦ NGHĨA VIỆT NAM",
+    "motto": "Độc lập - Tự do - Hạnh phúc",
+    "document_number": "1439/QĐ-BNN-TCLN",
+    "issued_place": "Hà Nội",
+    "issued_date": "ngày 25\r\n\n  tháng\r\n\n  04 năm 2016",
+    "document_type": "QUYẾT ĐỊNH",
+    "title": "BAN HÀNH QUY CHẾ QUẢN LÝ VÀ SỬ DỤNG HỆ THỐNG THÔNG TIN QUẢN LÝ NGÀNH LÂM NGHIỆP"
+  },
+  "administrative_header": {
+    "removed": true,
+    "removed_char_count": 180
+  },
+  "preamble": {
+    "text": "QUYẾT ĐỊNH BAN\nHÀNH QUY CHẾ QUẢN LÝ VÀ SỬ DỤNG HỆ THỐNG THÔNG TIN QUẢN LÝ NGÀNH LÂM NGHIỆP\nBỘ TRƯỞNG BỘ NÔNG NGHIỆP VÀ\nPHÁT TRIỂN NÔNG THÔN\nCăn cứ Nghị định số 199/2013/NĐ-CP ngày 26/11/2013 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Nông nghiệp và Phát triển nông thôn; Căn cứ Luật Bảo vệ và phát triển rừng ngày 03 tháng 12 năm 2004; Căn cứ Luật Công nghệ thông tin ngày 29 tháng 6 năm 2006; Căn cứ Nghị định số 23/2006/NĐ-CP ngày 03/3/2006 của Chính phủ về thi hành Luật Bảo vệ và phát triển rừng; Căn cứ Nghị định số 64/2007/NĐ-CP ngày 10/4/2007 của Chính phủ về ứng dụng công nghệ thông tin trong hoạt động của cơ quan nhà nước; Theo đề nghị của Tổng cục trưởng Tổng cục Lâm nghiệp,\nQUYẾT ĐỊNH:",
+    "legal_bases": [
+      "Căn cứ Luật Bảo vệ và phát triển rừng ngày 03 tháng 12 năm 2004",
+      "Căn cứ Luật Công nghệ thông tin ngày 29 tháng 6 năm 2006",
+      "Căn cứ Nghị định số 23/2006/NĐ-CP ngày 03/3/2006 của Chính phủ về thi hành Luật Bảo vệ và phát triển rừng",
+      "Căn cứ Nghị định số 64/2007/NĐ-CP ngày 10/4/2007 của Chính phủ về ứng dụng công nghệ thông tin trong hoạt động của cơ quan nhà nước"
+    ],
+    "proposals": [
+      "Theo đề nghị của Tổng cục trưởng Tổng cục Lâm nghiệp,\nQUYẾT ĐỊNH:"
+    ],
+    "enactment_formula": "QUYẾT ĐỊNH:"
+  },
+  "passage": "QUYẾT ĐỊNH BAN\nHÀNH QUY CHẾ QUẢN LÝ VÀ SỬ DỤNG HỆ THỐNG THÔNG TIN QUẢN LÝ NGÀNH LÂM NGHIỆP\nBỘ TRƯỞNG BỘ NÔNG NGHIỆP VÀ\nPHÁT TRIỂN NÔNG THÔN\nCăn cứ Nghị định số 199/2013/NĐ-CP ngày 26/11/2013 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Nông nghiệp và Phát triển nông thôn; Căn cứ Luật Bảo vệ và phát triển rừng ngày 03 tháng 12 năm 2004; Căn cứ Luật Công nghệ thông tin ngày 29 tháng 6 năm 2006; Căn cứ Nghị định số 23/2006/NĐ-CP ngày 03/3/2006 của Chính phủ về thi hành Luật Bảo vệ và phát triển rừng; Căn cứ Nghị định số 64/2007/NĐ-CP ngày 10/4/2007 của Chính phủ về ứng dụng công nghệ thông tin trong hoạt động của cơ quan nhà nước; Theo đề nghị của Tổng cục trưởng Tổng cục Lâm nghiệp,\nQUYẾT ĐỊNH:\nĐiều 1. Ban hành “Quy chế quản lý và sử dụng Hệ thống thông tin quản lý ngành Lâm nghiệp”.\nĐiều 2. Giao Tổng cục Lâm nghiệp chủ trì, hàng năm thực hiện đánh giá và bổ sung Quy chế quản lý và sử dụng Hệ thống thông tin quản lý ngành Lâm nghiệp.\nĐiều 3. Quyết định này có hiệu lực kể từ ngày ký. Chánh Văn phòng Bộ; Tổng cục trưởng Tổng cục Lâm nghiệp; Thủ trưởng các cơ quan, đơn vị và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này./.\nNơi nhận:\n-\nNhư Điều 3;\n- Bộ trưởng Cao Đức Phát (b/c);\n- Tổng cục Lâm nghiệp;\n- Các Vụ: KH, TC, HTQT, TCCB;\n- Trung tâm Tin học và Thống kê;\n- Sở NN và PTNT các tỉnh/TP;\n- Lưu: VT, TCLN (90).\nKT. BỘ TRƯỞNG\nTHỨ TRƯỞNG\nHà Công Tuấn\nQUY CHẾ\nQUẢN\nLÝ VÀ SỬ DỤNG HỆ THỐNG THÔNG TIN QUẢN LÝ NGÀNH LÂM NGHIỆP\n(Kèm theo Quyết định số: 1439/QĐ-BNN-TCLN ngày 25/4/2016 của Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn)\nChương I.\nNHỮNG QUY ĐỊNH CHUNG\nĐiều 1. Phạm vi điều chỉnh\nQuy chế quản lý và sử dụng Hệ thống\nthông tin quản lý ngành Lâm nghiệp (sau đây viết tắt là Quy chế) quy định việc thu thập, cập nhật, quản lý, khai thác, sử dụng dữ liệu; đồng thời quy định trách nhiệm của cơ quan, đơn vị, tổ chức, cá nhân trong việc thu thập, cập nhật, quản lý, khai thác, sử dụng dữ liệu thuộc Hệ thống thông tin quản lý ngành Lâm nghiệp.\nĐiều 2. Đối tượng áp dụng\nQuy chế này được áp dụng đối với cơ\nquan, đơn vị, tổ chức, cá nhân có liên quan trong việc thu thập, cập nhật, quản lý, khai thác, sử dụng dữ liệu thuộc Hệ thống thông tin quản lý ngành Lâm nghiệp.\nĐiều 3. Giải thích từ ngữ Trong Quy chế này, các từ ngữ dưới đây được hiểu như sau:\n1. Hệ thống thông tin quản lý ngành\nLâm nghiệp (sau đây viết tắt là Hệ thống): là một hệ thống thông tin bao gồm các dữ liệu/cơ sở dữ liệu về tài nguyên rừng và các thông tin lâm nghiệp liên quan khác phục vụ cho công tác quản lý ngành lâm nghiệp. Hệ thống cung cấp các ứng dụng, dịch vụ và các giải pháp công nghệ cho phép tiếp cận, tích hợp các dữ liệu và ứng dụng liên quan vào Hệ thống.\n2. Nền Hệ thống: là lõi kiến\ntrúc công nghệ thông tin cho phép tích hợp các ứng dụng, dữ liệu một cách linh hoạt và hợp chuẩn, đồng thời cung cấp các chức năng sử dụng Hệ thống một cách bền vững.\n3. Dữ liệu về lâm nghiệp trong Hệ thống:\nlà những thông tin về lâm nghiệp đã được xử lý, chuẩn hóa, mã hóa và lưu trữ, được thể hiện dưới nhiều dạng như: bản ghi, ký tự, bản đồ, tập tin... phù hợp với quy định hiện hành.\n4. Chủ dữ liệu: là cơ quan, tổ chức có\nquyền sở hữu chính thức đối với thông tin dữ liệu. Tổng cục Lâm nghiệp thực hiện quản lý thông qua đơn vị quản trị kỹ thuật và đơn vị quản trị nội dung.\n5. Đơn vị quản trị kỹ thuật: là đơn vị\nchịu trách nhiệm phát triển và duy trì môi trường công nghệ thông tin và cấu trúc cơ sở dữ liệu; tiếp nhận thông tin, dữ liệu từ đơn vị quản trị nội dung để tích hợp vào Hệ thống.\n6. Đơn vị quản trị nội dung: là đơn vị\nchịu trách nhiệm xây dựng và duy trì quy trình thu thập, cập nhật dữ liệu. Chịu trách nhiệm về nội dung thông tin dữ liệu và chất lượng dữ liệu; chuyển giao thông tin, dữ liệu cho đơn vị quản trị kỹ thuật và phối hợp tham gia tích hợp dữ liệu vào Hệ thống.\nĐiều 4. Cơ sở dữ liệu về lâm nghiệp\n1. Cơ sở dữ liệu về lâm nghiệp bao gồm\ncác dữ liệu về lâm nghiệp có cấu trúc và liên quan với nhau, được lưu trữ trong máy tính, được sử dụng rộng rãi ở các cấp, các ngành.\n2. Cơ sở dữ liệu được thiết kế, xây dựng\ncho phép người sử dụng cập nhật, truy xuất thông tin, có khả năng đáp ứng nhu cầu khai thác của nhiều người sử dụng.\n3. Cơ sở dữ liệu được quản lý, cập nhật\nbằng các phần mềm hỗ trợ nghiệp vụ và được tích hợp vào Hệ thống để phục vụ cho việc ra các quyết định phục vụ công tác chỉ đạo và điều hành của ngành.\nChương II\nKHUNG\nHỆ THỐNG THÔNG TIN QUẢN LÝ NGÀNH LÂM NGHIỆP\nĐiều 5. Sơ đồ khung Hệ thống thông tin quản lý ngành lâm nghiệp Khung Hệ thống thông tin quản lý ngành lâm nghiệp được thể hiện dưới dạng sơ đồ tại phụ lục đính kèm.\nĐiều 6. Dữ liệu đầu vào và nguồn dữ liệu của Hệ thống\n1. Dữ liệu đầu vào\nDữ liệu về lâm nghiệp bao gồm nhưng không giới hạn các thông tin: Chính sách lâm nghiệp, Quản lý rừng, Bảo vệ rừng, Phát triển rừng, Quản lý sản xuất lâm nghiệp, Bảo tồn thiên nhiên, CITES, Khoa học Công nghệ và Hợp tác quốc tế, Chế biến và thương mại gỗ, Nguồn nhân lực ngành lâm nghiệp, Kinh tế và tài chính lâm nghiệp, các hệ thống báo cáo lâm nghiệp, các chương trình/dự án, và các hoạt động lâm nghiệp khác liên quan.\n2. Nguồn dữ liệu của Hệ thống\n- Dữ liệu có sẵn từ các cơ quan quản lý của Tổng cục Lâm nghiệp, Bộ Nông nghiệp và Phát triển nông thôn. - Dữ liệu điều tra, thống kê, nghiên cứu, tổng hợp,... từ các chương trình, dự án, đề tài thực hiện mới hàng năm. - Dữ liệu từ các cơ quan, đơn vị, tổ chức khác có liên quan được kết nối theo thỏa thuận.\nChương III\nTHU\nTHẬP, CẬP NHẬT, TÍCH HỢP DỮ LIỆU VÀO HỆ THỐNG\nĐiều 7. Lập kế hoạch và thực hiện kế hoạch thu thập, cập nhật dữ liệu\n1. Hàng năm, Tổng cục Lâm nghiệp chủ\ntrì xác định nhu cầu thu thập thông tin, dữ liệu; lập kế hoạch các hoạt động, nhiệm vụ thu thập, cập nhật và tích hợp dữ liệu về lâm nghiệp phục vụ cho việc quản lý, điều hành trình Bộ Nông nghiệp và Phát triển nông thôn phê duyệt, làm cơ sở tổ chức thực hiện.\n2. Các đơn vị thuộc Bộ (Vụ Kế hoạch, Vụ\nTài chính) căn cứ chức năng, nhiệm vụ, tổng hợp nhu cầu kế hoạch và ngân sách hàng năm của Tổng cục Lâm nghiệp trình cấp có thẩm quyền phê duyệt làm cơ sở triển khai thực hiện.\nĐiều 8. Nguyên tắc chung về cập nhật, cung cấp thông tin\n1. Bảo đảm tính chính xác, trung thực,\nkhách quan.\n2. Bảo đảm tính khoa học, thuận tiện\ncho việc cập nhật và sử dụng.\n3. Bảo đảm tính kịp thời, đầy đủ và có\nhệ thống.\nĐiều 9. Kiểm tra, tích hợp dữ liệu vào Hệ thống\n1. Dữ liệu trước khi tích hợp vào Hệ thống\ncần được tiến hành kiểm tra nhằm rà soát, phát hiện và khắc phục kịp thời những thiếu sót (nếu có) so với thực tế.\n2. Dữ liệu tích hợp vào Hệ thống được\nchia sẻ rộng rãi ở tất cả các cấp theo từng mức độ và phân quyền truy cập.\nĐiều 10. Chia sẻ dữ liệu trong Hệ thống\n1. Đơn vị quản trị nội dung xác định mức\nđộ chia sẻ dữ liệu cho từng đối tượng/nhóm đối tượng.\n2. Đơn vị quản trị kỹ thuật sẽ cấp tài\nkhoản và quyền truy cập dữ liệu dựa theo yêu cầu đề xuất của đơn vị quản trị nội dung.\n3. Dữ liệu thuộc đối tượng quy định về\nbảo mật sẽ được chia sẻ theo quy định của pháp luật.\nChương IV\nXÂY\nDỰNG, QUẢN LÝ SỬ DỤNG VÀ ĐẢM BẢO AN TOÀN CƠ SỞ DỮ LIỆU\nĐiều 11. Nguyên tắc chung\n1. Cơ sở dữ liệu về lâm nghiệp được quản\nlý chặt chẽ, bảo đảm an toàn và lưu trữ lâu dài trong Hệ thống.\n2. Cơ sở dữ liệu về lâm nghiệp được\nduy trì liên tục, ổn định, thông suốt, đáp ứng yêu cầu thu thập, khai thác, chia sẻ và sử dụng của các cơ quan, tổ chức, cá nhân.\nĐiều 12. Xây dựng cơ sở dữ liệu\n1. Cơ sở dữ liệu về lâm nghiệp được\nxây dựng, phát triển dựa trên cơ sở ứng dụng công nghệ thông tin, được tích hợp vào Hệ thống.\n2. Cơ sở dữ liệu về lâm nghiệp đảm bảo\ntính tương thích, khả năng tích hợp, chia sẻ và khả năng mở rộng các trường dữ liệu trong thiết kế Hệ thống và phần mềm ứng dụng.\n3. Tổng cục Lâm nghiệp tổ chức tích hợp\ncác dữ liệu vào Hệ thống nhằm chia sẻ và phục vụ công tác quản lý, chỉ đạo điều hành ngành Lâm nghiệp.\nĐiều 13. Quản lý cơ sở dữ liệu:\n1. Bảo đảm trang bị đầy đủ cơ sở hạ tầng\ncông nghệ thông tin, các thiết bị có liên quan đến việc cài đặt, sử dụng, bảo trì và phát triển cơ sở dữ liệu.\n2. Thực hiện các biện pháp ngăn ngừa,\nhạn chế và giảm thiểu rủi ro; đảm bảo khả năng khôi phục hệ thống dữ liệu khi xẩy ra sự cố.\nĐiều 14. Bảo đảm an toàn cơ sở dữ liệu\n1. Quy định đăng nhập tài khoản vào Hệ\nthống và thay đổi mật khẩu:\na) Để đăng nhập vào Hệ thống, người\ndùng cần khai tên đăng nhập và mật khẩu. Mỗi đơn vị sẽ được cung cấp một tài khoản gồm tên đăng nhập và mật khẩu (lần đầu).\nb) Để bảo mật tài khoản đăng nhập vào\nhệ thống, sau khi đăng nhập lần đầu, người được giao trách nhiệm quản lý, sử dụng tài khoản phải thực hiện ngay việc đổi mật khẩu bằng các truy cập vào phần quản lý thông tin tài khoản, sau đó chọn chức năng đổi mật khẩu.\n2. Mục đích và yêu cầu sử dụng tài khoản\nđăng nhập:\na) Đảm bảo quyền truy cập vào hệ thống\ncơ sở dữ liệu của người được giao trách nhiệm.\nb) Cho phép người sử dụng sau khi đăng\nnhập tài khoản của mỗi đơn vị được quyền cập nhật dữ liệu của đơn vị đó.\n3. Trách nhiệm về bảo mật của tài khoản\nđăng nhập Thủ trưởng các đơn vị chịu trách nhiệm về bảo mật của tài khoản đăng nhập hệ thống cơ sở dữ liệu của đơn vị mình.\n4. Sử dụng tài khoản để cập nhật dữ liệu\nNgười sử dụng tài khoản là cán bộ của đơn vị được Thủ trưởng giao nhiệm vụ cập nhật dữ liệu vào Hệ thống.\nĐiều 15. Quản lý tài khoản quản trị cơ sở dữ liệu\n1. Thủ trưởng các đơn vị thống nhất quản\nlý hệ thống dữ liệu, thông tin về cơ sở dữ liệu đơn vị mình phụ trách, thực hiện quản lý tài khoản quản trị như sau:\na) Cấp tài khoản và mật khẩu (lần đầu)\ncho Thủ trưởng các đơn vị để truy cập vào cơ sở dữ liệu Hệ thống.\nb) Phân quyền quản trị cho các đơn vị.\nc) Rà soát, kiểm tra quyền quản trị cơ\nsở dữ liệu về nội dung của cấp được phân quyền.\n2. Các cơ quan, đơn vị được giao nhiệm\nvụ là cơ quan đầu mối, chịu trách nhiệm tham mưu chỉ đạo, thực hiện chức năng tổng hợp, cập nhật thông tin, quản lý dữ liệu theo chức năng, nhiệm vụ được giao.\nĐiều 16. Nguyên tắc khai thác, sử dụng cơ sở dữ liệu\n1. Truy cập đúng địa chỉ; không được\nlàm lộ tài khoản và mật khẩu truy cập đã được cung cấp.\n2. Chỉ được khai thác sử dụng dữ liệu\ntrong phạm vi mình được cấp; không xâm nhập trái phép cơ sở dữ liệu; sử dụng đúng mục đích.\n3. Quản lý nội dung các dữ liệu khai\nthác; không được cung cấp cho tổ chức, cá nhân khác, trừ trường hợp đã thỏa thuận, được phép của cơ quan quản nội dung cơ sở dữ liệu.\n4. Khai thác, sử dụng dữ liệu, thông\ntin lâm nghiệp theo quy định hiện hành của pháp luật.\n5. Không được tẩy, xóa, hủy, di chuyển\ntrái phép một phần hoặc toàn bộ dữ liệu; không được tạo ra hoặc phát tán phần mềm làm rối loạn, thay đổi, phá hoại cấu trúc cơ sở dữ liệu Hệ thống.\n6. Tuân theo các quy định hiện hành của\npháp luật về bí mật nhà nước, chịu trách nhiệm về sai phạm do khai thác, sử dụng dữ liệu gây ra.\nĐiều 17. Quyền hạn của các tổ chức, cá nhân trong khai thác, sử dụng dữ liệu\n1. Kiến nghị với cơ quan quản lý dữ liệu,\nkhi các cơ quan này không đáp ứng nhu cầu về việc cung cấp dữ liệu, thông tin.\n2. Tham gia, đóng góp ý kiến nhằm nâng\ncao hiệu quả công tác quản lý, cơ chế khai thác, sử dụng dữ liệu, thông tin.\n3. Khiếu nại theo quy định của pháp luật\nkhi bị vi phạm quyền khai thác, sử dụng dữ liệu, thông tin của mình.\n4. Chỉ rõ nguồn gốc dữ liệu, thông tin\nkhi sử dụng; không được cung cấp cho người khác về dữ liệu, thông tin do cơ quan nhà nước có thẩm quyền cung cấp cho mình để khai thác, sử dụng.\n5. Thông báo kịp thời cho cơ quan quản\nlý dữ liệu về mức độ sai sót, chất lượng dữ liệu, thông tin đã được cung cấp.\nChương V\nTỔ CHỨC THỰC HIỆN\nĐiều 18. Trách nhiệm của Tổng cục Lâm nghiệp\n1. Ban hành các tài liệu hướng dẫn sử\ndụng Hệ thống; tổ chức tuyên truyền phổ biến Quy chế này tới các cơ quan, đơn vị, tổ chức, cá nhân có liên quan trong cả nước.\n2. Chủ trì tổ chức kiểm tra, giám sát\nhoặc thuê đơn vị tư vấn giám sát các đơn vị liên quan thực hiện theo quy định hiện hành.\n3. Chủ trì xây dựng kế hoạch đầu tư,\nnâng cấp trang thiết bị, củng cố nhân sự để sử dụng Hệ thống.\nĐiều 19. Trách nhiệm của các đơn vị thuộc Bộ\n1. Vụ Kế hoạch: Phối hợp với Tổng cục\nLâm nghiệp trong việc xây dựng và bảo vệ kế hoạch đối với các hạng mục đầu tư dài hạn và hàng năm từ nguồn vốn đầu tư; nghiên cứu, đề xuất các cơ chế chính sách quản lý tài chính đối với các hoạt động nhằm triển khai Hệ thống đạt kết quả tốt nhất.\n2. Vụ Tài chính: Phối hợp với Tổng cục\nLâm nghiệp trong việc xây dựng và bảo vệ kế hoạch đối với các hạng mục đầu tư dài hạn và hàng năm từ nguồn vốn sự nghiệp; nghiên cứu, đề xuất các cơ chế chính sách quản lý tài chính đối với các hoạt động nhằm triển khai Hệ thống đạt kết quả tốt nhất.\n3. Vụ Hợp tác quốc tế: Phối hợp với Tổng\ncục Lâm nghiệp vận động, kêu gọi vốn tài trợ cho các hoạt động lâm nghiệp; giới thiệu thông tin kết quả của Hệ thống với các nhà tài trợ.\n4. Trung tâm Tin học và Thống kê: Phối hợp\nvới Tổng cục Lâm nghiệp hướng dẫn và hỗ trợ công nghệ thông tin trong xử lý dữ liệu, chuẩn hóa cơ sở dữ liệu; quản lý đường truyền, máy chủ và cung cấp thông tin dữ liệu theo quy định hiện hành.\nĐiều 20. Trách nhiệm của Sở Nông nghiệp và Phát triển nông thôn\n1. Tham mưu giúp Ủy ban nhân dân tỉnh/Thành\nphố chỉ đạo các đơn vị trực thuộc, tổng hợp thông tin lâm nghiệp theo từng lĩnh vực trên địa bàn tỉnh gửi Tổng cục Lâm nghiệp để xem xét, tích hợp vào Hệ thống.\n2. Chỉ đạo, hướng dẫn khai thác, sử dụng\ndữ liệu lâm nghiệp trong Hệ thống phục vụ công tác lập kế hoạch, chỉ đạo, điều hành trong phạm vi quản lý.\nĐiều 21. Trách nhiệm của UBND cấp huyện, xã Ủy ban nhân dân cấp huyện, xã có trách nhiệm rà soát, kiểm tra và cung cấp dữ liệu thông tin lâm nghiệp cho Sở Nông nghiệp và Phát triển nông thôn để tổng hợp, phê duyệt và gửi Tổng cục Lâm nghiệp để tích hợp vào Hệ thống.\nĐiều 22. Trách nhiệm của các tổ chức, cá nhân\n1. Phối hợp cung cấp chính xác các\nthông tin, dữ liệu về lâm nghiệp cho các cơ quan chức năng của địa phương để tổng hợp.\n2. Tham gia giám sát và cung cấp thông\ntin phản hồi về các hoạt động lâm nghiệp trong phạm vi có liên quan.\nĐiều 23. Khen thưởng và xử lý vi phạm\n1. Tổng cục Lâm nghiệp chủ trì, phối hợp\nvới các cơ quan chức năng đề xuất Bộ Nông nghiệp và Phát triển nông thôn có chế độ khen thưởng, hỗ trợ thích hợp đối với các đơn vị, tổ chức, cá nhân thực hiện tốt Hệ thống.\n2. Các đơn vị, tổ chức, cá nhân có\nhành vi chiếm giữ trái phép, làm hư hỏng dữ liệu; khai thác, sử dụng dữ liệu trái với Quy chế này thì tùy theo tính chất và mức độ vi phạm sẽ bị xử lý theo quy định của pháp luật.\nĐiều 24. Kinh phí duy trì Hệ thống Kinh phí cho các hoạt động đầu tư, nâng cấp trang thiết bị; tổ chức tuyên truyền phổ biến Quy chế quản lý và sử dụng Hệ thống; thu thập, cập nhật, tích hợp dữ liệu và các hoạt động khác có liên quan được bố trí từ nguồn vốn ngân sách nhà nước, nguồn vốn ODA, nguồn vốn NGO và các nguồn vốn hợp pháp khác theo quy định nhằm đảm bảo mục tiêu, chất lượng, phục vụ việc quản lý, chỉ đạo điều hành ngành lâm nghiệp.\nChương VI\nĐIỀU KHOẢN THI HÀNH\nĐiều 25. Trách nhiệm thi hành\n1. Tổng cục Lâm nghiệp có trách nhiệm\ntổ chức hướng dẫn, kiểm tra việc thực hiện Quy chế.\n2. Thủ trưởng các cơ quan, đơn vị, tổ\nchức và cá nhân có liên quan chịu trách nhiệm thực hiện đầy đủ nội dung theo quy định của Quy chế. Trong quá trình thực hiện nếu có khó khăn, vướng mắc, đề nghị các đơn vị, tổ chức, cá nhân báo cáo về Tổng cục Lâm nghiệp để tổng hợp trình Bộ Nông nghiệp và Phát triển nông thôn xem xét, giải quyết./.\nPHỤ\nLỤC: SƠ ĐỒ HỆ THỐNG THÔNG TIN QUẢN LÝ NGÀNH LÂM NGHIỆP",
+  "tree": {
+    "parts": [
+      {
+        "part_id": "doc:226628:part:1",
+        "part_type": "main",
+        "part_title": null,
+        "reference": null,
+        "direct_text": "QUYẾT ĐỊNH BAN\nHÀNH QUY CHẾ QUẢN LÝ VÀ SỬ DỤNG HỆ THỐNG THÔNG TIN QUẢN LÝ NGÀNH LÂM NGHIỆP\nBỘ TRƯỞNG BỘ NÔNG NGHIỆP VÀ\nPHÁT TRIỂN NÔNG THÔN\nCăn cứ Nghị định số 199/2013/NĐ-CP ngày 26/11/2013 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Nông nghiệp và Phát triển nông thôn; Căn cứ Luật Bảo vệ và phát triển rừng ngày 03 tháng 12 năm 2004; Căn cứ Luật Công nghệ thông tin ngày 29 tháng 6 năm 2006; Căn cứ Nghị định số 23/2006/NĐ-CP ngày 03/3/2006 của Chính phủ về thi hành Luật Bảo vệ và phát triển rừng; Căn cứ Nghị định số 64/2007/NĐ-CP ngày 10/4/2007 của Chính phủ về ứng dụng công nghệ thông tin trong hoạt động của cơ quan nhà nước; Theo đề nghị của Tổng cục trưởng Tổng cục Lâm nghiệp,\nQUYẾT ĐỊNH:",
+        "chapters": [],
+        "sections": [],
+        "articles": [
+          {
+            "article_id": "doc:226628:part:1:article:1",
+            "number": "1",
+            "title": "Ban hành “Quy chế quản lý và sử dụng Hệ thống thông tin quản lý ngành Lâm nghiệp”.",
+            "content": "Điều 1. Ban hành “Quy chế quản lý và sử dụng Hệ thống thông tin quản lý ngành Lâm nghiệp”.",
+            "clauses": [],
+            "points": []
+          },
+          {
+            "article_id": "doc:226628:part:1:article:2",
+            "number": "2",
+            "title": "Giao Tổng cục Lâm nghiệp chủ trì, hàng năm thực hiện đánh giá và bổ sung Quy chế quản lý và sử dụng Hệ thống thông tin quản lý ngành Lâm nghiệp.",
+            "content": "Điều 2. Giao Tổng cục Lâm nghiệp chủ trì, hàng năm thực hiện đánh giá và bổ sung Quy chế quản lý và sử dụng Hệ thống thông tin quản lý ngành Lâm nghiệp.",
+            "clauses": [],
+            "points": []
+          },
+          {
+            "article_id": "doc:226628:part:1:article:3",
+            "number": "3",
+            "title": "Quyết định này có hiệu lực kể từ ngày ký. Chánh Văn phòng Bộ; Tổng cục trưởng Tổng cục Lâm nghiệp; Thủ trưởng các cơ quan, đơn vị và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này./.",
+            "content": "Điều 3. Quyết định này có hiệu lực kể từ ngày ký. Chánh Văn phòng Bộ; Tổng cục trưởng Tổng cục Lâm nghiệp; Thủ trưởng các cơ quan, đơn vị và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này./.",
+            "clauses": [],
+            "points": []
+          }
+        ],
+        "unstructured_blocks": []
+      },
+      {
+        "part_id": "doc:226628:part:2",
+        "part_type": "regulation",
+        "part_title": "QUY CHẾ",
+        "reference": null,
+        "direct_text": "QUY CHẾ\nQUẢN\nLÝ VÀ SỬ DỤNG HỆ THỐNG THÔNG TIN QUẢN LÝ NGÀNH LÂM NGHIỆP\n(Kèm theo Quyết định số: 1439/QĐ-BNN-TCLN ngày 25/4/2016 của Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn)\nQuy chế quản lý và sử dụng Hệ thống\nthông tin quản lý ngành Lâm nghiệp (sau đây viết tắt là Quy chế) quy định việc thu thập, cập nhật, quản lý, khai thác, sử dụng dữ liệu; đồng thời quy định trách nhiệm của cơ quan, đơn vị, tổ chức, cá nhân trong việc thu thập, cập nhật, quản lý, khai thác, sử dụng dữ liệu thuộc Hệ thống thông tin quản lý ngành Lâm nghiệp.\nQuy chế này được áp dụng đối với cơ\nquan, đơn vị, tổ chức, cá nhân có liên quan trong việc thu thập, cập nhật, quản lý, khai thác, sử dụng dữ liệu thuộc Hệ thống thông tin quản lý ngành Lâm nghiệp.",
+        "chapters": [
+          {
+            "chapter_id": "doc:226628:part:2:chapter:1",
+            "number": "I",
+            "title": "NHỮNG QUY ĐỊNH CHUNG",
+            "content": "Chương I.\nNHỮNG QUY ĐỊNH CHUNG",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:226628:part:2:article:1",
+                "number": "1",
+                "title": "Phạm vi điều chỉnh",
+                "content": "Điều 1. Phạm vi điều chỉnh",
+                "clauses": [],
+                "points": []
+              },
+              {
+                "article_id": "doc:226628:part:2:article:2",
+                "number": "2",
+                "title": "Đối tượng áp dụng",
+                "content": "Điều 2. Đối tượng áp dụng",
+                "clauses": [],
+                "points": []
+              },
+              {
+                "article_id": "doc:226628:part:2:article:3",
+                "number": "3",
+                "title": "Giải thích từ ngữ Trong Quy chế này, các từ ngữ dưới đây được hiểu như sau:",
+                "content": "Điều 3. Giải thích từ ngữ Trong Quy chế này, các từ ngữ dưới đây được hiểu như sau:",
+                "clauses": [
+                  {
+                    "clause_id": "doc:226628:part:2:article:3:clause:1",
+                    "number": "1",
+                    "content": "1. Hệ thống thông tin quản lý ngành\nLâm nghiệp (sau đây viết tắt là Hệ thống): là một hệ thống thông tin bao gồm các dữ liệu/cơ sở dữ liệu về tài nguyên rừng và các thông tin lâm nghiệp liên quan khác phục vụ cho công tác quản lý ngành lâm nghiệp. Hệ thống cung cấp các ứng dụng, dịch vụ và các giải pháp công nghệ cho phép tiếp cận, tích hợp các dữ liệu và ứng dụng liên quan vào Hệ thống.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:226628:part:2:article:3:clause:2",
+                    "number": "2",
+                    "content": "2. Nền Hệ thống: là lõi kiến\ntrúc công nghệ thông tin cho phép tích hợp các ứng dụng, dữ liệu một cách linh hoạt và hợp chuẩn, đồng thời cung cấp các chức năng sử dụng Hệ thống một cách bền vững.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:226628:part:2:article:3:clause:3",
+                    "number": "3",
+                    "content": "3. Dữ liệu về lâm nghiệp trong Hệ thống:\nlà những thông tin về lâm nghiệp đã được xử lý, chuẩn hóa, mã hóa và lưu trữ, được thể hiện dưới nhiều dạng như: bản ghi, ký tự, bản đồ, tập tin... phù hợp với quy định hiện hành.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:226628:part:2:article:3:clause:4",
+                    "number": "4",
+                    "content": "4. Chủ dữ liệu: là cơ quan, tổ chức có\nquyền sở hữu chính thức đối với thông tin dữ liệu. Tổng cục Lâm nghiệp thực hiện quản lý thông qua đơn vị quản trị kỹ thuật và đơn vị quản trị nội dung.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:226628:part:2:article:3:clause:5",
+                    "number": "5",
+                    "content": "5. Đơn vị quản trị kỹ thuật: là đơn vị\nchịu trách nhiệm phát triển và duy trì môi trường công nghệ thông tin và cấu trúc cơ sở dữ liệu; tiếp nhận thông tin, dữ liệu từ đơn vị quản trị nội dung để tích hợp vào Hệ thống.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:226628:part:2:article:3:clause:6",
+                    "number": "6",
+                    "content": "6. Đơn vị quản trị nội dung: là đơn vị\nchịu trách nhiệm xây dựng và duy trì quy trình thu thập, cập nhật dữ liệu. Chịu trách nhiệm về nội dung thông tin dữ liệu và chất lượng dữ liệu; chuyển giao thông tin, dữ liệu cho đơn vị quản trị kỹ thuật và phối hợp tham gia tích hợp dữ liệu vào Hệ thống.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:226628:part:2:article:4",
+                "number": "4",
+                "title": "Cơ sở dữ liệu về lâm nghiệp",
+                "content": "Điều 4. Cơ sở dữ liệu về lâm nghiệp",
+                "clauses": [
+                  {
+                    "clause_id": "doc:226628:part:2:article:4:clause:1",
+                    "number": "1",
+                    "content": "1. Cơ sở dữ liệu về lâm nghiệp bao gồm\ncác dữ liệu về lâm nghiệp có cấu trúc và liên quan với nhau, được lưu trữ trong máy tính, được sử dụng rộng rãi ở các cấp, các ngành.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:226628:part:2:article:4:clause:2",
+                    "number": "2",
+                    "content": "2. Cơ sở dữ liệu được thiết kế, xây dựng\ncho phép người sử dụng cập nhật, truy xuất thông tin, có khả năng đáp ứng nhu cầu khai thác của nhiều người sử dụng.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:226628:part:2:article:4:clause:3",
+                    "number": "3",
+                    "content": "3. Cơ sở dữ liệu được quản lý, cập nhật\nbằng các phần mềm hỗ trợ nghiệp vụ và được tích hợp vào Hệ thống để phục vụ cho việc ra các quyết định phục vụ công tác chỉ đạo và điều hành của ngành.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:226628:part:2:chapter:2",
+            "number": "II",
+            "title": "KHUNG HỆ THỐNG THÔNG TIN QUẢN LÝ NGÀNH LÂM NGHIỆP",
+            "content": "Chương II\nKHUNG\nHỆ THỐNG THÔNG TIN QUẢN LÝ NGÀNH LÂM NGHIỆP",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:226628:part:2:article:5",
+                "number": "5",
+                "title": "Sơ đồ khung Hệ thống thông tin quản lý ngành lâm nghiệp Khung Hệ thống thông tin quản lý ngành lâm nghiệp được thể hiện dưới dạng sơ đồ tại phụ lục đính kèm.",
+                "content": "Điều 5. Sơ đồ khung Hệ thống thông tin quản lý ngành lâm nghiệp Khung Hệ thống thông tin quản lý ngành lâm nghiệp được thể hiện dưới dạng sơ đồ tại phụ lục đính kèm.",
+                "clauses": [],
+                "points": []
+              },
+              {
+                "article_id": "doc:226628:part:2:article:6",
+                "number": "6",
+                "title": "Dữ liệu đầu vào và nguồn dữ liệu của Hệ thống",
+                "content": "Điều 6. Dữ liệu đầu vào và nguồn dữ liệu của Hệ thống",
+                "clauses": [
+                  {
+                    "clause_id": "doc:226628:part:2:article:6:clause:1",
+                    "number": "1",
+                    "content": "1. Dữ liệu đầu vào\nDữ liệu về lâm nghiệp bao gồm nhưng không giới hạn các thông tin: Chính sách lâm nghiệp, Quản lý rừng, Bảo vệ rừng, Phát triển rừng, Quản lý sản xuất lâm nghiệp, Bảo tồn thiên nhiên, CITES, Khoa học Công nghệ và Hợp tác quốc tế, Chế biến và thương mại gỗ, Nguồn nhân lực ngành lâm nghiệp, Kinh tế và tài chính lâm nghiệp, các hệ thống báo cáo lâm nghiệp, các chương trình/dự án, và các hoạt động lâm nghiệp khác liên quan.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:226628:part:2:article:6:clause:2",
+                    "number": "2",
+                    "content": "2. Nguồn dữ liệu của Hệ thống\n- Dữ liệu có sẵn từ các cơ quan quản lý của Tổng cục Lâm nghiệp, Bộ Nông nghiệp và Phát triển nông thôn. - Dữ liệu điều tra, thống kê, nghiên cứu, tổng hợp,... từ các chương trình, dự án, đề tài thực hiện mới hàng năm. - Dữ liệu từ các cơ quan, đơn vị, tổ chức khác có liên quan được kết nối theo thỏa thuận.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:226628:part:2:chapter:3",
+            "number": "III",
+            "title": "THU THẬP, CẬP NHẬT, TÍCH HỢP DỮ LIỆU VÀO HỆ THỐNG",
+            "content": "Chương III\nTHU\nTHẬP, CẬP NHẬT, TÍCH HỢP DỮ LIỆU VÀO HỆ THỐNG",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:226628:part:2:article:7",
+                "number": "7",
+                "title": "Lập kế hoạch và thực hiện kế hoạch thu thập, cập nhật dữ liệu",
+                "content": "Điều 7. Lập kế hoạch và thực hiện kế hoạch thu thập, cập nhật dữ liệu",
+                "clauses": [
+                  {
+                    "clause_id": "doc:226628:part:2:article:7:clause:1",
+                    "number": "1",
+                    "content": "1. Hàng năm, Tổng cục Lâm nghiệp chủ\ntrì xác định nhu cầu thu thập thông tin, dữ liệu; lập kế hoạch các hoạt động, nhiệm vụ thu thập, cập nhật và tích hợp dữ liệu về lâm nghiệp phục vụ cho việc quản lý, điều hành trình Bộ Nông nghiệp và Phát triển nông thôn phê duyệt, làm cơ sở tổ chức thực hiện.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:226628:part:2:article:7:clause:2",
+                    "number": "2",
+                    "content": "2. Các đơn vị thuộc Bộ (Vụ Kế hoạch, Vụ\nTài chính) căn cứ chức năng, nhiệm vụ, tổng hợp nhu cầu kế hoạch và ngân sách hàng năm của Tổng cục Lâm nghiệp trình cấp có thẩm quyền phê duyệt làm cơ sở triển khai thực hiện.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:226628:part:2:article:8",
+                "number": "8",
+                "title": "Nguyên tắc chung về cập nhật, cung cấp thông tin",
+                "content": "Điều 8. Nguyên tắc chung về cập nhật, cung cấp thông tin",
+                "clauses": [
+                  {
+                    "clause_id": "doc:226628:part:2:article:8:clause:1",
+                    "number": "1",
+                    "content": "1. Bảo đảm tính chính xác, trung thực,\nkhách quan.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:226628:part:2:article:8:clause:2",
+                    "number": "2",
+                    "content": "2. Bảo đảm tính khoa học, thuận tiện\ncho việc cập nhật và sử dụng.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:226628:part:2:article:8:clause:3",
+                    "number": "3",
+                    "content": "3. Bảo đảm tính kịp thời, đầy đủ và có\nhệ thống.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:226628:part:2:article:9",
+                "number": "9",
+                "title": "Kiểm tra, tích hợp dữ liệu vào Hệ thống",
+                "content": "Điều 9. Kiểm tra, tích hợp dữ liệu vào Hệ thống",
+                "clauses": [
+                  {
+                    "clause_id": "doc:226628:part:2:article:9:clause:1",
+                    "number": "1",
+                    "content": "1. Dữ liệu trước khi tích hợp vào Hệ thống\ncần được tiến hành kiểm tra nhằm rà soát, phát hiện và khắc phục kịp thời những thiếu sót (nếu có) so với thực tế.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:226628:part:2:article:9:clause:2",
+                    "number": "2",
+                    "content": "2. Dữ liệu tích hợp vào Hệ thống được\nchia sẻ rộng rãi ở tất cả các cấp theo từng mức độ và phân quyền truy cập.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:226628:part:2:article:10",
+                "number": "10",
+                "title": "Chia sẻ dữ liệu trong Hệ thống",
+                "content": "Điều 10. Chia sẻ dữ liệu trong Hệ thống",
+                "clauses": [
+                  {
+                    "clause_id": "doc:226628:part:2:article:10:clause:1",
+                    "number": "1",
+                    "content": "1. Đơn vị quản trị nội dung xác định mức\nđộ chia sẻ dữ liệu cho từng đối tượng/nhóm đối tượng.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:226628:part:2:article:10:clause:2",
+                    "number": "2",
+                    "content": "2. Đơn vị quản trị kỹ thuật sẽ cấp tài\nkhoản và quyền truy cập dữ liệu dựa theo yêu cầu đề xuất của đơn vị quản trị nội dung.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:226628:part:2:article:10:clause:3",
+                    "number": "3",
+                    "content": "3. Dữ liệu thuộc đối tượng quy định về\nbảo mật sẽ được chia sẻ theo quy định của pháp luật.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:226628:part:2:chapter:4",
+            "number": "IV",
+            "title": "XÂY DỰNG, QUẢN LÝ SỬ DỤNG VÀ ĐẢM BẢO AN TOÀN CƠ SỞ DỮ LIỆU",
+            "content": "Chương IV\nXÂY\nDỰNG, QUẢN LÝ SỬ DỤNG VÀ ĐẢM BẢO AN TOÀN CƠ SỞ DỮ LIỆU",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:226628:part:2:article:11",
+                "number": "11",
+                "title": "Nguyên tắc chung",
+                "content": "Điều 11. Nguyên tắc chung",
+                "clauses": [
+                  {
+                    "clause_id": "doc:226628:part:2:article:11:clause:1",
+                    "number": "1",
+                    "content": "1. Cơ sở dữ liệu về lâm nghiệp được quản\nlý chặt chẽ, bảo đảm an toàn và lưu trữ lâu dài trong Hệ thống.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:226628:part:2:article:11:clause:2",
+                    "number": "2",
+                    "content": "2. Cơ sở dữ liệu về lâm nghiệp được\nduy trì liên tục, ổn định, thông suốt, đáp ứng yêu cầu thu thập, khai thác, chia sẻ và sử dụng của các cơ quan, tổ chức, cá nhân.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:226628:part:2:article:12",
+                "number": "12",
+                "title": "Xây dựng cơ sở dữ liệu",
+                "content": "Điều 12. Xây dựng cơ sở dữ liệu",
+                "clauses": [
+                  {
+                    "clause_id": "doc:226628:part:2:article:12:clause:1",
+                    "number": "1",
+                    "content": "1. Cơ sở dữ liệu về lâm nghiệp được\nxây dựng, phát triển dựa trên cơ sở ứng dụng công nghệ thông tin, được tích hợp vào Hệ thống.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:226628:part:2:article:12:clause:2",
+                    "number": "2",
+                    "content": "2. Cơ sở dữ liệu về lâm nghiệp đảm bảo\ntính tương thích, khả năng tích hợp, chia sẻ và khả năng mở rộng các trường dữ liệu trong thiết kế Hệ thống và phần mềm ứng dụng.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:226628:part:2:article:12:clause:3",
+                    "number": "3",
+                    "content": "3. Tổng cục Lâm nghiệp tổ chức tích hợp\ncác dữ liệu vào Hệ thống nhằm chia sẻ và phục vụ công tác quản lý, chỉ đạo điều hành ngành Lâm nghiệp.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:226628:part:2:article:13",
+                "number": "13",
+                "title": "Quản lý cơ sở dữ liệu:",
+                "content": "Điều 13. Quản lý cơ sở dữ liệu:",
+                "clauses": [
+                  {
+                    "clause_id": "doc:226628:part:2:article:13:clause:1",
+                    "number": "1",
+                    "content": "1. Bảo đảm trang bị đầy đủ cơ sở hạ tầng\ncông nghệ thông tin, các thiết bị có liên quan đến việc cài đặt, sử dụng, bảo trì và phát triển cơ sở dữ liệu.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:226628:part:2:article:13:clause:2",
+                    "number": "2",
+                    "content": "2. Thực hiện các biện pháp ngăn ngừa,\nhạn chế và giảm thiểu rủi ro; đảm bảo khả năng khôi phục hệ thống dữ liệu khi xẩy ra sự cố.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:226628:part:2:article:14",
+                "number": "14",
+                "title": "Bảo đảm an toàn cơ sở dữ liệu",
+                "content": "Điều 14. Bảo đảm an toàn cơ sở dữ liệu",
+                "clauses": [
+                  {
+                    "clause_id": "doc:226628:part:2:article:14:clause:1",
+                    "number": "1",
+                    "content": "1. Quy định đăng nhập tài khoản vào Hệ\nthống và thay đổi mật khẩu:",
+                    "points": [
+                      {
+                        "point_id": "doc:226628:part:2:article:14:clause:1:point:1",
+                        "label": "a",
+                        "content": "a) Để đăng nhập vào Hệ thống, người\ndùng cần khai tên đăng nhập và mật khẩu. Mỗi đơn vị sẽ được cung cấp một tài khoản gồm tên đăng nhập và mật khẩu (lần đầu).",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:226628:part:2:article:14:clause:1:point:2",
+                        "label": "b",
+                        "content": "b) Để bảo mật tài khoản đăng nhập vào\nhệ thống, sau khi đăng nhập lần đầu, người được giao trách nhiệm quản lý, sử dụng tài khoản phải thực hiện ngay việc đổi mật khẩu bằng các truy cập vào phần quản lý thông tin tài khoản, sau đó chọn chức năng đổi mật khẩu.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:226628:part:2:article:14:clause:2",
+                    "number": "2",
+                    "content": "2. Mục đích và yêu cầu sử dụng tài khoản\nđăng nhập:",
+                    "points": [
+                      {
+                        "point_id": "doc:226628:part:2:article:14:clause:2:point:1",
+                        "label": "a",
+                        "content": "a) Đảm bảo quyền truy cập vào hệ thống\ncơ sở dữ liệu của người được giao trách nhiệm.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:226628:part:2:article:14:clause:2:point:2",
+                        "label": "b",
+                        "content": "b) Cho phép người sử dụng sau khi đăng\nnhập tài khoản của mỗi đơn vị được quyền cập nhật dữ liệu của đơn vị đó.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:226628:part:2:article:14:clause:3",
+                    "number": "3",
+                    "content": "3. Trách nhiệm về bảo mật của tài khoản\nđăng nhập Thủ trưởng các đơn vị chịu trách nhiệm về bảo mật của tài khoản đăng nhập hệ thống cơ sở dữ liệu của đơn vị mình.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:226628:part:2:article:14:clause:4",
+                    "number": "4",
+                    "content": "4. Sử dụng tài khoản để cập nhật dữ liệu\nNgười sử dụng tài khoản là cán bộ của đơn vị được Thủ trưởng giao nhiệm vụ cập nhật dữ liệu vào Hệ thống.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:226628:part:2:article:15",
+                "number": "15",
+                "title": "Quản lý tài khoản quản trị cơ sở dữ liệu",
+                "content": "Điều 15. Quản lý tài khoản quản trị cơ sở dữ liệu",
+                "clauses": [
+                  {
+                    "clause_id": "doc:226628:part:2:article:15:clause:1",
+                    "number": "1",
+                    "content": "1. Thủ trưởng các đơn vị thống nhất quản\nlý hệ thống dữ liệu, thông tin về cơ sở dữ liệu đơn vị mình phụ trách, thực hiện quản lý tài khoản quản trị như sau:",
+                    "points": [
+                      {
+                        "point_id": "doc:226628:part:2:article:15:clause:1:point:1",
+                        "label": "a",
+                        "content": "a) Cấp tài khoản và mật khẩu (lần đầu)\ncho Thủ trưởng các đơn vị để truy cập vào cơ sở dữ liệu Hệ thống.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:226628:part:2:article:15:clause:1:point:2",
+                        "label": "b",
+                        "content": "b) Phân quyền quản trị cho các đơn vị.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:226628:part:2:article:15:clause:1:point:3",
+                        "label": "c",
+                        "content": "c) Rà soát, kiểm tra quyền quản trị cơ\nsở dữ liệu về nội dung của cấp được phân quyền.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:226628:part:2:article:15:clause:2",
+                    "number": "2",
+                    "content": "2. Các cơ quan, đơn vị được giao nhiệm\nvụ là cơ quan đầu mối, chịu trách nhiệm tham mưu chỉ đạo, thực hiện chức năng tổng hợp, cập nhật thông tin, quản lý dữ liệu theo chức năng, nhiệm vụ được giao.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:226628:part:2:article:16",
+                "number": "16",
+                "title": "Nguyên tắc khai thác, sử dụng cơ sở dữ liệu",
+                "content": "Điều 16. Nguyên tắc khai thác, sử dụng cơ sở dữ liệu",
+                "clauses": [
+                  {
+                    "clause_id": "doc:226628:part:2:article:16:clause:1",
+                    "number": "1",
+                    "content": "1. Truy cập đúng địa chỉ; không được\nlàm lộ tài khoản và mật khẩu truy cập đã được cung cấp.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:226628:part:2:article:16:clause:2",
+                    "number": "2",
+                    "content": "2. Chỉ được khai thác sử dụng dữ liệu\ntrong phạm vi mình được cấp; không xâm nhập trái phép cơ sở dữ liệu; sử dụng đúng mục đích.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:226628:part:2:article:16:clause:3",
+                    "number": "3",
+                    "content": "3. Quản lý nội dung các dữ liệu khai\nthác; không được cung cấp cho tổ chức, cá nhân khác, trừ trường hợp đã thỏa thuận, được phép của cơ quan quản nội dung cơ sở dữ liệu.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:226628:part:2:article:16:clause:4",
+                    "number": "4",
+                    "content": "4. Khai thác, sử dụng dữ liệu, thông\ntin lâm nghiệp theo quy định hiện hành của pháp luật.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:226628:part:2:article:16:clause:5",
+                    "number": "5",
+                    "content": "5. Không được tẩy, xóa, hủy, di chuyển\ntrái phép một phần hoặc toàn bộ dữ liệu; không được tạo ra hoặc phát tán phần mềm làm rối loạn, thay đổi, phá hoại cấu trúc cơ sở dữ liệu Hệ thống.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:226628:part:2:article:16:clause:6",
+                    "number": "6",
+                    "content": "6. Tuân theo các quy định hiện hành của\npháp luật về bí mật nhà nước, chịu trách nhiệm về sai phạm do khai thác, sử dụng dữ liệu gây ra.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:226628:part:2:article:17",
+                "number": "17",
+                "title": "Quyền hạn của các tổ chức, cá nhân trong khai thác, sử dụng dữ liệu",
+                "content": "Điều 17. Quyền hạn của các tổ chức, cá nhân trong khai thác, sử dụng dữ liệu",
+                "clauses": [
+                  {
+                    "clause_id": "doc:226628:part:2:article:17:clause:1",
+                    "number": "1",
+                    "content": "1. Kiến nghị với cơ quan quản lý dữ liệu,\nkhi các cơ quan này không đáp ứng nhu cầu về việc cung cấp dữ liệu, thông tin.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:226628:part:2:article:17:clause:2",
+                    "number": "2",
+                    "content": "2. Tham gia, đóng góp ý kiến nhằm nâng\ncao hiệu quả công tác quản lý, cơ chế khai thác, sử dụng dữ liệu, thông tin.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:226628:part:2:article:17:clause:3",
+                    "number": "3",
+                    "content": "3. Khiếu nại theo quy định của pháp luật\nkhi bị vi phạm quyền khai thác, sử dụng dữ liệu, thông tin của mình.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:226628:part:2:article:17:clause:4",
+                    "number": "4",
+                    "content": "4. Chỉ rõ nguồn gốc dữ liệu, thông tin\nkhi sử dụng; không được cung cấp cho người khác về dữ liệu, thông tin do cơ quan nhà nước có thẩm quyền cung cấp cho mình để khai thác, sử dụng.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:226628:part:2:article:17:clause:5",
+                    "number": "5",
+                    "content": "5. Thông báo kịp thời cho cơ quan quản\nlý dữ liệu về mức độ sai sót, chất lượng dữ liệu, thông tin đã được cung cấp.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:226628:part:2:chapter:5",
+            "number": "V",
+            "title": "TỔ CHỨC THỰC HIỆN",
+            "content": "Chương V\nTỔ CHỨC THỰC HIỆN",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:226628:part:2:article:18",
+                "number": "18",
+                "title": "Trách nhiệm của Tổng cục Lâm nghiệp",
+                "content": "Điều 18. Trách nhiệm của Tổng cục Lâm nghiệp",
+                "clauses": [
+                  {
+                    "clause_id": "doc:226628:part:2:article:18:clause:1",
+                    "number": "1",
+                    "content": "1. Ban hành các tài liệu hướng dẫn sử\ndụng Hệ thống; tổ chức tuyên truyền phổ biến Quy chế này tới các cơ quan, đơn vị, tổ chức, cá nhân có liên quan trong cả nước.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:226628:part:2:article:18:clause:2",
+                    "number": "2",
+                    "content": "2. Chủ trì tổ chức kiểm tra, giám sát\nhoặc thuê đơn vị tư vấn giám sát các đơn vị liên quan thực hiện theo quy định hiện hành.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:226628:part:2:article:18:clause:3",
+                    "number": "3",
+                    "content": "3. Chủ trì xây dựng kế hoạch đầu tư,\nnâng cấp trang thiết bị, củng cố nhân sự để sử dụng Hệ thống.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:226628:part:2:article:19",
+                "number": "19",
+                "title": "Trách nhiệm của các đơn vị thuộc Bộ",
+                "content": "Điều 19. Trách nhiệm của các đơn vị thuộc Bộ",
+                "clauses": [
+                  {
+                    "clause_id": "doc:226628:part:2:article:19:clause:1",
+                    "number": "1",
+                    "content": "1. Vụ Kế hoạch: Phối hợp với Tổng cục\nLâm nghiệp trong việc xây dựng và bảo vệ kế hoạch đối với các hạng mục đầu tư dài hạn và hàng năm từ nguồn vốn đầu tư; nghiên cứu, đề xuất các cơ chế chính sách quản lý tài chính đối với các hoạt động nhằm triển khai Hệ thống đạt kết quả tốt nhất.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:226628:part:2:article:19:clause:2",
+                    "number": "2",
+                    "content": "2. Vụ Tài chính: Phối hợp với Tổng cục\nLâm nghiệp trong việc xây dựng và bảo vệ kế hoạch đối với các hạng mục đầu tư dài hạn và hàng năm từ nguồn vốn sự nghiệp; nghiên cứu, đề xuất các cơ chế chính sách quản lý tài chính đối với các hoạt động nhằm triển khai Hệ thống đạt kết quả tốt nhất.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:226628:part:2:article:19:clause:3",
+                    "number": "3",
+                    "content": "3. Vụ Hợp tác quốc tế: Phối hợp với Tổng\ncục Lâm nghiệp vận động, kêu gọi vốn tài trợ cho các hoạt động lâm nghiệp; giới thiệu thông tin kết quả của Hệ thống với các nhà tài trợ.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:226628:part:2:article:19:clause:4",
+                    "number": "4",
+                    "content": "4. Trung tâm Tin học và Thống kê: Phối hợp\nvới Tổng cục Lâm nghiệp hướng dẫn và hỗ trợ công nghệ thông tin trong xử lý dữ liệu, chuẩn hóa cơ sở dữ liệu; quản lý đường truyền, máy chủ và cung cấp thông tin dữ liệu theo quy định hiện hành.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:226628:part:2:article:20",
+                "number": "20",
+                "title": "Trách nhiệm của Sở Nông nghiệp và Phát triển nông thôn",
+                "content": "Điều 20. Trách nhiệm của Sở Nông nghiệp và Phát triển nông thôn",
+                "clauses": [
+                  {
+                    "clause_id": "doc:226628:part:2:article:20:clause:1",
+                    "number": "1",
+                    "content": "1. Tham mưu giúp Ủy ban nhân dân tỉnh/Thành\nphố chỉ đạo các đơn vị trực thuộc, tổng hợp thông tin lâm nghiệp theo từng lĩnh vực trên địa bàn tỉnh gửi Tổng cục Lâm nghiệp để xem xét, tích hợp vào Hệ thống.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:226628:part:2:article:20:clause:2",
+                    "number": "2",
+                    "content": "2. Chỉ đạo, hướng dẫn khai thác, sử dụng\ndữ liệu lâm nghiệp trong Hệ thống phục vụ công tác lập kế hoạch, chỉ đạo, điều hành trong phạm vi quản lý.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:226628:part:2:article:21",
+                "number": "21",
+                "title": "Trách nhiệm của UBND cấp huyện, xã Ủy ban nhân dân cấp huyện, xã có trách nhiệm rà soát, kiểm tra và cung cấp dữ liệu thông tin lâm nghiệp cho Sở Nông nghiệp và Phát triển nông thôn để tổng hợp, phê duyệt và gửi Tổng cục Lâm nghiệp để tích hợp vào Hệ thống.",
+                "content": "Điều 21. Trách nhiệm của UBND cấp huyện, xã Ủy ban nhân dân cấp huyện, xã có trách nhiệm rà soát, kiểm tra và cung cấp dữ liệu thông tin lâm nghiệp cho Sở Nông nghiệp và Phát triển nông thôn để tổng hợp, phê duyệt và gửi Tổng cục Lâm nghiệp để tích hợp vào Hệ thống.",
+                "clauses": [],
+                "points": []
+              },
+              {
+                "article_id": "doc:226628:part:2:article:22",
+                "number": "22",
+                "title": "Trách nhiệm của các tổ chức, cá nhân",
+                "content": "Điều 22. Trách nhiệm của các tổ chức, cá nhân",
+                "clauses": [
+                  {
+                    "clause_id": "doc:226628:part:2:article:22:clause:1",
+                    "number": "1",
+                    "content": "1. Phối hợp cung cấp chính xác các\nthông tin, dữ liệu về lâm nghiệp cho các cơ quan chức năng của địa phương để tổng hợp.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:226628:part:2:article:22:clause:2",
+                    "number": "2",
+                    "content": "2. Tham gia giám sát và cung cấp thông\ntin phản hồi về các hoạt động lâm nghiệp trong phạm vi có liên quan.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:226628:part:2:article:23",
+                "number": "23",
+                "title": "Khen thưởng và xử lý vi phạm",
+                "content": "Điều 23. Khen thưởng và xử lý vi phạm",
+                "clauses": [
+                  {
+                    "clause_id": "doc:226628:part:2:article:23:clause:1",
+                    "number": "1",
+                    "content": "1. Tổng cục Lâm nghiệp chủ trì, phối hợp\nvới các cơ quan chức năng đề xuất Bộ Nông nghiệp và Phát triển nông thôn có chế độ khen thưởng, hỗ trợ thích hợp đối với các đơn vị, tổ chức, cá nhân thực hiện tốt Hệ thống.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:226628:part:2:article:23:clause:2",
+                    "number": "2",
+                    "content": "2. Các đơn vị, tổ chức, cá nhân có\nhành vi chiếm giữ trái phép, làm hư hỏng dữ liệu; khai thác, sử dụng dữ liệu trái với Quy chế này thì tùy theo tính chất và mức độ vi phạm sẽ bị xử lý theo quy định của pháp luật.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:226628:part:2:article:24",
+                "number": "24",
+                "title": "Kinh phí duy trì Hệ thống Kinh phí cho các hoạt động đầu tư, nâng cấp trang thiết bị; tổ chức tuyên truyền phổ biến Quy chế quản lý và sử dụng Hệ thống; thu thập, cập nhật, tích hợp dữ liệu và các hoạt động khác có liên quan được bố trí từ nguồn vốn ngân sách nhà nước, nguồn vốn ODA, nguồn vốn NGO và các nguồn vốn hợp pháp khác theo quy định nhằm đảm bảo mục tiêu, chất lượng, phục vụ việc quản lý, chỉ đạo điều hành ngành lâm nghiệp.",
+                "content": "Điều 24. Kinh phí duy trì Hệ thống Kinh phí cho các hoạt động đầu tư, nâng cấp trang thiết bị; tổ chức tuyên truyền phổ biến Quy chế quản lý và sử dụng Hệ thống; thu thập, cập nhật, tích hợp dữ liệu và các hoạt động khác có liên quan được bố trí từ nguồn vốn ngân sách nhà nước, nguồn vốn ODA, nguồn vốn NGO và các nguồn vốn hợp pháp khác theo quy định nhằm đảm bảo mục tiêu, chất lượng, phục vụ việc quản lý, chỉ đạo điều hành ngành lâm nghiệp.",
+                "clauses": [],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:226628:part:2:chapter:6",
+            "number": "VI",
+            "title": "ĐIỀU KHOẢN THI HÀNH",
+            "content": "Chương VI\nĐIỀU KHOẢN THI HÀNH",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:226628:part:2:article:25",
+                "number": "25",
+                "title": "Trách nhiệm thi hành",
+                "content": "Điều 25. Trách nhiệm thi hành",
+                "clauses": [
+                  {
+                    "clause_id": "doc:226628:part:2:article:25:clause:1",
+                    "number": "1",
+                    "content": "1. Tổng cục Lâm nghiệp có trách nhiệm\ntổ chức hướng dẫn, kiểm tra việc thực hiện Quy chế.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:226628:part:2:article:25:clause:2",
+                    "number": "2",
+                    "content": "2. Thủ trưởng các cơ quan, đơn vị, tổ\nchức và cá nhân có liên quan chịu trách nhiệm thực hiện đầy đủ nội dung theo quy định của Quy chế. Trong quá trình thực hiện nếu có khó khăn, vướng mắc, đề nghị các đơn vị, tổ chức, cá nhân báo cáo về Tổng cục Lâm nghiệp để tổng hợp trình Bộ Nông nghiệp và Phát triển nông thôn xem xét, giải quyết./.\nPHỤ\nLỤC: SƠ ĐỒ HỆ THỐNG THÔNG TIN QUẢN LÝ NGÀNH LÂM NGHIỆP",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          }
+        ],
+        "sections": [],
+        "articles": [],
+        "unstructured_blocks": []
+      }
+    ]
+  },
+  "issues": [],
+  "status": "ok",
+  "source_hash": "context_226628.json",
+  "stats": {
+    "source_chars": 15583,
+    "passage_chars": 15402,
+    "parts": 2,
+    "chapters": 6,
+    "sections": 0,
+    "articles": 28,
+    "clauses": 60,
+    "points": 7
+  }
+}

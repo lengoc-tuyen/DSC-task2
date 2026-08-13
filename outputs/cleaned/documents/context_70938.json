@@ -1,0 +1,1191 @@
+{
+  "schema_version": "2.0",
+  "document_id": 70938,
+  "metadata": {
+    "name": "Nghi-dinh-20-2016-ND-CP-co-so-du-lieu-quoc-gia-ve-xu-ly-vi-pham-hanh-chinh-307664",
+    "link": "https://thuvienphapluat.vn/van-ban/Cong-nghe-thong-tin/Nghi-dinh-20-2016-ND-CP-co-so-du-lieu-quoc-gia-ve-xu-ly-vi-pham-hanh-chinh-307664.aspx",
+    "issuing_agency": "CHÍNH PHỦ",
+    "national_header": "CỘNG HÒA XÃ HỘI\r\n\n  CHỦ NGHĨA VIỆT NAM",
+    "motto": "Độc lập - Tự do - Hạnh phúc",
+    "document_number": "20/2016/NĐ-CP",
+    "issued_place": "Hà Nội",
+    "issued_date": "ngày 30\r\n\n  tháng 3 năm 2016",
+    "document_type": "NGHỊ ĐỊNH",
+    "title": "QUY ĐỊNH CƠ SỞ DỮ LIỆU QUỐC GIA VỀ XỬ LÝ VI PHẠM HÀNH CHÍNH"
+  },
+  "administrative_header": {
+    "removed": true,
+    "removed_char_count": 147
+  },
+  "preamble": {
+    "text": "NGHỊ ĐỊNH QUY\nĐỊNH CƠ SỞ DỮ LIỆU QUỐC GIA VỀ XỬ LÝ VI PHẠM HÀNH CHÍNH\nCăn cứ Luật Tổ chức Chính phủ ngày 19 tháng 6 năm 2015; Căn cứ Luật Xử lý vi phạm hành chính ngày 20 tháng 6 năm 2012; Căn cứ Luật Công nghệ thông tin ngày 29 tháng 6 năm 2006; Theo đề nghị của Bộ trưởng Bộ Tư pháp, Chính phủ ban hành Nghị định quy định Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính.\nChương I\nNHỮNG QUY ĐỊNH CHUNG",
+    "legal_bases": [
+      "Căn cứ Luật Xử lý vi phạm hành chính ngày 20 tháng 6 năm 2012",
+      "Căn cứ Luật Công nghệ thông tin ngày 29 tháng 6 năm 2006"
+    ],
+    "proposals": [
+      "Theo đề nghị của Bộ trưởng Bộ Tư pháp, Chính phủ ban hành Nghị định quy định Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính.\nChương I\nNHỮNG QUY ĐỊNH CHUNG"
+    ],
+    "enactment_formula": null
+  },
+  "passage": "NGHỊ ĐỊNH QUY\nĐỊNH CƠ SỞ DỮ LIỆU QUỐC GIA VỀ XỬ LÝ VI PHẠM HÀNH CHÍNH\nCăn cứ Luật Tổ chức Chính phủ ngày 19 tháng 6 năm 2015; Căn cứ Luật Xử lý vi phạm hành chính ngày 20 tháng 6 năm 2012; Căn cứ Luật Công nghệ thông tin ngày 29 tháng 6 năm 2006; Theo đề nghị của Bộ trưởng Bộ Tư pháp, Chính phủ ban hành Nghị định quy định Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính.\nChương I\nNHỮNG QUY ĐỊNH CHUNG\nĐiều 1. Phạm vi Điều chỉnh Nghị định này quy định về xây dựng, quản lý, khai thác và sử dụng Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính; trách nhiệm của các Bộ, cơ quan ngang Bộ, Tòa án nhân dân tối cao, Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương (sau đây gọi tắt là Ủy ban nhân dân cấp tỉnh), các tổ chức, cá nhân trong việc xây dựng, quản lý, khai thác và sử dụng Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính.\nĐiều 2. Đối tượng áp dụng Nghị định này áp dụng đối với:\n1. Cơ quan, người có thẩm quyền xử phạt vi phạm\nhành chính.\n2. Cơ quan thi hành quyết định xử phạt vi phạm hành\nchính.\n3. Cơ quan thi hành quyết định cưỡng chế thi hành\nquyết định xử phạt vi phạm hành chính.\n4. Cơ quan, người có thẩm quyền quyết định áp dụng\nbiện pháp xử lý hành chính.\n5. Cơ quan thi hành quyết định áp dụng các biện\npháp xử lý hành chính.\n6. Cơ quan quản lý nhà nước về xử lý vi phạm hành\nchính.\n7. Các cơ quan nhà nước, cán bộ, công chức, viên chức\nkhác có liên quan đến việc xây dựng, quản lý, khai thác và sử dụng Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính.\nĐiều 3. Giải thích từ ngữ Trong Nghị định này, các từ ngữ dưới đây được hiểu như sau:\n1. Tài liệu về xử lý vi phạm hành chính là các văn\nbản, giấy tờ, bản ảnh, hình ảnh, phiếu in, chỉ số đo, dữ liệu lưu trong bộ nhớ của các phương tiện, thiết bị kỹ thuật nghiệp vụ chứa đựng thông tin về vụ việc xử phạt vi phạm hành chính hoặc áp dụng biện pháp xử lý hành chính.\n2. Dữ liệu điện tử về xử lý vi phạm hành chính là\nnhững thông tin trong tài liệu về xử lý vi phạm hành chính được số hóa.\n3. Cơ sở dữ liệu quốc gia về xử lý vi phạm hành\nchính là tập hợp dữ liệu về xử lý vi phạm hành chính được xây dựng, cập nhật, duy trì, khai thác và sử dụng thông qua phương tiện điện tử nhằm phục vụ công tác quản lý nhà nước về xử lý vi phạm hành chính và đấu tranh phòng, chống vi phạm pháp luật.\nĐiều 4. Nguyên tắc xây dựng, quản lý, khai thác và sử dụng Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính\n1. Tuân thủ quy định của Luật Xử lý vi phạm hành chính, Luật Công nghệ thông tin và Nghị định này.\n2. Bảo đảm chính xác, đầy đủ, kịp thời.\n3. Phân định rõ ràng quyền hạn, trách nhiệm theo chức\nnăng, nhiệm vụ của cơ quan, người có thẩm quyền.\n4. Khai thác, sử dụng đúng Mục đích, bảo đảm bí mật\nthông tin của tổ chức bị xử phạt, cá nhân bị xử lý vi phạm hành chính.\n5. Quản lý chặt chẽ, bảo đảm an toàn, an ninh thông\ntin.\nĐiều 5. Kinh phí bảo đảm cho việc xây dựng, quản lý Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính\n1. Kinh phí đầu tư xây dựng, mở rộng và nâng cấp Cơ\nsở dữ liệu quốc gia về xử lý vi phạm hành chính được bảo đảm từ nguồn kinh phí chi sự nghiệp, nguồn kinh phí chi đầu tư phát triển và các nguồn vốn nhà nước hợp pháp khác.\n2. Kinh phí giao cho các Bộ, cơ quan ngang Bộ và Ủy\nban nhân dân cấp tỉnh thực hiện việc quản lý, cập nhật thông tin, đào tạo sử dụng và duy trì, vận hành hệ thống Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính do ngân sách nhà nước bảo đảm theo phân cấp hằng năm.\nĐiều 6. Những hành vi bị nghiêm cấm\n1. Truy cập trái phép vào Cơ sở dữ liệu quốc gia về\nxử lý vi phạm hành chính.\n2. Cản trở hoặc ngăn chặn trái phép quá trình truyền,\ngửi, nhận dữ liệu.\n3. Làm sai lệch hoặc thay đổi, xóa, hủy dữ liệu\ntrái phép.\n4. Cung cấp thông tin trái pháp luật hoặc lợi dụng\nviệc cung cấp thông tin về xử lý vi phạm hành chính để trục lợi.\n5. Phá hoại cơ sở hạ tầng kỹ thuật, thông tin hoặc\nphát tán vi rút máy tính.\n6. Sử dụng thông tin khai thác từ Cơ sở dữ liệu quốc\ngia về xử lý vi phạm hành chính không đúng Mục đích.\nĐiều 7. Sử dụng thông tin trong Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính Thông tin trong Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính được sử dụng chính thức trong quản lý nhà nước về xử lý vi phạm hành chính và đấu tranh phòng, chống vi phạm pháp luật.\nChương II\nXÂY DỰNG, QUẢN LÝ, KHAI\nTHÁC VÀ SỬ DỤNG CƠ SỞ DỮ LIỆU QUỐC GIA VỀ XỬ LÝ VI PHẠM HÀNH CHÍNH\nMục 1. XÂY DỰNG, QUẢN LÝ VÀ DUY\nTRÌ CƠ SỞ DỮ LIỆU QUỐC GIA VỀ XỬ LÝ VI PHẠM HÀNH CHÍNH\nĐiều 8. Xây dựng Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính\n1. Cơ sở dữ liệu quốc gia về xử lý vi phạm hành\nchính được xây dựng tập trung, thống nhất, dùng chung trên toàn quốc.\n2. Cơ sở dữ liệu quốc gia về xử lý vi phạm hành\nchính được xây dựng phù hợp với khung kiến trúc Chính phủ điện tử Việt Nam, đáp ứng quy chuẩn kỹ thuật cơ sở dữ liệu quốc gia, các tiêu chuẩn, quy chuẩn kỹ thuật công nghệ thông tin, an toàn, an ninh thông tin và định mức kinh tế - kỹ thuật.\n3. Thiết kế cấu trúc của Cơ sở dữ liệu quốc gia về\nxử lý vi phạm hành chính phải bảo đảm việc mở rộng và phát triển.\nĐiều 9. Thông tin trong Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính\n1. Thông tin về Quyết định xử phạt vi phạm hành chính:\na) Đối tượng bị xử phạt vi phạm hành chính:\nTrường hợp đối tượng vi phạm là cá nhân: Họ và tên; ngày, tháng, năm sinh; số định danh cá nhân hoặc số chứng minh nhân dân hoặc số chứng minh Công an nhân dân hoặc số chứng minh quân nhân hoặc số hộ chiếu (nếu có); giới tính. Trường hợp đối tượng vi phạm là tổ chức: Tên tổ chức; địa chỉ trụ sở; mã số (đối với doanh nghiệp) hoặc số Giấy chứng nhận đăng ký đầu tư/số Giấy chứng nhận đăng ký doanh nghiệp; số Giấy phép thành lập/số Đăng ký hoạt động (đối với tổ chức khác); họ và tên của người đại diện theo pháp luật hoặc chủ doanh nghiệp hoặc người đứng đầu tổ chức.\nb) Số, ngày, tháng, năm ban hành Quyết định xử phạt\nvi phạm hành chính;\nc) Hành vi vi phạm; hình thức xử phạt, mức phạt; biện\npháp khắc phục hậu quả (nếu có);\nd) Cơ quan của người có thẩm quyền xử phạt vi phạm\nhành chính; chức danh của người ra Quyết định xử phạt vi phạm hành chính.\n2. Thông tin về việc thi hành Quyết định xử phạt vi\nphạm hành chính, thi hành Quyết định áp dụng biện pháp khắc phục hậu quả (nếu có):\na) Hoãn thi hành quyết định phạt tiền; tạm đình chỉ\nthi hành Quyết định xử phạt vi phạm hành chính; đình chỉ thi hành các hình thức xử phạt hoặc sửa đổi, bổ sung hoặc hủy bỏ Quyết định xử phạt vi phạm hành chính (nếu có);\nb) Giảm, miễn tiền phạt; nộp tiền phạt nhiều lần (số\ntiền đã nộp phạt, số tiền chưa nộp phạt (nếu có);\nc) Cưỡng chế thi hành Quyết định xử phạt vi phạm\nhành chính (nếu có);\nd) Thời Điểm chấp hành xong Quyết định xử phạt vi\nphạm hành chính;\nđ) Khiếu nại, khởi kiện Quyết định xử phạt vi phạm\nhành chính (nếu có).\n3. Thông tin về việc áp dụng biện pháp xử lý hành\nchính:\na) Họ và tên người vi phạm; ngày, tháng, năm sinh;\nsố định danh cá nhân hoặc số chứng minh nhân dân hoặc số hộ chiếu (nếu có); giới tính;\nb) Số, ngày, tháng, năm ban hành Quyết định áp dụng\nbiện pháp xử lý hành chính;\nc) Hành vi vi phạm;\nd) Biện pháp xử lý hành chính bị áp dụng;\nđ) Thời hạn áp dụng;\ne) Hoãn, miễn; giảm thời hạn, tạm đình chỉ hoặc miễn\nchấp hành phần thời gian còn lại tại trường giáo dưỡng, cơ sở giáo dục bắt buộc, cơ sở cai nghiện bắt buộc;\ng) Thời Điểm chấp hành xong quyết định áp dụng biện\npháp xử lý hành chính;\nh) Cơ quan hoặc cơ quan của người có thẩm quyền quyết\nđịnh áp dụng biện pháp xử lý hành chính;\ni) Khiếu nại, khởi kiện, kiến nghị, kháng nghị Quyết\nđịnh áp dụng biện pháp xử lý hành chính (nếu có).\n4. Thông tin về việc áp dụng biện pháp quản lý tại\ngia đình:\na) Họ và tên người chưa thành niên; ngày, tháng,\nnăm sinh; số định danh cá nhân hoặc số chứng minh nhân dân hoặc số hộ chiếu (nếu có); giới tính;\nb) Số, ngày, tháng, năm ban hành Quyết định áp dụng\nbiện pháp quản lý tại gia đình;\nc) Lý do áp dụng biện pháp quản lý tại gia đình;\nd) Thời hạn áp dụng, ngày thi hành Quyết định áp dụng\nbiện pháp quản lý tại gia đình;\nđ) Tên tổ chức, cá nhân phối hợp giám sát;\ne) Thời Điểm chấm dứt áp dụng biện pháp quản lý tại\ngia đình (nếu có); lý do của việc chấm dứt; biện pháp xử lý tiếp theo;\ng) Thời Điểm chấp hành xong Quyết định áp dụng biện\npháp quản lý tại gia đình;\nh) Cơ quan của người có thẩm quyền quyết định áp dụng\nbiện pháp quản lý tại gia đình; chức danh của người ra Quyết định áp dụng biện pháp quản lý tại gia đình;\ni) Khiếu nại, khởi kiện Quyết định áp dụng biện\npháp quản lý tại gia đình (nếu có).\nĐiều 10. Trách nhiệm cung cấp, tiếp nhận, cập nhật thông tin về xử lý vi phạm hành chính\n1. Cơ quan của người có thẩm\nquyền xử phạt vi phạm hành chính, cơ quan thi hành quyết định xử phạt, cơ quan thi hành quyết định cưỡng chế thi hành quyết định xử phạt, cơ quan quyết định áp dụng các biện pháp xử lý hành chính, cơ quan thi hành các quyết định áp dụng biện pháp xử lý hành chính có trách nhiệm cung cấp, cập nhật thông tin về xử lý vi phạm hành chính do mình thực hiện đến hệ thống Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính.\n2. Căn cứ tình hình thực tế,\ncác cơ quan quy định tại Khoản 1 Điều này có trách nhiệm bố trí người hoặc tổ chức bộ phận tiếp nhận, cập nhật thông tin về xử lý vi phạm hành chính từ người có thẩm quyền xử lý vi phạm hành chính.\n3. Quy trình cung cấp, tiếp nhận\nthông tin về xử lý vi phạm hành chính:\na) Cơ quan quy định tại Khoản\n1 Điều này trong thời hạn 02 (hai) ngày làm việc, kể từ ngày ban hành Quyết định xử phạt vi phạm hành chính hoặc Quyết định áp dụng biện pháp xử lý hành chính phải cung cấp thông tin cho bộ phận tiếp nhận, cập nhật thông tin của cơ quan để kiểm tra, phân loại. Tại vùng sâu, vùng xa, biên giới, miền núi mà việc đi lại gặp khó khăn, hoặc trường hợp xử phạt trên biển hoặc ngoài giờ hành chính, người có thẩm quyền xử phạt có trách nhiệm cung cấp thông tin cho bộ phận tiếp nhận, cập nhật thông tin của cơ quan trong thời hạn 02 (hai) ngày làm việc, kể từ ngày nộp tiền phạt đã thu được tại Kho bạc Nhà nước hoặc nộp vào tài Khoản của Kho bạc Nhà nước;\nb) Bộ phận tiếp nhận, cập nhật\nthông tin thực hiện kiểm tra thông tin về xử lý vi phạm hành chính trên cơ sở bảo đảm tính chính xác, toàn vẹn của văn bản, tài liệu được chuyển giao và thuộc trách nhiệm để tránh việc cập nhật thông tin, văn bản trùng lặp. Trong trường hợp thông tin còn thiếu hoặc chưa rõ ràng thì đề nghị cơ quan đã cung cấp thông tin quy định tại Điểm a Khoản 3 Điều này bổ sung hoặc làm rõ thông tin.\n4. Việc nhập mới thông tin về\nxử lý vi phạm hành chính vào Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính thực hiện như sau:\na) Bộ phận tiếp nhận, cập nhật thông tin của cơ\nquan quy định tại Khoản 2 Điều này, trong thời hạn 01 (một) ngày làm việc, kể từ ngày nhận được Quyết định xử phạt vi phạm hành chính hoặc Quyết định áp dụng biện pháp xử lý hành chính thực hiện số hóa các thông tin đầu vào theo các biểu mẫu nhập tin và nhập mới thông tin quy định tại Khoản 1; các Điểm a, b, c, d, đ và h Khoản 3; các Điểm a, b, c, d, đ và h Khoản 4 Điều 9 Nghị định này vào Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính;\nb) Kiểm tra lại các nội dung quy định tại Điểm a\nKhoản này trước khi duyệt thông tin vào Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính.\n5. Việc cập nhật thông tin về\nxử lý vi phạm hành chính vào Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính thực hiện như sau:\na) Bộ phận tiếp nhận, cập nhật thông tin của cơ\nquan quy định tại Khoản 2 Điều này, trong thời hạn 01 (một) ngày làm việc, kể từ ngày nhận được thông tin quy định tại Khoản 2; các Điểm e, g và i Khoản 3; các Điểm e, g và i Khoản 4 Điều 9 Nghị định này phải thực hiện số hóa các thông tin đầu vào theo các biểu mẫu nhập tin và cập nhật thông tin vào Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính;\nb) Kiểm tra lại các nội dung quy định tại Điểm a\nKhoản này trước khi duyệt thông tin vào Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính.\n6. Bộ trưởng Bộ Tư pháp quy định\ncụ thể quy trình cung cấp, tiếp nhận, cập nhật thông tin vào Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính.\nĐiều 11. Đính chính, bổ sung, hiệu chỉnh thông tin trong Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính\n1. Dữ liệu trong Cơ sở dữ\nliệu quốc gia về xử lý vi phạm hành chính được đính chính, bổ sung khi phát hiện có sai sót, nhầm lẫn hoặc còn thiếu. Thủ trưởng cơ quan quy định tại Khoản 1 Điều 10 Nghị định này quyết định việc đính chính hoặc bổ sung thông tin do cơ quan mình cung cấp trong Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính.\n2. Dữ liệu trong Cơ sở dữ\nliệu quốc gia về xử lý vi phạm hành chính được hiệu chỉnh khi có căn cứ để xác định có sự sai lệch về nội dung giữa dữ liệu điện tử về xử lý vi phạm hành chính và hồ sơ, tài liệu về xử lý vi phạm hành chính đang được lưu trữ theo quy định của pháp luật về lưu trữ. Cơ quan quy định tại Khoản 1 Điều 10 Nghị định này phải tiến hành truy nguyên thông tin gốc trên tài liệu lưu trữ để xác định thông tin chính xác và tự mình hoặc đề nghị cơ quan chủ quản Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính tiến hành hiệu chỉnh theo quy định.\nĐiều 12. Lưu dữ liệu điện tử về xử lý vi phạm hành chính Dữ liệu điện tử về xử lý vi phạm hành chính được lưu giữ lâu dài trừ những thông tin về đối tượng bị xử lý vi phạm hành chính quy định tại Điểm a các Khoản 1, 3 và 4 Điều 9 Nghị định này mà đã qua thời hạn được coi là chưa bị xử lý vi phạm hành chính theo quy định tại Điều 7 và Điều 137 Luật Xử lý vi phạm hành chính.\nĐiều 13. Bảo đảm an toàn Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính\n1. Sử dụng kênh mã hóa và xác thực người dùng cho\ncác hoạt động sau: đăng nhập quản trị hệ thống, đăng nhập vào các ứng dụng, gửi nhận dữ liệu tự động giữa các máy chủ, nhập và biên tập dữ liệu.\n2. Mã hóa và bảo mật đường truyền, thông tin trong\nCơ sở dữ liệu quốc gia về xử lý vi phạm hành chính.\n3. Áp dụng các biện pháp bảo đảm tính xác thực và bảo\nvệ sự toàn vẹn của dữ liệu trong Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính.\n4. Thực hiện lưu vết việc tạo, thay đổi, xóa thông\ntin dữ liệu để phục vụ cho việc quản lý, giám sát hệ thống.\n5. Thực hiện các biện pháp cần thiết khác để bảo đảm\nan toàn cho Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính.\nĐiều 14. Quản lý tài Khoản quản trị Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính Bộ Tư pháp thực hiện việc quản lý tài Khoản quản trị Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính như sau:\n1. Cấp, thu hồi tài Khoản quản trị Cơ sở dữ liệu quốc\ngia về xử lý vi phạm hành chính.\n2. Giới hạn, rà soát, kiểm tra quyền quản trị Cơ sở\ndữ liệu quốc gia về xử lý vi phạm hành chính của cơ quan hoặc người được phân quyền.\nĐiều 15. Duy trì và nâng cấp, phát triển Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính\n1. Bộ Tư pháp thực hiện việc duy trì Cơ sở dữ liệu\nquốc gia về xử lý vi phạm hành chính như sau:\na) Bảo đảm hệ thống cơ sở hạ tầng kỹ thuật và môi\ntrường cho việc cài đặt, vận hành Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính;\nb) Thực hiện các biện pháp bảo đảm an toàn vật lý\nvà môi trường tại Trung tâm dữ liệu điện tử của Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính;\nc) Thực hiện các biện pháp sao lưu, dự phòng để bảo\nđảm khả năng khắc phục sự cố, phục hồi dữ liệu khi xảy ra sự cố do thiên tai hoặc bị làm sai lệch, thay đổi, xóa, hủy dữ liệu trái phép;\nd) Thực hiện các biện pháp bảo trì, bảo dưỡng, sửa\nchữa để bảo đảm Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính hoạt động liên tục 24 giờ trong tất cả các ngày.\n2. Bộ Tư pháp định kỳ thực hiện rà soát, đề xuất\nphương án nâng cấp, phát triển hạ tầng kỹ thuật và phần mềm của Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính cho phù hợp với yêu cầu thực tế.\nMục 2. KHAI THÁC VÀ SỬ DỤNG CƠ SỞ\nDỮ LIỆU QUỐC GIA VỀ XỬ LÝ VI PHẠM HÀNH CHÍNH\nĐiều 16. Khai thác và sử dụng Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính\n1. Các hình thức khai thác và sử dụng Cơ sở dữ liệu\nquốc gia về xử lý vi phạm hành chính bao gồm:\na) Kết nối qua mạng máy tính với Cơ sở dữ liệu quốc\ngia về xử lý vi phạm hành chính;\nb) Tra cứu thông tin trực tuyến trên cổng thông tin\nđiện tử do Bộ Tư pháp quy định;\nc) Văn bản yêu cầu.\n2. Đối tượng được khai thác và sử dụng Cơ sở dữ liệu\nquốc gia về xử lý vi phạm hành chính bao gồm:\na) Các đối tượng quy định tại Điều 2 Nghị định này;\nb) Các cơ quan nhà nước, cán bộ, công chức, viên chức\nkhác có liên quan trực tiếp đến công tác xử lý vi phạm hành chính;\nc) Các cơ quan quyền lực nhà nước thực hiện chức\nnăng giám sát công tác xử lý vi phạm hành chính có quyền yêu cầu và được cung cấp thông tin để phục vụ hoạt động giám sát theo quy định của pháp luật;\nd) Tổ chức bị xử phạt, cá\nnhân bị xử lý vi phạm hành chính được cung cấp thông tin về việc xử lý vi phạm hành chính của mình khi có đơn đề nghị và phải trả phí theo quy định.\n3. Bộ trưởng Bộ Tư pháp quy định cụ thể việc khai\nthác và sử dụng Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính.\nĐiều 17. Kết nối với các cơ sở dữ liệu quốc gia khác Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính được kết nối với:\n1. Cơ sở dữ liệu quốc gia về dân cư theo hướng dẫn\ncủa cơ quan chủ quản để sử dụng thông tin gốc về công dân.\n2. Cơ sở dữ liệu quốc gia về đăng ký doanh nghiệp\ntheo hướng dẫn của cơ quan chủ quản để sử dụng thông tin cơ bản về doanh nghiệp.\n3. Cơ sở dữ liệu quốc gia về pháp luật để sử dụng thông\ntin của văn bản quy phạm pháp luật về xử lý vi phạm hành chính.\nĐiều 18. Kết nối, tích hợp dữ liệu và truy cập thông tin trong Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính\n1. Nguyên tắc kết nối, tích hợp dữ liệu và truy cập\nthông tin trong Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính:\na) Cơ quan quản lý Cơ sở dữ liệu quốc gia về xử lý\nvi phạm hành chính chỉ cho phép truy cập thông tin với cơ sở dữ liệu chuyên ngành đã kết nối với Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính để thực hiện chức năng, nhiệm vụ, quyền hạn được giao;\nb) Các cơ sở dữ liệu chuyên ngành khác có sử dụng dữ\nliệu về xử lý vi phạm hành chính khi nâng cấp hoặc xây dựng mới phải bảo đảm khả năng kết nối và tích hợp dữ liệu với Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính;\nc) Việc kết nối, tích hợp dữ liệu, truy cập thông\ntin trong Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính thực hiện theo tiêu chuẩn kỹ thuật về ứng dụng công nghệ thông tin trong cơ quan nhà nước.\n2. Thủ tục kết nối, tích hợp dữ liệu, truy cập\nthông tin trong Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính:\na) Thủ trưởng cơ quan quản lý cơ sở dữ liệu chuyên\nngành gửi văn bản đề nghị kết nối, tích hợp dữ liệu, truy cập thông tin trong Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính tới Bộ Tư pháp. Trong văn bản nêu rõ chức năng, nhiệm vụ, quyền hạn được giao, phạm vi, phương thức kết nối, tích hợp dữ liệu, Mục đích và số lượng trường thông tin cần được truy cập;\nb) Bộ trưởng Bộ Tư pháp quyết định phương thức kết\nnối, tích hợp dữ liệu và số lượng trường thông tin chia sẻ giữa Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính với cơ sở dữ liệu chuyên ngành phù hợp với phạm vi chức năng, nhiệm vụ, quyền hạn của cơ quan quản lý cơ sở dữ liệu chuyên ngành.\nChương III\nTRÁCH NHIỆM TRONG XÂY DỰNG,\nQUẢN LÝ, KHAI THÁC VÀ SỬ DỤNG CƠ SỞ DỮ LIỆU QUỐC GIA VỀ XỬ LÝ VI PHẠM HÀNH\nCHÍNH\nĐiều 19. Trách nhiệm của Bộ Tư pháp trong xây dựng, quản lý, khai thác và sử dụng Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính\n1. Bộ Tư pháp chịu trách nhiệm trước Chính phủ\ntrong xây dựng, quản lý, khai thác và sử dụng Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính, có các nhiệm vụ, quyền hạn sau đây:\na) Trình Chính phủ ban hành hoặc ban hành theo thẩm\nquyền các văn bản quy phạm pháp luật về Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính;\nb) Xây dựng, quản lý và duy trì Cơ sở dữ liệu quốc\ngia về xử lý vi phạm hành chính, bảo đảm các Điều kiện về cơ sở hạ tầng kỹ thuật để Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính vận hành ổn định và liên tục;\nc) Xây dựng và trình Thủ tướng Chính phủ xem xét,\nphê duyệt hoặc phê duyệt theo thẩm quyền việc mở rộng, nâng cấp, phát triển Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính;\nd) Hướng dẫn thống nhất quy trình cung cấp, tiếp nhận,\ncập nhật thông tin, khai thác và sử dụng Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính;\nđ) Bố trí đầy đủ cơ sở vật chất, nhân lực cho việc\nxây dựng, quản lý và duy trì Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính;\ne) Tập huấn, hướng dẫn cho cán bộ, công chức thuộc\ncơ quan quy định tại Khoản 1 Điều 10 Nghị định này về kỹ năng cập nhật thông tin và khai thác, sử dụng Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính; tập huấn, hướng dẫn cho cán bộ, công chức thuộc cơ quan quy định tại các Khoản 6 và 7 Điều 2 Nghị định này về kỹ năng khai thác, sử dụng Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính;\ng) Chủ trì, phối hợp với Bộ Thông tin và Truyền\nthông xây dựng, ban hành theo thẩm quyền quy chuẩn kỹ thuật Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính;\nh) Thực hiện các nhiệm vụ khác do Chính phủ giao.\n2. Cơ quan quản lý Cơ sở dữ liệu quốc gia về xử lý\nvi phạm hành chính thuộc Bộ Tư pháp có trách nhiệm chủ trì, phối hợp với các cơ quan, đơn vị có liên quan giúp Bộ trưởng Bộ Tư pháp thực hiện các nhiệm vụ, quyền hạn quy định tại Khoản 1 Điều này.\nĐiều 20. Trách nhiệm của các Bộ, cơ quan ngang Bộ trong xây dựng, quản lý, khai thác và sử dụng Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính\n1. Các Bộ, cơ quan ngang Bộ trong phạm vi chức\nnăng, nhiệm vụ của mình có các nhiệm vụ, quyền hạn sau đây:\na) Chỉ đạo tổ chức việc cập nhật thông tin và chịu\ntrách nhiệm về độ chính xác, toàn vẹn các thông tin, dữ liệu; bảo đảm kết nối an toàn, tích hợp dữ liệu với Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính do Bộ Tư pháp xây dựng và quản lý;\nb) Chủ trì hoặc phối hợp với Bộ Tư pháp tập huấn, bồi\ndưỡng nghiệp vụ cho cán bộ, công chức thuộc cơ quan quy định tại Khoản 1 Điều 10 Nghị định này trong phạm vi quản lý ngành, lĩnh vực kỹ năng thực hiện việc cung cấp, tiếp nhận, cập nhật thông tin và các cán bộ, công chức thuộc cơ quan quy định tại các Khoản 6 và 7 Điều 2 Nghị định này kỹ năng khai thác, sử dụng Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính;\nc) Bố trí đầy đủ cơ sở vật chất, nhân lực đảm bảo\ncho việc phối hợp xây dựng, quản lý và duy trì Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính;\nd) Bảo đảm an toàn tài Khoản quản trị Cơ sở dữ liệu\nquốc gia về xử lý vi phạm hành chính được cấp.\n2. Bộ Tài chính có trách nhiệm bảo đảm kinh phí thực\nhiện việc cập nhật thông tin, đào tạo sử dụng và duy trì, vận hành hệ thống Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính tại các Bộ, cơ quan ngang Bộ.\n3. Bộ Kế hoạch và Đầu tư có trách nhiệm bố trí nguồn\nvốn đầu tư từ nguồn ngân sách nhà nước để xây dựng, mở rộng và nâng cấp Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính; phối hợp với Bộ Tư pháp để thực hiện việc kết nối giữa Cơ sở dữ liệu quốc gia về đăng ký doanh nghiệp với Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính.\n4. Bộ Công an có trách nhiệm phối hợp với Bộ Tư pháp\nđể thực hiện việc kết nối giữa Cơ sở dữ liệu quốc gia về dân cư với Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính.\n5. Bộ Thông tin và Truyền thông có trách nhiệm xây\ndựng hệ thống thông tin đầu mối kết nối, hỗ trợ truy nhập vào Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính.\nĐiều 21. Trách nhiệm của Tòa án nhân dân tối cao trong xây dựng, quản lý, khai thác và sử dụng Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính theo quy định của Luật Xử lý vi phạm hành chính Đề nghị Tòa án nhân dân tối cao trong phạm vi nhiệm vụ, quyền hạn của mình:\n1. Cung cấp thông tin về công tác xử lý vi phạm\nhành chính theo quy định tại Khoản 4 Điều 17 Luật Xử lý vi phạm hành chính.\n2. Chỉ đạo Tòa án nhân dân các cấp cung cấp thông\ntin về xử lý vi phạm hành chính theo quy định tại Khoản 6 Điều 17 Luật Xử lý vi phạm hành chính.\n3. Chỉ đạo tổ chức việc cập nhật thông tin và bảo đảm\ntính chính xác, toàn vẹn các thông tin, dữ liệu; bảo đảm kết nối an toàn, tích hợp dữ liệu với Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính.\n4. Bảo đảm an toàn tài Khoản quản trị Cơ sở dữ liệu\nquốc gia về xử lý vi phạm hành chính được cấp.\n5. Chủ trì, phối hợp với Chính phủ ban hành văn bản\nquy phạm pháp luật quy định về việc quản lý, khai thác và sử dụng Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính theo thẩm quyền.\nĐiều 22. Trách nhiệm của Ủy ban nhân dân cấp tỉnh trong xây dựng, quản lý, khai thác và sử dụng Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính Ủy ban nhân dân cấp tỉnh trong phạm vi chức năng, nhiệm vụ của mình có các nhiệm vụ, quyền hạn sau đây:\n1. Chỉ đạo tổ chức việc cập nhật thông tin và chịu\ntrách nhiệm về độ chính xác, toàn vẹn các thông tin, dữ liệu; bảo đảm kết nối an toàn, tích hợp dữ liệu với Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính.\n2. Chủ trì hoặc phối hợp với Bộ Tư pháp tập huấn, bồi\ndưỡng nghiệp vụ cho cán bộ, công chức của các cơ quan quy định tại Khoản 1 Điều 10 Nghị định này trong phạm vi địa phương kỹ năng thực hiện việc cung cấp, tiếp nhận, cập nhật thông tin và các cán bộ, công chức thuộc cơ quan quy định tại các Khoản 6 và 7 Điều 2 Nghị định này trên địa bàn kỹ năng khai thác, sử dụng Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính.\n3. Bảo đảm an toàn tài Khoản quản trị Cơ sở dữ liệu\nquốc gia về xử lý vi phạm hành chính được cấp.\n4. Bố trí kinh phí thường xuyên cho hoạt động, đầu\ntư cơ sở vật chất, nhân lực đảm bảo cho việc phối hợp xây dựng, quản lý và duy trì Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính.\n5. Bảo đảm kinh phí thực hiện việc cập nhật thông\ntin, đào tạo sử dụng và duy trì, vận hành hệ thống Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính tại các cơ quan, đơn vị trong phạm vi địa phương thuộc thẩm quyền quản lý của mình.\nĐiều 23. Trách nhiệm của cơ quan nhà nước, cá nhân trong cung cấp, cập nhật thông tin cho Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính\n1. Thực hiện đúng các quy định của Nghị định này và\nhướng dẫn của Bộ trưởng Bộ Tư pháp trong việc cung cấp, tiếp nhận và cập nhật thông tin cho Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính.\n2. Bảo đảm tính đầy đủ, chính xác, kịp thời của\nthông tin do mình cập nhật; kịp thời đính chính, bổ sung thông tin trong Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính theo quy định tại Điều 9, Điều 10 và Điều 11 Nghị định này.\nĐiều 24. Trách nhiệm của cơ quan, tổ chức, cá nhân trong việc khai thác và sử dụng Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính\n1. Thực hiện đúng các quy định của Nghị định này và\nhướng dẫn của Bộ trưởng Bộ Tư pháp trong việc khai thác và sử dụng Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính.\n2. Sử dụng thông tin từ Cơ sở dữ liệu quốc gia về xử\nlý vi phạm hành chính đúng Mục đích, phục vụ công tác quản lý nhà nước về xử lý vi phạm hành chính và đấu tranh phòng, chống vi phạm pháp luật.\nChương IV\nĐIỀU KHOẢN THI HÀNH\nĐiều 25. Hiệu lực thi hành Nghị định này có hiệu lực thi hành kể từ ngày 15 tháng 5 năm 2016.\nĐiều 26. Trách nhiệm thi hành\n1. Bộ trưởng Bộ Tư pháp trong phạm vi chức năng,\nnhiệm vụ, quyền hạn được giao có trách nhiệm tổ chức thực hiện; hướng dẫn, kiểm tra, đôn đốc việc thi hành Nghị định này.\n2. Các Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ\ntrưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương và các cơ quan liên quan chịu trách nhiệm thi hành Nghị định này./.\nNơi nhận:\n- Ban Bí thư Trung ương Đảng;\n- Thủ tướng, các Phó Thủ tướng Chính phủ;\n- Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ;\n- HĐND, UBND các tỉnh, thành phố trực thuộc Trung ương;\n- Văn phòng Trung ương và các Ban của Đảng;\n- Văn phòng Tổng Bí thư;\n- Văn phòng Chủ tịch nước;\n- Hội đồng Dân tộc và các Ủy ban của Quốc hội;\n- Văn phòng Quốc hội;\n- Tòa án nhân dân tối cao;\n- Viện Kiểm sát nhân dân tối cao;\n- Ủy ban Giám sát tài chính Quốc gia;\n- Kiểm toán Nhà nước;\n- Ngân hàng Chính sách xã hội;\n- Ngân hàng Phát triển Việt Nam;\n- Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam;\n- Cơ quan Trung ương của các đoàn thể;\n- VPCP: BTCN, các PCN, Trợ lý TTg, TGĐ Cổng TTĐT, các Vụ, Cục, đơn vị trực\nthuộc, Công báo;\n- Lưu: VT, PL (3b). M\nTM. CHÍNH PHỦ\nTHỦ TƯỚNG\nNguyễn Tấn Dũng",
+  "tree": {
+    "parts": [
+      {
+        "part_id": "doc:70938:part:1",
+        "part_type": "main",
+        "part_title": null,
+        "reference": null,
+        "direct_text": "NGHỊ ĐỊNH QUY\nĐỊNH CƠ SỞ DỮ LIỆU QUỐC GIA VỀ XỬ LÝ VI PHẠM HÀNH CHÍNH\nCăn cứ Luật Tổ chức Chính phủ ngày 19 tháng 6 năm 2015; Căn cứ Luật Xử lý vi phạm hành chính ngày 20 tháng 6 năm 2012; Căn cứ Luật Công nghệ thông tin ngày 29 tháng 6 năm 2006; Theo đề nghị của Bộ trưởng Bộ Tư pháp, Chính phủ ban hành Nghị định quy định Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính.",
+        "chapters": [
+          {
+            "chapter_id": "doc:70938:part:1:chapter:1",
+            "number": "I",
+            "title": "NHỮNG QUY ĐỊNH CHUNG",
+            "content": "Chương I\nNHỮNG QUY ĐỊNH CHUNG",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:70938:part:1:article:1",
+                "number": "1",
+                "title": "Phạm vi Điều chỉnh Nghị định này quy định về xây dựng, quản lý, khai thác và sử dụng Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính; trách nhiệm của các Bộ, cơ quan ngang Bộ, Tòa án nhân dân tối cao, Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương (sau đây gọi tắt là Ủy ban nhân dân cấp tỉnh), các tổ chức, cá nhân trong việc xây dựng, quản lý, khai thác và sử dụng Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính.",
+                "content": "Điều 1. Phạm vi Điều chỉnh Nghị định này quy định về xây dựng, quản lý, khai thác và sử dụng Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính; trách nhiệm của các Bộ, cơ quan ngang Bộ, Tòa án nhân dân tối cao, Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương (sau đây gọi tắt là Ủy ban nhân dân cấp tỉnh), các tổ chức, cá nhân trong việc xây dựng, quản lý, khai thác và sử dụng Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính.",
+                "clauses": [],
+                "points": []
+              },
+              {
+                "article_id": "doc:70938:part:1:article:2",
+                "number": "2",
+                "title": "Đối tượng áp dụng Nghị định này áp dụng đối với:",
+                "content": "Điều 2. Đối tượng áp dụng Nghị định này áp dụng đối với:",
+                "clauses": [
+                  {
+                    "clause_id": "doc:70938:part:1:article:2:clause:1",
+                    "number": "1",
+                    "content": "1. Cơ quan, người có thẩm quyền xử phạt vi phạm\nhành chính.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:70938:part:1:article:2:clause:2",
+                    "number": "2",
+                    "content": "2. Cơ quan thi hành quyết định xử phạt vi phạm hành\nchính.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:70938:part:1:article:2:clause:3",
+                    "number": "3",
+                    "content": "3. Cơ quan thi hành quyết định cưỡng chế thi hành\nquyết định xử phạt vi phạm hành chính.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:70938:part:1:article:2:clause:4",
+                    "number": "4",
+                    "content": "4. Cơ quan, người có thẩm quyền quyết định áp dụng\nbiện pháp xử lý hành chính.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:70938:part:1:article:2:clause:5",
+                    "number": "5",
+                    "content": "5. Cơ quan thi hành quyết định áp dụng các biện\npháp xử lý hành chính.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:70938:part:1:article:2:clause:6",
+                    "number": "6",
+                    "content": "6. Cơ quan quản lý nhà nước về xử lý vi phạm hành\nchính.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:70938:part:1:article:2:clause:7",
+                    "number": "7",
+                    "content": "7. Các cơ quan nhà nước, cán bộ, công chức, viên chức\nkhác có liên quan đến việc xây dựng, quản lý, khai thác và sử dụng Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:70938:part:1:article:3",
+                "number": "3",
+                "title": "Giải thích từ ngữ Trong Nghị định này, các từ ngữ dưới đây được hiểu như sau:",
+                "content": "Điều 3. Giải thích từ ngữ Trong Nghị định này, các từ ngữ dưới đây được hiểu như sau:",
+                "clauses": [
+                  {
+                    "clause_id": "doc:70938:part:1:article:3:clause:1",
+                    "number": "1",
+                    "content": "1. Tài liệu về xử lý vi phạm hành chính là các văn\nbản, giấy tờ, bản ảnh, hình ảnh, phiếu in, chỉ số đo, dữ liệu lưu trong bộ nhớ của các phương tiện, thiết bị kỹ thuật nghiệp vụ chứa đựng thông tin về vụ việc xử phạt vi phạm hành chính hoặc áp dụng biện pháp xử lý hành chính.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:70938:part:1:article:3:clause:2",
+                    "number": "2",
+                    "content": "2. Dữ liệu điện tử về xử lý vi phạm hành chính là\nnhững thông tin trong tài liệu về xử lý vi phạm hành chính được số hóa.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:70938:part:1:article:3:clause:3",
+                    "number": "3",
+                    "content": "3. Cơ sở dữ liệu quốc gia về xử lý vi phạm hành\nchính là tập hợp dữ liệu về xử lý vi phạm hành chính được xây dựng, cập nhật, duy trì, khai thác và sử dụng thông qua phương tiện điện tử nhằm phục vụ công tác quản lý nhà nước về xử lý vi phạm hành chính và đấu tranh phòng, chống vi phạm pháp luật.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:70938:part:1:article:4",
+                "number": "4",
+                "title": "Nguyên tắc xây dựng, quản lý, khai thác và sử dụng Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính",
+                "content": "Điều 4. Nguyên tắc xây dựng, quản lý, khai thác và sử dụng Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính",
+                "clauses": [
+                  {
+                    "clause_id": "doc:70938:part:1:article:4:clause:1",
+                    "number": "1",
+                    "content": "1. Tuân thủ quy định của Luật Xử lý vi phạm hành chính, Luật Công nghệ thông tin và Nghị định này.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:70938:part:1:article:4:clause:2",
+                    "number": "2",
+                    "content": "2. Bảo đảm chính xác, đầy đủ, kịp thời.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:70938:part:1:article:4:clause:3",
+                    "number": "3",
+                    "content": "3. Phân định rõ ràng quyền hạn, trách nhiệm theo chức\nnăng, nhiệm vụ của cơ quan, người có thẩm quyền.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:70938:part:1:article:4:clause:4",
+                    "number": "4",
+                    "content": "4. Khai thác, sử dụng đúng Mục đích, bảo đảm bí mật\nthông tin của tổ chức bị xử phạt, cá nhân bị xử lý vi phạm hành chính.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:70938:part:1:article:4:clause:5",
+                    "number": "5",
+                    "content": "5. Quản lý chặt chẽ, bảo đảm an toàn, an ninh thông\ntin.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:70938:part:1:article:5",
+                "number": "5",
+                "title": "Kinh phí bảo đảm cho việc xây dựng, quản lý Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính",
+                "content": "Điều 5. Kinh phí bảo đảm cho việc xây dựng, quản lý Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính",
+                "clauses": [
+                  {
+                    "clause_id": "doc:70938:part:1:article:5:clause:1",
+                    "number": "1",
+                    "content": "1. Kinh phí đầu tư xây dựng, mở rộng và nâng cấp Cơ\nsở dữ liệu quốc gia về xử lý vi phạm hành chính được bảo đảm từ nguồn kinh phí chi sự nghiệp, nguồn kinh phí chi đầu tư phát triển và các nguồn vốn nhà nước hợp pháp khác.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:70938:part:1:article:5:clause:2",
+                    "number": "2",
+                    "content": "2. Kinh phí giao cho các Bộ, cơ quan ngang Bộ và Ủy\nban nhân dân cấp tỉnh thực hiện việc quản lý, cập nhật thông tin, đào tạo sử dụng và duy trì, vận hành hệ thống Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính do ngân sách nhà nước bảo đảm theo phân cấp hằng năm.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:70938:part:1:article:6",
+                "number": "6",
+                "title": "Những hành vi bị nghiêm cấm",
+                "content": "Điều 6. Những hành vi bị nghiêm cấm",
+                "clauses": [
+                  {
+                    "clause_id": "doc:70938:part:1:article:6:clause:1",
+                    "number": "1",
+                    "content": "1. Truy cập trái phép vào Cơ sở dữ liệu quốc gia về\nxử lý vi phạm hành chính.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:70938:part:1:article:6:clause:2",
+                    "number": "2",
+                    "content": "2. Cản trở hoặc ngăn chặn trái phép quá trình truyền,\ngửi, nhận dữ liệu.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:70938:part:1:article:6:clause:3",
+                    "number": "3",
+                    "content": "3. Làm sai lệch hoặc thay đổi, xóa, hủy dữ liệu\ntrái phép.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:70938:part:1:article:6:clause:4",
+                    "number": "4",
+                    "content": "4. Cung cấp thông tin trái pháp luật hoặc lợi dụng\nviệc cung cấp thông tin về xử lý vi phạm hành chính để trục lợi.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:70938:part:1:article:6:clause:5",
+                    "number": "5",
+                    "content": "5. Phá hoại cơ sở hạ tầng kỹ thuật, thông tin hoặc\nphát tán vi rút máy tính.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:70938:part:1:article:6:clause:6",
+                    "number": "6",
+                    "content": "6. Sử dụng thông tin khai thác từ Cơ sở dữ liệu quốc\ngia về xử lý vi phạm hành chính không đúng Mục đích.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:70938:part:1:article:7",
+                "number": "7",
+                "title": "Sử dụng thông tin trong Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính Thông tin trong Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính được sử dụng chính thức trong quản lý nhà nước về xử lý vi phạm hành chính và đấu tranh phòng, chống vi phạm pháp luật.",
+                "content": "Điều 7. Sử dụng thông tin trong Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính Thông tin trong Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính được sử dụng chính thức trong quản lý nhà nước về xử lý vi phạm hành chính và đấu tranh phòng, chống vi phạm pháp luật.",
+                "clauses": [],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:70938:part:1:chapter:2",
+            "number": "II",
+            "title": "XÂY DỰNG, QUẢN LÝ, KHAI THÁC VÀ SỬ DỤNG CƠ SỞ DỮ LIỆU QUỐC GIA VỀ XỬ LÝ VI PHẠM HÀNH CHÍNH",
+            "content": "Chương II\nXÂY DỰNG, QUẢN LÝ, KHAI\nTHÁC VÀ SỬ DỤNG CƠ SỞ DỮ LIỆU QUỐC GIA VỀ XỬ LÝ VI PHẠM HÀNH CHÍNH",
+            "sections": [
+              {
+                "section_id": "doc:70938:part:1:section:1",
+                "number": "1",
+                "title": "TRÌ CƠ SỞ DỮ LIỆU QUỐC GIA VỀ XỬ LÝ VI PHẠM HÀNH CHÍNH",
+                "content": "Mục 1. XÂY DỰNG, QUẢN LÝ VÀ DUY\nTRÌ CƠ SỞ DỮ LIỆU QUỐC GIA VỀ XỬ LÝ VI PHẠM HÀNH CHÍNH",
+                "articles": [
+                  {
+                    "article_id": "doc:70938:part:1:article:8",
+                    "number": "8",
+                    "title": "Xây dựng Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính",
+                    "content": "Điều 8. Xây dựng Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính",
+                    "clauses": [
+                      {
+                        "clause_id": "doc:70938:part:1:article:8:clause:1",
+                        "number": "1",
+                        "content": "1. Cơ sở dữ liệu quốc gia về xử lý vi phạm hành\nchính được xây dựng tập trung, thống nhất, dùng chung trên toàn quốc.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:70938:part:1:article:8:clause:2",
+                        "number": "2",
+                        "content": "2. Cơ sở dữ liệu quốc gia về xử lý vi phạm hành\nchính được xây dựng phù hợp với khung kiến trúc Chính phủ điện tử Việt Nam, đáp ứng quy chuẩn kỹ thuật cơ sở dữ liệu quốc gia, các tiêu chuẩn, quy chuẩn kỹ thuật công nghệ thông tin, an toàn, an ninh thông tin và định mức kinh tế - kỹ thuật.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:70938:part:1:article:8:clause:3",
+                        "number": "3",
+                        "content": "3. Thiết kế cấu trúc của Cơ sở dữ liệu quốc gia về\nxử lý vi phạm hành chính phải bảo đảm việc mở rộng và phát triển.",
+                        "points": []
+                      }
+                    ],
+                    "points": []
+                  },
+                  {
+                    "article_id": "doc:70938:part:1:article:9",
+                    "number": "9",
+                    "title": "Thông tin trong Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính",
+                    "content": "Điều 9. Thông tin trong Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính",
+                    "clauses": [
+                      {
+                        "clause_id": "doc:70938:part:1:article:9:clause:1",
+                        "number": "1",
+                        "content": "1. Thông tin về Quyết định xử phạt vi phạm hành chính:",
+                        "points": [
+                          {
+                            "point_id": "doc:70938:part:1:article:9:clause:1:point:1",
+                            "label": "a",
+                            "content": "a) Đối tượng bị xử phạt vi phạm hành chính:\nTrường hợp đối tượng vi phạm là cá nhân: Họ và tên; ngày, tháng, năm sinh; số định danh cá nhân hoặc số chứng minh nhân dân hoặc số chứng minh Công an nhân dân hoặc số chứng minh quân nhân hoặc số hộ chiếu (nếu có); giới tính. Trường hợp đối tượng vi phạm là tổ chức: Tên tổ chức; địa chỉ trụ sở; mã số (đối với doanh nghiệp) hoặc số Giấy chứng nhận đăng ký đầu tư/số Giấy chứng nhận đăng ký doanh nghiệp; số Giấy phép thành lập/số Đăng ký hoạt động (đối với tổ chức khác); họ và tên của người đại diện theo pháp luật hoặc chủ doanh nghiệp hoặc người đứng đầu tổ chức.",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:70938:part:1:article:9:clause:1:point:2",
+                            "label": "b",
+                            "content": "b) Số, ngày, tháng, năm ban hành Quyết định xử phạt\nvi phạm hành chính;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:70938:part:1:article:9:clause:1:point:3",
+                            "label": "c",
+                            "content": "c) Hành vi vi phạm; hình thức xử phạt, mức phạt; biện\npháp khắc phục hậu quả (nếu có);",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:70938:part:1:article:9:clause:1:point:4",
+                            "label": "d",
+                            "content": "d) Cơ quan của người có thẩm quyền xử phạt vi phạm\nhành chính; chức danh của người ra Quyết định xử phạt vi phạm hành chính.",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "clause_id": "doc:70938:part:1:article:9:clause:2",
+                        "number": "2",
+                        "content": "2. Thông tin về việc thi hành Quyết định xử phạt vi\nphạm hành chính, thi hành Quyết định áp dụng biện pháp khắc phục hậu quả (nếu có):",
+                        "points": [
+                          {
+                            "point_id": "doc:70938:part:1:article:9:clause:2:point:1",
+                            "label": "a",
+                            "content": "a) Hoãn thi hành quyết định phạt tiền; tạm đình chỉ\nthi hành Quyết định xử phạt vi phạm hành chính; đình chỉ thi hành các hình thức xử phạt hoặc sửa đổi, bổ sung hoặc hủy bỏ Quyết định xử phạt vi phạm hành chính (nếu có);",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:70938:part:1:article:9:clause:2:point:2",
+                            "label": "b",
+                            "content": "b) Giảm, miễn tiền phạt; nộp tiền phạt nhiều lần (số\ntiền đã nộp phạt, số tiền chưa nộp phạt (nếu có);",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:70938:part:1:article:9:clause:2:point:3",
+                            "label": "c",
+                            "content": "c) Cưỡng chế thi hành Quyết định xử phạt vi phạm\nhành chính (nếu có);",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:70938:part:1:article:9:clause:2:point:4",
+                            "label": "d",
+                            "content": "d) Thời Điểm chấp hành xong Quyết định xử phạt vi\nphạm hành chính;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:70938:part:1:article:9:clause:2:point:5",
+                            "label": "đ",
+                            "content": "đ) Khiếu nại, khởi kiện Quyết định xử phạt vi phạm\nhành chính (nếu có).",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "clause_id": "doc:70938:part:1:article:9:clause:3",
+                        "number": "3",
+                        "content": "3. Thông tin về việc áp dụng biện pháp xử lý hành\nchính:",
+                        "points": [
+                          {
+                            "point_id": "doc:70938:part:1:article:9:clause:3:point:1",
+                            "label": "a",
+                            "content": "a) Họ và tên người vi phạm; ngày, tháng, năm sinh;\nsố định danh cá nhân hoặc số chứng minh nhân dân hoặc số hộ chiếu (nếu có); giới tính;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:70938:part:1:article:9:clause:3:point:2",
+                            "label": "b",
+                            "content": "b) Số, ngày, tháng, năm ban hành Quyết định áp dụng\nbiện pháp xử lý hành chính;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:70938:part:1:article:9:clause:3:point:3",
+                            "label": "c",
+                            "content": "c) Hành vi vi phạm;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:70938:part:1:article:9:clause:3:point:4",
+                            "label": "d",
+                            "content": "d) Biện pháp xử lý hành chính bị áp dụng;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:70938:part:1:article:9:clause:3:point:5",
+                            "label": "đ",
+                            "content": "đ) Thời hạn áp dụng;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:70938:part:1:article:9:clause:3:point:6",
+                            "label": "e",
+                            "content": "e) Hoãn, miễn; giảm thời hạn, tạm đình chỉ hoặc miễn\nchấp hành phần thời gian còn lại tại trường giáo dưỡng, cơ sở giáo dục bắt buộc, cơ sở cai nghiện bắt buộc;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:70938:part:1:article:9:clause:3:point:7",
+                            "label": "g",
+                            "content": "g) Thời Điểm chấp hành xong quyết định áp dụng biện\npháp xử lý hành chính;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:70938:part:1:article:9:clause:3:point:8",
+                            "label": "h",
+                            "content": "h) Cơ quan hoặc cơ quan của người có thẩm quyền quyết\nđịnh áp dụng biện pháp xử lý hành chính;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:70938:part:1:article:9:clause:3:point:9",
+                            "label": "i",
+                            "content": "i) Khiếu nại, khởi kiện, kiến nghị, kháng nghị Quyết\nđịnh áp dụng biện pháp xử lý hành chính (nếu có).",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "clause_id": "doc:70938:part:1:article:9:clause:4",
+                        "number": "4",
+                        "content": "4. Thông tin về việc áp dụng biện pháp quản lý tại\ngia đình:",
+                        "points": [
+                          {
+                            "point_id": "doc:70938:part:1:article:9:clause:4:point:1",
+                            "label": "a",
+                            "content": "a) Họ và tên người chưa thành niên; ngày, tháng,\nnăm sinh; số định danh cá nhân hoặc số chứng minh nhân dân hoặc số hộ chiếu (nếu có); giới tính;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:70938:part:1:article:9:clause:4:point:2",
+                            "label": "b",
+                            "content": "b) Số, ngày, tháng, năm ban hành Quyết định áp dụng\nbiện pháp quản lý tại gia đình;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:70938:part:1:article:9:clause:4:point:3",
+                            "label": "c",
+                            "content": "c) Lý do áp dụng biện pháp quản lý tại gia đình;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:70938:part:1:article:9:clause:4:point:4",
+                            "label": "d",
+                            "content": "d) Thời hạn áp dụng, ngày thi hành Quyết định áp dụng\nbiện pháp quản lý tại gia đình;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:70938:part:1:article:9:clause:4:point:5",
+                            "label": "đ",
+                            "content": "đ) Tên tổ chức, cá nhân phối hợp giám sát;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:70938:part:1:article:9:clause:4:point:6",
+                            "label": "e",
+                            "content": "e) Thời Điểm chấm dứt áp dụng biện pháp quản lý tại\ngia đình (nếu có); lý do của việc chấm dứt; biện pháp xử lý tiếp theo;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:70938:part:1:article:9:clause:4:point:7",
+                            "label": "g",
+                            "content": "g) Thời Điểm chấp hành xong Quyết định áp dụng biện\npháp quản lý tại gia đình;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:70938:part:1:article:9:clause:4:point:8",
+                            "label": "h",
+                            "content": "h) Cơ quan của người có thẩm quyền quyết định áp dụng\nbiện pháp quản lý tại gia đình; chức danh của người ra Quyết định áp dụng biện pháp quản lý tại gia đình;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:70938:part:1:article:9:clause:4:point:9",
+                            "label": "i",
+                            "content": "i) Khiếu nại, khởi kiện Quyết định áp dụng biện\npháp quản lý tại gia đình (nếu có).",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ],
+                    "points": []
+                  },
+                  {
+                    "article_id": "doc:70938:part:1:article:10",
+                    "number": "10",
+                    "title": "Trách nhiệm cung cấp, tiếp nhận, cập nhật thông tin về xử lý vi phạm hành chính",
+                    "content": "Điều 10. Trách nhiệm cung cấp, tiếp nhận, cập nhật thông tin về xử lý vi phạm hành chính",
+                    "clauses": [
+                      {
+                        "clause_id": "doc:70938:part:1:article:10:clause:1",
+                        "number": "1",
+                        "content": "1. Cơ quan của người có thẩm\nquyền xử phạt vi phạm hành chính, cơ quan thi hành quyết định xử phạt, cơ quan thi hành quyết định cưỡng chế thi hành quyết định xử phạt, cơ quan quyết định áp dụng các biện pháp xử lý hành chính, cơ quan thi hành các quyết định áp dụng biện pháp xử lý hành chính có trách nhiệm cung cấp, cập nhật thông tin về xử lý vi phạm hành chính do mình thực hiện đến hệ thống Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:70938:part:1:article:10:clause:2",
+                        "number": "2",
+                        "content": "2. Căn cứ tình hình thực tế,\ncác cơ quan quy định tại Khoản 1 Điều này có trách nhiệm bố trí người hoặc tổ chức bộ phận tiếp nhận, cập nhật thông tin về xử lý vi phạm hành chính từ người có thẩm quyền xử lý vi phạm hành chính.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:70938:part:1:article:10:clause:3",
+                        "number": "3",
+                        "content": "3. Quy trình cung cấp, tiếp nhận\nthông tin về xử lý vi phạm hành chính:",
+                        "points": [
+                          {
+                            "point_id": "doc:70938:part:1:article:10:clause:3:point:1",
+                            "label": "a",
+                            "content": "a) Cơ quan quy định tại Khoản\n1 Điều này trong thời hạn 02 (hai) ngày làm việc, kể từ ngày ban hành Quyết định xử phạt vi phạm hành chính hoặc Quyết định áp dụng biện pháp xử lý hành chính phải cung cấp thông tin cho bộ phận tiếp nhận, cập nhật thông tin của cơ quan để kiểm tra, phân loại. Tại vùng sâu, vùng xa, biên giới, miền núi mà việc đi lại gặp khó khăn, hoặc trường hợp xử phạt trên biển hoặc ngoài giờ hành chính, người có thẩm quyền xử phạt có trách nhiệm cung cấp thông tin cho bộ phận tiếp nhận, cập nhật thông tin của cơ quan trong thời hạn 02 (hai) ngày làm việc, kể từ ngày nộp tiền phạt đã thu được tại Kho bạc Nhà nước hoặc nộp vào tài Khoản của Kho bạc Nhà nước;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:70938:part:1:article:10:clause:3:point:2",
+                            "label": "b",
+                            "content": "b) Bộ phận tiếp nhận, cập nhật\nthông tin thực hiện kiểm tra thông tin về xử lý vi phạm hành chính trên cơ sở bảo đảm tính chính xác, toàn vẹn của văn bản, tài liệu được chuyển giao và thuộc trách nhiệm để tránh việc cập nhật thông tin, văn bản trùng lặp. Trong trường hợp thông tin còn thiếu hoặc chưa rõ ràng thì đề nghị cơ quan đã cung cấp thông tin quy định tại Điểm a Khoản 3 Điều này bổ sung hoặc làm rõ thông tin.",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "clause_id": "doc:70938:part:1:article:10:clause:4",
+                        "number": "4",
+                        "content": "4. Việc nhập mới thông tin về\nxử lý vi phạm hành chính vào Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính thực hiện như sau:",
+                        "points": [
+                          {
+                            "point_id": "doc:70938:part:1:article:10:clause:4:point:1",
+                            "label": "a",
+                            "content": "a) Bộ phận tiếp nhận, cập nhật thông tin của cơ\nquan quy định tại Khoản 2 Điều này, trong thời hạn 01 (một) ngày làm việc, kể từ ngày nhận được Quyết định xử phạt vi phạm hành chính hoặc Quyết định áp dụng biện pháp xử lý hành chính thực hiện số hóa các thông tin đầu vào theo các biểu mẫu nhập tin và nhập mới thông tin quy định tại Khoản 1; các Điểm a, b, c, d, đ và h Khoản 3; các Điểm a, b, c, d, đ và h Khoản 4 Điều 9 Nghị định này vào Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:70938:part:1:article:10:clause:4:point:2",
+                            "label": "b",
+                            "content": "b) Kiểm tra lại các nội dung quy định tại Điểm a\nKhoản này trước khi duyệt thông tin vào Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính.",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "clause_id": "doc:70938:part:1:article:10:clause:5",
+                        "number": "5",
+                        "content": "5. Việc cập nhật thông tin về\nxử lý vi phạm hành chính vào Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính thực hiện như sau:",
+                        "points": [
+                          {
+                            "point_id": "doc:70938:part:1:article:10:clause:5:point:1",
+                            "label": "a",
+                            "content": "a) Bộ phận tiếp nhận, cập nhật thông tin của cơ\nquan quy định tại Khoản 2 Điều này, trong thời hạn 01 (một) ngày làm việc, kể từ ngày nhận được thông tin quy định tại Khoản 2; các Điểm e, g và i Khoản 3; các Điểm e, g và i Khoản 4 Điều 9 Nghị định này phải thực hiện số hóa các thông tin đầu vào theo các biểu mẫu nhập tin và cập nhật thông tin vào Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:70938:part:1:article:10:clause:5:point:2",
+                            "label": "b",
+                            "content": "b) Kiểm tra lại các nội dung quy định tại Điểm a\nKhoản này trước khi duyệt thông tin vào Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính.",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "clause_id": "doc:70938:part:1:article:10:clause:6",
+                        "number": "6",
+                        "content": "6. Bộ trưởng Bộ Tư pháp quy định\ncụ thể quy trình cung cấp, tiếp nhận, cập nhật thông tin vào Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính.",
+                        "points": []
+                      }
+                    ],
+                    "points": []
+                  },
+                  {
+                    "article_id": "doc:70938:part:1:article:11",
+                    "number": "11",
+                    "title": "Đính chính, bổ sung, hiệu chỉnh thông tin trong Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính",
+                    "content": "Điều 11. Đính chính, bổ sung, hiệu chỉnh thông tin trong Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính",
+                    "clauses": [
+                      {
+                        "clause_id": "doc:70938:part:1:article:11:clause:1",
+                        "number": "1",
+                        "content": "1. Dữ liệu trong Cơ sở dữ\nliệu quốc gia về xử lý vi phạm hành chính được đính chính, bổ sung khi phát hiện có sai sót, nhầm lẫn hoặc còn thiếu. Thủ trưởng cơ quan quy định tại Khoản 1 Điều 10 Nghị định này quyết định việc đính chính hoặc bổ sung thông tin do cơ quan mình cung cấp trong Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:70938:part:1:article:11:clause:2",
+                        "number": "2",
+                        "content": "2. Dữ liệu trong Cơ sở dữ\nliệu quốc gia về xử lý vi phạm hành chính được hiệu chỉnh khi có căn cứ để xác định có sự sai lệch về nội dung giữa dữ liệu điện tử về xử lý vi phạm hành chính và hồ sơ, tài liệu về xử lý vi phạm hành chính đang được lưu trữ theo quy định của pháp luật về lưu trữ. Cơ quan quy định tại Khoản 1 Điều 10 Nghị định này phải tiến hành truy nguyên thông tin gốc trên tài liệu lưu trữ để xác định thông tin chính xác và tự mình hoặc đề nghị cơ quan chủ quản Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính tiến hành hiệu chỉnh theo quy định.",
+                        "points": []
+                      }
+                    ],
+                    "points": []
+                  },
+                  {
+                    "article_id": "doc:70938:part:1:article:12",
+                    "number": "12",
+                    "title": "Lưu dữ liệu điện tử về xử lý vi phạm hành chính Dữ liệu điện tử về xử lý vi phạm hành chính được lưu giữ lâu dài trừ những thông tin về đối tượng bị xử lý vi phạm hành chính quy định tại Điểm a các Khoản 1, 3 và 4 Điều 9 Nghị định này mà đã qua thời hạn được coi là chưa bị xử lý vi phạm hành chính theo quy định tại Điều 7 và Điều 137 Luật Xử lý vi phạm hành chính.",
+                    "content": "Điều 12. Lưu dữ liệu điện tử về xử lý vi phạm hành chính Dữ liệu điện tử về xử lý vi phạm hành chính được lưu giữ lâu dài trừ những thông tin về đối tượng bị xử lý vi phạm hành chính quy định tại Điểm a các Khoản 1, 3 và 4 Điều 9 Nghị định này mà đã qua thời hạn được coi là chưa bị xử lý vi phạm hành chính theo quy định tại Điều 7 và Điều 137 Luật Xử lý vi phạm hành chính.",
+                    "clauses": [],
+                    "points": []
+                  },
+                  {
+                    "article_id": "doc:70938:part:1:article:13",
+                    "number": "13",
+                    "title": "Bảo đảm an toàn Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính",
+                    "content": "Điều 13. Bảo đảm an toàn Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính",
+                    "clauses": [
+                      {
+                        "clause_id": "doc:70938:part:1:article:13:clause:1",
+                        "number": "1",
+                        "content": "1. Sử dụng kênh mã hóa và xác thực người dùng cho\ncác hoạt động sau: đăng nhập quản trị hệ thống, đăng nhập vào các ứng dụng, gửi nhận dữ liệu tự động giữa các máy chủ, nhập và biên tập dữ liệu.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:70938:part:1:article:13:clause:2",
+                        "number": "2",
+                        "content": "2. Mã hóa và bảo mật đường truyền, thông tin trong\nCơ sở dữ liệu quốc gia về xử lý vi phạm hành chính.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:70938:part:1:article:13:clause:3",
+                        "number": "3",
+                        "content": "3. Áp dụng các biện pháp bảo đảm tính xác thực và bảo\nvệ sự toàn vẹn của dữ liệu trong Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:70938:part:1:article:13:clause:4",
+                        "number": "4",
+                        "content": "4. Thực hiện lưu vết việc tạo, thay đổi, xóa thông\ntin dữ liệu để phục vụ cho việc quản lý, giám sát hệ thống.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:70938:part:1:article:13:clause:5",
+                        "number": "5",
+                        "content": "5. Thực hiện các biện pháp cần thiết khác để bảo đảm\nan toàn cho Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính.",
+                        "points": []
+                      }
+                    ],
+                    "points": []
+                  },
+                  {
+                    "article_id": "doc:70938:part:1:article:14",
+                    "number": "14",
+                    "title": "Quản lý tài Khoản quản trị Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính Bộ Tư pháp thực hiện việc quản lý tài Khoản quản trị Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính như sau:",
+                    "content": "Điều 14. Quản lý tài Khoản quản trị Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính Bộ Tư pháp thực hiện việc quản lý tài Khoản quản trị Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính như sau:",
+                    "clauses": [
+                      {
+                        "clause_id": "doc:70938:part:1:article:14:clause:1",
+                        "number": "1",
+                        "content": "1. Cấp, thu hồi tài Khoản quản trị Cơ sở dữ liệu quốc\ngia về xử lý vi phạm hành chính.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:70938:part:1:article:14:clause:2",
+                        "number": "2",
+                        "content": "2. Giới hạn, rà soát, kiểm tra quyền quản trị Cơ sở\ndữ liệu quốc gia về xử lý vi phạm hành chính của cơ quan hoặc người được phân quyền.",
+                        "points": []
+                      }
+                    ],
+                    "points": []
+                  },
+                  {
+                    "article_id": "doc:70938:part:1:article:15",
+                    "number": "15",
+                    "title": "Duy trì và nâng cấp, phát triển Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính",
+                    "content": "Điều 15. Duy trì và nâng cấp, phát triển Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính",
+                    "clauses": [
+                      {
+                        "clause_id": "doc:70938:part:1:article:15:clause:1",
+                        "number": "1",
+                        "content": "1. Bộ Tư pháp thực hiện việc duy trì Cơ sở dữ liệu\nquốc gia về xử lý vi phạm hành chính như sau:",
+                        "points": [
+                          {
+                            "point_id": "doc:70938:part:1:article:15:clause:1:point:1",
+                            "label": "a",
+                            "content": "a) Bảo đảm hệ thống cơ sở hạ tầng kỹ thuật và môi\ntrường cho việc cài đặt, vận hành Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:70938:part:1:article:15:clause:1:point:2",
+                            "label": "b",
+                            "content": "b) Thực hiện các biện pháp bảo đảm an toàn vật lý\nvà môi trường tại Trung tâm dữ liệu điện tử của Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:70938:part:1:article:15:clause:1:point:3",
+                            "label": "c",
+                            "content": "c) Thực hiện các biện pháp sao lưu, dự phòng để bảo\nđảm khả năng khắc phục sự cố, phục hồi dữ liệu khi xảy ra sự cố do thiên tai hoặc bị làm sai lệch, thay đổi, xóa, hủy dữ liệu trái phép;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:70938:part:1:article:15:clause:1:point:4",
+                            "label": "d",
+                            "content": "d) Thực hiện các biện pháp bảo trì, bảo dưỡng, sửa\nchữa để bảo đảm Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính hoạt động liên tục 24 giờ trong tất cả các ngày.",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "clause_id": "doc:70938:part:1:article:15:clause:2",
+                        "number": "2",
+                        "content": "2. Bộ Tư pháp định kỳ thực hiện rà soát, đề xuất\nphương án nâng cấp, phát triển hạ tầng kỹ thuật và phần mềm của Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính cho phù hợp với yêu cầu thực tế.",
+                        "points": []
+                      }
+                    ],
+                    "points": []
+                  }
+                ]
+              },
+              {
+                "section_id": "doc:70938:part:1:section:2",
+                "number": "2",
+                "title": "DỮ LIỆU QUỐC GIA VỀ XỬ LÝ VI PHẠM HÀNH CHÍNH",
+                "content": "Mục 2. KHAI THÁC VÀ SỬ DỤNG CƠ SỞ\nDỮ LIỆU QUỐC GIA VỀ XỬ LÝ VI PHẠM HÀNH CHÍNH",
+                "articles": [
+                  {
+                    "article_id": "doc:70938:part:1:article:16",
+                    "number": "16",
+                    "title": "Khai thác và sử dụng Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính",
+                    "content": "Điều 16. Khai thác và sử dụng Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính",
+                    "clauses": [
+                      {
+                        "clause_id": "doc:70938:part:1:article:16:clause:1",
+                        "number": "1",
+                        "content": "1. Các hình thức khai thác và sử dụng Cơ sở dữ liệu\nquốc gia về xử lý vi phạm hành chính bao gồm:",
+                        "points": [
+                          {
+                            "point_id": "doc:70938:part:1:article:16:clause:1:point:1",
+                            "label": "a",
+                            "content": "a) Kết nối qua mạng máy tính với Cơ sở dữ liệu quốc\ngia về xử lý vi phạm hành chính;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:70938:part:1:article:16:clause:1:point:2",
+                            "label": "b",
+                            "content": "b) Tra cứu thông tin trực tuyến trên cổng thông tin\nđiện tử do Bộ Tư pháp quy định;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:70938:part:1:article:16:clause:1:point:3",
+                            "label": "c",
+                            "content": "c) Văn bản yêu cầu.",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "clause_id": "doc:70938:part:1:article:16:clause:2",
+                        "number": "2",
+                        "content": "2. Đối tượng được khai thác và sử dụng Cơ sở dữ liệu\nquốc gia về xử lý vi phạm hành chính bao gồm:",
+                        "points": [
+                          {
+                            "point_id": "doc:70938:part:1:article:16:clause:2:point:1",
+                            "label": "a",
+                            "content": "a) Các đối tượng quy định tại Điều 2 Nghị định này;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:70938:part:1:article:16:clause:2:point:2",
+                            "label": "b",
+                            "content": "b) Các cơ quan nhà nước, cán bộ, công chức, viên chức\nkhác có liên quan trực tiếp đến công tác xử lý vi phạm hành chính;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:70938:part:1:article:16:clause:2:point:3",
+                            "label": "c",
+                            "content": "c) Các cơ quan quyền lực nhà nước thực hiện chức\nnăng giám sát công tác xử lý vi phạm hành chính có quyền yêu cầu và được cung cấp thông tin để phục vụ hoạt động giám sát theo quy định của pháp luật;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:70938:part:1:article:16:clause:2:point:4",
+                            "label": "d",
+                            "content": "d) Tổ chức bị xử phạt, cá\nnhân bị xử lý vi phạm hành chính được cung cấp thông tin về việc xử lý vi phạm hành chính của mình khi có đơn đề nghị và phải trả phí theo quy định.",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "clause_id": "doc:70938:part:1:article:16:clause:3",
+                        "number": "3",
+                        "content": "3. Bộ trưởng Bộ Tư pháp quy định cụ thể việc khai\nthác và sử dụng Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính.",
+                        "points": []
+                      }
+                    ],
+                    "points": []
+                  },
+                  {
+                    "article_id": "doc:70938:part:1:article:17",
+                    "number": "17",
+                    "title": "Kết nối với các cơ sở dữ liệu quốc gia khác Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính được kết nối với:",
+                    "content": "Điều 17. Kết nối với các cơ sở dữ liệu quốc gia khác Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính được kết nối với:",
+                    "clauses": [
+                      {
+                        "clause_id": "doc:70938:part:1:article:17:clause:1",
+                        "number": "1",
+                        "content": "1. Cơ sở dữ liệu quốc gia về dân cư theo hướng dẫn\ncủa cơ quan chủ quản để sử dụng thông tin gốc về công dân.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:70938:part:1:article:17:clause:2",
+                        "number": "2",
+                        "content": "2. Cơ sở dữ liệu quốc gia về đăng ký doanh nghiệp\ntheo hướng dẫn của cơ quan chủ quản để sử dụng thông tin cơ bản về doanh nghiệp.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:70938:part:1:article:17:clause:3",
+                        "number": "3",
+                        "content": "3. Cơ sở dữ liệu quốc gia về pháp luật để sử dụng thông\ntin của văn bản quy phạm pháp luật về xử lý vi phạm hành chính.",
+                        "points": []
+                      }
+                    ],
+                    "points": []
+                  },
+                  {
+                    "article_id": "doc:70938:part:1:article:18",
+                    "number": "18",
+                    "title": "Kết nối, tích hợp dữ liệu và truy cập thông tin trong Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính",
+                    "content": "Điều 18. Kết nối, tích hợp dữ liệu và truy cập thông tin trong Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính",
+                    "clauses": [
+                      {
+                        "clause_id": "doc:70938:part:1:article:18:clause:1",
+                        "number": "1",
+                        "content": "1. Nguyên tắc kết nối, tích hợp dữ liệu và truy cập\nthông tin trong Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính:",
+                        "points": [
+                          {
+                            "point_id": "doc:70938:part:1:article:18:clause:1:point:1",
+                            "label": "a",
+                            "content": "a) Cơ quan quản lý Cơ sở dữ liệu quốc gia về xử lý\nvi phạm hành chính chỉ cho phép truy cập thông tin với cơ sở dữ liệu chuyên ngành đã kết nối với Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính để thực hiện chức năng, nhiệm vụ, quyền hạn được giao;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:70938:part:1:article:18:clause:1:point:2",
+                            "label": "b",
+                            "content": "b) Các cơ sở dữ liệu chuyên ngành khác có sử dụng dữ\nliệu về xử lý vi phạm hành chính khi nâng cấp hoặc xây dựng mới phải bảo đảm khả năng kết nối và tích hợp dữ liệu với Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:70938:part:1:article:18:clause:1:point:3",
+                            "label": "c",
+                            "content": "c) Việc kết nối, tích hợp dữ liệu, truy cập thông\ntin trong Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính thực hiện theo tiêu chuẩn kỹ thuật về ứng dụng công nghệ thông tin trong cơ quan nhà nước.",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "clause_id": "doc:70938:part:1:article:18:clause:2",
+                        "number": "2",
+                        "content": "2. Thủ tục kết nối, tích hợp dữ liệu, truy cập\nthông tin trong Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính:",
+                        "points": [
+                          {
+                            "point_id": "doc:70938:part:1:article:18:clause:2:point:1",
+                            "label": "a",
+                            "content": "a) Thủ trưởng cơ quan quản lý cơ sở dữ liệu chuyên\nngành gửi văn bản đề nghị kết nối, tích hợp dữ liệu, truy cập thông tin trong Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính tới Bộ Tư pháp. Trong văn bản nêu rõ chức năng, nhiệm vụ, quyền hạn được giao, phạm vi, phương thức kết nối, tích hợp dữ liệu, Mục đích và số lượng trường thông tin cần được truy cập;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:70938:part:1:article:18:clause:2:point:2",
+                            "label": "b",
+                            "content": "b) Bộ trưởng Bộ Tư pháp quyết định phương thức kết\nnối, tích hợp dữ liệu và số lượng trường thông tin chia sẻ giữa Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính với cơ sở dữ liệu chuyên ngành phù hợp với phạm vi chức năng, nhiệm vụ, quyền hạn của cơ quan quản lý cơ sở dữ liệu chuyên ngành.",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ],
+                    "points": []
+                  }
+                ]
+              }
+            ],
+            "articles": []
+          },
+          {
+            "chapter_id": "doc:70938:part:1:chapter:3",
+            "number": "III",
+            "title": "TRÁCH NHIỆM TRONG XÂY DỰNG, QUẢN LÝ, KHAI THÁC VÀ SỬ DỤNG CƠ SỞ DỮ LIỆU QUỐC GIA VỀ XỬ LÝ VI PHẠM HÀNH CHÍNH",
+            "content": "Chương III\nTRÁCH NHIỆM TRONG XÂY DỰNG,\nQUẢN LÝ, KHAI THÁC VÀ SỬ DỤNG CƠ SỞ DỮ LIỆU QUỐC GIA VỀ XỬ LÝ VI PHẠM HÀNH\nCHÍNH",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:70938:part:1:article:19",
+                "number": "19",
+                "title": "Trách nhiệm của Bộ Tư pháp trong xây dựng, quản lý, khai thác và sử dụng Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính",
+                "content": "Điều 19. Trách nhiệm của Bộ Tư pháp trong xây dựng, quản lý, khai thác và sử dụng Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính",
+                "clauses": [
+                  {
+                    "clause_id": "doc:70938:part:1:article:19:clause:1",
+                    "number": "1",
+                    "content": "1. Bộ Tư pháp chịu trách nhiệm trước Chính phủ\ntrong xây dựng, quản lý, khai thác và sử dụng Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính, có các nhiệm vụ, quyền hạn sau đây:",
+                    "points": [
+                      {
+                        "point_id": "doc:70938:part:1:article:19:clause:1:point:1",
+                        "label": "a",
+                        "content": "a) Trình Chính phủ ban hành hoặc ban hành theo thẩm\nquyền các văn bản quy phạm pháp luật về Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:70938:part:1:article:19:clause:1:point:2",
+                        "label": "b",
+                        "content": "b) Xây dựng, quản lý và duy trì Cơ sở dữ liệu quốc\ngia về xử lý vi phạm hành chính, bảo đảm các Điều kiện về cơ sở hạ tầng kỹ thuật để Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính vận hành ổn định và liên tục;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:70938:part:1:article:19:clause:1:point:3",
+                        "label": "c",
+                        "content": "c) Xây dựng và trình Thủ tướng Chính phủ xem xét,\nphê duyệt hoặc phê duyệt theo thẩm quyền việc mở rộng, nâng cấp, phát triển Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:70938:part:1:article:19:clause:1:point:4",
+                        "label": "d",
+                        "content": "d) Hướng dẫn thống nhất quy trình cung cấp, tiếp nhận,\ncập nhật thông tin, khai thác và sử dụng Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:70938:part:1:article:19:clause:1:point:5",
+                        "label": "đ",
+                        "content": "đ) Bố trí đầy đủ cơ sở vật chất, nhân lực cho việc\nxây dựng, quản lý và duy trì Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:70938:part:1:article:19:clause:1:point:6",
+                        "label": "e",
+                        "content": "e) Tập huấn, hướng dẫn cho cán bộ, công chức thuộc\ncơ quan quy định tại Khoản 1 Điều 10 Nghị định này về kỹ năng cập nhật thông tin và khai thác, sử dụng Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính; tập huấn, hướng dẫn cho cán bộ, công chức thuộc cơ quan quy định tại các Khoản 6 và 7 Điều 2 Nghị định này về kỹ năng khai thác, sử dụng Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:70938:part:1:article:19:clause:1:point:7",
+                        "label": "g",
+                        "content": "g) Chủ trì, phối hợp với Bộ Thông tin và Truyền\nthông xây dựng, ban hành theo thẩm quyền quy chuẩn kỹ thuật Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:70938:part:1:article:19:clause:1:point:8",
+                        "label": "h",
+                        "content": "h) Thực hiện các nhiệm vụ khác do Chính phủ giao.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:70938:part:1:article:19:clause:2",
+                    "number": "2",
+                    "content": "2. Cơ quan quản lý Cơ sở dữ liệu quốc gia về xử lý\nvi phạm hành chính thuộc Bộ Tư pháp có trách nhiệm chủ trì, phối hợp với các cơ quan, đơn vị có liên quan giúp Bộ trưởng Bộ Tư pháp thực hiện các nhiệm vụ, quyền hạn quy định tại Khoản 1 Điều này.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:70938:part:1:article:20",
+                "number": "20",
+                "title": "Trách nhiệm của các Bộ, cơ quan ngang Bộ trong xây dựng, quản lý, khai thác và sử dụng Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính",
+                "content": "Điều 20. Trách nhiệm của các Bộ, cơ quan ngang Bộ trong xây dựng, quản lý, khai thác và sử dụng Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính",
+                "clauses": [
+                  {
+                    "clause_id": "doc:70938:part:1:article:20:clause:1",
+                    "number": "1",
+                    "content": "1. Các Bộ, cơ quan ngang Bộ trong phạm vi chức\nnăng, nhiệm vụ của mình có các nhiệm vụ, quyền hạn sau đây:",
+                    "points": [
+                      {
+                        "point_id": "doc:70938:part:1:article:20:clause:1:point:1",
+                        "label": "a",
+                        "content": "a) Chỉ đạo tổ chức việc cập nhật thông tin và chịu\ntrách nhiệm về độ chính xác, toàn vẹn các thông tin, dữ liệu; bảo đảm kết nối an toàn, tích hợp dữ liệu với Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính do Bộ Tư pháp xây dựng và quản lý;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:70938:part:1:article:20:clause:1:point:2",
+                        "label": "b",
+                        "content": "b) Chủ trì hoặc phối hợp với Bộ Tư pháp tập huấn, bồi\ndưỡng nghiệp vụ cho cán bộ, công chức thuộc cơ quan quy định tại Khoản 1 Điều 10 Nghị định này trong phạm vi quản lý ngành, lĩnh vực kỹ năng thực hiện việc cung cấp, tiếp nhận, cập nhật thông tin và các cán bộ, công chức thuộc cơ quan quy định tại các Khoản 6 và 7 Điều 2 Nghị định này kỹ năng khai thác, sử dụng Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:70938:part:1:article:20:clause:1:point:3",
+                        "label": "c",
+                        "content": "c) Bố trí đầy đủ cơ sở vật chất, nhân lực đảm bảo\ncho việc phối hợp xây dựng, quản lý và duy trì Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:70938:part:1:article:20:clause:1:point:4",
+                        "label": "d",
+                        "content": "d) Bảo đảm an toàn tài Khoản quản trị Cơ sở dữ liệu\nquốc gia về xử lý vi phạm hành chính được cấp.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:70938:part:1:article:20:clause:2",
+                    "number": "2",
+                    "content": "2. Bộ Tài chính có trách nhiệm bảo đảm kinh phí thực\nhiện việc cập nhật thông tin, đào tạo sử dụng và duy trì, vận hành hệ thống Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính tại các Bộ, cơ quan ngang Bộ.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:70938:part:1:article:20:clause:3",
+                    "number": "3",
+                    "content": "3. Bộ Kế hoạch và Đầu tư có trách nhiệm bố trí nguồn\nvốn đầu tư từ nguồn ngân sách nhà nước để xây dựng, mở rộng và nâng cấp Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính; phối hợp với Bộ Tư pháp để thực hiện việc kết nối giữa Cơ sở dữ liệu quốc gia về đăng ký doanh nghiệp với Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:70938:part:1:article:20:clause:4",
+                    "number": "4",
+                    "content": "4. Bộ Công an có trách nhiệm phối hợp với Bộ Tư pháp\nđể thực hiện việc kết nối giữa Cơ sở dữ liệu quốc gia về dân cư với Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:70938:part:1:article:20:clause:5",
+                    "number": "5",
+                    "content": "5. Bộ Thông tin và Truyền thông có trách nhiệm xây\ndựng hệ thống thông tin đầu mối kết nối, hỗ trợ truy nhập vào Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:70938:part:1:article:21",
+                "number": "21",
+                "title": "Trách nhiệm của Tòa án nhân dân tối cao trong xây dựng, quản lý, khai thác và sử dụng Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính theo quy định của Luật Xử lý vi phạm hành chính Đề nghị Tòa án nhân dân tối cao trong phạm vi nhiệm vụ, quyền hạn của mình:",
+                "content": "Điều 21. Trách nhiệm của Tòa án nhân dân tối cao trong xây dựng, quản lý, khai thác và sử dụng Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính theo quy định của Luật Xử lý vi phạm hành chính Đề nghị Tòa án nhân dân tối cao trong phạm vi nhiệm vụ, quyền hạn của mình:",
+                "clauses": [
+                  {
+                    "clause_id": "doc:70938:part:1:article:21:clause:1",
+                    "number": "1",
+                    "content": "1. Cung cấp thông tin về công tác xử lý vi phạm\nhành chính theo quy định tại Khoản 4 Điều 17 Luật Xử lý vi phạm hành chính.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:70938:part:1:article:21:clause:2",
+                    "number": "2",
+                    "content": "2. Chỉ đạo Tòa án nhân dân các cấp cung cấp thông\ntin về xử lý vi phạm hành chính theo quy định tại Khoản 6 Điều 17 Luật Xử lý vi phạm hành chính.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:70938:part:1:article:21:clause:3",
+                    "number": "3",
+                    "content": "3. Chỉ đạo tổ chức việc cập nhật thông tin và bảo đảm\ntính chính xác, toàn vẹn các thông tin, dữ liệu; bảo đảm kết nối an toàn, tích hợp dữ liệu với Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:70938:part:1:article:21:clause:4",
+                    "number": "4",
+                    "content": "4. Bảo đảm an toàn tài Khoản quản trị Cơ sở dữ liệu\nquốc gia về xử lý vi phạm hành chính được cấp.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:70938:part:1:article:21:clause:5",
+                    "number": "5",
+                    "content": "5. Chủ trì, phối hợp với Chính phủ ban hành văn bản\nquy phạm pháp luật quy định về việc quản lý, khai thác và sử dụng Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính theo thẩm quyền.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:70938:part:1:article:22",
+                "number": "22",
+                "title": "Trách nhiệm của Ủy ban nhân dân cấp tỉnh trong xây dựng, quản lý, khai thác và sử dụng Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính Ủy ban nhân dân cấp tỉnh trong phạm vi chức năng, nhiệm vụ của mình có các nhiệm vụ, quyền hạn sau đây:",
+                "content": "Điều 22. Trách nhiệm của Ủy ban nhân dân cấp tỉnh trong xây dựng, quản lý, khai thác và sử dụng Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính Ủy ban nhân dân cấp tỉnh trong phạm vi chức năng, nhiệm vụ của mình có các nhiệm vụ, quyền hạn sau đây:",
+                "clauses": [
+                  {
+                    "clause_id": "doc:70938:part:1:article:22:clause:1",
+                    "number": "1",
+                    "content": "1. Chỉ đạo tổ chức việc cập nhật thông tin và chịu\ntrách nhiệm về độ chính xác, toàn vẹn các thông tin, dữ liệu; bảo đảm kết nối an toàn, tích hợp dữ liệu với Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:70938:part:1:article:22:clause:2",
+                    "number": "2",
+                    "content": "2. Chủ trì hoặc phối hợp với Bộ Tư pháp tập huấn, bồi\ndưỡng nghiệp vụ cho cán bộ, công chức của các cơ quan quy định tại Khoản 1 Điều 10 Nghị định này trong phạm vi địa phương kỹ năng thực hiện việc cung cấp, tiếp nhận, cập nhật thông tin và các cán bộ, công chức thuộc cơ quan quy định tại các Khoản 6 và 7 Điều 2 Nghị định này trên địa bàn kỹ năng khai thác, sử dụng Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:70938:part:1:article:22:clause:3",
+                    "number": "3",
+                    "content": "3. Bảo đảm an toàn tài Khoản quản trị Cơ sở dữ liệu\nquốc gia về xử lý vi phạm hành chính được cấp.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:70938:part:1:article:22:clause:4",
+                    "number": "4",
+                    "content": "4. Bố trí kinh phí thường xuyên cho hoạt động, đầu\ntư cơ sở vật chất, nhân lực đảm bảo cho việc phối hợp xây dựng, quản lý và duy trì Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:70938:part:1:article:22:clause:5",
+                    "number": "5",
+                    "content": "5. Bảo đảm kinh phí thực hiện việc cập nhật thông\ntin, đào tạo sử dụng và duy trì, vận hành hệ thống Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính tại các cơ quan, đơn vị trong phạm vi địa phương thuộc thẩm quyền quản lý của mình.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:70938:part:1:article:23",
+                "number": "23",
+                "title": "Trách nhiệm của cơ quan nhà nước, cá nhân trong cung cấp, cập nhật thông tin cho Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính",
+                "content": "Điều 23. Trách nhiệm của cơ quan nhà nước, cá nhân trong cung cấp, cập nhật thông tin cho Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính",
+                "clauses": [
+                  {
+                    "clause_id": "doc:70938:part:1:article:23:clause:1",
+                    "number": "1",
+                    "content": "1. Thực hiện đúng các quy định của Nghị định này và\nhướng dẫn của Bộ trưởng Bộ Tư pháp trong việc cung cấp, tiếp nhận và cập nhật thông tin cho Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:70938:part:1:article:23:clause:2",
+                    "number": "2",
+                    "content": "2. Bảo đảm tính đầy đủ, chính xác, kịp thời của\nthông tin do mình cập nhật; kịp thời đính chính, bổ sung thông tin trong Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính theo quy định tại Điều 9, Điều 10 và Điều 11 Nghị định này.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:70938:part:1:article:24",
+                "number": "24",
+                "title": "Trách nhiệm của cơ quan, tổ chức, cá nhân trong việc khai thác và sử dụng Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính",
+                "content": "Điều 24. Trách nhiệm của cơ quan, tổ chức, cá nhân trong việc khai thác và sử dụng Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính",
+                "clauses": [
+                  {
+                    "clause_id": "doc:70938:part:1:article:24:clause:1",
+                    "number": "1",
+                    "content": "1. Thực hiện đúng các quy định của Nghị định này và\nhướng dẫn của Bộ trưởng Bộ Tư pháp trong việc khai thác và sử dụng Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:70938:part:1:article:24:clause:2",
+                    "number": "2",
+                    "content": "2. Sử dụng thông tin từ Cơ sở dữ liệu quốc gia về xử\nlý vi phạm hành chính đúng Mục đích, phục vụ công tác quản lý nhà nước về xử lý vi phạm hành chính và đấu tranh phòng, chống vi phạm pháp luật.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:70938:part:1:chapter:4",
+            "number": "IV",
+            "title": "ĐIỀU KHOẢN THI HÀNH",
+            "content": "Chương IV\nĐIỀU KHOẢN THI HÀNH",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:70938:part:1:article:25",
+                "number": "25",
+                "title": "Hiệu lực thi hành Nghị định này có hiệu lực thi hành kể từ ngày 15 tháng 5 năm 2016.",
+                "content": "Điều 25. Hiệu lực thi hành Nghị định này có hiệu lực thi hành kể từ ngày 15 tháng 5 năm 2016.",
+                "clauses": [],
+                "points": []
+              },
+              {
+                "article_id": "doc:70938:part:1:article:26",
+                "number": "26",
+                "title": "Trách nhiệm thi hành",
+                "content": "Điều 26. Trách nhiệm thi hành",
+                "clauses": [
+                  {
+                    "clause_id": "doc:70938:part:1:article:26:clause:1",
+                    "number": "1",
+                    "content": "1. Bộ trưởng Bộ Tư pháp trong phạm vi chức năng,\nnhiệm vụ, quyền hạn được giao có trách nhiệm tổ chức thực hiện; hướng dẫn, kiểm tra, đôn đốc việc thi hành Nghị định này.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:70938:part:1:article:26:clause:2",
+                    "number": "2",
+                    "content": "2. Các Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, Thủ\ntrưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương và các cơ quan liên quan chịu trách nhiệm thi hành Nghị định này./.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          }
+        ],
+        "sections": [],
+        "articles": [],
+        "unstructured_blocks": []
+      }
+    ]
+  },
+  "issues": [],
+  "status": "ok",
+  "source_hash": "context_70938.json",
+  "stats": {
+    "source_chars": 28008,
+    "passage_chars": 27860,
+    "parts": 1,
+    "chapters": 4,
+    "sections": 2,
+    "articles": 26,
+    "clauses": 78,
+    "points": 61
+  }
+}

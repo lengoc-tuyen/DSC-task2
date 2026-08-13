@@ -1,0 +1,940 @@
+{
+  "schema_version": "2.0",
+  "document_id": 71739,
+  "metadata": {
+    "name": "Quyet-dinh-1320-QD-KTNN-2019-Quy-che-quan-ly-phan-mem-So-hoa-va-quan-ly-ho-so-kiem-toan-495443",
+    "link": "https://thuvienphapluat.vn/van-ban/Ke-toan-Kiem-toan/Quyet-dinh-1320-QD-KTNN-2019-Quy-che-quan-ly-phan-mem-So-hoa-va-quan-ly-ho-so-kiem-toan-495443.aspx",
+    "issuing_agency": "KIỂM TOÁN NHÀ NƯỚC",
+    "national_header": "CỘNG\r\n\n  HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM",
+    "motto": "Độc lập - Tự do - Hạnh phúc",
+    "document_number": "1320/QĐ-KTNN",
+    "issued_place": "Hà Nội",
+    "issued_date": "ngày 16\r\n\n  tháng 7 năm 2019",
+    "document_type": "QUYẾT ĐỊNH",
+    "title": "BAN HÀNH QUY CHẾ QUẢN LÝ, KHAI THÁC VÀ SỬ DỤNG PHẦN MỀM SỐ HÓA VÀ QUẢN LÝ HỒ SƠ KIỂM TOÁN CỦA KIỂM TOÁN NHÀ NƯỚC TỔNG KIỂM TOÁN NHÀ NƯỚC"
+  },
+  "administrative_header": {
+    "removed": true,
+    "removed_char_count": 155
+  },
+  "preamble": {
+    "text": "QUYẾT ĐỊNH\nBAN HÀNH QUY CHẾ QUẢN LÝ, KHAI THÁC VÀ SỬ DỤNG PHẦN MỀM SỐ HÓA VÀ QUẢN LÝ\nHỒ SƠ KIỂM TOÁN CỦA KIỂM TOÁN NHÀ NƯỚC\nTỔNG KIỂM TOÁN NHÀ NƯỚC\nCăn cứ Luật Kiểm toán nhà nước; Căn cứ Luật Công nghệ thông tin; Căn cứ Nghị định số 64/2007/NĐ-CP ngày 10 tháng 4 năm 2007 của Chính phủ về việc ứng dụng công nghệ thông tin trong hoạt động của cơ quan nhà nước; Xét đề nghị của Giám đốc Trung tâm Tin học,\nQUYẾT ĐỊNH:",
+    "legal_bases": [
+      "Căn cứ Luật Công nghệ thông tin",
+      "Căn cứ Nghị định số 64/2007/NĐ-CP ngày 10 tháng 4 năm 2007 của Chính phủ về việc ứng dụng công nghệ thông tin trong hoạt động của cơ quan nhà nước"
+    ],
+    "proposals": [
+      "Xét đề nghị của Giám đốc Trung tâm Tin học,\nQUYẾT ĐỊNH:"
+    ],
+    "enactment_formula": "QUYẾT ĐỊNH"
+  },
+  "passage": "QUYẾT ĐỊNH\nBAN HÀNH QUY CHẾ QUẢN LÝ, KHAI THÁC VÀ SỬ DỤNG PHẦN MỀM SỐ HÓA VÀ QUẢN LÝ\nHỒ SƠ KIỂM TOÁN CỦA KIỂM TOÁN NHÀ NƯỚC\nTỔNG KIỂM TOÁN NHÀ NƯỚC\nCăn cứ Luật Kiểm toán nhà nước; Căn cứ Luật Công nghệ thông tin; Căn cứ Nghị định số 64/2007/NĐ-CP ngày 10 tháng 4 năm 2007 của Chính phủ về việc ứng dụng công nghệ thông tin trong hoạt động của cơ quan nhà nước; Xét đề nghị của Giám đốc Trung tâm Tin học,\nQUYẾT ĐỊNH:\nĐiều 1. Ban hành kèm theo Quyết định này Quy chế quản lý, khai thác và sử dụng phần mềm số hóa và quản lý hồ sơ kiểm toán của Kiểm toán Nhà nước.\nĐiều 2. Quyết định này có hiệu lực thi hành kể từ ngày ký.\nĐiều 3. Chánh Văn phòng Kiểm toán Nhà nước, Giám đốc Trung tâm Tin học, Thủ trưởng các đơn vị trực thuộc Kiểm toán Nhà nước và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này./.\nNơi nhận:\n- Như Điều 3;\n- Lãnh đạo Kiểm toán Nhà nước;\n- Lưu VT, TTTH(3).\nTỔNG KIỂM TOÁN\nNHÀ NƯỚC\nHồ Đức Phớc\nQUY CHẾ\nQUẢN LÝ, KHAI THÁC VÀ SỬ DỤNG PHẦN MỀM SỐ HÓA VÀ QUẢN LÝ HỒ SƠ KIỂM\nTOÁN ĐIỆN TỬ CỦA KIỂM TOÁN NHÀ NƯỚC\n(Ban hành kèm theo Quyết định số 1320/QĐ-KTNN ngày 16/7/2019 của Tổng Kiểm toán\nnhà nước)\nChương I\nNHỮNG QUY ĐỊNH CHUNG\nĐiều 1. Phạm vi điều chỉnh, đối tượng áp dụng\n1. Quy chế này quy định trình tự, thủ\ntục, trách nhiệm, quyền hạn của các đơn vị trực thuộc Kiểm toán nhà nước và các tổ chức, cá nhân khác có liên quan trong việc quản lý, khai thác và sử dụng phần mềm số hóa và quản lý hồ sơ kiểm toán điện tử của Kiểm toán nhà nước.\n2. Quy chế này áp dụng với các đơn vị\ntrực thuộc Kiểm toán nhà nước; các Đoàn khảo sát, Đoàn kiểm toán của Kiểm toán nhà nước, Đoàn kiểm tra thực hiện kết luận, kiến nghị kiểm toán; cán bộ, công chức, viên chức và người lao động (gọi tắt là công chức) của Kiểm toán nhà nước và các tổ chức, cá nhân khác có liên quan trong việc quản lý, khai thác, sử dụng và thu thập, số hoá tài liệu trên phần mềm số hóa và quản lý hồ sơ kiểm toán điện tử.\nĐiều 2. Giải thích từ ngữ Trong Quy chế này, các từ ngữ dưới đây được hiểu như sau:\n1. Số hóa tài liệu: là quá trình tạo\nthông tin số bằng cách quét (scanning) hoặc chuyển đổi các dạng tài liệu tương tự thành tài liệu điện tử (hay tài liệu số) dưới dạng tệp tin số (file) để lưu trữ, xử lý và truy cập trên phần mềm.\n2. Phần mềm số hóa và quản lý hồ sơ\nkiểm toán điện tử (gọi tắt là phần mềm): là phần mềm của Kiểm toán nhà nước nhằm trợ giúp công tác số hoá tài liệu và quản lý việc khai thác, sử dụng hồ sơ kiểm toán điện tử của Kiểm toán nhà nước.\n3. Tài liệu khảo sát điện tử: là các\ntài liệu do đơn vị chủ trì thực hiện kiểm toán thu thập trong quá trình khảo sát tại đơn vị được khảo sát, được số hóa và quản lý trên phần mềm.\n4. Hồ sơ kiểm toán điện tử: là toàn bộ\nhồ sơ kiểm toán liên quan đến cuộc kiểm toán do Đơn vị chủ trì thực hiện kiểm toán thực hiện (theo Quyết định số 10/2016/QĐ-KTNN ngày 28/12/2016 ban hành quy định danh mục hồ sơ kiểm toán; chế độ nộp lưu, bảo quản, khai thác và hủy hồ sơ kiểm toán của Kiểm toán nhà nước do Tổng Kiểm toán nhà nước ban hành), được số hóa và quản lý trên phần mềm.\n5. Người sử dụng: là công chức của Kiểm\ntoán nhà nước và các tổ chức, cá nhân được cấp quyền để truy cập vào phần mềm.\n6. Tài khoản người dùng: bao gồm tên\nđăng nhập (user name) và mật khẩu (password) dùng để định danh và xác định quyền hạn của người sử dụng đăng nhập vào phần mềm để khai thác, sử dụng hoặc quản trị phần mềm. Mỗi tài khoản tùy theo vị trí và quyền hạn của người sử dụng sẽ được cấp một hoặc nhiều quyền khác nhau.Tài khoản người dùng gồm 03 loại: a. Tài khoản quản trị hệ thống: là tài khoản cấp cho người dùng của bộ phận quản trị phần mềm để cấp mới, thay đổi hoặc hủy bỏ tài khoản khác; cấp quyền hoặc hủy bỏ quyền; thiết lập các tham số hệ thống của phần mềm. b. Tài khoản quản trị của đơn vị: là tài khoản cấp cho người dùng của đơn vị trực thuộc Kiểm toán nhà nước để phân quyền cho công chức của đơn vị mình số hóa hoặc khai thác Tài liệu khảo sát, Hồ sơ kiểm toán điện tử trong phạm vi theo chức năng, nhiệm vụ được giao. c. Tài khoản cá nhân: là tài khoản cấp cho công chức của Kiểm toán nhà nước và các tổ chức, cá nhân được cấp quyền để truy cập vào phần mềm.\n7. Sao lưu là việc tạo ra bản sao cơ\nsở dữ liệu tài liệu lưu trữ, phần mềm.\nĐiều 3. Các hành vi bị cấm\n1. Phá hoại hệ thống cơ sở hạ tầng\nthông tin hoặc cản trở quá trình vận hành, duy trì ổn định, liên tục của phần mềm.\n2. Truy cập bất hợp pháp, thay đổi dữ\nliệu không đúng thẩm quyền, làm sai lệch hoặc phá hủy dữ liệu trên phần mềm.\n3. Cố ý xoá bỏ, tháo gỡ, thay đổi\nthông số thiết lập của phần mềm gây lỗi hoặc ảnh hưởng đến việc vận hành phần mềm và các phần mềm, cơ sở dữ liệu khác được cài đặt trong hệ thống mạng của KTNN.\n4. Sử dụng, lợi dụng phần mềm hoặc dữ\nliệu của phần mềm vào các mục đích không thuộc phạm vi, chức năng, nhiệm vụ được phân công; Cung cấp, phát tán thông tin, chia sẻ cơ sở dữ liệu trái với quy định của KTNN và pháp luật hiện hành.\n5. Cố ý tiết lộ\ntài khoản, các quy tắc sử dụng, danh sách người sử dụng, sơ đồ tổ chức hệ thống, thông tin dữ liệu của Phần mềm cho các tổ chức, cá nhân không có thẩm quyền.\nChương II\nQUẢN LÝ, VẬN\nHÀNH VÀ KHAI THÁC PHẦN MỀM\nĐiều 4. Nguyên tắc quản lý, vận hành và khai thác phần mềm\n1. Số hóa tài liệu phải thực hiện\ntheo tiêu chuẩn định dạng; ký hiệu tệp tin số phải thống nhất, theo trình tự khoa học và nghiệp vụ lưu trữ, bảo đảm tính duy nhất, có khả năng tra cứu ngay khi được tạo lập.\n2. Phần mềm được quản lý tập trung,\nthống nhất tại Trung tâm dữ liệu của Kiểm toán nhà nước, vận hành thông qua hệ thống mạng Internet, đảm bảo hoạt động liên tục, ổn định, an toàn và bảo mật thông tin.\n3. Phần mềm được quản lý, vận hành đảm\nbảo nguyên tắc đề cao trách nhiệm của công chức của Kiểm toán nhà nước và các tổ chức, cá nhân có liên quan; góp phần nâng cao hiệu quả hoạt động số hoá và quản lý hồ sơ kiểm toán điện tử của Kiểm toán nhà nước.\n4. Phần mềm được quản lý, vận hành đảm\nbảo tuân thủ các quy định bảo mật cấp nhà nước của Kiểm toán nhà nước và của pháp luật hiện hành.\n5. Việc cài đặt, quản lý, vận hành phần\nmềm phải tuân thủ theo Quy chế Quản lý và sử dụng hệ thống mạng của Kiểm toán nhà nước.\n6. Bảo đảm hệ thống cơ sở hạ tầng\nthông tin, các thiết bị có liên quan và môi trường cho việc cài đặt, vận hành phần mềm.\n7. Khai thác, sử dụng phần mềm đúng mục\nđích, đúng chức năng, nhiệm vụ, đảm bảo tuân thủ các quy định đảm bảo an toàn thông tin mạng, bảo vệ bí mật nhà nước của Kiểm toán nhà nước và của pháp luật hiện hành.\nĐiều 5. Bảo trì, nâng cấp và phát triển phần mềm\n1. Bảo đảm hệ thống cơ sở hạ tầng\nthông tin, các thiết bị có liên quan và môi trường cho việc cài đặt, vận hành phần mềm sau khi bảo trì, nâng cấp, phát triển.\n2. Thực hiện các hoạt động kiểm tra,\ngiám sát để cảnh báo các hành vi xâm phạm an toàn của phần mềm.\n3. Thực hiện các biện pháp sao lưu dữ\nliệu định kỳ, đảm bảo khả năng khôi phục hệ thống khi xảy ra sự cố. Dữ liệu đã sao lưu cần phải được bảo vệ an toàn, định kỳ kiểm tra và đảm bảo phục hồi được từ dữ liệu sao lưu để sẵn sàng sử dụng khi cần thiết.\n4. Thực hiện các hoạt động bảo trì, bảo\ndưỡng, sửa chữa định kỳ để đảm bảo phần mềm hoạt động ổn định, liên tục.\n5. Định kỳ hàng năm (hoặc đột xuất\nkhi có đề xuất từ người sử dụng) thực hiện rà soát, đề xuất phương án nâng cấp, phát triển hệ thống hạ tầng phần cứng, phần mềm nhằm đáp ứng nhu cầu thực tế.\nĐiều 6. Đảm bảo an toàn thông tin\n1. Thực hiện các hoạt động kiểm tra,\ngiám sát để cảnh báo các hành vi xâm phạm an toàn phần mềm.\n2. Sử dụng các kênh mã hóa và xác thực\nngười dùng cho các hoạt động: đăng nhập hệ thống, thay đổi thông tin người dùng, gửi nhận dữ liệu giữa các máy chủ, sao lưu dữ liệu, cập nhật và biên tập dữ liệu.\n3. Áp dụng các biện pháp bảo đảm tính\nxác thực và bảo vệ sự toàn vẹn của dữ liệu trong phần mềm.\n4. Thực hiện việc lưu trữ lịch sử các\nhoạt động của người sử dụng: truy cập vào phần mềm; thay đổi thông tin, quyền hạn người dùng; tạo mới, thay đổi, sửa, xóa thông tin và các nghiệp vụ khác trên phần mềm.\n5. Thiết lập và duy trì hệ thống dự\nphòng nhằm đảm bảo phần mềm hoạt động liên tục.\n6. Thực hiện các biện pháp cần thiết\nkhác để đảm bảo an toàn thông tin trong hoạt động của phần mềm.\nĐiều 7. Quy trình đăng ký cấp mới, thay đổi, hủy bỏ tài khoản\n1. Quy trình đăng ký cấp mới, thay đổi,\nhủy bỏ tài khoản người dùng. Khi có nhu cầu cấp mới, thay đổi, hủy bỏ tài khoản người dùng, đơn vị gửi phiếu yêu cầu theo mẫu tại Phụ lục 01 của\nQuy chế này. Thông tin yêu cầu phải được gửi từ hộp thư chung của đơn vị đến hộp\nthư sohoahskt@sav.gov.vn và gửi văn bản đến Trung tâm Tin học. Trung tâm Tin học có trách nhiệm cấp mới, thay đổi hoặc hủy bỏ tài khoản người dùng trong vòng 01 ngày làm việc kể từ ngày nhận được yêu cầu.\n2. Tên tài khoản người dùng và mật khẩu\nban đầu do Trung tâm Tin học thiết lập. Thông tin về tài khoản người dùng sẽ được gửi đến hộp thư điện tử của Kiểm toán nhà nước do người dùng cung cấp ngay sau khi tài khoản được tạo lập.\n3. Điều này được thay thế khi Kiểm\ntoán nhà nước ban hành Quy định về quản lý tài khoản người dùng của Kiểm toán nhà nước.\nĐiều 8. Quản lý tài khoản người dùng\n1. Quản lý tài khoản quản trị hệ thống:\na. Giám đốc Trung tâm Tin học phân công và tổ chức giám sát tình hình thực hiện nhiệm vụ, trách nhiệm của người quản trị hệ thống. b. Người quản trị hệ thống sử dụng tài khoản được phân quyền để thực hiện việc quản trị hệ thống và chịu trách nhiệm quản lý và bảo mật tài khoản.\n2. Quản lý tài khoản quản trị của đơn\nvị: a. Đơn vị chủ trì thực hiện kiểm toán được cấp tài khoản quản trị của đơn vị để thực hiện nhiệm vụ quy định tại Điều 13, 14 của Quy chế này. b. Vụ Chế độ và kiểm soát chất lượng kiểm toán được cấp tài khoản quản trị của đơn vị để thực hiện nhiệm vụ quy định tại Khoản 5, Điều 17 của Quy chế này. c. Thủ trưởng đơn vị có trách nhiệm phân công người sử dụng tài khoản quản trị của đơn vị, đồng thời đăng ký với Trung tâm Tin học. Việc đăng ký được thực hiện theo Quy định tại Khoản 1, Điều 7 của Quy chế này. d. Người sử dụng tài khoản quản trị của đơn vị sử dụng phần mềm theo nhiệm vụ được giao và chịu trách nhiệm bảo mật tài khoản theo đúng quy định\n3. Quản lý tài khoản cá nhân:\na. Mỗi cán bộ, công chức của Kiểm toán nhà nước được cấp 01 tài khoản để khai thác, sử dụng phần mềm và chịu trách nhiệm đảm bảo việc bảo mật tài khoản của mình theo đúng quy định của Kiểm toán nhà nước và của pháp luật. b. Tổng Kiểm toán nhà nước xem xét quyết định cấp tài khoản cho tổ chức, cá nhân không thuộc diện quản lý của Kiểm toán nhà nước khi có yêu cầu khai thác thông tin. Các tổ chức, cá nhân được cấp tài khoản phải phù hợp với các quy định của pháp luật, của Kiểm toán nhà nước về khai thác thông tin của Kiểm toán nhà nước và có trách nhiệm quản lý, bảo mật tài khoản được cấp, không vi phạm các hành vi bị cấm được quy định tại Điều 3 của\nQuy chế này.\nĐiều 9. Trách nhiệm khai thác, sử dụng phần mềm\n1. Công chức của Kiểm toán nhà nước\nvà các tổ chức, cá nhân được cấp tài khoản người dùng để khai thác, sử dụng phần mềm có trách nhiệm khai thác, sử dụng phần mềm đúng mục đích, nhiệm vụ được phân công và tuân thủ các quy định tại Quy chế này.\n2. Công chức của Kiểm toán nhà nước\nvà các tổ chức, cá nhân được cấp tài khoản ngay khi đăng nhập lần đầu có trách nhiệm kiểm tra các thông tin của tổ chức, cá nhân đã đăng ký, đồng thời thay đổi mật khẩu và chịu trách nhiệm bảo mật, đảm bảo an toàn tài khoản do mình quản lý. Đăng xuất khỏi phần mềm khi không sử dụng.\n3. Công chức của Kiểm toán nhà nước\nvà các tổ chức, cá nhân khai thác, sử dụng phần mềm kịp thời báo cáo Thủ trưởng đơn vị để có văn bản thông báo cho Trung tâm Tin học, đồng thời thông tin ngay tới bộ phận quản trị phần mềm khi xảy ra các trường hợp sau: - Gặp các sự cố không thể truy cập vào phần mềm; - Phát hiện nguy cơ lộ thông tin tài khoản hoặc dữ liệu; - Quên hoặc mất mật khẩu; - Lỗi phần mềm phát sinh trong quá trình sử dụng hoặc ý kiến đề xuất cải tiến, hoàn thiện phần mềm.\nChương III\nTHU THẬP, SỐ HOÁ TÀI LIỆU\nĐiều 10. Nguyên tắc thu thập, số hoá tài liệu\n1. Cá nhân được giao nhiệm vụ thu thập,\nsố hoá tài liệu và thủ trưởng đơn vị chịu trách nhiệm về tính chính xác, đầy đủ của tài liệu được số hoá trên phần mềm.\n2. Việc số hoá tài liệu phải được thực\nhiện theo quy định của Quy chế này. Trong trường hợp đặc biệt, căn cứ vào tình hình thực tế, Tổng Kiểm toán nhà nước quyết định thời gian, trình tự, phương án số hoá hồ sơ kiểm toán của Kiểm toán nhà nước. Việc số hóa tài liệu mật được thực hiện theo quy định của Tổng Kiểm toán nhà nước và của pháp luật.\n3. Tài liệu được số hoá phải đảm bảo\nchính xác, giống nguyên trạng về nội dung, bố cục so với tài liệu gốc.\n4. Đối với tài liệu có kích cỡ vượt\nquá khổ: nếu không có máy quét tương ứng với khổ tài liệu, có thể sử dụng máy quét phẳng khổ A4 (hoặc A3 nếu có) và chia tài liệu gốc thành từng phần A4 (hoặc A3 nếu có) và quét lần lượt từ trái qua phải, từ trên xuống dưới theo chiều kim đồng hồ, các phần liền kề gối lên nhau ít nhất 10 mm. Số thứ tự của ảnh được xác định theo số thứ tự quét.\nĐiều 11. Tiêu chuẩn dữ liệu thông tin đầu vào của cơ sở dữ liệu tài liệu điện tử Tuân thủ theo quy định về tiêu chuẩn dữ liệu thông tin đầu vào theo Thông tư 02/2019/TT-BNV ngày 21/1/2019 của Bộ Nội Vụ:\n1. Tài liệu lưu trữ điện tử được số\nhóa từ tài liệu lưu trữ nền giấy a. Định dạng Portable Document Format (.pdf), phiên bản 1.4 trở lên; b. Chế độ ảnh màu; c. Độ phân giải tối thiểu: 200 dpi; d. Tỷ lệ số hóa : 100%;\n2. Tài liệu ảnh\na. Định dạng: JPEG; b. Độ phân giải tối thiểu: 200 dpi;\n3. Tài liệu phim ảnh\na. Định dạng: MPEG-4, .avi, .wmv; b. Bit rate tối thiểu: 1500 kbps;\n4. Tài liệu âm thanh:\na. Định dạng: MP3, .wma; b. Bit rate tối thiểu: 128 kbps;\nĐiều 12. Tài liệu được số hoá\n1. Tài liệu khảo sát gồm các thành phần\ncơ bản sau: - Quyết định thành lập Đoàn khảo sát hoặc Tổ khảo sát (sau đây gọi chung là Đoàn khảo sát). - Công văn và đề cương khảo sát gửi đơn vị được khảo sát. - Báo cáo tài chính, báo cáo quyết toán ngân sách, báo cáo quyết toán vốn đầu tư, báo cáo khác hoặc các văn bản khác theo quy định để xác định những nội dung về Báo cáo tài chính, báo cáo quyết toán ngân sách, báo cáo quyết toán vốn đầu tư trong trường hợp các báo cáo này chưa được phát hành theo quy định tại thời điểm khảo sát. - Các văn bản chỉ đạo, hướng dẫn, điều hành... về triển khai, thực hiện nhiệm vụ của đơn vị được kiểm toán (nếu có). - Các tài liệu khác có liên quan thu thập được trong quá trình khảo sát.\n2. Hồ sơ kiểm toán gồm các thành phần\ncơ bản sau: - Hồ sơ kiểm toán chung. - Hồ sơ kiểm toán chi tiết. - Hồ sơ kiểm toán sau khi phát hành báo cáo kiểm toán (bao gồm cả hồ sơ kiểm tra tình hình thực hiện kết luận, kiến nghị kiểm toán). - Hồ sơ kiểm soát chất lượng kiểm toán của Kiểm toán trưởng. Chi tiết các tài liệu cần được số hóa trong mỗi loại hồ sơ ở trên được quy định tại Quyết định số 10/2016/QĐ-KTNN của Tổng Kiểm toán nhà nước ban hành danh mục hồ sơ kiểm toán; chế độ nộp lưu, bảo quản, khai thác và hủy hồ sơ kiểm toán. Riêng đối với Nhật kí công tác của Trưởng đoàn, Phó Trưởng đoàn kiểm toán và Nhật kí làm việc của kiểm toán viên sẽ được đồng bộ từ phần mềm Nhật kí kiểm toán điện tử về phần mềm số hóa và quản lý hồ sơ kiểm toán điện tử.\nĐiều 13. Trách nhiệm thu thập, số hóa và tạo lập Tài liệu khảo sát điện tử\n1. Thu thập tài liệu: đơn vị chủ trì\nthực hiện kiểm toán có trách nhiệm tổ chức thu thập đầy đủ các tài liệu được quy định tại Khoản 1, Điều 12 của Quy chế này.\n2. Số hoá, tạo lập Tài liệu khảo sát\nđiện tử a. Trách nhiệm của đơn vị chủ trì thực hiện kiểm toán - Đơn vị chủ trì thực hiện kiểm toán có trách nhiệm tạo danh sách Đoàn khảo sát và phân quyền Trưởng đoàn, thành viên theo Quyết định thành lập Đoàn khảo sát trước khi bắt đầu thực hiện khảo sát. - Kịp thời điều chỉnh danh sách khi có sự thay đổi nhân sự trong Đoàn khảo sát trên phần mềm. b. Trách nhiệm của Đoàn khảo sát - Trưởng đoàn khảo sát có trách nhiệm phân công công chức trong Đoàn khảo sát thực hiện số hoá, tạo lập Tài liệu khảo sát điện tử. - Thành viên đoàn khảo sát có trách nhiệm hoàn thành số hoá, tạo lập Tài liệu khảo sát điện tử trên phần mềm. - Đoàn khảo sát có trách nhiệm kiểm tra, đối chiếu thông tin điện tử với thông tin của tài liệu thu thập được để đảm bảo tính chính xác, đầy đủ của Tài liệu khảo sát điện tử. - Trưởng đoàn khảo sát và công chức được giao nhiệm vụ số hoá, tạo lập Tài liệu khảo sát điện tử chịu trách nhiệm trước Thủ trưởng đơn vị về tính chính xác, đầy đủ của Tài liệu khảo sát điện tử. - Đoàn khảo sát có trách nhiệm hoàn thành việc số hóa, tạo lập Tài liệu khảo sát trên phần mềm chậm nhất vào ngày ra Quyết định kiểm toán.\nĐiều 14. Trách nhiệm thu thập, số hóa, tạo lập Hồ sơ kiểm toán điện tử\n1. Thu thập tài liệu: Đơn vị chủ trì\nthực hiện kiểm toán có trách nhiệm tổ chức thu thập đầy đủ các tài liệu được quy định tại Khoản 2, Điều 12 của Quy chế này.\n2. Số hoá, tạo lập Hồ sơ kiểm toán điện\ntử a. Trách nhiệm của đơn vị chủ trì thực hiện kiểm toán - Kiểm tra, rà soát danh sách Đoàn kiểm toán đã được tạo lập trên phần mềm Nhật kí kiểm toán để đảm bảo danh sách nhân sự Đoàn kiểm toán đã được thiết lập đầy đủ, chính xác trước khi bắt đầu thực hiện kiểm toán. - Phân công công chức quản lý, số hóa, tạo lập Hồ sơ kiểm soát chất lượng kiểm toán của Kiểm toán trưởng. Chậm nhất 45 ngày kể từ ngày phát hành Báo cáo kiểm toán, công chức được giao nhiệm vụ phải hoàn thành việc số hoá, tạo lập Hồ sơ kiểm soát chất lượng kiểm toán của Kiểm toán trưởng trên phần mềm. - Tạo lập danh sách Đoàn kiểm tra thực hiện kết luận, kiến nghị kiểm toán và phân quyền Trưởng đoàn, thành viên theo Quyết định thành lập Đoàn kiểm tra thực hiện kết luận, kiến nghị kiểm toán trước khi bắt đầu thực hiện kiểm tra thực hiện kết luận, kiến nghị kiểm toán. - Phân công công chức số hóa tài liệu trong Hồ sơ kiểm toán sau khi phát hành báo cáo kiểm toán, trừ hồ sơ kiểm tra thực hiện kết luận, kiến nghị kiểm toán được quy định tại Điểm c, Khoản 2, Điều 14 của Quy chế này. b. Trách nhiệm của Đoàn kiểm toán - Trưởng đoàn kiểm toán có trách nhiệm phân công các thành viên trong Đoàn kiểm toán thực hiện số hoá, tạo lập hồ sơ kiểm toán của Đoàn kiểm toán. - Chậm nhất 30 ngày kể từ ngày phát hành Báo cáo kiểm toán, Tổ kiểm toán có trách nhiệm hoàn thành việc số hóa, tạo lập hồ sơ kiểm toán của Tổ kiểm toán trên phần mềm. - Chậm nhất 45 ngày kể từ ngày phát hành Báo cáo kiểm toán, Đoàn kiểm toán có trách nhiệm hoàn thành việc số hóa, tạo lập hồ sơ kiểm toán của Đoàn kiểm toán trên phần mềm. - Đoàn kiểm toán có trách nhiệm kiểm tra, đối chiếu thông tin điện tử với thông tin của tài liệu thu thập được để đảm bảo tính chính xác, đầy đủ của hồ sơ kiểm toán của Đoàn kiểm toán trong Hồ sơ kiểm toán điện tử. - Trưởng đoàn kiểm toán, Tổ trưởng tổ kiểm toán và công chức được giao nhiệm vụ số hoá, tạo lập hồ sơ kiểm toán của Tổ kiểm toán, Đoàn kiểm toán chịu trách nhiệm trước Thủ trưởng đơn vị về tính chính xác, đầy đủ về hồ sơ kiểm toán của Đoàn kiểm toán trên phần mềm. c. Trách nhiệm của Đoàn kiểm tra thực hiện kết luận, kiến nghị kiểm toán - Trưởng đoàn kiểm tra thực hiện kết luận, kiến nghị kiểm toán có trách nhiệm phân công các thành viên trong Đoàn kiểm tra thực hiện kết luận, kiến nghị thực hiện số hoá, tạo lập hồ sơ kiểm tra thực hiện kết luận, kiến nghị kiểm toán trên phần mềm. - Chậm nhất 20 ngày làm việc kể từ ngày phát hành Báo cáo kiểm tra thực hiện kết luận, kiến nghị kiểm toán, Đoàn kiểm tra thực hiện kết luận, kiến nghị kiểm toán có trách nhiệm hoàn thành số hoá, tạo lập hồ sơ kiểm tra thực hiện kết luận, kiến nghị kiểm toán trên phần mềm. - Đoàn kiểm tra thực hiện kết luận, kiến nghị kiểm toán có trách nhiệm kiểm tra, đối chiếu thông tin điện tử với thông tin của tài liệu thu thập được để đảm bảo tính chính xác, đầy đủ của hồ sơ kiểm tra thực hiện kết luận, kiến nghị kiểm toán trong Hồ sơ kiểm toán điện tử trên phần mềm. - Trưởng đoàn kiểm tra thực hiện kết luận, kiến nghị kiểm toán và công chức được giao nhiệm vụ số hoá, tạo lập hồ sơ kiểm tra thực hiện kết luận, kiến nghị chịu trách nhiệm trước Thủ trưởng đơn vị về tính chính xác, đầy đủ của hồ sơ kiểm tra thực hiện kết luận, kiến nghị kiểm toán trong Hồ sơ kiểm toán điện tử.\nĐiều 15. Trườrng họp quá thời hạn quy định số hóa tài liệu Trường hợp kết thúc thời hạn số hóa đối với tài liệu khảo sát, hồ sơ kiểm toán của Đoàn kiểm toán, hồ sơ kiểm tra thực hiện kết luận, kiến nghị kiểm toán, theo quy định tại Điều 13 hoặc Điều 14 của\nQuy chế này, nếu phát sinh nhu cầu số hoá bổ sung tài liệu, Thủ trưởng đơn vị gửi\nvăn bản báo cáo Vụ Chế độ và Kiểm soát chất lượng kiểm toán xin ý kiến. Sau khi Vụ Chế độ và Kiểm soát chất lượng kiểm toán đồng ý, đơn vị đăng kí bằng văn bản với Trung tâm Tin học để được cấp quyền bổ sung hồ sơ kiểm toán điện tử theo mẫu quy định tại Phụ lục 02 của Quy chế này.\nChương IV\nKHAI THÁC, LƯU\nTRỮ TÀI LIỆU KHẢO SÁT VÀ HỒ SƠ KIỂM TOÁN ĐIỆN TỬ\nĐiều 16. Quyền khai thác Tài liệu khảo sát, Hồ sơ kiểm toán điện tử của Lãnh đạo Kiểm toán nhà nước và Thủ trưởng Đơn vị chủ trì thực hiện kiểm toán Lãnh đạo Kiểm toán nhà nước và Thủ trưởng Đơn vị chủ trì thực hiện kiểm toán có quyền khai thác Tài liệu khảo sát, Hồ sơ kiểm toán điện tử sau khi số hóa, lưu trữ trên phần mềm như sau:\n1. Tổng Kiểm toán nhà nước có quyền\ntruy cập vào phần mềm để khai thác, sử dụng Tài liệu khảo sát điện tử và Hồ sơ kiểm toán điện tử của tất cả các đơn vị trực thuộc Kiểm toán nhà nước.\n2. Phó Tổng Kiểm toán nhà nước có quyền\ntruy cập vào phần mềm để khai thác, sử dụng Tài liệu khảo sát điện tử và Hồ sơ kiểm toán điện tử của các đơn vị trực thuộc Kiểm toán nhà nước theo phạm vi được phân công phụ trách quản lý.\n3. Thủ trưởng các đơn vị chủ trì thực\nhiện kiểm toán có quyền truy cập vào phần mềm để khai thác, sử dụng Tài liệu khảo sát điện tử và Hồ sơ kiểm toán điện tử của các cuộc kiểm toán do đơn vị mình chủ trì thực hiện.\nĐiều 17. Quyền khai thác Tài liệu khảo sát, Hồ sơ kiểm toán điện tử trước khi kết thúc quá trình lập hồ sơ kiểm toán điện tử của Đoàn kiểm toán\n1. Lãnh đạo Đoàn kiểm toán có quyền\ntruy cập vào phần mềm để khai thác Tài liệu khảo sát điện tử và Hồ sơ kiểm toán điện tử của Đoàn kiểm toán do mình phụ trách.\n2. Tổ trưởng Tổ kiểm toán có quyền\ntruy cập vào phần mềm để khai thác, sử dụng Tài liệu khảo sát điện tử, Hồ sơ kiểm toán chi tiết do Tổ kiểm toán thực hiện, Hồ sơ kiểm toán chung trong Hồ sơ kiểm toán điện tử của Đoàn kiểm toán.\n3. Thành viên Tổ kiểm toán thuộc Đoàn\nkiểm toán có quyền truy cập vào phần mềm để khai thác, sử dụng Tài liệu khảo sát điện tử và Hồ sơ kiểm toán chi tiết do Tổ kiểm toán thực hiện trong Hồ sơ kiểm toán điện tử của Đoàn kiểm toán.\n4. Đơn vị có chức năng thanh tra, kiểm\ntra cuộc kiểm toán có quyền khai thác, sử dụng Tài liệu khảo sát điện tử và Hồ sơ kiểm toán điện tử của Đoàn kiểm toán khi thực hiện công tác thanh tra, kiểm tra cuộc kiểm toán theo nhiệm vụ được giao. Căn cứ danh sách thành viên trong Quyết định thanh tra, kiểm tra cuộc kiểm toán của Kiểm toán nhà nước được gửi về Trung tâm Tin học, Trung tâm Tin học cấp quyền tương ứng trên phần mềm.\n5. Đơn vị, bộ phận có chức năng, nhiệm\nvụ kiểm soát chất lượng kiểm toán có quyền khai thác, sử dụng Tài liệu khảo sát điện tử và Hồ sơ kiểm toán điện tử của Đoàn kiểm toán khi thực hiện công tác kiểm soát chất lượng kiểm toán. Quản trị đơn vị cấp quyền khai thác cho công chức là thành viên của tổ kiểm soát chất lượng của đơn vị mình.\n6. Các đơn vị trực thuộc Kiểm toán\nnhà nước, tổ chức, cá nhân khác có nhu cầu truy cập vào phần mềm để khai thác, sử dụng Tài liệu khảo sát điện tử và Hồ sơ kiểm toán điện tử của Đoàn kiểm toán phải được Tổng Kiểm toán nhà nước cho phép bằng văn bản theo mẫu quy định tại\nPhụ lục 03 của Quy chế này. Căn cứ vào văn bản được Tổng Kiểm toán nhà nước phê\nduyệt, Trung tâm Tin học cấp quyền tương ứng trên phần mềm.\nĐiều 18. Quyền khai thác Tài liệu khảo sát, Hồ sơ kiểm toán điện tử sau khi kết thúc quá trình lập hồ sơ kiểm toán điện tử của Đoàn kiểm toán\n1. Công chức thuộc Đơn vị chủ trì thực\nhiện kiểm toán có quyền khai thác Tài liệu khảo sát điện tử của đơn vị mình.\n2. Thủ trưởng đơn vị có quyền khai\nthác và được cấp quyền khai thác Hồ sơ kiểm toán điện tử do đơn vị chủ trì thực hiện cho công chức của đơn vị mình.\n3. Các đơn vị trực thuộc Kiểm toán\nnhà nước, tổ chức, cá nhân khác có nhu cầu truy cập vào phần mềm để khai thác, sử dụng Tài liệu khảo sát điện tử và Hồ sơ kiểm toán điện tử của đơn vị khác phải được Tổng Kiểm toán nhà nước cho phép bằng văn bản theo mẫu quy định tại Phụ lục 03 của Quy chế này. Căn cứ vào văn bản được Tổng Kiểm toán nhà nước phê duyệt, Trung tâm Tin học cấp quyền tương ứng trên phần mềm.\nĐiều 19. Lưu trữ hồ sơ kiểm toán điện tử Tuân thủ theo Quyết định 2175/QĐ-KTNN ngày 01/12/2014 ban hành Quy chế công tác văn thư, lưu trữ của Kiểm toán nhà nước và theo Quyết định số 10/2016/QĐ-KTNN ngày 28 tháng 12 năm 2016 về Danh mục hồ sơ kiểm toán; chế độ nộp lưu, bảo quản, khai thác và hủy hồ sơ kiểm toán. Sau khi kết thúc thời gian lưu trữ hồ sơ kiểm toán theo quy định, hồ sơ kiểm toán điện tử sẽ chuyển sang hình thức lưu trữ trên thiết bị lưu trữ lâu dài (như lưu trữ băng từ).\nChương V\nTRÁCH NHIỆM CỦA TỔ CHỨC, CÁ NHÂN\nĐiều 20. Trách nhiệm của các Đơn vị chủ trì thực hiện kiểm toán\n1. Kiểm tra, đôn đốc tình hình thực\nhiện số hóa hồ sơ, tài liệu vào phần mềm theo đúng quy định của Quy chế này.\n2. Định kỳ hàng năm (hoặc đột xuất),\nbáo cáo Tổng Kiểm toán nhà nước tình hình quản lý, khai thác sử dụng phần mềm và số hóa tài liệu của đơn vị thông qua Trung tâm Tin học.\nĐiều 21. Trách nhiệm của Trung tâm Tin học\n1. Quản lý, vận hành phần mềm đảm bảo\nhoạt động ổn định, liên tục, an toàn và bảo mật thông tin.\n2. Chủ trì hướng dẫn các đơn vị trong\nviệc số hóa, quản lý, khai thác sử dụng phần mềm theo quy định của Kiểm toán nhà nước, của pháp luật.\n3. Chủ trì, phối hợp với các đơn vị liên\nquan tổ chức đào tạo, hướng dẫn sử dụng phần mềm.\n4. Chủ trì, phối hợp với các đơn vị\nliên quan nghiên cứu, đề xuất giải pháp và kinh phí duy trì hoạt động, nâng cấp, phát triển phần mềm, số hóa tài liệu, bổ sung hạ tầng kỹ thuật để đảm bảo hoạt động an toàn, ổn định, hiệu quả phần mềm.\n5. Định kỳ (hoặc đột xuất) báo cáo\nLãnh đạo Kiểm toán nhà nước tình hình quản lý và sử dụng phần mềm.\n6. Được quyền truy cập vào phần mềm để:\nquản trị phần mềm, lập báo cáo, cấp mới, thay đổi, hủy bỏ tài khoản (không bao gồm cập nhật, xem, sửa, xoá dữ liệu) và cấp quyền khai thác sử dụng phần mềm cho các tổ chức cá nhân theo quy định của Quy chế này.\n7. Kiểm tra và đề xuất giải pháp bảo\nđảm an toàn và bảo mật dữ liệu theo quy định hiện hành.\n8. Định kỳ tổ chức sao lưu dữ liệu.\n9. Tổ chức thực hiện quy trình khắc\nphục sự cố khi sự cố xảy ra.\n10. Thông báo cho các đơn vị khi xảy\nra sự cố hoặc lịch bảo trì, nâng cấp hệ thống có ảnh hưởng đến việc quản lý và sử dụng phần mềm.\nĐiều 22. Trách nhiệm của các đơn vị khác\n1. Văn phòng KTNN tham mưu, đề xuất Tổng\nKiểm toán nhà nước trong việc bố trí kinh phí đảm bảo duy trì hoạt động, nâng cấp, phát triển phần mềm, số hóa tài liệu, bổ sung hạ tầng kỹ thuật để đảm bảo hoạt động an toàn, ổn định, hiệu quả phần mềm.\n2. Vụ Chế độ và kiểm soát chất lượng\nkiểm toán chủ trì kiểm tra, đôn đốc các đơn vị trong việc số hóa hồ sơ kiểm toán theo quy định của Quy chế này.\n3. Các đơn vị khác có trách nhiệm phối\nhợp tổ chức thực hiện quản lý, khai thác và sử dụng phần mềm khi có yêu cầu.\nĐiều 23. Xử lý vi phạm Bất kỳ đơn vị, tổ chức, cá nhân có hành vi vi phạm quy định của Quy chế này, tùy theo tính chất, mức độ vi phạm sẽ bị xử lý vi phạm hành chính hoặc bị truy cứu trách nhiệm hình sự theo quy định của Kiểm toán nhà nước và pháp luật.\nChương VI\nĐIỀU KHOẢN THI HÀNH\nĐiều 24. Hiệu lực thi hành\n1. Quy chế này có hiệu lực kể từ ngày\nký.\n2. Đối với hồ sơ kiểm toán của các cuộc\nkiểm toán năm 2019 thực hiện phương án số hóa được Tổng Kiểm toán nhà nước phê duyệt tại Quyết định số 2081/QĐ-KTNN ngày 29/10/2018;\n3. Đối với các hồ sơ kiểm toán của\ncác cuộc kiểm toán năm 2017, 2018 đã được số hóa trên phần mềm, đơn vị chủ trì kiểm toán có trách nhiệm số hóa, tạo lập hồ sơ kiểm toán sau khi phát hành báo cáo kiểm toán của các cuộc kiểm toán thực hiện từ năm 2017, 2018.\nĐiều 25. Tổ chức thực hiện\n1. Trung tâm Tin học chủ trì tổ chức\ntriển khai, hướng dẫn thực hiện Quy chế này.\n2. Thủ trưởng các đơn vị chịu trách\nnhiệm về việc tổ chức triển khai thực hiện Quy chế này trong phạm vi quản lý của mình.\n3. Trong quá trình thực hiện nếu có\nkhó khăn vướng mắc, các đơn vị phản ánh về Trung tâm Tin học để tổng hợp, báo cáo Tổng Kiểm toán Nhà nước xem xét, quyết định./.\nPHỤ LỤC 01\nMẪU PHIẾU ĐỀ NGHỊ CẤP MỚI/THAY ĐỔI/HỦY BỎ\nTÀI KHOẢN\n(Ban hành kèm theo Quy chế Quản lý, khai thác và sử dụng phần\nmềm Số hóa và quản lý hồ sơ kiểm toán của KTNN)\nKIỂM TOÁN NHÀ NƯỚC <GHI TÊN ĐƠN VỊ>\n-------\nCỘNG\nHÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc --------------- …… , ngày tháng năm\nPHIẾU\nĐỀ NGHỊ CẤP MỚI/THAY ĐỔI/HỦY BỎ TÀI KHOẢN\nPhần mềm Số hóa và quản lý hồ sơ kiểm toán của Kiểm toán nhà nước\nTT\nHọ và tên Chức vụ hành chính Yêu cầu(1) Loại tài khoản (2) Địa chỉ Email(3) Điện thoại(4) Ghi chú 1 Nguyễn Văn A Trưởng phòng anv@sav.gov.vn 090x xxx xxx 2 Trần Thị B Kiểm toán viên btt@sav.gov.vn 090y yyy yyy 3 Vũ Thị C Chuyên viên Chưa có 090z zzz zzz (1) Yêu cầu: - Cấp mới: tạo mới một tài khoản người dùng trên phần mềm; - Thay đổi đơn vị: + Khi công chức thay đổi đơn vị trong Kiểm toán nhà nước, tại cột ghi chú điền tên đơn vị đến. + Khi công chức thay đổi loại tài khoản trong đơn vị, tại cột ghi chú ghi rõ loại tài khoản cũ, loại tài khoản mới. - Hủy bỏ: khi công chức không còn làm việc tại Kiểm toán nhà nước. Tại cột ghi chú điền ngày đề nghị hủy tài khoản. (2) Loại tài khoản: - Tài khoản cá nhân: cấp cho người dùng truy cập vào phần mềm thực hiện công việc theo phân quyền. - Tài khoản quản trị đơn vị: cấp cho người dùng để thực hiện vai trò quản trị của đơn vị. (3) Địa chỉ Email: Bắt buộc phải sử dụng địa chỉ hộp thư công vụ của KTNN. Nếu người dùng chưa được cấp hộp thư công vụ thì ghi rõ là Chưa có; (4) Điện thoại: Số điện thoại liên hệ của cá nhân.\nTHỦ TRƯỞNG ĐƠN VỊ\n(Ký, ghi rõ họ tên)\nPHỤ LỤC 02\nMẪU PHIẾU ĐỀ NGHỊ MỞ HỒ SƠ KIỂM TOÁN ĐIỆN\nTỬ\n(Ban hành kèm theo Quy chế Quản lý, khai thác và sử dụng phần\nmềm số hóa và quản lý hồ sơ kiểm toán của KTNN)\nKIỂM TOÁN NHÀ NƯỚC <GHI TÊN ĐƠN VỊ>\n-------\nCỘNG\nHÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc --------------- …. , ngày tháng năm\nPHIẾU\nĐỀ NGHỊ MỞ HỒ SƠ KIỂM TOÁN ĐIỆN TỬ\nTT SỐ QUYẾT ĐỊNH TÊN CUỘC KIỂM TOÁN\nTÊN HỒ SƠ THỜI GIAN BẮT ĐẦU\nTHỜI GIAN KẾT THÚC GHI CHÚ\n1\n123/QĐ-KTNN\nKiểm toán việc quản lý tài chính công, tài sản công của Bộ X Hồ sơ kiểm toán của đoàn kiểm toán 01/01/2019 10/01/2019 2 3 (Kèm theo văn bản có ý kiến của Vụ Chế độ và kiểm soát chất lượng kiểm toán) TÊN HỒ SƠ gồm: - Tài liệu khảo sát. - Hồ sơ kiểm toán của đoàn kiểm toán. - Hồ sơ kiểm soát chất lượng của Kiểm toán trưởng. - Hồ sơ kiểm tra thực hiện kết luận, kiến nghị kiểm toán.\nTHỦ TRƯỞNG ĐƠN VỊ\n(Ký, ghi rõ họ tên)\nPHỤ LỤC 03\nMẪU PHIẾU ĐỀ NGHỊ CẤP QUYỀN KHAI THÁC HỒ\nSƠ KIỂM TOÁN ĐIỆN TỬ\n(Ban hành kèm theo Quy chế Quản lý, khai thác và sử dụng phần\nmềm Số hóa và quản lý hồ sơ kiểm toán của KTNN)\nKIỂM TOÁN NHÀ NƯỚC <GHI TÊN ĐƠN VỊ>\n-------\nCỘNG\nHÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc --------------- …… , ngày tháng năm\nPHIẾU ĐỀ NGHỊ CẤP\nQUYỀN KHAI THÁC HỒ SƠ KIỂM TOÁN ĐIỆN TỬ\n1. Thông tin hồ sơ khai thác\n- Tên cuộc kiểm toán cần khai thác: - Số quyết định: - Đơn vị chủ trì kiểm toán: - Mục đích sử dụng: để phục vụ khai thác thông tin cho: + Tên đơn vị: + Tên Trưởng đoàn: + Tên đoàn kiểm toán: + Số Quyết định:\n2. Thông tin đơn vị/cá nhân đề nghị\ncấp quyền khai thác hồ sơ\nTT\nTên đăng nhập Họ và tên Email của KTNN Chức vụ trong đoàn Chức vụ hành chính Phòng/ban Đơn vị công tác Thời gian bắt đầu Thời gian kết thúc Loại hồ sơ Ghi chú 1 antq Trần Quang An Trưởng đoàn Trưởng phòng Tổng hợp Vụ A 15/03/2019 30/05/2019 Hồ sơ chung 2 anhtd Trần Đức Anh Tổ trưởng Kiểm toán viên\nX\nVụ A 15/03/2019 30/04/2019 Hồ sơ chi tiết của đơn vị Z 3 quangtv Trần Văn Quang Thành viên Kiểm toán viên\nX\nVụ B 15/03/2019 30/05/2019 Toàn bộ hồ sơ (Cung cấp tên đăng nhập theo tên đăng nhập vào thư điện tử của KTNN)\n3. Cam kết của đơn vị khai thác hồ\nsơ Yêu cầu các cá nhân của đơn vị khi được cấp quyền khai thác hồ sơ thì sử dụng đúng mục đích, có trách nhiệm bảo mật thông tin của hồ sơ được mượn. Trường hợp xảy ra thất thoát thông tin trong quá trình khai thác tài liệu do tài khoản cá nhân nào được cấp thì cá nhân đó và Thủ trưởng đơn vị chịu trách nhiệm giải trình đối với các cấp Lãnh đạo KTNN, Lãnh đạo đơn vị chủ trì kiểm toán. Chú ý: (1) TÊN HỒ SƠ gồm - Tài liệu khảo sát. - Hồ sơ kiểm toán của đoàn kiểm toán - Hồ sơ kiểm toán chung - Hồ sơ kiểm toán chi tiết của tổ / đơn vị được kiểm toán - Hồ sơ kiểm soát chất lượng của Kiểm toán trưởng. - Hồ sơ kiểm tra thực hiện kết luận, kiến nghị kiểm toán. (2) Mục đích sử dụng: ghi rõ mục đích sử dụng hồ sơ làm căn cứ để Lãnh đạo KTNN phê duyệt, ví dụ - Thanh tra - Lập kế hoạch kiểm toán năm - Tài liệu phục vụ cho cuộc kiểm toán X năm Y …\nÝ\nKIẾN CỦA TỔNG KIỂM TOÁN NHÀ NƯỚC\nTHỦ TRƯỞNG ĐƠN VỊ\n(Ký, ghi rõ họ tên)",
+  "tree": {
+    "parts": [
+      {
+        "part_id": "doc:71739:part:1",
+        "part_type": "main",
+        "part_title": null,
+        "reference": null,
+        "direct_text": "QUYẾT ĐỊNH\nBAN HÀNH QUY CHẾ QUẢN LÝ, KHAI THÁC VÀ SỬ DỤNG PHẦN MỀM SỐ HÓA VÀ QUẢN LÝ\nHỒ SƠ KIỂM TOÁN CỦA KIỂM TOÁN NHÀ NƯỚC\nTỔNG KIỂM TOÁN NHÀ NƯỚC\nCăn cứ Luật Kiểm toán nhà nước; Căn cứ Luật Công nghệ thông tin; Căn cứ Nghị định số 64/2007/NĐ-CP ngày 10 tháng 4 năm 2007 của Chính phủ về việc ứng dụng công nghệ thông tin trong hoạt động của cơ quan nhà nước; Xét đề nghị của Giám đốc Trung tâm Tin học,\nQUYẾT ĐỊNH:",
+        "chapters": [],
+        "sections": [],
+        "articles": [
+          {
+            "article_id": "doc:71739:part:1:article:1",
+            "number": "1",
+            "title": "Ban hành kèm theo Quyết định này Quy chế quản lý, khai thác và sử dụng phần mềm số hóa và quản lý hồ sơ kiểm toán của Kiểm toán Nhà nước.",
+            "content": "Điều 1. Ban hành kèm theo Quyết định này Quy chế quản lý, khai thác và sử dụng phần mềm số hóa và quản lý hồ sơ kiểm toán của Kiểm toán Nhà nước.",
+            "clauses": [],
+            "points": []
+          },
+          {
+            "article_id": "doc:71739:part:1:article:2",
+            "number": "2",
+            "title": "Quyết định này có hiệu lực thi hành kể từ ngày ký.",
+            "content": "Điều 2. Quyết định này có hiệu lực thi hành kể từ ngày ký.",
+            "clauses": [],
+            "points": []
+          },
+          {
+            "article_id": "doc:71739:part:1:article:3",
+            "number": "3",
+            "title": "Chánh Văn phòng Kiểm toán Nhà nước, Giám đốc Trung tâm Tin học, Thủ trưởng các đơn vị trực thuộc Kiểm toán Nhà nước và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này./.",
+            "content": "Điều 3. Chánh Văn phòng Kiểm toán Nhà nước, Giám đốc Trung tâm Tin học, Thủ trưởng các đơn vị trực thuộc Kiểm toán Nhà nước và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này./.",
+            "clauses": [],
+            "points": []
+          }
+        ],
+        "unstructured_blocks": []
+      },
+      {
+        "part_id": "doc:71739:part:2",
+        "part_type": "regulation",
+        "part_title": "QUY CHẾ",
+        "reference": null,
+        "direct_text": "QUY CHẾ\nQUẢN LÝ, KHAI THÁC VÀ SỬ DỤNG PHẦN MỀM SỐ HÓA VÀ QUẢN LÝ HỒ SƠ KIỂM\nTOÁN ĐIỆN TỬ CỦA KIỂM TOÁN NHÀ NƯỚC\n(Ban hành kèm theo Quyết định số 1320/QĐ-KTNN ngày 16/7/2019 của Tổng Kiểm toán\nnhà nước)\nQuy chế này. Thông tin yêu cầu phải được gửi từ hộp thư chung của đơn vị đến hộp\nthư sohoahskt@sav.gov.vn và gửi văn bản đến Trung tâm Tin học. Trung tâm Tin học có trách nhiệm cấp mới, thay đổi hoặc hủy bỏ tài khoản người dùng trong vòng 01 ngày làm việc kể từ ngày nhận được yêu cầu.\n2. Tên tài khoản người dùng và mật khẩu\nban đầu do Trung tâm Tin học thiết lập. Thông tin về tài khoản người dùng sẽ được gửi đến hộp thư điện tử của Kiểm toán nhà nước do người dùng cung cấp ngay sau khi tài khoản được tạo lập.\n3. Điều này được thay thế khi Kiểm\ntoán nhà nước ban hành Quy định về quản lý tài khoản người dùng của Kiểm toán nhà nước.\nQuy chế này.\nQuy chế này, nếu phát sinh nhu cầu số hoá bổ sung tài liệu, Thủ trưởng đơn vị gửi\nvăn bản báo cáo Vụ Chế độ và Kiểm soát chất lượng kiểm toán xin ý kiến. Sau khi Vụ Chế độ và Kiểm soát chất lượng kiểm toán đồng ý, đơn vị đăng kí bằng văn bản với Trung tâm Tin học để được cấp quyền bổ sung hồ sơ kiểm toán điện tử theo mẫu quy định tại Phụ lục 02 của Quy chế này.\nPhụ lục 03 của Quy chế này. Căn cứ vào văn bản được Tổng Kiểm toán nhà nước phê\nduyệt, Trung tâm Tin học cấp quyền tương ứng trên phần mềm.",
+        "chapters": [
+          {
+            "chapter_id": "doc:71739:part:2:chapter:1",
+            "number": "I",
+            "title": "NHỮNG QUY ĐỊNH CHUNG",
+            "content": "Chương I\nNHỮNG QUY ĐỊNH CHUNG",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:71739:part:2:article:1",
+                "number": "1",
+                "title": "Phạm vi điều chỉnh, đối tượng áp dụng",
+                "content": "Điều 1. Phạm vi điều chỉnh, đối tượng áp dụng",
+                "clauses": [
+                  {
+                    "clause_id": "doc:71739:part:2:article:1:clause:1",
+                    "number": "1",
+                    "content": "1. Quy chế này quy định trình tự, thủ\ntục, trách nhiệm, quyền hạn của các đơn vị trực thuộc Kiểm toán nhà nước và các tổ chức, cá nhân khác có liên quan trong việc quản lý, khai thác và sử dụng phần mềm số hóa và quản lý hồ sơ kiểm toán điện tử của Kiểm toán nhà nước.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:71739:part:2:article:1:clause:2",
+                    "number": "2",
+                    "content": "2. Quy chế này áp dụng với các đơn vị\ntrực thuộc Kiểm toán nhà nước; các Đoàn khảo sát, Đoàn kiểm toán của Kiểm toán nhà nước, Đoàn kiểm tra thực hiện kết luận, kiến nghị kiểm toán; cán bộ, công chức, viên chức và người lao động (gọi tắt là công chức) của Kiểm toán nhà nước và các tổ chức, cá nhân khác có liên quan trong việc quản lý, khai thác, sử dụng và thu thập, số hoá tài liệu trên phần mềm số hóa và quản lý hồ sơ kiểm toán điện tử.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:71739:part:2:article:2",
+                "number": "2",
+                "title": "Giải thích từ ngữ Trong Quy chế này, các từ ngữ dưới đây được hiểu như sau:",
+                "content": "Điều 2. Giải thích từ ngữ Trong Quy chế này, các từ ngữ dưới đây được hiểu như sau:",
+                "clauses": [
+                  {
+                    "clause_id": "doc:71739:part:2:article:2:clause:1",
+                    "number": "1",
+                    "content": "1. Số hóa tài liệu: là quá trình tạo\nthông tin số bằng cách quét (scanning) hoặc chuyển đổi các dạng tài liệu tương tự thành tài liệu điện tử (hay tài liệu số) dưới dạng tệp tin số (file) để lưu trữ, xử lý và truy cập trên phần mềm.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:71739:part:2:article:2:clause:2",
+                    "number": "2",
+                    "content": "2. Phần mềm số hóa và quản lý hồ sơ\nkiểm toán điện tử (gọi tắt là phần mềm): là phần mềm của Kiểm toán nhà nước nhằm trợ giúp công tác số hoá tài liệu và quản lý việc khai thác, sử dụng hồ sơ kiểm toán điện tử của Kiểm toán nhà nước.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:71739:part:2:article:2:clause:3",
+                    "number": "3",
+                    "content": "3. Tài liệu khảo sát điện tử: là các\ntài liệu do đơn vị chủ trì thực hiện kiểm toán thu thập trong quá trình khảo sát tại đơn vị được khảo sát, được số hóa và quản lý trên phần mềm.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:71739:part:2:article:2:clause:4",
+                    "number": "4",
+                    "content": "4. Hồ sơ kiểm toán điện tử: là toàn bộ\nhồ sơ kiểm toán liên quan đến cuộc kiểm toán do Đơn vị chủ trì thực hiện kiểm toán thực hiện (theo Quyết định số 10/2016/QĐ-KTNN ngày 28/12/2016 ban hành quy định danh mục hồ sơ kiểm toán; chế độ nộp lưu, bảo quản, khai thác và hủy hồ sơ kiểm toán của Kiểm toán nhà nước do Tổng Kiểm toán nhà nước ban hành), được số hóa và quản lý trên phần mềm.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:71739:part:2:article:2:clause:5",
+                    "number": "5",
+                    "content": "5. Người sử dụng: là công chức của Kiểm\ntoán nhà nước và các tổ chức, cá nhân được cấp quyền để truy cập vào phần mềm.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:71739:part:2:article:2:clause:6",
+                    "number": "6",
+                    "content": "6. Tài khoản người dùng: bao gồm tên\nđăng nhập (user name) và mật khẩu (password) dùng để định danh và xác định quyền hạn của người sử dụng đăng nhập vào phần mềm để khai thác, sử dụng hoặc quản trị phần mềm. Mỗi tài khoản tùy theo vị trí và quyền hạn của người sử dụng sẽ được cấp một hoặc nhiều quyền khác nhau.Tài khoản người dùng gồm 03 loại: a. Tài khoản quản trị hệ thống: là tài khoản cấp cho người dùng của bộ phận quản trị phần mềm để cấp mới, thay đổi hoặc hủy bỏ tài khoản khác; cấp quyền hoặc hủy bỏ quyền; thiết lập các tham số hệ thống của phần mềm. b. Tài khoản quản trị của đơn vị: là tài khoản cấp cho người dùng của đơn vị trực thuộc Kiểm toán nhà nước để phân quyền cho công chức của đơn vị mình số hóa hoặc khai thác Tài liệu khảo sát, Hồ sơ kiểm toán điện tử trong phạm vi theo chức năng, nhiệm vụ được giao. c. Tài khoản cá nhân: là tài khoản cấp cho công chức của Kiểm toán nhà nước và các tổ chức, cá nhân được cấp quyền để truy cập vào phần mềm.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:71739:part:2:article:2:clause:7",
+                    "number": "7",
+                    "content": "7. Sao lưu là việc tạo ra bản sao cơ\nsở dữ liệu tài liệu lưu trữ, phần mềm.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:71739:part:2:article:3",
+                "number": "3",
+                "title": "Các hành vi bị cấm",
+                "content": "Điều 3. Các hành vi bị cấm",
+                "clauses": [
+                  {
+                    "clause_id": "doc:71739:part:2:article:3:clause:1",
+                    "number": "1",
+                    "content": "1. Phá hoại hệ thống cơ sở hạ tầng\nthông tin hoặc cản trở quá trình vận hành, duy trì ổn định, liên tục của phần mềm.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:71739:part:2:article:3:clause:2",
+                    "number": "2",
+                    "content": "2. Truy cập bất hợp pháp, thay đổi dữ\nliệu không đúng thẩm quyền, làm sai lệch hoặc phá hủy dữ liệu trên phần mềm.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:71739:part:2:article:3:clause:3",
+                    "number": "3",
+                    "content": "3. Cố ý xoá bỏ, tháo gỡ, thay đổi\nthông số thiết lập của phần mềm gây lỗi hoặc ảnh hưởng đến việc vận hành phần mềm và các phần mềm, cơ sở dữ liệu khác được cài đặt trong hệ thống mạng của KTNN.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:71739:part:2:article:3:clause:4",
+                    "number": "4",
+                    "content": "4. Sử dụng, lợi dụng phần mềm hoặc dữ\nliệu của phần mềm vào các mục đích không thuộc phạm vi, chức năng, nhiệm vụ được phân công; Cung cấp, phát tán thông tin, chia sẻ cơ sở dữ liệu trái với quy định của KTNN và pháp luật hiện hành.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:71739:part:2:article:3:clause:5",
+                    "number": "5",
+                    "content": "5. Cố ý tiết lộ\ntài khoản, các quy tắc sử dụng, danh sách người sử dụng, sơ đồ tổ chức hệ thống, thông tin dữ liệu của Phần mềm cho các tổ chức, cá nhân không có thẩm quyền.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:71739:part:2:chapter:2",
+            "number": "II",
+            "title": "QUẢN LÝ, VẬN HÀNH VÀ KHAI THÁC PHẦN MỀM",
+            "content": "Chương II\nQUẢN LÝ, VẬN\nHÀNH VÀ KHAI THÁC PHẦN MỀM",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:71739:part:2:article:4",
+                "number": "4",
+                "title": "Nguyên tắc quản lý, vận hành và khai thác phần mềm",
+                "content": "Điều 4. Nguyên tắc quản lý, vận hành và khai thác phần mềm",
+                "clauses": [
+                  {
+                    "clause_id": "doc:71739:part:2:article:4:clause:1",
+                    "number": "1",
+                    "content": "1. Số hóa tài liệu phải thực hiện\ntheo tiêu chuẩn định dạng; ký hiệu tệp tin số phải thống nhất, theo trình tự khoa học và nghiệp vụ lưu trữ, bảo đảm tính duy nhất, có khả năng tra cứu ngay khi được tạo lập.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:71739:part:2:article:4:clause:2",
+                    "number": "2",
+                    "content": "2. Phần mềm được quản lý tập trung,\nthống nhất tại Trung tâm dữ liệu của Kiểm toán nhà nước, vận hành thông qua hệ thống mạng Internet, đảm bảo hoạt động liên tục, ổn định, an toàn và bảo mật thông tin.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:71739:part:2:article:4:clause:3",
+                    "number": "3",
+                    "content": "3. Phần mềm được quản lý, vận hành đảm\nbảo nguyên tắc đề cao trách nhiệm của công chức của Kiểm toán nhà nước và các tổ chức, cá nhân có liên quan; góp phần nâng cao hiệu quả hoạt động số hoá và quản lý hồ sơ kiểm toán điện tử của Kiểm toán nhà nước.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:71739:part:2:article:4:clause:4",
+                    "number": "4",
+                    "content": "4. Phần mềm được quản lý, vận hành đảm\nbảo tuân thủ các quy định bảo mật cấp nhà nước của Kiểm toán nhà nước và của pháp luật hiện hành.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:71739:part:2:article:4:clause:5",
+                    "number": "5",
+                    "content": "5. Việc cài đặt, quản lý, vận hành phần\nmềm phải tuân thủ theo Quy chế Quản lý và sử dụng hệ thống mạng của Kiểm toán nhà nước.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:71739:part:2:article:4:clause:6",
+                    "number": "6",
+                    "content": "6. Bảo đảm hệ thống cơ sở hạ tầng\nthông tin, các thiết bị có liên quan và môi trường cho việc cài đặt, vận hành phần mềm.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:71739:part:2:article:4:clause:7",
+                    "number": "7",
+                    "content": "7. Khai thác, sử dụng phần mềm đúng mục\nđích, đúng chức năng, nhiệm vụ, đảm bảo tuân thủ các quy định đảm bảo an toàn thông tin mạng, bảo vệ bí mật nhà nước của Kiểm toán nhà nước và của pháp luật hiện hành.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:71739:part:2:article:5",
+                "number": "5",
+                "title": "Bảo trì, nâng cấp và phát triển phần mềm",
+                "content": "Điều 5. Bảo trì, nâng cấp và phát triển phần mềm",
+                "clauses": [
+                  {
+                    "clause_id": "doc:71739:part:2:article:5:clause:1",
+                    "number": "1",
+                    "content": "1. Bảo đảm hệ thống cơ sở hạ tầng\nthông tin, các thiết bị có liên quan và môi trường cho việc cài đặt, vận hành phần mềm sau khi bảo trì, nâng cấp, phát triển.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:71739:part:2:article:5:clause:2",
+                    "number": "2",
+                    "content": "2. Thực hiện các hoạt động kiểm tra,\ngiám sát để cảnh báo các hành vi xâm phạm an toàn của phần mềm.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:71739:part:2:article:5:clause:3",
+                    "number": "3",
+                    "content": "3. Thực hiện các biện pháp sao lưu dữ\nliệu định kỳ, đảm bảo khả năng khôi phục hệ thống khi xảy ra sự cố. Dữ liệu đã sao lưu cần phải được bảo vệ an toàn, định kỳ kiểm tra và đảm bảo phục hồi được từ dữ liệu sao lưu để sẵn sàng sử dụng khi cần thiết.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:71739:part:2:article:5:clause:4",
+                    "number": "4",
+                    "content": "4. Thực hiện các hoạt động bảo trì, bảo\ndưỡng, sửa chữa định kỳ để đảm bảo phần mềm hoạt động ổn định, liên tục.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:71739:part:2:article:5:clause:5",
+                    "number": "5",
+                    "content": "5. Định kỳ hàng năm (hoặc đột xuất\nkhi có đề xuất từ người sử dụng) thực hiện rà soát, đề xuất phương án nâng cấp, phát triển hệ thống hạ tầng phần cứng, phần mềm nhằm đáp ứng nhu cầu thực tế.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:71739:part:2:article:6",
+                "number": "6",
+                "title": "Đảm bảo an toàn thông tin",
+                "content": "Điều 6. Đảm bảo an toàn thông tin",
+                "clauses": [
+                  {
+                    "clause_id": "doc:71739:part:2:article:6:clause:1",
+                    "number": "1",
+                    "content": "1. Thực hiện các hoạt động kiểm tra,\ngiám sát để cảnh báo các hành vi xâm phạm an toàn phần mềm.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:71739:part:2:article:6:clause:2",
+                    "number": "2",
+                    "content": "2. Sử dụng các kênh mã hóa và xác thực\nngười dùng cho các hoạt động: đăng nhập hệ thống, thay đổi thông tin người dùng, gửi nhận dữ liệu giữa các máy chủ, sao lưu dữ liệu, cập nhật và biên tập dữ liệu.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:71739:part:2:article:6:clause:3",
+                    "number": "3",
+                    "content": "3. Áp dụng các biện pháp bảo đảm tính\nxác thực và bảo vệ sự toàn vẹn của dữ liệu trong phần mềm.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:71739:part:2:article:6:clause:4",
+                    "number": "4",
+                    "content": "4. Thực hiện việc lưu trữ lịch sử các\nhoạt động của người sử dụng: truy cập vào phần mềm; thay đổi thông tin, quyền hạn người dùng; tạo mới, thay đổi, sửa, xóa thông tin và các nghiệp vụ khác trên phần mềm.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:71739:part:2:article:6:clause:5",
+                    "number": "5",
+                    "content": "5. Thiết lập và duy trì hệ thống dự\nphòng nhằm đảm bảo phần mềm hoạt động liên tục.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:71739:part:2:article:6:clause:6",
+                    "number": "6",
+                    "content": "6. Thực hiện các biện pháp cần thiết\nkhác để đảm bảo an toàn thông tin trong hoạt động của phần mềm.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:71739:part:2:article:7",
+                "number": "7",
+                "title": "Quy trình đăng ký cấp mới, thay đổi, hủy bỏ tài khoản",
+                "content": "Điều 7. Quy trình đăng ký cấp mới, thay đổi, hủy bỏ tài khoản",
+                "clauses": [
+                  {
+                    "clause_id": "doc:71739:part:2:article:7:clause:1",
+                    "number": "1",
+                    "content": "1. Quy trình đăng ký cấp mới, thay đổi,\nhủy bỏ tài khoản người dùng. Khi có nhu cầu cấp mới, thay đổi, hủy bỏ tài khoản người dùng, đơn vị gửi phiếu yêu cầu theo mẫu tại Phụ lục 01 của",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:71739:part:2:article:8",
+                "number": "8",
+                "title": "Quản lý tài khoản người dùng",
+                "content": "Điều 8. Quản lý tài khoản người dùng",
+                "clauses": [
+                  {
+                    "clause_id": "doc:71739:part:2:article:8:clause:1",
+                    "number": "1",
+                    "content": "1. Quản lý tài khoản quản trị hệ thống:\na. Giám đốc Trung tâm Tin học phân công và tổ chức giám sát tình hình thực hiện nhiệm vụ, trách nhiệm của người quản trị hệ thống. b. Người quản trị hệ thống sử dụng tài khoản được phân quyền để thực hiện việc quản trị hệ thống và chịu trách nhiệm quản lý và bảo mật tài khoản.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:71739:part:2:article:8:clause:2",
+                    "number": "2",
+                    "content": "2. Quản lý tài khoản quản trị của đơn\nvị: a. Đơn vị chủ trì thực hiện kiểm toán được cấp tài khoản quản trị của đơn vị để thực hiện nhiệm vụ quy định tại Điều 13, 14 của Quy chế này. b. Vụ Chế độ và kiểm soát chất lượng kiểm toán được cấp tài khoản quản trị của đơn vị để thực hiện nhiệm vụ quy định tại Khoản 5, Điều 17 của Quy chế này. c. Thủ trưởng đơn vị có trách nhiệm phân công người sử dụng tài khoản quản trị của đơn vị, đồng thời đăng ký với Trung tâm Tin học. Việc đăng ký được thực hiện theo Quy định tại Khoản 1, Điều 7 của Quy chế này. d. Người sử dụng tài khoản quản trị của đơn vị sử dụng phần mềm theo nhiệm vụ được giao và chịu trách nhiệm bảo mật tài khoản theo đúng quy định",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:71739:part:2:article:8:clause:3",
+                    "number": "3",
+                    "content": "3. Quản lý tài khoản cá nhân:\na. Mỗi cán bộ, công chức của Kiểm toán nhà nước được cấp 01 tài khoản để khai thác, sử dụng phần mềm và chịu trách nhiệm đảm bảo việc bảo mật tài khoản của mình theo đúng quy định của Kiểm toán nhà nước và của pháp luật. b. Tổng Kiểm toán nhà nước xem xét quyết định cấp tài khoản cho tổ chức, cá nhân không thuộc diện quản lý của Kiểm toán nhà nước khi có yêu cầu khai thác thông tin. Các tổ chức, cá nhân được cấp tài khoản phải phù hợp với các quy định của pháp luật, của Kiểm toán nhà nước về khai thác thông tin của Kiểm toán nhà nước và có trách nhiệm quản lý, bảo mật tài khoản được cấp, không vi phạm các hành vi bị cấm được quy định tại Điều 3 của",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:71739:part:2:article:9",
+                "number": "9",
+                "title": "Trách nhiệm khai thác, sử dụng phần mềm",
+                "content": "Điều 9. Trách nhiệm khai thác, sử dụng phần mềm",
+                "clauses": [
+                  {
+                    "clause_id": "doc:71739:part:2:article:9:clause:1",
+                    "number": "1",
+                    "content": "1. Công chức của Kiểm toán nhà nước\nvà các tổ chức, cá nhân được cấp tài khoản người dùng để khai thác, sử dụng phần mềm có trách nhiệm khai thác, sử dụng phần mềm đúng mục đích, nhiệm vụ được phân công và tuân thủ các quy định tại Quy chế này.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:71739:part:2:article:9:clause:2",
+                    "number": "2",
+                    "content": "2. Công chức của Kiểm toán nhà nước\nvà các tổ chức, cá nhân được cấp tài khoản ngay khi đăng nhập lần đầu có trách nhiệm kiểm tra các thông tin của tổ chức, cá nhân đã đăng ký, đồng thời thay đổi mật khẩu và chịu trách nhiệm bảo mật, đảm bảo an toàn tài khoản do mình quản lý. Đăng xuất khỏi phần mềm khi không sử dụng.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:71739:part:2:article:9:clause:3",
+                    "number": "3",
+                    "content": "3. Công chức của Kiểm toán nhà nước\nvà các tổ chức, cá nhân khai thác, sử dụng phần mềm kịp thời báo cáo Thủ trưởng đơn vị để có văn bản thông báo cho Trung tâm Tin học, đồng thời thông tin ngay tới bộ phận quản trị phần mềm khi xảy ra các trường hợp sau: - Gặp các sự cố không thể truy cập vào phần mềm; - Phát hiện nguy cơ lộ thông tin tài khoản hoặc dữ liệu; - Quên hoặc mất mật khẩu; - Lỗi phần mềm phát sinh trong quá trình sử dụng hoặc ý kiến đề xuất cải tiến, hoàn thiện phần mềm.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:71739:part:2:chapter:3",
+            "number": "III",
+            "title": "THU THẬP, SỐ HOÁ TÀI LIỆU",
+            "content": "Chương III\nTHU THẬP, SỐ HOÁ TÀI LIỆU",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:71739:part:2:article:10",
+                "number": "10",
+                "title": "Nguyên tắc thu thập, số hoá tài liệu",
+                "content": "Điều 10. Nguyên tắc thu thập, số hoá tài liệu",
+                "clauses": [
+                  {
+                    "clause_id": "doc:71739:part:2:article:10:clause:1",
+                    "number": "1",
+                    "content": "1. Cá nhân được giao nhiệm vụ thu thập,\nsố hoá tài liệu và thủ trưởng đơn vị chịu trách nhiệm về tính chính xác, đầy đủ của tài liệu được số hoá trên phần mềm.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:71739:part:2:article:10:clause:2",
+                    "number": "2",
+                    "content": "2. Việc số hoá tài liệu phải được thực\nhiện theo quy định của Quy chế này. Trong trường hợp đặc biệt, căn cứ vào tình hình thực tế, Tổng Kiểm toán nhà nước quyết định thời gian, trình tự, phương án số hoá hồ sơ kiểm toán của Kiểm toán nhà nước. Việc số hóa tài liệu mật được thực hiện theo quy định của Tổng Kiểm toán nhà nước và của pháp luật.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:71739:part:2:article:10:clause:3",
+                    "number": "3",
+                    "content": "3. Tài liệu được số hoá phải đảm bảo\nchính xác, giống nguyên trạng về nội dung, bố cục so với tài liệu gốc.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:71739:part:2:article:10:clause:4",
+                    "number": "4",
+                    "content": "4. Đối với tài liệu có kích cỡ vượt\nquá khổ: nếu không có máy quét tương ứng với khổ tài liệu, có thể sử dụng máy quét phẳng khổ A4 (hoặc A3 nếu có) và chia tài liệu gốc thành từng phần A4 (hoặc A3 nếu có) và quét lần lượt từ trái qua phải, từ trên xuống dưới theo chiều kim đồng hồ, các phần liền kề gối lên nhau ít nhất 10 mm. Số thứ tự của ảnh được xác định theo số thứ tự quét.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:71739:part:2:article:11",
+                "number": "11",
+                "title": "Tiêu chuẩn dữ liệu thông tin đầu vào của cơ sở dữ liệu tài liệu điện tử Tuân thủ theo quy định về tiêu chuẩn dữ liệu thông tin đầu vào theo Thông tư 02/2019/TT-BNV ngày 21/1/2019 của Bộ Nội Vụ:",
+                "content": "Điều 11. Tiêu chuẩn dữ liệu thông tin đầu vào của cơ sở dữ liệu tài liệu điện tử Tuân thủ theo quy định về tiêu chuẩn dữ liệu thông tin đầu vào theo Thông tư 02/2019/TT-BNV ngày 21/1/2019 của Bộ Nội Vụ:",
+                "clauses": [
+                  {
+                    "clause_id": "doc:71739:part:2:article:11:clause:1",
+                    "number": "1",
+                    "content": "1. Tài liệu lưu trữ điện tử được số\nhóa từ tài liệu lưu trữ nền giấy a. Định dạng Portable Document Format (.pdf), phiên bản 1.4 trở lên; b. Chế độ ảnh màu; c. Độ phân giải tối thiểu: 200 dpi; d. Tỷ lệ số hóa : 100%;",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:71739:part:2:article:11:clause:2",
+                    "number": "2",
+                    "content": "2. Tài liệu ảnh\na. Định dạng: JPEG; b. Độ phân giải tối thiểu: 200 dpi;",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:71739:part:2:article:11:clause:3",
+                    "number": "3",
+                    "content": "3. Tài liệu phim ảnh\na. Định dạng: MPEG-4, .avi, .wmv; b. Bit rate tối thiểu: 1500 kbps;",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:71739:part:2:article:11:clause:4",
+                    "number": "4",
+                    "content": "4. Tài liệu âm thanh:\na. Định dạng: MP3, .wma; b. Bit rate tối thiểu: 128 kbps;",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:71739:part:2:article:12",
+                "number": "12",
+                "title": "Tài liệu được số hoá",
+                "content": "Điều 12. Tài liệu được số hoá",
+                "clauses": [
+                  {
+                    "clause_id": "doc:71739:part:2:article:12:clause:1",
+                    "number": "1",
+                    "content": "1. Tài liệu khảo sát gồm các thành phần\ncơ bản sau: - Quyết định thành lập Đoàn khảo sát hoặc Tổ khảo sát (sau đây gọi chung là Đoàn khảo sát). - Công văn và đề cương khảo sát gửi đơn vị được khảo sát. - Báo cáo tài chính, báo cáo quyết toán ngân sách, báo cáo quyết toán vốn đầu tư, báo cáo khác hoặc các văn bản khác theo quy định để xác định những nội dung về Báo cáo tài chính, báo cáo quyết toán ngân sách, báo cáo quyết toán vốn đầu tư trong trường hợp các báo cáo này chưa được phát hành theo quy định tại thời điểm khảo sát. - Các văn bản chỉ đạo, hướng dẫn, điều hành... về triển khai, thực hiện nhiệm vụ của đơn vị được kiểm toán (nếu có). - Các tài liệu khác có liên quan thu thập được trong quá trình khảo sát.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:71739:part:2:article:12:clause:2",
+                    "number": "2",
+                    "content": "2. Hồ sơ kiểm toán gồm các thành phần\ncơ bản sau: - Hồ sơ kiểm toán chung. - Hồ sơ kiểm toán chi tiết. - Hồ sơ kiểm toán sau khi phát hành báo cáo kiểm toán (bao gồm cả hồ sơ kiểm tra tình hình thực hiện kết luận, kiến nghị kiểm toán). - Hồ sơ kiểm soát chất lượng kiểm toán của Kiểm toán trưởng. Chi tiết các tài liệu cần được số hóa trong mỗi loại hồ sơ ở trên được quy định tại Quyết định số 10/2016/QĐ-KTNN của Tổng Kiểm toán nhà nước ban hành danh mục hồ sơ kiểm toán; chế độ nộp lưu, bảo quản, khai thác và hủy hồ sơ kiểm toán. Riêng đối với Nhật kí công tác của Trưởng đoàn, Phó Trưởng đoàn kiểm toán và Nhật kí làm việc của kiểm toán viên sẽ được đồng bộ từ phần mềm Nhật kí kiểm toán điện tử về phần mềm số hóa và quản lý hồ sơ kiểm toán điện tử.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:71739:part:2:article:13",
+                "number": "13",
+                "title": "Trách nhiệm thu thập, số hóa và tạo lập Tài liệu khảo sát điện tử",
+                "content": "Điều 13. Trách nhiệm thu thập, số hóa và tạo lập Tài liệu khảo sát điện tử",
+                "clauses": [
+                  {
+                    "clause_id": "doc:71739:part:2:article:13:clause:1",
+                    "number": "1",
+                    "content": "1. Thu thập tài liệu: đơn vị chủ trì\nthực hiện kiểm toán có trách nhiệm tổ chức thu thập đầy đủ các tài liệu được quy định tại Khoản 1, Điều 12 của Quy chế này.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:71739:part:2:article:13:clause:2",
+                    "number": "2",
+                    "content": "2. Số hoá, tạo lập Tài liệu khảo sát\nđiện tử a. Trách nhiệm của đơn vị chủ trì thực hiện kiểm toán - Đơn vị chủ trì thực hiện kiểm toán có trách nhiệm tạo danh sách Đoàn khảo sát và phân quyền Trưởng đoàn, thành viên theo Quyết định thành lập Đoàn khảo sát trước khi bắt đầu thực hiện khảo sát. - Kịp thời điều chỉnh danh sách khi có sự thay đổi nhân sự trong Đoàn khảo sát trên phần mềm. b. Trách nhiệm của Đoàn khảo sát - Trưởng đoàn khảo sát có trách nhiệm phân công công chức trong Đoàn khảo sát thực hiện số hoá, tạo lập Tài liệu khảo sát điện tử. - Thành viên đoàn khảo sát có trách nhiệm hoàn thành số hoá, tạo lập Tài liệu khảo sát điện tử trên phần mềm. - Đoàn khảo sát có trách nhiệm kiểm tra, đối chiếu thông tin điện tử với thông tin của tài liệu thu thập được để đảm bảo tính chính xác, đầy đủ của Tài liệu khảo sát điện tử. - Trưởng đoàn khảo sát và công chức được giao nhiệm vụ số hoá, tạo lập Tài liệu khảo sát điện tử chịu trách nhiệm trước Thủ trưởng đơn vị về tính chính xác, đầy đủ của Tài liệu khảo sát điện tử. - Đoàn khảo sát có trách nhiệm hoàn thành việc số hóa, tạo lập Tài liệu khảo sát trên phần mềm chậm nhất vào ngày ra Quyết định kiểm toán.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:71739:part:2:article:14",
+                "number": "14",
+                "title": "Trách nhiệm thu thập, số hóa, tạo lập Hồ sơ kiểm toán điện tử",
+                "content": "Điều 14. Trách nhiệm thu thập, số hóa, tạo lập Hồ sơ kiểm toán điện tử",
+                "clauses": [
+                  {
+                    "clause_id": "doc:71739:part:2:article:14:clause:1",
+                    "number": "1",
+                    "content": "1. Thu thập tài liệu: Đơn vị chủ trì\nthực hiện kiểm toán có trách nhiệm tổ chức thu thập đầy đủ các tài liệu được quy định tại Khoản 2, Điều 12 của Quy chế này.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:71739:part:2:article:14:clause:2",
+                    "number": "2",
+                    "content": "2. Số hoá, tạo lập Hồ sơ kiểm toán điện\ntử a. Trách nhiệm của đơn vị chủ trì thực hiện kiểm toán - Kiểm tra, rà soát danh sách Đoàn kiểm toán đã được tạo lập trên phần mềm Nhật kí kiểm toán để đảm bảo danh sách nhân sự Đoàn kiểm toán đã được thiết lập đầy đủ, chính xác trước khi bắt đầu thực hiện kiểm toán. - Phân công công chức quản lý, số hóa, tạo lập Hồ sơ kiểm soát chất lượng kiểm toán của Kiểm toán trưởng. Chậm nhất 45 ngày kể từ ngày phát hành Báo cáo kiểm toán, công chức được giao nhiệm vụ phải hoàn thành việc số hoá, tạo lập Hồ sơ kiểm soát chất lượng kiểm toán của Kiểm toán trưởng trên phần mềm. - Tạo lập danh sách Đoàn kiểm tra thực hiện kết luận, kiến nghị kiểm toán và phân quyền Trưởng đoàn, thành viên theo Quyết định thành lập Đoàn kiểm tra thực hiện kết luận, kiến nghị kiểm toán trước khi bắt đầu thực hiện kiểm tra thực hiện kết luận, kiến nghị kiểm toán. - Phân công công chức số hóa tài liệu trong Hồ sơ kiểm toán sau khi phát hành báo cáo kiểm toán, trừ hồ sơ kiểm tra thực hiện kết luận, kiến nghị kiểm toán được quy định tại Điểm c, Khoản 2, Điều 14 của Quy chế này. b. Trách nhiệm của Đoàn kiểm toán - Trưởng đoàn kiểm toán có trách nhiệm phân công các thành viên trong Đoàn kiểm toán thực hiện số hoá, tạo lập hồ sơ kiểm toán của Đoàn kiểm toán. - Chậm nhất 30 ngày kể từ ngày phát hành Báo cáo kiểm toán, Tổ kiểm toán có trách nhiệm hoàn thành việc số hóa, tạo lập hồ sơ kiểm toán của Tổ kiểm toán trên phần mềm. - Chậm nhất 45 ngày kể từ ngày phát hành Báo cáo kiểm toán, Đoàn kiểm toán có trách nhiệm hoàn thành việc số hóa, tạo lập hồ sơ kiểm toán của Đoàn kiểm toán trên phần mềm. - Đoàn kiểm toán có trách nhiệm kiểm tra, đối chiếu thông tin điện tử với thông tin của tài liệu thu thập được để đảm bảo tính chính xác, đầy đủ của hồ sơ kiểm toán của Đoàn kiểm toán trong Hồ sơ kiểm toán điện tử. - Trưởng đoàn kiểm toán, Tổ trưởng tổ kiểm toán và công chức được giao nhiệm vụ số hoá, tạo lập hồ sơ kiểm toán của Tổ kiểm toán, Đoàn kiểm toán chịu trách nhiệm trước Thủ trưởng đơn vị về tính chính xác, đầy đủ về hồ sơ kiểm toán của Đoàn kiểm toán trên phần mềm. c. Trách nhiệm của Đoàn kiểm tra thực hiện kết luận, kiến nghị kiểm toán - Trưởng đoàn kiểm tra thực hiện kết luận, kiến nghị kiểm toán có trách nhiệm phân công các thành viên trong Đoàn kiểm tra thực hiện kết luận, kiến nghị thực hiện số hoá, tạo lập hồ sơ kiểm tra thực hiện kết luận, kiến nghị kiểm toán trên phần mềm. - Chậm nhất 20 ngày làm việc kể từ ngày phát hành Báo cáo kiểm tra thực hiện kết luận, kiến nghị kiểm toán, Đoàn kiểm tra thực hiện kết luận, kiến nghị kiểm toán có trách nhiệm hoàn thành số hoá, tạo lập hồ sơ kiểm tra thực hiện kết luận, kiến nghị kiểm toán trên phần mềm. - Đoàn kiểm tra thực hiện kết luận, kiến nghị kiểm toán có trách nhiệm kiểm tra, đối chiếu thông tin điện tử với thông tin của tài liệu thu thập được để đảm bảo tính chính xác, đầy đủ của hồ sơ kiểm tra thực hiện kết luận, kiến nghị kiểm toán trong Hồ sơ kiểm toán điện tử trên phần mềm. - Trưởng đoàn kiểm tra thực hiện kết luận, kiến nghị kiểm toán và công chức được giao nhiệm vụ số hoá, tạo lập hồ sơ kiểm tra thực hiện kết luận, kiến nghị chịu trách nhiệm trước Thủ trưởng đơn vị về tính chính xác, đầy đủ của hồ sơ kiểm tra thực hiện kết luận, kiến nghị kiểm toán trong Hồ sơ kiểm toán điện tử.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:71739:part:2:article:15",
+                "number": "15",
+                "title": "Trườrng họp quá thời hạn quy định số hóa tài liệu Trường hợp kết thúc thời hạn số hóa đối với tài liệu khảo sát, hồ sơ kiểm toán của Đoàn kiểm toán, hồ sơ kiểm tra thực hiện kết luận, kiến nghị kiểm toán, theo quy định tại Điều 13 hoặc Điều 14 của",
+                "content": "Điều 15. Trườrng họp quá thời hạn quy định số hóa tài liệu Trường hợp kết thúc thời hạn số hóa đối với tài liệu khảo sát, hồ sơ kiểm toán của Đoàn kiểm toán, hồ sơ kiểm tra thực hiện kết luận, kiến nghị kiểm toán, theo quy định tại Điều 13 hoặc Điều 14 của",
+                "clauses": [],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:71739:part:2:chapter:4",
+            "number": "IV",
+            "title": "KHAI THÁC, LƯU TRỮ TÀI LIỆU KHẢO SÁT VÀ HỒ SƠ KIỂM TOÁN ĐIỆN TỬ",
+            "content": "Chương IV\nKHAI THÁC, LƯU\nTRỮ TÀI LIỆU KHẢO SÁT VÀ HỒ SƠ KIỂM TOÁN ĐIỆN TỬ",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:71739:part:2:article:16",
+                "number": "16",
+                "title": "Quyền khai thác Tài liệu khảo sát, Hồ sơ kiểm toán điện tử của Lãnh đạo Kiểm toán nhà nước và Thủ trưởng Đơn vị chủ trì thực hiện kiểm toán Lãnh đạo Kiểm toán nhà nước và Thủ trưởng Đơn vị chủ trì thực hiện kiểm toán có quyền khai thác Tài liệu khảo sát, Hồ sơ kiểm toán điện tử sau khi số hóa, lưu trữ trên phần mềm như sau:",
+                "content": "Điều 16. Quyền khai thác Tài liệu khảo sát, Hồ sơ kiểm toán điện tử của Lãnh đạo Kiểm toán nhà nước và Thủ trưởng Đơn vị chủ trì thực hiện kiểm toán Lãnh đạo Kiểm toán nhà nước và Thủ trưởng Đơn vị chủ trì thực hiện kiểm toán có quyền khai thác Tài liệu khảo sát, Hồ sơ kiểm toán điện tử sau khi số hóa, lưu trữ trên phần mềm như sau:",
+                "clauses": [
+                  {
+                    "clause_id": "doc:71739:part:2:article:16:clause:1",
+                    "number": "1",
+                    "content": "1. Tổng Kiểm toán nhà nước có quyền\ntruy cập vào phần mềm để khai thác, sử dụng Tài liệu khảo sát điện tử và Hồ sơ kiểm toán điện tử của tất cả các đơn vị trực thuộc Kiểm toán nhà nước.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:71739:part:2:article:16:clause:2",
+                    "number": "2",
+                    "content": "2. Phó Tổng Kiểm toán nhà nước có quyền\ntruy cập vào phần mềm để khai thác, sử dụng Tài liệu khảo sát điện tử và Hồ sơ kiểm toán điện tử của các đơn vị trực thuộc Kiểm toán nhà nước theo phạm vi được phân công phụ trách quản lý.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:71739:part:2:article:16:clause:3",
+                    "number": "3",
+                    "content": "3. Thủ trưởng các đơn vị chủ trì thực\nhiện kiểm toán có quyền truy cập vào phần mềm để khai thác, sử dụng Tài liệu khảo sát điện tử và Hồ sơ kiểm toán điện tử của các cuộc kiểm toán do đơn vị mình chủ trì thực hiện.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:71739:part:2:article:17",
+                "number": "17",
+                "title": "Quyền khai thác Tài liệu khảo sát, Hồ sơ kiểm toán điện tử trước khi kết thúc quá trình lập hồ sơ kiểm toán điện tử của Đoàn kiểm toán",
+                "content": "Điều 17. Quyền khai thác Tài liệu khảo sát, Hồ sơ kiểm toán điện tử trước khi kết thúc quá trình lập hồ sơ kiểm toán điện tử của Đoàn kiểm toán",
+                "clauses": [
+                  {
+                    "clause_id": "doc:71739:part:2:article:17:clause:1",
+                    "number": "1",
+                    "content": "1. Lãnh đạo Đoàn kiểm toán có quyền\ntruy cập vào phần mềm để khai thác Tài liệu khảo sát điện tử và Hồ sơ kiểm toán điện tử của Đoàn kiểm toán do mình phụ trách.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:71739:part:2:article:17:clause:2",
+                    "number": "2",
+                    "content": "2. Tổ trưởng Tổ kiểm toán có quyền\ntruy cập vào phần mềm để khai thác, sử dụng Tài liệu khảo sát điện tử, Hồ sơ kiểm toán chi tiết do Tổ kiểm toán thực hiện, Hồ sơ kiểm toán chung trong Hồ sơ kiểm toán điện tử của Đoàn kiểm toán.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:71739:part:2:article:17:clause:3",
+                    "number": "3",
+                    "content": "3. Thành viên Tổ kiểm toán thuộc Đoàn\nkiểm toán có quyền truy cập vào phần mềm để khai thác, sử dụng Tài liệu khảo sát điện tử và Hồ sơ kiểm toán chi tiết do Tổ kiểm toán thực hiện trong Hồ sơ kiểm toán điện tử của Đoàn kiểm toán.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:71739:part:2:article:17:clause:4",
+                    "number": "4",
+                    "content": "4. Đơn vị có chức năng thanh tra, kiểm\ntra cuộc kiểm toán có quyền khai thác, sử dụng Tài liệu khảo sát điện tử và Hồ sơ kiểm toán điện tử của Đoàn kiểm toán khi thực hiện công tác thanh tra, kiểm tra cuộc kiểm toán theo nhiệm vụ được giao. Căn cứ danh sách thành viên trong Quyết định thanh tra, kiểm tra cuộc kiểm toán của Kiểm toán nhà nước được gửi về Trung tâm Tin học, Trung tâm Tin học cấp quyền tương ứng trên phần mềm.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:71739:part:2:article:17:clause:5",
+                    "number": "5",
+                    "content": "5. Đơn vị, bộ phận có chức năng, nhiệm\nvụ kiểm soát chất lượng kiểm toán có quyền khai thác, sử dụng Tài liệu khảo sát điện tử và Hồ sơ kiểm toán điện tử của Đoàn kiểm toán khi thực hiện công tác kiểm soát chất lượng kiểm toán. Quản trị đơn vị cấp quyền khai thác cho công chức là thành viên của tổ kiểm soát chất lượng của đơn vị mình.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:71739:part:2:article:17:clause:6",
+                    "number": "6",
+                    "content": "6. Các đơn vị trực thuộc Kiểm toán\nnhà nước, tổ chức, cá nhân khác có nhu cầu truy cập vào phần mềm để khai thác, sử dụng Tài liệu khảo sát điện tử và Hồ sơ kiểm toán điện tử của Đoàn kiểm toán phải được Tổng Kiểm toán nhà nước cho phép bằng văn bản theo mẫu quy định tại",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:71739:part:2:article:18",
+                "number": "18",
+                "title": "Quyền khai thác Tài liệu khảo sát, Hồ sơ kiểm toán điện tử sau khi kết thúc quá trình lập hồ sơ kiểm toán điện tử của Đoàn kiểm toán",
+                "content": "Điều 18. Quyền khai thác Tài liệu khảo sát, Hồ sơ kiểm toán điện tử sau khi kết thúc quá trình lập hồ sơ kiểm toán điện tử của Đoàn kiểm toán",
+                "clauses": [
+                  {
+                    "clause_id": "doc:71739:part:2:article:18:clause:1",
+                    "number": "1",
+                    "content": "1. Công chức thuộc Đơn vị chủ trì thực\nhiện kiểm toán có quyền khai thác Tài liệu khảo sát điện tử của đơn vị mình.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:71739:part:2:article:18:clause:2",
+                    "number": "2",
+                    "content": "2. Thủ trưởng đơn vị có quyền khai\nthác và được cấp quyền khai thác Hồ sơ kiểm toán điện tử do đơn vị chủ trì thực hiện cho công chức của đơn vị mình.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:71739:part:2:article:18:clause:3",
+                    "number": "3",
+                    "content": "3. Các đơn vị trực thuộc Kiểm toán\nnhà nước, tổ chức, cá nhân khác có nhu cầu truy cập vào phần mềm để khai thác, sử dụng Tài liệu khảo sát điện tử và Hồ sơ kiểm toán điện tử của đơn vị khác phải được Tổng Kiểm toán nhà nước cho phép bằng văn bản theo mẫu quy định tại Phụ lục 03 của Quy chế này. Căn cứ vào văn bản được Tổng Kiểm toán nhà nước phê duyệt, Trung tâm Tin học cấp quyền tương ứng trên phần mềm.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:71739:part:2:article:19",
+                "number": "19",
+                "title": "Lưu trữ hồ sơ kiểm toán điện tử Tuân thủ theo Quyết định 2175/QĐ-KTNN ngày 01/12/2014 ban hành Quy chế công tác văn thư, lưu trữ của Kiểm toán nhà nước và theo Quyết định số 10/2016/QĐ-KTNN ngày 28 tháng 12 năm 2016 về Danh mục hồ sơ kiểm toán; chế độ nộp lưu, bảo quản, khai thác và hủy hồ sơ kiểm toán. Sau khi kết thúc thời gian lưu trữ hồ sơ kiểm toán theo quy định, hồ sơ kiểm toán điện tử sẽ chuyển sang hình thức lưu trữ trên thiết bị lưu trữ lâu dài (như lưu trữ băng từ).",
+                "content": "Điều 19. Lưu trữ hồ sơ kiểm toán điện tử Tuân thủ theo Quyết định 2175/QĐ-KTNN ngày 01/12/2014 ban hành Quy chế công tác văn thư, lưu trữ của Kiểm toán nhà nước và theo Quyết định số 10/2016/QĐ-KTNN ngày 28 tháng 12 năm 2016 về Danh mục hồ sơ kiểm toán; chế độ nộp lưu, bảo quản, khai thác và hủy hồ sơ kiểm toán. Sau khi kết thúc thời gian lưu trữ hồ sơ kiểm toán theo quy định, hồ sơ kiểm toán điện tử sẽ chuyển sang hình thức lưu trữ trên thiết bị lưu trữ lâu dài (như lưu trữ băng từ).",
+                "clauses": [],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:71739:part:2:chapter:5",
+            "number": "V",
+            "title": "TRÁCH NHIỆM CỦA TỔ CHỨC, CÁ NHÂN",
+            "content": "Chương V\nTRÁCH NHIỆM CỦA TỔ CHỨC, CÁ NHÂN",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:71739:part:2:article:20",
+                "number": "20",
+                "title": "Trách nhiệm của các Đơn vị chủ trì thực hiện kiểm toán",
+                "content": "Điều 20. Trách nhiệm của các Đơn vị chủ trì thực hiện kiểm toán",
+                "clauses": [
+                  {
+                    "clause_id": "doc:71739:part:2:article:20:clause:1",
+                    "number": "1",
+                    "content": "1. Kiểm tra, đôn đốc tình hình thực\nhiện số hóa hồ sơ, tài liệu vào phần mềm theo đúng quy định của Quy chế này.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:71739:part:2:article:20:clause:2",
+                    "number": "2",
+                    "content": "2. Định kỳ hàng năm (hoặc đột xuất),\nbáo cáo Tổng Kiểm toán nhà nước tình hình quản lý, khai thác sử dụng phần mềm và số hóa tài liệu của đơn vị thông qua Trung tâm Tin học.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:71739:part:2:article:21",
+                "number": "21",
+                "title": "Trách nhiệm của Trung tâm Tin học",
+                "content": "Điều 21. Trách nhiệm của Trung tâm Tin học",
+                "clauses": [
+                  {
+                    "clause_id": "doc:71739:part:2:article:21:clause:1",
+                    "number": "1",
+                    "content": "1. Quản lý, vận hành phần mềm đảm bảo\nhoạt động ổn định, liên tục, an toàn và bảo mật thông tin.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:71739:part:2:article:21:clause:2",
+                    "number": "2",
+                    "content": "2. Chủ trì hướng dẫn các đơn vị trong\nviệc số hóa, quản lý, khai thác sử dụng phần mềm theo quy định của Kiểm toán nhà nước, của pháp luật.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:71739:part:2:article:21:clause:3",
+                    "number": "3",
+                    "content": "3. Chủ trì, phối hợp với các đơn vị liên\nquan tổ chức đào tạo, hướng dẫn sử dụng phần mềm.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:71739:part:2:article:21:clause:4",
+                    "number": "4",
+                    "content": "4. Chủ trì, phối hợp với các đơn vị\nliên quan nghiên cứu, đề xuất giải pháp và kinh phí duy trì hoạt động, nâng cấp, phát triển phần mềm, số hóa tài liệu, bổ sung hạ tầng kỹ thuật để đảm bảo hoạt động an toàn, ổn định, hiệu quả phần mềm.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:71739:part:2:article:21:clause:5",
+                    "number": "5",
+                    "content": "5. Định kỳ (hoặc đột xuất) báo cáo\nLãnh đạo Kiểm toán nhà nước tình hình quản lý và sử dụng phần mềm.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:71739:part:2:article:21:clause:6",
+                    "number": "6",
+                    "content": "6. Được quyền truy cập vào phần mềm để:\nquản trị phần mềm, lập báo cáo, cấp mới, thay đổi, hủy bỏ tài khoản (không bao gồm cập nhật, xem, sửa, xoá dữ liệu) và cấp quyền khai thác sử dụng phần mềm cho các tổ chức cá nhân theo quy định của Quy chế này.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:71739:part:2:article:21:clause:7",
+                    "number": "7",
+                    "content": "7. Kiểm tra và đề xuất giải pháp bảo\nđảm an toàn và bảo mật dữ liệu theo quy định hiện hành.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:71739:part:2:article:21:clause:8",
+                    "number": "8",
+                    "content": "8. Định kỳ tổ chức sao lưu dữ liệu.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:71739:part:2:article:21:clause:9",
+                    "number": "9",
+                    "content": "9. Tổ chức thực hiện quy trình khắc\nphục sự cố khi sự cố xảy ra.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:71739:part:2:article:21:clause:10",
+                    "number": "10",
+                    "content": "10. Thông báo cho các đơn vị khi xảy\nra sự cố hoặc lịch bảo trì, nâng cấp hệ thống có ảnh hưởng đến việc quản lý và sử dụng phần mềm.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:71739:part:2:article:22",
+                "number": "22",
+                "title": "Trách nhiệm của các đơn vị khác",
+                "content": "Điều 22. Trách nhiệm của các đơn vị khác",
+                "clauses": [
+                  {
+                    "clause_id": "doc:71739:part:2:article:22:clause:1",
+                    "number": "1",
+                    "content": "1. Văn phòng KTNN tham mưu, đề xuất Tổng\nKiểm toán nhà nước trong việc bố trí kinh phí đảm bảo duy trì hoạt động, nâng cấp, phát triển phần mềm, số hóa tài liệu, bổ sung hạ tầng kỹ thuật để đảm bảo hoạt động an toàn, ổn định, hiệu quả phần mềm.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:71739:part:2:article:22:clause:2",
+                    "number": "2",
+                    "content": "2. Vụ Chế độ và kiểm soát chất lượng\nkiểm toán chủ trì kiểm tra, đôn đốc các đơn vị trong việc số hóa hồ sơ kiểm toán theo quy định của Quy chế này.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:71739:part:2:article:22:clause:3",
+                    "number": "3",
+                    "content": "3. Các đơn vị khác có trách nhiệm phối\nhợp tổ chức thực hiện quản lý, khai thác và sử dụng phần mềm khi có yêu cầu.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:71739:part:2:article:23",
+                "number": "23",
+                "title": "Xử lý vi phạm Bất kỳ đơn vị, tổ chức, cá nhân có hành vi vi phạm quy định của Quy chế này, tùy theo tính chất, mức độ vi phạm sẽ bị xử lý vi phạm hành chính hoặc bị truy cứu trách nhiệm hình sự theo quy định của Kiểm toán nhà nước và pháp luật.",
+                "content": "Điều 23. Xử lý vi phạm Bất kỳ đơn vị, tổ chức, cá nhân có hành vi vi phạm quy định của Quy chế này, tùy theo tính chất, mức độ vi phạm sẽ bị xử lý vi phạm hành chính hoặc bị truy cứu trách nhiệm hình sự theo quy định của Kiểm toán nhà nước và pháp luật.",
+                "clauses": [],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:71739:part:2:chapter:6",
+            "number": "VI",
+            "title": "ĐIỀU KHOẢN THI HÀNH",
+            "content": "Chương VI\nĐIỀU KHOẢN THI HÀNH",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:71739:part:2:article:24",
+                "number": "24",
+                "title": "Hiệu lực thi hành",
+                "content": "Điều 24. Hiệu lực thi hành",
+                "clauses": [
+                  {
+                    "clause_id": "doc:71739:part:2:article:24:clause:1",
+                    "number": "1",
+                    "content": "1. Quy chế này có hiệu lực kể từ ngày\nký.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:71739:part:2:article:24:clause:2",
+                    "number": "2",
+                    "content": "2. Đối với hồ sơ kiểm toán của các cuộc\nkiểm toán năm 2019 thực hiện phương án số hóa được Tổng Kiểm toán nhà nước phê duyệt tại Quyết định số 2081/QĐ-KTNN ngày 29/10/2018;",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:71739:part:2:article:24:clause:3",
+                    "number": "3",
+                    "content": "3. Đối với các hồ sơ kiểm toán của\ncác cuộc kiểm toán năm 2017, 2018 đã được số hóa trên phần mềm, đơn vị chủ trì kiểm toán có trách nhiệm số hóa, tạo lập hồ sơ kiểm toán sau khi phát hành báo cáo kiểm toán của các cuộc kiểm toán thực hiện từ năm 2017, 2018.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:71739:part:2:article:25",
+                "number": "25",
+                "title": "Tổ chức thực hiện",
+                "content": "Điều 25. Tổ chức thực hiện",
+                "clauses": [
+                  {
+                    "clause_id": "doc:71739:part:2:article:25:clause:1",
+                    "number": "1",
+                    "content": "1. Trung tâm Tin học chủ trì tổ chức\ntriển khai, hướng dẫn thực hiện Quy chế này.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:71739:part:2:article:25:clause:2",
+                    "number": "2",
+                    "content": "2. Thủ trưởng các đơn vị chịu trách\nnhiệm về việc tổ chức triển khai thực hiện Quy chế này trong phạm vi quản lý của mình.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:71739:part:2:article:25:clause:3",
+                    "number": "3",
+                    "content": "3. Trong quá trình thực hiện nếu có\nkhó khăn vướng mắc, các đơn vị phản ánh về Trung tâm Tin học để tổng hợp, báo cáo Tổng Kiểm toán Nhà nước xem xét, quyết định./.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          }
+        ],
+        "sections": [],
+        "articles": [],
+        "unstructured_blocks": []
+      },
+      {
+        "part_id": "doc:71739:part:3",
+        "part_type": "appendix",
+        "part_title": "PHỤ LỤC 01",
+        "reference": null,
+        "direct_text": null,
+        "chapters": [],
+        "sections": [],
+        "articles": [],
+        "unstructured_blocks": [
+          {
+            "block_id": "doc:71739:part:3:block:1",
+            "content": "PHỤ LỤC 01\nMẪU PHIẾU ĐỀ NGHỊ CẤP MỚI/THAY ĐỔI/HỦY BỎ\nTÀI KHOẢN\n(Ban hành kèm theo Quy chế Quản lý, khai thác và sử dụng phần\nmềm Số hóa và quản lý hồ sơ kiểm toán của KTNN)\nKIỂM TOÁN NHÀ NƯỚC <GHI TÊN ĐƠN VỊ>\n-------\nCỘNG\nHÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc --------------- …… , ngày tháng năm\nPHIẾU\nĐỀ NGHỊ CẤP MỚI/THAY ĐỔI/HỦY BỎ TÀI KHOẢN\nPhần mềm Số hóa và quản lý hồ sơ kiểm toán của Kiểm toán nhà nước\nTT\nHọ và tên Chức vụ hành chính Yêu cầu(1) Loại tài khoản (2) Địa chỉ Email(3) Điện thoại(4) Ghi chú 1 Nguyễn Văn A Trưởng phòng anv@sav.gov.vn 090x xxx xxx 2 Trần Thị B Kiểm toán viên btt@sav.gov.vn 090y yyy yyy 3 Vũ Thị C Chuyên viên Chưa có 090z zzz zzz (1) Yêu cầu: - Cấp mới: tạo mới một tài khoản người dùng trên phần mềm; - Thay đổi đơn vị: + Khi công chức thay đổi đơn vị trong Kiểm toán nhà nước, tại cột ghi chú điền tên đơn vị đến. + Khi công chức thay đổi loại tài khoản trong đơn vị, tại cột ghi chú ghi rõ loại tài khoản cũ, loại tài khoản mới. - Hủy bỏ: khi công chức không còn làm việc tại Kiểm toán nhà nước. Tại cột ghi chú điền ngày đề nghị hủy tài khoản. (2) Loại tài khoản: - Tài khoản cá nhân: cấp cho người dùng truy cập vào phần mềm thực hiện công việc theo phân quyền. - Tài khoản quản trị đơn vị: cấp cho người dùng để thực hiện vai trò quản trị của đơn vị. (3) Địa chỉ Email: Bắt buộc phải sử dụng địa chỉ hộp thư công vụ của KTNN. Nếu người dùng chưa được cấp hộp thư công vụ thì ghi rõ là Chưa có; (4) Điện thoại: Số điện thoại liên hệ của cá nhân.\nTHỦ TRƯỞNG ĐƠN VỊ\n(Ký, ghi rõ họ tên)",
+            "indexable": true
+          }
+        ]
+      },
+      {
+        "part_id": "doc:71739:part:4",
+        "part_type": "appendix",
+        "part_title": "PHỤ LỤC 02",
+        "reference": null,
+        "direct_text": null,
+        "chapters": [],
+        "sections": [],
+        "articles": [],
+        "unstructured_blocks": [
+          {
+            "block_id": "doc:71739:part:4:block:1",
+            "content": "PHỤ LỤC 02\nMẪU PHIẾU ĐỀ NGHỊ MỞ HỒ SƠ KIỂM TOÁN ĐIỆN\nTỬ\n(Ban hành kèm theo Quy chế Quản lý, khai thác và sử dụng phần\nmềm số hóa và quản lý hồ sơ kiểm toán của KTNN)\nKIỂM TOÁN NHÀ NƯỚC <GHI TÊN ĐƠN VỊ>\n-------\nCỘNG\nHÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc --------------- …. , ngày tháng năm\nPHIẾU\nĐỀ NGHỊ MỞ HỒ SƠ KIỂM TOÁN ĐIỆN TỬ\nTT SỐ QUYẾT ĐỊNH TÊN CUỘC KIỂM TOÁN\nTÊN HỒ SƠ THỜI GIAN BẮT ĐẦU\nTHỜI GIAN KẾT THÚC GHI CHÚ\n1\n123/QĐ-KTNN\nKiểm toán việc quản lý tài chính công, tài sản công của Bộ X Hồ sơ kiểm toán của đoàn kiểm toán 01/01/2019 10/01/2019 2 3 (Kèm theo văn bản có ý kiến của Vụ Chế độ và kiểm soát chất lượng kiểm toán) TÊN HỒ SƠ gồm: - Tài liệu khảo sát. - Hồ sơ kiểm toán của đoàn kiểm toán. - Hồ sơ kiểm soát chất lượng của Kiểm toán trưởng. - Hồ sơ kiểm tra thực hiện kết luận, kiến nghị kiểm toán.\nTHỦ TRƯỞNG ĐƠN VỊ\n(Ký, ghi rõ họ tên)",
+            "indexable": true
+          }
+        ]
+      },
+      {
+        "part_id": "doc:71739:part:5",
+        "part_type": "appendix",
+        "part_title": "PHỤ LỤC 03",
+        "reference": null,
+        "direct_text": null,
+        "chapters": [],
+        "sections": [],
+        "articles": [],
+        "unstructured_blocks": [
+          {
+            "block_id": "doc:71739:part:5:block:1",
+            "content": "PHỤ LỤC 03\nMẪU PHIẾU ĐỀ NGHỊ CẤP QUYỀN KHAI THÁC HỒ\nSƠ KIỂM TOÁN ĐIỆN TỬ\n(Ban hành kèm theo Quy chế Quản lý, khai thác và sử dụng phần\nmềm Số hóa và quản lý hồ sơ kiểm toán của KTNN)\nKIỂM TOÁN NHÀ NƯỚC <GHI TÊN ĐƠN VỊ>\n-------\nCỘNG\nHÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc --------------- …… , ngày tháng năm\nPHIẾU ĐỀ NGHỊ CẤP\nQUYỀN KHAI THÁC HỒ SƠ KIỂM TOÁN ĐIỆN TỬ\n1. Thông tin hồ sơ khai thác\n- Tên cuộc kiểm toán cần khai thác: - Số quyết định: - Đơn vị chủ trì kiểm toán: - Mục đích sử dụng: để phục vụ khai thác thông tin cho: + Tên đơn vị: + Tên Trưởng đoàn: + Tên đoàn kiểm toán: + Số Quyết định:\n2. Thông tin đơn vị/cá nhân đề nghị\ncấp quyền khai thác hồ sơ\nTT\nTên đăng nhập Họ và tên Email của KTNN Chức vụ trong đoàn Chức vụ hành chính Phòng/ban Đơn vị công tác Thời gian bắt đầu Thời gian kết thúc Loại hồ sơ Ghi chú 1 antq Trần Quang An Trưởng đoàn Trưởng phòng Tổng hợp Vụ A 15/03/2019 30/05/2019 Hồ sơ chung 2 anhtd Trần Đức Anh Tổ trưởng Kiểm toán viên\nX\nVụ A 15/03/2019 30/04/2019 Hồ sơ chi tiết của đơn vị Z 3 quangtv Trần Văn Quang Thành viên Kiểm toán viên\nX\nVụ B 15/03/2019 30/05/2019 Toàn bộ hồ sơ (Cung cấp tên đăng nhập theo tên đăng nhập vào thư điện tử của KTNN)\n3. Cam kết của đơn vị khai thác hồ\nsơ Yêu cầu các cá nhân của đơn vị khi được cấp quyền khai thác hồ sơ thì sử dụng đúng mục đích, có trách nhiệm bảo mật thông tin của hồ sơ được mượn. Trường hợp xảy ra thất thoát thông tin trong quá trình khai thác tài liệu do tài khoản cá nhân nào được cấp thì cá nhân đó và Thủ trưởng đơn vị chịu trách nhiệm giải trình đối với các cấp Lãnh đạo KTNN, Lãnh đạo đơn vị chủ trì kiểm toán. Chú ý: (1) TÊN HỒ SƠ gồm - Tài liệu khảo sát. - Hồ sơ kiểm toán của đoàn kiểm toán - Hồ sơ kiểm toán chung - Hồ sơ kiểm toán chi tiết của tổ / đơn vị được kiểm toán - Hồ sơ kiểm soát chất lượng của Kiểm toán trưởng. - Hồ sơ kiểm tra thực hiện kết luận, kiến nghị kiểm toán. (2) Mục đích sử dụng: ghi rõ mục đích sử dụng hồ sơ làm căn cứ để Lãnh đạo KTNN phê duyệt, ví dụ - Thanh tra - Lập kế hoạch kiểm toán năm - Tài liệu phục vụ cho cuộc kiểm toán X năm Y …\nÝ\nKIẾN CỦA TỔNG KIỂM TOÁN NHÀ NƯỚC\nTHỦ TRƯỞNG ĐƠN VỊ\n(Ký, ghi rõ họ tên)",
+            "indexable": true
+          }
+        ]
+      }
+    ]
+  },
+  "issues": [],
+  "status": "ok",
+  "source_hash": "context_71739.json",
+  "stats": {
+    "source_chars": 33114,
+    "passage_chars": 32958,
+    "parts": 5,
+    "chapters": 6,
+    "sections": 0,
+    "articles": 28,
+    "clauses": 86,
+    "points": 0
+  }
+}

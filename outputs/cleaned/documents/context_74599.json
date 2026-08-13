@@ -1,0 +1,563 @@
+{
+  "schema_version": "2.0",
+  "document_id": 74599,
+  "metadata": {
+    "name": "Thong-tu-53-2014-TT-BYT-hoat-dong-y-te-tren-moi-truong-mang-262861",
+    "link": "https://thuvienphapluat.vn/van-ban/Cong-nghe-thong-tin/Thong-tu-53-2014-TT-BYT-hoat-dong-y-te-tren-moi-truong-mang-262861.aspx",
+    "issuing_agency": "BỘ Y TẾ",
+    "national_header": "CỘNG HÒA XÃ HỘI\r\n\n  CHỦ NGHĨA VIỆT NAM",
+    "motto": "Độc lập - Tự do - Hạnh phúc",
+    "document_number": "53/2014/TT-BYT",
+    "issued_place": "Hà Nội",
+    "issued_date": "ngày 29\r\n\n  tháng 12 năm 2014",
+    "document_type": "THÔNG TƯ",
+    "title": "QUY ĐỊNH ĐIỀU KIỆN HOẠT ĐỘNG Y TẾ TRÊN MÔI TRƯỜNG MẠNG"
+  },
+  "administrative_header": {
+    "removed": true,
+    "removed_char_count": 149
+  },
+  "preamble": {
+    "text": "THÔNG TƯ\nQUY ĐỊNH ĐIỀU KIỆN HOẠT ĐỘNG Y TẾ TRÊN MÔI TRƯỜNG MẠNG\nCăn cứ Luật công nghệ thông tin ngày 29 tháng 6 năm 2006; Căn cứ Nghị định số 63/2012/NĐ-CP ngày 31 tháng 8 năm 2012 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Y tế; Theo đề nghị của Cục trưởng Cục Công nghệ thông tin; Bộ trưởng Bộ Y tế ban hành Thông tư quy định điều kiện hoạt động y tế trên môi trường mạng.",
+    "legal_bases": [
+      "Căn cứ Nghị định số 63/2012/NĐ-CP ngày 31 tháng 8 năm 2012 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Y tế"
+    ],
+    "proposals": [
+      "Theo đề nghị của Cục trưởng Cục Công nghệ thông tin"
+    ],
+    "enactment_formula": null
+  },
+  "passage": "THÔNG TƯ\nQUY ĐỊNH ĐIỀU KIỆN HOẠT ĐỘNG Y TẾ TRÊN MÔI TRƯỜNG MẠNG\nCăn cứ Luật công nghệ thông tin ngày 29 tháng 6 năm 2006; Căn cứ Nghị định số 63/2012/NĐ-CP ngày 31 tháng 8 năm 2012 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Y tế; Theo đề nghị của Cục trưởng Cục Công nghệ thông tin; Bộ trưởng Bộ Y tế ban hành Thông tư quy định điều kiện hoạt động y tế trên môi trường mạng.\nĐiều 1. Phạm vi điều chỉnh và đối tượng áp dụng\n1. Thông tư này quy định điều kiện hoạt\nđộng y tế trên môi trường mạng về hạ tầng kỹ thuật công nghệ thông tin, bảo đảm an toàn, an ninh thông tin, nhân lực và ứng dụng công nghệ thông tin.\n2. Thông tư này áp dụng với cơ quan,\ntổ chức, cá nhân tham gia xây dựng và triển khai các hoạt động y tế trên môi trường mạng trên lãnh thổ Việt Nam (sau đây gọi chung là cơ quan).\nĐiều 2. Giải thích từ ngữ Trong Thông tư này, các từ ngữ dưới đây được hiểu như sau:\n1. Hoạt động y tế là các hoạt động\nbảo vệ, chăm sóc và nâng cao sức khỏe nhân dân trong lĩnh vực: y tế dự phòng; khám bệnh, chữa bệnh, phục hồi chức năng; giám định y khoa, pháp y, pháp y tâm thần; y dược cổ truyền; sức khỏe sinh sản; trang thiết bị y tế; dược; mỹ phẩm; an toàn thực phẩm; bảo hiểm y tế; dân số - kế hoạch hóa gia đình.\n2. Hoạt động y tế trên môi trường\nmạng là việc thông tin y tế được cung cấp, truyền đưa, thu thập, xử lý, lưu trữ và trao đổi thông qua cơ sở hạ tầng thông tin.\n3. Tiêu chuẩn HL7 (Health Level 7)\nlà tiêu chuẩn quốc tế cung cấp giao thức chuẩn về quản lý, trao đổi và tích hợp dữ liệu y tế giữa các hệ thống thông tin y tế nhằm hỗ trợ các hoạt động y tế.\n4. Tiêu chuẩn HL7 CDA (Health\nLevel 7 Clinical Document Architecture) là tài liệu tiêu chuẩn quy định cấu trúc và ngữ nghĩa dữ liệu lâm sàng phục vụ mục tiêu trao đổi dữ liệu giữa các bên liên quan.\n5. Tiêu chuẩn hình ảnh số và truyền\ntải trong y tế (DICOM - Digital Imaging and Communications in Medicine) là tiêu chuẩn quốc tế xác định giao thức trao đổi, lưu trữ, xử lý, thu hoặc nhận, in ấn và chia sẻ dữ liệu hình ảnh số giữa các thiết bị y tế và hệ thống thông tin y tế.\n6. Tiêu chuẩn ISO/IEEE 11073\nlà một bộ các tiêu chuẩn kết hợp bởi các tiêu chuẩn quốc tế: ISO (Tổ chức quốc tế về tiêu chuẩn hóa - International Organization for Standardization), IEEE (Viện kỹ sư điện và điện tử - Institute of Electrical and Electronics Engineers) và CEN (Ủy ban tiêu chuẩn Châu Âu - European Committee for Standardization) nhằm xác định giao thức kết nối, liên thông và trao đổi dữ liệu giữa các ứng dụng và thiết bị y tế.\n7. Tiêu chuẩn SDMX là tiêu chuẩn\nquốc tế ISO/TS 17369:2005 hỗ trợ trao đổi và chia sẻ dữ liệu, siêu dữ liệu thống kê giữa các đơn vị, tổ chức.\n8. Tiêu chuẩn SDMX-HD là tiêu\nchuẩn do Tổ chức Y tế thế giới xây dựng dựa trên tiêu chuẩn SDMX hỗ trợ các cơ sở y tế trao đổi và chia sẻ các chỉ số, siêu dữ liệu thống kê trong lĩnh vực y tế.\nĐiều 3. Điều kiện về hạ tầng kỹ thuật công nghệ thông tin\n1. Đối với hoạt động có sử dụng máy\nchủ và phần mềm hệ thống:\na) Bảo đảm hạ tầng máy chủ và các thiết\nbị đi kèm có đủ công suất, hiệu năng, tốc độ xử lý truy xuất dữ liệu, đáp ứng yêu cầu triển khai các hoạt động y tế trên môi trường mạng;\nb) Bảo đảm hệ thống máy chủ có tính sẵn\nsàng cao, cơ chế dự phòng linh hoạt để hoạt động liên tục;\nc) Bảo đảm hệ điều hành và phần mềm hệ\nthống cài đặt trên các máy chủ có bản quyền hoặc xuất xứ, nguồn gốc rõ ràng.\n2. Hệ thống mạng:\na) Hệ thống mạng (mạng viễn thông, mạng\ninternet, mạng diện rộng, mạng nội bộ, các kết nối khác) được thiết kế, triển khai phù hợp, có băng thông đáp ứng mục đích sử dụng; trường hợp sử dụng mạng viễn thông phải thực hiện đầy đủ quyền và nghĩa vụ được quy định tại Điều 16 của Luật viễn thông.\nb) Trang thiết bị mạng, các phần mềm phân\ntích, quản lý giám sát mạng phải có bản quyền hoặc xuất xứ, nguồn gốc rõ ràng;\nc) Có phương án dự phòng đầy đủ bảo đảm\nhoạt động của hệ thống mạng.\n3. Cơ sở dữ liệu:\na) Cơ sở dữ liệu sử dụng cho các hoạt\nđộng y tế trên môi trường mạng phải ổn định; xử lý, lưu trữ được khối lượng dữ liệu theo yêu cầu nghiệp vụ;\nb) Hệ quản trị cơ sở dữ liệu có nguồn\ngốc, xuất xứ rõ ràng hoặc sử dụng các hệ quản trị cơ sở dữ liệu mã nguồn mở được dùng rộng rãi trong nước và quốc tế.\n4. Máy trạm: Có đủ máy trạm, cấu hình\nphù hợp cho các hoạt động y tế trên môi trường mạng.\nĐiều 4. Điều kiện về bảo đảm an toàn, an ninh thông tin\n1. Có chính sách về an toàn, bảo mật thông tin phù\nhợp với quy định về an toàn, bảo mật hệ thống công nghệ thông tin của Nhà nước và quy chế an toàn bảo mật thông tin của cơ quan.\n2. An toàn, an ninh hệ thống mạng:\na) Bảo đảm có biện pháp kỹ thuật cho phép kiểm soát\ncác truy cập đối với hệ thống mạng;\nb) Có biện pháp phát hiện và phòng chống xâm nhập,\nphòng chống phát tán mã độc hại cho hệ thống;\nc) Có chính sách cập nhật định kỳ các bản vá lỗi hệ\nthống, cập nhật cấu hình cho các thiết bị;\nd) Có biện pháp bảo đảm an toàn thông tin cho các\nmáy trạm khi kết nối với môi trường mạng;\nđ) Bảo đảm an toàn, an ninh về mặt vật lý tại vị\ntrí đặt các hệ thống máy chủ;\ne) Các trang thiết bị mạng, an ninh, bảo mật, phần\nmềm chống vi rút, công cụ phân tích, quản trị mạng được cài đặt trong mạng của cơ quan phải có nguồn gốc, xuất xứ rõ ràng.\n3. An toàn, bảo mật thông tin đối với phần mềm ứng\ndụng:\na) Có quy định ghi lại các lỗi và quá trình xử lý lỗi,\nđặc biệt là các lỗi về an toàn, bảo mật trong kiểm tra và thử nghiệm các phần mềm ứng dụng;\nb) Các phiên bản phần mềm bao gồm cả chương trình\nnguồn cần được quản lý tập trung, lưu trữ, bảo mật và có cơ chế phân quyền cho từng thành viên trong việc thao tác với các tập tin;\nc) Có kế hoạch định kỳ kiểm tra mã nguồn, nhằm loại\ntrừ các đoạn mã độc hại, các lỗ hổng bảo mật;\nd) Đơn vị cung cấp phần mềm ứng dụng phải cam kết\nkhông có các đoạn mã độc hại trong sản phẩm.\n4. An toàn dữ liệu:\na) Bảo đảm có cơ chế bảo vệ và phân quyền truy cập\nđối với các tài nguyên cơ sở dữ liệu;\nb) Ghi nhật ký đối với các truy cập cơ sở dữ liệu,\ncác thao tác đối với cấu hình cơ sở dữ liệu;\nc) Có phương án sao lưu dữ liệu, bảo đảm khôi phục\ndữ liệu trong trường hợp cần thiết;\nd) Bảo đảm có thuật toán mã hóa phù hợp yêu cầu bảo\nđảm tính bí mật và khả năng xử lý của hệ thống;\nđ) Rà soát, cập nhật các bản vá, các bản sửa lỗi hệ\nquản trị cơ sở dữ liệu theo định kỳ và theo khuyến cáo của nhà cung cấp;\ne) Có các giải pháp ngăn chặn các hình thức tấn\ncông cơ sở dữ liệu.\n5. Quản lý sự cố:\na) Có quy trình quản lý sự cố, trong đó phải quy định\nrõ trách nhiệm của các bộ phận liên quan, chi tiết các bước thực hiện bao gồm cả việc thông báo người sử dụng cũng như bộ phận vận hành hệ thống công nghệ thông tin; trường hợp hạ tầng công nghệ thông tin được thuê ngoài thì đơn vị cung cấp dịch vụ phải cung cấp quy trình xử lý sự cố.\nb) Định kỳ rà soát, cập nhật các sự cố và phương án\nxử lý cho quy trình quản lý sự cố;\nc) Áp dụng các giải pháp kỹ thuật để phát hiện, xử\nlý kịp thời các cuộc tấn công vào hệ thống mạng;\nd) Có biện pháp phòng chống rủi ro và thảm họa công\nnghệ thông tin một cách có hệ thống nhằm hạn chế tối đa những rủi ro của hoạt động y tế trên môi trường mạng.\nĐiều 5. Điều kiện về nhân lực\n1. Bảo đảm nhân lực chuyên trách về công nghệ thông\ntin (về số lượng, trình độ) đáp ứng được yêu cầu hoạt động y tế trên môi trường mạng của cơ quan.\n2. Đối với các cơ quan sự nghiệp hạng đặc biệt, hạng\n1 và các trường đại học trong ngành y tế phải có phòng công nghệ thông tin, tối thiểu 5 người, trong đó số người có trình độ từ cao đẳng chuyên ngành công nghệ thông tin trở lên chiếm 60% tổng số nhân lực của phòng.\n3. Đối với các cơ quan sự nghiệp hạng 2, hạng 3 của\nngành y tế bảo đảm phải có tổ công nghệ thông tin trở lên với nhân sự tối thiểu là 3 người có trình độ công nghệ thông tin từ trung cấp trở lên.\n4. Xây dựng kế hoạch và tổ chức đào tạo nâng cao\ntrình độ công nghệ thông tin cho nhân lực tham gia vào hoạt động y tế trên môi trường mạng.\n5. Trường hợp thuê nhân lực bên ngoài, nhân lực\ntham gia hoạt động y tế trên môi trường mạng của đơn vị được thuê phải đáp ứng yêu cầu chuyên môn nghiệp vụ; trong hợp đồng có điều khoản ghi rõ việc thực hiện cam kết đáp ứng qui định tại Khoản 5 Điều 6 Thông tư này.\nĐiều 6. Điều kiện về ứng dụng công nghệ thông tin\n1. Bảo đảm hạ tầng kỹ thuật theo quy định tại Điều\n3 Thông tư này.\n2. Chuẩn hóa các quy trình nghiệp vụ bảo đảm ứng dụng\ncông nghệ thông tin hoạt động y tế trên môi trường mạng có hiệu quả.\n3. Áp dụng các tiêu chuẩn quốc gia, quốc tế trong\nquá trình xây dựng các ứng dụng công nghệ thông tin y tế:\na) Tiêu chuẩn HL7 (bản tin HL7 phiên bản 2.x, bản\ntin HL7 phiên bản 3, kiến trúc tài liệu lâm sàng CDA);\nb) Tiêu chuẩn hình ảnh số và truyền tải trong y tế:\nDICOM;\nc) Tiêu chuẩn kết nối, liên thông và trao đổi dữ liệu\ngiữa các ứng dụng và thiết bị y tế: ISO/IEEE 11073;\nd) Tiêu chuẩn trao đổi và chia sẻ các chỉ số, siêu\ndữ liệu thống kê trong lĩnh vực y tế: SDMX-HD;\nđ) Các tiêu chuẩn đã được ban hành theo Thông tư số\n22/2013/BTTTT ngày 23 tháng 12 năm 2013 của Bộ trưởng Bộ Thông tin và Truyền thông.\n4. Có Quy chế quản lý và vận hành ứng dụng công nghệ\nthông tin tại cơ quan.\n5. Việc khai thác và sử dụng dữ liệu thông tin y tế\nliên quan đến người bệnh phải bảo đảm quyền được tôn trọng bí mật riêng tư của người bệnh theo quy định của Luật khám bệnh, chữa bệnh.\n6. Được phép sử dụng chữ ký số, chứng thư số theo\nquy định tại Nghị định số 26/2007/NĐ-CP ngày 15 tháng 02 năm 2006 của Chính phủ về việc quy định chi tiết thi hành luật giao dịch điện tử về chữ ký số và dịch vụ chứng thực chữ ký số, Nghị định số 106/2011/NĐ-CP ngày 23 tháng 11 năm 2011 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 26/2007/NĐ-CP , Nghị định số 170/2013/NĐ-CP ngày 13 tháng 11 năm 2013 của Chính phủ về việc sửa đổi, bổ sung một số điều của Nghị định số 26/2007/NĐ-CP và Nghị định số 106/2011/NĐ-CP ngày 23 tháng 11 năm 2011 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 26/2007/NĐ-CP .\n7. Việc lập, lưu trữ và khai thác hồ sơ bệnh án điện\ntử phải tuân thủ quy định tại Điều 59 của Luật khám bệnh, chữa bệnh.\n8. Trường hợp thuê dịch vụ ứng dụng công nghệ thông\ntin bên ngoài phải có hợp đồng với các điều khoản quy định về cam kết về sở hữu hợp pháp thông tin, trách nhiệm của mỗi bên khi có sự cố xảy ra.\nĐiều 7. Hiệu lực thi hành Thông tư này có hiệu lực kể từ ngày 01 tháng 03 năm 2015.\nĐiều 8. Điều khoản chuyển tiếp Các cơ quan đã triển khai hoạt động y tế trên môi trường mạng trước ngày Thông tư này có hiệu lực, phải thực hiện các điều kiện quy định tại Thông tư này trước ngày 01 tháng 01 năm 2017.\nĐiều 9. Điều khoản tham chiếu Trường hợp các văn bản được dẫn chiếu trong Thông tư này bị thay thế hoặc sửa đổi, bổ sung thì áp dụng theo văn bản thay thế hoặc văn bản đã được sửa đổi, bổ sung.\nĐiều 10. Tổ chức thực hiện\n1. Cục Công nghệ thông tin - Bộ Y tế có trách nhiệm\nchỉ đạo, hướng dẫn, kiểm tra việc thực hiện Thông tư này trên phạm vi toàn quốc.\n2. Sở Y tế có trách nhiệm chỉ đạo, hướng dẫn, kiểm\ntra, thanh tra việc thực hiện Thông tư này trên địa bàn quản lý.\n3. Các cơ quan có liên quan chịu trách nhiệm xây dựng,\nchuẩn hóa các qui trình nghiệp vụ phục vụ cho hoạt động y tế trên môi trường mạng tại cơ quan của mình. Trong quá trình thực hiện, nếu có vướng mắc đề nghị phản ánh kịp thời về Bộ Y tế (Cục Công nghệ thông tin) để nghiên cứu, giải quyết./.\nNơi nhận:\n- Văn phòng Chính phủ (Công báo, Cổng\nTTĐT Chính phủ);\n- Ủy ban quốc gia về ứng dụng CNTT;\n- Các Bộ, cơ quan ngang Bộ, cơ quan thuộc CP;\n- Bộ trưởng Nguyễn Thị Kim Tiến (để báo cáo);\n- Các Thứ trưởng (để phối hợp thực hiện);\n- Bộ Tư pháp (Cục kiểm tra văn bản QPPL);\n- Sở Y tế các tỉnh, thành phố trực thuộc TW;\n- Các Vụ, Cục, TC, VPB, TTrB - Bộ Y tế;\n- Các bệnh viện trực thuộc Bộ, y tế các Bộ, ngành;\n- Cổng TTĐT Bộ Y tế;\n- Lưu: VT, PC (02b), CNTT (07b).\nKT. BỘ TRƯỞNG\nTHỨ TRƯỞNG\nLê Quang Cường",
+  "tree": {
+    "parts": [
+      {
+        "part_id": "doc:74599:part:1",
+        "part_type": "main",
+        "part_title": null,
+        "reference": null,
+        "direct_text": "THÔNG TƯ\nQUY ĐỊNH ĐIỀU KIỆN HOẠT ĐỘNG Y TẾ TRÊN MÔI TRƯỜNG MẠNG\nCăn cứ Luật công nghệ thông tin ngày 29 tháng 6 năm 2006; Căn cứ Nghị định số 63/2012/NĐ-CP ngày 31 tháng 8 năm 2012 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Y tế; Theo đề nghị của Cục trưởng Cục Công nghệ thông tin; Bộ trưởng Bộ Y tế ban hành Thông tư quy định điều kiện hoạt động y tế trên môi trường mạng.",
+        "chapters": [],
+        "sections": [],
+        "articles": [
+          {
+            "article_id": "doc:74599:part:1:article:1",
+            "number": "1",
+            "title": "Phạm vi điều chỉnh và đối tượng áp dụng",
+            "content": "Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng",
+            "clauses": [
+              {
+                "clause_id": "doc:74599:part:1:article:1:clause:1",
+                "number": "1",
+                "content": "1. Thông tư này quy định điều kiện hoạt\nđộng y tế trên môi trường mạng về hạ tầng kỹ thuật công nghệ thông tin, bảo đảm an toàn, an ninh thông tin, nhân lực và ứng dụng công nghệ thông tin.",
+                "points": []
+              },
+              {
+                "clause_id": "doc:74599:part:1:article:1:clause:2",
+                "number": "2",
+                "content": "2. Thông tư này áp dụng với cơ quan,\ntổ chức, cá nhân tham gia xây dựng và triển khai các hoạt động y tế trên môi trường mạng trên lãnh thổ Việt Nam (sau đây gọi chung là cơ quan).",
+                "points": []
+              }
+            ],
+            "points": []
+          },
+          {
+            "article_id": "doc:74599:part:1:article:2",
+            "number": "2",
+            "title": "Giải thích từ ngữ Trong Thông tư này, các từ ngữ dưới đây được hiểu như sau:",
+            "content": "Điều 2. Giải thích từ ngữ Trong Thông tư này, các từ ngữ dưới đây được hiểu như sau:",
+            "clauses": [
+              {
+                "clause_id": "doc:74599:part:1:article:2:clause:1",
+                "number": "1",
+                "content": "1. Hoạt động y tế là các hoạt động\nbảo vệ, chăm sóc và nâng cao sức khỏe nhân dân trong lĩnh vực: y tế dự phòng; khám bệnh, chữa bệnh, phục hồi chức năng; giám định y khoa, pháp y, pháp y tâm thần; y dược cổ truyền; sức khỏe sinh sản; trang thiết bị y tế; dược; mỹ phẩm; an toàn thực phẩm; bảo hiểm y tế; dân số - kế hoạch hóa gia đình.",
+                "points": []
+              },
+              {
+                "clause_id": "doc:74599:part:1:article:2:clause:2",
+                "number": "2",
+                "content": "2. Hoạt động y tế trên môi trường\nmạng là việc thông tin y tế được cung cấp, truyền đưa, thu thập, xử lý, lưu trữ và trao đổi thông qua cơ sở hạ tầng thông tin.",
+                "points": []
+              },
+              {
+                "clause_id": "doc:74599:part:1:article:2:clause:3",
+                "number": "3",
+                "content": "3. Tiêu chuẩn HL7 (Health Level 7)\nlà tiêu chuẩn quốc tế cung cấp giao thức chuẩn về quản lý, trao đổi và tích hợp dữ liệu y tế giữa các hệ thống thông tin y tế nhằm hỗ trợ các hoạt động y tế.",
+                "points": []
+              },
+              {
+                "clause_id": "doc:74599:part:1:article:2:clause:4",
+                "number": "4",
+                "content": "4. Tiêu chuẩn HL7 CDA (Health\nLevel 7 Clinical Document Architecture) là tài liệu tiêu chuẩn quy định cấu trúc và ngữ nghĩa dữ liệu lâm sàng phục vụ mục tiêu trao đổi dữ liệu giữa các bên liên quan.",
+                "points": []
+              },
+              {
+                "clause_id": "doc:74599:part:1:article:2:clause:5",
+                "number": "5",
+                "content": "5. Tiêu chuẩn hình ảnh số và truyền\ntải trong y tế (DICOM - Digital Imaging and Communications in Medicine) là tiêu chuẩn quốc tế xác định giao thức trao đổi, lưu trữ, xử lý, thu hoặc nhận, in ấn và chia sẻ dữ liệu hình ảnh số giữa các thiết bị y tế và hệ thống thông tin y tế.",
+                "points": []
+              },
+              {
+                "clause_id": "doc:74599:part:1:article:2:clause:6",
+                "number": "6",
+                "content": "6. Tiêu chuẩn ISO/IEEE 11073\nlà một bộ các tiêu chuẩn kết hợp bởi các tiêu chuẩn quốc tế: ISO (Tổ chức quốc tế về tiêu chuẩn hóa - International Organization for Standardization), IEEE (Viện kỹ sư điện và điện tử - Institute of Electrical and Electronics Engineers) và CEN (Ủy ban tiêu chuẩn Châu Âu - European Committee for Standardization) nhằm xác định giao thức kết nối, liên thông và trao đổi dữ liệu giữa các ứng dụng và thiết bị y tế.",
+                "points": []
+              },
+              {
+                "clause_id": "doc:74599:part:1:article:2:clause:7",
+                "number": "7",
+                "content": "7. Tiêu chuẩn SDMX là tiêu chuẩn\nquốc tế ISO/TS 17369:2005 hỗ trợ trao đổi và chia sẻ dữ liệu, siêu dữ liệu thống kê giữa các đơn vị, tổ chức.",
+                "points": []
+              },
+              {
+                "clause_id": "doc:74599:part:1:article:2:clause:8",
+                "number": "8",
+                "content": "8. Tiêu chuẩn SDMX-HD là tiêu\nchuẩn do Tổ chức Y tế thế giới xây dựng dựa trên tiêu chuẩn SDMX hỗ trợ các cơ sở y tế trao đổi và chia sẻ các chỉ số, siêu dữ liệu thống kê trong lĩnh vực y tế.",
+                "points": []
+              }
+            ],
+            "points": []
+          },
+          {
+            "article_id": "doc:74599:part:1:article:3",
+            "number": "3",
+            "title": "Điều kiện về hạ tầng kỹ thuật công nghệ thông tin",
+            "content": "Điều 3. Điều kiện về hạ tầng kỹ thuật công nghệ thông tin",
+            "clauses": [
+              {
+                "clause_id": "doc:74599:part:1:article:3:clause:1",
+                "number": "1",
+                "content": "1. Đối với hoạt động có sử dụng máy\nchủ và phần mềm hệ thống:",
+                "points": [
+                  {
+                    "point_id": "doc:74599:part:1:article:3:clause:1:point:1",
+                    "label": "a",
+                    "content": "a) Bảo đảm hạ tầng máy chủ và các thiết\nbị đi kèm có đủ công suất, hiệu năng, tốc độ xử lý truy xuất dữ liệu, đáp ứng yêu cầu triển khai các hoạt động y tế trên môi trường mạng;",
+                    "children": []
+                  },
+                  {
+                    "point_id": "doc:74599:part:1:article:3:clause:1:point:2",
+                    "label": "b",
+                    "content": "b) Bảo đảm hệ thống máy chủ có tính sẵn\nsàng cao, cơ chế dự phòng linh hoạt để hoạt động liên tục;",
+                    "children": []
+                  },
+                  {
+                    "point_id": "doc:74599:part:1:article:3:clause:1:point:3",
+                    "label": "c",
+                    "content": "c) Bảo đảm hệ điều hành và phần mềm hệ\nthống cài đặt trên các máy chủ có bản quyền hoặc xuất xứ, nguồn gốc rõ ràng.",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "clause_id": "doc:74599:part:1:article:3:clause:2",
+                "number": "2",
+                "content": "2. Hệ thống mạng:",
+                "points": [
+                  {
+                    "point_id": "doc:74599:part:1:article:3:clause:2:point:1",
+                    "label": "a",
+                    "content": "a) Hệ thống mạng (mạng viễn thông, mạng\ninternet, mạng diện rộng, mạng nội bộ, các kết nối khác) được thiết kế, triển khai phù hợp, có băng thông đáp ứng mục đích sử dụng; trường hợp sử dụng mạng viễn thông phải thực hiện đầy đủ quyền và nghĩa vụ được quy định tại Điều 16 của Luật viễn thông.",
+                    "children": []
+                  },
+                  {
+                    "point_id": "doc:74599:part:1:article:3:clause:2:point:2",
+                    "label": "b",
+                    "content": "b) Trang thiết bị mạng, các phần mềm phân\ntích, quản lý giám sát mạng phải có bản quyền hoặc xuất xứ, nguồn gốc rõ ràng;",
+                    "children": []
+                  },
+                  {
+                    "point_id": "doc:74599:part:1:article:3:clause:2:point:3",
+                    "label": "c",
+                    "content": "c) Có phương án dự phòng đầy đủ bảo đảm\nhoạt động của hệ thống mạng.",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "clause_id": "doc:74599:part:1:article:3:clause:3",
+                "number": "3",
+                "content": "3. Cơ sở dữ liệu:",
+                "points": [
+                  {
+                    "point_id": "doc:74599:part:1:article:3:clause:3:point:1",
+                    "label": "a",
+                    "content": "a) Cơ sở dữ liệu sử dụng cho các hoạt\nđộng y tế trên môi trường mạng phải ổn định; xử lý, lưu trữ được khối lượng dữ liệu theo yêu cầu nghiệp vụ;",
+                    "children": []
+                  },
+                  {
+                    "point_id": "doc:74599:part:1:article:3:clause:3:point:2",
+                    "label": "b",
+                    "content": "b) Hệ quản trị cơ sở dữ liệu có nguồn\ngốc, xuất xứ rõ ràng hoặc sử dụng các hệ quản trị cơ sở dữ liệu mã nguồn mở được dùng rộng rãi trong nước và quốc tế.",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "clause_id": "doc:74599:part:1:article:3:clause:4",
+                "number": "4",
+                "content": "4. Máy trạm: Có đủ máy trạm, cấu hình\nphù hợp cho các hoạt động y tế trên môi trường mạng.",
+                "points": []
+              }
+            ],
+            "points": []
+          },
+          {
+            "article_id": "doc:74599:part:1:article:4",
+            "number": "4",
+            "title": "Điều kiện về bảo đảm an toàn, an ninh thông tin",
+            "content": "Điều 4. Điều kiện về bảo đảm an toàn, an ninh thông tin",
+            "clauses": [
+              {
+                "clause_id": "doc:74599:part:1:article:4:clause:1",
+                "number": "1",
+                "content": "1. Có chính sách về an toàn, bảo mật thông tin phù\nhợp với quy định về an toàn, bảo mật hệ thống công nghệ thông tin của Nhà nước và quy chế an toàn bảo mật thông tin của cơ quan.",
+                "points": []
+              },
+              {
+                "clause_id": "doc:74599:part:1:article:4:clause:2",
+                "number": "2",
+                "content": "2. An toàn, an ninh hệ thống mạng:",
+                "points": [
+                  {
+                    "point_id": "doc:74599:part:1:article:4:clause:2:point:1",
+                    "label": "a",
+                    "content": "a) Bảo đảm có biện pháp kỹ thuật cho phép kiểm soát\ncác truy cập đối với hệ thống mạng;",
+                    "children": []
+                  },
+                  {
+                    "point_id": "doc:74599:part:1:article:4:clause:2:point:2",
+                    "label": "b",
+                    "content": "b) Có biện pháp phát hiện và phòng chống xâm nhập,\nphòng chống phát tán mã độc hại cho hệ thống;",
+                    "children": []
+                  },
+                  {
+                    "point_id": "doc:74599:part:1:article:4:clause:2:point:3",
+                    "label": "c",
+                    "content": "c) Có chính sách cập nhật định kỳ các bản vá lỗi hệ\nthống, cập nhật cấu hình cho các thiết bị;",
+                    "children": []
+                  },
+                  {
+                    "point_id": "doc:74599:part:1:article:4:clause:2:point:4",
+                    "label": "d",
+                    "content": "d) Có biện pháp bảo đảm an toàn thông tin cho các\nmáy trạm khi kết nối với môi trường mạng;",
+                    "children": []
+                  },
+                  {
+                    "point_id": "doc:74599:part:1:article:4:clause:2:point:5",
+                    "label": "đ",
+                    "content": "đ) Bảo đảm an toàn, an ninh về mặt vật lý tại vị\ntrí đặt các hệ thống máy chủ;",
+                    "children": []
+                  },
+                  {
+                    "point_id": "doc:74599:part:1:article:4:clause:2:point:6",
+                    "label": "e",
+                    "content": "e) Các trang thiết bị mạng, an ninh, bảo mật, phần\nmềm chống vi rút, công cụ phân tích, quản trị mạng được cài đặt trong mạng của cơ quan phải có nguồn gốc, xuất xứ rõ ràng.",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "clause_id": "doc:74599:part:1:article:4:clause:3",
+                "number": "3",
+                "content": "3. An toàn, bảo mật thông tin đối với phần mềm ứng\ndụng:",
+                "points": [
+                  {
+                    "point_id": "doc:74599:part:1:article:4:clause:3:point:1",
+                    "label": "a",
+                    "content": "a) Có quy định ghi lại các lỗi và quá trình xử lý lỗi,\nđặc biệt là các lỗi về an toàn, bảo mật trong kiểm tra và thử nghiệm các phần mềm ứng dụng;",
+                    "children": []
+                  },
+                  {
+                    "point_id": "doc:74599:part:1:article:4:clause:3:point:2",
+                    "label": "b",
+                    "content": "b) Các phiên bản phần mềm bao gồm cả chương trình\nnguồn cần được quản lý tập trung, lưu trữ, bảo mật và có cơ chế phân quyền cho từng thành viên trong việc thao tác với các tập tin;",
+                    "children": []
+                  },
+                  {
+                    "point_id": "doc:74599:part:1:article:4:clause:3:point:3",
+                    "label": "c",
+                    "content": "c) Có kế hoạch định kỳ kiểm tra mã nguồn, nhằm loại\ntrừ các đoạn mã độc hại, các lỗ hổng bảo mật;",
+                    "children": []
+                  },
+                  {
+                    "point_id": "doc:74599:part:1:article:4:clause:3:point:4",
+                    "label": "d",
+                    "content": "d) Đơn vị cung cấp phần mềm ứng dụng phải cam kết\nkhông có các đoạn mã độc hại trong sản phẩm.",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "clause_id": "doc:74599:part:1:article:4:clause:4",
+                "number": "4",
+                "content": "4. An toàn dữ liệu:",
+                "points": [
+                  {
+                    "point_id": "doc:74599:part:1:article:4:clause:4:point:1",
+                    "label": "a",
+                    "content": "a) Bảo đảm có cơ chế bảo vệ và phân quyền truy cập\nđối với các tài nguyên cơ sở dữ liệu;",
+                    "children": []
+                  },
+                  {
+                    "point_id": "doc:74599:part:1:article:4:clause:4:point:2",
+                    "label": "b",
+                    "content": "b) Ghi nhật ký đối với các truy cập cơ sở dữ liệu,\ncác thao tác đối với cấu hình cơ sở dữ liệu;",
+                    "children": []
+                  },
+                  {
+                    "point_id": "doc:74599:part:1:article:4:clause:4:point:3",
+                    "label": "c",
+                    "content": "c) Có phương án sao lưu dữ liệu, bảo đảm khôi phục\ndữ liệu trong trường hợp cần thiết;",
+                    "children": []
+                  },
+                  {
+                    "point_id": "doc:74599:part:1:article:4:clause:4:point:4",
+                    "label": "d",
+                    "content": "d) Bảo đảm có thuật toán mã hóa phù hợp yêu cầu bảo\nđảm tính bí mật và khả năng xử lý của hệ thống;",
+                    "children": []
+                  },
+                  {
+                    "point_id": "doc:74599:part:1:article:4:clause:4:point:5",
+                    "label": "đ",
+                    "content": "đ) Rà soát, cập nhật các bản vá, các bản sửa lỗi hệ\nquản trị cơ sở dữ liệu theo định kỳ và theo khuyến cáo của nhà cung cấp;",
+                    "children": []
+                  },
+                  {
+                    "point_id": "doc:74599:part:1:article:4:clause:4:point:6",
+                    "label": "e",
+                    "content": "e) Có các giải pháp ngăn chặn các hình thức tấn\ncông cơ sở dữ liệu.",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "clause_id": "doc:74599:part:1:article:4:clause:5",
+                "number": "5",
+                "content": "5. Quản lý sự cố:",
+                "points": [
+                  {
+                    "point_id": "doc:74599:part:1:article:4:clause:5:point:1",
+                    "label": "a",
+                    "content": "a) Có quy trình quản lý sự cố, trong đó phải quy định\nrõ trách nhiệm của các bộ phận liên quan, chi tiết các bước thực hiện bao gồm cả việc thông báo người sử dụng cũng như bộ phận vận hành hệ thống công nghệ thông tin; trường hợp hạ tầng công nghệ thông tin được thuê ngoài thì đơn vị cung cấp dịch vụ phải cung cấp quy trình xử lý sự cố.",
+                    "children": []
+                  },
+                  {
+                    "point_id": "doc:74599:part:1:article:4:clause:5:point:2",
+                    "label": "b",
+                    "content": "b) Định kỳ rà soát, cập nhật các sự cố và phương án\nxử lý cho quy trình quản lý sự cố;",
+                    "children": []
+                  },
+                  {
+                    "point_id": "doc:74599:part:1:article:4:clause:5:point:3",
+                    "label": "c",
+                    "content": "c) Áp dụng các giải pháp kỹ thuật để phát hiện, xử\nlý kịp thời các cuộc tấn công vào hệ thống mạng;",
+                    "children": []
+                  },
+                  {
+                    "point_id": "doc:74599:part:1:article:4:clause:5:point:4",
+                    "label": "d",
+                    "content": "d) Có biện pháp phòng chống rủi ro và thảm họa công\nnghệ thông tin một cách có hệ thống nhằm hạn chế tối đa những rủi ro của hoạt động y tế trên môi trường mạng.",
+                    "children": []
+                  }
+                ]
+              }
+            ],
+            "points": []
+          },
+          {
+            "article_id": "doc:74599:part:1:article:5",
+            "number": "5",
+            "title": "Điều kiện về nhân lực",
+            "content": "Điều 5. Điều kiện về nhân lực",
+            "clauses": [
+              {
+                "clause_id": "doc:74599:part:1:article:5:clause:1",
+                "number": "1",
+                "content": "1. Bảo đảm nhân lực chuyên trách về công nghệ thông\ntin (về số lượng, trình độ) đáp ứng được yêu cầu hoạt động y tế trên môi trường mạng của cơ quan.",
+                "points": []
+              },
+              {
+                "clause_id": "doc:74599:part:1:article:5:clause:2",
+                "number": "2",
+                "content": "2. Đối với các cơ quan sự nghiệp hạng đặc biệt, hạng\n1 và các trường đại học trong ngành y tế phải có phòng công nghệ thông tin, tối thiểu 5 người, trong đó số người có trình độ từ cao đẳng chuyên ngành công nghệ thông tin trở lên chiếm 60% tổng số nhân lực của phòng.",
+                "points": []
+              },
+              {
+                "clause_id": "doc:74599:part:1:article:5:clause:3",
+                "number": "3",
+                "content": "3. Đối với các cơ quan sự nghiệp hạng 2, hạng 3 của\nngành y tế bảo đảm phải có tổ công nghệ thông tin trở lên với nhân sự tối thiểu là 3 người có trình độ công nghệ thông tin từ trung cấp trở lên.",
+                "points": []
+              },
+              {
+                "clause_id": "doc:74599:part:1:article:5:clause:4",
+                "number": "4",
+                "content": "4. Xây dựng kế hoạch và tổ chức đào tạo nâng cao\ntrình độ công nghệ thông tin cho nhân lực tham gia vào hoạt động y tế trên môi trường mạng.",
+                "points": []
+              },
+              {
+                "clause_id": "doc:74599:part:1:article:5:clause:5",
+                "number": "5",
+                "content": "5. Trường hợp thuê nhân lực bên ngoài, nhân lực\ntham gia hoạt động y tế trên môi trường mạng của đơn vị được thuê phải đáp ứng yêu cầu chuyên môn nghiệp vụ; trong hợp đồng có điều khoản ghi rõ việc thực hiện cam kết đáp ứng qui định tại Khoản 5 Điều 6 Thông tư này.",
+                "points": []
+              }
+            ],
+            "points": []
+          },
+          {
+            "article_id": "doc:74599:part:1:article:6",
+            "number": "6",
+            "title": "Điều kiện về ứng dụng công nghệ thông tin",
+            "content": "Điều 6. Điều kiện về ứng dụng công nghệ thông tin",
+            "clauses": [
+              {
+                "clause_id": "doc:74599:part:1:article:6:clause:1",
+                "number": "1",
+                "content": "1. Bảo đảm hạ tầng kỹ thuật theo quy định tại Điều\n3 Thông tư này.",
+                "points": []
+              },
+              {
+                "clause_id": "doc:74599:part:1:article:6:clause:2",
+                "number": "2",
+                "content": "2. Chuẩn hóa các quy trình nghiệp vụ bảo đảm ứng dụng\ncông nghệ thông tin hoạt động y tế trên môi trường mạng có hiệu quả.",
+                "points": []
+              },
+              {
+                "clause_id": "doc:74599:part:1:article:6:clause:3",
+                "number": "3",
+                "content": "3. Áp dụng các tiêu chuẩn quốc gia, quốc tế trong\nquá trình xây dựng các ứng dụng công nghệ thông tin y tế:",
+                "points": [
+                  {
+                    "point_id": "doc:74599:part:1:article:6:clause:3:point:1",
+                    "label": "a",
+                    "content": "a) Tiêu chuẩn HL7 (bản tin HL7 phiên bản 2.x, bản\ntin HL7 phiên bản 3, kiến trúc tài liệu lâm sàng CDA);",
+                    "children": []
+                  },
+                  {
+                    "point_id": "doc:74599:part:1:article:6:clause:3:point:2",
+                    "label": "b",
+                    "content": "b) Tiêu chuẩn hình ảnh số và truyền tải trong y tế:\nDICOM;",
+                    "children": []
+                  },
+                  {
+                    "point_id": "doc:74599:part:1:article:6:clause:3:point:3",
+                    "label": "c",
+                    "content": "c) Tiêu chuẩn kết nối, liên thông và trao đổi dữ liệu\ngiữa các ứng dụng và thiết bị y tế: ISO/IEEE 11073;",
+                    "children": []
+                  },
+                  {
+                    "point_id": "doc:74599:part:1:article:6:clause:3:point:4",
+                    "label": "d",
+                    "content": "d) Tiêu chuẩn trao đổi và chia sẻ các chỉ số, siêu\ndữ liệu thống kê trong lĩnh vực y tế: SDMX-HD;",
+                    "children": []
+                  },
+                  {
+                    "point_id": "doc:74599:part:1:article:6:clause:3:point:5",
+                    "label": "đ",
+                    "content": "đ) Các tiêu chuẩn đã được ban hành theo Thông tư số\n22/2013/BTTTT ngày 23 tháng 12 năm 2013 của Bộ trưởng Bộ Thông tin và Truyền thông.",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "clause_id": "doc:74599:part:1:article:6:clause:4",
+                "number": "4",
+                "content": "4. Có Quy chế quản lý và vận hành ứng dụng công nghệ\nthông tin tại cơ quan.",
+                "points": []
+              },
+              {
+                "clause_id": "doc:74599:part:1:article:6:clause:5",
+                "number": "5",
+                "content": "5. Việc khai thác và sử dụng dữ liệu thông tin y tế\nliên quan đến người bệnh phải bảo đảm quyền được tôn trọng bí mật riêng tư của người bệnh theo quy định của Luật khám bệnh, chữa bệnh.",
+                "points": []
+              },
+              {
+                "clause_id": "doc:74599:part:1:article:6:clause:6",
+                "number": "6",
+                "content": "6. Được phép sử dụng chữ ký số, chứng thư số theo\nquy định tại Nghị định số 26/2007/NĐ-CP ngày 15 tháng 02 năm 2006 của Chính phủ về việc quy định chi tiết thi hành luật giao dịch điện tử về chữ ký số và dịch vụ chứng thực chữ ký số, Nghị định số 106/2011/NĐ-CP ngày 23 tháng 11 năm 2011 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 26/2007/NĐ-CP , Nghị định số 170/2013/NĐ-CP ngày 13 tháng 11 năm 2013 của Chính phủ về việc sửa đổi, bổ sung một số điều của Nghị định số 26/2007/NĐ-CP và Nghị định số 106/2011/NĐ-CP ngày 23 tháng 11 năm 2011 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 26/2007/NĐ-CP .",
+                "points": []
+              },
+              {
+                "clause_id": "doc:74599:part:1:article:6:clause:7",
+                "number": "7",
+                "content": "7. Việc lập, lưu trữ và khai thác hồ sơ bệnh án điện\ntử phải tuân thủ quy định tại Điều 59 của Luật khám bệnh, chữa bệnh.",
+                "points": []
+              },
+              {
+                "clause_id": "doc:74599:part:1:article:6:clause:8",
+                "number": "8",
+                "content": "8. Trường hợp thuê dịch vụ ứng dụng công nghệ thông\ntin bên ngoài phải có hợp đồng với các điều khoản quy định về cam kết về sở hữu hợp pháp thông tin, trách nhiệm của mỗi bên khi có sự cố xảy ra.",
+                "points": []
+              }
+            ],
+            "points": []
+          },
+          {
+            "article_id": "doc:74599:part:1:article:7",
+            "number": "7",
+            "title": "Hiệu lực thi hành Thông tư này có hiệu lực kể từ ngày 01 tháng 03 năm 2015.",
+            "content": "Điều 7. Hiệu lực thi hành Thông tư này có hiệu lực kể từ ngày 01 tháng 03 năm 2015.",
+            "clauses": [],
+            "points": []
+          },
+          {
+            "article_id": "doc:74599:part:1:article:8",
+            "number": "8",
+            "title": "Điều khoản chuyển tiếp Các cơ quan đã triển khai hoạt động y tế trên môi trường mạng trước ngày Thông tư này có hiệu lực, phải thực hiện các điều kiện quy định tại Thông tư này trước ngày 01 tháng 01 năm 2017.",
+            "content": "Điều 8. Điều khoản chuyển tiếp Các cơ quan đã triển khai hoạt động y tế trên môi trường mạng trước ngày Thông tư này có hiệu lực, phải thực hiện các điều kiện quy định tại Thông tư này trước ngày 01 tháng 01 năm 2017.",
+            "clauses": [],
+            "points": []
+          },
+          {
+            "article_id": "doc:74599:part:1:article:9",
+            "number": "9",
+            "title": "Điều khoản tham chiếu Trường hợp các văn bản được dẫn chiếu trong Thông tư này bị thay thế hoặc sửa đổi, bổ sung thì áp dụng theo văn bản thay thế hoặc văn bản đã được sửa đổi, bổ sung.",
+            "content": "Điều 9. Điều khoản tham chiếu Trường hợp các văn bản được dẫn chiếu trong Thông tư này bị thay thế hoặc sửa đổi, bổ sung thì áp dụng theo văn bản thay thế hoặc văn bản đã được sửa đổi, bổ sung.",
+            "clauses": [],
+            "points": []
+          },
+          {
+            "article_id": "doc:74599:part:1:article:10",
+            "number": "10",
+            "title": "Tổ chức thực hiện",
+            "content": "Điều 10. Tổ chức thực hiện",
+            "clauses": [
+              {
+                "clause_id": "doc:74599:part:1:article:10:clause:1",
+                "number": "1",
+                "content": "1. Cục Công nghệ thông tin - Bộ Y tế có trách nhiệm\nchỉ đạo, hướng dẫn, kiểm tra việc thực hiện Thông tư này trên phạm vi toàn quốc.",
+                "points": []
+              },
+              {
+                "clause_id": "doc:74599:part:1:article:10:clause:2",
+                "number": "2",
+                "content": "2. Sở Y tế có trách nhiệm chỉ đạo, hướng dẫn, kiểm\ntra, thanh tra việc thực hiện Thông tư này trên địa bàn quản lý.",
+                "points": []
+              },
+              {
+                "clause_id": "doc:74599:part:1:article:10:clause:3",
+                "number": "3",
+                "content": "3. Các cơ quan có liên quan chịu trách nhiệm xây dựng,\nchuẩn hóa các qui trình nghiệp vụ phục vụ cho hoạt động y tế trên môi trường mạng tại cơ quan của mình. Trong quá trình thực hiện, nếu có vướng mắc đề nghị phản ánh kịp thời về Bộ Y tế (Cục Công nghệ thông tin) để nghiên cứu, giải quyết./.",
+                "points": []
+              }
+            ],
+            "points": []
+          }
+        ],
+        "unstructured_blocks": []
+      }
+    ]
+  },
+  "issues": [],
+  "status": "ok",
+  "source_hash": "context_74599.json",
+  "stats": {
+    "source_chars": 11896,
+    "passage_chars": 11746,
+    "parts": 1,
+    "chapters": 0,
+    "sections": 0,
+    "articles": 10,
+    "clauses": 35,
+    "points": 33
+  }
+}

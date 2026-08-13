@@ -1,0 +1,998 @@
+{
+  "schema_version": "2.0",
+  "document_id": 83232,
+  "metadata": {
+    "name": "Quyet-dinh-1100-QD-BKHDT-2022-Quy-che-to-chuc-Bo-phan-Tiep-nhan-giai-quyet-thu-tuc-hanh-chinh-518082",
+    "link": "https://thuvienphapluat.vn/van-ban/Dau-tu/Quyet-dinh-1100-QD-BKHDT-2022-Quy-che-to-chuc-Bo-phan-Tiep-nhan-giai-quyet-thu-tuc-hanh-chinh-518082.aspx",
+    "issuing_agency": "BỘ KẾ HOẠCH VÀ ĐẦU TƯ",
+    "national_header": "CỘNG HÒA XÃ HỘI\r\n\n  CHỦ NGHĨA VIỆT NAM",
+    "motto": "Độc lập - Tự do - Hạnh phúc",
+    "document_number": "1100/QĐ-BKHĐT",
+    "issued_place": "Hà Nội",
+    "issued_date": "ngày 14\r\n\n  tháng 6 năm 2022",
+    "document_type": "QUYẾT ĐỊNH",
+    "title": "BAN HÀNH QUY CHẾ TỔ CHỨC VÀ HOẠT ĐỘNG CỦA BỘ PHẬN TIẾP NHẬN VÀ TRẢ KẾT QUẢ GIẢI QUYẾT THỦ TỤC HÀNH CHÍNH TẠI BỘ KẾ HOẠCH VÀ ĐẦU TƯ"
+  },
+  "administrative_header": {
+    "removed": true,
+    "removed_char_count": 159
+  },
+  "preamble": {
+    "text": "QUYẾT ĐỊNH BAN\nHÀNH QUY CHẾ TỔ CHỨC VÀ HOẠT ĐỘNG CỦA BỘ PHẬN TIẾP NHẬN VÀ TRẢ KẾT QUẢ GIẢI QUYẾT\nTHỦ TỤC HÀNH CHÍNH TẠI BỘ KẾ HOẠCH VÀ ĐẦU TƯ\nBỘ TRƯỞNG BỘ KẾ HOẠCH VÀ ĐẦU TƯ\nCăn cứ Nghị định số 86/2017/NĐ-CP ngày 25 tháng 7 năm 2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Kế hoạch và Đầu tư; Căn cứ Nghị định số 61/2018/NĐ-CP ngày 23 tháng 4 năm 2018 của Chính phủ về thực hiện cơ chế một cửa, một cửa liên thông trong giải quyết thủ tục hành chính; Căn cứ Nghị định số 107/2021/NĐ-CP ngày 06 tháng 12 năm 2021 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 61/2018/NĐ-CP về thực hiện cơ chế một cửa một cửa liên thông trong giải quyết thủ tục hành chính; Căn cứ Thông tư số 01/2018/TT-VPCP ngày 23 tháng 11 năm 2018 của Bộ trưởng, Chủ nhiệm Văn phòng Chính phủ hướng dẫn thi hành một số quy định của Nghị định số 61/2018/NĐ-CP ngày 23 tháng 4 năm 2018 của Chính phủ về thực hiện cơ chế một cửa, một cửa liên thông trong giải quyết thủ tục hành chính; Căn cứ Quyết định số 468/QĐ-TTg ngày 27 tháng 3 năm 2021 của Thủ tướng Chính phủ phê duyệt Đề án đổi mới việc thực hiện cơ chế một cửa, một cửa liên thông trong giải quyết thủ tục hành chính; Căn cứ Quyết định số 985/QĐ-TTg ngày 08 tháng 8 năm 2018 của Thủ tướng Chính phủ ban hành Kế hoạch thực hiện Nghị định số 61/2018/NĐ-CP ngày 23 tháng 4 năm 2018 của Chính phủ về thực hiện cơ chế một cửa, một cửa liên thông trong giải quyết thủ tục hành chính; Theo đề nghị của Chánh Văn phòng Bộ.\nQUYẾT ĐỊNH:",
+    "legal_bases": [
+      "Căn cứ Nghị định số 61/2018/NĐ-CP ngày 23 tháng 4 năm 2018 của Chính phủ về thực hiện cơ chế một cửa, một cửa liên thông trong giải quyết thủ tục hành chính",
+      "Căn cứ Nghị định số 107/2021/NĐ-CP ngày 06 tháng 12 năm 2021 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 61/2018/NĐ-CP về thực hiện cơ chế một cửa một cửa liên thông trong giải quyết thủ tục hành chính",
+      "Căn cứ Thông tư số 01/2018/TT-VPCP ngày 23 tháng 11 năm 2018 của Bộ trưởng, Chủ nhiệm Văn phòng Chính phủ hướng dẫn thi hành một số quy định của Nghị định số 61/2018/NĐ-CP ngày 23 tháng 4 năm 2018 của Chính phủ về thực hiện cơ chế một cửa, một cửa liên thông trong giải quyết thủ tục hành chính",
+      "Căn cứ Quyết định số 468/QĐ-TTg ngày 27 tháng 3 năm 2021 của Thủ tướng Chính phủ phê duyệt Đề án đổi mới việc thực hiện cơ chế một cửa, một cửa liên thông trong giải quyết thủ tục hành chính",
+      "Căn cứ Quyết định số 985/QĐ-TTg ngày 08 tháng 8 năm 2018 của Thủ tướng Chính phủ ban hành Kế hoạch thực hiện Nghị định số 61/2018/NĐ-CP ngày 23 tháng 4 năm 2018 của Chính phủ về thực hiện cơ chế một cửa, một cửa liên thông trong giải quyết thủ tục hành chính"
+    ],
+    "proposals": [
+      "Theo đề nghị của Chánh Văn phòng Bộ.\nQUYẾT ĐỊNH:"
+    ],
+    "enactment_formula": "QUYẾT ĐỊNH:"
+  },
+  "passage": "QUYẾT ĐỊNH BAN\nHÀNH QUY CHẾ TỔ CHỨC VÀ HOẠT ĐỘNG CỦA BỘ PHẬN TIẾP NHẬN VÀ TRẢ KẾT QUẢ GIẢI QUYẾT\nTHỦ TỤC HÀNH CHÍNH TẠI BỘ KẾ HOẠCH VÀ ĐẦU TƯ\nBỘ TRƯỞNG BỘ KẾ HOẠCH VÀ ĐẦU TƯ\nCăn cứ Nghị định số 86/2017/NĐ-CP ngày 25 tháng 7 năm 2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Kế hoạch và Đầu tư; Căn cứ Nghị định số 61/2018/NĐ-CP ngày 23 tháng 4 năm 2018 của Chính phủ về thực hiện cơ chế một cửa, một cửa liên thông trong giải quyết thủ tục hành chính; Căn cứ Nghị định số 107/2021/NĐ-CP ngày 06 tháng 12 năm 2021 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 61/2018/NĐ-CP về thực hiện cơ chế một cửa một cửa liên thông trong giải quyết thủ tục hành chính; Căn cứ Thông tư số 01/2018/TT-VPCP ngày 23 tháng 11 năm 2018 của Bộ trưởng, Chủ nhiệm Văn phòng Chính phủ hướng dẫn thi hành một số quy định của Nghị định số 61/2018/NĐ-CP ngày 23 tháng 4 năm 2018 của Chính phủ về thực hiện cơ chế một cửa, một cửa liên thông trong giải quyết thủ tục hành chính; Căn cứ Quyết định số 468/QĐ-TTg ngày 27 tháng 3 năm 2021 của Thủ tướng Chính phủ phê duyệt Đề án đổi mới việc thực hiện cơ chế một cửa, một cửa liên thông trong giải quyết thủ tục hành chính; Căn cứ Quyết định số 985/QĐ-TTg ngày 08 tháng 8 năm 2018 của Thủ tướng Chính phủ ban hành Kế hoạch thực hiện Nghị định số 61/2018/NĐ-CP ngày 23 tháng 4 năm 2018 của Chính phủ về thực hiện cơ chế một cửa, một cửa liên thông trong giải quyết thủ tục hành chính; Theo đề nghị của Chánh Văn phòng Bộ.\nQUYẾT ĐỊNH:\nĐiều 1. Ban hành kèm theo Quyết định này Quy chế tổ chức và hoạt động của Bộ phận Tiếp nhận và Trả kết quả giải quyết thủ tục hành chính tại Bộ Kế hoạch và Đầu tư.\nĐiều 2. Quyết định này có hiệu lực thi hành kể từ ngày ký và thay thế Quyết định số 2015/QĐ-BKHĐT ngày 25 tháng 12 năm 2018 của Bộ trưởng Bộ Kế hoạch và Đầu tư ban hành Quy chế tổ chức và hoạt động của Bộ phận Tiếp nhận và Trả kết quả giải quyết thủ tục hành chính thuộc Văn phòng Bộ Kế hoạch và Đầu tư.\nĐiều 3. Chánh Văn phòng Bộ, Thủ trưởng các đơn vị thuộc Bộ và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này./.\nNơi nhận:\n- Như Điều 3;\n- Bộ trưởng (để b/c);\n- Các đ/c Thứ trưởng (để biết);\n- Văn phòng Chính phủ (Cục KSTTHC);\n- Các đơn vị thuộc Bộ, VP7 (LĐVP, KSTH, TV, KHTC, VTLT);\n- Lưu: VT, VP (KSTH).\nKT. BỘ TRƯỞNG\nTHỨ TRƯỞNG\nNguyễn Thị Bích Ngọc\nQUY CHẾ\nTỔ\nCHỨC VÀ HOẠT ĐỘNG CỦA BỘ PHẬN TIẾP NHẬN VÀ TRẢ KẾT QUẢ GIẢI QUYẾT THỦ TỤC HÀNH\nCHÍNH TẠI BỘ KẾ HOẠCH VÀ ĐẦU TƯ\n(Ban hành kèm theo Quyết định số 1100/QĐ-BKHĐT ngày 14 tháng 6 năm 2022 của\nBộ trưởng Bộ Kế hoạch và Đầu tư)\nChương I\nQUY ĐỊNH CHUNG\nĐiều 1. Đối tượng và phạm vi điều chỉnh\n1. Quy chế này quy định về tổ chức và hoạt động của\nBộ phận Tiếp nhận và Trả kết quả giải quyết thủ tục hành chính tại Bộ Kế hoạch và Đầu tư trong giải quyết thủ tục hành chính theo cơ chế một cửa, một cửa liên thông.\n2. Quy chế này áp dụng đối với các đơn vị thuộc Bộ\nKế hoạch và Đầu tư liên quan đến giải quyết thủ tục hành chính cho tổ chức, cá nhân tại trụ sở cơ quan Bộ Kế hoạch và Đầu tư; công chức thực hiện giải quyết thủ tục hành chính và tổ chức, cá nhân có yêu cầu giải quyết thủ tục hành chính tại Bộ Kế hoạch và Đầu tư.\nĐiều 2. Giải thích từ ngữ\n1. Bộ phận Tiếp nhận và Trả kết quả giải quyết thủ\ntục hành chính tại Bộ Kế hoạch và Đầu tư là đầu mối tập trung hướng dẫn thủ tục hành chính thuộc thẩm quyền giải quyết tại Bộ, tiếp nhận yêu cầu của tổ chức, cá nhân để chuyển đến các Cục/Vụ chức năng giải quyết và nhận, trả kết quả cho tổ chức, cá nhân.\n2. Hệ thống thông tin giải quyết thủ tục hành chính\ncủa Bộ Kế hoạch và Đầu tư là hệ thống được xây dựng tập trung, thống nhất từ Cổng Dịch vụ công và Hệ thống thông tin một cửa điện tử của Bộ để tiếp nhận, giải quyết, theo dõi, đánh giá chất lượng thực hiện thủ tục hành chính, cung cấp dịch vụ công trực tuyến thuộc thẩm quyền giải quyết của Bộ.\n3. Quy trình ISO là quy trình tiếp nhận, số hóa hồ\nsơ, chuyển hồ sơ, giải quyết, trả kết quả cho tổ chức, cá nhân và lưu trữ hồ sơ đối với từng thủ tục hành chính cụ thể được thực hiện tại Bộ phận Tiếp nhận và Trả kết quả giải quyết thủ tục hành chính tại Bộ Kế hoạch và Đầu tư theo tiêu chuẩn quốc gia Việt Nam TCVN 9001:2015.\n4. Số hóa hồ sơ thủ tục hành chính là việc thực hiện\nsao chụp, ký số chuyển thành tài liệu điện tử trên hệ thống thông tin cơ sở dữ liệu bảo đảm về tính đầy đủ, toàn vẹn, chính xác của các nội dung theo bản giấy.\nĐiều 3. Mục đích, nguyên tắc thực hiện cơ chế một cửa, một cửa liên thông\n1. Mục đích:\na) Tạo điều kiện thuận lợi cho tổ chức, cá nhân khi\ncó nhu cầu giải quyết các thủ tục hành chính tại Bộ Kế hoạch và Đầu tư.\nb) Nâng cao chất lượng công vụ, ý thức tổ chức kỷ\nluật và tinh thần, trách nhiệm, thái độ phục vụ của đội ngũ công chức, viên chức tại Bộ Kế hoạch và Đầu tư.\n2. Nguyên tắc:\na) Việc giải quyết thủ tục hành chính cho tổ chức,\ncá nhân theo cơ chế một cửa, một cửa liên thông được quản lý tập trung, thống nhất tại một đầu mối là Bộ phận Tiếp nhận và Trả kết quả giải quyết thủ tục hành chính tại Bộ Kế hoạch và Đầu tư.\nb) Quá trình tiếp nhận hồ sơ và trả kết quả giải\nquyết thủ tục hành chính cho tổ chức, cá nhân tại Bộ phận Tiếp nhận và Trả kết quả tại Bộ Kế hoạch và Đầu tư được theo dõi, giám sát, đôn đốc, đánh giá theo quy định tại Quy chế này và tuân thủ quy định của pháp luật có liên quan đến thực hiện cơ chế một cửa, một cửa liên thông.\nc) Giải quyết thủ tục hành chính nhanh chóng, kịp\nthời, đúng pháp luật, công bằng, bình đẳng, công khai, minh bạch và có sự phối hợp chặt chẽ, đúng nguyên tắc giữa các đơn vị chuyên môn với Văn phòng Bộ Kế hoạch và Đầu tư; giữa các công chức, viên chức có liên quan trong giải quyết hồ sơ, thủ tục hành chính cho tổ chức, cá nhân.\nd) Lấy sự hài lòng của tổ chức, cá nhân là thước đo\nchất lượng và hiệu quả phục vụ của công chức, viên chức tại Bộ Kế hoạch và Đầu tư.\nđ) Việc thu phí, giá dịch vụ (nếu có) được\nthực hiện theo đúng quy định. Không làm phát sinh chi phí thực hiện thủ tục hành chính cho tổ chức, cá nhân ngoài quy định của pháp luật.\nĐiều 4. Quy định về mã số hồ sơ hành chính\n1. Mã số hồ sơ hành chính được sử dụng thống nhất\ntrong hoạt động giao dịch giữa Bộ phận Tiếp nhận và Trả kết quả, các đơn vị thuộc Bộ với cá nhân, tổ chức và giữa các đơn vị thuộc Bộ với nhau, cụ thể:\na) Trên Giấy tiếp nhận hồ sơ và hẹn trả kết quả do\nBộ phận Tiếp nhận và Trả kết quả giao cho cá nhân, tổ chức và các văn bản, tài liệu khác liên quan đến việc giải quyết công việc.\nb) Trong việc ứng dụng công nghệ thông tin tại các\nđơn vị thuộc Bộ (Cổng Dịch vụ công và Hệ thống thông tin một cửa điện tử, Cơ sở dữ liệu điện tử lưu trữ hồ sơ thủ tục hành chính của Bộ).\n2. Cấu trúc mã số hồ sơ thủ tục hành chính thực hiện\ngồm các ký tự chữ và số: V1V2V3.Z1Z2.Y1Y2.MX1X2-YYMMDD-XXXX, trong đó:\na) V1V2V3.Z1Z2.Y1Y2.MX1X2 là mã đơn vị theo Quy chuẩn\nkỹ thuật quốc gia về cấu trúc mã định danh và định dạng dữ liệu gói tin phục vụ kết nối các hệ thống quản lý văn bản và điều hành quy định tại Thông tư số 10/2016/TT-BTTTT ngày 01 tháng 4 năm 2016 của Bộ trưởng Bộ Thông tin và Truyền thông.\nb) YYMMDD là ngày tiếp nhận hồ sơ, bao gồm 06 ký tự\nsố. Trong đó, YY là 02 chữ số cuối của năm, MM là 02 chữ số của tháng, DD là 02 chữ số của ngày.\nc) XXXX là số thứ tự hồ sơ được tiếp nhận trong\nngày, gồm 04 chữ số bắt đầu từ 0001.\n3. Trường hợp Giấy tiếp nhận hồ sơ và hẹn trả kết\nquả được viết lại sau khi cá nhân, tổ chức bổ sung hồ sơ theo quy định: Mã số trên Giấy tiếp nhận hồ sơ và hẹn trả kết quả được ghi thêm số 2 vào bên phải của mã số hồ sơ hành chính. Đối với hồ sơ có nhiều lần bổ sung tài liệu, trên Giấy tiếp nhận hồ sơ và hẹn trả kết quả ghi rõ là hồ sơ bổ sung lần thứ bao nhiêu và ngày, tháng, năm bổ sung vào mã số hồ sơ thủ tục hành chính để tiện theo dõi các lần bổ sung hồ sơ và xác định số ngày xử lý hồ sơ tiếp theo.\nChương II\nBỘ PHẬN TIẾP NHẬN VÀ TRẢ\nKẾT QUẢ GIẢI QUYẾT THỦ TỤC HÀNH CHÍNH\nĐiều 5. Vị trí, địa điểm, trang thiết bị\n1. Bộ phận Tiếp nhận và Trả kết quả giải quyết thủ\ntục hành chính tại Bộ Kế hoạch và Đầu tư (sau đây viết tắt là Bộ phận Tiếp nhận và Trả kết quả) đặt tại Phòng Kiểm soát thủ tục hành chính - Tổng hợp thuộc Văn phòng Bộ Kế hoạch và Đầu tư (Văn phòng Bộ), do một Lãnh đạo Văn phòng Bộ đứng đầu, chịu sự quản lý và chỉ đạo của Lãnh đạo Bộ và Chánh Văn phòng Bộ.\n2. Địa điểm: Bộ phận Tiếp nhận và Trả kết quả được\nbố trí tại trụ sở cơ quan Bộ Kế hoạch và Đầu tư số 6B, Hoàng Diệu, Ba Đình, Hà Nội.\n3. Trang thiết bị của Bộ phận Tiếp nhận và Trả kết\nquả:\na) Bộ phận Tiếp nhận và Trả kết quả sử dụng Bộ nhận\ndiện thương hiệu theo hướng dẫn của Văn phòng Chính phủ. Sử dụng một bản sắc thương hiệu thống nhất về yêu cầu thiết kế nội thất, ngoại thất; biển hiệu, trang phục; biển tên, tài liệu nghiệp vụ và giao diện điện tử của Hệ thống thông tin giải quyết thủ tục hành chính của Bộ.\nb) Bộ phận Tiếp nhận và Trả kết quả được bố trí các\ntrang thiết bị tối thiểu gồm: Máy vi tính, máy in, máy quét (Scanner), máy lấy số xếp hàng tự động; máy lấy ý kiến đánh giá của các cá nhân, tổ chức kết nối tới Hệ thống thông tin một cửa điện tử của Bộ; các màn hình cảm ứng phục vụ cho tổ chức, cá nhân tra cứu thông tin, thủ tục hành chính; hệ thống mạng LAN kết nối Internet; thiết bị phát sóng wifi; tủ đựng tài liệu, điện thoại cố định, bàn và ghế làm việc, điều hòa nhiệt độ, hệ thống camera giám sát; bàn viết hồ sơ và ghế ngồi chờ, nước uống, hòm thư góp ý, bảng niêm yết công khai thủ tục hành chính, nội quy làm việc.\nc) Trang thiết bị của Bộ phận Tiếp nhận và Trả kết\nquả được bố trí khoa học theo các chức năng, bao gồm: Khu vực cung cấp thông tin về thủ tục hành chính; khu vực đặt các trang thiết bị điện tử, trong đó có máy lấy số xếp hàng tự động, màn hình đa phương tiện tra cứu thông tin về thủ tục hành chính và kết quả giải quyết. Có hạ tầng công nghệ thông tin và các thiết bị chuyên dụng theo quy định bảo đảm đủ điều kiện để thực hiện đúng quy trình công khai, hướng dẫn, tiếp nhận giải quyết, theo dõi quá trình giải quyết và trả kết quả giải quyết thủ tục hành chính của cá nhân, tổ chức; có đủ điều kiện để thực hiện cung cấp dịch vụ công trực tuyến mức độ 4. Áp dụng phần mềm một cửa điện tử với chức năng khoa học, rõ ràng, tiện lợi, có tính tự động cao, bảo đảm các yêu cầu theo quy định.\nd) Không gian giao tiếp giữa công chức, viên chức tại\nBộ phận Tiếp nhận và Trả kết quả với cá nhân, tổ chức cần được thiết kế hợp lý, đảm bảo giao tiếp bình đẳng, công khai, minh bạch.\nĐiều 6. Thời gian làm việc của Bộ phận Tiếp nhận và Trả kết quả Bộ phận Tiếp nhận và Trả kết quả làm việc vào các ngày làm việc trong tuần (trừ các ngày nghỉ lễ, Tết theo quy định).\n1. Thời gian tiếp nhận và trả kết quả:\n- Sáng: 8 giờ đến 11 giờ 30 phút. - Chiều: 13 giờ 30 phút đến 17 giờ. Trường hợp cần thiết do yêu cầu công việc, Chánh Văn phòng Bộ quyết định thời gian tiếp nhận và trả kết quả bắt đầu sớm hơn hoặc kết thúc muộn hơn thời gian trên.\n2. Thời gian còn lại trong ngày làm việc để làm công\ntác sắp xếp và bàn giao hồ sơ.\nĐiều 7. Công khai thủ tục hành chính tại Bộ phận Tiếp nhận và Trả kết quả\n1. Thủ tục hành chính được công khai rõ ràng, đầy đủ\ntại Bộ phận Tiếp nhận và Trả kết quả theo quy định, gồm các thông tin chủ yếu sau:\na) Danh mục thủ tục hành chính thực hiện cơ chế một\ncửa, một cửa liên thông.\nb) Nội dung chính của từng thủ tục gồm: Tên thủ tục\nhành chính, trình tự thực hiện, cách thức thực hiện, cấp thẩm quyền giải quyết, thành phần hồ sơ và số lượng mỗi loại, số bộ hồ sơ phải nộp, thời hạn giải quyết và trả kết quả, mức phí và lệ phí (nếu có), các mẫu đơn, mẫu tờ khai của thủ tục hành chính.\nc) Mỗi thủ tục hành chính phải có hướng dẫn cách thức\nthực hiện, cách thức điền biểu mẫu và kèm theo một bộ hồ sơ mẫu đã được điền thông tin để cá nhân, tổ chức tham khảo.\nd) Danh mục thủ tục hành chính được tiếp nhận, giải\nquyết theo cơ chế một cửa, một cửa liên thông trực tuyến qua mạng từ mức độ 3 trở lên (nếu có) và quy trình, cách thức truy cập, nộp hồ sơ điện tử, tra cứu trạng thái giải quyết hồ sơ, nhận kết quả giải quyết.\n2. Việc công khai thủ tục hành chính được thực hiện\nđồng thời bằng các hình thức sau:\na) Niêm yết trên bảng niêm yết thủ tục hành chính (khổ\ngiấy A4, in 01 mặt).\nb) In thành các bộ tài liệu đặt tại bàn viết hồ sơ (gồm\ncả hồ sơ mẫu).\nc) Thông tin trên màn hình cảm ứng tra cứu thủ tục\nhành chính (nếu có).\nĐiều 8. Công khai thông tin đường dây nóng tại Bộ phận Tiếp nhận và Trả kết quả\n1. Công khai thông tin đường dây nóng để tiếp nhận\nphản ánh, kiến nghị, góp ý của cá nhân, tổ chức, gồm: Số điện thoại, địa chỉ thư điện tử của Bộ phận Tiếp nhận và Trả kết quả và của các đơn vị chuyên môn; số điện thoại, địa chỉ thư điện tử của Chánh Văn phòng Bộ.\n2. Hình thức công khai:\na) Niêm yết trên bảng niêm yết tại Bộ phận Tiếp nhận\nvà Trả kết quả và tại bàn viết hồ sơ.\nb) Trên Cổng thông tin điện tử, Hệ thống thông tin\ngiải quyết thủ tục hành chính của Bộ.\nĐiều 9. Nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ phận Tiếp nhận và Trả kết quả\n1. Nhiệm vụ:\na) Công khai đầy đủ, kịp thời bằng phương tiện điện\ntử hoặc bằng văn bản Danh mục thủ tục hành chính được thực hiện tại Bộ phận Tiếp nhận và Trả kết quả.\nb) Hướng dẫn thực hiện thủ tục hành chính; tiếp nhận,\nsố hóa hồ sơ; giải quyết hoặc chuyển hồ sơ đến đơn vị chuyên môn giải quyết; trả kết quả giải quyết; lưu trữ hồ sơ thủ tục hành chính; theo dõi, giám sát, đánh giá việc giải quyết và trả kết quả giải quyết thủ tục hành chính cho tổ chức, cá nhân; thu phí, lệ phí (nếu có) theo quy định.\nc) Phối hợp với các đơn vị liên quan để giải quyết,\ntrả kết quả giải quyết cho tổ chức, cá nhân đối với trường hợp thủ tục hành chính yêu cầu giải quyết ngay trong ngày; hỗ trợ tổ chức, cá nhân sử dụng dịch vụ công trực tuyến mức độ 3, mức độ 4.\nd) Phối hợp với Vụ Tổ chức cán bộ, Trung tâm Bồi dưỡng\ncán bộ Kinh tế - Kế hoạch và các đơn vị có liên quan tổ chức tập huấn, bồi dưỡng nâng cao trình độ chuyên môn, nghiệp vụ cho công chức, viên chức được giao nhiệm vụ hướng dẫn, tiếp nhận và trả kết quả giải quyết thủ tục hành chính theo cơ chế một cửa, một cửa liên thông.\nđ) Tiếp nhận, xử lý hoặc phối hợp với các đơn vị có\nliên quan xử lý phản ánh, kiến nghị, khiếu nại, tố cáo của tổ chức, cá nhân đối với công chức, viên chức liên quan đến việc hướng dẫn, tiếp nhận, giải quyết, chuyển hồ sơ giải quyết và trả kết quả giải quyết thủ tục hành chính; chuyển ý kiến giải trình của các đơn vị chuyên môn về các phản ánh, kiến nghị, khiếu nại, tố cáo đến tổ chức, cá nhân.\ne) Thực hiện quản lý, sử dụng và lưu trữ hồ sơ, tài\nliệu, thông tin có liên quan theo quy định của pháp luật, bao gồm: Sổ theo dõi giải quyết hồ sơ (tiếp nhận và trả kết quả) cho tổ chức, cá nhân, phiếu chuyển hồ sơ cho đơn vị chức năng có liên quan, phiếu hẹn trả kết quả.\ng) Nghiên cứu, đề xuất với Lãnh đạo Bộ về các giải\npháp cải cách thủ tục hành chính được thực hiện tại Bộ phận Tiếp nhận và Trả kết quả.\nh) Định kỳ hằng quý và đột xuất báo cáo Lãnh đạo Bộ\nvề kết quả thực hiện cơ chế một cửa, một cửa liên thông để đề xuất giải pháp tháo gỡ khó khăn, vướng mắc phát sinh trong quá trình thực hiện.\ni) Tổng hợp kết quả giải quyết thủ tục hành chính\ndo các đơn vị chuyên môn thuộc Bộ thực hiện theo cơ chế một cửa, một cửa liên thông.\nk) Thực hiện các nhiệm vụ khác được Chánh Văn phòng\nBộ giao theo quy định của pháp luật.\n2. Quyền hạn:\na) Được đề nghị các đơn vị có liên quan cung cấp\nthông tin, tài liệu phục vụ cho công tác tiếp nhận, giải quyết thủ tục hành chính.\nb) Từ chối tiếp nhận các hồ sơ chưa đúng quy định;\nchủ trì theo dõi, giám sát, đôn đốc các đơn vị liên quan trong việc giải quyết thủ tục hành chính theo đúng quy trình đã được Lãnh đạo Bộ phê duyệt; yêu cầu các đơn vị liên quan thông tin về tiến độ giải quyết thủ tục hành chính cho tổ chức, cá nhân; đôn đốc các đơn vị liên quan xử lý hồ sơ đến hoặc quá thời hạn giải quyết.\nc) Theo dõi, đôn đốc, nhận xét, đánh giá công chức,\nviên chức của các đơn vị liên quan cử đến công tác tại Bộ phận Tiếp nhận và Trả kết quả về việc chấp hành thời gian lao động, các quy định của pháp luật về chế độ công vụ, quy chế văn hóa công sở, nội quy của cơ quan.\nd) Đề xuất việc đổi mới, cải tiến, nâng cao chất lượng\nphục vụ, thực hiện công vụ đúng thời hạn, thuận tiện cho tổ chức, cá nhân; tổ chức hoặc phối hợp tổ chức thông tin, tuyên truyền về việc thực hiện cơ chế một cửa, một cửa liên thông trong giải quyết thủ tục hành chính tại Bộ Kế hoạch và Đầu tư.\nđ) Đề xuất với Lãnh đạo Văn phòng Bộ và Lãnh đạo Bộ\nchỉ đạo Trung tâm Tin học nâng cấp, xây dựng tập trung, thống nhất Cổng Dịch vụ công và Hệ thống thông tin một cửa điện tử của Bộ thành Hệ thống thông tin giải quyết thủ tục hành chính; bảo đảm an toàn thông tin trong quá trình khai thác, sử dụng các hệ thống này.\ne) Thực hiện các nhiệm vụ khác do Chánh Văn phòng Bộ\ngiao.\n3. Cơ cấu tổ chức:\na) Trưởng Bộ phận Tiếp nhận và Trả kết quả do một\nLãnh đạo Văn phòng Bộ phụ trách phòng Kiểm soát thủ tục hành chính - Tổng hợp đảm nhiệm.\nb) Số lượng công chức, viên chức làm việc tại Bộ phận\nTiếp nhận và Trả kết quả gồm: - 02 công chức luân phiên thường trực tại Bộ phận Tiếp nhận và Trả kết quả thuộc biên chế của Phòng Kiểm soát thủ tục hành chính - Tổng hợp có trách nhiệm quản lý, vận hành trụ sở, trang thiết bị máy móc, hệ thống mạng của Bộ phận Tiếp nhận và Trả kết quả; tiếp nhận hồ sơ và trả kết quả cho tổ chức, cá nhân. - Mỗi đơn vị chuyên môn có thủ tục hành chính giải quyết tại Bộ phận Tiếp nhận và Trả kết quả phải cử ít nhất 01 công chức (hoặc viên chức) chuyên trách đến làm nhiệm vụ số hóa hồ sơ, giải quyết thủ tục hành chính. Danh sách công chức, viên chức được niêm yết tại Bộ phận Tiếp nhận và Trả kết quả.\nĐiều 10. Tiêu chuẩn, trách nhiệm, quyền lợi của công chức, viên chức làm việc tại Bộ phận Tiếp nhận và Trả kết quả\n1. Tiêu chuẩn:\nCông chức, viên chức làm việc tại Bộ phận Tiếp nhận và Trả kết quả giải quyết thủ tục hành chính tại Bộ Kế hoạch và Đầu tư cần đáp ứng các tiêu chuẩn quy định tại khoản 1 Điều 11 Nghị định số 61/2018/NĐ-CP của Chính phủ về thực hiện cơ chế một cửa, một cửa liên thông trong giải quyết thủ tục hành chính (sau đây viết tắt là Nghị định số\n61/2018/NĐ-CP).\n2. Trách nhiệm:\nCông chức, viên chức làm việc tại Bộ phận Tiếp nhận và Trả kết quả giải quyết thủ tục hành chính tại Bộ Kế hoạch và Đầu tư, ngoài việc thực hiện các trách nhiệm quy định tại khoản 2 Điều 11 Nghị định số 61/2018/NĐ-CP cần thực hiện việc số hóa hồ sơ thủ tục hành chính theo quy định tại khoản 11 Điều 1 Nghị định số 107/2021/NĐ-CP ngày 16 tháng 12 năm 2021 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 61/2018/NĐ-CP (sau đây viết tắt là Nghị định số 107/2021/NĐ-CP).\n3. Quyền lợi:\nCông chức, viên chức làm việc tại Bộ phận Tiếp nhận và Trả kết quả được hưởng các quyền lợi quy định tại khoản 3 Điều 11 Nghị định số 61/2018/NĐ-CP và các quyền lợi sau:\na) Chế độ bồi dưỡng: Trưởng bộ phận và các công chức\nlàm việc tại Bộ phận Một cửa được hưởng quyền lợi theo quy định hiện hành của Nhà nước và phù hợp với Quy chế chi tiêu nội bộ của Bộ Kế hoạch và Đầu tư.\nb) Trang phục: Công chức làm việc tại Bộ phận Tiếp\nnhận và Trả kết quả được cấp trang phục và thực hiện theo Quy chế chi tiêu nội bộ của Bộ Kế hoạch và Đầu tư. Mỗi năm được cấp tối thiểu: 01 (một) bộ xuân hè và 01 (một) bộ thu đông/01 người.\n4. Thời hạn làm việc của công chức được cử đến Bộ\nphận Tiếp nhận và Trả kết quả: Thời hạn thực hiện nhiệm vụ của công chức được cử đến Bộ phận Tiếp nhận và Trả kết quả tối thiểu 06 tháng và tối đa không quá 24 tháng mỗi đợt theo quy định tại khoản 4 Điều 11 Nghị định số\n61/2018/NĐ-CP.\nĐiều 11. Những hành vi không được thực hiện trong giải quyết thủ tục hành chính theo cơ chế một cửa, một cửa liên thông\n1. Đối với công chức, viên chức làm việc tại Bộ phận\nTiếp nhận và Trả kết quả:\na) Không được thực hiện các hành vi quy định tại khoản 1 Điều 5 Nghị định số 61/2018/NĐ-CP.\nb) Yêu cầu cung cấp lại thông tin, giấy tờ, tài liệu\nđiện tử hoặc tài liệu đã được số hóa có giá trị pháp lý theo quy định pháp luật, được kết nối, chia sẻ dữ liệu trong quá trình tiếp nhận, giải quyết thủ tục hành chính, trừ trường hợp sử dụng cho mục đích xác minh, thẩm tra lại tính xác thực thông tin, giấy tờ, tài liệu đã được số hóa.\n2. Đối với tổ chức, cá nhân có yêu cầu giải quyết\nthủ tục hành chính theo cơ chế một cửa, một cửa liên thông tại Bộ Kế hoạch và Đầu tư không được thực hiện các hành vi quy định tại khoản 2 Điều 5 Nghị định số 61/2018/NĐ-CP.\nChương III\nQUY TRÌNH PHỐI HỢP THỰC\nHIỆN VIỆC TIẾP NHẬN, GIẢI QUYẾT VÀ TRẢ KẾT QUẢ GIẢI QUYẾT THỦ TỤC HÀNH CHÍNH\nĐiều 12. Tiếp nhận hồ sơ\n1. Hồ sơ được nộp trực tiếp tại Bộ phận Tiếp nhận\nvà Trả kết quả hoặc gửi qua dịch vụ bưu chính hoặc nộp trực tuyến. Cá nhân, tổ chức khi gửi hồ sơ qua dịch vụ bưu chính ghi rõ địa chỉ gửi, địa chỉ nhận kết quả và tự chi trả cước phí theo quy định của đơn vị cung cấp dịch vụ bưu chính công ích.\n2. Khi giao dịch tiếp nhận hồ sơ, công chức, viên\nchức tại Bộ phận Tiếp nhận và Trả kết quả thực hiện kiểm tra hồ sơ như sau:\na) Kiểm tra, xác thực tài khoản số của cá nhân, tổ\nchức thông qua số định danh cá nhân của công dân Việt Nam hoặc số hộ chiếu (hoặc số giấy tờ có giá trị đi lại quốc tế) của người nước ngoài và mã số của tổ chức theo quy định. Trường hợp tổ chức, cá nhân chưa có tài khoản số, công chức, viên chức tiếp nhận hồ sơ tại Bộ phận Tiếp nhận và Trả kết quả hướng dẫn thực hiện hoặc tạo tài khoản cho cá nhân, tổ chức trên Cổng Dịch vụ công quốc gia hoặc Cổng Dịch vụ công của Bộ.\nb) Thực hiện kiểm tra dữ liệu điện tử của các thành\nphần hồ sơ thủ tục hành chính. Trường hợp thông tin, dữ liệu, hồ sơ, giấy tờ điện tử có giá trị pháp lý của tổ chức, cá nhân đã được kết nối, chia sẻ giữa Cổng Dịch vụ công quốc gia với Hệ thống thông tin giải quyết thủ tục hành chính của Bộ thì tổ chức, cá nhân không phải khai lại thông tin hoặc nộp lại hồ sơ, giấy tờ, tài liệu; kiểm tra và chuyển vào hồ sơ thủ tục hành chính điện tử cho tổ chức, cá nhân.\nc) Đối với thành phần hồ sơ là kết quả giải quyết\nthủ tục hành chính hoặc phải số hóa theo quy định mà chưa có dữ liệu điện tử, công chức một cửa thực hiện sao chụp, chuyển thành tài liệu điện tử trên hệ thống thông tin, cơ sở dữ liệu và chịu trách nhiệm về tính đầy đủ, toàn vẹn, chính xác của các nội dung theo bản giấy. Ký số vào tài liệu đã được số hóa theo quy định trước khi chuyển hồ sơ đến cơ quan, đơn vị có thẩm quyền giải quyết.\n3. Thực hiện kiểm tra hồ sơ như sau:\na) Trường hợp hồ sơ hợp lệ, đầy đủ thành phần, số\nlượng theo đúng các quy định tại Quyết định công bố thủ tục hành chính của Bộ: Thực hiện tiếp nhận hồ sơ; số hóa hồ sơ theo quy định tại điểm c khoản 2 Điều này; nhập thông tin vào Sổ theo dõi hồ sơ (theo mẫu số 06 tại Phụ lục) hoặc Phần mềm điện tử; lập Giấy tiếp nhận hồ sơ và hẹn trả kết quả (theo mẫu số 01 tại Phụ lục) và giao Giấy tiếp nhận hồ sơ và hẹn trả kết quả có đầy đủ thông tin cho người nộp hồ sơ, hoặc gửi qua đường bưu chính (nếu hồ sơ được gửi qua đường bưu chính), hoặc gửi vào tài khoản trực tuyến của cá nhân trên Cổng Dịch vụ công. Mỗi hồ sơ thủ tục hành chính sau khi tiếp nhận sẽ được cấp một Mã số hồ sơ theo quy định tại Điều 4 Quy chế này và ghi trong Giấy tiếp nhận và hẹn trả kết quả. Tổ chức, cá nhân sử dụng Mã số hồ sơ để tra cứu tình trạng giải quyết thủ tục hành chính.\nb) Trường hợp hồ sơ chưa hợp lệ, chưa đầy đủ thành\nphần, số lượng theo quy định: Hướng dẫn cụ thể, đầy đủ, một lần (nếu có thể); lập Phiếu yêu cầu bổ sung, hoàn thiện hồ sơ (theo mẫu số 02 tại Phụ lục), giao ngay cho người nộp hồ sơ hoặc gửi qua đường bưu chính (nếu hồ sơ gửi qua dịch vụ bưu chính), hoặc gửi vào tài khoản trực tuyến hoặc địa chỉ thư điện tử mà người nộp hồ sơ đã đăng ký. Trong thời hạn 01 ngày làm việc kể từ thời điểm nhận hồ sơ, Bộ phận Tiếp nhận và Trả kết quả gửi Phiếu yêu cầu bổ sung, hoàn thiện hồ sơ đối với hồ sơ được nộp qua đường bưu chính hoặc nộp trực tuyến qua Cổng Dịch vụ công. Trường hợp hồ sơ không thuộc phạm vi giải quyết: Hướng dẫn để cá nhân, tổ chức đến cơ quan, đơn vị có thẩm quyền giải quyết. Trường hợp cá nhân, tổ chức yêu cầu có văn bản trả lời hoặc hồ sơ được gửi qua dịch vụ bưu chính, gửi trực tuyến, công chức tại Bộ phận Tiếp nhận và Trả kết quả phải báo cáo Lãnh đạo đơn vị, trả lời bằng văn bản nêu rõ lý do hồ sơ không được tiếp nhận trong thời gian 01 ngày làm việc.\nc) Trường hợp công chức tiếp nhận hồ sơ tại Bộ phận\nTiếp nhận và Trả kết quả được phân công giải quyết hồ sơ. Công chức nhập thông tin vào sổ theo dõi hồ sơ hoặc phần mềm điện tử và xử lý như sau: - Đối với hồ sơ quy định giải quyết và trả kết quả ngay: Sau khi tiếp nhận, công chức tại Bộ phận Tiếp nhận và Trả kết quả kiểm tra, nếu thấy hồ sơ đã đầy đủ, chính xác, đủ điều kiện tiếp nhận thì không cần lập Giấy tiếp nhận hồ sơ và hẹn trả kết quả nhưng phải gửi luôn cho công chức chuyên trách của các đơn vị chuyên môn thẩm định, giải quyết hồ sơ cho cá nhân, tổ chức trong thời gian 01 ngày làm việc và cập nhật tình hình, kết quả giải quyết vào Hệ thống thông tin giải quyết thủ tục hành chính của Bộ. - Đối với hồ sơ quy định có thời hạn giải quyết theo quy trình ISO hoặc theo quy định, công chức lập Giấy tiếp nhận hồ sơ và hẹn trả kết quả; scan tài liệu và số hóa hồ sơ theo quy định; chuyển hồ sơ đến đơn vị chuyên môn để xử lý, và nhận kết quả giải quyết để chuyển trả cho cá nhân, tổ chức theo đúng thời hạn.\nĐiều 13. Chuyển hồ sơ\n1. Sau khi tiếp nhận hồ sơ theo quy định tại Điều 12 Quy chế này, công chức lập Phiếu kiểm soát quá trình giải\nquyết hồ sơ (theo mẫu số 05 tại Phụ lục); bàn giao hồ sơ và Phiếu kiểm soát quá trình giải quyết hồ sơ cho công chức chuyên trách của các đơn vị chuyên môn liên quan giải quyết.\n2. Phiếu kiểm soát quá trình giải quyết hồ sơ được\nchuyển theo hồ sơ và lưu tại Bộ phận Tiếp nhận và Trả kết quả.\n3. Việc bàn giao hồ sơ được tiến hành ngay trong\nngày tiếp nhận hồ sơ. Trường hợp, hồ sơ tiếp nhận sau 16 giờ 30 phút trong ngày làm việc theo quy định thì người tiếp nhận có trách nhiệm chuyển hồ sơ vào trước 9 giờ sáng của ngày làm việc kế tiếp.\n4. Trường hợp hồ sơ tiếp nhận trực tuyến hoặc hồ sơ\ngiấy đã được số hóa được chuyển đến đơn vị chuyên môn giải quyết trên Hệ thống thông tin giải quyết thủ tục hành chính của Bộ.\nĐiều 14. Giải quyết hồ sơ Sau khi tiếp nhận hồ sơ từ Bộ phận Tiếp nhận và Trả kết quả, công chức, viên chức được phân công xử lý hồ sơ của các đơn vị chuyên môn có trách nhiệm giải quyết như sau:\n1. Kiểm tra thông tin trên tài liệu điện tử mà Bộ\nphận Tiếp nhận và Trả kết quả chuyến đến và cập nhật thông tin, dữ liệu điện tử trên hệ thống thông tin, cơ sở dữ liệu, ký số của cơ quan, đơn vị vào bản sao y đối với thành phần hồ sơ phải số hóa thuộc phạm vi quản lý của đơn vị. Dữ liệu điện tử của giấy tờ phải có tối thiểu các trường thông tin: Mã loại giấy tờ; số định danh của tổ chức, cá nhân, trường hợp cá nhân không có số định danh cá nhân thì phải bổ sung họ tên, năm sinh, ngày cấp, cơ quan cấp; tên giấy tờ; trích yếu nội dung chính của giấy tờ; thời hạn có hiệu lực; phạm vi có hiệu lực (nếu có).\n2. Trường hợp phải thẩm tra, xác minh, lấy ý kiến\ncác cơ quan, đơn vị có liên quan trong quá trình xử lý hồ sơ, kết quả thẩm tra, xác minh và kết quả trả lời của cơ quan, đơn vị có liên quan phải được số hóa theo dữ liệu điện tử để lưu vào hệ thống thông tin, cơ sở dữ liệu.\n3. Thẩm định, trình cấp có thẩm quyền quyết định và\nchuyển kết quả giải quyết đến Bộ phận Tiếp nhận và Trả kết quả. Sau khi tiếp nhận hồ sơ, đơn vị chủ trì có trách nhiệm tổ chức lấy ý kiến của các cơ quan, đơn vị phối hợp bằng văn bản (trong trường hợp cần thiết).\na) Trường hợp lấy ý kiến của các đơn vị thuộc Bộ:\nĐơn vị được hỏi ý kiến phải trả lời trong thời gian sớm nhất theo yêu cầu của đơn vị lấy ý kiến và phù hợp với Quy chế làm việc của Bộ. Trên cơ sở ý kiến của các đơn vị phối hợp, đơn vị chủ trì thẩm định, trình Lãnh đạo Bộ quyết định và chuyển kết quả giải quyết hồ sơ của tổ chức, cá nhân đến Bộ phận Tiếp nhận và Trả kết quả. Trường hợp các đơn vị phối hợp không trả lời đúng thời hạn, đơn vị chủ trì được quyết định hoặc trình Lãnh đạo Bộ quyết định; đơn vị phối hợp phải chịu trách nhiệm về nội dung thuộc trách nhiệm của mình.\nb) Trường hợp phải lấy ý kiến các cơ quan có liên\nquan: Đơn vị tổ chức lấy ý kiến phải căn cứ vào thời gian giải quyết của thủ tục hành chính để đưa ra thời hạn xin ý kiến cho phù hợp với pháp luật hiện hành.\nc) Kết quả giải quyết thủ tục hành chính trình cấp\ncó thẩm quyền ký số, phát hành theo quy định pháp luật về công tác văn thư để trả bản giấy và bản điện tử cho tổ chức, cá nhân, trừ trường hợp thủ tục hành chính chỉ quy định cung cấp bản kết quả giải quyết điện tử hoặc tổ chức, cá nhân đề nghị cung cấp bản kết quả giải quyết điện tử. Khi có kết quả giải quyết thủ tục hành chính thành công, các hồ sơ, giấy tờ đã được số hóa có giá trị pháp lý trong quá trình tiếp nhận, giải quyết thủ tục hành chính được sử dụng trong thực hiện các thủ tục hành chính khác của tổ chức, cá nhân.\n4. Trường hợp hồ sơ chưa đủ điều kiện giải quyết:\nBáo cáo Lãnh đạo đơn vị và thông báo bằng văn bản cho tổ chức, cá nhân yêu cầu bổ sung hồ sơ, đồng thời thông báo cho Văn phòng Bộ (theo mẫu số 02 tại Phụ lục). Trong bản thông báo cần nêu rõ căn cứ, nội dung và thời hạn sửa đổi, bổ sung hồ sơ.\n5. Trường hợp hồ sơ không đủ điều kiện giải quyết:\nBáo cáo Lãnh đạo đơn vị trả lại hồ sơ và thông báo bằng văn bản cho tổ chức, cá nhân nêu rõ lý do hồ sơ không đủ điều kiện giải quyết (theo mẫu số 03 tại Phụ lục), đồng thời gửi một bản thông báo đến Văn phòng Bộ. Thời hạn thông báo phải trong thời hạn giải quyết hồ sơ theo quy định.\nĐiều 15. Trả kết quả giải quyết Sau khi nhận kết quả giải quyết từ đơn vị chuyên môn, công chức làm việc tại Bộ phận Tiếp nhận và Trả kết quả vào Sổ theo dõi hồ sơ hoặc nhập vào phần mềm điện tử và thực hiện như sau:\n1. Các hồ sơ đã giải quyết xong: Trả kết quả giải\nquyết hồ sơ cho cá nhân, tổ chức và thu phí, lệ phí (nếu có) theo quy định.\na) Trường hợp cá nhân, tổ chức đã đăng ký nhận kết\nquả qua dịch vụ bưu chính thì việc trả kết quả, thu phí, lệ phí (nếu có) và cước phí được thực hiện qua dịch vụ bưu chính.\nb) Kết quả giải quyết thủ tục hành chính điện tử được\ntrả cho tổ chức, cá nhân trên Cổng Dịch vụ công quốc gia hoặc Cổng Dịch vụ công của Bộ. Kết quả giải quyết thủ tục hành chính điện tử được gắn mã số giấy tờ và lưu trữ trong Cơ sở dữ liệu quốc gia hoặc Kho dữ liệu hồ sơ thủ tục hành chính của Hệ thống thông tin giải quyết thủ tục hành chính của Bộ. Mã số giấy tờ gồm hai thành phần là mã số định danh của cá nhân, tổ chức và mã loại giấy tờ, trong đó mã loại giấy tờ đối với kết quả giải quyết thủ tục hành chính được thống nhất sử dụng theo mã loại kết quả giải quyết thủ tục hành chính trên Cơ sở dữ liệu quốc gia về thủ tục hành chính.\nc) Kết quả giải quyết thủ tục hành chính bằng bản\ngiấy được trả theo quy định.\nd) Kết quả giải quyết thủ tục hành chính cho tổ chức,\ncá nhân được lưu trữ tại Hệ thống thông tin giải quyết thủ tục hành chính của Bộ để phục vụ việc tích hợp, chia sẻ, tra cứu thông tin, dữ liệu, sử dụng để thực hiện các thủ tục hành chính khác theo quy định của pháp luật.\nđ) Đối với hồ sơ giải quyết xong trước thời hạn trả\nkết quả: Liên hệ để cá nhân, tổ chức nhận kết quả.\n2. Đối với hồ sơ chưa đủ điều kiện giải quyết, phải\nbổ sung hồ sơ: Liên hệ với cá nhân, tổ chức để đề nghị bổ sung hồ sơ theo thông báo của các đơn vị chuyên môn thực hiện việc giải quyết hồ sơ. Hồ sơ chờ bổ sung được lưu tại Bộ phận Tiếp nhận và Trả kết quả, sau khi cá nhân, tổ chức hoàn thiện hồ sơ theo thông báo sẽ chuyển lại cho công chức của đơn vị chủ trì tiếp tục xử lý hồ sơ theo quy định. Trường hợp tổ chức, cá nhân chậm bổ sung hồ sơ theo yêu cầu, hồ sơ được lưu lại tại Bộ phận Tiếp nhận và Trả kết quả nhưng không quá 06 tháng.\n3. Đối với hồ sơ không đủ điều kiện giải quyết:\nLiên hệ với cá nhân, tổ chức để trả lại hồ sơ kèm theo văn bản thông báo không đủ điều kiện giải quyết hồ sơ của đơn vị chuyên môn. Thông báo được nhập vào mục trả kết quả trong sổ theo dõi hồ sơ.\n4. Đối với hồ sơ quá hạn giải quyết: Chuyển văn bản\nxin lỗi của cơ quan làm quá hạn giải quyết cho cá nhân, tổ chức và hẹn lại ngày trả kết quả (theo mẫu số 04 tại Phụ lục). Thời hạn chuyển văn bản xin lỗi: 01 ngày trước ngày hết hạn giải quyết hồ sơ.\n5. Trường hợp cá nhân, tổ chức chưa đến nhận hồ sơ\ntheo giấy tiếp nhận hồ sơ và hẹn trả kết quả thì kết quả giải quyết hồ sơ được lưu giữ tại Bộ phận Tiếp nhận và Trả kết quả theo quy định.\n6. Trong khi giao dịch trả kết quả, công chức, viên\nchức tại Bộ phận Tiếp nhận và Trả kết quả chủ động đề nghị cá nhân, tổ chức cho ý kiến đánh giá về mức độ hài lòng đối với sự phục vụ của Bộ phận Tiếp nhận và Trả kết quả.\n7. Công chức, viên chức được phân công giải quyết hồ\nsơ thủ tục hành chính của các đơn vị chuyên môn không trực tiếp trả kết quả cho tổ chức, cá nhân.\nChương IV\nTRÁCH NHIỆM THI HÀNH VÀ TỔ CHỨC THỰC HIỆN\nĐiều 16. Trách nhiệm của Văn phòng Bộ\n1. Tổ chức triển khai áp dụng cơ chế một cửa, một cửa\nliên thông trong thực hiện toàn bộ các thủ tục hành chính thuộc trách nhiệm, thẩm quyền giải quyết của Bộ Kế hoạch và Đầu tư.\n2. Bố trí, tổ chức và tạo điều kiện để công chức,\nviên chức làm việc tại Bộ phận Tiếp nhận và Trả kết quả được tham dự các lớp đào tạo, bồi dưỡng, tập huấn về chuyên môn, nghiệp vụ và kỹ năng giao tiếp, ứng xử của Bộ.\n3. Triển khai ứng dụng công nghệ thông tin, tuyên\ntruyền để hỗ trợ việc tra cứu, tiếp nhận, xử lý, giải quyết, theo dõi tiến độ giải quyết hồ sơ của cá nhân, tổ chức bảo đảm hiệu quả, thuận tiện, kịp thời, chính xác.\n4. Hướng dẫn, kiểm tra việc thực hiện các quy định\nvề cơ chế một cửa, một cửa liên thông tại Văn phòng Bộ Kế hoạch và Đầu tư và các đơn vị có liên quan thuộc Bộ theo thẩm quyền, nâng cao sự hài lòng của cá nhân, tổ chức.\n5. Bố trí kinh phí tổ chức triển khai thực hiện cơ\nchế một cửa, một cửa liên thông trong dự toán ngân sách của Văn phòng Bộ theo quy định về ngân sách nhà nước.\n6. Thực hiện chế độ thông tin, báo cáo theo quy định.\nHằng quý, Văn phòng Bộ tổng hợp, báo cáo Lãnh đạo Bộ kết quả đánh giá và kết quả của việc khắc phục, chấn chỉnh, xử lý vi phạm đối với việc thực hiện cơ chế một cửa, một cửa liên thông trong giải quyết thủ tục hành chính.\nĐiều 17. Trách nhiệm của Trưởng Bộ phận Tiếp nhận và Trả kết quả\n1. Trực tiếp điều hành và chịu trách nhiệm trước\nLãnh đạo Bộ và Chánh Văn phòng Bộ về toàn bộ hoạt động của Bộ phận Tiếp nhận và Trả kết quả.\n2. Đôn đốc các đơn vị có liên quan thuộc Bộ thực hiện\ngiải quyết thủ tục hành chính theo đúng quy định; báo cáo, đề xuất với Chánh Văn phòng Bộ và Lãnh đạo Bộ biện pháp xử lý đối với những trường hợp giải quyết thủ tục hành chính không bảo đảm thời gian và chất lượng theo quy định.\n3. Định kỳ hằng quý hoặc đột xuất làm việc với các\nđơn vị có thủ tục hành chính được tiếp nhận và giải quyết tại Bộ phận Tiếp nhận và Trả kết quả để trao đổi về việc quản lý, điều hành, thực hiện nhiệm vụ và tình hình tiếp nhận, số hóa hồ sơ, kết quả giải quyết thủ tục hành chính của các đơn vị chuyên môn tại Bộ phận Tiếp nhận và Trả kết quả.\n4. Phối hợp với đơn vị cử công chức, viên chức chức\nxem xét, xử lý hành vi vi phạm của công chức, viên chức thực hiện nhiệm vụ kiêm nhiệm tại Bộ phận Tiếp nhận và Trả kết quả; công khai kết quả xử lý cho tổ chức, cá nhân có phản ánh, kiến nghị, khiếu nại, tố cáo đối với hành vi vi phạm của công chức, viên chức.\n5. Kịp thời xử lý theo thẩm quyền hoặc chuyển cơ\nquan có thẩm quyền xử lý hành vi vi phạm pháp luật của tổ chức, cá nhân, công chức xảy ra tại Bộ phận Tiếp nhận và Trả kết quả.\n6. Quản lý thời gian làm việc, tiến độ xử lý công\nviệc được giao, thái độ, tác phong của công chức, viên chức được cử đến làm việc tại Bộ phận Tiếp nhận và Trả kết quả. Từ chối tiếp nhận hoặc chủ động đề xuất với đơn vị chuyên môn cử người thay công chức, viên chức vi phạm kỷ luật lao động, có thái độ, tác phong, cư xử không đúng quy chế văn hóa công sở, năng lực chuyên môn không đáp ứng được nhiệm vụ hoặc có hành vi vi phạm pháp luật khác.\n7. Chủ động đề nghị Thủ trưởng các đơn vị có liên\nquan cử công chức đến Bộ phận Tiếp nhận và Trả kết quả để kịp thời tăng, giảm công chức khi số lượng tổ chức, cá nhân đến thực hiện thủ tục hành chính có biến động tăng, giảm lớn hoặc trường hợp công chức được vắng mặt, được nghỉ theo quy định.\n8. Quản lý, trình Chánh Văn phòng Bộ về việc mua sắm,\nthuê, cải tạo, sửa chữa, bảo dưỡng, thay thế, bổ sung, thanh lý tài sản, cơ sở vật chất, kỹ thuật tại Bộ phận Tiếp nhận và Trả kết quả theo đúng quy định của pháp luật.\nĐiều 18. Trách nhiệm của các đơn vị thuộc Bộ\n1. Các đơn vị chuyên môn thuộc Bộ có thủ tục hành\nchính giải quyết tại Bộ phận Tiếp nhận và Trả kết quả có trách nhiệm:\na) Xây dựng phương án nhân sự, bao gồm nhân sự\nchính thức được cử đến Bộ phận Tiếp nhận và Trả kết quả, nhân sự dự phòng, nhiệm vụ cụ thể gửi Văn phòng Bộ tổng hợp, trình Lãnh đạo Bộ quyết định danh sách công chức được cử làm việc Bộ phận Tiếp nhận và Trả kết quả.\nb) Chịu trách nhiệm về tính chính xác, đầy đủ của\ncác quy định liên quan đến thủ tục hành chính thuộc lĩnh vực phụ trách.\nc) Chịu trách nhiệm về kết quả số hóa hồ sơ thủ tục\nhành chính, thời hạn xử lý hồ sơ và lưu trữ điện tử kết quả giải quyết thủ tục hành chính của tổ chức, cá nhân bảo đảm đúng quy định của pháp luật có liên quan.\nd) Chịu trách nhiệm cập nhật kịp thời 100% số hồ sơ\ngiải quyết thủ tục hành chính trên Hệ thống thông tin giải quyết thủ tục hành chính của Bộ theo quy định.\nđ) Hướng dẫn thực hiện, hoàn thiện bộ hồ sơ thông\nqua Bộ hồ sơ mẫu và qua video hướng dẫn mẫu: - Các đơn vị chuyên môn có trách nhiệm xây dựng Bộ hồ sơ mẫu và video hướng dẫn đối với từng thủ tục hành chính chuyển đến Bộ phận Tiếp nhận và Trả kết quả để công khai cho tổ chức, cá nhân tham khảo. - Bộ hồ sơ mẫu bao gồm đầy đủ thông tin trong mẫu đơn, tờ khai (nếu có) theo phương thức giả định hoặc ẩn bớt danh tính, các loại mẫu thành phần hồ sơ, mẫu giấy tiếp nhận hồ sơ và mẫu giấy trả kết quả theo quy định của pháp luật. Các mẫu được được in chữ “MẪU” bằng chữ in hoa đậm, sử dụng phông chữ tiếng Việt Unicode (Times New Roman), cỡ chữ 16 theo tiêu chuẩn Việt Nam TCVN 9001:2015 tại góc trên cùng bên phải các trang giấy. - Video hướng dẫn cần thể hiện đầy đủ các thông tin hướng dẫn về việc thực hiện thủ tục hành chính, các yêu cầu cụ thể đối với từng loại thành phần hồ sơ, các bước chuẩn bị và quy trình thực hiện theo quy định của pháp luật. Video hướng dẫn mẫu được trình chiếu tại Bộ phận Tiếp nhận và Trả kết quả và được đăng tải trên Cổng dịch vụ công của Bộ.\ne) Phối hợp với Văn phòng Bộ, Trung tâm Tin học xây\ndựng quy trình nội bộ, quy trình điện tử đối với từng thủ tục hành chính thuộc lĩnh vực phụ trách.\n2. Trung tâm Tin học:\na) Chủ trì, phối hợp với Văn phòng Bộ và các đơn vị\nliên quan hoàn thiện, nâng cấp Cổng Dịch vụ công và Hệ thống thông tin một cửa điện tử của Bộ bảo đảm tiêu chí, tính năng kỹ thuật, yêu cầu kết nối theo hướng dẫn của Bộ Thông tin và Truyền thông và Văn phòng Chính phủ, cụ thể: - Nghiên cứu thiết kế bổ sung logo vào giao diện trên Cổng Dịch vụ công và Hệ thống thông tin một cửa điện tử của Bộ theo hướng dẫn sử dụng bộ nhận diện thương hiệu chung của Văn phòng Chính phủ. - Phối hợp với các đơn vị có liên quan thuộc Bộ (Cục Quản lý đấu thầu, Cục Đầu tư nước ngoài, Cục Phát triển doanh nghiệp,...) nghiên cứu thực hiện việc kết nối chia sẻ Kho dữ liệu hồ sơ thủ tục hành chính (của Cổng thông tin quốc gia về đầu tư, Hệ thống mạng đấu thầu quốc gia, Cổng thông tin quốc gia về hỗ trợ doanh nghiệp...) với Hệ thống thông tin giải quyết thủ tục hành chính của Bộ.\nb) Chủ trì xây dựng Quy chế hoạt động của Hệ thống\nthông tin giải quyết thủ tục hành chính được tạo thành trên cơ sở Cổng Dịch vụ công và Hệ thống thông tin một cửa điện tử của Bộ Kế hoạch và Đầu tư để thống nhất quản lý theo quy định tại Nghị định số 107/2021/NĐ-CP .\n3. Vụ Thi đua - Khen thưởng và Truyền thông có\ntrách nhiệm chủ trì, phối hợp với Văn phòng Bộ tuyên truyền, phổ biến việc thực hiện cơ chế một cửa, một cửa liên thông tại Bộ Kế hoạch và Đầu tư.\n4. Vụ Tổ chức cán bộ có trách nhiệm chủ trì, phối hợp\nvới Văn phòng Bộ trong việc theo dõi, đánh giá, kết quả giải quyết thủ tục hành chính của các đơn vị có liên quan thuộc Bộ.\nĐiều 19. Kinh phí thực hiện Kinh phí thực hiện cơ chế một cửa, cơ chế một cửa liên thông do ngân sách nhà nước bảo đảm, được bố trí trong dự toán ngân sách hằng năm (gồm nguồn chi thường xuyên và chi đầu tư phát triển) của Bộ theo quy định hiện hành của pháp luật về ngân sách nhà nước và huy động các nguồn kinh phí hợp pháp khác để thực hiện.\nĐiều 20. Tổ chức thực hiện\n1. Chánh Văn phòng Bộ và Thủ trưởng các đơn vị thuộc\nBộ chịu trách nhiệm tổ chức thực hiện; phổ biến, quán triệt Quy chế này đến toàn thể công chức, viên chức trong đơn vị để nghiêm túc thực hiện.\n2. Đơn vị, cá nhân có thành tích xuất sắc trong việc\nthực hiện Quy chế này được xem xét khen thưởng theo quy định của pháp luật và của Bộ. Trường hợp vi phạm Quy chế này thì tùy theo tính chất, mức độ vi phạm sẽ bị xử lý theo quy định của Bộ và quy định của pháp luật.\n3. Trong quá trình thực hiện, nếu các văn bản được\ndẫn chiếu để áp dụng trong Quy chế này được sửa đổi, bổ sung hoặc thay thế bằng văn bản mới thì các nội dung được dẫn chiếu áp dụng theo quy định tại các văn bản mới.\n4. Trường hợp phát sinh những vấn đề khó khăn, vướng\nmắc, các đơn vị phản ánh kịp thời về Văn phòng Bộ để tổng hợp, báo cáo Lãnh đạo Bộ xem xét, quyết định./.\nPHỤ LỤC\nCÁC BIỂU MẪU THEO DÕI GIẢI QUYẾT THỦ TỤC HÀNH CHÍNH\n(Kèm theo Quyết định số 1100/QĐ-BKHĐT ngày 14 tháng 6 năm 2022 của Bộ trưởng Bộ Kế hoạch và Đầu tư) Mẫu số 01 Mẫu Giấy tiếp nhận hồ sơ và hẹn trả kết quả Mẫu số 02 Mẫu Phiếu yêu cầu bổ sung hoàn thiện hồ sơ Mẫu số 03 Mẫu Từ chối tiếp nhận giải quyết hồ sơ Mẫu số 04 Phiếu xin lỗi và hẹn lại ngày trả kết quả Mẫu số 05 Mẫu Phiếu kiểm soát quá trình giải quyết hồ sơ Mẫu số 06 Mẫu Sổ theo dõi Chữ ký số (nếu là\nbiểu mẫu điện tử)\nMẫu số 01\nVĂN PHÒNG BỘ KẾ HOẠCH VÀ ĐẦU TƯ\nBỘ PHẬN TIẾP NHẬN VÀ TRẢ KẾT QUẢ\n-------\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc --------------- Số:\n......../PTNTKQ\nHà Nội., ngày.... tháng... năm......\nGIẤY TIẾP NHẬN HỒ SƠ VÀ HẸN TRẢ KẾT QUẢ\nMã hồ sơ: ................ Bộ phận Tiếp nhận và Trả kết quả ....................................................................................... Tiếp nhận hồ sơ của: ............................................................................................................ Số giấy tờ cá nhân: ............................................ Địa chỉ: ..................................................... Số điện thoại: .................................. Email (nếu có): ............................................................ Nội dung yêu cầu giải quyết: ................................................................................................. Thành phần hồ sơ, yêu cầu và số lượng mỗi loại giấy tờ gồm: 1 ................................................................. 2 ................................................................. 3 ................................................................. 4 ................................................................. Số lượng hồ sơ ............................ (bộ) Thời gian giải quyết hồ sơ theo quy định là: ........... ngày. Thời gian nhận hồ sơ:....giờ....phút, ngày... tháng ...năm.... Thời gian trả kết quả giải quyết hồ sơ dự kiến: giờ....phút, ngày....tháng... năm........ Đăng ký nhận kết quả: (i) Tại Bộ phận Một cửa; (ii) Tại địa chỉ của cá nhân, tổ chức hoặc địa chỉ khác (đề nghị ghi rõ) ............................................................................................................\nNGƯỜI NỘP HỒ SƠ\n(Ký và ghi rõ họ tên)\nNGƯỜI TIẾP NHẬN HỒ SƠ\n(Ký và ghi rõ họ tên) (Chữ ký số của Người tiếp nhận hồ sơ nếu là biểu mẫu điện tử) Ghi chú: - Trường hợp chưa thiết lập được Hệ thống thông tin một cửa điện tử, Giấy tiếp nhận và hẹn trả kết quả được lập thành 2 liên; một liên giao cho tổ chức, cá nhân nộp hồ sơ trong trường hợp nộp trực tiếp, nộp qua dịch vụ bưu chính công ích theo Quyết định số 45/2016/QĐ-TTg ; một liên chuyển kèm theo Phiếu kiểm soát quá trình giải quyết hồ sơ và được lưu tại Bộ phận Một cửa. - Tổ chức, cá nhân có thể đăng ký nhận kết quả tại Bộ phận Một cửa hoặc tại nhà (trụ sở tổ chức) qua dịch vụ bưu chính công ích. Chữ ký số (nếu là\nbiểu mẫu điện tử)\nMẫu số 02\nVĂN PHÒNG BỘ KẾ HOẠCH VÀ ĐẦU TƯ\nBỘ PHẬN TIẾP NHẬN VÀ TRẢ KẾT QUẢ\n-------\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc --------------- Số: ......../PYCBS Hà Nội, ngày.... tháng... năm......\nPHIẾU YÊU CẦU BỔ SUNG, HOÀN THIỆN HỒ SƠ\nHồ sơ của: ........................................................................................................................... Nội dung yêu cầu giải quyết: ............................................................................................... Địa chỉ: ................................................................................................................................. Số điện thoại ........................................... Email: ................................................................. Yêu cầu hoàn thiện hồ sơ gồm những nội dung sau: 1 ........................................................................................................................................... 2 ........................................................................................................................................... 3 ........................................................................................................................................... 4 ........................................................................................................................................... .............................................................................................................................................. .............................................................................................................................................. Lý do: .................................................................................................................................... Trong quá trình hoàn thiện hồ sơ nếu có vướng mắc, Ông/Bà liên hệ với ................ số điện thoại ...................................... để được hướng dẫn./.\nNGƯỜI HƯỚNG DẪN\n(Ký và ghi rõ họ tên) (Chữ ký số của Người hướng dẫn nếu là biểu mẫu điện tử) Chữ ký số (nếu là\nbiểu mẫu điện tử)\nMẫu số 03\nVĂN PHÒNG BỘ KẾ HOẠCH VÀ ĐẦU TƯ\nBỘ PHẬN TIẾP NHẬN VÀ TRẢ KẾT QUẢ\n-------\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc --------------- Số:\n/PTCTN\nHà Nội, ngày.... tháng... năm......\nPHIẾU TỪ CHỐI TIẾP NHẬN GIẢI QUYẾT HỒ SƠ\nBộ phận Tiếp nhận và Trả kết quả ....................................................................................... Tiếp nhận hồ sơ của: ............................................................................................................ Địa chỉ: .................................................................................................................................. Số điện thoại ........................................... Email: .................................................................. Nội dung yêu cầu giải quyết: ................................................................................................. Qua xem xét, Bộ phận Tiếp nhận và Trả kết quả thông báo không tiếp nhận, giải quyết hồ sơ này với lý do cụ thể như sau: .............................................................................................................................................. .............................................................................................................................................. .............................................................................................................................................. Xin thông báo cho Ông/Bà được biết và thực hiện./.\nNGƯỜI NỘP HỒ SƠ\n(Ký và ghi rõ họ tên)\nNGƯỜI TIẾP NHẬN HỒ SƠ\n(Ký và ghi rõ họ tên) (Chữ ký số của Người tiếp nhận hồ sơ nếu là biểu mẫu điện tử) Ghi chú: Trường hợp chưa thiết lập được Hệ thống thông tin một cửa điện tử, Phiếu được lập thành 2 liên; một liên giao cho tổ chức, cá nhân nộp hồ sơ trong trường hợp nộp trực tiếp, nộp qua dịch vụ bưu chính công ích theo Quyết định số 45/2016/QĐ-TTg ; một liên được lưu tại Trung tâm Phục vụ hành chính công/Bộ phận Tiếp nhận và Trả kết quả. Chữ ký số (nếu là\nbiểu mẫu điện tử)\nMẫu số 04\nVĂN PHÒNG BỘ KẾ HOẠCH VÀ ĐẦU TƯ\nBỘ PHẬN TIẾP NHẬN VÀ TRẢ KẾT QUẢ\n-------\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc --------------- Số:\n/PXL\nHà Nội, ngày.... tháng... năm......\nPHIẾU XIN LỖI VÀ HẸN LẠI NGÀY TRẢ KẾT QUẢ\nKính gửi:............................................................................. Ngày...tháng...năm ..., Bộ phận Một cửa thuộc Văn phòng Bộ Kế hoạch và Đầu tư tiếp nhận giải quyết hồ sơ đề nghị giải quyết thủ tục hành chính (tên thủ tục hành chính) của Ông/Bà/Tổ chức); mã số: ................................................ Thời gian hẹn trả kết quả giải quyết hồ sơ: ....giờ...., ngày....tháng....năm.... Tuy nhiên đến nay,..., Bộ phận Một cửa thuộc Văn phòng Bộ Kế hoạch và Đầu tư chưa trả kết quả giải quyết hồ sơ của Ông/Bà/Tổ chức đúng thời hạn quy định ghi trên Giấy tiếp nhận hồ sơ và trả kết quả/Biên nhận hồ sơ. Lý do: ................................................................................................................................... Bộ phận Một cửa thuộc Văn phòng Bộ Kế hoạch và Đầu tư xin lỗi Ông/Bà/Tổ chức và sẽ trả kết quả giải quyết hồ sơ cho Ông/Bà/Tổ chức vào ngày ... tháng ... năm ...... Mong nhận được sự thông cảm của Ông/Bà/Tổ chức vì sự chậm trễ này./.\nNGƯỜI ĐỨNG ĐẦU BỘ PHẬN MỘT CỬA\n(Ký và ghi rõ họ tên) (Chữ ký số của Thủ trưởng cơ quan, đơn vị nếu là biểu mẫu điện tử) Chữ ký số (nếu là\nbiểu mẫu điện tử)\nMẫu số 05\nVĂN PHÒNG BỘ KẾ HOẠCH VÀ ĐẦU TƯ\nBỘ PHẬN TIẾP NHẬN VÀ TRẢ KẾT QUẢ\n-------\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc --------------- Số: ......./PKS Hà Nội, ngày.... tháng... năm......\nPHIẾU KIỂM SOÁT QUÁ TRÌNH GIẢI QUYẾT HỒ SƠ\nMã số hồ sơ:...................... Cơ quan (bộ phận) giải quyết hồ sơ: .................................................................................... Cơ quan phối hợp giải quyết hồ sơ: .....................................................................................\nTÊN CƠ QUAN THỜI GIAN GIAO,\nNHẬN HỒ SƠ KẾT QUẢ GIẢI\nQUYẾT HỒ SƠ (Trước hạn/đúng hạn/quá hạn)\nGHI CHÚ\n1. Giao:\nBộ phận Một cửa\n2. Nhận: .....\n...giờ...phút, ngày... tháng... năm.... Người giao Người nhận\n1. Giao: .........\n2. Nhận: .........\n...giờ...phút, ngày... tháng... năm.... Người giao Người nhận\n1. Giao: .........\n2. Nhận: .........\n...giờ...phút, ngày... tháng... năm.... Người giao Người nhận ......... .........\n1. Giao: ............\n2. Nhận:\nBộ phận Một cửa ...giờ...phút, ngày... tháng... năm.... Người giao Người nhận Ghi chú: - Trường hợp hồ sơ được chuyển qua dịch vụ bưu chính công ích theo Quyết định số 45/2016/QĐ-TTg thì thời gian giao, nhận hồ sơ và việc ký nhận thể hiện trong hóa đơn của cơ quan Bưu chính. - Kết quả giải quyết hồ sơ do bên nhận nhập thông tin/ ghi khi nhận bàn giao hồ sơ. - Trường hợp Hệ thống thông tin một cửa điện tử chưa vận hành, người giao và người nhận phải ký và ghi rõ họ tên. Khi Hệ thống thông tin một cửa điện tử đã vận hành, việc lưu vết được thực hiện tự động và thể hiện trên mẫu phiếu điện tử. Chữ ký số (nếu là\nbiểu mẫu điện tử)\nMẫu số 06\nVĂN PHÒNG BỘ KẾ HOẠCH VÀ ĐẦU TƯ\nBỘ PHẬN TIẾP NHẬN VÀ TRẢ KẾT QUẢ\n-------\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc --------------- Số: ......./STDHS Hà Nội, ngày.... tháng... năm......\nSỔ THEO DÕI HỒ SƠ\nStt Mã hồ sơ Tên TTHC Tên cá nhân, tổ chức Địa chỉ, số điện thoại Đơn vị chủ trì giải quyết Thời gian tiếp nhận hồ sơ và trả kết quả Ngày nhận hồ sơ Hẹn trả kết quả Trả Kết quả Phương thức nhận kết quả Tên người nhận Ký nhận (1) (2) (3) (4) (5) (6) (7) (8) (10) (11) (12) (13) 1 2 3 ... Ghi chú: Sổ theo dõi hồ sơ được lập theo từng lĩnh vực hoặc nhóm lĩnh vực tại Bộ phận Một cửa.",
+  "tree": {
+    "parts": [
+      {
+        "part_id": "doc:83232:part:1",
+        "part_type": "main",
+        "part_title": null,
+        "reference": null,
+        "direct_text": "QUYẾT ĐỊNH BAN\nHÀNH QUY CHẾ TỔ CHỨC VÀ HOẠT ĐỘNG CỦA BỘ PHẬN TIẾP NHẬN VÀ TRẢ KẾT QUẢ GIẢI QUYẾT\nTHỦ TỤC HÀNH CHÍNH TẠI BỘ KẾ HOẠCH VÀ ĐẦU TƯ\nBỘ TRƯỞNG BỘ KẾ HOẠCH VÀ ĐẦU TƯ\nCăn cứ Nghị định số 86/2017/NĐ-CP ngày 25 tháng 7 năm 2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Kế hoạch và Đầu tư; Căn cứ Nghị định số 61/2018/NĐ-CP ngày 23 tháng 4 năm 2018 của Chính phủ về thực hiện cơ chế một cửa, một cửa liên thông trong giải quyết thủ tục hành chính; Căn cứ Nghị định số 107/2021/NĐ-CP ngày 06 tháng 12 năm 2021 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 61/2018/NĐ-CP về thực hiện cơ chế một cửa một cửa liên thông trong giải quyết thủ tục hành chính; Căn cứ Thông tư số 01/2018/TT-VPCP ngày 23 tháng 11 năm 2018 của Bộ trưởng, Chủ nhiệm Văn phòng Chính phủ hướng dẫn thi hành một số quy định của Nghị định số 61/2018/NĐ-CP ngày 23 tháng 4 năm 2018 của Chính phủ về thực hiện cơ chế một cửa, một cửa liên thông trong giải quyết thủ tục hành chính; Căn cứ Quyết định số 468/QĐ-TTg ngày 27 tháng 3 năm 2021 của Thủ tướng Chính phủ phê duyệt Đề án đổi mới việc thực hiện cơ chế một cửa, một cửa liên thông trong giải quyết thủ tục hành chính; Căn cứ Quyết định số 985/QĐ-TTg ngày 08 tháng 8 năm 2018 của Thủ tướng Chính phủ ban hành Kế hoạch thực hiện Nghị định số 61/2018/NĐ-CP ngày 23 tháng 4 năm 2018 của Chính phủ về thực hiện cơ chế một cửa, một cửa liên thông trong giải quyết thủ tục hành chính; Theo đề nghị của Chánh Văn phòng Bộ.\nQUYẾT ĐỊNH:",
+        "chapters": [],
+        "sections": [],
+        "articles": [
+          {
+            "article_id": "doc:83232:part:1:article:1",
+            "number": "1",
+            "title": "Ban hành kèm theo Quyết định này Quy chế tổ chức và hoạt động của Bộ phận Tiếp nhận và Trả kết quả giải quyết thủ tục hành chính tại Bộ Kế hoạch và Đầu tư.",
+            "content": "Điều 1. Ban hành kèm theo Quyết định này Quy chế tổ chức và hoạt động của Bộ phận Tiếp nhận và Trả kết quả giải quyết thủ tục hành chính tại Bộ Kế hoạch và Đầu tư.",
+            "clauses": [],
+            "points": []
+          },
+          {
+            "article_id": "doc:83232:part:1:article:2",
+            "number": "2",
+            "title": "Quyết định này có hiệu lực thi hành kể từ ngày ký và thay thế Quyết định số 2015/QĐ-BKHĐT ngày 25 tháng 12 năm 2018 của Bộ trưởng Bộ Kế hoạch và Đầu tư ban hành Quy chế tổ chức và hoạt động của Bộ phận Tiếp nhận và Trả kết quả giải quyết thủ tục hành chính thuộc Văn phòng Bộ Kế hoạch và Đầu tư.",
+            "content": "Điều 2. Quyết định này có hiệu lực thi hành kể từ ngày ký và thay thế Quyết định số 2015/QĐ-BKHĐT ngày 25 tháng 12 năm 2018 của Bộ trưởng Bộ Kế hoạch và Đầu tư ban hành Quy chế tổ chức và hoạt động của Bộ phận Tiếp nhận và Trả kết quả giải quyết thủ tục hành chính thuộc Văn phòng Bộ Kế hoạch và Đầu tư.",
+            "clauses": [],
+            "points": []
+          },
+          {
+            "article_id": "doc:83232:part:1:article:3",
+            "number": "3",
+            "title": "Chánh Văn phòng Bộ, Thủ trưởng các đơn vị thuộc Bộ và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này./.",
+            "content": "Điều 3. Chánh Văn phòng Bộ, Thủ trưởng các đơn vị thuộc Bộ và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này./.",
+            "clauses": [],
+            "points": []
+          }
+        ],
+        "unstructured_blocks": []
+      },
+      {
+        "part_id": "doc:83232:part:2",
+        "part_type": "regulation",
+        "part_title": "QUY CHẾ",
+        "reference": null,
+        "direct_text": "QUY CHẾ\nTỔ\nCHỨC VÀ HOẠT ĐỘNG CỦA BỘ PHẬN TIẾP NHẬN VÀ TRẢ KẾT QUẢ GIẢI QUYẾT THỦ TỤC HÀNH\nCHÍNH TẠI BỘ KẾ HOẠCH VÀ ĐẦU TƯ\n(Ban hành kèm theo Quyết định số 1100/QĐ-BKHĐT ngày 14 tháng 6 năm 2022 của\nBộ trưởng Bộ Kế hoạch và Đầu tư)",
+        "chapters": [
+          {
+            "chapter_id": "doc:83232:part:2:chapter:1",
+            "number": "I",
+            "title": "QUY ĐỊNH CHUNG",
+            "content": "Chương I\nQUY ĐỊNH CHUNG",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:83232:part:2:article:1",
+                "number": "1",
+                "title": "Đối tượng và phạm vi điều chỉnh",
+                "content": "Điều 1. Đối tượng và phạm vi điều chỉnh",
+                "clauses": [
+                  {
+                    "clause_id": "doc:83232:part:2:article:1:clause:1",
+                    "number": "1",
+                    "content": "1. Quy chế này quy định về tổ chức và hoạt động của\nBộ phận Tiếp nhận và Trả kết quả giải quyết thủ tục hành chính tại Bộ Kế hoạch và Đầu tư trong giải quyết thủ tục hành chính theo cơ chế một cửa, một cửa liên thông.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:83232:part:2:article:1:clause:2",
+                    "number": "2",
+                    "content": "2. Quy chế này áp dụng đối với các đơn vị thuộc Bộ\nKế hoạch và Đầu tư liên quan đến giải quyết thủ tục hành chính cho tổ chức, cá nhân tại trụ sở cơ quan Bộ Kế hoạch và Đầu tư; công chức thực hiện giải quyết thủ tục hành chính và tổ chức, cá nhân có yêu cầu giải quyết thủ tục hành chính tại Bộ Kế hoạch và Đầu tư.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:83232:part:2:article:2",
+                "number": "2",
+                "title": "Giải thích từ ngữ",
+                "content": "Điều 2. Giải thích từ ngữ",
+                "clauses": [
+                  {
+                    "clause_id": "doc:83232:part:2:article:2:clause:1",
+                    "number": "1",
+                    "content": "1. Bộ phận Tiếp nhận và Trả kết quả giải quyết thủ\ntục hành chính tại Bộ Kế hoạch và Đầu tư là đầu mối tập trung hướng dẫn thủ tục hành chính thuộc thẩm quyền giải quyết tại Bộ, tiếp nhận yêu cầu của tổ chức, cá nhân để chuyển đến các Cục/Vụ chức năng giải quyết và nhận, trả kết quả cho tổ chức, cá nhân.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:83232:part:2:article:2:clause:2",
+                    "number": "2",
+                    "content": "2. Hệ thống thông tin giải quyết thủ tục hành chính\ncủa Bộ Kế hoạch và Đầu tư là hệ thống được xây dựng tập trung, thống nhất từ Cổng Dịch vụ công và Hệ thống thông tin một cửa điện tử của Bộ để tiếp nhận, giải quyết, theo dõi, đánh giá chất lượng thực hiện thủ tục hành chính, cung cấp dịch vụ công trực tuyến thuộc thẩm quyền giải quyết của Bộ.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:83232:part:2:article:2:clause:3",
+                    "number": "3",
+                    "content": "3. Quy trình ISO là quy trình tiếp nhận, số hóa hồ\nsơ, chuyển hồ sơ, giải quyết, trả kết quả cho tổ chức, cá nhân và lưu trữ hồ sơ đối với từng thủ tục hành chính cụ thể được thực hiện tại Bộ phận Tiếp nhận và Trả kết quả giải quyết thủ tục hành chính tại Bộ Kế hoạch và Đầu tư theo tiêu chuẩn quốc gia Việt Nam TCVN 9001:2015.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:83232:part:2:article:2:clause:4",
+                    "number": "4",
+                    "content": "4. Số hóa hồ sơ thủ tục hành chính là việc thực hiện\nsao chụp, ký số chuyển thành tài liệu điện tử trên hệ thống thông tin cơ sở dữ liệu bảo đảm về tính đầy đủ, toàn vẹn, chính xác của các nội dung theo bản giấy.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:83232:part:2:article:3",
+                "number": "3",
+                "title": "Mục đích, nguyên tắc thực hiện cơ chế một cửa, một cửa liên thông",
+                "content": "Điều 3. Mục đích, nguyên tắc thực hiện cơ chế một cửa, một cửa liên thông",
+                "clauses": [
+                  {
+                    "clause_id": "doc:83232:part:2:article:3:clause:1",
+                    "number": "1",
+                    "content": "1. Mục đích:",
+                    "points": [
+                      {
+                        "point_id": "doc:83232:part:2:article:3:clause:1:point:1",
+                        "label": "a",
+                        "content": "a) Tạo điều kiện thuận lợi cho tổ chức, cá nhân khi\ncó nhu cầu giải quyết các thủ tục hành chính tại Bộ Kế hoạch và Đầu tư.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:83232:part:2:article:3:clause:1:point:2",
+                        "label": "b",
+                        "content": "b) Nâng cao chất lượng công vụ, ý thức tổ chức kỷ\nluật và tinh thần, trách nhiệm, thái độ phục vụ của đội ngũ công chức, viên chức tại Bộ Kế hoạch và Đầu tư.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:83232:part:2:article:3:clause:2",
+                    "number": "2",
+                    "content": "2. Nguyên tắc:",
+                    "points": [
+                      {
+                        "point_id": "doc:83232:part:2:article:3:clause:2:point:1",
+                        "label": "a",
+                        "content": "a) Việc giải quyết thủ tục hành chính cho tổ chức,\ncá nhân theo cơ chế một cửa, một cửa liên thông được quản lý tập trung, thống nhất tại một đầu mối là Bộ phận Tiếp nhận và Trả kết quả giải quyết thủ tục hành chính tại Bộ Kế hoạch và Đầu tư.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:83232:part:2:article:3:clause:2:point:2",
+                        "label": "b",
+                        "content": "b) Quá trình tiếp nhận hồ sơ và trả kết quả giải\nquyết thủ tục hành chính cho tổ chức, cá nhân tại Bộ phận Tiếp nhận và Trả kết quả tại Bộ Kế hoạch và Đầu tư được theo dõi, giám sát, đôn đốc, đánh giá theo quy định tại Quy chế này và tuân thủ quy định của pháp luật có liên quan đến thực hiện cơ chế một cửa, một cửa liên thông.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:83232:part:2:article:3:clause:2:point:3",
+                        "label": "c",
+                        "content": "c) Giải quyết thủ tục hành chính nhanh chóng, kịp\nthời, đúng pháp luật, công bằng, bình đẳng, công khai, minh bạch và có sự phối hợp chặt chẽ, đúng nguyên tắc giữa các đơn vị chuyên môn với Văn phòng Bộ Kế hoạch và Đầu tư; giữa các công chức, viên chức có liên quan trong giải quyết hồ sơ, thủ tục hành chính cho tổ chức, cá nhân.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:83232:part:2:article:3:clause:2:point:4",
+                        "label": "d",
+                        "content": "d) Lấy sự hài lòng của tổ chức, cá nhân là thước đo\nchất lượng và hiệu quả phục vụ của công chức, viên chức tại Bộ Kế hoạch và Đầu tư.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:83232:part:2:article:3:clause:2:point:5",
+                        "label": "đ",
+                        "content": "đ) Việc thu phí, giá dịch vụ (nếu có) được\nthực hiện theo đúng quy định. Không làm phát sinh chi phí thực hiện thủ tục hành chính cho tổ chức, cá nhân ngoài quy định của pháp luật.",
+                        "children": []
+                      }
+                    ]
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:83232:part:2:article:4",
+                "number": "4",
+                "title": "Quy định về mã số hồ sơ hành chính",
+                "content": "Điều 4. Quy định về mã số hồ sơ hành chính",
+                "clauses": [
+                  {
+                    "clause_id": "doc:83232:part:2:article:4:clause:1",
+                    "number": "1",
+                    "content": "1. Mã số hồ sơ hành chính được sử dụng thống nhất\ntrong hoạt động giao dịch giữa Bộ phận Tiếp nhận và Trả kết quả, các đơn vị thuộc Bộ với cá nhân, tổ chức và giữa các đơn vị thuộc Bộ với nhau, cụ thể:",
+                    "points": [
+                      {
+                        "point_id": "doc:83232:part:2:article:4:clause:1:point:1",
+                        "label": "a",
+                        "content": "a) Trên Giấy tiếp nhận hồ sơ và hẹn trả kết quả do\nBộ phận Tiếp nhận và Trả kết quả giao cho cá nhân, tổ chức và các văn bản, tài liệu khác liên quan đến việc giải quyết công việc.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:83232:part:2:article:4:clause:1:point:2",
+                        "label": "b",
+                        "content": "b) Trong việc ứng dụng công nghệ thông tin tại các\nđơn vị thuộc Bộ (Cổng Dịch vụ công và Hệ thống thông tin một cửa điện tử, Cơ sở dữ liệu điện tử lưu trữ hồ sơ thủ tục hành chính của Bộ).",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:83232:part:2:article:4:clause:2",
+                    "number": "2",
+                    "content": "2. Cấu trúc mã số hồ sơ thủ tục hành chính thực hiện\ngồm các ký tự chữ và số: V1V2V3.Z1Z2.Y1Y2.MX1X2-YYMMDD-XXXX, trong đó:",
+                    "points": [
+                      {
+                        "point_id": "doc:83232:part:2:article:4:clause:2:point:1",
+                        "label": "a",
+                        "content": "a) V1V2V3.Z1Z2.Y1Y2.MX1X2 là mã đơn vị theo Quy chuẩn\nkỹ thuật quốc gia về cấu trúc mã định danh và định dạng dữ liệu gói tin phục vụ kết nối các hệ thống quản lý văn bản và điều hành quy định tại Thông tư số 10/2016/TT-BTTTT ngày 01 tháng 4 năm 2016 của Bộ trưởng Bộ Thông tin và Truyền thông.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:83232:part:2:article:4:clause:2:point:2",
+                        "label": "b",
+                        "content": "b) YYMMDD là ngày tiếp nhận hồ sơ, bao gồm 06 ký tự\nsố. Trong đó, YY là 02 chữ số cuối của năm, MM là 02 chữ số của tháng, DD là 02 chữ số của ngày.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:83232:part:2:article:4:clause:2:point:3",
+                        "label": "c",
+                        "content": "c) XXXX là số thứ tự hồ sơ được tiếp nhận trong\nngày, gồm 04 chữ số bắt đầu từ 0001.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:83232:part:2:article:4:clause:3",
+                    "number": "3",
+                    "content": "3. Trường hợp Giấy tiếp nhận hồ sơ và hẹn trả kết\nquả được viết lại sau khi cá nhân, tổ chức bổ sung hồ sơ theo quy định: Mã số trên Giấy tiếp nhận hồ sơ và hẹn trả kết quả được ghi thêm số 2 vào bên phải của mã số hồ sơ hành chính. Đối với hồ sơ có nhiều lần bổ sung tài liệu, trên Giấy tiếp nhận hồ sơ và hẹn trả kết quả ghi rõ là hồ sơ bổ sung lần thứ bao nhiêu và ngày, tháng, năm bổ sung vào mã số hồ sơ thủ tục hành chính để tiện theo dõi các lần bổ sung hồ sơ và xác định số ngày xử lý hồ sơ tiếp theo.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:83232:part:2:chapter:2",
+            "number": "II",
+            "title": "BỘ PHẬN TIẾP NHẬN VÀ TRẢ KẾT QUẢ GIẢI QUYẾT THỦ TỤC HÀNH CHÍNH",
+            "content": "Chương II\nBỘ PHẬN TIẾP NHẬN VÀ TRẢ\nKẾT QUẢ GIẢI QUYẾT THỦ TỤC HÀNH CHÍNH",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:83232:part:2:article:5",
+                "number": "5",
+                "title": "Vị trí, địa điểm, trang thiết bị",
+                "content": "Điều 5. Vị trí, địa điểm, trang thiết bị",
+                "clauses": [
+                  {
+                    "clause_id": "doc:83232:part:2:article:5:clause:1",
+                    "number": "1",
+                    "content": "1. Bộ phận Tiếp nhận và Trả kết quả giải quyết thủ\ntục hành chính tại Bộ Kế hoạch và Đầu tư (sau đây viết tắt là Bộ phận Tiếp nhận và Trả kết quả) đặt tại Phòng Kiểm soát thủ tục hành chính - Tổng hợp thuộc Văn phòng Bộ Kế hoạch và Đầu tư (Văn phòng Bộ), do một Lãnh đạo Văn phòng Bộ đứng đầu, chịu sự quản lý và chỉ đạo của Lãnh đạo Bộ và Chánh Văn phòng Bộ.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:83232:part:2:article:5:clause:2",
+                    "number": "2",
+                    "content": "2. Địa điểm: Bộ phận Tiếp nhận và Trả kết quả được\nbố trí tại trụ sở cơ quan Bộ Kế hoạch và Đầu tư số 6B, Hoàng Diệu, Ba Đình, Hà Nội.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:83232:part:2:article:5:clause:3",
+                    "number": "3",
+                    "content": "3. Trang thiết bị của Bộ phận Tiếp nhận và Trả kết\nquả:",
+                    "points": [
+                      {
+                        "point_id": "doc:83232:part:2:article:5:clause:3:point:1",
+                        "label": "a",
+                        "content": "a) Bộ phận Tiếp nhận và Trả kết quả sử dụng Bộ nhận\ndiện thương hiệu theo hướng dẫn của Văn phòng Chính phủ. Sử dụng một bản sắc thương hiệu thống nhất về yêu cầu thiết kế nội thất, ngoại thất; biển hiệu, trang phục; biển tên, tài liệu nghiệp vụ và giao diện điện tử của Hệ thống thông tin giải quyết thủ tục hành chính của Bộ.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:83232:part:2:article:5:clause:3:point:2",
+                        "label": "b",
+                        "content": "b) Bộ phận Tiếp nhận và Trả kết quả được bố trí các\ntrang thiết bị tối thiểu gồm: Máy vi tính, máy in, máy quét (Scanner), máy lấy số xếp hàng tự động; máy lấy ý kiến đánh giá của các cá nhân, tổ chức kết nối tới Hệ thống thông tin một cửa điện tử của Bộ; các màn hình cảm ứng phục vụ cho tổ chức, cá nhân tra cứu thông tin, thủ tục hành chính; hệ thống mạng LAN kết nối Internet; thiết bị phát sóng wifi; tủ đựng tài liệu, điện thoại cố định, bàn và ghế làm việc, điều hòa nhiệt độ, hệ thống camera giám sát; bàn viết hồ sơ và ghế ngồi chờ, nước uống, hòm thư góp ý, bảng niêm yết công khai thủ tục hành chính, nội quy làm việc.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:83232:part:2:article:5:clause:3:point:3",
+                        "label": "c",
+                        "content": "c) Trang thiết bị của Bộ phận Tiếp nhận và Trả kết\nquả được bố trí khoa học theo các chức năng, bao gồm: Khu vực cung cấp thông tin về thủ tục hành chính; khu vực đặt các trang thiết bị điện tử, trong đó có máy lấy số xếp hàng tự động, màn hình đa phương tiện tra cứu thông tin về thủ tục hành chính và kết quả giải quyết. Có hạ tầng công nghệ thông tin và các thiết bị chuyên dụng theo quy định bảo đảm đủ điều kiện để thực hiện đúng quy trình công khai, hướng dẫn, tiếp nhận giải quyết, theo dõi quá trình giải quyết và trả kết quả giải quyết thủ tục hành chính của cá nhân, tổ chức; có đủ điều kiện để thực hiện cung cấp dịch vụ công trực tuyến mức độ 4. Áp dụng phần mềm một cửa điện tử với chức năng khoa học, rõ ràng, tiện lợi, có tính tự động cao, bảo đảm các yêu cầu theo quy định.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:83232:part:2:article:5:clause:3:point:4",
+                        "label": "d",
+                        "content": "d) Không gian giao tiếp giữa công chức, viên chức tại\nBộ phận Tiếp nhận và Trả kết quả với cá nhân, tổ chức cần được thiết kế hợp lý, đảm bảo giao tiếp bình đẳng, công khai, minh bạch.",
+                        "children": []
+                      }
+                    ]
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:83232:part:2:article:6",
+                "number": "6",
+                "title": "Thời gian làm việc của Bộ phận Tiếp nhận và Trả kết quả Bộ phận Tiếp nhận và Trả kết quả làm việc vào các ngày làm việc trong tuần (trừ các ngày nghỉ lễ, Tết theo quy định).",
+                "content": "Điều 6. Thời gian làm việc của Bộ phận Tiếp nhận và Trả kết quả Bộ phận Tiếp nhận và Trả kết quả làm việc vào các ngày làm việc trong tuần (trừ các ngày nghỉ lễ, Tết theo quy định).",
+                "clauses": [
+                  {
+                    "clause_id": "doc:83232:part:2:article:6:clause:1",
+                    "number": "1",
+                    "content": "1. Thời gian tiếp nhận và trả kết quả:\n- Sáng: 8 giờ đến 11 giờ 30 phút. - Chiều: 13 giờ 30 phút đến 17 giờ. Trường hợp cần thiết do yêu cầu công việc, Chánh Văn phòng Bộ quyết định thời gian tiếp nhận và trả kết quả bắt đầu sớm hơn hoặc kết thúc muộn hơn thời gian trên.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:83232:part:2:article:6:clause:2",
+                    "number": "2",
+                    "content": "2. Thời gian còn lại trong ngày làm việc để làm công\ntác sắp xếp và bàn giao hồ sơ.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:83232:part:2:article:7",
+                "number": "7",
+                "title": "Công khai thủ tục hành chính tại Bộ phận Tiếp nhận và Trả kết quả",
+                "content": "Điều 7. Công khai thủ tục hành chính tại Bộ phận Tiếp nhận và Trả kết quả",
+                "clauses": [
+                  {
+                    "clause_id": "doc:83232:part:2:article:7:clause:1",
+                    "number": "1",
+                    "content": "1. Thủ tục hành chính được công khai rõ ràng, đầy đủ\ntại Bộ phận Tiếp nhận và Trả kết quả theo quy định, gồm các thông tin chủ yếu sau:",
+                    "points": [
+                      {
+                        "point_id": "doc:83232:part:2:article:7:clause:1:point:1",
+                        "label": "a",
+                        "content": "a) Danh mục thủ tục hành chính thực hiện cơ chế một\ncửa, một cửa liên thông.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:83232:part:2:article:7:clause:1:point:2",
+                        "label": "b",
+                        "content": "b) Nội dung chính của từng thủ tục gồm: Tên thủ tục\nhành chính, trình tự thực hiện, cách thức thực hiện, cấp thẩm quyền giải quyết, thành phần hồ sơ và số lượng mỗi loại, số bộ hồ sơ phải nộp, thời hạn giải quyết và trả kết quả, mức phí và lệ phí (nếu có), các mẫu đơn, mẫu tờ khai của thủ tục hành chính.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:83232:part:2:article:7:clause:1:point:3",
+                        "label": "c",
+                        "content": "c) Mỗi thủ tục hành chính phải có hướng dẫn cách thức\nthực hiện, cách thức điền biểu mẫu và kèm theo một bộ hồ sơ mẫu đã được điền thông tin để cá nhân, tổ chức tham khảo.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:83232:part:2:article:7:clause:1:point:4",
+                        "label": "d",
+                        "content": "d) Danh mục thủ tục hành chính được tiếp nhận, giải\nquyết theo cơ chế một cửa, một cửa liên thông trực tuyến qua mạng từ mức độ 3 trở lên (nếu có) và quy trình, cách thức truy cập, nộp hồ sơ điện tử, tra cứu trạng thái giải quyết hồ sơ, nhận kết quả giải quyết.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:83232:part:2:article:7:clause:2",
+                    "number": "2",
+                    "content": "2. Việc công khai thủ tục hành chính được thực hiện\nđồng thời bằng các hình thức sau:",
+                    "points": [
+                      {
+                        "point_id": "doc:83232:part:2:article:7:clause:2:point:1",
+                        "label": "a",
+                        "content": "a) Niêm yết trên bảng niêm yết thủ tục hành chính (khổ\ngiấy A4, in 01 mặt).",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:83232:part:2:article:7:clause:2:point:2",
+                        "label": "b",
+                        "content": "b) In thành các bộ tài liệu đặt tại bàn viết hồ sơ (gồm\ncả hồ sơ mẫu).",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:83232:part:2:article:7:clause:2:point:3",
+                        "label": "c",
+                        "content": "c) Thông tin trên màn hình cảm ứng tra cứu thủ tục\nhành chính (nếu có).",
+                        "children": []
+                      }
+                    ]
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:83232:part:2:article:8",
+                "number": "8",
+                "title": "Công khai thông tin đường dây nóng tại Bộ phận Tiếp nhận và Trả kết quả",
+                "content": "Điều 8. Công khai thông tin đường dây nóng tại Bộ phận Tiếp nhận và Trả kết quả",
+                "clauses": [
+                  {
+                    "clause_id": "doc:83232:part:2:article:8:clause:1",
+                    "number": "1",
+                    "content": "1. Công khai thông tin đường dây nóng để tiếp nhận\nphản ánh, kiến nghị, góp ý của cá nhân, tổ chức, gồm: Số điện thoại, địa chỉ thư điện tử của Bộ phận Tiếp nhận và Trả kết quả và của các đơn vị chuyên môn; số điện thoại, địa chỉ thư điện tử của Chánh Văn phòng Bộ.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:83232:part:2:article:8:clause:2",
+                    "number": "2",
+                    "content": "2. Hình thức công khai:",
+                    "points": [
+                      {
+                        "point_id": "doc:83232:part:2:article:8:clause:2:point:1",
+                        "label": "a",
+                        "content": "a) Niêm yết trên bảng niêm yết tại Bộ phận Tiếp nhận\nvà Trả kết quả và tại bàn viết hồ sơ.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:83232:part:2:article:8:clause:2:point:2",
+                        "label": "b",
+                        "content": "b) Trên Cổng thông tin điện tử, Hệ thống thông tin\ngiải quyết thủ tục hành chính của Bộ.",
+                        "children": []
+                      }
+                    ]
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:83232:part:2:article:9",
+                "number": "9",
+                "title": "Nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ phận Tiếp nhận và Trả kết quả",
+                "content": "Điều 9. Nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ phận Tiếp nhận và Trả kết quả\n1. Nhiệm vụ:\na) Công khai đầy đủ, kịp thời bằng phương tiện điện\ntử hoặc bằng văn bản Danh mục thủ tục hành chính được thực hiện tại Bộ phận Tiếp nhận và Trả kết quả.\nb) Hướng dẫn thực hiện thủ tục hành chính; tiếp nhận,\nsố hóa hồ sơ; giải quyết hoặc chuyển hồ sơ đến đơn vị chuyên môn giải quyết; trả kết quả giải quyết; lưu trữ hồ sơ thủ tục hành chính; theo dõi, giám sát, đánh giá việc giải quyết và trả kết quả giải quyết thủ tục hành chính cho tổ chức, cá nhân; thu phí, lệ phí (nếu có) theo quy định.\nc) Phối hợp với các đơn vị liên quan để giải quyết,\ntrả kết quả giải quyết cho tổ chức, cá nhân đối với trường hợp thủ tục hành chính yêu cầu giải quyết ngay trong ngày; hỗ trợ tổ chức, cá nhân sử dụng dịch vụ công trực tuyến mức độ 3, mức độ 4.\nd) Phối hợp với Vụ Tổ chức cán bộ, Trung tâm Bồi dưỡng\ncán bộ Kinh tế - Kế hoạch và các đơn vị có liên quan tổ chức tập huấn, bồi dưỡng nâng cao trình độ chuyên môn, nghiệp vụ cho công chức, viên chức được giao nhiệm vụ hướng dẫn, tiếp nhận và trả kết quả giải quyết thủ tục hành chính theo cơ chế một cửa, một cửa liên thông.\nđ) Tiếp nhận, xử lý hoặc phối hợp với các đơn vị có\nliên quan xử lý phản ánh, kiến nghị, khiếu nại, tố cáo của tổ chức, cá nhân đối với công chức, viên chức liên quan đến việc hướng dẫn, tiếp nhận, giải quyết, chuyển hồ sơ giải quyết và trả kết quả giải quyết thủ tục hành chính; chuyển ý kiến giải trình của các đơn vị chuyên môn về các phản ánh, kiến nghị, khiếu nại, tố cáo đến tổ chức, cá nhân.\ne) Thực hiện quản lý, sử dụng và lưu trữ hồ sơ, tài\nliệu, thông tin có liên quan theo quy định của pháp luật, bao gồm: Sổ theo dõi giải quyết hồ sơ (tiếp nhận và trả kết quả) cho tổ chức, cá nhân, phiếu chuyển hồ sơ cho đơn vị chức năng có liên quan, phiếu hẹn trả kết quả.\ng) Nghiên cứu, đề xuất với Lãnh đạo Bộ về các giải\npháp cải cách thủ tục hành chính được thực hiện tại Bộ phận Tiếp nhận và Trả kết quả.\nh) Định kỳ hằng quý và đột xuất báo cáo Lãnh đạo Bộ\nvề kết quả thực hiện cơ chế một cửa, một cửa liên thông để đề xuất giải pháp tháo gỡ khó khăn, vướng mắc phát sinh trong quá trình thực hiện.\ni) Tổng hợp kết quả giải quyết thủ tục hành chính\ndo các đơn vị chuyên môn thuộc Bộ thực hiện theo cơ chế một cửa, một cửa liên thông.\nk) Thực hiện các nhiệm vụ khác được Chánh Văn phòng\nBộ giao theo quy định của pháp luật.\n2. Quyền hạn:\na) Được đề nghị các đơn vị có liên quan cung cấp\nthông tin, tài liệu phục vụ cho công tác tiếp nhận, giải quyết thủ tục hành chính.\nb) Từ chối tiếp nhận các hồ sơ chưa đúng quy định;\nchủ trì theo dõi, giám sát, đôn đốc các đơn vị liên quan trong việc giải quyết thủ tục hành chính theo đúng quy trình đã được Lãnh đạo Bộ phê duyệt; yêu cầu các đơn vị liên quan thông tin về tiến độ giải quyết thủ tục hành chính cho tổ chức, cá nhân; đôn đốc các đơn vị liên quan xử lý hồ sơ đến hoặc quá thời hạn giải quyết.\nc) Theo dõi, đôn đốc, nhận xét, đánh giá công chức,\nviên chức của các đơn vị liên quan cử đến công tác tại Bộ phận Tiếp nhận và Trả kết quả về việc chấp hành thời gian lao động, các quy định của pháp luật về chế độ công vụ, quy chế văn hóa công sở, nội quy của cơ quan.\nd) Đề xuất việc đổi mới, cải tiến, nâng cao chất lượng\nphục vụ, thực hiện công vụ đúng thời hạn, thuận tiện cho tổ chức, cá nhân; tổ chức hoặc phối hợp tổ chức thông tin, tuyên truyền về việc thực hiện cơ chế một cửa, một cửa liên thông trong giải quyết thủ tục hành chính tại Bộ Kế hoạch và Đầu tư.\nđ) Đề xuất với Lãnh đạo Văn phòng Bộ và Lãnh đạo Bộ\nchỉ đạo Trung tâm Tin học nâng cấp, xây dựng tập trung, thống nhất Cổng Dịch vụ công và Hệ thống thông tin một cửa điện tử của Bộ thành Hệ thống thông tin giải quyết thủ tục hành chính; bảo đảm an toàn thông tin trong quá trình khai thác, sử dụng các hệ thống này.\ne) Thực hiện các nhiệm vụ khác do Chánh Văn phòng Bộ\ngiao.\n3. Cơ cấu tổ chức:\na) Trưởng Bộ phận Tiếp nhận và Trả kết quả do một\nLãnh đạo Văn phòng Bộ phụ trách phòng Kiểm soát thủ tục hành chính - Tổng hợp đảm nhiệm.\nb) Số lượng công chức, viên chức làm việc tại Bộ phận\nTiếp nhận và Trả kết quả gồm: - 02 công chức luân phiên thường trực tại Bộ phận Tiếp nhận và Trả kết quả thuộc biên chế của Phòng Kiểm soát thủ tục hành chính - Tổng hợp có trách nhiệm quản lý, vận hành trụ sở, trang thiết bị máy móc, hệ thống mạng của Bộ phận Tiếp nhận và Trả kết quả; tiếp nhận hồ sơ và trả kết quả cho tổ chức, cá nhân. - Mỗi đơn vị chuyên môn có thủ tục hành chính giải quyết tại Bộ phận Tiếp nhận và Trả kết quả phải cử ít nhất 01 công chức (hoặc viên chức) chuyên trách đến làm nhiệm vụ số hóa hồ sơ, giải quyết thủ tục hành chính. Danh sách công chức, viên chức được niêm yết tại Bộ phận Tiếp nhận và Trả kết quả.",
+                "clauses": [],
+                "points": []
+              },
+              {
+                "article_id": "doc:83232:part:2:article:10",
+                "number": "10",
+                "title": "Tiêu chuẩn, trách nhiệm, quyền lợi của công chức, viên chức làm việc tại Bộ phận Tiếp nhận và Trả kết quả",
+                "content": "Điều 10. Tiêu chuẩn, trách nhiệm, quyền lợi của công chức, viên chức làm việc tại Bộ phận Tiếp nhận và Trả kết quả",
+                "clauses": [
+                  {
+                    "clause_id": "doc:83232:part:2:article:10:clause:1",
+                    "number": "1",
+                    "content": "1. Tiêu chuẩn:\nCông chức, viên chức làm việc tại Bộ phận Tiếp nhận và Trả kết quả giải quyết thủ tục hành chính tại Bộ Kế hoạch và Đầu tư cần đáp ứng các tiêu chuẩn quy định tại khoản 1 Điều 11 Nghị định số 61/2018/NĐ-CP của Chính phủ về thực hiện cơ chế một cửa, một cửa liên thông trong giải quyết thủ tục hành chính (sau đây viết tắt là Nghị định số\n61/2018/NĐ-CP).",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:83232:part:2:article:10:clause:2",
+                    "number": "2",
+                    "content": "2. Trách nhiệm:\nCông chức, viên chức làm việc tại Bộ phận Tiếp nhận và Trả kết quả giải quyết thủ tục hành chính tại Bộ Kế hoạch và Đầu tư, ngoài việc thực hiện các trách nhiệm quy định tại khoản 2 Điều 11 Nghị định số 61/2018/NĐ-CP cần thực hiện việc số hóa hồ sơ thủ tục hành chính theo quy định tại khoản 11 Điều 1 Nghị định số 107/2021/NĐ-CP ngày 16 tháng 12 năm 2021 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 61/2018/NĐ-CP (sau đây viết tắt là Nghị định số 107/2021/NĐ-CP).",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:83232:part:2:article:10:clause:3",
+                    "number": "3",
+                    "content": "3. Quyền lợi:\nCông chức, viên chức làm việc tại Bộ phận Tiếp nhận và Trả kết quả được hưởng các quyền lợi quy định tại khoản 3 Điều 11 Nghị định số 61/2018/NĐ-CP và các quyền lợi sau:",
+                    "points": [
+                      {
+                        "point_id": "doc:83232:part:2:article:10:clause:3:point:1",
+                        "label": "a",
+                        "content": "a) Chế độ bồi dưỡng: Trưởng bộ phận và các công chức\nlàm việc tại Bộ phận Một cửa được hưởng quyền lợi theo quy định hiện hành của Nhà nước và phù hợp với Quy chế chi tiêu nội bộ của Bộ Kế hoạch và Đầu tư.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:83232:part:2:article:10:clause:3:point:2",
+                        "label": "b",
+                        "content": "b) Trang phục: Công chức làm việc tại Bộ phận Tiếp\nnhận và Trả kết quả được cấp trang phục và thực hiện theo Quy chế chi tiêu nội bộ của Bộ Kế hoạch và Đầu tư. Mỗi năm được cấp tối thiểu: 01 (một) bộ xuân hè và 01 (một) bộ thu đông/01 người.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:83232:part:2:article:10:clause:4",
+                    "number": "4",
+                    "content": "4. Thời hạn làm việc của công chức được cử đến Bộ\nphận Tiếp nhận và Trả kết quả: Thời hạn thực hiện nhiệm vụ của công chức được cử đến Bộ phận Tiếp nhận và Trả kết quả tối thiểu 06 tháng và tối đa không quá 24 tháng mỗi đợt theo quy định tại khoản 4 Điều 11 Nghị định số\n61/2018/NĐ-CP.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:83232:part:2:article:11",
+                "number": "11",
+                "title": "Những hành vi không được thực hiện trong giải quyết thủ tục hành chính theo cơ chế một cửa, một cửa liên thông",
+                "content": "Điều 11. Những hành vi không được thực hiện trong giải quyết thủ tục hành chính theo cơ chế một cửa, một cửa liên thông",
+                "clauses": [
+                  {
+                    "clause_id": "doc:83232:part:2:article:11:clause:1",
+                    "number": "1",
+                    "content": "1. Đối với công chức, viên chức làm việc tại Bộ phận\nTiếp nhận và Trả kết quả:",
+                    "points": [
+                      {
+                        "point_id": "doc:83232:part:2:article:11:clause:1:point:1",
+                        "label": "a",
+                        "content": "a) Không được thực hiện các hành vi quy định tại khoản 1 Điều 5 Nghị định số 61/2018/NĐ-CP.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:83232:part:2:article:11:clause:1:point:2",
+                        "label": "b",
+                        "content": "b) Yêu cầu cung cấp lại thông tin, giấy tờ, tài liệu\nđiện tử hoặc tài liệu đã được số hóa có giá trị pháp lý theo quy định pháp luật, được kết nối, chia sẻ dữ liệu trong quá trình tiếp nhận, giải quyết thủ tục hành chính, trừ trường hợp sử dụng cho mục đích xác minh, thẩm tra lại tính xác thực thông tin, giấy tờ, tài liệu đã được số hóa.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:83232:part:2:article:11:clause:2",
+                    "number": "2",
+                    "content": "2. Đối với tổ chức, cá nhân có yêu cầu giải quyết\nthủ tục hành chính theo cơ chế một cửa, một cửa liên thông tại Bộ Kế hoạch và Đầu tư không được thực hiện các hành vi quy định tại khoản 2 Điều 5 Nghị định số 61/2018/NĐ-CP.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:83232:part:2:chapter:3",
+            "number": "III",
+            "title": "QUY TRÌNH PHỐI HỢP THỰC HIỆN VIỆC TIẾP NHẬN, GIẢI QUYẾT VÀ TRẢ KẾT QUẢ GIẢI QUYẾT THỦ TỤC HÀNH CHÍNH",
+            "content": "Chương III\nQUY TRÌNH PHỐI HỢP THỰC\nHIỆN VIỆC TIẾP NHẬN, GIẢI QUYẾT VÀ TRẢ KẾT QUẢ GIẢI QUYẾT THỦ TỤC HÀNH CHÍNH",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:83232:part:2:article:12",
+                "number": "12",
+                "title": "Tiếp nhận hồ sơ",
+                "content": "Điều 12. Tiếp nhận hồ sơ\n1. Hồ sơ được nộp trực tiếp tại Bộ phận Tiếp nhận\nvà Trả kết quả hoặc gửi qua dịch vụ bưu chính hoặc nộp trực tuyến. Cá nhân, tổ chức khi gửi hồ sơ qua dịch vụ bưu chính ghi rõ địa chỉ gửi, địa chỉ nhận kết quả và tự chi trả cước phí theo quy định của đơn vị cung cấp dịch vụ bưu chính công ích.\n2. Khi giao dịch tiếp nhận hồ sơ, công chức, viên\nchức tại Bộ phận Tiếp nhận và Trả kết quả thực hiện kiểm tra hồ sơ như sau:\na) Kiểm tra, xác thực tài khoản số của cá nhân, tổ\nchức thông qua số định danh cá nhân của công dân Việt Nam hoặc số hộ chiếu (hoặc số giấy tờ có giá trị đi lại quốc tế) của người nước ngoài và mã số của tổ chức theo quy định. Trường hợp tổ chức, cá nhân chưa có tài khoản số, công chức, viên chức tiếp nhận hồ sơ tại Bộ phận Tiếp nhận và Trả kết quả hướng dẫn thực hiện hoặc tạo tài khoản cho cá nhân, tổ chức trên Cổng Dịch vụ công quốc gia hoặc Cổng Dịch vụ công của Bộ.\nb) Thực hiện kiểm tra dữ liệu điện tử của các thành\nphần hồ sơ thủ tục hành chính. Trường hợp thông tin, dữ liệu, hồ sơ, giấy tờ điện tử có giá trị pháp lý của tổ chức, cá nhân đã được kết nối, chia sẻ giữa Cổng Dịch vụ công quốc gia với Hệ thống thông tin giải quyết thủ tục hành chính của Bộ thì tổ chức, cá nhân không phải khai lại thông tin hoặc nộp lại hồ sơ, giấy tờ, tài liệu; kiểm tra và chuyển vào hồ sơ thủ tục hành chính điện tử cho tổ chức, cá nhân.\nc) Đối với thành phần hồ sơ là kết quả giải quyết\nthủ tục hành chính hoặc phải số hóa theo quy định mà chưa có dữ liệu điện tử, công chức một cửa thực hiện sao chụp, chuyển thành tài liệu điện tử trên hệ thống thông tin, cơ sở dữ liệu và chịu trách nhiệm về tính đầy đủ, toàn vẹn, chính xác của các nội dung theo bản giấy. Ký số vào tài liệu đã được số hóa theo quy định trước khi chuyển hồ sơ đến cơ quan, đơn vị có thẩm quyền giải quyết.\n3. Thực hiện kiểm tra hồ sơ như sau:\na) Trường hợp hồ sơ hợp lệ, đầy đủ thành phần, số\nlượng theo đúng các quy định tại Quyết định công bố thủ tục hành chính của Bộ: Thực hiện tiếp nhận hồ sơ; số hóa hồ sơ theo quy định tại điểm c khoản 2 Điều này; nhập thông tin vào Sổ theo dõi hồ sơ (theo mẫu số 06 tại Phụ lục) hoặc Phần mềm điện tử; lập Giấy tiếp nhận hồ sơ và hẹn trả kết quả (theo mẫu số 01 tại Phụ lục) và giao Giấy tiếp nhận hồ sơ và hẹn trả kết quả có đầy đủ thông tin cho người nộp hồ sơ, hoặc gửi qua đường bưu chính (nếu hồ sơ được gửi qua đường bưu chính), hoặc gửi vào tài khoản trực tuyến của cá nhân trên Cổng Dịch vụ công. Mỗi hồ sơ thủ tục hành chính sau khi tiếp nhận sẽ được cấp một Mã số hồ sơ theo quy định tại Điều 4 Quy chế này và ghi trong Giấy tiếp nhận và hẹn trả kết quả. Tổ chức, cá nhân sử dụng Mã số hồ sơ để tra cứu tình trạng giải quyết thủ tục hành chính.\nb) Trường hợp hồ sơ chưa hợp lệ, chưa đầy đủ thành\nphần, số lượng theo quy định: Hướng dẫn cụ thể, đầy đủ, một lần (nếu có thể); lập Phiếu yêu cầu bổ sung, hoàn thiện hồ sơ (theo mẫu số 02 tại Phụ lục), giao ngay cho người nộp hồ sơ hoặc gửi qua đường bưu chính (nếu hồ sơ gửi qua dịch vụ bưu chính), hoặc gửi vào tài khoản trực tuyến hoặc địa chỉ thư điện tử mà người nộp hồ sơ đã đăng ký. Trong thời hạn 01 ngày làm việc kể từ thời điểm nhận hồ sơ, Bộ phận Tiếp nhận và Trả kết quả gửi Phiếu yêu cầu bổ sung, hoàn thiện hồ sơ đối với hồ sơ được nộp qua đường bưu chính hoặc nộp trực tuyến qua Cổng Dịch vụ công. Trường hợp hồ sơ không thuộc phạm vi giải quyết: Hướng dẫn để cá nhân, tổ chức đến cơ quan, đơn vị có thẩm quyền giải quyết. Trường hợp cá nhân, tổ chức yêu cầu có văn bản trả lời hoặc hồ sơ được gửi qua dịch vụ bưu chính, gửi trực tuyến, công chức tại Bộ phận Tiếp nhận và Trả kết quả phải báo cáo Lãnh đạo đơn vị, trả lời bằng văn bản nêu rõ lý do hồ sơ không được tiếp nhận trong thời gian 01 ngày làm việc.\nc) Trường hợp công chức tiếp nhận hồ sơ tại Bộ phận\nTiếp nhận và Trả kết quả được phân công giải quyết hồ sơ. Công chức nhập thông tin vào sổ theo dõi hồ sơ hoặc phần mềm điện tử và xử lý như sau: - Đối với hồ sơ quy định giải quyết và trả kết quả ngay: Sau khi tiếp nhận, công chức tại Bộ phận Tiếp nhận và Trả kết quả kiểm tra, nếu thấy hồ sơ đã đầy đủ, chính xác, đủ điều kiện tiếp nhận thì không cần lập Giấy tiếp nhận hồ sơ và hẹn trả kết quả nhưng phải gửi luôn cho công chức chuyên trách của các đơn vị chuyên môn thẩm định, giải quyết hồ sơ cho cá nhân, tổ chức trong thời gian 01 ngày làm việc và cập nhật tình hình, kết quả giải quyết vào Hệ thống thông tin giải quyết thủ tục hành chính của Bộ. - Đối với hồ sơ quy định có thời hạn giải quyết theo quy trình ISO hoặc theo quy định, công chức lập Giấy tiếp nhận hồ sơ và hẹn trả kết quả; scan tài liệu và số hóa hồ sơ theo quy định; chuyển hồ sơ đến đơn vị chuyên môn để xử lý, và nhận kết quả giải quyết để chuyển trả cho cá nhân, tổ chức theo đúng thời hạn.",
+                "clauses": [],
+                "points": []
+              },
+              {
+                "article_id": "doc:83232:part:2:article:13",
+                "number": "13",
+                "title": "Chuyển hồ sơ",
+                "content": "Điều 13. Chuyển hồ sơ",
+                "clauses": [
+                  {
+                    "clause_id": "doc:83232:part:2:article:13:clause:1",
+                    "number": "1",
+                    "content": "1. Sau khi tiếp nhận hồ sơ theo quy định tại Điều 12 Quy chế này, công chức lập Phiếu kiểm soát quá trình giải\nquyết hồ sơ (theo mẫu số 05 tại Phụ lục); bàn giao hồ sơ và Phiếu kiểm soát quá trình giải quyết hồ sơ cho công chức chuyên trách của các đơn vị chuyên môn liên quan giải quyết.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:83232:part:2:article:13:clause:2",
+                    "number": "2",
+                    "content": "2. Phiếu kiểm soát quá trình giải quyết hồ sơ được\nchuyển theo hồ sơ và lưu tại Bộ phận Tiếp nhận và Trả kết quả.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:83232:part:2:article:13:clause:3",
+                    "number": "3",
+                    "content": "3. Việc bàn giao hồ sơ được tiến hành ngay trong\nngày tiếp nhận hồ sơ. Trường hợp, hồ sơ tiếp nhận sau 16 giờ 30 phút trong ngày làm việc theo quy định thì người tiếp nhận có trách nhiệm chuyển hồ sơ vào trước 9 giờ sáng của ngày làm việc kế tiếp.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:83232:part:2:article:13:clause:4",
+                    "number": "4",
+                    "content": "4. Trường hợp hồ sơ tiếp nhận trực tuyến hoặc hồ sơ\ngiấy đã được số hóa được chuyển đến đơn vị chuyên môn giải quyết trên Hệ thống thông tin giải quyết thủ tục hành chính của Bộ.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:83232:part:2:article:14",
+                "number": "14",
+                "title": "Giải quyết hồ sơ Sau khi tiếp nhận hồ sơ từ Bộ phận Tiếp nhận và Trả kết quả, công chức, viên chức được phân công xử lý hồ sơ của các đơn vị chuyên môn có trách nhiệm giải quyết như sau:",
+                "content": "Điều 14. Giải quyết hồ sơ Sau khi tiếp nhận hồ sơ từ Bộ phận Tiếp nhận và Trả kết quả, công chức, viên chức được phân công xử lý hồ sơ của các đơn vị chuyên môn có trách nhiệm giải quyết như sau:",
+                "clauses": [
+                  {
+                    "clause_id": "doc:83232:part:2:article:14:clause:1",
+                    "number": "1",
+                    "content": "1. Kiểm tra thông tin trên tài liệu điện tử mà Bộ\nphận Tiếp nhận và Trả kết quả chuyến đến và cập nhật thông tin, dữ liệu điện tử trên hệ thống thông tin, cơ sở dữ liệu, ký số của cơ quan, đơn vị vào bản sao y đối với thành phần hồ sơ phải số hóa thuộc phạm vi quản lý của đơn vị. Dữ liệu điện tử của giấy tờ phải có tối thiểu các trường thông tin: Mã loại giấy tờ; số định danh của tổ chức, cá nhân, trường hợp cá nhân không có số định danh cá nhân thì phải bổ sung họ tên, năm sinh, ngày cấp, cơ quan cấp; tên giấy tờ; trích yếu nội dung chính của giấy tờ; thời hạn có hiệu lực; phạm vi có hiệu lực (nếu có).",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:83232:part:2:article:14:clause:2",
+                    "number": "2",
+                    "content": "2. Trường hợp phải thẩm tra, xác minh, lấy ý kiến\ncác cơ quan, đơn vị có liên quan trong quá trình xử lý hồ sơ, kết quả thẩm tra, xác minh và kết quả trả lời của cơ quan, đơn vị có liên quan phải được số hóa theo dữ liệu điện tử để lưu vào hệ thống thông tin, cơ sở dữ liệu.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:83232:part:2:article:14:clause:3",
+                    "number": "3",
+                    "content": "3. Thẩm định, trình cấp có thẩm quyền quyết định và\nchuyển kết quả giải quyết đến Bộ phận Tiếp nhận và Trả kết quả. Sau khi tiếp nhận hồ sơ, đơn vị chủ trì có trách nhiệm tổ chức lấy ý kiến của các cơ quan, đơn vị phối hợp bằng văn bản (trong trường hợp cần thiết).",
+                    "points": [
+                      {
+                        "point_id": "doc:83232:part:2:article:14:clause:3:point:1",
+                        "label": "a",
+                        "content": "a) Trường hợp lấy ý kiến của các đơn vị thuộc Bộ:\nĐơn vị được hỏi ý kiến phải trả lời trong thời gian sớm nhất theo yêu cầu của đơn vị lấy ý kiến và phù hợp với Quy chế làm việc của Bộ. Trên cơ sở ý kiến của các đơn vị phối hợp, đơn vị chủ trì thẩm định, trình Lãnh đạo Bộ quyết định và chuyển kết quả giải quyết hồ sơ của tổ chức, cá nhân đến Bộ phận Tiếp nhận và Trả kết quả. Trường hợp các đơn vị phối hợp không trả lời đúng thời hạn, đơn vị chủ trì được quyết định hoặc trình Lãnh đạo Bộ quyết định; đơn vị phối hợp phải chịu trách nhiệm về nội dung thuộc trách nhiệm của mình.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:83232:part:2:article:14:clause:3:point:2",
+                        "label": "b",
+                        "content": "b) Trường hợp phải lấy ý kiến các cơ quan có liên\nquan: Đơn vị tổ chức lấy ý kiến phải căn cứ vào thời gian giải quyết của thủ tục hành chính để đưa ra thời hạn xin ý kiến cho phù hợp với pháp luật hiện hành.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:83232:part:2:article:14:clause:3:point:3",
+                        "label": "c",
+                        "content": "c) Kết quả giải quyết thủ tục hành chính trình cấp\ncó thẩm quyền ký số, phát hành theo quy định pháp luật về công tác văn thư để trả bản giấy và bản điện tử cho tổ chức, cá nhân, trừ trường hợp thủ tục hành chính chỉ quy định cung cấp bản kết quả giải quyết điện tử hoặc tổ chức, cá nhân đề nghị cung cấp bản kết quả giải quyết điện tử. Khi có kết quả giải quyết thủ tục hành chính thành công, các hồ sơ, giấy tờ đã được số hóa có giá trị pháp lý trong quá trình tiếp nhận, giải quyết thủ tục hành chính được sử dụng trong thực hiện các thủ tục hành chính khác của tổ chức, cá nhân.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:83232:part:2:article:14:clause:4",
+                    "number": "4",
+                    "content": "4. Trường hợp hồ sơ chưa đủ điều kiện giải quyết:\nBáo cáo Lãnh đạo đơn vị và thông báo bằng văn bản cho tổ chức, cá nhân yêu cầu bổ sung hồ sơ, đồng thời thông báo cho Văn phòng Bộ (theo mẫu số 02 tại Phụ lục). Trong bản thông báo cần nêu rõ căn cứ, nội dung và thời hạn sửa đổi, bổ sung hồ sơ.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:83232:part:2:article:14:clause:5",
+                    "number": "5",
+                    "content": "5. Trường hợp hồ sơ không đủ điều kiện giải quyết:\nBáo cáo Lãnh đạo đơn vị trả lại hồ sơ và thông báo bằng văn bản cho tổ chức, cá nhân nêu rõ lý do hồ sơ không đủ điều kiện giải quyết (theo mẫu số 03 tại Phụ lục), đồng thời gửi một bản thông báo đến Văn phòng Bộ. Thời hạn thông báo phải trong thời hạn giải quyết hồ sơ theo quy định.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:83232:part:2:article:15",
+                "number": "15",
+                "title": "Trả kết quả giải quyết Sau khi nhận kết quả giải quyết từ đơn vị chuyên môn, công chức làm việc tại Bộ phận Tiếp nhận và Trả kết quả vào Sổ theo dõi hồ sơ hoặc nhập vào phần mềm điện tử và thực hiện như sau:",
+                "content": "Điều 15. Trả kết quả giải quyết Sau khi nhận kết quả giải quyết từ đơn vị chuyên môn, công chức làm việc tại Bộ phận Tiếp nhận và Trả kết quả vào Sổ theo dõi hồ sơ hoặc nhập vào phần mềm điện tử và thực hiện như sau:",
+                "clauses": [
+                  {
+                    "clause_id": "doc:83232:part:2:article:15:clause:1",
+                    "number": "1",
+                    "content": "1. Các hồ sơ đã giải quyết xong: Trả kết quả giải\nquyết hồ sơ cho cá nhân, tổ chức và thu phí, lệ phí (nếu có) theo quy định.",
+                    "points": [
+                      {
+                        "point_id": "doc:83232:part:2:article:15:clause:1:point:1",
+                        "label": "a",
+                        "content": "a) Trường hợp cá nhân, tổ chức đã đăng ký nhận kết\nquả qua dịch vụ bưu chính thì việc trả kết quả, thu phí, lệ phí (nếu có) và cước phí được thực hiện qua dịch vụ bưu chính.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:83232:part:2:article:15:clause:1:point:2",
+                        "label": "b",
+                        "content": "b) Kết quả giải quyết thủ tục hành chính điện tử được\ntrả cho tổ chức, cá nhân trên Cổng Dịch vụ công quốc gia hoặc Cổng Dịch vụ công của Bộ. Kết quả giải quyết thủ tục hành chính điện tử được gắn mã số giấy tờ và lưu trữ trong Cơ sở dữ liệu quốc gia hoặc Kho dữ liệu hồ sơ thủ tục hành chính của Hệ thống thông tin giải quyết thủ tục hành chính của Bộ. Mã số giấy tờ gồm hai thành phần là mã số định danh của cá nhân, tổ chức và mã loại giấy tờ, trong đó mã loại giấy tờ đối với kết quả giải quyết thủ tục hành chính được thống nhất sử dụng theo mã loại kết quả giải quyết thủ tục hành chính trên Cơ sở dữ liệu quốc gia về thủ tục hành chính.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:83232:part:2:article:15:clause:1:point:3",
+                        "label": "c",
+                        "content": "c) Kết quả giải quyết thủ tục hành chính bằng bản\ngiấy được trả theo quy định.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:83232:part:2:article:15:clause:1:point:4",
+                        "label": "d",
+                        "content": "d) Kết quả giải quyết thủ tục hành chính cho tổ chức,\ncá nhân được lưu trữ tại Hệ thống thông tin giải quyết thủ tục hành chính của Bộ để phục vụ việc tích hợp, chia sẻ, tra cứu thông tin, dữ liệu, sử dụng để thực hiện các thủ tục hành chính khác theo quy định của pháp luật.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:83232:part:2:article:15:clause:1:point:5",
+                        "label": "đ",
+                        "content": "đ) Đối với hồ sơ giải quyết xong trước thời hạn trả\nkết quả: Liên hệ để cá nhân, tổ chức nhận kết quả.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:83232:part:2:article:15:clause:2",
+                    "number": "2",
+                    "content": "2. Đối với hồ sơ chưa đủ điều kiện giải quyết, phải\nbổ sung hồ sơ: Liên hệ với cá nhân, tổ chức để đề nghị bổ sung hồ sơ theo thông báo của các đơn vị chuyên môn thực hiện việc giải quyết hồ sơ. Hồ sơ chờ bổ sung được lưu tại Bộ phận Tiếp nhận và Trả kết quả, sau khi cá nhân, tổ chức hoàn thiện hồ sơ theo thông báo sẽ chuyển lại cho công chức của đơn vị chủ trì tiếp tục xử lý hồ sơ theo quy định. Trường hợp tổ chức, cá nhân chậm bổ sung hồ sơ theo yêu cầu, hồ sơ được lưu lại tại Bộ phận Tiếp nhận và Trả kết quả nhưng không quá 06 tháng.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:83232:part:2:article:15:clause:3",
+                    "number": "3",
+                    "content": "3. Đối với hồ sơ không đủ điều kiện giải quyết:\nLiên hệ với cá nhân, tổ chức để trả lại hồ sơ kèm theo văn bản thông báo không đủ điều kiện giải quyết hồ sơ của đơn vị chuyên môn. Thông báo được nhập vào mục trả kết quả trong sổ theo dõi hồ sơ.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:83232:part:2:article:15:clause:4",
+                    "number": "4",
+                    "content": "4. Đối với hồ sơ quá hạn giải quyết: Chuyển văn bản\nxin lỗi của cơ quan làm quá hạn giải quyết cho cá nhân, tổ chức và hẹn lại ngày trả kết quả (theo mẫu số 04 tại Phụ lục). Thời hạn chuyển văn bản xin lỗi: 01 ngày trước ngày hết hạn giải quyết hồ sơ.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:83232:part:2:article:15:clause:5",
+                    "number": "5",
+                    "content": "5. Trường hợp cá nhân, tổ chức chưa đến nhận hồ sơ\ntheo giấy tiếp nhận hồ sơ và hẹn trả kết quả thì kết quả giải quyết hồ sơ được lưu giữ tại Bộ phận Tiếp nhận và Trả kết quả theo quy định.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:83232:part:2:article:15:clause:6",
+                    "number": "6",
+                    "content": "6. Trong khi giao dịch trả kết quả, công chức, viên\nchức tại Bộ phận Tiếp nhận và Trả kết quả chủ động đề nghị cá nhân, tổ chức cho ý kiến đánh giá về mức độ hài lòng đối với sự phục vụ của Bộ phận Tiếp nhận và Trả kết quả.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:83232:part:2:article:15:clause:7",
+                    "number": "7",
+                    "content": "7. Công chức, viên chức được phân công giải quyết hồ\nsơ thủ tục hành chính của các đơn vị chuyên môn không trực tiếp trả kết quả cho tổ chức, cá nhân.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:83232:part:2:chapter:4",
+            "number": "IV",
+            "title": "TRÁCH NHIỆM THI HÀNH VÀ TỔ CHỨC THỰC HIỆN",
+            "content": "Chương IV\nTRÁCH NHIỆM THI HÀNH VÀ TỔ CHỨC THỰC HIỆN",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:83232:part:2:article:16",
+                "number": "16",
+                "title": "Trách nhiệm của Văn phòng Bộ",
+                "content": "Điều 16. Trách nhiệm của Văn phòng Bộ",
+                "clauses": [
+                  {
+                    "clause_id": "doc:83232:part:2:article:16:clause:1",
+                    "number": "1",
+                    "content": "1. Tổ chức triển khai áp dụng cơ chế một cửa, một cửa\nliên thông trong thực hiện toàn bộ các thủ tục hành chính thuộc trách nhiệm, thẩm quyền giải quyết của Bộ Kế hoạch và Đầu tư.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:83232:part:2:article:16:clause:2",
+                    "number": "2",
+                    "content": "2. Bố trí, tổ chức và tạo điều kiện để công chức,\nviên chức làm việc tại Bộ phận Tiếp nhận và Trả kết quả được tham dự các lớp đào tạo, bồi dưỡng, tập huấn về chuyên môn, nghiệp vụ và kỹ năng giao tiếp, ứng xử của Bộ.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:83232:part:2:article:16:clause:3",
+                    "number": "3",
+                    "content": "3. Triển khai ứng dụng công nghệ thông tin, tuyên\ntruyền để hỗ trợ việc tra cứu, tiếp nhận, xử lý, giải quyết, theo dõi tiến độ giải quyết hồ sơ của cá nhân, tổ chức bảo đảm hiệu quả, thuận tiện, kịp thời, chính xác.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:83232:part:2:article:16:clause:4",
+                    "number": "4",
+                    "content": "4. Hướng dẫn, kiểm tra việc thực hiện các quy định\nvề cơ chế một cửa, một cửa liên thông tại Văn phòng Bộ Kế hoạch và Đầu tư và các đơn vị có liên quan thuộc Bộ theo thẩm quyền, nâng cao sự hài lòng của cá nhân, tổ chức.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:83232:part:2:article:16:clause:5",
+                    "number": "5",
+                    "content": "5. Bố trí kinh phí tổ chức triển khai thực hiện cơ\nchế một cửa, một cửa liên thông trong dự toán ngân sách của Văn phòng Bộ theo quy định về ngân sách nhà nước.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:83232:part:2:article:16:clause:6",
+                    "number": "6",
+                    "content": "6. Thực hiện chế độ thông tin, báo cáo theo quy định.\nHằng quý, Văn phòng Bộ tổng hợp, báo cáo Lãnh đạo Bộ kết quả đánh giá và kết quả của việc khắc phục, chấn chỉnh, xử lý vi phạm đối với việc thực hiện cơ chế một cửa, một cửa liên thông trong giải quyết thủ tục hành chính.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:83232:part:2:article:17",
+                "number": "17",
+                "title": "Trách nhiệm của Trưởng Bộ phận Tiếp nhận và Trả kết quả",
+                "content": "Điều 17. Trách nhiệm của Trưởng Bộ phận Tiếp nhận và Trả kết quả",
+                "clauses": [
+                  {
+                    "clause_id": "doc:83232:part:2:article:17:clause:1",
+                    "number": "1",
+                    "content": "1. Trực tiếp điều hành và chịu trách nhiệm trước\nLãnh đạo Bộ và Chánh Văn phòng Bộ về toàn bộ hoạt động của Bộ phận Tiếp nhận và Trả kết quả.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:83232:part:2:article:17:clause:2",
+                    "number": "2",
+                    "content": "2. Đôn đốc các đơn vị có liên quan thuộc Bộ thực hiện\ngiải quyết thủ tục hành chính theo đúng quy định; báo cáo, đề xuất với Chánh Văn phòng Bộ và Lãnh đạo Bộ biện pháp xử lý đối với những trường hợp giải quyết thủ tục hành chính không bảo đảm thời gian và chất lượng theo quy định.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:83232:part:2:article:17:clause:3",
+                    "number": "3",
+                    "content": "3. Định kỳ hằng quý hoặc đột xuất làm việc với các\nđơn vị có thủ tục hành chính được tiếp nhận và giải quyết tại Bộ phận Tiếp nhận và Trả kết quả để trao đổi về việc quản lý, điều hành, thực hiện nhiệm vụ và tình hình tiếp nhận, số hóa hồ sơ, kết quả giải quyết thủ tục hành chính của các đơn vị chuyên môn tại Bộ phận Tiếp nhận và Trả kết quả.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:83232:part:2:article:17:clause:4",
+                    "number": "4",
+                    "content": "4. Phối hợp với đơn vị cử công chức, viên chức chức\nxem xét, xử lý hành vi vi phạm của công chức, viên chức thực hiện nhiệm vụ kiêm nhiệm tại Bộ phận Tiếp nhận và Trả kết quả; công khai kết quả xử lý cho tổ chức, cá nhân có phản ánh, kiến nghị, khiếu nại, tố cáo đối với hành vi vi phạm của công chức, viên chức.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:83232:part:2:article:17:clause:5",
+                    "number": "5",
+                    "content": "5. Kịp thời xử lý theo thẩm quyền hoặc chuyển cơ\nquan có thẩm quyền xử lý hành vi vi phạm pháp luật của tổ chức, cá nhân, công chức xảy ra tại Bộ phận Tiếp nhận và Trả kết quả.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:83232:part:2:article:17:clause:6",
+                    "number": "6",
+                    "content": "6. Quản lý thời gian làm việc, tiến độ xử lý công\nviệc được giao, thái độ, tác phong của công chức, viên chức được cử đến làm việc tại Bộ phận Tiếp nhận và Trả kết quả. Từ chối tiếp nhận hoặc chủ động đề xuất với đơn vị chuyên môn cử người thay công chức, viên chức vi phạm kỷ luật lao động, có thái độ, tác phong, cư xử không đúng quy chế văn hóa công sở, năng lực chuyên môn không đáp ứng được nhiệm vụ hoặc có hành vi vi phạm pháp luật khác.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:83232:part:2:article:17:clause:7",
+                    "number": "7",
+                    "content": "7. Chủ động đề nghị Thủ trưởng các đơn vị có liên\nquan cử công chức đến Bộ phận Tiếp nhận và Trả kết quả để kịp thời tăng, giảm công chức khi số lượng tổ chức, cá nhân đến thực hiện thủ tục hành chính có biến động tăng, giảm lớn hoặc trường hợp công chức được vắng mặt, được nghỉ theo quy định.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:83232:part:2:article:17:clause:8",
+                    "number": "8",
+                    "content": "8. Quản lý, trình Chánh Văn phòng Bộ về việc mua sắm,\nthuê, cải tạo, sửa chữa, bảo dưỡng, thay thế, bổ sung, thanh lý tài sản, cơ sở vật chất, kỹ thuật tại Bộ phận Tiếp nhận và Trả kết quả theo đúng quy định của pháp luật.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:83232:part:2:article:18",
+                "number": "18",
+                "title": "Trách nhiệm của các đơn vị thuộc Bộ",
+                "content": "Điều 18. Trách nhiệm của các đơn vị thuộc Bộ",
+                "clauses": [
+                  {
+                    "clause_id": "doc:83232:part:2:article:18:clause:1",
+                    "number": "1",
+                    "content": "1. Các đơn vị chuyên môn thuộc Bộ có thủ tục hành\nchính giải quyết tại Bộ phận Tiếp nhận và Trả kết quả có trách nhiệm:",
+                    "points": [
+                      {
+                        "point_id": "doc:83232:part:2:article:18:clause:1:point:1",
+                        "label": "a",
+                        "content": "a) Xây dựng phương án nhân sự, bao gồm nhân sự\nchính thức được cử đến Bộ phận Tiếp nhận và Trả kết quả, nhân sự dự phòng, nhiệm vụ cụ thể gửi Văn phòng Bộ tổng hợp, trình Lãnh đạo Bộ quyết định danh sách công chức được cử làm việc Bộ phận Tiếp nhận và Trả kết quả.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:83232:part:2:article:18:clause:1:point:2",
+                        "label": "b",
+                        "content": "b) Chịu trách nhiệm về tính chính xác, đầy đủ của\ncác quy định liên quan đến thủ tục hành chính thuộc lĩnh vực phụ trách.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:83232:part:2:article:18:clause:1:point:3",
+                        "label": "c",
+                        "content": "c) Chịu trách nhiệm về kết quả số hóa hồ sơ thủ tục\nhành chính, thời hạn xử lý hồ sơ và lưu trữ điện tử kết quả giải quyết thủ tục hành chính của tổ chức, cá nhân bảo đảm đúng quy định của pháp luật có liên quan.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:83232:part:2:article:18:clause:1:point:4",
+                        "label": "d",
+                        "content": "d) Chịu trách nhiệm cập nhật kịp thời 100% số hồ sơ\ngiải quyết thủ tục hành chính trên Hệ thống thông tin giải quyết thủ tục hành chính của Bộ theo quy định.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:83232:part:2:article:18:clause:1:point:5",
+                        "label": "đ",
+                        "content": "đ) Hướng dẫn thực hiện, hoàn thiện bộ hồ sơ thông\nqua Bộ hồ sơ mẫu và qua video hướng dẫn mẫu: - Các đơn vị chuyên môn có trách nhiệm xây dựng Bộ hồ sơ mẫu và video hướng dẫn đối với từng thủ tục hành chính chuyển đến Bộ phận Tiếp nhận và Trả kết quả để công khai cho tổ chức, cá nhân tham khảo. - Bộ hồ sơ mẫu bao gồm đầy đủ thông tin trong mẫu đơn, tờ khai (nếu có) theo phương thức giả định hoặc ẩn bớt danh tính, các loại mẫu thành phần hồ sơ, mẫu giấy tiếp nhận hồ sơ và mẫu giấy trả kết quả theo quy định của pháp luật. Các mẫu được được in chữ “MẪU” bằng chữ in hoa đậm, sử dụng phông chữ tiếng Việt Unicode (Times New Roman), cỡ chữ 16 theo tiêu chuẩn Việt Nam TCVN 9001:2015 tại góc trên cùng bên phải các trang giấy. - Video hướng dẫn cần thể hiện đầy đủ các thông tin hướng dẫn về việc thực hiện thủ tục hành chính, các yêu cầu cụ thể đối với từng loại thành phần hồ sơ, các bước chuẩn bị và quy trình thực hiện theo quy định của pháp luật. Video hướng dẫn mẫu được trình chiếu tại Bộ phận Tiếp nhận và Trả kết quả và được đăng tải trên Cổng dịch vụ công của Bộ.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:83232:part:2:article:18:clause:1:point:6",
+                        "label": "e",
+                        "content": "e) Phối hợp với Văn phòng Bộ, Trung tâm Tin học xây\ndựng quy trình nội bộ, quy trình điện tử đối với từng thủ tục hành chính thuộc lĩnh vực phụ trách.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:83232:part:2:article:18:clause:2",
+                    "number": "2",
+                    "content": "2. Trung tâm Tin học:",
+                    "points": [
+                      {
+                        "point_id": "doc:83232:part:2:article:18:clause:2:point:1",
+                        "label": "a",
+                        "content": "a) Chủ trì, phối hợp với Văn phòng Bộ và các đơn vị\nliên quan hoàn thiện, nâng cấp Cổng Dịch vụ công và Hệ thống thông tin một cửa điện tử của Bộ bảo đảm tiêu chí, tính năng kỹ thuật, yêu cầu kết nối theo hướng dẫn của Bộ Thông tin và Truyền thông và Văn phòng Chính phủ, cụ thể: - Nghiên cứu thiết kế bổ sung logo vào giao diện trên Cổng Dịch vụ công và Hệ thống thông tin một cửa điện tử của Bộ theo hướng dẫn sử dụng bộ nhận diện thương hiệu chung của Văn phòng Chính phủ. - Phối hợp với các đơn vị có liên quan thuộc Bộ (Cục Quản lý đấu thầu, Cục Đầu tư nước ngoài, Cục Phát triển doanh nghiệp,...) nghiên cứu thực hiện việc kết nối chia sẻ Kho dữ liệu hồ sơ thủ tục hành chính (của Cổng thông tin quốc gia về đầu tư, Hệ thống mạng đấu thầu quốc gia, Cổng thông tin quốc gia về hỗ trợ doanh nghiệp...) với Hệ thống thông tin giải quyết thủ tục hành chính của Bộ.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:83232:part:2:article:18:clause:2:point:2",
+                        "label": "b",
+                        "content": "b) Chủ trì xây dựng Quy chế hoạt động của Hệ thống\nthông tin giải quyết thủ tục hành chính được tạo thành trên cơ sở Cổng Dịch vụ công và Hệ thống thông tin một cửa điện tử của Bộ Kế hoạch và Đầu tư để thống nhất quản lý theo quy định tại Nghị định số 107/2021/NĐ-CP .",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:83232:part:2:article:18:clause:3",
+                    "number": "3",
+                    "content": "3. Vụ Thi đua - Khen thưởng và Truyền thông có\ntrách nhiệm chủ trì, phối hợp với Văn phòng Bộ tuyên truyền, phổ biến việc thực hiện cơ chế một cửa, một cửa liên thông tại Bộ Kế hoạch và Đầu tư.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:83232:part:2:article:18:clause:4",
+                    "number": "4",
+                    "content": "4. Vụ Tổ chức cán bộ có trách nhiệm chủ trì, phối hợp\nvới Văn phòng Bộ trong việc theo dõi, đánh giá, kết quả giải quyết thủ tục hành chính của các đơn vị có liên quan thuộc Bộ.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:83232:part:2:article:19",
+                "number": "19",
+                "title": "Kinh phí thực hiện Kinh phí thực hiện cơ chế một cửa, cơ chế một cửa liên thông do ngân sách nhà nước bảo đảm, được bố trí trong dự toán ngân sách hằng năm (gồm nguồn chi thường xuyên và chi đầu tư phát triển) của Bộ theo quy định hiện hành của pháp luật về ngân sách nhà nước và huy động các nguồn kinh phí hợp pháp khác để thực hiện.",
+                "content": "Điều 19. Kinh phí thực hiện Kinh phí thực hiện cơ chế một cửa, cơ chế một cửa liên thông do ngân sách nhà nước bảo đảm, được bố trí trong dự toán ngân sách hằng năm (gồm nguồn chi thường xuyên và chi đầu tư phát triển) của Bộ theo quy định hiện hành của pháp luật về ngân sách nhà nước và huy động các nguồn kinh phí hợp pháp khác để thực hiện.",
+                "clauses": [],
+                "points": []
+              },
+              {
+                "article_id": "doc:83232:part:2:article:20",
+                "number": "20",
+                "title": "Tổ chức thực hiện",
+                "content": "Điều 20. Tổ chức thực hiện",
+                "clauses": [
+                  {
+                    "clause_id": "doc:83232:part:2:article:20:clause:1",
+                    "number": "1",
+                    "content": "1. Chánh Văn phòng Bộ và Thủ trưởng các đơn vị thuộc\nBộ chịu trách nhiệm tổ chức thực hiện; phổ biến, quán triệt Quy chế này đến toàn thể công chức, viên chức trong đơn vị để nghiêm túc thực hiện.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:83232:part:2:article:20:clause:2",
+                    "number": "2",
+                    "content": "2. Đơn vị, cá nhân có thành tích xuất sắc trong việc\nthực hiện Quy chế này được xem xét khen thưởng theo quy định của pháp luật và của Bộ. Trường hợp vi phạm Quy chế này thì tùy theo tính chất, mức độ vi phạm sẽ bị xử lý theo quy định của Bộ và quy định của pháp luật.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:83232:part:2:article:20:clause:3",
+                    "number": "3",
+                    "content": "3. Trong quá trình thực hiện, nếu các văn bản được\ndẫn chiếu để áp dụng trong Quy chế này được sửa đổi, bổ sung hoặc thay thế bằng văn bản mới thì các nội dung được dẫn chiếu áp dụng theo quy định tại các văn bản mới.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:83232:part:2:article:20:clause:4",
+                    "number": "4",
+                    "content": "4. Trường hợp phát sinh những vấn đề khó khăn, vướng\nmắc, các đơn vị phản ánh kịp thời về Văn phòng Bộ để tổng hợp, báo cáo Lãnh đạo Bộ xem xét, quyết định./.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          }
+        ],
+        "sections": [],
+        "articles": [],
+        "unstructured_blocks": []
+      },
+      {
+        "part_id": "doc:83232:part:3",
+        "part_type": "appendix",
+        "part_title": "PHỤ LỤC",
+        "reference": null,
+        "direct_text": null,
+        "chapters": [],
+        "sections": [],
+        "articles": [],
+        "unstructured_blocks": [
+          {
+            "block_id": "doc:83232:part:3:block:1",
+            "content": "PHỤ LỤC\nCÁC BIỂU MẪU THEO DÕI GIẢI QUYẾT THỦ TỤC HÀNH CHÍNH\n(Kèm theo Quyết định số 1100/QĐ-BKHĐT ngày 14 tháng 6 năm 2022 của Bộ trưởng Bộ Kế hoạch và Đầu tư) Mẫu số 01 Mẫu Giấy tiếp nhận hồ sơ và hẹn trả kết quả Mẫu số 02 Mẫu Phiếu yêu cầu bổ sung hoàn thiện hồ sơ Mẫu số 03 Mẫu Từ chối tiếp nhận giải quyết hồ sơ Mẫu số 04 Phiếu xin lỗi và hẹn lại ngày trả kết quả Mẫu số 05 Mẫu Phiếu kiểm soát quá trình giải quyết hồ sơ Mẫu số 06 Mẫu Sổ theo dõi Chữ ký số (nếu là\nbiểu mẫu điện tử)\nMẫu số 01\nVĂN PHÒNG BỘ KẾ HOẠCH VÀ ĐẦU TƯ\nBỘ PHẬN TIẾP NHẬN VÀ TRẢ KẾT QUẢ\n-------\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc --------------- Số:\n......../PTNTKQ\nHà Nội., ngày.... tháng... năm......\nGIẤY TIẾP NHẬN HỒ SƠ VÀ HẸN TRẢ KẾT QUẢ\nMã hồ sơ: ................ Bộ phận Tiếp nhận và Trả kết quả ....................................................................................... Tiếp nhận hồ sơ của: ............................................................................................................ Số giấy tờ cá nhân: ............................................ Địa chỉ: ..................................................... Số điện thoại: .................................. Email (nếu có): ............................................................ Nội dung yêu cầu giải quyết: ................................................................................................. Thành phần hồ sơ, yêu cầu và số lượng mỗi loại giấy tờ gồm: 1 ................................................................. 2 ................................................................. 3 ................................................................. 4 ................................................................. Số lượng hồ sơ ............................ (bộ) Thời gian giải quyết hồ sơ theo quy định là: ........... ngày. Thời gian nhận hồ sơ:....giờ....phút, ngày... tháng ...năm.... Thời gian trả kết quả giải quyết hồ sơ dự kiến: giờ....phút, ngày....tháng... năm........ Đăng ký nhận kết quả: (i) Tại Bộ phận Một cửa; (ii) Tại địa chỉ của cá nhân, tổ chức hoặc địa chỉ khác (đề nghị ghi rõ) ............................................................................................................\nNGƯỜI NỘP HỒ SƠ\n(Ký và ghi rõ họ tên)\nNGƯỜI TIẾP NHẬN HỒ SƠ\n(Ký và ghi rõ họ tên) (Chữ ký số của Người tiếp nhận hồ sơ nếu là biểu mẫu điện tử) Ghi chú: - Trường hợp chưa thiết lập được Hệ thống thông tin một cửa điện tử, Giấy tiếp nhận và hẹn trả kết quả được lập thành 2 liên; một liên giao cho tổ chức, cá nhân nộp hồ sơ trong trường hợp nộp trực tiếp, nộp qua dịch vụ bưu chính công ích theo Quyết định số 45/2016/QĐ-TTg ; một liên chuyển kèm theo Phiếu kiểm soát quá trình giải quyết hồ sơ và được lưu tại Bộ phận Một cửa. - Tổ chức, cá nhân có thể đăng ký nhận kết quả tại Bộ phận Một cửa hoặc tại nhà (trụ sở tổ chức) qua dịch vụ bưu chính công ích. Chữ ký số (nếu là\nbiểu mẫu điện tử)\nMẫu số 02\nVĂN PHÒNG BỘ KẾ HOẠCH VÀ ĐẦU TƯ\nBỘ PHẬN TIẾP NHẬN VÀ TRẢ KẾT QUẢ\n-------\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc --------------- Số: ......../PYCBS Hà Nội, ngày.... tháng... năm......\nPHIẾU YÊU CẦU BỔ SUNG, HOÀN THIỆN HỒ SƠ\nHồ sơ của: ........................................................................................................................... Nội dung yêu cầu giải quyết: ............................................................................................... Địa chỉ: ................................................................................................................................. Số điện thoại ........................................... Email: ................................................................. Yêu cầu hoàn thiện hồ sơ gồm những nội dung sau: 1 ........................................................................................................................................... 2 ........................................................................................................................................... 3 ........................................................................................................................................... 4 ........................................................................................................................................... .............................................................................................................................................. .............................................................................................................................................. Lý do: .................................................................................................................................... Trong quá trình hoàn thiện hồ sơ nếu có vướng mắc, Ông/Bà liên hệ với ................ số điện thoại ...................................... để được hướng dẫn./.\nNGƯỜI HƯỚNG DẪN\n(Ký và ghi rõ họ tên) (Chữ ký số của Người hướng dẫn nếu là biểu mẫu điện tử) Chữ ký số (nếu là\nbiểu mẫu điện tử)\nMẫu số 03\nVĂN PHÒNG BỘ KẾ HOẠCH VÀ ĐẦU TƯ\nBỘ PHẬN TIẾP NHẬN VÀ TRẢ KẾT QUẢ\n-------\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc --------------- Số:\n/PTCTN\nHà Nội, ngày.... tháng... năm......\nPHIẾU TỪ CHỐI TIẾP NHẬN GIẢI QUYẾT HỒ SƠ\nBộ phận Tiếp nhận và Trả kết quả ....................................................................................... Tiếp nhận hồ sơ của: ............................................................................................................ Địa chỉ: .................................................................................................................................. Số điện thoại ........................................... Email: .................................................................. Nội dung yêu cầu giải quyết: ................................................................................................. Qua xem xét, Bộ phận Tiếp nhận và Trả kết quả thông báo không tiếp nhận, giải quyết hồ sơ này với lý do cụ thể như sau: .............................................................................................................................................. .............................................................................................................................................. .............................................................................................................................................. Xin thông báo cho Ông/Bà được biết và thực hiện./.\nNGƯỜI NỘP HỒ SƠ\n(Ký và ghi rõ họ tên)\nNGƯỜI TIẾP NHẬN HỒ SƠ\n(Ký và ghi rõ họ tên) (Chữ ký số của Người tiếp nhận hồ sơ nếu là biểu mẫu điện tử) Ghi chú: Trường hợp chưa thiết lập được Hệ thống thông tin một cửa điện tử, Phiếu được lập thành 2 liên; một liên giao cho tổ chức, cá nhân nộp hồ sơ trong trường hợp nộp trực tiếp, nộp qua dịch vụ bưu chính công ích theo Quyết định số 45/2016/QĐ-TTg ; một liên được lưu tại Trung tâm Phục vụ hành chính công/Bộ phận Tiếp nhận và Trả kết quả. Chữ ký số (nếu là\nbiểu mẫu điện tử)\nMẫu số 04\nVĂN PHÒNG BỘ KẾ HOẠCH VÀ ĐẦU TƯ\nBỘ PHẬN TIẾP NHẬN VÀ TRẢ KẾT QUẢ\n-------\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc --------------- Số:\n/PXL\nHà Nội, ngày.... tháng... năm......\nPHIẾU XIN LỖI VÀ HẸN LẠI NGÀY TRẢ KẾT QUẢ\nKính gửi:............................................................................. Ngày...tháng...năm ..., Bộ phận Một cửa thuộc Văn phòng Bộ Kế hoạch và Đầu tư tiếp nhận giải quyết hồ sơ đề nghị giải quyết thủ tục hành chính (tên thủ tục hành chính) của Ông/Bà/Tổ chức); mã số: ................................................ Thời gian hẹn trả kết quả giải quyết hồ sơ: ....giờ...., ngày....tháng....năm.... Tuy nhiên đến nay,..., Bộ phận Một cửa thuộc Văn phòng Bộ Kế hoạch và Đầu tư chưa trả kết quả giải quyết hồ sơ của Ông/Bà/Tổ chức đúng thời hạn quy định ghi trên Giấy tiếp nhận hồ sơ và trả kết quả/Biên nhận hồ sơ. Lý do: ................................................................................................................................... Bộ phận Một cửa thuộc Văn phòng Bộ Kế hoạch và Đầu tư xin lỗi Ông/Bà/Tổ chức và sẽ trả kết quả giải quyết hồ sơ cho Ông/Bà/Tổ chức vào ngày ... tháng ... năm ...... Mong nhận được sự thông cảm của Ông/Bà/Tổ chức vì sự chậm trễ này./.\nNGƯỜI ĐỨNG ĐẦU BỘ PHẬN MỘT CỬA\n(Ký và ghi rõ họ tên) (Chữ ký số của Thủ trưởng cơ quan, đơn vị nếu là biểu mẫu điện tử) Chữ ký số (nếu là\nbiểu mẫu điện tử)\nMẫu số 05\nVĂN PHÒNG BỘ KẾ HOẠCH VÀ ĐẦU TƯ\nBỘ PHẬN TIẾP NHẬN VÀ TRẢ KẾT QUẢ\n-------\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc --------------- Số: ......./PKS Hà Nội, ngày.... tháng... năm......\nPHIẾU KIỂM SOÁT QUÁ TRÌNH GIẢI QUYẾT HỒ SƠ\nMã số hồ sơ:...................... Cơ quan (bộ phận) giải quyết hồ sơ: .................................................................................... Cơ quan phối hợp giải quyết hồ sơ: .....................................................................................\nTÊN CƠ QUAN THỜI GIAN GIAO,\nNHẬN HỒ SƠ KẾT QUẢ GIẢI\nQUYẾT HỒ SƠ (Trước hạn/đúng hạn/quá hạn)\nGHI CHÚ\n1. Giao:\nBộ phận Một cửa\n2. Nhận: .....\n...giờ...phút, ngày... tháng... năm.... Người giao Người nhận\n1. Giao: .........\n2. Nhận: .........\n...giờ...phút, ngày... tháng... năm.... Người giao Người nhận\n1. Giao: .........\n2. Nhận: .........\n...giờ...phút, ngày... tháng... năm.... Người giao Người nhận ......... .........\n1. Giao: ............\n2. Nhận:\nBộ phận Một cửa ...giờ...phút, ngày... tháng... năm.... Người giao Người nhận Ghi chú: - Trường hợp hồ sơ được chuyển qua dịch vụ bưu chính công ích theo Quyết định số 45/2016/QĐ-TTg thì thời gian giao, nhận hồ sơ và việc ký nhận thể hiện trong hóa đơn của cơ quan Bưu chính. - Kết quả giải quyết hồ sơ do bên nhận nhập thông tin/ ghi khi nhận bàn giao hồ sơ. - Trường hợp Hệ thống thông tin một cửa điện tử chưa vận hành, người giao và người nhận phải ký và ghi rõ họ tên. Khi Hệ thống thông tin một cửa điện tử đã vận hành, việc lưu vết được thực hiện tự động và thể hiện trên mẫu phiếu điện tử. Chữ ký số (nếu là\nbiểu mẫu điện tử)\nMẫu số 06\nVĂN PHÒNG BỘ KẾ HOẠCH VÀ ĐẦU TƯ\nBỘ PHẬN TIẾP NHẬN VÀ TRẢ KẾT QUẢ\n-------\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc --------------- Số: ......./STDHS Hà Nội, ngày.... tháng... năm......\nSỔ THEO DÕI HỒ SƠ\nStt Mã hồ sơ Tên TTHC Tên cá nhân, tổ chức Địa chỉ, số điện thoại Đơn vị chủ trì giải quyết Thời gian tiếp nhận hồ sơ và trả kết quả Ngày nhận hồ sơ Hẹn trả kết quả Trả Kết quả Phương thức nhận kết quả Tên người nhận Ký nhận (1) (2) (3) (4) (5) (6) (7) (8) (10) (11) (12) (13) 1 2 3 ... Ghi chú: Sổ theo dõi hồ sơ được lập theo từng lĩnh vực hoặc nhóm lĩnh vực tại Bộ phận Một cửa.",
+            "indexable": true
+          }
+        ]
+      }
+    ]
+  },
+  "issues": [],
+  "status": "ok",
+  "source_hash": "context_83232.json",
+  "stats": {
+    "source_chars": 51982,
+    "passage_chars": 51822,
+    "parts": 3,
+    "chapters": 4,
+    "sections": 0,
+    "articles": 23,
+    "clauses": 64,
+    "points": 45
+  }
+}

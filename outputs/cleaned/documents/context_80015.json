@@ -1,0 +1,795 @@
+{
+  "schema_version": "2.0",
+  "document_id": 80015,
+  "metadata": {
+    "name": "Thong-tu-05-2016-TT-BCT-cung-cap-dich-vu-cong-truc-tuyen-308545",
+    "link": "https://thuvienphapluat.vn/van-ban/Cong-nghe-thong-tin/Thong-tu-05-2016-TT-BCT-cung-cap-dich-vu-cong-truc-tuyen-308545.aspx",
+    "issuing_agency": "BỘ CÔNG THƯƠNG",
+    "national_header": "CỘNG HÒA XÃ HỘI\r\n\n  CHỦ NGHĨA VIỆT NAM",
+    "motto": "Độc lập - Tự do - Hạnh phúc",
+    "document_number": "05/2016/TT-BCT",
+    "issued_place": "Hà Nội",
+    "issued_date": "ngày 06\r\n\n  tháng 6 năm 2016",
+    "document_type": "THÔNG TƯ",
+    "title": "QUY ĐỊNH VỀ VIỆC CUNG CẤP DỊCH VỤ CÔNG TRỰC TUYẾN CỦA BỘ CÔNG THƯƠNG"
+  },
+  "administrative_header": {
+    "removed": true,
+    "removed_char_count": 153
+  },
+  "preamble": {
+    "text": "THÔNG TƯ QUY\nĐỊNH VỀ VIỆC CUNG CẤP DỊCH VỤ CÔNG TRỰC TUYẾN CỦA BỘ CÔNG THƯƠNG\nCăn cứ Nghị định số 95/2012/NĐ-CP ngày 12 tháng 11 năm 2012 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Công Thương; Căn cứ Nghị định số 43/2011/NĐ-CP ngày 13 tháng 6 năm 2011 của Chính phủ quy định về việc cung cấp thông tin và dịch vụ công trực tuyến trên trang thông tin điện tử hoặc cổng thông tin điện tử của cơ quan nhà nước; Căn cứ Nghị định số 26/2007/NĐ-CP ngày 15 tháng 02 năm 2007 của Chính phủ quy định chi tiết thi hành Luật Giao dịch điện tử về chữ ký số và dịch vụ chứng thực chữ ký số; Nghị định số 106/2011/NĐ-CP ngày 23 tháng 11 năm 2011 của Chính phủ ngày 23 tháng 11 năm 2011 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 26/2007/NĐ-CP ngày 15 tháng 02 năm 2007; Nghị định số 170/2013/NĐ-CP ngày 13 tháng 11 năm 2013 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 26/2007/NĐ-CP ngày 15 tháng 02 năm 2007 và Nghị định số 106/2011/NĐ-CP ngày 23 tháng 11 năm 2011 của Chính phủ; Thực hiện Nghị quyết số 36a/NQ-CP ngày 14 tháng 10 năm 2015 của Chính phủ về Chính phủ điện tử; Theo đề nghị của Vụ trưởng Vụ Pháp chế và Cục trưởng Cục Thương mại điện tử và Công nghệ thông tin, Bộ trưởng Bộ Công Thương ban hành Thông tư quy định về việc cung cấp dịch vụ công trực tuyến của Bộ Công Thương.\nChương I\nQUY ĐỊNH CHUNG",
+    "legal_bases": [
+      "Căn cứ Nghị định số 43/2011/NĐ-CP ngày 13 tháng 6 năm 2011 của Chính phủ quy định về việc cung cấp thông tin và dịch vụ công trực tuyến trên trang thông tin điện tử hoặc cổng thông tin điện tử của cơ quan nhà nước",
+      "Căn cứ Nghị định số 26/2007/NĐ-CP ngày 15 tháng 02 năm 2007 của Chính phủ quy định chi tiết thi hành Luật Giao dịch điện tử về chữ ký số và dịch vụ chứng thực chữ ký số"
+    ],
+    "proposals": [
+      "Theo đề nghị của Vụ trưởng Vụ Pháp chế và Cục trưởng Cục Thương mại điện tử và Công nghệ thông tin, Bộ trưởng Bộ Công Thương ban hành Thông tư quy định về việc cung cấp dịch vụ công trực tuyến của Bộ Công Thương.\nChương I\nQUY ĐỊNH CHUNG"
+    ],
+    "enactment_formula": null
+  },
+  "passage": "THÔNG TƯ QUY\nĐỊNH VỀ VIỆC CUNG CẤP DỊCH VỤ CÔNG TRỰC TUYẾN CỦA BỘ CÔNG THƯƠNG\nCăn cứ Nghị định số 95/2012/NĐ-CP ngày 12 tháng 11 năm 2012 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Công Thương; Căn cứ Nghị định số 43/2011/NĐ-CP ngày 13 tháng 6 năm 2011 của Chính phủ quy định về việc cung cấp thông tin và dịch vụ công trực tuyến trên trang thông tin điện tử hoặc cổng thông tin điện tử của cơ quan nhà nước; Căn cứ Nghị định số 26/2007/NĐ-CP ngày 15 tháng 02 năm 2007 của Chính phủ quy định chi tiết thi hành Luật Giao dịch điện tử về chữ ký số và dịch vụ chứng thực chữ ký số; Nghị định số 106/2011/NĐ-CP ngày 23 tháng 11 năm 2011 của Chính phủ ngày 23 tháng 11 năm 2011 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 26/2007/NĐ-CP ngày 15 tháng 02 năm 2007; Nghị định số 170/2013/NĐ-CP ngày 13 tháng 11 năm 2013 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 26/2007/NĐ-CP ngày 15 tháng 02 năm 2007 và Nghị định số 106/2011/NĐ-CP ngày 23 tháng 11 năm 2011 của Chính phủ; Thực hiện Nghị quyết số 36a/NQ-CP ngày 14 tháng 10 năm 2015 của Chính phủ về Chính phủ điện tử; Theo đề nghị của Vụ trưởng Vụ Pháp chế và Cục trưởng Cục Thương mại điện tử và Công nghệ thông tin, Bộ trưởng Bộ Công Thương ban hành Thông tư quy định về việc cung cấp dịch vụ công trực tuyến của Bộ Công Thương.\nChương I\nQUY ĐỊNH CHUNG\nĐiều 1. Phạm vi điều chỉnh Thông tư này quy định về việc cung cấp dịch vụ công trực tuyến của Bộ Công Thương, bao gồm việc xây dựng, thực hiện, tiếp nhận, xử lý phản ánh kiến nghị về dịch vụ công trực tuyến đối với các thủ tục hành chính ngành công thương thực hiện ở cấp trung ương.\nĐiều 2. Đối tượng áp dụng\n1. Các đơn vị thuộc Bộ trong việc cung cấp dịch vụ\ncông trực tuyến.\n2. Tổ chức, cá nhân khi tiến hành thực hiện thủ tục\nhành chính trực tuyến của Bộ Công Thương.\nĐiều 3. Nguyên tắc cung cấp dịch vụ công trực tuyến của Bộ Công Thương\n1. Bộ Công Thương thực hiện cung cấp dịch vụ công\ntrực tuyến mức độ 3 đối với 100% thủ tục hành chính thực hiện ở cấp trung ương.\n2. Bộ Công Thương bảo đảm nâng cấp dịch vụ công\ntrực tuyến từ mức độ 3 lên mức độ 4 đối với một số thủ tục hành chính thực hiện ở cấp trung ương tùy thuộc vào tính khả thi và hạ tầng công nghệ thông tin.\n3. Quy trình thực hiện thủ tục hành chính trên hệ\nthống dịch vụ công trực tuyến căn cứ theo các văn bản quy phạm pháp luật chuyên ngành có quy định thủ tục hành chính đó.\n4. Tổ chức, cá nhân thực hiện dịch vụ công trực\ntuyến phải tuân thủ các điều kiện quy định tại các văn bản quy phạm pháp luật có quy định thủ tục hành chính liên quan.\nĐiều 4. Giải thích từ ngữ Trong Thông tư này, các từ ngữ dưới đây được hiểu như sau:\n1. Dịch vụ hành chính công là những dịch vụ liên\nquan đến hoạt động thực thi pháp luật, không nhằm mục tiêu lợi nhuận, do cơ quan nhà nước có thẩm quyền cấp cho tổ chức, cá nhân dưới hình thức các loại giấy tờ có giá trị pháp lý trong các lĩnh vực mà cơ quan nhà nước đó quản lý. Mỗi dịch vụ hành chính công gắn liền với một thủ tục hành chính để giải quyết hoàn chỉnh một công việc cụ thể liên quan đến tổ chức, cá nhân.\n2. Dịch vụ công trực tuyến là dịch vụ hành chính\ncông và các dịch vụ khác của cơ quan nhà nước được cung cấp cho các tổ chức, cá nhân trên môi trường mạng.\na) Dịch vụ công trực tuyến mức độ 1: là dịch vụ bảo\nđảm cung cấp đầy đủ các thông tin về thủ tục hành chính và các văn bản có liên quan quy định về thủ tục hành chính đó.\nb) Dịch vụ công trực tuyến mức độ 2: là dịch vụ\ncông trực tuyến mức độ 1 và cho phép người sử dụng tải về các mẫu văn bản và khai báo để hoàn thiện hồ sơ theo yêu cầu. Hồ sơ sau khi hoàn thiện được gửi trực tiếp hoặc qua đường bưu điện đến cơ quan, tổ chức cung cấp dịch vụ.\nc) Dịch vụ công trực tuyến mức độ 3: là dịch vụ\ncông trực tuyến mức độ 2 và cho phép người sử dụng điền và gửi trực tuyến các mẫu văn bản đến cơ quan, tổ chức cung cấp dịch vụ. Các giao dịch trong quá trình xử lý hồ sơ và cung cấp dịch vụ được thực hiện trên môi trường mạng. Việc thanh toán phí, lệ phí (nếu có) và nhận kết quả được thực hiện trực tiếp tại cơ quan, tổ chức cung cấp dịch vụ.\nd) Dịch vụ công trực tuyến mức độ 4: là dịch vụ\ncông trực tuyến mức độ 3 và cho phép người sử dụng thanh toán phí, lệ phí (nếu có) được thực hiện trực tuyến. Việc trả kết quả có thể được thực hiện trực tuyến, gửi trực tiếp hoặc qua đường bưu điện đến người sử dụng.\nChương II\nXÂY DỰNG DỊCH VỤ CÔNG TRỰC TUYẾN\nĐiều 5. Tên miền truy cập cổng thông tin điện tử cung cấp dịch vụ công trực tuyến của Bộ Công Thương Bộ Công Thương cung cấp dịch vụ công trực tuyến đối với các thủ tục hành chính thuộc thẩm quyền giải quyết của Bộ trên Cổng Thông tin điện tử Bộ Công Thương tại địa chỉ http://www.moit.gov.vn.\nĐiều 6. Xây dựng, cung cấp dịch vụ công trực tuyến\n1. Cục Thương mại điện tử và Công nghệ thông tin có\ntrách nhiệm tham gia vào quá trình soạn thảo các văn bản quy phạm pháp luật có quy định thủ tục hành chính ngành công thương thực hiện ở cấp trung ương.\n2. Ngay khi văn bản có quy định thủ tục hành chính\nngành công thương thực hiện ở cấp trung ương được ký ban hành, các đơn vị thuộc Bộ cung cấp nội dung thủ tục hành chính thực hiện dịch vụ công trực tuyến, bao gồm: tên thủ tục, trình tự thực hiện, hồ sơ, thời hạn giải quyết, đối tượng thực hiện cho Cục Thương mại điện tử và Công nghệ thông tin.\n3. Trong thời hạn 30 (ba mươi) ngày làm việc kể từ\nngày văn bản có quy định thủ tục hành chính ngành công thương thực hiện ở cấp trung ương được ký ban hành, Cục Thương mại điện tử và Công nghệ thông tin xây dựng hạ tầng thực hiện dịch vụ công trực tuyến, bao gồm: quy trình điện tử, các nội dung đặc tả, giao diện, cấu trúc trên cơ sở nội dung thủ tục hành chính thực hiện dịch vụ công trực tuyến được cung cấp và gửi lấy ý kiến các đơn vị liên quan.\n4. Trong thời hạn 05 (năm) ngày làm việc kể từ ngày\nnhận được đề nghị của Cục Thương mại điện tử và Công nghệ thông tin, các đơn vị thuộc Bộ có trách nhiệm xác nhận tính chính xác của quy trình điện tử và nội dung đặc tả, giao diện, cấu trúc để triển khai trực tuyến.\n5. Trong thời hạn 05 (năm) ngày kể từ ngày có xác\nnhận của các đơn vị thuộc Bộ, Cục Thương mại điện tử và Công nghệ thông tin phối hợp với các đơn vị liên quan tiến hành chạy thử và thống nhất về việc đưa hạ tầng dịch vụ công trực tuyến vào sử dụng.\n6. Trong thời hạn 05 (năm) ngày làm việc kể từ ngày\nthống nhất đưa hạ tầng dịch vụ công trực tuyến vào sử dụng, Cục Thương mại điện tử và Công nghệ thông tin báo cáo Lãnh đạo Bộ chính thức phê duyệt việc cung cấp dịch vụ công trực tuyến đó.\n7. Cục Thương mại điện tử và Công nghệ thông tin\nchính thức cung cấp dịch vụ công trực tuyến ngay khi văn bản có chứa thủ tục hành chính thực hiện ở cấp trung ương có hiệu lực. Trường hợp xây dựng hạ tầng dịch vụ công trực tuyến phức tạp, chậm nhất 15 (mười lăm) ngày kể từ ngày văn bản có chứa thủ tục hành chính ngành công thương thực hiện ở cấp trung ương có hiệu lực, Cục Thương mại điện tử và Công nghệ thông tin báo cáo Lãnh đạo Bộ chính thức phê duyệt việc cung cấp dịch vụ công trực tuyến đó.\n8. Các đơn vị thuộc Bộ được giao chủ trì thực hiện\nthủ tục hành chính liên quan đến dịch vụ công trực tuyến có trách nhiệm phối hợp với Cục Thương mại điện tử và Công nghệ thông tin đảm bảo tiến độ xây dựng và cung cấp dịch vụ công trực tuyến theo quy định từ Khoản 1 đến Khoản 7 Điều này.\nĐiều 7. Nâng cấp dịch vụ công trực tuyến\n1. Trước ngày 31 tháng 12 hàng năm, Cục Thương mại điện\ntử và Công nghệ thông tin có trách nhiệm phối hợp với các đơn vị liên quan xây dựng và trình Bộ trưởng Bộ Công Thương ban hành Kế hoạch nâng cấp dịch vụ công trực tuyến của Bộ Công Thương từ mức độ 3 lên mức độ 4 (sau đây gọi tắt là Kế hoạch) thực hiện trong năm sau.\n2. Kế hoạch bao gồm các nội dung chủ yếu sau:\na) Tên thủ tục hành chính đề xuất nâng cấp dịch vụ\ncông trực tuyến từ mức độ 3 lên mức độ 4;\nb) Tên văn bản quy phạm pháp luật có quy định thủ\ntục hành chính đề xuất nâng cấp dịch vụ công trực tuyến;\nc) Thời gian nâng cấp đối với mỗi dịch vụ công trực\ntuyến;\nd) Đơn vị chủ trì thực hiện dịch vụ công trực tuyến;\nđ) Các nội dung cần thiết khác.\nChương III\nCUNG CẤP, THỰC HIỆN DỊCH VỤ CÔNG TRỰC TUYẾN\nĐiều 8. Trình tự thực hiện dịch vụ công trực tuyến Dịch vụ công trực tuyến của Bộ Công Thương được thực hiện theo trình tự như sau:\n1. Cấp tài khoản thực hiện dịch vụ công trực tuyến.\n2. Khai báo hồ sơ thực hiện thủ tục hành chính trên\nhệ thống dịch vụ công trực tuyến.\n3. Xử lý hồ sơ thực hiện thủ tục hành chính.\n4. Trả kết quả.\nĐiều 9. Cấp tài khoản thực hiện dịch vụ công trực tuyến\n1. Tổ chức, cá nhân có nhu cầu thực hiện dịch vụ\ncông trực tuyến tại Bộ Công Thương có quyền đề nghị cấp tài khoản thực hiện dịch vụ công trực tuyến trên Cổng Thông tin điện tử Bộ Công Thương tại địa chỉ http://www.moit.gov.vn.\n2. Thông tin cơ bản để tổ chức, cá nhân đề nghị cấp\ntài khoản bao gồm; tên doanh nghiệp, mã số thuế, thư điện tử, bản chụp giấy chứng nhận đầu tư hoặc giấy chứng nhận đăng ký kinh doanh hoặc giấy chứng nhận đăng ký doanh nghiệp có chữ ký điện tử của tổ chức, cá nhân đó và các thông tin chứng minh đáp ứng đủ điều kiện thực hiện thủ tục hành chính có liên quan.\n3. Trong thời hạn 01 (một) ngày làm việc kể từ ngày\ncung cấp đầy đủ thông tin theo quy định tại Khoản 2 Điều này, Cục Thương mại điện tử và Công nghệ thông tin phối hợp với đơn vị liên quan có trách nhiệm phê duyệt và cấp cấp tài khoản thực hiện dịch vụ công trực tuyến cho tổ chức, cá nhân.\n4. Tổ chức, cá nhân đề nghị cấp tài khoản sử dụng\ndịch vụ công trực tuyến hoàn toàn chịu trách nhiệm về tính chính xác đối với những thông tin cung cấp khi tiến hành đề nghị cấp tài khoản.\nĐiều 10. Sửa đổi, bổ sung thông tin tài khoản\n1. Tổ chức, cá nhân phải sửa đổi, bổ sung thông tin\ntài khoản truy cập hệ thống dịch vụ công trực tuyến đã được cấp trong trường hợp:\na) Có sự thay đổi một trong các thông tin tài khoản\nliên quan đến tổ chức, cá nhân đó.\nb) Có yêu cầu sửa đổi, bổ sung thông tin tài khoản\ntừ hệ thống dịch vụ công trực tuyến khi thực hiện thủ tục hành chính liên quan đến tài khoản đã được cấp.\n2. Việc sửa đổi, bổ sung được thực hiện trực tuyến\nqua hệ thống dịch vụ công trực tuyến theo quy định tại Khoản 2 Điều 9.\n3. Trong thời hạn 01 (một) ngày làm việc kể từ ngày\nthực hiện sửa đổi, bổ sung, Cục Thương mại điện tử và Công nghệ thông tin phối hợp với đơn vị liên quan tiến hành xem xét và xác nhận về thông tin sửa đổi, bổ sung và phản hồi lại cho tổ chức, cá nhân qua tài khoản truy cập hệ thống dịch vụ công trực tuyến đã được cấp. Trường hợp không xác nhận phải nêu rõ lý do.\nĐiều 11. Tạm dừng, hủy tài khoản và kích hoạt lại tài khoản đã được cấp\n1. Tổ chức, cá nhân đã được cấp tài khoản truy cập\nhệ thống dịch vụ công trực tuyến có quyền đề nghị tạm dừng, đề nghị hủy tài khoản thông qua hệ thống dịch vụ công trực tuyến.\n2. Trường hợp tổ chức, cá nhân đăng nhập vào hệ thống\ndịch vụ công trực tuyến quá 10 (mười) lần mà không thành công thì hệ thống dịch vụ công trực tuyến sẽ tự động tạm dừng tài khoản của tổ chức, cá nhân đó.\n3. Trường hợp phát hiện tổ chức, cá nhân trong quá\ntrình thực hiện dịch vụ công trực tuyến có hành vi gây ảnh hưởng tới sự ổn định của hệ thống dịch vụ công trực tuyến, đơn vị chủ trì vận hành dịch vụ công trực tuyến có quyền tạm dừng tài khoản của tổ chức, cá nhân và nêu rõ lý do.\n4. Tổ chức, cá nhân bị tạm dừng tài khoản truy cập\nvào hệ thống dịch vụ công trực tuyến và làm theo các yêu cầu được nêu trên hệ thống dịch vụ công trực tuyến để kích hoạt lại tài khoản. Trong thời hạn 01 (một) ngày làm việc kể từ ngày cung cấp đầy đủ thông tin theo các yêu cầu được nêu trên hệ thống dịch vụ công trực tuyến, Cục Thương mại điện tử và Công nghệ thông tin có trách nhiệm kích hoạt lại tài khoản và thông báo cho tổ chức, cá nhân qua địa chỉ thư điện tử đã đăng ký.\nĐiều 12. Khai báo hồ sơ thực hiện thủ tục hành chính trên hệ thống dịch vụ công trực tuyến\n1. Sau khi được cấp tài khoản đăng nhập hệ thống\ndịch vụ công trực tuyến tổ chức, cá nhân tiến hành đăng nhập và khai báo hồ sơ thực hiện thủ tục hành chính có chữ ký điện tử của tổ chức, cá nhân đó theo định dạng và mẫu được cung cấp trên hệ thống dịch vụ công trực tuyến.\n2. Đối với dịch vụ công trực tuyến mức độ 4, tổ\nchức, cá nhân thực hiện việc thanh toán phí, lệ phí (nếu có) theo hướng dẫn trên hệ thống dịch vụ công trực tuyến và được cung cấp giấy tờ chứng minh đã nộp phí, lệ phí theo quy định pháp luật.\n3. Tổ chức, cá nhân sử dụng dịch vụ công trực tuyến\ncủa Bộ Công Thương có trách nhiệm xuất trình hồ sơ thực hiện thủ tục hành chính (bản gốc), cung cấp thông tin, chứng từ liên quan khi Bộ Công Thương có yêu cầu kiểm tra.\nĐiều 13. Xử lý hồ sơ thực hiện thủ tục hành chính\n1. Sau khi nhận được khai báo hồ sơ thực hiện thủ\ntục hành chính và theo thời gian tương ứng quy định tại văn bản có quy định thủ tục hành chính liên quan, các đơn vị xử lý hồ sơ thực hiện thủ tục hành chính có thông tin phản hồi cho tổ chức, cá nhân qua địa chỉ thư điện tử đã đăng ký hoặc qua tài khoản truy cập hệ thống dịch vụ công trực tuyến đã được cấp về tính đầy đủ và hợp lệ của hồ sơ. Trường hợp hồ sơ chưa đầy đủ, hợp lệ, tổ chức, cá nhân có trách nhiệm bổ sung đầy đủ các thông tin theo yêu cầu.\n2. Sau khi nhận được hồ sơ đầy đủ, hợp lệ, các đơn\nvị xử lý hồ sơ thực hiện thủ tục hành chính tiến hành xử lý hồ sơ theo thời gian tương ứng quy định tại các văn bản có quy định thủ tục hành chính liên quan và thông báo kết quả phê duyệt hoặc không phê duyệt hồ sơ thực hiện thủ tục hành chính của tổ chức, cá nhân qua địa chỉ thư điện tử đã đăng ký hoặc qua tài khoản truy cập hệ thống dịch vụ công trực tuyến đã được cấp. Trường hợp hồ sơ không được phê duyệt phải nêu rõ lý do.\nĐiều 14. Trả kết quả\n1. Bộ Công Thương có trách nhiệm trả kết quả cho tổ\nchức, cá nhân bằng phương thức trực tuyến, trực tiếp hoặc qua đường bưu điện.\n2. Trường hợp tổ chức, cá nhân thực hiện dịch vụ\ncông trực tuyến theo Cơ chế hải quan một cửa quốc gia, Bộ Công Thương có trách nhiệm trả kết quả theo quy định tại Thông tư liên tịch số 84/2013/TTLT-BTC-BCT-BGTVT ngày 25 tháng 6 năm 2013 của Bộ Tài chính, Bộ Công Thương và Bộ Giao thông vận tải hướng dẫn thực hiện Quyết định số 48/2011/QĐ-TTg ngày 31 tháng 8 năm 2011 của Thủ tướng Chính phủ về việc thí điểm thực hiện Cơ chế hải quan một cửa quốc gia.\nĐiều 15. Bảo mật thông tin\n1. Bộ Công Thương có trách nhiệm bảo mật và lưu giữ\nthông tin của tổ chức, cá nhân trừ trường hợp phải cung cấp các thông tin này cho các cơ quan có thẩm quyền theo quy định của pháp luật\n2. Tổ chức, cá nhân có trách nhiệm bảo mật tài\nkhoản và mật khẩu đăng nhập của mình và chịu mọi thiệt hại phát sinh do tài khoản, mật khẩu đăng nhập bị tiết lộ dưới bất kỳ hình thức nào.\nĐiều 16. Quản lý việc cung cấp dịch vụ công trực tuyến\n1. Trách nhiệm của Cục Thương mại điện tử và Công\nnghệ thông tin\na) Quản lý hệ thống dịch vụ công trực tuyến của Bộ\nCông Thương.\nb) Tiến hành xây dựng, duy trì và cung cấp dịch vụ\ncông trực tuyến của Bộ Công Thương ngay khi văn bản quy định về thủ tục hành chính có hiệu lực.\nc) Đảm bảo hạ tầng công nghệ thông tin để đáp ứng\ntính sẵn sàng, thông suốt, không bị gián đoạn của việc cung cấp các dịch vụ công trực tuyến của Bộ Công Thương.\nd) Kịp thời khắc phục các sự cố liên quan đến dịch\nvụ công trực tuyến của Bộ Công Thương ngay khi nhận được phản ánh từ các đơn vị, cá nhân trong và ngoài Bộ.\nđ) Quản lý, bảo quản hồ sơ, dữ liệu điện tử thực\nhiện dịch vụ công trực tuyến của tổ chức, cá nhân theo quy định của pháp luật.\ne) Phối hợp với đơn vị liên quan quản lý tài khoản\nsử dụng dịch vụ công trực tuyến của tổ chức, cá nhân, bao gồm: cấp tài khoản, từ chối cấp tài khoản hoặc yêu cầu bổ sung thông tin tài khoản theo đúng thời gian quy định.\ng) Xây dựng quy chế hoạt động của hệ thống dịch vụ công\ntrực tuyến của Bộ Công Thương.\n2. Trách nhiệm của các đơn vị thuộc Bộ cung cấp\ndịch vụ công trực tuyến\na) Xử lý hồ sơ thực hiện thủ tục hành chính của tổ\nchức, cá nhân đối với dịch vụ công trực tuyến do đơn vị mình quản lý, bao gồm: phê duyệt hồ sơ, từ chối phê duyệt hồ sơ hoặc yêu cầu bổ sung thông tin hồ sơ theo đúng thời gian quy định.\nb) Phối hợp với Cục Thương mại điện tử và Công nghệ\nthông tin quản lý tài khoản sử dụng dịch vụ công trực tuyến của tổ chức, cá nhân, bao gồm: cấp tài khoản, từ chối cấp tài khoản hoặc yêu cầu bổ sung thông tin tài khoản theo đúng thời gian quy định.\nc) Kịp thời thông báo cho Cục Thương mại điện tử và\nCông nghệ thông tin các sự cố, trục trặc kỹ thuật xảy ra đối với dịch vụ công trực tuyến do đơn vị mình sử dụng để Cục Thương mại điện tử và Công nghệ thông tin có biện pháp khắc phục.\n3. Trách nhiệm quản lý các tài khoản thu phí, lệ phí\na) Văn phòng Bộ Công Thương chịu trách nhiệm quản\nlý các tài khoản thu phí, lệ phí theo quy định của pháp luật đối với các dịch vụ công trực tuyến do các đơn vị cấp Vụ cung cấp.\nb) Các đơn vị cấp Cục, Tổng cục chịu trách nhiệm\nquản lý các tài khoản thu phí, lệ phí theo quy định của pháp luật đối với các dịch vụ công trực tuyến do đơn vị mình cung cấp.\nChương IV\nTIẾP NHẬN, XỬ LÝ PHẢN\nÁNH KIẾN NGHỊ VỀ DỊCH VỤ CÔNG TRỰC TUYẾN\nĐiều 17. Nơi tiếp nhận phản ánh, kiến nghị\n1. Cục Thương mại điện tử và Công nghệ thông tin là\nđầu mối tiếp nhận phản ánh, kiến nghị của tổ chức, cá nhân liên quan đến việc thực hiện dịch vụ công trực tuyến của Bộ Công Thương.\n2. Tổ chức, cá nhân có quyền gửi phản ánh, kiến\nnghị liên quan đến việc thực hiện dịch vụ công trực tuyến của Bộ Công Thương thông qua các hình thức sau:\na) Thông qua hộp thư điện tử;\nb) Thông qua hệ thống hỗ trợ trực tuyến tiếp nhận,\nxử lý phản ánh kiến nghị và sẽ được in thành dạng văn bản.\n3. Địa chỉ tiếp nhận phản ánh, kiến nghị:\nCục Thương mại điện tử và Công nghệ thông tin - Bộ Công Thương, số 25 Ngô Quyền, Hoàn Kiếm, Hà Nội. Email: dvctt@moit.gov.vn Website: www.moit.gov.vn\nĐiều 18. Xử lý phản ánh, kiến nghị Đối với phản ánh, kiến nghị về thực hiện dịch vụ công trực tuyến, trong thời hạn 03 (ba) ngày làm việc kể từ ngày tiếp nhận phản ánh kiến nghị, Cục Thương mại điện tử và Công nghệ thông tin phối hợp với Vụ Pháp chế và các đơn vị liên quan có trách nhiệm thông tin phản hồi cho tổ chức, cá nhân.\nChương V\nTỔ CHỨC THỰC HIỆN\nĐiều 19. Chế độ báo cáo Theo định kỳ 06 (sáu) tháng, Cục Thương mại điện tử và Công nghệ thông tin có trách nhiệm báo cáo Lãnh đạo Bộ về:\na) Tình hình thực hiện dịch vụ công trực tuyến của\nBộ Công Thương.\nb) Tình hình thực hiện kế hoạch nâng cấp dịch vụ công\ntrực tuyến của Bộ Công Thương theo quy định tại Điều 7 Thông tư này.\nĐiều 20. Kinh phí bảo đảm cho hoạt động cung cấp dịch vụ công trực tuyến\n1. Vụ Tài chính có trách nhiệm thực hiện phân bổ kinh\nphí từ ngân sách Nhà nước cho công tác xây dựng, duy trì, vận hành, nâng cấp dịch vụ công trực tuyến hàng năm của Bộ theo quy định hiện hành.\n2. Kinh phí này chưa bao gồm kinh phí thực hiện các\nĐề án theo quy định của Chính phủ, Thủ tướng Chính phủ.\n3. Cục Thương mại điện tử và Công nghệ thông tin có\ntrách nhiệm lập dự toán chi tiết gửi Vụ Tài chính và sử dụng kinh phí theo chế độ tài chính, bảo đảm đủ chứng từ hợp pháp, hợp lệ theo quy định hiện hành.\nĐiều 21. Trách nhiệm thi hành\n1. Lãnh đạo Bộ, Thủ trưởng đơn vị thuộc Bộ và các tổ\nchức, cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này.\n2. Cục Thương mại điện tử và Công nghệ thông tin\nchủ trì, phối hợp với Vụ Pháp chế có trách nhiệm hướng dẫn, theo dõi, đôn đốc, kiểm tra việc thực hiện Thông tư này và kịp thời báo cáo Lãnh đạo Bộ khi gặp khó khăn trong quá trình triển khai thực hiện Thông tư này.\nĐiều 22. Điều khoản chuyển tiếp\n1. Cục Thương mại điện tử và Công nghệ thông tin\nchủ trì, trình Bộ trưởng phê duyệt kế hoạch hoàn thành việc cung cấp dịch vụ công trực tuyến mức độ 3 đối với 100% thủ tục hành chính thực hiện ở cấp trung ương trong năm 2016.\n2. Trường hợp có khó khăn, vướng mắc trong quá\ntrình triển khai thực hiện kế hoạch, Cục Thương mại điện tử và Công nghệ thông tin tổng hợp, báo cáo Bộ trưởng xem xét quyết định.\nĐiều 23. Hiệu lực thi hành Thông tư này có hiệu lực thi hành từ ngày 20 tháng 7 năm 2016.\nNơi nhận:\n- Văn phòng Tổng Bí thư;\n- Lãnh đạo Bộ Công Thương;\n- Các đơn vị thuộc Bộ Công Thương;\n- Cục Kiểm tra văn bản QPPL - Bộ Tư pháp;\n- Cục Kiểm soát TTHC - Bộ Tư pháp;\n- Các Sở Công Thương;\n- Thông tấn xã Việt Nam;\n- Liên đoàn Luật sư Việt Nam;\n- Hội Luật gia Việt Nam;\n- Phòng Thương mại và Công nghiệp Việt Nam;\n- Công báo;\n- Website Chính phủ;\n- Website Bộ Công Thương;\n- Lưu: VT, PC.\nBỘ TRƯỞNG\nTrần Tuấn Anh",
+  "tree": {
+    "parts": [
+      {
+        "part_id": "doc:80015:part:1",
+        "part_type": "main",
+        "part_title": null,
+        "reference": null,
+        "direct_text": "THÔNG TƯ QUY\nĐỊNH VỀ VIỆC CUNG CẤP DỊCH VỤ CÔNG TRỰC TUYẾN CỦA BỘ CÔNG THƯƠNG\nCăn cứ Nghị định số 95/2012/NĐ-CP ngày 12 tháng 11 năm 2012 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Công Thương; Căn cứ Nghị định số 43/2011/NĐ-CP ngày 13 tháng 6 năm 2011 của Chính phủ quy định về việc cung cấp thông tin và dịch vụ công trực tuyến trên trang thông tin điện tử hoặc cổng thông tin điện tử của cơ quan nhà nước; Căn cứ Nghị định số 26/2007/NĐ-CP ngày 15 tháng 02 năm 2007 của Chính phủ quy định chi tiết thi hành Luật Giao dịch điện tử về chữ ký số và dịch vụ chứng thực chữ ký số; Nghị định số 106/2011/NĐ-CP ngày 23 tháng 11 năm 2011 của Chính phủ ngày 23 tháng 11 năm 2011 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 26/2007/NĐ-CP ngày 15 tháng 02 năm 2007; Nghị định số 170/2013/NĐ-CP ngày 13 tháng 11 năm 2013 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 26/2007/NĐ-CP ngày 15 tháng 02 năm 2007 và Nghị định số 106/2011/NĐ-CP ngày 23 tháng 11 năm 2011 của Chính phủ; Thực hiện Nghị quyết số 36a/NQ-CP ngày 14 tháng 10 năm 2015 của Chính phủ về Chính phủ điện tử; Theo đề nghị của Vụ trưởng Vụ Pháp chế và Cục trưởng Cục Thương mại điện tử và Công nghệ thông tin, Bộ trưởng Bộ Công Thương ban hành Thông tư quy định về việc cung cấp dịch vụ công trực tuyến của Bộ Công Thương.",
+        "chapters": [
+          {
+            "chapter_id": "doc:80015:part:1:chapter:1",
+            "number": "I",
+            "title": "QUY ĐỊNH CHUNG",
+            "content": "Chương I\nQUY ĐỊNH CHUNG",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:80015:part:1:article:1",
+                "number": "1",
+                "title": "Phạm vi điều chỉnh Thông tư này quy định về việc cung cấp dịch vụ công trực tuyến của Bộ Công Thương, bao gồm việc xây dựng, thực hiện, tiếp nhận, xử lý phản ánh kiến nghị về dịch vụ công trực tuyến đối với các thủ tục hành chính ngành công thương thực hiện ở cấp trung ương.",
+                "content": "Điều 1. Phạm vi điều chỉnh Thông tư này quy định về việc cung cấp dịch vụ công trực tuyến của Bộ Công Thương, bao gồm việc xây dựng, thực hiện, tiếp nhận, xử lý phản ánh kiến nghị về dịch vụ công trực tuyến đối với các thủ tục hành chính ngành công thương thực hiện ở cấp trung ương.",
+                "clauses": [],
+                "points": []
+              },
+              {
+                "article_id": "doc:80015:part:1:article:2",
+                "number": "2",
+                "title": "Đối tượng áp dụng",
+                "content": "Điều 2. Đối tượng áp dụng",
+                "clauses": [
+                  {
+                    "clause_id": "doc:80015:part:1:article:2:clause:1",
+                    "number": "1",
+                    "content": "1. Các đơn vị thuộc Bộ trong việc cung cấp dịch vụ\ncông trực tuyến.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:80015:part:1:article:2:clause:2",
+                    "number": "2",
+                    "content": "2. Tổ chức, cá nhân khi tiến hành thực hiện thủ tục\nhành chính trực tuyến của Bộ Công Thương.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:80015:part:1:article:3",
+                "number": "3",
+                "title": "Nguyên tắc cung cấp dịch vụ công trực tuyến của Bộ Công Thương",
+                "content": "Điều 3. Nguyên tắc cung cấp dịch vụ công trực tuyến của Bộ Công Thương",
+                "clauses": [
+                  {
+                    "clause_id": "doc:80015:part:1:article:3:clause:1",
+                    "number": "1",
+                    "content": "1. Bộ Công Thương thực hiện cung cấp dịch vụ công\ntrực tuyến mức độ 3 đối với 100% thủ tục hành chính thực hiện ở cấp trung ương.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:80015:part:1:article:3:clause:2",
+                    "number": "2",
+                    "content": "2. Bộ Công Thương bảo đảm nâng cấp dịch vụ công\ntrực tuyến từ mức độ 3 lên mức độ 4 đối với một số thủ tục hành chính thực hiện ở cấp trung ương tùy thuộc vào tính khả thi và hạ tầng công nghệ thông tin.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:80015:part:1:article:3:clause:3",
+                    "number": "3",
+                    "content": "3. Quy trình thực hiện thủ tục hành chính trên hệ\nthống dịch vụ công trực tuyến căn cứ theo các văn bản quy phạm pháp luật chuyên ngành có quy định thủ tục hành chính đó.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:80015:part:1:article:3:clause:4",
+                    "number": "4",
+                    "content": "4. Tổ chức, cá nhân thực hiện dịch vụ công trực\ntuyến phải tuân thủ các điều kiện quy định tại các văn bản quy phạm pháp luật có quy định thủ tục hành chính liên quan.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:80015:part:1:article:4",
+                "number": "4",
+                "title": "Giải thích từ ngữ Trong Thông tư này, các từ ngữ dưới đây được hiểu như sau:",
+                "content": "Điều 4. Giải thích từ ngữ Trong Thông tư này, các từ ngữ dưới đây được hiểu như sau:",
+                "clauses": [
+                  {
+                    "clause_id": "doc:80015:part:1:article:4:clause:1",
+                    "number": "1",
+                    "content": "1. Dịch vụ hành chính công là những dịch vụ liên\nquan đến hoạt động thực thi pháp luật, không nhằm mục tiêu lợi nhuận, do cơ quan nhà nước có thẩm quyền cấp cho tổ chức, cá nhân dưới hình thức các loại giấy tờ có giá trị pháp lý trong các lĩnh vực mà cơ quan nhà nước đó quản lý. Mỗi dịch vụ hành chính công gắn liền với một thủ tục hành chính để giải quyết hoàn chỉnh một công việc cụ thể liên quan đến tổ chức, cá nhân.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:80015:part:1:article:4:clause:2",
+                    "number": "2",
+                    "content": "2. Dịch vụ công trực tuyến là dịch vụ hành chính\ncông và các dịch vụ khác của cơ quan nhà nước được cung cấp cho các tổ chức, cá nhân trên môi trường mạng.",
+                    "points": [
+                      {
+                        "point_id": "doc:80015:part:1:article:4:clause:2:point:1",
+                        "label": "a",
+                        "content": "a) Dịch vụ công trực tuyến mức độ 1: là dịch vụ bảo\nđảm cung cấp đầy đủ các thông tin về thủ tục hành chính và các văn bản có liên quan quy định về thủ tục hành chính đó.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:80015:part:1:article:4:clause:2:point:2",
+                        "label": "b",
+                        "content": "b) Dịch vụ công trực tuyến mức độ 2: là dịch vụ\ncông trực tuyến mức độ 1 và cho phép người sử dụng tải về các mẫu văn bản và khai báo để hoàn thiện hồ sơ theo yêu cầu. Hồ sơ sau khi hoàn thiện được gửi trực tiếp hoặc qua đường bưu điện đến cơ quan, tổ chức cung cấp dịch vụ.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:80015:part:1:article:4:clause:2:point:3",
+                        "label": "c",
+                        "content": "c) Dịch vụ công trực tuyến mức độ 3: là dịch vụ\ncông trực tuyến mức độ 2 và cho phép người sử dụng điền và gửi trực tuyến các mẫu văn bản đến cơ quan, tổ chức cung cấp dịch vụ. Các giao dịch trong quá trình xử lý hồ sơ và cung cấp dịch vụ được thực hiện trên môi trường mạng. Việc thanh toán phí, lệ phí (nếu có) và nhận kết quả được thực hiện trực tiếp tại cơ quan, tổ chức cung cấp dịch vụ.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:80015:part:1:article:4:clause:2:point:4",
+                        "label": "d",
+                        "content": "d) Dịch vụ công trực tuyến mức độ 4: là dịch vụ\ncông trực tuyến mức độ 3 và cho phép người sử dụng thanh toán phí, lệ phí (nếu có) được thực hiện trực tuyến. Việc trả kết quả có thể được thực hiện trực tuyến, gửi trực tiếp hoặc qua đường bưu điện đến người sử dụng.",
+                        "children": []
+                      }
+                    ]
+                  }
+                ],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:80015:part:1:chapter:2",
+            "number": "II",
+            "title": "XÂY DỰNG DỊCH VỤ CÔNG TRỰC TUYẾN",
+            "content": "Chương II\nXÂY DỰNG DỊCH VỤ CÔNG TRỰC TUYẾN",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:80015:part:1:article:5",
+                "number": "5",
+                "title": "Tên miền truy cập cổng thông tin điện tử cung cấp dịch vụ công trực tuyến của Bộ Công Thương Bộ Công Thương cung cấp dịch vụ công trực tuyến đối với các thủ tục hành chính thuộc thẩm quyền giải quyết của Bộ trên Cổng Thông tin điện tử Bộ Công Thương tại địa chỉ http://www.moit.gov.vn.",
+                "content": "Điều 5. Tên miền truy cập cổng thông tin điện tử cung cấp dịch vụ công trực tuyến của Bộ Công Thương Bộ Công Thương cung cấp dịch vụ công trực tuyến đối với các thủ tục hành chính thuộc thẩm quyền giải quyết của Bộ trên Cổng Thông tin điện tử Bộ Công Thương tại địa chỉ http://www.moit.gov.vn.",
+                "clauses": [],
+                "points": []
+              },
+              {
+                "article_id": "doc:80015:part:1:article:6",
+                "number": "6",
+                "title": "Xây dựng, cung cấp dịch vụ công trực tuyến",
+                "content": "Điều 6. Xây dựng, cung cấp dịch vụ công trực tuyến",
+                "clauses": [
+                  {
+                    "clause_id": "doc:80015:part:1:article:6:clause:1",
+                    "number": "1",
+                    "content": "1. Cục Thương mại điện tử và Công nghệ thông tin có\ntrách nhiệm tham gia vào quá trình soạn thảo các văn bản quy phạm pháp luật có quy định thủ tục hành chính ngành công thương thực hiện ở cấp trung ương.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:80015:part:1:article:6:clause:2",
+                    "number": "2",
+                    "content": "2. Ngay khi văn bản có quy định thủ tục hành chính\nngành công thương thực hiện ở cấp trung ương được ký ban hành, các đơn vị thuộc Bộ cung cấp nội dung thủ tục hành chính thực hiện dịch vụ công trực tuyến, bao gồm: tên thủ tục, trình tự thực hiện, hồ sơ, thời hạn giải quyết, đối tượng thực hiện cho Cục Thương mại điện tử và Công nghệ thông tin.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:80015:part:1:article:6:clause:3",
+                    "number": "3",
+                    "content": "3. Trong thời hạn 30 (ba mươi) ngày làm việc kể từ\nngày văn bản có quy định thủ tục hành chính ngành công thương thực hiện ở cấp trung ương được ký ban hành, Cục Thương mại điện tử và Công nghệ thông tin xây dựng hạ tầng thực hiện dịch vụ công trực tuyến, bao gồm: quy trình điện tử, các nội dung đặc tả, giao diện, cấu trúc trên cơ sở nội dung thủ tục hành chính thực hiện dịch vụ công trực tuyến được cung cấp và gửi lấy ý kiến các đơn vị liên quan.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:80015:part:1:article:6:clause:4",
+                    "number": "4",
+                    "content": "4. Trong thời hạn 05 (năm) ngày làm việc kể từ ngày\nnhận được đề nghị của Cục Thương mại điện tử và Công nghệ thông tin, các đơn vị thuộc Bộ có trách nhiệm xác nhận tính chính xác của quy trình điện tử và nội dung đặc tả, giao diện, cấu trúc để triển khai trực tuyến.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:80015:part:1:article:6:clause:5",
+                    "number": "5",
+                    "content": "5. Trong thời hạn 05 (năm) ngày kể từ ngày có xác\nnhận của các đơn vị thuộc Bộ, Cục Thương mại điện tử và Công nghệ thông tin phối hợp với các đơn vị liên quan tiến hành chạy thử và thống nhất về việc đưa hạ tầng dịch vụ công trực tuyến vào sử dụng.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:80015:part:1:article:6:clause:6",
+                    "number": "6",
+                    "content": "6. Trong thời hạn 05 (năm) ngày làm việc kể từ ngày\nthống nhất đưa hạ tầng dịch vụ công trực tuyến vào sử dụng, Cục Thương mại điện tử và Công nghệ thông tin báo cáo Lãnh đạo Bộ chính thức phê duyệt việc cung cấp dịch vụ công trực tuyến đó.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:80015:part:1:article:6:clause:7",
+                    "number": "7",
+                    "content": "7. Cục Thương mại điện tử và Công nghệ thông tin\nchính thức cung cấp dịch vụ công trực tuyến ngay khi văn bản có chứa thủ tục hành chính thực hiện ở cấp trung ương có hiệu lực. Trường hợp xây dựng hạ tầng dịch vụ công trực tuyến phức tạp, chậm nhất 15 (mười lăm) ngày kể từ ngày văn bản có chứa thủ tục hành chính ngành công thương thực hiện ở cấp trung ương có hiệu lực, Cục Thương mại điện tử và Công nghệ thông tin báo cáo Lãnh đạo Bộ chính thức phê duyệt việc cung cấp dịch vụ công trực tuyến đó.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:80015:part:1:article:6:clause:8",
+                    "number": "8",
+                    "content": "8. Các đơn vị thuộc Bộ được giao chủ trì thực hiện\nthủ tục hành chính liên quan đến dịch vụ công trực tuyến có trách nhiệm phối hợp với Cục Thương mại điện tử và Công nghệ thông tin đảm bảo tiến độ xây dựng và cung cấp dịch vụ công trực tuyến theo quy định từ Khoản 1 đến Khoản 7 Điều này.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:80015:part:1:article:7",
+                "number": "7",
+                "title": "Nâng cấp dịch vụ công trực tuyến",
+                "content": "Điều 7. Nâng cấp dịch vụ công trực tuyến",
+                "clauses": [
+                  {
+                    "clause_id": "doc:80015:part:1:article:7:clause:1",
+                    "number": "1",
+                    "content": "1. Trước ngày 31 tháng 12 hàng năm, Cục Thương mại điện\ntử và Công nghệ thông tin có trách nhiệm phối hợp với các đơn vị liên quan xây dựng và trình Bộ trưởng Bộ Công Thương ban hành Kế hoạch nâng cấp dịch vụ công trực tuyến của Bộ Công Thương từ mức độ 3 lên mức độ 4 (sau đây gọi tắt là Kế hoạch) thực hiện trong năm sau.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:80015:part:1:article:7:clause:2",
+                    "number": "2",
+                    "content": "2. Kế hoạch bao gồm các nội dung chủ yếu sau:",
+                    "points": [
+                      {
+                        "point_id": "doc:80015:part:1:article:7:clause:2:point:1",
+                        "label": "a",
+                        "content": "a) Tên thủ tục hành chính đề xuất nâng cấp dịch vụ\ncông trực tuyến từ mức độ 3 lên mức độ 4;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:80015:part:1:article:7:clause:2:point:2",
+                        "label": "b",
+                        "content": "b) Tên văn bản quy phạm pháp luật có quy định thủ\ntục hành chính đề xuất nâng cấp dịch vụ công trực tuyến;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:80015:part:1:article:7:clause:2:point:3",
+                        "label": "c",
+                        "content": "c) Thời gian nâng cấp đối với mỗi dịch vụ công trực\ntuyến;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:80015:part:1:article:7:clause:2:point:4",
+                        "label": "d",
+                        "content": "d) Đơn vị chủ trì thực hiện dịch vụ công trực tuyến;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:80015:part:1:article:7:clause:2:point:5",
+                        "label": "đ",
+                        "content": "đ) Các nội dung cần thiết khác.",
+                        "children": []
+                      }
+                    ]
+                  }
+                ],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:80015:part:1:chapter:3",
+            "number": "III",
+            "title": "CUNG CẤP, THỰC HIỆN DỊCH VỤ CÔNG TRỰC TUYẾN",
+            "content": "Chương III\nCUNG CẤP, THỰC HIỆN DỊCH VỤ CÔNG TRỰC TUYẾN",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:80015:part:1:article:8",
+                "number": "8",
+                "title": "Trình tự thực hiện dịch vụ công trực tuyến Dịch vụ công trực tuyến của Bộ Công Thương được thực hiện theo trình tự như sau:",
+                "content": "Điều 8. Trình tự thực hiện dịch vụ công trực tuyến Dịch vụ công trực tuyến của Bộ Công Thương được thực hiện theo trình tự như sau:",
+                "clauses": [
+                  {
+                    "clause_id": "doc:80015:part:1:article:8:clause:1",
+                    "number": "1",
+                    "content": "1. Cấp tài khoản thực hiện dịch vụ công trực tuyến.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:80015:part:1:article:8:clause:2",
+                    "number": "2",
+                    "content": "2. Khai báo hồ sơ thực hiện thủ tục hành chính trên\nhệ thống dịch vụ công trực tuyến.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:80015:part:1:article:8:clause:3",
+                    "number": "3",
+                    "content": "3. Xử lý hồ sơ thực hiện thủ tục hành chính.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:80015:part:1:article:8:clause:4",
+                    "number": "4",
+                    "content": "4. Trả kết quả.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:80015:part:1:article:9",
+                "number": "9",
+                "title": "Cấp tài khoản thực hiện dịch vụ công trực tuyến",
+                "content": "Điều 9. Cấp tài khoản thực hiện dịch vụ công trực tuyến",
+                "clauses": [
+                  {
+                    "clause_id": "doc:80015:part:1:article:9:clause:1",
+                    "number": "1",
+                    "content": "1. Tổ chức, cá nhân có nhu cầu thực hiện dịch vụ\ncông trực tuyến tại Bộ Công Thương có quyền đề nghị cấp tài khoản thực hiện dịch vụ công trực tuyến trên Cổng Thông tin điện tử Bộ Công Thương tại địa chỉ http://www.moit.gov.vn.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:80015:part:1:article:9:clause:2",
+                    "number": "2",
+                    "content": "2. Thông tin cơ bản để tổ chức, cá nhân đề nghị cấp\ntài khoản bao gồm; tên doanh nghiệp, mã số thuế, thư điện tử, bản chụp giấy chứng nhận đầu tư hoặc giấy chứng nhận đăng ký kinh doanh hoặc giấy chứng nhận đăng ký doanh nghiệp có chữ ký điện tử của tổ chức, cá nhân đó và các thông tin chứng minh đáp ứng đủ điều kiện thực hiện thủ tục hành chính có liên quan.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:80015:part:1:article:9:clause:3",
+                    "number": "3",
+                    "content": "3. Trong thời hạn 01 (một) ngày làm việc kể từ ngày\ncung cấp đầy đủ thông tin theo quy định tại Khoản 2 Điều này, Cục Thương mại điện tử và Công nghệ thông tin phối hợp với đơn vị liên quan có trách nhiệm phê duyệt và cấp cấp tài khoản thực hiện dịch vụ công trực tuyến cho tổ chức, cá nhân.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:80015:part:1:article:9:clause:4",
+                    "number": "4",
+                    "content": "4. Tổ chức, cá nhân đề nghị cấp tài khoản sử dụng\ndịch vụ công trực tuyến hoàn toàn chịu trách nhiệm về tính chính xác đối với những thông tin cung cấp khi tiến hành đề nghị cấp tài khoản.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:80015:part:1:article:10",
+                "number": "10",
+                "title": "Sửa đổi, bổ sung thông tin tài khoản",
+                "content": "Điều 10. Sửa đổi, bổ sung thông tin tài khoản",
+                "clauses": [
+                  {
+                    "clause_id": "doc:80015:part:1:article:10:clause:1",
+                    "number": "1",
+                    "content": "1. Tổ chức, cá nhân phải sửa đổi, bổ sung thông tin\ntài khoản truy cập hệ thống dịch vụ công trực tuyến đã được cấp trong trường hợp:",
+                    "points": [
+                      {
+                        "point_id": "doc:80015:part:1:article:10:clause:1:point:1",
+                        "label": "a",
+                        "content": "a) Có sự thay đổi một trong các thông tin tài khoản\nliên quan đến tổ chức, cá nhân đó.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:80015:part:1:article:10:clause:1:point:2",
+                        "label": "b",
+                        "content": "b) Có yêu cầu sửa đổi, bổ sung thông tin tài khoản\ntừ hệ thống dịch vụ công trực tuyến khi thực hiện thủ tục hành chính liên quan đến tài khoản đã được cấp.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:80015:part:1:article:10:clause:2",
+                    "number": "2",
+                    "content": "2. Việc sửa đổi, bổ sung được thực hiện trực tuyến\nqua hệ thống dịch vụ công trực tuyến theo quy định tại Khoản 2 Điều 9.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:80015:part:1:article:10:clause:3",
+                    "number": "3",
+                    "content": "3. Trong thời hạn 01 (một) ngày làm việc kể từ ngày\nthực hiện sửa đổi, bổ sung, Cục Thương mại điện tử và Công nghệ thông tin phối hợp với đơn vị liên quan tiến hành xem xét và xác nhận về thông tin sửa đổi, bổ sung và phản hồi lại cho tổ chức, cá nhân qua tài khoản truy cập hệ thống dịch vụ công trực tuyến đã được cấp. Trường hợp không xác nhận phải nêu rõ lý do.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:80015:part:1:article:11",
+                "number": "11",
+                "title": "Tạm dừng, hủy tài khoản và kích hoạt lại tài khoản đã được cấp",
+                "content": "Điều 11. Tạm dừng, hủy tài khoản và kích hoạt lại tài khoản đã được cấp",
+                "clauses": [
+                  {
+                    "clause_id": "doc:80015:part:1:article:11:clause:1",
+                    "number": "1",
+                    "content": "1. Tổ chức, cá nhân đã được cấp tài khoản truy cập\nhệ thống dịch vụ công trực tuyến có quyền đề nghị tạm dừng, đề nghị hủy tài khoản thông qua hệ thống dịch vụ công trực tuyến.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:80015:part:1:article:11:clause:2",
+                    "number": "2",
+                    "content": "2. Trường hợp tổ chức, cá nhân đăng nhập vào hệ thống\ndịch vụ công trực tuyến quá 10 (mười) lần mà không thành công thì hệ thống dịch vụ công trực tuyến sẽ tự động tạm dừng tài khoản của tổ chức, cá nhân đó.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:80015:part:1:article:11:clause:3",
+                    "number": "3",
+                    "content": "3. Trường hợp phát hiện tổ chức, cá nhân trong quá\ntrình thực hiện dịch vụ công trực tuyến có hành vi gây ảnh hưởng tới sự ổn định của hệ thống dịch vụ công trực tuyến, đơn vị chủ trì vận hành dịch vụ công trực tuyến có quyền tạm dừng tài khoản của tổ chức, cá nhân và nêu rõ lý do.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:80015:part:1:article:11:clause:4",
+                    "number": "4",
+                    "content": "4. Tổ chức, cá nhân bị tạm dừng tài khoản truy cập\nvào hệ thống dịch vụ công trực tuyến và làm theo các yêu cầu được nêu trên hệ thống dịch vụ công trực tuyến để kích hoạt lại tài khoản. Trong thời hạn 01 (một) ngày làm việc kể từ ngày cung cấp đầy đủ thông tin theo các yêu cầu được nêu trên hệ thống dịch vụ công trực tuyến, Cục Thương mại điện tử và Công nghệ thông tin có trách nhiệm kích hoạt lại tài khoản và thông báo cho tổ chức, cá nhân qua địa chỉ thư điện tử đã đăng ký.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:80015:part:1:article:12",
+                "number": "12",
+                "title": "Khai báo hồ sơ thực hiện thủ tục hành chính trên hệ thống dịch vụ công trực tuyến",
+                "content": "Điều 12. Khai báo hồ sơ thực hiện thủ tục hành chính trên hệ thống dịch vụ công trực tuyến",
+                "clauses": [
+                  {
+                    "clause_id": "doc:80015:part:1:article:12:clause:1",
+                    "number": "1",
+                    "content": "1. Sau khi được cấp tài khoản đăng nhập hệ thống\ndịch vụ công trực tuyến tổ chức, cá nhân tiến hành đăng nhập và khai báo hồ sơ thực hiện thủ tục hành chính có chữ ký điện tử của tổ chức, cá nhân đó theo định dạng và mẫu được cung cấp trên hệ thống dịch vụ công trực tuyến.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:80015:part:1:article:12:clause:2",
+                    "number": "2",
+                    "content": "2. Đối với dịch vụ công trực tuyến mức độ 4, tổ\nchức, cá nhân thực hiện việc thanh toán phí, lệ phí (nếu có) theo hướng dẫn trên hệ thống dịch vụ công trực tuyến và được cung cấp giấy tờ chứng minh đã nộp phí, lệ phí theo quy định pháp luật.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:80015:part:1:article:12:clause:3",
+                    "number": "3",
+                    "content": "3. Tổ chức, cá nhân sử dụng dịch vụ công trực tuyến\ncủa Bộ Công Thương có trách nhiệm xuất trình hồ sơ thực hiện thủ tục hành chính (bản gốc), cung cấp thông tin, chứng từ liên quan khi Bộ Công Thương có yêu cầu kiểm tra.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:80015:part:1:article:13",
+                "number": "13",
+                "title": "Xử lý hồ sơ thực hiện thủ tục hành chính",
+                "content": "Điều 13. Xử lý hồ sơ thực hiện thủ tục hành chính",
+                "clauses": [
+                  {
+                    "clause_id": "doc:80015:part:1:article:13:clause:1",
+                    "number": "1",
+                    "content": "1. Sau khi nhận được khai báo hồ sơ thực hiện thủ\ntục hành chính và theo thời gian tương ứng quy định tại văn bản có quy định thủ tục hành chính liên quan, các đơn vị xử lý hồ sơ thực hiện thủ tục hành chính có thông tin phản hồi cho tổ chức, cá nhân qua địa chỉ thư điện tử đã đăng ký hoặc qua tài khoản truy cập hệ thống dịch vụ công trực tuyến đã được cấp về tính đầy đủ và hợp lệ của hồ sơ. Trường hợp hồ sơ chưa đầy đủ, hợp lệ, tổ chức, cá nhân có trách nhiệm bổ sung đầy đủ các thông tin theo yêu cầu.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:80015:part:1:article:13:clause:2",
+                    "number": "2",
+                    "content": "2. Sau khi nhận được hồ sơ đầy đủ, hợp lệ, các đơn\nvị xử lý hồ sơ thực hiện thủ tục hành chính tiến hành xử lý hồ sơ theo thời gian tương ứng quy định tại các văn bản có quy định thủ tục hành chính liên quan và thông báo kết quả phê duyệt hoặc không phê duyệt hồ sơ thực hiện thủ tục hành chính của tổ chức, cá nhân qua địa chỉ thư điện tử đã đăng ký hoặc qua tài khoản truy cập hệ thống dịch vụ công trực tuyến đã được cấp. Trường hợp hồ sơ không được phê duyệt phải nêu rõ lý do.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:80015:part:1:article:14",
+                "number": "14",
+                "title": "Trả kết quả",
+                "content": "Điều 14. Trả kết quả",
+                "clauses": [
+                  {
+                    "clause_id": "doc:80015:part:1:article:14:clause:1",
+                    "number": "1",
+                    "content": "1. Bộ Công Thương có trách nhiệm trả kết quả cho tổ\nchức, cá nhân bằng phương thức trực tuyến, trực tiếp hoặc qua đường bưu điện.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:80015:part:1:article:14:clause:2",
+                    "number": "2",
+                    "content": "2. Trường hợp tổ chức, cá nhân thực hiện dịch vụ\ncông trực tuyến theo Cơ chế hải quan một cửa quốc gia, Bộ Công Thương có trách nhiệm trả kết quả theo quy định tại Thông tư liên tịch số 84/2013/TTLT-BTC-BCT-BGTVT ngày 25 tháng 6 năm 2013 của Bộ Tài chính, Bộ Công Thương và Bộ Giao thông vận tải hướng dẫn thực hiện Quyết định số 48/2011/QĐ-TTg ngày 31 tháng 8 năm 2011 của Thủ tướng Chính phủ về việc thí điểm thực hiện Cơ chế hải quan một cửa quốc gia.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:80015:part:1:article:15",
+                "number": "15",
+                "title": "Bảo mật thông tin",
+                "content": "Điều 15. Bảo mật thông tin",
+                "clauses": [
+                  {
+                    "clause_id": "doc:80015:part:1:article:15:clause:1",
+                    "number": "1",
+                    "content": "1. Bộ Công Thương có trách nhiệm bảo mật và lưu giữ\nthông tin của tổ chức, cá nhân trừ trường hợp phải cung cấp các thông tin này cho các cơ quan có thẩm quyền theo quy định của pháp luật",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:80015:part:1:article:15:clause:2",
+                    "number": "2",
+                    "content": "2. Tổ chức, cá nhân có trách nhiệm bảo mật tài\nkhoản và mật khẩu đăng nhập của mình và chịu mọi thiệt hại phát sinh do tài khoản, mật khẩu đăng nhập bị tiết lộ dưới bất kỳ hình thức nào.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:80015:part:1:article:16",
+                "number": "16",
+                "title": "Quản lý việc cung cấp dịch vụ công trực tuyến",
+                "content": "Điều 16. Quản lý việc cung cấp dịch vụ công trực tuyến",
+                "clauses": [
+                  {
+                    "clause_id": "doc:80015:part:1:article:16:clause:1",
+                    "number": "1",
+                    "content": "1. Trách nhiệm của Cục Thương mại điện tử và Công\nnghệ thông tin",
+                    "points": [
+                      {
+                        "point_id": "doc:80015:part:1:article:16:clause:1:point:1",
+                        "label": "a",
+                        "content": "a) Quản lý hệ thống dịch vụ công trực tuyến của Bộ\nCông Thương.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:80015:part:1:article:16:clause:1:point:2",
+                        "label": "b",
+                        "content": "b) Tiến hành xây dựng, duy trì và cung cấp dịch vụ\ncông trực tuyến của Bộ Công Thương ngay khi văn bản quy định về thủ tục hành chính có hiệu lực.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:80015:part:1:article:16:clause:1:point:3",
+                        "label": "c",
+                        "content": "c) Đảm bảo hạ tầng công nghệ thông tin để đáp ứng\ntính sẵn sàng, thông suốt, không bị gián đoạn của việc cung cấp các dịch vụ công trực tuyến của Bộ Công Thương.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:80015:part:1:article:16:clause:1:point:4",
+                        "label": "d",
+                        "content": "d) Kịp thời khắc phục các sự cố liên quan đến dịch\nvụ công trực tuyến của Bộ Công Thương ngay khi nhận được phản ánh từ các đơn vị, cá nhân trong và ngoài Bộ.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:80015:part:1:article:16:clause:1:point:5",
+                        "label": "đ",
+                        "content": "đ) Quản lý, bảo quản hồ sơ, dữ liệu điện tử thực\nhiện dịch vụ công trực tuyến của tổ chức, cá nhân theo quy định của pháp luật.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:80015:part:1:article:16:clause:1:point:6",
+                        "label": "e",
+                        "content": "e) Phối hợp với đơn vị liên quan quản lý tài khoản\nsử dụng dịch vụ công trực tuyến của tổ chức, cá nhân, bao gồm: cấp tài khoản, từ chối cấp tài khoản hoặc yêu cầu bổ sung thông tin tài khoản theo đúng thời gian quy định.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:80015:part:1:article:16:clause:1:point:7",
+                        "label": "g",
+                        "content": "g) Xây dựng quy chế hoạt động của hệ thống dịch vụ công\ntrực tuyến của Bộ Công Thương.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:80015:part:1:article:16:clause:2",
+                    "number": "2",
+                    "content": "2. Trách nhiệm của các đơn vị thuộc Bộ cung cấp\ndịch vụ công trực tuyến",
+                    "points": [
+                      {
+                        "point_id": "doc:80015:part:1:article:16:clause:2:point:1",
+                        "label": "a",
+                        "content": "a) Xử lý hồ sơ thực hiện thủ tục hành chính của tổ\nchức, cá nhân đối với dịch vụ công trực tuyến do đơn vị mình quản lý, bao gồm: phê duyệt hồ sơ, từ chối phê duyệt hồ sơ hoặc yêu cầu bổ sung thông tin hồ sơ theo đúng thời gian quy định.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:80015:part:1:article:16:clause:2:point:2",
+                        "label": "b",
+                        "content": "b) Phối hợp với Cục Thương mại điện tử và Công nghệ\nthông tin quản lý tài khoản sử dụng dịch vụ công trực tuyến của tổ chức, cá nhân, bao gồm: cấp tài khoản, từ chối cấp tài khoản hoặc yêu cầu bổ sung thông tin tài khoản theo đúng thời gian quy định.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:80015:part:1:article:16:clause:2:point:3",
+                        "label": "c",
+                        "content": "c) Kịp thời thông báo cho Cục Thương mại điện tử và\nCông nghệ thông tin các sự cố, trục trặc kỹ thuật xảy ra đối với dịch vụ công trực tuyến do đơn vị mình sử dụng để Cục Thương mại điện tử và Công nghệ thông tin có biện pháp khắc phục.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:80015:part:1:article:16:clause:3",
+                    "number": "3",
+                    "content": "3. Trách nhiệm quản lý các tài khoản thu phí, lệ phí",
+                    "points": [
+                      {
+                        "point_id": "doc:80015:part:1:article:16:clause:3:point:1",
+                        "label": "a",
+                        "content": "a) Văn phòng Bộ Công Thương chịu trách nhiệm quản\nlý các tài khoản thu phí, lệ phí theo quy định của pháp luật đối với các dịch vụ công trực tuyến do các đơn vị cấp Vụ cung cấp.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:80015:part:1:article:16:clause:3:point:2",
+                        "label": "b",
+                        "content": "b) Các đơn vị cấp Cục, Tổng cục chịu trách nhiệm\nquản lý các tài khoản thu phí, lệ phí theo quy định của pháp luật đối với các dịch vụ công trực tuyến do đơn vị mình cung cấp.",
+                        "children": []
+                      }
+                    ]
+                  }
+                ],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:80015:part:1:chapter:4",
+            "number": "IV",
+            "title": "TIẾP NHẬN, XỬ LÝ PHẢN ÁNH KIẾN NGHỊ VỀ DỊCH VỤ CÔNG TRỰC TUYẾN",
+            "content": "Chương IV\nTIẾP NHẬN, XỬ LÝ PHẢN\nÁNH KIẾN NGHỊ VỀ DỊCH VỤ CÔNG TRỰC TUYẾN",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:80015:part:1:article:17",
+                "number": "17",
+                "title": "Nơi tiếp nhận phản ánh, kiến nghị",
+                "content": "Điều 17. Nơi tiếp nhận phản ánh, kiến nghị",
+                "clauses": [
+                  {
+                    "clause_id": "doc:80015:part:1:article:17:clause:1",
+                    "number": "1",
+                    "content": "1. Cục Thương mại điện tử và Công nghệ thông tin là\nđầu mối tiếp nhận phản ánh, kiến nghị của tổ chức, cá nhân liên quan đến việc thực hiện dịch vụ công trực tuyến của Bộ Công Thương.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:80015:part:1:article:17:clause:2",
+                    "number": "2",
+                    "content": "2. Tổ chức, cá nhân có quyền gửi phản ánh, kiến\nnghị liên quan đến việc thực hiện dịch vụ công trực tuyến của Bộ Công Thương thông qua các hình thức sau:",
+                    "points": [
+                      {
+                        "point_id": "doc:80015:part:1:article:17:clause:2:point:1",
+                        "label": "a",
+                        "content": "a) Thông qua hộp thư điện tử;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:80015:part:1:article:17:clause:2:point:2",
+                        "label": "b",
+                        "content": "b) Thông qua hệ thống hỗ trợ trực tuyến tiếp nhận,\nxử lý phản ánh kiến nghị và sẽ được in thành dạng văn bản.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:80015:part:1:article:17:clause:3",
+                    "number": "3",
+                    "content": "3. Địa chỉ tiếp nhận phản ánh, kiến nghị:\nCục Thương mại điện tử và Công nghệ thông tin - Bộ Công Thương, số 25 Ngô Quyền, Hoàn Kiếm, Hà Nội. Email: dvctt@moit.gov.vn Website: www.moit.gov.vn",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:80015:part:1:article:18",
+                "number": "18",
+                "title": "Xử lý phản ánh, kiến nghị Đối với phản ánh, kiến nghị về thực hiện dịch vụ công trực tuyến, trong thời hạn 03 (ba) ngày làm việc kể từ ngày tiếp nhận phản ánh kiến nghị, Cục Thương mại điện tử và Công nghệ thông tin phối hợp với Vụ Pháp chế và các đơn vị liên quan có trách nhiệm thông tin phản hồi cho tổ chức, cá nhân.",
+                "content": "Điều 18. Xử lý phản ánh, kiến nghị Đối với phản ánh, kiến nghị về thực hiện dịch vụ công trực tuyến, trong thời hạn 03 (ba) ngày làm việc kể từ ngày tiếp nhận phản ánh kiến nghị, Cục Thương mại điện tử và Công nghệ thông tin phối hợp với Vụ Pháp chế và các đơn vị liên quan có trách nhiệm thông tin phản hồi cho tổ chức, cá nhân.",
+                "clauses": [],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:80015:part:1:chapter:5",
+            "number": "V",
+            "title": "TỔ CHỨC THỰC HIỆN",
+            "content": "Chương V\nTỔ CHỨC THỰC HIỆN",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:80015:part:1:article:19",
+                "number": "19",
+                "title": "Chế độ báo cáo Theo định kỳ 06 (sáu) tháng, Cục Thương mại điện tử và Công nghệ thông tin có trách nhiệm báo cáo Lãnh đạo Bộ về:",
+                "content": "Điều 19. Chế độ báo cáo Theo định kỳ 06 (sáu) tháng, Cục Thương mại điện tử và Công nghệ thông tin có trách nhiệm báo cáo Lãnh đạo Bộ về:\na) Tình hình thực hiện dịch vụ công trực tuyến của\nBộ Công Thương.\nb) Tình hình thực hiện kế hoạch nâng cấp dịch vụ công\ntrực tuyến của Bộ Công Thương theo quy định tại Điều 7 Thông tư này.",
+                "clauses": [],
+                "points": []
+              },
+              {
+                "article_id": "doc:80015:part:1:article:20",
+                "number": "20",
+                "title": "Kinh phí bảo đảm cho hoạt động cung cấp dịch vụ công trực tuyến",
+                "content": "Điều 20. Kinh phí bảo đảm cho hoạt động cung cấp dịch vụ công trực tuyến",
+                "clauses": [
+                  {
+                    "clause_id": "doc:80015:part:1:article:20:clause:1",
+                    "number": "1",
+                    "content": "1. Vụ Tài chính có trách nhiệm thực hiện phân bổ kinh\nphí từ ngân sách Nhà nước cho công tác xây dựng, duy trì, vận hành, nâng cấp dịch vụ công trực tuyến hàng năm của Bộ theo quy định hiện hành.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:80015:part:1:article:20:clause:2",
+                    "number": "2",
+                    "content": "2. Kinh phí này chưa bao gồm kinh phí thực hiện các\nĐề án theo quy định của Chính phủ, Thủ tướng Chính phủ.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:80015:part:1:article:20:clause:3",
+                    "number": "3",
+                    "content": "3. Cục Thương mại điện tử và Công nghệ thông tin có\ntrách nhiệm lập dự toán chi tiết gửi Vụ Tài chính và sử dụng kinh phí theo chế độ tài chính, bảo đảm đủ chứng từ hợp pháp, hợp lệ theo quy định hiện hành.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:80015:part:1:article:21",
+                "number": "21",
+                "title": "Trách nhiệm thi hành",
+                "content": "Điều 21. Trách nhiệm thi hành",
+                "clauses": [
+                  {
+                    "clause_id": "doc:80015:part:1:article:21:clause:1",
+                    "number": "1",
+                    "content": "1. Lãnh đạo Bộ, Thủ trưởng đơn vị thuộc Bộ và các tổ\nchức, cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:80015:part:1:article:21:clause:2",
+                    "number": "2",
+                    "content": "2. Cục Thương mại điện tử và Công nghệ thông tin\nchủ trì, phối hợp với Vụ Pháp chế có trách nhiệm hướng dẫn, theo dõi, đôn đốc, kiểm tra việc thực hiện Thông tư này và kịp thời báo cáo Lãnh đạo Bộ khi gặp khó khăn trong quá trình triển khai thực hiện Thông tư này.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:80015:part:1:article:22",
+                "number": "22",
+                "title": "Điều khoản chuyển tiếp",
+                "content": "Điều 22. Điều khoản chuyển tiếp",
+                "clauses": [
+                  {
+                    "clause_id": "doc:80015:part:1:article:22:clause:1",
+                    "number": "1",
+                    "content": "1. Cục Thương mại điện tử và Công nghệ thông tin\nchủ trì, trình Bộ trưởng phê duyệt kế hoạch hoàn thành việc cung cấp dịch vụ công trực tuyến mức độ 3 đối với 100% thủ tục hành chính thực hiện ở cấp trung ương trong năm 2016.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:80015:part:1:article:22:clause:2",
+                    "number": "2",
+                    "content": "2. Trường hợp có khó khăn, vướng mắc trong quá\ntrình triển khai thực hiện kế hoạch, Cục Thương mại điện tử và Công nghệ thông tin tổng hợp, báo cáo Bộ trưởng xem xét quyết định.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:80015:part:1:article:23",
+                "number": "23",
+                "title": "Hiệu lực thi hành Thông tư này có hiệu lực thi hành từ ngày 20 tháng 7 năm 2016.",
+                "content": "Điều 23. Hiệu lực thi hành Thông tư này có hiệu lực thi hành từ ngày 20 tháng 7 năm 2016.",
+                "clauses": [],
+                "points": []
+              }
+            ]
+          }
+        ],
+        "sections": [],
+        "articles": [],
+        "unstructured_blocks": []
+      }
+    ]
+  },
+  "issues": [],
+  "status": "ok",
+  "source_hash": "context_80015.json",
+  "stats": {
+    "source_chars": 20436,
+    "passage_chars": 20282,
+    "parts": 1,
+    "chapters": 5,
+    "sections": 0,
+    "articles": 23,
+    "clauses": 55,
+    "points": 25
+  }
+}

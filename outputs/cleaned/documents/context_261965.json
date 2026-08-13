@@ -1,0 +1,1202 @@
+{
+  "schema_version": "2.0",
+  "document_id": 261965,
+  "metadata": {
+    "name": "Thong-tu-34-2018-TT-NHNN-quy-dinh-quan-ly-mang-may-tinh-cua-Ngan-hang-Nha-nuoc-Viet-Nam-403715",
+    "link": "https://thuvienphapluat.vn/van-ban/Tien-te-Ngan-hang/Thong-tu-34-2018-TT-NHNN-quy-dinh-quan-ly-mang-may-tinh-cua-Ngan-hang-Nha-nuoc-Viet-Nam-403715.aspx",
+    "issuing_agency": "NGÂN HÀNG NHÀ NƯỚC VIỆT NAM",
+    "national_header": "CỘNG\r\n\n  HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM",
+    "motto": "Độc lập - Tự do - Hạnh phúc",
+    "document_number": "34/2018/TT-NHNN",
+    "issued_place": "Hà Nội",
+    "issued_date": "ngày 24 tháng 12\r\n\n  năm 2018",
+    "document_type": "THÔNG TƯ",
+    "title": "QUY ĐỊNH QUẢN LÝ VÀ SỬ DỤNG MẠNG MÁY TÍNH CỦA NGÂN HÀNG NHÀ NƯỚC VIỆT NAM"
+  },
+  "administrative_header": {
+    "removed": true,
+    "removed_char_count": 168
+  },
+  "preamble": {
+    "text": "THÔNG TƯ\nQUY ĐỊNH QUẢN LÝ VÀ SỬ DỤNG MẠNG MÁY TÍNH CỦA NGÂN HÀNG NHÀ NƯỚC VIỆT NAM\nCăn cứ Luật Ngân hàng Nhà nước Việt Nam ngày 16 tháng 6 năm 2010; Căn cứ Luật Công nghệ thông tin ngày 29 tháng 6 năm 2006; Căn cứ Luật Viễn thông ngày 23 tháng 11 năm 2009; Căn cứ Nghị định số 16/2017/NĐ-CP ngày 17 tháng 02 năm 2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Ngân hàng Nhà nước Việt Nam; Căn cứ Nghị định số 64/2007/NĐ-CP ngày 10 tháng 4 năm 2007 của Chính phủ về ứng dụng Công nghệ thông tin trong hoạt động của cơ quan Nhà nước; Căn cứ Nghị định số 72/2013/NĐ-CP của Chính phủ ngày 15 tháng 7 năm 2013 về quản lý, cung cấp, sử dụng dịch vụ Internet và thông tin trên mạng; Căn cứ Nghị định số 27/2018/NĐ-CP của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 72/2013/NĐ-CP ngày 15 tháng 7 năm 2013 của Chính phủ về quản lý, cung cấp, sử dụng dịch vụ Internet và thông tin trên mạng; Theo đề nghị của Cục trưởng Cục Công nghệ thông tin; Thống đốc Ngân hàng Nhà nước Việt Nam ban hành Thông tư quy định về việc quản lý và sử dụng mạng máy tính của Ngân hàng Nhà nước Việt Nam.\nChương I\nQUY ĐỊNH CHUNG",
+    "legal_bases": [
+      "Căn cứ Luật Công nghệ thông tin ngày 29 tháng 6 năm 2006",
+      "Căn cứ Luật Viễn thông ngày 23 tháng 11 năm 2009",
+      "Căn cứ Nghị định số 16/2017/NĐ-CP ngày 17 tháng 02 năm 2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Ngân hàng Nhà nước Việt Nam",
+      "Căn cứ Nghị định số 64/2007/NĐ-CP ngày 10 tháng 4 năm 2007 của Chính phủ về ứng dụng Công nghệ thông tin trong hoạt động của cơ quan Nhà nước",
+      "Căn cứ Nghị định số 72/2013/NĐ-CP của Chính phủ ngày 15 tháng 7 năm 2013 về quản lý, cung cấp, sử dụng dịch vụ Internet và thông tin trên mạng",
+      "Căn cứ Nghị định số 27/2018/NĐ-CP của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 72/2013/NĐ-CP ngày 15 tháng 7 năm 2013 của Chính phủ về quản lý, cung cấp, sử dụng dịch vụ Internet và thông tin trên mạng"
+    ],
+    "proposals": [
+      "Theo đề nghị của Cục trưởng Cục Công nghệ thông tin"
+    ],
+    "enactment_formula": null
+  },
+  "passage": "THÔNG TƯ\nQUY ĐỊNH QUẢN LÝ VÀ SỬ DỤNG MẠNG MÁY TÍNH CỦA NGÂN HÀNG NHÀ NƯỚC VIỆT NAM\nCăn cứ Luật Ngân hàng Nhà nước Việt Nam ngày 16 tháng 6 năm 2010; Căn cứ Luật Công nghệ thông tin ngày 29 tháng 6 năm 2006; Căn cứ Luật Viễn thông ngày 23 tháng 11 năm 2009; Căn cứ Nghị định số 16/2017/NĐ-CP ngày 17 tháng 02 năm 2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Ngân hàng Nhà nước Việt Nam; Căn cứ Nghị định số 64/2007/NĐ-CP ngày 10 tháng 4 năm 2007 của Chính phủ về ứng dụng Công nghệ thông tin trong hoạt động của cơ quan Nhà nước; Căn cứ Nghị định số 72/2013/NĐ-CP của Chính phủ ngày 15 tháng 7 năm 2013 về quản lý, cung cấp, sử dụng dịch vụ Internet và thông tin trên mạng; Căn cứ Nghị định số 27/2018/NĐ-CP của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 72/2013/NĐ-CP ngày 15 tháng 7 năm 2013 của Chính phủ về quản lý, cung cấp, sử dụng dịch vụ Internet và thông tin trên mạng; Theo đề nghị của Cục trưởng Cục Công nghệ thông tin; Thống đốc Ngân hàng Nhà nước Việt Nam ban hành Thông tư quy định về việc quản lý và sử dụng mạng máy tính của Ngân hàng Nhà nước Việt Nam.\nChương I\nQUY ĐỊNH CHUNG\nĐiều 1. Phạm vi điều chỉnh và đối tượng áp dụng\n1. Thông tư này quy định việc quản lý\nvà sử dụng mạng máy tính của Ngân hàng Nhà nước Việt Nam (sau đây gọi là mạng Ngân hàng Nhà nước).\n2. Thông tư này áp dụng đối với các\ncá nhân, đơn vị thuộc Ngân hàng Nhà nước Việt Nam (sau đây gọi là Ngân hàng Nhà nước), tổ chức bên ngoài kết nối, sử dụng mạng Ngân hàng Nhà nước.\n3. Các đơn vị sự nghiệp thuộc cơ cấu\ntổ chức Ngân hàng Nhà nước được kết nối, sử dụng mạng Ngân hàng Nhà nước theo hướng dẫn của Cục Công nghệ thông tin.\nĐiều 2. Giải thích từ ngữ Trong Thông tư này các từ ngữ dưới đây được hiểu như sau:\n1. Đơn vị thuộc Ngân hàng Nhà nước là các đơn vị hành chính thuộc\ncơ cấu tổ chức của Ngân hàng Nhà nước.\n2. Đơn vị quản lý tài sản là\nđơn vị thuộc Ngân hàng Nhà nước được giao nhiệm vụ quản lý tài sản.\n3. Đơn vị sử dụng tài sản là\nđơn vị thuộc Ngân hàng Nhà nước được giao sử dụng tài sản.\n4. Người sử dụng là cá nhân, đơn\nvị thuộc Ngân hàng Nhà nước kết nối, sử dụng mạng Ngân hàng Nhà nước.\n5. Cán bộ kỹ thuật là người được\nđào tạo về chuyên môn công nghệ thông tin và được giao nhiệm vụ quản lý, vận hành hệ thống công nghệ thông tin tại đơn vị hành chính thuộc cơ cấu tổ chức của Ngân hàng Nhà nước.\n6. Tổ chức bên ngoài kết nối, sử dụng\nmạng Ngân hàng Nhà nước (sau đây gọi là tổ chức bên ngoài) bao gồm: tổ chức tín dụng, chi nhánh ngân hàng nước ngoài và tổ chức khác kết nối, sử dụng mạng Ngân hàng Nhà nước.\n7. Trung tâm dữ liệu là trung\ntâm dữ liệu của Ngân hàng Nhà nước, bao gồm Trung tâm dữ liệu chính và Trung tâm dữ liệu dự phòng.\n8. Mạng Ngân hàng Nhà nước bao\ngồm mạng cục bộ Ngân hàng Nhà nước và mạng diện rộng Ngân hàng Nhà nước.\n9. Mạng cục bộ Ngân hàng Nhà nước\nlà hệ thống mạng kết nối các thiết bị đầu cuối trong phạm vi một khu vực thuộc trụ sở Ngân hàng Nhà nước.\n10. Mạng diện rộng Ngân hàng Nhà\nnước là hệ thống mạng kết nối giữa Trung tâm dữ liệu và các mạng cục bộ Ngân hàng Nhà nước.\n11. Mạng Internet Ngân hàng Nhà nước\nlà hệ thống mạng cung cấp dịch vụ Internet cho người sử dụng tại Ngân hàng Nhà nước.\n12. Mạng không dây là hệ thống\nmạng kết nối các thiết bị đầu cuối thông qua sóng radio hoặc sóng cực ngắn.\n13. Thiết bị đầu cuối là các\nthiết bị bao gồm máy trạm làm việc, máy in, máy quét, máy Fax, điện thoại sử dụng địa chỉ IP, các loại thiết bị di động thông minh có kết nối mạng.\n14. Hạ tầng truyền dẫn mạng diện rộng\nlà hệ thống đường truyền dẫn của Ngân hàng Nhà nước và các kênh truyền dẫn Ngân hàng Nhà nước thuê của các tổ chức cung cấp dịch vụ viễn thông.\n15. Hạ tầng truyền dẫn mạng cục bộ\nlà hệ thống cáp truyền dẫn nội bộ và ổ kết nối mạng.\n16. Trang thiết bị mạng gồm\nthiết bị chuyển mạch, thiết bị định tuyến, thiết bị truyền dẫn, thiết bị an ninh bảo mật mạng, thiết bị cân bằng tải, các phần mềm hệ thống và giám sát mạng.\n17. Lớp mạng lõi là lớp mạng của\nhệ thống mạng có nhiệm vụ kết nối các lớp mạng với nhau.\n18. Lớp mạng phân phối là lớp mạng có nhiệm vụ làm giao diện kết nối\ngiữa lớp mạng truy cập và lớp mạng lõi.\n19. Lớp mạng truy cập là lớp mạng\nphục vụ kết nối người sử dụng với các hệ thống.\n20. Phân vùng mạng là các vùng\nriêng trong hệ thống mạng cục bộ được chia tách theo đối tượng sử dụng, mục đích sử dụng gồm: Phân vùng mạng cho máy chủ nghiệp vụ, phân vùng mạng trung gian (phân vùng DMZ) để cung cấp dịch vụ trên Internet, phân vùng mạng để cung cấp dịch vụ mạng không dây và phân vùng mạng quản trị để theo dõi quản trị mạng Ngân hàng Nhà nước.\n21. Tên định danh là tên duy nhất\ngán cho các thiết bị đầu cuối kết nối, truy cập mạng Ngân hàng Nhà nước.\n22. Dịch vụ hội nghị truyền hình\nlà công nghệ truyền hình ảnh, âm thanh qua mạng thông tin sử dụng bộ giao thức\nTCP/IP.\nĐiều 3. Kiến trúc mạng Ngân hàng Nhà nước\n1. Kiến trúc logic mạng Ngân hàng Nhà\nnước:\na) Kiến trúc logic mạng cục bộ Ngân\nhàng Nhà nước bao gồm các lớp chính sau: lớp mạng lõi, lớp mạng phân phối, lớp mạng truy cập;\nb) Kiến trúc logic mạng cục bộ Ngân\nhàng Nhà nước tại Trung tâm dữ liệu bao gồm các phân vùng chính sau: phân vùng mạng cho máy chủ nghiệp vụ, phân vùng mạng Internet, phân vùng mạng Intranet, phân vùng mạng Extranet, phân vùng DMZ và phân vùng mạng quản trị;\nc) Kiến trúc logic mạng cục bộ tại\ncác đơn vị hành chính thuộc cơ cấu tổ chức của Ngân hàng Nhà nước bao gồm các phân vùng chính sau: phân vùng mạng Intranet, phân vùng mạng Extranet, phân vùng mạng Internet và phân vùng mạng quản trị;\nd) Kiến trúc mạng diện rộng Ngân hàng\nNhà nước bao gồm các kết nối mạng giữa Trung tâm dữ liệu chính và Trung tâm dữ liệu dự phòng; Trung tâm dữ liệu với các đơn vị Ngân hàng Nhà nước và Ngân hàng Nhà nước chi nhánh tỉnh, thành phố; Cổng giao tiếp kết nối giữa Ngân hàng Nhà nước với các tổ chức bên ngoài.\n2. Kiến trúc vật lý mạng Ngân hàng Nhà\nnước bao gồm: trang thiết bị mạng, hạ tầng truyền dẫn mạng cục bộ và hạ tầng truyền dẫn mạng diện rộng.\n3. Phân chia hệ thống mạng cục bộ\nthành các phân vùng mạng theo phạm vi truy cập và kiểm soát truy cập giữa các phân vùng mạng bằng tường lửa.\nĐiều 4. Nguyên tắc về xây dựng, quản lý và sử dụng mạng Ngân hàng Nhà nước\n1. Mạng Ngân hàng Nhà nước phải được\nthiết kế, xây dựng có khả năng mở rộng và ứng dụng công nghệ mạng tiên tiến, có tính sẵn sàng cao, đảm bảo an toàn, bảo mật và băng thông đáp ứng nhu cầu hoạt động, nghiệp vụ của Ngân hàng Nhà nước.\n2. Mạng Ngân hàng Nhà nước được thiết\nkế, xây dựng theo định hướng mạng thông minh, ảo hóa hạ tầng mạng để hướng tới tối ưu hóa công tác quản lý, sử dụng tài nguyên mạng và hướng đến hỗ trợ xây dựng điện toán đám mây của Ngân hàng Nhà nước.\n3. Mạng Ngân hàng Nhà nước được quản\nlý tập trung, thống nhất tại Cục Công nghệ thông tin và có sự phân công, phân cấp quản lý cho các đơn vị quản lý tài sản.\n4. Người sử dụng chỉ được sử dụng mạng\nNgân hàng Nhà nước phục vụ cho các hoạt động chuyên môn, nghiệp vụ.\n5. Việc sử dụng và chia sẻ thông tin\ntrên mạng Ngân hàng Nhà nước phải tuân thủ quy định của Ngân hàng Nhà nước về an toàn hệ thống thông tin trong hoạt động ngân hàng và các quy định của pháp luật có liên quan.\n6. Người sử dụng không tuân thủ quy định\ntại Điều 23 Thông tư này sẽ bị tạm ngừng cung cấp dịch vụ mạng Ngân hàng Nhà nước. Tổ chức bên ngoài không tuân thủ quy định tại Điều 14 Thông tư này sẽ bị xem xét hủy kết nối với mạng Ngân hàng Nhà nước.\nĐiều 5. Tài nguyên và dịch vụ mạng Ngân hàng Nhà nước\n1. Tài nguyên mạng Ngân hàng Nhà nước\ngồm:\na) Hạ tầng truyền dẫn, các trang thiết\nbị mạng;\nb) Hệ thống địa chỉ IP, hệ thống tên\nmiền, tên định danh các thiết bị.\n2. Dịch vụ mạng Ngân hàng Nhà nước gồm:\ndịch vụ truyền dữ liệu, dịch vụ hội nghị truyền hình, dịch vụ giám sát, quản trị mạng và các dịch vụ mạng khác.\nĐiều 6. Bảo đảm tính sẵn sàng và an toàn hệ thống mạng Ngân hàng Nhà nước\n1. Mạng Ngân hàng Nhà nước phải được\ntrang bị hệ thống kỹ thuật cho việc quản lý, giám sát mạng nhằm phát hiện, ngăn chặn các truy cập trái phép và đảm bảo an toàn dữ liệu trao đổi trên môi trường mạng.\n2. Kết nối mạng giữa các tổ chức bên\nngoài với mạng Ngân hàng Nhà nước phải được kiểm soát bởi các hệ thống an ninh mạng và tuân thủ quy định của Ngân hàng Nhà nước về an toàn hệ thống thông tin trong hoạt động ngân hàng.\n3. Việc kết nối giữa mạng Ngân hàng\nNhà nước với các đơn vị cấp trung ương, hội sở chính thuộc các tổ chức bên ngoài thông qua tối thiểu 02 đường truyền độc lập về hạ tầng cáp truyền dẫn.\n4. Dữ liệu truyền giữa mạng Ngân hàng\nNhà nước với các tổ chức bên ngoài phải được mã hóa trên đường truyền.\n5. Các thiết bị đầu cuối kết nối, sử dụng tài nguyên và dịch vụ mạng Ngân hàng Nhà nước\nphải được xác thực bởi hệ thống an ninh mạng, cài đặt phần mềm phòng, chống mã độc, cập nhật các bản vá lỗ hổng bảo mật của hệ điều hành tối thiểu 03 tháng một lần theo hướng dẫn của Cục Công nghệ thông tin.\nChương II\nQUY ĐỊNH CỤ THỂ\nMục 1. Mạng cục bộ\nNgân hàng Nhà nước\nĐiều 7. Quy định về lắp đặt mới, nâng cấp và sửa chữa\n1. Hoạt động lắp đặt mới, nâng cấp hoặc\nsửa chữa mạng cục bộ Ngân hàng Nhà nước phải đáp ứng yêu cầu về kiến trúc mạng Ngân hàng Nhà nước được quy định tại Điều 3 Thông tư này và kiến trúc hạ tầng an ninh bảo mật hệ thống công nghệ thông tin Ngân hàng Nhà nước.\n2. Đối với lắp đặt mới và nâng cấp hạ\ntầng truyền dẫn mạng cục bộ: Các đơn vị quản lý tài sản lập hồ sơ thiết kế hạ tầng truyền dẫn gửi Cục Công nghệ thông tin thẩm định về mặt kỹ thuật trước khi trình cấp có thẩm quyền phê duyệt.\n3. Đối với lắp đặt mới và nâng cấp\ntrang thiết bị mạng: Hàng năm, Cục Công nghệ thông tin thực hiện theo quy định của Ngân hàng Nhà nước về quản lý và thực hiện đầu tư đối với các hoạt động ứng dụng công nghệ thông tin trong hệ thống Ngân hàng Nhà nước.\n4. Sửa chữa mạng cục bộ phải đảm bảo\nkhông thay đổi cấu hình kỹ thuật, thiết kế mạng cục bộ tại đơn vị.\n5. Đối với sửa chữa hạ tầng truyền dẫn\nmạng cục bộ:\na) Đơn vị sử dụng tài sản nhưng không\nphải là đơn vị quản lý tài sản khi phát sinh nhu cầu sửa chữa thì thông báo cho đơn vị quản lý tài sản;\nb) Đơn vị quản lý tài sản chủ động thực\nhiện tổ chức sửa chữa tuân thủ Quy chế quản lý tài chính của Ngân hàng Nhà nước và thông báo cho Cục Công nghệ thông tin để phối hợp về kỹ thuật trước khi thực hiện.\n6. Đối với sửa chữa trang thiết bị mạng,\nđơn vị quản lý tài sản thông báo cho Cục Công nghệ thông tin để phối hợp xác định tình trạng thiết bị và xử lý như sau:\na) Với các trang thiết bị còn trong\nthời hạn bảo hành hoặc đã được ký hợp đồng bảo trì thì thực hiện sửa chữa thiết bị theo hợp đồng đã ký;\nb) Với các trang thiết bị hết thời hạn\nbảo hành và không có hợp đồng bảo trì, đơn vị quản lý tài sản thực hiện tổ chức sửa chữa tuân thủ Quy chế quản lý tài chính của Ngân hàng Nhà nước và thông báo cho Cục Công nghệ thông tin để phối hợp về kỹ thuật.\n7. Đơn vị quản lý tài sản phải xây dựng,\ncập nhật và lưu trữ tài liệu thiết kế và bản vẽ hoàn công mạng cục bộ khi lắp đặt mới, nâng cấp hoặc sửa chữa.\nĐiều 8. Quy định về bảo trì, kiểm tra định kỳ và xử lý sự cố\n1. Quy định về bảo trì:\na) Mạng cục bộ Ngân hàng Nhà nước tại\nTrung tâm dữ liệu phải được bảo trì định kỳ tối thiểu 02 lần trong một năm; Mạng cục bộ tại các đơn vị hành chính thuộc cơ cấu tổ chức của Ngân hàng Nhà nước phải được bảo trì định kỳ tối thiểu 01 lần trong một năm;\nb) Việc thực hiện bảo trì không được\nlàm gián đoạn và ảnh hưởng đến hoạt động nghiệp vụ của Ngân hàng Nhà nước;\nc) Quá trình bảo trì phải được ghi nhật\nký về tình trạng hoạt động trước và sau khi bảo trì;\nd) Đối với các trang thiết bị đã được\nký hợp đồng bảo trì thì thực hiện bảo trì theo hợp đồng đã ký;\nđ) Đối với trường hợp các trang thiết\nbị mạng hết thời gian bảo hành và không có hợp đồng bảo trì, thực hiện như sau: (i) Cục Công nghệ thông tin xây dựng quy trình bảo trì mạng cho các đơn vị quản lý tài sản và phối hợp bảo trì từ xa các trang thiết bị mạng; (ii) Đơn vị quản lý tài sản thực hiện bảo trì các trang thiết bị mạng do đơn vị quản lý theo quy trình bảo trì mạng do Cục Công nghệ thông tin ban hành;\ne) Đơn vị quản lý tài sản chịu trách\nnhiệm bảo trì đối với hạ tầng truyền dẫn do đơn vị quản lý.\n2. Quy định về kiểm tra định kỳ:\na) Cục Công nghệ thông tin xây dựng\nvà ban hành quy trình kiểm tra định kỳ hệ thống mạng cục bộ;\nb) Đơn vị quản lý tài sản thực hiện\nkiểm tra định kỳ hệ thống mạng Cục bộ theo quy trình kiểm tra do Cục Công nghệ thông tin ban hành.\n3. Quy định về xử lý sự cố:\na) Cục Công nghệ thông tin xây dựng\nvà ban hành quy trình và hướng dẫn xử lý sự cố;\nb) Khi phát sinh sự cố, đơn vị quản lý\ntài sản ghi nhật ký và thực hiện xử lý sự cố theo quy trình và hướng dẫn của Cục Công nghệ thông tin. Đối với các sự cố phát sinh không có trong quy trình và hướng dẫn hoặc đã thực hiện theo quy trình và hướng dẫn nhưng không xử lý được, đơn vị quản lý tài sản thông báo cho Cục Công nghệ thông tin để phối hợp xử lý;\nc) Trường hợp sự cố do Cục Công nghệ thông tin xử lý thì thông báo cho đơn vị quản lý tài sản\nvà đơn vị sử dụng tài sản biết thời gian, kế hoạch khắc phục.\nĐiều 9. Quy định về quản trị và sử dụng\n1. Các thiết bị đầu cuối chỉ được\nphép kết nối vào lớp mạng truy cập.\n2. Cục Công nghệ thông tin quy định\nviệc cấp phát, sử dụng thống nhất địa chỉ IP, tên định danh các trang thiết bị và kiểm soát các thiết bị kết nối vào mạng cục bộ Ngân hàng Nhà nước.\nMục 2. Mạng diện rộng\nNgân hàng Nhà nước\nĐiều 10. Quy định về lắp đặt mới, nâng cấp và sửa chữa\n1. Hàng năm, Cục Công nghệ thông tin\nlập kế hoạch lắp đặt mới hoặc nâng cấp mạng diện rộng trình cấp có thẩm quyền phê duyệt. Cục Công nghệ thông tin thực hiện lắp đặt mới và nâng cấp mạng diện rộng theo kế hoạch đã được phê duyệt.\n2. Cục Công nghệ thông tin đầu mối tổ\nchức thực hiện việc sửa chữa các trang thiết bị mạng diện rộng Ngân hàng Nhà nước.\nĐiều 11. Quy định về bảo trì, kiểm tra định kỳ và xử lý sự cố\n1. Quy định về bảo trì:\na) Mạng diện rộng phải được bảo trì định\nkỳ tối thiểu 02 lần một năm, gồm 01 lần bảo trì tại chỗ và 01 lần bảo trì từ xa;\nb) Việc bảo trì mạng diện rộng không\nđược làm gián đoạn và ảnh hưởng đến hoạt động nghiệp vụ của Ngân hàng Nhà nước;\nc) Quá trình bảo trì phải thực hiện\ntheo đúng kịch bản được phê duyệt, ghi nhật ký về tình trạng hoạt động trước và sau khi bảo trì;\nd) Cục Công nghệ thông tin xây dựng kế\nhoạch, phương án bảo trì, chủ trì và thông báo cho các đơn vị quản lý tài sản, đơn vị sử dụng tài sản phối hợp thực hiện việc bảo trì. Trong trường hợp thuê dịch vụ bảo trì, Cục Công nghệ thông tin thực hiện theo quy định hiện hành;\nđ) Đơn vị quản lý tài sản phối hợp với\nCục Công nghệ thông tin trong việc thực hiện và xác nhận kết quả bảo trì.\n2. Quy định về kiểm tra định kỳ và xử\nlý sự cố:\na) Cục Công nghệ thông tin thực hiện\nxây dựng, ban hành quy trình và hướng dẫn kiểm tra định kỳ, xử lý sự cố;\nb) Đơn vị quản lý tài sản thực hiện\nkiểm tra, ghi nhật ký định kỳ và thực hiện xử lý sự cố theo quy trình và hướng dẫn của Cục Công nghệ thông tin.\nĐiều 12. Quy định về quản trị và sử dụng Cục Công nghệ thông tin chịu trách nhiệm:\n1. Quản trị và kiểm soát tập trung mạng\ndiện rộng Ngân hàng Nhà nước.\n2. Xây dựng, cập nhật và lưu trữ tài liệu\nthiết kế và bản vẽ hoàn công mạng diện rộng khi lắp đặt mới, nâng cấp hoặc sửa chữa.\n3. Ghi nhật ký hoạt động hàng ngày và\nlập báo cáo đánh giá tổng thể hệ thống mạng diện rộng định kỳ 01 lần trong sáu tháng.\nMục 3. Kết nối với\nmạng Ngân hàng Nhà nước\nĐiều 13. Quản lý kết nối mạng Ngân hàng Nhà nước\n1. Ngân hàng Nhà nước (Cục Công nghệ\nthông tin) thống nhất quản lý phương thức kết nối và dải địa chỉ IP đối với các thiết bị đầu cuối của các tổ chức bên ngoài khi kết nối với mạng Ngân hàng Nhà nước.\n2. Các tổ chức bên ngoài thực hiện kết\nnối, thay đổi kết nối với mạng Ngân hàng Nhà nước theo quy định tại Điều 15 Thông tư này; hủy kết nối với mạng Ngân hàng Nhà nước theo quy định tại Điều 16 Thông tư này.\n3. Trường hợp bổ sung thiết bị, thay\nđổi đường truyền, các tổ chức bên ngoài gửi văn bản, tài liệu thiết kế, cấu hình và phương án thực hiện về Cục Công nghệ thông tin trước khi triển khai.\nĐiều 14. Yêu cầu kết nối với mạng Ngân hàng Nhà nước\n1. Tuân thủ các quy định về kết nối mạng\nNgân hàng Nhà nước.\n2. Đảm bảo an toàn bảo mật theo quy định\nvề an toàn hệ thống thông tin trong hoạt động của Ngân hàng Nhà nước đối với các thiết bị đầu cuối, thiết bị mạng và đường truyền kết nối với mạng Ngân hàng Nhà nước.\n3. Có đủ trang thiết bị kỹ thuật để kết\nnối mạng và đảm bảo an toàn bảo mật thông tin trên đường truyền theo quy định hiện hành của Ngân hàng Nhà nước.\n4. Có đội ngũ cán bộ kỹ thuật có\ntrình độ, khả năng quản trị các thiết bị đầu cuối kết nối, trang thiết bị mạng của tổ chức.\n5. Lựa chọn nhà cung cấp dịch vụ đường\ntruyền, băng thông, chi trả các chi phí kết nối lắp đặt, chi phí thuê bao, chi phí sửa chữa và bảo trì đường truyền kết nối tới Ngân hàng Nhà nước.\nĐiều 15. Hướng dẫn thực hiện kết nối hoặc thay đổi kết nối với mạng Ngân hàng Nhà nước\n1. Tổ chức bên ngoài có nhu cầu kết nối\nhoặc thay đổi kết nối với mạng Ngân hàng Nhà nước lập văn bản đề nghị hướng dẫn kết nối, thay đổi kết nối theo Phụ lục 01 kèm theo Thông tư này gửi qua đường bưu điện hoặc nộp trực tiếp tại Ngân hàng Nhà nước (Cục Công nghệ thông tin) hoặc qua cổng dịch vụ công của Ngân hàng Nhà nước.\n2. Trong thời hạn 07 ngày làm việc kể\ntừ ngày nhận được văn bản đề nghị, Cục Công nghệ thông tin thông báo đến các đơn vị liên quan và hướng dẫn thực hiện kết nối.\nĐiều 16. Hướng dẫn hủy kết nối với mạng Ngân hàng Nhà nước\n1. Tổ chức bên ngoài không còn nhu cầu\nkết nối với mạng Ngân hàng Nhà nước, lập văn bản đề nghị hướng dẫn hủy kết nối theo Phụ lục 02 kèm theo Thông tư này gửi qua đường bưu điện hoặc nộp trực tiếp tại Ngân hàng Nhà nước (Cục Công nghệ thông tin) hoặc qua cổng dịch vụ công của Ngân hàng Nhà nước.\n2. Trong thời hạn 05 ngày làm việc kể\ntừ ngày nhận được văn bản đề nghị, Công nghệ thông tin thông báo đến các đơn vị liên quan và hướng dẫn thực hiện hủy kết nối.\nMục 4. Kết nối\nInternet\nĐiều 17. Quản lý kết nối Internet\n1. Các máy tính thuộc mạng cục bộ\nNgân hàng Nhà nước kết nối Internet phải thông qua các cổng kết nối tập trung do Cục Công nghệ thông tin thiết lập và quản lý.\n2. Các máy tính thuộc mạng cục bộ\nNgân hàng Nhà nước kết nối sử dụng hệ thống thông tin có cấp độ từ 3 trở lên của Ngân hàng Nhà nước theo quy định Chính phủ về bảo đảm an toàn hệ thống thông tin theo cấp độ không được kết nối Internet.\n3. Trường hợp các đơn vị có máy tính\nthuộc mạng cục bộ Ngân hàng Nhà nước có nhu cầu kết nối trực tiếp Internet không qua cổng kết nối do Cục Công nghệ thông tin thiết lập và quản lý, đơn vị phải trình Thống đốc Ngân hàng Nhà nước xem xét phê duyệt (qua Cục Công nghệ thông tin).\n4. Các máy tính không thuộc mạng cục\nbộ Ngân hàng Nhà nước kết nối mạng Internet do Thủ trưởng đơn vị sử dụng tài sản quyết định và phải tuân thủ quy định của Ngân hàng Nhà nước về an toàn hệ thống thông tin trong hoạt động ngân hàng và các quy định của pháp luật có liên quan.\n5. Không được sử dụng các thiết bị kết\nnối Internet không qua cổng kết nối do Cục Công nghệ thông tin thiết lập và quản lý để kết nối trực tiếp vào mạng Ngân hàng Nhà nước trừ trường hợp quy định tại khoản 3 Điều này.\nĐiều 18. Yêu cầu kết nối Internet\n1. Các thiết bị đầu cuối kết nối\nInternet thông qua cổng kết nối tập trung do Cục Công nghệ thông tin quản lý phải tham gia Domain Ngân hàng Nhà nước, cài đặt các phần mềm phòng, chống mã độc, phần mềm an ninh và được cập nhật bản vá hệ điều hành, các phần mềm khác theo hướng dẫn của Cục Công nghệ thông tin.\n2. Người sử dụng kết nối Internet qua\ncổng kết nối tập trung do Cục Công nghệ thông tin quản lý phải sử dụng tài khoản truy cập do Cục Công nghệ thông tin cấp.\nĐiều 19. Quy định về giám sát và kiểm soát kết nối Internet\n1. Cục Công nghệ thông tin chịu trách\nnhiệm thiết lập hệ thống an ninh mạng đảm bảo an toàn bảo mật giữa mạng Ngân hàng Nhà nước và Internet.\n2. Cục Công nghệ thông tin chịu trách\nnhiệm quản lý, thiết lập chính sách và kiểm soát các thiết bị thuộc mạng Ngân hàng Nhà nước kết nối ra Internet.\n3. Cục Công nghệ thông tin quản lý và\ncấp phát tài khoản truy cập Internet của người sử dụng. Trong trường hợp cần thiết, để đảm bảo an toàn cho hệ thống mạng Ngân hàng Nhà nước, Cục Công nghệ thông tin có quyền chủ động tạm ngừng hoặc thu hồi tài khoản truy cập Internet và gửi thông báo đến cá nhân, đơn vị người sử dụng.\nĐiều 20. Quy định về kết nối mạng không dây, thiết bị di động\n1. Hệ thống mạng không dây kết nối Internet\ncủa Ngân hàng Nhà nước phải được thiết kế, xây dựng độc lập với hệ thống mạng Ngân hàng Nhà nước.\n2. Cục Công nghệ thông tin quản lý hoạt\nđộng của các thiết bị mạng cung cấp dịch vụ không dây kết nối Internet và kiểm soát thiết bị truy cập mạng không dây đến mạng Ngân hàng Nhà nước.\nMục 5. Trách nhiệm\ntrong quản lý và sử dụng mạng Ngân hàng Nhà nước\nĐiều 21. Trách nhiệm của Cục Công nghệ thông tin\n1. Quản lý kỹ thuật mạng Ngân hàng\nNhà nước.\n2. Quản lý việc cấp phát và sử dụng\ntài nguyên mạng Ngân hàng Nhà nước trong phạm vi phân cấp quản lý.\n3. Theo dõi, giám sát hoạt động của hệ\nthống mạng Ngân hàng Nhà nước đảm bảo hoạt động liên tục, ổn định và an toàn.\n4. Cảnh báo và hướng dẫn các đơn vị\nNgân hàng Nhà nước khắc phục các lỗ hổng bảo mật và các nguy cơ rủi ro đến hoạt động của mạng Ngân hàng Nhà nước sau khi phát hiện và đánh giá về mức độ nghiêm trọng.\n5. Thông báo cho đơn vị quản lý tài sản\ntối thiểu 03 ngày làm việc trước ngày tạm ngừng cung cấp dịch vụ mạng để sửa chữa, nâng cấp hoặc bảo trì.\n6. Tổ chức kiểm tra kết nối mạng của\ncác tổ chức bên ngoài với mạng Ngân hàng Nhà nước.\n7. Nghiên cứu, áp dụng các công nghệ\ntiên tiến để xây dựng, quản lý, vận hành mạng Ngân hàng Nhà nước theo định hướng tập trung, thống nhất.\n8. Nghiên cứu xây dựng hạ tầng mạng\nNgân hàng Nhà nước hướng đến hoạt động theo chế độ song song (Active/Active) giữa các Trung tâm dữ liệu Ngân hàng Nhà nước.\n9. Tổ chức đào tạo, hướng dẫn cho các\nđơn vị, cá nhân thuộc Ngân hàng Nhà nước về quản lý, sử dụng mạng Ngân hàng Nhà nước.\n10. Thực hiện các nhiệm vụ khác của\nquy định tại Thông tư này.\nĐiều 22. Trách nhiệm của đơn vị quản lý tài sản\n1. Tổ chức hướng dẫn và kiểm tra việc\nsử dụng mạng cục bộ do đơn vị quản lý.\n2. Phối hợp với Cục Công nghệ thông\ntin trong việc kết nối, thay đổi kết nối và hủy kết nối mạng đối với các tổ chức có kết nối về đơn vị mình.\n3. Kiểm tra kết nối mạng của các tổ\nchức bên ngoài với mạng Ngân hàng Nhà nước thông qua cổng kết nối do Cục Công nghệ thông tin thiết lập và quản lý.\n4. Phối hợp với Cục Công nghệ thông\ntin trong công tác quản lý kết nối mạng của các tổ chức bên ngoài có kết nối đến đơn vị.\n5. Phân công cán bộ kỹ thuật quản lý\ncác trang thiết bị mạng và phối hợp xử lý các sự cố phát sinh tại đơn vị.\n6. Đảm bảo các điều kiện cần thiết\ncho các trang thiết bị mạng tại đơn vị hoạt động an toàn và ổn định.\nĐiều 23. Trách nhiệm của người sử dụng\n1. Sử dụng tài nguyên, khai thác\nthông tin trên mạng Ngân hàng Nhà nước và Internet trong phạm vi cho phép và chịu sự giám sát, kiểm soát của Cục Công nghệ thông tin.\n2. Tuân thủ quy\nđịnh của Ngân hàng Nhà nước về an toàn hệ thống thông tin trong hoạt động ngân hàng và các quy định của pháp luật có liên quan.\n3. Tuân thủ các quy định của Ngân\nhàng Nhà nước và của pháp luật về việc kết nối, sử dụng, khai thác Internet.\n4. Chỉ được sử dụng, cài đặt các công\ncụ, phần mềm theo quy định của Ngân hàng Nhà nước khi tham gia vào hệ thống mạng Ngân hàng Nhà nước.\n5. Trường hợp phát sinh sự cố hoặc có\ndấu hiệu không an toàn khi sử dụng mạng Ngân hàng Nhà nước, thông báo cho cán bộ kỹ thuật tại đơn vị quản lý tài sản để được hướng dẫn và hỗ trợ khắc phục.\n6. Phối hợp với cán bộ phận kỹ thuật\ntrong việc xử lý và xác nhận kết quả xử lý sự cố.\nChương III\nĐIỀU KHOẢN THI HÀNH\nĐiều 24. Hiệu lực thi hành Thông tư này có hiệu lực thi hành kể từ ngày 01 tháng 3 năm 2019 và thay thế Thông tư số 11/2012/QĐ-NHNN ngày 25 tháng 4 năm 2012 của Thống đốc Ngân hàng Nhà nước Việt Nam ban hành quy định quản lý và sử dụng mạng máy tính của Ngân hàng Nhà nước Việt Nam.\nĐiều 25. Tổ chức thực hiện Chánh Văn phòng, Cục trưởng Cục Công nghệ thông tin, Thủ trưởng các đơn vị liên quan thuộc Ngân hàng Nhà nước, Chủ tịch Hội đồng quản trị, Hội đồng thành viên, Tổng giám đốc (Giám đốc) các tổ chức tín dụng, chi nhánh ngân hàng nước ngoài và các tổ chức liên quan chịu trách nhiệm tổ chức thực hiện Thông tư này./.\nNơi nhận:\n- Như Điều 25;\n- Ban Lãnh đạo NHNN;\n- Văn phòng Chính phủ;\n- Bộ Tư pháp (để kiểm tra);\n- Công báo;\n- Lưu: VP, PC, CNTT (03 bản).\nKT. THỐNG ĐỐC\nPHÓ THỐNG ĐỐC\nNguyễn Kim Anh\nPHỤ LỤC 01\n(Ban hành kèm theo Thông tư số 34/2018/TT-NHNN ngày\n24 tháng 12 năm 2018 của Thống đốc Ngân hàng nhà Nước) Tên tổ chức: Số:\nCỘNG\nHÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc --------------- ........, ngày tháng năm\nĐỀ NGHỊ HƯỚNG DẪN KẾT NỐI, THAY ĐỔI KẾT\nNỐI VỚI MẠNG NGÂN HÀNG NHÀ NƯỚC VIỆT NAM\nKính gửi: Ngân hàng Nhà nước Việt Nam (Cục Công nghệ thông tin) A. Thông tin chung Mã tổ chức(1): Tên tổ chức: Địa chỉ: Điện thoại: Fax: Đầu mối liên hệ (Tên cán bộ, địa chỉ email, số điện thoại): B. Phần đề nghị Chúng tôi đã nghiên cứu và đồng ý các quy định về kết nối mạng Ngân hàng Nhà nước Việt Nam được quy định tại Thông tư số ___/2018/TT-NHNN. Chúng tôi đề nghị được hướng dẫn [kết nối I thay đổi kết nối ] với mạng Ngân hàng Nhà nước Việt Nam với các thông tin chi tiết như sau:\n1. Địa chỉ điểm kết nối (TCTD\\QTDNN):\n2. Loại hình: [Hội sở chính/Chi\nnhánh]\n3. Kết nối chính thức:\na. Phương thức kết nối: [Metronet\\Leased-line\\MegaWan\\Khác] b. Băng thông kết nối: ______(Kbps/Mbps) c. Nhà cung cấp dịch vụ: [VNPT\\FTP Telecom\\ Viettel\\Khác]\n4. Kết nối dự phòng:\na. Phương thức kết nối: [Metronet\\Leased-line\\MegaWan\\ Khác] b. Băng thông kết nối: ______(Kbps/Mbps) c. Nhà cung cấp dịch vụ: [VNPT\\FTP Telecom\\ Viettel\\Khác]\n5. Thời điểm kết nối (dự kiến):\n6. Mục đích sử dụng: [Thanh toán\\ Báo cáo\\ Khác]\nĐại diện hợp pháp của tổ chức (Ký, ghi rõ họ tên, đóng dấu) Chú thích: (1): Theo quy định của Ngân hàng Nước về hệ thống mã ngân hàng dùng trong hoạt động, nghiệp vụ ngân hàng.\nPHỤ LỤC 02\n(Ban hành kèm theo Thông tư số 34/2018/TT-NHNN ngày 24 tháng 12 năm 2018 của\nThống đốc Ngân hàng nhà Nước) Tên tổ chức: Số:\nCỘNG\nHÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc --------------- ........, ngày tháng năm\nĐỀ NGHỊ HƯỚNG DẪN HỦY KẾT NỐI VỚI MẠNG\nNGÂN HÀNG NHÀ NƯỚC VIỆT NAM\nKính gửi: Ngân hàng Nhà nước Việt Nam (Cục Công nghệ thông tin) A. Thông tin chung Mã tổ chức(1): Tên tổ chức: Địa chỉ: Điện thoại: Fax: Đầu mối liên hệ (Tên cán bộ, địa chỉ email, số điện thoại): B. Phần đề nghị Chúng tôi đã nghiên cứu và đồng ý các quy định về hủy kết nối mạng Ngân hàng Nhà nước Việt Nam được quy định tại Thông tư ___/2018/TT-NHNN. Chúng tôi đề nghị được hướng dẫn hủy kết nối với mạng Ngân hàng Nhà nước Việt Nam với các thông tin chi tiết như sau:\n1. Địa chỉ điểm kết nối (TCTD\\QTDNN):\n2. Loại hình: [Hội sở chính/Chi\nnhánh]\n3. Kết nối chính thức:\na. Phương thức kết nối: [Metronet\\Leased-line\\MegaWan\\ Khác] b. Băng thông kết nối: ______(Kbps/Mbps) c. Nhà cung cấp dịch vụ: [VNPT\\FTP Telecom\\ Viettel\\Khác]\n4. Kết nối dự phòng:\na. Phương thức kết nối: [Metronet\\Leased-line\\MegaWan\\ Khác] b. Băng thông kết nối: _____(Kbps/Mbps) c. Nhà cung cấp dịch vụ: [VNPT\\FTP Telecom\\ Viettel\\Khác]\n5. Lý do hủy kết nối:\n6. Thời gian đề nghị hủy kết nối (dự\nkiến): Đại diện hợp pháp của tổ chức (Ký, ghi rõ họ tên, đóng dấu) Chú thích: (1): Theo quy định của Ngân hàng Nước về hệ thống mã ngân hàng dùng trong hoạt động, nghiệp vụ ngân hàng.",
+  "tree": {
+    "parts": [
+      {
+        "part_id": "doc:261965:part:1",
+        "part_type": "main",
+        "part_title": null,
+        "reference": null,
+        "direct_text": "THÔNG TƯ\nQUY ĐỊNH QUẢN LÝ VÀ SỬ DỤNG MẠNG MÁY TÍNH CỦA NGÂN HÀNG NHÀ NƯỚC VIỆT NAM\nCăn cứ Luật Ngân hàng Nhà nước Việt Nam ngày 16 tháng 6 năm 2010; Căn cứ Luật Công nghệ thông tin ngày 29 tháng 6 năm 2006; Căn cứ Luật Viễn thông ngày 23 tháng 11 năm 2009; Căn cứ Nghị định số 16/2017/NĐ-CP ngày 17 tháng 02 năm 2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Ngân hàng Nhà nước Việt Nam; Căn cứ Nghị định số 64/2007/NĐ-CP ngày 10 tháng 4 năm 2007 của Chính phủ về ứng dụng Công nghệ thông tin trong hoạt động của cơ quan Nhà nước; Căn cứ Nghị định số 72/2013/NĐ-CP của Chính phủ ngày 15 tháng 7 năm 2013 về quản lý, cung cấp, sử dụng dịch vụ Internet và thông tin trên mạng; Căn cứ Nghị định số 27/2018/NĐ-CP của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 72/2013/NĐ-CP ngày 15 tháng 7 năm 2013 của Chính phủ về quản lý, cung cấp, sử dụng dịch vụ Internet và thông tin trên mạng; Theo đề nghị của Cục trưởng Cục Công nghệ thông tin; Thống đốc Ngân hàng Nhà nước Việt Nam ban hành Thông tư quy định về việc quản lý và sử dụng mạng máy tính của Ngân hàng Nhà nước Việt Nam.",
+        "chapters": [
+          {
+            "chapter_id": "doc:261965:part:1:chapter:1",
+            "number": "I",
+            "title": "QUY ĐỊNH CHUNG",
+            "content": "Chương I\nQUY ĐỊNH CHUNG",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:261965:part:1:article:1",
+                "number": "1",
+                "title": "Phạm vi điều chỉnh và đối tượng áp dụng",
+                "content": "Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng",
+                "clauses": [
+                  {
+                    "clause_id": "doc:261965:part:1:article:1:clause:1",
+                    "number": "1",
+                    "content": "1. Thông tư này quy định việc quản lý\nvà sử dụng mạng máy tính của Ngân hàng Nhà nước Việt Nam (sau đây gọi là mạng Ngân hàng Nhà nước).",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:261965:part:1:article:1:clause:2",
+                    "number": "2",
+                    "content": "2. Thông tư này áp dụng đối với các\ncá nhân, đơn vị thuộc Ngân hàng Nhà nước Việt Nam (sau đây gọi là Ngân hàng Nhà nước), tổ chức bên ngoài kết nối, sử dụng mạng Ngân hàng Nhà nước.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:261965:part:1:article:1:clause:3",
+                    "number": "3",
+                    "content": "3. Các đơn vị sự nghiệp thuộc cơ cấu\ntổ chức Ngân hàng Nhà nước được kết nối, sử dụng mạng Ngân hàng Nhà nước theo hướng dẫn của Cục Công nghệ thông tin.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:261965:part:1:article:2",
+                "number": "2",
+                "title": "Giải thích từ ngữ Trong Thông tư này các từ ngữ dưới đây được hiểu như sau:",
+                "content": "Điều 2. Giải thích từ ngữ Trong Thông tư này các từ ngữ dưới đây được hiểu như sau:",
+                "clauses": [
+                  {
+                    "clause_id": "doc:261965:part:1:article:2:clause:1",
+                    "number": "1",
+                    "content": "1. Đơn vị thuộc Ngân hàng Nhà nước là các đơn vị hành chính thuộc\ncơ cấu tổ chức của Ngân hàng Nhà nước.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:261965:part:1:article:2:clause:2",
+                    "number": "2",
+                    "content": "2. Đơn vị quản lý tài sản là\nđơn vị thuộc Ngân hàng Nhà nước được giao nhiệm vụ quản lý tài sản.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:261965:part:1:article:2:clause:3",
+                    "number": "3",
+                    "content": "3. Đơn vị sử dụng tài sản là\nđơn vị thuộc Ngân hàng Nhà nước được giao sử dụng tài sản.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:261965:part:1:article:2:clause:4",
+                    "number": "4",
+                    "content": "4. Người sử dụng là cá nhân, đơn\nvị thuộc Ngân hàng Nhà nước kết nối, sử dụng mạng Ngân hàng Nhà nước.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:261965:part:1:article:2:clause:5",
+                    "number": "5",
+                    "content": "5. Cán bộ kỹ thuật là người được\nđào tạo về chuyên môn công nghệ thông tin và được giao nhiệm vụ quản lý, vận hành hệ thống công nghệ thông tin tại đơn vị hành chính thuộc cơ cấu tổ chức của Ngân hàng Nhà nước.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:261965:part:1:article:2:clause:6",
+                    "number": "6",
+                    "content": "6. Tổ chức bên ngoài kết nối, sử dụng\nmạng Ngân hàng Nhà nước (sau đây gọi là tổ chức bên ngoài) bao gồm: tổ chức tín dụng, chi nhánh ngân hàng nước ngoài và tổ chức khác kết nối, sử dụng mạng Ngân hàng Nhà nước.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:261965:part:1:article:2:clause:7",
+                    "number": "7",
+                    "content": "7. Trung tâm dữ liệu là trung\ntâm dữ liệu của Ngân hàng Nhà nước, bao gồm Trung tâm dữ liệu chính và Trung tâm dữ liệu dự phòng.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:261965:part:1:article:2:clause:8",
+                    "number": "8",
+                    "content": "8. Mạng Ngân hàng Nhà nước bao\ngồm mạng cục bộ Ngân hàng Nhà nước và mạng diện rộng Ngân hàng Nhà nước.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:261965:part:1:article:2:clause:9",
+                    "number": "9",
+                    "content": "9. Mạng cục bộ Ngân hàng Nhà nước\nlà hệ thống mạng kết nối các thiết bị đầu cuối trong phạm vi một khu vực thuộc trụ sở Ngân hàng Nhà nước.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:261965:part:1:article:2:clause:10",
+                    "number": "10",
+                    "content": "10. Mạng diện rộng Ngân hàng Nhà\nnước là hệ thống mạng kết nối giữa Trung tâm dữ liệu và các mạng cục bộ Ngân hàng Nhà nước.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:261965:part:1:article:2:clause:11",
+                    "number": "11",
+                    "content": "11. Mạng Internet Ngân hàng Nhà nước\nlà hệ thống mạng cung cấp dịch vụ Internet cho người sử dụng tại Ngân hàng Nhà nước.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:261965:part:1:article:2:clause:12",
+                    "number": "12",
+                    "content": "12. Mạng không dây là hệ thống\nmạng kết nối các thiết bị đầu cuối thông qua sóng radio hoặc sóng cực ngắn.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:261965:part:1:article:2:clause:13",
+                    "number": "13",
+                    "content": "13. Thiết bị đầu cuối là các\nthiết bị bao gồm máy trạm làm việc, máy in, máy quét, máy Fax, điện thoại sử dụng địa chỉ IP, các loại thiết bị di động thông minh có kết nối mạng.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:261965:part:1:article:2:clause:14",
+                    "number": "14",
+                    "content": "14. Hạ tầng truyền dẫn mạng diện rộng\nlà hệ thống đường truyền dẫn của Ngân hàng Nhà nước và các kênh truyền dẫn Ngân hàng Nhà nước thuê của các tổ chức cung cấp dịch vụ viễn thông.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:261965:part:1:article:2:clause:15",
+                    "number": "15",
+                    "content": "15. Hạ tầng truyền dẫn mạng cục bộ\nlà hệ thống cáp truyền dẫn nội bộ và ổ kết nối mạng.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:261965:part:1:article:2:clause:16",
+                    "number": "16",
+                    "content": "16. Trang thiết bị mạng gồm\nthiết bị chuyển mạch, thiết bị định tuyến, thiết bị truyền dẫn, thiết bị an ninh bảo mật mạng, thiết bị cân bằng tải, các phần mềm hệ thống và giám sát mạng.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:261965:part:1:article:2:clause:17",
+                    "number": "17",
+                    "content": "17. Lớp mạng lõi là lớp mạng của\nhệ thống mạng có nhiệm vụ kết nối các lớp mạng với nhau.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:261965:part:1:article:2:clause:18",
+                    "number": "18",
+                    "content": "18. Lớp mạng phân phối là lớp mạng có nhiệm vụ làm giao diện kết nối\ngiữa lớp mạng truy cập và lớp mạng lõi.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:261965:part:1:article:2:clause:19",
+                    "number": "19",
+                    "content": "19. Lớp mạng truy cập là lớp mạng\nphục vụ kết nối người sử dụng với các hệ thống.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:261965:part:1:article:2:clause:20",
+                    "number": "20",
+                    "content": "20. Phân vùng mạng là các vùng\nriêng trong hệ thống mạng cục bộ được chia tách theo đối tượng sử dụng, mục đích sử dụng gồm: Phân vùng mạng cho máy chủ nghiệp vụ, phân vùng mạng trung gian (phân vùng DMZ) để cung cấp dịch vụ trên Internet, phân vùng mạng để cung cấp dịch vụ mạng không dây và phân vùng mạng quản trị để theo dõi quản trị mạng Ngân hàng Nhà nước.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:261965:part:1:article:2:clause:21",
+                    "number": "21",
+                    "content": "21. Tên định danh là tên duy nhất\ngán cho các thiết bị đầu cuối kết nối, truy cập mạng Ngân hàng Nhà nước.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:261965:part:1:article:2:clause:22",
+                    "number": "22",
+                    "content": "22. Dịch vụ hội nghị truyền hình\nlà công nghệ truyền hình ảnh, âm thanh qua mạng thông tin sử dụng bộ giao thức\nTCP/IP.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:261965:part:1:article:3",
+                "number": "3",
+                "title": "Kiến trúc mạng Ngân hàng Nhà nước",
+                "content": "Điều 3. Kiến trúc mạng Ngân hàng Nhà nước",
+                "clauses": [
+                  {
+                    "clause_id": "doc:261965:part:1:article:3:clause:1",
+                    "number": "1",
+                    "content": "1. Kiến trúc logic mạng Ngân hàng Nhà\nnước:",
+                    "points": [
+                      {
+                        "point_id": "doc:261965:part:1:article:3:clause:1:point:1",
+                        "label": "a",
+                        "content": "a) Kiến trúc logic mạng cục bộ Ngân\nhàng Nhà nước bao gồm các lớp chính sau: lớp mạng lõi, lớp mạng phân phối, lớp mạng truy cập;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:261965:part:1:article:3:clause:1:point:2",
+                        "label": "b",
+                        "content": "b) Kiến trúc logic mạng cục bộ Ngân\nhàng Nhà nước tại Trung tâm dữ liệu bao gồm các phân vùng chính sau: phân vùng mạng cho máy chủ nghiệp vụ, phân vùng mạng Internet, phân vùng mạng Intranet, phân vùng mạng Extranet, phân vùng DMZ và phân vùng mạng quản trị;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:261965:part:1:article:3:clause:1:point:3",
+                        "label": "c",
+                        "content": "c) Kiến trúc logic mạng cục bộ tại\ncác đơn vị hành chính thuộc cơ cấu tổ chức của Ngân hàng Nhà nước bao gồm các phân vùng chính sau: phân vùng mạng Intranet, phân vùng mạng Extranet, phân vùng mạng Internet và phân vùng mạng quản trị;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:261965:part:1:article:3:clause:1:point:4",
+                        "label": "d",
+                        "content": "d) Kiến trúc mạng diện rộng Ngân hàng\nNhà nước bao gồm các kết nối mạng giữa Trung tâm dữ liệu chính và Trung tâm dữ liệu dự phòng; Trung tâm dữ liệu với các đơn vị Ngân hàng Nhà nước và Ngân hàng Nhà nước chi nhánh tỉnh, thành phố; Cổng giao tiếp kết nối giữa Ngân hàng Nhà nước với các tổ chức bên ngoài.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:261965:part:1:article:3:clause:2",
+                    "number": "2",
+                    "content": "2. Kiến trúc vật lý mạng Ngân hàng Nhà\nnước bao gồm: trang thiết bị mạng, hạ tầng truyền dẫn mạng cục bộ và hạ tầng truyền dẫn mạng diện rộng.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:261965:part:1:article:3:clause:3",
+                    "number": "3",
+                    "content": "3. Phân chia hệ thống mạng cục bộ\nthành các phân vùng mạng theo phạm vi truy cập và kiểm soát truy cập giữa các phân vùng mạng bằng tường lửa.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:261965:part:1:article:4",
+                "number": "4",
+                "title": "Nguyên tắc về xây dựng, quản lý và sử dụng mạng Ngân hàng Nhà nước",
+                "content": "Điều 4. Nguyên tắc về xây dựng, quản lý và sử dụng mạng Ngân hàng Nhà nước",
+                "clauses": [
+                  {
+                    "clause_id": "doc:261965:part:1:article:4:clause:1",
+                    "number": "1",
+                    "content": "1. Mạng Ngân hàng Nhà nước phải được\nthiết kế, xây dựng có khả năng mở rộng và ứng dụng công nghệ mạng tiên tiến, có tính sẵn sàng cao, đảm bảo an toàn, bảo mật và băng thông đáp ứng nhu cầu hoạt động, nghiệp vụ của Ngân hàng Nhà nước.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:261965:part:1:article:4:clause:2",
+                    "number": "2",
+                    "content": "2. Mạng Ngân hàng Nhà nước được thiết\nkế, xây dựng theo định hướng mạng thông minh, ảo hóa hạ tầng mạng để hướng tới tối ưu hóa công tác quản lý, sử dụng tài nguyên mạng và hướng đến hỗ trợ xây dựng điện toán đám mây của Ngân hàng Nhà nước.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:261965:part:1:article:4:clause:3",
+                    "number": "3",
+                    "content": "3. Mạng Ngân hàng Nhà nước được quản\nlý tập trung, thống nhất tại Cục Công nghệ thông tin và có sự phân công, phân cấp quản lý cho các đơn vị quản lý tài sản.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:261965:part:1:article:4:clause:4",
+                    "number": "4",
+                    "content": "4. Người sử dụng chỉ được sử dụng mạng\nNgân hàng Nhà nước phục vụ cho các hoạt động chuyên môn, nghiệp vụ.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:261965:part:1:article:4:clause:5",
+                    "number": "5",
+                    "content": "5. Việc sử dụng và chia sẻ thông tin\ntrên mạng Ngân hàng Nhà nước phải tuân thủ quy định của Ngân hàng Nhà nước về an toàn hệ thống thông tin trong hoạt động ngân hàng và các quy định của pháp luật có liên quan.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:261965:part:1:article:4:clause:6",
+                    "number": "6",
+                    "content": "6. Người sử dụng không tuân thủ quy định\ntại Điều 23 Thông tư này sẽ bị tạm ngừng cung cấp dịch vụ mạng Ngân hàng Nhà nước. Tổ chức bên ngoài không tuân thủ quy định tại Điều 14 Thông tư này sẽ bị xem xét hủy kết nối với mạng Ngân hàng Nhà nước.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:261965:part:1:article:5",
+                "number": "5",
+                "title": "Tài nguyên và dịch vụ mạng Ngân hàng Nhà nước",
+                "content": "Điều 5. Tài nguyên và dịch vụ mạng Ngân hàng Nhà nước",
+                "clauses": [
+                  {
+                    "clause_id": "doc:261965:part:1:article:5:clause:1",
+                    "number": "1",
+                    "content": "1. Tài nguyên mạng Ngân hàng Nhà nước\ngồm:",
+                    "points": [
+                      {
+                        "point_id": "doc:261965:part:1:article:5:clause:1:point:1",
+                        "label": "a",
+                        "content": "a) Hạ tầng truyền dẫn, các trang thiết\nbị mạng;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:261965:part:1:article:5:clause:1:point:2",
+                        "label": "b",
+                        "content": "b) Hệ thống địa chỉ IP, hệ thống tên\nmiền, tên định danh các thiết bị.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:261965:part:1:article:5:clause:2",
+                    "number": "2",
+                    "content": "2. Dịch vụ mạng Ngân hàng Nhà nước gồm:\ndịch vụ truyền dữ liệu, dịch vụ hội nghị truyền hình, dịch vụ giám sát, quản trị mạng và các dịch vụ mạng khác.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:261965:part:1:article:6",
+                "number": "6",
+                "title": "Bảo đảm tính sẵn sàng và an toàn hệ thống mạng Ngân hàng Nhà nước",
+                "content": "Điều 6. Bảo đảm tính sẵn sàng và an toàn hệ thống mạng Ngân hàng Nhà nước",
+                "clauses": [
+                  {
+                    "clause_id": "doc:261965:part:1:article:6:clause:1",
+                    "number": "1",
+                    "content": "1. Mạng Ngân hàng Nhà nước phải được\ntrang bị hệ thống kỹ thuật cho việc quản lý, giám sát mạng nhằm phát hiện, ngăn chặn các truy cập trái phép và đảm bảo an toàn dữ liệu trao đổi trên môi trường mạng.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:261965:part:1:article:6:clause:2",
+                    "number": "2",
+                    "content": "2. Kết nối mạng giữa các tổ chức bên\nngoài với mạng Ngân hàng Nhà nước phải được kiểm soát bởi các hệ thống an ninh mạng và tuân thủ quy định của Ngân hàng Nhà nước về an toàn hệ thống thông tin trong hoạt động ngân hàng.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:261965:part:1:article:6:clause:3",
+                    "number": "3",
+                    "content": "3. Việc kết nối giữa mạng Ngân hàng\nNhà nước với các đơn vị cấp trung ương, hội sở chính thuộc các tổ chức bên ngoài thông qua tối thiểu 02 đường truyền độc lập về hạ tầng cáp truyền dẫn.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:261965:part:1:article:6:clause:4",
+                    "number": "4",
+                    "content": "4. Dữ liệu truyền giữa mạng Ngân hàng\nNhà nước với các tổ chức bên ngoài phải được mã hóa trên đường truyền.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:261965:part:1:article:6:clause:5",
+                    "number": "5",
+                    "content": "5. Các thiết bị đầu cuối kết nối, sử dụng tài nguyên và dịch vụ mạng Ngân hàng Nhà nước\nphải được xác thực bởi hệ thống an ninh mạng, cài đặt phần mềm phòng, chống mã độc, cập nhật các bản vá lỗ hổng bảo mật của hệ điều hành tối thiểu 03 tháng một lần theo hướng dẫn của Cục Công nghệ thông tin.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:261965:part:1:chapter:2",
+            "number": "II",
+            "title": "QUY ĐỊNH CỤ THỂ",
+            "content": "Chương II\nQUY ĐỊNH CỤ THỂ",
+            "sections": [
+              {
+                "section_id": "doc:261965:part:1:section:1",
+                "number": "1",
+                "title": "Ngân hàng Nhà nước",
+                "content": "Mục 1. Mạng cục bộ\nNgân hàng Nhà nước",
+                "articles": [
+                  {
+                    "article_id": "doc:261965:part:1:article:7",
+                    "number": "7",
+                    "title": "Quy định về lắp đặt mới, nâng cấp và sửa chữa",
+                    "content": "Điều 7. Quy định về lắp đặt mới, nâng cấp và sửa chữa",
+                    "clauses": [
+                      {
+                        "clause_id": "doc:261965:part:1:article:7:clause:1",
+                        "number": "1",
+                        "content": "1. Hoạt động lắp đặt mới, nâng cấp hoặc\nsửa chữa mạng cục bộ Ngân hàng Nhà nước phải đáp ứng yêu cầu về kiến trúc mạng Ngân hàng Nhà nước được quy định tại Điều 3 Thông tư này và kiến trúc hạ tầng an ninh bảo mật hệ thống công nghệ thông tin Ngân hàng Nhà nước.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:261965:part:1:article:7:clause:2",
+                        "number": "2",
+                        "content": "2. Đối với lắp đặt mới và nâng cấp hạ\ntầng truyền dẫn mạng cục bộ: Các đơn vị quản lý tài sản lập hồ sơ thiết kế hạ tầng truyền dẫn gửi Cục Công nghệ thông tin thẩm định về mặt kỹ thuật trước khi trình cấp có thẩm quyền phê duyệt.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:261965:part:1:article:7:clause:3",
+                        "number": "3",
+                        "content": "3. Đối với lắp đặt mới và nâng cấp\ntrang thiết bị mạng: Hàng năm, Cục Công nghệ thông tin thực hiện theo quy định của Ngân hàng Nhà nước về quản lý và thực hiện đầu tư đối với các hoạt động ứng dụng công nghệ thông tin trong hệ thống Ngân hàng Nhà nước.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:261965:part:1:article:7:clause:4",
+                        "number": "4",
+                        "content": "4. Sửa chữa mạng cục bộ phải đảm bảo\nkhông thay đổi cấu hình kỹ thuật, thiết kế mạng cục bộ tại đơn vị.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:261965:part:1:article:7:clause:5",
+                        "number": "5",
+                        "content": "5. Đối với sửa chữa hạ tầng truyền dẫn\nmạng cục bộ:",
+                        "points": [
+                          {
+                            "point_id": "doc:261965:part:1:article:7:clause:5:point:1",
+                            "label": "a",
+                            "content": "a) Đơn vị sử dụng tài sản nhưng không\nphải là đơn vị quản lý tài sản khi phát sinh nhu cầu sửa chữa thì thông báo cho đơn vị quản lý tài sản;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:261965:part:1:article:7:clause:5:point:2",
+                            "label": "b",
+                            "content": "b) Đơn vị quản lý tài sản chủ động thực\nhiện tổ chức sửa chữa tuân thủ Quy chế quản lý tài chính của Ngân hàng Nhà nước và thông báo cho Cục Công nghệ thông tin để phối hợp về kỹ thuật trước khi thực hiện.",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "clause_id": "doc:261965:part:1:article:7:clause:6",
+                        "number": "6",
+                        "content": "6. Đối với sửa chữa trang thiết bị mạng,\nđơn vị quản lý tài sản thông báo cho Cục Công nghệ thông tin để phối hợp xác định tình trạng thiết bị và xử lý như sau:",
+                        "points": [
+                          {
+                            "point_id": "doc:261965:part:1:article:7:clause:6:point:1",
+                            "label": "a",
+                            "content": "a) Với các trang thiết bị còn trong\nthời hạn bảo hành hoặc đã được ký hợp đồng bảo trì thì thực hiện sửa chữa thiết bị theo hợp đồng đã ký;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:261965:part:1:article:7:clause:6:point:2",
+                            "label": "b",
+                            "content": "b) Với các trang thiết bị hết thời hạn\nbảo hành và không có hợp đồng bảo trì, đơn vị quản lý tài sản thực hiện tổ chức sửa chữa tuân thủ Quy chế quản lý tài chính của Ngân hàng Nhà nước và thông báo cho Cục Công nghệ thông tin để phối hợp về kỹ thuật.",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "clause_id": "doc:261965:part:1:article:7:clause:7",
+                        "number": "7",
+                        "content": "7. Đơn vị quản lý tài sản phải xây dựng,\ncập nhật và lưu trữ tài liệu thiết kế và bản vẽ hoàn công mạng cục bộ khi lắp đặt mới, nâng cấp hoặc sửa chữa.",
+                        "points": []
+                      }
+                    ],
+                    "points": []
+                  },
+                  {
+                    "article_id": "doc:261965:part:1:article:8",
+                    "number": "8",
+                    "title": "Quy định về bảo trì, kiểm tra định kỳ và xử lý sự cố",
+                    "content": "Điều 8. Quy định về bảo trì, kiểm tra định kỳ và xử lý sự cố",
+                    "clauses": [
+                      {
+                        "clause_id": "doc:261965:part:1:article:8:clause:1",
+                        "number": "1",
+                        "content": "1. Quy định về bảo trì:",
+                        "points": [
+                          {
+                            "point_id": "doc:261965:part:1:article:8:clause:1:point:1",
+                            "label": "a",
+                            "content": "a) Mạng cục bộ Ngân hàng Nhà nước tại\nTrung tâm dữ liệu phải được bảo trì định kỳ tối thiểu 02 lần trong một năm; Mạng cục bộ tại các đơn vị hành chính thuộc cơ cấu tổ chức của Ngân hàng Nhà nước phải được bảo trì định kỳ tối thiểu 01 lần trong một năm;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:261965:part:1:article:8:clause:1:point:2",
+                            "label": "b",
+                            "content": "b) Việc thực hiện bảo trì không được\nlàm gián đoạn và ảnh hưởng đến hoạt động nghiệp vụ của Ngân hàng Nhà nước;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:261965:part:1:article:8:clause:1:point:3",
+                            "label": "c",
+                            "content": "c) Quá trình bảo trì phải được ghi nhật\nký về tình trạng hoạt động trước và sau khi bảo trì;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:261965:part:1:article:8:clause:1:point:4",
+                            "label": "d",
+                            "content": "d) Đối với các trang thiết bị đã được\nký hợp đồng bảo trì thì thực hiện bảo trì theo hợp đồng đã ký;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:261965:part:1:article:8:clause:1:point:5",
+                            "label": "đ",
+                            "content": "đ) Đối với trường hợp các trang thiết\nbị mạng hết thời gian bảo hành và không có hợp đồng bảo trì, thực hiện như sau: (i) Cục Công nghệ thông tin xây dựng quy trình bảo trì mạng cho các đơn vị quản lý tài sản và phối hợp bảo trì từ xa các trang thiết bị mạng; (ii) Đơn vị quản lý tài sản thực hiện bảo trì các trang thiết bị mạng do đơn vị quản lý theo quy trình bảo trì mạng do Cục Công nghệ thông tin ban hành;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:261965:part:1:article:8:clause:1:point:6",
+                            "label": "e",
+                            "content": "e) Đơn vị quản lý tài sản chịu trách\nnhiệm bảo trì đối với hạ tầng truyền dẫn do đơn vị quản lý.",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "clause_id": "doc:261965:part:1:article:8:clause:2",
+                        "number": "2",
+                        "content": "2. Quy định về kiểm tra định kỳ:",
+                        "points": [
+                          {
+                            "point_id": "doc:261965:part:1:article:8:clause:2:point:1",
+                            "label": "a",
+                            "content": "a) Cục Công nghệ thông tin xây dựng\nvà ban hành quy trình kiểm tra định kỳ hệ thống mạng cục bộ;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:261965:part:1:article:8:clause:2:point:2",
+                            "label": "b",
+                            "content": "b) Đơn vị quản lý tài sản thực hiện\nkiểm tra định kỳ hệ thống mạng Cục bộ theo quy trình kiểm tra do Cục Công nghệ thông tin ban hành.",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "clause_id": "doc:261965:part:1:article:8:clause:3",
+                        "number": "3",
+                        "content": "3. Quy định về xử lý sự cố:",
+                        "points": [
+                          {
+                            "point_id": "doc:261965:part:1:article:8:clause:3:point:1",
+                            "label": "a",
+                            "content": "a) Cục Công nghệ thông tin xây dựng\nvà ban hành quy trình và hướng dẫn xử lý sự cố;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:261965:part:1:article:8:clause:3:point:2",
+                            "label": "b",
+                            "content": "b) Khi phát sinh sự cố, đơn vị quản lý\ntài sản ghi nhật ký và thực hiện xử lý sự cố theo quy trình và hướng dẫn của Cục Công nghệ thông tin. Đối với các sự cố phát sinh không có trong quy trình và hướng dẫn hoặc đã thực hiện theo quy trình và hướng dẫn nhưng không xử lý được, đơn vị quản lý tài sản thông báo cho Cục Công nghệ thông tin để phối hợp xử lý;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:261965:part:1:article:8:clause:3:point:3",
+                            "label": "c",
+                            "content": "c) Trường hợp sự cố do Cục Công nghệ thông tin xử lý thì thông báo cho đơn vị quản lý tài sản\nvà đơn vị sử dụng tài sản biết thời gian, kế hoạch khắc phục.",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ],
+                    "points": []
+                  },
+                  {
+                    "article_id": "doc:261965:part:1:article:9",
+                    "number": "9",
+                    "title": "Quy định về quản trị và sử dụng",
+                    "content": "Điều 9. Quy định về quản trị và sử dụng",
+                    "clauses": [
+                      {
+                        "clause_id": "doc:261965:part:1:article:9:clause:1",
+                        "number": "1",
+                        "content": "1. Các thiết bị đầu cuối chỉ được\nphép kết nối vào lớp mạng truy cập.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:261965:part:1:article:9:clause:2",
+                        "number": "2",
+                        "content": "2. Cục Công nghệ thông tin quy định\nviệc cấp phát, sử dụng thống nhất địa chỉ IP, tên định danh các trang thiết bị và kiểm soát các thiết bị kết nối vào mạng cục bộ Ngân hàng Nhà nước.",
+                        "points": []
+                      }
+                    ],
+                    "points": []
+                  }
+                ]
+              },
+              {
+                "section_id": "doc:261965:part:1:section:2",
+                "number": "2",
+                "title": "Ngân hàng Nhà nước",
+                "content": "Mục 2. Mạng diện rộng\nNgân hàng Nhà nước",
+                "articles": [
+                  {
+                    "article_id": "doc:261965:part:1:article:10",
+                    "number": "10",
+                    "title": "Quy định về lắp đặt mới, nâng cấp và sửa chữa",
+                    "content": "Điều 10. Quy định về lắp đặt mới, nâng cấp và sửa chữa",
+                    "clauses": [
+                      {
+                        "clause_id": "doc:261965:part:1:article:10:clause:1",
+                        "number": "1",
+                        "content": "1. Hàng năm, Cục Công nghệ thông tin\nlập kế hoạch lắp đặt mới hoặc nâng cấp mạng diện rộng trình cấp có thẩm quyền phê duyệt. Cục Công nghệ thông tin thực hiện lắp đặt mới và nâng cấp mạng diện rộng theo kế hoạch đã được phê duyệt.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:261965:part:1:article:10:clause:2",
+                        "number": "2",
+                        "content": "2. Cục Công nghệ thông tin đầu mối tổ\nchức thực hiện việc sửa chữa các trang thiết bị mạng diện rộng Ngân hàng Nhà nước.",
+                        "points": []
+                      }
+                    ],
+                    "points": []
+                  },
+                  {
+                    "article_id": "doc:261965:part:1:article:11",
+                    "number": "11",
+                    "title": "Quy định về bảo trì, kiểm tra định kỳ và xử lý sự cố",
+                    "content": "Điều 11. Quy định về bảo trì, kiểm tra định kỳ và xử lý sự cố",
+                    "clauses": [
+                      {
+                        "clause_id": "doc:261965:part:1:article:11:clause:1",
+                        "number": "1",
+                        "content": "1. Quy định về bảo trì:",
+                        "points": [
+                          {
+                            "point_id": "doc:261965:part:1:article:11:clause:1:point:1",
+                            "label": "a",
+                            "content": "a) Mạng diện rộng phải được bảo trì định\nkỳ tối thiểu 02 lần một năm, gồm 01 lần bảo trì tại chỗ và 01 lần bảo trì từ xa;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:261965:part:1:article:11:clause:1:point:2",
+                            "label": "b",
+                            "content": "b) Việc bảo trì mạng diện rộng không\nđược làm gián đoạn và ảnh hưởng đến hoạt động nghiệp vụ của Ngân hàng Nhà nước;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:261965:part:1:article:11:clause:1:point:3",
+                            "label": "c",
+                            "content": "c) Quá trình bảo trì phải thực hiện\ntheo đúng kịch bản được phê duyệt, ghi nhật ký về tình trạng hoạt động trước và sau khi bảo trì;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:261965:part:1:article:11:clause:1:point:4",
+                            "label": "d",
+                            "content": "d) Cục Công nghệ thông tin xây dựng kế\nhoạch, phương án bảo trì, chủ trì và thông báo cho các đơn vị quản lý tài sản, đơn vị sử dụng tài sản phối hợp thực hiện việc bảo trì. Trong trường hợp thuê dịch vụ bảo trì, Cục Công nghệ thông tin thực hiện theo quy định hiện hành;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:261965:part:1:article:11:clause:1:point:5",
+                            "label": "đ",
+                            "content": "đ) Đơn vị quản lý tài sản phối hợp với\nCục Công nghệ thông tin trong việc thực hiện và xác nhận kết quả bảo trì.",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "clause_id": "doc:261965:part:1:article:11:clause:2",
+                        "number": "2",
+                        "content": "2. Quy định về kiểm tra định kỳ và xử\nlý sự cố:",
+                        "points": [
+                          {
+                            "point_id": "doc:261965:part:1:article:11:clause:2:point:1",
+                            "label": "a",
+                            "content": "a) Cục Công nghệ thông tin thực hiện\nxây dựng, ban hành quy trình và hướng dẫn kiểm tra định kỳ, xử lý sự cố;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:261965:part:1:article:11:clause:2:point:2",
+                            "label": "b",
+                            "content": "b) Đơn vị quản lý tài sản thực hiện\nkiểm tra, ghi nhật ký định kỳ và thực hiện xử lý sự cố theo quy trình và hướng dẫn của Cục Công nghệ thông tin.",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ],
+                    "points": []
+                  },
+                  {
+                    "article_id": "doc:261965:part:1:article:12",
+                    "number": "12",
+                    "title": "Quy định về quản trị và sử dụng Cục Công nghệ thông tin chịu trách nhiệm:",
+                    "content": "Điều 12. Quy định về quản trị và sử dụng Cục Công nghệ thông tin chịu trách nhiệm:",
+                    "clauses": [
+                      {
+                        "clause_id": "doc:261965:part:1:article:12:clause:1",
+                        "number": "1",
+                        "content": "1. Quản trị và kiểm soát tập trung mạng\ndiện rộng Ngân hàng Nhà nước.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:261965:part:1:article:12:clause:2",
+                        "number": "2",
+                        "content": "2. Xây dựng, cập nhật và lưu trữ tài liệu\nthiết kế và bản vẽ hoàn công mạng diện rộng khi lắp đặt mới, nâng cấp hoặc sửa chữa.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:261965:part:1:article:12:clause:3",
+                        "number": "3",
+                        "content": "3. Ghi nhật ký hoạt động hàng ngày và\nlập báo cáo đánh giá tổng thể hệ thống mạng diện rộng định kỳ 01 lần trong sáu tháng.",
+                        "points": []
+                      }
+                    ],
+                    "points": []
+                  }
+                ]
+              },
+              {
+                "section_id": "doc:261965:part:1:section:3",
+                "number": "3",
+                "title": "mạng Ngân hàng Nhà nước",
+                "content": "Mục 3. Kết nối với\nmạng Ngân hàng Nhà nước",
+                "articles": [
+                  {
+                    "article_id": "doc:261965:part:1:article:13",
+                    "number": "13",
+                    "title": "Quản lý kết nối mạng Ngân hàng Nhà nước",
+                    "content": "Điều 13. Quản lý kết nối mạng Ngân hàng Nhà nước",
+                    "clauses": [
+                      {
+                        "clause_id": "doc:261965:part:1:article:13:clause:1",
+                        "number": "1",
+                        "content": "1. Ngân hàng Nhà nước (Cục Công nghệ\nthông tin) thống nhất quản lý phương thức kết nối và dải địa chỉ IP đối với các thiết bị đầu cuối của các tổ chức bên ngoài khi kết nối với mạng Ngân hàng Nhà nước.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:261965:part:1:article:13:clause:2",
+                        "number": "2",
+                        "content": "2. Các tổ chức bên ngoài thực hiện kết\nnối, thay đổi kết nối với mạng Ngân hàng Nhà nước theo quy định tại Điều 15 Thông tư này; hủy kết nối với mạng Ngân hàng Nhà nước theo quy định tại Điều 16 Thông tư này.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:261965:part:1:article:13:clause:3",
+                        "number": "3",
+                        "content": "3. Trường hợp bổ sung thiết bị, thay\nđổi đường truyền, các tổ chức bên ngoài gửi văn bản, tài liệu thiết kế, cấu hình và phương án thực hiện về Cục Công nghệ thông tin trước khi triển khai.",
+                        "points": []
+                      }
+                    ],
+                    "points": []
+                  },
+                  {
+                    "article_id": "doc:261965:part:1:article:14",
+                    "number": "14",
+                    "title": "Yêu cầu kết nối với mạng Ngân hàng Nhà nước",
+                    "content": "Điều 14. Yêu cầu kết nối với mạng Ngân hàng Nhà nước",
+                    "clauses": [
+                      {
+                        "clause_id": "doc:261965:part:1:article:14:clause:1",
+                        "number": "1",
+                        "content": "1. Tuân thủ các quy định về kết nối mạng\nNgân hàng Nhà nước.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:261965:part:1:article:14:clause:2",
+                        "number": "2",
+                        "content": "2. Đảm bảo an toàn bảo mật theo quy định\nvề an toàn hệ thống thông tin trong hoạt động của Ngân hàng Nhà nước đối với các thiết bị đầu cuối, thiết bị mạng và đường truyền kết nối với mạng Ngân hàng Nhà nước.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:261965:part:1:article:14:clause:3",
+                        "number": "3",
+                        "content": "3. Có đủ trang thiết bị kỹ thuật để kết\nnối mạng và đảm bảo an toàn bảo mật thông tin trên đường truyền theo quy định hiện hành của Ngân hàng Nhà nước.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:261965:part:1:article:14:clause:4",
+                        "number": "4",
+                        "content": "4. Có đội ngũ cán bộ kỹ thuật có\ntrình độ, khả năng quản trị các thiết bị đầu cuối kết nối, trang thiết bị mạng của tổ chức.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:261965:part:1:article:14:clause:5",
+                        "number": "5",
+                        "content": "5. Lựa chọn nhà cung cấp dịch vụ đường\ntruyền, băng thông, chi trả các chi phí kết nối lắp đặt, chi phí thuê bao, chi phí sửa chữa và bảo trì đường truyền kết nối tới Ngân hàng Nhà nước.",
+                        "points": []
+                      }
+                    ],
+                    "points": []
+                  },
+                  {
+                    "article_id": "doc:261965:part:1:article:15",
+                    "number": "15",
+                    "title": "Hướng dẫn thực hiện kết nối hoặc thay đổi kết nối với mạng Ngân hàng Nhà nước",
+                    "content": "Điều 15. Hướng dẫn thực hiện kết nối hoặc thay đổi kết nối với mạng Ngân hàng Nhà nước",
+                    "clauses": [
+                      {
+                        "clause_id": "doc:261965:part:1:article:15:clause:1",
+                        "number": "1",
+                        "content": "1. Tổ chức bên ngoài có nhu cầu kết nối\nhoặc thay đổi kết nối với mạng Ngân hàng Nhà nước lập văn bản đề nghị hướng dẫn kết nối, thay đổi kết nối theo Phụ lục 01 kèm theo Thông tư này gửi qua đường bưu điện hoặc nộp trực tiếp tại Ngân hàng Nhà nước (Cục Công nghệ thông tin) hoặc qua cổng dịch vụ công của Ngân hàng Nhà nước.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:261965:part:1:article:15:clause:2",
+                        "number": "2",
+                        "content": "2. Trong thời hạn 07 ngày làm việc kể\ntừ ngày nhận được văn bản đề nghị, Cục Công nghệ thông tin thông báo đến các đơn vị liên quan và hướng dẫn thực hiện kết nối.",
+                        "points": []
+                      }
+                    ],
+                    "points": []
+                  },
+                  {
+                    "article_id": "doc:261965:part:1:article:16",
+                    "number": "16",
+                    "title": "Hướng dẫn hủy kết nối với mạng Ngân hàng Nhà nước",
+                    "content": "Điều 16. Hướng dẫn hủy kết nối với mạng Ngân hàng Nhà nước",
+                    "clauses": [
+                      {
+                        "clause_id": "doc:261965:part:1:article:16:clause:1",
+                        "number": "1",
+                        "content": "1. Tổ chức bên ngoài không còn nhu cầu\nkết nối với mạng Ngân hàng Nhà nước, lập văn bản đề nghị hướng dẫn hủy kết nối theo Phụ lục 02 kèm theo Thông tư này gửi qua đường bưu điện hoặc nộp trực tiếp tại Ngân hàng Nhà nước (Cục Công nghệ thông tin) hoặc qua cổng dịch vụ công của Ngân hàng Nhà nước.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:261965:part:1:article:16:clause:2",
+                        "number": "2",
+                        "content": "2. Trong thời hạn 05 ngày làm việc kể\ntừ ngày nhận được văn bản đề nghị, Công nghệ thông tin thông báo đến các đơn vị liên quan và hướng dẫn thực hiện hủy kết nối.",
+                        "points": []
+                      }
+                    ],
+                    "points": []
+                  }
+                ]
+              },
+              {
+                "section_id": "doc:261965:part:1:section:4",
+                "number": "4",
+                "title": "Internet",
+                "content": "Mục 4. Kết nối\nInternet",
+                "articles": [
+                  {
+                    "article_id": "doc:261965:part:1:article:17",
+                    "number": "17",
+                    "title": "Quản lý kết nối Internet",
+                    "content": "Điều 17. Quản lý kết nối Internet",
+                    "clauses": [
+                      {
+                        "clause_id": "doc:261965:part:1:article:17:clause:1",
+                        "number": "1",
+                        "content": "1. Các máy tính thuộc mạng cục bộ\nNgân hàng Nhà nước kết nối Internet phải thông qua các cổng kết nối tập trung do Cục Công nghệ thông tin thiết lập và quản lý.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:261965:part:1:article:17:clause:2",
+                        "number": "2",
+                        "content": "2. Các máy tính thuộc mạng cục bộ\nNgân hàng Nhà nước kết nối sử dụng hệ thống thông tin có cấp độ từ 3 trở lên của Ngân hàng Nhà nước theo quy định Chính phủ về bảo đảm an toàn hệ thống thông tin theo cấp độ không được kết nối Internet.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:261965:part:1:article:17:clause:3",
+                        "number": "3",
+                        "content": "3. Trường hợp các đơn vị có máy tính\nthuộc mạng cục bộ Ngân hàng Nhà nước có nhu cầu kết nối trực tiếp Internet không qua cổng kết nối do Cục Công nghệ thông tin thiết lập và quản lý, đơn vị phải trình Thống đốc Ngân hàng Nhà nước xem xét phê duyệt (qua Cục Công nghệ thông tin).",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:261965:part:1:article:17:clause:4",
+                        "number": "4",
+                        "content": "4. Các máy tính không thuộc mạng cục\nbộ Ngân hàng Nhà nước kết nối mạng Internet do Thủ trưởng đơn vị sử dụng tài sản quyết định và phải tuân thủ quy định của Ngân hàng Nhà nước về an toàn hệ thống thông tin trong hoạt động ngân hàng và các quy định của pháp luật có liên quan.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:261965:part:1:article:17:clause:5",
+                        "number": "5",
+                        "content": "5. Không được sử dụng các thiết bị kết\nnối Internet không qua cổng kết nối do Cục Công nghệ thông tin thiết lập và quản lý để kết nối trực tiếp vào mạng Ngân hàng Nhà nước trừ trường hợp quy định tại khoản 3 Điều này.",
+                        "points": []
+                      }
+                    ],
+                    "points": []
+                  },
+                  {
+                    "article_id": "doc:261965:part:1:article:18",
+                    "number": "18",
+                    "title": "Yêu cầu kết nối Internet",
+                    "content": "Điều 18. Yêu cầu kết nối Internet",
+                    "clauses": [
+                      {
+                        "clause_id": "doc:261965:part:1:article:18:clause:1",
+                        "number": "1",
+                        "content": "1. Các thiết bị đầu cuối kết nối\nInternet thông qua cổng kết nối tập trung do Cục Công nghệ thông tin quản lý phải tham gia Domain Ngân hàng Nhà nước, cài đặt các phần mềm phòng, chống mã độc, phần mềm an ninh và được cập nhật bản vá hệ điều hành, các phần mềm khác theo hướng dẫn của Cục Công nghệ thông tin.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:261965:part:1:article:18:clause:2",
+                        "number": "2",
+                        "content": "2. Người sử dụng kết nối Internet qua\ncổng kết nối tập trung do Cục Công nghệ thông tin quản lý phải sử dụng tài khoản truy cập do Cục Công nghệ thông tin cấp.",
+                        "points": []
+                      }
+                    ],
+                    "points": []
+                  },
+                  {
+                    "article_id": "doc:261965:part:1:article:19",
+                    "number": "19",
+                    "title": "Quy định về giám sát và kiểm soát kết nối Internet",
+                    "content": "Điều 19. Quy định về giám sát và kiểm soát kết nối Internet",
+                    "clauses": [
+                      {
+                        "clause_id": "doc:261965:part:1:article:19:clause:1",
+                        "number": "1",
+                        "content": "1. Cục Công nghệ thông tin chịu trách\nnhiệm thiết lập hệ thống an ninh mạng đảm bảo an toàn bảo mật giữa mạng Ngân hàng Nhà nước và Internet.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:261965:part:1:article:19:clause:2",
+                        "number": "2",
+                        "content": "2. Cục Công nghệ thông tin chịu trách\nnhiệm quản lý, thiết lập chính sách và kiểm soát các thiết bị thuộc mạng Ngân hàng Nhà nước kết nối ra Internet.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:261965:part:1:article:19:clause:3",
+                        "number": "3",
+                        "content": "3. Cục Công nghệ thông tin quản lý và\ncấp phát tài khoản truy cập Internet của người sử dụng. Trong trường hợp cần thiết, để đảm bảo an toàn cho hệ thống mạng Ngân hàng Nhà nước, Cục Công nghệ thông tin có quyền chủ động tạm ngừng hoặc thu hồi tài khoản truy cập Internet và gửi thông báo đến cá nhân, đơn vị người sử dụng.",
+                        "points": []
+                      }
+                    ],
+                    "points": []
+                  },
+                  {
+                    "article_id": "doc:261965:part:1:article:20",
+                    "number": "20",
+                    "title": "Quy định về kết nối mạng không dây, thiết bị di động",
+                    "content": "Điều 20. Quy định về kết nối mạng không dây, thiết bị di động",
+                    "clauses": [
+                      {
+                        "clause_id": "doc:261965:part:1:article:20:clause:1",
+                        "number": "1",
+                        "content": "1. Hệ thống mạng không dây kết nối Internet\ncủa Ngân hàng Nhà nước phải được thiết kế, xây dựng độc lập với hệ thống mạng Ngân hàng Nhà nước.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:261965:part:1:article:20:clause:2",
+                        "number": "2",
+                        "content": "2. Cục Công nghệ thông tin quản lý hoạt\nđộng của các thiết bị mạng cung cấp dịch vụ không dây kết nối Internet và kiểm soát thiết bị truy cập mạng không dây đến mạng Ngân hàng Nhà nước.",
+                        "points": []
+                      }
+                    ],
+                    "points": []
+                  }
+                ]
+              },
+              {
+                "section_id": "doc:261965:part:1:section:5",
+                "number": "5",
+                "title": "trong quản lý và sử dụng mạng Ngân hàng Nhà nước",
+                "content": "Mục 5. Trách nhiệm\ntrong quản lý và sử dụng mạng Ngân hàng Nhà nước",
+                "articles": [
+                  {
+                    "article_id": "doc:261965:part:1:article:21",
+                    "number": "21",
+                    "title": "Trách nhiệm của Cục Công nghệ thông tin",
+                    "content": "Điều 21. Trách nhiệm của Cục Công nghệ thông tin",
+                    "clauses": [
+                      {
+                        "clause_id": "doc:261965:part:1:article:21:clause:1",
+                        "number": "1",
+                        "content": "1. Quản lý kỹ thuật mạng Ngân hàng\nNhà nước.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:261965:part:1:article:21:clause:2",
+                        "number": "2",
+                        "content": "2. Quản lý việc cấp phát và sử dụng\ntài nguyên mạng Ngân hàng Nhà nước trong phạm vi phân cấp quản lý.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:261965:part:1:article:21:clause:3",
+                        "number": "3",
+                        "content": "3. Theo dõi, giám sát hoạt động của hệ\nthống mạng Ngân hàng Nhà nước đảm bảo hoạt động liên tục, ổn định và an toàn.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:261965:part:1:article:21:clause:4",
+                        "number": "4",
+                        "content": "4. Cảnh báo và hướng dẫn các đơn vị\nNgân hàng Nhà nước khắc phục các lỗ hổng bảo mật và các nguy cơ rủi ro đến hoạt động của mạng Ngân hàng Nhà nước sau khi phát hiện và đánh giá về mức độ nghiêm trọng.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:261965:part:1:article:21:clause:5",
+                        "number": "5",
+                        "content": "5. Thông báo cho đơn vị quản lý tài sản\ntối thiểu 03 ngày làm việc trước ngày tạm ngừng cung cấp dịch vụ mạng để sửa chữa, nâng cấp hoặc bảo trì.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:261965:part:1:article:21:clause:6",
+                        "number": "6",
+                        "content": "6. Tổ chức kiểm tra kết nối mạng của\ncác tổ chức bên ngoài với mạng Ngân hàng Nhà nước.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:261965:part:1:article:21:clause:7",
+                        "number": "7",
+                        "content": "7. Nghiên cứu, áp dụng các công nghệ\ntiên tiến để xây dựng, quản lý, vận hành mạng Ngân hàng Nhà nước theo định hướng tập trung, thống nhất.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:261965:part:1:article:21:clause:8",
+                        "number": "8",
+                        "content": "8. Nghiên cứu xây dựng hạ tầng mạng\nNgân hàng Nhà nước hướng đến hoạt động theo chế độ song song (Active/Active) giữa các Trung tâm dữ liệu Ngân hàng Nhà nước.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:261965:part:1:article:21:clause:9",
+                        "number": "9",
+                        "content": "9. Tổ chức đào tạo, hướng dẫn cho các\nđơn vị, cá nhân thuộc Ngân hàng Nhà nước về quản lý, sử dụng mạng Ngân hàng Nhà nước.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:261965:part:1:article:21:clause:10",
+                        "number": "10",
+                        "content": "10. Thực hiện các nhiệm vụ khác của\nquy định tại Thông tư này.",
+                        "points": []
+                      }
+                    ],
+                    "points": []
+                  },
+                  {
+                    "article_id": "doc:261965:part:1:article:22",
+                    "number": "22",
+                    "title": "Trách nhiệm của đơn vị quản lý tài sản",
+                    "content": "Điều 22. Trách nhiệm của đơn vị quản lý tài sản",
+                    "clauses": [
+                      {
+                        "clause_id": "doc:261965:part:1:article:22:clause:1",
+                        "number": "1",
+                        "content": "1. Tổ chức hướng dẫn và kiểm tra việc\nsử dụng mạng cục bộ do đơn vị quản lý.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:261965:part:1:article:22:clause:2",
+                        "number": "2",
+                        "content": "2. Phối hợp với Cục Công nghệ thông\ntin trong việc kết nối, thay đổi kết nối và hủy kết nối mạng đối với các tổ chức có kết nối về đơn vị mình.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:261965:part:1:article:22:clause:3",
+                        "number": "3",
+                        "content": "3. Kiểm tra kết nối mạng của các tổ\nchức bên ngoài với mạng Ngân hàng Nhà nước thông qua cổng kết nối do Cục Công nghệ thông tin thiết lập và quản lý.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:261965:part:1:article:22:clause:4",
+                        "number": "4",
+                        "content": "4. Phối hợp với Cục Công nghệ thông\ntin trong công tác quản lý kết nối mạng của các tổ chức bên ngoài có kết nối đến đơn vị.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:261965:part:1:article:22:clause:5",
+                        "number": "5",
+                        "content": "5. Phân công cán bộ kỹ thuật quản lý\ncác trang thiết bị mạng và phối hợp xử lý các sự cố phát sinh tại đơn vị.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:261965:part:1:article:22:clause:6",
+                        "number": "6",
+                        "content": "6. Đảm bảo các điều kiện cần thiết\ncho các trang thiết bị mạng tại đơn vị hoạt động an toàn và ổn định.",
+                        "points": []
+                      }
+                    ],
+                    "points": []
+                  },
+                  {
+                    "article_id": "doc:261965:part:1:article:23",
+                    "number": "23",
+                    "title": "Trách nhiệm của người sử dụng",
+                    "content": "Điều 23. Trách nhiệm của người sử dụng",
+                    "clauses": [
+                      {
+                        "clause_id": "doc:261965:part:1:article:23:clause:1",
+                        "number": "1",
+                        "content": "1. Sử dụng tài nguyên, khai thác\nthông tin trên mạng Ngân hàng Nhà nước và Internet trong phạm vi cho phép và chịu sự giám sát, kiểm soát của Cục Công nghệ thông tin.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:261965:part:1:article:23:clause:2",
+                        "number": "2",
+                        "content": "2. Tuân thủ quy\nđịnh của Ngân hàng Nhà nước về an toàn hệ thống thông tin trong hoạt động ngân hàng và các quy định của pháp luật có liên quan.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:261965:part:1:article:23:clause:3",
+                        "number": "3",
+                        "content": "3. Tuân thủ các quy định của Ngân\nhàng Nhà nước và của pháp luật về việc kết nối, sử dụng, khai thác Internet.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:261965:part:1:article:23:clause:4",
+                        "number": "4",
+                        "content": "4. Chỉ được sử dụng, cài đặt các công\ncụ, phần mềm theo quy định của Ngân hàng Nhà nước khi tham gia vào hệ thống mạng Ngân hàng Nhà nước.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:261965:part:1:article:23:clause:5",
+                        "number": "5",
+                        "content": "5. Trường hợp phát sinh sự cố hoặc có\ndấu hiệu không an toàn khi sử dụng mạng Ngân hàng Nhà nước, thông báo cho cán bộ kỹ thuật tại đơn vị quản lý tài sản để được hướng dẫn và hỗ trợ khắc phục.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:261965:part:1:article:23:clause:6",
+                        "number": "6",
+                        "content": "6. Phối hợp với cán bộ phận kỹ thuật\ntrong việc xử lý và xác nhận kết quả xử lý sự cố.",
+                        "points": []
+                      }
+                    ],
+                    "points": []
+                  }
+                ]
+              }
+            ],
+            "articles": []
+          },
+          {
+            "chapter_id": "doc:261965:part:1:chapter:3",
+            "number": "III",
+            "title": "ĐIỀU KHOẢN THI HÀNH",
+            "content": "Chương III\nĐIỀU KHOẢN THI HÀNH",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:261965:part:1:article:24",
+                "number": "24",
+                "title": "Hiệu lực thi hành Thông tư này có hiệu lực thi hành kể từ ngày 01 tháng 3 năm 2019 và thay thế Thông tư số 11/2012/QĐ-NHNN ngày 25 tháng 4 năm 2012 của Thống đốc Ngân hàng Nhà nước Việt Nam ban hành quy định quản lý và sử dụng mạng máy tính của Ngân hàng Nhà nước Việt Nam.",
+                "content": "Điều 24. Hiệu lực thi hành Thông tư này có hiệu lực thi hành kể từ ngày 01 tháng 3 năm 2019 và thay thế Thông tư số 11/2012/QĐ-NHNN ngày 25 tháng 4 năm 2012 của Thống đốc Ngân hàng Nhà nước Việt Nam ban hành quy định quản lý và sử dụng mạng máy tính của Ngân hàng Nhà nước Việt Nam.",
+                "clauses": [],
+                "points": []
+              },
+              {
+                "article_id": "doc:261965:part:1:article:25",
+                "number": "25",
+                "title": "Tổ chức thực hiện Chánh Văn phòng, Cục trưởng Cục Công nghệ thông tin, Thủ trưởng các đơn vị liên quan thuộc Ngân hàng Nhà nước, Chủ tịch Hội đồng quản trị, Hội đồng thành viên, Tổng giám đốc (Giám đốc) các tổ chức tín dụng, chi nhánh ngân hàng nước ngoài và các tổ chức liên quan chịu trách nhiệm tổ chức thực hiện Thông tư này./.",
+                "content": "Điều 25. Tổ chức thực hiện Chánh Văn phòng, Cục trưởng Cục Công nghệ thông tin, Thủ trưởng các đơn vị liên quan thuộc Ngân hàng Nhà nước, Chủ tịch Hội đồng quản trị, Hội đồng thành viên, Tổng giám đốc (Giám đốc) các tổ chức tín dụng, chi nhánh ngân hàng nước ngoài và các tổ chức liên quan chịu trách nhiệm tổ chức thực hiện Thông tư này./.",
+                "clauses": [],
+                "points": []
+              }
+            ]
+          }
+        ],
+        "sections": [],
+        "articles": [],
+        "unstructured_blocks": []
+      },
+      {
+        "part_id": "doc:261965:part:2",
+        "part_type": "appendix",
+        "part_title": "PHỤ LỤC 01",
+        "reference": null,
+        "direct_text": null,
+        "chapters": [],
+        "sections": [],
+        "articles": [],
+        "unstructured_blocks": [
+          {
+            "block_id": "doc:261965:part:2:block:1",
+            "content": "PHỤ LỤC 01\n(Ban hành kèm theo Thông tư số 34/2018/TT-NHNN ngày\n24 tháng 12 năm 2018 của Thống đốc Ngân hàng nhà Nước) Tên tổ chức: Số:\nCỘNG\nHÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc --------------- ........, ngày tháng năm\nĐỀ NGHỊ HƯỚNG DẪN KẾT NỐI, THAY ĐỔI KẾT\nNỐI VỚI MẠNG NGÂN HÀNG NHÀ NƯỚC VIỆT NAM\nKính gửi: Ngân hàng Nhà nước Việt Nam (Cục Công nghệ thông tin) A. Thông tin chung Mã tổ chức(1): Tên tổ chức: Địa chỉ: Điện thoại: Fax: Đầu mối liên hệ (Tên cán bộ, địa chỉ email, số điện thoại): B. Phần đề nghị Chúng tôi đã nghiên cứu và đồng ý các quy định về kết nối mạng Ngân hàng Nhà nước Việt Nam được quy định tại Thông tư số ___/2018/TT-NHNN. Chúng tôi đề nghị được hướng dẫn [kết nối I thay đổi kết nối ] với mạng Ngân hàng Nhà nước Việt Nam với các thông tin chi tiết như sau:\n1. Địa chỉ điểm kết nối (TCTD\\QTDNN):\n2. Loại hình: [Hội sở chính/Chi\nnhánh]\n3. Kết nối chính thức:\na. Phương thức kết nối: [Metronet\\Leased-line\\MegaWan\\Khác] b. Băng thông kết nối: ______(Kbps/Mbps) c. Nhà cung cấp dịch vụ: [VNPT\\FTP Telecom\\ Viettel\\Khác]\n4. Kết nối dự phòng:\na. Phương thức kết nối: [Metronet\\Leased-line\\MegaWan\\ Khác] b. Băng thông kết nối: ______(Kbps/Mbps) c. Nhà cung cấp dịch vụ: [VNPT\\FTP Telecom\\ Viettel\\Khác]\n5. Thời điểm kết nối (dự kiến):\n6. Mục đích sử dụng: [Thanh toán\\ Báo cáo\\ Khác]\nĐại diện hợp pháp của tổ chức (Ký, ghi rõ họ tên, đóng dấu) Chú thích: (1): Theo quy định của Ngân hàng Nước về hệ thống mã ngân hàng dùng trong hoạt động, nghiệp vụ ngân hàng.",
+            "indexable": true
+          }
+        ]
+      },
+      {
+        "part_id": "doc:261965:part:3",
+        "part_type": "appendix",
+        "part_title": "PHỤ LỤC 02",
+        "reference": null,
+        "direct_text": null,
+        "chapters": [],
+        "sections": [],
+        "articles": [],
+        "unstructured_blocks": [
+          {
+            "block_id": "doc:261965:part:3:block:1",
+            "content": "PHỤ LỤC 02\n(Ban hành kèm theo Thông tư số 34/2018/TT-NHNN ngày 24 tháng 12 năm 2018 của\nThống đốc Ngân hàng nhà Nước) Tên tổ chức: Số:\nCỘNG\nHÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc --------------- ........, ngày tháng năm\nĐỀ NGHỊ HƯỚNG DẪN HỦY KẾT NỐI VỚI MẠNG\nNGÂN HÀNG NHÀ NƯỚC VIỆT NAM\nKính gửi: Ngân hàng Nhà nước Việt Nam (Cục Công nghệ thông tin) A. Thông tin chung Mã tổ chức(1): Tên tổ chức: Địa chỉ: Điện thoại: Fax: Đầu mối liên hệ (Tên cán bộ, địa chỉ email, số điện thoại): B. Phần đề nghị Chúng tôi đã nghiên cứu và đồng ý các quy định về hủy kết nối mạng Ngân hàng Nhà nước Việt Nam được quy định tại Thông tư ___/2018/TT-NHNN. Chúng tôi đề nghị được hướng dẫn hủy kết nối với mạng Ngân hàng Nhà nước Việt Nam với các thông tin chi tiết như sau:\n1. Địa chỉ điểm kết nối (TCTD\\QTDNN):\n2. Loại hình: [Hội sở chính/Chi\nnhánh]\n3. Kết nối chính thức:\na. Phương thức kết nối: [Metronet\\Leased-line\\MegaWan\\ Khác] b. Băng thông kết nối: ______(Kbps/Mbps) c. Nhà cung cấp dịch vụ: [VNPT\\FTP Telecom\\ Viettel\\Khác]\n4. Kết nối dự phòng:\na. Phương thức kết nối: [Metronet\\Leased-line\\MegaWan\\ Khác] b. Băng thông kết nối: _____(Kbps/Mbps) c. Nhà cung cấp dịch vụ: [VNPT\\FTP Telecom\\ Viettel\\Khác]\n5. Lý do hủy kết nối:\n6. Thời gian đề nghị hủy kết nối (dự\nkiến): Đại diện hợp pháp của tổ chức (Ký, ghi rõ họ tên, đóng dấu) Chú thích: (1): Theo quy định của Ngân hàng Nước về hệ thống mã ngân hàng dùng trong hoạt động, nghiệp vụ ngân hàng.",
+            "indexable": true
+          }
+        ]
+      }
+    ]
+  },
+  "issues": [],
+  "status": "ok",
+  "source_hash": "context_261965.json",
+  "stats": {
+    "source_chars": 27553,
+    "passage_chars": 27384,
+    "parts": 3,
+    "chapters": 3,
+    "sections": 5,
+    "articles": 25,
+    "clauses": 106,
+    "points": 28
+  }
+}

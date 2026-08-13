@@ -1,0 +1,671 @@
+{
+  "schema_version": "2.0",
+  "document_id": 26259,
+  "metadata": {
+    "name": "Quyet-dinh-08-2022-QD-UBND-thu-phi-su-dung-cong-trinh-ha-tang-cua-khau-cang-bien-Ho-Chi-Minh-509993",
+    "link": "https://thuvienphapluat.vn/van-ban/Thue-Phi-Le-Phi/Quyet-dinh-08-2022-QD-UBND-thu-phi-su-dung-cong-trinh-ha-tang-cua-khau-cang-bien-Ho-Chi-Minh-509993.aspx",
+    "issuing_agency": "ỦY BAN NHÂN DÂN THÀNH PHỐ HỒ CHÍ MINH",
+    "national_header": "CỘNG\r\n\n  HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM",
+    "motto": "Độc lập - Tự do - Hạnh phúc",
+    "document_number": "08/2022/QĐ-UBND",
+    "issued_place": "Hồ Chí Minh",
+    "issued_date": "ngày 22 tháng 3 năm 2022",
+    "document_type": "QUYẾT ĐỊNH",
+    "title": "BAN HÀNH QUY CHẾ PHỐI HỢP TRONG CÔNG TÁC THU PHÍ SỬ DỤNG CÔNG TRÌNH KẾT CẤU HẠ TẦNG, CÔNG TRÌNH DỊCH VỤ TIỆN ÍCH CÔNG CỘNG KHU VỰC CỬA KHẨU CẢNG BIỂN TRÊN ĐỊA BÀN THÀNH PHỐ HỒ CHÍ MINH ỦY BAN NHÂN DÂN THÀNH PHỐ HỒ CHÍ MINH"
+  },
+  "administrative_header": {
+    "removed": true,
+    "removed_char_count": 192
+  },
+  "preamble": {
+    "text": "QUYẾT ĐỊNH\nBAN HÀNH QUY CHẾ PHỐI HỢP TRONG CÔNG TÁC THU PHÍ SỬ DỤNG CÔNG TRÌNH KẾT\nCẤU HẠ TẦNG, CÔNG TRÌNH DỊCH VỤ TIỆN ÍCH CÔNG CỘNG KHU VỰC CỬA KHẨU CẢNG BIỂN\nTRÊN ĐỊA BÀN THÀNH PHỐ HỒ CHÍ MINH\nỦY BAN NHÂN DÂN THÀNH PHỐ HỒ CHÍ MINH\nCăn cứ Luật Tổ chức chính quyền địa phương ngày 19 tháng 6 năm 2015 và Luật sửa đổi, bổ sung một số điều của Luật Tổ chức Chính phủ và Luật Tổ chức chính quyền địa phương ngày 22 tháng 11 năm 2019; Căn cứ Luật Ban hành văn bản quy phạm pháp luật ngày 22 tháng 6 năm 2015 và Luật sửa đổi, bổ sung một số điều của Luật Ban hành văn bản quy phạm pháp luật ngày 18 tháng 6 năm 2020; Căn cứ Luật Hải quan ngày 23 tháng 06 năm 2014; Căn cứ Luật Ngân sách Nhà nước ngày 25 tháng 6 năm 2015; Căn cứ Luật Phí và lệ phí ngày 25 tháng 11 năm 2015; Căn cứ Nghị định số 120/2016/NĐ-CP ngày 23 tháng 8 năm 2016 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Phí và lệ phí; Căn cứ Thông tư số 85/2019/TT-BTC ngày 29 tháng 11 năm 2019 của Bộ Tài chính hướng dẫn về phí và lệ phí thuộc thẩm quyền quyết định của Hội đồng nhân dân tỉnh, thành phố trực thuộc Trung ương; Căn cứ Nghị quyết số 10/2020/NQ-HĐND ngày 09 tháng 12 năm 2020 của Hội đồng nhân dân thành phố Hồ Chí Minh về việc ban hành mức thu phí sử dụng công trình kết cấu hạ tầng, công trình dịch vụ công ích công cộng trong khu vực cửa khẩu cảng biển trên địa bàn thành phố Hồ Chí Minh; Căn cứ Nghị quyết số 18/2021/NQ-HĐND ngày 19 tháng 10 năm 2021 của Hội đồng nhân dân Thành phố về việc",
+    "legal_bases": [
+      "Căn cứ Luật Ban hành văn bản quy phạm pháp luật ngày 22 tháng 6 năm 2015 và Luật sửa đổi, bổ sung một số điều của Luật Ban hành văn bản quy phạm pháp luật ngày 18 tháng 6 năm 2020",
+      "Căn cứ Luật Hải quan ngày 23 tháng 06 năm 2014",
+      "Căn cứ Luật Ngân sách Nhà nước ngày 25 tháng 6 năm 2015",
+      "Căn cứ Luật Phí và lệ phí ngày 25 tháng 11 năm 2015",
+      "Căn cứ Nghị định số 120/2016/NĐ-CP ngày 23 tháng 8 năm 2016 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Phí và lệ phí",
+      "Căn cứ Thông tư số 85/2019/TT-BTC ngày 29 tháng 11 năm 2019 của Bộ Tài chính hướng dẫn về phí và lệ phí thuộc thẩm quyền quyết định của Hội đồng nhân dân tỉnh, thành phố trực thuộc Trung ương",
+      "Căn cứ Nghị quyết số 10/2020/NQ-HĐND ngày 09 tháng 12 năm 2020 của Hội đồng nhân dân thành phố Hồ Chí Minh về việc ban hành mức thu phí sử dụng công trình kết cấu hạ tầng, công trình dịch vụ công ích công cộng trong khu vực cửa khẩu cảng biển trên địa bàn thành phố Hồ Chí Minh",
+      "Căn cứ Nghị quyết số 18/2021/NQ-HĐND ngày 19 tháng 10 năm 2021 của Hội đồng nhân dân Thành phố về việc"
+    ],
+    "proposals": [],
+    "enactment_formula": "QUYẾT ĐỊNH"
+  },
+  "passage": "QUYẾT ĐỊNH\nBAN HÀNH QUY CHẾ PHỐI HỢP TRONG CÔNG TÁC THU PHÍ SỬ DỤNG CÔNG TRÌNH KẾT\nCẤU HẠ TẦNG, CÔNG TRÌNH DỊCH VỤ TIỆN ÍCH CÔNG CỘNG KHU VỰC CỬA KHẨU CẢNG BIỂN\nTRÊN ĐỊA BÀN THÀNH PHỐ HỒ CHÍ MINH\nỦY BAN NHÂN DÂN THÀNH PHỐ HỒ CHÍ MINH\nCăn cứ Luật Tổ chức chính quyền địa phương ngày 19 tháng 6 năm 2015 và Luật sửa đổi, bổ sung một số điều của Luật Tổ chức Chính phủ và Luật Tổ chức chính quyền địa phương ngày 22 tháng 11 năm 2019; Căn cứ Luật Ban hành văn bản quy phạm pháp luật ngày 22 tháng 6 năm 2015 và Luật sửa đổi, bổ sung một số điều của Luật Ban hành văn bản quy phạm pháp luật ngày 18 tháng 6 năm 2020; Căn cứ Luật Hải quan ngày 23 tháng 06 năm 2014; Căn cứ Luật Ngân sách Nhà nước ngày 25 tháng 6 năm 2015; Căn cứ Luật Phí và lệ phí ngày 25 tháng 11 năm 2015; Căn cứ Nghị định số 120/2016/NĐ-CP ngày 23 tháng 8 năm 2016 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Phí và lệ phí; Căn cứ Thông tư số 85/2019/TT-BTC ngày 29 tháng 11 năm 2019 của Bộ Tài chính hướng dẫn về phí và lệ phí thuộc thẩm quyền quyết định của Hội đồng nhân dân tỉnh, thành phố trực thuộc Trung ương; Căn cứ Nghị quyết số 10/2020/NQ-HĐND ngày 09 tháng 12 năm 2020 của Hội đồng nhân dân thành phố Hồ Chí Minh về việc ban hành mức thu phí sử dụng công trình kết cấu hạ tầng, công trình dịch vụ công ích công cộng trong khu vực cửa khẩu cảng biển trên địa bàn thành phố Hồ Chí Minh; Căn cứ Nghị quyết số 18/2021/NQ-HĐND ngày 19 tháng 10 năm 2021 của Hội đồng nhân dân Thành phố về việc\nĐiều 1 Nghị quyết số 11/2021/NQ-HĐND ngày 25 tháng 6 năm 2021 của Hội đồng nhân dân Thành phố Hồ Chí Minh về việc sửa đổi, bổ sung Khoản 5 Điều 1, Nghị quyết số 10/2020/NQ-HĐND ngày 09 tháng 12 năm 2020 của Hội đồng nhân dân Thành phố Hồ Chí Minh ban hành mức thu phí sử dụng công trình kết cấu hạ tầng, công trình dịch vụ tiện ích công cộng trong khu vực cửa khẩu cảng biển trên địa bàn Thành phố Hồ Chí Minh; Căn cứ Quyết định số 28/2021/QĐ-UBND ngày 20 tháng 7 năm 2021 của Ủy ban nhân dân Thành phố ban hành Quy trình thu phí sử dụng công trình kết cấu hạ tầng, công trình dịch vụ công ích công cộng trong khu vực cửa khẩu cảng biển trên địa bàn thành phố Hồ Chí Minh; Theo đề nghị của Giám đốc Sở Giao thông vận tải tại Tờ trình số 2123/TTr-SGTVT ngày 11 tháng 3 năm 2022 về việc ban hành Quy chế phối hợp trong công tác thu phí sử dụng công trình kết cấu hạ tầng, công trình dịch vụ, tiện ích công cộng khu vực cửa khẩu cảng biển trên địa bàn thành phố Hồ Chí Minh; ý kiến thẩm định của Sở Tư pháp tại văn bản số 3396/STP-VB ngày 13 tháng 9 năm 2021 về thẩm định hồ sơ dự thảo\nQuy chế phối hợp trong công tác thu phí sử dụng công trình kết cấu hạ tầng,\ncông trình dịch vụ tiện ích công cộng trong khu vực cửa khẩu cảng biển trên địa bàn Thành phố Hồ Chí Minh,\nQUYẾT ĐỊNH:\nĐiều 1. Ban hành kèm theo Quyết định này Quy chế phối hợp trong công tác thu phí sử dụng công trình kết cấu hạ tầng, công trình dịch vụ, tiện ích công cộng khu vực cửa khẩu cảng biển trên địa bàn thành phố Hồ Chí Minh.\nĐiều 2. Quyết định này có hiệu lực kể từ ngày 11 tháng 4 năm 2022.\nĐiều 3. Chánh Văn phòng Ủy ban nhân dân Thành phố, Thủ trưởng các Sở, ban - ngành Thành phố, Thủ trưởng các cơ quan có liên quan, Chủ tịch Ủy ban nhân dân thành phố Thủ Đức, Chủ tịch Ủy ban nhân dân các quận, huyện, Giám đốc Cảng vụ đường thủy nội địa Thành phố Hồ Chí Minh chịu trách nhiệm thi hành Quyết định này./.\nNơi nhận:\n- Như Điều 3;\n- Bộ Tài chính;\n- Cục kiểm tra VBQPPL-Bộ Tư pháp;\n- Thường trực Thành ủy;\n- Thường trực HĐND Thành phố;\n- Đoàn Đại biểu Quốc hội Thành phố;\n- TTUB: CT, các PCT;\n- VPUB: CVP, các PCVP;\n- Phòng KT, ĐT;\n- Trung Tâm công báo;\n- Lưu VT, (KT/BQH).\nTM. ỦY BAN NHÂN\nDÂN\nKT. CHỦ TỊCH\nPHÓ CHỦ TỊCH\nPhan Thị Thắng\nQUY CHẾ\nPHỐI HỢP TRONG CÔNG TÁC THU PHÍ SỬ DỤNG CÔNG TRÌNH KẾT CẤU HẠ TẦNG,\nCÔNG TRÌNH DỊCH VỤ TIỆN ÍCH CÔNG CỘNG KHU VỰC CỬA KHẨU CẢNG BIỂN TRÊN ĐỊA BÀN\nTHÀNH PHỐ HỒ CHÍ MINH\n(Ban hành theo Quyết định số 08/2022/QĐ-UBND ngày 22 tháng 3 năm 2022 của Ủy ban nhân dân thành phố)\nChương I\nQUY ĐỊNH CHUNG\nĐiều 1. Phạm vi điều chỉnh\nQuy chế này quy định nguyên tắc, nội\ndung và trách nhiệm phối hợp giữa các cơ quan, đơn vị, tổ chức, cá nhân có chức năng, nhiệm vụ và nghĩa vụ, quyền hạn liên quan đến công tác thu phí sử dụng công trình kết cấu hạ tầng, công trình dịch vụ, tiện ích công cộng khu vực cửa khẩu cảng biển trên địa bàn Thành phố Hồ Chí Minh (sau đây gọi tắt là công tác thu phí hạ tầng cảng biển).\nĐiều 2. Đối tượng áp dụng\n1. Các cơ quan, đơn vị có chức năng,\nnhiệm vụ và quyền hạn liên quan đến công tác thu phí hạ tầng cảng biển.\n2. Tổ chức, cá nhân kinh doanh hàng\nhóa nhập khẩu, xuất khẩu, tạm nhập - tái xuất, hàng chuyển khẩu, hàng gửi kho ngoại quan, hàng quá cảnh sử dụng công trình kết cấu hạ tầng công trình dịch vụ tiện ích công cộng khu vực cửa khẩu cảng biển Thành phố Hồ Chí Minh (bao gồm tổ chức, cá nhân mở tờ khai hải quan tại Thành phố Hồ Chí Minh và ngoài Thành phố Hồ Chí Minh).\nChương II\nNGUYÊN TẮC VÀ NỘI DUNG PHỐI HỢP\nĐiều 3. Nguyên tắc phối hợp\n1. Chấp hành sự chỉ đạo trực tiếp của\nỦy ban nhân dân Thành phố Hồ Chí Minh (sau đây gọi tắt là Ủy ban nhân dân Thành phố).\n2. Thực hiện trên cơ sở chức năng nhiệm\nvụ, quyền hạn của các cơ quan, đơn vị phối hợp và tuân thủ quy định của pháp luật trong công tác thu phí hạ tầng cảng biển.\n3. Đảm bảo phối hợp chặt chẽ, thống\nnhất, phân định rõ trách nhiệm, quyền hạn giữa các cơ quan, đơn vị, tránh hình thức, chồng chéo, thiếu trách nhiệm gây ảnh hưởng đến hiệu quả công tác; đảm bảo thủ tục đơn giản, thực hiện nhanh chóng, tạo điều kiện thuận lợi, tránh mọi phiền hà, ách tắc cho người dân và doanh nghiệp.\n4. Đảm bảo thu đúng, thu đủ theo quy\nđịnh; tránh thất thu, thất thoát nguồn thu phí của Nhà nước. Quản lý, sử dụng tiền thu phí đảm bảo đúng quy định của Luật Phí và lệ phí và các văn bản hướng dẫn có liên quan.\nĐiều 4. Các nội dung phối hợp\n1. Tổ chức các hoạt động tuyên truyền,\nhướng dẫn về công tác thu phí hạ tầng cảng biển.\n2. Xây dựng Quy chế phối hợp các Sở\nngành và cơ quan, đơn vị có liên quan trong công tác thu phí.\n3. Xây dựng Quy định về quy trình thu\nphí và quản lý phí, cơ chế thu nộp - đối chiếu và cơ chế kiểm soát.\n4. Công tác tổ chức thực hiện thu\nphí.\n5. Công tác kiểm tra việc nộp phí hạ\ntầng cảng biển của người dân và doanh nghiệp.\n6. Công tác xử phạt vi phạm hành\nchính đối với các hành vi vi phạm quy định về nộp phí theo quy định.\n7. Chia sẻ dữ liệu về tờ khai hàng\nhóa để làm cơ sở thu phí và đối soát.\n8. Xây dựng dự toán và quyết toán số\nthu phí; chi phí quản lý thu phí; bố trí sử dụng có mục tiêu cho đầu tư và bảo trì kết cấu hạ tầng giao thông kết nối các cảng biển (đường bộ và đường thủy).\nĐiều 5. Cơ quan, đơn vị phối hợp thu phí\n1. Đơn vị thu phí: Cảng vụ đường thủy\nnội địa Thành phố Hồ Chí Minh là đơn vị trực thuộc Sở Giao thông vận tải Thành phố Hồ Chí Minh (sau đây gọi là Cảng vụ).\n2. Các cơ quan, đơn vị phối hợp: Văn\nphòng Ủy ban nhân dân thành phố, Cục Hải quan Thành phố Hồ Chí Minh (sau đây gọi tắt là Cục Hải quan), Chi cục Hải quan quản lý cảng (sau đây gọi tắt là Chi cục Hải quan), Cục Thuế thành phố Hồ Chí Minh (sau đây gọi tắt là Cục thuế), Kho bạc Nhà nước Thành phố Hồ Chí Minh (sau đây gọi tắt là Kho Bạc Nhà nước), Sở Giao thông vận tải Thành phố Hồ Chí Minh (sau đây gọi tắt là Sở Giao thông vận tải), Sở Tài chính Thành phố Hồ Chí Minh (sau đây gọi tắt là Sở Tài chính), Sở Kế hoạch và đầu tư Thành phố Hồ Chí Minh (sau đây gọi tắt là Sở Kế hoạch và Đầu tư), Sở Thông tin và truyền thông Thành phố Hồ Chí Minh (sau đây gọi tắt là Sở Thông tin và truyền thông), Sở Tư pháp Thành phố Hồ Chí Minh (sau đây gọi tắt là Sở Tư pháp), các Ngân hàng thương mại (sau đây gọi tắt là Ngân hàng), các Doanh nghiệp kinh doanh khai thác cảng biển (sau đây gọi tắt là doanh nghiệp cảng) và các cơ quan, Sở ngành khác có liên quan.\nChương III\nTRÁCH NHIỆM CỦA\nCÁC CƠ QUAN, ĐƠN VỊ TRONG CÔNG TÁC PHỐI HỢP\nĐiều 6. Trách nhiệm của Cảng vụ\n1. Đảm bảo thông suốt hệ thống thu\nphí điện tử; đồng bộ với cổng thông tin điện tử khai báo của cơ quan Hải quan nhằm đảm bảo thuận lợi cho đối tượng nộp phí (sau đây gọi là người nộp phí). Tổ chức thực hiện công tác quản lý, thu phí đảm bảo có sự phối hợp quản lý chặt chẽ giữa các cơ quan, đơn vị có liên quan. Trên cơ sở rà soát, hàng ngày liên hệ với người nộp phí đối chiếu và thu hồi nợ; ban hành các văn bản đôn đốc, truy thu đối với người nộp phí nợ phí. Trường hợp, người nộp phí đã được nhắc nhở nhiều lần về thực hiện nghĩa vụ nộp phí thì triển khai áp dụng các biện pháp cưỡng chế theo quy định.\n2. Quản lý, sử dụng tiền phí được trích để lại phục vụ cho công tác thu\nphí đảm bảo đúng quy định của Luật phí và lệ phí và các văn bản hướng dẫn có liên quan.\n3. Xử phạt vi phạm hành chính đối với\ncác hành vi vi phạm quy định về nộp phí theo quy định.\n4. Đăng ký, kê khai, thu, nộp, quyết\ntoán phí theo quy định. Hàng năm, lập dự toán thu; dự toán chi phí từ nguồn được trích để lại.\n5. Đăng ký, phát hành biên lai thu\nphí điện tử theo quy định pháp luật.\n6. Chủ trì phối hợp với các cơ quan,\nđơn vị có liên quan đối soát số liệu và xử lý các sai sót trong quá trình thực hiện theo quy định.\n7. Tổng hợp báo cáo kết quả thực hiện,\nkiến nghị cơ quan có thẩm quyền giải quyết các khó khăn vướng mắc có liên quan đến công tác thu phí.\nĐiều 7. Trách nhiệm của Cục Hải quan, Chi cục Hải quan\n1. Cục Hải quan tham mưu Ủy ban nhân\ndân Thành phố Quy chế phối hợp với Tổng cục Hải quan về chia sẻ dữ liệu tờ khai hàng hóa để phục vụ cho công tác thu phí hạ tầng cảng biển.\n2. Chi Cục Hải quan phối hợp, hỗ trợ\nCảng vụ thực hiện các đối soát thủ công đối với các trường hợp phải đối soát thủ công.\nĐiều 8. Trách nhiệm của Cục Thuế\n1. Chủ trì phối hợp với các Sở ngành\nvà đơn vị liên quan hướng dẫn về chứng từ, quy trình thu nộp, quyết toán phí và các nhiệm vụ khác có liên quan.\n2. Tiếp nhận, xử lý các vi phạm quy định\nvề nộp phí vượt thẩm quyền xử phạt vi phạm hành chính của Giám đốc Cảng vụ theo quy định.\nĐiều 9. Trách nhiệm của Kho bạc Nhà nước\n1. Nhận dữ liệu điện tử từ ngân hàng\ntruyền về và thực hiện hạch toán số thu kịp thời, chính xác vào tài khoản thu phí của Cảng vụ theo quy định.\n2. Đối chiếu số liệu định kỳ tháng,\nquý, năm với Cảng vụ theo quy định.\nĐiều 10. Trách nhiệm của Sở Giao thông vận tải\n1. Là cơ quan đầu mối chịu trách nhiệm\ntheo dõi, đôn đốc các Sở ngành và các cơ quan, đơn vị có liên quan triển khai thực hiện công tác thu phí hạ tầng cảng biển.\n2. Chỉ đạo các phòng tham mưu và Cảng\nvụ triển khai thực hiện quy chế này theo chức năng, nhiệm vụ.\n3. Lập danh mục đề xuất đầu tư, bảo\ntrì kết cấu hạ tầng giao thông kết nối với các cảng biển (đường bộ và đường thủy) từ nguồn thu trình cấp thẩm quyền quyết định.\n4. Hàng năm đánh giá tình hình thu\nphí và chi phí phục vụ công tác thu phí để xác định tỷ lệ trích chi phí phù hợp, báo cáo đề xuất Ủy ban nhân dân Thành phố trình Hội đồng nhân dân Thành phố Hồ Chí Minh quyết định.\n5. Nghiên cứu xây dựng mức thu phí đối\nvới các tổ chức, cá nhân kinh doanh hàng hóa vận chuyển nội địa sử dụng kết cấu hạ tầng, công trình dịch vụ tiện ích công cộng trong khu vực cửa khẩu cảng biển trên địa bàn thành phố Hồ Chí Minh vào thời điểm thích hợp.\n6. Chủ trì, phối hợp với Sở Tài chính\nvà các đơn vị liên quan: - Tham mưu Ủy ban nhân dân Thành phố quyết định kinh phí trích để lại cho đơn vị thu phí, trong thời gian chưa có số liệu dự toán thu, chi thực tế từ việc thu phí (theo quy định tại điểm c Khoản 4\nĐiều 1 Nghị quyết số 10/2020/NQ-HĐND ngày 09 tháng 12 năm 2020 của Hội đồng nhân dân Thành phố Hồ Chí Minh). - Tham mưu Ủy ban nhân dân Thành phố trình Hội đồng nhân dân Thành phố quyết định tỷ lệ trích để lại cho đơn vị thu phí sau một năm thực hiện đề án, có đầy đủ số liệu dự toán thu, chi từ việc thu phí hạ tầng cảng biển. - Tham mưu Ủy ban nhân dân thành phố cơ chế, chính sách liên quan chi phí phục vụ công tác thu phí đảm bảo chặt chẽ, đúng quy định pháp luật.\nĐiều 11. Trách nhiệm của Sở Tài chính\n1. Phối hợp với Sở Giao thông vận tải\nvà các đơn vị liên quan tham mưu Ủy ban nhân dân Thành phố quyết định kinh phí trích để lại cho đơn vị thu phí, trong thời gian chưa có số liệu dự toán thu, chi thực tế từ việc thu phí (theo quy định tại điểm c Khoản 4 Điều 1 Nghị quyết số 10/2020/NQ-HĐND ngày 09 tháng 12 năm 2020 của Hội đồng nhân dân Thành phố Hồ Chí Minh).\n2. Phối hợp với Sở Giao thông vận tải\nvà các đơn vị liên quan tham mưu Ủy ban nhân dân Thành phố trình Hội đồng nhân dân Thành phố quyết định tỷ lệ trích để lại cho đơn vị thu phí sau một năm thực hiện đề án, có đầy đủ số liệu dự toán thu, chi từ việc thu phí hạ tầng cảng biển.\nĐiều 12. Trách nhiệm của Sở Kế hoạch và đầu tư Chủ trì phối hợp Sở Tài chính đề xuất đầu tư hoặc bảo trì kết cấu hạ tầng giao thông; kết nối với cảng biển (đường bộ và đường thủy) trên danh mục đề xuất của Sở Giao thông vận tải, trình cấp thẩm quyền quyết định.\nĐiều 13. Trách nhiệm của Sở Thông tin và truyền thông\n1. Chủ trì phối hợp hướng dẫn các cơ\nquan báo chí, hệ thống thông tin cơ sở tổ chức triển khai tuyên truyền các nội dung Nghị quyết, kế hoạch của Ủy ban nhân dân Thành phố trong việc thực hiện công tác thu phí hạ tầng cảng biển và các nhiệm vụ khác có liên quan.\n2. Hỗ trợ Sở Giao thông vận tải và Cảng\nvụ về pháp lý để đảm bảo hệ thống thông tin điện tử hoạt động thông suốt.\n3. Tham mưu cho Ủy ban nhân dân Thành\nphố về cơ sở hạ tầng máy móc công nghệ thông tin (đường truyền, sever, phần cứng...) để phục vụ cho công tác thu phí được đảm bảo.\nĐiều 14. Trách nhiệm của Sở Tư pháp Phối hợp với Sở Giao thông vận tải tham mưu văn bản trình Ủy ban nhân dân Thành phố hướng dẫn hoặc kiến nghị, báo cáo vướng mắc với các Bộ ngành trong công tác xử lý vi phạm hành chính liên quan đến công tác thu phí sử dụng công trình kết cấu hạ tầng, công trình dịch vụ tiện ích công cộng khu vực cửa khẩu cảng biển trên địa bàn Thành phố Hồ Chí Minh.\nĐiều 15. Trách nhiệm của Ngân hàng\n1. Đảm bảo thông suốt hệ thống thanh\ntoán 24/7; hỗ trợ các đối tượng nộp phí thực hiện nhanh chóng, kịp thời. Cung cấp đầy đủ các dịch vụ cho các đối tượng nộp phí. Bảo mật thông tin của đối tượng nộp phí theo quy định.\n2. Thực hiện đối soát thông báo phí,\nxác nhận nộp phí với hệ thống thu phí theo quy định.\n3. Thực hiện hạch toán đầy đủ, truyền\ndữ liệu chính xác, kịp thời các khoản thu phí vào tài khoản của Cảng vụ mở tại Kho bạc Nhà nước theo quy định.\n4. Phối hợp với các cơ quan, đơn vị\ncó liên quan xử lý các sai sót trong quá trình thực hiện.\nĐiều 16. Trách nhiệm của Doanh nghiệp cảng\n1. Duy trì trạng thái kết nối hệ thống\nvới cổng thông tin Hải quan để thực hiện đối soát tự động trạng thái thu phí và hồ sơ hàng hóa qua cảng.\n2. Kiểm tra biên lai phí trên hệ thống\nthu phí để xác nhận điều kiện hàng hóa qua cảng.\n3. Định kỳ mỗi một lần/ngày gửi thông\ntin hàng hóa thực tế qua cảng của ngày hôm trước lên hệ thống đối soát của đơn vị thu phí.\n4. Hỗ trợ nhắc nhở người nộp phí chưa thực hiện nghĩa vụ nộp phí theo quy định.\n5. Phối hợp với Chi cục Hải quan và Cảng\nvụ khi có yêu cầu không cung cấp dịch vụ, cụ thể là không cho phép hàng qua cảng đối với các trường hợp người nộp phí trong trạng thái cưỡng chế hoặc phải kiểm tra đối soát thủ công trước khi được cung cấp dịch vụ.\nĐiều 17. Trách nhiệm của các cơ quan, đơn vị khác Các Sở ngành, Ủy ban nhân dân thành phố Thủ Đức, Ủy ban nhân dân các quận, huyện, các cơ quan, đơn vị có liên quan thuộc Thành phố Hồ Chí Minh chịu trách nhiệm triển khai thực hiện Quy chế này, đồng thời thực hiện tốt công tác tuyên truyền, hướng dẫn công tác thu phí theo đúng chức năng, nhiệm vụ.\nChương IV\nTRÁCH NHIỆM CỦA\nTỔ CHỨC, CÁ NHÂN KINH DOANH HÀNG HÓA\nĐiều 18. Trách nhiệm của tổ chức, cá nhân kinh doanh hàng hóa (Người nộp phí)\n1. Thực hiện nghĩa vụ kê khai Tờ khai\nnộp phí và thanh toán các khoản phí theo thông báo nộp phí.\n2. Sau khi hoàn thành đóng phí và có\nkết quả xác nhận thì mới được đến cảng để giao nhận hàng hóa.\n3. Trường hợp không đóng phí hoặc\nđóng phí chậm, thì sẽ bị xử lý vi phạm hành chính đối với các hành vi vi phạm quy định về nộp phí theo quy định.\n4. Chịu trách nhiệm mọi vấn đề liên\nquan do chậm trễ thủ tục không thực hiện đúng quy trình nộp phí theo quy định.\n5. Có quyền khiếu nại, tố cáo theo\nquy định.\nChương IV\nTỔ CHỨC THỰC HIỆN\nĐiều 19. Tổ chức thực hiện\n1. Các cơ quan, đơn vị liên quan\ntrong việc thực hiện quản lý, thu phí có trách nhiệm phối hợp chặt chẽ trong việc tổ chức triển khai thực hiện quy chế này.\n2. Cục Hải quan, Cảng vụ, các Ngân\nhàng phối hợp thu phí hạ tầng cảng biển; các Doanh nghiệp cảng có trách nhiệm niêm yết công khai trên cổng thông tin điện tử của đơn vị về quy chế này, quy trình thu phí, tên phí, mức thu, phương thức thu và các văn bản quy phạm pháp luật quy định về thu phí.\n3. Trong quá trình tổ chức thực hiện,\nnếu có vấn đề phát sinh khó khăn, vướng mắc, các cơ quan, đơn vị phản ánh kịp thời về Sở Giao thông vận tải tổng hợp, trình Ủy ban nhân dân Thành phố xem xét, quyết định điều chỉnh, bổ sung phù hợp quy định.",
+  "tree": {
+    "parts": [
+      {
+        "part_id": "doc:26259:part:1",
+        "part_type": "main",
+        "part_title": null,
+        "reference": null,
+        "direct_text": "QUYẾT ĐỊNH\nBAN HÀNH QUY CHẾ PHỐI HỢP TRONG CÔNG TÁC THU PHÍ SỬ DỤNG CÔNG TRÌNH KẾT\nCẤU HẠ TẦNG, CÔNG TRÌNH DỊCH VỤ TIỆN ÍCH CÔNG CỘNG KHU VỰC CỬA KHẨU CẢNG BIỂN\nTRÊN ĐỊA BÀN THÀNH PHỐ HỒ CHÍ MINH\nỦY BAN NHÂN DÂN THÀNH PHỐ HỒ CHÍ MINH\nCăn cứ Luật Tổ chức chính quyền địa phương ngày 19 tháng 6 năm 2015 và Luật sửa đổi, bổ sung một số điều của Luật Tổ chức Chính phủ và Luật Tổ chức chính quyền địa phương ngày 22 tháng 11 năm 2019; Căn cứ Luật Ban hành văn bản quy phạm pháp luật ngày 22 tháng 6 năm 2015 và Luật sửa đổi, bổ sung một số điều của Luật Ban hành văn bản quy phạm pháp luật ngày 18 tháng 6 năm 2020; Căn cứ Luật Hải quan ngày 23 tháng 06 năm 2014; Căn cứ Luật Ngân sách Nhà nước ngày 25 tháng 6 năm 2015; Căn cứ Luật Phí và lệ phí ngày 25 tháng 11 năm 2015; Căn cứ Nghị định số 120/2016/NĐ-CP ngày 23 tháng 8 năm 2016 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Phí và lệ phí; Căn cứ Thông tư số 85/2019/TT-BTC ngày 29 tháng 11 năm 2019 của Bộ Tài chính hướng dẫn về phí và lệ phí thuộc thẩm quyền quyết định của Hội đồng nhân dân tỉnh, thành phố trực thuộc Trung ương; Căn cứ Nghị quyết số 10/2020/NQ-HĐND ngày 09 tháng 12 năm 2020 của Hội đồng nhân dân thành phố Hồ Chí Minh về việc ban hành mức thu phí sử dụng công trình kết cấu hạ tầng, công trình dịch vụ công ích công cộng trong khu vực cửa khẩu cảng biển trên địa bàn thành phố Hồ Chí Minh; Căn cứ Nghị quyết số 18/2021/NQ-HĐND ngày 19 tháng 10 năm 2021 của Hội đồng nhân dân Thành phố về việc\nQuy chế phối hợp trong công tác thu phí sử dụng công trình kết cấu hạ tầng,\ncông trình dịch vụ tiện ích công cộng trong khu vực cửa khẩu cảng biển trên địa bàn Thành phố Hồ Chí Minh,\nQUYẾT ĐỊNH:",
+        "chapters": [],
+        "sections": [],
+        "articles": [
+          {
+            "article_id": "doc:26259:part:1:article:1",
+            "number": "1",
+            "title": "Nghị quyết số 11/2021/NQ-HĐND ngày 25 tháng 6 năm 2021 của Hội đồng nhân dân Thành phố Hồ Chí Minh về việc sửa đổi, bổ sung Khoản 5 Điều 1, Nghị quyết số 10/2020/NQ-HĐND ngày 09 tháng 12 năm 2020 của Hội đồng nhân dân Thành phố Hồ Chí Minh ban hành mức thu phí sử dụng công trình kết cấu hạ tầng, công trình dịch vụ tiện ích công cộng trong khu vực cửa khẩu cảng biển trên địa bàn Thành phố Hồ Chí Minh; Căn cứ Quyết định số 28/2021/QĐ-UBND ngày 20 tháng 7 năm 2021 của Ủy ban nhân dân Thành phố ban hành Quy trình thu phí sử dụng công trình kết cấu hạ tầng, công trình dịch vụ công ích công cộng trong khu vực cửa khẩu cảng biển trên địa bàn thành phố Hồ Chí Minh; Theo đề nghị của Giám đốc Sở Giao thông vận tải tại Tờ trình số 2123/TTr-SGTVT ngày 11 tháng 3 năm 2022 về việc ban hành Quy chế phối hợp trong công tác thu phí sử dụng công trình kết cấu hạ tầng, công trình dịch vụ, tiện ích công cộng khu vực cửa khẩu cảng biển trên địa bàn thành phố Hồ Chí Minh; ý kiến thẩm định của Sở Tư pháp tại văn bản số 3396/STP-VB ngày 13 tháng 9 năm 2021 về thẩm định hồ sơ dự thảo",
+            "content": "Điều 1 Nghị quyết số 11/2021/NQ-HĐND ngày 25 tháng 6 năm 2021 của Hội đồng nhân dân Thành phố Hồ Chí Minh về việc sửa đổi, bổ sung Khoản 5 Điều 1, Nghị quyết số 10/2020/NQ-HĐND ngày 09 tháng 12 năm 2020 của Hội đồng nhân dân Thành phố Hồ Chí Minh ban hành mức thu phí sử dụng công trình kết cấu hạ tầng, công trình dịch vụ tiện ích công cộng trong khu vực cửa khẩu cảng biển trên địa bàn Thành phố Hồ Chí Minh; Căn cứ Quyết định số 28/2021/QĐ-UBND ngày 20 tháng 7 năm 2021 của Ủy ban nhân dân Thành phố ban hành Quy trình thu phí sử dụng công trình kết cấu hạ tầng, công trình dịch vụ công ích công cộng trong khu vực cửa khẩu cảng biển trên địa bàn thành phố Hồ Chí Minh; Theo đề nghị của Giám đốc Sở Giao thông vận tải tại Tờ trình số 2123/TTr-SGTVT ngày 11 tháng 3 năm 2022 về việc ban hành Quy chế phối hợp trong công tác thu phí sử dụng công trình kết cấu hạ tầng, công trình dịch vụ, tiện ích công cộng khu vực cửa khẩu cảng biển trên địa bàn thành phố Hồ Chí Minh; ý kiến thẩm định của Sở Tư pháp tại văn bản số 3396/STP-VB ngày 13 tháng 9 năm 2021 về thẩm định hồ sơ dự thảo",
+            "clauses": [],
+            "points": []
+          },
+          {
+            "article_id": "doc:26259:part:1:article:2",
+            "number": "1",
+            "title": "Ban hành kèm theo Quyết định này Quy chế phối hợp trong công tác thu phí sử dụng công trình kết cấu hạ tầng, công trình dịch vụ, tiện ích công cộng khu vực cửa khẩu cảng biển trên địa bàn thành phố Hồ Chí Minh.",
+            "content": "Điều 1. Ban hành kèm theo Quyết định này Quy chế phối hợp trong công tác thu phí sử dụng công trình kết cấu hạ tầng, công trình dịch vụ, tiện ích công cộng khu vực cửa khẩu cảng biển trên địa bàn thành phố Hồ Chí Minh.",
+            "clauses": [],
+            "points": []
+          },
+          {
+            "article_id": "doc:26259:part:1:article:3",
+            "number": "2",
+            "title": "Quyết định này có hiệu lực kể từ ngày 11 tháng 4 năm 2022.",
+            "content": "Điều 2. Quyết định này có hiệu lực kể từ ngày 11 tháng 4 năm 2022.",
+            "clauses": [],
+            "points": []
+          },
+          {
+            "article_id": "doc:26259:part:1:article:4",
+            "number": "3",
+            "title": "Chánh Văn phòng Ủy ban nhân dân Thành phố, Thủ trưởng các Sở, ban - ngành Thành phố, Thủ trưởng các cơ quan có liên quan, Chủ tịch Ủy ban nhân dân thành phố Thủ Đức, Chủ tịch Ủy ban nhân dân các quận, huyện, Giám đốc Cảng vụ đường thủy nội địa Thành phố Hồ Chí Minh chịu trách nhiệm thi hành Quyết định này./.",
+            "content": "Điều 3. Chánh Văn phòng Ủy ban nhân dân Thành phố, Thủ trưởng các Sở, ban - ngành Thành phố, Thủ trưởng các cơ quan có liên quan, Chủ tịch Ủy ban nhân dân thành phố Thủ Đức, Chủ tịch Ủy ban nhân dân các quận, huyện, Giám đốc Cảng vụ đường thủy nội địa Thành phố Hồ Chí Minh chịu trách nhiệm thi hành Quyết định này./.",
+            "clauses": [],
+            "points": []
+          }
+        ],
+        "unstructured_blocks": []
+      },
+      {
+        "part_id": "doc:26259:part:2",
+        "part_type": "regulation",
+        "part_title": "QUY CHẾ",
+        "reference": null,
+        "direct_text": "QUY CHẾ\nPHỐI HỢP TRONG CÔNG TÁC THU PHÍ SỬ DỤNG CÔNG TRÌNH KẾT CẤU HẠ TẦNG,\nCÔNG TRÌNH DỊCH VỤ TIỆN ÍCH CÔNG CỘNG KHU VỰC CỬA KHẨU CẢNG BIỂN TRÊN ĐỊA BÀN\nTHÀNH PHỐ HỒ CHÍ MINH\n(Ban hành theo Quyết định số 08/2022/QĐ-UBND ngày 22 tháng 3 năm 2022 của Ủy ban nhân dân thành phố)\nQuy chế này quy định nguyên tắc, nội\ndung và trách nhiệm phối hợp giữa các cơ quan, đơn vị, tổ chức, cá nhân có chức năng, nhiệm vụ và nghĩa vụ, quyền hạn liên quan đến công tác thu phí sử dụng công trình kết cấu hạ tầng, công trình dịch vụ, tiện ích công cộng khu vực cửa khẩu cảng biển trên địa bàn Thành phố Hồ Chí Minh (sau đây gọi tắt là công tác thu phí hạ tầng cảng biển).",
+        "chapters": [
+          {
+            "chapter_id": "doc:26259:part:2:chapter:1",
+            "number": "I",
+            "title": "QUY ĐỊNH CHUNG",
+            "content": "Chương I\nQUY ĐỊNH CHUNG",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:26259:part:2:article:1",
+                "number": "1",
+                "title": "Phạm vi điều chỉnh",
+                "content": "Điều 1. Phạm vi điều chỉnh",
+                "clauses": [],
+                "points": []
+              },
+              {
+                "article_id": "doc:26259:part:2:article:2",
+                "number": "2",
+                "title": "Đối tượng áp dụng",
+                "content": "Điều 2. Đối tượng áp dụng",
+                "clauses": [
+                  {
+                    "clause_id": "doc:26259:part:2:article:2:clause:1",
+                    "number": "1",
+                    "content": "1. Các cơ quan, đơn vị có chức năng,\nnhiệm vụ và quyền hạn liên quan đến công tác thu phí hạ tầng cảng biển.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:26259:part:2:article:2:clause:2",
+                    "number": "2",
+                    "content": "2. Tổ chức, cá nhân kinh doanh hàng\nhóa nhập khẩu, xuất khẩu, tạm nhập - tái xuất, hàng chuyển khẩu, hàng gửi kho ngoại quan, hàng quá cảnh sử dụng công trình kết cấu hạ tầng công trình dịch vụ tiện ích công cộng khu vực cửa khẩu cảng biển Thành phố Hồ Chí Minh (bao gồm tổ chức, cá nhân mở tờ khai hải quan tại Thành phố Hồ Chí Minh và ngoài Thành phố Hồ Chí Minh).",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:26259:part:2:chapter:2",
+            "number": "II",
+            "title": "NGUYÊN TẮC VÀ NỘI DUNG PHỐI HỢP",
+            "content": "Chương II\nNGUYÊN TẮC VÀ NỘI DUNG PHỐI HỢP",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:26259:part:2:article:3",
+                "number": "3",
+                "title": "Nguyên tắc phối hợp",
+                "content": "Điều 3. Nguyên tắc phối hợp",
+                "clauses": [
+                  {
+                    "clause_id": "doc:26259:part:2:article:3:clause:1",
+                    "number": "1",
+                    "content": "1. Chấp hành sự chỉ đạo trực tiếp của\nỦy ban nhân dân Thành phố Hồ Chí Minh (sau đây gọi tắt là Ủy ban nhân dân Thành phố).",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:26259:part:2:article:3:clause:2",
+                    "number": "2",
+                    "content": "2. Thực hiện trên cơ sở chức năng nhiệm\nvụ, quyền hạn của các cơ quan, đơn vị phối hợp và tuân thủ quy định của pháp luật trong công tác thu phí hạ tầng cảng biển.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:26259:part:2:article:3:clause:3",
+                    "number": "3",
+                    "content": "3. Đảm bảo phối hợp chặt chẽ, thống\nnhất, phân định rõ trách nhiệm, quyền hạn giữa các cơ quan, đơn vị, tránh hình thức, chồng chéo, thiếu trách nhiệm gây ảnh hưởng đến hiệu quả công tác; đảm bảo thủ tục đơn giản, thực hiện nhanh chóng, tạo điều kiện thuận lợi, tránh mọi phiền hà, ách tắc cho người dân và doanh nghiệp.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:26259:part:2:article:3:clause:4",
+                    "number": "4",
+                    "content": "4. Đảm bảo thu đúng, thu đủ theo quy\nđịnh; tránh thất thu, thất thoát nguồn thu phí của Nhà nước. Quản lý, sử dụng tiền thu phí đảm bảo đúng quy định của Luật Phí và lệ phí và các văn bản hướng dẫn có liên quan.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:26259:part:2:article:4",
+                "number": "4",
+                "title": "Các nội dung phối hợp",
+                "content": "Điều 4. Các nội dung phối hợp",
+                "clauses": [
+                  {
+                    "clause_id": "doc:26259:part:2:article:4:clause:1",
+                    "number": "1",
+                    "content": "1. Tổ chức các hoạt động tuyên truyền,\nhướng dẫn về công tác thu phí hạ tầng cảng biển.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:26259:part:2:article:4:clause:2",
+                    "number": "2",
+                    "content": "2. Xây dựng Quy chế phối hợp các Sở\nngành và cơ quan, đơn vị có liên quan trong công tác thu phí.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:26259:part:2:article:4:clause:3",
+                    "number": "3",
+                    "content": "3. Xây dựng Quy định về quy trình thu\nphí và quản lý phí, cơ chế thu nộp - đối chiếu và cơ chế kiểm soát.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:26259:part:2:article:4:clause:4",
+                    "number": "4",
+                    "content": "4. Công tác tổ chức thực hiện thu\nphí.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:26259:part:2:article:4:clause:5",
+                    "number": "5",
+                    "content": "5. Công tác kiểm tra việc nộp phí hạ\ntầng cảng biển của người dân và doanh nghiệp.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:26259:part:2:article:4:clause:6",
+                    "number": "6",
+                    "content": "6. Công tác xử phạt vi phạm hành\nchính đối với các hành vi vi phạm quy định về nộp phí theo quy định.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:26259:part:2:article:4:clause:7",
+                    "number": "7",
+                    "content": "7. Chia sẻ dữ liệu về tờ khai hàng\nhóa để làm cơ sở thu phí và đối soát.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:26259:part:2:article:4:clause:8",
+                    "number": "8",
+                    "content": "8. Xây dựng dự toán và quyết toán số\nthu phí; chi phí quản lý thu phí; bố trí sử dụng có mục tiêu cho đầu tư và bảo trì kết cấu hạ tầng giao thông kết nối các cảng biển (đường bộ và đường thủy).",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:26259:part:2:article:5",
+                "number": "5",
+                "title": "Cơ quan, đơn vị phối hợp thu phí",
+                "content": "Điều 5. Cơ quan, đơn vị phối hợp thu phí",
+                "clauses": [
+                  {
+                    "clause_id": "doc:26259:part:2:article:5:clause:1",
+                    "number": "1",
+                    "content": "1. Đơn vị thu phí: Cảng vụ đường thủy\nnội địa Thành phố Hồ Chí Minh là đơn vị trực thuộc Sở Giao thông vận tải Thành phố Hồ Chí Minh (sau đây gọi là Cảng vụ).",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:26259:part:2:article:5:clause:2",
+                    "number": "2",
+                    "content": "2. Các cơ quan, đơn vị phối hợp: Văn\nphòng Ủy ban nhân dân thành phố, Cục Hải quan Thành phố Hồ Chí Minh (sau đây gọi tắt là Cục Hải quan), Chi cục Hải quan quản lý cảng (sau đây gọi tắt là Chi cục Hải quan), Cục Thuế thành phố Hồ Chí Minh (sau đây gọi tắt là Cục thuế), Kho bạc Nhà nước Thành phố Hồ Chí Minh (sau đây gọi tắt là Kho Bạc Nhà nước), Sở Giao thông vận tải Thành phố Hồ Chí Minh (sau đây gọi tắt là Sở Giao thông vận tải), Sở Tài chính Thành phố Hồ Chí Minh (sau đây gọi tắt là Sở Tài chính), Sở Kế hoạch và đầu tư Thành phố Hồ Chí Minh (sau đây gọi tắt là Sở Kế hoạch và Đầu tư), Sở Thông tin và truyền thông Thành phố Hồ Chí Minh (sau đây gọi tắt là Sở Thông tin và truyền thông), Sở Tư pháp Thành phố Hồ Chí Minh (sau đây gọi tắt là Sở Tư pháp), các Ngân hàng thương mại (sau đây gọi tắt là Ngân hàng), các Doanh nghiệp kinh doanh khai thác cảng biển (sau đây gọi tắt là doanh nghiệp cảng) và các cơ quan, Sở ngành khác có liên quan.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:26259:part:2:chapter:3",
+            "number": "III",
+            "title": "TRÁCH NHIỆM CỦA CÁC CƠ QUAN, ĐƠN VỊ TRONG CÔNG TÁC PHỐI HỢP",
+            "content": "Chương III\nTRÁCH NHIỆM CỦA\nCÁC CƠ QUAN, ĐƠN VỊ TRONG CÔNG TÁC PHỐI HỢP",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:26259:part:2:article:6",
+                "number": "6",
+                "title": "Trách nhiệm của Cảng vụ",
+                "content": "Điều 6. Trách nhiệm của Cảng vụ",
+                "clauses": [
+                  {
+                    "clause_id": "doc:26259:part:2:article:6:clause:1",
+                    "number": "1",
+                    "content": "1. Đảm bảo thông suốt hệ thống thu\nphí điện tử; đồng bộ với cổng thông tin điện tử khai báo của cơ quan Hải quan nhằm đảm bảo thuận lợi cho đối tượng nộp phí (sau đây gọi là người nộp phí). Tổ chức thực hiện công tác quản lý, thu phí đảm bảo có sự phối hợp quản lý chặt chẽ giữa các cơ quan, đơn vị có liên quan. Trên cơ sở rà soát, hàng ngày liên hệ với người nộp phí đối chiếu và thu hồi nợ; ban hành các văn bản đôn đốc, truy thu đối với người nộp phí nợ phí. Trường hợp, người nộp phí đã được nhắc nhở nhiều lần về thực hiện nghĩa vụ nộp phí thì triển khai áp dụng các biện pháp cưỡng chế theo quy định.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:26259:part:2:article:6:clause:2",
+                    "number": "2",
+                    "content": "2. Quản lý, sử dụng tiền phí được trích để lại phục vụ cho công tác thu\nphí đảm bảo đúng quy định của Luật phí và lệ phí và các văn bản hướng dẫn có liên quan.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:26259:part:2:article:6:clause:3",
+                    "number": "3",
+                    "content": "3. Xử phạt vi phạm hành chính đối với\ncác hành vi vi phạm quy định về nộp phí theo quy định.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:26259:part:2:article:6:clause:4",
+                    "number": "4",
+                    "content": "4. Đăng ký, kê khai, thu, nộp, quyết\ntoán phí theo quy định. Hàng năm, lập dự toán thu; dự toán chi phí từ nguồn được trích để lại.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:26259:part:2:article:6:clause:5",
+                    "number": "5",
+                    "content": "5. Đăng ký, phát hành biên lai thu\nphí điện tử theo quy định pháp luật.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:26259:part:2:article:6:clause:6",
+                    "number": "6",
+                    "content": "6. Chủ trì phối hợp với các cơ quan,\nđơn vị có liên quan đối soát số liệu và xử lý các sai sót trong quá trình thực hiện theo quy định.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:26259:part:2:article:6:clause:7",
+                    "number": "7",
+                    "content": "7. Tổng hợp báo cáo kết quả thực hiện,\nkiến nghị cơ quan có thẩm quyền giải quyết các khó khăn vướng mắc có liên quan đến công tác thu phí.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:26259:part:2:article:7",
+                "number": "7",
+                "title": "Trách nhiệm của Cục Hải quan, Chi cục Hải quan",
+                "content": "Điều 7. Trách nhiệm của Cục Hải quan, Chi cục Hải quan",
+                "clauses": [
+                  {
+                    "clause_id": "doc:26259:part:2:article:7:clause:1",
+                    "number": "1",
+                    "content": "1. Cục Hải quan tham mưu Ủy ban nhân\ndân Thành phố Quy chế phối hợp với Tổng cục Hải quan về chia sẻ dữ liệu tờ khai hàng hóa để phục vụ cho công tác thu phí hạ tầng cảng biển.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:26259:part:2:article:7:clause:2",
+                    "number": "2",
+                    "content": "2. Chi Cục Hải quan phối hợp, hỗ trợ\nCảng vụ thực hiện các đối soát thủ công đối với các trường hợp phải đối soát thủ công.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:26259:part:2:article:8",
+                "number": "8",
+                "title": "Trách nhiệm của Cục Thuế",
+                "content": "Điều 8. Trách nhiệm của Cục Thuế",
+                "clauses": [
+                  {
+                    "clause_id": "doc:26259:part:2:article:8:clause:1",
+                    "number": "1",
+                    "content": "1. Chủ trì phối hợp với các Sở ngành\nvà đơn vị liên quan hướng dẫn về chứng từ, quy trình thu nộp, quyết toán phí và các nhiệm vụ khác có liên quan.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:26259:part:2:article:8:clause:2",
+                    "number": "2",
+                    "content": "2. Tiếp nhận, xử lý các vi phạm quy định\nvề nộp phí vượt thẩm quyền xử phạt vi phạm hành chính của Giám đốc Cảng vụ theo quy định.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:26259:part:2:article:9",
+                "number": "9",
+                "title": "Trách nhiệm của Kho bạc Nhà nước",
+                "content": "Điều 9. Trách nhiệm của Kho bạc Nhà nước",
+                "clauses": [
+                  {
+                    "clause_id": "doc:26259:part:2:article:9:clause:1",
+                    "number": "1",
+                    "content": "1. Nhận dữ liệu điện tử từ ngân hàng\ntruyền về và thực hiện hạch toán số thu kịp thời, chính xác vào tài khoản thu phí của Cảng vụ theo quy định.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:26259:part:2:article:9:clause:2",
+                    "number": "2",
+                    "content": "2. Đối chiếu số liệu định kỳ tháng,\nquý, năm với Cảng vụ theo quy định.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:26259:part:2:article:10",
+                "number": "10",
+                "title": "Trách nhiệm của Sở Giao thông vận tải",
+                "content": "Điều 10. Trách nhiệm của Sở Giao thông vận tải",
+                "clauses": [
+                  {
+                    "clause_id": "doc:26259:part:2:article:10:clause:1",
+                    "number": "1",
+                    "content": "1. Là cơ quan đầu mối chịu trách nhiệm\ntheo dõi, đôn đốc các Sở ngành và các cơ quan, đơn vị có liên quan triển khai thực hiện công tác thu phí hạ tầng cảng biển.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:26259:part:2:article:10:clause:2",
+                    "number": "2",
+                    "content": "2. Chỉ đạo các phòng tham mưu và Cảng\nvụ triển khai thực hiện quy chế này theo chức năng, nhiệm vụ.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:26259:part:2:article:10:clause:3",
+                    "number": "3",
+                    "content": "3. Lập danh mục đề xuất đầu tư, bảo\ntrì kết cấu hạ tầng giao thông kết nối với các cảng biển (đường bộ và đường thủy) từ nguồn thu trình cấp thẩm quyền quyết định.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:26259:part:2:article:10:clause:4",
+                    "number": "4",
+                    "content": "4. Hàng năm đánh giá tình hình thu\nphí và chi phí phục vụ công tác thu phí để xác định tỷ lệ trích chi phí phù hợp, báo cáo đề xuất Ủy ban nhân dân Thành phố trình Hội đồng nhân dân Thành phố Hồ Chí Minh quyết định.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:26259:part:2:article:10:clause:5",
+                    "number": "5",
+                    "content": "5. Nghiên cứu xây dựng mức thu phí đối\nvới các tổ chức, cá nhân kinh doanh hàng hóa vận chuyển nội địa sử dụng kết cấu hạ tầng, công trình dịch vụ tiện ích công cộng trong khu vực cửa khẩu cảng biển trên địa bàn thành phố Hồ Chí Minh vào thời điểm thích hợp.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:26259:part:2:article:10:clause:6",
+                    "number": "6",
+                    "content": "6. Chủ trì, phối hợp với Sở Tài chính\nvà các đơn vị liên quan: - Tham mưu Ủy ban nhân dân Thành phố quyết định kinh phí trích để lại cho đơn vị thu phí, trong thời gian chưa có số liệu dự toán thu, chi thực tế từ việc thu phí (theo quy định tại điểm c Khoản 4",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:26259:part:2:article:11",
+                "number": "1",
+                "title": "Nghị quyết số 10/2020/NQ-HĐND ngày 09 tháng 12 năm 2020 của Hội đồng nhân dân Thành phố Hồ Chí Minh). - Tham mưu Ủy ban nhân dân Thành phố trình Hội đồng nhân dân Thành phố quyết định tỷ lệ trích để lại cho đơn vị thu phí sau một năm thực hiện đề án, có đầy đủ số liệu dự toán thu, chi từ việc thu phí hạ tầng cảng biển. - Tham mưu Ủy ban nhân dân thành phố cơ chế, chính sách liên quan chi phí phục vụ công tác thu phí đảm bảo chặt chẽ, đúng quy định pháp luật.",
+                "content": "Điều 1 Nghị quyết số 10/2020/NQ-HĐND ngày 09 tháng 12 năm 2020 của Hội đồng nhân dân Thành phố Hồ Chí Minh). - Tham mưu Ủy ban nhân dân Thành phố trình Hội đồng nhân dân Thành phố quyết định tỷ lệ trích để lại cho đơn vị thu phí sau một năm thực hiện đề án, có đầy đủ số liệu dự toán thu, chi từ việc thu phí hạ tầng cảng biển. - Tham mưu Ủy ban nhân dân thành phố cơ chế, chính sách liên quan chi phí phục vụ công tác thu phí đảm bảo chặt chẽ, đúng quy định pháp luật.",
+                "clauses": [],
+                "points": []
+              },
+              {
+                "article_id": "doc:26259:part:2:article:12",
+                "number": "11",
+                "title": "Trách nhiệm của Sở Tài chính",
+                "content": "Điều 11. Trách nhiệm của Sở Tài chính",
+                "clauses": [
+                  {
+                    "clause_id": "doc:26259:part:2:article:12:clause:1",
+                    "number": "1",
+                    "content": "1. Phối hợp với Sở Giao thông vận tải\nvà các đơn vị liên quan tham mưu Ủy ban nhân dân Thành phố quyết định kinh phí trích để lại cho đơn vị thu phí, trong thời gian chưa có số liệu dự toán thu, chi thực tế từ việc thu phí (theo quy định tại điểm c Khoản 4 Điều 1 Nghị quyết số 10/2020/NQ-HĐND ngày 09 tháng 12 năm 2020 của Hội đồng nhân dân Thành phố Hồ Chí Minh).",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:26259:part:2:article:12:clause:2",
+                    "number": "2",
+                    "content": "2. Phối hợp với Sở Giao thông vận tải\nvà các đơn vị liên quan tham mưu Ủy ban nhân dân Thành phố trình Hội đồng nhân dân Thành phố quyết định tỷ lệ trích để lại cho đơn vị thu phí sau một năm thực hiện đề án, có đầy đủ số liệu dự toán thu, chi từ việc thu phí hạ tầng cảng biển.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:26259:part:2:article:13",
+                "number": "12",
+                "title": "Trách nhiệm của Sở Kế hoạch và đầu tư Chủ trì phối hợp Sở Tài chính đề xuất đầu tư hoặc bảo trì kết cấu hạ tầng giao thông; kết nối với cảng biển (đường bộ và đường thủy) trên danh mục đề xuất của Sở Giao thông vận tải, trình cấp thẩm quyền quyết định.",
+                "content": "Điều 12. Trách nhiệm của Sở Kế hoạch và đầu tư Chủ trì phối hợp Sở Tài chính đề xuất đầu tư hoặc bảo trì kết cấu hạ tầng giao thông; kết nối với cảng biển (đường bộ và đường thủy) trên danh mục đề xuất của Sở Giao thông vận tải, trình cấp thẩm quyền quyết định.",
+                "clauses": [],
+                "points": []
+              },
+              {
+                "article_id": "doc:26259:part:2:article:14",
+                "number": "13",
+                "title": "Trách nhiệm của Sở Thông tin và truyền thông",
+                "content": "Điều 13. Trách nhiệm của Sở Thông tin và truyền thông",
+                "clauses": [
+                  {
+                    "clause_id": "doc:26259:part:2:article:14:clause:1",
+                    "number": "1",
+                    "content": "1. Chủ trì phối hợp hướng dẫn các cơ\nquan báo chí, hệ thống thông tin cơ sở tổ chức triển khai tuyên truyền các nội dung Nghị quyết, kế hoạch của Ủy ban nhân dân Thành phố trong việc thực hiện công tác thu phí hạ tầng cảng biển và các nhiệm vụ khác có liên quan.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:26259:part:2:article:14:clause:2",
+                    "number": "2",
+                    "content": "2. Hỗ trợ Sở Giao thông vận tải và Cảng\nvụ về pháp lý để đảm bảo hệ thống thông tin điện tử hoạt động thông suốt.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:26259:part:2:article:14:clause:3",
+                    "number": "3",
+                    "content": "3. Tham mưu cho Ủy ban nhân dân Thành\nphố về cơ sở hạ tầng máy móc công nghệ thông tin (đường truyền, sever, phần cứng...) để phục vụ cho công tác thu phí được đảm bảo.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:26259:part:2:article:15",
+                "number": "14",
+                "title": "Trách nhiệm của Sở Tư pháp Phối hợp với Sở Giao thông vận tải tham mưu văn bản trình Ủy ban nhân dân Thành phố hướng dẫn hoặc kiến nghị, báo cáo vướng mắc với các Bộ ngành trong công tác xử lý vi phạm hành chính liên quan đến công tác thu phí sử dụng công trình kết cấu hạ tầng, công trình dịch vụ tiện ích công cộng khu vực cửa khẩu cảng biển trên địa bàn Thành phố Hồ Chí Minh.",
+                "content": "Điều 14. Trách nhiệm của Sở Tư pháp Phối hợp với Sở Giao thông vận tải tham mưu văn bản trình Ủy ban nhân dân Thành phố hướng dẫn hoặc kiến nghị, báo cáo vướng mắc với các Bộ ngành trong công tác xử lý vi phạm hành chính liên quan đến công tác thu phí sử dụng công trình kết cấu hạ tầng, công trình dịch vụ tiện ích công cộng khu vực cửa khẩu cảng biển trên địa bàn Thành phố Hồ Chí Minh.",
+                "clauses": [],
+                "points": []
+              },
+              {
+                "article_id": "doc:26259:part:2:article:16",
+                "number": "15",
+                "title": "Trách nhiệm của Ngân hàng",
+                "content": "Điều 15. Trách nhiệm của Ngân hàng",
+                "clauses": [
+                  {
+                    "clause_id": "doc:26259:part:2:article:16:clause:1",
+                    "number": "1",
+                    "content": "1. Đảm bảo thông suốt hệ thống thanh\ntoán 24/7; hỗ trợ các đối tượng nộp phí thực hiện nhanh chóng, kịp thời. Cung cấp đầy đủ các dịch vụ cho các đối tượng nộp phí. Bảo mật thông tin của đối tượng nộp phí theo quy định.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:26259:part:2:article:16:clause:2",
+                    "number": "2",
+                    "content": "2. Thực hiện đối soát thông báo phí,\nxác nhận nộp phí với hệ thống thu phí theo quy định.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:26259:part:2:article:16:clause:3",
+                    "number": "3",
+                    "content": "3. Thực hiện hạch toán đầy đủ, truyền\ndữ liệu chính xác, kịp thời các khoản thu phí vào tài khoản của Cảng vụ mở tại Kho bạc Nhà nước theo quy định.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:26259:part:2:article:16:clause:4",
+                    "number": "4",
+                    "content": "4. Phối hợp với các cơ quan, đơn vị\ncó liên quan xử lý các sai sót trong quá trình thực hiện.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:26259:part:2:article:17",
+                "number": "16",
+                "title": "Trách nhiệm của Doanh nghiệp cảng",
+                "content": "Điều 16. Trách nhiệm của Doanh nghiệp cảng",
+                "clauses": [
+                  {
+                    "clause_id": "doc:26259:part:2:article:17:clause:1",
+                    "number": "1",
+                    "content": "1. Duy trì trạng thái kết nối hệ thống\nvới cổng thông tin Hải quan để thực hiện đối soát tự động trạng thái thu phí và hồ sơ hàng hóa qua cảng.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:26259:part:2:article:17:clause:2",
+                    "number": "2",
+                    "content": "2. Kiểm tra biên lai phí trên hệ thống\nthu phí để xác nhận điều kiện hàng hóa qua cảng.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:26259:part:2:article:17:clause:3",
+                    "number": "3",
+                    "content": "3. Định kỳ mỗi một lần/ngày gửi thông\ntin hàng hóa thực tế qua cảng của ngày hôm trước lên hệ thống đối soát của đơn vị thu phí.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:26259:part:2:article:17:clause:4",
+                    "number": "4",
+                    "content": "4. Hỗ trợ nhắc nhở người nộp phí chưa thực hiện nghĩa vụ nộp phí theo quy định.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:26259:part:2:article:17:clause:5",
+                    "number": "5",
+                    "content": "5. Phối hợp với Chi cục Hải quan và Cảng\nvụ khi có yêu cầu không cung cấp dịch vụ, cụ thể là không cho phép hàng qua cảng đối với các trường hợp người nộp phí trong trạng thái cưỡng chế hoặc phải kiểm tra đối soát thủ công trước khi được cung cấp dịch vụ.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:26259:part:2:article:18",
+                "number": "17",
+                "title": "Trách nhiệm của các cơ quan, đơn vị khác Các Sở ngành, Ủy ban nhân dân thành phố Thủ Đức, Ủy ban nhân dân các quận, huyện, các cơ quan, đơn vị có liên quan thuộc Thành phố Hồ Chí Minh chịu trách nhiệm triển khai thực hiện Quy chế này, đồng thời thực hiện tốt công tác tuyên truyền, hướng dẫn công tác thu phí theo đúng chức năng, nhiệm vụ.",
+                "content": "Điều 17. Trách nhiệm của các cơ quan, đơn vị khác Các Sở ngành, Ủy ban nhân dân thành phố Thủ Đức, Ủy ban nhân dân các quận, huyện, các cơ quan, đơn vị có liên quan thuộc Thành phố Hồ Chí Minh chịu trách nhiệm triển khai thực hiện Quy chế này, đồng thời thực hiện tốt công tác tuyên truyền, hướng dẫn công tác thu phí theo đúng chức năng, nhiệm vụ.",
+                "clauses": [],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:26259:part:2:chapter:4",
+            "number": "IV",
+            "title": "TRÁCH NHIỆM CỦA TỔ CHỨC, CÁ NHÂN KINH DOANH HÀNG HÓA",
+            "content": "Chương IV\nTRÁCH NHIỆM CỦA\nTỔ CHỨC, CÁ NHÂN KINH DOANH HÀNG HÓA",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:26259:part:2:article:19",
+                "number": "18",
+                "title": "Trách nhiệm của tổ chức, cá nhân kinh doanh hàng hóa (Người nộp phí)",
+                "content": "Điều 18. Trách nhiệm của tổ chức, cá nhân kinh doanh hàng hóa (Người nộp phí)",
+                "clauses": [
+                  {
+                    "clause_id": "doc:26259:part:2:article:19:clause:1",
+                    "number": "1",
+                    "content": "1. Thực hiện nghĩa vụ kê khai Tờ khai\nnộp phí và thanh toán các khoản phí theo thông báo nộp phí.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:26259:part:2:article:19:clause:2",
+                    "number": "2",
+                    "content": "2. Sau khi hoàn thành đóng phí và có\nkết quả xác nhận thì mới được đến cảng để giao nhận hàng hóa.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:26259:part:2:article:19:clause:3",
+                    "number": "3",
+                    "content": "3. Trường hợp không đóng phí hoặc\nđóng phí chậm, thì sẽ bị xử lý vi phạm hành chính đối với các hành vi vi phạm quy định về nộp phí theo quy định.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:26259:part:2:article:19:clause:4",
+                    "number": "4",
+                    "content": "4. Chịu trách nhiệm mọi vấn đề liên\nquan do chậm trễ thủ tục không thực hiện đúng quy trình nộp phí theo quy định.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:26259:part:2:article:19:clause:5",
+                    "number": "5",
+                    "content": "5. Có quyền khiếu nại, tố cáo theo\nquy định.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:26259:part:2:chapter:5",
+            "number": "IV",
+            "title": "TỔ CHỨC THỰC HIỆN",
+            "content": "Chương IV\nTỔ CHỨC THỰC HIỆN",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:26259:part:2:article:20",
+                "number": "19",
+                "title": "Tổ chức thực hiện",
+                "content": "Điều 19. Tổ chức thực hiện",
+                "clauses": [
+                  {
+                    "clause_id": "doc:26259:part:2:article:20:clause:1",
+                    "number": "1",
+                    "content": "1. Các cơ quan, đơn vị liên quan\ntrong việc thực hiện quản lý, thu phí có trách nhiệm phối hợp chặt chẽ trong việc tổ chức triển khai thực hiện quy chế này.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:26259:part:2:article:20:clause:2",
+                    "number": "2",
+                    "content": "2. Cục Hải quan, Cảng vụ, các Ngân\nhàng phối hợp thu phí hạ tầng cảng biển; các Doanh nghiệp cảng có trách nhiệm niêm yết công khai trên cổng thông tin điện tử của đơn vị về quy chế này, quy trình thu phí, tên phí, mức thu, phương thức thu và các văn bản quy phạm pháp luật quy định về thu phí.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:26259:part:2:article:20:clause:3",
+                    "number": "3",
+                    "content": "3. Trong quá trình tổ chức thực hiện,\nnếu có vấn đề phát sinh khó khăn, vướng mắc, các cơ quan, đơn vị phản ánh kịp thời về Sở Giao thông vận tải tổng hợp, trình Ủy ban nhân dân Thành phố xem xét, quyết định điều chỉnh, bổ sung phù hợp quy định.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          }
+        ],
+        "sections": [],
+        "articles": [],
+        "unstructured_blocks": []
+      }
+    ]
+  },
+  "issues": [],
+  "status": "ok",
+  "source_hash": "context_26259.json",
+  "stats": {
+    "source_chars": 17023,
+    "passage_chars": 16830,
+    "parts": 2,
+    "chapters": 5,
+    "sections": 0,
+    "articles": 24,
+    "clauses": 57,
+    "points": 0
+  }
+}

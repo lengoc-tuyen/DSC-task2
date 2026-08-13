@@ -1,0 +1,888 @@
+{
+  "schema_version": "2.0",
+  "document_id": 246694,
+  "metadata": {
+    "name": "Thong-tu-87-2021-TT-BTC-giao-dich-dien-tu-trong-hoat-dong-nghiep-vu-Kho-bac-Nha-nuoc-492196",
+    "link": "https://thuvienphapluat.vn/van-ban/Cong-nghe-thong-tin/Thong-tu-87-2021-TT-BTC-giao-dich-dien-tu-trong-hoat-dong-nghiep-vu-Kho-bac-Nha-nuoc-492196.aspx",
+    "issuing_agency": "BỘ TÀI CHÍNH",
+    "national_header": "CỘNG HÒA XÃ HỘI\r\n\n  CHỦ NGHĨA VIỆT NAM",
+    "motto": "Độc lập - Tự do - Hạnh phúc",
+    "document_number": "87/2021/TT-BTC",
+    "issued_place": "Hà Nội",
+    "issued_date": "ngày 08\r\n\n  tháng 10 năm 2021",
+    "document_type": "THÔNG TƯ",
+    "title": "QUY ĐỊNH VỀ GIAO DỊCH ĐIỆN TỬ TRONG HOẠT ĐỘNG NGHIỆP VỤ KHO BẠC NHÀ NƯỚC"
+  },
+  "administrative_header": {
+    "removed": true,
+    "removed_char_count": 152
+  },
+  "preamble": {
+    "text": "THÔNG TƯ QUY\nĐỊNH VỀ GIAO DỊCH ĐIỆN TỬ TRONG HOẠT ĐỘNG NGHIỆP VỤ KHO BẠC NHÀ NƯỚC\nCăn cứ Luật Giao dịch điện tử ngày 29 tháng 11 năm 2005; Căn cứ Luật Công nghệ thông tin ngày 29 tháng 6 năm 2006; Căn cứ Nghị định số 130/2018/NĐ-CP ngày 27 tháng 9 năm 2018 của Chính phủ quy định chi tiết thi hành Luật Giao dịch điện tử về chữ ký số và dịch vụ chứng thực chữ ký số; Căn cứ Nghị định số 165/2018/NĐ-CP ngày 24 tháng 12 năm 2018 của Chính phủ về giao dịch điện tử trong hoạt động tài chính; Căn cứ Nghị định số 11/2020/NĐ-CP ngày 20 tháng 01 năm 2020 của Chính phủ quy định về thủ tục hành chính thuộc lĩnh vực Kho bạc Nhà nước; Căn cứ Nghị định số 45/2020/NĐ-CP ngày 08 tháng 4 năm 2020 của Chính phủ về thực hiện thủ tục hành chính trên môi trường điện tử; Căn cứ Nghị định số 47/2020/NĐ-CP ngày 09 tháng 4 năm 2020 của Chính phủ về quản lý, kết nối và chia sẻ dữ liệu số của cơ quan nhà nước; Căn cứ Nghị định số 87/2017/NĐ-CP ngày 26 tháng 7 năm 2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài chính; Theo đề nghị của Tổng Giám đốc Kho bạc Nhà nước; Bộ trưởng Bộ Tài chính ban hành Thông tư quy định về giao dịch điện tử trong hoạt động nghiệp vụ Kho bạc Nhà nước.\nChương I\nQUY ĐỊNH CHUNG",
+    "legal_bases": [
+      "Căn cứ Luật Công nghệ thông tin ngày 29 tháng 6 năm 2006",
+      "Căn cứ Nghị định số 130/2018/NĐ-CP ngày 27 tháng 9 năm 2018 của Chính phủ quy định chi tiết thi hành Luật Giao dịch điện tử về chữ ký số và dịch vụ chứng thực chữ ký số",
+      "Căn cứ Nghị định số 165/2018/NĐ-CP ngày 24 tháng 12 năm 2018 của Chính phủ về giao dịch điện tử trong hoạt động tài chính",
+      "Căn cứ Nghị định số 11/2020/NĐ-CP ngày 20 tháng 01 năm 2020 của Chính phủ quy định về thủ tục hành chính thuộc lĩnh vực Kho bạc Nhà nước",
+      "Căn cứ Nghị định số 45/2020/NĐ-CP ngày 08 tháng 4 năm 2020 của Chính phủ về thực hiện thủ tục hành chính trên môi trường điện tử",
+      "Căn cứ Nghị định số 47/2020/NĐ-CP ngày 09 tháng 4 năm 2020 của Chính phủ về quản lý, kết nối và chia sẻ dữ liệu số của cơ quan nhà nước",
+      "Căn cứ Nghị định số 87/2017/NĐ-CP ngày 26 tháng 7 năm 2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài chính"
+    ],
+    "proposals": [
+      "Theo đề nghị của Tổng Giám đốc Kho bạc Nhà nước"
+    ],
+    "enactment_formula": null
+  },
+  "passage": "THÔNG TƯ QUY\nĐỊNH VỀ GIAO DỊCH ĐIỆN TỬ TRONG HOẠT ĐỘNG NGHIỆP VỤ KHO BẠC NHÀ NƯỚC\nCăn cứ Luật Giao dịch điện tử ngày 29 tháng 11 năm 2005; Căn cứ Luật Công nghệ thông tin ngày 29 tháng 6 năm 2006; Căn cứ Nghị định số 130/2018/NĐ-CP ngày 27 tháng 9 năm 2018 của Chính phủ quy định chi tiết thi hành Luật Giao dịch điện tử về chữ ký số và dịch vụ chứng thực chữ ký số; Căn cứ Nghị định số 165/2018/NĐ-CP ngày 24 tháng 12 năm 2018 của Chính phủ về giao dịch điện tử trong hoạt động tài chính; Căn cứ Nghị định số 11/2020/NĐ-CP ngày 20 tháng 01 năm 2020 của Chính phủ quy định về thủ tục hành chính thuộc lĩnh vực Kho bạc Nhà nước; Căn cứ Nghị định số 45/2020/NĐ-CP ngày 08 tháng 4 năm 2020 của Chính phủ về thực hiện thủ tục hành chính trên môi trường điện tử; Căn cứ Nghị định số 47/2020/NĐ-CP ngày 09 tháng 4 năm 2020 của Chính phủ về quản lý, kết nối và chia sẻ dữ liệu số của cơ quan nhà nước; Căn cứ Nghị định số 87/2017/NĐ-CP ngày 26 tháng 7 năm 2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài chính; Theo đề nghị của Tổng Giám đốc Kho bạc Nhà nước; Bộ trưởng Bộ Tài chính ban hành Thông tư quy định về giao dịch điện tử trong hoạt động nghiệp vụ Kho bạc Nhà nước.\nChương I\nQUY ĐỊNH CHUNG\nĐiều 1. Phạm vi điều chỉnh Thông tư này quy định về giao dịch điện tử trong hoạt động nghiệp vụ Kho bạc Nhà nước (KBNN).\nĐiều 2. Đối tượng áp dụng\n1. KBNN; Sở Giao dịch KBNN; KBNN tỉnh, thành phố trực\nthuộc Trung ương; KBNN quận, huyện, thị xã, thành phố và KBNN khu vực trực thuộc tỉnh.\n2. Cơ quan, tổ chức, cá nhân tham gia giao dịch điện\ntử trong hoạt động nghiệp vụ KBNN.\n3. Cơ quan, tổ chức, cá nhân có nhu cầu tra cứu,\nxác minh thông tin về giao dịch điện tử trong hoạt động nghiệp vụ KBNN trong phạm vi pháp luật cho phép.\nĐiều 3. Giải thích từ ngữ Trong Thông tư này, các từ ngữ dưới đây được hiểu như sau:\n1. Giao dịch điện tử trong hoạt động nghiệp vụ KBNN\nlà các giao dịch điện tử giữa KBNN với các cơ quan, tổ chức, cá nhân liên quan và trong nội bộ hệ thống KBNN trong các hoạt động nghiệp vụ của KBNN: quản lý quỹ ngân sách nhà nước, các quỹ tài chính nhà nước; quản lý ngân quỹ nhà nước; tổng kế toán nhà nước; huy động vốn cho ngân sách nhà nước và cho đầu tư phát triển thông qua hình thức phát hành trái phiếu Chính phủ theo quy định của pháp luật.\n2. Chứng từ điện tử trong hoạt động nghiệp vụ KBNN\nlà thông tin được tạo ra, gửi đi, nhận và lưu trữ bằng phương tiện điện tử khi thực hiện giao dịch điện tử trong hoạt động nghiệp vụ KBNN; bao gồm chứng từ, báo cáo, hợp đồng, thỏa thuận, thông tin giao dịch, thông tin thực hiện thủ tục hành chính và các loại thông tin, dữ liệu khác theo quy định của pháp luật chuyên ngành.\n3. Tài khoản đăng nhập trang thông tin điện tử của\nKBNN là tài khoản do KBNN cấp cho các cơ quan, tổ chức, cá nhân để thực hiện các giao dịch điện tử và tra cứu dữ liệu giao dịch thông qua các trang thông tin điện tử của KBNN.\nĐiều 4. Nguyên tắc giao dịch điện tử trong hoạt động nghiệp vụ KBNN\n1. Cơ quan, tổ chức, cá nhân tham gia giao dịch điện\ntử trong hoạt động nghiệp vụ KBNN phải tuân thủ các nguyên tắc quy định tại Điều 5 Luật Giao dịch điện tử, Điều 4 Nghị định số 165/2018/NĐ-CP ngày 24 tháng 12 năm 2018 của Chính phủ về giao dịch điện tử trong hoạt động tài chính, đảm bảo các yêu cầu về quy trình nghiệp vụ, tiêu chuẩn kỹ thuật trong giao dịch điện tử do Bộ Tài chính và KBNN quy định theo phân cấp.\n2. Các cơ quan, tổ chức, cá nhân đã hoàn thành giao\ndịch bằng phương thức điện tử thì không phải thực hiện giao dịch đó bằng phương thức giao dịch khác và được công nhận đã hoàn thành thủ tục trên Trang thông tin điện tử của KBNN, trừ trường hợp pháp luật có quy định khác.\n3. KBNN không yêu cầu cơ quan, tổ chức, cá nhân\ncung cấp lại dữ liệu mà KBNN đang quản lý hoặc dữ liệu đó được cơ quan nhà nước khác sẵn sàng chia sẻ và đáp ứng được yêu cầu, trừ trường hợp yêu cầu cung cấp dữ liệu phục vụ cập nhật hoặc sử dụng cho mục đích xác minh, thẩm tra dữ liệu. Trong trường hợp KBNN yêu cầu cơ quan, tổ chức, cá nhân cung cấp dữ liệu phục vụ cập nhật hoặc sử dụng cho mục đích xác minh, thẩm tra dữ liệu phải đảm bảo theo quy định tại Điều 16 Nghị định số 165/2018/NĐ-CP ngày 24 tháng 12 năm 2018 của Chính phủ về giao dịch điện tử trong hoạt động tài chính.\n4. Chứng từ điện tử trong các hoạt động nghiệp vụ của\nKBNN phải được ký số bởi cơ quan, tổ chức, cá nhân có thẩm quyền hoặc được xác thực bằng các biện pháp khác theo quy định tại Điều 5 Nghị định số 165/2018/NĐ-CP ngày 24 tháng 12 năm 2018 của Chính phủ về giao dịch điện tử trong hoạt động tài chính.\n5. Việc sử dụng chứng thư so và chữ ký số trong\ngiao dịch điện tử trong hoạt động nghiệp vụ KBNN phải tuân thủ quy định của pháp luật về chữ ký số và dịch vụ chứng thực chữ ký số. Trước khi sử dụng chữ ký số để thực hiện các giao dịch điện tử với KBNN, cơ quan, tổ chức phải đăng ký chữ ký số của các cá nhân liên quan thuộc cơ quan, tổ chức cho KBNN.\n6. Các giao dịch thanh toán điện tử giữa KBNN với\nNgân hàng Nhà nước Việt Nam và các giao dịch thanh toán điện tử của KBNN qua hệ thống thanh toán điện tử liên ngân hàng thực hiện theo quy định của Ngân hàng Nhà nước Việt Nam. Các giao dịch điện tử về thanh toán song phương điện tử và tổ chức phối hợp thu ngân sách nhà nước giữa KBNN với các ngân hàng thương mại được thực hiện theo thỏa thuận giữa KBNN với từng hệ thống ngân hàng thương mại, phù hợp với quy định của pháp luật.\n7. Ngoài Cổng thông tin điện tử và các trang thông\ntin điện tử của KBNN, KBNN được tham gia các hệ thống thông tin do cơ quan, tổ chức khác chủ quản hoặc sử dụng các phương tiện điện tử khác để thực hiện giao dịch trong hoạt động nghiệp vụ KBNN. Trường hợp KBNN tham gia hệ thống thông tin do cơ quan, tổ chức khác chủ quản, thì giao dịch điện tử giữa KBNN với cơ quan, tổ chức, cá nhân có liên quan qua hệ thống thông tin đó được thực hiện theo quy định của chủ quản hệ thống thông tin, đảm bảo phù hợp với quy định của pháp luật,\nChương II\nQUY ĐỊNH CỤ THỂ\nMục 1. CỔNG THÔNG TIN ĐIỆN TỬ\nVÀ CÁC TRANG THÔNG TIN ĐIỆN TỬ CỦA KBNN\nĐiều 5. Cổng thông tin điện tử và các trang thông tin điện tử của KBNN\n1. Cổng thông tin điện tử của KBNN là điểm truy cập\nduy nhất của KBNN trên môi trường mạng, liên kết, tích hợp các kênh thông tin, các dịch vụ và các ứng dụng mà KBNN cung cấp.\n2. Cổng thông tin điện tử của KBNN có địa chỉ truy\ncập là https://vst.mof.gov.vn/ và bao gồm các trang thông tin điện tử tích hợp nơi KBNN cung cấp các thông tin, dịch vụ, giao dịch liên quan đến hoạt động nghiệp vụ KBNN.\nĐiều 6. Giao dịch điện tử qua Cổng thông tin điện tử và các trang thông tin điện tử của KBNN\n1. Giao dịch điện tử trong hoạt động nghiệp vụ KBNN\nđược thực hiện qua các trang thông tin điện tử tích hợp của Cổng thông tin điện tử của KBNN quy định tại Điều 5 Thông tư này bao gồm:\na) Giao dịch điện tử liên quan đến việc tiếp nhận\nvà giải quyết các thủ tục hành chính thuộc lĩnh vực KBNN trên môi trường điện tử;\nb) Các giao dịch điện tử liên quan đến việc giao kết\nvà thực hiện hợp đồng điện tử trong hoạt động nghiệp vụ KBNN;\nc) Giao dịch chia sẻ dữ liệu số trong hoạt động\nnghiệp vụ KBNN;\nd) Các giao dịch điện tử khác trong hoạt động nghiệp\nvụ KBNN.\n2. Các cơ quan, tổ chức, cá nhân truy cập vào Cổng\nthông tin điện tử và các trang thông tin điện tử của KBNN qua trình duyệt web hoặc ứng dụng di động của KBNN.\n3. Cổng thông tin điện tử và các trang thông tin điện\ntử của KBNN tiếp nhận chứng từ điện tử liên tục 24 giờ trong ngày và 7 ngày trong tuần, bao gồm ngày nghỉ, ngày lễ, ngày Tết, trừ trường hợp có quy định khác về thời hạn nhận chứng từ hoặc trong các trường hợp hệ thống của KBNN đang bảo trì, nâng cấp hoặc gặp sự cố kỹ thuật, không thể vận hành. Trường hợp bảo trì, nâng cấp hệ thống, KBNN thông báo cho các cơ quan, tổ chức, cá nhân trước ít nhất 03 ngày trên Trang thông tin điện tử của KBNN hoặc bằng thư điện tử đến cơ quan, tổ chức, cá nhân.\n4. Trước khi thực hiện giao dịch điện tử trong hoạt\nđộng nghiệp vụ KBNN qua các trang thông tin điện tử của KBNN, cơ quan, tổ chức, cá nhân thực hiện định danh và xác thực điện tử theo quy định của pháp luật về định danh và xác thực điện tử.\nĐiều 7. Đăng nhập các trang thông tin điện tử của KBNN\n1. Các cơ quan, tổ chức, cá nhân khi giao dịch điện\ntử với KBNN thực hiện đăng ký tài khoản đăng nhập trên các trang thông tin điện tử của KBNN, trừ các giao dịch điện tử liên quan đến thủ tục hành chính thuộc lĩnh vực KBNN theo quy định tại khoản 2 Điều này. Cơ quan, tổ chức, cá nhân thực hiện đổi mật khẩu ban đầu trong vòng 24 giờ kể từ khi nhận được thông báo tài khoản đăng nhập các trang thông tin điện tử của KBNN và đổi mật khẩu định kỳ tối đa không quá 03 tháng.\n2. Đối với đăng nhập giao dịch điện tử liên quan đến\nthủ tục hành chính thuộc lĩnh vực KBNN.\na) Trường hợp thực hiện thủ tục hành chính trên Cổng\ndịch vụ công quốc gia Các cơ quan, tổ chức, cá nhân đăng ký tài khoản đăng nhập trên Cổng dịch vụ công quốc gia theo hướng dẫn tại địa chỉ https://dichvucong.gov.vn.\nb) Trường hợp thực hiện thủ tục hành chính trên\nTrang thông tin dịch vụ công của KBNN Cơ quan, tổ chức, cá nhân thực hiện đăng ký tài khoản đăng nhập Trang thông tin dịch vụ công của KBNN cho từng thành viên tham gia giao dịch điện tử thuộc cơ quan, tổ chức (đối với cơ quan, tổ chức) hoặc cá nhân theo hướng dẫn tại Trang thông tin dịch vụ công của KBNN. Các đơn vị, tổ chức, cá nhân thực hiện đổi mật khẩu theo quy định tại khoản 1 Điều này.\n3. Trong quá trình giao dịch điện tử, nếu có thay đổi\nthông tin đăng ký giao dịch điện tử so với ban đầu, cơ quan, tổ chức, cá nhân có trách nhiệm đăng ký lại thông tin và lý do thay đổi cho KBNN theo hướng dẫn trên các trang thông tin điện tử của KBNN.\nĐiều 8. Phương thức gửi chứng từ điện tử qua các trang thông tin điện tử của KBNN\n1. Cơ quan, tổ chức, cá nhân gửi chứng từ điện tử đến\nKBNN qua các trang thông tin điện tử của KBNN theo hướng dẫn trên các trang thông tin điện tử của KBNN bằng các phương thức sau:\na) Lập hồ sơ hoặc kê khai thông tin trên biểu mẫu\nđiện tử (e-form) trên trang thông tin điện tử của KBNN;\nb) Tải chứng từ điện tử lên các trang thông tin điện\ntử của KBNN.\nc) Tích hợp dữ liệu từ hệ thống thông tin của cơ\nquan, tổ chức với hệ thống thông tin của KBNN.\n2. Chứng từ điện tử gửi đến KBNN qua các trang\nthông tin điện tử của KBNN phải đáp ứng quy định tại Điều 5 và\nĐiều 6 Nghị định số 165/2018/NĐ-CP ngày 24 tháng 12 năm 2018 của Chính phủ về giao dịch điện tử trong hoạt động tài chính.\nMục 2. TIẾP NHẬN VÀ GIẢI QUYẾT\nTHỦ TỤC HÀNH CHÍNH THUỘC LĨNH VỰC KBNN BẰNG PHƯƠNG THỨC ĐIỆN TỬ\nĐiều 9. Tiếp nhận và trả kết quả thủ tục hành chính thuộc lĩnh vực KBNN bằng phương thức điện tử\n1. Các thủ tục hành chính thuộc lĩnh vực KBNN được\ntiếp nhận và giải quyết bằng phương thức điện tử qua Trang thông tin dịch vụ công của KBNN. Riêng thủ tục nộp tiền vào ngân sách nhà nước, cơ quan, tổ chức, cá nhân thực hiện qua Cổng Dịch vụ công quốc gia, Cổng dịch vụ công cấp bộ, cấp tỉnh, Cổng thông tin điện tử của cơ quan quản lý thuế, Trang thông tin dịch vụ công của KBNN, dịch vụ thanh toán điện tử của ngân hàng hoặc tổ chức cung ứng dịch vụ trung gian thanh toán theo quy định tại Điều 4 Nghị định số 11/2020/NĐ-CP ngày 20 tháng 01 năm 2020 của Chính phủ quy định về thủ tục hành chính thuộc lĩnh vực KBNN và Điều 13 Nghị định số 45/2020/NĐ-CP ngày 08 tháng 4 năm 2020 của Chính phủ về thực hiện thủ tục hành chính trên môi trường điện tử.\n2. Cơ quan, tổ chức, cá nhân gửi hồ sơ thủ tục hành\nchính đến KBNN qua Trang thông tin dịch vụ công của KBNN bằng các phương thức quy định tại Điều 8 Thông tư này. Đối với các thành phần hồ sơ thủ tục hành chính chưa thể gửi qua Trang thông tin dịch vụ công của KBNN, cơ quan, tổ chức, cá nhân gửi KBNN bằng bản giấy.\n3. KBNN trả kết quả giải quyết thủ tục hành chính\nthuộc lĩnh vực KBNN cho cơ quan, tổ chức, cá nhân theo quy định của Nghị định số 11/2020/NĐ-CP ngày 20 tháng 01 năm 2020 của Chính phủ quy định về thủ tục hành chính thuộc lĩnh vực KBNN.\nĐiều 10. Thời gian tiếp nhận hồ sơ thủ tục hành chính điện tử\n1. Trang thông tin dịch vụ công của KBNN tự động tiếp\nnhận hồ sơ thủ tục hành chính điện tử theo quy định tại khoản 3\nĐiều 6 Thông tư này; đồng thời, có thông báo cho cơ quan, tổ chức, cá nhân về thời điểm tiếp nhận của hệ thống thông qua thư điện tử.\n2. Công chức KBNN tiếp nhận hồ sơ thủ tục hành\nchính trên Trang thông tin dịch vụ công của KBNN trong giờ làm việc. Đối với hồ sơ thủ tục hành chính được gửi ngoài giờ làm việc hoặc vào ngày nghỉ, ngày lễ, ngày Tết, công chức KBNN tiếp nhận vào ngày làm việc tiếp theo.\n3. Công chức KBNN thông báo về việc tiếp nhận chính\nthức hoặc yêu cầu chỉnh sửa, bổ sung hồ sơ qua Trang thông tin dịch vụ công của KBNN hoặc qua thư điện tử cho cơ quan, tổ chức, cá nhân không muộn hơn tám (8) giờ làm việc kể từ khi hệ thống tiếp nhận. Trường hợp hồ sơ thủ tục hành chính cần phải chỉnh sửa, bổ sung, công chức KBNN trả lại hồ sơ cho cơ quan, tổ chức, cá nhân; nêu rõ lý do chỉnh sửa, bổ sung; đồng thời, có hướng dẫn cụ thể qua Trang thông tin dịch vụ công của KBNN để cơ quan, tổ chức, cá nhân bổ sung hoặc hoàn thiện.\n4. Thời điểm cơ quan, tổ chức, cá nhân gửi đầy đủ hồ\nsơ thủ tục hành chính theo quy định và được giao dịch viên của KBNN tiếp nhận là căn cứ để tính thời gian giải quyết thủ tục hành chính thuộc lĩnh vực KBNN và xác định hành vi vi phạm hành chính trong lĩnh vực KBNN (nếu có).\nMục 3. GIAO KẾT VÀ THỰC HIỆN HỢP\nĐỒNG ĐIỆN TỬ TRONG HOẠT ĐỘNG NGHIỆP VỤ KBNN\nĐiều 11. Giao kết và thực hiện hợp đồng điện tử trong hoạt động nghiệp vụ KBNN\n1. KBNN được giao kết hợp đồng bằng hình thức điện\ntử trong hoạt động nghiệp vụ KBNN, trừ trường hợp các bên có thỏa thuận khác. Hợp đồng điện tử trong hoạt động nghiệp vụ KBNN được ký kết quả các trang thông tin điện tử của KBNN hoặc qua các phương thức khác do hai bên thỏa thuận, đảm bảo phù hợp với quy định của pháp luật.\n2. Việc giao kết và thực hiện hợp đồng điện tử\ntrong hoạt động nghiệp vụ KBNN phải tuân thủ các quy định của Luật Giao dịch điện tử, pháp luật về hợp đồng và các quy định pháp luật chuyên ngành.\n3. Khi giao kết và thực hiện hợp đồng điện tử trong\nhoạt động nghiệp vụ KBNN, KBNN và các bên tham gia hợp đồng có quyền thỏa thuận về yêu cầu kỹ thuật, chứng thực, các điều kiện bảo đảm tính toàn vẹn, bảo mật có liên quan đến hợp đồng điện tử đó; đồng thời, được thỏa thuận về việc thực hiện một phần hoặc toàn bộ các nội dung giao kết bằng phương thức điện tử.\nĐiều 12. Giá trị pháp lý của hợp đồng điện tử trong hoạt động nghiệp vụ KBNN\n1. Hợp đồng điện tử trong hoạt động nghiệp vụ KBNN\ncó giá trị là bản gốc khi được thực hiện một trong các biện pháp sau:\na) Hợp đồng điện tử được ký số bởi tất cả các bên\ntham gia hợp đồng.\nb) Hệ thống thông tin có biện pháp bảo đảm toàn vẹn\nhợp đồng điện tử trong quá trình truyền nhận, lưu trữ trên hệ thống; ghi nhận các bên tham gia hợp đồng và áp dụng một trong các biện pháp sau để xác thực các bên tham gia hợp đồng: xác thực bằng chữ ký số, xác thực bằng sinh trắc học, xác thực từ hai yếu tố trở lên trong đó có yếu tố là mã xác thực dùng một lần hoặc mã xác thực ngẫu nhiên.\nc) Biện pháp khác mà các bên tham gia hợp đồng thống\nnhất lựa chọn, bảo đảm tính toàn vẹn của dữ liệu, tính xác thực, tính chống chối bỏ, phù hợp với quy định của Luật Giao dịch điện tử.\n2. Các bên tham gia hợp đồng điện tử với KBNN phải\nthực hiện định danh và xác thực điện tử theo quy định của pháp luật về định danh và xác thực điện tử.\n3. Các bên đã ký kết hợp đồng điện tử trong hoạt động\nnghiệp vụ KBNN thì không phải ký kết hợp đồng tương ứng bằng bản giấy.\n4. Việc chứng thư số được sử dụng để ký kết hợp đồng\nđiện tử mất hiệu lực sau thời điểm hợp đồng đã được ký kết không làm ảnh hưởng đến giá trị pháp lý của hợp đồng điện tử đó.\nMục 4. CHIA SẺ DỮ LIỆU SỐ\nTRONG HOẠT ĐỘNG NGHIỆP VỤ KBNN\nĐiều 13. Phạm vi chia sẻ dữ liệu số trong hoạt động nghiệp vụ KBNN\n1. Dữ liệu số chia sẻ trong nội bộ hệ thống KBNN và\ngiữa KBNN với các cơ quan, tổ chức, cá nhân bao gồm các thông tin, báo cáo liên quan đến các hoạt động nghiệp vụ quản lý nhà nước về quỹ ngân sách nhà nước, các quỹ tài chính nhà nước; quản lý ngân quỹ nhà nước; tổng kế toán nhà nước; huy động vốn cho ngân sách nhà nước và cho đầu tư phát triển thông qua hình thức phát hành trái phiếu Chính phủ.\n2. Dữ liệu số chia sẻ trong nội bộ hệ thống KBNN và\ngiữa KBNN với cơ quan, tổ chức, cá nhân tại khoản 1 Điều này không bao gồm các dữ liệu thuộc phạm vi bảo mật của cơ quan, tổ chức; dữ liệu cá nhân và các dữ liệu thuộc phạm vi bí mật nhà nước theo quy định của pháp luật.\nĐiều 14. Nguyên tắc và phương thức chia sẻ dữ liệu số trong hoạt động nghiệp vụ KBNN\n1. Việc chia sẻ dữ liệu số trong hoạt động nghiệp vụ\nKBNN giữa KBNN với các cơ quan, tổ chức, cá nhân được thực hiện theo quy định của Nghị định số 47/2020/NĐ-CP ngày 09 tháng 4 năm 2020 của Chính phủ về quản lý, kết nối và chia sẻ dữ liệu số của cơ quan nhà nước và quy định của Bộ Tài chính.\n2. Dữ liệu số trong hoạt động nghiệp vụ KBNN được\nchia sẻ bằng một trong các phương thức sau:\na) Kết nối, chia sẻ dữ liệu trực tuyến trên môi trường\nmạng giữa hệ thống thông tin của KBNN và cơ quan, tổ chức khai thác dữ liệu;\nb) Kết nối, chia sẻ dữ liệu với cơ quan, tổ chức\nkhai thác dữ liệu thông qua cơ sở dữ liệu quốc gia về tài chính và các cơ sở dữ liệu khác (nếu có);\nc) Kết nối, chia sẻ dữ liệu trực tuyến trên môi trường\nmạng bằng việc đồng bộ toàn bộ hoặc một phần dữ liệu giữa cơ sở dữ liệu của KBNN và cơ quan, tổ chức khai thác dữ liệu;\nd) Chia sẻ dữ liệu được đóng gói và lưu giữ trên\ncác phương tiện lưu trữ thông tin.\nđ) Kết nối nền tảng tích hợp, chia sẻ dữ liệu số\nngành Tài chính.\nMục 5. GIAO DỊCH ĐIỆN TỬ KHÁC\nTRONG HOẠT ĐỘNG NGHIỆP VỤ KBNN\nĐiều 15. Phương thức thực hiện giao dịch điện tử khác trong hoạt động nghiệp vụ KBNN\n1. Các giao dịch điện tử trong hoạt động nghiệp vụ\nKBNN mà không phải là giao dịch điện tử liên quan đến tiếp nhận, giải quyết thủ tục hành chính; giao kết, thực hiện hợp đồng điện tử và chia sẻ dữ liệu số trong hoạt động nghiệp vụ KBNN được thực hiện trên Cổng thông tin điện tử, các trang thông tin điện tử của KBNN và các phương tiện điện tử khác, phù hợp với quy định của pháp luật về giao dịch điện tử.\n2. Trường hợp giao dịch điện tử khác được thực hiện\ntrên Cổng thông tin điện tử và các trang thông tin điện tử của KBNN, thì việc đăng ký tài khoản và gửi chứng từ điện tử được thực hiện theo quy định tại Điều 7 và Điều 8 Thông tư này.\nĐiều 16. Giao dịch điện tử giữa KBNN với các đơn vị thuộc, trực thuộc Bộ Tài chính và giao dịch điện tử trong nội bộ hệ thống KBNN\n1. Việc thực hiện giao dịch điện tử giữa KBNN với\ncác cơ quan tài chính, cơ quan Thuế và cơ quan Hải quan được thực hiện theo các quy định hiện hành của Bộ Tài chính về quy trình trao đổi thông tin giữa các cơ quan trong ngành tài chính.\n2. Việc thực hiện giao dịch điện tử trong nội bộ hệ\nthống KBNN do Tổng Giám đốc KBNN quyết định về nội dung, quy trình và lộ trình thực hiện.\nMục 6. LƯU CHỨNG TỪ ĐIỆN TỬ\nTRONG HOẠT ĐỘNG NGHIỆP VỤ KBNN VÀ BẢO ĐẢM AN TOÀN, XỬ LÝ SỰ CỐ\nĐiều 17. Lưu chứng từ điện tử trong hoạt động nghiệp vụ KBNN\n1. Chứng từ điện tử được gửi đến và gửi đi từ KBNN\nđược lưu tại hệ thống thông tin của KBNN. KBNN không phải chuyển đổi chứng từ điện tử sang bản giấy để lưu, trừ trường hợp Tổng Giám đốc KBNN quyết định các chứng từ điện tử cần chuyển sang chứng từ giấy để lưu theo quy định tại Điều 7 Nghị định số 165/2018/NĐ-CP ngày 24 tháng 12 năm 2018 của Chính phủ về giao dịch điện tử trong hoạt động tài chính.\n2. Thời hạn lưu trữ chứng từ điện tử trong hoạt động\nnghiệp vụ KBNN được thực hiện theo quy định của pháp luật chuyên ngành đối với từng loại chứng từ điện tử. Việc tiêu hủy chứng từ điện tử hết thời hạn lưu trữ được thực hiện theo quy định tại Điều 11 Nghị định số 165/2018/NĐ-CP ngày 24 tháng 12 năm 2018 của Chính phủ về giao dịch điện tử trong hoạt động tài chính.\n3. KBNN triển khai các giải pháp thực hiện lưu chứng\ntừ điện tử tại hệ thống thông tin, bảo đảm các điều kiện quy định tại khoản 1 Điều 15 Luật Giao dịch điện tử.\nĐiều 18. Bảo đảm an toàn trong các giao dịch điện tử\n1. Việc bảo đảm an toàn trong giao dịch điện tử\ntrong hoạt động nghiệp vụ KBNN được thực hiện theo quy định tại Điều 14 Nghị định số 165/2018/NĐ-CP ngày 24 tháng 12 năm 2018 của Chính phủ về giao dịch điện tử trong hoạt động tài chính.\n2. Cơ quan, tổ chức, cá nhân chỉ được sử dụng tài\nkhoản đăng nhập các trang thông tin điện tử của KBNN để thực hiện các giao dịch điện tử và tra cứu dữ liệu giao dịch theo quy định của Thông tư này. Trường hợp cơ quan, tổ chức, cá nhân sử dụng tài khoản đăng nhập các trang thông tin điện tử của KBNN không đúng mục đích hoặc vi phạm các quy định về đảm bảo an toàn thông tin mạng quy định tại khoản 1 Điều này, KBNN được tạm ngừng giao dịch điện tử với cơ quan, tổ chức, cá nhân đó cho đến khi cơ quan, tổ chức, cá nhân đó có biện pháp khắc phục.\nĐiều 19. Xử lý sự cố trong quá trình thực hiện giao dịch điện tử trong hoạt động nghiệp vụ KBNN\n1. Trường hợp gặp sự cố trong quá trình thực hiện\ngiao dịch điện tử trong hoạt động nghiệp vụ KBNN mà do lỗi hệ thống hạ tầng kỹ thuật của cơ quan, tổ chức, cá nhân, thì cơ quan, tổ chức, cá nhân đó phải tự khắc phục sự cố. Trong thời gian chưa khắc phục được sự cố, các cơ quan, tổ chức, cá nhân phải thực hiện thông báo cho KBNN bằng văn bản.\n2. Trường hợp gặp sự cố do lỗi tại hệ thống thông\ntin của KBNN, KBNN thông báo cho các cơ quan, tổ chức, cá nhân có liên quan được biết về sự cố của hệ thống và thời gian hệ thống tiếp tục vận hành trên Cổng thông tin điện tử KBNN và các kênh thông tin khác của KBNN.\n3. Trong thời gian chưa khắc phục được sự cố quy định\ntại khoản 1 và khoản 2 Điều này, các cơ quan, tổ chức, cá nhân thực hiện giao dịch trực tiếp tại KBNN, trừ trường hợp có quy định hoặc thỏa thuận khác.\nChương III\nTỔ CHỨC THỰC HIỆN\nĐiều 20. Trách nhiệm của KBNN\n1. Tổ chức thực hiện giao dịch điện tử giữa KBNN với\ncác cơ quan, tổ chức, cá nhân và giữa các đơn vị trong hệ thống KBNN theo quy định của pháp luật và quy định tại Thông tư này.\n2. Xây dựng, quản lý, vận hành các hệ thống thông\ntin của KBNN; triển khai các biện pháp kỹ thuật và dự phòng cần thiết để đảm bảo an toàn, an ninh, bảo mật giao dịch điện tử trong hoạt động nghiệp vụ KBNN theo quy định của pháp luật.\n3. Hướng dẫn cụ thể về việc gửi chứng từ điện tử\nqua các trang thông tin điện tử của KBNN; hướng dẫn và công bố chuẩn kết nối và tích hợp từ các chương trình ứng dụng của các cơ quan, tổ chức vào hệ thống của KBNN (nếu có); công khai đầu mối tiếp nhận yêu cầu hỗ trợ, khắc phục các sự cố phát sinh.\n4. Cấp tài khoản đăng nhập cho các cơ quan, tổ chức,\ncá nhân trên các trang thông tin điện tử của KBNN trong thời hạn 01 ngày làm việc kể từ khi nhận được yêu cầu hợp lệ.\n5. Xây dựng, công bố và triển khai lộ trình phát\ntriển ứng dụng di động trong hoạt động nghiệp vụ KBNN.\n6. Thiết lập và công bố các dịch vụ chia sẻ dữ liệu,\ncác tài liệu kỹ thuật cần thiết phục vụ mục đích truy cập dữ liệu thuộc phạm vi chia sẻ dữ liệu số trong hoạt động nghiệp vụ KBNN.\n7. Bảo mật thông tin của các cơ quan, tổ chức, cá\nnhân tham gia giao dịch với KBNN theo quy định.\n8. Xác nhận (bằng cách trực tiếp hoặc ủy quyền cho\ncác KBNN trực thuộc) chứng từ giấy được chuyển đổi từ chứng từ điện tử khi có yêu cầu của cơ quan, tổ chức, cá nhân tham gia giao dịch trên hệ thống thông tin thuộc quản lý của chủ quản hệ thống thông tin theo quy định tại Điều 7 Nghị định số 165/NĐ-CP ngày 24 tháng 12 năm 2018 của Chính phủ về giao dịch điện tử trong hoạt động tài chính.\n9. Cung cấp thông tin về giao dịch điện tử trong hoạt\nđộng tài chính thuộc phạm vi hệ thống thông tin của KBNN cho các cơ quan quản lý có thẩm quyền kiểm tra, thanh tra, điều tra và các cơ quan, tổ chức, cá nhân có nhu cầu tra cứu, xác minh thông tin trong phạm vi quy định tại Điều 16 Nghị định số 165/NĐ-CP ngày 24 tháng 12 năm 2018 của Chính phủ về giao dịch điện tử trong hoạt động tài chính.\n10. Hướng dẫn, thanh tra, kiểm tra việc thực hiện\nquy định của pháp luật về giao dịch điện tử trong hoạt động nghiệp vụ KBNN.\nĐiều 21. Trách nhiệm của các cơ quan, tổ chức, cá nhân có giao dịch điện tử với KBNN\n1. Quản lý, giữ bí mật về tài khoản đăng nhập vào hệ\nthống thông tin của KBNN (nếu có) và phương tiện, thông tin phục vụ việc ký số hoặc xác thực; thông báo ngay cho KBNN khi bị mất, lộ phương tiện, thông tin này.\n2. Đảm bảo tính hợp pháp, đầy đủ, chính xác và\ntrung thực đối với chứng từ điện tử gửi KBNN theo quy định của Luật Giao dịch điện tử và các văn bản quy phạm pháp luật hiện hành; đồng thời, hoàn toàn chịu trách nhiệm về chứng từ điện tử gửi KBNN.\n3. Theo dõi, cập nhật, phản hồi các thông tin liên\nquan đến các giao dịch điện tử với KBNN.\n4. Kịp thời thông báo cho KBNN và thực hiện ngay\ncác thủ tục khi ngừng tham gia giao dịch điện tử với KBNN.\nĐiều 22. Hiệu lực thi hành\n1. Thông tư này có hiệu lực kể từ ngày 01 tháng 12\nnăm 2021.\n2. Bãi bỏ Thông tư số 133/2017/TT-BTC ngày 15 tháng\n12 năm 2017 của Bộ Tài chính quy định về giao dịch điện tử trong hoạt động nghiệp vụ KBNN.\n3. Trường hợp các văn bản có liên quan đề cập tại\nThông tư này được sửa đổi, bổ sung hoặc thay thế, thì thực hiện theo văn bản sửa đổi, bổ sung hoặc thay thế đó./.\nNơi nhận:\n- Văn phòng TW và các Ban của Đảng;\n- Văn phòng Quốc hội;\n- Văn phòng Chủ tịch nước; Văn phòng Chính phủ;\n- Tòa án nhân dân tối cao;\n- Viện Kiểm sát nhân dân tối cao;\n- Kiểm toán Nhà nước;\n- Các Bộ, cơ quan ngang Bộ, cơ quan thuộc CP;\n- Cơ quan trung ương của các đoàn thể;\n- UBND các tỉnh, thành phố trực thuộc TW;\n- Sở Tài chính, KBNN, Cục Thuế, Cục Hải quan các tỉnh, thành phố trực thuộc\nTW;\n- Các đơn vị thuộc BTC;\n- Cục Kiểm tra văn bản (Bộ Tư pháp);\n- Công báo;\n- Website Chính phủ; Website Bộ Tài chính;\n- Lưu: VT, KBNN (260).\nKT. BỘ TRƯỞNG\nTHỨ TRƯỞNG\nVõ Thành Hưng",
+  "tree": {
+    "parts": [
+      {
+        "part_id": "doc:246694:part:1",
+        "part_type": "main",
+        "part_title": null,
+        "reference": null,
+        "direct_text": "THÔNG TƯ QUY\nĐỊNH VỀ GIAO DỊCH ĐIỆN TỬ TRONG HOẠT ĐỘNG NGHIỆP VỤ KHO BẠC NHÀ NƯỚC\nCăn cứ Luật Giao dịch điện tử ngày 29 tháng 11 năm 2005; Căn cứ Luật Công nghệ thông tin ngày 29 tháng 6 năm 2006; Căn cứ Nghị định số 130/2018/NĐ-CP ngày 27 tháng 9 năm 2018 của Chính phủ quy định chi tiết thi hành Luật Giao dịch điện tử về chữ ký số và dịch vụ chứng thực chữ ký số; Căn cứ Nghị định số 165/2018/NĐ-CP ngày 24 tháng 12 năm 2018 của Chính phủ về giao dịch điện tử trong hoạt động tài chính; Căn cứ Nghị định số 11/2020/NĐ-CP ngày 20 tháng 01 năm 2020 của Chính phủ quy định về thủ tục hành chính thuộc lĩnh vực Kho bạc Nhà nước; Căn cứ Nghị định số 45/2020/NĐ-CP ngày 08 tháng 4 năm 2020 của Chính phủ về thực hiện thủ tục hành chính trên môi trường điện tử; Căn cứ Nghị định số 47/2020/NĐ-CP ngày 09 tháng 4 năm 2020 của Chính phủ về quản lý, kết nối và chia sẻ dữ liệu số của cơ quan nhà nước; Căn cứ Nghị định số 87/2017/NĐ-CP ngày 26 tháng 7 năm 2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài chính; Theo đề nghị của Tổng Giám đốc Kho bạc Nhà nước; Bộ trưởng Bộ Tài chính ban hành Thông tư quy định về giao dịch điện tử trong hoạt động nghiệp vụ Kho bạc Nhà nước.",
+        "chapters": [
+          {
+            "chapter_id": "doc:246694:part:1:chapter:1",
+            "number": "I",
+            "title": "QUY ĐỊNH CHUNG",
+            "content": "Chương I\nQUY ĐỊNH CHUNG",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:246694:part:1:article:1",
+                "number": "1",
+                "title": "Phạm vi điều chỉnh Thông tư này quy định về giao dịch điện tử trong hoạt động nghiệp vụ Kho bạc Nhà nước (KBNN).",
+                "content": "Điều 1. Phạm vi điều chỉnh Thông tư này quy định về giao dịch điện tử trong hoạt động nghiệp vụ Kho bạc Nhà nước (KBNN).",
+                "clauses": [],
+                "points": []
+              },
+              {
+                "article_id": "doc:246694:part:1:article:2",
+                "number": "2",
+                "title": "Đối tượng áp dụng",
+                "content": "Điều 2. Đối tượng áp dụng",
+                "clauses": [
+                  {
+                    "clause_id": "doc:246694:part:1:article:2:clause:1",
+                    "number": "1",
+                    "content": "1. KBNN; Sở Giao dịch KBNN; KBNN tỉnh, thành phố trực\nthuộc Trung ương; KBNN quận, huyện, thị xã, thành phố và KBNN khu vực trực thuộc tỉnh.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:246694:part:1:article:2:clause:2",
+                    "number": "2",
+                    "content": "2. Cơ quan, tổ chức, cá nhân tham gia giao dịch điện\ntử trong hoạt động nghiệp vụ KBNN.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:246694:part:1:article:2:clause:3",
+                    "number": "3",
+                    "content": "3. Cơ quan, tổ chức, cá nhân có nhu cầu tra cứu,\nxác minh thông tin về giao dịch điện tử trong hoạt động nghiệp vụ KBNN trong phạm vi pháp luật cho phép.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:246694:part:1:article:3",
+                "number": "3",
+                "title": "Giải thích từ ngữ Trong Thông tư này, các từ ngữ dưới đây được hiểu như sau:",
+                "content": "Điều 3. Giải thích từ ngữ Trong Thông tư này, các từ ngữ dưới đây được hiểu như sau:",
+                "clauses": [
+                  {
+                    "clause_id": "doc:246694:part:1:article:3:clause:1",
+                    "number": "1",
+                    "content": "1. Giao dịch điện tử trong hoạt động nghiệp vụ KBNN\nlà các giao dịch điện tử giữa KBNN với các cơ quan, tổ chức, cá nhân liên quan và trong nội bộ hệ thống KBNN trong các hoạt động nghiệp vụ của KBNN: quản lý quỹ ngân sách nhà nước, các quỹ tài chính nhà nước; quản lý ngân quỹ nhà nước; tổng kế toán nhà nước; huy động vốn cho ngân sách nhà nước và cho đầu tư phát triển thông qua hình thức phát hành trái phiếu Chính phủ theo quy định của pháp luật.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:246694:part:1:article:3:clause:2",
+                    "number": "2",
+                    "content": "2. Chứng từ điện tử trong hoạt động nghiệp vụ KBNN\nlà thông tin được tạo ra, gửi đi, nhận và lưu trữ bằng phương tiện điện tử khi thực hiện giao dịch điện tử trong hoạt động nghiệp vụ KBNN; bao gồm chứng từ, báo cáo, hợp đồng, thỏa thuận, thông tin giao dịch, thông tin thực hiện thủ tục hành chính và các loại thông tin, dữ liệu khác theo quy định của pháp luật chuyên ngành.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:246694:part:1:article:3:clause:3",
+                    "number": "3",
+                    "content": "3. Tài khoản đăng nhập trang thông tin điện tử của\nKBNN là tài khoản do KBNN cấp cho các cơ quan, tổ chức, cá nhân để thực hiện các giao dịch điện tử và tra cứu dữ liệu giao dịch thông qua các trang thông tin điện tử của KBNN.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:246694:part:1:article:4",
+                "number": "4",
+                "title": "Nguyên tắc giao dịch điện tử trong hoạt động nghiệp vụ KBNN",
+                "content": "Điều 4. Nguyên tắc giao dịch điện tử trong hoạt động nghiệp vụ KBNN",
+                "clauses": [
+                  {
+                    "clause_id": "doc:246694:part:1:article:4:clause:1",
+                    "number": "1",
+                    "content": "1. Cơ quan, tổ chức, cá nhân tham gia giao dịch điện\ntử trong hoạt động nghiệp vụ KBNN phải tuân thủ các nguyên tắc quy định tại Điều 5 Luật Giao dịch điện tử, Điều 4 Nghị định số 165/2018/NĐ-CP ngày 24 tháng 12 năm 2018 của Chính phủ về giao dịch điện tử trong hoạt động tài chính, đảm bảo các yêu cầu về quy trình nghiệp vụ, tiêu chuẩn kỹ thuật trong giao dịch điện tử do Bộ Tài chính và KBNN quy định theo phân cấp.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:246694:part:1:article:4:clause:2",
+                    "number": "2",
+                    "content": "2. Các cơ quan, tổ chức, cá nhân đã hoàn thành giao\ndịch bằng phương thức điện tử thì không phải thực hiện giao dịch đó bằng phương thức giao dịch khác và được công nhận đã hoàn thành thủ tục trên Trang thông tin điện tử của KBNN, trừ trường hợp pháp luật có quy định khác.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:246694:part:1:article:4:clause:3",
+                    "number": "3",
+                    "content": "3. KBNN không yêu cầu cơ quan, tổ chức, cá nhân\ncung cấp lại dữ liệu mà KBNN đang quản lý hoặc dữ liệu đó được cơ quan nhà nước khác sẵn sàng chia sẻ và đáp ứng được yêu cầu, trừ trường hợp yêu cầu cung cấp dữ liệu phục vụ cập nhật hoặc sử dụng cho mục đích xác minh, thẩm tra dữ liệu. Trong trường hợp KBNN yêu cầu cơ quan, tổ chức, cá nhân cung cấp dữ liệu phục vụ cập nhật hoặc sử dụng cho mục đích xác minh, thẩm tra dữ liệu phải đảm bảo theo quy định tại Điều 16 Nghị định số 165/2018/NĐ-CP ngày 24 tháng 12 năm 2018 của Chính phủ về giao dịch điện tử trong hoạt động tài chính.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:246694:part:1:article:4:clause:4",
+                    "number": "4",
+                    "content": "4. Chứng từ điện tử trong các hoạt động nghiệp vụ của\nKBNN phải được ký số bởi cơ quan, tổ chức, cá nhân có thẩm quyền hoặc được xác thực bằng các biện pháp khác theo quy định tại Điều 5 Nghị định số 165/2018/NĐ-CP ngày 24 tháng 12 năm 2018 của Chính phủ về giao dịch điện tử trong hoạt động tài chính.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:246694:part:1:article:4:clause:5",
+                    "number": "5",
+                    "content": "5. Việc sử dụng chứng thư so và chữ ký số trong\ngiao dịch điện tử trong hoạt động nghiệp vụ KBNN phải tuân thủ quy định của pháp luật về chữ ký số và dịch vụ chứng thực chữ ký số. Trước khi sử dụng chữ ký số để thực hiện các giao dịch điện tử với KBNN, cơ quan, tổ chức phải đăng ký chữ ký số của các cá nhân liên quan thuộc cơ quan, tổ chức cho KBNN.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:246694:part:1:article:4:clause:6",
+                    "number": "6",
+                    "content": "6. Các giao dịch thanh toán điện tử giữa KBNN với\nNgân hàng Nhà nước Việt Nam và các giao dịch thanh toán điện tử của KBNN qua hệ thống thanh toán điện tử liên ngân hàng thực hiện theo quy định của Ngân hàng Nhà nước Việt Nam. Các giao dịch điện tử về thanh toán song phương điện tử và tổ chức phối hợp thu ngân sách nhà nước giữa KBNN với các ngân hàng thương mại được thực hiện theo thỏa thuận giữa KBNN với từng hệ thống ngân hàng thương mại, phù hợp với quy định của pháp luật.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:246694:part:1:article:4:clause:7",
+                    "number": "7",
+                    "content": "7. Ngoài Cổng thông tin điện tử và các trang thông\ntin điện tử của KBNN, KBNN được tham gia các hệ thống thông tin do cơ quan, tổ chức khác chủ quản hoặc sử dụng các phương tiện điện tử khác để thực hiện giao dịch trong hoạt động nghiệp vụ KBNN. Trường hợp KBNN tham gia hệ thống thông tin do cơ quan, tổ chức khác chủ quản, thì giao dịch điện tử giữa KBNN với cơ quan, tổ chức, cá nhân có liên quan qua hệ thống thông tin đó được thực hiện theo quy định của chủ quản hệ thống thông tin, đảm bảo phù hợp với quy định của pháp luật,",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:246694:part:1:chapter:2",
+            "number": "II",
+            "title": "QUY ĐỊNH CỤ THỂ",
+            "content": "Chương II\nQUY ĐỊNH CỤ THỂ",
+            "sections": [
+              {
+                "section_id": "doc:246694:part:1:section:1",
+                "number": "1",
+                "title": "VÀ CÁC TRANG THÔNG TIN ĐIỆN TỬ CỦA KBNN",
+                "content": "Mục 1. CỔNG THÔNG TIN ĐIỆN TỬ\nVÀ CÁC TRANG THÔNG TIN ĐIỆN TỬ CỦA KBNN",
+                "articles": [
+                  {
+                    "article_id": "doc:246694:part:1:article:5",
+                    "number": "5",
+                    "title": "Cổng thông tin điện tử và các trang thông tin điện tử của KBNN",
+                    "content": "Điều 5. Cổng thông tin điện tử và các trang thông tin điện tử của KBNN",
+                    "clauses": [
+                      {
+                        "clause_id": "doc:246694:part:1:article:5:clause:1",
+                        "number": "1",
+                        "content": "1. Cổng thông tin điện tử của KBNN là điểm truy cập\nduy nhất của KBNN trên môi trường mạng, liên kết, tích hợp các kênh thông tin, các dịch vụ và các ứng dụng mà KBNN cung cấp.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:246694:part:1:article:5:clause:2",
+                        "number": "2",
+                        "content": "2. Cổng thông tin điện tử của KBNN có địa chỉ truy\ncập là https://vst.mof.gov.vn/ và bao gồm các trang thông tin điện tử tích hợp nơi KBNN cung cấp các thông tin, dịch vụ, giao dịch liên quan đến hoạt động nghiệp vụ KBNN.",
+                        "points": []
+                      }
+                    ],
+                    "points": []
+                  },
+                  {
+                    "article_id": "doc:246694:part:1:article:6",
+                    "number": "6",
+                    "title": "Giao dịch điện tử qua Cổng thông tin điện tử và các trang thông tin điện tử của KBNN",
+                    "content": "Điều 6. Giao dịch điện tử qua Cổng thông tin điện tử và các trang thông tin điện tử của KBNN",
+                    "clauses": [
+                      {
+                        "clause_id": "doc:246694:part:1:article:6:clause:1",
+                        "number": "1",
+                        "content": "1. Giao dịch điện tử trong hoạt động nghiệp vụ KBNN\nđược thực hiện qua các trang thông tin điện tử tích hợp của Cổng thông tin điện tử của KBNN quy định tại Điều 5 Thông tư này bao gồm:",
+                        "points": [
+                          {
+                            "point_id": "doc:246694:part:1:article:6:clause:1:point:1",
+                            "label": "a",
+                            "content": "a) Giao dịch điện tử liên quan đến việc tiếp nhận\nvà giải quyết các thủ tục hành chính thuộc lĩnh vực KBNN trên môi trường điện tử;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:246694:part:1:article:6:clause:1:point:2",
+                            "label": "b",
+                            "content": "b) Các giao dịch điện tử liên quan đến việc giao kết\nvà thực hiện hợp đồng điện tử trong hoạt động nghiệp vụ KBNN;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:246694:part:1:article:6:clause:1:point:3",
+                            "label": "c",
+                            "content": "c) Giao dịch chia sẻ dữ liệu số trong hoạt động\nnghiệp vụ KBNN;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:246694:part:1:article:6:clause:1:point:4",
+                            "label": "d",
+                            "content": "d) Các giao dịch điện tử khác trong hoạt động nghiệp\nvụ KBNN.",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "clause_id": "doc:246694:part:1:article:6:clause:2",
+                        "number": "2",
+                        "content": "2. Các cơ quan, tổ chức, cá nhân truy cập vào Cổng\nthông tin điện tử và các trang thông tin điện tử của KBNN qua trình duyệt web hoặc ứng dụng di động của KBNN.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:246694:part:1:article:6:clause:3",
+                        "number": "3",
+                        "content": "3. Cổng thông tin điện tử và các trang thông tin điện\ntử của KBNN tiếp nhận chứng từ điện tử liên tục 24 giờ trong ngày và 7 ngày trong tuần, bao gồm ngày nghỉ, ngày lễ, ngày Tết, trừ trường hợp có quy định khác về thời hạn nhận chứng từ hoặc trong các trường hợp hệ thống của KBNN đang bảo trì, nâng cấp hoặc gặp sự cố kỹ thuật, không thể vận hành. Trường hợp bảo trì, nâng cấp hệ thống, KBNN thông báo cho các cơ quan, tổ chức, cá nhân trước ít nhất 03 ngày trên Trang thông tin điện tử của KBNN hoặc bằng thư điện tử đến cơ quan, tổ chức, cá nhân.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:246694:part:1:article:6:clause:4",
+                        "number": "4",
+                        "content": "4. Trước khi thực hiện giao dịch điện tử trong hoạt\nđộng nghiệp vụ KBNN qua các trang thông tin điện tử của KBNN, cơ quan, tổ chức, cá nhân thực hiện định danh và xác thực điện tử theo quy định của pháp luật về định danh và xác thực điện tử.",
+                        "points": []
+                      }
+                    ],
+                    "points": []
+                  },
+                  {
+                    "article_id": "doc:246694:part:1:article:7",
+                    "number": "7",
+                    "title": "Đăng nhập các trang thông tin điện tử của KBNN",
+                    "content": "Điều 7. Đăng nhập các trang thông tin điện tử của KBNN",
+                    "clauses": [
+                      {
+                        "clause_id": "doc:246694:part:1:article:7:clause:1",
+                        "number": "1",
+                        "content": "1. Các cơ quan, tổ chức, cá nhân khi giao dịch điện\ntử với KBNN thực hiện đăng ký tài khoản đăng nhập trên các trang thông tin điện tử của KBNN, trừ các giao dịch điện tử liên quan đến thủ tục hành chính thuộc lĩnh vực KBNN theo quy định tại khoản 2 Điều này. Cơ quan, tổ chức, cá nhân thực hiện đổi mật khẩu ban đầu trong vòng 24 giờ kể từ khi nhận được thông báo tài khoản đăng nhập các trang thông tin điện tử của KBNN và đổi mật khẩu định kỳ tối đa không quá 03 tháng.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:246694:part:1:article:7:clause:2",
+                        "number": "2",
+                        "content": "2. Đối với đăng nhập giao dịch điện tử liên quan đến\nthủ tục hành chính thuộc lĩnh vực KBNN.",
+                        "points": [
+                          {
+                            "point_id": "doc:246694:part:1:article:7:clause:2:point:1",
+                            "label": "a",
+                            "content": "a) Trường hợp thực hiện thủ tục hành chính trên Cổng\ndịch vụ công quốc gia Các cơ quan, tổ chức, cá nhân đăng ký tài khoản đăng nhập trên Cổng dịch vụ công quốc gia theo hướng dẫn tại địa chỉ https://dichvucong.gov.vn.",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:246694:part:1:article:7:clause:2:point:2",
+                            "label": "b",
+                            "content": "b) Trường hợp thực hiện thủ tục hành chính trên\nTrang thông tin dịch vụ công của KBNN Cơ quan, tổ chức, cá nhân thực hiện đăng ký tài khoản đăng nhập Trang thông tin dịch vụ công của KBNN cho từng thành viên tham gia giao dịch điện tử thuộc cơ quan, tổ chức (đối với cơ quan, tổ chức) hoặc cá nhân theo hướng dẫn tại Trang thông tin dịch vụ công của KBNN. Các đơn vị, tổ chức, cá nhân thực hiện đổi mật khẩu theo quy định tại khoản 1 Điều này.",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "clause_id": "doc:246694:part:1:article:7:clause:3",
+                        "number": "3",
+                        "content": "3. Trong quá trình giao dịch điện tử, nếu có thay đổi\nthông tin đăng ký giao dịch điện tử so với ban đầu, cơ quan, tổ chức, cá nhân có trách nhiệm đăng ký lại thông tin và lý do thay đổi cho KBNN theo hướng dẫn trên các trang thông tin điện tử của KBNN.",
+                        "points": []
+                      }
+                    ],
+                    "points": []
+                  },
+                  {
+                    "article_id": "doc:246694:part:1:article:8",
+                    "number": "8",
+                    "title": "Phương thức gửi chứng từ điện tử qua các trang thông tin điện tử của KBNN",
+                    "content": "Điều 8. Phương thức gửi chứng từ điện tử qua các trang thông tin điện tử của KBNN",
+                    "clauses": [
+                      {
+                        "clause_id": "doc:246694:part:1:article:8:clause:1",
+                        "number": "1",
+                        "content": "1. Cơ quan, tổ chức, cá nhân gửi chứng từ điện tử đến\nKBNN qua các trang thông tin điện tử của KBNN theo hướng dẫn trên các trang thông tin điện tử của KBNN bằng các phương thức sau:",
+                        "points": [
+                          {
+                            "point_id": "doc:246694:part:1:article:8:clause:1:point:1",
+                            "label": "a",
+                            "content": "a) Lập hồ sơ hoặc kê khai thông tin trên biểu mẫu\nđiện tử (e-form) trên trang thông tin điện tử của KBNN;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:246694:part:1:article:8:clause:1:point:2",
+                            "label": "b",
+                            "content": "b) Tải chứng từ điện tử lên các trang thông tin điện\ntử của KBNN.",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:246694:part:1:article:8:clause:1:point:3",
+                            "label": "c",
+                            "content": "c) Tích hợp dữ liệu từ hệ thống thông tin của cơ\nquan, tổ chức với hệ thống thông tin của KBNN.",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "clause_id": "doc:246694:part:1:article:8:clause:2",
+                        "number": "2",
+                        "content": "2. Chứng từ điện tử gửi đến KBNN qua các trang\nthông tin điện tử của KBNN phải đáp ứng quy định tại Điều 5 và",
+                        "points": []
+                      }
+                    ],
+                    "points": []
+                  },
+                  {
+                    "article_id": "doc:246694:part:1:article:9",
+                    "number": "6",
+                    "title": "Nghị định số 165/2018/NĐ-CP ngày 24 tháng 12 năm 2018 của Chính phủ về giao dịch điện tử trong hoạt động tài chính.",
+                    "content": "Điều 6 Nghị định số 165/2018/NĐ-CP ngày 24 tháng 12 năm 2018 của Chính phủ về giao dịch điện tử trong hoạt động tài chính.",
+                    "clauses": [],
+                    "points": []
+                  }
+                ]
+              },
+              {
+                "section_id": "doc:246694:part:1:section:2",
+                "number": "2",
+                "title": "THỦ TỤC HÀNH CHÍNH THUỘC LĨNH VỰC KBNN BẰNG PHƯƠNG THỨC ĐIỆN TỬ",
+                "content": "Mục 2. TIẾP NHẬN VÀ GIẢI QUYẾT\nTHỦ TỤC HÀNH CHÍNH THUỘC LĨNH VỰC KBNN BẰNG PHƯƠNG THỨC ĐIỆN TỬ",
+                "articles": [
+                  {
+                    "article_id": "doc:246694:part:1:article:10",
+                    "number": "9",
+                    "title": "Tiếp nhận và trả kết quả thủ tục hành chính thuộc lĩnh vực KBNN bằng phương thức điện tử",
+                    "content": "Điều 9. Tiếp nhận và trả kết quả thủ tục hành chính thuộc lĩnh vực KBNN bằng phương thức điện tử",
+                    "clauses": [
+                      {
+                        "clause_id": "doc:246694:part:1:article:10:clause:1",
+                        "number": "1",
+                        "content": "1. Các thủ tục hành chính thuộc lĩnh vực KBNN được\ntiếp nhận và giải quyết bằng phương thức điện tử qua Trang thông tin dịch vụ công của KBNN. Riêng thủ tục nộp tiền vào ngân sách nhà nước, cơ quan, tổ chức, cá nhân thực hiện qua Cổng Dịch vụ công quốc gia, Cổng dịch vụ công cấp bộ, cấp tỉnh, Cổng thông tin điện tử của cơ quan quản lý thuế, Trang thông tin dịch vụ công của KBNN, dịch vụ thanh toán điện tử của ngân hàng hoặc tổ chức cung ứng dịch vụ trung gian thanh toán theo quy định tại Điều 4 Nghị định số 11/2020/NĐ-CP ngày 20 tháng 01 năm 2020 của Chính phủ quy định về thủ tục hành chính thuộc lĩnh vực KBNN và Điều 13 Nghị định số 45/2020/NĐ-CP ngày 08 tháng 4 năm 2020 của Chính phủ về thực hiện thủ tục hành chính trên môi trường điện tử.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:246694:part:1:article:10:clause:2",
+                        "number": "2",
+                        "content": "2. Cơ quan, tổ chức, cá nhân gửi hồ sơ thủ tục hành\nchính đến KBNN qua Trang thông tin dịch vụ công của KBNN bằng các phương thức quy định tại Điều 8 Thông tư này. Đối với các thành phần hồ sơ thủ tục hành chính chưa thể gửi qua Trang thông tin dịch vụ công của KBNN, cơ quan, tổ chức, cá nhân gửi KBNN bằng bản giấy.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:246694:part:1:article:10:clause:3",
+                        "number": "3",
+                        "content": "3. KBNN trả kết quả giải quyết thủ tục hành chính\nthuộc lĩnh vực KBNN cho cơ quan, tổ chức, cá nhân theo quy định của Nghị định số 11/2020/NĐ-CP ngày 20 tháng 01 năm 2020 của Chính phủ quy định về thủ tục hành chính thuộc lĩnh vực KBNN.",
+                        "points": []
+                      }
+                    ],
+                    "points": []
+                  },
+                  {
+                    "article_id": "doc:246694:part:1:article:11",
+                    "number": "10",
+                    "title": "Thời gian tiếp nhận hồ sơ thủ tục hành chính điện tử",
+                    "content": "Điều 10. Thời gian tiếp nhận hồ sơ thủ tục hành chính điện tử",
+                    "clauses": [
+                      {
+                        "clause_id": "doc:246694:part:1:article:11:clause:1",
+                        "number": "1",
+                        "content": "1. Trang thông tin dịch vụ công của KBNN tự động tiếp\nnhận hồ sơ thủ tục hành chính điện tử theo quy định tại khoản 3",
+                        "points": []
+                      }
+                    ],
+                    "points": []
+                  },
+                  {
+                    "article_id": "doc:246694:part:1:article:12",
+                    "number": "6",
+                    "title": "Thông tư này; đồng thời, có thông báo cho cơ quan, tổ chức, cá nhân về thời điểm tiếp nhận của hệ thống thông qua thư điện tử.",
+                    "content": "Điều 6 Thông tư này; đồng thời, có thông báo cho cơ quan, tổ chức, cá nhân về thời điểm tiếp nhận của hệ thống thông qua thư điện tử.",
+                    "clauses": [
+                      {
+                        "clause_id": "doc:246694:part:1:article:12:clause:1",
+                        "number": "2",
+                        "content": "2. Công chức KBNN tiếp nhận hồ sơ thủ tục hành\nchính trên Trang thông tin dịch vụ công của KBNN trong giờ làm việc. Đối với hồ sơ thủ tục hành chính được gửi ngoài giờ làm việc hoặc vào ngày nghỉ, ngày lễ, ngày Tết, công chức KBNN tiếp nhận vào ngày làm việc tiếp theo.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:246694:part:1:article:12:clause:2",
+                        "number": "3",
+                        "content": "3. Công chức KBNN thông báo về việc tiếp nhận chính\nthức hoặc yêu cầu chỉnh sửa, bổ sung hồ sơ qua Trang thông tin dịch vụ công của KBNN hoặc qua thư điện tử cho cơ quan, tổ chức, cá nhân không muộn hơn tám (8) giờ làm việc kể từ khi hệ thống tiếp nhận. Trường hợp hồ sơ thủ tục hành chính cần phải chỉnh sửa, bổ sung, công chức KBNN trả lại hồ sơ cho cơ quan, tổ chức, cá nhân; nêu rõ lý do chỉnh sửa, bổ sung; đồng thời, có hướng dẫn cụ thể qua Trang thông tin dịch vụ công của KBNN để cơ quan, tổ chức, cá nhân bổ sung hoặc hoàn thiện.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:246694:part:1:article:12:clause:3",
+                        "number": "4",
+                        "content": "4. Thời điểm cơ quan, tổ chức, cá nhân gửi đầy đủ hồ\nsơ thủ tục hành chính theo quy định và được giao dịch viên của KBNN tiếp nhận là căn cứ để tính thời gian giải quyết thủ tục hành chính thuộc lĩnh vực KBNN và xác định hành vi vi phạm hành chính trong lĩnh vực KBNN (nếu có).",
+                        "points": []
+                      }
+                    ],
+                    "points": []
+                  }
+                ]
+              },
+              {
+                "section_id": "doc:246694:part:1:section:3",
+                "number": "3",
+                "title": "ĐỒNG ĐIỆN TỬ TRONG HOẠT ĐỘNG NGHIỆP VỤ KBNN",
+                "content": "Mục 3. GIAO KẾT VÀ THỰC HIỆN HỢP\nĐỒNG ĐIỆN TỬ TRONG HOẠT ĐỘNG NGHIỆP VỤ KBNN",
+                "articles": [
+                  {
+                    "article_id": "doc:246694:part:1:article:13",
+                    "number": "11",
+                    "title": "Giao kết và thực hiện hợp đồng điện tử trong hoạt động nghiệp vụ KBNN",
+                    "content": "Điều 11. Giao kết và thực hiện hợp đồng điện tử trong hoạt động nghiệp vụ KBNN",
+                    "clauses": [
+                      {
+                        "clause_id": "doc:246694:part:1:article:13:clause:1",
+                        "number": "1",
+                        "content": "1. KBNN được giao kết hợp đồng bằng hình thức điện\ntử trong hoạt động nghiệp vụ KBNN, trừ trường hợp các bên có thỏa thuận khác. Hợp đồng điện tử trong hoạt động nghiệp vụ KBNN được ký kết quả các trang thông tin điện tử của KBNN hoặc qua các phương thức khác do hai bên thỏa thuận, đảm bảo phù hợp với quy định của pháp luật.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:246694:part:1:article:13:clause:2",
+                        "number": "2",
+                        "content": "2. Việc giao kết và thực hiện hợp đồng điện tử\ntrong hoạt động nghiệp vụ KBNN phải tuân thủ các quy định của Luật Giao dịch điện tử, pháp luật về hợp đồng và các quy định pháp luật chuyên ngành.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:246694:part:1:article:13:clause:3",
+                        "number": "3",
+                        "content": "3. Khi giao kết và thực hiện hợp đồng điện tử trong\nhoạt động nghiệp vụ KBNN, KBNN và các bên tham gia hợp đồng có quyền thỏa thuận về yêu cầu kỹ thuật, chứng thực, các điều kiện bảo đảm tính toàn vẹn, bảo mật có liên quan đến hợp đồng điện tử đó; đồng thời, được thỏa thuận về việc thực hiện một phần hoặc toàn bộ các nội dung giao kết bằng phương thức điện tử.",
+                        "points": []
+                      }
+                    ],
+                    "points": []
+                  },
+                  {
+                    "article_id": "doc:246694:part:1:article:14",
+                    "number": "12",
+                    "title": "Giá trị pháp lý của hợp đồng điện tử trong hoạt động nghiệp vụ KBNN",
+                    "content": "Điều 12. Giá trị pháp lý của hợp đồng điện tử trong hoạt động nghiệp vụ KBNN",
+                    "clauses": [
+                      {
+                        "clause_id": "doc:246694:part:1:article:14:clause:1",
+                        "number": "1",
+                        "content": "1. Hợp đồng điện tử trong hoạt động nghiệp vụ KBNN\ncó giá trị là bản gốc khi được thực hiện một trong các biện pháp sau:",
+                        "points": [
+                          {
+                            "point_id": "doc:246694:part:1:article:14:clause:1:point:1",
+                            "label": "a",
+                            "content": "a) Hợp đồng điện tử được ký số bởi tất cả các bên\ntham gia hợp đồng.",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:246694:part:1:article:14:clause:1:point:2",
+                            "label": "b",
+                            "content": "b) Hệ thống thông tin có biện pháp bảo đảm toàn vẹn\nhợp đồng điện tử trong quá trình truyền nhận, lưu trữ trên hệ thống; ghi nhận các bên tham gia hợp đồng và áp dụng một trong các biện pháp sau để xác thực các bên tham gia hợp đồng: xác thực bằng chữ ký số, xác thực bằng sinh trắc học, xác thực từ hai yếu tố trở lên trong đó có yếu tố là mã xác thực dùng một lần hoặc mã xác thực ngẫu nhiên.",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:246694:part:1:article:14:clause:1:point:3",
+                            "label": "c",
+                            "content": "c) Biện pháp khác mà các bên tham gia hợp đồng thống\nnhất lựa chọn, bảo đảm tính toàn vẹn của dữ liệu, tính xác thực, tính chống chối bỏ, phù hợp với quy định của Luật Giao dịch điện tử.",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "clause_id": "doc:246694:part:1:article:14:clause:2",
+                        "number": "2",
+                        "content": "2. Các bên tham gia hợp đồng điện tử với KBNN phải\nthực hiện định danh và xác thực điện tử theo quy định của pháp luật về định danh và xác thực điện tử.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:246694:part:1:article:14:clause:3",
+                        "number": "3",
+                        "content": "3. Các bên đã ký kết hợp đồng điện tử trong hoạt động\nnghiệp vụ KBNN thì không phải ký kết hợp đồng tương ứng bằng bản giấy.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:246694:part:1:article:14:clause:4",
+                        "number": "4",
+                        "content": "4. Việc chứng thư số được sử dụng để ký kết hợp đồng\nđiện tử mất hiệu lực sau thời điểm hợp đồng đã được ký kết không làm ảnh hưởng đến giá trị pháp lý của hợp đồng điện tử đó.",
+                        "points": []
+                      }
+                    ],
+                    "points": []
+                  }
+                ]
+              },
+              {
+                "section_id": "doc:246694:part:1:section:4",
+                "number": "4",
+                "title": "TRONG HOẠT ĐỘNG NGHIỆP VỤ KBNN",
+                "content": "Mục 4. CHIA SẺ DỮ LIỆU SỐ\nTRONG HOẠT ĐỘNG NGHIỆP VỤ KBNN",
+                "articles": [
+                  {
+                    "article_id": "doc:246694:part:1:article:15",
+                    "number": "13",
+                    "title": "Phạm vi chia sẻ dữ liệu số trong hoạt động nghiệp vụ KBNN",
+                    "content": "Điều 13. Phạm vi chia sẻ dữ liệu số trong hoạt động nghiệp vụ KBNN",
+                    "clauses": [
+                      {
+                        "clause_id": "doc:246694:part:1:article:15:clause:1",
+                        "number": "1",
+                        "content": "1. Dữ liệu số chia sẻ trong nội bộ hệ thống KBNN và\ngiữa KBNN với các cơ quan, tổ chức, cá nhân bao gồm các thông tin, báo cáo liên quan đến các hoạt động nghiệp vụ quản lý nhà nước về quỹ ngân sách nhà nước, các quỹ tài chính nhà nước; quản lý ngân quỹ nhà nước; tổng kế toán nhà nước; huy động vốn cho ngân sách nhà nước và cho đầu tư phát triển thông qua hình thức phát hành trái phiếu Chính phủ.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:246694:part:1:article:15:clause:2",
+                        "number": "2",
+                        "content": "2. Dữ liệu số chia sẻ trong nội bộ hệ thống KBNN và\ngiữa KBNN với cơ quan, tổ chức, cá nhân tại khoản 1 Điều này không bao gồm các dữ liệu thuộc phạm vi bảo mật của cơ quan, tổ chức; dữ liệu cá nhân và các dữ liệu thuộc phạm vi bí mật nhà nước theo quy định của pháp luật.",
+                        "points": []
+                      }
+                    ],
+                    "points": []
+                  },
+                  {
+                    "article_id": "doc:246694:part:1:article:16",
+                    "number": "14",
+                    "title": "Nguyên tắc và phương thức chia sẻ dữ liệu số trong hoạt động nghiệp vụ KBNN",
+                    "content": "Điều 14. Nguyên tắc và phương thức chia sẻ dữ liệu số trong hoạt động nghiệp vụ KBNN",
+                    "clauses": [
+                      {
+                        "clause_id": "doc:246694:part:1:article:16:clause:1",
+                        "number": "1",
+                        "content": "1. Việc chia sẻ dữ liệu số trong hoạt động nghiệp vụ\nKBNN giữa KBNN với các cơ quan, tổ chức, cá nhân được thực hiện theo quy định của Nghị định số 47/2020/NĐ-CP ngày 09 tháng 4 năm 2020 của Chính phủ về quản lý, kết nối và chia sẻ dữ liệu số của cơ quan nhà nước và quy định của Bộ Tài chính.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:246694:part:1:article:16:clause:2",
+                        "number": "2",
+                        "content": "2. Dữ liệu số trong hoạt động nghiệp vụ KBNN được\nchia sẻ bằng một trong các phương thức sau:",
+                        "points": [
+                          {
+                            "point_id": "doc:246694:part:1:article:16:clause:2:point:1",
+                            "label": "a",
+                            "content": "a) Kết nối, chia sẻ dữ liệu trực tuyến trên môi trường\nmạng giữa hệ thống thông tin của KBNN và cơ quan, tổ chức khai thác dữ liệu;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:246694:part:1:article:16:clause:2:point:2",
+                            "label": "b",
+                            "content": "b) Kết nối, chia sẻ dữ liệu với cơ quan, tổ chức\nkhai thác dữ liệu thông qua cơ sở dữ liệu quốc gia về tài chính và các cơ sở dữ liệu khác (nếu có);",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:246694:part:1:article:16:clause:2:point:3",
+                            "label": "c",
+                            "content": "c) Kết nối, chia sẻ dữ liệu trực tuyến trên môi trường\nmạng bằng việc đồng bộ toàn bộ hoặc một phần dữ liệu giữa cơ sở dữ liệu của KBNN và cơ quan, tổ chức khai thác dữ liệu;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:246694:part:1:article:16:clause:2:point:4",
+                            "label": "d",
+                            "content": "d) Chia sẻ dữ liệu được đóng gói và lưu giữ trên\ncác phương tiện lưu trữ thông tin.",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:246694:part:1:article:16:clause:2:point:5",
+                            "label": "đ",
+                            "content": "đ) Kết nối nền tảng tích hợp, chia sẻ dữ liệu số\nngành Tài chính.",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ],
+                    "points": []
+                  }
+                ]
+              },
+              {
+                "section_id": "doc:246694:part:1:section:5",
+                "number": "5",
+                "title": "TRONG HOẠT ĐỘNG NGHIỆP VỤ KBNN",
+                "content": "Mục 5. GIAO DỊCH ĐIỆN TỬ KHÁC\nTRONG HOẠT ĐỘNG NGHIỆP VỤ KBNN",
+                "articles": [
+                  {
+                    "article_id": "doc:246694:part:1:article:17",
+                    "number": "15",
+                    "title": "Phương thức thực hiện giao dịch điện tử khác trong hoạt động nghiệp vụ KBNN",
+                    "content": "Điều 15. Phương thức thực hiện giao dịch điện tử khác trong hoạt động nghiệp vụ KBNN",
+                    "clauses": [
+                      {
+                        "clause_id": "doc:246694:part:1:article:17:clause:1",
+                        "number": "1",
+                        "content": "1. Các giao dịch điện tử trong hoạt động nghiệp vụ\nKBNN mà không phải là giao dịch điện tử liên quan đến tiếp nhận, giải quyết thủ tục hành chính; giao kết, thực hiện hợp đồng điện tử và chia sẻ dữ liệu số trong hoạt động nghiệp vụ KBNN được thực hiện trên Cổng thông tin điện tử, các trang thông tin điện tử của KBNN và các phương tiện điện tử khác, phù hợp với quy định của pháp luật về giao dịch điện tử.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:246694:part:1:article:17:clause:2",
+                        "number": "2",
+                        "content": "2. Trường hợp giao dịch điện tử khác được thực hiện\ntrên Cổng thông tin điện tử và các trang thông tin điện tử của KBNN, thì việc đăng ký tài khoản và gửi chứng từ điện tử được thực hiện theo quy định tại Điều 7 và Điều 8 Thông tư này.",
+                        "points": []
+                      }
+                    ],
+                    "points": []
+                  },
+                  {
+                    "article_id": "doc:246694:part:1:article:18",
+                    "number": "16",
+                    "title": "Giao dịch điện tử giữa KBNN với các đơn vị thuộc, trực thuộc Bộ Tài chính và giao dịch điện tử trong nội bộ hệ thống KBNN",
+                    "content": "Điều 16. Giao dịch điện tử giữa KBNN với các đơn vị thuộc, trực thuộc Bộ Tài chính và giao dịch điện tử trong nội bộ hệ thống KBNN",
+                    "clauses": [
+                      {
+                        "clause_id": "doc:246694:part:1:article:18:clause:1",
+                        "number": "1",
+                        "content": "1. Việc thực hiện giao dịch điện tử giữa KBNN với\ncác cơ quan tài chính, cơ quan Thuế và cơ quan Hải quan được thực hiện theo các quy định hiện hành của Bộ Tài chính về quy trình trao đổi thông tin giữa các cơ quan trong ngành tài chính.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:246694:part:1:article:18:clause:2",
+                        "number": "2",
+                        "content": "2. Việc thực hiện giao dịch điện tử trong nội bộ hệ\nthống KBNN do Tổng Giám đốc KBNN quyết định về nội dung, quy trình và lộ trình thực hiện.",
+                        "points": []
+                      }
+                    ],
+                    "points": []
+                  }
+                ]
+              },
+              {
+                "section_id": "doc:246694:part:1:section:6",
+                "number": "6",
+                "title": "TRONG HOẠT ĐỘNG NGHIỆP VỤ KBNN VÀ BẢO ĐẢM AN TOÀN, XỬ LÝ SỰ CỐ",
+                "content": "Mục 6. LƯU CHỨNG TỪ ĐIỆN TỬ\nTRONG HOẠT ĐỘNG NGHIỆP VỤ KBNN VÀ BẢO ĐẢM AN TOÀN, XỬ LÝ SỰ CỐ",
+                "articles": [
+                  {
+                    "article_id": "doc:246694:part:1:article:19",
+                    "number": "17",
+                    "title": "Lưu chứng từ điện tử trong hoạt động nghiệp vụ KBNN",
+                    "content": "Điều 17. Lưu chứng từ điện tử trong hoạt động nghiệp vụ KBNN",
+                    "clauses": [
+                      {
+                        "clause_id": "doc:246694:part:1:article:19:clause:1",
+                        "number": "1",
+                        "content": "1. Chứng từ điện tử được gửi đến và gửi đi từ KBNN\nđược lưu tại hệ thống thông tin của KBNN. KBNN không phải chuyển đổi chứng từ điện tử sang bản giấy để lưu, trừ trường hợp Tổng Giám đốc KBNN quyết định các chứng từ điện tử cần chuyển sang chứng từ giấy để lưu theo quy định tại Điều 7 Nghị định số 165/2018/NĐ-CP ngày 24 tháng 12 năm 2018 của Chính phủ về giao dịch điện tử trong hoạt động tài chính.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:246694:part:1:article:19:clause:2",
+                        "number": "2",
+                        "content": "2. Thời hạn lưu trữ chứng từ điện tử trong hoạt động\nnghiệp vụ KBNN được thực hiện theo quy định của pháp luật chuyên ngành đối với từng loại chứng từ điện tử. Việc tiêu hủy chứng từ điện tử hết thời hạn lưu trữ được thực hiện theo quy định tại Điều 11 Nghị định số 165/2018/NĐ-CP ngày 24 tháng 12 năm 2018 của Chính phủ về giao dịch điện tử trong hoạt động tài chính.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:246694:part:1:article:19:clause:3",
+                        "number": "3",
+                        "content": "3. KBNN triển khai các giải pháp thực hiện lưu chứng\ntừ điện tử tại hệ thống thông tin, bảo đảm các điều kiện quy định tại khoản 1 Điều 15 Luật Giao dịch điện tử.",
+                        "points": []
+                      }
+                    ],
+                    "points": []
+                  },
+                  {
+                    "article_id": "doc:246694:part:1:article:20",
+                    "number": "18",
+                    "title": "Bảo đảm an toàn trong các giao dịch điện tử",
+                    "content": "Điều 18. Bảo đảm an toàn trong các giao dịch điện tử",
+                    "clauses": [
+                      {
+                        "clause_id": "doc:246694:part:1:article:20:clause:1",
+                        "number": "1",
+                        "content": "1. Việc bảo đảm an toàn trong giao dịch điện tử\ntrong hoạt động nghiệp vụ KBNN được thực hiện theo quy định tại Điều 14 Nghị định số 165/2018/NĐ-CP ngày 24 tháng 12 năm 2018 của Chính phủ về giao dịch điện tử trong hoạt động tài chính.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:246694:part:1:article:20:clause:2",
+                        "number": "2",
+                        "content": "2. Cơ quan, tổ chức, cá nhân chỉ được sử dụng tài\nkhoản đăng nhập các trang thông tin điện tử của KBNN để thực hiện các giao dịch điện tử và tra cứu dữ liệu giao dịch theo quy định của Thông tư này. Trường hợp cơ quan, tổ chức, cá nhân sử dụng tài khoản đăng nhập các trang thông tin điện tử của KBNN không đúng mục đích hoặc vi phạm các quy định về đảm bảo an toàn thông tin mạng quy định tại khoản 1 Điều này, KBNN được tạm ngừng giao dịch điện tử với cơ quan, tổ chức, cá nhân đó cho đến khi cơ quan, tổ chức, cá nhân đó có biện pháp khắc phục.",
+                        "points": []
+                      }
+                    ],
+                    "points": []
+                  },
+                  {
+                    "article_id": "doc:246694:part:1:article:21",
+                    "number": "19",
+                    "title": "Xử lý sự cố trong quá trình thực hiện giao dịch điện tử trong hoạt động nghiệp vụ KBNN",
+                    "content": "Điều 19. Xử lý sự cố trong quá trình thực hiện giao dịch điện tử trong hoạt động nghiệp vụ KBNN",
+                    "clauses": [
+                      {
+                        "clause_id": "doc:246694:part:1:article:21:clause:1",
+                        "number": "1",
+                        "content": "1. Trường hợp gặp sự cố trong quá trình thực hiện\ngiao dịch điện tử trong hoạt động nghiệp vụ KBNN mà do lỗi hệ thống hạ tầng kỹ thuật của cơ quan, tổ chức, cá nhân, thì cơ quan, tổ chức, cá nhân đó phải tự khắc phục sự cố. Trong thời gian chưa khắc phục được sự cố, các cơ quan, tổ chức, cá nhân phải thực hiện thông báo cho KBNN bằng văn bản.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:246694:part:1:article:21:clause:2",
+                        "number": "2",
+                        "content": "2. Trường hợp gặp sự cố do lỗi tại hệ thống thông\ntin của KBNN, KBNN thông báo cho các cơ quan, tổ chức, cá nhân có liên quan được biết về sự cố của hệ thống và thời gian hệ thống tiếp tục vận hành trên Cổng thông tin điện tử KBNN và các kênh thông tin khác của KBNN.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:246694:part:1:article:21:clause:3",
+                        "number": "3",
+                        "content": "3. Trong thời gian chưa khắc phục được sự cố quy định\ntại khoản 1 và khoản 2 Điều này, các cơ quan, tổ chức, cá nhân thực hiện giao dịch trực tiếp tại KBNN, trừ trường hợp có quy định hoặc thỏa thuận khác.",
+                        "points": []
+                      }
+                    ],
+                    "points": []
+                  }
+                ]
+              }
+            ],
+            "articles": []
+          },
+          {
+            "chapter_id": "doc:246694:part:1:chapter:3",
+            "number": "III",
+            "title": "TỔ CHỨC THỰC HIỆN",
+            "content": "Chương III\nTỔ CHỨC THỰC HIỆN",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:246694:part:1:article:22",
+                "number": "20",
+                "title": "Trách nhiệm của KBNN",
+                "content": "Điều 20. Trách nhiệm của KBNN",
+                "clauses": [
+                  {
+                    "clause_id": "doc:246694:part:1:article:22:clause:1",
+                    "number": "1",
+                    "content": "1. Tổ chức thực hiện giao dịch điện tử giữa KBNN với\ncác cơ quan, tổ chức, cá nhân và giữa các đơn vị trong hệ thống KBNN theo quy định của pháp luật và quy định tại Thông tư này.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:246694:part:1:article:22:clause:2",
+                    "number": "2",
+                    "content": "2. Xây dựng, quản lý, vận hành các hệ thống thông\ntin của KBNN; triển khai các biện pháp kỹ thuật và dự phòng cần thiết để đảm bảo an toàn, an ninh, bảo mật giao dịch điện tử trong hoạt động nghiệp vụ KBNN theo quy định của pháp luật.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:246694:part:1:article:22:clause:3",
+                    "number": "3",
+                    "content": "3. Hướng dẫn cụ thể về việc gửi chứng từ điện tử\nqua các trang thông tin điện tử của KBNN; hướng dẫn và công bố chuẩn kết nối và tích hợp từ các chương trình ứng dụng của các cơ quan, tổ chức vào hệ thống của KBNN (nếu có); công khai đầu mối tiếp nhận yêu cầu hỗ trợ, khắc phục các sự cố phát sinh.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:246694:part:1:article:22:clause:4",
+                    "number": "4",
+                    "content": "4. Cấp tài khoản đăng nhập cho các cơ quan, tổ chức,\ncá nhân trên các trang thông tin điện tử của KBNN trong thời hạn 01 ngày làm việc kể từ khi nhận được yêu cầu hợp lệ.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:246694:part:1:article:22:clause:5",
+                    "number": "5",
+                    "content": "5. Xây dựng, công bố và triển khai lộ trình phát\ntriển ứng dụng di động trong hoạt động nghiệp vụ KBNN.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:246694:part:1:article:22:clause:6",
+                    "number": "6",
+                    "content": "6. Thiết lập và công bố các dịch vụ chia sẻ dữ liệu,\ncác tài liệu kỹ thuật cần thiết phục vụ mục đích truy cập dữ liệu thuộc phạm vi chia sẻ dữ liệu số trong hoạt động nghiệp vụ KBNN.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:246694:part:1:article:22:clause:7",
+                    "number": "7",
+                    "content": "7. Bảo mật thông tin của các cơ quan, tổ chức, cá\nnhân tham gia giao dịch với KBNN theo quy định.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:246694:part:1:article:22:clause:8",
+                    "number": "8",
+                    "content": "8. Xác nhận (bằng cách trực tiếp hoặc ủy quyền cho\ncác KBNN trực thuộc) chứng từ giấy được chuyển đổi từ chứng từ điện tử khi có yêu cầu của cơ quan, tổ chức, cá nhân tham gia giao dịch trên hệ thống thông tin thuộc quản lý của chủ quản hệ thống thông tin theo quy định tại Điều 7 Nghị định số 165/NĐ-CP ngày 24 tháng 12 năm 2018 của Chính phủ về giao dịch điện tử trong hoạt động tài chính.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:246694:part:1:article:22:clause:9",
+                    "number": "9",
+                    "content": "9. Cung cấp thông tin về giao dịch điện tử trong hoạt\nđộng tài chính thuộc phạm vi hệ thống thông tin của KBNN cho các cơ quan quản lý có thẩm quyền kiểm tra, thanh tra, điều tra và các cơ quan, tổ chức, cá nhân có nhu cầu tra cứu, xác minh thông tin trong phạm vi quy định tại Điều 16 Nghị định số 165/NĐ-CP ngày 24 tháng 12 năm 2018 của Chính phủ về giao dịch điện tử trong hoạt động tài chính.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:246694:part:1:article:22:clause:10",
+                    "number": "10",
+                    "content": "10. Hướng dẫn, thanh tra, kiểm tra việc thực hiện\nquy định của pháp luật về giao dịch điện tử trong hoạt động nghiệp vụ KBNN.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:246694:part:1:article:23",
+                "number": "21",
+                "title": "Trách nhiệm của các cơ quan, tổ chức, cá nhân có giao dịch điện tử với KBNN",
+                "content": "Điều 21. Trách nhiệm của các cơ quan, tổ chức, cá nhân có giao dịch điện tử với KBNN",
+                "clauses": [
+                  {
+                    "clause_id": "doc:246694:part:1:article:23:clause:1",
+                    "number": "1",
+                    "content": "1. Quản lý, giữ bí mật về tài khoản đăng nhập vào hệ\nthống thông tin của KBNN (nếu có) và phương tiện, thông tin phục vụ việc ký số hoặc xác thực; thông báo ngay cho KBNN khi bị mất, lộ phương tiện, thông tin này.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:246694:part:1:article:23:clause:2",
+                    "number": "2",
+                    "content": "2. Đảm bảo tính hợp pháp, đầy đủ, chính xác và\ntrung thực đối với chứng từ điện tử gửi KBNN theo quy định của Luật Giao dịch điện tử và các văn bản quy phạm pháp luật hiện hành; đồng thời, hoàn toàn chịu trách nhiệm về chứng từ điện tử gửi KBNN.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:246694:part:1:article:23:clause:3",
+                    "number": "3",
+                    "content": "3. Theo dõi, cập nhật, phản hồi các thông tin liên\nquan đến các giao dịch điện tử với KBNN.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:246694:part:1:article:23:clause:4",
+                    "number": "4",
+                    "content": "4. Kịp thời thông báo cho KBNN và thực hiện ngay\ncác thủ tục khi ngừng tham gia giao dịch điện tử với KBNN.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:246694:part:1:article:24",
+                "number": "22",
+                "title": "Hiệu lực thi hành",
+                "content": "Điều 22. Hiệu lực thi hành",
+                "clauses": [
+                  {
+                    "clause_id": "doc:246694:part:1:article:24:clause:1",
+                    "number": "1",
+                    "content": "1. Thông tư này có hiệu lực kể từ ngày 01 tháng 12\nnăm 2021.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:246694:part:1:article:24:clause:2",
+                    "number": "2",
+                    "content": "2. Bãi bỏ Thông tư số 133/2017/TT-BTC ngày 15 tháng\n12 năm 2017 của Bộ Tài chính quy định về giao dịch điện tử trong hoạt động nghiệp vụ KBNN.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:246694:part:1:article:24:clause:3",
+                    "number": "3",
+                    "content": "3. Trường hợp các văn bản có liên quan đề cập tại\nThông tư này được sửa đổi, bổ sung hoặc thay thế, thì thực hiện theo văn bản sửa đổi, bổ sung hoặc thay thế đó./.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          }
+        ],
+        "sections": [],
+        "articles": [],
+        "unstructured_blocks": []
+      }
+    ]
+  },
+  "issues": [],
+  "status": "ok",
+  "source_hash": "context_246694.json",
+  "stats": {
+    "source_chars": 25775,
+    "passage_chars": 25622,
+    "parts": 1,
+    "chapters": 3,
+    "sections": 6,
+    "articles": 24,
+    "clauses": 71,
+    "points": 17
+  }
+}

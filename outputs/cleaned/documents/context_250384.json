@@ -1,0 +1,796 @@
+{
+  "schema_version": "2.0",
+  "document_id": 250384,
+  "metadata": {
+    "name": "Quyet-dinh-283-QD-BHXH-2020-quan-tri-He-thong-thu-nop-bao-hiem-xa-hoi-dien-tu-456658",
+    "link": "https://thuvienphapluat.vn/van-ban/Bao-hiem/Quyet-dinh-283-QD-BHXH-2020-quan-tri-He-thong-thu-nop-bao-hiem-xa-hoi-dien-tu-456658.aspx",
+    "issuing_agency": "BẢO HIỂM XÃ HỘI VIỆT NAM",
+    "national_header": "CỘNG HÒA XÃ HỘI\r\n\n  CHỦ NGHĨA VIỆT NAM",
+    "motto": "Độc lập - Tự do - Hạnh phúc",
+    "document_number": "283/QĐ-BHXH",
+    "issued_place": "Hà Nội",
+    "issued_date": "ngày 25\r\n\n  tháng 02 năm 2020",
+    "document_type": "QUYẾT ĐỊNH",
+    "title": "VỀ VIỆC BAN HÀNH QUY CHẾ QUẢN TRỊ, VẬN HÀNH HỆ THỐNG THU NỘP, CHI TRẢ BẢO HIỂM XÃ HỘI ĐIỆN TỬ TỔNG GIÁM ĐỐC BẢO HIỂM XÃ HỘI VIỆT NAM"
+  },
+  "administrative_header": {
+    "removed": true,
+    "removed_char_count": 167
+  },
+  "preamble": {
+    "text": "QUYẾT ĐỊNH\nVỀ VIỆC BAN HÀNH QUY CHẾ QUẢN TRỊ, VẬN HÀNH HỆ THỐNG THU NỘP, CHI TRẢ BẢO\nHIỂM XÃ HỘI ĐIỆN TỬ\nTỔNG GIÁM ĐỐC BẢO HIỂM XÃ HỘI VIỆT NAM\nCăn cứ Luật giao dịch điện tử số 51/2005/QH11 ngày 29/11/2005 và các văn bản hướng dẫn thực hiện; Căn cứ Luật Công nghệ thông tin số 67/2006/QH11 ngày 29/6/2006 và các văn bản hướng dẫn thực hiện; Căn cứ Nghị định số 35/2007/NĐ-CP ngày 08/3/2007 của Chính phủ về giao dịch điện tử trong hoạt động NHTM; Căn cứ Nghị định số 101/2012/NĐ-CP ngày 22/11/2012 của Chính phủ về thanh toán không dùng tiền mặt; Căn cứ Quyết định 1819/QĐ-TTg ngày 26/10/2015 của Thủ tướng Chính phủ về Phê duyệt chương trình quốc gia về ứng dụng công nghệ thông tin trong hoạt động của cơ quan Nhà nước giai đoạn 2016-2020; Căn cứ Nghị định số 01/2016/NĐ-CP ngày 05/02/2016 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bảo hiểm xã hội Việt Nam; Căn cứ Nghị định số 166/2016/NĐ-CP ngày 24/12/2016 của Thủ tướng Chính phủ về Giao dịch điện tử trong lĩnh vực bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp và các văn bản sửa đổi, bổ sung, văn bản hướng dẫn thực hiện; Căn cứ Nghị định số 165/2018/NĐ-CP ngày 24/12/2018 của Thủ tướng Chính phủ về Giao dịch điện tử trong hoạt động tài chính; Căn cứ Quyết định số 100/QĐ-BHXH ngày 17/01/2020 của Tổng Giám đốc Bảo hiểm xã hội Việt Nam về việc ban hành quy trình nghiệp vụ thanh toán điện tử song phương giữa hệ thống bảo hiểm xã hội Việt Nam với các hệ thống ngân hàng thương mại. Xét đề nghị của Giám đốc Trung tâm Công nghệ thông tin,\nQUYẾT ĐỊNH:",
+    "legal_bases": [
+      "Căn cứ Luật Công nghệ thông tin số 67/2006/QH11 ngày 29/6/2006 và các văn bản hướng dẫn thực hiện",
+      "Căn cứ Nghị định số 35/2007/NĐ-CP ngày 08/3/2007 của Chính phủ về giao dịch điện tử trong hoạt động NHTM",
+      "Căn cứ Nghị định số 101/2012/NĐ-CP ngày 22/11/2012 của Chính phủ về thanh toán không dùng tiền mặt",
+      "Căn cứ Quyết định 1819/QĐ-TTg ngày 26/10/2015 của Thủ tướng Chính phủ về Phê duyệt chương trình quốc gia về ứng dụng công nghệ thông tin trong hoạt động của cơ quan Nhà nước giai đoạn 2016-2020",
+      "Căn cứ Nghị định số 01/2016/NĐ-CP ngày 05/02/2016 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bảo hiểm xã hội Việt Nam",
+      "Căn cứ Nghị định số 166/2016/NĐ-CP ngày 24/12/2016 của Thủ tướng Chính phủ về Giao dịch điện tử trong lĩnh vực bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp và các văn bản sửa đổi, bổ sung, văn bản hướng dẫn thực hiện",
+      "Căn cứ Nghị định số 165/2018/NĐ-CP ngày 24/12/2018 của Thủ tướng Chính phủ về Giao dịch điện tử trong hoạt động tài chính",
+      "Căn cứ Quyết định số 100/QĐ-BHXH ngày 17/01/2020 của Tổng Giám đốc Bảo hiểm xã hội Việt Nam về việc ban hành quy trình nghiệp vụ thanh toán điện tử song phương giữa hệ thống bảo hiểm xã hội Việt Nam với các hệ thống ngân hàng thương mại. Xét đề nghị của Giám đốc Trung tâm Công nghệ thông tin,\nQUYẾT ĐỊNH:"
+    ],
+    "proposals": [],
+    "enactment_formula": "QUYẾT ĐỊNH"
+  },
+  "passage": "QUYẾT ĐỊNH\nVỀ VIỆC BAN HÀNH QUY CHẾ QUẢN TRỊ, VẬN HÀNH HỆ THỐNG THU NỘP, CHI TRẢ BẢO\nHIỂM XÃ HỘI ĐIỆN TỬ\nTỔNG GIÁM ĐỐC BẢO HIỂM XÃ HỘI VIỆT NAM\nCăn cứ Luật giao dịch điện tử số 51/2005/QH11 ngày 29/11/2005 và các văn bản hướng dẫn thực hiện; Căn cứ Luật Công nghệ thông tin số 67/2006/QH11 ngày 29/6/2006 và các văn bản hướng dẫn thực hiện; Căn cứ Nghị định số 35/2007/NĐ-CP ngày 08/3/2007 của Chính phủ về giao dịch điện tử trong hoạt động NHTM; Căn cứ Nghị định số 101/2012/NĐ-CP ngày 22/11/2012 của Chính phủ về thanh toán không dùng tiền mặt; Căn cứ Quyết định 1819/QĐ-TTg ngày 26/10/2015 của Thủ tướng Chính phủ về Phê duyệt chương trình quốc gia về ứng dụng công nghệ thông tin trong hoạt động của cơ quan Nhà nước giai đoạn 2016-2020; Căn cứ Nghị định số 01/2016/NĐ-CP ngày 05/02/2016 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bảo hiểm xã hội Việt Nam; Căn cứ Nghị định số 166/2016/NĐ-CP ngày 24/12/2016 của Thủ tướng Chính phủ về Giao dịch điện tử trong lĩnh vực bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp và các văn bản sửa đổi, bổ sung, văn bản hướng dẫn thực hiện; Căn cứ Nghị định số 165/2018/NĐ-CP ngày 24/12/2018 của Thủ tướng Chính phủ về Giao dịch điện tử trong hoạt động tài chính; Căn cứ Quyết định số 100/QĐ-BHXH ngày 17/01/2020 của Tổng Giám đốc Bảo hiểm xã hội Việt Nam về việc ban hành quy trình nghiệp vụ thanh toán điện tử song phương giữa hệ thống bảo hiểm xã hội Việt Nam với các hệ thống ngân hàng thương mại. Xét đề nghị của Giám đốc Trung tâm Công nghệ thông tin,\nQUYẾT ĐỊNH:\nĐiều 1. Ban hành kèm theo Quyết định này “Quy chế quản trị, vận hành Hệ thống thu nộp, chi trả BHXH điện tử”.\nĐiều 2. Quyết định này có hiệu lực thi hành kể từ ngày ký.\nĐiều 3. Giám đốc Trung tâm Công nghệ thông tin, Vụ trưởng Vụ Tài chính - Kế toán, Vụ trưởng Vụ Quản lý đầu tư quỹ, Chánh văn phòng BHXH Việt Nam, Thủ trưởng các đơn vị trực thuộc và Giám đốc BHXH các tỉnh, thành phố trực thuộc Trung ương chịu trách nhiệm thi hành Quyết định này./.\nNơi nhận:\n- Như Điều 3;\n- Tổng Giám đốc (để b/c);\n- Phó TGĐ Đào Việt Ánh;\n- Phó TGĐ Nguyễn Đình Khương;\n- Phó TGĐ Trần Đình Liệu;\n- Phó TGĐ Lê Hùng Sơn;\n- Lưu: VT, CNTT.\nKT. TỔNG GIÁM ĐỐC\nPHÓ TỔNG GIÁM ĐỐC\nPhạm Lương Sơn\nQUY CHẾ\nQUẢN TRỊ, VẬN HÀNH HỆ THỐNG THU NỘP, CHI TRẢ BẢO HIỂM XÃ HỘI ĐIỆN TỬ\n(Ban hành kèm theo Quyết định số: 283/QĐ-BHXH ngày 25 tháng 02 năm 2020 của\nTổng Giám đốc Bảo hiểm xã hội Việt Nam)\nChương I\nQUY ĐỊNH CHUNG\nĐiều 1. Mục đính, đối tượng và phạm vi áp dụng\n1. Mục đích:\nQuy chế này quy định các nội dung liên quan đến việc\nquản trị, vận hành Hệ thống thu nộp, chi trả BHXH điện tử theo quy định hiện hành của Quy trình thanh toán điện tử song phương giữa Bảo hiểm xã hội Việt Nam và các ngân hàng thương mại.\n2. Phạm vi, đối tượng áp dụng:\nQuy chế này áp dụng đối với các đơn vị, cá nhân tại\ncác đơn vị tham gia quản trị, khai thác, sử dụng Hệ thống thu nộp, chi trả BHXH điện tử bao gồm: - Vụ Tài chính Kế toán; - Vụ Quản lý đầu tư quỹ; - Trung tâm Công nghệ thông tin; - Văn phòng BHXH Việt Nam và các đơn vị sự nghiệp trực thuộc; - Bảo hiểm xã hội các tỉnh, thành phố trực thuộc Trung ương; - Bảo hiểm xã hội cấp huyện/quận/thị xã trực thuộc BHXH cấp tỉnh.\nĐiều 2. Giải thích thuật ngữ, viết tắt\n1. Từ ngữ viết tắt:\n- BHXH: Bảo hiểm xã hội; - TW: Trung ương; - TCKT: Tài chính Kế toán; - CNTT: Công nghệ thông tin; - BHXH tỉnh: Bảo hiểm xã hội tỉnh, thành phố trực thuộc Trung ương; - BHXH huyện: Bảo hiểm xã hội quận, huyện, thị xã, thành phố trực thuộc BHXH tỉnh; - NHTM: Gồm hội sở chính, chi nhánh và phòng giao dịch của Ngân hàng thương mại; - E-COPAY: Hệ thống thu nộp, chi trả BHXH điện tử; - TTĐTSP: Thanh toán điện tử song phương. - WAN: Hệ thống mạng dùng riêng diện rộng của ngành\nBHXH;\n- QLQ: Quản lý đầu tư quỹ; - KTTT: Phần mềm kế toán tập trung - DMDC: Hệ thống Danh mục dung chung - I-AMS: Phần mềm hệ thống quản lý truy cập\n2. Thuật ngữ:\n- Cơ quan BHXH: Bao gồm BHXH tỉnh, BHXH huyện, các đơn vị trực thuộc BHXH Việt Nam có tham gia vào hệ thống E-COPAY. - Người sử dụng Hệ thống (gọi tắt là Người sử dụng): Là công chức, viên chức, lao động hợp đồng (cán bộ) thuộc đối tượng được nêu tại khoản 2 Điều 1 Quy chế này. Người sử dụng được cấp tài khoản đăng nhập để sử dụng trong suốt quá trình vận hành, khai thác thông tin hoặc quản trị ứng dụng hệ thống\nE-COPAY.\n- Nhóm người sử dụng Hệ thống (gọi tắt là Nhóm người sử dụng): Là tập hợp người sử dụng có chung đặc điểm, tính chất và quyền hạn trong công tác quản trị, vận hành, khai thác, sử dụng hệ thống. Trên hệ thống E-COPAY có các nhóm người sử dụng sau: + Quản trị ứng dụng: Là cán bộ của Trung tâm CNTT, Phòng CNTT trực thuộc BHXH tỉnh sử dụng Hệ thống để hỗ trợ người sử dụng, vận hành các thông số kỹ thuật trên hệ thống và quản lý, cấp phát, thu hồi, thay đổi thông tin tài khoản truy cập Hệ thống của người sử dụng. Quản trị ứng dụng bao gồm: Quản trị ứng dụng Trung ương (QTUDTW) và Quản trị ứng dụng tỉnh (QTUDT). QTUDTW là cán bộ thuộc Trung tâm CNTT, được Giám đốc trung tâm CNTT giao nhiệm vụ quản trị ứng dụng tập trung; Quản trị ứng dụng tỉnh là cán bộ thuộc Phòng CNTT BHXH tỉnh, được Giám đốc BHXH tỉnh giao nhiệm vụ quản trị ứng dụng trên địa bàn toàn tỉnh. + Tài khoản đăng nhập hệ thống E-COPAY: Là tài khoản của người sử dụng dùng để đăng nhập vào hệ thống ứng dụng thực hiện các nhiệm vụ được giao theo quy chế này. Tài khoản này xác định danh tính, phạm vi tác nghiệp của người sử dụng trên Hệ thống, bao gồm các yếu tố: Tên đăng nhập, mật khẩu đăng nhập và các quyền tương ứng với nhiệm vụ được giao. - Tham số hệ thống: Là tập hợp những quy tắc, giá trị cụ thể và cần thiết để đảm bảo hệ thống E-COPAY vận hành theo đúng yêu cầu quản lý. Tham số hệ thống áp dụng chung cho toàn hệ thống do QTUDTW thiết lập; tham số hệ thống riêng áp dụng cho từng cơ quan BHXH do QTUDT thiết lập để vận hành theo yêu cầu quản lý của đơn vị. Các tham số hệ thống được nêu tại Phụ lục số 01 của Quyết định này.\nĐiều 3. Hệ thống E-COPAY\n1. Hệ thống E-COPAY là phần mềm ứng dụng tập trung,\nđược triển khai, vận hành tại các cơ quan BHXH nêu tại khoản 2 Điều 1 Quy chế này, thực hiện nghiệp vụ thanh toán điện tử song phương giữa các cơ quan BHXH với các NHTM nơi BHXH mở tài khoản, bao gồm các tài khoản tiền gửi, thu phí dịch vụ thanh toán, chi trả các chế độ bảo hiểm và thanh toán khác bằng VNĐ. Hệ thống có những chức năng chính sau: - Quản lý Hệ thống - Quản lý Danh mục - Xử lý lệnh chi - Xử lý lệnh thu - Đối chiếu lệnh thanh toán - Xử lý tra soát - Sao kê tài khoản - Nhận bảng kê tính lãi - Nhận bảng kê tính phí - Báo cáo - Đầu tư tự động\n2. Hệ thống có kết nối liên thông với một số phần mềm\nchính như sau: - Phần mềm KTTT: Chuyển dữ liệu đề nghị thanh toán đi vào hệ thống E-COPAY và nhận dữ liệu thanh toán đến từ hệ thống E-COPAY; - Hệ thống DMDC: Nhận dữ liệu danh mục.\n3. Đơn vị, cá nhân tham gia quản trị, khai thác, sử\ndụng hệ thống thực hiện nghiêm túc các quy định về bảo mật, an toàn hệ thống tại các đơn vị theo đúng các quy định hiện hành và nội dung Quy chế này; đồng thời chịu trách nhiệm thực hiện khai thác, vận hành hệ thống theo đúng chức năng, nhiệm vụ được giao; kịp thời phát hiện các vấn đề và phối hợp với các cá nhân, đơn vị liên quan xử lý dứt điểm, đảm bảo hoạt động thanh toán vận hành an toàn, thông suốt.\n4. Trong suốt quá trình vận hành, hệ thống sẽ được\nthường xuyên rà soát, nâng cấp các chức năng để đáp ứng yêu cầu nghiệp vụ và nâng cao tiện ích cho người sử dụng.\nĐiều 4. Nguyên tắc cấp/thu hồi tài khoản đăng nhập\n1. Mỗi cá nhân chỉ được cấp một tài khoản đăng nhập\nhệ thống E-COPAY. Tại một thời điểm, mỗi người sử dụng chỉ được phân quyền trách nhiệm với một nhóm người sử dụng duy nhất được định nghĩa trên hệ thống\nE-COPAY.\n2. Phó Tổng Giám đốc phụ trách CNTT quyết định việc\ncấp/thu hồi tài khoản đăng nhập hệ thống E-COPAY đối với: Quản trị ứng dụng trung ương; Quản trị ứng dụng tỉnh, Lãnh đạo, chuyên viên Vụ TCKT, Vụ QLQ, Trung tâm CNTT.\n3. Giám đốc BHXH tỉnh quyết định việc cấp/thu hồi\ntài khoản đăng nhập hệ thống E-COPAY đối với cán bộ trên địa bàn (ngoại trừ\nQTUDT).\nĐiều 5. Quy định tên và mật khẩu đăng nhập\n1. Hệ thống sử dụng dữ liệu của phần mềm hệ thống\nquản lý truy cập I- AMS để xác thực người dùng khi truy cập hệ thống E-COPAY. Người sử dụng được cấp quyền truy cập hệ thống dùng tên email và mật khẩu đăng nhập hệ thống I-AMS để đăng nhập, sử dụng hệ thống.\n2. Chỉ những tài khoản người dùng thuộc BHXH đã được\nthiết lập, phân quyền trên hệ thống ứng dụng mới có quyền đăng nhập sử dụng hệ thống E-COPAY.\nChương II\nQUY ĐỊNH CỤ THỂ\nĐiều 6. Trách nhiệm của Vụ Quản lý đầu tư quỹ\n1. Kiểm tra, kiểm soát tính chính xác đối với thông\ntin lãi suất, kiểm soát việc thông báo lãi suất từ phần mềm đảm bảo chính xác.\n2. Xem các báo cáo liên quan đầu tư tự động để tổng\nhợp báo cáo đầu tư tài chính theo quy định bao gồm: Mẫu số 03B (Bảng tổng hợp trả gốc, lãi tiền gửi đầu tư tự động); mẫu số 03C (Bảng tổng hợp tiền gửi đầu tư tự động đủ kỳ hạn 01 tháng) được quy định trong Hợp đồng tiền gửi theo phương thức đầu tư tự động.\n3. Nghiên cứu, rà soát và tổng hợp các yêu cầu thay\nđổi về quy trình nghiệp vụ trình Lãnh đạo BHXH giao Trung tâm CNTT nâng cấp, chỉnh sửa hệ thống; phối hợp với Trung tâm CNTT và các đơn vị có liên quan trong việc nâng cấp, triển khai và vận hành hệ thống E-COPAY.\nĐiều 7. Trách nhiệm của Vụ Tài chính kế toán\n1. Tổ chức quản lý, giám sát tình trạng đối chiếu\ngiữa các cơ quan BHXH với các đơn vị thuộc hệ thống NHTM, giữa số quyết toán của các đơn vị thuộc Hệ thống NHTM và số đã hạch toán tại tài khoản tiền gửi thanh toán, tài khoản chuyên thu của cơ quan BHXH; giữa số liệu giao dịch thu, chi trên hệ thống E-COPAY của các cơ quan BHXH với số liệu đã hạch toán tại tài khoản tiền gửi thanh toán, tài khoản chuyên thu của đơn vị thuộc Hệ thống NHTM.\n2. Chủ trì kiểm tra, hướng dẫn và hỗ trợ quy trình\nnghiệp vụ các cơ quan BHXH trong quá trình sử dụng, vận hành hệ thống E-COPAY; phối hợp với Trung tâm CNTT, NHTM có quan hệ TTĐTSP và các cơ quan BHXH trong quá trình vận hành, xử lý sự cố liên quan đến hệ thống hệ thống E-COPAY.\n3. Quản lý, cập nhật danh mục tài khoản của các cơ\nquan BHXH mở tại NHTM, các đơn vị thuộc hệ thống NHTM tham gia thanh toán hệ thống E-COPAY với cơ quan BHXH căn cứ vào danh sách các tài khoản thanh toán, tài khoản chuyên thu do BHXH tỉnh gửi theo mẫu tại Phụ lục 04.\n4. Quản lý, cập nhật các tham số hệ thống, các danh\nmục thuộc lĩnh vực nghiệp vụ hệ thống E-COPAY do BHXH quản lý theo Phụ lục 01.\n5. Khai thác các báo cáo trên hệ thống theo chức\nnăng nhiệm vụ được giao.\n6. Sử dụng hệ thống E-COPAY thực hiện nhiệm vụ về\nthu, chi, đối chiếu và xử lý sai sót, lập tra soát đi, xử lý tra soát đến, quyết toán tài khoản thanh toán, tài khoản chuyên thu vào cuối ngày làm việc theo đúng quy định tại Quyết định số 100/QĐ-BHXH ngày 17/01/2020 của Tổng Giám đốc Bảo hiểm xã hội Việt Nam về việc ban hành quy trình nghiệp vụ thanh toán điện tử song phương giữa hệ thống bảo hiểm xã hội Việt Nam với các hệ thống NHTM.\n7. Theo dõi quản lý hạn mức số dư Nợ tài khoản tiền\ngửi thanh toán của BHXH Việt Nam mở tại các NHTM. Trình Tổng Giám đốc phê duyệt hạn mức số dư Nợ của từng tài khoản tiền gửi thanh toán trên hệ thống E-COPAY trong từng thời kỳ.\n8. Kiểm tra tính chính xác của số liệu gốc đầu tư tự\nđộng, lãi đầu tư tự động tại chức năng Đầu tư tự động của hệ thống E-COPAY.\n9. Lập lệnh% kiểm soát, phê duyệt lệnh yêu cầu tất\ntoán đầu tư tự động trước hạn theo 3 cấp đúng quy định khi có nhu cầu sử dụng tiền đầu tư tự động để cấp kinh phí và đầu tư tài chính khác theo quy định.\n10. Lập lệnh, kiểm soát, phê duyệt lệnh ủy nhiệm\nchi theo 3 cấp đúng quy định khi có nhu cầu sử dụng tiền đầu tư tự động để cấp kinh phí và đầu tư tài chính khác theo quy định.\n11. Nghiên cứu, rà soát và tổng hợp các yêu cầu\nthay đổi về quy trình nghiệp vụ trình Lãnh đạo BHXH giao Trung tâm CNTT nâng cấp chỉnh sửa Hệ thống; phối hợp với Trung tâm CNTT và các đơn vị có liên quan trong việc nâng cấp, triển khai và vận hành hệ thống E-COPAY.\nĐiều 8. Trách nhiệm của Trung tâm Công nghệ thông tin\n1. Là đầu mối tiếp nhận và thực hiện việc cấp mới,\nthu hồi, thay đổi, phân quyền, phân nhóm tài khoản đăng nhập sử dụng Hệ thống đối với Quản trị ứng dụng tỉnh, người sử dụng thuộc Trung tâm CNTT, Vụ TCKT, Vụ\nQLQ.\n2. Kích hoạt/ngừng hoạt động sử dụng chứng thư số\ntrên Hệ thống đối với người sử dụng thuộc Vụ TCKT, Vụ QLQ.\n3. Trên cơ sở đề nghị của Vụ TCKT Vụ QLQ thực hiện\nthiết lập các thông tin phục vụ cho việc triển khai mới; bổ sung thay đổi tài khoản chuyên thu, tài khoản thanh toán tại các đơn vị; thay đổi hạn mức dư Nợ trên hệ thống E-COPAY (chức năng Đầu tư tự động).\n4. Thực hiện công tác quản trị, vận hành, theo dõi,\ngiám sát để đảm bảo hệ thống hoạt động liên tục, ổn định, an toàn, an ninh thông tin; chủ động thông báo với các đơn vị liên quan về tình trạng và tiến độ khắc phục khi có sự cố kỹ thuật xảy ra; chủ động rà soát, phát hiện và cập nhật các lỗi trong quá trình vận hành; hỗ trợ kỹ thuật cho người sử dụng.\n5. Thực hiện thu hồi tài khoản trong trường hợp\nphát hiện nguy cơ mất an toàn từ phía người sử dụng (lộ tài khoản đăng nhập và mật khẩu, bị chiếm đoạt trái phép tài khoản đăng nhập và mật khẩu, sử dụng tài khoản và mật khẩu được cấp để thực hiện các hành vi bị nghiêm cấm...). Báo cáo Phó Tổng Giám đốc phụ trách lĩnh vực CNTT.\n6. Xây dựng kế hoạch nâng cấp, chỉnh sửa hệ thống\nkhi có thay đổi về cơ chế, nghiệp vụ và yêu cầu từ các đơn vị sử dụng.\nĐiều 9. Trách nhiệm của BHXH tỉnh\n1. Tổ chức vận hành, giám sát và sử dụng hệ thống\nE-COPAY trên địa bàn đảm bảo an toàn, chính xác, đúng quy định; Quản lý người sử dụng theo trách nhiệm được nêu tại Quy chế này.\n2. Là đầu mối tiếp nhận và thực hiện việc cấp mới,\nthu hồi, thay đổi tài khoản đăng nhập; kích hoạt/ngừng hoạt động sử dụng chứng thư số trên hệ thống E-COPAY đối với người sử dụng trên địa bàn.\n3. Tổng hợp nhu cầu cấp phát, thu hồi, thay đổi tài\nkhoản Quản trị ứng dụng tỉnh gửi về BHXH Việt Nam (Trung tâm CNTT) theo quy định tại Quy chế này.\n4. Quản lý tài khoản tiền gửi thanh toán, tài khoản\nchuyên thu mở tại các NHTM; theo dõi số dư tài khoản mở tại NHTM trên hệ thống E-COPAY; theo dõi số liệu quyết toán thu, chi theo quy định.\n5. Tổ chức quản lý, kiểm tra, giám sát tình trạng\nthanh toán và đối chiếu với NHTM của các cơ quan BHXH trên địa bàn; định kỳ tổng hợp báo cáo kết quả đối chiếu số liệu hệ thống E-COPAY của toàn địa bàn, gửi về BHXH theo quy định.\n6. Sử dụng hệ thống E-COPAY thực hiện nhiệm vụ về\nthu, chi, đối chiếu và xử lý sai sót, lập tra soát đi, xử lý tra soát đến, quyết toán tài khoản thanh toán, tài khoản chuyên thu vào cuối ngày làm việc theo đúng quy định tại Quyết định số 100/QĐ-BHXH ngày 17/01/2020 của Tổng Giám đốc Bảo hiểm xã hội Việt Nam về việc ban hành quy trình nghiệp vụ thanh toán điện tử song phương giữa hệ thống bảo hiểm xã hội Việt Nam với các hệ thống NHTM.\n7. Tổng hợp thông tin thiết lập tài khoản thanh\ntoán, tài khoản chuyên thu mở tại các NHTM theo Phụ lục 04 gửi về Vụ Tài chính - Kế toán.\n8. Phối hợp với các đơn vị liên quan trong quá\ntrình triển khai, vận hành hệ thống.\nĐiều 10. Trách nhiệm của BHXH huyện\n1. Sử dụng hệ thống E-COPAY thực hiện nhiệm vụ về\nthu, chi, đối chiếu và xử lý sai sót, lập tra soát đi, xử lý tra soát đến, quyết toán tài khoản thanh toán, tài khoản chuyên thu vào cuối ngày làm việc theo đúng quy định tại Quy trình TTĐTSP.\n2. Quản lý tài khoản tiền gửi thanh toán, tài khoản\nchuyên thu mở tại NHTM; theo dõi số dư tài khoản mở tại NHTM, trên hệ thống E-COPAY; số liệu quyết toán thu, chi; định kỳ báo cáo kết quả đối chiếu số liệu hệ thống E-COPAY gửi về BHXH Tỉnh theo đúng quy định.\n3. Phối hợp với các đơn vị liên quan trong quá\ntrình triển khai, vận hành Hệ thống.\nĐiều 11. Trách nhiệm của Quản trị ứng dụng Trung ương\n1. Quản lý, thiết lập giá trị các tham số liên quan\nđến kỹ thuật trên hệ thống E-COPAY theo phụ lục số 01 của Quyết định này.\n2. Theo dõi, giám sát quá trình đồng bộ tự động các\ndanh mục từ hệ thống DMDC và hệ thống E-COPAY.\n3. Thực hiện cấp phát, thu hồi, thay đổi tài khoản\nQuản trị ứng dụng Trung ương, Quản trị ứng dụng tỉnh, người sử dụng tại Vụ TCKT, Vụ QLQ và các đơn vị trực thuộc BHXH Việt Nam khi có quyết định của Lãnh đạo Ngành.\n4. Kích hoạt/ngừng hoạt động sử dụng chứng thư số\ntrên hệ thống đối với người sử dụng tại Vụ TCKT, Vụ QLQ và các đơn vị trực thuộc BHXH Việt Nam khi có quyết định của Lãnh đạo Ngành.\n5. Thực hiện phân quyền tài khoản đăng nhập hệ thống\ncủa người sử dụng (theo vị trí chức danh) tương ứng với loại nhóm người sử dụng trong hệ thống.\n6. Chủ trì hỗ trợ người sử dụng, phối hợp với các\nđơn vị liên quan xử lý các sự cố trong quá trình vận hành ứng dụng.\n7. Thực hiện thiết lập giờ COT toàn hệ thống trên\ncơ sở văn bản của Vụ TCKT.\nĐiều 12. Trách nhiệm của Quản trị ứng dụng cấp tỉnh\n1. Thực hiện cấp phát, thu hồi, thay đổi tài khoản\nngười sử dụng khi có quyết định của Lãnh đạo BHXH tỉnh; thực hiện kích hoạt/ngừng hoạt động sử dụng chứng thư số của người sử dụng trên hệ thống.\n2. Giám sát, hỗ trợ người sử dụng hệ thống trên địa\nbàn tỉnh; phối hợp với các đơn vị liên quan xử lý các sự cố trong quá trình vận hành ứng dụng.\n3. Hướng dẫn, hỗ trợ các cơ quan BHXH trên địa bàn\ntrong công tác cài đặt, đăng ký, sử dụng chứng thư số.\nChương III\nQUY TRÌNH CẤP, THU HỒI TÀI KHOẢN\nĐiều 13. Cấp tài khoản đăng nhập Tài khoản đăng nhập hệ thống được cấp trong trường hợp người sử dụng lần đầu tiên tham gia vào hệ thống E-COPAY tại một cơ quan BHXH hoặc thay đổi vai trò công việc (Kế toán viên/Kế toán trưởng/Giám đốc) trong một cơ quan BHXH hoặc chuyển từ cơ quan BHXH này sang cơ quan BHXH khác.\nĐiều 14. Thu hồi tài khoản đăng nhập Tài khoản đăng nhập hệ thống E-COPAY được thu hồi trong các trường hợp sau: - Người sử dụng không còn tham gia hệ thống E-COPAY; - Người sử dụng luân chuyển công tác từ cơ quan BHXH này sang đơn vị cơ quan BHXH khác; - Người sử dụng thu hồi tài khoản đăng nhập với vai trò cũ đề chuyển sang vai trò mới; - Khi phát hiện nguy cơ mất an toàn từ phía người sử dụng (lộ tài khoản đăng nhập và mật khẩu, bị chiếm đoạt trái phép tài khoản đăng nhập và mật khẩu, sử dụng tài khoản và mật khẩu được cấp để thực hiện các hành vi bị nghiêm cấm...).\nĐiều 15. Quy trình cấp/thu hồi tài khoản đăng nhập\n1. Đối với tài khoản Quản trị ứng dụng Trung ương:\nCăn cứ nhu cầu của Trung tâm CNTT về cấp/thu hồi khoản Quản trị ứng dụng Trung ương, Trung tâm CNTT tổng hợp danh sách cá nhân được đề nghị cấp/thu hồi, trình Lãnh đạo BHXH Việt Nam phê duyệt trước khi thực hiện trên Hệ thống.\n2. Đối với tài khoản đăng nhập hệ thống của Lãnh đạo,\nChuyên viên thuộc Vụ QLQ, Vụ TCKT: Các đơn vị lập danh sách cấp/thu hồi tài khoản theo mẫu tại Phụ lục số 02 Quyết định này, gửi về Trung tâm CNTT. Trung tâm CNTT tổng hợp danh sách cá nhân được đề nghị cấp/thu hồi, trình Lãnh đạo BHXH Việt Nam phê duyệt trước khi thực hiện trên hệ thống và thông báo cho đơn vị quản lý người được cấp/thu hồi tài khoản theo mẫu tại Phụ lục số 03.\n3. Đối với tài khoản Quản trị ứng dụng tỉnh: BHXH tỉnh\nlập danh sách cấp/thu hồi tài khoản theo mẫu tại Phụ lục số 02 gửi về BHXH Việt Nam (Trung tâm CNTT), Trung tâm CNTT tổng hợp danh sách cá nhân được đề nghị cấp/thu hồi, trình Lãnh đạo BHXH Việt Nam phê duyệt trước khi thực hiện trên hệ thống và thông báo cho đơn vị quản lý người được cấp/thu hồi tài khoản theo Phụ lục số 03.\n4. Đối với tài khoản đăng nhập hệ thống thuộc BHXH\ntỉnh: Các đơn vị lập danh sách cấp/thu hồi tài khoản đăng nhập hệ thống theo Phụ lục số 02, gửi Phòng CNTT, Phòng CNTT tổng hợp danh sách cá nhân được đề nghị cấp/thu hồi, trình Lãnh đạo BHXH tỉnh phê duyệt trước khi thực hiện trên hệ thống và thông báo cho đơn vị quản lý người được cấp/thu hồi tài khoản theo Phụ lục số 03 của Quyết định này.\n5. Thời gian thực hiện cấp/thu hồi tài khoản: Thời\ngian thực hiện cấp/thu hồi tài khoản đăng nhập cho người sử dụng không quá 2 ngày làm việc kể từ ngày nhận được văn bản đề nghị cấp mới/thu hồi của các đơn vị.\n6. Đối với các tài khoản không còn tham gia hệ thống\nE-COPAY hoặc thay đổi vai trò công việc trong một cơ quan BHXH hoặc luân chuyển giữa các cơ quan BHXH: Ngay khi thời điểm cá nhân không tiếp tục tham gia hệ thống hoặc thời điểm quyết định thay đổi công việc, luân chuyển có hiệu lực, Lãnh đạo đơn vị có văn bản đề nghị thu hồi tài khoản gửi BHXH Việt Nam hoặc BHXH tỉnh (tùy theo loại tài khoản cần thu hồi theo quy định về cấp mới trong Quy định này). Trường hợp khi thay đổi vai trò công việc trong hệ thống E-COPAY hoặc luân chuyển giữa các đơn vị Bảo hiểm nhưng người sử dụng vẫn tiếp tục tham gia hệ thống E-COPAY, sau khi thu hồi, việc cấp mới tài khoản đăng nhập được thực hiện theo quy định về cấp mới tài khoản đăng nhập trong Quy chế này.\n7. Trường hợp phát hiện nguy cơ mất an toàn\nTrong mọi trường hợp, khi phát hiện nguy cơ mất an toàn từ phía người sử dụng, người phát hiện phải thông báo ngay cho Lãnh đạo đơn vị để chỉ đạo, kiểm tra và thông báo cho Quản trị ứng dụng Trung ương hoặc Quản trị ứng dụng tỉnh thu hồi tài khoản đăng nhập.\nĐiều 16. Quy trình thay đổi nhóm người sử dụng\n1. Tại một thời điểm, mỗi người sử dụng chỉ được\nphân quyền với một nhóm người sử dụng được định nghĩa trên hệ thống đảm bảo nguyên tắc “một người chỉ được phép ký một chức danh theo một quy trình phê duyệt trên một chứng từ hoặc một bộ chứng từ kế toán” theo quy định của BHXH Việt Nam. Việc thay đổi nhóm người sử dụng trên hệ thống được thực hiện trong trường hợp người sử dụng thay đổi vai trò công việc (Kế toán viên/Kế toán trưởng/Giám đốc) trong một cơ quan BHXH.\n2. Quy trình thay đổi nhóm người sử dụng được thực\nhiện bằng quy trình thu hồi tài khoản thuộc nhóm người sử dụng cũ trước; cấp mới tài khoản thuộc nhóm người sử dụng mới sau.\nChương IV\nSỬ DỤNG CHỨNG THƯ SỐ TRÊN HỆ THỐNG E-COPAY\nĐiều 17. Cấp mới, thu hồi, quản lý và kích hoạt/ngừng hiệu lực chứng thư số trên hệ thống\n1. Cấp mới/thu hồi chứng thư số sử dụng trên hệ thống\nE-COPAY; Quy trình cấp mới, thu hồi, cấp đổi, quản lý chứng thư số khi Giám đốc, Kế toán trưởng ủy quyền Kế toán trưởng sử dụng chữ ký số trong hệ thống E-COPAY thực hiện theo các quy định trong Quyết định số 54/QĐ-BHXH ngày 05 tháng 01 năm 2018 của Tổng Giám đốc BHXH Quy định về việc Ban hành quy chế quản lý và sử dụng chữ ký số, chứng thư số chuyên dụng trong ngành Bảo hiểm xã hội.\n2. Kích hoạt/ngừng hiệu lực sử dụng chứng thư số\ntrên hệ thống E-COPAY: Khi có nhu cầu kích hoạt/ngừng hiệu lực chứng thư số trên hệ thống, đơn vị tổng hợp danh sách người sử dụng theo mẫu của Phụ lục 02, gửi về đơn vị thực hiện kích hoạt/ngừng hiệu tương ứng như sau: - Đối với người dùng là cán bộ thuộc BHXH tỉnh, huyện: Gửi về phòng CNTT BHXH tỉnh để thực hiện kích hoạt/ngừng hiệu lực chứng thư số. - Đối với người dùng là cán bộ thuộc Vụ TCKT, Vụ QLQ: Gửi về Trung tâm CNTT để thực hiện kích hoạt/ngừng hiệu lực chứng thư số. Trên cơ sở đề nghị kích hoạt/ngừng hiệu lực chứng thư số của người sử dụng tại các cơ quan BHXH trong phạm vi quản lý, Quản trị ứng dụng Trung ương, Quản trị ứng dụng tỉnh thực hiện kích hoạt/ngừng hiệu lực chứng thư số đã được đăng ký theo thông tin hiển thị trên hệ thống: Tên đăng nhập của người sử dụng trên hệ thống khớp với tên hiển thị trên chứng thư số được kích hoạt trong danh sách đề nghị kích hoạt/ngừng hiệu lực và thông báo theo Phụ lục số 03 cho đơn vị quản lý người dùng.\nĐiều 18. Xử lý lỗi tác nghiệp, nghiệp vụ Các trường hợp phát sinh lỗi tác nghiệp, nghiệp vụ trong quá trình vận hành, sử dụng hệ thống, cơ quan BHXH phối hợp với NHTM nơi mở tài khoản để xác định, xử lý. Trường hợp không xử lý được, đơn vị phản ánh nội dung lỗi về Vụ TCKT theo địa chỉ email ketoan.tckt@vss.gov.vn.\nĐiều 19. Xử lý lỗi sự cố kỹ thuật Trong quá trình sử dụng hệ thống có phát sinh lỗi như các tình huống: không đăng nhập được vào ứng dụng, các thông báo lỗi kỹ thuật (thông báo đó, thông báo không rõ nghĩa hoặc thông báo bằng tiếng nước ngoài), lỗi truyền nhận giao dịch điện tử, bảng kê đối chiếu, quyết toán... cơ quan BHXH phản ánh với Quản trị ứng dụng tỉnh xác định nguyên nhân và tìm cách xử lý. Trường hợp không giải quyết được, người sử dụng ghi nhận sự cố, gửi yêu cầu hỗ trợ theo quy định về Trung tâm CNTT qua địa chỉ thư điện tử pm.cntt@vss.gov.vn , đồng gửi (cc) cho Phòng CNTT BHXH tỉnh để xử lý; mục Subject ghi: <mã cơ quan BHXH>_TTSP_Tóm tắt nội dung đề nghị hỗ trợ>.\nChương V\nTỔ CHỨC THỰC HIỆN\nĐiều 20. Các hành vi bị nghiêm cấm\n1. Chiếm đoạt, sử dụng trái phép tài khoản đăng nhập\nhệ thống E-COPAY của người khác để thực hiện các công việc không thuộc chức năng nhiệm vụ của mình trên hệ thống E-COPAY.\n2. Cố tình sử dụng tài khoản đăng nhập hệ thống\nE-COPAY được cấp để thực hiện các tác vụ không thuộc phạm vi, nhiệm vụ được giao trên hệ thống E-COPAY hoặc trái với quy định của Quy trình nghiệp vụ.\n3. Cố tình sử dụng tài khoản đăng nhập hệ thống\nE-COPAY được cấp để thực hiện các tác nghiệp làm ảnh hưởng đến hiệu suất của hệ thống; tác động đến các tiến trình, làm ảnh hưởng đến các giao dịch trên hệ thống\nE-COPAY.\n4. Cấp các quyền quản trị hệ thống và phát triển hệ\nthống ứng dụng cho các đối tượng không đúng theo quy định.\n5. Thực hiện các hành động ảnh hưởng đến bảo mật hệ\nthống, làm ảnh hưởng đến tính chính xác của số liệu, làm ảnh hưởng đến an toàn tài sản.\n6. Cho người khác sử dụng tài khoản đăng nhập và mật\nkhẩu để thực hiện các nghiệp vụ trên hệ thống E-COPAY.\nĐiều 21. Xử lý vi phạm Mọi hành vi vi phạm các quy định tại Quy chế này, tùy theo tính chất, mức độ vi phạm đều bị xử lý theo quy định hiện hành.\nĐiều 22. Tổ chức thực hiện Thủ trưởng các cơ quan thuộc BHXH Việt Nam và Giám đốc BHXH các tỉnh, thành phố trực thuộc Trung ương và các cá nhân đề cập tại\nQuy chế này có trách nhiệm triển khai, chỉ đạo và kiểm tra, đảm bảo thực hiện\nnghiêm túc Quy chế này tại đơn vị. Việc bổ sung, sửa đổi các nội dung của Quy chế này do Tổng Giám đốc BHXH quyết định./.\nPHỤ LỤC 01\nDANH SÁCH THAM SỐ VÀ DANH MỤC TRÊN HỆ THỐNG E-COPAY\n(Kèm theo Quyết định số: 283/QĐ-BHXH ngày 25/02/2020 của Tổng Giám đốc BHXH Việt Nam)\nSTT\nTên Danh mục, Tham số Đơn vị quản lý\nDanh mục trên hệ\nthống E-COPAY 1\nDanh mục ngân hàng\nTrung tâm CNTT 2\nDanh mục cơ quan BHXH\nTrung tâm CNTT 3\nDanh mục Địa bàn hành chính\nTrung tâm CNTT 4\nDanh mục tài khoản\nVụ TCKT Danh sách tham số trên hệ thống E-COPAY 1 Tham số cut off time (COT) Trung tâm CNTT 2 Thời điểm đối chiếu dữ liệu Vụ TCKT 3 Tham số quy định hạn mức số dư thanh toán của NH Quân đội Vụ TCKT 4 Tham số quy định hạn mức số dư thanh toán của NH Vietin Vụ TCKT 5 Tham số quy định hạn mức số dư thanh toán của NH\nVCB\nVụ TCKT 6 Tham số quy định hạn mức số dư thanh toán của NH\nBIDV\nVụ TCKT 7 Tham số quy định hạn mức số dư thanh toán của NH\nAGRI\nVụ TCKT 8 Tham số quy định thời điểm chạy job truy vấn số dư đã chốt ở TK thanh toán Vụ TCKT 9 Tham số quy định thời điểm chạy job truy vấn lãi suất kỳ hạn 1 tháng Vụ TCKT 10 Tham số thời điểm chạy job gửi lãi suất bình quân cho các NH Vụ TCKT 11 Tham số làm tròn số tiền để đầu tư Vụ TCKT 12 Tham số quy định phần vượt so với hạn mức đề được đầu tư Vụ TCKT 13 Tham số quy định thời điểm nhận bảng kê tiền lãi từ NH Vụ TCKT 14 Tham số quy định thời điểm nhận thông tin lãi suất kỳ hạn 1 tháng Vụ TCKT\nPHỤ LỤC 02\nMẪU ĐĂNG KÝ CẤP MỚI/THU HỒI TÀI KHOẢN ĐĂNG NHẬP, KÍCH\nHOẠT/NGỪNG HIỆU LỰC SỬ DỤNG CHỨNG THƯ SỐ TRÊN HỆ THỐNG E-COPAY\n(Kèm theo Quyết định số: 283/QĐ-BHXH ngày 25/02/2020 của Tổng Giám đốc BHXH Việt Nam)\n1. Cấp tài khoản đăng nhập\nSTT\nHọ và tên Chức danh đề nghị cấp Địa chỉ email\nBHXH\nTên cơ quan BHXH- Bảo hiểm xã hội.../Vụ/Trung tâm... 1 Nguyễn Văn A - Giám đốc - Ủy quyền Giám đốc - Kế toán trưởng - Ủy quyền Kế toán trưởng - Kế toán viên - Quản trị ứng dụng trung ương - Quản trị ứng dụng tỉnh anv@vss.gov.vn ...\n2. Thu hồi tài khoản đăng nhập\nSTT\nHọ và tên Chức danh hiện tại trên hệ thống E-COPAY Địa chỉ email\nBHXH\nTên cơ quan BHXH-Bảo hiểm xã hội.../Vụ/Trung tâm... 1 Nguyễn Văn B - Giám đốc - Ủy quyền Giám đốc - Kế toán trưởng - Ủy quyền Kế toán trưởng - Kế toán viên - Quản trị ứng dụng trung ương - Quản trị ứng dụng tỉnh bnv@vss.gov.vn ...\n3. Kích hoạt chứng thư số trên hệ\nthống E-COPAY\nTT\nHọ và tên Chức danh hiện tại trên hệ thống E-COPAY Địa chỉ email\nBHXH\nTên cơ quan BHXH-Bảo hiểm xã hội.../Vụ/Trung tâm... 1 Nguyễn Văn C - Giám đốc - Ủy quyền Giám đốc - Kế toán trưởng - Ủy quyền Kế toán trưởng cnv@vss.gov.Vn …\n4. Ngừng hiệu lực chứng thư số\ntrên hệ thống E-COPAY\nTT\nHọ và tên Chức danh hiện tại trên hệ thống E-COPAY Địa chỉ email\nBHXH\nTên cơ quan BHXH-Bảo hiểm xã hội.../Vụ/Trung tâm... 1 Nguyễn Văn D - Giám đốc - Ủy quyền Giám đốc - Kế toán trưởng - Ủy quyền Kế toán trưởng dnv@vss.gov.vn …\nPHỤ LỤC 03\nTHÔNG BÁO CẤP MỚI/THU HỒI TÀI KHOẢN ĐĂNG NHẬP, KÍCH HOẠT/NGỪNG\nHIỆU LỰC SỬ DỤNG CHỨNG THƯ SỐ TRÊN HỆ THỐNG E-COPAY\n(Kèm theo Quyết định số 283/QĐ-BHXH ngày 25/02/2020 của Tổng Giám đốc BHXH Việt Nam)\n1. Cấp tài khoản đăng nhập\nTT\nHọ và tên Chức danh cấp trên hệ thống E-COPAY Địa chỉ email\nBHXH\nHiệu lực từ ngày Tên cơ quan BHXH-Bảo hiểm xã hội.../Vụ/Trung tâm... 1 Nguyễn Văn A - Giám đốc - Ủy quyền Giám đốc - Kế toán trưởng - Ủy quyền Kế toán trưởng - Thanh toán viên - Quản trị ứng dụng trung ương - Quản trị ứng dụng tỉnh anv@vss.gov.vn\n2. Thu hồi tài khoản đăng nhập\nTT\nHọ và tên Chức danh hiện tại hệ thống E-COPAY Địa chỉ email\nBHXH\nHết hiệu lực từ ngày Tên cơ quan BHXH-Bảo hiểm xã hội.../Vụ/Trung tâm... 1 Nguyễn Văn B - Giám đốc - Ủy quyền Giám đốc - Kế toán trưởng - Ủy quyền Kế toán trưởng - Thanh toán viên - Quản trị ứng dụng trung ương - Quản trị ứng dụng tỉnh bnv@vss.gov.vn …\n3. Kích hoạt chứng thư số trên hệ\nthống E-COPAY\nTT\nHọ và tên Chức danh hiện tại trên hệ thống E-COPAY Địa chỉ email\nBHXH\nSerial CTS Tên cơ quan BHXH-Bảo hiểm xã hội.../Vụ/Trung tâm... 1 Nguyễn Văn C - Giám đốc - Ủy quyền Giám đốc - Kế toán trưởng - Ủy quyền Kế toán trưởng cnv@vss.gov.vn …\n4. Ngừng hiệu lực chứng thư số\ntrên hệ thống E-COPAY\nTT\nHọ và tên Chức danh hiện tại trên hệ thống E-COPAY Địa chỉ email\nBHXH\nTên cơ quan BHXH-Bảo hiểm xã hội.../Vụ/Trung tâm... 1 Nguyễn Văn D - Giám đốc - Ủy quyền Giám đốc - Kế toán trưởng - Ủy quyền Kế toán trưởng dnv@vss.gov.vn …\nPHỤ LỤC 04\nMẪU THÔNG TIN THIẾT LẬP TÀI KHOẢN THANH TOÁN, TÀI KHOẢN\nCHUYÊN THU\n(Kèm theo Quyết định số 283/QĐ-BHXH ngày 25/02/2020 của Tổng Giám đốc BHXH Việt Nam)\nSTT\nTên cơ quan\nBHXH\nSố tài khoản Tên Tài khoản Mã chi nhánh ngân hàng Tên chi nhánh ngân hàng Tỉnh 1",
+  "tree": {
+    "parts": [
+      {
+        "part_id": "doc:250384:part:1",
+        "part_type": "main",
+        "part_title": null,
+        "reference": null,
+        "direct_text": "QUYẾT ĐỊNH\nVỀ VIỆC BAN HÀNH QUY CHẾ QUẢN TRỊ, VẬN HÀNH HỆ THỐNG THU NỘP, CHI TRẢ BẢO\nHIỂM XÃ HỘI ĐIỆN TỬ\nTỔNG GIÁM ĐỐC BẢO HIỂM XÃ HỘI VIỆT NAM\nCăn cứ Luật giao dịch điện tử số 51/2005/QH11 ngày 29/11/2005 và các văn bản hướng dẫn thực hiện; Căn cứ Luật Công nghệ thông tin số 67/2006/QH11 ngày 29/6/2006 và các văn bản hướng dẫn thực hiện; Căn cứ Nghị định số 35/2007/NĐ-CP ngày 08/3/2007 của Chính phủ về giao dịch điện tử trong hoạt động NHTM; Căn cứ Nghị định số 101/2012/NĐ-CP ngày 22/11/2012 của Chính phủ về thanh toán không dùng tiền mặt; Căn cứ Quyết định 1819/QĐ-TTg ngày 26/10/2015 của Thủ tướng Chính phủ về Phê duyệt chương trình quốc gia về ứng dụng công nghệ thông tin trong hoạt động của cơ quan Nhà nước giai đoạn 2016-2020; Căn cứ Nghị định số 01/2016/NĐ-CP ngày 05/02/2016 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bảo hiểm xã hội Việt Nam; Căn cứ Nghị định số 166/2016/NĐ-CP ngày 24/12/2016 của Thủ tướng Chính phủ về Giao dịch điện tử trong lĩnh vực bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp và các văn bản sửa đổi, bổ sung, văn bản hướng dẫn thực hiện; Căn cứ Nghị định số 165/2018/NĐ-CP ngày 24/12/2018 của Thủ tướng Chính phủ về Giao dịch điện tử trong hoạt động tài chính; Căn cứ Quyết định số 100/QĐ-BHXH ngày 17/01/2020 của Tổng Giám đốc Bảo hiểm xã hội Việt Nam về việc ban hành quy trình nghiệp vụ thanh toán điện tử song phương giữa hệ thống bảo hiểm xã hội Việt Nam với các hệ thống ngân hàng thương mại. Xét đề nghị của Giám đốc Trung tâm Công nghệ thông tin,\nQUYẾT ĐỊNH:",
+        "chapters": [],
+        "sections": [],
+        "articles": [
+          {
+            "article_id": "doc:250384:part:1:article:1",
+            "number": "1",
+            "title": "Ban hành kèm theo Quyết định này “Quy chế quản trị, vận hành Hệ thống thu nộp, chi trả BHXH điện tử”.",
+            "content": "Điều 1. Ban hành kèm theo Quyết định này “Quy chế quản trị, vận hành Hệ thống thu nộp, chi trả BHXH điện tử”.",
+            "clauses": [],
+            "points": []
+          },
+          {
+            "article_id": "doc:250384:part:1:article:2",
+            "number": "2",
+            "title": "Quyết định này có hiệu lực thi hành kể từ ngày ký.",
+            "content": "Điều 2. Quyết định này có hiệu lực thi hành kể từ ngày ký.",
+            "clauses": [],
+            "points": []
+          },
+          {
+            "article_id": "doc:250384:part:1:article:3",
+            "number": "3",
+            "title": "Giám đốc Trung tâm Công nghệ thông tin, Vụ trưởng Vụ Tài chính - Kế toán, Vụ trưởng Vụ Quản lý đầu tư quỹ, Chánh văn phòng BHXH Việt Nam, Thủ trưởng các đơn vị trực thuộc và Giám đốc BHXH các tỉnh, thành phố trực thuộc Trung ương chịu trách nhiệm thi hành Quyết định này./.",
+            "content": "Điều 3. Giám đốc Trung tâm Công nghệ thông tin, Vụ trưởng Vụ Tài chính - Kế toán, Vụ trưởng Vụ Quản lý đầu tư quỹ, Chánh văn phòng BHXH Việt Nam, Thủ trưởng các đơn vị trực thuộc và Giám đốc BHXH các tỉnh, thành phố trực thuộc Trung ương chịu trách nhiệm thi hành Quyết định này./.",
+            "clauses": [],
+            "points": []
+          }
+        ],
+        "unstructured_blocks": []
+      },
+      {
+        "part_id": "doc:250384:part:2",
+        "part_type": "regulation",
+        "part_title": "QUY CHẾ",
+        "reference": null,
+        "direct_text": "QUY CHẾ\nQUẢN TRỊ, VẬN HÀNH HỆ THỐNG THU NỘP, CHI TRẢ BẢO HIỂM XÃ HỘI ĐIỆN TỬ\n(Ban hành kèm theo Quyết định số: 283/QĐ-BHXH ngày 25 tháng 02 năm 2020 của\nTổng Giám đốc Bảo hiểm xã hội Việt Nam)\nQuy chế này quy định các nội dung liên quan đến việc\nquản trị, vận hành Hệ thống thu nộp, chi trả BHXH điện tử theo quy định hiện hành của Quy trình thanh toán điện tử song phương giữa Bảo hiểm xã hội Việt Nam và các ngân hàng thương mại.\n2. Phạm vi, đối tượng áp dụng:\nQuy chế này áp dụng đối với các đơn vị, cá nhân tại\ncác đơn vị tham gia quản trị, khai thác, sử dụng Hệ thống thu nộp, chi trả BHXH điện tử bao gồm: - Vụ Tài chính Kế toán; - Vụ Quản lý đầu tư quỹ; - Trung tâm Công nghệ thông tin; - Văn phòng BHXH Việt Nam và các đơn vị sự nghiệp trực thuộc; - Bảo hiểm xã hội các tỉnh, thành phố trực thuộc Trung ương; - Bảo hiểm xã hội cấp huyện/quận/thị xã trực thuộc BHXH cấp tỉnh.\ndanh mục từ hệ thống DMDC và hệ thống E-COPAY.\n3. Thực hiện cấp phát, thu hồi, thay đổi tài khoản\nQuản trị ứng dụng Trung ương, Quản trị ứng dụng tỉnh, người sử dụng tại Vụ TCKT, Vụ QLQ và các đơn vị trực thuộc BHXH Việt Nam khi có quyết định của Lãnh đạo Ngành.\n4. Kích hoạt/ngừng hoạt động sử dụng chứng thư số\ntrên hệ thống đối với người sử dụng tại Vụ TCKT, Vụ QLQ và các đơn vị trực thuộc BHXH Việt Nam khi có quyết định của Lãnh đạo Ngành.\n5. Thực hiện phân quyền tài khoản đăng nhập hệ thống\ncủa người sử dụng (theo vị trí chức danh) tương ứng với loại nhóm người sử dụng trong hệ thống.\n6. Chủ trì hỗ trợ người sử dụng, phối hợp với các\nđơn vị liên quan xử lý các sự cố trong quá trình vận hành ứng dụng.\n7. Thực hiện thiết lập giờ COT toàn hệ thống trên\ncơ sở văn bản của Vụ TCKT.\nQuy chế này có trách nhiệm triển khai, chỉ đạo và kiểm tra, đảm bảo thực hiện\nnghiêm túc Quy chế này tại đơn vị. Việc bổ sung, sửa đổi các nội dung của Quy chế này do Tổng Giám đốc BHXH quyết định./.",
+        "chapters": [
+          {
+            "chapter_id": "doc:250384:part:2:chapter:1",
+            "number": "I",
+            "title": "QUY ĐỊNH CHUNG",
+            "content": "Chương I\nQUY ĐỊNH CHUNG",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:250384:part:2:article:1",
+                "number": "1",
+                "title": "Mục đính, đối tượng và phạm vi áp dụng",
+                "content": "Điều 1. Mục đính, đối tượng và phạm vi áp dụng",
+                "clauses": [
+                  {
+                    "clause_id": "doc:250384:part:2:article:1:clause:1",
+                    "number": "1",
+                    "content": "1. Mục đích:",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:250384:part:2:article:2",
+                "number": "2",
+                "title": "Giải thích thuật ngữ, viết tắt",
+                "content": "Điều 2. Giải thích thuật ngữ, viết tắt",
+                "clauses": [
+                  {
+                    "clause_id": "doc:250384:part:2:article:2:clause:1",
+                    "number": "1",
+                    "content": "1. Từ ngữ viết tắt:\n- BHXH: Bảo hiểm xã hội; - TW: Trung ương; - TCKT: Tài chính Kế toán; - CNTT: Công nghệ thông tin; - BHXH tỉnh: Bảo hiểm xã hội tỉnh, thành phố trực thuộc Trung ương; - BHXH huyện: Bảo hiểm xã hội quận, huyện, thị xã, thành phố trực thuộc BHXH tỉnh; - NHTM: Gồm hội sở chính, chi nhánh và phòng giao dịch của Ngân hàng thương mại; - E-COPAY: Hệ thống thu nộp, chi trả BHXH điện tử; - TTĐTSP: Thanh toán điện tử song phương. - WAN: Hệ thống mạng dùng riêng diện rộng của ngành\nBHXH;\n- QLQ: Quản lý đầu tư quỹ; - KTTT: Phần mềm kế toán tập trung - DMDC: Hệ thống Danh mục dung chung - I-AMS: Phần mềm hệ thống quản lý truy cập",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:250384:part:2:article:2:clause:2",
+                    "number": "2",
+                    "content": "2. Thuật ngữ:\n- Cơ quan BHXH: Bao gồm BHXH tỉnh, BHXH huyện, các đơn vị trực thuộc BHXH Việt Nam có tham gia vào hệ thống E-COPAY. - Người sử dụng Hệ thống (gọi tắt là Người sử dụng): Là công chức, viên chức, lao động hợp đồng (cán bộ) thuộc đối tượng được nêu tại khoản 2 Điều 1 Quy chế này. Người sử dụng được cấp tài khoản đăng nhập để sử dụng trong suốt quá trình vận hành, khai thác thông tin hoặc quản trị ứng dụng hệ thống\nE-COPAY.\n- Nhóm người sử dụng Hệ thống (gọi tắt là Nhóm người sử dụng): Là tập hợp người sử dụng có chung đặc điểm, tính chất và quyền hạn trong công tác quản trị, vận hành, khai thác, sử dụng hệ thống. Trên hệ thống E-COPAY có các nhóm người sử dụng sau: + Quản trị ứng dụng: Là cán bộ của Trung tâm CNTT, Phòng CNTT trực thuộc BHXH tỉnh sử dụng Hệ thống để hỗ trợ người sử dụng, vận hành các thông số kỹ thuật trên hệ thống và quản lý, cấp phát, thu hồi, thay đổi thông tin tài khoản truy cập Hệ thống của người sử dụng. Quản trị ứng dụng bao gồm: Quản trị ứng dụng Trung ương (QTUDTW) và Quản trị ứng dụng tỉnh (QTUDT). QTUDTW là cán bộ thuộc Trung tâm CNTT, được Giám đốc trung tâm CNTT giao nhiệm vụ quản trị ứng dụng tập trung; Quản trị ứng dụng tỉnh là cán bộ thuộc Phòng CNTT BHXH tỉnh, được Giám đốc BHXH tỉnh giao nhiệm vụ quản trị ứng dụng trên địa bàn toàn tỉnh. + Tài khoản đăng nhập hệ thống E-COPAY: Là tài khoản của người sử dụng dùng để đăng nhập vào hệ thống ứng dụng thực hiện các nhiệm vụ được giao theo quy chế này. Tài khoản này xác định danh tính, phạm vi tác nghiệp của người sử dụng trên Hệ thống, bao gồm các yếu tố: Tên đăng nhập, mật khẩu đăng nhập và các quyền tương ứng với nhiệm vụ được giao. - Tham số hệ thống: Là tập hợp những quy tắc, giá trị cụ thể và cần thiết để đảm bảo hệ thống E-COPAY vận hành theo đúng yêu cầu quản lý. Tham số hệ thống áp dụng chung cho toàn hệ thống do QTUDTW thiết lập; tham số hệ thống riêng áp dụng cho từng cơ quan BHXH do QTUDT thiết lập để vận hành theo yêu cầu quản lý của đơn vị. Các tham số hệ thống được nêu tại Phụ lục số 01 của Quyết định này.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:250384:part:2:article:3",
+                "number": "3",
+                "title": "Hệ thống E-COPAY",
+                "content": "Điều 3. Hệ thống E-COPAY",
+                "clauses": [
+                  {
+                    "clause_id": "doc:250384:part:2:article:3:clause:1",
+                    "number": "1",
+                    "content": "1. Hệ thống E-COPAY là phần mềm ứng dụng tập trung,\nđược triển khai, vận hành tại các cơ quan BHXH nêu tại khoản 2 Điều 1 Quy chế này, thực hiện nghiệp vụ thanh toán điện tử song phương giữa các cơ quan BHXH với các NHTM nơi BHXH mở tài khoản, bao gồm các tài khoản tiền gửi, thu phí dịch vụ thanh toán, chi trả các chế độ bảo hiểm và thanh toán khác bằng VNĐ. Hệ thống có những chức năng chính sau: - Quản lý Hệ thống - Quản lý Danh mục - Xử lý lệnh chi - Xử lý lệnh thu - Đối chiếu lệnh thanh toán - Xử lý tra soát - Sao kê tài khoản - Nhận bảng kê tính lãi - Nhận bảng kê tính phí - Báo cáo - Đầu tư tự động",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:250384:part:2:article:3:clause:2",
+                    "number": "2",
+                    "content": "2. Hệ thống có kết nối liên thông với một số phần mềm\nchính như sau: - Phần mềm KTTT: Chuyển dữ liệu đề nghị thanh toán đi vào hệ thống E-COPAY và nhận dữ liệu thanh toán đến từ hệ thống E-COPAY; - Hệ thống DMDC: Nhận dữ liệu danh mục.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:250384:part:2:article:3:clause:3",
+                    "number": "3",
+                    "content": "3. Đơn vị, cá nhân tham gia quản trị, khai thác, sử\ndụng hệ thống thực hiện nghiêm túc các quy định về bảo mật, an toàn hệ thống tại các đơn vị theo đúng các quy định hiện hành và nội dung Quy chế này; đồng thời chịu trách nhiệm thực hiện khai thác, vận hành hệ thống theo đúng chức năng, nhiệm vụ được giao; kịp thời phát hiện các vấn đề và phối hợp với các cá nhân, đơn vị liên quan xử lý dứt điểm, đảm bảo hoạt động thanh toán vận hành an toàn, thông suốt.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:250384:part:2:article:3:clause:4",
+                    "number": "4",
+                    "content": "4. Trong suốt quá trình vận hành, hệ thống sẽ được\nthường xuyên rà soát, nâng cấp các chức năng để đáp ứng yêu cầu nghiệp vụ và nâng cao tiện ích cho người sử dụng.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:250384:part:2:article:4",
+                "number": "4",
+                "title": "Nguyên tắc cấp/thu hồi tài khoản đăng nhập",
+                "content": "Điều 4. Nguyên tắc cấp/thu hồi tài khoản đăng nhập",
+                "clauses": [
+                  {
+                    "clause_id": "doc:250384:part:2:article:4:clause:1",
+                    "number": "1",
+                    "content": "1. Mỗi cá nhân chỉ được cấp một tài khoản đăng nhập\nhệ thống E-COPAY. Tại một thời điểm, mỗi người sử dụng chỉ được phân quyền trách nhiệm với một nhóm người sử dụng duy nhất được định nghĩa trên hệ thống\nE-COPAY.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:250384:part:2:article:4:clause:2",
+                    "number": "2",
+                    "content": "2. Phó Tổng Giám đốc phụ trách CNTT quyết định việc\ncấp/thu hồi tài khoản đăng nhập hệ thống E-COPAY đối với: Quản trị ứng dụng trung ương; Quản trị ứng dụng tỉnh, Lãnh đạo, chuyên viên Vụ TCKT, Vụ QLQ, Trung tâm CNTT.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:250384:part:2:article:4:clause:3",
+                    "number": "3",
+                    "content": "3. Giám đốc BHXH tỉnh quyết định việc cấp/thu hồi\ntài khoản đăng nhập hệ thống E-COPAY đối với cán bộ trên địa bàn (ngoại trừ\nQTUDT).",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:250384:part:2:article:5",
+                "number": "5",
+                "title": "Quy định tên và mật khẩu đăng nhập",
+                "content": "Điều 5. Quy định tên và mật khẩu đăng nhập",
+                "clauses": [
+                  {
+                    "clause_id": "doc:250384:part:2:article:5:clause:1",
+                    "number": "1",
+                    "content": "1. Hệ thống sử dụng dữ liệu của phần mềm hệ thống\nquản lý truy cập I- AMS để xác thực người dùng khi truy cập hệ thống E-COPAY. Người sử dụng được cấp quyền truy cập hệ thống dùng tên email và mật khẩu đăng nhập hệ thống I-AMS để đăng nhập, sử dụng hệ thống.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:250384:part:2:article:5:clause:2",
+                    "number": "2",
+                    "content": "2. Chỉ những tài khoản người dùng thuộc BHXH đã được\nthiết lập, phân quyền trên hệ thống ứng dụng mới có quyền đăng nhập sử dụng hệ thống E-COPAY.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:250384:part:2:chapter:2",
+            "number": "II",
+            "title": "QUY ĐỊNH CỤ THỂ",
+            "content": "Chương II\nQUY ĐỊNH CỤ THỂ",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:250384:part:2:article:6",
+                "number": "6",
+                "title": "Trách nhiệm của Vụ Quản lý đầu tư quỹ",
+                "content": "Điều 6. Trách nhiệm của Vụ Quản lý đầu tư quỹ",
+                "clauses": [
+                  {
+                    "clause_id": "doc:250384:part:2:article:6:clause:1",
+                    "number": "1",
+                    "content": "1. Kiểm tra, kiểm soát tính chính xác đối với thông\ntin lãi suất, kiểm soát việc thông báo lãi suất từ phần mềm đảm bảo chính xác.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:250384:part:2:article:6:clause:2",
+                    "number": "2",
+                    "content": "2. Xem các báo cáo liên quan đầu tư tự động để tổng\nhợp báo cáo đầu tư tài chính theo quy định bao gồm: Mẫu số 03B (Bảng tổng hợp trả gốc, lãi tiền gửi đầu tư tự động); mẫu số 03C (Bảng tổng hợp tiền gửi đầu tư tự động đủ kỳ hạn 01 tháng) được quy định trong Hợp đồng tiền gửi theo phương thức đầu tư tự động.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:250384:part:2:article:6:clause:3",
+                    "number": "3",
+                    "content": "3. Nghiên cứu, rà soát và tổng hợp các yêu cầu thay\nđổi về quy trình nghiệp vụ trình Lãnh đạo BHXH giao Trung tâm CNTT nâng cấp, chỉnh sửa hệ thống; phối hợp với Trung tâm CNTT và các đơn vị có liên quan trong việc nâng cấp, triển khai và vận hành hệ thống E-COPAY.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:250384:part:2:article:7",
+                "number": "7",
+                "title": "Trách nhiệm của Vụ Tài chính kế toán",
+                "content": "Điều 7. Trách nhiệm của Vụ Tài chính kế toán",
+                "clauses": [
+                  {
+                    "clause_id": "doc:250384:part:2:article:7:clause:1",
+                    "number": "1",
+                    "content": "1. Tổ chức quản lý, giám sát tình trạng đối chiếu\ngiữa các cơ quan BHXH với các đơn vị thuộc hệ thống NHTM, giữa số quyết toán của các đơn vị thuộc Hệ thống NHTM và số đã hạch toán tại tài khoản tiền gửi thanh toán, tài khoản chuyên thu của cơ quan BHXH; giữa số liệu giao dịch thu, chi trên hệ thống E-COPAY của các cơ quan BHXH với số liệu đã hạch toán tại tài khoản tiền gửi thanh toán, tài khoản chuyên thu của đơn vị thuộc Hệ thống NHTM.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:250384:part:2:article:7:clause:2",
+                    "number": "2",
+                    "content": "2. Chủ trì kiểm tra, hướng dẫn và hỗ trợ quy trình\nnghiệp vụ các cơ quan BHXH trong quá trình sử dụng, vận hành hệ thống E-COPAY; phối hợp với Trung tâm CNTT, NHTM có quan hệ TTĐTSP và các cơ quan BHXH trong quá trình vận hành, xử lý sự cố liên quan đến hệ thống hệ thống E-COPAY.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:250384:part:2:article:7:clause:3",
+                    "number": "3",
+                    "content": "3. Quản lý, cập nhật danh mục tài khoản của các cơ\nquan BHXH mở tại NHTM, các đơn vị thuộc hệ thống NHTM tham gia thanh toán hệ thống E-COPAY với cơ quan BHXH căn cứ vào danh sách các tài khoản thanh toán, tài khoản chuyên thu do BHXH tỉnh gửi theo mẫu tại Phụ lục 04.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:250384:part:2:article:7:clause:4",
+                    "number": "4",
+                    "content": "4. Quản lý, cập nhật các tham số hệ thống, các danh\nmục thuộc lĩnh vực nghiệp vụ hệ thống E-COPAY do BHXH quản lý theo Phụ lục 01.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:250384:part:2:article:7:clause:5",
+                    "number": "5",
+                    "content": "5. Khai thác các báo cáo trên hệ thống theo chức\nnăng nhiệm vụ được giao.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:250384:part:2:article:7:clause:6",
+                    "number": "6",
+                    "content": "6. Sử dụng hệ thống E-COPAY thực hiện nhiệm vụ về\nthu, chi, đối chiếu và xử lý sai sót, lập tra soát đi, xử lý tra soát đến, quyết toán tài khoản thanh toán, tài khoản chuyên thu vào cuối ngày làm việc theo đúng quy định tại Quyết định số 100/QĐ-BHXH ngày 17/01/2020 của Tổng Giám đốc Bảo hiểm xã hội Việt Nam về việc ban hành quy trình nghiệp vụ thanh toán điện tử song phương giữa hệ thống bảo hiểm xã hội Việt Nam với các hệ thống NHTM.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:250384:part:2:article:7:clause:7",
+                    "number": "7",
+                    "content": "7. Theo dõi quản lý hạn mức số dư Nợ tài khoản tiền\ngửi thanh toán của BHXH Việt Nam mở tại các NHTM. Trình Tổng Giám đốc phê duyệt hạn mức số dư Nợ của từng tài khoản tiền gửi thanh toán trên hệ thống E-COPAY trong từng thời kỳ.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:250384:part:2:article:7:clause:8",
+                    "number": "8",
+                    "content": "8. Kiểm tra tính chính xác của số liệu gốc đầu tư tự\nđộng, lãi đầu tư tự động tại chức năng Đầu tư tự động của hệ thống E-COPAY.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:250384:part:2:article:7:clause:9",
+                    "number": "9",
+                    "content": "9. Lập lệnh% kiểm soát, phê duyệt lệnh yêu cầu tất\ntoán đầu tư tự động trước hạn theo 3 cấp đúng quy định khi có nhu cầu sử dụng tiền đầu tư tự động để cấp kinh phí và đầu tư tài chính khác theo quy định.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:250384:part:2:article:7:clause:10",
+                    "number": "10",
+                    "content": "10. Lập lệnh, kiểm soát, phê duyệt lệnh ủy nhiệm\nchi theo 3 cấp đúng quy định khi có nhu cầu sử dụng tiền đầu tư tự động để cấp kinh phí và đầu tư tài chính khác theo quy định.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:250384:part:2:article:7:clause:11",
+                    "number": "11",
+                    "content": "11. Nghiên cứu, rà soát và tổng hợp các yêu cầu\nthay đổi về quy trình nghiệp vụ trình Lãnh đạo BHXH giao Trung tâm CNTT nâng cấp chỉnh sửa Hệ thống; phối hợp với Trung tâm CNTT và các đơn vị có liên quan trong việc nâng cấp, triển khai và vận hành hệ thống E-COPAY.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:250384:part:2:article:8",
+                "number": "8",
+                "title": "Trách nhiệm của Trung tâm Công nghệ thông tin",
+                "content": "Điều 8. Trách nhiệm của Trung tâm Công nghệ thông tin",
+                "clauses": [
+                  {
+                    "clause_id": "doc:250384:part:2:article:8:clause:1",
+                    "number": "1",
+                    "content": "1. Là đầu mối tiếp nhận và thực hiện việc cấp mới,\nthu hồi, thay đổi, phân quyền, phân nhóm tài khoản đăng nhập sử dụng Hệ thống đối với Quản trị ứng dụng tỉnh, người sử dụng thuộc Trung tâm CNTT, Vụ TCKT, Vụ\nQLQ.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:250384:part:2:article:8:clause:2",
+                    "number": "2",
+                    "content": "2. Kích hoạt/ngừng hoạt động sử dụng chứng thư số\ntrên Hệ thống đối với người sử dụng thuộc Vụ TCKT, Vụ QLQ.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:250384:part:2:article:8:clause:3",
+                    "number": "3",
+                    "content": "3. Trên cơ sở đề nghị của Vụ TCKT Vụ QLQ thực hiện\nthiết lập các thông tin phục vụ cho việc triển khai mới; bổ sung thay đổi tài khoản chuyên thu, tài khoản thanh toán tại các đơn vị; thay đổi hạn mức dư Nợ trên hệ thống E-COPAY (chức năng Đầu tư tự động).",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:250384:part:2:article:8:clause:4",
+                    "number": "4",
+                    "content": "4. Thực hiện công tác quản trị, vận hành, theo dõi,\ngiám sát để đảm bảo hệ thống hoạt động liên tục, ổn định, an toàn, an ninh thông tin; chủ động thông báo với các đơn vị liên quan về tình trạng và tiến độ khắc phục khi có sự cố kỹ thuật xảy ra; chủ động rà soát, phát hiện và cập nhật các lỗi trong quá trình vận hành; hỗ trợ kỹ thuật cho người sử dụng.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:250384:part:2:article:8:clause:5",
+                    "number": "5",
+                    "content": "5. Thực hiện thu hồi tài khoản trong trường hợp\nphát hiện nguy cơ mất an toàn từ phía người sử dụng (lộ tài khoản đăng nhập và mật khẩu, bị chiếm đoạt trái phép tài khoản đăng nhập và mật khẩu, sử dụng tài khoản và mật khẩu được cấp để thực hiện các hành vi bị nghiêm cấm...). Báo cáo Phó Tổng Giám đốc phụ trách lĩnh vực CNTT.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:250384:part:2:article:8:clause:6",
+                    "number": "6",
+                    "content": "6. Xây dựng kế hoạch nâng cấp, chỉnh sửa hệ thống\nkhi có thay đổi về cơ chế, nghiệp vụ và yêu cầu từ các đơn vị sử dụng.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:250384:part:2:article:9",
+                "number": "9",
+                "title": "Trách nhiệm của BHXH tỉnh",
+                "content": "Điều 9. Trách nhiệm của BHXH tỉnh",
+                "clauses": [
+                  {
+                    "clause_id": "doc:250384:part:2:article:9:clause:1",
+                    "number": "1",
+                    "content": "1. Tổ chức vận hành, giám sát và sử dụng hệ thống\nE-COPAY trên địa bàn đảm bảo an toàn, chính xác, đúng quy định; Quản lý người sử dụng theo trách nhiệm được nêu tại Quy chế này.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:250384:part:2:article:9:clause:2",
+                    "number": "2",
+                    "content": "2. Là đầu mối tiếp nhận và thực hiện việc cấp mới,\nthu hồi, thay đổi tài khoản đăng nhập; kích hoạt/ngừng hoạt động sử dụng chứng thư số trên hệ thống E-COPAY đối với người sử dụng trên địa bàn.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:250384:part:2:article:9:clause:3",
+                    "number": "3",
+                    "content": "3. Tổng hợp nhu cầu cấp phát, thu hồi, thay đổi tài\nkhoản Quản trị ứng dụng tỉnh gửi về BHXH Việt Nam (Trung tâm CNTT) theo quy định tại Quy chế này.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:250384:part:2:article:9:clause:4",
+                    "number": "4",
+                    "content": "4. Quản lý tài khoản tiền gửi thanh toán, tài khoản\nchuyên thu mở tại các NHTM; theo dõi số dư tài khoản mở tại NHTM trên hệ thống E-COPAY; theo dõi số liệu quyết toán thu, chi theo quy định.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:250384:part:2:article:9:clause:5",
+                    "number": "5",
+                    "content": "5. Tổ chức quản lý, kiểm tra, giám sát tình trạng\nthanh toán và đối chiếu với NHTM của các cơ quan BHXH trên địa bàn; định kỳ tổng hợp báo cáo kết quả đối chiếu số liệu hệ thống E-COPAY của toàn địa bàn, gửi về BHXH theo quy định.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:250384:part:2:article:9:clause:6",
+                    "number": "6",
+                    "content": "6. Sử dụng hệ thống E-COPAY thực hiện nhiệm vụ về\nthu, chi, đối chiếu và xử lý sai sót, lập tra soát đi, xử lý tra soát đến, quyết toán tài khoản thanh toán, tài khoản chuyên thu vào cuối ngày làm việc theo đúng quy định tại Quyết định số 100/QĐ-BHXH ngày 17/01/2020 của Tổng Giám đốc Bảo hiểm xã hội Việt Nam về việc ban hành quy trình nghiệp vụ thanh toán điện tử song phương giữa hệ thống bảo hiểm xã hội Việt Nam với các hệ thống NHTM.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:250384:part:2:article:9:clause:7",
+                    "number": "7",
+                    "content": "7. Tổng hợp thông tin thiết lập tài khoản thanh\ntoán, tài khoản chuyên thu mở tại các NHTM theo Phụ lục 04 gửi về Vụ Tài chính - Kế toán.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:250384:part:2:article:9:clause:8",
+                    "number": "8",
+                    "content": "8. Phối hợp với các đơn vị liên quan trong quá\ntrình triển khai, vận hành hệ thống.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:250384:part:2:article:10",
+                "number": "10",
+                "title": "Trách nhiệm của BHXH huyện",
+                "content": "Điều 10. Trách nhiệm của BHXH huyện",
+                "clauses": [
+                  {
+                    "clause_id": "doc:250384:part:2:article:10:clause:1",
+                    "number": "1",
+                    "content": "1. Sử dụng hệ thống E-COPAY thực hiện nhiệm vụ về\nthu, chi, đối chiếu và xử lý sai sót, lập tra soát đi, xử lý tra soát đến, quyết toán tài khoản thanh toán, tài khoản chuyên thu vào cuối ngày làm việc theo đúng quy định tại Quy trình TTĐTSP.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:250384:part:2:article:10:clause:2",
+                    "number": "2",
+                    "content": "2. Quản lý tài khoản tiền gửi thanh toán, tài khoản\nchuyên thu mở tại NHTM; theo dõi số dư tài khoản mở tại NHTM, trên hệ thống E-COPAY; số liệu quyết toán thu, chi; định kỳ báo cáo kết quả đối chiếu số liệu hệ thống E-COPAY gửi về BHXH Tỉnh theo đúng quy định.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:250384:part:2:article:10:clause:3",
+                    "number": "3",
+                    "content": "3. Phối hợp với các đơn vị liên quan trong quá\ntrình triển khai, vận hành Hệ thống.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:250384:part:2:article:11",
+                "number": "11",
+                "title": "Trách nhiệm của Quản trị ứng dụng Trung ương",
+                "content": "Điều 11. Trách nhiệm của Quản trị ứng dụng Trung ương",
+                "clauses": [
+                  {
+                    "clause_id": "doc:250384:part:2:article:11:clause:1",
+                    "number": "1",
+                    "content": "1. Quản lý, thiết lập giá trị các tham số liên quan\nđến kỹ thuật trên hệ thống E-COPAY theo phụ lục số 01 của Quyết định này.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:250384:part:2:article:11:clause:2",
+                    "number": "2",
+                    "content": "2. Theo dõi, giám sát quá trình đồng bộ tự động các",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:250384:part:2:article:12",
+                "number": "12",
+                "title": "Trách nhiệm của Quản trị ứng dụng cấp tỉnh",
+                "content": "Điều 12. Trách nhiệm của Quản trị ứng dụng cấp tỉnh",
+                "clauses": [
+                  {
+                    "clause_id": "doc:250384:part:2:article:12:clause:1",
+                    "number": "1",
+                    "content": "1. Thực hiện cấp phát, thu hồi, thay đổi tài khoản\nngười sử dụng khi có quyết định của Lãnh đạo BHXH tỉnh; thực hiện kích hoạt/ngừng hoạt động sử dụng chứng thư số của người sử dụng trên hệ thống.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:250384:part:2:article:12:clause:2",
+                    "number": "2",
+                    "content": "2. Giám sát, hỗ trợ người sử dụng hệ thống trên địa\nbàn tỉnh; phối hợp với các đơn vị liên quan xử lý các sự cố trong quá trình vận hành ứng dụng.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:250384:part:2:article:12:clause:3",
+                    "number": "3",
+                    "content": "3. Hướng dẫn, hỗ trợ các cơ quan BHXH trên địa bàn\ntrong công tác cài đặt, đăng ký, sử dụng chứng thư số.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:250384:part:2:chapter:3",
+            "number": "III",
+            "title": "QUY TRÌNH CẤP, THU HỒI TÀI KHOẢN",
+            "content": "Chương III\nQUY TRÌNH CẤP, THU HỒI TÀI KHOẢN",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:250384:part:2:article:13",
+                "number": "13",
+                "title": "Cấp tài khoản đăng nhập Tài khoản đăng nhập hệ thống được cấp trong trường hợp người sử dụng lần đầu tiên tham gia vào hệ thống E-COPAY tại một cơ quan BHXH hoặc thay đổi vai trò công việc (Kế toán viên/Kế toán trưởng/Giám đốc) trong một cơ quan BHXH hoặc chuyển từ cơ quan BHXH này sang cơ quan BHXH khác.",
+                "content": "Điều 13. Cấp tài khoản đăng nhập Tài khoản đăng nhập hệ thống được cấp trong trường hợp người sử dụng lần đầu tiên tham gia vào hệ thống E-COPAY tại một cơ quan BHXH hoặc thay đổi vai trò công việc (Kế toán viên/Kế toán trưởng/Giám đốc) trong một cơ quan BHXH hoặc chuyển từ cơ quan BHXH này sang cơ quan BHXH khác.",
+                "clauses": [],
+                "points": []
+              },
+              {
+                "article_id": "doc:250384:part:2:article:14",
+                "number": "14",
+                "title": "Thu hồi tài khoản đăng nhập Tài khoản đăng nhập hệ thống E-COPAY được thu hồi trong các trường hợp sau: - Người sử dụng không còn tham gia hệ thống E-COPAY; - Người sử dụng luân chuyển công tác từ cơ quan BHXH này sang đơn vị cơ quan BHXH khác; - Người sử dụng thu hồi tài khoản đăng nhập với vai trò cũ đề chuyển sang vai trò mới; - Khi phát hiện nguy cơ mất an toàn từ phía người sử dụng (lộ tài khoản đăng nhập và mật khẩu, bị chiếm đoạt trái phép tài khoản đăng nhập và mật khẩu, sử dụng tài khoản và mật khẩu được cấp để thực hiện các hành vi bị nghiêm cấm...).",
+                "content": "Điều 14. Thu hồi tài khoản đăng nhập Tài khoản đăng nhập hệ thống E-COPAY được thu hồi trong các trường hợp sau: - Người sử dụng không còn tham gia hệ thống E-COPAY; - Người sử dụng luân chuyển công tác từ cơ quan BHXH này sang đơn vị cơ quan BHXH khác; - Người sử dụng thu hồi tài khoản đăng nhập với vai trò cũ đề chuyển sang vai trò mới; - Khi phát hiện nguy cơ mất an toàn từ phía người sử dụng (lộ tài khoản đăng nhập và mật khẩu, bị chiếm đoạt trái phép tài khoản đăng nhập và mật khẩu, sử dụng tài khoản và mật khẩu được cấp để thực hiện các hành vi bị nghiêm cấm...).",
+                "clauses": [],
+                "points": []
+              },
+              {
+                "article_id": "doc:250384:part:2:article:15",
+                "number": "15",
+                "title": "Quy trình cấp/thu hồi tài khoản đăng nhập",
+                "content": "Điều 15. Quy trình cấp/thu hồi tài khoản đăng nhập",
+                "clauses": [
+                  {
+                    "clause_id": "doc:250384:part:2:article:15:clause:1",
+                    "number": "1",
+                    "content": "1. Đối với tài khoản Quản trị ứng dụng Trung ương:\nCăn cứ nhu cầu của Trung tâm CNTT về cấp/thu hồi khoản Quản trị ứng dụng Trung ương, Trung tâm CNTT tổng hợp danh sách cá nhân được đề nghị cấp/thu hồi, trình Lãnh đạo BHXH Việt Nam phê duyệt trước khi thực hiện trên Hệ thống.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:250384:part:2:article:15:clause:2",
+                    "number": "2",
+                    "content": "2. Đối với tài khoản đăng nhập hệ thống của Lãnh đạo,\nChuyên viên thuộc Vụ QLQ, Vụ TCKT: Các đơn vị lập danh sách cấp/thu hồi tài khoản theo mẫu tại Phụ lục số 02 Quyết định này, gửi về Trung tâm CNTT. Trung tâm CNTT tổng hợp danh sách cá nhân được đề nghị cấp/thu hồi, trình Lãnh đạo BHXH Việt Nam phê duyệt trước khi thực hiện trên hệ thống và thông báo cho đơn vị quản lý người được cấp/thu hồi tài khoản theo mẫu tại Phụ lục số 03.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:250384:part:2:article:15:clause:3",
+                    "number": "3",
+                    "content": "3. Đối với tài khoản Quản trị ứng dụng tỉnh: BHXH tỉnh\nlập danh sách cấp/thu hồi tài khoản theo mẫu tại Phụ lục số 02 gửi về BHXH Việt Nam (Trung tâm CNTT), Trung tâm CNTT tổng hợp danh sách cá nhân được đề nghị cấp/thu hồi, trình Lãnh đạo BHXH Việt Nam phê duyệt trước khi thực hiện trên hệ thống và thông báo cho đơn vị quản lý người được cấp/thu hồi tài khoản theo Phụ lục số 03.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:250384:part:2:article:15:clause:4",
+                    "number": "4",
+                    "content": "4. Đối với tài khoản đăng nhập hệ thống thuộc BHXH\ntỉnh: Các đơn vị lập danh sách cấp/thu hồi tài khoản đăng nhập hệ thống theo Phụ lục số 02, gửi Phòng CNTT, Phòng CNTT tổng hợp danh sách cá nhân được đề nghị cấp/thu hồi, trình Lãnh đạo BHXH tỉnh phê duyệt trước khi thực hiện trên hệ thống và thông báo cho đơn vị quản lý người được cấp/thu hồi tài khoản theo Phụ lục số 03 của Quyết định này.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:250384:part:2:article:15:clause:5",
+                    "number": "5",
+                    "content": "5. Thời gian thực hiện cấp/thu hồi tài khoản: Thời\ngian thực hiện cấp/thu hồi tài khoản đăng nhập cho người sử dụng không quá 2 ngày làm việc kể từ ngày nhận được văn bản đề nghị cấp mới/thu hồi của các đơn vị.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:250384:part:2:article:15:clause:6",
+                    "number": "6",
+                    "content": "6. Đối với các tài khoản không còn tham gia hệ thống\nE-COPAY hoặc thay đổi vai trò công việc trong một cơ quan BHXH hoặc luân chuyển giữa các cơ quan BHXH: Ngay khi thời điểm cá nhân không tiếp tục tham gia hệ thống hoặc thời điểm quyết định thay đổi công việc, luân chuyển có hiệu lực, Lãnh đạo đơn vị có văn bản đề nghị thu hồi tài khoản gửi BHXH Việt Nam hoặc BHXH tỉnh (tùy theo loại tài khoản cần thu hồi theo quy định về cấp mới trong Quy định này). Trường hợp khi thay đổi vai trò công việc trong hệ thống E-COPAY hoặc luân chuyển giữa các đơn vị Bảo hiểm nhưng người sử dụng vẫn tiếp tục tham gia hệ thống E-COPAY, sau khi thu hồi, việc cấp mới tài khoản đăng nhập được thực hiện theo quy định về cấp mới tài khoản đăng nhập trong Quy chế này.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:250384:part:2:article:15:clause:7",
+                    "number": "7",
+                    "content": "7. Trường hợp phát hiện nguy cơ mất an toàn\nTrong mọi trường hợp, khi phát hiện nguy cơ mất an toàn từ phía người sử dụng, người phát hiện phải thông báo ngay cho Lãnh đạo đơn vị để chỉ đạo, kiểm tra và thông báo cho Quản trị ứng dụng Trung ương hoặc Quản trị ứng dụng tỉnh thu hồi tài khoản đăng nhập.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:250384:part:2:article:16",
+                "number": "16",
+                "title": "Quy trình thay đổi nhóm người sử dụng",
+                "content": "Điều 16. Quy trình thay đổi nhóm người sử dụng",
+                "clauses": [
+                  {
+                    "clause_id": "doc:250384:part:2:article:16:clause:1",
+                    "number": "1",
+                    "content": "1. Tại một thời điểm, mỗi người sử dụng chỉ được\nphân quyền với một nhóm người sử dụng được định nghĩa trên hệ thống đảm bảo nguyên tắc “một người chỉ được phép ký một chức danh theo một quy trình phê duyệt trên một chứng từ hoặc một bộ chứng từ kế toán” theo quy định của BHXH Việt Nam. Việc thay đổi nhóm người sử dụng trên hệ thống được thực hiện trong trường hợp người sử dụng thay đổi vai trò công việc (Kế toán viên/Kế toán trưởng/Giám đốc) trong một cơ quan BHXH.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:250384:part:2:article:16:clause:2",
+                    "number": "2",
+                    "content": "2. Quy trình thay đổi nhóm người sử dụng được thực\nhiện bằng quy trình thu hồi tài khoản thuộc nhóm người sử dụng cũ trước; cấp mới tài khoản thuộc nhóm người sử dụng mới sau.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:250384:part:2:chapter:4",
+            "number": "IV",
+            "title": "SỬ DỤNG CHỨNG THƯ SỐ TRÊN HỆ THỐNG E-COPAY",
+            "content": "Chương IV\nSỬ DỤNG CHỨNG THƯ SỐ TRÊN HỆ THỐNG E-COPAY",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:250384:part:2:article:17",
+                "number": "17",
+                "title": "Cấp mới, thu hồi, quản lý và kích hoạt/ngừng hiệu lực chứng thư số trên hệ thống",
+                "content": "Điều 17. Cấp mới, thu hồi, quản lý và kích hoạt/ngừng hiệu lực chứng thư số trên hệ thống",
+                "clauses": [
+                  {
+                    "clause_id": "doc:250384:part:2:article:17:clause:1",
+                    "number": "1",
+                    "content": "1. Cấp mới/thu hồi chứng thư số sử dụng trên hệ thống\nE-COPAY; Quy trình cấp mới, thu hồi, cấp đổi, quản lý chứng thư số khi Giám đốc, Kế toán trưởng ủy quyền Kế toán trưởng sử dụng chữ ký số trong hệ thống E-COPAY thực hiện theo các quy định trong Quyết định số 54/QĐ-BHXH ngày 05 tháng 01 năm 2018 của Tổng Giám đốc BHXH Quy định về việc Ban hành quy chế quản lý và sử dụng chữ ký số, chứng thư số chuyên dụng trong ngành Bảo hiểm xã hội.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:250384:part:2:article:17:clause:2",
+                    "number": "2",
+                    "content": "2. Kích hoạt/ngừng hiệu lực sử dụng chứng thư số\ntrên hệ thống E-COPAY: Khi có nhu cầu kích hoạt/ngừng hiệu lực chứng thư số trên hệ thống, đơn vị tổng hợp danh sách người sử dụng theo mẫu của Phụ lục 02, gửi về đơn vị thực hiện kích hoạt/ngừng hiệu tương ứng như sau: - Đối với người dùng là cán bộ thuộc BHXH tỉnh, huyện: Gửi về phòng CNTT BHXH tỉnh để thực hiện kích hoạt/ngừng hiệu lực chứng thư số. - Đối với người dùng là cán bộ thuộc Vụ TCKT, Vụ QLQ: Gửi về Trung tâm CNTT để thực hiện kích hoạt/ngừng hiệu lực chứng thư số. Trên cơ sở đề nghị kích hoạt/ngừng hiệu lực chứng thư số của người sử dụng tại các cơ quan BHXH trong phạm vi quản lý, Quản trị ứng dụng Trung ương, Quản trị ứng dụng tỉnh thực hiện kích hoạt/ngừng hiệu lực chứng thư số đã được đăng ký theo thông tin hiển thị trên hệ thống: Tên đăng nhập của người sử dụng trên hệ thống khớp với tên hiển thị trên chứng thư số được kích hoạt trong danh sách đề nghị kích hoạt/ngừng hiệu lực và thông báo theo Phụ lục số 03 cho đơn vị quản lý người dùng.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:250384:part:2:article:18",
+                "number": "18",
+                "title": "Xử lý lỗi tác nghiệp, nghiệp vụ Các trường hợp phát sinh lỗi tác nghiệp, nghiệp vụ trong quá trình vận hành, sử dụng hệ thống, cơ quan BHXH phối hợp với NHTM nơi mở tài khoản để xác định, xử lý. Trường hợp không xử lý được, đơn vị phản ánh nội dung lỗi về Vụ TCKT theo địa chỉ email ketoan.tckt@vss.gov.vn.",
+                "content": "Điều 18. Xử lý lỗi tác nghiệp, nghiệp vụ Các trường hợp phát sinh lỗi tác nghiệp, nghiệp vụ trong quá trình vận hành, sử dụng hệ thống, cơ quan BHXH phối hợp với NHTM nơi mở tài khoản để xác định, xử lý. Trường hợp không xử lý được, đơn vị phản ánh nội dung lỗi về Vụ TCKT theo địa chỉ email ketoan.tckt@vss.gov.vn.",
+                "clauses": [],
+                "points": []
+              },
+              {
+                "article_id": "doc:250384:part:2:article:19",
+                "number": "19",
+                "title": "Xử lý lỗi sự cố kỹ thuật Trong quá trình sử dụng hệ thống có phát sinh lỗi như các tình huống: không đăng nhập được vào ứng dụng, các thông báo lỗi kỹ thuật (thông báo đó, thông báo không rõ nghĩa hoặc thông báo bằng tiếng nước ngoài), lỗi truyền nhận giao dịch điện tử, bảng kê đối chiếu, quyết toán... cơ quan BHXH phản ánh với Quản trị ứng dụng tỉnh xác định nguyên nhân và tìm cách xử lý. Trường hợp không giải quyết được, người sử dụng ghi nhận sự cố, gửi yêu cầu hỗ trợ theo quy định về Trung tâm CNTT qua địa chỉ thư điện tử pm.cntt@vss.gov.vn , đồng gửi (cc) cho Phòng CNTT BHXH tỉnh để xử lý; mục Subject ghi: <mã cơ quan BHXH>_TTSP_Tóm tắt nội dung đề nghị hỗ trợ>.",
+                "content": "Điều 19. Xử lý lỗi sự cố kỹ thuật Trong quá trình sử dụng hệ thống có phát sinh lỗi như các tình huống: không đăng nhập được vào ứng dụng, các thông báo lỗi kỹ thuật (thông báo đó, thông báo không rõ nghĩa hoặc thông báo bằng tiếng nước ngoài), lỗi truyền nhận giao dịch điện tử, bảng kê đối chiếu, quyết toán... cơ quan BHXH phản ánh với Quản trị ứng dụng tỉnh xác định nguyên nhân và tìm cách xử lý. Trường hợp không giải quyết được, người sử dụng ghi nhận sự cố, gửi yêu cầu hỗ trợ theo quy định về Trung tâm CNTT qua địa chỉ thư điện tử pm.cntt@vss.gov.vn , đồng gửi (cc) cho Phòng CNTT BHXH tỉnh để xử lý; mục Subject ghi: <mã cơ quan BHXH>_TTSP_Tóm tắt nội dung đề nghị hỗ trợ>.",
+                "clauses": [],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:250384:part:2:chapter:5",
+            "number": "V",
+            "title": "TỔ CHỨC THỰC HIỆN",
+            "content": "Chương V\nTỔ CHỨC THỰC HIỆN",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:250384:part:2:article:20",
+                "number": "20",
+                "title": "Các hành vi bị nghiêm cấm",
+                "content": "Điều 20. Các hành vi bị nghiêm cấm",
+                "clauses": [
+                  {
+                    "clause_id": "doc:250384:part:2:article:20:clause:1",
+                    "number": "1",
+                    "content": "1. Chiếm đoạt, sử dụng trái phép tài khoản đăng nhập\nhệ thống E-COPAY của người khác để thực hiện các công việc không thuộc chức năng nhiệm vụ của mình trên hệ thống E-COPAY.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:250384:part:2:article:20:clause:2",
+                    "number": "2",
+                    "content": "2. Cố tình sử dụng tài khoản đăng nhập hệ thống\nE-COPAY được cấp để thực hiện các tác vụ không thuộc phạm vi, nhiệm vụ được giao trên hệ thống E-COPAY hoặc trái với quy định của Quy trình nghiệp vụ.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:250384:part:2:article:20:clause:3",
+                    "number": "3",
+                    "content": "3. Cố tình sử dụng tài khoản đăng nhập hệ thống\nE-COPAY được cấp để thực hiện các tác nghiệp làm ảnh hưởng đến hiệu suất của hệ thống; tác động đến các tiến trình, làm ảnh hưởng đến các giao dịch trên hệ thống\nE-COPAY.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:250384:part:2:article:20:clause:4",
+                    "number": "4",
+                    "content": "4. Cấp các quyền quản trị hệ thống và phát triển hệ\nthống ứng dụng cho các đối tượng không đúng theo quy định.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:250384:part:2:article:20:clause:5",
+                    "number": "5",
+                    "content": "5. Thực hiện các hành động ảnh hưởng đến bảo mật hệ\nthống, làm ảnh hưởng đến tính chính xác của số liệu, làm ảnh hưởng đến an toàn tài sản.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:250384:part:2:article:20:clause:6",
+                    "number": "6",
+                    "content": "6. Cho người khác sử dụng tài khoản đăng nhập và mật\nkhẩu để thực hiện các nghiệp vụ trên hệ thống E-COPAY.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:250384:part:2:article:21",
+                "number": "21",
+                "title": "Xử lý vi phạm Mọi hành vi vi phạm các quy định tại Quy chế này, tùy theo tính chất, mức độ vi phạm đều bị xử lý theo quy định hiện hành.",
+                "content": "Điều 21. Xử lý vi phạm Mọi hành vi vi phạm các quy định tại Quy chế này, tùy theo tính chất, mức độ vi phạm đều bị xử lý theo quy định hiện hành.",
+                "clauses": [],
+                "points": []
+              },
+              {
+                "article_id": "doc:250384:part:2:article:22",
+                "number": "22",
+                "title": "Tổ chức thực hiện Thủ trưởng các cơ quan thuộc BHXH Việt Nam và Giám đốc BHXH các tỉnh, thành phố trực thuộc Trung ương và các cá nhân đề cập tại",
+                "content": "Điều 22. Tổ chức thực hiện Thủ trưởng các cơ quan thuộc BHXH Việt Nam và Giám đốc BHXH các tỉnh, thành phố trực thuộc Trung ương và các cá nhân đề cập tại",
+                "clauses": [],
+                "points": []
+              }
+            ]
+          }
+        ],
+        "sections": [],
+        "articles": [],
+        "unstructured_blocks": []
+      },
+      {
+        "part_id": "doc:250384:part:3",
+        "part_type": "appendix",
+        "part_title": "PHỤ LỤC 01",
+        "reference": null,
+        "direct_text": null,
+        "chapters": [],
+        "sections": [],
+        "articles": [],
+        "unstructured_blocks": [
+          {
+            "block_id": "doc:250384:part:3:block:1",
+            "content": "PHỤ LỤC 01\nDANH SÁCH THAM SỐ VÀ DANH MỤC TRÊN HỆ THỐNG E-COPAY\n(Kèm theo Quyết định số: 283/QĐ-BHXH ngày 25/02/2020 của Tổng Giám đốc BHXH Việt Nam)\nSTT\nTên Danh mục, Tham số Đơn vị quản lý\nDanh mục trên hệ\nthống E-COPAY 1\nDanh mục ngân hàng\nTrung tâm CNTT 2\nDanh mục cơ quan BHXH\nTrung tâm CNTT 3\nDanh mục Địa bàn hành chính\nTrung tâm CNTT 4\nDanh mục tài khoản\nVụ TCKT Danh sách tham số trên hệ thống E-COPAY 1 Tham số cut off time (COT) Trung tâm CNTT 2 Thời điểm đối chiếu dữ liệu Vụ TCKT 3 Tham số quy định hạn mức số dư thanh toán của NH Quân đội Vụ TCKT 4 Tham số quy định hạn mức số dư thanh toán của NH Vietin Vụ TCKT 5 Tham số quy định hạn mức số dư thanh toán của NH\nVCB\nVụ TCKT 6 Tham số quy định hạn mức số dư thanh toán của NH\nBIDV\nVụ TCKT 7 Tham số quy định hạn mức số dư thanh toán của NH\nAGRI\nVụ TCKT 8 Tham số quy định thời điểm chạy job truy vấn số dư đã chốt ở TK thanh toán Vụ TCKT 9 Tham số quy định thời điểm chạy job truy vấn lãi suất kỳ hạn 1 tháng Vụ TCKT 10 Tham số thời điểm chạy job gửi lãi suất bình quân cho các NH Vụ TCKT 11 Tham số làm tròn số tiền để đầu tư Vụ TCKT 12 Tham số quy định phần vượt so với hạn mức đề được đầu tư Vụ TCKT 13 Tham số quy định thời điểm nhận bảng kê tiền lãi từ NH Vụ TCKT 14 Tham số quy định thời điểm nhận thông tin lãi suất kỳ hạn 1 tháng Vụ TCKT",
+            "indexable": true
+          }
+        ]
+      },
+      {
+        "part_id": "doc:250384:part:4",
+        "part_type": "appendix",
+        "part_title": "PHỤ LỤC 02",
+        "reference": null,
+        "direct_text": null,
+        "chapters": [],
+        "sections": [],
+        "articles": [],
+        "unstructured_blocks": [
+          {
+            "block_id": "doc:250384:part:4:block:1",
+            "content": "PHỤ LỤC 02\nMẪU ĐĂNG KÝ CẤP MỚI/THU HỒI TÀI KHOẢN ĐĂNG NHẬP, KÍCH\nHOẠT/NGỪNG HIỆU LỰC SỬ DỤNG CHỨNG THƯ SỐ TRÊN HỆ THỐNG E-COPAY\n(Kèm theo Quyết định số: 283/QĐ-BHXH ngày 25/02/2020 của Tổng Giám đốc BHXH Việt Nam)\n1. Cấp tài khoản đăng nhập\nSTT\nHọ và tên Chức danh đề nghị cấp Địa chỉ email\nBHXH\nTên cơ quan BHXH- Bảo hiểm xã hội.../Vụ/Trung tâm... 1 Nguyễn Văn A - Giám đốc - Ủy quyền Giám đốc - Kế toán trưởng - Ủy quyền Kế toán trưởng - Kế toán viên - Quản trị ứng dụng trung ương - Quản trị ứng dụng tỉnh anv@vss.gov.vn ...\n2. Thu hồi tài khoản đăng nhập\nSTT\nHọ và tên Chức danh hiện tại trên hệ thống E-COPAY Địa chỉ email\nBHXH\nTên cơ quan BHXH-Bảo hiểm xã hội.../Vụ/Trung tâm... 1 Nguyễn Văn B - Giám đốc - Ủy quyền Giám đốc - Kế toán trưởng - Ủy quyền Kế toán trưởng - Kế toán viên - Quản trị ứng dụng trung ương - Quản trị ứng dụng tỉnh bnv@vss.gov.vn ...\n3. Kích hoạt chứng thư số trên hệ\nthống E-COPAY\nTT\nHọ và tên Chức danh hiện tại trên hệ thống E-COPAY Địa chỉ email\nBHXH\nTên cơ quan BHXH-Bảo hiểm xã hội.../Vụ/Trung tâm... 1 Nguyễn Văn C - Giám đốc - Ủy quyền Giám đốc - Kế toán trưởng - Ủy quyền Kế toán trưởng cnv@vss.gov.Vn …\n4. Ngừng hiệu lực chứng thư số\ntrên hệ thống E-COPAY\nTT\nHọ và tên Chức danh hiện tại trên hệ thống E-COPAY Địa chỉ email\nBHXH\nTên cơ quan BHXH-Bảo hiểm xã hội.../Vụ/Trung tâm... 1 Nguyễn Văn D - Giám đốc - Ủy quyền Giám đốc - Kế toán trưởng - Ủy quyền Kế toán trưởng dnv@vss.gov.vn …",
+            "indexable": true
+          }
+        ]
+      },
+      {
+        "part_id": "doc:250384:part:5",
+        "part_type": "appendix",
+        "part_title": "PHỤ LỤC 03",
+        "reference": null,
+        "direct_text": null,
+        "chapters": [],
+        "sections": [],
+        "articles": [],
+        "unstructured_blocks": [
+          {
+            "block_id": "doc:250384:part:5:block:1",
+            "content": "PHỤ LỤC 03\nTHÔNG BÁO CẤP MỚI/THU HỒI TÀI KHOẢN ĐĂNG NHẬP, KÍCH HOẠT/NGỪNG\nHIỆU LỰC SỬ DỤNG CHỨNG THƯ SỐ TRÊN HỆ THỐNG E-COPAY\n(Kèm theo Quyết định số 283/QĐ-BHXH ngày 25/02/2020 của Tổng Giám đốc BHXH Việt Nam)\n1. Cấp tài khoản đăng nhập\nTT\nHọ và tên Chức danh cấp trên hệ thống E-COPAY Địa chỉ email\nBHXH\nHiệu lực từ ngày Tên cơ quan BHXH-Bảo hiểm xã hội.../Vụ/Trung tâm... 1 Nguyễn Văn A - Giám đốc - Ủy quyền Giám đốc - Kế toán trưởng - Ủy quyền Kế toán trưởng - Thanh toán viên - Quản trị ứng dụng trung ương - Quản trị ứng dụng tỉnh anv@vss.gov.vn\n2. Thu hồi tài khoản đăng nhập\nTT\nHọ và tên Chức danh hiện tại hệ thống E-COPAY Địa chỉ email\nBHXH\nHết hiệu lực từ ngày Tên cơ quan BHXH-Bảo hiểm xã hội.../Vụ/Trung tâm... 1 Nguyễn Văn B - Giám đốc - Ủy quyền Giám đốc - Kế toán trưởng - Ủy quyền Kế toán trưởng - Thanh toán viên - Quản trị ứng dụng trung ương - Quản trị ứng dụng tỉnh bnv@vss.gov.vn …\n3. Kích hoạt chứng thư số trên hệ\nthống E-COPAY\nTT\nHọ và tên Chức danh hiện tại trên hệ thống E-COPAY Địa chỉ email\nBHXH\nSerial CTS Tên cơ quan BHXH-Bảo hiểm xã hội.../Vụ/Trung tâm... 1 Nguyễn Văn C - Giám đốc - Ủy quyền Giám đốc - Kế toán trưởng - Ủy quyền Kế toán trưởng cnv@vss.gov.vn …\n4. Ngừng hiệu lực chứng thư số\ntrên hệ thống E-COPAY\nTT\nHọ và tên Chức danh hiện tại trên hệ thống E-COPAY Địa chỉ email\nBHXH\nTên cơ quan BHXH-Bảo hiểm xã hội.../Vụ/Trung tâm... 1 Nguyễn Văn D - Giám đốc - Ủy quyền Giám đốc - Kế toán trưởng - Ủy quyền Kế toán trưởng dnv@vss.gov.vn …",
+            "indexable": true
+          }
+        ]
+      },
+      {
+        "part_id": "doc:250384:part:6",
+        "part_type": "appendix",
+        "part_title": "PHỤ LỤC 04",
+        "reference": null,
+        "direct_text": null,
+        "chapters": [],
+        "sections": [],
+        "articles": [],
+        "unstructured_blocks": [
+          {
+            "block_id": "doc:250384:part:6:block:1",
+            "content": "PHỤ LỤC 04\nMẪU THÔNG TIN THIẾT LẬP TÀI KHOẢN THANH TOÁN, TÀI KHOẢN\nCHUYÊN THU\n(Kèm theo Quyết định số 283/QĐ-BHXH ngày 25/02/2020 của Tổng Giám đốc BHXH Việt Nam)\nSTT\nTên cơ quan\nBHXH\nSố tài khoản Tên Tài khoản Mã chi nhánh ngân hàng Tên chi nhánh ngân hàng Tỉnh 1",
+            "indexable": true
+          }
+        ]
+      }
+    ]
+  },
+  "issues": [],
+  "status": "ok",
+  "source_hash": "context_250384.json",
+  "stats": {
+    "source_chars": 30391,
+    "passage_chars": 30223,
+    "parts": 6,
+    "chapters": 5,
+    "sections": 0,
+    "articles": 25,
+    "clauses": 65,
+    "points": 0
+  }
+}

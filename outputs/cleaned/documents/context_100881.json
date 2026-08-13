@@ -1,0 +1,618 @@
+{
+  "schema_version": "2.0",
+  "document_id": 100881,
+  "metadata": {
+    "name": "Thong-tu-07-2016-TT-BTNMT-bo-du-lieu-chuan-du-lieu-xay-dung-quan-ly-co-so-du-lieu-khi-tuong-thuy-van",
+    "link": "https://thuvienphapluat.vn/van-ban/Tai-nguyen-Moi-truong/Thong-tu-07-2016-TT-BTNMT-bo-du-lieu-chuan-du-lieu-xay-dung-quan-ly-co-so-du-lieu-khi-tuong-thuy-van-314214.aspx",
+    "issuing_agency": "BỘ TÀI NGUYÊN VÀ MÔI TRƯỜNG",
+    "national_header": "CỘNG\r\n\n  HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM",
+    "motto": "Độc lập - Tự do - Hạnh phúc",
+    "document_number": "07/2016/TT-BTNMT",
+    "issued_place": "Hà Nội",
+    "issued_date": "ngày 16 tháng 05\r\n\n  năm 2016",
+    "document_type": "THÔNG TƯ",
+    "title": "QUY ĐỊNH CÁC BỘ DỮ LIỆU, CHUẨN DỮ LIỆU VÀ XÂY DỰNG, QUẢN LÝ CƠ SỞ DỮ LIỆU KHÍ TƯỢNG THỦY VĂN QUỐC GIA"
+  },
+  "administrative_header": {
+    "removed": true,
+    "removed_char_count": 169
+  },
+  "preamble": {
+    "text": "THÔNG TƯ\nQUY ĐỊNH CÁC BỘ DỮ LIỆU, CHUẨN DỮ LIỆU VÀ XÂY DỰNG, QUẢN LÝ CƠ SỞ DỮ LIỆU\nKHÍ TƯỢNG THỦY VĂN QUỐC GIA\nCăn cứ Luật khí tượng thủy văn ngày 23 tháng 11 năm 2015; Căn cứ Nghị định số 21/2013/NĐ-CP ngày 04 tháng 3 năm 2013 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài nguyên và Môi trường; Theo đề nghị của Cục trưởng Cục Khí tượng Thủy văn và Biến đổi khí hậu và Vụ trưởng Vụ Pháp chế; Bộ trưởng Bộ Tài nguyên và Môi trường ban hành Thông tư quy định các bộ dữ liệu, chuẩn dữ liệu và xây dựng, quản lý cơ sở dữ liệu khí tượng thủy văn quốc gia.\nChương I\nQUY ĐỊNH CHUNG",
+    "legal_bases": [
+      "Căn cứ Nghị định số 21/2013/NĐ-CP ngày 04 tháng 3 năm 2013 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài nguyên và Môi trường"
+    ],
+    "proposals": [
+      "Theo đề nghị của Cục trưởng Cục Khí tượng Thủy văn và Biến đổi khí hậu và Vụ trưởng Vụ Pháp chế"
+    ],
+    "enactment_formula": null
+  },
+  "passage": "THÔNG TƯ\nQUY ĐỊNH CÁC BỘ DỮ LIỆU, CHUẨN DỮ LIỆU VÀ XÂY DỰNG, QUẢN LÝ CƠ SỞ DỮ LIỆU\nKHÍ TƯỢNG THỦY VĂN QUỐC GIA\nCăn cứ Luật khí tượng thủy văn ngày 23 tháng 11 năm 2015; Căn cứ Nghị định số 21/2013/NĐ-CP ngày 04 tháng 3 năm 2013 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài nguyên và Môi trường; Theo đề nghị của Cục trưởng Cục Khí tượng Thủy văn và Biến đổi khí hậu và Vụ trưởng Vụ Pháp chế; Bộ trưởng Bộ Tài nguyên và Môi trường ban hành Thông tư quy định các bộ dữ liệu, chuẩn dữ liệu và xây dựng, quản lý cơ sở dữ liệu khí tượng thủy văn quốc gia.\nChương I\nQUY ĐỊNH CHUNG\nĐiều 1. Phạm vi Điều chỉnh Thông tư này quy định chi Tiết Khoản 2 Điều 31 Luật khí tượng thủy văn về các bộ dữ liệu, chuẩn dữ liệu và xây dựng, quản lý cơ sở dữ liệu khí tượng thủy văn quốc gia.\nĐiều 2. Đối tượng áp dụng Thông tư này áp dụng đối với cơ quan, tổ chức, cá nhân có hoạt động liên quan đến xây dựng, quản lý cơ sở dữ liệu khí tượng thủy văn quốc gia.\nChương II\nQUY ĐỊNH CHI TIẾT\nMục 1: CÁC BỘ DỮ LIỆU, CHUẨN DỮ\nLIỆU KHÍ TƯỢNG THỦY VĂN\nĐiều 3. Các bộ dữ liệu khí tượng thủy văn Bộ dữ liệu khí tượng thủy văn bao gồm tất cả các thông tin, dữ liệu khí tượng thủy văn quy định tại Điều 29 và thông tin, dữ liệu về giám sát biến đổi khí hậu quy định tại Khoản 2 Điều 34 của Luật khí tượng thủy văn, được sắp xếp thành các bộ sau:\n1. Bộ dữ liệu về quan trắc, Điều tra,\nkhảo sát khí tượng, thủy văn, hải văn, môi trường không khí và nước gồm các thông tin, dữ liệu quy định tại Khoản 1 Điều 29 và Điểm a, Điểm d Khoản 2 Điều 34 của Luật khí tượng thủy văn:\na) Thông tin, dữ liệu về khí tượng gồm\n12 thông số sau: Bức xạ, áp suất khí quyển, gió, bốc hơi, nhiệt độ (không khí, đất), độ ẩm (không khí, đất), mây, mưa, tầm nhìn xa, thời gian nắng, các hiện tượng khí tượng khác theo quy phạm kỹ thuật quan trắc;\nb) Thông tin, dữ liệu về thủy văn gồm\n4 thông số sau: Mực nước, lưu lượng nước, lưu lượng chất lơ lửng, nhiệt độ nước;\nc) Thông tin, dữ liệu về hải văn gồm\n10 thông số sau: Gió bề mặt biển, tầm nhìn xa phía biển, mực nước biển, sóng biển, trạng thái mặt biển, nhiệt độ nước biển, độ muối nước biển, sáng biển, các hiện tượng khí tượng hải văn nguy hiểm (sóng lừng, sóng thần,...), dòng chảy trên biển.\nd) Thông tin, dữ liệu về ô dôn - bức\nxạ cực tím gồm: Tổng lượng ô dôn, cường độ bức xạ cực tím;\nđ) Thông tin, dữ liệu về môi trường\nkhông khí gồm: Thành phần hóa học của nước mưa, các thông số vật lý, các thông số hóa học của môi trường không khí;\ne) Thông tin, dữ liệu về môi trường\nnước gồm: Các thông số vật lý, các thông số hóa học của môi trường nước sông, hồ, biển.\n2. Bộ dữ liệu về dự báo, cảnh báo khí\ntượng thủy văn gồm các thông tin, dữ liệu quy định tại Khoản 2, Khoản 3 và Khoản 4 Điều 29 của Luật khí tượng thủy văn:\na) Bản tin dự báo, cảnh báo khí tượng\nthủy văn;\nb) Sản phẩm của các mô hình dự báo;\nc) Biểu đồ, bản đồ, ảnh thu từ vệ\ntinh;\nd) Thông báo tình hình khí tượng thủy\nvăn;\nđ) Thông tin, dữ liệu thu được từ tổ\nchức quốc tế, tổ chức, cá nhân nước ngoài;\ne) Thông tin, dữ liệu về thiên tai\nkhí tượng thủy văn.\n3. Bộ dữ liệu về hồ sơ kỹ thuật trạm\nvà giấy phép dự báo, cảnh báo khí tượng thủy văn gồm các thông tin, dữ liệu quy định tại Khoản 5, Khoản 6 Điều 29 và Điểm h Khoản 2 Điều 34 của Luật khí tượng thủy văn:\na) Hồ sơ kỹ thuật của các trạm, công\ntrình, phương tiện đo khí tượng thủy văn;\nb) Hồ sơ cấp, gia hạn, đình chỉ, thu\nhồi giấy phép hoạt động dự báo, cảnh báo khí tượng thủy văn;\nc) Hồ sơ kỹ thuật của các trạm giám\nsát biến đổi khí hậu.\n4. Bộ dữ liệu về biến đổi khí hậu gồm\ncác thông tin, dữ liệu quy định tại Điểm b, Điểm c, Điểm đ, Điểm e và Điểm g Khoản 2 Điều 34 của Luật khí tượng thủy văn:\na) Bộ chuẩn khí hậu quốc gia;\nb) Kết quả đánh giá khí hậu quốc gia;\nc) Kịch bản biến\nđổi khí hậu;\nd) Thông tin, dữ liệu về phát thải\nkhí nhà kính và các hoạt động kinh tế - xã hội có liên quan đến phát thải khí nhà kính;\nđ) Thông tin, dữ liệu về tác động của\nthiên tai khí tượng thủy văn và biến đổi khí hậu đến tài nguyên, môi trường, hệ sinh thái, Điều kiện sống và hoạt động kinh tế - xã hội.\n5. Bộ dữ liệu nghiên cứu khoa học,\nchương trình, dự án về khí tượng thủy văn gồm các thông tin, dữ liệu quy định tại Khoản 3, Khoản 7 Điều 29 và Điểm i Khoản 2 Điều 34 của Luật khí tượng thủy văn:\na) Kết quả đề tài nghiên cứu khoa học\ncông nghệ về khí tượng thủy văn, giám sát biến đổi khí hậu;\nb) Chương trình, đề án, dự án về khí\ntượng thủy văn, giám sát biến đổi khí hậu;\nc) Phim, ảnh về đối tượng nghiên cứu\nkhí tượng thủy văn;\nd) Kế hoạch và kết\nquả thực hiện tác động vào thời Tiết.\n6. Bộ dữ liệu văn bản quy phạm pháp\nluật về khí tượng thủy văn gồm các thông tin, dữ liệu quy định tại Khoản 8 Điều 29 và Điểm d, Điểm k Khoản 2 Điều 34 của Luật khí tượng thủy văn:\na) Văn bản quy phạm pháp luật về khí tượng thủy văn, giám sát\nbiến đổi khí hậu;\nb) Tiêu chuẩn,\nquy chuẩn kỹ thuật, định mức kinh tế - kỹ thuật về khí tượng thủy văn, giám sát biến đổi khí hậu;\nc) Quy trình kỹ thuật, hướng dẫn kỹ\nthuật về khí tượng thủy văn, giám sát biến đổi khí hậu;\nd) Thông tin, dữ liệu về hoạt động bảo\nvệ tầng ô-dôn và quản lý các chất làm suy giảm tầng ô-dôn.\nĐiều 4. Chuẩn dữ liệu khí tượng thủy văn\n1. Chuẩn hóa là\nnội dung nhằm giúp cho việc tổ chức dữ liệu trong cơ sở dữ liệu một cách hiệu quả. Mục đích của chuẩn hóa là giảm các dữ liệu dư thừa, bảo đảm độc lập dữ liệu để giảm thiểu không gian sử dụng trong cơ sở dữ liệu và dữ liệu được lưu trữ một cách logic.\n2. Dữ liệu trước khi đưa vào cơ sở dữ liệu khí tượng thủy văn quốc gia phải được kiểm tra, chuẩn hóa theo quy chuẩn kỹ thuật về khí tượng thủy văn và tiêu chuẩn dữ\nliệu quốc tế, quốc gia để đảm bảo việc quản lý và trao đổi, kết nối với các cơ sở dữ liệu khác.\n3. Việc chuẩn\nhóa dữ liệu khí tượng thủy văn thực hiện theo quy trình chi Tiết xây dựng cơ sở dữ liệu tài nguyên và môi trường quy định tại Thông tư số 26/2014/TT-BTNMT ngày 28 tháng 5 năm 2014 của Bộ Tài nguyên và Môi trường ban hành Quy trình và định mức kinh tế - kỹ thuật xây dựng cơ sở dữ liệu tài nguyên và môi trường.\nMục 2: XÂY DỰNG, QUẢN LÝ CƠ SỞ DỮ\nLIỆU KHÍ TƯỢNG THỦY VĂN QUỐC GIA\nĐiều 5. Giao nộp thông tin, dữ liệu khí tượng thủy văn\n1. Cơ quan, tổ chức sử dụng nguồn vốn\nngân sách nhà nước hoặc có nguồn gốc từ ngân sách nhà nước để quan trắc, Điều tra, khảo sát khí tượng thủy văn và các hoạt động khí tượng thủy văn khác có trách nhiệm giao nộp thông tin, dữ liệu khí tượng thủy văn cho cơ sở dữ liệu khí tượng thủy văn quốc gia theo quy định của Luật khí tượng thủy văn và các quy định của pháp luật về khí tượng thủy văn.\n2. Thông tin, dữ liệu khí tượng thủy\nvăn giao nộp phải có nguồn gốc được cơ quan có thẩm quyền phê duyệt hoặc xác nhận tính hợp pháp và giá trị thông tin, dữ liệu.\nĐiều 6. Quản lý thông tin, dữ liệu khí tượng thủy văn\n1. Trung tâm Khí tượng Thủy văn quốc gia thuộc Bộ Tài nguyên và Môi trường quản lý thông tin, dữ liệu\nkhí tượng thủy văn của quốc gia, có trách nhiệm:\na) Thu nhận thông tin, dữ liệu khí tượng\nthủy văn quy định tại Khoản 1 Điều 5 Thông tư này do cơ quan, tổ chức thuộc Bộ Tài nguyên và Môi trường thực hiện;\nb) Thu nhận thông tin, dữ liệu khí tượng\nthủy văn do các Bộ, cơ quan ngang Bộ, cơ quan trực thuộc Chính phủ (sau đây gọi tắt là Bộ, ngành), Ủy ban nhân dân cấp tỉnh cung cấp theo quy định tại Khoản 2, Khoản 3 Điều này;\nc) Lưu trữ, bảo quản và cung cấp\nthông tin, dữ liệu khí tượng thủy văn theo quy định;\nd) Hướng dẫn, kiểm tra về giao nộp,\nthu nhận thông tin, dữ liệu khí tượng thủy văn quy định tại Thông tư này; xây dựng báo cáo thu nhận, lưu trữ, bảo quản thông tin, dữ liệu khí tượng thủy văn do các Bộ, ngành, địa phương, tổ chức, cá nhân cung cấp để phục vụ việc xây dựng cơ sở dữ liệu khí tượng thủy văn quốc gia;\nđ) Hằng năm, rà soát báo cáo Bộ Tài\nnguyên và Môi trường về việc thu nhận, lưu trữ, bảo quản và cung cấp thông tin, dữ liệu khí tượng thủy văn.\n2. Các Bộ, ngành có trách nhiệm:\na) Thu nhận thông tin, dữ liệu khí tượng\nthủy văn quy định tại Khoản 1 Điều 5 Thông tư này do cơ quan, tổ chức thuộc Bộ, ngành thực hiện;\nb) Tổ chức lưu trữ, bảo quản, sử dụng\nvà cung cấp thông tin, dữ liệu khí tượng thủy văn cho cơ sở dữ liệu khí tượng thủy văn quốc gia;\nc) Định kỳ hàng năm gửi báo cáo về\ncông tác thu nhận, lưu trữ, bảo quản và cung cấp thông tin, dữ liệu khí tượng thủy văn cho Bộ Tài nguyên và Môi trường (qua Cục Khí tượng Thủy văn và Biến đổi khí hậu);\nd) Hướng dẫn, kiểm tra việc thực hiện\ncác nội dung quy định tại Điểm a, Điểm b và Điểm c Khoản 2 Điều này;\ne) Thông báo cho Bộ Tài nguyên và Môi\ntrường đầu mối quản lý thông tin, dữ liệu khí tượng thủy văn để phối hợp thực hiện.\n3. Sở Tài nguyên và Môi trường giúp Ủy\nban nhân dân cấp tỉnh có trách nhiệm:\na) Thu nhận thông tin, dữ liệu khí tượng\nthủy văn quy định tại Khoản 1 Điều 5 Thông tư này do cơ quan, tổ chức thuộc Ủy ban nhân dân các cấp trong tỉnh thực hiện;\nb) Tổ chức lưu trữ, bảo quản, sử dụng\nvà cung cấp thông tin, dữ liệu khí tượng thủy văn cho cơ sở dữ liệu khí tượng thủy văn quốc gia;\nc) Định kỳ hàng năm gửi báo cáo về\ncông tác thu nhận, lưu trữ, bảo quản và cung cấp thông tin, dữ liệu khí tượng thủy văn cho Bộ Tài nguyên và Môi trường (thông qua Cục Khí tượng Thủy văn và Biến đổi khí hậu);\nd) Hướng dẫn, kiểm tra việc thực hiện\ncác nội dung quy định tại Điểm a, Điểm b và Điểm c Khoản 3 Điều này.\nĐiều 7. Thu nhận thông tin, dữ liệu khí tượng thủy văn\n1. Cơ quan, tổ chức quy định tại Điểm\nb Khoản 1 Điều 6 của Thông tư này giao nộp thông tin, dữ liệu khí tượng thủy văn (sau đây gọi tắt là bên giao nộp) gửi thông báo giao nộp thông tin, dữ liệu khí tượng thủy văn đến cơ quan quản lý thông tin, dữ liệu khí tượng thủy văn (sau đây gọi tắt là bên thu nhận).\n2. Sau khi nhận được thông báo giao nộp\nthông tin, dữ liệu khí tượng thủy văn, bên thu nhận lập kế hoạch chi Tiết cho việc tiếp nhận và thông báo cho bên giao nộp, kế hoạch bao gồm các nội dung: thời gian, địa Điểm, phương thức giao nhận, kho bảo quản, thiết bị và phương tiện tiếp nhận và các nội dung khác có liên quan.\n3. Bên giao nộp lập hồ sơ giao nộp\nthông tin, dữ liệu khí tượng thủy văn gửi bên thu nhận. Hồ sơ gồm:\na) Một (01) bảng thống kê Danh Mục\nthông tin, dữ liệu khí tượng thủy văn giao nộp theo mẫu quy định tại Phụ lục 01 Thông tư này;\nb) Một (01) báo cáo tóm tắt về thông\ntin, dữ liệu giao nộp theo mẫu quy định tại Phụ lục số 02 Thông tư này đối với đề tài, chương trình, đề án, dự án;\nc) Một (01) bản sao hồ sơ nghiệm thu\ntheo quy định của cơ quan có thẩm quyền (nếu có);\nd) Các loại thông tin, dữ liệu khí tượng\nthủy văn có nguồn gốc được xác nhận chính thức, bản chính tài liệu hoặc sản phẩm cuối cùng của đề tài, chương trình, đề án, dự án.\n4. Bên thu nhận kiểm tra đối soát\ndanh Mục, khối lượng thông tin, dữ liệu và lập Giấy biên nhận giao nộp thông\ntin, dữ liệu khí tượng thủy văn theo mẫu quy định tại Phụ lục số 03 Thông tư này, chuyển cho bên giao nộp.\n5. Bên thu nhận tiến hành kiểm tra\nthông tin, dữ liệu khí tượng thủy văn giao nộp và lập Phiếu ghi ý kiến kiểm tra thông tin, dữ liệu khí tượng thủy văn giao nộp theo mẫu quy định tại Phụ lục 04 Thông tư này. Nội dung kiểm tra thông tin, dữ liệu khí tượng thủy văn giao nộp bao gồm:\na) Kiểm tra tính đầy đủ, hợp lệ của\ncác thông tin, dữ liệu giao nộp theo kết quả đã được cơ quan có thẩm quyền nghiệm thu, phê duyệt, công bố hoặc công nhận, thông qua;\nb) Kiểm tra tính thống nhất của thông\ntin, dữ liệu ở dạng tài liệu in trên giấy với dữ liệu ở dạng điện tử;\nc) Kiểm tra về hình thức, quy cách\ncác loại dữ liệu giao nộp. Trường hợp thông tin, dữ liệu giao nộp chưa đạt yêu cầu theo quy định, Phiếu ghi ý kiến kiểm tra thông tin, dữ liệu khí tượng thủy văn giao nộp phải nêu rõ các yêu cầu sửa chữa, hoàn thiện. Trường hợp không thống nhất giữa bên giao nộp và bên thu nhận, cơ quan thu nhận thông tin, dữ liệu khí tượng thủy văn có trách nhiệm báo cáo cơ quan có thẩm quyền để xem xét, giải quyết.\n6. Trong thời hạn tối đa (10) mười\nngày làm việc, kể từ ngày thu nhận thông tin, dữ liệu khí tượng thủy văn, bên thu nhận hoàn thành việc kiểm tra theo nội dung kiểm tra quy định tại Khoản 5 Điều này và cấp Giấy xác nhận giao nộp thông tin, dữ liệu khí tượng thủy văn cho cơ quan, tổ chức, cá nhân đã giao nộp thông tin, dữ liệu. Trường hợp không cấp Giấy xác nhận, cơ quan thu nhận dữ liệu có văn bản trả lời và nêu rõ lý do. Mẫu Giấy xác nhận giao nộp thông tin, dữ liệu khí tượng thủy văn theo mẫu quy định tại Phụ lục số 05 Thông tư này.\nĐiều 8. Trách nhiệm và quyền hạn của tổ chức, cá nhân giao nộp thông tin, dữ liệu khí tượng thủy văn\n1. Cơ quan, tổ chức quy định tại Điểm\nb Khoản 1 Điều 6 của Thông tư này giao nộp thông tin, dữ liệu khí tượng thủy văn được cấp Giấy xác nhận giao nộp thông tin, dữ liệu khí tượng thủy văn. Giấy xác nhận giao nộp thông tin, dữ liệu khí tượng thủy văn có giá trị để xác định việc hoàn thành nhiệm vụ có liên quan đến lĩnh vực khí tượng thủy văn sử dụng nguồn ngân sách quy định tại Khoản 1 Điều 5 Thông tư này.\n2. Thông báo kịp thời cho cơ quan quản\nlý thông tin, dữ liệu khí tượng thủy văn về những sai sót của thông tin, dữ liệu đã giao nộp.\nĐiều 9. Xây dựng, cập nhật cơ sở dữ liệu khí tượng thủy văn quốc gia\n1. Cơ sở dữ liệu khí tượng thủy văn\nquốc gia được xây dựng thống nhất, đồng bộ trên cơ sở thu nhận, tạo lập, tích hợp thông tin, dữ liệu từ kết quả quan trắc, Điều tra, khảo sát từ mạng lưới trạm khí tượng thủy văn quốc gia, các trạm khí tượng thủy văn chuyên dùng trong phạm vi cả nước và các nguồn thông tin, dữ liệu khí tượng thủy văn khác quy định tại\nĐiều 3 của Thông tư này.\n2. Cơ sở dữ liệu khí tượng thủy văn\nquốc gia được kết nối và chia sẻ dữ liệu với các cơ sở dữ liệu quốc gia khác và cơ sở dữ liệu của các Bộ, ngành, địa phương có liên quan đến hoạt động khí tượng thủy văn.\n3. Dữ liệu trước khi được cập nhật\nvào cơ sở dữ liệu phải được kiểm tra, đánh giá chất lượng và được xử lý theo quy định. Tùy theo loại dữ liệu, hình thức, đặc Điểm, tính chất của dữ liệu, mức độ xử lý và cấp độ phổ biến của dữ liệu để cập nhật vào cơ sở dữ liệu bảo đảm tính hợp lý, khoa học, chính xác và yêu cầu về bảo mật, an toàn dữ liệu.\n4. Trung tâm Khí tượng Thủy văn quốc\ngia giúp Bộ Tài nguyên và Môi trường xây dựng cơ sở dữ liệu khí tượng thủy văn quốc gia, có trách nhiệm:\na) Tập hợp thống\nnhất toàn bộ thông tin, dữ liệu khí tượng thủy văn của cơ quan, tổ chức thuộc Bộ Tài nguyên và Môi trường và các Bộ, ngành, địa phương trên phạm vi toàn quốc;\nb) Tổ chức cập nhật, quản lý thông\ntin, dữ liệu về khí tượng thủy văn.\nĐiều 10. Quản lý cơ sở dữ liệu khí tượng thủy văn quốc gia\n1. Nội dung quản lý cơ sở dữ liệu khí\ntượng thủy văn quốc gia\na) Xây dựng, cập nhật, khai thác cơ sở\ndữ liệu khí tượng thủy văn quốc gia và thực hiện dịch vụ công trực tuyến trong lĩnh vực khí tượng thủy văn;\nb) Tích hợp kết quả quan trắc, Điều\ntra, khảo sát và các thông tin, dữ liệu có liên quan đến khí tượng thủy văn, giám sát biến đổi khí hậu do các Bộ, ngành, địa phương có liên quan cung cấp;\nc) Xây dựng, trình ban hành quy định\nvề phân quyền truy cập vào cơ sở dữ liệu khí tượng thủy văn quốc gia; quản lý việc kết nối, chia sẻ và cung cấp dữ liệu với cơ sở dữ liệu của các Bộ, ngành và địa phương.\n2. Trung tâm Khí tượng Thủy văn quốc\ngia có trách nhiệm giúp Bộ Tài nguyên và Môi trường tổ chức quản lý, vận hành và khai khác cơ sở dữ liệu khí tượng thủy văn quốc gia.\nĐiều 11. Khai thác, sử dụng cơ sở dữ liệu khí tượng thủy văn quốc gia và tích hợp, trao đổi dữ liệu với cơ sở dữ liệu của Bộ, ngành, địa phương Việc khai thác, sử dụng và tích hợp, trao đổi dữ liệu từ cơ sở dữ liệu khí tượng thủy văn quốc gia với cơ sở dữ liệu khí tượng thủy văn của các Bộ, ngành, địa phương thực hiện theo quy định tại Điều 32 của Luật khí tượng thủy văn và các quy định của pháp luật về khí tượng thủy văn.\nĐiều 12. Cơ sở dữ liệu khí tượng thủy văn của Bộ, ngành, địa phương\n1. Các Bộ, ngành căn cứ vào cơ sở dữ\nliệu khí tượng thủy văn quốc gia quy định tại Thông tư này và nhu cầu khai thác sử dụng, xây dựng cơ sở dữ liệu khí tượng thủy văn thuộc phạm vi quản lý phù hợp với chức năng, nhiệm vụ được giao.\n2. Ủy ban nhân dân các tỉnh, thành phố\ntrực thuộc Trung ương căn cứ vào cơ sở dữ liệu khí tượng thủy văn quốc gia quy định tại Thông tư này và quy định tại Điểm i Khoản 1 Điều 53 của Luật khí tượng thủy văn tổ chức xây dựng cơ sở dữ liệu khí tượng thủy văn thuộc phạm vi quản lý.\n3. Cơ sở dữ liệu khí tượng thủy văn của\nBộ, ngành, địa phương xây dựng phải bảo đảm tính thống nhất và trao đổi được với cơ sở dữ liệu khí tượng thủy văn quốc gia.\nChương III\nĐIỀU KHOẢN THI HÀNH\nĐiều 13. Hiệu lực thi hành Thông tư này có hiệu lực thi hành kể từ ngày 01 tháng 7 năm 2016.\nĐiều 14. Trách nhiệm thi hành\n1. Bộ trưởng, Thủ trưởng cơ quan\nngang Bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương và cơ quan, tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này.\n2. Cục trưởng Cục Khí tượng Thủy văn\nvà Biến đổi khí hậu có trách nhiệm giúp Bộ trưởng Bộ Tài nguyên và Môi trường hướng dẫn, đôn đốc, kiểm tra việc thực hiện Thông tư này.\n3. Trong quá trình thực hiện, nếu có\nkhó khăn, vướng mắc, đề nghị các cơ quan, tổ chức, cá nhân phản ánh về Bộ Tài nguyên và Môi trường để xem xét, giải quyết./.\nNơi nhận:\n- Thủ tướng\nvà các Phó Thủ tướng Chính phủ;\n- Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ;\n- VP Quốc hội, VP Chủ tịch nước, VP Trung ương Đảng;\n- Tòa án Nhân dân tối cao, Viện Kiểm sát nhân dân tối cao;\n- Cục Kiểm tra văn bản QPPL (Bộ\nTư pháp);\n- UBND, Sở TNMT các tỉnh, thành phố trực thuộc TW;\n- Công báo; Cổng Thông tin điện tử Chính phủ;\n- Website Bộ Tài nguyên và Môi trường;\n- Lưu: VT, PC, KTTVBĐKH. C(200).\nKT. BỘ TRƯỞNG\nTHỨ TRƯỞNG\nChu Phạm Ngọc Hiển\nPHỤ LỤC 01\nBẢNG THỐNG KÊ DANH MỤC THÔNG TIN, DỮ LIỆU KHÍ TƯỢNG\nTHỦY VĂN GIAO NỘP\n(Ban hành kèm theo Thông tư số 07/2016/TT-BTNMT\nngày 16 tháng 5 năm 2016 của Bộ trưởng Bộ Tài nguyên và Môi trường)\nBẢNG\nTHỐNG KÊ DANH MỤC THÔNG TIN, DỮ LIỆU KHÍ TƯỢNG THỦY VĂN GIAO NỘP\n(Kèm theo Giấy xác nhận giao nộp thông tin, dữ liệu khí tượng thủy văn vào Tên cơ quan thu nhận thông tin, dữ liệu khí tượng thủy văn số ……, ngày tháng năm 20...)\nSTT\nTên dữ liệu Loai dữ liệu (dạng giấy, dạng số) Đơn vị tính Số lượng Ghi chú 1 Báo cáo Giấy Trang 2 Bản đồ Giấy Mảnh 3 Cơ sở dữ liệu Số\nCSDL\n4 Đĩa CD-ROM (bộ đĩa) Số Chiếc … … ... … … Tổng cộng: Ghi chú: Cơ quan thu nhận thông tin, dữ liệu khí tượng thủy văn đóng dấu treo Văn bản này.\nPHỤ LỤC 02\nBÁO CÁO TÓM TẮT VỀ THÔNG TIN, DỮ LIỆU GIAO NỘP ĐỐI\nVỚI ĐỀ TÀI, CHƯƠNG TRÌNH, ĐỀ ÁN, DỰ ÁN KHÍ TƯỢNG THỦY VĂN\n(Ban hành kèm theo Thông tư số 07/2016/TT-BTNMT\nngày 16 tháng 5 năm 2016 của Bộ trưởng Bộ Tài nguyên và Môi trường)\nĐƠN VỊ\n-------\nCỘNG\nHÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc --------------- Số: ………….. ………., ngày … tháng … năm …\nBÁO\nCÁO TÓM TẮT VỀ THÔNG TIN, DỮ LIỆU GIAO NỘP ĐỐI VỚI ĐỀ TÀI, CHƯƠNG TRÌNH, ĐỀ ÁN, DỰ ÁN\nKHÍ TƯỢNG THỦY VĂN\nCấu trúc của báo cáo tóm tắt được trình bày theo trình tự sau đây:\n1. Tên Đề tài/Chương trình/Đề án/Dự\nán;\n2. Số Quyết định phê duyệt và ngày\ntháng phê duyệt;\n3. Tên cơ quan chủ trì và cá nhân chủ\ntrì thực hiện Đề tài/Chương trình/Đề án/Dự án;\n4. Tên cơ quan và cá nhân phối hợp thực\nhiện Đề tài/Chương trình/Đề án/Dự án;\n5. Thời gian thực hiện (thời gian và\nsố năm thực hiện);\n6. Mục tiêu;\n7. Nội dung chính và phương pháp\nnghiên cứu: Nêu từng nội dung Đề tài/Chương trình/Đề án/Dự án đã giải quyết và thực hiện theo yêu cầu của thuyết minh đã được phê duyệt. Nêu rõ cách tiếp cận vấn đề nghiên cứu, thiết kế nghiên cứu, phương pháp nghiên cứu, kỹ thuật sẽ sử dụng gắn với từng nội dung chính của Đề tài/Chương trình/Đề án/Dự án đã thực hiện để giải quyết các nội dung chính của Đề tài/Chương trình/Đề án/Dự án\n8. Sản phẩm;\n9. Kết luận và kiến nghị:\nBáo cáo tóm tắt không quá 03 trang được in trên khổ giấy A4 (210mm x 297mm), cỡ chữ 13, Font chữ: Times New Roman, Khoảng cách giữa các dòng là 1.5 dòng.\nPHỤ LỤC 03\nGIẤY BIÊN NHẬN GIAO NỘP THÔNG TIN, DỮ\nLIỆU KHÍ TƯỢNG THỦY VĂN\n(Ban hành kèm theo Thông tư số 07/2016/TT-BTNMT\nngày 16 tháng 5 năm 2016 của Bộ trưởng Bộ Tài nguyên và Môi trường)\nĐƠN VỊ\n-------\nCỘNG\nHÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc --------------- Số: ………/BN-……… ………., ngày … tháng … năm …\nGIẤY\nBIÊN NHẬN GIAO NỘP THÔNG TIN, DỮ LIỆU KHÍ TƯỢNG THỦY\nVĂN BÊN NHẬN:...................................................................................................................\n- Đại diện:....................................................................................................................... - Chức vụ:....................................................................................................................... - Địa chỉ:......................................................................................................................... - Điện thoại: ……………………….. Fax:.........................................................................\nBÊN GIAO:.....................................................................................................................\n- Đại diện:....................................................................................................................... - Chức vụ:....................................................................................................................... - Địa chỉ:......................................................................................................................... - Điện thoại: …………………………………………… Fax:.............................................. ………………………………………….. đã nhận các loại thông tin, dữ liệu khí tượng thủy văn: + Từ nguồn quan trắc, Điều tra, khảo sát:...................................................................... + Từ đề tài/chương trình/đề án/dự án: “………….……” được phê duyệt nội dung và dự toán kinh phí theo Quyết định số: ………, ngày ... tháng ... năm … + Nguồn khác:................................................................................................................... Để kiểm tra kỹ thuật trước khi chuyển vào kho lưu trữ gồm các thông tin, dữ liệu theo thống kê trong bảng sau:\nSTT\nTên thông tin, dữ liệu Loại thông tin, dữ liệu (dạng giấy, dạng số) Đơn vị tính Số lượng Ghi chú 1 2 … Biên nhận này được làm thành hai (02) bản, mỗi bên giữ một (01) bản./. Bên giao (Ký, ghi rõ họ tên) Bên nhận (Ký, ghi rõ họ tên)\nPHỤ LỤC 04\nPHIẾU KIỂM TRA THÔNG TIN, DỮ LIỆU KHÍ\nTƯỢNG THỦY VĂN GIAO NỘP\n(Ban hành kèm theo Thông tư số 07/2016/TT-BTNMT\nngày 16 tháng 5 năm 2016 của Bộ trưởng Bộ Tài nguyên và Môi trường)\nĐƠN VỊ\n-------\nCỘNG\nHÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc --------------- Số: ……./KT-……. ……….., ngày … tháng … năm … Phiếu ghi ý kiến kiểm tra thông tin, dữ liệu khí tượng thủy văn giao nộp\n(LẦN KIỂM TRA: ..…..)\nCăn cứ vào Giấy biên nhận giao nộp thông tin, dữ liệu khí tượng thủy văn số: ……., ngày ... tháng ... năm …, …………………. đã tiến hành kiểm tra thể thức, kỹ thuật và quy cách của các thông tin, dữ liệu khí tượng thủy văn giao nộp của đề tài/chương trình/đề án/dự án: “…………..….” của đơn vị: …………….. tiến hành giao nộp. Kết quả kiểm tra được thống kê ở bảng sau:\nSTT\nTên thông tin, dữ liệu Loại thông tin, dữ liệu (dạng giấy, dạng số) Đơn vị, số lượng Ý kiến kiểm tra Ghi chú 1 2 … Kết luận:\n1. Các vấn đề chung cần chỉnh sửa,\nhoàn thiện thông tin, dữ liệu khí tượng thủy văn để giao nộp: .... .........................................................................................................................................\n2. Đã đạt / Không đạt yêu cầu kỹ thuật\nđể chuyển vào kho dữ liệu khí tượng thủy văn: ………. ......................................................................................................................................... Xác nhận của Lãnh đạo (Ký và ghi rõ họ tên) Người kiểm tra (Ký và ghi rõ họ tên)\nPHỤ LỤC 05\nGIẤY XÁC NHẬN GIAO NỘP THÔNG TIN, DỮ LIỆU KHÍ TƯỢNG\nTHỦY VĂN\n(Ban hành kèm theo Thông tư số 07/2016/TT-BTNMT ngày 16 tháng 5 năm 2016 của Bộ\ntrưởng Bộ Tài nguyên và Môi trường)\nCƠ QUAN, TỔ CHỨC\n-------\nCỘNG\nHÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc --------------- Số: …………. ……., ngày … tháng … năm …\nGIẤY\nXÁC NHẬN GIAO NỘP THÔNG TIN, DỮ LIỆU KHÍ TƯỢNG THỦY VĂN\nCăn cứ vào Phiếu kiểm tra số: …………, ngày ... tháng ... năm … (Tên cơ quan thu nhận thông tin, dữ liệu khí tượng thủy văn) chứng nhận: Bộ dữ liệu khí tượng thủy văn: - Từ nguồn (quan trắc, Điều tra, khảo sát và các nguồn khác): ...................................... ......................................................................................................................................... - Hoặc là sản phẩm của đề tài/chương trình/đề án/dự án: (Tên Đề tài/Chương trình/Đề án/Dự án viết đúng theo Quyết định phê duyệt) Do (tên đơn vị ………..) thực hiện, (Họ, tên).... chủ trì thực hiện, được phê duyệt theo hồ sơ (quyết định) số ……/ ngày … tháng .... năm 20.... của ……………, đã nộp vào (Tên cơ quan thu nhận thông tin, dữ liệu khí tượng thủy văn). Người nộp: Họ và tên người nộp, chức vụ Người nhận: Họ và tên người nhận, chức vụ Bộ dữ liệu khí tượng thủy văn ký hiệu lưu trữ (ký hiệu báo cáo/số bảo quản) gồm những thông tin, dữ liệu như bảng thống kê đi kèm. Giấy chứng nhận được thành lập thành 04 bộ: (Tên cơ quan thu nhận thông tin, dữ liệu khí tượng thủy văn) giữ 02 bộ, đơn vị nộp thông tin, dữ liệu khí tượng thủy văn giữ 02 bộ. Người nộp Ký và ghi rõ họ tên Người nhận Ký và ghi rõ họ tên Đại diện phòng/ban thu nhận dữ liệu Ký và ghi rõ họ tên Thủ trưởng đơn vị thu nhận dữ liệu Ký và ghi rõ họ tên, đóng dấu",
+  "tree": {
+    "parts": [
+      {
+        "part_id": "doc:100881:part:1",
+        "part_type": "main",
+        "part_title": null,
+        "reference": null,
+        "direct_text": "THÔNG TƯ\nQUY ĐỊNH CÁC BỘ DỮ LIỆU, CHUẨN DỮ LIỆU VÀ XÂY DỰNG, QUẢN LÝ CƠ SỞ DỮ LIỆU\nKHÍ TƯỢNG THỦY VĂN QUỐC GIA\nCăn cứ Luật khí tượng thủy văn ngày 23 tháng 11 năm 2015; Căn cứ Nghị định số 21/2013/NĐ-CP ngày 04 tháng 3 năm 2013 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài nguyên và Môi trường; Theo đề nghị của Cục trưởng Cục Khí tượng Thủy văn và Biến đổi khí hậu và Vụ trưởng Vụ Pháp chế; Bộ trưởng Bộ Tài nguyên và Môi trường ban hành Thông tư quy định các bộ dữ liệu, chuẩn dữ liệu và xây dựng, quản lý cơ sở dữ liệu khí tượng thủy văn quốc gia.\ndanh Mục, khối lượng thông tin, dữ liệu và lập Giấy biên nhận giao nộp thông\ntin, dữ liệu khí tượng thủy văn theo mẫu quy định tại Phụ lục số 03 Thông tư này, chuyển cho bên giao nộp.\n5. Bên thu nhận tiến hành kiểm tra\nthông tin, dữ liệu khí tượng thủy văn giao nộp và lập Phiếu ghi ý kiến kiểm tra thông tin, dữ liệu khí tượng thủy văn giao nộp theo mẫu quy định tại Phụ lục 04 Thông tư này. Nội dung kiểm tra thông tin, dữ liệu khí tượng thủy văn giao nộp bao gồm:\na) Kiểm tra tính đầy đủ, hợp lệ của\ncác thông tin, dữ liệu giao nộp theo kết quả đã được cơ quan có thẩm quyền nghiệm thu, phê duyệt, công bố hoặc công nhận, thông qua;\nb) Kiểm tra tính thống nhất của thông\ntin, dữ liệu ở dạng tài liệu in trên giấy với dữ liệu ở dạng điện tử;\nc) Kiểm tra về hình thức, quy cách\ncác loại dữ liệu giao nộp. Trường hợp thông tin, dữ liệu giao nộp chưa đạt yêu cầu theo quy định, Phiếu ghi ý kiến kiểm tra thông tin, dữ liệu khí tượng thủy văn giao nộp phải nêu rõ các yêu cầu sửa chữa, hoàn thiện. Trường hợp không thống nhất giữa bên giao nộp và bên thu nhận, cơ quan thu nhận thông tin, dữ liệu khí tượng thủy văn có trách nhiệm báo cáo cơ quan có thẩm quyền để xem xét, giải quyết.\n6. Trong thời hạn tối đa (10) mười\nngày làm việc, kể từ ngày thu nhận thông tin, dữ liệu khí tượng thủy văn, bên thu nhận hoàn thành việc kiểm tra theo nội dung kiểm tra quy định tại Khoản 5 Điều này và cấp Giấy xác nhận giao nộp thông tin, dữ liệu khí tượng thủy văn cho cơ quan, tổ chức, cá nhân đã giao nộp thông tin, dữ liệu. Trường hợp không cấp Giấy xác nhận, cơ quan thu nhận dữ liệu có văn bản trả lời và nêu rõ lý do. Mẫu Giấy xác nhận giao nộp thông tin, dữ liệu khí tượng thủy văn theo mẫu quy định tại Phụ lục số 05 Thông tư này.",
+        "chapters": [
+          {
+            "chapter_id": "doc:100881:part:1:chapter:1",
+            "number": "I",
+            "title": "QUY ĐỊNH CHUNG",
+            "content": "Chương I\nQUY ĐỊNH CHUNG",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:100881:part:1:article:1",
+                "number": "1",
+                "title": "Phạm vi Điều chỉnh Thông tư này quy định chi Tiết Khoản 2 Điều 31 Luật khí tượng thủy văn về các bộ dữ liệu, chuẩn dữ liệu và xây dựng, quản lý cơ sở dữ liệu khí tượng thủy văn quốc gia.",
+                "content": "Điều 1. Phạm vi Điều chỉnh Thông tư này quy định chi Tiết Khoản 2 Điều 31 Luật khí tượng thủy văn về các bộ dữ liệu, chuẩn dữ liệu và xây dựng, quản lý cơ sở dữ liệu khí tượng thủy văn quốc gia.",
+                "clauses": [],
+                "points": []
+              },
+              {
+                "article_id": "doc:100881:part:1:article:2",
+                "number": "2",
+                "title": "Đối tượng áp dụng Thông tư này áp dụng đối với cơ quan, tổ chức, cá nhân có hoạt động liên quan đến xây dựng, quản lý cơ sở dữ liệu khí tượng thủy văn quốc gia.",
+                "content": "Điều 2. Đối tượng áp dụng Thông tư này áp dụng đối với cơ quan, tổ chức, cá nhân có hoạt động liên quan đến xây dựng, quản lý cơ sở dữ liệu khí tượng thủy văn quốc gia.",
+                "clauses": [],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:100881:part:1:chapter:2",
+            "number": "II",
+            "title": "QUY ĐỊNH CHI TIẾT",
+            "content": "Chương II\nQUY ĐỊNH CHI TIẾT",
+            "sections": [
+              {
+                "section_id": "doc:100881:part:1:section:1",
+                "number": "1",
+                "title": "LIỆU KHÍ TƯỢNG THỦY VĂN",
+                "content": "Mục 1: CÁC BỘ DỮ LIỆU, CHUẨN DỮ\nLIỆU KHÍ TƯỢNG THỦY VĂN",
+                "articles": [
+                  {
+                    "article_id": "doc:100881:part:1:article:3",
+                    "number": "3",
+                    "title": "Các bộ dữ liệu khí tượng thủy văn Bộ dữ liệu khí tượng thủy văn bao gồm tất cả các thông tin, dữ liệu khí tượng thủy văn quy định tại Điều 29 và thông tin, dữ liệu về giám sát biến đổi khí hậu quy định tại Khoản 2 Điều 34 của Luật khí tượng thủy văn, được sắp xếp thành các bộ sau:",
+                    "content": "Điều 3. Các bộ dữ liệu khí tượng thủy văn Bộ dữ liệu khí tượng thủy văn bao gồm tất cả các thông tin, dữ liệu khí tượng thủy văn quy định tại Điều 29 và thông tin, dữ liệu về giám sát biến đổi khí hậu quy định tại Khoản 2 Điều 34 của Luật khí tượng thủy văn, được sắp xếp thành các bộ sau:\n1. Bộ dữ liệu về quan trắc, Điều tra,\nkhảo sát khí tượng, thủy văn, hải văn, môi trường không khí và nước gồm các thông tin, dữ liệu quy định tại Khoản 1 Điều 29 và Điểm a, Điểm d Khoản 2 Điều 34 của Luật khí tượng thủy văn:\na) Thông tin, dữ liệu về khí tượng gồm\n12 thông số sau: Bức xạ, áp suất khí quyển, gió, bốc hơi, nhiệt độ (không khí, đất), độ ẩm (không khí, đất), mây, mưa, tầm nhìn xa, thời gian nắng, các hiện tượng khí tượng khác theo quy phạm kỹ thuật quan trắc;\nb) Thông tin, dữ liệu về thủy văn gồm\n4 thông số sau: Mực nước, lưu lượng nước, lưu lượng chất lơ lửng, nhiệt độ nước;\nc) Thông tin, dữ liệu về hải văn gồm\n10 thông số sau: Gió bề mặt biển, tầm nhìn xa phía biển, mực nước biển, sóng biển, trạng thái mặt biển, nhiệt độ nước biển, độ muối nước biển, sáng biển, các hiện tượng khí tượng hải văn nguy hiểm (sóng lừng, sóng thần,...), dòng chảy trên biển.\nd) Thông tin, dữ liệu về ô dôn - bức\nxạ cực tím gồm: Tổng lượng ô dôn, cường độ bức xạ cực tím;\nđ) Thông tin, dữ liệu về môi trường\nkhông khí gồm: Thành phần hóa học của nước mưa, các thông số vật lý, các thông số hóa học của môi trường không khí;\ne) Thông tin, dữ liệu về môi trường\nnước gồm: Các thông số vật lý, các thông số hóa học của môi trường nước sông, hồ, biển.\n2. Bộ dữ liệu về dự báo, cảnh báo khí\ntượng thủy văn gồm các thông tin, dữ liệu quy định tại Khoản 2, Khoản 3 và Khoản 4 Điều 29 của Luật khí tượng thủy văn:\na) Bản tin dự báo, cảnh báo khí tượng\nthủy văn;\nb) Sản phẩm của các mô hình dự báo;\nc) Biểu đồ, bản đồ, ảnh thu từ vệ\ntinh;\nd) Thông báo tình hình khí tượng thủy\nvăn;\nđ) Thông tin, dữ liệu thu được từ tổ\nchức quốc tế, tổ chức, cá nhân nước ngoài;\ne) Thông tin, dữ liệu về thiên tai\nkhí tượng thủy văn.\n3. Bộ dữ liệu về hồ sơ kỹ thuật trạm\nvà giấy phép dự báo, cảnh báo khí tượng thủy văn gồm các thông tin, dữ liệu quy định tại Khoản 5, Khoản 6 Điều 29 và Điểm h Khoản 2 Điều 34 của Luật khí tượng thủy văn:\na) Hồ sơ kỹ thuật của các trạm, công\ntrình, phương tiện đo khí tượng thủy văn;\nb) Hồ sơ cấp, gia hạn, đình chỉ, thu\nhồi giấy phép hoạt động dự báo, cảnh báo khí tượng thủy văn;\nc) Hồ sơ kỹ thuật của các trạm giám\nsát biến đổi khí hậu.\n4. Bộ dữ liệu về biến đổi khí hậu gồm\ncác thông tin, dữ liệu quy định tại Điểm b, Điểm c, Điểm đ, Điểm e và Điểm g Khoản 2 Điều 34 của Luật khí tượng thủy văn:\na) Bộ chuẩn khí hậu quốc gia;\nb) Kết quả đánh giá khí hậu quốc gia;\nc) Kịch bản biến\nđổi khí hậu;\nd) Thông tin, dữ liệu về phát thải\nkhí nhà kính và các hoạt động kinh tế - xã hội có liên quan đến phát thải khí nhà kính;\nđ) Thông tin, dữ liệu về tác động của\nthiên tai khí tượng thủy văn và biến đổi khí hậu đến tài nguyên, môi trường, hệ sinh thái, Điều kiện sống và hoạt động kinh tế - xã hội.\n5. Bộ dữ liệu nghiên cứu khoa học,\nchương trình, dự án về khí tượng thủy văn gồm các thông tin, dữ liệu quy định tại Khoản 3, Khoản 7 Điều 29 và Điểm i Khoản 2 Điều 34 của Luật khí tượng thủy văn:\na) Kết quả đề tài nghiên cứu khoa học\ncông nghệ về khí tượng thủy văn, giám sát biến đổi khí hậu;\nb) Chương trình, đề án, dự án về khí\ntượng thủy văn, giám sát biến đổi khí hậu;\nc) Phim, ảnh về đối tượng nghiên cứu\nkhí tượng thủy văn;\nd) Kế hoạch và kết\nquả thực hiện tác động vào thời Tiết.\n6. Bộ dữ liệu văn bản quy phạm pháp\nluật về khí tượng thủy văn gồm các thông tin, dữ liệu quy định tại Khoản 8 Điều 29 và Điểm d, Điểm k Khoản 2 Điều 34 của Luật khí tượng thủy văn:\na) Văn bản quy phạm pháp luật về khí tượng thủy văn, giám sát\nbiến đổi khí hậu;\nb) Tiêu chuẩn,\nquy chuẩn kỹ thuật, định mức kinh tế - kỹ thuật về khí tượng thủy văn, giám sát biến đổi khí hậu;\nc) Quy trình kỹ thuật, hướng dẫn kỹ\nthuật về khí tượng thủy văn, giám sát biến đổi khí hậu;\nd) Thông tin, dữ liệu về hoạt động bảo\nvệ tầng ô-dôn và quản lý các chất làm suy giảm tầng ô-dôn.",
+                    "clauses": [],
+                    "points": []
+                  },
+                  {
+                    "article_id": "doc:100881:part:1:article:4",
+                    "number": "4",
+                    "title": "Chuẩn dữ liệu khí tượng thủy văn",
+                    "content": "Điều 4. Chuẩn dữ liệu khí tượng thủy văn",
+                    "clauses": [
+                      {
+                        "clause_id": "doc:100881:part:1:article:4:clause:1",
+                        "number": "1",
+                        "content": "1. Chuẩn hóa là\nnội dung nhằm giúp cho việc tổ chức dữ liệu trong cơ sở dữ liệu một cách hiệu quả. Mục đích của chuẩn hóa là giảm các dữ liệu dư thừa, bảo đảm độc lập dữ liệu để giảm thiểu không gian sử dụng trong cơ sở dữ liệu và dữ liệu được lưu trữ một cách logic.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:100881:part:1:article:4:clause:2",
+                        "number": "2",
+                        "content": "2. Dữ liệu trước khi đưa vào cơ sở dữ liệu khí tượng thủy văn quốc gia phải được kiểm tra, chuẩn hóa theo quy chuẩn kỹ thuật về khí tượng thủy văn và tiêu chuẩn dữ\nliệu quốc tế, quốc gia để đảm bảo việc quản lý và trao đổi, kết nối với các cơ sở dữ liệu khác.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:100881:part:1:article:4:clause:3",
+                        "number": "3",
+                        "content": "3. Việc chuẩn\nhóa dữ liệu khí tượng thủy văn thực hiện theo quy trình chi Tiết xây dựng cơ sở dữ liệu tài nguyên và môi trường quy định tại Thông tư số 26/2014/TT-BTNMT ngày 28 tháng 5 năm 2014 của Bộ Tài nguyên và Môi trường ban hành Quy trình và định mức kinh tế - kỹ thuật xây dựng cơ sở dữ liệu tài nguyên và môi trường.",
+                        "points": []
+                      }
+                    ],
+                    "points": []
+                  }
+                ]
+              },
+              {
+                "section_id": "doc:100881:part:1:section:2",
+                "number": "2",
+                "title": "LIỆU KHÍ TƯỢNG THỦY VĂN QUỐC GIA",
+                "content": "Mục 2: XÂY DỰNG, QUẢN LÝ CƠ SỞ DỮ\nLIỆU KHÍ TƯỢNG THỦY VĂN QUỐC GIA",
+                "articles": [
+                  {
+                    "article_id": "doc:100881:part:1:article:5",
+                    "number": "5",
+                    "title": "Giao nộp thông tin, dữ liệu khí tượng thủy văn",
+                    "content": "Điều 5. Giao nộp thông tin, dữ liệu khí tượng thủy văn",
+                    "clauses": [
+                      {
+                        "clause_id": "doc:100881:part:1:article:5:clause:1",
+                        "number": "1",
+                        "content": "1. Cơ quan, tổ chức sử dụng nguồn vốn\nngân sách nhà nước hoặc có nguồn gốc từ ngân sách nhà nước để quan trắc, Điều tra, khảo sát khí tượng thủy văn và các hoạt động khí tượng thủy văn khác có trách nhiệm giao nộp thông tin, dữ liệu khí tượng thủy văn cho cơ sở dữ liệu khí tượng thủy văn quốc gia theo quy định của Luật khí tượng thủy văn và các quy định của pháp luật về khí tượng thủy văn.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:100881:part:1:article:5:clause:2",
+                        "number": "2",
+                        "content": "2. Thông tin, dữ liệu khí tượng thủy\nvăn giao nộp phải có nguồn gốc được cơ quan có thẩm quyền phê duyệt hoặc xác nhận tính hợp pháp và giá trị thông tin, dữ liệu.",
+                        "points": []
+                      }
+                    ],
+                    "points": []
+                  },
+                  {
+                    "article_id": "doc:100881:part:1:article:6",
+                    "number": "6",
+                    "title": "Quản lý thông tin, dữ liệu khí tượng thủy văn",
+                    "content": "Điều 6. Quản lý thông tin, dữ liệu khí tượng thủy văn",
+                    "clauses": [
+                      {
+                        "clause_id": "doc:100881:part:1:article:6:clause:1",
+                        "number": "1",
+                        "content": "1. Trung tâm Khí tượng Thủy văn quốc gia thuộc Bộ Tài nguyên và Môi trường quản lý thông tin, dữ liệu\nkhí tượng thủy văn của quốc gia, có trách nhiệm:",
+                        "points": [
+                          {
+                            "point_id": "doc:100881:part:1:article:6:clause:1:point:1",
+                            "label": "a",
+                            "content": "a) Thu nhận thông tin, dữ liệu khí tượng\nthủy văn quy định tại Khoản 1 Điều 5 Thông tư này do cơ quan, tổ chức thuộc Bộ Tài nguyên và Môi trường thực hiện;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:100881:part:1:article:6:clause:1:point:2",
+                            "label": "b",
+                            "content": "b) Thu nhận thông tin, dữ liệu khí tượng\nthủy văn do các Bộ, cơ quan ngang Bộ, cơ quan trực thuộc Chính phủ (sau đây gọi tắt là Bộ, ngành), Ủy ban nhân dân cấp tỉnh cung cấp theo quy định tại Khoản 2, Khoản 3 Điều này;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:100881:part:1:article:6:clause:1:point:3",
+                            "label": "c",
+                            "content": "c) Lưu trữ, bảo quản và cung cấp\nthông tin, dữ liệu khí tượng thủy văn theo quy định;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:100881:part:1:article:6:clause:1:point:4",
+                            "label": "d",
+                            "content": "d) Hướng dẫn, kiểm tra về giao nộp,\nthu nhận thông tin, dữ liệu khí tượng thủy văn quy định tại Thông tư này; xây dựng báo cáo thu nhận, lưu trữ, bảo quản thông tin, dữ liệu khí tượng thủy văn do các Bộ, ngành, địa phương, tổ chức, cá nhân cung cấp để phục vụ việc xây dựng cơ sở dữ liệu khí tượng thủy văn quốc gia;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:100881:part:1:article:6:clause:1:point:5",
+                            "label": "đ",
+                            "content": "đ) Hằng năm, rà soát báo cáo Bộ Tài\nnguyên và Môi trường về việc thu nhận, lưu trữ, bảo quản và cung cấp thông tin, dữ liệu khí tượng thủy văn.",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "clause_id": "doc:100881:part:1:article:6:clause:2",
+                        "number": "2",
+                        "content": "2. Các Bộ, ngành có trách nhiệm:",
+                        "points": [
+                          {
+                            "point_id": "doc:100881:part:1:article:6:clause:2:point:1",
+                            "label": "a",
+                            "content": "a) Thu nhận thông tin, dữ liệu khí tượng\nthủy văn quy định tại Khoản 1 Điều 5 Thông tư này do cơ quan, tổ chức thuộc Bộ, ngành thực hiện;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:100881:part:1:article:6:clause:2:point:2",
+                            "label": "b",
+                            "content": "b) Tổ chức lưu trữ, bảo quản, sử dụng\nvà cung cấp thông tin, dữ liệu khí tượng thủy văn cho cơ sở dữ liệu khí tượng thủy văn quốc gia;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:100881:part:1:article:6:clause:2:point:3",
+                            "label": "c",
+                            "content": "c) Định kỳ hàng năm gửi báo cáo về\ncông tác thu nhận, lưu trữ, bảo quản và cung cấp thông tin, dữ liệu khí tượng thủy văn cho Bộ Tài nguyên và Môi trường (qua Cục Khí tượng Thủy văn và Biến đổi khí hậu);",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:100881:part:1:article:6:clause:2:point:4",
+                            "label": "d",
+                            "content": "d) Hướng dẫn, kiểm tra việc thực hiện\ncác nội dung quy định tại Điểm a, Điểm b và Điểm c Khoản 2 Điều này;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:100881:part:1:article:6:clause:2:point:5",
+                            "label": "e",
+                            "content": "e) Thông báo cho Bộ Tài nguyên và Môi\ntrường đầu mối quản lý thông tin, dữ liệu khí tượng thủy văn để phối hợp thực hiện.",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "clause_id": "doc:100881:part:1:article:6:clause:3",
+                        "number": "3",
+                        "content": "3. Sở Tài nguyên và Môi trường giúp Ủy\nban nhân dân cấp tỉnh có trách nhiệm:",
+                        "points": [
+                          {
+                            "point_id": "doc:100881:part:1:article:6:clause:3:point:1",
+                            "label": "a",
+                            "content": "a) Thu nhận thông tin, dữ liệu khí tượng\nthủy văn quy định tại Khoản 1 Điều 5 Thông tư này do cơ quan, tổ chức thuộc Ủy ban nhân dân các cấp trong tỉnh thực hiện;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:100881:part:1:article:6:clause:3:point:2",
+                            "label": "b",
+                            "content": "b) Tổ chức lưu trữ, bảo quản, sử dụng\nvà cung cấp thông tin, dữ liệu khí tượng thủy văn cho cơ sở dữ liệu khí tượng thủy văn quốc gia;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:100881:part:1:article:6:clause:3:point:3",
+                            "label": "c",
+                            "content": "c) Định kỳ hàng năm gửi báo cáo về\ncông tác thu nhận, lưu trữ, bảo quản và cung cấp thông tin, dữ liệu khí tượng thủy văn cho Bộ Tài nguyên và Môi trường (thông qua Cục Khí tượng Thủy văn và Biến đổi khí hậu);",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:100881:part:1:article:6:clause:3:point:4",
+                            "label": "d",
+                            "content": "d) Hướng dẫn, kiểm tra việc thực hiện\ncác nội dung quy định tại Điểm a, Điểm b và Điểm c Khoản 3 Điều này.",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ],
+                    "points": []
+                  },
+                  {
+                    "article_id": "doc:100881:part:1:article:7",
+                    "number": "7",
+                    "title": "Thu nhận thông tin, dữ liệu khí tượng thủy văn",
+                    "content": "Điều 7. Thu nhận thông tin, dữ liệu khí tượng thủy văn",
+                    "clauses": [
+                      {
+                        "clause_id": "doc:100881:part:1:article:7:clause:1",
+                        "number": "1",
+                        "content": "1. Cơ quan, tổ chức quy định tại Điểm\nb Khoản 1 Điều 6 của Thông tư này giao nộp thông tin, dữ liệu khí tượng thủy văn (sau đây gọi tắt là bên giao nộp) gửi thông báo giao nộp thông tin, dữ liệu khí tượng thủy văn đến cơ quan quản lý thông tin, dữ liệu khí tượng thủy văn (sau đây gọi tắt là bên thu nhận).",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:100881:part:1:article:7:clause:2",
+                        "number": "2",
+                        "content": "2. Sau khi nhận được thông báo giao nộp\nthông tin, dữ liệu khí tượng thủy văn, bên thu nhận lập kế hoạch chi Tiết cho việc tiếp nhận và thông báo cho bên giao nộp, kế hoạch bao gồm các nội dung: thời gian, địa Điểm, phương thức giao nhận, kho bảo quản, thiết bị và phương tiện tiếp nhận và các nội dung khác có liên quan.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:100881:part:1:article:7:clause:3",
+                        "number": "3",
+                        "content": "3. Bên giao nộp lập hồ sơ giao nộp\nthông tin, dữ liệu khí tượng thủy văn gửi bên thu nhận. Hồ sơ gồm:",
+                        "points": [
+                          {
+                            "point_id": "doc:100881:part:1:article:7:clause:3:point:1",
+                            "label": "a",
+                            "content": "a) Một (01) bảng thống kê Danh Mục\nthông tin, dữ liệu khí tượng thủy văn giao nộp theo mẫu quy định tại Phụ lục 01 Thông tư này;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:100881:part:1:article:7:clause:3:point:2",
+                            "label": "b",
+                            "content": "b) Một (01) báo cáo tóm tắt về thông\ntin, dữ liệu giao nộp theo mẫu quy định tại Phụ lục số 02 Thông tư này đối với đề tài, chương trình, đề án, dự án;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:100881:part:1:article:7:clause:3:point:3",
+                            "label": "c",
+                            "content": "c) Một (01) bản sao hồ sơ nghiệm thu\ntheo quy định của cơ quan có thẩm quyền (nếu có);",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:100881:part:1:article:7:clause:3:point:4",
+                            "label": "d",
+                            "content": "d) Các loại thông tin, dữ liệu khí tượng\nthủy văn có nguồn gốc được xác nhận chính thức, bản chính tài liệu hoặc sản phẩm cuối cùng của đề tài, chương trình, đề án, dự án.",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "clause_id": "doc:100881:part:1:article:7:clause:4",
+                        "number": "4",
+                        "content": "4. Bên thu nhận kiểm tra đối soát",
+                        "points": []
+                      }
+                    ],
+                    "points": []
+                  },
+                  {
+                    "article_id": "doc:100881:part:1:article:8",
+                    "number": "8",
+                    "title": "Trách nhiệm và quyền hạn của tổ chức, cá nhân giao nộp thông tin, dữ liệu khí tượng thủy văn",
+                    "content": "Điều 8. Trách nhiệm và quyền hạn của tổ chức, cá nhân giao nộp thông tin, dữ liệu khí tượng thủy văn",
+                    "clauses": [
+                      {
+                        "clause_id": "doc:100881:part:1:article:8:clause:1",
+                        "number": "1",
+                        "content": "1. Cơ quan, tổ chức quy định tại Điểm\nb Khoản 1 Điều 6 của Thông tư này giao nộp thông tin, dữ liệu khí tượng thủy văn được cấp Giấy xác nhận giao nộp thông tin, dữ liệu khí tượng thủy văn. Giấy xác nhận giao nộp thông tin, dữ liệu khí tượng thủy văn có giá trị để xác định việc hoàn thành nhiệm vụ có liên quan đến lĩnh vực khí tượng thủy văn sử dụng nguồn ngân sách quy định tại Khoản 1 Điều 5 Thông tư này.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:100881:part:1:article:8:clause:2",
+                        "number": "2",
+                        "content": "2. Thông báo kịp thời cho cơ quan quản\nlý thông tin, dữ liệu khí tượng thủy văn về những sai sót của thông tin, dữ liệu đã giao nộp.",
+                        "points": []
+                      }
+                    ],
+                    "points": []
+                  },
+                  {
+                    "article_id": "doc:100881:part:1:article:9",
+                    "number": "9",
+                    "title": "Xây dựng, cập nhật cơ sở dữ liệu khí tượng thủy văn quốc gia",
+                    "content": "Điều 9. Xây dựng, cập nhật cơ sở dữ liệu khí tượng thủy văn quốc gia",
+                    "clauses": [
+                      {
+                        "clause_id": "doc:100881:part:1:article:9:clause:1",
+                        "number": "1",
+                        "content": "1. Cơ sở dữ liệu khí tượng thủy văn\nquốc gia được xây dựng thống nhất, đồng bộ trên cơ sở thu nhận, tạo lập, tích hợp thông tin, dữ liệu từ kết quả quan trắc, Điều tra, khảo sát từ mạng lưới trạm khí tượng thủy văn quốc gia, các trạm khí tượng thủy văn chuyên dùng trong phạm vi cả nước và các nguồn thông tin, dữ liệu khí tượng thủy văn khác quy định tại",
+                        "points": []
+                      }
+                    ],
+                    "points": []
+                  },
+                  {
+                    "article_id": "doc:100881:part:1:article:10",
+                    "number": "3",
+                    "title": "của Thông tư này.",
+                    "content": "Điều 3 của Thông tư này.",
+                    "clauses": [
+                      {
+                        "clause_id": "doc:100881:part:1:article:10:clause:1",
+                        "number": "2",
+                        "content": "2. Cơ sở dữ liệu khí tượng thủy văn\nquốc gia được kết nối và chia sẻ dữ liệu với các cơ sở dữ liệu quốc gia khác và cơ sở dữ liệu của các Bộ, ngành, địa phương có liên quan đến hoạt động khí tượng thủy văn.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:100881:part:1:article:10:clause:2",
+                        "number": "3",
+                        "content": "3. Dữ liệu trước khi được cập nhật\nvào cơ sở dữ liệu phải được kiểm tra, đánh giá chất lượng và được xử lý theo quy định. Tùy theo loại dữ liệu, hình thức, đặc Điểm, tính chất của dữ liệu, mức độ xử lý và cấp độ phổ biến của dữ liệu để cập nhật vào cơ sở dữ liệu bảo đảm tính hợp lý, khoa học, chính xác và yêu cầu về bảo mật, an toàn dữ liệu.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:100881:part:1:article:10:clause:3",
+                        "number": "4",
+                        "content": "4. Trung tâm Khí tượng Thủy văn quốc\ngia giúp Bộ Tài nguyên và Môi trường xây dựng cơ sở dữ liệu khí tượng thủy văn quốc gia, có trách nhiệm:",
+                        "points": [
+                          {
+                            "point_id": "doc:100881:part:1:article:10:clause:3:point:1",
+                            "label": "a",
+                            "content": "a) Tập hợp thống\nnhất toàn bộ thông tin, dữ liệu khí tượng thủy văn của cơ quan, tổ chức thuộc Bộ Tài nguyên và Môi trường và các Bộ, ngành, địa phương trên phạm vi toàn quốc;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:100881:part:1:article:10:clause:3:point:2",
+                            "label": "b",
+                            "content": "b) Tổ chức cập nhật, quản lý thông\ntin, dữ liệu về khí tượng thủy văn.",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ],
+                    "points": []
+                  },
+                  {
+                    "article_id": "doc:100881:part:1:article:11",
+                    "number": "10",
+                    "title": "Quản lý cơ sở dữ liệu khí tượng thủy văn quốc gia",
+                    "content": "Điều 10. Quản lý cơ sở dữ liệu khí tượng thủy văn quốc gia",
+                    "clauses": [
+                      {
+                        "clause_id": "doc:100881:part:1:article:11:clause:1",
+                        "number": "1",
+                        "content": "1. Nội dung quản lý cơ sở dữ liệu khí\ntượng thủy văn quốc gia",
+                        "points": [
+                          {
+                            "point_id": "doc:100881:part:1:article:11:clause:1:point:1",
+                            "label": "a",
+                            "content": "a) Xây dựng, cập nhật, khai thác cơ sở\ndữ liệu khí tượng thủy văn quốc gia và thực hiện dịch vụ công trực tuyến trong lĩnh vực khí tượng thủy văn;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:100881:part:1:article:11:clause:1:point:2",
+                            "label": "b",
+                            "content": "b) Tích hợp kết quả quan trắc, Điều\ntra, khảo sát và các thông tin, dữ liệu có liên quan đến khí tượng thủy văn, giám sát biến đổi khí hậu do các Bộ, ngành, địa phương có liên quan cung cấp;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:100881:part:1:article:11:clause:1:point:3",
+                            "label": "c",
+                            "content": "c) Xây dựng, trình ban hành quy định\nvề phân quyền truy cập vào cơ sở dữ liệu khí tượng thủy văn quốc gia; quản lý việc kết nối, chia sẻ và cung cấp dữ liệu với cơ sở dữ liệu của các Bộ, ngành và địa phương.",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "clause_id": "doc:100881:part:1:article:11:clause:2",
+                        "number": "2",
+                        "content": "2. Trung tâm Khí tượng Thủy văn quốc\ngia có trách nhiệm giúp Bộ Tài nguyên và Môi trường tổ chức quản lý, vận hành và khai khác cơ sở dữ liệu khí tượng thủy văn quốc gia.",
+                        "points": []
+                      }
+                    ],
+                    "points": []
+                  },
+                  {
+                    "article_id": "doc:100881:part:1:article:12",
+                    "number": "11",
+                    "title": "Khai thác, sử dụng cơ sở dữ liệu khí tượng thủy văn quốc gia và tích hợp, trao đổi dữ liệu với cơ sở dữ liệu của Bộ, ngành, địa phương Việc khai thác, sử dụng và tích hợp, trao đổi dữ liệu từ cơ sở dữ liệu khí tượng thủy văn quốc gia với cơ sở dữ liệu khí tượng thủy văn của các Bộ, ngành, địa phương thực hiện theo quy định tại Điều 32 của Luật khí tượng thủy văn và các quy định của pháp luật về khí tượng thủy văn.",
+                    "content": "Điều 11. Khai thác, sử dụng cơ sở dữ liệu khí tượng thủy văn quốc gia và tích hợp, trao đổi dữ liệu với cơ sở dữ liệu của Bộ, ngành, địa phương Việc khai thác, sử dụng và tích hợp, trao đổi dữ liệu từ cơ sở dữ liệu khí tượng thủy văn quốc gia với cơ sở dữ liệu khí tượng thủy văn của các Bộ, ngành, địa phương thực hiện theo quy định tại Điều 32 của Luật khí tượng thủy văn và các quy định của pháp luật về khí tượng thủy văn.",
+                    "clauses": [],
+                    "points": []
+                  },
+                  {
+                    "article_id": "doc:100881:part:1:article:13",
+                    "number": "12",
+                    "title": "Cơ sở dữ liệu khí tượng thủy văn của Bộ, ngành, địa phương",
+                    "content": "Điều 12. Cơ sở dữ liệu khí tượng thủy văn của Bộ, ngành, địa phương",
+                    "clauses": [
+                      {
+                        "clause_id": "doc:100881:part:1:article:13:clause:1",
+                        "number": "1",
+                        "content": "1. Các Bộ, ngành căn cứ vào cơ sở dữ\nliệu khí tượng thủy văn quốc gia quy định tại Thông tư này và nhu cầu khai thác sử dụng, xây dựng cơ sở dữ liệu khí tượng thủy văn thuộc phạm vi quản lý phù hợp với chức năng, nhiệm vụ được giao.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:100881:part:1:article:13:clause:2",
+                        "number": "2",
+                        "content": "2. Ủy ban nhân dân các tỉnh, thành phố\ntrực thuộc Trung ương căn cứ vào cơ sở dữ liệu khí tượng thủy văn quốc gia quy định tại Thông tư này và quy định tại Điểm i Khoản 1 Điều 53 của Luật khí tượng thủy văn tổ chức xây dựng cơ sở dữ liệu khí tượng thủy văn thuộc phạm vi quản lý.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:100881:part:1:article:13:clause:3",
+                        "number": "3",
+                        "content": "3. Cơ sở dữ liệu khí tượng thủy văn của\nBộ, ngành, địa phương xây dựng phải bảo đảm tính thống nhất và trao đổi được với cơ sở dữ liệu khí tượng thủy văn quốc gia.",
+                        "points": []
+                      }
+                    ],
+                    "points": []
+                  }
+                ]
+              }
+            ],
+            "articles": []
+          },
+          {
+            "chapter_id": "doc:100881:part:1:chapter:3",
+            "number": "III",
+            "title": "ĐIỀU KHOẢN THI HÀNH",
+            "content": "Chương III\nĐIỀU KHOẢN THI HÀNH",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:100881:part:1:article:14",
+                "number": "13",
+                "title": "Hiệu lực thi hành Thông tư này có hiệu lực thi hành kể từ ngày 01 tháng 7 năm 2016.",
+                "content": "Điều 13. Hiệu lực thi hành Thông tư này có hiệu lực thi hành kể từ ngày 01 tháng 7 năm 2016.",
+                "clauses": [],
+                "points": []
+              },
+              {
+                "article_id": "doc:100881:part:1:article:15",
+                "number": "14",
+                "title": "Trách nhiệm thi hành",
+                "content": "Điều 14. Trách nhiệm thi hành",
+                "clauses": [
+                  {
+                    "clause_id": "doc:100881:part:1:article:15:clause:1",
+                    "number": "1",
+                    "content": "1. Bộ trưởng, Thủ trưởng cơ quan\nngang Bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương và cơ quan, tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:100881:part:1:article:15:clause:2",
+                    "number": "2",
+                    "content": "2. Cục trưởng Cục Khí tượng Thủy văn\nvà Biến đổi khí hậu có trách nhiệm giúp Bộ trưởng Bộ Tài nguyên và Môi trường hướng dẫn, đôn đốc, kiểm tra việc thực hiện Thông tư này.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:100881:part:1:article:15:clause:3",
+                    "number": "3",
+                    "content": "3. Trong quá trình thực hiện, nếu có\nkhó khăn, vướng mắc, đề nghị các cơ quan, tổ chức, cá nhân phản ánh về Bộ Tài nguyên và Môi trường để xem xét, giải quyết./.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          }
+        ],
+        "sections": [],
+        "articles": [],
+        "unstructured_blocks": []
+      },
+      {
+        "part_id": "doc:100881:part:2",
+        "part_type": "appendix",
+        "part_title": "PHỤ LỤC 01",
+        "reference": null,
+        "direct_text": null,
+        "chapters": [],
+        "sections": [],
+        "articles": [],
+        "unstructured_blocks": [
+          {
+            "block_id": "doc:100881:part:2:block:1",
+            "content": "PHỤ LỤC 01\nBẢNG THỐNG KÊ DANH MỤC THÔNG TIN, DỮ LIỆU KHÍ TƯỢNG\nTHỦY VĂN GIAO NỘP\n(Ban hành kèm theo Thông tư số 07/2016/TT-BTNMT\nngày 16 tháng 5 năm 2016 của Bộ trưởng Bộ Tài nguyên và Môi trường)\nBẢNG\nTHỐNG KÊ DANH MỤC THÔNG TIN, DỮ LIỆU KHÍ TƯỢNG THỦY VĂN GIAO NỘP\n(Kèm theo Giấy xác nhận giao nộp thông tin, dữ liệu khí tượng thủy văn vào Tên cơ quan thu nhận thông tin, dữ liệu khí tượng thủy văn số ……, ngày tháng năm 20...)\nSTT\nTên dữ liệu Loai dữ liệu (dạng giấy, dạng số) Đơn vị tính Số lượng Ghi chú 1 Báo cáo Giấy Trang 2 Bản đồ Giấy Mảnh 3 Cơ sở dữ liệu Số\nCSDL\n4 Đĩa CD-ROM (bộ đĩa) Số Chiếc … … ... … … Tổng cộng: Ghi chú: Cơ quan thu nhận thông tin, dữ liệu khí tượng thủy văn đóng dấu treo Văn bản này.",
+            "indexable": true
+          }
+        ]
+      },
+      {
+        "part_id": "doc:100881:part:3",
+        "part_type": "appendix",
+        "part_title": "PHỤ LỤC 02",
+        "reference": null,
+        "direct_text": null,
+        "chapters": [],
+        "sections": [],
+        "articles": [],
+        "unstructured_blocks": [
+          {
+            "block_id": "doc:100881:part:3:block:1",
+            "content": "PHỤ LỤC 02\nBÁO CÁO TÓM TẮT VỀ THÔNG TIN, DỮ LIỆU GIAO NỘP ĐỐI\nVỚI ĐỀ TÀI, CHƯƠNG TRÌNH, ĐỀ ÁN, DỰ ÁN KHÍ TƯỢNG THỦY VĂN\n(Ban hành kèm theo Thông tư số 07/2016/TT-BTNMT\nngày 16 tháng 5 năm 2016 của Bộ trưởng Bộ Tài nguyên và Môi trường)\nĐƠN VỊ\n-------\nCỘNG\nHÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc --------------- Số: ………….. ………., ngày … tháng … năm …\nBÁO\nCÁO TÓM TẮT VỀ THÔNG TIN, DỮ LIỆU GIAO NỘP ĐỐI VỚI ĐỀ TÀI, CHƯƠNG TRÌNH, ĐỀ ÁN, DỰ ÁN\nKHÍ TƯỢNG THỦY VĂN\nCấu trúc của báo cáo tóm tắt được trình bày theo trình tự sau đây:\n1. Tên Đề tài/Chương trình/Đề án/Dự\nán;\n2. Số Quyết định phê duyệt và ngày\ntháng phê duyệt;\n3. Tên cơ quan chủ trì và cá nhân chủ\ntrì thực hiện Đề tài/Chương trình/Đề án/Dự án;\n4. Tên cơ quan và cá nhân phối hợp thực\nhiện Đề tài/Chương trình/Đề án/Dự án;\n5. Thời gian thực hiện (thời gian và\nsố năm thực hiện);\n6. Mục tiêu;\n7. Nội dung chính và phương pháp\nnghiên cứu: Nêu từng nội dung Đề tài/Chương trình/Đề án/Dự án đã giải quyết và thực hiện theo yêu cầu của thuyết minh đã được phê duyệt. Nêu rõ cách tiếp cận vấn đề nghiên cứu, thiết kế nghiên cứu, phương pháp nghiên cứu, kỹ thuật sẽ sử dụng gắn với từng nội dung chính của Đề tài/Chương trình/Đề án/Dự án đã thực hiện để giải quyết các nội dung chính của Đề tài/Chương trình/Đề án/Dự án\n8. Sản phẩm;\n9. Kết luận và kiến nghị:\nBáo cáo tóm tắt không quá 03 trang được in trên khổ giấy A4 (210mm x 297mm), cỡ chữ 13, Font chữ: Times New Roman, Khoảng cách giữa các dòng là 1.5 dòng.",
+            "indexable": true
+          }
+        ]
+      },
+      {
+        "part_id": "doc:100881:part:4",
+        "part_type": "appendix",
+        "part_title": "PHỤ LỤC 03",
+        "reference": null,
+        "direct_text": null,
+        "chapters": [],
+        "sections": [],
+        "articles": [],
+        "unstructured_blocks": [
+          {
+            "block_id": "doc:100881:part:4:block:1",
+            "content": "PHỤ LỤC 03\nGIẤY BIÊN NHẬN GIAO NỘP THÔNG TIN, DỮ\nLIỆU KHÍ TƯỢNG THỦY VĂN\n(Ban hành kèm theo Thông tư số 07/2016/TT-BTNMT\nngày 16 tháng 5 năm 2016 của Bộ trưởng Bộ Tài nguyên và Môi trường)\nĐƠN VỊ\n-------\nCỘNG\nHÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc --------------- Số: ………/BN-……… ………., ngày … tháng … năm …\nGIẤY\nBIÊN NHẬN GIAO NỘP THÔNG TIN, DỮ LIỆU KHÍ TƯỢNG THỦY\nVĂN BÊN NHẬN:...................................................................................................................\n- Đại diện:....................................................................................................................... - Chức vụ:....................................................................................................................... - Địa chỉ:......................................................................................................................... - Điện thoại: ……………………….. Fax:.........................................................................\nBÊN GIAO:.....................................................................................................................\n- Đại diện:....................................................................................................................... - Chức vụ:....................................................................................................................... - Địa chỉ:......................................................................................................................... - Điện thoại: …………………………………………… Fax:.............................................. ………………………………………….. đã nhận các loại thông tin, dữ liệu khí tượng thủy văn: + Từ nguồn quan trắc, Điều tra, khảo sát:...................................................................... + Từ đề tài/chương trình/đề án/dự án: “………….……” được phê duyệt nội dung và dự toán kinh phí theo Quyết định số: ………, ngày ... tháng ... năm … + Nguồn khác:................................................................................................................... Để kiểm tra kỹ thuật trước khi chuyển vào kho lưu trữ gồm các thông tin, dữ liệu theo thống kê trong bảng sau:\nSTT\nTên thông tin, dữ liệu Loại thông tin, dữ liệu (dạng giấy, dạng số) Đơn vị tính Số lượng Ghi chú 1 2 … Biên nhận này được làm thành hai (02) bản, mỗi bên giữ một (01) bản./. Bên giao (Ký, ghi rõ họ tên) Bên nhận (Ký, ghi rõ họ tên)",
+            "indexable": true
+          }
+        ]
+      },
+      {
+        "part_id": "doc:100881:part:5",
+        "part_type": "appendix",
+        "part_title": "PHỤ LỤC 04",
+        "reference": null,
+        "direct_text": null,
+        "chapters": [],
+        "sections": [],
+        "articles": [],
+        "unstructured_blocks": [
+          {
+            "block_id": "doc:100881:part:5:block:1",
+            "content": "PHỤ LỤC 04\nPHIẾU KIỂM TRA THÔNG TIN, DỮ LIỆU KHÍ\nTƯỢNG THỦY VĂN GIAO NỘP\n(Ban hành kèm theo Thông tư số 07/2016/TT-BTNMT\nngày 16 tháng 5 năm 2016 của Bộ trưởng Bộ Tài nguyên và Môi trường)\nĐƠN VỊ\n-------\nCỘNG\nHÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc --------------- Số: ……./KT-……. ……….., ngày … tháng … năm … Phiếu ghi ý kiến kiểm tra thông tin, dữ liệu khí tượng thủy văn giao nộp\n(LẦN KIỂM TRA: ..…..)\nCăn cứ vào Giấy biên nhận giao nộp thông tin, dữ liệu khí tượng thủy văn số: ……., ngày ... tháng ... năm …, …………………. đã tiến hành kiểm tra thể thức, kỹ thuật và quy cách của các thông tin, dữ liệu khí tượng thủy văn giao nộp của đề tài/chương trình/đề án/dự án: “…………..….” của đơn vị: …………….. tiến hành giao nộp. Kết quả kiểm tra được thống kê ở bảng sau:\nSTT\nTên thông tin, dữ liệu Loại thông tin, dữ liệu (dạng giấy, dạng số) Đơn vị, số lượng Ý kiến kiểm tra Ghi chú 1 2 … Kết luận:\n1. Các vấn đề chung cần chỉnh sửa,\nhoàn thiện thông tin, dữ liệu khí tượng thủy văn để giao nộp: .... .........................................................................................................................................\n2. Đã đạt / Không đạt yêu cầu kỹ thuật\nđể chuyển vào kho dữ liệu khí tượng thủy văn: ………. ......................................................................................................................................... Xác nhận của Lãnh đạo (Ký và ghi rõ họ tên) Người kiểm tra (Ký và ghi rõ họ tên)",
+            "indexable": true
+          }
+        ]
+      },
+      {
+        "part_id": "doc:100881:part:6",
+        "part_type": "appendix",
+        "part_title": "PHỤ LỤC 05",
+        "reference": null,
+        "direct_text": null,
+        "chapters": [],
+        "sections": [],
+        "articles": [],
+        "unstructured_blocks": [
+          {
+            "block_id": "doc:100881:part:6:block:1",
+            "content": "PHỤ LỤC 05\nGIẤY XÁC NHẬN GIAO NỘP THÔNG TIN, DỮ LIỆU KHÍ TƯỢNG\nTHỦY VĂN\n(Ban hành kèm theo Thông tư số 07/2016/TT-BTNMT ngày 16 tháng 5 năm 2016 của Bộ\ntrưởng Bộ Tài nguyên và Môi trường)\nCƠ QUAN, TỔ CHỨC\n-------\nCỘNG\nHÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc --------------- Số: …………. ……., ngày … tháng … năm …\nGIẤY\nXÁC NHẬN GIAO NỘP THÔNG TIN, DỮ LIỆU KHÍ TƯỢNG THỦY VĂN\nCăn cứ vào Phiếu kiểm tra số: …………, ngày ... tháng ... năm … (Tên cơ quan thu nhận thông tin, dữ liệu khí tượng thủy văn) chứng nhận: Bộ dữ liệu khí tượng thủy văn: - Từ nguồn (quan trắc, Điều tra, khảo sát và các nguồn khác): ...................................... ......................................................................................................................................... - Hoặc là sản phẩm của đề tài/chương trình/đề án/dự án: (Tên Đề tài/Chương trình/Đề án/Dự án viết đúng theo Quyết định phê duyệt) Do (tên đơn vị ………..) thực hiện, (Họ, tên).... chủ trì thực hiện, được phê duyệt theo hồ sơ (quyết định) số ……/ ngày … tháng .... năm 20.... của ……………, đã nộp vào (Tên cơ quan thu nhận thông tin, dữ liệu khí tượng thủy văn). Người nộp: Họ và tên người nộp, chức vụ Người nhận: Họ và tên người nhận, chức vụ Bộ dữ liệu khí tượng thủy văn ký hiệu lưu trữ (ký hiệu báo cáo/số bảo quản) gồm những thông tin, dữ liệu như bảng thống kê đi kèm. Giấy chứng nhận được thành lập thành 04 bộ: (Tên cơ quan thu nhận thông tin, dữ liệu khí tượng thủy văn) giữ 02 bộ, đơn vị nộp thông tin, dữ liệu khí tượng thủy văn giữ 02 bộ. Người nộp Ký và ghi rõ họ tên Người nhận Ký và ghi rõ họ tên Đại diện phòng/ban thu nhận dữ liệu Ký và ghi rõ họ tên Thủ trưởng đơn vị thu nhận dữ liệu Ký và ghi rõ họ tên, đóng dấu",
+            "indexable": true
+          }
+        ]
+      }
+    ]
+  },
+  "issues": [],
+  "status": "ok",
+  "source_hash": "context_100881.json",
+  "stats": {
+    "source_chars": 25519,
+    "passage_chars": 25349,
+    "parts": 6,
+    "chapters": 3,
+    "sections": 2,
+    "articles": 15,
+    "clauses": 26,
+    "points": 23
+  }
+}

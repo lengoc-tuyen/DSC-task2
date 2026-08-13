@@ -1,0 +1,898 @@
+{
+  "schema_version": "2.0",
+  "document_id": 102619,
+  "metadata": {
+    "name": "Quyet-dinh-87-QD-UBCK-huong-dan-giao-dich-ky-quy-chung-khoan-2017-338440",
+    "link": "https://thuvienphapluat.vn/van-ban/Chung-khoan/Quyet-dinh-87-QD-UBCK-huong-dan-giao-dich-ky-quy-chung-khoan-2017-338440.aspx",
+    "issuing_agency": "BỘ TÀI CHÍNH ỦY BAN CHỨNG KHOÁN NHÀ NƯỚC",
+    "national_header": "CỘNG\r\n\n  HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM",
+    "motto": "Độc lập - Tự do - Hạnh phúc",
+    "document_number": "87/QĐ-UBCK",
+    "issued_place": "Hà Nội",
+    "issued_date": "ngày 25 tháng 01 năm 2017",
+    "document_type": "QUYẾT ĐỊNH",
+    "title": "VỀ VIỆC BAN HÀNH QUY CHẾ HƯỚNG DẪN GIAO DỊCH KÝ QUỸ CHỨNG KHOÁN"
+  },
+  "administrative_header": {
+    "removed": true,
+    "removed_char_count": 176
+  },
+  "preamble": {
+    "text": "QUYẾT ĐỊNH\nVỀ VIỆC BAN HÀNH QUY CHẾ HƯỚNG DẪN GIAO DỊCH KÝ QUỸ CHỨNG KHOÁN\nCHỦ TỊCH ỦY BAN CHỨNG KHOÁN NHÀ NƯỚC\nCăn cứ Luật Chứng khoán ngày 29 tháng 6 năm 2006; Căn cứ Luật Chứng khoán sửa đổi, bổ sung một số điều của Luật Chứng khoán ngày 24 tháng 11 năm 2010; Căn cứ Nghị định số 58/2012/NĐ-CP ngày 20 tháng 7 năm 2012 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Chứng khoán và Luật sửa đổi, bổ sung một số điều của Luật Chứng khoán; Căn cứ Nghị định số 60/2015/NĐ-CP ngày 26 tháng 6 năm 2015 của Chính phủ Sửa đổi, bổ sung một số điều của Nghị định 58/2012/NĐ-CP ngày 20 tháng 7 năm 2012 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Chứng khoán và Luật sửa đổi, bổ sung một số điều của Luật Chứng khoán; Căn cứ Nghị định số 86/2016/NĐ-CP ngày 01 tháng 7 năm 2016 của Chính phủ quy định về điều kiện đầu tư, kinh doanh chứng khoán; Căn cứ Quyết định số 48/2015/QĐ-TTg ngày 08 tháng 10 năm 2015 của Thủ tướng Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Ủy ban Chứng khoán Nhà nước; Căn cứ Thông tư số 210/2012/TT-BTC ngày 30 tháng 11 năm 2012 của Bộ trưởng Bộ Tài chính về việc hướng dẫn thành lập và hoạt động công ty chứng khoán và Thông tư số 07/2016/TT-BTC ngày 18/01/2016 của Bộ trưởng Bộ Tài chính sửa đổi, bổ sung một số điều của Thông tư số 210/2012/TT-BTC ngày 30 tháng 11 năm 2012 của Bộ trưởng Bộ Tài chính về việc hướng dẫn thành lập và hoạt động công ty chứng khoán; Căn cứ Thông tư số 203/2015/TT-BTC ngày 21 tháng 12 năm 2015 của Bộ trưởng Bộ Tài chính hướng dẫn về giao dịch chứng khoán; Theo đề nghị của Vụ trưởng Vụ Quản lý kinh doanh chứng khoán,\nQUYẾT ĐỊNH:",
+    "legal_bases": [
+      "Căn cứ Luật Chứng khoán sửa đổi, bổ sung một số điều của Luật Chứng khoán ngày 24 tháng 11 năm 2010",
+      "Căn cứ Nghị định số 58/2012/NĐ-CP ngày 20 tháng 7 năm 2012 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Chứng khoán và Luật sửa đổi, bổ sung một số điều của Luật Chứng khoán",
+      "Căn cứ Nghị định số 60/2015/NĐ-CP ngày 26 tháng 6 năm 2015 của Chính phủ Sửa đổi, bổ sung một số điều của Nghị định 58/2012/NĐ-CP ngày 20 tháng 7 năm 2012 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Chứng khoán và Luật sửa đổi, bổ sung một số điều của Luật Chứng khoán",
+      "Căn cứ Nghị định số 86/2016/NĐ-CP ngày 01 tháng 7 năm 2016 của Chính phủ quy định về điều kiện đầu tư, kinh doanh chứng khoán",
+      "Căn cứ Quyết định số 48/2015/QĐ-TTg ngày 08 tháng 10 năm 2015 của Thủ tướng Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Ủy ban Chứng khoán Nhà nước",
+      "Căn cứ Thông tư số 210/2012/TT-BTC ngày 30 tháng 11 năm 2012 của Bộ trưởng Bộ Tài chính về việc hướng dẫn thành lập và hoạt động công ty chứng khoán và Thông tư số 07/2016/TT-BTC ngày 18/01/2016 của Bộ trưởng Bộ Tài chính sửa đổi, bổ sung một số điều của Thông tư số 210/2012/TT-BTC ngày 30 tháng 11 năm 2012 của Bộ trưởng Bộ Tài chính về việc hướng dẫn thành lập và hoạt động công ty chứng khoán",
+      "Căn cứ Thông tư số 203/2015/TT-BTC ngày 21 tháng 12 năm 2015 của Bộ trưởng Bộ Tài chính hướng dẫn về giao dịch chứng khoán"
+    ],
+    "proposals": [
+      "Theo đề nghị của Vụ trưởng Vụ Quản lý kinh doanh chứng khoán,\nQUYẾT ĐỊNH:"
+    ],
+    "enactment_formula": "QUYẾT ĐỊNH"
+  },
+  "passage": "QUYẾT ĐỊNH\nVỀ VIỆC BAN HÀNH QUY CHẾ HƯỚNG DẪN GIAO DỊCH KÝ QUỸ CHỨNG KHOÁN\nCHỦ TỊCH ỦY BAN CHỨNG KHOÁN NHÀ NƯỚC\nCăn cứ Luật Chứng khoán ngày 29 tháng 6 năm 2006; Căn cứ Luật Chứng khoán sửa đổi, bổ sung một số điều của Luật Chứng khoán ngày 24 tháng 11 năm 2010; Căn cứ Nghị định số 58/2012/NĐ-CP ngày 20 tháng 7 năm 2012 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Chứng khoán và Luật sửa đổi, bổ sung một số điều của Luật Chứng khoán; Căn cứ Nghị định số 60/2015/NĐ-CP ngày 26 tháng 6 năm 2015 của Chính phủ Sửa đổi, bổ sung một số điều của Nghị định 58/2012/NĐ-CP ngày 20 tháng 7 năm 2012 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Chứng khoán và Luật sửa đổi, bổ sung một số điều của Luật Chứng khoán; Căn cứ Nghị định số 86/2016/NĐ-CP ngày 01 tháng 7 năm 2016 của Chính phủ quy định về điều kiện đầu tư, kinh doanh chứng khoán; Căn cứ Quyết định số 48/2015/QĐ-TTg ngày 08 tháng 10 năm 2015 của Thủ tướng Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Ủy ban Chứng khoán Nhà nước; Căn cứ Thông tư số 210/2012/TT-BTC ngày 30 tháng 11 năm 2012 của Bộ trưởng Bộ Tài chính về việc hướng dẫn thành lập và hoạt động công ty chứng khoán và Thông tư số 07/2016/TT-BTC ngày 18/01/2016 của Bộ trưởng Bộ Tài chính sửa đổi, bổ sung một số điều của Thông tư số 210/2012/TT-BTC ngày 30 tháng 11 năm 2012 của Bộ trưởng Bộ Tài chính về việc hướng dẫn thành lập và hoạt động công ty chứng khoán; Căn cứ Thông tư số 203/2015/TT-BTC ngày 21 tháng 12 năm 2015 của Bộ trưởng Bộ Tài chính hướng dẫn về giao dịch chứng khoán; Theo đề nghị của Vụ trưởng Vụ Quản lý kinh doanh chứng khoán,\nQUYẾT ĐỊNH:\nĐiều 1. Ban hành kèm theo Quyết định này Quy chế hướng dẫn giao dịch ký quỹ chứng khoán.\nĐiều 2. Quyết định này có hiệu lực thi hành kể từ ngày 01/4/2017 và thay thế Quyết định số 637/QĐ-UBCK ngày 30 tháng 8 năm 2011 về việc ban hành Quy chế hướng dẫn giao dịch ký quỹ chứng khoán và Quyết định số 09/QĐ-UBCK ngày 08 tháng 01 năm 2013 về việc sửa đổi Quy chế hướng dẫn giao dịch ký quỹ chứng khoán.\nĐiều 3. Chánh Văn phòng, Vụ trưởng Vụ Quản lý kinh doanh chứng khoán, Tổng Giám đốc Sở giao dịch chứng khoán Thành phố Hồ Chí Minh, Tổng giám đốc Sở giao dịch chứng khoán Hà Nội, Tổng giám đốc Trung tâm Lưu ký Chứng khoán Việt Nam, Tổng Giám đốc (Giám đốc) các công ty chứng khoán và các bên liên quan chịu trách nhiệm thi hành Quyết định này.\nNơi nhận:\n- Như Điều 3 (để thực hiện);\n- Lãnh đạo BTC (để báo cáo);\n- Lãnh đạo UBCK (để biết);\n- Các đơn vị thuộc UBCK (để phối hợp);\n- Lưu: VT, QLKD, (90b).\nCHỦ TỊCH\nVũ Bằng\nQUY CHẾ\nHƯỚNG DẪN GIAO DỊCH KÝ QUỸ CHỨNG KHOÁN\n(Ban hành kèm theo Quyết định số\n/QĐ-UBCK ngày tháng năm 2017của Chủ tịch Ủy ban Chứng khoán Nhà nước)\nChương I\nQUY ĐỊNH CHUNG\nĐiều 1. Phạm vi điều chỉnh và đối tượng áp dụng\n1. Quy chế này hướng dẫn việc thực hiện\ngiao dịch ký quỹ chứng khoán.\n2. Quy chế này áp dụng đối với các\ncông ty chứng khoán, nhà đầu tư thực hiện giao dịch ký quỹ và các tổ chức, cá nhân có liên quan trong hoạt động giao dịch ký quỹ chứng khoán.\nĐiều 2. Giải thích từ ngữ\n1. Chứng khoán được phép giao dịch\nký quỹ là chứng khoán đáp ứng các điều kiện theo quy định tại Quy chế này.\n2. Tài khoản giao dịch thông thường\nlà tài khoản của khách hàng mở tại công ty chứng khoán để giao dịch chứng khoán nhưng không sử dụng tiền vay của công ty chứng khoán.\n3. Dư nợ ký quỹ của khách hàng\ntrên tài khoản giao dịch ký quỹ là tổng số tiền khách hàng nợ công ty chứng khoán (DB).\n4. Giá trị của chứng khoán\n(v): là giá trị do công ty chứng khoán xác định trên Hợp đồng mở tài khoản giao dịch ký quỹ ký với khách hàng nhưng không vượt quá giá đóng cửa tại ngày gần nhất của chứng khoán đó.\n5. Tổng tài sản trên tài khoản\ngiao dịch ký quỹ (EB) bao gồm tiền, tiền bán chứng khoán đang chờ về (CB) cộng với giá trị chứng khoán được phép giao dịch ký quỹ trên tài khoản giao dịch ký quỹ (PV). (EB = CB + PV).\n6. Tài sản thực có trên tài\nkhoản giao dịch ký quỹ của khách hàng (AB) bằng tổng giá trị tài sản trên tài khoản giao dịch ký quỹ trừ đi dư nợ ký quỹ của khách hàng (AB=EB-DB).\n7. Tỷ lệ ký\nquỹ là tỷ lệ giữa giá trị tài sản thực có so với tổng tài sản trên tài khoản giao dịch ký quỹ.\n8. Tỷ lệ ký quỹ ban đầu (imr)\nlà tỷ lệ giá trị tài sản thực có so với giá trị chứng khoán dự kiến mua được bằng lệnh giao dịch ký quỹ tính theo giá thị trường tại thời điểm giao dịch.\n9. Tỷ lệ ký quỹ duy trì (mmr)\nlà tỷ lệ tối thiểu giữa tài sản thực có so với giá trị tổng tài sản trên tài khoản giao dịch ký quỹ.\n10. Giá trị ký quỹ yêu cầu\n(MR) bằng giá trị chứng khoán nhân với tỷ lệ ký quỹ ban đầu (MR.\n11. Giá trị dư ký quỹ (EE) là\nhiệu số giữa tài sản thực có trên tài khoản giao dịch ký quỹ và giá trị ký quỹ yêu cầu (EE .\n12. Sức mua (BP) là tỷ lệ giữa\ngiá trị dư ký quỹ với tỷ lệ ký quỹ ban đầu ().\n13. Sở giao dịch chứng khoán\nlà Sở giao dịch chứng khoán Thành phố Hồ Chí Minh, Sở giao dịch chứng khoán Hà Nội.\nChương II\nCHỨNG KHOÁN ĐƯỢC\nPHÉP GIAO DỊCH MUA KÝ QUỸ\nĐiều 3. Chứng khoán được giao dịch ký quỹ Chứng khoán đủ tiêu chuẩn giao dịch ký quỹ bao gồm: cổ phiếu, chứng chỉ quỹ niêm yết tại Sở giao dịch chứng khoán và không thuộc các trường hợp sau:\n1. Chứng khoán có thời gian niêm yết\nchưa đủ 06 tháng tính từ ngày giao dịch đầu tiên đến thời điểm xem xét, lựa chọn để được giao dịch ký quỹ. Trường hợp chứng khoán chuyển sàn niêm yết, thời gian niêm yết được tính là tổng thời gian đã niêm yết tại hai Sở giao dịch chứng khoán;\n2. Chứng khoán niêm yết trong tình trạng\nbị cảnh báo, bị kiểm soát, bị kiểm soát đặc biệt, bị tạm ngừng giao dịch, trong diện bị hủy niêm yết theo quy định có liên quan về niêm yết chứng khoán;\n3. Chứng khoán của tổ chức phát hành\ncó báo cáo tài chính năm được kiểm toán hoặc báo cáo tài chính bán niên được soát xét hoặc được kiểm toán có ý kiến không phải là ý kiến chấp nhận toàn phần của tổ chức kiểm toán;\n4. Tổ chức niêm yết chậm công bố\nthông tin báo cáo tài chính năm đã kiểm toán, báo cáo tài chính bán niên đã soát xét quá 05 ngày làm việc kể từ ngày hết hạn công bố thông tin hoặc hết thời gian gia hạn công bố thông tin theo quy định;\n5. Công ty niêm yết\nnhận được kết luận của cơ quan thuế về việc công ty vi phạm pháp luật thuế;\n6. Kết quả kinh doanh của tổ chức\nniêm yết có lỗ tại kỳ xem xét và/hoặc lỗ lũy kế căn cứ trên báo cáo tài chính năm gần nhất đã kiểm toán hoặc báo cáo tài chính bán niên gần nhất được soát xét hoặc được kiểm toán. Trường hợp tổ chức niêm yết là công ty mẹ, kết quả kinh doanh được căn cứ trên báo cáo tài chính hợp nhất; Trường hợp tổ chức niêm yết là quỹ đầu tư đại chúng có tối thiểu một tháng có giá trị tài sản ròng (NAV) tính trên một đơn vị chứng chỉ quỹ nhỏ hơn mệnh giá căn cứ trên báo cáo thay đổi giá trị tài sản ròng hàng tháng xét trong 03 tháng liên tiếp tính đến thời điểm được lựa chọn để giao dịch ký quỹ.\nĐiều 4. Lựa chọn và công bố danh sách chứng khoán được phép giao dịch ký quỹ\n1. Trong thời hạn 02 ngày làm việc kể\ntừ ngày phát sinh trường hợp nêu tại Điều 3 Quy chế này, Sở giao dịch chứng khoán có trách nhiệm công bố danh sách chứng khoán không đủ điều kiện giao dịch ký quỹ. Nội dung công bố tối thiểu bao gồm tất cả các chứng khoán không đủ điều kiện giao dịch ký quỹ tính đến thời điểm công bố. Trừ trường hợp nêu tại khoản 1 Điều 3 Quy chế này, tối thiểu 06 tháng/lần tính từ thời điểm Sở giao dịch chứng khoán công bố danh mục chứng khoán không được phép giao dịch ký quỹ gần nhất, Sở giao dịch chứng khoán được phép xem xét đưa chứng khoán ra khỏi danh mục chứng khoán không được phép giao dịch ký quỹ. Thời gian cụ thể do Sở giao dịch chứng khoán quyết định.\n2. Trên cơ sở danh sách chứng khoán\nkhông đủ điều kiện giao dịch ký quỹ do Sở giao dịch chứng khoán công bố theo quy định tại khoản 1 Điều này, công ty chứng khoán lựa chọn danh sách chứng khoán được phép giao dịch ký quỹ. Trong thời hạn 02 ngày làm việc kể từ ngày Sở giao dịch chứng khoán công bố danh sách chứng khoán không được phép giao dịch ký quỹ theo quy định tại khoản 1 Điều này, công ty chứng khoán có trách nhiệm công bố công khai danh sách tất cả chứng khoán mà công ty thực hiện giao dịch ký quỹ tính đến thời điểm công bố trên website và các địa điểm kinh doanh của công ty chứng khoán.\n3. Sở giao dịch chứng khoán có trách\nnhiệm giám sát danh sách chứng khoán được giao dịch ký quỹ mà công ty chứng khoán công bố theo quy định tại Quy chế này.\nChương III\nQUY ĐỊNH VỀ KÝ\nQUỸ, THẾ CHẤP TÀI SẢN VÀ XỬ LÝ TÀI SẢN THẾ CHẤP\nĐiều 5. Tỷ lệ ký quỹ ban đầu, tỷ lệ ký quỹ duy trì\n1. Tỷ lệ ký quỹ ban đầu do công ty chứng\nkhoán quy định nhưng không được thấp hơn 50%.\n2. Tỷ lệ ký quỹ duy trì do công ty chứng\nkhoán quy định nhưng không được thấp hơn 30%.\n3. Căn cứ vào tình hình hoạt động thị\ntrường chứng khoán, Uỷ ban Chứng khoán Nhà nước có thể điều chỉnh tỷ lệ ký quỹ quy định tại khoản 1, 2 Điều này.\nĐiều 6. Xác định tỷ lệ ký quỹ\n1. Vào cuối ngày giao dịch, công ty\nchứng khoán phải xác định tỷ lệ ký quỹ của từng tài khoản giao dịch ký quỹ với giá trị của chứng khoán được xác định theo quy định tại khoản 4 Điều 2 Quy chế này.\n2. Thời điểm cụ thể để xác định tỷ lệ\nký quỹ của tài khoản giao dịch ký quỹ do công ty chứng khoán thỏa thuận bằng văn bản với khách hàng trên cơ sở đảm bảo quy định tại khoản 1 Điều này.\nĐiều 7. Lệnh gọi yêu cầu ký quỹ bổ sung\n1. Khách hàng có nghĩa vụ đảm bảo tỷ\nlệ ký quỹ không thấp hơn tỷ lệ ký quỹ duy trì. Trường hợp tỷ lệ ký quỹ trên tài khoản giao dịch ký quỹ của khách hàng giảm xuống thấp hơn tỷ lệ ký quỹ duy trì, công ty chứng khoán phát hành lệnh gọi ký quỹ bổ sung gửi tới khách hàng theo các phương thức liên hệ được thoả thuận trong Hợp đồng mở tài khoản giao dịch ký quỹ. Khách hàng có nghĩa vụ bổ sung tài sản thế chấp trong thời hạn theo yêu cầu của công ty chứng khoán nhưng không quá ba (03) ngày làm việc. Thời hạn cụ thể do công ty chứng khoán và khách hàng thỏa thuận trên cơ sở Hợp đồng mở tài khoản giao dịch ký quỹ.\n2. Kể từ khi nhận được lệnh gọi ký quỹ\nbổ sung, khách hàng phải bán chứng khoán hoặc thực hiện việc bổ sung tiền hoặc bổ sung tài sản thế chấp để tối thiểu đảm bảo tỷ lệ ký quỹ duy trì, mức cụ thể do công ty chứng khoán quy định và giá trị bổ sung tài sản thế chấp, bổ sung tiền được thực hiện như sau:\na) Bổ sung tài sản thế chấp bằng chứng\nkhoán, giá trị chứng khoán ký quỹ bổ sung được tính theo công thức sau:\nb) Trường hợp bổ sung tiền, số tiền bổ\nsung được xác định theo công thức sau:\nĐiều 8. Xử lý tài sản thế chấp\n1. Công ty chứng khoán có quyền bán\nchứng khoán thế chấp trên tài khoản giao dịch ký quỹ của khách hàng khi khách hàng không bổ sung hoặc bổ sung không đầy đủ tài sản thế chấp trong thời hạn theo lệnh gọi ký quỹ bổ sung.\na) Trường hợp khách hàng không bổ\nsung hoặc chỉ bổ sung một phần tài sản thế chấp, tùy thuộc vào giá trị tài sản thế chấp cần bổ sung còn lại nhỏ hơn hoặc lớn hơn tổng giá trị chứng khoán có trên tài khoản giao dịch ký quỹ, công ty chứng khoán được thực hiện bán một phần hoặc toàn bộ số chứng khoán thế chấp;\nb) Trước khi thực hiện lệnh bán chứng\nkhoán thế chấp, công ty chứng khoán có trách nhiệm thông báo cho khách hàng và sau khi bán, công ty chứng khoán có trách nhiệm gửi cho khách hàng bảng sao kê kết quả giao dịch bán chứng khoán thế chấp theo phương thức được thỏa thuận bằng văn bản giữa công ty chứng khoán và khách hàng.\n2. Trường hợp công ty chứng khoán bán\ntoàn bộ chứng khoán có trên tài khoản giao dịch ký quỹ theo yêu cầu của khách hàng hoặc khi thực hiện lệnh gọi ký quỹ bổ sung, khách hàng chỉ được rút phần tiền còn lại (nếu có) từ số tiền bán chứng khoán trên tài khoản giao dịch ký quỹ sau khi đã khấu trừ dư nợ ký quỹ.\n3. Trường hợp tổng tài sản trên tài\nkhoản giao dịch ký quỹ của khách hàng sau khi bán chứng khoán thế chấp không đủ bù đắp dư nợ ký quỹ và khách hàng không thực hiện việc thanh toán phần nợ vay còn lại theo thỏa thuận tại Hợp đồng mở tài khoản giao dịch ký quỹ, công ty chứng khoán thực hiện việc thu hồi nợ theo phương thức thỏa thuận trong Hợp đồng mở tài khoản giao dịch ký quỹ và theo quy định pháp luật.\nChương IV\nHẠN MỨC, HẠN CHẾ,\nLÃI SUẤT VÀ THỜI HẠN CHO VAY GIAO DỊCH KÝ QUỸ\nĐiều 9. Hạn mức cho vay giao dịch ký quỹ Công ty chứng khoán phải tuân thủ các hạn mức cho vay giao dịch ký quỹ quy định tại Điều này. Khoản mục vốn chủ sở hữu của công ty chứng khoán nêu tại Điều này được xác định theo báo cáo tài chính kiểm toán hoặc báo cáo tài chính được soát xét gần nhất nhưng không quá 06 tháng kể từ thời điểm tính toán. Trường hợp công ty chứng khoán được điều chỉnh tăng vốn điều lệ giữa hai kỳ báo cáo kiểm toán và soát xét, khoản mục vốn chủ sở hữu được xác định trong trường hợp này là tại báo cáo tài chính được lập tại kỳ gần nhất.\n1. Tổng dư nợ cho vay giao dịch ký quỹ\ncủa một công ty chứng khoán không được vượt quá 200% vốn chủ sở hữu của công ty chứng khoán.\n2. Tổng mức cho vay giao dịch ký quỹ\ncủa công ty chứng khoán đối với một khách hàng không được vượt quá 3% vốn chủ sở hữu của công ty chứng khoán.\n3. Tổng dư nợ cho vay giao dịch ký quỹ\ncủa một công ty chứng khoán đối với một loại chứng khoán không được vượt quá 10% vốn chủ sở hữu của công ty chứng khoán.\n4. Tổng số chứng khoán cho vay giao dịch\nký quỹ của một công ty chứng khoán không được vượt quá 5% tổng số chứng khoán niêm yết của một tổ chức niêm yết.\nĐiều 10. Hạn chế giao dịch ký quỹ\n1. Công ty chứng khoán không được cho\nkhách hàng vay tiền để thực hiện giao dịch ký quỹ trong các trường hợp sau:\na) Đối với cổ phiếu, chứng chỉ quỹ do\nchính công ty chứng khoán bảo lãnh phát hành theo hình thức cam kết chắc chắn kể từ thời điểm công ty chứng khoán ký hợp đồng bảo lãnh đến hết sáu (06) tháng tính từ khi hoàn tất đợt phát hành;\nb) Đối với cổ phiếu của công ty niêm\nyết sở hữu từ 50% trở lên vốn điều lệ của công ty chứng khoán và đối với cổ phiếu của công ty niêm yết, cổ phiếu của công ty đăng ký giao dịch do công ty chứng khoán sở hữu từ 50% trở lên vốn điều lệ;\nc) Đối với cổ phiếu của chính công ty\nchứng khoán phát hành;\nd) Khi khách hàng không bảo đảm tỷ lệ\nký quỹ theo quy định tại Hợp đồng mở tài khoản giao dịch ký quỹ và các quy định tại Quy chế này;\nđ) Khách hàng là nhà đầu tư nước\nngoài;\ne) Khi khách hàng là những đối tượng\nđược quy định tại khoản 4 Điều 13 Quy chế này.\n2. Trường hợp chứng khoán không còn nằm\ntrong danh sách chứng khoán được phép giao dịch ký quỹ, công ty chứng khoán không được thực hiện cho vay mới đối với các chứng khoán này và không được tính chứng khoán này làm tài sản thực có của khách hàng trên tài khoản giao dịch ký quỹ nhưng vẫn được coi chứng khoán này làm tài sản bảo đảm cho khoản vay giao dịch ký quỹ trừ khi có thỏa thuận khác với khách hàng.\nĐiều 11. Thời hạn, lãi suất, cách tính tiền lãi vay cho vay giao dịch ký quỹ\n1. Thời hạn khoản vay giao dịch ký quỹ\ndo công ty chứng khoán và khách hàng thỏa thuận trong Hợp đồng mở tài khoản giao dịch ký quỹ nhưng không quá ba (03) tháng tính từ ngày thực hiện giải ngân khoản vay.\n2. Công ty chứng khoán có thể tiếp tục\ngia hạn thời hạn cho vay trên cơ sở văn bản đề nghị của khách hàng. Thời gian gia hạn mỗi lần không quá ba (03) tháng.\n3. Lãi suất cho vay giao dịch ký quỹ\nđược xác định trên cơ sở thỏa thuận bằng văn bản giữa công ty chứng khoán và khách hàng và theo quy định của Bộ Luật Dân sự.\n4. Cách tính tiền lãi vay được xác định\ntrên cơ sở thỏa thuận bằng văn bản giữa công ty chứng khoán và khách hàng.\nChương V\nTRÁCH NHIỆM QUẢN\nLÝ TÀI KHOẢN GIAO DỊCH KÝ QUỸ\nĐiều 12. Hợp đồng mở tài khoản giao dịch ký quỹ\n1. Hợp đồng mở tài khoản giao dịch ký\nquỹ đồng thời là hợp đồng tín dụng cho các khoản vay trên tài khoản giao dịch ký quỹ.\n2. Nội dung Hợp đồng mở tài khoản\ngiao dịch ký quỹ do công ty chứng khoán và khách hàng thoả thuận nhưng tối thiểu phải bao gồm các nội dung chính sau:\na) Thông tin về khách hàng như: họ và\ntên, ngày tháng năm sinh, số chứng minh nhân dân (thẻ căn cước công dân)/tên doanh nghiệp, số giấy chứng nhận đăng ký kinh doanh, ngày cấp, nơi cấp, địa chỉ liên lạc, thư điện tử, fax (nếu có), số điện thoại liên hệ;\nb) Mục đích vay: mua chứng khoán ký\nquỹ;\nc) Tỷ lệ ký quỹ ban đầu; cách xác định\ngiá trị chứng khoán thế chấp;\nd) Tỷ lệ ký quỹ duy trì;\nđ) Thời hạn và phương thức thanh toán\ntheo lệnh yêu cầu bổ sung thế chấp;\ne) Hạn mức cho vay;\ng) Lãi suất cho vay;\nh) Thời hạn hợp đồng, thời điểm hợp đồng\ncó hiệu lực và thời điểm bắt đầu tính lãi cho vay;\ni) Phương thức liên hệ với khách hàng\nđể thực hiện lệnh gọi ký quỹ bổ sung, thực hiện lệnh bán giải chấp, gửi sao kê tài khoản giao dịch ký quỹ; Phương thức xử lý tài sản thế chấp trên tài khoản giao dịch ký quỹ của khách hàng khi khách hàng không thực hiện đúng hợp đồng và thứ tự ưu tiên sử dụng tiền bán chứng khoán thế chấp của khách hàng;\nk) Phương thức xử lý trong trường hợp\ncông ty chứng khoán không được phép giao dịch ký quỹ;\nl) Quy định bảo vệ quyền lợi của các\nbên ký hợp đồng;\nm) Phương thức giải quyết khi có\ntranh chấp phát sinh;\nn) Phương thức thanh lý hợp đồng;\no) Cam kết của khách hàng về việc đã\nđược công ty chứng khoán giải thích rõ về các rủi ro phát sinh khi thực hiện giao dịch trên tài khoản giao dịch ký quỹ.\nĐiều 13. Trách nhiệm quản lý tài khoản giao dịch ký quỹ\n1. Công ty chứng khoán phải tìm hiểu,\ncập nhật thông tin về khách hàng mở tài khoản giao dịch ký quỹ để xác định khách hàng là người nội bộ và là người có liên quan đến người nội bộ nhằm đảm bảo tuân thủ quy định có liên quan về công bố thông tin. Trường hợp khách hàng không cung cấp thông tin theo yêu cầu của công ty chứng khoán, công ty chứng khoán được miễn trừ trách nhiệm liên quan đến quy định này.\n2. Công ty chứng khoán phải xây dựng\nhệ thống, phần mềm giao dịch để quản lý tài khoản giao dịch ký quỹ theo nguyên tắc quy định tại khoản 5 Điều 9 Thông tư số 203/2015/TT-BTC và Quy chế này.\n3. Trừ trường hợp được khách hàng đồng\ný và tuân thủ quy định pháp luật có liên quan, công ty chứng khoán không được sử dụng chứng khoán trên tài khoản ký quỹ của khách hàng để làm tài sản thế chấp cho bất kỳ quan hệ nào ngoài quan hệ là tài sản thế chấp cho giao dịch ký quỹ giữa công ty chứng khoán và khách hàng.\n4. Tài khoản giao dịch ký quỹ không\nđược mở cho các đối tượng dưới đây:\na) Là những đối tượng sau trong công\nty chứng khoán: chủ sở hữu, cổ đông lớn, thành viên góp vốn, thành viên Hội đồng quản trị/Hội đồng thành viên, Ban kiểm soát, Tổng Giám đốc (Giám đốc), Phó Tổng Giám đốc (Phó Giám đốc), kế toán trưởng, các chức danh khác do Hội đồng quản trị/Hội đồng thành viên/Chủ sở hữu công ty chứng khoán bổ nhiệm và những người có liên quan đến các đối tượng trên;\nb) Là pháp nhân đang trong tình trạng\ngiải thể, phá sản theo các quy định của pháp luật hiện hành;\nc) Các đối tượng vi phạm hợp đồng mở\ntài khoản giao dịch chứng khoán ký quỹ theo quy định của công ty chứng khoán.\n5. Nguyên tắc quản lý tài khoản giao\ndịch ký quỹ:\na) Tài khoản giao dịch ký quỹ phải được\nquản lý tách biệt với tài khoản giao dịch thông thường theo quy định tại khoản 5 Điều 9 Thông tư 203/2015/TT-BTC;\nb) Khách hàng chỉ được sử dụng tiền,\nchứng khoán được phép giao dịch ký quỹ và các quyền liên quan đến chứng khoán này để làm tài sản đảm bảo cho các khoản vay để thực hiện giao dịch ký quỹ; chứng khoán khác được dùng làm tài sản đảm bảo cho khoản vay giao dịch ký quỹ khi có thỏa thuận bằng văn bản với khách hàng; tiền, chứng khoán và các quyền liên quan đến chứng khoán trên tài khoản giao dịch ký quỹ là tài sản của khách hàng;\nc) Khách hàng phải thanh toán tiền\nlãi trên khoản dư nợ ký quỹ theo các hình thức cụ thể được thỏa thuận trong Hợp đồng mở tài khoản giao dịch ký quỹ; khách hàng được quyền rút tiền trên tài khoản giao dịch ký quỹ sau khi thanh toán hết các khoản nợ với công ty chứng khoán;\nd) Công ty chứng khoán không được cho\nkhách hàng thực hiện giao dịch ký quỹ, rút tiền vượt quá sức mua hiện có trên tài khoản giao dịch ký quỹ của khách hàng;\nđ) Công ty chứng khoán có trách nhiệm\nthông báo kịp thời, đầy đủ cho khách hàng về những quyền lợi phát sinh liên quan đến chứng khoán trong tài khoản giao dịch ký quỹ của khách hàng; gửi cho khách hàng bảng sao kê tài khoản giao dịch ký quỹ theo phương thức và thời gian được thỏa thuận bằng văn bản với khách hàng;\ne) Phiếu lệnh giao dịch ký quỹ phải được\nphân biệt với các loại phiếu lệnh giao dịch chứng khoán thông thường, phải bao gồm đầy đủ các thông tin liên quan đến khách hàng và được khách hàng xác nhận. Việc giao dịch ký quỹ bằng hình thức giao dịch điện tử phải tuân thủ quy định của\nQuy chế này và các quy định liên quan về giao dịch điện tử. Phiếu lệnh giao dịch\nký quỹ là phụ lục không thể tách rời của Hợp đồng mở tài khoản giao dịch ký quỹ.\n6. Công ty chứng khoán chỉ được phép\nthực hiện các giao dịch liên quan đến chứng khoán thế chấp theo chỉ định của khách hàng, ngoại trừ trường hợp phải bán chứng khoán thế chấp để thu hồi nợ vay.\n7. Công ty chứng khoán có nghĩa vụ\ncông khai thông tin trên trang thông tin điện tử của mình về các điều kiện cung cấp dịch vụ giao dịch ký quỹ bao gồm danh sách chứng khoán được thực hiện giao dịch ký quỹ, yêu cầu về tỷ lệ ký quỹ, lãi suất vay.\n8. Công ty chứng khoán phải lập sổ kế\ntoán, hạch toán riêng từng tài khoản giao dịch ký quỹ, danh mục tài sản trên tài khoản giao dịch ký quỹ, tỷ lệ ký quỹ cuối mỗi ngày giao dịch; lưu trữ đủ hồ sơ, phản ánh chi tiết, chính xác các giao dịch trên từng tài khoản giao dịch ký quỹ bao gồm các thông tin hàng ngày về danh mục tài sản ký quỹ, thế chấp trên tài khoản, giá thị trường, tỷ lệ ký quỹ kèm theo các lệnh gọi ký quỹ bổ sung, phiếu lệnh giao dịch ký quỹ.\n9. Thông tin về tài khoản giao dịch\nký quỹ của khách hàng được công ty chứng khoán bảo mật. Công ty chứng khoán không được phép cung cấp thông tin này cho bên thứ ba, ngoại trừ theo yêu cầu của cơ quan nhà nước có thẩm quyền hoặc được sự đồng ý của khách hàng.\nĐiều 14. Nghĩa vụ báo cáo của công ty chứng khoán\n1. Trước ngày giao dịch thứ năm của\ntháng tiếp theo, công ty chứng khoán phải gửi Sở giao dịch chứng khoán danh sách chứng khoán mà mình thực hiện giao dịch ký quỹ theo mẫu quy định tại Phụ lục số 01 của Quy chế này.\n2. Công ty chứng khoán có nghĩa vụ\nbáo cáo theo yêu cầu của Ủy ban Chứng khoán Nhà nước, Sở giao dịch chứng khoán về hoạt động giao dịch ký quỹ.\n3. Trường hợp công ty chứng khoán\nthay đổi hệ thống quản lý giao dịch ký quỹ phải báo cáo Ủy ban Chứng khoán Nhà nước tối thiểu trước 15 ngày trước ngày dự kiến chính thức tổ chức triển khai thực hiện. Nội dung báo cáo phải chứng minh được hệ thống quản lý giao dịch mới tiếp tục đáp ứng quy định về quản lý giao dịch ký quỹ hiện hành.\nĐiều 15. Tự nguyện chấm dứt thực hiện giao dịch ký quỹ\n1. Công ty chứng khoán tự nguyện chấm\ndứt thực hiện giao dịch ký quỹ phải công bố thông tin tại trụ sở chính, các địa điểm kinh doanh hợp pháp khác và trên trang thông tin điện tử của công ty chứng khoán và thông báo gửi khách hàng, Sở giao dịch chứng khoán, Ủy ban Chứng khoán Nhà nước về việc công ty chứng khoán chấm dứt thực hiện giao dịch ký quỹ.\n2. Thông tin công bố và báo cáo gửi Ủy\nban Chứng khoán Nhà nước theo quy định tại khoản 1 Điều này phải kèm theo phương án chấm dứt thực hiện giao dịch ký quỹ. Phương án này phải bao gồm các nội dung: thời điểm dừng thực hiện giao dịch ký quỹ; thời gian tất toán các hợp đồng, khoản vay giao dịch ký quỹ; cách thức xử lý hợp đồng chưa tất toán khi hết thời hạn tất toán theo phương án.\n3. Công ty chứng khoán phải báo cáo Ủy\nban Chứng khoán Nhà nước việc tất toán dịch vụ giao dịch ký quỹ trong thời hạn 15 ngày kể từ ngày hoàn tất việc thanh lý các Hợp đồng mở tài khoản giao dịch ký quỹ. Tài liệu báo cáo bao gồm:\na) Báo cáo chấm dứt thực hiện giao dịch\nký quỹ theo mẫu quy định tại Phụ lục số 2 của Quy chế này;\nb) Báo cáo kết quả thanh lý hợp đồng\nmở tài khoản giao dịch ký quỹ;\nc) Quyết định của Hội đồng quản trị\nhoặc của Hội đồng thành viên hoặc của chủ sở hữu công ty về việc chấm dứt thực hiện giao dịch ký quỹ.\nĐiều 16. Ngừng thực hiện giao dịch ký quỹ\n1. Công ty chứng khoán không đáp ứng\nmột hoặc một số điều kiện theo quy định tại Điều 8 khoản 1 Nghị định số 86/2016/NĐ-CP ngày 01 tháng 7 năm 2016 của Chính Phủ phải ngừng ngay việc ký mới hợp đồng mở tài khoản giao dịch ký quỹ, ngừng cho vay vốn để thực hiện giao dịch ký quỹ và báo cáo Ủy ban Chứng khoán Nhà nước trong vòng 48 giờ kể từ khi xảy ra sự kiện trên.\n2. Công ty chứng khoán chỉ được tiếp\ntục ký mới hợp đồng mở tài khoản giao dịch ký quỹ, cho vay thực hiện giao dịch ký quỹ sau khi nhận được thông báo của Ủy ban Chứng khoán Nhà nước trên cơ sở cung cấp đầy đủ hồ sơ, tài liệu chứng minh đã khắc phục và tiếp tục đáp ứng các điều kiện để được thực hiện giao dịch ký quỹ theo quy định tại khoản 1 Điều 8 Nghị định 86/2016/NĐ-CP ngày 01 tháng 7 năm 2016 của Chính Phủ quy định về điều kiện đầu tư, kinh doanh chứng khoán.\nChương VI\nTỔ CHỨC THỰC HIỆN\nĐiều 17. Tổ chức thực hiện\n1. Quy chế này có hiệu lực theo Quyết\nđịnh ban hành Quy chế này.\n2. Việc sửa đổi, bổ sung Quy chế này\ndo Chủ tịch Ủy ban Chứng khoán Nhà nước quyết định.\nPhụ lục số 1 : Mẫu báo cáo gửi Sở giao dịch chứng\nkhoán Công ty chứng khoán…. -------\nCỘNG\nHÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc --------------- Số: ……., ngày………tháng…..năm……..\nBÁO\nCÁO DANH MỤC CHỨNG KHOÁN THỰC HIỆN\nGIAO DỊCH KÝ QUỸ\nKính gửi: Sở giao dịch chứng khoán………… Công ty chứng khoán….xin báo cáo Sở giao dịch chứng khoán…. danh mục chứng khoán thực hiện giao dịch ký quỹ như sau: - Sở giao dịch chứng khoán Tp.Hồ Chí Minh (không phải báo cáo nội dung này khi gửi báo cáo cho Sở giao dịch chứng khoán Hà Nội)\nSTT\nMã chứng khoán thực hiện giao dịch ký quỹ đầu kỳ Mã chứng khoán bỏ ra khỏi danh mục giao dịch ký quỹ trong kỳ Mã chứng khoán bổ sung vào danh mục giao dịch ký quỹ trong kỳ Mã chứng khoán thực hiện giao dịch ký quỹ cuối kỳ - Sở giao dịch chứng khoán Hà Nội (không phải báo cáo nội dung này khi gửi báo cáo này cho Sở giao dịch chứng khoán Tp.Hồ Chí Minh)\nSTT\nMã chứng khoán thực hiện giao dịch ký quỹ đầu kỳ Mã chứng khoán bỏ ra khỏi danh mục giao dịch ký quỹ trong kỳ Mã chứng khoán bổ sung vào danh mục giao dịch ký quỹ trong kỳ Mã chứng khoán thực hiện giao dịch ký quỹ cuối kỳ - Đường link đăng tải thông tin nói trên trên website của công ty:……. Chúng tôi cam kết và chịu trách nhiệm về tính trung thực và chính xác của báo cáo này. Kính báo cáo Sở giao dịch chứng khoán…... Người lập (ký, ghi rõ họ tên) Kiểm soát (ký, ghi rõ họ tên)\nTỔNG GIÁM ĐỐC\n(ký, ghi rõ họ tên, đóng dấu)\nPhụ lục số 2. Mẫu báo cáo chấm dứt thực hiện giao dịch\nký quỹ\nCỘNG\nHÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc --------------- ....., ngày...... tháng...... năm ......\nBÁO\nCÁO CHẤM DỨT THỰC HIỆN GIAO DỊCH KÝ QUỸ\nKính gửi: Ủy ban Chứng khoán Nhà nước Chúng tôi là : - Công ty TNHH/cổ phần chứng khoán......... - Giấy phép thành lập và hoạt động số ..... do...... cấp ngày ..... tháng ..... năm..... tại....... - Địa chỉ trụ sở chính: - Điện thoại........ Fax:......... Xin báo Ủy ban Chứng khoán Nhà nước chấm dứt thực hiện giao dịch ký quỹ chứng khoán kể từ ngày....... Lý do đề nghị chấm dứt...... Chúng tôi cam kết và liên đới chịu trách nhiệm hoàn toàn về tính chính xác, trung thực của nội dung báo cáo này và hồ sơ kèm theo. Hồ sơ gửi kèm (Liệt kê đầy đủ)\nNGƯỜI ĐẠI DIỆN THEO PHÁP LUẬT\n(Ký, đóng dấu, ghi rõ họ tên)",
+  "tree": {
+    "parts": [
+      {
+        "part_id": "doc:102619:part:1",
+        "part_type": "main",
+        "part_title": null,
+        "reference": null,
+        "direct_text": "QUYẾT ĐỊNH\nVỀ VIỆC BAN HÀNH QUY CHẾ HƯỚNG DẪN GIAO DỊCH KÝ QUỸ CHỨNG KHOÁN\nCHỦ TỊCH ỦY BAN CHỨNG KHOÁN NHÀ NƯỚC\nCăn cứ Luật Chứng khoán ngày 29 tháng 6 năm 2006; Căn cứ Luật Chứng khoán sửa đổi, bổ sung một số điều của Luật Chứng khoán ngày 24 tháng 11 năm 2010; Căn cứ Nghị định số 58/2012/NĐ-CP ngày 20 tháng 7 năm 2012 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Chứng khoán và Luật sửa đổi, bổ sung một số điều của Luật Chứng khoán; Căn cứ Nghị định số 60/2015/NĐ-CP ngày 26 tháng 6 năm 2015 của Chính phủ Sửa đổi, bổ sung một số điều của Nghị định 58/2012/NĐ-CP ngày 20 tháng 7 năm 2012 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Chứng khoán và Luật sửa đổi, bổ sung một số điều của Luật Chứng khoán; Căn cứ Nghị định số 86/2016/NĐ-CP ngày 01 tháng 7 năm 2016 của Chính phủ quy định về điều kiện đầu tư, kinh doanh chứng khoán; Căn cứ Quyết định số 48/2015/QĐ-TTg ngày 08 tháng 10 năm 2015 của Thủ tướng Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Ủy ban Chứng khoán Nhà nước; Căn cứ Thông tư số 210/2012/TT-BTC ngày 30 tháng 11 năm 2012 của Bộ trưởng Bộ Tài chính về việc hướng dẫn thành lập và hoạt động công ty chứng khoán và Thông tư số 07/2016/TT-BTC ngày 18/01/2016 của Bộ trưởng Bộ Tài chính sửa đổi, bổ sung một số điều của Thông tư số 210/2012/TT-BTC ngày 30 tháng 11 năm 2012 của Bộ trưởng Bộ Tài chính về việc hướng dẫn thành lập và hoạt động công ty chứng khoán; Căn cứ Thông tư số 203/2015/TT-BTC ngày 21 tháng 12 năm 2015 của Bộ trưởng Bộ Tài chính hướng dẫn về giao dịch chứng khoán; Theo đề nghị của Vụ trưởng Vụ Quản lý kinh doanh chứng khoán,\nQUYẾT ĐỊNH:",
+        "chapters": [],
+        "sections": [],
+        "articles": [
+          {
+            "article_id": "doc:102619:part:1:article:1",
+            "number": "1",
+            "title": "Ban hành kèm theo Quyết định này Quy chế hướng dẫn giao dịch ký quỹ chứng khoán.",
+            "content": "Điều 1. Ban hành kèm theo Quyết định này Quy chế hướng dẫn giao dịch ký quỹ chứng khoán.",
+            "clauses": [],
+            "points": []
+          },
+          {
+            "article_id": "doc:102619:part:1:article:2",
+            "number": "2",
+            "title": "Quyết định này có hiệu lực thi hành kể từ ngày 01/4/2017 và thay thế Quyết định số 637/QĐ-UBCK ngày 30 tháng 8 năm 2011 về việc ban hành Quy chế hướng dẫn giao dịch ký quỹ chứng khoán và Quyết định số 09/QĐ-UBCK ngày 08 tháng 01 năm 2013 về việc sửa đổi Quy chế hướng dẫn giao dịch ký quỹ chứng khoán.",
+            "content": "Điều 2. Quyết định này có hiệu lực thi hành kể từ ngày 01/4/2017 và thay thế Quyết định số 637/QĐ-UBCK ngày 30 tháng 8 năm 2011 về việc ban hành Quy chế hướng dẫn giao dịch ký quỹ chứng khoán và Quyết định số 09/QĐ-UBCK ngày 08 tháng 01 năm 2013 về việc sửa đổi Quy chế hướng dẫn giao dịch ký quỹ chứng khoán.",
+            "clauses": [],
+            "points": []
+          },
+          {
+            "article_id": "doc:102619:part:1:article:3",
+            "number": "3",
+            "title": "Chánh Văn phòng, Vụ trưởng Vụ Quản lý kinh doanh chứng khoán, Tổng Giám đốc Sở giao dịch chứng khoán Thành phố Hồ Chí Minh, Tổng giám đốc Sở giao dịch chứng khoán Hà Nội, Tổng giám đốc Trung tâm Lưu ký Chứng khoán Việt Nam, Tổng Giám đốc (Giám đốc) các công ty chứng khoán và các bên liên quan chịu trách nhiệm thi hành Quyết định này.",
+            "content": "Điều 3. Chánh Văn phòng, Vụ trưởng Vụ Quản lý kinh doanh chứng khoán, Tổng Giám đốc Sở giao dịch chứng khoán Thành phố Hồ Chí Minh, Tổng giám đốc Sở giao dịch chứng khoán Hà Nội, Tổng giám đốc Trung tâm Lưu ký Chứng khoán Việt Nam, Tổng Giám đốc (Giám đốc) các công ty chứng khoán và các bên liên quan chịu trách nhiệm thi hành Quyết định này.",
+            "clauses": [],
+            "points": []
+          }
+        ],
+        "unstructured_blocks": []
+      },
+      {
+        "part_id": "doc:102619:part:2",
+        "part_type": "regulation",
+        "part_title": "QUY CHẾ",
+        "reference": null,
+        "direct_text": "QUY CHẾ\nHƯỚNG DẪN GIAO DỊCH KÝ QUỸ CHỨNG KHOÁN\n(Ban hành kèm theo Quyết định số\n/QĐ-UBCK ngày tháng năm 2017của Chủ tịch Ủy ban Chứng khoán Nhà nước)\nQuy chế này và các quy định liên quan về giao dịch điện tử. Phiếu lệnh giao dịch\nký quỹ là phụ lục không thể tách rời của Hợp đồng mở tài khoản giao dịch ký quỹ.\n6. Công ty chứng khoán chỉ được phép\nthực hiện các giao dịch liên quan đến chứng khoán thế chấp theo chỉ định của khách hàng, ngoại trừ trường hợp phải bán chứng khoán thế chấp để thu hồi nợ vay.\n7. Công ty chứng khoán có nghĩa vụ\ncông khai thông tin trên trang thông tin điện tử của mình về các điều kiện cung cấp dịch vụ giao dịch ký quỹ bao gồm danh sách chứng khoán được thực hiện giao dịch ký quỹ, yêu cầu về tỷ lệ ký quỹ, lãi suất vay.\n8. Công ty chứng khoán phải lập sổ kế\ntoán, hạch toán riêng từng tài khoản giao dịch ký quỹ, danh mục tài sản trên tài khoản giao dịch ký quỹ, tỷ lệ ký quỹ cuối mỗi ngày giao dịch; lưu trữ đủ hồ sơ, phản ánh chi tiết, chính xác các giao dịch trên từng tài khoản giao dịch ký quỹ bao gồm các thông tin hàng ngày về danh mục tài sản ký quỹ, thế chấp trên tài khoản, giá thị trường, tỷ lệ ký quỹ kèm theo các lệnh gọi ký quỹ bổ sung, phiếu lệnh giao dịch ký quỹ.\n9. Thông tin về tài khoản giao dịch\nký quỹ của khách hàng được công ty chứng khoán bảo mật. Công ty chứng khoán không được phép cung cấp thông tin này cho bên thứ ba, ngoại trừ theo yêu cầu của cơ quan nhà nước có thẩm quyền hoặc được sự đồng ý của khách hàng.\nPhụ lục số 1 : Mẫu báo cáo gửi Sở giao dịch chứng\nkhoán Công ty chứng khoán…. -------\nCỘNG\nHÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc --------------- Số: ……., ngày………tháng…..năm……..\nBÁO\nCÁO DANH MỤC CHỨNG KHOÁN THỰC HIỆN\nGIAO DỊCH KÝ QUỸ\nKính gửi: Sở giao dịch chứng khoán………… Công ty chứng khoán….xin báo cáo Sở giao dịch chứng khoán…. danh mục chứng khoán thực hiện giao dịch ký quỹ như sau: - Sở giao dịch chứng khoán Tp.Hồ Chí Minh (không phải báo cáo nội dung này khi gửi báo cáo cho Sở giao dịch chứng khoán Hà Nội)\nSTT\nMã chứng khoán thực hiện giao dịch ký quỹ đầu kỳ Mã chứng khoán bỏ ra khỏi danh mục giao dịch ký quỹ trong kỳ Mã chứng khoán bổ sung vào danh mục giao dịch ký quỹ trong kỳ Mã chứng khoán thực hiện giao dịch ký quỹ cuối kỳ - Sở giao dịch chứng khoán Hà Nội (không phải báo cáo nội dung này khi gửi báo cáo này cho Sở giao dịch chứng khoán Tp.Hồ Chí Minh)\nSTT\nMã chứng khoán thực hiện giao dịch ký quỹ đầu kỳ Mã chứng khoán bỏ ra khỏi danh mục giao dịch ký quỹ trong kỳ Mã chứng khoán bổ sung vào danh mục giao dịch ký quỹ trong kỳ Mã chứng khoán thực hiện giao dịch ký quỹ cuối kỳ - Đường link đăng tải thông tin nói trên trên website của công ty:……. Chúng tôi cam kết và chịu trách nhiệm về tính trung thực và chính xác của báo cáo này. Kính báo cáo Sở giao dịch chứng khoán…... Người lập (ký, ghi rõ họ tên) Kiểm soát (ký, ghi rõ họ tên)\nTỔNG GIÁM ĐỐC\n(ký, ghi rõ họ tên, đóng dấu)\nPhụ lục số 2. Mẫu báo cáo chấm dứt thực hiện giao dịch\nký quỹ\nCỘNG\nHÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc --------------- ....., ngày...... tháng...... năm ......\nBÁO\nCÁO CHẤM DỨT THỰC HIỆN GIAO DỊCH KÝ QUỸ\nKính gửi: Ủy ban Chứng khoán Nhà nước Chúng tôi là : - Công ty TNHH/cổ phần chứng khoán......... - Giấy phép thành lập và hoạt động số ..... do...... cấp ngày ..... tháng ..... năm..... tại....... - Địa chỉ trụ sở chính: - Điện thoại........ Fax:......... Xin báo Ủy ban Chứng khoán Nhà nước chấm dứt thực hiện giao dịch ký quỹ chứng khoán kể từ ngày....... Lý do đề nghị chấm dứt...... Chúng tôi cam kết và liên đới chịu trách nhiệm hoàn toàn về tính chính xác, trung thực của nội dung báo cáo này và hồ sơ kèm theo. Hồ sơ gửi kèm (Liệt kê đầy đủ)\nNGƯỜI ĐẠI DIỆN THEO PHÁP LUẬT\n(Ký, đóng dấu, ghi rõ họ tên)",
+        "chapters": [
+          {
+            "chapter_id": "doc:102619:part:2:chapter:1",
+            "number": "I",
+            "title": "QUY ĐỊNH CHUNG",
+            "content": "Chương I\nQUY ĐỊNH CHUNG",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:102619:part:2:article:1",
+                "number": "1",
+                "title": "Phạm vi điều chỉnh và đối tượng áp dụng",
+                "content": "Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng",
+                "clauses": [
+                  {
+                    "clause_id": "doc:102619:part:2:article:1:clause:1",
+                    "number": "1",
+                    "content": "1. Quy chế này hướng dẫn việc thực hiện\ngiao dịch ký quỹ chứng khoán.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:102619:part:2:article:1:clause:2",
+                    "number": "2",
+                    "content": "2. Quy chế này áp dụng đối với các\ncông ty chứng khoán, nhà đầu tư thực hiện giao dịch ký quỹ và các tổ chức, cá nhân có liên quan trong hoạt động giao dịch ký quỹ chứng khoán.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:102619:part:2:article:2",
+                "number": "2",
+                "title": "Giải thích từ ngữ",
+                "content": "Điều 2. Giải thích từ ngữ",
+                "clauses": [
+                  {
+                    "clause_id": "doc:102619:part:2:article:2:clause:1",
+                    "number": "1",
+                    "content": "1. Chứng khoán được phép giao dịch\nký quỹ là chứng khoán đáp ứng các điều kiện theo quy định tại Quy chế này.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:102619:part:2:article:2:clause:2",
+                    "number": "2",
+                    "content": "2. Tài khoản giao dịch thông thường\nlà tài khoản của khách hàng mở tại công ty chứng khoán để giao dịch chứng khoán nhưng không sử dụng tiền vay của công ty chứng khoán.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:102619:part:2:article:2:clause:3",
+                    "number": "3",
+                    "content": "3. Dư nợ ký quỹ của khách hàng\ntrên tài khoản giao dịch ký quỹ là tổng số tiền khách hàng nợ công ty chứng khoán (DB).",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:102619:part:2:article:2:clause:4",
+                    "number": "4",
+                    "content": "4. Giá trị của chứng khoán\n(v): là giá trị do công ty chứng khoán xác định trên Hợp đồng mở tài khoản giao dịch ký quỹ ký với khách hàng nhưng không vượt quá giá đóng cửa tại ngày gần nhất của chứng khoán đó.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:102619:part:2:article:2:clause:5",
+                    "number": "5",
+                    "content": "5. Tổng tài sản trên tài khoản\ngiao dịch ký quỹ (EB) bao gồm tiền, tiền bán chứng khoán đang chờ về (CB) cộng với giá trị chứng khoán được phép giao dịch ký quỹ trên tài khoản giao dịch ký quỹ (PV). (EB = CB + PV).",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:102619:part:2:article:2:clause:6",
+                    "number": "6",
+                    "content": "6. Tài sản thực có trên tài\nkhoản giao dịch ký quỹ của khách hàng (AB) bằng tổng giá trị tài sản trên tài khoản giao dịch ký quỹ trừ đi dư nợ ký quỹ của khách hàng (AB=EB-DB).",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:102619:part:2:article:2:clause:7",
+                    "number": "7",
+                    "content": "7. Tỷ lệ ký\nquỹ là tỷ lệ giữa giá trị tài sản thực có so với tổng tài sản trên tài khoản giao dịch ký quỹ.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:102619:part:2:article:2:clause:8",
+                    "number": "8",
+                    "content": "8. Tỷ lệ ký quỹ ban đầu (imr)\nlà tỷ lệ giá trị tài sản thực có so với giá trị chứng khoán dự kiến mua được bằng lệnh giao dịch ký quỹ tính theo giá thị trường tại thời điểm giao dịch.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:102619:part:2:article:2:clause:9",
+                    "number": "9",
+                    "content": "9. Tỷ lệ ký quỹ duy trì (mmr)\nlà tỷ lệ tối thiểu giữa tài sản thực có so với giá trị tổng tài sản trên tài khoản giao dịch ký quỹ.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:102619:part:2:article:2:clause:10",
+                    "number": "10",
+                    "content": "10. Giá trị ký quỹ yêu cầu\n(MR) bằng giá trị chứng khoán nhân với tỷ lệ ký quỹ ban đầu (MR.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:102619:part:2:article:2:clause:11",
+                    "number": "11",
+                    "content": "11. Giá trị dư ký quỹ (EE) là\nhiệu số giữa tài sản thực có trên tài khoản giao dịch ký quỹ và giá trị ký quỹ yêu cầu (EE .",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:102619:part:2:article:2:clause:12",
+                    "number": "12",
+                    "content": "12. Sức mua (BP) là tỷ lệ giữa\ngiá trị dư ký quỹ với tỷ lệ ký quỹ ban đầu ().",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:102619:part:2:article:2:clause:13",
+                    "number": "13",
+                    "content": "13. Sở giao dịch chứng khoán\nlà Sở giao dịch chứng khoán Thành phố Hồ Chí Minh, Sở giao dịch chứng khoán Hà Nội.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:102619:part:2:chapter:2",
+            "number": "II",
+            "title": "CHỨNG KHOÁN ĐƯỢC PHÉP GIAO DỊCH MUA KÝ QUỸ",
+            "content": "Chương II\nCHỨNG KHOÁN ĐƯỢC\nPHÉP GIAO DỊCH MUA KÝ QUỸ",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:102619:part:2:article:3",
+                "number": "3",
+                "title": "Chứng khoán được giao dịch ký quỹ Chứng khoán đủ tiêu chuẩn giao dịch ký quỹ bao gồm: cổ phiếu, chứng chỉ quỹ niêm yết tại Sở giao dịch chứng khoán và không thuộc các trường hợp sau:",
+                "content": "Điều 3. Chứng khoán được giao dịch ký quỹ Chứng khoán đủ tiêu chuẩn giao dịch ký quỹ bao gồm: cổ phiếu, chứng chỉ quỹ niêm yết tại Sở giao dịch chứng khoán và không thuộc các trường hợp sau:",
+                "clauses": [
+                  {
+                    "clause_id": "doc:102619:part:2:article:3:clause:1",
+                    "number": "1",
+                    "content": "1. Chứng khoán có thời gian niêm yết\nchưa đủ 06 tháng tính từ ngày giao dịch đầu tiên đến thời điểm xem xét, lựa chọn để được giao dịch ký quỹ. Trường hợp chứng khoán chuyển sàn niêm yết, thời gian niêm yết được tính là tổng thời gian đã niêm yết tại hai Sở giao dịch chứng khoán;",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:102619:part:2:article:3:clause:2",
+                    "number": "2",
+                    "content": "2. Chứng khoán niêm yết trong tình trạng\nbị cảnh báo, bị kiểm soát, bị kiểm soát đặc biệt, bị tạm ngừng giao dịch, trong diện bị hủy niêm yết theo quy định có liên quan về niêm yết chứng khoán;",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:102619:part:2:article:3:clause:3",
+                    "number": "3",
+                    "content": "3. Chứng khoán của tổ chức phát hành\ncó báo cáo tài chính năm được kiểm toán hoặc báo cáo tài chính bán niên được soát xét hoặc được kiểm toán có ý kiến không phải là ý kiến chấp nhận toàn phần của tổ chức kiểm toán;",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:102619:part:2:article:3:clause:4",
+                    "number": "4",
+                    "content": "4. Tổ chức niêm yết chậm công bố\nthông tin báo cáo tài chính năm đã kiểm toán, báo cáo tài chính bán niên đã soát xét quá 05 ngày làm việc kể từ ngày hết hạn công bố thông tin hoặc hết thời gian gia hạn công bố thông tin theo quy định;",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:102619:part:2:article:3:clause:5",
+                    "number": "5",
+                    "content": "5. Công ty niêm yết\nnhận được kết luận của cơ quan thuế về việc công ty vi phạm pháp luật thuế;",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:102619:part:2:article:3:clause:6",
+                    "number": "6",
+                    "content": "6. Kết quả kinh doanh của tổ chức\nniêm yết có lỗ tại kỳ xem xét và/hoặc lỗ lũy kế căn cứ trên báo cáo tài chính năm gần nhất đã kiểm toán hoặc báo cáo tài chính bán niên gần nhất được soát xét hoặc được kiểm toán. Trường hợp tổ chức niêm yết là công ty mẹ, kết quả kinh doanh được căn cứ trên báo cáo tài chính hợp nhất; Trường hợp tổ chức niêm yết là quỹ đầu tư đại chúng có tối thiểu một tháng có giá trị tài sản ròng (NAV) tính trên một đơn vị chứng chỉ quỹ nhỏ hơn mệnh giá căn cứ trên báo cáo thay đổi giá trị tài sản ròng hàng tháng xét trong 03 tháng liên tiếp tính đến thời điểm được lựa chọn để giao dịch ký quỹ.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:102619:part:2:article:4",
+                "number": "4",
+                "title": "Lựa chọn và công bố danh sách chứng khoán được phép giao dịch ký quỹ",
+                "content": "Điều 4. Lựa chọn và công bố danh sách chứng khoán được phép giao dịch ký quỹ",
+                "clauses": [
+                  {
+                    "clause_id": "doc:102619:part:2:article:4:clause:1",
+                    "number": "1",
+                    "content": "1. Trong thời hạn 02 ngày làm việc kể\ntừ ngày phát sinh trường hợp nêu tại Điều 3 Quy chế này, Sở giao dịch chứng khoán có trách nhiệm công bố danh sách chứng khoán không đủ điều kiện giao dịch ký quỹ. Nội dung công bố tối thiểu bao gồm tất cả các chứng khoán không đủ điều kiện giao dịch ký quỹ tính đến thời điểm công bố. Trừ trường hợp nêu tại khoản 1 Điều 3 Quy chế này, tối thiểu 06 tháng/lần tính từ thời điểm Sở giao dịch chứng khoán công bố danh mục chứng khoán không được phép giao dịch ký quỹ gần nhất, Sở giao dịch chứng khoán được phép xem xét đưa chứng khoán ra khỏi danh mục chứng khoán không được phép giao dịch ký quỹ. Thời gian cụ thể do Sở giao dịch chứng khoán quyết định.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:102619:part:2:article:4:clause:2",
+                    "number": "2",
+                    "content": "2. Trên cơ sở danh sách chứng khoán\nkhông đủ điều kiện giao dịch ký quỹ do Sở giao dịch chứng khoán công bố theo quy định tại khoản 1 Điều này, công ty chứng khoán lựa chọn danh sách chứng khoán được phép giao dịch ký quỹ. Trong thời hạn 02 ngày làm việc kể từ ngày Sở giao dịch chứng khoán công bố danh sách chứng khoán không được phép giao dịch ký quỹ theo quy định tại khoản 1 Điều này, công ty chứng khoán có trách nhiệm công bố công khai danh sách tất cả chứng khoán mà công ty thực hiện giao dịch ký quỹ tính đến thời điểm công bố trên website và các địa điểm kinh doanh của công ty chứng khoán.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:102619:part:2:article:4:clause:3",
+                    "number": "3",
+                    "content": "3. Sở giao dịch chứng khoán có trách\nnhiệm giám sát danh sách chứng khoán được giao dịch ký quỹ mà công ty chứng khoán công bố theo quy định tại Quy chế này.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:102619:part:2:chapter:3",
+            "number": "III",
+            "title": "QUY ĐỊNH VỀ KÝ QUỸ, THẾ CHẤP TÀI SẢN VÀ XỬ LÝ TÀI SẢN THẾ CHẤP",
+            "content": "Chương III\nQUY ĐỊNH VỀ KÝ\nQUỸ, THẾ CHẤP TÀI SẢN VÀ XỬ LÝ TÀI SẢN THẾ CHẤP",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:102619:part:2:article:5",
+                "number": "5",
+                "title": "Tỷ lệ ký quỹ ban đầu, tỷ lệ ký quỹ duy trì",
+                "content": "Điều 5. Tỷ lệ ký quỹ ban đầu, tỷ lệ ký quỹ duy trì",
+                "clauses": [
+                  {
+                    "clause_id": "doc:102619:part:2:article:5:clause:1",
+                    "number": "1",
+                    "content": "1. Tỷ lệ ký quỹ ban đầu do công ty chứng\nkhoán quy định nhưng không được thấp hơn 50%.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:102619:part:2:article:5:clause:2",
+                    "number": "2",
+                    "content": "2. Tỷ lệ ký quỹ duy trì do công ty chứng\nkhoán quy định nhưng không được thấp hơn 30%.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:102619:part:2:article:5:clause:3",
+                    "number": "3",
+                    "content": "3. Căn cứ vào tình hình hoạt động thị\ntrường chứng khoán, Uỷ ban Chứng khoán Nhà nước có thể điều chỉnh tỷ lệ ký quỹ quy định tại khoản 1, 2 Điều này.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:102619:part:2:article:6",
+                "number": "6",
+                "title": "Xác định tỷ lệ ký quỹ",
+                "content": "Điều 6. Xác định tỷ lệ ký quỹ",
+                "clauses": [
+                  {
+                    "clause_id": "doc:102619:part:2:article:6:clause:1",
+                    "number": "1",
+                    "content": "1. Vào cuối ngày giao dịch, công ty\nchứng khoán phải xác định tỷ lệ ký quỹ của từng tài khoản giao dịch ký quỹ với giá trị của chứng khoán được xác định theo quy định tại khoản 4 Điều 2 Quy chế này.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:102619:part:2:article:6:clause:2",
+                    "number": "2",
+                    "content": "2. Thời điểm cụ thể để xác định tỷ lệ\nký quỹ của tài khoản giao dịch ký quỹ do công ty chứng khoán thỏa thuận bằng văn bản với khách hàng trên cơ sở đảm bảo quy định tại khoản 1 Điều này.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:102619:part:2:article:7",
+                "number": "7",
+                "title": "Lệnh gọi yêu cầu ký quỹ bổ sung",
+                "content": "Điều 7. Lệnh gọi yêu cầu ký quỹ bổ sung",
+                "clauses": [
+                  {
+                    "clause_id": "doc:102619:part:2:article:7:clause:1",
+                    "number": "1",
+                    "content": "1. Khách hàng có nghĩa vụ đảm bảo tỷ\nlệ ký quỹ không thấp hơn tỷ lệ ký quỹ duy trì. Trường hợp tỷ lệ ký quỹ trên tài khoản giao dịch ký quỹ của khách hàng giảm xuống thấp hơn tỷ lệ ký quỹ duy trì, công ty chứng khoán phát hành lệnh gọi ký quỹ bổ sung gửi tới khách hàng theo các phương thức liên hệ được thoả thuận trong Hợp đồng mở tài khoản giao dịch ký quỹ. Khách hàng có nghĩa vụ bổ sung tài sản thế chấp trong thời hạn theo yêu cầu của công ty chứng khoán nhưng không quá ba (03) ngày làm việc. Thời hạn cụ thể do công ty chứng khoán và khách hàng thỏa thuận trên cơ sở Hợp đồng mở tài khoản giao dịch ký quỹ.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:102619:part:2:article:7:clause:2",
+                    "number": "2",
+                    "content": "2. Kể từ khi nhận được lệnh gọi ký quỹ\nbổ sung, khách hàng phải bán chứng khoán hoặc thực hiện việc bổ sung tiền hoặc bổ sung tài sản thế chấp để tối thiểu đảm bảo tỷ lệ ký quỹ duy trì, mức cụ thể do công ty chứng khoán quy định và giá trị bổ sung tài sản thế chấp, bổ sung tiền được thực hiện như sau:",
+                    "points": [
+                      {
+                        "point_id": "doc:102619:part:2:article:7:clause:2:point:1",
+                        "label": "a",
+                        "content": "a) Bổ sung tài sản thế chấp bằng chứng\nkhoán, giá trị chứng khoán ký quỹ bổ sung được tính theo công thức sau:",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:102619:part:2:article:7:clause:2:point:2",
+                        "label": "b",
+                        "content": "b) Trường hợp bổ sung tiền, số tiền bổ\nsung được xác định theo công thức sau:",
+                        "children": []
+                      }
+                    ]
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:102619:part:2:article:8",
+                "number": "8",
+                "title": "Xử lý tài sản thế chấp",
+                "content": "Điều 8. Xử lý tài sản thế chấp",
+                "clauses": [
+                  {
+                    "clause_id": "doc:102619:part:2:article:8:clause:1",
+                    "number": "1",
+                    "content": "1. Công ty chứng khoán có quyền bán\nchứng khoán thế chấp trên tài khoản giao dịch ký quỹ của khách hàng khi khách hàng không bổ sung hoặc bổ sung không đầy đủ tài sản thế chấp trong thời hạn theo lệnh gọi ký quỹ bổ sung.",
+                    "points": [
+                      {
+                        "point_id": "doc:102619:part:2:article:8:clause:1:point:1",
+                        "label": "a",
+                        "content": "a) Trường hợp khách hàng không bổ\nsung hoặc chỉ bổ sung một phần tài sản thế chấp, tùy thuộc vào giá trị tài sản thế chấp cần bổ sung còn lại nhỏ hơn hoặc lớn hơn tổng giá trị chứng khoán có trên tài khoản giao dịch ký quỹ, công ty chứng khoán được thực hiện bán một phần hoặc toàn bộ số chứng khoán thế chấp;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:102619:part:2:article:8:clause:1:point:2",
+                        "label": "b",
+                        "content": "b) Trước khi thực hiện lệnh bán chứng\nkhoán thế chấp, công ty chứng khoán có trách nhiệm thông báo cho khách hàng và sau khi bán, công ty chứng khoán có trách nhiệm gửi cho khách hàng bảng sao kê kết quả giao dịch bán chứng khoán thế chấp theo phương thức được thỏa thuận bằng văn bản giữa công ty chứng khoán và khách hàng.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:102619:part:2:article:8:clause:2",
+                    "number": "2",
+                    "content": "2. Trường hợp công ty chứng khoán bán\ntoàn bộ chứng khoán có trên tài khoản giao dịch ký quỹ theo yêu cầu của khách hàng hoặc khi thực hiện lệnh gọi ký quỹ bổ sung, khách hàng chỉ được rút phần tiền còn lại (nếu có) từ số tiền bán chứng khoán trên tài khoản giao dịch ký quỹ sau khi đã khấu trừ dư nợ ký quỹ.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:102619:part:2:article:8:clause:3",
+                    "number": "3",
+                    "content": "3. Trường hợp tổng tài sản trên tài\nkhoản giao dịch ký quỹ của khách hàng sau khi bán chứng khoán thế chấp không đủ bù đắp dư nợ ký quỹ và khách hàng không thực hiện việc thanh toán phần nợ vay còn lại theo thỏa thuận tại Hợp đồng mở tài khoản giao dịch ký quỹ, công ty chứng khoán thực hiện việc thu hồi nợ theo phương thức thỏa thuận trong Hợp đồng mở tài khoản giao dịch ký quỹ và theo quy định pháp luật.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:102619:part:2:chapter:4",
+            "number": "IV",
+            "title": "HẠN MỨC, HẠN CHẾ, LÃI SUẤT VÀ THỜI HẠN CHO VAY GIAO DỊCH KÝ QUỸ",
+            "content": "Chương IV\nHẠN MỨC, HẠN CHẾ,\nLÃI SUẤT VÀ THỜI HẠN CHO VAY GIAO DỊCH KÝ QUỸ",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:102619:part:2:article:9",
+                "number": "9",
+                "title": "Hạn mức cho vay giao dịch ký quỹ Công ty chứng khoán phải tuân thủ các hạn mức cho vay giao dịch ký quỹ quy định tại Điều này. Khoản mục vốn chủ sở hữu của công ty chứng khoán nêu tại Điều này được xác định theo báo cáo tài chính kiểm toán hoặc báo cáo tài chính được soát xét gần nhất nhưng không quá 06 tháng kể từ thời điểm tính toán. Trường hợp công ty chứng khoán được điều chỉnh tăng vốn điều lệ giữa hai kỳ báo cáo kiểm toán và soát xét, khoản mục vốn chủ sở hữu được xác định trong trường hợp này là tại báo cáo tài chính được lập tại kỳ gần nhất.",
+                "content": "Điều 9. Hạn mức cho vay giao dịch ký quỹ Công ty chứng khoán phải tuân thủ các hạn mức cho vay giao dịch ký quỹ quy định tại Điều này. Khoản mục vốn chủ sở hữu của công ty chứng khoán nêu tại Điều này được xác định theo báo cáo tài chính kiểm toán hoặc báo cáo tài chính được soát xét gần nhất nhưng không quá 06 tháng kể từ thời điểm tính toán. Trường hợp công ty chứng khoán được điều chỉnh tăng vốn điều lệ giữa hai kỳ báo cáo kiểm toán và soát xét, khoản mục vốn chủ sở hữu được xác định trong trường hợp này là tại báo cáo tài chính được lập tại kỳ gần nhất.",
+                "clauses": [
+                  {
+                    "clause_id": "doc:102619:part:2:article:9:clause:1",
+                    "number": "1",
+                    "content": "1. Tổng dư nợ cho vay giao dịch ký quỹ\ncủa một công ty chứng khoán không được vượt quá 200% vốn chủ sở hữu của công ty chứng khoán.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:102619:part:2:article:9:clause:2",
+                    "number": "2",
+                    "content": "2. Tổng mức cho vay giao dịch ký quỹ\ncủa công ty chứng khoán đối với một khách hàng không được vượt quá 3% vốn chủ sở hữu của công ty chứng khoán.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:102619:part:2:article:9:clause:3",
+                    "number": "3",
+                    "content": "3. Tổng dư nợ cho vay giao dịch ký quỹ\ncủa một công ty chứng khoán đối với một loại chứng khoán không được vượt quá 10% vốn chủ sở hữu của công ty chứng khoán.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:102619:part:2:article:9:clause:4",
+                    "number": "4",
+                    "content": "4. Tổng số chứng khoán cho vay giao dịch\nký quỹ của một công ty chứng khoán không được vượt quá 5% tổng số chứng khoán niêm yết của một tổ chức niêm yết.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:102619:part:2:article:10",
+                "number": "10",
+                "title": "Hạn chế giao dịch ký quỹ",
+                "content": "Điều 10. Hạn chế giao dịch ký quỹ",
+                "clauses": [
+                  {
+                    "clause_id": "doc:102619:part:2:article:10:clause:1",
+                    "number": "1",
+                    "content": "1. Công ty chứng khoán không được cho\nkhách hàng vay tiền để thực hiện giao dịch ký quỹ trong các trường hợp sau:",
+                    "points": [
+                      {
+                        "point_id": "doc:102619:part:2:article:10:clause:1:point:1",
+                        "label": "a",
+                        "content": "a) Đối với cổ phiếu, chứng chỉ quỹ do\nchính công ty chứng khoán bảo lãnh phát hành theo hình thức cam kết chắc chắn kể từ thời điểm công ty chứng khoán ký hợp đồng bảo lãnh đến hết sáu (06) tháng tính từ khi hoàn tất đợt phát hành;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:102619:part:2:article:10:clause:1:point:2",
+                        "label": "b",
+                        "content": "b) Đối với cổ phiếu của công ty niêm\nyết sở hữu từ 50% trở lên vốn điều lệ của công ty chứng khoán và đối với cổ phiếu của công ty niêm yết, cổ phiếu của công ty đăng ký giao dịch do công ty chứng khoán sở hữu từ 50% trở lên vốn điều lệ;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:102619:part:2:article:10:clause:1:point:3",
+                        "label": "c",
+                        "content": "c) Đối với cổ phiếu của chính công ty\nchứng khoán phát hành;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:102619:part:2:article:10:clause:1:point:4",
+                        "label": "d",
+                        "content": "d) Khi khách hàng không bảo đảm tỷ lệ\nký quỹ theo quy định tại Hợp đồng mở tài khoản giao dịch ký quỹ và các quy định tại Quy chế này;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:102619:part:2:article:10:clause:1:point:5",
+                        "label": "đ",
+                        "content": "đ) Khách hàng là nhà đầu tư nước\nngoài;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:102619:part:2:article:10:clause:1:point:6",
+                        "label": "e",
+                        "content": "e) Khi khách hàng là những đối tượng\nđược quy định tại khoản 4 Điều 13 Quy chế này.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:102619:part:2:article:10:clause:2",
+                    "number": "2",
+                    "content": "2. Trường hợp chứng khoán không còn nằm\ntrong danh sách chứng khoán được phép giao dịch ký quỹ, công ty chứng khoán không được thực hiện cho vay mới đối với các chứng khoán này và không được tính chứng khoán này làm tài sản thực có của khách hàng trên tài khoản giao dịch ký quỹ nhưng vẫn được coi chứng khoán này làm tài sản bảo đảm cho khoản vay giao dịch ký quỹ trừ khi có thỏa thuận khác với khách hàng.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:102619:part:2:article:11",
+                "number": "11",
+                "title": "Thời hạn, lãi suất, cách tính tiền lãi vay cho vay giao dịch ký quỹ",
+                "content": "Điều 11. Thời hạn, lãi suất, cách tính tiền lãi vay cho vay giao dịch ký quỹ",
+                "clauses": [
+                  {
+                    "clause_id": "doc:102619:part:2:article:11:clause:1",
+                    "number": "1",
+                    "content": "1. Thời hạn khoản vay giao dịch ký quỹ\ndo công ty chứng khoán và khách hàng thỏa thuận trong Hợp đồng mở tài khoản giao dịch ký quỹ nhưng không quá ba (03) tháng tính từ ngày thực hiện giải ngân khoản vay.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:102619:part:2:article:11:clause:2",
+                    "number": "2",
+                    "content": "2. Công ty chứng khoán có thể tiếp tục\ngia hạn thời hạn cho vay trên cơ sở văn bản đề nghị của khách hàng. Thời gian gia hạn mỗi lần không quá ba (03) tháng.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:102619:part:2:article:11:clause:3",
+                    "number": "3",
+                    "content": "3. Lãi suất cho vay giao dịch ký quỹ\nđược xác định trên cơ sở thỏa thuận bằng văn bản giữa công ty chứng khoán và khách hàng và theo quy định của Bộ Luật Dân sự.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:102619:part:2:article:11:clause:4",
+                    "number": "4",
+                    "content": "4. Cách tính tiền lãi vay được xác định\ntrên cơ sở thỏa thuận bằng văn bản giữa công ty chứng khoán và khách hàng.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:102619:part:2:chapter:5",
+            "number": "V",
+            "title": "TRÁCH NHIỆM QUẢN LÝ TÀI KHOẢN GIAO DỊCH KÝ QUỸ",
+            "content": "Chương V\nTRÁCH NHIỆM QUẢN\nLÝ TÀI KHOẢN GIAO DỊCH KÝ QUỸ",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:102619:part:2:article:12",
+                "number": "12",
+                "title": "Hợp đồng mở tài khoản giao dịch ký quỹ",
+                "content": "Điều 12. Hợp đồng mở tài khoản giao dịch ký quỹ",
+                "clauses": [
+                  {
+                    "clause_id": "doc:102619:part:2:article:12:clause:1",
+                    "number": "1",
+                    "content": "1. Hợp đồng mở tài khoản giao dịch ký\nquỹ đồng thời là hợp đồng tín dụng cho các khoản vay trên tài khoản giao dịch ký quỹ.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:102619:part:2:article:12:clause:2",
+                    "number": "2",
+                    "content": "2. Nội dung Hợp đồng mở tài khoản\ngiao dịch ký quỹ do công ty chứng khoán và khách hàng thoả thuận nhưng tối thiểu phải bao gồm các nội dung chính sau:",
+                    "points": [
+                      {
+                        "point_id": "doc:102619:part:2:article:12:clause:2:point:1",
+                        "label": "a",
+                        "content": "a) Thông tin về khách hàng như: họ và\ntên, ngày tháng năm sinh, số chứng minh nhân dân (thẻ căn cước công dân)/tên doanh nghiệp, số giấy chứng nhận đăng ký kinh doanh, ngày cấp, nơi cấp, địa chỉ liên lạc, thư điện tử, fax (nếu có), số điện thoại liên hệ;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:102619:part:2:article:12:clause:2:point:2",
+                        "label": "b",
+                        "content": "b) Mục đích vay: mua chứng khoán ký\nquỹ;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:102619:part:2:article:12:clause:2:point:3",
+                        "label": "c",
+                        "content": "c) Tỷ lệ ký quỹ ban đầu; cách xác định\ngiá trị chứng khoán thế chấp;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:102619:part:2:article:12:clause:2:point:4",
+                        "label": "d",
+                        "content": "d) Tỷ lệ ký quỹ duy trì;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:102619:part:2:article:12:clause:2:point:5",
+                        "label": "đ",
+                        "content": "đ) Thời hạn và phương thức thanh toán\ntheo lệnh yêu cầu bổ sung thế chấp;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:102619:part:2:article:12:clause:2:point:6",
+                        "label": "e",
+                        "content": "e) Hạn mức cho vay;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:102619:part:2:article:12:clause:2:point:7",
+                        "label": "g",
+                        "content": "g) Lãi suất cho vay;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:102619:part:2:article:12:clause:2:point:8",
+                        "label": "h",
+                        "content": "h) Thời hạn hợp đồng, thời điểm hợp đồng\ncó hiệu lực và thời điểm bắt đầu tính lãi cho vay;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:102619:part:2:article:12:clause:2:point:9",
+                        "label": "i",
+                        "content": "i) Phương thức liên hệ với khách hàng\nđể thực hiện lệnh gọi ký quỹ bổ sung, thực hiện lệnh bán giải chấp, gửi sao kê tài khoản giao dịch ký quỹ; Phương thức xử lý tài sản thế chấp trên tài khoản giao dịch ký quỹ của khách hàng khi khách hàng không thực hiện đúng hợp đồng và thứ tự ưu tiên sử dụng tiền bán chứng khoán thế chấp của khách hàng;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:102619:part:2:article:12:clause:2:point:10",
+                        "label": "k",
+                        "content": "k) Phương thức xử lý trong trường hợp\ncông ty chứng khoán không được phép giao dịch ký quỹ;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:102619:part:2:article:12:clause:2:point:11",
+                        "label": "l",
+                        "content": "l) Quy định bảo vệ quyền lợi của các\nbên ký hợp đồng;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:102619:part:2:article:12:clause:2:point:12",
+                        "label": "m",
+                        "content": "m) Phương thức giải quyết khi có\ntranh chấp phát sinh;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:102619:part:2:article:12:clause:2:point:13",
+                        "label": "n",
+                        "content": "n) Phương thức thanh lý hợp đồng;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:102619:part:2:article:12:clause:2:point:14",
+                        "label": "o",
+                        "content": "o) Cam kết của khách hàng về việc đã\nđược công ty chứng khoán giải thích rõ về các rủi ro phát sinh khi thực hiện giao dịch trên tài khoản giao dịch ký quỹ.",
+                        "children": []
+                      }
+                    ]
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:102619:part:2:article:13",
+                "number": "13",
+                "title": "Trách nhiệm quản lý tài khoản giao dịch ký quỹ",
+                "content": "Điều 13. Trách nhiệm quản lý tài khoản giao dịch ký quỹ",
+                "clauses": [
+                  {
+                    "clause_id": "doc:102619:part:2:article:13:clause:1",
+                    "number": "1",
+                    "content": "1. Công ty chứng khoán phải tìm hiểu,\ncập nhật thông tin về khách hàng mở tài khoản giao dịch ký quỹ để xác định khách hàng là người nội bộ và là người có liên quan đến người nội bộ nhằm đảm bảo tuân thủ quy định có liên quan về công bố thông tin. Trường hợp khách hàng không cung cấp thông tin theo yêu cầu của công ty chứng khoán, công ty chứng khoán được miễn trừ trách nhiệm liên quan đến quy định này.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:102619:part:2:article:13:clause:2",
+                    "number": "2",
+                    "content": "2. Công ty chứng khoán phải xây dựng\nhệ thống, phần mềm giao dịch để quản lý tài khoản giao dịch ký quỹ theo nguyên tắc quy định tại khoản 5 Điều 9 Thông tư số 203/2015/TT-BTC và Quy chế này.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:102619:part:2:article:13:clause:3",
+                    "number": "3",
+                    "content": "3. Trừ trường hợp được khách hàng đồng\ný và tuân thủ quy định pháp luật có liên quan, công ty chứng khoán không được sử dụng chứng khoán trên tài khoản ký quỹ của khách hàng để làm tài sản thế chấp cho bất kỳ quan hệ nào ngoài quan hệ là tài sản thế chấp cho giao dịch ký quỹ giữa công ty chứng khoán và khách hàng.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:102619:part:2:article:13:clause:4",
+                    "number": "4",
+                    "content": "4. Tài khoản giao dịch ký quỹ không\nđược mở cho các đối tượng dưới đây:",
+                    "points": [
+                      {
+                        "point_id": "doc:102619:part:2:article:13:clause:4:point:1",
+                        "label": "a",
+                        "content": "a) Là những đối tượng sau trong công\nty chứng khoán: chủ sở hữu, cổ đông lớn, thành viên góp vốn, thành viên Hội đồng quản trị/Hội đồng thành viên, Ban kiểm soát, Tổng Giám đốc (Giám đốc), Phó Tổng Giám đốc (Phó Giám đốc), kế toán trưởng, các chức danh khác do Hội đồng quản trị/Hội đồng thành viên/Chủ sở hữu công ty chứng khoán bổ nhiệm và những người có liên quan đến các đối tượng trên;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:102619:part:2:article:13:clause:4:point:2",
+                        "label": "b",
+                        "content": "b) Là pháp nhân đang trong tình trạng\ngiải thể, phá sản theo các quy định của pháp luật hiện hành;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:102619:part:2:article:13:clause:4:point:3",
+                        "label": "c",
+                        "content": "c) Các đối tượng vi phạm hợp đồng mở\ntài khoản giao dịch chứng khoán ký quỹ theo quy định của công ty chứng khoán.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:102619:part:2:article:13:clause:5",
+                    "number": "5",
+                    "content": "5. Nguyên tắc quản lý tài khoản giao\ndịch ký quỹ:",
+                    "points": [
+                      {
+                        "point_id": "doc:102619:part:2:article:13:clause:5:point:1",
+                        "label": "a",
+                        "content": "a) Tài khoản giao dịch ký quỹ phải được\nquản lý tách biệt với tài khoản giao dịch thông thường theo quy định tại khoản 5 Điều 9 Thông tư 203/2015/TT-BTC;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:102619:part:2:article:13:clause:5:point:2",
+                        "label": "b",
+                        "content": "b) Khách hàng chỉ được sử dụng tiền,\nchứng khoán được phép giao dịch ký quỹ và các quyền liên quan đến chứng khoán này để làm tài sản đảm bảo cho các khoản vay để thực hiện giao dịch ký quỹ; chứng khoán khác được dùng làm tài sản đảm bảo cho khoản vay giao dịch ký quỹ khi có thỏa thuận bằng văn bản với khách hàng; tiền, chứng khoán và các quyền liên quan đến chứng khoán trên tài khoản giao dịch ký quỹ là tài sản của khách hàng;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:102619:part:2:article:13:clause:5:point:3",
+                        "label": "c",
+                        "content": "c) Khách hàng phải thanh toán tiền\nlãi trên khoản dư nợ ký quỹ theo các hình thức cụ thể được thỏa thuận trong Hợp đồng mở tài khoản giao dịch ký quỹ; khách hàng được quyền rút tiền trên tài khoản giao dịch ký quỹ sau khi thanh toán hết các khoản nợ với công ty chứng khoán;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:102619:part:2:article:13:clause:5:point:4",
+                        "label": "d",
+                        "content": "d) Công ty chứng khoán không được cho\nkhách hàng thực hiện giao dịch ký quỹ, rút tiền vượt quá sức mua hiện có trên tài khoản giao dịch ký quỹ của khách hàng;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:102619:part:2:article:13:clause:5:point:5",
+                        "label": "đ",
+                        "content": "đ) Công ty chứng khoán có trách nhiệm\nthông báo kịp thời, đầy đủ cho khách hàng về những quyền lợi phát sinh liên quan đến chứng khoán trong tài khoản giao dịch ký quỹ của khách hàng; gửi cho khách hàng bảng sao kê tài khoản giao dịch ký quỹ theo phương thức và thời gian được thỏa thuận bằng văn bản với khách hàng;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:102619:part:2:article:13:clause:5:point:6",
+                        "label": "e",
+                        "content": "e) Phiếu lệnh giao dịch ký quỹ phải được\nphân biệt với các loại phiếu lệnh giao dịch chứng khoán thông thường, phải bao gồm đầy đủ các thông tin liên quan đến khách hàng và được khách hàng xác nhận. Việc giao dịch ký quỹ bằng hình thức giao dịch điện tử phải tuân thủ quy định của",
+                        "children": []
+                      }
+                    ]
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:102619:part:2:article:14",
+                "number": "14",
+                "title": "Nghĩa vụ báo cáo của công ty chứng khoán",
+                "content": "Điều 14. Nghĩa vụ báo cáo của công ty chứng khoán",
+                "clauses": [
+                  {
+                    "clause_id": "doc:102619:part:2:article:14:clause:1",
+                    "number": "1",
+                    "content": "1. Trước ngày giao dịch thứ năm của\ntháng tiếp theo, công ty chứng khoán phải gửi Sở giao dịch chứng khoán danh sách chứng khoán mà mình thực hiện giao dịch ký quỹ theo mẫu quy định tại Phụ lục số 01 của Quy chế này.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:102619:part:2:article:14:clause:2",
+                    "number": "2",
+                    "content": "2. Công ty chứng khoán có nghĩa vụ\nbáo cáo theo yêu cầu của Ủy ban Chứng khoán Nhà nước, Sở giao dịch chứng khoán về hoạt động giao dịch ký quỹ.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:102619:part:2:article:14:clause:3",
+                    "number": "3",
+                    "content": "3. Trường hợp công ty chứng khoán\nthay đổi hệ thống quản lý giao dịch ký quỹ phải báo cáo Ủy ban Chứng khoán Nhà nước tối thiểu trước 15 ngày trước ngày dự kiến chính thức tổ chức triển khai thực hiện. Nội dung báo cáo phải chứng minh được hệ thống quản lý giao dịch mới tiếp tục đáp ứng quy định về quản lý giao dịch ký quỹ hiện hành.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:102619:part:2:article:15",
+                "number": "15",
+                "title": "Tự nguyện chấm dứt thực hiện giao dịch ký quỹ",
+                "content": "Điều 15. Tự nguyện chấm dứt thực hiện giao dịch ký quỹ",
+                "clauses": [
+                  {
+                    "clause_id": "doc:102619:part:2:article:15:clause:1",
+                    "number": "1",
+                    "content": "1. Công ty chứng khoán tự nguyện chấm\ndứt thực hiện giao dịch ký quỹ phải công bố thông tin tại trụ sở chính, các địa điểm kinh doanh hợp pháp khác và trên trang thông tin điện tử của công ty chứng khoán và thông báo gửi khách hàng, Sở giao dịch chứng khoán, Ủy ban Chứng khoán Nhà nước về việc công ty chứng khoán chấm dứt thực hiện giao dịch ký quỹ.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:102619:part:2:article:15:clause:2",
+                    "number": "2",
+                    "content": "2. Thông tin công bố và báo cáo gửi Ủy\nban Chứng khoán Nhà nước theo quy định tại khoản 1 Điều này phải kèm theo phương án chấm dứt thực hiện giao dịch ký quỹ. Phương án này phải bao gồm các nội dung: thời điểm dừng thực hiện giao dịch ký quỹ; thời gian tất toán các hợp đồng, khoản vay giao dịch ký quỹ; cách thức xử lý hợp đồng chưa tất toán khi hết thời hạn tất toán theo phương án.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:102619:part:2:article:15:clause:3",
+                    "number": "3",
+                    "content": "3. Công ty chứng khoán phải báo cáo Ủy\nban Chứng khoán Nhà nước việc tất toán dịch vụ giao dịch ký quỹ trong thời hạn 15 ngày kể từ ngày hoàn tất việc thanh lý các Hợp đồng mở tài khoản giao dịch ký quỹ. Tài liệu báo cáo bao gồm:",
+                    "points": [
+                      {
+                        "point_id": "doc:102619:part:2:article:15:clause:3:point:1",
+                        "label": "a",
+                        "content": "a) Báo cáo chấm dứt thực hiện giao dịch\nký quỹ theo mẫu quy định tại Phụ lục số 2 của Quy chế này;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:102619:part:2:article:15:clause:3:point:2",
+                        "label": "b",
+                        "content": "b) Báo cáo kết quả thanh lý hợp đồng\nmở tài khoản giao dịch ký quỹ;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:102619:part:2:article:15:clause:3:point:3",
+                        "label": "c",
+                        "content": "c) Quyết định của Hội đồng quản trị\nhoặc của Hội đồng thành viên hoặc của chủ sở hữu công ty về việc chấm dứt thực hiện giao dịch ký quỹ.",
+                        "children": []
+                      }
+                    ]
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:102619:part:2:article:16",
+                "number": "16",
+                "title": "Ngừng thực hiện giao dịch ký quỹ",
+                "content": "Điều 16. Ngừng thực hiện giao dịch ký quỹ",
+                "clauses": [
+                  {
+                    "clause_id": "doc:102619:part:2:article:16:clause:1",
+                    "number": "1",
+                    "content": "1. Công ty chứng khoán không đáp ứng\nmột hoặc một số điều kiện theo quy định tại Điều 8 khoản 1 Nghị định số 86/2016/NĐ-CP ngày 01 tháng 7 năm 2016 của Chính Phủ phải ngừng ngay việc ký mới hợp đồng mở tài khoản giao dịch ký quỹ, ngừng cho vay vốn để thực hiện giao dịch ký quỹ và báo cáo Ủy ban Chứng khoán Nhà nước trong vòng 48 giờ kể từ khi xảy ra sự kiện trên.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:102619:part:2:article:16:clause:2",
+                    "number": "2",
+                    "content": "2. Công ty chứng khoán chỉ được tiếp\ntục ký mới hợp đồng mở tài khoản giao dịch ký quỹ, cho vay thực hiện giao dịch ký quỹ sau khi nhận được thông báo của Ủy ban Chứng khoán Nhà nước trên cơ sở cung cấp đầy đủ hồ sơ, tài liệu chứng minh đã khắc phục và tiếp tục đáp ứng các điều kiện để được thực hiện giao dịch ký quỹ theo quy định tại khoản 1 Điều 8 Nghị định 86/2016/NĐ-CP ngày 01 tháng 7 năm 2016 của Chính Phủ quy định về điều kiện đầu tư, kinh doanh chứng khoán.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:102619:part:2:chapter:6",
+            "number": "VI",
+            "title": "TỔ CHỨC THỰC HIỆN",
+            "content": "Chương VI\nTỔ CHỨC THỰC HIỆN",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:102619:part:2:article:17",
+                "number": "17",
+                "title": "Tổ chức thực hiện",
+                "content": "Điều 17. Tổ chức thực hiện",
+                "clauses": [
+                  {
+                    "clause_id": "doc:102619:part:2:article:17:clause:1",
+                    "number": "1",
+                    "content": "1. Quy chế này có hiệu lực theo Quyết\nđịnh ban hành Quy chế này.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:102619:part:2:article:17:clause:2",
+                    "number": "2",
+                    "content": "2. Việc sửa đổi, bổ sung Quy chế này\ndo Chủ tịch Ủy ban Chứng khoán Nhà nước quyết định.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          }
+        ],
+        "sections": [],
+        "articles": [],
+        "unstructured_blocks": []
+      }
+    ]
+  },
+  "issues": [],
+  "status": "ok",
+  "source_hash": "context_102619.json",
+  "stats": {
+    "source_chars": 27193,
+    "passage_chars": 27016,
+    "parts": 2,
+    "chapters": 6,
+    "sections": 0,
+    "articles": 20,
+    "clauses": 61,
+    "points": 36
+  }
+}

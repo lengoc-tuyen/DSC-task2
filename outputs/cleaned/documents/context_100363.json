@@ -1,0 +1,67 @@
+{
+  "schema_version": "2.0",
+  "document_id": 100363,
+  "metadata": {
+    "name": null,
+    "link": "https://thuvienphapluat.vn/tcvn/Cong-nghe-Thuc-pham/QCVN-02-30-2018-BNNPTNT-cho-dau-moi-Yeu-cau-dam-bao-an-toan-thuc-pham-917650.aspx",
+    "issuing_agency": null,
+    "national_header": null,
+    "motto": null,
+    "document_number": null,
+    "issued_place": null,
+    "issued_date": null,
+    "document_type": null,
+    "title": null
+  },
+  "administrative_header": {
+    "removed": false,
+    "removed_char_count": 0
+  },
+  "preamble": {
+    "text": null,
+    "legal_bases": [],
+    "proposals": [],
+    "enactment_formula": null
+  },
+  "passage": "QCVN 02-30:2018/BNNPTNT QUY CHUẨN KỸ THUẬT QUỐC GIA\nVỀ\nCHỢ ĐẦU MỐI, CHỢ ĐẤU GIÁ NÔNG LÂM THỦY SẢN -\nYÊU\nCẦU BẢO ĐẢM AN TOÀN THỰC PHẨM\nNational technical regulation on agricultural, forestry and fishery Wholesale markets and auctions - Requirements for food safety assurance\nQUY CHUẨN KỸ THUẬT QUỐC GIA\nVỀ CHỢ ĐẦU MỐI, CHỢ ĐẤU\nGIÁ NÔNG LÂM THỦY SẢN -\n... ... ...",
+  "tree": {
+    "parts": [
+      {
+        "part_id": "doc:100363:part:1",
+        "part_type": "main",
+        "part_title": null,
+        "reference": null,
+        "direct_text": null,
+        "chapters": [],
+        "sections": [],
+        "articles": [],
+        "unstructured_blocks": [
+          {
+            "block_id": "doc:100363:part:1:block:1",
+            "content": "QCVN 02-30:2018/BNNPTNT QUY CHUẨN KỸ THUẬT QUỐC GIA\nVỀ\nCHỢ ĐẦU MỐI, CHỢ ĐẤU GIÁ NÔNG LÂM THỦY SẢN -\nYÊU\nCẦU BẢO ĐẢM AN TOÀN THỰC PHẨM\nNational technical regulation on agricultural, forestry and fishery Wholesale markets and auctions - Requirements for food safety assurance\nQUY CHUẨN KỸ THUẬT QUỐC GIA\nVỀ CHỢ ĐẦU MỐI, CHỢ ĐẤU\nGIÁ NÔNG LÂM THỦY SẢN -\n... ... ...",
+            "indexable": true
+          }
+        ]
+      }
+    ]
+  },
+  "issues": [
+    {
+      "code": "no_articles",
+      "message": "no articles parsed",
+      "severity": "warning"
+    }
+  ],
+  "status": "ok",
+  "source_hash": "context_100363.json",
+  "stats": {
+    "source_chars": 361,
+    "passage_chars": 361,
+    "parts": 1,
+    "chapters": 0,
+    "sections": 0,
+    "articles": 0,
+    "clauses": 0,
+    "points": 0
+  }
+}

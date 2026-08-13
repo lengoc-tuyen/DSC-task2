@@ -1,0 +1,635 @@
+{
+  "schema_version": "2.0",
+  "document_id": 31896,
+  "metadata": {
+    "name": "Quyet-dinh-2216-QD-BTP-2022-Quy-che-hoat-dong-Doi-ung-cuu-su-co-an-toan-thong-tin-mang-539024",
+    "link": "https://thuvienphapluat.vn/van-ban/Cong-nghe-thong-tin/Quyet-dinh-2216-QD-BTP-2022-Quy-che-hoat-dong-Doi-ung-cuu-su-co-an-toan-thong-tin-mang-539024.aspx",
+    "issuing_agency": "BỘ TƯ PHÁP",
+    "national_header": "CỘNG HÒA XÃ HỘI\r\n\n  CHỦ NGHĨA VIỆT NAM",
+    "motto": "Độc lập - Tự do - Hạnh phúc",
+    "document_number": "2216/QĐ-BTP",
+    "issued_place": "Hà Nội",
+    "issued_date": "ngày 11\r\n\n  tháng 11 năm 2022",
+    "document_type": "QUYẾT ĐỊNH",
+    "title": "BAN HÀNH QUY CHẾ HOẠT ĐỘNG CỦA ĐỘI ỨNG CỨU SỰ CỐ AN TOÀN THÔNG TIN MẠNG BỘ TƯ PHÁP"
+  },
+  "administrative_header": {
+    "removed": true,
+    "removed_char_count": 147
+  },
+  "preamble": {
+    "text": "QUYẾT ĐỊNH\nBAN HÀNH QUY CHẾ HOẠT ĐỘNG CỦA ĐỘI ỨNG CỨU\nSỰ CỐ AN TOÀN THÔNG TIN MẠNG BỘ TƯ PHÁP\nBỘ TRƯỞNG BỘ TƯ PHÁP\nCăn cứ Luật An toàn thông tin mạng số 86/2015/QH13 ngày 19/11/2015; Căn cứ Nghị định số 96/2017/NĐ-CP ngày 16/8/2017 của Chính phủ quy định về chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tư pháp; Căn cứ Quyết định số 05/2017/QĐ-TTg ngày 16/03/2017 của Thủ tướng Chính phủ ban hành quy định về hệ thống phương án ứng cứu khẩn cấp bảo đảm an toàn thông tin mạng quốc gia; Căn cứ Chỉ thị số 18/CT-TTg ngày 13/10/2022 của Thủ tướng Chính phủ về đẩy mạnh triển khai các hoạt động ứng cứu sự cố an toàn thông tin mạng Việt Nam; Căn cứ Thông tư số 20/2017/TT-BTTTT ngày 12/9/2017 của Bộ Thông tin và Truyền thông Quy định về điều phối, ứng cứu sự cố an toàn thông tin trên toàn quốc; Căn cứ Quyết định số 1246/QĐ-BTP ngày 30/5/2022 của Bộ trưởng Bộ Tư pháp về việc thành lập Đội ứng cứu sự cố an toàn thông tin mạng Bộ Tư pháp; Căn cứ Công văn số 4258/BTTTT-CATTT ngày 26/10/2021 của Bộ Thông tin và Truyền thông về việc hướng dẫn tổ chức, hoạt động của Đội Ứng cứu sự cố an toàn thông tin mạng; Theo đề nghị của Cục trưởng Cục Công nghệ thông tin.\nQUYẾT ĐỊNH:",
+    "legal_bases": [
+      "Căn cứ Nghị định số 96/2017/NĐ-CP ngày 16/8/2017 của Chính phủ quy định về chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tư pháp",
+      "Căn cứ Quyết định số 05/2017/QĐ-TTg ngày 16/03/2017 của Thủ tướng Chính phủ ban hành quy định về hệ thống phương án ứng cứu khẩn cấp bảo đảm an toàn thông tin mạng quốc gia",
+      "Căn cứ Chỉ thị số 18/CT-TTg ngày 13/10/2022 của Thủ tướng Chính phủ về đẩy mạnh triển khai các hoạt động ứng cứu sự cố an toàn thông tin mạng Việt Nam",
+      "Căn cứ Thông tư số 20/2017/TT-BTTTT ngày 12/9/2017 của Bộ Thông tin và Truyền thông Quy định về điều phối, ứng cứu sự cố an toàn thông tin trên toàn quốc",
+      "Căn cứ Quyết định số 1246/QĐ-BTP ngày 30/5/2022 của Bộ trưởng Bộ Tư pháp về việc thành lập Đội ứng cứu sự cố an toàn thông tin mạng Bộ Tư pháp",
+      "Căn cứ Công văn số 4258/BTTTT-CATTT ngày 26/10/2021 của Bộ Thông tin và Truyền thông về việc hướng dẫn tổ chức, hoạt động của Đội Ứng cứu sự cố an toàn thông tin mạng"
+    ],
+    "proposals": [
+      "Theo đề nghị của Cục trưởng Cục Công nghệ thông tin.\nQUYẾT ĐỊNH:"
+    ],
+    "enactment_formula": "QUYẾT ĐỊNH"
+  },
+  "passage": "QUYẾT ĐỊNH\nBAN HÀNH QUY CHẾ HOẠT ĐỘNG CỦA ĐỘI ỨNG CỨU\nSỰ CỐ AN TOÀN THÔNG TIN MẠNG BỘ TƯ PHÁP\nBỘ TRƯỞNG BỘ TƯ PHÁP\nCăn cứ Luật An toàn thông tin mạng số 86/2015/QH13 ngày 19/11/2015; Căn cứ Nghị định số 96/2017/NĐ-CP ngày 16/8/2017 của Chính phủ quy định về chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tư pháp; Căn cứ Quyết định số 05/2017/QĐ-TTg ngày 16/03/2017 của Thủ tướng Chính phủ ban hành quy định về hệ thống phương án ứng cứu khẩn cấp bảo đảm an toàn thông tin mạng quốc gia; Căn cứ Chỉ thị số 18/CT-TTg ngày 13/10/2022 của Thủ tướng Chính phủ về đẩy mạnh triển khai các hoạt động ứng cứu sự cố an toàn thông tin mạng Việt Nam; Căn cứ Thông tư số 20/2017/TT-BTTTT ngày 12/9/2017 của Bộ Thông tin và Truyền thông Quy định về điều phối, ứng cứu sự cố an toàn thông tin trên toàn quốc; Căn cứ Quyết định số 1246/QĐ-BTP ngày 30/5/2022 của Bộ trưởng Bộ Tư pháp về việc thành lập Đội ứng cứu sự cố an toàn thông tin mạng Bộ Tư pháp; Căn cứ Công văn số 4258/BTTTT-CATTT ngày 26/10/2021 của Bộ Thông tin và Truyền thông về việc hướng dẫn tổ chức, hoạt động của Đội Ứng cứu sự cố an toàn thông tin mạng; Theo đề nghị của Cục trưởng Cục Công nghệ thông tin.\nQUYẾT ĐỊNH:\nĐiều 1. Ban hành kèm theo Quyết định này Quy chế hoạt động của Đội ứng cứu sự cố an toàn thông tin mạng Bộ Tư pháp.\nĐiều 2. Quyết định này có hiệu lực kể từ ngày ký.\nĐiều 3. Cục trưởng Cục Công nghệ thông tin, Chánh Văn phòng Bộ, Vụ trưởng Vụ Tổ chức cán bộ, Cục trưởng Cục Kế hoạch - Tài chính và Thủ trưởng các đơn vị và cá nhân có liên quan thuộc Bộ Tư pháp chịu trách nhiệm thi hành Quyết định này./.\nNơi nhận:\n- Như điều 3;\n- Bộ trưởng Lê Thành Long (để b/c);\n- Các Thứ trưởng (để biết);\n- Cổng TTĐT Bộ Tư pháp (để đăng tải);\n- Lưu: VT, Cục CNTT.\nKT. BỘ TRƯỞNG\nTHỨ TRƯỞNG\nNguyễn Khánh Ngọc\nQUY CHẾ\nHOẠT ĐỘNG CỦA ĐỘI ỨNG CỨU SỰ CỐ AN NINH, AN\nTOÀN THÔNG TIN BỘ TƯ PHÁP\n(Ban hành kèm theo Quyết định số 2216/QĐ-BTP ngày 11 tháng 11 năm 2022 của\nBộ trưởng Bộ Tư pháp)\nChương I\nQUY ĐỊNH CHUNG\nĐiều 1. Phạm vi và đối tượng áp dụng\n1. Quy chế này\nquy định về nhiệm vụ, trách nhiệm, quyền hạn, nguyên tắc hoạt động và chế độ làm việc và kinh phí hoạt động (theo như Chương II) của Đội ứng cứu sự cố an toàn thông tin mạng Bộ Tư pháp (Đội ứng cứu sự cố).\n2. Quy chế này\nđược áp dụng cho Đội ứng cứu sự cố và các đơn vị, cá nhân có liên quan trong hoạt động điều phối, ứng cứu sự cố an ninh, an toàn thông tin tại Bộ Tư pháp.\nĐiều 2. Giải thích từ ngữ\n1. Sự cố an\nninh, an toàn thông tin là sự kiện đã, đang xảy ra gây mất an ninh, an toàn thông tin trên môi trường mạng (LAN, WAN, INTERNET) được phát hiện thông qua việc giám sát, đánh giá, phân tích của các cơ quan, tổ chức, cá nhân có liên quan hoặc được cảnh báo từ các chuyên gia, tổ chức về lĩnh vực an ninh, an toàn thông tin trong nước và trên thế giới.\n2. Ứng cứu\nsự cố an ninh, an toàn thông tin là hoạt động nhằm xử lý, khắc phục sự cố an ninh, an toàn thông tin, gồm: theo dõi, thu thập, phân tích, phát hiện, cảnh báo, kiểm tra, xác minh, ngăn chặn sự cố, khôi phục dữ liệu và khôi phục hoạt động bình thường của hệ thống thông tin.\n3. Hoạt động\ndiễn tập ứng cứu sự cố là hoạt động nhằm nâng cao nhận thức, trách nhiệm đồng thời nâng cao năng lực, kinh nghiệm điều phối, ứng cứu sự cố; kịp thời ứng phó, giải quyết các vấn đề mất an ninh, an toàn thông tin thông qua tình huống giả định, bảo đảm sẵn sàng ứng phó khi sự cố xảy ra trên các hệ thống công nghệ thông tin.\nĐiều 3. Tổ chức Đội ứng cứu sự cố\n1. Đội ứng cứu\nsự cố được thành lập theo Quyết định số 1246/QĐ-BTP ngày 30/05/2022 của Bộ trưởng Bộ Tư pháp về việc thành lập Đội ứng cứu sự cố an toàn thông tin mạng Bộ Tư pháp, Đội ứng cứu sự cố bao gồm: Đội trưởng, 02 Đội phó và các thành viên. Đội trưởng Đội ứng cứu sự cố được sử dụng con dấu của Cục Công nghệ thông tin để thực hiện nhiệm vụ theo quy định.\n2. Bộ phận Thường\ntrực Đội ứng cứu sự cố được đặt tại Cục Công nghệ thông tin; địa chỉ: 60 Trần Phú, Ba Đình, Hà Nội; Số điện thoại Bộ phận thường trực: 024.62739717; email: ungcuusuco@moj.gov.vn.\nĐiều 4. Chức năng, nhiệm vụ và quyền hạn của Đội ứng cứu sự cố Thực hiện chức năng, nhiệm vụ tại Điều 2 Quyết định thành lập Đội ứng cứu sự cố và quyền hạn của Đội ứng cứu sự cố như sau:\n1. Thực hiện\ncông tác ứng cứu, phối hợp với các đơn vị thuộc Bộ khắc phục sự cố an ninh, an toàn thông tin tại Bộ Tư pháp.\n2. Thực hiện điều\ntra, phân tích các hoạt động an ninh, an toàn thông tin liên quan đến tình huống, sự cố an ninh, an toàn thông tin nhằm nhanh chóng khôi phục hoạt động, giảm thiệt hại.\n3. Chủ trì hoặc\ntham gia đề xuất xây dựng và triển khai Kế hoạch ứng phó sự cố an ninh, an toàn thông tin Bộ Tư pháp. Xây dựng kịch bản, tổ chức diễn tập bảo đảm an ninh, an toàn thông tin tại Bộ Tư pháp.\n4. Tham gia\ncác khóa tập huấn, diễn tập, nâng cao năng lực ứng cứu sự cố.\n5. Tham gia hoạt\nđộng ứng cứu khẩn cấp bảo đảm an ninh, an toàn thông tin quốc gia khi có yêu cầu từ Bộ Thông tin và Truyền thông; Bộ Công an hoặc Cơ quan điều phối quốc gia.\n6. Khi được sự\nđồng ý của lãnh đạo đơn vị gặp sự cố, các thành viên Đội ứng cứu sự cố có quyền truy cập vào hệ thống mạng, hệ thống ứng dụng công nghệ thông tin, cơ sở dữ liệu, nhật ký hệ thống để phân tích, truy vết và thực hiện dưới sự giám sát của đơn vị gặp sự cố.\n7. Báo cáo\nLãnh đạo Bộ những khó khăn, vướng mắc và đề xuất các giải pháp nâng cao hiệu quả công tác ứng cứu sự cố an ninh, an toàn thông tin tại Bộ.\n8. Thành viên\nĐội ứng cứu sự cố có quyền được chia sẻ kinh nghiệm, tham gia các hoạt động diễn tập ứng cứu sự cố, tham gia các khóa đào tạo, bồi dưỡng về an ninh, an toàn thông tin và ứng cứu sự cố.\n9. Thành viên\nĐội ứng cứu sự cố và đầu mối liên hệ có trách nhiệm cung cấp cho đơn vị thường trực thông tin liên hệ đầy đủ bao gồm: họ tên, chức vụ, trình độ, điện thoại, thư điện tử (bắt buộc sử dụng thư điện tử công vụ @moj.gov.vn).\nChương II\nNGUYÊN TẮC,\nCHẾ ĐỘ LÀM VIỆC VÀ KINH PHÍ HOẠT ĐỘNG\nĐiều 5. Nguyên tắc hoạt động\n1. Đội ứng cứu\nsự cố hoạt động theo nguyên tắc tập thể lãnh đạo, cá nhân phụ trách; Bộ phận Thường trực của Đội ứng cứu sự cố chịu trách nhiệm tổ chức triển khai, kiểm tra, theo dõi, tổng hợp đánh giá tình hình và kết quả thực hiện nhiệm vụ của Đội ứng cứu sự cố an ninh, an toàn thông tin.\n2. Tổ chức ứng\ncứu sự cố an ninh, an toàn thông tin phải đúng quy trình ứng cứu sự cố được quy định tại “Chỉ thị số 18/CT-TTg ngày 13/10/2022 của Thủ tướng Chính phủ về đẩy mạnh triển khai các hoạt động ứng cứu sự cố an toàn thông tin mạng Việt Nam; Quyết định số 05/2017/QĐ-TTg ngày 16/3/2017 của Thủ tướng Chính phủ ban hành quy định về hệ thống phương án ứng cứu khẩn cấp bảo đảm an toàn thông tin mạng quốc gia” và “Thông tư số 20/2017/TT-BTTTT ngày 12/9/2017 của Bộ Thông tin và Truyền thông Quy định về điều phối, ứng cứu sự cố an toàn thông tin trên toàn quốc”; dựa trên tính chất, mức độ, phạm vi và nguyên nhân xảy ra sự cố; bảo đảm nhanh chóng, chính xác, kịp thời, hiệu quả và an toàn thông tin.\n3. Thông tin\nđược trao đổi, cung cấp trong quá trình điều phối, xử lý sự cố phải được bảo đảm bí mật theo yêu cầu của đơn vị gặp sự cố, trừ khi sự cố xảy ra có liên quan tới nhiều đối tượng khác cần phải cảnh báo hoặc phối hợp.\n4. Việc trao đổi\nthông tin trong hoạt động điều phối được thực hiện bằng một hoặc nhiều hình thức như: Công văn, thư điện tử, điện thoại... Thành viên Đội ứng cứu sự cố và các đầu mối liên hệ khi tiếp nhận thông tin phải chủ động xác thực đối tượng gửi nhằm bảo đảm thông tin nhận được là tin cậy.\nĐiều 6. Chế độ làm việc\n1. Thành viên\nĐội ứng cứu sự cố làm việc theo chế độ kiêm nhiệm và được hưởng các chế độ theo quy định hiện hành. Khi xảy ra sự cố phải ưu tiên cho hoạt động của Đội ứng cứu sự cố, thực hiện nghiêm túc sự triệu tập, điều phối của Đội trưởng hoặc Đội phó khi được ủy quyền.\n2. Bộ phận Thường\ntrực Đội ứng cứu sự cố giúp Đội trưởng trong hoạt động điều phối, ứng cứu sự cố.\n3. Đội trưởng\ntriệu tập thành viên Đội ứng cứu sự cố, tổ chức phiên họp theo yêu cầu nhiệm vụ hoặc theo yêu cầu của cơ quan cấp trên. Thời gian và địa điểm họp do Đội trưởng quyết định.\n4. Đội trưởng\ntriệu tập và điều phối các thành viên khi có sự cố xảy ra; khi vắng mặt, ủy quyền cho 01 Đội phó thực hiện thẩm quyền của mình. Đội phó khi được ủy quyền được sử dụng thẩm quyền của Đội trưởng để điều phối các hoạt động và chịu trách nhiệm về các quyết định của mình.\n5. Thẩm quyền\nký ban hành văn bản của Đội ứng cứu sự cố thực hiện theo quy định của pháp luật hoặc theo phân công, ủy quyền.\nĐiều 7. Điều kiện và kinh phí hoạt động\n1. Đội ứng cứu\nsự cố được bảo đảm phương tiện, thiết bị và điều kiện cần thiết để duy trì hoạt động.\n2. Kinh phí hoạt\nđộng của Đội ứng cứu sự cố được bố trí trong dự toán ngân sách hàng năm cấp cho Cục Công nghệ thông tin, được sử dụng cho các hoạt động: Mua sắm văn phòng phẩm, trang thiết bị chuyên dụng; tổ chức và tham gia hội thảo, hội nghị, huấn luyện, diễn tập về ứng cứu sự cố, bảo đảm an ninh, an toàn thông tin; duy trì đường dây điện thoại thường trực; công tác phí; chi làm thêm giờ cho việc ứng cứu, khắc phục sự cố… Định mức chi thực hiện theo các quy định hiện hành.\nChương III\nHOẠT ĐỘNG DIỄN\nTẬP, ĐIỀU PHỐI, ỨNG CỨU SỰ CỐ\nĐiều 8. Diễn tập ứng cứu sự cố Đội ứng cứu sự cố xây dựng kịch bản, tổ chức triển khai diễn tập bảo đảm an ninh, an toàn thông tin tại Bộ Tư pháp tối thiểu 01 năm/lần.\nĐiều 9. Thông báo, tiếp nhận và báo cáo sự cố\n1. Đơn vị khi\ngặp sự cố không tự khắc phục được cần thông báo hoặc báo cáo sự cố tới Bộ phận Thường trực Đội ứng cứu sự cố hoặc thành viên Đội ứng cứu sự cố theo Mẫu số 03, 04 Phụ lục I ban hành kèm theo Thông tư số 20/2017/TT-BTTTT .\n2. Khi phát hiện\nvà nhận thấy sự cố nghiêm trọng, đơn vị phải có trách nhiệm thông báo ngay cho Bộ phận Thường trực Đội ứng cứu sự cố.\n3. Các hình thức\nthông báo, báo cáo sự cố:\na) Hình thức\nthông báo sự cố: Bằng công văn, thư điện tử, điện thoại...\nb) Hình thức\nbáo cáo sự cố: Bằng văn bản giấy hoặc văn bản điện tử (có ký tên, đóng dấu hoặc chữ ký số của người có thẩm quyền).\n4. Bộ phận Thường\ntrực Đội ứng cứu sự cố tiếp nhận được thông báo sự cố phải báo cáo ngay cho Đội trưởng.\n5. Đội trưởng\nquyết định điều phối các thành viên trong Đội ứng cứu sự cố; triệu tập cuộc họp (nếu cần); huy động các nguồn lực để xử lý sự cố khi cần thiết.\nĐiều 10. Điều phối ứng cứu sự cố\n1. Đội trưởng\nthực hiện thông báo triệu tập, điều phối bằng văn bản đến các thành viên trong Đội ứng cứu sự cố. Trường hợp khẩn cấp có thể thông báo bằng điện thoại, email công vụ để điều phối và thông báo bằng văn bản sau.\n2. Bộ phận Thường\ntrực Đội ứng cứu sự cố thông báo cho các tổ chức, cá nhân gặp sự cố về yêu cầu phối hợp trong quá trình thực hiện điều phối và ứng cứu sự cố.\n3. Thành viên\nĐội ứng cứu sự cố tiếp nhận thông báo điều phối; phối hợp chặt chẽ với đơn vị xảy ra sự cố và các thành viên cùng tham gia ứng cứu tổ chức thực hiện hoạt động ứng cứu theo quy trình điều phối quy định tại Điều 11 Thông tư số 20/2017/TT-BTTTT ngày 12/9/2017 của Bộ Thông tin và Truyền thông.\n4. Công tác ứng\ncứu kết thúc khi sự cố được khắc phục và hệ thống hoạt động trở lại bình thường.\n5. Sau khi khắc\nphục sự cố, thành viên tham gia ứng cứu sự cố phải có trách nhiệm:\na) Rà soát,\nxác định nguyên nhân cơ bản gây ra sự cố.\nb) Tổ chức kiểm\ntra lại và tham mưu giải pháp khắc phục triệt để sự cố.\nc) Bảo đảm hệ\nthống hoạt động bình thường trước khi bàn giao hệ thống cho đơn vị chủ quản.\nd) Báo cáo kết\nquả thực hiện khắc phục sự cố.\n6. Bộ phận Thường\ntrực Đội ứng cứu sự cố phải lưu trữ thông báo sự cố, thông báo điều phối và báo cáo kết quả thực hiện khắc phục sự cố trong thời gian tối thiểu 01 năm.\nChương IV\nTRÁCH NHIỆM CỦA TỔ CHỨC, CÁ NHÂN\nĐiều 11. Bộ phận thường trực Đội ứng cứu sự cố Chủ trì, phối hợp với các thành viên xây dựng kế hoạch, kinh phí hoạt động của Đội ứng cứu sự cố; là đầu mối liên lạc, tiếp nhận thông tin điều phối ứng cứu sự cố an ninh, an toàn thông tin của Bộ Tư pháp.\nĐiều 12. Trách nhiệm và quyền hạn của Đội trưởng\n1. Chịu trách\nnhiệm trước Lãnh đạo Bộ và trước pháp luật về hoạt động của Đội ứng cứu sự cố; chủ trì các cuộc họp, triệu tập các thành viên để xử lý và khắc phục sự cố an ninh, an toàn thông tin.\n2. Chủ trì tổ\nchức ứng cứu sự cố an ninh, an toàn thông tin tại Bộ Tư pháp, điều phối, phân công các thành viên trong Đội ứng cứu sự cố tham gia ứng cứu khi có sự cố xảy ra.\n3. Quyết định\nhình thức điều phối các hoạt động ứng cứu sự cố và chịu trách nhiệm về các yêu cầu điều phối.\nĐiều 13. Trách nhiệm và quyền hạn của Đội phó\n1. Thực hiện\ncác nhiệm vụ của Đội ứng cứu sự cố được phân công; chịu trách nhiệm trước Đội trưởng và trước pháp luật về việc thực hiện các nhiệm vụ được phân công.\n2. Giúp Đội\ntrưởng điều hành các hoạt động của Đội ứng cứu sự cố, chịu trách nhiệm trước Đội trưởng về nhiệm vụ được giao.\n3. Chỉ đạo các\nthành viên trong các hoạt động xử lý sự cố theo thẩm quyền và nhiệm vụ được phân công; thay mặt Đội trưởng điều hành các hoạt động của Đội ứng cứu sự cố khi được ủy quyền.\n4. Tham gia\ngóp ý, đề xuất xây dựng Kế hoạch hoạt động hàng năm của Đội ứng cứu sự cố; tham gia các hoạt động diễn tập ứng cứu sự cố, các khóa đào tạo, bồi dưỡng về an ninh, an toàn thông tin và ứng cứu sự cố.\nĐiều 14. Trách nhiệm và quyền hạn của các thành viên Đội ứng cứu sự cố\n1. Tham gia đầy\nđủ các hoạt động của Đội ứng cứu sự cố; thực hiện các nhiệm vụ do Đội trưởng phân công và chịu trách nhiệm trước pháp luật về việc thực hiện các nhiệm vụ được Đội trưởng phân công.\n2. Tiếp nhận\nvà xử lý các thông báo sự cố hoặc văn bản triệu tập xử lý sự cố từ Đội trưởng.\n3. Tham gia đầy\nđủ các cuộc họp định kỳ, đột xuất và hoạt động ứng cứu sự cố khi được triệu tập, điều phối của Đội trưởng.\n4. Kịp thời\nbáo cáo, đề xuất giải quyết những khó khăn, vướng mắc trong quá trình thực hiện nhiệm vụ cho Đội trưởng hoặc Đội phó để kịp thời có sự chỉ đạo, xử lý.\n5. Tiếp nhận đầy\nđủ, chính xác thông tin về sự cố và thông báo kịp thời cho Đội trưởng hoặc Đội phó để thực hiện công tác điều phối ứng cứu sự cố.\n6. Tham gia\ngóp ý, đề xuất xây dựng Kế hoạch hoạt động hàng năm của Đội ứng cứu sự cố; tham gia các hoạt động diễn tập ứng cứu sự cố, các khóa đào tạo, bồi dưỡng về an ninh, an toàn thông tin và ứng cứu sự cố.\nChương V\nTỔ CHỨC THỰC HIỆN\nĐiều 15. Điều khoản thi hành\n1. Thủ trưởng\ncác đơn vị thuộc Bộ có công chức, viên chức tham gia Đội ứng cứu sự cố kịp thời thông tin, phối hợp với Bộ phận thường trực của Đội ứng cứu sự cố (Cục Công nghệ thông tin) kiện toàn thành viên Đội ứng cứu sự cố khi có sự thay đổi vị trí công tác hoặc theo nhu cầu của đơn vị và tạo mọi điều kiện cho cán bộ là thành viên Đội ứng cứu sự cố thực hiện tốt Quy chế này.\n2. Các thành\nviên Đội ứng cứu sự cố thực hiện nghiêm túc Quy chế này. Trong quá trình thực hiện nếu có khó khăn, vướng mắc hoặc phát sinh những vấn đề mới, các đơn vị cần phản ánh kịp thời về Cục Công nghệ thông tin để tổng hợp, báo cáo Lãnh đạo Bộ xem xét điều chỉnh, bổ sung Quy chế cho phù hợp./.",
+  "tree": {
+    "parts": [
+      {
+        "part_id": "doc:31896:part:1",
+        "part_type": "main",
+        "part_title": null,
+        "reference": null,
+        "direct_text": "QUYẾT ĐỊNH\nBAN HÀNH QUY CHẾ HOẠT ĐỘNG CỦA ĐỘI ỨNG CỨU\nSỰ CỐ AN TOÀN THÔNG TIN MẠNG BỘ TƯ PHÁP\nBỘ TRƯỞNG BỘ TƯ PHÁP\nCăn cứ Luật An toàn thông tin mạng số 86/2015/QH13 ngày 19/11/2015; Căn cứ Nghị định số 96/2017/NĐ-CP ngày 16/8/2017 của Chính phủ quy định về chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tư pháp; Căn cứ Quyết định số 05/2017/QĐ-TTg ngày 16/03/2017 của Thủ tướng Chính phủ ban hành quy định về hệ thống phương án ứng cứu khẩn cấp bảo đảm an toàn thông tin mạng quốc gia; Căn cứ Chỉ thị số 18/CT-TTg ngày 13/10/2022 của Thủ tướng Chính phủ về đẩy mạnh triển khai các hoạt động ứng cứu sự cố an toàn thông tin mạng Việt Nam; Căn cứ Thông tư số 20/2017/TT-BTTTT ngày 12/9/2017 của Bộ Thông tin và Truyền thông Quy định về điều phối, ứng cứu sự cố an toàn thông tin trên toàn quốc; Căn cứ Quyết định số 1246/QĐ-BTP ngày 30/5/2022 của Bộ trưởng Bộ Tư pháp về việc thành lập Đội ứng cứu sự cố an toàn thông tin mạng Bộ Tư pháp; Căn cứ Công văn số 4258/BTTTT-CATTT ngày 26/10/2021 của Bộ Thông tin và Truyền thông về việc hướng dẫn tổ chức, hoạt động của Đội Ứng cứu sự cố an toàn thông tin mạng; Theo đề nghị của Cục trưởng Cục Công nghệ thông tin.\nQUYẾT ĐỊNH:",
+        "chapters": [],
+        "sections": [],
+        "articles": [
+          {
+            "article_id": "doc:31896:part:1:article:1",
+            "number": "1",
+            "title": "Ban hành kèm theo Quyết định này Quy chế hoạt động của Đội ứng cứu sự cố an toàn thông tin mạng Bộ Tư pháp.",
+            "content": "Điều 1. Ban hành kèm theo Quyết định này Quy chế hoạt động của Đội ứng cứu sự cố an toàn thông tin mạng Bộ Tư pháp.",
+            "clauses": [],
+            "points": []
+          },
+          {
+            "article_id": "doc:31896:part:1:article:2",
+            "number": "2",
+            "title": "Quyết định này có hiệu lực kể từ ngày ký.",
+            "content": "Điều 2. Quyết định này có hiệu lực kể từ ngày ký.",
+            "clauses": [],
+            "points": []
+          },
+          {
+            "article_id": "doc:31896:part:1:article:3",
+            "number": "3",
+            "title": "Cục trưởng Cục Công nghệ thông tin, Chánh Văn phòng Bộ, Vụ trưởng Vụ Tổ chức cán bộ, Cục trưởng Cục Kế hoạch - Tài chính và Thủ trưởng các đơn vị và cá nhân có liên quan thuộc Bộ Tư pháp chịu trách nhiệm thi hành Quyết định này./.",
+            "content": "Điều 3. Cục trưởng Cục Công nghệ thông tin, Chánh Văn phòng Bộ, Vụ trưởng Vụ Tổ chức cán bộ, Cục trưởng Cục Kế hoạch - Tài chính và Thủ trưởng các đơn vị và cá nhân có liên quan thuộc Bộ Tư pháp chịu trách nhiệm thi hành Quyết định này./.",
+            "clauses": [],
+            "points": []
+          }
+        ],
+        "unstructured_blocks": []
+      },
+      {
+        "part_id": "doc:31896:part:2",
+        "part_type": "regulation",
+        "part_title": "QUY CHẾ",
+        "reference": null,
+        "direct_text": "QUY CHẾ\nHOẠT ĐỘNG CỦA ĐỘI ỨNG CỨU SỰ CỐ AN NINH, AN\nTOÀN THÔNG TIN BỘ TƯ PHÁP\n(Ban hành kèm theo Quyết định số 2216/QĐ-BTP ngày 11 tháng 11 năm 2022 của\nBộ trưởng Bộ Tư pháp)",
+        "chapters": [
+          {
+            "chapter_id": "doc:31896:part:2:chapter:1",
+            "number": "I",
+            "title": "QUY ĐỊNH CHUNG",
+            "content": "Chương I\nQUY ĐỊNH CHUNG",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:31896:part:2:article:1",
+                "number": "1",
+                "title": "Phạm vi và đối tượng áp dụng",
+                "content": "Điều 1. Phạm vi và đối tượng áp dụng",
+                "clauses": [
+                  {
+                    "clause_id": "doc:31896:part:2:article:1:clause:1",
+                    "number": "1",
+                    "content": "1. Quy chế này\nquy định về nhiệm vụ, trách nhiệm, quyền hạn, nguyên tắc hoạt động và chế độ làm việc và kinh phí hoạt động (theo như Chương II) của Đội ứng cứu sự cố an toàn thông tin mạng Bộ Tư pháp (Đội ứng cứu sự cố).",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:31896:part:2:article:1:clause:2",
+                    "number": "2",
+                    "content": "2. Quy chế này\nđược áp dụng cho Đội ứng cứu sự cố và các đơn vị, cá nhân có liên quan trong hoạt động điều phối, ứng cứu sự cố an ninh, an toàn thông tin tại Bộ Tư pháp.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:31896:part:2:article:2",
+                "number": "2",
+                "title": "Giải thích từ ngữ",
+                "content": "Điều 2. Giải thích từ ngữ",
+                "clauses": [
+                  {
+                    "clause_id": "doc:31896:part:2:article:2:clause:1",
+                    "number": "1",
+                    "content": "1. Sự cố an\nninh, an toàn thông tin là sự kiện đã, đang xảy ra gây mất an ninh, an toàn thông tin trên môi trường mạng (LAN, WAN, INTERNET) được phát hiện thông qua việc giám sát, đánh giá, phân tích của các cơ quan, tổ chức, cá nhân có liên quan hoặc được cảnh báo từ các chuyên gia, tổ chức về lĩnh vực an ninh, an toàn thông tin trong nước và trên thế giới.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:31896:part:2:article:2:clause:2",
+                    "number": "2",
+                    "content": "2. Ứng cứu\nsự cố an ninh, an toàn thông tin là hoạt động nhằm xử lý, khắc phục sự cố an ninh, an toàn thông tin, gồm: theo dõi, thu thập, phân tích, phát hiện, cảnh báo, kiểm tra, xác minh, ngăn chặn sự cố, khôi phục dữ liệu và khôi phục hoạt động bình thường của hệ thống thông tin.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:31896:part:2:article:2:clause:3",
+                    "number": "3",
+                    "content": "3. Hoạt động\ndiễn tập ứng cứu sự cố là hoạt động nhằm nâng cao nhận thức, trách nhiệm đồng thời nâng cao năng lực, kinh nghiệm điều phối, ứng cứu sự cố; kịp thời ứng phó, giải quyết các vấn đề mất an ninh, an toàn thông tin thông qua tình huống giả định, bảo đảm sẵn sàng ứng phó khi sự cố xảy ra trên các hệ thống công nghệ thông tin.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:31896:part:2:article:3",
+                "number": "3",
+                "title": "Tổ chức Đội ứng cứu sự cố",
+                "content": "Điều 3. Tổ chức Đội ứng cứu sự cố",
+                "clauses": [
+                  {
+                    "clause_id": "doc:31896:part:2:article:3:clause:1",
+                    "number": "1",
+                    "content": "1. Đội ứng cứu\nsự cố được thành lập theo Quyết định số 1246/QĐ-BTP ngày 30/05/2022 của Bộ trưởng Bộ Tư pháp về việc thành lập Đội ứng cứu sự cố an toàn thông tin mạng Bộ Tư pháp, Đội ứng cứu sự cố bao gồm: Đội trưởng, 02 Đội phó và các thành viên. Đội trưởng Đội ứng cứu sự cố được sử dụng con dấu của Cục Công nghệ thông tin để thực hiện nhiệm vụ theo quy định.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:31896:part:2:article:3:clause:2",
+                    "number": "2",
+                    "content": "2. Bộ phận Thường\ntrực Đội ứng cứu sự cố được đặt tại Cục Công nghệ thông tin; địa chỉ: 60 Trần Phú, Ba Đình, Hà Nội; Số điện thoại Bộ phận thường trực: 024.62739717; email: ungcuusuco@moj.gov.vn.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:31896:part:2:article:4",
+                "number": "4",
+                "title": "Chức năng, nhiệm vụ và quyền hạn của Đội ứng cứu sự cố Thực hiện chức năng, nhiệm vụ tại Điều 2 Quyết định thành lập Đội ứng cứu sự cố và quyền hạn của Đội ứng cứu sự cố như sau:",
+                "content": "Điều 4. Chức năng, nhiệm vụ và quyền hạn của Đội ứng cứu sự cố Thực hiện chức năng, nhiệm vụ tại Điều 2 Quyết định thành lập Đội ứng cứu sự cố và quyền hạn của Đội ứng cứu sự cố như sau:",
+                "clauses": [
+                  {
+                    "clause_id": "doc:31896:part:2:article:4:clause:1",
+                    "number": "1",
+                    "content": "1. Thực hiện\ncông tác ứng cứu, phối hợp với các đơn vị thuộc Bộ khắc phục sự cố an ninh, an toàn thông tin tại Bộ Tư pháp.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:31896:part:2:article:4:clause:2",
+                    "number": "2",
+                    "content": "2. Thực hiện điều\ntra, phân tích các hoạt động an ninh, an toàn thông tin liên quan đến tình huống, sự cố an ninh, an toàn thông tin nhằm nhanh chóng khôi phục hoạt động, giảm thiệt hại.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:31896:part:2:article:4:clause:3",
+                    "number": "3",
+                    "content": "3. Chủ trì hoặc\ntham gia đề xuất xây dựng và triển khai Kế hoạch ứng phó sự cố an ninh, an toàn thông tin Bộ Tư pháp. Xây dựng kịch bản, tổ chức diễn tập bảo đảm an ninh, an toàn thông tin tại Bộ Tư pháp.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:31896:part:2:article:4:clause:4",
+                    "number": "4",
+                    "content": "4. Tham gia\ncác khóa tập huấn, diễn tập, nâng cao năng lực ứng cứu sự cố.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:31896:part:2:article:4:clause:5",
+                    "number": "5",
+                    "content": "5. Tham gia hoạt\nđộng ứng cứu khẩn cấp bảo đảm an ninh, an toàn thông tin quốc gia khi có yêu cầu từ Bộ Thông tin và Truyền thông; Bộ Công an hoặc Cơ quan điều phối quốc gia.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:31896:part:2:article:4:clause:6",
+                    "number": "6",
+                    "content": "6. Khi được sự\nđồng ý của lãnh đạo đơn vị gặp sự cố, các thành viên Đội ứng cứu sự cố có quyền truy cập vào hệ thống mạng, hệ thống ứng dụng công nghệ thông tin, cơ sở dữ liệu, nhật ký hệ thống để phân tích, truy vết và thực hiện dưới sự giám sát của đơn vị gặp sự cố.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:31896:part:2:article:4:clause:7",
+                    "number": "7",
+                    "content": "7. Báo cáo\nLãnh đạo Bộ những khó khăn, vướng mắc và đề xuất các giải pháp nâng cao hiệu quả công tác ứng cứu sự cố an ninh, an toàn thông tin tại Bộ.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:31896:part:2:article:4:clause:8",
+                    "number": "8",
+                    "content": "8. Thành viên\nĐội ứng cứu sự cố có quyền được chia sẻ kinh nghiệm, tham gia các hoạt động diễn tập ứng cứu sự cố, tham gia các khóa đào tạo, bồi dưỡng về an ninh, an toàn thông tin và ứng cứu sự cố.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:31896:part:2:article:4:clause:9",
+                    "number": "9",
+                    "content": "9. Thành viên\nĐội ứng cứu sự cố và đầu mối liên hệ có trách nhiệm cung cấp cho đơn vị thường trực thông tin liên hệ đầy đủ bao gồm: họ tên, chức vụ, trình độ, điện thoại, thư điện tử (bắt buộc sử dụng thư điện tử công vụ @moj.gov.vn).",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:31896:part:2:chapter:2",
+            "number": "II",
+            "title": "NGUYÊN TẮC, CHẾ ĐỘ LÀM VIỆC VÀ KINH PHÍ HOẠT ĐỘNG",
+            "content": "Chương II\nNGUYÊN TẮC,\nCHẾ ĐỘ LÀM VIỆC VÀ KINH PHÍ HOẠT ĐỘNG",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:31896:part:2:article:5",
+                "number": "5",
+                "title": "Nguyên tắc hoạt động",
+                "content": "Điều 5. Nguyên tắc hoạt động",
+                "clauses": [
+                  {
+                    "clause_id": "doc:31896:part:2:article:5:clause:1",
+                    "number": "1",
+                    "content": "1. Đội ứng cứu\nsự cố hoạt động theo nguyên tắc tập thể lãnh đạo, cá nhân phụ trách; Bộ phận Thường trực của Đội ứng cứu sự cố chịu trách nhiệm tổ chức triển khai, kiểm tra, theo dõi, tổng hợp đánh giá tình hình và kết quả thực hiện nhiệm vụ của Đội ứng cứu sự cố an ninh, an toàn thông tin.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:31896:part:2:article:5:clause:2",
+                    "number": "2",
+                    "content": "2. Tổ chức ứng\ncứu sự cố an ninh, an toàn thông tin phải đúng quy trình ứng cứu sự cố được quy định tại “Chỉ thị số 18/CT-TTg ngày 13/10/2022 của Thủ tướng Chính phủ về đẩy mạnh triển khai các hoạt động ứng cứu sự cố an toàn thông tin mạng Việt Nam; Quyết định số 05/2017/QĐ-TTg ngày 16/3/2017 của Thủ tướng Chính phủ ban hành quy định về hệ thống phương án ứng cứu khẩn cấp bảo đảm an toàn thông tin mạng quốc gia” và “Thông tư số 20/2017/TT-BTTTT ngày 12/9/2017 của Bộ Thông tin và Truyền thông Quy định về điều phối, ứng cứu sự cố an toàn thông tin trên toàn quốc”; dựa trên tính chất, mức độ, phạm vi và nguyên nhân xảy ra sự cố; bảo đảm nhanh chóng, chính xác, kịp thời, hiệu quả và an toàn thông tin.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:31896:part:2:article:5:clause:3",
+                    "number": "3",
+                    "content": "3. Thông tin\nđược trao đổi, cung cấp trong quá trình điều phối, xử lý sự cố phải được bảo đảm bí mật theo yêu cầu của đơn vị gặp sự cố, trừ khi sự cố xảy ra có liên quan tới nhiều đối tượng khác cần phải cảnh báo hoặc phối hợp.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:31896:part:2:article:5:clause:4",
+                    "number": "4",
+                    "content": "4. Việc trao đổi\nthông tin trong hoạt động điều phối được thực hiện bằng một hoặc nhiều hình thức như: Công văn, thư điện tử, điện thoại... Thành viên Đội ứng cứu sự cố và các đầu mối liên hệ khi tiếp nhận thông tin phải chủ động xác thực đối tượng gửi nhằm bảo đảm thông tin nhận được là tin cậy.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:31896:part:2:article:6",
+                "number": "6",
+                "title": "Chế độ làm việc",
+                "content": "Điều 6. Chế độ làm việc",
+                "clauses": [
+                  {
+                    "clause_id": "doc:31896:part:2:article:6:clause:1",
+                    "number": "1",
+                    "content": "1. Thành viên\nĐội ứng cứu sự cố làm việc theo chế độ kiêm nhiệm và được hưởng các chế độ theo quy định hiện hành. Khi xảy ra sự cố phải ưu tiên cho hoạt động của Đội ứng cứu sự cố, thực hiện nghiêm túc sự triệu tập, điều phối của Đội trưởng hoặc Đội phó khi được ủy quyền.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:31896:part:2:article:6:clause:2",
+                    "number": "2",
+                    "content": "2. Bộ phận Thường\ntrực Đội ứng cứu sự cố giúp Đội trưởng trong hoạt động điều phối, ứng cứu sự cố.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:31896:part:2:article:6:clause:3",
+                    "number": "3",
+                    "content": "3. Đội trưởng\ntriệu tập thành viên Đội ứng cứu sự cố, tổ chức phiên họp theo yêu cầu nhiệm vụ hoặc theo yêu cầu của cơ quan cấp trên. Thời gian và địa điểm họp do Đội trưởng quyết định.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:31896:part:2:article:6:clause:4",
+                    "number": "4",
+                    "content": "4. Đội trưởng\ntriệu tập và điều phối các thành viên khi có sự cố xảy ra; khi vắng mặt, ủy quyền cho 01 Đội phó thực hiện thẩm quyền của mình. Đội phó khi được ủy quyền được sử dụng thẩm quyền của Đội trưởng để điều phối các hoạt động và chịu trách nhiệm về các quyết định của mình.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:31896:part:2:article:6:clause:5",
+                    "number": "5",
+                    "content": "5. Thẩm quyền\nký ban hành văn bản của Đội ứng cứu sự cố thực hiện theo quy định của pháp luật hoặc theo phân công, ủy quyền.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:31896:part:2:article:7",
+                "number": "7",
+                "title": "Điều kiện và kinh phí hoạt động",
+                "content": "Điều 7. Điều kiện và kinh phí hoạt động",
+                "clauses": [
+                  {
+                    "clause_id": "doc:31896:part:2:article:7:clause:1",
+                    "number": "1",
+                    "content": "1. Đội ứng cứu\nsự cố được bảo đảm phương tiện, thiết bị và điều kiện cần thiết để duy trì hoạt động.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:31896:part:2:article:7:clause:2",
+                    "number": "2",
+                    "content": "2. Kinh phí hoạt\nđộng của Đội ứng cứu sự cố được bố trí trong dự toán ngân sách hàng năm cấp cho Cục Công nghệ thông tin, được sử dụng cho các hoạt động: Mua sắm văn phòng phẩm, trang thiết bị chuyên dụng; tổ chức và tham gia hội thảo, hội nghị, huấn luyện, diễn tập về ứng cứu sự cố, bảo đảm an ninh, an toàn thông tin; duy trì đường dây điện thoại thường trực; công tác phí; chi làm thêm giờ cho việc ứng cứu, khắc phục sự cố… Định mức chi thực hiện theo các quy định hiện hành.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:31896:part:2:chapter:3",
+            "number": "III",
+            "title": "HOẠT ĐỘNG DIỄN TẬP, ĐIỀU PHỐI, ỨNG CỨU SỰ CỐ",
+            "content": "Chương III\nHOẠT ĐỘNG DIỄN\nTẬP, ĐIỀU PHỐI, ỨNG CỨU SỰ CỐ",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:31896:part:2:article:8",
+                "number": "8",
+                "title": "Diễn tập ứng cứu sự cố Đội ứng cứu sự cố xây dựng kịch bản, tổ chức triển khai diễn tập bảo đảm an ninh, an toàn thông tin tại Bộ Tư pháp tối thiểu 01 năm/lần.",
+                "content": "Điều 8. Diễn tập ứng cứu sự cố Đội ứng cứu sự cố xây dựng kịch bản, tổ chức triển khai diễn tập bảo đảm an ninh, an toàn thông tin tại Bộ Tư pháp tối thiểu 01 năm/lần.",
+                "clauses": [],
+                "points": []
+              },
+              {
+                "article_id": "doc:31896:part:2:article:9",
+                "number": "9",
+                "title": "Thông báo, tiếp nhận và báo cáo sự cố",
+                "content": "Điều 9. Thông báo, tiếp nhận và báo cáo sự cố",
+                "clauses": [
+                  {
+                    "clause_id": "doc:31896:part:2:article:9:clause:1",
+                    "number": "1",
+                    "content": "1. Đơn vị khi\ngặp sự cố không tự khắc phục được cần thông báo hoặc báo cáo sự cố tới Bộ phận Thường trực Đội ứng cứu sự cố hoặc thành viên Đội ứng cứu sự cố theo Mẫu số 03, 04 Phụ lục I ban hành kèm theo Thông tư số 20/2017/TT-BTTTT .",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:31896:part:2:article:9:clause:2",
+                    "number": "2",
+                    "content": "2. Khi phát hiện\nvà nhận thấy sự cố nghiêm trọng, đơn vị phải có trách nhiệm thông báo ngay cho Bộ phận Thường trực Đội ứng cứu sự cố.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:31896:part:2:article:9:clause:3",
+                    "number": "3",
+                    "content": "3. Các hình thức\nthông báo, báo cáo sự cố:",
+                    "points": [
+                      {
+                        "point_id": "doc:31896:part:2:article:9:clause:3:point:1",
+                        "label": "a",
+                        "content": "a) Hình thức\nthông báo sự cố: Bằng công văn, thư điện tử, điện thoại...",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:31896:part:2:article:9:clause:3:point:2",
+                        "label": "b",
+                        "content": "b) Hình thức\nbáo cáo sự cố: Bằng văn bản giấy hoặc văn bản điện tử (có ký tên, đóng dấu hoặc chữ ký số của người có thẩm quyền).",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:31896:part:2:article:9:clause:4",
+                    "number": "4",
+                    "content": "4. Bộ phận Thường\ntrực Đội ứng cứu sự cố tiếp nhận được thông báo sự cố phải báo cáo ngay cho Đội trưởng.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:31896:part:2:article:9:clause:5",
+                    "number": "5",
+                    "content": "5. Đội trưởng\nquyết định điều phối các thành viên trong Đội ứng cứu sự cố; triệu tập cuộc họp (nếu cần); huy động các nguồn lực để xử lý sự cố khi cần thiết.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:31896:part:2:article:10",
+                "number": "10",
+                "title": "Điều phối ứng cứu sự cố",
+                "content": "Điều 10. Điều phối ứng cứu sự cố",
+                "clauses": [
+                  {
+                    "clause_id": "doc:31896:part:2:article:10:clause:1",
+                    "number": "1",
+                    "content": "1. Đội trưởng\nthực hiện thông báo triệu tập, điều phối bằng văn bản đến các thành viên trong Đội ứng cứu sự cố. Trường hợp khẩn cấp có thể thông báo bằng điện thoại, email công vụ để điều phối và thông báo bằng văn bản sau.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:31896:part:2:article:10:clause:2",
+                    "number": "2",
+                    "content": "2. Bộ phận Thường\ntrực Đội ứng cứu sự cố thông báo cho các tổ chức, cá nhân gặp sự cố về yêu cầu phối hợp trong quá trình thực hiện điều phối và ứng cứu sự cố.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:31896:part:2:article:10:clause:3",
+                    "number": "3",
+                    "content": "3. Thành viên\nĐội ứng cứu sự cố tiếp nhận thông báo điều phối; phối hợp chặt chẽ với đơn vị xảy ra sự cố và các thành viên cùng tham gia ứng cứu tổ chức thực hiện hoạt động ứng cứu theo quy trình điều phối quy định tại Điều 11 Thông tư số 20/2017/TT-BTTTT ngày 12/9/2017 của Bộ Thông tin và Truyền thông.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:31896:part:2:article:10:clause:4",
+                    "number": "4",
+                    "content": "4. Công tác ứng\ncứu kết thúc khi sự cố được khắc phục và hệ thống hoạt động trở lại bình thường.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:31896:part:2:article:10:clause:5",
+                    "number": "5",
+                    "content": "5. Sau khi khắc\nphục sự cố, thành viên tham gia ứng cứu sự cố phải có trách nhiệm:",
+                    "points": [
+                      {
+                        "point_id": "doc:31896:part:2:article:10:clause:5:point:1",
+                        "label": "a",
+                        "content": "a) Rà soát,\nxác định nguyên nhân cơ bản gây ra sự cố.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:31896:part:2:article:10:clause:5:point:2",
+                        "label": "b",
+                        "content": "b) Tổ chức kiểm\ntra lại và tham mưu giải pháp khắc phục triệt để sự cố.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:31896:part:2:article:10:clause:5:point:3",
+                        "label": "c",
+                        "content": "c) Bảo đảm hệ\nthống hoạt động bình thường trước khi bàn giao hệ thống cho đơn vị chủ quản.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:31896:part:2:article:10:clause:5:point:4",
+                        "label": "d",
+                        "content": "d) Báo cáo kết\nquả thực hiện khắc phục sự cố.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:31896:part:2:article:10:clause:6",
+                    "number": "6",
+                    "content": "6. Bộ phận Thường\ntrực Đội ứng cứu sự cố phải lưu trữ thông báo sự cố, thông báo điều phối và báo cáo kết quả thực hiện khắc phục sự cố trong thời gian tối thiểu 01 năm.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:31896:part:2:chapter:4",
+            "number": "IV",
+            "title": "TRÁCH NHIỆM CỦA TỔ CHỨC, CÁ NHÂN",
+            "content": "Chương IV\nTRÁCH NHIỆM CỦA TỔ CHỨC, CÁ NHÂN",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:31896:part:2:article:11",
+                "number": "11",
+                "title": "Bộ phận thường trực Đội ứng cứu sự cố Chủ trì, phối hợp với các thành viên xây dựng kế hoạch, kinh phí hoạt động của Đội ứng cứu sự cố; là đầu mối liên lạc, tiếp nhận thông tin điều phối ứng cứu sự cố an ninh, an toàn thông tin của Bộ Tư pháp.",
+                "content": "Điều 11. Bộ phận thường trực Đội ứng cứu sự cố Chủ trì, phối hợp với các thành viên xây dựng kế hoạch, kinh phí hoạt động của Đội ứng cứu sự cố; là đầu mối liên lạc, tiếp nhận thông tin điều phối ứng cứu sự cố an ninh, an toàn thông tin của Bộ Tư pháp.",
+                "clauses": [],
+                "points": []
+              },
+              {
+                "article_id": "doc:31896:part:2:article:12",
+                "number": "12",
+                "title": "Trách nhiệm và quyền hạn của Đội trưởng",
+                "content": "Điều 12. Trách nhiệm và quyền hạn của Đội trưởng",
+                "clauses": [
+                  {
+                    "clause_id": "doc:31896:part:2:article:12:clause:1",
+                    "number": "1",
+                    "content": "1. Chịu trách\nnhiệm trước Lãnh đạo Bộ và trước pháp luật về hoạt động của Đội ứng cứu sự cố; chủ trì các cuộc họp, triệu tập các thành viên để xử lý và khắc phục sự cố an ninh, an toàn thông tin.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:31896:part:2:article:12:clause:2",
+                    "number": "2",
+                    "content": "2. Chủ trì tổ\nchức ứng cứu sự cố an ninh, an toàn thông tin tại Bộ Tư pháp, điều phối, phân công các thành viên trong Đội ứng cứu sự cố tham gia ứng cứu khi có sự cố xảy ra.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:31896:part:2:article:12:clause:3",
+                    "number": "3",
+                    "content": "3. Quyết định\nhình thức điều phối các hoạt động ứng cứu sự cố và chịu trách nhiệm về các yêu cầu điều phối.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:31896:part:2:article:13",
+                "number": "13",
+                "title": "Trách nhiệm và quyền hạn của Đội phó",
+                "content": "Điều 13. Trách nhiệm và quyền hạn của Đội phó",
+                "clauses": [
+                  {
+                    "clause_id": "doc:31896:part:2:article:13:clause:1",
+                    "number": "1",
+                    "content": "1. Thực hiện\ncác nhiệm vụ của Đội ứng cứu sự cố được phân công; chịu trách nhiệm trước Đội trưởng và trước pháp luật về việc thực hiện các nhiệm vụ được phân công.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:31896:part:2:article:13:clause:2",
+                    "number": "2",
+                    "content": "2. Giúp Đội\ntrưởng điều hành các hoạt động của Đội ứng cứu sự cố, chịu trách nhiệm trước Đội trưởng về nhiệm vụ được giao.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:31896:part:2:article:13:clause:3",
+                    "number": "3",
+                    "content": "3. Chỉ đạo các\nthành viên trong các hoạt động xử lý sự cố theo thẩm quyền và nhiệm vụ được phân công; thay mặt Đội trưởng điều hành các hoạt động của Đội ứng cứu sự cố khi được ủy quyền.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:31896:part:2:article:13:clause:4",
+                    "number": "4",
+                    "content": "4. Tham gia\ngóp ý, đề xuất xây dựng Kế hoạch hoạt động hàng năm của Đội ứng cứu sự cố; tham gia các hoạt động diễn tập ứng cứu sự cố, các khóa đào tạo, bồi dưỡng về an ninh, an toàn thông tin và ứng cứu sự cố.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:31896:part:2:article:14",
+                "number": "14",
+                "title": "Trách nhiệm và quyền hạn của các thành viên Đội ứng cứu sự cố",
+                "content": "Điều 14. Trách nhiệm và quyền hạn của các thành viên Đội ứng cứu sự cố",
+                "clauses": [
+                  {
+                    "clause_id": "doc:31896:part:2:article:14:clause:1",
+                    "number": "1",
+                    "content": "1. Tham gia đầy\nđủ các hoạt động của Đội ứng cứu sự cố; thực hiện các nhiệm vụ do Đội trưởng phân công và chịu trách nhiệm trước pháp luật về việc thực hiện các nhiệm vụ được Đội trưởng phân công.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:31896:part:2:article:14:clause:2",
+                    "number": "2",
+                    "content": "2. Tiếp nhận\nvà xử lý các thông báo sự cố hoặc văn bản triệu tập xử lý sự cố từ Đội trưởng.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:31896:part:2:article:14:clause:3",
+                    "number": "3",
+                    "content": "3. Tham gia đầy\nđủ các cuộc họp định kỳ, đột xuất và hoạt động ứng cứu sự cố khi được triệu tập, điều phối của Đội trưởng.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:31896:part:2:article:14:clause:4",
+                    "number": "4",
+                    "content": "4. Kịp thời\nbáo cáo, đề xuất giải quyết những khó khăn, vướng mắc trong quá trình thực hiện nhiệm vụ cho Đội trưởng hoặc Đội phó để kịp thời có sự chỉ đạo, xử lý.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:31896:part:2:article:14:clause:5",
+                    "number": "5",
+                    "content": "5. Tiếp nhận đầy\nđủ, chính xác thông tin về sự cố và thông báo kịp thời cho Đội trưởng hoặc Đội phó để thực hiện công tác điều phối ứng cứu sự cố.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:31896:part:2:article:14:clause:6",
+                    "number": "6",
+                    "content": "6. Tham gia\ngóp ý, đề xuất xây dựng Kế hoạch hoạt động hàng năm của Đội ứng cứu sự cố; tham gia các hoạt động diễn tập ứng cứu sự cố, các khóa đào tạo, bồi dưỡng về an ninh, an toàn thông tin và ứng cứu sự cố.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:31896:part:2:chapter:5",
+            "number": "V",
+            "title": "TỔ CHỨC THỰC HIỆN",
+            "content": "Chương V\nTỔ CHỨC THỰC HIỆN",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:31896:part:2:article:15",
+                "number": "15",
+                "title": "Điều khoản thi hành",
+                "content": "Điều 15. Điều khoản thi hành",
+                "clauses": [
+                  {
+                    "clause_id": "doc:31896:part:2:article:15:clause:1",
+                    "number": "1",
+                    "content": "1. Thủ trưởng\ncác đơn vị thuộc Bộ có công chức, viên chức tham gia Đội ứng cứu sự cố kịp thời thông tin, phối hợp với Bộ phận thường trực của Đội ứng cứu sự cố (Cục Công nghệ thông tin) kiện toàn thành viên Đội ứng cứu sự cố khi có sự thay đổi vị trí công tác hoặc theo nhu cầu của đơn vị và tạo mọi điều kiện cho cán bộ là thành viên Đội ứng cứu sự cố thực hiện tốt Quy chế này.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:31896:part:2:article:15:clause:2",
+                    "number": "2",
+                    "content": "2. Các thành\nviên Đội ứng cứu sự cố thực hiện nghiêm túc Quy chế này. Trong quá trình thực hiện nếu có khó khăn, vướng mắc hoặc phát sinh những vấn đề mới, các đơn vị cần phản ánh kịp thời về Cục Công nghệ thông tin để tổng hợp, báo cáo Lãnh đạo Bộ xem xét điều chỉnh, bổ sung Quy chế cho phù hợp./.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          }
+        ],
+        "sections": [],
+        "articles": [],
+        "unstructured_blocks": []
+      }
+    ]
+  },
+  "issues": [],
+  "status": "ok",
+  "source_hash": "context_31896.json",
+  "stats": {
+    "source_chars": 14954,
+    "passage_chars": 14806,
+    "parts": 2,
+    "chapters": 5,
+    "sections": 0,
+    "articles": 18,
+    "clauses": 53,
+    "points": 6
+  }
+}

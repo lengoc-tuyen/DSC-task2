@@ -1,0 +1,1059 @@
+{
+  "schema_version": "2.0",
+  "document_id": 34520,
+  "metadata": {
+    "name": "Thong-tu-35-2016-TT-NHNN-an-toan-bao-mat-cho-viec-cung-cap-dich-vu-ngan-hang-tren-Internet-333481",
+    "link": "https://thuvienphapluat.vn/van-ban/Tien-te-Ngan-hang/Thong-tu-35-2016-TT-NHNN-an-toan-bao-mat-cho-viec-cung-cap-dich-vu-ngan-hang-tren-Internet-333481.aspx",
+    "issuing_agency": "NGÂN HÀNG NHÀ NƯỚC VIỆT NAM",
+    "national_header": "CỘNG HÒA XÃ\r\n\n  HỘI CHỦ NGHĨA VIỆT NAM",
+    "motto": "Độc lập - Tự do - Hạnh phúc",
+    "document_number": "35/2016/TT-NHNN",
+    "issued_place": "Hà Nội",
+    "issued_date": "ngày\r\n\n  29 tháng 12 năm 2016",
+    "document_type": "THÔNG TƯ",
+    "title": "QUY ĐỊNH VỀ AN TOÀN, BẢO MẬT CHO VIỆC CUNG CẤP DỊCH VỤ NGÂN HÀNG TRÊN INTERNET"
+  },
+  "administrative_header": {
+    "removed": true,
+    "removed_char_count": 169
+  },
+  "preamble": {
+    "text": "THÔNG TƯ\nQUY ĐỊNH VỀ AN TOÀN, BẢO MẬT CHO VIỆC CUNG CẤP DỊCH VỤ NGÂN\nHÀNG TRÊN INTERNET\nCăn cứ Luật Ngân hàng Nhà nước Việt Nam số 46/2010/QH12 ngày 16 tháng 6 năm 2010; Căn cứ Luật các tổ chức tín dụng số 47/2010/QH12 ngày 16 tháng 6 năm 2010; Căn cứ Luật Giao dịch điện tử số 51/2005/QH11 ngày 29 tháng 11 năm 2005; Căn cứ Luật an toàn thông tin mạng số 86/2015/QH13 ngày 19 tháng 11 năm 2015; Căn cứ Nghị định số 35/2007/NĐ-CP ngày 08 tháng 3 năm 2007 của Chính phủ về giao dịch điện tử trong hoạt động ngân hàng; Căn cứ Nghị định số 156/2013/NĐ-CP ngày 11 tháng 11 năm 2013 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Ngân hàng Nhà nước Việt Nam; Theo đề nghị của Cục trưởng Cục Công nghệ tin học, Thống đốc Ngân hàng Nhà nước Việt Nam ban hành Thông tư quy định về an toàn, bảo mật cho việc cung cấp dịch vụ ngân hàng trên Internet.\nChương I\nQUY ĐỊNH CHUNG",
+    "legal_bases": [
+      "Căn cứ Luật các tổ chức tín dụng số 47/2010/QH12 ngày 16 tháng 6 năm 2010",
+      "Căn cứ Luật Giao dịch điện tử số 51/2005/QH11 ngày 29 tháng 11 năm 2005",
+      "Căn cứ Luật an toàn thông tin mạng số 86/2015/QH13 ngày 19 tháng 11 năm 2015",
+      "Căn cứ Nghị định số 35/2007/NĐ-CP ngày 08 tháng 3 năm 2007 của Chính phủ về giao dịch điện tử trong hoạt động ngân hàng",
+      "Căn cứ Nghị định số 156/2013/NĐ-CP ngày 11 tháng 11 năm 2013 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Ngân hàng Nhà nước Việt Nam"
+    ],
+    "proposals": [
+      "Theo đề nghị của Cục trưởng Cục Công nghệ tin học, Thống đốc Ngân hàng Nhà nước Việt Nam ban hành Thông tư quy định về an toàn, bảo mật cho việc cung cấp dịch vụ ngân hàng trên Internet.\nChương I\nQUY ĐỊNH CHUNG"
+    ],
+    "enactment_formula": null
+  },
+  "passage": "THÔNG TƯ\nQUY ĐỊNH VỀ AN TOÀN, BẢO MẬT CHO VIỆC CUNG CẤP DỊCH VỤ NGÂN\nHÀNG TRÊN INTERNET\nCăn cứ Luật Ngân hàng Nhà nước Việt Nam số 46/2010/QH12 ngày 16 tháng 6 năm 2010; Căn cứ Luật các tổ chức tín dụng số 47/2010/QH12 ngày 16 tháng 6 năm 2010; Căn cứ Luật Giao dịch điện tử số 51/2005/QH11 ngày 29 tháng 11 năm 2005; Căn cứ Luật an toàn thông tin mạng số 86/2015/QH13 ngày 19 tháng 11 năm 2015; Căn cứ Nghị định số 35/2007/NĐ-CP ngày 08 tháng 3 năm 2007 của Chính phủ về giao dịch điện tử trong hoạt động ngân hàng; Căn cứ Nghị định số 156/2013/NĐ-CP ngày 11 tháng 11 năm 2013 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Ngân hàng Nhà nước Việt Nam; Theo đề nghị của Cục trưởng Cục Công nghệ tin học, Thống đốc Ngân hàng Nhà nước Việt Nam ban hành Thông tư quy định về an toàn, bảo mật cho việc cung cấp dịch vụ ngân hàng trên Internet.\nChương I\nQUY ĐỊNH CHUNG\nĐiều 1. Phạm vi điều chỉnh và đối tượng áp dụng\n1. Thông tư này\nquy định các yêu cầu đảm bảo an toàn, bảo mật cho việc cung cấp dịch vụ ngân hàng trên Internet.\n2. Thông tư này\náp dụng đối với các tổ chức tín dụng, chi nhánh ngân hàng nước ngoài, tổ chức cung ứng dịch vụ trung gian thanh toán tại Việt Nam (sau đây gọi chung là đơn vị).\nĐiều 2. Giải thích từ ngữ và thuật ngữ Trong Thông tư này, các từ ngữ dưới đây được hiểu như sau:\n1. Dịch\nvụ ngân hàng trên Internet (Internet Banking) là các dịch vụ ngân hàng và dịch vụ trung gian thanh toán được các đơn vị cung cấp thông qua mạng Internet.\n2. Hệ\nthống Internet Banking là một tập hợp có cấu trúc các trang thiết bị phần cứng, phần mềm, cơ sở dữ liệu, hệ thống mạng truyền thông và an ninh bảo mật để sản xuất, truyền nhận, thu thập, xử lý, lưu trữ và trao đổi thông tin số phục vụ cho việc quản lý và cung cấp dịch vụ Internet Banking.\n3. Khách\nhàng là các tổ chức, cá nhân sử dụng dịch vụ Internet Banking.\n4. Mã khóa\nbí mật dùng một lần (One Time Password - OTP) là mã khóa bí mật có giá trị sử dụng một lần và có hiệu lực trong một khoảng thời gian nhất định, thường được sử dụng như một yếu tố thứ 2 để xác thực người dùng truy cập ứng dụng hoặc thực hiện giao dịch Internet Banking.\n5. Xác thực\nhai yếu tố là phương pháp xác thực yêu cầu hai yếu tố để chứng minh tính đúng đắn của một danh tính. Xác thực hai yếu tố dựa trên những thông tin mà người dùng biết (số PIN, mã khoá bí mật, …) cùng với những gì mà người dùng có (thẻ thông minh, thiết bị token, điện thoại di động …) hoặc những dấu hiệu sinh trắc học của người dùng để xác minh danh tính.\n6. Mã hóa\nđiểm đầu đến điểm cuối (end to end encryption) là cơ chế mã hoá thông tin ở điểm đầu trước khi gửi đi và chỉ được giải mã sau khi nhận được tại điểm cuối trong quá trình trao đổi thông tin giữa các ứng dụng, các thiết bị trong hệ thống nhằm hạn chế rủi ro bị lộ, lọt thông tin trên đường truyền.\nĐiều 3. Nguyên tắc chung về đảm bảo an toàn, bảo mật hệ thống công nghệ thông tin cho việc cung cấp dịch vụ Internet Banking\n1. Hệ\nthống Internet Banking được xếp hạng là hệ thống công nghệ thông tin quan trọng và tuân thủ theo quy định của Ngân hàng Nhà nước về đảm bảo an toàn, bảo mật hệ thống công nghệ thông tin trong hoạt động ngân hàng.\n2. Đảm bảo bí mật thông tin khách hàng; tính toàn vẹn dữ liệu\ngiao dịch khách hàng và mọi giao dịch tài chính của khách hàng phải được xác thực tối thiểu hai yếu tố.\n3. Đảm\nbảo tính sẵn sàng của hệ thống Internet Banking để cung cấp dịch vụ một cách liên tục.\n4. Thực\nhiện kiểm tra, đánh giá an ninh, bảo mật hệ thống Internet Banking theo định kỳ hàng năm.\n5. Xác định\nrủi ro, có biện pháp phòng ngừa, xử lý rủi ro trong cung cấp dịch vụ Internet Banking.\n6. Các trang\nthiết bị hạ tầng kỹ thuật công nghệ thông tin cung cấp dịch vụ Internet Banking phải có bản quyền, nguồn gốc, xuất xứ rõ ràng; trường hợp không còn hỗ trợ của nhà sản xuất, không có khả năng nâng cấp để cài đặt phần mềm phiên bản mới đơn vị phải có kế hoạch nâng cấp, thay thế theo thông báo của nhà sản xuất.\nChương II\nCÁC QUY ĐỊNH CỤ THỂ\nMục 1. HẠ TẦNG KỸ THUẬT CỦA HỆ THỐNG INTERNET BANKING\nĐiều 4. Hệ thống mạng, truyền thông và an ninh bảo mật Đơn vị phải thiết lập hệ thống mạng, truyền thông và an ninh bảo mật đạt yêu cầu tối thiểu sau:\n1. Hệ\nthống mạng được chia tách thành các phân vùng, tối thiểu gồm: phân vùng kết nối Internet, phân vùng trung gian giữa mạng nội bộ và mạng Internet (phân vùng DMZ), phân vùng người dùng, phân vùng quản trị, phân vùng máy chủ. Các máy tính phục vụ cho việc cung cấp thông tin trên Internet phải được đặt trong phân vùng DMZ. Các máy chủ lưu trữ, xử lý dữ liệu phải được đặt trong phân vùng máy chủ.\n2. Trang bị\ncác giải pháp an ninh bảo mật cho hệ thống Internet Banking, tối thiểu gồm: thiết bị tường lửa; phòng chống vi rút; phòng chống tấn công từ chối dịch vụ; tường lửa bảo vệ lớp ứng dụng và phòng chống tấn công xâm nhập.\n3. Dữ liệu nhạy cảm không được lưu trữ tại phân vùng kết nối Internet\nvà phân vùng DMZ.\n4. Kết\nnối từ bên ngoài vào hệ thống Internet Banking phải thông qua phân vùng DMZ để kiểm soát an ninh, bảo mật.\n5. Thiết\nlập chính sách hạn chế tối đa các dịch vụ, cổng kết nối vào hệ thống Internet Banking.\n6. Kiểm\ntra chính sách an ninh bảo mật; quyền truy cập; các kết nối, trang thiết bị, phần mềm cài đặt bất hợp pháp vào hệ thống mạng tối thiểu ba tháng một lần.\n7. Không thiết lập kết nối từ mạng không dây đến môi trường vận hành hệ\nthống Internet Banking.\n8. Hạn\nchế kết nối từ xa để thực hiện công tác quản trị hệ thống. Trường hợp bắt buộc phải kết nối từ xa vào vùng máy chủ, đơn vị phải sử dụng giao thức truyền thông được mã hóa và không lưu mã khóa bí mật tại các phần mềm tiện ích.\n9. Kết\nnối từ Internet vào hệ thống mạng nội bộ để thực hiện công tác quản trị hệ thống phải được tuân thủ các quy tắc sau:\na) Phải\nđược người có thẩm quyền phê duyệt sau khi xem xét mục đích, cách thức kết nối;\nb) Phải\nsử dụng giao thức truyền thông được mã hóa;\nc) Thiết\nbị kết nối phải được cài đặt các phần mềm đảm bảo an ninh bảo mật;\nd) Phải\nsử dụng biện pháp xác thực hai yếu tố khi đăng nhập hệ thống.\n10. Đường truyền kết nối Internet phải đảm bảo tính sẵn sàng và tối thiểu\nphải kết nối từ hai nhà cung cấp dịch vụ khác nhau.\n11. Trang bị\ngiải pháp đảm bảo an toàn bảo mật giữa các phân vùng mạng: giữa các phân vùng mạng khác nhau phải có thiết bị tường lửa hoặc thiết bị phòng chống xâm nhập.\nĐiều 5. Hệ thống máy chủ và phần mềm hệ thống\n1. Yêu cầu\nđối với máy chủ\na) Hiệu\nnăng sử dụng trung bình hàng tháng tối đa 80% công suất thiết kế;\nb) Có tính\nnăng sẵn sàng cao: Hệ thống Internet Banking phải có máy chủ dự phòng tại chỗ;\nc) Tách biệt\nvề lô-gíc hoặc vật lý với các máy chủ hoạt động nghiệp vụ khác.\n2. Đơn vị\nphải lập danh mục các phần mềm được phép cài đặt trên máy chủ. Định kỳ tối thiểu sáu tháng một lần cập nhật, kiểm tra, đảm bảo tuân thủ danh mục này.\nĐiều 6. Hệ quản trị cơ sở dữ liệu\n1. Hệ\nquản trị cơ sở dữ liệu phải có cơ chế bảo vệ và phân quyền truy cập đối với các tài nguyên cơ sở dữ liệu.\n2. Hệ thống Internet Banking phải có cơ sở dữ liệu dự phòng tại Trung\ntâm dự phòng thảm họa. Cơ sở dữ liệu dự phòng phải được cập nhật không quá một giờ so với cơ sở dữ liệu chính thức. Cơ sở dữ liệu phải được sao lưu định kỳ hàng ngày. Các bản sao lưu phải được quản lý, cất giữ an toàn.\n3. Đơn vị\nphải có biện pháp giám sát, ghi nhật ký truy cập cơ sở dữ liệu và các thao tác khi truy cập cơ sở dữ liệu.\nĐiều 7. Phần mềm ứng dụng Internet Banking\n1. Các yêu cầu\nan toàn, bảo mật phải được xác định trước và tổ chức, triển khai trong quá trình phát triển phần mềm ứng dụng: phân tích, thiết kế, kiểm thử, vận hành chính thức và bảo trì. Các tài liệu về an toàn, bảo mật của phần mềm phải được hệ thống hóa và lưu trữ, sử dụng theo chế độ “Mật”.\n2. Đơn vị\nphải kiểm soát mã nguồn phần mềm với các yêu cầu tối thiểu:\na) Kiểm\ntra mã nguồn, nhằm loại trừ các đoạn mã độc hại, các lỗ hổng bảo mật;\nb) Chỉ\nđịnh cụ thể các cá nhân quản lý mã nguồn của phần mềm ứng dụng Internet Banking;\nc) Việc\ntruy cập tới mã nguồn phải được người có thẩm quyền phê duyệt và được theo dõi, ghi nhật ký;\nd) Mã nguồn\nphải được lưu trữ an toàn tại ít nhất hai địa điểm tách biệt;\nđ) Trường\nhợp không được bàn giao mã nguồn, khi ký hợp đồng hoặc nghiệm thu hợp đồng, đơn vị phải yêu cầu bên cung cấp ký cam kết không có các đoạn mã độc hại trong phần mềm ứng dụng mua ngoài.\n3. Đơn vị\nphải kiểm tra thử nghiệm phần mềm ứng dụng Internet Banking đáp ứng các yêu cầu tối thiểu sau:\na) Lập\nvà phê duyệt kế hoạch, kịch bản thử nghiệm phần mềm ứng dụng Internet Banking, trong đó nêu rõ các điều kiện về tính an toàn, bảo mật phải được đáp ứng;\nb) Phát hiện\nvà loại trừ các lỗi, các gian lận có thể xảy ra khi nhập số liệu đầu vào;\nc) Đánh giá,\ndò quét phát hiện lỗ hổng, điểm yếu về mặt kỹ thuật. Đánh giá khả năng phòng chống các kiểu tấn công: Injection (SQL, Xpath, LDAP…), Cross-site Scripting (XSS), Cross-site Request Forgery (XSRF), Brute-Force;\nd) Ghi lại\ncác lỗi và quá trình xử lý lỗi, đặc biệt là các lỗi về an toàn, bảo mật trong các báo cáo về kiểm tra thử nghiệm;\nđ) Kiểm\ntra thử nghiệm các tính năng an toàn, bảo mật phải được thực hiện trên các trình duyệt (ứng dụng web) và phiên bản phần mềm hệ thống của thiết bị di động (ứng dụng mobile); có cơ chế kiểm tra, thông báo cho người dùng chạy ứng dụng trên các trình duyệt, phiên bản phần mềm hệ thống đã được kiểm tra và thử nghiệm an toàn;\ne) Việc\nsử dụng dữ liệu trong quá trình thử nghiệm phải có biện pháp phòng ngừa tránh bị lợi dụng hoặc gây nhầm lẫn.\n4. Trước\nkhi triển khai phần mềm ứng dụng mới, đơn vị phải đánh giá những rủi ro của quá trình triển khai đối với hoạt động nghiệp vụ, các hệ thống công nghệ thông tin liên quan và lập, triển khai các phương án hạn chế, khắc phục rủi ro.\n5. Đơn vị\nthực hiện quản lý, thay đổi và nâng cấp phiên bản phần mềm ứng dụng đáp ứng các yêu cầu sau:\na) Phân tích\nđánh giá ảnh hưởng của việc thay đổi đối với hệ thống hiện tại và các hệ thống có liên quan khác của đơn vị cho mỗi yêu cầu thay đổi phần mềm ứng dụng;\nb) Các phiên bản\nphần mềm bao gồm cả mã nguồn cần được quản lý tập trung, lưu trữ, bảo mật và có cơ chế phân quyền cho từng thành viên trong việc thao tác với các tập tin;\nc) Thông tin về\ncác phiên bản, thời gian cập nhật, người cập nhật các phiên bản phải được lưu lại;\nd) Mỗi\nphiên bản được nâng cấp phải được kiểm tra thử nghiệm các tính năng an toàn, bảo mật, mức độ rủi ro và tính ổn định trước khi triển khai chính thức;\nđ) Việc\nnâng cấp phiên bản phải căn cứ trên kết quả thử nghiệm và được người có thẩm quyền phê duyệt;\ne) Các phiên bản\nphần mềm ứng dụng sau khi thử nghiệm thành công phải được quản lý chặt chẽ; tránh bị sửa đổi trái phép và sẵn sàng cho việc triển khai;\ng) Có các chỉ\ndẫn rõ ràng về nội dung thay đổi, hướng dẫn cập nhật phần mềm ứng dụng, các thông tin liên quan khác và phải được người có thẩm quyền phê duyệt trước khi triển khai phiên bản mới cho khách hàng.\n6. Các tính\nnăng bắt buộc của phần mềm ứng dụng:\na) Toàn bộ\ndữ liệu khi truyền trên môi trường mạng Internet được áp dụng cơ chế mã hóa điểm đầu đến điểm cuối;\nb) Đảm\nbảo tính toàn vẹn của dữ liệu giao dịch, mọi sửa đổi bất hợp pháp phải được phát hiện trong quá trình xử lý giao dịch, lưu trữ dữ liệu;\nc) Có cơ chế kiểm soát phiên giao dịch và thời gian truy cập website, ứng\ndụng. Trường hợp người sử dụng không thao tác trong một khoảng thời gian do đơn vị quy định nhưng không quá năm phút, hệ thống tự động ngắt phiên giao dịch hoặc áp dụng các biện pháp bảo vệ khác;\nd) Có chức\nnăng che giấu đối với việc hiển thị các mã khóa bí mật dùng để đăng nhập vào hệ thống;\nđ) Đối với khách hàng là tổ chức, phần mềm ứng dụng được thiết kế để đảm\nbảo việc thực hiện giao dịch bao gồm tối thiểu hai bước: tạo, phê duyệt giao dịch và được thực hiện bởi tối thiểu hai người khác nhau.\nĐiều 8. Phần mềm ứng dụng trên thiết bị di động Phần mềm ứng dụng Internet Banking trên thiết bị di động do đơn vị cung cấp phải đảm bảo tuân thủ các quy định tại Điều 7 Thông tư này và các yêu cầu sau:\n1. Đơn vị\nphải chỉ rõ đường dẫn trên website hoặc kho ứng dụng để khách hàng tải và cài đặt phần mềm ứng dụng Internet Banking trên thiết bị di động.\n2. Phần\nmềm ứng dụng phải được áp dụng các biện pháp bảo vệ để hạn chế dịch ngược.\n3. Phần mềm ứng dụng phải xác thực người dùng khi truy cập. Trường hợp\nxác thực sai liên tiếp quá số lần do đơn vị quy định, nhưng không được quá năm lần, phần mềm ứng dụng phải tự động khoá tạm thời không cho khách hàng tiếp tục sử dụng.\nMục 2. XÁC THỰC GIAO DỊCH INTERNET BANKING\nĐiều 9. Xác thực khách hàng truy cập dịch vụ Internet Banking\n1. Khách hàng truy cập sử dụng dịch vụ Internet Banking phải được xác\nthực tối thiểu bằng tên đăng nhập và mã khóa bí mật đáp ứng các yêu cầu sau:\na) Tên đăng nhập\nphải có độ dài tối thiểu sáu ký tự; không được sử dụng toàn bộ ký tự trùng nhau hoặc liên tục theo thứ tự trong bảng chữ cái, chữ số;\nb) Mã khóa bí\nmật phải có độ dài tối thiểu sáu ký tự, bao gồm các ký tự chữ và số, có chứa chữ hoa và chữ thường hoặc các ký tự đặc biệt. Thời gian hiệu lực của mã khóa bí mật tối đa 12 tháng.\n2. Phần mềm ứng dụng Internet Banking phải có tính năng bắt buộc khách\nhàng thay đổi mã khóa bí mật ngay lần đăng nhập đầu tiên; khóa tài khoản truy cập trong trường hợp khách hàng nhập sai mã khóa bí mật liên tiếp quá số lần do đơn vị quy định, nhưng không được quá năm lần. Chỉ mở khóa tài khoản khi khách hàng yêu cầu mở tại quầy giao dịch.\nĐiều 10. Yêu cầu đối với các giải pháp xác thực giao dịch\n1. Đơn vị phải đánh giá mức độ rủi ro của giao dịch theo từng loại\nkhách hàng, loại giao dịch, hạn mức giao dịch để cung cấp giải pháp xác thực giao dịch phù hợp cho khách hàng lựa chọn. Hạn mức giao dịch không vượt quá hạn mức quy định của Thống đốc Ngân hàng Nhà nước trong từng thời kỳ.\n2. Yêu cầu\nđối với giải pháp xác thực bằng OTP gửi qua tin nhắn SMS hoặc thư điện tử:\na) OTP gửi\ntới khách hàng phải kèm thông tin cảnh báo để khách hàng nhận biết được mục đích của OTP;\nb) OTP có hiệu\nlực tối đa không quá 05 phút.\n3. Yêu cầu\nđối với giải pháp xác thực bằng thẻ ma trận OTP:\na) Thẻ\nma trận OTP có thời hạn sử dụng tối đa 01 năm kể từ ngày đăng ký thẻ;\nb) OTP có hiệu\nlực tối đa không quá 02 phút.\n4. Yêu cầu\nđối với giải pháp xác thực bằng OTP được tạo từ phần mềm cài đặt trên thiết bị di động:\na) Đơn vị\nphải chỉ rõ đường dẫn trên website hoặc kho ứng dụng để khách hàng tải và cài đặt phần mềm tạo OTP;\nb) Phần\nmềm tạo OTP phải sử dụng mã khóa do đơn vị cung cấp để kích hoạt trước khi sử dụng. Một mã khóa kích hoạt chỉ được sử dụng cho một thiết bị di động;\nc) Phần\nmềm tạo OTP phải được kiểm soát truy cập. Trường hợp xác thực truy cập sai năm lần liên tiếp, phần mềm phải tự động khoá không cho khách hàng sử dụng tiếp;\nd) OTP có hiệu\nlực tối đa không quá 02 phút.\n5. Yêu cầu\nđối với giải pháp xác thực bằng OTP được tạo từ thiết bị (OTP token): OTP có hiệu lực tối đa không quá 02 phút.\n6. Yêu cầu\nđối với giải pháp xác thực bằng chữ ký số: Đơn vị phải sử dụng chữ ký số và dịch vụ chứng thực chữ ký số của tổ chức cung cấp dịch vụ chứng thực chữ ký số hoạt động theo quy định của pháp luật về chữ ký số và dịch vụ chứng thực chữ ký số.\n7. Yêu cầu\nđối với giải pháp xác thực bằng dấu hiệu nhận dạng sinh trắc học: dấu hiệu nhận dạng sinh trắc học phải là dấu hiệu duy nhất gắn với mỗi khách hàng và không thể giả mạo.\nMục 3. QUẢN LÝ VẬN HÀNH\nĐiều 11. Quản lý nhân sự quản trị, vận hành hệ thống Internet Banking\n1. Đơn vị\nphải phân công nhân sự giám sát, theo dõi hoạt động của hệ thống, phát hiện và xử lý các sự cố kỹ thuật, các cuộc tấn công mạng.\n2. Đơn vị\nphải phân công nhân sự tiếp nhận thông tin, hỗ trợ khách hàng, kịp thời liên lạc với khách hàng khi phát hiện các giao dịch bất thường.\n3. Nhân sự\nquản trị, giám sát và vận hành hệ thống Internet Banking phải tham gia các khóa đào tạo cập nhật kiến thức an ninh, bảo mật hằng năm.\n4. Việc\ncấp phát, phân quyền tài khoản quản trị hệ thống Internet Banking phải được theo dõi, giám sát bởi bộ phận độc lập với bộ phận cấp phát tài khoản.\nĐiều 12. Quản lý hoạt động của môi trường vận hành hệ thống Internet Banking\n1. Đơn vị\nkhông cài đặt, lưu trữ phần mềm phát triển ứng dụng, mã nguồn trên môi trường vận hành.\n2. Các máy\ntính của nhân sự quản trị, giám sát và vận hành phải được đặt trong phân vùng mạng quản trị, được cài đặt phần mềm phòng chống vi rút và phải thiết lập chính sách tự động khóa màn hình sau một khoảng thời gian không sử dụng do đơn vị quy định, nhưng không quá 05 phút.\n3. Đơn vị phải thiết lập chính sách cấm truy cập Internet đối với các\nmáy tính của nhân sự quản trị, giám sát và vận hành.\nĐiều 13. Quản lý lỗ hổng, điểm yếu về mặt kỹ thuật Đơn vị phải thực hiện quản lý các lỗ hổng, điểm yếu của hệ thống Internet Banking với các nội dung cơ bản sau:\n1. Có biện\npháp phòng, chống, dò tìm phát hiện các thay đổi của website, ứng dụng Internet Banking.\n2. Thiết\nlập cơ chế phát hiện, phòng chống xâm nhập, tấn công mạng vào hệ thống Internet Banking.\n3. Phối\nhợp với các đơn vị quản lý nhà nước, các đối tác công nghệ thông tin kịp thời nắm bắt các sự cố, tình huống mất an toàn, bảo mật thông tin để có biện pháp ngăn chặn kịp thời.\n4. Rà soát, kiểm\ntra việc cập nhật các bản vá lỗi của phần mềm hệ thống, hệ quản trị cơ sở dữ liệu và phần mềm ứng dụng tối thiểu ba tháng một lần.\n5. Đánh giá an\nninh bảo mật đối với hệ thống Internet Banking tối thiểu mỗi năm một lần. Tổ chức thực hiện diễn tập tấn công thử nghiệm để kiểm tra, đánh giá mức độ đảm bảo an ninh của hệ thống.\nĐiều 14. Hệ thống quản trị, giám sát hoạt động của hệ thống Internet Banking\n1. Đơn vị\nphải thiết lập hệ thống giám sát, theo dõi hoạt động của hệ thống Internet Banking.\n2. Đơn vị\nphải xây dựng các tiêu chí và phần mềm để xác định các giao dịch bất thường dựa vào thời gian, vị trí địa lý, tần suất giao dịch, số tiền giao dịch, số lần đăng nhập sai quá quy định và các dấu hiệu bất thường khác.\n3. Đơn vị\nphải bố trí phòng điều khiển tách biệt với khu vực làm việc chung để thực hiện việc quản trị, giám sát, theo dõi hoạt động của hệ thống Internet Banking đáp ứng yêu cầu sau:\na) Nhân sự\nra vào phòng điều khiển phải được người có thẩm quyền phê duyệt;\nb) Truy cập\nhệ thống để thực hiện công tác quản trị, vận hành và bảo trì phải được thực hiện thông qua các thiết bị đặt tại phòng điều khiển. Trường hợp cần truy cập từ xa hoặc trực tiếp trên thiết bị phải được người có thẩm quyền phê duyệt;\nc) Truy cập\ntừ bên ngoài vào các thiết bị đặt tại phòng điều khiển phải áp dụng các biện pháp xác thực hai yếu tố.\nĐiều 15. Quản lý sự cố bảo mật thông tin Đơn vị phải thiết lập biện pháp ghi nhận, theo dõi và xử lý các sự cố an ninh thông tin. Định kỳ ba tháng một lần đơn vị thực hiện đánh giá, tìm nguyên nhân và chủ động thực hiện các biện pháp phòng tránh tái diễn.\nĐiều 16. Đảm bảo hoạt động liên tục Đơn vị phải xây dựng hệ thống dự phòng thảm hoạ, quy trình, kịch bản đảm bảo hoạt động liên tục cho hệ thống Internet Banking theo quy định của Ngân hàng Nhà nước về đảm bảo an toàn, bảo mật hệ thống công nghệ thông tin trong hoạt động ngân hàng. Ngoài ra, đơn vị phải thực hiện:\n1. Phân tích,\nxác định các tình huống có thể gây mất an ninh thông tin và gián đoạn hoạt động của hệ thống Internet Banking. Xác định, đánh giá mức độ rủi ro, khả năng có thể xảy ra đối với từng tình huống tối thiểu sáu tháng một lần. Lập danh sách các tình huống có mức độ rủi ro, khả năng có thể xảy ra theo các cấp độ cao, trung bình, chấp nhận được và thấp.\n2. Xây dựng\nphương án (quy trình, kịch bản) xử lý khắc phục các tình huống có mức độ rủi ro, khả năng có thể xảy ra ở cấp độ cao và trung bình theo Khoản 1 Điều này. Xác định thời gian dừng hoạt động tối đa để phục hồi hệ thống, phục hồi dữ liệu cho phương án xử lý đối với từng tình huống. Tổ chức phổ biến phương án xử lý đến các nhân sự có liên quan để hiểu rõ nhiệm vụ, công việc cần phải thực hiện khi xử lý.\n3. Bố\ntrí nguồn nhân lực, tài chính và các phương tiện kỹ thuật để tổ chức diễn tập phương án xử lý với các tình huống có mức độ rủi ro, khả năng xảy ra cao theo định kỳ tối thiểu sáu tháng một lần.\n4. Lập\nkế hoạch và tiến hành diễn tập các biện pháp đảm bảo hoạt động kinh doanh liên tục, lưu giữ các hồ sơ có liên quan và tổ chức đánh giá kết quả diễn tập.\nMục 4. BẢO VỆ QUYỀN LỢI CỦA KHÁCH HÀNG\nĐiều 17. Thông tin về dịch vụ Internet Banking\n1. Đơn vị\nphải cung cấp thông tin về dịch vụ Internet Banking cho khách hàng trước khi đăng ký sử dụng dịch vụ, tối thiểu gồm:\na) Cách thức\ncung cấp dịch vụ: trên Internet, thiết bị di động, viễn thông. Cách thức truy cập dịch vụ Internet Banking ứng với từng phương tiện truy cập dịch vụ trên Internet, thiết bị di động, viễn thông;\nb) Hạn\nmức giao dịch và các biện pháp xác thực giao dịch;\nc) Điều\nkiện cần thiết về trang thiết bị khi sử dụng dịch vụ: thiết bị tạo OTP, số điện thoại di động, thư điện tử, chứng thư số, thiết bị di động để cài đặt phần mềm;\nd) Các rủi\nro liên quan đến việc sử dụng dịch vụ Internet Banking.\n2. Đơn vị\nphải thông tin cho khách hàng về hợp đồng cung cấp, sử dụng dịch vụ Internet Banking, tối thiểu gồm:\na) Quyền\nlợi và nghĩa vụ của khách hàng sử dụng dịch vụ Internet Banking;\nb) Trách nhiệm\ncủa đơn vị trong bảo mật các thông tin cá nhân của khách hàng; cách thức đơn vị thu thập, sử dụng thông tin khách hàng; cam kết không bán, tiết lộ, rò rỉ các thông tin khách hàng;\nc) Cam kết\nkhả năng đảm bảo hoạt động liên tục của hệ thống Internet Banking;\nd) Các nội\ndung khác của đơn vị đối với dịch vụ Internet Banking (nếu có).\nĐiều 18. Hướng dẫn khách hàng sử dụng dịch vụ Internet Banking\n1. Đơn vị\nphải xây dựng quy trình, tài liệu hướng dẫn cài đặt, sử dụng các phần mềm, ứng dụng, thiết bị thực hiện các giao dịch Internet Banking và cung cấp, hướng dẫn khách hàng sử dụng các quy trình, tài liệu này.\n2. Đơn vị\nphải hướng dẫn khách hàng thực hiện các biện pháp đảm bảo an toàn, bảo mật khi sử dụng dịch vụ Internet Banking, tối thiểu gồm các nội dung sau:\na) Bảo\nvệ bí mật mã khóa bí mật, OTP và không chia sẻ các thiết bị lưu trữ các thông tin này;\nb) Cách thiết\nlập mã khóa bí mật và thay đổi mã khóa bí mật tài khoản truy cập theo định kỳ tối thiểu một năm một lần hoặc khi bị lộ, nghi bị lộ;\nc) Không dùng\nmáy tính công cộng để truy cập, thực hiện giao dịch Internet Banking;\nd) Không lưu lại\ntên đăng nhập và mã khóa bí mật trên các trình duyệt web;\nđ) Thoát khỏi\nứng dụng Internet Banking khi không sử dụng;\ne) Nhận\ndạng và hành động xử lý một số tình huống lừa đảo, giả mạo website;\ng) Yêu cầu\ncài đặt, sử dụng phần mềm diệt vi rút trên thiết bị cá nhân sử dụng để giao dịch Internet Banking;\nh) Lựa\nchọn các giải pháp xác thực có mức độ an toàn, bảo mật phù hợp với nhu cầu của khách hàng về hạn mức giao dịch;\ni) Cảnh\nbáo các rủi ro liên quan đến việc sử dụng dịch vụ Internet Banking;\nk) Không sử\ndụng các thiết bị di động đã bị phá khóa để tải và sử dụng phần mềm ứng dụng Internet Banking, phần mềm tạo OTP.\nl) Thông báo kịp\nthời cho đơn vị khi phát hiện các giao dịch bất thường;\nm) Thông báo\nngay cho đơn vị các trường hợp: mất, thất lạc, hư hỏng thiết bị tạo OTP, số điện thoại nhận tin nhắn SMS, thiết bị lưu trữ khoá bảo mật tạo chữ ký số; bị lừa đảo hoặc nghi ngờ bị lừa đảo; bị tin tặc hoặc nghi ngờ bị tin tặc tấn công.\n3. Đơn vị\nphải cung cấp cho khách hàng thông tin về đầu mối tiếp nhận thông tin, số điện thoại đường dây nóng và chỉ dẫn cho khách hàng quy trình, cách thức phối hợp xử lý các lỗi và sự cố trong quá trình sử dụng dịch vụ.\nĐiều 19. Bảo mật thông tin khách hàng Đơn vị phải áp dụng các biện pháp đảm bảo an toàn, bảo mật cơ sở dữ liệu khách hàng, tối thiểu bao gồm:\n1. Dữ liệu nhạy cảm của khách hàng khi lưu trữ, truyền trên mạng Internet\nphải được mã hóa hoặc che dấu.\n2. Thiết\nlập quyền truy cập đúng chức năng, nhiệm vụ cho nhân sự thực hiện nhiệm vụ truy cập dữ liệu khách hàng; có biện pháp giám sát mỗi lần truy cập.\n3. Có biện\npháp quản lý truy cập, tiếp cận các thiết bị, phương tiện lưu trữ dữ liệu về thông tin khách hàng để phòng chống nguy cơ lộ, lọt thông tin khách hàng.\nChương III\nĐIỀU KHOẢN THI HÀNH\nĐiều 20. Chế độ báo cáo Các đơn vị cung cấp dịch vụ Internet Banking có trách nhiệm gửi báo cáo bằng văn bản về Ngân hàng Nhà nước Việt Nam (Cục Công nghệ tin học) như sau:\n1. Báo cáo\ncung cấp dịch vụ Internet Banking:\na) Thời\nhạn gửi báo cáo: Tối thiểu 10 ngày làm việc trước khi cung cấp chính thức dịch vụ Internet Banking;\nb) Nội\ndung báo cáo: (i) Địa chỉ website hoặc hoặc kho ứng dụng cung cấp dịch vụ; (ii) Các sản phẩm, dịch vụ hiện đang cung cấp; (iii) Ngày cung cấp chính thức; (iv) Đơn vị cung cấp sản phẩm hệ thống Internet Banking; (v) Bên thứ ba được thuê hoặc cùng hợp tác xây dựng, vận hành hệ thống Internet Banking; các hoạt động liên quan đến hệ thống Internet Banking có sự tham gia của bên thứ ba và hình thức tham gia của các bên thứ ba này; (vi) Các giải pháp xác thực áp dụng với từng loại khách hàng, loại giao dịch và hạn mức giao dịch; (vii) Các tài liệu khác về hạ tầng công nghệ thông tin và truyền thông, nhân lực, quy trình kỹ thuật nghiệp vụ, các phương án xử lý rủi ro và các nội dung liên quan khác theo quy định tại Chương II của Thông tư này.\n2. Báo cáo đột\nxuất:\na) Khi xảy\nra các sự cố mất an toàn hoặc ảnh hưởng đến hoạt động của hệ thống Internet Banking trong vòng 05 ngày kể từ thời điểm phát sinh sự cố hoặc phát hiện sự cố, đơn vị phải gửi báo cáo theo nội dung sau: (i) Thời gian, địa điểm phát sinh sự cố; (ii) Mô tả sơ bộ về sự cố, tình trạng khi xảy ra sự cố; (iii) Nguyên nhân sự cố; (iv) Đánh giá rủi ro, ảnh hưởng đối với hệ thống Internet Banking và các hệ thống khác có liên quan; (v) Tình hình thiệt hại; (vi) Các biện pháp đã thực hiện để khắc phục sự cố, ngăn chặn và phòng ngừa rủi ro; (vii) Kiến nghị, đề xuất.\nb) Các trường\nhợp báo cáo đột xuất khác theo yêu cầu của Ngân hàng Nhà nước.\n3. Báo cáo năm:\nThời hạn và nội dung báo cáo theo quy định của Ngân hàng Nhà nước về chế độ báo cáo thống kê áp dụng đối với các tổ chức tín dụng, chi nhánh ngân hàng nước ngoài.\nĐiều 21. Trách nhiệm của các đơn vị thuộc Ngân hàng Nhà nước\n1. Cục Công nghệ tin học có trách nhiệm:\na) Theo dõi, tổng\nhợp báo cáo Thống đốc Ngân hàng Nhà nước tình hình thực hiện việc đảm bảo an toàn, bảo mật hệ thống công nghệ thông tin cung cấp dịch vụ Internet Banking của các đơn vị theo quy định tại Điều 20 Thông tư này;\nb) Chủ\ntrì, phối hợp với các đơn vị liên quan thuộc Ngân hàng Nhà nước xử lý các vướng mắc phát sinh trong quá trình triển khai thực hiện Thông tư này.\n2. Cơ quan\nThanh tra, giám sát ngân hàng có trách nhiệm phối hợp với Cục Công nghệ tin học kiểm tra, giám sát việc thi hành Thông tư này và xử lý vi phạm hành chính đối với hành vi vi phạm theo quy định của pháp luật.\nĐiều 22. Hiệu lực thi hành Thông tư này có hiệu lực thi hành kể từ ngày 01/07/2017 và thay thế Thông tư 29/2011/TT-NHNN ngày 21/9/2011 của Ngân hàng Nhà nước Việt Nam quy định về đảm bảo an toàn, bảo mật cho việc cung cấp dịch vụ ngân hàng trên Internet.\nĐiều 23. Tổ chức thực hiện Chánh Văn phòng, Cục trưởng Cục Công nghệ tin học và Thủ trưởng các đơn vị thuộc Ngân hàng Nhà nước Việt Nam, Giám đốc Ngân hàng Nhà nước chi nhánh tỉnh, thành phố trực thuộc Trung ương; Chủ tịch Hội đồng quản trị, Chủ tịch Hội đồng thành viên, Tổng giám đốc (Giám đốc) các tổ chức tín dụng, chi nhánh ngân hàng nước ngoài, các tổ chức cung ứng dịch vụ trung gian thanh toán chịu trách nhiệm tổ chức thực hiện Thông tư này./.\nNơi nhận:\n- Như Điều 23;\n- Ban Lãnh đạo NHNN;\n- Văn phòng Chính phủ;\n- Bộ Tư pháp (để kiểm tra);\n- Công báo;\n- Lưu: VP, CNTH, PC.\nKT. THỐNG ĐỐC\nPHÓ THỐNG ĐỐC\nNguyễn Kim Anh",
+  "tree": {
+    "parts": [
+      {
+        "part_id": "doc:34520:part:1",
+        "part_type": "main",
+        "part_title": null,
+        "reference": null,
+        "direct_text": "THÔNG TƯ\nQUY ĐỊNH VỀ AN TOÀN, BẢO MẬT CHO VIỆC CUNG CẤP DỊCH VỤ NGÂN\nHÀNG TRÊN INTERNET\nCăn cứ Luật Ngân hàng Nhà nước Việt Nam số 46/2010/QH12 ngày 16 tháng 6 năm 2010; Căn cứ Luật các tổ chức tín dụng số 47/2010/QH12 ngày 16 tháng 6 năm 2010; Căn cứ Luật Giao dịch điện tử số 51/2005/QH11 ngày 29 tháng 11 năm 2005; Căn cứ Luật an toàn thông tin mạng số 86/2015/QH13 ngày 19 tháng 11 năm 2015; Căn cứ Nghị định số 35/2007/NĐ-CP ngày 08 tháng 3 năm 2007 của Chính phủ về giao dịch điện tử trong hoạt động ngân hàng; Căn cứ Nghị định số 156/2013/NĐ-CP ngày 11 tháng 11 năm 2013 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Ngân hàng Nhà nước Việt Nam; Theo đề nghị của Cục trưởng Cục Công nghệ tin học, Thống đốc Ngân hàng Nhà nước Việt Nam ban hành Thông tư quy định về an toàn, bảo mật cho việc cung cấp dịch vụ ngân hàng trên Internet.",
+        "chapters": [
+          {
+            "chapter_id": "doc:34520:part:1:chapter:1",
+            "number": "I",
+            "title": "QUY ĐỊNH CHUNG",
+            "content": "Chương I\nQUY ĐỊNH CHUNG",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:34520:part:1:article:1",
+                "number": "1",
+                "title": "Phạm vi điều chỉnh và đối tượng áp dụng",
+                "content": "Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng",
+                "clauses": [
+                  {
+                    "clause_id": "doc:34520:part:1:article:1:clause:1",
+                    "number": "1",
+                    "content": "1. Thông tư này\nquy định các yêu cầu đảm bảo an toàn, bảo mật cho việc cung cấp dịch vụ ngân hàng trên Internet.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:34520:part:1:article:1:clause:2",
+                    "number": "2",
+                    "content": "2. Thông tư này\náp dụng đối với các tổ chức tín dụng, chi nhánh ngân hàng nước ngoài, tổ chức cung ứng dịch vụ trung gian thanh toán tại Việt Nam (sau đây gọi chung là đơn vị).",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:34520:part:1:article:2",
+                "number": "2",
+                "title": "Giải thích từ ngữ và thuật ngữ Trong Thông tư này, các từ ngữ dưới đây được hiểu như sau:",
+                "content": "Điều 2. Giải thích từ ngữ và thuật ngữ Trong Thông tư này, các từ ngữ dưới đây được hiểu như sau:",
+                "clauses": [
+                  {
+                    "clause_id": "doc:34520:part:1:article:2:clause:1",
+                    "number": "1",
+                    "content": "1. Dịch\nvụ ngân hàng trên Internet (Internet Banking) là các dịch vụ ngân hàng và dịch vụ trung gian thanh toán được các đơn vị cung cấp thông qua mạng Internet.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:34520:part:1:article:2:clause:2",
+                    "number": "2",
+                    "content": "2. Hệ\nthống Internet Banking là một tập hợp có cấu trúc các trang thiết bị phần cứng, phần mềm, cơ sở dữ liệu, hệ thống mạng truyền thông và an ninh bảo mật để sản xuất, truyền nhận, thu thập, xử lý, lưu trữ và trao đổi thông tin số phục vụ cho việc quản lý và cung cấp dịch vụ Internet Banking.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:34520:part:1:article:2:clause:3",
+                    "number": "3",
+                    "content": "3. Khách\nhàng là các tổ chức, cá nhân sử dụng dịch vụ Internet Banking.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:34520:part:1:article:2:clause:4",
+                    "number": "4",
+                    "content": "4. Mã khóa\nbí mật dùng một lần (One Time Password - OTP) là mã khóa bí mật có giá trị sử dụng một lần và có hiệu lực trong một khoảng thời gian nhất định, thường được sử dụng như một yếu tố thứ 2 để xác thực người dùng truy cập ứng dụng hoặc thực hiện giao dịch Internet Banking.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:34520:part:1:article:2:clause:5",
+                    "number": "5",
+                    "content": "5. Xác thực\nhai yếu tố là phương pháp xác thực yêu cầu hai yếu tố để chứng minh tính đúng đắn của một danh tính. Xác thực hai yếu tố dựa trên những thông tin mà người dùng biết (số PIN, mã khoá bí mật, …) cùng với những gì mà người dùng có (thẻ thông minh, thiết bị token, điện thoại di động …) hoặc những dấu hiệu sinh trắc học của người dùng để xác minh danh tính.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:34520:part:1:article:2:clause:6",
+                    "number": "6",
+                    "content": "6. Mã hóa\nđiểm đầu đến điểm cuối (end to end encryption) là cơ chế mã hoá thông tin ở điểm đầu trước khi gửi đi và chỉ được giải mã sau khi nhận được tại điểm cuối trong quá trình trao đổi thông tin giữa các ứng dụng, các thiết bị trong hệ thống nhằm hạn chế rủi ro bị lộ, lọt thông tin trên đường truyền.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:34520:part:1:article:3",
+                "number": "3",
+                "title": "Nguyên tắc chung về đảm bảo an toàn, bảo mật hệ thống công nghệ thông tin cho việc cung cấp dịch vụ Internet Banking",
+                "content": "Điều 3. Nguyên tắc chung về đảm bảo an toàn, bảo mật hệ thống công nghệ thông tin cho việc cung cấp dịch vụ Internet Banking",
+                "clauses": [
+                  {
+                    "clause_id": "doc:34520:part:1:article:3:clause:1",
+                    "number": "1",
+                    "content": "1. Hệ\nthống Internet Banking được xếp hạng là hệ thống công nghệ thông tin quan trọng và tuân thủ theo quy định của Ngân hàng Nhà nước về đảm bảo an toàn, bảo mật hệ thống công nghệ thông tin trong hoạt động ngân hàng.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:34520:part:1:article:3:clause:2",
+                    "number": "2",
+                    "content": "2. Đảm bảo bí mật thông tin khách hàng; tính toàn vẹn dữ liệu\ngiao dịch khách hàng và mọi giao dịch tài chính của khách hàng phải được xác thực tối thiểu hai yếu tố.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:34520:part:1:article:3:clause:3",
+                    "number": "3",
+                    "content": "3. Đảm\nbảo tính sẵn sàng của hệ thống Internet Banking để cung cấp dịch vụ một cách liên tục.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:34520:part:1:article:3:clause:4",
+                    "number": "4",
+                    "content": "4. Thực\nhiện kiểm tra, đánh giá an ninh, bảo mật hệ thống Internet Banking theo định kỳ hàng năm.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:34520:part:1:article:3:clause:5",
+                    "number": "5",
+                    "content": "5. Xác định\nrủi ro, có biện pháp phòng ngừa, xử lý rủi ro trong cung cấp dịch vụ Internet Banking.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:34520:part:1:article:3:clause:6",
+                    "number": "6",
+                    "content": "6. Các trang\nthiết bị hạ tầng kỹ thuật công nghệ thông tin cung cấp dịch vụ Internet Banking phải có bản quyền, nguồn gốc, xuất xứ rõ ràng; trường hợp không còn hỗ trợ của nhà sản xuất, không có khả năng nâng cấp để cài đặt phần mềm phiên bản mới đơn vị phải có kế hoạch nâng cấp, thay thế theo thông báo của nhà sản xuất.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:34520:part:1:chapter:2",
+            "number": "II",
+            "title": "CÁC QUY ĐỊNH CỤ THỂ",
+            "content": "Chương II\nCÁC QUY ĐỊNH CỤ THỂ",
+            "sections": [
+              {
+                "section_id": "doc:34520:part:1:section:1",
+                "number": "1",
+                "title": "HẠ TẦNG KỸ THUẬT CỦA HỆ THỐNG INTERNET BANKING",
+                "content": "Mục 1. HẠ TẦNG KỸ THUẬT CỦA HỆ THỐNG INTERNET BANKING",
+                "articles": [
+                  {
+                    "article_id": "doc:34520:part:1:article:4",
+                    "number": "4",
+                    "title": "Hệ thống mạng, truyền thông và an ninh bảo mật Đơn vị phải thiết lập hệ thống mạng, truyền thông và an ninh bảo mật đạt yêu cầu tối thiểu sau:",
+                    "content": "Điều 4. Hệ thống mạng, truyền thông và an ninh bảo mật Đơn vị phải thiết lập hệ thống mạng, truyền thông và an ninh bảo mật đạt yêu cầu tối thiểu sau:",
+                    "clauses": [
+                      {
+                        "clause_id": "doc:34520:part:1:article:4:clause:1",
+                        "number": "1",
+                        "content": "1. Hệ\nthống mạng được chia tách thành các phân vùng, tối thiểu gồm: phân vùng kết nối Internet, phân vùng trung gian giữa mạng nội bộ và mạng Internet (phân vùng DMZ), phân vùng người dùng, phân vùng quản trị, phân vùng máy chủ. Các máy tính phục vụ cho việc cung cấp thông tin trên Internet phải được đặt trong phân vùng DMZ. Các máy chủ lưu trữ, xử lý dữ liệu phải được đặt trong phân vùng máy chủ.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:34520:part:1:article:4:clause:2",
+                        "number": "2",
+                        "content": "2. Trang bị\ncác giải pháp an ninh bảo mật cho hệ thống Internet Banking, tối thiểu gồm: thiết bị tường lửa; phòng chống vi rút; phòng chống tấn công từ chối dịch vụ; tường lửa bảo vệ lớp ứng dụng và phòng chống tấn công xâm nhập.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:34520:part:1:article:4:clause:3",
+                        "number": "3",
+                        "content": "3. Dữ liệu nhạy cảm không được lưu trữ tại phân vùng kết nối Internet\nvà phân vùng DMZ.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:34520:part:1:article:4:clause:4",
+                        "number": "4",
+                        "content": "4. Kết\nnối từ bên ngoài vào hệ thống Internet Banking phải thông qua phân vùng DMZ để kiểm soát an ninh, bảo mật.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:34520:part:1:article:4:clause:5",
+                        "number": "5",
+                        "content": "5. Thiết\nlập chính sách hạn chế tối đa các dịch vụ, cổng kết nối vào hệ thống Internet Banking.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:34520:part:1:article:4:clause:6",
+                        "number": "6",
+                        "content": "6. Kiểm\ntra chính sách an ninh bảo mật; quyền truy cập; các kết nối, trang thiết bị, phần mềm cài đặt bất hợp pháp vào hệ thống mạng tối thiểu ba tháng một lần.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:34520:part:1:article:4:clause:7",
+                        "number": "7",
+                        "content": "7. Không thiết lập kết nối từ mạng không dây đến môi trường vận hành hệ\nthống Internet Banking.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:34520:part:1:article:4:clause:8",
+                        "number": "8",
+                        "content": "8. Hạn\nchế kết nối từ xa để thực hiện công tác quản trị hệ thống. Trường hợp bắt buộc phải kết nối từ xa vào vùng máy chủ, đơn vị phải sử dụng giao thức truyền thông được mã hóa và không lưu mã khóa bí mật tại các phần mềm tiện ích.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:34520:part:1:article:4:clause:9",
+                        "number": "9",
+                        "content": "9. Kết\nnối từ Internet vào hệ thống mạng nội bộ để thực hiện công tác quản trị hệ thống phải được tuân thủ các quy tắc sau:",
+                        "points": [
+                          {
+                            "point_id": "doc:34520:part:1:article:4:clause:9:point:1",
+                            "label": "a",
+                            "content": "a) Phải\nđược người có thẩm quyền phê duyệt sau khi xem xét mục đích, cách thức kết nối;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:34520:part:1:article:4:clause:9:point:2",
+                            "label": "b",
+                            "content": "b) Phải\nsử dụng giao thức truyền thông được mã hóa;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:34520:part:1:article:4:clause:9:point:3",
+                            "label": "c",
+                            "content": "c) Thiết\nbị kết nối phải được cài đặt các phần mềm đảm bảo an ninh bảo mật;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:34520:part:1:article:4:clause:9:point:4",
+                            "label": "d",
+                            "content": "d) Phải\nsử dụng biện pháp xác thực hai yếu tố khi đăng nhập hệ thống.",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "clause_id": "doc:34520:part:1:article:4:clause:10",
+                        "number": "10",
+                        "content": "10. Đường truyền kết nối Internet phải đảm bảo tính sẵn sàng và tối thiểu\nphải kết nối từ hai nhà cung cấp dịch vụ khác nhau.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:34520:part:1:article:4:clause:11",
+                        "number": "11",
+                        "content": "11. Trang bị\ngiải pháp đảm bảo an toàn bảo mật giữa các phân vùng mạng: giữa các phân vùng mạng khác nhau phải có thiết bị tường lửa hoặc thiết bị phòng chống xâm nhập.",
+                        "points": []
+                      }
+                    ],
+                    "points": []
+                  },
+                  {
+                    "article_id": "doc:34520:part:1:article:5",
+                    "number": "5",
+                    "title": "Hệ thống máy chủ và phần mềm hệ thống",
+                    "content": "Điều 5. Hệ thống máy chủ và phần mềm hệ thống",
+                    "clauses": [
+                      {
+                        "clause_id": "doc:34520:part:1:article:5:clause:1",
+                        "number": "1",
+                        "content": "1. Yêu cầu\nđối với máy chủ",
+                        "points": [
+                          {
+                            "point_id": "doc:34520:part:1:article:5:clause:1:point:1",
+                            "label": "a",
+                            "content": "a) Hiệu\nnăng sử dụng trung bình hàng tháng tối đa 80% công suất thiết kế;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:34520:part:1:article:5:clause:1:point:2",
+                            "label": "b",
+                            "content": "b) Có tính\nnăng sẵn sàng cao: Hệ thống Internet Banking phải có máy chủ dự phòng tại chỗ;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:34520:part:1:article:5:clause:1:point:3",
+                            "label": "c",
+                            "content": "c) Tách biệt\nvề lô-gíc hoặc vật lý với các máy chủ hoạt động nghiệp vụ khác.",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "clause_id": "doc:34520:part:1:article:5:clause:2",
+                        "number": "2",
+                        "content": "2. Đơn vị\nphải lập danh mục các phần mềm được phép cài đặt trên máy chủ. Định kỳ tối thiểu sáu tháng một lần cập nhật, kiểm tra, đảm bảo tuân thủ danh mục này.",
+                        "points": []
+                      }
+                    ],
+                    "points": []
+                  },
+                  {
+                    "article_id": "doc:34520:part:1:article:6",
+                    "number": "6",
+                    "title": "Hệ quản trị cơ sở dữ liệu",
+                    "content": "Điều 6. Hệ quản trị cơ sở dữ liệu",
+                    "clauses": [
+                      {
+                        "clause_id": "doc:34520:part:1:article:6:clause:1",
+                        "number": "1",
+                        "content": "1. Hệ\nquản trị cơ sở dữ liệu phải có cơ chế bảo vệ và phân quyền truy cập đối với các tài nguyên cơ sở dữ liệu.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:34520:part:1:article:6:clause:2",
+                        "number": "2",
+                        "content": "2. Hệ thống Internet Banking phải có cơ sở dữ liệu dự phòng tại Trung\ntâm dự phòng thảm họa. Cơ sở dữ liệu dự phòng phải được cập nhật không quá một giờ so với cơ sở dữ liệu chính thức. Cơ sở dữ liệu phải được sao lưu định kỳ hàng ngày. Các bản sao lưu phải được quản lý, cất giữ an toàn.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:34520:part:1:article:6:clause:3",
+                        "number": "3",
+                        "content": "3. Đơn vị\nphải có biện pháp giám sát, ghi nhật ký truy cập cơ sở dữ liệu và các thao tác khi truy cập cơ sở dữ liệu.",
+                        "points": []
+                      }
+                    ],
+                    "points": []
+                  },
+                  {
+                    "article_id": "doc:34520:part:1:article:7",
+                    "number": "7",
+                    "title": "Phần mềm ứng dụng Internet Banking",
+                    "content": "Điều 7. Phần mềm ứng dụng Internet Banking\n1. Các yêu cầu\nan toàn, bảo mật phải được xác định trước và tổ chức, triển khai trong quá trình phát triển phần mềm ứng dụng: phân tích, thiết kế, kiểm thử, vận hành chính thức và bảo trì. Các tài liệu về an toàn, bảo mật của phần mềm phải được hệ thống hóa và lưu trữ, sử dụng theo chế độ “Mật”.\n2. Đơn vị\nphải kiểm soát mã nguồn phần mềm với các yêu cầu tối thiểu:\na) Kiểm\ntra mã nguồn, nhằm loại trừ các đoạn mã độc hại, các lỗ hổng bảo mật;\nb) Chỉ\nđịnh cụ thể các cá nhân quản lý mã nguồn của phần mềm ứng dụng Internet Banking;\nc) Việc\ntruy cập tới mã nguồn phải được người có thẩm quyền phê duyệt và được theo dõi, ghi nhật ký;\nd) Mã nguồn\nphải được lưu trữ an toàn tại ít nhất hai địa điểm tách biệt;\nđ) Trường\nhợp không được bàn giao mã nguồn, khi ký hợp đồng hoặc nghiệm thu hợp đồng, đơn vị phải yêu cầu bên cung cấp ký cam kết không có các đoạn mã độc hại trong phần mềm ứng dụng mua ngoài.\n3. Đơn vị\nphải kiểm tra thử nghiệm phần mềm ứng dụng Internet Banking đáp ứng các yêu cầu tối thiểu sau:\na) Lập\nvà phê duyệt kế hoạch, kịch bản thử nghiệm phần mềm ứng dụng Internet Banking, trong đó nêu rõ các điều kiện về tính an toàn, bảo mật phải được đáp ứng;\nb) Phát hiện\nvà loại trừ các lỗi, các gian lận có thể xảy ra khi nhập số liệu đầu vào;\nc) Đánh giá,\ndò quét phát hiện lỗ hổng, điểm yếu về mặt kỹ thuật. Đánh giá khả năng phòng chống các kiểu tấn công: Injection (SQL, Xpath, LDAP…), Cross-site Scripting (XSS), Cross-site Request Forgery (XSRF), Brute-Force;\nd) Ghi lại\ncác lỗi và quá trình xử lý lỗi, đặc biệt là các lỗi về an toàn, bảo mật trong các báo cáo về kiểm tra thử nghiệm;\nđ) Kiểm\ntra thử nghiệm các tính năng an toàn, bảo mật phải được thực hiện trên các trình duyệt (ứng dụng web) và phiên bản phần mềm hệ thống của thiết bị di động (ứng dụng mobile); có cơ chế kiểm tra, thông báo cho người dùng chạy ứng dụng trên các trình duyệt, phiên bản phần mềm hệ thống đã được kiểm tra và thử nghiệm an toàn;\ne) Việc\nsử dụng dữ liệu trong quá trình thử nghiệm phải có biện pháp phòng ngừa tránh bị lợi dụng hoặc gây nhầm lẫn.\n4. Trước\nkhi triển khai phần mềm ứng dụng mới, đơn vị phải đánh giá những rủi ro của quá trình triển khai đối với hoạt động nghiệp vụ, các hệ thống công nghệ thông tin liên quan và lập, triển khai các phương án hạn chế, khắc phục rủi ro.\n5. Đơn vị\nthực hiện quản lý, thay đổi và nâng cấp phiên bản phần mềm ứng dụng đáp ứng các yêu cầu sau:\na) Phân tích\nđánh giá ảnh hưởng của việc thay đổi đối với hệ thống hiện tại và các hệ thống có liên quan khác của đơn vị cho mỗi yêu cầu thay đổi phần mềm ứng dụng;\nb) Các phiên bản\nphần mềm bao gồm cả mã nguồn cần được quản lý tập trung, lưu trữ, bảo mật và có cơ chế phân quyền cho từng thành viên trong việc thao tác với các tập tin;\nc) Thông tin về\ncác phiên bản, thời gian cập nhật, người cập nhật các phiên bản phải được lưu lại;\nd) Mỗi\nphiên bản được nâng cấp phải được kiểm tra thử nghiệm các tính năng an toàn, bảo mật, mức độ rủi ro và tính ổn định trước khi triển khai chính thức;\nđ) Việc\nnâng cấp phiên bản phải căn cứ trên kết quả thử nghiệm và được người có thẩm quyền phê duyệt;\ne) Các phiên bản\nphần mềm ứng dụng sau khi thử nghiệm thành công phải được quản lý chặt chẽ; tránh bị sửa đổi trái phép và sẵn sàng cho việc triển khai;\ng) Có các chỉ\ndẫn rõ ràng về nội dung thay đổi, hướng dẫn cập nhật phần mềm ứng dụng, các thông tin liên quan khác và phải được người có thẩm quyền phê duyệt trước khi triển khai phiên bản mới cho khách hàng.\n6. Các tính\nnăng bắt buộc của phần mềm ứng dụng:\na) Toàn bộ\ndữ liệu khi truyền trên môi trường mạng Internet được áp dụng cơ chế mã hóa điểm đầu đến điểm cuối;\nb) Đảm\nbảo tính toàn vẹn của dữ liệu giao dịch, mọi sửa đổi bất hợp pháp phải được phát hiện trong quá trình xử lý giao dịch, lưu trữ dữ liệu;\nc) Có cơ chế kiểm soát phiên giao dịch và thời gian truy cập website, ứng\ndụng. Trường hợp người sử dụng không thao tác trong một khoảng thời gian do đơn vị quy định nhưng không quá năm phút, hệ thống tự động ngắt phiên giao dịch hoặc áp dụng các biện pháp bảo vệ khác;\nd) Có chức\nnăng che giấu đối với việc hiển thị các mã khóa bí mật dùng để đăng nhập vào hệ thống;\nđ) Đối với khách hàng là tổ chức, phần mềm ứng dụng được thiết kế để đảm\nbảo việc thực hiện giao dịch bao gồm tối thiểu hai bước: tạo, phê duyệt giao dịch và được thực hiện bởi tối thiểu hai người khác nhau.",
+                    "clauses": [],
+                    "points": []
+                  },
+                  {
+                    "article_id": "doc:34520:part:1:article:8",
+                    "number": "8",
+                    "title": "Phần mềm ứng dụng trên thiết bị di động Phần mềm ứng dụng Internet Banking trên thiết bị di động do đơn vị cung cấp phải đảm bảo tuân thủ các quy định tại Điều 7 Thông tư này và các yêu cầu sau:",
+                    "content": "Điều 8. Phần mềm ứng dụng trên thiết bị di động Phần mềm ứng dụng Internet Banking trên thiết bị di động do đơn vị cung cấp phải đảm bảo tuân thủ các quy định tại Điều 7 Thông tư này và các yêu cầu sau:",
+                    "clauses": [
+                      {
+                        "clause_id": "doc:34520:part:1:article:8:clause:1",
+                        "number": "1",
+                        "content": "1. Đơn vị\nphải chỉ rõ đường dẫn trên website hoặc kho ứng dụng để khách hàng tải và cài đặt phần mềm ứng dụng Internet Banking trên thiết bị di động.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:34520:part:1:article:8:clause:2",
+                        "number": "2",
+                        "content": "2. Phần\nmềm ứng dụng phải được áp dụng các biện pháp bảo vệ để hạn chế dịch ngược.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:34520:part:1:article:8:clause:3",
+                        "number": "3",
+                        "content": "3. Phần mềm ứng dụng phải xác thực người dùng khi truy cập. Trường hợp\nxác thực sai liên tiếp quá số lần do đơn vị quy định, nhưng không được quá năm lần, phần mềm ứng dụng phải tự động khoá tạm thời không cho khách hàng tiếp tục sử dụng.",
+                        "points": []
+                      }
+                    ],
+                    "points": []
+                  }
+                ]
+              },
+              {
+                "section_id": "doc:34520:part:1:section:2",
+                "number": "2",
+                "title": "XÁC THỰC GIAO DỊCH INTERNET BANKING",
+                "content": "Mục 2. XÁC THỰC GIAO DỊCH INTERNET BANKING",
+                "articles": [
+                  {
+                    "article_id": "doc:34520:part:1:article:9",
+                    "number": "9",
+                    "title": "Xác thực khách hàng truy cập dịch vụ Internet Banking",
+                    "content": "Điều 9. Xác thực khách hàng truy cập dịch vụ Internet Banking",
+                    "clauses": [
+                      {
+                        "clause_id": "doc:34520:part:1:article:9:clause:1",
+                        "number": "1",
+                        "content": "1. Khách hàng truy cập sử dụng dịch vụ Internet Banking phải được xác\nthực tối thiểu bằng tên đăng nhập và mã khóa bí mật đáp ứng các yêu cầu sau:",
+                        "points": [
+                          {
+                            "point_id": "doc:34520:part:1:article:9:clause:1:point:1",
+                            "label": "a",
+                            "content": "a) Tên đăng nhập\nphải có độ dài tối thiểu sáu ký tự; không được sử dụng toàn bộ ký tự trùng nhau hoặc liên tục theo thứ tự trong bảng chữ cái, chữ số;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:34520:part:1:article:9:clause:1:point:2",
+                            "label": "b",
+                            "content": "b) Mã khóa bí\nmật phải có độ dài tối thiểu sáu ký tự, bao gồm các ký tự chữ và số, có chứa chữ hoa và chữ thường hoặc các ký tự đặc biệt. Thời gian hiệu lực của mã khóa bí mật tối đa 12 tháng.",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "clause_id": "doc:34520:part:1:article:9:clause:2",
+                        "number": "2",
+                        "content": "2. Phần mềm ứng dụng Internet Banking phải có tính năng bắt buộc khách\nhàng thay đổi mã khóa bí mật ngay lần đăng nhập đầu tiên; khóa tài khoản truy cập trong trường hợp khách hàng nhập sai mã khóa bí mật liên tiếp quá số lần do đơn vị quy định, nhưng không được quá năm lần. Chỉ mở khóa tài khoản khi khách hàng yêu cầu mở tại quầy giao dịch.",
+                        "points": []
+                      }
+                    ],
+                    "points": []
+                  },
+                  {
+                    "article_id": "doc:34520:part:1:article:10",
+                    "number": "10",
+                    "title": "Yêu cầu đối với các giải pháp xác thực giao dịch",
+                    "content": "Điều 10. Yêu cầu đối với các giải pháp xác thực giao dịch",
+                    "clauses": [
+                      {
+                        "clause_id": "doc:34520:part:1:article:10:clause:1",
+                        "number": "1",
+                        "content": "1. Đơn vị phải đánh giá mức độ rủi ro của giao dịch theo từng loại\nkhách hàng, loại giao dịch, hạn mức giao dịch để cung cấp giải pháp xác thực giao dịch phù hợp cho khách hàng lựa chọn. Hạn mức giao dịch không vượt quá hạn mức quy định của Thống đốc Ngân hàng Nhà nước trong từng thời kỳ.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:34520:part:1:article:10:clause:2",
+                        "number": "2",
+                        "content": "2. Yêu cầu\nđối với giải pháp xác thực bằng OTP gửi qua tin nhắn SMS hoặc thư điện tử:",
+                        "points": [
+                          {
+                            "point_id": "doc:34520:part:1:article:10:clause:2:point:1",
+                            "label": "a",
+                            "content": "a) OTP gửi\ntới khách hàng phải kèm thông tin cảnh báo để khách hàng nhận biết được mục đích của OTP;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:34520:part:1:article:10:clause:2:point:2",
+                            "label": "b",
+                            "content": "b) OTP có hiệu\nlực tối đa không quá 05 phút.",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "clause_id": "doc:34520:part:1:article:10:clause:3",
+                        "number": "3",
+                        "content": "3. Yêu cầu\nđối với giải pháp xác thực bằng thẻ ma trận OTP:",
+                        "points": [
+                          {
+                            "point_id": "doc:34520:part:1:article:10:clause:3:point:1",
+                            "label": "a",
+                            "content": "a) Thẻ\nma trận OTP có thời hạn sử dụng tối đa 01 năm kể từ ngày đăng ký thẻ;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:34520:part:1:article:10:clause:3:point:2",
+                            "label": "b",
+                            "content": "b) OTP có hiệu\nlực tối đa không quá 02 phút.",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "clause_id": "doc:34520:part:1:article:10:clause:4",
+                        "number": "4",
+                        "content": "4. Yêu cầu\nđối với giải pháp xác thực bằng OTP được tạo từ phần mềm cài đặt trên thiết bị di động:",
+                        "points": [
+                          {
+                            "point_id": "doc:34520:part:1:article:10:clause:4:point:1",
+                            "label": "a",
+                            "content": "a) Đơn vị\nphải chỉ rõ đường dẫn trên website hoặc kho ứng dụng để khách hàng tải và cài đặt phần mềm tạo OTP;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:34520:part:1:article:10:clause:4:point:2",
+                            "label": "b",
+                            "content": "b) Phần\nmềm tạo OTP phải sử dụng mã khóa do đơn vị cung cấp để kích hoạt trước khi sử dụng. Một mã khóa kích hoạt chỉ được sử dụng cho một thiết bị di động;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:34520:part:1:article:10:clause:4:point:3",
+                            "label": "c",
+                            "content": "c) Phần\nmềm tạo OTP phải được kiểm soát truy cập. Trường hợp xác thực truy cập sai năm lần liên tiếp, phần mềm phải tự động khoá không cho khách hàng sử dụng tiếp;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:34520:part:1:article:10:clause:4:point:4",
+                            "label": "d",
+                            "content": "d) OTP có hiệu\nlực tối đa không quá 02 phút.",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "clause_id": "doc:34520:part:1:article:10:clause:5",
+                        "number": "5",
+                        "content": "5. Yêu cầu\nđối với giải pháp xác thực bằng OTP được tạo từ thiết bị (OTP token): OTP có hiệu lực tối đa không quá 02 phút.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:34520:part:1:article:10:clause:6",
+                        "number": "6",
+                        "content": "6. Yêu cầu\nđối với giải pháp xác thực bằng chữ ký số: Đơn vị phải sử dụng chữ ký số và dịch vụ chứng thực chữ ký số của tổ chức cung cấp dịch vụ chứng thực chữ ký số hoạt động theo quy định của pháp luật về chữ ký số và dịch vụ chứng thực chữ ký số.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:34520:part:1:article:10:clause:7",
+                        "number": "7",
+                        "content": "7. Yêu cầu\nđối với giải pháp xác thực bằng dấu hiệu nhận dạng sinh trắc học: dấu hiệu nhận dạng sinh trắc học phải là dấu hiệu duy nhất gắn với mỗi khách hàng và không thể giả mạo.",
+                        "points": []
+                      }
+                    ],
+                    "points": []
+                  }
+                ]
+              },
+              {
+                "section_id": "doc:34520:part:1:section:3",
+                "number": "3",
+                "title": "QUẢN LÝ VẬN HÀNH",
+                "content": "Mục 3. QUẢN LÝ VẬN HÀNH",
+                "articles": [
+                  {
+                    "article_id": "doc:34520:part:1:article:11",
+                    "number": "11",
+                    "title": "Quản lý nhân sự quản trị, vận hành hệ thống Internet Banking",
+                    "content": "Điều 11. Quản lý nhân sự quản trị, vận hành hệ thống Internet Banking",
+                    "clauses": [
+                      {
+                        "clause_id": "doc:34520:part:1:article:11:clause:1",
+                        "number": "1",
+                        "content": "1. Đơn vị\nphải phân công nhân sự giám sát, theo dõi hoạt động của hệ thống, phát hiện và xử lý các sự cố kỹ thuật, các cuộc tấn công mạng.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:34520:part:1:article:11:clause:2",
+                        "number": "2",
+                        "content": "2. Đơn vị\nphải phân công nhân sự tiếp nhận thông tin, hỗ trợ khách hàng, kịp thời liên lạc với khách hàng khi phát hiện các giao dịch bất thường.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:34520:part:1:article:11:clause:3",
+                        "number": "3",
+                        "content": "3. Nhân sự\nquản trị, giám sát và vận hành hệ thống Internet Banking phải tham gia các khóa đào tạo cập nhật kiến thức an ninh, bảo mật hằng năm.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:34520:part:1:article:11:clause:4",
+                        "number": "4",
+                        "content": "4. Việc\ncấp phát, phân quyền tài khoản quản trị hệ thống Internet Banking phải được theo dõi, giám sát bởi bộ phận độc lập với bộ phận cấp phát tài khoản.",
+                        "points": []
+                      }
+                    ],
+                    "points": []
+                  },
+                  {
+                    "article_id": "doc:34520:part:1:article:12",
+                    "number": "12",
+                    "title": "Quản lý hoạt động của môi trường vận hành hệ thống Internet Banking",
+                    "content": "Điều 12. Quản lý hoạt động của môi trường vận hành hệ thống Internet Banking",
+                    "clauses": [
+                      {
+                        "clause_id": "doc:34520:part:1:article:12:clause:1",
+                        "number": "1",
+                        "content": "1. Đơn vị\nkhông cài đặt, lưu trữ phần mềm phát triển ứng dụng, mã nguồn trên môi trường vận hành.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:34520:part:1:article:12:clause:2",
+                        "number": "2",
+                        "content": "2. Các máy\ntính của nhân sự quản trị, giám sát và vận hành phải được đặt trong phân vùng mạng quản trị, được cài đặt phần mềm phòng chống vi rút và phải thiết lập chính sách tự động khóa màn hình sau một khoảng thời gian không sử dụng do đơn vị quy định, nhưng không quá 05 phút.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:34520:part:1:article:12:clause:3",
+                        "number": "3",
+                        "content": "3. Đơn vị phải thiết lập chính sách cấm truy cập Internet đối với các\nmáy tính của nhân sự quản trị, giám sát và vận hành.",
+                        "points": []
+                      }
+                    ],
+                    "points": []
+                  },
+                  {
+                    "article_id": "doc:34520:part:1:article:13",
+                    "number": "13",
+                    "title": "Quản lý lỗ hổng, điểm yếu về mặt kỹ thuật Đơn vị phải thực hiện quản lý các lỗ hổng, điểm yếu của hệ thống Internet Banking với các nội dung cơ bản sau:",
+                    "content": "Điều 13. Quản lý lỗ hổng, điểm yếu về mặt kỹ thuật Đơn vị phải thực hiện quản lý các lỗ hổng, điểm yếu của hệ thống Internet Banking với các nội dung cơ bản sau:",
+                    "clauses": [
+                      {
+                        "clause_id": "doc:34520:part:1:article:13:clause:1",
+                        "number": "1",
+                        "content": "1. Có biện\npháp phòng, chống, dò tìm phát hiện các thay đổi của website, ứng dụng Internet Banking.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:34520:part:1:article:13:clause:2",
+                        "number": "2",
+                        "content": "2. Thiết\nlập cơ chế phát hiện, phòng chống xâm nhập, tấn công mạng vào hệ thống Internet Banking.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:34520:part:1:article:13:clause:3",
+                        "number": "3",
+                        "content": "3. Phối\nhợp với các đơn vị quản lý nhà nước, các đối tác công nghệ thông tin kịp thời nắm bắt các sự cố, tình huống mất an toàn, bảo mật thông tin để có biện pháp ngăn chặn kịp thời.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:34520:part:1:article:13:clause:4",
+                        "number": "4",
+                        "content": "4. Rà soát, kiểm\ntra việc cập nhật các bản vá lỗi của phần mềm hệ thống, hệ quản trị cơ sở dữ liệu và phần mềm ứng dụng tối thiểu ba tháng một lần.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:34520:part:1:article:13:clause:5",
+                        "number": "5",
+                        "content": "5. Đánh giá an\nninh bảo mật đối với hệ thống Internet Banking tối thiểu mỗi năm một lần. Tổ chức thực hiện diễn tập tấn công thử nghiệm để kiểm tra, đánh giá mức độ đảm bảo an ninh của hệ thống.",
+                        "points": []
+                      }
+                    ],
+                    "points": []
+                  },
+                  {
+                    "article_id": "doc:34520:part:1:article:14",
+                    "number": "14",
+                    "title": "Hệ thống quản trị, giám sát hoạt động của hệ thống Internet Banking",
+                    "content": "Điều 14. Hệ thống quản trị, giám sát hoạt động của hệ thống Internet Banking",
+                    "clauses": [
+                      {
+                        "clause_id": "doc:34520:part:1:article:14:clause:1",
+                        "number": "1",
+                        "content": "1. Đơn vị\nphải thiết lập hệ thống giám sát, theo dõi hoạt động của hệ thống Internet Banking.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:34520:part:1:article:14:clause:2",
+                        "number": "2",
+                        "content": "2. Đơn vị\nphải xây dựng các tiêu chí và phần mềm để xác định các giao dịch bất thường dựa vào thời gian, vị trí địa lý, tần suất giao dịch, số tiền giao dịch, số lần đăng nhập sai quá quy định và các dấu hiệu bất thường khác.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:34520:part:1:article:14:clause:3",
+                        "number": "3",
+                        "content": "3. Đơn vị\nphải bố trí phòng điều khiển tách biệt với khu vực làm việc chung để thực hiện việc quản trị, giám sát, theo dõi hoạt động của hệ thống Internet Banking đáp ứng yêu cầu sau:",
+                        "points": [
+                          {
+                            "point_id": "doc:34520:part:1:article:14:clause:3:point:1",
+                            "label": "a",
+                            "content": "a) Nhân sự\nra vào phòng điều khiển phải được người có thẩm quyền phê duyệt;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:34520:part:1:article:14:clause:3:point:2",
+                            "label": "b",
+                            "content": "b) Truy cập\nhệ thống để thực hiện công tác quản trị, vận hành và bảo trì phải được thực hiện thông qua các thiết bị đặt tại phòng điều khiển. Trường hợp cần truy cập từ xa hoặc trực tiếp trên thiết bị phải được người có thẩm quyền phê duyệt;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:34520:part:1:article:14:clause:3:point:3",
+                            "label": "c",
+                            "content": "c) Truy cập\ntừ bên ngoài vào các thiết bị đặt tại phòng điều khiển phải áp dụng các biện pháp xác thực hai yếu tố.",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ],
+                    "points": []
+                  },
+                  {
+                    "article_id": "doc:34520:part:1:article:15",
+                    "number": "15",
+                    "title": "Quản lý sự cố bảo mật thông tin Đơn vị phải thiết lập biện pháp ghi nhận, theo dõi và xử lý các sự cố an ninh thông tin. Định kỳ ba tháng một lần đơn vị thực hiện đánh giá, tìm nguyên nhân và chủ động thực hiện các biện pháp phòng tránh tái diễn.",
+                    "content": "Điều 15. Quản lý sự cố bảo mật thông tin Đơn vị phải thiết lập biện pháp ghi nhận, theo dõi và xử lý các sự cố an ninh thông tin. Định kỳ ba tháng một lần đơn vị thực hiện đánh giá, tìm nguyên nhân và chủ động thực hiện các biện pháp phòng tránh tái diễn.",
+                    "clauses": [],
+                    "points": []
+                  },
+                  {
+                    "article_id": "doc:34520:part:1:article:16",
+                    "number": "16",
+                    "title": "Đảm bảo hoạt động liên tục Đơn vị phải xây dựng hệ thống dự phòng thảm hoạ, quy trình, kịch bản đảm bảo hoạt động liên tục cho hệ thống Internet Banking theo quy định của Ngân hàng Nhà nước về đảm bảo an toàn, bảo mật hệ thống công nghệ thông tin trong hoạt động ngân hàng. Ngoài ra, đơn vị phải thực hiện:",
+                    "content": "Điều 16. Đảm bảo hoạt động liên tục Đơn vị phải xây dựng hệ thống dự phòng thảm hoạ, quy trình, kịch bản đảm bảo hoạt động liên tục cho hệ thống Internet Banking theo quy định của Ngân hàng Nhà nước về đảm bảo an toàn, bảo mật hệ thống công nghệ thông tin trong hoạt động ngân hàng. Ngoài ra, đơn vị phải thực hiện:",
+                    "clauses": [
+                      {
+                        "clause_id": "doc:34520:part:1:article:16:clause:1",
+                        "number": "1",
+                        "content": "1. Phân tích,\nxác định các tình huống có thể gây mất an ninh thông tin và gián đoạn hoạt động của hệ thống Internet Banking. Xác định, đánh giá mức độ rủi ro, khả năng có thể xảy ra đối với từng tình huống tối thiểu sáu tháng một lần. Lập danh sách các tình huống có mức độ rủi ro, khả năng có thể xảy ra theo các cấp độ cao, trung bình, chấp nhận được và thấp.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:34520:part:1:article:16:clause:2",
+                        "number": "2",
+                        "content": "2. Xây dựng\nphương án (quy trình, kịch bản) xử lý khắc phục các tình huống có mức độ rủi ro, khả năng có thể xảy ra ở cấp độ cao và trung bình theo Khoản 1 Điều này. Xác định thời gian dừng hoạt động tối đa để phục hồi hệ thống, phục hồi dữ liệu cho phương án xử lý đối với từng tình huống. Tổ chức phổ biến phương án xử lý đến các nhân sự có liên quan để hiểu rõ nhiệm vụ, công việc cần phải thực hiện khi xử lý.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:34520:part:1:article:16:clause:3",
+                        "number": "3",
+                        "content": "3. Bố\ntrí nguồn nhân lực, tài chính và các phương tiện kỹ thuật để tổ chức diễn tập phương án xử lý với các tình huống có mức độ rủi ro, khả năng xảy ra cao theo định kỳ tối thiểu sáu tháng một lần.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:34520:part:1:article:16:clause:4",
+                        "number": "4",
+                        "content": "4. Lập\nkế hoạch và tiến hành diễn tập các biện pháp đảm bảo hoạt động kinh doanh liên tục, lưu giữ các hồ sơ có liên quan và tổ chức đánh giá kết quả diễn tập.",
+                        "points": []
+                      }
+                    ],
+                    "points": []
+                  }
+                ]
+              },
+              {
+                "section_id": "doc:34520:part:1:section:4",
+                "number": "4",
+                "title": "BẢO VỆ QUYỀN LỢI CỦA KHÁCH HÀNG",
+                "content": "Mục 4. BẢO VỆ QUYỀN LỢI CỦA KHÁCH HÀNG",
+                "articles": [
+                  {
+                    "article_id": "doc:34520:part:1:article:17",
+                    "number": "17",
+                    "title": "Thông tin về dịch vụ Internet Banking",
+                    "content": "Điều 17. Thông tin về dịch vụ Internet Banking",
+                    "clauses": [
+                      {
+                        "clause_id": "doc:34520:part:1:article:17:clause:1",
+                        "number": "1",
+                        "content": "1. Đơn vị\nphải cung cấp thông tin về dịch vụ Internet Banking cho khách hàng trước khi đăng ký sử dụng dịch vụ, tối thiểu gồm:",
+                        "points": [
+                          {
+                            "point_id": "doc:34520:part:1:article:17:clause:1:point:1",
+                            "label": "a",
+                            "content": "a) Cách thức\ncung cấp dịch vụ: trên Internet, thiết bị di động, viễn thông. Cách thức truy cập dịch vụ Internet Banking ứng với từng phương tiện truy cập dịch vụ trên Internet, thiết bị di động, viễn thông;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:34520:part:1:article:17:clause:1:point:2",
+                            "label": "b",
+                            "content": "b) Hạn\nmức giao dịch và các biện pháp xác thực giao dịch;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:34520:part:1:article:17:clause:1:point:3",
+                            "label": "c",
+                            "content": "c) Điều\nkiện cần thiết về trang thiết bị khi sử dụng dịch vụ: thiết bị tạo OTP, số điện thoại di động, thư điện tử, chứng thư số, thiết bị di động để cài đặt phần mềm;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:34520:part:1:article:17:clause:1:point:4",
+                            "label": "d",
+                            "content": "d) Các rủi\nro liên quan đến việc sử dụng dịch vụ Internet Banking.",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "clause_id": "doc:34520:part:1:article:17:clause:2",
+                        "number": "2",
+                        "content": "2. Đơn vị\nphải thông tin cho khách hàng về hợp đồng cung cấp, sử dụng dịch vụ Internet Banking, tối thiểu gồm:",
+                        "points": [
+                          {
+                            "point_id": "doc:34520:part:1:article:17:clause:2:point:1",
+                            "label": "a",
+                            "content": "a) Quyền\nlợi và nghĩa vụ của khách hàng sử dụng dịch vụ Internet Banking;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:34520:part:1:article:17:clause:2:point:2",
+                            "label": "b",
+                            "content": "b) Trách nhiệm\ncủa đơn vị trong bảo mật các thông tin cá nhân của khách hàng; cách thức đơn vị thu thập, sử dụng thông tin khách hàng; cam kết không bán, tiết lộ, rò rỉ các thông tin khách hàng;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:34520:part:1:article:17:clause:2:point:3",
+                            "label": "c",
+                            "content": "c) Cam kết\nkhả năng đảm bảo hoạt động liên tục của hệ thống Internet Banking;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:34520:part:1:article:17:clause:2:point:4",
+                            "label": "d",
+                            "content": "d) Các nội\ndung khác của đơn vị đối với dịch vụ Internet Banking (nếu có).",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ],
+                    "points": []
+                  },
+                  {
+                    "article_id": "doc:34520:part:1:article:18",
+                    "number": "18",
+                    "title": "Hướng dẫn khách hàng sử dụng dịch vụ Internet Banking",
+                    "content": "Điều 18. Hướng dẫn khách hàng sử dụng dịch vụ Internet Banking",
+                    "clauses": [
+                      {
+                        "clause_id": "doc:34520:part:1:article:18:clause:1",
+                        "number": "1",
+                        "content": "1. Đơn vị\nphải xây dựng quy trình, tài liệu hướng dẫn cài đặt, sử dụng các phần mềm, ứng dụng, thiết bị thực hiện các giao dịch Internet Banking và cung cấp, hướng dẫn khách hàng sử dụng các quy trình, tài liệu này.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:34520:part:1:article:18:clause:2",
+                        "number": "2",
+                        "content": "2. Đơn vị\nphải hướng dẫn khách hàng thực hiện các biện pháp đảm bảo an toàn, bảo mật khi sử dụng dịch vụ Internet Banking, tối thiểu gồm các nội dung sau:",
+                        "points": [
+                          {
+                            "point_id": "doc:34520:part:1:article:18:clause:2:point:1",
+                            "label": "a",
+                            "content": "a) Bảo\nvệ bí mật mã khóa bí mật, OTP và không chia sẻ các thiết bị lưu trữ các thông tin này;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:34520:part:1:article:18:clause:2:point:2",
+                            "label": "b",
+                            "content": "b) Cách thiết\nlập mã khóa bí mật và thay đổi mã khóa bí mật tài khoản truy cập theo định kỳ tối thiểu một năm một lần hoặc khi bị lộ, nghi bị lộ;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:34520:part:1:article:18:clause:2:point:3",
+                            "label": "c",
+                            "content": "c) Không dùng\nmáy tính công cộng để truy cập, thực hiện giao dịch Internet Banking;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:34520:part:1:article:18:clause:2:point:4",
+                            "label": "d",
+                            "content": "d) Không lưu lại\ntên đăng nhập và mã khóa bí mật trên các trình duyệt web;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:34520:part:1:article:18:clause:2:point:5",
+                            "label": "đ",
+                            "content": "đ) Thoát khỏi\nứng dụng Internet Banking khi không sử dụng;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:34520:part:1:article:18:clause:2:point:6",
+                            "label": "e",
+                            "content": "e) Nhận\ndạng và hành động xử lý một số tình huống lừa đảo, giả mạo website;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:34520:part:1:article:18:clause:2:point:7",
+                            "label": "g",
+                            "content": "g) Yêu cầu\ncài đặt, sử dụng phần mềm diệt vi rút trên thiết bị cá nhân sử dụng để giao dịch Internet Banking;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:34520:part:1:article:18:clause:2:point:8",
+                            "label": "h",
+                            "content": "h) Lựa\nchọn các giải pháp xác thực có mức độ an toàn, bảo mật phù hợp với nhu cầu của khách hàng về hạn mức giao dịch;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:34520:part:1:article:18:clause:2:point:9",
+                            "label": "i",
+                            "content": "i) Cảnh\nbáo các rủi ro liên quan đến việc sử dụng dịch vụ Internet Banking;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:34520:part:1:article:18:clause:2:point:10",
+                            "label": "k",
+                            "content": "k) Không sử\ndụng các thiết bị di động đã bị phá khóa để tải và sử dụng phần mềm ứng dụng Internet Banking, phần mềm tạo OTP.",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:34520:part:1:article:18:clause:2:point:11",
+                            "label": "l",
+                            "content": "l) Thông báo kịp\nthời cho đơn vị khi phát hiện các giao dịch bất thường;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:34520:part:1:article:18:clause:2:point:12",
+                            "label": "m",
+                            "content": "m) Thông báo\nngay cho đơn vị các trường hợp: mất, thất lạc, hư hỏng thiết bị tạo OTP, số điện thoại nhận tin nhắn SMS, thiết bị lưu trữ khoá bảo mật tạo chữ ký số; bị lừa đảo hoặc nghi ngờ bị lừa đảo; bị tin tặc hoặc nghi ngờ bị tin tặc tấn công.",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "clause_id": "doc:34520:part:1:article:18:clause:3",
+                        "number": "3",
+                        "content": "3. Đơn vị\nphải cung cấp cho khách hàng thông tin về đầu mối tiếp nhận thông tin, số điện thoại đường dây nóng và chỉ dẫn cho khách hàng quy trình, cách thức phối hợp xử lý các lỗi và sự cố trong quá trình sử dụng dịch vụ.",
+                        "points": []
+                      }
+                    ],
+                    "points": []
+                  },
+                  {
+                    "article_id": "doc:34520:part:1:article:19",
+                    "number": "19",
+                    "title": "Bảo mật thông tin khách hàng Đơn vị phải áp dụng các biện pháp đảm bảo an toàn, bảo mật cơ sở dữ liệu khách hàng, tối thiểu bao gồm:",
+                    "content": "Điều 19. Bảo mật thông tin khách hàng Đơn vị phải áp dụng các biện pháp đảm bảo an toàn, bảo mật cơ sở dữ liệu khách hàng, tối thiểu bao gồm:",
+                    "clauses": [
+                      {
+                        "clause_id": "doc:34520:part:1:article:19:clause:1",
+                        "number": "1",
+                        "content": "1. Dữ liệu nhạy cảm của khách hàng khi lưu trữ, truyền trên mạng Internet\nphải được mã hóa hoặc che dấu.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:34520:part:1:article:19:clause:2",
+                        "number": "2",
+                        "content": "2. Thiết\nlập quyền truy cập đúng chức năng, nhiệm vụ cho nhân sự thực hiện nhiệm vụ truy cập dữ liệu khách hàng; có biện pháp giám sát mỗi lần truy cập.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:34520:part:1:article:19:clause:3",
+                        "number": "3",
+                        "content": "3. Có biện\npháp quản lý truy cập, tiếp cận các thiết bị, phương tiện lưu trữ dữ liệu về thông tin khách hàng để phòng chống nguy cơ lộ, lọt thông tin khách hàng.",
+                        "points": []
+                      }
+                    ],
+                    "points": []
+                  }
+                ]
+              }
+            ],
+            "articles": []
+          },
+          {
+            "chapter_id": "doc:34520:part:1:chapter:3",
+            "number": "III",
+            "title": "ĐIỀU KHOẢN THI HÀNH",
+            "content": "Chương III\nĐIỀU KHOẢN THI HÀNH",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:34520:part:1:article:20",
+                "number": "20",
+                "title": "Chế độ báo cáo Các đơn vị cung cấp dịch vụ Internet Banking có trách nhiệm gửi báo cáo bằng văn bản về Ngân hàng Nhà nước Việt Nam (Cục Công nghệ tin học) như sau:",
+                "content": "Điều 20. Chế độ báo cáo Các đơn vị cung cấp dịch vụ Internet Banking có trách nhiệm gửi báo cáo bằng văn bản về Ngân hàng Nhà nước Việt Nam (Cục Công nghệ tin học) như sau:",
+                "clauses": [
+                  {
+                    "clause_id": "doc:34520:part:1:article:20:clause:1",
+                    "number": "1",
+                    "content": "1. Báo cáo\ncung cấp dịch vụ Internet Banking:",
+                    "points": [
+                      {
+                        "point_id": "doc:34520:part:1:article:20:clause:1:point:1",
+                        "label": "a",
+                        "content": "a) Thời\nhạn gửi báo cáo: Tối thiểu 10 ngày làm việc trước khi cung cấp chính thức dịch vụ Internet Banking;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:34520:part:1:article:20:clause:1:point:2",
+                        "label": "b",
+                        "content": "b) Nội\ndung báo cáo: (i) Địa chỉ website hoặc hoặc kho ứng dụng cung cấp dịch vụ; (ii) Các sản phẩm, dịch vụ hiện đang cung cấp; (iii) Ngày cung cấp chính thức; (iv) Đơn vị cung cấp sản phẩm hệ thống Internet Banking; (v) Bên thứ ba được thuê hoặc cùng hợp tác xây dựng, vận hành hệ thống Internet Banking; các hoạt động liên quan đến hệ thống Internet Banking có sự tham gia của bên thứ ba và hình thức tham gia của các bên thứ ba này; (vi) Các giải pháp xác thực áp dụng với từng loại khách hàng, loại giao dịch và hạn mức giao dịch; (vii) Các tài liệu khác về hạ tầng công nghệ thông tin và truyền thông, nhân lực, quy trình kỹ thuật nghiệp vụ, các phương án xử lý rủi ro và các nội dung liên quan khác theo quy định tại Chương II của Thông tư này.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:34520:part:1:article:20:clause:2",
+                    "number": "2",
+                    "content": "2. Báo cáo đột\nxuất:",
+                    "points": [
+                      {
+                        "point_id": "doc:34520:part:1:article:20:clause:2:point:1",
+                        "label": "a",
+                        "content": "a) Khi xảy\nra các sự cố mất an toàn hoặc ảnh hưởng đến hoạt động của hệ thống Internet Banking trong vòng 05 ngày kể từ thời điểm phát sinh sự cố hoặc phát hiện sự cố, đơn vị phải gửi báo cáo theo nội dung sau: (i) Thời gian, địa điểm phát sinh sự cố; (ii) Mô tả sơ bộ về sự cố, tình trạng khi xảy ra sự cố; (iii) Nguyên nhân sự cố; (iv) Đánh giá rủi ro, ảnh hưởng đối với hệ thống Internet Banking và các hệ thống khác có liên quan; (v) Tình hình thiệt hại; (vi) Các biện pháp đã thực hiện để khắc phục sự cố, ngăn chặn và phòng ngừa rủi ro; (vii) Kiến nghị, đề xuất.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:34520:part:1:article:20:clause:2:point:2",
+                        "label": "b",
+                        "content": "b) Các trường\nhợp báo cáo đột xuất khác theo yêu cầu của Ngân hàng Nhà nước.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:34520:part:1:article:20:clause:3",
+                    "number": "3",
+                    "content": "3. Báo cáo năm:\nThời hạn và nội dung báo cáo theo quy định của Ngân hàng Nhà nước về chế độ báo cáo thống kê áp dụng đối với các tổ chức tín dụng, chi nhánh ngân hàng nước ngoài.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:34520:part:1:article:21",
+                "number": "21",
+                "title": "Trách nhiệm của các đơn vị thuộc Ngân hàng Nhà nước",
+                "content": "Điều 21. Trách nhiệm của các đơn vị thuộc Ngân hàng Nhà nước",
+                "clauses": [
+                  {
+                    "clause_id": "doc:34520:part:1:article:21:clause:1",
+                    "number": "1",
+                    "content": "1. Cục Công nghệ tin học có trách nhiệm:",
+                    "points": [
+                      {
+                        "point_id": "doc:34520:part:1:article:21:clause:1:point:1",
+                        "label": "a",
+                        "content": "a) Theo dõi, tổng\nhợp báo cáo Thống đốc Ngân hàng Nhà nước tình hình thực hiện việc đảm bảo an toàn, bảo mật hệ thống công nghệ thông tin cung cấp dịch vụ Internet Banking của các đơn vị theo quy định tại Điều 20 Thông tư này;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:34520:part:1:article:21:clause:1:point:2",
+                        "label": "b",
+                        "content": "b) Chủ\ntrì, phối hợp với các đơn vị liên quan thuộc Ngân hàng Nhà nước xử lý các vướng mắc phát sinh trong quá trình triển khai thực hiện Thông tư này.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:34520:part:1:article:21:clause:2",
+                    "number": "2",
+                    "content": "2. Cơ quan\nThanh tra, giám sát ngân hàng có trách nhiệm phối hợp với Cục Công nghệ tin học kiểm tra, giám sát việc thi hành Thông tư này và xử lý vi phạm hành chính đối với hành vi vi phạm theo quy định của pháp luật.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:34520:part:1:article:22",
+                "number": "22",
+                "title": "Hiệu lực thi hành Thông tư này có hiệu lực thi hành kể từ ngày 01/07/2017 và thay thế Thông tư 29/2011/TT-NHNN ngày 21/9/2011 của Ngân hàng Nhà nước Việt Nam quy định về đảm bảo an toàn, bảo mật cho việc cung cấp dịch vụ ngân hàng trên Internet.",
+                "content": "Điều 22. Hiệu lực thi hành Thông tư này có hiệu lực thi hành kể từ ngày 01/07/2017 và thay thế Thông tư 29/2011/TT-NHNN ngày 21/9/2011 của Ngân hàng Nhà nước Việt Nam quy định về đảm bảo an toàn, bảo mật cho việc cung cấp dịch vụ ngân hàng trên Internet.",
+                "clauses": [],
+                "points": []
+              },
+              {
+                "article_id": "doc:34520:part:1:article:23",
+                "number": "23",
+                "title": "Tổ chức thực hiện Chánh Văn phòng, Cục trưởng Cục Công nghệ tin học và Thủ trưởng các đơn vị thuộc Ngân hàng Nhà nước Việt Nam, Giám đốc Ngân hàng Nhà nước chi nhánh tỉnh, thành phố trực thuộc Trung ương; Chủ tịch Hội đồng quản trị, Chủ tịch Hội đồng thành viên, Tổng giám đốc (Giám đốc) các tổ chức tín dụng, chi nhánh ngân hàng nước ngoài, các tổ chức cung ứng dịch vụ trung gian thanh toán chịu trách nhiệm tổ chức thực hiện Thông tư này./.",
+                "content": "Điều 23. Tổ chức thực hiện Chánh Văn phòng, Cục trưởng Cục Công nghệ tin học và Thủ trưởng các đơn vị thuộc Ngân hàng Nhà nước Việt Nam, Giám đốc Ngân hàng Nhà nước chi nhánh tỉnh, thành phố trực thuộc Trung ương; Chủ tịch Hội đồng quản trị, Chủ tịch Hội đồng thành viên, Tổng giám đốc (Giám đốc) các tổ chức tín dụng, chi nhánh ngân hàng nước ngoài, các tổ chức cung ứng dịch vụ trung gian thanh toán chịu trách nhiệm tổ chức thực hiện Thông tư này./.",
+                "clauses": [],
+                "points": []
+              }
+            ]
+          }
+        ],
+        "sections": [],
+        "articles": [],
+        "unstructured_blocks": []
+      }
+    ]
+  },
+  "issues": [],
+  "status": "ok",
+  "source_hash": "context_34520.json",
+  "stats": {
+    "source_chars": 27512,
+    "passage_chars": 27342,
+    "parts": 1,
+    "chapters": 3,
+    "sections": 4,
+    "articles": 23,
+    "clauses": 74,
+    "points": 46
+  }
+}

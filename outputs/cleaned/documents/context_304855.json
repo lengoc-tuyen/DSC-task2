@@ -1,0 +1,1241 @@
+{
+  "schema_version": "2.0",
+  "document_id": 304855,
+  "metadata": {
+    "name": "Nghi-dinh-85-2016-ND-CP-bao-dam-an-toan-he-thong-thong-tin-theo-cap-do-317475",
+    "link": "https://thuvienphapluat.vn/van-ban/Cong-nghe-thong-tin/Nghi-dinh-85-2016-ND-CP-bao-dam-an-toan-he-thong-thong-tin-theo-cap-do-317475.aspx",
+    "issuing_agency": "CHÍNH PHỦ",
+    "national_header": "CỘNG HÒA XÃ HỘI\r\n\n  CHỦ NGHĨA VIỆT NAM",
+    "motto": "Độc lập - Tự do - Hạnh phúc",
+    "document_number": "85/2016/NĐ-CP",
+    "issued_place": "Hà Nội",
+    "issued_date": "ngày 01\r\n\n  tháng 07 năm 2016",
+    "document_type": "NGHỊ ĐỊNH",
+    "title": "VỀ BẢO ĐẢM AN TOÀN HỆ THỐNG THÔNG TIN THEO CẤP ĐỘ"
+  },
+  "administrative_header": {
+    "removed": true,
+    "removed_char_count": 148
+  },
+  "preamble": {
+    "text": "NGHỊ ĐỊNH VỀ\nBẢO ĐẢM AN TOÀN HỆ THỐNG THÔNG TIN THEO CẤP ĐỘ\nCăn cứ Luật tổ chức Chính phủ ngày 19 tháng 6 năm 2015; Căn cứ Luật an toàn thông tin mạng ngày 19 tháng 11 năm 2015; Theo đề nghị của Bộ trưởng Bộ Thông tin và Truyền thông; Chính phủ ban hành Nghị định về bảo đảm an toàn hệ thống thông tin theo cấp độ.\nChương I\nNHỮNG QUY ĐỊNH CHUNG",
+    "legal_bases": [
+      "Căn cứ Luật an toàn thông tin mạng ngày 19 tháng 11 năm 2015"
+    ],
+    "proposals": [
+      "Theo đề nghị của Bộ trưởng Bộ Thông tin và Truyền thông"
+    ],
+    "enactment_formula": null
+  },
+  "passage": "NGHỊ ĐỊNH VỀ\nBẢO ĐẢM AN TOÀN HỆ THỐNG THÔNG TIN THEO CẤP ĐỘ\nCăn cứ Luật tổ chức Chính phủ ngày 19 tháng 6 năm 2015; Căn cứ Luật an toàn thông tin mạng ngày 19 tháng 11 năm 2015; Theo đề nghị của Bộ trưởng Bộ Thông tin và Truyền thông; Chính phủ ban hành Nghị định về bảo đảm an toàn hệ thống thông tin theo cấp độ.\nChương I\nNHỮNG QUY ĐỊNH CHUNG\nĐiều 1. Phạm vi Điều chỉnh Nghị định này quy định chi Tiết về tiêu chí, thẩm quyền, trình tự, thủ tục xác định cấp độ an toàn hệ thống thông tin và trách nhiệm bảo đảm an toàn hệ thống thông tin theo từng cấp độ.\nĐiều 2. Đối tượng áp dụng Nghị định này áp dụng đối với cơ quan, tổ chức, cá nhân tham gia hoặc có liên quan đến hoạt động xây dựng, thiết lập, quản lý, vận hành, nâng cấp, mở rộng hệ thống thông tin tại Việt Nam phục vụ ứng dụng công nghệ thông tin trong hoạt động của cơ quan, tổ chức nhà nước, ứng dụng công nghệ thông tin trong việc cung cấp dịch vụ trực tuyến phục vụ người dân và doanh nghiệp. Khuyến khích tổ chức, cá nhân liên quan khác áp dụng các quy định tại Nghị định này để bảo vệ hệ thống thông tin.\nĐiều 3. Giải thích từ ngữ Trong Nghị định này, các từ ngữ dưới đây được hiểu như sau:\n1. Chủ quản hệ thống thông tin\nlà cơ quan, tổ chức, cá nhân có thẩm quyền quản lý trực tiếp đối với hệ thống thông tin. Đối với cơ quan, tổ chức nhà nước, chủ quản hệ thống thông tin là các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ, Ủy ban nhân dân các tỉnh, thành phố trực thuộc trung ương hoặc là cấp có thẩm quyền quyết định đầu tư dự án xây dựng, thiết lập, nâng cấp, mở rộng hệ thống thông tin đó.\n2. Xử lý thông tin là việc thực hiện một hoặc một số\nthao tác tạo lập, cung cấp, thu thập, biên tập, sử dụng, lưu trữ, truyền đưa, chia sẻ, trao đổi thông tin trên mạng.\n3. Đơn vị vận hành hệ thống\nthông tin là cơ quan, tổ chức được chủ quản hệ thống thông tin giao nhiệm vụ vận hành hệ thống thông tin. Trong trường hợp chủ quản hệ thống thông tin thuê ngoài dịch vụ công nghệ thông tin, đơn vị vận hành hệ thống thông tin là bên cung cấp dịch vụ.\n4. Đơn vị chuyên trách về công nghệ thông tin là đơn vị chuyên trách về công nghệ thông tin của các bộ, cơ quan ngang bộ, cơ\nquan thuộc Chính phủ; Sở Thông tin và Truyền thông các tỉnh, thành phố trực thuộc trung ương hoặc đơn vị chuyên trách về công nghệ thông tin của chủ quản hệ thống thông tin do chủ quản hệ thống thông tin chỉ định.\n5. Đơn vị chuyên trách về an toàn thông tin là đơn\nvị có chức năng, nhiệm vụ bảo đảm an toàn thông tin của chủ quản hệ thống thông tin.\n6. Bộ phận chuyên trách về an toàn thông tin là bộ\nphận do chủ quản hệ thống thông tin thành lập hoặc chỉ định để thực thi nhiệm vụ bảo đảm an toàn thông tin và ứng cứu sự cố an toàn thông tin mạng.\n7. Dịch vụ trực tuyến là dịch vụ do doanh nghiệp hoặc\ncơ quan nhà nước cung cấp trên môi trường mạng cho các tổ chức, cá nhân.\nĐiều 4. Nguyên tắc bảo đảm an toàn hệ thống thông tin theo cấp độ\n1. Việc bảo đảm an toàn hệ thống thông tin theo cấp\nđộ trong hoạt động của cơ quan, tổ chức được thực hiện thường xuyên, liên tục từ khâu thiết kế, xây dựng, vận hành đến khi hủy bỏ; tuân thủ theo tiêu chuẩn, quy chuẩn kỹ thuật.\n2. Việc bảo đảm an toàn hệ thống\nthông tin theo cấp độ trong hoạt động của cơ quan, tổ chức được thực hiện một cách tổng thể, đồng bộ, tập trung trong việc đầu tư các giải pháp bảo vệ, có sự dùng chung, chia sẻ tài nguyên để tối ưu hiệu năng, tránh đầu tư thừa, trùng lặp.\n3. Việc phân bổ, bố trí nguồn lực để bảo đảm an\ntoàn hệ thống thông tin thực hiện theo thứ tự ưu tiên từ cấp độ cao xuống cấp độ thấp.\nĐiều 5. Nguyên tắc xác định cấp độ\n1. Việc xác định\nhệ thống thông tin để xác định cấp độ căn cứ trên nguyên tắc như sau:\na) Hệ thống thông tin chỉ có một chủ quản hệ thống\nthông tin;\nb) Hệ thống thông tin có thể hoạt động độc lập, được\nthiết lập nhằm trực tiếp phục vụ hoặc hỗ trợ hoạt động nghiệp vụ, sản xuất, kinh doanh cụ thể của cơ quan, tổ chức thuộc một trong các loại hình hệ thống thông tin quy định tại Khoản 2 Điều 6 Nghị định này.\n2. Trong trường hợp hệ thống thông tin bao gồm nhiều\nhệ thống thành phần, mỗi hệ thống thành phần lại tương ứng với một cấp độ khác nhau, thì cấp độ hệ thống thông tin được xác định là cấp độ cao nhất trong các cấp độ của các hệ thống thành phần cấu thành.\nChương II\nTIÊU CHÍ XÁC ĐỊNH CẤP ĐỘ\nĐiều\n6. Phân loại thông tin và hệ thống thông tin\n1. Thông tin xử lý thông qua hệ thống thông tin được\nphân loại theo thuộc tính bí mật như sau:\na) Thông tin công cộng là thông tin trên mạng của một\ntổ chức, cá nhân được công khai cho tất cả các đối tượng mà không cần xác định danh tính, địa chỉ cụ thể của các đối tượng đó;\nb) Thông tin riêng là thông tin trên mạng của một tổ\nchức, cá nhân mà tổ chức, cá nhân đó không công khai hoặc chỉ công khai cho một hoặc một nhóm đối tượng đã được xác định danh tính, địa chỉ cụ thể;\nc) Thông tin cá nhân là thông tin trên mạng gắn với\nviệc xác định danh tính một người cụ thể;\nd) Thông tin bí mật nhà nước là thông tin ở mức Mật,\nTối Mật, Tuyệt Mật theo quy định của pháp luật về bảo vệ bí mật nhà nước.\n2. Hệ thống thông tin được phân loại theo chức năng\nphục vụ hoạt động nghiệp vụ như sau:\na) Hệ thống thông tin phục vụ\nhoạt động nội bộ là hệ thống chỉ phục vụ hoạt động quản trị, vận hành nội bộ của cơ quan, tổ chức;\nb) Hệ thống thông tin phục vụ\nngười dân, doanh nghiệp là hệ thống trực tiếp hoặc hỗ trợ cung cấp dịch vụ trực tuyến, bao gồm dịch vụ công trực tuyến và dịch vụ trực tuyến khác trong các lĩnh vực viễn thông, công nghệ thông tin, thương mại, tài chính, ngân hàng, y tế, giáo dục và các lĩnh vực chuyên ngành khác;\nc) Hệ thống cơ sở hạ tầng\nthông tin là tập hợp trang thiết bị, đường truyền dẫn kết nối phục vụ chung hoạt động của nhiều cơ quan, tổ chức như mạng diện rộng, cơ sở dữ liệu, trung tâm dữ liệu, điện toán đám mây; xác thực điện tử, chứng thực điện tử, chữ ký số; kết nối liên thông các hệ thống thông tin;\nd) Hệ thống thông tin Điều khiển\ncông nghiệp là hệ thống có chức năng giám sát, thu thập dữ liệu, quản lý và kiểm soát các hạng Mục quan trọng phục vụ Điều khiển, vận hành hoạt động bình thường của các công trình xây dựng;\nđ) Hệ thống thông tin khác.\nĐiều 7. Tiêu chí xác định cấp độ 1 Hệ thống thông tin cấp độ 1 là hệ thống thông tin phục vụ hoạt động nội bộ của cơ quan, tổ chức và chỉ xử lý thông tin công cộng.\nĐiều 8. Tiêu chí xác định cấp độ 2 Hệ thống thông tin cấp độ 2 là hệ thống thông tin có một trong các tiêu chí cụ thể như sau:\n1. Hệ thống thông tin phục vụ hoạt động nội bộ của\ncơ quan, tổ chức và có xử lý thông tin riêng, thông tin cá nhân của người sử dụng nhưng không xử lý thông tin bí mật nhà nước.\n2. Hệ thống thông tin phục vụ người dân, doanh nghiệp\nthuộc một trong các loại hình như sau:\na) Cung cấp thông tin và dịch vụ công trực tuyến từ\nmức độ 2 trở xuống theo quy định của pháp luật;\nb) Cung cấp dịch vụ trực tuyến không thuộc danh Mục\ndịch vụ kinh doanh có Điều kiện;\nc) Cung cấp dịch vụ trực tuyến khác có xử lý thông\ntin riêng, thông tin cá nhân của dưới 10.000 người sử dụng.\n3. Hệ thống cơ sở hạ tầng thông tin phục vụ hoạt động\ncủa một cơ quan, tổ chức.\nĐiều 9. Tiêu chí xác định cấp độ 3 Hệ thống thông tin cấp độ 3 là hệ thống thông tin có một trong các tiêu chí cụ thể như sau:\n1. Hệ thống thông tin xử lý thông tin bí mật nhà nước\nhoặc hệ thống phục vụ quốc phòng, an ninh khi bị phá hoại sẽ làm tổn hại tới quốc phòng, an ninh quốc gia.\n2. Hệ thống thông tin phục vụ người dân, doanh nghiệp\nthuộc một trong các loại hình như sau:\na) Cung cấp thông tin và dịch vụ công trực tuyến từ\nmức độ 3 trở lên theo quy định của pháp luật;\nb) Cung cấp dịch vụ trực tuyến thuộc danh Mục dịch\nvụ kinh doanh có Điều kiện;\nc) Cung cấp dịch vụ trực tuyến khác có xử lý thông\ntin riêng, thông tin cá nhân của từ 10.000 người sử dụng trở lên.\n3. Hệ thống cơ sở hạ tầng thông tin dùng chung phục\nvụ hoạt động của các cơ quan, tổ chức trong phạm vi một ngành, một tỉnh hoặc một số tỉnh.\n4. Hệ thống thông tin Điều khiển công nghiệp trực\ntiếp phục vụ Điều khiển, vận hành hoạt động bình thường của các công trình xây dựng cấp II, cấp III hoặc cấp IV theo phân cấp của pháp luật về xây dựng.\nĐiều 10. Tiêu chí xác định cấp độ 4 Hệ thống thông tin cấp độ 4 là hệ thống thông tin có một trong các tiêu chí cụ thể như sau:\n1. Hệ thống thông tin xử lý thông tin bí mật nhà nước\nhoặc hệ thống phục vụ quốc phòng, an ninh, khi bị phá hoại sẽ làm tổn hại nghiêm trọng quốc phòng, an ninh quốc gia.\n2. Hệ thống thông tin quốc gia\nphục vụ phát triển Chính phủ điện tử, yêu cầu vận hành 24/7 và không chấp nhận ngừng vận hành mà không có kế hoạch trước.\n3. Hệ thống cơ sở hạ tầng thông tin dùng chung phục\nvụ hoạt động của các cơ quan, tổ chức trên phạm vi toàn quốc, yêu cầu vận hành 24/7 và không chấp nhận ngừng vận hành mà không có kế hoạch trước.\n4. Hệ thống thông tin Điều khiển công nghiệp trực\ntiếp phục vụ Điều khiển, vận hành hoạt động bình thường của các công trình xây dựng cấp I theo phân cấp của pháp luật về xây dựng.\nĐiều 11. Tiêu chí xác định cấp độ 5 Hệ thống thông tin cấp độ 5 là hệ thống thông tin có một trong các tiêu chí cụ thể như sau:\n1. Hệ thống thông tin xử lý thông tin bí mật nhà nước\nhoặc hệ thống phục vụ quốc phòng, an ninh, khi bị phá hoại sẽ làm tổn hại đặc biệt nghiêm trọng tới quốc phòng, an ninh quốc gia.\n2. Hệ thống thông tin phục vụ lưu trữ dữ liệu tập\ntrung đối với một số loại hình thông tin, dữ liệu đặc biệt quan trọng của quốc gia.\n3. Hệ thống\ncơ sở hạ tầng thông tin quốc gia phục vụ kết nối liên thông hoạt động của Việt Nam với quốc tế.\n4. Hệ thống thông tin Điều khiển công nghiệp trực\ntiếp phục vụ Điều khiển, vận hành hoạt động bình thường của công trình xây dựng cấp đặc biệt theo phân cấp của pháp luật về xây dựng hoặc công trình quan trọng liên quan đến an ninh quốc gia theo pháp luật về an ninh quốc gia.\n5. Hệ thống thông tin khác theo quyết định của Thủ\ntướng Chính phủ.\nChương III\nTHẨM QUYỀN, TRÌNH TỰ, THỦ TỤC XÁC ĐỊNH CẤP ĐỘ\nĐiều 12. Thẩm quyền thẩm định và phê duyệt cấp độ\n1. Đối với hệ thống thông tin được đề xuất là cấp độ\n1 hoặc cấp độ 2: Đơn vị chuyên trách về an toàn thông tin của chủ quản hệ thống thông tin thực hiện thẩm định, phê duyệt hồ sơ đề xuất cấp độ đối với hệ thống thông tin được đề xuất là cấp độ 1 hoặc cấp độ 2.\n2. Đối với hệ thống thông tin được đề xuất là cấp độ\n3:\na) Đơn vị\nchuyên trách về an toàn thông tin của chủ quản hệ thống thông tin thực hiện thẩm định hồ sơ đề xuất cấp độ;\nb) Chủ quản hệ thống thông tin phê duyệt hồ sơ đề\nxuất cấp độ.\n3. Đối với hệ thống thông tin được đề xuất là cấp độ\n4 hoặc cấp độ 5:\na) Bộ Thông tin và Truyền\nthông chủ trì, phối hợp với Bộ Quốc phòng, Bộ Công an và các bộ, ngành liên quan thực hiện thẩm định hồ sơ đề xuất cấp độ, trừ trường hợp quy định tại Điểm b và Điểm c Khoản 3 Điều này;\nb) Bộ Quốc phòng chủ trì, phối hợp với Bộ Thông tin\nvà Truyền thông và bộ, ngành liên quan thực hiện thẩm định hồ sơ đề xuất cấp độ đối với hệ thống thông tin do Bộ Quốc phòng quản lý;\nc) Bộ Công an chủ trì, phối hợp với Bộ Thông tin và\nTruyền thông và bộ, ngành liên quan thực hiện thẩm định hồ sơ đề xuất cấp độ đối với hệ thống thông tin do Bộ Công an quản lý;\nd) Chủ quản hệ thống thông tin phê duyệt hồ sơ đề\nxuất cấp độ đối với hệ thống thông tin cấp độ 4; phê duyệt phương án bảo đảm an toàn thông tin đối với hệ thống thông tin cấp độ 5;\nđ) Thủ tướng Chính phủ phê duyệt Danh Mục hệ thống\nthông tin cấp độ 5 (Danh Mục hệ thống thông tin quan trọng quốc gia).\nĐiều 13. Trình tự, thủ tục xác định cấp độ đối với dự án đầu tư xây dựng mới hoặc mở rộng, nâng cấp hệ thống thông tin\n1. Chủ đầu tư xây dựng thuyết\nminh đề xuất cấp độ, lồng ghép vào nội dung của báo cáo nghiên cứu khả thi, dự án khả thi ứng dụng công nghệ thông tin hoặc báo cáo đầu tư của dự án, gửi cơ quan chức năng thẩm định, trình cơ quan có thẩm quyền phê duyệt báo cáo nghiên cứu khả thi; dự án khả thi ứng dụng công nghệ thông tin hoặc báo cáo đầu tư theo quy định của pháp luật về đầu tư và quy định Nghị định này.\n2. Trong trường hợp thuê dịch vụ công nghệ thông tin, đơn vị chủ trì thuê dịch vụ xây dựng\nthuyết minh đề xuất cấp độ, lồng ghép vào nội dung của kế hoạch, dự án thuê dịch vụ, gửi cơ quan chức năng thẩm định, trình cơ quan có thẩm quyền phê duyệt theo quy định của pháp luật về thuê dịch vụ công nghệ thông tin và quy định của Nghị định này.\n3. Tài liệu thuyết minh đề xuất cấp độ theo quy định\ntại Điều 15 Nghị định này.\nĐiều 14. Trình tự, thủ tục xác định cấp độ đối với hệ thống thông tin đang vận hành\n1. Lập hồ sơ đề xuất cấp độ:\na) Đơn vị vận\nhành hệ thống thông tin lập hồ sơ đề xuất cấp độ theo quy định tại Điều 15 Nghị định này;\nb) Đối với hệ thống thông tin được đề xuất là cấp độ\n1 hoặc cấp độ 2: Đơn vị vận hành hệ thống thông tin gửi hồ sơ đề xuất cấp độ tới đơn vị thẩm định để thực hiện thẩm định theo quy định tại Khoản 1 Điều 12 Nghị định này;\nc) Đối với hệ thống thông tin được đề xuất là cấp độ\n3: Đơn vị vận hành hệ thống thông tin gửi hồ sơ đề xuất cấp độ tới đơn vị thẩm định để thực hiện thẩm định theo quy định tại Điểm a Khoản 2 Điều 12 Nghị định này;\nd) Đối với hệ thống thông tin được đề xuất là cấp độ\n4 hoặc cấp độ 5: - Đơn vị vận hành hệ thống thông tin gửi hồ sơ đề xuất cấp độ tới đơn vị chuyên trách về an toàn thông tin của chủ quản hệ thống thông tin để xin ý kiến chuyên môn về sự phù hợp của đề xuất cấp độ và phương án bảo đảm an toàn hệ thống thông tin theo cấp độ; - Đơn vị vận hành hệ thống thông tin trình chủ quản hệ thống thông tin hồ sơ đề xuất cấp độ gửi tới cơ quan thẩm định quy định tại Điểm a, Điểm b hoặc Điểm c Khoản 3 Điều 12 Nghị định này.\n2. Thẩm định hồ sơ đề xuất cấp độ:\nCơ quan có thẩm quyền thực hiện thẩm định hồ sơ đề xuất cấp độ theo quy định tại Điều 16 Nghị định này.\n3. Phê duyệt đề xuất cấp độ:\na) Đối với hệ thống thông tin được đề xuất là cấp độ\n1 hoặc cấp độ 2: Đơn vị chuyên trách về an toàn thông tin của chủ quản hệ thống thông tin phê duyệt đề xuất cấp độ, gửi báo cáo chủ quản hệ thống thông tin;\nb) Đối với hệ thống thông tin được đề xuất là cấp độ\n3 hoặc cấp độ 4: Đơn vị vận hành hệ thống thông tin trình chủ quản hệ thống thông tin phê duyệt đề xuất cấp độ;\nc) Đối với hệ thống thông tin được đề xuất là cấp độ\n5: - Trên cơ sở kết quả thẩm định hồ sơ đề xuất cấp độ, Bộ Thông tin và Truyền thông chủ trì, phối hợp với Bộ Quốc phòng, Bộ Công an và bộ, ngành có liên quan trình Thủ tướng Chính phủ phê duyệt Danh Mục hệ thống thông tin cấp độ 5; - Đơn vị vận hành hệ thống thông tin trình chủ quản hệ thống thông tin phê duyệt phương án bảo đảm an toàn thông tin.\nĐiều 15. Hồ sơ đề xuất cấp độ Hồ sơ đề xuất cấp độ bao gồm:\n1. Tài liệu mô tả, thuyết minh tổng quan về hệ thống\nthông tin.\n2. Tài liệu thiết kế là một trong những tài liệu\nsau:\na) Đối với dự án đầu tư xây dựng mới hoặc mở rộng,\nnâng cấp hệ thống thông tin: Thiết kế sơ bộ hoặc tài liệu có giá trị tương đương;\nb) Đối với hệ thống thông tin đang vận hành: Thiết\nkế thi công đã được cấp có thẩm quyền phê duyệt hoặc tài liệu có giá trị tương đương.\n3. Tài liệu thuyết minh về việc\nđề xuất cấp độ căn cứ trên các tiêu chí theo quy định của pháp luật.\n4. Tài liệu thuyết minh phương án bảo đảm an toàn\nthông tin theo cấp độ tương ứng.\n5. Ý kiến về mặt chuyên môn của đơn vị chuyên trách\nvề an toàn thông tin của chủ quản hệ thống thông tin đối với hệ thống thông tin đề xuất cấp độ 4 hoặc cấp độ 5.\nĐiều 16. Thẩm định hồ sơ đề xuất cấp độ\n1. Nội dung thẩm định hồ sơ đề xuất cấp độ:\na) Sự phù hợp về việc đề xuất cấp độ;\nb) Sự phù hợp của phương án bảo đảm an toàn hệ thống\nthông tin trong thiết kế sơ bộ, thiết kế thi công hoặc tài liệu có giá trị tương đương theo cấp độ tương ứng;\nc) Sự phù hợp của phương án bảo đảm an toàn hệ thống\nthông tin trong quá trình vận hành hệ thống theo cấp độ tương ứng.\n2. Thời gian thẩm định hồ sơ xác định cấp độ:\na) Đối với hệ thống thông tin đề xuất cấp độ 3, thời\ngian thẩm định tối đa là 15 ngày kể từ ngày nhận đủ hồ sơ hợp lệ;\nb) Đối với hệ thống thông tin đề xuất cấp độ 4 hoặc\ncấp độ 5, thời gian thẩm định tối đa là 30 ngày kể từ ngày nhận đủ hồ sơ hợp lệ.\nĐiều 17. Hồ sơ phê duyệt đề xuất cấp độ\n1. Hồ sơ phê duyệt đề xuất cấp độ bao gồm:\na) Hồ sơ đề xuất cấp độ;\nb) Ý kiến thẩm định của cơ quan chủ trì thẩm định đối\nvới hệ thống thông tin đề xuất từ cấp độ 3 trở lên.\n2. Thời gian xử lý hồ sơ phê duyệt cấp độ:\nThời gian xử lý tối đa là 07 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ.\nĐiều 18. Trình tự, thủ tục xác định lại cấp độ đối với hệ thống thông tin đã được phê duyệt cấp độ Đối với hệ thống thông tin đã được phê duyệt cấp độ, trong trường hợp phải xác định lại cấp độ cho phù hợp với tình hình thực tế thì thực hiện theo trình tự, thủ tục xác định lần đầu.\nChương IV\nTRÁCH NHIỆM BẢO ĐẢM AN TOÀN HỆ THỐNG THÔNG TIN\nĐiều\n19. Phương án bảo đảm an toàn hệ thống thông tin theo cấp độ\n1. Phương án bảo đảm an toàn hệ\nthống thông tin phải đáp ứng yêu cầu cơ bản trong tiêu chuẩn, quy chuẩn kỹ thuật về bảo đảm an toàn hệ thống thông tin theo cấp độ.\n2. Phương án bảo đảm an toàn hệ\nthống thông tin bao gồm các nội dung sau đây:\na) Bảo đảm an toàn hệ thống\nthông tin trong khâu thiết kế, xây dựng;\nb) Bảo đảm an toàn hệ thống\nthông tin trong quá trình vận hành;\nc) Kiểm tra, đánh giá an toàn thông tin;\nd) Quản lý rủi ro an toàn thông tin;\nđ) Giám sát an toàn thông tin;\ne) Dự phòng, ứng cứu sự cố, khôi phục sau thảm họa;\ng) Kết thúc vận hành, khai thác, thanh lý, hủy bỏ.\nĐiều 20. Trách nhiệm của chủ quản hệ thống thông tin\n1. Người đứng đầu của cơ quan, tổ chức là chủ quản\nhệ thống thông tin có trách nhiệm:\na) Trực tiếp chỉ đạo\nvà phụ trách công tác bảo đảm an toàn thông tin trong hoạt động của cơ quan, tổ chức mình;\nb) Trong trường hợp chưa có đơn vị chuyên trách về\nan toàn thông tin độc lập: - Chỉ định đơn vị chuyên trách về công nghệ thông tin làm nhiệm vụ đơn vị chuyên trách về an toàn thông tin; - Thành lập hoặc chỉ định bộ phận chuyên trách về an toàn thông tin trực thuộc đơn vị chuyên trách về công nghệ thông tin.\n2. Chủ quản hệ thống thông tin\ncó trách nhiệm:\na) Chỉ đạo đơn vị vận hành hệ thống thông tin lập hồ\nsơ đề xuất cấp độ; tổ chức thẩm định, phê duyệt hồ sơ đề xuất cấp độ theo quy định Nghị định này;\nb) Chỉ đạo, tổ chức thực hiện phương án bảo đảm an\ntoàn hệ thống thông tin theo cấp độ đối với hệ thống thông tin thuộc phạm vi mình quản lý theo quy định tại Điều 25, 26 và 27 của Luật an toàn thông tin mạng, Nghị định này và quy định của pháp luật liên quan;\nc) Chỉ đạo, tổ chức thực hiện\nkiểm tra, đánh giá an toàn thông tin và quản lý rủi ro an toàn thông tin trong phạm vi cơ quan, tổ chức mình, cụ thể như sau: - Định kỳ 02 năm thực hiện kiểm tra, đánh giá an toàn thông tin và quản lý rủi ro an toàn thông tin tổng thể trong hoạt động của cơ quan, tổ chức mình; - Định kỳ hàng năm thực hiện kiểm tra, đánh giá an toàn thông tin và quản lý rủi ro an toàn thông tin đối với các hệ thống cấp độ 3 và cấp độ 4; - Định kỳ 06 tháng (hoặc đột xuất khi thấy cần thiết hoặc theo yêu cầu, cảnh báo của cơ quan chức năng) thực hiện kiểm tra, đánh giá an toàn thông tin và quản lý rủi ro an toàn thông tin đối với hệ thống cấp độ 5; - Việc kiểm tra, đánh giá an toàn thông tin và đánh giá rủi ro an toàn thông tin đối với hệ thống từ cấp độ 3 trở lên phải do tổ chức chuyên môn được cơ quan có thẩm quyền cấp phép; tổ chức sự nghiệp nhà nước có chức năng, nhiệm vụ phù hợp hoặc do tổ chức chuyên môn được cấp có thẩm quyền chỉ định thực hiện.\nd) Chỉ đạo, tổ chức thực hiện\nđào tạo ngắn hạn, tuyên truyền, phổ biến, nâng cao nhận thức và diễn tập về an toàn thông tin, cụ thể như sau: - Đào tạo, bồi dưỡng theo các chương trình đào tạo ngắn hạn nâng cao kiến thức, kỹ năng về an toàn thông tin cho cán bộ, công chức, viên chức làm về an toàn thông tin trong cơ quan, tổ chức mình; - Tuyên truyền, phổ biến nâng cao nhận thức về an toàn thông tin cho cán bộ, công chức, viên chức trong cơ quan, tổ chức mình; - Diễn tập bảo đảm an toàn thông tin trong hoạt động của cơ quan, tổ chức mình; tham gia diễn tập quốc gia và diễn tập quốc tế do Bộ Thông tin và Truyền thông tổ chức.\nđ) Chỉ đạo đơn vị vận hành hệ thống thông tin phối\nhợp với đơn vị chức năng liên quan của Bộ Thông tin và Truyền thông trong việc triển khai thiết bị, kết nối tới hệ thống kỹ thuật xử lý, giảm thiểu tấn công mạng, hỗ trợ giám sát an toàn thông tin cho hệ thống thông tin cung cấp dịch vụ công trực tuyến, phát triển chính phủ điện tử. Điều\n21. Trách nhiệm của đơn vị chuyên trách về an toàn thông tin của chủ quản hệ thống\nthông tin\n1. Tham mưu, tổ chức\nthực thi, đôn đốc, kiểm tra, giám sát công tác bảo đảm an toàn thông tin.\n2. Thẩm định, phê duyệt hoặc\ncho ý kiến về mặt chuyên môn đối với hồ sơ đề xuất cấp độ theo thẩm quyền quy định tại Khoản 1, Khoản 2 Điều 12 và Khoản 5 Điều 15 Nghị định này.\nĐiều 22. Trách nhiệm của đơn vị vận hành hệ thống thông tin Đơn vị vận hành hệ thống thông tin có trách nhiệm:\n1. Thực hiện xác định cấp độ an toàn hệ thống thông tin theo quy định\ntại Điều 14 Nghị định này;\n2. Thực hiện bảo vệ hệ thống thông tin theo quy định\ncủa pháp luật và hướng dẫn, tiêu chuẩn, quy chuẩn an toàn thông tin;\n3. Định kỳ đánh giá hiệu quả của\ncác biện pháp bảo đảm an toàn thông tin, báo cáo chủ quản hệ thống thông tin Điều chỉnh nếu cần thiết;\n4. Định kỳ hoặc đột xuất báo\ncáo công tác thực thi bảo đảm an toàn hệ thống thông tin theo yêu cầu của chủ quản hệ thống thông tin hoặc cơ quan quản lý nhà nước chuyên ngành có thẩm quyền;\n5. Phối hợp, thực hiện theo yêu cầu của cơ quan chức\nnăng liên quan của Bộ Thông tin và Truyền thông trong công tác bảo đảm an toàn thông tin.\nĐiều 23. Trách nhiệm của cơ quan quản lý nhà nước\n1. Bộ Thông tin và Truyền thông có trách nhiệm:\na) Thực hiện thẩm định hồ sơ\nđề xuất cấp độ theo thẩm quyền quy định tại Điểm a Khoản 3\nĐiều 12 Nghị định này;\nb) Xây dựng dự thảo tiêu chuẩn quốc gia, ban hành\nquy chuẩn kỹ thuật quốc gia về bảo đảm an toàn thông tin theo cấp độ;\nc) Hướng dẫn chi Tiết việc\nxác định hệ thống thông tin quy định tại Khoản 2 Điều 6 Nghị định này;\nd) Ban hành quy định, văn bản\nhướng dẫn về bảo đảm an toàn hệ thống thông tin theo cấp độ; quy định về đánh giá, chứng nhận hợp chuẩn, hợp quy về bảo đảm an toàn hệ thống thông tin theo cấp độ;\nđ) Hướng dẫn các cơ quan, tổ chức thực hiện đào tạo\nngắn hạn, tuyên truyền, phổ biến nâng cao nhận thức và diễn tập về an toàn thông tin;\ne) Quy định chi Tiết về kiểm\ntra, đánh giá an toàn thông tin và quản lý rủi ro an toàn thông tin trong hoạt động của cơ quan, tổ chức nhà nước, trừ trường hợp quy định tại Điểm d Khoản 2 và Điểm d Khoản 3 Điều này;\ng) Triển khai các hệ thống hạ tầng kỹ thuật tập\ntrung quy mô quốc gia để xử lý, giảm thiểu tấn công mạng, hỗ trợ giám sát an toàn thông tin cho hệ thống thông tin cung cấp dịch vụ công trực tuyến, phát triển Chính phủ điện tử.\n2. Bộ Quốc phòng có trách nhiệm:\na) Thực hiện thẩm định phương án bảo đảm an toàn\nthông tin trong hồ sơ đề xuất cấp độ theo thẩm quyền quy định tại Điểm b Khoản 3 Điều 12 Nghị định này;\nb) Xây dựng dự thảo tiêu chuẩn, ban hành quy chuẩn\nkỹ thuật, hướng dẫn về bảo đảm an toàn đối với hệ thống thông tin thuộc phạm vi quản lý;\nc) Hướng dẫn về tiêu chí quy định tại Khoản 1 Điều 9, Khoản 1 Điều 10 và Khoản 1 Điều 11 Nghị định này theo chức năng, nhiệm vụ được\nphân công;\nd) Quy định chi Tiết về kiểm tra, đánh giá an toàn\nthông tin và quản lý rủi ro an toàn thông tin trong hoạt động của Bộ Quốc phòng.\n3. Bộ Công an có trách nhiệm:\na) Thực hiện thẩm định phương án bảo đảm an toàn\nthông tin trong hồ sơ đề xuất cấp độ theo thẩm quyền quy định tại Điểm c Khoản 3 Điều 12 Nghị định này;\nb) Xây dựng dự thảo tiêu chuẩn, ban hành quy chuẩn\nkỹ thuật, hướng dẫn về bảo đảm an toàn đối với hệ thống thông tin thuộc phạm vi quản lý;\nc) Hướng dẫn về tiêu chí quy định tại Khoản 1 Điều 9, Khoản 1 Điều 10 và Khoản 1 Điều 11 Nghị định này theo chức năng, nhiệm vụ được\nphân công;\nd) Quy định chi Tiết về kiểm tra, đánh giá an toàn\nthông tin và quản lý rủi ro an toàn thông tin trong hoạt động của Bộ Công an. Điều\n24. Kinh phí bảo đảm an toàn thông tin\n1. Kinh phí thực hiện yêu cầu về an toàn thông tin\ntheo cấp độ trong hoạt động của cơ quan, tổ chức nhà nước do ngân sách nhà nước bảo đảm.\n2. Kinh phí đầu tư cho an toàn thông tin sử dụng vốn\nđầu tư công thực hiện theo quy định của Luật đầu tư công. Đối với dự án đầu tư công để xây dựng mới hoặc mở rộng, nâng cấp hệ thống thông tin, kinh phí đầu tư cho an toàn thông tin theo cấp độ được bố trí trong vốn đầu tư của dự án tương ứng.\n3. Kinh phí thực hiện giám sát, đánh giá, quản lý rủi\nro an toàn thông tin; đào tạo ngắn hạn, tuyên truyền, phổ biến nâng cao nhận thức, diễn tập an toàn thông tin và ứng cứu sự cố của cơ quan, tổ chức nhà nước được cân đối bố trí trong dự toán ngân sách hàng năm của cơ quan, tổ chức nhà nước đó theo phân cấp của Luật ngân sách nhà nước.\n4. Bộ Tài chính hướng dẫn Mục\nchi cho công tác bảo đảm an toàn thông tin trong dự toán ngân sách, hướng dẫn quản lý và sử dụng kinh phí sự nghiệp chi cho công tác bảo đảm an toàn thông tin trong hoạt động của các cơ quan, tổ chức nhà nước.\n5. Căn cứ nhiệm vụ được giao, cơ quan, tổ chức nhà\nnước thực hiện lập dự toán, quản lý, sử dụng và quyết toán kinh phí thực hiện nhiệm vụ bảo đảm an toàn thông tin theo quy định của Luật ngân sách nhà nước.\nChương V\nĐIỀU KHOẢN THI HÀNH\nĐiều 25. Hiệu lực thi hành Nghị định này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2016.\nĐiều 26. Tổ chức thực hiện\n1. Bộ Thông tin và Truyền\nthông chịu trách nhiệm hướng dẫn, kiểm tra việc thực hiện Nghị định này.\n2. Các Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Thủ\ntrưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân các tỉnh, thành phố trực thuộc trung ương và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Nghị định này./.\nNơi nhận:\n- Ban Bí thư Trung ương Đảng;\n- Thủ tướng, các Phó Thủ tướng Chính phủ;\n- Các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ;\n- HĐND, UBND các tỉnh, thành phố trực thuộc trung ương;\n- Văn phòng Trung ương và các Ban của Đảng;\n- Văn phòng Tổng Bí thư;\n- Văn phòng Chủ tịch nước;\n- Hội đồng dân tộc và các Ủy ban của Quốc\nhội;\n- Văn phòng Quốc hội;\n- Tòa án nhân dân tối cao;\n- Viện kiểm sát nhân dân tối cao;\n- Ủy ban Giám sát tải chính Quốc gia;\n- Kiểm toán nhà nước;\n- Ngân hàng Chính sách xã hội;\n- Ngân hàng Phát triển Việt Nam;\n- Ủy ban trung ương Mặt trận Tổ quốc Việt\nNam;\n- Cơ quan trung ương của các đoàn thể;\n- VPCP: BTCN, các PCN, Trợ lý TTg, TGĐ Cổng TTĐT, các Vụ, Cục, đơn vị trực\nthuộc, Công báo;\n- Lưu: VT, KGVX (3).KN\nTM. CHÍNH PHỦ\nTHỦ TƯỚNG\nNguyễn Xuân Phúc\nPHỤ LỤC\nMẪU VĂN BẢN XÁC ĐỊNH CẤP ĐỘ AN TOÀN HỆ THỐNG THÔNG\nTIN\n(Kèm theo Nghị định số 85/2016/NĐ-CP ngày 01 tháng 7 năm 2016 của Chính phủ) Mẫu số 01 Văn bản đề nghị thẩm định, phê duyệt hồ sơ đề xuất cấp độ Mẫu số 02 Văn bản đề nghị thẩm định hồ sơ đề xuất cấp độ Mẫu số 03 Văn bản xin ý kiến chuyên môn về hồ sơ đề xuất cấp độ Mẫu số 04 Ý kiến thẩm định hồ sơ đề xuất cấp độ Mẫu số 05 Tờ trình phê duyệt hồ sơ đề xuất cấp độ Mẫu số 06 Quyết định phê duyệt cấp độ an toàn hệ thống thông tin Mẫu số 07 Quyết định phê duyệt phương án bảo đảm an toàn thông tin Mẫu số 01\n(TÊN CƠ QUAN, TỔ CHỨC)\n-------\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc --------------- Số: ……….. V/v đề nghị thẩm định, phê duyệt hồ sơ đề xuất cấp độ ….., ngày ... tháng ... năm ... Kính gửi: (Đơn vị chuyên trách về an toàn thông tin). Căn cứ Luật an toàn thông tin mạng ngày 19 tháng 11 năm 2015; (Căn cứ các văn bản hướng dẫn thi hành Luật an toàn thông tin mạng và các văn bản liên quan); (Tên cơ quan, tổ chức) đề nghị thẩm định, phê duyệt hồ sơ đề xuất cấp độ với các nội dung sau: Phần 1. Thông tin chung\n1. Tên hệ thống thông tin;\n2. Đơn vị vận hành hệ thống thông tin:\n3. Địa chỉ:\n4. Cấp độ an toàn hệ thống thông tin đề xuất:\nPhần 2. Hồ sơ kèm theo\n1. Tài liệu mô tả, thuyết minh tổng quan về hệ thống\nthông tin.\n2. Tài liệu thiết kế thi công đã được cấp có thẩm\nquyền phê duyệt hoặc tài liệu có giá trị tương đương.\n3. Tài liệu thuyết minh về việc đề xuất cấp độ căn\ncứ trên các tiêu chí theo quy định của pháp luật.\n4. Tài liệu thuyết minh phương án bảo đảm an toàn\nthông tin theo cấp độ tương ứng. (Tên cơ quan, tổ chức) đề nghị (Đơn vị chuyên trách về an toàn thông tin) thẩm định và phê duyệt hồ sơ đề xuất cấp độ của hệ thống thông tin (Tên hệ thống thông tin)./.\nNơi nhận:\n- Như trên;\n- …………..\nĐẠI DIỆN CỦA CƠ\nQUAN, TỔ CHỨC\n(Ký, ghi rõ họ tên, chức danh và đóng dấu)\nMẫu\nsố 02\n(TÊN CƠ QUAN, TỔ\nCHỨC)\n-------\nCỘNG HÒA XÃ HỘI\nCHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\n---------------\nSố: ………..\nV/v đề nghị thẩm định hồ sơ đề xuất cấp độ\n….., ngày ... tháng ... năm ...\nKính gửi: (Đơn vị\nchuyên trách về an toàn thông tin)\nCăn cứ Luật an toàn\nthông tin mạng ngày 19 tháng 11 năm 2015;\n(Căn cứ các văn\nbản hướng dẫn thi hành Luật an toàn thông tin mạng\nvà các văn bản liên quan);\n(Tên cơ quan, tổ chức) đề nghị (Cơ quan thẩm định)\nthẩm định hồ sơ đề xuất cấp độ với các nội dung sau:\nPhần 1. Thông tin chung\n1. Tên hệ thống thông tin:\n2. Đơn vị vận hành hệ thống thông tin:\n3. Địa chỉ:\n4. Cấp độ an toàn hệ thống thông tin đề xuất:\nPhần 2. Hồ sơ kèm theo\n1. Tài liệu mô tả, thuyết minh tổng quan về hệ thống\nthông tin.\n2. Tài liệu thiết kế thi công đã được cấp có thẩm quyền\nphê duyệt hoặc tài liệu có giá trị tương đương.\n3. Tài liệu thuyết minh về việc đề xuất cấp độ căn\ncứ trên các tiêu chí theo quy định của pháp luật.\n4. Tài liệu thuyết minh phương án bảo đảm an toàn\nthông tin theo cấp độ tương ứng.\n5. Ý kiến về mặt chuyên môn của đơn vị chuyên trách\nvề an toàn thông tin của chủ quản hệ thống thông tin (đối với hệ thống thông\ntin đề xuất cấp độ 4 hoặc cấp độ 5).\n(Tên cơ quan, tổ chức) đề nghị (Cơ quan thẩm định)\ncho ý kiến thẩm định hồ sơ đề xuất cấp độ an toàn hệ thống thông tin đối với\n(Tên hệ thống thông tin)./.\nNơi nhận:\n- Như trên;\n- …………..\nĐẠI DIỆN CỦA CƠ\nQUAN, TỔ CHỨC\n(Ký, ghi rõ họ tên, chức danh và đóng dấu)\nMẫu\nsố 03\n(TÊN CƠ QUAN, TỔ\nCHỨC)\n-------\nCỘNG HÒA XÃ HỘI\nCHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\n---------------\nSố: ………..\nV/v xin ý kiến chuyên môn về hồ sơ đề xuất cấp độ\n….., ngày ... tháng ... năm ...\nKính gửi: (Đơn vị\nchuyên trách về an toàn thông tin)\nCăn cứ Luật an toàn\nthông tin mạng ngày 19 tháng 11 năm 2015;\n(Căn cứ các văn bản hướng dẫn thi hành Luật an toàn thông tin mạng và các văn bản liên quan);\n(Tên cơ quan, tổ chức) đề nghị (Đơn vị chuyên trách về an toàn thông tin) cho ý\nkiến chuyên môn về hồ sơ đề xuất cấp độ với các nội dung sau:\nPhần 1. Thông tin chung\n1. Tên hệ thống thông tin:\n2. Đơn vị vận hành hệ thống thông tin:\n3. Địa chỉ:\n4. Cấp độ an toàn hệ thống thông tin đề xuất:\nPhần 2. Hồ sơ kèm theo\n1. Tài liệu mô tả, thuyết minh tổng quan về hệ thống\nthông tin.\n2. Tài liệu thiết kế thi công đã được cấp có thẩm\nquyền phê duyệt hoặc tài liệu có giá trị tương đương.\n3. Tài liệu thuyết minh về việc đề xuất cấp độ căn\ncứ trên các tiêu chí theo quy định của pháp luật.\n4. Tài liệu thuyết minh phương án bảo đảm an toàn\nthông tin theo cấp độ tương ứng.\n(Tên cơ quan, tổ chức) đề nghị (Đơn vị chuyên trách\nvề an toàn thông tin) cho ý kiến về sự phù hợp của đề xuất cấp độ và phương án\nbảo đảm an toàn hệ thống thông tin theo cấp độ của hệ thống thông tin (Tên hệ\nthống thông tin)./.\nNơi nhận:\n- Như trên;\n- …………..\nĐẠI DIỆN CỦA CƠ\nQUAN, TỔ CHỨC\n(Ký, ghi rõ họ tên, chức danh và đóng dấu)\nMẫu\nsố 04\n(TÊN CƠ QUAN, TỔ\nCHỨC)\n-------\nCỘNG HÒA XÃ HỘI\nCHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\n---------------\nSố: ………..\nV/v ý kiến thẩm định hồ sơ đề xuất cấp độ\n….., ngày ... tháng ... năm ...\nKính gửi:\n(Chủ quản hệ thống thông tin/\nĐơn vị vận hành hệ thống thông tin).\n(Tên cơ quan thẩm định) nhận được Công văn số …..\nngày ….. tháng ....... năm ….. của (Tên cơ quan đề nghị) về việc thẩm định hồ\nsơ đề xuất cấp độ của hệ thống thông tin đối với (Tên hệ thống thông tin). Sau\nkhi xem xét, tổng hợp ý kiến và kết quả\nthẩm định của các cơ quan, tổ chức có liên quan, (Tên cơ quan thẩm định) có ý\nkiến thẩm định như sau:\nPhần 1. Hồ sơ, tài liệu thẩm định\n1. Tài liệu mô tả, thuyết minh tổng quan về hệ thống\nthông tin.\n2. Tài liệu thiết kế thi công đã được cấp có thẩm\nquyền phê duyệt hoặc tài liệu có giá trị tương đương.\n3. Tài liệu thuyết minh về việc đề xuất cấp độ căn\ncứ trên các tiêu chí theo quy định của pháp luật.\n4. Tài liệu thuyết minh phương án bảo đảm an toàn\nthông tin theo cấp độ tương ứng.\n5. Ý kiến về mặt chuyên môn của đơn vị chuyên trách về an toàn thông tin của chủ\nquản hệ thống thông tin đối với hệ thống thông tin đề xuất cấp độ 4 hoặc cấp độ\n5.\nPhần 2. Căn cứ pháp lý để thẩm định\n1. Căn cứ Luật an\ntoàn thông tin mạng ngày 19 tháng 11 năm 2015.\n2. Căn cứ các văn bản hướng dẫn thi hành Luật an toàn thông tin mạng.\n2. Các căn cứ pháp lý khác có liên quan.\nPhần 3. Tổ chức thẩm định\n1. Đơn vị chủ trì thẩm định:\n2. Đơn vị phối hợp thẩm định:\n3. Hình thức thẩm định: Tổ chức họp hoặc lấy ý kiến\nbằng văn bản hoặc áp dụng cả hai hình thức (nếu cần thiết).\nPhần 4. ý kiến thẩm định\n1. Tổng hợp ý\nkiến thẩm định của đơn vị phối hợp theo quy định tại Khoản 3 Điều\n12 Nghị định này.\n2. Ý kiến thẩm định về sự phù hợp về việc đề xuất cấp\nđộ theo quy định tại Điều 16 Nghị định này.\n3. Ý kiến khác (nếu có).\nPhần 5. Kết luận\nHồ sơ đề xuất cấp độ hệ thống thông tin là phù hợp/chưa\nphù hợp (nếu chưa phù hợp đề nghị chỉ rõ những nội dung chưa phù hợp) để theo cấp\nđộ đề xuất.\nTrên đây là ý kiến thẩm định của (Cơ quan thẩm định)\ncho hồ sơ đề xuất cấp độ của hệ thống\nthông tin (Tên hệ thống thông tin). Đề nghị cơ quan (Tên cơ quan đề nghị) xem\nxét báo cáo cấp có thẩm quyền Điều chỉnh (nếu yêu cầu Điều chỉnh) hoặc trình cơ\nquan có thẩm quyền phê duyệt (nếu chấp thuận đề xuất của cơ quan trình)./.\nNơi nhận:\n- Như trên;\n- …………..\nĐẠI DIỆN CỦA CƠ\nQUAN, TỔ CHỨC\n(Ký, ghi rõ họ tên, chức danh và đóng dấu)\nMẫu\nsố 05\n(TÊN CƠ QUAN, TỔ\nCHỨC)\n-------\nCỘNG HÒA XÃ HỘI\nCHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\n---------------\nSố: ………..\n….., ngày ... tháng ... năm ...\nTỜ\nTRÌNH\nVề việc phê duyệt đề xuất cấp độ\nKính gửi: (Cơ quan\nliên quan có thẩm quyền).\nCăn cứ Luật an toàn\nthông tin mạng ngày 19 tháng 11 năm 2015;\n(Căn cứ các văn\nbản hướng dẫn thi hành Luật an toàn thông tin\nmạng và các văn bản liên quan);\nCăn cứ ý kiến thẩm định của đơn vị chuyên trách về\ncông nghệ thông tin/cơ quan thẩm định;\n(Tên cơ quan, tổ chức) trình phê duyệt hồ sơ đề xuất\ncấp độ với các nội dung sau:\nPhần 1. Thông tin chung\n1. Tên hệ thống thông tin:\n2. Đơn vị vận hành hệ thống thông tin:\n3. Địa chỉ:\n4. Cấp độ an toàn hệ thống thông tin đề xuất:\nPhần 2. Hồ sơ kèm theo\n1. Tài liệu mô tả, thuyết minh tổng quan về hệ thống\nthông tin.\n2. Tài liệu thiết kế thi công đã được cấp có thẩm\nquyền phê duyệt hoặc tài liệu có giá trị tương đương.\n3. Tài liệu thuyết minh về việc đề xuất cấp độ căn\ncứ trên các tiêu chí theo quy định của pháp luật.\n4. Tài liệu thuyết minh phương án bảo đảm an toàn\nthông tin theo cấp độ tương ứng.\n5. Ý kiến về mặt chuyên môn của đơn vị chuyên trách\nvề an toàn thông tin của chủ quản hệ thống thông tin đối với hệ thống thông tin\nđề xuất cấp độ 4 hoặc cấp độ 5.\n6. Ý kiến thẩm định của cơ quan chủ trì thẩm định đối\nvới hệ thống thông tin đề xuất từ cấp độ 3 trở lên.\n(Tên cơ quan) trình (Chủ quản hệ thống thông tin)\nxem xét, quyết định phê duyệt đề xuất cấp độ của hệ thống thông tin (Tên hệ thống\nthông tin)./.\nNơi nhận:\n- Như trên;\n- …………..\nĐẠI DIỆN CỦA CƠ\nQUAN, TỔ CHỨC\n(Ký, ghi rõ họ tên, chức danh và đóng dấu)\nMẫu\nsố 06\n(CHỦ QUẢN HỆ THỐNG\nTHÔNG TIN)\n-------\nCỘNG HÒA XÃ HỘI\nCHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\n---------------\nSố: ………..\n….., ngày ... tháng ... năm ...\nQUYẾT\nĐỊNH\nVề việc phê duyệt cấp độ an toàn hệ thống thông tin\n(THỦ TRƯỞNG CƠ\nQUAN TỔ CHỨC)\nCăn cứ Luật an\ntoàn thông tin mạng ngày 19 tháng 11 năm 2015;\n(Căn cứ các văn bản hướng dẫn thi hành Luật an toàn thông tin mạng và các văn bản\nliên quan);\nXét đề nghị của cơ quan (Tên đơn vị đề nghị),\nQUYẾT ĐỊNH:\nĐiều 1. Phê duyệt cấp độ an toàn hệ thống thông tin đối với (Tên hệ thống thông tin) cụ thể như sau:\n1. Thông tin chung\na) Tên hệ thống thông tin:\nb) Đơn vị vận hành hệ thống thông tin:\nc) Địa chỉ:\n2. Cấp độ an toàn hệ thống thông tin: (cấp độ)\n3. Phương án bảo đảm an toàn thông tin:\na) Phương án bảo đảm an toàn thông tin trong thiết\nkế hệ thống thông tin tương ứng với cấp độ (cấp độ) là phù hợp với tiêu chuẩn quốc gia (Tên tiêu chuẩn), quy chuẩn kỹ thuật quốc gia (Tên quy chuẩn) về bảo đảm an toàn hệ thống thông tin theo cấp độ.\nb) Phương án bảo đảm an toàn thông tin trong quá\ntrình vận hành hệ thống tương ứng với cấp độ (cấp độ) là phù hợp với tiêu chuẩn quốc gia (Tên tiêu chuẩn), quy chuẩn kỹ thuật quốc gia (Tên quy chuẩn) về bảo đảm an toàn hệ thống thông tin theo cấp độ.\nĐiều 2. Tổ chức thực hiện\n1. Cơ quan (Tên đơn vị đề nghị) chịu trách nhiệm:\na) Thực hiện trách nhiệm bảo đảm an toàn hệ thống\nthông tin mình quản lý theo các quy định tại Điều 22 Nghị định này.\nb) Các nội dung khác (nếu có).\n2. Trách nhiệm của các cơ quan liên quan khác (nếu\ncó).\nĐiều 3. Điều Khoản thi hành\n1. Cơ quan (Tên đơn vị đề xuất) và các cơ quan liên\nquan khác chịu trách nhiệm thi hành Quyết định này.\n2. Đơn vị chuyên trách về an toàn thông tin chịu\ntrách nhiệm kiểm tra, giám sát việc thực hiện Quyết định này báo cáo cơ quan (Chủ quản hệ thống thông tin) theo quy định của pháp luật./.\nNơi nhận:\n-…………..;\n- …………..\nĐẠI DIỆN CỦA CƠ\nQUAN, TỔ CHỨC\n(Ký, ghi rõ họ tên, chức danh và đóng dấu)\nMẫu\nsố 07\n(CHỦ QUẢN HỆ THỐNG\nTHÔNG TIN)\n-------\nCỘNG HÒA XÃ HỘI\nCHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\n---------------\nSố: ………..\n….., ngày ... tháng ... năm ...\nQUYẾT\nĐỊNH\nVề việc phê duyệt phương án bảo đảm an toàn thông\ntin\n(THỦ TRƯỞNG CƠ\nQUAN TỔ CHỨC)\nCăn cứ Luật an\ntoàn thông tin mạng ngày 19 tháng 11 năm 2015;\n(Căn cứ các văn bản hướng dẫn thi hành Luật an toàn thông tin mạng và các văn bản\nliên quan);\nXét đề nghị của cơ quan (Tên đơn vị đề nghị),\nQUYẾT ĐỊNH:\nĐiều 1. Phê duyệt phương án bảo đảm an toàn thông tin đối với (Tên hệ thống thông tin) cụ thể như sau:\n1. Thông tin chung\na) Tên hệ thống thông tin:\nb) Đơn vị vận hành hệ thống thông tin:\nc) Địa chỉ:\n2. Phương án bảo đảm an toàn thông tin:\na) Phương án bảo đảm an toàn thông tin trong thiết\nkế hệ thống thông tin tương ứng với cấp độ (cấp độ) là phù hợp với tiêu chuẩn quốc gia (Tên tiêu chuẩn), quy chuẩn kỹ thuật quốc gia (Tên quy chuẩn) về bảo đảm an toàn hệ thống thông tin theo cấp độ.\nb) Phương án bảo đảm an toàn thông tin trong quá\ntrình vận hành hệ thống tương ứng với cấp độ (cấp độ) là phù hợp với tiêu chuẩn quốc gia (Tên tiêu chuẩn), quy chuẩn kỹ thuật quốc gia (Tên quy chuẩn) về bảo đảm an toàn hệ thống thông tin theo cấp độ.\nĐiều 2. Tổ chức thực hiện\n1. Cơ quan (Tên đơn vị đề nghị) chịu trách nhiệm:\na) Thực hiện trách nhiệm bảo đảm an toàn hệ thống\nthông tin mình quản lý theo các quy định tại Điều 22 Nghị định này.\nb) Các nội dung khác (nếu có).\n2. Trách nhiệm của các cơ quan liên quan khác (nếu\ncó).\nĐiều 3. Điều Khoản thi hành\n1. Cơ quan (Tên đơn vị đề xuất) và các cơ quan liên\nquan khác chịu trách nhiệm thi hành Quyết định này.\n2. Đơn vị chuyên trách về an toàn thông tin chịu\ntrách nhiệm kiểm tra, giám sát việc thực hiện Quyết định này báo cáo cơ quan (Chủ quản hệ thống thông tin) theo quy định của pháp luật./.\nNơi nhận:\n-…………..;\n- …………..\nĐẠI DIỆN CỦA CƠ\nQUAN, TỔ CHỨC\n(Ký, ghi rõ họ tên, chức danh và đóng dấu)",
+  "tree": {
+    "parts": [
+      {
+        "part_id": "doc:304855:part:1",
+        "part_type": "main",
+        "part_title": null,
+        "reference": null,
+        "direct_text": "NGHỊ ĐỊNH VỀ\nBẢO ĐẢM AN TOÀN HỆ THỐNG THÔNG TIN THEO CẤP ĐỘ\nCăn cứ Luật tổ chức Chính phủ ngày 19 tháng 6 năm 2015; Căn cứ Luật an toàn thông tin mạng ngày 19 tháng 11 năm 2015; Theo đề nghị của Bộ trưởng Bộ Thông tin và Truyền thông; Chính phủ ban hành Nghị định về bảo đảm an toàn hệ thống thông tin theo cấp độ.",
+        "chapters": [
+          {
+            "chapter_id": "doc:304855:part:1:chapter:1",
+            "number": "I",
+            "title": "NHỮNG QUY ĐỊNH CHUNG",
+            "content": "Chương I\nNHỮNG QUY ĐỊNH CHUNG",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:304855:part:1:article:1",
+                "number": "1",
+                "title": "Phạm vi Điều chỉnh Nghị định này quy định chi Tiết về tiêu chí, thẩm quyền, trình tự, thủ tục xác định cấp độ an toàn hệ thống thông tin và trách nhiệm bảo đảm an toàn hệ thống thông tin theo từng cấp độ.",
+                "content": "Điều 1. Phạm vi Điều chỉnh Nghị định này quy định chi Tiết về tiêu chí, thẩm quyền, trình tự, thủ tục xác định cấp độ an toàn hệ thống thông tin và trách nhiệm bảo đảm an toàn hệ thống thông tin theo từng cấp độ.",
+                "clauses": [],
+                "points": []
+              },
+              {
+                "article_id": "doc:304855:part:1:article:2",
+                "number": "2",
+                "title": "Đối tượng áp dụng Nghị định này áp dụng đối với cơ quan, tổ chức, cá nhân tham gia hoặc có liên quan đến hoạt động xây dựng, thiết lập, quản lý, vận hành, nâng cấp, mở rộng hệ thống thông tin tại Việt Nam phục vụ ứng dụng công nghệ thông tin trong hoạt động của cơ quan, tổ chức nhà nước, ứng dụng công nghệ thông tin trong việc cung cấp dịch vụ trực tuyến phục vụ người dân và doanh nghiệp. Khuyến khích tổ chức, cá nhân liên quan khác áp dụng các quy định tại Nghị định này để bảo vệ hệ thống thông tin.",
+                "content": "Điều 2. Đối tượng áp dụng Nghị định này áp dụng đối với cơ quan, tổ chức, cá nhân tham gia hoặc có liên quan đến hoạt động xây dựng, thiết lập, quản lý, vận hành, nâng cấp, mở rộng hệ thống thông tin tại Việt Nam phục vụ ứng dụng công nghệ thông tin trong hoạt động của cơ quan, tổ chức nhà nước, ứng dụng công nghệ thông tin trong việc cung cấp dịch vụ trực tuyến phục vụ người dân và doanh nghiệp. Khuyến khích tổ chức, cá nhân liên quan khác áp dụng các quy định tại Nghị định này để bảo vệ hệ thống thông tin.",
+                "clauses": [],
+                "points": []
+              },
+              {
+                "article_id": "doc:304855:part:1:article:3",
+                "number": "3",
+                "title": "Giải thích từ ngữ Trong Nghị định này, các từ ngữ dưới đây được hiểu như sau:",
+                "content": "Điều 3. Giải thích từ ngữ Trong Nghị định này, các từ ngữ dưới đây được hiểu như sau:",
+                "clauses": [
+                  {
+                    "clause_id": "doc:304855:part:1:article:3:clause:1",
+                    "number": "1",
+                    "content": "1. Chủ quản hệ thống thông tin\nlà cơ quan, tổ chức, cá nhân có thẩm quyền quản lý trực tiếp đối với hệ thống thông tin. Đối với cơ quan, tổ chức nhà nước, chủ quản hệ thống thông tin là các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ, Ủy ban nhân dân các tỉnh, thành phố trực thuộc trung ương hoặc là cấp có thẩm quyền quyết định đầu tư dự án xây dựng, thiết lập, nâng cấp, mở rộng hệ thống thông tin đó.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:304855:part:1:article:3:clause:2",
+                    "number": "2",
+                    "content": "2. Xử lý thông tin là việc thực hiện một hoặc một số\nthao tác tạo lập, cung cấp, thu thập, biên tập, sử dụng, lưu trữ, truyền đưa, chia sẻ, trao đổi thông tin trên mạng.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:304855:part:1:article:3:clause:3",
+                    "number": "3",
+                    "content": "3. Đơn vị vận hành hệ thống\nthông tin là cơ quan, tổ chức được chủ quản hệ thống thông tin giao nhiệm vụ vận hành hệ thống thông tin. Trong trường hợp chủ quản hệ thống thông tin thuê ngoài dịch vụ công nghệ thông tin, đơn vị vận hành hệ thống thông tin là bên cung cấp dịch vụ.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:304855:part:1:article:3:clause:4",
+                    "number": "4",
+                    "content": "4. Đơn vị chuyên trách về công nghệ thông tin là đơn vị chuyên trách về công nghệ thông tin của các bộ, cơ quan ngang bộ, cơ\nquan thuộc Chính phủ; Sở Thông tin và Truyền thông các tỉnh, thành phố trực thuộc trung ương hoặc đơn vị chuyên trách về công nghệ thông tin của chủ quản hệ thống thông tin do chủ quản hệ thống thông tin chỉ định.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:304855:part:1:article:3:clause:5",
+                    "number": "5",
+                    "content": "5. Đơn vị chuyên trách về an toàn thông tin là đơn\nvị có chức năng, nhiệm vụ bảo đảm an toàn thông tin của chủ quản hệ thống thông tin.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:304855:part:1:article:3:clause:6",
+                    "number": "6",
+                    "content": "6. Bộ phận chuyên trách về an toàn thông tin là bộ\nphận do chủ quản hệ thống thông tin thành lập hoặc chỉ định để thực thi nhiệm vụ bảo đảm an toàn thông tin và ứng cứu sự cố an toàn thông tin mạng.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:304855:part:1:article:3:clause:7",
+                    "number": "7",
+                    "content": "7. Dịch vụ trực tuyến là dịch vụ do doanh nghiệp hoặc\ncơ quan nhà nước cung cấp trên môi trường mạng cho các tổ chức, cá nhân.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:304855:part:1:article:4",
+                "number": "4",
+                "title": "Nguyên tắc bảo đảm an toàn hệ thống thông tin theo cấp độ",
+                "content": "Điều 4. Nguyên tắc bảo đảm an toàn hệ thống thông tin theo cấp độ",
+                "clauses": [
+                  {
+                    "clause_id": "doc:304855:part:1:article:4:clause:1",
+                    "number": "1",
+                    "content": "1. Việc bảo đảm an toàn hệ thống thông tin theo cấp\nđộ trong hoạt động của cơ quan, tổ chức được thực hiện thường xuyên, liên tục từ khâu thiết kế, xây dựng, vận hành đến khi hủy bỏ; tuân thủ theo tiêu chuẩn, quy chuẩn kỹ thuật.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:304855:part:1:article:4:clause:2",
+                    "number": "2",
+                    "content": "2. Việc bảo đảm an toàn hệ thống\nthông tin theo cấp độ trong hoạt động của cơ quan, tổ chức được thực hiện một cách tổng thể, đồng bộ, tập trung trong việc đầu tư các giải pháp bảo vệ, có sự dùng chung, chia sẻ tài nguyên để tối ưu hiệu năng, tránh đầu tư thừa, trùng lặp.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:304855:part:1:article:4:clause:3",
+                    "number": "3",
+                    "content": "3. Việc phân bổ, bố trí nguồn lực để bảo đảm an\ntoàn hệ thống thông tin thực hiện theo thứ tự ưu tiên từ cấp độ cao xuống cấp độ thấp.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:304855:part:1:article:5",
+                "number": "5",
+                "title": "Nguyên tắc xác định cấp độ",
+                "content": "Điều 5. Nguyên tắc xác định cấp độ",
+                "clauses": [
+                  {
+                    "clause_id": "doc:304855:part:1:article:5:clause:1",
+                    "number": "1",
+                    "content": "1. Việc xác định\nhệ thống thông tin để xác định cấp độ căn cứ trên nguyên tắc như sau:",
+                    "points": [
+                      {
+                        "point_id": "doc:304855:part:1:article:5:clause:1:point:1",
+                        "label": "a",
+                        "content": "a) Hệ thống thông tin chỉ có một chủ quản hệ thống\nthông tin;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:304855:part:1:article:5:clause:1:point:2",
+                        "label": "b",
+                        "content": "b) Hệ thống thông tin có thể hoạt động độc lập, được\nthiết lập nhằm trực tiếp phục vụ hoặc hỗ trợ hoạt động nghiệp vụ, sản xuất, kinh doanh cụ thể của cơ quan, tổ chức thuộc một trong các loại hình hệ thống thông tin quy định tại Khoản 2 Điều 6 Nghị định này.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:304855:part:1:article:5:clause:2",
+                    "number": "2",
+                    "content": "2. Trong trường hợp hệ thống thông tin bao gồm nhiều\nhệ thống thành phần, mỗi hệ thống thành phần lại tương ứng với một cấp độ khác nhau, thì cấp độ hệ thống thông tin được xác định là cấp độ cao nhất trong các cấp độ của các hệ thống thành phần cấu thành.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:304855:part:1:chapter:2",
+            "number": "II",
+            "title": "TIÊU CHÍ XÁC ĐỊNH CẤP ĐỘ Điều 6. Phân loại thông tin và hệ thống thông tin 1. Thông tin xử lý thông qua hệ thống thông tin được phân loại theo thuộc tính bí mật như sau: a) Thông tin công cộng là thông tin trên mạng của một tổ chức, cá nhân được công khai cho tất cả các đối tượng mà không cần xác định danh tính, địa chỉ cụ thể của các đối tượng đó; b) Thông tin riêng là thông tin trên mạng của một tổ chức, cá nhân mà tổ chức, cá nhân đó không công khai hoặc chỉ công khai cho một hoặc một nhóm đối tượng đã được xác định danh tính, địa chỉ cụ thể; c) Thông tin cá nhân là thông tin trên mạng gắn với việc xác định danh tính một người cụ thể; d) Thông tin bí mật nhà nước là thông tin ở mức Mật, Tối Mật, Tuyệt Mật theo quy định của pháp luật về bảo vệ bí mật nhà nước. 2. Hệ thống thông tin được phân loại theo chức năng phục vụ hoạt động nghiệp vụ như sau: a) Hệ thống thông tin phục vụ hoạt động nội bộ là hệ thống chỉ phục vụ hoạt động quản trị, vận hành nội bộ của cơ quan, tổ chức; b) Hệ thống thông tin phục vụ người dân, doanh nghiệp là hệ thống trực tiếp hoặc hỗ trợ cung cấp dịch vụ trực tuyến, bao gồm dịch vụ công trực tuyến và dịch vụ trực tuyến khác trong các lĩnh vực viễn thông, công nghệ thông tin, thương mại, tài chính, ngân hàng, y tế, giáo dục và các lĩnh vực chuyên ngành khác; c) Hệ thống cơ sở hạ tầng thông tin là tập hợp trang thiết bị, đường truyền dẫn kết nối phục vụ chung hoạt động của nhiều cơ quan, tổ chức như mạng diện rộng, cơ sở dữ liệu, trung tâm dữ liệu, điện toán đám mây; xác thực điện tử, chứng thực điện tử, chữ ký số; kết nối liên thông các hệ thống thông tin; d) Hệ thống thông tin Điều khiển công nghiệp là hệ thống có chức năng giám sát, thu thập dữ liệu, quản lý và kiểm soát các hạng Mục quan trọng phục vụ Điều khiển, vận hành hoạt động bình thường của các công trình xây dựng; đ) Hệ thống thông tin khác",
+            "content": "Chương II\nTIÊU CHÍ XÁC ĐỊNH CẤP ĐỘ\nĐiều\n6. Phân loại thông tin và hệ thống thông tin\n1. Thông tin xử lý thông qua hệ thống thông tin được\nphân loại theo thuộc tính bí mật như sau:\na) Thông tin công cộng là thông tin trên mạng của một\ntổ chức, cá nhân được công khai cho tất cả các đối tượng mà không cần xác định danh tính, địa chỉ cụ thể của các đối tượng đó;\nb) Thông tin riêng là thông tin trên mạng của một tổ\nchức, cá nhân mà tổ chức, cá nhân đó không công khai hoặc chỉ công khai cho một hoặc một nhóm đối tượng đã được xác định danh tính, địa chỉ cụ thể;\nc) Thông tin cá nhân là thông tin trên mạng gắn với\nviệc xác định danh tính một người cụ thể;\nd) Thông tin bí mật nhà nước là thông tin ở mức Mật,\nTối Mật, Tuyệt Mật theo quy định của pháp luật về bảo vệ bí mật nhà nước.\n2. Hệ thống thông tin được phân loại theo chức năng\nphục vụ hoạt động nghiệp vụ như sau:\na) Hệ thống thông tin phục vụ\nhoạt động nội bộ là hệ thống chỉ phục vụ hoạt động quản trị, vận hành nội bộ của cơ quan, tổ chức;\nb) Hệ thống thông tin phục vụ\nngười dân, doanh nghiệp là hệ thống trực tiếp hoặc hỗ trợ cung cấp dịch vụ trực tuyến, bao gồm dịch vụ công trực tuyến và dịch vụ trực tuyến khác trong các lĩnh vực viễn thông, công nghệ thông tin, thương mại, tài chính, ngân hàng, y tế, giáo dục và các lĩnh vực chuyên ngành khác;\nc) Hệ thống cơ sở hạ tầng\nthông tin là tập hợp trang thiết bị, đường truyền dẫn kết nối phục vụ chung hoạt động của nhiều cơ quan, tổ chức như mạng diện rộng, cơ sở dữ liệu, trung tâm dữ liệu, điện toán đám mây; xác thực điện tử, chứng thực điện tử, chữ ký số; kết nối liên thông các hệ thống thông tin;\nd) Hệ thống thông tin Điều khiển\ncông nghiệp là hệ thống có chức năng giám sát, thu thập dữ liệu, quản lý và kiểm soát các hạng Mục quan trọng phục vụ Điều khiển, vận hành hoạt động bình thường của các công trình xây dựng;\nđ) Hệ thống thông tin khác.",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:304855:part:1:article:6",
+                "number": "7",
+                "title": "Tiêu chí xác định cấp độ 1 Hệ thống thông tin cấp độ 1 là hệ thống thông tin phục vụ hoạt động nội bộ của cơ quan, tổ chức và chỉ xử lý thông tin công cộng.",
+                "content": "Điều 7. Tiêu chí xác định cấp độ 1 Hệ thống thông tin cấp độ 1 là hệ thống thông tin phục vụ hoạt động nội bộ của cơ quan, tổ chức và chỉ xử lý thông tin công cộng.",
+                "clauses": [],
+                "points": []
+              },
+              {
+                "article_id": "doc:304855:part:1:article:7",
+                "number": "8",
+                "title": "Tiêu chí xác định cấp độ 2 Hệ thống thông tin cấp độ 2 là hệ thống thông tin có một trong các tiêu chí cụ thể như sau:",
+                "content": "Điều 8. Tiêu chí xác định cấp độ 2 Hệ thống thông tin cấp độ 2 là hệ thống thông tin có một trong các tiêu chí cụ thể như sau:",
+                "clauses": [
+                  {
+                    "clause_id": "doc:304855:part:1:article:7:clause:1",
+                    "number": "1",
+                    "content": "1. Hệ thống thông tin phục vụ hoạt động nội bộ của\ncơ quan, tổ chức và có xử lý thông tin riêng, thông tin cá nhân của người sử dụng nhưng không xử lý thông tin bí mật nhà nước.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:304855:part:1:article:7:clause:2",
+                    "number": "2",
+                    "content": "2. Hệ thống thông tin phục vụ người dân, doanh nghiệp\nthuộc một trong các loại hình như sau:",
+                    "points": [
+                      {
+                        "point_id": "doc:304855:part:1:article:7:clause:2:point:1",
+                        "label": "a",
+                        "content": "a) Cung cấp thông tin và dịch vụ công trực tuyến từ\nmức độ 2 trở xuống theo quy định của pháp luật;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:304855:part:1:article:7:clause:2:point:2",
+                        "label": "b",
+                        "content": "b) Cung cấp dịch vụ trực tuyến không thuộc danh Mục\ndịch vụ kinh doanh có Điều kiện;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:304855:part:1:article:7:clause:2:point:3",
+                        "label": "c",
+                        "content": "c) Cung cấp dịch vụ trực tuyến khác có xử lý thông\ntin riêng, thông tin cá nhân của dưới 10.000 người sử dụng.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:304855:part:1:article:7:clause:3",
+                    "number": "3",
+                    "content": "3. Hệ thống cơ sở hạ tầng thông tin phục vụ hoạt động\ncủa một cơ quan, tổ chức.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:304855:part:1:article:8",
+                "number": "9",
+                "title": "Tiêu chí xác định cấp độ 3 Hệ thống thông tin cấp độ 3 là hệ thống thông tin có một trong các tiêu chí cụ thể như sau:",
+                "content": "Điều 9. Tiêu chí xác định cấp độ 3 Hệ thống thông tin cấp độ 3 là hệ thống thông tin có một trong các tiêu chí cụ thể như sau:",
+                "clauses": [
+                  {
+                    "clause_id": "doc:304855:part:1:article:8:clause:1",
+                    "number": "1",
+                    "content": "1. Hệ thống thông tin xử lý thông tin bí mật nhà nước\nhoặc hệ thống phục vụ quốc phòng, an ninh khi bị phá hoại sẽ làm tổn hại tới quốc phòng, an ninh quốc gia.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:304855:part:1:article:8:clause:2",
+                    "number": "2",
+                    "content": "2. Hệ thống thông tin phục vụ người dân, doanh nghiệp\nthuộc một trong các loại hình như sau:",
+                    "points": [
+                      {
+                        "point_id": "doc:304855:part:1:article:8:clause:2:point:1",
+                        "label": "a",
+                        "content": "a) Cung cấp thông tin và dịch vụ công trực tuyến từ\nmức độ 3 trở lên theo quy định của pháp luật;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:304855:part:1:article:8:clause:2:point:2",
+                        "label": "b",
+                        "content": "b) Cung cấp dịch vụ trực tuyến thuộc danh Mục dịch\nvụ kinh doanh có Điều kiện;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:304855:part:1:article:8:clause:2:point:3",
+                        "label": "c",
+                        "content": "c) Cung cấp dịch vụ trực tuyến khác có xử lý thông\ntin riêng, thông tin cá nhân của từ 10.000 người sử dụng trở lên.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:304855:part:1:article:8:clause:3",
+                    "number": "3",
+                    "content": "3. Hệ thống cơ sở hạ tầng thông tin dùng chung phục\nvụ hoạt động của các cơ quan, tổ chức trong phạm vi một ngành, một tỉnh hoặc một số tỉnh.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:304855:part:1:article:8:clause:4",
+                    "number": "4",
+                    "content": "4. Hệ thống thông tin Điều khiển công nghiệp trực\ntiếp phục vụ Điều khiển, vận hành hoạt động bình thường của các công trình xây dựng cấp II, cấp III hoặc cấp IV theo phân cấp của pháp luật về xây dựng.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:304855:part:1:article:9",
+                "number": "10",
+                "title": "Tiêu chí xác định cấp độ 4 Hệ thống thông tin cấp độ 4 là hệ thống thông tin có một trong các tiêu chí cụ thể như sau:",
+                "content": "Điều 10. Tiêu chí xác định cấp độ 4 Hệ thống thông tin cấp độ 4 là hệ thống thông tin có một trong các tiêu chí cụ thể như sau:",
+                "clauses": [
+                  {
+                    "clause_id": "doc:304855:part:1:article:9:clause:1",
+                    "number": "1",
+                    "content": "1. Hệ thống thông tin xử lý thông tin bí mật nhà nước\nhoặc hệ thống phục vụ quốc phòng, an ninh, khi bị phá hoại sẽ làm tổn hại nghiêm trọng quốc phòng, an ninh quốc gia.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:304855:part:1:article:9:clause:2",
+                    "number": "2",
+                    "content": "2. Hệ thống thông tin quốc gia\nphục vụ phát triển Chính phủ điện tử, yêu cầu vận hành 24/7 và không chấp nhận ngừng vận hành mà không có kế hoạch trước.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:304855:part:1:article:9:clause:3",
+                    "number": "3",
+                    "content": "3. Hệ thống cơ sở hạ tầng thông tin dùng chung phục\nvụ hoạt động của các cơ quan, tổ chức trên phạm vi toàn quốc, yêu cầu vận hành 24/7 và không chấp nhận ngừng vận hành mà không có kế hoạch trước.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:304855:part:1:article:9:clause:4",
+                    "number": "4",
+                    "content": "4. Hệ thống thông tin Điều khiển công nghiệp trực\ntiếp phục vụ Điều khiển, vận hành hoạt động bình thường của các công trình xây dựng cấp I theo phân cấp của pháp luật về xây dựng.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:304855:part:1:article:10",
+                "number": "11",
+                "title": "Tiêu chí xác định cấp độ 5 Hệ thống thông tin cấp độ 5 là hệ thống thông tin có một trong các tiêu chí cụ thể như sau:",
+                "content": "Điều 11. Tiêu chí xác định cấp độ 5 Hệ thống thông tin cấp độ 5 là hệ thống thông tin có một trong các tiêu chí cụ thể như sau:",
+                "clauses": [
+                  {
+                    "clause_id": "doc:304855:part:1:article:10:clause:1",
+                    "number": "1",
+                    "content": "1. Hệ thống thông tin xử lý thông tin bí mật nhà nước\nhoặc hệ thống phục vụ quốc phòng, an ninh, khi bị phá hoại sẽ làm tổn hại đặc biệt nghiêm trọng tới quốc phòng, an ninh quốc gia.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:304855:part:1:article:10:clause:2",
+                    "number": "2",
+                    "content": "2. Hệ thống thông tin phục vụ lưu trữ dữ liệu tập\ntrung đối với một số loại hình thông tin, dữ liệu đặc biệt quan trọng của quốc gia.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:304855:part:1:article:10:clause:3",
+                    "number": "3",
+                    "content": "3. Hệ thống\ncơ sở hạ tầng thông tin quốc gia phục vụ kết nối liên thông hoạt động của Việt Nam với quốc tế.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:304855:part:1:article:10:clause:4",
+                    "number": "4",
+                    "content": "4. Hệ thống thông tin Điều khiển công nghiệp trực\ntiếp phục vụ Điều khiển, vận hành hoạt động bình thường của công trình xây dựng cấp đặc biệt theo phân cấp của pháp luật về xây dựng hoặc công trình quan trọng liên quan đến an ninh quốc gia theo pháp luật về an ninh quốc gia.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:304855:part:1:article:10:clause:5",
+                    "number": "5",
+                    "content": "5. Hệ thống thông tin khác theo quyết định của Thủ\ntướng Chính phủ.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:304855:part:1:chapter:3",
+            "number": "III",
+            "title": "THẨM QUYỀN, TRÌNH TỰ, THỦ TỤC XÁC ĐỊNH CẤP ĐỘ",
+            "content": "Chương III\nTHẨM QUYỀN, TRÌNH TỰ, THỦ TỤC XÁC ĐỊNH CẤP ĐỘ",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:304855:part:1:article:11",
+                "number": "12",
+                "title": "Thẩm quyền thẩm định và phê duyệt cấp độ",
+                "content": "Điều 12. Thẩm quyền thẩm định và phê duyệt cấp độ",
+                "clauses": [
+                  {
+                    "clause_id": "doc:304855:part:1:article:11:clause:1",
+                    "number": "1",
+                    "content": "1. Đối với hệ thống thông tin được đề xuất là cấp độ\n1 hoặc cấp độ 2: Đơn vị chuyên trách về an toàn thông tin của chủ quản hệ thống thông tin thực hiện thẩm định, phê duyệt hồ sơ đề xuất cấp độ đối với hệ thống thông tin được đề xuất là cấp độ 1 hoặc cấp độ 2.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:304855:part:1:article:11:clause:2",
+                    "number": "2",
+                    "content": "2. Đối với hệ thống thông tin được đề xuất là cấp độ\n3:",
+                    "points": [
+                      {
+                        "point_id": "doc:304855:part:1:article:11:clause:2:point:1",
+                        "label": "a",
+                        "content": "a) Đơn vị\nchuyên trách về an toàn thông tin của chủ quản hệ thống thông tin thực hiện thẩm định hồ sơ đề xuất cấp độ;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:304855:part:1:article:11:clause:2:point:2",
+                        "label": "b",
+                        "content": "b) Chủ quản hệ thống thông tin phê duyệt hồ sơ đề\nxuất cấp độ.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:304855:part:1:article:11:clause:3",
+                    "number": "3",
+                    "content": "3. Đối với hệ thống thông tin được đề xuất là cấp độ\n4 hoặc cấp độ 5:",
+                    "points": [
+                      {
+                        "point_id": "doc:304855:part:1:article:11:clause:3:point:1",
+                        "label": "a",
+                        "content": "a) Bộ Thông tin và Truyền\nthông chủ trì, phối hợp với Bộ Quốc phòng, Bộ Công an và các bộ, ngành liên quan thực hiện thẩm định hồ sơ đề xuất cấp độ, trừ trường hợp quy định tại Điểm b và Điểm c Khoản 3 Điều này;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:304855:part:1:article:11:clause:3:point:2",
+                        "label": "b",
+                        "content": "b) Bộ Quốc phòng chủ trì, phối hợp với Bộ Thông tin\nvà Truyền thông và bộ, ngành liên quan thực hiện thẩm định hồ sơ đề xuất cấp độ đối với hệ thống thông tin do Bộ Quốc phòng quản lý;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:304855:part:1:article:11:clause:3:point:3",
+                        "label": "c",
+                        "content": "c) Bộ Công an chủ trì, phối hợp với Bộ Thông tin và\nTruyền thông và bộ, ngành liên quan thực hiện thẩm định hồ sơ đề xuất cấp độ đối với hệ thống thông tin do Bộ Công an quản lý;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:304855:part:1:article:11:clause:3:point:4",
+                        "label": "d",
+                        "content": "d) Chủ quản hệ thống thông tin phê duyệt hồ sơ đề\nxuất cấp độ đối với hệ thống thông tin cấp độ 4; phê duyệt phương án bảo đảm an toàn thông tin đối với hệ thống thông tin cấp độ 5;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:304855:part:1:article:11:clause:3:point:5",
+                        "label": "đ",
+                        "content": "đ) Thủ tướng Chính phủ phê duyệt Danh Mục hệ thống\nthông tin cấp độ 5 (Danh Mục hệ thống thông tin quan trọng quốc gia).",
+                        "children": []
+                      }
+                    ]
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:304855:part:1:article:12",
+                "number": "13",
+                "title": "Trình tự, thủ tục xác định cấp độ đối với dự án đầu tư xây dựng mới hoặc mở rộng, nâng cấp hệ thống thông tin",
+                "content": "Điều 13. Trình tự, thủ tục xác định cấp độ đối với dự án đầu tư xây dựng mới hoặc mở rộng, nâng cấp hệ thống thông tin",
+                "clauses": [
+                  {
+                    "clause_id": "doc:304855:part:1:article:12:clause:1",
+                    "number": "1",
+                    "content": "1. Chủ đầu tư xây dựng thuyết\nminh đề xuất cấp độ, lồng ghép vào nội dung của báo cáo nghiên cứu khả thi, dự án khả thi ứng dụng công nghệ thông tin hoặc báo cáo đầu tư của dự án, gửi cơ quan chức năng thẩm định, trình cơ quan có thẩm quyền phê duyệt báo cáo nghiên cứu khả thi; dự án khả thi ứng dụng công nghệ thông tin hoặc báo cáo đầu tư theo quy định của pháp luật về đầu tư và quy định Nghị định này.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:304855:part:1:article:12:clause:2",
+                    "number": "2",
+                    "content": "2. Trong trường hợp thuê dịch vụ công nghệ thông tin, đơn vị chủ trì thuê dịch vụ xây dựng\nthuyết minh đề xuất cấp độ, lồng ghép vào nội dung của kế hoạch, dự án thuê dịch vụ, gửi cơ quan chức năng thẩm định, trình cơ quan có thẩm quyền phê duyệt theo quy định của pháp luật về thuê dịch vụ công nghệ thông tin và quy định của Nghị định này.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:304855:part:1:article:12:clause:3",
+                    "number": "3",
+                    "content": "3. Tài liệu thuyết minh đề xuất cấp độ theo quy định\ntại Điều 15 Nghị định này.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:304855:part:1:article:13",
+                "number": "14",
+                "title": "Trình tự, thủ tục xác định cấp độ đối với hệ thống thông tin đang vận hành",
+                "content": "Điều 14. Trình tự, thủ tục xác định cấp độ đối với hệ thống thông tin đang vận hành",
+                "clauses": [
+                  {
+                    "clause_id": "doc:304855:part:1:article:13:clause:1",
+                    "number": "1",
+                    "content": "1. Lập hồ sơ đề xuất cấp độ:",
+                    "points": [
+                      {
+                        "point_id": "doc:304855:part:1:article:13:clause:1:point:1",
+                        "label": "a",
+                        "content": "a) Đơn vị vận\nhành hệ thống thông tin lập hồ sơ đề xuất cấp độ theo quy định tại Điều 15 Nghị định này;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:304855:part:1:article:13:clause:1:point:2",
+                        "label": "b",
+                        "content": "b) Đối với hệ thống thông tin được đề xuất là cấp độ\n1 hoặc cấp độ 2: Đơn vị vận hành hệ thống thông tin gửi hồ sơ đề xuất cấp độ tới đơn vị thẩm định để thực hiện thẩm định theo quy định tại Khoản 1 Điều 12 Nghị định này;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:304855:part:1:article:13:clause:1:point:3",
+                        "label": "c",
+                        "content": "c) Đối với hệ thống thông tin được đề xuất là cấp độ\n3: Đơn vị vận hành hệ thống thông tin gửi hồ sơ đề xuất cấp độ tới đơn vị thẩm định để thực hiện thẩm định theo quy định tại Điểm a Khoản 2 Điều 12 Nghị định này;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:304855:part:1:article:13:clause:1:point:4",
+                        "label": "d",
+                        "content": "d) Đối với hệ thống thông tin được đề xuất là cấp độ\n4 hoặc cấp độ 5: - Đơn vị vận hành hệ thống thông tin gửi hồ sơ đề xuất cấp độ tới đơn vị chuyên trách về an toàn thông tin của chủ quản hệ thống thông tin để xin ý kiến chuyên môn về sự phù hợp của đề xuất cấp độ và phương án bảo đảm an toàn hệ thống thông tin theo cấp độ; - Đơn vị vận hành hệ thống thông tin trình chủ quản hệ thống thông tin hồ sơ đề xuất cấp độ gửi tới cơ quan thẩm định quy định tại Điểm a, Điểm b hoặc Điểm c Khoản 3 Điều 12 Nghị định này.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:304855:part:1:article:13:clause:2",
+                    "number": "2",
+                    "content": "2. Thẩm định hồ sơ đề xuất cấp độ:\nCơ quan có thẩm quyền thực hiện thẩm định hồ sơ đề xuất cấp độ theo quy định tại Điều 16 Nghị định này.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:304855:part:1:article:13:clause:3",
+                    "number": "3",
+                    "content": "3. Phê duyệt đề xuất cấp độ:",
+                    "points": [
+                      {
+                        "point_id": "doc:304855:part:1:article:13:clause:3:point:1",
+                        "label": "a",
+                        "content": "a) Đối với hệ thống thông tin được đề xuất là cấp độ\n1 hoặc cấp độ 2: Đơn vị chuyên trách về an toàn thông tin của chủ quản hệ thống thông tin phê duyệt đề xuất cấp độ, gửi báo cáo chủ quản hệ thống thông tin;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:304855:part:1:article:13:clause:3:point:2",
+                        "label": "b",
+                        "content": "b) Đối với hệ thống thông tin được đề xuất là cấp độ\n3 hoặc cấp độ 4: Đơn vị vận hành hệ thống thông tin trình chủ quản hệ thống thông tin phê duyệt đề xuất cấp độ;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:304855:part:1:article:13:clause:3:point:3",
+                        "label": "c",
+                        "content": "c) Đối với hệ thống thông tin được đề xuất là cấp độ\n5: - Trên cơ sở kết quả thẩm định hồ sơ đề xuất cấp độ, Bộ Thông tin và Truyền thông chủ trì, phối hợp với Bộ Quốc phòng, Bộ Công an và bộ, ngành có liên quan trình Thủ tướng Chính phủ phê duyệt Danh Mục hệ thống thông tin cấp độ 5; - Đơn vị vận hành hệ thống thông tin trình chủ quản hệ thống thông tin phê duyệt phương án bảo đảm an toàn thông tin.",
+                        "children": []
+                      }
+                    ]
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:304855:part:1:article:14",
+                "number": "15",
+                "title": "Hồ sơ đề xuất cấp độ Hồ sơ đề xuất cấp độ bao gồm:",
+                "content": "Điều 15. Hồ sơ đề xuất cấp độ Hồ sơ đề xuất cấp độ bao gồm:",
+                "clauses": [
+                  {
+                    "clause_id": "doc:304855:part:1:article:14:clause:1",
+                    "number": "1",
+                    "content": "1. Tài liệu mô tả, thuyết minh tổng quan về hệ thống\nthông tin.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:304855:part:1:article:14:clause:2",
+                    "number": "2",
+                    "content": "2. Tài liệu thiết kế là một trong những tài liệu\nsau:",
+                    "points": [
+                      {
+                        "point_id": "doc:304855:part:1:article:14:clause:2:point:1",
+                        "label": "a",
+                        "content": "a) Đối với dự án đầu tư xây dựng mới hoặc mở rộng,\nnâng cấp hệ thống thông tin: Thiết kế sơ bộ hoặc tài liệu có giá trị tương đương;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:304855:part:1:article:14:clause:2:point:2",
+                        "label": "b",
+                        "content": "b) Đối với hệ thống thông tin đang vận hành: Thiết\nkế thi công đã được cấp có thẩm quyền phê duyệt hoặc tài liệu có giá trị tương đương.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:304855:part:1:article:14:clause:3",
+                    "number": "3",
+                    "content": "3. Tài liệu thuyết minh về việc\nđề xuất cấp độ căn cứ trên các tiêu chí theo quy định của pháp luật.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:304855:part:1:article:14:clause:4",
+                    "number": "4",
+                    "content": "4. Tài liệu thuyết minh phương án bảo đảm an toàn\nthông tin theo cấp độ tương ứng.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:304855:part:1:article:14:clause:5",
+                    "number": "5",
+                    "content": "5. Ý kiến về mặt chuyên môn của đơn vị chuyên trách\nvề an toàn thông tin của chủ quản hệ thống thông tin đối với hệ thống thông tin đề xuất cấp độ 4 hoặc cấp độ 5.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:304855:part:1:article:15",
+                "number": "16",
+                "title": "Thẩm định hồ sơ đề xuất cấp độ",
+                "content": "Điều 16. Thẩm định hồ sơ đề xuất cấp độ",
+                "clauses": [
+                  {
+                    "clause_id": "doc:304855:part:1:article:15:clause:1",
+                    "number": "1",
+                    "content": "1. Nội dung thẩm định hồ sơ đề xuất cấp độ:",
+                    "points": [
+                      {
+                        "point_id": "doc:304855:part:1:article:15:clause:1:point:1",
+                        "label": "a",
+                        "content": "a) Sự phù hợp về việc đề xuất cấp độ;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:304855:part:1:article:15:clause:1:point:2",
+                        "label": "b",
+                        "content": "b) Sự phù hợp của phương án bảo đảm an toàn hệ thống\nthông tin trong thiết kế sơ bộ, thiết kế thi công hoặc tài liệu có giá trị tương đương theo cấp độ tương ứng;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:304855:part:1:article:15:clause:1:point:3",
+                        "label": "c",
+                        "content": "c) Sự phù hợp của phương án bảo đảm an toàn hệ thống\nthông tin trong quá trình vận hành hệ thống theo cấp độ tương ứng.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:304855:part:1:article:15:clause:2",
+                    "number": "2",
+                    "content": "2. Thời gian thẩm định hồ sơ xác định cấp độ:",
+                    "points": [
+                      {
+                        "point_id": "doc:304855:part:1:article:15:clause:2:point:1",
+                        "label": "a",
+                        "content": "a) Đối với hệ thống thông tin đề xuất cấp độ 3, thời\ngian thẩm định tối đa là 15 ngày kể từ ngày nhận đủ hồ sơ hợp lệ;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:304855:part:1:article:15:clause:2:point:2",
+                        "label": "b",
+                        "content": "b) Đối với hệ thống thông tin đề xuất cấp độ 4 hoặc\ncấp độ 5, thời gian thẩm định tối đa là 30 ngày kể từ ngày nhận đủ hồ sơ hợp lệ.",
+                        "children": []
+                      }
+                    ]
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:304855:part:1:article:16",
+                "number": "17",
+                "title": "Hồ sơ phê duyệt đề xuất cấp độ",
+                "content": "Điều 17. Hồ sơ phê duyệt đề xuất cấp độ",
+                "clauses": [
+                  {
+                    "clause_id": "doc:304855:part:1:article:16:clause:1",
+                    "number": "1",
+                    "content": "1. Hồ sơ phê duyệt đề xuất cấp độ bao gồm:",
+                    "points": [
+                      {
+                        "point_id": "doc:304855:part:1:article:16:clause:1:point:1",
+                        "label": "a",
+                        "content": "a) Hồ sơ đề xuất cấp độ;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:304855:part:1:article:16:clause:1:point:2",
+                        "label": "b",
+                        "content": "b) Ý kiến thẩm định của cơ quan chủ trì thẩm định đối\nvới hệ thống thông tin đề xuất từ cấp độ 3 trở lên.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:304855:part:1:article:16:clause:2",
+                    "number": "2",
+                    "content": "2. Thời gian xử lý hồ sơ phê duyệt cấp độ:\nThời gian xử lý tối đa là 07 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:304855:part:1:article:17",
+                "number": "18",
+                "title": "Trình tự, thủ tục xác định lại cấp độ đối với hệ thống thông tin đã được phê duyệt cấp độ Đối với hệ thống thông tin đã được phê duyệt cấp độ, trong trường hợp phải xác định lại cấp độ cho phù hợp với tình hình thực tế thì thực hiện theo trình tự, thủ tục xác định lần đầu.",
+                "content": "Điều 18. Trình tự, thủ tục xác định lại cấp độ đối với hệ thống thông tin đã được phê duyệt cấp độ Đối với hệ thống thông tin đã được phê duyệt cấp độ, trong trường hợp phải xác định lại cấp độ cho phù hợp với tình hình thực tế thì thực hiện theo trình tự, thủ tục xác định lần đầu.",
+                "clauses": [],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:304855:part:1:chapter:4",
+            "number": "IV",
+            "title": "TRÁCH NHIỆM BẢO ĐẢM AN TOÀN HỆ THỐNG THÔNG TIN Điều 19. Phương án bảo đảm an toàn hệ thống thông tin theo cấp độ 1. Phương án bảo đảm an toàn hệ thống thông tin phải đáp ứng yêu cầu cơ bản trong tiêu chuẩn, quy chuẩn kỹ thuật về bảo đảm an toàn hệ thống thông tin theo cấp độ. 2. Phương án bảo đảm an toàn hệ thống thông tin bao gồm các nội dung sau đây: a) Bảo đảm an toàn hệ thống thông tin trong khâu thiết kế, xây dựng; b) Bảo đảm an toàn hệ thống thông tin trong quá trình vận hành; c) Kiểm tra, đánh giá an toàn thông tin; d) Quản lý rủi ro an toàn thông tin; đ) Giám sát an toàn thông tin; e) Dự phòng, ứng cứu sự cố, khôi phục sau thảm họa; g) Kết thúc vận hành, khai thác, thanh lý, hủy bỏ",
+            "content": "Chương IV\nTRÁCH NHIỆM BẢO ĐẢM AN TOÀN HỆ THỐNG THÔNG TIN\nĐiều\n19. Phương án bảo đảm an toàn hệ thống thông tin theo cấp độ\n1. Phương án bảo đảm an toàn hệ\nthống thông tin phải đáp ứng yêu cầu cơ bản trong tiêu chuẩn, quy chuẩn kỹ thuật về bảo đảm an toàn hệ thống thông tin theo cấp độ.\n2. Phương án bảo đảm an toàn hệ\nthống thông tin bao gồm các nội dung sau đây:\na) Bảo đảm an toàn hệ thống\nthông tin trong khâu thiết kế, xây dựng;\nb) Bảo đảm an toàn hệ thống\nthông tin trong quá trình vận hành;\nc) Kiểm tra, đánh giá an toàn thông tin;\nd) Quản lý rủi ro an toàn thông tin;\nđ) Giám sát an toàn thông tin;\ne) Dự phòng, ứng cứu sự cố, khôi phục sau thảm họa;\ng) Kết thúc vận hành, khai thác, thanh lý, hủy bỏ.",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:304855:part:1:article:18",
+                "number": "20",
+                "title": "Trách nhiệm của chủ quản hệ thống thông tin",
+                "content": "Điều 20. Trách nhiệm của chủ quản hệ thống thông tin",
+                "clauses": [
+                  {
+                    "clause_id": "doc:304855:part:1:article:18:clause:1",
+                    "number": "1",
+                    "content": "1. Người đứng đầu của cơ quan, tổ chức là chủ quản\nhệ thống thông tin có trách nhiệm:",
+                    "points": [
+                      {
+                        "point_id": "doc:304855:part:1:article:18:clause:1:point:1",
+                        "label": "a",
+                        "content": "a) Trực tiếp chỉ đạo\nvà phụ trách công tác bảo đảm an toàn thông tin trong hoạt động của cơ quan, tổ chức mình;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:304855:part:1:article:18:clause:1:point:2",
+                        "label": "b",
+                        "content": "b) Trong trường hợp chưa có đơn vị chuyên trách về\nan toàn thông tin độc lập: - Chỉ định đơn vị chuyên trách về công nghệ thông tin làm nhiệm vụ đơn vị chuyên trách về an toàn thông tin; - Thành lập hoặc chỉ định bộ phận chuyên trách về an toàn thông tin trực thuộc đơn vị chuyên trách về công nghệ thông tin.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:304855:part:1:article:18:clause:2",
+                    "number": "2",
+                    "content": "2. Chủ quản hệ thống thông tin\ncó trách nhiệm:",
+                    "points": [
+                      {
+                        "point_id": "doc:304855:part:1:article:18:clause:2:point:1",
+                        "label": "a",
+                        "content": "a) Chỉ đạo đơn vị vận hành hệ thống thông tin lập hồ\nsơ đề xuất cấp độ; tổ chức thẩm định, phê duyệt hồ sơ đề xuất cấp độ theo quy định Nghị định này;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:304855:part:1:article:18:clause:2:point:2",
+                        "label": "b",
+                        "content": "b) Chỉ đạo, tổ chức thực hiện phương án bảo đảm an\ntoàn hệ thống thông tin theo cấp độ đối với hệ thống thông tin thuộc phạm vi mình quản lý theo quy định tại Điều 25, 26 và 27 của Luật an toàn thông tin mạng, Nghị định này và quy định của pháp luật liên quan;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:304855:part:1:article:18:clause:2:point:3",
+                        "label": "c",
+                        "content": "c) Chỉ đạo, tổ chức thực hiện\nkiểm tra, đánh giá an toàn thông tin và quản lý rủi ro an toàn thông tin trong phạm vi cơ quan, tổ chức mình, cụ thể như sau: - Định kỳ 02 năm thực hiện kiểm tra, đánh giá an toàn thông tin và quản lý rủi ro an toàn thông tin tổng thể trong hoạt động của cơ quan, tổ chức mình; - Định kỳ hàng năm thực hiện kiểm tra, đánh giá an toàn thông tin và quản lý rủi ro an toàn thông tin đối với các hệ thống cấp độ 3 và cấp độ 4; - Định kỳ 06 tháng (hoặc đột xuất khi thấy cần thiết hoặc theo yêu cầu, cảnh báo của cơ quan chức năng) thực hiện kiểm tra, đánh giá an toàn thông tin và quản lý rủi ro an toàn thông tin đối với hệ thống cấp độ 5; - Việc kiểm tra, đánh giá an toàn thông tin và đánh giá rủi ro an toàn thông tin đối với hệ thống từ cấp độ 3 trở lên phải do tổ chức chuyên môn được cơ quan có thẩm quyền cấp phép; tổ chức sự nghiệp nhà nước có chức năng, nhiệm vụ phù hợp hoặc do tổ chức chuyên môn được cấp có thẩm quyền chỉ định thực hiện.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:304855:part:1:article:18:clause:2:point:4",
+                        "label": "d",
+                        "content": "d) Chỉ đạo, tổ chức thực hiện\nđào tạo ngắn hạn, tuyên truyền, phổ biến, nâng cao nhận thức và diễn tập về an toàn thông tin, cụ thể như sau: - Đào tạo, bồi dưỡng theo các chương trình đào tạo ngắn hạn nâng cao kiến thức, kỹ năng về an toàn thông tin cho cán bộ, công chức, viên chức làm về an toàn thông tin trong cơ quan, tổ chức mình; - Tuyên truyền, phổ biến nâng cao nhận thức về an toàn thông tin cho cán bộ, công chức, viên chức trong cơ quan, tổ chức mình; - Diễn tập bảo đảm an toàn thông tin trong hoạt động của cơ quan, tổ chức mình; tham gia diễn tập quốc gia và diễn tập quốc tế do Bộ Thông tin và Truyền thông tổ chức.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:304855:part:1:article:18:clause:2:point:5",
+                        "label": "đ",
+                        "content": "đ) Chỉ đạo đơn vị vận hành hệ thống thông tin phối\nhợp với đơn vị chức năng liên quan của Bộ Thông tin và Truyền thông trong việc triển khai thiết bị, kết nối tới hệ thống kỹ thuật xử lý, giảm thiểu tấn công mạng, hỗ trợ giám sát an toàn thông tin cho hệ thống thông tin cung cấp dịch vụ công trực tuyến, phát triển chính phủ điện tử. Điều",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:304855:part:1:article:18:clause:3",
+                    "number": "21",
+                    "content": "21. Trách nhiệm của đơn vị chuyên trách về an toàn thông tin của chủ quản hệ thống\nthông tin",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:304855:part:1:article:18:clause:4",
+                    "number": "1",
+                    "content": "1. Tham mưu, tổ chức\nthực thi, đôn đốc, kiểm tra, giám sát công tác bảo đảm an toàn thông tin.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:304855:part:1:article:18:clause:5",
+                    "number": "2",
+                    "content": "2. Thẩm định, phê duyệt hoặc\ncho ý kiến về mặt chuyên môn đối với hồ sơ đề xuất cấp độ theo thẩm quyền quy định tại Khoản 1, Khoản 2 Điều 12 và Khoản 5 Điều 15 Nghị định này.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:304855:part:1:article:19",
+                "number": "22",
+                "title": "Trách nhiệm của đơn vị vận hành hệ thống thông tin Đơn vị vận hành hệ thống thông tin có trách nhiệm:",
+                "content": "Điều 22. Trách nhiệm của đơn vị vận hành hệ thống thông tin Đơn vị vận hành hệ thống thông tin có trách nhiệm:",
+                "clauses": [
+                  {
+                    "clause_id": "doc:304855:part:1:article:19:clause:1",
+                    "number": "1",
+                    "content": "1. Thực hiện xác định cấp độ an toàn hệ thống thông tin theo quy định\ntại Điều 14 Nghị định này;",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:304855:part:1:article:19:clause:2",
+                    "number": "2",
+                    "content": "2. Thực hiện bảo vệ hệ thống thông tin theo quy định\ncủa pháp luật và hướng dẫn, tiêu chuẩn, quy chuẩn an toàn thông tin;",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:304855:part:1:article:19:clause:3",
+                    "number": "3",
+                    "content": "3. Định kỳ đánh giá hiệu quả của\ncác biện pháp bảo đảm an toàn thông tin, báo cáo chủ quản hệ thống thông tin Điều chỉnh nếu cần thiết;",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:304855:part:1:article:19:clause:4",
+                    "number": "4",
+                    "content": "4. Định kỳ hoặc đột xuất báo\ncáo công tác thực thi bảo đảm an toàn hệ thống thông tin theo yêu cầu của chủ quản hệ thống thông tin hoặc cơ quan quản lý nhà nước chuyên ngành có thẩm quyền;",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:304855:part:1:article:19:clause:5",
+                    "number": "5",
+                    "content": "5. Phối hợp, thực hiện theo yêu cầu của cơ quan chức\nnăng liên quan của Bộ Thông tin và Truyền thông trong công tác bảo đảm an toàn thông tin.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:304855:part:1:article:20",
+                "number": "23",
+                "title": "Trách nhiệm của cơ quan quản lý nhà nước",
+                "content": "Điều 23. Trách nhiệm của cơ quan quản lý nhà nước",
+                "clauses": [
+                  {
+                    "clause_id": "doc:304855:part:1:article:20:clause:1",
+                    "number": "1",
+                    "content": "1. Bộ Thông tin và Truyền thông có trách nhiệm:",
+                    "points": [
+                      {
+                        "point_id": "doc:304855:part:1:article:20:clause:1:point:1",
+                        "label": "a",
+                        "content": "a) Thực hiện thẩm định hồ sơ\nđề xuất cấp độ theo thẩm quyền quy định tại Điểm a Khoản 3",
+                        "children": []
+                      }
+                    ]
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:304855:part:1:article:21",
+                "number": "12",
+                "title": "Nghị định này;",
+                "content": "Điều 12 Nghị định này;\nb) Xây dựng dự thảo tiêu chuẩn quốc gia, ban hành\nquy chuẩn kỹ thuật quốc gia về bảo đảm an toàn thông tin theo cấp độ;\nc) Hướng dẫn chi Tiết việc\nxác định hệ thống thông tin quy định tại Khoản 2 Điều 6 Nghị định này;\nd) Ban hành quy định, văn bản\nhướng dẫn về bảo đảm an toàn hệ thống thông tin theo cấp độ; quy định về đánh giá, chứng nhận hợp chuẩn, hợp quy về bảo đảm an toàn hệ thống thông tin theo cấp độ;\nđ) Hướng dẫn các cơ quan, tổ chức thực hiện đào tạo\nngắn hạn, tuyên truyền, phổ biến nâng cao nhận thức và diễn tập về an toàn thông tin;\ne) Quy định chi Tiết về kiểm\ntra, đánh giá an toàn thông tin và quản lý rủi ro an toàn thông tin trong hoạt động của cơ quan, tổ chức nhà nước, trừ trường hợp quy định tại Điểm d Khoản 2 và Điểm d Khoản 3 Điều này;\ng) Triển khai các hệ thống hạ tầng kỹ thuật tập\ntrung quy mô quốc gia để xử lý, giảm thiểu tấn công mạng, hỗ trợ giám sát an toàn thông tin cho hệ thống thông tin cung cấp dịch vụ công trực tuyến, phát triển Chính phủ điện tử.",
+                "clauses": [
+                  {
+                    "clause_id": "doc:304855:part:1:article:21:clause:1",
+                    "number": "2",
+                    "content": "2. Bộ Quốc phòng có trách nhiệm:",
+                    "points": [
+                      {
+                        "point_id": "doc:304855:part:1:article:21:clause:1:point:1",
+                        "label": "a",
+                        "content": "a) Thực hiện thẩm định phương án bảo đảm an toàn\nthông tin trong hồ sơ đề xuất cấp độ theo thẩm quyền quy định tại Điểm b Khoản 3 Điều 12 Nghị định này;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:304855:part:1:article:21:clause:1:point:2",
+                        "label": "b",
+                        "content": "b) Xây dựng dự thảo tiêu chuẩn, ban hành quy chuẩn\nkỹ thuật, hướng dẫn về bảo đảm an toàn đối với hệ thống thông tin thuộc phạm vi quản lý;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:304855:part:1:article:21:clause:1:point:3",
+                        "label": "c",
+                        "content": "c) Hướng dẫn về tiêu chí quy định tại Khoản 1 Điều 9, Khoản 1 Điều 10 và Khoản 1 Điều 11 Nghị định này theo chức năng, nhiệm vụ được\nphân công;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:304855:part:1:article:21:clause:1:point:4",
+                        "label": "d",
+                        "content": "d) Quy định chi Tiết về kiểm tra, đánh giá an toàn\nthông tin và quản lý rủi ro an toàn thông tin trong hoạt động của Bộ Quốc phòng.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:304855:part:1:article:21:clause:2",
+                    "number": "3",
+                    "content": "3. Bộ Công an có trách nhiệm:",
+                    "points": [
+                      {
+                        "point_id": "doc:304855:part:1:article:21:clause:2:point:1",
+                        "label": "a",
+                        "content": "a) Thực hiện thẩm định phương án bảo đảm an toàn\nthông tin trong hồ sơ đề xuất cấp độ theo thẩm quyền quy định tại Điểm c Khoản 3 Điều 12 Nghị định này;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:304855:part:1:article:21:clause:2:point:2",
+                        "label": "b",
+                        "content": "b) Xây dựng dự thảo tiêu chuẩn, ban hành quy chuẩn\nkỹ thuật, hướng dẫn về bảo đảm an toàn đối với hệ thống thông tin thuộc phạm vi quản lý;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:304855:part:1:article:21:clause:2:point:3",
+                        "label": "c",
+                        "content": "c) Hướng dẫn về tiêu chí quy định tại Khoản 1 Điều 9, Khoản 1 Điều 10 và Khoản 1 Điều 11 Nghị định này theo chức năng, nhiệm vụ được\nphân công;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:304855:part:1:article:21:clause:2:point:4",
+                        "label": "d",
+                        "content": "d) Quy định chi Tiết về kiểm tra, đánh giá an toàn\nthông tin và quản lý rủi ro an toàn thông tin trong hoạt động của Bộ Công an. Điều",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:304855:part:1:article:21:clause:3",
+                    "number": "24",
+                    "content": "24. Kinh phí bảo đảm an toàn thông tin",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:304855:part:1:article:21:clause:4",
+                    "number": "1",
+                    "content": "1. Kinh phí thực hiện yêu cầu về an toàn thông tin\ntheo cấp độ trong hoạt động của cơ quan, tổ chức nhà nước do ngân sách nhà nước bảo đảm.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:304855:part:1:article:21:clause:5",
+                    "number": "2",
+                    "content": "2. Kinh phí đầu tư cho an toàn thông tin sử dụng vốn\nđầu tư công thực hiện theo quy định của Luật đầu tư công. Đối với dự án đầu tư công để xây dựng mới hoặc mở rộng, nâng cấp hệ thống thông tin, kinh phí đầu tư cho an toàn thông tin theo cấp độ được bố trí trong vốn đầu tư của dự án tương ứng.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:304855:part:1:article:21:clause:6",
+                    "number": "3",
+                    "content": "3. Kinh phí thực hiện giám sát, đánh giá, quản lý rủi\nro an toàn thông tin; đào tạo ngắn hạn, tuyên truyền, phổ biến nâng cao nhận thức, diễn tập an toàn thông tin và ứng cứu sự cố của cơ quan, tổ chức nhà nước được cân đối bố trí trong dự toán ngân sách hàng năm của cơ quan, tổ chức nhà nước đó theo phân cấp của Luật ngân sách nhà nước.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:304855:part:1:article:21:clause:7",
+                    "number": "4",
+                    "content": "4. Bộ Tài chính hướng dẫn Mục\nchi cho công tác bảo đảm an toàn thông tin trong dự toán ngân sách, hướng dẫn quản lý và sử dụng kinh phí sự nghiệp chi cho công tác bảo đảm an toàn thông tin trong hoạt động của các cơ quan, tổ chức nhà nước.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:304855:part:1:article:21:clause:8",
+                    "number": "5",
+                    "content": "5. Căn cứ nhiệm vụ được giao, cơ quan, tổ chức nhà\nnước thực hiện lập dự toán, quản lý, sử dụng và quyết toán kinh phí thực hiện nhiệm vụ bảo đảm an toàn thông tin theo quy định của Luật ngân sách nhà nước.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:304855:part:1:chapter:5",
+            "number": "V",
+            "title": "ĐIỀU KHOẢN THI HÀNH",
+            "content": "Chương V\nĐIỀU KHOẢN THI HÀNH",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:304855:part:1:article:22",
+                "number": "25",
+                "title": "Hiệu lực thi hành Nghị định này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2016.",
+                "content": "Điều 25. Hiệu lực thi hành Nghị định này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2016.",
+                "clauses": [],
+                "points": []
+              },
+              {
+                "article_id": "doc:304855:part:1:article:23",
+                "number": "26",
+                "title": "Tổ chức thực hiện",
+                "content": "Điều 26. Tổ chức thực hiện",
+                "clauses": [
+                  {
+                    "clause_id": "doc:304855:part:1:article:23:clause:1",
+                    "number": "1",
+                    "content": "1. Bộ Thông tin và Truyền\nthông chịu trách nhiệm hướng dẫn, kiểm tra việc thực hiện Nghị định này.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:304855:part:1:article:23:clause:2",
+                    "number": "2",
+                    "content": "2. Các Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Thủ\ntrưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân các tỉnh, thành phố trực thuộc trung ương và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Nghị định này./.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          }
+        ],
+        "sections": [],
+        "articles": [],
+        "unstructured_blocks": []
+      },
+      {
+        "part_id": "doc:304855:part:2",
+        "part_type": "appendix",
+        "part_title": "PHỤ LỤC",
+        "reference": null,
+        "direct_text": "PHỤ LỤC\nMẪU VĂN BẢN XÁC ĐỊNH CẤP ĐỘ AN TOÀN HỆ THỐNG THÔNG\nTIN\n(Kèm theo Nghị định số 85/2016/NĐ-CP ngày 01 tháng 7 năm 2016 của Chính phủ) Mẫu số 01 Văn bản đề nghị thẩm định, phê duyệt hồ sơ đề xuất cấp độ Mẫu số 02 Văn bản đề nghị thẩm định hồ sơ đề xuất cấp độ Mẫu số 03 Văn bản xin ý kiến chuyên môn về hồ sơ đề xuất cấp độ Mẫu số 04 Ý kiến thẩm định hồ sơ đề xuất cấp độ Mẫu số 05 Tờ trình phê duyệt hồ sơ đề xuất cấp độ Mẫu số 06 Quyết định phê duyệt cấp độ an toàn hệ thống thông tin Mẫu số 07 Quyết định phê duyệt phương án bảo đảm an toàn thông tin Mẫu số 01\n(TÊN CƠ QUAN, TỔ CHỨC)\n-------\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc --------------- Số: ……….. V/v đề nghị thẩm định, phê duyệt hồ sơ đề xuất cấp độ ….., ngày ... tháng ... năm ... Kính gửi: (Đơn vị chuyên trách về an toàn thông tin). Căn cứ Luật an toàn thông tin mạng ngày 19 tháng 11 năm 2015; (Căn cứ các văn bản hướng dẫn thi hành Luật an toàn thông tin mạng và các văn bản liên quan); (Tên cơ quan, tổ chức) đề nghị thẩm định, phê duyệt hồ sơ đề xuất cấp độ với các nội dung sau: Phần 1. Thông tin chung\n1. Tên hệ thống thông tin;\n2. Đơn vị vận hành hệ thống thông tin:\n3. Địa chỉ:\n4. Cấp độ an toàn hệ thống thông tin đề xuất:\nPhần 2. Hồ sơ kèm theo\n1. Tài liệu mô tả, thuyết minh tổng quan về hệ thống\nthông tin.\n2. Tài liệu thiết kế thi công đã được cấp có thẩm\nquyền phê duyệt hoặc tài liệu có giá trị tương đương.\n3. Tài liệu thuyết minh về việc đề xuất cấp độ căn\ncứ trên các tiêu chí theo quy định của pháp luật.\n4. Tài liệu thuyết minh phương án bảo đảm an toàn\nthông tin theo cấp độ tương ứng. (Tên cơ quan, tổ chức) đề nghị (Đơn vị chuyên trách về an toàn thông tin) thẩm định và phê duyệt hồ sơ đề xuất cấp độ của hệ thống thông tin (Tên hệ thống thông tin)./.",
+        "chapters": [],
+        "sections": [],
+        "articles": [
+          {
+            "article_id": "doc:304855:part:2:article:1",
+            "number": "1",
+            "title": "Phê duyệt cấp độ an toàn hệ thống thông tin đối với (Tên hệ thống thông tin) cụ thể như sau:",
+            "content": "Điều 1. Phê duyệt cấp độ an toàn hệ thống thông tin đối với (Tên hệ thống thông tin) cụ thể như sau:",
+            "clauses": [
+              {
+                "clause_id": "doc:304855:part:2:article:1:clause:1",
+                "number": "1",
+                "content": "1. Thông tin chung",
+                "points": [
+                  {
+                    "point_id": "doc:304855:part:2:article:1:clause:1:point:1",
+                    "label": "a",
+                    "content": "a) Tên hệ thống thông tin:",
+                    "children": []
+                  },
+                  {
+                    "point_id": "doc:304855:part:2:article:1:clause:1:point:2",
+                    "label": "b",
+                    "content": "b) Đơn vị vận hành hệ thống thông tin:",
+                    "children": []
+                  },
+                  {
+                    "point_id": "doc:304855:part:2:article:1:clause:1:point:3",
+                    "label": "c",
+                    "content": "c) Địa chỉ:",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "clause_id": "doc:304855:part:2:article:1:clause:2",
+                "number": "2",
+                "content": "2. Cấp độ an toàn hệ thống thông tin: (cấp độ)",
+                "points": []
+              },
+              {
+                "clause_id": "doc:304855:part:2:article:1:clause:3",
+                "number": "3",
+                "content": "3. Phương án bảo đảm an toàn thông tin:",
+                "points": [
+                  {
+                    "point_id": "doc:304855:part:2:article:1:clause:3:point:1",
+                    "label": "a",
+                    "content": "a) Phương án bảo đảm an toàn thông tin trong thiết\nkế hệ thống thông tin tương ứng với cấp độ (cấp độ) là phù hợp với tiêu chuẩn quốc gia (Tên tiêu chuẩn), quy chuẩn kỹ thuật quốc gia (Tên quy chuẩn) về bảo đảm an toàn hệ thống thông tin theo cấp độ.",
+                    "children": []
+                  },
+                  {
+                    "point_id": "doc:304855:part:2:article:1:clause:3:point:2",
+                    "label": "b",
+                    "content": "b) Phương án bảo đảm an toàn thông tin trong quá\ntrình vận hành hệ thống tương ứng với cấp độ (cấp độ) là phù hợp với tiêu chuẩn quốc gia (Tên tiêu chuẩn), quy chuẩn kỹ thuật quốc gia (Tên quy chuẩn) về bảo đảm an toàn hệ thống thông tin theo cấp độ.",
+                    "children": []
+                  }
+                ]
+              }
+            ],
+            "points": []
+          },
+          {
+            "article_id": "doc:304855:part:2:article:2",
+            "number": "2",
+            "title": "Tổ chức thực hiện",
+            "content": "Điều 2. Tổ chức thực hiện",
+            "clauses": [
+              {
+                "clause_id": "doc:304855:part:2:article:2:clause:1",
+                "number": "1",
+                "content": "1. Cơ quan (Tên đơn vị đề nghị) chịu trách nhiệm:",
+                "points": [
+                  {
+                    "point_id": "doc:304855:part:2:article:2:clause:1:point:1",
+                    "label": "a",
+                    "content": "a) Thực hiện trách nhiệm bảo đảm an toàn hệ thống\nthông tin mình quản lý theo các quy định tại Điều 22 Nghị định này.",
+                    "children": []
+                  },
+                  {
+                    "point_id": "doc:304855:part:2:article:2:clause:1:point:2",
+                    "label": "b",
+                    "content": "b) Các nội dung khác (nếu có).",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "clause_id": "doc:304855:part:2:article:2:clause:2",
+                "number": "2",
+                "content": "2. Trách nhiệm của các cơ quan liên quan khác (nếu\ncó).",
+                "points": []
+              }
+            ],
+            "points": []
+          },
+          {
+            "article_id": "doc:304855:part:2:article:3",
+            "number": "3",
+            "title": "Điều Khoản thi hành",
+            "content": "Điều 3. Điều Khoản thi hành",
+            "clauses": [
+              {
+                "clause_id": "doc:304855:part:2:article:3:clause:1",
+                "number": "1",
+                "content": "1. Cơ quan (Tên đơn vị đề xuất) và các cơ quan liên\nquan khác chịu trách nhiệm thi hành Quyết định này.",
+                "points": []
+              },
+              {
+                "clause_id": "doc:304855:part:2:article:3:clause:2",
+                "number": "2",
+                "content": "2. Đơn vị chuyên trách về an toàn thông tin chịu\ntrách nhiệm kiểm tra, giám sát việc thực hiện Quyết định này báo cáo cơ quan (Chủ quản hệ thống thông tin) theo quy định của pháp luật./.",
+                "points": []
+              }
+            ],
+            "points": []
+          },
+          {
+            "article_id": "doc:304855:part:2:article:4",
+            "number": "1",
+            "title": "Phê duyệt phương án bảo đảm an toàn thông tin đối với (Tên hệ thống thông tin) cụ thể như sau:",
+            "content": "Điều 1. Phê duyệt phương án bảo đảm an toàn thông tin đối với (Tên hệ thống thông tin) cụ thể như sau:",
+            "clauses": [
+              {
+                "clause_id": "doc:304855:part:2:article:4:clause:1",
+                "number": "1",
+                "content": "1. Thông tin chung",
+                "points": [
+                  {
+                    "point_id": "doc:304855:part:2:article:4:clause:1:point:1",
+                    "label": "a",
+                    "content": "a) Tên hệ thống thông tin:",
+                    "children": []
+                  },
+                  {
+                    "point_id": "doc:304855:part:2:article:4:clause:1:point:2",
+                    "label": "b",
+                    "content": "b) Đơn vị vận hành hệ thống thông tin:",
+                    "children": []
+                  },
+                  {
+                    "point_id": "doc:304855:part:2:article:4:clause:1:point:3",
+                    "label": "c",
+                    "content": "c) Địa chỉ:",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "clause_id": "doc:304855:part:2:article:4:clause:2",
+                "number": "2",
+                "content": "2. Phương án bảo đảm an toàn thông tin:",
+                "points": [
+                  {
+                    "point_id": "doc:304855:part:2:article:4:clause:2:point:1",
+                    "label": "a",
+                    "content": "a) Phương án bảo đảm an toàn thông tin trong thiết\nkế hệ thống thông tin tương ứng với cấp độ (cấp độ) là phù hợp với tiêu chuẩn quốc gia (Tên tiêu chuẩn), quy chuẩn kỹ thuật quốc gia (Tên quy chuẩn) về bảo đảm an toàn hệ thống thông tin theo cấp độ.",
+                    "children": []
+                  },
+                  {
+                    "point_id": "doc:304855:part:2:article:4:clause:2:point:2",
+                    "label": "b",
+                    "content": "b) Phương án bảo đảm an toàn thông tin trong quá\ntrình vận hành hệ thống tương ứng với cấp độ (cấp độ) là phù hợp với tiêu chuẩn quốc gia (Tên tiêu chuẩn), quy chuẩn kỹ thuật quốc gia (Tên quy chuẩn) về bảo đảm an toàn hệ thống thông tin theo cấp độ.",
+                    "children": []
+                  }
+                ]
+              }
+            ],
+            "points": []
+          },
+          {
+            "article_id": "doc:304855:part:2:article:5",
+            "number": "2",
+            "title": "Tổ chức thực hiện",
+            "content": "Điều 2. Tổ chức thực hiện",
+            "clauses": [
+              {
+                "clause_id": "doc:304855:part:2:article:5:clause:1",
+                "number": "1",
+                "content": "1. Cơ quan (Tên đơn vị đề nghị) chịu trách nhiệm:",
+                "points": [
+                  {
+                    "point_id": "doc:304855:part:2:article:5:clause:1:point:1",
+                    "label": "a",
+                    "content": "a) Thực hiện trách nhiệm bảo đảm an toàn hệ thống\nthông tin mình quản lý theo các quy định tại Điều 22 Nghị định này.",
+                    "children": []
+                  },
+                  {
+                    "point_id": "doc:304855:part:2:article:5:clause:1:point:2",
+                    "label": "b",
+                    "content": "b) Các nội dung khác (nếu có).",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "clause_id": "doc:304855:part:2:article:5:clause:2",
+                "number": "2",
+                "content": "2. Trách nhiệm của các cơ quan liên quan khác (nếu\ncó).",
+                "points": []
+              }
+            ],
+            "points": []
+          },
+          {
+            "article_id": "doc:304855:part:2:article:6",
+            "number": "3",
+            "title": "Điều Khoản thi hành",
+            "content": "Điều 3. Điều Khoản thi hành",
+            "clauses": [
+              {
+                "clause_id": "doc:304855:part:2:article:6:clause:1",
+                "number": "1",
+                "content": "1. Cơ quan (Tên đơn vị đề xuất) và các cơ quan liên\nquan khác chịu trách nhiệm thi hành Quyết định này.",
+                "points": []
+              },
+              {
+                "clause_id": "doc:304855:part:2:article:6:clause:2",
+                "number": "2",
+                "content": "2. Đơn vị chuyên trách về an toàn thông tin chịu\ntrách nhiệm kiểm tra, giám sát việc thực hiện Quyết định này báo cáo cơ quan (Chủ quản hệ thống thông tin) theo quy định của pháp luật./.",
+                "points": []
+              }
+            ],
+            "points": []
+          }
+        ],
+        "unstructured_blocks": []
+      }
+    ]
+  },
+  "issues": [],
+  "status": "ok",
+  "source_hash": "context_304855.json",
+  "stats": {
+    "source_chars": 39122,
+    "passage_chars": 38973,
+    "parts": 2,
+    "chapters": 5,
+    "sections": 0,
+    "articles": 29,
+    "clauses": 80,
+    "points": 61
+  }
+}

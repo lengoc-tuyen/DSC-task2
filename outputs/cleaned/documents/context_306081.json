@@ -1,0 +1,577 @@
+{
+  "schema_version": "2.0",
+  "document_id": 306081,
+  "metadata": {
+    "name": "Thong-tu-45-2014-TT-BGDDT-chuyen-doi-loai-hinh-truong-dai-hoc-dan-lap-sang-loai-hinh-truong-dai-hoc-",
+    "link": "https://thuvienphapluat.vn/van-ban/Giao-duc/Thong-tu-45-2014-TT-BGDDT-chuyen-doi-loai-hinh-truong-dai-hoc-dan-lap-sang-loai-hinh-truong-dai-hoc-tu-thuc-260720.aspx",
+    "issuing_agency": "BỘ GIÁO DỤC VÀ ĐÀO TẠO",
+    "national_header": "CỘNG HÒA XÃ\r\n\n  HỘI CHỦ NGHĨA VIỆT NAM",
+    "motto": "Độc lập - Tự do - Hạnh phúc",
+    "document_number": "45/2014/TT-BGDĐT",
+    "issued_place": "Hà Nội",
+    "issued_date": "ngày\r\n\n  17 tháng 12 năm 2014",
+    "document_type": "THÔNG TƯ",
+    "title": "QUY ĐỊNH VỀ VIỆC CHUYỂN ĐỔI LOẠI HÌNH TRƯỜNG ĐẠI HỌC DÂN LẬP SANG LOẠI HÌNH TRƯỜNG ĐẠI HỌC TƯ THỤC"
+  },
+  "administrative_header": {
+    "removed": true,
+    "removed_char_count": 165
+  },
+  "preamble": {
+    "text": "THÔNG TƯ\nQUY ĐỊNH VỀ VIỆC CHUYỂN ĐỔI LOẠI HÌNH TRƯỜNG ĐẠI\nHỌC DÂN LẬP SANG LOẠI HÌNH TRƯỜNG ĐẠI HỌC TƯ THỤC\nCăn cứ Luật Giáo dục ngày 14 tháng 6 năm 2005; Luật sửa đổi, bổ sung một số điều của Luật Giáo dục ngày 25 tháng 11 năm 2009; Căn cứ Luật Giáo dục đại học ngày 18 tháng 6 năm 2012; Căn cứ Nghị định số 75/2006/NĐ-CP ngày 02 tháng 8 năm 2006 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Giáo dục; Nghị định số 31/2011/NĐ-CP ngày 11 tháng 5 năm 2011 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 75/2006/NĐ-CP ngày 02 tháng 8 năm 2006 và Nghị định số 07/2013/NĐ-CP ngày 09/01/2013 của Chính phủ về việc sửa đổi điểm b khoản 13 Điều 1 của Nghị định số 31/2011/NĐ-CP ngày 11/05/2011 sửa đổi, bổ sung một số điều của Nghị định số 75/2006/NĐ-CP ngày 02/08/2006 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Giáo dục; Căn cứ Nghị định số 141/2013/NĐ-CP ngày 24 tháng 10 năm 2013 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật giáo dục đại học; Căn cứ Nghị định số 69/2008/NĐ-CP ngày 30 tháng 5 năm 2008 của Chính phủ về chính sách khuyến khích xã hội hoá đối với các hoạt động trong lĩnh vực giáo dục, dạy nghề, y tế, văn hoá, thể thao, môi trường; Căn cứ Quyết định số 122/2006/QĐ-TTg ngày 29 tháng 5 năm 2006 của Thủ tướng Chính phủ về việc chuyển loại hình trường đại học dân lập sang loại hình trường đại học tư thục; Căn cứ Quyết định số 70/2014/QĐ-TTg ngày 10 tháng 12 năm 2014 của Thủ tướng Chính phủ về việc ban hành Điều lệ trường đại học; Theo đề nghị của Vụ trưởng Vụ Kế hoạch – Tài chính, Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Thông tư Quy định về việc chuyển đổi loại hình trường đại học dân lập sang loại hình trường đại học tư thục.\nChương I\nNHỮNG QUY ĐỊNH CHUNG",
+    "legal_bases": [
+      "Căn cứ Luật Giáo dục đại học ngày 18 tháng 6 năm 2012",
+      "Căn cứ Nghị định số 75/2006/NĐ-CP ngày 02 tháng 8 năm 2006 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Giáo dục",
+      "Căn cứ Nghị định số 141/2013/NĐ-CP ngày 24 tháng 10 năm 2013 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật giáo dục đại học",
+      "Căn cứ Nghị định số 69/2008/NĐ-CP ngày 30 tháng 5 năm 2008 của Chính phủ về chính sách khuyến khích xã hội hoá đối với các hoạt động trong lĩnh vực giáo dục, dạy nghề, y tế, văn hoá, thể thao, môi trường",
+      "Căn cứ Quyết định số 122/2006/QĐ-TTg ngày 29 tháng 5 năm 2006 của Thủ tướng Chính phủ về việc chuyển loại hình trường đại học dân lập sang loại hình trường đại học tư thục",
+      "Căn cứ Quyết định số 70/2014/QĐ-TTg ngày 10 tháng 12 năm 2014 của Thủ tướng Chính phủ về việc ban hành Điều lệ trường đại học"
+    ],
+    "proposals": [
+      "Theo đề nghị của Vụ trưởng Vụ Kế hoạch – Tài chính, Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Thông tư Quy định về việc chuyển đổi loại hình trường đại học dân lập sang loại hình trường đại học tư thục.\nChương I\nNHỮNG QUY ĐỊNH CHUNG"
+    ],
+    "enactment_formula": null
+  },
+  "passage": "THÔNG TƯ\nQUY ĐỊNH VỀ VIỆC CHUYỂN ĐỔI LOẠI HÌNH TRƯỜNG ĐẠI\nHỌC DÂN LẬP SANG LOẠI HÌNH TRƯỜNG ĐẠI HỌC TƯ THỤC\nCăn cứ Luật Giáo dục ngày 14 tháng 6 năm 2005; Luật sửa đổi, bổ sung một số điều của Luật Giáo dục ngày 25 tháng 11 năm 2009; Căn cứ Luật Giáo dục đại học ngày 18 tháng 6 năm 2012; Căn cứ Nghị định số 75/2006/NĐ-CP ngày 02 tháng 8 năm 2006 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Giáo dục; Nghị định số 31/2011/NĐ-CP ngày 11 tháng 5 năm 2011 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 75/2006/NĐ-CP ngày 02 tháng 8 năm 2006 và Nghị định số 07/2013/NĐ-CP ngày 09/01/2013 của Chính phủ về việc sửa đổi điểm b khoản 13 Điều 1 của Nghị định số 31/2011/NĐ-CP ngày 11/05/2011 sửa đổi, bổ sung một số điều của Nghị định số 75/2006/NĐ-CP ngày 02/08/2006 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Giáo dục; Căn cứ Nghị định số 141/2013/NĐ-CP ngày 24 tháng 10 năm 2013 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật giáo dục đại học; Căn cứ Nghị định số 69/2008/NĐ-CP ngày 30 tháng 5 năm 2008 của Chính phủ về chính sách khuyến khích xã hội hoá đối với các hoạt động trong lĩnh vực giáo dục, dạy nghề, y tế, văn hoá, thể thao, môi trường; Căn cứ Quyết định số 122/2006/QĐ-TTg ngày 29 tháng 5 năm 2006 của Thủ tướng Chính phủ về việc chuyển loại hình trường đại học dân lập sang loại hình trường đại học tư thục; Căn cứ Quyết định số 70/2014/QĐ-TTg ngày 10 tháng 12 năm 2014 của Thủ tướng Chính phủ về việc ban hành Điều lệ trường đại học; Theo đề nghị của Vụ trưởng Vụ Kế hoạch – Tài chính, Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Thông tư Quy định về việc chuyển đổi loại hình trường đại học dân lập sang loại hình trường đại học tư thục.\nChương I\nNHỮNG QUY ĐỊNH CHUNG\nĐiều 1. Phạm vi điều chỉnh và đối tượng áp dụng\n1. Thông tư này quy định về việc chuyển đổi loại\nhình trường đại học dân lập (sau đây gọi tắt là trường dân lập) sang loại hình trường đại học tư thục (sau đây gọi tắt là trường tư thục), gồm: nội dung, trình tự, thủ tục và trách nhiệm của các tổ chức, cá nhân trong việc chuyển đổi loại hình trường đại học dân lập sang loại hình trường đại học tư thục.\n2. Thông tư này áp dụng đối với các trường dân lập\nvà các tổ chức, cá nhân liên quan.\nĐiều 2. Yêu cầu của việc chuyển đổi Quá trình chuyển đổi không làm ảnh hưởng đến hoạt động bình thường của nhà trường, không gây khó khăn cho người học, đảm bảo quyền và lợi ích hợp pháp của người lao động của nhà trường, các cá nhân và tổ chức có liên quan.\nĐiều 3. Giảng viên cơ hữu Giảng viên cơ hữu là người lao động ký hợp đồng lao động có thời hạn 03 năm hoặc hợp đồng không xác định thời hạn theo Bộ luật Lao động, không là công chức hoặc viên chức nhà nước, không đang làm việc theo hợp đồng lao động có thời hạn từ 3 tháng trở lên với đơn vị sử dụng lao động khác; do nhà trường trả lương và chi trả các khoản thuộc chế độ, chính sách đối với người lao động theo các quy định hiện hành.\nChương II\nNỘI DUNG CHUYỂN ĐỔI\nĐiều 4. Kiểm toán tài chính, định giá tài sản\n1. Thời điểm kiểm toán là thời điểm lập báo cáo\ntài chính quý hoặc năm gần nhất do Hội đồng quản trị trường dân lập quyết định, nhưng không quá 12 tháng tính đến thời điểm trình hồ sơ chuyển đổi lên Bộ Giáo dục và Đào tạo.\n2. Việc kiểm toán, định giá tài sản được thực hiện\nbằng đơn vị đồng Việt Nam, theo quy định của pháp luật, do một công ty kiểm toán độc lập và một công ty định giá độc lập có tư cách pháp nhân thực hiện.\n3. Báo cáo kiểm toán phải phân loại tiền vốn\ntheo nguồn gốc hình thành:\na) Tiền vốn góp ban đầu và tiền vốn góp trong\nquá trình hoạt động của nhà trường từ các tổ chức, cá nhân;\nb) Tiền vốn được biếu, tặng hoặc được cấp phát từ\ncác nguồn tài chính hợp pháp;\nc) Tiền vốn được hình thành trong quá trình hoạt\nđộng của trường;\nd) Tiền vốn nhà trường vay, thuê của tổ chức, cá\nnhân trong nước hoặc nước ngoài.\n4. Báo cáo kiểm toán phải xác định được tổng số\nvốn thực có, nghĩa vụ đối với các khoản công nợ và nguyên nhân chênh lệch giữa thực tế với sổ sách tại thời điểm kiểm toán (nếu có).\n5. Báo cáo kiểm toán phải được niêm yết công\nkhai, đảm bảo người góp vốn, giảng viên cơ hữu và người lao động của nhà trường thuận tiện theo dõi và giám sát.\nĐiều 5. Xử lý tiền vốn, tài sản, đất đai của trường dân lập khi chuyển sang trường tư thục\n1. Vốn của các tổ chức, cá nhân góp ban đầu và vốn\ngóp trong quá trình hoạt động của trường dân lập được quy ra đồng Việt Nam tại thời điểm góp vốn, được bảo toàn giá trị tại thời điểm chuyển đổi trên cơ sở thống nhất giữa Hội đồng quản trị với các tổ chức, cá nhân góp vốn và được chuyển thành cổ phần khi chuyển đổi sang trường tư thục. Hội đồng quản trị trường dân lập quyết nghị về phương thức bảo toàn giá trị vốn góp của các tổ chức, cá nhân đã góp vốn.\n2. Tài sản do biếu, tặng hoặc cấp phát và được\nhình thành từ kết quả hoạt động của trường dân lập là tài sản sở hữu chung hợp nhất không phân chia và được chuyển thành tài sản sở hữu chung hợp nhất không phân chia của trường tư thục.\n3. Sau khi được công nhận chuyển đổi từ trường\ndân lập, trường tư thục kế thừa các quyền và lợi ích hợp pháp, chịu trách nhiệm về các khoản nợ chưa thanh toán và nghĩa vụ tài sản khác của trường dân lập.\n4. Trường dân lập bàn giao toàn bộ diện tích đất\nvà tài sản trên đất đang sử dụng kèm hồ sơ cho trường tư thục. Trường tư thục có trách nhiệm quản lý, sử dụng đất, tài sản trên đất được bàn giao từ trường dân lập đúng mục đích và chịu trách nhiệm liên quan đến việc sử dụng đất và tài sản trên đất.\nĐiều 6. Quyền lợi của tổ chức xin thành lập trường, cá nhân có công trong quá trình thành lập, phát triển trường dân lập và thành viên Hội đồng quản trị đương nhiệm\n1. Tổ chức xin thành lập trường dân lập được ưu\ntiên góp vốn bằng nguồn vốn ngoài ngân sách nhà nước để trở thành cổ đông của trường tư thục. Tổ chức xin thành lập trường dân lập không góp vốn thì không còn quyền và nghĩa vụ đối với trường tư thục.\n2. Các cá nhân có công trong quá trình thành lập,\nphát triển trường dân lập, các thành viên đương nhiệm của Hội đồng quản trị trường dân lập chưa góp vốn được ưu tiên góp vốn để trở thành cổ đông của trường tư thục.\n3. Tổ chức xin thành lập trường, các cá nhân có\ncông trong quá trình thành lập, phát triển trường dân lập, các thành viên đương nhiệm của Hội đồng quản trị trường dân lập trước đây đã góp vốn nhưng đã chuyển nhượng hết phần vốn góp cho tổ chức, cá nhân khác thì không được hưởng quyền ưu tiên góp vốn.\n4. Hội đồng quản trị trường dân lập cùng với Đảng\nủy, Công đoàn giải quyết quyền lợi chính đáng, hợp pháp đối với các cá nhân có công trong quá trình thành lập và phát triển trường dân lập.\nĐiều 7. Xác định vốn điều lệ và huy động vốn điều lệ tăng thêm cho trường đại học tư thục\n1. Vốn điều lệ của trường tư thục khi chuyển đổi\ntừ trường dân lập là vốn của các tổ chức, cá nhân góp ban đầu và góp trong quá trình hoạt động của trường đại học dân lập sau khi được Hội đồng quản trị trường dân lập quyết định phương thức bảo toàn giá trị vốn góp theo quy định tại Khoản 1 Điều 5 của Thông tư này.\n2. Hội đồng quản trị trường đại học dân lập quyết\nđịnh công nhận đối với số vốn điều lệ, giá trị mỗi cổ phần, số lượng cổ phần của trường tư thục khi chuyển đổi từ trường dân lập.\n3. Trong trường hợp trường dân lập có nhu cầu\ntăng vốn góp cho trường trước khi xác định vốn điều lệ của trường tư thục thì Hội đồng quản trị trường dân lập tiến hành huy động vốn góp theo thứ tự ưu tiên như sau:\na) Các đối tượng quy định tại Điều 6 của Thông\ntư này;\nb) Người đã góp vốn;\nc) Giảng viên cơ hữu của trường.\n4. Giá trị vốn góp cụ thể của các đối tượng quy\nđịnh tại Khoản 3 Điều này do Hội đồng quản trị trường dân lập quy định.\nĐiều 8. Xác định Hội đồng quản trị nhiệm kỳ đầu tiên của trường tư thục\n1. Thành viên Hội đồng quản trị nhiệm kỳ đầu\ntiên của trường tư thục được xác định theo quy định tại khoản 3\nĐiều 17 của Luật giáo dục đại học và Điều 21, Điều 22 của Điều lệ trường đại học được ban hành tại Quyết định số 70/2014/QĐ- TTg ngày 10 tháng 12 năm 2014 của Thủ tướng Chính phủ.\n2. Hội đồng quản trị trường dân lập quyết nghị\nthông qua số lượng thành viên Hội đồng quản trị và số lượng thành viên đại diện cho phần vốn góp của trường tư thục.\nChương III\nHỒ SƠ, TRÌNH TỰ, THỦ TỤC\nCHUYỂN ĐỔI\nĐiều 9. Hồ sơ chuyển đổi Hồ sơ chuyển đổi bao gồm:\n1. Tờ trình chuyển đổi trường dân lập sang trường\ntư thục do Chủ tịch Hội đồng quản trị trường dân lập ký.\n2. Quyết nghị của Hội đồng quản trị trường dân lập\nvề việc chuyển đổi trường dân lập sang trường tư thục.\n3. Quyết nghị của Hội đồng quản trị trường dân lập\nvề:\na) Công nhận danh sách tổ chức, cá nhân góp vốn,\nphương thức bảo toàn giá trị vốn góp, xác định vốn điều lệ, giá trị mỗi cổ phần, số lượng cổ phần;\nb) Xác định số lượng thành viên Hội đồng quản trị\nnhiệm kỳ đầu tiên của trường tư thục, số lượng thành viên đại diện cho phần vốn góp;\nc) Tên gọi của trường tư thục sau khi được công\nnhận chuyển đổi (trong trường hợp cần thiết đổi tên trường). Các Quyết nghị của Hội đồng quản trị trường dân lập được thông qua khi có trên 50% tổng số thành viên theo danh sách đồng ý.\n4. Dự thảo Quy chế tổ chức và hoạt động của trường\ntư thục được Hội đồng quản trị trường dân lập thông qua.\n5. Báo cáo kết quả kiểm toán, kết quả định giá\nquy định tại Điều 4 của Thông tư này.\n6. Hồ sơ liên quan đến quyền sử dụng đất.\n7. Quyết định thành lập trường dân lập; Quyết định\nđổi tên trường dân lập (nếu có); Quyết định công nhận Hội đồng quản trị trường dân lập đương nhiệm; Quyết định công nhận thay đổi thành viên Hội đồng quản trị của trường dân lập (nếu có); Quyết định công nhận Hiệu trưởng trường dân lập đương nhiệm.\nĐiều 10. Trình tự, thủ tục chuyển đổi\n1. Hội đồng quản trị trường dân lập có trách nhiệm\nnộp 05 bộ hồ sơ quy định tại Điều 9 của Thông tư này về Bộ Giáo dục và Đào tạo.\n2. Trong thời hạn 30 ngày làm việc kể từ ngày nhận\nđược hồ sơ hợp lệ, Bộ Giáo dục và Đào tạo xem xét đề án chuyển đổi, trình Thủ tướng Chính phủ ra quyết định chuyển đổi loại hình trường.\n3. Sau khi Thủ tướng Chính phủ ra quyết định\ncông nhận trường tư thục:\na) Chủ tịch Hội đồng quản trị trường dân lập chủ\ntrì cuộc họp những người góp vốn để bầu các thành viên đại diện người góp vốn trong Hội đồng quản trị trường tư thục theo số lượng đã được Hội đồng quản trị trường dân lập Quyết nghị. Cơ chế bầu các thành viên này theo cơ chế dồn phiếu;\nb) Hiệu trường trường dân lập chủ trì cuộc họp\ngiảng viên cơ hữu của trường dân lập để bầu thành viên đại diện giảng viên cơ hữu trong Hội đồng quản trị trường tư thục. Cơ chế bầu thành viên tại điểm này theo nguyên tắc tập thể, biểu quyết theo đa số;\nc) Tổ chức Đảng, đoàn thể của trường dân lập chủ\ntrì bầu thành viên đại diện tổ chức Đảng, đoàn thể trong Hội đồng quản trị trường tư thục. Cơ chế bầu thành viên này theo quy định của tổ chức Đảng, đoàn thể;\nd) Chủ tịch Hội đồng quản trị của trường dân lập\nlàm văn bản đề nghị Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương (sau đây gọi tắt là Ủy ban nhân dân cấp tỉnh) nơi trường đặt trụ sở chính cử đại diện tham gia Hội đồng quản trị trường tư thục;\nđ) Chủ tịch Hội đồng quản trị trường dân lập triệu\ntập cuộc họp các thành viên Hội đồng quản trị đã được bầu và được cử quy định tại các điểm a, b, c và d của khoản này để bầu chủ tịch Hội đồng quản trị trường tư thục;\ne) Chủ tịch Hội đồng quản trị của trường dân lập\nlàm văn bản gửi Ủy ban nhân dân cấp tỉnh đề nghị công nhận Hội đồng quản trị trường tư thục;\ng) Sau khi có quyết định công nhận của Ủy ban\nnhân dân cấp tỉnh, Hội đồng quản trị trường tư thục bầu Hiệu trưởng và làm văn bản đề nghị Ủy ban nhân dân cấp tỉnh công nhận Hiệu trưởng của trường tư thục;\nh) Người được công nhận là Hiệu trưởng, nếu chưa\nphải là thành viên Hội đồng quản trị, thì sau khi được công nhận là Hiệu trưởng sẽ được bổ sung vào Hội đồng quản trị trường tư thục; việc bổ sung thành viên Hội đồng quản trị phải đảm bảo quy định số lượng thành viên là số lẻ.\n4. Chủ tịch Hội đồng quản trị, Hiệu trưởng, kế\ntoán trưởng của trường dân lập bàn giao cho Chủ tịch Hội đồng quản trị, Hiệu trưởng, kế toán trưởng của trường tư thục:\na) Hồ sơ chuyển đổi quy định tại Điều 9 của\nThông tư này;\nb) Biên bản bàn giao tài sản, tiền vốn được lập\ntại thời điểm bàn giao kèm theo quyền và nghĩa vụ mà trường tư thục tiếp tục thực hiện.\nChương IV\nTỔ CHỨC THỰC HIỆN\nĐiều 11. Trách nhiệm của các cơ quan, tổ chức, cá nhân trong quá trình chuyển đổi các trường dân lập sang trường tư thục\n1. Ủy ban nhân dân cấp tỉnh nơi trường dân lập đặt\ntrụ sở có trách nhiệm giám sát quá trình chuyển đổi của các trường, cử đại diện tham gia Hội đồng quản trị trường tư thục.\n2. Hội đồng quản trị trường dân lập chủ trì triển\nkhai toàn bộ các công việc của trường trong quá trình chuyển đổi và tự giải thể cho đến khi Hội đồng quản trị trường tư thục được cơ quan có thẩm quyền công nhận.\n3. Hiệu trưởng trường dân lập điều hành các hoạt\nđộng của nhà trường theo nhiệm vụ, quyền hạn cho đến khi Hiệu trưởng trường tư thục được cơ quan có thẩm quyền công nhận.\n4. Trong quá trình chuyển đổi, nếu có vướng mắc,\nnhà trường kịp thời báo cáo Bộ Giáo dục và Đào tạo để được hướng dẫn xử lý.\nĐiều 12. Hiệu lực thi hành và trách nhiệm thi hành\n1. Thông tư này có hiệu lực kể từ ngày 01 tháng\n02 năm 2015.\n2. Thông tư này thay thế Thông tư số\n20/2010/TT-BGDĐT ngày 16 tháng 7 năm 2010 của Bộ trưởng Bộ Giáo dục và Đào tạo về Quy định nội dung, trình tự, thủ tục chuyển đổi loại hình trường đại học dân lập sang loại hình trường đại học tư thục.\nĐiều 13. Trách nhiệm thi hành Chánh Văn phòng, Vụ trưởng Vụ Kế hoạch - Tài chính, Vụ trưởng Vụ Tổ chức cán bộ, Thủ trưởng các đơn vị có liên quan thuộc Bộ Giáo dục và Đào tạo, Chủ tịch Ủy ban nhân dân cấp tỉnh nơi trường đại học dân lập đặt trụ sở, Chủ tịch Hội đồng quản trị, Hiệu trưởng trường đại học dân lập chịu trách nhiệm thi hành Thông tư này./.\nNơi nhận:\n- Văn phòng Quốc hội; (Để báo cáo)\n- Văn phòng Chính phủ; (Để báo cáo)\n- Uỷ ban VHGDTNTNNĐ của QH; (Để báo cáo)\n- HĐQGGD và PTNL; (Để báo cáo)\n- Ban Tuyên giáo Trung ương; (Để báo cáo)\n- Như Điều 13;\n- Bộ Nội vụ, Bộ Tài chính;\n- Cục Kiểm tra văn bản QPPL (Bộ Tư pháp);\n- Kiểm toán nhà nước;\n- Công báo;\n- Website Chính phủ;\n- Website Bộ GDĐT;\n- Lưu: VT, Vụ PC, Vụ KHTC.\nBỘ TRƯỞNG\nPhạm Vũ Luận",
+  "tree": {
+    "parts": [
+      {
+        "part_id": "doc:306081:part:1",
+        "part_type": "main",
+        "part_title": null,
+        "reference": null,
+        "direct_text": "THÔNG TƯ\nQUY ĐỊNH VỀ VIỆC CHUYỂN ĐỔI LOẠI HÌNH TRƯỜNG ĐẠI\nHỌC DÂN LẬP SANG LOẠI HÌNH TRƯỜNG ĐẠI HỌC TƯ THỤC\nCăn cứ Luật Giáo dục ngày 14 tháng 6 năm 2005; Luật sửa đổi, bổ sung một số điều của Luật Giáo dục ngày 25 tháng 11 năm 2009; Căn cứ Luật Giáo dục đại học ngày 18 tháng 6 năm 2012; Căn cứ Nghị định số 75/2006/NĐ-CP ngày 02 tháng 8 năm 2006 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Giáo dục; Nghị định số 31/2011/NĐ-CP ngày 11 tháng 5 năm 2011 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 75/2006/NĐ-CP ngày 02 tháng 8 năm 2006 và Nghị định số 07/2013/NĐ-CP ngày 09/01/2013 của Chính phủ về việc sửa đổi điểm b khoản 13 Điều 1 của Nghị định số 31/2011/NĐ-CP ngày 11/05/2011 sửa đổi, bổ sung một số điều của Nghị định số 75/2006/NĐ-CP ngày 02/08/2006 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Giáo dục; Căn cứ Nghị định số 141/2013/NĐ-CP ngày 24 tháng 10 năm 2013 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật giáo dục đại học; Căn cứ Nghị định số 69/2008/NĐ-CP ngày 30 tháng 5 năm 2008 của Chính phủ về chính sách khuyến khích xã hội hoá đối với các hoạt động trong lĩnh vực giáo dục, dạy nghề, y tế, văn hoá, thể thao, môi trường; Căn cứ Quyết định số 122/2006/QĐ-TTg ngày 29 tháng 5 năm 2006 của Thủ tướng Chính phủ về việc chuyển loại hình trường đại học dân lập sang loại hình trường đại học tư thục; Căn cứ Quyết định số 70/2014/QĐ-TTg ngày 10 tháng 12 năm 2014 của Thủ tướng Chính phủ về việc ban hành Điều lệ trường đại học; Theo đề nghị của Vụ trưởng Vụ Kế hoạch – Tài chính, Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Thông tư Quy định về việc chuyển đổi loại hình trường đại học dân lập sang loại hình trường đại học tư thục.",
+        "chapters": [
+          {
+            "chapter_id": "doc:306081:part:1:chapter:1",
+            "number": "I",
+            "title": "NHỮNG QUY ĐỊNH CHUNG",
+            "content": "Chương I\nNHỮNG QUY ĐỊNH CHUNG",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:306081:part:1:article:1",
+                "number": "1",
+                "title": "Phạm vi điều chỉnh và đối tượng áp dụng",
+                "content": "Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng",
+                "clauses": [
+                  {
+                    "clause_id": "doc:306081:part:1:article:1:clause:1",
+                    "number": "1",
+                    "content": "1. Thông tư này quy định về việc chuyển đổi loại\nhình trường đại học dân lập (sau đây gọi tắt là trường dân lập) sang loại hình trường đại học tư thục (sau đây gọi tắt là trường tư thục), gồm: nội dung, trình tự, thủ tục và trách nhiệm của các tổ chức, cá nhân trong việc chuyển đổi loại hình trường đại học dân lập sang loại hình trường đại học tư thục.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:306081:part:1:article:1:clause:2",
+                    "number": "2",
+                    "content": "2. Thông tư này áp dụng đối với các trường dân lập\nvà các tổ chức, cá nhân liên quan.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:306081:part:1:article:2",
+                "number": "2",
+                "title": "Yêu cầu của việc chuyển đổi Quá trình chuyển đổi không làm ảnh hưởng đến hoạt động bình thường của nhà trường, không gây khó khăn cho người học, đảm bảo quyền và lợi ích hợp pháp của người lao động của nhà trường, các cá nhân và tổ chức có liên quan.",
+                "content": "Điều 2. Yêu cầu của việc chuyển đổi Quá trình chuyển đổi không làm ảnh hưởng đến hoạt động bình thường của nhà trường, không gây khó khăn cho người học, đảm bảo quyền và lợi ích hợp pháp của người lao động của nhà trường, các cá nhân và tổ chức có liên quan.",
+                "clauses": [],
+                "points": []
+              },
+              {
+                "article_id": "doc:306081:part:1:article:3",
+                "number": "3",
+                "title": "Giảng viên cơ hữu Giảng viên cơ hữu là người lao động ký hợp đồng lao động có thời hạn 03 năm hoặc hợp đồng không xác định thời hạn theo Bộ luật Lao động, không là công chức hoặc viên chức nhà nước, không đang làm việc theo hợp đồng lao động có thời hạn từ 3 tháng trở lên với đơn vị sử dụng lao động khác; do nhà trường trả lương và chi trả các khoản thuộc chế độ, chính sách đối với người lao động theo các quy định hiện hành.",
+                "content": "Điều 3. Giảng viên cơ hữu Giảng viên cơ hữu là người lao động ký hợp đồng lao động có thời hạn 03 năm hoặc hợp đồng không xác định thời hạn theo Bộ luật Lao động, không là công chức hoặc viên chức nhà nước, không đang làm việc theo hợp đồng lao động có thời hạn từ 3 tháng trở lên với đơn vị sử dụng lao động khác; do nhà trường trả lương và chi trả các khoản thuộc chế độ, chính sách đối với người lao động theo các quy định hiện hành.",
+                "clauses": [],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:306081:part:1:chapter:2",
+            "number": "II",
+            "title": "NỘI DUNG CHUYỂN ĐỔI",
+            "content": "Chương II\nNỘI DUNG CHUYỂN ĐỔI",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:306081:part:1:article:4",
+                "number": "4",
+                "title": "Kiểm toán tài chính, định giá tài sản",
+                "content": "Điều 4. Kiểm toán tài chính, định giá tài sản",
+                "clauses": [
+                  {
+                    "clause_id": "doc:306081:part:1:article:4:clause:1",
+                    "number": "1",
+                    "content": "1. Thời điểm kiểm toán là thời điểm lập báo cáo\ntài chính quý hoặc năm gần nhất do Hội đồng quản trị trường dân lập quyết định, nhưng không quá 12 tháng tính đến thời điểm trình hồ sơ chuyển đổi lên Bộ Giáo dục và Đào tạo.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:306081:part:1:article:4:clause:2",
+                    "number": "2",
+                    "content": "2. Việc kiểm toán, định giá tài sản được thực hiện\nbằng đơn vị đồng Việt Nam, theo quy định của pháp luật, do một công ty kiểm toán độc lập và một công ty định giá độc lập có tư cách pháp nhân thực hiện.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:306081:part:1:article:4:clause:3",
+                    "number": "3",
+                    "content": "3. Báo cáo kiểm toán phải phân loại tiền vốn\ntheo nguồn gốc hình thành:",
+                    "points": [
+                      {
+                        "point_id": "doc:306081:part:1:article:4:clause:3:point:1",
+                        "label": "a",
+                        "content": "a) Tiền vốn góp ban đầu và tiền vốn góp trong\nquá trình hoạt động của nhà trường từ các tổ chức, cá nhân;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:306081:part:1:article:4:clause:3:point:2",
+                        "label": "b",
+                        "content": "b) Tiền vốn được biếu, tặng hoặc được cấp phát từ\ncác nguồn tài chính hợp pháp;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:306081:part:1:article:4:clause:3:point:3",
+                        "label": "c",
+                        "content": "c) Tiền vốn được hình thành trong quá trình hoạt\nđộng của trường;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:306081:part:1:article:4:clause:3:point:4",
+                        "label": "d",
+                        "content": "d) Tiền vốn nhà trường vay, thuê của tổ chức, cá\nnhân trong nước hoặc nước ngoài.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:306081:part:1:article:4:clause:4",
+                    "number": "4",
+                    "content": "4. Báo cáo kiểm toán phải xác định được tổng số\nvốn thực có, nghĩa vụ đối với các khoản công nợ và nguyên nhân chênh lệch giữa thực tế với sổ sách tại thời điểm kiểm toán (nếu có).",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:306081:part:1:article:4:clause:5",
+                    "number": "5",
+                    "content": "5. Báo cáo kiểm toán phải được niêm yết công\nkhai, đảm bảo người góp vốn, giảng viên cơ hữu và người lao động của nhà trường thuận tiện theo dõi và giám sát.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:306081:part:1:article:5",
+                "number": "5",
+                "title": "Xử lý tiền vốn, tài sản, đất đai của trường dân lập khi chuyển sang trường tư thục",
+                "content": "Điều 5. Xử lý tiền vốn, tài sản, đất đai của trường dân lập khi chuyển sang trường tư thục",
+                "clauses": [
+                  {
+                    "clause_id": "doc:306081:part:1:article:5:clause:1",
+                    "number": "1",
+                    "content": "1. Vốn của các tổ chức, cá nhân góp ban đầu và vốn\ngóp trong quá trình hoạt động của trường dân lập được quy ra đồng Việt Nam tại thời điểm góp vốn, được bảo toàn giá trị tại thời điểm chuyển đổi trên cơ sở thống nhất giữa Hội đồng quản trị với các tổ chức, cá nhân góp vốn và được chuyển thành cổ phần khi chuyển đổi sang trường tư thục. Hội đồng quản trị trường dân lập quyết nghị về phương thức bảo toàn giá trị vốn góp của các tổ chức, cá nhân đã góp vốn.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:306081:part:1:article:5:clause:2",
+                    "number": "2",
+                    "content": "2. Tài sản do biếu, tặng hoặc cấp phát và được\nhình thành từ kết quả hoạt động của trường dân lập là tài sản sở hữu chung hợp nhất không phân chia và được chuyển thành tài sản sở hữu chung hợp nhất không phân chia của trường tư thục.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:306081:part:1:article:5:clause:3",
+                    "number": "3",
+                    "content": "3. Sau khi được công nhận chuyển đổi từ trường\ndân lập, trường tư thục kế thừa các quyền và lợi ích hợp pháp, chịu trách nhiệm về các khoản nợ chưa thanh toán và nghĩa vụ tài sản khác của trường dân lập.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:306081:part:1:article:5:clause:4",
+                    "number": "4",
+                    "content": "4. Trường dân lập bàn giao toàn bộ diện tích đất\nvà tài sản trên đất đang sử dụng kèm hồ sơ cho trường tư thục. Trường tư thục có trách nhiệm quản lý, sử dụng đất, tài sản trên đất được bàn giao từ trường dân lập đúng mục đích và chịu trách nhiệm liên quan đến việc sử dụng đất và tài sản trên đất.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:306081:part:1:article:6",
+                "number": "6",
+                "title": "Quyền lợi của tổ chức xin thành lập trường, cá nhân có công trong quá trình thành lập, phát triển trường dân lập và thành viên Hội đồng quản trị đương nhiệm",
+                "content": "Điều 6. Quyền lợi của tổ chức xin thành lập trường, cá nhân có công trong quá trình thành lập, phát triển trường dân lập và thành viên Hội đồng quản trị đương nhiệm",
+                "clauses": [
+                  {
+                    "clause_id": "doc:306081:part:1:article:6:clause:1",
+                    "number": "1",
+                    "content": "1. Tổ chức xin thành lập trường dân lập được ưu\ntiên góp vốn bằng nguồn vốn ngoài ngân sách nhà nước để trở thành cổ đông của trường tư thục. Tổ chức xin thành lập trường dân lập không góp vốn thì không còn quyền và nghĩa vụ đối với trường tư thục.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:306081:part:1:article:6:clause:2",
+                    "number": "2",
+                    "content": "2. Các cá nhân có công trong quá trình thành lập,\nphát triển trường dân lập, các thành viên đương nhiệm của Hội đồng quản trị trường dân lập chưa góp vốn được ưu tiên góp vốn để trở thành cổ đông của trường tư thục.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:306081:part:1:article:6:clause:3",
+                    "number": "3",
+                    "content": "3. Tổ chức xin thành lập trường, các cá nhân có\ncông trong quá trình thành lập, phát triển trường dân lập, các thành viên đương nhiệm của Hội đồng quản trị trường dân lập trước đây đã góp vốn nhưng đã chuyển nhượng hết phần vốn góp cho tổ chức, cá nhân khác thì không được hưởng quyền ưu tiên góp vốn.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:306081:part:1:article:6:clause:4",
+                    "number": "4",
+                    "content": "4. Hội đồng quản trị trường dân lập cùng với Đảng\nủy, Công đoàn giải quyết quyền lợi chính đáng, hợp pháp đối với các cá nhân có công trong quá trình thành lập và phát triển trường dân lập.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:306081:part:1:article:7",
+                "number": "7",
+                "title": "Xác định vốn điều lệ và huy động vốn điều lệ tăng thêm cho trường đại học tư thục",
+                "content": "Điều 7. Xác định vốn điều lệ và huy động vốn điều lệ tăng thêm cho trường đại học tư thục",
+                "clauses": [
+                  {
+                    "clause_id": "doc:306081:part:1:article:7:clause:1",
+                    "number": "1",
+                    "content": "1. Vốn điều lệ của trường tư thục khi chuyển đổi\ntừ trường dân lập là vốn của các tổ chức, cá nhân góp ban đầu và góp trong quá trình hoạt động của trường đại học dân lập sau khi được Hội đồng quản trị trường dân lập quyết định phương thức bảo toàn giá trị vốn góp theo quy định tại Khoản 1 Điều 5 của Thông tư này.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:306081:part:1:article:7:clause:2",
+                    "number": "2",
+                    "content": "2. Hội đồng quản trị trường đại học dân lập quyết\nđịnh công nhận đối với số vốn điều lệ, giá trị mỗi cổ phần, số lượng cổ phần của trường tư thục khi chuyển đổi từ trường dân lập.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:306081:part:1:article:7:clause:3",
+                    "number": "3",
+                    "content": "3. Trong trường hợp trường dân lập có nhu cầu\ntăng vốn góp cho trường trước khi xác định vốn điều lệ của trường tư thục thì Hội đồng quản trị trường dân lập tiến hành huy động vốn góp theo thứ tự ưu tiên như sau:",
+                    "points": [
+                      {
+                        "point_id": "doc:306081:part:1:article:7:clause:3:point:1",
+                        "label": "a",
+                        "content": "a) Các đối tượng quy định tại Điều 6 của Thông\ntư này;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:306081:part:1:article:7:clause:3:point:2",
+                        "label": "b",
+                        "content": "b) Người đã góp vốn;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:306081:part:1:article:7:clause:3:point:3",
+                        "label": "c",
+                        "content": "c) Giảng viên cơ hữu của trường.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:306081:part:1:article:7:clause:4",
+                    "number": "4",
+                    "content": "4. Giá trị vốn góp cụ thể của các đối tượng quy\nđịnh tại Khoản 3 Điều này do Hội đồng quản trị trường dân lập quy định.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:306081:part:1:article:8",
+                "number": "8",
+                "title": "Xác định Hội đồng quản trị nhiệm kỳ đầu tiên của trường tư thục",
+                "content": "Điều 8. Xác định Hội đồng quản trị nhiệm kỳ đầu tiên của trường tư thục",
+                "clauses": [
+                  {
+                    "clause_id": "doc:306081:part:1:article:8:clause:1",
+                    "number": "1",
+                    "content": "1. Thành viên Hội đồng quản trị nhiệm kỳ đầu\ntiên của trường tư thục được xác định theo quy định tại khoản 3",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:306081:part:1:article:9",
+                "number": "17",
+                "title": "của Luật giáo dục đại học và Điều 21, Điều 22 của Điều lệ trường đại học được ban hành tại Quyết định số 70/2014/QĐ- TTg ngày 10 tháng 12 năm 2014 của Thủ tướng Chính phủ.",
+                "content": "Điều 17 của Luật giáo dục đại học và Điều 21, Điều 22 của Điều lệ trường đại học được ban hành tại Quyết định số 70/2014/QĐ- TTg ngày 10 tháng 12 năm 2014 của Thủ tướng Chính phủ.",
+                "clauses": [
+                  {
+                    "clause_id": "doc:306081:part:1:article:9:clause:1",
+                    "number": "2",
+                    "content": "2. Hội đồng quản trị trường dân lập quyết nghị\nthông qua số lượng thành viên Hội đồng quản trị và số lượng thành viên đại diện cho phần vốn góp của trường tư thục.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:306081:part:1:chapter:3",
+            "number": "III",
+            "title": "HỒ SƠ, TRÌNH TỰ, THỦ TỤC CHUYỂN ĐỔI",
+            "content": "Chương III\nHỒ SƠ, TRÌNH TỰ, THỦ TỤC\nCHUYỂN ĐỔI",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:306081:part:1:article:10",
+                "number": "9",
+                "title": "Hồ sơ chuyển đổi Hồ sơ chuyển đổi bao gồm:",
+                "content": "Điều 9. Hồ sơ chuyển đổi Hồ sơ chuyển đổi bao gồm:",
+                "clauses": [
+                  {
+                    "clause_id": "doc:306081:part:1:article:10:clause:1",
+                    "number": "1",
+                    "content": "1. Tờ trình chuyển đổi trường dân lập sang trường\ntư thục do Chủ tịch Hội đồng quản trị trường dân lập ký.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:306081:part:1:article:10:clause:2",
+                    "number": "2",
+                    "content": "2. Quyết nghị của Hội đồng quản trị trường dân lập\nvề việc chuyển đổi trường dân lập sang trường tư thục.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:306081:part:1:article:10:clause:3",
+                    "number": "3",
+                    "content": "3. Quyết nghị của Hội đồng quản trị trường dân lập\nvề:",
+                    "points": [
+                      {
+                        "point_id": "doc:306081:part:1:article:10:clause:3:point:1",
+                        "label": "a",
+                        "content": "a) Công nhận danh sách tổ chức, cá nhân góp vốn,\nphương thức bảo toàn giá trị vốn góp, xác định vốn điều lệ, giá trị mỗi cổ phần, số lượng cổ phần;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:306081:part:1:article:10:clause:3:point:2",
+                        "label": "b",
+                        "content": "b) Xác định số lượng thành viên Hội đồng quản trị\nnhiệm kỳ đầu tiên của trường tư thục, số lượng thành viên đại diện cho phần vốn góp;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:306081:part:1:article:10:clause:3:point:3",
+                        "label": "c",
+                        "content": "c) Tên gọi của trường tư thục sau khi được công\nnhận chuyển đổi (trong trường hợp cần thiết đổi tên trường). Các Quyết nghị của Hội đồng quản trị trường dân lập được thông qua khi có trên 50% tổng số thành viên theo danh sách đồng ý.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:306081:part:1:article:10:clause:4",
+                    "number": "4",
+                    "content": "4. Dự thảo Quy chế tổ chức và hoạt động của trường\ntư thục được Hội đồng quản trị trường dân lập thông qua.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:306081:part:1:article:10:clause:5",
+                    "number": "5",
+                    "content": "5. Báo cáo kết quả kiểm toán, kết quả định giá\nquy định tại Điều 4 của Thông tư này.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:306081:part:1:article:10:clause:6",
+                    "number": "6",
+                    "content": "6. Hồ sơ liên quan đến quyền sử dụng đất.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:306081:part:1:article:10:clause:7",
+                    "number": "7",
+                    "content": "7. Quyết định thành lập trường dân lập; Quyết định\nđổi tên trường dân lập (nếu có); Quyết định công nhận Hội đồng quản trị trường dân lập đương nhiệm; Quyết định công nhận thay đổi thành viên Hội đồng quản trị của trường dân lập (nếu có); Quyết định công nhận Hiệu trưởng trường dân lập đương nhiệm.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:306081:part:1:article:11",
+                "number": "10",
+                "title": "Trình tự, thủ tục chuyển đổi",
+                "content": "Điều 10. Trình tự, thủ tục chuyển đổi",
+                "clauses": [
+                  {
+                    "clause_id": "doc:306081:part:1:article:11:clause:1",
+                    "number": "1",
+                    "content": "1. Hội đồng quản trị trường dân lập có trách nhiệm\nnộp 05 bộ hồ sơ quy định tại Điều 9 của Thông tư này về Bộ Giáo dục và Đào tạo.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:306081:part:1:article:11:clause:2",
+                    "number": "2",
+                    "content": "2. Trong thời hạn 30 ngày làm việc kể từ ngày nhận\nđược hồ sơ hợp lệ, Bộ Giáo dục và Đào tạo xem xét đề án chuyển đổi, trình Thủ tướng Chính phủ ra quyết định chuyển đổi loại hình trường.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:306081:part:1:article:11:clause:3",
+                    "number": "3",
+                    "content": "3. Sau khi Thủ tướng Chính phủ ra quyết định\ncông nhận trường tư thục:",
+                    "points": [
+                      {
+                        "point_id": "doc:306081:part:1:article:11:clause:3:point:1",
+                        "label": "a",
+                        "content": "a) Chủ tịch Hội đồng quản trị trường dân lập chủ\ntrì cuộc họp những người góp vốn để bầu các thành viên đại diện người góp vốn trong Hội đồng quản trị trường tư thục theo số lượng đã được Hội đồng quản trị trường dân lập Quyết nghị. Cơ chế bầu các thành viên này theo cơ chế dồn phiếu;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:306081:part:1:article:11:clause:3:point:2",
+                        "label": "b",
+                        "content": "b) Hiệu trường trường dân lập chủ trì cuộc họp\ngiảng viên cơ hữu của trường dân lập để bầu thành viên đại diện giảng viên cơ hữu trong Hội đồng quản trị trường tư thục. Cơ chế bầu thành viên tại điểm này theo nguyên tắc tập thể, biểu quyết theo đa số;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:306081:part:1:article:11:clause:3:point:3",
+                        "label": "c",
+                        "content": "c) Tổ chức Đảng, đoàn thể của trường dân lập chủ\ntrì bầu thành viên đại diện tổ chức Đảng, đoàn thể trong Hội đồng quản trị trường tư thục. Cơ chế bầu thành viên này theo quy định của tổ chức Đảng, đoàn thể;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:306081:part:1:article:11:clause:3:point:4",
+                        "label": "d",
+                        "content": "d) Chủ tịch Hội đồng quản trị của trường dân lập\nlàm văn bản đề nghị Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương (sau đây gọi tắt là Ủy ban nhân dân cấp tỉnh) nơi trường đặt trụ sở chính cử đại diện tham gia Hội đồng quản trị trường tư thục;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:306081:part:1:article:11:clause:3:point:5",
+                        "label": "đ",
+                        "content": "đ) Chủ tịch Hội đồng quản trị trường dân lập triệu\ntập cuộc họp các thành viên Hội đồng quản trị đã được bầu và được cử quy định tại các điểm a, b, c và d của khoản này để bầu chủ tịch Hội đồng quản trị trường tư thục;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:306081:part:1:article:11:clause:3:point:6",
+                        "label": "e",
+                        "content": "e) Chủ tịch Hội đồng quản trị của trường dân lập\nlàm văn bản gửi Ủy ban nhân dân cấp tỉnh đề nghị công nhận Hội đồng quản trị trường tư thục;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:306081:part:1:article:11:clause:3:point:7",
+                        "label": "g",
+                        "content": "g) Sau khi có quyết định công nhận của Ủy ban\nnhân dân cấp tỉnh, Hội đồng quản trị trường tư thục bầu Hiệu trưởng và làm văn bản đề nghị Ủy ban nhân dân cấp tỉnh công nhận Hiệu trưởng của trường tư thục;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:306081:part:1:article:11:clause:3:point:8",
+                        "label": "h",
+                        "content": "h) Người được công nhận là Hiệu trưởng, nếu chưa\nphải là thành viên Hội đồng quản trị, thì sau khi được công nhận là Hiệu trưởng sẽ được bổ sung vào Hội đồng quản trị trường tư thục; việc bổ sung thành viên Hội đồng quản trị phải đảm bảo quy định số lượng thành viên là số lẻ.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:306081:part:1:article:11:clause:4",
+                    "number": "4",
+                    "content": "4. Chủ tịch Hội đồng quản trị, Hiệu trưởng, kế\ntoán trưởng của trường dân lập bàn giao cho Chủ tịch Hội đồng quản trị, Hiệu trưởng, kế toán trưởng của trường tư thục:",
+                    "points": [
+                      {
+                        "point_id": "doc:306081:part:1:article:11:clause:4:point:1",
+                        "label": "a",
+                        "content": "a) Hồ sơ chuyển đổi quy định tại Điều 9 của\nThông tư này;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:306081:part:1:article:11:clause:4:point:2",
+                        "label": "b",
+                        "content": "b) Biên bản bàn giao tài sản, tiền vốn được lập\ntại thời điểm bàn giao kèm theo quyền và nghĩa vụ mà trường tư thục tiếp tục thực hiện.",
+                        "children": []
+                      }
+                    ]
+                  }
+                ],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:306081:part:1:chapter:4",
+            "number": "IV",
+            "title": "TỔ CHỨC THỰC HIỆN",
+            "content": "Chương IV\nTỔ CHỨC THỰC HIỆN",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:306081:part:1:article:12",
+                "number": "11",
+                "title": "Trách nhiệm của các cơ quan, tổ chức, cá nhân trong quá trình chuyển đổi các trường dân lập sang trường tư thục",
+                "content": "Điều 11. Trách nhiệm của các cơ quan, tổ chức, cá nhân trong quá trình chuyển đổi các trường dân lập sang trường tư thục",
+                "clauses": [
+                  {
+                    "clause_id": "doc:306081:part:1:article:12:clause:1",
+                    "number": "1",
+                    "content": "1. Ủy ban nhân dân cấp tỉnh nơi trường dân lập đặt\ntrụ sở có trách nhiệm giám sát quá trình chuyển đổi của các trường, cử đại diện tham gia Hội đồng quản trị trường tư thục.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:306081:part:1:article:12:clause:2",
+                    "number": "2",
+                    "content": "2. Hội đồng quản trị trường dân lập chủ trì triển\nkhai toàn bộ các công việc của trường trong quá trình chuyển đổi và tự giải thể cho đến khi Hội đồng quản trị trường tư thục được cơ quan có thẩm quyền công nhận.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:306081:part:1:article:12:clause:3",
+                    "number": "3",
+                    "content": "3. Hiệu trưởng trường dân lập điều hành các hoạt\nđộng của nhà trường theo nhiệm vụ, quyền hạn cho đến khi Hiệu trưởng trường tư thục được cơ quan có thẩm quyền công nhận.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:306081:part:1:article:12:clause:4",
+                    "number": "4",
+                    "content": "4. Trong quá trình chuyển đổi, nếu có vướng mắc,\nnhà trường kịp thời báo cáo Bộ Giáo dục và Đào tạo để được hướng dẫn xử lý.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:306081:part:1:article:13",
+                "number": "12",
+                "title": "Hiệu lực thi hành và trách nhiệm thi hành",
+                "content": "Điều 12. Hiệu lực thi hành và trách nhiệm thi hành",
+                "clauses": [
+                  {
+                    "clause_id": "doc:306081:part:1:article:13:clause:1",
+                    "number": "1",
+                    "content": "1. Thông tư này có hiệu lực kể từ ngày 01 tháng\n02 năm 2015.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:306081:part:1:article:13:clause:2",
+                    "number": "2",
+                    "content": "2. Thông tư này thay thế Thông tư số\n20/2010/TT-BGDĐT ngày 16 tháng 7 năm 2010 của Bộ trưởng Bộ Giáo dục và Đào tạo về Quy định nội dung, trình tự, thủ tục chuyển đổi loại hình trường đại học dân lập sang loại hình trường đại học tư thục.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:306081:part:1:article:14",
+                "number": "13",
+                "title": "Trách nhiệm thi hành Chánh Văn phòng, Vụ trưởng Vụ Kế hoạch - Tài chính, Vụ trưởng Vụ Tổ chức cán bộ, Thủ trưởng các đơn vị có liên quan thuộc Bộ Giáo dục và Đào tạo, Chủ tịch Ủy ban nhân dân cấp tỉnh nơi trường đại học dân lập đặt trụ sở, Chủ tịch Hội đồng quản trị, Hiệu trưởng trường đại học dân lập chịu trách nhiệm thi hành Thông tư này./.",
+                "content": "Điều 13. Trách nhiệm thi hành Chánh Văn phòng, Vụ trưởng Vụ Kế hoạch - Tài chính, Vụ trưởng Vụ Tổ chức cán bộ, Thủ trưởng các đơn vị có liên quan thuộc Bộ Giáo dục và Đào tạo, Chủ tịch Ủy ban nhân dân cấp tỉnh nơi trường đại học dân lập đặt trụ sở, Chủ tịch Hội đồng quản trị, Hiệu trưởng trường đại học dân lập chịu trách nhiệm thi hành Thông tư này./.",
+                "clauses": [],
+                "points": []
+              }
+            ]
+          }
+        ],
+        "sections": [],
+        "articles": [],
+        "unstructured_blocks": []
+      }
+    ]
+  },
+  "issues": [],
+  "status": "ok",
+  "source_hash": "context_306081.json",
+  "stats": {
+    "source_chars": 14331,
+    "passage_chars": 14165,
+    "parts": 1,
+    "chapters": 4,
+    "sections": 0,
+    "articles": 14,
+    "clauses": 38,
+    "points": 20
+  }
+}

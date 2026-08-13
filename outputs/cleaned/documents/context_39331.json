@@ -1,0 +1,583 @@
+{
+  "schema_version": "2.0",
+  "document_id": 39331,
+  "metadata": {
+    "name": "Quyet-dinh-2190-QD-NHNN-2014-Quy-che-su-dung-Internet-trong-Ngan-hang-Nha-nuoc-Viet-Nam-287409",
+    "link": "https://thuvienphapluat.vn/van-ban/Tien-te-Ngan-hang/Quyet-dinh-2190-QD-NHNN-2014-Quy-che-su-dung-Internet-trong-Ngan-hang-Nha-nuoc-Viet-Nam-287409.aspx",
+    "issuing_agency": "NGÂN HÀNG NHÀ NƯỚC VIỆT NAM",
+    "national_header": "CỘNG HÒA XÃ HỘI\r\n\n  CHỦ NGHĨA VIỆT NAM",
+    "motto": "Độc lập - Tự do - Hạnh phúc",
+    "document_number": "2190/QĐ-NHNN",
+    "issued_place": "Hà Nội",
+    "issued_date": "ngày 30\r\n\n  tháng 10 năm 2014",
+    "document_type": "QUYẾT ĐỊNH",
+    "title": "VỀ VIỆC BAN HÀNH QUY CHẾ SỬ DỤNG INTERNET TRONG NGÂN HÀNG NHÀ NƯỚC VIỆT NAM THỐNG ĐỐC NGÂN HÀNG NHÀ NƯỚC"
+  },
+  "administrative_header": {
+    "removed": true,
+    "removed_char_count": 165
+  },
+  "preamble": {
+    "text": "QUYẾT ĐỊNH\nVỀ VIỆC BAN HÀNH QUY CHẾ SỬ DỤNG INTERNET TRONG NGÂN HÀNG NHÀ NƯỚC VIỆT\nNAM\nTHỐNG ĐỐC NGÂN HÀNG NHÀ NƯỚC\nCăn cứ Luật Ngân hàng Nhà nước Việt Nam số 46/2010/QH12 ngày 16/06/2010; Căn cứ Luật Công nghệ thông tin số 67/2009/QH11 ngày 29/06/2006; Căn cứ Nghị định số 156/2013/NĐ-CP ngày 11/11/2013 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Ngân hàng Nhà nước Việt Nam; Căn cứ Nghị định số 72/2013/NĐ-CP ngày 15/7/2013 của Chính phủ về quản lý, cung cấp, sử dụng dịch vụ Internet và thông tin trên mạng; Căn cứ Thông tư 11/2012/TT-NHNN ngày 25/04/2012 của Ngân hàng Nhà nước Việt Nam về việc quy định quản lý và sử dụng mạng máy tính Ngân hàng Nhà nước; Căn cứ Thông tư 01/2011/TT-NHNN ngày 21/02/2011 của Ngân hàng Nhà nước Việt Nam quy định việc đảm bảo an toàn, bảo mật hệ thống công nghệ thông tin trong hoạt động ngân hàng; Theo đề nghị của Cục trưởng Cục Công nghệ tin học,\nQUYẾT ĐỊNH:",
+    "legal_bases": [
+      "Căn cứ Luật Công nghệ thông tin số 67/2009/QH11 ngày 29/06/2006",
+      "Căn cứ Nghị định số 156/2013/NĐ-CP ngày 11/11/2013 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Ngân hàng Nhà nước Việt Nam",
+      "Căn cứ Nghị định số 72/2013/NĐ-CP ngày 15/7/2013 của Chính phủ về quản lý, cung cấp, sử dụng dịch vụ Internet và thông tin trên mạng",
+      "Căn cứ Thông tư 11/2012/TT-NHNN ngày 25/04/2012 của Ngân hàng Nhà nước Việt Nam về việc quy định quản lý và sử dụng mạng máy tính Ngân hàng Nhà nước",
+      "Căn cứ Thông tư 01/2011/TT-NHNN ngày 21/02/2011 của Ngân hàng Nhà nước Việt Nam quy định việc đảm bảo an toàn, bảo mật hệ thống công nghệ thông tin trong hoạt động ngân hàng"
+    ],
+    "proposals": [
+      "Theo đề nghị của Cục trưởng Cục Công nghệ tin học,\nQUYẾT ĐỊNH:"
+    ],
+    "enactment_formula": "QUYẾT ĐỊNH"
+  },
+  "passage": "QUYẾT ĐỊNH\nVỀ VIỆC BAN HÀNH QUY CHẾ SỬ DỤNG INTERNET TRONG NGÂN HÀNG NHÀ NƯỚC VIỆT\nNAM\nTHỐNG ĐỐC NGÂN HÀNG NHÀ NƯỚC\nCăn cứ Luật Ngân hàng Nhà nước Việt Nam số 46/2010/QH12 ngày 16/06/2010; Căn cứ Luật Công nghệ thông tin số 67/2009/QH11 ngày 29/06/2006; Căn cứ Nghị định số 156/2013/NĐ-CP ngày 11/11/2013 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Ngân hàng Nhà nước Việt Nam; Căn cứ Nghị định số 72/2013/NĐ-CP ngày 15/7/2013 của Chính phủ về quản lý, cung cấp, sử dụng dịch vụ Internet và thông tin trên mạng; Căn cứ Thông tư 11/2012/TT-NHNN ngày 25/04/2012 của Ngân hàng Nhà nước Việt Nam về việc quy định quản lý và sử dụng mạng máy tính Ngân hàng Nhà nước; Căn cứ Thông tư 01/2011/TT-NHNN ngày 21/02/2011 của Ngân hàng Nhà nước Việt Nam quy định việc đảm bảo an toàn, bảo mật hệ thống công nghệ thông tin trong hoạt động ngân hàng; Theo đề nghị của Cục trưởng Cục Công nghệ tin học,\nQUYẾT ĐỊNH:\nĐiều 1. Ban hành kèm Quyết định này “Quy chế sử dụng Internet trong Ngân hàng Nhà nước Việt Nam”.\nĐiều 2. Quyết định này có hiệu lực kể từ ngày ký ban hành.\nĐiều 3. Chánh Văn phòng, Cục trưởng Cục Công nghệ tin học, Thủ trưởng các đơn vị thuộc Ngân hàng Nhà nước Việt Nam và Giám đốc Ngân hàng Nhà nước chi nhánh tỉnh, thành phố trực thuộc Trung ương chịu trách nhiệm thi hành Quyết định này./.\nNơi nhận:\n- Như Điều 3 (để thực hiện);\n- BLĐ NHNN;\n- Lưu: VP, CNTH.\nKT. THỐNG ĐỐC\nPHÓ THỐNG ĐỐC\nNguyễn Toàn Thắng\nQUY CHẾ\nSỬ DỤNG INTERNET TRONG NGÂN HÀNG NHÀ NƯỚC VIỆT NAM\n(Ban hành kèm theo Quyết định số 2190/QĐ-NHNN ngày 30 tháng 10 năm 2014 của\nThống đốc Ngân hàng Nhà nước Việt Nam)\nChương I\nQUY ĐỊNH CHUNG\nĐiều 1. Phạm vi điều chỉnh và đối tượng áp dụng\n1. Quy chế này quy định việc sử dụng Internet trong\nNgân hàng Nhà nước Việt Nam (NHNN) để khai thác an toàn, hiệu quả các thông tin, dữ liệu trên Internet và đảm bảo an toàn bảo mật cho mạng cục bộ NHNN.\n2. Quy chế này áp dụng đối với người sử dụng thuộc\nNHNN và các tổ chức, cá nhân khác sử dụng mạng cục bộ NHNN để truy cập Internet.\nĐiều 2. Giải thích từ ngữ\n1. Tài khoản truy cập Internet (bao gồm tên\nđăng nhập và mật khẩu) là tài khoản được sử dụng để xác thực người sử dụng khi kết nối Internet.\n2. Người sử dụng là cá nhân, đơn vị thuộc\nNHNN và tổ chức bên ngoài được cấp tài khoản truy cập Internet.\n3. Proxy server là máy chủ làm nhiệm vụ chuyển\ntiếp thông tin và kiểm soát truy cập Internet nhằm đảm bảo an toàn cho máy tính của người sử dụng.\n4. Active Directory (AD) là hệ thống quản trị\nđịnh danh cho phép tạo, quản lý tài khoản người dùng, nhóm người dùng.\n5. Băng thông là tốc độ truyền dữ liệu của\nđường truyền.\n6. Máy tính nghiệp vụ là máy tính cài đặt và\nvận hành các phần mềm nghiệp vụ của NHNN.\nĐiều 3. Nguyên tắc về quản lý và sử dụng Internet\n1. Việc truy cập khai thác, sử dụng Internet qua mạng\ncục bộ NHNN được giới hạn theo thời gian, băng thông (Quy định chi tiết tại Phụ lục 01) do Cục Công nghệ tin học (CNTH) quản lý tập trung, thống nhất.\n2. Giữa mạng cục bộ NHNN và Internet phải có hệ thống\nan ninh mạng đảm bảo an toàn bảo mật cho mạng cục bộ NHNN.\n3. Các máy tính trong mạng cục bộ kết nối Internet\nphải thông qua Proxy server theo các quy định của Cục CNTH.\n4. Không sử dụng các thiết bị kết nối Internet trực\ntiếp để kết nối vào mạng cục bộ NHNN.\n5. Việc sử dụng, chia sẻ thông tin trên Internet phải\ntuân thủ các quy định về an toàn, bảo mật thông tin của NHNN và các quy định của pháp luật.\n6. Nghiêm cấm sử dụng tài nguyên Internet vào những\nviệc sau: a. Chống lại Đảng và Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam; gây phương hại đến an ninh quốc gia, trật tự, an toàn xã hội; phá hoại khối đại đoàn kết toàn dân; tuyên truyền chiến tranh xâm lược, khủng bố; gây hận thù, mâu thuẫn giữa các dân tộc, sắc tộc, tôn giáo; b. Tuyên truyền, kích động bạo lực, dâm ô, đồi trụy, tội ác, tệ nạn xã hội, mê tín dị đoan, phá hoại thuần phong, mỹ tục của dân tộc; c. Tiết lộ bí mật nhà nước, bí mật quân sự, an ninh, kinh tế, đối ngoại và những bí mật khác do pháp luật quy định; d. Đưa và phát tán thông tin xuyên tạc, vu khống, xúc phạm uy tín của tổ chức, danh dự và nhân phẩm của cá nhân; đ. Quảng cáo, tuyên truyền, mua bán các hàng hóa, dịch vụ bị cấm; truyền bá các ấn phẩm báo chí, văn học, nghệ thuật, xuất bản phẩm bị cấm; e. Giả mạo tổ chức, cá nhân và phát tán thông tin giả mạo, thông tin sai sự thật xâm hại đến quyền và lợi ích hợp pháp của tổ chức, cá nhân.\nChương II\nQUY ĐỊNH CỤ THỂ\nĐiều 4. Quản lý kết nối Internet NHNN\n1. Cục CNTH quản lý việc kết nối\nInternet của các máy tính thuộc mạng cục bộ NHNN.\n2. Trường hợp các đơn vị có máy tính\nthuộc mạng cục bộ NHNN có nhu cầu kết nối trực tiếp Internet không qua cổng kết nối do Cục CNTH quản lý phải có văn bản trình Thống đốc (thông qua Cục CNTH) nêu sự cần thiết của việc kết nối Internet trực tiếp và có giải pháp quản lý, bảo vệ đảm bảo an toàn mạng cục bộ NHNN.\n3. Tại các đơn vị thuộc NHNN, các máy\ntính không thuộc mạng cục bộ NHNN kết nối trực tiếp với mạng Internet (không do Cục CNTH quản lý) do thủ trưởng đơn vị quản lý và sử dụng tài sản quyết định và tự chịu trách nhiệm về an toàn bảo mật thông tin theo các quy định của NHNN và các quy định của pháp luật.\nĐiều 5. Điều kiện kết nối Internet qua mạng cục bộ NHNN\n1. Người sử dụng của NHNN sử dụng tài\nkhoản thư điện tử cá nhân do Cục CNTH cấp làm tài khoản đăng nhập kết nối Internet.\n2. Các thiết bị đầu cuối kết nối mạng\nInternet phải được cài đặt các phần mềm phòng chống virus máy tính, phần mềm an ninh và cập nhật thường xuyên các bản vá lỗi của hệ điều hành.\nĐiều 6. Quy định về thu hồi tài khoản truy cập Internet\n1. Trong trường hợp cần thiết, để đảm\nbảo an toàn cho hệ thống mạng NHNN, Cục CNTH có quyền chủ động tạm ngừng hoặc thu hồi tài khoản truy cập Internet.\n2. Cục CNTH thực hiện rà soát và thu\nhồi tài khoản truy cập Internet không sử dụng theo định kỳ 3 tháng/lần hoặc khi nhận được yêu cầu.\nĐiều 7. Quy định kết nối Internet qua mạng không dây\n1. Cục CNTH chịu trách nhiệm quản lý,\nkiểm soát và thiết lập các chính sách đối với các thiết bị cung cấp dịch vụ kết nối không dây (Wifi) kết nối qua cổng Internet do Cục CNTH quản lý.\n2. Các thiết bị di động (điện thoại\nthông minh, máy tính bảng, máy tính xách tay) khi kết nối Internet qua các thiết bị phát sóng không dây do Cục CNTH quản lý phải tuân thủ các quy định về trách nhiệm người sử dụng quy định tại Điều 10 Quy chế này.\n3. Người sử dụng thuộc NHNN sử dụng\ntài khoản thư điện tử để kết nối Internet qua mạng không dây do Cục CNTH quản lý.\n4. Người sử dụng không thuộc đối tượng\ntại Khoản 3 điều này sẽ được cung cấp tài khoản “khách” để kết nối Internet qua mạng không dây. Tài khoản “khách” có giới hạn về băng thông, dung lượng dữ liệu sử dụng và thời gian kết nối.\n5. Tại các đơn vị thuộc NHNN tự tổ chức\nkết nối Internet không dây, thủ trưởng đơn vị quản lý tài sản tự quyết định việc thiết lập, quản lý kết nối Internet không dây tại đơn vị mình và tự chịu trách nhiệm về an toàn bảo mật thông tin theo các quy định của NHNN và các quy định của pháp luật.\nĐiều 8. Trách nhiệm của Cục Công nghệ tin học\n1. Quản lý, kiểm soát về mặt kỹ thuật\nđối với các thiết bị thuộc mạng cục bộ NHNN kết nối ra Internet.\n2. Trang bị, quản lý đường truyền kết\nnối từ mạng cục bộ của NHNN ra Internet, đảm bảo hoạt động liên tục, thông suốt và an toàn.\n3. Thiết lập các chính sách an ninh bảo\nmật để kiểm soát các truy cập Internet.\n4. Cấp phát tài khoản truy cập\nInternet cho người sử dụng thuộc NHNN.\n5. Quản lý việc cấp phát và sử dụng\ntài nguyên Internet.\n6. Cảnh báo và hướng dẫn các đơn vị\nNHNN phối hợp xử lý các lỗ hổng bảo mật có nguy cơ ảnh hưởng đến hoạt động của mạng NHNN.\n7. Xây dựng chính sách kết nối\nInternet (Phụ lục 01 đính kèm). Định kỳ hàng tháng đánh giá mức độ sử dụng thực tế và cập nhật bổ sung chính sách kết nối Internet và bổ sung danh sách địa chỉ trang web được phép truy cập theo đề nghị của các đơn vị NHNN.\n8. Tiếp nhận, xử lý yêu cầu của các\nđơn vị NHNN trong việc đáp ứng nhu cầu sử dụng Internet.\n9. Định kỳ hàng năm báo cáo Ban lãnh\nđạo NHNN tình hình sử dụng Internet tại NHNN.\nĐiều 9. Trách nhiệm của các đơn vị NHNN\n1. Tổ chức hướng dẫn, kiểm tra việc\nkhai thác, sử dụng mạng Internet qua mạng cục bộ NHNN được quy định tại Quy chế này.\n2. Cài đặt, cập nhật phần mềm cho các\nthiết bị đầu cuối được quy định tại Khoản 2 Điều 5.\n3. Đăng ký với Cục CNTH danh sách các\ndịch vụ, trang web, địa chỉ truy cập Internet theo đặc thù của đơn vị (mẫu số 01 đính kèm).\n4. Thông báo bằng văn bản cho Cục\nCNTH khi có cán bộ, công chức, viên chức: (i) không còn nhu cầu sử dụng tài khoản truy cập Internet; (ii) cần thiết lập lại mật khẩu đăng nhập.\n5. Xây dựng quy chế sử dụng riêng nếu\nsử dụng mạng Internet trực tiếp.\nĐiều 10. Trách nhiệm của người sử dụng\n1. Chỉ truy cập Internet phục vụ hoạt\nđộng chuyên môn, nghiệp vụ. Chịu trách nhiệm về các thông tin mà mình lưu trữ, trao đổi, cung cấp hoặc phát tán trên Internet.\n2. Sử dụng tài nguyên, khai thác\nthông tin trên mạng Internet trong phạm vi được phép.\n3. Không lưu giữ trên máy tính kết nối\nInternet các thông tin, tài liệu, dữ liệu thuộc bí mật Nhà nước.\n4. Không sử dụng hoặc hướng dẫn người\nkhác sử dụng công cụ, phần mềm để truy cập trái phép các trang tin điện tử do cơ quan quản lý nhà nước có thẩm quyền cấm truy cập.\n5. Không tạo ra và cố ý lan truyền,\nphát tán các chương trình virus, phần mềm gây hại trên Internet. Không sử dụng mạng Internet để phát tán thư rác hoặc thư có nội dung sai lệch gây ảnh hưởng đến uy tín của cá nhân, tổ chức.\n6. Không đánh cắp, sử dụng hoặc phổ\nbiến mật khẩu, khóa mật mã, thông tin riêng của tổ chức, cá nhân.\n7. Phải bảo vệ mật khẩu và các thông\ntin cá nhân, tuân thủ các quy định về an ninh, bảo mật.\n8. Không cài đặt, sử dụng các phần mềm\nkhông có bản quyền, chương trình phần mềm tự động kết nối Internet tải dữ liệu về, chiếm dụng băng thông đường truyền lớn gây tắc nghẽn mạng.\n9. Trường hợp phát sinh sự cố, thông\nbáo cho cán bộ kỹ thuật tại đơn vị quản lý tài sản để được hướng dẫn và hỗ trợ khắc phục.\n10. Phối hợp với bộ phận kỹ thuật\ntrong việc xử lý và xác nhận kết quả xử lý sự cố.\n11. Tuân thủ đầy đủ tất cả những quy\nđịnh trong chính sách kết nối Internet do NHNN ban hành.\nChương III\nĐIỀU KHOẢN THI HÀNH\nĐiều 11. Trách nhiệm thi hành\n1. Cục Công nghệ tin học: Hướng dẫn,\nkiểm tra các đơn vị, cá nhân tham gia kết nối Internet thực hiện đúng các nội dung hướng dẫn trong quy chế này.\n2. Vụ Kiểm toán nội bộ: Kiểm tra việc\ntuân thủ quy chế này tại các đơn vị NHNN.\n3. Các đơn vị NHNN: Trong quá trình\nthực hiện, nếu có vướng mắc, phản ánh kịp thời về Cục CNTH để tổng hợp trình Thống đốc Ngân hàng Nhà nước xem xét.\nĐiều 12. Xử lý vi phạm Mọi vi phạm Quy định về quản lý và sử dụng tài nguyên Internet sẽ bị xử phạt theo pháp luật hiện hành về viễn thông, Internet, công nghệ thông tin và các quy định pháp luật khác có liên quan.\nĐiều 13. Sửa đổi, bổ sung Quy chế Việc bổ sung, sửa đổi Quy chế này do Thống đốc Ngân hàng Nhà nước quyết định phù hợp với yêu cầu công tác của NHNN./.\nPHỤ LỤC 01 - CHÍNH SÁCH KẾT NỐI\nINTERNET STT\nPhân loại máy tính Tài nguyên Internet được truy cập Chính sách khác 1 Máy tính lưu trữ tài liệu, số liệu mật của nhà nước Không truy cập Internet 2 Máy tính nghiệp vụ Không truy cập Internet. Trường hợp máy nghiệp vụ cần kết nối qua Internet để thực hiện nghiệp vụ, Thủ trưởng đơn vị đăng ký với Cục CNTH bằng văn bản trong đó nêu rõ: số lượng máy trạm kết nối, địa chỉ vật lý từng máy, nghiệp vụ sử dụng, các dịch vụ sử dụng, địa chỉ IP Internet, cổng kết nối. 3 Máy tính khác có kết nối mạng cục bộ NHNN Chỉ được phép truy cập các trang web sau:\n1. Các trang web cơ quan nhà nước Việt Nam (địa\nchỉ trang web thường có dạng .gov.vn);\n2. Các trang web của các tổ chức tín dụng, các\nđơn vị trong ngành;\n3. Một số trang báo điện tử (có uy tín) như:\n- vnexpress.net - vietnamnet.vn - dantri.com.vn - cafef.vn - .......\n4. Các trang web theo đăng ký của từng đơn vị.\n- Chặn quảng cáo - Chặn flash, audio, video - Giới hạn tổng băng thông truy cập Internet qua wifi = 20% băng thông Internet của NHNN. Mẫu số 01 Tên đơn vị: Số:\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc --------------- ........, ngày tháng năm\nĐỀ NGHỊ ĐĂNG KÝ SỬ DỤNG INTERNET\nKính gửi: Cục Công nghệ tin học A. Thông tin chung Tên đơn vị: Địa chỉ: Đầu mối liên hệ (Tên cán bộ, địa chỉ email, số điện thoại): B. Phần đề nghị Chúng tôi đã nghiên cứu và đồng ý các quy định tại\nQuy chế quản lý và sử mạng Internet NHNN được quy định tại Quyết định số ____/QĐ-NHNN,\nChúng tôi đề nghị được đăng ký sử dụng Internet với các thông tin chi tiết như sau:\n1. Danh sách địa chỉ vật lý máy trạm sử dụng:\na. Máy 1:............. b. Máy 2:.....................\n2. Địa chỉ Internet\nSTT\nĐịa chỉ IP/ địa chỉ Website Cổng kết nối Thời gian Mục đích sử dụng 1 từ ngày dd/mm/yyyy đến ngày dd/mm/yyyy 2 Chúng tôi cam kết sử dụng Internet đúng mục đích./. Thủ trưởng đơn vị (Ký, đóng dấu)",
+  "tree": {
+    "parts": [
+      {
+        "part_id": "doc:39331:part:1",
+        "part_type": "main",
+        "part_title": null,
+        "reference": null,
+        "direct_text": "QUYẾT ĐỊNH\nVỀ VIỆC BAN HÀNH QUY CHẾ SỬ DỤNG INTERNET TRONG NGÂN HÀNG NHÀ NƯỚC VIỆT\nNAM\nTHỐNG ĐỐC NGÂN HÀNG NHÀ NƯỚC\nCăn cứ Luật Ngân hàng Nhà nước Việt Nam số 46/2010/QH12 ngày 16/06/2010; Căn cứ Luật Công nghệ thông tin số 67/2009/QH11 ngày 29/06/2006; Căn cứ Nghị định số 156/2013/NĐ-CP ngày 11/11/2013 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Ngân hàng Nhà nước Việt Nam; Căn cứ Nghị định số 72/2013/NĐ-CP ngày 15/7/2013 của Chính phủ về quản lý, cung cấp, sử dụng dịch vụ Internet và thông tin trên mạng; Căn cứ Thông tư 11/2012/TT-NHNN ngày 25/04/2012 của Ngân hàng Nhà nước Việt Nam về việc quy định quản lý và sử dụng mạng máy tính Ngân hàng Nhà nước; Căn cứ Thông tư 01/2011/TT-NHNN ngày 21/02/2011 của Ngân hàng Nhà nước Việt Nam quy định việc đảm bảo an toàn, bảo mật hệ thống công nghệ thông tin trong hoạt động ngân hàng; Theo đề nghị của Cục trưởng Cục Công nghệ tin học,\nQUYẾT ĐỊNH:",
+        "chapters": [],
+        "sections": [],
+        "articles": [
+          {
+            "article_id": "doc:39331:part:1:article:1",
+            "number": "1",
+            "title": "Ban hành kèm Quyết định này “Quy chế sử dụng Internet trong Ngân hàng Nhà nước Việt Nam”.",
+            "content": "Điều 1. Ban hành kèm Quyết định này “Quy chế sử dụng Internet trong Ngân hàng Nhà nước Việt Nam”.",
+            "clauses": [],
+            "points": []
+          },
+          {
+            "article_id": "doc:39331:part:1:article:2",
+            "number": "2",
+            "title": "Quyết định này có hiệu lực kể từ ngày ký ban hành.",
+            "content": "Điều 2. Quyết định này có hiệu lực kể từ ngày ký ban hành.",
+            "clauses": [],
+            "points": []
+          },
+          {
+            "article_id": "doc:39331:part:1:article:3",
+            "number": "3",
+            "title": "Chánh Văn phòng, Cục trưởng Cục Công nghệ tin học, Thủ trưởng các đơn vị thuộc Ngân hàng Nhà nước Việt Nam và Giám đốc Ngân hàng Nhà nước chi nhánh tỉnh, thành phố trực thuộc Trung ương chịu trách nhiệm thi hành Quyết định này./.",
+            "content": "Điều 3. Chánh Văn phòng, Cục trưởng Cục Công nghệ tin học, Thủ trưởng các đơn vị thuộc Ngân hàng Nhà nước Việt Nam và Giám đốc Ngân hàng Nhà nước chi nhánh tỉnh, thành phố trực thuộc Trung ương chịu trách nhiệm thi hành Quyết định này./.",
+            "clauses": [],
+            "points": []
+          }
+        ],
+        "unstructured_blocks": []
+      },
+      {
+        "part_id": "doc:39331:part:2",
+        "part_type": "regulation",
+        "part_title": "QUY CHẾ",
+        "reference": null,
+        "direct_text": "QUY CHẾ\nSỬ DỤNG INTERNET TRONG NGÂN HÀNG NHÀ NƯỚC VIỆT NAM\n(Ban hành kèm theo Quyết định số 2190/QĐ-NHNN ngày 30 tháng 10 năm 2014 của\nThống đốc Ngân hàng Nhà nước Việt Nam)",
+        "chapters": [
+          {
+            "chapter_id": "doc:39331:part:2:chapter:1",
+            "number": "I",
+            "title": "QUY ĐỊNH CHUNG",
+            "content": "Chương I\nQUY ĐỊNH CHUNG",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:39331:part:2:article:1",
+                "number": "1",
+                "title": "Phạm vi điều chỉnh và đối tượng áp dụng",
+                "content": "Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng",
+                "clauses": [
+                  {
+                    "clause_id": "doc:39331:part:2:article:1:clause:1",
+                    "number": "1",
+                    "content": "1. Quy chế này quy định việc sử dụng Internet trong\nNgân hàng Nhà nước Việt Nam (NHNN) để khai thác an toàn, hiệu quả các thông tin, dữ liệu trên Internet và đảm bảo an toàn bảo mật cho mạng cục bộ NHNN.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:39331:part:2:article:1:clause:2",
+                    "number": "2",
+                    "content": "2. Quy chế này áp dụng đối với người sử dụng thuộc\nNHNN và các tổ chức, cá nhân khác sử dụng mạng cục bộ NHNN để truy cập Internet.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:39331:part:2:article:2",
+                "number": "2",
+                "title": "Giải thích từ ngữ",
+                "content": "Điều 2. Giải thích từ ngữ",
+                "clauses": [
+                  {
+                    "clause_id": "doc:39331:part:2:article:2:clause:1",
+                    "number": "1",
+                    "content": "1. Tài khoản truy cập Internet (bao gồm tên\nđăng nhập và mật khẩu) là tài khoản được sử dụng để xác thực người sử dụng khi kết nối Internet.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:39331:part:2:article:2:clause:2",
+                    "number": "2",
+                    "content": "2. Người sử dụng là cá nhân, đơn vị thuộc\nNHNN và tổ chức bên ngoài được cấp tài khoản truy cập Internet.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:39331:part:2:article:2:clause:3",
+                    "number": "3",
+                    "content": "3. Proxy server là máy chủ làm nhiệm vụ chuyển\ntiếp thông tin và kiểm soát truy cập Internet nhằm đảm bảo an toàn cho máy tính của người sử dụng.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:39331:part:2:article:2:clause:4",
+                    "number": "4",
+                    "content": "4. Active Directory (AD) là hệ thống quản trị\nđịnh danh cho phép tạo, quản lý tài khoản người dùng, nhóm người dùng.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:39331:part:2:article:2:clause:5",
+                    "number": "5",
+                    "content": "5. Băng thông là tốc độ truyền dữ liệu của\nđường truyền.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:39331:part:2:article:2:clause:6",
+                    "number": "6",
+                    "content": "6. Máy tính nghiệp vụ là máy tính cài đặt và\nvận hành các phần mềm nghiệp vụ của NHNN.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:39331:part:2:article:3",
+                "number": "3",
+                "title": "Nguyên tắc về quản lý và sử dụng Internet",
+                "content": "Điều 3. Nguyên tắc về quản lý và sử dụng Internet",
+                "clauses": [
+                  {
+                    "clause_id": "doc:39331:part:2:article:3:clause:1",
+                    "number": "1",
+                    "content": "1. Việc truy cập khai thác, sử dụng Internet qua mạng\ncục bộ NHNN được giới hạn theo thời gian, băng thông (Quy định chi tiết tại Phụ lục 01) do Cục Công nghệ tin học (CNTH) quản lý tập trung, thống nhất.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:39331:part:2:article:3:clause:2",
+                    "number": "2",
+                    "content": "2. Giữa mạng cục bộ NHNN và Internet phải có hệ thống\nan ninh mạng đảm bảo an toàn bảo mật cho mạng cục bộ NHNN.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:39331:part:2:article:3:clause:3",
+                    "number": "3",
+                    "content": "3. Các máy tính trong mạng cục bộ kết nối Internet\nphải thông qua Proxy server theo các quy định của Cục CNTH.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:39331:part:2:article:3:clause:4",
+                    "number": "4",
+                    "content": "4. Không sử dụng các thiết bị kết nối Internet trực\ntiếp để kết nối vào mạng cục bộ NHNN.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:39331:part:2:article:3:clause:5",
+                    "number": "5",
+                    "content": "5. Việc sử dụng, chia sẻ thông tin trên Internet phải\ntuân thủ các quy định về an toàn, bảo mật thông tin của NHNN và các quy định của pháp luật.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:39331:part:2:article:3:clause:6",
+                    "number": "6",
+                    "content": "6. Nghiêm cấm sử dụng tài nguyên Internet vào những\nviệc sau: a. Chống lại Đảng và Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam; gây phương hại đến an ninh quốc gia, trật tự, an toàn xã hội; phá hoại khối đại đoàn kết toàn dân; tuyên truyền chiến tranh xâm lược, khủng bố; gây hận thù, mâu thuẫn giữa các dân tộc, sắc tộc, tôn giáo; b. Tuyên truyền, kích động bạo lực, dâm ô, đồi trụy, tội ác, tệ nạn xã hội, mê tín dị đoan, phá hoại thuần phong, mỹ tục của dân tộc; c. Tiết lộ bí mật nhà nước, bí mật quân sự, an ninh, kinh tế, đối ngoại và những bí mật khác do pháp luật quy định; d. Đưa và phát tán thông tin xuyên tạc, vu khống, xúc phạm uy tín của tổ chức, danh dự và nhân phẩm của cá nhân; đ. Quảng cáo, tuyên truyền, mua bán các hàng hóa, dịch vụ bị cấm; truyền bá các ấn phẩm báo chí, văn học, nghệ thuật, xuất bản phẩm bị cấm; e. Giả mạo tổ chức, cá nhân và phát tán thông tin giả mạo, thông tin sai sự thật xâm hại đến quyền và lợi ích hợp pháp của tổ chức, cá nhân.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:39331:part:2:chapter:2",
+            "number": "II",
+            "title": "QUY ĐỊNH CỤ THỂ",
+            "content": "Chương II\nQUY ĐỊNH CỤ THỂ",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:39331:part:2:article:4",
+                "number": "4",
+                "title": "Quản lý kết nối Internet NHNN",
+                "content": "Điều 4. Quản lý kết nối Internet NHNN",
+                "clauses": [
+                  {
+                    "clause_id": "doc:39331:part:2:article:4:clause:1",
+                    "number": "1",
+                    "content": "1. Cục CNTH quản lý việc kết nối\nInternet của các máy tính thuộc mạng cục bộ NHNN.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:39331:part:2:article:4:clause:2",
+                    "number": "2",
+                    "content": "2. Trường hợp các đơn vị có máy tính\nthuộc mạng cục bộ NHNN có nhu cầu kết nối trực tiếp Internet không qua cổng kết nối do Cục CNTH quản lý phải có văn bản trình Thống đốc (thông qua Cục CNTH) nêu sự cần thiết của việc kết nối Internet trực tiếp và có giải pháp quản lý, bảo vệ đảm bảo an toàn mạng cục bộ NHNN.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:39331:part:2:article:4:clause:3",
+                    "number": "3",
+                    "content": "3. Tại các đơn vị thuộc NHNN, các máy\ntính không thuộc mạng cục bộ NHNN kết nối trực tiếp với mạng Internet (không do Cục CNTH quản lý) do thủ trưởng đơn vị quản lý và sử dụng tài sản quyết định và tự chịu trách nhiệm về an toàn bảo mật thông tin theo các quy định của NHNN và các quy định của pháp luật.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:39331:part:2:article:5",
+                "number": "5",
+                "title": "Điều kiện kết nối Internet qua mạng cục bộ NHNN",
+                "content": "Điều 5. Điều kiện kết nối Internet qua mạng cục bộ NHNN",
+                "clauses": [
+                  {
+                    "clause_id": "doc:39331:part:2:article:5:clause:1",
+                    "number": "1",
+                    "content": "1. Người sử dụng của NHNN sử dụng tài\nkhoản thư điện tử cá nhân do Cục CNTH cấp làm tài khoản đăng nhập kết nối Internet.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:39331:part:2:article:5:clause:2",
+                    "number": "2",
+                    "content": "2. Các thiết bị đầu cuối kết nối mạng\nInternet phải được cài đặt các phần mềm phòng chống virus máy tính, phần mềm an ninh và cập nhật thường xuyên các bản vá lỗi của hệ điều hành.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:39331:part:2:article:6",
+                "number": "6",
+                "title": "Quy định về thu hồi tài khoản truy cập Internet",
+                "content": "Điều 6. Quy định về thu hồi tài khoản truy cập Internet",
+                "clauses": [
+                  {
+                    "clause_id": "doc:39331:part:2:article:6:clause:1",
+                    "number": "1",
+                    "content": "1. Trong trường hợp cần thiết, để đảm\nbảo an toàn cho hệ thống mạng NHNN, Cục CNTH có quyền chủ động tạm ngừng hoặc thu hồi tài khoản truy cập Internet.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:39331:part:2:article:6:clause:2",
+                    "number": "2",
+                    "content": "2. Cục CNTH thực hiện rà soát và thu\nhồi tài khoản truy cập Internet không sử dụng theo định kỳ 3 tháng/lần hoặc khi nhận được yêu cầu.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:39331:part:2:article:7",
+                "number": "7",
+                "title": "Quy định kết nối Internet qua mạng không dây",
+                "content": "Điều 7. Quy định kết nối Internet qua mạng không dây",
+                "clauses": [
+                  {
+                    "clause_id": "doc:39331:part:2:article:7:clause:1",
+                    "number": "1",
+                    "content": "1. Cục CNTH chịu trách nhiệm quản lý,\nkiểm soát và thiết lập các chính sách đối với các thiết bị cung cấp dịch vụ kết nối không dây (Wifi) kết nối qua cổng Internet do Cục CNTH quản lý.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:39331:part:2:article:7:clause:2",
+                    "number": "2",
+                    "content": "2. Các thiết bị di động (điện thoại\nthông minh, máy tính bảng, máy tính xách tay) khi kết nối Internet qua các thiết bị phát sóng không dây do Cục CNTH quản lý phải tuân thủ các quy định về trách nhiệm người sử dụng quy định tại Điều 10 Quy chế này.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:39331:part:2:article:7:clause:3",
+                    "number": "3",
+                    "content": "3. Người sử dụng thuộc NHNN sử dụng\ntài khoản thư điện tử để kết nối Internet qua mạng không dây do Cục CNTH quản lý.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:39331:part:2:article:7:clause:4",
+                    "number": "4",
+                    "content": "4. Người sử dụng không thuộc đối tượng\ntại Khoản 3 điều này sẽ được cung cấp tài khoản “khách” để kết nối Internet qua mạng không dây. Tài khoản “khách” có giới hạn về băng thông, dung lượng dữ liệu sử dụng và thời gian kết nối.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:39331:part:2:article:7:clause:5",
+                    "number": "5",
+                    "content": "5. Tại các đơn vị thuộc NHNN tự tổ chức\nkết nối Internet không dây, thủ trưởng đơn vị quản lý tài sản tự quyết định việc thiết lập, quản lý kết nối Internet không dây tại đơn vị mình và tự chịu trách nhiệm về an toàn bảo mật thông tin theo các quy định của NHNN và các quy định của pháp luật.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:39331:part:2:article:8",
+                "number": "8",
+                "title": "Trách nhiệm của Cục Công nghệ tin học",
+                "content": "Điều 8. Trách nhiệm của Cục Công nghệ tin học",
+                "clauses": [
+                  {
+                    "clause_id": "doc:39331:part:2:article:8:clause:1",
+                    "number": "1",
+                    "content": "1. Quản lý, kiểm soát về mặt kỹ thuật\nđối với các thiết bị thuộc mạng cục bộ NHNN kết nối ra Internet.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:39331:part:2:article:8:clause:2",
+                    "number": "2",
+                    "content": "2. Trang bị, quản lý đường truyền kết\nnối từ mạng cục bộ của NHNN ra Internet, đảm bảo hoạt động liên tục, thông suốt và an toàn.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:39331:part:2:article:8:clause:3",
+                    "number": "3",
+                    "content": "3. Thiết lập các chính sách an ninh bảo\nmật để kiểm soát các truy cập Internet.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:39331:part:2:article:8:clause:4",
+                    "number": "4",
+                    "content": "4. Cấp phát tài khoản truy cập\nInternet cho người sử dụng thuộc NHNN.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:39331:part:2:article:8:clause:5",
+                    "number": "5",
+                    "content": "5. Quản lý việc cấp phát và sử dụng\ntài nguyên Internet.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:39331:part:2:article:8:clause:6",
+                    "number": "6",
+                    "content": "6. Cảnh báo và hướng dẫn các đơn vị\nNHNN phối hợp xử lý các lỗ hổng bảo mật có nguy cơ ảnh hưởng đến hoạt động của mạng NHNN.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:39331:part:2:article:8:clause:7",
+                    "number": "7",
+                    "content": "7. Xây dựng chính sách kết nối\nInternet (Phụ lục 01 đính kèm). Định kỳ hàng tháng đánh giá mức độ sử dụng thực tế và cập nhật bổ sung chính sách kết nối Internet và bổ sung danh sách địa chỉ trang web được phép truy cập theo đề nghị của các đơn vị NHNN.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:39331:part:2:article:8:clause:8",
+                    "number": "8",
+                    "content": "8. Tiếp nhận, xử lý yêu cầu của các\nđơn vị NHNN trong việc đáp ứng nhu cầu sử dụng Internet.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:39331:part:2:article:8:clause:9",
+                    "number": "9",
+                    "content": "9. Định kỳ hàng năm báo cáo Ban lãnh\nđạo NHNN tình hình sử dụng Internet tại NHNN.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:39331:part:2:article:9",
+                "number": "9",
+                "title": "Trách nhiệm của các đơn vị NHNN",
+                "content": "Điều 9. Trách nhiệm của các đơn vị NHNN",
+                "clauses": [
+                  {
+                    "clause_id": "doc:39331:part:2:article:9:clause:1",
+                    "number": "1",
+                    "content": "1. Tổ chức hướng dẫn, kiểm tra việc\nkhai thác, sử dụng mạng Internet qua mạng cục bộ NHNN được quy định tại Quy chế này.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:39331:part:2:article:9:clause:2",
+                    "number": "2",
+                    "content": "2. Cài đặt, cập nhật phần mềm cho các\nthiết bị đầu cuối được quy định tại Khoản 2 Điều 5.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:39331:part:2:article:9:clause:3",
+                    "number": "3",
+                    "content": "3. Đăng ký với Cục CNTH danh sách các\ndịch vụ, trang web, địa chỉ truy cập Internet theo đặc thù của đơn vị (mẫu số 01 đính kèm).",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:39331:part:2:article:9:clause:4",
+                    "number": "4",
+                    "content": "4. Thông báo bằng văn bản cho Cục\nCNTH khi có cán bộ, công chức, viên chức: (i) không còn nhu cầu sử dụng tài khoản truy cập Internet; (ii) cần thiết lập lại mật khẩu đăng nhập.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:39331:part:2:article:9:clause:5",
+                    "number": "5",
+                    "content": "5. Xây dựng quy chế sử dụng riêng nếu\nsử dụng mạng Internet trực tiếp.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:39331:part:2:article:10",
+                "number": "10",
+                "title": "Trách nhiệm của người sử dụng",
+                "content": "Điều 10. Trách nhiệm của người sử dụng",
+                "clauses": [
+                  {
+                    "clause_id": "doc:39331:part:2:article:10:clause:1",
+                    "number": "1",
+                    "content": "1. Chỉ truy cập Internet phục vụ hoạt\nđộng chuyên môn, nghiệp vụ. Chịu trách nhiệm về các thông tin mà mình lưu trữ, trao đổi, cung cấp hoặc phát tán trên Internet.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:39331:part:2:article:10:clause:2",
+                    "number": "2",
+                    "content": "2. Sử dụng tài nguyên, khai thác\nthông tin trên mạng Internet trong phạm vi được phép.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:39331:part:2:article:10:clause:3",
+                    "number": "3",
+                    "content": "3. Không lưu giữ trên máy tính kết nối\nInternet các thông tin, tài liệu, dữ liệu thuộc bí mật Nhà nước.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:39331:part:2:article:10:clause:4",
+                    "number": "4",
+                    "content": "4. Không sử dụng hoặc hướng dẫn người\nkhác sử dụng công cụ, phần mềm để truy cập trái phép các trang tin điện tử do cơ quan quản lý nhà nước có thẩm quyền cấm truy cập.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:39331:part:2:article:10:clause:5",
+                    "number": "5",
+                    "content": "5. Không tạo ra và cố ý lan truyền,\nphát tán các chương trình virus, phần mềm gây hại trên Internet. Không sử dụng mạng Internet để phát tán thư rác hoặc thư có nội dung sai lệch gây ảnh hưởng đến uy tín của cá nhân, tổ chức.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:39331:part:2:article:10:clause:6",
+                    "number": "6",
+                    "content": "6. Không đánh cắp, sử dụng hoặc phổ\nbiến mật khẩu, khóa mật mã, thông tin riêng của tổ chức, cá nhân.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:39331:part:2:article:10:clause:7",
+                    "number": "7",
+                    "content": "7. Phải bảo vệ mật khẩu và các thông\ntin cá nhân, tuân thủ các quy định về an ninh, bảo mật.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:39331:part:2:article:10:clause:8",
+                    "number": "8",
+                    "content": "8. Không cài đặt, sử dụng các phần mềm\nkhông có bản quyền, chương trình phần mềm tự động kết nối Internet tải dữ liệu về, chiếm dụng băng thông đường truyền lớn gây tắc nghẽn mạng.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:39331:part:2:article:10:clause:9",
+                    "number": "9",
+                    "content": "9. Trường hợp phát sinh sự cố, thông\nbáo cho cán bộ kỹ thuật tại đơn vị quản lý tài sản để được hướng dẫn và hỗ trợ khắc phục.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:39331:part:2:article:10:clause:10",
+                    "number": "10",
+                    "content": "10. Phối hợp với bộ phận kỹ thuật\ntrong việc xử lý và xác nhận kết quả xử lý sự cố.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:39331:part:2:article:10:clause:11",
+                    "number": "11",
+                    "content": "11. Tuân thủ đầy đủ tất cả những quy\nđịnh trong chính sách kết nối Internet do NHNN ban hành.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:39331:part:2:chapter:3",
+            "number": "III",
+            "title": "ĐIỀU KHOẢN THI HÀNH",
+            "content": "Chương III\nĐIỀU KHOẢN THI HÀNH",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:39331:part:2:article:11",
+                "number": "11",
+                "title": "Trách nhiệm thi hành",
+                "content": "Điều 11. Trách nhiệm thi hành",
+                "clauses": [
+                  {
+                    "clause_id": "doc:39331:part:2:article:11:clause:1",
+                    "number": "1",
+                    "content": "1. Cục Công nghệ tin học: Hướng dẫn,\nkiểm tra các đơn vị, cá nhân tham gia kết nối Internet thực hiện đúng các nội dung hướng dẫn trong quy chế này.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:39331:part:2:article:11:clause:2",
+                    "number": "2",
+                    "content": "2. Vụ Kiểm toán nội bộ: Kiểm tra việc\ntuân thủ quy chế này tại các đơn vị NHNN.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:39331:part:2:article:11:clause:3",
+                    "number": "3",
+                    "content": "3. Các đơn vị NHNN: Trong quá trình\nthực hiện, nếu có vướng mắc, phản ánh kịp thời về Cục CNTH để tổng hợp trình Thống đốc Ngân hàng Nhà nước xem xét.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:39331:part:2:article:12",
+                "number": "12",
+                "title": "Xử lý vi phạm Mọi vi phạm Quy định về quản lý và sử dụng tài nguyên Internet sẽ bị xử phạt theo pháp luật hiện hành về viễn thông, Internet, công nghệ thông tin và các quy định pháp luật khác có liên quan.",
+                "content": "Điều 12. Xử lý vi phạm Mọi vi phạm Quy định về quản lý và sử dụng tài nguyên Internet sẽ bị xử phạt theo pháp luật hiện hành về viễn thông, Internet, công nghệ thông tin và các quy định pháp luật khác có liên quan.",
+                "clauses": [],
+                "points": []
+              },
+              {
+                "article_id": "doc:39331:part:2:article:13",
+                "number": "13",
+                "title": "Sửa đổi, bổ sung Quy chế Việc bổ sung, sửa đổi Quy chế này do Thống đốc Ngân hàng Nhà nước quyết định phù hợp với yêu cầu công tác của NHNN./.",
+                "content": "Điều 13. Sửa đổi, bổ sung Quy chế Việc bổ sung, sửa đổi Quy chế này do Thống đốc Ngân hàng Nhà nước quyết định phù hợp với yêu cầu công tác của NHNN./.",
+                "clauses": [],
+                "points": []
+              }
+            ]
+          }
+        ],
+        "sections": [],
+        "articles": [],
+        "unstructured_blocks": []
+      },
+      {
+        "part_id": "doc:39331:part:3",
+        "part_type": "appendix",
+        "part_title": "PHỤ LỤC 01 - CHÍNH SÁCH KẾT NỐI",
+        "reference": null,
+        "direct_text": null,
+        "chapters": [],
+        "sections": [],
+        "articles": [],
+        "unstructured_blocks": [
+          {
+            "block_id": "doc:39331:part:3:block:1",
+            "content": "PHỤ LỤC 01 - CHÍNH SÁCH KẾT NỐI\nINTERNET STT\nPhân loại máy tính Tài nguyên Internet được truy cập Chính sách khác 1 Máy tính lưu trữ tài liệu, số liệu mật của nhà nước Không truy cập Internet 2 Máy tính nghiệp vụ Không truy cập Internet. Trường hợp máy nghiệp vụ cần kết nối qua Internet để thực hiện nghiệp vụ, Thủ trưởng đơn vị đăng ký với Cục CNTH bằng văn bản trong đó nêu rõ: số lượng máy trạm kết nối, địa chỉ vật lý từng máy, nghiệp vụ sử dụng, các dịch vụ sử dụng, địa chỉ IP Internet, cổng kết nối. 3 Máy tính khác có kết nối mạng cục bộ NHNN Chỉ được phép truy cập các trang web sau:\n1. Các trang web cơ quan nhà nước Việt Nam (địa\nchỉ trang web thường có dạng .gov.vn);\n2. Các trang web của các tổ chức tín dụng, các\nđơn vị trong ngành;\n3. Một số trang báo điện tử (có uy tín) như:\n- vnexpress.net - vietnamnet.vn - dantri.com.vn - cafef.vn - .......\n4. Các trang web theo đăng ký của từng đơn vị.\n- Chặn quảng cáo - Chặn flash, audio, video - Giới hạn tổng băng thông truy cập Internet qua wifi = 20% băng thông Internet của NHNN. Mẫu số 01 Tên đơn vị: Số:\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc --------------- ........, ngày tháng năm\nĐỀ NGHỊ ĐĂNG KÝ SỬ DỤNG INTERNET\nKính gửi: Cục Công nghệ tin học A. Thông tin chung Tên đơn vị: Địa chỉ: Đầu mối liên hệ (Tên cán bộ, địa chỉ email, số điện thoại): B. Phần đề nghị Chúng tôi đã nghiên cứu và đồng ý các quy định tại\nQuy chế quản lý và sử mạng Internet NHNN được quy định tại Quyết định số ____/QĐ-NHNN,\nChúng tôi đề nghị được đăng ký sử dụng Internet với các thông tin chi tiết như sau:\n1. Danh sách địa chỉ vật lý máy trạm sử dụng:\na. Máy 1:............. b. Máy 2:.....................\n2. Địa chỉ Internet\nSTT\nĐịa chỉ IP/ địa chỉ Website Cổng kết nối Thời gian Mục đích sử dụng 1 từ ngày dd/mm/yyyy đến ngày dd/mm/yyyy 2 Chúng tôi cam kết sử dụng Internet đúng mục đích./. Thủ trưởng đơn vị (Ký, đóng dấu)",
+            "indexable": true
+          }
+        ]
+      }
+    ]
+  },
+  "issues": [],
+  "status": "ok",
+  "source_hash": "context_39331.json",
+  "stats": {
+    "source_chars": 13004,
+    "passage_chars": 12838,
+    "parts": 3,
+    "chapters": 3,
+    "sections": 0,
+    "articles": 16,
+    "clauses": 54,
+    "points": 0
+  }
+}

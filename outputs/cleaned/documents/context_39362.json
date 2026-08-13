@@ -1,0 +1,67 @@
+{
+  "schema_version": "2.0",
+  "document_id": 39362,
+  "metadata": {
+    "name": "Cong-dien-1576-CD-BYT-2022-tang-cuong-cong-tac-phong-chong-benh-sot-xuat-huyet-540348",
+    "link": "https://thuvienphapluat.vn/van-ban/The-thao-Y-te/Cong-dien-1576-CD-BYT-2022-tang-cuong-cong-tac-phong-chong-benh-sot-xuat-huyet-540348.aspx",
+    "issuing_agency": "BỘ Y TẾ",
+    "national_header": "CỘNG\r\n\n  HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM",
+    "motto": "Độc lập - Tự do - Hạnh phúc",
+    "document_number": "1576/CĐ-BYT",
+    "issued_place": "Hà Nội",
+    "issued_date": "ngày 24 tháng 11 năm 2022",
+    "document_type": null,
+    "title": null
+  },
+  "administrative_header": {
+    "removed": true,
+    "removed_char_count": 3457
+  },
+  "preamble": {
+    "text": null,
+    "legal_bases": [],
+    "proposals": [],
+    "enactment_formula": null
+  },
+  "passage": "căn cứ theo tình hình dịch bệnh và hướng dẫn các nội dung chi, mức chi theo quy định để triển khai các hoạt động phòng chống dịch sốt xuất huyết.\n6. Tổ chức các đoàn đi kiểm tra, giám\nsát công tác phòng, chống sốt xuất huyết tại các điểm nóng, các khu vực có nguy cơ bùng phát dịch, hỗ trợ tuyến dưới trong công tác phòng, chống dịch sốt xuất huyết. Bộ Y tế trân trọng đề nghị Đồng chí Chủ tịch Ủy ban nhân dân quan tâm chỉ đạo các đơn vị triển khai thực hiện và báo cáo kết quả về Bộ Y tế (Cục Y tế dự phòng) để tổng hợp, báo cáo lãnh đạo Bộ. Trân trọng cảm ơn./.\nNơi nhận:\n- Như trên;\n- PTTg. Vũ Đức Đam (để báo cáo);\n- BT. Đào Hồng Lan (để báo cáo);\n- Các Đồng chí Thứ trưởng (để phối hợp chỉ đạo);\n- Các Vụ, Cục: DP, KCB, MT, KH-TC, TT-KT;\n- Các viện VSDT, Pasteur, SR-KST-CT;\n- SYT các tỉnh, thành phố (để thực hiện);\n- TTKSBT các tỉnh, thành phố (để thực hiện);\n- BVĐK các tỉnh, thành phố (để thực hiện);\n- Cổng thông tin điện tử Bộ Y tế;\n- Lưu: VT, DP.\nKT. BỘ TRƯỞNG\nTHỨ TRƯỞNG\nNguyễn Thị Liên Hương",
+  "tree": {
+    "parts": [
+      {
+        "part_id": "doc:39362:part:1",
+        "part_type": "main",
+        "part_title": null,
+        "reference": null,
+        "direct_text": null,
+        "chapters": [],
+        "sections": [],
+        "articles": [],
+        "unstructured_blocks": [
+          {
+            "block_id": "doc:39362:part:1:block:1",
+            "content": "căn cứ theo tình hình dịch bệnh và hướng dẫn các nội dung chi, mức chi theo quy định để triển khai các hoạt động phòng chống dịch sốt xuất huyết.\n6. Tổ chức các đoàn đi kiểm tra, giám\nsát công tác phòng, chống sốt xuất huyết tại các điểm nóng, các khu vực có nguy cơ bùng phát dịch, hỗ trợ tuyến dưới trong công tác phòng, chống dịch sốt xuất huyết. Bộ Y tế trân trọng đề nghị Đồng chí Chủ tịch Ủy ban nhân dân quan tâm chỉ đạo các đơn vị triển khai thực hiện và báo cáo kết quả về Bộ Y tế (Cục Y tế dự phòng) để tổng hợp, báo cáo lãnh đạo Bộ. Trân trọng cảm ơn./.",
+            "indexable": true
+          }
+        ]
+      }
+    ]
+  },
+  "issues": [
+    {
+      "code": "no_articles",
+      "message": "no articles parsed",
+      "severity": "warning"
+    }
+  ],
+  "status": "ok",
+  "source_hash": "context_39362.json",
+  "stats": {
+    "source_chars": 4464,
+    "passage_chars": 1006,
+    "parts": 1,
+    "chapters": 0,
+    "sections": 0,
+    "articles": 0,
+    "clauses": 0,
+    "points": 0
+  }
+}

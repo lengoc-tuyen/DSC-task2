@@ -1,0 +1,886 @@
+{
+  "schema_version": "2.0",
+  "document_id": 299097,
+  "metadata": {
+    "name": "Quyet-dinh-299-QD-KTNN-2023-quan-ly-su-dung-Cong-trao-doi-thong-tin-Kiem-toan-Nha-nuoc-560475",
+    "link": "https://thuvienphapluat.vn/van-ban/Ke-toan-Kiem-toan/Quyet-dinh-299-QD-KTNN-2023-quan-ly-su-dung-Cong-trao-doi-thong-tin-Kiem-toan-Nha-nuoc-560475.aspx",
+    "issuing_agency": "KIỂM TOÁN NHÀ NƯỚC",
+    "national_header": "CỘNG HÒA XÃ HỘI\r\n\n  CHỦ NGHĨA VIỆT NAM",
+    "motto": "Độc lập - Tự do - Hạnh phúc",
+    "document_number": "299/QĐ-KTNN",
+    "issued_place": "Hà Nội",
+    "issued_date": "ngày 24\r\n\n  tháng 3 năm 2023",
+    "document_type": "QUYẾT ĐỊNH",
+    "title": "BAN HÀNH QUY CHẾ QUẢN LÝ, KHAI THÁC VÀ SỬ DỤNG CỔNG TRAO ĐỔI THÔNG TIN CỦA KIỂM TOÁN NHÀ NƯỚC TỔNG KIỂM TOÁN NHÀ NƯỚC"
+  },
+  "administrative_header": {
+    "removed": true,
+    "removed_char_count": 154
+  },
+  "preamble": {
+    "text": "QUYẾT ĐỊNH BAN\nHÀNH QUY CHẾ QUẢN LÝ, KHAI THÁC VÀ SỬ DỤNG CỔNG TRAO ĐỔI THÔNG TIN CỦA KIỂM TOÁN\nNHÀ NƯỚC TỔNG KIỂM TOÁN NHÀ NƯỚC\nCăn cứ Luật Kiểm toán nhà nước ngày 24 tháng 6 năm 2015; Luật sửa đổi, bổ sung một số điều của Luật Kiểm toán nhà nước ngày 26 tháng 11 năm 2019; Căn cứ Luật Công nghệ thông tin ngày 29 tháng 6 năm 2006; Căn cứ Quyết định số 220/QĐ-KTNN ngày 02 tháng 3 năm 2023 của Tổng Kiểm toán nhà nước ban hành Quy chế soạn thảo, thẩm định, ban hành văn bản quy phạm pháp luật và văn bản quản lý của Kiểm toán nhà nước; Theo đề nghị của Giám đốc Trung tâm Tin học.\nQUYẾT ĐỊNH:",
+    "legal_bases": [
+      "Căn cứ Luật Công nghệ thông tin ngày 29 tháng 6 năm 2006",
+      "Căn cứ Quyết định số 220/QĐ-KTNN ngày 02 tháng 3 năm 2023 của Tổng Kiểm toán nhà nước ban hành Quy chế soạn thảo, thẩm định, ban hành văn bản quy phạm pháp luật và văn bản quản lý của Kiểm toán nhà nước"
+    ],
+    "proposals": [
+      "Theo đề nghị của Giám đốc Trung tâm Tin học.\nQUYẾT ĐỊNH:"
+    ],
+    "enactment_formula": "QUYẾT ĐỊNH:"
+  },
+  "passage": "QUYẾT ĐỊNH BAN\nHÀNH QUY CHẾ QUẢN LÝ, KHAI THÁC VÀ SỬ DỤNG CỔNG TRAO ĐỔI THÔNG TIN CỦA KIỂM TOÁN\nNHÀ NƯỚC TỔNG KIỂM TOÁN NHÀ NƯỚC\nCăn cứ Luật Kiểm toán nhà nước ngày 24 tháng 6 năm 2015; Luật sửa đổi, bổ sung một số điều của Luật Kiểm toán nhà nước ngày 26 tháng 11 năm 2019; Căn cứ Luật Công nghệ thông tin ngày 29 tháng 6 năm 2006; Căn cứ Quyết định số 220/QĐ-KTNN ngày 02 tháng 3 năm 2023 của Tổng Kiểm toán nhà nước ban hành Quy chế soạn thảo, thẩm định, ban hành văn bản quy phạm pháp luật và văn bản quản lý của Kiểm toán nhà nước; Theo đề nghị của Giám đốc Trung tâm Tin học.\nQUYẾT ĐỊNH:\nĐiều 1. Ban hành kèm theo Quyết định này Quy chế quản lý, khai thác và sử dụng Cổng trao đổi thông tin của Kiểm toán nhà nước.\nĐiều 2. Quyết định này có hiệu lực thi hành kể từ ngày ký.\nĐiều 3. Chánh Văn phòng Kiểm toán nhà nước, Giám đốc Trung tâm Tin học, Thủ trưởng các đơn vị trực thuộc Kiểm toán nhà nước và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này./.\nNơi nhận:\n- Như Điều 3;\n- Các bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ;\n- UBND các tỉnh, thành phố trực thuộc TW;\n- Viện KSND tối cao, Tòa án nhân dân tối cao;\n- Ủy ban Quản lý vốn nhà nước tại doanh nghiệp;\n- Các Tập đoàn kinh tế, Tổng công ty 91;\n- Lãnh đạo Kiểm toán nhà nước;\n- Các đơn vị trực thuộc KTNN;\n- Lưu: VT, TTTH (2).\nTỔNG KIỂM TOÁN\nNHÀ NƯỚC\nNgô Văn Tuấn\nQUY CHẾ\nQUẢN\nLÝ, KHAI THÁC VÀ SỬ DỤNG CỔNG TRAO ĐỔI THÔNG TIN CỦA KIỂM TOÁN NHÀ NƯỚC\n(Ban hành kèm theo Quyết định số 299/QĐ-KTNN ngày 24 tháng 3 năm 2023 của Tổng\nKiểm toán nhà nước)\nChương I\nQUY ĐỊNH CHUNG\nĐiều 1. Phạm vi điều chỉnh, đối tượng áp dụng\n1. Quy chế này quy định trách nhiệm, quyền hạn của\ncác đơn vị trực thuộc Kiểm toán nhà nước và các đơn vị được kiểm toán, các cơ quan, tổ chức có liên quan đến hoạt động kiểm toán nhà nước trong việc cung cấp, quản lý, khai thác và sử dụng Cổng trao đổi thông tin của Kiểm toán nhà nước.\n2. Quy chế này áp dụng với các đơn vị trực thuộc Kiểm\ntoán nhà nước; cán bộ, công chức, viên chức và người lao động (sau đây gọi tắt là công chức) của các đơn vị trực thuộc Kiểm toán nhà nước và các đơn vị được kiểm toán, các tổ chức, cơ quan có liên quan đến hoạt động kiểm toán nhà nước trong việc cung cấp, quản lý, khai thác và sử dụng Cổng trao đổi thông tin của Kiểm toán nhà nước.\nĐiều 2. Giải thích từ ngữ Trong Quy chế này, các từ ngữ dưới đây được hiểu như sau:\n1. Trung tâm dữ liệu của Kiểm toán nhà nước là một\ncông trình xây dựng, bao gồm hạ tầng kỹ thuật (nhà trạm, hệ thống cáp) và hệ thống máy tính cùng các thiết bị phụ trợ được lắp đặt vào đó để lưu trữ, trao đổi và quản lý tập trung dữ liệu của Kiểm toán nhà nước.\n2. Cổng trao đổi thông tin của Kiểm toán nhà nước\n(sau đây gọi tắt là Cổng trao đổi thông tin) là phần mềm do Kiểm toán nhà nước xây dựng nhằm trao đổi dữ liệu điện tử giữa Kiểm toán nhà nước với các đơn vị được kiểm toán; các cơ quan, tổ chức có liên quan đến hoạt động kiểm toán nhà nước, Cổng trao đổi thông tin gồm hai trang web chính: Trang web dành cho đơn vị được kiểm toán và các cơ quan, tổ chức có liên quan đến hoạt động kiểm toán nhà nước: https://congtdtt.sav.gov.vn/; Trang web dành cho Kiểm toán nhà nước: https://congktv.sav.gov.vn/.\n3. Tài liệu định kỳ: là báo cáo tài chính, báo cáo\nquyết toán ngân sách, dự toán kinh phí của đơn vị được kiểm toán cung cấp cho Kiểm toán nhà nước theo quy định tại Điều 58 Luật Kiểm toán nhà nước ngày 24/6/2015 và Quyết định số 03/2019/QĐ-KTNN ngày 16/9/2019 của Tổng Kiểm toán nhà nước quy định trách nhiệm gửi báo cáo tài chính, báo cáo quyết toán ngân sách, dự toán kinh phí của các đơn vị được kiểm toán.\n4. Các nhóm thông tin chính trên Cổng trao đổi\nthông tin của Kiểm toán nhà nước bao gồm:\na) Nhóm Thông tin chung: là các thông tin về đơn vị\nđược kiểm toán (bao gồm các thông tin chung; thông tin tài chính; thông tin dự án; thông tin về tình hình thanh tra, kiểm toán; thông tin kiểm soát nội bộ; thông tin về tài khoản đã cấp cho đơn vị; ...), thông tin tài liệu định kỳ và thông tin đơn vị được kiểm toán cung cấp trong quá trình khảo sát lập kế hoạch kiểm toán.\nb) Nhóm Thông tin theo cuộc kiểm toán: là thông tin\ntrong quá trình thực hiện cuộc kiểm toán.\nc) Nhóm Thông tin theo dõi, thực hiện kết luận, kiến\nnghị.\nd) Nhóm Thông tin khiếu nại, khởi kiện, trả lời kiến\nnghị trong hoạt động kiểm toán.\nđ) Nhóm Thông tin khác: là thông tin về kế hoạch kiểm\ntoán, thông báo kết quả kiểm toán.\n5. Đơn vị được phân công kiểm toán: là đơn vị trực\nthuộc Kiểm toán nhà nước được Tổng Kiểm toán nhà nước phân công kiểm toán các Bộ, ngành, cơ quan trung ương, các địa phương và các đối tượng kiểm toán khác trên cơ sở chức năng, nhiệm vụ và quyền hạn của các đơn vị.\n6. Đơn vị chủ trì cuộc kiểm toán: là đơn vị trực\nthuộc Kiểm toán nhà nước được Tổng Kiểm toán nhà nước giao chủ trì thực hiện cuộc kiểm toán.\n7. Tài khoản định danh người dùng trực thuộc Kiểm\ntoán nhà nước: là tài khoản được Kiểm toán nhà nước cấp cho người dùng của Kiểm toán nhà nước để đăng nhập vào khai thác, sử dụng hoặc quản trị phần mềm. Tùy theo vị trí và quyền hạn, tài khoản người dùng được cấp một hoặc nhiều quyền khác nhau, có các loại quyền sau:\na) Quyền quản trị phần mềm: là quyền cấp cho người\ndùng của bộ phận quản trị phần mềm để quản trị, vận hành, cấp quyền hoặc cập nhật quyền người dùng; thiết lập các tham số hệ thống của phần mềm.\nb) Quyền quản trị đơn vị: là quyền cấp cho người\ndùng thuộc bộ phận quản trị của đơn vị trực thuộc Kiểm toán nhà nước để phân quyền cho công chức của đơn vị mình.\nc) Quyền cập nhật, khai thác: là quyền được cấp cho\nngười dùng của Kiểm toán nhà nước thực hiện cập nhật, khai thác, sử dụng thông tin, tài liệu trên Cổng trao đổi thông tin của Kiểm toán nhà nước phục vụ hoạt động quản lý, chuyên môn theo quy định.\n8. Tài khoản định danh của đơn vị được kiểm toán và\ncác cơ quan, tổ chức có liên quan đến hoạt động kiểm toán nhà nước: là tài khoản được Kiểm toán nhà nước cấp cho cá nhân của đơn vị được kiểm toán và các cơ quan, tổ chức, đơn vị có liên quan đến hoạt động kiểm toán nhà nước. Tài khoản định danh của đơn vị được kiểm toán và các cơ quan, tổ chức có liên quan đến hoạt động kiểm toán nhà nước được cấp trên Cổng trao đổi thông tin bao gồm các loại tài khoản: Tài khoản thủ trưởng đơn vị, Tài khoản cá nhân đầu mối và Tài khoản theo cuộc kiểm toán. Các loại tài khoản tương ứng với các quyền sau:\na) Quyền Thủ trưởng đơn vị: là quyền do Kiểm toán\nnhà nước cấp cho Thủ trưởng của đơn vị, được quyền khai thác toàn bộ các nhóm thông tin của đơn vị mình trên Cổng trao đổi thông tin và được quyền bổ sung, hủy bỏ các quyền của các tài khoản khác thuộc đơn vị mình.\nb) Quyền cung cấp tài liệu định kỳ: là quyền do Kiểm\ntoán nhà nước cấp cho cá nhân được giao đầu mối gửi tài liệu định kỳ, khai thác các thông tin, tài liệu thuộc nhóm Thông tin chung, nhóm Thông tin khác của đơn vị mình trên Cổng trao đổi thông tin.\nc) Quyền cung cấp tài liệu theo cuộc kiểm toán: là\nquyền do Kiểm toán nhà nước cấp cho cá nhân được giao cung cấp tài liệu theo cuộc kiểm toán, tài liệu thực hiện kết luận, kiến nghị kiểm toán và khai thác nhóm Thông tin theo cuộc kiểm toán, nhóm Thông tin theo dõi thực hiện kết luận, kiến nghị, nhóm thông tin khác của đơn vị mình trên Cổng trao đổi thông tin.\nĐiều 3. Các hành vi bị nghiêm cấm Việc áp dụng và xử lý các hành vi bị nghiêm cấm trong quản lý, khai thác và sử dụng Cổng trao đổi thông tin theo các quy định của Luật Công nghệ thông tin, Luật An toàn thông tin mạng và các luật khác có liên quan của Nhà nước và một số hành vi sau:\n1. Phá hoại hệ thống cơ sở hạ tầng thông tin hoặc cản\ntrở quá trình vận hành, duy trì ổn định, liên tục của Cổng trao đổi thông tin.\n2. Truy cập bất hợp pháp, thay đổi dữ liệu không\nđúng thẩm quyền làm sai lệch hoặc phá hủy dữ liệu trên Cổng trao đổi thông tin.\n3. Tự ý xóa bỏ, tháo gỡ, thay đổi thông số thiết lập\ncủa Cổng trao đổi thông tin gây xung đột tài nguyên, ảnh hưởng đến việc vận hành các phần mềm và cơ sở dữ liệu khác được cài đặt trong hệ thống mạng của Kiểm toán nhà nước.\n4. Sử dụng, lợi dụng phần mềm, dữ liệu của Cổng\ntrao đổi thông tin vào các mục đích không thuộc phạm vi, chức năng, nhiệm vụ được phân công; cung cấp, phát tán thông tin trái với quy định của Kiểm toán nhà nước và pháp luật hiện hành.\n5. Tiết lộ tài khoản, các quy tắc sử dụng, danh\nsách người sử dụng, sơ đồ tổ chức hệ thống, thông tin dữ liệu của Cổng trao đổi thông tin cho các tổ chức, cá nhân không có thẩm quyền.\nChương II\nQUẢN LÝ, VẬN HÀNH, SỬ DỤNG\nCỔNG TRAO ĐỔI THÔNG TIN\nĐiều 4. Nguyên tắc quản lý, vận hành và sử dụng Cổng trao đổi thông tin\n1. Hoạt động cài đặt, quản lý, vận hành và sử dụng\nCổng trao đổi thông tin phải đảm bảo tuân thủ các quy định của Luật Công nghệ thông tin, Luật An toàn thông tin mạng, quy định của Kiểm toán nhà nước và các văn bản liên quan.\n2. Cổng trao đổi thông tin được quản lý tập trung,\nthống nhất tại Trung tâm dữ liệu Kiểm toán nhà nước, vận hành thông qua hệ thống mạng Internet, đảm bảo hoạt động liên tục, ổn định, an toàn và bảo mật thông tin.\n3. Cổng trao đổi thông tin được quản lý, vận hành đảm\nbảo nguyên tắc đề cao trách nhiệm công chức của Kiểm toán nhà nước và các đơn vị, tổ chức, cá nhân có liên quan đến hoạt động kiểm toán nhà nước, góp phần nâng cao hiệu quả hoạt động của Cổng trao đổi thông tin.\n4. Bảo đảm hệ thống cơ sở hạ tầng thông tin, các\nthiết bị có liên quan và môi trường cho việc cài đặt, vận hành Cổng trao đổi thông tin.\nĐiều 5. Nâng cấp, mở rộng, bảo trì phần mềm Việc nâng cấp, mở rộng, bảo trì Cổng trao đổi thông tin được thực hiện định kỳ hàng năm hoặc đột xuất khi có đề xuất từ người sử dụng và phải tuân thủ theo quy định tại Quyết định số 1077/QĐ-KTNN ngày 18/6/2021 của Tổng Kiểm toán nhà nước về Quy chế phát triển và bảo trì phần mềm nội bộ của Kiểm toán nhà nước và các quy định liên quan.\nĐiều 6. Đảm bảo an toàn, bảo mật thông tin\n1. Thực hiện các hoạt động kiểm tra, giám sát để cảnh\nbáo các hành vi xâm phạm an toàn Cổng trao đổi thông tin.\n2. Sử dụng các kênh mã hóa và xác thực người dùng cho\ncác hoạt động: đăng nhập hệ thống, thay đổi thông tin người dùng, gửi nhận dữ liệu giữa các máy chủ, sao lưu dữ liệu, cập nhật và biên tập dữ liệu.\n3. Áp dụng các biện pháp bảo đảm tính xác thực và bảo\nvệ sự toàn vẹn của dữ liệu trong Cổng trao đổi thông tin.\n4. Thực hiện việc lưu trữ lịch sử các hoạt động của\nngười sử dụng truy cập vào Cổng trao đổi thông tin; thay đổi thông tin, quyền hạn người dùng; tạo mới, cập nhật thông tin và các nghiệp vụ khác trên Cổng trao đổi thông tin.\n5. Thiết lập và duy trì hệ thống dự phòng nhằm đảm\nbảo Cổng trao đổi thông tin hoạt động liên tục.\n6. Đảm bảo an toàn, an ninh thông tin, ngăn ngừa mã\nđộc, phần mềm gián điệp,.. tấn công vào Cổng trao đổi thông tin.\n7. Thực hiện các biện pháp cần thiết khác để đảm bảo\nan toàn, bảo mật của Cổng trao đổi thông tin.\nĐiều 7. Phân quyền, quản lý tài khoản định danh người dùng\n1. Phân quyền tài khoản\na) Tài khoản Tổng Kiểm toán nhà nước, các Phó Tổng\nKiểm toán nhà nước, Thủ trưởng đơn vị trực thuộc Kiểm toán nhà nước do bộ phận quản trị phần mềm phân quyền và tài khoản quản trị đơn vị thuộc Kiểm toán nhà nước do bộ phận quản trị phần mềm phân quyền.\nb) Tài khoản của công chức thuộc các đơn vị được\nphân công kiểm toán, đơn vị chủ trì cuộc kiểm toán, đơn vị tham mưu có liên quan đến hoạt động kiểm toán do bộ phận quản trị đơn vị phân quyền sau khi được Thủ trưởng đơn vị phê duyệt.\nc) Tài khoản của công chức thuộc các đơn vị trực\nthuộc khác do bộ phận quản trị phần mềm phân quyền khi nhận được văn bản đề nghị của đơn vị và được Tổng Kiểm toán nhà nước phê duyệt.\nd) Tài khoản của đơn vị được kiểm toán và các cơ\nquan, tổ chức có liên quan đến hoạt động kiểm toán (Tài khoản thủ trưởng đơn vị; Tài khoản cá nhân đầu mối; Tài khoản theo cuộc kiểm toán) do bộ phận quản trị phần mềm cấp và phân quyền sau khi nhận được văn bản đăng ký của đơn vị.\n2. Quản lý tài khoản\na) Giám đốc Trung tâm Tin học phân công và tổ chức\ngiám sát tình hình thực hiện nhiệm vụ, trách nhiệm của quản trị phần mềm. Công chức được phân quyền để thực hiện việc quản trị phần mềm chịu trách nhiệm trước Giám đốc Trung tâm Tin học về việc sử dụng quyền đúng chức trách nhiệm vụ.\nb) Đơn vị trực thuộc Kiểm toán nhà nước có liên\nquan đến hoạt động kiểm toán được cấp quyền quản trị đơn vị để thực hiện nhiệm vụ quy định tại Điều 13 Quy chế này. Thủ trưởng đơn vị có trách nhiệm phân công và tổ chức giám sát việc sử dụng quyền của quản trị đơn vị. Công chức được phân quyền quản trị đơn vị thực hiện nhiệm vụ theo quy định tại Quy chế này, chịu trách nhiệm trước Thủ trưởng đơn vị về việc sử dụng quyền đúng chức trách nhiệm vụ.\nc) Các đơn vị đăng ký cấp quyền quản trị đơn vị\ntheo mẫu quy định tại Phụ lục 06 kèm theo Quyết định số 1152/QĐ-KTNN ngày 05/7/2021 của Tổng Kiểm toán nhà nước ban hành Quy chế quản lý và sử dụng tài khoản định danh của Kiểm toán nhà nước (sau đây gọi tắt là Quy chế ban hành kèm theo Quyết định số 1152/QĐ-KTNN) và gửi về Trung tâm Tin học để được cấp quyền.\nd) Thủ trưởng đơn vị liên quan đến hoạt động kiểm\ntoán có trách nhiệm phê duyệt quyền khai thác thông tin cho công chức thuộc đơn vị mình. Công chức được phân quyền khai thác thông tin thực hiện nhiệm vụ theo quy định tại Quy chế này, chịu trách nhiệm trước Thủ trưởng đơn vị về việc sử dụng quyền đúng chức trách nhiệm vụ.\nđ) Thủ trưởng đơn vị được kiểm toán và các cơ quan,\ntổ chức có liên quan đến hoạt động kiểm toán nhà nước có trách nhiệm quản lý, sử dụng quyền của các tài khoản đã được cấp. Cá nhân được phân quyền thực hiện nhiệm vụ theo quy định tại Quy chế này, chịu trách nhiệm bảo mật tài khoản và sử dụng quyền được cấp theo quy định của Kiểm toán nhà nước và pháp luật.\ne) Các đơn vị được kiểm toán và các cơ quan, tổ chức\ncó liên quan đến hoạt động kiểm toán nhà nước đăng ký tài khoản định danh theo quy định tại Quy chế ban hành kèm theo Quyết định số 1152/QĐ-KTNN (mẫu đăng ký theo Phụ lục tại Quy chế này) và gửi về Trung tâm Tin học.\n3. Quy trình đăng ký cấp mới, thay đổi, hủy bỏ tài khoản\nQuy trình đăng ký, cấp mới, thay đổi, thu hồi, hủy bỏ tài khoản thực hiện theo quy định tại Quy chế ban hành kèm theo Quyết định số\n1152/QĐ-KTNN.\nChương III\nCẬP NHẬT, KHAI THÁC CỔNG TRAO ĐỔI THÔNG TIN\nĐiều 8. Nguyên tắc cập nhật, khai thác Cổng trao đổi thông tin\n1. Việc cập nhật thông tin trên Cổng trao đổi thông\ntin phải đảm bảo đầy đủ, chính xác, kịp thời phục vụ cho hoạt động kiểm toán. Các đơn vị được kiểm toán và các cơ quan, tổ chức có liên quan đến hoạt động kiểm toán nhà nước thực hiện cập nhật, khai thác thông tin theo địa chỉ truy cập: https://congtdtt.sav.gov.vn/. Các đơn vị trực thuộc Kiểm toán nhà nước khai thác thông tin theo địa chỉ truy cập: https://congktv.sav.gov.vn/.\n2. Việc trao đổi thông tin giữa Kiểm toán nhà nước\nvà đơn vị được kiểm toán, các cơ quan, tổ chức có liên quan đến hoạt động kiểm toán nhà nước phải tuân thủ các quy định của pháp luật về an toàn thông tin, an ninh mạng.\n3. Thông tin được cập nhật, khai thác trên Cổng\ntrao đổi thông tin không bao gồm tài liệu chứa bí mật Nhà nước.\n4. Thông tin của đơn vị được kiểm toán và các cơ\nquan, tổ chức có liên quan đến hoạt động kiểm toán nhà nước cung cấp thông tin Cổng trao đổi thông tin được Kiểm toán nhà nước khai thác, sử dụng trong hoạt động kiểm toán.\n5. Công chức của Kiểm toán nhà nước và các tổ chức,\ncá nhân được Kiểm toán nhà nước cấp tài khoản có trách nhiệm khai thác, sử dụng Cổng trao đổi thông tin đúng mục đích, nhiệm vụ được phân công và tuân thủ các quy định tại Quy chế này.\nĐiều 9. Việc cung cấp, cập nhật, khai thác thông tin của đơn vị được kiểm toán và các cơ quan, tổ chức có liên quan đến hoạt động kiểm toán nhà nước\n1. Các đơn vị được kiểm toán và các cơ quan, tổ chức\ncó liên quan đến hoạt động kiểm toán nhà nước chủ động rà soát, cập nhật thông tin trên Cổng trao đổi thông tin. Khi thông tin có sự thay đổi, cần cập nhật lại trong phạm vi không quá 10 ngày và chịu trách nhiệm về sự chính xác của thông tin.\n2. Cung cấp các tài liệu định kỳ, tài liệu khảo\nsát, tài liệu liên quan đến việc thực hiện kết luận, kiến nghị của Kiểm toán nhà nước qua Cổng trao đổi thông tin.\n3. Khai thác thông tin về Kế hoạch kiểm toán hàng\nnăm; Thông báo kết quả kiểm toán; Tình hình thực hiện kết luận, kiến nghị kiểm toán; Thông tin khiếu nại, khởi kiện, trả lời kiến nghị trong hoạt động kiểm toán và các thông tin đơn vị được kiểm toán đã cung cấp cho Kiểm toán nhà nước trên Cổng trao đổi thông tin.\nĐiều 10. Trách nhiệm của Đơn vị được phân công kiểm toán\n1. Yêu cầu các đơn vị được kiểm toán tăng cường\ncung cấp tài liệu định kỳ, tài liệu khảo sát trong quá trình khảo sát lập kế hoạch kiểm toán trên Cổng trao đổi thông tin.\n2. Đôn đốc, yêu cầu các đơn vị được kiểm toán thuộc\nphạm vi được phân công kiểm toán đăng ký Tài khoản thủ trưởng đơn vị, Tài khoản cá nhân đầu mối và cập nhật thông tin trên Cổng trao đổi thông tin.\n3. Khai thác các thông tin của đơn vị được kiểm\ntoán được cập nhật trên Cổng trao đổi thông tin để phục vụ cho hoạt động kiểm toán theo chức năng, nhiệm vụ. Không yêu cầu đơn vị được kiểm toán cung cấp thông tin nếu đã có trên Cổng trao đổi thông tin (trừ trường hợp thiếu thông tin hoặc thông tin chưa chính xác).\nĐiều 11. Trách nhiệm của đơn vị chủ trì cuộc kiểm toán\n1. Yêu cầu các đơn vị được kiểm toán và các tổ chức,\ncá nhân có liên quan đến hoạt động kiểm toán nhà nước cung cấp thông tin, tài liệu của cuộc kiểm toán trên Cổng trao đổi thông tin.\n2. Đôn đốc, yêu cầu các đơn vị được kiểm toán, các\ncơ quan, tổ chức có liên quan đến hoạt động kiểm toán nhà nước đăng ký tài khoản theo cuộc kiểm toán và cập nhật thông tin trên Cổng trao đổi thông tin.\n3. Khai thác các thông tin của đơn vị được kiểm\ntoán được cập nhật trên Cổng trao đổi thông tin để phục vụ cho cuộc kiểm toán. Không yêu cầu đơn vị được kiểm toán cung cấp thông tin nếu đã có trên Cổng trao đổi thông tin (trừ trường hợp thiếu thông tin hoặc thông tin chưa chính xác).\nĐiều 12. Quyền khai thác thông tin và trách nhiệm quản lý của Lãnh đạo Kiểm toán nhà nước, Thủ trưởng đơn vị trực thuộc Kiểm toán nhà nước\n1. Tổng Kiểm toán nhà nước có quyền khai thác toàn\nbộ thông tin trên Cổng trao đổi thông tin.\n2. Phó Tổng Kiểm toán nhà nước được quyền khai thác\ntoàn bộ thông tin thuộc nhóm Thông tin chung; một số thông tin thuộc nhóm: Thông tin theo cuộc kiểm toán, Thông tin theo dõi, thực hiện kết luận, kiến nghị và Thông tin khiếu nại, khởi kiện, trả lời kiến nghị trong hoạt động kiểm toán được khai thác theo phạm vi phụ trách, quản lý.\n3. Thủ trưởng đơn vị được phân công kiểm toán, Thủ\ntrưởng đơn vị chủ trì cuộc kiểm toán được quyền khai thác toàn bộ thông tin thuộc nhóm Thông tin chung và các thông tin thuộc nhóm: Thông tin theo cuộc kiểm toán, Thông tin theo dõi, thực hiện kết luận, kiến nghị và Thông tin khiếu nại, khởi kiện, trả lời kiến nghị trong hoạt động kiểm toán được khai thác theo cuộc kiểm toán do đơn vị chủ trì thực hiện.\n4. Vụ trưởng các Vụ: Chế độ và Kiểm soát chất lượng\nkiểm toán, Tổng hợp, Pháp chế và Chánh Thanh tra Kiểm toán nhà nước được quyền khai thác toàn bộ thông tin thuộc nhóm Thông tin chung và nhóm Thông tin khiếu nại, khởi kiện, trả lời kiến nghị trong hoạt động kiểm toán.\n5. Thủ trưởng các đơn vị trực thuộc Kiểm toán nhà\nnước khác được khai thác thông tin theo đề xuất sau khi được Tổng Kiểm toán nhà nước phê duyệt.\nĐiều 13. Quyền khai thác thông tin của công chức Kiểm toán nhà nước và thành viên đoàn kiểm toán\n1. Công chức tại đơn vị chủ trì cuộc kiểm toán được\nquyền khai thác nhóm Thông tin chung và các thông tin thuộc nhóm: Thông tin theo cuộc kiểm toán, Thông tin theo dõi, thực hiện kết luận, kiến nghị; Thông tin khiếu nại, khởi kiện, trả lời kiến nghị trong hoạt động kiểm toán của các cuộc kiểm toán do đơn vị chủ trì thực hiện.\n2. Công chức tại đơn vị tham mưu có liên quan đến\nhoạt động kiểm toán (Vụ Chế độ và Kiểm soát chất lượng kiểm toán, Vụ Tổng hợp, Vụ Pháp chế, Thanh tra Kiểm toán nhà nước...) được quyền khai thác nhóm Thông tin chung và các thông tin thuộc nhóm: Thông tin theo dõi, thực hiện kết luận, kiến nghị; Thông tin khiếu nại, khởi kiện, trả lời kiến nghị trong hoạt động kiểm toán.\n3. Công chức đơn vị trực thuộc khác có nhu cầu khai\nthác thông tin trên Cổng trao đổi thông tin thực hiện báo cáo Thủ trưởng đơn vị, trình Tổng Kiểm toán nhà nước xem xét, phê duyệt.\n4. Công chức là thành viên đoàn kiểm toán được quyền\nkhai thác nhóm Thông tin theo cuộc kiểm toán trong thời gian thực hiện cuộc kiểm toán.\nĐiều 14. Quyền khai thác của đơn vị được kiểm toán và các cơ quan, tổ chức có liên quan đến hoạt động kiểm toán nhà nước Tại đơn vị được kiểm toán và các cơ quan, tổ chức có liên quan đến hoạt động kiểm toán nhà nước được cấp tài khoản và quyền khai thác thông tin như sau:\n1. Tài khoản thủ trưởng đơn vị: được cấp để khai\nthác nhóm Thông tin chung và nhóm Thông tin theo cuộc kiểm toán, nhóm Thông tin theo dõi, thực hiện kết luận, kiến nghị, nhóm Thông tin khiếu nại, khởi kiện, trả lời kiến nghị trong hoạt động kiểm toán và nhóm Thông tin khác.\n2. Tài khoản cá nhân đầu mối: được cấp để khai thác\nnhóm Thông tin chung và nhóm Thông tin khác.\n3. Tài khoản theo cuộc kiểm toán: được cấp để khai\nthác nhóm Thông tin theo cuộc kiểm toán, nhóm Thông tin theo dõi, thực hiện kết luận, kiến nghị và nhóm Thông tin khác.\nĐiều 15. Quyền khai thác của các tổ chức, cá nhân khác\n1. Tổng Kiểm toán nhà nước xem xét, quyết định việc\ncấp quyền khai thác cho các tổ chức, cá nhân khác. Căn cứ vào văn bản được Tổng Kiểm toán nhà nước phê duyệt, Trung tâm Tin học cấp tài khoản và quyền tương ứng trên Cổng trao đổi thông tin.\n2. Các tổ chức, cá nhân được cấp tài khoản phải\ntuân thủ các quy định của pháp luật, của Kiểm toán nhà nước về khai thác thông tin của Kiểm toán nhà nước, sử dụng thông tin đúng mục đích và có trách nhiệm quản lý, bảo mật tài khoản được cấp, không vi phạm các hành vi bị cấm được quy định tại Quy chế này.\nChương IV\nTỔ CHỨC THỰC HIỆN\nĐiều 16. Trách nhiệm của đơn vị trực thuộc Kiểm toán nhà nước\n1. Thực hiện quản lý, khai thác và sử dụng Cổng\ntrao đổi thông tin theo quy định tại Quy chế này.\n2. Cử đầu mối phối hợp với Trung tâm Tin học để tiếp\nnhận, xử lý các yêu cầu nghiệp vụ liên quan đến việc triển khai Cổng trao đổi thông tin theo chức năng, nhiệm vụ.\n3. Trong quá trình sử dụng Cổng trao đổi thông tin,\ncác đơn vị kịp thời phản ánh các khó khăn, vướng mắc và đề xuất các yêu cầu điều chỉnh, bổ sung các chức năng của Cổng trao đổi thông tin (nếu có) về Trung tâm Tin học để làm cơ sở nâng cấp, mở rộng Cổng trao đổi thông tin (nếu cần thiết).\n4. Trường Đào tạo và bồi dưỡng nghiệp vụ kiểm toán\nchủ trì, phối hợp với Trung tâm Tin học tổ chức đào tạo hướng dẫn sử dụng Cổng trao đổi thông tin khi có yêu cầu của các đơn vị.\n5. Văn phòng Kiểm toán nhà nước chủ trì, phối hợp với\nTrung tâm Tin học tham mưu, đề xuất Tổng Kiểm toán nhà nước trong việc bố trí kinh phí đảm bảo duy trì hoạt động, nâng cấp, mở rộng Cổng trao đổi thông tin, bổ sung hạ tầng kỹ thuật để đảm bảo Cổng trao đổi thông tin hoạt động an toàn, ổn định, hiệu quả.\n6. Thủ trưởng các đơn vị có trách nhiệm triển khai\nthực hiện các nội dung của Quy chế này đến công chức của đơn vị, tổ chức kiểm tra, đôn đốc việc cập nhật, khai thác và sử dụng thông tin theo đúng quy định của\nQuy chế này.\n7. Các đơn vị trực thuộc Kiểm toán nhà nước căn cứ\nchức năng nhiệm vụ của đơn vị mình có trách nhiệm phối hợp với Trung tâm Tin học trong việc quản lý, triển khai áp dụng Cổng trao đổi thông tin, định kỳ trước ngày 31/12 hàng năm (hoặc đột xuất) đơn vị có trách nhiệm báo cáo Tổng Kiểm toán nhà nước (qua Trung tâm Tin học) tình hình sử dụng Cổng trao đổi thông tin.\nĐiều 17. Trung tâm Tin học\n1. Quản lý, vận hành Cổng trao đổi thông tin đảm bảo\nhoạt động hiệu quả, ổn định, liên tục, an toàn và bảo mật thông tin theo quy định tại Quy chế này.\n2. Tiếp nhận, xử lý và tổng hợp yêu cầu của các đơn\nvị trực thuộc, đơn vị được kiểm toán và các cơ quan, tổ chức có liên quan đến hoạt động kiểm toán nhà nước trong quá trình khai thác, sử dụng Cổng trao đổi thông tin; phân tích, đánh giá các yêu cầu và thực hiện nâng cấp, mở rộng Cổng trao đổi thông tin (nếu cần thiết).\n3. Thực hiện rà soát, phê duyệt cấp tài khoản cho\nđơn vị được kiểm toán, các cơ quan, tổ chức có liên quan đến hoạt động kiểm toán nhà nước theo đăng ký trên Cổng trao đổi thông tin.\n4. Phối hợp với các đơn vị liên quan tổ chức đào tạo,\nhướng dẫn sử dụng phần mềm.\n5. Chủ trì, phối hợp với các đơn vị liên quan\nnghiên cứu, đề xuất giải pháp và kinh phí duy trì hoạt động, nâng cấp, phát triển Cổng trao đổi thông tin, bổ sung hạ tầng kỹ thuật để đảm bảo Cổng trao đổi thông tin hoạt động an toàn, ổn định, hiệu quả.\n6. Định kỳ hàng năm (hoặc đột xuất) báo cáo Tổng Kiểm\ntoán nhà nước tình hình quản lý, khai thác và sử dụng Cổng trao đổi thông tin.\n7. Thực hiện quản trị và hỗ trợ các đơn vị sử dụng\nCổng trao đổi thông tin, thông báo cho các đơn vị về sự cố hoặc nguy cơ xảy ra sự cố hoặc lịch bảo trì, nâng cấp hệ thống có ảnh hưởng đến việc quản lý và sử dụng Cổng trao đổi thông tin; tổ chức thực hiện quy trình khắc phục sự cố khi sự cố xảy ra.\n8. Kiểm tra và đề xuất giải pháp đảm bảo an toàn và\nbảo mật dữ liệu theo quy định hiện hành.\n9. Tổ chức kiểm tra, giám sát, theo dõi việc khai\nthác, sử dụng Cổng trao đổi thông tin.\n10. Định kỳ tổ chức sao lưu dữ liệu của Cổng trao đổi\nthông tin theo quy định. Tổ chức việc tích hợp, đồng bộ dữ liệu có liên quan với nhau giữa hệ thống các phần mềm.\nĐiều 18. Trách nhiệm của đơn vị được kiểm toán và các cơ quan, tổ chức có liên quan đến hoạt động kiểm toán nhà nước\n1. Tổ chức thực hiện quản lý, khai thác và sử dụng\nCổng trao đổi thông tin theo quy định tại Quy chế này.\n2. Quản lý, đảm bảo an toàn, bảo mật thông tin tài khoản\nvà cung cấp kịp thời, đầy đủ thông tin, tài liệu trên Cổng trao đổi thông tin và chịu trách nhiệm về tính chính xác, thống nhất của các thông tin, tài liệu đã được cập nhật, cung cấp.\n3. Phối hợp với Kiểm toán nhà nước trong việc triển\nkhai, vận hành hệ thống Cổng trao đổi thông tin, kịp thời thông báo cho Kiểm toán nhà nước khi phát sinh sự cố.\nĐiều 19. Trách nhiệm của cá nhân\n1. Công chức Kiểm toán nhà nước và các cá nhân được\ncấp tài khoản có trách nhiệm khai thác, sử dụng Cổng trao đổi thông tin đúng mục đích, nhiệm vụ được phân công và tuân thủ các quy định tại Quy chế này.\n2. Công chức Kiểm toán nhà nước và các cá nhân khai\nthác, sử dụng Cổng trao đổi thông tin kịp thời thông báo tới bộ phận quản trị phần mềm ngay khi xảy ra các trường hợp sau:\na) Gặp các sự cố không thể truy cập vào Cổng trao đổi\nthông tin hoặc gặp lỗi phần mềm, các vướng mắc phát sinh trong quá trình sử dụng;\nb) Phát hiện nguy cơ bị phá hoại hoặc bị đột nhập;\nc) Phát hiện nguy cơ lộ thông tin tài khoản hoặc dữ\nliệu;\nd) Quên hoặc mất mật khẩu;\nđ) Đề xuất cải tiến, hoàn thiện phần mềm.\nĐiều 20. Xử lý vi phạm\n1. Thủ trưởng đơn vị có trách nhiệm tạm dừng quyền\ntruy cập khi phát hiện công chức của đơn vị mình vi phạm quy định trong quá trình sử dụng; nếu tài khoản và quyền truy cập của công chức đó do bộ phận quản trị phần mềm cấp thì có đề xuất kịp thời với Trung tâm tin học để xử lý.\n2. Bất kỳ đơn vị, tổ chức, cá nhân có hành vi vi phạm\nquy định của Quy chế này, tùy theo tính chất, mức độ vi phạm mà bị xử lý kỷ luật, xử lý vi phạm hành chính hoặc bị truy cứu trách nhiệm hình sự, nếu gây thiệt hại thì phải bồi thường theo quy định của Kiểm toán nhà nước và quy định pháp luật có liên quan.\nĐiều 21. Tổ chức thực hiện\n1. Trung tâm Tin học chủ trì tổ chức triển khai, hướng\ndẫn thực hiện Quy chế này.\n2. Thủ trưởng các đơn vị trực thuộc Kiểm toán nhà\nnước chịu trách nhiệm về việc tổ chức triển khai thực hiện Quy chế này trong phạm vi quản lý của đơn vị.\n3. Khi các văn bản quy phạm pháp luật, văn bản quản\nlý dẫn chiếu tại Quy chế này được sửa đổi, bổ sung hoặc thay thế bằng văn bản khác thì áp dụng theo các văn bản sửa đổi bổ sung, thay thế.\n4. Trong quá trình thực hiện nếu có khó khăn vướng\nmắc, các đơn vị kịp thời phản ánh về Trung tâm Tin học để tổng hợp, báo cáo Tổng Kiểm toán Nhà nước xem xét, quyết định./.\nPHỤ LỤC\nMẪU ĐĂNG KÝ TÀI KHOẢN\n(Kèm theo Quyết định số 299/QĐ-KTNN ngày 24 tháng 3 năm 2023 của Tổng Kiểm toán nhà nước)\nTÊN ĐƠN VỊ CẤP TRÊN <<TÊN ĐƠN VỊ>>1\n-------\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc --------------- Số: ……………. V/v: Đăng ký tài khoản Địa điểm2, ngày tháng năm Kính gửi: Kiểm toán nhà nước Để sử dụng hệ thống Cổng trao đổi thông tin của Kiểm toán nhà nước, <<TÊN ĐƠN VỊ>> đề nghị Kiểm toán nhà nước cấp tài khoản truy cập, thông tin cụ thể như sau:\n1. Thông tin đơn vị:\n- Mã đơn vị3: - Địa bàn: - Tên đơn vị: - Mã chương: - Tên đơn vị cấp trên:\n2. Thông tin liên hệ:\n- Email4: - Địa chỉ: - Điện thoại:\n3. Thông tin tài khoản:\nTT\nHọ tên\nCMND/ CCCD\nVụ/Phòng ban Chức vụ Điện thoại Email Thời gian hiệu lực Ghi chú Từ ngày Đến ngày Nguyễn Văn A Tập đoàn VNPT Tổng Giám đốc xxxxxx nva@vnpt.vn Nguyễn Thị B Ban Tài chính Trưởng ban xxxxxx ntb@vnpt.vn … □ Đăng ký lần đầu □ Đăng ký thay đổi, bổ sung thông tin □ Đăng ký tài khoản theo cuộc □ Đăng ký ngừng □ Đăng ký mở khóa tài khoản *Lưu ý: - Đăng ký tài khoản theo cuộc chỉ áp dụng trong trường hợp đơn vị trao đổi, cung cấp nội dung liên quan đến cuộc kiểm toán. Đơn vị đăng ký tài khoản theo cuộc cần ghi rõ cuộc kiểm toán cần trao đổi tại cột Ghi chú; - Trường hợp đơn vị đăng ký ngừng sử dụng tài khoản thì nêu rõ lý do ngừng sử dụng tại cột Ghi chú; - Trường hợp đơn vị đăng ký mở khóa tài khoản thì nêu rõ lý do đề nghị mở khóa sử dụng tại cột Ghi chú.\nNơi nhận:\n- Như trên;\n- Trung tâm Tin học - KTNN;\n- Lưu: ……\nTHỦ TRƯỞNG ĐƠN VỊ\n____________________\n1 Tên đơn vị đăng ký\n2 Tỉnh, thành của đơn vị đăng ký\n3 Là một trong các mã số thuế, mã định\ndanh hoặc mã số quan hệ ngân sách\n4 Là email của đơn vị để nhận thông tin\nvề tài khoản",
+  "tree": {
+    "parts": [
+      {
+        "part_id": "doc:299097:part:1",
+        "part_type": "main",
+        "part_title": null,
+        "reference": null,
+        "direct_text": "QUYẾT ĐỊNH BAN\nHÀNH QUY CHẾ QUẢN LÝ, KHAI THÁC VÀ SỬ DỤNG CỔNG TRAO ĐỔI THÔNG TIN CỦA KIỂM TOÁN\nNHÀ NƯỚC TỔNG KIỂM TOÁN NHÀ NƯỚC\nCăn cứ Luật Kiểm toán nhà nước ngày 24 tháng 6 năm 2015; Luật sửa đổi, bổ sung một số điều của Luật Kiểm toán nhà nước ngày 26 tháng 11 năm 2019; Căn cứ Luật Công nghệ thông tin ngày 29 tháng 6 năm 2006; Căn cứ Quyết định số 220/QĐ-KTNN ngày 02 tháng 3 năm 2023 của Tổng Kiểm toán nhà nước ban hành Quy chế soạn thảo, thẩm định, ban hành văn bản quy phạm pháp luật và văn bản quản lý của Kiểm toán nhà nước; Theo đề nghị của Giám đốc Trung tâm Tin học.\nQUYẾT ĐỊNH:",
+        "chapters": [],
+        "sections": [],
+        "articles": [
+          {
+            "article_id": "doc:299097:part:1:article:1",
+            "number": "1",
+            "title": "Ban hành kèm theo Quyết định này Quy chế quản lý, khai thác và sử dụng Cổng trao đổi thông tin của Kiểm toán nhà nước.",
+            "content": "Điều 1. Ban hành kèm theo Quyết định này Quy chế quản lý, khai thác và sử dụng Cổng trao đổi thông tin của Kiểm toán nhà nước.",
+            "clauses": [],
+            "points": []
+          },
+          {
+            "article_id": "doc:299097:part:1:article:2",
+            "number": "2",
+            "title": "Quyết định này có hiệu lực thi hành kể từ ngày ký.",
+            "content": "Điều 2. Quyết định này có hiệu lực thi hành kể từ ngày ký.",
+            "clauses": [],
+            "points": []
+          },
+          {
+            "article_id": "doc:299097:part:1:article:3",
+            "number": "3",
+            "title": "Chánh Văn phòng Kiểm toán nhà nước, Giám đốc Trung tâm Tin học, Thủ trưởng các đơn vị trực thuộc Kiểm toán nhà nước và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này./.",
+            "content": "Điều 3. Chánh Văn phòng Kiểm toán nhà nước, Giám đốc Trung tâm Tin học, Thủ trưởng các đơn vị trực thuộc Kiểm toán nhà nước và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này./.",
+            "clauses": [],
+            "points": []
+          }
+        ],
+        "unstructured_blocks": []
+      },
+      {
+        "part_id": "doc:299097:part:2",
+        "part_type": "regulation",
+        "part_title": "QUY CHẾ",
+        "reference": null,
+        "direct_text": "QUY CHẾ\nQUẢN\nLÝ, KHAI THÁC VÀ SỬ DỤNG CỔNG TRAO ĐỔI THÔNG TIN CỦA KIỂM TOÁN NHÀ NƯỚC\n(Ban hành kèm theo Quyết định số 299/QĐ-KTNN ngày 24 tháng 3 năm 2023 của Tổng\nKiểm toán nhà nước)\nQuy chế này.\n7. Các đơn vị trực thuộc Kiểm toán nhà nước căn cứ\nchức năng nhiệm vụ của đơn vị mình có trách nhiệm phối hợp với Trung tâm Tin học trong việc quản lý, triển khai áp dụng Cổng trao đổi thông tin, định kỳ trước ngày 31/12 hàng năm (hoặc đột xuất) đơn vị có trách nhiệm báo cáo Tổng Kiểm toán nhà nước (qua Trung tâm Tin học) tình hình sử dụng Cổng trao đổi thông tin.",
+        "chapters": [
+          {
+            "chapter_id": "doc:299097:part:2:chapter:1",
+            "number": "I",
+            "title": "QUY ĐỊNH CHUNG",
+            "content": "Chương I\nQUY ĐỊNH CHUNG",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:299097:part:2:article:1",
+                "number": "1",
+                "title": "Phạm vi điều chỉnh, đối tượng áp dụng",
+                "content": "Điều 1. Phạm vi điều chỉnh, đối tượng áp dụng",
+                "clauses": [
+                  {
+                    "clause_id": "doc:299097:part:2:article:1:clause:1",
+                    "number": "1",
+                    "content": "1. Quy chế này quy định trách nhiệm, quyền hạn của\ncác đơn vị trực thuộc Kiểm toán nhà nước và các đơn vị được kiểm toán, các cơ quan, tổ chức có liên quan đến hoạt động kiểm toán nhà nước trong việc cung cấp, quản lý, khai thác và sử dụng Cổng trao đổi thông tin của Kiểm toán nhà nước.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:299097:part:2:article:1:clause:2",
+                    "number": "2",
+                    "content": "2. Quy chế này áp dụng với các đơn vị trực thuộc Kiểm\ntoán nhà nước; cán bộ, công chức, viên chức và người lao động (sau đây gọi tắt là công chức) của các đơn vị trực thuộc Kiểm toán nhà nước và các đơn vị được kiểm toán, các tổ chức, cơ quan có liên quan đến hoạt động kiểm toán nhà nước trong việc cung cấp, quản lý, khai thác và sử dụng Cổng trao đổi thông tin của Kiểm toán nhà nước.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:299097:part:2:article:2",
+                "number": "2",
+                "title": "Giải thích từ ngữ Trong Quy chế này, các từ ngữ dưới đây được hiểu như sau:",
+                "content": "Điều 2. Giải thích từ ngữ Trong Quy chế này, các từ ngữ dưới đây được hiểu như sau:\n1. Trung tâm dữ liệu của Kiểm toán nhà nước là một\ncông trình xây dựng, bao gồm hạ tầng kỹ thuật (nhà trạm, hệ thống cáp) và hệ thống máy tính cùng các thiết bị phụ trợ được lắp đặt vào đó để lưu trữ, trao đổi và quản lý tập trung dữ liệu của Kiểm toán nhà nước.\n2. Cổng trao đổi thông tin của Kiểm toán nhà nước\n(sau đây gọi tắt là Cổng trao đổi thông tin) là phần mềm do Kiểm toán nhà nước xây dựng nhằm trao đổi dữ liệu điện tử giữa Kiểm toán nhà nước với các đơn vị được kiểm toán; các cơ quan, tổ chức có liên quan đến hoạt động kiểm toán nhà nước, Cổng trao đổi thông tin gồm hai trang web chính: Trang web dành cho đơn vị được kiểm toán và các cơ quan, tổ chức có liên quan đến hoạt động kiểm toán nhà nước: https://congtdtt.sav.gov.vn/; Trang web dành cho Kiểm toán nhà nước: https://congktv.sav.gov.vn/.\n3. Tài liệu định kỳ: là báo cáo tài chính, báo cáo\nquyết toán ngân sách, dự toán kinh phí của đơn vị được kiểm toán cung cấp cho Kiểm toán nhà nước theo quy định tại Điều 58 Luật Kiểm toán nhà nước ngày 24/6/2015 và Quyết định số 03/2019/QĐ-KTNN ngày 16/9/2019 của Tổng Kiểm toán nhà nước quy định trách nhiệm gửi báo cáo tài chính, báo cáo quyết toán ngân sách, dự toán kinh phí của các đơn vị được kiểm toán.\n4. Các nhóm thông tin chính trên Cổng trao đổi\nthông tin của Kiểm toán nhà nước bao gồm:\na) Nhóm Thông tin chung: là các thông tin về đơn vị\nđược kiểm toán (bao gồm các thông tin chung; thông tin tài chính; thông tin dự án; thông tin về tình hình thanh tra, kiểm toán; thông tin kiểm soát nội bộ; thông tin về tài khoản đã cấp cho đơn vị; ...), thông tin tài liệu định kỳ và thông tin đơn vị được kiểm toán cung cấp trong quá trình khảo sát lập kế hoạch kiểm toán.\nb) Nhóm Thông tin theo cuộc kiểm toán: là thông tin\ntrong quá trình thực hiện cuộc kiểm toán.\nc) Nhóm Thông tin theo dõi, thực hiện kết luận, kiến\nnghị.\nd) Nhóm Thông tin khiếu nại, khởi kiện, trả lời kiến\nnghị trong hoạt động kiểm toán.\nđ) Nhóm Thông tin khác: là thông tin về kế hoạch kiểm\ntoán, thông báo kết quả kiểm toán.\n5. Đơn vị được phân công kiểm toán: là đơn vị trực\nthuộc Kiểm toán nhà nước được Tổng Kiểm toán nhà nước phân công kiểm toán các Bộ, ngành, cơ quan trung ương, các địa phương và các đối tượng kiểm toán khác trên cơ sở chức năng, nhiệm vụ và quyền hạn của các đơn vị.\n6. Đơn vị chủ trì cuộc kiểm toán: là đơn vị trực\nthuộc Kiểm toán nhà nước được Tổng Kiểm toán nhà nước giao chủ trì thực hiện cuộc kiểm toán.\n7. Tài khoản định danh người dùng trực thuộc Kiểm\ntoán nhà nước: là tài khoản được Kiểm toán nhà nước cấp cho người dùng của Kiểm toán nhà nước để đăng nhập vào khai thác, sử dụng hoặc quản trị phần mềm. Tùy theo vị trí và quyền hạn, tài khoản người dùng được cấp một hoặc nhiều quyền khác nhau, có các loại quyền sau:\na) Quyền quản trị phần mềm: là quyền cấp cho người\ndùng của bộ phận quản trị phần mềm để quản trị, vận hành, cấp quyền hoặc cập nhật quyền người dùng; thiết lập các tham số hệ thống của phần mềm.\nb) Quyền quản trị đơn vị: là quyền cấp cho người\ndùng thuộc bộ phận quản trị của đơn vị trực thuộc Kiểm toán nhà nước để phân quyền cho công chức của đơn vị mình.\nc) Quyền cập nhật, khai thác: là quyền được cấp cho\nngười dùng của Kiểm toán nhà nước thực hiện cập nhật, khai thác, sử dụng thông tin, tài liệu trên Cổng trao đổi thông tin của Kiểm toán nhà nước phục vụ hoạt động quản lý, chuyên môn theo quy định.\n8. Tài khoản định danh của đơn vị được kiểm toán và\ncác cơ quan, tổ chức có liên quan đến hoạt động kiểm toán nhà nước: là tài khoản được Kiểm toán nhà nước cấp cho cá nhân của đơn vị được kiểm toán và các cơ quan, tổ chức, đơn vị có liên quan đến hoạt động kiểm toán nhà nước. Tài khoản định danh của đơn vị được kiểm toán và các cơ quan, tổ chức có liên quan đến hoạt động kiểm toán nhà nước được cấp trên Cổng trao đổi thông tin bao gồm các loại tài khoản: Tài khoản thủ trưởng đơn vị, Tài khoản cá nhân đầu mối và Tài khoản theo cuộc kiểm toán. Các loại tài khoản tương ứng với các quyền sau:\na) Quyền Thủ trưởng đơn vị: là quyền do Kiểm toán\nnhà nước cấp cho Thủ trưởng của đơn vị, được quyền khai thác toàn bộ các nhóm thông tin của đơn vị mình trên Cổng trao đổi thông tin và được quyền bổ sung, hủy bỏ các quyền của các tài khoản khác thuộc đơn vị mình.\nb) Quyền cung cấp tài liệu định kỳ: là quyền do Kiểm\ntoán nhà nước cấp cho cá nhân được giao đầu mối gửi tài liệu định kỳ, khai thác các thông tin, tài liệu thuộc nhóm Thông tin chung, nhóm Thông tin khác của đơn vị mình trên Cổng trao đổi thông tin.\nc) Quyền cung cấp tài liệu theo cuộc kiểm toán: là\nquyền do Kiểm toán nhà nước cấp cho cá nhân được giao cung cấp tài liệu theo cuộc kiểm toán, tài liệu thực hiện kết luận, kiến nghị kiểm toán và khai thác nhóm Thông tin theo cuộc kiểm toán, nhóm Thông tin theo dõi thực hiện kết luận, kiến nghị, nhóm thông tin khác của đơn vị mình trên Cổng trao đổi thông tin.",
+                "clauses": [],
+                "points": []
+              },
+              {
+                "article_id": "doc:299097:part:2:article:3",
+                "number": "3",
+                "title": "Các hành vi bị nghiêm cấm Việc áp dụng và xử lý các hành vi bị nghiêm cấm trong quản lý, khai thác và sử dụng Cổng trao đổi thông tin theo các quy định của Luật Công nghệ thông tin, Luật An toàn thông tin mạng và các luật khác có liên quan của Nhà nước và một số hành vi sau:",
+                "content": "Điều 3. Các hành vi bị nghiêm cấm Việc áp dụng và xử lý các hành vi bị nghiêm cấm trong quản lý, khai thác và sử dụng Cổng trao đổi thông tin theo các quy định của Luật Công nghệ thông tin, Luật An toàn thông tin mạng và các luật khác có liên quan của Nhà nước và một số hành vi sau:",
+                "clauses": [
+                  {
+                    "clause_id": "doc:299097:part:2:article:3:clause:1",
+                    "number": "1",
+                    "content": "1. Phá hoại hệ thống cơ sở hạ tầng thông tin hoặc cản\ntrở quá trình vận hành, duy trì ổn định, liên tục của Cổng trao đổi thông tin.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:299097:part:2:article:3:clause:2",
+                    "number": "2",
+                    "content": "2. Truy cập bất hợp pháp, thay đổi dữ liệu không\nđúng thẩm quyền làm sai lệch hoặc phá hủy dữ liệu trên Cổng trao đổi thông tin.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:299097:part:2:article:3:clause:3",
+                    "number": "3",
+                    "content": "3. Tự ý xóa bỏ, tháo gỡ, thay đổi thông số thiết lập\ncủa Cổng trao đổi thông tin gây xung đột tài nguyên, ảnh hưởng đến việc vận hành các phần mềm và cơ sở dữ liệu khác được cài đặt trong hệ thống mạng của Kiểm toán nhà nước.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:299097:part:2:article:3:clause:4",
+                    "number": "4",
+                    "content": "4. Sử dụng, lợi dụng phần mềm, dữ liệu của Cổng\ntrao đổi thông tin vào các mục đích không thuộc phạm vi, chức năng, nhiệm vụ được phân công; cung cấp, phát tán thông tin trái với quy định của Kiểm toán nhà nước và pháp luật hiện hành.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:299097:part:2:article:3:clause:5",
+                    "number": "5",
+                    "content": "5. Tiết lộ tài khoản, các quy tắc sử dụng, danh\nsách người sử dụng, sơ đồ tổ chức hệ thống, thông tin dữ liệu của Cổng trao đổi thông tin cho các tổ chức, cá nhân không có thẩm quyền.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:299097:part:2:chapter:2",
+            "number": "II",
+            "title": "QUẢN LÝ, VẬN HÀNH, SỬ DỤNG CỔNG TRAO ĐỔI THÔNG TIN",
+            "content": "Chương II\nQUẢN LÝ, VẬN HÀNH, SỬ DỤNG\nCỔNG TRAO ĐỔI THÔNG TIN",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:299097:part:2:article:4",
+                "number": "4",
+                "title": "Nguyên tắc quản lý, vận hành và sử dụng Cổng trao đổi thông tin",
+                "content": "Điều 4. Nguyên tắc quản lý, vận hành và sử dụng Cổng trao đổi thông tin",
+                "clauses": [
+                  {
+                    "clause_id": "doc:299097:part:2:article:4:clause:1",
+                    "number": "1",
+                    "content": "1. Hoạt động cài đặt, quản lý, vận hành và sử dụng\nCổng trao đổi thông tin phải đảm bảo tuân thủ các quy định của Luật Công nghệ thông tin, Luật An toàn thông tin mạng, quy định của Kiểm toán nhà nước và các văn bản liên quan.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:299097:part:2:article:4:clause:2",
+                    "number": "2",
+                    "content": "2. Cổng trao đổi thông tin được quản lý tập trung,\nthống nhất tại Trung tâm dữ liệu Kiểm toán nhà nước, vận hành thông qua hệ thống mạng Internet, đảm bảo hoạt động liên tục, ổn định, an toàn và bảo mật thông tin.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:299097:part:2:article:4:clause:3",
+                    "number": "3",
+                    "content": "3. Cổng trao đổi thông tin được quản lý, vận hành đảm\nbảo nguyên tắc đề cao trách nhiệm công chức của Kiểm toán nhà nước và các đơn vị, tổ chức, cá nhân có liên quan đến hoạt động kiểm toán nhà nước, góp phần nâng cao hiệu quả hoạt động của Cổng trao đổi thông tin.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:299097:part:2:article:4:clause:4",
+                    "number": "4",
+                    "content": "4. Bảo đảm hệ thống cơ sở hạ tầng thông tin, các\nthiết bị có liên quan và môi trường cho việc cài đặt, vận hành Cổng trao đổi thông tin.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:299097:part:2:article:5",
+                "number": "5",
+                "title": "Nâng cấp, mở rộng, bảo trì phần mềm Việc nâng cấp, mở rộng, bảo trì Cổng trao đổi thông tin được thực hiện định kỳ hàng năm hoặc đột xuất khi có đề xuất từ người sử dụng và phải tuân thủ theo quy định tại Quyết định số 1077/QĐ-KTNN ngày 18/6/2021 của Tổng Kiểm toán nhà nước về Quy chế phát triển và bảo trì phần mềm nội bộ của Kiểm toán nhà nước và các quy định liên quan.",
+                "content": "Điều 5. Nâng cấp, mở rộng, bảo trì phần mềm Việc nâng cấp, mở rộng, bảo trì Cổng trao đổi thông tin được thực hiện định kỳ hàng năm hoặc đột xuất khi có đề xuất từ người sử dụng và phải tuân thủ theo quy định tại Quyết định số 1077/QĐ-KTNN ngày 18/6/2021 của Tổng Kiểm toán nhà nước về Quy chế phát triển và bảo trì phần mềm nội bộ của Kiểm toán nhà nước và các quy định liên quan.",
+                "clauses": [],
+                "points": []
+              },
+              {
+                "article_id": "doc:299097:part:2:article:6",
+                "number": "6",
+                "title": "Đảm bảo an toàn, bảo mật thông tin",
+                "content": "Điều 6. Đảm bảo an toàn, bảo mật thông tin",
+                "clauses": [
+                  {
+                    "clause_id": "doc:299097:part:2:article:6:clause:1",
+                    "number": "1",
+                    "content": "1. Thực hiện các hoạt động kiểm tra, giám sát để cảnh\nbáo các hành vi xâm phạm an toàn Cổng trao đổi thông tin.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:299097:part:2:article:6:clause:2",
+                    "number": "2",
+                    "content": "2. Sử dụng các kênh mã hóa và xác thực người dùng cho\ncác hoạt động: đăng nhập hệ thống, thay đổi thông tin người dùng, gửi nhận dữ liệu giữa các máy chủ, sao lưu dữ liệu, cập nhật và biên tập dữ liệu.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:299097:part:2:article:6:clause:3",
+                    "number": "3",
+                    "content": "3. Áp dụng các biện pháp bảo đảm tính xác thực và bảo\nvệ sự toàn vẹn của dữ liệu trong Cổng trao đổi thông tin.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:299097:part:2:article:6:clause:4",
+                    "number": "4",
+                    "content": "4. Thực hiện việc lưu trữ lịch sử các hoạt động của\nngười sử dụng truy cập vào Cổng trao đổi thông tin; thay đổi thông tin, quyền hạn người dùng; tạo mới, cập nhật thông tin và các nghiệp vụ khác trên Cổng trao đổi thông tin.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:299097:part:2:article:6:clause:5",
+                    "number": "5",
+                    "content": "5. Thiết lập và duy trì hệ thống dự phòng nhằm đảm\nbảo Cổng trao đổi thông tin hoạt động liên tục.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:299097:part:2:article:6:clause:6",
+                    "number": "6",
+                    "content": "6. Đảm bảo an toàn, an ninh thông tin, ngăn ngừa mã\nđộc, phần mềm gián điệp,.. tấn công vào Cổng trao đổi thông tin.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:299097:part:2:article:6:clause:7",
+                    "number": "7",
+                    "content": "7. Thực hiện các biện pháp cần thiết khác để đảm bảo\nan toàn, bảo mật của Cổng trao đổi thông tin.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:299097:part:2:article:7",
+                "number": "7",
+                "title": "Phân quyền, quản lý tài khoản định danh người dùng",
+                "content": "Điều 7. Phân quyền, quản lý tài khoản định danh người dùng",
+                "clauses": [
+                  {
+                    "clause_id": "doc:299097:part:2:article:7:clause:1",
+                    "number": "1",
+                    "content": "1. Phân quyền tài khoản",
+                    "points": [
+                      {
+                        "point_id": "doc:299097:part:2:article:7:clause:1:point:1",
+                        "label": "a",
+                        "content": "a) Tài khoản Tổng Kiểm toán nhà nước, các Phó Tổng\nKiểm toán nhà nước, Thủ trưởng đơn vị trực thuộc Kiểm toán nhà nước do bộ phận quản trị phần mềm phân quyền và tài khoản quản trị đơn vị thuộc Kiểm toán nhà nước do bộ phận quản trị phần mềm phân quyền.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:299097:part:2:article:7:clause:1:point:2",
+                        "label": "b",
+                        "content": "b) Tài khoản của công chức thuộc các đơn vị được\nphân công kiểm toán, đơn vị chủ trì cuộc kiểm toán, đơn vị tham mưu có liên quan đến hoạt động kiểm toán do bộ phận quản trị đơn vị phân quyền sau khi được Thủ trưởng đơn vị phê duyệt.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:299097:part:2:article:7:clause:1:point:3",
+                        "label": "c",
+                        "content": "c) Tài khoản của công chức thuộc các đơn vị trực\nthuộc khác do bộ phận quản trị phần mềm phân quyền khi nhận được văn bản đề nghị của đơn vị và được Tổng Kiểm toán nhà nước phê duyệt.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:299097:part:2:article:7:clause:1:point:4",
+                        "label": "d",
+                        "content": "d) Tài khoản của đơn vị được kiểm toán và các cơ\nquan, tổ chức có liên quan đến hoạt động kiểm toán (Tài khoản thủ trưởng đơn vị; Tài khoản cá nhân đầu mối; Tài khoản theo cuộc kiểm toán) do bộ phận quản trị phần mềm cấp và phân quyền sau khi nhận được văn bản đăng ký của đơn vị.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:299097:part:2:article:7:clause:2",
+                    "number": "2",
+                    "content": "2. Quản lý tài khoản",
+                    "points": [
+                      {
+                        "point_id": "doc:299097:part:2:article:7:clause:2:point:1",
+                        "label": "a",
+                        "content": "a) Giám đốc Trung tâm Tin học phân công và tổ chức\ngiám sát tình hình thực hiện nhiệm vụ, trách nhiệm của quản trị phần mềm. Công chức được phân quyền để thực hiện việc quản trị phần mềm chịu trách nhiệm trước Giám đốc Trung tâm Tin học về việc sử dụng quyền đúng chức trách nhiệm vụ.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:299097:part:2:article:7:clause:2:point:2",
+                        "label": "b",
+                        "content": "b) Đơn vị trực thuộc Kiểm toán nhà nước có liên\nquan đến hoạt động kiểm toán được cấp quyền quản trị đơn vị để thực hiện nhiệm vụ quy định tại Điều 13 Quy chế này. Thủ trưởng đơn vị có trách nhiệm phân công và tổ chức giám sát việc sử dụng quyền của quản trị đơn vị. Công chức được phân quyền quản trị đơn vị thực hiện nhiệm vụ theo quy định tại Quy chế này, chịu trách nhiệm trước Thủ trưởng đơn vị về việc sử dụng quyền đúng chức trách nhiệm vụ.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:299097:part:2:article:7:clause:2:point:3",
+                        "label": "c",
+                        "content": "c) Các đơn vị đăng ký cấp quyền quản trị đơn vị\ntheo mẫu quy định tại Phụ lục 06 kèm theo Quyết định số 1152/QĐ-KTNN ngày 05/7/2021 của Tổng Kiểm toán nhà nước ban hành Quy chế quản lý và sử dụng tài khoản định danh của Kiểm toán nhà nước (sau đây gọi tắt là Quy chế ban hành kèm theo Quyết định số 1152/QĐ-KTNN) và gửi về Trung tâm Tin học để được cấp quyền.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:299097:part:2:article:7:clause:2:point:4",
+                        "label": "d",
+                        "content": "d) Thủ trưởng đơn vị liên quan đến hoạt động kiểm\ntoán có trách nhiệm phê duyệt quyền khai thác thông tin cho công chức thuộc đơn vị mình. Công chức được phân quyền khai thác thông tin thực hiện nhiệm vụ theo quy định tại Quy chế này, chịu trách nhiệm trước Thủ trưởng đơn vị về việc sử dụng quyền đúng chức trách nhiệm vụ.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:299097:part:2:article:7:clause:2:point:5",
+                        "label": "đ",
+                        "content": "đ) Thủ trưởng đơn vị được kiểm toán và các cơ quan,\ntổ chức có liên quan đến hoạt động kiểm toán nhà nước có trách nhiệm quản lý, sử dụng quyền của các tài khoản đã được cấp. Cá nhân được phân quyền thực hiện nhiệm vụ theo quy định tại Quy chế này, chịu trách nhiệm bảo mật tài khoản và sử dụng quyền được cấp theo quy định của Kiểm toán nhà nước và pháp luật.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:299097:part:2:article:7:clause:2:point:6",
+                        "label": "e",
+                        "content": "e) Các đơn vị được kiểm toán và các cơ quan, tổ chức\ncó liên quan đến hoạt động kiểm toán nhà nước đăng ký tài khoản định danh theo quy định tại Quy chế ban hành kèm theo Quyết định số 1152/QĐ-KTNN (mẫu đăng ký theo Phụ lục tại Quy chế này) và gửi về Trung tâm Tin học.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:299097:part:2:article:7:clause:3",
+                    "number": "3",
+                    "content": "3. Quy trình đăng ký cấp mới, thay đổi, hủy bỏ tài khoản\nQuy trình đăng ký, cấp mới, thay đổi, thu hồi, hủy bỏ tài khoản thực hiện theo quy định tại Quy chế ban hành kèm theo Quyết định số\n1152/QĐ-KTNN.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:299097:part:2:chapter:3",
+            "number": "III",
+            "title": "CẬP NHẬT, KHAI THÁC CỔNG TRAO ĐỔI THÔNG TIN",
+            "content": "Chương III\nCẬP NHẬT, KHAI THÁC CỔNG TRAO ĐỔI THÔNG TIN",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:299097:part:2:article:8",
+                "number": "8",
+                "title": "Nguyên tắc cập nhật, khai thác Cổng trao đổi thông tin",
+                "content": "Điều 8. Nguyên tắc cập nhật, khai thác Cổng trao đổi thông tin",
+                "clauses": [
+                  {
+                    "clause_id": "doc:299097:part:2:article:8:clause:1",
+                    "number": "1",
+                    "content": "1. Việc cập nhật thông tin trên Cổng trao đổi thông\ntin phải đảm bảo đầy đủ, chính xác, kịp thời phục vụ cho hoạt động kiểm toán. Các đơn vị được kiểm toán và các cơ quan, tổ chức có liên quan đến hoạt động kiểm toán nhà nước thực hiện cập nhật, khai thác thông tin theo địa chỉ truy cập: https://congtdtt.sav.gov.vn/. Các đơn vị trực thuộc Kiểm toán nhà nước khai thác thông tin theo địa chỉ truy cập: https://congktv.sav.gov.vn/.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:299097:part:2:article:8:clause:2",
+                    "number": "2",
+                    "content": "2. Việc trao đổi thông tin giữa Kiểm toán nhà nước\nvà đơn vị được kiểm toán, các cơ quan, tổ chức có liên quan đến hoạt động kiểm toán nhà nước phải tuân thủ các quy định của pháp luật về an toàn thông tin, an ninh mạng.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:299097:part:2:article:8:clause:3",
+                    "number": "3",
+                    "content": "3. Thông tin được cập nhật, khai thác trên Cổng\ntrao đổi thông tin không bao gồm tài liệu chứa bí mật Nhà nước.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:299097:part:2:article:8:clause:4",
+                    "number": "4",
+                    "content": "4. Thông tin của đơn vị được kiểm toán và các cơ\nquan, tổ chức có liên quan đến hoạt động kiểm toán nhà nước cung cấp thông tin Cổng trao đổi thông tin được Kiểm toán nhà nước khai thác, sử dụng trong hoạt động kiểm toán.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:299097:part:2:article:8:clause:5",
+                    "number": "5",
+                    "content": "5. Công chức của Kiểm toán nhà nước và các tổ chức,\ncá nhân được Kiểm toán nhà nước cấp tài khoản có trách nhiệm khai thác, sử dụng Cổng trao đổi thông tin đúng mục đích, nhiệm vụ được phân công và tuân thủ các quy định tại Quy chế này.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:299097:part:2:article:9",
+                "number": "9",
+                "title": "Việc cung cấp, cập nhật, khai thác thông tin của đơn vị được kiểm toán và các cơ quan, tổ chức có liên quan đến hoạt động kiểm toán nhà nước",
+                "content": "Điều 9. Việc cung cấp, cập nhật, khai thác thông tin của đơn vị được kiểm toán và các cơ quan, tổ chức có liên quan đến hoạt động kiểm toán nhà nước",
+                "clauses": [
+                  {
+                    "clause_id": "doc:299097:part:2:article:9:clause:1",
+                    "number": "1",
+                    "content": "1. Các đơn vị được kiểm toán và các cơ quan, tổ chức\ncó liên quan đến hoạt động kiểm toán nhà nước chủ động rà soát, cập nhật thông tin trên Cổng trao đổi thông tin. Khi thông tin có sự thay đổi, cần cập nhật lại trong phạm vi không quá 10 ngày và chịu trách nhiệm về sự chính xác của thông tin.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:299097:part:2:article:9:clause:2",
+                    "number": "2",
+                    "content": "2. Cung cấp các tài liệu định kỳ, tài liệu khảo\nsát, tài liệu liên quan đến việc thực hiện kết luận, kiến nghị của Kiểm toán nhà nước qua Cổng trao đổi thông tin.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:299097:part:2:article:9:clause:3",
+                    "number": "3",
+                    "content": "3. Khai thác thông tin về Kế hoạch kiểm toán hàng\nnăm; Thông báo kết quả kiểm toán; Tình hình thực hiện kết luận, kiến nghị kiểm toán; Thông tin khiếu nại, khởi kiện, trả lời kiến nghị trong hoạt động kiểm toán và các thông tin đơn vị được kiểm toán đã cung cấp cho Kiểm toán nhà nước trên Cổng trao đổi thông tin.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:299097:part:2:article:10",
+                "number": "10",
+                "title": "Trách nhiệm của Đơn vị được phân công kiểm toán",
+                "content": "Điều 10. Trách nhiệm của Đơn vị được phân công kiểm toán",
+                "clauses": [
+                  {
+                    "clause_id": "doc:299097:part:2:article:10:clause:1",
+                    "number": "1",
+                    "content": "1. Yêu cầu các đơn vị được kiểm toán tăng cường\ncung cấp tài liệu định kỳ, tài liệu khảo sát trong quá trình khảo sát lập kế hoạch kiểm toán trên Cổng trao đổi thông tin.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:299097:part:2:article:10:clause:2",
+                    "number": "2",
+                    "content": "2. Đôn đốc, yêu cầu các đơn vị được kiểm toán thuộc\nphạm vi được phân công kiểm toán đăng ký Tài khoản thủ trưởng đơn vị, Tài khoản cá nhân đầu mối và cập nhật thông tin trên Cổng trao đổi thông tin.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:299097:part:2:article:10:clause:3",
+                    "number": "3",
+                    "content": "3. Khai thác các thông tin của đơn vị được kiểm\ntoán được cập nhật trên Cổng trao đổi thông tin để phục vụ cho hoạt động kiểm toán theo chức năng, nhiệm vụ. Không yêu cầu đơn vị được kiểm toán cung cấp thông tin nếu đã có trên Cổng trao đổi thông tin (trừ trường hợp thiếu thông tin hoặc thông tin chưa chính xác).",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:299097:part:2:article:11",
+                "number": "11",
+                "title": "Trách nhiệm của đơn vị chủ trì cuộc kiểm toán",
+                "content": "Điều 11. Trách nhiệm của đơn vị chủ trì cuộc kiểm toán",
+                "clauses": [
+                  {
+                    "clause_id": "doc:299097:part:2:article:11:clause:1",
+                    "number": "1",
+                    "content": "1. Yêu cầu các đơn vị được kiểm toán và các tổ chức,\ncá nhân có liên quan đến hoạt động kiểm toán nhà nước cung cấp thông tin, tài liệu của cuộc kiểm toán trên Cổng trao đổi thông tin.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:299097:part:2:article:11:clause:2",
+                    "number": "2",
+                    "content": "2. Đôn đốc, yêu cầu các đơn vị được kiểm toán, các\ncơ quan, tổ chức có liên quan đến hoạt động kiểm toán nhà nước đăng ký tài khoản theo cuộc kiểm toán và cập nhật thông tin trên Cổng trao đổi thông tin.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:299097:part:2:article:11:clause:3",
+                    "number": "3",
+                    "content": "3. Khai thác các thông tin của đơn vị được kiểm\ntoán được cập nhật trên Cổng trao đổi thông tin để phục vụ cho cuộc kiểm toán. Không yêu cầu đơn vị được kiểm toán cung cấp thông tin nếu đã có trên Cổng trao đổi thông tin (trừ trường hợp thiếu thông tin hoặc thông tin chưa chính xác).",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:299097:part:2:article:12",
+                "number": "12",
+                "title": "Quyền khai thác thông tin và trách nhiệm quản lý của Lãnh đạo Kiểm toán nhà nước, Thủ trưởng đơn vị trực thuộc Kiểm toán nhà nước",
+                "content": "Điều 12. Quyền khai thác thông tin và trách nhiệm quản lý của Lãnh đạo Kiểm toán nhà nước, Thủ trưởng đơn vị trực thuộc Kiểm toán nhà nước",
+                "clauses": [
+                  {
+                    "clause_id": "doc:299097:part:2:article:12:clause:1",
+                    "number": "1",
+                    "content": "1. Tổng Kiểm toán nhà nước có quyền khai thác toàn\nbộ thông tin trên Cổng trao đổi thông tin.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:299097:part:2:article:12:clause:2",
+                    "number": "2",
+                    "content": "2. Phó Tổng Kiểm toán nhà nước được quyền khai thác\ntoàn bộ thông tin thuộc nhóm Thông tin chung; một số thông tin thuộc nhóm: Thông tin theo cuộc kiểm toán, Thông tin theo dõi, thực hiện kết luận, kiến nghị và Thông tin khiếu nại, khởi kiện, trả lời kiến nghị trong hoạt động kiểm toán được khai thác theo phạm vi phụ trách, quản lý.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:299097:part:2:article:12:clause:3",
+                    "number": "3",
+                    "content": "3. Thủ trưởng đơn vị được phân công kiểm toán, Thủ\ntrưởng đơn vị chủ trì cuộc kiểm toán được quyền khai thác toàn bộ thông tin thuộc nhóm Thông tin chung và các thông tin thuộc nhóm: Thông tin theo cuộc kiểm toán, Thông tin theo dõi, thực hiện kết luận, kiến nghị và Thông tin khiếu nại, khởi kiện, trả lời kiến nghị trong hoạt động kiểm toán được khai thác theo cuộc kiểm toán do đơn vị chủ trì thực hiện.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:299097:part:2:article:12:clause:4",
+                    "number": "4",
+                    "content": "4. Vụ trưởng các Vụ: Chế độ và Kiểm soát chất lượng\nkiểm toán, Tổng hợp, Pháp chế và Chánh Thanh tra Kiểm toán nhà nước được quyền khai thác toàn bộ thông tin thuộc nhóm Thông tin chung và nhóm Thông tin khiếu nại, khởi kiện, trả lời kiến nghị trong hoạt động kiểm toán.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:299097:part:2:article:12:clause:5",
+                    "number": "5",
+                    "content": "5. Thủ trưởng các đơn vị trực thuộc Kiểm toán nhà\nnước khác được khai thác thông tin theo đề xuất sau khi được Tổng Kiểm toán nhà nước phê duyệt.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:299097:part:2:article:13",
+                "number": "13",
+                "title": "Quyền khai thác thông tin của công chức Kiểm toán nhà nước và thành viên đoàn kiểm toán",
+                "content": "Điều 13. Quyền khai thác thông tin của công chức Kiểm toán nhà nước và thành viên đoàn kiểm toán",
+                "clauses": [
+                  {
+                    "clause_id": "doc:299097:part:2:article:13:clause:1",
+                    "number": "1",
+                    "content": "1. Công chức tại đơn vị chủ trì cuộc kiểm toán được\nquyền khai thác nhóm Thông tin chung và các thông tin thuộc nhóm: Thông tin theo cuộc kiểm toán, Thông tin theo dõi, thực hiện kết luận, kiến nghị; Thông tin khiếu nại, khởi kiện, trả lời kiến nghị trong hoạt động kiểm toán của các cuộc kiểm toán do đơn vị chủ trì thực hiện.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:299097:part:2:article:13:clause:2",
+                    "number": "2",
+                    "content": "2. Công chức tại đơn vị tham mưu có liên quan đến\nhoạt động kiểm toán (Vụ Chế độ và Kiểm soát chất lượng kiểm toán, Vụ Tổng hợp, Vụ Pháp chế, Thanh tra Kiểm toán nhà nước...) được quyền khai thác nhóm Thông tin chung và các thông tin thuộc nhóm: Thông tin theo dõi, thực hiện kết luận, kiến nghị; Thông tin khiếu nại, khởi kiện, trả lời kiến nghị trong hoạt động kiểm toán.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:299097:part:2:article:13:clause:3",
+                    "number": "3",
+                    "content": "3. Công chức đơn vị trực thuộc khác có nhu cầu khai\nthác thông tin trên Cổng trao đổi thông tin thực hiện báo cáo Thủ trưởng đơn vị, trình Tổng Kiểm toán nhà nước xem xét, phê duyệt.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:299097:part:2:article:13:clause:4",
+                    "number": "4",
+                    "content": "4. Công chức là thành viên đoàn kiểm toán được quyền\nkhai thác nhóm Thông tin theo cuộc kiểm toán trong thời gian thực hiện cuộc kiểm toán.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:299097:part:2:article:14",
+                "number": "14",
+                "title": "Quyền khai thác của đơn vị được kiểm toán và các cơ quan, tổ chức có liên quan đến hoạt động kiểm toán nhà nước Tại đơn vị được kiểm toán và các cơ quan, tổ chức có liên quan đến hoạt động kiểm toán nhà nước được cấp tài khoản và quyền khai thác thông tin như sau:",
+                "content": "Điều 14. Quyền khai thác của đơn vị được kiểm toán và các cơ quan, tổ chức có liên quan đến hoạt động kiểm toán nhà nước Tại đơn vị được kiểm toán và các cơ quan, tổ chức có liên quan đến hoạt động kiểm toán nhà nước được cấp tài khoản và quyền khai thác thông tin như sau:",
+                "clauses": [
+                  {
+                    "clause_id": "doc:299097:part:2:article:14:clause:1",
+                    "number": "1",
+                    "content": "1. Tài khoản thủ trưởng đơn vị: được cấp để khai\nthác nhóm Thông tin chung và nhóm Thông tin theo cuộc kiểm toán, nhóm Thông tin theo dõi, thực hiện kết luận, kiến nghị, nhóm Thông tin khiếu nại, khởi kiện, trả lời kiến nghị trong hoạt động kiểm toán và nhóm Thông tin khác.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:299097:part:2:article:14:clause:2",
+                    "number": "2",
+                    "content": "2. Tài khoản cá nhân đầu mối: được cấp để khai thác\nnhóm Thông tin chung và nhóm Thông tin khác.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:299097:part:2:article:14:clause:3",
+                    "number": "3",
+                    "content": "3. Tài khoản theo cuộc kiểm toán: được cấp để khai\nthác nhóm Thông tin theo cuộc kiểm toán, nhóm Thông tin theo dõi, thực hiện kết luận, kiến nghị và nhóm Thông tin khác.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:299097:part:2:article:15",
+                "number": "15",
+                "title": "Quyền khai thác của các tổ chức, cá nhân khác",
+                "content": "Điều 15. Quyền khai thác của các tổ chức, cá nhân khác",
+                "clauses": [
+                  {
+                    "clause_id": "doc:299097:part:2:article:15:clause:1",
+                    "number": "1",
+                    "content": "1. Tổng Kiểm toán nhà nước xem xét, quyết định việc\ncấp quyền khai thác cho các tổ chức, cá nhân khác. Căn cứ vào văn bản được Tổng Kiểm toán nhà nước phê duyệt, Trung tâm Tin học cấp tài khoản và quyền tương ứng trên Cổng trao đổi thông tin.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:299097:part:2:article:15:clause:2",
+                    "number": "2",
+                    "content": "2. Các tổ chức, cá nhân được cấp tài khoản phải\ntuân thủ các quy định của pháp luật, của Kiểm toán nhà nước về khai thác thông tin của Kiểm toán nhà nước, sử dụng thông tin đúng mục đích và có trách nhiệm quản lý, bảo mật tài khoản được cấp, không vi phạm các hành vi bị cấm được quy định tại Quy chế này.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:299097:part:2:chapter:4",
+            "number": "IV",
+            "title": "TỔ CHỨC THỰC HIỆN",
+            "content": "Chương IV\nTỔ CHỨC THỰC HIỆN",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:299097:part:2:article:16",
+                "number": "16",
+                "title": "Trách nhiệm của đơn vị trực thuộc Kiểm toán nhà nước",
+                "content": "Điều 16. Trách nhiệm của đơn vị trực thuộc Kiểm toán nhà nước",
+                "clauses": [
+                  {
+                    "clause_id": "doc:299097:part:2:article:16:clause:1",
+                    "number": "1",
+                    "content": "1. Thực hiện quản lý, khai thác và sử dụng Cổng\ntrao đổi thông tin theo quy định tại Quy chế này.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:299097:part:2:article:16:clause:2",
+                    "number": "2",
+                    "content": "2. Cử đầu mối phối hợp với Trung tâm Tin học để tiếp\nnhận, xử lý các yêu cầu nghiệp vụ liên quan đến việc triển khai Cổng trao đổi thông tin theo chức năng, nhiệm vụ.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:299097:part:2:article:16:clause:3",
+                    "number": "3",
+                    "content": "3. Trong quá trình sử dụng Cổng trao đổi thông tin,\ncác đơn vị kịp thời phản ánh các khó khăn, vướng mắc và đề xuất các yêu cầu điều chỉnh, bổ sung các chức năng của Cổng trao đổi thông tin (nếu có) về Trung tâm Tin học để làm cơ sở nâng cấp, mở rộng Cổng trao đổi thông tin (nếu cần thiết).",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:299097:part:2:article:16:clause:4",
+                    "number": "4",
+                    "content": "4. Trường Đào tạo và bồi dưỡng nghiệp vụ kiểm toán\nchủ trì, phối hợp với Trung tâm Tin học tổ chức đào tạo hướng dẫn sử dụng Cổng trao đổi thông tin khi có yêu cầu của các đơn vị.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:299097:part:2:article:16:clause:5",
+                    "number": "5",
+                    "content": "5. Văn phòng Kiểm toán nhà nước chủ trì, phối hợp với\nTrung tâm Tin học tham mưu, đề xuất Tổng Kiểm toán nhà nước trong việc bố trí kinh phí đảm bảo duy trì hoạt động, nâng cấp, mở rộng Cổng trao đổi thông tin, bổ sung hạ tầng kỹ thuật để đảm bảo Cổng trao đổi thông tin hoạt động an toàn, ổn định, hiệu quả.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:299097:part:2:article:16:clause:6",
+                    "number": "6",
+                    "content": "6. Thủ trưởng các đơn vị có trách nhiệm triển khai\nthực hiện các nội dung của Quy chế này đến công chức của đơn vị, tổ chức kiểm tra, đôn đốc việc cập nhật, khai thác và sử dụng thông tin theo đúng quy định của",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:299097:part:2:article:17",
+                "number": "17",
+                "title": "Trung tâm Tin học",
+                "content": "Điều 17. Trung tâm Tin học",
+                "clauses": [
+                  {
+                    "clause_id": "doc:299097:part:2:article:17:clause:1",
+                    "number": "1",
+                    "content": "1. Quản lý, vận hành Cổng trao đổi thông tin đảm bảo\nhoạt động hiệu quả, ổn định, liên tục, an toàn và bảo mật thông tin theo quy định tại Quy chế này.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:299097:part:2:article:17:clause:2",
+                    "number": "2",
+                    "content": "2. Tiếp nhận, xử lý và tổng hợp yêu cầu của các đơn\nvị trực thuộc, đơn vị được kiểm toán và các cơ quan, tổ chức có liên quan đến hoạt động kiểm toán nhà nước trong quá trình khai thác, sử dụng Cổng trao đổi thông tin; phân tích, đánh giá các yêu cầu và thực hiện nâng cấp, mở rộng Cổng trao đổi thông tin (nếu cần thiết).",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:299097:part:2:article:17:clause:3",
+                    "number": "3",
+                    "content": "3. Thực hiện rà soát, phê duyệt cấp tài khoản cho\nđơn vị được kiểm toán, các cơ quan, tổ chức có liên quan đến hoạt động kiểm toán nhà nước theo đăng ký trên Cổng trao đổi thông tin.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:299097:part:2:article:17:clause:4",
+                    "number": "4",
+                    "content": "4. Phối hợp với các đơn vị liên quan tổ chức đào tạo,\nhướng dẫn sử dụng phần mềm.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:299097:part:2:article:17:clause:5",
+                    "number": "5",
+                    "content": "5. Chủ trì, phối hợp với các đơn vị liên quan\nnghiên cứu, đề xuất giải pháp và kinh phí duy trì hoạt động, nâng cấp, phát triển Cổng trao đổi thông tin, bổ sung hạ tầng kỹ thuật để đảm bảo Cổng trao đổi thông tin hoạt động an toàn, ổn định, hiệu quả.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:299097:part:2:article:17:clause:6",
+                    "number": "6",
+                    "content": "6. Định kỳ hàng năm (hoặc đột xuất) báo cáo Tổng Kiểm\ntoán nhà nước tình hình quản lý, khai thác và sử dụng Cổng trao đổi thông tin.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:299097:part:2:article:17:clause:7",
+                    "number": "7",
+                    "content": "7. Thực hiện quản trị và hỗ trợ các đơn vị sử dụng\nCổng trao đổi thông tin, thông báo cho các đơn vị về sự cố hoặc nguy cơ xảy ra sự cố hoặc lịch bảo trì, nâng cấp hệ thống có ảnh hưởng đến việc quản lý và sử dụng Cổng trao đổi thông tin; tổ chức thực hiện quy trình khắc phục sự cố khi sự cố xảy ra.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:299097:part:2:article:17:clause:8",
+                    "number": "8",
+                    "content": "8. Kiểm tra và đề xuất giải pháp đảm bảo an toàn và\nbảo mật dữ liệu theo quy định hiện hành.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:299097:part:2:article:17:clause:9",
+                    "number": "9",
+                    "content": "9. Tổ chức kiểm tra, giám sát, theo dõi việc khai\nthác, sử dụng Cổng trao đổi thông tin.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:299097:part:2:article:17:clause:10",
+                    "number": "10",
+                    "content": "10. Định kỳ tổ chức sao lưu dữ liệu của Cổng trao đổi\nthông tin theo quy định. Tổ chức việc tích hợp, đồng bộ dữ liệu có liên quan với nhau giữa hệ thống các phần mềm.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:299097:part:2:article:18",
+                "number": "18",
+                "title": "Trách nhiệm của đơn vị được kiểm toán và các cơ quan, tổ chức có liên quan đến hoạt động kiểm toán nhà nước",
+                "content": "Điều 18. Trách nhiệm của đơn vị được kiểm toán và các cơ quan, tổ chức có liên quan đến hoạt động kiểm toán nhà nước",
+                "clauses": [
+                  {
+                    "clause_id": "doc:299097:part:2:article:18:clause:1",
+                    "number": "1",
+                    "content": "1. Tổ chức thực hiện quản lý, khai thác và sử dụng\nCổng trao đổi thông tin theo quy định tại Quy chế này.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:299097:part:2:article:18:clause:2",
+                    "number": "2",
+                    "content": "2. Quản lý, đảm bảo an toàn, bảo mật thông tin tài khoản\nvà cung cấp kịp thời, đầy đủ thông tin, tài liệu trên Cổng trao đổi thông tin và chịu trách nhiệm về tính chính xác, thống nhất của các thông tin, tài liệu đã được cập nhật, cung cấp.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:299097:part:2:article:18:clause:3",
+                    "number": "3",
+                    "content": "3. Phối hợp với Kiểm toán nhà nước trong việc triển\nkhai, vận hành hệ thống Cổng trao đổi thông tin, kịp thời thông báo cho Kiểm toán nhà nước khi phát sinh sự cố.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:299097:part:2:article:19",
+                "number": "19",
+                "title": "Trách nhiệm của cá nhân",
+                "content": "Điều 19. Trách nhiệm của cá nhân",
+                "clauses": [
+                  {
+                    "clause_id": "doc:299097:part:2:article:19:clause:1",
+                    "number": "1",
+                    "content": "1. Công chức Kiểm toán nhà nước và các cá nhân được\ncấp tài khoản có trách nhiệm khai thác, sử dụng Cổng trao đổi thông tin đúng mục đích, nhiệm vụ được phân công và tuân thủ các quy định tại Quy chế này.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:299097:part:2:article:19:clause:2",
+                    "number": "2",
+                    "content": "2. Công chức Kiểm toán nhà nước và các cá nhân khai\nthác, sử dụng Cổng trao đổi thông tin kịp thời thông báo tới bộ phận quản trị phần mềm ngay khi xảy ra các trường hợp sau:",
+                    "points": [
+                      {
+                        "point_id": "doc:299097:part:2:article:19:clause:2:point:1",
+                        "label": "a",
+                        "content": "a) Gặp các sự cố không thể truy cập vào Cổng trao đổi\nthông tin hoặc gặp lỗi phần mềm, các vướng mắc phát sinh trong quá trình sử dụng;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:299097:part:2:article:19:clause:2:point:2",
+                        "label": "b",
+                        "content": "b) Phát hiện nguy cơ bị phá hoại hoặc bị đột nhập;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:299097:part:2:article:19:clause:2:point:3",
+                        "label": "c",
+                        "content": "c) Phát hiện nguy cơ lộ thông tin tài khoản hoặc dữ\nliệu;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:299097:part:2:article:19:clause:2:point:4",
+                        "label": "d",
+                        "content": "d) Quên hoặc mất mật khẩu;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:299097:part:2:article:19:clause:2:point:5",
+                        "label": "đ",
+                        "content": "đ) Đề xuất cải tiến, hoàn thiện phần mềm.",
+                        "children": []
+                      }
+                    ]
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:299097:part:2:article:20",
+                "number": "20",
+                "title": "Xử lý vi phạm",
+                "content": "Điều 20. Xử lý vi phạm",
+                "clauses": [
+                  {
+                    "clause_id": "doc:299097:part:2:article:20:clause:1",
+                    "number": "1",
+                    "content": "1. Thủ trưởng đơn vị có trách nhiệm tạm dừng quyền\ntruy cập khi phát hiện công chức của đơn vị mình vi phạm quy định trong quá trình sử dụng; nếu tài khoản và quyền truy cập của công chức đó do bộ phận quản trị phần mềm cấp thì có đề xuất kịp thời với Trung tâm tin học để xử lý.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:299097:part:2:article:20:clause:2",
+                    "number": "2",
+                    "content": "2. Bất kỳ đơn vị, tổ chức, cá nhân có hành vi vi phạm\nquy định của Quy chế này, tùy theo tính chất, mức độ vi phạm mà bị xử lý kỷ luật, xử lý vi phạm hành chính hoặc bị truy cứu trách nhiệm hình sự, nếu gây thiệt hại thì phải bồi thường theo quy định của Kiểm toán nhà nước và quy định pháp luật có liên quan.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:299097:part:2:article:21",
+                "number": "21",
+                "title": "Tổ chức thực hiện",
+                "content": "Điều 21. Tổ chức thực hiện",
+                "clauses": [
+                  {
+                    "clause_id": "doc:299097:part:2:article:21:clause:1",
+                    "number": "1",
+                    "content": "1. Trung tâm Tin học chủ trì tổ chức triển khai, hướng\ndẫn thực hiện Quy chế này.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:299097:part:2:article:21:clause:2",
+                    "number": "2",
+                    "content": "2. Thủ trưởng các đơn vị trực thuộc Kiểm toán nhà\nnước chịu trách nhiệm về việc tổ chức triển khai thực hiện Quy chế này trong phạm vi quản lý của đơn vị.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:299097:part:2:article:21:clause:3",
+                    "number": "3",
+                    "content": "3. Khi các văn bản quy phạm pháp luật, văn bản quản\nlý dẫn chiếu tại Quy chế này được sửa đổi, bổ sung hoặc thay thế bằng văn bản khác thì áp dụng theo các văn bản sửa đổi bổ sung, thay thế.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:299097:part:2:article:21:clause:4",
+                    "number": "4",
+                    "content": "4. Trong quá trình thực hiện nếu có khó khăn vướng\nmắc, các đơn vị kịp thời phản ánh về Trung tâm Tin học để tổng hợp, báo cáo Tổng Kiểm toán Nhà nước xem xét, quyết định./.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          }
+        ],
+        "sections": [],
+        "articles": [],
+        "unstructured_blocks": []
+      },
+      {
+        "part_id": "doc:299097:part:3",
+        "part_type": "appendix",
+        "part_title": "PHỤ LỤC",
+        "reference": null,
+        "direct_text": null,
+        "chapters": [],
+        "sections": [],
+        "articles": [],
+        "unstructured_blocks": [
+          {
+            "block_id": "doc:299097:part:3:block:1",
+            "content": "PHỤ LỤC\nMẪU ĐĂNG KÝ TÀI KHOẢN\n(Kèm theo Quyết định số 299/QĐ-KTNN ngày 24 tháng 3 năm 2023 của Tổng Kiểm toán nhà nước)\nTÊN ĐƠN VỊ CẤP TRÊN <<TÊN ĐƠN VỊ>>1\n-------\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc --------------- Số: ……………. V/v: Đăng ký tài khoản Địa điểm2, ngày tháng năm Kính gửi: Kiểm toán nhà nước Để sử dụng hệ thống Cổng trao đổi thông tin của Kiểm toán nhà nước, <<TÊN ĐƠN VỊ>> đề nghị Kiểm toán nhà nước cấp tài khoản truy cập, thông tin cụ thể như sau:\n1. Thông tin đơn vị:\n- Mã đơn vị3: - Địa bàn: - Tên đơn vị: - Mã chương: - Tên đơn vị cấp trên:\n2. Thông tin liên hệ:\n- Email4: - Địa chỉ: - Điện thoại:\n3. Thông tin tài khoản:\nTT\nHọ tên\nCMND/ CCCD\nVụ/Phòng ban Chức vụ Điện thoại Email Thời gian hiệu lực Ghi chú Từ ngày Đến ngày Nguyễn Văn A Tập đoàn VNPT Tổng Giám đốc xxxxxx nva@vnpt.vn Nguyễn Thị B Ban Tài chính Trưởng ban xxxxxx ntb@vnpt.vn … □ Đăng ký lần đầu □ Đăng ký thay đổi, bổ sung thông tin □ Đăng ký tài khoản theo cuộc □ Đăng ký ngừng □ Đăng ký mở khóa tài khoản *Lưu ý: - Đăng ký tài khoản theo cuộc chỉ áp dụng trong trường hợp đơn vị trao đổi, cung cấp nội dung liên quan đến cuộc kiểm toán. Đơn vị đăng ký tài khoản theo cuộc cần ghi rõ cuộc kiểm toán cần trao đổi tại cột Ghi chú; - Trường hợp đơn vị đăng ký ngừng sử dụng tài khoản thì nêu rõ lý do ngừng sử dụng tại cột Ghi chú; - Trường hợp đơn vị đăng ký mở khóa tài khoản thì nêu rõ lý do đề nghị mở khóa sử dụng tại cột Ghi chú.",
+            "indexable": true
+          }
+        ]
+      }
+    ]
+  },
+  "issues": [],
+  "status": "ok",
+  "source_hash": "context_299097.json",
+  "stats": {
+    "source_chars": 29748,
+    "passage_chars": 29593,
+    "parts": 3,
+    "chapters": 4,
+    "sections": 0,
+    "articles": 24,
+    "clauses": 76,
+    "points": 15
+  }
+}

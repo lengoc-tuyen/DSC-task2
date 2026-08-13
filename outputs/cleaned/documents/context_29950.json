@@ -1,0 +1,67 @@
+{
+  "schema_version": "2.0",
+  "document_id": 29950,
+  "metadata": {
+    "name": "Thong-tu-12-2022-TT-BGDDT-Chuong-trinh-giao-duc-thuong-xuyen-cap-trung-hoc-pho-thong-524416",
+    "link": "https://thuvienphapluat.vn/van-ban/Giao-duc/Thong-tu-12-2022-TT-BGDDT-Chuong-trinh-giao-duc-thuong-xuyen-cap-trung-hoc-pho-thong-524416.aspx",
+    "issuing_agency": "BỘ GIÁO DỤC VÀ ĐÀO TẠO",
+    "national_header": "CỘNG HÒA XÃ HỘI CHỦ\r\n\n  NGHĨA VIỆT NAM",
+    "motto": "Độc lập - Tự do - Hạnh phúc",
+    "document_number": "12/2022/TT-BGDĐT",
+    "issued_place": null,
+    "issued_date": null,
+    "document_type": null,
+    "title": null
+  },
+  "administrative_header": {
+    "removed": true,
+    "removed_char_count": 130
+  },
+  "preamble": {
+    "text": null,
+    "legal_bases": [],
+    "proposals": [],
+    "enactment_formula": null
+  },
+  "passage": "THÔNG TƯ\nBAN HÀNH CHƯƠNG TRÌNH GIÁO DỤC THƯỜNG XUYÊN CẤP TRUNG HỌC\nPHỔ THÔNG\n1. Từ năm\nhọc 2022 - 2023 đối với lớp 10.\n2. Từ năm\nhọc 2023 - 2024 đối với lớp 11.\n3. Từ năm\nhọc 2024 - 2025 đối với lớp 12.\nKT. BỘ TRƯỞNG THỨ TRƯỞNG\nNguyễn Hữu Độ\nFILE ĐƯỢC ĐÍNH KÈM THEO VĂN BẢN",
+  "tree": {
+    "parts": [
+      {
+        "part_id": "doc:29950:part:1",
+        "part_type": "main",
+        "part_title": null,
+        "reference": null,
+        "direct_text": null,
+        "chapters": [],
+        "sections": [],
+        "articles": [],
+        "unstructured_blocks": [
+          {
+            "block_id": "doc:29950:part:1:block:1",
+            "content": "THÔNG TƯ\nBAN HÀNH CHƯƠNG TRÌNH GIÁO DỤC THƯỜNG XUYÊN CẤP TRUNG HỌC\nPHỔ THÔNG\n1. Từ năm\nhọc 2022 - 2023 đối với lớp 10.\n2. Từ năm\nhọc 2023 - 2024 đối với lớp 11.\n3. Từ năm\nhọc 2024 - 2025 đối với lớp 12.\nKT. BỘ TRƯỞNG THỨ TRƯỞNG\nNguyễn Hữu Độ\nFILE ĐƯỢC ĐÍNH KÈM THEO VĂN BẢN",
+            "indexable": true
+          }
+        ]
+      }
+    ]
+  },
+  "issues": [
+    {
+      "code": "no_articles",
+      "message": "no articles parsed",
+      "severity": "warning"
+    }
+  ],
+  "status": "ok",
+  "source_hash": "context_29950.json",
+  "stats": {
+    "source_chars": 404,
+    "passage_chars": 273,
+    "parts": 1,
+    "chapters": 0,
+    "sections": 0,
+    "articles": 0,
+    "clauses": 0,
+    "points": 0
+  }
+}

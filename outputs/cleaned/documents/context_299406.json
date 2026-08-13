@@ -1,0 +1,1005 @@
+{
+  "schema_version": "2.0",
+  "document_id": 299406,
+  "metadata": {
+    "name": "Quyet-dinh-5094-QD-BNN-VP-2020-Quy-che-quan-ly-van-hanh-khai-thac-su-dung-Cong-Dich-vu-cong-469255",
+    "link": "https://thuvienphapluat.vn/van-ban/Cong-nghe-thong-tin/Quyet-dinh-5094-QD-BNN-VP-2020-Quy-che-quan-ly-van-hanh-khai-thac-su-dung-Cong-Dich-vu-cong-469255.aspx",
+    "issuing_agency": "BỘ NÔNG NGHIỆP VÀ PHÁT TRIỂN NÔNG THÔN",
+    "national_header": "CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM",
+    "motto": "Độc lập - Tự do - Hạnh phúc",
+    "document_number": "5094/QĐ-BNN-VP",
+    "issued_place": "Hà Nội",
+    "issued_date": "ngày 15 tháng 12\r\n\n  năm 2020",
+    "document_type": "QUYẾT ĐỊNH",
+    "title": "BAN HÀNH QUY CHẾ QUẢN LÝ, VẬN HÀNH, KHAI THÁC SỬ DỤNG CỔNG DỊCH VỤ CÔNG VÀ HỆ THỐNG THÔNG TIN MỘT CỬA ĐIỆN TỬ CỦA BỘ NÔNG NGHIỆP VÀ PHÁT TRIỂN NÔNG THÔN"
+  },
+  "administrative_header": {
+    "removed": true,
+    "removed_char_count": 179
+  },
+  "preamble": {
+    "text": "QUYẾT ĐỊNH\nBAN HÀNH QUY CHẾ QUẢN LÝ, VẬN HÀNH,\nKHAI THÁC SỬ DỤNG CỔNG DỊCH VỤ CÔNG VÀ HỆ THỐNG THÔNG TIN MỘT CỬA ĐIỆN TỬ CỦA BỘ\nNÔNG NGHIỆP VÀ PHÁT TRIỂN NÔNG THÔN\nBỘ TRƯỞNG BỘ NÔNG NGHIỆP VÀ\nPHÁT TRIỂN NÔNG THÔN\nCăn cứ Nghị định số 15/2017/NĐ-CP ngày 17 tháng 02 năm 2017 của Chính phủ quy định về chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Nông nghiệp và Phát triển nông thôn; Căn cứ Nghị định số 43/2011/NĐ-CP ngày 13 tháng 6 năm 2011 của Chính phủ quy định về việc cung cấp thông tin và dịch vụ công trực tuyến trên trang thông tin điện tử hoặc cổng thông tin điện tử của cơ quan nhà nước; Căn cứ Nghị định số 61/2018/NĐ-CP ngày 23 tháng 4 năm 2018 của Chính phủ về thực hiện cơ chế một cửa, một cửa liên thông trong giải quyết thủ tục hành chính; Căn cứ Nghị định số 130/2018/NĐ-CP ngày 27 tháng 9 năm 2018 của Chính phủ quy định chi tiết thi hành Luật Giao dịch điện tử về chữ ký số và dịch vụ chứng thực chữ ký số; Căn cứ Nghị định số 45/2020/NĐ-CP ngày 08 tháng 4 năm 2020 của Chính phủ về thực hiện thủ tục hành chính trên môi trường điện tử; Căn cứ Nghị định số 47/2020/NĐ-CP ngày 09 tháng 4 năm 2020 của Chính phủ quy định quản lý, kết nối và chia sẻ dữ liệu số của cơ quan nhà nước; Căn cứ Thông tư số 01/2018/TT-VPCP ngày 23 tháng 11 năm 2018 của Văn phòng Chính phủ hướng dẫn thi hành một số quy định của Nghị định số 61/2018/NĐ-CP ngày 23 tháng 4 năm 2018 của Chính phủ về thực hiện cơ chế một cửa, một cửa liên thông trong giải quyết thủ tục hành chính; Xét đề nghị của Chánh Văn phòng Bộ.\nQUYẾT ĐỊNH:",
+    "legal_bases": [
+      "Căn cứ Nghị định số 43/2011/NĐ-CP ngày 13 tháng 6 năm 2011 của Chính phủ quy định về việc cung cấp thông tin và dịch vụ công trực tuyến trên trang thông tin điện tử hoặc cổng thông tin điện tử của cơ quan nhà nước",
+      "Căn cứ Nghị định số 61/2018/NĐ-CP ngày 23 tháng 4 năm 2018 của Chính phủ về thực hiện cơ chế một cửa, một cửa liên thông trong giải quyết thủ tục hành chính",
+      "Căn cứ Nghị định số 130/2018/NĐ-CP ngày 27 tháng 9 năm 2018 của Chính phủ quy định chi tiết thi hành Luật Giao dịch điện tử về chữ ký số và dịch vụ chứng thực chữ ký số",
+      "Căn cứ Nghị định số 45/2020/NĐ-CP ngày 08 tháng 4 năm 2020 của Chính phủ về thực hiện thủ tục hành chính trên môi trường điện tử",
+      "Căn cứ Nghị định số 47/2020/NĐ-CP ngày 09 tháng 4 năm 2020 của Chính phủ quy định quản lý, kết nối và chia sẻ dữ liệu số của cơ quan nhà nước",
+      "Căn cứ Thông tư số 01/2018/TT-VPCP ngày 23 tháng 11 năm 2018 của Văn phòng Chính phủ hướng dẫn thi hành một số quy định của Nghị định số 61/2018/NĐ-CP ngày 23 tháng 4 năm 2018 của Chính phủ về thực hiện cơ chế một cửa, một cửa liên thông trong giải quyết thủ tục hành chính"
+    ],
+    "proposals": [
+      "Xét đề nghị của Chánh Văn phòng Bộ.\nQUYẾT ĐỊNH:"
+    ],
+    "enactment_formula": "QUYẾT ĐỊNH"
+  },
+  "passage": "QUYẾT ĐỊNH\nBAN HÀNH QUY CHẾ QUẢN LÝ, VẬN HÀNH,\nKHAI THÁC SỬ DỤNG CỔNG DỊCH VỤ CÔNG VÀ HỆ THỐNG THÔNG TIN MỘT CỬA ĐIỆN TỬ CỦA BỘ\nNÔNG NGHIỆP VÀ PHÁT TRIỂN NÔNG THÔN\nBỘ TRƯỞNG BỘ NÔNG NGHIỆP VÀ\nPHÁT TRIỂN NÔNG THÔN\nCăn cứ Nghị định số 15/2017/NĐ-CP ngày 17 tháng 02 năm 2017 của Chính phủ quy định về chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Nông nghiệp và Phát triển nông thôn; Căn cứ Nghị định số 43/2011/NĐ-CP ngày 13 tháng 6 năm 2011 của Chính phủ quy định về việc cung cấp thông tin và dịch vụ công trực tuyến trên trang thông tin điện tử hoặc cổng thông tin điện tử của cơ quan nhà nước; Căn cứ Nghị định số 61/2018/NĐ-CP ngày 23 tháng 4 năm 2018 của Chính phủ về thực hiện cơ chế một cửa, một cửa liên thông trong giải quyết thủ tục hành chính; Căn cứ Nghị định số 130/2018/NĐ-CP ngày 27 tháng 9 năm 2018 của Chính phủ quy định chi tiết thi hành Luật Giao dịch điện tử về chữ ký số và dịch vụ chứng thực chữ ký số; Căn cứ Nghị định số 45/2020/NĐ-CP ngày 08 tháng 4 năm 2020 của Chính phủ về thực hiện thủ tục hành chính trên môi trường điện tử; Căn cứ Nghị định số 47/2020/NĐ-CP ngày 09 tháng 4 năm 2020 của Chính phủ quy định quản lý, kết nối và chia sẻ dữ liệu số của cơ quan nhà nước; Căn cứ Thông tư số 01/2018/TT-VPCP ngày 23 tháng 11 năm 2018 của Văn phòng Chính phủ hướng dẫn thi hành một số quy định của Nghị định số 61/2018/NĐ-CP ngày 23 tháng 4 năm 2018 của Chính phủ về thực hiện cơ chế một cửa, một cửa liên thông trong giải quyết thủ tục hành chính; Xét đề nghị của Chánh Văn phòng Bộ.\nQUYẾT ĐỊNH:\nĐiều 1. Ban hành kèm theo Quyết định này Quy chế quản lý, vận hành, khai thác sử dụng Cổng Dịch vụ công và Hệ thống thông tin Một cửa điện tử của Bộ Nông nghiệp và Phát triển nông thôn.\nĐiều 2. Quyết định này có hiệu lực thi hành kể từ ngày ký.\nĐiều 3. Văn phòng Bộ có trách nhiệm chủ trì tổ chức triển khai, hướng dẫn các cơ quan, đơn vị liên quan thực hiện Quy chế này, định kỳ báo cáo Lãnh đạo Bộ về thông tin, tình hình thực hiện Quy chế.\nĐiều 4. Chánh Văn phòng Bộ, Giám đốc Trung tâm Tin học và Thống kê, Thủ trưởng các cư quan, đơn vị có liên quan chịu trách nhiệm thi hành Quyết định này./. Nơi nhận: - Như Điều 4; - Bộ trưởng (để b/c); - Các Thứ trưởng; - Các đơn vị thuộc Bộ; - Cổng TTĐT của Bộ; - Lưu: VT, VP. KT. BỘ TRƯỞNG THỨ TRƯỞNG Hà Công Tuấn\nQUY CHẾ\nQUY CHẾ QUẢN LÝ, VẬN HÀNH, KHAI THÁC\nSỬ DỤNG CỔNG DỊCH VỤ CÔNG VÀ HỆ THỐNG THÔNG TIN MỘT CỬA ĐIỆN TỬ CỦA BỘ NÔNG\nNGHIỆP VÀ PHÁT TRIỂN NÔNG THÔN\n(Ban hành kèm theo Quyết định số 5094/QĐ-BNN, ngày 15/12/2020 của Bộ trưởng\nNông nghiệp và Phát triển nông thôn)\nChương I\nQUY ĐỊNH CHUNG\nĐiều 1. Phạm vi điều chỉnh\nQuy chế này\nquy định việc quản lý, vận hành, khai thác sử dụng Cổng Dịch vụ công và Hệ thống thông tin Một cửa điện tử trong việc tiếp nhận, giải quyết hồ sơ và trả kết quả giải quyết thủ tục hành chính của đơn vị thuộc Bộ Nông nghiệp và Phát triển nông thôn.\nĐiều 2. Đối tượng áp dụng\n1. Các đơn vị\nthuộc Bộ Nông nghiệp và Phát triển nông thôn có nhiệm vụ, quyền hạn thực hiện tiếp nhận, giải quyết và trả kết quả thủ tục hành chính hoặc tham gia vào quá trình quản lý, vận hành, khai thác sử dụng Cổng Dịch vụ công và Hệ thống thông tin Một cửa điện tử (sau đây gọi là cơ quan có thẩm quyền).\n2. Cán bộ,\ncông chức, viên chức của các cơ quan có thẩm quyền được phân công nhiệm vụ cụ thể trong quá trình thực hiện giải quyết thủ tục hành chính cho tổ chức, cá nhân có nhu cầu giải quyết thủ tục hành chính hoặc tham gia vào quá trình quản lý, vận hành, khai thác sử dụng Cổng Dịch vụ công và Hệ thống thông tin Một cửa điện tử (sau đây gọi là cán bộ, công chức, viên chức).\n3. Tổ chức,\ncá nhân có yêu cầu thực hiện thủ tục hành chính, sử dụng Cổng dịch vụ công trực tuyến để đăng nhập, kê khai hồ sơ và thực hiện quá trình giải quyết thủ tục hành chính trên Cổng Dịch vụ công và Hệ thống thông tin Một cửa điện tử thuộc phạm vi giải quyết của Bộ Nông nghiệp và Phát triển nông thôn.\n4. Tổ chức\ntrung gian cung cấp các dịch vụ, tiện ích như: chữ ký số, thanh toán trực tuyến và các dịch vụ khác có liên quan trên Cổng Dịch vụ công và Hệ thống thông tin Một cửa điện tử của Bộ Nông nghiệp và Phát triển nông thôn.\nĐiều 3. Giải thích từ ngữ Trong Quy chế này, những từ ngữ dưới đây được hiểu như sau:\n1. Cơ chế một cửa trong giải quyết\nthủ tục hành chính là phương thức tiếp nhận hồ sơ, giải quyết và trả kết quả giải quyết thủ tục hành chính, theo dõi, giám sát, đánh giá việc giải quyết thủ tục hành chính cho tổ chức, cá nhân của một cơ quan có thẩm quyền thông qua Bộ phận Một cửa quy định tại Khoản 3 Điều này.\n2. Cơ chế một\ncửa liên thông trong giải quyết thủ tục hành chính là phương thức phối hợp giữa các cơ quan có thẩm quyền trong tiếp nhận hồ sơ, giải quyết và trả kết quả giải quyết một thủ tục hành chính hoặc một nhóm thủ tục hành chính có liên quan với nhau, theo dõi, giám sát, đánh giá việc giải quyết thủ tục hành chính cho tổ chức, cá nhân thông qua Bộ phận Một cửa quy định tại Khoản 3 Điều này.\n3. Bộ phận Một\ncửa là tên gọi chung của Bộ phận Tiếp nhận và trả kết quả giải quyết thủ tục hành chính được tổ chức tại các đơn vị thuộc Bộ, thực hiện nhiệm vụ, quyền hạn, hướng dẫn, tiếp nhận, giải quyết hoặc chuyển hồ sơ giải quyết, trả kết quả giải quyết thủ tục hành chính, theo dõi, giám sát, đánh giá việc giải quyết thủ tục hành chính của tổ chức, cá nhân.\n4. Cổng Dịch\nvụ công Quốc gia là cổng tích hợp thông tin về dịch vụ công trực tuyến, tình hình giải quyết, kết quả giải quyết thủ tục hành chính trên cơ sở kết nối, truy xuất dữ liệu từ các Hệ thống thông tin Một cửa điện tử cấp bộ, cấp tỉnh và các giải pháp hỗ trợ nghiệp vụ, kỹ thuật do Văn phòng Chính phủ thống nhất xây dựng, quản lý.\n5. Cổng Dịch\nvụ công của Bộ Nông nghiệp và Phát triển nông thôn (sau đây gọi là Cổng Dịch vụ công của Bộ) là hệ thống thông tin được xây dựng để thực hiện chức năng, nhiệm vụ cung cấp dịch vụ, tiếp nhận hồ sơ, xử lý và trả kết quả giải quyết các thủ tục hành chính cũng như tiếp nhận, xử lý phản ánh, kiến nghị của cá nhân, tổ chức trên môi trường điện tử. Cổng Dịch vụ công của Bộ được tích hợp, kết nối và chia sẻ dữ liệu với Cổng Dịch vụ công Quốc gia và các hệ thống thông tin khác của Bộ như: Cổng thông tin điện tử, Hệ thống thông tin Một cửa điện tử, Cơ chế Một cửa quốc gia tại Bộ Nông nghiệp và Phát triển nông thôn. Cổng Dịch vụ công của Bộ có địa chỉ truy cập tại: https://dichvucong.mard.gov.vn.\n6. Hệ thống\nthông tin Một cửa điện tử của Bộ Nông nghiệp và Phát triển nông thôn (sau đây gọi là Hệ thống Một cửa điện tử) là hệ thống thông tin nội bộ có chức năng hỗ trợ việc tiếp nhận, giải quyết, theo dõi tình hình tiếp nhận, giải quyết, kết quả giải quyết thủ tục hành chính của các đơn vị thuộc Bộ; kết nối, tích hợp, chia sẻ dữ liệu với hệ thống quản lý văn bản để xử lý hồ sơ trên môi trường mạng; kết nối, tích hợp với Cổng Dịch vụ công Quốc gia và Cổng Dịch vụ công của Bộ để đăng tải công khai kết quả giải quyết thủ tục hành chính và cung cấp các dịch vụ công trực tuyến có địa chỉ: http://mcdtbnn.mard.gov.vn/.\n7. Kho quản\nlý dữ liệu điện tử của tổ chức, cá nhân: là không gian điện tử riêng của tổ chức, cá nhân tại Cổng Dịch vụ công Quốc gia, Cổng Dịch vụ công cấp bộ, cấp tỉnh để hỗ trợ quản lý, lưu giữ thông tin, dữ liệu điện tử liên quan đến giao dịch hành chính của tổ chức, cá nhân đó.\n8. Các thuật\nngữ khác sử dụng trong Quy chế này được giải thích tại Điều 3 Nghị định số 61/2018/NĐ-CP ngày 23 tháng 4 năm 2018 của Chính phủ về thực hiện cơ chế một cửa, một cửa liên thông trong giải quyết thủ tục hành chính (sau đây gọi tắt là Nghị định số 61/2018/NĐ-CP); Điều 3, Nghị định số 45/2020/NĐ-CP ngày 08 tháng 4 năm 2020 của Chính phủ về thực hiện thủ tục hành chính trên môi trường điện tử (sau đây gọi tắt là Nghị định số 45/2020/NĐ-CP) và các văn bản pháp luật có liên quan do các cơ quan có thẩm quyền ban hành.\nĐiều 4. Yêu cầu chung về Cổng Dịch vụ công và Hệ thống thông tin Một cửa điện tử của Bộ Nông nghiệp và Phát triển nông thôn\n1. Thực hiện\ntheo quy định tại khoản 2 Điều 25 Nghị định số 61/2018/NĐ-CP;\nChương IV Thông tư số 01/2018/TT-VPCP ngày 23 tháng 11 năm\n2018 của Văn phòng Chính phủ về hướng dẫn thi hành một số quy định của Nghị định số 61/2018/NĐ-CP ngày 23 tháng 4 năm 2018 của Chính phủ về thực hiện cơ chế một cửa, một cửa liên thông trong giải quyết thủ tục hành chính (sau đây gọi tắt là Thông tư số 01/2018/TT-VPCP).\n2. Cổng Dịch\nvụ công phải tích hợp, kết nối với Hệ thống Một cửa điện tử, Cổng Dịch vụ công Quốc gia, phải đảm bảo an toàn thông tin và vận hành liên tục 24 giờ trong tất cả các ngày trên mạng Internet; đồng thời bảo đảm thông tin và dịch vụ công trực tuyến luôn được cập nhật đầy đủ, chính xác, sẵn sàng, có thể truy cập mọi lúc.\nĐiều 5. Nguyên tắc chung trong quản lý, vận hành, khai thác sử dụng Cổng Dịch vụ công và Hệ thống thông tin Một cửa điện tử\n1. Việc quản\nlý, vận hành, khai thác sử dụng Cổng Dịch vụ công và Hệ thống Một cửa điện tử phải tuân thủ theo các quy định của pháp luật về giao dịch điện tử, pháp luật bảo vệ bí mật nhà nước, pháp luật chuyên ngành quy định thủ tục hành chính trong việc giải quyết hồ sơ thủ tục hành chính thực hiện trên Cổng Dịch vụ công, Hệ thống Một cửa điện tử và các quy định khác của các cơ quan nhà nước có thẩm quyền liên quan cũng như các quy định của Bộ Nông nghiệp và Phát triển nông thôn.\n2. Việc thực\nhiện thủ tục hành chính trên Cổng Dịch vụ công và Hệ thống Một cửa điện tử không làm hạn chế hoặc phân biệt cách thức tổ chức, cá nhân nộp hồ sơ, nhận kết quả giải quyết thủ tục hành chính theo quy định tại Điều 16 Nghị định số 61/2018/NĐ-CP, đồng thời tuân thủ quy định tại Điều 4 Nghị định số 45/2020/NĐ-CP; đảm bảo công khai, minh bạch, kịp thời, chính xác, đúng quy định pháp luật trong việc giải quyết thủ tục hành chính cho tổ chức, cá nhân.\n3. Các thông\ntin được cung cấp trên Cổng Dịch vụ công cần phải đúng, đủ, rõ ràng và kịp thời, cập nhật liên tục dựa trên các quy định hiện hành. Các thông tin được thiết kế theo mẫu thống nhất, đơn giản, tạo thuận lợi, không gây phiền hà, ách tắc trong quá trình xử lý, giảm thời gian, chi phí cho tổ chức, cá nhân thực hiện giải quyết thủ tục hành chính. Các biểu mẫu, cách thức ghi, sử dụng các loại biểu mẫu trong quy trình giải quyết thủ tục hành chính thực hiện, lưu trữ các báo cáo, hồ sơ, sổ sách và thực hiện các báo cáo theo quy định tại Điều 9, Điều 10 và Điều 11 Thông tư số 01/2018/TT-VPCP và Điều 10 Thông tư số 01/2020/TT-VPCP ngày 21/10/2020 của Văn phòng Chính phủ quy định chế độ báo cáo định kỳ và quản lý, sử dụng, khai thác hệ thống thông tin báo cáo của Văn phòng Chính phủ.\n4. Hệ thống Một cửa điện tử của Bộ\ntriển khai tại các cơ quan có thẩm quyền để giải quyết thủ tục hành chính được tổ chức theo mô hình quản lý, cài đặt và lưu trữ tập trung, đảm bảo khả năng đồng bộ; được vận hành trên môi trường điện tử, dữ liệu được liên thông trong Hệ thống Một cửa điện tử chung của Bộ, luân chuyển khép kín từ Bộ phận Một cửa của các cơ quan, đơn vị chuyên môn và giữa các cơ quan, đơn vị thuộc Bộ với nhau; cập nhật đầy đủ, kịp thời các thủ tục hành chính thuộc các lĩnh vực được triển khai trên hệ thống để tổ chức thực hiện; đảm bảo sự phối hợp chặt chẽ giữa các cơ quan nhà nước trong giải quyết thủ tục hành chính cho tổ chức, cá nhân trên hệ thống; đáp ứng việc cập nhật hàng ngày tình hình giải quyết hồ sơ thủ tục hành chính của từng đơn vị cụ thể lên Cổng Dịch vụ công Quốc gia và Cổng Dịch vụ công của Bộ; thực hiện thủ tục hành chính theo quy định của Chính phủ và Bộ Nông nghiệp và Phát triển nông thôn.\nĐiều 6. Thời gian làm việc và giải quyết thủ tục hành chính\n1. Trên Cổng\nDịch vụ công\na) Thời gian\nnộp hồ sơ qua môi trường điện tử được thực hiện 24/7, vào tất cả các ngày trong tuần, kể cả ngày nghỉ, lễ theo quy định.\nb) Thời gian\ntiếp nhận và giải quyết thủ tục hành chính được tính theo thời gian quy định tại quy trình nội bộ giải quyết các thủ tục hành chính của cơ quan có thẩm quyền đã được phê duyệt, công bố, công khai kể từ khi hồ sơ được tiếp nhận đầy đủ, hợp lệ.\n2. Trên Hệ\nthống Một cửa điện tử\na) Làm việc\nvào tất cả các ngày trong tuần, từ thứ hai đến thứ sáu (trừ ngày nghỉ, lễ theo quy định). - Buổi sáng: Từ 08 giờ đến 12 giờ; - Buổi chiều: Từ 13 giờ đến 17 giờ.\nb) Thời gian\ntiếp nhận và trả kết quả thủ tục hành chính trên Hệ thống Một cửa điện tử của các cơ quan có thẩm quyền được tính kể từ ngày nhận hồ sơ đầy đủ, hợp lệ theo quy định. Thời gian giải quyết thủ tục hành chính được thực hiện theo quy trình nội bộ giải quyết thủ tục hành chính đã được phê duyệt, công bố, công khai kể từ khi hồ sơ được tiếp nhận đầy đủ, hợp lệ.\nĐiều 7. Mã hồ sơ thủ tục hành chính và mã ngành, lĩnh vực thủ tục hành chính Thực hiện theo quy định tại Điều 26 Nghị định số 61/2018/NĐ-CP, Quyết định số 362/QĐ-VPCP ngày 27/4/2019 của Văn phòng Chính phủ về việc ban hành danh mục mã ngành, lĩnh vực thủ tục hành chính trên hệ thống Cổng Dịch vụ công Quốc gia, Cổng Dịch vụ công và Hệ thống thông tin Một cửa điện tử cấp bộ, cấp tỉnh; Điều 19, Điều 20 Thông tư số 01/2018/TT-VPCP.\nĐiều 8. Kho quản lý dữ liệu điện tử của tổ chức, cá nhân Những thông tin, thành phần hồ sơ của tổ chức, cá nhân sau khi được cơ quan, đơn vị giải quyết thủ tục hành chính tiếp nhận và ghi nhận tính chính xác sẽ được lưu giữ tại Kho quản lý dữ liệu điện tử. Kho quản lý dữ liệu điện tử của tổ chức, cá nhân được thực hiện theo quy định tại Điều 16 Nghị định số 45/2020/NĐ-CP.\nĐiều 9. Quản lý tài khoản phí, lệ phí\n1. Các cơ\nquan có thẩm quyền giải quyết thủ tục hành chính quản lý tài khoản phí, lệ phí theo quy định của pháp luật đối với các dịch vụ công do đơn vị mình cung cấp.\n2. Việc thu,\nnộp phí, lệ phí, thuế và các nghĩa vụ tài chính khác (nếu có) trong giải quyết thủ tục hành chính trên môi trường điện tử được thực hiện theo quy định tại Điều 13 Nghị định số 45/2020/NĐ-CP.\nĐiều 10. Đánh giá quá trình giải quyết thủ tục hành chính\n1. Tổ chức,\ncá nhân trong quá trình giải quyết hoặc đã giải quyết xong thủ tục hành chính sẽ thực hiện đánh giá quá trình giải quyết thủ tục hành chính bằng cách truy cập vào Cổng dịch vụ công và Hệ thống thông tin Một cửa điện tử của Bộ.\n2. Triển\nkhai hệ thống thông tin đánh giá trực tuyến việc giải quyết thủ tục hành chính trên môi trường điện tử tại Bộ Nông nghiệp và Phát triển nông thôn đáp ứng đầy đủ quy định tại Điều 31 Nghị định số 61/2018/NĐ-CP.\n3. Việc tổ\nchức thu thập ý kiến đánh giá thực hiện theo quy định tại Điều 12 Thông tư số 01/2018/TT-VPCP.\nĐiều 11. Chuyển đổi hồ sơ, kết quả giải quyết thủ tục hành chính điện tử ra văn bản giấy Tổ chức, cá nhân và cơ quan có thẩm quyền in hồ sơ kết quả giải quyết thủ tục hành chính điện tử ra bản giấy khi có nhu cầu. Việc chuyển đổi hồ sơ, kết quả giải quyết thủ tục hành chính điện tử ra văn bản giấy được thực hiện theo quy định tại Điều 18 Nghị định số 45/2020/NĐ-CP.\nĐiều 12. Thông tin trên Cổng dịch vụ công và Hệ thống thông tin Một cửa điện tử\n1. Thông tin về dịch vụ công và\ncơ quan có thẩm quyền:\na) Danh mục\ncơ quan, đơn vị thực hiện thủ tục hành chính, cung cấp dịch vụ hành chính công, dịch vụ công trực tuyến chia theo lĩnh vực quản lý của Bộ.\nb) Danh mục\ncác dịch vụ hành chính công, các dịch vụ công trực tuyến đang thực hiện và mức độ của dịch vụ của từng cơ quan, đơn vị thực hiện thủ tục hành chính được tổ chức, phân loại theo ngành, lĩnh vực để thuận tiện cho việc khai thác sử dụng. Đối với mỗi dịch vụ, khi tra cứu đều được hiển thị đầy đủ các bộ phận cấu thành của thủ tục hành chính và trách nhiệm của các bên có liên quan, trong đó quy định rõ nội dung chi tiết để thực hiện thủ tục hành chính gồm: Trình tự, cách thức thực hiện; thành phần, số lượng hồ sơ; thời hạn giải quyết; đối tượng thực hiện, cơ quan giải quyết, kết quả thực hiện thủ tục hành chính; phí, lệ phí; mẫu đơn, mẫu tờ khai; yêu cầu, điều kiện thực hiện (nếu có), căn cứ pháp lý của thủ tục hành chính.\nc) Tên mỗi dịch vụ hành chính\ncông, dịch vụ công trực tuyến được đặt đúng theo tên của thủ tục hành chính tương ứng được quy định trong danh mục thủ tục hành chính được công bố theo Quyết định của Bộ Nông nghiệp và Phát triển nông thôn.\n2. Thông tin, báo cáo thống kê về\ntình hình giải quyết, kết quả giải quyết hồ sơ thủ tục hành chính:\na) Tổng hợp\nsố lượng hồ sơ đã tiếp nhận, số lượng hồ sơ đã xử lý và kết quả giải quyết thủ tục hành chính của Bộ, của cơ quan, đơn vị thuộc Bộ Nông nghiệp và Phát triển nông thôn về thực hiện thủ tục hành chính, trong đó chia ra hồ sơ giải quyết trước hạn, hồ sơ giải quyết đúng hạn, hồ sơ giải quyết quá hạn.\nb) Thông\ntin, báo cáo thống kê số lượng hồ sơ thủ tục hành chính nộp trực tuyến, giao dịch qua mạng theo phương thức thực hiện dịch vụ công trực tuyến của từng cơ quan, đơn vị thực hiện thủ tục hành chính.\nĐiều 13. Các chức năng cung cấp trên Cổng Dịch vụ công và Hệ thống thông tin Một cửa điện tử Các chức năng cung cấp trên Cổng Dịch vụ công và Hệ thống Một cửa điện tử được quy định cụ thể tại Điều 5, Điều 6 Thông tư số 22/2019/TT-BTTTT ngày 31/12/2019 của Bộ Thông tin và Truyền thông quy định về tiêu chí chức năng, tính năng kỹ thuật của Cổng Dịch vụ công và Hệ thống thông tin Một cửa điện tử cấp bộ, cấp tỉnh.\nĐiều 14. Lưu trữ và bảo quản thông tin Việc lưu trữ và bảo quản thông tin của Cổng Dịch vụ công và Hệ thống Một cửa điện tử được thực hiện theo quy định tại Điều 17 Nghị định số 45/2020/NĐ-CP, quy định của pháp luật về Lưu trữ và Thông tư số 02/2019/TT-BNV ngày 24/01/2019 của Bộ Nội vụ quy định tiêu chuẩn dữ liệu thông tin đầu vào và yêu cầu bảo quản tài liệu lưu trữ điện tử.\nĐiều 15. Xử lý sự cố Trường hợp Cổng Dịch vụ công xảy ra sự cố, làm gián đoạn quá trình cung cấp dịch vụ:\n1. Cơ quan có thẩm quyền có trách\nnhiệm thông báo cho tổ chức, cá nhân bằng văn bản, qua điện thoại hoặc thư điện tử theo thông tin đã đăng ký và hướng dẫn tổ chức, cá nhân hoàn thành các thủ tục đang thực hiện theo các phương thức khác theo quy định của pháp luật chuyên ngành.\n2. Trong thời gian khắc phục sự cố,\ncác thủ tục hành chính được thực hiện theo các phương thức khác theo quy định của pháp luật chuyên ngành.\nĐiều 16. Quy định về an ninh, an toàn và bảo mật thông tin\n1. Tuân thủ các quy định theo,\nThông tư số 03/2017/TT-BTTTT ngày 24/4/2017 của Bộ Thông tin và Truyền thông Quy định chi tiết và hướng dẫn một số điều của Nghị định số 85/2016/NĐ-CP ngày 01/7/2016 của Chính phủ về bảo đảm an toàn thông tin theo cấp độ và các văn bản quy phạm pháp luật về bảo đảm an toàn thông tin và dữ liệu. - Các cơ quan, đơn vị thuộc Bộ phải sử dụng Giao thức truyền siêu văn bản an toàn (HTTPS) để tăng cường bảo đảm an toàn cho truy cập dịch vụ công trực tuyến mức độ 3, mức độ 4. - Hệ thống Dịch vụ công và Hệ thống Một cửa điện tử phải được áp dụng các giải pháp, kỹ thuật, công nghệ an toàn, bảo mật để việc cung cấp dịch vụ đảm bảo tính toàn vẹn, chính xác, kịp thời cho người sử dụng. - Người sử dụng tham gia Hệ thống Dịch vụ công và Hệ thống Một cửa điện tử có trách nhiệm bảo quản, bảo mật tài khoản và mật khẩu được cấp, truy cập đúng thẩm quyền quy định và tuân thủ các quy định về an toàn, bảo mật của Quy chế này. - Bộ Nông nghiệp và Phát triển nông thôn có trách nhiệm bảo mật và lưu giữ thông tin của người sử dụng, trừ trường hợp phải cung cấp thông tin này cho các cơ quan có thẩm quyền theo quy định của pháp luật.\nĐiều 17. Quản lý, sử dụng tài khoản: Có hai loại tài khoản khi tham gia vào hệ thống:\n1. Tài khoản\ncấp cho lãnh đạo, công chức, viên chức của các đơn vị thuộc Bộ (,..@mard.gov.vn) là tài khoản email công vụ tích hợp trên hệ thống AD (Active Directory - hệ thống quản lý tài khoản, thiết bị truy cập mạng trên hệ thống máy chủ của Bộ) và phải tuân theo quy chế Quản lý email công vụ của Bộ.\n2. Tài khoản\ncấp cho các tổ chức, cá nhân, doanh nghiệp. Khi tham gia hệ thống phải tuân theo các quy định sau: - Không xâm phạm, giả mạo hoặc cố tình truy cập vào hệ thống bằng tài khoản của cá nhân, tổ chức, doanh nghiệp khác. - Các cá nhân, tổ chức, doanh nghiệp được cấp tài khoản sử dụng phải có trách nhiệm tự quản lý, lưu trữ và bảo quản tài khoản của mình được an toàn. - Trong trường hợp bị mất quyền truy cập, sai lệch thông tin, chưa được phân quyền, bị khóa, mất, lộ mật khẩu dưới bất kỳ hình thức nào thì phải kịp thời báo ngay cho Bộ Nông nghiệp và Phát triển nông thôn để tiếp nhận, xử lý kịp thời (Qua hệ thống đường dây nóng, trực kỹ thuật).\nChương II\nQUY\nTRÌNH THỰC HIỆN THỦ TỤC HÀNH CHÍNH TRÊN CỔNG DỊCH VỤ CÔNG VÀ HỆ THỐNG THÔNG TIN\nMỘT CỬA ĐIỆN TỬ\nĐiều 18. Đăng ký, đăng nhập tài khoản và nộp hồ sơ điện tử\n1. Tổ chức,\ncá nhân truy cập vào Cổng Dịch vụ công để đăng ký tài khoản giao dịch điện tử (hoặc sử dụng tài khoản giao dịch điện tử đã đăng ký tại Cổng Dịch vụ công quốc gia) để thực hiện giao dịch đối với các thủ tục hành chính được cung cấp dịch vụ công trực tuyến trên Cổng Dịch vụ công theo quy định.\n2. Việc tiếp\nnhận, giải quyết thủ tục hành chính trên Cổng Dịch vụ công chỉ được thực hiện khi hồ sơ được gửi từ tài khoản đã đăng ký.\n3. Tổ chức,\ncá nhân sử dụng tài khoản đã đăng ký thành công đăng nhập vào địa chỉ Cổng Dịch vụ công để thao tác gửi hồ sơ điện tử thực hiện thủ tục hành chính đến cơ quan có thẩm quyền tiếp nhận.\n4. Trường hợp\nmức độ bảo đảm xác thực khi thực hiện giao dịch thủ tục hành chính trực tuyến yêu cầu cao hơn so với mức độ bảo đảm xác thực khi đăng nhập vào Cổng Dịch vụ công thì tổ chức, cá nhân thực hiện theo yêu cầu cụ thể của hệ thống.\n5. Hồ sơ điện\ntử thực hiện thủ tục hành chính phải kê khai đầy đủ các mẫu đơn, tờ khai điện tử, kèm theo đầy đủ thành phần thủ tục hồ sơ theo yêu cầu của từng dịch vụ công trực tuyến, đảm bảo đúng quy định của pháp luật. Đối với hồ sơ nộp trực tuyến mức độ 3, mức độ 4 phải được kê khai và ký chữ ký số trên các biểu mẫu điện tử bao gồm:\nbiểu mẫu, đơn và các tài liệu đính kèm. Các tài liệu đính kèm là các file điện\ntử được chụp hoặc scan từ bản chính, thực hiện theo quy định tại khoản 1và khoản 2 Điều 9 Nghị định số 45/2020/NĐ-CP.\n6. Việc chuyển\nđổi giấy tờ, tài liệu của tổ chức, cá nhân sang bản điện tử để nộp hồ sơ thủ tục hành chính trực tuyến trên Cổng Dịch vụ công được các cơ quan có thẩm quyền thực hiện theo hình thức cấp bản sao điện tử từ sổ gốc hoặc chứng thực bản sao điện tử từ bản chính giấy tờ, tài liệu theo quy định tại Điều 10 Nghị định số 45/2020/NĐ-CP.\nĐiều 19. Quy trình tiếp nhận, giải quyết hồ sơ thủ tục hành chính trên Cổng Dịch vụ công và Hệ thống thông tin Một cửa điện tử\n1. Cổng Dịch\nvụ công tiếp nhận yêu cầu, kiểm tra tự động về mặt kỹ thuật. Nếu hồ sơ đã đủ các thành phần và bảo đảm về mặt kỹ thuật thì phản hồi tự động xác nhận tổ chức, cá nhân đã gửi thành công và thông báo về thời điểm tiếp nhận chính thức hồ sơ.\n2. Công chức,\nviên chức của các cơ quan có thẩm quyền được phân công tiếp nhận hồ sơ thủ tục hành chính tiến hành kiểm tra hồ sơ điện tử của tổ chức, cá nhân trên Cổng Dịch vụ công và Hệ thống Một cửa điện tử. Nội dung kiểm tra hồ sơ bao gồm:\na) Kiểm tra\ntính chính xác của thông tin tại mẫu đơn, tờ khai và thành phần hồ sơ kèm theo thông qua việc khai thác thông tin, dữ liệu tại các hệ thống thông tin, cơ sở dữ liệu đã được các cơ quan có thẩm quyền kết nối, chia sẻ thông tin cho Cổng Dịch vụ công và Hệ thống Một cửa điện tử;\nb) Kiểm tra\nthông tin chữ ký số để đảm bảo tính xác thực, tính hợp lệ, chính xác, nguyên vẹn đối với các thành phần hồ sơ được đăng tải, dẫn nguồn, các thành phần hồ sơ theo yêu cầu chứng thực điện tử; việc kiểm tra chữ ký số được thực hiện theo quy định của Luật Giao dịch điện tử.\n3. Sau khi\nkiểm tra, nếu hồ sơ bảo đảm các điều kiện để tiếp nhận, công chức, viên chức tiếp nhận, cấp mã hồ sơ thủ tục hành chính và xử lý hồ sơ theo quy trình quy định tại\nChương III Nghị định số 61/2018/NĐ-CP và Điều\n11 Nghị định số 45/2020/NĐ-CP và các quy định của pháp luật có liên quan. Trường hợp hồ sơ chưa đầy đủ hoặc chưa đúng quy định, công chức, viên chức thông báo cho tổ chức, cá nhân biết thông qua tài khoản của tổ chức, cá nhân trên Cổng Dịch vụ công hoặc các kênh thông tin liên hệ do tổ chức, cá nhân cung cấp để hướng dẫn đầy đủ, cụ thể một lần cho tổ chức, cá nhân bổ sung, hoàn thiện đầy đủ hồ sơ theo quy định.\n4. Công chức,\nviên chức thông báo về việc tiếp nhận chính thức hoặc yêu cầu chỉnh sửa, bổ sung hồ sơ điện tử cho tổ chức, cá nhân không muộn hơn 08 (tám) giờ làm việc kể từ khi hệ thống tiếp nhận.\n5. Việc sửa\nđổi, bổ sung thông tin hồ sơ điện tử thực hiện thủ tục hành chính được thực hiện theo quy định tại Điều 12 Nghị định số 45/2020/NĐ-CP.\n6. Việc\nthanh toán trực tuyến nghĩa vụ tài chính, phí, lệ phí trong giải quyết thủ tục hành chính được thực hiện theo quy định tại Điều 13 Nghị định số\n45/2020/NĐ-CP.\n7. Kết quả\ngiải quyết thủ tục hành chính đối với hồ sơ điện tử được thực hiện theo quy định tại Điều 14 Nghị định số 45/2020/NĐ-CP.\n8. Các biểu\nmẫu trong quy trình giải quyết thủ tục hành chính thực hiện theo quy định tại Điều 9 Thông tư số 01/2018/TT-VPCP ngày 23/11/2018 Hướng dẫn thi hành một số quy định của Nghị định số 61/2018/NĐ-CP ngày 23/4/2018 của Chính phủ về Đề nghị thực hiện cơ chế một cửa, một cửa liên thông trong giải quyết thủ tục hành chính.\nChương III\nTIẾP NHẬN,\nXỬ LÝ CÂU HỎI, PHẢN ÁNH, KIẾN NGHỊ TRÊN CỔNG DỊCH VỤ CÔNG\nĐiều 20. Quy định đối với Mục Hỏi đáp - Kiến nghị\n1. Mục Hỏi đáp - Kiến nghị được\ncung cấp trên Cổng Dịch vụ công để thực hiện việc tiếp nhận và giải đáp các câu hỏi của tổ chức, cá nhân về các vấn đề liên quan đến thủ tục hành chính, dịch vụ công trực tuyến thuộc phạm vi trách nhiệm quản lý của các cơ quan, đơn vị quy định tại khoản 1 Điều 2 Quy chế này, với mục tiêu tạo điều kiện cho tổ chức, cá nhân tham gia đối thoại với các cơ quan có thẩm quyền để nắm bắt thêm thông tin, đáp ứng yêu cầu công khai, minh bạch trong công tác giải quyết thủ tục hành chính.\n2. Nội dung\ntrả lời câu hỏi của các cơ quan có thẩm quyền trên Mục Hỏi đáp - Kiến nghị chỉ có giá trị tham khảo, không có giá trị pháp lý để thi hành hoặc giải quyết các quan hệ dân sự, kinh tế và các quan hệ pháp luật khác.\n3. Việc tiếp\nnhận, trả lời câu hỏi trên Mục Hỏi đáp - Kiến nghị quy định tại Quy chế này không bị điều chỉnh bởi các quy định của pháp luật liên quan đến khiếu nại, tố cáo và xử lý phản ánh, kiến nghị.\n4. Mục Hỏi\nđáp - Kiến nghị không xem xét, trả lời các câu hỏi được các cơ quan có thẩm quyền xác định vi phạm những hành vi không được làm khi tham gia thực hiện thủ tục hành chính trên Cổng Dịch vụ công được quy định tại khoản 3 Điều 5 Nghị định số 45/2020/NĐ-CP hoặc câu hỏi không đáp ứng đầy đủ các quy định tại Điều 21 Quy chế này.\nĐiều 21. Quy định đối với việc gửi câu hỏi đến Mục Hỏi đáp - Kiến nghị\n1. Câu hỏi\nphải được soạn thảo dưới dạng chữ tiếng Việt có dấu, theo định dạng font chữ Times New Roman bảng mã Unicode, không viết tắt, không sử dụng các ký hiệu không được thừa nhận theo quy định, câu hỏi phải có nội dung cụ thể, không đặt câu hỏi chung chung, thuộc phạm vi nội dung quy định tại Điều 20 Quy chế này.\n2. Quy định\nvề xác thực danh tính của tổ chức, cá nhân gửi câu hỏi:\na) Đối với\ntrường hợp là tổ chức thì người gửi câu hỏi phải ghi rõ họ và tên, chức vụ đại diện theo pháp luật của tổ chức gửi câu hỏi; số quyết định (hoặc giấy phép, giấy chứng nhận) thành lập tổ chức; địa chỉ trụ sở chính của tổ chức; số điện thoại và địa chỉ thư điện tử liên hệ đã được đăng ký với cơ quan có thẩm quyền.\nb) Đối với\ntrường hợp là cá nhân phải ghi rõ họ và tên, quốc tịch, số chứng minh thư nhân dân (hoặc số thẻ căn cước công dân hoặc hộ chiếu), địa chỉ đăng ký thường trú; số điện thoại và địa chỉ thư điện tử (nếu có).\nĐiều 22. Quy trình tiếp nhận, chuyển câu hỏi và xử lý, đăng tải nội dung trả lời tại Mục Hỏi đáp - Kiến nghị\n1. Tiếp nhận, chuyển câu hỏi đến\ncác cơ quan có thẩm quyền:\na) Văn phòng\nBộ có trách nhiệm làm đầu mối tiếp nhận câu hỏi của tổ chức, cá nhân gửi đến Mục Hỏi đáp - Kiến nghị. Chậm nhất 02 (hai) ngày kể từ khi tiếp nhận câu hỏi, Văn phòng Bộ rà soát nội dung, phân loại câu hỏi chuyển đến các cơ quan có thẩm quyền để xem xét, trả lời theo quy định. Trường hợp câu hỏi gửi đến ngoài giờ hành chính thì thời điểm tiếp nhận câu hỏi được tính tại thời điểm bắt đầu buổi làm việc tiếp theo.\nb) Trường hợp\ncâu hỏi không đảm bảo các quy định tại Điều 21 Quy chế này, trong thời hạn 01 (một) ngày làm việc, Văn phòng Bộ có trách nhiệm phản hồi với tổ chức, cá nhân về việc không tiếp nhận, xử lý câu hỏi.\nc) Văn phòng\nBộ thực hiện chuyển câu hỏi thông qua tài khoản sử dụng Cổng Dịch vụ công cấp cho công chức, viên chức được các cơ quan, đơn vị phân công làm nhiệm vụ đầu mối tiếp nhận câu hỏi và đăng tải nội dung trả lời.\n2. Xử lý và đăng tải nội dung trả\nlời câu hỏi cho tổ chức, cá nhân:\na) Các cơ\nquan có thẩm quyền xem xét, phân công bộ phận chuyên môn soạn thảo nội dung trả lời câu hỏi; chuyển nội dung trả lời đến cán bộ đầu mối của đơn vị để đăng tải nội dung trả lời cho tổ chức, cá nhân trên Cổng Dịch vụ công thông qua tài khoản sử dụng Cổng Dịch vụ công quy định tại điểm c khoản 1 Điều này.\nb) Thời hạn\ntrả lời kể từ khi tiếp nhận câu hỏi chậm nhất 03 (ba) ngày làm việc; trường hợp nội dung câu hỏi mang tính chất phức tạp, cần có sự phối hợp của nhiều cơ quan, đơn vị thì cơ quan, đơn vị được gửi câu hỏi chủ trì, phối hợp với các cơ quan, đơn vị liên quan xem xét trả lời tổ chức, cá nhân trong thời hạn không quá 05 (năm) ngày làm việc, đồng thời gửi kết quả về Văn phòng Bộ. Đối với câu hỏi không thuộc phạm vi, lĩnh vực hoạt động, thẩm quyền giải quyết của cơ quan, đơn vị thì chậm nhất 01 (một) ngày kể từ khi tiếp nhận câu hỏi, phải phản hồi cho Văn phòng Bộ để kịp thời chuyển đến cơ quan có thẩm quyền xem xét, giải quyết.\nc) Câu trả lời\nphải ghi cụ thể các thông tin: Tên cơ quan, đơn vị trả lời; họ và tên, chức vụ của Lãnh đạo cơ quan, đơn vị trả lời hoặc cá nhân được ủy quyền trả lời theo quy định.\nĐiều 23. Tiếp nhận, xử lý phản ánh, kiến nghị\na) Việc tiếp\nnhận, xử lý phản ánh, kiến nghị của tổ chức, công dân gửi đến Cổng Dịch vụ công được thực hiện thông qua tài khoản sử dụng Cổng Dịch vụ công của công chức, viên chức quy định tại điểm c khoản 1 Điều 22 Quy chế này.\nb) Quy trình\ntiếp nhận, xử lý và công khai kết quả xử lý phản ánh, kiến nghị thực hiện theo quy định tại Nghị định số 20/2008/NĐ-CP ngày 14 tháng 02 năm 2008 của Chính phủ về tiếp nhận, xử lý phản ánh, kiến nghị của cá nhân, tổ chức về quy định hành chính và Điều 33, Điều 34 Thông tư số 02/2017/TT-VPCP ngày 31/10/2017 của Bộ trưởng, Chủ nhiệm Văn phòng Chính phủ hướng dẫn về nghiệp vụ kiểm soát thủ tục hành chính.\nChương IV\nTỔ CHỨC THỰC HIỆN\nĐiều 24. Trách nhiệm của Văn phòng Bộ\n1. Hướng dẫn các cơ quan, đơn vị\nxây dựng, trình ban hành quy trình nội bộ, quy trình điện tử thực hiện thủ tục hành chính thuộc phạm vi quản lý của Bộ.\n2. Hướng dẫn\ncác cơ quan, đơn vị xây dựng lộ trình cung cấp dịch vụ công trực tuyến. Định kỳ hằng quý, hằng năm tổng hợp, báo cáo Bộ Nông nghiệp và Phát triển nông thôn về tình hình triển khai thực hiện của các cơ quan, đơn vị.\n3. Chủ trì\ntham mưu cho Bộ Nông nghiệp và Phát triển nông thôn tổ chức triển khai, hướng dẫn thực hiện; điều chỉnh, bổ sung các nội dung của Quy chế (nếu có) theo quy định của pháp luật; định kỳ báo cáo Lãnh đạo Bộ về thông tin, kết quả triển khai, tình hình thực hiện Quy chế này.\n4. Chủ trì\ntriển khai công tác tuyên truyền, giới thiệu dịch vụ công trực tuyến để nâng cao nhận thức và khuyến khích các tổ chức, cá nhân tham gia, sử dụng dịch vụ công trực tuyến.\n5. Tổng hợp,\ntiếp nhận và phân công việc trả lời phản ánh, kiến nghị liên quan đến thực hiện thủ tục hành chính của Bộ Nông nghiệp và Phát triển nông thôn; công khai trên hệ thống xử lý phản ánh kiến nghị của Cổng Dịch vụ công Quốc gia.\n6. Lập dự\ntoán kinh phí hàng năm để duy trì, vận hành Hệ thống Một cửa điện tử của Bộ; rà soát, đề xuất với Bộ Nông nghiệp và Phát triển nông thôn phương án, biện pháp để phát triển Hệ thống thông tin Một cửa điện tử đảm bảo đáp ứng yêu cầu thực tế; tổ chức kiểm tra, theo dõi, đôn đốc việc triển khai, thực hiện cung cấp dịch vụ công trực tuyến theo Quy chế này và các văn bản pháp luật hiện hành có liên quan.\n7. Đề nghị Bộ\nNông nghiệp và Phát triển nông thôn khen thưởng hoặc phê bình Thủ trưởng cơ quan, đơn vị trong chỉ đạo thực hiện Quy chế này.\n8. Trước\nngày 30 tháng 11 hằng năm, Văn phòng Bộ chủ trì phối hợp với các đơn vị liên quan thuộc Bộ rà soát, xác định những thủ tục hành chính có đủ điều kiện xây dựng cung cấp dịch vụ công trực tuyến mức độ 3 và 4; trình Bộ ban hành kế hoạch xây dựng, cung cấp dịch vụ công trực tuyến (sau đây gọi tắt là Kế hoạch) thực hiện trong năm tiếp theo.\nĐiều 25. Trách nhiệm của Trung tâm Tin học và Thống kê\n1. Quản lý,\nduy trì, vận hành và đảm bảo hạ tầng kỹ thuật cho Cổng Dịch vụ công và Hệ thống Một cửa điện tử theo quy định tại Quy chế này và các quy định khác của pháp luật có liên quan, bảo đảm hệ thống hoạt động ổn định, thông suốt và đảm bảo an ninh, an toàn thông tin theo quy định.\n2. Hỗ trợ kỹ\nthuật và khắc phục các sự cố (nếu có) cho các cơ quan có thẩm quyền của Bộ và trực đường dây nóng để giải đáp thắc mắc, hỗ trợ kỹ thuật cho tổ chức, người dân và doanh nghiệp trong quá trình vận hành, khai thác sử dụng, bảo đảm hệ thống được duy trì, vận hành liên tục, thông suốt.\n3. Chủ trì\nvà là đầu mối kỹ thuật trong việc tích hợp Cổng Dịch vụ công và Hệ thống thông tin Một cửa điện tử của Bộ với Cổng Dịch vụ công Quốc gia; chia sẻ dữ liệu với Cổng Dịch vụ công Quốc gia, Cổng Dịch vụ công của Bộ, Hệ thống thông tin Một cửa điện tử, Cổng thông tin điện tử, Cơ sở dữ liệu và các hệ thống thông tin khác có liên quan của Bộ cũng như các cơ quan, đơn vị và tổ chức, cá nhân khác.\n4. Lập dự\ntoán kinh phí hàng năm để duy trì, phát triển Cổng Dịch vụ công; rà soát, đề xuất với Bộ Nông nghiệp và Phát triển nông thôn phương án, biện pháp để phát triển Cổng Dịch vụ công đảm bảo đáp ứng yêu cầu thực tế.\n5. Chủ trì,\nphối hợp với các đơn vị liên quan tổ chức xây dựng hạ tầng cung cấp dịch vụ công trực tuyến mức độ 3 và 4; bao gồm việc xác lập, hoàn thiện quy trình hành chính điện tử và nội dung đặc tả, giao diện, cấu trúc để triển khai thực hiện các thủ tục hành chính giải quyết trực tuyến trên môi trường mạng.\n6. Phối hợp\nvới Văn phòng Bộ và các đơn vị liên quan trực thuộc Bộ Nông nghiệp và Phát triển nông thôn trong quá trình xác định những thủ tục hành chính đủ điều kiện xây dựng, cung cấp dịch vụ công trực tuyến mức độ 3 và 4 để tổ chức xây dựng phần mềm và tổ chức thực hiện; tổ chức triển khai và hướng dẫn thực hiện, định kỳ báo cáo Lãnh đạo Bộ về thông tin, kết quả triển khai, tình hình thực hiện Quy chế này.\nĐiều 26. Trách nhiệm của Vụ Tài chính, Vụ Kế hoạch\n1. Chủ trì,\nphối hợp với Trung tâm Tin học và Thống kê bố trí kinh phí để triển khai và duy trì Cổng Dịch vụ công và Hệ thống Một cửa điện tử, kết nối liên thông với Cổng Dịch vụ công Quốc gia trong tổng kinh phí chi thường xuyên hàng năm của Bộ và các nguồn hợp pháp khác theo quy định của pháp luật về ngân sách nhà nước.\n2. Hướng dẫn\nviệc đăng ký, sử dụng kinh phí đầu tư đối với xây dựng, nâng cấp cơ sở hạ tầng công nghệ thông tin đối với các hệ thống Dịch vụ công của Bộ theo quy định của pháp luật về đầu tư công và pháp luật khác có liên quan.\nĐiều 27. Trách nhiệm của các Tổng cục, Cục, Vụ thực hiện giải quyết thủ tục hành chính cho tổ chức, cá nhân\n1. Thủ trưởng\ncác cơ quan có thẩm quyền liên quan chịu trách nhiệm trước Bộ Nông nghiệp và Phát triển nông thôn trong việc chỉ đạo, bảo đảm việc tuân thủ các quy định tại\nQuy chế này trong phạm vi tổ chức, quyền hạn của mình.\n2. Các cơ\nquan, đơn vị phải đảm bảo các điều kiện cần thiết để tổ chức thực hiện việc quản lý, vận hành, khai thác sử dụng Cổng Dịch vụ công và Hệ thống Một cửa điện tử của Bộ, bố trí đủ nhân lực nhằm triển khai, thực hiện cung cấp các dịch vụ trực tuyến theo đúng quy định của Chính phủ phục vụ người dân và doanh nghiệp; phê duyệt nhân sự được cử làm việc tại Bộ phận Một cửa của các cơ quan, đơn vị theo Điều 7 Thông tư số 01/2018/TT-VPCP.\n3. Chỉ đạo,\nkiểm tra, đôn đốc việc triển khai thực hiện Quy chế này thuộc phạm vi, chức năng quản lý của cơ quan, đơn vị mình. Chịu trách nhiệm trước Bộ Nông nghiệp và Phát triển nông thôn về kết quả tiến độ, giải quyết thủ tục hành chính và cung cấp dịch vụ công trực tuyến của cơ quan, đơn vị mình. Thực hiện việc tuyên truyền, hướng dẫn sử dụng dịch vụ công trực tuyến, tiếp nhận và giải quyết hồ sơ dịch vụ công trực tuyến theo quy định.\n4. Kịp thời\nchấn chỉnh và xử lý nghiêm đối với các trường hợp vi phạm quy định trong tiếp nhận, giải quyết hồ sơ thủ tục hành chính, dịch vụ công trực tuyến và các quy định tại Quy chế này; có giải pháp nâng cao tỷ lệ đánh giá mức độ hài lòng của tổ chức, cá nhân đối với sự phục vụ của cơ quan, đơn vị và cán bộ thuộc thẩm quyền quản lý trong tiếp nhận, xử lý hồ sơ thủ tục hành chính, dịch vụ công trực tuyến.\n5. Cán bộ,\ncông chức, viên chức của các cơ quan có thẩm quyền sử dụng Cổng Dịch vụ công và Hệ thống Một cửa điện tử theo chức năng, nhiệm vụ được giao xử lý, giải quyết thủ tục hành chính được cấp một tài khoản (tên đăng nhập và mật khẩu) để đăng nhập vào hệ thống và có trách nhiệm bảo mật thông tin về tài khoản của mình.\n6. Chịu\ntrách nhiệm trước Bộ trưởng về sự chính xác, kịp thời, đầy đủ và trung thực thông tin được cung cấp lên Cổng Dịch vụ công của Bộ.\n7. Chủ động\nrà soát, gửi Văn phòng Bộ tổng hợp, trình Bộ trưởng quyết định danh mục thủ tục hành chính, công bố ban hành mới, sửa đổi bổ sung, thay thế bãi bỏ thủ tục hành chính thuộc phạm vi chức năng của Bộ Nông nghiệp và Phát triển nông thôn; thực hiện công khai danh mục và quy trình nội bộ thủ tục hành chính tại Bộ phận Một cửa.\n8. Chủ trì\nxây dựng, cập nhật quy trình nội bộ, quy trình điện tử trong giải quyết thủ tục hành chính thuộc phạm vi quản lý của đơn vị theo Điều 8 Thông tư số 01/2018/TT-VPCP.\n9. Chủ động\ntrong kết nối, tích hợp hệ thống Dịch vụ công của đơn vị mình (nếu có) với Cổng Dịch vụ công để đáp ứng với yêu cầu của Cổng Dịch vụ công Quốc gia theo hướng dẫn của Trung tâm Tin học và Thống kê.\n10. Xây dựng\nvà ban hành Quy chế quản lý, vận hành, khai thác sử dụng Hệ thống Một cửa điện tử cung cấp dịch vụ công trực tuyến của cơ quan, đơn vị mình. Có trách nhiệm tận dụng tối đa môi trường mạng để tiếp nhận, xử lý các thủ tục hành chính và dịch vụ công trực tuyến.\n11. Chỉ đạo\ncơ quan, đơn vị có trách nhiệm theo dõi thường xuyên tình hình sử dụng Hệ thống Một cửa điện tử, cung cấp dịch vụ công trực tuyến để có chỉ đạo kịp thời trong quá trình xử lý và giải quyết các dịch vụ hành chính công.\n12. Phối hợp\nchặt chẽ với Văn phòng Bộ, Trung tâm Tin học và Thống kê và các cơ quan liên quan trong quá trình triển khai thực hiện các nội dung, nhiệm vụ tại Quy chế này.\n13. Định kỳ\nhằng quý, hằng năm (hoặc theo yêu cầu đột xuất), tổng hợp, báo cáo kết quả về tình hình triển khai thực hiện việc cung cấp dịch vụ công trực tuyến, Hệ thống Một cửa điện tử và Quy chế này gửi Văn phòng Bộ, Trung tâm Tin học và Thống kê, để tổng hợp, báo cáo Bộ Nông nghiệp và Phát triển nông thôn.\nĐiều 28. Trách nhiệm của các tổ chức trung gian cung cấp các dịch vụ, tiện ích có liên quan trên Cổng Dịch vụ công và Hệ thống thông tin Một cửa điện tử của Bộ Nông nghiệp và Phát triển nông thôn Các tổ chức trung gian cung cấp các dịch vụ, tiện ích có liên quan trên Cổng Dịch vụ công và Hệ thống Một cửa điện tử của Bộ Nông nghiệp và Phát triển nông thôn như: Ban Cơ yếu Chính phủ cung cấp chữ ký số, các tổ chức trung gian thanh toán, trung gian nộp hồ sơ và nhận kết quả giải quyết thủ tục hành chính của các tổ chức, cá nhân chịu trách nhiệm thực hiện các nội dung có liên quan tại Quy chế này và các văn bản khác được quy định riêng giữa tổ chức trung gian đó với cơ quan có thẩm quyền và với tổ chức, cá nhân có yêu cầu thực hiện thủ tục hành chính thuộc thẩm quyền giải quyết của Bộ Nông nghiệp và Phát triển nông thôn.\nĐiều 29. Trách nhiệm của cán bộ, công chức, viên chức được phân công giải quyết thủ tục hành chính Trách nhiệm của các bộ, công chức, viên chức được phân công thực hiện giải quyết thủ tục hành chính thực hiện theo quy định tại Điều 20 của Nghị định số 63/2010/NĐ-CP ngày 08/6/2010 Của Chính phủ về kiểm soát thủ tục hành chính và các nội dung liên quan tại Quy chế này.\nĐiều 30. Trách nhiệm của tổ chức, cá nhân có yêu cầu thực hiện thủ tục hành chính\n1. Đăng ký\ntài khoản, khai báo thông tin và cung cấp các tài liệu liên quan, bảo đảm tính chính xác, đầy đủ theo quy định; chịu trách nhiệm trước pháp luật về các thông tin, tài liệu đã cung cấp cho cơ quan có thẩm quyền giải quyết thủ tục hành chính của Bộ Nông nghiệp và Phát triển nông thôn.\n2. Nộp hồ\nsơ, nhận kết quả giải quyết thủ tục hành chính trực tuyến thông qua các hệ thống Dịch vụ công của Bộ hoặc trực tiếp tại cơ quan có thẩm quyền hoặc qua dịch vụ bưu chính công ích theo quy định.\n3. Thực hiện\ncác yêu cầu của cơ quan có thẩm quyền giải quyết thủ tục hành chính; nộp phí, lệ phí (nếu có) theo quy định.\n4. Thực hiện\ncác nội dung liên quan được quy định tại Quy chế này.\nĐiều 31. Khen thưởng và xử lý vi phạm Công tác thi đua, khen thưởng, xử lý vi phạm, kỷ luật trong quá trình thực hiện Quy chế này được thực hiện theo các quy định hiện hành.\nĐiều 32. Điều khoản thi hành\n1. Những nội\ndung không được quy định tại Quy chế này thì thực hiện theo các quy định khác có liên quan của pháp luật hiện hành.\n2. Các văn bản\nquy phạm pháp luật hoặc điều khoản của văn bản quy phạm pháp luật được trích dẫn trong Quy chế này khi được sửa đổi, bổ sung, thay thế thì nội dung trích dẫn cũng được điều chỉnh và thực hiện theo văn bản quy phạm pháp luật sửa đổi, bổ sung, thay thế.\n3. Trong quá trình tổ chức, triển\nkhai thực hiện Quy chế này, nếu có vấn đề vướng mắc, các cơ quan, đơn vị, địa phương kịp thời phản ánh về Văn phòng Bộ để tổng hợp, báo cáo Bộ Nông nghiệp và Phát triển nông thôn xem xét, quyết định sửa đổi, bổ sung cho phù hợp./.\nBỘ NÔNG NGHIỆP VÀ PTNT",
+  "tree": {
+    "parts": [
+      {
+        "part_id": "doc:299406:part:1",
+        "part_type": "main",
+        "part_title": null,
+        "reference": null,
+        "direct_text": "QUYẾT ĐỊNH\nBAN HÀNH QUY CHẾ QUẢN LÝ, VẬN HÀNH,\nKHAI THÁC SỬ DỤNG CỔNG DỊCH VỤ CÔNG VÀ HỆ THỐNG THÔNG TIN MỘT CỬA ĐIỆN TỬ CỦA BỘ\nNÔNG NGHIỆP VÀ PHÁT TRIỂN NÔNG THÔN\nBỘ TRƯỞNG BỘ NÔNG NGHIỆP VÀ\nPHÁT TRIỂN NÔNG THÔN\nCăn cứ Nghị định số 15/2017/NĐ-CP ngày 17 tháng 02 năm 2017 của Chính phủ quy định về chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Nông nghiệp và Phát triển nông thôn; Căn cứ Nghị định số 43/2011/NĐ-CP ngày 13 tháng 6 năm 2011 của Chính phủ quy định về việc cung cấp thông tin và dịch vụ công trực tuyến trên trang thông tin điện tử hoặc cổng thông tin điện tử của cơ quan nhà nước; Căn cứ Nghị định số 61/2018/NĐ-CP ngày 23 tháng 4 năm 2018 của Chính phủ về thực hiện cơ chế một cửa, một cửa liên thông trong giải quyết thủ tục hành chính; Căn cứ Nghị định số 130/2018/NĐ-CP ngày 27 tháng 9 năm 2018 của Chính phủ quy định chi tiết thi hành Luật Giao dịch điện tử về chữ ký số và dịch vụ chứng thực chữ ký số; Căn cứ Nghị định số 45/2020/NĐ-CP ngày 08 tháng 4 năm 2020 của Chính phủ về thực hiện thủ tục hành chính trên môi trường điện tử; Căn cứ Nghị định số 47/2020/NĐ-CP ngày 09 tháng 4 năm 2020 của Chính phủ quy định quản lý, kết nối và chia sẻ dữ liệu số của cơ quan nhà nước; Căn cứ Thông tư số 01/2018/TT-VPCP ngày 23 tháng 11 năm 2018 của Văn phòng Chính phủ hướng dẫn thi hành một số quy định của Nghị định số 61/2018/NĐ-CP ngày 23 tháng 4 năm 2018 của Chính phủ về thực hiện cơ chế một cửa, một cửa liên thông trong giải quyết thủ tục hành chính; Xét đề nghị của Chánh Văn phòng Bộ.\nQUYẾT ĐỊNH:",
+        "chapters": [],
+        "sections": [],
+        "articles": [
+          {
+            "article_id": "doc:299406:part:1:article:1",
+            "number": "1",
+            "title": "Ban hành kèm theo Quyết định này Quy chế quản lý, vận hành, khai thác sử dụng Cổng Dịch vụ công và Hệ thống thông tin Một cửa điện tử của Bộ Nông nghiệp và Phát triển nông thôn.",
+            "content": "Điều 1. Ban hành kèm theo Quyết định này Quy chế quản lý, vận hành, khai thác sử dụng Cổng Dịch vụ công và Hệ thống thông tin Một cửa điện tử của Bộ Nông nghiệp và Phát triển nông thôn.",
+            "clauses": [],
+            "points": []
+          },
+          {
+            "article_id": "doc:299406:part:1:article:2",
+            "number": "2",
+            "title": "Quyết định này có hiệu lực thi hành kể từ ngày ký.",
+            "content": "Điều 2. Quyết định này có hiệu lực thi hành kể từ ngày ký.",
+            "clauses": [],
+            "points": []
+          },
+          {
+            "article_id": "doc:299406:part:1:article:3",
+            "number": "3",
+            "title": "Văn phòng Bộ có trách nhiệm chủ trì tổ chức triển khai, hướng dẫn các cơ quan, đơn vị liên quan thực hiện Quy chế này, định kỳ báo cáo Lãnh đạo Bộ về thông tin, tình hình thực hiện Quy chế.",
+            "content": "Điều 3. Văn phòng Bộ có trách nhiệm chủ trì tổ chức triển khai, hướng dẫn các cơ quan, đơn vị liên quan thực hiện Quy chế này, định kỳ báo cáo Lãnh đạo Bộ về thông tin, tình hình thực hiện Quy chế.",
+            "clauses": [],
+            "points": []
+          },
+          {
+            "article_id": "doc:299406:part:1:article:4",
+            "number": "4",
+            "title": "Chánh Văn phòng Bộ, Giám đốc Trung tâm Tin học và Thống kê, Thủ trưởng các cư quan, đơn vị có liên quan chịu trách nhiệm thi hành Quyết định này./. Nơi nhận: - Như Điều 4; - Bộ trưởng (để b/c); - Các Thứ trưởng; - Các đơn vị thuộc Bộ; - Cổng TTĐT của Bộ; - Lưu: VT, VP. KT. BỘ TRƯỞNG THỨ TRƯỞNG Hà Công Tuấn",
+            "content": "Điều 4. Chánh Văn phòng Bộ, Giám đốc Trung tâm Tin học và Thống kê, Thủ trưởng các cư quan, đơn vị có liên quan chịu trách nhiệm thi hành Quyết định này./. Nơi nhận: - Như Điều 4; - Bộ trưởng (để b/c); - Các Thứ trưởng; - Các đơn vị thuộc Bộ; - Cổng TTĐT của Bộ; - Lưu: VT, VP. KT. BỘ TRƯỞNG THỨ TRƯỞNG Hà Công Tuấn",
+            "clauses": [],
+            "points": []
+          }
+        ],
+        "unstructured_blocks": []
+      },
+      {
+        "part_id": "doc:299406:part:2",
+        "part_type": "regulation",
+        "part_title": "QUY CHẾ",
+        "reference": null,
+        "direct_text": null,
+        "chapters": [],
+        "sections": [],
+        "articles": [],
+        "unstructured_blocks": [
+          {
+            "block_id": "doc:299406:part:2:block:1",
+            "content": "QUY CHẾ",
+            "indexable": true
+          }
+        ]
+      },
+      {
+        "part_id": "doc:299406:part:3",
+        "part_type": "regulation",
+        "part_title": "QUY CHẾ QUẢN LÝ, VẬN HÀNH, KHAI THÁC",
+        "reference": null,
+        "direct_text": "QUY CHẾ QUẢN LÝ, VẬN HÀNH, KHAI THÁC\nSỬ DỤNG CỔNG DỊCH VỤ CÔNG VÀ HỆ THỐNG THÔNG TIN MỘT CỬA ĐIỆN TỬ CỦA BỘ NÔNG\nNGHIỆP VÀ PHÁT TRIỂN NÔNG THÔN\n(Ban hành kèm theo Quyết định số 5094/QĐ-BNN, ngày 15/12/2020 của Bộ trưởng\nNông nghiệp và Phát triển nông thôn)\nQuy chế này\nquy định việc quản lý, vận hành, khai thác sử dụng Cổng Dịch vụ công và Hệ thống thông tin Một cửa điện tử trong việc tiếp nhận, giải quyết hồ sơ và trả kết quả giải quyết thủ tục hành chính của đơn vị thuộc Bộ Nông nghiệp và Phát triển nông thôn.\nbiểu mẫu, đơn và các tài liệu đính kèm. Các tài liệu đính kèm là các file điện\ntử được chụp hoặc scan từ bản chính, thực hiện theo quy định tại khoản 1và khoản 2 Điều 9 Nghị định số 45/2020/NĐ-CP.\n6. Việc chuyển\nđổi giấy tờ, tài liệu của tổ chức, cá nhân sang bản điện tử để nộp hồ sơ thủ tục hành chính trực tuyến trên Cổng Dịch vụ công được các cơ quan có thẩm quyền thực hiện theo hình thức cấp bản sao điện tử từ sổ gốc hoặc chứng thực bản sao điện tử từ bản chính giấy tờ, tài liệu theo quy định tại Điều 10 Nghị định số 45/2020/NĐ-CP.\nQuy chế này trong phạm vi tổ chức, quyền hạn của mình.\n2. Các cơ\nquan, đơn vị phải đảm bảo các điều kiện cần thiết để tổ chức thực hiện việc quản lý, vận hành, khai thác sử dụng Cổng Dịch vụ công và Hệ thống Một cửa điện tử của Bộ, bố trí đủ nhân lực nhằm triển khai, thực hiện cung cấp các dịch vụ trực tuyến theo đúng quy định của Chính phủ phục vụ người dân và doanh nghiệp; phê duyệt nhân sự được cử làm việc tại Bộ phận Một cửa của các cơ quan, đơn vị theo Điều 7 Thông tư số 01/2018/TT-VPCP.\n3. Chỉ đạo,\nkiểm tra, đôn đốc việc triển khai thực hiện Quy chế này thuộc phạm vi, chức năng quản lý của cơ quan, đơn vị mình. Chịu trách nhiệm trước Bộ Nông nghiệp và Phát triển nông thôn về kết quả tiến độ, giải quyết thủ tục hành chính và cung cấp dịch vụ công trực tuyến của cơ quan, đơn vị mình. Thực hiện việc tuyên truyền, hướng dẫn sử dụng dịch vụ công trực tuyến, tiếp nhận và giải quyết hồ sơ dịch vụ công trực tuyến theo quy định.\n4. Kịp thời\nchấn chỉnh và xử lý nghiêm đối với các trường hợp vi phạm quy định trong tiếp nhận, giải quyết hồ sơ thủ tục hành chính, dịch vụ công trực tuyến và các quy định tại Quy chế này; có giải pháp nâng cao tỷ lệ đánh giá mức độ hài lòng của tổ chức, cá nhân đối với sự phục vụ của cơ quan, đơn vị và cán bộ thuộc thẩm quyền quản lý trong tiếp nhận, xử lý hồ sơ thủ tục hành chính, dịch vụ công trực tuyến.\n5. Cán bộ,\ncông chức, viên chức của các cơ quan có thẩm quyền sử dụng Cổng Dịch vụ công và Hệ thống Một cửa điện tử theo chức năng, nhiệm vụ được giao xử lý, giải quyết thủ tục hành chính được cấp một tài khoản (tên đăng nhập và mật khẩu) để đăng nhập vào hệ thống và có trách nhiệm bảo mật thông tin về tài khoản của mình.\n6. Chịu\ntrách nhiệm trước Bộ trưởng về sự chính xác, kịp thời, đầy đủ và trung thực thông tin được cung cấp lên Cổng Dịch vụ công của Bộ.\n7. Chủ động\nrà soát, gửi Văn phòng Bộ tổng hợp, trình Bộ trưởng quyết định danh mục thủ tục hành chính, công bố ban hành mới, sửa đổi bổ sung, thay thế bãi bỏ thủ tục hành chính thuộc phạm vi chức năng của Bộ Nông nghiệp và Phát triển nông thôn; thực hiện công khai danh mục và quy trình nội bộ thủ tục hành chính tại Bộ phận Một cửa.\n8. Chủ trì\nxây dựng, cập nhật quy trình nội bộ, quy trình điện tử trong giải quyết thủ tục hành chính thuộc phạm vi quản lý của đơn vị theo Điều 8 Thông tư số 01/2018/TT-VPCP.\n9. Chủ động\ntrong kết nối, tích hợp hệ thống Dịch vụ công của đơn vị mình (nếu có) với Cổng Dịch vụ công để đáp ứng với yêu cầu của Cổng Dịch vụ công Quốc gia theo hướng dẫn của Trung tâm Tin học và Thống kê.\n10. Xây dựng\nvà ban hành Quy chế quản lý, vận hành, khai thác sử dụng Hệ thống Một cửa điện tử cung cấp dịch vụ công trực tuyến của cơ quan, đơn vị mình. Có trách nhiệm tận dụng tối đa môi trường mạng để tiếp nhận, xử lý các thủ tục hành chính và dịch vụ công trực tuyến.\n11. Chỉ đạo\ncơ quan, đơn vị có trách nhiệm theo dõi thường xuyên tình hình sử dụng Hệ thống Một cửa điện tử, cung cấp dịch vụ công trực tuyến để có chỉ đạo kịp thời trong quá trình xử lý và giải quyết các dịch vụ hành chính công.\n12. Phối hợp\nchặt chẽ với Văn phòng Bộ, Trung tâm Tin học và Thống kê và các cơ quan liên quan trong quá trình triển khai thực hiện các nội dung, nhiệm vụ tại Quy chế này.\n13. Định kỳ\nhằng quý, hằng năm (hoặc theo yêu cầu đột xuất), tổng hợp, báo cáo kết quả về tình hình triển khai thực hiện việc cung cấp dịch vụ công trực tuyến, Hệ thống Một cửa điện tử và Quy chế này gửi Văn phòng Bộ, Trung tâm Tin học và Thống kê, để tổng hợp, báo cáo Bộ Nông nghiệp và Phát triển nông thôn.",
+        "chapters": [
+          {
+            "chapter_id": "doc:299406:part:3:chapter:1",
+            "number": "I",
+            "title": "QUY ĐỊNH CHUNG",
+            "content": "Chương I\nQUY ĐỊNH CHUNG",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:299406:part:3:article:1",
+                "number": "1",
+                "title": "Phạm vi điều chỉnh",
+                "content": "Điều 1. Phạm vi điều chỉnh",
+                "clauses": [],
+                "points": []
+              },
+              {
+                "article_id": "doc:299406:part:3:article:2",
+                "number": "2",
+                "title": "Đối tượng áp dụng",
+                "content": "Điều 2. Đối tượng áp dụng",
+                "clauses": [
+                  {
+                    "clause_id": "doc:299406:part:3:article:2:clause:1",
+                    "number": "1",
+                    "content": "1. Các đơn vị\nthuộc Bộ Nông nghiệp và Phát triển nông thôn có nhiệm vụ, quyền hạn thực hiện tiếp nhận, giải quyết và trả kết quả thủ tục hành chính hoặc tham gia vào quá trình quản lý, vận hành, khai thác sử dụng Cổng Dịch vụ công và Hệ thống thông tin Một cửa điện tử (sau đây gọi là cơ quan có thẩm quyền).",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:299406:part:3:article:2:clause:2",
+                    "number": "2",
+                    "content": "2. Cán bộ,\ncông chức, viên chức của các cơ quan có thẩm quyền được phân công nhiệm vụ cụ thể trong quá trình thực hiện giải quyết thủ tục hành chính cho tổ chức, cá nhân có nhu cầu giải quyết thủ tục hành chính hoặc tham gia vào quá trình quản lý, vận hành, khai thác sử dụng Cổng Dịch vụ công và Hệ thống thông tin Một cửa điện tử (sau đây gọi là cán bộ, công chức, viên chức).",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:299406:part:3:article:2:clause:3",
+                    "number": "3",
+                    "content": "3. Tổ chức,\ncá nhân có yêu cầu thực hiện thủ tục hành chính, sử dụng Cổng dịch vụ công trực tuyến để đăng nhập, kê khai hồ sơ và thực hiện quá trình giải quyết thủ tục hành chính trên Cổng Dịch vụ công và Hệ thống thông tin Một cửa điện tử thuộc phạm vi giải quyết của Bộ Nông nghiệp và Phát triển nông thôn.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:299406:part:3:article:2:clause:4",
+                    "number": "4",
+                    "content": "4. Tổ chức\ntrung gian cung cấp các dịch vụ, tiện ích như: chữ ký số, thanh toán trực tuyến và các dịch vụ khác có liên quan trên Cổng Dịch vụ công và Hệ thống thông tin Một cửa điện tử của Bộ Nông nghiệp và Phát triển nông thôn.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:299406:part:3:article:3",
+                "number": "3",
+                "title": "Giải thích từ ngữ Trong Quy chế này, những từ ngữ dưới đây được hiểu như sau:",
+                "content": "Điều 3. Giải thích từ ngữ Trong Quy chế này, những từ ngữ dưới đây được hiểu như sau:",
+                "clauses": [
+                  {
+                    "clause_id": "doc:299406:part:3:article:3:clause:1",
+                    "number": "1",
+                    "content": "1. Cơ chế một cửa trong giải quyết\nthủ tục hành chính là phương thức tiếp nhận hồ sơ, giải quyết và trả kết quả giải quyết thủ tục hành chính, theo dõi, giám sát, đánh giá việc giải quyết thủ tục hành chính cho tổ chức, cá nhân của một cơ quan có thẩm quyền thông qua Bộ phận Một cửa quy định tại Khoản 3 Điều này.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:299406:part:3:article:3:clause:2",
+                    "number": "2",
+                    "content": "2. Cơ chế một\ncửa liên thông trong giải quyết thủ tục hành chính là phương thức phối hợp giữa các cơ quan có thẩm quyền trong tiếp nhận hồ sơ, giải quyết và trả kết quả giải quyết một thủ tục hành chính hoặc một nhóm thủ tục hành chính có liên quan với nhau, theo dõi, giám sát, đánh giá việc giải quyết thủ tục hành chính cho tổ chức, cá nhân thông qua Bộ phận Một cửa quy định tại Khoản 3 Điều này.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:299406:part:3:article:3:clause:3",
+                    "number": "3",
+                    "content": "3. Bộ phận Một\ncửa là tên gọi chung của Bộ phận Tiếp nhận và trả kết quả giải quyết thủ tục hành chính được tổ chức tại các đơn vị thuộc Bộ, thực hiện nhiệm vụ, quyền hạn, hướng dẫn, tiếp nhận, giải quyết hoặc chuyển hồ sơ giải quyết, trả kết quả giải quyết thủ tục hành chính, theo dõi, giám sát, đánh giá việc giải quyết thủ tục hành chính của tổ chức, cá nhân.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:299406:part:3:article:3:clause:4",
+                    "number": "4",
+                    "content": "4. Cổng Dịch\nvụ công Quốc gia là cổng tích hợp thông tin về dịch vụ công trực tuyến, tình hình giải quyết, kết quả giải quyết thủ tục hành chính trên cơ sở kết nối, truy xuất dữ liệu từ các Hệ thống thông tin Một cửa điện tử cấp bộ, cấp tỉnh và các giải pháp hỗ trợ nghiệp vụ, kỹ thuật do Văn phòng Chính phủ thống nhất xây dựng, quản lý.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:299406:part:3:article:3:clause:5",
+                    "number": "5",
+                    "content": "5. Cổng Dịch\nvụ công của Bộ Nông nghiệp và Phát triển nông thôn (sau đây gọi là Cổng Dịch vụ công của Bộ) là hệ thống thông tin được xây dựng để thực hiện chức năng, nhiệm vụ cung cấp dịch vụ, tiếp nhận hồ sơ, xử lý và trả kết quả giải quyết các thủ tục hành chính cũng như tiếp nhận, xử lý phản ánh, kiến nghị của cá nhân, tổ chức trên môi trường điện tử. Cổng Dịch vụ công của Bộ được tích hợp, kết nối và chia sẻ dữ liệu với Cổng Dịch vụ công Quốc gia và các hệ thống thông tin khác của Bộ như: Cổng thông tin điện tử, Hệ thống thông tin Một cửa điện tử, Cơ chế Một cửa quốc gia tại Bộ Nông nghiệp và Phát triển nông thôn. Cổng Dịch vụ công của Bộ có địa chỉ truy cập tại: https://dichvucong.mard.gov.vn.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:299406:part:3:article:3:clause:6",
+                    "number": "6",
+                    "content": "6. Hệ thống\nthông tin Một cửa điện tử của Bộ Nông nghiệp và Phát triển nông thôn (sau đây gọi là Hệ thống Một cửa điện tử) là hệ thống thông tin nội bộ có chức năng hỗ trợ việc tiếp nhận, giải quyết, theo dõi tình hình tiếp nhận, giải quyết, kết quả giải quyết thủ tục hành chính của các đơn vị thuộc Bộ; kết nối, tích hợp, chia sẻ dữ liệu với hệ thống quản lý văn bản để xử lý hồ sơ trên môi trường mạng; kết nối, tích hợp với Cổng Dịch vụ công Quốc gia và Cổng Dịch vụ công của Bộ để đăng tải công khai kết quả giải quyết thủ tục hành chính và cung cấp các dịch vụ công trực tuyến có địa chỉ: http://mcdtbnn.mard.gov.vn/.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:299406:part:3:article:3:clause:7",
+                    "number": "7",
+                    "content": "7. Kho quản\nlý dữ liệu điện tử của tổ chức, cá nhân: là không gian điện tử riêng của tổ chức, cá nhân tại Cổng Dịch vụ công Quốc gia, Cổng Dịch vụ công cấp bộ, cấp tỉnh để hỗ trợ quản lý, lưu giữ thông tin, dữ liệu điện tử liên quan đến giao dịch hành chính của tổ chức, cá nhân đó.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:299406:part:3:article:3:clause:8",
+                    "number": "8",
+                    "content": "8. Các thuật\nngữ khác sử dụng trong Quy chế này được giải thích tại Điều 3 Nghị định số 61/2018/NĐ-CP ngày 23 tháng 4 năm 2018 của Chính phủ về thực hiện cơ chế một cửa, một cửa liên thông trong giải quyết thủ tục hành chính (sau đây gọi tắt là Nghị định số 61/2018/NĐ-CP); Điều 3, Nghị định số 45/2020/NĐ-CP ngày 08 tháng 4 năm 2020 của Chính phủ về thực hiện thủ tục hành chính trên môi trường điện tử (sau đây gọi tắt là Nghị định số 45/2020/NĐ-CP) và các văn bản pháp luật có liên quan do các cơ quan có thẩm quyền ban hành.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:299406:part:3:article:4",
+                "number": "4",
+                "title": "Yêu cầu chung về Cổng Dịch vụ công và Hệ thống thông tin Một cửa điện tử của Bộ Nông nghiệp và Phát triển nông thôn",
+                "content": "Điều 4. Yêu cầu chung về Cổng Dịch vụ công và Hệ thống thông tin Một cửa điện tử của Bộ Nông nghiệp và Phát triển nông thôn",
+                "clauses": [
+                  {
+                    "clause_id": "doc:299406:part:3:article:4:clause:1",
+                    "number": "1",
+                    "content": "1. Thực hiện\ntheo quy định tại khoản 2 Điều 25 Nghị định số 61/2018/NĐ-CP;",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:299406:part:3:chapter:2",
+            "number": "IV",
+            "title": "2018 của Văn phòng Chính phủ về hướng dẫn thi hành một số quy định của Nghị định số 61/2018/NĐ-CP ngày 23 tháng 4 năm 2018 của Chính phủ về thực hiện cơ chế một cửa, một cửa liên thông trong giải quyết thủ tục hành chính (sau đây gọi tắt là Thông tư số 01/2018/TT-VPCP). 2. Cổng Dịch vụ công phải tích hợp, kết nối với Hệ thống Một cửa điện tử, Cổng Dịch vụ công Quốc gia, phải đảm bảo an toàn thông tin và vận hành liên tục 24 giờ trong tất cả các ngày trên mạng Internet; đồng thời bảo đảm thông tin và dịch vụ công trực tuyến luôn được cập nhật đầy đủ, chính xác, sẵn sàng, có thể truy cập mọi lúc",
+            "content": "Chương IV Thông tư số 01/2018/TT-VPCP ngày 23 tháng 11 năm\n2018 của Văn phòng Chính phủ về hướng dẫn thi hành một số quy định của Nghị định số 61/2018/NĐ-CP ngày 23 tháng 4 năm 2018 của Chính phủ về thực hiện cơ chế một cửa, một cửa liên thông trong giải quyết thủ tục hành chính (sau đây gọi tắt là Thông tư số 01/2018/TT-VPCP).\n2. Cổng Dịch\nvụ công phải tích hợp, kết nối với Hệ thống Một cửa điện tử, Cổng Dịch vụ công Quốc gia, phải đảm bảo an toàn thông tin và vận hành liên tục 24 giờ trong tất cả các ngày trên mạng Internet; đồng thời bảo đảm thông tin và dịch vụ công trực tuyến luôn được cập nhật đầy đủ, chính xác, sẵn sàng, có thể truy cập mọi lúc.",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:299406:part:3:article:5",
+                "number": "5",
+                "title": "Nguyên tắc chung trong quản lý, vận hành, khai thác sử dụng Cổng Dịch vụ công và Hệ thống thông tin Một cửa điện tử",
+                "content": "Điều 5. Nguyên tắc chung trong quản lý, vận hành, khai thác sử dụng Cổng Dịch vụ công và Hệ thống thông tin Một cửa điện tử",
+                "clauses": [
+                  {
+                    "clause_id": "doc:299406:part:3:article:5:clause:1",
+                    "number": "1",
+                    "content": "1. Việc quản\nlý, vận hành, khai thác sử dụng Cổng Dịch vụ công và Hệ thống Một cửa điện tử phải tuân thủ theo các quy định của pháp luật về giao dịch điện tử, pháp luật bảo vệ bí mật nhà nước, pháp luật chuyên ngành quy định thủ tục hành chính trong việc giải quyết hồ sơ thủ tục hành chính thực hiện trên Cổng Dịch vụ công, Hệ thống Một cửa điện tử và các quy định khác của các cơ quan nhà nước có thẩm quyền liên quan cũng như các quy định của Bộ Nông nghiệp và Phát triển nông thôn.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:299406:part:3:article:5:clause:2",
+                    "number": "2",
+                    "content": "2. Việc thực\nhiện thủ tục hành chính trên Cổng Dịch vụ công và Hệ thống Một cửa điện tử không làm hạn chế hoặc phân biệt cách thức tổ chức, cá nhân nộp hồ sơ, nhận kết quả giải quyết thủ tục hành chính theo quy định tại Điều 16 Nghị định số 61/2018/NĐ-CP, đồng thời tuân thủ quy định tại Điều 4 Nghị định số 45/2020/NĐ-CP; đảm bảo công khai, minh bạch, kịp thời, chính xác, đúng quy định pháp luật trong việc giải quyết thủ tục hành chính cho tổ chức, cá nhân.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:299406:part:3:article:5:clause:3",
+                    "number": "3",
+                    "content": "3. Các thông\ntin được cung cấp trên Cổng Dịch vụ công cần phải đúng, đủ, rõ ràng và kịp thời, cập nhật liên tục dựa trên các quy định hiện hành. Các thông tin được thiết kế theo mẫu thống nhất, đơn giản, tạo thuận lợi, không gây phiền hà, ách tắc trong quá trình xử lý, giảm thời gian, chi phí cho tổ chức, cá nhân thực hiện giải quyết thủ tục hành chính. Các biểu mẫu, cách thức ghi, sử dụng các loại biểu mẫu trong quy trình giải quyết thủ tục hành chính thực hiện, lưu trữ các báo cáo, hồ sơ, sổ sách và thực hiện các báo cáo theo quy định tại Điều 9, Điều 10 và Điều 11 Thông tư số 01/2018/TT-VPCP và Điều 10 Thông tư số 01/2020/TT-VPCP ngày 21/10/2020 của Văn phòng Chính phủ quy định chế độ báo cáo định kỳ và quản lý, sử dụng, khai thác hệ thống thông tin báo cáo của Văn phòng Chính phủ.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:299406:part:3:article:5:clause:4",
+                    "number": "4",
+                    "content": "4. Hệ thống Một cửa điện tử của Bộ\ntriển khai tại các cơ quan có thẩm quyền để giải quyết thủ tục hành chính được tổ chức theo mô hình quản lý, cài đặt và lưu trữ tập trung, đảm bảo khả năng đồng bộ; được vận hành trên môi trường điện tử, dữ liệu được liên thông trong Hệ thống Một cửa điện tử chung của Bộ, luân chuyển khép kín từ Bộ phận Một cửa của các cơ quan, đơn vị chuyên môn và giữa các cơ quan, đơn vị thuộc Bộ với nhau; cập nhật đầy đủ, kịp thời các thủ tục hành chính thuộc các lĩnh vực được triển khai trên hệ thống để tổ chức thực hiện; đảm bảo sự phối hợp chặt chẽ giữa các cơ quan nhà nước trong giải quyết thủ tục hành chính cho tổ chức, cá nhân trên hệ thống; đáp ứng việc cập nhật hàng ngày tình hình giải quyết hồ sơ thủ tục hành chính của từng đơn vị cụ thể lên Cổng Dịch vụ công Quốc gia và Cổng Dịch vụ công của Bộ; thực hiện thủ tục hành chính theo quy định của Chính phủ và Bộ Nông nghiệp và Phát triển nông thôn.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:299406:part:3:article:6",
+                "number": "6",
+                "title": "Thời gian làm việc và giải quyết thủ tục hành chính",
+                "content": "Điều 6. Thời gian làm việc và giải quyết thủ tục hành chính",
+                "clauses": [
+                  {
+                    "clause_id": "doc:299406:part:3:article:6:clause:1",
+                    "number": "1",
+                    "content": "1. Trên Cổng\nDịch vụ công",
+                    "points": [
+                      {
+                        "point_id": "doc:299406:part:3:article:6:clause:1:point:1",
+                        "label": "a",
+                        "content": "a) Thời gian\nnộp hồ sơ qua môi trường điện tử được thực hiện 24/7, vào tất cả các ngày trong tuần, kể cả ngày nghỉ, lễ theo quy định.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:299406:part:3:article:6:clause:1:point:2",
+                        "label": "b",
+                        "content": "b) Thời gian\ntiếp nhận và giải quyết thủ tục hành chính được tính theo thời gian quy định tại quy trình nội bộ giải quyết các thủ tục hành chính của cơ quan có thẩm quyền đã được phê duyệt, công bố, công khai kể từ khi hồ sơ được tiếp nhận đầy đủ, hợp lệ.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:299406:part:3:article:6:clause:2",
+                    "number": "2",
+                    "content": "2. Trên Hệ\nthống Một cửa điện tử",
+                    "points": [
+                      {
+                        "point_id": "doc:299406:part:3:article:6:clause:2:point:1",
+                        "label": "a",
+                        "content": "a) Làm việc\nvào tất cả các ngày trong tuần, từ thứ hai đến thứ sáu (trừ ngày nghỉ, lễ theo quy định). - Buổi sáng: Từ 08 giờ đến 12 giờ; - Buổi chiều: Từ 13 giờ đến 17 giờ.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:299406:part:3:article:6:clause:2:point:2",
+                        "label": "b",
+                        "content": "b) Thời gian\ntiếp nhận và trả kết quả thủ tục hành chính trên Hệ thống Một cửa điện tử của các cơ quan có thẩm quyền được tính kể từ ngày nhận hồ sơ đầy đủ, hợp lệ theo quy định. Thời gian giải quyết thủ tục hành chính được thực hiện theo quy trình nội bộ giải quyết thủ tục hành chính đã được phê duyệt, công bố, công khai kể từ khi hồ sơ được tiếp nhận đầy đủ, hợp lệ.",
+                        "children": []
+                      }
+                    ]
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:299406:part:3:article:7",
+                "number": "7",
+                "title": "Mã hồ sơ thủ tục hành chính và mã ngành, lĩnh vực thủ tục hành chính Thực hiện theo quy định tại Điều 26 Nghị định số 61/2018/NĐ-CP, Quyết định số 362/QĐ-VPCP ngày 27/4/2019 của Văn phòng Chính phủ về việc ban hành danh mục mã ngành, lĩnh vực thủ tục hành chính trên hệ thống Cổng Dịch vụ công Quốc gia, Cổng Dịch vụ công và Hệ thống thông tin Một cửa điện tử cấp bộ, cấp tỉnh; Điều 19, Điều 20 Thông tư số 01/2018/TT-VPCP.",
+                "content": "Điều 7. Mã hồ sơ thủ tục hành chính và mã ngành, lĩnh vực thủ tục hành chính Thực hiện theo quy định tại Điều 26 Nghị định số 61/2018/NĐ-CP, Quyết định số 362/QĐ-VPCP ngày 27/4/2019 của Văn phòng Chính phủ về việc ban hành danh mục mã ngành, lĩnh vực thủ tục hành chính trên hệ thống Cổng Dịch vụ công Quốc gia, Cổng Dịch vụ công và Hệ thống thông tin Một cửa điện tử cấp bộ, cấp tỉnh; Điều 19, Điều 20 Thông tư số 01/2018/TT-VPCP.",
+                "clauses": [],
+                "points": []
+              },
+              {
+                "article_id": "doc:299406:part:3:article:8",
+                "number": "8",
+                "title": "Kho quản lý dữ liệu điện tử của tổ chức, cá nhân Những thông tin, thành phần hồ sơ của tổ chức, cá nhân sau khi được cơ quan, đơn vị giải quyết thủ tục hành chính tiếp nhận và ghi nhận tính chính xác sẽ được lưu giữ tại Kho quản lý dữ liệu điện tử. Kho quản lý dữ liệu điện tử của tổ chức, cá nhân được thực hiện theo quy định tại Điều 16 Nghị định số 45/2020/NĐ-CP.",
+                "content": "Điều 8. Kho quản lý dữ liệu điện tử của tổ chức, cá nhân Những thông tin, thành phần hồ sơ của tổ chức, cá nhân sau khi được cơ quan, đơn vị giải quyết thủ tục hành chính tiếp nhận và ghi nhận tính chính xác sẽ được lưu giữ tại Kho quản lý dữ liệu điện tử. Kho quản lý dữ liệu điện tử của tổ chức, cá nhân được thực hiện theo quy định tại Điều 16 Nghị định số 45/2020/NĐ-CP.",
+                "clauses": [],
+                "points": []
+              },
+              {
+                "article_id": "doc:299406:part:3:article:9",
+                "number": "9",
+                "title": "Quản lý tài khoản phí, lệ phí",
+                "content": "Điều 9. Quản lý tài khoản phí, lệ phí",
+                "clauses": [
+                  {
+                    "clause_id": "doc:299406:part:3:article:9:clause:1",
+                    "number": "1",
+                    "content": "1. Các cơ\nquan có thẩm quyền giải quyết thủ tục hành chính quản lý tài khoản phí, lệ phí theo quy định của pháp luật đối với các dịch vụ công do đơn vị mình cung cấp.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:299406:part:3:article:9:clause:2",
+                    "number": "2",
+                    "content": "2. Việc thu,\nnộp phí, lệ phí, thuế và các nghĩa vụ tài chính khác (nếu có) trong giải quyết thủ tục hành chính trên môi trường điện tử được thực hiện theo quy định tại Điều 13 Nghị định số 45/2020/NĐ-CP.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:299406:part:3:article:10",
+                "number": "10",
+                "title": "Đánh giá quá trình giải quyết thủ tục hành chính",
+                "content": "Điều 10. Đánh giá quá trình giải quyết thủ tục hành chính",
+                "clauses": [
+                  {
+                    "clause_id": "doc:299406:part:3:article:10:clause:1",
+                    "number": "1",
+                    "content": "1. Tổ chức,\ncá nhân trong quá trình giải quyết hoặc đã giải quyết xong thủ tục hành chính sẽ thực hiện đánh giá quá trình giải quyết thủ tục hành chính bằng cách truy cập vào Cổng dịch vụ công và Hệ thống thông tin Một cửa điện tử của Bộ.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:299406:part:3:article:10:clause:2",
+                    "number": "2",
+                    "content": "2. Triển\nkhai hệ thống thông tin đánh giá trực tuyến việc giải quyết thủ tục hành chính trên môi trường điện tử tại Bộ Nông nghiệp và Phát triển nông thôn đáp ứng đầy đủ quy định tại Điều 31 Nghị định số 61/2018/NĐ-CP.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:299406:part:3:article:10:clause:3",
+                    "number": "3",
+                    "content": "3. Việc tổ\nchức thu thập ý kiến đánh giá thực hiện theo quy định tại Điều 12 Thông tư số 01/2018/TT-VPCP.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:299406:part:3:article:11",
+                "number": "11",
+                "title": "Chuyển đổi hồ sơ, kết quả giải quyết thủ tục hành chính điện tử ra văn bản giấy Tổ chức, cá nhân và cơ quan có thẩm quyền in hồ sơ kết quả giải quyết thủ tục hành chính điện tử ra bản giấy khi có nhu cầu. Việc chuyển đổi hồ sơ, kết quả giải quyết thủ tục hành chính điện tử ra văn bản giấy được thực hiện theo quy định tại Điều 18 Nghị định số 45/2020/NĐ-CP.",
+                "content": "Điều 11. Chuyển đổi hồ sơ, kết quả giải quyết thủ tục hành chính điện tử ra văn bản giấy Tổ chức, cá nhân và cơ quan có thẩm quyền in hồ sơ kết quả giải quyết thủ tục hành chính điện tử ra bản giấy khi có nhu cầu. Việc chuyển đổi hồ sơ, kết quả giải quyết thủ tục hành chính điện tử ra văn bản giấy được thực hiện theo quy định tại Điều 18 Nghị định số 45/2020/NĐ-CP.",
+                "clauses": [],
+                "points": []
+              },
+              {
+                "article_id": "doc:299406:part:3:article:12",
+                "number": "12",
+                "title": "Thông tin trên Cổng dịch vụ công và Hệ thống thông tin Một cửa điện tử",
+                "content": "Điều 12. Thông tin trên Cổng dịch vụ công và Hệ thống thông tin Một cửa điện tử",
+                "clauses": [
+                  {
+                    "clause_id": "doc:299406:part:3:article:12:clause:1",
+                    "number": "1",
+                    "content": "1. Thông tin về dịch vụ công và\ncơ quan có thẩm quyền:",
+                    "points": [
+                      {
+                        "point_id": "doc:299406:part:3:article:12:clause:1:point:1",
+                        "label": "a",
+                        "content": "a) Danh mục\ncơ quan, đơn vị thực hiện thủ tục hành chính, cung cấp dịch vụ hành chính công, dịch vụ công trực tuyến chia theo lĩnh vực quản lý của Bộ.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:299406:part:3:article:12:clause:1:point:2",
+                        "label": "b",
+                        "content": "b) Danh mục\ncác dịch vụ hành chính công, các dịch vụ công trực tuyến đang thực hiện và mức độ của dịch vụ của từng cơ quan, đơn vị thực hiện thủ tục hành chính được tổ chức, phân loại theo ngành, lĩnh vực để thuận tiện cho việc khai thác sử dụng. Đối với mỗi dịch vụ, khi tra cứu đều được hiển thị đầy đủ các bộ phận cấu thành của thủ tục hành chính và trách nhiệm của các bên có liên quan, trong đó quy định rõ nội dung chi tiết để thực hiện thủ tục hành chính gồm: Trình tự, cách thức thực hiện; thành phần, số lượng hồ sơ; thời hạn giải quyết; đối tượng thực hiện, cơ quan giải quyết, kết quả thực hiện thủ tục hành chính; phí, lệ phí; mẫu đơn, mẫu tờ khai; yêu cầu, điều kiện thực hiện (nếu có), căn cứ pháp lý của thủ tục hành chính.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:299406:part:3:article:12:clause:1:point:3",
+                        "label": "c",
+                        "content": "c) Tên mỗi dịch vụ hành chính\ncông, dịch vụ công trực tuyến được đặt đúng theo tên của thủ tục hành chính tương ứng được quy định trong danh mục thủ tục hành chính được công bố theo Quyết định của Bộ Nông nghiệp và Phát triển nông thôn.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:299406:part:3:article:12:clause:2",
+                    "number": "2",
+                    "content": "2. Thông tin, báo cáo thống kê về\ntình hình giải quyết, kết quả giải quyết hồ sơ thủ tục hành chính:",
+                    "points": [
+                      {
+                        "point_id": "doc:299406:part:3:article:12:clause:2:point:1",
+                        "label": "a",
+                        "content": "a) Tổng hợp\nsố lượng hồ sơ đã tiếp nhận, số lượng hồ sơ đã xử lý và kết quả giải quyết thủ tục hành chính của Bộ, của cơ quan, đơn vị thuộc Bộ Nông nghiệp và Phát triển nông thôn về thực hiện thủ tục hành chính, trong đó chia ra hồ sơ giải quyết trước hạn, hồ sơ giải quyết đúng hạn, hồ sơ giải quyết quá hạn.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:299406:part:3:article:12:clause:2:point:2",
+                        "label": "b",
+                        "content": "b) Thông\ntin, báo cáo thống kê số lượng hồ sơ thủ tục hành chính nộp trực tuyến, giao dịch qua mạng theo phương thức thực hiện dịch vụ công trực tuyến của từng cơ quan, đơn vị thực hiện thủ tục hành chính.",
+                        "children": []
+                      }
+                    ]
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:299406:part:3:article:13",
+                "number": "13",
+                "title": "Các chức năng cung cấp trên Cổng Dịch vụ công và Hệ thống thông tin Một cửa điện tử Các chức năng cung cấp trên Cổng Dịch vụ công và Hệ thống Một cửa điện tử được quy định cụ thể tại Điều 5, Điều 6 Thông tư số 22/2019/TT-BTTTT ngày 31/12/2019 của Bộ Thông tin và Truyền thông quy định về tiêu chí chức năng, tính năng kỹ thuật của Cổng Dịch vụ công và Hệ thống thông tin Một cửa điện tử cấp bộ, cấp tỉnh.",
+                "content": "Điều 13. Các chức năng cung cấp trên Cổng Dịch vụ công và Hệ thống thông tin Một cửa điện tử Các chức năng cung cấp trên Cổng Dịch vụ công và Hệ thống Một cửa điện tử được quy định cụ thể tại Điều 5, Điều 6 Thông tư số 22/2019/TT-BTTTT ngày 31/12/2019 của Bộ Thông tin và Truyền thông quy định về tiêu chí chức năng, tính năng kỹ thuật của Cổng Dịch vụ công và Hệ thống thông tin Một cửa điện tử cấp bộ, cấp tỉnh.",
+                "clauses": [],
+                "points": []
+              },
+              {
+                "article_id": "doc:299406:part:3:article:14",
+                "number": "14",
+                "title": "Lưu trữ và bảo quản thông tin Việc lưu trữ và bảo quản thông tin của Cổng Dịch vụ công và Hệ thống Một cửa điện tử được thực hiện theo quy định tại Điều 17 Nghị định số 45/2020/NĐ-CP, quy định của pháp luật về Lưu trữ và Thông tư số 02/2019/TT-BNV ngày 24/01/2019 của Bộ Nội vụ quy định tiêu chuẩn dữ liệu thông tin đầu vào và yêu cầu bảo quản tài liệu lưu trữ điện tử.",
+                "content": "Điều 14. Lưu trữ và bảo quản thông tin Việc lưu trữ và bảo quản thông tin của Cổng Dịch vụ công và Hệ thống Một cửa điện tử được thực hiện theo quy định tại Điều 17 Nghị định số 45/2020/NĐ-CP, quy định của pháp luật về Lưu trữ và Thông tư số 02/2019/TT-BNV ngày 24/01/2019 của Bộ Nội vụ quy định tiêu chuẩn dữ liệu thông tin đầu vào và yêu cầu bảo quản tài liệu lưu trữ điện tử.",
+                "clauses": [],
+                "points": []
+              },
+              {
+                "article_id": "doc:299406:part:3:article:15",
+                "number": "15",
+                "title": "Xử lý sự cố Trường hợp Cổng Dịch vụ công xảy ra sự cố, làm gián đoạn quá trình cung cấp dịch vụ:",
+                "content": "Điều 15. Xử lý sự cố Trường hợp Cổng Dịch vụ công xảy ra sự cố, làm gián đoạn quá trình cung cấp dịch vụ:",
+                "clauses": [
+                  {
+                    "clause_id": "doc:299406:part:3:article:15:clause:1",
+                    "number": "1",
+                    "content": "1. Cơ quan có thẩm quyền có trách\nnhiệm thông báo cho tổ chức, cá nhân bằng văn bản, qua điện thoại hoặc thư điện tử theo thông tin đã đăng ký và hướng dẫn tổ chức, cá nhân hoàn thành các thủ tục đang thực hiện theo các phương thức khác theo quy định của pháp luật chuyên ngành.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:299406:part:3:article:15:clause:2",
+                    "number": "2",
+                    "content": "2. Trong thời gian khắc phục sự cố,\ncác thủ tục hành chính được thực hiện theo các phương thức khác theo quy định của pháp luật chuyên ngành.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:299406:part:3:article:16",
+                "number": "16",
+                "title": "Quy định về an ninh, an toàn và bảo mật thông tin",
+                "content": "Điều 16. Quy định về an ninh, an toàn và bảo mật thông tin",
+                "clauses": [
+                  {
+                    "clause_id": "doc:299406:part:3:article:16:clause:1",
+                    "number": "1",
+                    "content": "1. Tuân thủ các quy định theo,\nThông tư số 03/2017/TT-BTTTT ngày 24/4/2017 của Bộ Thông tin và Truyền thông Quy định chi tiết và hướng dẫn một số điều của Nghị định số 85/2016/NĐ-CP ngày 01/7/2016 của Chính phủ về bảo đảm an toàn thông tin theo cấp độ và các văn bản quy phạm pháp luật về bảo đảm an toàn thông tin và dữ liệu. - Các cơ quan, đơn vị thuộc Bộ phải sử dụng Giao thức truyền siêu văn bản an toàn (HTTPS) để tăng cường bảo đảm an toàn cho truy cập dịch vụ công trực tuyến mức độ 3, mức độ 4. - Hệ thống Dịch vụ công và Hệ thống Một cửa điện tử phải được áp dụng các giải pháp, kỹ thuật, công nghệ an toàn, bảo mật để việc cung cấp dịch vụ đảm bảo tính toàn vẹn, chính xác, kịp thời cho người sử dụng. - Người sử dụng tham gia Hệ thống Dịch vụ công và Hệ thống Một cửa điện tử có trách nhiệm bảo quản, bảo mật tài khoản và mật khẩu được cấp, truy cập đúng thẩm quyền quy định và tuân thủ các quy định về an toàn, bảo mật của Quy chế này. - Bộ Nông nghiệp và Phát triển nông thôn có trách nhiệm bảo mật và lưu giữ thông tin của người sử dụng, trừ trường hợp phải cung cấp thông tin này cho các cơ quan có thẩm quyền theo quy định của pháp luật.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:299406:part:3:article:17",
+                "number": "17",
+                "title": "Quản lý, sử dụng tài khoản: Có hai loại tài khoản khi tham gia vào hệ thống:",
+                "content": "Điều 17. Quản lý, sử dụng tài khoản: Có hai loại tài khoản khi tham gia vào hệ thống:",
+                "clauses": [
+                  {
+                    "clause_id": "doc:299406:part:3:article:17:clause:1",
+                    "number": "1",
+                    "content": "1. Tài khoản\ncấp cho lãnh đạo, công chức, viên chức của các đơn vị thuộc Bộ (,..@mard.gov.vn) là tài khoản email công vụ tích hợp trên hệ thống AD (Active Directory - hệ thống quản lý tài khoản, thiết bị truy cập mạng trên hệ thống máy chủ của Bộ) và phải tuân theo quy chế Quản lý email công vụ của Bộ.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:299406:part:3:article:17:clause:2",
+                    "number": "2",
+                    "content": "2. Tài khoản\ncấp cho các tổ chức, cá nhân, doanh nghiệp. Khi tham gia hệ thống phải tuân theo các quy định sau: - Không xâm phạm, giả mạo hoặc cố tình truy cập vào hệ thống bằng tài khoản của cá nhân, tổ chức, doanh nghiệp khác. - Các cá nhân, tổ chức, doanh nghiệp được cấp tài khoản sử dụng phải có trách nhiệm tự quản lý, lưu trữ và bảo quản tài khoản của mình được an toàn. - Trong trường hợp bị mất quyền truy cập, sai lệch thông tin, chưa được phân quyền, bị khóa, mất, lộ mật khẩu dưới bất kỳ hình thức nào thì phải kịp thời báo ngay cho Bộ Nông nghiệp và Phát triển nông thôn để tiếp nhận, xử lý kịp thời (Qua hệ thống đường dây nóng, trực kỹ thuật).",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:299406:part:3:chapter:3",
+            "number": "II",
+            "title": "QUY TRÌNH THỰC HIỆN THỦ TỤC HÀNH CHÍNH TRÊN CỔNG DỊCH VỤ CÔNG VÀ HỆ THỐNG THÔNG TIN MỘT CỬA ĐIỆN TỬ",
+            "content": "Chương II\nQUY\nTRÌNH THỰC HIỆN THỦ TỤC HÀNH CHÍNH TRÊN CỔNG DỊCH VỤ CÔNG VÀ HỆ THỐNG THÔNG TIN\nMỘT CỬA ĐIỆN TỬ",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:299406:part:3:article:18",
+                "number": "18",
+                "title": "Đăng ký, đăng nhập tài khoản và nộp hồ sơ điện tử",
+                "content": "Điều 18. Đăng ký, đăng nhập tài khoản và nộp hồ sơ điện tử",
+                "clauses": [
+                  {
+                    "clause_id": "doc:299406:part:3:article:18:clause:1",
+                    "number": "1",
+                    "content": "1. Tổ chức,\ncá nhân truy cập vào Cổng Dịch vụ công để đăng ký tài khoản giao dịch điện tử (hoặc sử dụng tài khoản giao dịch điện tử đã đăng ký tại Cổng Dịch vụ công quốc gia) để thực hiện giao dịch đối với các thủ tục hành chính được cung cấp dịch vụ công trực tuyến trên Cổng Dịch vụ công theo quy định.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:299406:part:3:article:18:clause:2",
+                    "number": "2",
+                    "content": "2. Việc tiếp\nnhận, giải quyết thủ tục hành chính trên Cổng Dịch vụ công chỉ được thực hiện khi hồ sơ được gửi từ tài khoản đã đăng ký.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:299406:part:3:article:18:clause:3",
+                    "number": "3",
+                    "content": "3. Tổ chức,\ncá nhân sử dụng tài khoản đã đăng ký thành công đăng nhập vào địa chỉ Cổng Dịch vụ công để thao tác gửi hồ sơ điện tử thực hiện thủ tục hành chính đến cơ quan có thẩm quyền tiếp nhận.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:299406:part:3:article:18:clause:4",
+                    "number": "4",
+                    "content": "4. Trường hợp\nmức độ bảo đảm xác thực khi thực hiện giao dịch thủ tục hành chính trực tuyến yêu cầu cao hơn so với mức độ bảo đảm xác thực khi đăng nhập vào Cổng Dịch vụ công thì tổ chức, cá nhân thực hiện theo yêu cầu cụ thể của hệ thống.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:299406:part:3:article:18:clause:5",
+                    "number": "5",
+                    "content": "5. Hồ sơ điện\ntử thực hiện thủ tục hành chính phải kê khai đầy đủ các mẫu đơn, tờ khai điện tử, kèm theo đầy đủ thành phần thủ tục hồ sơ theo yêu cầu của từng dịch vụ công trực tuyến, đảm bảo đúng quy định của pháp luật. Đối với hồ sơ nộp trực tuyến mức độ 3, mức độ 4 phải được kê khai và ký chữ ký số trên các biểu mẫu điện tử bao gồm:",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:299406:part:3:article:19",
+                "number": "19",
+                "title": "Quy trình tiếp nhận, giải quyết hồ sơ thủ tục hành chính trên Cổng Dịch vụ công và Hệ thống thông tin Một cửa điện tử",
+                "content": "Điều 19. Quy trình tiếp nhận, giải quyết hồ sơ thủ tục hành chính trên Cổng Dịch vụ công và Hệ thống thông tin Một cửa điện tử",
+                "clauses": [
+                  {
+                    "clause_id": "doc:299406:part:3:article:19:clause:1",
+                    "number": "1",
+                    "content": "1. Cổng Dịch\nvụ công tiếp nhận yêu cầu, kiểm tra tự động về mặt kỹ thuật. Nếu hồ sơ đã đủ các thành phần và bảo đảm về mặt kỹ thuật thì phản hồi tự động xác nhận tổ chức, cá nhân đã gửi thành công và thông báo về thời điểm tiếp nhận chính thức hồ sơ.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:299406:part:3:article:19:clause:2",
+                    "number": "2",
+                    "content": "2. Công chức,\nviên chức của các cơ quan có thẩm quyền được phân công tiếp nhận hồ sơ thủ tục hành chính tiến hành kiểm tra hồ sơ điện tử của tổ chức, cá nhân trên Cổng Dịch vụ công và Hệ thống Một cửa điện tử. Nội dung kiểm tra hồ sơ bao gồm:",
+                    "points": [
+                      {
+                        "point_id": "doc:299406:part:3:article:19:clause:2:point:1",
+                        "label": "a",
+                        "content": "a) Kiểm tra\ntính chính xác của thông tin tại mẫu đơn, tờ khai và thành phần hồ sơ kèm theo thông qua việc khai thác thông tin, dữ liệu tại các hệ thống thông tin, cơ sở dữ liệu đã được các cơ quan có thẩm quyền kết nối, chia sẻ thông tin cho Cổng Dịch vụ công và Hệ thống Một cửa điện tử;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:299406:part:3:article:19:clause:2:point:2",
+                        "label": "b",
+                        "content": "b) Kiểm tra\nthông tin chữ ký số để đảm bảo tính xác thực, tính hợp lệ, chính xác, nguyên vẹn đối với các thành phần hồ sơ được đăng tải, dẫn nguồn, các thành phần hồ sơ theo yêu cầu chứng thực điện tử; việc kiểm tra chữ ký số được thực hiện theo quy định của Luật Giao dịch điện tử.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:299406:part:3:article:19:clause:3",
+                    "number": "3",
+                    "content": "3. Sau khi\nkiểm tra, nếu hồ sơ bảo đảm các điều kiện để tiếp nhận, công chức, viên chức tiếp nhận, cấp mã hồ sơ thủ tục hành chính và xử lý hồ sơ theo quy trình quy định tại",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:299406:part:3:chapter:4",
+            "number": "III",
+            "title": "11 Nghị định số 45/2020/NĐ-CP và các quy định của pháp luật có liên quan. Trường hợp hồ sơ chưa đầy đủ hoặc chưa đúng quy định, công chức, viên chức thông báo cho tổ chức, cá nhân biết thông qua tài khoản của tổ chức, cá nhân trên Cổng Dịch vụ công hoặc các kênh thông tin liên hệ do tổ chức, cá nhân cung cấp để hướng dẫn đầy đủ, cụ thể một lần cho tổ chức, cá nhân bổ sung, hoàn thiện đầy đủ hồ sơ theo quy định. 4. Công chức, viên chức thông báo về việc tiếp nhận chính thức hoặc yêu cầu chỉnh sửa, bổ sung hồ sơ điện tử cho tổ chức, cá nhân không muộn hơn 08 (tám) giờ làm việc kể từ khi hệ thống tiếp nhận. 5. Việc sửa đổi, bổ sung thông tin hồ sơ điện tử thực hiện thủ tục hành chính được thực hiện theo quy định tại Điều 12 Nghị định số 45/2020/NĐ-CP. 6. Việc thanh toán trực tuyến nghĩa vụ tài chính, phí, lệ phí trong giải quyết thủ tục hành chính được thực hiện theo quy định tại Điều 13 Nghị định số 45/2020/NĐ-CP. 7. Kết quả giải quyết thủ tục hành chính đối với hồ sơ điện tử được thực hiện theo quy định tại Điều 14 Nghị định số 45/2020/NĐ-CP. 8. Các biểu mẫu trong quy trình giải quyết thủ tục hành chính thực hiện theo quy định tại Điều 9 Thông tư số 01/2018/TT-VPCP ngày 23/11/2018 Hướng dẫn thi hành một số quy định của Nghị định số 61/2018/NĐ-CP ngày 23/4/2018 của Chính phủ về Đề nghị thực hiện cơ chế một cửa, một cửa liên thông trong giải quyết thủ tục hành chính",
+            "content": "Chương III Nghị định số 61/2018/NĐ-CP và Điều\n11 Nghị định số 45/2020/NĐ-CP và các quy định của pháp luật có liên quan. Trường hợp hồ sơ chưa đầy đủ hoặc chưa đúng quy định, công chức, viên chức thông báo cho tổ chức, cá nhân biết thông qua tài khoản của tổ chức, cá nhân trên Cổng Dịch vụ công hoặc các kênh thông tin liên hệ do tổ chức, cá nhân cung cấp để hướng dẫn đầy đủ, cụ thể một lần cho tổ chức, cá nhân bổ sung, hoàn thiện đầy đủ hồ sơ theo quy định.\n4. Công chức,\nviên chức thông báo về việc tiếp nhận chính thức hoặc yêu cầu chỉnh sửa, bổ sung hồ sơ điện tử cho tổ chức, cá nhân không muộn hơn 08 (tám) giờ làm việc kể từ khi hệ thống tiếp nhận.\n5. Việc sửa\nđổi, bổ sung thông tin hồ sơ điện tử thực hiện thủ tục hành chính được thực hiện theo quy định tại Điều 12 Nghị định số 45/2020/NĐ-CP.\n6. Việc\nthanh toán trực tuyến nghĩa vụ tài chính, phí, lệ phí trong giải quyết thủ tục hành chính được thực hiện theo quy định tại Điều 13 Nghị định số\n45/2020/NĐ-CP.\n7. Kết quả\ngiải quyết thủ tục hành chính đối với hồ sơ điện tử được thực hiện theo quy định tại Điều 14 Nghị định số 45/2020/NĐ-CP.\n8. Các biểu\nmẫu trong quy trình giải quyết thủ tục hành chính thực hiện theo quy định tại Điều 9 Thông tư số 01/2018/TT-VPCP ngày 23/11/2018 Hướng dẫn thi hành một số quy định của Nghị định số 61/2018/NĐ-CP ngày 23/4/2018 của Chính phủ về Đề nghị thực hiện cơ chế một cửa, một cửa liên thông trong giải quyết thủ tục hành chính.",
+            "sections": [],
+            "articles": []
+          },
+          {
+            "chapter_id": "doc:299406:part:3:chapter:5",
+            "number": "III",
+            "title": "TIẾP NHẬN, XỬ LÝ CÂU HỎI, PHẢN ÁNH, KIẾN NGHỊ TRÊN CỔNG DỊCH VỤ CÔNG",
+            "content": "Chương III\nTIẾP NHẬN,\nXỬ LÝ CÂU HỎI, PHẢN ÁNH, KIẾN NGHỊ TRÊN CỔNG DỊCH VỤ CÔNG",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:299406:part:3:article:20",
+                "number": "20",
+                "title": "Quy định đối với Mục Hỏi đáp - Kiến nghị",
+                "content": "Điều 20. Quy định đối với Mục Hỏi đáp - Kiến nghị",
+                "clauses": [
+                  {
+                    "clause_id": "doc:299406:part:3:article:20:clause:1",
+                    "number": "1",
+                    "content": "1. Mục Hỏi đáp - Kiến nghị được\ncung cấp trên Cổng Dịch vụ công để thực hiện việc tiếp nhận và giải đáp các câu hỏi của tổ chức, cá nhân về các vấn đề liên quan đến thủ tục hành chính, dịch vụ công trực tuyến thuộc phạm vi trách nhiệm quản lý của các cơ quan, đơn vị quy định tại khoản 1 Điều 2 Quy chế này, với mục tiêu tạo điều kiện cho tổ chức, cá nhân tham gia đối thoại với các cơ quan có thẩm quyền để nắm bắt thêm thông tin, đáp ứng yêu cầu công khai, minh bạch trong công tác giải quyết thủ tục hành chính.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:299406:part:3:article:20:clause:2",
+                    "number": "2",
+                    "content": "2. Nội dung\ntrả lời câu hỏi của các cơ quan có thẩm quyền trên Mục Hỏi đáp - Kiến nghị chỉ có giá trị tham khảo, không có giá trị pháp lý để thi hành hoặc giải quyết các quan hệ dân sự, kinh tế và các quan hệ pháp luật khác.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:299406:part:3:article:20:clause:3",
+                    "number": "3",
+                    "content": "3. Việc tiếp\nnhận, trả lời câu hỏi trên Mục Hỏi đáp - Kiến nghị quy định tại Quy chế này không bị điều chỉnh bởi các quy định của pháp luật liên quan đến khiếu nại, tố cáo và xử lý phản ánh, kiến nghị.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:299406:part:3:article:20:clause:4",
+                    "number": "4",
+                    "content": "4. Mục Hỏi\nđáp - Kiến nghị không xem xét, trả lời các câu hỏi được các cơ quan có thẩm quyền xác định vi phạm những hành vi không được làm khi tham gia thực hiện thủ tục hành chính trên Cổng Dịch vụ công được quy định tại khoản 3 Điều 5 Nghị định số 45/2020/NĐ-CP hoặc câu hỏi không đáp ứng đầy đủ các quy định tại Điều 21 Quy chế này.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:299406:part:3:article:21",
+                "number": "21",
+                "title": "Quy định đối với việc gửi câu hỏi đến Mục Hỏi đáp - Kiến nghị",
+                "content": "Điều 21. Quy định đối với việc gửi câu hỏi đến Mục Hỏi đáp - Kiến nghị",
+                "clauses": [
+                  {
+                    "clause_id": "doc:299406:part:3:article:21:clause:1",
+                    "number": "1",
+                    "content": "1. Câu hỏi\nphải được soạn thảo dưới dạng chữ tiếng Việt có dấu, theo định dạng font chữ Times New Roman bảng mã Unicode, không viết tắt, không sử dụng các ký hiệu không được thừa nhận theo quy định, câu hỏi phải có nội dung cụ thể, không đặt câu hỏi chung chung, thuộc phạm vi nội dung quy định tại Điều 20 Quy chế này.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:299406:part:3:article:21:clause:2",
+                    "number": "2",
+                    "content": "2. Quy định\nvề xác thực danh tính của tổ chức, cá nhân gửi câu hỏi:",
+                    "points": [
+                      {
+                        "point_id": "doc:299406:part:3:article:21:clause:2:point:1",
+                        "label": "a",
+                        "content": "a) Đối với\ntrường hợp là tổ chức thì người gửi câu hỏi phải ghi rõ họ và tên, chức vụ đại diện theo pháp luật của tổ chức gửi câu hỏi; số quyết định (hoặc giấy phép, giấy chứng nhận) thành lập tổ chức; địa chỉ trụ sở chính của tổ chức; số điện thoại và địa chỉ thư điện tử liên hệ đã được đăng ký với cơ quan có thẩm quyền.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:299406:part:3:article:21:clause:2:point:2",
+                        "label": "b",
+                        "content": "b) Đối với\ntrường hợp là cá nhân phải ghi rõ họ và tên, quốc tịch, số chứng minh thư nhân dân (hoặc số thẻ căn cước công dân hoặc hộ chiếu), địa chỉ đăng ký thường trú; số điện thoại và địa chỉ thư điện tử (nếu có).",
+                        "children": []
+                      }
+                    ]
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:299406:part:3:article:22",
+                "number": "22",
+                "title": "Quy trình tiếp nhận, chuyển câu hỏi và xử lý, đăng tải nội dung trả lời tại Mục Hỏi đáp - Kiến nghị",
+                "content": "Điều 22. Quy trình tiếp nhận, chuyển câu hỏi và xử lý, đăng tải nội dung trả lời tại Mục Hỏi đáp - Kiến nghị",
+                "clauses": [
+                  {
+                    "clause_id": "doc:299406:part:3:article:22:clause:1",
+                    "number": "1",
+                    "content": "1. Tiếp nhận, chuyển câu hỏi đến\ncác cơ quan có thẩm quyền:",
+                    "points": [
+                      {
+                        "point_id": "doc:299406:part:3:article:22:clause:1:point:1",
+                        "label": "a",
+                        "content": "a) Văn phòng\nBộ có trách nhiệm làm đầu mối tiếp nhận câu hỏi của tổ chức, cá nhân gửi đến Mục Hỏi đáp - Kiến nghị. Chậm nhất 02 (hai) ngày kể từ khi tiếp nhận câu hỏi, Văn phòng Bộ rà soát nội dung, phân loại câu hỏi chuyển đến các cơ quan có thẩm quyền để xem xét, trả lời theo quy định. Trường hợp câu hỏi gửi đến ngoài giờ hành chính thì thời điểm tiếp nhận câu hỏi được tính tại thời điểm bắt đầu buổi làm việc tiếp theo.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:299406:part:3:article:22:clause:1:point:2",
+                        "label": "b",
+                        "content": "b) Trường hợp\ncâu hỏi không đảm bảo các quy định tại Điều 21 Quy chế này, trong thời hạn 01 (một) ngày làm việc, Văn phòng Bộ có trách nhiệm phản hồi với tổ chức, cá nhân về việc không tiếp nhận, xử lý câu hỏi.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:299406:part:3:article:22:clause:1:point:3",
+                        "label": "c",
+                        "content": "c) Văn phòng\nBộ thực hiện chuyển câu hỏi thông qua tài khoản sử dụng Cổng Dịch vụ công cấp cho công chức, viên chức được các cơ quan, đơn vị phân công làm nhiệm vụ đầu mối tiếp nhận câu hỏi và đăng tải nội dung trả lời.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:299406:part:3:article:22:clause:2",
+                    "number": "2",
+                    "content": "2. Xử lý và đăng tải nội dung trả\nlời câu hỏi cho tổ chức, cá nhân:",
+                    "points": [
+                      {
+                        "point_id": "doc:299406:part:3:article:22:clause:2:point:1",
+                        "label": "a",
+                        "content": "a) Các cơ\nquan có thẩm quyền xem xét, phân công bộ phận chuyên môn soạn thảo nội dung trả lời câu hỏi; chuyển nội dung trả lời đến cán bộ đầu mối của đơn vị để đăng tải nội dung trả lời cho tổ chức, cá nhân trên Cổng Dịch vụ công thông qua tài khoản sử dụng Cổng Dịch vụ công quy định tại điểm c khoản 1 Điều này.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:299406:part:3:article:22:clause:2:point:2",
+                        "label": "b",
+                        "content": "b) Thời hạn\ntrả lời kể từ khi tiếp nhận câu hỏi chậm nhất 03 (ba) ngày làm việc; trường hợp nội dung câu hỏi mang tính chất phức tạp, cần có sự phối hợp của nhiều cơ quan, đơn vị thì cơ quan, đơn vị được gửi câu hỏi chủ trì, phối hợp với các cơ quan, đơn vị liên quan xem xét trả lời tổ chức, cá nhân trong thời hạn không quá 05 (năm) ngày làm việc, đồng thời gửi kết quả về Văn phòng Bộ. Đối với câu hỏi không thuộc phạm vi, lĩnh vực hoạt động, thẩm quyền giải quyết của cơ quan, đơn vị thì chậm nhất 01 (một) ngày kể từ khi tiếp nhận câu hỏi, phải phản hồi cho Văn phòng Bộ để kịp thời chuyển đến cơ quan có thẩm quyền xem xét, giải quyết.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:299406:part:3:article:22:clause:2:point:3",
+                        "label": "c",
+                        "content": "c) Câu trả lời\nphải ghi cụ thể các thông tin: Tên cơ quan, đơn vị trả lời; họ và tên, chức vụ của Lãnh đạo cơ quan, đơn vị trả lời hoặc cá nhân được ủy quyền trả lời theo quy định.",
+                        "children": []
+                      }
+                    ]
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:299406:part:3:article:23",
+                "number": "23",
+                "title": "Tiếp nhận, xử lý phản ánh, kiến nghị",
+                "content": "Điều 23. Tiếp nhận, xử lý phản ánh, kiến nghị\na) Việc tiếp\nnhận, xử lý phản ánh, kiến nghị của tổ chức, công dân gửi đến Cổng Dịch vụ công được thực hiện thông qua tài khoản sử dụng Cổng Dịch vụ công của công chức, viên chức quy định tại điểm c khoản 1 Điều 22 Quy chế này.\nb) Quy trình\ntiếp nhận, xử lý và công khai kết quả xử lý phản ánh, kiến nghị thực hiện theo quy định tại Nghị định số 20/2008/NĐ-CP ngày 14 tháng 02 năm 2008 của Chính phủ về tiếp nhận, xử lý phản ánh, kiến nghị của cá nhân, tổ chức về quy định hành chính và Điều 33, Điều 34 Thông tư số 02/2017/TT-VPCP ngày 31/10/2017 của Bộ trưởng, Chủ nhiệm Văn phòng Chính phủ hướng dẫn về nghiệp vụ kiểm soát thủ tục hành chính.",
+                "clauses": [],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:299406:part:3:chapter:6",
+            "number": "IV",
+            "title": "TỔ CHỨC THỰC HIỆN",
+            "content": "Chương IV\nTỔ CHỨC THỰC HIỆN",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:299406:part:3:article:24",
+                "number": "24",
+                "title": "Trách nhiệm của Văn phòng Bộ",
+                "content": "Điều 24. Trách nhiệm của Văn phòng Bộ",
+                "clauses": [
+                  {
+                    "clause_id": "doc:299406:part:3:article:24:clause:1",
+                    "number": "1",
+                    "content": "1. Hướng dẫn các cơ quan, đơn vị\nxây dựng, trình ban hành quy trình nội bộ, quy trình điện tử thực hiện thủ tục hành chính thuộc phạm vi quản lý của Bộ.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:299406:part:3:article:24:clause:2",
+                    "number": "2",
+                    "content": "2. Hướng dẫn\ncác cơ quan, đơn vị xây dựng lộ trình cung cấp dịch vụ công trực tuyến. Định kỳ hằng quý, hằng năm tổng hợp, báo cáo Bộ Nông nghiệp và Phát triển nông thôn về tình hình triển khai thực hiện của các cơ quan, đơn vị.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:299406:part:3:article:24:clause:3",
+                    "number": "3",
+                    "content": "3. Chủ trì\ntham mưu cho Bộ Nông nghiệp và Phát triển nông thôn tổ chức triển khai, hướng dẫn thực hiện; điều chỉnh, bổ sung các nội dung của Quy chế (nếu có) theo quy định của pháp luật; định kỳ báo cáo Lãnh đạo Bộ về thông tin, kết quả triển khai, tình hình thực hiện Quy chế này.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:299406:part:3:article:24:clause:4",
+                    "number": "4",
+                    "content": "4. Chủ trì\ntriển khai công tác tuyên truyền, giới thiệu dịch vụ công trực tuyến để nâng cao nhận thức và khuyến khích các tổ chức, cá nhân tham gia, sử dụng dịch vụ công trực tuyến.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:299406:part:3:article:24:clause:5",
+                    "number": "5",
+                    "content": "5. Tổng hợp,\ntiếp nhận và phân công việc trả lời phản ánh, kiến nghị liên quan đến thực hiện thủ tục hành chính của Bộ Nông nghiệp và Phát triển nông thôn; công khai trên hệ thống xử lý phản ánh kiến nghị của Cổng Dịch vụ công Quốc gia.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:299406:part:3:article:24:clause:6",
+                    "number": "6",
+                    "content": "6. Lập dự\ntoán kinh phí hàng năm để duy trì, vận hành Hệ thống Một cửa điện tử của Bộ; rà soát, đề xuất với Bộ Nông nghiệp và Phát triển nông thôn phương án, biện pháp để phát triển Hệ thống thông tin Một cửa điện tử đảm bảo đáp ứng yêu cầu thực tế; tổ chức kiểm tra, theo dõi, đôn đốc việc triển khai, thực hiện cung cấp dịch vụ công trực tuyến theo Quy chế này và các văn bản pháp luật hiện hành có liên quan.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:299406:part:3:article:24:clause:7",
+                    "number": "7",
+                    "content": "7. Đề nghị Bộ\nNông nghiệp và Phát triển nông thôn khen thưởng hoặc phê bình Thủ trưởng cơ quan, đơn vị trong chỉ đạo thực hiện Quy chế này.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:299406:part:3:article:24:clause:8",
+                    "number": "8",
+                    "content": "8. Trước\nngày 30 tháng 11 hằng năm, Văn phòng Bộ chủ trì phối hợp với các đơn vị liên quan thuộc Bộ rà soát, xác định những thủ tục hành chính có đủ điều kiện xây dựng cung cấp dịch vụ công trực tuyến mức độ 3 và 4; trình Bộ ban hành kế hoạch xây dựng, cung cấp dịch vụ công trực tuyến (sau đây gọi tắt là Kế hoạch) thực hiện trong năm tiếp theo.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:299406:part:3:article:25",
+                "number": "25",
+                "title": "Trách nhiệm của Trung tâm Tin học và Thống kê",
+                "content": "Điều 25. Trách nhiệm của Trung tâm Tin học và Thống kê",
+                "clauses": [
+                  {
+                    "clause_id": "doc:299406:part:3:article:25:clause:1",
+                    "number": "1",
+                    "content": "1. Quản lý,\nduy trì, vận hành và đảm bảo hạ tầng kỹ thuật cho Cổng Dịch vụ công và Hệ thống Một cửa điện tử theo quy định tại Quy chế này và các quy định khác của pháp luật có liên quan, bảo đảm hệ thống hoạt động ổn định, thông suốt và đảm bảo an ninh, an toàn thông tin theo quy định.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:299406:part:3:article:25:clause:2",
+                    "number": "2",
+                    "content": "2. Hỗ trợ kỹ\nthuật và khắc phục các sự cố (nếu có) cho các cơ quan có thẩm quyền của Bộ và trực đường dây nóng để giải đáp thắc mắc, hỗ trợ kỹ thuật cho tổ chức, người dân và doanh nghiệp trong quá trình vận hành, khai thác sử dụng, bảo đảm hệ thống được duy trì, vận hành liên tục, thông suốt.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:299406:part:3:article:25:clause:3",
+                    "number": "3",
+                    "content": "3. Chủ trì\nvà là đầu mối kỹ thuật trong việc tích hợp Cổng Dịch vụ công và Hệ thống thông tin Một cửa điện tử của Bộ với Cổng Dịch vụ công Quốc gia; chia sẻ dữ liệu với Cổng Dịch vụ công Quốc gia, Cổng Dịch vụ công của Bộ, Hệ thống thông tin Một cửa điện tử, Cổng thông tin điện tử, Cơ sở dữ liệu và các hệ thống thông tin khác có liên quan của Bộ cũng như các cơ quan, đơn vị và tổ chức, cá nhân khác.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:299406:part:3:article:25:clause:4",
+                    "number": "4",
+                    "content": "4. Lập dự\ntoán kinh phí hàng năm để duy trì, phát triển Cổng Dịch vụ công; rà soát, đề xuất với Bộ Nông nghiệp và Phát triển nông thôn phương án, biện pháp để phát triển Cổng Dịch vụ công đảm bảo đáp ứng yêu cầu thực tế.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:299406:part:3:article:25:clause:5",
+                    "number": "5",
+                    "content": "5. Chủ trì,\nphối hợp với các đơn vị liên quan tổ chức xây dựng hạ tầng cung cấp dịch vụ công trực tuyến mức độ 3 và 4; bao gồm việc xác lập, hoàn thiện quy trình hành chính điện tử và nội dung đặc tả, giao diện, cấu trúc để triển khai thực hiện các thủ tục hành chính giải quyết trực tuyến trên môi trường mạng.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:299406:part:3:article:25:clause:6",
+                    "number": "6",
+                    "content": "6. Phối hợp\nvới Văn phòng Bộ và các đơn vị liên quan trực thuộc Bộ Nông nghiệp và Phát triển nông thôn trong quá trình xác định những thủ tục hành chính đủ điều kiện xây dựng, cung cấp dịch vụ công trực tuyến mức độ 3 và 4 để tổ chức xây dựng phần mềm và tổ chức thực hiện; tổ chức triển khai và hướng dẫn thực hiện, định kỳ báo cáo Lãnh đạo Bộ về thông tin, kết quả triển khai, tình hình thực hiện Quy chế này.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:299406:part:3:article:26",
+                "number": "26",
+                "title": "Trách nhiệm của Vụ Tài chính, Vụ Kế hoạch",
+                "content": "Điều 26. Trách nhiệm của Vụ Tài chính, Vụ Kế hoạch",
+                "clauses": [
+                  {
+                    "clause_id": "doc:299406:part:3:article:26:clause:1",
+                    "number": "1",
+                    "content": "1. Chủ trì,\nphối hợp với Trung tâm Tin học và Thống kê bố trí kinh phí để triển khai và duy trì Cổng Dịch vụ công và Hệ thống Một cửa điện tử, kết nối liên thông với Cổng Dịch vụ công Quốc gia trong tổng kinh phí chi thường xuyên hàng năm của Bộ và các nguồn hợp pháp khác theo quy định của pháp luật về ngân sách nhà nước.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:299406:part:3:article:26:clause:2",
+                    "number": "2",
+                    "content": "2. Hướng dẫn\nviệc đăng ký, sử dụng kinh phí đầu tư đối với xây dựng, nâng cấp cơ sở hạ tầng công nghệ thông tin đối với các hệ thống Dịch vụ công của Bộ theo quy định của pháp luật về đầu tư công và pháp luật khác có liên quan.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:299406:part:3:article:27",
+                "number": "27",
+                "title": "Trách nhiệm của các Tổng cục, Cục, Vụ thực hiện giải quyết thủ tục hành chính cho tổ chức, cá nhân",
+                "content": "Điều 27. Trách nhiệm của các Tổng cục, Cục, Vụ thực hiện giải quyết thủ tục hành chính cho tổ chức, cá nhân",
+                "clauses": [
+                  {
+                    "clause_id": "doc:299406:part:3:article:27:clause:1",
+                    "number": "1",
+                    "content": "1. Thủ trưởng\ncác cơ quan có thẩm quyền liên quan chịu trách nhiệm trước Bộ Nông nghiệp và Phát triển nông thôn trong việc chỉ đạo, bảo đảm việc tuân thủ các quy định tại",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:299406:part:3:article:28",
+                "number": "28",
+                "title": "Trách nhiệm của các tổ chức trung gian cung cấp các dịch vụ, tiện ích có liên quan trên Cổng Dịch vụ công và Hệ thống thông tin Một cửa điện tử của Bộ Nông nghiệp và Phát triển nông thôn Các tổ chức trung gian cung cấp các dịch vụ, tiện ích có liên quan trên Cổng Dịch vụ công và Hệ thống Một cửa điện tử của Bộ Nông nghiệp và Phát triển nông thôn như: Ban Cơ yếu Chính phủ cung cấp chữ ký số, các tổ chức trung gian thanh toán, trung gian nộp hồ sơ và nhận kết quả giải quyết thủ tục hành chính của các tổ chức, cá nhân chịu trách nhiệm thực hiện các nội dung có liên quan tại Quy chế này và các văn bản khác được quy định riêng giữa tổ chức trung gian đó với cơ quan có thẩm quyền và với tổ chức, cá nhân có yêu cầu thực hiện thủ tục hành chính thuộc thẩm quyền giải quyết của Bộ Nông nghiệp và Phát triển nông thôn.",
+                "content": "Điều 28. Trách nhiệm của các tổ chức trung gian cung cấp các dịch vụ, tiện ích có liên quan trên Cổng Dịch vụ công và Hệ thống thông tin Một cửa điện tử của Bộ Nông nghiệp và Phát triển nông thôn Các tổ chức trung gian cung cấp các dịch vụ, tiện ích có liên quan trên Cổng Dịch vụ công và Hệ thống Một cửa điện tử của Bộ Nông nghiệp và Phát triển nông thôn như: Ban Cơ yếu Chính phủ cung cấp chữ ký số, các tổ chức trung gian thanh toán, trung gian nộp hồ sơ và nhận kết quả giải quyết thủ tục hành chính của các tổ chức, cá nhân chịu trách nhiệm thực hiện các nội dung có liên quan tại Quy chế này và các văn bản khác được quy định riêng giữa tổ chức trung gian đó với cơ quan có thẩm quyền và với tổ chức, cá nhân có yêu cầu thực hiện thủ tục hành chính thuộc thẩm quyền giải quyết của Bộ Nông nghiệp và Phát triển nông thôn.",
+                "clauses": [],
+                "points": []
+              },
+              {
+                "article_id": "doc:299406:part:3:article:29",
+                "number": "29",
+                "title": "Trách nhiệm của cán bộ, công chức, viên chức được phân công giải quyết thủ tục hành chính Trách nhiệm của các bộ, công chức, viên chức được phân công thực hiện giải quyết thủ tục hành chính thực hiện theo quy định tại Điều 20 của Nghị định số 63/2010/NĐ-CP ngày 08/6/2010 Của Chính phủ về kiểm soát thủ tục hành chính và các nội dung liên quan tại Quy chế này.",
+                "content": "Điều 29. Trách nhiệm của cán bộ, công chức, viên chức được phân công giải quyết thủ tục hành chính Trách nhiệm của các bộ, công chức, viên chức được phân công thực hiện giải quyết thủ tục hành chính thực hiện theo quy định tại Điều 20 của Nghị định số 63/2010/NĐ-CP ngày 08/6/2010 Của Chính phủ về kiểm soát thủ tục hành chính và các nội dung liên quan tại Quy chế này.",
+                "clauses": [],
+                "points": []
+              },
+              {
+                "article_id": "doc:299406:part:3:article:30",
+                "number": "30",
+                "title": "Trách nhiệm của tổ chức, cá nhân có yêu cầu thực hiện thủ tục hành chính",
+                "content": "Điều 30. Trách nhiệm của tổ chức, cá nhân có yêu cầu thực hiện thủ tục hành chính",
+                "clauses": [
+                  {
+                    "clause_id": "doc:299406:part:3:article:30:clause:1",
+                    "number": "1",
+                    "content": "1. Đăng ký\ntài khoản, khai báo thông tin và cung cấp các tài liệu liên quan, bảo đảm tính chính xác, đầy đủ theo quy định; chịu trách nhiệm trước pháp luật về các thông tin, tài liệu đã cung cấp cho cơ quan có thẩm quyền giải quyết thủ tục hành chính của Bộ Nông nghiệp và Phát triển nông thôn.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:299406:part:3:article:30:clause:2",
+                    "number": "2",
+                    "content": "2. Nộp hồ\nsơ, nhận kết quả giải quyết thủ tục hành chính trực tuyến thông qua các hệ thống Dịch vụ công của Bộ hoặc trực tiếp tại cơ quan có thẩm quyền hoặc qua dịch vụ bưu chính công ích theo quy định.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:299406:part:3:article:30:clause:3",
+                    "number": "3",
+                    "content": "3. Thực hiện\ncác yêu cầu của cơ quan có thẩm quyền giải quyết thủ tục hành chính; nộp phí, lệ phí (nếu có) theo quy định.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:299406:part:3:article:30:clause:4",
+                    "number": "4",
+                    "content": "4. Thực hiện\ncác nội dung liên quan được quy định tại Quy chế này.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:299406:part:3:article:31",
+                "number": "31",
+                "title": "Khen thưởng và xử lý vi phạm Công tác thi đua, khen thưởng, xử lý vi phạm, kỷ luật trong quá trình thực hiện Quy chế này được thực hiện theo các quy định hiện hành.",
+                "content": "Điều 31. Khen thưởng và xử lý vi phạm Công tác thi đua, khen thưởng, xử lý vi phạm, kỷ luật trong quá trình thực hiện Quy chế này được thực hiện theo các quy định hiện hành.",
+                "clauses": [],
+                "points": []
+              },
+              {
+                "article_id": "doc:299406:part:3:article:32",
+                "number": "32",
+                "title": "Điều khoản thi hành",
+                "content": "Điều 32. Điều khoản thi hành",
+                "clauses": [
+                  {
+                    "clause_id": "doc:299406:part:3:article:32:clause:1",
+                    "number": "1",
+                    "content": "1. Những nội\ndung không được quy định tại Quy chế này thì thực hiện theo các quy định khác có liên quan của pháp luật hiện hành.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:299406:part:3:article:32:clause:2",
+                    "number": "2",
+                    "content": "2. Các văn bản\nquy phạm pháp luật hoặc điều khoản của văn bản quy phạm pháp luật được trích dẫn trong Quy chế này khi được sửa đổi, bổ sung, thay thế thì nội dung trích dẫn cũng được điều chỉnh và thực hiện theo văn bản quy phạm pháp luật sửa đổi, bổ sung, thay thế.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:299406:part:3:article:32:clause:3",
+                    "number": "3",
+                    "content": "3. Trong quá trình tổ chức, triển\nkhai thực hiện Quy chế này, nếu có vấn đề vướng mắc, các cơ quan, đơn vị, địa phương kịp thời phản ánh về Văn phòng Bộ để tổng hợp, báo cáo Bộ Nông nghiệp và Phát triển nông thôn xem xét, quyết định sửa đổi, bổ sung cho phù hợp./.\nBỘ NÔNG NGHIỆP VÀ PTNT",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          }
+        ],
+        "sections": [],
+        "articles": [],
+        "unstructured_blocks": []
+      }
+    ]
+  },
+  "issues": [],
+  "status": "ok",
+  "source_hash": "context_299406.json",
+  "stats": {
+    "source_chars": 41672,
+    "passage_chars": 41492,
+    "parts": 3,
+    "chapters": 6,
+    "sections": 0,
+    "articles": 36,
+    "clauses": 71,
+    "points": 19
+  }
+}

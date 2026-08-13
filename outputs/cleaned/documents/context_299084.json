@@ -1,0 +1,846 @@
+{
+  "schema_version": "2.0",
+  "document_id": 299084,
+  "metadata": {
+    "name": "Thong-tu-26-2019-TT-BKHCN-chi-tiet-xay-dung-tham-dinh-va-ban-hanh-quy-chuan-ky-thuat-449916",
+    "link": "https://thuvienphapluat.vn/van-ban/Linh-vuc-khac/Thong-tu-26-2019-TT-BKHCN-chi-tiet-xay-dung-tham-dinh-va-ban-hanh-quy-chuan-ky-thuat-449916.aspx",
+    "issuing_agency": "BỘ KHOA HỌC VÀ CÔNG",
+    "national_header": "CỘNG HÒA XÃ\r\n\n  HỘI CHỦ NGHĨA VIỆT NAM",
+    "motto": "Độc lập - Tự do - Hạnh phúc",
+    "document_number": "26/2019/TT-BKHCN",
+    "issued_place": "Hà Nội",
+    "issued_date": "ngày 25 tháng 12 năm 2019",
+    "document_type": null,
+    "title": null
+  },
+  "administrative_header": {
+    "removed": true,
+    "removed_char_count": 166
+  },
+  "preamble": {
+    "text": "THÔNG TƯ QUY\nĐỊNH CHI TIẾT XÂY DỰNG, THẨM ĐỊNH VÀ BAN HÀNH QUY CHUẨN KỸ THUẬT\nCăn cứ Luật Tiêu chuẩn và Quy chuẩn kỹ thuật ngày 29 tháng 6 năm 2006; Căn cứ Nghị định số 95/2017/NĐ-CP ngày 16 tháng 8 năm 2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Khoa học và Công nghệ; Căn cứ Nghị định số 127/2007/NĐ-CP ngày 01 tháng 8 năm 2007 của Chính phủ quy định chi tiết thi hành một số điều của Luật Tiêu chuẩn và Quy chuẩn kỹ thuật và Nghị định số 78/2018/NĐ-CP ngày 16 tháng 5 năm 2018 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 127/2007/NĐ-CP ngày 01 tháng 8 năm 2007 của Chính phủ quy định chi tiết thi hành một số điều Luật Tiêu chuẩn và Quy chuẩn kỹ thuật; Theo đề nghị của Tổng cục trưởng Tổng cục Tiêu chuẩn Đo lường Chất lượng và Vụ trưởng Vụ Pháp chế; Bộ trưởng Bộ Khoa học và Công nghệ ban hành Thông tư quy định chi tiết xây dựng, thẩm định và ban hành quy chuẩn kỹ thuật.\nChương I\nQUY ĐỊNH CHUNG",
+    "legal_bases": [
+      "Căn cứ Nghị định số 95/2017/NĐ-CP ngày 16 tháng 8 năm 2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Khoa học và Công nghệ",
+      "Căn cứ Nghị định số 127/2007/NĐ-CP ngày 01 tháng 8 năm 2007 của Chính phủ quy định chi tiết thi hành một số điều của Luật Tiêu chuẩn và Quy chuẩn kỹ thuật và Nghị định số 78/2018/NĐ-CP ngày 16 tháng 5 năm 2018 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 127/2007/NĐ-CP ngày 01 tháng 8 năm 2007 của Chính phủ quy định chi tiết thi hành một số điều Luật Tiêu chuẩn và Quy chuẩn kỹ thuật"
+    ],
+    "proposals": [
+      "Theo đề nghị của Tổng cục trưởng Tổng cục Tiêu chuẩn Đo lường Chất lượng và Vụ trưởng Vụ Pháp chế"
+    ],
+    "enactment_formula": null
+  },
+  "passage": "THÔNG TƯ QUY\nĐỊNH CHI TIẾT XÂY DỰNG, THẨM ĐỊNH VÀ BAN HÀNH QUY CHUẨN KỸ THUẬT\nCăn cứ Luật Tiêu chuẩn và Quy chuẩn kỹ thuật ngày 29 tháng 6 năm 2006; Căn cứ Nghị định số 95/2017/NĐ-CP ngày 16 tháng 8 năm 2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Khoa học và Công nghệ; Căn cứ Nghị định số 127/2007/NĐ-CP ngày 01 tháng 8 năm 2007 của Chính phủ quy định chi tiết thi hành một số điều của Luật Tiêu chuẩn và Quy chuẩn kỹ thuật và Nghị định số 78/2018/NĐ-CP ngày 16 tháng 5 năm 2018 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 127/2007/NĐ-CP ngày 01 tháng 8 năm 2007 của Chính phủ quy định chi tiết thi hành một số điều Luật Tiêu chuẩn và Quy chuẩn kỹ thuật; Theo đề nghị của Tổng cục trưởng Tổng cục Tiêu chuẩn Đo lường Chất lượng và Vụ trưởng Vụ Pháp chế; Bộ trưởng Bộ Khoa học và Công nghệ ban hành Thông tư quy định chi tiết xây dựng, thẩm định và ban hành quy chuẩn kỹ thuật.\nChương I\nQUY ĐỊNH CHUNG\nĐiều 1. Phạm vi điều chỉnh Thông tư này quy định chi tiết xây dựng, thẩm định và ban hành quy chuẩn kỹ thuật, bao gồm các hoạt động:\n1. Lập kế hoạch xây dựng quy chuẩn kỹ\nthuật;\n2. Xây dựng quy chuẩn kỹ thuật;\n3. Thẩm định quy chuẩn kỹ thuật;\n4. Ban hành quy chuẩn kỹ thuật;\n5. Rà soát, sửa đổi, bổ sung; thay thế;\nhủy bỏ quy chuẩn kỹ thuật;\n6. Trình bày và thể hiện nội dung quy\nchuẩn kỹ thuật;\n7. Thông báo, phổ biến, đăng ký, xuất\nbản, phát hành quy chuẩn kỹ thuật.\nĐiều 2. Đối tượng áp dụng Thông tư này áp dụng đối với cơ quan nhà nước, tổ chức, cá nhân liên quan trong quá trình xây dựng, thẩm định và ban hành quy chuẩn kỹ thuật.\nĐiều 3. Giải thích từ ngữ Trong Thông tư này, các từ ngừ dưới đây được hiểu như sau:\n1. Quy chuẩn kỹ thuật quốc gia\nlà quy chuẩn kỹ thuật do Bộ trưởng, Thủ trưởng cơ quan ngang Bộ ban hành kèm theo văn bản quy phạm pháp luật thuộc phạm vi ngành, lĩnh vực được Chính phủ phân công quản lý, phù hợp với quy định tại khoản 1 Điều 23 Nghị định số 127/2007/NĐ-CP ngày 01 tháng 8 năm 2007 của Chính phủ quy định chi tiết thi hành một số điều Luật Tiêu chuẩn và Quy chuẩn kỹ thuật (sau đây viết tắt là Nghị định số 127/2007/NĐ-CP, được sửa đổi, bổ sung tại khoản 7 Điều 1 Nghị định số 78/2018/NĐ-CP ngày 15 tháng 6 năm 2018 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 127/2007/NĐ-CP ngày 01 tháng 8 năm 2007 của Chính phủ quy định chi tiết thi hành một số điều Luật Tiêu chuẩn và Quy chuẩn kỹ thuật (sau đây viết tắt là Nghị định số 78/2018/NĐ-CP). Quy chuẩn kỹ thuật quốc gia viết tắt là: QCVN;\n2. Quy chuẩn kỹ\nthuật địa phương là quy chuẩn kỹ thuật do Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương (sau đây viết tắt là địa phương) ban hành kèm theo văn bản quy phạm pháp luật để áp dụng trong phạm vi quản lý của địa phương đối với các sản phẩm, hàng hoá, dịch vụ, quá trình đặc thù của địa phương và yêu cầu cụ thể về kiểm soát an toàn, môi trường cho phù hợp với đặc điểm địa lý, khí hậu, thủy văn và trình độ phát triển kinh tế - xã hội của địa phương. Quy chuẩn kỹ thuật địa phương viết tắt là: QCĐP.\nChương II\nLẬP\nVÀ PHÊ DUYỆT KẾ HOẠCH XÂY DỤNG QUY CHUẨN KỸ THUẬT\nĐiều 4. Nguyên tắc lập, phê duyệt kế hoạch xây dựng quy chuẩn kỹ thuật\n1. Lập và phê duyệt kế hoạch xây dựng\nquy chuẩn kỹ thuật thực hiện theo quy định tại Điều 29 Luật Tiêu chuẩn và Quy chuẩn kỹ thuật ngày 29 tháng 6 năm 2006.\n2. Tùy theo điều kiện và yêu cầu quản\nlý, các bộ, cơ quan ngang bộ chủ trì, phối hợp với Bộ Khoa học và Công nghệ, cơ quan, tổ chức liên quan tổ chức lập, phê duyệt, sửa đổi, bổ sung kế hoạch xây dựng\nQCVN.\n3. Ủy ban nhân dân tỉnh, thành phố trực\nthuộc Trung ương chủ trì, phối hợp với cơ quan, tổ chức liên quan tổ chức lập và phê duyệt kế hoạch xây dựng QCĐP.\n4. Các bộ, cơ quan ngang bộ, Ủy ban\nnhân dân tỉnh, thành phố trực thuộc Trung ương phê duyệt kế hoạch QCVN, QCĐP sau khi có ý kiến của Bộ Khoa học và Công nghệ. Bộ Khoa học và Công nghệ có trách nhiệm nghiên cứu, góp ý đối với kế hoạch xây dựng QCVN, QCĐP trong thời hạn 10 (mười) ngày làm việc kể từ ngày nhận được công văn Đề nghị góp ý của cơ quan xây dựng kế hoạch.\n5. Yêu cầu đối với kế hoạch xây dựng\nquy chuẩn kỹ thuật\na) Kế hoạch xây dựng QCVN\na1) Phù hợp với chính sách, chương trình quốc gia phát triển ngành, lĩnh vực liên quan đã được phê duyệt (nếu có). a2) Đáp ứng yêu cầu quản lý nhà nước cụ thể, phù hợp với kế hoạch phát triển kinh tế - xã hội và điều kiện phát triển khoa học và công nghệ của Việt Nam. a3) Không chồng chéo phạm vi, đối tượng, thẩm quyền các lĩnh vực quản lý nhà nước thuộc ngành, lĩnh vực. a4) Phù hợp với điều ước quốc tế mà Việt Nam là thành viên.\nb) Kế hoạch xây dựng QCĐP\nbl) Đáp ứng yêu cầu quản lý đối với sản phẩm, hàng hoá, dịch vụ, quá trình đặc thù của địa phương và yêu cầu cụ thể về kiểm soát môi trường, điều kiện phát triển khoa học và công nghệ, quản lý nhà nước tại địa phương. b2) Không tạo ra rào cản kỹ thuật không cần thiết đối với hoạt động sản xuất kinh doanh, lưu thông hàng hóa giữa các tỉnh, thành phố trực thuộc Trung ương.\nĐiều 5. Trình tự, thủ tục phê duyệt kế hoạch xây dựng QCVN\n1. Nội dung của kế hoạch xây dựng QCVN\nbao gồm: tên QCVN cần xây dựng sắp xếp theo chuyên ngành, lĩnh vực quy chuẩn kỹ thuật; loại quy chuẩn kỹ thuật, tên tổ chức biên soạn dự thảo; thời gian thực hiện; kinh phí dự kiến và nguồn kinh phí.\n2. Lập, phê duyệt, thực hiện và điều\nchỉnh, bổ sung kế hoạch xây dựng QCVN như sau:\na) Lập dự thảo kế hoạch xây dựng QC VN\na1) Quý II hằng năm, căn cứ vào nhu cầu xây dựng mới, sửa đổi, bổ sung, thay thế QCVN, cơ quan, tổ chức, cá nhân có liên quan gửi đề nghị kế hoạch xây dựng QCVN cho năm sau bằng văn bản đến bộ, cơ quan ngang bộ kèm theo dự án xây dựng QCVN để xem xét, tổng hợp. a2) Căn cứ yêu cầu quản lý nhà nước cụ thể trong lĩnh vực quy chuẩn kỹ thuật được Chính phủ phân công quản lý, bộ, cơ quan ngang bộ tổng hợp, sắp xếp theo thứ tự ưu tiên các đề nghị kế hoạch xây dựng, sửa đổi, bổ sung, thay thế QCVN. a3) Bộ, cơ quan ngang bộ tổ chức xem xét dự án xây dựng QCVN, với sự tham gia của đại diện các cơ quan, tổ chức có liên quan và lập dự thảo kế hoạch xây dựng QCVN cho năm sau. Đề nghị kế hoạch xây dựng QCVN thực hiện theo Mẫu quy định tại Phụ lục I ban hành kèm theo Thông tư này; Dự án xây dựng QCVN thực hiện theo Mẫu quy định tại Phụ lục II ban hành kèm theo Thông tư này;\nb) Lấy ý kiến, hoàn chỉnh dự thảo kế\nhoạch xây dựng QCVN b1) Bộ, cơ quan ngang bộ gửi dự thảo kế hoạch đến Bộ Khoa học và Công nghệ, các bộ, ngành, cơ quan, tổ chức, cá nhân có liên quan để lấy ý kiến, đồng thời thông báo về việc lấy ý kiến trên Cổng thông tin điện tử hoặc tạp chí, ấn phẩm chính thức của bộ, cơ quan ngang bộ chủ trì lập, phê duyệt kế hoạch. Thời gian lấy ý kiến ít nhất là 30 (ba mươi) ngày, kể từ ngày gửi dự thảo đi lấy ý kiến. b2) Bộ, cơ quan ngang bộ tổng hợp, xử lý các ý kiến góp ý để hoàn chính dự thảo kế hoạch hằng năm xây dựng QCVN;\nc) Phê duyệt kế hoạch xây dựng QCVN\nc1) Xem xét, phê duyệt kế hoạch xây dựng QCVN thực hiện trong quý IV của năm trước năm kế hoạch, kết hợp với xem xét, phê duyệt kế hoạch khoa học và công nghệ, thực hiện theo hướng dẫn chung về kế hoạch khoa học và công nghệ hằng năm của Bộ Khoa học và Công nghệ. c2) Bộ, cơ quan ngang bộ xem xét, phê duyệt kế hoạch xây dựng QCVN sau khi có ý kiến của Bộ Khoa học và Công nghệ để bảo đảm tính thống nhất, đồng bộ của hệ thống quy chuẩn kỹ thuật; thông báo cho các cơ quan, tổ chức có liên quan, Văn phòng Thông báo và điểm hỏi đáp quốc gia về tiêu chuẩn đo lường chất lượng (Văn phòng TBT Việt Nam) và công khai trên tạp chí, ấn phẩm chính thức hoặc Cổng thông tin điện tử của bộ, cơ quan ngang bộ chủ trì lập và phê duyệt kế hoạch, trong thời hạn không quá 30 (ba mươi) ngày kể từ ngày kế hoạch được phê duyệt;\nd) Thực hiện kế hoạch xây dựng QCVN\nBộ, cơ quan ngang bộ tổ chức thực hiện kế hoạch đã được phê duyệt; định kỳ 06 (sáu) tháng hoặc đột xuất theo yêu cầu, thông báo về tình hình và kết quả thực hiện kế hoạch xây dựng QCVN chọ Bộ Khoa học và Công nghệ để tổng hợp, báo cáo Chính phủ, cơ quan, tổ chức tiêp nhận thông báo là Tổng cục Tiêu chuẩn Đo lường Chất lượng, số 08 Đường Hoàng Quốc Việt, thành phố Hà Nội;\nđ) Điều chỉnh, bổ sung kế hoạch xây dựng\nQCVN\nđl) Kế hoạch xây dựng QCVN điều chỉnh, bổ sung hoặc rút khỏi kế hoạch thực hiện bằng văn bản theo đề nghị của các cơ quan, tổ chức và cá nhân liên quan. Nội dung điều chỉnh, bổ sung kế hoạch bao gồm: tiến độ, đối tượng, nội dung của QCVN, kinh phí thực hiện. đ2) Đề nghị điều chỉnh, bổ sung kế hoạch xây dựng QCVN thực hiện trước ngày 01 tháng 10 hằng năm. Trình tự, thủ tục điều chỉnh, bổ sung kế hoạch về xây dựng QCVN thực hiện theo quy định tại điểm b và điểm c Khoản này. Trường hợp do yêu cầu cấp thiết của quản lý nhà nước, việc điều chỉnh, bổ sung kế hoạch hằng năm thực hiện theo quyết định của Bộ trưởng, Thủ trưởng cơ quan ngang bộ chủ trì lập và phê duyệt kế hoạch.\nĐiều 6. Trình tự, thủ tục phê duyệt kế hoạch xây dựng QCĐP\n1. Lập, phê duyệt, thực hiện và điều\nchỉnh, bổ sung kế hoạch xây dựng QCĐP như sau:\na) Lập dự thảo kế hoạch xây dựng QCĐ\nb) Quý II hằng năm, căn cứ vào nhu cầu\nxây dựng mới, sửa đổi, bổ sung, thay thế QCĐP, cơ quan, tổ chức, cá nhân liên quan gửi đề nghị kế hoạch xây dựng QCĐP cho năm sau bằng văn bản đến Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương kèm theo dự án xây dựng QCĐP để xem xét, tổng hợp. Đề nghị kế hoạch xây dựng QCĐP và nội dung thực hiện theo Mẫu quy định tại Phụ lục III ban hành kèm theo Thông tư này. Lập dự án xây dựng QCĐP thực hiện theo Mẫu quy định tại Phụ lục IV ban hành kèm theo Thông tư này.\nc) Ủy ban nhân dân tỉnh, thành phố trực\nthuộc Trung ương tổ chức xem xét dự án QCĐP với sự tham gia của đại diện các bộ, ngành và các sở, ban, ngành có liên quan của địa phương. Tùy theo nội dung, mức độ phức tạp, quy mô ảnh hưởng của đối tượng xây dựng QCĐP, Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương quyết định mời đại diện của bộ, cơ quan ngang bộ liên quan trực tiếp tham gia xem xét dự án hoặc có ý kiến bằng văn bản.\nd) Ủy ban nhân dân tỉnh, thành phố trực\nthuộc Trung ương tổ chức lập dự thảo kế hoạch xây dựng QCĐP cho năm sau. Lập dự thảo kế hoạch xây dựng QCĐP thực hiện theo Mẫu quy định tại Phụ lục III ban hành kèm theo Thông tư này.\n2. Lấy ý kiến và hoàn chỉnh dự thảo kế\nhoạch xây dựng QCĐP\na) Ủy ban nhân dân tỉnh, thành phố trực\nthuộc Trung ương gửi dự thảo kế hoạch đến bộ quản lý chuyên ngành và các cơ quan, tổ chức, cá nhân liên quan để lấy ý kiên, thông báo về việc lấy ý kiến trên Cổng thông tin điện tử hoặc tạp chí, ấn phẩm chính thức của Ủy ban nhân dân tỉnh, thành phố hoặc cơ quan tham mưu, giúp việc Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương quản lý khoa học và công nghệ trên địa bản. Thời gian lấy ý kiến về dự thảo ít nhất 30 (ba mươi) ngày, kể từ ngày gửi dự thảo đi lấy ý kiến.\nb) Cơ quan tham mưu, giúp việc Ủy ban\nnhân dân tỉnh, thành phố trực thuộc Trung ương quản lý khoa học và công nghệ trên địa bản tổ chức tổng hợp, xử lý các ý kiến góp ý để hoàn chỉnh dự thảo kế hoạch xây dựng QCĐP.\n3. Phê duyệt kế hoạch xây dựng QCĐP\na) Xem xét, phê duyệt kế hoạch xây dựng\nQCĐP thực hiện vào quý IV của năm trước năm kế hoạch, kết hợp với xem xét, phê duyệt kế hoạch khoa học và công nghệ của Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương và theo hướng dẫn chung về kế hoạch khoa học và công nghệ hằng năm của Bộ Khoa học và Công nghệ.\nb) Ủy ban nhân dân tỉnh, thành phố trực\nthuộc Trung ương tổ chức xem xét, phê duyệt kế hoạch xây dựng QCĐP sau khi có ý kiến của Bộ Khoa học và Công nghệ để bảo đảm tính thông nhất, đồng bộ của hệ thông quy chuẩn kỹ thuật (công văn gửi Bộ Khoa học và Công nghệ có kèm theo ý kiến của bộ quản lý chuyên ngành).\nc) Thông báo đến các bộ, ngành, cơ\nquan, tổ chức có liên quan, cơ quan thực hiện hoạt động TBT ở địa phương về hàng rào kỹ thuật trong thương mại và công khai trên Cổng thông tin điện tử hoặc tạp chí, ấn phẩm chính thức của Ủy ban nhân dân tỉnh, thành phố hoặc cơ quan tham mưu, giúp việc Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương quản lý khoa học và công nghệ trên địa bàn trong thời hạn không quá 30 (ba mươi) ngày, kể từ ngày kế hoạch được phê duyệt.\n4. Thực hiện kế hoạch xây dựng QCĐP\nỦy ban nhân dân tỉnh, thành phố trực thuộc Trung ương tổ chức thực hiện kế hoạch đã được phê duyệt; định kỳ quý IV hằng năm hoặc đột xuất theo yêu cầu, thông báo cho Bộ Khoa học và Công nghệ thông qua Tổng cục Tiêu chuẩn Đo lường Chất lượng về tình hình và kết quả thực hiện kế hoạch xây dựng QCĐP để tổng hợp, báo cáo Chính phủ.\n5. Điều chỉnh, bổ sung kế hoạch xây dựng\nQCĐP\na) Kế hoạch xây dựng QCĐP có thể điều\nchỉnh, bổ sung hoặc rút khỏi kế hoạch theo đề nghị bằng văn bản của các cơ quan, tổ chức và cá nhân liên quan. Nội dung điều chỉnh, bổ sung kế hoạch bao gồm: tiến độ, đối tượng, nội dung của QCĐP, kinh phí thực hiện.\nb) Đề nghị điều chỉnh, bổ sung kế hoạch\nxây dựng QCĐP thực hiện trước thời điểm kết thúc nhiệm vụ kế hoạch được đề nghị ít nhất 06 (sáu) tháng. Trình tự điều chỉnh, bổ sung kế hoạch xây dựng QCĐP thực hiện theo quy định tại khoản 2 và khoản 3 Điều này. Trường hợp do yêu cầu cấp thiết của quản lý nhà nước tại địa phương, trình tự điều chỉnh, bổ sung kế hoạch hằng năm được rút ngắn để bảo đảm đáp ứng kịp thời yêu cầu quản lý nhà nước theo quyết định của Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương chủ trì lập và phê duyệt kế hoạch.\nChương III\nXÂY\nDỰNG, THẨM ĐỊNH VÀ BAN HÀNH QUY CHUẨN KỸ THUẬT\nĐiều 7. Trình tự, thủ tục xây dựng, thẩm định và ban hành QCVN\n1. Bước 1: thành lập ban soạn thảo\na) Tuỳ theo điều kiện cụ thể, các bộ,\ncơ quan ngang bộ, thành lập ban soạn thảo QCVN hoặc chỉ định cơ quan, tổ chức khoa học và công nghệ trực thuộc (sau đây viết tắt là ban soạn thảo) để xây dựng\nQCVN.\nb) Ban soạn thảo cần có sự tham gia của\nđại diện bộ, ngành, các tổ chức có liên quan và các chuyên gia.\n2. Bước 2: biên soạn dự thảo QCVN\na) Chuẩn bị biên soạn dự thảo\na1) Thu thập, tổng hợp, đánh giá tình hình thực hiện các văn bản quy phạm pháp luật liên quan đến dự án xây dựng\nQCVN.\na2) Khảo sát, đánh giá thực trạng quản lý nhà nước và mức độ rủi ro liên quan đến đối tượng quản lý và nội dung chính của dự án xây dựng QCVN. a3) Tổ chức nghiên cứu thông tin, tư liệu các cam kết quốc tế có liên quan đến dự án xây dựng QCVN. a4) Chuẩn bị và thông qua đề cương chi tiết triển khai dự án xây dựng QCVN kèm theo khung nội dung dự thảo QCVN. a5) Đề nghị với Bộ Tài chính (thông qua Tổng cục Hải quan) phối hợp rà soát, xác định mã số HS cho đối tượng sản phẩm, hàng hóa dự kiến thuộc pham vi điều chỉnh của QCVN. a6) Công tác khác có liên quan.\nb) Triển khai biên soạn dự thảo QCVN\nb1) Biên soạn dự thảo trên cơ sở khung nội dung dự thảo đã được ban soạn thảo thống nhất và viết thuyết minh. b2) Tổng hợp, nghiên cứu tài liệu kỹ thuật; đánh giá thực trạng, tiến hành lấy mẫu phân tích, thử nghiệm, khảo nghiệm, áp dụng thử (nếu có) để xác định các mức giới hạn của đặc tính kỹ thuật; phân tích, đánh giá mức độ rủi ro của đối tượng quản lý để xác định phương thức quản lý phù hợp trong dự thảo QCVN. b3) Xác định mã HS ở cấp độ chi tiết (8 số) cho đối tượng quản lý là sản phẩm, hàng hóa nhóm 2. b4) Tổ chức hội thảo chuyên đề với sự tham gia của các cơ quan, tổ chức, chuyên gia liên quan (ưu tiên mời các hiệp hội, ngành hàng, doanh nghiệp, người dân... là những đối tượng chịu tác động trực tiếp của quy chuẩn kỹ thuật) để minh bạch thông tin, lấy ý kiến góp ý đối với dự thảo\nQCVN.\nb5) Nghiên cứu, tiếp thu ý kiến, chỉnh sửa dự thảo, trình bộ, cơ quan ngang bộ xây dựng QCVN để xem xét gửi lấy ý kiến cơ quan, tổ chức, cá nhân liên quan.\n3. Bước 3: lấy ý kiến và hoàn chỉnh dự\nthảo QCVN\na) Bộ, cơ quan ngang bộ tổ chức xem\nxét dự thảo a1) Gửi dự thảo QCVN kèm theo thuyết minh đến các cơ quan, tổ chức, cá nhân liên quan để lấy ý kiến (gửi lấy ý kiến các cơ quan, tổ chức, cá nhân là đối tượng trực tiếp chịu tác động của dự thảo\nQCVN).\nTrong trường hợp QCVN được ban hành có khả năng ảnh hưởng thương mại quốc tế, bộ, cơ quan ngang bộ gửi dự thảo QCVN đến Văn phòng TBT Việt Nam để xác định sự cần thiết thông báo cho WTO theo quy định tại Thông tư số 16/2018/TT-BKHCN ngày 29 tháng 11 năm 2018 của Bộ trưởng Bộ Khoa học và Công nghệ quy định hoạt động, phối hợp trong mạng lưới các Cơ quan Thông báo và Hỏi đáp và Ban liên ngành về hàng rào kỹ thuật trong thương mại (sau đây viết tắt là Thông tư số 16/2018/TT-BKHCN). a2) Đồng thời với việc gửi dự thảo lấy ý kiến, thông báo về việc lấy ý kiến ưên Công thông tin điện tử hoặc tạp chí, ân phẩm chính thức của bộ, cơ quan ngang bộ xây dựng QCVN. Thời gian lấy ý kiến góp ý cho dự thảo ít nhất 60 (sáu mươi) ngày, kể từ ngày gửi dự thảo đi lấy ý kiến. Trong trường hợp cấp thiết liên quan đến sức khỏe, an toàn, môi trường, thời gian lấy ý kiến có thể ngắn hơn. Thời gian lấy ý kiến ngắn hơn thực hiện theo quyết định của Bộ trưởng, Thủ trưởng cơ quan ngang bộ xây dựng QCVN, nhưng không ngắn hơn 30 ngày.\nb) Trên cơ sở các ý kiến góp ý, ban soạn\nthảo xử lý, tiếp thu, hoàn chỉnh dự thảo QCVN và lập hồ sơ dự thảo QCVN theo quy định tại khoản 1 Điều 10 Nghị định số 127/2007/NĐ-CP được sửa đổi, bổ sung tại khoản 6 Điều 1 Nghị định số 78/2018/NĐ-CP.\nc) Báo cáo quá trình xây dựng, thuyết\nminh dự án phải có dấu xác nhận của cơ quan biên soạn.\nd) Các bộ, cơ quan ngang bộ xây dựng\nQCVN tổ chức thẩm tra, xem xét hồ sơ, nội dung dự thảo QCVN để báo đảm phù hợp với kế hoạch, dự án đã được phê duyệt và có công văn đề nghị thẩm định, trong đó xác nhận tính đầy đủ và hợp lệ của hồ sơ gửi Bộ Khoa học và Công nghệ thẩm định.\n4. Bước 4: thẩm định dự thảo QCVN\na) Bộ Khoa học và Công nghệ xem xét\ntính hợp lệ của hồ sơ dự thảo QCVN theo quy định tại khoản 1 Điều 10 Nghị định số 127/2007/NĐ-CP được sửa đổi, bổ sung tại khoản 6 Điều 1 Nghị định số 78/2018/NĐ-CP. Trường hợp hồ sơ không hợp lệ, Bộ Khoa học và Công nghệ chuyển hồ sơ đến bộ, cơ quan ngang bộ xây dựng QCVN để hoàn chỉnh hồ sơ.\nb) Tổ chức thẩm định dự thảo QCVN thực\nhiện theo quy định tại khoản 2 Điều 9 Nghị định số 127/2007/NĐ-CP được sửa đổi, bổ sung tại khoản 5 Điều 1 Nghị định số 78/2018/NĐ-CP.\nc) Trường hợp dự thảo QCVN có tính chất\nphức tạp, đối tượng quản lý thuộc phạm vi, thẩm quyền quản lý nhà nước của nhiều bộ, ngành, có ảnh hưởng lớn đến sản xuất kinh doanh, thương mại, dự thảo QCVN chưa lấy đủ ý kiến của các bộ, ngành có liên quan trực tiếp đến đối tượng quản lý, Bộ Khoa học và Công nghệ lấy ý kiến bổ sung hoặc đề nghị bộ, cơ quan ngang bộ xây dựng QCVN lấy ý kiến bổ sung.\nd) Trường hợp có sự chồng chéo, trùng\nlặp về phạm vi, đối tượng quản lý của dự thảo QCVN với hệ thống QCVN, có nhiều ý kiến góp ý không thống nhất với dự thảo QCVN gửi thẩm định. Bộ Khoa học và Công nghệ chuyển hồ sơ đến bộ, cơ quan ngang bộ xây dựng QCVN và thông báo rõ lý do để bộ, cơ quan ngang bộ xây dựng QCVN chỉnh lý nội dung dự thảo sau đó tiếp tục gửi thẩm định. Thời gian bộ, cơ quan ngang bộ xây dựng QCVN chỉnh lý nội dung dự thảo không tính vào thời gian thẩm định QCVN.\nđ) Trên cơ sở kết quả thẩm định, lập hồ\nsơ thẩm định dự thảo QCVN và thông báo bằng văn bản kết quả thẩm định đến các bộ, cơ quan ngang bộ xây dựng QCVN.\n5. Bước 5: ban hành QCVN\na) Trường hợp nhất trí với ý kiến thẩm\nđịnh của Bộ Khoa học và Công nghệ, bộ, cơ quan ngang bộ hoàn thiện dự thảo và ban hành QCVN trong thời hạn ba mươi ngày, kể từ ngày có ý kiến thẩm định;\nb) Trường hợp không nhất trí với ý kiến\nthẩm định của Bộ Khoa học và Công nghệ, bộ, cơ quan ngang bộ xây dựng QCVN báo cáo Thủ tướng Chính phủ xem xét, quyết định.\n6. Tổng cục Tiêu chuẩn Đo lường Chất\nlượng thuộc Bộ Khoa học và Công nghệ có trách nhiệm giúp Bộ trưởng Bộ Khoa học và Công nghệ tổ chức thực hiện Điều này.\nĐiều 8. Trình tự, thủ tục xây dựng, ban hành QCĐP\n1. Bước 1: thành lập ban soạn thảo\nTuỳ theo điều kiện cụ thể, Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương thành lập ban soạn thảo QCĐP hoặc chỉ định cơ quan chủ trì, phối hợp với các cơ quan tham mưu, giúp việc Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương liên quan của địa phương để xây dựng dự thảo QCĐP (sau đây viết tắt là ban soạn thảo).\n2. Bước 2: biên soạn dự thảo QCĐP\nBiên soạn dự thảo QCĐP, ban soạn thảo thực hiện theo trình tự quy định tại khoản 2 Điều 7 Thông tư này.\n3. Bước 3: lấy ý kiến và hoàn chỉnh dự\nthảo QCĐP\na) Ủy ban nhân dân tỉnh, thành phố trực\nthuộc Trung ương tổ chức xem xét hồ sơ, gửi dự thảo QCĐP đến các cơ quan, tổ chức, cá nhân liên quan để lấy ý kiến và gửi dự thảo đến cơ quan thông báo và điểm hỏi đáp của địa phương tương ứng để xác định sự cần thiết phải thông báo cho WTO theo quy định tại Thông tư số 16/2018/TT-BKHCN . a1) Đồng thời thông báo về việc lấy ý kiến QCĐP trên Cổng thông tin điện tử hoặc tạp chí, ấn phẩm chính thức của Ủy ban nhân dân và cơ quan tham mưu, giúp việc Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương chuyên ngành tương ứng tại địa phương. a2) Thời gian lấy ý kiến đối với dự thảo ít nhất 60 (sáu mươi) ngày, kể từ ngày gửi dự thảo lấy ý kiến. Trong trường hợp cấp thiết liên quan tới sức khỏe, an toàn, môi trường, thời gian lấy ý kiến có thể rút ngắn nhưng không ít hơn 30 (ba mươi) ngày theo quyết định của Chủ tịch Ủy ban nhân dân tỉnh, thành phố thuộc Trung ương có thẩm quyền ban hành QCĐP.\nb) Trên cơ sở ý kiến góp ý, ban soạn\nthảo hoàn chỉnh lại dự thảo QCĐP, lập hồ sơ dự thảo QCĐP theo quy định tại khoản 4 Điều này, trình Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương xem xét, quyết định.\nc) Ủy ban nhân dân tỉnh, thành phố trực\nthuộc Trung ương tổ chức thẩm tra hồ sơ dự thảo QCĐP để xem xét tính đầy đủ, hợp lệ của hồ sơ dự thảo QCĐP theo quy định tại khoản 4 Điều này và chuyển hồ sơ dự thảo QCĐP kèm theo biên bản thẩm tra đến bộ quản lý chuyên ngành tương ứng quy định tại khoản 1 Điều 23 Nghị định số 127/2007/NĐ-CP được sửa đổi, bổ sung tại khoản 7 Điều 1 Nghị định số 78/2018/NĐ-CP để tổ chức xem xét, cho ý kiến.\n4. Bước 4: xem xét, cho ý kiến về việc\nban hành QCĐP\na) Hồ sơ dự thảo QCĐP gồm:\na1) Quyết định giao nhiệm vụ xây dựng dự thảo QCĐP cho cơ quan, tổ chức kèm theo dự án xây dựng QCĐP đã được phê duyệt; a2) Báo cáo quá trình xây dựng dự thảo QCĐP của cơ quan, tổ chức xây dựng dự thảo QCĐP; a3) Dự thảo QCĐP, kèm theo thuyết minh; bản sao tài liệu gốc được sử dụng làm căn cứ để xây dựng dự thảo QCĐP và các tài liệu tham khảo khác; a4) Danh sách cơ quan được gửi dự thảo để lấy ý kiến; bản tổng hợp và tiếp thu ý kiến góp ý kèm theo văn bản góp ý; a5) Ý kiến của Bộ Khoa học và Công nghệ về quy định quản lý trong dự thảo QCĐP, bảo đảm không tạo ra rào cản kỹ thuật không cần thiết đối với hoạt động sản xuất kinh doanh, thương mại; a6) Biên bản thẩm tra hồ sơ có xác nhận của Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương; a7) Công văn đề nghị bộ quản lý chuyên ngành cho ý kiến đối với dự thảo QCĐP.\nb) Bộ, cơ quan ngang bộ xem xét tính hợp\nlệ của hồ sơ dự thảo QCĐP. Trường hợp hồ sơ không hợp lệ, bộ, cơ quan ngang bộ chuyển hồ sơ đến Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương để hoàn chính hồ sơ.\nc) Xem xét nội dung dự thảo QCĐP\nc1) Sự phù hợp với quy định của pháp luật và cam kết quốc tế liên quan. c2) Tính thống nhất, đồng bộ trong hệ thống quy chuẩn kỹ thuật của Việt Nam. c3) Không chồng chéo về quy định kỹ thuật, yêu cầu quản lý hay vi phạm các quy định của QCVN tương ứng. c4) Không tạo ra rào cản kỹ thuật không cần thiết đối với sản xuất kinh doanh và lưu thông sản phẩm, hàng hóa, dịch vụ giữa các tỉnh, thành phố. c5) Tuân thủ các yêu cầu nghiệp vụ, trình tự, thủ tục xây dựng QCĐP. C6) Các quy định khác trong QCĐP.\nd) Thông báo bằng văn bản ý kiến về việc\nban hành QCĐP.\n5. Bước 4: ban hành QCĐP\na) Trường hợp bộ, cơ quan ngang bộ có\ný kiến đồng ý với việc ban hành QCĐP, Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương ban hành QCĐP.\nb) Trường hợp bộ, cơ quan ngang bộ có\ný kiến không đồng ý với việc ban hành QCĐP, ban soạn thảo tổ chức nghiên cứu, xem xét các ý kiến không nhất trí để xử lý, chỉnh lý dự thảo, lập lại hồ sơ dự thảo QCĐP và gửi lấy ý kiến lại của bộ, cơ quan ngang bộ theo quy định tại điểm c khoản 3 Điều này. Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương ban hành QCĐP sau khi có ý kiến đồng ý của bộ, cơ quan ngang bộ được phân công quản lý lĩnh vực quy chuẩn kỹ thuật tương ứng.\nChương IV\nRÀ\nSOÁT, SỬA ĐỔI, BỔ SUNG, THAY THẾ, HỦY BỎ QUY CHUẨN KỸ THUẬT\nĐiều 9. Rà soát định kỳ QCVN Bộ, cơ quan ngang bộ giao cơ quan đầu mối tổ chức thực hiện rà soát định kỳ QCVN năm (05) năm theo lĩnh vực được Chính phủ phân công quản lý quy định tại khoản 1 Điều 23 Nghị định số 127/2007/NĐ-CP, được sửa đổi, bổ sung tại khoản 7 Điều 1 Nghị định số 78/2018/NĐ-CP.\n1. Trình tự, thủ tục rà soát định kỳ\nQCVN\na) Cơ quan đầu mối lập danh mục các\nQCVN đến kỳ hạn phải rà soát theo quy định tại khoản 1 Điều 35 Luật Tiêu chuẩn và Quy chuẩn kỹ thuật năm 2006.\nb) Cơ quan đầu mối thực hiện việc rà\nsoát QCVN theo các tiêu chí quy định tại khoản 1,2 Điều 33 Luật Tiêu chuẩn và Quy chuẩn kỹ thuật năm 2006 và các tiêu chí khác có liên quan.\nc) Lập danh mục kết quà rà soát kèm\ntheo bản giải trình, bao gồm: danh mục QCVN giữ nguyên hiệu lực; danh mục QCVN cần sửa đổi, bổ sung hoặc thay thế và danh mục QCVN cần hủy bỏ. Trong từng danh mục, các quy chuẩn kỹ thuật đã được rà soát được sắp xếp theo thứ tự ưu tiên.\n2. Cơ quan đầu mối lập hồ sơ rà soát\nQCVN chuẩn bị báo cáo kết quả rà soát và kiến nghị đưa vào kế hoạch sửa đổi, bổ sung hoặc thay thế, hủy bỏ QCVN trình bộ, cơ quan ngang bộ phê duyệt kế hoạch xây dựng QCVN xem xét.\n3. Trường hợp do yêu cầu cấp thiết của\nquản lý nhà nước, Bộ trưởng, Thủ trưởng cơ quan ngang bộ quyết định tổ chức rà soát QCVN sớm hơn định kỳ năm (05) năm hoặc đột xuất.\nĐiều 10. Sửa đổi, bổ sung hoặc thay thế quy chuẩn kỹ thuật\n1. Sửa đổi, bổ sung, thay thế quy chuẩn\nkỹ thuật được đưa vào kế hoạch hằng năm về xây dựng quy chuẩn kỹ thuật.\n2. Bộ, cơ quan ngang bộ, Ủy ban nhân dân\ntỉnh, thành phố trực thuộc Trung ương tổ chức xem xét, sửa đổi, bổ sung hoặc thay thế quy chuẩn kỹ thuật theo trình tự, thủ tục tương ứng quy định tại Điều 32 Luật Tiêu chuẩn và Quy chuẩn kỹ thuật năm 2006 và quy định tại Chương III Thông tư này.\nĐiều 11. Hủy bỏ Quy chuẩn kỹ thuật\n1. Hủy bỏ QCVN\na) Hủy bỏ QCVN thực hiện theo quy định\ntại điểm a khoản 3 Điều 35 Luật Tiêu chuẩn và Quy chuẩn kỹ thuật năm 2006.\nb) Cơ quan đầu mối quy định tại khoản 2 Điều 21 Nghị định số 127/2007/NĐ-CP lập hồ sơ hủy bỏ\nQCVN, thành phần hồ sơ gồm: bl) Bản QCVN đề nghị hủy bỏ; b2) Bản thuyết minh (lý do, cơ sở pháp lý, cơ sở khoa học); b3) Ý kiến của cơ quan, tổ chức, cá nhân liên quan (nếu có); b4) Kết quả rà soát định kỳ và kiến nghị; b5) Văn bản đề nghị hủy bỏ QCVN; b6) Ý kiến thẩm định của Bộ Khoa học và Công nghệ; b7) Các tài liệu khác liên quan (nếu có).\n2. Hủy bỏ QCĐP\na) Hủy bỏ QCĐP do cơ quan được Ủy ban\nnhân dân tỉnh, thành phố trực thuộc Trung ương giao chủ trì xây dựng QCĐP đó tiến hành theo quy định tại điểm b khoản 3 Điều 35 Luật Tiêu chuẩn và Quy chuẩn kỹ thuật năm 2006.\nb) Hủy bỏ QCĐP lập thành hồ sơ, thành\nphần hồ sơ gồm: b1) Bản QCĐP đề nghị hủy bỏ; b2) Bản thuyết minh (lý do, cơ sở pháp lý, cơ sở khoa học); b3) Ý kiến của cơ quan, tổ chức, cá nhân liên quan (nếu có); b4) Kết quả rà soát định kỳ và kiến nghị; b5) Văn bản đề nghị hủy bỏ QCĐP; b6) Ý kiến của bộ, cơ quan ngang bộ quản lý lĩnh vực QCVN tương ứng; b7) Các tài liệu khác liên quan (nếu có).\n3. Trường hợp do yêu\ncầu cấp thiết của quản lý nhà nước, Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương ban hành QCĐP quyết định việc sửa đổi, bổ sung, thay thế hoặc hủy bỏ QCĐP theo thủ tục, quy trình rút ngắn trên cơ sở bảo đảm tính khả thi, cơ sở khoa học và kinh phí cần thiết cho việc triển khai thực hiện.\nChương V\nTRÌNH\nBÀY VÀ THỂ HIỆN NỘI DUNG QUY CHUẨN KỸ THUẬT\nĐiều 12. Bố cục quy chuẩn kỹ thuật\n1. Quy định chung\na) Phạm vi điều chỉnh\nĐối với sản phẩm, hàng hóa phải kèm theo mã HS ở cấp độ chi tiết (8 số). Trường hợp quy chuẩn kỹ thuật điều chỉnh nhóm đối tượng gồm nhiều sản phẩm, hàng hóa thì mã HS được thể hiện tại phụ lục của quy chuẩn kỹ thuật kèm theo danh mục các sản phẩm, hàng hóa tương ứng, thực hiện theo quy định tại Phụ lục VII ban hành kèm theo Thông tư này.\nb) Đối tượng áp dụng.\nc) Giải thích từ ngữ (nếu có).\n2. Quy định về kỹ thuật\na) Viện dẫn QCVN, tiêu chuẩn quốc gia,\ntiêu chuẩn quốc tế, tiêu chuẩn khu vực, tiêu chuẩn nước ngoài hoặc đưa ra yêu cầu kỹ thuật cụ thể về mức giới hạn của đặc tính kỹ thuật mà đối tượng của quy chuẩn kỹ thuật phải tuân thủ để bảo đảm an toàn, vệ sinh, sức khoẻ con người; bảo vệ động vật, thực vật, môi trường; bảo vệ lợi ích và an ninh quốc gia, quyền lợi của người tiêu dùng.\nb) Quy định về yêu cầu kỹ thuật,\nphương pháp thử cụ thể, đánh giá được bằng các phương tiện hiện có ở trong nước hoặc nước ngoài; không quy định chung chung, đa nghĩa, dẫn đến việc có thể hiểu hay diễn giải theo nhiều cách khác nhau. Ví dụ: phương pháp thử chấp nhận các tiêu chuẩn có độ chính xác tương đương hoặc cao hơn.\nc) Trường hợp một yêu cầu kỹ thuật\nnhưng cho phép nhiều phương pháp thử nghiệm khác nhau thì quy định rõ phương pháp thử nào là phương pháp trọng tài để xử lý trường hợp có tranh chấp, khiếu nại, khiếu kiện.\n3. Quy định về quản lý\na) Thể hiện cụ thể phương thức quản lý\nthích hợp đối với đối tượng của quy chuẩn kỹ thuật như sau: a1) Quy định phương thức đánh giá sự phù hợp theo hướng dẫn của Bộ Khoa học và Công nghệ, các quy định khác có liên quan; a2) Quy định về công bố hợp quy (nêu rõ cơ sở để công bố hợp quy là kết quả đánh giá sự phù hợp của tổ chức chứng nhận, giám định, phòng thử nghiệm đã đăng ký hoạt động, được chỉ định hoặc được công nhận); a3) Phương thức kiểm tra; a4) Quy định các hình thức quản lý khác (ví dụ: quy định về việc ghi nhãn, truy xuất nguồn gốc, kiểm tra trên thị trường,...); a5) Phương pháp thử, phương pháp lấy mẫu; a6) Các nội dung khác.\nb) Trường hợp QCĐP được xây dựng trên\ncơ sở quy định giao quyền tại QCVN tương ứng, thì QCĐP bảo đảm các yêu cầu sau: b1) Phần quy định chung, quy định về kỹ thuật (phạm vi điều chỉnh, đối tượng áp dụng, giải thích từ ngữ, chỉ tiêu kỹ thuật cụ thể) phạm vi điều chỉnh trên cơ sở các điều khoản giao quyền tại QCVN tương ứng, đồng thời phù hợp với đặc điểm địa lý, khí hậu, thủy văn, trình độ phát triển kinh tế - xã hội của địa phương; b2) Quy định về quản lý (phương thức đánh giá sự phù hợp; thử nghiệm, chứng nhận, giám định; công bố hợp quy; công bố tiêu chuẩn áp dụng; đăng ký, chỉ định, công nhận tổ chức đánh giá sự phù hợp và các nội dung quản lý khác...) thực hiện theo quy định tại QCVN giao quyền tương ứng; b3) Ký hiệu trên dấu hợp quy của QCĐP xây dựng trên cơ sở quy định giao quyền từ QCVN tương ứng được in phía dưới dấu CR gồm số, ký hiệu của QCVN; số, ký hiệu của QCĐP (ghi thành 2 dòng riêng biệt) thực hiện theo quy định tại Phụ lục IX ban hành kèm theo Thông tư này. Ví dụ:\nQCVN 01-1:2018/BYT QCĐP 01:2020/XXX\nс) Trường hợp QCĐP có nội dung không thống nhất với quy định tại điểm b khoản này, cần có ý kiến thống nhất của Bộ Khoa học và Công nghệ, bộ quản lý chuyên ngành để không tạo ra rào cản kỹ thuật không cần thiết đối với sản xuất, kinh doanh, thương mại tại địa phương.\n4. Các quy định quản lý khác có liên\nquan Ví dụ: các yêu cầu mang tính đặc thù liên quan đến quản lý, sử dụng, vận hành đối với đối tượng quản lý của quy chuẩn kỹ thuật và các yêu cầu khác.\n5. Trách nhiệm của tổ chức, cá nhân.\n6. Tổ chức thực hiện.\n7. Phụ lục (nếu có)\n8. Tuỳ theo đối tượng quản lý của quy\nchuẩn kỹ thuật và yêu cầu quản lý riêng, nội dung của quy chuẩn kỹ thuật có thể giảm bớt hoặc bổ sung cho phù hợp, bảo đảm tính minh bạch và khả thi trong quản lý nhà nước.\nĐiều 13. Trình bày quy chuẩn kỹ thuật\n1. Kỹ thuật trình bày quy chuẩn kỹ thuật\nbảo đảm tính hệ thống, hiệu lực pháp lý, không trái với quy định pháp luật và cam kết quốc tế có liên quan. Ngôn ngữ của quy chuẩn kỹ thuật bảo đàm thống nhất, chính xác, phổ thông; cách diễn đạt bảo đảm đơn giản, dễ hiểu. Sử dụng thuật ngữ chuyên môn cần xác định rõ nội dung, được giải thích rõ nghĩa trong quy chuẩn kỹ thuật.\n2. Trang bìa quy chuẩn kỹ thuật\na) Trình bày trang bìa quy chuẩn kỹ\nthuật thực hiện theo Mẫu quy định tại Phụ lục V ban hành kèm theo Thông tư này, bảo đảm các yếu tố sau: a1) Hình quốc huy nước Cộng hoà xã hội chủ nghĩa Việt Nam được thể hiện theo quy định của pháp luật về quốc huy; a2) Dòng chữ “CỘNG HÒA XÂ HỘI CHỦ\nNGHĨA VIỆT NAM”;\nа3) Ký hiệu đầy đủ của quy chuẩn kỹ thuật thực hiện theo quy định tại Điều 8 Nghị định số\n127/2007/NĐ-CP;\na4) Quy chuẩn kỹ thuật ban hành mới: số hiệu văn bản đánh theo lũy tiến, quy chuẩn kỹ thuật ban hành các năm tiếp theo không đánh số lặp lại của năm trước. Ví dụ:\nQCVN 01:2016/XXX; QCVN 02:2016/XXX; QCVN 03:2016/XXX; QCVN 04:2017/XXX;...);\na5) Quy chuẩn kỹ thuật sửa đổi, bổ sung: đánh số hiệu của quy chuẩn kỹ thuật theo số lần sửa đổi và năm ban hành sửa đổi bổ sung, giữ nguyên số, ký hiệu của quy chuẩn kỹ thuật cũ (ví dụ sửa đổi 01:2016 QCVN 04:2009/XXX được hiểu là: QCVN 04:2009/XXX được sửa đổi, bổ sung lần thứ nhất vào năm 2016); a6) Quy chuẩn kỹ thuật thay thế: giữ nguyên số hiệu của quy chuẩn kỹ thuật chỉ thay đổi năm ban hành (ví dụ quy chuẩn kỹ thuật QCVN 03:2019/XXX về an toàn đồ chơi trẻ em thay thế QCVN 03:2009/XXX về an toàn đồ chơi trẻ em); a7) Dòng chữ “Quy chuẩn kỹ thuật quốc gia” hoặc “Quy chuẩn kỹ thuật địa phương”; a8) Tên gọi của quy chuẩn kỹ thuật; a9) Tên gọi đầy đủ của quy chuẩn kỹ thuật bằng tiếng Anh; a10) Địa điểm và năm ban hành quy chuẩn kỹ thuật.\nb) Tên viết tắt tên bộ, cơ quan ngang\nbộ, Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương ban hành quy chuẩn kỹ thuật thực hiện theo quy định tại Phụ lục VI ban hành kèm theo Thông tư này.\nc) Trang 2 của quy chuẩn kỹ thuật là\ntrang thể hiện lời nói đầu, bảo đảm các thông tin: tổ chức biên soạn dự thảo quy chuẩn kỹ thuật, cơ quan trình duyệt, cơ quan thẩm định và cơ quan ban hành quy chuẩn kỹ thuật, thông tư/quyết định ban hành quy chuẩn kỹ thuật và các nội dung khác có liên quan đến việc xây dựng và ban hành quy chuẩn kỹ thuật. Ví dụ: thể hiện lời nói đầu thực hiện theo quy định tại Phụ lục V ban hành kèm theo Thông tư này.\n3. Khoảng trống đầu trang (header) của\ncác trang nội dung quy chuẩn kỹ thuật (trừ trang 3) in ký hiệu đầy đủ của quy chuẩn kỹ thuật tại vị trí phía bên phải của trang đối với các trang lẻ và phía bên trái của trang đối với các trang chẵn. Kiểu chữ của ký hiệu in hoa, in đậm theo phông chữ Arial, cỡ chữ 12 của bộ mã ký tự chữ Việt (phông chữ tiếng Việt Unicode).\n4. Nguyên tắc đánh số\nthứ tự các hạng mục nội dung của quy chuẩn kỹ thuật thực hiện theo quy định tương ứng tại Nghị định số 30/2020/NĐ-CP ngày 05 tháng 3 năm 2020 của Chính phủ về công tác văn thư.\na) Tùy theo mức độ phức tạp của đối tượng\nquản lý, nội dung quy định kỹ thuật, kết cấu của quy chuẩn kỹ thuật cơ bản được bố cục như sau: a1) Phần, chương, mục, điều, điểm, đoạn,\nphụ lục; hoặc\na2) Phần, điều, điểm, đoạn.\nb) Phần, chương, mục, điều, phụ lục\ntrong quy chuẩn kỹ thuật phải có tiêu đề. Tiêu đề là cụm từ chỉ nội dung chính của phần, chương, mục, điều, phụ lục. Ví dụ về bổ cục và đánh số quy chuẩn kỹ thuật: Bố cục Đánh số Phần\nI\nChương\nI.I\nMục\nI.I.I\nĐiều 1 Điểm (cấp 1) 1.1 Điểm (cấp 2) 1.1.1 Điểm (cấp 3) 1.1.1.1 Điểm (cấp 4) 1.1.1.1.1 Điểm (cấp 5) 1.1.1.1.1.1 Đoạn Không đánh số, sử dụng chữ hoặc dấu, ví dụ: a, b... hoặc +...\nPhụ lục\nA\n5. Thể thức trình bày quy chuẩn kỹ thuật\na) Khổ giấy của quy chuẩn kỹ thuật là\nkhổ A4 (210 mm x 297 mm), sai số kích thước cho phép là ± 0,5 mm.\nb) Phần nội dung (bản văn) của quy chuẩn\nkỹ thuật được trình bày bằng chữ in thường, kiểu chữ thực hiện theo phông chữ Arial, cỡ chữ từ 12 đến 14 của bộ mã ký tự chữ Việt (phông chữ tiếng Việt Unicode); khi xuống dòng, chữ đầu dòng có thể lùi vào từ 1 cm đến 1,27 cm (1 default tab); khoảng cách giữa các đoạn văn (paragraph) đặt tối thiểu là 6 pt; khoảng cách giữa các dòng hay cách dòng (line spacing) chọn tối thiểu từ cách dòng đơn (single line spacing) hoặc từ 15 pt (exactly line spacing) trở lên.\nc) Số trang quy chuẩn kỹ thuật được\ntính từ trang bìa cho đến trang cuối cùng của quy chuẩn. Đánh số trang quy chuẩn kỹ thuật được in trên từng trang của quy chuẩn kỹ thuật tại chính giữa phần cuối trang giấy, trừ trang bìa.\nd) Ký hiệu và số hiệu quy chuẩn kỹ thuật\nđược in trên từng trang của quy chuẩn kỹ thuật ở góc ngoài phía mở của trang.\n6. Khi thể hiện nội dung quy chuẩn kỹ\nthuật, tham khảo các hướng dẫn quy định trong tiêu chuẩn quốc gia TCVN 1-2.\nChương VI\nTHÔNG\nBÁO, PHỔ BIẾN, ĐĂNG KÝ, XUẨT BẢN, PHÁT HÀNH QUY CHUẨN KỸ THUẬT\nĐiều 14. Thông báo, phổ biến, đăng ký, xuất bản, phát hành quy chuẩn kỹ thuật\n1. Hoạt động thông báo, phổ biến, đăng\nký, xuất bản, phát hành quy chuẩn kỹ thuật thực hiện theo quy định tại Điều 36 Luật Tiêu chuẩn và Quy chuẩn kỹ thuật năm 2006.\n2. Bộ, cơ quan ngang bộ, Ủy ban nhân\ndân tỉnh, thành phố trực thuộc Trung ương ban hành quy chuẩn kỹ thuật có trách nhiệm thông báo về việc ban hành, sửa đổi, bổ sung, thay thế, hủy bỏ quy chuẩn kỹ thuật trên công báo, trên Cổng thông tin điện tử hoặc tạp chí, ấn phẩm chính thức của cơ quan trong thời hạn 30 (ba mươi) ngày, kể từ ngày quy chuẩn kỹ thuật được ban hành, sửa đổi, bổ sung hoặc thay thế, hủy bỏ.\n3. Bộ, cơ quan ngang bộ, Ủy ban nhân\ndân tỉnh, thành phố trực thuộc Trung ương ban hành quy chuẩn kỹ thuật có trách nhiệm lập kế hoạch triền khai việc phổ biến, hướng dẫn áp dụng quy chuẩn kỹ thuật. Triển khai phổ biển, hướng dẫn áp dụng quy chuẩn kỹ thuật thực hiện ngay sau khi quy chuẩn kỹ thuật được ban hành đối với các cơ quan, tổ chức, cá nhân có liên quan thông qua các lớp tập huấn, hội nghị, hội thảo và các hình thức phù hợp khác.\n4. Thủ tục đăng ký\nquy chuẩn kỹ thuật đã ban hành thực hiện theo quy định tại Điều 13 Nghị định số 127/2007/NĐ-CP.\n5. Bộ, cơ quan ngang bộ, Ủy ban nhân\ndân tỉnh, thành phố trục thuộc Trung ương ban hành quy chuẩn kỹ thuật tổ chức việc xuất bản và phát hành quy chuẩn kỹ thuật trong thời hạn 30 (ba mươi) ngày, kể từ ngày quy chuẩn kỹ thuật được ban hành.\nChương VII\nTỔ CHỨC THỰC HIỆN\nĐiều 15. Trách nhiệm của Bộ Khoa học và Công nghệ\n1. Chủ trì, phối hợp với các bộ, cơ\nquan ngang bộ tổ chức xây dựng kế hoạch ban hành QCVN; rà soát sửa đổi, bổ sung hoặc thay thế, hủy bỏ QCVN.\n2. Tổ chức xây dựng, thẩm định và ban\nhành QCVN thuộc lĩnh vực quản lý nhà nước được Chính phủ phân công.\n3. Tổ chức thẩm định QCVN do bộ, cơ\nquan ngang bộ tổ chức xây dựng.\n4. Tổng cục Tiêu chuẩn Đo lường Chất\nlượng thuộc Bộ Khoa học và Công nghệ là cơ quan giúp Bộ trưởng Bộ Khoa học và Công nghệ phối hợp với các bộ, ngành, địa phương thực hiện phổ biến, hướng dẫn áp dụng QCVN, QCĐP, định kỳ in và phát hành danh mục QCVN, QCĐP trên cơ sở đăng ký chính thức của các bộ, ngành, địa phương.\nĐiều 16. Trách nhiệm của bộ, cơ quan ngang bộ\n1. Hằng năm bộ, cơ quan ngang bộ tổng\nhợp và thông báo danh mục cập nhật các QCVN do mình ban hành gửi Bộ Khoa học và Công nghệ cập nhật bổ sung vào hệ thống cơ sở dữ liệu quy chuẩn kỹ thuật.\n2. Chủ động triển khai các hoạt động\nthông tin, tuyên truyền, đào tạo, phổ biến, hướng dẫn áp dụng và các hoạt động liên quan khác nhằm bảo đảm việc thi hành các QCVN.\n3. Bộ, cơ quan ngang bộ trong phạm vi\nlĩnh vực được phân công có trách nhiệm tổ chức thực hiện xây dựng, thẩm định và ban hành quy chuẩn kỹ thuật phù hợp với quy định tại Thông tư này và các văn bản quy phạm pháp luật liên quan. Khi cần thiết, có thể hướng dẫn chi tiết hoặc bổ sung các nội dung cụ thể về xây dựng và áp dụng quy chuẩn kỹ thuật cho phù hợp với đặc thù của bộ, cơ quan ngang bộ.\nĐiều 17. Trách nhỉệm của Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương\n1. Hằng năm Ủy ban nhân dân tỉnh,\nthành phố trực thuộc Trung ương tổng hợp và thông báo danh mục cập nhật các QCĐP do mình ban hành gửi Bộ Khoa học và Công nghệ cập nhật bổ sung vào hệ thống cơ sở dữ liệu quy chuẩn kỹ thuật.\n2. Chủ động triển khai các hoạt động\ntuyên truyền, phổ biến, hướng dẫn áp dụng và các hoạt động liên quan khác bảo đảm việc thi hành QCĐP tại địa phương.\n3. Ủy ban nhân dân tỉnh, thành phố trực\nthuộc Trung ương trong phạm vi lĩnh vực được phân công có trách nhiệm tổ chức thực hiện xây dựng, thẩm tra và ban hành quy chuẩn kỹ thuật phù hợp với quy định tại Thông tư này và các quy định pháp luật liên quan tại địa phương mình quản lý.\nĐiều 18. Trách nhiệm của tổ chức, cá nhân chủ trì, tham gia xây dựng quy chuẩn kỹ thuật\n1. Nghiên cứu nắm vững nội dung, yêu cầu\ncủa quy chuẩn kỹ thuật đã ban hành để triển khai thực hiện đúng các nội dung quy định trong quy chuẩn kỹ thuật.\n2. Phản ánh kịp thời những nội dung\nkhông phù hợp được phát hiện trong quá trình áp dụng quy chuẩn kỹ thuật cho cơ quan ban hành quy chuẩn kỹ thuật để xem xét, sửa đổi, bổ sung.\nChương V\nĐIỀU KHOẢN THI HÀNH\nĐiều 19. Hiệu lực thi hành\n1. Thông tư này có hiệu lực thi hành kể\ntừ ngày 01 tháng 8 năm 2020.\n2. Các thông tư sau hết hiệu lực kể từ\nngày Thông tư này có hiệu lực thi hành:\na) Thông tư số 23/2007/TT-BKHCN ngày 28 tháng 9 năm 2007 của Bộ\ntrưởng Bộ Khoa học và Công nghệ hướng dẫn xây dựng, thẩm định và ban hành quy chuẩn kỹ thuật (sau đây viết tắt là Thông tư số 23/2007/TT-BKHCN);\nb) Thông tư số 30/2011/TT-BKHCN ngày 15 tháng 11 năm 2011 của Bộ\ntrưởng Bộ Khoa học và Công nghệ về việc sửa đổi, bổ sung, bãi bỏ một số quy định của Thông tư số 23/2007/TT-BKHCN ngày 28 tháng 9 năm 2007 của Bộ trưởng Bộ Khoa học và Công nghệ về hướng dẫn xây dựng, thẩm định và ban hành quy chuẩn kỹ thuật (sau đây viết tắt là Thông tư số 30/2011/TT-BKHCN).\nĐiều 20. Điều khoản chuyển tiếp Các dự án xây dựng QCVN thuộc Kế hoạch xây dựng năm 2019 đã phê duyệt tiếp tục thực hiện theo quy định tại Thông tư số 23/2007/TT-BKHCN và Thông tư số 30/2011/TT-BKHCN.\nĐiều 21. Trách nhiệm thi hành\n1. Trong quá trình thực hiện có vấn đề\nphát sinh hoặc vướng mắc, tổ chức, cá nhân phản ánh kịp thời bằng văn bản về Bộ Khoa học và Công nghệ để được hướng dẫn hoặc nghiên cứu sửa đổi, bổ sung.\n2. Bộ trưởng, Thủ trưởng cơ quan ngang\nBộ, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương chịu trách nhiệm tôt chức triển khai thực hiện Thông tư này./.\nNơi nhận:\n-\nBan Bí thư Trung ương Đảng;\n- Thủ tướng Chính phủ;\n- Các Phó Thủ tướng Chính phủ;\n- Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ;\n- Văn phòng Trung ương và các Ban của Đảng;\n- Văn phòng Tổng Bí thư;\n- Văn phòng Quốc hội;\n- Văn phòng Chủ tịch nước;\n- Văn phòng Chính phủ;\n- Viện Kiểm sát nhân dân tối cao;\n- Tòa án nhăn dân tối cao;\n- Kiểm toán Nhà nước;\n- Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam;\n- Ủy ban Giám sát tài chính Quốc gia;\n- Cơ quan Trung ương của các tổ chức chính trị-xã hội;\n- HĐND, UBND các tỉnh, thành phố trực thuộc TW;\n- Cục kiểm tra văn bản QPPL (Bộ Tư pháp);\n- Công báo;\n- Cổng thông tin điện tử Bộ KH&CN;\n- Lưu: VT, TĐC, PC.\nKT. BỘ TRƯỞNG\nTHỨ TRƯỞNG\nTrần Văn Tùng\nPHỤ\nLỤC I\n(Ban hành kèm\ntheo Thông tư số 26/2019/TT-BKHCN ngày 25/12/2019 của Bộ trưởng Bộ Khoa học và\nCông nghệ)\nMẪU: KẾ HOẠCH XÂY DỰNG QUY CHUẨN KỸ THUẬT QUỐC GIA\n(Tên Bộ, cơ quan ngang bộ xây dựng kế\nhoạch)\nKẾ HOẠCH XÂY\nDỰNG QUY CHUẨN KỸ THUẬT QUỐC GIA NĂM....\n(năm kế hoạch)\nTT\nChuyên\nngành/ Lĩnh vực/đối tượng QCVN\nTên QCVN\nLoại QCVN\nTổ chức\nbiên soạn xây dựng Dự thảo QCVN\nThời gian\nthực hiện\nKinh phí dự\nkiến (triệu đổng)\nGhi chú\nBắt đầu\nKết thúc\nTổng số\nNSNN\nNguồn khác\n1\nChuyên\nngành A\n1.1\nLĩnh vực...\n1.1.1\nĐối tượng....\n2.\nChuyên\nngành B\n2.1\nLĩnh vực...\n2.1.1\nĐối tượng....\nGhi chú:\nKế hoạch hằng năm xây dựng quy chuẩn kỹ\nthuật quốc gia phải kèm theo:\n- Dự án xây dựng QCVN cho từng đối tượng\nQCVN hoặc nhóm đối tượng QCVN.\n- Dự kiến chương trình phổ biến, hướng\ndẫn áp dụng cho các QCVN được ban hành theo kế hoạch./.\nPHỤ\nLỤC II\n(Ban hành kèm\ntheo Thông tư số 26/2019/TT-BKHCN ngày 25/12/2019 của Bộ trưởng Bộ Khoa học và\nCông nghệ)\nMẪU: DỰ ÁN XÂV DỰNG QUY CHUẨN KỸ THUẬT QUỐC GIA\n1. Tên gọi QCVN\n2. Phạm vi và đối tượng áp dụng của\nQCVN\n3. Cơ quan, tổ chức/cá nhân đề nghị\nTên cơ quan/tổ chức/cá nhân: …………………………………………………………………………\nĐịa chỉ: ……………………………………………………………………………………………………\nĐiện thoại: ………………… Fax: ………………. E-mail:\n…………………………………………….\nTên cơ quan chủ quản (nếu có): ………………………………………………………………………\n4. Tình hình đối tượng quy chuẩn kỹ\nthuật trong nước và ngoài nước\n5. Lý do và mục đích xây dựng QCVN\n- QCVN đáp ứng những mục tiêu quản lý\nnào sau đây:\n+ Đảm bảo an toàn\n□\n+ Bảo vệ động, thực vật\n□\n+ Đảm bảo vệ sinh, sức khoẻ\n□\n+ Bảo vệ quyền lợi người tiêu dùng\n□\n+ Bảo vệ môi trường\n□\n+ Các mục tiêu quản lý khác (ghi rõ mục tiêu\nquản lý)\n□\n+ Bảo vệ lợi ích và an ninh quốc gia\n□\n- QCVN dùng để:\nchứng nhận hoặc công bố hợp quy\n□\n- Căn cứ về nội dung quản lý nhà nước\ncó liên quan\n+ Trích dẫn tên gọi, số chỉ thị, văn bản\ncó liên quan đến yêu cầu quản lý nêu trên\n+ Yêu cầu hài hoà trong khuôn khổ hợp\ntác quốc tế và khu vực\n+ Các yêu cầu quản lý khác\n6. Loại quy chuẩn kỹ thuật\n+ Quy chuẩn kỹ thuật chung\n□\n+ Quy chuẩn kỹ thuật an toàn\n□\n+ Quy chuẩn kỹ thuật môi\ntrường\n□\n+ Quy chuẩn kỹ thuật về quá trình\n□\n+ Quy chuẩn kỹ thuật về dịch vụ\n□\n+ Quy chuẩn kỹ thuật khác\n□\n7. Những vấn đề sẽ quy định trong QCVN\n- Những vấn đề sẽ quy định (hoặc soát\nxét):\n+ Quy định về kỹ thuật và quản lý kỹ\nthuật cho lĩnh vực quản lý\n□\n+ An toàn thuốc bảo vệ thực vật\n□\n+ Quy định về kỹ thuật và quản lý kỹ\nthuật cho nhóm sản phẩm, dịch vụ, quá trình\n□\n+ An toàn thuốc thú y\n□\n+ An toàn sinh học\n□\n+ An toàn chế phẩm sinh học và hoá\nchất dùng cho động thực vật\n□\n+ An toàn cháy nổ\n□\n+ Yêu cầu về chất lượng môi trường xung quanh\n□\n+ An toàn cơ học\n□\n+ Yêu cầu về chất thải\n□\n+ An toàn công nghiệp\n□\n+ Yêu cầu về an toàn, vệ sinh trong sản xuất,\nkhai tác, chế biến sản phẩm, hàng hóa\n□\n+ An toàn xây dựng\n□\n+ Yêu cầu về an toàn, vệ sinh trong\nbảo quản, vận hành, vận chuyển, sử dụng, bảo trì sản phẩm, hàng hoá\n□\n+ An toàn hoá học\n□\n+ An toàn, vệ sinh trong dịch vụ\nkinh doanh, thương mại\n□\n+ An toàn điện\n□\n+ An toàn trong dịch vụ bưu chính viễn thông\n□\n+ An toàn trang thiết bị y tế\n□\n+ An toàn trong dịch vụ xây dựng\n□\n+ Tương thích điện từ trường\n□\n+ An toàn trong dịch vụ khoa học,\ngiáo dục\n□\n+ An toàn bức xạ và hạt nhân\n□\n+ An toàn trong dịch vụ y tế, chăm\nsóc sức khoẻ\n□\n+ An toàn thực phẩm\n□\n+ An toàn vệ sinh trong dịch vụ du lịch\n□\n+ An toàn dược phẩm\n□\n+ An toàn vệ sinh trong dịch vụ\ngiải trí, văn hoá,\nthể thao\n□\n+ An toàn mỹ phẩm\n□\n+ An toàn trong dịch vụ vận tải\n□\n+ Vệ sinh an toàn thức ăn chăn nuôi\n□\n+ An toàn trong dịch vụ môi trường\n□\n+ An toàn phân bón\n□\n+ An toàn, vệ sinh trong các lĩnh vực\nkhác (liệt kê cụ thể)\n□\n- Bố cục, nội dung các phần chính của QCVN (dự\nkiến):\n- Nhu cầu khảo nghiệm quy chuẩn kỹ thuật\ntrong thực tế: □ có □ không\n(Nếu có, ghi rõ dự kiến nội dung cần\nkhảo nghiệm, quy mô, địa điểm, thời gian khảo nghiệm)\n8. Phương thức thực hiện và tài liệu\nlàm căn cứ xây dựng QCVN\n- Phương thức thực hiện:\n+ Xây dựng QCVN trên cơ sở tiêu chuẩn\n□\n+ Xây dựng QCVN trên cơ sở tham khảo\ntài liệu, dữ liệu khác\n□\n+ Xây dựng QCVN kết hợp cả tiêu chuẩn\nvà các tài liệu khác\n□\n- Tài liệu chính làm căn cứ xây dựng\nQCVN (bản sao kèm\ntheo):....\n9. Kiến nghị ban soạn thảo QCVN\n- Cơ quan, tổ chức biên soạn QCVN\n□\n(tên cơ quan, tổ chức\nchủ trì biên soạn QCVN)\n- Ban soạn thảo soạn thảo QCVN\n□\n(dự kiến thành viên\nban soạn thảo)\n10. Cơ quan phối hợp xây dựng QCVN\n- Dự kiến cơ quan, tổ chức phối hợp\nxây dựng dự thảo QCVN:\n- Dự kiến cơ quan quản lý có liên quan\nbắt buộc phải lấy ý kiến về dự thảo QCVN:\n- Dự kiến các cơ quan, tổ chức, cá\nnhân cần lấy ý kiến đóng góp cho dự thảo QCVN:\n11. Dự kiến tiến độ thực hiện\nTT\nNội dung\ncông việc\nThời gian\nBắt đầu\nKết thúc\n1\nChuẩn bị biên soạn\ndự thảo QCVN\n2\nBiên soạn dự thảo QCVN:\n- lấy ý kiến chuyên gia,\n- khảo nghiệm dự thảo,\n- hoàn chỉnh dự thảo và lập hồ sơ dự\nthảo QCVN\n3\nTổ chức thông báo và lấy ý kiến rộng\nrãi\n4\nTổ chức Hội nghị chuyên đề\n5\nHoàn chỉnh, lập hồ sơ dự thảo QCVN trình\nduyệt\n6\nThẩm định hồ sơ dự thảo QCVN trình\nduyệt\n7\nBan hành QCVN\n12. Dự toán kinh phí thực hiện\na. Tổng kinh phí dự kiến: ………………..trong\nđó:\n- Ngân sách Nhà nước: …………………………………………………………………………………\n- Đóng góp của các tổ chức, cá nhân: ………………………………………………………………..\n(ghi rõ của tổ chức cá nhân nào, nếu\ncó)\n- Nguồn khác: ……………………………………………………………………………………………\nb. Dự toán chi tiết kinh phí thực hiện:\n(theo hướng dẫn của Tổng cục TCĐLCL)\n………., ngày\n... tháng ... năm ..…...\nCơ\nquan, tổ chức, cá nhân đề nghị dự án QCVN\n(Ký\ntên, đóng dấu)\nPHỤ\nLỤC III\n(Ban hành kèm\ntheo Thông tư số 26/2019/TT-BKHCN ngày 25/12/2019 của Bộ trưởng Bộ Khoa học và\nCông nghệ)\nMẪU: NỘI DUNG KẾ HOẠCH XÂY DỰNG QUY CHUẨN KỸ THUẬT ĐỊA\nPHƯƠNG\nTên UBND tỉnh, thành\nphố trực thuộc Trung ương\nKẾ HOẠCH XÂY\nDỰNG QCĐP NĂM: ...(NĂM KẾ HOẠCH)\nTT\nLĩnh vực, đối tượng QCĐP\nTên QCĐP\nCơ quan, tổ\nchức biên soạn QCĐP\nThời gian\nthực hiện\nKinh phí dự\nkiến (triệu đồng)\nCơ quan, tổ\nchức đề nghị\nBắt đầu\nKết thúc\nTổng số\nNSNN\nNguồn khác\n1\n2\n……….\nGhi chú: Kế hoạch xây\ndựng quy chuẩn kỹ thuật địa phương phải kèm theo các dự án xây dựng QCĐP cho từng\nđối tượng QCĐP hoặc nhóm đối tượng QCĐP./.\nPHỤ\nLỤC IV\n(Ban hành kèm\ntheo Thông tư số 26/2019/TT-BKHCN ngày 25/12/2019 của Bộ trưởng Bộ Khoa học và\nCông nghệ)\nMẪU: DỰ ÁN XÂY DỰNG QUY CHUẨN KỸ THUẬT ĐỊA PHƯƠNG\n1. Tên gọi quy chuẩn kỹ thuật\n2. Phạm vi và đối tượng áp dụng của\nquy chuẩn kỹ thuật địa phương\n3. Cơ quan, tổ chức, cá nhân đề nghị\nTên cơ quan/tổ chức/cá nhân: ………………………………………………………………………..\nĐịa chỉ: …………………………………………………………………………………………………..\nĐiện thoại: ……………………. Fax: ……………….. E-mail\n………………………………………..\nTên cơ quan chủ quản (nếu có): ………………………………………………………………………\n4. Tình hình quản lý đối tượng quy chuẩn\nkỹ thuật địa phương hoặc đối tượng quy chuẩn kỹ thuật quốc gia tương ứng tại địa\nphương\n- Đối tượng quy chuẩn kỹ thuật là:\n+ Sản phẩm, hàng hoá, dịch vụ, quá trình\nđặc thù của địa phương □\n+ Yêu cầu cụ thể về môi trường tại địa\nphương □\n- Tên Bộ, cơ quan ngang Bộ, cơ quan\nthuộc Chính phủ quản lý đối tượng trong lĩnh vực quy chuẩn kỹ thuật dự kiến ban\nhành QCĐP:\n- Tình hình quản lý cụ thể đối tượng\nquy chuẩn kỹ thuật\n5. Lý do và mục đích xây dựng quy chuẩn\nkỹ thuật địa phương\n- Quy chuẩn kỹ thuật nhằm đáp ứng những\nmục tiêu quản lý nào dưới đây:\n+ Đảm bảo an toàn\n□\n+ Bảo vệ động, thực vật\n□\n+ Đảm bảo vệ sinh, sức khoẻ\n□\n+ Bảo vệ quyền lợi người tiêu dùng\n□\n+ Bảo vệ môi trường\n□\n+ Các mục tiêu quản lý khác (ghi rõ mục tiêu\nquản lý)\n□\n+ Bảo vệ lợi ích và an ninh quốc gia\n□\n- QCVN dùng\nđể:\nchứng nhận hoặc công bố hợp quy\n□\n- Căn cứ về nội dung quản lý nhà nước\ncó liên quan\n+ Trích dẫn tên gọi, số chỉ thị, văn bản\ncó liên quan đến yêu cầu quản lý nêu trên\n+ Yêu cầu hài hoà trong khuôn khổ hợp\ntác quốc tế và khu vực\n+ Các yêu cầu quản lý khác\n6. Loại quy chuẩn kỹ thuật\n+ Quy chuẩn kỹ thuật chung\n□\n+ Quy chuẩn kỹ thuật an toàn\n□\n+ Quy chuẩn kỹ thuật môi\ntrường\n□\n+ Quy chuẩn kỹ thuật về quá trình\n□\n+ Quy chuẩn kỹ thuật về dịch vụ\n□\n7. Những vấn đề sẽ quy định trong quy\nchuẩn kỹ thuật địa phương\n- Nhũng vấn đề sẽ quy định (hoặc sửa đổi,\nbổ sung):\n+ Yêu cầu về thải (nước thải, khí thải,\nchất thải rắn)\n□\n+ Yêu cầu về an toàn, vệ sinh trong\nsản xuất, khai thác, chế biến sản phẩm, hàng hóa đặc thù\n□\n+ Yêu cầu về an toàn, vệ sinh trong\nbảo quản, vận hành, vận chuyển, sử dụng, bảo trì sản phẩm, hàng hóa đặc thù\n□\n+ An toàn trong dịch vụ môi trường\n□\n+ An toàn, vệ sinh trong các lĩnh vực\nkhác thuộc lĩnh vực được phân công (liệt kê ở dưới)\n□\n- Bố cục, nội dung các phần chính của\nquy chuẩn kỹ thuật dự kiến;\n- Nhu cầu khảo nghiệm quy chuẩn kỹ thuật\ntrong thực tế: □ có □ không\n(Nếu có, ghi rõ dự kiến nội dung cần\nkhảo nghiệm, quy mô, địa điểm, thời gian khảo nghiệm)\n8. Phương thức thực hiện và tài liệu\nlàm căn cứ xây dựng quy chuẩn kỹ thuật địa phương\n+ Xây dựng QCVN\ntrên cơ sở tiêu chuẩn\n□\n+ Xây dựng QCVN\ntrên cơ sở tham khảo tài liệu, dữ liệu khác\n□\n+ Xây dựng QCVN\nkết hợp tiêu chuẩn và tham khảo các tài liệu, dữ\n□\n- Tài liệu chính làm căn cứ xây dựng\nquy chuẩn kỹ thuật (bản sao kèm theo):\n9. Kiến nghị ban soạn thảo quy chuẩn kỹ\nthuật địa phương\n- Cơ quan, tổ chức biên soạn QCĐP □\n(tên cơ quan, tổ chức chủ trì biên soạn\nQCĐP)\n- Ban soạn thảo soạn thảo QCĐP □\n(dự kiến thành viên ban soạn thảo\nQCĐP)\n10. Cơ quan phối hợp xây dựng quy chuẩn\nkỹ thuật địa phương\n- Dự kiến cơ quan, tổ chức phối hợp\nxây dựng dự thảo quy chuẩn kỹ thuật.\n- Dự kiến cơ quan quản lý có liên quan\nbắt buộc phải lấy ý kiến về dự thảo QCĐP.\n- Dự kiến các cơ quan, tổ chức, cá\nnhân cần lấy ý kiến về dự thảo QCĐP.\n11. Dự kiến tiến độ thực hiện\nTT\nNội dung công\nviệc\nThời gian\nBắt đầu\nKết thúc\n1\nChuẩn bị biên soạn dự thảo QCĐP\n2\nBiên soạn dự thảo QCĐP:\n- Lấy ý kiến chuyên gia\n- Khảo nghiệm dự thảo (nếu có)\n- Hoàn chỉnh dự thảo và lập hồ sơ dự\nthảo QCĐP\n3\nTổ chức thông báo và lấy ý kiến rộng\nrãi\n4\nTổ chức Hội nghị chuyên đề\n5\nHoàn chỉnh, lập hồ sơ dự thảo QCĐP\ntrình duyệt\n6\nThẩm định hổ sơ dự thảo QCĐP trình\nduyệt\n7\nBan hành QCĐP\n12. Dự toán kinh phí thực hiện\na. Tổng kinh phí dự kiến: ……………. trong\nđó:\n- Ngân sách Nhà nước: ………………………………………………………………………………….\n- Đóng góp của các tổ chức, cá nhân: …………………………………………………………………\n(ghi rõ của tổ chức cá nhân nào, nếu\ncó)\n- Nguồn khác: …………………………………………………………………………………………….\nb. Dự toán chi tiết kinh phí thực hiện:\n(theo hướng dẫn của Tổng cục Tiêu chuẩn Đo lường Chất lượng).\n………., ngày\n... tháng ... năm 20.…...\nCơ\nquan, tổ chức, cá nhân đề nghị dự án QCĐP\n(Ký tên, đóng dấu)\nPHỤ\nLỤC V\n(Ban hành kèm\ntheo Thông tư số 26/2019/TT-BKHCN ngày 25/12/2019 của Bộ trưởng Bộ Khoa học và\nCông nghệ)\nMẪU: TRÌNH BÀY TRANG BÌA VÀ TRANG 2 CỦA QUY CHUẨN KỸ THUẬT\n1. Mẫu trang bìa Quy chuẩn kỹ thuật quốc\ngỉa\nVí dụ quy chuẩn kỹ thuật quốc gia về\nxăng, nhiên liệu điêzen và nhiên liệu sinh học do Bộ trưởng Bộ Khoa học và Công\nnghệ ban hành năm 2019 theo quy định tại mẫu 1 của Phụ lục này.\n2. Mẫu trang bìa Quy chuẩn kỹ thuật địa\nphương\nVí dụ quy chuẩn kỹ thuật địa phương về\nnước thải cho vùng ven biển do Ủy ban nhân dân tỉnh Khánh Hoà ban hành năm 2019\ntheo quy định tại mẫu 2 của Phụ lục này.\nMẫu 1\nChú thích Mẫu 1:\n(1) Quốc huy nước CHXHCN Việt Nam\nHình khối vuông, mỗi cạnh 3 cm.\n(2) Dòng chữ “Cộng hoà Xã hội chủ\nnghĩa Việt Nam”\nKiểu chữ in hoa theo phông chữ Arial,\ncỡ chữ 14 của bộ mã ký tự chữ Việt (phông chữ tiếng Việt Unicode), không in đậm\n(3) Ký hiệu đầy đủ của quy chuẩn kỹ\nthuật quốc gia\nKiểu chữ in hoa theo phông chữ Arial,\ncỡ chữ 16 của bộ mã ký tự chữ Việt (phông chữ tiếng Việt Unicode), in đậm\n(4) Dòng chữ “Quy chuẩn kỹ thuật quốc\ngia”\nKiểu chữ in hoa theo phông chữ Arial,\ncỡ chữ 16 của bộ mã ký tự chữ Việt (phông chữ tiếng Việt Unicode), in đậm\n(5) Tên của quy chuẩn kỹ thuật quốc\ngia bảng tiếng Việt\nKiểu chữ in hoa theo phông chữ Arial,\ncỡ chữ 16 của bộ mã ký tự chữ Việt (phông chữ tiếng Việt Unicode), in đậm\n(6) Tên đầy đủ của quy chuẩn kỹ thuật\nquốc gia băng tiếng Anh tương ứng với phần tiếng Việt tại mục (4) và Mục (5)\nKiểu chữ in thường theo phông chữ\nArial, cỡ chữ 14 của bộ mã ký tự chữ Việt (phông chữ tiếng Việt Unicode), in\nnghiêng, đậm\n(7) Địa điểm và năm ban hành quy chuẩn\nkỹ thuật quốc gia\nKiểu chữ in hoa theo phông chữ Arial,\ncỡ chữ 12 của bộ mà ký tự chữ Việt (phông chữ tiếng Việt Unicode), in đậm\nMẫu 2\nChú thích Mẫu 2:\n(1) Quốc huy nước CHXHCN Việt Nam Hình\nkhối vuông, mỗi cạnh 3 cm.\n(2) Dòng chữ “Cộng hoà Xã hội chủ\nnghĩa Việt Nam”\nKiểu chữ in hoa theo phông chữ Arial,\ncỡ chữ 14 của bộ mã ký tự chữ Việt (phông chữ tiếng Việt Unicode), không in đậm\n(3) Ký hiệu đầy đủ quy chuẩn kỹ thuật\nđịa phương\nKiểu chữ in hoa theo phông chữ Arial,\ncỡ chữ 16 của bộ mã ký tự chữ Việt (phông chữ tiếng Việt Unicode), in đậm\n(4) Dòng chữ “Quy chuẩn kỹ thuật địa\nphương”\nKiểu chữ in hoa theo phông chữ Arial,\ncỡ chữ 16 của bộ mà ký tự chữ Việt (phông chữ tiếng Việt Unicode), in đậm\n(5) Tên của quy chuẩn kỹ thuật địa\nphương bằng tiếng Việt\nKiểu chữ in hoa theo phông chữ Arial,\ncỡ chữ 16 của bộ mà ký tự chữ Việt (phông chữ tiếng Việt Unicode), in đậm\n(6) Tên đầy đủ của quy chuẩn kỹ thuật\nđịa phương bằng tiếng Anh tương ứng với phần tiếng Việt tại mục (4) và Mục (5)\nKiểu chữ in thường theo phông chữ\nArial, cỡ chữ 14 của bộ mã ký tự chữ Việt (phông chữ tiếng Việt Unicode), in\nnghiêng, đậm\n(7) Địa điểm và năm ban hành quy chuẩn\nký thuật địa phương\nKiểu chữ in hoa theo phông chữ Arial,\ncỡ chữ 12 của bộ mã ký tự chữ Việt (phông chữ tiếng Việt Unicode), in đậm\n3. Ví dụ về thể hiện lời nói đầu của\nquy chuẩn kỹ thuật\na) Đối với quy chuẩn kỹ thuật quốc gia\nLời nói đầu\n- QC VN 1:2019/(Tên viết tắt của Bộ,\ncơ quan ngang Bộ ban hành QCVN) do (Tên đơn vị hoặc ban soạn thảo được thành lập)\nbiên soạn, (Tên cơ quan trình duyệt) trình duyệt, Bộ Khoa học và Công nghệ thẩm\nđịnh, Bộ trưởng (Tên Bộ, cơ quan ngang Bộ) ban hành theo Thông tư số ../2019/TT-\n(Tên viết tắt của Bộ, cơ quan ngang Bộ ban hành QCVN) ngày ...tháng...năm\n2019.\n- Các nội dung khác liên quan đến việc\nxây dựng và ban hành quy chuẩn kỹ thuật quốc gia nếu thấy cần thiết\nb) Đối với quy chuẩn kỹ thuật địa\nphương\nLời nói đầu\n- QCĐP 1:2019/(Tên viết tắt của\nUBND tỉnh, thành phố ban hành QCĐP) do (Tên đơn vị hoặc ban soạn thảo được\nthành lập) biên soạn, (Tên cơ quan trình duyệt) trình duyệt, (Tên UBND tỉnh, thành\nphố trực thuộc TW) ban hành theo Quyết định số ../2019/QĐ- (Tên viết tắt của\nUBND tỉnh, thành phố ban hành QCĐP) ngày ...tháng...năm 2019.\n- Các nội dung khác liên quan đến việc\nxây dựng và ban hành quy chuẩn kỹ thuật địa phương nếu thấy cần thiết\nLời nói đầu QCĐP xây dựng trên cơ sở\nquy định giao quyền tại QCVN\n- QCĐP 1:2019/(Tên viết tắt của UBND\ntỉnh, thành phố ban hành QCĐP) do (Tên đơn vị hoặc ban soạn thảo được thành lập)\nbiên soạn trên cơ sở quy định giao quyền tại QCVN XXX:2019/(Bộ, cơ quan ngang Bộ\nban hành QCVN), (Tên cơ quan trình duyệt) trình duyệt, (Tên UBND tỉnh, thành phố\ntrực thuộc TW) ban hành theo Quyết định số ..../2019/QĐ- (Tên viết tắt của UBND\ntỉnh, thành phố ban hành QCĐP) ngày ...tháng...năm 2019.\n- Các nội dung khác liên quan đến việc\nxây dựng và ban hành quy chuẩn kỹ thuật địa phương nếu thấy cần thiết\nPHỤ\nLỤC VI\n(Ban hành kèm\ntheo Thông tư số 26/2019/TT-BKHCN ngày 25/12/2019 của Bộ trưởng Bộ Khoa học và\nCông nghệ)\nTÊN VIẾT TẮT BỘ, CƠ QUAN NGANG BỘ, ỦY BAN NHẮN DÂN TỈNH,\nTHÀNH PHỔ TRỰC THUỘC TRUNG ƯƠNG BAN HÀNH QUY CHUẢN KỸ THUẬT\n1. Các Bộ, cơ quan ngang Bộ ban hành\nquy chuẩn kỹ thuật quốc gia\nTT\nCác Bộ, cơ\nquan ngang Bộ\nTên viết tắt\n1.\nBộ Công Thương\nBCT\n2.\nBộ Công an\nBCA\n3.\nBộ Giao thông Vận tải\nBGTVT\n4.\nBộ Giáo dục và Đào tạo\nBGDĐT\n5.\nBộ Quốc phòng\nBQP\n6.\nBộ Lao động, Thương binh và Xã hội\nBLĐTBXH\n7.\nBộ Khoa học và Công nghệ\nBKHCN\n8.\nBộ Kế hoạch và Đầu tư\nBKHĐT\n9.\nBộ Nông nghiệp và Phát triển nông\nthôn\nBNNPTNT\n10.\nBộ Nội vụ\nBNV\n11.\nBộ Ngoại giao\nBNG\n12.\nBộ Tư pháp\nBTP\n13.\nBộ Tài chính\nBTC\n14.\nBộ Tài nguyên và Môi trường\nBTNMT\n15.\nBộ Thông tin và Truyền thông\nBTTTT\n16.\nBộ Văn hóa, Thể thao và Du lịch\nBVHTTDL\n17.\nBộ Xây dựng\nBXD\n18.\nBộ Y tế\nBYT\n19.\nThanh tra Chính phủ\nTTrCP\n20.\nNgân hàng Nhà nước Việt Nam\nNHNN\n2. Ủy ban Nhân dân các tỉnh, thành phố\ntrực thuộc Trung ương ban hành quy chuẩn kỹ thuật địa phương\nTT\nUBND tỉnh,\nthành phố trực thuộc Trung ương\nTên viết tắt\n1.\nUBND TP. Hà Nội\nTPHN\n2.\nUBND TP.Hồ Chí Minh\nTPHCM\n3.\nUBND tỉnh An Giang\nAG\n4.\nUBND tỉnh Bà Rịa - Vũng Tàu\nBR-VT\n5.\nUBND tỉnh Bạc Liêu\nBL\n6.\nUBND tỉnh Bắc Giang\nBG\n7.\nUBND tỉnh Bắc Kạn\nBC\n8.\nUBND tỉnh Bắc Ninh\nBN\n9.\nUBND tỉnh Bến Tre\nBTr\n10.\nUBND tỉnh Bình Dương\nBD\n11.\nUBND tỉnh Bình Định\nBĐ\n12.\nUBND tỉnh Bình Phước\nBP\n13.\nUBND tỉnh Bình Thuận\nBTn\n14.\nUBND tỉnh Cao Bằng\nCB\n15.\nUBND tỉnh Cà Mau\nCM\n16.\nUBND TP. Cần Thơ\nTPCT\n17.\nUBNDTP. Hải Phòng\nTPHP\n18.\nUBND TP. Đà Nẵng\nTPĐN\n19.\nUBND tỉnh Gia Lai\nGL\n20.\nUBND tỉnh Hòa Bình\nHB\n21.\nUBND tỉnh Hà\nGiang\nHG\n22.\nUBND tỉnh Hà Nam\nHN\n23.\nUBND tỉnh Hà Tĩnh\nHTh\n24.\nUBND tỉnh Hưng Yên\nHY\n25.\nUBND tỉnh Hải Dương\nHD\n26.\nUBND tỉnh Hậu Giang\nHGg\n27.\nUBND tỉnh Điện Biên\nĐB\n28.\nUBND tính Đăk Lắk\nĐL\n29.\nUBND tỉnh Đăk Nông\nĐNg\n30.\nUBND tỉnh Đồng Nai\nĐN\n31.\nUBND tỉnh Đồng Tháp\nĐT\n32.\nUBND tỉnh Khánh Hòa\nKH\n33.\nUBND tỉnh Kiên Giang\nKG\n34.\nUBND tính Kon Tum\nKT\n35.\nUBND tỉnh Lai Châu\nLCh\n36.\nUBND tỉnh Long An\nLA\n37.\nUBND tỉnh Lào Cai\nLC\n38.\nUBND tỉnh Lâm Đồng\nLĐ\n39.\nUBND tỉnh Lạng Sơn\nLS\n40.\nUBND tỉnh Nam Định\nNĐ\n41.\nUBND tỉnh Nghệ An\nNA\n42.\nUBND tỉnh Ninh Bình\nNB\n43.\nUBND tỉnh Ninh Thuận\nNT\n44.\nUBND tỉnh Phú Thọ\nPT\n45.\nUBND tỉnh Phú Yên\nPY\n46.\nUBND tỉnh Quảng Bình\nQB\n47.\nUBND tỉnh Quảng Nam\nQNm\n48.\nUBND tỉnh Quảng Ngãi\nQNg\n49.\nUBND tỉnh Quảng Ninh\nQN\n50.\nUBND tỉnh Quảng Trị\nQT\n51.\nUBND tỉnh Sóc Trăng\nST\n52.\nUBND tỉnh Sơn La\nSL\n53.\nUBND tỉnh Thanh Hóa\nTH\n54.\nUBND tỉnh Thái Bình\nTB\n55.\nUBND tỉnh Thái Nguyên\nTN\n56.\nUBND tỉnh Thừa Thiên - Huế\nTT-H\n57.\nUBND tỉnh Tiền Giang\nTG\n58.\nUBND tỉnh Trà Vinh\nTV\n59.\nUBND tỉnh Tuyên Quang\nTQ\n60.\nUBND tỉnh Tây Ninh\nTN\n61.\nUBND tỉnh Vĩnh Long\nVL\n62.\nUBND tỉnh Vĩnh Phúc\nVP\n63.\nUBND tỉnh Yên Bái\nYB\nPHỤ\nLỤC VII\n(Ban hành kèm\ntheo Thông tư số 26/2019/TT-BKHCN ngày 25/12/2019 của Bộ trưởng Bộ Khoa học và\nCông nghệ)\nMẪU: DANH MỤC SẢN PHẨM, HÀNG HÓA THUỘC PHẠM VI ĐIỀU CHỈNH\nCỦA QUY CHUẨN CÓ MÃ HS KÈM THEO\nSTT\nTên sản phẩm,\nhàng hóa\nMã HS\n(chi tiết 8\nsố)\n1.\n2.\n3.\n4.\n5.\n....\nPHỤ\nLỤC VIII\n(Ban hành kèm\ntheo Thông tư\nsố\n26/2019/TT-BKHCN ngày 25/12/2019 của Bộ trưởng Bộ Khoa học và Công nghệ)\nMẪU: BÁO CÁO QUÁ TRÌNH XÂY DỰNG QUY CHUẨN KỸ THUẬT\n1. Căn cứ pháp lý triển khai, xây dựng\nQCKT.\n2. Tên QCKT.\n3. Quá trình xây dựng (thời gian, địa điểm,\nnội dung thực hiện, đơn vị đầu mối, đơn vị/cá nhân tham gia, phối hợp..\n- Quyết định giao nhiệm vụ xây dựng\nQCKT\n- Thành lập ban soạn thảo\n- Hội nghị, hội thảo khoa học lấy ý kiến\ncho dự thảo QCKT\n- Gửi dự thảo QCKT lấy ý kiến chính thức\ncác bộ ngành, tổ chức, cá nhân liên quan\n- Đăng dự thảo trên Cổng thông tin điện\ntử (website) của Bộ, cơ quan ngang bộ, UBND tỉnh/thành phố lấy ý kiến rộng rãi\n- Gửi hồ sơ dự thảo tới của Bộ, cơ\nquan ngang bộ liên quan để xem xét, cho ý kiến chính thức (đối với QCĐP)\n- Thẩm tra, hoàn thiện hồ sơ dự thảo tại\nBộ, cơ quan ngang bộ (đối với QCVN) trước khi gửi Bộ KHCN tổ chức thẩm định.\n- Các thông tin khác có liên quan.\n4. Kết quả, tồn tại và kiến nghị (nếu\ncó).\nThủ trưởng\nhoặc Trưởng Ban soạn thảo\n(Ký tên, đóng dấu)\nPHỤ\nLỤC IX\n(Ban hành kèm\ntheo Thông tư số 26/2019/TT-BKHCN ngày 25/12/2019 của Bộ trưởng Bộ Khoa học và\nCông nghệ)\n1. Trình bày ký hiệu QCVN trên dấu hợp\nquy\n2. Trình bày ký hiệu QCĐP trên dấu hợp\nquy\n3. Trình bày ký hiệu QCĐP trên cơ sở\nquy định giao quyền của QCVN trên dấu hợp quy\nGhi chú:\nQCVN : Quy chuẩn kỹ thuật quốc gia\nQCĐP: Quy chuẩn kỹ thuật địa phương\nAAA: Số hiệu quy chuẩn quốc gia\nBBB: Số hiệu quy chuẩn kỹ thuật địa\nphương\nYYYY: Năm ban hành quy chuẩn địa\nphương\nXXX: Tên bộ, cơ quan ngang bộ ban hành\nQCVN\nZZZ: Tên địa phương\nban hành QCĐP",
+  "tree": {
+    "parts": [
+      {
+        "part_id": "doc:299084:part:1",
+        "part_type": "main",
+        "part_title": null,
+        "reference": null,
+        "direct_text": "THÔNG TƯ QUY\nĐỊNH CHI TIẾT XÂY DỰNG, THẨM ĐỊNH VÀ BAN HÀNH QUY CHUẨN KỸ THUẬT\nCăn cứ Luật Tiêu chuẩn và Quy chuẩn kỹ thuật ngày 29 tháng 6 năm 2006; Căn cứ Nghị định số 95/2017/NĐ-CP ngày 16 tháng 8 năm 2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Khoa học và Công nghệ; Căn cứ Nghị định số 127/2007/NĐ-CP ngày 01 tháng 8 năm 2007 của Chính phủ quy định chi tiết thi hành một số điều của Luật Tiêu chuẩn và Quy chuẩn kỹ thuật và Nghị định số 78/2018/NĐ-CP ngày 16 tháng 5 năm 2018 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 127/2007/NĐ-CP ngày 01 tháng 8 năm 2007 của Chính phủ quy định chi tiết thi hành một số điều Luật Tiêu chuẩn và Quy chuẩn kỹ thuật; Theo đề nghị của Tổng cục trưởng Tổng cục Tiêu chuẩn Đo lường Chất lượng và Vụ trưởng Vụ Pháp chế; Bộ trưởng Bộ Khoa học và Công nghệ ban hành Thông tư quy định chi tiết xây dựng, thẩm định và ban hành quy chuẩn kỹ thuật.\nphụ lục; hoặc\na2) Phần, điều, điểm, đoạn.\nb) Phần, chương, mục, điều, phụ lục\ntrong quy chuẩn kỹ thuật phải có tiêu đề. Tiêu đề là cụm từ chỉ nội dung chính của phần, chương, mục, điều, phụ lục. Ví dụ về bổ cục và đánh số quy chuẩn kỹ thuật: Bố cục Đánh số Phần\nI\nChương\nI.I\nMục\nI.I.I\nPhụ lục\nA\n5. Thể thức trình bày quy chuẩn kỹ thuật\na) Khổ giấy của quy chuẩn kỹ thuật là\nkhổ A4 (210 mm x 297 mm), sai số kích thước cho phép là ± 0,5 mm.\nb) Phần nội dung (bản văn) của quy chuẩn\nkỹ thuật được trình bày bằng chữ in thường, kiểu chữ thực hiện theo phông chữ Arial, cỡ chữ từ 12 đến 14 của bộ mã ký tự chữ Việt (phông chữ tiếng Việt Unicode); khi xuống dòng, chữ đầu dòng có thể lùi vào từ 1 cm đến 1,27 cm (1 default tab); khoảng cách giữa các đoạn văn (paragraph) đặt tối thiểu là 6 pt; khoảng cách giữa các dòng hay cách dòng (line spacing) chọn tối thiểu từ cách dòng đơn (single line spacing) hoặc từ 15 pt (exactly line spacing) trở lên.\nc) Số trang quy chuẩn kỹ thuật được\ntính từ trang bìa cho đến trang cuối cùng của quy chuẩn. Đánh số trang quy chuẩn kỹ thuật được in trên từng trang của quy chuẩn kỹ thuật tại chính giữa phần cuối trang giấy, trừ trang bìa.\nd) Ký hiệu và số hiệu quy chuẩn kỹ thuật\nđược in trên từng trang của quy chuẩn kỹ thuật ở góc ngoài phía mở của trang.\n6. Khi thể hiện nội dung quy chuẩn kỹ\nthuật, tham khảo các hướng dẫn quy định trong tiêu chuẩn quốc gia TCVN 1-2.",
+        "chapters": [
+          {
+            "chapter_id": "doc:299084:part:1:chapter:1",
+            "number": "I",
+            "title": "QUY ĐỊNH CHUNG",
+            "content": "Chương I\nQUY ĐỊNH CHUNG",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:299084:part:1:article:1",
+                "number": "1",
+                "title": "Phạm vi điều chỉnh Thông tư này quy định chi tiết xây dựng, thẩm định và ban hành quy chuẩn kỹ thuật, bao gồm các hoạt động:",
+                "content": "Điều 1. Phạm vi điều chỉnh Thông tư này quy định chi tiết xây dựng, thẩm định và ban hành quy chuẩn kỹ thuật, bao gồm các hoạt động:",
+                "clauses": [
+                  {
+                    "clause_id": "doc:299084:part:1:article:1:clause:1",
+                    "number": "1",
+                    "content": "1. Lập kế hoạch xây dựng quy chuẩn kỹ\nthuật;",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:299084:part:1:article:1:clause:2",
+                    "number": "2",
+                    "content": "2. Xây dựng quy chuẩn kỹ thuật;",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:299084:part:1:article:1:clause:3",
+                    "number": "3",
+                    "content": "3. Thẩm định quy chuẩn kỹ thuật;",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:299084:part:1:article:1:clause:4",
+                    "number": "4",
+                    "content": "4. Ban hành quy chuẩn kỹ thuật;",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:299084:part:1:article:1:clause:5",
+                    "number": "5",
+                    "content": "5. Rà soát, sửa đổi, bổ sung; thay thế;\nhủy bỏ quy chuẩn kỹ thuật;",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:299084:part:1:article:1:clause:6",
+                    "number": "6",
+                    "content": "6. Trình bày và thể hiện nội dung quy\nchuẩn kỹ thuật;",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:299084:part:1:article:1:clause:7",
+                    "number": "7",
+                    "content": "7. Thông báo, phổ biến, đăng ký, xuất\nbản, phát hành quy chuẩn kỹ thuật.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:299084:part:1:article:2",
+                "number": "2",
+                "title": "Đối tượng áp dụng Thông tư này áp dụng đối với cơ quan nhà nước, tổ chức, cá nhân liên quan trong quá trình xây dựng, thẩm định và ban hành quy chuẩn kỹ thuật.",
+                "content": "Điều 2. Đối tượng áp dụng Thông tư này áp dụng đối với cơ quan nhà nước, tổ chức, cá nhân liên quan trong quá trình xây dựng, thẩm định và ban hành quy chuẩn kỹ thuật.",
+                "clauses": [],
+                "points": []
+              },
+              {
+                "article_id": "doc:299084:part:1:article:3",
+                "number": "3",
+                "title": "Giải thích từ ngữ Trong Thông tư này, các từ ngừ dưới đây được hiểu như sau:",
+                "content": "Điều 3. Giải thích từ ngữ Trong Thông tư này, các từ ngừ dưới đây được hiểu như sau:",
+                "clauses": [
+                  {
+                    "clause_id": "doc:299084:part:1:article:3:clause:1",
+                    "number": "1",
+                    "content": "1. Quy chuẩn kỹ thuật quốc gia\nlà quy chuẩn kỹ thuật do Bộ trưởng, Thủ trưởng cơ quan ngang Bộ ban hành kèm theo văn bản quy phạm pháp luật thuộc phạm vi ngành, lĩnh vực được Chính phủ phân công quản lý, phù hợp với quy định tại khoản 1 Điều 23 Nghị định số 127/2007/NĐ-CP ngày 01 tháng 8 năm 2007 của Chính phủ quy định chi tiết thi hành một số điều Luật Tiêu chuẩn và Quy chuẩn kỹ thuật (sau đây viết tắt là Nghị định số 127/2007/NĐ-CP, được sửa đổi, bổ sung tại khoản 7 Điều 1 Nghị định số 78/2018/NĐ-CP ngày 15 tháng 6 năm 2018 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 127/2007/NĐ-CP ngày 01 tháng 8 năm 2007 của Chính phủ quy định chi tiết thi hành một số điều Luật Tiêu chuẩn và Quy chuẩn kỹ thuật (sau đây viết tắt là Nghị định số 78/2018/NĐ-CP). Quy chuẩn kỹ thuật quốc gia viết tắt là: QCVN;",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:299084:part:1:article:3:clause:2",
+                    "number": "2",
+                    "content": "2. Quy chuẩn kỹ\nthuật địa phương là quy chuẩn kỹ thuật do Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương (sau đây viết tắt là địa phương) ban hành kèm theo văn bản quy phạm pháp luật để áp dụng trong phạm vi quản lý của địa phương đối với các sản phẩm, hàng hoá, dịch vụ, quá trình đặc thù của địa phương và yêu cầu cụ thể về kiểm soát an toàn, môi trường cho phù hợp với đặc điểm địa lý, khí hậu, thủy văn và trình độ phát triển kinh tế - xã hội của địa phương. Quy chuẩn kỹ thuật địa phương viết tắt là: QCĐP.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:299084:part:1:chapter:2",
+            "number": "II",
+            "title": "LẬP VÀ PHÊ DUYỆT KẾ HOẠCH XÂY DỤNG QUY CHUẨN KỸ THUẬT",
+            "content": "Chương II\nLẬP\nVÀ PHÊ DUYỆT KẾ HOẠCH XÂY DỤNG QUY CHUẨN KỸ THUẬT",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:299084:part:1:article:4",
+                "number": "4",
+                "title": "Nguyên tắc lập, phê duyệt kế hoạch xây dựng quy chuẩn kỹ thuật",
+                "content": "Điều 4. Nguyên tắc lập, phê duyệt kế hoạch xây dựng quy chuẩn kỹ thuật",
+                "clauses": [
+                  {
+                    "clause_id": "doc:299084:part:1:article:4:clause:1",
+                    "number": "1",
+                    "content": "1. Lập và phê duyệt kế hoạch xây dựng\nquy chuẩn kỹ thuật thực hiện theo quy định tại Điều 29 Luật Tiêu chuẩn và Quy chuẩn kỹ thuật ngày 29 tháng 6 năm 2006.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:299084:part:1:article:4:clause:2",
+                    "number": "2",
+                    "content": "2. Tùy theo điều kiện và yêu cầu quản\nlý, các bộ, cơ quan ngang bộ chủ trì, phối hợp với Bộ Khoa học và Công nghệ, cơ quan, tổ chức liên quan tổ chức lập, phê duyệt, sửa đổi, bổ sung kế hoạch xây dựng\nQCVN.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:299084:part:1:article:4:clause:3",
+                    "number": "3",
+                    "content": "3. Ủy ban nhân dân tỉnh, thành phố trực\nthuộc Trung ương chủ trì, phối hợp với cơ quan, tổ chức liên quan tổ chức lập và phê duyệt kế hoạch xây dựng QCĐP.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:299084:part:1:article:4:clause:4",
+                    "number": "4",
+                    "content": "4. Các bộ, cơ quan ngang bộ, Ủy ban\nnhân dân tỉnh, thành phố trực thuộc Trung ương phê duyệt kế hoạch QCVN, QCĐP sau khi có ý kiến của Bộ Khoa học và Công nghệ. Bộ Khoa học và Công nghệ có trách nhiệm nghiên cứu, góp ý đối với kế hoạch xây dựng QCVN, QCĐP trong thời hạn 10 (mười) ngày làm việc kể từ ngày nhận được công văn Đề nghị góp ý của cơ quan xây dựng kế hoạch.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:299084:part:1:article:4:clause:5",
+                    "number": "5",
+                    "content": "5. Yêu cầu đối với kế hoạch xây dựng\nquy chuẩn kỹ thuật",
+                    "points": [
+                      {
+                        "point_id": "doc:299084:part:1:article:4:clause:5:point:1",
+                        "label": "a",
+                        "content": "a) Kế hoạch xây dựng QCVN\na1) Phù hợp với chính sách, chương trình quốc gia phát triển ngành, lĩnh vực liên quan đã được phê duyệt (nếu có). a2) Đáp ứng yêu cầu quản lý nhà nước cụ thể, phù hợp với kế hoạch phát triển kinh tế - xã hội và điều kiện phát triển khoa học và công nghệ của Việt Nam. a3) Không chồng chéo phạm vi, đối tượng, thẩm quyền các lĩnh vực quản lý nhà nước thuộc ngành, lĩnh vực. a4) Phù hợp với điều ước quốc tế mà Việt Nam là thành viên.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:299084:part:1:article:4:clause:5:point:2",
+                        "label": "b",
+                        "content": "b) Kế hoạch xây dựng QCĐP\nbl) Đáp ứng yêu cầu quản lý đối với sản phẩm, hàng hoá, dịch vụ, quá trình đặc thù của địa phương và yêu cầu cụ thể về kiểm soát môi trường, điều kiện phát triển khoa học và công nghệ, quản lý nhà nước tại địa phương. b2) Không tạo ra rào cản kỹ thuật không cần thiết đối với hoạt động sản xuất kinh doanh, lưu thông hàng hóa giữa các tỉnh, thành phố trực thuộc Trung ương.",
+                        "children": []
+                      }
+                    ]
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:299084:part:1:article:5",
+                "number": "5",
+                "title": "Trình tự, thủ tục phê duyệt kế hoạch xây dựng QCVN",
+                "content": "Điều 5. Trình tự, thủ tục phê duyệt kế hoạch xây dựng QCVN",
+                "clauses": [
+                  {
+                    "clause_id": "doc:299084:part:1:article:5:clause:1",
+                    "number": "1",
+                    "content": "1. Nội dung của kế hoạch xây dựng QCVN\nbao gồm: tên QCVN cần xây dựng sắp xếp theo chuyên ngành, lĩnh vực quy chuẩn kỹ thuật; loại quy chuẩn kỹ thuật, tên tổ chức biên soạn dự thảo; thời gian thực hiện; kinh phí dự kiến và nguồn kinh phí.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:299084:part:1:article:5:clause:2",
+                    "number": "2",
+                    "content": "2. Lập, phê duyệt, thực hiện và điều\nchỉnh, bổ sung kế hoạch xây dựng QCVN như sau:",
+                    "points": [
+                      {
+                        "point_id": "doc:299084:part:1:article:5:clause:2:point:1",
+                        "label": "a",
+                        "content": "a) Lập dự thảo kế hoạch xây dựng QC VN\na1) Quý II hằng năm, căn cứ vào nhu cầu xây dựng mới, sửa đổi, bổ sung, thay thế QCVN, cơ quan, tổ chức, cá nhân có liên quan gửi đề nghị kế hoạch xây dựng QCVN cho năm sau bằng văn bản đến bộ, cơ quan ngang bộ kèm theo dự án xây dựng QCVN để xem xét, tổng hợp. a2) Căn cứ yêu cầu quản lý nhà nước cụ thể trong lĩnh vực quy chuẩn kỹ thuật được Chính phủ phân công quản lý, bộ, cơ quan ngang bộ tổng hợp, sắp xếp theo thứ tự ưu tiên các đề nghị kế hoạch xây dựng, sửa đổi, bổ sung, thay thế QCVN. a3) Bộ, cơ quan ngang bộ tổ chức xem xét dự án xây dựng QCVN, với sự tham gia của đại diện các cơ quan, tổ chức có liên quan và lập dự thảo kế hoạch xây dựng QCVN cho năm sau. Đề nghị kế hoạch xây dựng QCVN thực hiện theo Mẫu quy định tại Phụ lục I ban hành kèm theo Thông tư này; Dự án xây dựng QCVN thực hiện theo Mẫu quy định tại Phụ lục II ban hành kèm theo Thông tư này;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:299084:part:1:article:5:clause:2:point:2",
+                        "label": "b",
+                        "content": "b) Lấy ý kiến, hoàn chỉnh dự thảo kế\nhoạch xây dựng QCVN b1) Bộ, cơ quan ngang bộ gửi dự thảo kế hoạch đến Bộ Khoa học và Công nghệ, các bộ, ngành, cơ quan, tổ chức, cá nhân có liên quan để lấy ý kiến, đồng thời thông báo về việc lấy ý kiến trên Cổng thông tin điện tử hoặc tạp chí, ấn phẩm chính thức của bộ, cơ quan ngang bộ chủ trì lập, phê duyệt kế hoạch. Thời gian lấy ý kiến ít nhất là 30 (ba mươi) ngày, kể từ ngày gửi dự thảo đi lấy ý kiến. b2) Bộ, cơ quan ngang bộ tổng hợp, xử lý các ý kiến góp ý để hoàn chính dự thảo kế hoạch hằng năm xây dựng QCVN;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:299084:part:1:article:5:clause:2:point:3",
+                        "label": "c",
+                        "content": "c) Phê duyệt kế hoạch xây dựng QCVN\nc1) Xem xét, phê duyệt kế hoạch xây dựng QCVN thực hiện trong quý IV của năm trước năm kế hoạch, kết hợp với xem xét, phê duyệt kế hoạch khoa học và công nghệ, thực hiện theo hướng dẫn chung về kế hoạch khoa học và công nghệ hằng năm của Bộ Khoa học và Công nghệ. c2) Bộ, cơ quan ngang bộ xem xét, phê duyệt kế hoạch xây dựng QCVN sau khi có ý kiến của Bộ Khoa học và Công nghệ để bảo đảm tính thống nhất, đồng bộ của hệ thống quy chuẩn kỹ thuật; thông báo cho các cơ quan, tổ chức có liên quan, Văn phòng Thông báo và điểm hỏi đáp quốc gia về tiêu chuẩn đo lường chất lượng (Văn phòng TBT Việt Nam) và công khai trên tạp chí, ấn phẩm chính thức hoặc Cổng thông tin điện tử của bộ, cơ quan ngang bộ chủ trì lập và phê duyệt kế hoạch, trong thời hạn không quá 30 (ba mươi) ngày kể từ ngày kế hoạch được phê duyệt;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:299084:part:1:article:5:clause:2:point:4",
+                        "label": "d",
+                        "content": "d) Thực hiện kế hoạch xây dựng QCVN\nBộ, cơ quan ngang bộ tổ chức thực hiện kế hoạch đã được phê duyệt; định kỳ 06 (sáu) tháng hoặc đột xuất theo yêu cầu, thông báo về tình hình và kết quả thực hiện kế hoạch xây dựng QCVN chọ Bộ Khoa học và Công nghệ để tổng hợp, báo cáo Chính phủ, cơ quan, tổ chức tiêp nhận thông báo là Tổng cục Tiêu chuẩn Đo lường Chất lượng, số 08 Đường Hoàng Quốc Việt, thành phố Hà Nội;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:299084:part:1:article:5:clause:2:point:5",
+                        "label": "đ",
+                        "content": "đ) Điều chỉnh, bổ sung kế hoạch xây dựng\nQCVN\nđl) Kế hoạch xây dựng QCVN điều chỉnh, bổ sung hoặc rút khỏi kế hoạch thực hiện bằng văn bản theo đề nghị của các cơ quan, tổ chức và cá nhân liên quan. Nội dung điều chỉnh, bổ sung kế hoạch bao gồm: tiến độ, đối tượng, nội dung của QCVN, kinh phí thực hiện. đ2) Đề nghị điều chỉnh, bổ sung kế hoạch xây dựng QCVN thực hiện trước ngày 01 tháng 10 hằng năm. Trình tự, thủ tục điều chỉnh, bổ sung kế hoạch về xây dựng QCVN thực hiện theo quy định tại điểm b và điểm c Khoản này. Trường hợp do yêu cầu cấp thiết của quản lý nhà nước, việc điều chỉnh, bổ sung kế hoạch hằng năm thực hiện theo quyết định của Bộ trưởng, Thủ trưởng cơ quan ngang bộ chủ trì lập và phê duyệt kế hoạch.",
+                        "children": []
+                      }
+                    ]
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:299084:part:1:article:6",
+                "number": "6",
+                "title": "Trình tự, thủ tục phê duyệt kế hoạch xây dựng QCĐP",
+                "content": "Điều 6. Trình tự, thủ tục phê duyệt kế hoạch xây dựng QCĐP\n1. Lập, phê duyệt, thực hiện và điều\nchỉnh, bổ sung kế hoạch xây dựng QCĐP như sau:\na) Lập dự thảo kế hoạch xây dựng QCĐ\nb) Quý II hằng năm, căn cứ vào nhu cầu\nxây dựng mới, sửa đổi, bổ sung, thay thế QCĐP, cơ quan, tổ chức, cá nhân liên quan gửi đề nghị kế hoạch xây dựng QCĐP cho năm sau bằng văn bản đến Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương kèm theo dự án xây dựng QCĐP để xem xét, tổng hợp. Đề nghị kế hoạch xây dựng QCĐP và nội dung thực hiện theo Mẫu quy định tại Phụ lục III ban hành kèm theo Thông tư này. Lập dự án xây dựng QCĐP thực hiện theo Mẫu quy định tại Phụ lục IV ban hành kèm theo Thông tư này.\nc) Ủy ban nhân dân tỉnh, thành phố trực\nthuộc Trung ương tổ chức xem xét dự án QCĐP với sự tham gia của đại diện các bộ, ngành và các sở, ban, ngành có liên quan của địa phương. Tùy theo nội dung, mức độ phức tạp, quy mô ảnh hưởng của đối tượng xây dựng QCĐP, Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương quyết định mời đại diện của bộ, cơ quan ngang bộ liên quan trực tiếp tham gia xem xét dự án hoặc có ý kiến bằng văn bản.\nd) Ủy ban nhân dân tỉnh, thành phố trực\nthuộc Trung ương tổ chức lập dự thảo kế hoạch xây dựng QCĐP cho năm sau. Lập dự thảo kế hoạch xây dựng QCĐP thực hiện theo Mẫu quy định tại Phụ lục III ban hành kèm theo Thông tư này.\n2. Lấy ý kiến và hoàn chỉnh dự thảo kế\nhoạch xây dựng QCĐP\na) Ủy ban nhân dân tỉnh, thành phố trực\nthuộc Trung ương gửi dự thảo kế hoạch đến bộ quản lý chuyên ngành và các cơ quan, tổ chức, cá nhân liên quan để lấy ý kiên, thông báo về việc lấy ý kiến trên Cổng thông tin điện tử hoặc tạp chí, ấn phẩm chính thức của Ủy ban nhân dân tỉnh, thành phố hoặc cơ quan tham mưu, giúp việc Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương quản lý khoa học và công nghệ trên địa bản. Thời gian lấy ý kiến về dự thảo ít nhất 30 (ba mươi) ngày, kể từ ngày gửi dự thảo đi lấy ý kiến.\nb) Cơ quan tham mưu, giúp việc Ủy ban\nnhân dân tỉnh, thành phố trực thuộc Trung ương quản lý khoa học và công nghệ trên địa bản tổ chức tổng hợp, xử lý các ý kiến góp ý để hoàn chỉnh dự thảo kế hoạch xây dựng QCĐP.\n3. Phê duyệt kế hoạch xây dựng QCĐP\na) Xem xét, phê duyệt kế hoạch xây dựng\nQCĐP thực hiện vào quý IV của năm trước năm kế hoạch, kết hợp với xem xét, phê duyệt kế hoạch khoa học và công nghệ của Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương và theo hướng dẫn chung về kế hoạch khoa học và công nghệ hằng năm của Bộ Khoa học và Công nghệ.\nb) Ủy ban nhân dân tỉnh, thành phố trực\nthuộc Trung ương tổ chức xem xét, phê duyệt kế hoạch xây dựng QCĐP sau khi có ý kiến của Bộ Khoa học và Công nghệ để bảo đảm tính thông nhất, đồng bộ của hệ thông quy chuẩn kỹ thuật (công văn gửi Bộ Khoa học và Công nghệ có kèm theo ý kiến của bộ quản lý chuyên ngành).\nc) Thông báo đến các bộ, ngành, cơ\nquan, tổ chức có liên quan, cơ quan thực hiện hoạt động TBT ở địa phương về hàng rào kỹ thuật trong thương mại và công khai trên Cổng thông tin điện tử hoặc tạp chí, ấn phẩm chính thức của Ủy ban nhân dân tỉnh, thành phố hoặc cơ quan tham mưu, giúp việc Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương quản lý khoa học và công nghệ trên địa bàn trong thời hạn không quá 30 (ba mươi) ngày, kể từ ngày kế hoạch được phê duyệt.\n4. Thực hiện kế hoạch xây dựng QCĐP\nỦy ban nhân dân tỉnh, thành phố trực thuộc Trung ương tổ chức thực hiện kế hoạch đã được phê duyệt; định kỳ quý IV hằng năm hoặc đột xuất theo yêu cầu, thông báo cho Bộ Khoa học và Công nghệ thông qua Tổng cục Tiêu chuẩn Đo lường Chất lượng về tình hình và kết quả thực hiện kế hoạch xây dựng QCĐP để tổng hợp, báo cáo Chính phủ.\n5. Điều chỉnh, bổ sung kế hoạch xây dựng\nQCĐP\na) Kế hoạch xây dựng QCĐP có thể điều\nchỉnh, bổ sung hoặc rút khỏi kế hoạch theo đề nghị bằng văn bản của các cơ quan, tổ chức và cá nhân liên quan. Nội dung điều chỉnh, bổ sung kế hoạch bao gồm: tiến độ, đối tượng, nội dung của QCĐP, kinh phí thực hiện.\nb) Đề nghị điều chỉnh, bổ sung kế hoạch\nxây dựng QCĐP thực hiện trước thời điểm kết thúc nhiệm vụ kế hoạch được đề nghị ít nhất 06 (sáu) tháng. Trình tự điều chỉnh, bổ sung kế hoạch xây dựng QCĐP thực hiện theo quy định tại khoản 2 và khoản 3 Điều này. Trường hợp do yêu cầu cấp thiết của quản lý nhà nước tại địa phương, trình tự điều chỉnh, bổ sung kế hoạch hằng năm được rút ngắn để bảo đảm đáp ứng kịp thời yêu cầu quản lý nhà nước theo quyết định của Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương chủ trì lập và phê duyệt kế hoạch.",
+                "clauses": [],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:299084:part:1:chapter:3",
+            "number": "III",
+            "title": "XÂY DỰNG, THẨM ĐỊNH VÀ BAN HÀNH QUY CHUẨN KỸ THUẬT",
+            "content": "Chương III\nXÂY\nDỰNG, THẨM ĐỊNH VÀ BAN HÀNH QUY CHUẨN KỸ THUẬT",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:299084:part:1:article:7",
+                "number": "7",
+                "title": "Trình tự, thủ tục xây dựng, thẩm định và ban hành QCVN",
+                "content": "Điều 7. Trình tự, thủ tục xây dựng, thẩm định và ban hành QCVN\n1. Bước 1: thành lập ban soạn thảo\na) Tuỳ theo điều kiện cụ thể, các bộ,\ncơ quan ngang bộ, thành lập ban soạn thảo QCVN hoặc chỉ định cơ quan, tổ chức khoa học và công nghệ trực thuộc (sau đây viết tắt là ban soạn thảo) để xây dựng\nQCVN.\nb) Ban soạn thảo cần có sự tham gia của\nđại diện bộ, ngành, các tổ chức có liên quan và các chuyên gia.\n2. Bước 2: biên soạn dự thảo QCVN\na) Chuẩn bị biên soạn dự thảo\na1) Thu thập, tổng hợp, đánh giá tình hình thực hiện các văn bản quy phạm pháp luật liên quan đến dự án xây dựng\nQCVN.\na2) Khảo sát, đánh giá thực trạng quản lý nhà nước và mức độ rủi ro liên quan đến đối tượng quản lý và nội dung chính của dự án xây dựng QCVN. a3) Tổ chức nghiên cứu thông tin, tư liệu các cam kết quốc tế có liên quan đến dự án xây dựng QCVN. a4) Chuẩn bị và thông qua đề cương chi tiết triển khai dự án xây dựng QCVN kèm theo khung nội dung dự thảo QCVN. a5) Đề nghị với Bộ Tài chính (thông qua Tổng cục Hải quan) phối hợp rà soát, xác định mã số HS cho đối tượng sản phẩm, hàng hóa dự kiến thuộc pham vi điều chỉnh của QCVN. a6) Công tác khác có liên quan.\nb) Triển khai biên soạn dự thảo QCVN\nb1) Biên soạn dự thảo trên cơ sở khung nội dung dự thảo đã được ban soạn thảo thống nhất và viết thuyết minh. b2) Tổng hợp, nghiên cứu tài liệu kỹ thuật; đánh giá thực trạng, tiến hành lấy mẫu phân tích, thử nghiệm, khảo nghiệm, áp dụng thử (nếu có) để xác định các mức giới hạn của đặc tính kỹ thuật; phân tích, đánh giá mức độ rủi ro của đối tượng quản lý để xác định phương thức quản lý phù hợp trong dự thảo QCVN. b3) Xác định mã HS ở cấp độ chi tiết (8 số) cho đối tượng quản lý là sản phẩm, hàng hóa nhóm 2. b4) Tổ chức hội thảo chuyên đề với sự tham gia của các cơ quan, tổ chức, chuyên gia liên quan (ưu tiên mời các hiệp hội, ngành hàng, doanh nghiệp, người dân... là những đối tượng chịu tác động trực tiếp của quy chuẩn kỹ thuật) để minh bạch thông tin, lấy ý kiến góp ý đối với dự thảo\nQCVN.\nb5) Nghiên cứu, tiếp thu ý kiến, chỉnh sửa dự thảo, trình bộ, cơ quan ngang bộ xây dựng QCVN để xem xét gửi lấy ý kiến cơ quan, tổ chức, cá nhân liên quan.\n3. Bước 3: lấy ý kiến và hoàn chỉnh dự\nthảo QCVN\na) Bộ, cơ quan ngang bộ tổ chức xem\nxét dự thảo a1) Gửi dự thảo QCVN kèm theo thuyết minh đến các cơ quan, tổ chức, cá nhân liên quan để lấy ý kiến (gửi lấy ý kiến các cơ quan, tổ chức, cá nhân là đối tượng trực tiếp chịu tác động của dự thảo\nQCVN).\nTrong trường hợp QCVN được ban hành có khả năng ảnh hưởng thương mại quốc tế, bộ, cơ quan ngang bộ gửi dự thảo QCVN đến Văn phòng TBT Việt Nam để xác định sự cần thiết thông báo cho WTO theo quy định tại Thông tư số 16/2018/TT-BKHCN ngày 29 tháng 11 năm 2018 của Bộ trưởng Bộ Khoa học và Công nghệ quy định hoạt động, phối hợp trong mạng lưới các Cơ quan Thông báo và Hỏi đáp và Ban liên ngành về hàng rào kỹ thuật trong thương mại (sau đây viết tắt là Thông tư số 16/2018/TT-BKHCN). a2) Đồng thời với việc gửi dự thảo lấy ý kiến, thông báo về việc lấy ý kiến ưên Công thông tin điện tử hoặc tạp chí, ân phẩm chính thức của bộ, cơ quan ngang bộ xây dựng QCVN. Thời gian lấy ý kiến góp ý cho dự thảo ít nhất 60 (sáu mươi) ngày, kể từ ngày gửi dự thảo đi lấy ý kiến. Trong trường hợp cấp thiết liên quan đến sức khỏe, an toàn, môi trường, thời gian lấy ý kiến có thể ngắn hơn. Thời gian lấy ý kiến ngắn hơn thực hiện theo quyết định của Bộ trưởng, Thủ trưởng cơ quan ngang bộ xây dựng QCVN, nhưng không ngắn hơn 30 ngày.\nb) Trên cơ sở các ý kiến góp ý, ban soạn\nthảo xử lý, tiếp thu, hoàn chỉnh dự thảo QCVN và lập hồ sơ dự thảo QCVN theo quy định tại khoản 1 Điều 10 Nghị định số 127/2007/NĐ-CP được sửa đổi, bổ sung tại khoản 6 Điều 1 Nghị định số 78/2018/NĐ-CP.\nc) Báo cáo quá trình xây dựng, thuyết\nminh dự án phải có dấu xác nhận của cơ quan biên soạn.\nd) Các bộ, cơ quan ngang bộ xây dựng\nQCVN tổ chức thẩm tra, xem xét hồ sơ, nội dung dự thảo QCVN để báo đảm phù hợp với kế hoạch, dự án đã được phê duyệt và có công văn đề nghị thẩm định, trong đó xác nhận tính đầy đủ và hợp lệ của hồ sơ gửi Bộ Khoa học và Công nghệ thẩm định.\n4. Bước 4: thẩm định dự thảo QCVN\na) Bộ Khoa học và Công nghệ xem xét\ntính hợp lệ của hồ sơ dự thảo QCVN theo quy định tại khoản 1 Điều 10 Nghị định số 127/2007/NĐ-CP được sửa đổi, bổ sung tại khoản 6 Điều 1 Nghị định số 78/2018/NĐ-CP. Trường hợp hồ sơ không hợp lệ, Bộ Khoa học và Công nghệ chuyển hồ sơ đến bộ, cơ quan ngang bộ xây dựng QCVN để hoàn chỉnh hồ sơ.\nb) Tổ chức thẩm định dự thảo QCVN thực\nhiện theo quy định tại khoản 2 Điều 9 Nghị định số 127/2007/NĐ-CP được sửa đổi, bổ sung tại khoản 5 Điều 1 Nghị định số 78/2018/NĐ-CP.\nc) Trường hợp dự thảo QCVN có tính chất\nphức tạp, đối tượng quản lý thuộc phạm vi, thẩm quyền quản lý nhà nước của nhiều bộ, ngành, có ảnh hưởng lớn đến sản xuất kinh doanh, thương mại, dự thảo QCVN chưa lấy đủ ý kiến của các bộ, ngành có liên quan trực tiếp đến đối tượng quản lý, Bộ Khoa học và Công nghệ lấy ý kiến bổ sung hoặc đề nghị bộ, cơ quan ngang bộ xây dựng QCVN lấy ý kiến bổ sung.\nd) Trường hợp có sự chồng chéo, trùng\nlặp về phạm vi, đối tượng quản lý của dự thảo QCVN với hệ thống QCVN, có nhiều ý kiến góp ý không thống nhất với dự thảo QCVN gửi thẩm định. Bộ Khoa học và Công nghệ chuyển hồ sơ đến bộ, cơ quan ngang bộ xây dựng QCVN và thông báo rõ lý do để bộ, cơ quan ngang bộ xây dựng QCVN chỉnh lý nội dung dự thảo sau đó tiếp tục gửi thẩm định. Thời gian bộ, cơ quan ngang bộ xây dựng QCVN chỉnh lý nội dung dự thảo không tính vào thời gian thẩm định QCVN.\nđ) Trên cơ sở kết quả thẩm định, lập hồ\nsơ thẩm định dự thảo QCVN và thông báo bằng văn bản kết quả thẩm định đến các bộ, cơ quan ngang bộ xây dựng QCVN.\n5. Bước 5: ban hành QCVN\na) Trường hợp nhất trí với ý kiến thẩm\nđịnh của Bộ Khoa học và Công nghệ, bộ, cơ quan ngang bộ hoàn thiện dự thảo và ban hành QCVN trong thời hạn ba mươi ngày, kể từ ngày có ý kiến thẩm định;\nb) Trường hợp không nhất trí với ý kiến\nthẩm định của Bộ Khoa học và Công nghệ, bộ, cơ quan ngang bộ xây dựng QCVN báo cáo Thủ tướng Chính phủ xem xét, quyết định.\n6. Tổng cục Tiêu chuẩn Đo lường Chất\nlượng thuộc Bộ Khoa học và Công nghệ có trách nhiệm giúp Bộ trưởng Bộ Khoa học và Công nghệ tổ chức thực hiện Điều này.",
+                "clauses": [],
+                "points": []
+              },
+              {
+                "article_id": "doc:299084:part:1:article:8",
+                "number": "8",
+                "title": "Trình tự, thủ tục xây dựng, ban hành QCĐP",
+                "content": "Điều 8. Trình tự, thủ tục xây dựng, ban hành QCĐP\n1. Bước 1: thành lập ban soạn thảo\nTuỳ theo điều kiện cụ thể, Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương thành lập ban soạn thảo QCĐP hoặc chỉ định cơ quan chủ trì, phối hợp với các cơ quan tham mưu, giúp việc Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương liên quan của địa phương để xây dựng dự thảo QCĐP (sau đây viết tắt là ban soạn thảo).\n2. Bước 2: biên soạn dự thảo QCĐP\nBiên soạn dự thảo QCĐP, ban soạn thảo thực hiện theo trình tự quy định tại khoản 2 Điều 7 Thông tư này.\n3. Bước 3: lấy ý kiến và hoàn chỉnh dự\nthảo QCĐP\na) Ủy ban nhân dân tỉnh, thành phố trực\nthuộc Trung ương tổ chức xem xét hồ sơ, gửi dự thảo QCĐP đến các cơ quan, tổ chức, cá nhân liên quan để lấy ý kiến và gửi dự thảo đến cơ quan thông báo và điểm hỏi đáp của địa phương tương ứng để xác định sự cần thiết phải thông báo cho WTO theo quy định tại Thông tư số 16/2018/TT-BKHCN . a1) Đồng thời thông báo về việc lấy ý kiến QCĐP trên Cổng thông tin điện tử hoặc tạp chí, ấn phẩm chính thức của Ủy ban nhân dân và cơ quan tham mưu, giúp việc Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương chuyên ngành tương ứng tại địa phương. a2) Thời gian lấy ý kiến đối với dự thảo ít nhất 60 (sáu mươi) ngày, kể từ ngày gửi dự thảo lấy ý kiến. Trong trường hợp cấp thiết liên quan tới sức khỏe, an toàn, môi trường, thời gian lấy ý kiến có thể rút ngắn nhưng không ít hơn 30 (ba mươi) ngày theo quyết định của Chủ tịch Ủy ban nhân dân tỉnh, thành phố thuộc Trung ương có thẩm quyền ban hành QCĐP.\nb) Trên cơ sở ý kiến góp ý, ban soạn\nthảo hoàn chỉnh lại dự thảo QCĐP, lập hồ sơ dự thảo QCĐP theo quy định tại khoản 4 Điều này, trình Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương xem xét, quyết định.\nc) Ủy ban nhân dân tỉnh, thành phố trực\nthuộc Trung ương tổ chức thẩm tra hồ sơ dự thảo QCĐP để xem xét tính đầy đủ, hợp lệ của hồ sơ dự thảo QCĐP theo quy định tại khoản 4 Điều này và chuyển hồ sơ dự thảo QCĐP kèm theo biên bản thẩm tra đến bộ quản lý chuyên ngành tương ứng quy định tại khoản 1 Điều 23 Nghị định số 127/2007/NĐ-CP được sửa đổi, bổ sung tại khoản 7 Điều 1 Nghị định số 78/2018/NĐ-CP để tổ chức xem xét, cho ý kiến.\n4. Bước 4: xem xét, cho ý kiến về việc\nban hành QCĐP\na) Hồ sơ dự thảo QCĐP gồm:\na1) Quyết định giao nhiệm vụ xây dựng dự thảo QCĐP cho cơ quan, tổ chức kèm theo dự án xây dựng QCĐP đã được phê duyệt; a2) Báo cáo quá trình xây dựng dự thảo QCĐP của cơ quan, tổ chức xây dựng dự thảo QCĐP; a3) Dự thảo QCĐP, kèm theo thuyết minh; bản sao tài liệu gốc được sử dụng làm căn cứ để xây dựng dự thảo QCĐP và các tài liệu tham khảo khác; a4) Danh sách cơ quan được gửi dự thảo để lấy ý kiến; bản tổng hợp và tiếp thu ý kiến góp ý kèm theo văn bản góp ý; a5) Ý kiến của Bộ Khoa học và Công nghệ về quy định quản lý trong dự thảo QCĐP, bảo đảm không tạo ra rào cản kỹ thuật không cần thiết đối với hoạt động sản xuất kinh doanh, thương mại; a6) Biên bản thẩm tra hồ sơ có xác nhận của Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương; a7) Công văn đề nghị bộ quản lý chuyên ngành cho ý kiến đối với dự thảo QCĐP.\nb) Bộ, cơ quan ngang bộ xem xét tính hợp\nlệ của hồ sơ dự thảo QCĐP. Trường hợp hồ sơ không hợp lệ, bộ, cơ quan ngang bộ chuyển hồ sơ đến Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương để hoàn chính hồ sơ.\nc) Xem xét nội dung dự thảo QCĐP\nc1) Sự phù hợp với quy định của pháp luật và cam kết quốc tế liên quan. c2) Tính thống nhất, đồng bộ trong hệ thống quy chuẩn kỹ thuật của Việt Nam. c3) Không chồng chéo về quy định kỹ thuật, yêu cầu quản lý hay vi phạm các quy định của QCVN tương ứng. c4) Không tạo ra rào cản kỹ thuật không cần thiết đối với sản xuất kinh doanh và lưu thông sản phẩm, hàng hóa, dịch vụ giữa các tỉnh, thành phố. c5) Tuân thủ các yêu cầu nghiệp vụ, trình tự, thủ tục xây dựng QCĐP. C6) Các quy định khác trong QCĐP.\nd) Thông báo bằng văn bản ý kiến về việc\nban hành QCĐP.\n5. Bước 4: ban hành QCĐP\na) Trường hợp bộ, cơ quan ngang bộ có\ný kiến đồng ý với việc ban hành QCĐP, Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương ban hành QCĐP.\nb) Trường hợp bộ, cơ quan ngang bộ có\ný kiến không đồng ý với việc ban hành QCĐP, ban soạn thảo tổ chức nghiên cứu, xem xét các ý kiến không nhất trí để xử lý, chỉnh lý dự thảo, lập lại hồ sơ dự thảo QCĐP và gửi lấy ý kiến lại của bộ, cơ quan ngang bộ theo quy định tại điểm c khoản 3 Điều này. Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương ban hành QCĐP sau khi có ý kiến đồng ý của bộ, cơ quan ngang bộ được phân công quản lý lĩnh vực quy chuẩn kỹ thuật tương ứng.",
+                "clauses": [],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:299084:part:1:chapter:4",
+            "number": "IV",
+            "title": "RÀ SOÁT, SỬA ĐỔI, BỔ SUNG, THAY THẾ, HỦY BỎ QUY CHUẨN KỸ THUẬT",
+            "content": "Chương IV\nRÀ\nSOÁT, SỬA ĐỔI, BỔ SUNG, THAY THẾ, HỦY BỎ QUY CHUẨN KỸ THUẬT",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:299084:part:1:article:9",
+                "number": "9",
+                "title": "Rà soát định kỳ QCVN Bộ, cơ quan ngang bộ giao cơ quan đầu mối tổ chức thực hiện rà soát định kỳ QCVN năm (05) năm theo lĩnh vực được Chính phủ phân công quản lý quy định tại khoản 1 Điều 23 Nghị định số 127/2007/NĐ-CP, được sửa đổi, bổ sung tại khoản 7 Điều 1 Nghị định số 78/2018/NĐ-CP.",
+                "content": "Điều 9. Rà soát định kỳ QCVN Bộ, cơ quan ngang bộ giao cơ quan đầu mối tổ chức thực hiện rà soát định kỳ QCVN năm (05) năm theo lĩnh vực được Chính phủ phân công quản lý quy định tại khoản 1 Điều 23 Nghị định số 127/2007/NĐ-CP, được sửa đổi, bổ sung tại khoản 7 Điều 1 Nghị định số 78/2018/NĐ-CP.",
+                "clauses": [
+                  {
+                    "clause_id": "doc:299084:part:1:article:9:clause:1",
+                    "number": "1",
+                    "content": "1. Trình tự, thủ tục rà soát định kỳ\nQCVN",
+                    "points": [
+                      {
+                        "point_id": "doc:299084:part:1:article:9:clause:1:point:1",
+                        "label": "a",
+                        "content": "a) Cơ quan đầu mối lập danh mục các\nQCVN đến kỳ hạn phải rà soát theo quy định tại khoản 1 Điều 35 Luật Tiêu chuẩn và Quy chuẩn kỹ thuật năm 2006.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:299084:part:1:article:9:clause:1:point:2",
+                        "label": "b",
+                        "content": "b) Cơ quan đầu mối thực hiện việc rà\nsoát QCVN theo các tiêu chí quy định tại khoản 1,2 Điều 33 Luật Tiêu chuẩn và Quy chuẩn kỹ thuật năm 2006 và các tiêu chí khác có liên quan.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:299084:part:1:article:9:clause:1:point:3",
+                        "label": "c",
+                        "content": "c) Lập danh mục kết quà rà soát kèm\ntheo bản giải trình, bao gồm: danh mục QCVN giữ nguyên hiệu lực; danh mục QCVN cần sửa đổi, bổ sung hoặc thay thế và danh mục QCVN cần hủy bỏ. Trong từng danh mục, các quy chuẩn kỹ thuật đã được rà soát được sắp xếp theo thứ tự ưu tiên.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:299084:part:1:article:9:clause:2",
+                    "number": "2",
+                    "content": "2. Cơ quan đầu mối lập hồ sơ rà soát\nQCVN chuẩn bị báo cáo kết quả rà soát và kiến nghị đưa vào kế hoạch sửa đổi, bổ sung hoặc thay thế, hủy bỏ QCVN trình bộ, cơ quan ngang bộ phê duyệt kế hoạch xây dựng QCVN xem xét.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:299084:part:1:article:9:clause:3",
+                    "number": "3",
+                    "content": "3. Trường hợp do yêu cầu cấp thiết của\nquản lý nhà nước, Bộ trưởng, Thủ trưởng cơ quan ngang bộ quyết định tổ chức rà soát QCVN sớm hơn định kỳ năm (05) năm hoặc đột xuất.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:299084:part:1:article:10",
+                "number": "10",
+                "title": "Sửa đổi, bổ sung hoặc thay thế quy chuẩn kỹ thuật",
+                "content": "Điều 10. Sửa đổi, bổ sung hoặc thay thế quy chuẩn kỹ thuật",
+                "clauses": [
+                  {
+                    "clause_id": "doc:299084:part:1:article:10:clause:1",
+                    "number": "1",
+                    "content": "1. Sửa đổi, bổ sung, thay thế quy chuẩn\nkỹ thuật được đưa vào kế hoạch hằng năm về xây dựng quy chuẩn kỹ thuật.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:299084:part:1:article:10:clause:2",
+                    "number": "2",
+                    "content": "2. Bộ, cơ quan ngang bộ, Ủy ban nhân dân\ntỉnh, thành phố trực thuộc Trung ương tổ chức xem xét, sửa đổi, bổ sung hoặc thay thế quy chuẩn kỹ thuật theo trình tự, thủ tục tương ứng quy định tại Điều 32 Luật Tiêu chuẩn và Quy chuẩn kỹ thuật năm 2006 và quy định tại Chương III Thông tư này.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:299084:part:1:article:11",
+                "number": "11",
+                "title": "Hủy bỏ Quy chuẩn kỹ thuật",
+                "content": "Điều 11. Hủy bỏ Quy chuẩn kỹ thuật",
+                "clauses": [
+                  {
+                    "clause_id": "doc:299084:part:1:article:11:clause:1",
+                    "number": "1",
+                    "content": "1. Hủy bỏ QCVN",
+                    "points": [
+                      {
+                        "point_id": "doc:299084:part:1:article:11:clause:1:point:1",
+                        "label": "a",
+                        "content": "a) Hủy bỏ QCVN thực hiện theo quy định\ntại điểm a khoản 3 Điều 35 Luật Tiêu chuẩn và Quy chuẩn kỹ thuật năm 2006.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:299084:part:1:article:11:clause:1:point:2",
+                        "label": "b",
+                        "content": "b) Cơ quan đầu mối quy định tại khoản 2 Điều 21 Nghị định số 127/2007/NĐ-CP lập hồ sơ hủy bỏ\nQCVN, thành phần hồ sơ gồm: bl) Bản QCVN đề nghị hủy bỏ; b2) Bản thuyết minh (lý do, cơ sở pháp lý, cơ sở khoa học); b3) Ý kiến của cơ quan, tổ chức, cá nhân liên quan (nếu có); b4) Kết quả rà soát định kỳ và kiến nghị; b5) Văn bản đề nghị hủy bỏ QCVN; b6) Ý kiến thẩm định của Bộ Khoa học và Công nghệ; b7) Các tài liệu khác liên quan (nếu có).",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:299084:part:1:article:11:clause:2",
+                    "number": "2",
+                    "content": "2. Hủy bỏ QCĐP",
+                    "points": [
+                      {
+                        "point_id": "doc:299084:part:1:article:11:clause:2:point:1",
+                        "label": "a",
+                        "content": "a) Hủy bỏ QCĐP do cơ quan được Ủy ban\nnhân dân tỉnh, thành phố trực thuộc Trung ương giao chủ trì xây dựng QCĐP đó tiến hành theo quy định tại điểm b khoản 3 Điều 35 Luật Tiêu chuẩn và Quy chuẩn kỹ thuật năm 2006.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:299084:part:1:article:11:clause:2:point:2",
+                        "label": "b",
+                        "content": "b) Hủy bỏ QCĐP lập thành hồ sơ, thành\nphần hồ sơ gồm: b1) Bản QCĐP đề nghị hủy bỏ; b2) Bản thuyết minh (lý do, cơ sở pháp lý, cơ sở khoa học); b3) Ý kiến của cơ quan, tổ chức, cá nhân liên quan (nếu có); b4) Kết quả rà soát định kỳ và kiến nghị; b5) Văn bản đề nghị hủy bỏ QCĐP; b6) Ý kiến của bộ, cơ quan ngang bộ quản lý lĩnh vực QCVN tương ứng; b7) Các tài liệu khác liên quan (nếu có).",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:299084:part:1:article:11:clause:3",
+                    "number": "3",
+                    "content": "3. Trường hợp do yêu\ncầu cấp thiết của quản lý nhà nước, Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương ban hành QCĐP quyết định việc sửa đổi, bổ sung, thay thế hoặc hủy bỏ QCĐP theo thủ tục, quy trình rút ngắn trên cơ sở bảo đảm tính khả thi, cơ sở khoa học và kinh phí cần thiết cho việc triển khai thực hiện.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:299084:part:1:chapter:5",
+            "number": "V",
+            "title": "TRÌNH BÀY VÀ THỂ HIỆN NỘI DUNG QUY CHUẨN KỸ THUẬT",
+            "content": "Chương V\nTRÌNH\nBÀY VÀ THỂ HIỆN NỘI DUNG QUY CHUẨN KỸ THUẬT",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:299084:part:1:article:12",
+                "number": "12",
+                "title": "Bố cục quy chuẩn kỹ thuật",
+                "content": "Điều 12. Bố cục quy chuẩn kỹ thuật",
+                "clauses": [
+                  {
+                    "clause_id": "doc:299084:part:1:article:12:clause:1",
+                    "number": "1",
+                    "content": "1. Quy định chung",
+                    "points": [
+                      {
+                        "point_id": "doc:299084:part:1:article:12:clause:1:point:1",
+                        "label": "a",
+                        "content": "a) Phạm vi điều chỉnh\nĐối với sản phẩm, hàng hóa phải kèm theo mã HS ở cấp độ chi tiết (8 số). Trường hợp quy chuẩn kỹ thuật điều chỉnh nhóm đối tượng gồm nhiều sản phẩm, hàng hóa thì mã HS được thể hiện tại phụ lục của quy chuẩn kỹ thuật kèm theo danh mục các sản phẩm, hàng hóa tương ứng, thực hiện theo quy định tại Phụ lục VII ban hành kèm theo Thông tư này.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:299084:part:1:article:12:clause:1:point:2",
+                        "label": "b",
+                        "content": "b) Đối tượng áp dụng.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:299084:part:1:article:12:clause:1:point:3",
+                        "label": "c",
+                        "content": "c) Giải thích từ ngữ (nếu có).",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:299084:part:1:article:12:clause:2",
+                    "number": "2",
+                    "content": "2. Quy định về kỹ thuật",
+                    "points": [
+                      {
+                        "point_id": "doc:299084:part:1:article:12:clause:2:point:1",
+                        "label": "a",
+                        "content": "a) Viện dẫn QCVN, tiêu chuẩn quốc gia,\ntiêu chuẩn quốc tế, tiêu chuẩn khu vực, tiêu chuẩn nước ngoài hoặc đưa ra yêu cầu kỹ thuật cụ thể về mức giới hạn của đặc tính kỹ thuật mà đối tượng của quy chuẩn kỹ thuật phải tuân thủ để bảo đảm an toàn, vệ sinh, sức khoẻ con người; bảo vệ động vật, thực vật, môi trường; bảo vệ lợi ích và an ninh quốc gia, quyền lợi của người tiêu dùng.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:299084:part:1:article:12:clause:2:point:2",
+                        "label": "b",
+                        "content": "b) Quy định về yêu cầu kỹ thuật,\nphương pháp thử cụ thể, đánh giá được bằng các phương tiện hiện có ở trong nước hoặc nước ngoài; không quy định chung chung, đa nghĩa, dẫn đến việc có thể hiểu hay diễn giải theo nhiều cách khác nhau. Ví dụ: phương pháp thử chấp nhận các tiêu chuẩn có độ chính xác tương đương hoặc cao hơn.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:299084:part:1:article:12:clause:2:point:3",
+                        "label": "c",
+                        "content": "c) Trường hợp một yêu cầu kỹ thuật\nnhưng cho phép nhiều phương pháp thử nghiệm khác nhau thì quy định rõ phương pháp thử nào là phương pháp trọng tài để xử lý trường hợp có tranh chấp, khiếu nại, khiếu kiện.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:299084:part:1:article:12:clause:3",
+                    "number": "3",
+                    "content": "3. Quy định về quản lý",
+                    "points": [
+                      {
+                        "point_id": "doc:299084:part:1:article:12:clause:3:point:1",
+                        "label": "a",
+                        "content": "a) Thể hiện cụ thể phương thức quản lý\nthích hợp đối với đối tượng của quy chuẩn kỹ thuật như sau: a1) Quy định phương thức đánh giá sự phù hợp theo hướng dẫn của Bộ Khoa học và Công nghệ, các quy định khác có liên quan; a2) Quy định về công bố hợp quy (nêu rõ cơ sở để công bố hợp quy là kết quả đánh giá sự phù hợp của tổ chức chứng nhận, giám định, phòng thử nghiệm đã đăng ký hoạt động, được chỉ định hoặc được công nhận); a3) Phương thức kiểm tra; a4) Quy định các hình thức quản lý khác (ví dụ: quy định về việc ghi nhãn, truy xuất nguồn gốc, kiểm tra trên thị trường,...); a5) Phương pháp thử, phương pháp lấy mẫu; a6) Các nội dung khác.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:299084:part:1:article:12:clause:3:point:2",
+                        "label": "b",
+                        "content": "b) Trường hợp QCĐP được xây dựng trên\ncơ sở quy định giao quyền tại QCVN tương ứng, thì QCĐP bảo đảm các yêu cầu sau: b1) Phần quy định chung, quy định về kỹ thuật (phạm vi điều chỉnh, đối tượng áp dụng, giải thích từ ngữ, chỉ tiêu kỹ thuật cụ thể) phạm vi điều chỉnh trên cơ sở các điều khoản giao quyền tại QCVN tương ứng, đồng thời phù hợp với đặc điểm địa lý, khí hậu, thủy văn, trình độ phát triển kinh tế - xã hội của địa phương; b2) Quy định về quản lý (phương thức đánh giá sự phù hợp; thử nghiệm, chứng nhận, giám định; công bố hợp quy; công bố tiêu chuẩn áp dụng; đăng ký, chỉ định, công nhận tổ chức đánh giá sự phù hợp và các nội dung quản lý khác...) thực hiện theo quy định tại QCVN giao quyền tương ứng; b3) Ký hiệu trên dấu hợp quy của QCĐP xây dựng trên cơ sở quy định giao quyền từ QCVN tương ứng được in phía dưới dấu CR gồm số, ký hiệu của QCVN; số, ký hiệu của QCĐP (ghi thành 2 dòng riêng biệt) thực hiện theo quy định tại Phụ lục IX ban hành kèm theo Thông tư này. Ví dụ:\nQCVN 01-1:2018/BYT QCĐP 01:2020/XXX\nс) Trường hợp QCĐP có nội dung không thống nhất với quy định tại điểm b khoản này, cần có ý kiến thống nhất của Bộ Khoa học và Công nghệ, bộ quản lý chuyên ngành để không tạo ra rào cản kỹ thuật không cần thiết đối với sản xuất, kinh doanh, thương mại tại địa phương.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:299084:part:1:article:12:clause:4",
+                    "number": "4",
+                    "content": "4. Các quy định quản lý khác có liên\nquan Ví dụ: các yêu cầu mang tính đặc thù liên quan đến quản lý, sử dụng, vận hành đối với đối tượng quản lý của quy chuẩn kỹ thuật và các yêu cầu khác.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:299084:part:1:article:12:clause:5",
+                    "number": "5",
+                    "content": "5. Trách nhiệm của tổ chức, cá nhân.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:299084:part:1:article:12:clause:6",
+                    "number": "6",
+                    "content": "6. Tổ chức thực hiện.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:299084:part:1:article:12:clause:7",
+                    "number": "7",
+                    "content": "7. Phụ lục (nếu có)",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:299084:part:1:article:12:clause:8",
+                    "number": "8",
+                    "content": "8. Tuỳ theo đối tượng quản lý của quy\nchuẩn kỹ thuật và yêu cầu quản lý riêng, nội dung của quy chuẩn kỹ thuật có thể giảm bớt hoặc bổ sung cho phù hợp, bảo đảm tính minh bạch và khả thi trong quản lý nhà nước.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:299084:part:1:article:13",
+                "number": "13",
+                "title": "Trình bày quy chuẩn kỹ thuật",
+                "content": "Điều 13. Trình bày quy chuẩn kỹ thuật",
+                "clauses": [
+                  {
+                    "clause_id": "doc:299084:part:1:article:13:clause:1",
+                    "number": "1",
+                    "content": "1. Kỹ thuật trình bày quy chuẩn kỹ thuật\nbảo đảm tính hệ thống, hiệu lực pháp lý, không trái với quy định pháp luật và cam kết quốc tế có liên quan. Ngôn ngữ của quy chuẩn kỹ thuật bảo đàm thống nhất, chính xác, phổ thông; cách diễn đạt bảo đảm đơn giản, dễ hiểu. Sử dụng thuật ngữ chuyên môn cần xác định rõ nội dung, được giải thích rõ nghĩa trong quy chuẩn kỹ thuật.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:299084:part:1:article:13:clause:2",
+                    "number": "2",
+                    "content": "2. Trang bìa quy chuẩn kỹ thuật",
+                    "points": [
+                      {
+                        "point_id": "doc:299084:part:1:article:13:clause:2:point:1",
+                        "label": "a",
+                        "content": "a) Trình bày trang bìa quy chuẩn kỹ\nthuật thực hiện theo Mẫu quy định tại Phụ lục V ban hành kèm theo Thông tư này, bảo đảm các yếu tố sau: a1) Hình quốc huy nước Cộng hoà xã hội chủ nghĩa Việt Nam được thể hiện theo quy định của pháp luật về quốc huy; a2) Dòng chữ “CỘNG HÒA XÂ HỘI CHỦ\nNGHĨA VIỆT NAM”;\nа3) Ký hiệu đầy đủ của quy chuẩn kỹ thuật thực hiện theo quy định tại Điều 8 Nghị định số\n127/2007/NĐ-CP;\na4) Quy chuẩn kỹ thuật ban hành mới: số hiệu văn bản đánh theo lũy tiến, quy chuẩn kỹ thuật ban hành các năm tiếp theo không đánh số lặp lại của năm trước. Ví dụ:\nQCVN 01:2016/XXX; QCVN 02:2016/XXX; QCVN 03:2016/XXX; QCVN 04:2017/XXX;...);\na5) Quy chuẩn kỹ thuật sửa đổi, bổ sung: đánh số hiệu của quy chuẩn kỹ thuật theo số lần sửa đổi và năm ban hành sửa đổi bổ sung, giữ nguyên số, ký hiệu của quy chuẩn kỹ thuật cũ (ví dụ sửa đổi 01:2016 QCVN 04:2009/XXX được hiểu là: QCVN 04:2009/XXX được sửa đổi, bổ sung lần thứ nhất vào năm 2016); a6) Quy chuẩn kỹ thuật thay thế: giữ nguyên số hiệu của quy chuẩn kỹ thuật chỉ thay đổi năm ban hành (ví dụ quy chuẩn kỹ thuật QCVN 03:2019/XXX về an toàn đồ chơi trẻ em thay thế QCVN 03:2009/XXX về an toàn đồ chơi trẻ em); a7) Dòng chữ “Quy chuẩn kỹ thuật quốc gia” hoặc “Quy chuẩn kỹ thuật địa phương”; a8) Tên gọi của quy chuẩn kỹ thuật; a9) Tên gọi đầy đủ của quy chuẩn kỹ thuật bằng tiếng Anh; a10) Địa điểm và năm ban hành quy chuẩn kỹ thuật.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:299084:part:1:article:13:clause:2:point:2",
+                        "label": "b",
+                        "content": "b) Tên viết tắt tên bộ, cơ quan ngang\nbộ, Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương ban hành quy chuẩn kỹ thuật thực hiện theo quy định tại Phụ lục VI ban hành kèm theo Thông tư này.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:299084:part:1:article:13:clause:2:point:3",
+                        "label": "c",
+                        "content": "c) Trang 2 của quy chuẩn kỹ thuật là\ntrang thể hiện lời nói đầu, bảo đảm các thông tin: tổ chức biên soạn dự thảo quy chuẩn kỹ thuật, cơ quan trình duyệt, cơ quan thẩm định và cơ quan ban hành quy chuẩn kỹ thuật, thông tư/quyết định ban hành quy chuẩn kỹ thuật và các nội dung khác có liên quan đến việc xây dựng và ban hành quy chuẩn kỹ thuật. Ví dụ: thể hiện lời nói đầu thực hiện theo quy định tại Phụ lục V ban hành kèm theo Thông tư này.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:299084:part:1:article:13:clause:3",
+                    "number": "3",
+                    "content": "3. Khoảng trống đầu trang (header) của\ncác trang nội dung quy chuẩn kỹ thuật (trừ trang 3) in ký hiệu đầy đủ của quy chuẩn kỹ thuật tại vị trí phía bên phải của trang đối với các trang lẻ và phía bên trái của trang đối với các trang chẵn. Kiểu chữ của ký hiệu in hoa, in đậm theo phông chữ Arial, cỡ chữ 12 của bộ mã ký tự chữ Việt (phông chữ tiếng Việt Unicode).",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:299084:part:1:article:13:clause:4",
+                    "number": "4",
+                    "content": "4. Nguyên tắc đánh số\nthứ tự các hạng mục nội dung của quy chuẩn kỹ thuật thực hiện theo quy định tương ứng tại Nghị định số 30/2020/NĐ-CP ngày 05 tháng 3 năm 2020 của Chính phủ về công tác văn thư.",
+                    "points": [
+                      {
+                        "point_id": "doc:299084:part:1:article:13:clause:4:point:1",
+                        "label": "a",
+                        "content": "a) Tùy theo mức độ phức tạp của đối tượng\nquản lý, nội dung quy định kỹ thuật, kết cấu của quy chuẩn kỹ thuật cơ bản được bố cục như sau: a1) Phần, chương, mục, điều, điểm, đoạn,",
+                        "children": []
+                      }
+                    ]
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:299084:part:1:article:14",
+                "number": "1",
+                "title": "Điểm (cấp 1) 1.1 Điểm (cấp 2) 1.1.1 Điểm (cấp 3) 1.1.1.1 Điểm (cấp 4) 1.1.1.1.1 Điểm (cấp 5) 1.1.1.1.1.1 Đoạn Không đánh số, sử dụng chữ hoặc dấu, ví dụ: a, b... hoặc +...",
+                "content": "Điều 1 Điểm (cấp 1) 1.1 Điểm (cấp 2) 1.1.1 Điểm (cấp 3) 1.1.1.1 Điểm (cấp 4) 1.1.1.1.1 Điểm (cấp 5) 1.1.1.1.1.1 Đoạn Không đánh số, sử dụng chữ hoặc dấu, ví dụ: a, b... hoặc +...",
+                "clauses": [],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:299084:part:1:chapter:6",
+            "number": "VI",
+            "title": "THÔNG BÁO, PHỔ BIẾN, ĐĂNG KÝ, XUẨT BẢN, PHÁT HÀNH QUY CHUẨN KỸ THUẬT",
+            "content": "Chương VI\nTHÔNG\nBÁO, PHỔ BIẾN, ĐĂNG KÝ, XUẨT BẢN, PHÁT HÀNH QUY CHUẨN KỸ THUẬT",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:299084:part:1:article:15",
+                "number": "14",
+                "title": "Thông báo, phổ biến, đăng ký, xuất bản, phát hành quy chuẩn kỹ thuật",
+                "content": "Điều 14. Thông báo, phổ biến, đăng ký, xuất bản, phát hành quy chuẩn kỹ thuật",
+                "clauses": [
+                  {
+                    "clause_id": "doc:299084:part:1:article:15:clause:1",
+                    "number": "1",
+                    "content": "1. Hoạt động thông báo, phổ biến, đăng\nký, xuất bản, phát hành quy chuẩn kỹ thuật thực hiện theo quy định tại Điều 36 Luật Tiêu chuẩn và Quy chuẩn kỹ thuật năm 2006.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:299084:part:1:article:15:clause:2",
+                    "number": "2",
+                    "content": "2. Bộ, cơ quan ngang bộ, Ủy ban nhân\ndân tỉnh, thành phố trực thuộc Trung ương ban hành quy chuẩn kỹ thuật có trách nhiệm thông báo về việc ban hành, sửa đổi, bổ sung, thay thế, hủy bỏ quy chuẩn kỹ thuật trên công báo, trên Cổng thông tin điện tử hoặc tạp chí, ấn phẩm chính thức của cơ quan trong thời hạn 30 (ba mươi) ngày, kể từ ngày quy chuẩn kỹ thuật được ban hành, sửa đổi, bổ sung hoặc thay thế, hủy bỏ.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:299084:part:1:article:15:clause:3",
+                    "number": "3",
+                    "content": "3. Bộ, cơ quan ngang bộ, Ủy ban nhân\ndân tỉnh, thành phố trực thuộc Trung ương ban hành quy chuẩn kỹ thuật có trách nhiệm lập kế hoạch triền khai việc phổ biến, hướng dẫn áp dụng quy chuẩn kỹ thuật. Triển khai phổ biển, hướng dẫn áp dụng quy chuẩn kỹ thuật thực hiện ngay sau khi quy chuẩn kỹ thuật được ban hành đối với các cơ quan, tổ chức, cá nhân có liên quan thông qua các lớp tập huấn, hội nghị, hội thảo và các hình thức phù hợp khác.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:299084:part:1:article:15:clause:4",
+                    "number": "4",
+                    "content": "4. Thủ tục đăng ký\nquy chuẩn kỹ thuật đã ban hành thực hiện theo quy định tại Điều 13 Nghị định số 127/2007/NĐ-CP.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:299084:part:1:article:15:clause:5",
+                    "number": "5",
+                    "content": "5. Bộ, cơ quan ngang bộ, Ủy ban nhân\ndân tỉnh, thành phố trục thuộc Trung ương ban hành quy chuẩn kỹ thuật tổ chức việc xuất bản và phát hành quy chuẩn kỹ thuật trong thời hạn 30 (ba mươi) ngày, kể từ ngày quy chuẩn kỹ thuật được ban hành.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:299084:part:1:chapter:7",
+            "number": "VII",
+            "title": "TỔ CHỨC THỰC HIỆN",
+            "content": "Chương VII\nTỔ CHỨC THỰC HIỆN",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:299084:part:1:article:16",
+                "number": "15",
+                "title": "Trách nhiệm của Bộ Khoa học và Công nghệ",
+                "content": "Điều 15. Trách nhiệm của Bộ Khoa học và Công nghệ",
+                "clauses": [
+                  {
+                    "clause_id": "doc:299084:part:1:article:16:clause:1",
+                    "number": "1",
+                    "content": "1. Chủ trì, phối hợp với các bộ, cơ\nquan ngang bộ tổ chức xây dựng kế hoạch ban hành QCVN; rà soát sửa đổi, bổ sung hoặc thay thế, hủy bỏ QCVN.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:299084:part:1:article:16:clause:2",
+                    "number": "2",
+                    "content": "2. Tổ chức xây dựng, thẩm định và ban\nhành QCVN thuộc lĩnh vực quản lý nhà nước được Chính phủ phân công.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:299084:part:1:article:16:clause:3",
+                    "number": "3",
+                    "content": "3. Tổ chức thẩm định QCVN do bộ, cơ\nquan ngang bộ tổ chức xây dựng.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:299084:part:1:article:16:clause:4",
+                    "number": "4",
+                    "content": "4. Tổng cục Tiêu chuẩn Đo lường Chất\nlượng thuộc Bộ Khoa học và Công nghệ là cơ quan giúp Bộ trưởng Bộ Khoa học và Công nghệ phối hợp với các bộ, ngành, địa phương thực hiện phổ biến, hướng dẫn áp dụng QCVN, QCĐP, định kỳ in và phát hành danh mục QCVN, QCĐP trên cơ sở đăng ký chính thức của các bộ, ngành, địa phương.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:299084:part:1:article:17",
+                "number": "16",
+                "title": "Trách nhiệm của bộ, cơ quan ngang bộ",
+                "content": "Điều 16. Trách nhiệm của bộ, cơ quan ngang bộ",
+                "clauses": [
+                  {
+                    "clause_id": "doc:299084:part:1:article:17:clause:1",
+                    "number": "1",
+                    "content": "1. Hằng năm bộ, cơ quan ngang bộ tổng\nhợp và thông báo danh mục cập nhật các QCVN do mình ban hành gửi Bộ Khoa học và Công nghệ cập nhật bổ sung vào hệ thống cơ sở dữ liệu quy chuẩn kỹ thuật.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:299084:part:1:article:17:clause:2",
+                    "number": "2",
+                    "content": "2. Chủ động triển khai các hoạt động\nthông tin, tuyên truyền, đào tạo, phổ biến, hướng dẫn áp dụng và các hoạt động liên quan khác nhằm bảo đảm việc thi hành các QCVN.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:299084:part:1:article:17:clause:3",
+                    "number": "3",
+                    "content": "3. Bộ, cơ quan ngang bộ trong phạm vi\nlĩnh vực được phân công có trách nhiệm tổ chức thực hiện xây dựng, thẩm định và ban hành quy chuẩn kỹ thuật phù hợp với quy định tại Thông tư này và các văn bản quy phạm pháp luật liên quan. Khi cần thiết, có thể hướng dẫn chi tiết hoặc bổ sung các nội dung cụ thể về xây dựng và áp dụng quy chuẩn kỹ thuật cho phù hợp với đặc thù của bộ, cơ quan ngang bộ.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:299084:part:1:article:18",
+                "number": "17",
+                "title": "Trách nhỉệm của Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương",
+                "content": "Điều 17. Trách nhỉệm của Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương",
+                "clauses": [
+                  {
+                    "clause_id": "doc:299084:part:1:article:18:clause:1",
+                    "number": "1",
+                    "content": "1. Hằng năm Ủy ban nhân dân tỉnh,\nthành phố trực thuộc Trung ương tổng hợp và thông báo danh mục cập nhật các QCĐP do mình ban hành gửi Bộ Khoa học và Công nghệ cập nhật bổ sung vào hệ thống cơ sở dữ liệu quy chuẩn kỹ thuật.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:299084:part:1:article:18:clause:2",
+                    "number": "2",
+                    "content": "2. Chủ động triển khai các hoạt động\ntuyên truyền, phổ biến, hướng dẫn áp dụng và các hoạt động liên quan khác bảo đảm việc thi hành QCĐP tại địa phương.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:299084:part:1:article:18:clause:3",
+                    "number": "3",
+                    "content": "3. Ủy ban nhân dân tỉnh, thành phố trực\nthuộc Trung ương trong phạm vi lĩnh vực được phân công có trách nhiệm tổ chức thực hiện xây dựng, thẩm tra và ban hành quy chuẩn kỹ thuật phù hợp với quy định tại Thông tư này và các quy định pháp luật liên quan tại địa phương mình quản lý.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:299084:part:1:article:19",
+                "number": "18",
+                "title": "Trách nhiệm của tổ chức, cá nhân chủ trì, tham gia xây dựng quy chuẩn kỹ thuật",
+                "content": "Điều 18. Trách nhiệm của tổ chức, cá nhân chủ trì, tham gia xây dựng quy chuẩn kỹ thuật",
+                "clauses": [
+                  {
+                    "clause_id": "doc:299084:part:1:article:19:clause:1",
+                    "number": "1",
+                    "content": "1. Nghiên cứu nắm vững nội dung, yêu cầu\ncủa quy chuẩn kỹ thuật đã ban hành để triển khai thực hiện đúng các nội dung quy định trong quy chuẩn kỹ thuật.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:299084:part:1:article:19:clause:2",
+                    "number": "2",
+                    "content": "2. Phản ánh kịp thời những nội dung\nkhông phù hợp được phát hiện trong quá trình áp dụng quy chuẩn kỹ thuật cho cơ quan ban hành quy chuẩn kỹ thuật để xem xét, sửa đổi, bổ sung.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:299084:part:1:chapter:8",
+            "number": "V",
+            "title": "ĐIỀU KHOẢN THI HÀNH",
+            "content": "Chương V\nĐIỀU KHOẢN THI HÀNH",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:299084:part:1:article:20",
+                "number": "19",
+                "title": "Hiệu lực thi hành",
+                "content": "Điều 19. Hiệu lực thi hành",
+                "clauses": [
+                  {
+                    "clause_id": "doc:299084:part:1:article:20:clause:1",
+                    "number": "1",
+                    "content": "1. Thông tư này có hiệu lực thi hành kể\ntừ ngày 01 tháng 8 năm 2020.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:299084:part:1:article:20:clause:2",
+                    "number": "2",
+                    "content": "2. Các thông tư sau hết hiệu lực kể từ\nngày Thông tư này có hiệu lực thi hành:",
+                    "points": [
+                      {
+                        "point_id": "doc:299084:part:1:article:20:clause:2:point:1",
+                        "label": "a",
+                        "content": "a) Thông tư số 23/2007/TT-BKHCN ngày 28 tháng 9 năm 2007 của Bộ\ntrưởng Bộ Khoa học và Công nghệ hướng dẫn xây dựng, thẩm định và ban hành quy chuẩn kỹ thuật (sau đây viết tắt là Thông tư số 23/2007/TT-BKHCN);",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:299084:part:1:article:20:clause:2:point:2",
+                        "label": "b",
+                        "content": "b) Thông tư số 30/2011/TT-BKHCN ngày 15 tháng 11 năm 2011 của Bộ\ntrưởng Bộ Khoa học và Công nghệ về việc sửa đổi, bổ sung, bãi bỏ một số quy định của Thông tư số 23/2007/TT-BKHCN ngày 28 tháng 9 năm 2007 của Bộ trưởng Bộ Khoa học và Công nghệ về hướng dẫn xây dựng, thẩm định và ban hành quy chuẩn kỹ thuật (sau đây viết tắt là Thông tư số 30/2011/TT-BKHCN).",
+                        "children": []
+                      }
+                    ]
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:299084:part:1:article:21",
+                "number": "20",
+                "title": "Điều khoản chuyển tiếp Các dự án xây dựng QCVN thuộc Kế hoạch xây dựng năm 2019 đã phê duyệt tiếp tục thực hiện theo quy định tại Thông tư số 23/2007/TT-BKHCN và Thông tư số 30/2011/TT-BKHCN.",
+                "content": "Điều 20. Điều khoản chuyển tiếp Các dự án xây dựng QCVN thuộc Kế hoạch xây dựng năm 2019 đã phê duyệt tiếp tục thực hiện theo quy định tại Thông tư số 23/2007/TT-BKHCN và Thông tư số 30/2011/TT-BKHCN.",
+                "clauses": [],
+                "points": []
+              },
+              {
+                "article_id": "doc:299084:part:1:article:22",
+                "number": "21",
+                "title": "Trách nhiệm thi hành",
+                "content": "Điều 21. Trách nhiệm thi hành",
+                "clauses": [
+                  {
+                    "clause_id": "doc:299084:part:1:article:22:clause:1",
+                    "number": "1",
+                    "content": "1. Trong quá trình thực hiện có vấn đề\nphát sinh hoặc vướng mắc, tổ chức, cá nhân phản ánh kịp thời bằng văn bản về Bộ Khoa học và Công nghệ để được hướng dẫn hoặc nghiên cứu sửa đổi, bổ sung.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:299084:part:1:article:22:clause:2",
+                    "number": "2",
+                    "content": "2. Bộ trưởng, Thủ trưởng cơ quan ngang\nBộ, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương chịu trách nhiệm tôt chức triển khai thực hiện Thông tư này./.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          }
+        ],
+        "sections": [],
+        "articles": [],
+        "unstructured_blocks": []
+      }
+    ]
+  },
+  "issues": [],
+  "status": "ok",
+  "source_hash": "context_299084.json",
+  "stats": {
+    "source_chars": 62261,
+    "passage_chars": 62094,
+    "parts": 1,
+    "chapters": 8,
+    "sections": 0,
+    "articles": 22,
+    "clauses": 57,
+    "points": 28
+  }
+}

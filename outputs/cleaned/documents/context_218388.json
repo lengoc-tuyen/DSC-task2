@@ -1,0 +1,709 @@
+{
+  "schema_version": "2.0",
+  "document_id": 218388,
+  "metadata": {
+    "name": "Quyet-dinh-2131-QD-BTC-Quy-che-hoat-dong-cua-Cong-thong-tin-dien-tu-Bo-Tai-chinh-2016-325818",
+    "link": "https://thuvienphapluat.vn/van-ban/Cong-nghe-thong-tin/Quyet-dinh-2131-QD-BTC-Quy-che-hoat-dong-cua-Cong-thong-tin-dien-tu-Bo-Tai-chinh-2016-325818.aspx",
+    "issuing_agency": "BỘ TÀI CHÍNH",
+    "national_header": "CỘNG\r\n\n  HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM",
+    "motto": "Độc lập - Tự do - Hạnh phúc",
+    "document_number": "2131/QĐ-BTC",
+    "issued_place": "Hà Nội",
+    "issued_date": "ngày 04 tháng 10 năm 2016",
+    "document_type": "QUYẾT ĐỊNH",
+    "title": "VỀ VIỆC BAN HÀNH QUY CHẾ HOẠT ĐỘNG CỦA CỔNG THÔNG TIN ĐIỆN TỬ BỘ TÀI CHÍNH"
+  },
+  "administrative_header": {
+    "removed": true,
+    "removed_char_count": 149
+  },
+  "preamble": {
+    "text": "QUYẾT ĐỊNH\nVỀ VIỆC BAN HÀNH QUY CHẾ HOẠT ĐỘNG CỦA CỔNG THÔNG TIN ĐIỆN TỬ BỘ TÀI\nCHÍNH BỘ TRƯỞNG BỘ TÀI CHÍNH\nCăn cứ Nghị định số 215/2013/NĐ-CP ngày 23 tháng 12 năm 2013 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài chính; Căn cứ Nghị quyết 36a/NQ-CP ngày 14/10/2015 về Chính phủ điện tử; Căn cứ Nghị định số 43/2011/NĐ-CP ngày 13 tháng 6 năm 2011 của Chính phủ quy định về việc cung cấp thông tin và dịch vụ công trực tuyến trên trang thông tin điện tử hoặc Cổng thông tin điện tử của cơ quan nhà nước; Căn cứ Quyết định số 1534/QĐ-BTC ngày 28 tháng 6 năm 2013 Phê duyệt định hướng phát triển Cổng thông tin điện tử ngành Tài chính đến năm 2020; Căn cứ Thông tư số 22/2013/TT-BTTTT ngày 23 tháng 12 năm 2013 ban hành danh mục tiêu chuẩn về ứng dụng công nghệ thông tin trong cơ quan nhà nước; Căn cứ Quyết định số 30/QĐ-BTC ngày 03 tháng 01 năm 2014 về ban hành Quy trình hỏi đáp chính sách tài chính trên Cổng thông tin điện tử Bộ Tài chính; Căn cứ Quyết định số 1083/QĐ-BTC ngày 20 tháng 5 năm 2014 về Quy chế công bố công khai, niêm yết và cập nhật vào Cơ sở dữ liệu quốc gia các thủ tục hành chính thuộc phạm vi thẩm quyền quản lý của Bộ Tài chính; Căn cứ Quyết định số 3317/QĐ-BTC ngày 24 tháng 12 năm 2014 Ban hành Quy định về việc đảm bảo an toàn thông tin trên môi trường máy tính và mạng máy tính; Xét đề nghị của Chánh Văn phòng Bộ và Cục trưởng Cục Tin học và Thống kê tài chính,\nQUYẾT ĐỊNH:",
+    "legal_bases": [
+      "Căn cứ Nghị quyết 36a/NQ-CP ngày 14/10/2015 về Chính phủ điện tử",
+      "Căn cứ Nghị định số 43/2011/NĐ-CP ngày 13 tháng 6 năm 2011 của Chính phủ quy định về việc cung cấp thông tin và dịch vụ công trực tuyến trên trang thông tin điện tử hoặc Cổng thông tin điện tử của cơ quan nhà nước",
+      "Căn cứ Quyết định số 1534/QĐ-BTC ngày 28 tháng 6 năm 2013 Phê duyệt định hướng phát triển Cổng thông tin điện tử ngành Tài chính đến năm 2020",
+      "Căn cứ Thông tư số 22/2013/TT-BTTTT ngày 23 tháng 12 năm 2013 ban hành danh mục tiêu chuẩn về ứng dụng công nghệ thông tin trong cơ quan nhà nước",
+      "Căn cứ Quyết định số 30/QĐ-BTC ngày 03 tháng 01 năm 2014 về ban hành Quy trình hỏi đáp chính sách tài chính trên Cổng thông tin điện tử Bộ Tài chính",
+      "Căn cứ Quyết định số 1083/QĐ-BTC ngày 20 tháng 5 năm 2014 về Quy chế công bố công khai, niêm yết và cập nhật vào Cơ sở dữ liệu quốc gia các thủ tục hành chính thuộc phạm vi thẩm quyền quản lý của Bộ Tài chính",
+      "Căn cứ Quyết định số 3317/QĐ-BTC ngày 24 tháng 12 năm 2014 Ban hành Quy định về việc đảm bảo an toàn thông tin trên môi trường máy tính và mạng máy tính"
+    ],
+    "proposals": [
+      "Xét đề nghị của Chánh Văn phòng Bộ và Cục trưởng Cục Tin học và Thống kê tài chính,\nQUYẾT ĐỊNH:"
+    ],
+    "enactment_formula": "QUYẾT ĐỊNH"
+  },
+  "passage": "QUYẾT ĐỊNH\nVỀ VIỆC BAN HÀNH QUY CHẾ HOẠT ĐỘNG CỦA CỔNG THÔNG TIN ĐIỆN TỬ BỘ TÀI\nCHÍNH BỘ TRƯỞNG BỘ TÀI CHÍNH\nCăn cứ Nghị định số 215/2013/NĐ-CP ngày 23 tháng 12 năm 2013 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài chính; Căn cứ Nghị quyết 36a/NQ-CP ngày 14/10/2015 về Chính phủ điện tử; Căn cứ Nghị định số 43/2011/NĐ-CP ngày 13 tháng 6 năm 2011 của Chính phủ quy định về việc cung cấp thông tin và dịch vụ công trực tuyến trên trang thông tin điện tử hoặc Cổng thông tin điện tử của cơ quan nhà nước; Căn cứ Quyết định số 1534/QĐ-BTC ngày 28 tháng 6 năm 2013 Phê duyệt định hướng phát triển Cổng thông tin điện tử ngành Tài chính đến năm 2020; Căn cứ Thông tư số 22/2013/TT-BTTTT ngày 23 tháng 12 năm 2013 ban hành danh mục tiêu chuẩn về ứng dụng công nghệ thông tin trong cơ quan nhà nước; Căn cứ Quyết định số 30/QĐ-BTC ngày 03 tháng 01 năm 2014 về ban hành Quy trình hỏi đáp chính sách tài chính trên Cổng thông tin điện tử Bộ Tài chính; Căn cứ Quyết định số 1083/QĐ-BTC ngày 20 tháng 5 năm 2014 về Quy chế công bố công khai, niêm yết và cập nhật vào Cơ sở dữ liệu quốc gia các thủ tục hành chính thuộc phạm vi thẩm quyền quản lý của Bộ Tài chính; Căn cứ Quyết định số 3317/QĐ-BTC ngày 24 tháng 12 năm 2014 Ban hành Quy định về việc đảm bảo an toàn thông tin trên môi trường máy tính và mạng máy tính; Xét đề nghị của Chánh Văn phòng Bộ và Cục trưởng Cục Tin học và Thống kê tài chính,\nQUYẾT ĐỊNH:\nĐiều 1. Ban hành kèm theo Quyết định này Quy chế hoạt động của Cổng thông tin điện tử Bộ Tài chính.\nĐiều 2. Quyết định này có hiệu lực kể từ ngày ký, thay thế Quyết định số 993/QĐ-BTC ngày 06 tháng 05 năm 2013 về việc ban hành Quy chế hoạt động của Cổng thông tin điện tử Bộ Tài chính. Chánh Văn phòng Bộ, Cục trưởng Cục Tin học và Thống kê tài chính và Thủ trưởng các đơn vị liên quan chịu trách nhiệm thi hành Quyết định này./.\nNơi nhận:\n- Như điều 2;\n- Lãnh đạo Bộ (để b/c);\n- Lưu: VT, THTK (60).\nKT.\nBỘ TRƯỞNG\nTHỨ TRƯỞNG\nVũ Thị Mai\nQUY CHẾ\nHOẠT ĐỘNG CỦA CỔNG THÔNG TIN ĐIỆN TỬ BỘ TÀI CHÍNH\n(Ban hành kèm theo Quyết định số 2131/QĐ-BTC Ngày 4 tháng 10 năm 2016 của Bộ\ntrưởng Bộ Tài chính)\nChương I\nQUY ĐỊNH CHUNG\nĐiều 1. Phạm vi điều chỉnh\nQuy chế này quy định về hoạt động\ncung cấp thông tin, dịch vụ công trực tuyến và quản trị vận hành Cổng thông tin điện tử (sau đây gọi là Cổng TTĐT) Bộ Tài chính, có địa chỉ trên Internet là: www.mof.gov.vn và http://www.botaichinh.gov.vn.\nĐiều 2. Đối tượng áp dụng\n1. Các đơn vị thuộc Bộ Tài chính.\n2. Các tổ chức, cá nhân tham gia cung\ncấp thông tin, dịch vụ công trực tuyến và quản trị vận hành Cổng TTĐT Bộ Tài chính.\n3. Các tổ chức, cá nhân khai thác và\nsử dụng thông tin, dịch vụ công trực tuyến trên Cổng TTĐT Bộ Tài chính tự nguyện áp dụng Quy chế này.\nĐiều 3. Giải thích từ ngữ\n1. Cổng thông tin điện tử Bộ Tài\nchính: là điểm truy cập duy nhất của Bộ Tài chính trên môi trường mạng, liên kết, tích hợp các kênh thông tin, các dịch vụ và các ứng dụng mà qua đó người dùng có thể khai thác, sử dụng và cá nhân hóa việc hiển thị thông tin.\n2. Dịch vụ hành chính công: là những dịch vụ liên quan đến hoạt động thực thi pháp luật, không nhằm\nmục tiêu lợi nhuận, do cơ quan nhà nước có thẩm quyền cấp cho tổ chức, cá nhân dưới hình thức các loại giấy tờ có giá trị pháp lý trong các lĩnh vực mà cơ quan nhà nước đó quản lý. Mỗi dịch vụ hành chính công gắn liền với một thủ tục hành chính để giải quyết hoàn chỉnh một công việc cụ thể liên quan đến tổ chức, cá nhân.\n3. Dịch vụ công trực tuyến: là dịch vụ hành chính công và các dịch vụ khác của cơ quan nhà nước được\ncung cấp cho các tổ chức, cá nhân trên môi trường mạng.\na) Dịch vụ công trực tuyến mức độ\n1: là dịch vụ bảo đảm cung cấp đầy đủ các thông tin về thủ tục hành chính và các văn bản có liên quan quy định về thủ tục hành chính đó.\nb) Dịch vụ công trực tuyến mức độ\n2: là dịch vụ công trực tuyến mức độ 1 và cho phép người sử dụng tải về các mẫu văn bản và khai báo để hoàn thiện hồ sơ theo yêu cầu. Hồ sơ sau khi hoàn thiện được gửi trực tiếp hoặc qua đường bưu điện đến cơ quan, tổ chức cung cấp dịch vụ.\nc) Dịch vụ công trực tuyến mức độ 3: là dịch vụ công trực tuyến mức độ 2 và cho phép người sử dụng điền và\ngửi trực tuyến các mẫu văn bản đến cơ quan, tổ chức cung cấp dịch vụ. Các giao dịch trong quá trình xử lý hồ sơ và cung cấp dịch vụ được thực hiện trên môi trường mạng. Việc thanh toán lệ phí (nếu có) và nhận kết quả được thực hiện trực tiếp tại cơ quan, tổ chức cung cấp dịch vụ.\nd) Dịch vụ công trực tuyến mức độ\n4: là dịch vụ công trực tuyến mức độ 3 và cho phép người sử dụng thanh toán lệ phí (nếu có) được thực hiện trực tuyến. Việc trả kết quả có thể được thực hiện trực tuyến, gửi trực tiếp hoặc qua đường bưu điện đến người sử dụng.\n4. Mục: là một tập hợp các\ntin, bài, số liệu có nội dung hướng theo một chủ đề.\n5. Chuyên mục: là một tập hợp\ncủa một số mục tạo thành.\n6. Chuyên trang: là trang\nthông tin nằm trong Cổng TTĐT Bộ Tài chính, có nội dung về một lĩnh vực cụ thể, được đặt tên truy cập trực tiếp trên mạng. Chuyên trang do các đơn vị thuộc Bộ cung cấp thông tin, dữ liệu theo chức năng, nhiệm vụ của đơn vị.\n7. Trang liên kết: (Logo liên\nkết hoặc Logo link) là 1 biểu tượng (hoặc hình ảnh) được gắn trên Cổng TTĐT Bộ Tài chính hoặc trên Chuyên trang thuộc Cổng TTĐT Bộ Tài chính mà khi người sử dụng kích chuột vào biểu tượng này sẽ tự động dẫn đến một trang thông tin hoặc ứng dụng liên kết. Các trang thông tin và ứng dụng liên kết này không sử dụng phần mềm biên tập (CMS) của Cổng TTĐT Bộ Tài chính.\n8. Đơn vị chủ thể: là những\nđơn vị thuộc Bộ Tài chính chịu trách nhiệm toàn diện về nội dung và hình thức của thông tin, số liệu, hình ảnh... có liên quan đến công việc của đơn vị đăng tải trên Cổng TTĐT Bộ Tài chính (dưới một trong những hình thức: Mục, Chuyên mục, Chuyên trang hoặc Trang liên kết (Logo link)).\n9. Đơn vị xuất bản: là đơn vị\ncó nhiệm vụ sử dụng các công cụ tin học và phần mềm biên tập để chuyển các nội dung thông tin, số liệu do đơn vị chủ thể cung cấp thành dạng số hóa đưa lên những Mục, Chuyên mục, Chuyên trang trên Cổng TTĐT Bộ Tài chính theo quy cách được thống nhất với đơn vị chủ thể.\n10. Hồ sơ quản lý: là tài liệu\ngồm các thông tin liên quan về các mục, chuyên mục, chuyên trang trên Cổng TTĐT Bộ Tài chính.\n11. Ban Biên tập Cổng thông tin điện\ntử Bộ Tài chính (sau đây gọi là Ban Biên tập): là tổ chức do Bộ trưởng Bộ Tài chính thành lập để thực hiện chức năng giúp Bộ trưởng trong việc tiếp nhận, xử lý, biên tập, cập nhật thông tin và phối hợp xử lý dịch vụ công để đảm bảo hoạt động của Cổng TTĐT Bộ Tài chính.\nChương II\nHOẠT ĐỘNG CỦA CỔNG TTĐT BỘ TÀI CHÍNH\nĐiều 4. Mục đích, yêu cầu của Cổng TTĐT Bộ Tài chính\n1. Cổng TTĐT Bộ Tài chính là cổng\ntích hợp thông tin của toàn ngành, lĩnh vực do Bộ Tài chính quản lý, được tích hợp thông tin dịch vụ công trực tuyến của tất cả các đơn vị thuộc Bộ và là đầu mối công bố các thông tin chính thức của Bộ Tài chính trên mạng Internet, đảm bảo cung cấp đầy đủ thông tin theo quy định của Chính phủ, đáp ứng nhiệm vụ thông tin tuyên truyền của ngành Tài chính. Tạo lập kênh cung cấp và trao đổi thông tin, dịch vụ công của ngành Tài chính phục vụ công dân, doanh nghiệp và các tổ chức trong và ngoài nước; hỗ trợ tích cực cho việc thực hiện cải cách hành chính; triển khai Chính phủ điện tử.\n2. Đảm bảo kết nối với Cổng TTĐT\nChính phủ, Cổng TTĐT của các Bộ, ngành có liên quan theo đúng lộ trình của Chính phủ, đồng thời tạo nền tảng hạ tầng công nghệ sẵn sàng cho việc kết nối an toàn, thuận tiện, hiệu quả giữa Cổng TTĐT ngành Tài chính với Cổng TTĐT của các cơ quan Chính phủ các nước và tổ chức quốc tế, theo quy định của Chính phủ Việt Nam và Công ước Quốc tế.\nĐiều 5. Nguyên tắc hoạt động\n1. Bộ trưởng Bộ Tài chính phê duyệt cấu\ntrúc chung của Cổng TTĐT Bộ Tài chính (bao gồm giao diện, kết cấu thông tin).\n2. Ban Biên tập phê duyệt việc điều\nchỉnh, thêm mới, xóa bỏ Mục, Chuyên mục, Chuyên trang đảm bảo không làm ảnh hưởng đến cấu trúc giao diện chung của Cổng TTĐT Bộ Tài chính.\n3. Các đơn vị thuộc Bộ tuân thủ sự\nphân công của Ban Biên tập trong việc cung cấp, biên tập, xuất bản thông tin trên Cổng TTĐT Bộ Tài chính theo Bảng phân công tại Phụ lục\nI.\n4. Căn cứ vào tình hình và điều kiện\nthực tế, các đơn vị có thể trình Ban Biên tập bổ sung thêm các Mục/Chuyên mục, Chuyên trang thông tin khác phù hợp với chức năng, nhiệm vụ của đơn vị mình.\nĐiều 6. Nguyên tắc đăng tải và khai thác thông tin Các tổ chức, cá nhân đăng tải, khai thác thông tin trên Cổng TTĐT Bộ Tài chính phải đảm bảo các nguyên tắc sau:\n1. Nguyên tắc đăng tải thông tin:\n- Thông tin đăng tải lên Cổng TTĐT Bộ Tài chính phải đúng với quan điểm, chủ trương, đường lối của Đảng, Chính phủ và Lãnh đạo Bộ Tài chính; phục vụ kịp thời công tác quản lý của cơ quan và nhu cầu khai thác thông tin của các tổ chức, cá nhân. - Thông tin trên Cổng TTĐT Bộ Tài chính phải được cập nhật đầy đủ, chính xác, kịp thời, duy trì liên tục và tuân thủ các quy định của Luật Báo chí, Pháp lệnh bảo vệ bí mật của Nhà nước và các quy định khác của pháp luật có liên quan. - Thông tin đăng tải lên Cổng TTĐT Bộ Tài chính phải được lãnh đạo đơn vị phê duyệt trước khi đăng tin. Các đơn vị cung cấp thông tin tự chịu trách nhiệm về nội dung và tính chính xác của thông tin đã cung cấp lên Cổng TTĐT Bộ Tài chính. - Thông tin đăng tải trên Cổng TTĐT Bộ Tài chính phải được định dạng theo các chuẩn thông dụng quy định tại Thông tư số 22/2013/TT-BTTTT ngày 23/12/2013 của Bộ Thông tin và Truyền thông ban hành Danh mục tiêu chuẩn kỹ thuật về ứng dụng công nghệ thông tin trong cơ quan nhà nước.\n2. Nguyên tắc khai thác thông tin:\n- Đăng ký, kê khai các thông tin chính xác, đầy đủ; chịu trách nhiệm trước pháp luật về tính chính xác đối với những thông tin đã đăng ký, kê khai. - Các tổ chức, cá nhân muốn khai thác và sử dụng lại thông tin, số liệu đã đăng tải trên Cổng TTĐT Bộ Tài chính phải ghi rõ thông tin về tác giả, nguồn trích dẫn. - Thực hiện các yêu cầu của cơ quan, đơn vị đăng tải thông tin và nộp phí, lệ phí (nếu có) theo quy định.\nĐiều 7. Quản lý Mục/Chuyên mục\n1. Tạo mới Mục/Chuyên mục\na) Phê duyệt chủ trương tạo mới Mục/Chuyên\nmục: Thủ trưởng các đơn vị thuộc Bộ trình Ban Biên tập phê duyệt chủ trương tạo mới Mục/Chuyên mục (qua Cục Tin học và Thống kê tài chính sau đây gọi là Cục THTK). Cục THTK chủ trì, phối hợp với Văn phòng Bộ và các đơn vị liên quan thẩm định, trình Ban Biên tập phê duyệt. Thời gian thẩm định, trình phê duyệt tối đa là 03 ngày làm việc tính từ ngày nhận đủ hồ sơ trình của đơn vị. Tờ trình phê duyệt chủ trương tạo mới Mục/Chuyên mục theo Mẫu số 2.1 Phụ lục II của Quy chế này.\nb) Tổ chức thực hiện tạo mới Mục/Chuyên\nmục Sau khi chủ trương tạo mới Mục/Chuyên mục được Ban Biên tập phê duyệt, đơn vị chủ thể phối hợp với Cục THTK để triển khai thực hiện theo chỉ đạo của Ban Biên tập.\nc) Lập hồ sơ quản lý\nĐơn vị chủ thể có trách nhiệm lập hồ sơ quản lý gửi về Cục THTK trong vòng 03 ngày làm việc sau khi Mục/Chuyên mục chính thức hoạt động theo hướng dẫn tại Mẫu số 3.1\nPhụ lục III của Quy chế này.\nTrường hợp các Mục/Chuyên mục do nhiều đơn vị cung cấp thông tin, Cục THTK là đơn vị chủ thể, có trách nhiệm lập Hồ sơ quản lý theo hướng dẫn tại Mẫu số 01, phụ lục III của Quy chế này.\n2. Đăng tải thông tin\na) Đơn vị chủ thể cung cấp thông tin\nchịu trách nhiệm về tính chính xác của thông tin cung cấp theo quy định tại Khoản 1, Điều 6 Quy chế này.\nb) Trường hợp các Mục/Chuyên mục do\nđơn vị chủ thể cung cấp thông tin, dữ liệu, Cục THTK biên tập, xuất bản thông tin: - Thông tin gửi bằng bản mềm (bản mềm có tên mục tin cần đăng, nội dung tin cần đăng, thời gian đăng) từ địa chỉ thư điện tử của cán bộ phụ trách cung cấp thông tin của đơn vị, gửi đến địa chỉ thư điện tử: ttdauthau@mof.gov.vn đối với thông tin đăng tải về đấu thầu; vbpq@mof.gov.vn đối với thông tin đăng tải về văn bản pháp quy; support@mof.gov.vn đối với thông tin về giải đáp chính sách của độc giả; tin@mof.gov.vn đối với các thông tin khác, để làm thủ tục đăng tải. - Trong thời hạn 3 ngày làm việc kể từ ngày nhận được email đề nghị, Cục THTK có trách nhiệm biên tập, xuất bản thông tin lên Cổng TTĐT Bộ Tài chính.\nc) Trường hợp Mục/Chuyên mục do đơn vị\nchủ thể chịu trách nhiệm cung cấp, biên tập và xuất bản thông tin, Cục THTK thực hiện cung cấp tài khoản, hướng dẫn biên tập, đảm bảo thông tin được cập nhật đầy đủ, kịp thời. Đơn vị chủ thể tuân thủ các điều khoản về an toàn bảo mật quy định tại Quyết định 3317/QĐ-BTC ngày 24/12/2014 của Bộ trưởng Bộ Tài chính quy định về việc đảm bảo an toàn thông tin trên môi trường máy tính và mạng máy tính.\n3. Duy trì hoạt động\n- Đơn vị chủ thể của Mục/Chuyên mục định kỳ hàng tháng thực hiện rà soát tình hình đăng tải thông tin của Mục/Chuyên mục do đơn vị mình phụ trách để cập nhật thông tin đúng theo Hồ sơ quản lý đã đăng ký. - Định kỳ 6 tháng, Cục THTK thực hiện kiểm tra tình hình cập nhật thông tin của các Mục/Chuyên mục trên Cổng TTĐT Bộ Tài chính để báo cáo Ban Biên tập theo Mẫu số 4.1\nPhụ lục IV của Quy chế này, với những Mục/Chuyên mục có thời gian cập nhật\nkhông đúng với hồ sơ quản lý hoặc trong 01 năm liên tục thông tin không được cập nhật, Cục THTK trình Ban Biên tập gỡ bỏ Mục/Chuyên mục đó và có văn bản thông báo lại với đơn vị chủ thể Mục/Chuyên mục.\n4. Chỉnh sửa/Gỡ bỏ\na) Chỉnh sửa\n- Thủ trưởng đơn vị trình Ban Biên tập (qua Cục THTK) về nội dung đề nghị chỉnh sửa. Trường hợp nội dung đề nghị chỉnh sửa không làm ảnh hưởng đến kết cấu và mục tiêu tuyên truyền đã được Ban Biên tập phê duyệt tại chủ trương tạo mới Mục, Chuyên mục của đơn vị, Cục THTK có trách nhiệm xem xét, chỉnh sửa theo yêu cầu. Trường hợp nội dung đề nghị chỉnh sửa của đơn vị khác với kết cấu và mục tiêu tuyên truyền đã được Ban Biên tập phê duyệt trong Hồ sơ đề nghị tạo mới Mục, Chuyên mục đó, Cục THTK báo cáo Ban Biên tập xem xét, phê duyệt. - Đơn vị chủ thể có trách nhiệm hoàn thiện lại Hồ sơ quản lý trong vòng 03 ngày làm việc sau khi Mục/Chuyên mục chỉnh sửa đi vào hoạt động.\nb) Gỡ bỏ\nThủ trưởng đơn vị trình Ban Biên tập (qua Cục THTK) nêu rõ lý do gỡ bỏ, Cục THTK chủ trì, phối hợp với Văn phòng Bộ và các đơn vị liên quan thẩm định, trình Ban Biên tập phê duyệt. Sau khi được phê duyệt, Cục THTK thực hiện gỡ bỏ theo chỉ đạo của Ban Biên tập.\nĐiều 8. Quản lý Chuyên trang\n1. Tạo mới Chuyên trang\na) Phê duyệt chủ trương tạo mới\nChuyên trang: - Thủ trưởng đơn vị trình Ban Biên tập phê duyệt chủ trương tạo mới Chuyên trang (qua Cục THTK), theo Mẫu số 2.2 Phụ lục II của Quy chế này. Trong đó, nội dung trình bao gồm cả tên chuyên trang, địa chỉ trên Internet của chuyên trang. - Cục THTK chủ trì, phối hợp với Văn phòng Bộ và các đơn vị liên quan thẩm định, trình Ban Biên tập phê duyệt. - Thời gian thẩm định, trình phê duyệt tối đa là 03 ngày làm việc tính từ ngày nhận đủ hồ sơ trình của đơn vị.\nb) Tổ chức thực hiện tạo mới Chuyên\ntrang Sau khi chủ trương tạo mới Chuyên trang được Ban Biên tập phê duyệt, đơn vị chủ thể phối hợp với Cục THTK để triển khai thực hiện theo chỉ đạo của Ban Biên tập. Cục THTK có trách nhiệm cung cấp địa chỉ tên miền của Chuyên trang theo Quy định tại Nghị định số 43/2011/NĐ-CP .\nc) Lập hồ sơ quản lý\nĐơn vị chủ thể có trách nhiệm lập hồ sơ quản lý gửi về Cục THTK trong vòng 03 ngày làm việc sau khi Chuyên trang chính thức hoạt động theo Mẫu số 3.2 Phụ lục III của Quy chế này.\n2. Đăng tải thông tin\n- Đơn vị chủ thể chịu trách nhiệm cung cấp, biên tập và xuất bản thông tin, dữ liệu lên Chuyên trang. Cục THTK thực hiện cung cấp tài khoản và hướng dẫn kỹ thuật đảm bảo việc cập nhật kịp thời thông tin, dữ liệu lên Chuyên trang. - Đơn vị chủ thể chịu trách nhiệm về tính chính xác của thông tin đăng tải lên Chuyên trang theo quy định tại Khoản 1, Điều 6 Quy chế này và tuân thủ các điều khoản về an toàn bảo mật quy định tại Quyết định số 3317/QĐ-BTC ngày 24/12/2014 của Bộ trưởng Bộ Tài chính quy định về việc đảm bảo an toàn thông tin trên môi trường máy tính và mạng máy tính.\n3. Duy trì hoạt động\n- Đơn vị chủ thể định kỳ hàng tháng thực hiện rà soát tình hình đăng tải thông tin, dữ liệu của Chuyên trang do đơn vị mình phụ trách theo Hồ sơ quản lý đã đăng ký. - Định kỳ 06 tháng, Cục THTK thực hiện kiểm tra tình hình cập nhật thông tin của Chuyên trang báo cáo Ban Biên tập, với những Chuyên trang có thời gian cập nhật không đúng so với Hồ sơ quản lý đã đăng ký của đơn vị chủ thể hoặc trong 01 năm liên tục thông tin không được cập nhật, Cục THTK trình Ban Biên tập gỡ bỏ Mục, Chuyên mục trên Chuyên trang hay Chuyên trang đó và có văn bản thông báo lại với đơn vị chủ thể Chuyên trang.\n4. Chỉnh sửa/Gỡ bỏ\na) Chỉnh sửa\n- Thủ trưởng đơn vị trình Ban Biên tập (qua Cục THTK) về nội dung đề nghị chỉnh sửa. Trường hợp nội dung đề nghị chỉnh sửa không ảnh hưởng đến kết cấu và mục tiêu tuyên truyền đã được Ban Biên tập phê duyệt tại chủ trương tạo mới chuyên trang của đơn vị, Cục THTK có trách nhiệm xem xét, chỉnh sửa theo yêu cầu. Trường hợp thông tin đề nghị chỉnh sửa của đơn vị khác với kết cấu và mục tiêu tuyên truyền đã được Trưởng Ban Biên tập phê duyệt trong tờ trình đề nghị tạo mới Chuyên trang của đơn vị, Cục THTK báo cáo Ban Biên tập xem xét, phê duyệt. - Đơn vị chủ thể hoàn thiện lại Hồ sơ quản lý trong vòng 03 ngày làm việc sau khi chuyên trang chỉnh sửa đi vào hoạt động.\nb) Gỡ bỏ\nThủ trưởng đơn vị trình Ban Biên tập (qua Cục THTK) nêu rõ lý do gỡ bỏ. Cục THTK chủ trì, phối hợp với Văn phòng Bộ và các đơn vị liên quan thẩm định, trình Trưởng Ban Biên tập phê duyệt. Sau khi được phê duyệt, Cục THTK thực hiện gỡ bỏ theo chỉ đạo của Ban Biên tập.\nĐiều 9. Quản lý Dịch vụ công trực tuyến\n1. Công khai thông tin dịch vụ\ncông trực tuyến - Cổng TTĐT Bộ Tài chính đăng tải toàn bộ thông tin về dịch vụ công trực tuyến. Thông tin về dịch vụ công trực tuyến phải được cập nhật, bổ sung, chỉnh sửa kịp thời ngay sau khi có sự thay đổi. - Thông tin về dịch vụ công trực tuyến đăng tải trên Cổng TTĐT Bộ Tài chính bao gồm danh mục các dịch vụ hành chính công và các dịch vụ công trực tuyến đang thực hiện, nêu rõ mức độ của dịch vụ, các biểu mẫu điện tử trong giao dịch của ngành tài chính với các tổ chức, cá nhân, trạng thái xử lý hồ sơ các dịch vụ công trực tuyến được trao đổi, cung cấp theo chuẩn thống nhất. - Cổng TTĐT Bộ Tài chính cung cấp chức năng hướng dẫn sử dụng, theo dõi tần suất sử dụng, quá trình xử lý và số lượng hồ sơ đã được xử lý đối với từng dịch vụ công trực tuyến từ mức độ 3 trở lên.\n2. Trách nhiệm cung cấp dịch vụ\ncông trực tuyến - Các đơn vị chủ thể có nhiệm vụ cung cấp, khai thác, sử dụng dịch vụ công trực tuyến theo chức năng, nhiệm vụ và phân công của Lãnh đạo Bộ. - Cục THTK là đơn vị chủ trì xây dựng, quản trị vận hành, cập nhật dịch vụ hành chính công và dịch vụ công trực tuyến của cơ quan Bộ lên Cổng TTĐT Bộ Tài chính; có trách nhiệm báo cáo Bộ và các cơ quan có thẩm quyền về tình hình thực hiện các dịch vụ công trực tuyến. - Cục THTK chủ trì phối hợp với các đơn vị liên quan đưa ra kiến trúc tổng thể, tiêu chuẩn kỹ thuật chung cho dịch vụ công trực tuyến; xây dựng và triển khai các biện pháp kỹ thuật đảm bảo kết nối và tích hợp các dịch vụ công trực tuyến.\nĐiều 10. Quản lý Trang liên kết, tích hợp thông tin Cục THTK chủ trì phối hợp với Văn phòng Bộ xác định các trang thông tin cần được liên kết, tích hợp lên Cổng TTĐT Bộ Tài chính theo cấu trúc chung (giao diện, kết cấu thông tin) đã được Bộ Trưởng phê duyệt dựa trên nguyên tắc: - Cổng TTĐT Bộ Tài chính phải được liên kết, tích hợp thông tin với Cổng TTĐT của các đơn vị thuộc Bộ để bảo đảm các tổ chức và cá nhân có thể tìm kiếm và khai thác mọi thông tin thuộc lĩnh vực quản lý nhà nước của Bộ Tài chính. - Cổng TTĐT Bộ Tài chính phải đảm bảo có khả năng kết nối mạng thông tin hành chính điện tử của Chính phủ, của các Bộ ngành, các đơn vị tổ chức liên quan trên Internet, tích hợp thông tin của Bộ Tài chính trên Cổng TTĐT Chính phủ.\nChương III\nQUẢN TRỊ VẬN\nHÀNH CỔNG TTĐT BỘ TÀI CHÍNH\nĐiều 11. Trách nhiệm của Ban Biên tập\n1. Cổng TTĐT Bộ Tài chính hoạt động dưới\nsự điều hành của Ban Biên tập Cổng TTĐT Bộ Tài chính (sau đây gọi tắt là Ban Biên tập), thành lập theo Quyết định của Bộ Trưởng Bộ Tài chính.\n2. Ban Biên tập có Trưởng Ban, không\nquá 02 Phó Trưởng Ban và các Ủy viên (nếu có). Trưởng Ban Biên tập là Thứ trưởng phụ trách về phát ngôn của Bộ Tài chính. 02 phó trưởng Ban Biên tập gồm có: Chánh Văn phòng Bộ Tài chính và Cục trưởng Cục THTK. Ban Biên tập làm việc theo chế độ kiêm nhiệm.\n3. Cục THTK là cơ quan thường trực của\nBan Biên tập, Văn phòng Bộ là cơ quan quản lý thông tin báo chí, truyền thông trên Cổng TTĐT Bộ Tài chính.\n4. Cục THTK, Văn phòng Bộ trình Trưởng\nBan Biên tập Quyết định thành lập, kiện toàn Ban Biên tập, Tổ Biên tập thông tin báo chí, thông tin điện tử phù hợp với chức năng nhiệm vụ của đơn vị theo từng giai đoạn, từng thời kỳ.\nĐiều 12. Trách nhiệm vận hành quản lý\n1. Trách nhiệm của Cục THTK\n- Tổ chức quản lý vận hành hoạt động chung của Cổng TTĐT Bộ Tài chính, thiết kế và xây dựng công nghệ, kỹ thuật của Cổng TTĐT Bộ Tài chính. - Thực hiện tạo mới, chỉnh sửa, gỡ bỏ các Mục, Chuyên mục, Chuyên trang, Trang liên kết theo phê duyệt của Ban Biên tập. - Chủ trì phối hợp với các đơn vị thuộc Bộ Tài chính khai thác, tiếp nhận, biên tập và xuất bản các kênh thông tin, dữ liệu và ứng dụng các dịch vụ công của ngành vào Cổng TTĐT Bộ Tài chính. - Đề xuất với Ban Biên tập lộ trình, kế hoạch tích hợp các kênh thông tin, dữ liệu và ứng dụng các dịch vụ công của ngành vào Cổng TTĐT Bộ Tài chính phù hợp với lộ trình cải cách hành chính và hiện đại hóa ngành Tài chính. - Thực hiện rà soát, đề xuất phương án nâng cấp, chỉnh sửa Cổng TTĐT Bộ Tài chính định kỳ hàng năm hoặc theo nhu cầu thực tế. - Xây dựng các quy định về hoạt động, phát triển Cổng TTĐT Bộ Tài chính theo chỉ đạo của Ban Biên tập và các văn bản chỉ đạo của Chính phủ, của Bộ Tài chính. - Định kỳ rà soát, kiểm tra, đôn đốc các đơn vị cập nhật thông tin các Mục, Chuyên mục, Chuyên trang có trên Cổng TTĐT Bộ Tài chính của đơn vị chủ thể thông qua Hồ sơ quản lý.\n2. Trách nhiệm của Văn phòng Bộ\n- Đề xuất với Ban Biên tập phương hướng, kế hoạch xuất bản, nội dung hình thức thể hiện tin tức, thông tin báo chí điện tử để tuyên truyền hướng dẫn các chủ trương chính sách của Đảng và Nhà nước về lĩnh vực tài chính, phản ánh đầy đủ, kịp thời các hoạt động của Bộ Tài chính để thực hiện các nhiệm vụ được Đảng và Nhà nước giao. - Chịu trách nhiệm về nội dung và hình thức tin tức, thông tin báo chí được xuất bản trên Cổng TTĐT Bộ Tài chính bao gồm cả nội dung tiếng Việt và nội dung tiếng Anh. - Trực tiếp tổ chức xuất bản hoặc gỡ bỏ tin tức, thông tin báo chí trên Cổng TTĐT Bộ Tài chính. - Tổ chức đội ngũ phóng viên, biên tập viên, cộng tác viên tại các đơn vị, các cơ quan báo chí trong và ngoài ngành để kịp thời cung cấp các thông tin cho Cổng TTĐT Bộ Tài chính. - Xây dựng các quy định về kế hoạch, định hướng hoạt động và phát triển báo chí, truyền thông của ngành trên Cổng TTĐT Bộ Tài chính căn cứ theo chỉ đạo của Ban Biên tập và các văn bản chỉ đạo của Chính phủ, của Bộ Tài chính. - Thực hiện sử dụng các nguồn tài chính (nếu có) và chi trả nhuận bút phần thông tin báo chí trên Cổng TTĐT Bộ Tài chính theo đúng các quy định hiện hành.\n3. Trách nhiệm của các đơn vị thuộc\nBộ - Tổ chức, thực hiện các quy định tại\nQuy chế này.\n- Thủ trưởng đơn vị chịu trách nhiệm trước Lãnh đạo Bộ về tính chính xác, kịp thời những thông tin, dữ liệu trên chuyên trang, chuyên mục do đơn vị mình quản lý. - Lập, cập nhật hồ sơ quản lý đối với mục, chuyên mục, chuyên trang do đơn vị mình quản lý theo quy định tại Điều 7,\nĐiều 8 của Quy chế này. - Phối hợp cung cấp thông tin, dữ liệu và các ứng dụng các dịch vụ công do đơn vị mình phụ trách để cập nhật lên Cổng TTĐT Bộ Tài chính theo quy định của Chính phủ, của Bộ Tài chính. - Giải đáp các vướng mắc của độc giả trên Cổng TTĐT Bộ Tài chính về lĩnh vực do đơn vị mình phụ trách, kịp thời theo quy định tại Quyết định số 30/QĐ-BTC ngày 03/01/2014 của Bộ trưởng Bộ Tài chính về Quy trình hỏi đáp chính sách tài chính trên Cổng TTĐT Bộ Tài chính. - Tùy theo đặc điểm, mỗi đơn vị quản lý mục, chuyên mục, chuyên trang trên Cổng TTĐT Bộ Tài chính có thể thành lập Tổ Biên tập là bộ phận giúp việc cho Thủ trưởng đơn vị trong việc tiếp nhận, xử lý, biên tập, cập nhật thông tin để đảm bảo hoạt động của mục, chuyên mục, chuyên trang trên Cổng TTĐT Bộ Tài chính. Tổ Biên tập được quản lý, sử dụng, nguồn thu (nếu có) theo quy định và chi trả nhuận bút, thù lao, phụ cấp trách nhiệm cho thành viên của Tổ và tác giả hoặc chủ sở hữu tác phẩm có tác phẩm được đăng trên Chuyên trang theo quy định hiện hành. - Đơn vị chủ thể các Chuyên trang, chuyên mục (được phân quyền biên tập trên hệ thống của Cổng TTĐT Bộ Tài chính) có trách nhiệm tuân thủ các quy định tại Quyết định số 3317/QĐ-BTC ngày 24/12/2014 của Bộ trưởng Bộ Tài chính quy định về việc đảm bảo an toàn thông tin trên môi trường máy tính và mạng máy tính.\n4. Trách nhiệm của các cá nhân,\nđơn vị trong khai thác, sử dụng thông tin - Tuân thủ các quy định tại Mục 2, Điều 6 Quy chế này. - Nghiêm cấm tạo ra hoặc phát tán chương trình phần mềm làm rối loạn, thay đổi, phá hoại hệ thống điều hành hoặc có hành vi khác nhằm phá hoại hạ tầng công nghệ thông tin. - Nghiêm cấm tạo ra thông điệp dữ liệu nhằm thực hiện hành vi trái pháp luật. - Nghiêm cấm các hành vi vi phạm khác theo quy định của pháp luật và quy định của Bộ Tài chính.\nĐiều 13. Duy trì hoạt động của Cổng TTĐT Bộ Tài chính\n1. Đảm bảo cơ sở hạ tầng, bảo trì,\nbảo dưỡng, duy trì hoạt động và nâng cấp Cổng TTĐT Bộ Tài chính - Cổng TTĐT Bộ Tài chính phải được thường xuyên kiểm tra, bảo dưỡng, chỉnh sửa, giám sát hoạt động để bảo đảm hoạt động liên tục 24 giờ trong tất cả các ngày. - Cục THTK là đơn vị quản lý Cổng TTĐT Bộ Tài chính có trách nhiệm triển khai các giải pháp công nghệ, dịch vụ bảo đảm an toàn và điều kiện kỹ thuật cần thiết để duy trì các hoạt động của Cổng TTĐT Bộ Tài chính (máy chủ, thiết bị, đường truyền...) - Cục THTK thực hiện rà soát định kỳ hàng năm hoặc rà soát theo yêu cầu của Trưởng Ban Biên tập, đề xuất với Ban Biên tập phương án nâng cấp Cổng TTĐT Bộ Tài chính đáp ứng đầy đủ yêu cầu về cung cấp thông tin dữ liệu và tiêu chuẩn kỹ thuật theo quy định của Nhà nước và của Bộ Tài chính, phục vụ người dân và doanh nghiệp khai thác, sử dụng thuận tiện, hiệu quả.\n2. Đảm bảo an toàn thông tin, dữ\nliệu Cục THTK có trách nhiệm chủ trì, phối hợp với các đơn vị liên quan: - Rà soát tối thiểu mỗi năm một lần các tài khoản đang cấp trên hệ thống, đảm bảo các tài khoản và quyền truy cập hệ thống được cấp phát đúng. - Thực hiện các giải pháp và biện pháp kỹ thuật để đảm bảo an toàn thông tin và dữ liệu trên Cổng TTĐT Bộ Tài chính. - Xây dựng giải pháp hiệu quả chống lại các nguy cơ tấn công gây mất an toàn thông tin trên Cổng TTĐT Bộ Tài chính. - Xây dựng phương án dự phòng khắc phục sự cố bảo đảm hệ thống Cổng TTĐT Bộ Tài chính hoạt động liên tục ở mức tối đa.\nChương IV\nTỔ CHỨC THỰC HIỆN\nĐiều 14. Kinh phí hoạt động Kinh phí duy trì hoạt động, phát triển chung của Cổng TTĐT Bộ Tài chính và Chuyên trang của các đơn vị được bảo đảm từ các nguồn:\n1. Ngân sách nhà nước:\n- Kinh phí duy trì hoạt động chung của Cổng TTĐT Bộ Tài chính do ngân sách nhà nước cấp, được tổng hợp trong kinh phí hàng năm của Cục Kế hoạch Tài chính đối với khoản chi nhuận bút, thù lao các tin, bài; bồi dưỡng, thù lao thành viên Ban Biên tập và tổng hợp trong kinh phí hàng năm của Cục THTK đối với khoản chi tạo lập thông tin điện tử. - Kinh phí duy trì hoạt động của Chuyên trang (kinh phí chi trả nhuận bút, thù lao tạo lập thông tin điện tử, phụ cấp trách nhiệm cho thành viên Tổ Biên tập) được tổng hợp trong dự toán kinh phí chi thường xuyên, thực hiện tự chủ hàng năm của đơn vị chủ thể có chuyên trang. - Kinh phí chi cho công tác đào tạo, bồi dưỡng cán bộ phục vụ Cổng TTĐT Bộ Tài chính được bố trí hàng năm trong dự toán ngân sách của đơn vị để đào tạo, bồi dưỡng cán bộ công chức thuộc phạm vi quản lý.\n2. Nguồn thu hợp pháp của các đơn vị\nđược phép để lại sử dụng theo quy định của pháp luật.\n3. Nguồn viện trợ, nguồn hỗ trợ phát\ntriển chính thức của các nhà tài trợ.\nĐiều 15. Phụ cấp và thù lao\n1. Thành viên Ban Biên tập và thành viên\ncác Tổ Biên tập được hưởng thù lao kiêm nhiệm theo quy định.\n2. Thành viên Ban Biên tập và các Tổ\nBiên tập thực hiện công việc liên quan đến việc đăng tải thông tin cho Cổng TTĐT Bộ Tài chính ngoài chức năng, nhiệm vụ được hưởng nhuận bút; thù lao theo Quy định hiện hành về chế độ chi phục vụ hoạt động đối với Trang thông tin điện tử của các đơn vị thuộc Bộ Tài chính.\nĐiều 16. Đào tạo nguồn nhân lực Cán bộ Ban Biên tập, Tổ Biên tập làm công tác biên tập, xuất bản, quản trị thông tin và cán bộ quản trị hệ thống hạ tầng tin học hàng năm được tham gia đào tạo, bồi dưỡng kiến thức chuyên môn nghiệp vụ phù hợp với lĩnh vực đảm nhiệm để bảo đảm phục vụ cho hoạt động của Cổng TTĐT Bộ Tài chính và các chuyên trang trên Cổng TTĐT Bộ Tài chính.\nĐiều 17. Trách nhiệm thi hành\n1. Chánh Văn phòng Bộ, Cục trưởng Cục\nTHTK, Thủ trưởng các đơn vị thuộc Bộ chịu trách nhiệm thi hành Quyết định này.\n2. Các văn bản được trích dẫn tại Quy\nchế này nếu được bổ sung, sửa đổi hoặc thay thế thì được thực hiện theo quy định của các văn bản bổ sung, sửa đổi hoặc thay thế. Trong quá trình thực hiện nếu có khó khăn vướng mắc, đề nghị các cơ quan, đơn vị phản ánh về Ban Biên tập để nghiên cứu giải quyết./.\nPHỤ LỤC I\nBẢNG PHÂN CÔNG ĐƠN VỊ PHỤ TRÁCH CUNG\nCẤP, BIÊN TẬP, XUẤT BẢN THÔNG TIN TRÊN CỔNG TTĐT BỘ TÀI CHÍNH\n(Ban hành kèm theo Quyết định số 2131/QĐ-BTC ngày 04/10/2016 của Bộ trưởng Bộ\nTài chính) I. Mục/Chuyên mục\nSTT\nTên Mục/Chuyên mục Tên đơn vị cung cấp thông tin Tên đơn vị biên tập, xuất bản thông tin 1 Giới thiệu bộ\nVPB\nCục THTK 1.1 Lãnh đạo bộ\nVPB\nCục THTK 1.2 Nhiệm vụ - quyền hạn\nVPB\nCục THTK 1.3 Tổ chức bộ máy\nVPB\nCục THTK 1.4 Lịch sử tài chính Việt Nam\nVPB VPB\n1.5 Tham quan phòng truyền thống BTC\nVPB VPB\n1.6\nDanh mục sách của thư viện BTC\nVPB VPB\n2 Tin tức sự kiện\nVPB VPB\n3 Tin địa phương\nVPB VPB\n4 Tin video\nVPB VPB\n5 Thông cáo báo chí\nVPB\nCục THTK 6 Thông báo - Chỉ đạo điều hành\nVPB\nCục THTK 7 Cải cách thủ tục hành chính Các đơn vị thuộc Bộ Cục THTK 8 Bộ thủ tục hành chính Các đơn vị thuộc Bộ Cục THTK 9 Tuyển dụng Các đơn vị thuộc Bộ Cục THTK 10 Đóng góp ý kiến dự thảo văn bản Các đơn vị thuộc Bộ Cục THTK 11 Văn bản pháp quy Các đơn vị thuộc Bộ Cục THTK 12 Quản lý nợ và Tài chính đối ngoại Cục QLN Cục THTK 13 Kế toán - Kiểm toán 13.1 Giới thiệu vụ Chế độ kế toán và kiểm toán Vụ CĐKT Cục THTK 13.2 Tin tức Vụ CĐKT Cục THTK 13.3 Công khai danh sách kiểm toán viên hành nghề và doanh nghiệp kiểm toán Vụ CĐKT Cục THTK 13.4 Cơ chế, chính sách - kiểm toán Vụ CĐKT Cục THTK 13.5 Hỏi đáp về Kế toán & Kiểm toán Vụ CĐKT Cục THTK 14 Thông tin dịch vụ tài chính 14.1 Thông tin thẩm định về giá Cục QLG Cục THTK 14.2 Thông tin về dịch vụ kế toán, kiểm toán Cục QLG Cục THTK 15 Thông tin đấu thầu 15.1 Thông báo mời thầu Các đơn vị thuộc Bộ Cục THTK 15.2 Kết quả lựa chọn Các đơn vị thuộc Bộ Cục THTK 15.3 Quy định Các đơn vị thuộc Bộ Cục THTK 15.4 Kế hoạch đấu thầu Các đơn vị thuộc Bộ Cục THTK 16 Hỏi đáp CSTC 16.1 Tài chính tổng hợp Các đơn vị thuộc Bộ Cục THTK 16.2 Đầu tư Các đơn vị thuộc Bộ Cục THTK 16.3 Thuế Các đơn vị thuộc Bộ Cục THTK 16.4 Hải quan Các đơn vị thuộc Bộ Cục THTK 16.5 Kế toán và kiểm toán Các đơn vị thuộc Bộ Cục THTK 16.6 Tài chính hành chính sự nghiệp Các đơn vị thuộc Bộ Cục THTK 16.7 Ngân sách nhà nước Các đơn vị thuộc Bộ Cục THTK 16.8 Quản lý công sản Các đơn vị thuộc Bộ Cục THTK 16.9 Kho bạc Các đơn vị thuộc Bộ Cục THTK 17 Ngân sách nhà nước 17.1 Số liệu trong nước Vụ NSNN Cục THTK 17.2 Số liệu quốc tế Vụ NSNN Cục THTK 17.3 Báo cáo NSNN hàng năm Vụ NSNN Cục THTK 17.4 Báo cáo NSNN dành cho công dân Vụ NSNN Cục THTK 17.5 Mục lục ngân sách Vụ NSNN Cục THTK 18 Hợp tác quốc tế 18.1 Hội nhập và Hợp tác tài chính Vụ HTQT Cục THTK 18.2 Nhóm đối tác tài chính công Vụ HTQT Cục THTK 19 Đầu tư 19.1 Giới thiệu về Vụ đầu tư Vụ ĐT Cục THTK 19.2 Tin tức Vụ ĐT Vụ ĐT 19.3 Chế độ - chính sách Vụ ĐT Vụ ĐT 19.4 Dữ liệu và thống kê tài chính Vụ ĐT Vụ ĐT 19.5 Hỏi - đáp về đầu tư Vụ ĐT Cục THTK 20 Hiện đại hóa công nghệ thông tin Cục THTK Cục THTK 21 Thi đua khen thưởng Vụ TĐKT Cục THTK 21.1 Văn bản hướng dẫn Vụ TĐKT Cục THTK 21.2 Phong trào thi đua Vụ TĐKT Cục THTK 21.3 Tin hoạt động Vụ TĐKT Cục THTK 21.4 Quyết định khen thưởng Vụ TĐKT Cục THTK 21.5 Gương điển hình tiên tiến, người tốt - việc tốt Vụ TĐKT Cục THTK 21.6 Sáng kiến, kinh nghiệm Vụ TĐKT Cục THTK 21.7 Hỏi - Đáp Vụ TĐKT Cục THTK 21.8 Nghiên cứu, trao đổi Vụ TĐKT Cục THTK 22 Số liệu thống kê 22.1 Số liệu công khai Ngân sách nhà nước Vụ NSNN Cục THTK 22.2 Hàng hóa xuất khẩu, nhập khẩu\nTCHQ TCHQ\n22.3 Tình hình nợ công Cục QLN Cục THTK 22.4 Báo cáo thường niên Cục THTK Cục THTK 22.5 Tình hình hoạt động thị trường bảo hiểm Cục QLBH\nTCHQ\n23 Tài chính doanh nghiệp 23.1 Giới thiệu về lĩnh vực TCDN Cục TCDN Cục THTK 23.2 Hệ thống văn bản Cục TCDN Cục THTK 23.3 Tài chính doanh nghiệp Cục TCDN Cục THTK 23.4 Tái cơ cấu DNNN Cục TCDN Cục THTK 23.5 Cổ phần hóa đơn vị sự nghiệp Cục TCDN Cục THTK 23.6 Hỏi đáp về TCDN Cục TCDN Cục THTK 24 Chiến lược và Kế hoạch hành động Viện CLTC Cục THTK 25 Vấn đề quốc hội quan tâm\nVPB VPB\n26 Thông tin điều hành giá Cục QLG Cục THTK 26.1 Thông tin điều hành giá xăng dầu Cục QLG Cục THTK 26.2 Giá sữa dành cho trẻ em dưới 6 tuổi Cục QLG Cục QLG 27 Thông tin về chương trình nghiên cứu, đề tài khoa học Viện CLTC Viện CLTC 28 Đảng bộ Bộ Tài chính Tạp chí Tài chính Cục THTK 29 70 năm tài chính Việt Nam đồng hành cùng đất nước\nVPB VPB\n30 Tỷ giá hạch toán/Tỷ giá ngoại tệ 30.1 + Tỷ giá hạch toán\nKBNN\nCục THTK 30.2 + Tỷ giá ngoại tệ\nUBCKNN UBCKNN\n31 Thông tin chứng khoán\nUBCKNN UBCKNN\n32 Góp ý hiến kế Cục THTK Cục THTK 33 Thăm dò ý kiến Cục THTK Cục THTK 34 Giao lưu trực tuyến Cục THTK Cục THTK II. Chuyên trang Tên Chuyên trang Địa chỉ truy cấp Đơn vị chủ thể Đơn vị xuất bản\n1. Bộ trưởng Bộ Tài chính\nhttp://portal.mof.gov.vn/webcenter/portal/ttbt\nVPB VP\n2. Công đoàn Bộ Tài chính\nhttp://congdoan.mof.gov.vn\nCĐB\nCục THTK\n3. Thị trường trái phiếu\nhttp://tpcp.mof.gov.vn Vụ TCNH Cục THTK\n4. Nhà Xuất bản Tài chính\nhttp://nxbtc.mof.gov.vn\nNXB NXB\n5. Giá và Thẩm định giá\nhttp://qlg.mof.gov.vn Cục QLG Cục QLG\n6. Thông tin Pháp luật tài chính\nhttp://ilfv.mof.gov.vn Vụ PC Vụ PC\n7. Thanh tra Bộ\nhttp://thanhtrabtc.mof.gov.vn TTr TTr\n8. Quản lý, giám sát bảo hiểm\nhttp://isa.mof.gov.vn Cục QLBH Cục QLBH\n9. Chiến lược và Chính sách tài chính\nhttp://nif.mof.gov.vn Viện CLTC Viện CLTC\n10. Tin tức tài chính\nhttp://portal.mof.gov.vn/webcenter/portal/tttc\nVPB VPB\n11. Trung tâm Nghiên cứu và Đào tạo\nbảo hiểm http://Irt.mof.gov.vn Trung tâm NC&ĐT Bảo hiểm Trung tâm NC&ĐT Bảo hiểm\n12. Tiếng anh\nhttp://portal.mof.gov.vn/webcenter/portal/mof VPB, Cục THTK VPB, Cục THTK\n13. Dịch vụ công\nhttp://portal.mof.gov.vn/webcenter/portal/dvc_btc Cục THTK Cục THTK III. Trang liên kết Tên trang Địa chỉ truy cập Đơn vị chủ thể\n1. Thông tin về tài sản nhà nước\nhttp://taisancong.mof.gov.vn Cục Quản lý công sản\n2. Thời báo tài chính Việt Nam\nOnline http://thoibaotaichinhvietnam.vn Thời báo Tài chính\n3. Tạp chí tài chính\nhttp://www.tapchitaichinh.vn Tạp chí tài chính\n4. Trường Bồi dưỡng cán bộ tài\nchính http://www.ift.edu.vn Trường Bồi dưỡng cán bộ tài chính\n5. Học viện tài chính\nhttp://www.hvtc.edu.vn Học viện tài chính\n6. Trường Đại học Tài chính -\nMarketing http://www.ufm.edu.vn Trường Đại học Tài chính - Marketing\n7. Trường Đại học Tài chính - kế\ntoán http://www.tckt.edu.vn Trường Đại học Tài chính - kế toán\n8. Trường Đại học Tài chính - Quản trị\nkinh doanh http://www.tcqtkd.edu.vn Trường Đại học Tài chính - Quản trị kinh doanh\n9. Trường Cao đẳng tài chính - Hải\nquan http://www.tchq.edu.vn Trường Cao đẳng tài chính - Hải quan\n10. Bảo Việt\nhttp://www.baoviet.com.vn Tập đoàn Bảo Việt\n11. Sở giao dịch chứng khoán Hà nội\nhttp://hnx.vn Sở giao dịch chứng khoán Hà nội\n12. Sở giao dịch chứng khoán TP.HCM\nhttps://www.hsx.vn Sở giao dịch chứng khoán TP.HCM\n13. Công ty TNHH mua bán nợ Việt\nNam http://datc.vn Công ty TNHH mua bán nợ Việt Nam\n14. Công ty TNHH Hãng kiểm toán\nAASC\nhttp://aasc.com.vn Công ty TNHH Hãng kiểm toán AASC\n15. Hội Thẩm định giá Việt Nam\nhttp://www.vva.org.vn Hội Thẩm định giá Việt Nam\n16. Trung tâm lưu ký chứng khoán Việt\nNam http://www.vsd.vn Trung tâm lưu ký chứng khoán\n17. Hội kiểm toán viên hành nghề Việt\nNam http://www.vacpa.org.vn Hội kiểm toán viên hành nghề Việt Nam\n18. Công ty cổ phần định giá và dịch\nvụ tài chính Việt Nam http://www.wfc.vn Sở giao dịch chứng khoán TP.HCM\n19. Hội Tư vấn thuế Việt Nam VTCA\nhttp://www.vtca.vn Hội Tư vấn thuế Việt Nam VTCA\n20. Deloitte\nhttp://www2.deloitte.com/vn/en.html Công ty kiểm toán Deloitte Việt Nam\n21. Công ty xổ số điện toán Việt\nNam http://vietlott.vn Công ty xổ số điện toán Việt Nam\n22. Tổng công ty đầu tư và Kinh\ndoanh vốn nhà nước http://www.scic.vn Tổng công ty đầu tư và Kinh doanh vốn nhà nước ....... ngày...... tháng...... năm....... Trưởng Ban Biên tập\nPHỤ LỤC II\nMẪU TỜ TRÌNH PHÊ DUYỆT CHỦ TRƯƠNG TẠO\nMỚI MỤC/ CHUYÊN MỤC/ CHUYÊN TRANG\n(Ban hành kèm theo Quyết định số 2131/QĐ-BTC ngày 04/10/2016 của Bộ trưởng Bộ\nTài chính) Mẫu số 2.1 Mẫu tờ trình phê duyệt chủ trương tạo mới Mục/Chuyên mục\n(TÊN CƠ QUAN/ĐƠN VỊ)\n-------\nCỘNG\nHÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc --------------- Số: ............../TTr-(Ký hiệu đơn vị) Hà Nội, ngày tháng năm 20....\nTỜ TRÌNH\nVề phê duyệt chủ trương tạo mới Mục/Chuyên mục (tên Chuyên mục) trên Cổng TTĐT Bộ Tài chính Căn cứ Nghị định số 43/2011/NĐ-CP ngày 13/6/2011 của Chính phủ quy định về việc cung cấp thông tin và dịch vụ công trực tuyến trên Trang thông tin điện tử hoặc Cổng thông tin điện tử của cơ quan nhà nước; Căn cứ Quyết định số ....../QĐ-BTC ngày .......... của Bộ trưởng Bộ Tài chính về việc ban hành Quy chế hoạt động của Cổng TTĐT Bộ Tài chính; Căn cứ .................., (Tên Vụ, Cục) kính trình Trưởng Ban Biên tập Cổng TTĐT Bộ Tài chính phê duyệt chủ trương tạo mới (Tên Mục/Chuyên mục) trên Cổng TTĐT Bộ Tài chính, cụ thể như sau: - Mục tiêu tạo mới Mục/Chuyên mục - Nội dung, cấu trúc chung của Mục/Chuyên mục - Chu kỳ cập nhật thông tin - Cán bộ phụ trách cung cấp thông tin (họ và tên, email, số máy lẻ, di động) - Đại diện lãnh đạo đơn vị (họ và tên, email, số máy lẻ, di động) - Thời gian thực hiện xây dựng Kính trình Trưởng Ban Biên tập Cổng TTĐT Bộ Tài chính xem xét, phê duyệt./.\nLÃNH ĐẠO ĐƠN VỊ\nKý tên (và đóng dấu nếu có) Họ và tên Mẫu số 2.2 Mẫu tờ trình phê duyệt chủ trương tạo mới Chuyên trang\n(TÊN CƠ QUAN/ĐƠN VỊ)\n-------\nCỘNG\nHÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc --------------- Số: ............../TTr-(Ký hiệu đơn vị) Hà Nội, ngày tháng năm 20....\nTỜ TRÌNH\nVề phê duyệt chủ trương tạo mới Chuyên trang (tên Chuyên trang) trên Cổng TTĐT Bộ Tài chính Căn cứ Nghị định số 43/2011/NĐ-CP ngày 13/6/2011 của Chính phủ quy định về việc cung cấp thông tin và dịch vụ công trực tuyến trên Trang thông tin điện tử hoặc Cổng thông tin điện tử của cơ quan nhà nước; Căn cứ Quyết định số ......./QĐ-BTC ngày ........ của Bộ trưởng Bộ Tài chính về việc ban hành Quy chế hoạt động của Cổng TTĐT Bộ Tài chính; Căn cứ ................, (Tên Vụ, Cục) kính trình Trưởng Ban Biên tập Cổng TTĐT Bộ Tài chính phê duyệt chủ trương tạo mới (Tên Chuyên trang) trên Cổng TTĐT Bộ Tài chính, cụ thể như sau: - Mục tiêu xây dựng - Nội dung, cấu trúc chung của Chuyên trang (Giao diện, kết cấu thông tin) - Chu kỳ cập nhật thông tin của từng Mục/Chuyên mục trong Chuyên trang - Nhân sự thực hiện việc duy trì hoạt động chuyên trang - Kinh phí xây dựng, duy trì hoạt động chuyên trang - Thời gian thực hiện xây dựng Kính trình Trưởng Ban Biên tập Cổng TTĐT Bộ Tài chính xem xét, phê duyệt./.\nNơi nhận:\n- Như trên;\n- ..............;\n- Lưu: VT, (Đv soạn thảo), (số bản phát hành).\nLÃNH\nĐẠO ĐƠN VỊ\nKý tên\n(và đóng dấu nếu có)\nHọ và tên\nPHỤ LỤC III\nHỒ SƠ QUẢN LÝ MỤC/CHUYÊN MỤC/CHUYÊN\nTRANG\n(Ban hành kèm theo Quyết định số 2131/QĐ-BTC ngày 04/10/2016 của Bộ trưởng Bộ\nTài chính) Mẫu số 3.1 Hồ sơ quản lý Mục/Chuyên mục\nCỘNG\nHÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc -------------------\nHỒ\nSƠ QUẢN LÝ MỤC/ CHUYÊN MỤC\n1. Tên Mục/Chuyên mục:\n2. Căn cứ: (Theo Công văn/ Quyết định xây dựng Mục, Chuyên mục)\n3. Đại diện Lãnh đạo đơn vị chủ thể:\n- Tên Lãnh đạo đơn vị: - Số điện thoại liên lạc: số di động, số máy lẻ - Email:\n4. Cán bộ đầu mối phụ trách cung cấp\nthông tin: - Họ tên: - Số điện thoại liên lạc: số di động, số máy lẻ - Email:\n5. Chu kỳ cập nhật: (Chi tiết chu kỳ cập nhật đến từng Mục tin)\n6. Vị trí trên Cổng TTĐT Bộ Tài\nchính và mô tả sơ bộ nội dung:\n7. Đơn vị biên tập, xuất bản thông\ntin: - Họ tên chuyên viên phụ trách xuất bản: - Di động: - Số máy lẻ: - Email: ...... ngày...... tháng....... năm....... Xác nhận của Ban Biên tập ...... ngày...... tháng....... năm....... Đại diện đơn vị chủ thể Mẫu số 3.2 Hồ sơ quản lý Chuyên trang\nCỘNG\nHÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc -------------\nHỒ SƠ QUẢN LÝ CHUYÊN TRANG\n1. Tên Chuyên trang, địa chỉ truy\ncập Chuyên trang:\n2. Căn cứ: (Theo Tờ trình/Quyết định phê duyệt xây dựng Chuyên trang)\n3. Đại diện Lãnh đạo đơn vị chủ thể:\n- Tên Lãnh đạo đơn vị: - Số điện thoại liên lạc: số di động, số máy lẻ - Email:\n4. Cán bộ phụ trách cung cấp, xuất\nbản thông tin: -Họ tên: - Số điện thoại liên lạc: số di động, số máy lẻ - Email:\n5. Chu kỳ cập nhật: (Chi tiết chu kỳ cập nhật đến từng Mục tin)\nSTT\nTên Mục/Chuyên mục Chu kỳ cập nhật 1 2 3\n6. Thông tin về các Biểu tượng,\ntrang liên kết (nếu có)\n7. Mô tả sơ bộ: (Banner và giao diện trang chủ của chuyên trang, thiết kế các mục thông\ntin (sitemap) của chuyên trang. Biểu tượng chọn làm logo và vị trí đặt trên Trang chủ)\n8. Các yêu cầu kỹ thuật khác:\n......... ngày..... tháng..... năm.......... Xác nhận của Ban Biên tập ......... ngày..... tháng..... năm.......... Đại diện đơn vị chủ thể\nPHỤ LỤC IV\nBÁO CÁO TÌNH HÌNH CẬP NHẬT THÔNG TIN\n(Ban hành kèm theo Quyết định số 2131/QĐ-BTC ngày 04/10/2016 của Bộ trưởng Bộ\nTài chính) Mẫu 4.1. Mẫu Báo cáo tình hình cập nhật thông tin trên Cổng TTĐT Bộ Tài chính (Kể từ ngày/tháng/năm đến ngày/tháng/năm)\nSTT\nTên đơn vị Số lượng chuyên trang Số lượng chuyên mục Số lượng tin đăng tải (từ ngày.... đến ngày...) Đánh giá Đề xuất Hà nội, ngày.... tháng...... năm..........\nCỤC TIN HỌC VÀ THỐNG KÊ TÀI CHÍNH",
+  "tree": {
+    "parts": [
+      {
+        "part_id": "doc:218388:part:1",
+        "part_type": "main",
+        "part_title": null,
+        "reference": null,
+        "direct_text": "QUYẾT ĐỊNH\nVỀ VIỆC BAN HÀNH QUY CHẾ HOẠT ĐỘNG CỦA CỔNG THÔNG TIN ĐIỆN TỬ BỘ TÀI\nCHÍNH BỘ TRƯỞNG BỘ TÀI CHÍNH\nCăn cứ Nghị định số 215/2013/NĐ-CP ngày 23 tháng 12 năm 2013 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài chính; Căn cứ Nghị quyết 36a/NQ-CP ngày 14/10/2015 về Chính phủ điện tử; Căn cứ Nghị định số 43/2011/NĐ-CP ngày 13 tháng 6 năm 2011 của Chính phủ quy định về việc cung cấp thông tin và dịch vụ công trực tuyến trên trang thông tin điện tử hoặc Cổng thông tin điện tử của cơ quan nhà nước; Căn cứ Quyết định số 1534/QĐ-BTC ngày 28 tháng 6 năm 2013 Phê duyệt định hướng phát triển Cổng thông tin điện tử ngành Tài chính đến năm 2020; Căn cứ Thông tư số 22/2013/TT-BTTTT ngày 23 tháng 12 năm 2013 ban hành danh mục tiêu chuẩn về ứng dụng công nghệ thông tin trong cơ quan nhà nước; Căn cứ Quyết định số 30/QĐ-BTC ngày 03 tháng 01 năm 2014 về ban hành Quy trình hỏi đáp chính sách tài chính trên Cổng thông tin điện tử Bộ Tài chính; Căn cứ Quyết định số 1083/QĐ-BTC ngày 20 tháng 5 năm 2014 về Quy chế công bố công khai, niêm yết và cập nhật vào Cơ sở dữ liệu quốc gia các thủ tục hành chính thuộc phạm vi thẩm quyền quản lý của Bộ Tài chính; Căn cứ Quyết định số 3317/QĐ-BTC ngày 24 tháng 12 năm 2014 Ban hành Quy định về việc đảm bảo an toàn thông tin trên môi trường máy tính và mạng máy tính; Xét đề nghị của Chánh Văn phòng Bộ và Cục trưởng Cục Tin học và Thống kê tài chính,\nQUYẾT ĐỊNH:",
+        "chapters": [],
+        "sections": [],
+        "articles": [
+          {
+            "article_id": "doc:218388:part:1:article:1",
+            "number": "1",
+            "title": "Ban hành kèm theo Quyết định này Quy chế hoạt động của Cổng thông tin điện tử Bộ Tài chính.",
+            "content": "Điều 1. Ban hành kèm theo Quyết định này Quy chế hoạt động của Cổng thông tin điện tử Bộ Tài chính.",
+            "clauses": [],
+            "points": []
+          },
+          {
+            "article_id": "doc:218388:part:1:article:2",
+            "number": "2",
+            "title": "Quyết định này có hiệu lực kể từ ngày ký, thay thế Quyết định số 993/QĐ-BTC ngày 06 tháng 05 năm 2013 về việc ban hành Quy chế hoạt động của Cổng thông tin điện tử Bộ Tài chính. Chánh Văn phòng Bộ, Cục trưởng Cục Tin học và Thống kê tài chính và Thủ trưởng các đơn vị liên quan chịu trách nhiệm thi hành Quyết định này./.",
+            "content": "Điều 2. Quyết định này có hiệu lực kể từ ngày ký, thay thế Quyết định số 993/QĐ-BTC ngày 06 tháng 05 năm 2013 về việc ban hành Quy chế hoạt động của Cổng thông tin điện tử Bộ Tài chính. Chánh Văn phòng Bộ, Cục trưởng Cục Tin học và Thống kê tài chính và Thủ trưởng các đơn vị liên quan chịu trách nhiệm thi hành Quyết định này./.",
+            "clauses": [],
+            "points": []
+          }
+        ],
+        "unstructured_blocks": []
+      },
+      {
+        "part_id": "doc:218388:part:2",
+        "part_type": "regulation",
+        "part_title": "QUY CHẾ",
+        "reference": null,
+        "direct_text": "QUY CHẾ\nHOẠT ĐỘNG CỦA CỔNG THÔNG TIN ĐIỆN TỬ BỘ TÀI CHÍNH\n(Ban hành kèm theo Quyết định số 2131/QĐ-BTC Ngày 4 tháng 10 năm 2016 của Bộ\ntrưởng Bộ Tài chính)\nQuy chế này quy định về hoạt động\ncung cấp thông tin, dịch vụ công trực tuyến và quản trị vận hành Cổng thông tin điện tử (sau đây gọi là Cổng TTĐT) Bộ Tài chính, có địa chỉ trên Internet là: www.mof.gov.vn và http://www.botaichinh.gov.vn.\nPhụ lục III của Quy chế này.\nTrường hợp các Mục/Chuyên mục do nhiều đơn vị cung cấp thông tin, Cục THTK là đơn vị chủ thể, có trách nhiệm lập Hồ sơ quản lý theo hướng dẫn tại Mẫu số 01, phụ lục III của Quy chế này.\n2. Đăng tải thông tin\na) Đơn vị chủ thể cung cấp thông tin\nchịu trách nhiệm về tính chính xác của thông tin cung cấp theo quy định tại Khoản 1, Điều 6 Quy chế này.\nb) Trường hợp các Mục/Chuyên mục do\nđơn vị chủ thể cung cấp thông tin, dữ liệu, Cục THTK biên tập, xuất bản thông tin: - Thông tin gửi bằng bản mềm (bản mềm có tên mục tin cần đăng, nội dung tin cần đăng, thời gian đăng) từ địa chỉ thư điện tử của cán bộ phụ trách cung cấp thông tin của đơn vị, gửi đến địa chỉ thư điện tử: ttdauthau@mof.gov.vn đối với thông tin đăng tải về đấu thầu; vbpq@mof.gov.vn đối với thông tin đăng tải về văn bản pháp quy; support@mof.gov.vn đối với thông tin về giải đáp chính sách của độc giả; tin@mof.gov.vn đối với các thông tin khác, để làm thủ tục đăng tải. - Trong thời hạn 3 ngày làm việc kể từ ngày nhận được email đề nghị, Cục THTK có trách nhiệm biên tập, xuất bản thông tin lên Cổng TTĐT Bộ Tài chính.\nc) Trường hợp Mục/Chuyên mục do đơn vị\nchủ thể chịu trách nhiệm cung cấp, biên tập và xuất bản thông tin, Cục THTK thực hiện cung cấp tài khoản, hướng dẫn biên tập, đảm bảo thông tin được cập nhật đầy đủ, kịp thời. Đơn vị chủ thể tuân thủ các điều khoản về an toàn bảo mật quy định tại Quyết định 3317/QĐ-BTC ngày 24/12/2014 của Bộ trưởng Bộ Tài chính quy định về việc đảm bảo an toàn thông tin trên môi trường máy tính và mạng máy tính.\n3. Duy trì hoạt động\n- Đơn vị chủ thể của Mục/Chuyên mục định kỳ hàng tháng thực hiện rà soát tình hình đăng tải thông tin của Mục/Chuyên mục do đơn vị mình phụ trách để cập nhật thông tin đúng theo Hồ sơ quản lý đã đăng ký. - Định kỳ 6 tháng, Cục THTK thực hiện kiểm tra tình hình cập nhật thông tin của các Mục/Chuyên mục trên Cổng TTĐT Bộ Tài chính để báo cáo Ban Biên tập theo Mẫu số 4.1\nPhụ lục IV của Quy chế này, với những Mục/Chuyên mục có thời gian cập nhật\nkhông đúng với hồ sơ quản lý hoặc trong 01 năm liên tục thông tin không được cập nhật, Cục THTK trình Ban Biên tập gỡ bỏ Mục/Chuyên mục đó và có văn bản thông báo lại với đơn vị chủ thể Mục/Chuyên mục.\n4. Chỉnh sửa/Gỡ bỏ\na) Chỉnh sửa\n- Thủ trưởng đơn vị trình Ban Biên tập (qua Cục THTK) về nội dung đề nghị chỉnh sửa. Trường hợp nội dung đề nghị chỉnh sửa không làm ảnh hưởng đến kết cấu và mục tiêu tuyên truyền đã được Ban Biên tập phê duyệt tại chủ trương tạo mới Mục, Chuyên mục của đơn vị, Cục THTK có trách nhiệm xem xét, chỉnh sửa theo yêu cầu. Trường hợp nội dung đề nghị chỉnh sửa của đơn vị khác với kết cấu và mục tiêu tuyên truyền đã được Ban Biên tập phê duyệt trong Hồ sơ đề nghị tạo mới Mục, Chuyên mục đó, Cục THTK báo cáo Ban Biên tập xem xét, phê duyệt. - Đơn vị chủ thể có trách nhiệm hoàn thiện lại Hồ sơ quản lý trong vòng 03 ngày làm việc sau khi Mục/Chuyên mục chỉnh sửa đi vào hoạt động.\nb) Gỡ bỏ\nThủ trưởng đơn vị trình Ban Biên tập (qua Cục THTK) nêu rõ lý do gỡ bỏ, Cục THTK chủ trì, phối hợp với Văn phòng Bộ và các đơn vị liên quan thẩm định, trình Ban Biên tập phê duyệt. Sau khi được phê duyệt, Cục THTK thực hiện gỡ bỏ theo chỉ đạo của Ban Biên tập.\nQuy chế này.\n- Thủ trưởng đơn vị chịu trách nhiệm trước Lãnh đạo Bộ về tính chính xác, kịp thời những thông tin, dữ liệu trên chuyên trang, chuyên mục do đơn vị mình quản lý. - Lập, cập nhật hồ sơ quản lý đối với mục, chuyên mục, chuyên trang do đơn vị mình quản lý theo quy định tại Điều 7,",
+        "chapters": [
+          {
+            "chapter_id": "doc:218388:part:2:chapter:1",
+            "number": "I",
+            "title": "QUY ĐỊNH CHUNG",
+            "content": "Chương I\nQUY ĐỊNH CHUNG",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:218388:part:2:article:1",
+                "number": "1",
+                "title": "Phạm vi điều chỉnh",
+                "content": "Điều 1. Phạm vi điều chỉnh",
+                "clauses": [],
+                "points": []
+              },
+              {
+                "article_id": "doc:218388:part:2:article:2",
+                "number": "2",
+                "title": "Đối tượng áp dụng",
+                "content": "Điều 2. Đối tượng áp dụng",
+                "clauses": [
+                  {
+                    "clause_id": "doc:218388:part:2:article:2:clause:1",
+                    "number": "1",
+                    "content": "1. Các đơn vị thuộc Bộ Tài chính.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:218388:part:2:article:2:clause:2",
+                    "number": "2",
+                    "content": "2. Các tổ chức, cá nhân tham gia cung\ncấp thông tin, dịch vụ công trực tuyến và quản trị vận hành Cổng TTĐT Bộ Tài chính.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:218388:part:2:article:2:clause:3",
+                    "number": "3",
+                    "content": "3. Các tổ chức, cá nhân khai thác và\nsử dụng thông tin, dịch vụ công trực tuyến trên Cổng TTĐT Bộ Tài chính tự nguyện áp dụng Quy chế này.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:218388:part:2:article:3",
+                "number": "3",
+                "title": "Giải thích từ ngữ",
+                "content": "Điều 3. Giải thích từ ngữ",
+                "clauses": [
+                  {
+                    "clause_id": "doc:218388:part:2:article:3:clause:1",
+                    "number": "1",
+                    "content": "1. Cổng thông tin điện tử Bộ Tài\nchính: là điểm truy cập duy nhất của Bộ Tài chính trên môi trường mạng, liên kết, tích hợp các kênh thông tin, các dịch vụ và các ứng dụng mà qua đó người dùng có thể khai thác, sử dụng và cá nhân hóa việc hiển thị thông tin.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:218388:part:2:article:3:clause:2",
+                    "number": "2",
+                    "content": "2. Dịch vụ hành chính công: là những dịch vụ liên quan đến hoạt động thực thi pháp luật, không nhằm\nmục tiêu lợi nhuận, do cơ quan nhà nước có thẩm quyền cấp cho tổ chức, cá nhân dưới hình thức các loại giấy tờ có giá trị pháp lý trong các lĩnh vực mà cơ quan nhà nước đó quản lý. Mỗi dịch vụ hành chính công gắn liền với một thủ tục hành chính để giải quyết hoàn chỉnh một công việc cụ thể liên quan đến tổ chức, cá nhân.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:218388:part:2:article:3:clause:3",
+                    "number": "3",
+                    "content": "3. Dịch vụ công trực tuyến: là dịch vụ hành chính công và các dịch vụ khác của cơ quan nhà nước được\ncung cấp cho các tổ chức, cá nhân trên môi trường mạng.",
+                    "points": [
+                      {
+                        "point_id": "doc:218388:part:2:article:3:clause:3:point:1",
+                        "label": "a",
+                        "content": "a) Dịch vụ công trực tuyến mức độ\n1: là dịch vụ bảo đảm cung cấp đầy đủ các thông tin về thủ tục hành chính và các văn bản có liên quan quy định về thủ tục hành chính đó.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:218388:part:2:article:3:clause:3:point:2",
+                        "label": "b",
+                        "content": "b) Dịch vụ công trực tuyến mức độ\n2: là dịch vụ công trực tuyến mức độ 1 và cho phép người sử dụng tải về các mẫu văn bản và khai báo để hoàn thiện hồ sơ theo yêu cầu. Hồ sơ sau khi hoàn thiện được gửi trực tiếp hoặc qua đường bưu điện đến cơ quan, tổ chức cung cấp dịch vụ.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:218388:part:2:article:3:clause:3:point:3",
+                        "label": "c",
+                        "content": "c) Dịch vụ công trực tuyến mức độ 3: là dịch vụ công trực tuyến mức độ 2 và cho phép người sử dụng điền và\ngửi trực tuyến các mẫu văn bản đến cơ quan, tổ chức cung cấp dịch vụ. Các giao dịch trong quá trình xử lý hồ sơ và cung cấp dịch vụ được thực hiện trên môi trường mạng. Việc thanh toán lệ phí (nếu có) và nhận kết quả được thực hiện trực tiếp tại cơ quan, tổ chức cung cấp dịch vụ.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:218388:part:2:article:3:clause:3:point:4",
+                        "label": "d",
+                        "content": "d) Dịch vụ công trực tuyến mức độ\n4: là dịch vụ công trực tuyến mức độ 3 và cho phép người sử dụng thanh toán lệ phí (nếu có) được thực hiện trực tuyến. Việc trả kết quả có thể được thực hiện trực tuyến, gửi trực tiếp hoặc qua đường bưu điện đến người sử dụng.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:218388:part:2:article:3:clause:4",
+                    "number": "4",
+                    "content": "4. Mục: là một tập hợp các\ntin, bài, số liệu có nội dung hướng theo một chủ đề.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:218388:part:2:article:3:clause:5",
+                    "number": "5",
+                    "content": "5. Chuyên mục: là một tập hợp\ncủa một số mục tạo thành.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:218388:part:2:article:3:clause:6",
+                    "number": "6",
+                    "content": "6. Chuyên trang: là trang\nthông tin nằm trong Cổng TTĐT Bộ Tài chính, có nội dung về một lĩnh vực cụ thể, được đặt tên truy cập trực tiếp trên mạng. Chuyên trang do các đơn vị thuộc Bộ cung cấp thông tin, dữ liệu theo chức năng, nhiệm vụ của đơn vị.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:218388:part:2:article:3:clause:7",
+                    "number": "7",
+                    "content": "7. Trang liên kết: (Logo liên\nkết hoặc Logo link) là 1 biểu tượng (hoặc hình ảnh) được gắn trên Cổng TTĐT Bộ Tài chính hoặc trên Chuyên trang thuộc Cổng TTĐT Bộ Tài chính mà khi người sử dụng kích chuột vào biểu tượng này sẽ tự động dẫn đến một trang thông tin hoặc ứng dụng liên kết. Các trang thông tin và ứng dụng liên kết này không sử dụng phần mềm biên tập (CMS) của Cổng TTĐT Bộ Tài chính.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:218388:part:2:article:3:clause:8",
+                    "number": "8",
+                    "content": "8. Đơn vị chủ thể: là những\nđơn vị thuộc Bộ Tài chính chịu trách nhiệm toàn diện về nội dung và hình thức của thông tin, số liệu, hình ảnh... có liên quan đến công việc của đơn vị đăng tải trên Cổng TTĐT Bộ Tài chính (dưới một trong những hình thức: Mục, Chuyên mục, Chuyên trang hoặc Trang liên kết (Logo link)).",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:218388:part:2:article:3:clause:9",
+                    "number": "9",
+                    "content": "9. Đơn vị xuất bản: là đơn vị\ncó nhiệm vụ sử dụng các công cụ tin học và phần mềm biên tập để chuyển các nội dung thông tin, số liệu do đơn vị chủ thể cung cấp thành dạng số hóa đưa lên những Mục, Chuyên mục, Chuyên trang trên Cổng TTĐT Bộ Tài chính theo quy cách được thống nhất với đơn vị chủ thể.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:218388:part:2:article:3:clause:10",
+                    "number": "10",
+                    "content": "10. Hồ sơ quản lý: là tài liệu\ngồm các thông tin liên quan về các mục, chuyên mục, chuyên trang trên Cổng TTĐT Bộ Tài chính.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:218388:part:2:article:3:clause:11",
+                    "number": "11",
+                    "content": "11. Ban Biên tập Cổng thông tin điện\ntử Bộ Tài chính (sau đây gọi là Ban Biên tập): là tổ chức do Bộ trưởng Bộ Tài chính thành lập để thực hiện chức năng giúp Bộ trưởng trong việc tiếp nhận, xử lý, biên tập, cập nhật thông tin và phối hợp xử lý dịch vụ công để đảm bảo hoạt động của Cổng TTĐT Bộ Tài chính.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:218388:part:2:chapter:2",
+            "number": "II",
+            "title": "HOẠT ĐỘNG CỦA CỔNG TTĐT BỘ TÀI CHÍNH",
+            "content": "Chương II\nHOẠT ĐỘNG CỦA CỔNG TTĐT BỘ TÀI CHÍNH",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:218388:part:2:article:4",
+                "number": "4",
+                "title": "Mục đích, yêu cầu của Cổng TTĐT Bộ Tài chính",
+                "content": "Điều 4. Mục đích, yêu cầu của Cổng TTĐT Bộ Tài chính",
+                "clauses": [
+                  {
+                    "clause_id": "doc:218388:part:2:article:4:clause:1",
+                    "number": "1",
+                    "content": "1. Cổng TTĐT Bộ Tài chính là cổng\ntích hợp thông tin của toàn ngành, lĩnh vực do Bộ Tài chính quản lý, được tích hợp thông tin dịch vụ công trực tuyến của tất cả các đơn vị thuộc Bộ và là đầu mối công bố các thông tin chính thức của Bộ Tài chính trên mạng Internet, đảm bảo cung cấp đầy đủ thông tin theo quy định của Chính phủ, đáp ứng nhiệm vụ thông tin tuyên truyền của ngành Tài chính. Tạo lập kênh cung cấp và trao đổi thông tin, dịch vụ công của ngành Tài chính phục vụ công dân, doanh nghiệp và các tổ chức trong và ngoài nước; hỗ trợ tích cực cho việc thực hiện cải cách hành chính; triển khai Chính phủ điện tử.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:218388:part:2:article:4:clause:2",
+                    "number": "2",
+                    "content": "2. Đảm bảo kết nối với Cổng TTĐT\nChính phủ, Cổng TTĐT của các Bộ, ngành có liên quan theo đúng lộ trình của Chính phủ, đồng thời tạo nền tảng hạ tầng công nghệ sẵn sàng cho việc kết nối an toàn, thuận tiện, hiệu quả giữa Cổng TTĐT ngành Tài chính với Cổng TTĐT của các cơ quan Chính phủ các nước và tổ chức quốc tế, theo quy định của Chính phủ Việt Nam và Công ước Quốc tế.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:218388:part:2:article:5",
+                "number": "5",
+                "title": "Nguyên tắc hoạt động",
+                "content": "Điều 5. Nguyên tắc hoạt động",
+                "clauses": [
+                  {
+                    "clause_id": "doc:218388:part:2:article:5:clause:1",
+                    "number": "1",
+                    "content": "1. Bộ trưởng Bộ Tài chính phê duyệt cấu\ntrúc chung của Cổng TTĐT Bộ Tài chính (bao gồm giao diện, kết cấu thông tin).",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:218388:part:2:article:5:clause:2",
+                    "number": "2",
+                    "content": "2. Ban Biên tập phê duyệt việc điều\nchỉnh, thêm mới, xóa bỏ Mục, Chuyên mục, Chuyên trang đảm bảo không làm ảnh hưởng đến cấu trúc giao diện chung của Cổng TTĐT Bộ Tài chính.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:218388:part:2:article:5:clause:3",
+                    "number": "3",
+                    "content": "3. Các đơn vị thuộc Bộ tuân thủ sự\nphân công của Ban Biên tập trong việc cung cấp, biên tập, xuất bản thông tin trên Cổng TTĐT Bộ Tài chính theo Bảng phân công tại Phụ lục\nI.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:218388:part:2:article:5:clause:4",
+                    "number": "4",
+                    "content": "4. Căn cứ vào tình hình và điều kiện\nthực tế, các đơn vị có thể trình Ban Biên tập bổ sung thêm các Mục/Chuyên mục, Chuyên trang thông tin khác phù hợp với chức năng, nhiệm vụ của đơn vị mình.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:218388:part:2:article:6",
+                "number": "6",
+                "title": "Nguyên tắc đăng tải và khai thác thông tin Các tổ chức, cá nhân đăng tải, khai thác thông tin trên Cổng TTĐT Bộ Tài chính phải đảm bảo các nguyên tắc sau:",
+                "content": "Điều 6. Nguyên tắc đăng tải và khai thác thông tin Các tổ chức, cá nhân đăng tải, khai thác thông tin trên Cổng TTĐT Bộ Tài chính phải đảm bảo các nguyên tắc sau:",
+                "clauses": [
+                  {
+                    "clause_id": "doc:218388:part:2:article:6:clause:1",
+                    "number": "1",
+                    "content": "1. Nguyên tắc đăng tải thông tin:\n- Thông tin đăng tải lên Cổng TTĐT Bộ Tài chính phải đúng với quan điểm, chủ trương, đường lối của Đảng, Chính phủ và Lãnh đạo Bộ Tài chính; phục vụ kịp thời công tác quản lý của cơ quan và nhu cầu khai thác thông tin của các tổ chức, cá nhân. - Thông tin trên Cổng TTĐT Bộ Tài chính phải được cập nhật đầy đủ, chính xác, kịp thời, duy trì liên tục và tuân thủ các quy định của Luật Báo chí, Pháp lệnh bảo vệ bí mật của Nhà nước và các quy định khác của pháp luật có liên quan. - Thông tin đăng tải lên Cổng TTĐT Bộ Tài chính phải được lãnh đạo đơn vị phê duyệt trước khi đăng tin. Các đơn vị cung cấp thông tin tự chịu trách nhiệm về nội dung và tính chính xác của thông tin đã cung cấp lên Cổng TTĐT Bộ Tài chính. - Thông tin đăng tải trên Cổng TTĐT Bộ Tài chính phải được định dạng theo các chuẩn thông dụng quy định tại Thông tư số 22/2013/TT-BTTTT ngày 23/12/2013 của Bộ Thông tin và Truyền thông ban hành Danh mục tiêu chuẩn kỹ thuật về ứng dụng công nghệ thông tin trong cơ quan nhà nước.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:218388:part:2:article:6:clause:2",
+                    "number": "2",
+                    "content": "2. Nguyên tắc khai thác thông tin:\n- Đăng ký, kê khai các thông tin chính xác, đầy đủ; chịu trách nhiệm trước pháp luật về tính chính xác đối với những thông tin đã đăng ký, kê khai. - Các tổ chức, cá nhân muốn khai thác và sử dụng lại thông tin, số liệu đã đăng tải trên Cổng TTĐT Bộ Tài chính phải ghi rõ thông tin về tác giả, nguồn trích dẫn. - Thực hiện các yêu cầu của cơ quan, đơn vị đăng tải thông tin và nộp phí, lệ phí (nếu có) theo quy định.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:218388:part:2:article:7",
+                "number": "7",
+                "title": "Quản lý Mục/Chuyên mục",
+                "content": "Điều 7. Quản lý Mục/Chuyên mục",
+                "clauses": [
+                  {
+                    "clause_id": "doc:218388:part:2:article:7:clause:1",
+                    "number": "1",
+                    "content": "1. Tạo mới Mục/Chuyên mục",
+                    "points": [
+                      {
+                        "point_id": "doc:218388:part:2:article:7:clause:1:point:1",
+                        "label": "a",
+                        "content": "a) Phê duyệt chủ trương tạo mới Mục/Chuyên\nmục: Thủ trưởng các đơn vị thuộc Bộ trình Ban Biên tập phê duyệt chủ trương tạo mới Mục/Chuyên mục (qua Cục Tin học và Thống kê tài chính sau đây gọi là Cục THTK). Cục THTK chủ trì, phối hợp với Văn phòng Bộ và các đơn vị liên quan thẩm định, trình Ban Biên tập phê duyệt. Thời gian thẩm định, trình phê duyệt tối đa là 03 ngày làm việc tính từ ngày nhận đủ hồ sơ trình của đơn vị. Tờ trình phê duyệt chủ trương tạo mới Mục/Chuyên mục theo Mẫu số 2.1 Phụ lục II của Quy chế này.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:218388:part:2:article:7:clause:1:point:2",
+                        "label": "b",
+                        "content": "b) Tổ chức thực hiện tạo mới Mục/Chuyên\nmục Sau khi chủ trương tạo mới Mục/Chuyên mục được Ban Biên tập phê duyệt, đơn vị chủ thể phối hợp với Cục THTK để triển khai thực hiện theo chỉ đạo của Ban Biên tập.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:218388:part:2:article:7:clause:1:point:3",
+                        "label": "c",
+                        "content": "c) Lập hồ sơ quản lý\nĐơn vị chủ thể có trách nhiệm lập hồ sơ quản lý gửi về Cục THTK trong vòng 03 ngày làm việc sau khi Mục/Chuyên mục chính thức hoạt động theo hướng dẫn tại Mẫu số 3.1",
+                        "children": []
+                      }
+                    ]
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:218388:part:2:article:8",
+                "number": "8",
+                "title": "Quản lý Chuyên trang",
+                "content": "Điều 8. Quản lý Chuyên trang",
+                "clauses": [
+                  {
+                    "clause_id": "doc:218388:part:2:article:8:clause:1",
+                    "number": "1",
+                    "content": "1. Tạo mới Chuyên trang",
+                    "points": [
+                      {
+                        "point_id": "doc:218388:part:2:article:8:clause:1:point:1",
+                        "label": "a",
+                        "content": "a) Phê duyệt chủ trương tạo mới\nChuyên trang: - Thủ trưởng đơn vị trình Ban Biên tập phê duyệt chủ trương tạo mới Chuyên trang (qua Cục THTK), theo Mẫu số 2.2 Phụ lục II của Quy chế này. Trong đó, nội dung trình bao gồm cả tên chuyên trang, địa chỉ trên Internet của chuyên trang. - Cục THTK chủ trì, phối hợp với Văn phòng Bộ và các đơn vị liên quan thẩm định, trình Ban Biên tập phê duyệt. - Thời gian thẩm định, trình phê duyệt tối đa là 03 ngày làm việc tính từ ngày nhận đủ hồ sơ trình của đơn vị.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:218388:part:2:article:8:clause:1:point:2",
+                        "label": "b",
+                        "content": "b) Tổ chức thực hiện tạo mới Chuyên\ntrang Sau khi chủ trương tạo mới Chuyên trang được Ban Biên tập phê duyệt, đơn vị chủ thể phối hợp với Cục THTK để triển khai thực hiện theo chỉ đạo của Ban Biên tập. Cục THTK có trách nhiệm cung cấp địa chỉ tên miền của Chuyên trang theo Quy định tại Nghị định số 43/2011/NĐ-CP .",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:218388:part:2:article:8:clause:1:point:3",
+                        "label": "c",
+                        "content": "c) Lập hồ sơ quản lý\nĐơn vị chủ thể có trách nhiệm lập hồ sơ quản lý gửi về Cục THTK trong vòng 03 ngày làm việc sau khi Chuyên trang chính thức hoạt động theo Mẫu số 3.2 Phụ lục III của Quy chế này.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:218388:part:2:article:8:clause:2",
+                    "number": "2",
+                    "content": "2. Đăng tải thông tin\n- Đơn vị chủ thể chịu trách nhiệm cung cấp, biên tập và xuất bản thông tin, dữ liệu lên Chuyên trang. Cục THTK thực hiện cung cấp tài khoản và hướng dẫn kỹ thuật đảm bảo việc cập nhật kịp thời thông tin, dữ liệu lên Chuyên trang. - Đơn vị chủ thể chịu trách nhiệm về tính chính xác của thông tin đăng tải lên Chuyên trang theo quy định tại Khoản 1, Điều 6 Quy chế này và tuân thủ các điều khoản về an toàn bảo mật quy định tại Quyết định số 3317/QĐ-BTC ngày 24/12/2014 của Bộ trưởng Bộ Tài chính quy định về việc đảm bảo an toàn thông tin trên môi trường máy tính và mạng máy tính.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:218388:part:2:article:8:clause:3",
+                    "number": "3",
+                    "content": "3. Duy trì hoạt động\n- Đơn vị chủ thể định kỳ hàng tháng thực hiện rà soát tình hình đăng tải thông tin, dữ liệu của Chuyên trang do đơn vị mình phụ trách theo Hồ sơ quản lý đã đăng ký. - Định kỳ 06 tháng, Cục THTK thực hiện kiểm tra tình hình cập nhật thông tin của Chuyên trang báo cáo Ban Biên tập, với những Chuyên trang có thời gian cập nhật không đúng so với Hồ sơ quản lý đã đăng ký của đơn vị chủ thể hoặc trong 01 năm liên tục thông tin không được cập nhật, Cục THTK trình Ban Biên tập gỡ bỏ Mục, Chuyên mục trên Chuyên trang hay Chuyên trang đó và có văn bản thông báo lại với đơn vị chủ thể Chuyên trang.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:218388:part:2:article:8:clause:4",
+                    "number": "4",
+                    "content": "4. Chỉnh sửa/Gỡ bỏ",
+                    "points": [
+                      {
+                        "point_id": "doc:218388:part:2:article:8:clause:4:point:1",
+                        "label": "a",
+                        "content": "a) Chỉnh sửa\n- Thủ trưởng đơn vị trình Ban Biên tập (qua Cục THTK) về nội dung đề nghị chỉnh sửa. Trường hợp nội dung đề nghị chỉnh sửa không ảnh hưởng đến kết cấu và mục tiêu tuyên truyền đã được Ban Biên tập phê duyệt tại chủ trương tạo mới chuyên trang của đơn vị, Cục THTK có trách nhiệm xem xét, chỉnh sửa theo yêu cầu. Trường hợp thông tin đề nghị chỉnh sửa của đơn vị khác với kết cấu và mục tiêu tuyên truyền đã được Trưởng Ban Biên tập phê duyệt trong tờ trình đề nghị tạo mới Chuyên trang của đơn vị, Cục THTK báo cáo Ban Biên tập xem xét, phê duyệt. - Đơn vị chủ thể hoàn thiện lại Hồ sơ quản lý trong vòng 03 ngày làm việc sau khi chuyên trang chỉnh sửa đi vào hoạt động.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:218388:part:2:article:8:clause:4:point:2",
+                        "label": "b",
+                        "content": "b) Gỡ bỏ\nThủ trưởng đơn vị trình Ban Biên tập (qua Cục THTK) nêu rõ lý do gỡ bỏ. Cục THTK chủ trì, phối hợp với Văn phòng Bộ và các đơn vị liên quan thẩm định, trình Trưởng Ban Biên tập phê duyệt. Sau khi được phê duyệt, Cục THTK thực hiện gỡ bỏ theo chỉ đạo của Ban Biên tập.",
+                        "children": []
+                      }
+                    ]
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:218388:part:2:article:9",
+                "number": "9",
+                "title": "Quản lý Dịch vụ công trực tuyến",
+                "content": "Điều 9. Quản lý Dịch vụ công trực tuyến",
+                "clauses": [
+                  {
+                    "clause_id": "doc:218388:part:2:article:9:clause:1",
+                    "number": "1",
+                    "content": "1. Công khai thông tin dịch vụ\ncông trực tuyến - Cổng TTĐT Bộ Tài chính đăng tải toàn bộ thông tin về dịch vụ công trực tuyến. Thông tin về dịch vụ công trực tuyến phải được cập nhật, bổ sung, chỉnh sửa kịp thời ngay sau khi có sự thay đổi. - Thông tin về dịch vụ công trực tuyến đăng tải trên Cổng TTĐT Bộ Tài chính bao gồm danh mục các dịch vụ hành chính công và các dịch vụ công trực tuyến đang thực hiện, nêu rõ mức độ của dịch vụ, các biểu mẫu điện tử trong giao dịch của ngành tài chính với các tổ chức, cá nhân, trạng thái xử lý hồ sơ các dịch vụ công trực tuyến được trao đổi, cung cấp theo chuẩn thống nhất. - Cổng TTĐT Bộ Tài chính cung cấp chức năng hướng dẫn sử dụng, theo dõi tần suất sử dụng, quá trình xử lý và số lượng hồ sơ đã được xử lý đối với từng dịch vụ công trực tuyến từ mức độ 3 trở lên.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:218388:part:2:article:9:clause:2",
+                    "number": "2",
+                    "content": "2. Trách nhiệm cung cấp dịch vụ\ncông trực tuyến - Các đơn vị chủ thể có nhiệm vụ cung cấp, khai thác, sử dụng dịch vụ công trực tuyến theo chức năng, nhiệm vụ và phân công của Lãnh đạo Bộ. - Cục THTK là đơn vị chủ trì xây dựng, quản trị vận hành, cập nhật dịch vụ hành chính công và dịch vụ công trực tuyến của cơ quan Bộ lên Cổng TTĐT Bộ Tài chính; có trách nhiệm báo cáo Bộ và các cơ quan có thẩm quyền về tình hình thực hiện các dịch vụ công trực tuyến. - Cục THTK chủ trì phối hợp với các đơn vị liên quan đưa ra kiến trúc tổng thể, tiêu chuẩn kỹ thuật chung cho dịch vụ công trực tuyến; xây dựng và triển khai các biện pháp kỹ thuật đảm bảo kết nối và tích hợp các dịch vụ công trực tuyến.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:218388:part:2:article:10",
+                "number": "10",
+                "title": "Quản lý Trang liên kết, tích hợp thông tin Cục THTK chủ trì phối hợp với Văn phòng Bộ xác định các trang thông tin cần được liên kết, tích hợp lên Cổng TTĐT Bộ Tài chính theo cấu trúc chung (giao diện, kết cấu thông tin) đã được Bộ Trưởng phê duyệt dựa trên nguyên tắc: - Cổng TTĐT Bộ Tài chính phải được liên kết, tích hợp thông tin với Cổng TTĐT của các đơn vị thuộc Bộ để bảo đảm các tổ chức và cá nhân có thể tìm kiếm và khai thác mọi thông tin thuộc lĩnh vực quản lý nhà nước của Bộ Tài chính. - Cổng TTĐT Bộ Tài chính phải đảm bảo có khả năng kết nối mạng thông tin hành chính điện tử của Chính phủ, của các Bộ ngành, các đơn vị tổ chức liên quan trên Internet, tích hợp thông tin của Bộ Tài chính trên Cổng TTĐT Chính phủ.",
+                "content": "Điều 10. Quản lý Trang liên kết, tích hợp thông tin Cục THTK chủ trì phối hợp với Văn phòng Bộ xác định các trang thông tin cần được liên kết, tích hợp lên Cổng TTĐT Bộ Tài chính theo cấu trúc chung (giao diện, kết cấu thông tin) đã được Bộ Trưởng phê duyệt dựa trên nguyên tắc: - Cổng TTĐT Bộ Tài chính phải được liên kết, tích hợp thông tin với Cổng TTĐT của các đơn vị thuộc Bộ để bảo đảm các tổ chức và cá nhân có thể tìm kiếm và khai thác mọi thông tin thuộc lĩnh vực quản lý nhà nước của Bộ Tài chính. - Cổng TTĐT Bộ Tài chính phải đảm bảo có khả năng kết nối mạng thông tin hành chính điện tử của Chính phủ, của các Bộ ngành, các đơn vị tổ chức liên quan trên Internet, tích hợp thông tin của Bộ Tài chính trên Cổng TTĐT Chính phủ.",
+                "clauses": [],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:218388:part:2:chapter:3",
+            "number": "III",
+            "title": "QUẢN TRỊ VẬN HÀNH CỔNG TTĐT BỘ TÀI CHÍNH",
+            "content": "Chương III\nQUẢN TRỊ VẬN\nHÀNH CỔNG TTĐT BỘ TÀI CHÍNH",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:218388:part:2:article:11",
+                "number": "11",
+                "title": "Trách nhiệm của Ban Biên tập",
+                "content": "Điều 11. Trách nhiệm của Ban Biên tập",
+                "clauses": [
+                  {
+                    "clause_id": "doc:218388:part:2:article:11:clause:1",
+                    "number": "1",
+                    "content": "1. Cổng TTĐT Bộ Tài chính hoạt động dưới\nsự điều hành của Ban Biên tập Cổng TTĐT Bộ Tài chính (sau đây gọi tắt là Ban Biên tập), thành lập theo Quyết định của Bộ Trưởng Bộ Tài chính.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:218388:part:2:article:11:clause:2",
+                    "number": "2",
+                    "content": "2. Ban Biên tập có Trưởng Ban, không\nquá 02 Phó Trưởng Ban và các Ủy viên (nếu có). Trưởng Ban Biên tập là Thứ trưởng phụ trách về phát ngôn của Bộ Tài chính. 02 phó trưởng Ban Biên tập gồm có: Chánh Văn phòng Bộ Tài chính và Cục trưởng Cục THTK. Ban Biên tập làm việc theo chế độ kiêm nhiệm.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:218388:part:2:article:11:clause:3",
+                    "number": "3",
+                    "content": "3. Cục THTK là cơ quan thường trực của\nBan Biên tập, Văn phòng Bộ là cơ quan quản lý thông tin báo chí, truyền thông trên Cổng TTĐT Bộ Tài chính.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:218388:part:2:article:11:clause:4",
+                    "number": "4",
+                    "content": "4. Cục THTK, Văn phòng Bộ trình Trưởng\nBan Biên tập Quyết định thành lập, kiện toàn Ban Biên tập, Tổ Biên tập thông tin báo chí, thông tin điện tử phù hợp với chức năng nhiệm vụ của đơn vị theo từng giai đoạn, từng thời kỳ.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:218388:part:2:article:12",
+                "number": "12",
+                "title": "Trách nhiệm vận hành quản lý",
+                "content": "Điều 12. Trách nhiệm vận hành quản lý",
+                "clauses": [
+                  {
+                    "clause_id": "doc:218388:part:2:article:12:clause:1",
+                    "number": "1",
+                    "content": "1. Trách nhiệm của Cục THTK\n- Tổ chức quản lý vận hành hoạt động chung của Cổng TTĐT Bộ Tài chính, thiết kế và xây dựng công nghệ, kỹ thuật của Cổng TTĐT Bộ Tài chính. - Thực hiện tạo mới, chỉnh sửa, gỡ bỏ các Mục, Chuyên mục, Chuyên trang, Trang liên kết theo phê duyệt của Ban Biên tập. - Chủ trì phối hợp với các đơn vị thuộc Bộ Tài chính khai thác, tiếp nhận, biên tập và xuất bản các kênh thông tin, dữ liệu và ứng dụng các dịch vụ công của ngành vào Cổng TTĐT Bộ Tài chính. - Đề xuất với Ban Biên tập lộ trình, kế hoạch tích hợp các kênh thông tin, dữ liệu và ứng dụng các dịch vụ công của ngành vào Cổng TTĐT Bộ Tài chính phù hợp với lộ trình cải cách hành chính và hiện đại hóa ngành Tài chính. - Thực hiện rà soát, đề xuất phương án nâng cấp, chỉnh sửa Cổng TTĐT Bộ Tài chính định kỳ hàng năm hoặc theo nhu cầu thực tế. - Xây dựng các quy định về hoạt động, phát triển Cổng TTĐT Bộ Tài chính theo chỉ đạo của Ban Biên tập và các văn bản chỉ đạo của Chính phủ, của Bộ Tài chính. - Định kỳ rà soát, kiểm tra, đôn đốc các đơn vị cập nhật thông tin các Mục, Chuyên mục, Chuyên trang có trên Cổng TTĐT Bộ Tài chính của đơn vị chủ thể thông qua Hồ sơ quản lý.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:218388:part:2:article:12:clause:2",
+                    "number": "2",
+                    "content": "2. Trách nhiệm của Văn phòng Bộ\n- Đề xuất với Ban Biên tập phương hướng, kế hoạch xuất bản, nội dung hình thức thể hiện tin tức, thông tin báo chí điện tử để tuyên truyền hướng dẫn các chủ trương chính sách của Đảng và Nhà nước về lĩnh vực tài chính, phản ánh đầy đủ, kịp thời các hoạt động của Bộ Tài chính để thực hiện các nhiệm vụ được Đảng và Nhà nước giao. - Chịu trách nhiệm về nội dung và hình thức tin tức, thông tin báo chí được xuất bản trên Cổng TTĐT Bộ Tài chính bao gồm cả nội dung tiếng Việt và nội dung tiếng Anh. - Trực tiếp tổ chức xuất bản hoặc gỡ bỏ tin tức, thông tin báo chí trên Cổng TTĐT Bộ Tài chính. - Tổ chức đội ngũ phóng viên, biên tập viên, cộng tác viên tại các đơn vị, các cơ quan báo chí trong và ngoài ngành để kịp thời cung cấp các thông tin cho Cổng TTĐT Bộ Tài chính. - Xây dựng các quy định về kế hoạch, định hướng hoạt động và phát triển báo chí, truyền thông của ngành trên Cổng TTĐT Bộ Tài chính căn cứ theo chỉ đạo của Ban Biên tập và các văn bản chỉ đạo của Chính phủ, của Bộ Tài chính. - Thực hiện sử dụng các nguồn tài chính (nếu có) và chi trả nhuận bút phần thông tin báo chí trên Cổng TTĐT Bộ Tài chính theo đúng các quy định hiện hành.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:218388:part:2:article:12:clause:3",
+                    "number": "3",
+                    "content": "3. Trách nhiệm của các đơn vị thuộc\nBộ - Tổ chức, thực hiện các quy định tại",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:218388:part:2:article:13",
+                "number": "8",
+                "title": "của Quy chế này. - Phối hợp cung cấp thông tin, dữ liệu và các ứng dụng các dịch vụ công do đơn vị mình phụ trách để cập nhật lên Cổng TTĐT Bộ Tài chính theo quy định của Chính phủ, của Bộ Tài chính. - Giải đáp các vướng mắc của độc giả trên Cổng TTĐT Bộ Tài chính về lĩnh vực do đơn vị mình phụ trách, kịp thời theo quy định tại Quyết định số 30/QĐ-BTC ngày 03/01/2014 của Bộ trưởng Bộ Tài chính về Quy trình hỏi đáp chính sách tài chính trên Cổng TTĐT Bộ Tài chính. - Tùy theo đặc điểm, mỗi đơn vị quản lý mục, chuyên mục, chuyên trang trên Cổng TTĐT Bộ Tài chính có thể thành lập Tổ Biên tập là bộ phận giúp việc cho Thủ trưởng đơn vị trong việc tiếp nhận, xử lý, biên tập, cập nhật thông tin để đảm bảo hoạt động của mục, chuyên mục, chuyên trang trên Cổng TTĐT Bộ Tài chính. Tổ Biên tập được quản lý, sử dụng, nguồn thu (nếu có) theo quy định và chi trả nhuận bút, thù lao, phụ cấp trách nhiệm cho thành viên của Tổ và tác giả hoặc chủ sở hữu tác phẩm có tác phẩm được đăng trên Chuyên trang theo quy định hiện hành. - Đơn vị chủ thể các Chuyên trang, chuyên mục (được phân quyền biên tập trên hệ thống của Cổng TTĐT Bộ Tài chính) có trách nhiệm tuân thủ các quy định tại Quyết định số 3317/QĐ-BTC ngày 24/12/2014 của Bộ trưởng Bộ Tài chính quy định về việc đảm bảo an toàn thông tin trên môi trường máy tính và mạng máy tính.",
+                "content": "Điều 8 của Quy chế này. - Phối hợp cung cấp thông tin, dữ liệu và các ứng dụng các dịch vụ công do đơn vị mình phụ trách để cập nhật lên Cổng TTĐT Bộ Tài chính theo quy định của Chính phủ, của Bộ Tài chính. - Giải đáp các vướng mắc của độc giả trên Cổng TTĐT Bộ Tài chính về lĩnh vực do đơn vị mình phụ trách, kịp thời theo quy định tại Quyết định số 30/QĐ-BTC ngày 03/01/2014 của Bộ trưởng Bộ Tài chính về Quy trình hỏi đáp chính sách tài chính trên Cổng TTĐT Bộ Tài chính. - Tùy theo đặc điểm, mỗi đơn vị quản lý mục, chuyên mục, chuyên trang trên Cổng TTĐT Bộ Tài chính có thể thành lập Tổ Biên tập là bộ phận giúp việc cho Thủ trưởng đơn vị trong việc tiếp nhận, xử lý, biên tập, cập nhật thông tin để đảm bảo hoạt động của mục, chuyên mục, chuyên trang trên Cổng TTĐT Bộ Tài chính. Tổ Biên tập được quản lý, sử dụng, nguồn thu (nếu có) theo quy định và chi trả nhuận bút, thù lao, phụ cấp trách nhiệm cho thành viên của Tổ và tác giả hoặc chủ sở hữu tác phẩm có tác phẩm được đăng trên Chuyên trang theo quy định hiện hành. - Đơn vị chủ thể các Chuyên trang, chuyên mục (được phân quyền biên tập trên hệ thống của Cổng TTĐT Bộ Tài chính) có trách nhiệm tuân thủ các quy định tại Quyết định số 3317/QĐ-BTC ngày 24/12/2014 của Bộ trưởng Bộ Tài chính quy định về việc đảm bảo an toàn thông tin trên môi trường máy tính và mạng máy tính.",
+                "clauses": [
+                  {
+                    "clause_id": "doc:218388:part:2:article:13:clause:1",
+                    "number": "4",
+                    "content": "4. Trách nhiệm của các cá nhân,\nđơn vị trong khai thác, sử dụng thông tin - Tuân thủ các quy định tại Mục 2, Điều 6 Quy chế này. - Nghiêm cấm tạo ra hoặc phát tán chương trình phần mềm làm rối loạn, thay đổi, phá hoại hệ thống điều hành hoặc có hành vi khác nhằm phá hoại hạ tầng công nghệ thông tin. - Nghiêm cấm tạo ra thông điệp dữ liệu nhằm thực hiện hành vi trái pháp luật. - Nghiêm cấm các hành vi vi phạm khác theo quy định của pháp luật và quy định của Bộ Tài chính.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:218388:part:2:article:14",
+                "number": "13",
+                "title": "Duy trì hoạt động của Cổng TTĐT Bộ Tài chính",
+                "content": "Điều 13. Duy trì hoạt động của Cổng TTĐT Bộ Tài chính",
+                "clauses": [
+                  {
+                    "clause_id": "doc:218388:part:2:article:14:clause:1",
+                    "number": "1",
+                    "content": "1. Đảm bảo cơ sở hạ tầng, bảo trì,\nbảo dưỡng, duy trì hoạt động và nâng cấp Cổng TTĐT Bộ Tài chính - Cổng TTĐT Bộ Tài chính phải được thường xuyên kiểm tra, bảo dưỡng, chỉnh sửa, giám sát hoạt động để bảo đảm hoạt động liên tục 24 giờ trong tất cả các ngày. - Cục THTK là đơn vị quản lý Cổng TTĐT Bộ Tài chính có trách nhiệm triển khai các giải pháp công nghệ, dịch vụ bảo đảm an toàn và điều kiện kỹ thuật cần thiết để duy trì các hoạt động của Cổng TTĐT Bộ Tài chính (máy chủ, thiết bị, đường truyền...) - Cục THTK thực hiện rà soát định kỳ hàng năm hoặc rà soát theo yêu cầu của Trưởng Ban Biên tập, đề xuất với Ban Biên tập phương án nâng cấp Cổng TTĐT Bộ Tài chính đáp ứng đầy đủ yêu cầu về cung cấp thông tin dữ liệu và tiêu chuẩn kỹ thuật theo quy định của Nhà nước và của Bộ Tài chính, phục vụ người dân và doanh nghiệp khai thác, sử dụng thuận tiện, hiệu quả.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:218388:part:2:article:14:clause:2",
+                    "number": "2",
+                    "content": "2. Đảm bảo an toàn thông tin, dữ\nliệu Cục THTK có trách nhiệm chủ trì, phối hợp với các đơn vị liên quan: - Rà soát tối thiểu mỗi năm một lần các tài khoản đang cấp trên hệ thống, đảm bảo các tài khoản và quyền truy cập hệ thống được cấp phát đúng. - Thực hiện các giải pháp và biện pháp kỹ thuật để đảm bảo an toàn thông tin và dữ liệu trên Cổng TTĐT Bộ Tài chính. - Xây dựng giải pháp hiệu quả chống lại các nguy cơ tấn công gây mất an toàn thông tin trên Cổng TTĐT Bộ Tài chính. - Xây dựng phương án dự phòng khắc phục sự cố bảo đảm hệ thống Cổng TTĐT Bộ Tài chính hoạt động liên tục ở mức tối đa.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:218388:part:2:chapter:4",
+            "number": "IV",
+            "title": "TỔ CHỨC THỰC HIỆN",
+            "content": "Chương IV\nTỔ CHỨC THỰC HIỆN",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:218388:part:2:article:15",
+                "number": "14",
+                "title": "Kinh phí hoạt động Kinh phí duy trì hoạt động, phát triển chung của Cổng TTĐT Bộ Tài chính và Chuyên trang của các đơn vị được bảo đảm từ các nguồn:",
+                "content": "Điều 14. Kinh phí hoạt động Kinh phí duy trì hoạt động, phát triển chung của Cổng TTĐT Bộ Tài chính và Chuyên trang của các đơn vị được bảo đảm từ các nguồn:",
+                "clauses": [
+                  {
+                    "clause_id": "doc:218388:part:2:article:15:clause:1",
+                    "number": "1",
+                    "content": "1. Ngân sách nhà nước:\n- Kinh phí duy trì hoạt động chung của Cổng TTĐT Bộ Tài chính do ngân sách nhà nước cấp, được tổng hợp trong kinh phí hàng năm của Cục Kế hoạch Tài chính đối với khoản chi nhuận bút, thù lao các tin, bài; bồi dưỡng, thù lao thành viên Ban Biên tập và tổng hợp trong kinh phí hàng năm của Cục THTK đối với khoản chi tạo lập thông tin điện tử. - Kinh phí duy trì hoạt động của Chuyên trang (kinh phí chi trả nhuận bút, thù lao tạo lập thông tin điện tử, phụ cấp trách nhiệm cho thành viên Tổ Biên tập) được tổng hợp trong dự toán kinh phí chi thường xuyên, thực hiện tự chủ hàng năm của đơn vị chủ thể có chuyên trang. - Kinh phí chi cho công tác đào tạo, bồi dưỡng cán bộ phục vụ Cổng TTĐT Bộ Tài chính được bố trí hàng năm trong dự toán ngân sách của đơn vị để đào tạo, bồi dưỡng cán bộ công chức thuộc phạm vi quản lý.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:218388:part:2:article:15:clause:2",
+                    "number": "2",
+                    "content": "2. Nguồn thu hợp pháp của các đơn vị\nđược phép để lại sử dụng theo quy định của pháp luật.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:218388:part:2:article:15:clause:3",
+                    "number": "3",
+                    "content": "3. Nguồn viện trợ, nguồn hỗ trợ phát\ntriển chính thức của các nhà tài trợ.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:218388:part:2:article:16",
+                "number": "15",
+                "title": "Phụ cấp và thù lao",
+                "content": "Điều 15. Phụ cấp và thù lao",
+                "clauses": [
+                  {
+                    "clause_id": "doc:218388:part:2:article:16:clause:1",
+                    "number": "1",
+                    "content": "1. Thành viên Ban Biên tập và thành viên\ncác Tổ Biên tập được hưởng thù lao kiêm nhiệm theo quy định.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:218388:part:2:article:16:clause:2",
+                    "number": "2",
+                    "content": "2. Thành viên Ban Biên tập và các Tổ\nBiên tập thực hiện công việc liên quan đến việc đăng tải thông tin cho Cổng TTĐT Bộ Tài chính ngoài chức năng, nhiệm vụ được hưởng nhuận bút; thù lao theo Quy định hiện hành về chế độ chi phục vụ hoạt động đối với Trang thông tin điện tử của các đơn vị thuộc Bộ Tài chính.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:218388:part:2:article:17",
+                "number": "16",
+                "title": "Đào tạo nguồn nhân lực Cán bộ Ban Biên tập, Tổ Biên tập làm công tác biên tập, xuất bản, quản trị thông tin và cán bộ quản trị hệ thống hạ tầng tin học hàng năm được tham gia đào tạo, bồi dưỡng kiến thức chuyên môn nghiệp vụ phù hợp với lĩnh vực đảm nhiệm để bảo đảm phục vụ cho hoạt động của Cổng TTĐT Bộ Tài chính và các chuyên trang trên Cổng TTĐT Bộ Tài chính.",
+                "content": "Điều 16. Đào tạo nguồn nhân lực Cán bộ Ban Biên tập, Tổ Biên tập làm công tác biên tập, xuất bản, quản trị thông tin và cán bộ quản trị hệ thống hạ tầng tin học hàng năm được tham gia đào tạo, bồi dưỡng kiến thức chuyên môn nghiệp vụ phù hợp với lĩnh vực đảm nhiệm để bảo đảm phục vụ cho hoạt động của Cổng TTĐT Bộ Tài chính và các chuyên trang trên Cổng TTĐT Bộ Tài chính.",
+                "clauses": [],
+                "points": []
+              },
+              {
+                "article_id": "doc:218388:part:2:article:18",
+                "number": "17",
+                "title": "Trách nhiệm thi hành",
+                "content": "Điều 17. Trách nhiệm thi hành",
+                "clauses": [
+                  {
+                    "clause_id": "doc:218388:part:2:article:18:clause:1",
+                    "number": "1",
+                    "content": "1. Chánh Văn phòng Bộ, Cục trưởng Cục\nTHTK, Thủ trưởng các đơn vị thuộc Bộ chịu trách nhiệm thi hành Quyết định này.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:218388:part:2:article:18:clause:2",
+                    "number": "2",
+                    "content": "2. Các văn bản được trích dẫn tại Quy\nchế này nếu được bổ sung, sửa đổi hoặc thay thế thì được thực hiện theo quy định của các văn bản bổ sung, sửa đổi hoặc thay thế. Trong quá trình thực hiện nếu có khó khăn vướng mắc, đề nghị các cơ quan, đơn vị phản ánh về Ban Biên tập để nghiên cứu giải quyết./.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          }
+        ],
+        "sections": [],
+        "articles": [],
+        "unstructured_blocks": []
+      },
+      {
+        "part_id": "doc:218388:part:3",
+        "part_type": "appendix",
+        "part_title": "PHỤ LỤC I",
+        "reference": null,
+        "direct_text": null,
+        "chapters": [],
+        "sections": [],
+        "articles": [],
+        "unstructured_blocks": [
+          {
+            "block_id": "doc:218388:part:3:block:1",
+            "content": "PHỤ LỤC I\nBẢNG PHÂN CÔNG ĐƠN VỊ PHỤ TRÁCH CUNG\nCẤP, BIÊN TẬP, XUẤT BẢN THÔNG TIN TRÊN CỔNG TTĐT BỘ TÀI CHÍNH\n(Ban hành kèm theo Quyết định số 2131/QĐ-BTC ngày 04/10/2016 của Bộ trưởng Bộ\nTài chính) I. Mục/Chuyên mục\nSTT\nTên Mục/Chuyên mục Tên đơn vị cung cấp thông tin Tên đơn vị biên tập, xuất bản thông tin 1 Giới thiệu bộ\nVPB\nCục THTK 1.1 Lãnh đạo bộ\nVPB\nCục THTK 1.2 Nhiệm vụ - quyền hạn\nVPB\nCục THTK 1.3 Tổ chức bộ máy\nVPB\nCục THTK 1.4 Lịch sử tài chính Việt Nam\nVPB VPB\n1.5 Tham quan phòng truyền thống BTC\nVPB VPB\n1.6\nDanh mục sách của thư viện BTC\nVPB VPB\n2 Tin tức sự kiện\nVPB VPB\n3 Tin địa phương\nVPB VPB\n4 Tin video\nVPB VPB\n5 Thông cáo báo chí\nVPB\nCục THTK 6 Thông báo - Chỉ đạo điều hành\nVPB\nCục THTK 7 Cải cách thủ tục hành chính Các đơn vị thuộc Bộ Cục THTK 8 Bộ thủ tục hành chính Các đơn vị thuộc Bộ Cục THTK 9 Tuyển dụng Các đơn vị thuộc Bộ Cục THTK 10 Đóng góp ý kiến dự thảo văn bản Các đơn vị thuộc Bộ Cục THTK 11 Văn bản pháp quy Các đơn vị thuộc Bộ Cục THTK 12 Quản lý nợ và Tài chính đối ngoại Cục QLN Cục THTK 13 Kế toán - Kiểm toán 13.1 Giới thiệu vụ Chế độ kế toán và kiểm toán Vụ CĐKT Cục THTK 13.2 Tin tức Vụ CĐKT Cục THTK 13.3 Công khai danh sách kiểm toán viên hành nghề và doanh nghiệp kiểm toán Vụ CĐKT Cục THTK 13.4 Cơ chế, chính sách - kiểm toán Vụ CĐKT Cục THTK 13.5 Hỏi đáp về Kế toán & Kiểm toán Vụ CĐKT Cục THTK 14 Thông tin dịch vụ tài chính 14.1 Thông tin thẩm định về giá Cục QLG Cục THTK 14.2 Thông tin về dịch vụ kế toán, kiểm toán Cục QLG Cục THTK 15 Thông tin đấu thầu 15.1 Thông báo mời thầu Các đơn vị thuộc Bộ Cục THTK 15.2 Kết quả lựa chọn Các đơn vị thuộc Bộ Cục THTK 15.3 Quy định Các đơn vị thuộc Bộ Cục THTK 15.4 Kế hoạch đấu thầu Các đơn vị thuộc Bộ Cục THTK 16 Hỏi đáp CSTC 16.1 Tài chính tổng hợp Các đơn vị thuộc Bộ Cục THTK 16.2 Đầu tư Các đơn vị thuộc Bộ Cục THTK 16.3 Thuế Các đơn vị thuộc Bộ Cục THTK 16.4 Hải quan Các đơn vị thuộc Bộ Cục THTK 16.5 Kế toán và kiểm toán Các đơn vị thuộc Bộ Cục THTK 16.6 Tài chính hành chính sự nghiệp Các đơn vị thuộc Bộ Cục THTK 16.7 Ngân sách nhà nước Các đơn vị thuộc Bộ Cục THTK 16.8 Quản lý công sản Các đơn vị thuộc Bộ Cục THTK 16.9 Kho bạc Các đơn vị thuộc Bộ Cục THTK 17 Ngân sách nhà nước 17.1 Số liệu trong nước Vụ NSNN Cục THTK 17.2 Số liệu quốc tế Vụ NSNN Cục THTK 17.3 Báo cáo NSNN hàng năm Vụ NSNN Cục THTK 17.4 Báo cáo NSNN dành cho công dân Vụ NSNN Cục THTK 17.5 Mục lục ngân sách Vụ NSNN Cục THTK 18 Hợp tác quốc tế 18.1 Hội nhập và Hợp tác tài chính Vụ HTQT Cục THTK 18.2 Nhóm đối tác tài chính công Vụ HTQT Cục THTK 19 Đầu tư 19.1 Giới thiệu về Vụ đầu tư Vụ ĐT Cục THTK 19.2 Tin tức Vụ ĐT Vụ ĐT 19.3 Chế độ - chính sách Vụ ĐT Vụ ĐT 19.4 Dữ liệu và thống kê tài chính Vụ ĐT Vụ ĐT 19.5 Hỏi - đáp về đầu tư Vụ ĐT Cục THTK 20 Hiện đại hóa công nghệ thông tin Cục THTK Cục THTK 21 Thi đua khen thưởng Vụ TĐKT Cục THTK 21.1 Văn bản hướng dẫn Vụ TĐKT Cục THTK 21.2 Phong trào thi đua Vụ TĐKT Cục THTK 21.3 Tin hoạt động Vụ TĐKT Cục THTK 21.4 Quyết định khen thưởng Vụ TĐKT Cục THTK 21.5 Gương điển hình tiên tiến, người tốt - việc tốt Vụ TĐKT Cục THTK 21.6 Sáng kiến, kinh nghiệm Vụ TĐKT Cục THTK 21.7 Hỏi - Đáp Vụ TĐKT Cục THTK 21.8 Nghiên cứu, trao đổi Vụ TĐKT Cục THTK 22 Số liệu thống kê 22.1 Số liệu công khai Ngân sách nhà nước Vụ NSNN Cục THTK 22.2 Hàng hóa xuất khẩu, nhập khẩu\nTCHQ TCHQ\n22.3 Tình hình nợ công Cục QLN Cục THTK 22.4 Báo cáo thường niên Cục THTK Cục THTK 22.5 Tình hình hoạt động thị trường bảo hiểm Cục QLBH\nTCHQ\n23 Tài chính doanh nghiệp 23.1 Giới thiệu về lĩnh vực TCDN Cục TCDN Cục THTK 23.2 Hệ thống văn bản Cục TCDN Cục THTK 23.3 Tài chính doanh nghiệp Cục TCDN Cục THTK 23.4 Tái cơ cấu DNNN Cục TCDN Cục THTK 23.5 Cổ phần hóa đơn vị sự nghiệp Cục TCDN Cục THTK 23.6 Hỏi đáp về TCDN Cục TCDN Cục THTK 24 Chiến lược và Kế hoạch hành động Viện CLTC Cục THTK 25 Vấn đề quốc hội quan tâm\nVPB VPB\n26 Thông tin điều hành giá Cục QLG Cục THTK 26.1 Thông tin điều hành giá xăng dầu Cục QLG Cục THTK 26.2 Giá sữa dành cho trẻ em dưới 6 tuổi Cục QLG Cục QLG 27 Thông tin về chương trình nghiên cứu, đề tài khoa học Viện CLTC Viện CLTC 28 Đảng bộ Bộ Tài chính Tạp chí Tài chính Cục THTK 29 70 năm tài chính Việt Nam đồng hành cùng đất nước\nVPB VPB\n30 Tỷ giá hạch toán/Tỷ giá ngoại tệ 30.1 + Tỷ giá hạch toán\nKBNN\nCục THTK 30.2 + Tỷ giá ngoại tệ\nUBCKNN UBCKNN\n31 Thông tin chứng khoán\nUBCKNN UBCKNN\n32 Góp ý hiến kế Cục THTK Cục THTK 33 Thăm dò ý kiến Cục THTK Cục THTK 34 Giao lưu trực tuyến Cục THTK Cục THTK II. Chuyên trang Tên Chuyên trang Địa chỉ truy cấp Đơn vị chủ thể Đơn vị xuất bản\n1. Bộ trưởng Bộ Tài chính\nhttp://portal.mof.gov.vn/webcenter/portal/ttbt\nVPB VP\n2. Công đoàn Bộ Tài chính\nhttp://congdoan.mof.gov.vn\nCĐB\nCục THTK\n3. Thị trường trái phiếu\nhttp://tpcp.mof.gov.vn Vụ TCNH Cục THTK\n4. Nhà Xuất bản Tài chính\nhttp://nxbtc.mof.gov.vn\nNXB NXB\n5. Giá và Thẩm định giá\nhttp://qlg.mof.gov.vn Cục QLG Cục QLG\n6. Thông tin Pháp luật tài chính\nhttp://ilfv.mof.gov.vn Vụ PC Vụ PC\n7. Thanh tra Bộ\nhttp://thanhtrabtc.mof.gov.vn TTr TTr\n8. Quản lý, giám sát bảo hiểm\nhttp://isa.mof.gov.vn Cục QLBH Cục QLBH\n9. Chiến lược và Chính sách tài chính\nhttp://nif.mof.gov.vn Viện CLTC Viện CLTC\n10. Tin tức tài chính\nhttp://portal.mof.gov.vn/webcenter/portal/tttc\nVPB VPB\n11. Trung tâm Nghiên cứu và Đào tạo\nbảo hiểm http://Irt.mof.gov.vn Trung tâm NC&ĐT Bảo hiểm Trung tâm NC&ĐT Bảo hiểm\n12. Tiếng anh\nhttp://portal.mof.gov.vn/webcenter/portal/mof VPB, Cục THTK VPB, Cục THTK\n13. Dịch vụ công\nhttp://portal.mof.gov.vn/webcenter/portal/dvc_btc Cục THTK Cục THTK III. Trang liên kết Tên trang Địa chỉ truy cập Đơn vị chủ thể\n1. Thông tin về tài sản nhà nước\nhttp://taisancong.mof.gov.vn Cục Quản lý công sản\n2. Thời báo tài chính Việt Nam\nOnline http://thoibaotaichinhvietnam.vn Thời báo Tài chính\n3. Tạp chí tài chính\nhttp://www.tapchitaichinh.vn Tạp chí tài chính\n4. Trường Bồi dưỡng cán bộ tài\nchính http://www.ift.edu.vn Trường Bồi dưỡng cán bộ tài chính\n5. Học viện tài chính\nhttp://www.hvtc.edu.vn Học viện tài chính\n6. Trường Đại học Tài chính -\nMarketing http://www.ufm.edu.vn Trường Đại học Tài chính - Marketing\n7. Trường Đại học Tài chính - kế\ntoán http://www.tckt.edu.vn Trường Đại học Tài chính - kế toán\n8. Trường Đại học Tài chính - Quản trị\nkinh doanh http://www.tcqtkd.edu.vn Trường Đại học Tài chính - Quản trị kinh doanh\n9. Trường Cao đẳng tài chính - Hải\nquan http://www.tchq.edu.vn Trường Cao đẳng tài chính - Hải quan\n10. Bảo Việt\nhttp://www.baoviet.com.vn Tập đoàn Bảo Việt\n11. Sở giao dịch chứng khoán Hà nội\nhttp://hnx.vn Sở giao dịch chứng khoán Hà nội\n12. Sở giao dịch chứng khoán TP.HCM\nhttps://www.hsx.vn Sở giao dịch chứng khoán TP.HCM\n13. Công ty TNHH mua bán nợ Việt\nNam http://datc.vn Công ty TNHH mua bán nợ Việt Nam\n14. Công ty TNHH Hãng kiểm toán\nAASC\nhttp://aasc.com.vn Công ty TNHH Hãng kiểm toán AASC\n15. Hội Thẩm định giá Việt Nam\nhttp://www.vva.org.vn Hội Thẩm định giá Việt Nam\n16. Trung tâm lưu ký chứng khoán Việt\nNam http://www.vsd.vn Trung tâm lưu ký chứng khoán\n17. Hội kiểm toán viên hành nghề Việt\nNam http://www.vacpa.org.vn Hội kiểm toán viên hành nghề Việt Nam\n18. Công ty cổ phần định giá và dịch\nvụ tài chính Việt Nam http://www.wfc.vn Sở giao dịch chứng khoán TP.HCM\n19. Hội Tư vấn thuế Việt Nam VTCA\nhttp://www.vtca.vn Hội Tư vấn thuế Việt Nam VTCA\n20. Deloitte\nhttp://www2.deloitte.com/vn/en.html Công ty kiểm toán Deloitte Việt Nam\n21. Công ty xổ số điện toán Việt\nNam http://vietlott.vn Công ty xổ số điện toán Việt Nam\n22. Tổng công ty đầu tư và Kinh\ndoanh vốn nhà nước http://www.scic.vn Tổng công ty đầu tư và Kinh doanh vốn nhà nước ....... ngày...... tháng...... năm....... Trưởng Ban Biên tập",
+            "indexable": true
+          }
+        ]
+      },
+      {
+        "part_id": "doc:218388:part:4",
+        "part_type": "appendix",
+        "part_title": "PHỤ LỤC II",
+        "reference": null,
+        "direct_text": null,
+        "chapters": [],
+        "sections": [],
+        "articles": [],
+        "unstructured_blocks": [
+          {
+            "block_id": "doc:218388:part:4:block:1",
+            "content": "PHỤ LỤC II\nMẪU TỜ TRÌNH PHÊ DUYỆT CHỦ TRƯƠNG TẠO\nMỚI MỤC/ CHUYÊN MỤC/ CHUYÊN TRANG\n(Ban hành kèm theo Quyết định số 2131/QĐ-BTC ngày 04/10/2016 của Bộ trưởng Bộ\nTài chính) Mẫu số 2.1 Mẫu tờ trình phê duyệt chủ trương tạo mới Mục/Chuyên mục\n(TÊN CƠ QUAN/ĐƠN VỊ)\n-------\nCỘNG\nHÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc --------------- Số: ............../TTr-(Ký hiệu đơn vị) Hà Nội, ngày tháng năm 20....\nTỜ TRÌNH\nVề phê duyệt chủ trương tạo mới Mục/Chuyên mục (tên Chuyên mục) trên Cổng TTĐT Bộ Tài chính Căn cứ Nghị định số 43/2011/NĐ-CP ngày 13/6/2011 của Chính phủ quy định về việc cung cấp thông tin và dịch vụ công trực tuyến trên Trang thông tin điện tử hoặc Cổng thông tin điện tử của cơ quan nhà nước; Căn cứ Quyết định số ....../QĐ-BTC ngày .......... của Bộ trưởng Bộ Tài chính về việc ban hành Quy chế hoạt động của Cổng TTĐT Bộ Tài chính; Căn cứ .................., (Tên Vụ, Cục) kính trình Trưởng Ban Biên tập Cổng TTĐT Bộ Tài chính phê duyệt chủ trương tạo mới (Tên Mục/Chuyên mục) trên Cổng TTĐT Bộ Tài chính, cụ thể như sau: - Mục tiêu tạo mới Mục/Chuyên mục - Nội dung, cấu trúc chung của Mục/Chuyên mục - Chu kỳ cập nhật thông tin - Cán bộ phụ trách cung cấp thông tin (họ và tên, email, số máy lẻ, di động) - Đại diện lãnh đạo đơn vị (họ và tên, email, số máy lẻ, di động) - Thời gian thực hiện xây dựng Kính trình Trưởng Ban Biên tập Cổng TTĐT Bộ Tài chính xem xét, phê duyệt./.\nLÃNH ĐẠO ĐƠN VỊ\nKý tên (và đóng dấu nếu có) Họ và tên Mẫu số 2.2 Mẫu tờ trình phê duyệt chủ trương tạo mới Chuyên trang\n(TÊN CƠ QUAN/ĐƠN VỊ)\n-------\nCỘNG\nHÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc --------------- Số: ............../TTr-(Ký hiệu đơn vị) Hà Nội, ngày tháng năm 20....\nTỜ TRÌNH\nVề phê duyệt chủ trương tạo mới Chuyên trang (tên Chuyên trang) trên Cổng TTĐT Bộ Tài chính Căn cứ Nghị định số 43/2011/NĐ-CP ngày 13/6/2011 của Chính phủ quy định về việc cung cấp thông tin và dịch vụ công trực tuyến trên Trang thông tin điện tử hoặc Cổng thông tin điện tử của cơ quan nhà nước; Căn cứ Quyết định số ......./QĐ-BTC ngày ........ của Bộ trưởng Bộ Tài chính về việc ban hành Quy chế hoạt động của Cổng TTĐT Bộ Tài chính; Căn cứ ................, (Tên Vụ, Cục) kính trình Trưởng Ban Biên tập Cổng TTĐT Bộ Tài chính phê duyệt chủ trương tạo mới (Tên Chuyên trang) trên Cổng TTĐT Bộ Tài chính, cụ thể như sau: - Mục tiêu xây dựng - Nội dung, cấu trúc chung của Chuyên trang (Giao diện, kết cấu thông tin) - Chu kỳ cập nhật thông tin của từng Mục/Chuyên mục trong Chuyên trang - Nhân sự thực hiện việc duy trì hoạt động chuyên trang - Kinh phí xây dựng, duy trì hoạt động chuyên trang - Thời gian thực hiện xây dựng Kính trình Trưởng Ban Biên tập Cổng TTĐT Bộ Tài chính xem xét, phê duyệt./.",
+            "indexable": true
+          }
+        ]
+      },
+      {
+        "part_id": "doc:218388:part:5",
+        "part_type": "appendix",
+        "part_title": "PHỤ LỤC III",
+        "reference": null,
+        "direct_text": null,
+        "chapters": [],
+        "sections": [],
+        "articles": [],
+        "unstructured_blocks": [
+          {
+            "block_id": "doc:218388:part:5:block:1",
+            "content": "PHỤ LỤC III\nHỒ SƠ QUẢN LÝ MỤC/CHUYÊN MỤC/CHUYÊN\nTRANG\n(Ban hành kèm theo Quyết định số 2131/QĐ-BTC ngày 04/10/2016 của Bộ trưởng Bộ\nTài chính) Mẫu số 3.1 Hồ sơ quản lý Mục/Chuyên mục\nCỘNG\nHÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc -------------------\nHỒ\nSƠ QUẢN LÝ MỤC/ CHUYÊN MỤC\n1. Tên Mục/Chuyên mục:\n2. Căn cứ: (Theo Công văn/ Quyết định xây dựng Mục, Chuyên mục)\n3. Đại diện Lãnh đạo đơn vị chủ thể:\n- Tên Lãnh đạo đơn vị: - Số điện thoại liên lạc: số di động, số máy lẻ - Email:\n4. Cán bộ đầu mối phụ trách cung cấp\nthông tin: - Họ tên: - Số điện thoại liên lạc: số di động, số máy lẻ - Email:\n5. Chu kỳ cập nhật: (Chi tiết chu kỳ cập nhật đến từng Mục tin)\n6. Vị trí trên Cổng TTĐT Bộ Tài\nchính và mô tả sơ bộ nội dung:\n7. Đơn vị biên tập, xuất bản thông\ntin: - Họ tên chuyên viên phụ trách xuất bản: - Di động: - Số máy lẻ: - Email: ...... ngày...... tháng....... năm....... Xác nhận của Ban Biên tập ...... ngày...... tháng....... năm....... Đại diện đơn vị chủ thể Mẫu số 3.2 Hồ sơ quản lý Chuyên trang\nCỘNG\nHÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc -------------\nHỒ SƠ QUẢN LÝ CHUYÊN TRANG\n1. Tên Chuyên trang, địa chỉ truy\ncập Chuyên trang:\n2. Căn cứ: (Theo Tờ trình/Quyết định phê duyệt xây dựng Chuyên trang)\n3. Đại diện Lãnh đạo đơn vị chủ thể:\n- Tên Lãnh đạo đơn vị: - Số điện thoại liên lạc: số di động, số máy lẻ - Email:\n4. Cán bộ phụ trách cung cấp, xuất\nbản thông tin: -Họ tên: - Số điện thoại liên lạc: số di động, số máy lẻ - Email:\n5. Chu kỳ cập nhật: (Chi tiết chu kỳ cập nhật đến từng Mục tin)\nSTT\nTên Mục/Chuyên mục Chu kỳ cập nhật 1 2 3\n6. Thông tin về các Biểu tượng,\ntrang liên kết (nếu có)\n7. Mô tả sơ bộ: (Banner và giao diện trang chủ của chuyên trang, thiết kế các mục thông\ntin (sitemap) của chuyên trang. Biểu tượng chọn làm logo và vị trí đặt trên Trang chủ)\n8. Các yêu cầu kỹ thuật khác:\n......... ngày..... tháng..... năm.......... Xác nhận của Ban Biên tập ......... ngày..... tháng..... năm.......... Đại diện đơn vị chủ thể",
+            "indexable": true
+          }
+        ]
+      },
+      {
+        "part_id": "doc:218388:part:6",
+        "part_type": "appendix",
+        "part_title": "PHỤ LỤC IV",
+        "reference": null,
+        "direct_text": null,
+        "chapters": [],
+        "sections": [],
+        "articles": [],
+        "unstructured_blocks": [
+          {
+            "block_id": "doc:218388:part:6:block:1",
+            "content": "PHỤ LỤC IV\nBÁO CÁO TÌNH HÌNH CẬP NHẬT THÔNG TIN\n(Ban hành kèm theo Quyết định số 2131/QĐ-BTC ngày 04/10/2016 của Bộ trưởng Bộ\nTài chính) Mẫu 4.1. Mẫu Báo cáo tình hình cập nhật thông tin trên Cổng TTĐT Bộ Tài chính (Kể từ ngày/tháng/năm đến ngày/tháng/năm)\nSTT\nTên đơn vị Số lượng chuyên trang Số lượng chuyên mục Số lượng tin đăng tải (từ ngày.... đến ngày...) Đánh giá Đề xuất Hà nội, ngày.... tháng...... năm..........\nCỤC TIN HỌC VÀ THỐNG KÊ TÀI CHÍNH",
+            "indexable": true
+          }
+        ]
+      }
+    ]
+  },
+  "issues": [],
+  "status": "ok",
+  "source_hash": "context_218388.json",
+  "stats": {
+    "source_chars": 42239,
+    "passage_chars": 42089,
+    "parts": 6,
+    "chapters": 4,
+    "sections": 0,
+    "articles": 20,
+    "clauses": 46,
+    "points": 12
+  }
+}

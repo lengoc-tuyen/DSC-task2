@@ -1,0 +1,610 @@
+{
+  "schema_version": "2.0",
+  "document_id": 58544,
+  "metadata": {
+    "name": "Quyet-dinh-701-QD-BYT-2021-Quy-che-Quan-ly-van-hanh-khai-thac-su-dung-phan-mem-Thong-ke-y-te-463919",
+    "link": "https://thuvienphapluat.vn/van-ban/The-thao-Y-te/Quyet-dinh-701-QD-BYT-2021-Quy-che-Quan-ly-van-hanh-khai-thac-su-dung-phan-mem-Thong-ke-y-te-463919.aspx",
+    "issuing_agency": "BỘ Y TẾ",
+    "national_header": "CỘNG\r\n\n  HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM",
+    "motto": "Độc lập - Tự do - Hạnh phúc",
+    "document_number": "701/QĐ-BYT",
+    "issued_place": "Hà Nội",
+    "issued_date": "ngày 28 tháng 01 năm 2021",
+    "document_type": "QUYẾT ĐỊNH",
+    "title": "BAN HÀNH QUY CHẾ QUẢN LÝ, VẬN HÀNH, KHAI THÁC, SỬ DỤNG PHẦN MỀM THỐNG KÊ Y TẾ"
+  },
+  "administrative_header": {
+    "removed": true,
+    "removed_char_count": 143
+  },
+  "preamble": {
+    "text": "QUYẾT ĐỊNH\nBAN HÀNH QUY CHẾ QUẢN LÝ, VẬN HÀNH, KHAI THÁC, SỬ DỤNG PHẦN MỀM THỐNG\nKÊ Y TẾ BỘ TRƯỞNG BỘ Y TẾ\nCăn cứ Nghị định số 75/2017/NĐ-CP ngày 20/6/2017 của Chính phủ Quy định về chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Y tế; Căn cứ Thông tư số 37/2019/TT-BYT ngày 30/12/2019 của Bộ Y tế Quy định chế độ báo cáo thống kê ngành y tế; Căn cứ Quyết định số 5454/QĐ-BYT ngày 10/9/2018 của Bộ trưởng Bộ Y tế Ban hành Kế hoạch triển khai Thống kê y tế điện tử; Theo đề nghị của Cục trưởng Cục Công nghệ thông tin,\nQUYẾT ĐỊNH:",
+    "legal_bases": [
+      "Căn cứ Thông tư số 37/2019/TT-BYT ngày 30/12/2019 của Bộ Y tế Quy định chế độ báo cáo thống kê ngành y tế",
+      "Căn cứ Quyết định số 5454/QĐ-BYT ngày 10/9/2018 của Bộ trưởng Bộ Y tế Ban hành Kế hoạch triển khai Thống kê y tế điện tử"
+    ],
+    "proposals": [
+      "Theo đề nghị của Cục trưởng Cục Công nghệ thông tin,\nQUYẾT ĐỊNH:"
+    ],
+    "enactment_formula": "QUYẾT ĐỊNH"
+  },
+  "passage": "QUYẾT ĐỊNH\nBAN HÀNH QUY CHẾ QUẢN LÝ, VẬN HÀNH, KHAI THÁC, SỬ DỤNG PHẦN MỀM THỐNG\nKÊ Y TẾ BỘ TRƯỞNG BỘ Y TẾ\nCăn cứ Nghị định số 75/2017/NĐ-CP ngày 20/6/2017 của Chính phủ Quy định về chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Y tế; Căn cứ Thông tư số 37/2019/TT-BYT ngày 30/12/2019 của Bộ Y tế Quy định chế độ báo cáo thống kê ngành y tế; Căn cứ Quyết định số 5454/QĐ-BYT ngày 10/9/2018 của Bộ trưởng Bộ Y tế Ban hành Kế hoạch triển khai Thống kê y tế điện tử; Theo đề nghị của Cục trưởng Cục Công nghệ thông tin,\nQUYẾT ĐỊNH:\nĐiều 1. Ban hành kèm theo Quyết định này Quy chế Quản lý, vận hành, khai thác, sử dụng phần mềm Thống kê y tế.\nĐiều 2. Quyết định này có hiệu lực kể từ ngày ký, ban hành.\nĐiều 3. Các Ông/Bà: Chánh Văn phòng Bộ, Cục trưởng Cục Công nghệ thông tin, Vụ trưởng Vụ Kế hoạch - Tài chính, Thủ trưởng các đơn vị thuộc và trực thuộc Bộ Y tế, Giám đốc Sở Y tế các tỉnh, thành phố trực thuộc Trung ương chịu trách nhiệm thi hành quyết định này./.\nNơi nhận:\n- Như Điều 3;\n- Bộ trưởng Nguyễn Thanh Long (để báo cáo);\n- Các Thứ trưởng;\n- Lưu: VT, CNTT.\nKT.\nBỘ TRƯỞNG\nTHỨ TRƯỞNG\nTrần Văn Thuấn\nQUY CHẾ\nQUẢN LÝ, VẬN HÀNH, KHAI THÁC, SỬ DỤNG PHẦN MỀM THỐNG KÊ Y TẾ\n(Ban hành kèm theo Quyết định số 701/QĐ-BYT ngày 28 tháng 01 năm 2021 của Bộ\ntrưởng Bộ Y tế)\nChương I\nNHỮNG QUY ĐỊNH CHUNG\nĐiều 1. Phạm vi điều chỉnh\nQuy chế này quy định về quản lý, vận\nhành, khai thác, sử dụng phần mềm Thống kê y tế; trách nhiệm và quyền hạn của các đơn vị, tổ chức, cá nhân trong việc quản lý, vận hành, khai thác, sử dụng phần mềm Thống kê y tế.\nĐiều 2. Đối tượng áp dụng\nQuy chế này áp dụng đối với các đơn vị\nthuộc, trực thuộc Bộ Y tế; Sở Y tế các tỉnh, thành phố trực thuộc Trung ương; Y tế bộ, ngành; các cơ sở y tế công lập tuyến tỉnh, huyện, xã; các cơ sở y tế tư nhân (sau đây gọi tắt là đơn vị) và cán bộ, công chức, viên chức, người lao động trong các đơn vị (sau đây gọi tắt là cá nhân) tham gia quản lý, vận hành, khai thác, sử dụng phần mềm Thống kê y tế.\nĐiều 3. Giải thích từ ngữ Trong phạm vi Quy chế này, các từ ngữ dưới đây được hiểu như sau:\n1. Phần mềm Thống kê y tế (sau\nđây gọi tắt là Phần mềm): do Bộ Y tế xây dựng nhằm tin học hóa công tác báo cáo thống kê y tế theo Quy định của Bộ Y tế. Phần mềm được triển khai thống nhất trên toàn quốc từ cấp xã, huyện, tỉnh tới cấp Trung ương. Phần mềm bao gồm các phân hệ chính: quản trị hệ thống; nhập số liệu (tuyến xã, huyện, tỉnh, Trung ương); khai thác, phân tích, trình bày số liệu (bảng, biểu đồ, bản đồ, báo cáo tổng hợp).\n2. Tài khoản: bao gồm tên đăng\nnhập và mật khẩu được cấp cho đơn vị để truy cập và sử dụng Phần mềm.\n3. Cổng tiếp nhận dữ liệu thống kê\ny tế: là phần mềm được xây dựng để cung cấp kết nối và tiếp nhận dữ liệu báo cáo thống kê từ các phần mềm nghiệp vụ sang phần mềm Thống kê y tế.\nĐiều 4. Nguyên tắc chung quản lý, vận hành, khai thác, sử dụng phần mềm Thống kê y tế\n1. Tuân thủ các quy định của pháp luật\nvề bảo vệ bí mật nhà nước, bảo vệ thông tin cá nhân, giao dịch điện tử, công nghệ thông tin và các quy định pháp luật có liên quan.\n2. Tài khoản được cung cấp cho đơn vị\ntheo phân cấp, chức năng nhiệm vụ và các đơn vị phải tự bảo vệ thông tin tài khoản.\n3. Quản lý, vận hành, khai thác, sử dụng\ntheo đúng mục đích, thẩm quyền, đảm bảo thực hiện đúng quy trình, thông tin phải được cập nhật đầy đủ và đúng thời gian, chế độ báo cáo theo quy định của Bộ Y tế.\nChương II\nQUẢN LÝ, VẬN\nHÀNH, KHAI THÁC, SỬ DỤNG PHẦN MỀM THỐNG KÊ Y TẾ\nĐiều 5. Quản lý và vận hành phần mềm Thống kê y tế\n1. Phần mềm Thống kê y tế và cơ sở dữ\nliệu được cài đặt, lưu trữ, quản lý tập trung tại trung tâm dữ liệu đặt tại Cục Công nghệ thông tin, Bộ Y tế.\n2. Việc bảo đảm an toàn, an ninh phải\ntuân thủ các quy định được ban hành tại các văn bản sau:\na) Luật An toàn thông tin mạng;\nb) Luật An ninh mạng;\nc) Thông tư số 53/2014/TT-BYT ngày 29\ntháng 12 năm 2014 của Bộ Y tế Quy định điều kiện hoạt động y tế trên môi trường mạng\nd) Quyết định số 4159/QĐ-BYT ngày 13\ntháng 10 năm 2014 của Bộ trưởng Bộ Y tế Ban hành quy định về đảm bảo an toàn thông tin y tế điện tử tại các đơn vị trong ngành y tế.\n3. Cơ sở dữ liệu cần được sao lưu tự\nđộng hàng ngày, dữ liệu sao lưu được lưu trên máy chủ khác với máy chủ cài đặt phần mềm và cơ sở dữ liệu.\nĐiều 6. Điều kiện sử dụng phần mềm Thống kê y tế\n1. Địa chỉ truy cập vào phần mềm Thống\nkê y tế: http://baocao.tkyt.vn.\n2. Máy vi tính của người sử dụng phải\nđược kết nối Internet.\n3. Máy vi tính của người sử dụng phải\nđược cài đặt một trong các trình duyệt web sau: Chrome, Mozilla Firefox hoặc Internet Explorer.\n4. Người sử dụng có tài khoản truy cập\nphần mềm.\nĐiều 7. Quản lý tài khoản phần mềm Thống kê y tế\n1. Cục Công nghệ thông tin quản lý\ntài khoản quản trị hệ thống; tạo lập, cung cấp và thu hồi tài khoản các đơn vị.\n2. Các đơn vị thuộc, trực thuộc Bộ Y\ntế; Sở Y tế các tỉnh, thành phố trực thuộc Trung ương; Y tế bộ, ngành; cơ sở y tế công lập tuyến tỉnh, huyện, xã; cơ sở y tế tư nhân (bệnh viện, phòng khám) được cấp 01 tài khoản sử dụng.\n3. Trường hợp có thay đổi đơn vị hành\nchính trong danh mục đơn vị hành chính Việt Nam hoặc thành lập mới, sáp nhập cơ sở y tế: Các đơn vị thuộc và trực thuộc Bộ Y tế, Sở Y tế tỉnh, thành phố trực thuộc Trung ương cần gửi văn bản cho Cục Công nghệ thông tin để tạo lập hoặc thu hồi tài khoản.\n4. Quản lý tài khoản đơn vị\na) Thủ trưởng đơn vị chịu trách nhiệm\ntiếp nhận, quản lý tài khoản và bàn giao tài khoản cho cá nhân có trách nhiệm của đơn vị quản lý, sử dụng.\nb) Đơn vị, cá nhân sau khi nhận tài khoản,\ncó trách nhiệm đổi mật khẩu ban đầu ngay sau khi được cung cấp và quản lý mật khẩu mới.\nc) Sở Y tế các tỉnh, thành phố trực\nthuộc Trung ương chịu trách nhiệm cấp lại mật khẩu cho các đơn vị trong phạm vi quản lý.\nĐiều 8. Cập nhật thông tin, báo cáo trên phần mềm Thống kê y tế\n1. Những nội dung thông tin, báo cáo\ncần cập nhật và tần suất cập nhật, trách nhiệm cập nhật: Thực hiện theo quy định tại Thông tư số 37/2019/TT-BYT ngày 30 tháng 12 năm 2019 của Bộ Y tế quy định chế độ báo cáo thống kê ngành y tế.\n2. Hình thức cập nhật\na) Cập nhật trực tiếp trên phần mềm\nThống kê y tế.\nb) Kết nối, gửi dữ liệu từ các phần mềm\nquản lý nghiệp vụ lên cổng tiếp nhận dữ liệu thống kê y tế theo hướng dẫn kết nối, liên thông do Cục Công nghệ thông tin ban hành.\n3. Kiểm tra, phê duyệt báo cáo\na) Sở Y tế các tỉnh, thành phố trực\nthuộc Trung ương có trách nhiệm phân công đơn vị tuyến huyện, tuyến tỉnh kiểm tra tính đầy đủ, chính xác và phê duyệt báo cáo của các cơ sở y tế tuyến xã, tuyến huyện, tuyến tỉnh.\nb) Sau thời hạn báo cáo được quy định\ntại Thông tư số 37/2019/TT-BYT ngày 30 tháng 12 năm 2019 của Bộ Y tế quy định chế độ báo cáo thống kê ngành y tế, báo cáo đã được phê duyệt sẽ không thể chỉnh sửa.\nĐiều 9. Khai thác, sử dụng dữ liệu\n1. Các hình thức khai thác:\na) Khai thác trực tiếp qua các công cụ\nkhai thác của phần mềm Thống kê y tế;\nb) Thông qua kết nối, chia sẻ dữ liệu\ngiữa các phần mềm, hệ thống thông tin.\n2. Đối tượng, phạm vi khai thác\na) Các Vụ, Cục thuộc Bộ Y tế được quyền\nkhai thác dữ liệu trong phạm vi toàn quốc.\nb) Các đơn vị trực thuộc Bộ được quyền\nkhai thác dữ liệu trong phạm vi quản lý của đơn vị mình và được quyền yêu cầu khai thác dữ liệu ngoài phạm vi quản lý để thực hiện các nhiệm vụ Lãnh đạo Bộ giao.\nc) Sở Y tế các tỉnh, thành phố trực\nthuộc Trung ương được quyền khai thác dữ liệu trong phạm vi toàn tỉnh và phân cấp quyền khai khác dữ liệu cho các đơn vị tuyến tỉnh thuộc phạm vi quản lý.\nd) Cơ sở y tế tuyến xã, huyện, tỉnh\nvà cơ sở y tế tư nhân được quyền khai thác dữ liệu trong phạm vi quản lý của đơn vị mình.\n3. Sử dụng và phổ biến số liệu: tuân\ntheo các quy định của pháp luật về việc sử dụng và phổ biến số liệu thống kê, quy định của pháp luật liên quan đến bảo vệ bí mật cá nhân.\nChương III\nTRÁCH NHIỆM CỦA\nCÁC ĐƠN VỊ TRONG QUẢN LÝ, VẬN HÀNH, KHAI THÁC, SỬ DỤNG PHẦN MỀM THỐNG KÊ Y TẾ\nĐiều 10. Trách nhiệm của Cục Công nghệ thông tin\n1. Chủ trì xây dựng, phát triển, quản\ntrị, vận hành, bảo trì đảm bảo hoạt động thường xuyên, ổn định của phần mềm Thống kê y tế. Nâng cấp, cập nhật phần mềm khi có sự thay đổi các văn bản quy định về chế độ báo cáo thống kê y tế.\n2. Theo dõi, kiểm tra, đánh giá việc\nthực hiện và hiệu quả triển khai phần mềm Thống kê y tế trên toàn quốc.\n3. Hướng dẫn các đơn vị thực hiện kết\nnối liên thông dữ liệu giữa các phần mềm với phần mềm Thống kê y tế.\n4. Hỗ trợ trích xuất báo cáo theo yêu\ncầu biên soạn niên giám thống kê, yêu cầu phục vụ công tác kế hoạch, quy hoạch Ngành.\nĐiều 11. Trách nhiệm của Vụ Kế hoạch - Tài chính\n1. Chủ trì quản lý, sử dụng toàn bộ\ncơ sở dữ liệu thống kê và chịu trách nhiệm công bố các chỉ tiêu theo quy định.\n2. Chủ trì, phối hợp với Cục Công nghệ\nthông tin kiểm tra, đánh giá chất lượng số liệu báo cáo thống kê qua phần mềm.\nĐiều 12. Trách nhiệm của các đơn vị thuộc, trực thuộc Bộ Y tế\n1. Thực hiện tổng hợp thông tin thống\nkê, báo cáo theo các biểu mẫu đã quy định trong chế độ báo cáo thống kê.\n2. Phối hợp với Cục Công nghệ thông tin\nvà Vụ Kế hoạch - Tài chính thực hiện kiểm tra, đánh giá việc triển khai phần mềm thống kê y tế.\nĐiều 13. Trách nhiệm của Sở Y tế các tỉnh, thành phố trực thuộc Trung ương\n1. Thành lập nhóm Hỗ trợ triển khai\nphần mềm thống kê y tế tuyến tỉnh theo Quyết định số 5454/QĐ-BYT ngày 10 tháng 9 năm 2018 của Bộ trưởng Bộ Y tế ban hành Kế hoạch triển khai thống kê y tế điện tử.\n2. Theo dõi, kiểm tra, đánh giá việc\nbáo cáo thống kê qua phần mềm của các cơ sở y tế tuyến tỉnh, huyện, xã, cơ sở y tế tư nhân trên địa bàn quản lý.\n3. Đảm bảo tính bảo mật, tính chính\nxác và toàn vẹn số liệu do đơn vị quản lý.\nĐiều 14. Trách nhiệm của các cơ sở y tế tuyến tỉnh, huyện, xã; cơ sở y tế tư nhân; y tế bộ, ngành\n1. Thực hiện tổng hợp thông tin thống\nkê, báo cáo theo các biểu mẫu đã quy định trong chế độ báo cáo thống kê.\n2. Đảm bảo tính bảo mật, tính chính\nxác và toàn vẹn số liệu do đơn vị quản lý.\nChương IV\nTỔ CHỨC THỰC HIỆN\nĐiều 15. Điều khoản tham chiếu Trường hợp các văn bản được dẫn chiếu trong Quy chế này bị thay thế hoặc sửa đổi, bổ sung thì áp dụng theo văn bản thay thế hoặc văn bản đã được sửa đổi, bổ sung.\nĐiều 16. Trách nhiệm thi hành\n1. Cục Công nghệ thông tin có trách\nnhiệm chỉ đạo, hướng dẫn, kiểm tra việc thực hiện Quy chế này.\n2. Trong quá trình tổ chức thực hiện,\nnếu có khó khăn, vướng mắc, đề nghị phản ánh về Cục Công nghệ thông tin để nghiên cứu, giải quyết./.",
+  "tree": {
+    "parts": [
+      {
+        "part_id": "doc:58544:part:1",
+        "part_type": "main",
+        "part_title": null,
+        "reference": null,
+        "direct_text": "QUYẾT ĐỊNH\nBAN HÀNH QUY CHẾ QUẢN LÝ, VẬN HÀNH, KHAI THÁC, SỬ DỤNG PHẦN MỀM THỐNG\nKÊ Y TẾ BỘ TRƯỞNG BỘ Y TẾ\nCăn cứ Nghị định số 75/2017/NĐ-CP ngày 20/6/2017 của Chính phủ Quy định về chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Y tế; Căn cứ Thông tư số 37/2019/TT-BYT ngày 30/12/2019 của Bộ Y tế Quy định chế độ báo cáo thống kê ngành y tế; Căn cứ Quyết định số 5454/QĐ-BYT ngày 10/9/2018 của Bộ trưởng Bộ Y tế Ban hành Kế hoạch triển khai Thống kê y tế điện tử; Theo đề nghị của Cục trưởng Cục Công nghệ thông tin,\nQUYẾT ĐỊNH:",
+        "chapters": [],
+        "sections": [],
+        "articles": [
+          {
+            "article_id": "doc:58544:part:1:article:1",
+            "number": "1",
+            "title": "Ban hành kèm theo Quyết định này Quy chế Quản lý, vận hành, khai thác, sử dụng phần mềm Thống kê y tế.",
+            "content": "Điều 1. Ban hành kèm theo Quyết định này Quy chế Quản lý, vận hành, khai thác, sử dụng phần mềm Thống kê y tế.",
+            "clauses": [],
+            "points": []
+          },
+          {
+            "article_id": "doc:58544:part:1:article:2",
+            "number": "2",
+            "title": "Quyết định này có hiệu lực kể từ ngày ký, ban hành.",
+            "content": "Điều 2. Quyết định này có hiệu lực kể từ ngày ký, ban hành.",
+            "clauses": [],
+            "points": []
+          },
+          {
+            "article_id": "doc:58544:part:1:article:3",
+            "number": "3",
+            "title": "Các Ông/Bà: Chánh Văn phòng Bộ, Cục trưởng Cục Công nghệ thông tin, Vụ trưởng Vụ Kế hoạch - Tài chính, Thủ trưởng các đơn vị thuộc và trực thuộc Bộ Y tế, Giám đốc Sở Y tế các tỉnh, thành phố trực thuộc Trung ương chịu trách nhiệm thi hành quyết định này./.",
+            "content": "Điều 3. Các Ông/Bà: Chánh Văn phòng Bộ, Cục trưởng Cục Công nghệ thông tin, Vụ trưởng Vụ Kế hoạch - Tài chính, Thủ trưởng các đơn vị thuộc và trực thuộc Bộ Y tế, Giám đốc Sở Y tế các tỉnh, thành phố trực thuộc Trung ương chịu trách nhiệm thi hành quyết định này./.",
+            "clauses": [],
+            "points": []
+          }
+        ],
+        "unstructured_blocks": []
+      },
+      {
+        "part_id": "doc:58544:part:2",
+        "part_type": "regulation",
+        "part_title": "QUY CHẾ",
+        "reference": null,
+        "direct_text": "QUY CHẾ\nQUẢN LÝ, VẬN HÀNH, KHAI THÁC, SỬ DỤNG PHẦN MỀM THỐNG KÊ Y TẾ\n(Ban hành kèm theo Quyết định số 701/QĐ-BYT ngày 28 tháng 01 năm 2021 của Bộ\ntrưởng Bộ Y tế)\nQuy chế này quy định về quản lý, vận\nhành, khai thác, sử dụng phần mềm Thống kê y tế; trách nhiệm và quyền hạn của các đơn vị, tổ chức, cá nhân trong việc quản lý, vận hành, khai thác, sử dụng phần mềm Thống kê y tế.\nQuy chế này áp dụng đối với các đơn vị\nthuộc, trực thuộc Bộ Y tế; Sở Y tế các tỉnh, thành phố trực thuộc Trung ương; Y tế bộ, ngành; các cơ sở y tế công lập tuyến tỉnh, huyện, xã; các cơ sở y tế tư nhân (sau đây gọi tắt là đơn vị) và cán bộ, công chức, viên chức, người lao động trong các đơn vị (sau đây gọi tắt là cá nhân) tham gia quản lý, vận hành, khai thác, sử dụng phần mềm Thống kê y tế.",
+        "chapters": [
+          {
+            "chapter_id": "doc:58544:part:2:chapter:1",
+            "number": "I",
+            "title": "NHỮNG QUY ĐỊNH CHUNG",
+            "content": "Chương I\nNHỮNG QUY ĐỊNH CHUNG",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:58544:part:2:article:1",
+                "number": "1",
+                "title": "Phạm vi điều chỉnh",
+                "content": "Điều 1. Phạm vi điều chỉnh",
+                "clauses": [],
+                "points": []
+              },
+              {
+                "article_id": "doc:58544:part:2:article:2",
+                "number": "2",
+                "title": "Đối tượng áp dụng",
+                "content": "Điều 2. Đối tượng áp dụng",
+                "clauses": [],
+                "points": []
+              },
+              {
+                "article_id": "doc:58544:part:2:article:3",
+                "number": "3",
+                "title": "Giải thích từ ngữ Trong phạm vi Quy chế này, các từ ngữ dưới đây được hiểu như sau:",
+                "content": "Điều 3. Giải thích từ ngữ Trong phạm vi Quy chế này, các từ ngữ dưới đây được hiểu như sau:",
+                "clauses": [
+                  {
+                    "clause_id": "doc:58544:part:2:article:3:clause:1",
+                    "number": "1",
+                    "content": "1. Phần mềm Thống kê y tế (sau\nđây gọi tắt là Phần mềm): do Bộ Y tế xây dựng nhằm tin học hóa công tác báo cáo thống kê y tế theo Quy định của Bộ Y tế. Phần mềm được triển khai thống nhất trên toàn quốc từ cấp xã, huyện, tỉnh tới cấp Trung ương. Phần mềm bao gồm các phân hệ chính: quản trị hệ thống; nhập số liệu (tuyến xã, huyện, tỉnh, Trung ương); khai thác, phân tích, trình bày số liệu (bảng, biểu đồ, bản đồ, báo cáo tổng hợp).",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:58544:part:2:article:3:clause:2",
+                    "number": "2",
+                    "content": "2. Tài khoản: bao gồm tên đăng\nnhập và mật khẩu được cấp cho đơn vị để truy cập và sử dụng Phần mềm.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:58544:part:2:article:3:clause:3",
+                    "number": "3",
+                    "content": "3. Cổng tiếp nhận dữ liệu thống kê\ny tế: là phần mềm được xây dựng để cung cấp kết nối và tiếp nhận dữ liệu báo cáo thống kê từ các phần mềm nghiệp vụ sang phần mềm Thống kê y tế.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:58544:part:2:article:4",
+                "number": "4",
+                "title": "Nguyên tắc chung quản lý, vận hành, khai thác, sử dụng phần mềm Thống kê y tế",
+                "content": "Điều 4. Nguyên tắc chung quản lý, vận hành, khai thác, sử dụng phần mềm Thống kê y tế",
+                "clauses": [
+                  {
+                    "clause_id": "doc:58544:part:2:article:4:clause:1",
+                    "number": "1",
+                    "content": "1. Tuân thủ các quy định của pháp luật\nvề bảo vệ bí mật nhà nước, bảo vệ thông tin cá nhân, giao dịch điện tử, công nghệ thông tin và các quy định pháp luật có liên quan.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:58544:part:2:article:4:clause:2",
+                    "number": "2",
+                    "content": "2. Tài khoản được cung cấp cho đơn vị\ntheo phân cấp, chức năng nhiệm vụ và các đơn vị phải tự bảo vệ thông tin tài khoản.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:58544:part:2:article:4:clause:3",
+                    "number": "3",
+                    "content": "3. Quản lý, vận hành, khai thác, sử dụng\ntheo đúng mục đích, thẩm quyền, đảm bảo thực hiện đúng quy trình, thông tin phải được cập nhật đầy đủ và đúng thời gian, chế độ báo cáo theo quy định của Bộ Y tế.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:58544:part:2:chapter:2",
+            "number": "II",
+            "title": "QUẢN LÝ, VẬN HÀNH, KHAI THÁC, SỬ DỤNG PHẦN MỀM THỐNG KÊ Y TẾ",
+            "content": "Chương II\nQUẢN LÝ, VẬN\nHÀNH, KHAI THÁC, SỬ DỤNG PHẦN MỀM THỐNG KÊ Y TẾ",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:58544:part:2:article:5",
+                "number": "5",
+                "title": "Quản lý và vận hành phần mềm Thống kê y tế",
+                "content": "Điều 5. Quản lý và vận hành phần mềm Thống kê y tế",
+                "clauses": [
+                  {
+                    "clause_id": "doc:58544:part:2:article:5:clause:1",
+                    "number": "1",
+                    "content": "1. Phần mềm Thống kê y tế và cơ sở dữ\nliệu được cài đặt, lưu trữ, quản lý tập trung tại trung tâm dữ liệu đặt tại Cục Công nghệ thông tin, Bộ Y tế.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:58544:part:2:article:5:clause:2",
+                    "number": "2",
+                    "content": "2. Việc bảo đảm an toàn, an ninh phải\ntuân thủ các quy định được ban hành tại các văn bản sau:",
+                    "points": [
+                      {
+                        "point_id": "doc:58544:part:2:article:5:clause:2:point:1",
+                        "label": "a",
+                        "content": "a) Luật An toàn thông tin mạng;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:58544:part:2:article:5:clause:2:point:2",
+                        "label": "b",
+                        "content": "b) Luật An ninh mạng;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:58544:part:2:article:5:clause:2:point:3",
+                        "label": "c",
+                        "content": "c) Thông tư số 53/2014/TT-BYT ngày 29\ntháng 12 năm 2014 của Bộ Y tế Quy định điều kiện hoạt động y tế trên môi trường mạng",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:58544:part:2:article:5:clause:2:point:4",
+                        "label": "d",
+                        "content": "d) Quyết định số 4159/QĐ-BYT ngày 13\ntháng 10 năm 2014 của Bộ trưởng Bộ Y tế Ban hành quy định về đảm bảo an toàn thông tin y tế điện tử tại các đơn vị trong ngành y tế.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:58544:part:2:article:5:clause:3",
+                    "number": "3",
+                    "content": "3. Cơ sở dữ liệu cần được sao lưu tự\nđộng hàng ngày, dữ liệu sao lưu được lưu trên máy chủ khác với máy chủ cài đặt phần mềm và cơ sở dữ liệu.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:58544:part:2:article:6",
+                "number": "6",
+                "title": "Điều kiện sử dụng phần mềm Thống kê y tế",
+                "content": "Điều 6. Điều kiện sử dụng phần mềm Thống kê y tế",
+                "clauses": [
+                  {
+                    "clause_id": "doc:58544:part:2:article:6:clause:1",
+                    "number": "1",
+                    "content": "1. Địa chỉ truy cập vào phần mềm Thống\nkê y tế: http://baocao.tkyt.vn.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:58544:part:2:article:6:clause:2",
+                    "number": "2",
+                    "content": "2. Máy vi tính của người sử dụng phải\nđược kết nối Internet.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:58544:part:2:article:6:clause:3",
+                    "number": "3",
+                    "content": "3. Máy vi tính của người sử dụng phải\nđược cài đặt một trong các trình duyệt web sau: Chrome, Mozilla Firefox hoặc Internet Explorer.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:58544:part:2:article:6:clause:4",
+                    "number": "4",
+                    "content": "4. Người sử dụng có tài khoản truy cập\nphần mềm.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:58544:part:2:article:7",
+                "number": "7",
+                "title": "Quản lý tài khoản phần mềm Thống kê y tế",
+                "content": "Điều 7. Quản lý tài khoản phần mềm Thống kê y tế",
+                "clauses": [
+                  {
+                    "clause_id": "doc:58544:part:2:article:7:clause:1",
+                    "number": "1",
+                    "content": "1. Cục Công nghệ thông tin quản lý\ntài khoản quản trị hệ thống; tạo lập, cung cấp và thu hồi tài khoản các đơn vị.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:58544:part:2:article:7:clause:2",
+                    "number": "2",
+                    "content": "2. Các đơn vị thuộc, trực thuộc Bộ Y\ntế; Sở Y tế các tỉnh, thành phố trực thuộc Trung ương; Y tế bộ, ngành; cơ sở y tế công lập tuyến tỉnh, huyện, xã; cơ sở y tế tư nhân (bệnh viện, phòng khám) được cấp 01 tài khoản sử dụng.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:58544:part:2:article:7:clause:3",
+                    "number": "3",
+                    "content": "3. Trường hợp có thay đổi đơn vị hành\nchính trong danh mục đơn vị hành chính Việt Nam hoặc thành lập mới, sáp nhập cơ sở y tế: Các đơn vị thuộc và trực thuộc Bộ Y tế, Sở Y tế tỉnh, thành phố trực thuộc Trung ương cần gửi văn bản cho Cục Công nghệ thông tin để tạo lập hoặc thu hồi tài khoản.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:58544:part:2:article:7:clause:4",
+                    "number": "4",
+                    "content": "4. Quản lý tài khoản đơn vị",
+                    "points": [
+                      {
+                        "point_id": "doc:58544:part:2:article:7:clause:4:point:1",
+                        "label": "a",
+                        "content": "a) Thủ trưởng đơn vị chịu trách nhiệm\ntiếp nhận, quản lý tài khoản và bàn giao tài khoản cho cá nhân có trách nhiệm của đơn vị quản lý, sử dụng.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:58544:part:2:article:7:clause:4:point:2",
+                        "label": "b",
+                        "content": "b) Đơn vị, cá nhân sau khi nhận tài khoản,\ncó trách nhiệm đổi mật khẩu ban đầu ngay sau khi được cung cấp và quản lý mật khẩu mới.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:58544:part:2:article:7:clause:4:point:3",
+                        "label": "c",
+                        "content": "c) Sở Y tế các tỉnh, thành phố trực\nthuộc Trung ương chịu trách nhiệm cấp lại mật khẩu cho các đơn vị trong phạm vi quản lý.",
+                        "children": []
+                      }
+                    ]
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:58544:part:2:article:8",
+                "number": "8",
+                "title": "Cập nhật thông tin, báo cáo trên phần mềm Thống kê y tế",
+                "content": "Điều 8. Cập nhật thông tin, báo cáo trên phần mềm Thống kê y tế",
+                "clauses": [
+                  {
+                    "clause_id": "doc:58544:part:2:article:8:clause:1",
+                    "number": "1",
+                    "content": "1. Những nội dung thông tin, báo cáo\ncần cập nhật và tần suất cập nhật, trách nhiệm cập nhật: Thực hiện theo quy định tại Thông tư số 37/2019/TT-BYT ngày 30 tháng 12 năm 2019 của Bộ Y tế quy định chế độ báo cáo thống kê ngành y tế.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:58544:part:2:article:8:clause:2",
+                    "number": "2",
+                    "content": "2. Hình thức cập nhật",
+                    "points": [
+                      {
+                        "point_id": "doc:58544:part:2:article:8:clause:2:point:1",
+                        "label": "a",
+                        "content": "a) Cập nhật trực tiếp trên phần mềm\nThống kê y tế.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:58544:part:2:article:8:clause:2:point:2",
+                        "label": "b",
+                        "content": "b) Kết nối, gửi dữ liệu từ các phần mềm\nquản lý nghiệp vụ lên cổng tiếp nhận dữ liệu thống kê y tế theo hướng dẫn kết nối, liên thông do Cục Công nghệ thông tin ban hành.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:58544:part:2:article:8:clause:3",
+                    "number": "3",
+                    "content": "3. Kiểm tra, phê duyệt báo cáo",
+                    "points": [
+                      {
+                        "point_id": "doc:58544:part:2:article:8:clause:3:point:1",
+                        "label": "a",
+                        "content": "a) Sở Y tế các tỉnh, thành phố trực\nthuộc Trung ương có trách nhiệm phân công đơn vị tuyến huyện, tuyến tỉnh kiểm tra tính đầy đủ, chính xác và phê duyệt báo cáo của các cơ sở y tế tuyến xã, tuyến huyện, tuyến tỉnh.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:58544:part:2:article:8:clause:3:point:2",
+                        "label": "b",
+                        "content": "b) Sau thời hạn báo cáo được quy định\ntại Thông tư số 37/2019/TT-BYT ngày 30 tháng 12 năm 2019 của Bộ Y tế quy định chế độ báo cáo thống kê ngành y tế, báo cáo đã được phê duyệt sẽ không thể chỉnh sửa.",
+                        "children": []
+                      }
+                    ]
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:58544:part:2:article:9",
+                "number": "9",
+                "title": "Khai thác, sử dụng dữ liệu",
+                "content": "Điều 9. Khai thác, sử dụng dữ liệu",
+                "clauses": [
+                  {
+                    "clause_id": "doc:58544:part:2:article:9:clause:1",
+                    "number": "1",
+                    "content": "1. Các hình thức khai thác:",
+                    "points": [
+                      {
+                        "point_id": "doc:58544:part:2:article:9:clause:1:point:1",
+                        "label": "a",
+                        "content": "a) Khai thác trực tiếp qua các công cụ\nkhai thác của phần mềm Thống kê y tế;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:58544:part:2:article:9:clause:1:point:2",
+                        "label": "b",
+                        "content": "b) Thông qua kết nối, chia sẻ dữ liệu\ngiữa các phần mềm, hệ thống thông tin.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:58544:part:2:article:9:clause:2",
+                    "number": "2",
+                    "content": "2. Đối tượng, phạm vi khai thác",
+                    "points": [
+                      {
+                        "point_id": "doc:58544:part:2:article:9:clause:2:point:1",
+                        "label": "a",
+                        "content": "a) Các Vụ, Cục thuộc Bộ Y tế được quyền\nkhai thác dữ liệu trong phạm vi toàn quốc.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:58544:part:2:article:9:clause:2:point:2",
+                        "label": "b",
+                        "content": "b) Các đơn vị trực thuộc Bộ được quyền\nkhai thác dữ liệu trong phạm vi quản lý của đơn vị mình và được quyền yêu cầu khai thác dữ liệu ngoài phạm vi quản lý để thực hiện các nhiệm vụ Lãnh đạo Bộ giao.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:58544:part:2:article:9:clause:2:point:3",
+                        "label": "c",
+                        "content": "c) Sở Y tế các tỉnh, thành phố trực\nthuộc Trung ương được quyền khai thác dữ liệu trong phạm vi toàn tỉnh và phân cấp quyền khai khác dữ liệu cho các đơn vị tuyến tỉnh thuộc phạm vi quản lý.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:58544:part:2:article:9:clause:2:point:4",
+                        "label": "d",
+                        "content": "d) Cơ sở y tế tuyến xã, huyện, tỉnh\nvà cơ sở y tế tư nhân được quyền khai thác dữ liệu trong phạm vi quản lý của đơn vị mình.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:58544:part:2:article:9:clause:3",
+                    "number": "3",
+                    "content": "3. Sử dụng và phổ biến số liệu: tuân\ntheo các quy định của pháp luật về việc sử dụng và phổ biến số liệu thống kê, quy định của pháp luật liên quan đến bảo vệ bí mật cá nhân.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:58544:part:2:chapter:3",
+            "number": "III",
+            "title": "TRÁCH NHIỆM CỦA CÁC ĐƠN VỊ TRONG QUẢN LÝ, VẬN HÀNH, KHAI THÁC, SỬ DỤNG PHẦN MỀM THỐNG KÊ Y TẾ",
+            "content": "Chương III\nTRÁCH NHIỆM CỦA\nCÁC ĐƠN VỊ TRONG QUẢN LÝ, VẬN HÀNH, KHAI THÁC, SỬ DỤNG PHẦN MỀM THỐNG KÊ Y TẾ",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:58544:part:2:article:10",
+                "number": "10",
+                "title": "Trách nhiệm của Cục Công nghệ thông tin",
+                "content": "Điều 10. Trách nhiệm của Cục Công nghệ thông tin",
+                "clauses": [
+                  {
+                    "clause_id": "doc:58544:part:2:article:10:clause:1",
+                    "number": "1",
+                    "content": "1. Chủ trì xây dựng, phát triển, quản\ntrị, vận hành, bảo trì đảm bảo hoạt động thường xuyên, ổn định của phần mềm Thống kê y tế. Nâng cấp, cập nhật phần mềm khi có sự thay đổi các văn bản quy định về chế độ báo cáo thống kê y tế.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:58544:part:2:article:10:clause:2",
+                    "number": "2",
+                    "content": "2. Theo dõi, kiểm tra, đánh giá việc\nthực hiện và hiệu quả triển khai phần mềm Thống kê y tế trên toàn quốc.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:58544:part:2:article:10:clause:3",
+                    "number": "3",
+                    "content": "3. Hướng dẫn các đơn vị thực hiện kết\nnối liên thông dữ liệu giữa các phần mềm với phần mềm Thống kê y tế.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:58544:part:2:article:10:clause:4",
+                    "number": "4",
+                    "content": "4. Hỗ trợ trích xuất báo cáo theo yêu\ncầu biên soạn niên giám thống kê, yêu cầu phục vụ công tác kế hoạch, quy hoạch Ngành.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:58544:part:2:article:11",
+                "number": "11",
+                "title": "Trách nhiệm của Vụ Kế hoạch - Tài chính",
+                "content": "Điều 11. Trách nhiệm của Vụ Kế hoạch - Tài chính",
+                "clauses": [
+                  {
+                    "clause_id": "doc:58544:part:2:article:11:clause:1",
+                    "number": "1",
+                    "content": "1. Chủ trì quản lý, sử dụng toàn bộ\ncơ sở dữ liệu thống kê và chịu trách nhiệm công bố các chỉ tiêu theo quy định.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:58544:part:2:article:11:clause:2",
+                    "number": "2",
+                    "content": "2. Chủ trì, phối hợp với Cục Công nghệ\nthông tin kiểm tra, đánh giá chất lượng số liệu báo cáo thống kê qua phần mềm.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:58544:part:2:article:12",
+                "number": "12",
+                "title": "Trách nhiệm của các đơn vị thuộc, trực thuộc Bộ Y tế",
+                "content": "Điều 12. Trách nhiệm của các đơn vị thuộc, trực thuộc Bộ Y tế",
+                "clauses": [
+                  {
+                    "clause_id": "doc:58544:part:2:article:12:clause:1",
+                    "number": "1",
+                    "content": "1. Thực hiện tổng hợp thông tin thống\nkê, báo cáo theo các biểu mẫu đã quy định trong chế độ báo cáo thống kê.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:58544:part:2:article:12:clause:2",
+                    "number": "2",
+                    "content": "2. Phối hợp với Cục Công nghệ thông tin\nvà Vụ Kế hoạch - Tài chính thực hiện kiểm tra, đánh giá việc triển khai phần mềm thống kê y tế.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:58544:part:2:article:13",
+                "number": "13",
+                "title": "Trách nhiệm của Sở Y tế các tỉnh, thành phố trực thuộc Trung ương",
+                "content": "Điều 13. Trách nhiệm của Sở Y tế các tỉnh, thành phố trực thuộc Trung ương",
+                "clauses": [
+                  {
+                    "clause_id": "doc:58544:part:2:article:13:clause:1",
+                    "number": "1",
+                    "content": "1. Thành lập nhóm Hỗ trợ triển khai\nphần mềm thống kê y tế tuyến tỉnh theo Quyết định số 5454/QĐ-BYT ngày 10 tháng 9 năm 2018 của Bộ trưởng Bộ Y tế ban hành Kế hoạch triển khai thống kê y tế điện tử.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:58544:part:2:article:13:clause:2",
+                    "number": "2",
+                    "content": "2. Theo dõi, kiểm tra, đánh giá việc\nbáo cáo thống kê qua phần mềm của các cơ sở y tế tuyến tỉnh, huyện, xã, cơ sở y tế tư nhân trên địa bàn quản lý.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:58544:part:2:article:13:clause:3",
+                    "number": "3",
+                    "content": "3. Đảm bảo tính bảo mật, tính chính\nxác và toàn vẹn số liệu do đơn vị quản lý.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:58544:part:2:article:14",
+                "number": "14",
+                "title": "Trách nhiệm của các cơ sở y tế tuyến tỉnh, huyện, xã; cơ sở y tế tư nhân; y tế bộ, ngành",
+                "content": "Điều 14. Trách nhiệm của các cơ sở y tế tuyến tỉnh, huyện, xã; cơ sở y tế tư nhân; y tế bộ, ngành",
+                "clauses": [
+                  {
+                    "clause_id": "doc:58544:part:2:article:14:clause:1",
+                    "number": "1",
+                    "content": "1. Thực hiện tổng hợp thông tin thống\nkê, báo cáo theo các biểu mẫu đã quy định trong chế độ báo cáo thống kê.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:58544:part:2:article:14:clause:2",
+                    "number": "2",
+                    "content": "2. Đảm bảo tính bảo mật, tính chính\nxác và toàn vẹn số liệu do đơn vị quản lý.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:58544:part:2:chapter:4",
+            "number": "IV",
+            "title": "TỔ CHỨC THỰC HIỆN",
+            "content": "Chương IV\nTỔ CHỨC THỰC HIỆN",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:58544:part:2:article:15",
+                "number": "15",
+                "title": "Điều khoản tham chiếu Trường hợp các văn bản được dẫn chiếu trong Quy chế này bị thay thế hoặc sửa đổi, bổ sung thì áp dụng theo văn bản thay thế hoặc văn bản đã được sửa đổi, bổ sung.",
+                "content": "Điều 15. Điều khoản tham chiếu Trường hợp các văn bản được dẫn chiếu trong Quy chế này bị thay thế hoặc sửa đổi, bổ sung thì áp dụng theo văn bản thay thế hoặc văn bản đã được sửa đổi, bổ sung.",
+                "clauses": [],
+                "points": []
+              },
+              {
+                "article_id": "doc:58544:part:2:article:16",
+                "number": "16",
+                "title": "Trách nhiệm thi hành",
+                "content": "Điều 16. Trách nhiệm thi hành",
+                "clauses": [
+                  {
+                    "clause_id": "doc:58544:part:2:article:16:clause:1",
+                    "number": "1",
+                    "content": "1. Cục Công nghệ thông tin có trách\nnhiệm chỉ đạo, hướng dẫn, kiểm tra việc thực hiện Quy chế này.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:58544:part:2:article:16:clause:2",
+                    "number": "2",
+                    "content": "2. Trong quá trình tổ chức thực hiện,\nnếu có khó khăn, vướng mắc, đề nghị phản ánh về Cục Công nghệ thông tin để nghiên cứu, giải quyết./.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          }
+        ],
+        "sections": [],
+        "articles": [],
+        "unstructured_blocks": []
+      }
+    ]
+  },
+  "issues": [],
+  "status": "ok",
+  "source_hash": "context_58544.json",
+  "stats": {
+    "source_chars": 10448,
+    "passage_chars": 10304,
+    "parts": 2,
+    "chapters": 4,
+    "sections": 0,
+    "articles": 19,
+    "clauses": 38,
+    "points": 17
+  }
+}

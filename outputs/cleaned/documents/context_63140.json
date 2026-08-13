@@ -1,0 +1,832 @@
+{
+  "schema_version": "2.0",
+  "document_id": 63140,
+  "metadata": {
+    "name": "Quyet-dinh-1944-QD-BGTVT-nam-2013-Quy-che-cung-cap-thong-tin-Trang-thong-tin-dien-tu-201158",
+    "link": "https://thuvienphapluat.vn/van-ban/Cong-nghe-thong-tin/Quyet-dinh-1944-QD-BGTVT-nam-2013-Quy-che-cung-cap-thong-tin-Trang-thong-tin-dien-tu-201158.aspx",
+    "issuing_agency": "BỘ GIAO THÔNG VẬN TẢI",
+    "national_header": "CỘNG\r\n\n  HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM",
+    "motto": "Độc lập - Tự do - Hạnh phúc",
+    "document_number": "1944/QĐ-BGTVT",
+    "issued_place": "Hà Nội",
+    "issued_date": "ngày 08 tháng 07\r\n\n  năm 2013",
+    "document_type": "QUYẾT ĐỊNH",
+    "title": "BAN HÀNH QUY CHẾ QUẢN LÝ VÀ CUNG CẤP THÔNG TIN CỦA TRANG THÔNG TIN ĐIỆN TỬ BỘ GIAO THÔNG VẬN TẢI TRÊN INTERNET"
+  },
+  "administrative_header": {
+    "removed": true,
+    "removed_char_count": 160
+  },
+  "preamble": {
+    "text": "QUYẾT ĐỊNH\nBAN HÀNH QUY CHẾ QUẢN LÝ VÀ CUNG CẤP THÔNG TIN CỦA TRANG THÔNG TIN ĐIỆN\nTỬ BỘ GIAO THÔNG VẬN TẢI TRÊN INTERNET\nBỘ TRƯỞNG BỘ GIAO THÔNG VẬN TẢI\nCăn cứ Luật Công nghệ thông tin ngày 29/6/2006; Căn cứ Nghị định số 107/2012/NĐ-CP ngày 20/12/2012 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Giao thông vận tải; Căn cứ Nghị định số 64/2007/NĐ-CP ngày 10/4/2007 của Chính phủ về ứng dụng công nghệ thông tin trong hoạt động của cơ quan nhà nước; Căn cứ Nghị định số 43/2011/NĐ-CP ngày 13/6/2011 của Chính phủ quy định về việc cung cấp thông tin và dịch vụ công trực tuyến trên trang thông tin điện tử hoặc cổng thông tin điện tử của cơ quan nhà nước; Căn cứ Quyết định số 754/QĐ-BGTVT ngày 27/3/2013 của Bộ trưởng Bộ Giao thông vận tải phê duyệt Đề án \"Tăng cường năng lực cho Website Bộ Giao thông vận tải\"; Xét đề nghị của Giám đốc Trung tâm Công nghệ thông tin,\nQUYẾT ĐỊNH:",
+    "legal_bases": [
+      "Căn cứ Nghị định số 107/2012/NĐ-CP ngày 20/12/2012 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Giao thông vận tải",
+      "Căn cứ Nghị định số 64/2007/NĐ-CP ngày 10/4/2007 của Chính phủ về ứng dụng công nghệ thông tin trong hoạt động của cơ quan nhà nước",
+      "Căn cứ Nghị định số 43/2011/NĐ-CP ngày 13/6/2011 của Chính phủ quy định về việc cung cấp thông tin và dịch vụ công trực tuyến trên trang thông tin điện tử hoặc cổng thông tin điện tử của cơ quan nhà nước",
+      "Căn cứ Quyết định số 754/QĐ-BGTVT ngày 27/3/2013 của Bộ trưởng Bộ Giao thông vận tải phê duyệt Đề án \"Tăng cường năng lực cho Website Bộ Giao thông vận tải\""
+    ],
+    "proposals": [
+      "Xét đề nghị của Giám đốc Trung tâm Công nghệ thông tin,\nQUYẾT ĐỊNH:"
+    ],
+    "enactment_formula": "QUYẾT ĐỊNH"
+  },
+  "passage": "QUYẾT ĐỊNH\nBAN HÀNH QUY CHẾ QUẢN LÝ VÀ CUNG CẤP THÔNG TIN CỦA TRANG THÔNG TIN ĐIỆN\nTỬ BỘ GIAO THÔNG VẬN TẢI TRÊN INTERNET\nBỘ TRƯỞNG BỘ GIAO THÔNG VẬN TẢI\nCăn cứ Luật Công nghệ thông tin ngày 29/6/2006; Căn cứ Nghị định số 107/2012/NĐ-CP ngày 20/12/2012 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Giao thông vận tải; Căn cứ Nghị định số 64/2007/NĐ-CP ngày 10/4/2007 của Chính phủ về ứng dụng công nghệ thông tin trong hoạt động của cơ quan nhà nước; Căn cứ Nghị định số 43/2011/NĐ-CP ngày 13/6/2011 của Chính phủ quy định về việc cung cấp thông tin và dịch vụ công trực tuyến trên trang thông tin điện tử hoặc cổng thông tin điện tử của cơ quan nhà nước; Căn cứ Quyết định số 754/QĐ-BGTVT ngày 27/3/2013 của Bộ trưởng Bộ Giao thông vận tải phê duyệt Đề án \"Tăng cường năng lực cho Website Bộ Giao thông vận tải\"; Xét đề nghị của Giám đốc Trung tâm Công nghệ thông tin,\nQUYẾT ĐỊNH:\nĐiều 1. Ban hành kèm theo Quyết định này Quy chế quản lý và cung cấp thông tin của Trang thông tin điện tử Bộ Giao thông vận tải trên Internet.\nĐiều 2. Quyết định này có hiệu lực kể từ ngày ký ban hành và thay thế Quyết định số 3874/QĐ-BGTVT ngày 26/12/2008 của Bộ trưởng Bộ Giao thông vận tải về việc ban hành Quy chế quản lý và cung cấp thông tin của Trang thông tin điện tử Bộ Giao thông vận tải trên Internet.\nĐiều 3. Chánh Văn phòng Bộ, Chánh Thanh tra Bộ, Vụ trưởng các Vụ, Tổng cục trưởng Tổng cục Đường bộ Việt Nam, Cục trưởng các Cục thuộc Bộ, Giám đốc Trung tâm Công nghệ thông tin, Thủ trưởng các cơ quan, đơn vị có liên quan chịu trách nhiệm thi hành Quyết định này./.\nNơi nhận:\n- Như Điều 3;\n- Bộ trưởng (để b/c);\n- Các Thứ trưởng;\n- Báo GTVT, Tạp chí GTVT;\n- Website Bộ GTVT;\n- Lưu VT, TTCNTT (5 bản).\nKT. BỘ TRƯỞNG\nTHỨ TRƯỞNG\nNguyễn Hồng Trường\nQUY CHẾ\nQUẢN LÝ VÀ CUNG CẤP THÔNG TIN CỦA TRANG THÔNG TIN ĐIỆN TỬ BỘ GIAO THÔNG\nVẬN TẢI TRÊN INTERNET\n(Ban hành kèm theo Quyết định số 1944/QĐ-BGTVT\nngày 08 tháng 7 năm 2013 của Bộ trưởng Bộ Giao thông vận tải)\nChương 1.\nQUY ĐỊNH CHUNG\nĐiều 1. Nguyên tắc chung Trang thông tin điện tử Bộ Giao thông vận tải tại địa chỉ www.mt.gov.vn (sau đây gọi tắt là Trang thông tin điện tử) là nơi cung cấp thông tin chính thức của Bộ Giao thông vận tải trên Internet, nhằm phục vụ công tác quản lý, chỉ đạo, điều hành của lãnh đạo Bộ; là kênh tuyên truyền, phổ biên đường lối, chủ trương, chính sách của Đảng, pháp luật của Nhà nước trong lĩnh vực giao thông vận tải; cung cấp, trao đổi thông tin giữa Bộ Giao thông vận tải với các cơ quan, tổ chức, cá nhân trong và ngoài ngành Giao thông vận tải; tiếp nhận phản ánh, kiến nghị của tổ chức, cá nhân trên Internet gửi Bộ Giao thông vận tải.\nĐiều 2. Phạm vi điều chỉnh, đối tượng áp dụng\n1. Quy chế này quy định việc quản lý\nvà cung cấp thông tin của Trang thông tin điện tử.\n2. Quy chế này áp dụng đối với các cơ quan, tổ chức, cá nhân (sau đây gọi tắt là đơn vị) tham gia quản lý, duy trì hoạt động của Trang thông tin điện tử, tham gia cung cấp thông tin để đăng tải trên Trang thông tin điện tử.\nChương 2.\nQUẢN LÝ, VẬN\nHÀNH TRANG THÔNG TIN ĐIỆN TỬ\nĐiều 3. Quản lý Trang thông tin điện tử\n1. Trang thông tin điện tử hoạt động\ndưới sự chỉ đạo trực tiếp của Bộ trưởng Bộ Giao thông vận tải.\n2. Ban biên tập Trang thông tin điện\ntử (sau đây gọi tắt là Ban Biên tập) tổ chức thực hiện việc tiếp nhận, xử lý, biên tập, cập nhật thông tin và bảo đảm thông tin được cung cấp lên Trang thông tin điện tử đầy đủ, chính xác và kịp thời.\n3. Trung tâm Công nghệ thông tin là đơn\nvị chủ trì xây dựng, quản lý, cập nhật thông tin và duy trì hoạt động thường xuyên của Trang thông tin điện tử.\n4. Trung tâm Công nghệ thông tin được\nthực hiện các dịch vụ giá trị gia tăng trên Trang thông tin điện tử theo quy định của pháp luật. Các dịch vụ này không được làm ảnh hưởng tới chất lượng, mục tiêu của Trang thông tin điện tử.\nĐiều 4. Bảo đảm an toàn thông tin và dữ liệu Trung tâm Công nghệ thông tin chịu trách nhiệm thực hiện các biện pháp kỹ thuật bảo đảm sự hoạt động an toàn của Trang thông tin điện tử, định kỳ thực hiện việc sao lưu dữ liệu để bảo đảm có thể nhanh chóng khôi phục lại hoạt động của hệ thống khi có xảy ra sự cố; xây dựng giải pháp hiệu quả chống lại các tấn công gây mất an toàn thông tin; xây dựng phương án dự phòng khắc phục sự cố, bảo đảm hệ thống Trang thông tin điện tử hoạt động liên tục ở mức tối đa.\nĐiều 5. Bảo trì, bảo dưỡng, duy trì hoạt động, nâng cấp, chỉnh sửa Trang thông tin điện tử\n1. Trung tâm Công nghệ thông tin có\ntrách nhiệm thường xuyên kiểm tra, bảo dưỡng, sửa chữa, giám sát hoạt động để bảo đảm Trang thông tin điện tử hoạt động liên tục 24 giờ trong tất cả các ngày.\n2. Hàng năm, Trung tâm Công nghệ\nthông tin rà soát và đề xuất phương án nâng cấp, chỉnh sửa Trang thông tin điện tử cho phù hợp với nhu cầu thực tế, đồng thời xây dựng phương án trang bị đầy đủ trang thiết bị cần thiết phục vụ cho việc thu thập, xử lý và cập nhật thông tin cho Trang thông tin điện tử, bảo đảm khai thác hiệu quả hạ tầng công nghệ hiện có.\nĐiều 6. Đào tạo nguồn nhân lực Hàng năm, Trung tâm Công nghệ thông tin chủ trì xây dựng, đề xuất kế hoạch, nội dung chương trình đào tạo, bồi dưỡng chuyên môn nghiệp vụ cụ thể đối với những người tham gia vào quá trình quản lý, vận hành và duy trì hoạt động của Trang thông tin điện tử phù hợp với lĩnh vực đảm nhiệm để bảo đảm phục vụ cho hoạt động của Trang thông tin điện tử.\nĐiều 7. Kinh phí hoạt động của Trang thông tin điện tử\n1. Kinh phí hoạt động của Trang thông\ntin điện tử do ngân sách nhà nước cấp hàng năm cho Trung tâm Công nghệ thông tin. Kinh phí hoạt động của Trang thông tin điện tử bao gồm:\na) Chi phí trả nhuận bút, thù lao tin\nbài;\nb) Chi phí duy trì, bảo dưỡng các thiết\nbị, máy chủ;\nc) Chi phí nâng cấp phần mềm (theo kế\nhoạch năm);\nd) Chi phí hoạt\nđộng; chi phí đào tạo, bồi dưỡng nghiệp vụ;\nđ) Các chi phí khác theo quy định hiện\nhành.\n2. Trung tâm Công nghệ thông tin có trách\nnhiệm chủ trì, phối hợp với các đơn vị liên quan xây dựng kế hoạch, lập dự toán kinh phí hàng năm để duy trì hoạt động và phát triển Trang thông tin điện tử.\nChương 3.\nCUNG CẤP VÀ CẬP NHẬT THÔNG TIN, DỮ LIỆU\nĐiều 8. Thông tin, dữ liệu bắt buộc cập nhật\n1. Thông tin giới thiệu về chức năng,\nnhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Giao thông vận tải và các đơn vị thuộc Bộ; tóm lược quá trình hình thành và phát triển của Bộ; thông tin liên hệ: địa chỉ, điện thoại, số fax, địa chỉ thư điện tử chính thức của đơn vị để liên hệ và tiếp nhận thông tin.\n2. Tin tức, sự kiện: các tin, bài về\nhoạt động, các vấn đề liên quan thuộc phạm vi quản lý nhà nước của Bộ Giao thông vận tải.\n3. Thông tin chỉ đạo, điều hành, bao\ngồm: hệ thống văn bản phục vụ công tác chỉ đạo, điều hành; ý kiến xử lý, phản hồi đối với các kiến nghị, yêu cầu của tổ chức, cá nhân; thông tin khen thưởng, xử phạt đối với tổ chức, doanh nghiệp hoạt động trong lĩnh vực quản lý nhà nước của Bộ.\n4. Thông tin\ntuyên truyền, phổ biến, hướng dẫn thực hiện pháp luật, chế độ, chính sách đối với những lĩnh vực thuộc phạm vi quản lý nhà nước của Bộ.\n5. Thông tin về chiến lược, quy hoạch,\nkế hoạch phát triển ngành, lĩnh vực; thông tin về các chương trình, dự án, đề án hợp tác quốc tế trong lĩnh vực quản lý nhà nước của Bộ.\n6. Hệ thống văn bản quy phạm pháp luật\nchuyên ngành và văn bản quản lý hành chính có liên quan.\n7. Thông tin về dự án (nhóm đặc biệt,\nnhóm A, nhóm B có nguồn gốc từ ngân sách nhà nước), hạng mục đầu tư, đấu thầu, mua sắm công, cụ thể:\na) Danh sách các dự án đang chuẩn bị\nđầu tư, các dự án đang triển khai, các dự án đã hoàn thành;\nb) Mỗi dự án cần có các thông tin bao\ngồm: tên dự án, mục tiêu chính, lĩnh vực chuyên môn, loại dự án, thời gian thực hiện, kinh phí dự án, loại hình tài trợ, nhà tài trợ, tình trạng dự án.\n8. Mục lấy ý kiến góp ý của tổ chức,\ncá nhân:\na) Tiếp nhận phản ánh; kiến nghị của\ntổ chức, cá nhân về quy định hành chính theo quy định của pháp luật trong phạm vi quản lý nhà nước của Bộ;\nb) Dự án, dự thảo văn bản quy phạm\npháp luật do Bộ Giao thông vận tải chủ trì soạn thảo, tiêu chuẩn, quy chuẩn kỹ thuật cần lấy ý kiến đóng góp của nhân dân; thông tin về thời hạn tiếp nhận ý kiến góp ý, địa chỉ, thư điện tử của cơ quan, đơn vị tiếp nhận ý kiến góp ý; các ý kiến đóng góp của cơ quan, tổ chức, cá nhân theo quy định của pháp luật.\n9. Thông tin liên hệ của cán bộ, công\nchức có thẩm quyền của các đơn vị thuộc Bộ Giao thông vận tải, bao gồm họ tên, chức vụ, đơn vị công tác, số điện thoại/fax, địa chỉ thư điện tử chính thức.\n10. Thông tin giao dịch của Trang thông tin điện tử, bao gồm: địa chỉ,\nđiện thoại, số fax, địa chỉ thư điện tử chính thức để giao dịch với tổ chức, cá nhân.\n11. Thông tin về chương trình, đề tài\nkhoa học:\na) Danh mục các chương trình, đề tài,\nbao gồm: mã số, tên, cấp quản lý, lĩnh vực, đơn vị chủ trì, thời gian thực hiện;\nb) Kết quả các chương trình, đề tài\nsau khi đã được Hội đồng nghiệm thu khoa học thông qua, bao gồm: báo cáo tổng hợp, báo cáo kết quả triển khai áp dụng của công trình, đề tài.\n12. Thông tin về thống kê chuyên\nngành (số liệu, báo cáo thống kê).\n13. Thông tin tiếng Anh:\na) Sơ đồ, cơ cấu tổ chức, chức năng,\nnhiệm vụ, quyền hạn của cơ quan, đơn vị trực thuộc; tóm lược quá trình hình thành và phát triển của Bộ Giao thông vận tải;\nb) Thông tin liên hệ của cán bộ, công\nchức có thẩm quyền bao gồm họ tên, chức vụ đơn vị công tác, số điện thoại/fax, địa chỉ thư điện tử chính thức.\nc) Thông tin về dự án cần xúc tiến đầu\ntư.\n14. Thông tin khác trong lĩnh vực quản\nlý nhà nước của Bộ Giao thông vận tải:\na) Thông tin về tuyển dụng, tuyển chọn,\nthông tin liên quan đến đào tạo, bồi dưỡng trong và ngoài nước của Bộ Giao thông vận tải công khai theo quy định của pháp luật;\nb) Thông tin, dữ liệu trong phạm vi\nquản lý nhà nước của Bộ thuộc các lĩnh vực: vận tải, an toàn giao thông, kết cấu hạ tầng giao thông, quản lý doanh nghiệp Giao thông vận tải, quản lý đầu tư các dự án đối tác công - tư.\n15. Thông tin về dịch vụ công trực\ntuyến:\na) Các thủ tục hành chính trong phạm vi lĩnh vực do Bộ Giao thông vận tải quản\nlý;\nb) Danh mục các dịch vụ hành chính\ncông và các dịch vụ công trực tuyến do Bộ Giao thông vận tải và các đơn vị thuộc Bộ thực hiện, nêu rõ mức độ cung cấp của từng dịch vụ.\n16. Thông cáo báo chí, trả lời phỏng\nvấn và phát ngôn chính thức của Lãnh đạo Bộ và trả lời công dân theo thẩm quyền về lĩnh vực giao thông vận tải.\nĐiều 9. Thông tin, dữ liệu khác\n1. Các bài viết, bài nghiên cứu\nchuyên sâu, thông tin về các chương trình, đề tài nghiên cứu khoa học thuộc các lĩnh vực do Bộ Giao thông vận tải quản lý.\n2. Giới thiệu các ấn phẩm sách, thông\ntin, tạp chí chuyên ngành của Bộ Giao thông vận tải hoặc của các đơn vị thuộc Bộ.\n3. Các thông tin khác theo sự chỉ đạo\nhoặc đồng ý của Lãnh đạo Bộ.\nĐiều 10. Các hành vi bị nghiêm cấm khi vận hành Trang thông tin điện tử\n1. Lợi dụng cung cấp thông tin nhằm mục\nđích:\na) Chống lại nhà nước Cộng hòa xã hội\nchủ nghĩa Việt Nam; gây phương hại đến an ninh quốc gia, trật tự, an toàn xã hội; phá hoại thuần phong, mỹ tục của dân tộc;\nb) Tiết lộ bí mật nhà nước, bí mật\nquân sự, an ninh, kinh tế, đối ngoại và những bí mật khác đã được pháp luật quy định;\nc) Đưa các thông tin xuyên tạc, vu khống,\nxúc phạm uy tín của tổ chức; danh dự, nhân phẩm của công dân;\nd) Lợi dụng Trang thông tin điện tử để\ncung cấp, truyền đi hoặc đặt đường liên kết trực tiếp đến những thông tin vi phạm các quy định hiện hành.\n2. Sử dụng những\nthông tin, hình ảnh của cá nhân vi phạm các quy định tại Điều 31 và Điều 38 Bộ luật Dân sự.\n3. Cung cấp thông tin vi phạm các quy\nđịnh về sở hữu trí tuệ, về giao dịch thương mại và các quy định khác của pháp luật có liên quan.\nĐiều 11. Phương thức cung cấp và cập nhật thông tin, dữ liệu\n1. Thông tin, dữ liệu đăng tải trên\nTrang thông tin điện tử được thực hiện theo các hình thức sau:\na) Gửi qua thư điện tử, fax hoặc qua\nđường công văn về thường trực Ban Biên tập theo địa chỉ: Trung tâm Công nghệ thông tin - 80 Trần Hưng Đạo, Hoàn Kiếm, Hà Nội Email: tinbai@mt.gov.vn: Điện thoại: (04) 38224464; Fax: (04) 38221066\nb) Trực tiếp cập nhật thông tin lên\nTrang thông tin điện tử.\n2. Thông tin dạng văn bản sử dụng phông chữ Unicode theo tiêu chuẩn TCVN 6909:2001 .\n3. Thông tin, dữ liệu không tuân thủ\ntheo quy định sẽ không được đăng; đồng thời các tổ chức, cá nhân đã gửi thông tin, dữ liệu chưa đạt yêu cầu phải có trách nhiệm chỉnh sửa lại cho chính xác và phù hợp, sau đó gửi lại Ban biên tập để duyệt và đăng tin.\nĐiều 12. Thời hạn cung cấp và cập nhật thông tin\n1. Đối với hoạt\nđộng, sự kiện:\na) Nếu hoạt động, sự kiện kết thúc\nvào buổi sáng thì hoạt động, sự kiện đó phải được cập nhật trên Trang thông tin điện tử trong ngày;\nb) Nếu hoạt động, sự kiện kết thúc vào buổi chiều thì hoạt động, sự kiện đó phải được cập nhật trên Trang\nthông tin điện tử buổi sáng ngày hôm sau.\n2. Đối với văn bản:\nVăn bản sau khi chính thức phát hành phải được cung cấp và cập nhật trên Trang thông tin điện tử chậm nhất sau 01 ngày làm việc.\n3. Đối với các câu hỏi, ý kiến phản ảnh\ndo bạn đọc gửi đến:\na) Khi nhận được câu hỏi gửi đến từ\nTrang thông tin điện tử hoặc từ địa chỉ thư điện tử tinbai@mt.gov.vn. đơn vị chức năng có trách nhiệm trả lời câu hỏi trong thời hạn không quá 10 ngày làm việc;\nb) Ban biên tập có trách nhiệm trả lời bạn đọc bằng hình thức gửi thư điện tử hoặc đăng\ntải trên Trang thông tin điện tử.\nChương 4.\nBAN BIÊN TẬP\nĐiều 13. Cơ cấu tổ chức Ban Biên tập\n1. Ban Biên tập do Bộ trưởng quyết định\nthành lập. Ban Biên tập do Thứ trưởng là Trưởng Ban. Thành viên Ban Biên tập gồm đại diện lãnh đạo các cơ quan đơn vị có liên quan đến nhiệm vụ cung cấp thông tin đối với các lĩnh vực thuộc phạm vi quản lý nhà nước của Bộ Giao thông vận tải.\n2. Ban Biên tập làm việc theo chế độ\nkiêm nhiệm.\nĐiều 14. Nhiệm vụ, quyền hạn của Ban Biên tập\n1. Tổ chức việc thu thập, biên tập,\nrà soát, xử lý thông tin; đảm bảo cập nhật kịp thời, chính xác thông tin đăng tải trên Trang thông tin điện tử.\n2. Định hướng nội dung thông tin của Trang thông tin điện tử.\n3. Phê duyệt và chịu trách nhiệm về nội\ndung thông tin, tin bài được đăng tải trên Trang thông tin điện tử.\n4. Nghiên cứu, đề xuất với Bộ trưởng về các biện pháp nâng cao chất lượng thông tin của Trang thông tin\nđiện tử.\n5. Chỉ đạo, hướng dẫn các đơn vị cung\ncấp thông tin theo quy định của pháp luật và của Bộ Giao thông vận tải.\n6. Tổ chức mạng lưới cộng tác viên để\ncung cấp thông tin về tình hình hoạt động của các đơn vị trong ngành Giao thông vận tải.\n7. Định kỳ hàng quý và năm báo cáo Bộ\ntrưởng Bộ Giao thông vận tải về tình hình, kết quả hoạt động của Ban Biên tập và tình hình hoạt động của Trang thông tin điện tử.\n8. Thực hiện các nhiệm vụ khác do Bộ\ntrưởng giao.\nĐiều 15. Trách nhiệm của Trưởng Ban Biên tập\n1. Điều hành hoạt động của Ban Biên tập,\nThường trực Ban biên tập và chịu trách nhiệm trước Bộ trưởng về hoạt động của Ban Biên tập.\n2. Phân công phụ trách lĩnh vực thông\ntin và nhiệm vụ cụ thể cho các thành viên Ban Biên tập.\n3. Chỉ đạo xây dựng, triển khai thực\nhiện kế hoạch, chương trình công tác định kỳ và hàng năm của Ban Biên tập.\n4. Chỉ đạo việc hướng dẫn, đôn đốc,\nyêu cầu các đơn vị, cá nhân phối hợp cung cấp thông tin, xử lý thông tin phản hồi, hỏi đáp pháp luật.\n5. Chỉ đạo xây dựng và phát triển đội\nngũ cộng tác viên của Trang thông tin điện tử.\nĐiều 16. Trách nhiệm của các Phó Trưởng ban Biên tập\n1. Phó Trưởng ban Thường trực có\ntrách nhiệm:\na) Giúp Trưởng Ban trong việc điều\nhành hoạt động của Ban Biên tập và Thường trực Ban Biên tập theo sự phân công của Trưởng Ban;\nb) Thay mặt Trưởng Ban thực hiện các\nnhiệm vụ của Trưởng ban khi được ủy quyền.\n2. Các Phó Trưởng ban có trách nhiệm\nchỉ đạo xây dựng, triển khai thực hiện kế hoạch, chương trình công tác định kỳ và hàng năm của Ban Biên tập theo sự phân công của Trưởng Ban.\nĐiều 17. Trách nhiệm của các Thành viên Ban Biên tập\n1. Tham gia định hướng nội dung thông\ntin của Trang thông tin điện tử; đảm bảo lĩnh vực thông tin được giao phụ trách theo đúng định hướng chung đã được xác định.\n2. Duyệt nội dung thông tin, tin bài\nđể đăng trên Trang thông tin điện tử và chịu trách nhiệm trước Trưởng Ban về nội dung thông tin, tin bài trong lĩnh vực thông tin được phân công phụ trách.\n3. Thường xuyên theo dõi, kiểm tra\ntính đúng đắn của thông tin sau khi đăng tải trên Trang thông tin điện tử; theo dõi tiến độ cập nhật, đăng tải thông tin sau khi duyệt.\n4. Đề xuất các\nbiện pháp nâng cao chất lượng thông tin của Trang thông tin điện tử; tham gia xây dựng, chỉ đạo và tổ chức thực hiện kế hoạch, chương trình công tác định kỳ và hàng năm của Ban Biên tập.\n5. Thường xuyên theo dõi và đề xuất\ngiải pháp nâng cao hiệu quả hoạt động của Trang thông tin điện tử, đề xuất cải tiến giao diện, bố cục thông tin, chức năng, tiện ích để thuận tiện cho người dùng.\n6. Tham gia chỉ đạo tổ chức mạng lưới\ncộng tác viên để cung cấp thông tin liên quan đến các lĩnh vực thuộc phạm vi quản lý của Bộ Giao thông vận tải.\nĐiều 18. Nhiệm vụ của Thường trực Ban Biên tập\n1. Thu thập, tiếp nhận, biên tập, cập\nnhật thông tin đăng tải trên Trang thông tin điện tử; chuyển thành viên Ban Biên tập phụ trách lĩnh vực để duyệt nội dung thông tin, tin bài hoặc xin ý kiến về việc cung cấp thông tin trong trường hợp cần thiết.\n2. Theo dõi và duy trì liên hệ với cộng\ntác viên, phối hợp với đầu mối cung cấp thông tin của các đơn vị; hướng dẫn tổ chức, cá nhân cung cấp thông tin để đăng tải trên Trang thông tin điện tử theo quy định của pháp luật và của Bộ Giao thông vận tải.\n3. Theo dõi tình hình tiếp nhận, xử\nlý và đăng tải thông tin, tin bài trên Trang thông tin điện tử, định kỳ hàng tháng tổng hợp báo cáo Trưởng Ban.\n4. Nghiên cứu, đề xuất phương án cải\ntiến, xây dựng quy trình thu thập, biên tập, cập nhật nhằm nâng cao hiệu quả xử lý thông tin tại khâu biên tập và cập nhật.\n5. Chuẩn bị chương trình, nội dung,\ntài liệu cho các cuộc họp của Ban Biên tập; tổng hợp, ghi biên bản các cuộc họp và thông báo kết quả cuộc họp đến các thành viên.\n6. Thực hiện các nhiệm vụ khác do Trưởng\nBan Biên tập giao.\nChương 5.\nTRÁCH NHIỆM CỦA\nCÁC ĐƠN VỊ TRONG VIỆC CUNG CẤP THÔNG TIN\nĐiều 19. Trung tâm Công nghệ thông tin Trung tâm Công nghệ thông tin là Thường trực Ban Biên tập, thực hiện nhiệm vụ quy định tại Điều 18 của Quy chế này.\nĐiều 20. Trách nhiệm của các đơn vị\n1. Thủ trưởng các đơn vị trực thuộc\nBộ chịu trách nhiệm trước Bộ trưởng về nội dung thông tin, tin bài cung cấp và cập nhật trên Trang thông tin điện tử.\n2. Trách nhiệm chung\na) Cung cấp thông tin về các sự kiện,\nhoạt động của Bộ, các vấn đề được dư luận xã hội quan tâm trong phạm vi quản lý của Bộ cần được phổ biến rộng rãi công khai thuộc chức năng nhiệm vụ của đơn vị;\nb) Ý kiến xử lý, phản hồi đối với các\nkiến nghị, yêu cầu của tổ chức, cá nhân về các quy định hành chính thuộc phạm vi chức năng quản lý của Bộ GTVT theo Nghị định số 20/2008/NĐ-CP ngày 14/2/2008 của Chính phủ về tiếp nhận xử lý phản ánh, kiến nghị của cá nhân, tổ chức về quy định hành chính;\nc) Cung cấp và cập nhật thông tin đối\nvới các dự thảo văn bản quy phạm pháp luật do Bộ Giao thông vận tải chủ trì soạn thảo cần xin ý kiến theo quy định của pháp luật.\n3. Nhiệm vụ cụ thể\nNgoài trách nhiệm chung quy định tại khoản 1 Điều này, theo quy định tại Điều 8, các đơn vị sau đây phải cung cấp và cập nhật thông tin theo chức năng, nhiệm vụ được giao:\na) Văn phòng Bộ\n- Cung cấp các văn bản chỉ đạo, điều hành do Bộ ban hành; - Thông cáo báo chí, trả lời phỏng vấn và phát ngôn chính thức của lãnh đạo Bộ và trả lời công dân theo thẩm quyền về lĩnh vực giao thông vận tải.\nb) Vụ Kế hoạch Đầu\ntư - Cung cấp và cập nhật số liệu thống kê chung của ngành Giao thông vận tải; - Cung cấp và cập nhật các chiến lược, kế hoạch, quy hoạch, chương trình, đề án phát triển ngành Giao thông vận tải; - Đầu mối cung cấp và cập nhật danh mục các dự án đầu tư sử dụng vốn ngân sách nhà nước hàng năm.\nc) Vụ Tổ chức cán bộ\n- Cung cấp và cập nhật thông tin về cơ cấu tổ chức, chức năng, nhiệm vụ, quyền hạn của cơ quan, đơn vị trực thuộc Bộ; - Cung cấp và cập nhật thông tin về công tác tuyển dụng, bổ nhiệm cán bộ; sử dụng đào tạo, bồi dưỡng đối với cán bộ, công chức, viên chức, người lao động và công tác thi đua khen thưởng tại các cơ quan, đơn vị, doanh nghiệp thuộc thẩm quyền quản lý của Bộ; - Cung cấp và cập nhật thông tin liên hệ của cán bộ, công chức có thẩm quyền, bao gồm họ tên, chức vụ, đơn vị công tác, số điện thoại/fax, địa chỉ thư điện tử chính thức; - Cung cấp và cập nhật thông tin về cải cách hành chính của Bộ.\nd) Vụ Pháp chế\n- Cung cấp và cập nhật các văn bản quy phạm pháp luật do Bộ Giao thông vận tải ban hành và các văn bản quy phạm pháp luật của các cơ quan khác ban hành liên quan tới chức năng quản lý nhà nước của Bộ Giao thông vận tải; - Cung cấp và cập nhật thông tin tuyên truyền, phổ biến, hướng dẫn thực hiện pháp luật, chế độ, chính sách đối với những lĩnh vực thuộc phạm vi quản lý của Bộ Giao thông vận tải; - Đầu mối tiếp nhận và trả lời các câu hỏi \"Giải đáp pháp luật\" của bạn đọc gửi đến Trang thông tin điện tử hoặc qua hòm thư tinbai@mt.gov.vn; - Cung cấp và cập nhật thông tin về cải cách thủ tục hành chính của Bộ; - Thông tin về dịch vụ công trực tuyến.\nd) Vụ Hợp tác quốc tế\n- Cung cấp và cập nhật thông tin song ngữ đối với các điều ước, hiệp định quốc tế trong lĩnh vực giao thông vận tải; - Cung cấp các thông tin chung bằng tiếng Anh các nội dung quy định tại khoản 13, Điều 8 của Quyết định này.\ne) Vụ Khoa học và Công nghệ\n- Cung cấp và cập nhật các tiêu chuẩn, quy chuẩn kỹ thuật quốc gia trong lĩnh vực giao thông vận tải; - Cung cấp, cập nhật thông tin và\ndanh mục các chương trình, đề tài khoa học, công nghệ do đơn vị phụ trách;\n- Cung cấp và cập nhật kết quả các chương trình, đề tài sau khi được Hội đồng nghiệm thu khoa học thông qua; - Cung cấp thông tin về lĩnh vực tiêu chuẩn, đo lường, chất lượng sản phẩm; sở hữu trí tuệ trong ngành Giao thông vận tải.\ng) Thanh tra Bộ\nCung cấp thông tin về xử phạt đối với tổ chức, doanh nghiệp hoạt động trong lĩnh vực giao thông vận tải;\nh) Cục Quản lý\nxây dựng và chất lượng công trình giao thông. Thông tin về dự án đang triển khai, dự án đã hoàn thành, bao gồm tên dự án, mục tiêu chính, lĩnh vực chuyên môn, loại dự án, thời gian thực hiện, kinh phí dự án.\ni) Các Vụ: Tài chính, Quản lý doanh nghiệp, Kết cấu hạ tầng giao thông, Vận\ntải, An toàn giao thông, Môi trường và Ban Quản lý đầu tư các dự án đối tác công - tư cung cấp và cập nhật thông tin theo nhiệm vụ được giao và theo chỉ đạo của lãnh đạo Bộ.\nk) Các Tổng cục, Cục trực thuộc Bộ\n- Cung cấp, cập nhật đầy đủ thông tin trên trang/cổng thông tin của đơn vị theo quy định tại Nghị định số 43/2011/NĐ-CP ngày 13/6/2011 của Chính phủ quy định về việc cung cấp thông tin và dịch vụ công trực tuyến trên trang thông tin điện tử hoặc cổng thông tin điện tử của cơ quan nhà nước. - Cung cấp, cập nhật thông tin cho Trang thông tin điện tử Bộ Giao thông vận tải theo chỉ đạo của lãnh đạo Bộ.\nl) Các đơn vị sự nghiệp, doanh nghiệp\ntrực thuộc Bộ. Cung cấp, cập nhật thông tin cho Trang thông tin điện tử Bộ Giao thông, vận tải theo chỉ đạo của lãnh đạo Bộ.\nChương 6.\nTỔ CHỨC THỰC HIỆN\nĐiều 21. Chế độ báo cáo Định kỳ hàng quý và năm, Trung tâm Công nghệ thông tin có trách nhiệm báo cáo Bộ tình hình hoạt động, đề xuất các biện pháp nhằm nâng cao chất lượng của Trang thông tin điện tử.\nĐiều 22. Tổ chức thực hiện Thủ trưởng các đơn vị có trách nhiệm chỉ đạo triển khai thực hiện Quy chế này. Trong quá trình thực hiện nếu gặp khó khăn, vướng mắc cần báo cáo lãnh đạo Bộ để xem xét, giải quyết kịp thời./.",
+  "tree": {
+    "parts": [
+      {
+        "part_id": "doc:63140:part:1",
+        "part_type": "main",
+        "part_title": null,
+        "reference": null,
+        "direct_text": "QUYẾT ĐỊNH\nBAN HÀNH QUY CHẾ QUẢN LÝ VÀ CUNG CẤP THÔNG TIN CỦA TRANG THÔNG TIN ĐIỆN\nTỬ BỘ GIAO THÔNG VẬN TẢI TRÊN INTERNET\nBỘ TRƯỞNG BỘ GIAO THÔNG VẬN TẢI\nCăn cứ Luật Công nghệ thông tin ngày 29/6/2006; Căn cứ Nghị định số 107/2012/NĐ-CP ngày 20/12/2012 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Giao thông vận tải; Căn cứ Nghị định số 64/2007/NĐ-CP ngày 10/4/2007 của Chính phủ về ứng dụng công nghệ thông tin trong hoạt động của cơ quan nhà nước; Căn cứ Nghị định số 43/2011/NĐ-CP ngày 13/6/2011 của Chính phủ quy định về việc cung cấp thông tin và dịch vụ công trực tuyến trên trang thông tin điện tử hoặc cổng thông tin điện tử của cơ quan nhà nước; Căn cứ Quyết định số 754/QĐ-BGTVT ngày 27/3/2013 của Bộ trưởng Bộ Giao thông vận tải phê duyệt Đề án \"Tăng cường năng lực cho Website Bộ Giao thông vận tải\"; Xét đề nghị của Giám đốc Trung tâm Công nghệ thông tin,\nQUYẾT ĐỊNH:",
+        "chapters": [],
+        "sections": [],
+        "articles": [
+          {
+            "article_id": "doc:63140:part:1:article:1",
+            "number": "1",
+            "title": "Ban hành kèm theo Quyết định này Quy chế quản lý và cung cấp thông tin của Trang thông tin điện tử Bộ Giao thông vận tải trên Internet.",
+            "content": "Điều 1. Ban hành kèm theo Quyết định này Quy chế quản lý và cung cấp thông tin của Trang thông tin điện tử Bộ Giao thông vận tải trên Internet.",
+            "clauses": [],
+            "points": []
+          },
+          {
+            "article_id": "doc:63140:part:1:article:2",
+            "number": "2",
+            "title": "Quyết định này có hiệu lực kể từ ngày ký ban hành và thay thế Quyết định số 3874/QĐ-BGTVT ngày 26/12/2008 của Bộ trưởng Bộ Giao thông vận tải về việc ban hành Quy chế quản lý và cung cấp thông tin của Trang thông tin điện tử Bộ Giao thông vận tải trên Internet.",
+            "content": "Điều 2. Quyết định này có hiệu lực kể từ ngày ký ban hành và thay thế Quyết định số 3874/QĐ-BGTVT ngày 26/12/2008 của Bộ trưởng Bộ Giao thông vận tải về việc ban hành Quy chế quản lý và cung cấp thông tin của Trang thông tin điện tử Bộ Giao thông vận tải trên Internet.",
+            "clauses": [],
+            "points": []
+          },
+          {
+            "article_id": "doc:63140:part:1:article:3",
+            "number": "3",
+            "title": "Chánh Văn phòng Bộ, Chánh Thanh tra Bộ, Vụ trưởng các Vụ, Tổng cục trưởng Tổng cục Đường bộ Việt Nam, Cục trưởng các Cục thuộc Bộ, Giám đốc Trung tâm Công nghệ thông tin, Thủ trưởng các cơ quan, đơn vị có liên quan chịu trách nhiệm thi hành Quyết định này./.",
+            "content": "Điều 3. Chánh Văn phòng Bộ, Chánh Thanh tra Bộ, Vụ trưởng các Vụ, Tổng cục trưởng Tổng cục Đường bộ Việt Nam, Cục trưởng các Cục thuộc Bộ, Giám đốc Trung tâm Công nghệ thông tin, Thủ trưởng các cơ quan, đơn vị có liên quan chịu trách nhiệm thi hành Quyết định này./.",
+            "clauses": [],
+            "points": []
+          }
+        ],
+        "unstructured_blocks": []
+      },
+      {
+        "part_id": "doc:63140:part:2",
+        "part_type": "regulation",
+        "part_title": "QUY CHẾ",
+        "reference": null,
+        "direct_text": "QUY CHẾ\nQUẢN LÝ VÀ CUNG CẤP THÔNG TIN CỦA TRANG THÔNG TIN ĐIỆN TỬ BỘ GIAO THÔNG\nVẬN TẢI TRÊN INTERNET\n(Ban hành kèm theo Quyết định số 1944/QĐ-BGTVT\nngày 08 tháng 7 năm 2013 của Bộ trưởng Bộ Giao thông vận tải)\ndanh mục các chương trình, đề tài khoa học, công nghệ do đơn vị phụ trách;\n- Cung cấp và cập nhật kết quả các chương trình, đề tài sau khi được Hội đồng nghiệm thu khoa học thông qua; - Cung cấp thông tin về lĩnh vực tiêu chuẩn, đo lường, chất lượng sản phẩm; sở hữu trí tuệ trong ngành Giao thông vận tải.\ng) Thanh tra Bộ\nCung cấp thông tin về xử phạt đối với tổ chức, doanh nghiệp hoạt động trong lĩnh vực giao thông vận tải;\nh) Cục Quản lý\nxây dựng và chất lượng công trình giao thông. Thông tin về dự án đang triển khai, dự án đã hoàn thành, bao gồm tên dự án, mục tiêu chính, lĩnh vực chuyên môn, loại dự án, thời gian thực hiện, kinh phí dự án.\ni) Các Vụ: Tài chính, Quản lý doanh nghiệp, Kết cấu hạ tầng giao thông, Vận\ntải, An toàn giao thông, Môi trường và Ban Quản lý đầu tư các dự án đối tác công - tư cung cấp và cập nhật thông tin theo nhiệm vụ được giao và theo chỉ đạo của lãnh đạo Bộ.\nk) Các Tổng cục, Cục trực thuộc Bộ\n- Cung cấp, cập nhật đầy đủ thông tin trên trang/cổng thông tin của đơn vị theo quy định tại Nghị định số 43/2011/NĐ-CP ngày 13/6/2011 của Chính phủ quy định về việc cung cấp thông tin và dịch vụ công trực tuyến trên trang thông tin điện tử hoặc cổng thông tin điện tử của cơ quan nhà nước. - Cung cấp, cập nhật thông tin cho Trang thông tin điện tử Bộ Giao thông vận tải theo chỉ đạo của lãnh đạo Bộ.\nl) Các đơn vị sự nghiệp, doanh nghiệp\ntrực thuộc Bộ. Cung cấp, cập nhật thông tin cho Trang thông tin điện tử Bộ Giao thông, vận tải theo chỉ đạo của lãnh đạo Bộ.",
+        "chapters": [
+          {
+            "chapter_id": "doc:63140:part:2:chapter:1",
+            "number": "1",
+            "title": "QUY ĐỊNH CHUNG",
+            "content": "Chương 1.\nQUY ĐỊNH CHUNG",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:63140:part:2:article:1",
+                "number": "1",
+                "title": "Nguyên tắc chung Trang thông tin điện tử Bộ Giao thông vận tải tại địa chỉ www.mt.gov.vn (sau đây gọi tắt là Trang thông tin điện tử) là nơi cung cấp thông tin chính thức của Bộ Giao thông vận tải trên Internet, nhằm phục vụ công tác quản lý, chỉ đạo, điều hành của lãnh đạo Bộ; là kênh tuyên truyền, phổ biên đường lối, chủ trương, chính sách của Đảng, pháp luật của Nhà nước trong lĩnh vực giao thông vận tải; cung cấp, trao đổi thông tin giữa Bộ Giao thông vận tải với các cơ quan, tổ chức, cá nhân trong và ngoài ngành Giao thông vận tải; tiếp nhận phản ánh, kiến nghị của tổ chức, cá nhân trên Internet gửi Bộ Giao thông vận tải.",
+                "content": "Điều 1. Nguyên tắc chung Trang thông tin điện tử Bộ Giao thông vận tải tại địa chỉ www.mt.gov.vn (sau đây gọi tắt là Trang thông tin điện tử) là nơi cung cấp thông tin chính thức của Bộ Giao thông vận tải trên Internet, nhằm phục vụ công tác quản lý, chỉ đạo, điều hành của lãnh đạo Bộ; là kênh tuyên truyền, phổ biên đường lối, chủ trương, chính sách của Đảng, pháp luật của Nhà nước trong lĩnh vực giao thông vận tải; cung cấp, trao đổi thông tin giữa Bộ Giao thông vận tải với các cơ quan, tổ chức, cá nhân trong và ngoài ngành Giao thông vận tải; tiếp nhận phản ánh, kiến nghị của tổ chức, cá nhân trên Internet gửi Bộ Giao thông vận tải.",
+                "clauses": [],
+                "points": []
+              },
+              {
+                "article_id": "doc:63140:part:2:article:2",
+                "number": "2",
+                "title": "Phạm vi điều chỉnh, đối tượng áp dụng",
+                "content": "Điều 2. Phạm vi điều chỉnh, đối tượng áp dụng",
+                "clauses": [
+                  {
+                    "clause_id": "doc:63140:part:2:article:2:clause:1",
+                    "number": "1",
+                    "content": "1. Quy chế này quy định việc quản lý\nvà cung cấp thông tin của Trang thông tin điện tử.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:63140:part:2:article:2:clause:2",
+                    "number": "2",
+                    "content": "2. Quy chế này áp dụng đối với các cơ quan, tổ chức, cá nhân (sau đây gọi tắt là đơn vị) tham gia quản lý, duy trì hoạt động của Trang thông tin điện tử, tham gia cung cấp thông tin để đăng tải trên Trang thông tin điện tử.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:63140:part:2:chapter:2",
+            "number": "2",
+            "title": "QUẢN LÝ, VẬN HÀNH TRANG THÔNG TIN ĐIỆN TỬ",
+            "content": "Chương 2.\nQUẢN LÝ, VẬN\nHÀNH TRANG THÔNG TIN ĐIỆN TỬ",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:63140:part:2:article:3",
+                "number": "3",
+                "title": "Quản lý Trang thông tin điện tử",
+                "content": "Điều 3. Quản lý Trang thông tin điện tử",
+                "clauses": [
+                  {
+                    "clause_id": "doc:63140:part:2:article:3:clause:1",
+                    "number": "1",
+                    "content": "1. Trang thông tin điện tử hoạt động\ndưới sự chỉ đạo trực tiếp của Bộ trưởng Bộ Giao thông vận tải.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:63140:part:2:article:3:clause:2",
+                    "number": "2",
+                    "content": "2. Ban biên tập Trang thông tin điện\ntử (sau đây gọi tắt là Ban Biên tập) tổ chức thực hiện việc tiếp nhận, xử lý, biên tập, cập nhật thông tin và bảo đảm thông tin được cung cấp lên Trang thông tin điện tử đầy đủ, chính xác và kịp thời.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:63140:part:2:article:3:clause:3",
+                    "number": "3",
+                    "content": "3. Trung tâm Công nghệ thông tin là đơn\nvị chủ trì xây dựng, quản lý, cập nhật thông tin và duy trì hoạt động thường xuyên của Trang thông tin điện tử.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:63140:part:2:article:3:clause:4",
+                    "number": "4",
+                    "content": "4. Trung tâm Công nghệ thông tin được\nthực hiện các dịch vụ giá trị gia tăng trên Trang thông tin điện tử theo quy định của pháp luật. Các dịch vụ này không được làm ảnh hưởng tới chất lượng, mục tiêu của Trang thông tin điện tử.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:63140:part:2:article:4",
+                "number": "4",
+                "title": "Bảo đảm an toàn thông tin và dữ liệu Trung tâm Công nghệ thông tin chịu trách nhiệm thực hiện các biện pháp kỹ thuật bảo đảm sự hoạt động an toàn của Trang thông tin điện tử, định kỳ thực hiện việc sao lưu dữ liệu để bảo đảm có thể nhanh chóng khôi phục lại hoạt động của hệ thống khi có xảy ra sự cố; xây dựng giải pháp hiệu quả chống lại các tấn công gây mất an toàn thông tin; xây dựng phương án dự phòng khắc phục sự cố, bảo đảm hệ thống Trang thông tin điện tử hoạt động liên tục ở mức tối đa.",
+                "content": "Điều 4. Bảo đảm an toàn thông tin và dữ liệu Trung tâm Công nghệ thông tin chịu trách nhiệm thực hiện các biện pháp kỹ thuật bảo đảm sự hoạt động an toàn của Trang thông tin điện tử, định kỳ thực hiện việc sao lưu dữ liệu để bảo đảm có thể nhanh chóng khôi phục lại hoạt động của hệ thống khi có xảy ra sự cố; xây dựng giải pháp hiệu quả chống lại các tấn công gây mất an toàn thông tin; xây dựng phương án dự phòng khắc phục sự cố, bảo đảm hệ thống Trang thông tin điện tử hoạt động liên tục ở mức tối đa.",
+                "clauses": [],
+                "points": []
+              },
+              {
+                "article_id": "doc:63140:part:2:article:5",
+                "number": "5",
+                "title": "Bảo trì, bảo dưỡng, duy trì hoạt động, nâng cấp, chỉnh sửa Trang thông tin điện tử",
+                "content": "Điều 5. Bảo trì, bảo dưỡng, duy trì hoạt động, nâng cấp, chỉnh sửa Trang thông tin điện tử",
+                "clauses": [
+                  {
+                    "clause_id": "doc:63140:part:2:article:5:clause:1",
+                    "number": "1",
+                    "content": "1. Trung tâm Công nghệ thông tin có\ntrách nhiệm thường xuyên kiểm tra, bảo dưỡng, sửa chữa, giám sát hoạt động để bảo đảm Trang thông tin điện tử hoạt động liên tục 24 giờ trong tất cả các ngày.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:63140:part:2:article:5:clause:2",
+                    "number": "2",
+                    "content": "2. Hàng năm, Trung tâm Công nghệ\nthông tin rà soát và đề xuất phương án nâng cấp, chỉnh sửa Trang thông tin điện tử cho phù hợp với nhu cầu thực tế, đồng thời xây dựng phương án trang bị đầy đủ trang thiết bị cần thiết phục vụ cho việc thu thập, xử lý và cập nhật thông tin cho Trang thông tin điện tử, bảo đảm khai thác hiệu quả hạ tầng công nghệ hiện có.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:63140:part:2:article:6",
+                "number": "6",
+                "title": "Đào tạo nguồn nhân lực Hàng năm, Trung tâm Công nghệ thông tin chủ trì xây dựng, đề xuất kế hoạch, nội dung chương trình đào tạo, bồi dưỡng chuyên môn nghiệp vụ cụ thể đối với những người tham gia vào quá trình quản lý, vận hành và duy trì hoạt động của Trang thông tin điện tử phù hợp với lĩnh vực đảm nhiệm để bảo đảm phục vụ cho hoạt động của Trang thông tin điện tử.",
+                "content": "Điều 6. Đào tạo nguồn nhân lực Hàng năm, Trung tâm Công nghệ thông tin chủ trì xây dựng, đề xuất kế hoạch, nội dung chương trình đào tạo, bồi dưỡng chuyên môn nghiệp vụ cụ thể đối với những người tham gia vào quá trình quản lý, vận hành và duy trì hoạt động của Trang thông tin điện tử phù hợp với lĩnh vực đảm nhiệm để bảo đảm phục vụ cho hoạt động của Trang thông tin điện tử.",
+                "clauses": [],
+                "points": []
+              },
+              {
+                "article_id": "doc:63140:part:2:article:7",
+                "number": "7",
+                "title": "Kinh phí hoạt động của Trang thông tin điện tử",
+                "content": "Điều 7. Kinh phí hoạt động của Trang thông tin điện tử",
+                "clauses": [
+                  {
+                    "clause_id": "doc:63140:part:2:article:7:clause:1",
+                    "number": "1",
+                    "content": "1. Kinh phí hoạt động của Trang thông\ntin điện tử do ngân sách nhà nước cấp hàng năm cho Trung tâm Công nghệ thông tin. Kinh phí hoạt động của Trang thông tin điện tử bao gồm:",
+                    "points": [
+                      {
+                        "point_id": "doc:63140:part:2:article:7:clause:1:point:1",
+                        "label": "a",
+                        "content": "a) Chi phí trả nhuận bút, thù lao tin\nbài;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:63140:part:2:article:7:clause:1:point:2",
+                        "label": "b",
+                        "content": "b) Chi phí duy trì, bảo dưỡng các thiết\nbị, máy chủ;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:63140:part:2:article:7:clause:1:point:3",
+                        "label": "c",
+                        "content": "c) Chi phí nâng cấp phần mềm (theo kế\nhoạch năm);",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:63140:part:2:article:7:clause:1:point:4",
+                        "label": "d",
+                        "content": "d) Chi phí hoạt\nđộng; chi phí đào tạo, bồi dưỡng nghiệp vụ;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:63140:part:2:article:7:clause:1:point:5",
+                        "label": "đ",
+                        "content": "đ) Các chi phí khác theo quy định hiện\nhành.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:63140:part:2:article:7:clause:2",
+                    "number": "2",
+                    "content": "2. Trung tâm Công nghệ thông tin có trách\nnhiệm chủ trì, phối hợp với các đơn vị liên quan xây dựng kế hoạch, lập dự toán kinh phí hàng năm để duy trì hoạt động và phát triển Trang thông tin điện tử.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:63140:part:2:chapter:3",
+            "number": "3",
+            "title": "CUNG CẤP VÀ CẬP NHẬT THÔNG TIN, DỮ LIỆU",
+            "content": "Chương 3.\nCUNG CẤP VÀ CẬP NHẬT THÔNG TIN, DỮ LIỆU",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:63140:part:2:article:8",
+                "number": "8",
+                "title": "Thông tin, dữ liệu bắt buộc cập nhật",
+                "content": "Điều 8. Thông tin, dữ liệu bắt buộc cập nhật\n1. Thông tin giới thiệu về chức năng,\nnhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Giao thông vận tải và các đơn vị thuộc Bộ; tóm lược quá trình hình thành và phát triển của Bộ; thông tin liên hệ: địa chỉ, điện thoại, số fax, địa chỉ thư điện tử chính thức của đơn vị để liên hệ và tiếp nhận thông tin.\n2. Tin tức, sự kiện: các tin, bài về\nhoạt động, các vấn đề liên quan thuộc phạm vi quản lý nhà nước của Bộ Giao thông vận tải.\n3. Thông tin chỉ đạo, điều hành, bao\ngồm: hệ thống văn bản phục vụ công tác chỉ đạo, điều hành; ý kiến xử lý, phản hồi đối với các kiến nghị, yêu cầu của tổ chức, cá nhân; thông tin khen thưởng, xử phạt đối với tổ chức, doanh nghiệp hoạt động trong lĩnh vực quản lý nhà nước của Bộ.\n4. Thông tin\ntuyên truyền, phổ biến, hướng dẫn thực hiện pháp luật, chế độ, chính sách đối với những lĩnh vực thuộc phạm vi quản lý nhà nước của Bộ.\n5. Thông tin về chiến lược, quy hoạch,\nkế hoạch phát triển ngành, lĩnh vực; thông tin về các chương trình, dự án, đề án hợp tác quốc tế trong lĩnh vực quản lý nhà nước của Bộ.\n6. Hệ thống văn bản quy phạm pháp luật\nchuyên ngành và văn bản quản lý hành chính có liên quan.\n7. Thông tin về dự án (nhóm đặc biệt,\nnhóm A, nhóm B có nguồn gốc từ ngân sách nhà nước), hạng mục đầu tư, đấu thầu, mua sắm công, cụ thể:\na) Danh sách các dự án đang chuẩn bị\nđầu tư, các dự án đang triển khai, các dự án đã hoàn thành;\nb) Mỗi dự án cần có các thông tin bao\ngồm: tên dự án, mục tiêu chính, lĩnh vực chuyên môn, loại dự án, thời gian thực hiện, kinh phí dự án, loại hình tài trợ, nhà tài trợ, tình trạng dự án.\n8. Mục lấy ý kiến góp ý của tổ chức,\ncá nhân:\na) Tiếp nhận phản ánh; kiến nghị của\ntổ chức, cá nhân về quy định hành chính theo quy định của pháp luật trong phạm vi quản lý nhà nước của Bộ;\nb) Dự án, dự thảo văn bản quy phạm\npháp luật do Bộ Giao thông vận tải chủ trì soạn thảo, tiêu chuẩn, quy chuẩn kỹ thuật cần lấy ý kiến đóng góp của nhân dân; thông tin về thời hạn tiếp nhận ý kiến góp ý, địa chỉ, thư điện tử của cơ quan, đơn vị tiếp nhận ý kiến góp ý; các ý kiến đóng góp của cơ quan, tổ chức, cá nhân theo quy định của pháp luật.\n9. Thông tin liên hệ của cán bộ, công\nchức có thẩm quyền của các đơn vị thuộc Bộ Giao thông vận tải, bao gồm họ tên, chức vụ, đơn vị công tác, số điện thoại/fax, địa chỉ thư điện tử chính thức.\n10. Thông tin giao dịch của Trang thông tin điện tử, bao gồm: địa chỉ,\nđiện thoại, số fax, địa chỉ thư điện tử chính thức để giao dịch với tổ chức, cá nhân.\n11. Thông tin về chương trình, đề tài\nkhoa học:\na) Danh mục các chương trình, đề tài,\nbao gồm: mã số, tên, cấp quản lý, lĩnh vực, đơn vị chủ trì, thời gian thực hiện;\nb) Kết quả các chương trình, đề tài\nsau khi đã được Hội đồng nghiệm thu khoa học thông qua, bao gồm: báo cáo tổng hợp, báo cáo kết quả triển khai áp dụng của công trình, đề tài.\n12. Thông tin về thống kê chuyên\nngành (số liệu, báo cáo thống kê).\n13. Thông tin tiếng Anh:\na) Sơ đồ, cơ cấu tổ chức, chức năng,\nnhiệm vụ, quyền hạn của cơ quan, đơn vị trực thuộc; tóm lược quá trình hình thành và phát triển của Bộ Giao thông vận tải;\nb) Thông tin liên hệ của cán bộ, công\nchức có thẩm quyền bao gồm họ tên, chức vụ đơn vị công tác, số điện thoại/fax, địa chỉ thư điện tử chính thức.\nc) Thông tin về dự án cần xúc tiến đầu\ntư.\n14. Thông tin khác trong lĩnh vực quản\nlý nhà nước của Bộ Giao thông vận tải:\na) Thông tin về tuyển dụng, tuyển chọn,\nthông tin liên quan đến đào tạo, bồi dưỡng trong và ngoài nước của Bộ Giao thông vận tải công khai theo quy định của pháp luật;\nb) Thông tin, dữ liệu trong phạm vi\nquản lý nhà nước của Bộ thuộc các lĩnh vực: vận tải, an toàn giao thông, kết cấu hạ tầng giao thông, quản lý doanh nghiệp Giao thông vận tải, quản lý đầu tư các dự án đối tác công - tư.\n15. Thông tin về dịch vụ công trực\ntuyến:\na) Các thủ tục hành chính trong phạm vi lĩnh vực do Bộ Giao thông vận tải quản\nlý;\nb) Danh mục các dịch vụ hành chính\ncông và các dịch vụ công trực tuyến do Bộ Giao thông vận tải và các đơn vị thuộc Bộ thực hiện, nêu rõ mức độ cung cấp của từng dịch vụ.\n16. Thông cáo báo chí, trả lời phỏng\nvấn và phát ngôn chính thức của Lãnh đạo Bộ và trả lời công dân theo thẩm quyền về lĩnh vực giao thông vận tải.",
+                "clauses": [],
+                "points": []
+              },
+              {
+                "article_id": "doc:63140:part:2:article:9",
+                "number": "9",
+                "title": "Thông tin, dữ liệu khác",
+                "content": "Điều 9. Thông tin, dữ liệu khác",
+                "clauses": [
+                  {
+                    "clause_id": "doc:63140:part:2:article:9:clause:1",
+                    "number": "1",
+                    "content": "1. Các bài viết, bài nghiên cứu\nchuyên sâu, thông tin về các chương trình, đề tài nghiên cứu khoa học thuộc các lĩnh vực do Bộ Giao thông vận tải quản lý.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:63140:part:2:article:9:clause:2",
+                    "number": "2",
+                    "content": "2. Giới thiệu các ấn phẩm sách, thông\ntin, tạp chí chuyên ngành của Bộ Giao thông vận tải hoặc của các đơn vị thuộc Bộ.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:63140:part:2:article:9:clause:3",
+                    "number": "3",
+                    "content": "3. Các thông tin khác theo sự chỉ đạo\nhoặc đồng ý của Lãnh đạo Bộ.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:63140:part:2:article:10",
+                "number": "10",
+                "title": "Các hành vi bị nghiêm cấm khi vận hành Trang thông tin điện tử",
+                "content": "Điều 10. Các hành vi bị nghiêm cấm khi vận hành Trang thông tin điện tử",
+                "clauses": [
+                  {
+                    "clause_id": "doc:63140:part:2:article:10:clause:1",
+                    "number": "1",
+                    "content": "1. Lợi dụng cung cấp thông tin nhằm mục\nđích:",
+                    "points": [
+                      {
+                        "point_id": "doc:63140:part:2:article:10:clause:1:point:1",
+                        "label": "a",
+                        "content": "a) Chống lại nhà nước Cộng hòa xã hội\nchủ nghĩa Việt Nam; gây phương hại đến an ninh quốc gia, trật tự, an toàn xã hội; phá hoại thuần phong, mỹ tục của dân tộc;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:63140:part:2:article:10:clause:1:point:2",
+                        "label": "b",
+                        "content": "b) Tiết lộ bí mật nhà nước, bí mật\nquân sự, an ninh, kinh tế, đối ngoại và những bí mật khác đã được pháp luật quy định;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:63140:part:2:article:10:clause:1:point:3",
+                        "label": "c",
+                        "content": "c) Đưa các thông tin xuyên tạc, vu khống,\nxúc phạm uy tín của tổ chức; danh dự, nhân phẩm của công dân;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:63140:part:2:article:10:clause:1:point:4",
+                        "label": "d",
+                        "content": "d) Lợi dụng Trang thông tin điện tử để\ncung cấp, truyền đi hoặc đặt đường liên kết trực tiếp đến những thông tin vi phạm các quy định hiện hành.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:63140:part:2:article:10:clause:2",
+                    "number": "2",
+                    "content": "2. Sử dụng những\nthông tin, hình ảnh của cá nhân vi phạm các quy định tại Điều 31 và Điều 38 Bộ luật Dân sự.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:63140:part:2:article:10:clause:3",
+                    "number": "3",
+                    "content": "3. Cung cấp thông tin vi phạm các quy\nđịnh về sở hữu trí tuệ, về giao dịch thương mại và các quy định khác của pháp luật có liên quan.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:63140:part:2:article:11",
+                "number": "11",
+                "title": "Phương thức cung cấp và cập nhật thông tin, dữ liệu",
+                "content": "Điều 11. Phương thức cung cấp và cập nhật thông tin, dữ liệu",
+                "clauses": [
+                  {
+                    "clause_id": "doc:63140:part:2:article:11:clause:1",
+                    "number": "1",
+                    "content": "1. Thông tin, dữ liệu đăng tải trên\nTrang thông tin điện tử được thực hiện theo các hình thức sau:",
+                    "points": [
+                      {
+                        "point_id": "doc:63140:part:2:article:11:clause:1:point:1",
+                        "label": "a",
+                        "content": "a) Gửi qua thư điện tử, fax hoặc qua\nđường công văn về thường trực Ban Biên tập theo địa chỉ: Trung tâm Công nghệ thông tin - 80 Trần Hưng Đạo, Hoàn Kiếm, Hà Nội Email: tinbai@mt.gov.vn: Điện thoại: (04) 38224464; Fax: (04) 38221066",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:63140:part:2:article:11:clause:1:point:2",
+                        "label": "b",
+                        "content": "b) Trực tiếp cập nhật thông tin lên\nTrang thông tin điện tử.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:63140:part:2:article:11:clause:2",
+                    "number": "2",
+                    "content": "2. Thông tin dạng văn bản sử dụng phông chữ Unicode theo tiêu chuẩn TCVN 6909:2001 .",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:63140:part:2:article:11:clause:3",
+                    "number": "3",
+                    "content": "3. Thông tin, dữ liệu không tuân thủ\ntheo quy định sẽ không được đăng; đồng thời các tổ chức, cá nhân đã gửi thông tin, dữ liệu chưa đạt yêu cầu phải có trách nhiệm chỉnh sửa lại cho chính xác và phù hợp, sau đó gửi lại Ban biên tập để duyệt và đăng tin.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:63140:part:2:article:12",
+                "number": "12",
+                "title": "Thời hạn cung cấp và cập nhật thông tin",
+                "content": "Điều 12. Thời hạn cung cấp và cập nhật thông tin",
+                "clauses": [
+                  {
+                    "clause_id": "doc:63140:part:2:article:12:clause:1",
+                    "number": "1",
+                    "content": "1. Đối với hoạt\nđộng, sự kiện:",
+                    "points": [
+                      {
+                        "point_id": "doc:63140:part:2:article:12:clause:1:point:1",
+                        "label": "a",
+                        "content": "a) Nếu hoạt động, sự kiện kết thúc\nvào buổi sáng thì hoạt động, sự kiện đó phải được cập nhật trên Trang thông tin điện tử trong ngày;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:63140:part:2:article:12:clause:1:point:2",
+                        "label": "b",
+                        "content": "b) Nếu hoạt động, sự kiện kết thúc vào buổi chiều thì hoạt động, sự kiện đó phải được cập nhật trên Trang\nthông tin điện tử buổi sáng ngày hôm sau.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:63140:part:2:article:12:clause:2",
+                    "number": "2",
+                    "content": "2. Đối với văn bản:\nVăn bản sau khi chính thức phát hành phải được cung cấp và cập nhật trên Trang thông tin điện tử chậm nhất sau 01 ngày làm việc.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:63140:part:2:article:12:clause:3",
+                    "number": "3",
+                    "content": "3. Đối với các câu hỏi, ý kiến phản ảnh\ndo bạn đọc gửi đến:",
+                    "points": [
+                      {
+                        "point_id": "doc:63140:part:2:article:12:clause:3:point:1",
+                        "label": "a",
+                        "content": "a) Khi nhận được câu hỏi gửi đến từ\nTrang thông tin điện tử hoặc từ địa chỉ thư điện tử tinbai@mt.gov.vn. đơn vị chức năng có trách nhiệm trả lời câu hỏi trong thời hạn không quá 10 ngày làm việc;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:63140:part:2:article:12:clause:3:point:2",
+                        "label": "b",
+                        "content": "b) Ban biên tập có trách nhiệm trả lời bạn đọc bằng hình thức gửi thư điện tử hoặc đăng\ntải trên Trang thông tin điện tử.",
+                        "children": []
+                      }
+                    ]
+                  }
+                ],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:63140:part:2:chapter:4",
+            "number": "4",
+            "title": "BAN BIÊN TẬP",
+            "content": "Chương 4.\nBAN BIÊN TẬP",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:63140:part:2:article:13",
+                "number": "13",
+                "title": "Cơ cấu tổ chức Ban Biên tập",
+                "content": "Điều 13. Cơ cấu tổ chức Ban Biên tập",
+                "clauses": [
+                  {
+                    "clause_id": "doc:63140:part:2:article:13:clause:1",
+                    "number": "1",
+                    "content": "1. Ban Biên tập do Bộ trưởng quyết định\nthành lập. Ban Biên tập do Thứ trưởng là Trưởng Ban. Thành viên Ban Biên tập gồm đại diện lãnh đạo các cơ quan đơn vị có liên quan đến nhiệm vụ cung cấp thông tin đối với các lĩnh vực thuộc phạm vi quản lý nhà nước của Bộ Giao thông vận tải.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:63140:part:2:article:13:clause:2",
+                    "number": "2",
+                    "content": "2. Ban Biên tập làm việc theo chế độ\nkiêm nhiệm.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:63140:part:2:article:14",
+                "number": "14",
+                "title": "Nhiệm vụ, quyền hạn của Ban Biên tập",
+                "content": "Điều 14. Nhiệm vụ, quyền hạn của Ban Biên tập",
+                "clauses": [
+                  {
+                    "clause_id": "doc:63140:part:2:article:14:clause:1",
+                    "number": "1",
+                    "content": "1. Tổ chức việc thu thập, biên tập,\nrà soát, xử lý thông tin; đảm bảo cập nhật kịp thời, chính xác thông tin đăng tải trên Trang thông tin điện tử.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:63140:part:2:article:14:clause:2",
+                    "number": "2",
+                    "content": "2. Định hướng nội dung thông tin của Trang thông tin điện tử.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:63140:part:2:article:14:clause:3",
+                    "number": "3",
+                    "content": "3. Phê duyệt và chịu trách nhiệm về nội\ndung thông tin, tin bài được đăng tải trên Trang thông tin điện tử.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:63140:part:2:article:14:clause:4",
+                    "number": "4",
+                    "content": "4. Nghiên cứu, đề xuất với Bộ trưởng về các biện pháp nâng cao chất lượng thông tin của Trang thông tin\nđiện tử.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:63140:part:2:article:14:clause:5",
+                    "number": "5",
+                    "content": "5. Chỉ đạo, hướng dẫn các đơn vị cung\ncấp thông tin theo quy định của pháp luật và của Bộ Giao thông vận tải.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:63140:part:2:article:14:clause:6",
+                    "number": "6",
+                    "content": "6. Tổ chức mạng lưới cộng tác viên để\ncung cấp thông tin về tình hình hoạt động của các đơn vị trong ngành Giao thông vận tải.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:63140:part:2:article:14:clause:7",
+                    "number": "7",
+                    "content": "7. Định kỳ hàng quý và năm báo cáo Bộ\ntrưởng Bộ Giao thông vận tải về tình hình, kết quả hoạt động của Ban Biên tập và tình hình hoạt động của Trang thông tin điện tử.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:63140:part:2:article:14:clause:8",
+                    "number": "8",
+                    "content": "8. Thực hiện các nhiệm vụ khác do Bộ\ntrưởng giao.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:63140:part:2:article:15",
+                "number": "15",
+                "title": "Trách nhiệm của Trưởng Ban Biên tập",
+                "content": "Điều 15. Trách nhiệm của Trưởng Ban Biên tập",
+                "clauses": [
+                  {
+                    "clause_id": "doc:63140:part:2:article:15:clause:1",
+                    "number": "1",
+                    "content": "1. Điều hành hoạt động của Ban Biên tập,\nThường trực Ban biên tập và chịu trách nhiệm trước Bộ trưởng về hoạt động của Ban Biên tập.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:63140:part:2:article:15:clause:2",
+                    "number": "2",
+                    "content": "2. Phân công phụ trách lĩnh vực thông\ntin và nhiệm vụ cụ thể cho các thành viên Ban Biên tập.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:63140:part:2:article:15:clause:3",
+                    "number": "3",
+                    "content": "3. Chỉ đạo xây dựng, triển khai thực\nhiện kế hoạch, chương trình công tác định kỳ và hàng năm của Ban Biên tập.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:63140:part:2:article:15:clause:4",
+                    "number": "4",
+                    "content": "4. Chỉ đạo việc hướng dẫn, đôn đốc,\nyêu cầu các đơn vị, cá nhân phối hợp cung cấp thông tin, xử lý thông tin phản hồi, hỏi đáp pháp luật.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:63140:part:2:article:15:clause:5",
+                    "number": "5",
+                    "content": "5. Chỉ đạo xây dựng và phát triển đội\nngũ cộng tác viên của Trang thông tin điện tử.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:63140:part:2:article:16",
+                "number": "16",
+                "title": "Trách nhiệm của các Phó Trưởng ban Biên tập",
+                "content": "Điều 16. Trách nhiệm của các Phó Trưởng ban Biên tập",
+                "clauses": [
+                  {
+                    "clause_id": "doc:63140:part:2:article:16:clause:1",
+                    "number": "1",
+                    "content": "1. Phó Trưởng ban Thường trực có\ntrách nhiệm:",
+                    "points": [
+                      {
+                        "point_id": "doc:63140:part:2:article:16:clause:1:point:1",
+                        "label": "a",
+                        "content": "a) Giúp Trưởng Ban trong việc điều\nhành hoạt động của Ban Biên tập và Thường trực Ban Biên tập theo sự phân công của Trưởng Ban;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:63140:part:2:article:16:clause:1:point:2",
+                        "label": "b",
+                        "content": "b) Thay mặt Trưởng Ban thực hiện các\nnhiệm vụ của Trưởng ban khi được ủy quyền.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:63140:part:2:article:16:clause:2",
+                    "number": "2",
+                    "content": "2. Các Phó Trưởng ban có trách nhiệm\nchỉ đạo xây dựng, triển khai thực hiện kế hoạch, chương trình công tác định kỳ và hàng năm của Ban Biên tập theo sự phân công của Trưởng Ban.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:63140:part:2:article:17",
+                "number": "17",
+                "title": "Trách nhiệm của các Thành viên Ban Biên tập",
+                "content": "Điều 17. Trách nhiệm của các Thành viên Ban Biên tập",
+                "clauses": [
+                  {
+                    "clause_id": "doc:63140:part:2:article:17:clause:1",
+                    "number": "1",
+                    "content": "1. Tham gia định hướng nội dung thông\ntin của Trang thông tin điện tử; đảm bảo lĩnh vực thông tin được giao phụ trách theo đúng định hướng chung đã được xác định.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:63140:part:2:article:17:clause:2",
+                    "number": "2",
+                    "content": "2. Duyệt nội dung thông tin, tin bài\nđể đăng trên Trang thông tin điện tử và chịu trách nhiệm trước Trưởng Ban về nội dung thông tin, tin bài trong lĩnh vực thông tin được phân công phụ trách.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:63140:part:2:article:17:clause:3",
+                    "number": "3",
+                    "content": "3. Thường xuyên theo dõi, kiểm tra\ntính đúng đắn của thông tin sau khi đăng tải trên Trang thông tin điện tử; theo dõi tiến độ cập nhật, đăng tải thông tin sau khi duyệt.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:63140:part:2:article:17:clause:4",
+                    "number": "4",
+                    "content": "4. Đề xuất các\nbiện pháp nâng cao chất lượng thông tin của Trang thông tin điện tử; tham gia xây dựng, chỉ đạo và tổ chức thực hiện kế hoạch, chương trình công tác định kỳ và hàng năm của Ban Biên tập.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:63140:part:2:article:17:clause:5",
+                    "number": "5",
+                    "content": "5. Thường xuyên theo dõi và đề xuất\ngiải pháp nâng cao hiệu quả hoạt động của Trang thông tin điện tử, đề xuất cải tiến giao diện, bố cục thông tin, chức năng, tiện ích để thuận tiện cho người dùng.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:63140:part:2:article:17:clause:6",
+                    "number": "6",
+                    "content": "6. Tham gia chỉ đạo tổ chức mạng lưới\ncộng tác viên để cung cấp thông tin liên quan đến các lĩnh vực thuộc phạm vi quản lý của Bộ Giao thông vận tải.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:63140:part:2:article:18",
+                "number": "18",
+                "title": "Nhiệm vụ của Thường trực Ban Biên tập",
+                "content": "Điều 18. Nhiệm vụ của Thường trực Ban Biên tập",
+                "clauses": [
+                  {
+                    "clause_id": "doc:63140:part:2:article:18:clause:1",
+                    "number": "1",
+                    "content": "1. Thu thập, tiếp nhận, biên tập, cập\nnhật thông tin đăng tải trên Trang thông tin điện tử; chuyển thành viên Ban Biên tập phụ trách lĩnh vực để duyệt nội dung thông tin, tin bài hoặc xin ý kiến về việc cung cấp thông tin trong trường hợp cần thiết.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:63140:part:2:article:18:clause:2",
+                    "number": "2",
+                    "content": "2. Theo dõi và duy trì liên hệ với cộng\ntác viên, phối hợp với đầu mối cung cấp thông tin của các đơn vị; hướng dẫn tổ chức, cá nhân cung cấp thông tin để đăng tải trên Trang thông tin điện tử theo quy định của pháp luật và của Bộ Giao thông vận tải.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:63140:part:2:article:18:clause:3",
+                    "number": "3",
+                    "content": "3. Theo dõi tình hình tiếp nhận, xử\nlý và đăng tải thông tin, tin bài trên Trang thông tin điện tử, định kỳ hàng tháng tổng hợp báo cáo Trưởng Ban.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:63140:part:2:article:18:clause:4",
+                    "number": "4",
+                    "content": "4. Nghiên cứu, đề xuất phương án cải\ntiến, xây dựng quy trình thu thập, biên tập, cập nhật nhằm nâng cao hiệu quả xử lý thông tin tại khâu biên tập và cập nhật.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:63140:part:2:article:18:clause:5",
+                    "number": "5",
+                    "content": "5. Chuẩn bị chương trình, nội dung,\ntài liệu cho các cuộc họp của Ban Biên tập; tổng hợp, ghi biên bản các cuộc họp và thông báo kết quả cuộc họp đến các thành viên.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:63140:part:2:article:18:clause:6",
+                    "number": "6",
+                    "content": "6. Thực hiện các nhiệm vụ khác do Trưởng\nBan Biên tập giao.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:63140:part:2:chapter:5",
+            "number": "5",
+            "title": "TRÁCH NHIỆM CỦA CÁC ĐƠN VỊ TRONG VIỆC CUNG CẤP THÔNG TIN",
+            "content": "Chương 5.\nTRÁCH NHIỆM CỦA\nCÁC ĐƠN VỊ TRONG VIỆC CUNG CẤP THÔNG TIN",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:63140:part:2:article:19",
+                "number": "19",
+                "title": "Trung tâm Công nghệ thông tin Trung tâm Công nghệ thông tin là Thường trực Ban Biên tập, thực hiện nhiệm vụ quy định tại Điều 18 của Quy chế này.",
+                "content": "Điều 19. Trung tâm Công nghệ thông tin Trung tâm Công nghệ thông tin là Thường trực Ban Biên tập, thực hiện nhiệm vụ quy định tại Điều 18 của Quy chế này.",
+                "clauses": [],
+                "points": []
+              },
+              {
+                "article_id": "doc:63140:part:2:article:20",
+                "number": "20",
+                "title": "Trách nhiệm của các đơn vị",
+                "content": "Điều 20. Trách nhiệm của các đơn vị",
+                "clauses": [
+                  {
+                    "clause_id": "doc:63140:part:2:article:20:clause:1",
+                    "number": "1",
+                    "content": "1. Thủ trưởng các đơn vị trực thuộc\nBộ chịu trách nhiệm trước Bộ trưởng về nội dung thông tin, tin bài cung cấp và cập nhật trên Trang thông tin điện tử.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:63140:part:2:article:20:clause:2",
+                    "number": "2",
+                    "content": "2. Trách nhiệm chung",
+                    "points": [
+                      {
+                        "point_id": "doc:63140:part:2:article:20:clause:2:point:1",
+                        "label": "a",
+                        "content": "a) Cung cấp thông tin về các sự kiện,\nhoạt động của Bộ, các vấn đề được dư luận xã hội quan tâm trong phạm vi quản lý của Bộ cần được phổ biến rộng rãi công khai thuộc chức năng nhiệm vụ của đơn vị;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:63140:part:2:article:20:clause:2:point:2",
+                        "label": "b",
+                        "content": "b) Ý kiến xử lý, phản hồi đối với các\nkiến nghị, yêu cầu của tổ chức, cá nhân về các quy định hành chính thuộc phạm vi chức năng quản lý của Bộ GTVT theo Nghị định số 20/2008/NĐ-CP ngày 14/2/2008 của Chính phủ về tiếp nhận xử lý phản ánh, kiến nghị của cá nhân, tổ chức về quy định hành chính;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:63140:part:2:article:20:clause:2:point:3",
+                        "label": "c",
+                        "content": "c) Cung cấp và cập nhật thông tin đối\nvới các dự thảo văn bản quy phạm pháp luật do Bộ Giao thông vận tải chủ trì soạn thảo cần xin ý kiến theo quy định của pháp luật.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:63140:part:2:article:20:clause:3",
+                    "number": "3",
+                    "content": "3. Nhiệm vụ cụ thể\nNgoài trách nhiệm chung quy định tại khoản 1 Điều này, theo quy định tại Điều 8, các đơn vị sau đây phải cung cấp và cập nhật thông tin theo chức năng, nhiệm vụ được giao:",
+                    "points": [
+                      {
+                        "point_id": "doc:63140:part:2:article:20:clause:3:point:1",
+                        "label": "a",
+                        "content": "a) Văn phòng Bộ\n- Cung cấp các văn bản chỉ đạo, điều hành do Bộ ban hành; - Thông cáo báo chí, trả lời phỏng vấn và phát ngôn chính thức của lãnh đạo Bộ và trả lời công dân theo thẩm quyền về lĩnh vực giao thông vận tải.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:63140:part:2:article:20:clause:3:point:2",
+                        "label": "b",
+                        "content": "b) Vụ Kế hoạch Đầu\ntư - Cung cấp và cập nhật số liệu thống kê chung của ngành Giao thông vận tải; - Cung cấp và cập nhật các chiến lược, kế hoạch, quy hoạch, chương trình, đề án phát triển ngành Giao thông vận tải; - Đầu mối cung cấp và cập nhật danh mục các dự án đầu tư sử dụng vốn ngân sách nhà nước hàng năm.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:63140:part:2:article:20:clause:3:point:3",
+                        "label": "c",
+                        "content": "c) Vụ Tổ chức cán bộ\n- Cung cấp và cập nhật thông tin về cơ cấu tổ chức, chức năng, nhiệm vụ, quyền hạn của cơ quan, đơn vị trực thuộc Bộ; - Cung cấp và cập nhật thông tin về công tác tuyển dụng, bổ nhiệm cán bộ; sử dụng đào tạo, bồi dưỡng đối với cán bộ, công chức, viên chức, người lao động và công tác thi đua khen thưởng tại các cơ quan, đơn vị, doanh nghiệp thuộc thẩm quyền quản lý của Bộ; - Cung cấp và cập nhật thông tin liên hệ của cán bộ, công chức có thẩm quyền, bao gồm họ tên, chức vụ, đơn vị công tác, số điện thoại/fax, địa chỉ thư điện tử chính thức; - Cung cấp và cập nhật thông tin về cải cách hành chính của Bộ.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:63140:part:2:article:20:clause:3:point:4",
+                        "label": "d",
+                        "content": "d) Vụ Pháp chế\n- Cung cấp và cập nhật các văn bản quy phạm pháp luật do Bộ Giao thông vận tải ban hành và các văn bản quy phạm pháp luật của các cơ quan khác ban hành liên quan tới chức năng quản lý nhà nước của Bộ Giao thông vận tải; - Cung cấp và cập nhật thông tin tuyên truyền, phổ biến, hướng dẫn thực hiện pháp luật, chế độ, chính sách đối với những lĩnh vực thuộc phạm vi quản lý của Bộ Giao thông vận tải; - Đầu mối tiếp nhận và trả lời các câu hỏi \"Giải đáp pháp luật\" của bạn đọc gửi đến Trang thông tin điện tử hoặc qua hòm thư tinbai@mt.gov.vn; - Cung cấp và cập nhật thông tin về cải cách thủ tục hành chính của Bộ; - Thông tin về dịch vụ công trực tuyến.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:63140:part:2:article:20:clause:3:point:5",
+                        "label": "d",
+                        "content": "d) Vụ Hợp tác quốc tế\n- Cung cấp và cập nhật thông tin song ngữ đối với các điều ước, hiệp định quốc tế trong lĩnh vực giao thông vận tải; - Cung cấp các thông tin chung bằng tiếng Anh các nội dung quy định tại khoản 13, Điều 8 của Quyết định này.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:63140:part:2:article:20:clause:3:point:6",
+                        "label": "e",
+                        "content": "e) Vụ Khoa học và Công nghệ\n- Cung cấp và cập nhật các tiêu chuẩn, quy chuẩn kỹ thuật quốc gia trong lĩnh vực giao thông vận tải; - Cung cấp, cập nhật thông tin và",
+                        "children": []
+                      }
+                    ]
+                  }
+                ],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:63140:part:2:chapter:6",
+            "number": "6",
+            "title": "TỔ CHỨC THỰC HIỆN",
+            "content": "Chương 6.\nTỔ CHỨC THỰC HIỆN",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:63140:part:2:article:21",
+                "number": "21",
+                "title": "Chế độ báo cáo Định kỳ hàng quý và năm, Trung tâm Công nghệ thông tin có trách nhiệm báo cáo Bộ tình hình hoạt động, đề xuất các biện pháp nhằm nâng cao chất lượng của Trang thông tin điện tử.",
+                "content": "Điều 21. Chế độ báo cáo Định kỳ hàng quý và năm, Trung tâm Công nghệ thông tin có trách nhiệm báo cáo Bộ tình hình hoạt động, đề xuất các biện pháp nhằm nâng cao chất lượng của Trang thông tin điện tử.",
+                "clauses": [],
+                "points": []
+              },
+              {
+                "article_id": "doc:63140:part:2:article:22",
+                "number": "22",
+                "title": "Tổ chức thực hiện Thủ trưởng các đơn vị có trách nhiệm chỉ đạo triển khai thực hiện Quy chế này. Trong quá trình thực hiện nếu gặp khó khăn, vướng mắc cần báo cáo lãnh đạo Bộ để xem xét, giải quyết kịp thời./.",
+                "content": "Điều 22. Tổ chức thực hiện Thủ trưởng các đơn vị có trách nhiệm chỉ đạo triển khai thực hiện Quy chế này. Trong quá trình thực hiện nếu gặp khó khăn, vướng mắc cần báo cáo lãnh đạo Bộ để xem xét, giải quyết kịp thời./.",
+                "clauses": [],
+                "points": []
+              }
+            ]
+          }
+        ],
+        "sections": [],
+        "articles": [],
+        "unstructured_blocks": []
+      }
+    ]
+  },
+  "issues": [],
+  "status": "ok",
+  "source_hash": "context_63140.json",
+  "stats": {
+    "source_chars": 23508,
+    "passage_chars": 23347,
+    "parts": 2,
+    "chapters": 6,
+    "sections": 0,
+    "articles": 25,
+    "clauses": 54,
+    "points": 26
+  }
+}

@@ -1,0 +1,470 @@
+{
+  "schema_version": "2.0",
+  "document_id": 242106,
+  "metadata": {
+    "name": "Quyet-dinh-26-2021-QD-UBND-dien-tich-toi-thieu-duoc-tach-thua-doi-voi-tung-loai-dat-Tra-Vinh-499058",
+    "link": "https://thuvienphapluat.vn/van-ban/Bat-dong-san/Quyet-dinh-26-2021-QD-UBND-dien-tich-toi-thieu-duoc-tach-thua-doi-voi-tung-loai-dat-Tra-Vinh-499058.aspx",
+    "issuing_agency": "ỦY BAN NHÂN DÂN TỈNH TRÀ VINH",
+    "national_header": "CỘNG HÒA XÃ HỘI\r\n\n  CHỦ NGHĨA VIỆT NAM",
+    "motto": "Độc lập - Tự do - Hạnh phúc",
+    "document_number": "26/2021/QĐ-UBND",
+    "issued_place": "Trà Vinh",
+    "issued_date": "ngày 18\r\n\n  tháng 11 năm 2021",
+    "document_type": "QUYẾT ĐỊNH",
+    "title": "QUY ĐỊNH ĐIỀU KIỆN TÁCH THỬA, HỢP THỬA ĐẤT VÀ DIỆN TÍCH TỐI THIỂU ĐƯỢC TÁCH THỬA ĐỐI VỚI TỪNG LOẠI ĐẤT TRÊN ĐỊA BÀN TỈNH TRÀ VINH ỦY BAN NHÂN DÂN TỈNH TRÀ VINH"
+  },
+  "administrative_header": {
+    "removed": true,
+    "removed_char_count": 172
+  },
+  "preamble": {
+    "text": "QUYẾT ĐỊNH QUY\nĐỊNH ĐIỀU KIỆN TÁCH THỬA, HỢP THỬA ĐẤT VÀ DIỆN TÍCH TỐI THIỂU ĐƯỢC TÁCH THỬA ĐỐI\nVỚI TỪNG LOẠI ĐẤT TRÊN ĐỊA BÀN TỈNH TRÀ VINH\nỦY BAN NHÂN DÂN TỈNH TRÀ VINH\nCăn cứ Luật Tổ chức chính quyền địa phương ngày 19/6/2015; Căn cứ Luật sửa đổi, bổ sung một số điều của Luật Tổ chức Chính phủ và Luật Tổ chức chính quyền địa phương ngày 22/11/2019; Căn cứ Luật Ban hành văn bản quy phạm pháp luật ngày 22/6/2015; Căn cứ Luật sửa đổi, bổ sung một số điều của Luật Ban hành văn bản quy phạm pháp luật ngày 18/6/2020; Căn cứ Luật Đất đai ngày 29/11/2013; Căn cứ Luật Kinh doanh bất động sản ngày 25/11/2014; Căn cứ Nghị định số 11/2010/NĐ-CP ngày 24/02/2010 của Chính phủ quy định về quản lý và bảo vệ kết cấu hạ tầng giao thông đường bộ; Căn cứ Nghị định số 100/2013/NĐ-CP ngày 03/9/2013 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 11/2010/NĐ-CP ngày 24/02/2010 của Chính phủ quy định về quản lý và bảo vệ kết cấu hạ tầng giao thông đường bộ; Căn cứ Nghị định số 76/2015/NĐ-CP ngày 10/9/2015 của Chính phủ quy định chi tiết thi hành một số điều của Luật Kinh doanh bất động sản; Căn cứ Nghị định số 148/2020/NĐ-CP ngày 18/12/2020 của Chính phủ sửa đổi, bổ sung một số nghị định quy định chi tiết thi hành Luật Đất đai; Căn cứ Thông tư số 01/2021/TT-BXD ngày 19/5/2021 của Bộ trưởng Bộ Xây dựng ban hành QCVN 01: 2021/BXD quy chuẩn kỹ thuật quốc gia về Quy hoạch xây dựng; Theo đề nghị của Giám đốc Sở Tài nguyên và Môi trường,\nQUYẾT ĐỊNH:",
+    "legal_bases": [
+      "Căn cứ Luật sửa đổi, bổ sung một số điều của Luật Tổ chức Chính phủ và Luật Tổ chức chính quyền địa phương ngày 22/11/2019",
+      "Căn cứ Luật Ban hành văn bản quy phạm pháp luật ngày 22/6/2015",
+      "Căn cứ Luật sửa đổi, bổ sung một số điều của Luật Ban hành văn bản quy phạm pháp luật ngày 18/6/2020",
+      "Căn cứ Luật Đất đai ngày 29/11/2013",
+      "Căn cứ Luật Kinh doanh bất động sản ngày 25/11/2014",
+      "Căn cứ Nghị định số 11/2010/NĐ-CP ngày 24/02/2010 của Chính phủ quy định về quản lý và bảo vệ kết cấu hạ tầng giao thông đường bộ",
+      "Căn cứ Nghị định số 100/2013/NĐ-CP ngày 03/9/2013 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 11/2010/NĐ-CP ngày 24/02/2010 của Chính phủ quy định về quản lý và bảo vệ kết cấu hạ tầng giao thông đường bộ",
+      "Căn cứ Nghị định số 76/2015/NĐ-CP ngày 10/9/2015 của Chính phủ quy định chi tiết thi hành một số điều của Luật Kinh doanh bất động sản",
+      "Căn cứ Nghị định số 148/2020/NĐ-CP ngày 18/12/2020 của Chính phủ sửa đổi, bổ sung một số nghị định quy định chi tiết thi hành Luật Đất đai",
+      "Căn cứ Thông tư số 01/2021/TT-BXD ngày 19/5/2021 của Bộ trưởng Bộ Xây dựng ban hành QCVN 01: 2021/BXD quy chuẩn kỹ thuật quốc gia về Quy hoạch xây dựng"
+    ],
+    "proposals": [
+      "Theo đề nghị của Giám đốc Sở Tài nguyên và Môi trường,\nQUYẾT ĐỊNH:"
+    ],
+    "enactment_formula": "QUYẾT ĐỊNH:"
+  },
+  "passage": "QUYẾT ĐỊNH QUY\nĐỊNH ĐIỀU KIỆN TÁCH THỬA, HỢP THỬA ĐẤT VÀ DIỆN TÍCH TỐI THIỂU ĐƯỢC TÁCH THỬA ĐỐI\nVỚI TỪNG LOẠI ĐẤT TRÊN ĐỊA BÀN TỈNH TRÀ VINH\nỦY BAN NHÂN DÂN TỈNH TRÀ VINH\nCăn cứ Luật Tổ chức chính quyền địa phương ngày 19/6/2015; Căn cứ Luật sửa đổi, bổ sung một số điều của Luật Tổ chức Chính phủ và Luật Tổ chức chính quyền địa phương ngày 22/11/2019; Căn cứ Luật Ban hành văn bản quy phạm pháp luật ngày 22/6/2015; Căn cứ Luật sửa đổi, bổ sung một số điều của Luật Ban hành văn bản quy phạm pháp luật ngày 18/6/2020; Căn cứ Luật Đất đai ngày 29/11/2013; Căn cứ Luật Kinh doanh bất động sản ngày 25/11/2014; Căn cứ Nghị định số 11/2010/NĐ-CP ngày 24/02/2010 của Chính phủ quy định về quản lý và bảo vệ kết cấu hạ tầng giao thông đường bộ; Căn cứ Nghị định số 100/2013/NĐ-CP ngày 03/9/2013 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 11/2010/NĐ-CP ngày 24/02/2010 của Chính phủ quy định về quản lý và bảo vệ kết cấu hạ tầng giao thông đường bộ; Căn cứ Nghị định số 76/2015/NĐ-CP ngày 10/9/2015 của Chính phủ quy định chi tiết thi hành một số điều của Luật Kinh doanh bất động sản; Căn cứ Nghị định số 148/2020/NĐ-CP ngày 18/12/2020 của Chính phủ sửa đổi, bổ sung một số nghị định quy định chi tiết thi hành Luật Đất đai; Căn cứ Thông tư số 01/2021/TT-BXD ngày 19/5/2021 của Bộ trưởng Bộ Xây dựng ban hành QCVN 01: 2021/BXD quy chuẩn kỹ thuật quốc gia về Quy hoạch xây dựng; Theo đề nghị của Giám đốc Sở Tài nguyên và Môi trường,\nQUYẾT ĐỊNH:\nĐiều 1. Phạm vi điều chỉnh\n1. Quy định điều kiện tách thửa, hợp thửa đất và diện\ntích tối thiểu được tách thửa đối với từng loại đất trên địa bàn tỉnh Trà Vinh.\n2. Quyết định này không áp dụng cho các trường hợp\nsau:\na) Tách thửa do Nhà nước thu hồi một phần thửa đất;\ngiảm diện tích do sạt lở tự nhiên; tách thửa theo quyết định hoặc bản án có hiệu lực thi hành của Tòa án; kết quả hòa giải thành; quyết định hành chính về giải quyết liên quan tranh chấp đất đai; quyết định thi hành án của cơ quan thi hành án.\nb) Tách thửa nhằm thực hiện các quy định về chế độ,\nchính sách theo quy định của pháp luật hiện hành.\nc) Các trường hợp thừa kế quyền sử dụng đất hoặc thừa\nkế nhà ở, tài sản gắn liền với quyền sử dụng đất theo quy định của pháp luật.\nd) Người sử dụng đất thỏa thuận bồi thường hoặc nhận\nchuyển nhượng quyền sử dụng đất để thực hiện dự án đầu tư đã được cơ quan có thẩm quyền phê duyệt.\nđ) Tách thửa đất đối với các\ntrường hợp đã có quy hoạch chi tiết xây dựng được cơ quan có thẩm quyền phê duyệt; các dự án đầu tư được cơ quan có thẩm quyền quyết định, chấp thuận chủ trương đầu tư.\ne) Mua bán nhà thuộc\nsở hữu Nhà nước theo quy định của pháp luật; nhận chuyển nhượng quyền sử dụng đất để làm đường đi, đường dẫn nước,thoátnước.\ng) Tách thửa\nđất khi phân chia quyền sử dụng đất, tài sản gắn liền với đất theo thỏa thuận của hộ gia đình.\nĐiều 2. Đối tượng áp dụng\n1. Cơ quan nhà nước có thẩm quyền, tổ chức có chức\nnăng thực hiện thủ tục tách thửa, hợp thửa theo quy định của pháp luật.\n2. Tổ chức, hộ gia đình, cá nhân sử dụng đất (gọi tắt\nlà người sử dụng đất) có yêu cầu tách thửa, hợp thửa để thực hiện các quyền theo quy định của Luật Đất đai, thực hiện dự án đầu tư đã được cơ quan có thẩm quyền phê duyệt.\nĐiều 3. Nguyên tắc thực hiện tách thửa đất, hợp thửa đất\n1. Khuyến khích hộ gia đình, cá nhân tập trung,\ntích tụ đất đai để sản xuất nông nghiệp theo mô hình tập trung quy mô lớn và sử dụng cho kinh tế trang trại theo quy định tại Điều 142 Luật Đất đai ngày 29/11/2013; hạn chế việc chia tách manh mún đất nông nghiệp, dẫn đến lãng phí việc khai thác sử dụng quỹ đất nông nghiệp trong quá trình công nghiệp hóa, hiện đại hóa nông nghiệp, nông thôn.\n2. Việc tách thửa đất để chuyển mục đích sử dụng đất\nphải phù hợp kế hoạch sử dụng đất hàng năm của cấp huyện và quy hoạch chi tiết xây dựng được cơ quan có thẩm quyền phê duyệt theo quy định.\n3. Thửa đất mới hình thành bao gồm: Thửa đất mới\ntách ra và thửa đất còn lại; đối với đất phi nông nghiệp, đất nông nghiệp tách thửa để chuyển mục đích sử dụng sang đất phi nông nghiệp phải có ít nhất một cạnh tiếp giáp với công trình công cộng hiện hữu (gồm các đường giao thông đã được xác định trong Bảng giá đất 05 năm (2020 - 2024) trên địa bàn tỉnh Trà Vinh ban hành kèm theo các quyết định: số 35/2019/QĐ-UBND ngày 20/12/2019, số 19/2020/QĐ-UBND ngày 29/7/2020 và số 29/2020/QĐ-UBND ngày 25/12/2020 của Ủy ban nhân dân tỉnh; đường giao thông còn lại, đê điều, sông, kênh, rạch công cộng đã được thể hiện trên bản đồ địa chính).\nĐiều 4. Điều kiện tách thửa đất, hợp thửa đất; diện tích, kích thước tối thiểu được tách thửa đối với từng loại đất\n1. Điều kiện được tách thửa đất: Thửa đất đã được cấp\nGiấy chứng nhận quyền sử dụng đất; Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất; Giấy chứng nhận quyền sở hữu công trình xây dựng theo quy định tại khoản 2, Điều 97 Luật Đất đai ngày 29/11/2013.\n2. Điều kiện hợp thửa đất:\na) Các thửa đất phải cùng chủ sử dụng đất; trường hợp\nkhông cùng chủ sử dụng thì phải thực hiện chuyển quyền sử dụng đất trước hoặc đồng thời với hợp thửa.\nb) Các thửa đất phải cùng mục đích sử dụng đất; trường\nhợp khác mục đích sử dụng đất thì phải thực hiện chuyển mục đích sử dụng đất trước khi hợp thửa đất.\nc) Hợp thửa của một phần thửa đất (hoặc thửa đất) với\nthửa đất liền kề đã được cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất theo quy định để tạo thành thửa đất mới.\n3. Không được tách thửa đất, hợp thửa đất trong các\ntrường hợp sau:\na) Thửa đất nằm trong khu vực đã có thông báo thu hồi\nđất hoặc quyết định thu hồi đất của cơ quan nhà nước cóthẩm quyền.\nb) Thửa đất đang có tranh chấp, khiếu nại, tố cáo về\nđất đai và đang được cơ quan có thẩm quyền thụ lý giải quyết.\nc) Thửa đất hoặc tài sản gắn liền với thửa đất đang\nbị các cơ quan có thẩm quyền thực hiện các biện pháp ngăn chặn để thực hiện quyết định của cơ quan nhà nước có thẩm quyền hoặc bản án của Tòa án.\nd) Người sử dụng đất vi phạm quy định của pháp luật\nvề đất đai trong quá trình sử dụng đất có kết luận của cơ quan có thẩm quyền.\nđ) Thửa đất không được tách thửa, hợp thửa theo các\nquy định khác của pháp luật.\n4. Trường hợp đề nghị tách thửa đất phi nông nghiệp,\nđất nông nghiệp để chuyển mục đích sử dụng đất sang đất phi nông nghiệp mà không tiếp giáp với công trình công cộng hiện hữu, Ủy ban nhân dân các huyện, thị xã, thành phố (sau đây gọi tắt là UBND cấp huyện) phải có ý kiến vào đơn đề nghị tách thửa đất, hợp thửa đất. Văn phòng Đăng ký đất đai chỉ được phép đo đạc tách thửa khi có ý kiến thống nhất của UBND cấp huyện.\n5. Diện tích, kích thước tối thiểu được tách thửa đối\nvới từng loại đất\na) Diện tích, kích thước tối thiểu của thửa đất mới\nhình thành đối với đất phi nông nghiệp theo quy định sau:\nSTT\nĐơn vị hành chính Tiếp giáp công trình công cộng hiện hữu có hành lang bảo vệ an toàn (HLBVAT) công trình ≥ 19m Tiếp giáp công trình công cộng hiện hữu có HLBVAT công trình < 19m hoặc không quy định HLBVAT công trình Diện tích tối thiểu (m2) Chiều rộng mặt tiền tối thiểu (m) Diện tích tối thiểu (m2) Chiều rộng mặt tiền tối thiểu (m) 1 Các phường, thị trấn 45 05 36 04 2 Các xã 50 05 40 04\nb) Diện tích tối thiểu của thửa đất mới hình thành\nđối với đất nông nghiệp theo quy định như sau: Đơn vị (m2)\nSTT\nĐơn vị hành chính Đất trồng lúa, đất nuôi trồng thủy sản, đất lâm nghiệp Đất nông nghiệp còn lại 1 Các phường, thị trấn 1.000 500 2 Các xã\nc) Trường hợp thửa đất yêu cầu tách thửa có hình dạng\nđặc biệt (hình thể không giống như hình chữ nhật, hình thang) thì diện tích phải đảm bảo theo quy định tại Điểm a, Điểm b, Khoản này.\nĐiều 5. Điều kiện tách thửa đất ở hoặc các loại đất khác để chuyển mục đích sang đất ở nhằm chuyển nhượng quyền sử dụng đất thuộc khu vực được phép phân lô, bán nền\n1. Phù hợp với kế hoạch sử dụng đất hàng năm của cấp\nhuyện đã được phê duyệt.\n2. Không nằm trong các khu vực có yêu cầu cao về kiến\ntrúc cảnh quan, khu vực trung tâm và xung quanh các công trình là điểm nhấn kiến trúc trong đô thị; mặt tiền các tuyến đường cấp khu vực trở lên và các tuyến đường cảnh quan chính trong đô thị theo quy định tại Khoản 17, Điều 1 Nghị định số 148/2020/NĐ-CP ngày 18/12/2020 của Chính phủ.\n3. Thuộc các khu vực được chuyển nhượng quyền sử dụng\nđất dưới hình thức phân lô, bán nền do UBND tỉnh công bố công khai.\n4. Đối với thửa đất, khu đất có diện tích từ mười\n(10) lần hạn mức giao đất ở cho hộ gia đình, cá nhân để làm nhà ở trên địa bàn tỉnh theo Quyết định số 41/2014/QĐ-UBND ngày 26/12/2014 của UBND tỉnh (gọi tắt là hạn mức giao đất ở cho hộ gia đình, cá nhân) trở lên mà thửa đất mới hình thành không tiếp giáp với công trình công cộng hiện hữu thì người sử dụng đất phải lập dự án đầu tư trình cấp có thẩm quyền phê duyệt và triển khai thực hiện dự án theo quy định. Đối với dự án có tổng mức đầu tư từ 20 (hai mươi) tỷ đồng trở lên, thì nộp hồ sơ tại Sở Kế hoạch và Đầu tư; đối với dự án có tổng mức đầu tư dưới 20 (hai mươi) tỷ đồng, thì nộp hồ sơ tại UBND cấp huyện.\n5. Đối với thửa đất, khu đất có diện tích dưới mười\n(10) lần hạn mức giao đất ở cho hộ gia đình, cá nhân mà thửa đất mới hình thành không tiếp giáp với công trình công cộng hiện hữu thì được thực hiện theo quy định tại Điều 4 Quyết định này hoặc lựa chọn hình thức lập dự án đầu tư theo quy định tại Khoản 4, Điều này.\nĐiều 6. Một số trường hợp quy định cụ thể về tách thửa từng loại đất\n1. Thửa đất đang sử dụng được hình thành trước ngày\nQuyết định này có hiệu lực thi hành thì được cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất nếu đủ điều kiện theo quy định của pháp luật về đất đai.\n2. Trường hợp người sử dụng đất yêu cầu tách thửa\nmà thửa đất mới hình thành có diện tích hoặc kích thước không phù hợp với quy định tại Khoản 5, Điều 4 Quyết định này, đồng thời với việc xin được hợp thửa đất đó với thửa đất khác liền kề đã được cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất theo quy định để tạo thành thửa đất mới thì được phép tách thửa, hợp thửa và cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất. Trường hợp thửa đất yêu cầu tách thửa và thửa đất liền kề khác chủ sử dụng, khác loại đất thì thực hiện đồng thời thủ tục chuyển quyền sử dụng đất, chuyển mục đích sử dụng đất và hợp thửa đất theo quy định.\n3. Trường hợp tách thửa đất nông nghiệp để chuyển mục\nđích sang đất phi nông nghiệp phù hợp với kế hoạch sử dụng đất hàng năm của cấp huyện được UBND tỉnh phê duyệt thì phải thực hiện thủ tục tách thửa đồng thời với thủ tục chuyển mục đích sử dụng đất; diện tích, kích thước tối thiểu được phép tách thửa đất của thửa đất mới hình thành áp dụng theo loại đất xin chuyển mục đích được quy định tại Điểm a, Khoản 5, Điều 4 Quyết định này. Trường hợp thửa mới tách ra (thửa xin chuyển mục đích sử dụng đất), nằm trong ranh giới thửa đất còn lại đã tiếp giáp công trình công cộng hiện hữu để chuyển mục đích sang đất ở hoặc đất phi nông nghiệp không phải là đất ở phù hợp với kế hoạch sử dụng đất hàng năm của cấp huyện đã được UBND tỉnh phê duyệt thì diện tích, kích thước tối thiểu được phép tách thửa đất được áp dụng tại Điểm a, Khoản 5, Điều 4 Quyết định này.\n4. Trường hợp thửa đất có đất ở ghép với đất nông\nnghiệp, khi tách thửa cùng có hai mục đích sử dụng thì diện tích, kích thước thửa đất ở phải theo quy định tại Điểm a, Khoản 5, Điều 4, đất nông nghiệp không áp dụng Quyết định này. Trường hợp thửa đất mới hình thành không tiếp giáp với công trình công cộng hiện hữu thì UBND cấp huyện phải có ý kiến vào đơn đề nghị tách thửa đất, hợp thửa đất trước khi thực hiện.\n5. Được phép tách thửa đối với thửa đất (trọn thửa)\nthuộc hành lang bảo vệ an toàn công trình công cộng; diện tích, kích thước theo quy định tại Điều 4 Quyết định này. Trong quá trình quản lý, sử dụng đối với trường hợp này phải tuân thủ theo quy định về quản lý và bảo vệ công trình công cộng hiện hành.\n6. Đối với thửa đất phi nông nghiệp\nthuộc khu vực đã có quy hoạch sử dụng đất hoặc quy hoạch xây dựng hoặc quy hoạch đô thị mà quy hoạch đó có quy định cụ thể về diện tích, kích thước từng thửa đất thì áp dụng diện tích, kích thước theo quy hoạch đó.\n7. Các trường hợp tặng cho quyền sử dụng đất, tài sản\ngắn liền với quyền sử dụng đất giữa cha, mẹ (kể cả cha nuôi, mẹ nuôi) với con (kể cả con nuôi, con dâu, con rễ); giữa anh, chị, em ruột với nhau; giữa ông bà nội, ông bà ngoại với cháu ruột mà không phù hợp quy định tại Khoản 5, Điều 4 Quyết định này. UBND cấp huyện có ý kiến từng trường hợp cụ thể vào đơn đề nghị tách thửa đất, hợp thửa đất. Văn phòng đăng ký đất đai chỉ đo đạc tách thửa khi có ý kiến thống nhất của UBND cấp huyện.\n8. Trường hợp người sử dụng đất có nhu cầu tách thửa\nđất qua 02 (hai) thửa đất liền kề, trong đó vừa tách thửa đất phi nông nghiệp không tiếp giáp công trình công cộng hiện hữu do bị cách bởi thửa đất nông nghiệp của cùng chủ sử dụng (thửa đất nông nghiệp nằm trong hành lang bảo vệ an toàn công trình công cộng hoặc nằm trong ranh giới quy hoạch hoặc bao quanh thửa đất phi nông nghiệp) thì được phép tách thửa; diện tích, kích thước tối thiểu tách thửa đất phi nông nghiệp theo quy định tại Điểm a, Khoản 5, Điều 4, thửa đất nông nghiệp không áp dụng theo Quyết định này.\n9. Trường hợp người sử dụng đất xin tách thửa đất\nmà hiện trạng có mồ mã thì được phép tách thửa; diện tích, kích thước thửa đất tách ra (có mồ mã) theo quy định tại Điểm a, Khoản 5, Điều 4 Quyết định này.\n10. Thửa đất được hình thành do người sử dụng đất tự\nchia tách ra từ thửa đất đang sử dụng mà thửa đất đó có diện tích, kích thước nhỏ hơn diện tích, kích thước tối thiểu được phép tách thửa theo quy định tại Khoản 5, Điều 4 Quyết định này thì không được công nhận là thửa đất; không được làm thủ tục thực hiện các quyền của người sử dụng đất theo quy định tại Khoản 2, Điều 29 Nghị định số 43/2014/NĐ-CP ngày 15/5/2014 của Chính phủ và không được cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất.\n11. Trường hợp thửa đất nông nghiệp còn lại sau khi\ntách thửa có diện tích nhỏ hơn diện tích tối thiểu tách thửa theo quy định tại Điểm b, Khoản 5, Điều 4 hoặc chủ sử dụng đất đề nghị tách thửa để chuyển đổi đất nông nghiệp với các chủ sử dụng đất giáp cận nhưng thửa đất mới hình thành nhỏ hơn diện tích tối thiểu tách thửa theo quy định tại Điểm b, Khoản 5, Điều 4 Quyết định này thì UBND cấp huyện có ý kiến từng trường hợp cụ thể vào đơn đề nghị tách thửa, hợp thửa đất. Văn phòng đăng ký đất đai chỉ được phép đo đạc tách thửa khi có ý kiến thống nhất của UBND cấp huyện.\n12. Một số trường hợp đặc biệt chưa được quy định\ntrong Quyết định này thì tùy vào từng trường hợp cụ thể phát sinh, UBND cấp huyện báo cáo, đề xuất UBND tỉnh xem xét giải quyết cụ thể. Những trường hợp không quy định trong Quyết định này nhưng diễn ra mang tính phổ biến thì UBND cấp huyện có trách nhiệm tổng hợp, báo cáo UBND tỉnh (thông qua Sở Tài nguyên và Môi trường) để xem xét, điều chỉnh cho phù hợp.\nĐiều 7. Tổ chức thực hiện\n1. Sở Tài nguyên và Môi trường\na) Phối hợp với các Sở, ngành tỉnh\nvà UBND cấp huyện triển khai thực hiện Quyết định này; định kỳ tổng hợp báo cáo, đề xuất UBND tỉnh chỉ đạo xử lý đối với các trường hợp phát sinh, vướng mắc trong quá trình thực hiện.\nb) Định kỳ hàng năm có kế hoạch tổ chức thanh tra,\nkiểm tra việc chấp hành các quy định về tách thửa đất, hợp thửa đất trên địa bàn tỉnh.\n2. Sở Xây dựng\na) Phối hợp với UBND cấp huyện kiểm tra việc đầu tư\nhạ tầng kỹ thuật, hạ tầng xã hội thuộc các dự án đầu tư xây dựng khu nhà ở.\nb) Hướng dẫn UBND cấp huyện xác định quy mô của các\ntuyến đường cấp khu vực trở lên.\n3. Ủy ban nhân dân cấp huyện\na) Chỉ đạo Phòng Tài nguyên và Môi trường chủ trì,\nphối hợp các phòng, ban liên quan và UBND cấp xã thẩm định nhu cầu, điều kiện chuyển mục đích sử dụng đất theo đúng quy định; xác minh, thẩm tra, tham mưu UBND cấp huyện có ý kiến vào đơn đề nghị tách thửa, hợp thửa đất.\nb) Chỉ đạo các phòng, ban trực thuộc, UBND cấp xã\nthường xuyên kiểm tra, xử lý các trường hợp tách thửa đất không đúng Quyết định này.\nc) Kiểm tra xử lý các trường hợp hộ gia đình, cá\nnhân tự ý tách thửa đất, chuyển nhượng bằng giấy tay, xây dựng nhà ở, công trình không phải là nhà ở trái phép khi chưa thực hiện thủ tục chuyển mục đích sử dụng đất theo quy định.\nd) Trong quá trình tổ chức thực hiện\nnếu có khó khăn, vướng mắc, vượt thẩm quyền; UBND cấp huyện kịp thời có báo cáo gửi về Sở Tài nguyên và Môi trường để phối hợp các ngành liên quan hướng dẫn giải quyết hoặc tổng hợp, báo cáo, đề xuất UBND tỉnh xem xét, giải quyết theo quy định.\n4. Chủ tịch UBND cấp xã, các tổ chức hành nghề đo đạc\nbản đồ hoạt động trên địa bàn tỉnh, thực hiện:\na) Chủ tịch UBND cấp xã có trách nhiệm quản lý, thường\nxuyên kiểm tra hiện trạng sử dụng đất, chịu trách nhiệm trước Chủ tịch UBND cấp huyện nếu để xảy ra tình trạng tự chia tách nhỏ thửa đất để chuyển nhượng, xây dựng công trình trái phép trên đất thuộc địa bàn quản lý.\nb) Các tổ chức hành nghề đo đạc bản\nđồ khi đo đạc theo hợp đồng của người sử dụng đất để thực hiện các giao dịch về quyền sử dụng đất không được tách thửa đất trái với quy định tại Quyết định này.\nĐiều 8. Xử lý chuyển tiếp Đối với hồ sơ xin tách thửa, hợp thửa đã nộp đầy đủ theo quy định tại bộ phận tiếp nhận và trả kết quả trước ngày Quyết định này có hiệu lực thì giải quyết theo quy định tại Quyết định số 26/2019/QĐ-UBND ngày 14/11/2019 của UBND tỉnh quy định diện tích tối thiểu được phép tách thửa đối với từng loại đất trên địa bàn tỉnh Trà Vinh và Quyết định số 22/2020/QĐ-UBND ngày 14/10/2020 của Ủy ban nhân dân tỉnh sửa đổi, bổ sung một số điều Quyết định số 26/2019/QĐ-UBND ngày 14/11/2019 của UBND tỉnh quy định diện tích tối thiểu được phép tách thửa đất đối với từng loại đất trên địa bàn tỉnh Trà Vinh.\nĐiều 9. Hiệu lực thi hành\n1. Quyết định này có hiệu lực từ ngày 29/11/2021 và\nthay thế Quyết định số 26/2019/QĐ-UBND ngày 14/11/2019 của UBND tỉnh quy định diện tích tối thiểu được phép tách thửa đối với từng loại đất trên địa bàn tỉnh Trà Vinh và Quyết định số 22/2020/QĐ-UBND ngày 14/10/2020 của UBND tỉnh sửa đổi, bổ sung một số điều Quyết định số 26/2019/QĐ-UBND ngày 14/11/2019 của UBND tỉnh quy định diện tích tối thiểu được phép tách thửa đất đối với từng loại đất trên địa bàn tỉnh Trà Vinh.\n2. Khi những văn bản dẫn chiếu tại Quyết định này\ncó thay đổi thì sẽ thực hiện theo quy định tại các văn bản thay đổi đó.\nĐiều 10. Chánh Văn phòng UBND tỉnh, Giám đốc các Sở: Tài nguyên và Môi trường, Xây dựng, Tư pháp, Thủ trưởng các Sở, Ban ngành tỉnh, Chủ tịch UBND các huyện, thị xã, thành phố, Chủ tịch UBND các xã, phường, thị trấn và các tổ chức, hộ gia đình, cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này./. TM. ỦY BAN NHÂN DÂN KT. CHỦ TỊCH PHÓ CHỦ TỊCH Nguyễn Quỳnh Thiện",
+  "tree": {
+    "parts": [
+      {
+        "part_id": "doc:242106:part:1",
+        "part_type": "main",
+        "part_title": null,
+        "reference": null,
+        "direct_text": "QUYẾT ĐỊNH QUY\nĐỊNH ĐIỀU KIỆN TÁCH THỬA, HỢP THỬA ĐẤT VÀ DIỆN TÍCH TỐI THIỂU ĐƯỢC TÁCH THỬA ĐỐI\nVỚI TỪNG LOẠI ĐẤT TRÊN ĐỊA BÀN TỈNH TRÀ VINH\nỦY BAN NHÂN DÂN TỈNH TRÀ VINH\nCăn cứ Luật Tổ chức chính quyền địa phương ngày 19/6/2015; Căn cứ Luật sửa đổi, bổ sung một số điều của Luật Tổ chức Chính phủ và Luật Tổ chức chính quyền địa phương ngày 22/11/2019; Căn cứ Luật Ban hành văn bản quy phạm pháp luật ngày 22/6/2015; Căn cứ Luật sửa đổi, bổ sung một số điều của Luật Ban hành văn bản quy phạm pháp luật ngày 18/6/2020; Căn cứ Luật Đất đai ngày 29/11/2013; Căn cứ Luật Kinh doanh bất động sản ngày 25/11/2014; Căn cứ Nghị định số 11/2010/NĐ-CP ngày 24/02/2010 của Chính phủ quy định về quản lý và bảo vệ kết cấu hạ tầng giao thông đường bộ; Căn cứ Nghị định số 100/2013/NĐ-CP ngày 03/9/2013 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 11/2010/NĐ-CP ngày 24/02/2010 của Chính phủ quy định về quản lý và bảo vệ kết cấu hạ tầng giao thông đường bộ; Căn cứ Nghị định số 76/2015/NĐ-CP ngày 10/9/2015 của Chính phủ quy định chi tiết thi hành một số điều của Luật Kinh doanh bất động sản; Căn cứ Nghị định số 148/2020/NĐ-CP ngày 18/12/2020 của Chính phủ sửa đổi, bổ sung một số nghị định quy định chi tiết thi hành Luật Đất đai; Căn cứ Thông tư số 01/2021/TT-BXD ngày 19/5/2021 của Bộ trưởng Bộ Xây dựng ban hành QCVN 01: 2021/BXD quy chuẩn kỹ thuật quốc gia về Quy hoạch xây dựng; Theo đề nghị của Giám đốc Sở Tài nguyên và Môi trường,\nQUYẾT ĐỊNH:",
+        "chapters": [],
+        "sections": [],
+        "articles": [
+          {
+            "article_id": "doc:242106:part:1:article:1",
+            "number": "1",
+            "title": "Phạm vi điều chỉnh",
+            "content": "Điều 1. Phạm vi điều chỉnh",
+            "clauses": [
+              {
+                "clause_id": "doc:242106:part:1:article:1:clause:1",
+                "number": "1",
+                "content": "1. Quy định điều kiện tách thửa, hợp thửa đất và diện\ntích tối thiểu được tách thửa đối với từng loại đất trên địa bàn tỉnh Trà Vinh.",
+                "points": []
+              },
+              {
+                "clause_id": "doc:242106:part:1:article:1:clause:2",
+                "number": "2",
+                "content": "2. Quyết định này không áp dụng cho các trường hợp\nsau:",
+                "points": [
+                  {
+                    "point_id": "doc:242106:part:1:article:1:clause:2:point:1",
+                    "label": "a",
+                    "content": "a) Tách thửa do Nhà nước thu hồi một phần thửa đất;\ngiảm diện tích do sạt lở tự nhiên; tách thửa theo quyết định hoặc bản án có hiệu lực thi hành của Tòa án; kết quả hòa giải thành; quyết định hành chính về giải quyết liên quan tranh chấp đất đai; quyết định thi hành án của cơ quan thi hành án.",
+                    "children": []
+                  },
+                  {
+                    "point_id": "doc:242106:part:1:article:1:clause:2:point:2",
+                    "label": "b",
+                    "content": "b) Tách thửa nhằm thực hiện các quy định về chế độ,\nchính sách theo quy định của pháp luật hiện hành.",
+                    "children": []
+                  },
+                  {
+                    "point_id": "doc:242106:part:1:article:1:clause:2:point:3",
+                    "label": "c",
+                    "content": "c) Các trường hợp thừa kế quyền sử dụng đất hoặc thừa\nkế nhà ở, tài sản gắn liền với quyền sử dụng đất theo quy định của pháp luật.",
+                    "children": []
+                  },
+                  {
+                    "point_id": "doc:242106:part:1:article:1:clause:2:point:4",
+                    "label": "d",
+                    "content": "d) Người sử dụng đất thỏa thuận bồi thường hoặc nhận\nchuyển nhượng quyền sử dụng đất để thực hiện dự án đầu tư đã được cơ quan có thẩm quyền phê duyệt.",
+                    "children": []
+                  },
+                  {
+                    "point_id": "doc:242106:part:1:article:1:clause:2:point:5",
+                    "label": "đ",
+                    "content": "đ) Tách thửa đất đối với các\ntrường hợp đã có quy hoạch chi tiết xây dựng được cơ quan có thẩm quyền phê duyệt; các dự án đầu tư được cơ quan có thẩm quyền quyết định, chấp thuận chủ trương đầu tư.",
+                    "children": []
+                  },
+                  {
+                    "point_id": "doc:242106:part:1:article:1:clause:2:point:6",
+                    "label": "e",
+                    "content": "e) Mua bán nhà thuộc\nsở hữu Nhà nước theo quy định của pháp luật; nhận chuyển nhượng quyền sử dụng đất để làm đường đi, đường dẫn nước,thoátnước.",
+                    "children": []
+                  },
+                  {
+                    "point_id": "doc:242106:part:1:article:1:clause:2:point:7",
+                    "label": "g",
+                    "content": "g) Tách thửa\nđất khi phân chia quyền sử dụng đất, tài sản gắn liền với đất theo thỏa thuận của hộ gia đình.",
+                    "children": []
+                  }
+                ]
+              }
+            ],
+            "points": []
+          },
+          {
+            "article_id": "doc:242106:part:1:article:2",
+            "number": "2",
+            "title": "Đối tượng áp dụng",
+            "content": "Điều 2. Đối tượng áp dụng",
+            "clauses": [
+              {
+                "clause_id": "doc:242106:part:1:article:2:clause:1",
+                "number": "1",
+                "content": "1. Cơ quan nhà nước có thẩm quyền, tổ chức có chức\nnăng thực hiện thủ tục tách thửa, hợp thửa theo quy định của pháp luật.",
+                "points": []
+              },
+              {
+                "clause_id": "doc:242106:part:1:article:2:clause:2",
+                "number": "2",
+                "content": "2. Tổ chức, hộ gia đình, cá nhân sử dụng đất (gọi tắt\nlà người sử dụng đất) có yêu cầu tách thửa, hợp thửa để thực hiện các quyền theo quy định của Luật Đất đai, thực hiện dự án đầu tư đã được cơ quan có thẩm quyền phê duyệt.",
+                "points": []
+              }
+            ],
+            "points": []
+          },
+          {
+            "article_id": "doc:242106:part:1:article:3",
+            "number": "3",
+            "title": "Nguyên tắc thực hiện tách thửa đất, hợp thửa đất",
+            "content": "Điều 3. Nguyên tắc thực hiện tách thửa đất, hợp thửa đất",
+            "clauses": [
+              {
+                "clause_id": "doc:242106:part:1:article:3:clause:1",
+                "number": "1",
+                "content": "1. Khuyến khích hộ gia đình, cá nhân tập trung,\ntích tụ đất đai để sản xuất nông nghiệp theo mô hình tập trung quy mô lớn và sử dụng cho kinh tế trang trại theo quy định tại Điều 142 Luật Đất đai ngày 29/11/2013; hạn chế việc chia tách manh mún đất nông nghiệp, dẫn đến lãng phí việc khai thác sử dụng quỹ đất nông nghiệp trong quá trình công nghiệp hóa, hiện đại hóa nông nghiệp, nông thôn.",
+                "points": []
+              },
+              {
+                "clause_id": "doc:242106:part:1:article:3:clause:2",
+                "number": "2",
+                "content": "2. Việc tách thửa đất để chuyển mục đích sử dụng đất\nphải phù hợp kế hoạch sử dụng đất hàng năm của cấp huyện và quy hoạch chi tiết xây dựng được cơ quan có thẩm quyền phê duyệt theo quy định.",
+                "points": []
+              },
+              {
+                "clause_id": "doc:242106:part:1:article:3:clause:3",
+                "number": "3",
+                "content": "3. Thửa đất mới hình thành bao gồm: Thửa đất mới\ntách ra và thửa đất còn lại; đối với đất phi nông nghiệp, đất nông nghiệp tách thửa để chuyển mục đích sử dụng sang đất phi nông nghiệp phải có ít nhất một cạnh tiếp giáp với công trình công cộng hiện hữu (gồm các đường giao thông đã được xác định trong Bảng giá đất 05 năm (2020 - 2024) trên địa bàn tỉnh Trà Vinh ban hành kèm theo các quyết định: số 35/2019/QĐ-UBND ngày 20/12/2019, số 19/2020/QĐ-UBND ngày 29/7/2020 và số 29/2020/QĐ-UBND ngày 25/12/2020 của Ủy ban nhân dân tỉnh; đường giao thông còn lại, đê điều, sông, kênh, rạch công cộng đã được thể hiện trên bản đồ địa chính).",
+                "points": []
+              }
+            ],
+            "points": []
+          },
+          {
+            "article_id": "doc:242106:part:1:article:4",
+            "number": "4",
+            "title": "Điều kiện tách thửa đất, hợp thửa đất; diện tích, kích thước tối thiểu được tách thửa đối với từng loại đất",
+            "content": "Điều 4. Điều kiện tách thửa đất, hợp thửa đất; diện tích, kích thước tối thiểu được tách thửa đối với từng loại đất",
+            "clauses": [
+              {
+                "clause_id": "doc:242106:part:1:article:4:clause:1",
+                "number": "1",
+                "content": "1. Điều kiện được tách thửa đất: Thửa đất đã được cấp\nGiấy chứng nhận quyền sử dụng đất; Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất; Giấy chứng nhận quyền sở hữu công trình xây dựng theo quy định tại khoản 2, Điều 97 Luật Đất đai ngày 29/11/2013.",
+                "points": []
+              },
+              {
+                "clause_id": "doc:242106:part:1:article:4:clause:2",
+                "number": "2",
+                "content": "2. Điều kiện hợp thửa đất:",
+                "points": [
+                  {
+                    "point_id": "doc:242106:part:1:article:4:clause:2:point:1",
+                    "label": "a",
+                    "content": "a) Các thửa đất phải cùng chủ sử dụng đất; trường hợp\nkhông cùng chủ sử dụng thì phải thực hiện chuyển quyền sử dụng đất trước hoặc đồng thời với hợp thửa.",
+                    "children": []
+                  },
+                  {
+                    "point_id": "doc:242106:part:1:article:4:clause:2:point:2",
+                    "label": "b",
+                    "content": "b) Các thửa đất phải cùng mục đích sử dụng đất; trường\nhợp khác mục đích sử dụng đất thì phải thực hiện chuyển mục đích sử dụng đất trước khi hợp thửa đất.",
+                    "children": []
+                  },
+                  {
+                    "point_id": "doc:242106:part:1:article:4:clause:2:point:3",
+                    "label": "c",
+                    "content": "c) Hợp thửa của một phần thửa đất (hoặc thửa đất) với\nthửa đất liền kề đã được cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất theo quy định để tạo thành thửa đất mới.",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "clause_id": "doc:242106:part:1:article:4:clause:3",
+                "number": "3",
+                "content": "3. Không được tách thửa đất, hợp thửa đất trong các\ntrường hợp sau:",
+                "points": [
+                  {
+                    "point_id": "doc:242106:part:1:article:4:clause:3:point:1",
+                    "label": "a",
+                    "content": "a) Thửa đất nằm trong khu vực đã có thông báo thu hồi\nđất hoặc quyết định thu hồi đất của cơ quan nhà nước cóthẩm quyền.",
+                    "children": []
+                  },
+                  {
+                    "point_id": "doc:242106:part:1:article:4:clause:3:point:2",
+                    "label": "b",
+                    "content": "b) Thửa đất đang có tranh chấp, khiếu nại, tố cáo về\nđất đai và đang được cơ quan có thẩm quyền thụ lý giải quyết.",
+                    "children": []
+                  },
+                  {
+                    "point_id": "doc:242106:part:1:article:4:clause:3:point:3",
+                    "label": "c",
+                    "content": "c) Thửa đất hoặc tài sản gắn liền với thửa đất đang\nbị các cơ quan có thẩm quyền thực hiện các biện pháp ngăn chặn để thực hiện quyết định của cơ quan nhà nước có thẩm quyền hoặc bản án của Tòa án.",
+                    "children": []
+                  },
+                  {
+                    "point_id": "doc:242106:part:1:article:4:clause:3:point:4",
+                    "label": "d",
+                    "content": "d) Người sử dụng đất vi phạm quy định của pháp luật\nvề đất đai trong quá trình sử dụng đất có kết luận của cơ quan có thẩm quyền.",
+                    "children": []
+                  },
+                  {
+                    "point_id": "doc:242106:part:1:article:4:clause:3:point:5",
+                    "label": "đ",
+                    "content": "đ) Thửa đất không được tách thửa, hợp thửa theo các\nquy định khác của pháp luật.",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "clause_id": "doc:242106:part:1:article:4:clause:4",
+                "number": "4",
+                "content": "4. Trường hợp đề nghị tách thửa đất phi nông nghiệp,\nđất nông nghiệp để chuyển mục đích sử dụng đất sang đất phi nông nghiệp mà không tiếp giáp với công trình công cộng hiện hữu, Ủy ban nhân dân các huyện, thị xã, thành phố (sau đây gọi tắt là UBND cấp huyện) phải có ý kiến vào đơn đề nghị tách thửa đất, hợp thửa đất. Văn phòng Đăng ký đất đai chỉ được phép đo đạc tách thửa khi có ý kiến thống nhất của UBND cấp huyện.",
+                "points": []
+              },
+              {
+                "clause_id": "doc:242106:part:1:article:4:clause:5",
+                "number": "5",
+                "content": "5. Diện tích, kích thước tối thiểu được tách thửa đối\nvới từng loại đất",
+                "points": [
+                  {
+                    "point_id": "doc:242106:part:1:article:4:clause:5:point:1",
+                    "label": "a",
+                    "content": "a) Diện tích, kích thước tối thiểu của thửa đất mới\nhình thành đối với đất phi nông nghiệp theo quy định sau:\nSTT\nĐơn vị hành chính Tiếp giáp công trình công cộng hiện hữu có hành lang bảo vệ an toàn (HLBVAT) công trình ≥ 19m Tiếp giáp công trình công cộng hiện hữu có HLBVAT công trình < 19m hoặc không quy định HLBVAT công trình Diện tích tối thiểu (m2) Chiều rộng mặt tiền tối thiểu (m) Diện tích tối thiểu (m2) Chiều rộng mặt tiền tối thiểu (m) 1 Các phường, thị trấn 45 05 36 04 2 Các xã 50 05 40 04",
+                    "children": []
+                  },
+                  {
+                    "point_id": "doc:242106:part:1:article:4:clause:5:point:2",
+                    "label": "b",
+                    "content": "b) Diện tích tối thiểu của thửa đất mới hình thành\nđối với đất nông nghiệp theo quy định như sau: Đơn vị (m2)\nSTT\nĐơn vị hành chính Đất trồng lúa, đất nuôi trồng thủy sản, đất lâm nghiệp Đất nông nghiệp còn lại 1 Các phường, thị trấn 1.000 500 2 Các xã",
+                    "children": []
+                  },
+                  {
+                    "point_id": "doc:242106:part:1:article:4:clause:5:point:3",
+                    "label": "c",
+                    "content": "c) Trường hợp thửa đất yêu cầu tách thửa có hình dạng\nđặc biệt (hình thể không giống như hình chữ nhật, hình thang) thì diện tích phải đảm bảo theo quy định tại Điểm a, Điểm b, Khoản này.",
+                    "children": []
+                  }
+                ]
+              }
+            ],
+            "points": []
+          },
+          {
+            "article_id": "doc:242106:part:1:article:5",
+            "number": "5",
+            "title": "Điều kiện tách thửa đất ở hoặc các loại đất khác để chuyển mục đích sang đất ở nhằm chuyển nhượng quyền sử dụng đất thuộc khu vực được phép phân lô, bán nền",
+            "content": "Điều 5. Điều kiện tách thửa đất ở hoặc các loại đất khác để chuyển mục đích sang đất ở nhằm chuyển nhượng quyền sử dụng đất thuộc khu vực được phép phân lô, bán nền",
+            "clauses": [
+              {
+                "clause_id": "doc:242106:part:1:article:5:clause:1",
+                "number": "1",
+                "content": "1. Phù hợp với kế hoạch sử dụng đất hàng năm của cấp\nhuyện đã được phê duyệt.",
+                "points": []
+              },
+              {
+                "clause_id": "doc:242106:part:1:article:5:clause:2",
+                "number": "2",
+                "content": "2. Không nằm trong các khu vực có yêu cầu cao về kiến\ntrúc cảnh quan, khu vực trung tâm và xung quanh các công trình là điểm nhấn kiến trúc trong đô thị; mặt tiền các tuyến đường cấp khu vực trở lên và các tuyến đường cảnh quan chính trong đô thị theo quy định tại Khoản 17, Điều 1 Nghị định số 148/2020/NĐ-CP ngày 18/12/2020 của Chính phủ.",
+                "points": []
+              },
+              {
+                "clause_id": "doc:242106:part:1:article:5:clause:3",
+                "number": "3",
+                "content": "3. Thuộc các khu vực được chuyển nhượng quyền sử dụng\nđất dưới hình thức phân lô, bán nền do UBND tỉnh công bố công khai.",
+                "points": []
+              },
+              {
+                "clause_id": "doc:242106:part:1:article:5:clause:4",
+                "number": "4",
+                "content": "4. Đối với thửa đất, khu đất có diện tích từ mười\n(10) lần hạn mức giao đất ở cho hộ gia đình, cá nhân để làm nhà ở trên địa bàn tỉnh theo Quyết định số 41/2014/QĐ-UBND ngày 26/12/2014 của UBND tỉnh (gọi tắt là hạn mức giao đất ở cho hộ gia đình, cá nhân) trở lên mà thửa đất mới hình thành không tiếp giáp với công trình công cộng hiện hữu thì người sử dụng đất phải lập dự án đầu tư trình cấp có thẩm quyền phê duyệt và triển khai thực hiện dự án theo quy định. Đối với dự án có tổng mức đầu tư từ 20 (hai mươi) tỷ đồng trở lên, thì nộp hồ sơ tại Sở Kế hoạch và Đầu tư; đối với dự án có tổng mức đầu tư dưới 20 (hai mươi) tỷ đồng, thì nộp hồ sơ tại UBND cấp huyện.",
+                "points": []
+              },
+              {
+                "clause_id": "doc:242106:part:1:article:5:clause:5",
+                "number": "5",
+                "content": "5. Đối với thửa đất, khu đất có diện tích dưới mười\n(10) lần hạn mức giao đất ở cho hộ gia đình, cá nhân mà thửa đất mới hình thành không tiếp giáp với công trình công cộng hiện hữu thì được thực hiện theo quy định tại Điều 4 Quyết định này hoặc lựa chọn hình thức lập dự án đầu tư theo quy định tại Khoản 4, Điều này.",
+                "points": []
+              }
+            ],
+            "points": []
+          },
+          {
+            "article_id": "doc:242106:part:1:article:6",
+            "number": "6",
+            "title": "Một số trường hợp quy định cụ thể về tách thửa từng loại đất",
+            "content": "Điều 6. Một số trường hợp quy định cụ thể về tách thửa từng loại đất\n1. Thửa đất đang sử dụng được hình thành trước ngày\nQuyết định này có hiệu lực thi hành thì được cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất nếu đủ điều kiện theo quy định của pháp luật về đất đai.\n2. Trường hợp người sử dụng đất yêu cầu tách thửa\nmà thửa đất mới hình thành có diện tích hoặc kích thước không phù hợp với quy định tại Khoản 5, Điều 4 Quyết định này, đồng thời với việc xin được hợp thửa đất đó với thửa đất khác liền kề đã được cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất theo quy định để tạo thành thửa đất mới thì được phép tách thửa, hợp thửa và cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất. Trường hợp thửa đất yêu cầu tách thửa và thửa đất liền kề khác chủ sử dụng, khác loại đất thì thực hiện đồng thời thủ tục chuyển quyền sử dụng đất, chuyển mục đích sử dụng đất và hợp thửa đất theo quy định.\n3. Trường hợp tách thửa đất nông nghiệp để chuyển mục\nđích sang đất phi nông nghiệp phù hợp với kế hoạch sử dụng đất hàng năm của cấp huyện được UBND tỉnh phê duyệt thì phải thực hiện thủ tục tách thửa đồng thời với thủ tục chuyển mục đích sử dụng đất; diện tích, kích thước tối thiểu được phép tách thửa đất của thửa đất mới hình thành áp dụng theo loại đất xin chuyển mục đích được quy định tại Điểm a, Khoản 5, Điều 4 Quyết định này. Trường hợp thửa mới tách ra (thửa xin chuyển mục đích sử dụng đất), nằm trong ranh giới thửa đất còn lại đã tiếp giáp công trình công cộng hiện hữu để chuyển mục đích sang đất ở hoặc đất phi nông nghiệp không phải là đất ở phù hợp với kế hoạch sử dụng đất hàng năm của cấp huyện đã được UBND tỉnh phê duyệt thì diện tích, kích thước tối thiểu được phép tách thửa đất được áp dụng tại Điểm a, Khoản 5, Điều 4 Quyết định này.\n4. Trường hợp thửa đất có đất ở ghép với đất nông\nnghiệp, khi tách thửa cùng có hai mục đích sử dụng thì diện tích, kích thước thửa đất ở phải theo quy định tại Điểm a, Khoản 5, Điều 4, đất nông nghiệp không áp dụng Quyết định này. Trường hợp thửa đất mới hình thành không tiếp giáp với công trình công cộng hiện hữu thì UBND cấp huyện phải có ý kiến vào đơn đề nghị tách thửa đất, hợp thửa đất trước khi thực hiện.\n5. Được phép tách thửa đối với thửa đất (trọn thửa)\nthuộc hành lang bảo vệ an toàn công trình công cộng; diện tích, kích thước theo quy định tại Điều 4 Quyết định này. Trong quá trình quản lý, sử dụng đối với trường hợp này phải tuân thủ theo quy định về quản lý và bảo vệ công trình công cộng hiện hành.\n6. Đối với thửa đất phi nông nghiệp\nthuộc khu vực đã có quy hoạch sử dụng đất hoặc quy hoạch xây dựng hoặc quy hoạch đô thị mà quy hoạch đó có quy định cụ thể về diện tích, kích thước từng thửa đất thì áp dụng diện tích, kích thước theo quy hoạch đó.\n7. Các trường hợp tặng cho quyền sử dụng đất, tài sản\ngắn liền với quyền sử dụng đất giữa cha, mẹ (kể cả cha nuôi, mẹ nuôi) với con (kể cả con nuôi, con dâu, con rễ); giữa anh, chị, em ruột với nhau; giữa ông bà nội, ông bà ngoại với cháu ruột mà không phù hợp quy định tại Khoản 5, Điều 4 Quyết định này. UBND cấp huyện có ý kiến từng trường hợp cụ thể vào đơn đề nghị tách thửa đất, hợp thửa đất. Văn phòng đăng ký đất đai chỉ đo đạc tách thửa khi có ý kiến thống nhất của UBND cấp huyện.\n8. Trường hợp người sử dụng đất có nhu cầu tách thửa\nđất qua 02 (hai) thửa đất liền kề, trong đó vừa tách thửa đất phi nông nghiệp không tiếp giáp công trình công cộng hiện hữu do bị cách bởi thửa đất nông nghiệp của cùng chủ sử dụng (thửa đất nông nghiệp nằm trong hành lang bảo vệ an toàn công trình công cộng hoặc nằm trong ranh giới quy hoạch hoặc bao quanh thửa đất phi nông nghiệp) thì được phép tách thửa; diện tích, kích thước tối thiểu tách thửa đất phi nông nghiệp theo quy định tại Điểm a, Khoản 5, Điều 4, thửa đất nông nghiệp không áp dụng theo Quyết định này.\n9. Trường hợp người sử dụng đất xin tách thửa đất\nmà hiện trạng có mồ mã thì được phép tách thửa; diện tích, kích thước thửa đất tách ra (có mồ mã) theo quy định tại Điểm a, Khoản 5, Điều 4 Quyết định này.\n10. Thửa đất được hình thành do người sử dụng đất tự\nchia tách ra từ thửa đất đang sử dụng mà thửa đất đó có diện tích, kích thước nhỏ hơn diện tích, kích thước tối thiểu được phép tách thửa theo quy định tại Khoản 5, Điều 4 Quyết định này thì không được công nhận là thửa đất; không được làm thủ tục thực hiện các quyền của người sử dụng đất theo quy định tại Khoản 2, Điều 29 Nghị định số 43/2014/NĐ-CP ngày 15/5/2014 của Chính phủ và không được cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất.\n11. Trường hợp thửa đất nông nghiệp còn lại sau khi\ntách thửa có diện tích nhỏ hơn diện tích tối thiểu tách thửa theo quy định tại Điểm b, Khoản 5, Điều 4 hoặc chủ sử dụng đất đề nghị tách thửa để chuyển đổi đất nông nghiệp với các chủ sử dụng đất giáp cận nhưng thửa đất mới hình thành nhỏ hơn diện tích tối thiểu tách thửa theo quy định tại Điểm b, Khoản 5, Điều 4 Quyết định này thì UBND cấp huyện có ý kiến từng trường hợp cụ thể vào đơn đề nghị tách thửa, hợp thửa đất. Văn phòng đăng ký đất đai chỉ được phép đo đạc tách thửa khi có ý kiến thống nhất của UBND cấp huyện.\n12. Một số trường hợp đặc biệt chưa được quy định\ntrong Quyết định này thì tùy vào từng trường hợp cụ thể phát sinh, UBND cấp huyện báo cáo, đề xuất UBND tỉnh xem xét giải quyết cụ thể. Những trường hợp không quy định trong Quyết định này nhưng diễn ra mang tính phổ biến thì UBND cấp huyện có trách nhiệm tổng hợp, báo cáo UBND tỉnh (thông qua Sở Tài nguyên và Môi trường) để xem xét, điều chỉnh cho phù hợp.",
+            "clauses": [],
+            "points": []
+          },
+          {
+            "article_id": "doc:242106:part:1:article:7",
+            "number": "7",
+            "title": "Tổ chức thực hiện",
+            "content": "Điều 7. Tổ chức thực hiện",
+            "clauses": [
+              {
+                "clause_id": "doc:242106:part:1:article:7:clause:1",
+                "number": "1",
+                "content": "1. Sở Tài nguyên và Môi trường",
+                "points": [
+                  {
+                    "point_id": "doc:242106:part:1:article:7:clause:1:point:1",
+                    "label": "a",
+                    "content": "a) Phối hợp với các Sở, ngành tỉnh\nvà UBND cấp huyện triển khai thực hiện Quyết định này; định kỳ tổng hợp báo cáo, đề xuất UBND tỉnh chỉ đạo xử lý đối với các trường hợp phát sinh, vướng mắc trong quá trình thực hiện.",
+                    "children": []
+                  },
+                  {
+                    "point_id": "doc:242106:part:1:article:7:clause:1:point:2",
+                    "label": "b",
+                    "content": "b) Định kỳ hàng năm có kế hoạch tổ chức thanh tra,\nkiểm tra việc chấp hành các quy định về tách thửa đất, hợp thửa đất trên địa bàn tỉnh.",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "clause_id": "doc:242106:part:1:article:7:clause:2",
+                "number": "2",
+                "content": "2. Sở Xây dựng",
+                "points": [
+                  {
+                    "point_id": "doc:242106:part:1:article:7:clause:2:point:1",
+                    "label": "a",
+                    "content": "a) Phối hợp với UBND cấp huyện kiểm tra việc đầu tư\nhạ tầng kỹ thuật, hạ tầng xã hội thuộc các dự án đầu tư xây dựng khu nhà ở.",
+                    "children": []
+                  },
+                  {
+                    "point_id": "doc:242106:part:1:article:7:clause:2:point:2",
+                    "label": "b",
+                    "content": "b) Hướng dẫn UBND cấp huyện xác định quy mô của các\ntuyến đường cấp khu vực trở lên.",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "clause_id": "doc:242106:part:1:article:7:clause:3",
+                "number": "3",
+                "content": "3. Ủy ban nhân dân cấp huyện",
+                "points": [
+                  {
+                    "point_id": "doc:242106:part:1:article:7:clause:3:point:1",
+                    "label": "a",
+                    "content": "a) Chỉ đạo Phòng Tài nguyên và Môi trường chủ trì,\nphối hợp các phòng, ban liên quan và UBND cấp xã thẩm định nhu cầu, điều kiện chuyển mục đích sử dụng đất theo đúng quy định; xác minh, thẩm tra, tham mưu UBND cấp huyện có ý kiến vào đơn đề nghị tách thửa, hợp thửa đất.",
+                    "children": []
+                  },
+                  {
+                    "point_id": "doc:242106:part:1:article:7:clause:3:point:2",
+                    "label": "b",
+                    "content": "b) Chỉ đạo các phòng, ban trực thuộc, UBND cấp xã\nthường xuyên kiểm tra, xử lý các trường hợp tách thửa đất không đúng Quyết định này.",
+                    "children": []
+                  },
+                  {
+                    "point_id": "doc:242106:part:1:article:7:clause:3:point:3",
+                    "label": "c",
+                    "content": "c) Kiểm tra xử lý các trường hợp hộ gia đình, cá\nnhân tự ý tách thửa đất, chuyển nhượng bằng giấy tay, xây dựng nhà ở, công trình không phải là nhà ở trái phép khi chưa thực hiện thủ tục chuyển mục đích sử dụng đất theo quy định.",
+                    "children": []
+                  },
+                  {
+                    "point_id": "doc:242106:part:1:article:7:clause:3:point:4",
+                    "label": "d",
+                    "content": "d) Trong quá trình tổ chức thực hiện\nnếu có khó khăn, vướng mắc, vượt thẩm quyền; UBND cấp huyện kịp thời có báo cáo gửi về Sở Tài nguyên và Môi trường để phối hợp các ngành liên quan hướng dẫn giải quyết hoặc tổng hợp, báo cáo, đề xuất UBND tỉnh xem xét, giải quyết theo quy định.",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "clause_id": "doc:242106:part:1:article:7:clause:4",
+                "number": "4",
+                "content": "4. Chủ tịch UBND cấp xã, các tổ chức hành nghề đo đạc\nbản đồ hoạt động trên địa bàn tỉnh, thực hiện:",
+                "points": [
+                  {
+                    "point_id": "doc:242106:part:1:article:7:clause:4:point:1",
+                    "label": "a",
+                    "content": "a) Chủ tịch UBND cấp xã có trách nhiệm quản lý, thường\nxuyên kiểm tra hiện trạng sử dụng đất, chịu trách nhiệm trước Chủ tịch UBND cấp huyện nếu để xảy ra tình trạng tự chia tách nhỏ thửa đất để chuyển nhượng, xây dựng công trình trái phép trên đất thuộc địa bàn quản lý.",
+                    "children": []
+                  },
+                  {
+                    "point_id": "doc:242106:part:1:article:7:clause:4:point:2",
+                    "label": "b",
+                    "content": "b) Các tổ chức hành nghề đo đạc bản\nđồ khi đo đạc theo hợp đồng của người sử dụng đất để thực hiện các giao dịch về quyền sử dụng đất không được tách thửa đất trái với quy định tại Quyết định này.",
+                    "children": []
+                  }
+                ]
+              }
+            ],
+            "points": []
+          },
+          {
+            "article_id": "doc:242106:part:1:article:8",
+            "number": "8",
+            "title": "Xử lý chuyển tiếp Đối với hồ sơ xin tách thửa, hợp thửa đã nộp đầy đủ theo quy định tại bộ phận tiếp nhận và trả kết quả trước ngày Quyết định này có hiệu lực thì giải quyết theo quy định tại Quyết định số 26/2019/QĐ-UBND ngày 14/11/2019 của UBND tỉnh quy định diện tích tối thiểu được phép tách thửa đối với từng loại đất trên địa bàn tỉnh Trà Vinh và Quyết định số 22/2020/QĐ-UBND ngày 14/10/2020 của Ủy ban nhân dân tỉnh sửa đổi, bổ sung một số điều Quyết định số 26/2019/QĐ-UBND ngày 14/11/2019 của UBND tỉnh quy định diện tích tối thiểu được phép tách thửa đất đối với từng loại đất trên địa bàn tỉnh Trà Vinh.",
+            "content": "Điều 8. Xử lý chuyển tiếp Đối với hồ sơ xin tách thửa, hợp thửa đã nộp đầy đủ theo quy định tại bộ phận tiếp nhận và trả kết quả trước ngày Quyết định này có hiệu lực thì giải quyết theo quy định tại Quyết định số 26/2019/QĐ-UBND ngày 14/11/2019 của UBND tỉnh quy định diện tích tối thiểu được phép tách thửa đối với từng loại đất trên địa bàn tỉnh Trà Vinh và Quyết định số 22/2020/QĐ-UBND ngày 14/10/2020 của Ủy ban nhân dân tỉnh sửa đổi, bổ sung một số điều Quyết định số 26/2019/QĐ-UBND ngày 14/11/2019 của UBND tỉnh quy định diện tích tối thiểu được phép tách thửa đất đối với từng loại đất trên địa bàn tỉnh Trà Vinh.",
+            "clauses": [],
+            "points": []
+          },
+          {
+            "article_id": "doc:242106:part:1:article:9",
+            "number": "9",
+            "title": "Hiệu lực thi hành",
+            "content": "Điều 9. Hiệu lực thi hành",
+            "clauses": [
+              {
+                "clause_id": "doc:242106:part:1:article:9:clause:1",
+                "number": "1",
+                "content": "1. Quyết định này có hiệu lực từ ngày 29/11/2021 và\nthay thế Quyết định số 26/2019/QĐ-UBND ngày 14/11/2019 của UBND tỉnh quy định diện tích tối thiểu được phép tách thửa đối với từng loại đất trên địa bàn tỉnh Trà Vinh và Quyết định số 22/2020/QĐ-UBND ngày 14/10/2020 của UBND tỉnh sửa đổi, bổ sung một số điều Quyết định số 26/2019/QĐ-UBND ngày 14/11/2019 của UBND tỉnh quy định diện tích tối thiểu được phép tách thửa đất đối với từng loại đất trên địa bàn tỉnh Trà Vinh.",
+                "points": []
+              },
+              {
+                "clause_id": "doc:242106:part:1:article:9:clause:2",
+                "number": "2",
+                "content": "2. Khi những văn bản dẫn chiếu tại Quyết định này\ncó thay đổi thì sẽ thực hiện theo quy định tại các văn bản thay đổi đó.",
+                "points": []
+              }
+            ],
+            "points": []
+          },
+          {
+            "article_id": "doc:242106:part:1:article:10",
+            "number": "10",
+            "title": "Chánh Văn phòng UBND tỉnh, Giám đốc các Sở: Tài nguyên và Môi trường, Xây dựng, Tư pháp, Thủ trưởng các Sở, Ban ngành tỉnh, Chủ tịch UBND các huyện, thị xã, thành phố, Chủ tịch UBND các xã, phường, thị trấn và các tổ chức, hộ gia đình, cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này./. TM. ỦY BAN NHÂN DÂN KT. CHỦ TỊCH PHÓ CHỦ TỊCH Nguyễn Quỳnh Thiện",
+            "content": "Điều 10. Chánh Văn phòng UBND tỉnh, Giám đốc các Sở: Tài nguyên và Môi trường, Xây dựng, Tư pháp, Thủ trưởng các Sở, Ban ngành tỉnh, Chủ tịch UBND các huyện, thị xã, thành phố, Chủ tịch UBND các xã, phường, thị trấn và các tổ chức, hộ gia đình, cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này./. TM. ỦY BAN NHÂN DÂN KT. CHỦ TỊCH PHÓ CHỦ TỊCH Nguyễn Quỳnh Thiện",
+            "clauses": [],
+            "points": []
+          }
+        ],
+        "unstructured_blocks": []
+      }
+    ]
+  },
+  "issues": [],
+  "status": "ok",
+  "source_hash": "context_242106.json",
+  "stats": {
+    "source_chars": 18875,
+    "passage_chars": 18702,
+    "parts": 1,
+    "chapters": 0,
+    "sections": 0,
+    "articles": 10,
+    "clauses": 23,
+    "points": 28
+  }
+}

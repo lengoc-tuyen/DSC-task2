@@ -1,0 +1,408 @@
+{
+  "schema_version": "2.0",
+  "document_id": 255110,
+  "metadata": {
+    "name": "Quyet-dinh-3511-QD-BHXH-2022-Quy-trinh-dang-ky-bao-hiem-xa-hoi-tu-nguyen-tren-Cong-Dich-vu-cong-5410",
+    "link": "https://thuvienphapluat.vn/van-ban/Bao-hiem/Quyet-dinh-3511-QD-BHXH-2022-Quy-trinh-dang-ky-bao-hiem-xa-hoi-tu-nguyen-tren-Cong-Dich-vu-cong-541002.aspx",
+    "issuing_agency": "BẢO HIỂM XÃ HỘI VIỆT NAM",
+    "national_header": "CỘNG\r\n\n  HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM",
+    "motto": "Độc lập - Tự do - Hạnh phúc",
+    "document_number": "3511/QĐ-BHXH",
+    "issued_place": "Hà Nội",
+    "issued_date": "ngày 21 tháng 11\r\n\n  năm 2022",
+    "document_type": "QUYẾT ĐỊNH",
+    "title": "BAN HÀNH QUY TRÌNH ĐĂNG KÝ THAM GIA BẢO HIỂM XÃ HỘI TỰ NGUYỆN TRÊN CỔNG DỊCH VỤ CÔNG THEO QUYẾT ĐỊNH SỐ 422/QĐ-TTG NGÀY 04/4/2022 CỦA THỦ TƯỚNG CHÍNH PHỦ PHÊ DUYỆT DANH MỤC DỊCH VỤ CÔNG TRỰC TUYẾN TÍCH HỢP, CUNG CẤP TRÊN CỔNG DỊCH VỤ CÔNG QUỐC GIA NĂM 2022 TỔNG GIÁM ĐỐC BẢO HIỂM XÃ HỘI VIỆT NAM"
+  },
+  "administrative_header": {
+    "removed": true,
+    "removed_char_count": 162
+  },
+  "preamble": {
+    "text": "QUYẾT ĐỊNH\nBAN HÀNH QUY TRÌNH ĐĂNG KÝ THAM GIA BẢO HIỂM XÃ HỘI TỰ NGUYỆN TRÊN CỔNG\nDỊCH VỤ CÔNG THEO QUYẾT ĐỊNH SỐ 422/QĐ-TTG NGÀY 04/4/2022 CỦA THỦ TƯỚNG CHÍNH\nPHỦ PHÊ DUYỆT DANH MỤC DỊCH VỤ CÔNG TRỰC TUYẾN TÍCH HỢP, CUNG CẤP TRÊN CỔNG DỊCH\nVỤ CÔNG QUỐC GIA NĂM 2022\nTỔNG GIÁM ĐỐC BẢO HIỂM XÃ HỘI VIỆT NAM\nCăn cứ Luật Giao dịch điện tử ngày 29 tháng 11 năm 2005; Căn cứ Luật Bảo hiểm xã hội ngày 20 tháng 11 năm 2014: Căn cứ Nghị định số 134/2015/NĐ-CP ngày 29 tháng 12 năm 2015 của Chính phủ quy định chi tiết một số điều của Luật Bảo hiểm xã hội về bảo hiểm xã hội tự nguyện; Căn cứ Nghị định số 45/2020/NĐ-CP ngày 08 tháng 4 năm 2020 của Chính phủ về thực hiện thủ tục hành chính trên môi trường điện tử; Căn cứ Nghị định số 89/2020/NĐ-CP ngày 04 tháng 8 năm 2020 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bảo hiểm xã hội Việt Nam; Căn cứ Quyết định số 06/QĐ-TTg ngày 06 tháng 01 năm 2022 của Thủ tướng Chính phủ phê duyệt Đề án phát triển ứng dụng dữ liệu về dân cư, định danh và xác thực điện tử phục vụ chuyển đổi số quốc gia giai đoạn 2022-2025, tầm nhìn đến năm 2030; Căn cứ Quyết định số 422/QĐ-TTg ngày 04 tháng 4 năm 2022 của Thủ tướng Chính phủ phê duyệt Danh mục dịch vụ công trực tuyến tích hợp, cung cấp trên Cổng Dịch vụ công quốc gia năm 2022; Căn cứ Quyết định số 1035/QĐ-BHXH ngày 01 tháng 10 năm 2015 của Tổng Giám đốc Bảo hiểm xã hội Việt Nam ban hành quy định về mẫu sổ bảo hiểm xã hội. Căn cứ Quyết định số 595/QĐ-BHXH ngày 14 tháng 4 năm 2017 của Tổng Giám đốc Bảo hiểm xã hội Việt Nam ban hành Quy trình thu bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp, bảo hiểm tai nạn lao động, bệnh nghề nghiệp; quản lý sổ bảo hiểm xã hội, thẻ bảo hiểm y tế; Căn cứ Quyết định số 2192/QĐ-BHXH ngày 10 tháng 12 năm 2019 của Tổng Giám đốc Bảo hiểm xã hội Việt Nam ban hành Quy chế tổ chức và hoạt động của Bộ phận Tiếp nhận và Trả kết quả giải quyết thủ tục hành chính theo cơ chế một cửa, một cửa liên thông trong ngành BHXH; Căn cứ Quyết định số 505/QĐ-BHXH ngày 27 tháng 3 năm 2020 của Tổng Giám đốc Bảo hiểm xã hội Việt Nam sửa đổi, bổ sung một số điều quy trình thu bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp, bảo hiểm tai nạn lao động, bệnh nghề nghiệp; quản lý sổ bảo hiểm xã hội, thẻ bảo hiểm y tế ban hành kèm theo Quyết định số 595/QĐ-BHXH ngày 14/4/2017 của Tổng Giám đốc Bảo hiểm xã hội Việt Nam; Căn cứ Quyết định số 515/QĐ-BHXH ngày 27 tháng 3 năm 2020 của Tổng Giám đốc Bảo hiểm xã hội Việt Nam ban hành\nquy chế quản lý cơ sở dữ liệu hộ gia đình và mã số\nBHXH của người tham gia bảo hiểm xã hội, bảo hiểm y tế; Căn cứ Quyết định số 896/QĐ-BHXH ngày 16 tháng 9 năm 2021 của Tổng Giám đốc Bảo hiểm xã hội Việt Nam về việc ban hành Danh mục Dịch vụ công trực tuyến đối với các thủ tục hành chính thuộc thẩm quyền giải quyết của Bảo hiểm xã hội Việt Nam; Căn cứ Quyết định số 1188/QĐ-BHXH ngày 24 tháng 5 năm 2022 của Tổng Giám đốc Bảo hiểm xã hội Việt Nam sửa đổi, bổ sung một số điều quy trình thu bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp, bảo hiểm tai nạn lao động, bệnh nghề nghiệp; quản lý sổ bảo hiểm xã hội, thẻ bảo hiểm y tế ban hành kèm theo Quyết định số 595/QĐ-BHXH ngày 14/4/2017 và Quyết định số 505/QĐ-BHXH ngày 27/3/2020 của Tổng Giám đốc Bảo hiểm xã hội Việt Nam; Căn cứ Kế hoạch số 2142/KH-BHXH ngày 08 tháng 8 năm 2022 của Bảo hiểm xã hội Việt Nam triển khai thực hiện Quyết định số 422/QĐ-TTg ngày 04/4/2022 của Thủ tướng Chính phủ; Theo đề nghị của Trưởng Ban Quản lý Thu - Sổ, Thẻ.\nQUYẾT ĐỊNH:",
+    "legal_bases": [
+      "Căn cứ Luật Bảo hiểm xã hội ngày 20 tháng 11 năm 2014: Căn cứ Nghị định số 134/2015/NĐ-CP ngày 29 tháng 12 năm 2015 của Chính phủ quy định chi tiết một số điều của Luật Bảo hiểm xã hội về bảo hiểm xã hội tự nguyện",
+      "Căn cứ Nghị định số 45/2020/NĐ-CP ngày 08 tháng 4 năm 2020 của Chính phủ về thực hiện thủ tục hành chính trên môi trường điện tử",
+      "Căn cứ Nghị định số 89/2020/NĐ-CP ngày 04 tháng 8 năm 2020 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bảo hiểm xã hội Việt Nam",
+      "Căn cứ Quyết định số 06/QĐ-TTg ngày 06 tháng 01 năm 2022 của Thủ tướng Chính phủ phê duyệt Đề án phát triển ứng dụng dữ liệu về dân cư, định danh và xác thực điện tử phục vụ chuyển đổi số quốc gia giai đoạn 2022-2025, tầm nhìn đến năm 2030",
+      "Căn cứ Quyết định số 422/QĐ-TTg ngày 04 tháng 4 năm 2022 của Thủ tướng Chính phủ phê duyệt Danh mục dịch vụ công trực tuyến tích hợp, cung cấp trên Cổng Dịch vụ công quốc gia năm 2022",
+      "Căn cứ Quyết định số 1035/QĐ-BHXH ngày 01 tháng 10 năm 2015 của Tổng Giám đốc Bảo hiểm xã hội Việt Nam ban hành quy định về mẫu sổ bảo hiểm xã hội. Căn cứ Quyết định số 595/QĐ-BHXH ngày 14 tháng 4 năm 2017 của Tổng Giám đốc Bảo hiểm xã hội Việt Nam ban hành Quy trình thu bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp, bảo hiểm tai nạn lao động, bệnh nghề nghiệp",
+      "Căn cứ Quyết định số 2192/QĐ-BHXH ngày 10 tháng 12 năm 2019 của Tổng Giám đốc Bảo hiểm xã hội Việt Nam ban hành Quy chế tổ chức và hoạt động của Bộ phận Tiếp nhận và Trả kết quả giải quyết thủ tục hành chính theo cơ chế một cửa, một cửa liên thông trong ngành BHXH",
+      "Căn cứ Quyết định số 505/QĐ-BHXH ngày 27 tháng 3 năm 2020 của Tổng Giám đốc Bảo hiểm xã hội Việt Nam sửa đổi, bổ sung một số điều quy trình thu bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp, bảo hiểm tai nạn lao động, bệnh nghề nghiệp",
+      "Căn cứ Quyết định số 515/QĐ-BHXH ngày 27 tháng 3 năm 2020 của Tổng Giám đốc Bảo hiểm xã hội Việt Nam ban hành\nquy chế quản lý cơ sở dữ liệu hộ gia đình và mã số\nBHXH của người tham gia bảo hiểm xã hội, bảo hiểm y tế",
+      "Căn cứ Quyết định số 896/QĐ-BHXH ngày 16 tháng 9 năm 2021 của Tổng Giám đốc Bảo hiểm xã hội Việt Nam về việc ban hành Danh mục Dịch vụ công trực tuyến đối với các thủ tục hành chính thuộc thẩm quyền giải quyết của Bảo hiểm xã hội Việt Nam",
+      "Căn cứ Quyết định số 1188/QĐ-BHXH ngày 24 tháng 5 năm 2022 của Tổng Giám đốc Bảo hiểm xã hội Việt Nam sửa đổi, bổ sung một số điều quy trình thu bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp, bảo hiểm tai nạn lao động, bệnh nghề nghiệp",
+      "Căn cứ Kế hoạch số 2142/KH-BHXH ngày 08 tháng 8 năm 2022 của Bảo hiểm xã hội Việt Nam triển khai thực hiện Quyết định số 422/QĐ-TTg ngày 04/4/2022 của Thủ tướng Chính phủ"
+    ],
+    "proposals": [
+      "Theo đề nghị của Trưởng Ban Quản lý Thu - Sổ, Thẻ.\nQUYẾT ĐỊNH:"
+    ],
+    "enactment_formula": "QUYẾT ĐỊNH"
+  },
+  "passage": "QUYẾT ĐỊNH\nBAN HÀNH QUY TRÌNH ĐĂNG KÝ THAM GIA BẢO HIỂM XÃ HỘI TỰ NGUYỆN TRÊN CỔNG\nDỊCH VỤ CÔNG THEO QUYẾT ĐỊNH SỐ 422/QĐ-TTG NGÀY 04/4/2022 CỦA THỦ TƯỚNG CHÍNH\nPHỦ PHÊ DUYỆT DANH MỤC DỊCH VỤ CÔNG TRỰC TUYẾN TÍCH HỢP, CUNG CẤP TRÊN CỔNG DỊCH\nVỤ CÔNG QUỐC GIA NĂM 2022\nTỔNG GIÁM ĐỐC BẢO HIỂM XÃ HỘI VIỆT NAM\nCăn cứ Luật Giao dịch điện tử ngày 29 tháng 11 năm 2005; Căn cứ Luật Bảo hiểm xã hội ngày 20 tháng 11 năm 2014: Căn cứ Nghị định số 134/2015/NĐ-CP ngày 29 tháng 12 năm 2015 của Chính phủ quy định chi tiết một số điều của Luật Bảo hiểm xã hội về bảo hiểm xã hội tự nguyện; Căn cứ Nghị định số 45/2020/NĐ-CP ngày 08 tháng 4 năm 2020 của Chính phủ về thực hiện thủ tục hành chính trên môi trường điện tử; Căn cứ Nghị định số 89/2020/NĐ-CP ngày 04 tháng 8 năm 2020 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bảo hiểm xã hội Việt Nam; Căn cứ Quyết định số 06/QĐ-TTg ngày 06 tháng 01 năm 2022 của Thủ tướng Chính phủ phê duyệt Đề án phát triển ứng dụng dữ liệu về dân cư, định danh và xác thực điện tử phục vụ chuyển đổi số quốc gia giai đoạn 2022-2025, tầm nhìn đến năm 2030; Căn cứ Quyết định số 422/QĐ-TTg ngày 04 tháng 4 năm 2022 của Thủ tướng Chính phủ phê duyệt Danh mục dịch vụ công trực tuyến tích hợp, cung cấp trên Cổng Dịch vụ công quốc gia năm 2022; Căn cứ Quyết định số 1035/QĐ-BHXH ngày 01 tháng 10 năm 2015 của Tổng Giám đốc Bảo hiểm xã hội Việt Nam ban hành quy định về mẫu sổ bảo hiểm xã hội. Căn cứ Quyết định số 595/QĐ-BHXH ngày 14 tháng 4 năm 2017 của Tổng Giám đốc Bảo hiểm xã hội Việt Nam ban hành Quy trình thu bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp, bảo hiểm tai nạn lao động, bệnh nghề nghiệp; quản lý sổ bảo hiểm xã hội, thẻ bảo hiểm y tế; Căn cứ Quyết định số 2192/QĐ-BHXH ngày 10 tháng 12 năm 2019 của Tổng Giám đốc Bảo hiểm xã hội Việt Nam ban hành Quy chế tổ chức và hoạt động của Bộ phận Tiếp nhận và Trả kết quả giải quyết thủ tục hành chính theo cơ chế một cửa, một cửa liên thông trong ngành BHXH; Căn cứ Quyết định số 505/QĐ-BHXH ngày 27 tháng 3 năm 2020 của Tổng Giám đốc Bảo hiểm xã hội Việt Nam sửa đổi, bổ sung một số điều quy trình thu bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp, bảo hiểm tai nạn lao động, bệnh nghề nghiệp; quản lý sổ bảo hiểm xã hội, thẻ bảo hiểm y tế ban hành kèm theo Quyết định số 595/QĐ-BHXH ngày 14/4/2017 của Tổng Giám đốc Bảo hiểm xã hội Việt Nam; Căn cứ Quyết định số 515/QĐ-BHXH ngày 27 tháng 3 năm 2020 của Tổng Giám đốc Bảo hiểm xã hội Việt Nam ban hành\nquy chế quản lý cơ sở dữ liệu hộ gia đình và mã số\nBHXH của người tham gia bảo hiểm xã hội, bảo hiểm y tế; Căn cứ Quyết định số 896/QĐ-BHXH ngày 16 tháng 9 năm 2021 của Tổng Giám đốc Bảo hiểm xã hội Việt Nam về việc ban hành Danh mục Dịch vụ công trực tuyến đối với các thủ tục hành chính thuộc thẩm quyền giải quyết của Bảo hiểm xã hội Việt Nam; Căn cứ Quyết định số 1188/QĐ-BHXH ngày 24 tháng 5 năm 2022 của Tổng Giám đốc Bảo hiểm xã hội Việt Nam sửa đổi, bổ sung một số điều quy trình thu bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp, bảo hiểm tai nạn lao động, bệnh nghề nghiệp; quản lý sổ bảo hiểm xã hội, thẻ bảo hiểm y tế ban hành kèm theo Quyết định số 595/QĐ-BHXH ngày 14/4/2017 và Quyết định số 505/QĐ-BHXH ngày 27/3/2020 của Tổng Giám đốc Bảo hiểm xã hội Việt Nam; Căn cứ Kế hoạch số 2142/KH-BHXH ngày 08 tháng 8 năm 2022 của Bảo hiểm xã hội Việt Nam triển khai thực hiện Quyết định số 422/QĐ-TTg ngày 04/4/2022 của Thủ tướng Chính phủ; Theo đề nghị của Trưởng Ban Quản lý Thu - Sổ, Thẻ.\nQUYẾT ĐỊNH:\nĐiều 1. Ban hành kèm theo Quyết định này Quy trình đăng ký tham gia bảo hiểm xã hội tự nguyện trên Cổng Dịch vụ công theo Quyết định số 422/QĐ-TTg ngày 04/4/2022 của Thủ tướng Chính phủ phê duyệt Danh mục dịch vụ công trực tuyến tích hợp, cung cấp trên Cổng Dịch vụ công quốc gia năm 2022.\nĐiều 2. Quyết định này có hiệu lực kể từ ngày 01/01/2023.\nĐiều 3. Trưởng Ban Quản lý Thu - Sổ, Thẻ, Chánh Văn phòng Bảo hiểm xã hội Việt Nam, Giám đốc Trung tâm Công nghệ thông tin, Thủ trưởng các đơn vị trực thuộc Bảo hiểm xã hội Việt Nam; Giám đốc Bảo hiểm xã hội các tỉnh, thành phố trực thuộc Trung ương chịu trách nhiệm thi hành Quyết định này./.\nNơi nhận:\n- Như Điều 3;\n- VPCP (để b/c);\n- Các Bộ: LĐTB&XH, TC, YT, NV, TP, QP, CA;\n- UBND tỉnh, TP trực thuộc TƯ;\n- HĐQL BHXH;\n- TGĐ, các\nphó TGĐ;\n- Các đơn vị trực thuộc BHXH VN;\n- BHXH Bộ QP,CAND;\n- Lưu: VT, TST.\nTỔNG GIÁM ĐỐC\nNguyễn Thế Mạnh\nQUY TRÌNH\nĐĂNG KÝ THAM GIA BẢO HIỂM XÃ HỘI TỰ NGUYỆN TRÊN CỔNG DỊCH VỤ CÔNG THEO\nQUYẾT ĐỊNH SỐ 422/QĐ-TTG NGÀY 04/4/2022 CỦA THỦ TƯỚNG CHÍNH PHỦ PHÊ DUYỆT DANH\nMỤC DỊCH VỤ CÔNG TRỰC TUYẾN TÍCH HỢP, CUNG CẤP TRÊN CỔNG DỊCH VỤ CÔNG QUỐC GIA\nNĂM 2022\n(Ban hành kèm theo Quyết định số: 3511/QĐ-BHXH\nngày 21 tháng 11 năm 2022 của Tổng Giám đốc Bảo hiểm xã hội Việt Nam)\nChương I\nQUY ĐỊNH CHUNG\nĐiều 1. Phạm vi điều chỉnh Quy trình này hướng dẫn trình tự giải quyết thủ tục đăng ký tham gia bảo hiểm xã hội tự nguyện trên Cổng Dịch vụ công (bao gồm các trường hợp: đăng ký tham gia lần đầu, chuyển từ tham gia bảo hiểm xã hội bắt buộc sang tham gia bảo hiểm xã hội tự nguyện, tiếp tục tham gia bảo hiểm xã hội tự nguyện theo phương thức và mức đóng đã đăng ký, đăng ký lại phương thức đóng và mức thu nhập tháng làm căn cứ đóng bảo hiểm xã hội tự nguyện thực hiện đăng ký tham gia).\nĐiều 2. Đối tượng áp dụng\n1. Người tham gia bảo hiểm xã hội tự nguyện thuộc đối tượng tham gia theo quy định tại khoản\n4 Điều 2 của Luật Bảo hiểm xã hội.\n2. Cơ quan bảo\nhiểm xã hội, tổ chức và cá nhân có liên quan đến trình tự thực hiện trong quy trình này.\n3. Trường hợp người tham gia được hỗ\ntrợ thêm ngoài mức Nhà nước hỗ trợ tiền đóng bảo hiểm xã hội tự nguyện theo quy định tại tiết a, b, c, khoản 1, Điều 14, Nghị định số 134/2015/NĐ-CP ngày 29/12/2015 thì chỉ áp dụng đối với trường hợp cấp tỉnh hoặc cấp huyện hỗ trợ tiền đóng theo mức chung cho tất cả người tham gia thuộc từng nhóm đối tượng trên địa bàn.\nĐiều 3. Giải thích từ ngữ\n1. BHXH là chữ viết\ntắt của cụm từ “bảo hiểm xã hội”.\n2. BHYT là chữ viết\ntắt của cụm từ “bảo hiểm y tế”.\n3. CSDL là chữ viết tắt của cụm từ “cơ sở dữ liệu”.\n4. ĐDCN là chữ viết tắt của cụm từ “định danh cá nhân”.\n5. Sổ BHXH bản\ngiấy được cơ quan BHXH in và cấp cho người tham gia BHXH theo Quyết định số 1035/QĐ-BHXH ngày 01/10/2015.\n6. Sổ BHXH bản điện tử được cơ quan\nBHXH thực hiện số hóa sổ BHXH cấp từ văn bản giấy sang văn bản điện tử theo quy định tại Nghị định số 45/2020/NĐ-CP ngày 08/4/2020.\n7. Cổng Dịch vụ công bao gồm: Cổng Dịch\nvụ công quốc gia và Cổng Dịch vụ công BHXH.\n8. Người tham gia là chữ viết tắt của\ncụm từ “Người tham gia BHXH tự nguyện nêu tại khoản 1 Điều 2 Quy trình này”.\nChương II\nQUY TRÌNH ĐĂNG\nKÝ THAM GIA BHXH TỰ NGUYỆN\nĐiều 4. Quy trình đăng ký tham gia BHXH tự nguyện đối với người tham gia thuộc hộ nghèo hoặc hộ cận nghèo\n1. Bước 1: Người tham gia thực hiện kê khai đầy đủ, chính xác các trường thông\ntin theo Mẫu 02-TK trên Cổng Dịch vụ công và chịu trách nhiệm đối với nội dung kê khai.\n2. Bước 2: Hệ thống phần mềm tự động kiểm tra, đối chiếu thông tin người tham gia\nkê khai để xác định nơi cư trú (cấp tỉnh, cấp huyện) với CSDL quốc gia về Dân cư, xác định đối tượng được nhà nước hỗ trợ mức đóng với dữ liệu người thuộc hộ nghèo, hộ cận nghèo do cơ quan BHXH theo dõi và xác định chính xác số tiền phải đóng để người tham gia nộp tiền trực tuyến. Trường hợp xác định nơi cư trú không đúng hoặc không thuộc đối tượng được nhà nước hỗ trợ mức đóng, phần mềm hiển thị thông báo cho người tham gia biết về địa chỉ cư trú chưa đúng với CSDL quốc gia về dân cư hoặc thông tin chưa đúng với danh sách thuộc đối tượng được nhà nước hỗ trợ mức đóng để liên hệ với cơ quan Công an, cơ quan phê duyệt danh sách người thuộc hộ nghèo, hộ cận nghèo hướng dẫn, điều chỉnh, sau đó thực hiện lại Bước 1 hoặc có thể đăng ký tham gia tại các tổ chức dịch vụ thu BHXH, BHYT hoặc tại cơ quan BHXH.\n3. Bước 3: Người tham gia thực hiện nộp tiền trực tuyến trên Cổng Dịch vụ công,\nnhận Biên lai thu tiền điện tử, nhận thông báo thời hạn trả sổ BHXH theo quy định ngay khi giao dịch thành công.\n4. Bước 4: Sau khi nhận được số tiền của người tham gia, Hệ thống phần mềm tự động:\n- Ghi nhận số tiền vào mã đơn vị quản lý riêng theo mã số BHXH của từng người tham gia trên phần mềm Kế toán tập trung và tạo lập hồ sơ đăng ký tham gia BHXH tự nguyện trên Phần mềm tiếp nhận và quản lý hồ sơ vào mã đơn vị quản lý riêng tại cơ quan BHXH cấp tỉnh/huyện nơi người tham gia cư trú. - Cập nhật hồ sơ, xác định thời gian tham gia, ghi quá trình đóng BHXH cho người tham gia và tổng hợp số tiền phải đóng của người tham gia (Mẫu C69-HD), xác định số tiền trích thù lao cho tổ chức dịch vụ thu BHXH, BHYT (Mẫu D11-TS) theo quy định. - Phân bổ ngay số tiền đã thu của người tham gia (Mẫu C83-HD), xác định số tiền chi thù lao cho tổ chức dịch vụ thu BHXH, BHYT (Mẫu D12-TS) theo quy định. - Tạo lập dữ liệu tờ bìa sổ BHXH cho người tham gia lần đầu theo quy định.\n5. Bước 5: Sau khi hệ thống phần mềm thực hiện Bước 4, cán bộ\nthu, sổ thẻ kiểm tra hồ sơ, dữ liệu, trình Giám đốc BHXH tỉnh/huyện ký số tờ bìa sổ BHXH bản điện tử hoặc in tờ bìa sổ BHXH bản giấy theo quy định, chuyển cán bộ tiếp nhận và trả kết quả.\n6. Bước\n6: Cán bộ tiếp nhận và trả kết quả tiếp nhận dữ liệu hoặc tờ bìa sổ BHXH bản giấy, thực hiện việc phát hành, trả kết quả cho người tham gia; kết thúc quy trình giải quyết trên Phần mềm tiếp nhận và quản lý hồ sơ.\n7. Bước 7: Người tham gia nhận tờ bìa sổ BHXH bản điện tử hoặc sổ BHXH bản giấy theo phương thức đã đăng ký.\nĐiều 5. Quy trình đăng ký tham gia BHXH tự nguyện đối với người tham gia thuộc đối tượng khác\n1. Bước 1: Người tham gia thực hiện kê khai đầy đủ, chính\nxác các trường thông tin theo Mẫu 02-TK trên Cổng Dịch vụ công và chịu trách nhiệm đối với nội dung kê khai.\n2. Bước 2: Hệ thống phần mềm tự động kiểm tra, đối chiếu thông tin người tham gia\nkê khai để xác định nơi thường trú (cấp tỉnh, cấp huyện) với CSDL quốc gia về Dân cư và xác định chính xác số tiền phải đóng để người tham gia nộp tiền trực tuyến. Trường hợp xác định nơi thường trú không đúng, hệ thống phần mềm hiển thị thông báo cho người tham gia biết về địa chỉ cư trú chưa đúng với CSDL quốc gia để liên hệ với cơ quan Công an hướng dẫn, điều chỉnh, sau đó thực hiện lại Bước 1 hoặc có thể đăng ký tham gia BHXH tự nguyện tại các tổ chức dịch vụ thu BHXH, BHYT hoặc tại cơ quan BHXH.\n3. Bước 3, Bước 4, Bước 5, Bước 6,\nBước 7: Thực hiện như khoản 3, khoản 4, khoản 5, khoản 6, khoản 7, Điều 4 của Quy trình này.\nChương III\nTỔ CHỨC THỰC HIỆN\nĐiều 6. Trách nhiệm của các đơn vị\n1. Ban Quản lý Thu - Sổ, Thẻ:\n- Chủ trì, phối hợp với các đơn vị liên quan tổ chức chỉ đạo, kiểm tra, hướng dẫn thực hiện Quyết định này. - Kịp thời cung cấp danh sách các mức đóng BHXH tự nguyện (khi có phát sinh hoặc có thay đổi) cho Trung tâm Công nghệ thông tin cập nhật lên Cổng Dịch vụ công để người tham gia lựa chọn.\n2. Trung tâm Công nghệ thông tin: Xây\ndựng và hoàn thiện các chức năng trên Hệ thống các phần mềm và hướng dẫn, phân quyền cán bộ thực hiện đáp ứng theo Quy trình này.\n3. Văn phòng: Tham mưu ban hành Quyết\nđịnh công bố dịch vụ công trực tuyến đăng ký tham gia đóng BHXH tự nguyện trên Cổng Dịch vụ công thuộc thẩm quyền giải quyết của BHXH Việt Nam.\n4. Thủ trưởng các đơn vị trực thuộc\nBHXH Việt Nam theo chức năng nhiệm vụ được giao có trách nhiệm thực hiện theo Quy trình này.\n5. BHXH các tỉnh, thành phố\na) Tham mưu UBND cấp tỉnh chỉ đạo cơ\nquan có thẩm quyền lập danh sách người thuộc hộ nghèo, hộ cận nghèo có các trường thông tin như: Số ĐDCN, họ và tên, ngày tháng năm sinh, giới tính đảm bảo khớp đúng với dữ liệu đang quản lý được xác thực với CSDL quốc gia về dân cư và gửi dữ liệu đến cơ quan BHXH đúng thời gian quy định. Đồng thời chỉ đạo các sở, ngành phối hợp với cơ quan BHXH triển khai Quy trình này đáp ứng mục tiêu, nhiệm vụ tại Quyết định số 06/QĐ-TTg ngày 06/01/2022 và Quyết định số 422/QĐ-TTg ngày 04/4/2022 của Thủ tướng Chính phủ.\nb) Kịp thời tiếp nhận dữ liệu người\nthuộc hộ nghèo, hộ cận nghèo do chính quyền địa phương cung cấp theo điểm a nêu trên để cập nhật ngay vào CSDL BHXH Việt Nam theo hướng dẫn của Trung tâm Công nghệ thông tin.\nc) Thực hiện khai báo tỷ lệ Nhà nước\nhỗ trợ mức đóng BHXH tự nguyện và ngân sách địa phương hỗ trợ thêm tiền đóng (nếu có), thời hạn được hỗ trợ vào mã đơn vị quản lý riêng tại cơ quan BHXH tỉnh/huyện để làm cơ sở hệ thống phần mềm xác định chính xác số tiền còn phải đóng của người tham gia và chịu trách nhiệm về tính chính xác của nội dung khai báo.\nd) Hằng ngày, theo dõi, kiểm soát hồ\nsơ tiếp nhận với các phát sinh tự động đăng ký tham gia BHXH tự nguyện tại mã đơn vị quản lý riêng để kịp thời phát hiện, xử lý lỗi phát sinh trong quá trình triển khai Quy trình này.\nđ) Hằng quý, phối hợp với cơ quan quản\nlý đối tượng đối chiếu chính xác người tham gia được nhà nước hỗ trợ đóng BHXH tự nguyện để tổng hợp đối tượng và kinh phí do ngân sách nhà nước hỗ trợ đóng BHXH tự nguyện gửi cơ quan tài chính chuyển kinh phí tương ứng vào quỹ BHXH theo quy định.\ne) Giám đốc BHXH các tỉnh, thành phố\nthực hiện kiểm soát, theo dõi và quản lý người tham gia theo quy định hiện hành.\ng) Xây dựng Kế hoạch truyền thông về\ncác tính năng, tiện ích để hướng dẫn người tham gia đăng ký tham gia BHXH tự nguyện trên Cổng Dịch vụ công.\nh) Tiếp nhận phản ánh, kiến nghị và\nchỉ đạo việc giải quyết xử lý các phản ánh, kiến nghị của người tham gia. Trường hợp phản ánh kiến nghị của người tham gia có liên quan với cơ quan BHXH khác, cơ quan BHXH nơi tiếp nhận phải chủ động phối hợp với cơ quan BHXH nơi có liên quan để giải quyết.\nĐiều 7. Điều khoản chuyển tiếp và tham chiếu\n1. Các quy định liên quan đến công\ntác thu, cấp sổ BHXH về định kỳ hằng ngày, hằng tháng, hằng quý kiểm tra, đối chiếu, tổng hợp, báo cáo, thời hạn giải quyết hồ sơ, trả kết quả và các nội dung khác không quy định cụ thể tại Quy trình này được tiếp tục thực hiện tuân thủ theo Quy trình quản lý thu BHXH, bảo hiểm y tế, bảo hiểm thất nghiệp, bảo hiểm tai nạn lao động, bệnh nghề nghiệp; quản lý sổ BHXH, thẻ bảo hiểm y tế ban hành kèm theo Quyết định số 595/QĐ-BHXH ngày 14/4/2017 và Quyết định số 505/QĐ-BHXH ngày 27/3/2020 của Tổng Giám đốc Bảo hiểm xã hội Việt Nam.\n2. Trường hợp người tham gia BHXH tự\nnguyện thuộc hộ nghèo, hộ cận nghèo tại địa phương chưa có dữ liệu theo điểm b, khoản 5, Điều 6 nêu và các trường hợp không thuộc đối tượng áp dụng trong Quy trình này thì thực hiện đăng ký tham gia BHXH tự nguyện tại các tổ chức dịch vụ thu BHXH, BHYT hoặc tại cơ quan BHXH theo quy định hiện hành.\n3. Trường hợp các văn bản dẫn chiếu\ntrong Quyết định này bị thay thế hoặc sửa đổi, bổ sung thì thực hiện theo văn bản thay thế hoặc văn bản đã được sửa đổi, bổ sung./. Mẫu 02-TK\n(Ban hành kèm theo Quyết định số: 3511/QĐ-BHXH ngày 21/11/2022 của BHXH Việt Nam)\nBẢO HIỂM XÃ HỘI VIỆT NAM\n-------\nCỘNG\nHÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc ---------------\nTỜ KHAI\nĐĂNG KÝ THAM GIA BẢO HIỂM XÃ HỘI\nTỰ NGUYỆN TRÊN CỔNG DỊCH VỤ CÔNG\nI. Áp dụng đối với trường hợp đăng ký tham gia lần đầu, chuyển từ tham gia BHXH bắt buộc sang tham gia BHXH tự nguyện; Đăng ký lại phương thức đóng và mức thu nhập tháng làm căn cứ đóng BHXH tự nguyện [01]. Số CCCD/ĐDCN: ……………………………. [02]. Họ và tên: …………………………… [03]. Mã số BHXH: ……………… [04]. Ngày tháng năm sinh: ……… [05]. Giới tính: ……… [06]. Địa chỉ nhận kết quả: [06.1]. Số nhà, đường/phố, thôn/xóm: …………………………… [06.2]. Xã: ……………… [06.3]. Huyện: ……………………… [06.4]. Tỉnh: ………………….. [07]. Số điện thoại: ……………………………… [08]. Địa chỉ email: …………………………... [09] . Đối tượng tham gia BHXH tự nguyện được Nhà nước hỗ trợ mức đóng: □ Người thuộc hộ nghèo. □ Người thuộc hộ cận nghèo. □ Người thuộc đối tượng khác (không thuộc hộ nghèo hoặc cận nghèo). [10]. Mức tiền đóng: ……………………………… [11]. Phương thức đóng: …………………. [12]. Đăng ký nhận thẻ sổ BHXH (đối với người lần đầu tham gia BHXH): □ Sổ BHXH bản giấy theo hình thức: □ Sổ BHXH bản điện tử □ Tại Cơ quan BHXH: ……………………………………………………………………………… □ Qua dịch vụ bưu chính (có trả phí): ……………………………………………………………. [13]. Mã đơn vị Tổ chức dịch vụ thu BHXH, BHYT vận động, tư vấn (nếu có): ……………... Người tham gia xác nhận và chịu trách nhiệm đối với thông tin kê khai. II. Áp dụng đối với trường hợp đăng ký tiếp tục tham gia BHXH tự nguyện theo mức tiền đóng và phương thức đóng đang trong thời điểm đóng [01]. Số CCCD/ĐDCN: ……………………………. [02]. Họ và tên: …………………………… [03]. Mã số BHXH: ……………… [04]. Ngày tháng năm sinh: ……… [05]. Giới tính: ……… [06]. Số điện thoại: ……………………………… [07]. Địa chỉ email: …………………………... [08]. Đối tượng tham gia BHXH tự nguyện được Nhà nước hỗ trợ mức đóng: □ Người thuộc hộ nghèo. □ Người thuộc hộ cận nghèo. □ Người thuộc đối tượng khác. [09]. Mã đơn vị Tổ chức dịch vụ thu BHXH, BHYT vận động, tư vấn (nếu có): …………….. Người tham gia xác nhận và chịu trách nhiệm đối với thông tin kê khai.\nHƯỚNG DẪN LẬP\nTờ khai đăng ký đóng, cấp thẻ bảo hiểm y tế trên Cổng Dịch vụ công (Mẫu 02-TK) I. Áp dụng đối với trường hợp đăng ký tham gia lần đầu, chuyển từ tham gia BHXH bắt buộc sang tham gia BHXH tự nguyện; Đăng ký lại phương thức đóng và mức thu nhập tháng làm căn cứ đóng BHXH tự nguyện [01]. Số CCCD/ĐDCN: Kê khai chính xác số Căn cước công dân hoặc số Định danh cá nhân của người tham gia. [02], [03], [04], [05]. Họ và tên, mã số BHXH, ngày tháng năm sinh, giới tính: Hệ thống tự động hiển thị thông tin của người tham gia theo Số CCCD/ĐDCN được kê khai. [06], [07], [08]. Địa chỉ nhận kết quả, số điện thoại, địa chỉ email: Hệ thống tự động hiển thị thông tin trong cơ sở dữ liệu quản lý theo số CCCD/ĐDCN được kê khai. Trường hợp có thay đổi, người tham gia chỉnh sửa và cập nhật. [09]. Đối tượng tham gia BHXH tự nguyện được Nhà nước hỗ trợ mức đóng: Lựa chọn chính xác thuộc một trong ba đối tượng: Người thuộc hộ nghèo/Người thuộc hộ cận nghèo/ Người thuộc đối tượng khác (không thuộc hộ nghèo hoặc cận nghèo). [10]. Mức tiền đóng: Lựa chọn mức thu nhập tháng tham gia BHXH tự nguyện theo mức đóng do Hệ thống phần mềm tự động hiển thị. [11]. Phương thức đóng: Lựa chọn phương thức đóng theo quy định do Hệ thống phần mềm tự động hiển thị. [12]. Đăng ký nhận sổ BHXH (đối với người lần đầu tham gia BHXH): Lựa chọn nhận sổ BHXH bản giấy hoặc bản điện tử hoặc cả hai. Trường hợp người tham gia có lựa chọn nhận sổ BHXH bản giấy thì lựa chọn một trong hai hình thức: - Tại cơ quan BHXH: Hệ thống phần mềm tự động hiển thị thông tin địa chỉ cơ quan BHXH nơi tiếp nhận hồ sơ để người tham gia biết và đến nhận sổ BHXH. - Qua dịch vụ bưu chính (có trả phí): Hệ thống phần mềm tự động hiển thị địa chỉ nhận kết quả mà người tham gia đã kê khai để dịch vụ bưu chính trả kết quả đúng địa chỉ. [13]. Mã đơn vị Tổ chức dịch vụ thu BHXH, BHYT vận động, tư vấn (nếu có): Kê khai mã đơn vị (được cơ quan BHXH cấp) của Tổ chức dịch vụ thu BHXH, BHYT cung cấp khi vận động, tư vấn. Sau khi kê khai đầy đủ, chính xác thông tin. Người tham gia xác nhận và chịu trách nhiệm đối với thông tin kê khai trên Cổng Dịch vụ công. II. Áp dụng đối với trường hợp đăng ký tiếp tục tham gia BHXH tự nguyện theo mức tiền đóng và phương thức đóng đang trong thời điểm đóng [01]. Số CCCD/ĐDCN: Kê khai chính xác số Căn cước công dân hoặc số Định danh cá nhân của người tham gia. [02], [03], [04], [05]. Họ và tên, mã số BHXH, ngày tháng năm sinh, giới tính: Hệ thống tự động hiển thị thông tin của người tham gia theo số CCCD/ĐDCN được kê khai. [06], [07]. Số điện thoại, địa chỉ email: Hệ thống tự động hiển thị thông tin trong cơ sở dữ liệu quản lý theo số CCCD/ĐDCN được kê khai. Trường hợp có thay đổi, người tham gia chỉnh sửa và cập nhật. [08]. Đối tượng tham gia BHXH tự nguyện được Nhà nước hỗ trợ mức đóng: Lựa chọn chính xác thuộc một trong ba đối tượng: Người thuộc hộ nghèo/Người thuộc hộ cận nghèo/ Người thuộc đối tượng khác (không thuộc hộ nghèo hoặc cận nghèo). [09]. Mã đơn vị Tổ chức dịch vụ thu BHXH, BHYT vận động, tư vấn (nếu có): Kê khai mã đơn vị (được cơ quan BHXH cấp) của Tổ chức dịch vụ thu BHXH, BHYT cung cấp khi vận động, tư vấn. Sau khi kê khai đầy đủ, chính xác thông tin. Người tham gia xác nhận và chịu trách nhiệm đối với thông tin kê khai trên Cổng Dịch vụ công.",
+  "tree": {
+    "parts": [
+      {
+        "part_id": "doc:255110:part:1",
+        "part_type": "main",
+        "part_title": null,
+        "reference": null,
+        "direct_text": "QUYẾT ĐỊNH\nBAN HÀNH QUY TRÌNH ĐĂNG KÝ THAM GIA BẢO HIỂM XÃ HỘI TỰ NGUYỆN TRÊN CỔNG\nDỊCH VỤ CÔNG THEO QUYẾT ĐỊNH SỐ 422/QĐ-TTG NGÀY 04/4/2022 CỦA THỦ TƯỚNG CHÍNH\nPHỦ PHÊ DUYỆT DANH MỤC DỊCH VỤ CÔNG TRỰC TUYẾN TÍCH HỢP, CUNG CẤP TRÊN CỔNG DỊCH\nVỤ CÔNG QUỐC GIA NĂM 2022\nTỔNG GIÁM ĐỐC BẢO HIỂM XÃ HỘI VIỆT NAM\nCăn cứ Luật Giao dịch điện tử ngày 29 tháng 11 năm 2005; Căn cứ Luật Bảo hiểm xã hội ngày 20 tháng 11 năm 2014: Căn cứ Nghị định số 134/2015/NĐ-CP ngày 29 tháng 12 năm 2015 của Chính phủ quy định chi tiết một số điều của Luật Bảo hiểm xã hội về bảo hiểm xã hội tự nguyện; Căn cứ Nghị định số 45/2020/NĐ-CP ngày 08 tháng 4 năm 2020 của Chính phủ về thực hiện thủ tục hành chính trên môi trường điện tử; Căn cứ Nghị định số 89/2020/NĐ-CP ngày 04 tháng 8 năm 2020 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bảo hiểm xã hội Việt Nam; Căn cứ Quyết định số 06/QĐ-TTg ngày 06 tháng 01 năm 2022 của Thủ tướng Chính phủ phê duyệt Đề án phát triển ứng dụng dữ liệu về dân cư, định danh và xác thực điện tử phục vụ chuyển đổi số quốc gia giai đoạn 2022-2025, tầm nhìn đến năm 2030; Căn cứ Quyết định số 422/QĐ-TTg ngày 04 tháng 4 năm 2022 của Thủ tướng Chính phủ phê duyệt Danh mục dịch vụ công trực tuyến tích hợp, cung cấp trên Cổng Dịch vụ công quốc gia năm 2022; Căn cứ Quyết định số 1035/QĐ-BHXH ngày 01 tháng 10 năm 2015 của Tổng Giám đốc Bảo hiểm xã hội Việt Nam ban hành quy định về mẫu sổ bảo hiểm xã hội. Căn cứ Quyết định số 595/QĐ-BHXH ngày 14 tháng 4 năm 2017 của Tổng Giám đốc Bảo hiểm xã hội Việt Nam ban hành Quy trình thu bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp, bảo hiểm tai nạn lao động, bệnh nghề nghiệp; quản lý sổ bảo hiểm xã hội, thẻ bảo hiểm y tế; Căn cứ Quyết định số 2192/QĐ-BHXH ngày 10 tháng 12 năm 2019 của Tổng Giám đốc Bảo hiểm xã hội Việt Nam ban hành Quy chế tổ chức và hoạt động của Bộ phận Tiếp nhận và Trả kết quả giải quyết thủ tục hành chính theo cơ chế một cửa, một cửa liên thông trong ngành BHXH; Căn cứ Quyết định số 505/QĐ-BHXH ngày 27 tháng 3 năm 2020 của Tổng Giám đốc Bảo hiểm xã hội Việt Nam sửa đổi, bổ sung một số điều quy trình thu bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp, bảo hiểm tai nạn lao động, bệnh nghề nghiệp; quản lý sổ bảo hiểm xã hội, thẻ bảo hiểm y tế ban hành kèm theo Quyết định số 595/QĐ-BHXH ngày 14/4/2017 của Tổng Giám đốc Bảo hiểm xã hội Việt Nam; Căn cứ Quyết định số 515/QĐ-BHXH ngày 27 tháng 3 năm 2020 của Tổng Giám đốc Bảo hiểm xã hội Việt Nam ban hành\nquy chế quản lý cơ sở dữ liệu hộ gia đình và mã số\nBHXH của người tham gia bảo hiểm xã hội, bảo hiểm y tế; Căn cứ Quyết định số 896/QĐ-BHXH ngày 16 tháng 9 năm 2021 của Tổng Giám đốc Bảo hiểm xã hội Việt Nam về việc ban hành Danh mục Dịch vụ công trực tuyến đối với các thủ tục hành chính thuộc thẩm quyền giải quyết của Bảo hiểm xã hội Việt Nam; Căn cứ Quyết định số 1188/QĐ-BHXH ngày 24 tháng 5 năm 2022 của Tổng Giám đốc Bảo hiểm xã hội Việt Nam sửa đổi, bổ sung một số điều quy trình thu bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp, bảo hiểm tai nạn lao động, bệnh nghề nghiệp; quản lý sổ bảo hiểm xã hội, thẻ bảo hiểm y tế ban hành kèm theo Quyết định số 595/QĐ-BHXH ngày 14/4/2017 và Quyết định số 505/QĐ-BHXH ngày 27/3/2020 của Tổng Giám đốc Bảo hiểm xã hội Việt Nam; Căn cứ Kế hoạch số 2142/KH-BHXH ngày 08 tháng 8 năm 2022 của Bảo hiểm xã hội Việt Nam triển khai thực hiện Quyết định số 422/QĐ-TTg ngày 04/4/2022 của Thủ tướng Chính phủ; Theo đề nghị của Trưởng Ban Quản lý Thu - Sổ, Thẻ.\nQUYẾT ĐỊNH:\n(Ban hành kèm theo Quyết định số: 3511/QĐ-BHXH\nngày 21 tháng 11 năm 2022 của Tổng Giám đốc Bảo hiểm xã hội Việt Nam)\n(Ban hành kèm theo Quyết định số: 3511/QĐ-BHXH ngày 21/11/2022 của BHXH Việt Nam)\nBẢO HIỂM XÃ HỘI VIỆT NAM\n-------\nCỘNG\nHÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc ---------------\nTỜ KHAI\nĐĂNG KÝ THAM GIA BẢO HIỂM XÃ HỘI\nTỰ NGUYỆN TRÊN CỔNG DỊCH VỤ CÔNG\nI. Áp dụng đối với trường hợp đăng ký tham gia lần đầu, chuyển từ tham gia BHXH bắt buộc sang tham gia BHXH tự nguyện; Đăng ký lại phương thức đóng và mức thu nhập tháng làm căn cứ đóng BHXH tự nguyện [01]. Số CCCD/ĐDCN: ……………………………. [02]. Họ và tên: …………………………… [03]. Mã số BHXH: ……………… [04]. Ngày tháng năm sinh: ……… [05]. Giới tính: ……… [06]. Địa chỉ nhận kết quả: [06.1]. Số nhà, đường/phố, thôn/xóm: …………………………… [06.2]. Xã: ……………… [06.3]. Huyện: ……………………… [06.4]. Tỉnh: ………………….. [07]. Số điện thoại: ……………………………… [08]. Địa chỉ email: …………………………... [09] . Đối tượng tham gia BHXH tự nguyện được Nhà nước hỗ trợ mức đóng: □ Người thuộc hộ nghèo. □ Người thuộc hộ cận nghèo. □ Người thuộc đối tượng khác (không thuộc hộ nghèo hoặc cận nghèo). [10]. Mức tiền đóng: ……………………………… [11]. Phương thức đóng: …………………. [12]. Đăng ký nhận thẻ sổ BHXH (đối với người lần đầu tham gia BHXH): □ Sổ BHXH bản giấy theo hình thức: □ Sổ BHXH bản điện tử □ Tại Cơ quan BHXH: ……………………………………………………………………………… □ Qua dịch vụ bưu chính (có trả phí): ……………………………………………………………. [13]. Mã đơn vị Tổ chức dịch vụ thu BHXH, BHYT vận động, tư vấn (nếu có): ……………... Người tham gia xác nhận và chịu trách nhiệm đối với thông tin kê khai. II. Áp dụng đối với trường hợp đăng ký tiếp tục tham gia BHXH tự nguyện theo mức tiền đóng và phương thức đóng đang trong thời điểm đóng [01]. Số CCCD/ĐDCN: ……………………………. [02]. Họ và tên: …………………………… [03]. Mã số BHXH: ……………… [04]. Ngày tháng năm sinh: ……… [05]. Giới tính: ……… [06]. Số điện thoại: ……………………………… [07]. Địa chỉ email: …………………………... [08]. Đối tượng tham gia BHXH tự nguyện được Nhà nước hỗ trợ mức đóng: □ Người thuộc hộ nghèo. □ Người thuộc hộ cận nghèo. □ Người thuộc đối tượng khác. [09]. Mã đơn vị Tổ chức dịch vụ thu BHXH, BHYT vận động, tư vấn (nếu có): …………….. Người tham gia xác nhận và chịu trách nhiệm đối với thông tin kê khai.\nHƯỚNG DẪN LẬP\nTờ khai đăng ký đóng, cấp thẻ bảo hiểm y tế trên Cổng Dịch vụ công (Mẫu 02-TK) I. Áp dụng đối với trường hợp đăng ký tham gia lần đầu, chuyển từ tham gia BHXH bắt buộc sang tham gia BHXH tự nguyện; Đăng ký lại phương thức đóng và mức thu nhập tháng làm căn cứ đóng BHXH tự nguyện [01]. Số CCCD/ĐDCN: Kê khai chính xác số Căn cước công dân hoặc số Định danh cá nhân của người tham gia. [02], [03], [04], [05]. Họ và tên, mã số BHXH, ngày tháng năm sinh, giới tính: Hệ thống tự động hiển thị thông tin của người tham gia theo Số CCCD/ĐDCN được kê khai. [06], [07], [08]. Địa chỉ nhận kết quả, số điện thoại, địa chỉ email: Hệ thống tự động hiển thị thông tin trong cơ sở dữ liệu quản lý theo số CCCD/ĐDCN được kê khai. Trường hợp có thay đổi, người tham gia chỉnh sửa và cập nhật. [09]. Đối tượng tham gia BHXH tự nguyện được Nhà nước hỗ trợ mức đóng: Lựa chọn chính xác thuộc một trong ba đối tượng: Người thuộc hộ nghèo/Người thuộc hộ cận nghèo/ Người thuộc đối tượng khác (không thuộc hộ nghèo hoặc cận nghèo). [10]. Mức tiền đóng: Lựa chọn mức thu nhập tháng tham gia BHXH tự nguyện theo mức đóng do Hệ thống phần mềm tự động hiển thị. [11]. Phương thức đóng: Lựa chọn phương thức đóng theo quy định do Hệ thống phần mềm tự động hiển thị. [12]. Đăng ký nhận sổ BHXH (đối với người lần đầu tham gia BHXH): Lựa chọn nhận sổ BHXH bản giấy hoặc bản điện tử hoặc cả hai. Trường hợp người tham gia có lựa chọn nhận sổ BHXH bản giấy thì lựa chọn một trong hai hình thức: - Tại cơ quan BHXH: Hệ thống phần mềm tự động hiển thị thông tin địa chỉ cơ quan BHXH nơi tiếp nhận hồ sơ để người tham gia biết và đến nhận sổ BHXH. - Qua dịch vụ bưu chính (có trả phí): Hệ thống phần mềm tự động hiển thị địa chỉ nhận kết quả mà người tham gia đã kê khai để dịch vụ bưu chính trả kết quả đúng địa chỉ. [13]. Mã đơn vị Tổ chức dịch vụ thu BHXH, BHYT vận động, tư vấn (nếu có): Kê khai mã đơn vị (được cơ quan BHXH cấp) của Tổ chức dịch vụ thu BHXH, BHYT cung cấp khi vận động, tư vấn. Sau khi kê khai đầy đủ, chính xác thông tin. Người tham gia xác nhận và chịu trách nhiệm đối với thông tin kê khai trên Cổng Dịch vụ công. II. Áp dụng đối với trường hợp đăng ký tiếp tục tham gia BHXH tự nguyện theo mức tiền đóng và phương thức đóng đang trong thời điểm đóng [01]. Số CCCD/ĐDCN: Kê khai chính xác số Căn cước công dân hoặc số Định danh cá nhân của người tham gia. [02], [03], [04], [05]. Họ và tên, mã số BHXH, ngày tháng năm sinh, giới tính: Hệ thống tự động hiển thị thông tin của người tham gia theo số CCCD/ĐDCN được kê khai. [06], [07]. Số điện thoại, địa chỉ email: Hệ thống tự động hiển thị thông tin trong cơ sở dữ liệu quản lý theo số CCCD/ĐDCN được kê khai. Trường hợp có thay đổi, người tham gia chỉnh sửa và cập nhật. [08]. Đối tượng tham gia BHXH tự nguyện được Nhà nước hỗ trợ mức đóng: Lựa chọn chính xác thuộc một trong ba đối tượng: Người thuộc hộ nghèo/Người thuộc hộ cận nghèo/ Người thuộc đối tượng khác (không thuộc hộ nghèo hoặc cận nghèo). [09]. Mã đơn vị Tổ chức dịch vụ thu BHXH, BHYT vận động, tư vấn (nếu có): Kê khai mã đơn vị (được cơ quan BHXH cấp) của Tổ chức dịch vụ thu BHXH, BHYT cung cấp khi vận động, tư vấn. Sau khi kê khai đầy đủ, chính xác thông tin. Người tham gia xác nhận và chịu trách nhiệm đối với thông tin kê khai trên Cổng Dịch vụ công.",
+        "chapters": [
+          {
+            "chapter_id": "doc:255110:part:1:chapter:1",
+            "number": "I",
+            "title": "QUY ĐỊNH CHUNG",
+            "content": "Chương I\nQUY ĐỊNH CHUNG",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:255110:part:1:article:4",
+                "number": "1",
+                "title": "Phạm vi điều chỉnh Quy trình này hướng dẫn trình tự giải quyết thủ tục đăng ký tham gia bảo hiểm xã hội tự nguyện trên Cổng Dịch vụ công (bao gồm các trường hợp: đăng ký tham gia lần đầu, chuyển từ tham gia bảo hiểm xã hội bắt buộc sang tham gia bảo hiểm xã hội tự nguyện, tiếp tục tham gia bảo hiểm xã hội tự nguyện theo phương thức và mức đóng đã đăng ký, đăng ký lại phương thức đóng và mức thu nhập tháng làm căn cứ đóng bảo hiểm xã hội tự nguyện thực hiện đăng ký tham gia).",
+                "content": "Điều 1. Phạm vi điều chỉnh Quy trình này hướng dẫn trình tự giải quyết thủ tục đăng ký tham gia bảo hiểm xã hội tự nguyện trên Cổng Dịch vụ công (bao gồm các trường hợp: đăng ký tham gia lần đầu, chuyển từ tham gia bảo hiểm xã hội bắt buộc sang tham gia bảo hiểm xã hội tự nguyện, tiếp tục tham gia bảo hiểm xã hội tự nguyện theo phương thức và mức đóng đã đăng ký, đăng ký lại phương thức đóng và mức thu nhập tháng làm căn cứ đóng bảo hiểm xã hội tự nguyện thực hiện đăng ký tham gia).",
+                "clauses": [],
+                "points": []
+              },
+              {
+                "article_id": "doc:255110:part:1:article:5",
+                "number": "2",
+                "title": "Đối tượng áp dụng",
+                "content": "Điều 2. Đối tượng áp dụng",
+                "clauses": [
+                  {
+                    "clause_id": "doc:255110:part:1:article:5:clause:1",
+                    "number": "1",
+                    "content": "1. Người tham gia bảo hiểm xã hội tự nguyện thuộc đối tượng tham gia theo quy định tại khoản\n4 Điều 2 của Luật Bảo hiểm xã hội.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:255110:part:1:article:5:clause:2",
+                    "number": "2",
+                    "content": "2. Cơ quan bảo\nhiểm xã hội, tổ chức và cá nhân có liên quan đến trình tự thực hiện trong quy trình này.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:255110:part:1:article:5:clause:3",
+                    "number": "3",
+                    "content": "3. Trường hợp người tham gia được hỗ\ntrợ thêm ngoài mức Nhà nước hỗ trợ tiền đóng bảo hiểm xã hội tự nguyện theo quy định tại tiết a, b, c, khoản 1, Điều 14, Nghị định số 134/2015/NĐ-CP ngày 29/12/2015 thì chỉ áp dụng đối với trường hợp cấp tỉnh hoặc cấp huyện hỗ trợ tiền đóng theo mức chung cho tất cả người tham gia thuộc từng nhóm đối tượng trên địa bàn.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:255110:part:1:article:6",
+                "number": "3",
+                "title": "Giải thích từ ngữ",
+                "content": "Điều 3. Giải thích từ ngữ",
+                "clauses": [
+                  {
+                    "clause_id": "doc:255110:part:1:article:6:clause:1",
+                    "number": "1",
+                    "content": "1. BHXH là chữ viết\ntắt của cụm từ “bảo hiểm xã hội”.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:255110:part:1:article:6:clause:2",
+                    "number": "2",
+                    "content": "2. BHYT là chữ viết\ntắt của cụm từ “bảo hiểm y tế”.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:255110:part:1:article:6:clause:3",
+                    "number": "3",
+                    "content": "3. CSDL là chữ viết tắt của cụm từ “cơ sở dữ liệu”.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:255110:part:1:article:6:clause:4",
+                    "number": "4",
+                    "content": "4. ĐDCN là chữ viết tắt của cụm từ “định danh cá nhân”.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:255110:part:1:article:6:clause:5",
+                    "number": "5",
+                    "content": "5. Sổ BHXH bản\ngiấy được cơ quan BHXH in và cấp cho người tham gia BHXH theo Quyết định số 1035/QĐ-BHXH ngày 01/10/2015.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:255110:part:1:article:6:clause:6",
+                    "number": "6",
+                    "content": "6. Sổ BHXH bản điện tử được cơ quan\nBHXH thực hiện số hóa sổ BHXH cấp từ văn bản giấy sang văn bản điện tử theo quy định tại Nghị định số 45/2020/NĐ-CP ngày 08/4/2020.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:255110:part:1:article:6:clause:7",
+                    "number": "7",
+                    "content": "7. Cổng Dịch vụ công bao gồm: Cổng Dịch\nvụ công quốc gia và Cổng Dịch vụ công BHXH.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:255110:part:1:article:6:clause:8",
+                    "number": "8",
+                    "content": "8. Người tham gia là chữ viết tắt của\ncụm từ “Người tham gia BHXH tự nguyện nêu tại khoản 1 Điều 2 Quy trình này”.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:255110:part:1:chapter:2",
+            "number": "II",
+            "title": "QUY TRÌNH ĐĂNG KÝ THAM GIA BHXH TỰ NGUYỆN",
+            "content": "Chương II\nQUY TRÌNH ĐĂNG\nKÝ THAM GIA BHXH TỰ NGUYỆN",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:255110:part:1:article:7",
+                "number": "4",
+                "title": "Quy trình đăng ký tham gia BHXH tự nguyện đối với người tham gia thuộc hộ nghèo hoặc hộ cận nghèo",
+                "content": "Điều 4. Quy trình đăng ký tham gia BHXH tự nguyện đối với người tham gia thuộc hộ nghèo hoặc hộ cận nghèo",
+                "clauses": [
+                  {
+                    "clause_id": "doc:255110:part:1:article:7:clause:1",
+                    "number": "1",
+                    "content": "1. Bước 1: Người tham gia thực hiện kê khai đầy đủ, chính xác các trường thông\ntin theo Mẫu 02-TK trên Cổng Dịch vụ công và chịu trách nhiệm đối với nội dung kê khai.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:255110:part:1:article:7:clause:2",
+                    "number": "2",
+                    "content": "2. Bước 2: Hệ thống phần mềm tự động kiểm tra, đối chiếu thông tin người tham gia\nkê khai để xác định nơi cư trú (cấp tỉnh, cấp huyện) với CSDL quốc gia về Dân cư, xác định đối tượng được nhà nước hỗ trợ mức đóng với dữ liệu người thuộc hộ nghèo, hộ cận nghèo do cơ quan BHXH theo dõi và xác định chính xác số tiền phải đóng để người tham gia nộp tiền trực tuyến. Trường hợp xác định nơi cư trú không đúng hoặc không thuộc đối tượng được nhà nước hỗ trợ mức đóng, phần mềm hiển thị thông báo cho người tham gia biết về địa chỉ cư trú chưa đúng với CSDL quốc gia về dân cư hoặc thông tin chưa đúng với danh sách thuộc đối tượng được nhà nước hỗ trợ mức đóng để liên hệ với cơ quan Công an, cơ quan phê duyệt danh sách người thuộc hộ nghèo, hộ cận nghèo hướng dẫn, điều chỉnh, sau đó thực hiện lại Bước 1 hoặc có thể đăng ký tham gia tại các tổ chức dịch vụ thu BHXH, BHYT hoặc tại cơ quan BHXH.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:255110:part:1:article:7:clause:3",
+                    "number": "3",
+                    "content": "3. Bước 3: Người tham gia thực hiện nộp tiền trực tuyến trên Cổng Dịch vụ công,\nnhận Biên lai thu tiền điện tử, nhận thông báo thời hạn trả sổ BHXH theo quy định ngay khi giao dịch thành công.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:255110:part:1:article:7:clause:4",
+                    "number": "4",
+                    "content": "4. Bước 4: Sau khi nhận được số tiền của người tham gia, Hệ thống phần mềm tự động:\n- Ghi nhận số tiền vào mã đơn vị quản lý riêng theo mã số BHXH của từng người tham gia trên phần mềm Kế toán tập trung và tạo lập hồ sơ đăng ký tham gia BHXH tự nguyện trên Phần mềm tiếp nhận và quản lý hồ sơ vào mã đơn vị quản lý riêng tại cơ quan BHXH cấp tỉnh/huyện nơi người tham gia cư trú. - Cập nhật hồ sơ, xác định thời gian tham gia, ghi quá trình đóng BHXH cho người tham gia và tổng hợp số tiền phải đóng của người tham gia (Mẫu C69-HD), xác định số tiền trích thù lao cho tổ chức dịch vụ thu BHXH, BHYT (Mẫu D11-TS) theo quy định. - Phân bổ ngay số tiền đã thu của người tham gia (Mẫu C83-HD), xác định số tiền chi thù lao cho tổ chức dịch vụ thu BHXH, BHYT (Mẫu D12-TS) theo quy định. - Tạo lập dữ liệu tờ bìa sổ BHXH cho người tham gia lần đầu theo quy định.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:255110:part:1:article:7:clause:5",
+                    "number": "5",
+                    "content": "5. Bước 5: Sau khi hệ thống phần mềm thực hiện Bước 4, cán bộ\nthu, sổ thẻ kiểm tra hồ sơ, dữ liệu, trình Giám đốc BHXH tỉnh/huyện ký số tờ bìa sổ BHXH bản điện tử hoặc in tờ bìa sổ BHXH bản giấy theo quy định, chuyển cán bộ tiếp nhận và trả kết quả.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:255110:part:1:article:7:clause:6",
+                    "number": "6",
+                    "content": "6. Bước\n6: Cán bộ tiếp nhận và trả kết quả tiếp nhận dữ liệu hoặc tờ bìa sổ BHXH bản giấy, thực hiện việc phát hành, trả kết quả cho người tham gia; kết thúc quy trình giải quyết trên Phần mềm tiếp nhận và quản lý hồ sơ.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:255110:part:1:article:7:clause:7",
+                    "number": "7",
+                    "content": "7. Bước 7: Người tham gia nhận tờ bìa sổ BHXH bản điện tử hoặc sổ BHXH bản giấy theo phương thức đã đăng ký.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:255110:part:1:article:8",
+                "number": "5",
+                "title": "Quy trình đăng ký tham gia BHXH tự nguyện đối với người tham gia thuộc đối tượng khác",
+                "content": "Điều 5. Quy trình đăng ký tham gia BHXH tự nguyện đối với người tham gia thuộc đối tượng khác",
+                "clauses": [
+                  {
+                    "clause_id": "doc:255110:part:1:article:8:clause:1",
+                    "number": "1",
+                    "content": "1. Bước 1: Người tham gia thực hiện kê khai đầy đủ, chính\nxác các trường thông tin theo Mẫu 02-TK trên Cổng Dịch vụ công và chịu trách nhiệm đối với nội dung kê khai.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:255110:part:1:article:8:clause:2",
+                    "number": "2",
+                    "content": "2. Bước 2: Hệ thống phần mềm tự động kiểm tra, đối chiếu thông tin người tham gia\nkê khai để xác định nơi thường trú (cấp tỉnh, cấp huyện) với CSDL quốc gia về Dân cư và xác định chính xác số tiền phải đóng để người tham gia nộp tiền trực tuyến. Trường hợp xác định nơi thường trú không đúng, hệ thống phần mềm hiển thị thông báo cho người tham gia biết về địa chỉ cư trú chưa đúng với CSDL quốc gia để liên hệ với cơ quan Công an hướng dẫn, điều chỉnh, sau đó thực hiện lại Bước 1 hoặc có thể đăng ký tham gia BHXH tự nguyện tại các tổ chức dịch vụ thu BHXH, BHYT hoặc tại cơ quan BHXH.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:255110:part:1:article:8:clause:3",
+                    "number": "3",
+                    "content": "3. Bước 3, Bước 4, Bước 5, Bước 6,\nBước 7: Thực hiện như khoản 3, khoản 4, khoản 5, khoản 6, khoản 7, Điều 4 của Quy trình này.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:255110:part:1:chapter:3",
+            "number": "III",
+            "title": "TỔ CHỨC THỰC HIỆN",
+            "content": "Chương III\nTỔ CHỨC THỰC HIỆN",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:255110:part:1:article:9",
+                "number": "6",
+                "title": "Trách nhiệm của các đơn vị",
+                "content": "Điều 6. Trách nhiệm của các đơn vị",
+                "clauses": [
+                  {
+                    "clause_id": "doc:255110:part:1:article:9:clause:1",
+                    "number": "1",
+                    "content": "1. Ban Quản lý Thu - Sổ, Thẻ:\n- Chủ trì, phối hợp với các đơn vị liên quan tổ chức chỉ đạo, kiểm tra, hướng dẫn thực hiện Quyết định này. - Kịp thời cung cấp danh sách các mức đóng BHXH tự nguyện (khi có phát sinh hoặc có thay đổi) cho Trung tâm Công nghệ thông tin cập nhật lên Cổng Dịch vụ công để người tham gia lựa chọn.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:255110:part:1:article:9:clause:2",
+                    "number": "2",
+                    "content": "2. Trung tâm Công nghệ thông tin: Xây\ndựng và hoàn thiện các chức năng trên Hệ thống các phần mềm và hướng dẫn, phân quyền cán bộ thực hiện đáp ứng theo Quy trình này.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:255110:part:1:article:9:clause:3",
+                    "number": "3",
+                    "content": "3. Văn phòng: Tham mưu ban hành Quyết\nđịnh công bố dịch vụ công trực tuyến đăng ký tham gia đóng BHXH tự nguyện trên Cổng Dịch vụ công thuộc thẩm quyền giải quyết của BHXH Việt Nam.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:255110:part:1:article:9:clause:4",
+                    "number": "4",
+                    "content": "4. Thủ trưởng các đơn vị trực thuộc\nBHXH Việt Nam theo chức năng nhiệm vụ được giao có trách nhiệm thực hiện theo Quy trình này.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:255110:part:1:article:9:clause:5",
+                    "number": "5",
+                    "content": "5. BHXH các tỉnh, thành phố",
+                    "points": [
+                      {
+                        "point_id": "doc:255110:part:1:article:9:clause:5:point:1",
+                        "label": "a",
+                        "content": "a) Tham mưu UBND cấp tỉnh chỉ đạo cơ\nquan có thẩm quyền lập danh sách người thuộc hộ nghèo, hộ cận nghèo có các trường thông tin như: Số ĐDCN, họ và tên, ngày tháng năm sinh, giới tính đảm bảo khớp đúng với dữ liệu đang quản lý được xác thực với CSDL quốc gia về dân cư và gửi dữ liệu đến cơ quan BHXH đúng thời gian quy định. Đồng thời chỉ đạo các sở, ngành phối hợp với cơ quan BHXH triển khai Quy trình này đáp ứng mục tiêu, nhiệm vụ tại Quyết định số 06/QĐ-TTg ngày 06/01/2022 và Quyết định số 422/QĐ-TTg ngày 04/4/2022 của Thủ tướng Chính phủ.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:255110:part:1:article:9:clause:5:point:2",
+                        "label": "b",
+                        "content": "b) Kịp thời tiếp nhận dữ liệu người\nthuộc hộ nghèo, hộ cận nghèo do chính quyền địa phương cung cấp theo điểm a nêu trên để cập nhật ngay vào CSDL BHXH Việt Nam theo hướng dẫn của Trung tâm Công nghệ thông tin.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:255110:part:1:article:9:clause:5:point:3",
+                        "label": "c",
+                        "content": "c) Thực hiện khai báo tỷ lệ Nhà nước\nhỗ trợ mức đóng BHXH tự nguyện và ngân sách địa phương hỗ trợ thêm tiền đóng (nếu có), thời hạn được hỗ trợ vào mã đơn vị quản lý riêng tại cơ quan BHXH tỉnh/huyện để làm cơ sở hệ thống phần mềm xác định chính xác số tiền còn phải đóng của người tham gia và chịu trách nhiệm về tính chính xác của nội dung khai báo.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:255110:part:1:article:9:clause:5:point:4",
+                        "label": "d",
+                        "content": "d) Hằng ngày, theo dõi, kiểm soát hồ\nsơ tiếp nhận với các phát sinh tự động đăng ký tham gia BHXH tự nguyện tại mã đơn vị quản lý riêng để kịp thời phát hiện, xử lý lỗi phát sinh trong quá trình triển khai Quy trình này.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:255110:part:1:article:9:clause:5:point:5",
+                        "label": "đ",
+                        "content": "đ) Hằng quý, phối hợp với cơ quan quản\nlý đối tượng đối chiếu chính xác người tham gia được nhà nước hỗ trợ đóng BHXH tự nguyện để tổng hợp đối tượng và kinh phí do ngân sách nhà nước hỗ trợ đóng BHXH tự nguyện gửi cơ quan tài chính chuyển kinh phí tương ứng vào quỹ BHXH theo quy định.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:255110:part:1:article:9:clause:5:point:6",
+                        "label": "e",
+                        "content": "e) Giám đốc BHXH các tỉnh, thành phố\nthực hiện kiểm soát, theo dõi và quản lý người tham gia theo quy định hiện hành.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:255110:part:1:article:9:clause:5:point:7",
+                        "label": "g",
+                        "content": "g) Xây dựng Kế hoạch truyền thông về\ncác tính năng, tiện ích để hướng dẫn người tham gia đăng ký tham gia BHXH tự nguyện trên Cổng Dịch vụ công.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:255110:part:1:article:9:clause:5:point:8",
+                        "label": "h",
+                        "content": "h) Tiếp nhận phản ánh, kiến nghị và\nchỉ đạo việc giải quyết xử lý các phản ánh, kiến nghị của người tham gia. Trường hợp phản ánh kiến nghị của người tham gia có liên quan với cơ quan BHXH khác, cơ quan BHXH nơi tiếp nhận phải chủ động phối hợp với cơ quan BHXH nơi có liên quan để giải quyết.",
+                        "children": []
+                      }
+                    ]
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:255110:part:1:article:10",
+                "number": "7",
+                "title": "Điều khoản chuyển tiếp và tham chiếu",
+                "content": "Điều 7. Điều khoản chuyển tiếp và tham chiếu",
+                "clauses": [
+                  {
+                    "clause_id": "doc:255110:part:1:article:10:clause:1",
+                    "number": "1",
+                    "content": "1. Các quy định liên quan đến công\ntác thu, cấp sổ BHXH về định kỳ hằng ngày, hằng tháng, hằng quý kiểm tra, đối chiếu, tổng hợp, báo cáo, thời hạn giải quyết hồ sơ, trả kết quả và các nội dung khác không quy định cụ thể tại Quy trình này được tiếp tục thực hiện tuân thủ theo Quy trình quản lý thu BHXH, bảo hiểm y tế, bảo hiểm thất nghiệp, bảo hiểm tai nạn lao động, bệnh nghề nghiệp; quản lý sổ BHXH, thẻ bảo hiểm y tế ban hành kèm theo Quyết định số 595/QĐ-BHXH ngày 14/4/2017 và Quyết định số 505/QĐ-BHXH ngày 27/3/2020 của Tổng Giám đốc Bảo hiểm xã hội Việt Nam.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:255110:part:1:article:10:clause:2",
+                    "number": "2",
+                    "content": "2. Trường hợp người tham gia BHXH tự\nnguyện thuộc hộ nghèo, hộ cận nghèo tại địa phương chưa có dữ liệu theo điểm b, khoản 5, Điều 6 nêu và các trường hợp không thuộc đối tượng áp dụng trong Quy trình này thì thực hiện đăng ký tham gia BHXH tự nguyện tại các tổ chức dịch vụ thu BHXH, BHYT hoặc tại cơ quan BHXH theo quy định hiện hành.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:255110:part:1:article:10:clause:3",
+                    "number": "3",
+                    "content": "3. Trường hợp các văn bản dẫn chiếu\ntrong Quyết định này bị thay thế hoặc sửa đổi, bổ sung thì thực hiện theo văn bản thay thế hoặc văn bản đã được sửa đổi, bổ sung./. Mẫu 02-TK",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          }
+        ],
+        "sections": [],
+        "articles": [
+          {
+            "article_id": "doc:255110:part:1:article:1",
+            "number": "1",
+            "title": "Ban hành kèm theo Quyết định này Quy trình đăng ký tham gia bảo hiểm xã hội tự nguyện trên Cổng Dịch vụ công theo Quyết định số 422/QĐ-TTg ngày 04/4/2022 của Thủ tướng Chính phủ phê duyệt Danh mục dịch vụ công trực tuyến tích hợp, cung cấp trên Cổng Dịch vụ công quốc gia năm 2022.",
+            "content": "Điều 1. Ban hành kèm theo Quyết định này Quy trình đăng ký tham gia bảo hiểm xã hội tự nguyện trên Cổng Dịch vụ công theo Quyết định số 422/QĐ-TTg ngày 04/4/2022 của Thủ tướng Chính phủ phê duyệt Danh mục dịch vụ công trực tuyến tích hợp, cung cấp trên Cổng Dịch vụ công quốc gia năm 2022.",
+            "clauses": [],
+            "points": []
+          },
+          {
+            "article_id": "doc:255110:part:1:article:2",
+            "number": "2",
+            "title": "Quyết định này có hiệu lực kể từ ngày 01/01/2023.",
+            "content": "Điều 2. Quyết định này có hiệu lực kể từ ngày 01/01/2023.",
+            "clauses": [],
+            "points": []
+          },
+          {
+            "article_id": "doc:255110:part:1:article:3",
+            "number": "3",
+            "title": "Trưởng Ban Quản lý Thu - Sổ, Thẻ, Chánh Văn phòng Bảo hiểm xã hội Việt Nam, Giám đốc Trung tâm Công nghệ thông tin, Thủ trưởng các đơn vị trực thuộc Bảo hiểm xã hội Việt Nam; Giám đốc Bảo hiểm xã hội các tỉnh, thành phố trực thuộc Trung ương chịu trách nhiệm thi hành Quyết định này./.",
+            "content": "Điều 3. Trưởng Ban Quản lý Thu - Sổ, Thẻ, Chánh Văn phòng Bảo hiểm xã hội Việt Nam, Giám đốc Trung tâm Công nghệ thông tin, Thủ trưởng các đơn vị trực thuộc Bảo hiểm xã hội Việt Nam; Giám đốc Bảo hiểm xã hội các tỉnh, thành phố trực thuộc Trung ương chịu trách nhiệm thi hành Quyết định này./.",
+            "clauses": [],
+            "points": []
+          }
+        ],
+        "unstructured_blocks": []
+      }
+    ]
+  },
+  "issues": [],
+  "status": "ok",
+  "source_hash": "context_255110.json",
+  "stats": {
+    "source_chars": 20212,
+    "passage_chars": 20049,
+    "parts": 1,
+    "chapters": 3,
+    "sections": 0,
+    "articles": 10,
+    "clauses": 29,
+    "points": 8
+  }
+}

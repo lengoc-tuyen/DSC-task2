@@ -1,0 +1,901 @@
+{
+  "schema_version": "2.0",
+  "document_id": 220407,
+  "metadata": {
+    "name": "Quyet-dinh-2371-QD-BCT-2022-Quy-che-hoat-dong-cua-Cong-thong-tin-dien-tu-ve-Hiep-dinh-FTAP-538015",
+    "link": "https://thuvienphapluat.vn/van-ban/Thuong-mai/Quyet-dinh-2371-QD-BCT-2022-Quy-che-hoat-dong-cua-Cong-thong-tin-dien-tu-ve-Hiep-dinh-FTAP-538015.aspx",
+    "issuing_agency": "BỘ CÔNG THƯƠNG",
+    "national_header": "CỘNG HÒA XÃ HỘI\r\n\n  CHỦ NGHĨA VIỆT NAM",
+    "motto": "Độc lập - Tự do - Hạnh phúc",
+    "document_number": "2371/QĐ-BCT",
+    "issued_place": "Hà Nội",
+    "issued_date": "ngày 09\r\n\n  tháng 11 năm 2022",
+    "document_type": "QUYẾT ĐỊNH",
+    "title": "VỀ VIỆC BAN HÀNH QUY CHẾ HOẠT ĐỘNG CỦA CỔNG THÔNG TIN ĐIỆN TỬ VỀ HIỆP ĐỊNH THƯƠNG MẠI TỰ DO VIỆT NAM (FTAP)"
+  },
+  "administrative_header": {
+    "removed": true,
+    "removed_char_count": 151
+  },
+  "preamble": {
+    "text": "QUYẾT ĐỊNH VỀ\nVIỆC BAN HÀNH QUY CHẾ HOẠT ĐỘNG CỦA CỔNG THÔNG TIN ĐIỆN TỬ VỀ HIỆP ĐỊNH THƯƠNG MẠI\nTỰ DO VIỆT NAM (FTAP) BỘ TRƯỞNG BỘ CÔNG THƯƠNG\nCăn cứ Luật số 76/2015/QH13 ngày 19 tháng 6 năm 2015 của Quốc hội về Luật tổ chức chính phủ và các văn bản sửa đổi, bổ sung có liên quan; Căn cứ Nghị định số 98/2017/NĐ-CP ngày 18 tháng 8 năm 2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Công Thương; Căn cứ Quyết định số 121/QĐ-TTg ngày 24 tháng 01 năm 2019 của Thủ tướng Chính phủ về việc phê duyệt Kế hoạch thực hiện Hiệp định Đối tác Toàn diện và Tiến bộ xuyên Thái Bình Dương (CPTPP); Căn cứ Quyết định số 1201/QĐ-TTg ngày 06 tháng 8 năm 2020 của Thủ tướng Chính phủ về việc phê duyệt Kế hoạch thực hiện Hiệp định Thương mại tự do giữa Việt Nam và Liên minh châu Âu (EVFTA); Căn cứ công văn số 6548/VPCP-QHQT ngày 10 tháng 8 năm 2020 của Văn phòng Chính phủ về việc Phụ lục kèm theo Quyết định số 1201/QĐ-TTg phê duyệt Kế hoạch thực hiện Hiệp định EVFTA; Căn cứ Quyết định số 721/QĐ-TTg ngày 18 tháng 5 năm 2021 của Thủ tướng Chính phủ về việc phê duyệt Kế hoạch thực hiện Hiệp định Thương mại tự do giữa Việt Nam và Liên hiệp Vương Quốc Anh và Bắc Ai-len\n(UKVFTA);\nCăn cứ Quyết định số 456/QĐ-BCT ngày 01 tháng 3 năm 2019 của Bộ Công Thương phê duyệt Kế hoạch thực hiện Hiệp định CPTPP; Căn cứ Quyết định số 2091/QĐ-BCT của Bộ Công Thương ngày 06 tháng 8 năm 2020 về Kế hoạch thực hiện Hiệp định EVFTA; Căn cứ Quyết định số 1449/QĐ-BCT ngày 24 tháng 5 năm 2021 của Bộ Công Thương về Kế hoạch thực hiện Hiệp định UKVFTA; Căn cứ Quyết định số 3777/QĐ-BCT ngày 02 tháng 10 năm 2017 của Bộ trưởng Bộ Công Thương quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Vụ Chính sách thương mại đa biên; Căn cứ Quyết định số 34/2007/QĐ-TTg ngày 12 tháng 3 năm 2007 của Thủ tướng Chính phủ về việc ban hành Quy chế thành lập, tổ chức và hoạt động của tổ chức phối hợp liên ngành; Căn cứ Quyết định số 1718/QĐ-BCT ngày 06 tháng 7 năm 2021 của Bộ trưởng Bộ Công Thương phê duyệt Đề án tiếp nhận, vận hành, nâng cấp và phát triển Cổng thông tin điện tử về Hiệp định Thương mại Tự do Việt Nam (FTAP) giai đoạn 2021-2025 và tầm nhìn đến 2035; Căn cứ chỉ đạo của Phó Thủ tướng Chính phủ Phạm Bình Minh tại công văn số 3027/VPCP-QHQT ngày 08 tháng 5 năm 2021 về Đề án tiếp nhận, vận hành, nâng cấp và phát triển FTAP; Căn cứ Quyết định số 2773/QĐ-BCT ngày 10 tháng 12 năm 2021 của Bộ Công Thương về việc thành lập Tổ công tác liên Bộ để triển khai Đề án tiếp nhận, vận hành, nâng cấp và phát triển FTAP giai đoạn 2021 - 2025 và tầm nhìn đến 2035; Xét đề nghị của Vụ trưởng Vụ Chính sách thương mại đa biên,\nQUYẾT ĐỊNH:",
+    "legal_bases": [
+      "Căn cứ Nghị định số 98/2017/NĐ-CP ngày 18 tháng 8 năm 2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Công Thương",
+      "Căn cứ Quyết định số 121/QĐ-TTg ngày 24 tháng 01 năm 2019 của Thủ tướng Chính phủ về việc phê duyệt Kế hoạch thực hiện Hiệp định Đối tác Toàn diện và Tiến bộ xuyên Thái Bình Dương (CPTPP)",
+      "Căn cứ Quyết định số 1201/QĐ-TTg ngày 06 tháng 8 năm 2020 của Thủ tướng Chính phủ về việc phê duyệt Kế hoạch thực hiện Hiệp định Thương mại tự do giữa Việt Nam và Liên minh châu Âu (EVFTA)",
+      "Căn cứ công văn số 6548/VPCP-QHQT ngày 10 tháng 8 năm 2020 của Văn phòng Chính phủ về việc Phụ lục kèm theo Quyết định số 1201/QĐ-TTg phê duyệt Kế hoạch thực hiện Hiệp định EVFTA",
+      "Căn cứ Quyết định số 721/QĐ-TTg ngày 18 tháng 5 năm 2021 của Thủ tướng Chính phủ về việc phê duyệt Kế hoạch thực hiện Hiệp định Thương mại tự do giữa Việt Nam và Liên hiệp Vương Quốc Anh và Bắc Ai-len\n(UKVFTA)",
+      "Căn cứ Quyết định số 456/QĐ-BCT ngày 01 tháng 3 năm 2019 của Bộ Công Thương phê duyệt Kế hoạch thực hiện Hiệp định CPTPP",
+      "Căn cứ Quyết định số 2091/QĐ-BCT của Bộ Công Thương ngày 06 tháng 8 năm 2020 về Kế hoạch thực hiện Hiệp định EVFTA",
+      "Căn cứ Quyết định số 1449/QĐ-BCT ngày 24 tháng 5 năm 2021 của Bộ Công Thương về Kế hoạch thực hiện Hiệp định UKVFTA",
+      "Căn cứ Quyết định số 3777/QĐ-BCT ngày 02 tháng 10 năm 2017 của Bộ trưởng Bộ Công Thương quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Vụ Chính sách thương mại đa biên",
+      "Căn cứ Quyết định số 34/2007/QĐ-TTg ngày 12 tháng 3 năm 2007 của Thủ tướng Chính phủ về việc ban hành Quy chế thành lập, tổ chức và hoạt động của tổ chức phối hợp liên ngành",
+      "Căn cứ Quyết định số 1718/QĐ-BCT ngày 06 tháng 7 năm 2021 của Bộ trưởng Bộ Công Thương phê duyệt Đề án tiếp nhận, vận hành, nâng cấp và phát triển Cổng thông tin điện tử về Hiệp định Thương mại Tự do Việt Nam (FTAP) giai đoạn 2021-2025 và tầm nhìn đến 2035",
+      "Căn cứ chỉ đạo của Phó Thủ tướng Chính phủ Phạm Bình Minh tại công văn số 3027/VPCP-QHQT ngày 08 tháng 5 năm 2021 về Đề án tiếp nhận, vận hành, nâng cấp và phát triển FTAP",
+      "Căn cứ Quyết định số 2773/QĐ-BCT ngày 10 tháng 12 năm 2021 của Bộ Công Thương về việc thành lập Tổ công tác liên Bộ để triển khai Đề án tiếp nhận, vận hành, nâng cấp và phát triển FTAP giai đoạn 2021 - 2025 và tầm nhìn đến 2035"
+    ],
+    "proposals": [
+      "Xét đề nghị của Vụ trưởng Vụ Chính sách thương mại đa biên,\nQUYẾT ĐỊNH:"
+    ],
+    "enactment_formula": "QUYẾT ĐỊNH:"
+  },
+  "passage": "QUYẾT ĐỊNH VỀ\nVIỆC BAN HÀNH QUY CHẾ HOẠT ĐỘNG CỦA CỔNG THÔNG TIN ĐIỆN TỬ VỀ HIỆP ĐỊNH THƯƠNG MẠI\nTỰ DO VIỆT NAM (FTAP) BỘ TRƯỞNG BỘ CÔNG THƯƠNG\nCăn cứ Luật số 76/2015/QH13 ngày 19 tháng 6 năm 2015 của Quốc hội về Luật tổ chức chính phủ và các văn bản sửa đổi, bổ sung có liên quan; Căn cứ Nghị định số 98/2017/NĐ-CP ngày 18 tháng 8 năm 2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Công Thương; Căn cứ Quyết định số 121/QĐ-TTg ngày 24 tháng 01 năm 2019 của Thủ tướng Chính phủ về việc phê duyệt Kế hoạch thực hiện Hiệp định Đối tác Toàn diện và Tiến bộ xuyên Thái Bình Dương (CPTPP); Căn cứ Quyết định số 1201/QĐ-TTg ngày 06 tháng 8 năm 2020 của Thủ tướng Chính phủ về việc phê duyệt Kế hoạch thực hiện Hiệp định Thương mại tự do giữa Việt Nam và Liên minh châu Âu (EVFTA); Căn cứ công văn số 6548/VPCP-QHQT ngày 10 tháng 8 năm 2020 của Văn phòng Chính phủ về việc Phụ lục kèm theo Quyết định số 1201/QĐ-TTg phê duyệt Kế hoạch thực hiện Hiệp định EVFTA; Căn cứ Quyết định số 721/QĐ-TTg ngày 18 tháng 5 năm 2021 của Thủ tướng Chính phủ về việc phê duyệt Kế hoạch thực hiện Hiệp định Thương mại tự do giữa Việt Nam và Liên hiệp Vương Quốc Anh và Bắc Ai-len\n(UKVFTA);\nCăn cứ Quyết định số 456/QĐ-BCT ngày 01 tháng 3 năm 2019 của Bộ Công Thương phê duyệt Kế hoạch thực hiện Hiệp định CPTPP; Căn cứ Quyết định số 2091/QĐ-BCT của Bộ Công Thương ngày 06 tháng 8 năm 2020 về Kế hoạch thực hiện Hiệp định EVFTA; Căn cứ Quyết định số 1449/QĐ-BCT ngày 24 tháng 5 năm 2021 của Bộ Công Thương về Kế hoạch thực hiện Hiệp định UKVFTA; Căn cứ Quyết định số 3777/QĐ-BCT ngày 02 tháng 10 năm 2017 của Bộ trưởng Bộ Công Thương quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Vụ Chính sách thương mại đa biên; Căn cứ Quyết định số 34/2007/QĐ-TTg ngày 12 tháng 3 năm 2007 của Thủ tướng Chính phủ về việc ban hành Quy chế thành lập, tổ chức và hoạt động của tổ chức phối hợp liên ngành; Căn cứ Quyết định số 1718/QĐ-BCT ngày 06 tháng 7 năm 2021 của Bộ trưởng Bộ Công Thương phê duyệt Đề án tiếp nhận, vận hành, nâng cấp và phát triển Cổng thông tin điện tử về Hiệp định Thương mại Tự do Việt Nam (FTAP) giai đoạn 2021-2025 và tầm nhìn đến 2035; Căn cứ chỉ đạo của Phó Thủ tướng Chính phủ Phạm Bình Minh tại công văn số 3027/VPCP-QHQT ngày 08 tháng 5 năm 2021 về Đề án tiếp nhận, vận hành, nâng cấp và phát triển FTAP; Căn cứ Quyết định số 2773/QĐ-BCT ngày 10 tháng 12 năm 2021 của Bộ Công Thương về việc thành lập Tổ công tác liên Bộ để triển khai Đề án tiếp nhận, vận hành, nâng cấp và phát triển FTAP giai đoạn 2021 - 2025 và tầm nhìn đến 2035; Xét đề nghị của Vụ trưởng Vụ Chính sách thương mại đa biên,\nQUYẾT ĐỊNH:\nĐiều 1. Ban hành kèm theo Quyết định này Quy chế hoạt động của Cổng thông tin điện tử về Hiệp định thương mại tự do Việt Nam (FTAP).\nĐiều 2. Quyết định này có hiệu lực kể từ ngày ký.\nĐiều 3. Chánh Văn phòng Bộ, Vụ trưởng Vụ Chính sách thương mại đa biên, Thủ trưởng các đơn vị có liên quan và các thành viên của Tổ công tác liên Bộ để triển khai Đề án tiếp nhận, vận hành, nâng cấp và phát triển FTAP chịu trách nhiệm thi hành Quyết định này./.\nNơi nhận:\n- Như Điều 3;\n- Bộ trưởng;\n- Các Thứ trưởng;\n- Các Bộ: TC, KHĐT, NN&PTNT, TNMT, LĐ-TB&XH, KH&CN, CA, TTTT, NG,\nTP, VHTTDL, NHNN;\n- Đài truyền hình VN, Đài tiếng nói VN, TTX VN;\n- Các đ/v: ĐB, AP, AM, XNK, TMĐT&KTS, XTTM, PVTM, CT&BVNTD, VPB,\nTC&ĐMDN, TTTT CN&TM;\n- Lưu: VT, ĐB (2).\nKT. BỘ TRƯỞNG\nTHỨ TRƯỞNG\nTrần Quốc Khánh\nQUY CHẾ\nVẬN\nHÀNH THÔNG TIN VÀ QUẢN LÝ HOẠT ĐỘNG CỦA CỔNG THÔNG TIN QUỐC GIA VỀ HIỆP ĐỊNH\nTHƯƠNG MẠI TỰ DO VIỆT NAM (FTAP)\n(Ban hành kèm theo Quyết định số 2371/QĐ-BCT ngày 09 tháng 11 năm 2022 của Bộ\ntrưởng Bộ Công Thương)\nChương I\nQUY ĐỊNH CHUNG\nĐiều 1. Phạm vi điều chỉnh, đối tượng áp dụng\n1. Quy chế này quy định về quản lý hoạt động và vận\nhành thông tin của Cổng thông tin quốc gia về Hiệp định thương mại tự do Việt Nam (sau đây gọi tắt là FTAP).\n2. Quy chế này áp dụng đối với các cá nhân, đơn vị\nquản lý, xây dựng, vận hành, nâng cấp nội dung, cung cấp thông tin cho FTAP (sau đây gọi chung là cá nhân, đơn vị).\nĐiều 2. Giải thích từ ngữ\n1. “FTA” là Hiệp định thương mại tự do.\n2. Cổng thông tin điện tử về Hiệp định thương mại tự\ndo Việt Nam (sau đây gọi tắt là FTAP) tại địa chỉ https://fta.gov.vn là Cổng thông tin điện tử cấp Chính phủ về tất cả các FTA mà Việt Nam đang tham gia.\n3. “Tổ công tác FTAP” là Tổ công tác liên Bộ để triển\nkhai Đề án tiếp nhận, vận hành, nâng cấp và phát triển Cổng thông tin điện tử về Hiệp định thương mại tự do Việt Nam giai đoạn 2021-2025 và tầm nhìn đến 2035.\n4. “Hệ số liên quan” là các hệ số để xác định mức\nchi nhuận bút, thù lao cho các tin, bài và nội dung trả lời bạn đọc được đăng tải trên FTAP, bao gồm: hệ số giá trị tin, bài; số lượng độ dài tin, bài; hệ số nhuận bút; hệ số ảnh.\nĐiều 3. Chức năng, nhiệm vụ của FTAP\n1. FTAP có chức năng cung cấp, trao đổi thông tin,\ndữ liệu, hỗ trợ các cơ quan quản lý nhà nước, tổ chức, cá nhân theo đúng quy định của pháp luật về các vấn đề liên quan đến các FTA mà Việt Nam tham gia trên môi trường mạng Internet.\n2. FTAP có các nhiệm vụ như sau:\na) Cung cấp công cụ tra cứu trực tuyến (online) đối\nvới cam kết của tất cả các FTA mà Việt Nam tham gia, bao gồm các cam kết về thuế, quy tắc xuất xứ, dịch vụ và đầu tư đồng thời cập nhật nội dung các FTA và thỏa thuận thương mại mà Việt Nam tham gia.\nb) Cung cấp thông tin hỗ trợ cho quá trình giao\nthương của doanh nghiệp như tình hình thị trường trong và ngoài nước, các quy định về xuất nhập khẩu của Việt Nam và các nước đối tác, phòng vệ thương mại, lao động, môi trường, phát triển bền vững, sở hữu trí tuệ v.v.\nc) Cập nhật các văn bản pháp luật liên quan đến các\nFTA và các thỏa thuận thương mại mà Việt Nam tham gia.\nd) Cập nhật tình hình thực thi các FTA và các thỏa\nthuận thương mại mà Việt Nam tham gia.\ne) Kết nối với các Cổng thông tin của các Bộ,\nngành, các cơ quan đại diện Việt Nam tại nước ngoài, cơ quan quản lý địa phương và trang thông tin điện tử của các Hiệp hội... để tạo điều kiện thuận lợi cho việc tiếp cận thông tin và sự hỗ trợ cho người dân, doanh nghiệp và nhà đầu tư, đồng thời tăng cường sự chia sẻ và khai thác dữ liệu dùng chung.\nf) Cung cấp và chia sẻ các tài liệu ấn phẩm số, các\nkhóa đào tạo trực tuyến về các nội dung liên quan đến FTA.\ng) Các nội dung khác có liên quan đến FTA và các thỏa\nthuận thương mại mà Việt Nam tham gia.\nĐiều 4. Quản lý FTAP\n1. FTAP hoạt động dưới sự chỉ đạo trực tiếp của Bộ\ntrưởng Bộ Công Thương và các đồng chí lãnh đạo Bộ Công Thương.\n2. Tổ Công tác FTAP có trách nhiệm quản lý và vận\nhành chung FTAP.\n3. Bộ phận biên tập FTAP được quy định tại Điều 11 của Quy chế này: Chịu trách nhiệm biên tập và quản lý nội\ndung, hình thức thông tin đăng lên FTAP.\n4. Bộ Công Thương (Cục Thương mại điện tử và Kinh tế\nsố) căn cứ vào thực tế tính năng kỹ thuật của FTAP được chuyển giao có trách nhiệm quản lý các vấn đề kỹ thuật của FTAP; phối hợp với Bộ Thông tin và Truyền thông, Bộ Công an đảm bảo an toàn, an ninh cho hoạt động của FTAP; thực hiện sao lưu thường xuyên dữ liệu của FTAP; quản lý quyền truy cập FTAP; theo dõi về kỹ thuật trong việc xuất bản thông tin lên FTAP sau khi Ban Biên tập duyệt; thực hiện điều chỉnh, sửa đổi và nâng cấp giao diện của FTAP phù hợp với điều kiện kỹ thuật của hệ thống; nghiên cứu và phối hợp với Ban Biên tập để đề xuất kế hoạch nâng cấp phát triển FTAP khi cần thiết; Thực hiện liên thông, đồng bộ cơ sở dữ liệu, áp dụng tiêu chuẩn kỹ thuật, bảo đảm tính tương thích, thông suốt trong quá trình chia sẻ, trao đổi thông tin giữa các kênh thông tin điện tử, thông tin đa phương tiện của Cổng thông tin FTAP với các cơ quan, đơn vị, tổ chức.\n5. Đại diện của Bộ Thông tin và Truyền thông phối hợp\nvới đại diện Bộ Công An và Bộ Công Thương (Cục Thương mại điện tử và Kinh tế số) trong Tổ Công tác FTAP chịu trách nhiệm thực hiện các biện pháp kỹ thuật bảo đảm sự hoạt động an toàn của FTAP.\nĐiều 5. Kinh phí cho FTAP và chế độ nhuận bút, thù lao thực hiện công việc của FTAP\n1. Kinh phí vận hành, nâng cấp và phát triển FTAP,\ncông tác quản trị, nhuận bút, thù lao cho tác giả, cộng tác viên, biên tập viên của FTAP được trích từ nguồn ngân sách cấp cho FTAP theo dự toán hàng năm cũng như các nguồn kinh phí hợp pháp khác.\n2. Mức chi thù lao, nhuận bút và chi cho tạo lập,\nchuyển đổi và số hóa thông tin của FTAP thực hiện theo quy định hiện hành.\n3. Các hệ số liên quan của tin, bài, nội dung trả lời\nbạn đọc được xác định dựa trên tiêu chí về nội dung và tiêu chí về thời gian theo Phụ lục 1 đính kèm Quy chế này.\nChương II\nNỘI DUNG THÔNG TIN, CUNG\nCẤP VÀ CẬP NHẬT THÔNG TIN CHO FTAP\nĐiều 6. Đối tượng cung cấp thông tin cho FTAP\n1. Các cá nhân, đơn vị liên quan có trách nhiệm\ncung cấp nội dung thông tin theo quy định tại Điều 7 của Quy chế này.\n2. Phân công cung cấp thông tin thường xuyên trong\nTổ Công tác FTAP:\na) Các thành viên thuộc Bộ Công Thương: Cung cấp\ncác thông tin về tình hình đàm phán, thực hiện các FTA và các thỏa thuận thương mại mà Việt Nam tham gia, thông tin chung và đánh giá về tình hình xuất nhập khẩu giữa Việt Nam và các đối tác thương mại, các thông tin thị trường trong và ngoài nước, các cơ hội đầu tư kinh doanh, các biện pháp xúc tiến thương mại, phòng vệ thương mại…; Cập nhật các văn bản pháp luật liên quan đến FTA trong lĩnh vực phụ trách; Cập nhật các tài liệu, ấn phẩm số, thông tin về các khóa đào tạo, hội nghị và tập huấn liên quan đến FTA...\nb) Các thành viên thuộc Bộ Tài chính: Cung cấp số\nliệu về xuất khẩu, nhập khẩu ở cấp độ mã HS theo phân loại hiện hành của Việt Nam theo các nước đối tác, mặt hàng, địa phương định kỳ theo tháng; Phối hợp với đại diện của Bộ Công Thương là thành viên Tổ Công tác trong việc kết nối API chia sẻ dữ liệu, thông tin; Cập nhật thông tin về các văn bản pháp luật liên quan đến FTA và thỏa thuận thương mại mà Việt Nam tham gia trong lĩnh vực phụ trách; Cập nhật tình hình thực hiện các cam kết về thuế, hải quan, thuận lợi hóa thương mại... trong các FTA và thỏa thuận thương mại mà Việt Nam tham gia.\nc) Các thành viên thuộc Bộ Nông nghiệp và Phát triển\nnông thôn: Cung cấp thông tin về các quy định, văn bản pháp luật, các biện pháp, quy định áp dụng đối với hàng xuất khẩu, nhập khẩu có liên quan lĩnh vực nông nghiệp; Cập nhật tình hình thực hiện cam kết về nông nghiệp, SPS, IUU... trong các FTA và thỏa thuận thương mại mà Việt Nam tham gia.\nd) Các thành viên thuộc Bộ Kế hoạch và Đầu tư: Cung\ncấp số liệu về đầu tư nước ngoài vào Việt Nam cũng như đầu tư từ Việt Nam ra nước ngoài theo các nước đối tác FTA, lĩnh vực, địa phương; Cung cấp thông tin về các lĩnh vực, dự án thu hút đầu tư nước ngoài và đầu tư ra nước ngoài ở cấp Trung ương và địa phương; Cập nhật thông tin về các văn bản pháp luật liên quan đến FTA và thỏa thuận đầu tư mà Việt Nam tham gia trong lĩnh vực phụ trách; Cập nhật tình hình thực hiện cam kết về mua sắm Chính phủ, đầu tư... trong các FTA và thỏa thuận thương mại mà Việt Nam tham gia.\ne) Các thành viên thuộc Bộ Lao động, Thương binh và\nXã hội: Cung cấp các số liệu, thông tin liên quan đến các nội dung cam kết của Việt Nam trong các FTA liên quan đến lĩnh vực phụ trách; Cập nhật thông tin về các quy định, văn bản pháp luật liên quan đến các FTA và thỏa thuận thương mại mà Việt Nam tham gia trong lĩnh vực phụ trách; Cập nhật tình hình thực hiện cam kết liên quan về phát triển bền vững (lao động), di chuyển thể nhân hoặc nhập cảnh của khách kinh doanh... trong các FTA và thỏa thuận thương mại mà Việt Nam tham gia.\nf) Các thành viên thuộc Bộ Tài nguyên và Môi trường:\nCung cấp thông tin về các quy định, văn bản pháp luật, các biện pháp, quy định áp dụng đối với hàng xuất khẩu, nhập khẩu có liên quan lĩnh vực môi trường; Cung cấp các số liệu, thông tin liên quan đến các nội dung cam kết của Việt Nam trong các FTA liên quan đến lĩnh vực phụ trách; Cập nhật cập nhật thông tin về các quy định, văn bản pháp luật liên quan đến các FTA và thỏa thuận thương mại mà Việt Nam tham gia trong lĩnh vực phụ trách; Cập nhật tình hình thực hiện cam kết liên quan về phát triển bền vững (môi trường), ... trong các FTA và thỏa thuận thương mại mà Việt Nam tham gia.\ng) Các thành viên thuộc các Bộ, ngành khác: Cung cấp\ncác số liệu, thông tin liên quan đến các nội dung cam kết của Việt Nam trong các FTA liên quan đến lĩnh vực phụ trách; Cập nhật cập nhật thông tin về các quy định, văn bản pháp luật liên quan đến các FTA và thỏa thuận thương mại mà Việt Nam tham gia trong lĩnh vực phụ trách; Cập nhật tình hình thực hiện cam kết liên quan đến lĩnh vực phụ trách trong các FTA và thỏa thuận thương mại mà Việt Nam tham gia.\nh) Ngôn ngữ thông tin cung cấp thể hiện bằng cả tiếng\nViệt và tiếng Anh.\nĐiều 7. Quy định về nội dung thông tin được cung cấp trên FTAP Các thông tin cung cấp trên FTAP được thực hiện theo quy định của Luật báo chí, Luật công nghệ thông tin và các văn bản quy phạm pháp luật khác của Nhà nước. Cụ thể như sau:\n1. Chuyên mục Tin tức\nCác tin tức liên quan về tình hình đàm phán, thực hiện cam kết của Việt Nam trong các FTA và thỏa thuận thương mại mà Việt Nam tham gia, tình hình xuất nhập khẩu, xúc tiến thương mại, phòng vệ thương mại, phát triển bền vững, đầu tư, nông nghiệp..., thông tin về quy định và văn bản pháp luật mới có liên quan đến việc thực hiện các FTA mới ban hành và các tin tức có liên quan khác.\n2. Cập nhật chính sách\nCác quy định, văn bản pháp luật có liên quan đến việc thực hiện các cam kết hoặc liên quan đến các cam kết của Việt Nam trong các FTA và thỏa thuận thương mại mà Việt Nam tham gia.\n3. Thống kê, cung cấp số liệu và thông tin\na) Số liệu, thông tin về xuất khẩu, nhập khẩu, đầu\ntư, bao gồm thị trường nhập khẩu, xuất khẩu, đầu tư...\nb) Số liệu, thông tin về việc thực hiện các cam kết\ncủa Việt Nam trong các FTA và thỏa thuận thương mại đã tham gia.\nc) Báo cáo tổng hợp\nd) Các thông tin, số liệu khác\n4. Các thông tin khác\nBao gồm các mục về Sự kiện, Câu chuyện thực tế, Đào tạo trực tuyến, Ấn phẩm, Hỏi đáp, Liên kết website với các Cổng thông tin dịch vụ công, Cổng thông tin của các Bộ, ngành, địa phương và Hiệp hội, Nội dung cam kết của Việt Nam trong các FTA và thỏa thuận thương mại mà Việt Nam tham gia...\nĐiều 8. Ngôn ngữ trình bày và thông tin cung cấp cho FTAP\n1. Ngôn ngữ trình bày trên FTAP là trang Tiếng Việt\nvà trang Tiếng Anh. Thống nhất chỉ sử dụng Bộ mã Tiếng Việt Arial, TCVN3, kích cỡ 16.\n2. Các cá nhân, đơn vị có trách nhiệm rà soát, chỉnh\nsửa cho phù hợp với đường lối của Đảng và Nhà nước, đúng lĩnh vực quản lý của mình cũng như tính nhạy cảm của vấn đề trước khi gửi tới Bộ phận biên tập FTAP để đăng lên FTAP.\n3. Thông tin không đáp ứng các quy định sẽ không đủ\nđiều kiện đăng tải trên FTAP.\nĐiều 9. Cơ chế cung cấp thông tin của FTAP\n1. Chuẩn bị thông tin, số liệu\nĐại diện các Bộ, ngành là thành viên Tổ Công tác FTAP được phân công cung cấp thông tin cho FTAP có trách nhiệm báo cáo lãnh đạo đơn vị của mình duyệt nội dung do mình cung cấp cho Bộ phận Biên tập FTAP, đồng thời tự chịu trách nhiệm về tính chính xác, bản quyền các số liệu, thông tin, bài, video, ảnh... của mình gửi cho FTAP.\n2. Cách thức gửi thông tin, số liệu\nThông tin, số liệu gửi về hộp thư của Bộ phận biên tập FTAP tại địa chỉ bpbtftap@moit.gov.vn để xem xét trước khi đăng lên FTAP. Nếu gửi thông tin dưới dạng văn bản thì gửi tệp văn bản soạn thảo bằng Microsoft Word. Nếu gửi số liệu thì gửi tệp số liệu soạn thảo bằng Microsoft Excel (hoặc có thể định dạng khác nếu không gửi được bằng Excel). Trường hợp không gửi được qua thư điện tử thì có thể dùng USB, đĩa CD, DVD để chuyển thông tin cho Vụ chính sách thương mại đa biên, Bộ Công Thương, địa chỉ: 54 Hai Bà Trưng, Hà Nội.\n3. Nguồn khai thác thông tin, số liệu\na) Bộ phận biên tập FTAP sử dụng thông tin, số liệu\ntừ các Bộ, ngành, Hiệp hội ngành hàng... cung cấp.\nb) Bộ phận biên tập FTAP dẫn lại thông tin, số liệu\ntừ các nguồn chính thống như Cổng Chính phủ, Cổng Thông tin của các Bộ, ngành, Cổng Thông tin của các tỉnh, thành, Cổng Thông tin của các Hiệp hội ngành hàng...\nc) Bộ phận biên tập FTAP dẫn lại, biên tập thông\ntin, số liệu từ các trang web của các cơ quan Chính phủ của các nước đối tác của Việt Nam, của các Tổ chức quốc tế như Tổ chức Thương mại Thế giới (WTO), Hiệp hội các quốc gia Đông Nam á (ASEAN)...\nd) Các nguồn thông tin chính thống và tin cậy khác,\nbảo đảm tuân thủ quy định của pháp luật về bản quyền.\n4. Thời gian cung cấp thông tin\na) Các thông tin quy định tại Điều 7\ncủa Quy chế này phải được cung cấp ngay sau khi hoàn thành, cụ thể như sau: - Đối với hoạt động, sự kiện: không quá 03 ngày làm việc kể từ khi diễn ra hoạt động, sự kiện. - Đối với các quy định và văn bản pháp luật: không quá 07 ngày làm việc sau khi được ban hành. - Đối với số liệu thống kê, thông tin về thị trường, thông tin chuyên môn: Theo tháng, quý, năm, chậm nhất vào ngày 30 của tháng, quý, năm tùy theo tính chất của thông tin và số liệu thống kê hoặc theo yêu cầu của Ban Biên tập FTAP. - Đối với các bài nghiên cứu, tổng hợp, đánh giá: không quá 10 ngày làm việc sau khi được hoàn thành. - Đối với việc phản hồi câu hỏi, ý kiến của bạn đọc: không quá 15 ngày làm việc sau khi nhận được câu hỏi, ý kiến (có thể dài hơn 15 ngày làm việc nếu câu hỏi, ý kiến có nội dung phức tạp, nhạy cảm cần sự tham gia của các cơ quan chuyên môn khác nhau và phê duyệt của cấp có thẩm quyền).\nb) Trường hợp có thay đổi nội dung thông tin được\nquy định tại Điều 7 của Quy chế này, đơn vị chuyên môn cung cấp thông tin có trách nhiệm phải cung cấp lại thông tin cho Bộ phận biên tập FTAP để kịp thời cập nhật lại trên FTAP.\n5. Định mức thông tin\nCác chuyên mục nội dung liên quan đến lĩnh vực các thành viên của Tổ Công tác FTAP được phân công cung cấp thông tin trên FTAP phải đảm bảo định mức cung cấp thông tin cho FTAP phù hợp với yêu cầu cập nhật của FTAP (tin bài của tập thể cá nhân thuộc các đơn vị chuyên môn trực thuộc các Bộ, ngành là thành viên của Tổ Công tác FTAP tổng hợp, nghiên cứu và tự viết).\nĐiều 10. Trách nhiệm của tổ chức cung cấp và cập nhật thông tin cho FTAP\n1. Các đại diện của các Bộ, ngành là thành viên của\nTổ Công tác FTAP có trách nhiệm cung cấp đầy đủ, chính xác và kịp thời cho FTAP các nội dung thông tin được quy định tại Điều 7 của Quy chế này thuộc lĩnh vực do mình quản lý theo phân công tại khoản 3, Điều 4 của Quy chế này. Các đại diện của các Bộ, ngành là thành viên của Tổ Công tác FTAP trực tiếp cung cấp cho Bộ phận biên tập FTAP các thông tin đã được công bố, phê duyệt. Đối với các thông tin chưa được công bố, các đại diện của các Bộ, ngành là thành viên của Tổ Công tác FTAP cung cấp sau khi được người có thẩm quyền phê duyệt theo Quy chế quản lý thông tin, dữ liệu và phát ngôn của cơ quan mình.\n2. Các thông tin giải đáp các câu hỏi của tổ chức,\ndoanh nghiệp, nhà đầu tư và người dân về các vấn đề có liên quan đến lĩnh vực chuyên môn thì thành viên Tổ Công tác FTAP phụ trách lĩnh vực đó phải cung cấp nhanh chóng, kịp thời và chính xác theo quy định.\n3. Thủ trưởng các đơn vị chuyên môn phải chịu trách\nnhiệm trước lãnh đạo Bộ, ngành của mình về những thông tin cung cấp cho FTAP; các thông tin, số liệu cung cấp cho FTAP phải bảo đảm tính chính xác, không được vi phạm các quy định hiện hành về bảo vệ bí mật Nhà nước.\nChương III\nCÔNG TÁC BIÊN TẬP THÔNG TIN CHO FTAP\nĐiều 11. Bộ phận biên tập FTAP Bộ phận biên tập FTAP bao gồm một số thành viên của Tổ Công tác FTAP do Tổ trưởng Tổ Công tác FTAP phân công. Trưởng Bộ phận biên tập FTAP là Tổ trưởng Tổ Công tác FTAP, Phó Trưởng Bộ phận biên tập là thành viên Tổ Công tác FTAP do Tổ trưởng chỉ định.\nĐiều 12. Chức năng, nhiệm vụ của Bộ phận biên tập FTAP\n1. Chức năng\nBộ phận biên tập FTAP có chức năng giúp Tổ trưởng Tổ Công tác FTAP trong việc tổ chức viết bài, biên tập, đưa tin và quản lý thông tin, số liệu có liên quan trên FTAP, bảo đảm FTAP hoạt động thường xuyên, liên tục và hợp pháp.\n2. Nhiệm vụ\na) Tổ chức viết tin bài, khai thác thông tin, số liệu\ntừ các hoạt động thường xuyên của các Bộ, ngành... và từ các đơn vị chuyên môn có liên quan đến hoạt động của FTAP để đảm bảo cho FTAP luôn hoạt động có chất lượng, thường xuyên và hợp pháp.\nb) Tiếp nhận các thông tin do các thành viên Tổ\nCông tác FTAP, các đơn vị chuyên môn gửi về theo quy định của Điều 9 của Quy chế này; tổ chức biên tập, tổng hợp nội dung thông tin, số liệu hình thức trình bày của thông tin và số liệu.\nc) Giám sát hoạt động kỹ thuật vận hành của FTAP nhằm\nđảm bảo hoạt động liên tục, kịp thời đối với thông tin tích hợp và phương hướng phát triển mở rộng;\nd) Theo dõi đôn đốc các đại diện các Bộ, ngành là\nthành viên Tổ Công tác FTAP thường xuyên cung cấp thông tin, hoạt động cho FTAP theo quy định tại Điều 9 của Quy chế này;\nĐiều 13. Trách nhiệm của Trưởng bộ phận, Phó Trưởng bộ phận và các thành viên Bộ phận biên tập FTAP\n1. Trưởng Bộ phận biên tập\na) Chỉ đạo điều hành hoạt động của Bộ phận biên tập\nvà các hoạt động liên quan đến FTAP theo nhiệm vụ, quyền hạn được quy định tại Quyết định số 2773/QĐ-BCT ngày 10 tháng 12 năm 2021.\nb) Định hướng nội dung, phát triển của FTAP.\nc) Có trách nhiệm phân công nhiệm vụ các thành viên\nBộ phận biên tập FTAP.\n2. Phó Trưởng Bộ phận biên tập FTA thực hiện nhiệm\nvụ do Trưởng Bộ phận phân công, thay mặt Trưởng Bộ phận biên tập điều hành hoạt động của Bộ phận biên tập FTAP khi được ủy quyền.\n3. Các thành viên Bộ phận biên tập\na) Biên tập thông tin theo phân công để đăng tải\nlên FTAP.\nb) Phân loại, đánh giá chất lượng, đề xuất các hệ số\nliên quan.\nc) Trực tiếp triển khai các kế hoạch công tác của bộ\nphận biên tập.\nd) Tổ chức tiếp nhận, phân loại câu hỏi của bạn đọc\ngửi qua cổng FTAP, chuyển tới các thành viên Tổ Công tác FTAP để xây dựng nội dung trả lời bạn đọc.\ne) Đề xuất với Trưởng Bộ phận về thiết kế, cải tiến\nnâng cấp giao diện FTAP và các nội dung khác có liên quan đến hoạt động của\nFTAP.\nĐiều 14. Quy trình biên tập và đăng tải thông tin trên FTAP\n1. Bộ phận biên tập FTAP là đầu mối tiếp nhận các\nthông tin gửi đến FTAP và căn cứ nguồn gốc, nội dung, mục đích thông tin để phân loại thành các nhóm như sau:\na) Nhóm tin, bài bao gồm: tin sự kiện, tin điểm văn\nbản pháp luật, đồ họa, video clip, bài viết, bài phỏng vấn, bài nghiên cứu, bài tổng hợp... được gửi để đăng tải lên FTAP.\nb) Nhóm thông tin số liệu bao gồm: số liệu về xuất\nnhập khẩu, đầu tư, tình hình thị trường và các số liệu khác có liên quan đến đàm phán và thực hiện các FTA và thỏa thuận thương mại của Việt Nam.\nc) Thông tin khác cần phải đăng tải theo quy định\n(văn bản pháp luật và văn bản liên quan, dự thảo văn bản pháp luật hoặc liên quan, thông báo, thông tin báo chí...).\nd) Câu hỏi của bạn đọc gửi đến FTAP.\n2. Quy trình xử lý đối với nhóm tin, bài, số liệu:\na) Trong vòng 02 ngày làm việc kể từ ngày nhận được\ntin, bài, Bộ phận biên tập FTAP có trách nhiệm hoàn thành việc xử lý thông tin theo quy trình như sau: - Rà soát, kiểm tra nội dung tin, bài, số liệu. - Căn cứ quy định hiện hành để đề xuất các hệ số liên quan của dữ liệu cần đăng tải, cập nhật. - Trình Trưởng Bộ phận biên tập phê duyệt.\nb) Trưởng Bộ phận biên tập có trách nhiệm:\n- Phê duyệt các hệ số liên quan của tin bài. - Phê duyệt việc đăng tải, cập nhật mục dữ liệu liên quan tại cơ sở dữ liệu của FTAP.\n3. Quy trình xử lý đối với câu hỏi của bạn đọc:\na) Trong vòng 2 ngày làm việc kể từ ngày nhận được\ncâu hỏi bạn đọc, Bộ phận biên tập FTAP thực hiện phân loại câu hỏi của bạn đọc, cụ thể như sau: - Trường hợp câu hỏi/ý kiến của bạn đọc có nội dung tương tự đã được trả lời và lưu trên FTAP, Bộ phận biên tập FTAP đề xuất dẫn chiếu nội dung câu hỏi và câu trả lời tương tự để bạn đọc tham khảo và trình Trưởng Bộ phận biên tập phê duyệt. - Các trường hợp khác, Bộ phận biên tập FTAP chuyển câu hỏi của bạn đọc tới thành viên Tổ công tác FTAP có liên quan để xử lý.\nb) Trong vòng 11 ngày làm việc kể từ ngày nhận được\ncâu hỏi của bạn đọc do Bộ phận biên tập FTAP chuyển, thành viên Tổ công tác FTAP được phân công trả lời có trách nhiệm: - Chuyển nội dung câu hỏi tới các đơn vị chuyên môn trực thuộc cơ quan của mình. - Phối hợp, đôn đốc các đơn vị chuyên môn có liên quan xây dựng nội dung trả lời. - Tổng hợp và gửi nội dung trả lời về Bộ phận biên tập FTAP.\nc) Trong vòng 01 ngày làm việc kể từ ngày nhận được\nnội dung trả lời, Bộ phận biên tập FTAP có trách nhiệm: - Căn cứ các tiêu chí theo quy định hiện hành để đề xuất các hệ số liên quan của nội dung trả lời bạn đọc. - Trình Trưởng Bộ phận biên tập phê duyệt.\nd) Trưởng Bộ phận biên tập có trách nhiệm:\n- Phê duyệt các hệ số liên quan của nội dung trả lời bạn đọc. - Phê duyệt việc đăng tải nội dung trả lời bạn đọc lên FTAP.\ne) Trong vòng 02 ngày làm việc sau khi được phê duyệt,\nBộ phận biên tập FTAP thực hiện đăng tải nội dung trả lời bạn đọc.\n4. Đối với các thông tin khác cần phải đăng tải\ntheo quy định, Bộ phận biên tập FTAP thực hiện cập nhật kịp thời lên FTAP.\nĐiều 15. Đảm bảo vận hành và duy trì hoạt động FTAP\n1. FTAP phải được thường xuyên kiểm tra, bảo trì,\nchỉnh sửa, giám sát để đảm bảo hoạt động liên tục 24 giờ trong tất cả các ngày.\n2. FTAP phải được rà soát định kỳ, đề xuất phương\nán nâng cấp, chỉnh sửa, bổ sung nội dung mới cho đảm bảo thông tin trên Cổng chính xác, cập nhật, phù hợp yêu cầu thực tế.\n3. FTAP phải được trang bị đầy đủ trang thiết bị kỹ\nthuật phục vụ cho việc thu thập, xử lý và cập nhật thông tin cho FTAP; đường truyền của FTAP phải được đảm bảo chất lượng, thộng lượng (độ rộng giải thông) và các giải pháp cần thiết khác.\n4. FTAP phải được đảm bảo an toàn thông tin, cụ thể:\n- Thực hiện các biện pháp kỹ thuật để đảm bảo an toàn thông tin và dữ liệu trên FTAP; - Xây dựng các giải pháp hiệu quả chống truy cập bất hợp pháp, tấn công gây mất an toàn an ninh thông tin của FTAP; - Xây dựng phương án dự phòng khắc phục sự cố bảo đảm FTAP hoạt động liên tục và an toàn ở mức tối đa.\nChương IV\nTỔ CHỨC THỰC HIỆN\nĐiều 16. Tổ chức thực hiện\n1. Giao Vụ Chính sách thương mại đa biên có trách nhiệm\nchủ trì, phối hợp với các thành viên Tổ công tác FTAP và các đơn vị liên quan tổ chức triển khai, hướng dẫn các cá nhân, tổ chức liên quan thực hiện đúng nội dung Quy chế này.\n2. Đại diện các Bộ, ngành là thành viên Tổ Công tác\nFTAP có trách nhiệm báo cáo lãnh đạo đơn vị phụ trách và xây dựng quy chế nội bộ về quy trình cung cấp thông tin gửi cho Bộ phận biên tập FTAP.\n3. Trong quá trình thực hiện, nếu có vướng mắc đề\nnghị các thành viên Tổ công tác FTAP phản ánh về Vụ Chính sách thương mại đa biên để tổng hợp, trình Bộ trưởng, Lãnh đạo Bộ xem xét giải quyết.\nĐiều 17. Khen thưởng, kỷ luật\n1. Tổ chức và cá nhân thực hiện tốt nhiệm vụ cung cấp\nthông tin và quản lý hoạt động của FTAP sẽ được xem xét khen thưởng hàng năm theo quy định.\n2. Tổ chức và cá nhân có hành vi vi phạm các quy định\nvề cung cấp thông tin và quản lý hoạt động của FTAP, ảnh hưởng đến hoạt động ổn định của FTAP, tùy theo mức độ vi phạm sẽ bị xem xét, xử lý theo quy định.",
+  "tree": {
+    "parts": [
+      {
+        "part_id": "doc:220407:part:1",
+        "part_type": "main",
+        "part_title": null,
+        "reference": null,
+        "direct_text": "QUYẾT ĐỊNH VỀ\nVIỆC BAN HÀNH QUY CHẾ HOẠT ĐỘNG CỦA CỔNG THÔNG TIN ĐIỆN TỬ VỀ HIỆP ĐỊNH THƯƠNG MẠI\nTỰ DO VIỆT NAM (FTAP) BỘ TRƯỞNG BỘ CÔNG THƯƠNG\nCăn cứ Luật số 76/2015/QH13 ngày 19 tháng 6 năm 2015 của Quốc hội về Luật tổ chức chính phủ và các văn bản sửa đổi, bổ sung có liên quan; Căn cứ Nghị định số 98/2017/NĐ-CP ngày 18 tháng 8 năm 2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Công Thương; Căn cứ Quyết định số 121/QĐ-TTg ngày 24 tháng 01 năm 2019 của Thủ tướng Chính phủ về việc phê duyệt Kế hoạch thực hiện Hiệp định Đối tác Toàn diện và Tiến bộ xuyên Thái Bình Dương (CPTPP); Căn cứ Quyết định số 1201/QĐ-TTg ngày 06 tháng 8 năm 2020 của Thủ tướng Chính phủ về việc phê duyệt Kế hoạch thực hiện Hiệp định Thương mại tự do giữa Việt Nam và Liên minh châu Âu (EVFTA); Căn cứ công văn số 6548/VPCP-QHQT ngày 10 tháng 8 năm 2020 của Văn phòng Chính phủ về việc Phụ lục kèm theo Quyết định số 1201/QĐ-TTg phê duyệt Kế hoạch thực hiện Hiệp định EVFTA; Căn cứ Quyết định số 721/QĐ-TTg ngày 18 tháng 5 năm 2021 của Thủ tướng Chính phủ về việc phê duyệt Kế hoạch thực hiện Hiệp định Thương mại tự do giữa Việt Nam và Liên hiệp Vương Quốc Anh và Bắc Ai-len\n(UKVFTA);\nCăn cứ Quyết định số 456/QĐ-BCT ngày 01 tháng 3 năm 2019 của Bộ Công Thương phê duyệt Kế hoạch thực hiện Hiệp định CPTPP; Căn cứ Quyết định số 2091/QĐ-BCT của Bộ Công Thương ngày 06 tháng 8 năm 2020 về Kế hoạch thực hiện Hiệp định EVFTA; Căn cứ Quyết định số 1449/QĐ-BCT ngày 24 tháng 5 năm 2021 của Bộ Công Thương về Kế hoạch thực hiện Hiệp định UKVFTA; Căn cứ Quyết định số 3777/QĐ-BCT ngày 02 tháng 10 năm 2017 của Bộ trưởng Bộ Công Thương quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Vụ Chính sách thương mại đa biên; Căn cứ Quyết định số 34/2007/QĐ-TTg ngày 12 tháng 3 năm 2007 của Thủ tướng Chính phủ về việc ban hành Quy chế thành lập, tổ chức và hoạt động của tổ chức phối hợp liên ngành; Căn cứ Quyết định số 1718/QĐ-BCT ngày 06 tháng 7 năm 2021 của Bộ trưởng Bộ Công Thương phê duyệt Đề án tiếp nhận, vận hành, nâng cấp và phát triển Cổng thông tin điện tử về Hiệp định Thương mại Tự do Việt Nam (FTAP) giai đoạn 2021-2025 và tầm nhìn đến 2035; Căn cứ chỉ đạo của Phó Thủ tướng Chính phủ Phạm Bình Minh tại công văn số 3027/VPCP-QHQT ngày 08 tháng 5 năm 2021 về Đề án tiếp nhận, vận hành, nâng cấp và phát triển FTAP; Căn cứ Quyết định số 2773/QĐ-BCT ngày 10 tháng 12 năm 2021 của Bộ Công Thương về việc thành lập Tổ công tác liên Bộ để triển khai Đề án tiếp nhận, vận hành, nâng cấp và phát triển FTAP giai đoạn 2021 - 2025 và tầm nhìn đến 2035; Xét đề nghị của Vụ trưởng Vụ Chính sách thương mại đa biên,\nQUYẾT ĐỊNH:",
+        "chapters": [],
+        "sections": [],
+        "articles": [
+          {
+            "article_id": "doc:220407:part:1:article:1",
+            "number": "1",
+            "title": "Ban hành kèm theo Quyết định này Quy chế hoạt động của Cổng thông tin điện tử về Hiệp định thương mại tự do Việt Nam (FTAP).",
+            "content": "Điều 1. Ban hành kèm theo Quyết định này Quy chế hoạt động của Cổng thông tin điện tử về Hiệp định thương mại tự do Việt Nam (FTAP).",
+            "clauses": [],
+            "points": []
+          },
+          {
+            "article_id": "doc:220407:part:1:article:2",
+            "number": "2",
+            "title": "Quyết định này có hiệu lực kể từ ngày ký.",
+            "content": "Điều 2. Quyết định này có hiệu lực kể từ ngày ký.",
+            "clauses": [],
+            "points": []
+          },
+          {
+            "article_id": "doc:220407:part:1:article:3",
+            "number": "3",
+            "title": "Chánh Văn phòng Bộ, Vụ trưởng Vụ Chính sách thương mại đa biên, Thủ trưởng các đơn vị có liên quan và các thành viên của Tổ công tác liên Bộ để triển khai Đề án tiếp nhận, vận hành, nâng cấp và phát triển FTAP chịu trách nhiệm thi hành Quyết định này./.",
+            "content": "Điều 3. Chánh Văn phòng Bộ, Vụ trưởng Vụ Chính sách thương mại đa biên, Thủ trưởng các đơn vị có liên quan và các thành viên của Tổ công tác liên Bộ để triển khai Đề án tiếp nhận, vận hành, nâng cấp và phát triển FTAP chịu trách nhiệm thi hành Quyết định này./.",
+            "clauses": [],
+            "points": []
+          }
+        ],
+        "unstructured_blocks": []
+      },
+      {
+        "part_id": "doc:220407:part:2",
+        "part_type": "regulation",
+        "part_title": "QUY CHẾ",
+        "reference": null,
+        "direct_text": "QUY CHẾ\nVẬN\nHÀNH THÔNG TIN VÀ QUẢN LÝ HOẠT ĐỘNG CỦA CỔNG THÔNG TIN QUỐC GIA VỀ HIỆP ĐỊNH\nTHƯƠNG MẠI TỰ DO VIỆT NAM (FTAP)\n(Ban hành kèm theo Quyết định số 2371/QĐ-BCT ngày 09 tháng 11 năm 2022 của Bộ\ntrưởng Bộ Công Thương)",
+        "chapters": [
+          {
+            "chapter_id": "doc:220407:part:2:chapter:1",
+            "number": "I",
+            "title": "QUY ĐỊNH CHUNG",
+            "content": "Chương I\nQUY ĐỊNH CHUNG",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:220407:part:2:article:1",
+                "number": "1",
+                "title": "Phạm vi điều chỉnh, đối tượng áp dụng",
+                "content": "Điều 1. Phạm vi điều chỉnh, đối tượng áp dụng",
+                "clauses": [
+                  {
+                    "clause_id": "doc:220407:part:2:article:1:clause:1",
+                    "number": "1",
+                    "content": "1. Quy chế này quy định về quản lý hoạt động và vận\nhành thông tin của Cổng thông tin quốc gia về Hiệp định thương mại tự do Việt Nam (sau đây gọi tắt là FTAP).",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:220407:part:2:article:1:clause:2",
+                    "number": "2",
+                    "content": "2. Quy chế này áp dụng đối với các cá nhân, đơn vị\nquản lý, xây dựng, vận hành, nâng cấp nội dung, cung cấp thông tin cho FTAP (sau đây gọi chung là cá nhân, đơn vị).",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:220407:part:2:article:2",
+                "number": "2",
+                "title": "Giải thích từ ngữ",
+                "content": "Điều 2. Giải thích từ ngữ",
+                "clauses": [
+                  {
+                    "clause_id": "doc:220407:part:2:article:2:clause:1",
+                    "number": "1",
+                    "content": "1. “FTA” là Hiệp định thương mại tự do.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:220407:part:2:article:2:clause:2",
+                    "number": "2",
+                    "content": "2. Cổng thông tin điện tử về Hiệp định thương mại tự\ndo Việt Nam (sau đây gọi tắt là FTAP) tại địa chỉ https://fta.gov.vn là Cổng thông tin điện tử cấp Chính phủ về tất cả các FTA mà Việt Nam đang tham gia.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:220407:part:2:article:2:clause:3",
+                    "number": "3",
+                    "content": "3. “Tổ công tác FTAP” là Tổ công tác liên Bộ để triển\nkhai Đề án tiếp nhận, vận hành, nâng cấp và phát triển Cổng thông tin điện tử về Hiệp định thương mại tự do Việt Nam giai đoạn 2021-2025 và tầm nhìn đến 2035.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:220407:part:2:article:2:clause:4",
+                    "number": "4",
+                    "content": "4. “Hệ số liên quan” là các hệ số để xác định mức\nchi nhuận bút, thù lao cho các tin, bài và nội dung trả lời bạn đọc được đăng tải trên FTAP, bao gồm: hệ số giá trị tin, bài; số lượng độ dài tin, bài; hệ số nhuận bút; hệ số ảnh.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:220407:part:2:article:3",
+                "number": "3",
+                "title": "Chức năng, nhiệm vụ của FTAP",
+                "content": "Điều 3. Chức năng, nhiệm vụ của FTAP",
+                "clauses": [
+                  {
+                    "clause_id": "doc:220407:part:2:article:3:clause:1",
+                    "number": "1",
+                    "content": "1. FTAP có chức năng cung cấp, trao đổi thông tin,\ndữ liệu, hỗ trợ các cơ quan quản lý nhà nước, tổ chức, cá nhân theo đúng quy định của pháp luật về các vấn đề liên quan đến các FTA mà Việt Nam tham gia trên môi trường mạng Internet.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:220407:part:2:article:3:clause:2",
+                    "number": "2",
+                    "content": "2. FTAP có các nhiệm vụ như sau:",
+                    "points": [
+                      {
+                        "point_id": "doc:220407:part:2:article:3:clause:2:point:1",
+                        "label": "a",
+                        "content": "a) Cung cấp công cụ tra cứu trực tuyến (online) đối\nvới cam kết của tất cả các FTA mà Việt Nam tham gia, bao gồm các cam kết về thuế, quy tắc xuất xứ, dịch vụ và đầu tư đồng thời cập nhật nội dung các FTA và thỏa thuận thương mại mà Việt Nam tham gia.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:220407:part:2:article:3:clause:2:point:2",
+                        "label": "b",
+                        "content": "b) Cung cấp thông tin hỗ trợ cho quá trình giao\nthương của doanh nghiệp như tình hình thị trường trong và ngoài nước, các quy định về xuất nhập khẩu của Việt Nam và các nước đối tác, phòng vệ thương mại, lao động, môi trường, phát triển bền vững, sở hữu trí tuệ v.v.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:220407:part:2:article:3:clause:2:point:3",
+                        "label": "c",
+                        "content": "c) Cập nhật các văn bản pháp luật liên quan đến các\nFTA và các thỏa thuận thương mại mà Việt Nam tham gia.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:220407:part:2:article:3:clause:2:point:4",
+                        "label": "d",
+                        "content": "d) Cập nhật tình hình thực thi các FTA và các thỏa\nthuận thương mại mà Việt Nam tham gia.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:220407:part:2:article:3:clause:2:point:5",
+                        "label": "e",
+                        "content": "e) Kết nối với các Cổng thông tin của các Bộ,\nngành, các cơ quan đại diện Việt Nam tại nước ngoài, cơ quan quản lý địa phương và trang thông tin điện tử của các Hiệp hội... để tạo điều kiện thuận lợi cho việc tiếp cận thông tin và sự hỗ trợ cho người dân, doanh nghiệp và nhà đầu tư, đồng thời tăng cường sự chia sẻ và khai thác dữ liệu dùng chung.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:220407:part:2:article:3:clause:2:point:6",
+                        "label": "f",
+                        "content": "f) Cung cấp và chia sẻ các tài liệu ấn phẩm số, các\nkhóa đào tạo trực tuyến về các nội dung liên quan đến FTA.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:220407:part:2:article:3:clause:2:point:7",
+                        "label": "g",
+                        "content": "g) Các nội dung khác có liên quan đến FTA và các thỏa\nthuận thương mại mà Việt Nam tham gia.",
+                        "children": []
+                      }
+                    ]
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:220407:part:2:article:4",
+                "number": "4",
+                "title": "Quản lý FTAP",
+                "content": "Điều 4. Quản lý FTAP",
+                "clauses": [
+                  {
+                    "clause_id": "doc:220407:part:2:article:4:clause:1",
+                    "number": "1",
+                    "content": "1. FTAP hoạt động dưới sự chỉ đạo trực tiếp của Bộ\ntrưởng Bộ Công Thương và các đồng chí lãnh đạo Bộ Công Thương.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:220407:part:2:article:4:clause:2",
+                    "number": "2",
+                    "content": "2. Tổ Công tác FTAP có trách nhiệm quản lý và vận\nhành chung FTAP.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:220407:part:2:article:4:clause:3",
+                    "number": "3",
+                    "content": "3. Bộ phận biên tập FTAP được quy định tại Điều 11 của Quy chế này: Chịu trách nhiệm biên tập và quản lý nội\ndung, hình thức thông tin đăng lên FTAP.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:220407:part:2:article:4:clause:4",
+                    "number": "4",
+                    "content": "4. Bộ Công Thương (Cục Thương mại điện tử và Kinh tế\nsố) căn cứ vào thực tế tính năng kỹ thuật của FTAP được chuyển giao có trách nhiệm quản lý các vấn đề kỹ thuật của FTAP; phối hợp với Bộ Thông tin và Truyền thông, Bộ Công an đảm bảo an toàn, an ninh cho hoạt động của FTAP; thực hiện sao lưu thường xuyên dữ liệu của FTAP; quản lý quyền truy cập FTAP; theo dõi về kỹ thuật trong việc xuất bản thông tin lên FTAP sau khi Ban Biên tập duyệt; thực hiện điều chỉnh, sửa đổi và nâng cấp giao diện của FTAP phù hợp với điều kiện kỹ thuật của hệ thống; nghiên cứu và phối hợp với Ban Biên tập để đề xuất kế hoạch nâng cấp phát triển FTAP khi cần thiết; Thực hiện liên thông, đồng bộ cơ sở dữ liệu, áp dụng tiêu chuẩn kỹ thuật, bảo đảm tính tương thích, thông suốt trong quá trình chia sẻ, trao đổi thông tin giữa các kênh thông tin điện tử, thông tin đa phương tiện của Cổng thông tin FTAP với các cơ quan, đơn vị, tổ chức.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:220407:part:2:article:4:clause:5",
+                    "number": "5",
+                    "content": "5. Đại diện của Bộ Thông tin và Truyền thông phối hợp\nvới đại diện Bộ Công An và Bộ Công Thương (Cục Thương mại điện tử và Kinh tế số) trong Tổ Công tác FTAP chịu trách nhiệm thực hiện các biện pháp kỹ thuật bảo đảm sự hoạt động an toàn của FTAP.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:220407:part:2:article:5",
+                "number": "5",
+                "title": "Kinh phí cho FTAP và chế độ nhuận bút, thù lao thực hiện công việc của FTAP",
+                "content": "Điều 5. Kinh phí cho FTAP và chế độ nhuận bút, thù lao thực hiện công việc của FTAP",
+                "clauses": [
+                  {
+                    "clause_id": "doc:220407:part:2:article:5:clause:1",
+                    "number": "1",
+                    "content": "1. Kinh phí vận hành, nâng cấp và phát triển FTAP,\ncông tác quản trị, nhuận bút, thù lao cho tác giả, cộng tác viên, biên tập viên của FTAP được trích từ nguồn ngân sách cấp cho FTAP theo dự toán hàng năm cũng như các nguồn kinh phí hợp pháp khác.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:220407:part:2:article:5:clause:2",
+                    "number": "2",
+                    "content": "2. Mức chi thù lao, nhuận bút và chi cho tạo lập,\nchuyển đổi và số hóa thông tin của FTAP thực hiện theo quy định hiện hành.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:220407:part:2:article:5:clause:3",
+                    "number": "3",
+                    "content": "3. Các hệ số liên quan của tin, bài, nội dung trả lời\nbạn đọc được xác định dựa trên tiêu chí về nội dung và tiêu chí về thời gian theo Phụ lục 1 đính kèm Quy chế này.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:220407:part:2:chapter:2",
+            "number": "II",
+            "title": "NỘI DUNG THÔNG TIN, CUNG CẤP VÀ CẬP NHẬT THÔNG TIN CHO FTAP",
+            "content": "Chương II\nNỘI DUNG THÔNG TIN, CUNG\nCẤP VÀ CẬP NHẬT THÔNG TIN CHO FTAP",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:220407:part:2:article:6",
+                "number": "6",
+                "title": "Đối tượng cung cấp thông tin cho FTAP",
+                "content": "Điều 6. Đối tượng cung cấp thông tin cho FTAP",
+                "clauses": [
+                  {
+                    "clause_id": "doc:220407:part:2:article:6:clause:1",
+                    "number": "1",
+                    "content": "1. Các cá nhân, đơn vị liên quan có trách nhiệm\ncung cấp nội dung thông tin theo quy định tại Điều 7 của Quy chế này.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:220407:part:2:article:6:clause:2",
+                    "number": "2",
+                    "content": "2. Phân công cung cấp thông tin thường xuyên trong\nTổ Công tác FTAP:",
+                    "points": [
+                      {
+                        "point_id": "doc:220407:part:2:article:6:clause:2:point:1",
+                        "label": "a",
+                        "content": "a) Các thành viên thuộc Bộ Công Thương: Cung cấp\ncác thông tin về tình hình đàm phán, thực hiện các FTA và các thỏa thuận thương mại mà Việt Nam tham gia, thông tin chung và đánh giá về tình hình xuất nhập khẩu giữa Việt Nam và các đối tác thương mại, các thông tin thị trường trong và ngoài nước, các cơ hội đầu tư kinh doanh, các biện pháp xúc tiến thương mại, phòng vệ thương mại…; Cập nhật các văn bản pháp luật liên quan đến FTA trong lĩnh vực phụ trách; Cập nhật các tài liệu, ấn phẩm số, thông tin về các khóa đào tạo, hội nghị và tập huấn liên quan đến FTA...",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:220407:part:2:article:6:clause:2:point:2",
+                        "label": "b",
+                        "content": "b) Các thành viên thuộc Bộ Tài chính: Cung cấp số\nliệu về xuất khẩu, nhập khẩu ở cấp độ mã HS theo phân loại hiện hành của Việt Nam theo các nước đối tác, mặt hàng, địa phương định kỳ theo tháng; Phối hợp với đại diện của Bộ Công Thương là thành viên Tổ Công tác trong việc kết nối API chia sẻ dữ liệu, thông tin; Cập nhật thông tin về các văn bản pháp luật liên quan đến FTA và thỏa thuận thương mại mà Việt Nam tham gia trong lĩnh vực phụ trách; Cập nhật tình hình thực hiện các cam kết về thuế, hải quan, thuận lợi hóa thương mại... trong các FTA và thỏa thuận thương mại mà Việt Nam tham gia.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:220407:part:2:article:6:clause:2:point:3",
+                        "label": "c",
+                        "content": "c) Các thành viên thuộc Bộ Nông nghiệp và Phát triển\nnông thôn: Cung cấp thông tin về các quy định, văn bản pháp luật, các biện pháp, quy định áp dụng đối với hàng xuất khẩu, nhập khẩu có liên quan lĩnh vực nông nghiệp; Cập nhật tình hình thực hiện cam kết về nông nghiệp, SPS, IUU... trong các FTA và thỏa thuận thương mại mà Việt Nam tham gia.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:220407:part:2:article:6:clause:2:point:4",
+                        "label": "d",
+                        "content": "d) Các thành viên thuộc Bộ Kế hoạch và Đầu tư: Cung\ncấp số liệu về đầu tư nước ngoài vào Việt Nam cũng như đầu tư từ Việt Nam ra nước ngoài theo các nước đối tác FTA, lĩnh vực, địa phương; Cung cấp thông tin về các lĩnh vực, dự án thu hút đầu tư nước ngoài và đầu tư ra nước ngoài ở cấp Trung ương và địa phương; Cập nhật thông tin về các văn bản pháp luật liên quan đến FTA và thỏa thuận đầu tư mà Việt Nam tham gia trong lĩnh vực phụ trách; Cập nhật tình hình thực hiện cam kết về mua sắm Chính phủ, đầu tư... trong các FTA và thỏa thuận thương mại mà Việt Nam tham gia.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:220407:part:2:article:6:clause:2:point:5",
+                        "label": "e",
+                        "content": "e) Các thành viên thuộc Bộ Lao động, Thương binh và\nXã hội: Cung cấp các số liệu, thông tin liên quan đến các nội dung cam kết của Việt Nam trong các FTA liên quan đến lĩnh vực phụ trách; Cập nhật thông tin về các quy định, văn bản pháp luật liên quan đến các FTA và thỏa thuận thương mại mà Việt Nam tham gia trong lĩnh vực phụ trách; Cập nhật tình hình thực hiện cam kết liên quan về phát triển bền vững (lao động), di chuyển thể nhân hoặc nhập cảnh của khách kinh doanh... trong các FTA và thỏa thuận thương mại mà Việt Nam tham gia.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:220407:part:2:article:6:clause:2:point:6",
+                        "label": "f",
+                        "content": "f) Các thành viên thuộc Bộ Tài nguyên và Môi trường:\nCung cấp thông tin về các quy định, văn bản pháp luật, các biện pháp, quy định áp dụng đối với hàng xuất khẩu, nhập khẩu có liên quan lĩnh vực môi trường; Cung cấp các số liệu, thông tin liên quan đến các nội dung cam kết của Việt Nam trong các FTA liên quan đến lĩnh vực phụ trách; Cập nhật cập nhật thông tin về các quy định, văn bản pháp luật liên quan đến các FTA và thỏa thuận thương mại mà Việt Nam tham gia trong lĩnh vực phụ trách; Cập nhật tình hình thực hiện cam kết liên quan về phát triển bền vững (môi trường), ... trong các FTA và thỏa thuận thương mại mà Việt Nam tham gia.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:220407:part:2:article:6:clause:2:point:7",
+                        "label": "g",
+                        "content": "g) Các thành viên thuộc các Bộ, ngành khác: Cung cấp\ncác số liệu, thông tin liên quan đến các nội dung cam kết của Việt Nam trong các FTA liên quan đến lĩnh vực phụ trách; Cập nhật cập nhật thông tin về các quy định, văn bản pháp luật liên quan đến các FTA và thỏa thuận thương mại mà Việt Nam tham gia trong lĩnh vực phụ trách; Cập nhật tình hình thực hiện cam kết liên quan đến lĩnh vực phụ trách trong các FTA và thỏa thuận thương mại mà Việt Nam tham gia.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:220407:part:2:article:6:clause:2:point:8",
+                        "label": "h",
+                        "content": "h) Ngôn ngữ thông tin cung cấp thể hiện bằng cả tiếng\nViệt và tiếng Anh.",
+                        "children": []
+                      }
+                    ]
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:220407:part:2:article:7",
+                "number": "7",
+                "title": "Quy định về nội dung thông tin được cung cấp trên FTAP Các thông tin cung cấp trên FTAP được thực hiện theo quy định của Luật báo chí, Luật công nghệ thông tin và các văn bản quy phạm pháp luật khác của Nhà nước. Cụ thể như sau:",
+                "content": "Điều 7. Quy định về nội dung thông tin được cung cấp trên FTAP Các thông tin cung cấp trên FTAP được thực hiện theo quy định của Luật báo chí, Luật công nghệ thông tin và các văn bản quy phạm pháp luật khác của Nhà nước. Cụ thể như sau:",
+                "clauses": [
+                  {
+                    "clause_id": "doc:220407:part:2:article:7:clause:1",
+                    "number": "1",
+                    "content": "1. Chuyên mục Tin tức\nCác tin tức liên quan về tình hình đàm phán, thực hiện cam kết của Việt Nam trong các FTA và thỏa thuận thương mại mà Việt Nam tham gia, tình hình xuất nhập khẩu, xúc tiến thương mại, phòng vệ thương mại, phát triển bền vững, đầu tư, nông nghiệp..., thông tin về quy định và văn bản pháp luật mới có liên quan đến việc thực hiện các FTA mới ban hành và các tin tức có liên quan khác.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:220407:part:2:article:7:clause:2",
+                    "number": "2",
+                    "content": "2. Cập nhật chính sách\nCác quy định, văn bản pháp luật có liên quan đến việc thực hiện các cam kết hoặc liên quan đến các cam kết của Việt Nam trong các FTA và thỏa thuận thương mại mà Việt Nam tham gia.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:220407:part:2:article:7:clause:3",
+                    "number": "3",
+                    "content": "3. Thống kê, cung cấp số liệu và thông tin",
+                    "points": [
+                      {
+                        "point_id": "doc:220407:part:2:article:7:clause:3:point:1",
+                        "label": "a",
+                        "content": "a) Số liệu, thông tin về xuất khẩu, nhập khẩu, đầu\ntư, bao gồm thị trường nhập khẩu, xuất khẩu, đầu tư...",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:220407:part:2:article:7:clause:3:point:2",
+                        "label": "b",
+                        "content": "b) Số liệu, thông tin về việc thực hiện các cam kết\ncủa Việt Nam trong các FTA và thỏa thuận thương mại đã tham gia.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:220407:part:2:article:7:clause:3:point:3",
+                        "label": "c",
+                        "content": "c) Báo cáo tổng hợp",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:220407:part:2:article:7:clause:3:point:4",
+                        "label": "d",
+                        "content": "d) Các thông tin, số liệu khác",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:220407:part:2:article:7:clause:4",
+                    "number": "4",
+                    "content": "4. Các thông tin khác\nBao gồm các mục về Sự kiện, Câu chuyện thực tế, Đào tạo trực tuyến, Ấn phẩm, Hỏi đáp, Liên kết website với các Cổng thông tin dịch vụ công, Cổng thông tin của các Bộ, ngành, địa phương và Hiệp hội, Nội dung cam kết của Việt Nam trong các FTA và thỏa thuận thương mại mà Việt Nam tham gia...",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:220407:part:2:article:8",
+                "number": "8",
+                "title": "Ngôn ngữ trình bày và thông tin cung cấp cho FTAP",
+                "content": "Điều 8. Ngôn ngữ trình bày và thông tin cung cấp cho FTAP",
+                "clauses": [
+                  {
+                    "clause_id": "doc:220407:part:2:article:8:clause:1",
+                    "number": "1",
+                    "content": "1. Ngôn ngữ trình bày trên FTAP là trang Tiếng Việt\nvà trang Tiếng Anh. Thống nhất chỉ sử dụng Bộ mã Tiếng Việt Arial, TCVN3, kích cỡ 16.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:220407:part:2:article:8:clause:2",
+                    "number": "2",
+                    "content": "2. Các cá nhân, đơn vị có trách nhiệm rà soát, chỉnh\nsửa cho phù hợp với đường lối của Đảng và Nhà nước, đúng lĩnh vực quản lý của mình cũng như tính nhạy cảm của vấn đề trước khi gửi tới Bộ phận biên tập FTAP để đăng lên FTAP.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:220407:part:2:article:8:clause:3",
+                    "number": "3",
+                    "content": "3. Thông tin không đáp ứng các quy định sẽ không đủ\nđiều kiện đăng tải trên FTAP.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:220407:part:2:article:9",
+                "number": "9",
+                "title": "Cơ chế cung cấp thông tin của FTAP",
+                "content": "Điều 9. Cơ chế cung cấp thông tin của FTAP",
+                "clauses": [
+                  {
+                    "clause_id": "doc:220407:part:2:article:9:clause:1",
+                    "number": "1",
+                    "content": "1. Chuẩn bị thông tin, số liệu\nĐại diện các Bộ, ngành là thành viên Tổ Công tác FTAP được phân công cung cấp thông tin cho FTAP có trách nhiệm báo cáo lãnh đạo đơn vị của mình duyệt nội dung do mình cung cấp cho Bộ phận Biên tập FTAP, đồng thời tự chịu trách nhiệm về tính chính xác, bản quyền các số liệu, thông tin, bài, video, ảnh... của mình gửi cho FTAP.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:220407:part:2:article:9:clause:2",
+                    "number": "2",
+                    "content": "2. Cách thức gửi thông tin, số liệu\nThông tin, số liệu gửi về hộp thư của Bộ phận biên tập FTAP tại địa chỉ bpbtftap@moit.gov.vn để xem xét trước khi đăng lên FTAP. Nếu gửi thông tin dưới dạng văn bản thì gửi tệp văn bản soạn thảo bằng Microsoft Word. Nếu gửi số liệu thì gửi tệp số liệu soạn thảo bằng Microsoft Excel (hoặc có thể định dạng khác nếu không gửi được bằng Excel). Trường hợp không gửi được qua thư điện tử thì có thể dùng USB, đĩa CD, DVD để chuyển thông tin cho Vụ chính sách thương mại đa biên, Bộ Công Thương, địa chỉ: 54 Hai Bà Trưng, Hà Nội.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:220407:part:2:article:9:clause:3",
+                    "number": "3",
+                    "content": "3. Nguồn khai thác thông tin, số liệu",
+                    "points": [
+                      {
+                        "point_id": "doc:220407:part:2:article:9:clause:3:point:1",
+                        "label": "a",
+                        "content": "a) Bộ phận biên tập FTAP sử dụng thông tin, số liệu\ntừ các Bộ, ngành, Hiệp hội ngành hàng... cung cấp.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:220407:part:2:article:9:clause:3:point:2",
+                        "label": "b",
+                        "content": "b) Bộ phận biên tập FTAP dẫn lại thông tin, số liệu\ntừ các nguồn chính thống như Cổng Chính phủ, Cổng Thông tin của các Bộ, ngành, Cổng Thông tin của các tỉnh, thành, Cổng Thông tin của các Hiệp hội ngành hàng...",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:220407:part:2:article:9:clause:3:point:3",
+                        "label": "c",
+                        "content": "c) Bộ phận biên tập FTAP dẫn lại, biên tập thông\ntin, số liệu từ các trang web của các cơ quan Chính phủ của các nước đối tác của Việt Nam, của các Tổ chức quốc tế như Tổ chức Thương mại Thế giới (WTO), Hiệp hội các quốc gia Đông Nam á (ASEAN)...",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:220407:part:2:article:9:clause:3:point:4",
+                        "label": "d",
+                        "content": "d) Các nguồn thông tin chính thống và tin cậy khác,\nbảo đảm tuân thủ quy định của pháp luật về bản quyền.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:220407:part:2:article:9:clause:4",
+                    "number": "4",
+                    "content": "4. Thời gian cung cấp thông tin",
+                    "points": [
+                      {
+                        "point_id": "doc:220407:part:2:article:9:clause:4:point:1",
+                        "label": "a",
+                        "content": "a) Các thông tin quy định tại Điều 7\ncủa Quy chế này phải được cung cấp ngay sau khi hoàn thành, cụ thể như sau: - Đối với hoạt động, sự kiện: không quá 03 ngày làm việc kể từ khi diễn ra hoạt động, sự kiện. - Đối với các quy định và văn bản pháp luật: không quá 07 ngày làm việc sau khi được ban hành. - Đối với số liệu thống kê, thông tin về thị trường, thông tin chuyên môn: Theo tháng, quý, năm, chậm nhất vào ngày 30 của tháng, quý, năm tùy theo tính chất của thông tin và số liệu thống kê hoặc theo yêu cầu của Ban Biên tập FTAP. - Đối với các bài nghiên cứu, tổng hợp, đánh giá: không quá 10 ngày làm việc sau khi được hoàn thành. - Đối với việc phản hồi câu hỏi, ý kiến của bạn đọc: không quá 15 ngày làm việc sau khi nhận được câu hỏi, ý kiến (có thể dài hơn 15 ngày làm việc nếu câu hỏi, ý kiến có nội dung phức tạp, nhạy cảm cần sự tham gia của các cơ quan chuyên môn khác nhau và phê duyệt của cấp có thẩm quyền).",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:220407:part:2:article:9:clause:4:point:2",
+                        "label": "b",
+                        "content": "b) Trường hợp có thay đổi nội dung thông tin được\nquy định tại Điều 7 của Quy chế này, đơn vị chuyên môn cung cấp thông tin có trách nhiệm phải cung cấp lại thông tin cho Bộ phận biên tập FTAP để kịp thời cập nhật lại trên FTAP.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:220407:part:2:article:9:clause:5",
+                    "number": "5",
+                    "content": "5. Định mức thông tin\nCác chuyên mục nội dung liên quan đến lĩnh vực các thành viên của Tổ Công tác FTAP được phân công cung cấp thông tin trên FTAP phải đảm bảo định mức cung cấp thông tin cho FTAP phù hợp với yêu cầu cập nhật của FTAP (tin bài của tập thể cá nhân thuộc các đơn vị chuyên môn trực thuộc các Bộ, ngành là thành viên của Tổ Công tác FTAP tổng hợp, nghiên cứu và tự viết).",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:220407:part:2:article:10",
+                "number": "10",
+                "title": "Trách nhiệm của tổ chức cung cấp và cập nhật thông tin cho FTAP",
+                "content": "Điều 10. Trách nhiệm của tổ chức cung cấp và cập nhật thông tin cho FTAP",
+                "clauses": [
+                  {
+                    "clause_id": "doc:220407:part:2:article:10:clause:1",
+                    "number": "1",
+                    "content": "1. Các đại diện của các Bộ, ngành là thành viên của\nTổ Công tác FTAP có trách nhiệm cung cấp đầy đủ, chính xác và kịp thời cho FTAP các nội dung thông tin được quy định tại Điều 7 của Quy chế này thuộc lĩnh vực do mình quản lý theo phân công tại khoản 3, Điều 4 của Quy chế này. Các đại diện của các Bộ, ngành là thành viên của Tổ Công tác FTAP trực tiếp cung cấp cho Bộ phận biên tập FTAP các thông tin đã được công bố, phê duyệt. Đối với các thông tin chưa được công bố, các đại diện của các Bộ, ngành là thành viên của Tổ Công tác FTAP cung cấp sau khi được người có thẩm quyền phê duyệt theo Quy chế quản lý thông tin, dữ liệu và phát ngôn của cơ quan mình.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:220407:part:2:article:10:clause:2",
+                    "number": "2",
+                    "content": "2. Các thông tin giải đáp các câu hỏi của tổ chức,\ndoanh nghiệp, nhà đầu tư và người dân về các vấn đề có liên quan đến lĩnh vực chuyên môn thì thành viên Tổ Công tác FTAP phụ trách lĩnh vực đó phải cung cấp nhanh chóng, kịp thời và chính xác theo quy định.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:220407:part:2:article:10:clause:3",
+                    "number": "3",
+                    "content": "3. Thủ trưởng các đơn vị chuyên môn phải chịu trách\nnhiệm trước lãnh đạo Bộ, ngành của mình về những thông tin cung cấp cho FTAP; các thông tin, số liệu cung cấp cho FTAP phải bảo đảm tính chính xác, không được vi phạm các quy định hiện hành về bảo vệ bí mật Nhà nước.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:220407:part:2:chapter:3",
+            "number": "III",
+            "title": "CÔNG TÁC BIÊN TẬP THÔNG TIN CHO FTAP",
+            "content": "Chương III\nCÔNG TÁC BIÊN TẬP THÔNG TIN CHO FTAP",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:220407:part:2:article:11",
+                "number": "11",
+                "title": "Bộ phận biên tập FTAP Bộ phận biên tập FTAP bao gồm một số thành viên của Tổ Công tác FTAP do Tổ trưởng Tổ Công tác FTAP phân công. Trưởng Bộ phận biên tập FTAP là Tổ trưởng Tổ Công tác FTAP, Phó Trưởng Bộ phận biên tập là thành viên Tổ Công tác FTAP do Tổ trưởng chỉ định.",
+                "content": "Điều 11. Bộ phận biên tập FTAP Bộ phận biên tập FTAP bao gồm một số thành viên của Tổ Công tác FTAP do Tổ trưởng Tổ Công tác FTAP phân công. Trưởng Bộ phận biên tập FTAP là Tổ trưởng Tổ Công tác FTAP, Phó Trưởng Bộ phận biên tập là thành viên Tổ Công tác FTAP do Tổ trưởng chỉ định.",
+                "clauses": [],
+                "points": []
+              },
+              {
+                "article_id": "doc:220407:part:2:article:12",
+                "number": "12",
+                "title": "Chức năng, nhiệm vụ của Bộ phận biên tập FTAP",
+                "content": "Điều 12. Chức năng, nhiệm vụ của Bộ phận biên tập FTAP",
+                "clauses": [
+                  {
+                    "clause_id": "doc:220407:part:2:article:12:clause:1",
+                    "number": "1",
+                    "content": "1. Chức năng\nBộ phận biên tập FTAP có chức năng giúp Tổ trưởng Tổ Công tác FTAP trong việc tổ chức viết bài, biên tập, đưa tin và quản lý thông tin, số liệu có liên quan trên FTAP, bảo đảm FTAP hoạt động thường xuyên, liên tục và hợp pháp.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:220407:part:2:article:12:clause:2",
+                    "number": "2",
+                    "content": "2. Nhiệm vụ",
+                    "points": [
+                      {
+                        "point_id": "doc:220407:part:2:article:12:clause:2:point:1",
+                        "label": "a",
+                        "content": "a) Tổ chức viết tin bài, khai thác thông tin, số liệu\ntừ các hoạt động thường xuyên của các Bộ, ngành... và từ các đơn vị chuyên môn có liên quan đến hoạt động của FTAP để đảm bảo cho FTAP luôn hoạt động có chất lượng, thường xuyên và hợp pháp.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:220407:part:2:article:12:clause:2:point:2",
+                        "label": "b",
+                        "content": "b) Tiếp nhận các thông tin do các thành viên Tổ\nCông tác FTAP, các đơn vị chuyên môn gửi về theo quy định của Điều 9 của Quy chế này; tổ chức biên tập, tổng hợp nội dung thông tin, số liệu hình thức trình bày của thông tin và số liệu.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:220407:part:2:article:12:clause:2:point:3",
+                        "label": "c",
+                        "content": "c) Giám sát hoạt động kỹ thuật vận hành của FTAP nhằm\nđảm bảo hoạt động liên tục, kịp thời đối với thông tin tích hợp và phương hướng phát triển mở rộng;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:220407:part:2:article:12:clause:2:point:4",
+                        "label": "d",
+                        "content": "d) Theo dõi đôn đốc các đại diện các Bộ, ngành là\nthành viên Tổ Công tác FTAP thường xuyên cung cấp thông tin, hoạt động cho FTAP theo quy định tại Điều 9 của Quy chế này;",
+                        "children": []
+                      }
+                    ]
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:220407:part:2:article:13",
+                "number": "13",
+                "title": "Trách nhiệm của Trưởng bộ phận, Phó Trưởng bộ phận và các thành viên Bộ phận biên tập FTAP",
+                "content": "Điều 13. Trách nhiệm của Trưởng bộ phận, Phó Trưởng bộ phận và các thành viên Bộ phận biên tập FTAP",
+                "clauses": [
+                  {
+                    "clause_id": "doc:220407:part:2:article:13:clause:1",
+                    "number": "1",
+                    "content": "1. Trưởng Bộ phận biên tập",
+                    "points": [
+                      {
+                        "point_id": "doc:220407:part:2:article:13:clause:1:point:1",
+                        "label": "a",
+                        "content": "a) Chỉ đạo điều hành hoạt động của Bộ phận biên tập\nvà các hoạt động liên quan đến FTAP theo nhiệm vụ, quyền hạn được quy định tại Quyết định số 2773/QĐ-BCT ngày 10 tháng 12 năm 2021.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:220407:part:2:article:13:clause:1:point:2",
+                        "label": "b",
+                        "content": "b) Định hướng nội dung, phát triển của FTAP.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:220407:part:2:article:13:clause:1:point:3",
+                        "label": "c",
+                        "content": "c) Có trách nhiệm phân công nhiệm vụ các thành viên\nBộ phận biên tập FTAP.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:220407:part:2:article:13:clause:2",
+                    "number": "2",
+                    "content": "2. Phó Trưởng Bộ phận biên tập FTA thực hiện nhiệm\nvụ do Trưởng Bộ phận phân công, thay mặt Trưởng Bộ phận biên tập điều hành hoạt động của Bộ phận biên tập FTAP khi được ủy quyền.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:220407:part:2:article:13:clause:3",
+                    "number": "3",
+                    "content": "3. Các thành viên Bộ phận biên tập",
+                    "points": [
+                      {
+                        "point_id": "doc:220407:part:2:article:13:clause:3:point:1",
+                        "label": "a",
+                        "content": "a) Biên tập thông tin theo phân công để đăng tải\nlên FTAP.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:220407:part:2:article:13:clause:3:point:2",
+                        "label": "b",
+                        "content": "b) Phân loại, đánh giá chất lượng, đề xuất các hệ số\nliên quan.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:220407:part:2:article:13:clause:3:point:3",
+                        "label": "c",
+                        "content": "c) Trực tiếp triển khai các kế hoạch công tác của bộ\nphận biên tập.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:220407:part:2:article:13:clause:3:point:4",
+                        "label": "d",
+                        "content": "d) Tổ chức tiếp nhận, phân loại câu hỏi của bạn đọc\ngửi qua cổng FTAP, chuyển tới các thành viên Tổ Công tác FTAP để xây dựng nội dung trả lời bạn đọc.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:220407:part:2:article:13:clause:3:point:5",
+                        "label": "e",
+                        "content": "e) Đề xuất với Trưởng Bộ phận về thiết kế, cải tiến\nnâng cấp giao diện FTAP và các nội dung khác có liên quan đến hoạt động của\nFTAP.",
+                        "children": []
+                      }
+                    ]
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:220407:part:2:article:14",
+                "number": "14",
+                "title": "Quy trình biên tập và đăng tải thông tin trên FTAP",
+                "content": "Điều 14. Quy trình biên tập và đăng tải thông tin trên FTAP",
+                "clauses": [
+                  {
+                    "clause_id": "doc:220407:part:2:article:14:clause:1",
+                    "number": "1",
+                    "content": "1. Bộ phận biên tập FTAP là đầu mối tiếp nhận các\nthông tin gửi đến FTAP và căn cứ nguồn gốc, nội dung, mục đích thông tin để phân loại thành các nhóm như sau:",
+                    "points": [
+                      {
+                        "point_id": "doc:220407:part:2:article:14:clause:1:point:1",
+                        "label": "a",
+                        "content": "a) Nhóm tin, bài bao gồm: tin sự kiện, tin điểm văn\nbản pháp luật, đồ họa, video clip, bài viết, bài phỏng vấn, bài nghiên cứu, bài tổng hợp... được gửi để đăng tải lên FTAP.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:220407:part:2:article:14:clause:1:point:2",
+                        "label": "b",
+                        "content": "b) Nhóm thông tin số liệu bao gồm: số liệu về xuất\nnhập khẩu, đầu tư, tình hình thị trường và các số liệu khác có liên quan đến đàm phán và thực hiện các FTA và thỏa thuận thương mại của Việt Nam.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:220407:part:2:article:14:clause:1:point:3",
+                        "label": "c",
+                        "content": "c) Thông tin khác cần phải đăng tải theo quy định\n(văn bản pháp luật và văn bản liên quan, dự thảo văn bản pháp luật hoặc liên quan, thông báo, thông tin báo chí...).",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:220407:part:2:article:14:clause:1:point:4",
+                        "label": "d",
+                        "content": "d) Câu hỏi của bạn đọc gửi đến FTAP.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:220407:part:2:article:14:clause:2",
+                    "number": "2",
+                    "content": "2. Quy trình xử lý đối với nhóm tin, bài, số liệu:",
+                    "points": [
+                      {
+                        "point_id": "doc:220407:part:2:article:14:clause:2:point:1",
+                        "label": "a",
+                        "content": "a) Trong vòng 02 ngày làm việc kể từ ngày nhận được\ntin, bài, Bộ phận biên tập FTAP có trách nhiệm hoàn thành việc xử lý thông tin theo quy trình như sau: - Rà soát, kiểm tra nội dung tin, bài, số liệu. - Căn cứ quy định hiện hành để đề xuất các hệ số liên quan của dữ liệu cần đăng tải, cập nhật. - Trình Trưởng Bộ phận biên tập phê duyệt.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:220407:part:2:article:14:clause:2:point:2",
+                        "label": "b",
+                        "content": "b) Trưởng Bộ phận biên tập có trách nhiệm:\n- Phê duyệt các hệ số liên quan của tin bài. - Phê duyệt việc đăng tải, cập nhật mục dữ liệu liên quan tại cơ sở dữ liệu của FTAP.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:220407:part:2:article:14:clause:3",
+                    "number": "3",
+                    "content": "3. Quy trình xử lý đối với câu hỏi của bạn đọc:",
+                    "points": [
+                      {
+                        "point_id": "doc:220407:part:2:article:14:clause:3:point:1",
+                        "label": "a",
+                        "content": "a) Trong vòng 2 ngày làm việc kể từ ngày nhận được\ncâu hỏi bạn đọc, Bộ phận biên tập FTAP thực hiện phân loại câu hỏi của bạn đọc, cụ thể như sau: - Trường hợp câu hỏi/ý kiến của bạn đọc có nội dung tương tự đã được trả lời và lưu trên FTAP, Bộ phận biên tập FTAP đề xuất dẫn chiếu nội dung câu hỏi và câu trả lời tương tự để bạn đọc tham khảo và trình Trưởng Bộ phận biên tập phê duyệt. - Các trường hợp khác, Bộ phận biên tập FTAP chuyển câu hỏi của bạn đọc tới thành viên Tổ công tác FTAP có liên quan để xử lý.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:220407:part:2:article:14:clause:3:point:2",
+                        "label": "b",
+                        "content": "b) Trong vòng 11 ngày làm việc kể từ ngày nhận được\ncâu hỏi của bạn đọc do Bộ phận biên tập FTAP chuyển, thành viên Tổ công tác FTAP được phân công trả lời có trách nhiệm: - Chuyển nội dung câu hỏi tới các đơn vị chuyên môn trực thuộc cơ quan của mình. - Phối hợp, đôn đốc các đơn vị chuyên môn có liên quan xây dựng nội dung trả lời. - Tổng hợp và gửi nội dung trả lời về Bộ phận biên tập FTAP.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:220407:part:2:article:14:clause:3:point:3",
+                        "label": "c",
+                        "content": "c) Trong vòng 01 ngày làm việc kể từ ngày nhận được\nnội dung trả lời, Bộ phận biên tập FTAP có trách nhiệm: - Căn cứ các tiêu chí theo quy định hiện hành để đề xuất các hệ số liên quan của nội dung trả lời bạn đọc. - Trình Trưởng Bộ phận biên tập phê duyệt.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:220407:part:2:article:14:clause:3:point:4",
+                        "label": "d",
+                        "content": "d) Trưởng Bộ phận biên tập có trách nhiệm:\n- Phê duyệt các hệ số liên quan của nội dung trả lời bạn đọc. - Phê duyệt việc đăng tải nội dung trả lời bạn đọc lên FTAP.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:220407:part:2:article:14:clause:3:point:5",
+                        "label": "e",
+                        "content": "e) Trong vòng 02 ngày làm việc sau khi được phê duyệt,\nBộ phận biên tập FTAP thực hiện đăng tải nội dung trả lời bạn đọc.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:220407:part:2:article:14:clause:4",
+                    "number": "4",
+                    "content": "4. Đối với các thông tin khác cần phải đăng tải\ntheo quy định, Bộ phận biên tập FTAP thực hiện cập nhật kịp thời lên FTAP.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:220407:part:2:article:15",
+                "number": "15",
+                "title": "Đảm bảo vận hành và duy trì hoạt động FTAP",
+                "content": "Điều 15. Đảm bảo vận hành và duy trì hoạt động FTAP",
+                "clauses": [
+                  {
+                    "clause_id": "doc:220407:part:2:article:15:clause:1",
+                    "number": "1",
+                    "content": "1. FTAP phải được thường xuyên kiểm tra, bảo trì,\nchỉnh sửa, giám sát để đảm bảo hoạt động liên tục 24 giờ trong tất cả các ngày.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:220407:part:2:article:15:clause:2",
+                    "number": "2",
+                    "content": "2. FTAP phải được rà soát định kỳ, đề xuất phương\nán nâng cấp, chỉnh sửa, bổ sung nội dung mới cho đảm bảo thông tin trên Cổng chính xác, cập nhật, phù hợp yêu cầu thực tế.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:220407:part:2:article:15:clause:3",
+                    "number": "3",
+                    "content": "3. FTAP phải được trang bị đầy đủ trang thiết bị kỹ\nthuật phục vụ cho việc thu thập, xử lý và cập nhật thông tin cho FTAP; đường truyền của FTAP phải được đảm bảo chất lượng, thộng lượng (độ rộng giải thông) và các giải pháp cần thiết khác.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:220407:part:2:article:15:clause:4",
+                    "number": "4",
+                    "content": "4. FTAP phải được đảm bảo an toàn thông tin, cụ thể:\n- Thực hiện các biện pháp kỹ thuật để đảm bảo an toàn thông tin và dữ liệu trên FTAP; - Xây dựng các giải pháp hiệu quả chống truy cập bất hợp pháp, tấn công gây mất an toàn an ninh thông tin của FTAP; - Xây dựng phương án dự phòng khắc phục sự cố bảo đảm FTAP hoạt động liên tục và an toàn ở mức tối đa.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:220407:part:2:chapter:4",
+            "number": "IV",
+            "title": "TỔ CHỨC THỰC HIỆN",
+            "content": "Chương IV\nTỔ CHỨC THỰC HIỆN",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:220407:part:2:article:16",
+                "number": "16",
+                "title": "Tổ chức thực hiện",
+                "content": "Điều 16. Tổ chức thực hiện",
+                "clauses": [
+                  {
+                    "clause_id": "doc:220407:part:2:article:16:clause:1",
+                    "number": "1",
+                    "content": "1. Giao Vụ Chính sách thương mại đa biên có trách nhiệm\nchủ trì, phối hợp với các thành viên Tổ công tác FTAP và các đơn vị liên quan tổ chức triển khai, hướng dẫn các cá nhân, tổ chức liên quan thực hiện đúng nội dung Quy chế này.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:220407:part:2:article:16:clause:2",
+                    "number": "2",
+                    "content": "2. Đại diện các Bộ, ngành là thành viên Tổ Công tác\nFTAP có trách nhiệm báo cáo lãnh đạo đơn vị phụ trách và xây dựng quy chế nội bộ về quy trình cung cấp thông tin gửi cho Bộ phận biên tập FTAP.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:220407:part:2:article:16:clause:3",
+                    "number": "3",
+                    "content": "3. Trong quá trình thực hiện, nếu có vướng mắc đề\nnghị các thành viên Tổ công tác FTAP phản ánh về Vụ Chính sách thương mại đa biên để tổng hợp, trình Bộ trưởng, Lãnh đạo Bộ xem xét giải quyết.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:220407:part:2:article:17",
+                "number": "17",
+                "title": "Khen thưởng, kỷ luật",
+                "content": "Điều 17. Khen thưởng, kỷ luật",
+                "clauses": [
+                  {
+                    "clause_id": "doc:220407:part:2:article:17:clause:1",
+                    "number": "1",
+                    "content": "1. Tổ chức và cá nhân thực hiện tốt nhiệm vụ cung cấp\nthông tin và quản lý hoạt động của FTAP sẽ được xem xét khen thưởng hàng năm theo quy định.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:220407:part:2:article:17:clause:2",
+                    "number": "2",
+                    "content": "2. Tổ chức và cá nhân có hành vi vi phạm các quy định\nvề cung cấp thông tin và quản lý hoạt động của FTAP, ảnh hưởng đến hoạt động ổn định của FTAP, tùy theo mức độ vi phạm sẽ bị xem xét, xử lý theo quy định.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          }
+        ],
+        "sections": [],
+        "articles": [],
+        "unstructured_blocks": []
+      }
+    ]
+  },
+  "issues": [],
+  "status": "ok",
+  "source_hash": "context_220407.json",
+  "stats": {
+    "source_chars": 26798,
+    "passage_chars": 26646,
+    "parts": 2,
+    "chapters": 4,
+    "sections": 0,
+    "articles": 20,
+    "clauses": 51,
+    "points": 48
+  }
+}

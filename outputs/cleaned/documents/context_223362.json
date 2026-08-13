@@ -1,0 +1,632 @@
+{
+  "schema_version": "2.0",
+  "document_id": 223362,
+  "metadata": {
+    "name": "Thong-tu-02-2019-TT-BNV-tieu-chuan-du-lieu-thong-tin-dau-vao-406241",
+    "link": "https://thuvienphapluat.vn/van-ban/Linh-vuc-khac/Thong-tu-02-2019-TT-BNV-tieu-chuan-du-lieu-thong-tin-dau-vao-406241.aspx",
+    "issuing_agency": "BỘ NỘI VỤ",
+    "national_header": "CỘNG HÒA XÃ\r\n\n  HỘI CHỦ NGHĨA VIỆT NAM",
+    "motto": "Độc lập - Tự do - Hạnh phúc",
+    "document_number": "02/2019/TT-BNV",
+    "issued_place": "Hà Nội",
+    "issued_date": "ngày 24 tháng 01 năm 2019",
+    "document_type": "THÔNG TƯ",
+    "title": "QUY ĐỊNH TIÊU CHUẨN DỮ LIỆU THÔNG TIN ĐẦU VÀO VÀ YÊU CẦU BẢO QUẢN TÀI LIỆU LƯU TRỮ ĐIỆN TỬ"
+  },
+  "administrative_header": {
+    "removed": true,
+    "removed_char_count": 149
+  },
+  "preamble": {
+    "text": "THÔNG TƯ QUY\nĐỊNH TIÊU CHUẨN DỮ LIỆU THÔNG TIN ĐẦU VÀO VÀ YÊU CẦU BẢO QUẢN TÀI LIỆU LƯU TRỮ\nĐIỆN TỬ\nCăn cứ Luật Lưu trữ ngày 11 tháng 11 năm 2011; Căn cứ Nghị định số 34/2017/NĐ-CP ngày 03 tháng 4 năm 2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Nội vụ; Căn cứ Nghị định số 01/2013/NĐ-CP ngày 03 tháng 01 năm 2013 của Chính phủ quy định chi tiết thi hành một số điều của Luật Lưu trữ; Căn cứ Quyết định số 28/2018/QĐ-TTg ngày 12 tháng 7 năm 2018 của Thủ tướng Chính phủ về việc gửi, nhận văn bản điện tử giữa các cơ quan trong hệ thống hành chính nhà nước; Theo đề nghị của Cục trưởng Cục Văn thư và Lưu trữ nhà nước; Bộ trưởng Bộ Nội vụ ban hành Thông tư quy định tiêu chuẩn dữ liệu thông tin đầu vào và yêu cầu bảo quản tài liệu lưu trữ điện tử.\nChương I\nQUY ĐỊNH CHUNG",
+    "legal_bases": [
+      "Căn cứ Nghị định số 34/2017/NĐ-CP ngày 03 tháng 4 năm 2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Nội vụ",
+      "Căn cứ Nghị định số 01/2013/NĐ-CP ngày 03 tháng 01 năm 2013 của Chính phủ quy định chi tiết thi hành một số điều của Luật Lưu trữ",
+      "Căn cứ Quyết định số 28/2018/QĐ-TTg ngày 12 tháng 7 năm 2018 của Thủ tướng Chính phủ về việc gửi, nhận văn bản điện tử giữa các cơ quan trong hệ thống hành chính nhà nước"
+    ],
+    "proposals": [
+      "Theo đề nghị của Cục trưởng Cục Văn thư và Lưu trữ nhà nước"
+    ],
+    "enactment_formula": null
+  },
+  "passage": "THÔNG TƯ QUY\nĐỊNH TIÊU CHUẨN DỮ LIỆU THÔNG TIN ĐẦU VÀO VÀ YÊU CẦU BẢO QUẢN TÀI LIỆU LƯU TRỮ\nĐIỆN TỬ\nCăn cứ Luật Lưu trữ ngày 11 tháng 11 năm 2011; Căn cứ Nghị định số 34/2017/NĐ-CP ngày 03 tháng 4 năm 2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Nội vụ; Căn cứ Nghị định số 01/2013/NĐ-CP ngày 03 tháng 01 năm 2013 của Chính phủ quy định chi tiết thi hành một số điều của Luật Lưu trữ; Căn cứ Quyết định số 28/2018/QĐ-TTg ngày 12 tháng 7 năm 2018 của Thủ tướng Chính phủ về việc gửi, nhận văn bản điện tử giữa các cơ quan trong hệ thống hành chính nhà nước; Theo đề nghị của Cục trưởng Cục Văn thư và Lưu trữ nhà nước; Bộ trưởng Bộ Nội vụ ban hành Thông tư quy định tiêu chuẩn dữ liệu thông tin đầu vào và yêu cầu bảo quản tài liệu lưu trữ điện tử.\nChương I\nQUY ĐỊNH CHUNG\nĐiều 1. Phạm vi điều chỉnh Thông tư này quy định tiêu chuẩn dữ liệu thông tin đầu vào và yêu cầu bảo quản tài liệu lưu trữ điện tử, dữ liệu đặc tả của tài liệu lưu trữ (sau đây gọi là cơ sở dữ liệu tài liệu lưu trữ) hình thành trong quá trình hoạt động của cơ quan, tổ chức.\nĐiều 2. Đối tượng áp dụng\n1. Thông tư này áp dụng đối với cơ quan\nnhà nước, doanh nghiệp nhà nước theo quy định của Luật Doanh nghiệp năm 2014 (sau đây gọi chung là cơ quan, tổ chức).\n2. Khuyến khích các cơ quan, tổ chức\nkhông thuộc Khoản 1 Điều này và cá nhân áp dụng các quy định tại Thông tư này.\nĐiều 3. Giải thích từ ngữ Trong Thông tư này, các từ ngữ dưới đây được hiểu như sau:\n1. Cơ sở dữ liệu tài liệu lưu trữ là tập\nhợp các dữ liệu bao gồm tài liệu lưu trữ điện tử và dữ liệu đặc tả của tài liệu lưu trữ được sắp xếp thông qua phương tiện điện tử để truy cập, khai thác, quản lý và cập nhật.\n2. Hệ thống quản lý tài liệu lưu trữ điện\ntử là hệ thống tin học hóa các quy trình nghiệp vụ về công tác lưu trữ, bao gồm công tác thu thập, bảo quản và sử dụng tài liệu lưu trữ.\n3. Sự cố tin học là hiện tượng hệ thống tin học trong quá trình\nhoạt động xảy ra những trường hợp bất thường như: bị hỏng, hoạt động không bình thường; dữ liệu, phần mềm bị thay đổi, sửa, xóa, sao chép, truy cập trái phép bởi phần mềm bất hợp pháp; có chứa mã độc, có chứa phần mềm gián điệp,... hoặc người sử dụng thực hiện chưa đúng quy trình.\n4. Phương tiện lưu trữ là thiết bị vật\nlý được sử dụng để lưu trữ cơ sở dữ liệu tài liệu lưu trữ, phần mềm (gồm ổ cứng, thẻ nhớ, băng từ, đĩa quang,...).\n5. Sao lưu là việc tạo ra bản sao cơ sở\ndữ liệu tài liệu lưu trữ, phần mềm.\n6. Chuyển đổi phương tiện lưu trữ là việc\nsao lưu cơ sở dữ liệu tài liệu lưu trữ, phần mềm từ phương tiện lưu trữ này sang phương tiện lưu trữ độc lập khác.\n7. Phương thức sao lưu gia tăng là việc\nsao lưu tất cả các thông tin có sự thay đổi hoặc cập nhật so với lần sao lưu gần nhất trước đó.\n8. Phương thức sao lưu đầy đủ là việc\nsao lưu tất cả các thông tin được chọn, không phụ thuộc vào thời điểm lưu trữ và các lần sao lưu trước đó.\n9. Tài liệu lưu trữ số hóa là tài liệu\nđiện tử được tạo lập từ việc số hóa đầy đủ, chính xác nội dung của tài liệu lưu trữ và được ký số bởi cơ quan, tổ chức quản lý tài liệu lưu trữ được số hóa.\nChương II\nTIÊU\nCHUẨN DỮ LIỆU THÔNG TIN ĐẦU VÀO CỦA CƠ SỞ DỮ LIỆU TÀI LIỆU LƯU TRỮ\nĐiều 4. Nguyên tắc thiết kế cấu trúc dữ liệu thông tin đầu vào\n1. Bảo đảm thống nhất với tiêu chuẩn\nthông tin đầu vào của Hệ thống quản lý tài liệu điện tử của các cơ quan, tổ chức.\n2. Phù hợp với quy chuẩn kỹ thuật quốc\ngia về cấu trúc mã định danh và định dạng dữ liệu gói tin phục vụ kết nối các hệ thống quản lý văn bản và điều hành quy định tại Thông tư số 10/2016/TT-BTTTT ngày 01 tháng 4 năm 2016 và tiêu chuẩn kỹ thuật về ứng dụng công nghệ thông tin trong cơ quan nhà nước quy định tại Thông tư số 39/2017/TT-BTTTT ngày 15 tháng 12 năm 2017 của Bộ trưởng Bộ Thông tin và Truyền thông.\n3. Bảo đảm việc trao đổi dữ liệu giữa Hệ\nthống quản lý tài liệu lưu trữ điện tử của Lưu trữ lịch sử với Hệ thống quản lý tài liệu điện tử của Lưu trữ cơ quan.\nĐiều 5. Yêu cầu biên mục nội dung dữ liệu đặc tả của tài liệu lưu trữ\n1. Biên mục nội dung dữ liệu đặc tả phải\nbảo đảm cô đọng, rõ nghĩa đối với nội dung tài liệu cần mô tả.\n2. Trong trường hợp thuộc tính nội dung\ncó nhiều giá trị khác nhau, thì phân biệt các thuộc tính nội dung bằng dấu chấm phẩy (;).\n3. Cơ quan, tổ chức có trách nhiệm cập\nnhật, bổ sung khi nội dung dữ liệu đặc tả của tài liệu lưu trữ có sự thay đổi.\nĐiều 6. Tiêu chuẩn dữ liệu thông tin đầu vào của cơ sở dữ liệu tài liệu lưu trữ\n1. Tài liệu lưu trữ điện tử được số hóa\ntừ tài liệu lưu trữ nền giấy\na) Định dạng Portable Document Format\n(.pdf), phiên bản 1.4 trở lên;\nb) Ảnh màu;\nc) Độ phân giải tối thiểu: 200 dpi;\nd) Tỷ lệ số hóa: 100%;\nđ) Hình thức chữ ký số của cơ quan, tổ\nchức quản lý tài liệu lưu trữ số hóa - Vị trí: Góc trên, bên phải, trang đầu tài liệu; - Hình ảnh: Dấu của cơ quan, tổ chức, màu đỏ, kích thước bằng kích thước thực tế của dấu, định dạng Portable Network Graphics (.png); - Thông tin: Tên cơ quan, tổ chức, thời gian ký (ngày, tháng, năm; giờ, phút, giây; múi giờ Việt Nam theo Tiêu chuẩn\nISO 8601).\ne) Tên file: gồm mã hồ sơ và số thứ tự\nvăn bản trong hồ sơ, cách nhau bởi dấu chấm.\n2. Tài liệu ảnh\na) Định dạng: JPEG;\nb) Độ phân giải tối thiểu: 200 dpi.\n3. Tài liệu phim ảnh\na) Định dạng: MPEG-4, .avi, .wmv;\nb) Bit rate tối thiểu: 1500 kbps.\n4. Tài liệu âm thanh\na) Định dạng: MP3, .wma;\nb) Bit rate tối thiểu: 128 kbps.\n5. Dữ liệu thông tin đầu vào của cơ sở dữ\nliệu tài liệu lưu trữ hình thành từ Hệ thống quản lý tài liệu điện tử của các cơ quan, tổ chức nộp lưu vào Lưu trữ lịch sử được đóng gói theo tiêu chuẩn kỹ thuật về ứng dụng công nghệ thông tin trong cơ quan nhà nước quy định tại Thông tư số 39/2017/TT-BTTTT ngày 15 tháng 12 năm 2017 của Bộ trưởng Bộ Thông tin và Truyền thông.\n6. Dữ liệu đặc tả của tài liệu lưu trữ\nquy định tại Phụ lục I Thông tư này.\n7. Biên mục, cập nhật nội dung dữ liệu đặc\ntả của tài liệu lưu trữ quy định tại Phụ lục II Thông tư này.\nChương III\nBẢO\nQUẢN CƠ SỞ DỮ LIỆU TÀI LIỆU LƯU TRỮ\nĐiều 7. Nguyên tắc\n1. Bảo đảm cơ sở dữ liệu tài liệu lưu trữ\nđược bảo quản an toàn, xác thực, bảo mật trên các phương tiện lưu trữ.\n2. Bảo đảm khả năng truy cập, quản lý,\ntìm kiếm, cập nhật cơ sở dữ liệu tài liệu lưu trữ.\nĐiều 8. Yêu cầu\n1. Không lưu cơ sở dữ liệu tài liệu lưu\ntrữ có chứa thông tin thuộc phạm vi bí mật nhà nước trên các thiết bị kết nối với mạng Internet, mạng máy tính, mạng viễn thông.\n2. Không chuyển mục đích sử dụng các thiết\nbị đã lưu cơ sở dữ liệu tài liệu lưu trữ có chứa thông tin thuộc phạm vi bí mật nhà nước khi chưa loại bỏ triệt để cơ sở dữ liệu tài liệu lưu trữ.\n3. Cơ sở dữ liệu tài liệu lưu trữ phải\nđược sao lưu ít nhất 02 bộ, mỗi bộ trên 01 phương tiện lưu trữ độc lập. Việc sao lưu phải bảo đảm đầy đủ, chính xác, kịp thời, an toàn.\n4. Bảo đảm thống nhất quy trình kiểm\ntra, sao lưu, phục hồi dữ liệu.\n5. Người được giao quản lý cơ sở dữ liệu\ntài liệu lưu trữ của cơ quan, tổ chức có trách nhiệm kiểm tra, bảo quản, sao lưu, phục hồi.\nĐiều 9. Kiểm tra cơ sở dữ liệu tài liệu lưu trữ\n1. Thời gian kiểm tra: Định kỳ hàng năm.\n2. Quy trình kiểm tra quy định tại Phụ lục III Thông tư này.\n3. Biên bản kiểm tra quy định tại Phụ lục IV Thông tư này.\nĐiều 10. Sao lưu phần mềm và cơ sở dữ liệu tài liệu lưu trữ\n1. Thời gian và phương thức sao lưu\na) Cơ sở dữ liệu tài liệu lưu trữ phải\nsao lưu hàng ngày theo phương thức sao lưu gia tăng, ngày đầu tiên hàng tháng phải sao lưu theo phương thức sao lưu đầy đủ.\nb) Chuyển đổi phương tiện lưu trữ\nCơ sở dữ liệu tài liệu lưu trữ, phần mềm phải chuyển đổi phương tiện lưu trữ 03 năm/01 lần theo phương thức sao lưu đầy đủ; Dữ liệu đặc tả của tài liệu lưu trữ được sao lưu và lưu trữ bằng định dạng file XML (eXtensible Markup Language).\n2. Quy trình sao lưu quy định tại Phụ lục V Thông tư này.\n3. Nhật ký sao lưu quy định tại Phụ lục VI Thông tư này.\n4. Biên bản sao lưu quy định tại Phụ lục VII Thông tư này.\nĐiều 11. Phục hồi cơ sở dữ liệu tài liệu lưu trữ\n1. Quy trình và nội dung phục hồi cơ sở\ndữ liệu tài liệu lưu trữ quy định tại Phụ lục VIII Thông tư này.\n2. Biên bản phục hồi cơ sở dữ liệu tài\nliệu lưu trữ quy định tại Phụ lục IX Thông tư này.\nĐiều 12. Bảo đảm an toàn cơ sở dữ liệu tài liệu lưu trữ\n1. Cơ sở dữ liệu tài liệu lưu trữ được bảo\nđảm an toàn thông tin theo cấp độ được quy định tại Nghị định số 85/2016/NĐ-CP ngày 01 tháng 7 năm 2016 của Chính phủ và Thông tư số 03/2017/TT-BTTTT ngày 24 tháng 4 năm 2017 của Bộ trưởng Bộ Thông tin và Truyền thông.\n2. Việc tiêu hủy thiết bị, phương tiện\nlưu trữ cơ sở dữ liệu tài liệu lưu trữ bảo đảm yêu cầu bảo mật thông tin theo cấp độ được quy định.\n3. Không được mang thiết bị, phương tiện\nlưu trữ cơ sở dữ liệu tài liệu lưu trữ ra khỏi Lưu trữ cơ quan, Lưu trữ lịch sử khi chưa được sự đồng ý của người có thẩm quyền.\nChương IV\nĐIỀU KHOẢN THI HÀNH\nĐiều 13. Hiệu lực thi hành Thông tư này có hiệu lực thi hành kể từ ngày 10 tháng 3 năm 2019.\nĐiều 14. Tổ chức thực hiện\n1. Bộ trưởng, Thủ trưởng cơ quan ngang Bộ,\nThủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương và các cơ quan, tổ chức có liên quan chịu trách nhiệm thực hiện Thông tư này.\n2. Trong quá trình triển khai thực hiện,\nnếu có vướng mắc đề nghị các cơ quan, tổ chức, cá nhân phản ánh về Bộ Nội vụ để nghiên cứu, sửa đổi, bổ sung cho phù hợp./.\nNơi nhận:\n-\nBan Bí thư trung ương Đảng;\n- Văn phòng Quốc hội;\n- Văn phòng Chủ tịch nước;\n- Các Bộ, cơ quan ngang Bộ, cơ quan thuộc CP;\n- Viện Kiểm sát nhân dân tối cao;\n- Tòa án nhân dân tối cao;\n- Kiểm toán Nhà nước;\n- Các Tập đoàn kinh tế, Tổng công ty nhà nước;\n- Cơ quan TW của các đoàn thể;\n- HĐND, UBND các tỉnh, thành phố\ntrực thuộc TW;\n- Sở Nội vụ các tỉnh, thành phố trực thuộc TW;\n- Bộ Nội vụ: Bộ trưởng, các Thứ trưởng;\n- Cục Văn thư và Lưu trữ nhà nước (20b);\n- Cục Kiểm tra văn bản QPPL (Bộ Tư pháp);\n- Công báo;\n- Cổng Thông tin điện tử Bộ Nội vụ;\n- Cổng Thông tin điện tử Cục Văn thư và Lưu trữ nhà nước;\n- Lưu: VT, PC.\nKT. BỘ TRƯỞNG\nTHỨ TRƯỞNG\nNguyễn Duy Thăng\nPHỤ\nLỤC I\nDỮ\nLIỆU ĐẶC TẢ CỦA TÀI LIỆU LƯU TRỮ\n(Kèm theo Thông tư số 02/2019/TT-BNV ngày 24 tháng 01 năm của Bộ trưởng\nBộ Nội vụ)\n1. Dữ liệu đặc tả của phông/công trình/sưu\ntập lưu trữ\nSTT\nTrường thông\ntin\nTên\n(viết tắt tiếng\nAnh)\nKiểu dữ liệu\nĐộ dài\n1\nMã cơ quan lưu trữ\nIdentifier\nString\n13\n2\nMã phông/công trình/sưu tập lưu trữ\nOrganld\nString\n13\n3\nTên phông/công trình/sưu tập lưu trữ\nFondName\nString\n200\n4\nLịch sử đơn vị hình thành phông\nFondHistory\nLongText\n5\nThời gian tài liệu\nArchivesTime\nString\n30\n6\nTổng số tài liệu giấy\nPaperTotal\nNumber\n10\n7\nSố lượng tài liệu giấy đã số hóa\nPaperDigital\nNumber\n10\n8\nCác nhóm tài liệu chủ yếu\nKeyGroups\nString\n300\n9\nCác loại hình tài liệu khác\nOtherTypes\nString\n300\n10\nNgôn ngữ\nLanguage\nString\n100\n11\nCông cụ tra cứu\nLookupTools\nString\n50\n12\nSố lượng trang tài liệu đã lập bản sao bảo hiểm\nCopyNumber\nNumber\n10\n13\nGhi chú\nDescription\nString\n1000\n2. Dữ liệu đặc tả của hồ sơ lưu trữ\nSTT\nTrường thông\ntin\nTên\n(viết tắt tiếng\nAnh)\nKiểu dữ liệu\nĐộ dài\n1\nMã hồ sơ\nFileCode\n1.1\nMã cơ quan lưu trữ lịch sử\nIdentifier\nString\n13\n1.2\nMã phông/công trình/sưu tập lưu trữ\nOrganld\nString\n13\n1.3\nMục lục số hoặc năm hình thành hồ sơ\nFileCatalog\nNumber\n10\n1.4\nSố và ký hiệu hồ sơ\nFileNotation\nString\n20\n2\nTiêu đề hồ sơ\nTitle\nString\n1000\n3\nThời hạn bảo quản\nMaintenance\nString\n100\n4\nChế độ sử dụng\nRights\nString\n30\n5\nNgôn ngữ\nLanguage\nString\n100\n6\nThời gian bắt đầu\nStartDate\nDate\nDD/MM/YYYY\n7\nThời gian kết thúc\nEndDate\nDate\nDD/MM/YYYY\n8\nTổng số văn bản trong hồ sơ\nTotalDoc\nNumber\n10\n9\nChú giải\nDescription\nString\n2000\n10\nKý hiệu thông tin\nInforSign\nString\n30\n11\nTừ khóa\nKeyword\nString\n100\n12\nSố lượng tờ\nMaintenance\nNumber\n10\n13\nSố lượng trang\nPageNumber\nNumber\n10\n14\nTình trạng vật lý\nFormat\nString\n50\n3. Dữ liệu đặc tả của văn bản\nSTT\nTrường thông\ntin\nTên\n(viết tắt tiếng Anh)\nKiểu dữ liệu\nĐộ dài\n1\nMã định danh văn bản\nDocCode\nString\n25\n2\nMã hồ sơ\nFileCode\n2.1\nMã cơ quan lưu trữ lịch sử\nIdentifier\nString\n13\n2.2\nMã phông/công trình/sưu tập lưu trữ\nOrganld\nString\n13\n2.3\nMục lục số hoặc năm hình thành hồ sơ\nFileCatalog\nNumber\n4\n2.4\nSố và ký hiệu hồ sơ\nFileNotation\nString\n20\n3\nSố thứ tự văn bản trong hồ sơ\nDocOrdinal\nNumber\n4\n4\nTên loại văn bản\nTypeName\nString\n100\n5\nSố của văn bản\nCodeNumber\nString\n11\n6\nKý hiệu của văn bản\nCodeNotation\nString\n30\n7\nNgày, tháng, năm văn bản\nIssuedDate\nDate\nDD/MM/YYYY\n8\nTên cơ quan, tổ chức ban hành văn bản\nOrganName\nString\n200\n9\nTrích yếu nội dung\nSubject\nString\n500\n10\nNgôn ngữ\nLanguage\nString\n100\n11\nSố lượng trang của văn bản\nPageAmount\nNumber\n4\n12\nGhi chú\nDescription\nString\n500\n13\nKý hiệu thông tin\nInforSign\nString\n30\n14\nTừ khóa\nKeyword\nString\n100\n15\nChế độ sử dụng\nMode\nString\n20\n16\nMức độ tin cậy\nConfidenceLevel\nString\n30\n17\nBút tích\nAutograph\nString\n2000\n18\nTình trạng vật lý\nFormat\nString\n50\n4. Dữ liệu đặc tả của tài liệu phim (âm\nbản)/ảnh\nSTT\nTrường thông\ntin\nTên\n(viết tắt tiếng\nAnh)\nKiểu dữ liệu\nĐộ dài\n1\nMã cơ quan lưu trữ\nIdentifier\nString\n13\n2\nSố lưu trữ\nArchivesNumber\nString\n50\n3\nKý hiệu thông tin\nInforSign\nString\n30\n4\nTên sự kiện\nEventName\nString\n500\n5\nTiêu đề phim/ảnh\nImageTitle\nString\n500\n6\nGhi chú\nDescription\nString\n500\n7\nTác giả\nPhotographer\nString\n300\n8\nĐịa điểm chụp\nPhotoPlace\nString\n300\n9\nThời gian chụp\nPhotoTime\nDate\nDD/MM/YYYY\n10\nMàu sắc\nColour\nString\n50\n11\nCỡ phim/ảnh\nFilmSize\nString\n5\n12\nTài liệu đi kèm\nDocAttached\nString\n300\n13\nChế độ sử dụng\nMode\nString\n20\n14\nTình trạng vật lý\nFormat\nString\n50\n5. Dữ liệu đặc tả của tài liệu phim, âm\nthanh (ghi hình, ghi âm)\nSTT\nTrường thông\ntin\nTên\n(viết tắt tiếng\nAnh)\nKiểu dữ liệu\nĐộ dài\n1\nMã cơ quan lưu trữ\nIdentifier\nString\n13\n2\nSố lưu trữ\nArchivesNumber\nString\n50\n3\nKý hiệu thông tin\nInforSign\nString\n30\n4\nTên sự kiện\nEventName\nString\n500\n5\nTiêu đề phim/âm thanh\nMovieTitle\nString\n500\n6\nGhi chú\nDescription\nString\n500\n7\nTác giả\nRecorder\nString\n300\n8\nĐịa điểm\nRecordPlace\nString\n300\n9\nThời gian\nRecordDate\nDate\nDD/MM/YYYY\n10\nNgôn ngữ\nLanguage\nString\n100\n11\nThời lượng\nPlayTime\nString\n8\n12\nTài liệu đi kèm\nDocAttached\nString\n300\n13\nChế độ sử dụng\nMode\nString\n20\n14\nChất lượng\nQuality\nString\n50\n15\nTình trạng vật lý\nFormat\nString\n50\nPHỤ\nLỤC II\nHƯỚNG\nDẪN BIÊN MỤC NỘI DUNG DỮ LIỆU ĐẶC TẢ CỦA TÀI LIỆU LƯU TRỮ\n(Kèm\ntheo\nThông tư số 02/2019/TT-BNV ngày 24 tháng 01 năm 2019 của Bộ trưởng Bộ Nội\nvụ)\nI. HƯỚNG DẪN CHUNG\n1. Đối với các thông tin ở dạng số thì sử\ndụng các chữ số Ả Rập.\n2. Đối với thông tin là thời gian thì\nngày, tháng dùng 2 chữ số, năm dùng 4 chữ số; ngày, tháng, năm cách nhau bởi dấu\n“/” (ví dụ: 03/01/2008).\n3. Mã định danh của cơ quan, tổ chức quy\nđịnh tại Thông tư số 10/2016/TT-BTTTT ngày 01 tháng 4 năm 2016 của Bộ trưởng Bộ\nThông tin và Truyền thông ban hành quy chuẩn kỹ thuật quốc gia về cấu trúc mã định\ndanh và định dạng dữ liệu gói tin phục vụ kết nối các hệ thống quản lý văn bản\nvà điều hành.\n4. Mã định danh văn bản quy định tại Quyết\nđịnh số 28/2018/QĐ-TTg ngày 12 tháng 7 năm 2018 của Thủ tướng Chính phủ về việc\ngửi, nhận văn bản điện tử giữa các cơ quan trong hệ thống hành chính nhà nước.\nII. PHÔNG/CÔNG TRÌNH/SƯU TẬP LƯU TRỮ\n1. Mã cơ quan lưu trữ: Là mã định danh\ncủa cơ quan Lưu trữ lịch sử. Mã định danh của cơ quan, tổ chức được mặc định\ntrong Hệ thống.\n2. Mã phông/công trình/sưu tập lưu trữ:\nĐối với phông đóng, ghi theo số trong Danh sách phông do Lưu trữ lịch sử xác định.\nĐối với phông mở, ghi mã định danh của cơ quan, tổ chức hình thành phông (mã định danh của cơ\nquan, tổ chức lập danh mục hồ sơ); mã công trình, sưu tập lưu trữ do cơ quan, tổ\nchức xác định.\n3. Tên phông/công trình/sưu tập lưu trữ:\nGhi đầy đủ và chính xác tên gọi của phông/công trình/sưu tập lưu trữ.\n4. Lịch sử đơn vị hình thành phông: Mô tả tóm tắt quá\ntrình hình thành và hoạt động của đơn vị hình thành phông.\n5. Thời gian tài liệu: Ghi năm văn bản\ncó sớm nhất và muộn nhất trong phông, năm đầu và năm cuối cách nhau bởi dấu \"-\".\nVí dụ: 1946-1975.\n6. Tổng số tài liệu giấy: Ghi tổng số\nmét giá tài liệu giấy của phông.\n7. Số lượng tài liệu giấy đã số hóa: Ghi\nsố lượng trang tài liệu giấy đã số hóa của phông.\n8. Các nhóm tài liệu chủ yếu: Ghi tên\nnhóm tài liệu và thời gian của từng nhóm tài liệu trong phông theo phương án\nphân loại tài liệu của phông.\nVí dụ: Phông Bộ Y tế giai đoạn\n1945-1995, gồm các nhóm tài liệu như sau:\na) Tài liệu tổng hợp\n(1948-1995)\nb) Tài liệu về tổ chức cán bộ - lao\nđộng tiền lương\n(1945-1995)\nc) Tài liệu về huấn luyện - đào tạo\n(1946-1994)\nd) Tài liệu về khoa học công nghệ\n(1955-1994)\nđ) Tài liệu về hợp tác quốc tế\n(1952-1995)\ne) Tài liệu về công tác tài vụ\n(1947-1995)\ng) Tài liệu về trang thiết bị và xây\ndựng cơ bản\n(1954-1990)\nh) Tài liệu về phòng chống dịch bệnh\nvà điều trị\n(1947-1995)\ni) Tài liệu về công tác y học dân tộc\n(1949-1995)\nk) Tài liệu về công tác dược chính\n(1949-1994)\n9. Các loại hình tài liệu khác: Trường hợp\ntrong phông có các loại hình tài liệu khác như phim, ảnh, ghi âm, ghi hình, tài\nliệu\nđiện\ntử, thì ghi rõ và kèm theo số lượng. Đơn vị tính số lượng theo quy định chế độ\nbáo cáo thống kê ngành Nội vụ tại Thông tư số 03/2018/TT-BNV ngày 06 tháng 3\nnăm 2018 của Bộ trưởng Bộ Nội vụ.\n10. Ngôn ngữ: Nếu trong toàn phông chỉ\ncó tiếng Việt thì để trống, nếu đồng thời có cả tiếng Việt và ngôn ngữ khác thì\nghi tất cả ngôn ngữ, giữa các ngôn ngữ cách nhau bởi dấu phẩy và xếp theo thứ tự\nABC.\nVí dụ: Anh, Nga, Pháp, Việt.\n11. Công cụ tra cứu: Ghi công cụ tra cứu\nhiện có của phông (sách chỉ dẫn, mục lục, bộ thẻ, cơ sở dữ liệu).\n12. Ghi số lượng trang tài liệu đã lập bản\nsao bảo hiểm.\n13. Ghi chú: Ghi những thông tin cần thiết\nkhác của phông mà chưa thể hiện được trong các phần trên.\nIII. HỒ SƠ LƯU TRỮ\n1. Mã hồ sơ\na) Đối với Lưu trữ cơ quan\nMã hồ sơ bao gồm: Mã định danh của cơ\nquan, tổ chức hình thành phông, Năm hình thành hồ sơ, Số và ký hiệu hồ sơ.\nNăm hình thành hồ sơ, số và ký hiệu hồ\nsơ được xác định theo Danh mục hồ sơ. Các thành phần của mã hồ sơ được phân định\nbằng dấu chấm.\nVí dụ: 000.00.00.G09.2010.01.TH là Mã của\nhồ sơ số 01 nhóm Tổng hợp, năm 2010, Bộ Nội vụ.\nTrong đó: 000.00.00.G09 là mã định danh\ncủa Bộ Nội vụ, 2010 là năm hình thành hồ sơ, 01.TH là số và ký hiệu hồ sơ.\nb) Đối với Lưu trữ lịch sử\n- Trường hợp phông đóng: Mã hồ sơ bao gồm:\nMã định danh của cơ quan lưu trữ, Mã phông/công trình/sưu tập lưu trữ, Mục lục\nsố, Hồ sơ số. Các thành phần của mã hồ sơ được phân định bằng dấu chấm.\nVí dụ: 000.04.16.G09.003.01.30 là Mã của\nhồ sơ số 30 thuộc mục lục số 1 phông số 3 hiện đang bảo quản tại Trung tâm Lưu\ntrữ quốc gia III.\nTrong đó: 000.04.16.G09 là mã định danh\ncủa Trung tâm Lưu trữ quốc gia III, 003 là mã phông, 01 là mục lục số, 30 là hồ\nsơ số.\n- Trường hợp phông mở: Mã hồ sơ mô tả\nnhư đối với Lưu trữ cơ quan.\n2. Tiêu đề hồ sơ: Ghi đầy đủ tiêu đề hồ sơ.\n3. Thời hạn bảo quản: Ghi thời hạn bảo\nquản đã được xác định đối với hồ sơ: “vĩnh viễn” hoặc thời hạn được tính bằng\nnăm cụ thể.\n4. Chế độ sử dụng: Ghi “hạn chế” nếu tài\nliệu thuộc hồ sơ được xác định thuộc danh mục hạn chế sử dụng. Nếu không thuộc diện đó\nthì để trống.\n5. Ngôn ngữ: Mô tả như Mục 10 Phần II.\n6. Thời gian bắt đầu: Ghi thời gian sớm\nnhất của tài liệu có trong hồ sơ.\n7. Thời gian kết thúc: Ghi thời gian muộn\nnhất của tài liệu có trong hồ sơ\nVí dụ: Trong hồ sơ phê duyệt Dự án\n“Trung tâm Thông tin Nông nghiệp” của Bộ Nông nghiệp do FAO tài trợ năm 1985 có\ntài liệu sớm nhất là ngày 10/04/1985 và muộn nhất là 22/05/1985 thì ghi: Thời\ngian bắt đầu: 10/04/1985; Thời gian kết thúc: 22/05/1985.\n8. Tổng số văn bản trong hồ sơ: Ghi tổng\nsố văn bản trong hồ sơ.\n9. Chú giải: Nhằm mục đích làm sáng tỏ\nthêm nội dung văn bản, tên loại văn bản, độ gốc của văn bản, vật mang tin và thời\ngian, địa điểm diễn ra sự kiện mà tiêu đề hồ sơ chưa phản ánh. Tùy theo thực tế\ncủa từng hồ sơ mà có chú giải cho phù hợp.\na) Chú giải về nội dung vấn đề\n- Không chú giải đối với các hồ sơ có\ntiêu đề là: chương trình, kế hoạch, báo cáo công tác định kỳ.\n- Chỉ chú giải hồ sơ việc mà tiêu đề hồ\nsơ phản ánh còn chung chung hoặc quá khái quát để sáng tỏ nội dung vấn đề mà\ntài liệu có trong hồ sơ phản ánh.\nVí dụ 1: “Hồ sơ đoàn ra, đoàn vào năm\n1975 của Bộ Văn hóa”.\nTrong trường hợp này cần chú giải đến\ntên nước theo thứ tự thời gian của đoàn ra, đoàn vào trong hồ sơ như sau:\n- Đoàn ra: Pháp, Ba Lan, Mông Cổ, Nhật,\nMỹ.\n- Đoàn vào: Pháp, Anh, Bỉ.\nVí dụ 2: “Công văn của\nHội\nđồng Bộ trưởng cho phép một số địa phương làm dịch vụ kiều hối và giao Tổng cục\nHải quan có trách\nnhiệm chính trong việc kiểm tra, kiểm soát hàng của Việt kiều gửi về năm 1985”.\nTrong trường hợp này chú giải là: Cho\nphép Hà Nội\nvà\nTP. Hồ Chí Minh dùng kiều hối mua thuốc chữa bệnh, mua tư liệu sản xuất và trả\nbằng tiền Đồng Việt Nam cho gia đình ở trong nước.\nVí dụ 3: “Báo cáo của UBND tỉnh Nghệ\nTĩnh về tình hình trật tự trị an ở 2 xóm Tân Yên và Hội Phước, xã Tường Sơn,\nhuyện Anh Sơn năm 1978”.\nTrong trường hợp này chú giải là: Sự việc\ndiễn ra ở khu vực đồng bào theo đạo Thiên chúa.\nb) Chú giải về độ gốc, tên loại và tác\ngiả của văn bản\n- Về độ gốc của văn bản: Độ gốc ở đây được\nhiểu là tài liệu trong hồ sơ là bản gốc, bản chính, bản thảo hay bản sao của\nvăn bản. Chỉ chú giải đối với các loại văn bản như văn bản quy phạm pháp luật\nvà các văn bản quan trọng khác có trong hồ sơ không phải là bản gốc, bản chính.\n- Về tên loại văn bản: Nếu trong hồ sơ có nhiều\nloại văn bản mà tiêu đề chưa phản ánh hết thì cần chú giải, nhưng không liệt kê\ntoàn bộ mà chỉ chú giải những loại văn bản có nội dung quan trọng hoặc cần đặc\nbiệt lưu ý.\n- Về tác giả văn bản: Chỉ chú giải về\ntác giả của những văn bản quan trọng hoặc có giá trị đặc biệt, tức là các cá\nnhân hoặc cơ quan, tổ chức làm ra văn bản.\nCác chú giải về độ gốc, tên loại và tác\ngiả văn bản được viết liền nhau.\nVí dụ: “Hồ sơ về đàm phán cho vay dài hạn,\ntrao đổi hàng hóa và thanh toán từ năm 1976 đến 1981 giữa Việt Nam và CHDC Đức”.\nChú giải: Bản sao Thư của Thủ tướng Phạm\nVăn Đồng.\nc) Chú giải về tên người\n- Nếu trong hồ sơ đề cập đến cá nhân\nquan trọng hoặc đặc biệt cần lưu ý thì phải chú giải.\nVí dụ: “Công văn của Bộ Nội vụ (nay là Bộ\nCông an) về việc mang tài liệu khoa học ra nước ngoài năm 1976-1978”.\nTrong trường hợp này chú giải là: Đề xuất\ncho Ông Nguyễn Ngọc Châu mang tài liệu sang Liên Xô để làm Luận án Phó Tiến sỹ.\n- Nếu cá nhân mang nhiều bí danh, bút\ndanh,... cần phải thống nhất lấy một tên gọi chung cho các bí danh, bút danh của\nngười đó. Tên gọi chung được chú giải sau tên bí danh và đặt trong ngoặc đơn.\nVí dụ: Anh Ba (Hồ Chí Minh); Trần Lực (Hồ\nChí Minh); Chiến sỹ (Hồ Chí Minh).\n- Nếu cá nhân giữ chức vụ lãnh đạo, có học\nvị, học hàm, danh hiệu được Nhà nước phong thì chức vụ, học vị, học hàm, danh\nhiệu được ghi trước họ và tên cá nhân.\nVí dụ: Chủ tịch Hồ Chí Minh, Phó Thủ tướng\nLê Thanh Nghị, Giáo sư Tôn Thất Tùng...\nd) Chú giải về thời gian sự kiện\nThời gian sự kiện là thời gian sự kiện\ndiễn ra. Chú giải đầy đủ ngày, tháng năm. Trường hợp hồ sơ kéo dài nhiều ngày\nhoặc nhiều tháng, năm thì giữa ngày, tháng, năm đầu và ngày, tháng, năm cuối\ncách nhau dấu gạch ngang (-). Ví dụ: 01/02/1970-12/01/1971.\nđ) Chú giải về địa điểm sự kiện\n- Địa điểm sự kiện là nơi sự kiện diễn\nra, chú giải theo thứ tự: xã (phường)- huyện (quận) - tỉnh (Thành phố).\n- Nếu địa danh nơi sự kiện diễn ra ngày\nnay đã mang tên địa danh mới thì tên địa danh mới cần được chú giải sau tên địa\ndanh cũ và đặt trong ngoặc đơn. Ví dụ: Thăng Long ngày xưa nay đổi là Hà Nội\nthì ở phần chú giải ghi: Thăng Long (Hà Nội).\ne) Chú giải về vật mang tin\nTrừ tài liệu có vật mang tin là giấy,\ncòn tất cả những tài liệu ghi trên vật mang tin khác có trong hồ sơ đều cần chú\ngiải.\nVí dụ: Trong hồ sơ có ảnh thì ở phần chú\ngiải ghi là: có ảnh chụp ai hoặc sự kiện gì đang diễn ra ở đâu, khi nào và ảnh\nđó đang bảo quản ở đâu?\n10. Ký hiệu thông tin (nếu có).\n11. Từ khóa: Ghi các từ mang trọng tâm\nthông tin.\n12. Số lượng tờ: Ghi tổng số tờ tài liệu\ncó trong hồ sơ.\n13. Số lượng trang: Ghi tổng số trang\ntài liệu có trong hồ sơ.\n14. Tình trạng vật lý: Chỉ ghi tình trạng\nvật lý của tài liệu bị hư hỏng, tài liệu bình thường thì để trống.\nIV. VĂN BẢN\n1. Mã định danh văn bản: Lưu trong Hệ thống\nkhi văn bản được tạo lập.\n2. Mã hồ sơ: Mô tả như Mục 1 Phần III.\n3. Số thứ tự văn bản trong hồ sơ: do Hệ\nthống tự cập nhật.\n4. Tên loại văn bản: Ghi đúng tên loại của\nvăn bản.\n5. Số của văn bản: Ghi số của văn bản (nếu\ncó).\n6. Ký hiệu của văn bản: Ghi ký hiệu của\nvăn bản (nếu có).\n7. Ngày, tháng, năm văn bản: Ghi thời\ngian của văn bản, tài liệu.\n8. Tên cơ quan, tổ chức ban hành văn bản:\n- Ghi tên cơ quan, tổ chức ban hành văn\nbản theo đúng tên được thể hiện trong văn bản. Nếu là văn bản liên tịch do nhiều\ncơ quan ban hành thì ghi tất cả các cơ quan ban hành, tên của mỗi cơ quan cách\nnhau bởi dấu chấm phẩy (;).\n- Đối với tài liệu mà tác giả là cá nhân\nthì ghi họ tên và chức vụ (nếu có) của cá nhân đó theo đúng họ tên và chức\nvụ được thể hiện trong văn bản, tài liệu.\n9. Trích yếu nội dung: Ghi đúng trích yếu\nnội dung của văn bản, tài liệu. Đối với văn bản, tài liệu không có trích yếu nội\ndung thì người biên mục phải đọc và tóm tắt nội dung của văn bản, tài liệu đó.\n10. Ngôn ngữ: Mô tả như Mục 10 Phần II.\n11. Số lượng trang của văn bản: Ghi số\nlượng trang của văn bản, tài liệu.\n12. Ghi chú: Ghi những thông tin cần thiết\nkhác về tài liệu (nếu có).\n13. Ký hiệu thông tin (nếu có).\n14. Từ khóa: Ghi các từ mang trọng tâm thông tin.\n15. Chế độ sử dụng: Ghi là “Hạn chế” hoặc\n“Không hạn chế”\n16. Mức độ tin cậy: Ghi “Bản chính” nếu\nvăn bản, tài liệu là bản chính hoặc “Bản sao” nếu văn bản, tài liệu là bản sao.\n17. Bút tích: Bút tích là chữ ký phê duyệt,\nghi góp ý, sửa chữa... trên văn bản. Chỉ ghi bút tích của những cá nhân giữ chức\nvụ: Chủ tịch nước, Chủ tịch Quốc hội, Tổng Bí thư Đảng Cộng sản Việt Nam, Thủ\ntướng, Tổng thống và những chức vụ tương đương. Những cá nhân này trước đó thường\ngiữ nhiều chức vụ khác, do vậy không ghi chức vụ, chỉ ghi họ tên cá nhân. Ví dụ:\nĐỗ Mười, Tôn Đức Thắng, Võ Văn Kiệt, trường\nhợp trên tài liệu ghi bí danh thì sau bí danh ghi họ và tên cá nhân và đặt\ntrong ngoặc đơn.\nVí dụ: Tô (Phạm Văn Đồng); Thận (Trường\nChinh)...\n18. Tình trạng vật lý: Mô tả như Mục 14\nPhần III.\nV. TÀI LIỆU PHIM/ẢNH (ÂM BẢN/ẢNH)\n1. Mã cơ quan lưu trữ: mô tả như Mục 1\nPhần II.\n2. Số lưu trữ:\na) Đối với tài liệu định dạng số: Ghi số,\nký hiệu thiết bị lưu trữ tài liệu phim/ảnh; tên file tài liệu phim/ảnh;\nb) Đối với tài liệu định dạng khác: Ghi\nsố thứ tự của phim/ảnh trong kho lưu trữ.\n3. Ký hiệu thông tin (nếu có).\n4. Tên sự kiện: Ghi tên sự kiện chẳng hạn\nnhư tên đại hội, hội nghị, chuyến thăm.\nVí dụ: Chủ tịch nước Trần Đức Lương thăm\nhuyện Bắc Sơn tỉnh Lạng Sơn ngày 27 tháng 9 năm 2003.\n5. Tiêu đề phim/ảnh: Ghi tên phim/ảnh. Nếu\nphim/ảnh có nhiều nhân vật thì ghi theo trật tự: thứ tự hàng thứ nhất, thứ hai\n(nếu có), chức vụ và họ, tên người trong phim/ảnh theo thứ tự từ trái sang phải.\nVí dụ: Chủ tịch nước Trần Đức Lương thăm hỏi\ncác đồng chí lão thành cách mạng và cựu chiến binh huyện Bắc Sơn.\nTừ trái sang phải: Chủ tịch UBND tỉnh Lạng\nSơn Đoàn Bá Nhiên (người thứ hai); Chủ tịch nước Trần Đức Lương (người thứ ba).\n6. Ghi chú: Chú giải thêm những thông\ntin mà tiêu đề chưa phản ánh hết như các dữ kiện về sự kiện trong phim/ảnh, xuất\nxứ phim/ảnh, phim/ảnh được giải thưởng trong và ngoài nước.\n7. Tác giả: Ghi họ và tên tác giả chụp ảnh.\n8. Địa điểm chụp: Ghi nơi xảy ra sự kiện\nmà ảnh được chụp theo trình tự: xã (phường/thị trấn), huyện (quận, thị xã,\nthành phố thuộc tỉnh), tỉnh (thành phố trực thuộc trung ương).\n9. Thời gian chụp: Ghi ngày, tháng, năm\nmà ảnh đó được chụp.\n10. Màu sắc: Ghi rõ đó là “Màu” hoặc\n“Đen trắng”.\n11. Cỡ phim/ảnh: Ghi cỡ phim/ảnh.\n12. Tài liệu đi kèm: Ghi tài liệu đi\nkèm nếu có.\n13. Chế độ sử dụng: Ghi là “Hạn chế” hoặc\n“Không hạn chế”\n14. Tình trạng vật lý: Ghi tình trạng vật\nlý của phim/ảnh như: bình thường; rách; mờ; nấm mốc; ố, vàng (đối với tài liệu\nkhông ở định dạng số).\nVI. TÀI LIỆU PHIM, ÂM THANH (GHI HÌNH,\nGHI ÂM)\n1. Mã cơ quan lưu trữ: mô tả như Mục 1\nPhần II.\n2. Số lưu trữ:\na) Đối với tài liệu định dạng số: Ghi số,\nký hiệu thiết bị lưu trữ tài liệu phim, âm thanh; tên file tài liệu phim, âm\nthanh;\nb) Đối với tài liệu định dạng khác: Ghi số\nký hiệu của băng gốc; số ký hiệu của băng sao.\n3. Ký hiệu thông tin (nếu có).\n4. Tên sự kiện: Ghi đầy đủ tên sự kiện,\nđịa điểm và thời gian xảy ra sự kiện.\nVí dụ: Đại hội Đại biểu toàn quốc lần thứ\nIV của Đảng Lao động Việt Nam tổ chức tại Hà Nội từ ngày 14 tháng 12 năm 1976 đến\nngày 20 tháng 12 năm 1976.\n5. Tiêu đề phim, âm thanh: Ghi theo\ntrình tự tên loại, tác giả, nội dung, thời gian.\n6. Ghi chú: Ghi những nội dung nhằm làm\nsáng tỏ sự kiện, nội dung tài liệu hoặc những đặc điểm nổi bật khác cần lưu ý.\n7. Tác giả: Ghi theo thứ tự tác giả (nếu\nkhông có thì bỏ qua): lời; nhạc; tác phẩm văn học; kịch bản; đạo diễn; biên tập;\nquay phim hoặc thu thanh.\n8. Địa điểm: Ghi địa điểm nơi ghi âm,\nghi hình.\n9. Thời gian: Ghi đầy đủ ngày, tháng,\nnăm.\n10. Ngôn ngữ: Ghi tất cả ngôn ngữ được sử\ndụng trong sự kiện.\n11. Thời lượng phát: Ghi cụ thể thời lượng\nphát của tài liệu bao nhiêu giờ, phút, giây; giữa các số cách nhau bằng dấu hai\nchấm (:).\nVí dụ: 00:05:35; 01:12:58\n12. Tài liệu đi kèm: Ghi tài liệu đi kèm\nnếu có.\nVí dụ: bài gỡ băng, ảnh v.v...\n13. Chế độ sử dụng: Ghi là “Hạn chế” hoặc\n“Không hạn chế”\n14. Chất lượng: Ghi chất lượng thực tế của\nphim, âm thanh như: bình thường, mờ; lẫn tạp âm; tiếng rè, méo; tiếng lúc to,\nlúc nhỏ.\n15. Tình trạng vật lý: Ghi tình trạng vật\nlý của vật mang tin như: bình thường, quăn, xoắn, bết dính; bong lớp từ, xước;\nnấm mốc; đứt nối (đối với tài liệu không ở định dạng số).\nPHỤ\nLỤC III\nQUY\nTRÌNH KIỂM TRA CƠ SỞ DỮ LIỆU TÀI LIỆU LƯU TRỮ\n(Kèm theo Thông tư số 02/2019/TT-BNV ngày 24 tháng 01 năm 2019 của Bộ\ntrưởng Bộ Nội vụ)\n1. Lưu đồ quy trình\n2. Mô tả chi tiết quy trình\nBước 1. Xác định nguồn cơ sở dữ liệu tài\nliệu lưu trữ kiểm tra\nNgười được giao quản lý cơ sở dữ liệu\ntài liệu lưu trữ của cơ quan, tổ chức thực hiện xác định cơ sở dữ liệu tài liệu\nlưu trữ để tiến hành kiểm tra định kỳ.\nBước 2. Khởi động hệ thống trang thiết bị,\nphần mềm phục vụ kiểm tra\nChuẩn bị trang thiết bị, phần mềm quản\nlý tài liệu lưu trữ, phương tiện lưu trữ, phần mềm phục vụ kiểm tra và khởi động\nhệ thống kiểm tra. Việc chuẩn bị nhằm bảo đảm an toàn, hạn chế tối đa lỗi có thể\nxảy ra trong quá trình tiến hành kiểm tra.\nBước 3. Kết nối hệ thống phục vụ kiểm\ntra với phương tiện lưu trữ\nSau khi đã thực hiện xác định nguồn cơ sở\ndữ liệu kiểm tra và chuẩn bị các phương tiện lưu trữ, phần mềm, cần thiết để phục\nvụ việc kiểm tra, người được giao quản lý cơ sở dữ liệu tài liệu lưu trữ của cơ\nquan, tổ chức tiến hành kết nối các phương tiện lưu trữ cơ sở dữ liệu tài liệu\nlưu trữ với hệ thống để kiểm tra.\nBước 4. Kiểm tra cơ sở dữ liệu tài liệu\nlưu trữ\nSử dụng phần mềm để kiểm tra dữ liệu tài\nliệu lưu trữ cần kiểm tra.\nBước 5. Thống kê danh mục gồm tên file,\nđịa chỉ lưu trữ file bị lỗi\nThống kê danh mục gồm tên file, địa chỉ\nlưu trữ file bị lỗi, địa chỉ lưu trữ file lỗi bao gồm: Số, ký hiệu phương tiện\nlưu trữ, đường dẫn thư mục chứa file.\nBước 6. Ghi biên bản, lập hồ sơ\nKết thúc quá trình kiểm tra, người được\ngiao quản lý cơ sở dữ liệu tài liệu lưu trữ của cơ quan, tổ chức ghi Biên bản\nkiểm tra cơ sở dữ liệu tài liệu lưu trữ quy định tại Phụ lục IV Thông tư này, lập\nvà lưu hồ sơ việc phục vụ hoạt động quản lý và theo dõi định kỳ.\nPHỤ\nLỤC IV\nBIÊN\nBẢN KIỂM TRA CƠ SỞ DỮ LIỆU TÀI LIỆU LƯU TRỮ\n(Kèm\ntheo\nThông tư số 02/2019/TT-BNV ngày 24 tháng 01 năm 2019 Bộ\ntrưởng Bộ Nội vụ)\nCƠ QUAN/TỔ CHỨC\nĐƠN VỊ....\n-------\nCỘNG HÒA XÃ\nHỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\n---------------\nBIÊN BẢN\nKIỂM TRA CƠ SỞ\nDỮ LIỆU TÀI LIỆU LƯU TRỮ\n1. Thời gian: ngày……………tháng…………năm………\n2. Người kiểm tra: …………………………………………………………………………………………\n3. Địa chỉ tra tìm thiết bị lưu trữ: …………………………………………………………………………\n4. Nội dung kiểm tra:\nTT\nNội dung\nKết quả\nGhi chú\nBình thường\nLỗi\n1\n2\n...\n5. Đề xuất phương án khắc phục lỗi\n…………………………………………………………………………………………………………………\n…………………………………………………………………………………………………………………\n…………………………………………………………………………………………………………………\n…………………………………………………………………………………………………………………\n…………………………………………………………………………………………………………………\nNGƯỜI KIỂM\nTRA\n(Ký và ghi rõ họ\ntên)\nĐẠI DIỆN ĐƠN\nVỊ\n(Ký\nvà ghi rõ họ tên)\nPHỤ\nLỤC V\nQUY\nTRÌNH SAO LƯU CƠ SỞ DỮ LIỆU TÀI LIỆU LƯU TRỮ\n(Kèm\ntheo\nThông tư số 02/2019/TT-BNV ngày 24 tháng 01 năm 2019 của Bộ trưởng Bộ Nội vụ)\n1. Lưu đồ quy trình\n2. Mô tả chi tiết quy trình\nBước 1. Xác định nguồn cơ sở dữ liệu tài\nliệu lưu trữ sao lưu\nNgười được giao quản lý cơ sở dữ liệu\ntài liệu lưu trữ của cơ quan, tổ chức thực hiện xác định cơ sở dữ liệu tài liệu\nlưu trữ để tiến hành sao lưu định kỳ.\nBước 2. Chuẩn bị, kiểm tra (phần mềm quản\nlý cơ sở dữ liệu tài liệu lưu trữ, phương tiện lưu trữ, phần mềm phục vụ sao lưu).\nViệc chuẩn bị nhằm bảo đảm an toàn, hạn\nchế tối đa lỗi có thể xảy ra trong quá trình tiến hành sao lưu.\nBước 3. Tiến hành sao lưu\nSau khi đã thực hiện xác định nguồn cơ sở dữ liệu tài\nliệu lưu trữ sao lưu và chuẩn bị các phương tiện lưu trữ, phần mềm để phục vụ\nviệc sao lưu, người được giao quản lý cơ sở dữ liệu tài liệu lưu trữ của cơ\nquan, tổ chức tiến hành sao lưu gồm mã nguồn phần mềm và cơ sở dữ liệu tài liệu\nlưu trữ vào phương tiện lưu trữ.\nBước 4. Kiểm tra kết quả sao lưu\nSau khi hoàn thành sao lưu cơ sở dữ liệu\ntài liệu lưu trữ, người được giao quản lý cơ sở dữ liệu tài liệu lưu trữ của cơ\nquan, tổ chức thực hiện kiểm tra kết quả sao lưu. Trường hợp kết quả sao lưu\nkhông đạt yêu cầu thì quay lại Bước 2 để kiểm tra, tìm hướng khắc phục lỗi và\nbáo cáo Lãnh đạo; Trường hợp việc sao lưu đạt yêu cầu thì chuyển phương tiện\nlưu trữ chứa cơ sở dữ liệu tài liệu lưu trữ sao lưu vào nơi bảo quản.\nBước 5. Bảo quản phương tiện lưu trữ\nViệc bảo quản phương tiện lưu trữ chứa\ncơ sở dữ liệu tài liệu lưu trữ sao lưu được thực hiện theo quy định tại Điều 12\nThông tư này.\nBước 6. Ghi nhật ký, lập hồ sơ\nKết thúc quá trình sao lưu, người được\ngiao quản lý cơ sở dữ liệu tài liệu lưu trữ của cơ quan, tổ chức ghi nhật ký\nquá trình sao lưu quy định tại Phụ lục VI Thông tư này, Biên bản sao lưu quy định\ntại Phụ lục VII Thông tư\nnày,\nlập và lưu hồ sơ việc phục vụ hoạt động quản lý và theo dõi định kỳ.\nPHỤ\nLỤC VI\nNHẬT\nKÝ SAO LƯU CƠ SỞ DỮ LIỆU TÀI LIỆU LƯU TRỮ\n(Kèm theo Thông tư số 02/2019/TT-BNV ngày 24 tháng 01 năm 2019\ncủa Bộ trưởng Bộ Nội vụ)\nCƠ QUAN/TỔ CHỨC\nĐƠN VỊ....\n-------\nCỘNG HÒA XÃ\nHỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\n---------------\nNHẬT KÝ SAO LƯU\nCƠ SỞ DỮ LIỆU TÀI LIỆU LƯU TRỮ\nTT\nPhương thức,\nnội dung\nThời gian\nTên file/ Thư mục\nMã phương tiện lưu trữ\nNgười sao lưu\n1\n2\n3\n...\nNGƯỜI GHI NHẬT KÝ\n(Ký và ghi rõ họ\ntên)\nPHỤ LỤC VII\nBIÊN\nBẢN SAO LƯU CƠ SỞ DỮ LIỆU TÀI LIỆU LƯU TRỮ\n(Kèm theo Thông tư số 02/2019/TT-BNV ngày 24 tháng 01 năm 2019 của Bộ trưởng Bộ Nội vụ)\nCƠ QUAN/TỔ CHỨC ĐƠN VỊ....\n-------\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc ---------------\nBIÊN BẢN SAO LƯU CƠ SỞ DỮ\nLIỆU TÀI LIỆU LƯU TRỮ\n1. Thời gian: ngày………tháng………năm………\n2. Địa điểm:...........................................................................................................................\n3. Người sao lưu:...................................................................................................................\n4. Mã phương tiện lưu trữ cũ:.................................................................................................\n5. Mã phương tiện lưu trữ mới:...............................................................................................\n6. Phương thức sao lưu:........................................................................................................\n7. Cơ sở dữ liệu tài liệu lưu trữ sao\nlưu: 7.1. Tên cơ sở dữ liệu:........................................................................................................... 7.2. Nội dung dữ liệu sao lưu:................................................................................................. 7.3. Dung lượng sao lưu:.......................................................................................................\n8. Lỗi xảy ra trong quá trình sao lưu dữ\nliệu: ............................................................................................................................................. ............................................................................................................................................. .............................................................................................................................................\n9. Giải pháp khắc phục:\n............................................................................................................................................. .............................................................................................................................................\n10. Kết quả:\n............................................................................................................................................. .............................................................................................................................................\nNGƯỜI SAO LƯU\n(Ký và ghi rõ họ tên)\nĐẠI DIỆN ĐƠN VỊ\n(Ký và ghi rõ họ tên)\nPHỤ LỤC VIII\nQUY\nTRÌNH PHỤC HỒI CƠ SỞ DỮ LIỆU TÀI LIỆU LƯU TRỮ\n(Kèm theo Thông tư số 02/2019/TT-BNV ngày 24 tháng 01 năm 2019 của Bộ trưởng Bộ Nội vụ)\n1. Lưu đồ quy trình\n2. Mô tả chi tiết quy trình\nBước 1. Xác định sự cố tin học Người được giao quản lý cơ sở dữ liệu tài liệu lưu trữ của cơ quan, tổ chức xác định nguyên nhân xảy ra sự cố tin học do lỗi phần cứng hoặc lỗi phần mềm để tìm hướng khắc phục. Bước 2. Thực hiện cách ly cơ sở dữ liệu tài liệu lưu trữ với nguồn gây hỏng dữ liệu, khắc phục sự cố phần cứng Người được giao quản lý cơ sở dữ liệu tài liệu lưu trữ của cơ quan, tổ chức thực hiện cách ly cơ sở dữ liệu tài liệu lưu trữ với nguồn gây hỏng dữ liệu bằng cách sửa chữa, thay thế thiết bị, chặn tấn công xâm nhập mạng, tắt tiến trình phần mềm bảo đảm cho hệ thống được vận hành bình thường. Bước 3. Kiểm tra lỗi phần mềm, cơ sở dữ liệu Sau khi thực hiện khắc phục sự cố phần cứng, người được giao quản lý cơ sở dữ liệu tài liệu lưu trữ của cơ quan, tổ chức kiểm tra lỗi phần mềm (gồm hệ điều hành, phần mềm quản lý cơ sở dữ liệu tài liệu lưu trữ). Trường hợp phần mềm không lỗi, sau khi khắc phục sự cố phần cứng hệ thống hoạt động bình thường thì tiến hành ghi nhật ký và lập hồ sơ công việc. Trường hợp phần mềm lỗi thì chuyển sang Bước 4 xác định trường hợp phục hồi. Bước 4. Xác định trường hợp phục hồi Người được giao quản lý cơ sở dữ liệu tài liệu lưu trữ của cơ quan, tổ chức cần xác định trường hợp phục hồi là do sự cố dữ liệu, phần mềm quản trị cơ sở dữ liệu, phần mềm ứng dụng để từ đó đưa ra cách phục hồi nhanh chóng, chính xác. Bước 5. Xác định nguồn cơ sở dữ liệu tài liệu lưu trữ phục hồi Người được giao quản lý cơ sở dữ liệu tài liệu lưu trữ của cơ quan, tổ chức xác định và lấy bản sao lưu cơ sở dữ liệu gần nhất trước thời điểm xảy ra sự cố để tiến hành phục hồi. Bước 6. Tiến hành phục hồi\na) Trường hợp sự cố dữ liệu\nKhi toàn bộ dữ liệu hệ thống của hệ quản trị cơ sở dữ liệu vẫn an toàn, chỉ có dữ liệu tài liệu lưu trữ bị hỏng, người được giao quản lý cơ sở dữ liệu tài liệu lưu trữ của cơ quan, tổ chức thực hiện khôi phục lại dữ liệu bằng cách sử dụng file sao lưu dữ liệu gần nhất trước thời điểm xảy ra sự cố (dùng chức năng Backup/Restore của hệ quản trị cơ sở dữ liệu hoặc chức năng phục hồi dữ liệu của phần mềm ứng dụng).\nb) Trường hợp sự cố phần mềm quản trị cơ\nsở dữ liệu - Lưu lại dữ liệu tài liệu lưu trữ và tiến hành cài đặt lại hệ quản trị cơ sở dữ liệu; - Dùng chức năng Attach Database của hệ quản trị cơ sở dữ liệu để phục hồi lại dữ liệu đã lưu lại ở bước trên hoặc sử dụng dữ liệu sao lưu gần nhất trước thời điểm xảy ra sự cố để tiến hành phục hồi dữ liệu.\nc) Trường hợp sự cố phần mềm ứng dụng\nNgười được giao quản lý cơ sở dữ liệu của cơ quan, tổ chức thực hiện khôi phục lại phần mềm ứng dụng bằng cách sử dụng phần mềm ứng dụng đã được sao lưu gần nhất trước thời điểm xảy ra sự cố. Bước 7. Kiểm tra kết quả phục hồi Khi hệ thống hoạt động trở lại bình thường, người được giao quản lý cơ sở dữ liệu tài liệu lưu trữ của cơ quan, tổ chức thực hiện kiểm tra dữ liệu để bảo đảm dữ liệu sau khi phục hồi hoàn toàn đầy đủ, chính xác so với trước thời điểm xảy ra sự cố. Trường hợp dữ liệu không đạt yêu cầu thì quay lại Bước 5 để kiểm tra nguồn dữ liệu phục hồi; Trường hợp đạt yêu cầu thì tiến hành chuyển sang bước tiếp theo. Bước 8. Ghi biên bản, lập hồ sơ Sau khi hoàn thành quá trình phục hồi, người được giao quản lý cơ sở dữ liệu tài liệu lưu trữ của cơ quan, tổ chức thực hiện ghi Biên bản phục hồi cơ sở dữ liệu tài liệu lưu trữ quy định tại Phụ lục IX Thông tư này, lập và lưu hồ sơ việc phục vụ hoạt động quản lý và theo dõi định kỳ.\nPHỤ LỤC IX\nBIÊN\nBẢN PHỤC HỒI CƠ SỞ DỮ LIỆU TÀI LIỆU LƯU TRỮ\n(Kèm theo Thông tư số 02/2019/TT-BNV ngày 24 tháng 01 năm 2019 của Bộ trưởng Bộ Nội vụ)\nCƠ QUAN/TỔ CHỨC ĐƠN VỊ....\n-------\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc ---------------\nBIÊN BẢN PHỤC HỒI CƠ SỞ\nDỮ LIỆU TÀI LIỆU LƯU TRỮ\n1. Thời gian: ngày………tháng………năm………\n2. Người phục hồi:...............................................................................................................\n3. Lý do phục hồi:................................................................................................................\n...........................................................................................................................................\n4. Địa chỉ tra tìm thiết bị lưu trữ:............................................................................................\n5. Tên, ngày tháng file phục hồi:...........................................................................................\n6. Nội dung phục hồi:\n........................................................................................................................................... ........................................................................................................................................... ...........................................................................................................................................\n7. Lỗi xảy ra trong quá trình phục hồi:\n........................................................................................................................................... ........................................................................................................................................... ...........................................................................................................................................\n8. Kết quả:\n........................................................................................................................................... ...........................................................................................................................................\nNGƯỜI PHỤC HỒI\n(Ký và ghi rõ họ tên)\nĐẠI DIỆN ĐƠN VỊ\n(Ký và ghi rõ họ tên)",
+  "tree": {
+    "parts": [
+      {
+        "part_id": "doc:223362:part:1",
+        "part_type": "main",
+        "part_title": null,
+        "reference": null,
+        "direct_text": "THÔNG TƯ QUY\nĐỊNH TIÊU CHUẨN DỮ LIỆU THÔNG TIN ĐẦU VÀO VÀ YÊU CẦU BẢO QUẢN TÀI LIỆU LƯU TRỮ\nĐIỆN TỬ\nCăn cứ Luật Lưu trữ ngày 11 tháng 11 năm 2011; Căn cứ Nghị định số 34/2017/NĐ-CP ngày 03 tháng 4 năm 2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Nội vụ; Căn cứ Nghị định số 01/2013/NĐ-CP ngày 03 tháng 01 năm 2013 của Chính phủ quy định chi tiết thi hành một số điều của Luật Lưu trữ; Căn cứ Quyết định số 28/2018/QĐ-TTg ngày 12 tháng 7 năm 2018 của Thủ tướng Chính phủ về việc gửi, nhận văn bản điện tử giữa các cơ quan trong hệ thống hành chính nhà nước; Theo đề nghị của Cục trưởng Cục Văn thư và Lưu trữ nhà nước; Bộ trưởng Bộ Nội vụ ban hành Thông tư quy định tiêu chuẩn dữ liệu thông tin đầu vào và yêu cầu bảo quản tài liệu lưu trữ điện tử.",
+        "chapters": [
+          {
+            "chapter_id": "doc:223362:part:1:chapter:1",
+            "number": "I",
+            "title": "QUY ĐỊNH CHUNG",
+            "content": "Chương I\nQUY ĐỊNH CHUNG",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:223362:part:1:article:1",
+                "number": "1",
+                "title": "Phạm vi điều chỉnh Thông tư này quy định tiêu chuẩn dữ liệu thông tin đầu vào và yêu cầu bảo quản tài liệu lưu trữ điện tử, dữ liệu đặc tả của tài liệu lưu trữ (sau đây gọi là cơ sở dữ liệu tài liệu lưu trữ) hình thành trong quá trình hoạt động của cơ quan, tổ chức.",
+                "content": "Điều 1. Phạm vi điều chỉnh Thông tư này quy định tiêu chuẩn dữ liệu thông tin đầu vào và yêu cầu bảo quản tài liệu lưu trữ điện tử, dữ liệu đặc tả của tài liệu lưu trữ (sau đây gọi là cơ sở dữ liệu tài liệu lưu trữ) hình thành trong quá trình hoạt động của cơ quan, tổ chức.",
+                "clauses": [],
+                "points": []
+              },
+              {
+                "article_id": "doc:223362:part:1:article:2",
+                "number": "2",
+                "title": "Đối tượng áp dụng",
+                "content": "Điều 2. Đối tượng áp dụng",
+                "clauses": [
+                  {
+                    "clause_id": "doc:223362:part:1:article:2:clause:1",
+                    "number": "1",
+                    "content": "1. Thông tư này áp dụng đối với cơ quan\nnhà nước, doanh nghiệp nhà nước theo quy định của Luật Doanh nghiệp năm 2014 (sau đây gọi chung là cơ quan, tổ chức).",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:223362:part:1:article:2:clause:2",
+                    "number": "2",
+                    "content": "2. Khuyến khích các cơ quan, tổ chức\nkhông thuộc Khoản 1 Điều này và cá nhân áp dụng các quy định tại Thông tư này.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:223362:part:1:article:3",
+                "number": "3",
+                "title": "Giải thích từ ngữ Trong Thông tư này, các từ ngữ dưới đây được hiểu như sau:",
+                "content": "Điều 3. Giải thích từ ngữ Trong Thông tư này, các từ ngữ dưới đây được hiểu như sau:",
+                "clauses": [
+                  {
+                    "clause_id": "doc:223362:part:1:article:3:clause:1",
+                    "number": "1",
+                    "content": "1. Cơ sở dữ liệu tài liệu lưu trữ là tập\nhợp các dữ liệu bao gồm tài liệu lưu trữ điện tử và dữ liệu đặc tả của tài liệu lưu trữ được sắp xếp thông qua phương tiện điện tử để truy cập, khai thác, quản lý và cập nhật.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:223362:part:1:article:3:clause:2",
+                    "number": "2",
+                    "content": "2. Hệ thống quản lý tài liệu lưu trữ điện\ntử là hệ thống tin học hóa các quy trình nghiệp vụ về công tác lưu trữ, bao gồm công tác thu thập, bảo quản và sử dụng tài liệu lưu trữ.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:223362:part:1:article:3:clause:3",
+                    "number": "3",
+                    "content": "3. Sự cố tin học là hiện tượng hệ thống tin học trong quá trình\nhoạt động xảy ra những trường hợp bất thường như: bị hỏng, hoạt động không bình thường; dữ liệu, phần mềm bị thay đổi, sửa, xóa, sao chép, truy cập trái phép bởi phần mềm bất hợp pháp; có chứa mã độc, có chứa phần mềm gián điệp,... hoặc người sử dụng thực hiện chưa đúng quy trình.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:223362:part:1:article:3:clause:4",
+                    "number": "4",
+                    "content": "4. Phương tiện lưu trữ là thiết bị vật\nlý được sử dụng để lưu trữ cơ sở dữ liệu tài liệu lưu trữ, phần mềm (gồm ổ cứng, thẻ nhớ, băng từ, đĩa quang,...).",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:223362:part:1:article:3:clause:5",
+                    "number": "5",
+                    "content": "5. Sao lưu là việc tạo ra bản sao cơ sở\ndữ liệu tài liệu lưu trữ, phần mềm.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:223362:part:1:article:3:clause:6",
+                    "number": "6",
+                    "content": "6. Chuyển đổi phương tiện lưu trữ là việc\nsao lưu cơ sở dữ liệu tài liệu lưu trữ, phần mềm từ phương tiện lưu trữ này sang phương tiện lưu trữ độc lập khác.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:223362:part:1:article:3:clause:7",
+                    "number": "7",
+                    "content": "7. Phương thức sao lưu gia tăng là việc\nsao lưu tất cả các thông tin có sự thay đổi hoặc cập nhật so với lần sao lưu gần nhất trước đó.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:223362:part:1:article:3:clause:8",
+                    "number": "8",
+                    "content": "8. Phương thức sao lưu đầy đủ là việc\nsao lưu tất cả các thông tin được chọn, không phụ thuộc vào thời điểm lưu trữ và các lần sao lưu trước đó.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:223362:part:1:article:3:clause:9",
+                    "number": "9",
+                    "content": "9. Tài liệu lưu trữ số hóa là tài liệu\nđiện tử được tạo lập từ việc số hóa đầy đủ, chính xác nội dung của tài liệu lưu trữ và được ký số bởi cơ quan, tổ chức quản lý tài liệu lưu trữ được số hóa.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:223362:part:1:chapter:2",
+            "number": "II",
+            "title": "TIÊU CHUẨN DỮ LIỆU THÔNG TIN ĐẦU VÀO CỦA CƠ SỞ DỮ LIỆU TÀI LIỆU LƯU TRỮ",
+            "content": "Chương II\nTIÊU\nCHUẨN DỮ LIỆU THÔNG TIN ĐẦU VÀO CỦA CƠ SỞ DỮ LIỆU TÀI LIỆU LƯU TRỮ",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:223362:part:1:article:4",
+                "number": "4",
+                "title": "Nguyên tắc thiết kế cấu trúc dữ liệu thông tin đầu vào",
+                "content": "Điều 4. Nguyên tắc thiết kế cấu trúc dữ liệu thông tin đầu vào",
+                "clauses": [
+                  {
+                    "clause_id": "doc:223362:part:1:article:4:clause:1",
+                    "number": "1",
+                    "content": "1. Bảo đảm thống nhất với tiêu chuẩn\nthông tin đầu vào của Hệ thống quản lý tài liệu điện tử của các cơ quan, tổ chức.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:223362:part:1:article:4:clause:2",
+                    "number": "2",
+                    "content": "2. Phù hợp với quy chuẩn kỹ thuật quốc\ngia về cấu trúc mã định danh và định dạng dữ liệu gói tin phục vụ kết nối các hệ thống quản lý văn bản và điều hành quy định tại Thông tư số 10/2016/TT-BTTTT ngày 01 tháng 4 năm 2016 và tiêu chuẩn kỹ thuật về ứng dụng công nghệ thông tin trong cơ quan nhà nước quy định tại Thông tư số 39/2017/TT-BTTTT ngày 15 tháng 12 năm 2017 của Bộ trưởng Bộ Thông tin và Truyền thông.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:223362:part:1:article:4:clause:3",
+                    "number": "3",
+                    "content": "3. Bảo đảm việc trao đổi dữ liệu giữa Hệ\nthống quản lý tài liệu lưu trữ điện tử của Lưu trữ lịch sử với Hệ thống quản lý tài liệu điện tử của Lưu trữ cơ quan.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:223362:part:1:article:5",
+                "number": "5",
+                "title": "Yêu cầu biên mục nội dung dữ liệu đặc tả của tài liệu lưu trữ",
+                "content": "Điều 5. Yêu cầu biên mục nội dung dữ liệu đặc tả của tài liệu lưu trữ",
+                "clauses": [
+                  {
+                    "clause_id": "doc:223362:part:1:article:5:clause:1",
+                    "number": "1",
+                    "content": "1. Biên mục nội dung dữ liệu đặc tả phải\nbảo đảm cô đọng, rõ nghĩa đối với nội dung tài liệu cần mô tả.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:223362:part:1:article:5:clause:2",
+                    "number": "2",
+                    "content": "2. Trong trường hợp thuộc tính nội dung\ncó nhiều giá trị khác nhau, thì phân biệt các thuộc tính nội dung bằng dấu chấm phẩy (;).",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:223362:part:1:article:5:clause:3",
+                    "number": "3",
+                    "content": "3. Cơ quan, tổ chức có trách nhiệm cập\nnhật, bổ sung khi nội dung dữ liệu đặc tả của tài liệu lưu trữ có sự thay đổi.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:223362:part:1:article:6",
+                "number": "6",
+                "title": "Tiêu chuẩn dữ liệu thông tin đầu vào của cơ sở dữ liệu tài liệu lưu trữ",
+                "content": "Điều 6. Tiêu chuẩn dữ liệu thông tin đầu vào của cơ sở dữ liệu tài liệu lưu trữ",
+                "clauses": [
+                  {
+                    "clause_id": "doc:223362:part:1:article:6:clause:1",
+                    "number": "1",
+                    "content": "1. Tài liệu lưu trữ điện tử được số hóa\ntừ tài liệu lưu trữ nền giấy",
+                    "points": [
+                      {
+                        "point_id": "doc:223362:part:1:article:6:clause:1:point:1",
+                        "label": "a",
+                        "content": "a) Định dạng Portable Document Format\n(.pdf), phiên bản 1.4 trở lên;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:223362:part:1:article:6:clause:1:point:2",
+                        "label": "b",
+                        "content": "b) Ảnh màu;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:223362:part:1:article:6:clause:1:point:3",
+                        "label": "c",
+                        "content": "c) Độ phân giải tối thiểu: 200 dpi;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:223362:part:1:article:6:clause:1:point:4",
+                        "label": "d",
+                        "content": "d) Tỷ lệ số hóa: 100%;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:223362:part:1:article:6:clause:1:point:5",
+                        "label": "đ",
+                        "content": "đ) Hình thức chữ ký số của cơ quan, tổ\nchức quản lý tài liệu lưu trữ số hóa - Vị trí: Góc trên, bên phải, trang đầu tài liệu; - Hình ảnh: Dấu của cơ quan, tổ chức, màu đỏ, kích thước bằng kích thước thực tế của dấu, định dạng Portable Network Graphics (.png); - Thông tin: Tên cơ quan, tổ chức, thời gian ký (ngày, tháng, năm; giờ, phút, giây; múi giờ Việt Nam theo Tiêu chuẩn\nISO 8601).",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:223362:part:1:article:6:clause:1:point:6",
+                        "label": "e",
+                        "content": "e) Tên file: gồm mã hồ sơ và số thứ tự\nvăn bản trong hồ sơ, cách nhau bởi dấu chấm.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:223362:part:1:article:6:clause:2",
+                    "number": "2",
+                    "content": "2. Tài liệu ảnh",
+                    "points": [
+                      {
+                        "point_id": "doc:223362:part:1:article:6:clause:2:point:1",
+                        "label": "a",
+                        "content": "a) Định dạng: JPEG;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:223362:part:1:article:6:clause:2:point:2",
+                        "label": "b",
+                        "content": "b) Độ phân giải tối thiểu: 200 dpi.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:223362:part:1:article:6:clause:3",
+                    "number": "3",
+                    "content": "3. Tài liệu phim ảnh",
+                    "points": [
+                      {
+                        "point_id": "doc:223362:part:1:article:6:clause:3:point:1",
+                        "label": "a",
+                        "content": "a) Định dạng: MPEG-4, .avi, .wmv;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:223362:part:1:article:6:clause:3:point:2",
+                        "label": "b",
+                        "content": "b) Bit rate tối thiểu: 1500 kbps.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:223362:part:1:article:6:clause:4",
+                    "number": "4",
+                    "content": "4. Tài liệu âm thanh",
+                    "points": [
+                      {
+                        "point_id": "doc:223362:part:1:article:6:clause:4:point:1",
+                        "label": "a",
+                        "content": "a) Định dạng: MP3, .wma;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:223362:part:1:article:6:clause:4:point:2",
+                        "label": "b",
+                        "content": "b) Bit rate tối thiểu: 128 kbps.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:223362:part:1:article:6:clause:5",
+                    "number": "5",
+                    "content": "5. Dữ liệu thông tin đầu vào của cơ sở dữ\nliệu tài liệu lưu trữ hình thành từ Hệ thống quản lý tài liệu điện tử của các cơ quan, tổ chức nộp lưu vào Lưu trữ lịch sử được đóng gói theo tiêu chuẩn kỹ thuật về ứng dụng công nghệ thông tin trong cơ quan nhà nước quy định tại Thông tư số 39/2017/TT-BTTTT ngày 15 tháng 12 năm 2017 của Bộ trưởng Bộ Thông tin và Truyền thông.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:223362:part:1:article:6:clause:6",
+                    "number": "6",
+                    "content": "6. Dữ liệu đặc tả của tài liệu lưu trữ\nquy định tại Phụ lục I Thông tư này.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:223362:part:1:article:6:clause:7",
+                    "number": "7",
+                    "content": "7. Biên mục, cập nhật nội dung dữ liệu đặc\ntả của tài liệu lưu trữ quy định tại Phụ lục II Thông tư này.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:223362:part:1:chapter:3",
+            "number": "III",
+            "title": "BẢO QUẢN CƠ SỞ DỮ LIỆU TÀI LIỆU LƯU TRỮ",
+            "content": "Chương III\nBẢO\nQUẢN CƠ SỞ DỮ LIỆU TÀI LIỆU LƯU TRỮ",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:223362:part:1:article:7",
+                "number": "7",
+                "title": "Nguyên tắc",
+                "content": "Điều 7. Nguyên tắc",
+                "clauses": [
+                  {
+                    "clause_id": "doc:223362:part:1:article:7:clause:1",
+                    "number": "1",
+                    "content": "1. Bảo đảm cơ sở dữ liệu tài liệu lưu trữ\nđược bảo quản an toàn, xác thực, bảo mật trên các phương tiện lưu trữ.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:223362:part:1:article:7:clause:2",
+                    "number": "2",
+                    "content": "2. Bảo đảm khả năng truy cập, quản lý,\ntìm kiếm, cập nhật cơ sở dữ liệu tài liệu lưu trữ.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:223362:part:1:article:8",
+                "number": "8",
+                "title": "Yêu cầu",
+                "content": "Điều 8. Yêu cầu",
+                "clauses": [
+                  {
+                    "clause_id": "doc:223362:part:1:article:8:clause:1",
+                    "number": "1",
+                    "content": "1. Không lưu cơ sở dữ liệu tài liệu lưu\ntrữ có chứa thông tin thuộc phạm vi bí mật nhà nước trên các thiết bị kết nối với mạng Internet, mạng máy tính, mạng viễn thông.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:223362:part:1:article:8:clause:2",
+                    "number": "2",
+                    "content": "2. Không chuyển mục đích sử dụng các thiết\nbị đã lưu cơ sở dữ liệu tài liệu lưu trữ có chứa thông tin thuộc phạm vi bí mật nhà nước khi chưa loại bỏ triệt để cơ sở dữ liệu tài liệu lưu trữ.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:223362:part:1:article:8:clause:3",
+                    "number": "3",
+                    "content": "3. Cơ sở dữ liệu tài liệu lưu trữ phải\nđược sao lưu ít nhất 02 bộ, mỗi bộ trên 01 phương tiện lưu trữ độc lập. Việc sao lưu phải bảo đảm đầy đủ, chính xác, kịp thời, an toàn.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:223362:part:1:article:8:clause:4",
+                    "number": "4",
+                    "content": "4. Bảo đảm thống nhất quy trình kiểm\ntra, sao lưu, phục hồi dữ liệu.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:223362:part:1:article:8:clause:5",
+                    "number": "5",
+                    "content": "5. Người được giao quản lý cơ sở dữ liệu\ntài liệu lưu trữ của cơ quan, tổ chức có trách nhiệm kiểm tra, bảo quản, sao lưu, phục hồi.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:223362:part:1:article:9",
+                "number": "9",
+                "title": "Kiểm tra cơ sở dữ liệu tài liệu lưu trữ",
+                "content": "Điều 9. Kiểm tra cơ sở dữ liệu tài liệu lưu trữ",
+                "clauses": [
+                  {
+                    "clause_id": "doc:223362:part:1:article:9:clause:1",
+                    "number": "1",
+                    "content": "1. Thời gian kiểm tra: Định kỳ hàng năm.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:223362:part:1:article:9:clause:2",
+                    "number": "2",
+                    "content": "2. Quy trình kiểm tra quy định tại Phụ lục III Thông tư này.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:223362:part:1:article:9:clause:3",
+                    "number": "3",
+                    "content": "3. Biên bản kiểm tra quy định tại Phụ lục IV Thông tư này.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:223362:part:1:article:10",
+                "number": "10",
+                "title": "Sao lưu phần mềm và cơ sở dữ liệu tài liệu lưu trữ",
+                "content": "Điều 10. Sao lưu phần mềm và cơ sở dữ liệu tài liệu lưu trữ",
+                "clauses": [
+                  {
+                    "clause_id": "doc:223362:part:1:article:10:clause:1",
+                    "number": "1",
+                    "content": "1. Thời gian và phương thức sao lưu",
+                    "points": [
+                      {
+                        "point_id": "doc:223362:part:1:article:10:clause:1:point:1",
+                        "label": "a",
+                        "content": "a) Cơ sở dữ liệu tài liệu lưu trữ phải\nsao lưu hàng ngày theo phương thức sao lưu gia tăng, ngày đầu tiên hàng tháng phải sao lưu theo phương thức sao lưu đầy đủ.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:223362:part:1:article:10:clause:1:point:2",
+                        "label": "b",
+                        "content": "b) Chuyển đổi phương tiện lưu trữ\nCơ sở dữ liệu tài liệu lưu trữ, phần mềm phải chuyển đổi phương tiện lưu trữ 03 năm/01 lần theo phương thức sao lưu đầy đủ; Dữ liệu đặc tả của tài liệu lưu trữ được sao lưu và lưu trữ bằng định dạng file XML (eXtensible Markup Language).",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:223362:part:1:article:10:clause:2",
+                    "number": "2",
+                    "content": "2. Quy trình sao lưu quy định tại Phụ lục V Thông tư này.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:223362:part:1:article:10:clause:3",
+                    "number": "3",
+                    "content": "3. Nhật ký sao lưu quy định tại Phụ lục VI Thông tư này.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:223362:part:1:article:10:clause:4",
+                    "number": "4",
+                    "content": "4. Biên bản sao lưu quy định tại Phụ lục VII Thông tư này.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:223362:part:1:article:11",
+                "number": "11",
+                "title": "Phục hồi cơ sở dữ liệu tài liệu lưu trữ",
+                "content": "Điều 11. Phục hồi cơ sở dữ liệu tài liệu lưu trữ",
+                "clauses": [
+                  {
+                    "clause_id": "doc:223362:part:1:article:11:clause:1",
+                    "number": "1",
+                    "content": "1. Quy trình và nội dung phục hồi cơ sở\ndữ liệu tài liệu lưu trữ quy định tại Phụ lục VIII Thông tư này.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:223362:part:1:article:11:clause:2",
+                    "number": "2",
+                    "content": "2. Biên bản phục hồi cơ sở dữ liệu tài\nliệu lưu trữ quy định tại Phụ lục IX Thông tư này.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:223362:part:1:article:12",
+                "number": "12",
+                "title": "Bảo đảm an toàn cơ sở dữ liệu tài liệu lưu trữ",
+                "content": "Điều 12. Bảo đảm an toàn cơ sở dữ liệu tài liệu lưu trữ",
+                "clauses": [
+                  {
+                    "clause_id": "doc:223362:part:1:article:12:clause:1",
+                    "number": "1",
+                    "content": "1. Cơ sở dữ liệu tài liệu lưu trữ được bảo\nđảm an toàn thông tin theo cấp độ được quy định tại Nghị định số 85/2016/NĐ-CP ngày 01 tháng 7 năm 2016 của Chính phủ và Thông tư số 03/2017/TT-BTTTT ngày 24 tháng 4 năm 2017 của Bộ trưởng Bộ Thông tin và Truyền thông.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:223362:part:1:article:12:clause:2",
+                    "number": "2",
+                    "content": "2. Việc tiêu hủy thiết bị, phương tiện\nlưu trữ cơ sở dữ liệu tài liệu lưu trữ bảo đảm yêu cầu bảo mật thông tin theo cấp độ được quy định.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:223362:part:1:article:12:clause:3",
+                    "number": "3",
+                    "content": "3. Không được mang thiết bị, phương tiện\nlưu trữ cơ sở dữ liệu tài liệu lưu trữ ra khỏi Lưu trữ cơ quan, Lưu trữ lịch sử khi chưa được sự đồng ý của người có thẩm quyền.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:223362:part:1:chapter:4",
+            "number": "IV",
+            "title": "ĐIỀU KHOẢN THI HÀNH",
+            "content": "Chương IV\nĐIỀU KHOẢN THI HÀNH",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:223362:part:1:article:13",
+                "number": "13",
+                "title": "Hiệu lực thi hành Thông tư này có hiệu lực thi hành kể từ ngày 10 tháng 3 năm 2019.",
+                "content": "Điều 13. Hiệu lực thi hành Thông tư này có hiệu lực thi hành kể từ ngày 10 tháng 3 năm 2019.",
+                "clauses": [],
+                "points": []
+              },
+              {
+                "article_id": "doc:223362:part:1:article:14",
+                "number": "14",
+                "title": "Tổ chức thực hiện",
+                "content": "Điều 14. Tổ chức thực hiện",
+                "clauses": [
+                  {
+                    "clause_id": "doc:223362:part:1:article:14:clause:1",
+                    "number": "1",
+                    "content": "1. Bộ trưởng, Thủ trưởng cơ quan ngang Bộ,\nThủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương và các cơ quan, tổ chức có liên quan chịu trách nhiệm thực hiện Thông tư này.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:223362:part:1:article:14:clause:2",
+                    "number": "2",
+                    "content": "2. Trong quá trình triển khai thực hiện,\nnếu có vướng mắc đề nghị các cơ quan, tổ chức, cá nhân phản ánh về Bộ Nội vụ để nghiên cứu, sửa đổi, bổ sung cho phù hợp./.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          }
+        ],
+        "sections": [],
+        "articles": [],
+        "unstructured_blocks": []
+      },
+      {
+        "part_id": "doc:223362:part:2",
+        "part_type": "appendix",
+        "part_title": "PHỤ LỤC VII",
+        "reference": null,
+        "direct_text": null,
+        "chapters": [],
+        "sections": [],
+        "articles": [],
+        "unstructured_blocks": [
+          {
+            "block_id": "doc:223362:part:2:block:1",
+            "content": "PHỤ LỤC VII\nBIÊN\nBẢN SAO LƯU CƠ SỞ DỮ LIỆU TÀI LIỆU LƯU TRỮ\n(Kèm theo Thông tư số 02/2019/TT-BNV ngày 24 tháng 01 năm 2019 của Bộ trưởng Bộ Nội vụ)\nCƠ QUAN/TỔ CHỨC ĐƠN VỊ....\n-------\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc ---------------\nBIÊN BẢN SAO LƯU CƠ SỞ DỮ\nLIỆU TÀI LIỆU LƯU TRỮ\n1. Thời gian: ngày………tháng………năm………\n2. Địa điểm:...........................................................................................................................\n3. Người sao lưu:...................................................................................................................\n4. Mã phương tiện lưu trữ cũ:.................................................................................................\n5. Mã phương tiện lưu trữ mới:...............................................................................................\n6. Phương thức sao lưu:........................................................................................................\n7. Cơ sở dữ liệu tài liệu lưu trữ sao\nlưu: 7.1. Tên cơ sở dữ liệu:........................................................................................................... 7.2. Nội dung dữ liệu sao lưu:................................................................................................. 7.3. Dung lượng sao lưu:.......................................................................................................\n8. Lỗi xảy ra trong quá trình sao lưu dữ\nliệu: ............................................................................................................................................. ............................................................................................................................................. .............................................................................................................................................\n9. Giải pháp khắc phục:\n............................................................................................................................................. .............................................................................................................................................\n10. Kết quả:\n............................................................................................................................................. .............................................................................................................................................\nNGƯỜI SAO LƯU\n(Ký và ghi rõ họ tên)\nĐẠI DIỆN ĐƠN VỊ\n(Ký và ghi rõ họ tên)",
+            "indexable": true
+          }
+        ]
+      },
+      {
+        "part_id": "doc:223362:part:3",
+        "part_type": "appendix",
+        "part_title": "PHỤ LỤC VIII",
+        "reference": null,
+        "direct_text": null,
+        "chapters": [],
+        "sections": [],
+        "articles": [],
+        "unstructured_blocks": [
+          {
+            "block_id": "doc:223362:part:3:block:1",
+            "content": "PHỤ LỤC VIII\nQUY\nTRÌNH PHỤC HỒI CƠ SỞ DỮ LIỆU TÀI LIỆU LƯU TRỮ\n(Kèm theo Thông tư số 02/2019/TT-BNV ngày 24 tháng 01 năm 2019 của Bộ trưởng Bộ Nội vụ)\n1. Lưu đồ quy trình\n2. Mô tả chi tiết quy trình\nBước 1. Xác định sự cố tin học Người được giao quản lý cơ sở dữ liệu tài liệu lưu trữ của cơ quan, tổ chức xác định nguyên nhân xảy ra sự cố tin học do lỗi phần cứng hoặc lỗi phần mềm để tìm hướng khắc phục. Bước 2. Thực hiện cách ly cơ sở dữ liệu tài liệu lưu trữ với nguồn gây hỏng dữ liệu, khắc phục sự cố phần cứng Người được giao quản lý cơ sở dữ liệu tài liệu lưu trữ của cơ quan, tổ chức thực hiện cách ly cơ sở dữ liệu tài liệu lưu trữ với nguồn gây hỏng dữ liệu bằng cách sửa chữa, thay thế thiết bị, chặn tấn công xâm nhập mạng, tắt tiến trình phần mềm bảo đảm cho hệ thống được vận hành bình thường. Bước 3. Kiểm tra lỗi phần mềm, cơ sở dữ liệu Sau khi thực hiện khắc phục sự cố phần cứng, người được giao quản lý cơ sở dữ liệu tài liệu lưu trữ của cơ quan, tổ chức kiểm tra lỗi phần mềm (gồm hệ điều hành, phần mềm quản lý cơ sở dữ liệu tài liệu lưu trữ). Trường hợp phần mềm không lỗi, sau khi khắc phục sự cố phần cứng hệ thống hoạt động bình thường thì tiến hành ghi nhật ký và lập hồ sơ công việc. Trường hợp phần mềm lỗi thì chuyển sang Bước 4 xác định trường hợp phục hồi. Bước 4. Xác định trường hợp phục hồi Người được giao quản lý cơ sở dữ liệu tài liệu lưu trữ của cơ quan, tổ chức cần xác định trường hợp phục hồi là do sự cố dữ liệu, phần mềm quản trị cơ sở dữ liệu, phần mềm ứng dụng để từ đó đưa ra cách phục hồi nhanh chóng, chính xác. Bước 5. Xác định nguồn cơ sở dữ liệu tài liệu lưu trữ phục hồi Người được giao quản lý cơ sở dữ liệu tài liệu lưu trữ của cơ quan, tổ chức xác định và lấy bản sao lưu cơ sở dữ liệu gần nhất trước thời điểm xảy ra sự cố để tiến hành phục hồi. Bước 6. Tiến hành phục hồi\na) Trường hợp sự cố dữ liệu\nKhi toàn bộ dữ liệu hệ thống của hệ quản trị cơ sở dữ liệu vẫn an toàn, chỉ có dữ liệu tài liệu lưu trữ bị hỏng, người được giao quản lý cơ sở dữ liệu tài liệu lưu trữ của cơ quan, tổ chức thực hiện khôi phục lại dữ liệu bằng cách sử dụng file sao lưu dữ liệu gần nhất trước thời điểm xảy ra sự cố (dùng chức năng Backup/Restore của hệ quản trị cơ sở dữ liệu hoặc chức năng phục hồi dữ liệu của phần mềm ứng dụng).\nb) Trường hợp sự cố phần mềm quản trị cơ\nsở dữ liệu - Lưu lại dữ liệu tài liệu lưu trữ và tiến hành cài đặt lại hệ quản trị cơ sở dữ liệu; - Dùng chức năng Attach Database của hệ quản trị cơ sở dữ liệu để phục hồi lại dữ liệu đã lưu lại ở bước trên hoặc sử dụng dữ liệu sao lưu gần nhất trước thời điểm xảy ra sự cố để tiến hành phục hồi dữ liệu.\nc) Trường hợp sự cố phần mềm ứng dụng\nNgười được giao quản lý cơ sở dữ liệu của cơ quan, tổ chức thực hiện khôi phục lại phần mềm ứng dụng bằng cách sử dụng phần mềm ứng dụng đã được sao lưu gần nhất trước thời điểm xảy ra sự cố. Bước 7. Kiểm tra kết quả phục hồi Khi hệ thống hoạt động trở lại bình thường, người được giao quản lý cơ sở dữ liệu tài liệu lưu trữ của cơ quan, tổ chức thực hiện kiểm tra dữ liệu để bảo đảm dữ liệu sau khi phục hồi hoàn toàn đầy đủ, chính xác so với trước thời điểm xảy ra sự cố. Trường hợp dữ liệu không đạt yêu cầu thì quay lại Bước 5 để kiểm tra nguồn dữ liệu phục hồi; Trường hợp đạt yêu cầu thì tiến hành chuyển sang bước tiếp theo. Bước 8. Ghi biên bản, lập hồ sơ Sau khi hoàn thành quá trình phục hồi, người được giao quản lý cơ sở dữ liệu tài liệu lưu trữ của cơ quan, tổ chức thực hiện ghi Biên bản phục hồi cơ sở dữ liệu tài liệu lưu trữ quy định tại Phụ lục IX Thông tư này, lập và lưu hồ sơ việc phục vụ hoạt động quản lý và theo dõi định kỳ.",
+            "indexable": true
+          }
+        ]
+      },
+      {
+        "part_id": "doc:223362:part:4",
+        "part_type": "appendix",
+        "part_title": "PHỤ LỤC IX",
+        "reference": null,
+        "direct_text": null,
+        "chapters": [],
+        "sections": [],
+        "articles": [],
+        "unstructured_blocks": [
+          {
+            "block_id": "doc:223362:part:4:block:1",
+            "content": "PHỤ LỤC IX\nBIÊN\nBẢN PHỤC HỒI CƠ SỞ DỮ LIỆU TÀI LIỆU LƯU TRỮ\n(Kèm theo Thông tư số 02/2019/TT-BNV ngày 24 tháng 01 năm 2019 của Bộ trưởng Bộ Nội vụ)\nCƠ QUAN/TỔ CHỨC ĐƠN VỊ....\n-------\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc ---------------\nBIÊN BẢN PHỤC HỒI CƠ SỞ\nDỮ LIỆU TÀI LIỆU LƯU TRỮ\n1. Thời gian: ngày………tháng………năm………\n2. Người phục hồi:...............................................................................................................\n3. Lý do phục hồi:................................................................................................................\n...........................................................................................................................................\n4. Địa chỉ tra tìm thiết bị lưu trữ:............................................................................................\n5. Tên, ngày tháng file phục hồi:...........................................................................................\n6. Nội dung phục hồi:\n........................................................................................................................................... ........................................................................................................................................... ...........................................................................................................................................\n7. Lỗi xảy ra trong quá trình phục hồi:\n........................................................................................................................................... ........................................................................................................................................... ...........................................................................................................................................\n8. Kết quả:\n........................................................................................................................................... ...........................................................................................................................................\nNGƯỜI PHỤC HỒI\n(Ký và ghi rõ họ tên)\nĐẠI DIỆN ĐƠN VỊ\n(Ký và ghi rõ họ tên)",
+            "indexable": true
+          }
+        ]
+      }
+    ]
+  },
+  "issues": [],
+  "status": "ok",
+  "source_hash": "context_223362.json",
+  "stats": {
+    "source_chars": 42931,
+    "passage_chars": 42781,
+    "parts": 4,
+    "chapters": 4,
+    "sections": 0,
+    "articles": 14,
+    "clauses": 45,
+    "points": 14
+  }
+}

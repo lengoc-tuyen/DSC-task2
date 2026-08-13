@@ -1,0 +1,590 @@
+{
+  "schema_version": "2.0",
+  "document_id": 225809,
+  "metadata": {
+    "name": "Thong-tu-01-2022-TT-BXD-ho-tro-nha-o-ho-ngheo-thuoc-Chuong-trinh-giam-ngheo-ben-vung-520547",
+    "link": "https://thuvienphapluat.vn/van-ban/Bat-dong-san/Thong-tu-01-2022-TT-BXD-ho-tro-nha-o-ho-ngheo-thuoc-Chuong-trinh-giam-ngheo-ben-vung-520547.aspx",
+    "issuing_agency": "BỘ XÂY DỰNG",
+    "national_header": "CỘNG HÒA XÃ HỘI\r\n\n  CHỦ NGHĨA VIỆT NAM",
+    "motto": "Độc lập - Tự do - Hạnh phúc",
+    "document_number": "01/2022/TT-BXD",
+    "issued_place": "Hà Nội",
+    "issued_date": "ngày 30\r\n\n  tháng 6 năm 2022",
+    "document_type": "THÔNG TƯ",
+    "title": "HƯỚNG DẪN THỰC HIỆN HỖ TRỢ NHÀ Ở CHO HỘ NGHÈO, HỘ CẬN NGHÈO TRÊN ĐỊA BÀN CÁC HUYỆN NGHÈO THUỘC CHƯƠNG TRÌNH MỤC TIÊU QUỐC GIA GIẢM NGHÈO BỀN VỮNG GIAI ĐOẠN 2021-2025"
+  },
+  "administrative_header": {
+    "removed": true,
+    "removed_char_count": 150
+  },
+  "preamble": {
+    "text": "THÔNG TƯ HƯỚNG\nDẪN THỰC HIỆN HỖ TRỢ NHÀ Ở CHO HỘ NGHÈO, HỘ CẬN NGHÈO TRÊN ĐỊA BÀN CÁC HUYỆN\nNGHÈO THUỘC CHƯƠNG TRÌNH MỤC TIÊU QUỐC GIA GIẢM NGHÈO BỀN VỮNG GIAI ĐOẠN\n2021-2025 Căn cứ Luật Nhà ở ngày 25 tháng 11 năm 2014; Căn cứ Nghị quyết số 24/2021/QH15 ngày 28 tháng 7 năm 2021 của Quốc hội phê duyệt chủ trương đầu tư Chương trình mục tiêu quốc gia giảm nghèo bền vững giai đoạn 2021-2025; Căn cứ Nghị định số 81/2017/NĐ-CP ngày 17 tháng 7 năm 2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Xây dựng; Căn cứ Nghị định số 07/2021/NĐ-CP ngày 27 tháng 01 năm 2021 của Chính phủ quy định chuẩn nghèo đa chiều giai đoạn 2021-2025; Căn cứ Nghị định số 27/2022/NĐ-CP ngày 19 tháng 4 năm 2022 của Chính phủ quy định cơ chế quản lý, tổ chức thực hiện các Chương trình mục tiêu quốc gia; Căn cứ Quyết định số 02/2022/QĐ-TTg ngày 18 tháng 01 năm 2022 của Thủ tướng Chính phủ quy định nguyên tắc, tiêu chí, định mức phân bổ vốn ngân sách trung ương và tỷ lệ vốn đối ứng của ngân sách địa phương thực hiện Chương trình mục tiêu quốc gia giảm nghèo bền vững giai đoạn 2021-2025; Theo đề nghị của Cục trưởng Cục Quản lý nhà và thị trường bất động sản; Bộ trưởng Bộ Xây dựng ban hành Thông tư hướng dẫn thực hiện hỗ trợ nhà ở cho hộ nghèo, hộ cận nghèo trên địa bàn các huyện nghèo thuộc Chương trình mục tiêu quốc gia giảm nghèo bền vững giai đoạn 2021-2025 để thực hiện Quyết định số 90/QĐ-TTg ngày 18 tháng 01 năm 2022 của Thủ tướng Chính phủ phê duyệt Chương trình mục tiêu quốc gia giảm nghèo bền vững giai đoạn 2021-2025.",
+    "legal_bases": [
+      "Căn cứ Nghị quyết số 24/2021/QH15 ngày 28 tháng 7 năm 2021 của Quốc hội phê duyệt chủ trương đầu tư Chương trình mục tiêu quốc gia giảm nghèo bền vững giai đoạn 2021-2025",
+      "Căn cứ Nghị định số 81/2017/NĐ-CP ngày 17 tháng 7 năm 2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Xây dựng",
+      "Căn cứ Nghị định số 07/2021/NĐ-CP ngày 27 tháng 01 năm 2021 của Chính phủ quy định chuẩn nghèo đa chiều giai đoạn 2021-2025",
+      "Căn cứ Nghị định số 27/2022/NĐ-CP ngày 19 tháng 4 năm 2022 của Chính phủ quy định cơ chế quản lý, tổ chức thực hiện các Chương trình mục tiêu quốc gia",
+      "Căn cứ Quyết định số 02/2022/QĐ-TTg ngày 18 tháng 01 năm 2022 của Thủ tướng Chính phủ quy định nguyên tắc, tiêu chí, định mức phân bổ vốn ngân sách trung ương và tỷ lệ vốn đối ứng của ngân sách địa phương thực hiện Chương trình mục tiêu quốc gia giảm nghèo bền vững giai đoạn 2021-2025"
+    ],
+    "proposals": [
+      "Theo đề nghị của Cục trưởng Cục Quản lý nhà và thị trường bất động sản"
+    ],
+    "enactment_formula": null
+  },
+  "passage": "THÔNG TƯ HƯỚNG\nDẪN THỰC HIỆN HỖ TRỢ NHÀ Ở CHO HỘ NGHÈO, HỘ CẬN NGHÈO TRÊN ĐỊA BÀN CÁC HUYỆN\nNGHÈO THUỘC CHƯƠNG TRÌNH MỤC TIÊU QUỐC GIA GIẢM NGHÈO BỀN VỮNG GIAI ĐOẠN\n2021-2025 Căn cứ Luật Nhà ở ngày 25 tháng 11 năm 2014; Căn cứ Nghị quyết số 24/2021/QH15 ngày 28 tháng 7 năm 2021 của Quốc hội phê duyệt chủ trương đầu tư Chương trình mục tiêu quốc gia giảm nghèo bền vững giai đoạn 2021-2025; Căn cứ Nghị định số 81/2017/NĐ-CP ngày 17 tháng 7 năm 2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Xây dựng; Căn cứ Nghị định số 07/2021/NĐ-CP ngày 27 tháng 01 năm 2021 của Chính phủ quy định chuẩn nghèo đa chiều giai đoạn 2021-2025; Căn cứ Nghị định số 27/2022/NĐ-CP ngày 19 tháng 4 năm 2022 của Chính phủ quy định cơ chế quản lý, tổ chức thực hiện các Chương trình mục tiêu quốc gia; Căn cứ Quyết định số 02/2022/QĐ-TTg ngày 18 tháng 01 năm 2022 của Thủ tướng Chính phủ quy định nguyên tắc, tiêu chí, định mức phân bổ vốn ngân sách trung ương và tỷ lệ vốn đối ứng của ngân sách địa phương thực hiện Chương trình mục tiêu quốc gia giảm nghèo bền vững giai đoạn 2021-2025; Theo đề nghị của Cục trưởng Cục Quản lý nhà và thị trường bất động sản; Bộ trưởng Bộ Xây dựng ban hành Thông tư hướng dẫn thực hiện hỗ trợ nhà ở cho hộ nghèo, hộ cận nghèo trên địa bàn các huyện nghèo thuộc Chương trình mục tiêu quốc gia giảm nghèo bền vững giai đoạn 2021-2025 để thực hiện Quyết định số 90/QĐ-TTg ngày 18 tháng 01 năm 2022 của Thủ tướng Chính phủ phê duyệt Chương trình mục tiêu quốc gia giảm nghèo bền vững giai đoạn 2021-2025.\nĐiều 1: Phạm vi điều chỉnh và đối tượng áp dụng\n1. Phạm vi điều chỉnh\nThông tư này hướng dẫn việc xác định đối tượng, nguyên tắc, tiêu chí, chất lượng và việc tổ chức triển khai thực hiện hỗ trợ nhà ở cho hộ nghèo, hộ cận nghèo trên địa bàn các huyện nghèo được phê duyệt tại Quyết định số 353/QĐ-TTg ngày 15 tháng 3 năm 2022 của Thủ tướng Chính phủ phê duyệt danh sách huyện nghèo, xã đặc biệt khó khăn vùng bãi ngang, ven biển và hải đảo giai đoạn 2021-2025.\n2. Đối tượng áp dụng\na) Hộ nghèo, hộ cận nghèo (theo chuẩn nghèo đa chiều\ngiai đoạn 2021-2025) trong danh sách hộ nghèo, hộ cận nghèo do Ủy ban nhân dân cấp xã quản lý, đang cư trú trên địa bàn huyện nghèo và là hộ độc lập có thời gian tách hộ đến khi Chương trình mục tiêu quốc gia giảm nghèo bền vững giai đoạn 2021-2025 (sau đây viết tắt là Chương trình) có hiệu lực thi hành tối thiểu 03 năm;\nb) Đối tượng thụ hưởng hỗ trợ\nnhà ở không bao gồm các hộ đã được hỗ trợ nhà ở thuộc Chương trình mục tiêu quốc gia phát triển kinh tế - xã hội vùng đồng bào dân tộc thiểu số và miền núi giai đoạn 2021-2030 và các chương trình, đề án, chính sách khác;\nc) Các cơ quan, tổ chức, cá nhân có liên quan.\nĐiều 2. Nguyên tắc thực hiện\n1. Bảo đảm công khai, dân chủ, phát huy quyền làm\nchủ và sự tham gia tích cực, chủ động của cộng đồng và người dân. Ưu tiên sử dụng nguyên vật liệu địa phương và sử dụng lao động tại chỗ để thực hiện hỗ trợ nhà ở cho hộ nghèo, hộ cận nghèo trên địa bàn các huyện nghèo thuộc Chương trình.\n2. Phân quyền, phân cấp cho địa phương trong xây dựng,\ntổ chức thực hiện phù hợp với điều kiện, đặc điểm, bản sắc văn hóa, phong tục tập quán của dân tộc, các vùng miền gắn với củng cố quốc phòng, an ninh.\n3. Hỗ trợ trực tiếp đến từng hộ nghèo, hộ cận\nnghèo. Ưu tiên hỗ trợ hộ nghèo dân tộc thiểu số và hộ nghèo có thành viên là người có công với cách mạng.\n4. Huy động từ nhiều nguồn vốn để thực hiện, kết hợp\ngiữa Nhà nước và nhân dân cùng làm theo nguyên tắc: Nhà nước hỗ trợ, cộng đồng giúp đỡ, hộ gia đình tự tổ chức xây dựng nhà ở.\n5. Tăng cường thanh tra, kiểm tra, giám sát, đánh\ngiá việc thực hiện hỗ trợ nhà ở cho hộ nghèo, hộ cận nghèo trên địa bàn các huyện nghèo ở các cấp, các ngành. Có biện pháp phòng ngừa, kịp thời ngăn chặn các biểu hiện tiêu cực và xử lý nghiêm hành vi tham nhũng, lãng phí và các vi phạm trong quá trình thực hiện.\nĐiều 3. Tiêu chí được hỗ trợ nhà ở Hộ nghèo, hộ cận nghèo được hỗ trợ nhà ở thuộc một trong các trường hợp sau:\n1. Hộ nghèo, hộ cận nghèo chưa có nhà ở hoặc nhà ở\nthuộc loại không bền chắc (trong ba kết cấu chính là nền - móng, khung - tường, mái thì có ít nhất hai kết cấu được làm bằng vật liệu không bền chắc).\n2. Diện tích nhà ở bình quân đầu người của hộ\nnghèo, hộ cận nghèo nhỏ hơn 8m2.\n3. Chưa được hỗ trợ nhà ở từ các chương trình, đề\nán, chính sách hỗ trợ của Nhà nước, các tổ chức chính trị - xã hội hoặc tổ chức xã hội khác.\nĐiều 4: Yêu cầu chất lượng về nhà ở sau khi được hỗ trợ\n1. Sau khi được hỗ trợ xây mới hoặc sửa chữa, nhà ở\nphải đảm bảo diện tích sử dụng tối thiểu 30m2, đảm bảo “3 cứng” (nền - móng cứng, khung - tường cứng, mái cứng) và tuổi thọ căn nhà từ 20 năm trở lên.\n2. Các bộ phận nền - móng, khung - tường, mái của\ncăn nhà phải được làm từ các loại vật liệu có chất lượng tốt, không làm từ các loại vật liệu tạm, mau hỏng, dễ cháy. Cụ thể:\na) “Nền - móng cứng” là nền - móng nhà làm bằng các\nloại vật liệu có tác dụng làm tăng độ cứng của nền như: vữa xi măng - cát, bê tông, bê tông cốt thép, xây gạch/đá, gạch lát, gỗ;\nb) “Khung - tường cứng” bao gồm hệ thống khung, cột,\ntường. Tùy điều kiện cụ thể, khung, cột được làm từ các loại vật liệu: bê tông cốt thép, sắt, thép, gỗ bền chắc; tường xây gạch/đá hoặc làm từ gỗ bền chắc;\nc) “Mái cứng” gồm hệ thống đỡ mái và mái lợp. Tùy\nđiều kiện cụ thể, hệ thống đỡ mái có thể làm từ các loại vật liệu: bê tông cốt thép, sắt, thép, gỗ bền chắc. Mái làm bằng bê tông cốt thép, lợp ngói. Trường hợp mái bằng tôn lợp giả ngói, tôn lạnh, tôn cách nhiệt, tôn cán sóng và có kết cấu đỡ chắc chắn (khung sắt, gỗ...) liên kết bền chặt với tường xây, cột bê tông cốt thép thì mái tôn trong trường hợp này được coi là vật liệu bền chắc; Tùy điều kiện thực tế, các bộ phận nhà ở có thể làm bằng các loại vật liệu có chất lượng tương đương có sẵn tại địa phương đáp ứng tiêu chuẩn, quy chuẩn kỹ thuật, đảm bảo thời hạn sử dụng. Ủy ban nhân dân các tỉnh (hoặc ủy quyền cho Sở Xây dựng) quy định chủng loại vật liệu địa phương cụ thể (nếu có), báo cáo Bộ Xây dựng xem xét, quyết định.\nĐiều 5: Thứ tự ưu tiên hỗ trợ nhà ở\n1. Ưu tiên hỗ trợ trước cho các đối tượng theo thứ\ntự sau đây:\na) Hộ nghèo dân tộc thiểu số;\nb) Hộ nghèo có thành viên là người có công với cách\nmạng;\nc) Hộ nghèo, hộ cận nghèo có thành viên thuộc đối\ntượng bảo trợ xã hội;\nd) Hộ nghèo, hộ cận nghèo có hoàn cảnh đặc biệt khó\nkhăn (người cao tuổi, neo đơn, khuyết tật);\nđ) Hộ nghèo, hộ cận nghèo thuộc vùng thường xuyên xảy\nra thiên tai;\ne) Các hộ nghèo, hộ cận nghèo còn lại.\n2. Đối với các hộ nghèo, hộ cận nghèo có cùng mức độ\nưu tiên, việc hỗ trợ được thực hiện theo thứ tự sau:\na) Hộ nghèo, hộ cận nghèo có nhà ở hư hỏng, dột nát\n(làm bằng các vật liệu nhanh hỏng, chất lượng thấp) có nguy cơ sập đổ, không đảm bảo an toàn;\nb) Hộ nghèo, hộ cận nghèo chưa có nhà ở (là hộ\nnghèo, hộ cận nghèo chưa có nhà ở riêng, hiện đang ở cùng bố mẹ nhưng đã tách hộ, ở nhờ nhà của người khác, thuê nhà ở - trừ trường hợp được thuê nhà ở thuộc sở hữu nhà nước);\nc) Hộ nghèo, hộ cận nghèo có đông nhân khẩu.\nĐiều 6: Trình tự xây dựng Đề án hỗ trợ nhà ở\n1. Tại cấp thôn và tương đương (viết tắt là cấp\nthôn)\na) Công chức được giao nhiệm vụ làm công tác giảm\nnghèo cấp xã phối hợp Trưởng thôn tổ chức họp để phổ biến nội dung chính sách hỗ trợ nhà ở đối với hộ nghèo, hộ cận nghèo theo quy định tại Quyết định số 90/QĐ-TTg ngày 18 tháng 01 năm 2022 của Thủ tướng Chính phủ phê duyệt Chương trình mục tiêu quốc gia giảm nghèo bền vững giai đoạn 2021-2025 và Thông tư này đến các hộ dân; lập danh sách hộ nghèo, hộ cận nghèo có nhu cầu hỗ trợ xây mới hoặc sửa chữa nhà ở;\nb) Trên cơ sở danh sách hộ nghèo, hộ cận nghèo có\nnhu cầu hỗ trợ xây mới hoặc sửa chữa nhà ở, tổ chức bình xét, đề xuất danh sách các hộ nghèo, hộ cận nghèo được hỗ trợ về nhà ở (theo mẫu tại Phụ lục I kèm theo Thông tư này) gửi về Ủy ban nhân dân cấp xã để xem xét, rà soát. Cuộc họp bao gồm Ban chỉ đạo rà soát hộ nghèo, hộ cận nghèo cấp xã, công chức được giao nhiệm vụ làm công tác giảm nghèo cấp xã, Trưởng thôn (chủ trì họp), Bí thư Chi bộ thôn, Hội Liên hiệp phụ nữ, Hội Nông dân, Hội Cựu chiến binh, Đoàn Thanh niên Cộng sản Hồ Chí Minh và đại diện của các hộ nghèo, hộ cận nghèo trong thôn; mời đại diện Mặt trận Tổ quốc Việt Nam cấp xã giám sát;\nc) Hộ được đưa vào danh sách đề nghị hỗ trợ phải được\ntrên 50% số người tham dự cuộc hợp đồng ý (theo hình thức biểu quyết giơ tay hoặc bỏ phiếu kín).\n2. Tại cấp xã\na) Ủy ban nhân dân cấp xã niêm yết công khai danh\nsách các hộ nghèo, hộ cận nghèo được đề xuất hỗ trợ xây mới hoặc sửa chữa nhà ở tại nhà văn hóa hoặc nhà sinh hoạt cộng đồng thôn và trụ sở Ủy ban nhân dân cấp xã; thông báo qua đài truyền thanh cấp xã (nếu có) trong thời gian 03 ngày;\nb) Hết thời hạn niêm yết công khai, Ủy ban nhân dân\ncấp xã rà soát, thẩm định, tổng hợp và gửi về Ủy ban nhân dân cấp huyện danh sách hộ nghèo, hộ cận nghèo thuộc diện được hỗ trợ xây mới hoặc sửa chữa nhà ở.\n3. Sau 03 ngày làm việc kể từ\nthời điểm nhận được báo cáo của Ủy ban nhân dân cấp xã, Ủy ban nhân dân cấp huyện tổng hợp và phê duyệt danh sách báo cáo Ủy ban nhân dân cấp tỉnh. Trường hợp phải điều chỉnh lại danh sách thì phải phê duyệt lại và báo cáo ngay cho Ủy ban nhân dân cấp tỉnh.\n4. Ủy ban nhân dân cấp tỉnh tổ chức lập và phê duyệt\nĐề án hỗ trợ nhà ở đối với hộ nghèo, hộ cận nghèo trên địa bàn (theo mẫu tại Phụ lục VII kèm theo Thông tư này); gửi Đề án về Bộ Xây dựng, Bộ Lao động - Thương binh và Xã hội, Bộ Kế hoạch và Đầu tư, Bộ Tài chính đề tổng hợp báo cáo Thủ tướng Chính phủ.\n5. Trường hợp phát sinh khiếu nại, tố cáo trong quá\ntrình phê duyệt danh sách hộ nghèo, hộ cận nghèo được hỗ trợ về nhà ở thì việc khiếu nại, tố cáo và giải quyết khiếu nại, tố cáo thực hiện theo quy định của Luật khiếu nại, Luật tố cáo.\nĐiều 7: Thực hiện hỗ trợ nhà ở\n1. Thiết kế mẫu nhà ở\na) Ủy ban nhân dân cấp tỉnh chỉ đạo các cơ quan\nchuyên môn nghiên cứu, thiết kế tối thiểu 03 mẫu nhà ở điển hình phù hợp với phong tục, tập quán của từng địa phương (kèm theo dự toán kinh phí, dự trù vật liệu chủ yếu);\nb) Các địa phương tổ chức giới thiệu các mẫu thiết\nkế để người dân tham khảo, lựa chọn. Tôn trọng nguyện vọng của người dân, không bắt buộc các hộ nghèo, hộ cận nghèo xây dựng nhà ở theo thiết kế mẫu;\nc) Tùy theo điều kiện cụ thể, người dân có thể xây\ndựng theo kinh nghiệm, truyền thống, phù hợp với điều kiện kinh tế, sinh hoạt của gia đình, nhưng phải đảm bảo tiêu chí tối thiểu về diện tích, chất lượng theo quy định.\n2. Tổ chức xây mới hoặc sửa chữa nhà ở\na) Hộ nghèo, hộ cận nghèo trong danh sách được hỗ\ntrợ xây mới hoặc sửa chữa nhà ở ký cam kết xây mới hoặc sửa chữa nhà ở và đăng ký với Ủy ban nhân dân cấp xã đề nghị cung ứng vật liệu để xây mới hoặc sửa chữa nhà ở (nếu có nhu cầu), đề xuất lựa chọn mẫu nhà, phương thức xây mới hoặc sửa chữa nhà ở (theo mẫu tại Phụ lục II kèm theo Thông tư này);\nb) Đối với hộ nghèo, hộ cận nghèo có thành viên thuộc\nđối tượng bảo trợ xã hội và có hoàn cảnh đặc biệt khó khăn (người cao tuổi, neo đơn, khuyết tật) không có khả năng tự xây mới hoặc sửa chữa nhà ở thì Ủy ban nhân dân cấp xã phối hợp Mặt trận Tổ quốc xã và các tổ chức thành viên của Mặt trận để thống nhất phân công các đoàn thể, các cơ quan, đơn vị đóng trên địa bàn tổ chức xây mới hoặc sửa chữa nhà ở cho các đối tượng này;\nc) Hộ nghèo, hộ cận nghèo được hỗ trợ xây mới hoặc\nsửa chữa nhà ở phải báo cáo Ủy ban nhân dân cấp xã khi hoàn thành các phần việc theo giai đoạn (hoàn thành phần móng đối với những hộ xây dựng nhà ở mới, hoàn thành từ 30% khối lượng công việc trở lên đối với những hộ sửa chữa nhà ở hiện có) hoặc hoàn thành toàn bộ công trình để tổ chức nghiệm thu làm cơ sở thực hiện giải ngân vốn hỗ trợ;\nd) Ủy ban nhân dân cấp xã có trách nhiệm theo dõi,\nhướng dẫn, giám sát và giúp đỡ các hộ nghèo, hộ cận nghèo trong quá trình xây mới hoặc sửa chữa nhà ở đảm bảo tiến độ và chất lượng; lập biên bản xác nhận hoàn thành theo giai đoạn và biên bản xác nhận hoàn thành công trình đưa vào sử dụng (theo mẫu tại Phụ lục III và Phụ lục IV kèm theo Thông tư này).\n3. Định mức hỗ trợ và giải ngân vốn hỗ trợ\na) Nhà xây mới 40 triệu đồng/hộ; sửa chữa nhà 20\ntriệu đồng/hộ từ ngân sách trung ương;\nb) Cơ chế quản lý, sử dụng, thanh quyết toán kinh\nphí nguồn ngân sách trung ương thực hiện theo hướng dẫn của Bộ Tài chính.\nĐiều 8: Tổ chức thực hiện\n1. Trách nhiệm của Bộ Xây dựng\na) Tổng hợp kết quả thực hiện của các địa phương gửi\nBộ Lao động - Thương binh và Xã hội để tổng hợp báo cáo Chính phủ, Thủ tướng Chính phủ theo quy định;\nb) Đề xuất nguồn vốn và phương án phân bổ kế hoạch\nvốn ngân sách trung ương giai đoạn 2021-2025 và hàng năm thuộc lĩnh vực quản lý gửi Bộ Lao động - Thương binh và Xã hội tổng hợp vào kế hoạch chung theo quy định;\nc) Lập kế hoạch vốn ngân sách trung ương giai đoạn\n2021-2025 và hàng năm để triển khai các hoạt động phục vụ công tác chỉ đạo, điều hành, hướng dẫn thực hiện Chương trình gửi Bộ Lao động - Thương binh và Xã hội tổng hợp theo quy định;\nd) Chủ trì, phối hợp các bộ, ngành, cơ quan trung\nương hướng dẫn các tỉnh có huyện nghèo được cấp có thẩm quyền phê duyệt lập Đề án và tổ chức thực hiện hỗ trợ nhà ở đối với hộ nghèo, hộ cận nghèo trên địa bàn các huyện nghèo thuộc Chương trình mục tiêu quốc gia giảm nghèo bền vững giai đoạn 2021 - 2025 tại địa phương;\nđ) Chủ trì, phối hợp các bộ, ngành, cơ quan trung\nương kiểm tra, giám sát, đôn đốc các tỉnh có huyện nghèo được cấp có thẩm quyền phê duyệt thực hiện chính sách hỗ trợ nhà ở cho hộ nghèo, hộ cận nghèo theo đúng mục tiêu và yêu cầu.\n2. Trách nhiệm của Ủy ban nhân dân cấp tỉnh có huyện\nnghèo được cấp có thẩm quyền phê duyệt\na) Tổ chức thực hiện chính sách hỗ trợ nhà ở cho hộ\nnghèo, hộ cận nghèo trên địa bàn đúng quy định, phù hợp với điều kiện thực tế của địa phương, đảm bảo việc hỗ trợ đúng đối tượng, đúng mục đích và có hiệu quả. Tùy điều kiện thực tế và khả năng cân đối của ngân sách địa phương, quyết định việc hỗ trợ thêm từ ngân sách địa phương góp phần nâng cao chất lượng nhà ở của các hộ nghèo, hộ cận nghèo ngoài nguồn vốn hỗ trợ từ ngân sách trung ương;\nb) Giao Sở Xây dựng chủ trì, phối hợp với Sở Lao động\n- Thương binh và Xã hội và các sở, ban, ngành liên quan tổ chức thực hiện chính sách hỗ trợ nhà ở cho hộ nghèo, hộ cận nghèo trên địa bàn; hướng dẫn các thôn, xã xác định thực trạng về nhà ở và chất lượng về nhà ở sau khi được hỗ trợ;\nc) Tổ chức lập và phê duyệt Đề án hỗ trợ nhà ở cho\nhộ nghèo, hộ cận nghèo trên địa bàn theo quy định tại Khoản 4 Điều 6 Thông tư này;\nd) Chỉ đạo các cơ quan chuyên môn nghiên cứu, thiết\nkế tối thiểu 03 mẫu nhà ở điển hình;\nđ) Chỉ đạo các cơ quan liên quan, các cấp chính quyền\nđịa phương phối hợp với các tổ chức, đoàn thể trên địa bàn, vận động cộng đồng ủng hộ, giúp đỡ hộ nghèo, hộ cận nghèo xây mới hoặc sửa chữa nhà ở;\ne) Kiểm tra, giám sát, đánh giá và định kỳ có báo\ncáo Quý (theo mẫu tại Phụ lục V kèm theo Thông tư này) trước ngày 15 tháng cuối Quý và báo cáo năm (theo mẫu tại Phụ lục VI kèm theo Thông tư này) trước ngày 10 tháng 12 hàng năm kết quả thực hiện gửi Bộ Xây dựng để tổng hợp gửi Bộ Lao động - Thương binh và Xã hội tổng hợp báo cáo Chính phủ, Thủ tướng Chính phủ;\ng) Lập kế hoạch vốn thực hiện chính sách (bao gồm tất\ncả các nguồn vốn), báo cáo tiến độ thực hiện, kết quả giải ngân hàng năm gửi về Bộ Xây dựng, Bộ Lao động Thương binh - Xã hội và các cơ quan có liên quan theo quy định;\nh) Chỉ đạo thực hiện việc tuyên truyền, phổ biến\nchính sách hỗ trợ nhà ở cho hộ nghèo, hộ cận nghèo đến người dân bằng hình thức phù hợp. Tổ chức công bố công khai các tiêu chí, đối tượng được thụ hưởng chính sách.\n3. Trách nhiệm của Ủy ban nhân dân cấp huyện\na) Tổng hợp, phê duyệt theo thẩm quyền danh sách hộ\nnghèo, hộ cận nghèo được hỗ trợ xây mới hoặc sửa chữa nhà ở trên địa bàn theo quy định tại Khoản 3 Điều 6 Thông tư này;\nb) Thường xuyên kiểm tra, giám sát việc thực hiện,\nđảm bảo chính sách đến được từng hộ nghèo, hộ cận nghèo có khó khăn về nhà ở thuộc diện đối tượng được hỗ trợ; không để xảy ra thất thoát, tiêu cực; đảm bảo các hộ nghèo, hộ cận nghèo có nhà ở đạt chất lượng theo quy định sau khi được hỗ trợ.\n4. Trách nhiệm của Ủy ban nhân dân cấp xã\na) Rà soát, thẩm định, tổng hợp danh sách hộ nghèo,\nhộ cận nghèo được hỗ trợ xây mới hoặc sửa chữa nhà ở trình Ủy ban nhân dân cấp huyện tổng hợp phê duyệt theo quy định tại Khoản 2 Điều 6 Thông tư này;\nb) Nghiệm thu, xác nhận khối lượng xây dựng hoàn\nthành theo giai đoạn (hoàn thành phần móng đối với những hộ nghèo, hộ cận nghèo xây dựng mới hoặc hoàn thành từ 30% khối lượng công việc xây dựng trở lên đối với những hộ nghèo, hộ cận nghèo thực hiện sửa chữa nhà ở hiện có) và xác nhận hoàn thành công trình đưa vào sử dụng để làm cơ sở giải ngân vốn hỗ trợ theo quy định;\nc) Ủy ban nhân dân cấp xã chỉ đạo, giám sát các hộ\nnghèo, hộ cận nghèo sử dụng vốn hỗ trợ xây mới hoặc sửa chữa nhà ở đúng mục đích, đảm bảo nhà ở phải được xây dựng hoàn chỉnh để đưa vào sử dụng; vận động các tổ chức, đoàn thể như: Mặt trận Tổ quốc, Hội Liên hiệp phụ nữ, Hội Nông dân, Hội Cựu chiến binh, Đoàn Thanh niên Cộng sản Hồ Chí Minh giúp đỡ các hộ nghèo, hộ cận nghèo xây mới hoặc sửa chữa nhà ở; phát huy cao nhất khả năng huy động nguồn lực từ cộng đồng, các nhà cung ứng vật liệu và hộ gia đình; tận dụng, khai thác vật liệu tại chỗ như cát, đá, sỏi, gỗ theo quy định của pháp luật để đảm bảo giảm giá thành xây dựng nhà ở.\n5. Cục Quản lý nhà và thị trường bất động sản có\ntrách nhiệm giúp Bộ trưởng Bộ Xây dựng hướng dẫn, đôn đốc, kiểm tra tình hình thực hiện hỗ trợ nhà ở cho hộ nghèo, hộ cận nghèo trên địa bàn các huyện nghèo; tổng hợp, báo cáo tình hình thực hiện theo định kỳ và kiến nghị việc sửa đổi, bổ sung để trình Bộ trưởng Bộ Xây dựng xem xét, ban hành theo thẩm quyền hoặc gửi Bộ Lao động - Thương binh và Xã hội tổng hợp báo cáo Chính phủ, Thủ tướng Chính phủ xem xét, quyết định.\nĐiều 9. Điều khoản thi hành\n1. Thông tư này có hiệu lực thi hành từ ngày 15\ntháng 8 năm 2022.\n2. Các Bộ, cơ quan ngang Bộ, Ủy ban nhân dân các cấp,\ntổ chức, cá nhân liên quan chịu trách nhiệm thi hành Thông tư này. Trong quá trình thực hiện, nếu phát sinh vướng mắc, đề nghị phản ánh kịp thời về Bộ Xây dựng để sửa đổi, bổ sung hoặc gửi Bộ Lao động - Thương binh và Xã hội tổng hợp báo cáo Chính phủ, Thủ tướng Chính phủ xem xét, quyết định./.\nNơi nhận:\n- Ban Bí thư Trung ương Đảng;\n- Thủ tướng, các Phó Thủ tướng Chính Phủ;\n- Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ;\n- HĐND, UBND các tỉnh, thành phố trực thuộc TW;\n- Văn phòng Trung ương và các Ban của Đảng;\n- Văn phòng Tổng Bí thư;\n- Văn phòng Quốc hội;\n- Văn phòng Chủ tịch nước;\n- Văn phòng Chính phủ;\n- Hội đồng dân tộc và các Ủy ban của Quốc hội;\n- Tòa án nhân dân tối cao;\n- Viện Kiểm sát nhân dân tối cao;\n- Kiểm toán nhà nước;\n- Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam;\n- Cơ quan Trung ương của các đoàn thể;\n- Cục kiểm tra văn bản QPPL - Bộ Tư pháp;\n- Công báo: Website Chính phủ; Cơ sở dữ liệu quốc gia về VBQPPL; Cổng thông\ntin điện tử Bộ Xây dựng;\n- Bộ Xây dựng: Bộ trưởng, các Thứ trưởng,\ncác đơn vị thuộc Bộ:\n- Sở Xây dựng các tỉnh, thành phố trực thuộc TW;\n- Lưu: VT, PC, Cục QLN (3b).\nKT. BỘ TRƯỞNG\nTHỨ TRƯỞNG\nNguyễn Văn Sinh\nPHỤ LỤC I\n(Kèm theo Thông tư số 01/2022/TT-BXD ngày 30 tháng 6 năm 2022 của Bộ Xây dựng hướng dẫn thực hiện hỗ trợ nhà ở cho hộ nghèo, hộ cận nghèo trên địa bàn các huyện nghèo thuộc Chương trình mục tiêu quốc gia giảm nghèo bền vững giai đoạn 2021-2025)\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc ---------------\nBIÊN BẢN HỌP BÌNH XÉT ĐỐI TƯỢNG ĐƯỢC HỖ TRỢ XÂY MỚI\nHOẶC SỬA CHỮA NHÀ Ở\nThôn:…………………………………. Xã (phường, thị trấn):…………………………………………. Huyện (quận, thị xã): ……………………Tỉnh (thành phố):…………………………………………… Cuộc họp vào hồi…………… giờ………… phút, ngày………..tháng………….năm………………. Địa điểm:…………………………………………………………………………………………………... Thành phần tham gia: - Chủ trì: Ông (bà)…………………………………………, Chức vụ:…………………………………. - Đại diện Ban Chỉ đạo rà soát hộ nghèo, hộ cận nghèo cấp xã: Ông (bà)………………………, Chức vụ:…………………………………………………………………………………………………… - Công chức được giao nhiệm vụ làm công tác giảm nghèo cấp xã: Ông (bà)…………………., Chức vụ:…………………………………………………………………………………………………… - Bí thư Chi bộ thôn: Ông (bà) ………………………………………………………………………….. - Đại diện Mặt trận Tổ quốc xã: Ông (bà ) ………………………, Chức vụ: ………………..……… - Đại diện đoàn thể: Ông (bà) …………………………, Chức vụ: …………………………………… ………………………………………………………………………………………………………………. ………………………………………………………………………………………………………………. ………………………………………………………………………………………………………………. - Thư ký: Ông (bà) ………………………………………………………………………………………. - Số hộ nghèo, hộ cận nghèo tham gia cuộc họp/số hộ nghèo, hộ cận nghèo của thôn: …………………………………………………….………, Tỷ lệ: ………………………………… % Nội dung họp\n1. Cuộc họp đã nghe Ông (bà) …………………………, Chức vụ…………………………\nphổ biến tiêu chí xác định đối tượng được hỗ trợ xây mới hoặc sửa chữa nhà ở cho hộ nghèo, hộ cận nghèo trên địa bàn các huyện nghèo thuộc Chương trình mục tiêu quốc gia giảm nghèo bền vững giai đoạn 2021-2025.\n2. Kết quả bình xét hộ nghèo, hộ cận nghèo được hỗ\ntrợ xây mới hoặc sửa chữa nhà ở:\nTT\nHọ tên chủ hộ Ngày tháng năm được UBND cấp xã phê duyệt là hộ nghèo, hộ cận nghèo Kết quả bình xét (Số người đồng ý/tổng số người tham dự) Thuộc đối tượng ưu tiên\nI\nDanh sách hỗ trợ xây mới nhà ở … …. Tổng cộng: hộ\nII\nDanh sách hỗ trợ sửa chữa nhà ở … …. Tổng cộng: hộ Cuộc họp kết thúc…………giờ……………….phút cùng ngày. Biên bản được lập thành 02 bản, 01 bản lưu thôn, 01 bản lưu UBND xã. Thư ký Đại diện của các hộ nghèo, hộ cận nghèo Đại diện Mặt trận Tổ quốc xã Đại diện các đoàn thể Đại diện BCĐ rà soát cấp xã Công chức được giao làm nhiệm vụ giảm nghèo cấp xã Bí thư Chi bộ thôn Trưởng thôn\nPHỤ LỤC II\n(Kèm theo Thông tư số 01/2022/TT-BXD ngày 30 tháng 6 năm 2022 của Bộ Xây dựng hướng dẫn thực hiện hỗ trợ nhà ở cho hộ nghèo, hộ cận nghèo trên địa bàn các huyện nghèo thuộc Chương trình mục tiêu quốc gia giảm nghèo bền vững giai đoạn 2021-2025)\nUBND HUYỆN.... UBND XÃ.......\n-------\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc --------------- ………………., ngày….. tháng….. năm…….\nBẢNG TỔNG HỢP CAM KẾT THỰC HIỆN XÂY DỰNG MỚI HOẶC SỬA\nCHỮA NHÀ Ở VÀ NHU CẦU HỖ TRỢ CUNG ỨNG VẬT LIỆU XÂY DỰNG (NẾU CÓ NHU CẦU)\nTổng hợp cam kết xây dựng mới hoặc sửa chữa nhà ở của hộ nghèo, hộ cận nghèo và nhu cầu hỗ trợ cung ứng vật liệu xây dựng trên địa bàn thôn ……………\n1. Đối với xây mới nhà ở\nTT\nHọ tên chủ hộ Mẫu nhà áp dụng Đề nghị cung ứng vật liệu để xây mới nhà ở Phương thức xây dựng nhà ở Ký cam kết thực hiện xây mới nhà ở theo quy định Vật liệu chính Đơn vị tính Khối lượng Đề nghị tổ chức, đoàn thể xây dựng nhà ở (1) Tự xây dựng 1 2 …\n2. Đối với sửa chữa nhà ở\nTT\nHọ tên chủ hộ Đề nghị cung ứng vật liệu để sửa chữa nhà ở Phương thức sửa chữa nhà ở Ký cam kết thực hiện sửa chữa nhá ở theo quy định Vật liệu chính Đơn vị tính Khối lượng Đề nghị tổ chức, đoàn thể sửa chữa nhà ở (2) Tự sửa chữa nhà ở 1 2 ….\nTRƯỞNG THÔN MẶT TRẬN TỔ QUỐC XÃ\nUBND XÃ\n_____________________ 1 Chỉ áp dụng đối với hộ nghèo, hộ cận nghèo có thành viên thuộc đối tượng bảo trợ xã hội và hộ nghèo, hộ cận nghèo có hoàn cảnh đặc biệt khó khăn (người cao tuổi, neo đơn, khuyết tật) 2 Chỉ áp dụng đối với hộ nghèo, hộ cận nghèo có thành viên thuộc đối tượng bảo trợ xã hội và hộ nghèo, hộ cận nghèo có hoàn cảnh đặc biệt khó khăn (người cao tuổi, neo đơn, khuyết tật)\nPHỤ LỤC III\n(Kèm theo Thông tư số 01/2022/TT-BXD ngày 30 tháng 6 năm 2022 của Bộ Xây dựng hướng dẫn thực hiện hỗ trợ nhà ở cho hộ nghèo, hộ cận nghèo trên địa bàn các huyện nghèo thuộc Chương trình mục tiêu quốc gia giảm nghèo bền vững giai đoạn 2021-2025)\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc ---------------\nBIÊN BẢN XÁC NHẬN HOÀN THÀNH THEO GIAI ĐOẠN XÂY MỚI\nHOẶC SỬA CHỮA NHÀ Ở\nHôm nay, ngày………..tháng…………năm………………… Tại công trình xây dựng nhà ở:………………………………………………………………………… Địa chỉ tại thôn: ………………………………….Xã (phường, thị trấn) …………………................. Huyện (quận, thị xã) …………………………………Tỉnh (thành phố) …………………………….. Thành phần Ban nghiệm thu xây dựng nhà ở\n1. Đại diện UBND cấp xã\n- Ông (bà) …………………………………………….. Chức vụ ………………………………………\n2. Đại diện Mặt Trận Tổ quốc cấp xã\n- Ông (bà) …………………………………………….. Chức vụ ………………………………………\n3. Đại diện thôn\n- Ông (bà) …………………………………………….. Chức vụ ……………………………………… - Ông (bà) …………………………………………….. Chức vụ ………………………………………\n4. Đại diện hộ nghèo, hộ cận nghèo\n- Ông (bà) ………………………………………………………….……………………………………… Nội dung xác nhận Sau khi kiểm tra, xem xét thực tế phần công việc đã thực hiện của giai đoạn xây dựng phần móng nhà (hoặc hoàn thành từ 30% khối lượng công việc trở lên đối với những hộ nghèo, hộ cận nghèo thực hiện sửa chữa nhà ở hiện có); Ban nghiệm thu xây dựng nhà ở cho hộ nghèo, hộ cận nghèo cấp xã thống nhất nội dung sau:\n1. Về khối lượng;\n- Xác nhận hoàn thành phần móng nhà ở □ - Xác nhận hoàn thành từ 30% khối lượng công việc (đối với hộ nghèo, hộ cận nghèo thực hiện sửa chữa nhà ở hiện có) □\n2. Về chất lượng (Xác nhận việc đạt hay không đạt\nyêu cầu về chất lượng) Đạt □ Không đạt □ Biên bản lập thành 04 bản; 01 bản chủ hộ gia đình lưu trữ; 01 bản gửi phòng Tài chính huyện; 01 bản UBND cấp xã lưu và 01 bản gửi Mặt trận Tổ quốc cấp xã.\nTHÀNH PHẦN THAM GIA XÁC NHẬN\n(Ký, ghi rõ họ tên)\n1. Đại diện UBND cấp xã\n……………………………………………..………………………………..\n2. Đại diện Mặt Trận Tổ quốc cấp xã\n…………………………………………………………………\n3. Đại diện thôn ……………………………………………..……………………………………………\n4. Đại diện hộ nghèo, hộ cận nghèo\n……………………………………………..…\nPHỤ LỤC IV\n(Kèm theo Thông tư số 01/2022/TT-BXD ngày 30 tháng 6 năm 2022 của Bộ Xây dựng hướng dẫn thực hiện hỗ trợ nhà ở cho hộ nghèo, hộ cận nghèo trên địa bàn các huyện nghèo thuộc Chương trình mục tiêu quốc gia giảm nghèo bền vững giai đoạn 2021-2025)\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc ---------------\nBIÊN BẢN XÁC NHẬN HOÀN THÀNH XÂY MỚI HOẶC SỬA CHỮA\nNHÀ Ở CHO HỘ NGHÈO, HỘ CẬN NGHÈO\nHôm nay, ngày……..tháng………năm…………… Tại công trình xây dựng nhà ở:………………………………………………………………………… Địa chỉ tại thôn: ………………………………….Xã (phường, thị trấn) …………………................. Huyện (quận, thị xã) …………………………………Tỉnh (thành phố) …………………………….. Thành phần Ban nghiệm thu xây dựng nhà ở cho hộ nghèo, hộ cận nghèo cấp xã gồm\n1. Đại diện UBND cấp xã\n- Ông (bà) …………………………………………….. Chức vụ ………………………………………\n2. Đại diện Mặt Trận Tổ quốc cấp xã\n- Ông (bà) …………………………………………….. Chức vụ ………………………………………\n3. Đại diện thôn\n- Ông (bà) …………………………………………….. Chức vụ ……………………………………… - Ông (bà) …………………………………………….. Chức vụ ………………………………………\n4. Đại diện hộ nghèo, hộ cận nghèo\n- Ông (bà) ………………………………………………………………………………………………… Nội dung xác nhận Sau khi kiểm tra, xem xét thực tế nhà ở đã xây dựng hoàn thành. Ban nghiệm thu xây dựng nhà ở cho hộ nghèo, hộ cận nghèo cấp xã thống nhất các nội dung sau:\n1. Về khối lượng:\nXác nhận nhà ở xây mới (hoặc sửa chữa nhà ở hiện có) của chủ hộ…………..đã hoàn thành. Diện tích sàn sử dụng…………………..m2.\n2. Về chất lượng (Xác nhận việc đạt hay không đạt\nyêu cầu về chất lượng) Đạt □ Không đạt □ Kết luận Xác nhận công trình đã hoàn thành, đảm bảo chất lượng theo quy định và đồng ý đưa vào sử dụng. Biên bản lập thành 04 bản; 01 bản chủ hộ gia đình lưu trữ; 01 bản gửi phòng Tài chính huyện; 01 bản UBND cấp xã tổng hợp, lập hồ sơ hoàn thành công trình gửi UBND huyện và 01 bản gửi Mặt trận Tổ quốc cấp xã.\nTHÀNH PHẦN THAM GIA XÁC NHẬN\n(Ký, ghi rõ họ tên)\n1. Đại diện UBND cấp xã\n……………………………………………..………………………………..\n2. Đại diện Mặt Trận Tổ quốc cấp xã\n…………………………………………………………………\n3. Đại diện thôn\n……………………………………………..……………………………………………\n4. Đại diện hộ nghèo, hộ cận nghèo\n……………………………………………..…\nPHỤ LỤC V\n(Kèm theo Thông tư số 01/2022/TT-BXD ngày 30 tháng 6 năm 2022 của Bộ Xây dựng hướng dẫn thực hiện hỗ trợ nhà ở cho hộ nghèo, hộ cận nghèo trên địa bàn các huyện nghèo thuộc Chương trình mục tiêu quốc gia giảm nghèo bền vững giai đoạn 2021-2025)\nUBND TỈNH…………… BÁO CÁO HÀNG QUÝ\nKết quả thực hiện chính sách hỗ trợ nhà ở cho hộ nghèo, hộ cận nghèo trên địa bàn các huyện nghèo thuộc Chương trình mục tiêu quốc gia giảm nghèo bền vững giai đoạn 2021-2025 Quý……….năm……….. I. Về số liệu thực hiện\nTT\nNội dung Đơn vị Kế hoạch hỗ trợ tại địa phương Kết quả thực hiện trong Quý Lũy kế thực hiện từ đầu Chương trình Kế hoạch Quý tiếp theo Ghi chú Tổng số Hộ nghèo Hộ cận nghèo Tổng số Hộ nghèo Hộ cận nghèo Tổng số Hộ nghèo Hộ cận nghèo 1 Hộ xây mới nhà ở hộ Trong đó: - Hộ nghèo dân tộc thiểu số hộ - Hộ nghèo có thành viên là người có công với cách mạng hộ - Hộ nghèo, hộ cận nghèo có thành viên thuộc đối tượng bảo trợ xã hội hộ - Hộ nghèo, hộ cận nghèo có hoàn cảnh đặc biệt khó khăn (người cao tuổi, neo đơn, khuyết tật) hộ - Hộ nghèo, hộ cận nghèo thuộc vùng thường xuyên xảy ra thiên tai hộ - Hộ nghèo, hộ cận nghèo còn lại hộ 2 Hộ sửa chữa nhà ở hộ Trong đó: - Hộ nghèo dân tộc thiểu số hộ - Hộ nghèo có thành viên là người có công với cách mạng hộ - Hộ nghèo, hộ cận nghèo có thành viên thuộc đối tượng bảo trợ xã hội hộ - Hộ nghèo, hộ cận nghèo có hoàn cảnh đặc biệt khó khăn (người cao tuổi, neo đơn, khuyết tật) hộ - Hộ nghèo, hộ cận nghèo thuộc vùng thường xuyên xảy ra thiên tai hộ - Hộ nghèo, hộ cận nghèo còn lại hộ 3 Tổng số vốn huy động triệu đồng Trong đó: - Ngân sách Trung ương triệu đồng - Ngân sách địa phương triệu đồng - Vốn huy động hợp pháp khác triệu đồng 4 Kết quả giải ngân vốn hỗ trợ triệu đồng Trong đó: - Ngân sách Trung ương triệu đồng - Ngân sách địa phương triệu đồng - Vốn huy động hợp pháp khác triệu đồng II. Về khó khăn, vướng mắc III. Kiến nghị (nếu có)\nNGƯỜI LẬP\n(Họ tên, số điện thoại, email)\nTM. UBND TỈNH CHỦ TỊCH\n(Ký tên, đóng dấu)\nPHỤ LỤC VI\nMẪU BÁO CÁO CỦA UBND CẤP TỈNH\n(Kèm theo Thông tư số 01/2022/TT-BXD ngày 30 tháng 6 năm 2022 của Bộ Xây dựng hướng dẫn thực hiện hỗ trợ nhà ở cho hộ nghèo, hộ cận nghèo trên địa bàn các huyện nghèo thuộc Chương trình mục tiêu quốc gia giảm nghèo bền vững giai đoạn 2021-2025)\nĐỀ CƯƠNG BÁO CÁO ĐỊNH KỲ HÀNG NĂM\nKết quả thực hiện chính sách hỗ trợ nhà ở cho hộ nghèo, hộ cận nghèo trên địa bàn các huyện nghèo thuộc Chương trình mục tiêu quốc gia giảm nghèo bền vững giai đoạn 2021-2025 Năm……… I. Công tác chỉ đạo điều hành II. Kết quả thực hiện chính sách\n1. Số hộ đã được hỗ trợ xây mới nhà ở\nSố lượng nhà ở xây dựng mới lũy kế đến thời điểm báo cáo đã được hỗ trợ ………….căn, tương đương ………% so với số lượng nhà ở đã được phê duyệt tại Đề án của tỉnh. Trong đó - Hộ nghèo dân tộc thiểu số………căn. - Hộ nghèo có thành viên là người có công với cách mạng………căn. - Hộ nghèo, hộ cận nghèo có thành viên thuộc đối tượng bảo trợ xã hội…………căn. - Hộ nghèo, hộ cận nghèo có hoàn cảnh đặc biệt khó khăn (người cao tuổi, neo đơn, khuyết tật) …………căn. - Hộ nghèo, hộ cận nghèo thuộc vùng thường xuyên xảy ra thiên tai…………căn. - Hộ nghèo, hộ cận nghèo còn lại…………căn.\n2. Số hộ đã được hỗ trợ sửa chữa nhà ở\nSố lượng nhà ở sửa chữa lũy kế đến thời điểm báo cáo đã được hỗ trợ…………căn, tương đương % so với số lượng nhà ở đã được phê duyệt tại Đề án của tỉnh. Trong đó: - Hộ nghèo dân tộc thiểu số……………căn. - Hộ nghèo có thành viên là người có công với cách mạng…………căn. - Hộ nghèo, hộ cận nghèo có thành viên thuộc đối tượng bảo trợ xã hội…………căn. - Hộ nghèo, hộ cận nghèo có hoàn cảnh đặc biệt khó khăn (người cao tuổi, neo đơn, khuyết tật) …………căn. - Hộ nghèo, hộ cận nghèo thuộc vùng thường xuyên xảy ra thiên tai …………căn. - Hộ nghèo, hộ cận nghèo còn lại…………căn.\n3. Tổng số vốn huy động để thực hiện hỗ trợ\nxây mới nhà ở cho hộ nghèo, hộ cận nghèo Trong đó: - Vốn ngân sách Trung ương……………………………………………………………………………. - Vốn ngân sách địa phương……………………………………………………………………………. - Vốn huy động hợp pháp khác…………………………………………………………………………\n4. Tổng số vốn huy động để thực hiện hỗ trợ sửa\nchữa nhà ở cho hộ nghèo, hộ cận nghèo Trong đó: - Vốn ngân sách Trung ương……………………………………………………………………………. - Vốn ngân sách địa phương……………………………………………………………………………. - Vốn huy động hợp pháp khác…………………………………………………………………………\n5. Tổng số vốn đã được giải ngân để thực hiện\nhỗ trợ xây mới nhà ở cho hộ nghèo, hộ cận nghèo Trong đó: - Vốn ngân sách Trung ương……………………………………………………………………………. - Vốn ngân sách địa phương……………………………………………………………………………. - Vốn huy động hợp pháp khác…………………………………………………………………………\n6. Tổng số vốn đã được giải ngân để thực hiện\nhỗ trợ sửa chữa nhà ở cho hộ nghèo, hộ cận nghèo Trong đó: - Vốn ngân sách Trung ương……………………………………………………………………………. - Vốn ngân sách địa phương……………………………………………………………………………. - Vốn huy động hợp pháp khác…………………………………………………………………………\n7. Công tác triển khai hỗ trợ nhà ở cho hộ\nnghèo, hộ cận nghèo - Về cách thức thực hiện hỗ trợ………………………………………………………………………… - Về chất lượng nhà ở, vật liệu làm nhà ở, diện tích………………………………………………… III. Những tồn tại, vướng mắc trong quá trình triển khai thực hiện\n1. Tồn tại, vướng mắc\n2. Nguyên nhân\nIV. Đề xuất, kiến nghị của địa phương\nNơi nhận:\nTM. UBND TỈNH\nCHỦ TỊCH\n(Ký tên, đóng dấu)\nPHỤ LỤC VII\n(Kèm theo Thông tư số 01/2022/TT-BXD ngày 30 tháng 6 năm 2022 của Bộ Xây dựng hướng dẫn thực hiện hỗ trợ nhà ở cho hộ nghèo, hộ cận nghèo trên địa bàn các huyện nghèo thuộc Chương trình mục tiêu quốc gia giảm nghèo bền vững giai đoạn 2021-2025)\nĐỀ CƯƠNG\nXây dựng Đề án hỗ trợ nhà ở cho hộ nghèo, hộ cận nghèo trên địa bàn các huyện nghèo thuộc Chương trình mục tiêu quốc gia giảm nghèo bền vững giai đoạn 2021-2025\nUBND TỈNH……….\n-------\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc ---------------\nĐỀ ÁN HỖ TRỢ NHÀ Ở CHO\nHỘ NGHÈO, HỘ CẬN NGHÈO TRÊN ĐỊA BÀN CÁC HUYỆN NGHÈO THUỘC CHƯƠNG TRÌNH MỤC TIÊU\nQUỐC GIA GIẢM NGHÈO BỀN VỮNG GIAI ĐOẠN 2021-2025\nI. MỞ ĐẦU\nII. ĐÁNH GIÁ THỰC TRẠNG NHÀ Ở ĐỐI VỚI HỘ NGHÈO,\nHỘ CẬN NGHÈO TRÊN ĐỊA BÀN TỈNH\n1. Nhận xét, đánh giá thực trạng nhà ở đối với hộ\nnghèo, hộ cận nghèo trên địa bàn tỉnh\na) Về số lượng nhà ở\nb) Về chất lượng nhà ở\n2. Đánh giá tác động của các yếu tố khí hậu đối với\nnhà ở về đảm bảo an toàn khi xảy ra bão, tố, lốc trên địa bàn tỉnh\n3. Nhận xét, đánh giá chung về thực hiện các chính\nsách hỗ trợ nhà ở đối với hộ nghèo, hộ cận nghèo đã và đang thực hiện tại địa phương\na) Về ưu điểm\nb) Về các hạn chế, tồn tại (phân tích nguyên nhân\nvà biện pháp khắc phục)\nIII. ĐÁNH GIÁ PHƯƠNG THỨC HUY ĐỘNG VÀ QUẢN LÝ\nNGUỒN LỰC CỦA ĐỊA PHƯƠNG ĐÃ THỰC HIỆN NHẰM HỖ TRỢ NHÀ Ở ĐỐI VỚI HỘ NGHÈO, HỘ CẬN\nNGHÈO\n1. Về phương thức huy động nguồn lực\n2. Về quản lý nguồn lực của địa phương trong quá\ntrình thực hiện hỗ trợ nhà ở đối với hộ nghèo, hộ cận nghèo\n3. Về thực hiện việc quản lý sử dụng, cấp phát,\nthanh toán nguồn vốn cấp, vay tín dụng ưu đãi cũng như các nguồn vốn huy động khác\n4. Về cách thức hỗ trợ (người dân tự làm hoặc do\ncác tổ chức, doanh nghiệp xây dựng sau đó bàn giao cho hộ dân...)\n5. Đánh giá chung về việc thực hiện huy động và quản\nlý nguồn lực của địa phương trong quá trình thực hiện các chính sách hỗ trợ nhà ở đối với hộ nghèo, hộ cận nghèo đã thực hiện trong thời gian qua\nIV. MỘT SỐ NỘI DUNG CỤ THỂ CỦA ĐỀ ÁN\n1. Mục tiêu, nguyên tắc hỗ trợ\n2. Yêu cầu về diện tích và chất lượng nhà ở\n3. Đối tượng được hỗ trợ nhà ở\n4. Phạm vi áp dụng\n5. Xác định số lượng hộ nghèo, hộ cận nghèo cần hỗ\ntrợ xây mới hoặc sửa chữa nhà ở trên địa bàn tỉnh\na) Tổng số hộ nghèo thuộc diện đối tượng được hỗ trợ\nxây mới hoặc sửa chữa nhà ở (tính đến thời điểm Chương trình mục tiêu quốc gia giảm nghèo bền vững giai đoạn 2021-2025 có hiệu lực thi hành): ……..hộ.\nb) Tổng số hộ cận nghèo thuộc diện đối tượng được hỗ\ntrợ xây mới hoặc sửa chữa nhà ở (tính đến thời điểm Chương trình mục tiêu quốc gia giảm nghèo bền vững giai đoạn 2021-2025 có hiệu lực thi hành): ……..hộ.\n6. Phân loại đối tượng ưu liên\na) Hộ nghèo dân tộc thiểu số………..căn.\nb) Hộ nghèo có thành viên là người có công với cách\nmạng………..căn.\nc) Hộ nghèo, hộ cận nghèo có thành viên thuộc đối\ntượng bảo trợ xã hội: ………..hộ\nd) Hộ nghèo, hộ cận nghèo có hoàn cảnh đặc biệt khó\nkhăn (người cao tuổi, neo đơn, khuyết tật): ………..hộ\nđ) Hộ nghèo, hộ cận nghèo thuộc vùng thường xuyên xảy\nra thiên tai: ………..hộ\ne) Các hộ nghèo, hộ cận nghèo còn lại: ……..hộ\n7. Nguồn vốn thực hiện\nCác nguồn vốn quy định tại Quyết định số 90/QĐ-TTg ngày 18 tháng 01 năm 2022 của Thủ tướng Chính phủ phê duyệt Chương trình mục tiêu quốc gia giảm nghèo bền vững giai đoạn 2021-2025.\n8. Xác định tổng số vốn thực hiện và phân khai nguồn\nvốn thực hiện Tổng số vốn cần có để thực hiện: ………..tỷ đồng - Vốn ngân sách Trung ương: ………..tỷ đồng - Vốn ngân sách địa phương: ………..tỷ đồng - Các nguồn vốn hợp pháp khác: ………..tỷ đồng\n9. Cách thức thực hiện\na) Bình xét và phê duyệt danh sách hộ nghèo, hộ cận\nnghèo được hỗ trợ nhà ở\nb) Cấp vốn ngân sách Trung ương hỗ trợ làm nhà ở\nc) Thực hiện xây dựng nhà ở\n10. Tiến độ thực hiện\n11. Tiến độ huy động vốn hàng năm\na) Năm 2022:\nb) Năm 2023:\nc) Năm 2024:\nd) Năm 2025:\n12. Tổ chức thực hiện\nỦy ban nhân dân tỉnh\na) Chỉ đạo thực hiện việc rà soát, bình xét, lập\ndanh sách, phân loại đối tượng ưu tiên theo quy định; lập, phê duyệt Đề án và tổ chức thực hiện chính sách hỗ trợ nhà ở cho hộ nghèo, hộ cận nghèo trên địa bàn tỉnh, gửi Bộ Xây dựng và các Bộ, ngành liên quan; giao các cơ quan chuyên môn thiết kế mẫu nhà ở phù hợp và giới thiệu rộng rãi để nhân dân lựa chọn.\nb) Cụ thể hóa các nhiệm vụ Thủ tướng Chính phủ giao\ncác địa phương tại Quyết định số 90/QĐ-TTg ngày 18 tháng 01 năm 2022 của Thủ tướng Chính phủ phê duyệt Chương trình mục tiêu quốc gia giảm nghèo bền vững giai đoạn 2021-2025.\nc) Phân giao nhiệm vụ cụ thể cho các Sở, ban, ngành\nliên quan và các địa phương của tỉnh.\nV. KẾT LUẬN VÀ KIẾN NGHỊ\n1. Kết luận\n2. Kiến nghị\n………..ngày…….tháng……năm\nTM. ỦY BAN NHÂN DÂN TỈNH",
+  "tree": {
+    "parts": [
+      {
+        "part_id": "doc:225809:part:1",
+        "part_type": "main",
+        "part_title": null,
+        "reference": null,
+        "direct_text": "THÔNG TƯ HƯỚNG\nDẪN THỰC HIỆN HỖ TRỢ NHÀ Ở CHO HỘ NGHÈO, HỘ CẬN NGHÈO TRÊN ĐỊA BÀN CÁC HUYỆN\nNGHÈO THUỘC CHƯƠNG TRÌNH MỤC TIÊU QUỐC GIA GIẢM NGHÈO BỀN VỮNG GIAI ĐOẠN\n2021-2025 Căn cứ Luật Nhà ở ngày 25 tháng 11 năm 2014; Căn cứ Nghị quyết số 24/2021/QH15 ngày 28 tháng 7 năm 2021 của Quốc hội phê duyệt chủ trương đầu tư Chương trình mục tiêu quốc gia giảm nghèo bền vững giai đoạn 2021-2025; Căn cứ Nghị định số 81/2017/NĐ-CP ngày 17 tháng 7 năm 2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Xây dựng; Căn cứ Nghị định số 07/2021/NĐ-CP ngày 27 tháng 01 năm 2021 của Chính phủ quy định chuẩn nghèo đa chiều giai đoạn 2021-2025; Căn cứ Nghị định số 27/2022/NĐ-CP ngày 19 tháng 4 năm 2022 của Chính phủ quy định cơ chế quản lý, tổ chức thực hiện các Chương trình mục tiêu quốc gia; Căn cứ Quyết định số 02/2022/QĐ-TTg ngày 18 tháng 01 năm 2022 của Thủ tướng Chính phủ quy định nguyên tắc, tiêu chí, định mức phân bổ vốn ngân sách trung ương và tỷ lệ vốn đối ứng của ngân sách địa phương thực hiện Chương trình mục tiêu quốc gia giảm nghèo bền vững giai đoạn 2021-2025; Theo đề nghị của Cục trưởng Cục Quản lý nhà và thị trường bất động sản; Bộ trưởng Bộ Xây dựng ban hành Thông tư hướng dẫn thực hiện hỗ trợ nhà ở cho hộ nghèo, hộ cận nghèo trên địa bàn các huyện nghèo thuộc Chương trình mục tiêu quốc gia giảm nghèo bền vững giai đoạn 2021-2025 để thực hiện Quyết định số 90/QĐ-TTg ngày 18 tháng 01 năm 2022 của Thủ tướng Chính phủ phê duyệt Chương trình mục tiêu quốc gia giảm nghèo bền vững giai đoạn 2021-2025.",
+        "chapters": [],
+        "sections": [],
+        "articles": [
+          {
+            "article_id": "doc:225809:part:1:article:1",
+            "number": "1",
+            "title": "Phạm vi điều chỉnh và đối tượng áp dụng",
+            "content": "Điều 1: Phạm vi điều chỉnh và đối tượng áp dụng",
+            "clauses": [
+              {
+                "clause_id": "doc:225809:part:1:article:1:clause:1",
+                "number": "1",
+                "content": "1. Phạm vi điều chỉnh\nThông tư này hướng dẫn việc xác định đối tượng, nguyên tắc, tiêu chí, chất lượng và việc tổ chức triển khai thực hiện hỗ trợ nhà ở cho hộ nghèo, hộ cận nghèo trên địa bàn các huyện nghèo được phê duyệt tại Quyết định số 353/QĐ-TTg ngày 15 tháng 3 năm 2022 của Thủ tướng Chính phủ phê duyệt danh sách huyện nghèo, xã đặc biệt khó khăn vùng bãi ngang, ven biển và hải đảo giai đoạn 2021-2025.",
+                "points": []
+              },
+              {
+                "clause_id": "doc:225809:part:1:article:1:clause:2",
+                "number": "2",
+                "content": "2. Đối tượng áp dụng",
+                "points": [
+                  {
+                    "point_id": "doc:225809:part:1:article:1:clause:2:point:1",
+                    "label": "a",
+                    "content": "a) Hộ nghèo, hộ cận nghèo (theo chuẩn nghèo đa chiều\ngiai đoạn 2021-2025) trong danh sách hộ nghèo, hộ cận nghèo do Ủy ban nhân dân cấp xã quản lý, đang cư trú trên địa bàn huyện nghèo và là hộ độc lập có thời gian tách hộ đến khi Chương trình mục tiêu quốc gia giảm nghèo bền vững giai đoạn 2021-2025 (sau đây viết tắt là Chương trình) có hiệu lực thi hành tối thiểu 03 năm;",
+                    "children": []
+                  },
+                  {
+                    "point_id": "doc:225809:part:1:article:1:clause:2:point:2",
+                    "label": "b",
+                    "content": "b) Đối tượng thụ hưởng hỗ trợ\nnhà ở không bao gồm các hộ đã được hỗ trợ nhà ở thuộc Chương trình mục tiêu quốc gia phát triển kinh tế - xã hội vùng đồng bào dân tộc thiểu số và miền núi giai đoạn 2021-2030 và các chương trình, đề án, chính sách khác;",
+                    "children": []
+                  },
+                  {
+                    "point_id": "doc:225809:part:1:article:1:clause:2:point:3",
+                    "label": "c",
+                    "content": "c) Các cơ quan, tổ chức, cá nhân có liên quan.",
+                    "children": []
+                  }
+                ]
+              }
+            ],
+            "points": []
+          },
+          {
+            "article_id": "doc:225809:part:1:article:2",
+            "number": "2",
+            "title": "Nguyên tắc thực hiện",
+            "content": "Điều 2. Nguyên tắc thực hiện",
+            "clauses": [
+              {
+                "clause_id": "doc:225809:part:1:article:2:clause:1",
+                "number": "1",
+                "content": "1. Bảo đảm công khai, dân chủ, phát huy quyền làm\nchủ và sự tham gia tích cực, chủ động của cộng đồng và người dân. Ưu tiên sử dụng nguyên vật liệu địa phương và sử dụng lao động tại chỗ để thực hiện hỗ trợ nhà ở cho hộ nghèo, hộ cận nghèo trên địa bàn các huyện nghèo thuộc Chương trình.",
+                "points": []
+              },
+              {
+                "clause_id": "doc:225809:part:1:article:2:clause:2",
+                "number": "2",
+                "content": "2. Phân quyền, phân cấp cho địa phương trong xây dựng,\ntổ chức thực hiện phù hợp với điều kiện, đặc điểm, bản sắc văn hóa, phong tục tập quán của dân tộc, các vùng miền gắn với củng cố quốc phòng, an ninh.",
+                "points": []
+              },
+              {
+                "clause_id": "doc:225809:part:1:article:2:clause:3",
+                "number": "3",
+                "content": "3. Hỗ trợ trực tiếp đến từng hộ nghèo, hộ cận\nnghèo. Ưu tiên hỗ trợ hộ nghèo dân tộc thiểu số và hộ nghèo có thành viên là người có công với cách mạng.",
+                "points": []
+              },
+              {
+                "clause_id": "doc:225809:part:1:article:2:clause:4",
+                "number": "4",
+                "content": "4. Huy động từ nhiều nguồn vốn để thực hiện, kết hợp\ngiữa Nhà nước và nhân dân cùng làm theo nguyên tắc: Nhà nước hỗ trợ, cộng đồng giúp đỡ, hộ gia đình tự tổ chức xây dựng nhà ở.",
+                "points": []
+              },
+              {
+                "clause_id": "doc:225809:part:1:article:2:clause:5",
+                "number": "5",
+                "content": "5. Tăng cường thanh tra, kiểm tra, giám sát, đánh\ngiá việc thực hiện hỗ trợ nhà ở cho hộ nghèo, hộ cận nghèo trên địa bàn các huyện nghèo ở các cấp, các ngành. Có biện pháp phòng ngừa, kịp thời ngăn chặn các biểu hiện tiêu cực và xử lý nghiêm hành vi tham nhũng, lãng phí và các vi phạm trong quá trình thực hiện.",
+                "points": []
+              }
+            ],
+            "points": []
+          },
+          {
+            "article_id": "doc:225809:part:1:article:3",
+            "number": "3",
+            "title": "Tiêu chí được hỗ trợ nhà ở Hộ nghèo, hộ cận nghèo được hỗ trợ nhà ở thuộc một trong các trường hợp sau:",
+            "content": "Điều 3. Tiêu chí được hỗ trợ nhà ở Hộ nghèo, hộ cận nghèo được hỗ trợ nhà ở thuộc một trong các trường hợp sau:",
+            "clauses": [
+              {
+                "clause_id": "doc:225809:part:1:article:3:clause:1",
+                "number": "1",
+                "content": "1. Hộ nghèo, hộ cận nghèo chưa có nhà ở hoặc nhà ở\nthuộc loại không bền chắc (trong ba kết cấu chính là nền - móng, khung - tường, mái thì có ít nhất hai kết cấu được làm bằng vật liệu không bền chắc).",
+                "points": []
+              },
+              {
+                "clause_id": "doc:225809:part:1:article:3:clause:2",
+                "number": "2",
+                "content": "2. Diện tích nhà ở bình quân đầu người của hộ\nnghèo, hộ cận nghèo nhỏ hơn 8m2.",
+                "points": []
+              },
+              {
+                "clause_id": "doc:225809:part:1:article:3:clause:3",
+                "number": "3",
+                "content": "3. Chưa được hỗ trợ nhà ở từ các chương trình, đề\nán, chính sách hỗ trợ của Nhà nước, các tổ chức chính trị - xã hội hoặc tổ chức xã hội khác.",
+                "points": []
+              }
+            ],
+            "points": []
+          },
+          {
+            "article_id": "doc:225809:part:1:article:4",
+            "number": "4",
+            "title": "Yêu cầu chất lượng về nhà ở sau khi được hỗ trợ",
+            "content": "Điều 4: Yêu cầu chất lượng về nhà ở sau khi được hỗ trợ",
+            "clauses": [
+              {
+                "clause_id": "doc:225809:part:1:article:4:clause:1",
+                "number": "1",
+                "content": "1. Sau khi được hỗ trợ xây mới hoặc sửa chữa, nhà ở\nphải đảm bảo diện tích sử dụng tối thiểu 30m2, đảm bảo “3 cứng” (nền - móng cứng, khung - tường cứng, mái cứng) và tuổi thọ căn nhà từ 20 năm trở lên.",
+                "points": []
+              },
+              {
+                "clause_id": "doc:225809:part:1:article:4:clause:2",
+                "number": "2",
+                "content": "2. Các bộ phận nền - móng, khung - tường, mái của\ncăn nhà phải được làm từ các loại vật liệu có chất lượng tốt, không làm từ các loại vật liệu tạm, mau hỏng, dễ cháy. Cụ thể:",
+                "points": [
+                  {
+                    "point_id": "doc:225809:part:1:article:4:clause:2:point:1",
+                    "label": "a",
+                    "content": "a) “Nền - móng cứng” là nền - móng nhà làm bằng các\nloại vật liệu có tác dụng làm tăng độ cứng của nền như: vữa xi măng - cát, bê tông, bê tông cốt thép, xây gạch/đá, gạch lát, gỗ;",
+                    "children": []
+                  },
+                  {
+                    "point_id": "doc:225809:part:1:article:4:clause:2:point:2",
+                    "label": "b",
+                    "content": "b) “Khung - tường cứng” bao gồm hệ thống khung, cột,\ntường. Tùy điều kiện cụ thể, khung, cột được làm từ các loại vật liệu: bê tông cốt thép, sắt, thép, gỗ bền chắc; tường xây gạch/đá hoặc làm từ gỗ bền chắc;",
+                    "children": []
+                  },
+                  {
+                    "point_id": "doc:225809:part:1:article:4:clause:2:point:3",
+                    "label": "c",
+                    "content": "c) “Mái cứng” gồm hệ thống đỡ mái và mái lợp. Tùy\nđiều kiện cụ thể, hệ thống đỡ mái có thể làm từ các loại vật liệu: bê tông cốt thép, sắt, thép, gỗ bền chắc. Mái làm bằng bê tông cốt thép, lợp ngói. Trường hợp mái bằng tôn lợp giả ngói, tôn lạnh, tôn cách nhiệt, tôn cán sóng và có kết cấu đỡ chắc chắn (khung sắt, gỗ...) liên kết bền chặt với tường xây, cột bê tông cốt thép thì mái tôn trong trường hợp này được coi là vật liệu bền chắc; Tùy điều kiện thực tế, các bộ phận nhà ở có thể làm bằng các loại vật liệu có chất lượng tương đương có sẵn tại địa phương đáp ứng tiêu chuẩn, quy chuẩn kỹ thuật, đảm bảo thời hạn sử dụng. Ủy ban nhân dân các tỉnh (hoặc ủy quyền cho Sở Xây dựng) quy định chủng loại vật liệu địa phương cụ thể (nếu có), báo cáo Bộ Xây dựng xem xét, quyết định.",
+                    "children": []
+                  }
+                ]
+              }
+            ],
+            "points": []
+          },
+          {
+            "article_id": "doc:225809:part:1:article:5",
+            "number": "5",
+            "title": "Thứ tự ưu tiên hỗ trợ nhà ở",
+            "content": "Điều 5: Thứ tự ưu tiên hỗ trợ nhà ở",
+            "clauses": [
+              {
+                "clause_id": "doc:225809:part:1:article:5:clause:1",
+                "number": "1",
+                "content": "1. Ưu tiên hỗ trợ trước cho các đối tượng theo thứ\ntự sau đây:",
+                "points": [
+                  {
+                    "point_id": "doc:225809:part:1:article:5:clause:1:point:1",
+                    "label": "a",
+                    "content": "a) Hộ nghèo dân tộc thiểu số;",
+                    "children": []
+                  },
+                  {
+                    "point_id": "doc:225809:part:1:article:5:clause:1:point:2",
+                    "label": "b",
+                    "content": "b) Hộ nghèo có thành viên là người có công với cách\nmạng;",
+                    "children": []
+                  },
+                  {
+                    "point_id": "doc:225809:part:1:article:5:clause:1:point:3",
+                    "label": "c",
+                    "content": "c) Hộ nghèo, hộ cận nghèo có thành viên thuộc đối\ntượng bảo trợ xã hội;",
+                    "children": []
+                  },
+                  {
+                    "point_id": "doc:225809:part:1:article:5:clause:1:point:4",
+                    "label": "d",
+                    "content": "d) Hộ nghèo, hộ cận nghèo có hoàn cảnh đặc biệt khó\nkhăn (người cao tuổi, neo đơn, khuyết tật);",
+                    "children": []
+                  },
+                  {
+                    "point_id": "doc:225809:part:1:article:5:clause:1:point:5",
+                    "label": "đ",
+                    "content": "đ) Hộ nghèo, hộ cận nghèo thuộc vùng thường xuyên xảy\nra thiên tai;",
+                    "children": []
+                  },
+                  {
+                    "point_id": "doc:225809:part:1:article:5:clause:1:point:6",
+                    "label": "e",
+                    "content": "e) Các hộ nghèo, hộ cận nghèo còn lại.",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "clause_id": "doc:225809:part:1:article:5:clause:2",
+                "number": "2",
+                "content": "2. Đối với các hộ nghèo, hộ cận nghèo có cùng mức độ\nưu tiên, việc hỗ trợ được thực hiện theo thứ tự sau:",
+                "points": [
+                  {
+                    "point_id": "doc:225809:part:1:article:5:clause:2:point:1",
+                    "label": "a",
+                    "content": "a) Hộ nghèo, hộ cận nghèo có nhà ở hư hỏng, dột nát\n(làm bằng các vật liệu nhanh hỏng, chất lượng thấp) có nguy cơ sập đổ, không đảm bảo an toàn;",
+                    "children": []
+                  },
+                  {
+                    "point_id": "doc:225809:part:1:article:5:clause:2:point:2",
+                    "label": "b",
+                    "content": "b) Hộ nghèo, hộ cận nghèo chưa có nhà ở (là hộ\nnghèo, hộ cận nghèo chưa có nhà ở riêng, hiện đang ở cùng bố mẹ nhưng đã tách hộ, ở nhờ nhà của người khác, thuê nhà ở - trừ trường hợp được thuê nhà ở thuộc sở hữu nhà nước);",
+                    "children": []
+                  },
+                  {
+                    "point_id": "doc:225809:part:1:article:5:clause:2:point:3",
+                    "label": "c",
+                    "content": "c) Hộ nghèo, hộ cận nghèo có đông nhân khẩu.",
+                    "children": []
+                  }
+                ]
+              }
+            ],
+            "points": []
+          },
+          {
+            "article_id": "doc:225809:part:1:article:6",
+            "number": "6",
+            "title": "Trình tự xây dựng Đề án hỗ trợ nhà ở",
+            "content": "Điều 6: Trình tự xây dựng Đề án hỗ trợ nhà ở",
+            "clauses": [
+              {
+                "clause_id": "doc:225809:part:1:article:6:clause:1",
+                "number": "1",
+                "content": "1. Tại cấp thôn và tương đương (viết tắt là cấp\nthôn)",
+                "points": [
+                  {
+                    "point_id": "doc:225809:part:1:article:6:clause:1:point:1",
+                    "label": "a",
+                    "content": "a) Công chức được giao nhiệm vụ làm công tác giảm\nnghèo cấp xã phối hợp Trưởng thôn tổ chức họp để phổ biến nội dung chính sách hỗ trợ nhà ở đối với hộ nghèo, hộ cận nghèo theo quy định tại Quyết định số 90/QĐ-TTg ngày 18 tháng 01 năm 2022 của Thủ tướng Chính phủ phê duyệt Chương trình mục tiêu quốc gia giảm nghèo bền vững giai đoạn 2021-2025 và Thông tư này đến các hộ dân; lập danh sách hộ nghèo, hộ cận nghèo có nhu cầu hỗ trợ xây mới hoặc sửa chữa nhà ở;",
+                    "children": []
+                  },
+                  {
+                    "point_id": "doc:225809:part:1:article:6:clause:1:point:2",
+                    "label": "b",
+                    "content": "b) Trên cơ sở danh sách hộ nghèo, hộ cận nghèo có\nnhu cầu hỗ trợ xây mới hoặc sửa chữa nhà ở, tổ chức bình xét, đề xuất danh sách các hộ nghèo, hộ cận nghèo được hỗ trợ về nhà ở (theo mẫu tại Phụ lục I kèm theo Thông tư này) gửi về Ủy ban nhân dân cấp xã để xem xét, rà soát. Cuộc họp bao gồm Ban chỉ đạo rà soát hộ nghèo, hộ cận nghèo cấp xã, công chức được giao nhiệm vụ làm công tác giảm nghèo cấp xã, Trưởng thôn (chủ trì họp), Bí thư Chi bộ thôn, Hội Liên hiệp phụ nữ, Hội Nông dân, Hội Cựu chiến binh, Đoàn Thanh niên Cộng sản Hồ Chí Minh và đại diện của các hộ nghèo, hộ cận nghèo trong thôn; mời đại diện Mặt trận Tổ quốc Việt Nam cấp xã giám sát;",
+                    "children": []
+                  },
+                  {
+                    "point_id": "doc:225809:part:1:article:6:clause:1:point:3",
+                    "label": "c",
+                    "content": "c) Hộ được đưa vào danh sách đề nghị hỗ trợ phải được\ntrên 50% số người tham dự cuộc hợp đồng ý (theo hình thức biểu quyết giơ tay hoặc bỏ phiếu kín).",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "clause_id": "doc:225809:part:1:article:6:clause:2",
+                "number": "2",
+                "content": "2. Tại cấp xã",
+                "points": [
+                  {
+                    "point_id": "doc:225809:part:1:article:6:clause:2:point:1",
+                    "label": "a",
+                    "content": "a) Ủy ban nhân dân cấp xã niêm yết công khai danh\nsách các hộ nghèo, hộ cận nghèo được đề xuất hỗ trợ xây mới hoặc sửa chữa nhà ở tại nhà văn hóa hoặc nhà sinh hoạt cộng đồng thôn và trụ sở Ủy ban nhân dân cấp xã; thông báo qua đài truyền thanh cấp xã (nếu có) trong thời gian 03 ngày;",
+                    "children": []
+                  },
+                  {
+                    "point_id": "doc:225809:part:1:article:6:clause:2:point:2",
+                    "label": "b",
+                    "content": "b) Hết thời hạn niêm yết công khai, Ủy ban nhân dân\ncấp xã rà soát, thẩm định, tổng hợp và gửi về Ủy ban nhân dân cấp huyện danh sách hộ nghèo, hộ cận nghèo thuộc diện được hỗ trợ xây mới hoặc sửa chữa nhà ở.",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "clause_id": "doc:225809:part:1:article:6:clause:3",
+                "number": "3",
+                "content": "3. Sau 03 ngày làm việc kể từ\nthời điểm nhận được báo cáo của Ủy ban nhân dân cấp xã, Ủy ban nhân dân cấp huyện tổng hợp và phê duyệt danh sách báo cáo Ủy ban nhân dân cấp tỉnh. Trường hợp phải điều chỉnh lại danh sách thì phải phê duyệt lại và báo cáo ngay cho Ủy ban nhân dân cấp tỉnh.",
+                "points": []
+              },
+              {
+                "clause_id": "doc:225809:part:1:article:6:clause:4",
+                "number": "4",
+                "content": "4. Ủy ban nhân dân cấp tỉnh tổ chức lập và phê duyệt\nĐề án hỗ trợ nhà ở đối với hộ nghèo, hộ cận nghèo trên địa bàn (theo mẫu tại Phụ lục VII kèm theo Thông tư này); gửi Đề án về Bộ Xây dựng, Bộ Lao động - Thương binh và Xã hội, Bộ Kế hoạch và Đầu tư, Bộ Tài chính đề tổng hợp báo cáo Thủ tướng Chính phủ.",
+                "points": []
+              },
+              {
+                "clause_id": "doc:225809:part:1:article:6:clause:5",
+                "number": "5",
+                "content": "5. Trường hợp phát sinh khiếu nại, tố cáo trong quá\ntrình phê duyệt danh sách hộ nghèo, hộ cận nghèo được hỗ trợ về nhà ở thì việc khiếu nại, tố cáo và giải quyết khiếu nại, tố cáo thực hiện theo quy định của Luật khiếu nại, Luật tố cáo.",
+                "points": []
+              }
+            ],
+            "points": []
+          },
+          {
+            "article_id": "doc:225809:part:1:article:7",
+            "number": "7",
+            "title": "Thực hiện hỗ trợ nhà ở",
+            "content": "Điều 7: Thực hiện hỗ trợ nhà ở",
+            "clauses": [
+              {
+                "clause_id": "doc:225809:part:1:article:7:clause:1",
+                "number": "1",
+                "content": "1. Thiết kế mẫu nhà ở",
+                "points": [
+                  {
+                    "point_id": "doc:225809:part:1:article:7:clause:1:point:1",
+                    "label": "a",
+                    "content": "a) Ủy ban nhân dân cấp tỉnh chỉ đạo các cơ quan\nchuyên môn nghiên cứu, thiết kế tối thiểu 03 mẫu nhà ở điển hình phù hợp với phong tục, tập quán của từng địa phương (kèm theo dự toán kinh phí, dự trù vật liệu chủ yếu);",
+                    "children": []
+                  },
+                  {
+                    "point_id": "doc:225809:part:1:article:7:clause:1:point:2",
+                    "label": "b",
+                    "content": "b) Các địa phương tổ chức giới thiệu các mẫu thiết\nkế để người dân tham khảo, lựa chọn. Tôn trọng nguyện vọng của người dân, không bắt buộc các hộ nghèo, hộ cận nghèo xây dựng nhà ở theo thiết kế mẫu;",
+                    "children": []
+                  },
+                  {
+                    "point_id": "doc:225809:part:1:article:7:clause:1:point:3",
+                    "label": "c",
+                    "content": "c) Tùy theo điều kiện cụ thể, người dân có thể xây\ndựng theo kinh nghiệm, truyền thống, phù hợp với điều kiện kinh tế, sinh hoạt của gia đình, nhưng phải đảm bảo tiêu chí tối thiểu về diện tích, chất lượng theo quy định.",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "clause_id": "doc:225809:part:1:article:7:clause:2",
+                "number": "2",
+                "content": "2. Tổ chức xây mới hoặc sửa chữa nhà ở",
+                "points": [
+                  {
+                    "point_id": "doc:225809:part:1:article:7:clause:2:point:1",
+                    "label": "a",
+                    "content": "a) Hộ nghèo, hộ cận nghèo trong danh sách được hỗ\ntrợ xây mới hoặc sửa chữa nhà ở ký cam kết xây mới hoặc sửa chữa nhà ở và đăng ký với Ủy ban nhân dân cấp xã đề nghị cung ứng vật liệu để xây mới hoặc sửa chữa nhà ở (nếu có nhu cầu), đề xuất lựa chọn mẫu nhà, phương thức xây mới hoặc sửa chữa nhà ở (theo mẫu tại Phụ lục II kèm theo Thông tư này);",
+                    "children": []
+                  },
+                  {
+                    "point_id": "doc:225809:part:1:article:7:clause:2:point:2",
+                    "label": "b",
+                    "content": "b) Đối với hộ nghèo, hộ cận nghèo có thành viên thuộc\nđối tượng bảo trợ xã hội và có hoàn cảnh đặc biệt khó khăn (người cao tuổi, neo đơn, khuyết tật) không có khả năng tự xây mới hoặc sửa chữa nhà ở thì Ủy ban nhân dân cấp xã phối hợp Mặt trận Tổ quốc xã và các tổ chức thành viên của Mặt trận để thống nhất phân công các đoàn thể, các cơ quan, đơn vị đóng trên địa bàn tổ chức xây mới hoặc sửa chữa nhà ở cho các đối tượng này;",
+                    "children": []
+                  },
+                  {
+                    "point_id": "doc:225809:part:1:article:7:clause:2:point:3",
+                    "label": "c",
+                    "content": "c) Hộ nghèo, hộ cận nghèo được hỗ trợ xây mới hoặc\nsửa chữa nhà ở phải báo cáo Ủy ban nhân dân cấp xã khi hoàn thành các phần việc theo giai đoạn (hoàn thành phần móng đối với những hộ xây dựng nhà ở mới, hoàn thành từ 30% khối lượng công việc trở lên đối với những hộ sửa chữa nhà ở hiện có) hoặc hoàn thành toàn bộ công trình để tổ chức nghiệm thu làm cơ sở thực hiện giải ngân vốn hỗ trợ;",
+                    "children": []
+                  },
+                  {
+                    "point_id": "doc:225809:part:1:article:7:clause:2:point:4",
+                    "label": "d",
+                    "content": "d) Ủy ban nhân dân cấp xã có trách nhiệm theo dõi,\nhướng dẫn, giám sát và giúp đỡ các hộ nghèo, hộ cận nghèo trong quá trình xây mới hoặc sửa chữa nhà ở đảm bảo tiến độ và chất lượng; lập biên bản xác nhận hoàn thành theo giai đoạn và biên bản xác nhận hoàn thành công trình đưa vào sử dụng (theo mẫu tại Phụ lục III và Phụ lục IV kèm theo Thông tư này).",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "clause_id": "doc:225809:part:1:article:7:clause:3",
+                "number": "3",
+                "content": "3. Định mức hỗ trợ và giải ngân vốn hỗ trợ",
+                "points": [
+                  {
+                    "point_id": "doc:225809:part:1:article:7:clause:3:point:1",
+                    "label": "a",
+                    "content": "a) Nhà xây mới 40 triệu đồng/hộ; sửa chữa nhà 20\ntriệu đồng/hộ từ ngân sách trung ương;",
+                    "children": []
+                  },
+                  {
+                    "point_id": "doc:225809:part:1:article:7:clause:3:point:2",
+                    "label": "b",
+                    "content": "b) Cơ chế quản lý, sử dụng, thanh quyết toán kinh\nphí nguồn ngân sách trung ương thực hiện theo hướng dẫn của Bộ Tài chính.",
+                    "children": []
+                  }
+                ]
+              }
+            ],
+            "points": []
+          },
+          {
+            "article_id": "doc:225809:part:1:article:8",
+            "number": "8",
+            "title": "Tổ chức thực hiện",
+            "content": "Điều 8: Tổ chức thực hiện\n1. Trách nhiệm của Bộ Xây dựng\na) Tổng hợp kết quả thực hiện của các địa phương gửi\nBộ Lao động - Thương binh và Xã hội để tổng hợp báo cáo Chính phủ, Thủ tướng Chính phủ theo quy định;\nb) Đề xuất nguồn vốn và phương án phân bổ kế hoạch\nvốn ngân sách trung ương giai đoạn 2021-2025 và hàng năm thuộc lĩnh vực quản lý gửi Bộ Lao động - Thương binh và Xã hội tổng hợp vào kế hoạch chung theo quy định;\nc) Lập kế hoạch vốn ngân sách trung ương giai đoạn\n2021-2025 và hàng năm để triển khai các hoạt động phục vụ công tác chỉ đạo, điều hành, hướng dẫn thực hiện Chương trình gửi Bộ Lao động - Thương binh và Xã hội tổng hợp theo quy định;\nd) Chủ trì, phối hợp các bộ, ngành, cơ quan trung\nương hướng dẫn các tỉnh có huyện nghèo được cấp có thẩm quyền phê duyệt lập Đề án và tổ chức thực hiện hỗ trợ nhà ở đối với hộ nghèo, hộ cận nghèo trên địa bàn các huyện nghèo thuộc Chương trình mục tiêu quốc gia giảm nghèo bền vững giai đoạn 2021 - 2025 tại địa phương;\nđ) Chủ trì, phối hợp các bộ, ngành, cơ quan trung\nương kiểm tra, giám sát, đôn đốc các tỉnh có huyện nghèo được cấp có thẩm quyền phê duyệt thực hiện chính sách hỗ trợ nhà ở cho hộ nghèo, hộ cận nghèo theo đúng mục tiêu và yêu cầu.\n2. Trách nhiệm của Ủy ban nhân dân cấp tỉnh có huyện\nnghèo được cấp có thẩm quyền phê duyệt\na) Tổ chức thực hiện chính sách hỗ trợ nhà ở cho hộ\nnghèo, hộ cận nghèo trên địa bàn đúng quy định, phù hợp với điều kiện thực tế của địa phương, đảm bảo việc hỗ trợ đúng đối tượng, đúng mục đích và có hiệu quả. Tùy điều kiện thực tế và khả năng cân đối của ngân sách địa phương, quyết định việc hỗ trợ thêm từ ngân sách địa phương góp phần nâng cao chất lượng nhà ở của các hộ nghèo, hộ cận nghèo ngoài nguồn vốn hỗ trợ từ ngân sách trung ương;\nb) Giao Sở Xây dựng chủ trì, phối hợp với Sở Lao động\n- Thương binh và Xã hội và các sở, ban, ngành liên quan tổ chức thực hiện chính sách hỗ trợ nhà ở cho hộ nghèo, hộ cận nghèo trên địa bàn; hướng dẫn các thôn, xã xác định thực trạng về nhà ở và chất lượng về nhà ở sau khi được hỗ trợ;\nc) Tổ chức lập và phê duyệt Đề án hỗ trợ nhà ở cho\nhộ nghèo, hộ cận nghèo trên địa bàn theo quy định tại Khoản 4 Điều 6 Thông tư này;\nd) Chỉ đạo các cơ quan chuyên môn nghiên cứu, thiết\nkế tối thiểu 03 mẫu nhà ở điển hình;\nđ) Chỉ đạo các cơ quan liên quan, các cấp chính quyền\nđịa phương phối hợp với các tổ chức, đoàn thể trên địa bàn, vận động cộng đồng ủng hộ, giúp đỡ hộ nghèo, hộ cận nghèo xây mới hoặc sửa chữa nhà ở;\ne) Kiểm tra, giám sát, đánh giá và định kỳ có báo\ncáo Quý (theo mẫu tại Phụ lục V kèm theo Thông tư này) trước ngày 15 tháng cuối Quý và báo cáo năm (theo mẫu tại Phụ lục VI kèm theo Thông tư này) trước ngày 10 tháng 12 hàng năm kết quả thực hiện gửi Bộ Xây dựng để tổng hợp gửi Bộ Lao động - Thương binh và Xã hội tổng hợp báo cáo Chính phủ, Thủ tướng Chính phủ;\ng) Lập kế hoạch vốn thực hiện chính sách (bao gồm tất\ncả các nguồn vốn), báo cáo tiến độ thực hiện, kết quả giải ngân hàng năm gửi về Bộ Xây dựng, Bộ Lao động Thương binh - Xã hội và các cơ quan có liên quan theo quy định;\nh) Chỉ đạo thực hiện việc tuyên truyền, phổ biến\nchính sách hỗ trợ nhà ở cho hộ nghèo, hộ cận nghèo đến người dân bằng hình thức phù hợp. Tổ chức công bố công khai các tiêu chí, đối tượng được thụ hưởng chính sách.\n3. Trách nhiệm của Ủy ban nhân dân cấp huyện\na) Tổng hợp, phê duyệt theo thẩm quyền danh sách hộ\nnghèo, hộ cận nghèo được hỗ trợ xây mới hoặc sửa chữa nhà ở trên địa bàn theo quy định tại Khoản 3 Điều 6 Thông tư này;\nb) Thường xuyên kiểm tra, giám sát việc thực hiện,\nđảm bảo chính sách đến được từng hộ nghèo, hộ cận nghèo có khó khăn về nhà ở thuộc diện đối tượng được hỗ trợ; không để xảy ra thất thoát, tiêu cực; đảm bảo các hộ nghèo, hộ cận nghèo có nhà ở đạt chất lượng theo quy định sau khi được hỗ trợ.\n4. Trách nhiệm của Ủy ban nhân dân cấp xã\na) Rà soát, thẩm định, tổng hợp danh sách hộ nghèo,\nhộ cận nghèo được hỗ trợ xây mới hoặc sửa chữa nhà ở trình Ủy ban nhân dân cấp huyện tổng hợp phê duyệt theo quy định tại Khoản 2 Điều 6 Thông tư này;\nb) Nghiệm thu, xác nhận khối lượng xây dựng hoàn\nthành theo giai đoạn (hoàn thành phần móng đối với những hộ nghèo, hộ cận nghèo xây dựng mới hoặc hoàn thành từ 30% khối lượng công việc xây dựng trở lên đối với những hộ nghèo, hộ cận nghèo thực hiện sửa chữa nhà ở hiện có) và xác nhận hoàn thành công trình đưa vào sử dụng để làm cơ sở giải ngân vốn hỗ trợ theo quy định;\nc) Ủy ban nhân dân cấp xã chỉ đạo, giám sát các hộ\nnghèo, hộ cận nghèo sử dụng vốn hỗ trợ xây mới hoặc sửa chữa nhà ở đúng mục đích, đảm bảo nhà ở phải được xây dựng hoàn chỉnh để đưa vào sử dụng; vận động các tổ chức, đoàn thể như: Mặt trận Tổ quốc, Hội Liên hiệp phụ nữ, Hội Nông dân, Hội Cựu chiến binh, Đoàn Thanh niên Cộng sản Hồ Chí Minh giúp đỡ các hộ nghèo, hộ cận nghèo xây mới hoặc sửa chữa nhà ở; phát huy cao nhất khả năng huy động nguồn lực từ cộng đồng, các nhà cung ứng vật liệu và hộ gia đình; tận dụng, khai thác vật liệu tại chỗ như cát, đá, sỏi, gỗ theo quy định của pháp luật để đảm bảo giảm giá thành xây dựng nhà ở.\n5. Cục Quản lý nhà và thị trường bất động sản có\ntrách nhiệm giúp Bộ trưởng Bộ Xây dựng hướng dẫn, đôn đốc, kiểm tra tình hình thực hiện hỗ trợ nhà ở cho hộ nghèo, hộ cận nghèo trên địa bàn các huyện nghèo; tổng hợp, báo cáo tình hình thực hiện theo định kỳ và kiến nghị việc sửa đổi, bổ sung để trình Bộ trưởng Bộ Xây dựng xem xét, ban hành theo thẩm quyền hoặc gửi Bộ Lao động - Thương binh và Xã hội tổng hợp báo cáo Chính phủ, Thủ tướng Chính phủ xem xét, quyết định.",
+            "clauses": [],
+            "points": []
+          },
+          {
+            "article_id": "doc:225809:part:1:article:9",
+            "number": "9",
+            "title": "Điều khoản thi hành",
+            "content": "Điều 9. Điều khoản thi hành",
+            "clauses": [
+              {
+                "clause_id": "doc:225809:part:1:article:9:clause:1",
+                "number": "1",
+                "content": "1. Thông tư này có hiệu lực thi hành từ ngày 15\ntháng 8 năm 2022.",
+                "points": []
+              },
+              {
+                "clause_id": "doc:225809:part:1:article:9:clause:2",
+                "number": "2",
+                "content": "2. Các Bộ, cơ quan ngang Bộ, Ủy ban nhân dân các cấp,\ntổ chức, cá nhân liên quan chịu trách nhiệm thi hành Thông tư này. Trong quá trình thực hiện, nếu phát sinh vướng mắc, đề nghị phản ánh kịp thời về Bộ Xây dựng để sửa đổi, bổ sung hoặc gửi Bộ Lao động - Thương binh và Xã hội tổng hợp báo cáo Chính phủ, Thủ tướng Chính phủ xem xét, quyết định./.",
+                "points": []
+              }
+            ],
+            "points": []
+          }
+        ],
+        "unstructured_blocks": []
+      },
+      {
+        "part_id": "doc:225809:part:2",
+        "part_type": "appendix",
+        "part_title": "PHỤ LỤC I",
+        "reference": null,
+        "direct_text": null,
+        "chapters": [],
+        "sections": [],
+        "articles": [],
+        "unstructured_blocks": [
+          {
+            "block_id": "doc:225809:part:2:block:1",
+            "content": "PHỤ LỤC I\n(Kèm theo Thông tư số 01/2022/TT-BXD ngày 30 tháng 6 năm 2022 của Bộ Xây dựng hướng dẫn thực hiện hỗ trợ nhà ở cho hộ nghèo, hộ cận nghèo trên địa bàn các huyện nghèo thuộc Chương trình mục tiêu quốc gia giảm nghèo bền vững giai đoạn 2021-2025)\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc ---------------\nBIÊN BẢN HỌP BÌNH XÉT ĐỐI TƯỢNG ĐƯỢC HỖ TRỢ XÂY MỚI\nHOẶC SỬA CHỮA NHÀ Ở\nThôn:…………………………………. Xã (phường, thị trấn):…………………………………………. Huyện (quận, thị xã): ……………………Tỉnh (thành phố):…………………………………………… Cuộc họp vào hồi…………… giờ………… phút, ngày………..tháng………….năm………………. Địa điểm:…………………………………………………………………………………………………... Thành phần tham gia: - Chủ trì: Ông (bà)…………………………………………, Chức vụ:…………………………………. - Đại diện Ban Chỉ đạo rà soát hộ nghèo, hộ cận nghèo cấp xã: Ông (bà)………………………, Chức vụ:…………………………………………………………………………………………………… - Công chức được giao nhiệm vụ làm công tác giảm nghèo cấp xã: Ông (bà)…………………., Chức vụ:…………………………………………………………………………………………………… - Bí thư Chi bộ thôn: Ông (bà) ………………………………………………………………………….. - Đại diện Mặt trận Tổ quốc xã: Ông (bà ) ………………………, Chức vụ: ………………..……… - Đại diện đoàn thể: Ông (bà) …………………………, Chức vụ: …………………………………… ………………………………………………………………………………………………………………. ………………………………………………………………………………………………………………. ………………………………………………………………………………………………………………. - Thư ký: Ông (bà) ………………………………………………………………………………………. - Số hộ nghèo, hộ cận nghèo tham gia cuộc họp/số hộ nghèo, hộ cận nghèo của thôn: …………………………………………………….………, Tỷ lệ: ………………………………… % Nội dung họp\n1. Cuộc họp đã nghe Ông (bà) …………………………, Chức vụ…………………………\nphổ biến tiêu chí xác định đối tượng được hỗ trợ xây mới hoặc sửa chữa nhà ở cho hộ nghèo, hộ cận nghèo trên địa bàn các huyện nghèo thuộc Chương trình mục tiêu quốc gia giảm nghèo bền vững giai đoạn 2021-2025.\n2. Kết quả bình xét hộ nghèo, hộ cận nghèo được hỗ\ntrợ xây mới hoặc sửa chữa nhà ở:\nTT\nHọ tên chủ hộ Ngày tháng năm được UBND cấp xã phê duyệt là hộ nghèo, hộ cận nghèo Kết quả bình xét (Số người đồng ý/tổng số người tham dự) Thuộc đối tượng ưu tiên\nI\nDanh sách hỗ trợ xây mới nhà ở … …. Tổng cộng: hộ\nII\nDanh sách hỗ trợ sửa chữa nhà ở … …. Tổng cộng: hộ Cuộc họp kết thúc…………giờ……………….phút cùng ngày. Biên bản được lập thành 02 bản, 01 bản lưu thôn, 01 bản lưu UBND xã. Thư ký Đại diện của các hộ nghèo, hộ cận nghèo Đại diện Mặt trận Tổ quốc xã Đại diện các đoàn thể Đại diện BCĐ rà soát cấp xã Công chức được giao làm nhiệm vụ giảm nghèo cấp xã Bí thư Chi bộ thôn Trưởng thôn",
+            "indexable": true
+          }
+        ]
+      },
+      {
+        "part_id": "doc:225809:part:3",
+        "part_type": "appendix",
+        "part_title": "PHỤ LỤC II",
+        "reference": null,
+        "direct_text": null,
+        "chapters": [],
+        "sections": [],
+        "articles": [],
+        "unstructured_blocks": [
+          {
+            "block_id": "doc:225809:part:3:block:1",
+            "content": "PHỤ LỤC II\n(Kèm theo Thông tư số 01/2022/TT-BXD ngày 30 tháng 6 năm 2022 của Bộ Xây dựng hướng dẫn thực hiện hỗ trợ nhà ở cho hộ nghèo, hộ cận nghèo trên địa bàn các huyện nghèo thuộc Chương trình mục tiêu quốc gia giảm nghèo bền vững giai đoạn 2021-2025)\nUBND HUYỆN.... UBND XÃ.......\n-------\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc --------------- ………………., ngày….. tháng….. năm…….\nBẢNG TỔNG HỢP CAM KẾT THỰC HIỆN XÂY DỰNG MỚI HOẶC SỬA\nCHỮA NHÀ Ở VÀ NHU CẦU HỖ TRỢ CUNG ỨNG VẬT LIỆU XÂY DỰNG (NẾU CÓ NHU CẦU)\nTổng hợp cam kết xây dựng mới hoặc sửa chữa nhà ở của hộ nghèo, hộ cận nghèo và nhu cầu hỗ trợ cung ứng vật liệu xây dựng trên địa bàn thôn ……………\n1. Đối với xây mới nhà ở\nTT\nHọ tên chủ hộ Mẫu nhà áp dụng Đề nghị cung ứng vật liệu để xây mới nhà ở Phương thức xây dựng nhà ở Ký cam kết thực hiện xây mới nhà ở theo quy định Vật liệu chính Đơn vị tính Khối lượng Đề nghị tổ chức, đoàn thể xây dựng nhà ở (1) Tự xây dựng 1 2 …\n2. Đối với sửa chữa nhà ở\nTT\nHọ tên chủ hộ Đề nghị cung ứng vật liệu để sửa chữa nhà ở Phương thức sửa chữa nhà ở Ký cam kết thực hiện sửa chữa nhá ở theo quy định Vật liệu chính Đơn vị tính Khối lượng Đề nghị tổ chức, đoàn thể sửa chữa nhà ở (2) Tự sửa chữa nhà ở 1 2 ….\nTRƯỞNG THÔN MẶT TRẬN TỔ QUỐC XÃ\nUBND XÃ\n_____________________ 1 Chỉ áp dụng đối với hộ nghèo, hộ cận nghèo có thành viên thuộc đối tượng bảo trợ xã hội và hộ nghèo, hộ cận nghèo có hoàn cảnh đặc biệt khó khăn (người cao tuổi, neo đơn, khuyết tật) 2 Chỉ áp dụng đối với hộ nghèo, hộ cận nghèo có thành viên thuộc đối tượng bảo trợ xã hội và hộ nghèo, hộ cận nghèo có hoàn cảnh đặc biệt khó khăn (người cao tuổi, neo đơn, khuyết tật)",
+            "indexable": true
+          }
+        ]
+      },
+      {
+        "part_id": "doc:225809:part:4",
+        "part_type": "appendix",
+        "part_title": "PHỤ LỤC III",
+        "reference": null,
+        "direct_text": null,
+        "chapters": [],
+        "sections": [],
+        "articles": [],
+        "unstructured_blocks": [
+          {
+            "block_id": "doc:225809:part:4:block:1",
+            "content": "PHỤ LỤC III\n(Kèm theo Thông tư số 01/2022/TT-BXD ngày 30 tháng 6 năm 2022 của Bộ Xây dựng hướng dẫn thực hiện hỗ trợ nhà ở cho hộ nghèo, hộ cận nghèo trên địa bàn các huyện nghèo thuộc Chương trình mục tiêu quốc gia giảm nghèo bền vững giai đoạn 2021-2025)\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc ---------------\nBIÊN BẢN XÁC NHẬN HOÀN THÀNH THEO GIAI ĐOẠN XÂY MỚI\nHOẶC SỬA CHỮA NHÀ Ở\nHôm nay, ngày………..tháng…………năm………………… Tại công trình xây dựng nhà ở:………………………………………………………………………… Địa chỉ tại thôn: ………………………………….Xã (phường, thị trấn) …………………................. Huyện (quận, thị xã) …………………………………Tỉnh (thành phố) …………………………….. Thành phần Ban nghiệm thu xây dựng nhà ở\n1. Đại diện UBND cấp xã\n- Ông (bà) …………………………………………….. Chức vụ ………………………………………\n2. Đại diện Mặt Trận Tổ quốc cấp xã\n- Ông (bà) …………………………………………….. Chức vụ ………………………………………\n3. Đại diện thôn\n- Ông (bà) …………………………………………….. Chức vụ ……………………………………… - Ông (bà) …………………………………………….. Chức vụ ………………………………………\n4. Đại diện hộ nghèo, hộ cận nghèo\n- Ông (bà) ………………………………………………………….……………………………………… Nội dung xác nhận Sau khi kiểm tra, xem xét thực tế phần công việc đã thực hiện của giai đoạn xây dựng phần móng nhà (hoặc hoàn thành từ 30% khối lượng công việc trở lên đối với những hộ nghèo, hộ cận nghèo thực hiện sửa chữa nhà ở hiện có); Ban nghiệm thu xây dựng nhà ở cho hộ nghèo, hộ cận nghèo cấp xã thống nhất nội dung sau:\n1. Về khối lượng;\n- Xác nhận hoàn thành phần móng nhà ở □ - Xác nhận hoàn thành từ 30% khối lượng công việc (đối với hộ nghèo, hộ cận nghèo thực hiện sửa chữa nhà ở hiện có) □\n2. Về chất lượng (Xác nhận việc đạt hay không đạt\nyêu cầu về chất lượng) Đạt □ Không đạt □ Biên bản lập thành 04 bản; 01 bản chủ hộ gia đình lưu trữ; 01 bản gửi phòng Tài chính huyện; 01 bản UBND cấp xã lưu và 01 bản gửi Mặt trận Tổ quốc cấp xã.\nTHÀNH PHẦN THAM GIA XÁC NHẬN\n(Ký, ghi rõ họ tên)\n1. Đại diện UBND cấp xã\n……………………………………………..………………………………..\n2. Đại diện Mặt Trận Tổ quốc cấp xã\n…………………………………………………………………\n3. Đại diện thôn ……………………………………………..……………………………………………\n4. Đại diện hộ nghèo, hộ cận nghèo\n……………………………………………..…",
+            "indexable": true
+          }
+        ]
+      },
+      {
+        "part_id": "doc:225809:part:5",
+        "part_type": "appendix",
+        "part_title": "PHỤ LỤC IV",
+        "reference": null,
+        "direct_text": null,
+        "chapters": [],
+        "sections": [],
+        "articles": [],
+        "unstructured_blocks": [
+          {
+            "block_id": "doc:225809:part:5:block:1",
+            "content": "PHỤ LỤC IV\n(Kèm theo Thông tư số 01/2022/TT-BXD ngày 30 tháng 6 năm 2022 của Bộ Xây dựng hướng dẫn thực hiện hỗ trợ nhà ở cho hộ nghèo, hộ cận nghèo trên địa bàn các huyện nghèo thuộc Chương trình mục tiêu quốc gia giảm nghèo bền vững giai đoạn 2021-2025)\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc ---------------\nBIÊN BẢN XÁC NHẬN HOÀN THÀNH XÂY MỚI HOẶC SỬA CHỮA\nNHÀ Ở CHO HỘ NGHÈO, HỘ CẬN NGHÈO\nHôm nay, ngày……..tháng………năm…………… Tại công trình xây dựng nhà ở:………………………………………………………………………… Địa chỉ tại thôn: ………………………………….Xã (phường, thị trấn) …………………................. Huyện (quận, thị xã) …………………………………Tỉnh (thành phố) …………………………….. Thành phần Ban nghiệm thu xây dựng nhà ở cho hộ nghèo, hộ cận nghèo cấp xã gồm\n1. Đại diện UBND cấp xã\n- Ông (bà) …………………………………………….. Chức vụ ………………………………………\n2. Đại diện Mặt Trận Tổ quốc cấp xã\n- Ông (bà) …………………………………………….. Chức vụ ………………………………………\n3. Đại diện thôn\n- Ông (bà) …………………………………………….. Chức vụ ……………………………………… - Ông (bà) …………………………………………….. Chức vụ ………………………………………\n4. Đại diện hộ nghèo, hộ cận nghèo\n- Ông (bà) ………………………………………………………………………………………………… Nội dung xác nhận Sau khi kiểm tra, xem xét thực tế nhà ở đã xây dựng hoàn thành. Ban nghiệm thu xây dựng nhà ở cho hộ nghèo, hộ cận nghèo cấp xã thống nhất các nội dung sau:\n1. Về khối lượng:\nXác nhận nhà ở xây mới (hoặc sửa chữa nhà ở hiện có) của chủ hộ…………..đã hoàn thành. Diện tích sàn sử dụng…………………..m2.\n2. Về chất lượng (Xác nhận việc đạt hay không đạt\nyêu cầu về chất lượng) Đạt □ Không đạt □ Kết luận Xác nhận công trình đã hoàn thành, đảm bảo chất lượng theo quy định và đồng ý đưa vào sử dụng. Biên bản lập thành 04 bản; 01 bản chủ hộ gia đình lưu trữ; 01 bản gửi phòng Tài chính huyện; 01 bản UBND cấp xã tổng hợp, lập hồ sơ hoàn thành công trình gửi UBND huyện và 01 bản gửi Mặt trận Tổ quốc cấp xã.\nTHÀNH PHẦN THAM GIA XÁC NHẬN\n(Ký, ghi rõ họ tên)\n1. Đại diện UBND cấp xã\n……………………………………………..………………………………..\n2. Đại diện Mặt Trận Tổ quốc cấp xã\n…………………………………………………………………\n3. Đại diện thôn\n……………………………………………..……………………………………………\n4. Đại diện hộ nghèo, hộ cận nghèo\n……………………………………………..…",
+            "indexable": true
+          }
+        ]
+      },
+      {
+        "part_id": "doc:225809:part:6",
+        "part_type": "appendix",
+        "part_title": "PHỤ LỤC V",
+        "reference": null,
+        "direct_text": null,
+        "chapters": [],
+        "sections": [],
+        "articles": [],
+        "unstructured_blocks": [
+          {
+            "block_id": "doc:225809:part:6:block:1",
+            "content": "PHỤ LỤC V\n(Kèm theo Thông tư số 01/2022/TT-BXD ngày 30 tháng 6 năm 2022 của Bộ Xây dựng hướng dẫn thực hiện hỗ trợ nhà ở cho hộ nghèo, hộ cận nghèo trên địa bàn các huyện nghèo thuộc Chương trình mục tiêu quốc gia giảm nghèo bền vững giai đoạn 2021-2025)\nUBND TỈNH…………… BÁO CÁO HÀNG QUÝ\nKết quả thực hiện chính sách hỗ trợ nhà ở cho hộ nghèo, hộ cận nghèo trên địa bàn các huyện nghèo thuộc Chương trình mục tiêu quốc gia giảm nghèo bền vững giai đoạn 2021-2025 Quý……….năm……….. I. Về số liệu thực hiện\nTT\nNội dung Đơn vị Kế hoạch hỗ trợ tại địa phương Kết quả thực hiện trong Quý Lũy kế thực hiện từ đầu Chương trình Kế hoạch Quý tiếp theo Ghi chú Tổng số Hộ nghèo Hộ cận nghèo Tổng số Hộ nghèo Hộ cận nghèo Tổng số Hộ nghèo Hộ cận nghèo 1 Hộ xây mới nhà ở hộ Trong đó: - Hộ nghèo dân tộc thiểu số hộ - Hộ nghèo có thành viên là người có công với cách mạng hộ - Hộ nghèo, hộ cận nghèo có thành viên thuộc đối tượng bảo trợ xã hội hộ - Hộ nghèo, hộ cận nghèo có hoàn cảnh đặc biệt khó khăn (người cao tuổi, neo đơn, khuyết tật) hộ - Hộ nghèo, hộ cận nghèo thuộc vùng thường xuyên xảy ra thiên tai hộ - Hộ nghèo, hộ cận nghèo còn lại hộ 2 Hộ sửa chữa nhà ở hộ Trong đó: - Hộ nghèo dân tộc thiểu số hộ - Hộ nghèo có thành viên là người có công với cách mạng hộ - Hộ nghèo, hộ cận nghèo có thành viên thuộc đối tượng bảo trợ xã hội hộ - Hộ nghèo, hộ cận nghèo có hoàn cảnh đặc biệt khó khăn (người cao tuổi, neo đơn, khuyết tật) hộ - Hộ nghèo, hộ cận nghèo thuộc vùng thường xuyên xảy ra thiên tai hộ - Hộ nghèo, hộ cận nghèo còn lại hộ 3 Tổng số vốn huy động triệu đồng Trong đó: - Ngân sách Trung ương triệu đồng - Ngân sách địa phương triệu đồng - Vốn huy động hợp pháp khác triệu đồng 4 Kết quả giải ngân vốn hỗ trợ triệu đồng Trong đó: - Ngân sách Trung ương triệu đồng - Ngân sách địa phương triệu đồng - Vốn huy động hợp pháp khác triệu đồng II. Về khó khăn, vướng mắc III. Kiến nghị (nếu có)\nNGƯỜI LẬP\n(Họ tên, số điện thoại, email)\nTM. UBND TỈNH CHỦ TỊCH\n(Ký tên, đóng dấu)",
+            "indexable": true
+          }
+        ]
+      },
+      {
+        "part_id": "doc:225809:part:7",
+        "part_type": "appendix",
+        "part_title": "PHỤ LỤC VI",
+        "reference": null,
+        "direct_text": null,
+        "chapters": [],
+        "sections": [],
+        "articles": [],
+        "unstructured_blocks": [
+          {
+            "block_id": "doc:225809:part:7:block:1",
+            "content": "PHỤ LỤC VI\nMẪU BÁO CÁO CỦA UBND CẤP TỈNH\n(Kèm theo Thông tư số 01/2022/TT-BXD ngày 30 tháng 6 năm 2022 của Bộ Xây dựng hướng dẫn thực hiện hỗ trợ nhà ở cho hộ nghèo, hộ cận nghèo trên địa bàn các huyện nghèo thuộc Chương trình mục tiêu quốc gia giảm nghèo bền vững giai đoạn 2021-2025)\nĐỀ CƯƠNG BÁO CÁO ĐỊNH KỲ HÀNG NĂM\nKết quả thực hiện chính sách hỗ trợ nhà ở cho hộ nghèo, hộ cận nghèo trên địa bàn các huyện nghèo thuộc Chương trình mục tiêu quốc gia giảm nghèo bền vững giai đoạn 2021-2025 Năm……… I. Công tác chỉ đạo điều hành II. Kết quả thực hiện chính sách\n1. Số hộ đã được hỗ trợ xây mới nhà ở\nSố lượng nhà ở xây dựng mới lũy kế đến thời điểm báo cáo đã được hỗ trợ ………….căn, tương đương ………% so với số lượng nhà ở đã được phê duyệt tại Đề án của tỉnh. Trong đó - Hộ nghèo dân tộc thiểu số………căn. - Hộ nghèo có thành viên là người có công với cách mạng………căn. - Hộ nghèo, hộ cận nghèo có thành viên thuộc đối tượng bảo trợ xã hội…………căn. - Hộ nghèo, hộ cận nghèo có hoàn cảnh đặc biệt khó khăn (người cao tuổi, neo đơn, khuyết tật) …………căn. - Hộ nghèo, hộ cận nghèo thuộc vùng thường xuyên xảy ra thiên tai…………căn. - Hộ nghèo, hộ cận nghèo còn lại…………căn.\n2. Số hộ đã được hỗ trợ sửa chữa nhà ở\nSố lượng nhà ở sửa chữa lũy kế đến thời điểm báo cáo đã được hỗ trợ…………căn, tương đương % so với số lượng nhà ở đã được phê duyệt tại Đề án của tỉnh. Trong đó: - Hộ nghèo dân tộc thiểu số……………căn. - Hộ nghèo có thành viên là người có công với cách mạng…………căn. - Hộ nghèo, hộ cận nghèo có thành viên thuộc đối tượng bảo trợ xã hội…………căn. - Hộ nghèo, hộ cận nghèo có hoàn cảnh đặc biệt khó khăn (người cao tuổi, neo đơn, khuyết tật) …………căn. - Hộ nghèo, hộ cận nghèo thuộc vùng thường xuyên xảy ra thiên tai …………căn. - Hộ nghèo, hộ cận nghèo còn lại…………căn.\n3. Tổng số vốn huy động để thực hiện hỗ trợ\nxây mới nhà ở cho hộ nghèo, hộ cận nghèo Trong đó: - Vốn ngân sách Trung ương……………………………………………………………………………. - Vốn ngân sách địa phương……………………………………………………………………………. - Vốn huy động hợp pháp khác…………………………………………………………………………\n4. Tổng số vốn huy động để thực hiện hỗ trợ sửa\nchữa nhà ở cho hộ nghèo, hộ cận nghèo Trong đó: - Vốn ngân sách Trung ương……………………………………………………………………………. - Vốn ngân sách địa phương……………………………………………………………………………. - Vốn huy động hợp pháp khác…………………………………………………………………………\n5. Tổng số vốn đã được giải ngân để thực hiện\nhỗ trợ xây mới nhà ở cho hộ nghèo, hộ cận nghèo Trong đó: - Vốn ngân sách Trung ương……………………………………………………………………………. - Vốn ngân sách địa phương……………………………………………………………………………. - Vốn huy động hợp pháp khác…………………………………………………………………………\n6. Tổng số vốn đã được giải ngân để thực hiện\nhỗ trợ sửa chữa nhà ở cho hộ nghèo, hộ cận nghèo Trong đó: - Vốn ngân sách Trung ương……………………………………………………………………………. - Vốn ngân sách địa phương……………………………………………………………………………. - Vốn huy động hợp pháp khác…………………………………………………………………………\n7. Công tác triển khai hỗ trợ nhà ở cho hộ\nnghèo, hộ cận nghèo - Về cách thức thực hiện hỗ trợ………………………………………………………………………… - Về chất lượng nhà ở, vật liệu làm nhà ở, diện tích………………………………………………… III. Những tồn tại, vướng mắc trong quá trình triển khai thực hiện\n1. Tồn tại, vướng mắc\n2. Nguyên nhân\nIV. Đề xuất, kiến nghị của địa phương",
+            "indexable": true
+          }
+        ]
+      },
+      {
+        "part_id": "doc:225809:part:8",
+        "part_type": "appendix",
+        "part_title": "PHỤ LỤC VII",
+        "reference": null,
+        "direct_text": null,
+        "chapters": [],
+        "sections": [],
+        "articles": [],
+        "unstructured_blocks": [
+          {
+            "block_id": "doc:225809:part:8:block:1",
+            "content": "PHỤ LỤC VII\n(Kèm theo Thông tư số 01/2022/TT-BXD ngày 30 tháng 6 năm 2022 của Bộ Xây dựng hướng dẫn thực hiện hỗ trợ nhà ở cho hộ nghèo, hộ cận nghèo trên địa bàn các huyện nghèo thuộc Chương trình mục tiêu quốc gia giảm nghèo bền vững giai đoạn 2021-2025)\nĐỀ CƯƠNG\nXây dựng Đề án hỗ trợ nhà ở cho hộ nghèo, hộ cận nghèo trên địa bàn các huyện nghèo thuộc Chương trình mục tiêu quốc gia giảm nghèo bền vững giai đoạn 2021-2025\nUBND TỈNH……….\n-------\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc ---------------\nĐỀ ÁN HỖ TRỢ NHÀ Ở CHO\nHỘ NGHÈO, HỘ CẬN NGHÈO TRÊN ĐỊA BÀN CÁC HUYỆN NGHÈO THUỘC CHƯƠNG TRÌNH MỤC TIÊU\nQUỐC GIA GIẢM NGHÈO BỀN VỮNG GIAI ĐOẠN 2021-2025\nI. MỞ ĐẦU\nII. ĐÁNH GIÁ THỰC TRẠNG NHÀ Ở ĐỐI VỚI HỘ NGHÈO,\nHỘ CẬN NGHÈO TRÊN ĐỊA BÀN TỈNH\n1. Nhận xét, đánh giá thực trạng nhà ở đối với hộ\nnghèo, hộ cận nghèo trên địa bàn tỉnh\na) Về số lượng nhà ở\nb) Về chất lượng nhà ở\n2. Đánh giá tác động của các yếu tố khí hậu đối với\nnhà ở về đảm bảo an toàn khi xảy ra bão, tố, lốc trên địa bàn tỉnh\n3. Nhận xét, đánh giá chung về thực hiện các chính\nsách hỗ trợ nhà ở đối với hộ nghèo, hộ cận nghèo đã và đang thực hiện tại địa phương\na) Về ưu điểm\nb) Về các hạn chế, tồn tại (phân tích nguyên nhân\nvà biện pháp khắc phục)\nIII. ĐÁNH GIÁ PHƯƠNG THỨC HUY ĐỘNG VÀ QUẢN LÝ\nNGUỒN LỰC CỦA ĐỊA PHƯƠNG ĐÃ THỰC HIỆN NHẰM HỖ TRỢ NHÀ Ở ĐỐI VỚI HỘ NGHÈO, HỘ CẬN\nNGHÈO\n1. Về phương thức huy động nguồn lực\n2. Về quản lý nguồn lực của địa phương trong quá\ntrình thực hiện hỗ trợ nhà ở đối với hộ nghèo, hộ cận nghèo\n3. Về thực hiện việc quản lý sử dụng, cấp phát,\nthanh toán nguồn vốn cấp, vay tín dụng ưu đãi cũng như các nguồn vốn huy động khác\n4. Về cách thức hỗ trợ (người dân tự làm hoặc do\ncác tổ chức, doanh nghiệp xây dựng sau đó bàn giao cho hộ dân...)\n5. Đánh giá chung về việc thực hiện huy động và quản\nlý nguồn lực của địa phương trong quá trình thực hiện các chính sách hỗ trợ nhà ở đối với hộ nghèo, hộ cận nghèo đã thực hiện trong thời gian qua\nIV. MỘT SỐ NỘI DUNG CỤ THỂ CỦA ĐỀ ÁN\n1. Mục tiêu, nguyên tắc hỗ trợ\n2. Yêu cầu về diện tích và chất lượng nhà ở\n3. Đối tượng được hỗ trợ nhà ở\n4. Phạm vi áp dụng\n5. Xác định số lượng hộ nghèo, hộ cận nghèo cần hỗ\ntrợ xây mới hoặc sửa chữa nhà ở trên địa bàn tỉnh\na) Tổng số hộ nghèo thuộc diện đối tượng được hỗ trợ\nxây mới hoặc sửa chữa nhà ở (tính đến thời điểm Chương trình mục tiêu quốc gia giảm nghèo bền vững giai đoạn 2021-2025 có hiệu lực thi hành): ……..hộ.\nb) Tổng số hộ cận nghèo thuộc diện đối tượng được hỗ\ntrợ xây mới hoặc sửa chữa nhà ở (tính đến thời điểm Chương trình mục tiêu quốc gia giảm nghèo bền vững giai đoạn 2021-2025 có hiệu lực thi hành): ……..hộ.\n6. Phân loại đối tượng ưu liên\na) Hộ nghèo dân tộc thiểu số………..căn.\nb) Hộ nghèo có thành viên là người có công với cách\nmạng………..căn.\nc) Hộ nghèo, hộ cận nghèo có thành viên thuộc đối\ntượng bảo trợ xã hội: ………..hộ\nd) Hộ nghèo, hộ cận nghèo có hoàn cảnh đặc biệt khó\nkhăn (người cao tuổi, neo đơn, khuyết tật): ………..hộ\nđ) Hộ nghèo, hộ cận nghèo thuộc vùng thường xuyên xảy\nra thiên tai: ………..hộ\ne) Các hộ nghèo, hộ cận nghèo còn lại: ……..hộ\n7. Nguồn vốn thực hiện\nCác nguồn vốn quy định tại Quyết định số 90/QĐ-TTg ngày 18 tháng 01 năm 2022 của Thủ tướng Chính phủ phê duyệt Chương trình mục tiêu quốc gia giảm nghèo bền vững giai đoạn 2021-2025.\n8. Xác định tổng số vốn thực hiện và phân khai nguồn\nvốn thực hiện Tổng số vốn cần có để thực hiện: ………..tỷ đồng - Vốn ngân sách Trung ương: ………..tỷ đồng - Vốn ngân sách địa phương: ………..tỷ đồng - Các nguồn vốn hợp pháp khác: ………..tỷ đồng\n9. Cách thức thực hiện\na) Bình xét và phê duyệt danh sách hộ nghèo, hộ cận\nnghèo được hỗ trợ nhà ở\nb) Cấp vốn ngân sách Trung ương hỗ trợ làm nhà ở\nc) Thực hiện xây dựng nhà ở\n10. Tiến độ thực hiện\n11. Tiến độ huy động vốn hàng năm\na) Năm 2022:\nb) Năm 2023:\nc) Năm 2024:\nd) Năm 2025:\n12. Tổ chức thực hiện\nỦy ban nhân dân tỉnh\na) Chỉ đạo thực hiện việc rà soát, bình xét, lập\ndanh sách, phân loại đối tượng ưu tiên theo quy định; lập, phê duyệt Đề án và tổ chức thực hiện chính sách hỗ trợ nhà ở cho hộ nghèo, hộ cận nghèo trên địa bàn tỉnh, gửi Bộ Xây dựng và các Bộ, ngành liên quan; giao các cơ quan chuyên môn thiết kế mẫu nhà ở phù hợp và giới thiệu rộng rãi để nhân dân lựa chọn.\nb) Cụ thể hóa các nhiệm vụ Thủ tướng Chính phủ giao\ncác địa phương tại Quyết định số 90/QĐ-TTg ngày 18 tháng 01 năm 2022 của Thủ tướng Chính phủ phê duyệt Chương trình mục tiêu quốc gia giảm nghèo bền vững giai đoạn 2021-2025.\nc) Phân giao nhiệm vụ cụ thể cho các Sở, ban, ngành\nliên quan và các địa phương của tỉnh.\nV. KẾT LUẬN VÀ KIẾN NGHỊ\n1. Kết luận\n2. Kiến nghị\n………..ngày…….tháng……năm\nTM. ỦY BAN NHÂN DÂN TỈNH",
+            "indexable": true
+          }
+        ]
+      }
+    ]
+  },
+  "issues": [],
+  "status": "ok",
+  "source_hash": "context_225809.json",
+  "stats": {
+    "source_chars": 37373,
+    "passage_chars": 37222,
+    "parts": 8,
+    "chapters": 0,
+    "sections": 0,
+    "articles": 9,
+    "clauses": 24,
+    "points": 29
+  }
+}

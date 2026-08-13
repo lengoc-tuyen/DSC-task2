@@ -1,0 +1,770 @@
+{
+  "schema_version": "2.0",
+  "document_id": 152631,
+  "metadata": {
+    "name": "Quyet-dinh-662-QD-KTNN-2020-khai-thac-phan-mem-Quan-ly-he-thong-thong-tin-nhat-ky-kiem-toan-495442",
+    "link": "https://thuvienphapluat.vn/van-ban/Ke-toan-Kiem-toan/Quyet-dinh-662-QD-KTNN-2020-khai-thac-phan-mem-Quan-ly-he-thong-thong-tin-nhat-ky-kiem-toan-495442.aspx",
+    "issuing_agency": "KIỂM TOÁN NHÀ NƯỚC",
+    "national_header": "CỘNG\r\n\n  HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM",
+    "motto": "Độc lập - Tự do - Hạnh phúc",
+    "document_number": "662/QĐ-KTNN",
+    "issued_place": "Hà Nội",
+    "issued_date": "ngày 29 tháng 5 năm 2020",
+    "document_type": "QUYẾT ĐỊNH",
+    "title": "BAN HÀNH QUY CHẾ QUẢN LÝ, KHAI THÁC VÀ SỬ DỤNG PHẦN MỀM QUẢN LÝ HỆ THỐNG THÔNG TIN NHẬT KÝ KIỂM TOÁN CỦA KIỂM TOÁN NHÀ NƯỚC TỔNG KIỂM TOÁN NHÀ NƯỚC"
+  },
+  "administrative_header": {
+    "removed": true,
+    "removed_char_count": 154
+  },
+  "preamble": {
+    "text": "QUYẾT ĐỊNH\nBAN HÀNH QUY CHẾ QUẢN LÝ, KHAI THÁC VÀ SỬ DỤNG PHẦN MỀM QUẢN LÝ HỆ THỐNG\nTHÔNG TIN NHẬT KÝ KIỂM TOÁN CỦA KIỂM TOÁN NHÀ NƯỚC\nTỔNG KIỂM TOÁN NHÀ NƯỚC\nCăn cứ Luật Kiểm toán nhà nước; Căn cứ Luật Công nghệ thông tin ban hành ngày 29 tháng 6 năm 2006; Căn cứ Nghị định số 64/2007/NĐ-CP ngày 10 tháng 4 năm 2007 của Chính phủ về việc ứng dụng công nghệ thông tin trong hoạt động của cơ quan nhà nước; Căn cứ Quyết định số 1662/QĐ-KTNN ngày 03/11/2017 của Tổng KTNN ban hành Quy chế soạn thảo, thẩm định, ban hành văn bản quy phạm pháp luật và văn bản quản lý của Kiểm toán nhà nước; Xét đề nghị của Giám đốc Trung tâm Tin học.\nQUYẾT ĐỊNH:",
+    "legal_bases": [
+      "Căn cứ Luật Công nghệ thông tin ban hành ngày 29 tháng 6 năm 2006",
+      "Căn cứ Nghị định số 64/2007/NĐ-CP ngày 10 tháng 4 năm 2007 của Chính phủ về việc ứng dụng công nghệ thông tin trong hoạt động của cơ quan nhà nước",
+      "Căn cứ Quyết định số 1662/QĐ-KTNN ngày 03/11/2017 của Tổng KTNN ban hành Quy chế soạn thảo, thẩm định, ban hành văn bản quy phạm pháp luật và văn bản quản lý của Kiểm toán nhà nước"
+    ],
+    "proposals": [
+      "Xét đề nghị của Giám đốc Trung tâm Tin học.\nQUYẾT ĐỊNH:"
+    ],
+    "enactment_formula": "QUYẾT ĐỊNH"
+  },
+  "passage": "QUYẾT ĐỊNH\nBAN HÀNH QUY CHẾ QUẢN LÝ, KHAI THÁC VÀ SỬ DỤNG PHẦN MỀM QUẢN LÝ HỆ THỐNG\nTHÔNG TIN NHẬT KÝ KIỂM TOÁN CỦA KIỂM TOÁN NHÀ NƯỚC\nTỔNG KIỂM TOÁN NHÀ NƯỚC\nCăn cứ Luật Kiểm toán nhà nước; Căn cứ Luật Công nghệ thông tin ban hành ngày 29 tháng 6 năm 2006; Căn cứ Nghị định số 64/2007/NĐ-CP ngày 10 tháng 4 năm 2007 của Chính phủ về việc ứng dụng công nghệ thông tin trong hoạt động của cơ quan nhà nước; Căn cứ Quyết định số 1662/QĐ-KTNN ngày 03/11/2017 của Tổng KTNN ban hành Quy chế soạn thảo, thẩm định, ban hành văn bản quy phạm pháp luật và văn bản quản lý của Kiểm toán nhà nước; Xét đề nghị của Giám đốc Trung tâm Tin học.\nQUYẾT ĐỊNH:\nĐiều 1. Ban hành kèm theo Quyết định này Quy chế quản lý, khai thác và sử dụng phần mềm Quản lý hệ thống thông tin nhật ký kiểm toán của Kiểm toán nhà nước.\nĐiều 2. Quyết định này thay thế Quyết định số 1367/QĐ-KTNN ngày 10/12/2013 của Tổng Kiểm toán nhà nước về việc ban hành Quy chế quản lý và sử dụng phần mềm Quản lý thông tin nhật ký kiểm toán của Kiểm toán nhà nước.\nĐiều 3. Quyết định này có hiệu lực thi hành kể từ ngày ký.\nĐiều 4. Vụ trưởng Vụ Tổ chức cán bộ, Giám đốc Trung tâm Tin học, Thủ trưởng các đơn vị trực thuộc Kiểm toán nhà nước và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này\nNơi nhận:\n- Như Điều 4;\n- Lãnh đạo Kiểm toán nhà nước;\n- Lưu VT, TTTH(3).\nTỔNG KIỂM TOÁN\nNHÀ NƯỚC\nHồ Đức Phớc\nQUY CHẾ\nQUẢN LÝ, KHAI THÁC VÀ SỬ DỤNG PHẦN MỀM QUẢN LÝ HỆ THỐNG THÔNG TIN NHẬT\nKÝ KIỂM TOÁN CỦA KIỂM TOÁN NHÀ NƯỚC\n(Ban hành kèm theo Quyết định số 662/QĐ-KTNN ngày 29/5/2020 của Tổng Kiểm toán nhà nước)\nChương I\nNHỮNG QUY ĐỊNH CHUNG\nĐiều 1. Phạm vi điều chỉnh, đối tượng áp dụng\n1. Quy chế này quy định trình tự, thủ\ntục, trách nhiệm, quyền hạn của các đơn vị trực thuộc Kiểm toán nhà nước và các tổ chức, cá nhân khác có liên quan trong việc quản lý, khai thác và sử dụng phần mềm Quản lý hệ thống thông tin nhật ký kiểm toán của Kiểm toán nhà nước.\n2. Quy chế này áp dụng với các đơn vị\ntrực thuộc Kiểm toán nhà nước; các Đoàn kiểm toán của Kiểm toán nhà nước; cán bộ, công chức, viên chức và người lao động (gọi tắt là công chức) của Kiểm toán nhà nước và các tổ chức, cá nhân khác có liên quan trong việc quản lý, khai thác, sử dụng phần mềm Quản lý hệ thống thông tin nhật ký kiểm toán.\n3. Đối với các đơn vị trực thuộc Kiểm\ntoán nhà nước hoạt động liên quan đến lĩnh vực an ninh, quốc phòng mà nhật ký kiểm toán chứa các thông tin, dữ liệu mật thì không thực hiện theo quy chế này.\nĐiều 2. Giải thích từ ngữ Trong Quy chế này, các từ ngữ dưới đây được hiểu như sau:\n1. Phần mềm Quản lý hệ thống thông\ntin nhật ký kiểm toán (gọi tắt là phần mềm) là phần mềm của Kiểm toán nhà nước nhằm trợ giúp công tác ghi nhật ký kiểm toán, nhật ký công tác và quản lý việc khai thác, sử dụng thông tin nhật ký kiểm toán của Kiểm toán nhà nước.\n2. Nhật ký kiểm toán điện tử là nội\ndung nhật ký làm việc của các thành viên trong tổ kiểm toán được lưu trữ trên phần mềm.\n3. Nhật ký công tác là nội dung nhật\nký làm việc của thủ trưởng đơn vị và lãnh đạo đoàn kiểm toán được lưu trữ trên phần mềm.\n4. Người sử dụng là cán bộ, công chức,\nviên chức của Kiểm toán nhà nước và các tổ chức, cá nhân được cấp quyền để truy cập vào phần mềm.\n5. Tài khoản người dùng bao gồm tên\nđăng nhập (user name) và mật khẩu (password) dùng để định danh và xác định quyền hạn của người sử dụng đăng nhập vào phần mềm để khai thác, sử dụng hoặc quản trị phần mềm. Mỗi tài khoản tùy theo vị trí và quyền hạn của người sử dụng sẽ được cấp một hoặc nhiều quyền khác nhau. Tài khoản người dùng gồm 04 loại: a. Tài khoản quản trị hệ thống là tài khoản cấp cho người dùng của bộ phận quản trị phần mềm để cấp mới, thay đổi hoặc hủy bỏ tài khoản khác; cấp quyền hoặc hủy bỏ quyền; thiết lập các tham số hệ thống của phần mềm. b. Tài khoản quản trị của đơn vị là tài khoản cấp cho người dùng của đơn vị trực thuộc Kiểm toán nhà nước để phân đoàn kiểm toán theo kế hoạch kiểm toán của đoàn kiểm toán. c. Tài khoản quản trị của Vụ chế độ và kiểm soát chất lượng kiểm toán là tài khoản cấp cho người dùng của Vụ chế độ và kiểm soát chất lượng kiểm toán để phân công công tác kiểm tra, kiểm soát cho người sử dụng tại Vụ chế độ và kiểm soát chất lượng kiểm toán. d. Tài khoản cá nhân là tài khoản cấp cho công chức của Kiểm toán nhà nước và các cá nhân có liên quan trong việc quản lý, khai thác sử dụng dữ liệu quản lý thông tin nhật ký kiểm toán. e. Sao lưu là việc tạo ra bản sao cơ sở dữ liệu tài liệu lưu trữ, phần mềm.\nĐiều 3. Các hành vi bị cấm\n1. Phá hoại hệ thống cơ sở hạ tầng\nthông tin hoặc cản trở quá trình vận hành, duy trì ổn định, liên tục của phần mềm.\n2. Truy cập bất hợp pháp, thay đổi dữ\nliệu không đúng thẩm quyền, làm sai lệch hoặc phá hủy dữ liệu trên phần mềm.\n3. Cố ý xoá bỏ, tháo gỡ, thay đổi\nthông số thiết lập của phần mềm gây lỗi hoặc ảnh hưởng đến việc vận hành phần mềm và các phần mềm, cơ sở dữ liệu khác được cài đặt trong hệ thống mạng của KTNN.\n4. Sử dụng, lợi dụng phần mềm hoặc dữ\nliệu của phần mềm vào các mục đích không thuộc phạm vi, chức năng, nhiệm vụ được phân công; Cung cấp, phát tán thông tin, chia sẻ cơ sở dữ liệu trái với quy định của KTNN và pháp luật hiện hành.\n5. Cố ý tiết lộ tài khoản, các quy tắc\nsử dụng, danh sách người sử dụng, sơ đồ tổ chức hệ thống, thông tin dữ liệu của Phần mềm cho các tổ chức, cá nhân không có thẩm quyền.\nChương II\nQUẢN LÝ, VẬN\nHÀNH VÀ KHAI THÁC PHẦN MỀM\nĐiều 4. Nguyên tắc quản lý, vận hành và khai thác phần mềm\n1. Phần mềm (bao gồm cả cơ sở dữ liệu)\nđược quản lý tập trung, thống nhất tại Trung tâm dữ liệu của Kiểm toán nhà nước, vận hành thông qua hệ thống mạng Internet, đảm bảo hoạt động liên tục, ổn định, an toàn và bảo mật thông tin.\n2. Phần mềm được quản lý, vận hành đảm\nbảo nguyên tắc đề cao trách nhiệm của công chức của Kiểm toán nhà nước và các tổ chức, cá nhân có liên quan; góp phần nâng cao hiệu quả hoạt động trong công tác thực hiện kiểm toán của kiểm toán viên.\n3. Phần mềm được quản lý, vận hành đảm\nbảo tuân thủ các quy định bảo mật cấp nhà nước của Kiểm toán nhà nước và của pháp luật hiện hành.\n4. Việc cài đặt, quản lý, vận hành phần\nmềm phải tuân thủ theo Quy chế Quản lý và sử dụng hệ thống mạng của Kiểm toán nhà nước.\n5. Bảo đảm hệ thống cơ sở hạ tầng\nthông tin, các thiết bị có liên quan và môi trường cho việc cài đặt, vận hành phần mềm.\n6. Khai thác, sử dụng phần mềm đúng mục\nđích, đúng chức năng, nhiệm vụ, đảm bảo tuân thủ các quy định đảm bảo an toàn thông tin mạng, bảo vệ bí mật nhà nước của Kiểm toán nhà nước và của pháp luật hiện hành.\nĐiều 5. Bảo trì, nâng cấp và phát triển phần mềm\n1. Bảo đảm hệ thống cơ sở hạ tầng\nthông tin, các thiết bị có liên quan và môi trường cho việc cài đặt, vận hành phần mềm sau khi bảo trì, nâng cấp, phát triển.\n2. Thực hiện các hoạt động kiểm tra,\ngiám sát để cảnh báo các hành vi xâm phạm an toàn của phần mềm.\n3. Thực hiện các biện pháp sao lưu dữ\nliệu định kỳ, đảm bảo khả năng khôi phục hệ thống khi xảy ra sự cố. Dữ liệu đã sao lưu cần phải được bảo vệ an toàn, định kỳ kiểm tra và đảm bảo phục hồi được từ dữ liệu sao lưu để sẵn sàng sử dụng khi cần thiết.\n4. Thực hiện các hoạt động bảo trì, bảo\ndưỡng, sửa chữa định kỳ để đảm bảo phần mềm hoạt động ổn định, liên tục.\n5. Định kỳ hàng năm (hoặc đột xuất\nkhi có đề xuất từ người sử dụng) thực hiện rà soát, đề xuất phương án nâng cấp, phát triển hệ thống hạ tầng phần cứng, phần mềm nhằm đáp ứng nhu cầu thực tế.\nĐiều 6. Đảm bảo an toàn thông tin\n1. Thực hiện các hoạt động kiểm tra,\ngiám sát để cảnh báo các hành vi xâm phạm an toàn phần mềm.\n2. Sử dụng các kênh mã hóa và xác thực\nngười dùng cho các hoạt động: Đăng nhập hệ thống, thay đổi thông tin người dùng, gửi nhận dữ liệu giữa các máy chủ, sao lưu dữ liệu, cập nhật và biên tập dữ liệu.\n3. Áp dụng các biện pháp bảo đảm tính\nxác thực và bảo vệ sự toàn vẹn của dữ liệu trong phần mềm.\n4. Thực hiện việc lưu trữ lịch sử các\nhoạt động của người sử dụng: Truy cập vào phần mềm; thay đổi thông tin, quyền hạn người dùng; tạo mới, thay đổi, sửa, xóa thông tin và các nghiệp vụ khác trên phần mềm.\n5. Các cá nhân định kỳ hoặc thường xuyên thay đổi mật khẩu để đảm bảo cho các thông tin và tài\nliệu ghi nhận trên hệ thống nhật ký kiểm toán điện tử.\n6. Thiết lập và duy trì hệ thống dự\nphòng nhằm đảm bảo phần mềm hoạt động liên tục.\n7. Thực hiện các biện pháp cần thiết\nkhác để đảm bảo an toàn thông tin trong hoạt động của phần mềm.\nĐiều 7. Quy trình đăng ký cấp mới, thay đổi, hủy bỏ tài khoản\n1. Quy trình đăng ký cấp mới, thay đổi,\nhủy bỏ tài khoản người dùng. Khi có nhu cầu cấp mới, thay đổi, hủy bỏ tài khoản người dùng, đơn vị gửi phiếu yêu cầu theo mẫu tại Phụ lục 01 của\nQuy chế này. Thông tin yêu cầu phải được gửi từ hộp thư chung của đơn vị đến hộp\nthư hotrophanmem@sav.gov.vn và gửi văn bản đến Trung tâm Tin học. Trung tâm Tin học có trách nhiệm cấp mới, thay đổi hoặc hủy bỏ tài khoản người dùng trong vòng 01 ngày làm việc kể từ ngày nhận được yêu cầu thông qua thư điện tử.\n2. Tên tài khoản người dùng và mật khẩu\nban đầu do Trung tâm Tin học thiết lập. Thông tin về tài khoản người dùng sẽ được gửi đến hộp thư điện tử của Kiểm toán nhà nước do người dùng cung cấp ngay sau khi tài khoản được tạo lập. Điều này được thay thế khi Kiểm toán nhà nước ban hành Quy định về quản lý tài khoản người dùng của Kiểm toán nhà nước.\nĐiều 8. Quản lý tài khoản người dùng\n1. Quản lý tài khoản quản trị hệ thống:\na. Giám đốc Trung tâm Tin học phân công và tổ chức giám sát tình hình thực hiện nhiệm vụ, trách nhiệm của người quản trị hệ thống. b. Người quản trị hệ thống sử dụng tài khoản được phân quyền để thực hiện việc quản trị hệ thống và chịu trách nhiệm quản lý và bảo mật tài khoản.\n2. Quản lý tài khoản quản trị của đơn\nvị: a. Vụ Chế độ và kiểm soát chất lượng kiểm toán được cấp tài khoản quản trị của đơn vị để thực hiện nhiệm vụ quy định tại Khoản 5, Điều 14 của Quy chế này. b. Thủ trưởng đơn vị có trách nhiệm phân công người sử dụng tài khoản quản trị đơn vị của đơn vị, đồng thời đăng ký với Trung tâm Tin học. Việc đăng ký được thực hiện theo Quy định tại Khoản 1,\nĐiều 7 của Quy chế này. c. Người sử dụng tài khoản quản trị của đơn vị sử dụng phần mềm theo nhiệm vụ được giao và chịu trách nhiệm bảo mật tài khoản theo đúng quy định\n3. Quản lý tài khoản cá nhân:\na. Mỗi cán bộ, công chức của Kiểm toán nhà nước được cấp 01 tài khoản để khai thác, sử dụng phần mềm và chịu trách nhiệm đảm bảo việc bảo mật tài khoản của mình theo đúng quy định của Kiểm toán nhà nước và của pháp luật. b. Tổng Kiểm toán nhà nước xem xét quyết định cấp tài khoản cho tổ chức, cá nhân không thuộc diện quản lý của Kiểm toán nhà nước khi có yêu cầu khai thác thông tin. Các tổ chức, cá nhân được cấp tài khoản phải phù hợp với các quy định của pháp luật, của Kiểm toán nhà nước về khai thác thông tin của Kiểm toán nhà nước và có trách nhiệm quản lý, bảo mật tài khoản được cấp, không vi phạm các hành vi bị cấm được quy định tại Điều 3 của\nQuy chế này.\nĐiều 9. Trách nhiệm khai thác, sử dụng phần mềm\n1. Công chức của Kiểm toán nhà nước\nvà các tổ chức, cá nhân được cấp tài khoản người dùng để khai thác, sử dụng phần mềm có trách nhiệm khai thác, sử dụng phần mềm đúng mục đích, nhiệm vụ được phân công và tuân thủ các quy định tại Quy chế này.\n2. Công chức của Kiểm toán nhà nước\nvà các tổ chức, cá nhân được cấp tài khoản ngay khi đăng nhập lần đầu có trách nhiệm kiểm tra các thông tin của tổ chức, cá nhân đã đăng ký, đồng thời thay đổi mật khẩu và chịu trách nhiệm bảo mật, đảm bảo an toàn tài khoản do mình quản lý. Đăng xuất khỏi phần mềm khi không sử dụng.\n3. Công chức của Kiểm toán nhà nước\nvà các tổ chức, cá nhân khai thác, sử dụng phần mềm kịp thời báo cáo Thủ trưởng đơn vị để có văn bản thông báo cho Trung tâm Tin học, đồng thời thông tin ngay tới bộ phận quản trị phần mềm thông qua địa chỉ hộp thư hotrophanmem@sav.gov.vn khi xảy ra các trường hợp sau: - Gặp các sự cố không thể truy cập vào phần mềm; - Phát hiện nguy cơ lộ thông tin tài khoản hoặc dữ liệu; - Quên hoặc mất mật khẩu (đề nghị văn thư đơn vị thông tin đến bộ phận quản trị phần mềm); - Lỗi phần mềm phát sinh trong quá trình sử dụng hoặc ý kiến đề xuất cải tiến, hoàn thiện phần mềm.\nChương III\nGHI NHẬT KÝ KIỂM\nTOÁN, NHẬT KÝ CÔNG TÁC ĐIỆN TỬ\nĐiều 10. Nguyên tắc ghi nhật ký kiểm toán, nhật ký công tác điện tử\n1. Cá nhân khi kiểm toán thực hiện\nghi nhật ký kiểm toán điện tử (thành viên đoàn kiểm toán) hoặc ghi nhật ký công tác điện tử (Thủ trưởng đơn vị chủ trì cuộc kiểm toán, Lãnh đạo đoàn kiểm toán) chịu trách nhiệm về tính chính xác, đầy đủ của nội dung nhật ký được ghi trên phần mềm.\n2. Việc ghi nhật ký kiểm toán, ghi nhật\nký công tác điện tử được thực hiện theo đúng trình tự được quy định tại Điều 11, Điều 12 của Quy chế này. Trong trường hợp đặc biệt, thời gian ghi nhật ký do Tổng Kiểm toán nhà nước quyết định.\nĐiều 11. Quy trình ghi nhật ký kiểm toán điện tử Thành viên đoàn kiểm toán khi thực hiện kiểm toán có trách nhiệm ghi đầy đủ, chính xác, kịp thời nhật ký kiểm toán điện tử hàng ngày theo quy định. Sử dụng phần mềm hiệu quả, đúng mục đích, nhiệm vụ được phân công.\n1. Ghi nhật ký kiểm toán điện tử:\nMỗi ngày thành viên đoàn kiểm toán có thể viết nhiều nội dung nhật ký tương ứng với các nội dung công việc thực hiện trong quá trình thực hiện kiểm toán. Thời gian ghi nhật ký kiểm toán điện tử từ 7 giờ 30’ ngày thực hiện kiểm toán đến 7 giờ 30’ ngày hôm sau. Trong khoảng thời gian trên, thành viên đoàn kiểm toán có thể sửa nội dung nhật ký trong ngày, cập nhật bằng chứng kiểm toán hoặc xóa các nội dung kiểm toán đã được ghi trong ngày. Sang ngày hôm sau, thành viên đoàn kiểm toán không được phép sửa, xóa nhật ký của ngày hôm trước.\n2. Ghi nhật ký sửa đổi bổ sung:\nVới mỗi bản nhật ký đã được ghi trong quá trình thực hiện kiểm toán, thành viên đoàn kiểm toán có thể tiến hành thực hiện sửa đổi bổ sung nội dung nhật ký của những ngày trước. Sau thời gian kết thúc thực hiện kiểm toán, thành viên đoàn kiểm toán có thêm 05 ngày để xem và tiến hành sửa đổi bổ sung của các nội dung đã ghi trước đây.\n3. Xác nhận nội dung nhật ký của\nthành viên đoàn kiểm toán Tổ trưởng tổ kiểm toán, ngoài công tác ghi nhật ký kiểm toán điện tử hàng ngày, tổ trưởng có trách nhiệm kiểm soát và xác nhận các nội dung đã ghi đối với các nội dung nhật ký điện tử hàng ngày của các thành viên trong tổ kiểm toán.\n4. Trong trường hợp xảy ra sự cố đối\nvới phần mềm khiến cho phần mềm không hoạt động được hoặc bị gián đoạn, người sử dụng thông tin ngay tới bộ phận quản trị phần mềm thông qua địa chỉ hộp thư hotrophanmem@sav.gov.vn và tiến hành ghi nhật ký kiểm toán điện tử ngay khi hệ thống hoạt động trở lại bình thường.\nĐiều 12. Quy trình ghi nhật ký công tác điện tử Trong quá trình thực hiện kiểm toán người sử dụng với vai trò Thủ trưởng đơn vị chủ trì cuộc kiểm toán hoặc lãnh đạo đoàn kiểm toán có trách nhiệm ghi nhật ký công tác điện tử. Người sử dụng ghi lại nội dung các công việc liên quan đến nội dung cuộc kiểm toán. Sau thời gian kết thúc thực hiện kiểm toán, người sử dụng có thêm 05 ngày để xem và tiến hành sửa đổi bổ sung của các nội dung đã ghi trước đây.\nChương IV\nKHAI THÁC NHẬT\nKÝ KIỂM TOÁN, NHẬT KÝ CÔNG TÁC ĐIỆN TỬ\nĐiều 13. Quyền khai thác dữ liệu nhật ký kiểm toán, nhật ký công tác điện tử của Lãnh đạo Kiểm toán nhà nước và Thủ trưởng Đơn vị chủ trì thực hiện kiểm toán Lãnh đạo Kiểm toán nhà nước và Thủ trưởng Đơn vị chủ trì thực hiện kiểm toán có quyền khai thác dữ liệu nhật ký kiểm toán, nhật ký công tác điện tử trên phần mềm như sau:\n1. Tổng Kiểm toán nhà nước có quyền\ntruy cập vào phần mềm để khai thác, sử dụng dữ liệu nhật ký kiểm toán, nhật ký công tác điện tử của tất cả các đơn vị trực thuộc Kiểm toán nhà nước.\n2. Phó Tổng Kiểm toán nhà nước có quyền\ntruy cập vào phần mềm để khai thác, sử dụng dữ liệu nhật ký kiểm toán, nhật ký công tác điện tử của các đơn vị trực thuộc Kiểm toán nhà nước theo phạm vi được phân công phụ trách quản lý. Với các cuộc kiểm toán đã kết thúc thực hiện kiểm toán, thời gian truy cập tối đa không quá 60 ngày kể từ ngày kết thúc thực hiện kiểm toán.\n3. Thủ trưởng các đơn vị chủ trì thực\nhiện kiểm toán có quyền truy cập vào phần mềm để khai thác, sử dụng dữ liệu nhật ký kiểm toán, nhật ký công tác điện tử của các cuộc kiểm toán do đơn vị mình chủ trì thực hiện. Với các cuộc kiểm toán đã kết thúc thực hiện kiểm toán, thời gian truy cập tối đa không quá 60 ngày kể từ ngày kết thúc thực hiện kiểm toán.\nĐiều 14. Quyền khai thác dữ liệu nhật ký kiểm toán, nhật ký công tác điện tử của Đoàn kiểm toán\n1. Trưởng Đoàn kiểm toán có quyền\ntruy cập vào phần mềm để kiểm tra dữ liệu nhật ký kiểm toán, nhật ký công tác điện tử của tất cả thành viên trong Đoàn kiểm toán do mình phụ trách. Với các cuộc kiểm toán đã kết thúc thực hiện kiểm toán, thời gian truy cập tối đa không quá 60 ngày kể từ ngày kết thúc thực hiện kiểm toán.\n2. Phó Trưởng Đoàn kiểm toán có quyền\ntruy cập vào phần mềm để kiểm tra dữ liệu nhật ký kiểm toán của tất cả thành viên trong Đoàn kiểm toán do mình phụ trách. Với các cuộc kiểm toán đã kết thúc thực hiện kiểm toán, thời gian truy cập tối đa không quá 60 ngày kể từ ngày kết thúc thực hiện kiểm toán.\n3. Tổ trưởng Tổ kiểm toán có quyền\ntruy cập vào phần mềm để kiểm tra dữ liệu nhật ký kiểm toán của tất cả thành viên trong Tổ kiểm toán thực hiện. Với các cuộc kiểm toán đã kết thúc thực hiện kiểm toán, thời gian truy cập tối đa không quá 60 ngày kể từ ngày kết thúc thực hiện kiểm toán.\n4. Thành viên Tổ kiểm toán thuộc Đoàn\nkiểm toán có quyền truy cập vào phần mềm tiến hành ghi nhật ký kiểm toán hàng ngày trong thời gian thực hiện kiểm toán. Với các cuộc kiểm toán đã kết thúc thực hiện kiểm toán, thời gian truy cập tối đa không quá 60 ngày kể từ ngày kết thúc thực hiện kiểm toán.\n5. Thành viên Tổ kiểm soát chất lượng\nkiểm toán thuộc đơn vị thực hiện kiểm toán có quyền truy cập vào phần mềm tiến hành kiểm tra kiểm soát để kiểm tra dữ liệu nhật ký kiểm toán, nhật ký công tác điện tử của Đoàn kiểm toán. Với các cuộc kiểm toán đã kết thúc thực hiện kiểm toán, thời gian truy cập tối đa không quá 60 ngày kể từ ngày kết thúc thực hiện kiểm toán.\n6. Thành viên Tổ kiểm soát chất lượng\nkiểm toán thuộc Vụ chế độ và kiểm soát chất lượng kiểm toán có quyền truy cập vào phần mềm tiến hành kiểm tra kiểm soát để kiểm tra dữ liệu nhật ký kiểm toán, nhật ký công tác điện tử của Đoàn kiểm toán. Việc phân công thành viên Tổ kiểm tra kiểm soát thuộc Vụ chế độ và kiểm soát chất lượng kiểm toán sẽ do tài khoản quản trị tại Vụ chế độ và kiểm soát chất lượng kiểm toán thực hiện. Với các cuộc kiểm toán đã kết thúc thực hiện kiểm toán, thời gian truy cập tối đa không quá 60 ngày kể từ ngày kết thúc thực hiện kiểm toán.\n7. Đơn vị có chức năng thanh tra, kiểm\ntra cuộc kiểm toán có quyền khai thác, sử dụng để kiểm tra dữ liệu nhật ký kiểm toán, nhật ký công tác điện tử của Đoàn kiểm toán khi thực hiện công tác thanh tra, kiểm tra cuộc kiểm toán theo nhiệm vụ được giao. Căn cứ danh sách thành viên trong Quyết định thanh tra, kiểm tra cuộc kiểm toán của Kiểm toán nhà nước được gửi về Trung tâm Tin học, Trung tâm Tin học cấp quyền tương ứng trên phần mềm.\n8. Sau thời gian 60 ngày kể từ ngày kết\nthúc thực hiện kiểm toán, nếu phát sinh nhu cầu khai thác dữ liệu nhật ký kiểm toán, nhật ký công tác điện tử của Đoàn kiểm toán, Thủ trưởng đơn vị gửi văn bản báo cáo Tổng kiểm toán nhà nước xin ý kiến. Sau khi Tổng kiểm toán nhà nước đồng ý, đơn vị đăng ký bằng văn bản với Trung tâm Tin học để được cấp quyền khai thác dữ liệu nhật ký kiểm toán, nhật ký công tác điện tử của Đoàn kiểm toán.\nChương V\nTRÁCH NHIỆM CỦA TỔ CHỨC, ĐƠN VỊ\nĐiều 15. Trách nhiệm của các Đơn vị chủ trì thực hiện kiểm toán\n1. Kiểm tra, đôn đốc tình hình thực\nhiện ghi nhật ký kiểm toán, nhật ký công tác điện tử vào phần mềm theo đúng quy định của Quy chế này.\n2. Định kỳ hàng năm (hoặc đột xuất),\nbáo cáo Tổng Kiểm toán nhà nước tình hình quản lý, khai thác sử dụng phần mềm của đơn vị thông qua Trung tâm Tin học.\nĐiều 16. Trách nhiệm của Trung tâm Tin học\n1. Quản lý, vận hành phần mềm đảm bảo\nhoạt động ổn định, liên tục, an toàn và bảo mật thông tin.\n2. Chủ trì hướng dẫn các đơn vị trong\nviệc ghi nhật ký kiểm toán, nhật ký công tác điện tử, quản lý, khai thác sử dụng phần mềm theo quy định của Kiểm toán nhà nước, của pháp luật.\n3. Chủ trì, phối hợp với các đơn vị liên\nquan tổ chức đào tạo, hướng dẫn sử dụng phần mềm.\n4. Chủ trì, phối hợp với các đơn vị\nliên quan nghiên cứu, đề xuất giải pháp và kinh phí duy trì hoạt động, nâng cấp, phát triển phần mềm, bổ sung hạ tầng kỹ thuật để đảm bảo hoạt động an toàn, ổn định, hiệu quả phần mềm.\n5. Định kỳ (hoặc đột xuất) báo cáo\nLãnh đạo Kiểm toán nhà nước tình hình quản lý và sử dụng phần mềm.\n6. Được quyền truy cập vào phần mềm để:\nQuản trị phần mềm, lập báo cáo, cấp mới, thay đổi, hủy bỏ tài khoản (không bao gồm cập nhật, xem, sửa, xoá dữ liệu) và cấp quyền khai thác sử dụng phần mềm cho các tổ chức cá nhân theo quy định của Quy chế này.\n7. Kiểm tra và đề xuất giải pháp bảo\nđảm an toàn và bảo mật dữ liệu theo quy định hiện hành.\n8. Định kỳ (hàng ngày) tổ chức sao lưu dữ liệu.\n9. Tổ chức thực hiện khắc phục sự cố\nkhi sự cố xảy ra.\n10. Thông báo cho các đơn vị khi xảy\nra sự cố hoặc lịch bảo trì, nâng cấp hệ thống có ảnh hưởng đến việc quản lý và sử dụng phần mềm.\nĐiều 17. Trách nhiệm của các đơn vị khác\n1. Văn phòng KTNN tham mưu, đề xuất Tổng\nKiểm toán nhà nước trong việc bố trí kinh phí đảm bảo duy trì hoạt động, nâng cấp, phát triển phần mềm, bổ sung hạ tầng kỹ thuật để đảm bảo hoạt động an toàn, ổn định, hiệu quả phần mềm.\n2. Các đơn vị khác có trách nhiệm phối\nhợp tổ chức thực hiện quản lý, khai thác và sử dụng phần mềm khi có yêu cầu.\nChương VI\nĐIỀU KHOẢN THI HÀNH\nĐiều 18. Hiệu lực thi hành\nQuy chế này có hiệu lực kể từ ngày ký\nvà thay thế Quy chế quản lý và sử dụng phần mềm Quản lý thông tin nhật ký kiểm toán của Kiểm toán nhà nước ban hành kèm theo Quyết định số 1367/QĐ-KTNN ngày 10/12/2013 của Tổng Kiểm toán nhà nước.\nĐiều 19. Tổ chức thực hiện\n1. Trung tâm Tin học chủ trì tổ chức\ntriển khai, hướng dẫn thực hiện Quy chế này.\n2. Thủ trưởng các đơn vị chịu trách\nnhiệm về việc tổ chức triển khai thực hiện Quy chế này trong phạm vi quản lý của mình.\n3. Trong quá trình thực hiện nếu có\nkhó khăn vướng mắc, các đơn vị phản ánh về Trung tâm Tin học để tổng hợp, báo cáo Tổng Kiểm toán nhà nước xem xét, quyết định.",
+  "tree": {
+    "parts": [
+      {
+        "part_id": "doc:152631:part:1",
+        "part_type": "main",
+        "part_title": null,
+        "reference": null,
+        "direct_text": "QUYẾT ĐỊNH\nBAN HÀNH QUY CHẾ QUẢN LÝ, KHAI THÁC VÀ SỬ DỤNG PHẦN MỀM QUẢN LÝ HỆ THỐNG\nTHÔNG TIN NHẬT KÝ KIỂM TOÁN CỦA KIỂM TOÁN NHÀ NƯỚC\nTỔNG KIỂM TOÁN NHÀ NƯỚC\nCăn cứ Luật Kiểm toán nhà nước; Căn cứ Luật Công nghệ thông tin ban hành ngày 29 tháng 6 năm 2006; Căn cứ Nghị định số 64/2007/NĐ-CP ngày 10 tháng 4 năm 2007 của Chính phủ về việc ứng dụng công nghệ thông tin trong hoạt động của cơ quan nhà nước; Căn cứ Quyết định số 1662/QĐ-KTNN ngày 03/11/2017 của Tổng KTNN ban hành Quy chế soạn thảo, thẩm định, ban hành văn bản quy phạm pháp luật và văn bản quản lý của Kiểm toán nhà nước; Xét đề nghị của Giám đốc Trung tâm Tin học.\nQUYẾT ĐỊNH:",
+        "chapters": [],
+        "sections": [],
+        "articles": [
+          {
+            "article_id": "doc:152631:part:1:article:1",
+            "number": "1",
+            "title": "Ban hành kèm theo Quyết định này Quy chế quản lý, khai thác và sử dụng phần mềm Quản lý hệ thống thông tin nhật ký kiểm toán của Kiểm toán nhà nước.",
+            "content": "Điều 1. Ban hành kèm theo Quyết định này Quy chế quản lý, khai thác và sử dụng phần mềm Quản lý hệ thống thông tin nhật ký kiểm toán của Kiểm toán nhà nước.",
+            "clauses": [],
+            "points": []
+          },
+          {
+            "article_id": "doc:152631:part:1:article:2",
+            "number": "2",
+            "title": "Quyết định này thay thế Quyết định số 1367/QĐ-KTNN ngày 10/12/2013 của Tổng Kiểm toán nhà nước về việc ban hành Quy chế quản lý và sử dụng phần mềm Quản lý thông tin nhật ký kiểm toán của Kiểm toán nhà nước.",
+            "content": "Điều 2. Quyết định này thay thế Quyết định số 1367/QĐ-KTNN ngày 10/12/2013 của Tổng Kiểm toán nhà nước về việc ban hành Quy chế quản lý và sử dụng phần mềm Quản lý thông tin nhật ký kiểm toán của Kiểm toán nhà nước.",
+            "clauses": [],
+            "points": []
+          },
+          {
+            "article_id": "doc:152631:part:1:article:3",
+            "number": "3",
+            "title": "Quyết định này có hiệu lực thi hành kể từ ngày ký.",
+            "content": "Điều 3. Quyết định này có hiệu lực thi hành kể từ ngày ký.",
+            "clauses": [],
+            "points": []
+          },
+          {
+            "article_id": "doc:152631:part:1:article:4",
+            "number": "4",
+            "title": "Vụ trưởng Vụ Tổ chức cán bộ, Giám đốc Trung tâm Tin học, Thủ trưởng các đơn vị trực thuộc Kiểm toán nhà nước và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này",
+            "content": "Điều 4. Vụ trưởng Vụ Tổ chức cán bộ, Giám đốc Trung tâm Tin học, Thủ trưởng các đơn vị trực thuộc Kiểm toán nhà nước và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này",
+            "clauses": [],
+            "points": []
+          }
+        ],
+        "unstructured_blocks": []
+      },
+      {
+        "part_id": "doc:152631:part:2",
+        "part_type": "regulation",
+        "part_title": "QUY CHẾ",
+        "reference": null,
+        "direct_text": "QUY CHẾ\nQUẢN LÝ, KHAI THÁC VÀ SỬ DỤNG PHẦN MỀM QUẢN LÝ HỆ THỐNG THÔNG TIN NHẬT\nKÝ KIỂM TOÁN CỦA KIỂM TOÁN NHÀ NƯỚC\n(Ban hành kèm theo Quyết định số 662/QĐ-KTNN ngày 29/5/2020 của Tổng Kiểm toán nhà nước)\nQuy chế này. Thông tin yêu cầu phải được gửi từ hộp thư chung của đơn vị đến hộp\nthư hotrophanmem@sav.gov.vn và gửi văn bản đến Trung tâm Tin học. Trung tâm Tin học có trách nhiệm cấp mới, thay đổi hoặc hủy bỏ tài khoản người dùng trong vòng 01 ngày làm việc kể từ ngày nhận được yêu cầu thông qua thư điện tử.\n2. Tên tài khoản người dùng và mật khẩu\nban đầu do Trung tâm Tin học thiết lập. Thông tin về tài khoản người dùng sẽ được gửi đến hộp thư điện tử của Kiểm toán nhà nước do người dùng cung cấp ngay sau khi tài khoản được tạo lập. Điều này được thay thế khi Kiểm toán nhà nước ban hành Quy định về quản lý tài khoản người dùng của Kiểm toán nhà nước.\nQuy chế này.\nQuy chế này có hiệu lực kể từ ngày ký\nvà thay thế Quy chế quản lý và sử dụng phần mềm Quản lý thông tin nhật ký kiểm toán của Kiểm toán nhà nước ban hành kèm theo Quyết định số 1367/QĐ-KTNN ngày 10/12/2013 của Tổng Kiểm toán nhà nước.",
+        "chapters": [
+          {
+            "chapter_id": "doc:152631:part:2:chapter:1",
+            "number": "I",
+            "title": "NHỮNG QUY ĐỊNH CHUNG",
+            "content": "Chương I\nNHỮNG QUY ĐỊNH CHUNG",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:152631:part:2:article:1",
+                "number": "1",
+                "title": "Phạm vi điều chỉnh, đối tượng áp dụng",
+                "content": "Điều 1. Phạm vi điều chỉnh, đối tượng áp dụng",
+                "clauses": [
+                  {
+                    "clause_id": "doc:152631:part:2:article:1:clause:1",
+                    "number": "1",
+                    "content": "1. Quy chế này quy định trình tự, thủ\ntục, trách nhiệm, quyền hạn của các đơn vị trực thuộc Kiểm toán nhà nước và các tổ chức, cá nhân khác có liên quan trong việc quản lý, khai thác và sử dụng phần mềm Quản lý hệ thống thông tin nhật ký kiểm toán của Kiểm toán nhà nước.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:152631:part:2:article:1:clause:2",
+                    "number": "2",
+                    "content": "2. Quy chế này áp dụng với các đơn vị\ntrực thuộc Kiểm toán nhà nước; các Đoàn kiểm toán của Kiểm toán nhà nước; cán bộ, công chức, viên chức và người lao động (gọi tắt là công chức) của Kiểm toán nhà nước và các tổ chức, cá nhân khác có liên quan trong việc quản lý, khai thác, sử dụng phần mềm Quản lý hệ thống thông tin nhật ký kiểm toán.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:152631:part:2:article:1:clause:3",
+                    "number": "3",
+                    "content": "3. Đối với các đơn vị trực thuộc Kiểm\ntoán nhà nước hoạt động liên quan đến lĩnh vực an ninh, quốc phòng mà nhật ký kiểm toán chứa các thông tin, dữ liệu mật thì không thực hiện theo quy chế này.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:152631:part:2:article:2",
+                "number": "2",
+                "title": "Giải thích từ ngữ Trong Quy chế này, các từ ngữ dưới đây được hiểu như sau:",
+                "content": "Điều 2. Giải thích từ ngữ Trong Quy chế này, các từ ngữ dưới đây được hiểu như sau:",
+                "clauses": [
+                  {
+                    "clause_id": "doc:152631:part:2:article:2:clause:1",
+                    "number": "1",
+                    "content": "1. Phần mềm Quản lý hệ thống thông\ntin nhật ký kiểm toán (gọi tắt là phần mềm) là phần mềm của Kiểm toán nhà nước nhằm trợ giúp công tác ghi nhật ký kiểm toán, nhật ký công tác và quản lý việc khai thác, sử dụng thông tin nhật ký kiểm toán của Kiểm toán nhà nước.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:152631:part:2:article:2:clause:2",
+                    "number": "2",
+                    "content": "2. Nhật ký kiểm toán điện tử là nội\ndung nhật ký làm việc của các thành viên trong tổ kiểm toán được lưu trữ trên phần mềm.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:152631:part:2:article:2:clause:3",
+                    "number": "3",
+                    "content": "3. Nhật ký công tác là nội dung nhật\nký làm việc của thủ trưởng đơn vị và lãnh đạo đoàn kiểm toán được lưu trữ trên phần mềm.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:152631:part:2:article:2:clause:4",
+                    "number": "4",
+                    "content": "4. Người sử dụng là cán bộ, công chức,\nviên chức của Kiểm toán nhà nước và các tổ chức, cá nhân được cấp quyền để truy cập vào phần mềm.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:152631:part:2:article:2:clause:5",
+                    "number": "5",
+                    "content": "5. Tài khoản người dùng bao gồm tên\nđăng nhập (user name) và mật khẩu (password) dùng để định danh và xác định quyền hạn của người sử dụng đăng nhập vào phần mềm để khai thác, sử dụng hoặc quản trị phần mềm. Mỗi tài khoản tùy theo vị trí và quyền hạn của người sử dụng sẽ được cấp một hoặc nhiều quyền khác nhau. Tài khoản người dùng gồm 04 loại: a. Tài khoản quản trị hệ thống là tài khoản cấp cho người dùng của bộ phận quản trị phần mềm để cấp mới, thay đổi hoặc hủy bỏ tài khoản khác; cấp quyền hoặc hủy bỏ quyền; thiết lập các tham số hệ thống của phần mềm. b. Tài khoản quản trị của đơn vị là tài khoản cấp cho người dùng của đơn vị trực thuộc Kiểm toán nhà nước để phân đoàn kiểm toán theo kế hoạch kiểm toán của đoàn kiểm toán. c. Tài khoản quản trị của Vụ chế độ và kiểm soát chất lượng kiểm toán là tài khoản cấp cho người dùng của Vụ chế độ và kiểm soát chất lượng kiểm toán để phân công công tác kiểm tra, kiểm soát cho người sử dụng tại Vụ chế độ và kiểm soát chất lượng kiểm toán. d. Tài khoản cá nhân là tài khoản cấp cho công chức của Kiểm toán nhà nước và các cá nhân có liên quan trong việc quản lý, khai thác sử dụng dữ liệu quản lý thông tin nhật ký kiểm toán. e. Sao lưu là việc tạo ra bản sao cơ sở dữ liệu tài liệu lưu trữ, phần mềm.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:152631:part:2:article:3",
+                "number": "3",
+                "title": "Các hành vi bị cấm",
+                "content": "Điều 3. Các hành vi bị cấm",
+                "clauses": [
+                  {
+                    "clause_id": "doc:152631:part:2:article:3:clause:1",
+                    "number": "1",
+                    "content": "1. Phá hoại hệ thống cơ sở hạ tầng\nthông tin hoặc cản trở quá trình vận hành, duy trì ổn định, liên tục của phần mềm.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:152631:part:2:article:3:clause:2",
+                    "number": "2",
+                    "content": "2. Truy cập bất hợp pháp, thay đổi dữ\nliệu không đúng thẩm quyền, làm sai lệch hoặc phá hủy dữ liệu trên phần mềm.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:152631:part:2:article:3:clause:3",
+                    "number": "3",
+                    "content": "3. Cố ý xoá bỏ, tháo gỡ, thay đổi\nthông số thiết lập của phần mềm gây lỗi hoặc ảnh hưởng đến việc vận hành phần mềm và các phần mềm, cơ sở dữ liệu khác được cài đặt trong hệ thống mạng của KTNN.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:152631:part:2:article:3:clause:4",
+                    "number": "4",
+                    "content": "4. Sử dụng, lợi dụng phần mềm hoặc dữ\nliệu của phần mềm vào các mục đích không thuộc phạm vi, chức năng, nhiệm vụ được phân công; Cung cấp, phát tán thông tin, chia sẻ cơ sở dữ liệu trái với quy định của KTNN và pháp luật hiện hành.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:152631:part:2:article:3:clause:5",
+                    "number": "5",
+                    "content": "5. Cố ý tiết lộ tài khoản, các quy tắc\nsử dụng, danh sách người sử dụng, sơ đồ tổ chức hệ thống, thông tin dữ liệu của Phần mềm cho các tổ chức, cá nhân không có thẩm quyền.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:152631:part:2:chapter:2",
+            "number": "II",
+            "title": "QUẢN LÝ, VẬN HÀNH VÀ KHAI THÁC PHẦN MỀM",
+            "content": "Chương II\nQUẢN LÝ, VẬN\nHÀNH VÀ KHAI THÁC PHẦN MỀM",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:152631:part:2:article:4",
+                "number": "4",
+                "title": "Nguyên tắc quản lý, vận hành và khai thác phần mềm",
+                "content": "Điều 4. Nguyên tắc quản lý, vận hành và khai thác phần mềm",
+                "clauses": [
+                  {
+                    "clause_id": "doc:152631:part:2:article:4:clause:1",
+                    "number": "1",
+                    "content": "1. Phần mềm (bao gồm cả cơ sở dữ liệu)\nđược quản lý tập trung, thống nhất tại Trung tâm dữ liệu của Kiểm toán nhà nước, vận hành thông qua hệ thống mạng Internet, đảm bảo hoạt động liên tục, ổn định, an toàn và bảo mật thông tin.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:152631:part:2:article:4:clause:2",
+                    "number": "2",
+                    "content": "2. Phần mềm được quản lý, vận hành đảm\nbảo nguyên tắc đề cao trách nhiệm của công chức của Kiểm toán nhà nước và các tổ chức, cá nhân có liên quan; góp phần nâng cao hiệu quả hoạt động trong công tác thực hiện kiểm toán của kiểm toán viên.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:152631:part:2:article:4:clause:3",
+                    "number": "3",
+                    "content": "3. Phần mềm được quản lý, vận hành đảm\nbảo tuân thủ các quy định bảo mật cấp nhà nước của Kiểm toán nhà nước và của pháp luật hiện hành.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:152631:part:2:article:4:clause:4",
+                    "number": "4",
+                    "content": "4. Việc cài đặt, quản lý, vận hành phần\nmềm phải tuân thủ theo Quy chế Quản lý và sử dụng hệ thống mạng của Kiểm toán nhà nước.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:152631:part:2:article:4:clause:5",
+                    "number": "5",
+                    "content": "5. Bảo đảm hệ thống cơ sở hạ tầng\nthông tin, các thiết bị có liên quan và môi trường cho việc cài đặt, vận hành phần mềm.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:152631:part:2:article:4:clause:6",
+                    "number": "6",
+                    "content": "6. Khai thác, sử dụng phần mềm đúng mục\nđích, đúng chức năng, nhiệm vụ, đảm bảo tuân thủ các quy định đảm bảo an toàn thông tin mạng, bảo vệ bí mật nhà nước của Kiểm toán nhà nước và của pháp luật hiện hành.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:152631:part:2:article:5",
+                "number": "5",
+                "title": "Bảo trì, nâng cấp và phát triển phần mềm",
+                "content": "Điều 5. Bảo trì, nâng cấp và phát triển phần mềm",
+                "clauses": [
+                  {
+                    "clause_id": "doc:152631:part:2:article:5:clause:1",
+                    "number": "1",
+                    "content": "1. Bảo đảm hệ thống cơ sở hạ tầng\nthông tin, các thiết bị có liên quan và môi trường cho việc cài đặt, vận hành phần mềm sau khi bảo trì, nâng cấp, phát triển.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:152631:part:2:article:5:clause:2",
+                    "number": "2",
+                    "content": "2. Thực hiện các hoạt động kiểm tra,\ngiám sát để cảnh báo các hành vi xâm phạm an toàn của phần mềm.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:152631:part:2:article:5:clause:3",
+                    "number": "3",
+                    "content": "3. Thực hiện các biện pháp sao lưu dữ\nliệu định kỳ, đảm bảo khả năng khôi phục hệ thống khi xảy ra sự cố. Dữ liệu đã sao lưu cần phải được bảo vệ an toàn, định kỳ kiểm tra và đảm bảo phục hồi được từ dữ liệu sao lưu để sẵn sàng sử dụng khi cần thiết.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:152631:part:2:article:5:clause:4",
+                    "number": "4",
+                    "content": "4. Thực hiện các hoạt động bảo trì, bảo\ndưỡng, sửa chữa định kỳ để đảm bảo phần mềm hoạt động ổn định, liên tục.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:152631:part:2:article:5:clause:5",
+                    "number": "5",
+                    "content": "5. Định kỳ hàng năm (hoặc đột xuất\nkhi có đề xuất từ người sử dụng) thực hiện rà soát, đề xuất phương án nâng cấp, phát triển hệ thống hạ tầng phần cứng, phần mềm nhằm đáp ứng nhu cầu thực tế.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:152631:part:2:article:6",
+                "number": "6",
+                "title": "Đảm bảo an toàn thông tin",
+                "content": "Điều 6. Đảm bảo an toàn thông tin",
+                "clauses": [
+                  {
+                    "clause_id": "doc:152631:part:2:article:6:clause:1",
+                    "number": "1",
+                    "content": "1. Thực hiện các hoạt động kiểm tra,\ngiám sát để cảnh báo các hành vi xâm phạm an toàn phần mềm.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:152631:part:2:article:6:clause:2",
+                    "number": "2",
+                    "content": "2. Sử dụng các kênh mã hóa và xác thực\nngười dùng cho các hoạt động: Đăng nhập hệ thống, thay đổi thông tin người dùng, gửi nhận dữ liệu giữa các máy chủ, sao lưu dữ liệu, cập nhật và biên tập dữ liệu.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:152631:part:2:article:6:clause:3",
+                    "number": "3",
+                    "content": "3. Áp dụng các biện pháp bảo đảm tính\nxác thực và bảo vệ sự toàn vẹn của dữ liệu trong phần mềm.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:152631:part:2:article:6:clause:4",
+                    "number": "4",
+                    "content": "4. Thực hiện việc lưu trữ lịch sử các\nhoạt động của người sử dụng: Truy cập vào phần mềm; thay đổi thông tin, quyền hạn người dùng; tạo mới, thay đổi, sửa, xóa thông tin và các nghiệp vụ khác trên phần mềm.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:152631:part:2:article:6:clause:5",
+                    "number": "5",
+                    "content": "5. Các cá nhân định kỳ hoặc thường xuyên thay đổi mật khẩu để đảm bảo cho các thông tin và tài\nliệu ghi nhận trên hệ thống nhật ký kiểm toán điện tử.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:152631:part:2:article:6:clause:6",
+                    "number": "6",
+                    "content": "6. Thiết lập và duy trì hệ thống dự\nphòng nhằm đảm bảo phần mềm hoạt động liên tục.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:152631:part:2:article:6:clause:7",
+                    "number": "7",
+                    "content": "7. Thực hiện các biện pháp cần thiết\nkhác để đảm bảo an toàn thông tin trong hoạt động của phần mềm.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:152631:part:2:article:7",
+                "number": "7",
+                "title": "Quy trình đăng ký cấp mới, thay đổi, hủy bỏ tài khoản",
+                "content": "Điều 7. Quy trình đăng ký cấp mới, thay đổi, hủy bỏ tài khoản",
+                "clauses": [
+                  {
+                    "clause_id": "doc:152631:part:2:article:7:clause:1",
+                    "number": "1",
+                    "content": "1. Quy trình đăng ký cấp mới, thay đổi,\nhủy bỏ tài khoản người dùng. Khi có nhu cầu cấp mới, thay đổi, hủy bỏ tài khoản người dùng, đơn vị gửi phiếu yêu cầu theo mẫu tại Phụ lục 01 của",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:152631:part:2:article:8",
+                "number": "8",
+                "title": "Quản lý tài khoản người dùng",
+                "content": "Điều 8. Quản lý tài khoản người dùng",
+                "clauses": [
+                  {
+                    "clause_id": "doc:152631:part:2:article:8:clause:1",
+                    "number": "1",
+                    "content": "1. Quản lý tài khoản quản trị hệ thống:\na. Giám đốc Trung tâm Tin học phân công và tổ chức giám sát tình hình thực hiện nhiệm vụ, trách nhiệm của người quản trị hệ thống. b. Người quản trị hệ thống sử dụng tài khoản được phân quyền để thực hiện việc quản trị hệ thống và chịu trách nhiệm quản lý và bảo mật tài khoản.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:152631:part:2:article:8:clause:2",
+                    "number": "2",
+                    "content": "2. Quản lý tài khoản quản trị của đơn\nvị: a. Vụ Chế độ và kiểm soát chất lượng kiểm toán được cấp tài khoản quản trị của đơn vị để thực hiện nhiệm vụ quy định tại Khoản 5, Điều 14 của Quy chế này. b. Thủ trưởng đơn vị có trách nhiệm phân công người sử dụng tài khoản quản trị đơn vị của đơn vị, đồng thời đăng ký với Trung tâm Tin học. Việc đăng ký được thực hiện theo Quy định tại Khoản 1,",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:152631:part:2:article:9",
+                "number": "7",
+                "title": "của Quy chế này. c. Người sử dụng tài khoản quản trị của đơn vị sử dụng phần mềm theo nhiệm vụ được giao và chịu trách nhiệm bảo mật tài khoản theo đúng quy định",
+                "content": "Điều 7 của Quy chế này. c. Người sử dụng tài khoản quản trị của đơn vị sử dụng phần mềm theo nhiệm vụ được giao và chịu trách nhiệm bảo mật tài khoản theo đúng quy định",
+                "clauses": [
+                  {
+                    "clause_id": "doc:152631:part:2:article:9:clause:1",
+                    "number": "3",
+                    "content": "3. Quản lý tài khoản cá nhân:\na. Mỗi cán bộ, công chức của Kiểm toán nhà nước được cấp 01 tài khoản để khai thác, sử dụng phần mềm và chịu trách nhiệm đảm bảo việc bảo mật tài khoản của mình theo đúng quy định của Kiểm toán nhà nước và của pháp luật. b. Tổng Kiểm toán nhà nước xem xét quyết định cấp tài khoản cho tổ chức, cá nhân không thuộc diện quản lý của Kiểm toán nhà nước khi có yêu cầu khai thác thông tin. Các tổ chức, cá nhân được cấp tài khoản phải phù hợp với các quy định của pháp luật, của Kiểm toán nhà nước về khai thác thông tin của Kiểm toán nhà nước và có trách nhiệm quản lý, bảo mật tài khoản được cấp, không vi phạm các hành vi bị cấm được quy định tại Điều 3 của",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:152631:part:2:article:10",
+                "number": "9",
+                "title": "Trách nhiệm khai thác, sử dụng phần mềm",
+                "content": "Điều 9. Trách nhiệm khai thác, sử dụng phần mềm",
+                "clauses": [
+                  {
+                    "clause_id": "doc:152631:part:2:article:10:clause:1",
+                    "number": "1",
+                    "content": "1. Công chức của Kiểm toán nhà nước\nvà các tổ chức, cá nhân được cấp tài khoản người dùng để khai thác, sử dụng phần mềm có trách nhiệm khai thác, sử dụng phần mềm đúng mục đích, nhiệm vụ được phân công và tuân thủ các quy định tại Quy chế này.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:152631:part:2:article:10:clause:2",
+                    "number": "2",
+                    "content": "2. Công chức của Kiểm toán nhà nước\nvà các tổ chức, cá nhân được cấp tài khoản ngay khi đăng nhập lần đầu có trách nhiệm kiểm tra các thông tin của tổ chức, cá nhân đã đăng ký, đồng thời thay đổi mật khẩu và chịu trách nhiệm bảo mật, đảm bảo an toàn tài khoản do mình quản lý. Đăng xuất khỏi phần mềm khi không sử dụng.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:152631:part:2:article:10:clause:3",
+                    "number": "3",
+                    "content": "3. Công chức của Kiểm toán nhà nước\nvà các tổ chức, cá nhân khai thác, sử dụng phần mềm kịp thời báo cáo Thủ trưởng đơn vị để có văn bản thông báo cho Trung tâm Tin học, đồng thời thông tin ngay tới bộ phận quản trị phần mềm thông qua địa chỉ hộp thư hotrophanmem@sav.gov.vn khi xảy ra các trường hợp sau: - Gặp các sự cố không thể truy cập vào phần mềm; - Phát hiện nguy cơ lộ thông tin tài khoản hoặc dữ liệu; - Quên hoặc mất mật khẩu (đề nghị văn thư đơn vị thông tin đến bộ phận quản trị phần mềm); - Lỗi phần mềm phát sinh trong quá trình sử dụng hoặc ý kiến đề xuất cải tiến, hoàn thiện phần mềm.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:152631:part:2:chapter:3",
+            "number": "III",
+            "title": "GHI NHẬT KÝ KIỂM TOÁN, NHẬT KÝ CÔNG TÁC ĐIỆN TỬ",
+            "content": "Chương III\nGHI NHẬT KÝ KIỂM\nTOÁN, NHẬT KÝ CÔNG TÁC ĐIỆN TỬ",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:152631:part:2:article:11",
+                "number": "10",
+                "title": "Nguyên tắc ghi nhật ký kiểm toán, nhật ký công tác điện tử",
+                "content": "Điều 10. Nguyên tắc ghi nhật ký kiểm toán, nhật ký công tác điện tử",
+                "clauses": [
+                  {
+                    "clause_id": "doc:152631:part:2:article:11:clause:1",
+                    "number": "1",
+                    "content": "1. Cá nhân khi kiểm toán thực hiện\nghi nhật ký kiểm toán điện tử (thành viên đoàn kiểm toán) hoặc ghi nhật ký công tác điện tử (Thủ trưởng đơn vị chủ trì cuộc kiểm toán, Lãnh đạo đoàn kiểm toán) chịu trách nhiệm về tính chính xác, đầy đủ của nội dung nhật ký được ghi trên phần mềm.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:152631:part:2:article:11:clause:2",
+                    "number": "2",
+                    "content": "2. Việc ghi nhật ký kiểm toán, ghi nhật\nký công tác điện tử được thực hiện theo đúng trình tự được quy định tại Điều 11, Điều 12 của Quy chế này. Trong trường hợp đặc biệt, thời gian ghi nhật ký do Tổng Kiểm toán nhà nước quyết định.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:152631:part:2:article:12",
+                "number": "11",
+                "title": "Quy trình ghi nhật ký kiểm toán điện tử Thành viên đoàn kiểm toán khi thực hiện kiểm toán có trách nhiệm ghi đầy đủ, chính xác, kịp thời nhật ký kiểm toán điện tử hàng ngày theo quy định. Sử dụng phần mềm hiệu quả, đúng mục đích, nhiệm vụ được phân công.",
+                "content": "Điều 11. Quy trình ghi nhật ký kiểm toán điện tử Thành viên đoàn kiểm toán khi thực hiện kiểm toán có trách nhiệm ghi đầy đủ, chính xác, kịp thời nhật ký kiểm toán điện tử hàng ngày theo quy định. Sử dụng phần mềm hiệu quả, đúng mục đích, nhiệm vụ được phân công.",
+                "clauses": [
+                  {
+                    "clause_id": "doc:152631:part:2:article:12:clause:1",
+                    "number": "1",
+                    "content": "1. Ghi nhật ký kiểm toán điện tử:\nMỗi ngày thành viên đoàn kiểm toán có thể viết nhiều nội dung nhật ký tương ứng với các nội dung công việc thực hiện trong quá trình thực hiện kiểm toán. Thời gian ghi nhật ký kiểm toán điện tử từ 7 giờ 30’ ngày thực hiện kiểm toán đến 7 giờ 30’ ngày hôm sau. Trong khoảng thời gian trên, thành viên đoàn kiểm toán có thể sửa nội dung nhật ký trong ngày, cập nhật bằng chứng kiểm toán hoặc xóa các nội dung kiểm toán đã được ghi trong ngày. Sang ngày hôm sau, thành viên đoàn kiểm toán không được phép sửa, xóa nhật ký của ngày hôm trước.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:152631:part:2:article:12:clause:2",
+                    "number": "2",
+                    "content": "2. Ghi nhật ký sửa đổi bổ sung:\nVới mỗi bản nhật ký đã được ghi trong quá trình thực hiện kiểm toán, thành viên đoàn kiểm toán có thể tiến hành thực hiện sửa đổi bổ sung nội dung nhật ký của những ngày trước. Sau thời gian kết thúc thực hiện kiểm toán, thành viên đoàn kiểm toán có thêm 05 ngày để xem và tiến hành sửa đổi bổ sung của các nội dung đã ghi trước đây.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:152631:part:2:article:12:clause:3",
+                    "number": "3",
+                    "content": "3. Xác nhận nội dung nhật ký của\nthành viên đoàn kiểm toán Tổ trưởng tổ kiểm toán, ngoài công tác ghi nhật ký kiểm toán điện tử hàng ngày, tổ trưởng có trách nhiệm kiểm soát và xác nhận các nội dung đã ghi đối với các nội dung nhật ký điện tử hàng ngày của các thành viên trong tổ kiểm toán.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:152631:part:2:article:12:clause:4",
+                    "number": "4",
+                    "content": "4. Trong trường hợp xảy ra sự cố đối\nvới phần mềm khiến cho phần mềm không hoạt động được hoặc bị gián đoạn, người sử dụng thông tin ngay tới bộ phận quản trị phần mềm thông qua địa chỉ hộp thư hotrophanmem@sav.gov.vn và tiến hành ghi nhật ký kiểm toán điện tử ngay khi hệ thống hoạt động trở lại bình thường.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:152631:part:2:article:13",
+                "number": "12",
+                "title": "Quy trình ghi nhật ký công tác điện tử Trong quá trình thực hiện kiểm toán người sử dụng với vai trò Thủ trưởng đơn vị chủ trì cuộc kiểm toán hoặc lãnh đạo đoàn kiểm toán có trách nhiệm ghi nhật ký công tác điện tử. Người sử dụng ghi lại nội dung các công việc liên quan đến nội dung cuộc kiểm toán. Sau thời gian kết thúc thực hiện kiểm toán, người sử dụng có thêm 05 ngày để xem và tiến hành sửa đổi bổ sung của các nội dung đã ghi trước đây.",
+                "content": "Điều 12. Quy trình ghi nhật ký công tác điện tử Trong quá trình thực hiện kiểm toán người sử dụng với vai trò Thủ trưởng đơn vị chủ trì cuộc kiểm toán hoặc lãnh đạo đoàn kiểm toán có trách nhiệm ghi nhật ký công tác điện tử. Người sử dụng ghi lại nội dung các công việc liên quan đến nội dung cuộc kiểm toán. Sau thời gian kết thúc thực hiện kiểm toán, người sử dụng có thêm 05 ngày để xem và tiến hành sửa đổi bổ sung của các nội dung đã ghi trước đây.",
+                "clauses": [],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:152631:part:2:chapter:4",
+            "number": "IV",
+            "title": "KHAI THÁC NHẬT KÝ KIỂM TOÁN, NHẬT KÝ CÔNG TÁC ĐIỆN TỬ",
+            "content": "Chương IV\nKHAI THÁC NHẬT\nKÝ KIỂM TOÁN, NHẬT KÝ CÔNG TÁC ĐIỆN TỬ",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:152631:part:2:article:14",
+                "number": "13",
+                "title": "Quyền khai thác dữ liệu nhật ký kiểm toán, nhật ký công tác điện tử của Lãnh đạo Kiểm toán nhà nước và Thủ trưởng Đơn vị chủ trì thực hiện kiểm toán Lãnh đạo Kiểm toán nhà nước và Thủ trưởng Đơn vị chủ trì thực hiện kiểm toán có quyền khai thác dữ liệu nhật ký kiểm toán, nhật ký công tác điện tử trên phần mềm như sau:",
+                "content": "Điều 13. Quyền khai thác dữ liệu nhật ký kiểm toán, nhật ký công tác điện tử của Lãnh đạo Kiểm toán nhà nước và Thủ trưởng Đơn vị chủ trì thực hiện kiểm toán Lãnh đạo Kiểm toán nhà nước và Thủ trưởng Đơn vị chủ trì thực hiện kiểm toán có quyền khai thác dữ liệu nhật ký kiểm toán, nhật ký công tác điện tử trên phần mềm như sau:",
+                "clauses": [
+                  {
+                    "clause_id": "doc:152631:part:2:article:14:clause:1",
+                    "number": "1",
+                    "content": "1. Tổng Kiểm toán nhà nước có quyền\ntruy cập vào phần mềm để khai thác, sử dụng dữ liệu nhật ký kiểm toán, nhật ký công tác điện tử của tất cả các đơn vị trực thuộc Kiểm toán nhà nước.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:152631:part:2:article:14:clause:2",
+                    "number": "2",
+                    "content": "2. Phó Tổng Kiểm toán nhà nước có quyền\ntruy cập vào phần mềm để khai thác, sử dụng dữ liệu nhật ký kiểm toán, nhật ký công tác điện tử của các đơn vị trực thuộc Kiểm toán nhà nước theo phạm vi được phân công phụ trách quản lý. Với các cuộc kiểm toán đã kết thúc thực hiện kiểm toán, thời gian truy cập tối đa không quá 60 ngày kể từ ngày kết thúc thực hiện kiểm toán.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:152631:part:2:article:14:clause:3",
+                    "number": "3",
+                    "content": "3. Thủ trưởng các đơn vị chủ trì thực\nhiện kiểm toán có quyền truy cập vào phần mềm để khai thác, sử dụng dữ liệu nhật ký kiểm toán, nhật ký công tác điện tử của các cuộc kiểm toán do đơn vị mình chủ trì thực hiện. Với các cuộc kiểm toán đã kết thúc thực hiện kiểm toán, thời gian truy cập tối đa không quá 60 ngày kể từ ngày kết thúc thực hiện kiểm toán.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:152631:part:2:article:15",
+                "number": "14",
+                "title": "Quyền khai thác dữ liệu nhật ký kiểm toán, nhật ký công tác điện tử của Đoàn kiểm toán",
+                "content": "Điều 14. Quyền khai thác dữ liệu nhật ký kiểm toán, nhật ký công tác điện tử của Đoàn kiểm toán",
+                "clauses": [
+                  {
+                    "clause_id": "doc:152631:part:2:article:15:clause:1",
+                    "number": "1",
+                    "content": "1. Trưởng Đoàn kiểm toán có quyền\ntruy cập vào phần mềm để kiểm tra dữ liệu nhật ký kiểm toán, nhật ký công tác điện tử của tất cả thành viên trong Đoàn kiểm toán do mình phụ trách. Với các cuộc kiểm toán đã kết thúc thực hiện kiểm toán, thời gian truy cập tối đa không quá 60 ngày kể từ ngày kết thúc thực hiện kiểm toán.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:152631:part:2:article:15:clause:2",
+                    "number": "2",
+                    "content": "2. Phó Trưởng Đoàn kiểm toán có quyền\ntruy cập vào phần mềm để kiểm tra dữ liệu nhật ký kiểm toán của tất cả thành viên trong Đoàn kiểm toán do mình phụ trách. Với các cuộc kiểm toán đã kết thúc thực hiện kiểm toán, thời gian truy cập tối đa không quá 60 ngày kể từ ngày kết thúc thực hiện kiểm toán.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:152631:part:2:article:15:clause:3",
+                    "number": "3",
+                    "content": "3. Tổ trưởng Tổ kiểm toán có quyền\ntruy cập vào phần mềm để kiểm tra dữ liệu nhật ký kiểm toán của tất cả thành viên trong Tổ kiểm toán thực hiện. Với các cuộc kiểm toán đã kết thúc thực hiện kiểm toán, thời gian truy cập tối đa không quá 60 ngày kể từ ngày kết thúc thực hiện kiểm toán.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:152631:part:2:article:15:clause:4",
+                    "number": "4",
+                    "content": "4. Thành viên Tổ kiểm toán thuộc Đoàn\nkiểm toán có quyền truy cập vào phần mềm tiến hành ghi nhật ký kiểm toán hàng ngày trong thời gian thực hiện kiểm toán. Với các cuộc kiểm toán đã kết thúc thực hiện kiểm toán, thời gian truy cập tối đa không quá 60 ngày kể từ ngày kết thúc thực hiện kiểm toán.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:152631:part:2:article:15:clause:5",
+                    "number": "5",
+                    "content": "5. Thành viên Tổ kiểm soát chất lượng\nkiểm toán thuộc đơn vị thực hiện kiểm toán có quyền truy cập vào phần mềm tiến hành kiểm tra kiểm soát để kiểm tra dữ liệu nhật ký kiểm toán, nhật ký công tác điện tử của Đoàn kiểm toán. Với các cuộc kiểm toán đã kết thúc thực hiện kiểm toán, thời gian truy cập tối đa không quá 60 ngày kể từ ngày kết thúc thực hiện kiểm toán.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:152631:part:2:article:15:clause:6",
+                    "number": "6",
+                    "content": "6. Thành viên Tổ kiểm soát chất lượng\nkiểm toán thuộc Vụ chế độ và kiểm soát chất lượng kiểm toán có quyền truy cập vào phần mềm tiến hành kiểm tra kiểm soát để kiểm tra dữ liệu nhật ký kiểm toán, nhật ký công tác điện tử của Đoàn kiểm toán. Việc phân công thành viên Tổ kiểm tra kiểm soát thuộc Vụ chế độ và kiểm soát chất lượng kiểm toán sẽ do tài khoản quản trị tại Vụ chế độ và kiểm soát chất lượng kiểm toán thực hiện. Với các cuộc kiểm toán đã kết thúc thực hiện kiểm toán, thời gian truy cập tối đa không quá 60 ngày kể từ ngày kết thúc thực hiện kiểm toán.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:152631:part:2:article:15:clause:7",
+                    "number": "7",
+                    "content": "7. Đơn vị có chức năng thanh tra, kiểm\ntra cuộc kiểm toán có quyền khai thác, sử dụng để kiểm tra dữ liệu nhật ký kiểm toán, nhật ký công tác điện tử của Đoàn kiểm toán khi thực hiện công tác thanh tra, kiểm tra cuộc kiểm toán theo nhiệm vụ được giao. Căn cứ danh sách thành viên trong Quyết định thanh tra, kiểm tra cuộc kiểm toán của Kiểm toán nhà nước được gửi về Trung tâm Tin học, Trung tâm Tin học cấp quyền tương ứng trên phần mềm.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:152631:part:2:article:15:clause:8",
+                    "number": "8",
+                    "content": "8. Sau thời gian 60 ngày kể từ ngày kết\nthúc thực hiện kiểm toán, nếu phát sinh nhu cầu khai thác dữ liệu nhật ký kiểm toán, nhật ký công tác điện tử của Đoàn kiểm toán, Thủ trưởng đơn vị gửi văn bản báo cáo Tổng kiểm toán nhà nước xin ý kiến. Sau khi Tổng kiểm toán nhà nước đồng ý, đơn vị đăng ký bằng văn bản với Trung tâm Tin học để được cấp quyền khai thác dữ liệu nhật ký kiểm toán, nhật ký công tác điện tử của Đoàn kiểm toán.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:152631:part:2:chapter:5",
+            "number": "V",
+            "title": "TRÁCH NHIỆM CỦA TỔ CHỨC, ĐƠN VỊ",
+            "content": "Chương V\nTRÁCH NHIỆM CỦA TỔ CHỨC, ĐƠN VỊ",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:152631:part:2:article:16",
+                "number": "15",
+                "title": "Trách nhiệm của các Đơn vị chủ trì thực hiện kiểm toán",
+                "content": "Điều 15. Trách nhiệm của các Đơn vị chủ trì thực hiện kiểm toán",
+                "clauses": [
+                  {
+                    "clause_id": "doc:152631:part:2:article:16:clause:1",
+                    "number": "1",
+                    "content": "1. Kiểm tra, đôn đốc tình hình thực\nhiện ghi nhật ký kiểm toán, nhật ký công tác điện tử vào phần mềm theo đúng quy định của Quy chế này.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:152631:part:2:article:16:clause:2",
+                    "number": "2",
+                    "content": "2. Định kỳ hàng năm (hoặc đột xuất),\nbáo cáo Tổng Kiểm toán nhà nước tình hình quản lý, khai thác sử dụng phần mềm của đơn vị thông qua Trung tâm Tin học.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:152631:part:2:article:17",
+                "number": "16",
+                "title": "Trách nhiệm của Trung tâm Tin học",
+                "content": "Điều 16. Trách nhiệm của Trung tâm Tin học",
+                "clauses": [
+                  {
+                    "clause_id": "doc:152631:part:2:article:17:clause:1",
+                    "number": "1",
+                    "content": "1. Quản lý, vận hành phần mềm đảm bảo\nhoạt động ổn định, liên tục, an toàn và bảo mật thông tin.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:152631:part:2:article:17:clause:2",
+                    "number": "2",
+                    "content": "2. Chủ trì hướng dẫn các đơn vị trong\nviệc ghi nhật ký kiểm toán, nhật ký công tác điện tử, quản lý, khai thác sử dụng phần mềm theo quy định của Kiểm toán nhà nước, của pháp luật.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:152631:part:2:article:17:clause:3",
+                    "number": "3",
+                    "content": "3. Chủ trì, phối hợp với các đơn vị liên\nquan tổ chức đào tạo, hướng dẫn sử dụng phần mềm.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:152631:part:2:article:17:clause:4",
+                    "number": "4",
+                    "content": "4. Chủ trì, phối hợp với các đơn vị\nliên quan nghiên cứu, đề xuất giải pháp và kinh phí duy trì hoạt động, nâng cấp, phát triển phần mềm, bổ sung hạ tầng kỹ thuật để đảm bảo hoạt động an toàn, ổn định, hiệu quả phần mềm.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:152631:part:2:article:17:clause:5",
+                    "number": "5",
+                    "content": "5. Định kỳ (hoặc đột xuất) báo cáo\nLãnh đạo Kiểm toán nhà nước tình hình quản lý và sử dụng phần mềm.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:152631:part:2:article:17:clause:6",
+                    "number": "6",
+                    "content": "6. Được quyền truy cập vào phần mềm để:\nQuản trị phần mềm, lập báo cáo, cấp mới, thay đổi, hủy bỏ tài khoản (không bao gồm cập nhật, xem, sửa, xoá dữ liệu) và cấp quyền khai thác sử dụng phần mềm cho các tổ chức cá nhân theo quy định của Quy chế này.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:152631:part:2:article:17:clause:7",
+                    "number": "7",
+                    "content": "7. Kiểm tra và đề xuất giải pháp bảo\nđảm an toàn và bảo mật dữ liệu theo quy định hiện hành.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:152631:part:2:article:17:clause:8",
+                    "number": "8",
+                    "content": "8. Định kỳ (hàng ngày) tổ chức sao lưu dữ liệu.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:152631:part:2:article:17:clause:9",
+                    "number": "9",
+                    "content": "9. Tổ chức thực hiện khắc phục sự cố\nkhi sự cố xảy ra.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:152631:part:2:article:17:clause:10",
+                    "number": "10",
+                    "content": "10. Thông báo cho các đơn vị khi xảy\nra sự cố hoặc lịch bảo trì, nâng cấp hệ thống có ảnh hưởng đến việc quản lý và sử dụng phần mềm.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:152631:part:2:article:18",
+                "number": "17",
+                "title": "Trách nhiệm của các đơn vị khác",
+                "content": "Điều 17. Trách nhiệm của các đơn vị khác",
+                "clauses": [
+                  {
+                    "clause_id": "doc:152631:part:2:article:18:clause:1",
+                    "number": "1",
+                    "content": "1. Văn phòng KTNN tham mưu, đề xuất Tổng\nKiểm toán nhà nước trong việc bố trí kinh phí đảm bảo duy trì hoạt động, nâng cấp, phát triển phần mềm, bổ sung hạ tầng kỹ thuật để đảm bảo hoạt động an toàn, ổn định, hiệu quả phần mềm.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:152631:part:2:article:18:clause:2",
+                    "number": "2",
+                    "content": "2. Các đơn vị khác có trách nhiệm phối\nhợp tổ chức thực hiện quản lý, khai thác và sử dụng phần mềm khi có yêu cầu.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:152631:part:2:chapter:6",
+            "number": "VI",
+            "title": "ĐIỀU KHOẢN THI HÀNH",
+            "content": "Chương VI\nĐIỀU KHOẢN THI HÀNH",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:152631:part:2:article:19",
+                "number": "18",
+                "title": "Hiệu lực thi hành",
+                "content": "Điều 18. Hiệu lực thi hành",
+                "clauses": [],
+                "points": []
+              },
+              {
+                "article_id": "doc:152631:part:2:article:20",
+                "number": "19",
+                "title": "Tổ chức thực hiện",
+                "content": "Điều 19. Tổ chức thực hiện",
+                "clauses": [
+                  {
+                    "clause_id": "doc:152631:part:2:article:20:clause:1",
+                    "number": "1",
+                    "content": "1. Trung tâm Tin học chủ trì tổ chức\ntriển khai, hướng dẫn thực hiện Quy chế này.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:152631:part:2:article:20:clause:2",
+                    "number": "2",
+                    "content": "2. Thủ trưởng các đơn vị chịu trách\nnhiệm về việc tổ chức triển khai thực hiện Quy chế này trong phạm vi quản lý của mình.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:152631:part:2:article:20:clause:3",
+                    "number": "3",
+                    "content": "3. Trong quá trình thực hiện nếu có\nkhó khăn vướng mắc, các đơn vị phản ánh về Trung tâm Tin học để tổng hợp, báo cáo Tổng Kiểm toán nhà nước xem xét, quyết định.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          }
+        ],
+        "sections": [],
+        "articles": [],
+        "unstructured_blocks": []
+      }
+    ]
+  },
+  "issues": [],
+  "status": "ok",
+  "source_hash": "context_152631.json",
+  "stats": {
+    "source_chars": 22332,
+    "passage_chars": 22177,
+    "parts": 2,
+    "chapters": 6,
+    "sections": 0,
+    "articles": 24,
+    "clauses": 72,
+    "points": 0
+  }
+}

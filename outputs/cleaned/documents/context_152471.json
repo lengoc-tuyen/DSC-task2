@@ -1,0 +1,84 @@
+{
+  "schema_version": "2.0",
+  "document_id": 152471,
+  "metadata": {
+    "name": null,
+    "link": "https://thuvienphapluat.vn/tcvn/Linh-vuc-khac/TCVN-2242-1977-Quoc-ky-Cong-hoa-xa-hoi-chu-nghia-Viet-Nam-904437.aspx",
+    "issuing_agency": null,
+    "national_header": null,
+    "motto": null,
+    "document_number": null,
+    "issued_place": null,
+    "issued_date": null,
+    "document_type": null,
+    "title": null
+  },
+  "administrative_header": {
+    "removed": false,
+    "removed_char_count": 0
+  },
+  "preamble": {
+    "text": null,
+    "legal_bases": [],
+    "proposals": [],
+    "enactment_formula": null
+  },
+  "passage": "Cỡ Cạnh dài (a) Cạnh ngắn Kích thước từ tâm sao đến đầu một ánh sao Khoảng cách giữa hai đầu cánh sao gần nhất (I) Chiều rộng phần lồng cán cờ (b) 1 240 160 48 56 20 2 300 200 60 71 30 3 600 400 120 141 40 4 1200 800 240 282 50 5 1800 1200 360 423 55 6 2400 1600 480 564 60 7 3600 2400 720 846 70 8 4800 3200 960 1129 80 9 7200 4800 1440 1693 100 10 9600 6400 1920 2257 120 Cỡ Cạnh dài (a) Cạnh ngắn Kích thước từ tâm sao đến đầu một ánh sao Khoảng cách giữa hai đầu cánh sao gần nhất (I) Chiều rộng phần lồng cán cờ (b) 1 240 160 48 56 20 2 300 200 60 71 30 3 600 400 120 141 40 4 1200 800 240 282 50 5 1800 1200 360 423 55 6 2400 1600 480 564 60 7 3600 2400 720 846 70 8 4800 3200 960 1129 80 9 7200 4800 1440 1693 100 10 9600 6400 1920 2257 120 Hình 3\nPHỤ LỤC\nPHƯƠNG\nPHÁP THIẾT KẾ SAO NĂM CÁNH\nl = 2(rsin36o) = 2(r·0,5878) Hình 1 ... ... ... Hình 2 Hình 3 Hình 4",
+  "tree": {
+    "parts": [
+      {
+        "part_id": "doc:152471:part:1",
+        "part_type": "main",
+        "part_title": null,
+        "reference": null,
+        "direct_text": null,
+        "chapters": [],
+        "sections": [],
+        "articles": [],
+        "unstructured_blocks": [
+          {
+            "block_id": "doc:152471:part:1:block:1",
+            "content": "Cỡ Cạnh dài (a) Cạnh ngắn Kích thước từ tâm sao đến đầu một ánh sao Khoảng cách giữa hai đầu cánh sao gần nhất (I) Chiều rộng phần lồng cán cờ (b) 1 240 160 48 56 20 2 300 200 60 71 30 3 600 400 120 141 40 4 1200 800 240 282 50 5 1800 1200 360 423 55 6 2400 1600 480 564 60 7 3600 2400 720 846 70 8 4800 3200 960 1129 80 9 7200 4800 1440 1693 100 10 9600 6400 1920 2257 120 Cỡ Cạnh dài (a) Cạnh ngắn Kích thước từ tâm sao đến đầu một ánh sao Khoảng cách giữa hai đầu cánh sao gần nhất (I) Chiều rộng phần lồng cán cờ (b) 1 240 160 48 56 20 2 300 200 60 71 30 3 600 400 120 141 40 4 1200 800 240 282 50 5 1800 1200 360 423 55 6 2400 1600 480 564 60 7 3600 2400 720 846 70 8 4800 3200 960 1129 80 9 7200 4800 1440 1693 100 10 9600 6400 1920 2257 120 Hình 3",
+            "indexable": true
+          }
+        ]
+      },
+      {
+        "part_id": "doc:152471:part:2",
+        "part_type": "appendix",
+        "part_title": "PHỤ LỤC",
+        "reference": null,
+        "direct_text": null,
+        "chapters": [],
+        "sections": [],
+        "articles": [],
+        "unstructured_blocks": [
+          {
+            "block_id": "doc:152471:part:2:block:1",
+            "content": "PHỤ LỤC\nPHƯƠNG\nPHÁP THIẾT KẾ SAO NĂM CÁNH\nl = 2(rsin36o) = 2(r·0,5878) Hình 1 ... ... ... Hình 2 Hình 3 Hình 4",
+            "indexable": true
+          }
+        ]
+      }
+    ]
+  },
+  "issues": [
+    {
+      "code": "no_articles",
+      "message": "no articles parsed",
+      "severity": "warning"
+    }
+  ],
+  "status": "ok",
+  "source_hash": "context_152471.json",
+  "stats": {
+    "source_chars": 865,
+    "passage_chars": 865,
+    "parts": 2,
+    "chapters": 0,
+    "sections": 0,
+    "articles": 0,
+    "clauses": 0,
+    "points": 0
+  }
+}

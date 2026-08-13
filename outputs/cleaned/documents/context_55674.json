@@ -1,0 +1,523 @@
+{
+  "schema_version": "2.0",
+  "document_id": 55674,
+  "metadata": {
+    "name": "Thong-tu-11-2019-TT-BLDTBXH-su-dung-co-so-du-lieu-tro-giup-xa-hoi-va-giam-ngheo-418910",
+    "link": "https://thuvienphapluat.vn/van-ban/Cong-nghe-thong-tin/Thong-tu-11-2019-TT-BLDTBXH-su-dung-co-so-du-lieu-tro-giup-xa-hoi-va-giam-ngheo-418910.aspx",
+    "issuing_agency": "BỘ LAO ĐỘNG - THƯƠNG BINH VÀ XÃ HỘI",
+    "national_header": "CỘNG HÒA XÃ HỘI\r\n\n  CHỦ NGHĨA VIỆT NAM",
+    "motto": "Độc lập - Tự do - Hạnh phúc",
+    "document_number": "11/2019/TT-BLĐTBXH",
+    "issued_place": "Hà Nội",
+    "issued_date": "ngày 17\r\n\n  tháng 7 năm 2019",
+    "document_type": "THÔNG TƯ",
+    "title": "QUY ĐỊNH VỀ XÂY DỰNG, QUẢN LÝ, CẬP NHẬT, KHAI THÁC VÀ SỬ DỤNG CƠ SỞ DỮ LIỆU TRỢ GIÚP XÃ HỘI VÀ GIẢM NGHÈO"
+  },
+  "administrative_header": {
+    "removed": true,
+    "removed_char_count": 178
+  },
+  "preamble": {
+    "text": "THÔNG TƯ QUY\nĐỊNH VỀ XÂY DỰNG, QUẢN LÝ, CẬP NHẬT, KHAI THÁC VÀ SỬ DỤNG CƠ SỞ DỮ LIỆU TRỢ\nGIÚP XÃ HỘI VÀ GIẢM NGHÈO\nCăn cứ Luật Công nghệ thông tin; Căn cứ Nghị định 64/2007/NĐ-CP ngày 10 tháng 4 năm 2007 của Chính phủ về ứng dụng công nghệ thông tin trong hoạt động của cơ quan nhà nước; Căn cứ Nghị định số 14/2017/NĐ-CP ngày 17 tháng 02 năm 2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Lao động - Thương binh và Xã hội; Căn cứ Nghị định số 136/2013/NĐ-CP ngày 21 tháng 10 năm 2013 của Chính phủ quy định chính sách trợ giúp xã hội đối với đối tượng bảo trợ xã hội; Căn cứ Quyết định số 59/2015/QĐ-TTg ngày 19 tháng 11 năm 2015 của Thủ tướng Chính phủ về việc ban hành chuẩn nghèo tiếp cận đa chiều áp dụng cho giai đoạn 2016 - 2020; Theo đề nghị của Cục trưởng Cục Bảo trợ xã hội, Bộ trưởng Bộ Lao động - Thương binh và Xã hội ban hành Thông tư quy định về xây dựng, quản lý, cập nhật, khai thác và sử dụng cơ sở dữ liệu trợ giúp xã hội và giảm nghèo.\nChương I\nQUY ĐỊNH CHUNG",
+    "legal_bases": [
+      "Căn cứ Nghị định 64/2007/NĐ-CP ngày 10 tháng 4 năm 2007 của Chính phủ về ứng dụng công nghệ thông tin trong hoạt động của cơ quan nhà nước",
+      "Căn cứ Nghị định số 14/2017/NĐ-CP ngày 17 tháng 02 năm 2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Lao động - Thương binh và Xã hội",
+      "Căn cứ Nghị định số 136/2013/NĐ-CP ngày 21 tháng 10 năm 2013 của Chính phủ quy định chính sách trợ giúp xã hội đối với đối tượng bảo trợ xã hội",
+      "Căn cứ Quyết định số 59/2015/QĐ-TTg ngày 19 tháng 11 năm 2015 của Thủ tướng Chính phủ về việc ban hành chuẩn nghèo tiếp cận đa chiều áp dụng cho giai đoạn 2016 - 2020"
+    ],
+    "proposals": [
+      "Theo đề nghị của Cục trưởng Cục Bảo trợ xã hội, Bộ trưởng Bộ Lao động - Thương binh và Xã hội ban hành Thông tư quy định về xây dựng, quản lý, cập nhật, khai thác và sử dụng cơ sở dữ liệu trợ giúp xã hội và giảm nghèo.\nChương I\nQUY ĐỊNH CHUNG"
+    ],
+    "enactment_formula": null
+  },
+  "passage": "THÔNG TƯ QUY\nĐỊNH VỀ XÂY DỰNG, QUẢN LÝ, CẬP NHẬT, KHAI THÁC VÀ SỬ DỤNG CƠ SỞ DỮ LIỆU TRỢ\nGIÚP XÃ HỘI VÀ GIẢM NGHÈO\nCăn cứ Luật Công nghệ thông tin; Căn cứ Nghị định 64/2007/NĐ-CP ngày 10 tháng 4 năm 2007 của Chính phủ về ứng dụng công nghệ thông tin trong hoạt động của cơ quan nhà nước; Căn cứ Nghị định số 14/2017/NĐ-CP ngày 17 tháng 02 năm 2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Lao động - Thương binh và Xã hội; Căn cứ Nghị định số 136/2013/NĐ-CP ngày 21 tháng 10 năm 2013 của Chính phủ quy định chính sách trợ giúp xã hội đối với đối tượng bảo trợ xã hội; Căn cứ Quyết định số 59/2015/QĐ-TTg ngày 19 tháng 11 năm 2015 của Thủ tướng Chính phủ về việc ban hành chuẩn nghèo tiếp cận đa chiều áp dụng cho giai đoạn 2016 - 2020; Theo đề nghị của Cục trưởng Cục Bảo trợ xã hội, Bộ trưởng Bộ Lao động - Thương binh và Xã hội ban hành Thông tư quy định về xây dựng, quản lý, cập nhật, khai thác và sử dụng cơ sở dữ liệu trợ giúp xã hội và giảm nghèo.\nChương I\nQUY ĐỊNH CHUNG\nĐiều 1. Phạm vi điều chỉnh và đối tượng áp dụng\n1. Thông tư này quy định về xây dựng, quản lý, cập\nnhật, khai thác và sử dụng cơ sở dữ liệu trợ giúp xã hội và giảm nghèo.\n2. Thông tư này áp dụng đối với các đơn vị thuộc\nngành Lao động - Thương binh và Xã hội và các tổ chức, cá nhân chịu trách nhiệm xây dựng, quản lý, cập nhật, khai thác và sử dụng cơ sở dữ liệu trợ giúp xã hội và giảm nghèo.\nĐiều 2. Giải thích từ ngữ Trong Thông tư này, các từ ngữ dưới đây được hiểu như sau:\n1. Cơ sở dữ liệu trợ giúp xã hội và giảm nghèo\n(sau đây gọi tắt là cơ sở dữ liệu) là kho dữ liệu và hệ thống quản lý thông tin về hộ, người hưởng chính sách trợ giúp xã hội và thông tin về hộ nghèo, hộ cận nghèo, người nghèo, người cận nghèo (MIS POSASoft) dựa trên nền tảng web, có địa chỉ http://misposasoft.molisa.gov.vn, được lưu trữ ở Bộ Lao động - Thương binh và Xã hội và các máy chủ quản trị cơ sở dữ liệu phụ đặt tại Sở Lao động - Thương binh và Xã hội các tỉnh, thành phố trực thuộc Trung ương.\n2. Dữ liệu: là các chữ, các con số, hình ảnh,\nâm thanh, video có thể xử lý và lưu trữ bằng phần mềm máy tính.\n3. Thông tin, số liệu đầu ra là những biểu,\nbảng thông tin, số liệu phục vụ công tác quản lý, báo cáo.\n4. Dữ liệu gốc là dữ liệu năm 2015 về hộ gia\nđình, người hưởng chính sách trợ giúp xã hội (Sau đây gọi tắt là đối tượng) quy định tại Nghị định số 136/2013/NĐ-CP ngày 21 tháng 10 năm 2013 của Chính phủ về chính sách trợ giúp xã hội đối với đối tượng bảo trợ xã hội (Sau đây gọi tắt là Nghị định số 136/2013/NĐ-CP) và hộ nghèo, hộ cận nghèo, người nghèo, người cận nghèo theo kết quả Tổng điều tra hộ nghèo, hộ cận nghèo năm 2015 quy định tại Quyết định số 59/2015/QĐ-TTg ngày 19 tháng 11 năm 2015 của Thủ tướng Chính phủ về việc ban hành chuẩn nghèo tiếp cận đa chiều áp dụng cho giai đoạn 2016-2020 (Sau đây gọi tắt là Quyết định số 59/2015/QĐ-TTg) và được lưu trữ tại Trung tâm tích hợp dữ liệu của Bộ Lao động - Thương binh và Xã hội.\n5. Tài khoản đăng nhập gồm tên truy cập và mật\nkhẩu đăng nhập vào cơ sở dữ liệu để tổ chức và cá nhân cập nhật, khai thác và sử dụng.\nChương II\nXÂY DỰNG, QUẢN LÝ, CẬP\nNHẬT, KHAI THÁC VÀ SỬ DỤNG CƠ SỞ DỮ LIỆU\nĐiều 3. Xây dựng và quản lý cơ sở dữ liệu\n1. Cơ sở dữ liệu được xây dựng, quản lý thống nhất\ntừ Bộ Lao động - Thương binh và Xã hội, Sở Lao động - Thương binh và Xã hội các tỉnh, thành phố và các Phòng Lao động - Thương binh và Xã hội các quận, huyện, thị xã. Sở Lao động - Thương binh và Xã hội các tỉnh, thành phố có trách nhiệm tổ chức rà soát, cập nhật cơ sở dữ liệu hàng năm theo quy định tại Thông tư này. Việc cập nhật, khai thác cơ sở dữ liệu được phân cấp và phân quyền cho các cơ quan, tổ chức và cá nhân theo tài khoản đăng nhập.\n2. Cơ quan, tổ chức và cá nhân trong phạm vi chức\nnăng nhiệm vụ được phân cấp, phân quyền quản lý, cập nhật, khai thác và sử dụng cơ sở dữ liệu có trách nhiệm thực hiện các nguyên tắc và yêu cầu quản lý cơ sở dữ liệu theo quy định của pháp luật.\n3. Danh mục dùng chung của cơ sở dữ liệu được quản\ntrị và bảo đảm tính cập nhật, đồng bộ với các danh mục dùng chung của Bộ, ngành, quốc gia để đáp ứng việc tính hợp, chia sẻ cơ sở dữ liệu giữa các cơ quan Nhà nước phục vụ Chính phủ điện tử.\n4. Việc xây dựng, nâng cấp, phát triển cơ sở dữ liệu\ntừ dữ liệu gốc; thu thập, chuẩn hóa, tích hợp, cập nhật dữ liệu; lưu trữ, bảo mật, bảo đảm an toàn thông tin trong cơ sở dữ liệu; đào tạo, tập huấn, bồi dưỡng, tổ chức cán bộ quản lý, vận hành cơ sở dữ liệu được thực hiện theo quy định của pháp luật trợ giúp xã hội, pháp luật giảm nghèo, pháp luật về an toàn thông tin mạng và pháp luật liên quan khác.\nĐiều 4. Cập nhật, thay đổi thông tin đối tượng trợ giúp xã hội\n1. Đối với những tỉnh, thành phố trực thuộc Trung\nương đã thực hiện kết nối cơ sở dữ liệu với dịch vụ công trực tuyến thì đối tượng, người đại diện hợp pháp của đối tượng hoặc đơn vị cung cấp dịch vụ hành chính công đăng ký thông tin hưởng chính sách, cập nhật thay đổi thông tin cá nhân của đối tượng chuyển cho đơn vị quản lý nhà nước cùng cấp để tiến hành các thủ tục tiếp theo bảo đảm theo quy định của pháp luật về chính sách trợ giúp xã hội. Đối tượng, người đại diện hợp pháp của đối tượng hoặc đơn vị cung cấp dịch vụ hành chính công không được tự ý thay đổi thông tin về chế độ, chính sách mà đối tượng được hưởng. Việc cập nhật thay đổi chế độ, chính sách của đối tượng do cơ quan quản lý nhà nước thực hiện bảo đảm đúng quy định của pháp luật về chính sách trợ giúp xã hội.\n2. Đối với những tỉnh, thành phố trực thuộc Trung\nương chưa có kết nối cơ sở dữ liệu với dịch vụ công trực tuyến, thì trong quá trình tổ chức thực hiện chính sách trợ giúp xã hội, Ủy ban nhân dân cấp xã căn cứ quy định về thủ tục hồ sơ quy định tại Nghị định số 136/2013/NĐ-CP cập nhật thông tin của đối tượng và cập nhật thay đổi thông tin khi đối tượng có thay đổi điều kiện hưởng chính sách vào cơ sở dữ liệu thông qua công cụ được kết xuất từ hệ thống.\n3. Trong quá trình thẩm định, xét duyệt hồ sơ, quyết\nđịnh chính sách trợ giúp xã hội, Phòng Lao động - Thương binh và Xã hội cập nhật thay đổi thông tin của đối tượng theo phân quyền vào cơ sở dữ liệu và theo dõi cập nhập, thay đổi thông tin, bảo đảm theo dõi biến động đối tượng trên địa bàn quản lý.\nĐiều 5. Cập nhật, thay đổi thông tin hộ nghèo, hộ cận nghèo\n1. Đối với những tỉnh, thành phố trực thuộc Trung\nương đã thực hiện kết nối cơ sở dữ liệu với dịch vụ công trực tuyến thì đại diện hộ nghèo, hộ cận nghèo, người đại diện hợp pháp của hộ nghèo, hộ cận nghèo hoặc đơn vị cung cấp dịch vụ hành chính công cập nhật và khai báo thông tin cá nhân của hộ nghèo, hộ cận nghèo chuyển cho đơn vị quản lý nhà nước cùng cấp để tiến hành các thủ tục tiếp theo bảo đảm đúng quy định của pháp luật về chính sách giảm nghèo. Đại diện hộ nghèo, hộ cận nghèo, người đại diện hợp pháp của hộ nghèo, hộ cận nghèo hoặc đơn vị cung cấp dịch vụ hành chính công không được thay đổi thông tin về chế độ, chính sách hộ nghèo, hộ cận nghèo được hưởng. Việc cập nhật thay đổi chế độ, chính sách của hộ nghèo, hộ cận nghèo do cơ quan quản lý nhà nước thực hiện đảm bảo đúng quy định của pháp luật về chính sách giảm nghèo.\n2. Đối với những tỉnh, thành phố trực thuộc Trung\nương chưa thực hiện kết nối cơ sở dữ liệu với dịch vụ công trực tuyến thì trên cơ sở kết quả rà soát hộ nghèo, hộ cận nghèo thường xuyên, định kỳ hàng năm theo quy trình hướng dẫn tại Thông tư số 17/2016/TT-BLĐTBXH ngày 28 tháng 6 năm 2016 của Bộ Lao động - Thương binh và Xã hội hướng dẫn quy trình rà soát hộ nghèo, hộ cận nghèo hàng năm theo chuẩn nghèo tiếp cận đa chiều áp dụng cho giai đoạn 2016-2020 và Thông tư số 14/2018/TT-BLĐTBXH ngày 26 tháng 9 năm 2018 của Bộ Lao động - Thương binh và Xã hội sửa đổi bổ sung một số điều của Thông tư số 17/2016/TT-BLĐTBXH ngày 28 tháng 6 năm 2016 của Bộ Lao động - Thương binh và Xã hội hướng dẫn quy trình rà soát hộ nghèo, hộ cận nghèo hàng năm, cán bộ phụ trách công tác giảm nghèo cấp xã hoặc người được phân công của cấp có thẩm quyền tại cấp cơ sở tổ chức thực hiện việc quản lý, cập nhật, thay đổi thông tin hộ nghèo, hộ cận nghèo vào cơ sở dữ liệu.\nĐiều 6. Cập nhật, khai thác và sử dụng thông tin từ cơ sở dữ liệu\n1. Việc khai thác, chia sẻ thông tin, dữ liệu theo\nphân cấp, phân quyền của hệ thống. Các tổ chức và cá nhân không có tài khoản đăng nhập nếu có nhu cầu thông tin thì đề nghị cơ quan quản lý cung cấp thông tin theo quy định của pháp luật. Cơ quan được giao quản lý cơ sở dữ liệu tiếp nhận đề nghị và xem xét cung cấp thông tin, dữ liệu cho các tổ chức, cá nhân khi có yêu cầu.\n2. Sở Lao động - Thương binh và Xã hội, Phòng Lao động\n- Thương binh và Xã hội và các cơ quan, tổ chức liên quan được quyền sử dụng thông tin, số liệu đầu ra của hệ thống theo quy định.\n3. Đơn vị quản lý cơ sở dữ liệu chịu trách nhiệm cấp,\nquản lý tài khoản và mật khẩu cho các tổ chức, cá nhân cập nhật, khai thác thông tin, dữ liệu trong phạm vi phân cấp, phân quyền; tiếp nhận và xử lý những góp ý, khiếu nại của các tổ chức, cá nhân đối với thông tin, dữ liệu về đối tượng thụ hưởng trong phạm vi quản lý.\n4. Các đơn vị liên quan thuộc Bộ Lao động - Thương\nbinh và Xã hội được quyền sử dụng thông tin, dữ liệu về đối tượng thụ hưởng; tiếp nhận và xử lý những góp ý, khiếu nại của các tổ chức, cá nhân đối với thông tin, dữ liệu và hạn chế kỹ thuật trong việc khai thác, sử dụng thông tin, dữ liệu theo quy định.\n5. Các cá nhân được phép sử dụng thông tin, dữ liệu\ntheo quy định của pháp luật về tiếp cận thông tin; các đơn vị, cá nhân có liên quan thực hiện điều chỉnh thông tin trong phạm vi thẩm quyền phân cấp quản lý theo quy định của pháp luật về trợ giúp xã hội và giảm nghèo; khi phát hiện lỗi trong việc cập nhật thông tin, dữ liệu hoặc các sai sót của thông tin phải thông báo ngay cho cơ quan quản lý cùng cấp.\nĐiều 7. An toàn thông tin\n1. Hệ thống cơ sở dữ liệu trợ giúp xã hội và giảm\nnghèo được bảo đảm an toàn hệ thống thông tin theo quy định tại Nghị định số 85/2016/NĐ-CP ngày 01 tháng 7 năm 2016 của Chính phủ về bảo đảm an toàn hệ thống thông tin theo cấp độ. Các cơ quan, tổ chức, cá nhân chịu trách nhiệm quản lý, cập nhật, khai thác và sử dụng được cấp tài khoản đăng nhập, mật khẩu, quyền hạn truy cập hệ thống; bảo đảm an ninh, an toàn và có trách nhiệm bảo mật mật khẩu truy cập, bảo quản các trang thiết bị và sử dụng đúng quyền hạn được xác lập trên hệ thống. Tên truy cập, mật khẩu là căn cứ để xác định trách nhiệm của từng người sử dụng trong việc thực hiện các chức năng của hệ thống.\n2. Cán bộ quản trị thực hiện phân quyền truy cập của\ntổ chức và cá nhân vào cơ sở dữ liệu.\n3. Máy chủ do Trung tâm Thông tin, Bộ Lao động -\nThương binh và Xã hội quản lý và chịu trách nhiệm vận hành.\n4. Máy chủ tại Sở Lao động - Thương binh và Xã hội\ndo Sở Lao động - Thương binh và Xã hội quản lý và chịu trách nhiệm vận hành.\n5. Các máy chủ, máy trạm phải cài đặt phần mềm\nphòng chống virus, các phần mềm về hệ điều hành, phần mềm về cơ sở dữ liệu phải có bản quyền, thường xuyên cập nhật để bảo đảm an toàn, an ninh hệ thống.\n6. Dữ liệu được cập nhật thường xuyên, cuối mỗi\ntháng cơ sở dữ liệu trợ giúp xã hội và giảm nghèo tại Trung ương phải được lưu trữ thành một bản dữ liệu dự phòng. Bản dự phòng này có thể khôi phục được trong trường hợp có sự cố hỏng hóc thiết bị. Cuối mỗi năm cơ sở dữ liệu phải được sao lưu thành một bản để làm dữ liệu hàng năm.\n7. Dữ liệu dự phòng phải bảo đảm được lưu trên thiết\nbị lưu trữ thống nhất, bảo mật và an toàn.\n8. Đơn vị quản lý cơ sở dữ liệu có trách nhiệm tổ\nchức triển khai, hướng dẫn các đơn vị liên quan trong việc phân quyền, sao lưu dữ liệu dự phòng và lưu trữ cơ sở dữ liệu bảo đảm thống nhất, bảo mật và an toàn.\n9. Nghiêm cấm mọi hành vi làm sai lệch thông tin cơ\nsở dữ liệu, tự ý sửa chữa phần mềm cơ sở dữ liệu hoặc khai thác, sử dụng thông tin vào các mục đích cá nhân, không theo quy định.\nĐiều 8. Cài đặt, sao lưu và phục hồi dữ liệu\n1. Cơ sở dữ liệu được cài đặt, lưu trữ và quản lý tại\nTrung tâm Thông tin, Bộ Lao động - Thương binh và Xã hội và Máy chủ đặt tại Sở Lao động - Thương binh và Xã hội các tỉnh, thành phố trực thuộc Trung ương.\n2. Cơ sở dữ liệu được lưu trữ bằng các thiết bị lưu\ntrữ chuyên dụng, được đơn vị, cá nhân chịu trách nhiệm quản trị hệ thống, quản lý cơ sở dữ liệu tại Bộ Lao động - Thương binh và Xã hội, Sở Lao động - Thương binh và Xã hội và Phòng Lao động - Thương binh và Xã hội cấp huyện được sao lưu định kỳ và thực hiện sao lưu đột xuất khi có yêu cầu. Dữ liệu sao lưu phải được lưu trữ an toàn, định kỳ kiểm tra để sẵn sàng khôi phục khi xảy ra sự cố. Khi xảy ra sự cố mất dữ liệu thì dữ liệu phải được phục hồi từ bản sao lưu gần nhất.\nĐiều 9. Bảo trì, bảo dưỡng và nâng cấp cơ sở dữ liệu\n1. Cơ sở dữ liệu được theo dõi, giám sát nhằm bảo đảm\nhoạt động liên tục 24 giờ/ngày, các ngày trong năm và thường xuyên được bảo trì, bảo dưỡng.\n2. Phần mềm cơ sở dữ liệu được nâng cấp kịp thời,\nphù hợp với sự phát triển của công nghệ thông tin, đáp ứng yêu cầu quản lý, điều hành của Bộ, ngành Lao động - Thương binh và Xã hội và nhu cầu quản lý, cập nhật, khai thác và sử dụng thông tin, dữ liệu của các tổ chức và cá nhân liên quan.\nĐiều 10. Quản lý tài khoản đối với cơ sở dữ liệu\n1. Tài khoản đăng nhập để người sử dụng cập nhật,\nkhai thác cơ sở dữ liệu được đặt tên theo quy ước: Đối với cấp tỉnh <mã tỉnh>.<tên đơn vị>, đối với cấp huyện <mã huyện>.<tên đơn vị>. Mã tỉnh và mã huyện được lấy theo danh mục mã các đơn vị hành chính Việt Nam ban hành theo Quyết định số 124/2004/QĐ-TTg ngày 08 tháng 7 năm 2004 của Thủ tướng Chính phủ và các văn bản bổ sung, điều chỉnh có liên quan. Các tên tài khoản được viết liền, không dấu.\n2. Mật khẩu tài khoản đăng nhập là một tổ hợp có ít\nnhất 8 ký tự, bao gồm cả chữ và số. Mật khẩu mới được đổi lại phải khác với mật khẩu cũ.\n3. Quy trình cấp mới, cấp đổi tài khoản được thực\nhiện theo trình tự sau:\na) Đơn vị đề nghị cấp tài khoản gửi văn bản tới cơ\nquan, đơn vị quản lý cơ sở dữ liệu theo phân cấp, phân quyền quản lý cơ sở dữ liệu;\nb) Đơn vị quản lý cơ sở dữ liệu tạo tài khoản, hướng\ndẫn người sử dụng tài khoản được cấp đồng thời gửi văn bản cấp tài khoản đến đơn vị đề nghị cấp;\nc) Người được cấp tài khoản cần thay đổi mật khẩu\nsau lần đầu tiên đăng nhập hệ thống.\n4. Việc thu hồi tài khoản được thực hiện trong các\ntrường hợp sau:\na) Người sử dụng thôi phụ trách công việc liên quan\ntới tài khoản và được đơn vị chủ quản thông báo bằng văn bản tới đơn vị quản lý cơ sở dữ liệu;\nb) Đơn vị chủ quản có văn bản hoặc đơn vị quản trị\nhệ thống phát hiện tài khoản đăng nhập có hành vi vi phạm quy định về vận hành hệ thống. Đơn vị quản lý cơ sở dữ liệu sau khi thu hồi tài khoản sẽ gửi văn bản thông báo kết quả về đơn vị chủ quản của người sử dụng hệ thống.\nChương III\nTỔ CHỨC THỰC HIỆN\nĐiều 11. Trách nhiệm của các đơn vị liên quan thuộc Bộ Lao động - Thương binh và Xã hội\n1. Cục Bảo trợ xã hội:\na) Là đơn vị xây dựng, quản lý, khai thác, sử dụng\ncơ sở dữ liệu;\nb) Hướng dẫn, tuyên truyền, đào tạo, tập huấn nâng\ncao năng lực, kiểm tra, giám sát các cơ quan, địa phương, cơ sở trợ giúp xã hội trong việc cập nhật, khai thác, sử dụng hệ thống cơ sở dữ liệu trợ giúp xã hội và giảm nghèo;\nc) Giúp Bộ trưởng Bộ Lao động - Thương binh và Xã hội\nchỉ đạo, phối hợp với các đơn vị liên quan để thực hiện hoàn thiện, cập nhật, sửa chữa, nâng cấp kịp thời hệ thống phần mềm theo sự thay đổi của các văn bản, chính sách hoặc do lỗi vận hành, chưa phù hợp theo yêu cầu quản lý, cập nhật, khai thác và sử dụng dữ liệu.\n2. Văn phòng Quốc gia về giảm nghèo: hướng dẫn, đôn\nđốc các địa phương tổ chức rà soát và thu thập, cập nhật thông tin, dữ liệu về hộ nghèo, hộ cận nghèo trên địa bàn vào cơ sở dữ liệu.\n3. Trung tâm Thông tin: quản trị hệ thống, bảo đảm\nhạ tầng công nghệ, tổ chức triển khai các giải pháp an ninh, an toàn và bảo mật thông tin cho hệ thống, cơ sở dữ liệu. Rà soát, đề xuất kế hoạch và phương án bảo đảm duy trì hoạt động liên tục của hệ thống và nâng cấp trước khi hệ thống bị quá tải.\nĐiều 12. Trách nhiệm của cơ quan lao động địa phương Sở Lao động - Thương binh và Xã hội các tỉnh, thành phố trực thuộc Trung ương chỉ đạo Phòng Lao động - Thương binh và Xã hội hướng dẫn, đôn đốc, kiểm tra, giám sát cán bộ làm công tác lao động xã hội tại cấp huyện, cấp xã trong việc thu thập, cập nhật đối tượng thụ hưởng vào cơ sở dữ liệu theo quy định; thực hiện kết nối cơ sở dữ liệu với hệ thống dịch vụ công trực tuyến để giải quyết chính sách cho đối tượng theo quy định của pháp luật về trợ giúp xã hội và giảm nghèo.\nĐiều 13. Kinh phí thực hiện Kinh phí thực hiện quản lý, tuyên truyền nâng cao nhận thức, đào tạo, tập huấn cán bộ; duy trì, cập nhật, khai thác và sử dụng cơ sở dữ liệu trợ giúp xã hội và giảm nghèo từ nguồn ngân sách nhà nước theo phân cấp hiện hành; nguồn huy động, tài trợ, đóng góp của các tổ chức, cá nhân trong và ngoài nước và nguồn kinh phí hợp pháp khác theo quy định của pháp luật.\nĐiều 14. Hiệu lực thi hành\n1. Thông tư này có hiệu lực kể từ ngày 03 tháng 9\nnăm 2019.\n2. Trong quá trình thực hiện, nếu có vướng mắc, đề\nnghị phản ánh kịp thời về Bộ Lao động - Thương binh và Xã hội để xem xét, giải quyết./.\nNơi nhận:\n- Ban Bí thư Trung ương Đảng;\n- Thủ tướng, các Phó Thủ tướng Chính phủ;\n- Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ;\n- Văn phòng Trung ương Đảng và các Ban của Đảng;\n- Văn phòng Quốc hội;\n- Văn phòng Chủ tịch nước;\n- Văn phòng Chính phủ;\n- Hội đồng dân tộc và các Ủy ban của Quốc hội;\n- Viện kiểm sát nhân dân tối cao;\n- Kiểm toán Nhà nước;\n- Cơ quan Trung ương của các đoàn thể;\n- HĐND, UBND các tỉnh, TP trực thuộc Trung ương;\n- Sở LĐTBXH các tỉnh, TP trực thuộc TƯ;\n- Công báo;\n- Cục Kiểm tra văn bản QPPL (Bộ Tư pháp);\n- Cổng Thông tin điện tử Chính phủ;\n- Cổng Thông tin Bộ LĐTBXH;\n- Bộ LĐTBXH: Bộ trưởng, các Thứ trưởng và các đơn vị có liên quan;\n- Lưu: VT, PC, BTXH (30 bản).\nBỘ TRƯỞNG\nĐào Ngọc Dung",
+  "tree": {
+    "parts": [
+      {
+        "part_id": "doc:55674:part:1",
+        "part_type": "main",
+        "part_title": null,
+        "reference": null,
+        "direct_text": "THÔNG TƯ QUY\nĐỊNH VỀ XÂY DỰNG, QUẢN LÝ, CẬP NHẬT, KHAI THÁC VÀ SỬ DỤNG CƠ SỞ DỮ LIỆU TRỢ\nGIÚP XÃ HỘI VÀ GIẢM NGHÈO\nCăn cứ Luật Công nghệ thông tin; Căn cứ Nghị định 64/2007/NĐ-CP ngày 10 tháng 4 năm 2007 của Chính phủ về ứng dụng công nghệ thông tin trong hoạt động của cơ quan nhà nước; Căn cứ Nghị định số 14/2017/NĐ-CP ngày 17 tháng 02 năm 2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Lao động - Thương binh và Xã hội; Căn cứ Nghị định số 136/2013/NĐ-CP ngày 21 tháng 10 năm 2013 của Chính phủ quy định chính sách trợ giúp xã hội đối với đối tượng bảo trợ xã hội; Căn cứ Quyết định số 59/2015/QĐ-TTg ngày 19 tháng 11 năm 2015 của Thủ tướng Chính phủ về việc ban hành chuẩn nghèo tiếp cận đa chiều áp dụng cho giai đoạn 2016 - 2020; Theo đề nghị của Cục trưởng Cục Bảo trợ xã hội, Bộ trưởng Bộ Lao động - Thương binh và Xã hội ban hành Thông tư quy định về xây dựng, quản lý, cập nhật, khai thác và sử dụng cơ sở dữ liệu trợ giúp xã hội và giảm nghèo.",
+        "chapters": [
+          {
+            "chapter_id": "doc:55674:part:1:chapter:1",
+            "number": "I",
+            "title": "QUY ĐỊNH CHUNG",
+            "content": "Chương I\nQUY ĐỊNH CHUNG",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:55674:part:1:article:1",
+                "number": "1",
+                "title": "Phạm vi điều chỉnh và đối tượng áp dụng",
+                "content": "Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng",
+                "clauses": [
+                  {
+                    "clause_id": "doc:55674:part:1:article:1:clause:1",
+                    "number": "1",
+                    "content": "1. Thông tư này quy định về xây dựng, quản lý, cập\nnhật, khai thác và sử dụng cơ sở dữ liệu trợ giúp xã hội và giảm nghèo.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:55674:part:1:article:1:clause:2",
+                    "number": "2",
+                    "content": "2. Thông tư này áp dụng đối với các đơn vị thuộc\nngành Lao động - Thương binh và Xã hội và các tổ chức, cá nhân chịu trách nhiệm xây dựng, quản lý, cập nhật, khai thác và sử dụng cơ sở dữ liệu trợ giúp xã hội và giảm nghèo.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:55674:part:1:article:2",
+                "number": "2",
+                "title": "Giải thích từ ngữ Trong Thông tư này, các từ ngữ dưới đây được hiểu như sau:",
+                "content": "Điều 2. Giải thích từ ngữ Trong Thông tư này, các từ ngữ dưới đây được hiểu như sau:",
+                "clauses": [
+                  {
+                    "clause_id": "doc:55674:part:1:article:2:clause:1",
+                    "number": "1",
+                    "content": "1. Cơ sở dữ liệu trợ giúp xã hội và giảm nghèo\n(sau đây gọi tắt là cơ sở dữ liệu) là kho dữ liệu và hệ thống quản lý thông tin về hộ, người hưởng chính sách trợ giúp xã hội và thông tin về hộ nghèo, hộ cận nghèo, người nghèo, người cận nghèo (MIS POSASoft) dựa trên nền tảng web, có địa chỉ http://misposasoft.molisa.gov.vn, được lưu trữ ở Bộ Lao động - Thương binh và Xã hội và các máy chủ quản trị cơ sở dữ liệu phụ đặt tại Sở Lao động - Thương binh và Xã hội các tỉnh, thành phố trực thuộc Trung ương.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:55674:part:1:article:2:clause:2",
+                    "number": "2",
+                    "content": "2. Dữ liệu: là các chữ, các con số, hình ảnh,\nâm thanh, video có thể xử lý và lưu trữ bằng phần mềm máy tính.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:55674:part:1:article:2:clause:3",
+                    "number": "3",
+                    "content": "3. Thông tin, số liệu đầu ra là những biểu,\nbảng thông tin, số liệu phục vụ công tác quản lý, báo cáo.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:55674:part:1:article:2:clause:4",
+                    "number": "4",
+                    "content": "4. Dữ liệu gốc là dữ liệu năm 2015 về hộ gia\nđình, người hưởng chính sách trợ giúp xã hội (Sau đây gọi tắt là đối tượng) quy định tại Nghị định số 136/2013/NĐ-CP ngày 21 tháng 10 năm 2013 của Chính phủ về chính sách trợ giúp xã hội đối với đối tượng bảo trợ xã hội (Sau đây gọi tắt là Nghị định số 136/2013/NĐ-CP) và hộ nghèo, hộ cận nghèo, người nghèo, người cận nghèo theo kết quả Tổng điều tra hộ nghèo, hộ cận nghèo năm 2015 quy định tại Quyết định số 59/2015/QĐ-TTg ngày 19 tháng 11 năm 2015 của Thủ tướng Chính phủ về việc ban hành chuẩn nghèo tiếp cận đa chiều áp dụng cho giai đoạn 2016-2020 (Sau đây gọi tắt là Quyết định số 59/2015/QĐ-TTg) và được lưu trữ tại Trung tâm tích hợp dữ liệu của Bộ Lao động - Thương binh và Xã hội.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:55674:part:1:article:2:clause:5",
+                    "number": "5",
+                    "content": "5. Tài khoản đăng nhập gồm tên truy cập và mật\nkhẩu đăng nhập vào cơ sở dữ liệu để tổ chức và cá nhân cập nhật, khai thác và sử dụng.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:55674:part:1:chapter:2",
+            "number": "II",
+            "title": "XÂY DỰNG, QUẢN LÝ, CẬP NHẬT, KHAI THÁC VÀ SỬ DỤNG CƠ SỞ DỮ LIỆU",
+            "content": "Chương II\nXÂY DỰNG, QUẢN LÝ, CẬP\nNHẬT, KHAI THÁC VÀ SỬ DỤNG CƠ SỞ DỮ LIỆU",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:55674:part:1:article:3",
+                "number": "3",
+                "title": "Xây dựng và quản lý cơ sở dữ liệu",
+                "content": "Điều 3. Xây dựng và quản lý cơ sở dữ liệu",
+                "clauses": [
+                  {
+                    "clause_id": "doc:55674:part:1:article:3:clause:1",
+                    "number": "1",
+                    "content": "1. Cơ sở dữ liệu được xây dựng, quản lý thống nhất\ntừ Bộ Lao động - Thương binh và Xã hội, Sở Lao động - Thương binh và Xã hội các tỉnh, thành phố và các Phòng Lao động - Thương binh và Xã hội các quận, huyện, thị xã. Sở Lao động - Thương binh và Xã hội các tỉnh, thành phố có trách nhiệm tổ chức rà soát, cập nhật cơ sở dữ liệu hàng năm theo quy định tại Thông tư này. Việc cập nhật, khai thác cơ sở dữ liệu được phân cấp và phân quyền cho các cơ quan, tổ chức và cá nhân theo tài khoản đăng nhập.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:55674:part:1:article:3:clause:2",
+                    "number": "2",
+                    "content": "2. Cơ quan, tổ chức và cá nhân trong phạm vi chức\nnăng nhiệm vụ được phân cấp, phân quyền quản lý, cập nhật, khai thác và sử dụng cơ sở dữ liệu có trách nhiệm thực hiện các nguyên tắc và yêu cầu quản lý cơ sở dữ liệu theo quy định của pháp luật.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:55674:part:1:article:3:clause:3",
+                    "number": "3",
+                    "content": "3. Danh mục dùng chung của cơ sở dữ liệu được quản\ntrị và bảo đảm tính cập nhật, đồng bộ với các danh mục dùng chung của Bộ, ngành, quốc gia để đáp ứng việc tính hợp, chia sẻ cơ sở dữ liệu giữa các cơ quan Nhà nước phục vụ Chính phủ điện tử.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:55674:part:1:article:3:clause:4",
+                    "number": "4",
+                    "content": "4. Việc xây dựng, nâng cấp, phát triển cơ sở dữ liệu\ntừ dữ liệu gốc; thu thập, chuẩn hóa, tích hợp, cập nhật dữ liệu; lưu trữ, bảo mật, bảo đảm an toàn thông tin trong cơ sở dữ liệu; đào tạo, tập huấn, bồi dưỡng, tổ chức cán bộ quản lý, vận hành cơ sở dữ liệu được thực hiện theo quy định của pháp luật trợ giúp xã hội, pháp luật giảm nghèo, pháp luật về an toàn thông tin mạng và pháp luật liên quan khác.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:55674:part:1:article:4",
+                "number": "4",
+                "title": "Cập nhật, thay đổi thông tin đối tượng trợ giúp xã hội",
+                "content": "Điều 4. Cập nhật, thay đổi thông tin đối tượng trợ giúp xã hội",
+                "clauses": [
+                  {
+                    "clause_id": "doc:55674:part:1:article:4:clause:1",
+                    "number": "1",
+                    "content": "1. Đối với những tỉnh, thành phố trực thuộc Trung\nương đã thực hiện kết nối cơ sở dữ liệu với dịch vụ công trực tuyến thì đối tượng, người đại diện hợp pháp của đối tượng hoặc đơn vị cung cấp dịch vụ hành chính công đăng ký thông tin hưởng chính sách, cập nhật thay đổi thông tin cá nhân của đối tượng chuyển cho đơn vị quản lý nhà nước cùng cấp để tiến hành các thủ tục tiếp theo bảo đảm theo quy định của pháp luật về chính sách trợ giúp xã hội. Đối tượng, người đại diện hợp pháp của đối tượng hoặc đơn vị cung cấp dịch vụ hành chính công không được tự ý thay đổi thông tin về chế độ, chính sách mà đối tượng được hưởng. Việc cập nhật thay đổi chế độ, chính sách của đối tượng do cơ quan quản lý nhà nước thực hiện bảo đảm đúng quy định của pháp luật về chính sách trợ giúp xã hội.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:55674:part:1:article:4:clause:2",
+                    "number": "2",
+                    "content": "2. Đối với những tỉnh, thành phố trực thuộc Trung\nương chưa có kết nối cơ sở dữ liệu với dịch vụ công trực tuyến, thì trong quá trình tổ chức thực hiện chính sách trợ giúp xã hội, Ủy ban nhân dân cấp xã căn cứ quy định về thủ tục hồ sơ quy định tại Nghị định số 136/2013/NĐ-CP cập nhật thông tin của đối tượng và cập nhật thay đổi thông tin khi đối tượng có thay đổi điều kiện hưởng chính sách vào cơ sở dữ liệu thông qua công cụ được kết xuất từ hệ thống.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:55674:part:1:article:4:clause:3",
+                    "number": "3",
+                    "content": "3. Trong quá trình thẩm định, xét duyệt hồ sơ, quyết\nđịnh chính sách trợ giúp xã hội, Phòng Lao động - Thương binh và Xã hội cập nhật thay đổi thông tin của đối tượng theo phân quyền vào cơ sở dữ liệu và theo dõi cập nhập, thay đổi thông tin, bảo đảm theo dõi biến động đối tượng trên địa bàn quản lý.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:55674:part:1:article:5",
+                "number": "5",
+                "title": "Cập nhật, thay đổi thông tin hộ nghèo, hộ cận nghèo",
+                "content": "Điều 5. Cập nhật, thay đổi thông tin hộ nghèo, hộ cận nghèo",
+                "clauses": [
+                  {
+                    "clause_id": "doc:55674:part:1:article:5:clause:1",
+                    "number": "1",
+                    "content": "1. Đối với những tỉnh, thành phố trực thuộc Trung\nương đã thực hiện kết nối cơ sở dữ liệu với dịch vụ công trực tuyến thì đại diện hộ nghèo, hộ cận nghèo, người đại diện hợp pháp của hộ nghèo, hộ cận nghèo hoặc đơn vị cung cấp dịch vụ hành chính công cập nhật và khai báo thông tin cá nhân của hộ nghèo, hộ cận nghèo chuyển cho đơn vị quản lý nhà nước cùng cấp để tiến hành các thủ tục tiếp theo bảo đảm đúng quy định của pháp luật về chính sách giảm nghèo. Đại diện hộ nghèo, hộ cận nghèo, người đại diện hợp pháp của hộ nghèo, hộ cận nghèo hoặc đơn vị cung cấp dịch vụ hành chính công không được thay đổi thông tin về chế độ, chính sách hộ nghèo, hộ cận nghèo được hưởng. Việc cập nhật thay đổi chế độ, chính sách của hộ nghèo, hộ cận nghèo do cơ quan quản lý nhà nước thực hiện đảm bảo đúng quy định của pháp luật về chính sách giảm nghèo.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:55674:part:1:article:5:clause:2",
+                    "number": "2",
+                    "content": "2. Đối với những tỉnh, thành phố trực thuộc Trung\nương chưa thực hiện kết nối cơ sở dữ liệu với dịch vụ công trực tuyến thì trên cơ sở kết quả rà soát hộ nghèo, hộ cận nghèo thường xuyên, định kỳ hàng năm theo quy trình hướng dẫn tại Thông tư số 17/2016/TT-BLĐTBXH ngày 28 tháng 6 năm 2016 của Bộ Lao động - Thương binh và Xã hội hướng dẫn quy trình rà soát hộ nghèo, hộ cận nghèo hàng năm theo chuẩn nghèo tiếp cận đa chiều áp dụng cho giai đoạn 2016-2020 và Thông tư số 14/2018/TT-BLĐTBXH ngày 26 tháng 9 năm 2018 của Bộ Lao động - Thương binh và Xã hội sửa đổi bổ sung một số điều của Thông tư số 17/2016/TT-BLĐTBXH ngày 28 tháng 6 năm 2016 của Bộ Lao động - Thương binh và Xã hội hướng dẫn quy trình rà soát hộ nghèo, hộ cận nghèo hàng năm, cán bộ phụ trách công tác giảm nghèo cấp xã hoặc người được phân công của cấp có thẩm quyền tại cấp cơ sở tổ chức thực hiện việc quản lý, cập nhật, thay đổi thông tin hộ nghèo, hộ cận nghèo vào cơ sở dữ liệu.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:55674:part:1:article:6",
+                "number": "6",
+                "title": "Cập nhật, khai thác và sử dụng thông tin từ cơ sở dữ liệu",
+                "content": "Điều 6. Cập nhật, khai thác và sử dụng thông tin từ cơ sở dữ liệu",
+                "clauses": [
+                  {
+                    "clause_id": "doc:55674:part:1:article:6:clause:1",
+                    "number": "1",
+                    "content": "1. Việc khai thác, chia sẻ thông tin, dữ liệu theo\nphân cấp, phân quyền của hệ thống. Các tổ chức và cá nhân không có tài khoản đăng nhập nếu có nhu cầu thông tin thì đề nghị cơ quan quản lý cung cấp thông tin theo quy định của pháp luật. Cơ quan được giao quản lý cơ sở dữ liệu tiếp nhận đề nghị và xem xét cung cấp thông tin, dữ liệu cho các tổ chức, cá nhân khi có yêu cầu.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:55674:part:1:article:6:clause:2",
+                    "number": "2",
+                    "content": "2. Sở Lao động - Thương binh và Xã hội, Phòng Lao động\n- Thương binh và Xã hội và các cơ quan, tổ chức liên quan được quyền sử dụng thông tin, số liệu đầu ra của hệ thống theo quy định.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:55674:part:1:article:6:clause:3",
+                    "number": "3",
+                    "content": "3. Đơn vị quản lý cơ sở dữ liệu chịu trách nhiệm cấp,\nquản lý tài khoản và mật khẩu cho các tổ chức, cá nhân cập nhật, khai thác thông tin, dữ liệu trong phạm vi phân cấp, phân quyền; tiếp nhận và xử lý những góp ý, khiếu nại của các tổ chức, cá nhân đối với thông tin, dữ liệu về đối tượng thụ hưởng trong phạm vi quản lý.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:55674:part:1:article:6:clause:4",
+                    "number": "4",
+                    "content": "4. Các đơn vị liên quan thuộc Bộ Lao động - Thương\nbinh và Xã hội được quyền sử dụng thông tin, dữ liệu về đối tượng thụ hưởng; tiếp nhận và xử lý những góp ý, khiếu nại của các tổ chức, cá nhân đối với thông tin, dữ liệu và hạn chế kỹ thuật trong việc khai thác, sử dụng thông tin, dữ liệu theo quy định.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:55674:part:1:article:6:clause:5",
+                    "number": "5",
+                    "content": "5. Các cá nhân được phép sử dụng thông tin, dữ liệu\ntheo quy định của pháp luật về tiếp cận thông tin; các đơn vị, cá nhân có liên quan thực hiện điều chỉnh thông tin trong phạm vi thẩm quyền phân cấp quản lý theo quy định của pháp luật về trợ giúp xã hội và giảm nghèo; khi phát hiện lỗi trong việc cập nhật thông tin, dữ liệu hoặc các sai sót của thông tin phải thông báo ngay cho cơ quan quản lý cùng cấp.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:55674:part:1:article:7",
+                "number": "7",
+                "title": "An toàn thông tin",
+                "content": "Điều 7. An toàn thông tin",
+                "clauses": [
+                  {
+                    "clause_id": "doc:55674:part:1:article:7:clause:1",
+                    "number": "1",
+                    "content": "1. Hệ thống cơ sở dữ liệu trợ giúp xã hội và giảm\nnghèo được bảo đảm an toàn hệ thống thông tin theo quy định tại Nghị định số 85/2016/NĐ-CP ngày 01 tháng 7 năm 2016 của Chính phủ về bảo đảm an toàn hệ thống thông tin theo cấp độ. Các cơ quan, tổ chức, cá nhân chịu trách nhiệm quản lý, cập nhật, khai thác và sử dụng được cấp tài khoản đăng nhập, mật khẩu, quyền hạn truy cập hệ thống; bảo đảm an ninh, an toàn và có trách nhiệm bảo mật mật khẩu truy cập, bảo quản các trang thiết bị và sử dụng đúng quyền hạn được xác lập trên hệ thống. Tên truy cập, mật khẩu là căn cứ để xác định trách nhiệm của từng người sử dụng trong việc thực hiện các chức năng của hệ thống.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:55674:part:1:article:7:clause:2",
+                    "number": "2",
+                    "content": "2. Cán bộ quản trị thực hiện phân quyền truy cập của\ntổ chức và cá nhân vào cơ sở dữ liệu.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:55674:part:1:article:7:clause:3",
+                    "number": "3",
+                    "content": "3. Máy chủ do Trung tâm Thông tin, Bộ Lao động -\nThương binh và Xã hội quản lý và chịu trách nhiệm vận hành.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:55674:part:1:article:7:clause:4",
+                    "number": "4",
+                    "content": "4. Máy chủ tại Sở Lao động - Thương binh và Xã hội\ndo Sở Lao động - Thương binh và Xã hội quản lý và chịu trách nhiệm vận hành.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:55674:part:1:article:7:clause:5",
+                    "number": "5",
+                    "content": "5. Các máy chủ, máy trạm phải cài đặt phần mềm\nphòng chống virus, các phần mềm về hệ điều hành, phần mềm về cơ sở dữ liệu phải có bản quyền, thường xuyên cập nhật để bảo đảm an toàn, an ninh hệ thống.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:55674:part:1:article:7:clause:6",
+                    "number": "6",
+                    "content": "6. Dữ liệu được cập nhật thường xuyên, cuối mỗi\ntháng cơ sở dữ liệu trợ giúp xã hội và giảm nghèo tại Trung ương phải được lưu trữ thành một bản dữ liệu dự phòng. Bản dự phòng này có thể khôi phục được trong trường hợp có sự cố hỏng hóc thiết bị. Cuối mỗi năm cơ sở dữ liệu phải được sao lưu thành một bản để làm dữ liệu hàng năm.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:55674:part:1:article:7:clause:7",
+                    "number": "7",
+                    "content": "7. Dữ liệu dự phòng phải bảo đảm được lưu trên thiết\nbị lưu trữ thống nhất, bảo mật và an toàn.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:55674:part:1:article:7:clause:8",
+                    "number": "8",
+                    "content": "8. Đơn vị quản lý cơ sở dữ liệu có trách nhiệm tổ\nchức triển khai, hướng dẫn các đơn vị liên quan trong việc phân quyền, sao lưu dữ liệu dự phòng và lưu trữ cơ sở dữ liệu bảo đảm thống nhất, bảo mật và an toàn.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:55674:part:1:article:7:clause:9",
+                    "number": "9",
+                    "content": "9. Nghiêm cấm mọi hành vi làm sai lệch thông tin cơ\nsở dữ liệu, tự ý sửa chữa phần mềm cơ sở dữ liệu hoặc khai thác, sử dụng thông tin vào các mục đích cá nhân, không theo quy định.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:55674:part:1:article:8",
+                "number": "8",
+                "title": "Cài đặt, sao lưu và phục hồi dữ liệu",
+                "content": "Điều 8. Cài đặt, sao lưu và phục hồi dữ liệu",
+                "clauses": [
+                  {
+                    "clause_id": "doc:55674:part:1:article:8:clause:1",
+                    "number": "1",
+                    "content": "1. Cơ sở dữ liệu được cài đặt, lưu trữ và quản lý tại\nTrung tâm Thông tin, Bộ Lao động - Thương binh và Xã hội và Máy chủ đặt tại Sở Lao động - Thương binh và Xã hội các tỉnh, thành phố trực thuộc Trung ương.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:55674:part:1:article:8:clause:2",
+                    "number": "2",
+                    "content": "2. Cơ sở dữ liệu được lưu trữ bằng các thiết bị lưu\ntrữ chuyên dụng, được đơn vị, cá nhân chịu trách nhiệm quản trị hệ thống, quản lý cơ sở dữ liệu tại Bộ Lao động - Thương binh và Xã hội, Sở Lao động - Thương binh và Xã hội và Phòng Lao động - Thương binh và Xã hội cấp huyện được sao lưu định kỳ và thực hiện sao lưu đột xuất khi có yêu cầu. Dữ liệu sao lưu phải được lưu trữ an toàn, định kỳ kiểm tra để sẵn sàng khôi phục khi xảy ra sự cố. Khi xảy ra sự cố mất dữ liệu thì dữ liệu phải được phục hồi từ bản sao lưu gần nhất.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:55674:part:1:article:9",
+                "number": "9",
+                "title": "Bảo trì, bảo dưỡng và nâng cấp cơ sở dữ liệu",
+                "content": "Điều 9. Bảo trì, bảo dưỡng và nâng cấp cơ sở dữ liệu",
+                "clauses": [
+                  {
+                    "clause_id": "doc:55674:part:1:article:9:clause:1",
+                    "number": "1",
+                    "content": "1. Cơ sở dữ liệu được theo dõi, giám sát nhằm bảo đảm\nhoạt động liên tục 24 giờ/ngày, các ngày trong năm và thường xuyên được bảo trì, bảo dưỡng.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:55674:part:1:article:9:clause:2",
+                    "number": "2",
+                    "content": "2. Phần mềm cơ sở dữ liệu được nâng cấp kịp thời,\nphù hợp với sự phát triển của công nghệ thông tin, đáp ứng yêu cầu quản lý, điều hành của Bộ, ngành Lao động - Thương binh và Xã hội và nhu cầu quản lý, cập nhật, khai thác và sử dụng thông tin, dữ liệu của các tổ chức và cá nhân liên quan.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:55674:part:1:article:10",
+                "number": "10",
+                "title": "Quản lý tài khoản đối với cơ sở dữ liệu",
+                "content": "Điều 10. Quản lý tài khoản đối với cơ sở dữ liệu",
+                "clauses": [
+                  {
+                    "clause_id": "doc:55674:part:1:article:10:clause:1",
+                    "number": "1",
+                    "content": "1. Tài khoản đăng nhập để người sử dụng cập nhật,\nkhai thác cơ sở dữ liệu được đặt tên theo quy ước: Đối với cấp tỉnh <mã tỉnh>.<tên đơn vị>, đối với cấp huyện <mã huyện>.<tên đơn vị>. Mã tỉnh và mã huyện được lấy theo danh mục mã các đơn vị hành chính Việt Nam ban hành theo Quyết định số 124/2004/QĐ-TTg ngày 08 tháng 7 năm 2004 của Thủ tướng Chính phủ và các văn bản bổ sung, điều chỉnh có liên quan. Các tên tài khoản được viết liền, không dấu.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:55674:part:1:article:10:clause:2",
+                    "number": "2",
+                    "content": "2. Mật khẩu tài khoản đăng nhập là một tổ hợp có ít\nnhất 8 ký tự, bao gồm cả chữ và số. Mật khẩu mới được đổi lại phải khác với mật khẩu cũ.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:55674:part:1:article:10:clause:3",
+                    "number": "3",
+                    "content": "3. Quy trình cấp mới, cấp đổi tài khoản được thực\nhiện theo trình tự sau:",
+                    "points": [
+                      {
+                        "point_id": "doc:55674:part:1:article:10:clause:3:point:1",
+                        "label": "a",
+                        "content": "a) Đơn vị đề nghị cấp tài khoản gửi văn bản tới cơ\nquan, đơn vị quản lý cơ sở dữ liệu theo phân cấp, phân quyền quản lý cơ sở dữ liệu;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:55674:part:1:article:10:clause:3:point:2",
+                        "label": "b",
+                        "content": "b) Đơn vị quản lý cơ sở dữ liệu tạo tài khoản, hướng\ndẫn người sử dụng tài khoản được cấp đồng thời gửi văn bản cấp tài khoản đến đơn vị đề nghị cấp;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:55674:part:1:article:10:clause:3:point:3",
+                        "label": "c",
+                        "content": "c) Người được cấp tài khoản cần thay đổi mật khẩu\nsau lần đầu tiên đăng nhập hệ thống.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:55674:part:1:article:10:clause:4",
+                    "number": "4",
+                    "content": "4. Việc thu hồi tài khoản được thực hiện trong các\ntrường hợp sau:",
+                    "points": [
+                      {
+                        "point_id": "doc:55674:part:1:article:10:clause:4:point:1",
+                        "label": "a",
+                        "content": "a) Người sử dụng thôi phụ trách công việc liên quan\ntới tài khoản và được đơn vị chủ quản thông báo bằng văn bản tới đơn vị quản lý cơ sở dữ liệu;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:55674:part:1:article:10:clause:4:point:2",
+                        "label": "b",
+                        "content": "b) Đơn vị chủ quản có văn bản hoặc đơn vị quản trị\nhệ thống phát hiện tài khoản đăng nhập có hành vi vi phạm quy định về vận hành hệ thống. Đơn vị quản lý cơ sở dữ liệu sau khi thu hồi tài khoản sẽ gửi văn bản thông báo kết quả về đơn vị chủ quản của người sử dụng hệ thống.",
+                        "children": []
+                      }
+                    ]
+                  }
+                ],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:55674:part:1:chapter:3",
+            "number": "III",
+            "title": "TỔ CHỨC THỰC HIỆN",
+            "content": "Chương III\nTỔ CHỨC THỰC HIỆN",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:55674:part:1:article:11",
+                "number": "11",
+                "title": "Trách nhiệm của các đơn vị liên quan thuộc Bộ Lao động - Thương binh và Xã hội",
+                "content": "Điều 11. Trách nhiệm của các đơn vị liên quan thuộc Bộ Lao động - Thương binh và Xã hội",
+                "clauses": [
+                  {
+                    "clause_id": "doc:55674:part:1:article:11:clause:1",
+                    "number": "1",
+                    "content": "1. Cục Bảo trợ xã hội:",
+                    "points": [
+                      {
+                        "point_id": "doc:55674:part:1:article:11:clause:1:point:1",
+                        "label": "a",
+                        "content": "a) Là đơn vị xây dựng, quản lý, khai thác, sử dụng\ncơ sở dữ liệu;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:55674:part:1:article:11:clause:1:point:2",
+                        "label": "b",
+                        "content": "b) Hướng dẫn, tuyên truyền, đào tạo, tập huấn nâng\ncao năng lực, kiểm tra, giám sát các cơ quan, địa phương, cơ sở trợ giúp xã hội trong việc cập nhật, khai thác, sử dụng hệ thống cơ sở dữ liệu trợ giúp xã hội và giảm nghèo;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:55674:part:1:article:11:clause:1:point:3",
+                        "label": "c",
+                        "content": "c) Giúp Bộ trưởng Bộ Lao động - Thương binh và Xã hội\nchỉ đạo, phối hợp với các đơn vị liên quan để thực hiện hoàn thiện, cập nhật, sửa chữa, nâng cấp kịp thời hệ thống phần mềm theo sự thay đổi của các văn bản, chính sách hoặc do lỗi vận hành, chưa phù hợp theo yêu cầu quản lý, cập nhật, khai thác và sử dụng dữ liệu.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:55674:part:1:article:11:clause:2",
+                    "number": "2",
+                    "content": "2. Văn phòng Quốc gia về giảm nghèo: hướng dẫn, đôn\nđốc các địa phương tổ chức rà soát và thu thập, cập nhật thông tin, dữ liệu về hộ nghèo, hộ cận nghèo trên địa bàn vào cơ sở dữ liệu.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:55674:part:1:article:11:clause:3",
+                    "number": "3",
+                    "content": "3. Trung tâm Thông tin: quản trị hệ thống, bảo đảm\nhạ tầng công nghệ, tổ chức triển khai các giải pháp an ninh, an toàn và bảo mật thông tin cho hệ thống, cơ sở dữ liệu. Rà soát, đề xuất kế hoạch và phương án bảo đảm duy trì hoạt động liên tục của hệ thống và nâng cấp trước khi hệ thống bị quá tải.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:55674:part:1:article:12",
+                "number": "12",
+                "title": "Trách nhiệm của cơ quan lao động địa phương Sở Lao động - Thương binh và Xã hội các tỉnh, thành phố trực thuộc Trung ương chỉ đạo Phòng Lao động - Thương binh và Xã hội hướng dẫn, đôn đốc, kiểm tra, giám sát cán bộ làm công tác lao động xã hội tại cấp huyện, cấp xã trong việc thu thập, cập nhật đối tượng thụ hưởng vào cơ sở dữ liệu theo quy định; thực hiện kết nối cơ sở dữ liệu với hệ thống dịch vụ công trực tuyến để giải quyết chính sách cho đối tượng theo quy định của pháp luật về trợ giúp xã hội và giảm nghèo.",
+                "content": "Điều 12. Trách nhiệm của cơ quan lao động địa phương Sở Lao động - Thương binh và Xã hội các tỉnh, thành phố trực thuộc Trung ương chỉ đạo Phòng Lao động - Thương binh và Xã hội hướng dẫn, đôn đốc, kiểm tra, giám sát cán bộ làm công tác lao động xã hội tại cấp huyện, cấp xã trong việc thu thập, cập nhật đối tượng thụ hưởng vào cơ sở dữ liệu theo quy định; thực hiện kết nối cơ sở dữ liệu với hệ thống dịch vụ công trực tuyến để giải quyết chính sách cho đối tượng theo quy định của pháp luật về trợ giúp xã hội và giảm nghèo.",
+                "clauses": [],
+                "points": []
+              },
+              {
+                "article_id": "doc:55674:part:1:article:13",
+                "number": "13",
+                "title": "Kinh phí thực hiện Kinh phí thực hiện quản lý, tuyên truyền nâng cao nhận thức, đào tạo, tập huấn cán bộ; duy trì, cập nhật, khai thác và sử dụng cơ sở dữ liệu trợ giúp xã hội và giảm nghèo từ nguồn ngân sách nhà nước theo phân cấp hiện hành; nguồn huy động, tài trợ, đóng góp của các tổ chức, cá nhân trong và ngoài nước và nguồn kinh phí hợp pháp khác theo quy định của pháp luật.",
+                "content": "Điều 13. Kinh phí thực hiện Kinh phí thực hiện quản lý, tuyên truyền nâng cao nhận thức, đào tạo, tập huấn cán bộ; duy trì, cập nhật, khai thác và sử dụng cơ sở dữ liệu trợ giúp xã hội và giảm nghèo từ nguồn ngân sách nhà nước theo phân cấp hiện hành; nguồn huy động, tài trợ, đóng góp của các tổ chức, cá nhân trong và ngoài nước và nguồn kinh phí hợp pháp khác theo quy định của pháp luật.",
+                "clauses": [],
+                "points": []
+              },
+              {
+                "article_id": "doc:55674:part:1:article:14",
+                "number": "14",
+                "title": "Hiệu lực thi hành",
+                "content": "Điều 14. Hiệu lực thi hành",
+                "clauses": [
+                  {
+                    "clause_id": "doc:55674:part:1:article:14:clause:1",
+                    "number": "1",
+                    "content": "1. Thông tư này có hiệu lực kể từ ngày 03 tháng 9\nnăm 2019.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:55674:part:1:article:14:clause:2",
+                    "number": "2",
+                    "content": "2. Trong quá trình thực hiện, nếu có vướng mắc, đề\nnghị phản ánh kịp thời về Bộ Lao động - Thương binh và Xã hội để xem xét, giải quyết./.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          }
+        ],
+        "sections": [],
+        "articles": [],
+        "unstructured_blocks": []
+      }
+    ]
+  },
+  "issues": [],
+  "status": "ok",
+  "source_hash": "context_55674.json",
+  "stats": {
+    "source_chars": 17906,
+    "passage_chars": 17727,
+    "parts": 1,
+    "chapters": 3,
+    "sections": 0,
+    "articles": 14,
+    "clauses": 43,
+    "points": 8
+  }
+}

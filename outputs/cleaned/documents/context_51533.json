@@ -1,0 +1,417 @@
+{
+  "schema_version": "2.0",
+  "document_id": 51533,
+  "metadata": {
+    "name": "Thong-tu-12-2019-TT-BKHCN-tieu-chi-xac-dinh-san-pham-thiet-bi-su-dung-nuoc-tiet-kiem-431348",
+    "link": "https://thuvienphapluat.vn/van-ban/Linh-vuc-khac/Thong-tu-12-2019-TT-BKHCN-tieu-chi-xac-dinh-san-pham-thiet-bi-su-dung-nuoc-tiet-kiem-431348.aspx",
+    "issuing_agency": "BỘ KHOA HỌC VÀ CÔNG",
+    "national_header": "CỘNG HÒA XÃ\r\n\n  HỘI CHỦ NGHĨA VIỆT NAM",
+    "motto": "Độc lập - Tự do - Hạnh phúc",
+    "document_number": "12/2019/TT-BKHCN",
+    "issued_place": "Hà Nội",
+    "issued_date": "ngày 15 tháng 11 năm 2019",
+    "document_type": null,
+    "title": null
+  },
+  "administrative_header": {
+    "removed": true,
+    "removed_char_count": 166
+  },
+  "preamble": {
+    "text": "THÔNG TƯ QUY\nĐỊNH TIÊU CHÍ XÁC ĐỊNH SẢN PHẨM, THIẾT BỊ SỬ DỤNG NƯỚC TIẾT KIỆM\nCăn cứ Luật Tài nguyên nước ngày 21 tháng 6 năm 2012; Căn cứ Luật Tiêu chuẩn và quy chuẩn kỹ thuật ngày 29 tháng 6 năm 2006; Căn cứ Luật Chất lượng sản phẩm, hàng hóa ngày 21 tháng 11 năm 2007; Căn cứ Nghị định số 54/2015/NĐ-CP ngày 08 tháng 6 năm 2015 của Chính phủ về quy định ưu đãi đối với hoạt động sử dụng nước tiết kiệm, hiệu quả; Căn cứ Nghị định số 132/2008/NĐ-CP ngày 31 tháng 12 năm 2008 của Chính phủ quy định chi tiết thi hành một số điều của Luật chất lượng sản phẩm, hàng hóa và Nghị định số 74/2018/NĐ-CP ngày 15 tháng 5 năm 2018 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 132/2008/NĐ-CP ngày 31 tháng 12 năm 2008 của Chính phủ quy định chi tiết thi hành một số điều Luật chất lượng sản phẩm, hàng hóa; Căn cứ Nghị định số 107/2016/NĐ-CP ngày 01 tháng 7 năm 2016 của Chính phủ quy định về điều kiện kinh doanh dịch vụ đánh giá sự phù hợp và Nghị định số 154/2018/NĐ-CP ngày 09 tháng 11 năm 2018 của Chính phủ sửa đổi, bổ sung, bãi bỏ một số quy định về điều kiện đầu tư, kinh doanh trong lĩnh vực quản lý nhà nước của Bộ Khoa học và Công nghệ và một số quy định về kiểm tra chuyên ngành; Căn cứ Nghị định số 95/2017/NĐ-CP ngày 16 tháng 8 năm 2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Khoa học và Công nghệ; Theo đề nghị của Tổng cục trưởng Tổng cục Tiêu chuẩn Đo lường Chất lượng và Vụ trưởng Vụ Pháp chế; Bộ trưởng Bộ Khoa học và Công nghệ ban hành Thông tư quy định tiêu chí xác định sản phẩm, thiết bị sử dụng nước tiết kiệm.\nChương I\nQUY ĐỊNH CHUNG",
+    "legal_bases": [
+      "Căn cứ Luật Tiêu chuẩn và quy chuẩn kỹ thuật ngày 29 tháng 6 năm 2006",
+      "Căn cứ Luật Chất lượng sản phẩm, hàng hóa ngày 21 tháng 11 năm 2007",
+      "Căn cứ Nghị định số 54/2015/NĐ-CP ngày 08 tháng 6 năm 2015 của Chính phủ về quy định ưu đãi đối với hoạt động sử dụng nước tiết kiệm, hiệu quả",
+      "Căn cứ Nghị định số 132/2008/NĐ-CP ngày 31 tháng 12 năm 2008 của Chính phủ quy định chi tiết thi hành một số điều của Luật chất lượng sản phẩm, hàng hóa và Nghị định số 74/2018/NĐ-CP ngày 15 tháng 5 năm 2018 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 132/2008/NĐ-CP ngày 31 tháng 12 năm 2008 của Chính phủ quy định chi tiết thi hành một số điều Luật chất lượng sản phẩm, hàng hóa",
+      "Căn cứ Nghị định số 107/2016/NĐ-CP ngày 01 tháng 7 năm 2016 của Chính phủ quy định về điều kiện kinh doanh dịch vụ đánh giá sự phù hợp và Nghị định số 154/2018/NĐ-CP ngày 09 tháng 11 năm 2018 của Chính phủ sửa đổi, bổ sung, bãi bỏ một số quy định về điều kiện đầu tư, kinh doanh trong lĩnh vực quản lý nhà nước của Bộ Khoa học và Công nghệ và một số quy định về kiểm tra chuyên ngành",
+      "Căn cứ Nghị định số 95/2017/NĐ-CP ngày 16 tháng 8 năm 2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Khoa học và Công nghệ"
+    ],
+    "proposals": [
+      "Theo đề nghị của Tổng cục trưởng Tổng cục Tiêu chuẩn Đo lường Chất lượng và Vụ trưởng Vụ Pháp chế"
+    ],
+    "enactment_formula": null
+  },
+  "passage": "THÔNG TƯ QUY\nĐỊNH TIÊU CHÍ XÁC ĐỊNH SẢN PHẨM, THIẾT BỊ SỬ DỤNG NƯỚC TIẾT KIỆM\nCăn cứ Luật Tài nguyên nước ngày 21 tháng 6 năm 2012; Căn cứ Luật Tiêu chuẩn và quy chuẩn kỹ thuật ngày 29 tháng 6 năm 2006; Căn cứ Luật Chất lượng sản phẩm, hàng hóa ngày 21 tháng 11 năm 2007; Căn cứ Nghị định số 54/2015/NĐ-CP ngày 08 tháng 6 năm 2015 của Chính phủ về quy định ưu đãi đối với hoạt động sử dụng nước tiết kiệm, hiệu quả; Căn cứ Nghị định số 132/2008/NĐ-CP ngày 31 tháng 12 năm 2008 của Chính phủ quy định chi tiết thi hành một số điều của Luật chất lượng sản phẩm, hàng hóa và Nghị định số 74/2018/NĐ-CP ngày 15 tháng 5 năm 2018 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 132/2008/NĐ-CP ngày 31 tháng 12 năm 2008 của Chính phủ quy định chi tiết thi hành một số điều Luật chất lượng sản phẩm, hàng hóa; Căn cứ Nghị định số 107/2016/NĐ-CP ngày 01 tháng 7 năm 2016 của Chính phủ quy định về điều kiện kinh doanh dịch vụ đánh giá sự phù hợp và Nghị định số 154/2018/NĐ-CP ngày 09 tháng 11 năm 2018 của Chính phủ sửa đổi, bổ sung, bãi bỏ một số quy định về điều kiện đầu tư, kinh doanh trong lĩnh vực quản lý nhà nước của Bộ Khoa học và Công nghệ và một số quy định về kiểm tra chuyên ngành; Căn cứ Nghị định số 95/2017/NĐ-CP ngày 16 tháng 8 năm 2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Khoa học và Công nghệ; Theo đề nghị của Tổng cục trưởng Tổng cục Tiêu chuẩn Đo lường Chất lượng và Vụ trưởng Vụ Pháp chế; Bộ trưởng Bộ Khoa học và Công nghệ ban hành Thông tư quy định tiêu chí xác định sản phẩm, thiết bị sử dụng nước tiết kiệm.\nChương I\nQUY ĐỊNH CHUNG\nĐiều 1. Phạm vi điều chỉnh Thông tư này quy định tiêu chí và phương pháp xác định sản phẩm, thiết bị sử dụng nước tiết kiệm, bao gồm:\n1. Tiêu chí xác định sản phẩm, thiết\nbị sử dụng nước tiết kiệm;\n2. Phương pháp xác định tiêu chí sản\nphẩm, thiết bị sử dụng nước tiết kiệm;\n3. Phương pháp xác định sản phẩm,\nthiết bị sử dụng nước tiết kiệm;\n4. Sản phẩm, thiết bị sử dụng nước tiết\nkiệm có cấp hiệu quả sử dụng nước phù hợp với quy định tại các tiêu chuẩn quốc gia (TCVN) do Bộ Khoa học và Công nghệ công bố áp dụng;\n5. Sử dụng “nhãn tiết kiệm nước”.\nĐiều 2. Đối tượng áp dụng\n1. Tổ chức, cá nhân sản xuất, kinh\ndoanh sản phẩm, thiết bị sử dụng nước tiết kiệm quy định tại Điều 1 Thông tư này; tổ chức đánh giá sự phù hợp thực hiện thử nghiệm, chứng nhận các sản phẩm, thiết bị sử dụng nước;\n2. Cơ quan quản lý nhà nước và tổ\nchức, cá nhân khác có liên quan.\nĐiều 3. Giải thích từ ngữ Trong Thông tư này, các từ ngữ dưới đây được hiểu như sau:\n1. Sản phẩm, thiết bị sử dụng nước\nlà sản phẩm, thiết bị có thiết kế và cấu tạo trong quá trình sử dụng bắt buộc phải tiêu thụ một lượng nước nhất định để thực hiện một hoặc nhiều chức năng;\n2. Cấp hiệu quả sử dụng nước là\nmức độ tiết kiệm nước của sản phẩm, thiết bị sử dụng nước nhưng vẫn bảo đảm tính năng sử dụng của sản phẩm, thiết bị đó.\nChương II\nTIÊU\nCHÍ VÀ PHƯƠNG PHÁP XÁC ĐỊNH TIÊU CHÍ SẢN PHẨM, THIẾT BỊ SỬ DỤNG NƯỚC TIẾT KIỆM\nĐiều 4. Tiêu chí xác định sản phẩm, thiết bị sử dụng nước tiết kiệm\n1. Sản phẩm, thiết bị sử dụng nước tiết\nkiệm là sản phẩm, thiết bị sử dụng nước đáp ứng các tiêu chí sau:\na) Tính năng của sản phẩm, thiết bị\nbảo đảm mục đích sử dụng phù hợp với tiêu chuẩn công bố áp dụng cho sản phẩm, thiết bị;\nb) Cấp hiệu quả sử dụng nước phù hợp\nvới tiêu chuẩn quốc gia tương ứng do Bộ Khoa học và Công nghệ công bố cho sản phẩm, thiết bị sử dụng nước tiết kiệm.\n2. Hiệu quả sử dụng nước của sản phẩm,\nthiết bị sử dụng nước tiết kiệm được chia thành ba cấp để phản ánh mức độ tiết kiệm nước. Hiệu quả sử dụng nước tăng dần theo thứ tự từ cấp 1 đến cấp 3, trong đó cấp 1 là cấp có hiệu quả sử dụng nước thấp nhất tương ứng với khả năng tiết kiệm nước ít nhất, cấp 3 là cấp có hiệu quả sử dụng nước cao nhất tương ứng với khả năng tiết kiệm nước nhiều nhất. Hiệu quả sử dụng nước của sản phẩm, thiết bị được xác định trong tiêu chuẩn quốc gia tương ứng.\nĐiều 5. Phương pháp xác định tiêu chí sản phẩm, thiết bị sử dụng nước tiết kiệm Phương pháp xác định tiêu chí sản phẩm, thiết bị sử dụng nước tiết kiệm thực hiện theo quy định tại các tiêu chuẩn quốc gia tương ứng đối với từng sản phẩm, thiết bị. Trong đó, sản phẩm, thiết bị vệ sinh và thiết bị gia dụng sử dụng nước tiết kiệm được lập thành Danh mục sản phẩm, thiết bị vệ sinh và thiết bị gia dụng sử dụng nước tiết kiệm quy định tại Phụ lục I ban hành kèm theo Thông tư này.\nĐiều 6. Xác định sản phẩm, thiết bị sử dụng nước tiết kiệm\n1. Sản phẩm, thiết bị sử dụng nước tiết\nkiệm đáp ứng các tiêu chí quy định tại Điều 4 Thông tư này được xác định bằng phương pháp đánh giá sự phù hợp với tiêu chuẩn quốc gia tương ứng.\n2. Đánh giá sự phù hợp đối với sản phẩm,\nthiết bị sử dụng nước tiết kiệm thực hiện theo Phương thức 1 quy định tại Thông tư số 28/2012/TT-BKHCN ngày 12 tháng 12 năm 2012 của Bộ trưởng Bộ Khoa học và Công nghệ quy định về công bố hợp chuẩn, công bố hợp quy và phương thức đánh giá sự phù hợp với tiêu chuẩn, quy chuẩn kỹ thuật và Thông tư số 02/2017/TT-BKHCN ngày 31 tháng 3 năm 2017 sửa đổi, bổ sung một số điều của Thông tư số 28/2012/TT-BKHCN ngày 12 tháng 12 năm 2012 của Bộ trưởng Bộ Khoa học và Công nghệ quy định về công bố hợp chuẩn, công bố hợp quy và phương thức đánh giá sự phù hợp với tiêu chuẩn, quy chuẩn kỹ thuật trên cơ sở tự nguyện của tổ chức, cá nhân yêu cầu xác định.\n3. Tổ chức đánh giá sự phù hợp đối với\nsản phẩm, thiết bị sử dụng nước tiết kiệm đăng ký hoạt động theo quy định tại Nghị định số 107/2016/NĐ-CP ngày 01 tháng 7 năm 2016 của Chính phủ quy định về điều kiện kinh doanh dịch vụ đánh giá sự phù hợp và Nghị định số 154/2018/NĐ-CP ngày 09 tháng 11 năm 2018 của Chính phủ sửa đổi, bổ sung, bãi bỏ một số quy định về điều kiện đầu tư, kinh doanh trong lĩnh vực quản lý nhà nước của Bộ Khoa học và Công nghệ và một số quy định về kiểm tra chuyên ngành.\nĐiều 7. Nhãn tiết kiệm nước\n1. Khuyến khích tổ chức, cá nhân sản\nxuất, kinh doanh và nhập khẩu sử dụng “nhãn tiết kiệm nước” đối với sản phẩm, thiết bị sử dụng nước tiết kiệm.\n2. Tổ chức, cá nhân tự nguyện sử dụng\n“nhãn tiết kiệm nước” thực hiện theo quy định về Mẫu nhãn tiết kiệm nước tại\nPhụ lục II ban hành kèm theo Thông tư này.\n3. Nhãn tiết kiệm nước bảo đảm đầy đủ\ncác thông tin sau:\na) Số chứng nhận do tổ chức chứng nhận\ncấp kèm theo tên của tổ chức chứng nhận;\nb) Ký hiệu về cấp hiệu quả sử dụng\nnước của sản phẩm, thiết bị ứng với một sao là cấp 1, hai sao là cấp 2 và ba sao là cấp 3.\n4. Kích thước của nhãn tiết kiệm\nnước có thể phóng to hoặc thu nhỏ hoặc in chìm, in nổi, lồng ghép với nền của nhãn hàng hóa trên sản phẩm, thiết bị sử dụng nước tiết kiệm, bảo đảm không gây nhầm lẫn, che lấp hoặc làm ảnh hưởng tới khả năng quan sát các thông tin bắt buộc ghi trên nhãn hàng hóa theo quy định của pháp luật về ghi nhãn hàng hóa. Nhãn tiết kiệm nước có thể gắn trực tiếp trên sản phẩm, thiết bị hoặc trên bao bì, tài liệu hướng dẫn của sản phẩm, thiết bị sử dụng nước tiết kiệm.\n5. Sản phẩm, thiết bị sử dụng nước tiết\nkiệm nhập khẩu đã được gắn nhãn tiết kiệm nước của nước xuất khẩu mà nước xuất khẩu đó đã có thỏa thuận thừa nhận lẫn nhau với Việt Nam về kết quả hoạt động đánh giá sự phù hợp, có nội dung thừa nhận liên quan đến dán nhãn tiết kiệm nước thì sản phẩm, thiết bị nhập khẩu không cần thực hiện việc đánh giá sự phù hợp để xác định sản phẩm, thiết bị sử dụng nước tiết kiệm.\n6. Tổ chức, cá nhân sử dụng nhãn tiết\nkiệm nước trên sản phẩm, thiết bị sử dụng nước không đáp ứng tiêu chí xác định sản phẩm, thiết bị sử dụng nước tiết kiệm quy định tại Thông tư này, tùy theo tính chất, mức độ làm ảnh hưởng xấu đến tổ chức, cá nhân khác và người tiêu dùng, phải chịu trách nhiệm theo quy định của pháp luật.\nChương III\nTỔ CHỨC THỰC HIỆN\nĐiều 8. Trách nhiệm của Bộ Khoa học và Công nghệ\n1. Xây dựng, soát xét các tiêu chuẩn\nquốc gia về hiệu quả sử dụng nước cho sản phẩm, thiết bị.\n2. Xây dựng và duy trì cơ sở dữ liệu\nvề các sản phẩm, thiết bị sử dụng nước tiết kiệm.\n3. Chủ trì, phối hợp với các bộ, ngành\nliên quan tổ chức thanh tra, kiểm tra đối với hoạt động sản xuất, kinh doanh, nhập khẩu sản phẩm, thiết bị sử dụng nước tiết kiệm.\n4. Tổng cục Tiêu chuẩn Đo lường Chất\nlượng tổ chức hướng dẫn và triển khai thực hiện khoản 1, 2, 3 Điều này và thực hiện chỉ định Tổ chức thử nghiệm theo quy định tại Nghị định số 132/2008/NĐ-CP ngày 31 tháng 12 năm 2008 của Chính phủ quy định chi tiết thi hành một số điều của Luật chất lượng sản phẩm, hàng hóa; Nghị định số 74/2018/NĐ-CP ngày 15 tháng 5 năm 2018 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 132/2008/NĐ-CP ngày 31 tháng 12 năm 2008 của Chính phủ quy định chi tiết thi hành một số điều Luật chất lượng sản phẩm, hàng hóa; Nghị định số 154/2018/NĐ-CP ngày 09 tháng 11 năm 2018 của Chính phủ sửa đổi, bổ sung, bãi bỏ một số quy định về điều kiện đầu tư, kinh doanh trong lĩnh vực quản lý nhà nước của Bộ Khoa học và Công nghệ và một số quy định về kiểm tra chuyên ngành.\nĐiều 9. Trách nhiệm của tổ chức chứng nhận\n1. Thực hiện đánh giá, cấp chứng nhận\nsản phẩm, thiết bị sử dụng nước tiết kiệm cho tổ chức, cá nhân theo quy định tại Thông tư này và các quy định của pháp luật có liên quan.\n2. Chịu trách nhiệm về kết quả đánh\ngiá sản phẩm, thiết bị sử dụng nước tiết kiệm cho tổ chức, cá nhân theo quy định của pháp luật.\n3. Cập nhật thông tin về các sản phẩm,\nthiết bị sử dụng nước tiết kiệm đã được cấp giấy chứng nhận theo hướng dẫn của Bộ Khoa học và Công nghệ.\nĐiều 10. Trách nhiệm của tổ chức, cá nhân có sản phẩm, thiết bị sử dụng nước tiết kiệm được chứng nhận\n1. Duy trì các biện pháp bảo đảm sản\nphẩm, thiết bị ổn định cấp hiệu quả sử dụng nước đã được cấp giấy chứng nhận.\n2. Phối hợp với cơ quan quản lý nhà\nnước có thẩm quyền khi tiến hành thanh tra, kiểm tra hoạt động sản xuất, kinh doanh, nhập khẩu sản phẩm, thiết bị sử dụng nước tiết kiệm theo quy định của pháp luật.\n3. Tuân thủ quy định tại Điều 7 Thông\ntư này khi tự nguyện sử dụng nhãn tiết kiệm nước.\n4. Thông báo kịp thời các thay đổi của\nsản phẩm, thiết bị được chứng nhận tới tổ chức chứng nhận theo quy định của pháp luật.\nChương IV\nĐIỀU KHOẢN THI HÀNH\nĐiều 11. Hiệu lực thi hành Thông tư này có hiệu lực kể từ ngày 01 tháng 01 năm 2020.\nĐiều 12. Trách nhiệm thi hành\n1. Quá trình thực hiện các văn bản quy\nphạm pháp luật hoặc tiêu chuẩn quốc gia viện dẫn tại Thông tư này được sửa đổi, bổ sung hoặc thay thế thì thực hiện theo quy định của văn bản mới ban hành.\n2. Trong quá trình thực hiện, nếu có\nvướng mắc hoặc vấn đề phát sinh, đề nghị tổ chức và cá nhân phản ánh bằng văn bản về Bộ Khoa học và Công nghệ để được hướng dẫn hoặc nghiên cứu sửa đổi, bổ sung cho phù hợp.\n3. Bộ trưởng, Thủ trưởng cơ quan ngang\nbộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương có trách nhiệm tổ chức triển khai thực hiện Thông tư này./.\nNơi nhận:\n-\nThủ tướng, các Phó Thủ tướng Chính phủ;\n- Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ;\n- UBND tỉnh, thành phố trực thuộc Trung ương;\n- Văn phòng Tổng Bí thư;\n- Văn phòng Chủ tịch nước;\n- Văn phòng Quốc hội;\n- Tòa án nhân dân tối cao;\n- Viện Kiểm sát nhân dân tối cao;\n- Cục Kiểm tra văn bản QPPL (Bộ Tư pháp);\n- Công báo;\n- Lưu: VT, PC, TĐC.\nKT. BỘ\nTRƯỞNG\nTHỨ TRƯỞNG\nTrần Văn Tùng\nPHỤ\nLỤC I\nDANH\nMỤC SẢN PHẨM, THIẾT BỊ VỆ SINH VÀ THIẾT BỊ GIA DỤNG SỬ DỤNG NƯỚC TIẾT KIỆM\n(Ban hành kèm theo Thông tư số 12/2019/TT-BKHCN ngày 15 tháng 11 năm 2019\ncủa Bộ trưởng Bộ Khoa học và Công nghệ)\nSTT\nLoại sản phẩm, thiết bị Phương pháp xác định 1 Sen vòi\nTCVN\n12500:2018 2 Vòi rửa bát\nTCVN\n12500:2018 3 Vòi rửa mặt\nTCVN\n12500:2018 4 Bệ xí bệt\nTCVN\n12501:2018 5 Máy giặt gia dụng\nTCVN\n11920:2017\nPHỤ LỤC II\nMẪU NHÃN TIẾT KIỆM NƯỚC\n(Ban hành kèm theo Thông tư số 12/2019/TT-BKHCN ngày 15 tháng 11 năm 2019\ncủa Bộ trưởng Bộ Khoa học và Công nghệ) Hình ảnh nhãn tiết kiệm nước tương ứng với ba cấp hiệu quả sử dụng nước (thể hiện bằng số sao màu vàng trên nhãn). Cho phép sử dụng nhãn tiếng Việt hoặc tiếng Anh, tiếng Pháp và ngôn ngữ Liên hiệp quốc. Trong đó: + ABC: Tên tổ chức chứng nhận (ghi tên viết tắt tiếng Việt hoặc tiếng nước ngoài của tổ chức chứng nhận). + YYYY: Số giấy chứng nhận. Hình 1 - Mẫu nhãn Tiết kiệm nước tiếng Việt Hình 2 - Mẫu nhãn Tiết kiệm nước tiếng Anh",
+  "tree": {
+    "parts": [
+      {
+        "part_id": "doc:51533:part:1",
+        "part_type": "main",
+        "part_title": null,
+        "reference": null,
+        "direct_text": "THÔNG TƯ QUY\nĐỊNH TIÊU CHÍ XÁC ĐỊNH SẢN PHẨM, THIẾT BỊ SỬ DỤNG NƯỚC TIẾT KIỆM\nCăn cứ Luật Tài nguyên nước ngày 21 tháng 6 năm 2012; Căn cứ Luật Tiêu chuẩn và quy chuẩn kỹ thuật ngày 29 tháng 6 năm 2006; Căn cứ Luật Chất lượng sản phẩm, hàng hóa ngày 21 tháng 11 năm 2007; Căn cứ Nghị định số 54/2015/NĐ-CP ngày 08 tháng 6 năm 2015 của Chính phủ về quy định ưu đãi đối với hoạt động sử dụng nước tiết kiệm, hiệu quả; Căn cứ Nghị định số 132/2008/NĐ-CP ngày 31 tháng 12 năm 2008 của Chính phủ quy định chi tiết thi hành một số điều của Luật chất lượng sản phẩm, hàng hóa và Nghị định số 74/2018/NĐ-CP ngày 15 tháng 5 năm 2018 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 132/2008/NĐ-CP ngày 31 tháng 12 năm 2008 của Chính phủ quy định chi tiết thi hành một số điều Luật chất lượng sản phẩm, hàng hóa; Căn cứ Nghị định số 107/2016/NĐ-CP ngày 01 tháng 7 năm 2016 của Chính phủ quy định về điều kiện kinh doanh dịch vụ đánh giá sự phù hợp và Nghị định số 154/2018/NĐ-CP ngày 09 tháng 11 năm 2018 của Chính phủ sửa đổi, bổ sung, bãi bỏ một số quy định về điều kiện đầu tư, kinh doanh trong lĩnh vực quản lý nhà nước của Bộ Khoa học và Công nghệ và một số quy định về kiểm tra chuyên ngành; Căn cứ Nghị định số 95/2017/NĐ-CP ngày 16 tháng 8 năm 2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Khoa học và Công nghệ; Theo đề nghị của Tổng cục trưởng Tổng cục Tiêu chuẩn Đo lường Chất lượng và Vụ trưởng Vụ Pháp chế; Bộ trưởng Bộ Khoa học và Công nghệ ban hành Thông tư quy định tiêu chí xác định sản phẩm, thiết bị sử dụng nước tiết kiệm.\nPhụ lục II ban hành kèm theo Thông tư này.\n3. Nhãn tiết kiệm nước bảo đảm đầy đủ\ncác thông tin sau:\na) Số chứng nhận do tổ chức chứng nhận\ncấp kèm theo tên của tổ chức chứng nhận;\nb) Ký hiệu về cấp hiệu quả sử dụng\nnước của sản phẩm, thiết bị ứng với một sao là cấp 1, hai sao là cấp 2 và ba sao là cấp 3.\n4. Kích thước của nhãn tiết kiệm\nnước có thể phóng to hoặc thu nhỏ hoặc in chìm, in nổi, lồng ghép với nền của nhãn hàng hóa trên sản phẩm, thiết bị sử dụng nước tiết kiệm, bảo đảm không gây nhầm lẫn, che lấp hoặc làm ảnh hưởng tới khả năng quan sát các thông tin bắt buộc ghi trên nhãn hàng hóa theo quy định của pháp luật về ghi nhãn hàng hóa. Nhãn tiết kiệm nước có thể gắn trực tiếp trên sản phẩm, thiết bị hoặc trên bao bì, tài liệu hướng dẫn của sản phẩm, thiết bị sử dụng nước tiết kiệm.\n5. Sản phẩm, thiết bị sử dụng nước tiết\nkiệm nhập khẩu đã được gắn nhãn tiết kiệm nước của nước xuất khẩu mà nước xuất khẩu đó đã có thỏa thuận thừa nhận lẫn nhau với Việt Nam về kết quả hoạt động đánh giá sự phù hợp, có nội dung thừa nhận liên quan đến dán nhãn tiết kiệm nước thì sản phẩm, thiết bị nhập khẩu không cần thực hiện việc đánh giá sự phù hợp để xác định sản phẩm, thiết bị sử dụng nước tiết kiệm.\n6. Tổ chức, cá nhân sử dụng nhãn tiết\nkiệm nước trên sản phẩm, thiết bị sử dụng nước không đáp ứng tiêu chí xác định sản phẩm, thiết bị sử dụng nước tiết kiệm quy định tại Thông tư này, tùy theo tính chất, mức độ làm ảnh hưởng xấu đến tổ chức, cá nhân khác và người tiêu dùng, phải chịu trách nhiệm theo quy định của pháp luật.\n(Ban hành kèm theo Thông tư số 12/2019/TT-BKHCN ngày 15 tháng 11 năm 2019\ncủa Bộ trưởng Bộ Khoa học và Công nghệ)\nSTT\nLoại sản phẩm, thiết bị Phương pháp xác định 1 Sen vòi\nTCVN\n12500:2018 2 Vòi rửa bát\nTCVN\n12500:2018 3 Vòi rửa mặt\nTCVN\n12500:2018 4 Bệ xí bệt\nTCVN\n12501:2018 5 Máy giặt gia dụng\nTCVN\n11920:2017",
+        "chapters": [
+          {
+            "chapter_id": "doc:51533:part:1:chapter:1",
+            "number": "I",
+            "title": "QUY ĐỊNH CHUNG",
+            "content": "Chương I\nQUY ĐỊNH CHUNG",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:51533:part:1:article:1",
+                "number": "1",
+                "title": "Phạm vi điều chỉnh Thông tư này quy định tiêu chí và phương pháp xác định sản phẩm, thiết bị sử dụng nước tiết kiệm, bao gồm:",
+                "content": "Điều 1. Phạm vi điều chỉnh Thông tư này quy định tiêu chí và phương pháp xác định sản phẩm, thiết bị sử dụng nước tiết kiệm, bao gồm:",
+                "clauses": [
+                  {
+                    "clause_id": "doc:51533:part:1:article:1:clause:1",
+                    "number": "1",
+                    "content": "1. Tiêu chí xác định sản phẩm, thiết\nbị sử dụng nước tiết kiệm;",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:51533:part:1:article:1:clause:2",
+                    "number": "2",
+                    "content": "2. Phương pháp xác định tiêu chí sản\nphẩm, thiết bị sử dụng nước tiết kiệm;",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:51533:part:1:article:1:clause:3",
+                    "number": "3",
+                    "content": "3. Phương pháp xác định sản phẩm,\nthiết bị sử dụng nước tiết kiệm;",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:51533:part:1:article:1:clause:4",
+                    "number": "4",
+                    "content": "4. Sản phẩm, thiết bị sử dụng nước tiết\nkiệm có cấp hiệu quả sử dụng nước phù hợp với quy định tại các tiêu chuẩn quốc gia (TCVN) do Bộ Khoa học và Công nghệ công bố áp dụng;",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:51533:part:1:article:1:clause:5",
+                    "number": "5",
+                    "content": "5. Sử dụng “nhãn tiết kiệm nước”.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:51533:part:1:article:2",
+                "number": "2",
+                "title": "Đối tượng áp dụng",
+                "content": "Điều 2. Đối tượng áp dụng",
+                "clauses": [
+                  {
+                    "clause_id": "doc:51533:part:1:article:2:clause:1",
+                    "number": "1",
+                    "content": "1. Tổ chức, cá nhân sản xuất, kinh\ndoanh sản phẩm, thiết bị sử dụng nước tiết kiệm quy định tại Điều 1 Thông tư này; tổ chức đánh giá sự phù hợp thực hiện thử nghiệm, chứng nhận các sản phẩm, thiết bị sử dụng nước;",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:51533:part:1:article:2:clause:2",
+                    "number": "2",
+                    "content": "2. Cơ quan quản lý nhà nước và tổ\nchức, cá nhân khác có liên quan.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:51533:part:1:article:3",
+                "number": "3",
+                "title": "Giải thích từ ngữ Trong Thông tư này, các từ ngữ dưới đây được hiểu như sau:",
+                "content": "Điều 3. Giải thích từ ngữ Trong Thông tư này, các từ ngữ dưới đây được hiểu như sau:",
+                "clauses": [
+                  {
+                    "clause_id": "doc:51533:part:1:article:3:clause:1",
+                    "number": "1",
+                    "content": "1. Sản phẩm, thiết bị sử dụng nước\nlà sản phẩm, thiết bị có thiết kế và cấu tạo trong quá trình sử dụng bắt buộc phải tiêu thụ một lượng nước nhất định để thực hiện một hoặc nhiều chức năng;",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:51533:part:1:article:3:clause:2",
+                    "number": "2",
+                    "content": "2. Cấp hiệu quả sử dụng nước là\nmức độ tiết kiệm nước của sản phẩm, thiết bị sử dụng nước nhưng vẫn bảo đảm tính năng sử dụng của sản phẩm, thiết bị đó.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:51533:part:1:chapter:2",
+            "number": "II",
+            "title": "TIÊU CHÍ VÀ PHƯƠNG PHÁP XÁC ĐỊNH TIÊU CHÍ SẢN PHẨM, THIẾT BỊ SỬ DỤNG NƯỚC TIẾT KIỆM",
+            "content": "Chương II\nTIÊU\nCHÍ VÀ PHƯƠNG PHÁP XÁC ĐỊNH TIÊU CHÍ SẢN PHẨM, THIẾT BỊ SỬ DỤNG NƯỚC TIẾT KIỆM",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:51533:part:1:article:4",
+                "number": "4",
+                "title": "Tiêu chí xác định sản phẩm, thiết bị sử dụng nước tiết kiệm",
+                "content": "Điều 4. Tiêu chí xác định sản phẩm, thiết bị sử dụng nước tiết kiệm",
+                "clauses": [
+                  {
+                    "clause_id": "doc:51533:part:1:article:4:clause:1",
+                    "number": "1",
+                    "content": "1. Sản phẩm, thiết bị sử dụng nước tiết\nkiệm là sản phẩm, thiết bị sử dụng nước đáp ứng các tiêu chí sau:",
+                    "points": [
+                      {
+                        "point_id": "doc:51533:part:1:article:4:clause:1:point:1",
+                        "label": "a",
+                        "content": "a) Tính năng của sản phẩm, thiết bị\nbảo đảm mục đích sử dụng phù hợp với tiêu chuẩn công bố áp dụng cho sản phẩm, thiết bị;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:51533:part:1:article:4:clause:1:point:2",
+                        "label": "b",
+                        "content": "b) Cấp hiệu quả sử dụng nước phù hợp\nvới tiêu chuẩn quốc gia tương ứng do Bộ Khoa học và Công nghệ công bố cho sản phẩm, thiết bị sử dụng nước tiết kiệm.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:51533:part:1:article:4:clause:2",
+                    "number": "2",
+                    "content": "2. Hiệu quả sử dụng nước của sản phẩm,\nthiết bị sử dụng nước tiết kiệm được chia thành ba cấp để phản ánh mức độ tiết kiệm nước. Hiệu quả sử dụng nước tăng dần theo thứ tự từ cấp 1 đến cấp 3, trong đó cấp 1 là cấp có hiệu quả sử dụng nước thấp nhất tương ứng với khả năng tiết kiệm nước ít nhất, cấp 3 là cấp có hiệu quả sử dụng nước cao nhất tương ứng với khả năng tiết kiệm nước nhiều nhất. Hiệu quả sử dụng nước của sản phẩm, thiết bị được xác định trong tiêu chuẩn quốc gia tương ứng.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:51533:part:1:article:5",
+                "number": "5",
+                "title": "Phương pháp xác định tiêu chí sản phẩm, thiết bị sử dụng nước tiết kiệm Phương pháp xác định tiêu chí sản phẩm, thiết bị sử dụng nước tiết kiệm thực hiện theo quy định tại các tiêu chuẩn quốc gia tương ứng đối với từng sản phẩm, thiết bị. Trong đó, sản phẩm, thiết bị vệ sinh và thiết bị gia dụng sử dụng nước tiết kiệm được lập thành Danh mục sản phẩm, thiết bị vệ sinh và thiết bị gia dụng sử dụng nước tiết kiệm quy định tại Phụ lục I ban hành kèm theo Thông tư này.",
+                "content": "Điều 5. Phương pháp xác định tiêu chí sản phẩm, thiết bị sử dụng nước tiết kiệm Phương pháp xác định tiêu chí sản phẩm, thiết bị sử dụng nước tiết kiệm thực hiện theo quy định tại các tiêu chuẩn quốc gia tương ứng đối với từng sản phẩm, thiết bị. Trong đó, sản phẩm, thiết bị vệ sinh và thiết bị gia dụng sử dụng nước tiết kiệm được lập thành Danh mục sản phẩm, thiết bị vệ sinh và thiết bị gia dụng sử dụng nước tiết kiệm quy định tại Phụ lục I ban hành kèm theo Thông tư này.",
+                "clauses": [],
+                "points": []
+              },
+              {
+                "article_id": "doc:51533:part:1:article:6",
+                "number": "6",
+                "title": "Xác định sản phẩm, thiết bị sử dụng nước tiết kiệm",
+                "content": "Điều 6. Xác định sản phẩm, thiết bị sử dụng nước tiết kiệm",
+                "clauses": [
+                  {
+                    "clause_id": "doc:51533:part:1:article:6:clause:1",
+                    "number": "1",
+                    "content": "1. Sản phẩm, thiết bị sử dụng nước tiết\nkiệm đáp ứng các tiêu chí quy định tại Điều 4 Thông tư này được xác định bằng phương pháp đánh giá sự phù hợp với tiêu chuẩn quốc gia tương ứng.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:51533:part:1:article:6:clause:2",
+                    "number": "2",
+                    "content": "2. Đánh giá sự phù hợp đối với sản phẩm,\nthiết bị sử dụng nước tiết kiệm thực hiện theo Phương thức 1 quy định tại Thông tư số 28/2012/TT-BKHCN ngày 12 tháng 12 năm 2012 của Bộ trưởng Bộ Khoa học và Công nghệ quy định về công bố hợp chuẩn, công bố hợp quy và phương thức đánh giá sự phù hợp với tiêu chuẩn, quy chuẩn kỹ thuật và Thông tư số 02/2017/TT-BKHCN ngày 31 tháng 3 năm 2017 sửa đổi, bổ sung một số điều của Thông tư số 28/2012/TT-BKHCN ngày 12 tháng 12 năm 2012 của Bộ trưởng Bộ Khoa học và Công nghệ quy định về công bố hợp chuẩn, công bố hợp quy và phương thức đánh giá sự phù hợp với tiêu chuẩn, quy chuẩn kỹ thuật trên cơ sở tự nguyện của tổ chức, cá nhân yêu cầu xác định.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:51533:part:1:article:6:clause:3",
+                    "number": "3",
+                    "content": "3. Tổ chức đánh giá sự phù hợp đối với\nsản phẩm, thiết bị sử dụng nước tiết kiệm đăng ký hoạt động theo quy định tại Nghị định số 107/2016/NĐ-CP ngày 01 tháng 7 năm 2016 của Chính phủ quy định về điều kiện kinh doanh dịch vụ đánh giá sự phù hợp và Nghị định số 154/2018/NĐ-CP ngày 09 tháng 11 năm 2018 của Chính phủ sửa đổi, bổ sung, bãi bỏ một số quy định về điều kiện đầu tư, kinh doanh trong lĩnh vực quản lý nhà nước của Bộ Khoa học và Công nghệ và một số quy định về kiểm tra chuyên ngành.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:51533:part:1:article:7",
+                "number": "7",
+                "title": "Nhãn tiết kiệm nước",
+                "content": "Điều 7. Nhãn tiết kiệm nước",
+                "clauses": [
+                  {
+                    "clause_id": "doc:51533:part:1:article:7:clause:1",
+                    "number": "1",
+                    "content": "1. Khuyến khích tổ chức, cá nhân sản\nxuất, kinh doanh và nhập khẩu sử dụng “nhãn tiết kiệm nước” đối với sản phẩm, thiết bị sử dụng nước tiết kiệm.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:51533:part:1:article:7:clause:2",
+                    "number": "2",
+                    "content": "2. Tổ chức, cá nhân tự nguyện sử dụng\n“nhãn tiết kiệm nước” thực hiện theo quy định về Mẫu nhãn tiết kiệm nước tại",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:51533:part:1:chapter:3",
+            "number": "III",
+            "title": "TỔ CHỨC THỰC HIỆN",
+            "content": "Chương III\nTỔ CHỨC THỰC HIỆN",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:51533:part:1:article:8",
+                "number": "8",
+                "title": "Trách nhiệm của Bộ Khoa học và Công nghệ",
+                "content": "Điều 8. Trách nhiệm của Bộ Khoa học và Công nghệ",
+                "clauses": [
+                  {
+                    "clause_id": "doc:51533:part:1:article:8:clause:1",
+                    "number": "1",
+                    "content": "1. Xây dựng, soát xét các tiêu chuẩn\nquốc gia về hiệu quả sử dụng nước cho sản phẩm, thiết bị.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:51533:part:1:article:8:clause:2",
+                    "number": "2",
+                    "content": "2. Xây dựng và duy trì cơ sở dữ liệu\nvề các sản phẩm, thiết bị sử dụng nước tiết kiệm.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:51533:part:1:article:8:clause:3",
+                    "number": "3",
+                    "content": "3. Chủ trì, phối hợp với các bộ, ngành\nliên quan tổ chức thanh tra, kiểm tra đối với hoạt động sản xuất, kinh doanh, nhập khẩu sản phẩm, thiết bị sử dụng nước tiết kiệm.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:51533:part:1:article:8:clause:4",
+                    "number": "4",
+                    "content": "4. Tổng cục Tiêu chuẩn Đo lường Chất\nlượng tổ chức hướng dẫn và triển khai thực hiện khoản 1, 2, 3 Điều này và thực hiện chỉ định Tổ chức thử nghiệm theo quy định tại Nghị định số 132/2008/NĐ-CP ngày 31 tháng 12 năm 2008 của Chính phủ quy định chi tiết thi hành một số điều của Luật chất lượng sản phẩm, hàng hóa; Nghị định số 74/2018/NĐ-CP ngày 15 tháng 5 năm 2018 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 132/2008/NĐ-CP ngày 31 tháng 12 năm 2008 của Chính phủ quy định chi tiết thi hành một số điều Luật chất lượng sản phẩm, hàng hóa; Nghị định số 154/2018/NĐ-CP ngày 09 tháng 11 năm 2018 của Chính phủ sửa đổi, bổ sung, bãi bỏ một số quy định về điều kiện đầu tư, kinh doanh trong lĩnh vực quản lý nhà nước của Bộ Khoa học và Công nghệ và một số quy định về kiểm tra chuyên ngành.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:51533:part:1:article:9",
+                "number": "9",
+                "title": "Trách nhiệm của tổ chức chứng nhận",
+                "content": "Điều 9. Trách nhiệm của tổ chức chứng nhận",
+                "clauses": [
+                  {
+                    "clause_id": "doc:51533:part:1:article:9:clause:1",
+                    "number": "1",
+                    "content": "1. Thực hiện đánh giá, cấp chứng nhận\nsản phẩm, thiết bị sử dụng nước tiết kiệm cho tổ chức, cá nhân theo quy định tại Thông tư này và các quy định của pháp luật có liên quan.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:51533:part:1:article:9:clause:2",
+                    "number": "2",
+                    "content": "2. Chịu trách nhiệm về kết quả đánh\ngiá sản phẩm, thiết bị sử dụng nước tiết kiệm cho tổ chức, cá nhân theo quy định của pháp luật.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:51533:part:1:article:9:clause:3",
+                    "number": "3",
+                    "content": "3. Cập nhật thông tin về các sản phẩm,\nthiết bị sử dụng nước tiết kiệm đã được cấp giấy chứng nhận theo hướng dẫn của Bộ Khoa học và Công nghệ.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:51533:part:1:article:10",
+                "number": "10",
+                "title": "Trách nhiệm của tổ chức, cá nhân có sản phẩm, thiết bị sử dụng nước tiết kiệm được chứng nhận",
+                "content": "Điều 10. Trách nhiệm của tổ chức, cá nhân có sản phẩm, thiết bị sử dụng nước tiết kiệm được chứng nhận",
+                "clauses": [
+                  {
+                    "clause_id": "doc:51533:part:1:article:10:clause:1",
+                    "number": "1",
+                    "content": "1. Duy trì các biện pháp bảo đảm sản\nphẩm, thiết bị ổn định cấp hiệu quả sử dụng nước đã được cấp giấy chứng nhận.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:51533:part:1:article:10:clause:2",
+                    "number": "2",
+                    "content": "2. Phối hợp với cơ quan quản lý nhà\nnước có thẩm quyền khi tiến hành thanh tra, kiểm tra hoạt động sản xuất, kinh doanh, nhập khẩu sản phẩm, thiết bị sử dụng nước tiết kiệm theo quy định của pháp luật.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:51533:part:1:article:10:clause:3",
+                    "number": "3",
+                    "content": "3. Tuân thủ quy định tại Điều 7 Thông\ntư này khi tự nguyện sử dụng nhãn tiết kiệm nước.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:51533:part:1:article:10:clause:4",
+                    "number": "4",
+                    "content": "4. Thông báo kịp thời các thay đổi của\nsản phẩm, thiết bị được chứng nhận tới tổ chức chứng nhận theo quy định của pháp luật.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:51533:part:1:chapter:4",
+            "number": "IV",
+            "title": "ĐIỀU KHOẢN THI HÀNH",
+            "content": "Chương IV\nĐIỀU KHOẢN THI HÀNH",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:51533:part:1:article:11",
+                "number": "11",
+                "title": "Hiệu lực thi hành Thông tư này có hiệu lực kể từ ngày 01 tháng 01 năm 2020.",
+                "content": "Điều 11. Hiệu lực thi hành Thông tư này có hiệu lực kể từ ngày 01 tháng 01 năm 2020.",
+                "clauses": [],
+                "points": []
+              },
+              {
+                "article_id": "doc:51533:part:1:article:12",
+                "number": "12",
+                "title": "Trách nhiệm thi hành",
+                "content": "Điều 12. Trách nhiệm thi hành",
+                "clauses": [
+                  {
+                    "clause_id": "doc:51533:part:1:article:12:clause:1",
+                    "number": "1",
+                    "content": "1. Quá trình thực hiện các văn bản quy\nphạm pháp luật hoặc tiêu chuẩn quốc gia viện dẫn tại Thông tư này được sửa đổi, bổ sung hoặc thay thế thì thực hiện theo quy định của văn bản mới ban hành.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:51533:part:1:article:12:clause:2",
+                    "number": "2",
+                    "content": "2. Trong quá trình thực hiện, nếu có\nvướng mắc hoặc vấn đề phát sinh, đề nghị tổ chức và cá nhân phản ánh bằng văn bản về Bộ Khoa học và Công nghệ để được hướng dẫn hoặc nghiên cứu sửa đổi, bổ sung cho phù hợp.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:51533:part:1:article:12:clause:3",
+                    "number": "3",
+                    "content": "3. Bộ trưởng, Thủ trưởng cơ quan ngang\nbộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương có trách nhiệm tổ chức triển khai thực hiện Thông tư này./.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          }
+        ],
+        "sections": [],
+        "articles": [],
+        "unstructured_blocks": []
+      },
+      {
+        "part_id": "doc:51533:part:2",
+        "part_type": "appendix",
+        "part_title": "PHỤ LỤC II",
+        "reference": null,
+        "direct_text": null,
+        "chapters": [],
+        "sections": [],
+        "articles": [],
+        "unstructured_blocks": [
+          {
+            "block_id": "doc:51533:part:2:block:1",
+            "content": "PHỤ LỤC II\nMẪU NHÃN TIẾT KIỆM NƯỚC\n(Ban hành kèm theo Thông tư số 12/2019/TT-BKHCN ngày 15 tháng 11 năm 2019\ncủa Bộ trưởng Bộ Khoa học và Công nghệ) Hình ảnh nhãn tiết kiệm nước tương ứng với ba cấp hiệu quả sử dụng nước (thể hiện bằng số sao màu vàng trên nhãn). Cho phép sử dụng nhãn tiếng Việt hoặc tiếng Anh, tiếng Pháp và ngôn ngữ Liên hiệp quốc. Trong đó: + ABC: Tên tổ chức chứng nhận (ghi tên viết tắt tiếng Việt hoặc tiếng nước ngoài của tổ chức chứng nhận). + YYYY: Số giấy chứng nhận. Hình 1 - Mẫu nhãn Tiết kiệm nước tiếng Việt Hình 2 - Mẫu nhãn Tiết kiệm nước tiếng Anh",
+            "indexable": true
+          }
+        ]
+      }
+    ]
+  },
+  "issues": [],
+  "status": "ok",
+  "source_hash": "context_51533.json",
+  "stats": {
+    "source_chars": 12329,
+    "passage_chars": 12162,
+    "parts": 2,
+    "chapters": 4,
+    "sections": 0,
+    "articles": 12,
+    "clauses": 30,
+    "points": 2
+  }
+}

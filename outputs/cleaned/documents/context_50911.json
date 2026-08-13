@@ -1,0 +1,800 @@
+{
+  "schema_version": "2.0",
+  "document_id": 50911,
+  "metadata": {
+    "name": "Thong-tu-20-2017-TT-BTTTT-quy-dinh-dieu-phoi-ung-cuu-su-co-an-toan-thong-tin-mang-toan-quoc-349633",
+    "link": "https://thuvienphapluat.vn/van-ban/Cong-nghe-thong-tin/Thong-tu-20-2017-TT-BTTTT-quy-dinh-dieu-phoi-ung-cuu-su-co-an-toan-thong-tin-mang-toan-quoc-349633.aspx",
+    "issuing_agency": "BỘ THÔNG TIN VÀ TRUYỀN THÔNG",
+    "national_header": "CỘNG HÒA XÃ\r\n\n  HỘI CHỦ NGHĨA VIỆT NAM",
+    "motto": "Độc lập - Tự do - Hạnh phúc",
+    "document_number": "20/2017/TT-BTTTT",
+    "issued_place": "Hà Nội",
+    "issued_date": "ngày 12 tháng 9 năm 2017",
+    "document_type": null,
+    "title": null
+  },
+  "administrative_header": {
+    "removed": true,
+    "removed_char_count": 169
+  },
+  "preamble": {
+    "text": "THÔNG TƯ QUY\nĐỊNH VỀ ĐIỀU PHỐI, ỨNG CỨU SỰ CỐ AN TOÀN THÔNG TIN MẠNG TRÊN TOÀN QUỐC\nCăn cứ Luật An toàn thông tin mạng ngày 19 tháng 11 năm 2015; Căn cứ Nghị định số 85/2016/NĐ-CP ngày 01 tháng 7 năm 2016 của Chính phủ về bảo đảm an toàn hệ thống thông tin theo cấp độ; Căn cứ Nghị định số 17/2017/NĐ-CP ngày 17 tháng 02 năm 2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Thông tin và Truyền thông; Căn cứ Quyết định số 05/2017/QĐ-TTg ngày 16 tháng 3 năm 2017 của Thủ tướng Chính phủ quy định về hệ thống phương án ứng cứu khẩn cấp bảo đảm an toàn thông tin mạng quốc gia; Theo đề nghị của Giám đốc Trung tâm ứng cứu khẩn cấp máy tính Việt Nam; Bộ trưởng Bộ Thông tin và Truyền thông ban hành Thông tư quy định về điều phối, ứng cứu sự cố an toàn thông tin mạng trên toàn quốc.\nChương I\nQUY ĐỊNH CHUNG",
+    "legal_bases": [
+      "Căn cứ Nghị định số 85/2016/NĐ-CP ngày 01 tháng 7 năm 2016 của Chính phủ về bảo đảm an toàn hệ thống thông tin theo cấp độ",
+      "Căn cứ Nghị định số 17/2017/NĐ-CP ngày 17 tháng 02 năm 2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Thông tin và Truyền thông",
+      "Căn cứ Quyết định số 05/2017/QĐ-TTg ngày 16 tháng 3 năm 2017 của Thủ tướng Chính phủ quy định về hệ thống phương án ứng cứu khẩn cấp bảo đảm an toàn thông tin mạng quốc gia"
+    ],
+    "proposals": [
+      "Theo đề nghị của Giám đốc Trung tâm ứng cứu khẩn cấp máy tính Việt Nam"
+    ],
+    "enactment_formula": null
+  },
+  "passage": "THÔNG TƯ QUY\nĐỊNH VỀ ĐIỀU PHỐI, ỨNG CỨU SỰ CỐ AN TOÀN THÔNG TIN MẠNG TRÊN TOÀN QUỐC\nCăn cứ Luật An toàn thông tin mạng ngày 19 tháng 11 năm 2015; Căn cứ Nghị định số 85/2016/NĐ-CP ngày 01 tháng 7 năm 2016 của Chính phủ về bảo đảm an toàn hệ thống thông tin theo cấp độ; Căn cứ Nghị định số 17/2017/NĐ-CP ngày 17 tháng 02 năm 2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Thông tin và Truyền thông; Căn cứ Quyết định số 05/2017/QĐ-TTg ngày 16 tháng 3 năm 2017 của Thủ tướng Chính phủ quy định về hệ thống phương án ứng cứu khẩn cấp bảo đảm an toàn thông tin mạng quốc gia; Theo đề nghị của Giám đốc Trung tâm ứng cứu khẩn cấp máy tính Việt Nam; Bộ trưởng Bộ Thông tin và Truyền thông ban hành Thông tư quy định về điều phối, ứng cứu sự cố an toàn thông tin mạng trên toàn quốc.\nChương I\nQUY ĐỊNH CHUNG\nĐiều 1. Phạm vi và đối tượng áp dụng\n1. Thông tư này quy định về các hoạt động\nđiều phối, ứng cứu sự cố an toàn thông tin mạng trên toàn quốc (không bao gồm hoạt động điều phối ứng cứu sự cố an toàn thông tin mạng nghiêm trọng quy định tại Quyết định số 05/2017/QĐ-TTg ngày 16 tháng 3 năm 2017 của Thủ tướng Chính phủ quy định về hệ thống phương án ứng cứu khẩn cấp bảo đảm an toàn thông tin mạng quốc gia (sau đây gọi tắt là Quyết định số 05/2017/QĐ-TTg)); Các sự cố của hệ thống thông tin do Bộ Quốc phòng, Bộ Công an quản lý không thuộc phạm vi điều chỉnh của Thông tư này.\n2. Đối tượng áp dụng là các cơ quan, tổ\nchức, cá nhân có liên quan tới hoạt động điều phối, ứng cứu sự cố an toàn thông tin mạng.\nĐiều 2. Giải thích từ ngữ\n1. Sự cố an toàn thông tin mạng là\nviệc thông tin, hệ thống thông tin bị tấn công hoặc gây nguy hại, ảnh hưởng tới tính nguyên vẹn, tính bảo mật hoặc tính khả dụng (sau đây gọi tắt là sự cố).\n2. Ứng cứu sự cố an toàn thông tin\nmạng là hoạt động nhằm xử lý, khắc phục sự cố gây mất an toàn thông tin mạng gồm: theo dõi, thu thập, phân tích, phát hiện, cảnh báo, điều tra, xác minh sự cố, ngăn chặn sự cố, khôi phục dữ liệu và khôi phục hoạt động bình thường của hệ thống thông tin.\n3. Đầu mối ứng cứu sự cố là bộ\nphận hoặc cá nhân được thành viên mạng lưới ứng cứu sự cố an toàn thông tin mạng quốc gia cử để thay mặt cho thành viên liên lạc và trao đổi thông tin với Cơ quan điều phối quốc gia về ứng cứu sự cố hoặc các thành viên khác trong hoạt động điều phối, ứng cứu sự cố.\nĐiều 3. Phân cấp tổ chức thực hiện ứng cứu sự cố bảo đảm an toàn thông tin mạng trên toàn quốc Phân cấp tổ chức thực hiện ứng cứu sự cố bảo đảm an toàn thông tin mạng trên toàn quốc là các cơ quan, tổ chức, đơn vị thực hiện ứng cứu sự cố bảo đảm an toàn thông tin mạng quốc gia được quy định tại Quyết định số 05/2017/QĐ-TTg. Các cơ quan, tổ chức tham gia hoạt động điều phối, ứng cứu sự cố trên toàn quốc gồm:\n1. Bộ Thông tin và Truyền thông - Cơ\nquan thường trực về ứng cứu khẩn cấp bảo đảm an toàn thông tin mạng quốc gia (gọi tắt là Cơ quan thường trực quốc gia) và Ban điều phối ứng cứu khẩn cấp bảo đảm an toàn thông tin mạng quốc gia (gọi tắt là Ban điều phối ứng cứu quốc gia); Trung tâm Ứng cứu khẩn cấp máy tính Việt Nam VNCERT - Cơ quan điều phối quốc gia về ứng cứu sự cố (gọi tắt là Cơ quan điều phối quốc gia).\n2. Ban Chỉ đạo ứng cứu khẩn cấp sự cố\nan toàn thông tin mạng của các Bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ và Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương (gọi tắt là Ban Chỉ đạo ứng cứu sự cố cấp bộ, tỉnh).\n3. Đơn vị chuyên trách về ứng cứu sự cố\nan toàn thông tin mạng (sau đây gọi tắt là Đơn vị chuyên trách về ứng cứu sự cố); Đội ứng cứu sự cố hoặc bộ phận ứng cứu sự cố tại Bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ và Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương (sau đây gọi tắt là Đội/bộ phận ứng cứu sự cố).\n4. Mạng lưới ứng cứu sự cố an toàn\nthông tin mạng quốc gia (gọi tắt là Mạng lưới ứng cứu sự cố); và Ban Điều hành mạng lưới.\n5. Chủ quản hệ thống thông tin; đơn vị\nvận hành hệ thống thông tin; các cơ quan, tổ chức, đơn vị chuyên môn được Cơ quan thường trực, Cơ quan điều phối quốc gia hoặc Ban Chỉ đạo ứng cứu sự cố cấp bộ, tỉnh chỉ định hoặc triệu tập tham gia ứng cứu sự cố.\nĐiều 4. Nguyên tắc điều phối, ứng cứu sự cố\n1. Tuân thủ các quy định pháp luật về điều\nphối, ứng cứu sự cố an toàn thông tin mạng.\n2. Chủ động, kịp thời, nhanh chóng,\nchính xác, đồng bộ và hiệu quả.\n3. Phối hợp chặt chẽ, chính xác, đồng\nbộ và hiệu quả giữa các cơ quan tổ chức, doanh nghiệp trong nước và nước ngoài.\n4. Ứng cứu sự cố trước hết phải được\nthực hiện, xử lý bằng lực lượng tại chỗ và trách nhiệm chính của chủ quản hệ thống thông tin.\n5. Tuân thủ các điều kiện, nguyên tắc ưu tiên về\nduy trì hoạt động của hệ thống thông tin đã được cấp thẩm quyền phê duyệt trong kế hoạch ứng phó sự cố.\n6. Thông tin trao đổi trong mạng lưới\nphải được kiểm tra, xác thực đối tượng trước khi thực hiện các bước tác nghiệp tiếp theo.\n7. Bảo đảm bí mật thông tin biết được\nkhi tham gia, thực hiện các hoạt động ứng cứu sự cố theo yêu cầu của Cơ quan điều phối quốc gia hoặc cơ quan tổ chức, cá nhân gặp sự cố.\nChương II\nMẠNG LƯỚI ỨNG CỨU SỰ CỐ\nĐiều 5. Mạng lưới ứng cứu sự cố\n1. Mạng lưới ứng cứu sự cố hoạt động\ntrên toàn quốc, gồm thành viên là các đơn vị chuyên trách về ứng cứu sự cố và các cơ quan, tổ chức, doanh nghiệp liên quan được quy định chi tiết tại Điều 7 Quyết định số 05/2017/QĐ-TTg.\n2. Mạng lưới ứng cứu sự cố hoạt động\ntheo Quy chế hoạt động của Mạng lưới và hướng dẫn liên quan của Cơ quan điều phối quốc gia (Trung tâm ứng cứu khẩn cấp máy tính Việt Nam). Ban điều hành mạng lưới do Bộ Thông tin và Truyền thông thành lập theo quy định tại Điều 7 Quyết định số 05/2017/QĐ-TTg\n3. Các thành viên mạng lưới khai báo hồ\nsơ theo Biểu mẫu số 01 ban hành kèm theo Thông tư này, định kỳ cập nhật hàng năm, gửi Cơ quan điều phối quốc gia. Các tổ chức, doanh nghiệp, cá nhân tự nguyện đăng ký tham gia mạng lưới phải có đơn đăng ký tham gia theo Biểu mẫu số 02, gửi Cơ quan điều phối quốc gia.\nĐiều 6. Trách nhiệm, quyền hạn của các thành viên mạng lưới\n1. Thành viên mạng lưới có các trách\nnhiệm và quyền hạn sau:\na) Thực hiện các trách nhiệm và quyền\nhạn quy định tại Quyết định số 05/2017/QĐ-TTg ;\nb) Cử Đầu mối ứng cứu sự cố có đủ năng lực, trình độ chuyên môn\nvà kỹ năng nghiệp vụ để thực hiện các hoạt động phối hợp ứng cứu sự cố; bảo đảm duy trì liên lạc thông suốt, liên tục 24/7; công bố thông tin về địa chỉ tiếp nhận sự cố trên Trang/Cổng thông tin điện tử; cung cấp, cập nhật thông tin về Đầu mối ứng cứu sự cố, nhân lực kỹ thuật an toàn thông tin, ứng cứu sự cố thuộc phạm vi quản lý tới Cơ quan điều phối quốc gia; cập nhật thông tin về Đầu mối ứng cứu sự cố, trong vòng 24 giờ khi có thay đổi;\nc) Tổng hợp, xây dựng\nbáo cáo định kỳ 06 tháng (trước ngày 20 tháng 6) 01 năm (trước ngày 15 tháng 12) theo Biểu mẫu số 05 gửi Cơ quan điều phối quốc gia; báo cáo đột xuất khi có yêu cầu của Cơ quan điều phối quốc gia;\nd) Báo cáo với Cơ quan điều phối quốc\ngia khi tiếp nhận thông tin, phát hiện các sự cố đối với hệ thống thông tin trong phạm vi quản lý;\nđ) Xây dựng và triển khai kế hoạch ứng\nphó sự cố, hướng dẫn hoạt động ứng cứu sự cố, tổ chức và điều hành hoạt động của Đội ứng cứu sự cố trong phạm vi quản lý;\ne) Có quyền đề nghị thành viên mạng lưới\nhướng dẫn, hỗ trợ xử lý và ứng cứu sự cố khi cần thiết; được tham gia các hội thảo, hội nghị giao ban, tập huấn bồi dưỡng, đào tạo, huấn luyện, diễn tập và các hoạt động khác trong mạng lưới;\ng) Có quyền được chia sẻ thông tin,\nkinh nghiệm, cảnh báo về sự cố và tình hình an toàn thông tin mạng trong và ngoài nước;\nh) Các thành viên mạng lưới là cơ\nquan, đơn vị chức năng thuộc Bộ Công an và Bộ Quốc phòng không phải thực hiện Điểm c và Điểm d Khoản này.\n2. Trách nhiệm và quyền hạn của Cơ\nquan điều phối quốc gia:\na) Thực hiện các trách nhiệm và quyền\nhạn quy định tại Quyết định số 05/2017/QĐ-TTg ;\nb) Công khai trên Trang thông tin điện\ntử của mình số điện thoại, số fax địa chỉ thư điện tử (email), đường dây nóng và bảo đảm nguồn lực để duy trì trực đường dây nóng liên tục, kịp thời tiếp nhận và xử lý sự cố; tổng hợp thông tin liên lạc (địa chỉ, số điện thoại, số fax, địa chỉ thư điện tử) và thông tin về đầu mối ứng cứu sự cố, nhân lực kỹ thuật an toàn thông tin, ứng cứu sự cố của các thành viên mạng lưới và Đội ứng cứu sự cố của các thành viên mạng lưới;\nc) Xây dựng, triển khai và vận hành cổng\nthông tin mạng lưới, hệ thống kỹ thuật hỗ trợ cho hoạt động liên lạc, trao đổi thông tin trong mạng lưới và các hệ thống kỹ thuật phục vụ các hoạt động điều phối, ứng cứu, xử lý, khắc phục sự cố;\nd) Hướng dẫn hoạt động thông báo và hỏi\nđáp về sự cố an toàn thông tin mạng trên toàn quốc; điều hành mạng lưới; nghiên cứu, đề xuất các biện pháp nhằm tăng cường nguồn lực cho mạng lưới hoạt động có hiệu quả;\nđ) Tập hợp, tiếp nhận, xử lý, chuẩn bị\nthông tin, cảnh báo tới người có thẩm quyền và các cơ quan, tổ chức, đơn vị liên quan về các nguy cơ sự cố an toàn thông tin mạng và các biện pháp phòng ngừa, ngăn chặn, xử lý;\ne) Tổ chức hội thảo, hội nghị giao\nban, phổ biến, trao đổi thông tin, tập huấn, bồi dưỡng, đào tạo, huấn luyện, diễn tập về an toàn thông tin mạng ứng cứu sự cố; tổ chức các hoạt động chung của mạng lưới.\nĐiều 7. Các hoạt động chính của mạng lưới ứng cứu sự cố Ban điều hành mạng lưới tổ chức triển khai các nhiệm vụ của mạng lưới ứng cứu sự cố, gồm các hoạt động chính sau:\n1. Nghiên cứu, thu thập, tiếp nhận,\nphân tích, xác minh, đánh giá, cảnh báo về sự cố, rủi ro an toàn thông tin mạng và phần mềm độc hại.\n2. Phối hợp thực hiện ứng cứu, xử lý,\nngăn chặn và khắc phục sự cố; kiểm tra, đốc thúc việc xây dựng, triển khai kế hoạch ứng phó sự cố an toàn thông tin mạng và việc thực hiện các trách nhiệm, nghĩa vụ của thành viên mạng lưới;\n3. Xây dựng, nâng cao năng lực cho các\nthành viên mạng lưới và các Đội ứng cứu sự cố, gồm:\na) Huấn luyện, diễn tập, đào tạo, tập\nhuấn nâng cao trình độ, kỹ năng và nghiệp vụ; tổ chức các chuyến công tác trong và ngoài nước để khảo sát, học hỏi kinh nghiệm, trao đổi, hợp tác;\nb) Giao ban định kỳ, tổ chức hội thảo,\nhội nghị, tọa đàm trao đổi và chia sẻ thông tin, kinh nghiệm về điều phối, ứng cứu sự cố, bảo đảm an toàn thông tin mạng;\nc) Hỗ trợ xây dựng và áp dụng các quy\ntrình quản lý, vận hành hệ thống thông tin theo các tiêu chuẩn quốc gia, quy chuẩn kỹ thuật quốc gia và tiêu chuẩn quốc tế về an toàn thông tin, ứng cứu sự cố;\nd) Tổ chức các nghiên cứu chuyên môn,\nxây dựng các báo cáo, tài liệu hướng dẫn, thống kê về an toàn thông tin mạng và các vấn đề liên quan để chia sẻ, phổ biến trong mạng lưới.\n4. Tham gia các hoạt động thông tin,\ntuyên truyền nâng cao nhận thức về phòng ngừa, ứng cứu sự cố, bảo đảm an toàn thông tin mạng.\n5. Tổ chức, duy trì hoạt động của Ban điều\nhành mạng lưới; và triển khai các hoạt động khác liên quan đến điều phối, ứng cứu sự cố, bảo đảm an toàn thông tin mạng.\nChương III\nHOẠT\nĐỘNG ĐIỀU PHỐI, ỨNG CỨU SỰ CỐ\nĐiều 8. Hoạt động điều phối ứng cứu sự cố\n1. Điều phối ứng cứu sự cố là hoạt động\ncủa Cơ quan điều phối quốc gia và cơ quan có thẩm quyền nhằm huy động, điều hành, phối hợp thống nhất các nguồn lực gồm: nhân lực, vật lực (trang thiết bị), tài lực (tài chính, ngân sách) để phòng ngừa, theo dõi, thu thập, phát hiện, cảnh báo sự cố; tiếp nhận, phân tích xác minh, phân loại sự cố; điều hành, phối hợp, tổ chức ứng cứu sự cố, sẵn sàng ứng phó, khắc phục sự cố nhằm giảm thiểu các rủi ro, thiệt hại do sự cố gây ra.\n2. Cơ quan điều phối quốc gia thực hiện\nchức năng cảnh báo, điều phối ứng cứu sự cố trên toàn quốc; có quyền huy động, điều phối các thành viên mạng lưới ứng cứu sự cố và các tổ chức, đơn vị liên quan phối hợp ngăn chặn, xử lý, khắc phục sự cố trên toàn quốc; ban hành và chịu trách nhiệm về các lệnh/yêu cầu điều phối theo Biểu mẫu số 06 ban hành kèm theo Thông tư này;\n3. Các tác nghiệp của hoạt động điều\nphối ứng cứu sự cố:\na) Theo dõi, phân tích, phát hiện, cảnh\nbáo các nguy cơ, đe dọa, lỗ hổng, sự cố, tấn công mạng và các giải pháp phòng ngừa sự cố;\nb) Xây dựng, đề xuất phương án, kế hoạch\nứng phó với sự cố;\nc) Tổ chức huấn luyện, diễn tập ứng cứu\nsự cố, bảo đảm an toàn thông tin mạng;\nd) Điều hành, huy động các nguồn lực để\nứng cứu sự cố theo thẩm quyền; cung cấp các hỗ trợ kỹ thuật và thực hiện các biện pháp để đối phó, phòng chống tấn công mạng;\nđ) Điều tra, phân tích, xác định nguồn\ngốc, cách thức, phương pháp tấn công để đối phó, ngăn chặn, đồng thời cảnh báo và hướng dẫn để ngăn ngừa sự cố lây lan diện rộng; thu thập, xây dựng báo cáo tổng hợp sự cố;\ne) Chia sẻ, trao đổi, cung cấp thông\ntin giữa các cơ quan, tổ chức có trách nhiệm liên quan về ứng cứu sự cố, hoạt động điều phối ứng cứu sự cố và quá trình xử lý sự cố;\ng) Các hoạt động khác liên quan đến ứng\ncứu sự cố theo quyết định Bộ Thông tin và Truyền thông.\n4. Hình thức trao đổi thông tin về điều\nphối ứng cứu sự cố được thực hiện bằng một hoặc nhiều hình thức như: Công văn, thư điện tử, điện thoại, fax, nhắn tin đa phương tiện hoặc hệ thống kỹ thuật truyền thông tiên tiến; và đảm bảo tuân thủ theo các quy định pháp luật liên quan khi trao đổi thông tin mật.\nĐiều 9. Thông báo, báo cáo sự cố an toàn thông tin mạng\n1. Các hình thức thông báo,\nbáo cáo sự cố\na) Hình thức thông báo sự cố: Bằng\ncông văn, fax, thư điện tử, nhắn tin đa phương tiện hoặc thông qua hệ thống kỹ thuật báo cáo sự cố an toàn thông tin mạng theo hướng dẫn của Cơ quan điều phối quốc gia;\nb) Hình thức báo cáo sự cố: Bằng văn bản\ngiấy hoặc văn bản điện tử (có ký tên và đóng dấu hoặc chữ ký số của người có thẩm quyền).\n2. Báo cáo sự cố an toàn thông tin mạng\na) Đơn vị, cá nhân vận hành hệ thống thông tin\ncó trách nhiệm chậm nhất 05 ngày kể từ khi phát hiện sự cố phải thông báo các thông tin của sự cố theo nội dung tại Điểm a Khoản 3 Điều này (Thông báo sự cố) tới đồng thời các cơ quan, đơn vị sau: Chủ quản hệ thống thông tin, Cơ quan điều phối quốc gia, Đơn vị chuyên trách về ứng cứu sự cố và thành viên mạng lưới ứng cứu sự cố có trách nhiệm liên quan (nếu có). Tại thời điểm báo cáo, nếu chưa hoàn thành việc xử lý sự cố, đơn vị, cá nhân vận hành hệ thống phải cập nhật lại thông tin của sự cố cho các cơ quan, đơn vị đã nhận thông tin trước đó ngay khi kết thúc việc xử lý sự cố;\nb) Trường hợp đơn vị, cá nhân vận hành\nhệ thống thông tin xác định sự cố có thể vượt khả năng xử lý của mình phải xây dựng ngay Báo cáo ban đầu sự cố, báo cáo Chủ quản hệ thống thông tin, Đơn vị chuyên trách về ứng cứu sự cố chịu trách nhiệm ứng cứu (nếu có) và Cơ quan điều phối quốc gia; sau khi kết thúc ứng cứu sự cố, chậm nhất trong vòng 05 ngày phải hoàn thiện Báo cáo kết thúc ứng phó sự cố để báo cáo Chủ quản hệ thống thông tin và Cơ quan điều phối quốc gia. Cơ quan điều phối quốc gia chỉ ghi nhận sự cố đã hoàn thành ứng cứu sự cố sau khi đã nhận được Báo cáo kết thúc ứng phó sự cố;\nc) Các tổ chức, cá nhân không phải là\nđơn vị, cá nhân vận hành hệ thống thông tin khi phát hiện dấu hiệu tấn công hoặc sự cố an toàn thông tin mạng cần nhanh chóng thông báo thông tin của sự cố (Thông báo sự cố) tới đồng thời hoặc một trong các cơ quan, đơn vị sau: Đơn vị, cá nhân vận hành hệ thống thông tin Chủ quản hệ thống thông tin, Cơ quan điều phối quốc gia, Đơn vị chuyên trách về ứng cứu sự cố hoặc thành viên mạng lưới ứng cứu sự cố có trách nhiệm liên quan.\n3. Các loại thông báo, báo cáo sự cố:\na) Thông báo sự cố, nội dung gồm: Tên,\nđịa chỉ đơn vị, cá nhân thông báo sự cố; tên hoặc tên miền, địa chỉ IP của hệ thống thông tin bị sự cố; tên địa chỉ của đơn vị, cá nhân vận hành và cơ quan chủ quản hệ thống thông tin bị sự cố (nếu biết); mô tả sự cố và thời điểm phát hiện sự cố; kết quả xử lý sự cố đề xuất, kiến nghị và các thông tin liên quan khác (nếu có);\nb) Báo cáo ban đầu sự cố, nội dung\ntheo Biểu mẫu số 03 Phụ lục I ban hành kèm theo Thông tư này;\nc) Báo cáo diễn biến tình hình;\nd) Báo cáo phương án ứng cứu cụ thể;\nđ) Báo cáo đề nghị hỗ trợ, phối hợp;\ne) Báo cáo kết thúc ứng phó sự cố, nội\ndung theo Biểu mẫu số 04 Phụ lục I ban hành kèm theo Thông tư này.\n4. Trong quá trình ứng cứu sự cố, đơn\nvị, cá nhân vận hành hệ thống phải chủ trì, phối hợp với các cơ quan, đơn vị liên quan xây dựng và duy trì thực hiện các báo cáo ứng cứu sự cố theo quy định và yêu cầu của cơ quan có thẩm quyền.\nĐiều 10. Phát hiện, tiếp nhận, xác minh, xử lý ban đầu và phân loại sự cố an toàn thông tin mạng\n1. Đơn vị, cá nhân vận hành hệ thống thông\ntin, có trách nhiệm:\na) Khi phát hiện sự cố: Tổ chức theo\ndõi, ghi chép và tập hợp các thông tin liên quan đến sự cố và tổ chức thông báo hoặc báo cáo sự cố theo quy định tại Điều 9 của Thông tư này;\nb) Khi tiếp nhận thông báo sự cố: Phản\nhồi ngay cho tổ chức, cá nhân gửi thông báo sự cố để xác nhận thông tin;\nc) Xác minh sự cố và xử lý ban đầu: Chủ\ntrì, phối hợp với đơn vị chịu trách nhiệm bảo đảm an toàn thông tin (nếu có), đơn vị chuyên trách về ứng cứu sự cố liên quan và các doanh nghiệp viễn thông, Internet (ISP) để tiến hành phân tích, xác minh, đánh giá sự cố; thực hiện ngay các hoạt động ứng cứu sự cố ban đầu, triển khai quy trình ứng cứu sự cố theo kế hoạch ứng phó sự cố an toàn thông tin mạng đã được cấp thẩm quyền phê duyệt hoặc quy trình tại Điều 11 của Thông tư này; trường hợp xác định sự cố có khả năng là sự cố nghiêm trọng, cần báo cáo ngay với chủ quản hệ thống thông tin, đơn vị chuyên trách về ứng cứu sự cố liên quan để đề xuất nâng cấp sự cố nghiêm trọng, đồng thời gửi Cơ quan điều phối quốc gia.\n2. Đơn vị chuyên trách về ứng cứu sự cố\nhoặc thành viên mạng lưới ứng cứu sự cố, có trách nhiệm:\na) Khi phát hiện sự cố: Thông báo sự cố\nngay đến đơn vị, cá nhân vận hành hệ thống thông tin, chủ quản hệ thống thông tin và Cơ quan điều phối quốc gia;\nb) Khi tiếp nhận thông báo hoặc báo\ncáo sự cố: Ghi nhận, tiếp nhận đúng quy định và phản hồi cho tổ chức, cá nhân gửi thông báo hoặc báo cáo sự cố ngay sau khi nhận được để xác nhận thông tin;\nc) Tổ chức xác minh và xử lý sự cố: Phối\nhợp với đơn vị, cá nhân vận hành hệ thống thông tin để thẩm tra, xác minh và xử lý sự cố trong khả năng và trách nhiệm của mình; trường hợp xác định sự cố có khả năng vượt qua khả năng xử lý của mình hoặc có khả năng là sự cố nghiêm trọng, cần báo cáo ngay chủ quản hệ thống thông tin và Cơ quan điều phối quốc gia;\nd) Giám sát diễn biến tình hình ứng cứu\nsự cố và báo cáo hoặc đề xuất, xin ý kiến chỉ đạo của chủ quản hệ thống thông tin và Ban Chỉ đạo ứng cứu sự cố cấp bộ, tỉnh trong trường hợp vượt thẩm quyền, phạm vi trách nhiệm của mình hoặc vượt khả năng xử lý của mình;\nđ) Tổng hợp, báo cáo Cơ quan điều phối\nquốc gia về diễn biến sự cố khi được yêu cầu.\n3. Cơ quan điều phối quốc gia có trách\nnhiệm:\na) Ghi nhận, tiếp nhận thông báo, báo\ncáo sự cố an toàn thông tin mạng theo đúng quy trình;\nb) Phản hồi cho tổ chức, cá nhân gửi\nthông báo, báo cáo sự cố ngay sau khi nhận được để xác nhận thông tin;\nc) Thẩm tra, xác minh và phân loại sự\ncố để thực hiện các cảnh báo, điều phối lựa chọn phương án, tổ chức ứng cứu và báo cáo, đề xuất với Cơ quan thường trực xem xét, quyết định sự cố nghiêm trọng và phương án ứng cứu khẩn cấp phù hợp. Trường hợp phân loại là sự cố nghiêm trọng, Cơ quan điều phối quốc gia chủ trì, phối hợp với các cơ quan liên quan triển khai các bước theo quy trình ứng cứu sự cố nghiêm trọng quy định tại Quyết định số 05/2017/QĐ-TTg;\nd) Tổ chức hoạt động phối hợp với các\ntổ chức ứng cứu sự cố mạng quốc tế để tiếp nhận các cảnh báo sớm, thông tin về sự cố, nguy cơ về mất an toàn thông tin mạng và phối hợp ứng cứu sự cố, tấn công xuyên biên giới;\nđ) Thực hiện các trách nhiệm khác của Cơ\nquan điều phối quốc gia báo cáo đề xuất với Cơ quan thường trực các vấn đề vượt thẩm quyền.\nĐiều 11. Quy trình ứng cứu sự cố an toàn thông tin mạng Quy trình ứng cứu sự cố an toàn thông tin mạng theo sơ đồ tại Phụ lục II cụ thể gồm:\n1. Tiếp nhận, phân tích, ứng cứu ban đầu\nvà thông báo sự cố\na) Tiếp nhận, xác minh sự cố\nĐơn vị chủ trì: Đơn vị, cá nhân vận hành hệ thống thông tin. Đơn vị phối hợp: Đơn vị chuyên trách về ứng cứu sự cố, Cơ quan điều phối quốc gia. Nội dung thực hiện: Theo dõi, tiếp nhận, phân tích các cảnh báo, dấu hiệu sự cố từ các nguồn bên trong và bên ngoài. Khi phân tích, xác minh sự cố đã xảy ra, cần tổ chức ghi nhận, thu thập chứng cứ, xác định nguồn gốc sự cố.\nb) Triển khai các bước ưu tiên ứng cứu\nban đầu Đơn vị chủ trì: Đơn vị, cá nhân vận hành hệ thống thông tin. Đơn vị phối hợp: Đơn vị chuyên trách về ứng cứu sự cố, thành viên mạng lưới có liên quan và Cơ quan điều phối quốc gia. Nội dung: Sau khi đã xác định sự cố xảy ra, đơn vị, cá nhân vận hành hệ thống thông tin căn cứ vào bản chất, dấu hiệu của sự cố tổ chức triển khai các bước ưu tiên ban đầu để xử lý sự cố theo kế hoạch ứng phó sự cố đã được cấp thẩm quyền phê duyệt hoặc theo hướng dẫn của Đơn vị chuyên trách về ứng cứu sự cố liên quan hoặc Cơ quan điều phối quốc gia.\nc) Triển khai lựa chọn phương án ứng cứu\nĐơn vị chủ trì: Đơn vị, cá nhân vận hành hệ thống thông tin. Đơn vị phối hợp: Đơn vị chuyên trách về ứng cứu sự cố, thành viên mạng lưới có liên quan, Cơ quan điều phối quốc gia. Nội dung thực hiện: Căn cứ theo kế hoạch ứng phó sự cố đã được cấp thẩm quyền phê duyệt hoặc theo hướng dẫn của Đơn vị chuyên trách về ứng cứu sự cố hoặc Cơ quan điều phối quốc gia để lựa chọn phương án ngăn chặn và xử lý sự cố; báo cáo, đề xuất Chủ quản hệ thống thông tin, Ban Chỉ đạo ứng cứu sự cố cấp bộ, tỉnh xin ý kiến chỉ đạo nếu cần.\nd) Chỉ đạo xử lý sự cố (nếu cần)\nĐơn vị chủ trì: Ban Chỉ đạo ứng cứu sự cố cấp bộ, tỉnh. Đơn vị phối hợp: Chủ quản hệ thống thông tin. Nội dung thực hiện: Căn cứ theo báo cáo, đề xuất của Đơn vị, cá nhân vận hành hệ thống thông tin, Ban Chỉ đạo ứng cứu sự cố cấp bộ, tỉnh phối hợp với chủ quản hệ thống thông tin và tham khảo ý kiến Cơ quan điều phối quốc gia (nếu cần) thực hiện chỉ đạo Đơn vị chuyên trách về ứng cứu sự cố, triệu tập Đội/bộ phận ứng cứu sự cố thuộc phạm vi quản lý triển khai công tác ứng cứu, xử lý sự cố; chỉ đạo, phân công hoạt động phát ngôn, cung cấp thông tin. Trong quá trình ứng cứu, tùy thuộc vào diễn biến tình hình thực tế, Ban Chỉ đạo ứng cứu sự cố cấp bộ, tỉnh có thể quyết định bổ sung thành phần tham gia Đội/bộ phận ứng cứu sự cố, chỉ đạo điều chỉnh phương án ứng cứu sự cố.\nđ) Báo cáo sự cố\nĐơn vị chủ trì: Đơn vị, cá nhân vận hành hệ thống thông tin. Đơn vị phối hợp: Đơn vị chuyên trách về ứng cứu sự cố liên quan/chịu trách nhiệm, các doanh nghiệp viễn thông, Internet (ISP). Nội dung thực hiện: Sau khi đã triển khai các bước ưu tiên ứng cứu ban đầu, Đơn vị vận hành hệ thống thông tin tổ chức thông báo, báo cáo sự cố đến các tổ chức, cá nhân liên quan bên trong và bên ngoài cơ quan tổ chức theo quy định tại Điều 9 Thông tư này và quy định nội bộ (nếu có).\ne) Điều phối công tác ứng cứu\nĐơn vị chủ trì: Ban Chỉ đạo ứng cứu sự cố cấp bộ, tỉnh; Cơ quan điều phối quốc gia. Đơn vị phối hợp: Đơn vị, cá nhân vận hành hệ thống thông tin, Đơn vị chuyên trách về ứng cứu sự cố, thành viên mạng lưới có liên quan. Nội dung thực hiện: Căn cứ vào tính chất sự cố, đề nghị hỗ trợ của Đơn vị, cá nhân vận hành hệ thống thông tin và Đơn vị chuyên trách về ứng cứu sự cố, Ban Chỉ đạo ứng cứu sự cố cấp bộ, tỉnh và Cơ quan điều phối quốc gia thực hiện công tác điều phối, giám sát cơ chế phối hợp, chia sẻ thông tin theo phạm vi, chức năng, nhiệm vụ của mình để huy động nguồn lực ứng cứu sự cố.\n2. Triển khai ứng cứu, ngăn chặn và xử\nlý sự cố Đơn vị chủ trì: Đơn vị, cá nhân vận hành hệ thống thông tin; Đội/bộ phận ứng cứu sự cố. Đơn vị phối hợp: Đơn vị chịu trách nhiệm bảo đảm an toàn thông tin cho hệ thống bị sự cố, Đơn vị chuyên trách về ứng cứu sự cố, thành viên mạng lưới có liên quan, Cơ quan điều phối quốc gia. Nội dung thực hiện:\na) Triển khai thu thập chứng cứ, phân\ntích, xác định phạm vi, đối tượng bị ảnh hưởng.\nb) Triển khai phân tích, xác định nguồn\ngốc tấn công, tổ chức ứng cứu và ngăn chặn, giảm thiểu tác động, thiệt hại đến hệ thống thông tin.\n3. Xử lý sự cố, gỡ bỏ và khôi phục\na) Xử lý sự cố, gỡ bỏ\nĐơn vị chủ trì: Đơn vị, cá nhân vận hành hệ thống thông tin; Đội/bộ phận ứng cứu sự cố. Đơn vị phối hợp: Đơn vị chịu trách nhiệm bảo đảm an toàn thông tin cho hệ thống bị sự cố; Đơn vị chuyên trách về ứng cứu sự cố, thành viên mạng lưới có liên quan, Cơ quan điều phối quốc gia. Nội dung thực hiện: Sau khi đã triển khai ngăn chặn sự cố, đơn vị, cá nhân vận hành hệ thống thông tin, Đơn vị chuyên trách về ứng cứu sự cố, Đội/bộ phận ứng cứu sự cố triển khai tiêu diệt, gỡ bỏ các mã độc, phần mềm độc hại khắc phục các điểm yếu an toàn thông tin của hệ thống thông tin.\nb) Khôi phục\nĐơn vị chủ trì: Đơn vị, cá nhân vận hành hệ thống thông tin;. Đơn vị phối hợp: Đội/bộ phận ứng cứu sự cố, Đơn vị chịu trách nhiệm bảo đảm an toàn thông tin cho hệ thống bị sự cố, Đơn vị chuyên trách về ứng cứu sự cố, thành viên mạng lưới có liên quan, Cơ quan điều phối quốc gia. Nội dung thực hiện: Đơn vị, cá nhân vận hành hệ thống chủ trì phối hợp với các đơn vị liên quan triển khai các hoạt động khôi phục hệ thống thông tin dữ liệu và kết nối; cấu hình hệ thống an toàn; bổ sung các thiết bị, phần cứng phần mềm bảo đảm an toàn thông tin cho hệ thống thông tin.\nc) Kiểm tra, đánh giá hệ thống thông\ntin Đơn vị chủ trì: Đơn vị, cá nhân vận hành hệ thống thông tin. Đơn vị phối hợp: Đơn vị chịu trách nhiệm bảo đảm an toàn thông tin cho hệ thống bị sự cố, Đơn vị chuyên trách về ứng cứu sự cố, chủ quản hệ thống thông tin, Cơ quan điều phối quốc gia. Nội dung thực hiện: Đơn vị, cá nhân vận hành hệ thống và các đơn vị liên quan triển khai kiểm tra, đánh giá hoạt động của toàn bộ hệ thống thông tin sau khi khắc phục sự cố. Trường hợp hệ thống chưa hoạt động ổn định, cần tiếp tục tổ chức thu thập, xác minh lại nguyên nhân và tổ chức các bước tương ứng tại Khoản 2 và Khoản 3 của Điều này để xử lý dứt điểm, khôi phục hoạt động bình thường của hệ thống thông tin.\n4. Tổng kết, đánh giá\nĐơn vị chủ trì: Đơn vị, cá nhân vận hành hệ thống thông tin. Đơn vị phối hợp: Đơn vị chuyên trách về ứng cứu sự cố; Đội/bộ phận ứng cứu sự cố; Chủ quản hệ thống thông tin; Ban Chỉ đạo ứng cứu sự cố cấp bộ, tỉnh; Cơ quan điều phối quốc gia. Nội dung thực hiện: Đơn vị, cá nhân vận hành hệ thống bị sự cố phối hợp với Đơn vị chuyên trách về ứng cứu sự cố và Đội/bộ phận ứng cứu sự cố triển khai tổng hợp toàn bộ các thông tin, báo cáo, phân tích có liên quan đến sự cố, công tác triển khai phương án ứng cứu sự cố, báo cáo Chủ quản hệ thống thông tin, Ban Chỉ đạo ứng cứu sự cố cấp bộ, tỉnh và Cơ quan điều phối quốc gia; tổ chức phân tích nguyên nhân, rút kinh nghiệm trong hoạt động xử lý sự cố và đề xuất các biện pháp bổ sung nhằm phòng ngừa, ứng cứu đối với các sự cố tương tự trong tương lai.\nChương IV\nBIỆN\nPHÁP BẢO ĐẢM THỰC HIỆN ỨNG CỨU SỰ CỐ AN TOÀN THÔNG TIN MẠNG\nĐiều\n12. Xây dựng và triển khai kế hoạch ứng phó sự cố bảo đảm an toàn thông tin mạng\n1. Các cơ quan, tổ chức và doanh nghiệp\nxây dựng và triển khai kế hoạch ứng phó sự cố bảo đảm an toàn thông tin mạng của cơ quan, tổ chức và doanh nghiệp mình, trong đó:\na) Đối với các hệ thống thông tin đã\nđược phê duyệt cấp độ 04, cấp độ 05 hoặc thuộc Danh mục hệ thống thông tin quan trọng quốc gia, theo Đề cương Kế hoạch ứng phó sự cố an toàn thông tin mạng quy định tại Điều 16 của Quyết định số 05/2017/QĐ-TTg.\nb) Đối với các hệ thống thông tin\nkhông thuộc Điểm a Khoản 1 Điều này, theo Phụ lục III ban hành kèm theo Thông tư này.\n2. Các chủ quản hệ thống thông tin và\ncơ quan, đơn vị có thẩm quyền phê duyệt Kế hoạch ứng phó sự cố cần xác định các điều kiện, nguyên tắc ưu tiên để duy trì hoạt động của hệ thống thông tin khi triển khai ứng cứu sự cố và coi nội dung này là một yêu cầu bắt buộc trong Kế hoạch ứng phó sự cố.\n3. Cơ quan điều phối quốc gia hướng dẫn\nviệc xây dựng, triển khai kế hoạch ứng phó sự cố, dự phòng ứng cứu, xử lý sự cố an toàn thông tin mạng; tổ chức hoạt động huấn luyện, diễn tập theo vùng, miền và quốc gia, quốc tế; xây dựng kế hoạch và tổ chức định kỳ kiểm tra, đánh giá về việc triển khai phương án ứng phó sự cố an toàn thông tin mạng của các bộ, ngành, địa phương và của các tổ chức, doanh nghiệp.\nĐiều 13. Kinh phí Kinh phí triển khai các hoạt động điều phối, ứng cứu sự cố an toàn thông tin mạng trên toàn quốc thực hiện theo quy định tại Điều 17 Quyết định số 05/2017/QĐ-TTg và các văn bản hướng dẫn liên quan.\nChương V\nTỔ CHỨC THỰC HIỆN\nĐiều 14. Hiệu lực thi hành\n1. Thông tư này có hiệu lực thi hành kể\ntừ ngày 01 tháng 11 năm 2017 và bãi bỏ Thông tư số 27/2011/TT-BTTTT ngày 04 tháng 10 năm 2011 của Bộ Thông tin và Truyền thông quy định về điều phối các hoạt động ứng cứu sự cố mạng Internet Việt Nam.\n2. Trong quá trình thực hiện, nếu có\nvướng mắc, phát sinh, tổ chức, cá nhân có liên quan kịp thời phản ánh về Bộ Thông tin và Truyền thông (qua Trung tâm ứng cứu khẩn cấp máy tính Việt Nam) để xem xét, bổ sung và sửa đổi./.\nNơi nhận:\n-\nThủ tướng Chính phủ; các Phó Thủ tướng Chính phủ;\n- Văn phòng Chính phủ;\n- Văn phòng Trung ương và các Ban của Đảng;\n- Văn phòng Tổng Bí thư;\n- Văn phòng Quốc hội;\n- Văn phòng Chủ tịch nước;\n- Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ;\n- Tòa án nhân dân\ntối cao;\n- Viện Kiểm sát nhân dân tối cao;\n- Kiểm toán Nhà nước;\n- UBND các tỉnh, thành phố trực thuộc TW;\n- Cơ quan Trung ương của các đoàn thể;\n- Ủy ban quốc gia về ứng dụng CNTT;\n-\nBan\nChỉ đạo an toàn thông tin quốc gia;\n- Các Đơn vị chuyên trách về CNTT, ATTT của Bộ, cơ quan ngang Bộ, cơ quan\nthuộc Chính phủ;\n- Sở Thông tin và Truyền thông các tỉnh, thành phố trực thuộc TW;\n- Công báo, Cổng Thông tin điện tử Chính phủ;\n- Cục Kiểm tra VBQPPL (Bộ Tư pháp);\n- Bộ TTTT: Bộ trưởng và các Thứ trưởng, các cơ quan, đơn vị thuộc Bộ, Cổng\nThông tin điện tử Bộ;\n- Lưu: VT, VNCERT (200).\nBỘ TRƯỞNG\nTrương Minh Tuấn\nPHỤ\nLỤC I\nDANH\nMỤC MẪU BIỂU QUY ĐỊNH HOẠT ĐỘNG ĐIỀU PHỐI, ỨNG CỨU SỰ CỐ AN TOÀN THÔNG TIN MẠNG\nTRÊN TOÀN QUỐC\n(Ban\nhành kèm theo Thông tư số 20/2017/TT-BTTTT ngày 12/9/2017 của Bộ\ntrưởng Bộ Thông tin và Truyền thông)\nTT\nMẫu số\nTên Mẫu biểu\n1\nMẫu số 01\nBản khai hồ sơ\nthành viên mạng lưới ứng cứu sự cố\n2\nMẫu số 02\nĐơn xin đăng ký\ntham gia mạng lưới ứng cứu sự cố\n(Áp dụng cho\ntổ chức, doanh nghiệp và cá nhân tự nguyện tham gia mạng lưới ứng cứu sự cố mạng)\n3\nMẫu số 03\nBáo cáo ban đầu sự\ncố an toàn thông tin mạng\n4\nMẫu số 04\nBáo cáo kết thúc ứng\nphó sự cố\n5\nMẫu số 05\nBáo cáo tổng hợp\ntình hình tiếp nhận và xử lý sự cố an toàn thông tin mạng\n6\nMẫu số 06\nLệnh/yêu cầu điều\nphối\nMẫu\nsố 01\nBan\nhành kèm theo Thông tư số 20/2017/TT-BTTT ngày 12/9/2017 của Bộ trưởng Bộ\nThông tin và Truyền thông\nTÊN TỔ CHỨC\n………………………\n-------\nCỘNG HÒA XÃ\nHỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\n---------------\nBẢN\nKHAI HỒ SƠ THÀNH VIÊN MẠNG LƯỚI ỨNG CỨU SỰ CỐ\n1. Thông tin chung về tổ chức\n▪ Tên tổ chức: .....................................................................................................................\n▪ Tên cơ quan chủ quản: ......................................................................................................\n▪ Địa chỉ: .............................................................................................................................\n▪ Điện thoại: ……………………………………………………\n▪ Fax: ............................................\n▪ Email:\n……………………………………………………….... ▪ Website: .....................................\n▪ Lãnh đạo phụ trách an\ntoàn thông tin: …………………………………. Chức\nvụ: ......................\n2. Thông tin tiếp nhận thông báo sự cố\n▪ Địa chỉ:..............................................................................................................................\n▪ Số điện thoại cố định: …………………………………….▪ Số điện thoại di động:\n....................\n▪ Số Fax: ……………………………………………………..▪ Email: .............................................\n3. Đầu mối ứng cứu sự cố\n3.1 Đầu mối ứng cứu sự cố chính\n▪ Họ và tên:\n………………………………………………… ▪\nChức vụ: .........................................\n▪ Địa chỉ liên hệ: ..................................................................................................................\n▪ Số điện thoại cố định: …………………………………… ▪ Số di động: ....................................\n▪ Số Fax: …………………………………………………… ▪ Email: ..............................................\n4. Giới thiệu về hoạt động của tổ chức\n(Cung cấp cho Cơ quan điều phối quốc gia các\nthông tin về năng lực ứng cứu sự cố của tổ chức như nhân sự, công nghệ, kinh\nnghiệm, đối tượng phục vụ…)\n...........................................................................................................................................\n5. Tên các hệ thống thông tin thuộc phạm vi phụ\ntrách hoặc cung cấp dịch vụ:\n▪ Cấp 1:\n1.\n2.\n….\n▪ Cấp 2:\n1.\n2.\n….\n▪ Cấp 3:\n1.\n2.\n….\n▪ Cấp 4:\n1.\n2.\n….\n▪ Cấp 5:\n1.\n2.\n….\n6. Thông tin về Danh sách nhân lực, chuyên\ngia an toàn thông tin, công nghệ thông tin và tương đương\n(Cung cấp thông tin về nhân lực an toàn thông\ntin, công nghệ thông tin thuộc đơn vị hoặc các đơn vị liên quan trong phạm vi\nmình phụ trách theo mẫu Tổng hợp kèm theo Biểu mẫu 01 này)\nChúng tôi cam kết thông tin khai báo trong hồ\nsơ là chính xác và tuân thủ trách nhiệm, quyền hạn của thành viên mạng cưới,\ncác quy định về hoạt động điều phối ứng cứu sự cố theo quy định pháp luật và hướng\ndẫn của Cơ quan điều phối quốc gia ban hành.\n…., ngày …… tháng\n….. năm …….\nNGƯỜI ĐẠI DIỆN THEO PHÁP LUẬT\n(Ký tên, đóng dấu hoặc sử dụng chữ ký số)\n[mẫu] TỔNG HỢP\nDANH SÁCH NHÂN LỰC, CHUYÊN GIA VỀ CÔNG NGHỆ THÔNG TIN (CNTT), AN TOÀN THÔNG TIN\n(ATTT) HOẶC TƯƠNG ĐƯƠNG\n(Kèm\ntheo Mẫu số 01)\n1. Số lượng nhân lực\nliên quan đến CNTT, ATTT hoặc tương đương\nTT\nPhân loại\nSố lượng (người)\n1.1\nSố lượng cán bộ\nphân theo lĩnh vực đào tạo\na)\nChuyên ngành về CNTT\nb)\nChuyên ngành về ATTT\nc)\nChuyên ngành tương đương\n1.2\nSố lượng cán bộ\nphân theo trình độ đào\ntạo\na)\nTrên đại học\nb)\nĐại học\nc)\nCao đẳng\nd)\nTrung cấp\n1.3\nSố lượng cán\nbộ có chứng chỉ về CNTT, ATTT hoặc tương đương\na)\nSố cán bộ có chứng chỉ quốc tế\nb)\nSố cán bộ có chứng chỉ trong nước\n2. Số lượng nhân lực có kinh nghiệm,\nđược đào tạo về ATTT\nTT\nphân loại\nSố lượng\n(người)\n2.1\nNhóm chuyên gia quản\nlý ATTT\na)\nQuản lý ATTT cấp cao\nb)\nHệ thống quản lý ATTT\nc)\nQuản trị hệ thống thông tin (hệ điều\nhành, ứng dụng)\nd)\nQuản trị an toàn mạng và hạ tầng mạng\nđ)\nXây dựng chính sách đảm bảo ATTT\n2.2\nNhóm chuyên gia kỹ thuật\nphòng thủ, chống tấn công\na)\nKỹ thuật tấn công và chống tấn công mạng,\nchống khủng bố,\nchống chiến tranh mạng\nb)\nPhân tích mã độc, phòng chống mã độc và phần mềm\ngián điệp\nc)\nỨng cứu xử lý sự cố ATTT\nd)\nKiểm tra, giám sát và phân tích hệ thống, dò quét\nlỗ hổng bảo mật\nđ)\nPhân tích sự cố ATTT\ne)\nĐiều tra, thu thập thông tin sự cố và chứng\ncứ điện tử\ng)\nGiám sát, lọc nội dung thông tin\ntrên mạng\nh)\nTheo dõi, kiểm soát luồng thông tin\ntrên mạng\n2.3\nNhóm chuyên gia kỹ\nthuật bảo vệ an toàn hệ\nthống và ứng dụng\na)\nMã hóa, thám mã, che dấu và bảo mật nội dung\nthông tin\nb)\nChữ ký số, nhận dạng,\nxác thực\nc)\nTích hợp hệ thống ATTT\nd)\nTư vấn, thiết kế, xây dựng hệ\nthống mạng an toàn\nđ)\nLập trình đảm bảo an toàn (ứng\ndụng Web, cổng\nthông tin điện tử)\ne)\nĐảm bảo an toàn hệ thống viễn thông, mạng di động, mạng không dây\ng)\nĐảm bảo an toàn giao dịch\nđiện tử, thanh toán trực tuyến,\nthương mại điện tử\nh)\nĐảm bảo an toàn cơ sở dữ\nliệu\n2.4\nNhóm chuyên gia kỹ thuật\nkiểm tra, đánh giá ATTT\na)\nTư vấn hợp chuẩn ATTT\nb)\nPhân tích, quản lý rủi ro, duy trì\nhoạt động hệ thống thông\ntin\nc)\nĐánh giá an toàn hệ thống và sản phẩm công nghệ thông tin\nd)\nKiểm tra, đánh giá an\ntoàn ứng dụng Web và cổng thông\ntin điện tử\n3. Danh sách nhân lực về ATTT, CNTT hoặc tương đương\nTT\nHọ và tên\nTên trường,\ncơ sở đào tạo\nChuyên\nngành đào tạo, bồi dưỡng\nVăn bằng, chứng\nchỉ, trình độ về ATTT, CNTT hoặc tương đương\nTháng/năm tốt\nnghiệp\n1\n2\n…\nGhi chú: Văn bằng: TSKH, TS,\nThs, Cử nhân, Kỹ sư\n…………..\nMẫu\nsố 02\nBan\nhành kèm theo Thông tư số 20/2017/TT-BTTT ngày 12/9/2017 của Bộ Thông tin và\nTruyền thông\nCỘNG HÒA XÃ HỘI\nCHỦ NGHĨA VỆT NAM\nĐộc\nlập - Tự do - Hạnh phúc\n---------------------\nĐƠN XIN ĐĂNG KÝ THAM GIA MẠNG LƯỚI ỨNG CỨU SỰ CỐ\n(Áp dụng cho tổ\nchức, doanh nghiệp và cá nhân tự nguyện tham gia mạng lưới ứng cứu sự cố\nmạng)\nI. Thông tin chung về tổ chức\n1. Tên tổ chức: ....................................................................................................................\n2. Địa chỉ: ...........................................................................................................................\n3. Điện thoại: .......................................................................................................................\n4. Fax: ................................................................................................................................\n5. Email: .............................................................................................................................\nII. Giới thiệu về hoạt động của tổ chức\n1. Giới thiệu chung về hoạt động của tổ\nchức\n(Cung cấp cho Cơ quan điều phối quốc gia\ncác thông tin ngắn gọn giới thiệu về các lĩnh vực hoạt động của tổ chức, về\nnăng lực ứng cứu sự cố của tổ chức như nhân sự, công\nnghệ, kinh nghiệm,\nđối tượng phục vụ,...)\n...........................................................................................................................................\n...........................................................................................................................................\n2. Tên các hệ thống thông tin thuộc phụ\ntrách quản lý hoặc hỗ trợ ứng cứu (cấp\nđộ phê duyệt hoặc dự kiến\ntương đương):\n▪ Cấp 1:\n1.\n2.\n….\n▪ Cấp 2:\n1.\n2.\n….\n▪ Cấp 3:\n1.\n2.\n….\n▪ Cấp 4:\n1.\n2.\n….\n▪ Cấp 5:\n1.\n2.\n….\n3 Thông tin về nhân lực, chuyên gia an\ntoàn thông tin, công nghệ thông tin và tương đương\n(Cung cấp\nthông tin về nhân lực, an toàn thông tin, công nghệ\nthông tin thuộc đơn vị mình theo bảng kèm theo Biểu mẫu 01 của Thông tư này)\nIII. Thông tin trao đổi,\nliên lạc trong mạng lưới\n1. Địa chỉ Website: ..............................................................................................................\n2. Địa chỉ thư điện tử của đơn vị(1):\nPGP/GPG Public Key cho địa chỉ thư điện\ntử PoC của tổ chức:(2)\na) Tên (User ID) : .................................................................................................................\nb) Fingerprint : ....................................................................................................................\nc) Liên kết đến Public key của tổ chức(3):...............................................................................\n(1) Địa chỉ thư điện\ntử được sử dụng làm đầu mối trao đổi thông tin với Mạng lưới ứng cứu sự cố khuyến nghị không\nnên sử dụng địa chỉ thư điện tử cá nhân, nên sử dụng tên đại diện cho tổ chức.\n(2) Nếu tổ chức\nchưa có thì có thể bỏ trống hoặc yêu cầu VNCERT hướng dẫn tạo.\n(3) Tổ chức có thể gửi Public\nKey về VNCERT qua thư điện tử (csirts@vncert.vn)\n3. Đầu mối liên lạc trong giờ làm việc\na) Tên bộ phận/người giải quyết: .........................................................................................\nb) Điện thoại cố định: ………………………… c) Điện thoại\ndi động:\n........................................\nd) Số Fax: ..........................................................................................................................\n4. Đầu mối liên lạc ngoài giờ làm việc\na) Tên bộ phận/người giải quyết: .........................................................................................\nb) Điện thoại cố định: ………………………………….. c) Điện thoại\ndi động:\n............................\nd) Số Fax: ..........................................................................................................................\n5. Đầu mối lãnh đạo phụ trách về an\ntoàn thông tin của tổ chức (4)\na) Tên bộ phận/người giải quyết: .........................................................................................\nb) Điện thoại cố định: ………………………………….. c) Điện thoại\ndi động:\n............................\n(4) Đầu mối Lãnh\nđạo phụ trách về an toàn thông tin của tổ chức sẽ chỉ được sử dụng khi không\nliên lạc được với các đầu mối khác hoặc trong các tình huống sự cố có tính chất\nnghiêm trọng\n6. Địa chỉ nhận thư và công văn qua đường\nbưu điện:\na) Tên bộ phận/người nhận: .................................................................................................\nb) Vị trí, chức vụ: ................................................................................................................\nc) Tên tổ chức:.....................................................................................................................\nd) Địa chỉ liên hệ: .................................................................................................................\nđ) Điện thoại: ......................................................................................................................\n7. Phương tiện liên lạc khác (5)\nCách thức\nliên lạc khác qua hệ thống nhắn tin tức thời\na) Yahoo ID:\nb) Skype:\nc) Google Talk:\nd) Hotmail:\nđ) Khác:\n(5) Thông\ntin không bắt buộc\nChúng tôi cam kết\ntuân thủ các trách nhiệm, quyền hạn của thành viên mạng lưới, các quy định về\nhoạt động điều phối ứng cứu sự cố theo quy định\npháp luật và hướng dẫn của Cơ quan điều phối quốc gia\nban hành.\n….., ngày …. tháng\n…. năm 20……\nNGƯỜI\nĐẠI DIỆN THEO PHÁP LUẬT\n(Ký\ntên và đóng dấu)\nMẫu\nsố 03\nBan\nhành kèm theo Thông tư số 20/2017/TT-BTTT ngày 12/9/2017 của Bộ Thông tin và\nTruyền thông\nBÁO CÁO BAN ĐẦU SỰ CỐ MẠNG\nTHÔNG TIN VỀ TỔ CHỨC/CÁ NHÂN BÁO CÁO SỰ\nCỐ\n▪ Tên tổ chức/cá nhân báo cáo sự cố\n(*) ..............................................................................\n▪ Địa chỉ: (*) .........................................................................................................................\n▪ Điện thoại\n(*) ……………………………………….Email\n(*) ......................................................\nNGƯỜI LIÊN HỆ\n▪ Họ và tên (*)\n…………………………………\nChức\nvụ: ............................................................\n▪ Điện thoại\n(*) …………………………………\nEmail\n(*) ............................................................\nTHÔNG TIN CHI TIẾT VỀ HỆ THỐNG BỊ SỰ CỐ\nTên đơn vị vận hành hệ thống thông\ntin (*):\nĐiền tên đơn\nvị vận hành hoặc được thuê vận hành hệ thống thông tin\nCơ quan chủ quản:\nĐiền tên cơ quan\nchủ quản\nTên hệ thống bị sự cố\nĐiền tên hệ thống\nbị sự cố và tên miền, địa chỉ ip liên quan\nPhân loại cấp độ của hệ thống thông\ntin (nếu có)\n□ Cấp độ 1\n□ Cấp độ 2\n□ Cấp độ 3\n□ Cấp độ 4\n□ Cấp độ 5\nTổ chức cung cấp dịch vụ an toàn\nthông tin (nếu có):\nĐiền tên nhà cung\ncấp ở đây\nTên nhà cung cấp dịch vụ kết nối bên\nngoài (nếu có)\nĐiền tên nhà cung\ncấp ở đây\nĐiền tên nhà cung cấp ở đây\nĐiền thông tin ở đây\nMô tả sơ bộ về sự cố (*)\nĐề nghị cung cấp\nmột bản tóm tắt ngắn gọn về sự cố, bao gồm đánh giá sơ bộ cuộc tấn công đã\nxảy ra chưa và bất kỳ các nguy cơ dẫn đến khả năng phá\nhoại hoặc gián đoạn dịch vụ. Cũng vui lòng xác định mức độ nhạy cảm của thông\ntin liên quan hoặc những đối tượng bị ảnh hưởng bởi sự cố: .........................................................\n...........................................................................................................................................\n...........................................................................................................................................\n...........................................................................................................................................\n...........................................................................................................................................\n...........................................................................................................................................\n...........................................................................................................................................\n...........................................................................................................................................\nNgày phát hiện sự cố (*) (dd/mm/yy)\n/\n/\nThời gian phát hiện (*):\n…… giờ....\nphút\nHIỆN TRẠNG SỰ CỐ (*)\n□ Đã được xử lý\n□ Chưa được xử lý\nCÁCH THỨC PHÁT HIỆN * (Đánh dấu những\ncách thức được sử dụng để phát hiện sự cố)\n□ Qua hệ thống phát hiện xâm nhập □ Kiểm tra dữ\nliệu lưu lại (Log File)\n□ Nhận được thông báo từ: .................................................................................................\n□ Khác, đó là ......................................................................................................................\nĐÃ GỬI THÔNG BÁO SỰ CỐ CHO *\n□ Thành viên mạng lưới chịu trách nhiệm\nứng cứu sự cố cho tổ chức, cá nhân\n□ ISP đang trực tiếp cung cấp dịch vụ\n□ Cơ quan điều phối\nTHÔNG TIN BỔ SUNG VỀ HỆ THỐNG XẢY RA SỰ\nCỐ\n▪ Hệ điều hành …………………………………Version ..............................................................\n▪ Các dịch vụ có trên hệ thống (Đánh dấu\nnhững dịch vụ được sử dụng trên hệ thống)\n□ Web server □ Mail\nserver\n□ Database server\n□ Dịch vụ khác, đó là ..........................................................................................................\n▪ Các biện pháp an toàn thông tin đã\ntriển khai (Đánh dấu những biện pháp đã triển khai)\n□ Antivirus □ Firewall □ Hệ thống\nphát hiện xâm nhập\n□ Khác:\n▪ Các địa chỉ IP của hệ thống (Liệt\nkê địa chỉ IP sử dụng\ntrên Internet, không liệt kê địa chỉ IP nội bộ)\n...........................................................................................................................................\n▪ Các tên miền của hệ thống\n...........................................................................................................................................\n▪ Mục đích chính sử dụng hệ thống ......................................................................................\n...........................................................................................................................................\n▪ Thông tin gửi kèm\n□ Nhật ký hệ thống □ Mẫu virus / mã\nđộc\n□\nKhác: …………………………………..\n▪ Các thông tin cung cấp trong thông\nbáo sự cố này đều phải được giữ bí mật: □ Có □ Không\nKIẾN NGHỊ, ĐỀ XUẤT HỖ TRỢ\nMô tả về đề xuất, kiến nghị\nĐề nghị cung cấp tóm lược về các kiến nghị\nvà đề xuất hỗ trợ ứng cứu (nếu có) .......................\n...........................................................................................................................................\n...........................................................................................................................................\n...........................................................................................................................................\n...........................................................................................................................................\n...........................................................................................................................................\nTHỜI GIAN THỰC HIỆN BÁO CÁO SỰ CỐ *: …/…/…../…(ngày/tháng/năm/giờ/phút)\nCÁ NHÂN/NGƯỜI ĐẠI\nDIỆN THEO PHÁP LUẬT\n(Ký\ntên, đóng dấu)\nChú thích: 1. Phần (*) là những\nthông tin bắt buộc. Các phần còn lại có thể loại bỏ nếu không có thông tin.\n2. Sử dụng tiêu đề (subject) bắt đầu bằng\n‘‘[TBSC]” khi gửi\nthông báo qua email\n3. Tham khảo thêm tại website của\nVNCERT (www.vncert.gov vn)\nMẫu\nsố 04\nBan\nhành kèm theo Thông tư số /2017/TT-BTTT ngày …/…/2017 của Bộ Thông tin và\nTruyền thông\nBÁO\nCÁO KẾT THÚC ỨNG PHÓ SỰ CỐ\nTHÔNG TIN VỀ TỔ CHỨC/CÁ NHÂN BÁO CÁO\n▪ Tên tổ chức/cá nhân báo cáo sự cố\n(*) ..............................................................................\n▪ Địa chỉ: (*) .........................................................................................................................\n▪ Điện thoại (*)………………………….. Email (*)......................................................................\nKÝ HIỆU BÁO CÁO BAN ĐẦU SỰ CỐ: Số ký hiệu …………….. Ngày báo cáo:\n/ /201...\nTHÔNG TIN CHI TIẾT VỀ HỆ THỐNG BỊ SỰ CỐ\nTên đơn vị vận hành hệ thống thông\ntin (*):\nĐiền tên đơn vị\nvận hành hoặc được thuê vận hành hệ thống thông tin\nCơ quan chủ quản:\nĐiền tên cơ\nquan chủ quản\nTên hệ thống bị sự cố\nĐiền tên hệ thống bị\nsự cố\nPhân loại cấp độ của hệ thống thông\ntin, (nếu có)\n□ Cấp độ 1\n□ Cấp độ 2\n□ Cấp độ 3\n□ Cấp độ 4\n□ Cấp độ 5\nTên/Mô tả về sự cố\nNgày phát\nhiện sự cố (*) (dd/mm/yy)\n/ /\nThời gian phát hiện (*):\n…….. giờ....\nphút\nKết quả xử lý sự cố\nCung cấp, tóm tắt tổng\nquát về những gì đã xảy ra và cách thức giải quyết, đề xuất giải pháp ứng cứu ứng sự cố nhằm\nxử lý nhanh sự cố, giảm nhẹ rủi ro và thiệt hại đối với sự cố tương tự trong\ntương lai...\nCác tài liệu đính kèm\nLiệt kê các tài liệu liên quan (báo cáo\ndiễn biến sự cố; phương án xử lý, log file…..)\nCÁ NHÂN/NGƯỜI ĐẠI\nDIỆN THEO PHÁP LUẬT\n(Ký\ntên, đóng dấu)\nMẫu\nsố 05\nBan\nhành kèm theo Thông tư số 20/2017/TT-BTTT ngày 12/9/2017 của Bộ Thông tin và\nTruyền thông\nCỘNG HÒA XÃ HỘI\nCHỦ NGHĨA VIỆT NAM\nĐộc\nlập - Tự do - Hạnh phúc\nKính gửi: Trung\ntâm Ứng cứu khẩn cấp\nmáy tính Việt Nam\nBÁO CÁO TỔNG HỢP [06 THÁNG/ 01 NĂM] VỀ HOẠT ĐỘNG TIẾP NHẬN\nVÀ XỬ LÝ SỰ CỐ\n□ Từ tháng …../201 ... đến\ntháng ..../201...\nTên cơ quan/tổ chức: ..........................................................................................................\nĐịa chỉ: ...............................................................................................................................\nMã thành viên mạng lưới: ....................................................................................................\n1. Số lượng sự cố và cách thức xử lý\nLoại sự cố/tấn\ncông mạng\nSố lượng\nSố sự cố tự\nxử lý\nSố sự cố có sự\nhỗ trợ xử lý từ các tổ chức khác\nSố sự cố có\nhỗ trợ xử lý từ tổ chức nước ngoài\nSố sự cố đề\nnghị VNCERT hỗ trợ lý\nThiệt hại ước\ntính\nTừ chối dịch vụ\nTấn công giả mạo\nTấn công sử dụng mã độc\nTruy cập trái phép, chiếm quyền điều\nkhiển\nThay đổi giao diện\nMã hóa phần mềm, dữ liệu, thiết bị\nPhá hoại thông tin, dữ liệu, phần mềm\nNghe trộm, gián điệp, lấy cắp thông\ntin, dữ liệu\nTấn công tổng hợp sử dụng kết hợp\nnhiều hình thức\nCác hình thức tấn công khác\nTổng số\n2. Danh sách các tổ chức hỗ trợ xử lý\nsự cố\n...........................................................................................................................................\n3. Danh sách các tổ chức nước ngoài hỗ\ntrợ xử lý sự cố\n...........................................................................................................................................\n4. Đề xuất kiến nghị: ............................................................................................................\n...........................................................................................................................................\n….., ngày …. tháng\n…. năm ……\nNGƯỜI\nĐẠI DIỆN THEO PHÁP LUẬT\n(Đóng\ndấu hoặc sử dụng chữ ký số)\nMẫu\nsố 06\nBan\nhành kèm theo Thông tư số 20/2017/TT-BTTT ngày 12/9/2017 của Bộ Thông tin và\nTruyền thông\nBỘ THÔNG TIN VÀ\nTRUYỀN THÔNG\nTRUNG TÂM ỨNG CỨU\nKHẨN CẤP MÁY TÍNH VIỆT NAM\n-------\nCỘNG HÒA XÃ\nHỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\n---------------\nSố: /VNCERT-NV\nV/v Điều phối ứng cứu sự cố mạng\n……, ngày ….. tháng …. năm ……\nKính gửi:………………………………..\nCăn cứ chức năng nhiệm vụ theo thẩm\nquyền, trên cơ sở yêu cầu thực tế, Trang tâm ứng cứu khẩn cấp máy tính Việt Nam\n- VNCERT yêu cầu Quý cơ quan/đơn vị thực hiện lệnh/yêu cầu điều phối ứng cứu sự cố\nmạng dưới đây:\n1. Loại yêu cầu điều phối\n□ Thông báo nguy cơ, tình hình sự cố\nvà biện pháp phòng ngừa sự cố\n□ Yêu cầu xử lý sự cố cụ thể\n□ Yêu cầu xử lý kỹ thuật, thực hiện\ncác biện pháp quản lý, kỹ thuật\n□ Yêu cầu báo cáo tình hình, cung\ncấp thông tin liên quan tới sự cố.\n□ Yêu cầu điều động nguồn lực (nhân lực,\ntài nguyên, công nghệ,...)\n2. Tổ chức/hệ thống có liên quan tới sự\ncố\n...........................................................................................................................................\n...........................................................................................................................................\n3. Nội dung cụ thể yêu cầu điều phối\n...........................................................................................................................................\n...........................................................................................................................................\n...........................................................................................................................................\n...........................................................................................................................................\n...........................................................................................................................................\n...........................................................................................................................................\n4. Thời hạn thực hiện yêu cầu điều phối\nđến ngày …./…./…....\n…., ngày ….. tháng\n….. năm ……\nGIÁM\nĐỐC\n(Đóng\ndấu hoặc sử dụng chữ ký số)\nPHỤ LỤC II\nQUY\nTRÌNH ỨNG CỨU SỰ CỐ THÔNG THƯỜNG\n(Ban hành kèm theo Thông tư số 20/2017/TT-BTTTT ngày 12/9/2017 của Bộ\ntrưởng Bộ Thông tin và Truyền thông)\nPHỤ LỤC III\nĐỀ\nCƯƠNG KẾ HOẠCH ỨNG PHÓ SỰ CỐ AN TOÀN THÔNG TIN MẠNG\n(Ban hành kèm theo Thông tư 20/2017/TT-BTTTT ngày 12/9/2017 của Bộ\ntrưởng Bộ Thông tin và Truyền thông)\n1. Các quy định chung\na) Phạm vi và đối tượng của kế hoạch.\nb) Điều kiện, nguyên tắc chung, nguyên\ntắc ưu tiên để duy trì hoạt động của hệ thống khi triển khai ứng cứu sự cố; phương châm ứng phó sự cố.\nc) Các lực lượng tham gia ứng phó sự cố.\nd) Chức năng, nhiệm vụ, trách nhiệm và\ncơ chế, quy trình phối hợp giữa các cơ quan, đơn vị - Đơn vị, cá nhân vận hành hệ thống thông tin; - Nhà thầu cung cấp dịch vụ an toàn thông tin mạng (nếu có); - Đơn vị chuyên trách ứng cứu sự cố; - Đội ứng cứu sự cố; - Ban chỉ đạo ứng cứu khẩn cấp sự cố cấp bộ, tỉnh; - Cơ quan điều phối quốc gia; - Cơ quan thường trực; - Các đơn vị liên quan khác.\n2. Đánh giá các nguy cơ, sự cố an toàn\nthông tin mạng\na) Đánh giá hiện trạng và khả năng bảo\nđảm an toàn thông tin mạng của các hệ thống thông tin và các đối tượng cần bảo vệ thuộc phạm vi của kế hoạch;\nb) Đánh giá, dự báo các nguy cơ, sự cố,\ntấn công mạng có thể xảy ra với các hệ thống thông tin và các đối tượng cần bảo vệ;\nc) Đánh giá, dự báo các hậu quả, thiệt\nhại, tác động có thể có nếu xảy ra sự cố;\nd) Đánh giá về hiện trạng phương tiện,\ntrang thiết bị, công cụ hỗ trợ, nhân lực, vật lực phục vụ đối phó, ứng cứu, khắc phục sự cố (bao gồm của cả nhà thầu đã ký hợp đồng cung cấp dịch vụ nếu có).\n3. Phương án đối phó, ứng cứu đối với\nmột số tình huống sự cố cụ thể Đối với mỗi hệ thống thông tin, chương trình ứng dụng, cần xây dựng tình huống, kịch bản sự cố cụ thể và đưa ra phương án đối phó, ứng cứu sự cố tương ứng. Trong phương án đối phó, ứng cứu phải đặt ra được các tiêu chí để có thể nhanh chóng xác định được tính chất, mức độ của sự cố khi sự cố xảy ra. Việc xây dựng phương án đối phó, ứng cứu sự cố cần đảm bảo các nội dung sau:\na) Quy trình triển khai và các bước ưu\ntiên ứng cứu ban đầu khi hệ thống thông tin gặp sự cố, có phân theo các loại sự cố.\nb) Phương pháp, cách thức để xác định\nnhanh chóng, kịp thời nguyên nhân, nguồn gốc sự cố nhằm áp dụng phương án đối phó, ứng cứu, khắc phục sự cố phù hợp - Sự cố do bị tấn công mạng; - Sự cố do lỗi của hệ thống, thiết bị, phần mềm, hạ tầng kỹ thuật hoặc do lỗi đường điện, đường truyền, hosting, ....; - Sự cố do lỗi của người quản trị, vận hành hệ thống; - Sự cố liên quan đến các thảm họa tự nhiên như bão, lụt, động đất, hỏa hoạn v.v....\nc) Phương án đối phó, ứng cứu, khắc phục\nsự cố đối với một hoặc nhiều tình huống sau: - Tình huống sự cố do bị tấn công mạng: + Tấn công từ chối dịch vụ; + Tấn công giả mạo; + Tấn công sử dụng mã độc; + Tấn công truy cập trái phép, chiếm quyền điều khiển; + Tấn công thay đổi giao diện; + Tấn công mã hóa phần mềm, dữ liệu, thiết bị; + Tấn công phá hoại thông tin, dữ liệu, phần mềm; + Tấn công nghe trộm, gián điệp, lấy cắp thông tin, dữ liệu; + Tấn công tổng hợp sử dụng kết hợp nhiều hình thức; + Các hình thức tấn công mạng khác. - Tình huống sự cố do lỗi của hệ thống, thiết bị, phần mềm, hạ tầng kỹ thuật + Sự cố nguồn điện; + Sự cố đường kết nối Internet; + Sự cố do lỗi phần mềm, phần cứng, ứng dụng của hệ thống thông tin; + Sự cố liên quan đến quá tải hệ thống; + Sự cố khác do lỗi của hệ thống, thiết bị, phần mềm, hạ tầng kỹ thuật. - Tình huống sự cố do lỗi của người quản trị, vận hành hệ thống + Lỗi trong cập nhật, thay đổi, cấu hình phần cứng; + Lỗi trong cập nhật, thay đổi, cấu hình phần mềm; + Lỗi liên quan đến chính sách và thủ tục an toàn thông tin; + Lỗi liên quan đến việc dừng dịch vụ vì lý do bắt buộc; + Lỗi khác liên quan đến người quản trị, vận hành hệ thống. - Tình huống sự cố liên quan đến các thảm họa tự nhiên như bão, lụt, động đất, hỏa hoạn v.v....\nd) Công tác tổ chức, điều hành, phối hợp\ngiữa các lực lượng, giữa các tổ chức trong đối phó, ngăn chặn, ứng cứu, khắc phục sự cố;\nđ) Phương án về nhân lực, trang thiết\nbị, phần mềm, phương tiện, công cụ, và dự kiến kinh phí để thực hiện, đối phó, ứng cứu, xử lý đối với từng tình huống sự cố cụ thể.\n4. Triển khai hoạt động thường trực, điều\nphối, xử lý, ứng cứu sự cố\na) Triển khai các hoạt động thuộc\ntrách nhiệm của các cơ quan, đơn vị liên quan theo quy định tại các Điều 9 đến Điều 11 và các nội dung liên quan khác của Thông tư này;\nb) Dự phòng kinh phí, nhân lực, vật lực\nthường trực sẵn sàng ứng cứu sự cố; triển khai điều hành phối hợp tổ chức ứng cứu và thực hiện ứng cứu, xử lý, ngăn chặn, khắc phục sự cố khi có sự cố xảy ra.\n5. Triển khai huấn luyện, diễn tập,\nphòng ngừa sự cố, giám sát phát hiện, bảo đảm các điều kiện sẵn sàng đối phó, ứng cứu, khắc phục sự cố Xây dựng các nội dung, nhiệm vụ cụ thể cần triển khai nhằm phòng ngừa sự cố, giám sát phát hiện, huấn luyện, diễn tập, bảo đảm các điều kiện sẵn sàng đối phó, ứng cứu, khắc phục sự cố, cụ thể bao gồm:\na) Triển khai các chương trình huấn\nluyện, diễn tập: - Huấn luyện, diễn tập các phương án đối phó, ứng cứu sự cố tương ứng với các kịch bản, tình huống sự cố cụ thể tại Mục 4; - Huấn luyện, diễn tập nâng cao kỹ năng, nghiệp vụ phối hợp, ứng cứu, chống tấn công, xử lý mã độc, khắc phục sự cố; - Tham gia huấn luyện, diễn tập vùng, miền, quốc gia, quốc tế.\nb) Các nội dung, nhiệm vụ nhằm phòng\nngừa sự cố và phát hiện sớm sự cố: - Giám sát, phát hiện sớm nguy cơ, sự cố; - Kiểm tra, đánh giá an toàn thông tin mạng và rà quét, bóc gỡ, phân tích, xử lý mã độc; - Phòng ngừa sự cố, quản lý rủi ro; Nghiên cứu, phân tích, xác minh, cảnh báo sự cố, rủi ro an toàn thông tin mạng, phần mềm độc hại; - Xây dựng, áp dụng quy trình, quy định, tiêu chuẩn an toàn thông tin; - Tuyên truyền, nâng cao nhận thức về nguy cơ, sự cố, tấn công mạng.\nc) Các nội dung, nhiệm vụ nhằm bảo đảm\ncác điều kiện sẵn sàng đối phó, ứng cứu, khắc phục sự cố: - Mua sắm, nâng cấp, gia hạn bản quyền trang thiết bị, phần mềm, công cụ, phương tiện phục vụ ứng cứu, khắc phục sự cố; - Chuẩn bị các điều kiện bảo đảm, dự phòng nhân lực, vật lực, tài chính để sẵn sàng đối phó, ứng cứu, khắc phục khi sự cố xảy ra; - Tổ chức hoạt động của đội ứng cứu sự cố, bộ phận ứng cứu sự cố; thuê dịch vụ kỹ thuật và tổ chức, duy trì đội chuyên gia ứng cứu sự cố; - Tổ chức và tham gia các hoạt động của mạng lưới ứng cứu sự cố.\n6. Các giải pháp đảm bảo, tổ chức triển\nkhai kế hoạch và kinh phí\na) Các giải pháp để thực hiện kế hoạch;\nb) Nguồn lực và điều kiện bảo đảm thực\nhiện kế hoạch;\nc) Kinh phí và nguồn vốn triển khai thực\nhiện kế hoạch;\nd) Phân công tổ chức thực hiện.\nCác nội dung, nhiệm vụ trong kế hoạch này có thể triển khai theo hình thức tự thực hiện hoặc thuê nhà thầu cung cấp dịch vụ để triển khai, hoặc có thể kết hợp cả 2 hình thức./.",
+  "tree": {
+    "parts": [
+      {
+        "part_id": "doc:50911:part:1",
+        "part_type": "main",
+        "part_title": null,
+        "reference": null,
+        "direct_text": "THÔNG TƯ QUY\nĐỊNH VỀ ĐIỀU PHỐI, ỨNG CỨU SỰ CỐ AN TOÀN THÔNG TIN MẠNG TRÊN TOÀN QUỐC\nCăn cứ Luật An toàn thông tin mạng ngày 19 tháng 11 năm 2015; Căn cứ Nghị định số 85/2016/NĐ-CP ngày 01 tháng 7 năm 2016 của Chính phủ về bảo đảm an toàn hệ thống thông tin theo cấp độ; Căn cứ Nghị định số 17/2017/NĐ-CP ngày 17 tháng 02 năm 2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Thông tin và Truyền thông; Căn cứ Quyết định số 05/2017/QĐ-TTg ngày 16 tháng 3 năm 2017 của Thủ tướng Chính phủ quy định về hệ thống phương án ứng cứu khẩn cấp bảo đảm an toàn thông tin mạng quốc gia; Theo đề nghị của Giám đốc Trung tâm ứng cứu khẩn cấp máy tính Việt Nam; Bộ trưởng Bộ Thông tin và Truyền thông ban hành Thông tư quy định về điều phối, ứng cứu sự cố an toàn thông tin mạng trên toàn quốc.",
+        "chapters": [
+          {
+            "chapter_id": "doc:50911:part:1:chapter:1",
+            "number": "I",
+            "title": "QUY ĐỊNH CHUNG",
+            "content": "Chương I\nQUY ĐỊNH CHUNG",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:50911:part:1:article:1",
+                "number": "1",
+                "title": "Phạm vi và đối tượng áp dụng",
+                "content": "Điều 1. Phạm vi và đối tượng áp dụng",
+                "clauses": [
+                  {
+                    "clause_id": "doc:50911:part:1:article:1:clause:1",
+                    "number": "1",
+                    "content": "1. Thông tư này quy định về các hoạt động\nđiều phối, ứng cứu sự cố an toàn thông tin mạng trên toàn quốc (không bao gồm hoạt động điều phối ứng cứu sự cố an toàn thông tin mạng nghiêm trọng quy định tại Quyết định số 05/2017/QĐ-TTg ngày 16 tháng 3 năm 2017 của Thủ tướng Chính phủ quy định về hệ thống phương án ứng cứu khẩn cấp bảo đảm an toàn thông tin mạng quốc gia (sau đây gọi tắt là Quyết định số 05/2017/QĐ-TTg)); Các sự cố của hệ thống thông tin do Bộ Quốc phòng, Bộ Công an quản lý không thuộc phạm vi điều chỉnh của Thông tư này.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:50911:part:1:article:1:clause:2",
+                    "number": "2",
+                    "content": "2. Đối tượng áp dụng là các cơ quan, tổ\nchức, cá nhân có liên quan tới hoạt động điều phối, ứng cứu sự cố an toàn thông tin mạng.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:50911:part:1:article:2",
+                "number": "2",
+                "title": "Giải thích từ ngữ",
+                "content": "Điều 2. Giải thích từ ngữ",
+                "clauses": [
+                  {
+                    "clause_id": "doc:50911:part:1:article:2:clause:1",
+                    "number": "1",
+                    "content": "1. Sự cố an toàn thông tin mạng là\nviệc thông tin, hệ thống thông tin bị tấn công hoặc gây nguy hại, ảnh hưởng tới tính nguyên vẹn, tính bảo mật hoặc tính khả dụng (sau đây gọi tắt là sự cố).",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:50911:part:1:article:2:clause:2",
+                    "number": "2",
+                    "content": "2. Ứng cứu sự cố an toàn thông tin\nmạng là hoạt động nhằm xử lý, khắc phục sự cố gây mất an toàn thông tin mạng gồm: theo dõi, thu thập, phân tích, phát hiện, cảnh báo, điều tra, xác minh sự cố, ngăn chặn sự cố, khôi phục dữ liệu và khôi phục hoạt động bình thường của hệ thống thông tin.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:50911:part:1:article:2:clause:3",
+                    "number": "3",
+                    "content": "3. Đầu mối ứng cứu sự cố là bộ\nphận hoặc cá nhân được thành viên mạng lưới ứng cứu sự cố an toàn thông tin mạng quốc gia cử để thay mặt cho thành viên liên lạc và trao đổi thông tin với Cơ quan điều phối quốc gia về ứng cứu sự cố hoặc các thành viên khác trong hoạt động điều phối, ứng cứu sự cố.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:50911:part:1:article:3",
+                "number": "3",
+                "title": "Phân cấp tổ chức thực hiện ứng cứu sự cố bảo đảm an toàn thông tin mạng trên toàn quốc Phân cấp tổ chức thực hiện ứng cứu sự cố bảo đảm an toàn thông tin mạng trên toàn quốc là các cơ quan, tổ chức, đơn vị thực hiện ứng cứu sự cố bảo đảm an toàn thông tin mạng quốc gia được quy định tại Quyết định số 05/2017/QĐ-TTg. Các cơ quan, tổ chức tham gia hoạt động điều phối, ứng cứu sự cố trên toàn quốc gồm:",
+                "content": "Điều 3. Phân cấp tổ chức thực hiện ứng cứu sự cố bảo đảm an toàn thông tin mạng trên toàn quốc Phân cấp tổ chức thực hiện ứng cứu sự cố bảo đảm an toàn thông tin mạng trên toàn quốc là các cơ quan, tổ chức, đơn vị thực hiện ứng cứu sự cố bảo đảm an toàn thông tin mạng quốc gia được quy định tại Quyết định số 05/2017/QĐ-TTg. Các cơ quan, tổ chức tham gia hoạt động điều phối, ứng cứu sự cố trên toàn quốc gồm:",
+                "clauses": [
+                  {
+                    "clause_id": "doc:50911:part:1:article:3:clause:1",
+                    "number": "1",
+                    "content": "1. Bộ Thông tin và Truyền thông - Cơ\nquan thường trực về ứng cứu khẩn cấp bảo đảm an toàn thông tin mạng quốc gia (gọi tắt là Cơ quan thường trực quốc gia) và Ban điều phối ứng cứu khẩn cấp bảo đảm an toàn thông tin mạng quốc gia (gọi tắt là Ban điều phối ứng cứu quốc gia); Trung tâm Ứng cứu khẩn cấp máy tính Việt Nam VNCERT - Cơ quan điều phối quốc gia về ứng cứu sự cố (gọi tắt là Cơ quan điều phối quốc gia).",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:50911:part:1:article:3:clause:2",
+                    "number": "2",
+                    "content": "2. Ban Chỉ đạo ứng cứu khẩn cấp sự cố\nan toàn thông tin mạng của các Bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ và Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương (gọi tắt là Ban Chỉ đạo ứng cứu sự cố cấp bộ, tỉnh).",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:50911:part:1:article:3:clause:3",
+                    "number": "3",
+                    "content": "3. Đơn vị chuyên trách về ứng cứu sự cố\nan toàn thông tin mạng (sau đây gọi tắt là Đơn vị chuyên trách về ứng cứu sự cố); Đội ứng cứu sự cố hoặc bộ phận ứng cứu sự cố tại Bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ và Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương (sau đây gọi tắt là Đội/bộ phận ứng cứu sự cố).",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:50911:part:1:article:3:clause:4",
+                    "number": "4",
+                    "content": "4. Mạng lưới ứng cứu sự cố an toàn\nthông tin mạng quốc gia (gọi tắt là Mạng lưới ứng cứu sự cố); và Ban Điều hành mạng lưới.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:50911:part:1:article:3:clause:5",
+                    "number": "5",
+                    "content": "5. Chủ quản hệ thống thông tin; đơn vị\nvận hành hệ thống thông tin; các cơ quan, tổ chức, đơn vị chuyên môn được Cơ quan thường trực, Cơ quan điều phối quốc gia hoặc Ban Chỉ đạo ứng cứu sự cố cấp bộ, tỉnh chỉ định hoặc triệu tập tham gia ứng cứu sự cố.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:50911:part:1:article:4",
+                "number": "4",
+                "title": "Nguyên tắc điều phối, ứng cứu sự cố",
+                "content": "Điều 4. Nguyên tắc điều phối, ứng cứu sự cố",
+                "clauses": [
+                  {
+                    "clause_id": "doc:50911:part:1:article:4:clause:1",
+                    "number": "1",
+                    "content": "1. Tuân thủ các quy định pháp luật về điều\nphối, ứng cứu sự cố an toàn thông tin mạng.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:50911:part:1:article:4:clause:2",
+                    "number": "2",
+                    "content": "2. Chủ động, kịp thời, nhanh chóng,\nchính xác, đồng bộ và hiệu quả.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:50911:part:1:article:4:clause:3",
+                    "number": "3",
+                    "content": "3. Phối hợp chặt chẽ, chính xác, đồng\nbộ và hiệu quả giữa các cơ quan tổ chức, doanh nghiệp trong nước và nước ngoài.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:50911:part:1:article:4:clause:4",
+                    "number": "4",
+                    "content": "4. Ứng cứu sự cố trước hết phải được\nthực hiện, xử lý bằng lực lượng tại chỗ và trách nhiệm chính của chủ quản hệ thống thông tin.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:50911:part:1:article:4:clause:5",
+                    "number": "5",
+                    "content": "5. Tuân thủ các điều kiện, nguyên tắc ưu tiên về\nduy trì hoạt động của hệ thống thông tin đã được cấp thẩm quyền phê duyệt trong kế hoạch ứng phó sự cố.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:50911:part:1:article:4:clause:6",
+                    "number": "6",
+                    "content": "6. Thông tin trao đổi trong mạng lưới\nphải được kiểm tra, xác thực đối tượng trước khi thực hiện các bước tác nghiệp tiếp theo.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:50911:part:1:article:4:clause:7",
+                    "number": "7",
+                    "content": "7. Bảo đảm bí mật thông tin biết được\nkhi tham gia, thực hiện các hoạt động ứng cứu sự cố theo yêu cầu của Cơ quan điều phối quốc gia hoặc cơ quan tổ chức, cá nhân gặp sự cố.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:50911:part:1:chapter:2",
+            "number": "II",
+            "title": "MẠNG LƯỚI ỨNG CỨU SỰ CỐ",
+            "content": "Chương II\nMẠNG LƯỚI ỨNG CỨU SỰ CỐ",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:50911:part:1:article:5",
+                "number": "5",
+                "title": "Mạng lưới ứng cứu sự cố",
+                "content": "Điều 5. Mạng lưới ứng cứu sự cố",
+                "clauses": [
+                  {
+                    "clause_id": "doc:50911:part:1:article:5:clause:1",
+                    "number": "1",
+                    "content": "1. Mạng lưới ứng cứu sự cố hoạt động\ntrên toàn quốc, gồm thành viên là các đơn vị chuyên trách về ứng cứu sự cố và các cơ quan, tổ chức, doanh nghiệp liên quan được quy định chi tiết tại Điều 7 Quyết định số 05/2017/QĐ-TTg.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:50911:part:1:article:5:clause:2",
+                    "number": "2",
+                    "content": "2. Mạng lưới ứng cứu sự cố hoạt động\ntheo Quy chế hoạt động của Mạng lưới và hướng dẫn liên quan của Cơ quan điều phối quốc gia (Trung tâm ứng cứu khẩn cấp máy tính Việt Nam). Ban điều hành mạng lưới do Bộ Thông tin và Truyền thông thành lập theo quy định tại Điều 7 Quyết định số 05/2017/QĐ-TTg",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:50911:part:1:article:5:clause:3",
+                    "number": "3",
+                    "content": "3. Các thành viên mạng lưới khai báo hồ\nsơ theo Biểu mẫu số 01 ban hành kèm theo Thông tư này, định kỳ cập nhật hàng năm, gửi Cơ quan điều phối quốc gia. Các tổ chức, doanh nghiệp, cá nhân tự nguyện đăng ký tham gia mạng lưới phải có đơn đăng ký tham gia theo Biểu mẫu số 02, gửi Cơ quan điều phối quốc gia.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:50911:part:1:article:6",
+                "number": "6",
+                "title": "Trách nhiệm, quyền hạn của các thành viên mạng lưới",
+                "content": "Điều 6. Trách nhiệm, quyền hạn của các thành viên mạng lưới",
+                "clauses": [
+                  {
+                    "clause_id": "doc:50911:part:1:article:6:clause:1",
+                    "number": "1",
+                    "content": "1. Thành viên mạng lưới có các trách\nnhiệm và quyền hạn sau:",
+                    "points": [
+                      {
+                        "point_id": "doc:50911:part:1:article:6:clause:1:point:1",
+                        "label": "a",
+                        "content": "a) Thực hiện các trách nhiệm và quyền\nhạn quy định tại Quyết định số 05/2017/QĐ-TTg ;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:50911:part:1:article:6:clause:1:point:2",
+                        "label": "b",
+                        "content": "b) Cử Đầu mối ứng cứu sự cố có đủ năng lực, trình độ chuyên môn\nvà kỹ năng nghiệp vụ để thực hiện các hoạt động phối hợp ứng cứu sự cố; bảo đảm duy trì liên lạc thông suốt, liên tục 24/7; công bố thông tin về địa chỉ tiếp nhận sự cố trên Trang/Cổng thông tin điện tử; cung cấp, cập nhật thông tin về Đầu mối ứng cứu sự cố, nhân lực kỹ thuật an toàn thông tin, ứng cứu sự cố thuộc phạm vi quản lý tới Cơ quan điều phối quốc gia; cập nhật thông tin về Đầu mối ứng cứu sự cố, trong vòng 24 giờ khi có thay đổi;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:50911:part:1:article:6:clause:1:point:3",
+                        "label": "c",
+                        "content": "c) Tổng hợp, xây dựng\nbáo cáo định kỳ 06 tháng (trước ngày 20 tháng 6) 01 năm (trước ngày 15 tháng 12) theo Biểu mẫu số 05 gửi Cơ quan điều phối quốc gia; báo cáo đột xuất khi có yêu cầu của Cơ quan điều phối quốc gia;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:50911:part:1:article:6:clause:1:point:4",
+                        "label": "d",
+                        "content": "d) Báo cáo với Cơ quan điều phối quốc\ngia khi tiếp nhận thông tin, phát hiện các sự cố đối với hệ thống thông tin trong phạm vi quản lý;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:50911:part:1:article:6:clause:1:point:5",
+                        "label": "đ",
+                        "content": "đ) Xây dựng và triển khai kế hoạch ứng\nphó sự cố, hướng dẫn hoạt động ứng cứu sự cố, tổ chức và điều hành hoạt động của Đội ứng cứu sự cố trong phạm vi quản lý;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:50911:part:1:article:6:clause:1:point:6",
+                        "label": "e",
+                        "content": "e) Có quyền đề nghị thành viên mạng lưới\nhướng dẫn, hỗ trợ xử lý và ứng cứu sự cố khi cần thiết; được tham gia các hội thảo, hội nghị giao ban, tập huấn bồi dưỡng, đào tạo, huấn luyện, diễn tập và các hoạt động khác trong mạng lưới;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:50911:part:1:article:6:clause:1:point:7",
+                        "label": "g",
+                        "content": "g) Có quyền được chia sẻ thông tin,\nkinh nghiệm, cảnh báo về sự cố và tình hình an toàn thông tin mạng trong và ngoài nước;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:50911:part:1:article:6:clause:1:point:8",
+                        "label": "h",
+                        "content": "h) Các thành viên mạng lưới là cơ\nquan, đơn vị chức năng thuộc Bộ Công an và Bộ Quốc phòng không phải thực hiện Điểm c và Điểm d Khoản này.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:50911:part:1:article:6:clause:2",
+                    "number": "2",
+                    "content": "2. Trách nhiệm và quyền hạn của Cơ\nquan điều phối quốc gia:",
+                    "points": [
+                      {
+                        "point_id": "doc:50911:part:1:article:6:clause:2:point:1",
+                        "label": "a",
+                        "content": "a) Thực hiện các trách nhiệm và quyền\nhạn quy định tại Quyết định số 05/2017/QĐ-TTg ;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:50911:part:1:article:6:clause:2:point:2",
+                        "label": "b",
+                        "content": "b) Công khai trên Trang thông tin điện\ntử của mình số điện thoại, số fax địa chỉ thư điện tử (email), đường dây nóng và bảo đảm nguồn lực để duy trì trực đường dây nóng liên tục, kịp thời tiếp nhận và xử lý sự cố; tổng hợp thông tin liên lạc (địa chỉ, số điện thoại, số fax, địa chỉ thư điện tử) và thông tin về đầu mối ứng cứu sự cố, nhân lực kỹ thuật an toàn thông tin, ứng cứu sự cố của các thành viên mạng lưới và Đội ứng cứu sự cố của các thành viên mạng lưới;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:50911:part:1:article:6:clause:2:point:3",
+                        "label": "c",
+                        "content": "c) Xây dựng, triển khai và vận hành cổng\nthông tin mạng lưới, hệ thống kỹ thuật hỗ trợ cho hoạt động liên lạc, trao đổi thông tin trong mạng lưới và các hệ thống kỹ thuật phục vụ các hoạt động điều phối, ứng cứu, xử lý, khắc phục sự cố;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:50911:part:1:article:6:clause:2:point:4",
+                        "label": "d",
+                        "content": "d) Hướng dẫn hoạt động thông báo và hỏi\nđáp về sự cố an toàn thông tin mạng trên toàn quốc; điều hành mạng lưới; nghiên cứu, đề xuất các biện pháp nhằm tăng cường nguồn lực cho mạng lưới hoạt động có hiệu quả;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:50911:part:1:article:6:clause:2:point:5",
+                        "label": "đ",
+                        "content": "đ) Tập hợp, tiếp nhận, xử lý, chuẩn bị\nthông tin, cảnh báo tới người có thẩm quyền và các cơ quan, tổ chức, đơn vị liên quan về các nguy cơ sự cố an toàn thông tin mạng và các biện pháp phòng ngừa, ngăn chặn, xử lý;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:50911:part:1:article:6:clause:2:point:6",
+                        "label": "e",
+                        "content": "e) Tổ chức hội thảo, hội nghị giao\nban, phổ biến, trao đổi thông tin, tập huấn, bồi dưỡng, đào tạo, huấn luyện, diễn tập về an toàn thông tin mạng ứng cứu sự cố; tổ chức các hoạt động chung của mạng lưới.",
+                        "children": []
+                      }
+                    ]
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:50911:part:1:article:7",
+                "number": "7",
+                "title": "Các hoạt động chính của mạng lưới ứng cứu sự cố Ban điều hành mạng lưới tổ chức triển khai các nhiệm vụ của mạng lưới ứng cứu sự cố, gồm các hoạt động chính sau:",
+                "content": "Điều 7. Các hoạt động chính của mạng lưới ứng cứu sự cố Ban điều hành mạng lưới tổ chức triển khai các nhiệm vụ của mạng lưới ứng cứu sự cố, gồm các hoạt động chính sau:",
+                "clauses": [
+                  {
+                    "clause_id": "doc:50911:part:1:article:7:clause:1",
+                    "number": "1",
+                    "content": "1. Nghiên cứu, thu thập, tiếp nhận,\nphân tích, xác minh, đánh giá, cảnh báo về sự cố, rủi ro an toàn thông tin mạng và phần mềm độc hại.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:50911:part:1:article:7:clause:2",
+                    "number": "2",
+                    "content": "2. Phối hợp thực hiện ứng cứu, xử lý,\nngăn chặn và khắc phục sự cố; kiểm tra, đốc thúc việc xây dựng, triển khai kế hoạch ứng phó sự cố an toàn thông tin mạng và việc thực hiện các trách nhiệm, nghĩa vụ của thành viên mạng lưới;",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:50911:part:1:article:7:clause:3",
+                    "number": "3",
+                    "content": "3. Xây dựng, nâng cao năng lực cho các\nthành viên mạng lưới và các Đội ứng cứu sự cố, gồm:",
+                    "points": [
+                      {
+                        "point_id": "doc:50911:part:1:article:7:clause:3:point:1",
+                        "label": "a",
+                        "content": "a) Huấn luyện, diễn tập, đào tạo, tập\nhuấn nâng cao trình độ, kỹ năng và nghiệp vụ; tổ chức các chuyến công tác trong và ngoài nước để khảo sát, học hỏi kinh nghiệm, trao đổi, hợp tác;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:50911:part:1:article:7:clause:3:point:2",
+                        "label": "b",
+                        "content": "b) Giao ban định kỳ, tổ chức hội thảo,\nhội nghị, tọa đàm trao đổi và chia sẻ thông tin, kinh nghiệm về điều phối, ứng cứu sự cố, bảo đảm an toàn thông tin mạng;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:50911:part:1:article:7:clause:3:point:3",
+                        "label": "c",
+                        "content": "c) Hỗ trợ xây dựng và áp dụng các quy\ntrình quản lý, vận hành hệ thống thông tin theo các tiêu chuẩn quốc gia, quy chuẩn kỹ thuật quốc gia và tiêu chuẩn quốc tế về an toàn thông tin, ứng cứu sự cố;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:50911:part:1:article:7:clause:3:point:4",
+                        "label": "d",
+                        "content": "d) Tổ chức các nghiên cứu chuyên môn,\nxây dựng các báo cáo, tài liệu hướng dẫn, thống kê về an toàn thông tin mạng và các vấn đề liên quan để chia sẻ, phổ biến trong mạng lưới.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:50911:part:1:article:7:clause:4",
+                    "number": "4",
+                    "content": "4. Tham gia các hoạt động thông tin,\ntuyên truyền nâng cao nhận thức về phòng ngừa, ứng cứu sự cố, bảo đảm an toàn thông tin mạng.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:50911:part:1:article:7:clause:5",
+                    "number": "5",
+                    "content": "5. Tổ chức, duy trì hoạt động của Ban điều\nhành mạng lưới; và triển khai các hoạt động khác liên quan đến điều phối, ứng cứu sự cố, bảo đảm an toàn thông tin mạng.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:50911:part:1:chapter:3",
+            "number": "III",
+            "title": "HOẠT ĐỘNG ĐIỀU PHỐI, ỨNG CỨU SỰ CỐ",
+            "content": "Chương III\nHOẠT\nĐỘNG ĐIỀU PHỐI, ỨNG CỨU SỰ CỐ",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:50911:part:1:article:8",
+                "number": "8",
+                "title": "Hoạt động điều phối ứng cứu sự cố",
+                "content": "Điều 8. Hoạt động điều phối ứng cứu sự cố",
+                "clauses": [
+                  {
+                    "clause_id": "doc:50911:part:1:article:8:clause:1",
+                    "number": "1",
+                    "content": "1. Điều phối ứng cứu sự cố là hoạt động\ncủa Cơ quan điều phối quốc gia và cơ quan có thẩm quyền nhằm huy động, điều hành, phối hợp thống nhất các nguồn lực gồm: nhân lực, vật lực (trang thiết bị), tài lực (tài chính, ngân sách) để phòng ngừa, theo dõi, thu thập, phát hiện, cảnh báo sự cố; tiếp nhận, phân tích xác minh, phân loại sự cố; điều hành, phối hợp, tổ chức ứng cứu sự cố, sẵn sàng ứng phó, khắc phục sự cố nhằm giảm thiểu các rủi ro, thiệt hại do sự cố gây ra.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:50911:part:1:article:8:clause:2",
+                    "number": "2",
+                    "content": "2. Cơ quan điều phối quốc gia thực hiện\nchức năng cảnh báo, điều phối ứng cứu sự cố trên toàn quốc; có quyền huy động, điều phối các thành viên mạng lưới ứng cứu sự cố và các tổ chức, đơn vị liên quan phối hợp ngăn chặn, xử lý, khắc phục sự cố trên toàn quốc; ban hành và chịu trách nhiệm về các lệnh/yêu cầu điều phối theo Biểu mẫu số 06 ban hành kèm theo Thông tư này;",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:50911:part:1:article:8:clause:3",
+                    "number": "3",
+                    "content": "3. Các tác nghiệp của hoạt động điều\nphối ứng cứu sự cố:",
+                    "points": [
+                      {
+                        "point_id": "doc:50911:part:1:article:8:clause:3:point:1",
+                        "label": "a",
+                        "content": "a) Theo dõi, phân tích, phát hiện, cảnh\nbáo các nguy cơ, đe dọa, lỗ hổng, sự cố, tấn công mạng và các giải pháp phòng ngừa sự cố;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:50911:part:1:article:8:clause:3:point:2",
+                        "label": "b",
+                        "content": "b) Xây dựng, đề xuất phương án, kế hoạch\nứng phó với sự cố;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:50911:part:1:article:8:clause:3:point:3",
+                        "label": "c",
+                        "content": "c) Tổ chức huấn luyện, diễn tập ứng cứu\nsự cố, bảo đảm an toàn thông tin mạng;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:50911:part:1:article:8:clause:3:point:4",
+                        "label": "d",
+                        "content": "d) Điều hành, huy động các nguồn lực để\nứng cứu sự cố theo thẩm quyền; cung cấp các hỗ trợ kỹ thuật và thực hiện các biện pháp để đối phó, phòng chống tấn công mạng;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:50911:part:1:article:8:clause:3:point:5",
+                        "label": "đ",
+                        "content": "đ) Điều tra, phân tích, xác định nguồn\ngốc, cách thức, phương pháp tấn công để đối phó, ngăn chặn, đồng thời cảnh báo và hướng dẫn để ngăn ngừa sự cố lây lan diện rộng; thu thập, xây dựng báo cáo tổng hợp sự cố;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:50911:part:1:article:8:clause:3:point:6",
+                        "label": "e",
+                        "content": "e) Chia sẻ, trao đổi, cung cấp thông\ntin giữa các cơ quan, tổ chức có trách nhiệm liên quan về ứng cứu sự cố, hoạt động điều phối ứng cứu sự cố và quá trình xử lý sự cố;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:50911:part:1:article:8:clause:3:point:7",
+                        "label": "g",
+                        "content": "g) Các hoạt động khác liên quan đến ứng\ncứu sự cố theo quyết định Bộ Thông tin và Truyền thông.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:50911:part:1:article:8:clause:4",
+                    "number": "4",
+                    "content": "4. Hình thức trao đổi thông tin về điều\nphối ứng cứu sự cố được thực hiện bằng một hoặc nhiều hình thức như: Công văn, thư điện tử, điện thoại, fax, nhắn tin đa phương tiện hoặc hệ thống kỹ thuật truyền thông tiên tiến; và đảm bảo tuân thủ theo các quy định pháp luật liên quan khi trao đổi thông tin mật.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:50911:part:1:article:9",
+                "number": "9",
+                "title": "Thông báo, báo cáo sự cố an toàn thông tin mạng",
+                "content": "Điều 9. Thông báo, báo cáo sự cố an toàn thông tin mạng",
+                "clauses": [
+                  {
+                    "clause_id": "doc:50911:part:1:article:9:clause:1",
+                    "number": "1",
+                    "content": "1. Các hình thức thông báo,\nbáo cáo sự cố",
+                    "points": [
+                      {
+                        "point_id": "doc:50911:part:1:article:9:clause:1:point:1",
+                        "label": "a",
+                        "content": "a) Hình thức thông báo sự cố: Bằng\ncông văn, fax, thư điện tử, nhắn tin đa phương tiện hoặc thông qua hệ thống kỹ thuật báo cáo sự cố an toàn thông tin mạng theo hướng dẫn của Cơ quan điều phối quốc gia;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:50911:part:1:article:9:clause:1:point:2",
+                        "label": "b",
+                        "content": "b) Hình thức báo cáo sự cố: Bằng văn bản\ngiấy hoặc văn bản điện tử (có ký tên và đóng dấu hoặc chữ ký số của người có thẩm quyền).",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:50911:part:1:article:9:clause:2",
+                    "number": "2",
+                    "content": "2. Báo cáo sự cố an toàn thông tin mạng",
+                    "points": [
+                      {
+                        "point_id": "doc:50911:part:1:article:9:clause:2:point:1",
+                        "label": "a",
+                        "content": "a) Đơn vị, cá nhân vận hành hệ thống thông tin\ncó trách nhiệm chậm nhất 05 ngày kể từ khi phát hiện sự cố phải thông báo các thông tin của sự cố theo nội dung tại Điểm a Khoản 3 Điều này (Thông báo sự cố) tới đồng thời các cơ quan, đơn vị sau: Chủ quản hệ thống thông tin, Cơ quan điều phối quốc gia, Đơn vị chuyên trách về ứng cứu sự cố và thành viên mạng lưới ứng cứu sự cố có trách nhiệm liên quan (nếu có). Tại thời điểm báo cáo, nếu chưa hoàn thành việc xử lý sự cố, đơn vị, cá nhân vận hành hệ thống phải cập nhật lại thông tin của sự cố cho các cơ quan, đơn vị đã nhận thông tin trước đó ngay khi kết thúc việc xử lý sự cố;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:50911:part:1:article:9:clause:2:point:2",
+                        "label": "b",
+                        "content": "b) Trường hợp đơn vị, cá nhân vận hành\nhệ thống thông tin xác định sự cố có thể vượt khả năng xử lý của mình phải xây dựng ngay Báo cáo ban đầu sự cố, báo cáo Chủ quản hệ thống thông tin, Đơn vị chuyên trách về ứng cứu sự cố chịu trách nhiệm ứng cứu (nếu có) và Cơ quan điều phối quốc gia; sau khi kết thúc ứng cứu sự cố, chậm nhất trong vòng 05 ngày phải hoàn thiện Báo cáo kết thúc ứng phó sự cố để báo cáo Chủ quản hệ thống thông tin và Cơ quan điều phối quốc gia. Cơ quan điều phối quốc gia chỉ ghi nhận sự cố đã hoàn thành ứng cứu sự cố sau khi đã nhận được Báo cáo kết thúc ứng phó sự cố;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:50911:part:1:article:9:clause:2:point:3",
+                        "label": "c",
+                        "content": "c) Các tổ chức, cá nhân không phải là\nđơn vị, cá nhân vận hành hệ thống thông tin khi phát hiện dấu hiệu tấn công hoặc sự cố an toàn thông tin mạng cần nhanh chóng thông báo thông tin của sự cố (Thông báo sự cố) tới đồng thời hoặc một trong các cơ quan, đơn vị sau: Đơn vị, cá nhân vận hành hệ thống thông tin Chủ quản hệ thống thông tin, Cơ quan điều phối quốc gia, Đơn vị chuyên trách về ứng cứu sự cố hoặc thành viên mạng lưới ứng cứu sự cố có trách nhiệm liên quan.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:50911:part:1:article:9:clause:3",
+                    "number": "3",
+                    "content": "3. Các loại thông báo, báo cáo sự cố:",
+                    "points": [
+                      {
+                        "point_id": "doc:50911:part:1:article:9:clause:3:point:1",
+                        "label": "a",
+                        "content": "a) Thông báo sự cố, nội dung gồm: Tên,\nđịa chỉ đơn vị, cá nhân thông báo sự cố; tên hoặc tên miền, địa chỉ IP của hệ thống thông tin bị sự cố; tên địa chỉ của đơn vị, cá nhân vận hành và cơ quan chủ quản hệ thống thông tin bị sự cố (nếu biết); mô tả sự cố và thời điểm phát hiện sự cố; kết quả xử lý sự cố đề xuất, kiến nghị và các thông tin liên quan khác (nếu có);",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:50911:part:1:article:9:clause:3:point:2",
+                        "label": "b",
+                        "content": "b) Báo cáo ban đầu sự cố, nội dung\ntheo Biểu mẫu số 03 Phụ lục I ban hành kèm theo Thông tư này;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:50911:part:1:article:9:clause:3:point:3",
+                        "label": "c",
+                        "content": "c) Báo cáo diễn biến tình hình;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:50911:part:1:article:9:clause:3:point:4",
+                        "label": "d",
+                        "content": "d) Báo cáo phương án ứng cứu cụ thể;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:50911:part:1:article:9:clause:3:point:5",
+                        "label": "đ",
+                        "content": "đ) Báo cáo đề nghị hỗ trợ, phối hợp;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:50911:part:1:article:9:clause:3:point:6",
+                        "label": "e",
+                        "content": "e) Báo cáo kết thúc ứng phó sự cố, nội\ndung theo Biểu mẫu số 04 Phụ lục I ban hành kèm theo Thông tư này.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:50911:part:1:article:9:clause:4",
+                    "number": "4",
+                    "content": "4. Trong quá trình ứng cứu sự cố, đơn\nvị, cá nhân vận hành hệ thống phải chủ trì, phối hợp với các cơ quan, đơn vị liên quan xây dựng và duy trì thực hiện các báo cáo ứng cứu sự cố theo quy định và yêu cầu của cơ quan có thẩm quyền.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:50911:part:1:article:10",
+                "number": "10",
+                "title": "Phát hiện, tiếp nhận, xác minh, xử lý ban đầu và phân loại sự cố an toàn thông tin mạng",
+                "content": "Điều 10. Phát hiện, tiếp nhận, xác minh, xử lý ban đầu và phân loại sự cố an toàn thông tin mạng",
+                "clauses": [
+                  {
+                    "clause_id": "doc:50911:part:1:article:10:clause:1",
+                    "number": "1",
+                    "content": "1. Đơn vị, cá nhân vận hành hệ thống thông\ntin, có trách nhiệm:",
+                    "points": [
+                      {
+                        "point_id": "doc:50911:part:1:article:10:clause:1:point:1",
+                        "label": "a",
+                        "content": "a) Khi phát hiện sự cố: Tổ chức theo\ndõi, ghi chép và tập hợp các thông tin liên quan đến sự cố và tổ chức thông báo hoặc báo cáo sự cố theo quy định tại Điều 9 của Thông tư này;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:50911:part:1:article:10:clause:1:point:2",
+                        "label": "b",
+                        "content": "b) Khi tiếp nhận thông báo sự cố: Phản\nhồi ngay cho tổ chức, cá nhân gửi thông báo sự cố để xác nhận thông tin;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:50911:part:1:article:10:clause:1:point:3",
+                        "label": "c",
+                        "content": "c) Xác minh sự cố và xử lý ban đầu: Chủ\ntrì, phối hợp với đơn vị chịu trách nhiệm bảo đảm an toàn thông tin (nếu có), đơn vị chuyên trách về ứng cứu sự cố liên quan và các doanh nghiệp viễn thông, Internet (ISP) để tiến hành phân tích, xác minh, đánh giá sự cố; thực hiện ngay các hoạt động ứng cứu sự cố ban đầu, triển khai quy trình ứng cứu sự cố theo kế hoạch ứng phó sự cố an toàn thông tin mạng đã được cấp thẩm quyền phê duyệt hoặc quy trình tại Điều 11 của Thông tư này; trường hợp xác định sự cố có khả năng là sự cố nghiêm trọng, cần báo cáo ngay với chủ quản hệ thống thông tin, đơn vị chuyên trách về ứng cứu sự cố liên quan để đề xuất nâng cấp sự cố nghiêm trọng, đồng thời gửi Cơ quan điều phối quốc gia.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:50911:part:1:article:10:clause:2",
+                    "number": "2",
+                    "content": "2. Đơn vị chuyên trách về ứng cứu sự cố\nhoặc thành viên mạng lưới ứng cứu sự cố, có trách nhiệm:",
+                    "points": [
+                      {
+                        "point_id": "doc:50911:part:1:article:10:clause:2:point:1",
+                        "label": "a",
+                        "content": "a) Khi phát hiện sự cố: Thông báo sự cố\nngay đến đơn vị, cá nhân vận hành hệ thống thông tin, chủ quản hệ thống thông tin và Cơ quan điều phối quốc gia;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:50911:part:1:article:10:clause:2:point:2",
+                        "label": "b",
+                        "content": "b) Khi tiếp nhận thông báo hoặc báo\ncáo sự cố: Ghi nhận, tiếp nhận đúng quy định và phản hồi cho tổ chức, cá nhân gửi thông báo hoặc báo cáo sự cố ngay sau khi nhận được để xác nhận thông tin;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:50911:part:1:article:10:clause:2:point:3",
+                        "label": "c",
+                        "content": "c) Tổ chức xác minh và xử lý sự cố: Phối\nhợp với đơn vị, cá nhân vận hành hệ thống thông tin để thẩm tra, xác minh và xử lý sự cố trong khả năng và trách nhiệm của mình; trường hợp xác định sự cố có khả năng vượt qua khả năng xử lý của mình hoặc có khả năng là sự cố nghiêm trọng, cần báo cáo ngay chủ quản hệ thống thông tin và Cơ quan điều phối quốc gia;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:50911:part:1:article:10:clause:2:point:4",
+                        "label": "d",
+                        "content": "d) Giám sát diễn biến tình hình ứng cứu\nsự cố và báo cáo hoặc đề xuất, xin ý kiến chỉ đạo của chủ quản hệ thống thông tin và Ban Chỉ đạo ứng cứu sự cố cấp bộ, tỉnh trong trường hợp vượt thẩm quyền, phạm vi trách nhiệm của mình hoặc vượt khả năng xử lý của mình;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:50911:part:1:article:10:clause:2:point:5",
+                        "label": "đ",
+                        "content": "đ) Tổng hợp, báo cáo Cơ quan điều phối\nquốc gia về diễn biến sự cố khi được yêu cầu.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:50911:part:1:article:10:clause:3",
+                    "number": "3",
+                    "content": "3. Cơ quan điều phối quốc gia có trách\nnhiệm:",
+                    "points": [
+                      {
+                        "point_id": "doc:50911:part:1:article:10:clause:3:point:1",
+                        "label": "a",
+                        "content": "a) Ghi nhận, tiếp nhận thông báo, báo\ncáo sự cố an toàn thông tin mạng theo đúng quy trình;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:50911:part:1:article:10:clause:3:point:2",
+                        "label": "b",
+                        "content": "b) Phản hồi cho tổ chức, cá nhân gửi\nthông báo, báo cáo sự cố ngay sau khi nhận được để xác nhận thông tin;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:50911:part:1:article:10:clause:3:point:3",
+                        "label": "c",
+                        "content": "c) Thẩm tra, xác minh và phân loại sự\ncố để thực hiện các cảnh báo, điều phối lựa chọn phương án, tổ chức ứng cứu và báo cáo, đề xuất với Cơ quan thường trực xem xét, quyết định sự cố nghiêm trọng và phương án ứng cứu khẩn cấp phù hợp. Trường hợp phân loại là sự cố nghiêm trọng, Cơ quan điều phối quốc gia chủ trì, phối hợp với các cơ quan liên quan triển khai các bước theo quy trình ứng cứu sự cố nghiêm trọng quy định tại Quyết định số 05/2017/QĐ-TTg;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:50911:part:1:article:10:clause:3:point:4",
+                        "label": "d",
+                        "content": "d) Tổ chức hoạt động phối hợp với các\ntổ chức ứng cứu sự cố mạng quốc tế để tiếp nhận các cảnh báo sớm, thông tin về sự cố, nguy cơ về mất an toàn thông tin mạng và phối hợp ứng cứu sự cố, tấn công xuyên biên giới;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:50911:part:1:article:10:clause:3:point:5",
+                        "label": "đ",
+                        "content": "đ) Thực hiện các trách nhiệm khác của Cơ\nquan điều phối quốc gia báo cáo đề xuất với Cơ quan thường trực các vấn đề vượt thẩm quyền.",
+                        "children": []
+                      }
+                    ]
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:50911:part:1:article:11",
+                "number": "11",
+                "title": "Quy trình ứng cứu sự cố an toàn thông tin mạng Quy trình ứng cứu sự cố an toàn thông tin mạng theo sơ đồ tại Phụ lục II cụ thể gồm:",
+                "content": "Điều 11. Quy trình ứng cứu sự cố an toàn thông tin mạng Quy trình ứng cứu sự cố an toàn thông tin mạng theo sơ đồ tại Phụ lục II cụ thể gồm:\n1. Tiếp nhận, phân tích, ứng cứu ban đầu\nvà thông báo sự cố\na) Tiếp nhận, xác minh sự cố\nĐơn vị chủ trì: Đơn vị, cá nhân vận hành hệ thống thông tin. Đơn vị phối hợp: Đơn vị chuyên trách về ứng cứu sự cố, Cơ quan điều phối quốc gia. Nội dung thực hiện: Theo dõi, tiếp nhận, phân tích các cảnh báo, dấu hiệu sự cố từ các nguồn bên trong và bên ngoài. Khi phân tích, xác minh sự cố đã xảy ra, cần tổ chức ghi nhận, thu thập chứng cứ, xác định nguồn gốc sự cố.\nb) Triển khai các bước ưu tiên ứng cứu\nban đầu Đơn vị chủ trì: Đơn vị, cá nhân vận hành hệ thống thông tin. Đơn vị phối hợp: Đơn vị chuyên trách về ứng cứu sự cố, thành viên mạng lưới có liên quan và Cơ quan điều phối quốc gia. Nội dung: Sau khi đã xác định sự cố xảy ra, đơn vị, cá nhân vận hành hệ thống thông tin căn cứ vào bản chất, dấu hiệu của sự cố tổ chức triển khai các bước ưu tiên ban đầu để xử lý sự cố theo kế hoạch ứng phó sự cố đã được cấp thẩm quyền phê duyệt hoặc theo hướng dẫn của Đơn vị chuyên trách về ứng cứu sự cố liên quan hoặc Cơ quan điều phối quốc gia.\nc) Triển khai lựa chọn phương án ứng cứu\nĐơn vị chủ trì: Đơn vị, cá nhân vận hành hệ thống thông tin. Đơn vị phối hợp: Đơn vị chuyên trách về ứng cứu sự cố, thành viên mạng lưới có liên quan, Cơ quan điều phối quốc gia. Nội dung thực hiện: Căn cứ theo kế hoạch ứng phó sự cố đã được cấp thẩm quyền phê duyệt hoặc theo hướng dẫn của Đơn vị chuyên trách về ứng cứu sự cố hoặc Cơ quan điều phối quốc gia để lựa chọn phương án ngăn chặn và xử lý sự cố; báo cáo, đề xuất Chủ quản hệ thống thông tin, Ban Chỉ đạo ứng cứu sự cố cấp bộ, tỉnh xin ý kiến chỉ đạo nếu cần.\nd) Chỉ đạo xử lý sự cố (nếu cần)\nĐơn vị chủ trì: Ban Chỉ đạo ứng cứu sự cố cấp bộ, tỉnh. Đơn vị phối hợp: Chủ quản hệ thống thông tin. Nội dung thực hiện: Căn cứ theo báo cáo, đề xuất của Đơn vị, cá nhân vận hành hệ thống thông tin, Ban Chỉ đạo ứng cứu sự cố cấp bộ, tỉnh phối hợp với chủ quản hệ thống thông tin và tham khảo ý kiến Cơ quan điều phối quốc gia (nếu cần) thực hiện chỉ đạo Đơn vị chuyên trách về ứng cứu sự cố, triệu tập Đội/bộ phận ứng cứu sự cố thuộc phạm vi quản lý triển khai công tác ứng cứu, xử lý sự cố; chỉ đạo, phân công hoạt động phát ngôn, cung cấp thông tin. Trong quá trình ứng cứu, tùy thuộc vào diễn biến tình hình thực tế, Ban Chỉ đạo ứng cứu sự cố cấp bộ, tỉnh có thể quyết định bổ sung thành phần tham gia Đội/bộ phận ứng cứu sự cố, chỉ đạo điều chỉnh phương án ứng cứu sự cố.\nđ) Báo cáo sự cố\nĐơn vị chủ trì: Đơn vị, cá nhân vận hành hệ thống thông tin. Đơn vị phối hợp: Đơn vị chuyên trách về ứng cứu sự cố liên quan/chịu trách nhiệm, các doanh nghiệp viễn thông, Internet (ISP). Nội dung thực hiện: Sau khi đã triển khai các bước ưu tiên ứng cứu ban đầu, Đơn vị vận hành hệ thống thông tin tổ chức thông báo, báo cáo sự cố đến các tổ chức, cá nhân liên quan bên trong và bên ngoài cơ quan tổ chức theo quy định tại Điều 9 Thông tư này và quy định nội bộ (nếu có).\ne) Điều phối công tác ứng cứu\nĐơn vị chủ trì: Ban Chỉ đạo ứng cứu sự cố cấp bộ, tỉnh; Cơ quan điều phối quốc gia. Đơn vị phối hợp: Đơn vị, cá nhân vận hành hệ thống thông tin, Đơn vị chuyên trách về ứng cứu sự cố, thành viên mạng lưới có liên quan. Nội dung thực hiện: Căn cứ vào tính chất sự cố, đề nghị hỗ trợ của Đơn vị, cá nhân vận hành hệ thống thông tin và Đơn vị chuyên trách về ứng cứu sự cố, Ban Chỉ đạo ứng cứu sự cố cấp bộ, tỉnh và Cơ quan điều phối quốc gia thực hiện công tác điều phối, giám sát cơ chế phối hợp, chia sẻ thông tin theo phạm vi, chức năng, nhiệm vụ của mình để huy động nguồn lực ứng cứu sự cố.\n2. Triển khai ứng cứu, ngăn chặn và xử\nlý sự cố Đơn vị chủ trì: Đơn vị, cá nhân vận hành hệ thống thông tin; Đội/bộ phận ứng cứu sự cố. Đơn vị phối hợp: Đơn vị chịu trách nhiệm bảo đảm an toàn thông tin cho hệ thống bị sự cố, Đơn vị chuyên trách về ứng cứu sự cố, thành viên mạng lưới có liên quan, Cơ quan điều phối quốc gia. Nội dung thực hiện:\na) Triển khai thu thập chứng cứ, phân\ntích, xác định phạm vi, đối tượng bị ảnh hưởng.\nb) Triển khai phân tích, xác định nguồn\ngốc tấn công, tổ chức ứng cứu và ngăn chặn, giảm thiểu tác động, thiệt hại đến hệ thống thông tin.\n3. Xử lý sự cố, gỡ bỏ và khôi phục\na) Xử lý sự cố, gỡ bỏ\nĐơn vị chủ trì: Đơn vị, cá nhân vận hành hệ thống thông tin; Đội/bộ phận ứng cứu sự cố. Đơn vị phối hợp: Đơn vị chịu trách nhiệm bảo đảm an toàn thông tin cho hệ thống bị sự cố; Đơn vị chuyên trách về ứng cứu sự cố, thành viên mạng lưới có liên quan, Cơ quan điều phối quốc gia. Nội dung thực hiện: Sau khi đã triển khai ngăn chặn sự cố, đơn vị, cá nhân vận hành hệ thống thông tin, Đơn vị chuyên trách về ứng cứu sự cố, Đội/bộ phận ứng cứu sự cố triển khai tiêu diệt, gỡ bỏ các mã độc, phần mềm độc hại khắc phục các điểm yếu an toàn thông tin của hệ thống thông tin.\nb) Khôi phục\nĐơn vị chủ trì: Đơn vị, cá nhân vận hành hệ thống thông tin;. Đơn vị phối hợp: Đội/bộ phận ứng cứu sự cố, Đơn vị chịu trách nhiệm bảo đảm an toàn thông tin cho hệ thống bị sự cố, Đơn vị chuyên trách về ứng cứu sự cố, thành viên mạng lưới có liên quan, Cơ quan điều phối quốc gia. Nội dung thực hiện: Đơn vị, cá nhân vận hành hệ thống chủ trì phối hợp với các đơn vị liên quan triển khai các hoạt động khôi phục hệ thống thông tin dữ liệu và kết nối; cấu hình hệ thống an toàn; bổ sung các thiết bị, phần cứng phần mềm bảo đảm an toàn thông tin cho hệ thống thông tin.\nc) Kiểm tra, đánh giá hệ thống thông\ntin Đơn vị chủ trì: Đơn vị, cá nhân vận hành hệ thống thông tin. Đơn vị phối hợp: Đơn vị chịu trách nhiệm bảo đảm an toàn thông tin cho hệ thống bị sự cố, Đơn vị chuyên trách về ứng cứu sự cố, chủ quản hệ thống thông tin, Cơ quan điều phối quốc gia. Nội dung thực hiện: Đơn vị, cá nhân vận hành hệ thống và các đơn vị liên quan triển khai kiểm tra, đánh giá hoạt động của toàn bộ hệ thống thông tin sau khi khắc phục sự cố. Trường hợp hệ thống chưa hoạt động ổn định, cần tiếp tục tổ chức thu thập, xác minh lại nguyên nhân và tổ chức các bước tương ứng tại Khoản 2 và Khoản 3 của Điều này để xử lý dứt điểm, khôi phục hoạt động bình thường của hệ thống thông tin.\n4. Tổng kết, đánh giá\nĐơn vị chủ trì: Đơn vị, cá nhân vận hành hệ thống thông tin. Đơn vị phối hợp: Đơn vị chuyên trách về ứng cứu sự cố; Đội/bộ phận ứng cứu sự cố; Chủ quản hệ thống thông tin; Ban Chỉ đạo ứng cứu sự cố cấp bộ, tỉnh; Cơ quan điều phối quốc gia. Nội dung thực hiện: Đơn vị, cá nhân vận hành hệ thống bị sự cố phối hợp với Đơn vị chuyên trách về ứng cứu sự cố và Đội/bộ phận ứng cứu sự cố triển khai tổng hợp toàn bộ các thông tin, báo cáo, phân tích có liên quan đến sự cố, công tác triển khai phương án ứng cứu sự cố, báo cáo Chủ quản hệ thống thông tin, Ban Chỉ đạo ứng cứu sự cố cấp bộ, tỉnh và Cơ quan điều phối quốc gia; tổ chức phân tích nguyên nhân, rút kinh nghiệm trong hoạt động xử lý sự cố và đề xuất các biện pháp bổ sung nhằm phòng ngừa, ứng cứu đối với các sự cố tương tự trong tương lai.",
+                "clauses": [],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:50911:part:1:chapter:4",
+            "number": "IV",
+            "title": "BIỆN PHÁP BẢO ĐẢM THỰC HIỆN ỨNG CỨU SỰ CỐ AN TOÀN THÔNG TIN MẠNG Điều 12. Xây dựng và triển khai kế hoạch ứng phó sự cố bảo đảm an toàn thông tin mạng 1. Các cơ quan, tổ chức và doanh nghiệp xây dựng và triển khai kế hoạch ứng phó sự cố bảo đảm an toàn thông tin mạng của cơ quan, tổ chức và doanh nghiệp mình, trong đó: a) Đối với các hệ thống thông tin đã được phê duyệt cấp độ 04, cấp độ 05 hoặc thuộc Danh mục hệ thống thông tin quan trọng quốc gia, theo Đề cương Kế hoạch ứng phó sự cố an toàn thông tin mạng quy định tại Điều 16 của Quyết định số 05/2017/QĐ-TTg. b) Đối với các hệ thống thông tin không thuộc Điểm a Khoản 1 Điều này, theo Phụ lục III ban hành kèm theo Thông tư này. 2. Các chủ quản hệ thống thông tin và cơ quan, đơn vị có thẩm quyền phê duyệt Kế hoạch ứng phó sự cố cần xác định các điều kiện, nguyên tắc ưu tiên để duy trì hoạt động của hệ thống thông tin khi triển khai ứng cứu sự cố và coi nội dung này là một yêu cầu bắt buộc trong Kế hoạch ứng phó sự cố. 3. Cơ quan điều phối quốc gia hướng dẫn việc xây dựng, triển khai kế hoạch ứng phó sự cố, dự phòng ứng cứu, xử lý sự cố an toàn thông tin mạng; tổ chức hoạt động huấn luyện, diễn tập theo vùng, miền và quốc gia, quốc tế; xây dựng kế hoạch và tổ chức định kỳ kiểm tra, đánh giá về việc triển khai phương án ứng phó sự cố an toàn thông tin mạng của các bộ, ngành, địa phương và của các tổ chức, doanh nghiệp",
+            "content": "Chương IV\nBIỆN\nPHÁP BẢO ĐẢM THỰC HIỆN ỨNG CỨU SỰ CỐ AN TOÀN THÔNG TIN MẠNG\nĐiều\n12. Xây dựng và triển khai kế hoạch ứng phó sự cố bảo đảm an toàn thông tin mạng\n1. Các cơ quan, tổ chức và doanh nghiệp\nxây dựng và triển khai kế hoạch ứng phó sự cố bảo đảm an toàn thông tin mạng của cơ quan, tổ chức và doanh nghiệp mình, trong đó:\na) Đối với các hệ thống thông tin đã\nđược phê duyệt cấp độ 04, cấp độ 05 hoặc thuộc Danh mục hệ thống thông tin quan trọng quốc gia, theo Đề cương Kế hoạch ứng phó sự cố an toàn thông tin mạng quy định tại Điều 16 của Quyết định số 05/2017/QĐ-TTg.\nb) Đối với các hệ thống thông tin\nkhông thuộc Điểm a Khoản 1 Điều này, theo Phụ lục III ban hành kèm theo Thông tư này.\n2. Các chủ quản hệ thống thông tin và\ncơ quan, đơn vị có thẩm quyền phê duyệt Kế hoạch ứng phó sự cố cần xác định các điều kiện, nguyên tắc ưu tiên để duy trì hoạt động của hệ thống thông tin khi triển khai ứng cứu sự cố và coi nội dung này là một yêu cầu bắt buộc trong Kế hoạch ứng phó sự cố.\n3. Cơ quan điều phối quốc gia hướng dẫn\nviệc xây dựng, triển khai kế hoạch ứng phó sự cố, dự phòng ứng cứu, xử lý sự cố an toàn thông tin mạng; tổ chức hoạt động huấn luyện, diễn tập theo vùng, miền và quốc gia, quốc tế; xây dựng kế hoạch và tổ chức định kỳ kiểm tra, đánh giá về việc triển khai phương án ứng phó sự cố an toàn thông tin mạng của các bộ, ngành, địa phương và của các tổ chức, doanh nghiệp.",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:50911:part:1:article:12",
+                "number": "13",
+                "title": "Kinh phí Kinh phí triển khai các hoạt động điều phối, ứng cứu sự cố an toàn thông tin mạng trên toàn quốc thực hiện theo quy định tại Điều 17 Quyết định số 05/2017/QĐ-TTg và các văn bản hướng dẫn liên quan.",
+                "content": "Điều 13. Kinh phí Kinh phí triển khai các hoạt động điều phối, ứng cứu sự cố an toàn thông tin mạng trên toàn quốc thực hiện theo quy định tại Điều 17 Quyết định số 05/2017/QĐ-TTg và các văn bản hướng dẫn liên quan.",
+                "clauses": [],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:50911:part:1:chapter:5",
+            "number": "V",
+            "title": "TỔ CHỨC THỰC HIỆN",
+            "content": "Chương V\nTỔ CHỨC THỰC HIỆN",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:50911:part:1:article:13",
+                "number": "14",
+                "title": "Hiệu lực thi hành",
+                "content": "Điều 14. Hiệu lực thi hành",
+                "clauses": [
+                  {
+                    "clause_id": "doc:50911:part:1:article:13:clause:1",
+                    "number": "1",
+                    "content": "1. Thông tư này có hiệu lực thi hành kể\ntừ ngày 01 tháng 11 năm 2017 và bãi bỏ Thông tư số 27/2011/TT-BTTTT ngày 04 tháng 10 năm 2011 của Bộ Thông tin và Truyền thông quy định về điều phối các hoạt động ứng cứu sự cố mạng Internet Việt Nam.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:50911:part:1:article:13:clause:2",
+                    "number": "2",
+                    "content": "2. Trong quá trình thực hiện, nếu có\nvướng mắc, phát sinh, tổ chức, cá nhân có liên quan kịp thời phản ánh về Bộ Thông tin và Truyền thông (qua Trung tâm ứng cứu khẩn cấp máy tính Việt Nam) để xem xét, bổ sung và sửa đổi./.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          }
+        ],
+        "sections": [],
+        "articles": [],
+        "unstructured_blocks": []
+      },
+      {
+        "part_id": "doc:50911:part:2",
+        "part_type": "appendix",
+        "part_title": "PHỤ LỤC II",
+        "reference": null,
+        "direct_text": null,
+        "chapters": [],
+        "sections": [],
+        "articles": [],
+        "unstructured_blocks": [
+          {
+            "block_id": "doc:50911:part:2:block:1",
+            "content": "PHỤ LỤC II\nQUY\nTRÌNH ỨNG CỨU SỰ CỐ THÔNG THƯỜNG\n(Ban hành kèm theo Thông tư số 20/2017/TT-BTTTT ngày 12/9/2017 của Bộ\ntrưởng Bộ Thông tin và Truyền thông)",
+            "indexable": true
+          }
+        ]
+      },
+      {
+        "part_id": "doc:50911:part:3",
+        "part_type": "appendix",
+        "part_title": "PHỤ LỤC III",
+        "reference": null,
+        "direct_text": null,
+        "chapters": [],
+        "sections": [],
+        "articles": [],
+        "unstructured_blocks": [
+          {
+            "block_id": "doc:50911:part:3:block:1",
+            "content": "PHỤ LỤC III\nĐỀ\nCƯƠNG KẾ HOẠCH ỨNG PHÓ SỰ CỐ AN TOÀN THÔNG TIN MẠNG\n(Ban hành kèm theo Thông tư 20/2017/TT-BTTTT ngày 12/9/2017 của Bộ\ntrưởng Bộ Thông tin và Truyền thông)\n1. Các quy định chung\na) Phạm vi và đối tượng của kế hoạch.\nb) Điều kiện, nguyên tắc chung, nguyên\ntắc ưu tiên để duy trì hoạt động của hệ thống khi triển khai ứng cứu sự cố; phương châm ứng phó sự cố.\nc) Các lực lượng tham gia ứng phó sự cố.\nd) Chức năng, nhiệm vụ, trách nhiệm và\ncơ chế, quy trình phối hợp giữa các cơ quan, đơn vị - Đơn vị, cá nhân vận hành hệ thống thông tin; - Nhà thầu cung cấp dịch vụ an toàn thông tin mạng (nếu có); - Đơn vị chuyên trách ứng cứu sự cố; - Đội ứng cứu sự cố; - Ban chỉ đạo ứng cứu khẩn cấp sự cố cấp bộ, tỉnh; - Cơ quan điều phối quốc gia; - Cơ quan thường trực; - Các đơn vị liên quan khác.\n2. Đánh giá các nguy cơ, sự cố an toàn\nthông tin mạng\na) Đánh giá hiện trạng và khả năng bảo\nđảm an toàn thông tin mạng của các hệ thống thông tin và các đối tượng cần bảo vệ thuộc phạm vi của kế hoạch;\nb) Đánh giá, dự báo các nguy cơ, sự cố,\ntấn công mạng có thể xảy ra với các hệ thống thông tin và các đối tượng cần bảo vệ;\nc) Đánh giá, dự báo các hậu quả, thiệt\nhại, tác động có thể có nếu xảy ra sự cố;\nd) Đánh giá về hiện trạng phương tiện,\ntrang thiết bị, công cụ hỗ trợ, nhân lực, vật lực phục vụ đối phó, ứng cứu, khắc phục sự cố (bao gồm của cả nhà thầu đã ký hợp đồng cung cấp dịch vụ nếu có).\n3. Phương án đối phó, ứng cứu đối với\nmột số tình huống sự cố cụ thể Đối với mỗi hệ thống thông tin, chương trình ứng dụng, cần xây dựng tình huống, kịch bản sự cố cụ thể và đưa ra phương án đối phó, ứng cứu sự cố tương ứng. Trong phương án đối phó, ứng cứu phải đặt ra được các tiêu chí để có thể nhanh chóng xác định được tính chất, mức độ của sự cố khi sự cố xảy ra. Việc xây dựng phương án đối phó, ứng cứu sự cố cần đảm bảo các nội dung sau:\na) Quy trình triển khai và các bước ưu\ntiên ứng cứu ban đầu khi hệ thống thông tin gặp sự cố, có phân theo các loại sự cố.\nb) Phương pháp, cách thức để xác định\nnhanh chóng, kịp thời nguyên nhân, nguồn gốc sự cố nhằm áp dụng phương án đối phó, ứng cứu, khắc phục sự cố phù hợp - Sự cố do bị tấn công mạng; - Sự cố do lỗi của hệ thống, thiết bị, phần mềm, hạ tầng kỹ thuật hoặc do lỗi đường điện, đường truyền, hosting, ....; - Sự cố do lỗi của người quản trị, vận hành hệ thống; - Sự cố liên quan đến các thảm họa tự nhiên như bão, lụt, động đất, hỏa hoạn v.v....\nc) Phương án đối phó, ứng cứu, khắc phục\nsự cố đối với một hoặc nhiều tình huống sau: - Tình huống sự cố do bị tấn công mạng: + Tấn công từ chối dịch vụ; + Tấn công giả mạo; + Tấn công sử dụng mã độc; + Tấn công truy cập trái phép, chiếm quyền điều khiển; + Tấn công thay đổi giao diện; + Tấn công mã hóa phần mềm, dữ liệu, thiết bị; + Tấn công phá hoại thông tin, dữ liệu, phần mềm; + Tấn công nghe trộm, gián điệp, lấy cắp thông tin, dữ liệu; + Tấn công tổng hợp sử dụng kết hợp nhiều hình thức; + Các hình thức tấn công mạng khác. - Tình huống sự cố do lỗi của hệ thống, thiết bị, phần mềm, hạ tầng kỹ thuật + Sự cố nguồn điện; + Sự cố đường kết nối Internet; + Sự cố do lỗi phần mềm, phần cứng, ứng dụng của hệ thống thông tin; + Sự cố liên quan đến quá tải hệ thống; + Sự cố khác do lỗi của hệ thống, thiết bị, phần mềm, hạ tầng kỹ thuật. - Tình huống sự cố do lỗi của người quản trị, vận hành hệ thống + Lỗi trong cập nhật, thay đổi, cấu hình phần cứng; + Lỗi trong cập nhật, thay đổi, cấu hình phần mềm; + Lỗi liên quan đến chính sách và thủ tục an toàn thông tin; + Lỗi liên quan đến việc dừng dịch vụ vì lý do bắt buộc; + Lỗi khác liên quan đến người quản trị, vận hành hệ thống. - Tình huống sự cố liên quan đến các thảm họa tự nhiên như bão, lụt, động đất, hỏa hoạn v.v....\nd) Công tác tổ chức, điều hành, phối hợp\ngiữa các lực lượng, giữa các tổ chức trong đối phó, ngăn chặn, ứng cứu, khắc phục sự cố;\nđ) Phương án về nhân lực, trang thiết\nbị, phần mềm, phương tiện, công cụ, và dự kiến kinh phí để thực hiện, đối phó, ứng cứu, xử lý đối với từng tình huống sự cố cụ thể.\n4. Triển khai hoạt động thường trực, điều\nphối, xử lý, ứng cứu sự cố\na) Triển khai các hoạt động thuộc\ntrách nhiệm của các cơ quan, đơn vị liên quan theo quy định tại các Điều 9 đến Điều 11 và các nội dung liên quan khác của Thông tư này;\nb) Dự phòng kinh phí, nhân lực, vật lực\nthường trực sẵn sàng ứng cứu sự cố; triển khai điều hành phối hợp tổ chức ứng cứu và thực hiện ứng cứu, xử lý, ngăn chặn, khắc phục sự cố khi có sự cố xảy ra.\n5. Triển khai huấn luyện, diễn tập,\nphòng ngừa sự cố, giám sát phát hiện, bảo đảm các điều kiện sẵn sàng đối phó, ứng cứu, khắc phục sự cố Xây dựng các nội dung, nhiệm vụ cụ thể cần triển khai nhằm phòng ngừa sự cố, giám sát phát hiện, huấn luyện, diễn tập, bảo đảm các điều kiện sẵn sàng đối phó, ứng cứu, khắc phục sự cố, cụ thể bao gồm:\na) Triển khai các chương trình huấn\nluyện, diễn tập: - Huấn luyện, diễn tập các phương án đối phó, ứng cứu sự cố tương ứng với các kịch bản, tình huống sự cố cụ thể tại Mục 4; - Huấn luyện, diễn tập nâng cao kỹ năng, nghiệp vụ phối hợp, ứng cứu, chống tấn công, xử lý mã độc, khắc phục sự cố; - Tham gia huấn luyện, diễn tập vùng, miền, quốc gia, quốc tế.\nb) Các nội dung, nhiệm vụ nhằm phòng\nngừa sự cố và phát hiện sớm sự cố: - Giám sát, phát hiện sớm nguy cơ, sự cố; - Kiểm tra, đánh giá an toàn thông tin mạng và rà quét, bóc gỡ, phân tích, xử lý mã độc; - Phòng ngừa sự cố, quản lý rủi ro; Nghiên cứu, phân tích, xác minh, cảnh báo sự cố, rủi ro an toàn thông tin mạng, phần mềm độc hại; - Xây dựng, áp dụng quy trình, quy định, tiêu chuẩn an toàn thông tin; - Tuyên truyền, nâng cao nhận thức về nguy cơ, sự cố, tấn công mạng.\nc) Các nội dung, nhiệm vụ nhằm bảo đảm\ncác điều kiện sẵn sàng đối phó, ứng cứu, khắc phục sự cố: - Mua sắm, nâng cấp, gia hạn bản quyền trang thiết bị, phần mềm, công cụ, phương tiện phục vụ ứng cứu, khắc phục sự cố; - Chuẩn bị các điều kiện bảo đảm, dự phòng nhân lực, vật lực, tài chính để sẵn sàng đối phó, ứng cứu, khắc phục khi sự cố xảy ra; - Tổ chức hoạt động của đội ứng cứu sự cố, bộ phận ứng cứu sự cố; thuê dịch vụ kỹ thuật và tổ chức, duy trì đội chuyên gia ứng cứu sự cố; - Tổ chức và tham gia các hoạt động của mạng lưới ứng cứu sự cố.\n6. Các giải pháp đảm bảo, tổ chức triển\nkhai kế hoạch và kinh phí\na) Các giải pháp để thực hiện kế hoạch;\nb) Nguồn lực và điều kiện bảo đảm thực\nhiện kế hoạch;\nc) Kinh phí và nguồn vốn triển khai thực\nhiện kế hoạch;\nd) Phân công tổ chức thực hiện.\nCác nội dung, nhiệm vụ trong kế hoạch này có thể triển khai theo hình thức tự thực hiện hoặc thuê nhà thầu cung cấp dịch vụ để triển khai, hoặc có thể kết hợp cả 2 hình thức./.",
+            "indexable": true
+          }
+        ]
+      }
+    ]
+  },
+  "issues": [],
+  "status": "ok",
+  "source_hash": "context_50911.json",
+  "stats": {
+    "source_chars": 59579,
+    "passage_chars": 59409,
+    "parts": 3,
+    "chapters": 5,
+    "sections": 0,
+    "articles": 13,
+    "clauses": 40,
+    "points": 49
+  }
+}

@@ -1,0 +1,2066 @@
+{
+  "schema_version": "2.0",
+  "document_id": 269599,
+  "metadata": {
+    "name": "Thong-tu-14-2018-TT-BTNMT-quy-trinh-cong-tac-thong-tin-du-lieu-khi-tuong-thuy-van-398534",
+    "link": "https://thuvienphapluat.vn/van-ban/Tai-nguyen-Moi-truong/Thong-tu-14-2018-TT-BTNMT-quy-trinh-cong-tac-thong-tin-du-lieu-khi-tuong-thuy-van-398534.aspx",
+    "issuing_agency": "BỘ TÀI NGUYÊN VÀ MÔI TRƯỜNG",
+    "national_header": "CỘNG\r\n\n  HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM",
+    "motto": "Độc lập - Tự do - Hạnh phúc",
+    "document_number": "14/2018/TT-BTNMT",
+    "issued_place": "Hà Nội",
+    "issued_date": "ngày 18 tháng 10\r\n\n  năm 2018",
+    "document_type": "THÔNG TƯ",
+    "title": "QUY ĐỊNH KỸ THUẬT VỀ QUY TRÌNH CÔNG TÁC THÔNG TIN, DỮ LIỆU KHÍ TƯỢNG THỦY VĂN"
+  },
+  "administrative_header": {
+    "removed": true,
+    "removed_char_count": 169
+  },
+  "preamble": {
+    "text": "THÔNG TƯ\nQUY ĐỊNH KỸ THUẬT VỀ QUY TRÌNH CÔNG TÁC THÔNG TIN, DỮ LIỆU KHÍ TƯỢNG THỦY\nVĂN\nCăn cứ Luật khí tượng thủy văn ngày 23 tháng 11 năm 2015; Căn cứ Nghị định số 36/2017/NĐ-CP ngày 04 tháng 4 năm 2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài nguyên và Môi trường; Căn cứ Nghị định số 73/2017/NĐ-CP ngày 14 tháng 6 năm 2017 của Chính phủ về thu thập, quản lý, khai thác và sử dụng thông tin, dữ liệu tài nguyên và môi trường; Theo đề nghị của Tổng cục trưởng Tổng cục Khí tượng Thủy văn, Vụ trưởng Vụ Khoa học và Công nghệ và Vụ trưởng Vụ pháp chế; Bộ trưởng Bộ Tài nguyên và Môi trường ban hành Thông tư quy định kỹ thuật về quy trình công tác thông tin, dữ liệu khí tượng thủy văn.\nChương I\nQUY ĐỊNH CHUNG",
+    "legal_bases": [
+      "Căn cứ Nghị định số 36/2017/NĐ-CP ngày 04 tháng 4 năm 2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài nguyên và Môi trường",
+      "Căn cứ Nghị định số 73/2017/NĐ-CP ngày 14 tháng 6 năm 2017 của Chính phủ về thu thập, quản lý, khai thác và sử dụng thông tin, dữ liệu tài nguyên và môi trường"
+    ],
+    "proposals": [
+      "Theo đề nghị của Tổng cục trưởng Tổng cục Khí tượng Thủy văn, Vụ trưởng Vụ Khoa học và Công nghệ và Vụ trưởng Vụ pháp chế"
+    ],
+    "enactment_formula": null
+  },
+  "passage": "THÔNG TƯ\nQUY ĐỊNH KỸ THUẬT VỀ QUY TRÌNH CÔNG TÁC THÔNG TIN, DỮ LIỆU KHÍ TƯỢNG THỦY\nVĂN\nCăn cứ Luật khí tượng thủy văn ngày 23 tháng 11 năm 2015; Căn cứ Nghị định số 36/2017/NĐ-CP ngày 04 tháng 4 năm 2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài nguyên và Môi trường; Căn cứ Nghị định số 73/2017/NĐ-CP ngày 14 tháng 6 năm 2017 của Chính phủ về thu thập, quản lý, khai thác và sử dụng thông tin, dữ liệu tài nguyên và môi trường; Theo đề nghị của Tổng cục trưởng Tổng cục Khí tượng Thủy văn, Vụ trưởng Vụ Khoa học và Công nghệ và Vụ trưởng Vụ pháp chế; Bộ trưởng Bộ Tài nguyên và Môi trường ban hành Thông tư quy định kỹ thuật về quy trình công tác thông tin, dữ liệu khí tượng thủy văn.\nChương I\nQUY ĐỊNH CHUNG\nĐiều 1. Phạm vi điều chỉnh Thông tư này quy định kỹ thuật về quy trình công tác thông tin, dữ liệu khí tượng thủy văn bao gồm các nội dung sau:\n1. Giám sát và duy trì hoạt động hệ\nthống phụ trợ phòng máy chủ dùng cho chuyên ngành khí tượng thủy văn.\n2. Vận hành và duy trì hoạt động trạm\nthu vệ tinh khí tượng.\n3. Vận hành và duy trì hoạt động hệ\nthống VSAT trong lĩnh vực khí tượng thủy văn.\n4. Vận hành và duy trì hoạt động trạm\nvô tuyến điện truyền, nhận thông tin, dữ liệu khí tượng thủy văn.\n5. Vận hành và duy trì hoạt động hệ\nthống truyền hình trực tuyến phục vụ tác nghiệp khí tượng thủy văn.\n6. Giám sát và đánh giá chất lượng\ntruyền nhận, phát báo thông tin, dữ liệu khí tượng thủy văn thời gian thực.\n7. Thu nhận, xử lý, lưu trữ và chia sẻ\nthông tin, dữ liệu số khí tượng thủy văn.\n8. Bảo quản, bổ sung, khai thác thông\ntin, dữ liệu khí tượng thủy văn trong hoạt động thư viện.\nĐiều 2. Đối tượng áp dụng Thông tư này áp dụng đối với cơ quan nhà nước, đơn vị sự nghiệp công lập, tổ chức và cá nhân có liên quan đến công tác thông tin, dữ liệu khí tượng thủy văn.\nĐiều 3. Giải thích từ ngữ và chữ viết tắt Trong Thông tư này, các từ ngữ dưới đây được hiểu như sau:\n1. Hệ thống phụ trợ phòng máy chủ là\ntập hợp các hệ thống thiết bị nhằm đảm bảo môi trường hoạt động cho các thiết bị công nghệ thông tin gồm: camera, giám sát môi trường, nguồn điện lưới, bộ lưu điện (UPS), phòng cháy và chữa cháy, điều hòa và chống sét.\n2. UPS (Uninterruptible Power Supply)\nlà hệ thống lưu trữ điện.\n3. Hệ thống giám sát môi trường là hệ\nthống giám sát các thông số nhiệt độ, độ ẩm, rò rỉ nước trong phòng máy chủ và gửi thông tin cảnh báo.\n4. Hệ thống Outdoor là các thiết bị\nthuộc hệ thống trạm thu vệ tinh và vô tuyến điện ngoài trời.\n5. Hệ thống Indoor là các thiết bị\nthuộc hệ thống trạm thu vệ tinh và vô tuyến điện trong nhà.\n6. Hệ thống VSAT (Very Small Aperture\nTerminal) là hệ thống các trạm thông tin vệ tinh mặt đất cỡ nhỏ, gồm trạm Hub và các trạm Remote.\n7. Trạm Hub là trạm trung tâm có chức\nnăng quản lý, điều khiển các trạm Remote trong hệ thống VSAT.\n8. Trạm Remote là trạm thành phần và\nchịu sự quản lý, điều khiển của trạm Hub.\n9. LNA (Low Noise Amplifier) là bộ\nkhuếch đại tạp âm thấp.\n10. LNB (Low noise block\ndownconverte): Bộ chuyển đổi tần số sóng vệ tinh từ cao xuống thấp.\n11. OMT (Othormode Tranducer) là bộ\nchuyển đổi chế độ phân cực.\n12. BUG (Block Up Converter) là bộ\nchuyển đổi đường lên.\n13. Feed horn là loa chiếu xạ của ăng\nten.\n14. NMS (VSAT Network Management\nSystem) là hệ thống quản trị mạng của hệ thống VSAT.\n15. Trạm thu vệ tinh khí tượng là trạm\nthu dữ liệu ảnh vệ tinh khí tượng và các loại số liệu khí tượng thủy văn trực tiếp từ vệ tinh thời tiết hoặc thông qua vệ tinh viễn thông.\n16. Firmware là một chương trình máy\ntính đặc biệt để điều khiển cấp thấp nhiều thiết bị điện tử.\n17. Bộ điều hướng\nlà bộ phối hợp trở kháng giữa ăng ten thu hoặc phát và máy thu hoặc phát vô tuyến điện.\n18. Hệ thống truyền hình trực tuyến\nlà hệ thống phần cứng, phần mềm thực hiện truyền tải hình ảnh, âm thanh giữa hai hoặc nhiều điểm từ xa kết nối qua đường truyền mạng để đưa tín hiệu âm thanh và hình ảnh của các phòng họp đến với nhau như đang ngồi họp cùng một phòng họp.\n19. MCU (Multipoint Control Unit) là\nthiết bị quản lý đa điểm.\n20. DMA (Distributed Media Application)\nlà thiết bị phân phối các ứng dụng truyền thông đa phương tiện.\nChương II\nQUY ĐỊNH CHI TIẾT\nĐiều 4. Giám sát hoạt động hệ thống phụ trợ phòng máy chủ dùng cho chuyên ngành khí tượng thủy văn\n1. Giám sát hệ thống camera:\na) Kiểm tra phần\ncứng camera, đầu ghi hình và cáp truyền tín hiệu;\nb) Kiểm tra tính năng kỹ thuật phần mềm\nquản lý, điều khiển camera và phân vùng lưu trữ dữ liệu hình ảnh;\nc) Theo dõi liên tục hoạt động của hệ\nthống.\n2. Hệ thống giám sát môi trường:\na) Kiểm tra sơ bộ các thiết bị thành\nphần của hệ thống;\nb) Kiểm tra trạng thái tín hiệu của\ncác cảm biến đưa về hệ thống giám sát tập trung;\nc) Kiểm tra, phân tích tập tin nhật\nký của hệ thống;\nd) Theo dõi liên tục hoạt động của hệ\nthống.\n3. Giám sát hệ thống nguồn điện lưới:\na) Kiểm tra các thông số nguồn điện;\nb) Theo dõi hoạt động của các tủ cấp điện lưới.\n4. Giám sát hệ thống UPS:\na) Kiểm tra sơ bộ các bất thường có\nkhả năng gây hư hỏng UPS;\nb) Kiểm tra các thông số kỹ thuật của\nUPS;\nc) Theo dõi các thông số kỹ thuật của\nUPS thông qua phần mềm quản lý giám sát.\n5. Giám sát hệ thống phòng cháy, chữa\ncháy:\na) Kiểm tra sơ bộ tình trạng bên\nngoài của hệ thống, dấu hiệu hư hỏng, kết nối giữa các thành phần thiết bị, nguồn cấp;\nb) Kiểm tra bình ắc quy;\nc) Kiểm tra áp suất bình khí;\nd) Kiểm tra chức năng chuyển nguồn tự\nđộng của hệ thống;\nđ) Phân tích các cảnh báo lỗi hệ thống\ntrên màn hình hiển thị của tủ điều khiển;\ne) Theo dõi liên tục hoạt động của hệ\nthống.\n6. Giám sát hệ thống điều hòa:\na) Kiểm tra hoạt động của quạt dàn lạnh;\nb) Kiểm tra hoạt động của quạt đảo;\nc) Kiểm tra nhiệt độ, độ ẩm qua bảng điều\nkhiển;\nd) Thực hiện luân phiên chuyển đổi hoạt\nđộng giữa các điều hòa.\n7. Chế độ thực hiện:\na) Chế độ giám\nsát thực hiện liên tục 24/24 giờ, chia làm 03 ca;\nb) Chế độ kiểm\ntra sơ bộ thực hiện 2 lần/ca;\nc) Sau mỗi ca làm việc ghi nhật ký\ngiám sát hoạt động hệ thống phụ trợ phòng máy chủ dùng cho chuyên ngành khí tượng thủy văn.\nĐiều 5. Duy trì hoạt động hệ thống phụ trợ phòng máy chủ dùng cho chuyên ngành khí tượng thủy văn\n1. Duy trì hoạt động hệ thống camera:\na) Xây dựng kế hoạch, chuẩn bị tài liệu,\nthiết bị, vật tư, dụng cụ cần thiết và thông báo đến các bộ phận liên quan;\nb) Kiểm tra chi tiết kỹ thuật các thiết\nbị thành phần của hệ thống;\nc) Bảo trì, bảo dưỡng hệ thống;\nd) Thay thế linh kiện, thiết bị;\nd) Xử lý sự cố phát sinh.\n2. Duy trì hoạt động hệ thống giám\nsát môi trường:\na) Xây dựng kế hoạch, chuẩn bị tài liệu,\nthiết bị, vật tư, dụng cụ cần thiết và thông báo đến các bộ phận liên quan;\nb) Kiểm tra chi tiết kỹ thuật của từng\nthiết bị thành phần;\nc) Kiểm tra tính năng của từng cảm biến\nvà các chức năng của hệ thống xử lý trung tâm;\nd) Xử lý sự cố phát sinh;\nđ) Bảo trì, bảo dưỡng hệ thống;\ne) Thay thế linh kiện, thiết bị.\n3. Duy trì hoạt động hệ thống nguồn\ndiện lưới:\na) Xây dựng kế hoạch, chuẩn bị tài liệu,\nthiết bị, vật tư, dụng cụ cần thiết và thông báo đến các bộ phận liên quan;\nb) Kiểm tra chi tiết kỹ thuật các\nthành phần nguồn điện;\nc) Xử lý các sự cố phát sinh;\nd) Bảo trì, bảo dưỡng hệ thống;\nđ) Thay thế linh kiện, thiết bị.\n4. Duy trì hoạt động hệ thống UPS:\na) Xây dựng kế hoạch, chuẩn bị tài liệu,\nthiết bị, vật tư, dụng cụ cần thiết và thông báo đến các bộ phận liên quan;\nb) Kiểm tra chi tiết kỹ thuật từng\nthiết bị thành phần;\nc) Kiểm tra các chức năng của hệ thống;\nd) Xử lý sự cố phát sinh;\nđ) Bảo trì, bảo dưỡng hệ thống;\ne) Thay thế linh kiện, thiết bị.\n5. Duy trì hoạt động hệ thống phòng\ncháy, chữa cháy:\na) Xây dựng kế hoạch, chuẩn bị tài liệu,\nthiết bị, vật tư, dụng cụ cần thiết và thông báo đến các bộ phận liên quan;\nb) Kiểm tra hoạt động của hệ thống cảnh\nbáo bằng âm thanh;\nc) Cô lập tính năng tự động kích hoạt\nchữa cháy tại tủ điều khiển trung tâm của hệ thống;\nd) Kiểm tra cảm biến khói;\nđ) Kiểm tra cảm biến nhiệt;\ne) Kiểm tra chức năng kích hoạt phun\nkhí của hệ thống;\ng) Kiểm tra chức năng sẵn sàng chữa\ncháy tự động của hệ thống;\nh) Vệ sinh sơ bộ các cảm biến;\ni) Kết nối lại hệ thống với tủ điều\nkhiển trung tâm;\nk) Xử lý sự cố phát sinh;\nl) Bảo trì, bảo dưỡng hệ thống;\nm) Thay thế linh kiện, thiết bị.\n6. Duy trì hoạt động hệ thống điều\nhòa:\na) Xây dựng kế hoạch, chuẩn bị tài liệu,\nthiết bị, vật tư, dụng cụ cần thiết và thông báo đến các bộ phận liên quan;\nb) Kiểm tra hiệu suất của dàn nóng;\nc) Kiểm tra chi tiết kỹ thuật dàn lạnh;\nd) Kiểm tra hệ thống ống dẫn khí lạnh\nvà thoát nước thải của điều hòa; đ) Kiểm tra cường độ dòng diện;\ne) Xử lý sự cố phát sinh;\ng) Bảo trì, bảo dưỡng hệ thống;\nh) Thay thế linh kiện, thiết bị.\n7. Duy trì hoạt động hệ thống chống\nsét:\na) Xây dựng kế hoạch, chuẩn bị tài liệu,\nthiết bị, vật tư, dụng cụ cần thiết;\nb) Kiểm tra chi tiết kỹ thuật hệ thống\ncắt lọc sét lan truyền đường nguồn;\nc) Kiểm tra chi tiết kỹ thuật hệ thống\ntiếp địa;\nd) Xử lý sự cố phát sinh;\nđ) Bảo trì, bảo dưỡng hệ thống;\ne) Thay thế linh kiện, thiết bị.\n8. Chế độ thực\nhiện:\na) Kiểm tra chi tiết kỹ thuật của hệ\nthống thực hiện 01 lần/tháng;\nb) Bảo trì, bảo dưỡng thực hiện 01 lần/6\ntháng;\nc) Thay thế linh kiện, thiết bị thực\nhiện theo quy định hiện hành, theo tài liệu kỹ thuật của nhà sản xuất, hết thời hạn sử dụng hoặc bị hư hỏng;\nd) Hàng tháng lập báo cáo công tác\nduy trì hoạt động hệ thống phụ trợ phòng máy chủ dùng cho chuyên ngành khí tượng thủy văn.\nĐiều 6. Vận hành và duy trì hoạt động trạm thu vệ tinh khí tượng\n1. Kiểm tra hệ thống Outdoor:\na) Đo kiểm tra chất lượng tín hiệu và\ncường độ tín hiệu;\nb) Kiểm tra, căn chỉnh góc ngẩng, góc\nphương vị của ăng ten;\nc) Kiểm tra, căn chỉnh vị trí góc\nxoay, độ lệch tâm, khoảng cách của LNB và Feed horn so với bề mặt phản xạ tín hiệu;\nd) Kiểm tra kết nối giữa các thiết bị,\nchất lượng của cáp tín hiệu;\nđ) Kiểm tra hệ thống chống sét trực\ntiếp, hệ thống/thiết bị chống sét lan truyền đường nguồn, thiết bị chống sét lan truyền đường tín hiệu, hệ thống tiếp địa cho ăng ten, cáp đồng trục và thiết bị cắt lọc sét lan truyền đường nguồn;\ne) Kiểm tra hệ thống cột, dây cáp néo\năng ten.\n2. Vận hành hệ thống Indoor:\na) Kiểm tra,\ngiám sát hoạt động của đầu thu tín hiệu vệ tinh và các thiết bị liên quan của hệ thống;\nb) Vận hành phần cứng của hệ thống;\nc) Vận hành phần mềm của hệ thống.\n3. Quản lý cấu hình và Firmware:\na) Sao lưu cấu hình và Firmware hiện\ntại của hệ thống;\nb) Thay đổi, cập\nnhật, thông tin cấu hình;\nc) Cập nhật Firmware;\nd) Kiểm tra hoạt động hệ thống sau\nthay đổi;\nđ) Sao lưu cấu hình mới.\n4. Bảo trì, bảo dưỡng hệ thống:\na) Xây dựng kế hoạch và thông báo cho\ncác bộ phận liên quan về thời gian bảo trì, bảo dưỡng định kỳ hoặc thay thế thiết bị;\nb) Bảo trì, bảo dưỡng hệ thống;\nc) Thay thế thiết bị;\nd) Kiểm tra vận hành hệ thống sau bảo\ntrì, bảo dưỡng, thay thế thiết bị.\n5. Xử lý sự cố:\na) Tiếp nhận và ghi nhận sự cố, đối\nchiếu danh mục sự cố;\nb) Xác minh sự cố của hệ thống;\nc) Phân tích nguyên nhân của sự cố;\nd) Đề xuất giải pháp khắc phục sự cố;\nd) Thực hiện khắc phục sự cố;\ne) Thay thế linh kiện, thiết bị.\n6. Chế độ thực hiện:\na) Kiểm tra hệ thống Outdoor thực hiện\n01 lần/tháng;\nb) Vận hành hệ thống Indoor thực hiện\n24/24 giờ;\nc) Thay đổi cấu hình cho phù hợp với\nyêu cầu của hệ thống;\nd) Cập nhật Firmware theo yêu cầu của\nnhà sản xuất;\nđ) Bảo trì, bảo dưỡng hệ thống thực\nhiện 01 lần/06 tháng;\ne) Thay thế linh kiện, thiết bị thực\nhiện theo quy định hiện hành, theo tài liệu kỹ thuật của nhà sản xuất, hết thời hạn sử dụng hoặc bị hư hỏng;\ng) Hàng tháng lập báo cáo công tác vận\nhành và duy trì hoạt động trạm thu vệ tinh khí tượng.\nĐiều 7. Vận hành và duy trì hoạt động trạm Hub của hệ thống VSAT khí tượng thủy văn\n1. Kiểm tra hệ thống Outdoor của trạm\nHub:\na) Đo kiểm tra chất lượng tín hiệu và\ncường độ tín hiệu;\nb) Kiểm tra, căn chỉnh góc ngẩng, góc\nphương vị của ăng ten;\nc) Kiểm tra, căn chỉnh vị trí góc\nxoay, độ lệch tâm, khoảng cách của LNB so với bề mặt phản xạ tín hiệu;\nd) Kiểm tra công suất nguồn tín hiệu\nđầu vào thiết bị thu phát tín hiệu vệ tinh, các đầu giắc cắm, nguồn cung cấp điện, nhiệt độ thiết bị, quạt tản nhiệt;\nđ) Kiểm tra kết nối cáp tín hiệu với\ncác thiết bị LNB, LNA, BUC, OMT;\ne) Kiểm tra độ suy hao của cáp tín hiệu;\ng) Kiểm tra ống dẫn sóng;\nh) Kiểm tra hệ thống chống sét trực\ntiếp, hệ thống/thiết bị chống sét lan truyền đường nguồn, thiết bị chống sét lan truyền đường tín hiệu, hệ thống tiếp địa cho ăng ten, cáp đồng trục, thiết bị cắt sét lan truyền đường nguồn;\ni) Kiểm tra hệ thống cột, dây cáp néo\năng ten.\n2. Vận hành hệ thống Indoor của trạm\nHub:\na) Kiểm tra hệ thống nguồn điện, thiết\nbị cắt lọc sét lan truyền;\nb) Kiểm tra kết nối giữa các thành phần\ncủa hệ thống;\nc) Kiểm tra trạng thái đèn của mô đem\nthu phát;\nd) Thiết lập các thông số điều chế, tốc độ mã hóa, mức độ công suất đầu ra, thiết lập\nmô hình hoạt động;\nd) Kiểm tra cơ chế bảo mật;\ne) Giám sát tỷ lệ rót gói, thông số đường truyền;\ng) Vận hành máy chủ, máy trạm của trạm\nHub;\nh) Vận hành hệ thống NMS.\n3. Quản lý cấu hình và Firmware thực\nhiện theo quy định tại khoản 3 Điều 6 Thông tư này.\n4. Bảo trì, bảo dưỡng hệ thống thực\nhiện theo quy định tại khoản 4 Điều 6 Thông tư này.\n5. Xử lý sự cố thực hiện theo quy định\ntại khoản 5 Điều 6 Thông tư này.\n6. Chế độ thực\nhiện:\na) Chế độ vận hành và duy trì hoạt động\ntrạm Hub của hệ thống VSAT khí tượng thủy văn được thực hiện theo quy định tại các điểm a đến điểm e khoản 6 Điều 6 Thông tư này;\nb) Hàng tháng lập báo cáo công tác vận\nhành và duy trì hoạt động trạm Hub của hệ thống VSAT khí tượng thủy văn.\nĐiều 8. Vận hành và duy trì hoạt động trạm Remote của hệ thống VSAT khí tượng thủy văn\n1. Kiểm tra hệ thống Outdoor của trạm\nRemote:\na) Đo kiểm tra chất lượng tín hiệu và\ncường độ tín hiệu; kiểm tra, căn chỉnh góc ngẩng, góc phương vị của ăng ten;\nb) Kiểm tra, căn chỉnh vị trí góc\nxoay, độ lệch tâm, khoảng cách của LNB so với bề mặt phản xạ tín hiệu;\nc) Kiểm tra thiết bị đổi tần lên và\nkhuếch đại công suất;\nd) Kiểm tra hệ thống cột, dây cáp néo\năng ten;\nđ) Kiểm tra chất lượng cáp tín hiệu kết\nnối giữa các thiết bị LNB, BUC;\ne) Kiểm tra hệ thống chống sét trực\ntiếp, hệ thống hoặc thiết bị chống sét lan truyền đường nguồn, thiết bị chống sét lan truyền đường tín hiệu, hệ thống tiếp địa cho ăng ten, cáp đồng trục, thiết bị cắt sét lan truyền đường nguồn.\n2. Vận hành hệ thống Indoor của trạm\nRemote:\na) Kiểm tra hệ thống nguồn điện, thiết bị cắt lọc sét lan truyền;\nb) Kiểm tra kết nối giữa các thành phần\ncủa hệ thống;\nc) Giám sát trạng thái đèn của mô đem thu phát, trạng thái kết nối và truyền\nsố liệu giữa trạm Remote và trạm Hub, thông số đường truyền;\nd) Vận hành máy chủ, máy trạm của trạm\nRemote.\n3. Quản lý cấu hình và Firmware thực\nhiện theo quy định tại khoản 3 Điều 6 Thông tư này.\n4. Bảo trì, bảo dưỡng hệ thống thực\nhiện theo quy định tại khoản 4 Điều 6 Thông tư này.\n5. Xử lý sự cố thực hiện theo quy định tại khoản 5 Điều 6 Thông tư này.\n6. Chế độ thực hiện:\na) Chế độ vận hành và duy trì hoạt động\ntrạm Remote của hệ thống VSAT khí tượng thủy văn được thực hiện theo quy định tại các điểm a đến điểm e khoản 6 Điều 6 Thông tư này;\nb) Hàng tháng lập báo cáo công tác vận\nhành và duy trì hoạt động trạm Remote của hệ thống VSAT khí tượng thủy văn.\nĐiều 9. Vận hành và duy trì hoạt động trạm vô tuyến điện truyền nhận thông tin, dữ liệu khí tượng thủy văn\n1. Kiểm tra hệ thống Outdoor:\na) Kiểm tra ăng ten và các thông số kỹ\nthuật;\nb) Kiểm tra độ suy hao của dây dẫn\ntín hiệu từ ăng ten tới thiết bị thu phát;\nc) Kiểm tra hệ thống cột, dây cáp néo\năng ten;\nd) Kiểm tra hệ thống chống sét trực\ntiếp, hệ thống/thiết bị chống sét lan truyền đường nguồn, hệ thống chống sét lan truyền đường tín hiệu, hệ thống tiếp địa;\n2. Vận hành hệ thống Indoor:\na) Chuẩn bị công cụ, dụng cụ, tài liệu;\nb) Kiểm tra nguồn điện một chiều cung cấp cho thiết bị;\nc) Kiểm tra bộ điều hướng;\nd) Kiểm tra thiết bị phần cứng, thiết\nbị thu phát;\nđ) Cài đặt các thông số kỹ thuật;\ne) Liên lạc thử với các điểm cần liên\nlạc;\ng) Thu, phát dữ liệu.\n3. Quản lý thông tin cấu hình và\nFirmware thực hiện theo quy định tại khoản 3 Điều 6 Thông tư này.\n4. Bảo trì, bảo dưỡng hệ thống và\nthay thế linh kiện, thiết bị thực hiện theo quy định tại khoản 4 Điều 6 Thông tư này.\n5. Quy trình xử lý sự cố thực hiện\ntheo quy định tại khoản 5 Điều 6 Thông tư này.\n6. Chế độ thực hiện:\na) Chế độ vận hành và duy trì hoạt động\ntrạm vô tuyến điện truyền nhận thông tin, dữ liệu khí tượng thủy văn được thực hiện theo quy định tại các điểm a đến điểm e khoản 6 Điều 6 Thông tư này;\nb) Hàng tháng lập báo cáo công tác vận\nhành và duy trì hoạt động trạm vô tuyến điện truyền nhận thông tin, dữ liệu khí tượng thủy văn.\nĐiều 10. Vận hành và duy trì hoạt động hệ thống truyền hình trực tuyến phục vụ tác nghiệp khí tượng thủy văn\n1. Vận hành hệ thống trung tâm:\na) Kiểm tra thiết bị MCU, DMA, Media\nsuite, G8, Deltapath, kết nối giữa các thiết bị và giám sát hoạt động của các thiết bị trong toàn bộ thời gian phiên họp bảo đảm liên tục, hiệu quả;\nb) Kiểm tra băng thông tổng, băng\nthông kết nối đến các điểm cầu, chất lượng kênh truyền, trạng thái kết nối đến các điểm cầu;\nc) Vận hành các thiết bị của hệ thống.\n2. Vận hành phần mềm quản lý phiên họp:\na) Khởi động phần mềm và thiết lập cấu\nhình của hệ thống;\nb) Thiết lập lịch cuộc họp trực tuyến và các thông tin liên quan;\nc) Kiểm soát, điều khiển thiết bị đầu\ncuối tại các điểm cầu;\nd) Thiết lập chế độ trình bày hình ảnh\ncủa các điểm cầu;\nđ) Giám sát chất lượng hình ảnh, âm\nthanh và điều chỉnh chế độ hiển thị hình ảnh tối ưu phù hợp với băng thông thực tế.\n3. Vận hành hệ thống tại các điểm cầu:\na) Khởi động hệ thống các thiết bị tại\nđiểm cầu;\nb) Kiểm tra tình trạng thiết bị và\ncác kết nối giữa thành phần thiết bị trong hệ thống;\nc) Kiểm tra kênh truyền từ điểm cầu đến\nhệ thống trung tâm;\nd) Kết nối từ điểm cầu đến phòng họp\ntrực tuyến;\nđ) Phối hợp với cán bộ kỹ thuật tại điểm\ncầu trung tâm kiểm tra chất lượng hình ảnh, âm thanh;\ne) Điều khiển các thiết bị theo yêu cầu;\ng) Tắt thiết bị.\n4. Hỗ trợ kỹ thuật và xử lý sự cố\na) Tiếp nhận/ghi nhận sự cố;\nb) Xác minh sự cố;\nc) Phân tích nguyên nhân của sự cố;\nd) Đề xuất giải pháp khắc phục sự cố;\nd) Phối hợp khắc phục sự cố;\ne) Cập nhật danh mục sự cố.\n5. Bảo dưỡng hệ thống và thay thế\nlinh kiện, thiết bị thực hiện theo quy định tại khoản 5 Điều 6 Thông tư này.\n6. Chế độ thực hiện:\na) Vận hành hệ thống trung tâm, phần\nmềm quản lý cuộc họp và thiết bị tại các điểm cầu thực hiện 01 lần/cuộc họp;\nb) Bảo trì, bảo dưỡng hệ thống được thực hiện 01 lần/06 tháng;\nc) Thay thế linh kiện, thiết bị thực\nhiện theo quy định hiện hành, theo tài liệu kỹ thuật của nhà sản xuất, hết thời hạn sử dụng hoặc bị hư hỏng.\nd) Sau mỗi phiên họp ghi nhật kí vận\nhành hệ thống;\nđ) Hàng tháng lập báo cáo tổng hợp\ncông tác vận hành và duy trì hoạt động hệ thống truyền hình trực tuyến phục vụ tác nghiệp khí tượng thủy văn.\nĐiều 11. Giám sát và đánh giá chất lượng truyền nhận, phát báo thông tin, dữ liệu khí tượng thủy văn thời gian thực\n1. Kiểm tra tình trạng hoạt động của\ncác thiết bị, phần mềm theo dõi truyền nhận thông tin, dữ liệu.\n2. Giám sát quá trình truyền nhận và\nphát báo thông tin, dữ liệu:\na) Giám sát khối lượng thông tin, dữ\nliệu;\nb) Giám sát thời gian truyền nhận và\nphát báo;\nc) Kiểm tra cấu trúc, định dạng thông\ntin, dữ liệu.\n3. Xử lý sự cố:\na) Trường hợp không nhận được thông\ntin, dữ liệu hoặc không đủ khối lượng, sai cấu trúc, định dạng, không đúng thời gian truyền nhận theo quy định, bộ phận giám sát thông tin, báo cáo đến các đơn vị truyền thông tin, dữ liệu để xử lý;\nb) Trường hợp lỗi đường truyền và phần mềm thì yêu cầu bộ phận kỹ thuật xử lý;\nc) Ghi nhật ký.\n4. Đánh giá chất lượng truyền nhận và\nphát báo thông tin, dữ liệu:\na) Đánh giá tính đầy đủ khối lượng\nthông tin, dữ liệu;\nb) Đánh giá cấu trúc, định dạng của\nthông tin, dữ liệu đúng hoặc sai;\nc) Đánh giá tính kịp thời việc truyền\nnhận và phát báo thông tin, dữ liệu;\nd) Lập báo cáo đánh giá chất lượng\ntruyền nhận và phát báo.\nĐiều 12. Thu nhận, xử lý, lưu trữ và chia sẻ thông tin, dữ liệu số khí tượng thủy văn\n1. Thu nhận thông tin, dữ liệu khí tượng\nthủy văn:\na) Chuẩn bị thiết bị thu nhận, kiểm\ntra hoạt động của hệ thống truyền nhận số liệu và xác định thời gian thu nhận thông tin, dữ liệu;\nb) Thực hiện thu nhận thông tin, dữ\nliệu;\nc) Kiểm tra khối lượng, cấu trúc, định\ndạng của thông tin, dữ liệu và thời gian thu nhận;\nd) Đơn vị thu nhận thông tin, dữ liệu\nphản hồi kết quả thu nhận đến đơn vị giao nộp.\n2. Xử lý thông tin, dữ liệu khí tượng\nthủy văn:\na) Chuẩn bị và kiểm tra hoạt động của\nhệ thống xử lý thông tin, dữ liệu;\nb) Kiểm tra tính đầy đủ của thông tin, dữ liệu;\nc) Tính toán các thông số đặc trưng\nvà kiểm tra các đường quá trình.\n3. Lưu trữ thông\ntin, dữ liệu khí tượng thủy văn:\na) Cập nhật thông tin, dữ liệu vào cơ\nsở dữ liệu;\nb) Cập nhật danh mục dữ liệu và\nmetadata;\nc) Sao lưu định\nkỳ 1 lần/tháng.\n4. Giao nộp thông tin, dữ liệu khí tượng\nthủy văn về đơn vị thu nhận theo quy định của pháp luật.\n5. Chia sẻ thông tin, dữ liệu khí tượng\nthủy văn:\na) Chia sẻ thông tin, dữ liệu cho hệ\nthống dự báo, cảnh báo khí tượng thủy văn quốc gia;\nb) Chia sẻ thông tin, dữ liệu theo\nyêu cầu của tổ chức, cá nhân thực hiện theo quy định tại Điều 26 Nghị định số 38/2016/NĐ-CP ngày 15 tháng 5 năm 2016 của Chính phủ quy định chi tiết một số điều của Luật khí tượng thủy văn và Điều 21 Nghị định, số 73/2017/NĐ-CP ngày 14 tháng 6 năm 2017 của Chính phủ về thu thập, quản lý, khai thác và sử dụng thông tin dữ liệu tài nguyên và môi trường.\nĐiều 13. Bảo quản, bổ sung, khai thác thông tin dữ liệu khí tượng văn trong hoạt động thư viện\n1. Bảo quản kho thư viện khí tượng thủy\nvăn:\na) Kiểm tra an toàn kho thư viện;\nb) Vệ sinh tài liệu và kho thư viện;\nc) Sắp xếp tài liệu;\nd) Lập sổ theo dõi tài liệu;\nd) Thống kê danh mục tài liệu;\ne) Tu bổ, khắc phục các tài liệu bị\như hỏng nhỏ.\n2. Bổ sung tài liệu kho thư viện khí\ntượng thủy văn:\na) Đăng ký bổ sung tài liệu;\nb) Bổ sung tài liệu;\nc) Nhập kho thư viện;\nd) Sắp xếp và giới thiệu tài liệu mới.\n3. Khai thác kho thư viện khí tượng\nthủy văn:\na) Tiếp nhận yêu cầu khai thác;\nb) Cập nhật thông tin khai thác;\nc) Phục vụ khai thác.\nChương III\nĐIỀU KHOẢN THI\nHÀNH VÀ TỔ CHỨC THỰC HIỆN\nĐiều 14. Hiệu lực thi hành Thông tư này có hiệu lực thi hành kể từ ngày 03 tháng 12 năm 2018.\nĐiều 15. Trách nhiệm thực hiện\n1. Các Bộ, cơ quan ngang Bộ, cơ quan\nthuộc Chính phủ, Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương và các cơ quan, tổ chức, cá nhân có liên quan chịu trách nhiệm thực hiện Thông tư này.\n2. Tổng cục trưởng Tổng cục Khí tượng\nThủy văn có trách nhiệm giúp Bộ trưởng Bộ Tài nguyên và Môi trường hướng dẫn, đôn đốc, kiểm tra việc thực hiện Thông tư này.\n3. Trong quá trình thực hiện Thông tư\nnày, nếu có khó khăn, vướng mắc, các cơ quan, tổ chức, cá nhân phản ánh về Bộ Tài nguyên và Môi trường (qua Tổng cục Khí tượng Thủy văn) để xem xét, sửa đổi, bổ sung cho phù hợp./.\nNơi nhận:\n- Văn phòng TW Đảng;\n- Văn phòng Quốc hội;\n- Văn phòng Chính phủ;\n- Các Bộ, cơ quan ngang Bộ, cơ quan thuộc CP;\n- UBND các tỉnh, thành phố trực thuộc TW;\n- Cục Kiểm tra văn bản QPPL, Bộ Tư pháp;\n- Bộ trưởng, các Thứ trưởng Bộ TN&MT;\n- Sở TN&MT các tỉnh, thành phố trực thuộc TW;\n- Công báo; Cổng Thông tin điện tử Chính phủ;\n- Các đơn vị trực thuộc Bộ TN&MT;\n- Cổng TTĐT Bộ TN&MT;\n- Lưu: VT, KHCN, PC, TCKTTV (200).\nKT. BỘ TRƯỞNG\nTHỨ TRƯỞNG\nLê Công Thành",
+  "tree": {
+    "parts": [
+      {
+        "part_id": "doc:269599:part:1",
+        "part_type": "main",
+        "part_title": null,
+        "reference": null,
+        "direct_text": "THÔNG TƯ\nQUY ĐỊNH KỸ THUẬT VỀ QUY TRÌNH CÔNG TÁC THÔNG TIN, DỮ LIỆU KHÍ TƯỢNG THỦY\nVĂN\nCăn cứ Luật khí tượng thủy văn ngày 23 tháng 11 năm 2015; Căn cứ Nghị định số 36/2017/NĐ-CP ngày 04 tháng 4 năm 2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài nguyên và Môi trường; Căn cứ Nghị định số 73/2017/NĐ-CP ngày 14 tháng 6 năm 2017 của Chính phủ về thu thập, quản lý, khai thác và sử dụng thông tin, dữ liệu tài nguyên và môi trường; Theo đề nghị của Tổng cục trưởng Tổng cục Khí tượng Thủy văn, Vụ trưởng Vụ Khoa học và Công nghệ và Vụ trưởng Vụ pháp chế; Bộ trưởng Bộ Tài nguyên và Môi trường ban hành Thông tư quy định kỹ thuật về quy trình công tác thông tin, dữ liệu khí tượng thủy văn.",
+        "chapters": [
+          {
+            "chapter_id": "doc:269599:part:1:chapter:1",
+            "number": "I",
+            "title": "QUY ĐỊNH CHUNG",
+            "content": "Chương I\nQUY ĐỊNH CHUNG",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:269599:part:1:article:1",
+                "number": "1",
+                "title": "Phạm vi điều chỉnh Thông tư này quy định kỹ thuật về quy trình công tác thông tin, dữ liệu khí tượng thủy văn bao gồm các nội dung sau:",
+                "content": "Điều 1. Phạm vi điều chỉnh Thông tư này quy định kỹ thuật về quy trình công tác thông tin, dữ liệu khí tượng thủy văn bao gồm các nội dung sau:",
+                "clauses": [
+                  {
+                    "clause_id": "doc:269599:part:1:article:1:clause:1",
+                    "number": "1",
+                    "content": "1. Giám sát và duy trì hoạt động hệ\nthống phụ trợ phòng máy chủ dùng cho chuyên ngành khí tượng thủy văn.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:269599:part:1:article:1:clause:2",
+                    "number": "2",
+                    "content": "2. Vận hành và duy trì hoạt động trạm\nthu vệ tinh khí tượng.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:269599:part:1:article:1:clause:3",
+                    "number": "3",
+                    "content": "3. Vận hành và duy trì hoạt động hệ\nthống VSAT trong lĩnh vực khí tượng thủy văn.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:269599:part:1:article:1:clause:4",
+                    "number": "4",
+                    "content": "4. Vận hành và duy trì hoạt động trạm\nvô tuyến điện truyền, nhận thông tin, dữ liệu khí tượng thủy văn.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:269599:part:1:article:1:clause:5",
+                    "number": "5",
+                    "content": "5. Vận hành và duy trì hoạt động hệ\nthống truyền hình trực tuyến phục vụ tác nghiệp khí tượng thủy văn.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:269599:part:1:article:1:clause:6",
+                    "number": "6",
+                    "content": "6. Giám sát và đánh giá chất lượng\ntruyền nhận, phát báo thông tin, dữ liệu khí tượng thủy văn thời gian thực.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:269599:part:1:article:1:clause:7",
+                    "number": "7",
+                    "content": "7. Thu nhận, xử lý, lưu trữ và chia sẻ\nthông tin, dữ liệu số khí tượng thủy văn.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:269599:part:1:article:1:clause:8",
+                    "number": "8",
+                    "content": "8. Bảo quản, bổ sung, khai thác thông\ntin, dữ liệu khí tượng thủy văn trong hoạt động thư viện.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:269599:part:1:article:2",
+                "number": "2",
+                "title": "Đối tượng áp dụng Thông tư này áp dụng đối với cơ quan nhà nước, đơn vị sự nghiệp công lập, tổ chức và cá nhân có liên quan đến công tác thông tin, dữ liệu khí tượng thủy văn.",
+                "content": "Điều 2. Đối tượng áp dụng Thông tư này áp dụng đối với cơ quan nhà nước, đơn vị sự nghiệp công lập, tổ chức và cá nhân có liên quan đến công tác thông tin, dữ liệu khí tượng thủy văn.",
+                "clauses": [],
+                "points": []
+              },
+              {
+                "article_id": "doc:269599:part:1:article:3",
+                "number": "3",
+                "title": "Giải thích từ ngữ và chữ viết tắt Trong Thông tư này, các từ ngữ dưới đây được hiểu như sau:",
+                "content": "Điều 3. Giải thích từ ngữ và chữ viết tắt Trong Thông tư này, các từ ngữ dưới đây được hiểu như sau:",
+                "clauses": [
+                  {
+                    "clause_id": "doc:269599:part:1:article:3:clause:1",
+                    "number": "1",
+                    "content": "1. Hệ thống phụ trợ phòng máy chủ là\ntập hợp các hệ thống thiết bị nhằm đảm bảo môi trường hoạt động cho các thiết bị công nghệ thông tin gồm: camera, giám sát môi trường, nguồn điện lưới, bộ lưu điện (UPS), phòng cháy và chữa cháy, điều hòa và chống sét.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:269599:part:1:article:3:clause:2",
+                    "number": "2",
+                    "content": "2. UPS (Uninterruptible Power Supply)\nlà hệ thống lưu trữ điện.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:269599:part:1:article:3:clause:3",
+                    "number": "3",
+                    "content": "3. Hệ thống giám sát môi trường là hệ\nthống giám sát các thông số nhiệt độ, độ ẩm, rò rỉ nước trong phòng máy chủ và gửi thông tin cảnh báo.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:269599:part:1:article:3:clause:4",
+                    "number": "4",
+                    "content": "4. Hệ thống Outdoor là các thiết bị\nthuộc hệ thống trạm thu vệ tinh và vô tuyến điện ngoài trời.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:269599:part:1:article:3:clause:5",
+                    "number": "5",
+                    "content": "5. Hệ thống Indoor là các thiết bị\nthuộc hệ thống trạm thu vệ tinh và vô tuyến điện trong nhà.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:269599:part:1:article:3:clause:6",
+                    "number": "6",
+                    "content": "6. Hệ thống VSAT (Very Small Aperture\nTerminal) là hệ thống các trạm thông tin vệ tinh mặt đất cỡ nhỏ, gồm trạm Hub và các trạm Remote.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:269599:part:1:article:3:clause:7",
+                    "number": "7",
+                    "content": "7. Trạm Hub là trạm trung tâm có chức\nnăng quản lý, điều khiển các trạm Remote trong hệ thống VSAT.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:269599:part:1:article:3:clause:8",
+                    "number": "8",
+                    "content": "8. Trạm Remote là trạm thành phần và\nchịu sự quản lý, điều khiển của trạm Hub.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:269599:part:1:article:3:clause:9",
+                    "number": "9",
+                    "content": "9. LNA (Low Noise Amplifier) là bộ\nkhuếch đại tạp âm thấp.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:269599:part:1:article:3:clause:10",
+                    "number": "10",
+                    "content": "10. LNB (Low noise block\ndownconverte): Bộ chuyển đổi tần số sóng vệ tinh từ cao xuống thấp.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:269599:part:1:article:3:clause:11",
+                    "number": "11",
+                    "content": "11. OMT (Othormode Tranducer) là bộ\nchuyển đổi chế độ phân cực.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:269599:part:1:article:3:clause:12",
+                    "number": "12",
+                    "content": "12. BUG (Block Up Converter) là bộ\nchuyển đổi đường lên.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:269599:part:1:article:3:clause:13",
+                    "number": "13",
+                    "content": "13. Feed horn là loa chiếu xạ của ăng\nten.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:269599:part:1:article:3:clause:14",
+                    "number": "14",
+                    "content": "14. NMS (VSAT Network Management\nSystem) là hệ thống quản trị mạng của hệ thống VSAT.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:269599:part:1:article:3:clause:15",
+                    "number": "15",
+                    "content": "15. Trạm thu vệ tinh khí tượng là trạm\nthu dữ liệu ảnh vệ tinh khí tượng và các loại số liệu khí tượng thủy văn trực tiếp từ vệ tinh thời tiết hoặc thông qua vệ tinh viễn thông.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:269599:part:1:article:3:clause:16",
+                    "number": "16",
+                    "content": "16. Firmware là một chương trình máy\ntính đặc biệt để điều khiển cấp thấp nhiều thiết bị điện tử.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:269599:part:1:article:3:clause:17",
+                    "number": "17",
+                    "content": "17. Bộ điều hướng\nlà bộ phối hợp trở kháng giữa ăng ten thu hoặc phát và máy thu hoặc phát vô tuyến điện.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:269599:part:1:article:3:clause:18",
+                    "number": "18",
+                    "content": "18. Hệ thống truyền hình trực tuyến\nlà hệ thống phần cứng, phần mềm thực hiện truyền tải hình ảnh, âm thanh giữa hai hoặc nhiều điểm từ xa kết nối qua đường truyền mạng để đưa tín hiệu âm thanh và hình ảnh của các phòng họp đến với nhau như đang ngồi họp cùng một phòng họp.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:269599:part:1:article:3:clause:19",
+                    "number": "19",
+                    "content": "19. MCU (Multipoint Control Unit) là\nthiết bị quản lý đa điểm.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:269599:part:1:article:3:clause:20",
+                    "number": "20",
+                    "content": "20. DMA (Distributed Media Application)\nlà thiết bị phân phối các ứng dụng truyền thông đa phương tiện.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:269599:part:1:chapter:2",
+            "number": "II",
+            "title": "QUY ĐỊNH CHI TIẾT",
+            "content": "Chương II\nQUY ĐỊNH CHI TIẾT",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:269599:part:1:article:4",
+                "number": "4",
+                "title": "Giám sát hoạt động hệ thống phụ trợ phòng máy chủ dùng cho chuyên ngành khí tượng thủy văn",
+                "content": "Điều 4. Giám sát hoạt động hệ thống phụ trợ phòng máy chủ dùng cho chuyên ngành khí tượng thủy văn",
+                "clauses": [
+                  {
+                    "clause_id": "doc:269599:part:1:article:4:clause:1",
+                    "number": "1",
+                    "content": "1. Giám sát hệ thống camera:",
+                    "points": [
+                      {
+                        "point_id": "doc:269599:part:1:article:4:clause:1:point:1",
+                        "label": "a",
+                        "content": "a) Kiểm tra phần\ncứng camera, đầu ghi hình và cáp truyền tín hiệu;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:4:clause:1:point:2",
+                        "label": "b",
+                        "content": "b) Kiểm tra tính năng kỹ thuật phần mềm\nquản lý, điều khiển camera và phân vùng lưu trữ dữ liệu hình ảnh;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:4:clause:1:point:3",
+                        "label": "c",
+                        "content": "c) Theo dõi liên tục hoạt động của hệ\nthống.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:269599:part:1:article:4:clause:2",
+                    "number": "2",
+                    "content": "2. Hệ thống giám sát môi trường:",
+                    "points": [
+                      {
+                        "point_id": "doc:269599:part:1:article:4:clause:2:point:1",
+                        "label": "a",
+                        "content": "a) Kiểm tra sơ bộ các thiết bị thành\nphần của hệ thống;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:4:clause:2:point:2",
+                        "label": "b",
+                        "content": "b) Kiểm tra trạng thái tín hiệu của\ncác cảm biến đưa về hệ thống giám sát tập trung;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:4:clause:2:point:3",
+                        "label": "c",
+                        "content": "c) Kiểm tra, phân tích tập tin nhật\nký của hệ thống;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:4:clause:2:point:4",
+                        "label": "d",
+                        "content": "d) Theo dõi liên tục hoạt động của hệ\nthống.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:269599:part:1:article:4:clause:3",
+                    "number": "3",
+                    "content": "3. Giám sát hệ thống nguồn điện lưới:",
+                    "points": [
+                      {
+                        "point_id": "doc:269599:part:1:article:4:clause:3:point:1",
+                        "label": "a",
+                        "content": "a) Kiểm tra các thông số nguồn điện;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:4:clause:3:point:2",
+                        "label": "b",
+                        "content": "b) Theo dõi hoạt động của các tủ cấp điện lưới.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:269599:part:1:article:4:clause:4",
+                    "number": "4",
+                    "content": "4. Giám sát hệ thống UPS:",
+                    "points": [
+                      {
+                        "point_id": "doc:269599:part:1:article:4:clause:4:point:1",
+                        "label": "a",
+                        "content": "a) Kiểm tra sơ bộ các bất thường có\nkhả năng gây hư hỏng UPS;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:4:clause:4:point:2",
+                        "label": "b",
+                        "content": "b) Kiểm tra các thông số kỹ thuật của\nUPS;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:4:clause:4:point:3",
+                        "label": "c",
+                        "content": "c) Theo dõi các thông số kỹ thuật của\nUPS thông qua phần mềm quản lý giám sát.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:269599:part:1:article:4:clause:5",
+                    "number": "5",
+                    "content": "5. Giám sát hệ thống phòng cháy, chữa\ncháy:",
+                    "points": [
+                      {
+                        "point_id": "doc:269599:part:1:article:4:clause:5:point:1",
+                        "label": "a",
+                        "content": "a) Kiểm tra sơ bộ tình trạng bên\nngoài của hệ thống, dấu hiệu hư hỏng, kết nối giữa các thành phần thiết bị, nguồn cấp;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:4:clause:5:point:2",
+                        "label": "b",
+                        "content": "b) Kiểm tra bình ắc quy;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:4:clause:5:point:3",
+                        "label": "c",
+                        "content": "c) Kiểm tra áp suất bình khí;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:4:clause:5:point:4",
+                        "label": "d",
+                        "content": "d) Kiểm tra chức năng chuyển nguồn tự\nđộng của hệ thống;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:4:clause:5:point:5",
+                        "label": "đ",
+                        "content": "đ) Phân tích các cảnh báo lỗi hệ thống\ntrên màn hình hiển thị của tủ điều khiển;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:4:clause:5:point:6",
+                        "label": "e",
+                        "content": "e) Theo dõi liên tục hoạt động của hệ\nthống.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:269599:part:1:article:4:clause:6",
+                    "number": "6",
+                    "content": "6. Giám sát hệ thống điều hòa:",
+                    "points": [
+                      {
+                        "point_id": "doc:269599:part:1:article:4:clause:6:point:1",
+                        "label": "a",
+                        "content": "a) Kiểm tra hoạt động của quạt dàn lạnh;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:4:clause:6:point:2",
+                        "label": "b",
+                        "content": "b) Kiểm tra hoạt động của quạt đảo;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:4:clause:6:point:3",
+                        "label": "c",
+                        "content": "c) Kiểm tra nhiệt độ, độ ẩm qua bảng điều\nkhiển;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:4:clause:6:point:4",
+                        "label": "d",
+                        "content": "d) Thực hiện luân phiên chuyển đổi hoạt\nđộng giữa các điều hòa.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:269599:part:1:article:4:clause:7",
+                    "number": "7",
+                    "content": "7. Chế độ thực hiện:",
+                    "points": [
+                      {
+                        "point_id": "doc:269599:part:1:article:4:clause:7:point:1",
+                        "label": "a",
+                        "content": "a) Chế độ giám\nsát thực hiện liên tục 24/24 giờ, chia làm 03 ca;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:4:clause:7:point:2",
+                        "label": "b",
+                        "content": "b) Chế độ kiểm\ntra sơ bộ thực hiện 2 lần/ca;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:4:clause:7:point:3",
+                        "label": "c",
+                        "content": "c) Sau mỗi ca làm việc ghi nhật ký\ngiám sát hoạt động hệ thống phụ trợ phòng máy chủ dùng cho chuyên ngành khí tượng thủy văn.",
+                        "children": []
+                      }
+                    ]
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:269599:part:1:article:5",
+                "number": "5",
+                "title": "Duy trì hoạt động hệ thống phụ trợ phòng máy chủ dùng cho chuyên ngành khí tượng thủy văn",
+                "content": "Điều 5. Duy trì hoạt động hệ thống phụ trợ phòng máy chủ dùng cho chuyên ngành khí tượng thủy văn",
+                "clauses": [
+                  {
+                    "clause_id": "doc:269599:part:1:article:5:clause:1",
+                    "number": "1",
+                    "content": "1. Duy trì hoạt động hệ thống camera:",
+                    "points": [
+                      {
+                        "point_id": "doc:269599:part:1:article:5:clause:1:point:1",
+                        "label": "a",
+                        "content": "a) Xây dựng kế hoạch, chuẩn bị tài liệu,\nthiết bị, vật tư, dụng cụ cần thiết và thông báo đến các bộ phận liên quan;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:5:clause:1:point:2",
+                        "label": "b",
+                        "content": "b) Kiểm tra chi tiết kỹ thuật các thiết\nbị thành phần của hệ thống;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:5:clause:1:point:3",
+                        "label": "c",
+                        "content": "c) Bảo trì, bảo dưỡng hệ thống;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:5:clause:1:point:4",
+                        "label": "d",
+                        "content": "d) Thay thế linh kiện, thiết bị;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:5:clause:1:point:5",
+                        "label": "d",
+                        "content": "d) Xử lý sự cố phát sinh.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:269599:part:1:article:5:clause:2",
+                    "number": "2",
+                    "content": "2. Duy trì hoạt động hệ thống giám\nsát môi trường:",
+                    "points": [
+                      {
+                        "point_id": "doc:269599:part:1:article:5:clause:2:point:1",
+                        "label": "a",
+                        "content": "a) Xây dựng kế hoạch, chuẩn bị tài liệu,\nthiết bị, vật tư, dụng cụ cần thiết và thông báo đến các bộ phận liên quan;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:5:clause:2:point:2",
+                        "label": "b",
+                        "content": "b) Kiểm tra chi tiết kỹ thuật của từng\nthiết bị thành phần;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:5:clause:2:point:3",
+                        "label": "c",
+                        "content": "c) Kiểm tra tính năng của từng cảm biến\nvà các chức năng của hệ thống xử lý trung tâm;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:5:clause:2:point:4",
+                        "label": "d",
+                        "content": "d) Xử lý sự cố phát sinh;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:5:clause:2:point:5",
+                        "label": "đ",
+                        "content": "đ) Bảo trì, bảo dưỡng hệ thống;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:5:clause:2:point:6",
+                        "label": "e",
+                        "content": "e) Thay thế linh kiện, thiết bị.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:269599:part:1:article:5:clause:3",
+                    "number": "3",
+                    "content": "3. Duy trì hoạt động hệ thống nguồn\ndiện lưới:",
+                    "points": [
+                      {
+                        "point_id": "doc:269599:part:1:article:5:clause:3:point:1",
+                        "label": "a",
+                        "content": "a) Xây dựng kế hoạch, chuẩn bị tài liệu,\nthiết bị, vật tư, dụng cụ cần thiết và thông báo đến các bộ phận liên quan;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:5:clause:3:point:2",
+                        "label": "b",
+                        "content": "b) Kiểm tra chi tiết kỹ thuật các\nthành phần nguồn điện;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:5:clause:3:point:3",
+                        "label": "c",
+                        "content": "c) Xử lý các sự cố phát sinh;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:5:clause:3:point:4",
+                        "label": "d",
+                        "content": "d) Bảo trì, bảo dưỡng hệ thống;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:5:clause:3:point:5",
+                        "label": "đ",
+                        "content": "đ) Thay thế linh kiện, thiết bị.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:269599:part:1:article:5:clause:4",
+                    "number": "4",
+                    "content": "4. Duy trì hoạt động hệ thống UPS:",
+                    "points": [
+                      {
+                        "point_id": "doc:269599:part:1:article:5:clause:4:point:1",
+                        "label": "a",
+                        "content": "a) Xây dựng kế hoạch, chuẩn bị tài liệu,\nthiết bị, vật tư, dụng cụ cần thiết và thông báo đến các bộ phận liên quan;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:5:clause:4:point:2",
+                        "label": "b",
+                        "content": "b) Kiểm tra chi tiết kỹ thuật từng\nthiết bị thành phần;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:5:clause:4:point:3",
+                        "label": "c",
+                        "content": "c) Kiểm tra các chức năng của hệ thống;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:5:clause:4:point:4",
+                        "label": "d",
+                        "content": "d) Xử lý sự cố phát sinh;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:5:clause:4:point:5",
+                        "label": "đ",
+                        "content": "đ) Bảo trì, bảo dưỡng hệ thống;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:5:clause:4:point:6",
+                        "label": "e",
+                        "content": "e) Thay thế linh kiện, thiết bị.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:269599:part:1:article:5:clause:5",
+                    "number": "5",
+                    "content": "5. Duy trì hoạt động hệ thống phòng\ncháy, chữa cháy:",
+                    "points": [
+                      {
+                        "point_id": "doc:269599:part:1:article:5:clause:5:point:1",
+                        "label": "a",
+                        "content": "a) Xây dựng kế hoạch, chuẩn bị tài liệu,\nthiết bị, vật tư, dụng cụ cần thiết và thông báo đến các bộ phận liên quan;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:5:clause:5:point:2",
+                        "label": "b",
+                        "content": "b) Kiểm tra hoạt động của hệ thống cảnh\nbáo bằng âm thanh;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:5:clause:5:point:3",
+                        "label": "c",
+                        "content": "c) Cô lập tính năng tự động kích hoạt\nchữa cháy tại tủ điều khiển trung tâm của hệ thống;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:5:clause:5:point:4",
+                        "label": "d",
+                        "content": "d) Kiểm tra cảm biến khói;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:5:clause:5:point:5",
+                        "label": "đ",
+                        "content": "đ) Kiểm tra cảm biến nhiệt;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:5:clause:5:point:6",
+                        "label": "e",
+                        "content": "e) Kiểm tra chức năng kích hoạt phun\nkhí của hệ thống;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:5:clause:5:point:7",
+                        "label": "g",
+                        "content": "g) Kiểm tra chức năng sẵn sàng chữa\ncháy tự động của hệ thống;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:5:clause:5:point:8",
+                        "label": "h",
+                        "content": "h) Vệ sinh sơ bộ các cảm biến;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:5:clause:5:point:9",
+                        "label": "i",
+                        "content": "i) Kết nối lại hệ thống với tủ điều\nkhiển trung tâm;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:5:clause:5:point:10",
+                        "label": "k",
+                        "content": "k) Xử lý sự cố phát sinh;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:5:clause:5:point:11",
+                        "label": "l",
+                        "content": "l) Bảo trì, bảo dưỡng hệ thống;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:5:clause:5:point:12",
+                        "label": "m",
+                        "content": "m) Thay thế linh kiện, thiết bị.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:269599:part:1:article:5:clause:6",
+                    "number": "6",
+                    "content": "6. Duy trì hoạt động hệ thống điều\nhòa:",
+                    "points": [
+                      {
+                        "point_id": "doc:269599:part:1:article:5:clause:6:point:1",
+                        "label": "a",
+                        "content": "a) Xây dựng kế hoạch, chuẩn bị tài liệu,\nthiết bị, vật tư, dụng cụ cần thiết và thông báo đến các bộ phận liên quan;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:5:clause:6:point:2",
+                        "label": "b",
+                        "content": "b) Kiểm tra hiệu suất của dàn nóng;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:5:clause:6:point:3",
+                        "label": "c",
+                        "content": "c) Kiểm tra chi tiết kỹ thuật dàn lạnh;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:5:clause:6:point:4",
+                        "label": "d",
+                        "content": "d) Kiểm tra hệ thống ống dẫn khí lạnh\nvà thoát nước thải của điều hòa; đ) Kiểm tra cường độ dòng diện;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:5:clause:6:point:5",
+                        "label": "e",
+                        "content": "e) Xử lý sự cố phát sinh;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:5:clause:6:point:6",
+                        "label": "g",
+                        "content": "g) Bảo trì, bảo dưỡng hệ thống;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:5:clause:6:point:7",
+                        "label": "h",
+                        "content": "h) Thay thế linh kiện, thiết bị.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:269599:part:1:article:5:clause:7",
+                    "number": "7",
+                    "content": "7. Duy trì hoạt động hệ thống chống\nsét:",
+                    "points": [
+                      {
+                        "point_id": "doc:269599:part:1:article:5:clause:7:point:1",
+                        "label": "a",
+                        "content": "a) Xây dựng kế hoạch, chuẩn bị tài liệu,\nthiết bị, vật tư, dụng cụ cần thiết;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:5:clause:7:point:2",
+                        "label": "b",
+                        "content": "b) Kiểm tra chi tiết kỹ thuật hệ thống\ncắt lọc sét lan truyền đường nguồn;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:5:clause:7:point:3",
+                        "label": "c",
+                        "content": "c) Kiểm tra chi tiết kỹ thuật hệ thống\ntiếp địa;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:5:clause:7:point:4",
+                        "label": "d",
+                        "content": "d) Xử lý sự cố phát sinh;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:5:clause:7:point:5",
+                        "label": "đ",
+                        "content": "đ) Bảo trì, bảo dưỡng hệ thống;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:5:clause:7:point:6",
+                        "label": "e",
+                        "content": "e) Thay thế linh kiện, thiết bị.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:269599:part:1:article:5:clause:8",
+                    "number": "8",
+                    "content": "8. Chế độ thực\nhiện:",
+                    "points": [
+                      {
+                        "point_id": "doc:269599:part:1:article:5:clause:8:point:1",
+                        "label": "a",
+                        "content": "a) Kiểm tra chi tiết kỹ thuật của hệ\nthống thực hiện 01 lần/tháng;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:5:clause:8:point:2",
+                        "label": "b",
+                        "content": "b) Bảo trì, bảo dưỡng thực hiện 01 lần/6\ntháng;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:5:clause:8:point:3",
+                        "label": "c",
+                        "content": "c) Thay thế linh kiện, thiết bị thực\nhiện theo quy định hiện hành, theo tài liệu kỹ thuật của nhà sản xuất, hết thời hạn sử dụng hoặc bị hư hỏng;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:5:clause:8:point:4",
+                        "label": "d",
+                        "content": "d) Hàng tháng lập báo cáo công tác\nduy trì hoạt động hệ thống phụ trợ phòng máy chủ dùng cho chuyên ngành khí tượng thủy văn.",
+                        "children": []
+                      }
+                    ]
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:269599:part:1:article:6",
+                "number": "6",
+                "title": "Vận hành và duy trì hoạt động trạm thu vệ tinh khí tượng",
+                "content": "Điều 6. Vận hành và duy trì hoạt động trạm thu vệ tinh khí tượng",
+                "clauses": [
+                  {
+                    "clause_id": "doc:269599:part:1:article:6:clause:1",
+                    "number": "1",
+                    "content": "1. Kiểm tra hệ thống Outdoor:",
+                    "points": [
+                      {
+                        "point_id": "doc:269599:part:1:article:6:clause:1:point:1",
+                        "label": "a",
+                        "content": "a) Đo kiểm tra chất lượng tín hiệu và\ncường độ tín hiệu;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:6:clause:1:point:2",
+                        "label": "b",
+                        "content": "b) Kiểm tra, căn chỉnh góc ngẩng, góc\nphương vị của ăng ten;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:6:clause:1:point:3",
+                        "label": "c",
+                        "content": "c) Kiểm tra, căn chỉnh vị trí góc\nxoay, độ lệch tâm, khoảng cách của LNB và Feed horn so với bề mặt phản xạ tín hiệu;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:6:clause:1:point:4",
+                        "label": "d",
+                        "content": "d) Kiểm tra kết nối giữa các thiết bị,\nchất lượng của cáp tín hiệu;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:6:clause:1:point:5",
+                        "label": "đ",
+                        "content": "đ) Kiểm tra hệ thống chống sét trực\ntiếp, hệ thống/thiết bị chống sét lan truyền đường nguồn, thiết bị chống sét lan truyền đường tín hiệu, hệ thống tiếp địa cho ăng ten, cáp đồng trục và thiết bị cắt lọc sét lan truyền đường nguồn;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:6:clause:1:point:6",
+                        "label": "e",
+                        "content": "e) Kiểm tra hệ thống cột, dây cáp néo\năng ten.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:269599:part:1:article:6:clause:2",
+                    "number": "2",
+                    "content": "2. Vận hành hệ thống Indoor:",
+                    "points": [
+                      {
+                        "point_id": "doc:269599:part:1:article:6:clause:2:point:1",
+                        "label": "a",
+                        "content": "a) Kiểm tra,\ngiám sát hoạt động của đầu thu tín hiệu vệ tinh và các thiết bị liên quan của hệ thống;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:6:clause:2:point:2",
+                        "label": "b",
+                        "content": "b) Vận hành phần cứng của hệ thống;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:6:clause:2:point:3",
+                        "label": "c",
+                        "content": "c) Vận hành phần mềm của hệ thống.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:269599:part:1:article:6:clause:3",
+                    "number": "3",
+                    "content": "3. Quản lý cấu hình và Firmware:",
+                    "points": [
+                      {
+                        "point_id": "doc:269599:part:1:article:6:clause:3:point:1",
+                        "label": "a",
+                        "content": "a) Sao lưu cấu hình và Firmware hiện\ntại của hệ thống;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:6:clause:3:point:2",
+                        "label": "b",
+                        "content": "b) Thay đổi, cập\nnhật, thông tin cấu hình;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:6:clause:3:point:3",
+                        "label": "c",
+                        "content": "c) Cập nhật Firmware;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:6:clause:3:point:4",
+                        "label": "d",
+                        "content": "d) Kiểm tra hoạt động hệ thống sau\nthay đổi;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:6:clause:3:point:5",
+                        "label": "đ",
+                        "content": "đ) Sao lưu cấu hình mới.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:269599:part:1:article:6:clause:4",
+                    "number": "4",
+                    "content": "4. Bảo trì, bảo dưỡng hệ thống:",
+                    "points": [
+                      {
+                        "point_id": "doc:269599:part:1:article:6:clause:4:point:1",
+                        "label": "a",
+                        "content": "a) Xây dựng kế hoạch và thông báo cho\ncác bộ phận liên quan về thời gian bảo trì, bảo dưỡng định kỳ hoặc thay thế thiết bị;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:6:clause:4:point:2",
+                        "label": "b",
+                        "content": "b) Bảo trì, bảo dưỡng hệ thống;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:6:clause:4:point:3",
+                        "label": "c",
+                        "content": "c) Thay thế thiết bị;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:6:clause:4:point:4",
+                        "label": "d",
+                        "content": "d) Kiểm tra vận hành hệ thống sau bảo\ntrì, bảo dưỡng, thay thế thiết bị.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:269599:part:1:article:6:clause:5",
+                    "number": "5",
+                    "content": "5. Xử lý sự cố:",
+                    "points": [
+                      {
+                        "point_id": "doc:269599:part:1:article:6:clause:5:point:1",
+                        "label": "a",
+                        "content": "a) Tiếp nhận và ghi nhận sự cố, đối\nchiếu danh mục sự cố;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:6:clause:5:point:2",
+                        "label": "b",
+                        "content": "b) Xác minh sự cố của hệ thống;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:6:clause:5:point:3",
+                        "label": "c",
+                        "content": "c) Phân tích nguyên nhân của sự cố;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:6:clause:5:point:4",
+                        "label": "d",
+                        "content": "d) Đề xuất giải pháp khắc phục sự cố;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:6:clause:5:point:5",
+                        "label": "d",
+                        "content": "d) Thực hiện khắc phục sự cố;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:6:clause:5:point:6",
+                        "label": "e",
+                        "content": "e) Thay thế linh kiện, thiết bị.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:269599:part:1:article:6:clause:6",
+                    "number": "6",
+                    "content": "6. Chế độ thực hiện:",
+                    "points": [
+                      {
+                        "point_id": "doc:269599:part:1:article:6:clause:6:point:1",
+                        "label": "a",
+                        "content": "a) Kiểm tra hệ thống Outdoor thực hiện\n01 lần/tháng;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:6:clause:6:point:2",
+                        "label": "b",
+                        "content": "b) Vận hành hệ thống Indoor thực hiện\n24/24 giờ;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:6:clause:6:point:3",
+                        "label": "c",
+                        "content": "c) Thay đổi cấu hình cho phù hợp với\nyêu cầu của hệ thống;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:6:clause:6:point:4",
+                        "label": "d",
+                        "content": "d) Cập nhật Firmware theo yêu cầu của\nnhà sản xuất;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:6:clause:6:point:5",
+                        "label": "đ",
+                        "content": "đ) Bảo trì, bảo dưỡng hệ thống thực\nhiện 01 lần/06 tháng;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:6:clause:6:point:6",
+                        "label": "e",
+                        "content": "e) Thay thế linh kiện, thiết bị thực\nhiện theo quy định hiện hành, theo tài liệu kỹ thuật của nhà sản xuất, hết thời hạn sử dụng hoặc bị hư hỏng;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:6:clause:6:point:7",
+                        "label": "g",
+                        "content": "g) Hàng tháng lập báo cáo công tác vận\nhành và duy trì hoạt động trạm thu vệ tinh khí tượng.",
+                        "children": []
+                      }
+                    ]
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:269599:part:1:article:7",
+                "number": "7",
+                "title": "Vận hành và duy trì hoạt động trạm Hub của hệ thống VSAT khí tượng thủy văn",
+                "content": "Điều 7. Vận hành và duy trì hoạt động trạm Hub của hệ thống VSAT khí tượng thủy văn",
+                "clauses": [
+                  {
+                    "clause_id": "doc:269599:part:1:article:7:clause:1",
+                    "number": "1",
+                    "content": "1. Kiểm tra hệ thống Outdoor của trạm\nHub:",
+                    "points": [
+                      {
+                        "point_id": "doc:269599:part:1:article:7:clause:1:point:1",
+                        "label": "a",
+                        "content": "a) Đo kiểm tra chất lượng tín hiệu và\ncường độ tín hiệu;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:7:clause:1:point:2",
+                        "label": "b",
+                        "content": "b) Kiểm tra, căn chỉnh góc ngẩng, góc\nphương vị của ăng ten;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:7:clause:1:point:3",
+                        "label": "c",
+                        "content": "c) Kiểm tra, căn chỉnh vị trí góc\nxoay, độ lệch tâm, khoảng cách của LNB so với bề mặt phản xạ tín hiệu;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:7:clause:1:point:4",
+                        "label": "d",
+                        "content": "d) Kiểm tra công suất nguồn tín hiệu\nđầu vào thiết bị thu phát tín hiệu vệ tinh, các đầu giắc cắm, nguồn cung cấp điện, nhiệt độ thiết bị, quạt tản nhiệt;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:7:clause:1:point:5",
+                        "label": "đ",
+                        "content": "đ) Kiểm tra kết nối cáp tín hiệu với\ncác thiết bị LNB, LNA, BUC, OMT;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:7:clause:1:point:6",
+                        "label": "e",
+                        "content": "e) Kiểm tra độ suy hao của cáp tín hiệu;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:7:clause:1:point:7",
+                        "label": "g",
+                        "content": "g) Kiểm tra ống dẫn sóng;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:7:clause:1:point:8",
+                        "label": "h",
+                        "content": "h) Kiểm tra hệ thống chống sét trực\ntiếp, hệ thống/thiết bị chống sét lan truyền đường nguồn, thiết bị chống sét lan truyền đường tín hiệu, hệ thống tiếp địa cho ăng ten, cáp đồng trục, thiết bị cắt sét lan truyền đường nguồn;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:7:clause:1:point:9",
+                        "label": "i",
+                        "content": "i) Kiểm tra hệ thống cột, dây cáp néo\năng ten.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:269599:part:1:article:7:clause:2",
+                    "number": "2",
+                    "content": "2. Vận hành hệ thống Indoor của trạm\nHub:",
+                    "points": [
+                      {
+                        "point_id": "doc:269599:part:1:article:7:clause:2:point:1",
+                        "label": "a",
+                        "content": "a) Kiểm tra hệ thống nguồn điện, thiết\nbị cắt lọc sét lan truyền;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:7:clause:2:point:2",
+                        "label": "b",
+                        "content": "b) Kiểm tra kết nối giữa các thành phần\ncủa hệ thống;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:7:clause:2:point:3",
+                        "label": "c",
+                        "content": "c) Kiểm tra trạng thái đèn của mô đem\nthu phát;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:7:clause:2:point:4",
+                        "label": "d",
+                        "content": "d) Thiết lập các thông số điều chế, tốc độ mã hóa, mức độ công suất đầu ra, thiết lập\nmô hình hoạt động;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:7:clause:2:point:5",
+                        "label": "d",
+                        "content": "d) Kiểm tra cơ chế bảo mật;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:7:clause:2:point:6",
+                        "label": "e",
+                        "content": "e) Giám sát tỷ lệ rót gói, thông số đường truyền;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:7:clause:2:point:7",
+                        "label": "g",
+                        "content": "g) Vận hành máy chủ, máy trạm của trạm\nHub;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:7:clause:2:point:8",
+                        "label": "h",
+                        "content": "h) Vận hành hệ thống NMS.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:269599:part:1:article:7:clause:3",
+                    "number": "3",
+                    "content": "3. Quản lý cấu hình và Firmware thực\nhiện theo quy định tại khoản 3 Điều 6 Thông tư này.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:269599:part:1:article:7:clause:4",
+                    "number": "4",
+                    "content": "4. Bảo trì, bảo dưỡng hệ thống thực\nhiện theo quy định tại khoản 4 Điều 6 Thông tư này.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:269599:part:1:article:7:clause:5",
+                    "number": "5",
+                    "content": "5. Xử lý sự cố thực hiện theo quy định\ntại khoản 5 Điều 6 Thông tư này.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:269599:part:1:article:7:clause:6",
+                    "number": "6",
+                    "content": "6. Chế độ thực\nhiện:",
+                    "points": [
+                      {
+                        "point_id": "doc:269599:part:1:article:7:clause:6:point:1",
+                        "label": "a",
+                        "content": "a) Chế độ vận hành và duy trì hoạt động\ntrạm Hub của hệ thống VSAT khí tượng thủy văn được thực hiện theo quy định tại các điểm a đến điểm e khoản 6 Điều 6 Thông tư này;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:7:clause:6:point:2",
+                        "label": "b",
+                        "content": "b) Hàng tháng lập báo cáo công tác vận\nhành và duy trì hoạt động trạm Hub của hệ thống VSAT khí tượng thủy văn.",
+                        "children": []
+                      }
+                    ]
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:269599:part:1:article:8",
+                "number": "8",
+                "title": "Vận hành và duy trì hoạt động trạm Remote của hệ thống VSAT khí tượng thủy văn",
+                "content": "Điều 8. Vận hành và duy trì hoạt động trạm Remote của hệ thống VSAT khí tượng thủy văn",
+                "clauses": [
+                  {
+                    "clause_id": "doc:269599:part:1:article:8:clause:1",
+                    "number": "1",
+                    "content": "1. Kiểm tra hệ thống Outdoor của trạm\nRemote:",
+                    "points": [
+                      {
+                        "point_id": "doc:269599:part:1:article:8:clause:1:point:1",
+                        "label": "a",
+                        "content": "a) Đo kiểm tra chất lượng tín hiệu và\ncường độ tín hiệu; kiểm tra, căn chỉnh góc ngẩng, góc phương vị của ăng ten;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:8:clause:1:point:2",
+                        "label": "b",
+                        "content": "b) Kiểm tra, căn chỉnh vị trí góc\nxoay, độ lệch tâm, khoảng cách của LNB so với bề mặt phản xạ tín hiệu;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:8:clause:1:point:3",
+                        "label": "c",
+                        "content": "c) Kiểm tra thiết bị đổi tần lên và\nkhuếch đại công suất;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:8:clause:1:point:4",
+                        "label": "d",
+                        "content": "d) Kiểm tra hệ thống cột, dây cáp néo\năng ten;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:8:clause:1:point:5",
+                        "label": "đ",
+                        "content": "đ) Kiểm tra chất lượng cáp tín hiệu kết\nnối giữa các thiết bị LNB, BUC;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:8:clause:1:point:6",
+                        "label": "e",
+                        "content": "e) Kiểm tra hệ thống chống sét trực\ntiếp, hệ thống hoặc thiết bị chống sét lan truyền đường nguồn, thiết bị chống sét lan truyền đường tín hiệu, hệ thống tiếp địa cho ăng ten, cáp đồng trục, thiết bị cắt sét lan truyền đường nguồn.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:269599:part:1:article:8:clause:2",
+                    "number": "2",
+                    "content": "2. Vận hành hệ thống Indoor của trạm\nRemote:",
+                    "points": [
+                      {
+                        "point_id": "doc:269599:part:1:article:8:clause:2:point:1",
+                        "label": "a",
+                        "content": "a) Kiểm tra hệ thống nguồn điện, thiết bị cắt lọc sét lan truyền;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:8:clause:2:point:2",
+                        "label": "b",
+                        "content": "b) Kiểm tra kết nối giữa các thành phần\ncủa hệ thống;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:8:clause:2:point:3",
+                        "label": "c",
+                        "content": "c) Giám sát trạng thái đèn của mô đem thu phát, trạng thái kết nối và truyền\nsố liệu giữa trạm Remote và trạm Hub, thông số đường truyền;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:8:clause:2:point:4",
+                        "label": "d",
+                        "content": "d) Vận hành máy chủ, máy trạm của trạm\nRemote.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:269599:part:1:article:8:clause:3",
+                    "number": "3",
+                    "content": "3. Quản lý cấu hình và Firmware thực\nhiện theo quy định tại khoản 3 Điều 6 Thông tư này.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:269599:part:1:article:8:clause:4",
+                    "number": "4",
+                    "content": "4. Bảo trì, bảo dưỡng hệ thống thực\nhiện theo quy định tại khoản 4 Điều 6 Thông tư này.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:269599:part:1:article:8:clause:5",
+                    "number": "5",
+                    "content": "5. Xử lý sự cố thực hiện theo quy định tại khoản 5 Điều 6 Thông tư này.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:269599:part:1:article:8:clause:6",
+                    "number": "6",
+                    "content": "6. Chế độ thực hiện:",
+                    "points": [
+                      {
+                        "point_id": "doc:269599:part:1:article:8:clause:6:point:1",
+                        "label": "a",
+                        "content": "a) Chế độ vận hành và duy trì hoạt động\ntrạm Remote của hệ thống VSAT khí tượng thủy văn được thực hiện theo quy định tại các điểm a đến điểm e khoản 6 Điều 6 Thông tư này;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:8:clause:6:point:2",
+                        "label": "b",
+                        "content": "b) Hàng tháng lập báo cáo công tác vận\nhành và duy trì hoạt động trạm Remote của hệ thống VSAT khí tượng thủy văn.",
+                        "children": []
+                      }
+                    ]
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:269599:part:1:article:9",
+                "number": "9",
+                "title": "Vận hành và duy trì hoạt động trạm vô tuyến điện truyền nhận thông tin, dữ liệu khí tượng thủy văn",
+                "content": "Điều 9. Vận hành và duy trì hoạt động trạm vô tuyến điện truyền nhận thông tin, dữ liệu khí tượng thủy văn",
+                "clauses": [
+                  {
+                    "clause_id": "doc:269599:part:1:article:9:clause:1",
+                    "number": "1",
+                    "content": "1. Kiểm tra hệ thống Outdoor:",
+                    "points": [
+                      {
+                        "point_id": "doc:269599:part:1:article:9:clause:1:point:1",
+                        "label": "a",
+                        "content": "a) Kiểm tra ăng ten và các thông số kỹ\nthuật;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:9:clause:1:point:2",
+                        "label": "b",
+                        "content": "b) Kiểm tra độ suy hao của dây dẫn\ntín hiệu từ ăng ten tới thiết bị thu phát;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:9:clause:1:point:3",
+                        "label": "c",
+                        "content": "c) Kiểm tra hệ thống cột, dây cáp néo\năng ten;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:9:clause:1:point:4",
+                        "label": "d",
+                        "content": "d) Kiểm tra hệ thống chống sét trực\ntiếp, hệ thống/thiết bị chống sét lan truyền đường nguồn, hệ thống chống sét lan truyền đường tín hiệu, hệ thống tiếp địa;",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:269599:part:1:article:9:clause:2",
+                    "number": "2",
+                    "content": "2. Vận hành hệ thống Indoor:",
+                    "points": [
+                      {
+                        "point_id": "doc:269599:part:1:article:9:clause:2:point:1",
+                        "label": "a",
+                        "content": "a) Chuẩn bị công cụ, dụng cụ, tài liệu;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:9:clause:2:point:2",
+                        "label": "b",
+                        "content": "b) Kiểm tra nguồn điện một chiều cung cấp cho thiết bị;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:9:clause:2:point:3",
+                        "label": "c",
+                        "content": "c) Kiểm tra bộ điều hướng;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:9:clause:2:point:4",
+                        "label": "d",
+                        "content": "d) Kiểm tra thiết bị phần cứng, thiết\nbị thu phát;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:9:clause:2:point:5",
+                        "label": "đ",
+                        "content": "đ) Cài đặt các thông số kỹ thuật;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:9:clause:2:point:6",
+                        "label": "e",
+                        "content": "e) Liên lạc thử với các điểm cần liên\nlạc;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:9:clause:2:point:7",
+                        "label": "g",
+                        "content": "g) Thu, phát dữ liệu.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:269599:part:1:article:9:clause:3",
+                    "number": "3",
+                    "content": "3. Quản lý thông tin cấu hình và\nFirmware thực hiện theo quy định tại khoản 3 Điều 6 Thông tư này.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:269599:part:1:article:9:clause:4",
+                    "number": "4",
+                    "content": "4. Bảo trì, bảo dưỡng hệ thống và\nthay thế linh kiện, thiết bị thực hiện theo quy định tại khoản 4 Điều 6 Thông tư này.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:269599:part:1:article:9:clause:5",
+                    "number": "5",
+                    "content": "5. Quy trình xử lý sự cố thực hiện\ntheo quy định tại khoản 5 Điều 6 Thông tư này.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:269599:part:1:article:9:clause:6",
+                    "number": "6",
+                    "content": "6. Chế độ thực hiện:",
+                    "points": [
+                      {
+                        "point_id": "doc:269599:part:1:article:9:clause:6:point:1",
+                        "label": "a",
+                        "content": "a) Chế độ vận hành và duy trì hoạt động\ntrạm vô tuyến điện truyền nhận thông tin, dữ liệu khí tượng thủy văn được thực hiện theo quy định tại các điểm a đến điểm e khoản 6 Điều 6 Thông tư này;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:9:clause:6:point:2",
+                        "label": "b",
+                        "content": "b) Hàng tháng lập báo cáo công tác vận\nhành và duy trì hoạt động trạm vô tuyến điện truyền nhận thông tin, dữ liệu khí tượng thủy văn.",
+                        "children": []
+                      }
+                    ]
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:269599:part:1:article:10",
+                "number": "10",
+                "title": "Vận hành và duy trì hoạt động hệ thống truyền hình trực tuyến phục vụ tác nghiệp khí tượng thủy văn",
+                "content": "Điều 10. Vận hành và duy trì hoạt động hệ thống truyền hình trực tuyến phục vụ tác nghiệp khí tượng thủy văn",
+                "clauses": [
+                  {
+                    "clause_id": "doc:269599:part:1:article:10:clause:1",
+                    "number": "1",
+                    "content": "1. Vận hành hệ thống trung tâm:",
+                    "points": [
+                      {
+                        "point_id": "doc:269599:part:1:article:10:clause:1:point:1",
+                        "label": "a",
+                        "content": "a) Kiểm tra thiết bị MCU, DMA, Media\nsuite, G8, Deltapath, kết nối giữa các thiết bị và giám sát hoạt động của các thiết bị trong toàn bộ thời gian phiên họp bảo đảm liên tục, hiệu quả;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:10:clause:1:point:2",
+                        "label": "b",
+                        "content": "b) Kiểm tra băng thông tổng, băng\nthông kết nối đến các điểm cầu, chất lượng kênh truyền, trạng thái kết nối đến các điểm cầu;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:10:clause:1:point:3",
+                        "label": "c",
+                        "content": "c) Vận hành các thiết bị của hệ thống.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:269599:part:1:article:10:clause:2",
+                    "number": "2",
+                    "content": "2. Vận hành phần mềm quản lý phiên họp:",
+                    "points": [
+                      {
+                        "point_id": "doc:269599:part:1:article:10:clause:2:point:1",
+                        "label": "a",
+                        "content": "a) Khởi động phần mềm và thiết lập cấu\nhình của hệ thống;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:10:clause:2:point:2",
+                        "label": "b",
+                        "content": "b) Thiết lập lịch cuộc họp trực tuyến và các thông tin liên quan;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:10:clause:2:point:3",
+                        "label": "c",
+                        "content": "c) Kiểm soát, điều khiển thiết bị đầu\ncuối tại các điểm cầu;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:10:clause:2:point:4",
+                        "label": "d",
+                        "content": "d) Thiết lập chế độ trình bày hình ảnh\ncủa các điểm cầu;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:10:clause:2:point:5",
+                        "label": "đ",
+                        "content": "đ) Giám sát chất lượng hình ảnh, âm\nthanh và điều chỉnh chế độ hiển thị hình ảnh tối ưu phù hợp với băng thông thực tế.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:269599:part:1:article:10:clause:3",
+                    "number": "3",
+                    "content": "3. Vận hành hệ thống tại các điểm cầu:",
+                    "points": [
+                      {
+                        "point_id": "doc:269599:part:1:article:10:clause:3:point:1",
+                        "label": "a",
+                        "content": "a) Khởi động hệ thống các thiết bị tại\nđiểm cầu;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:10:clause:3:point:2",
+                        "label": "b",
+                        "content": "b) Kiểm tra tình trạng thiết bị và\ncác kết nối giữa thành phần thiết bị trong hệ thống;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:10:clause:3:point:3",
+                        "label": "c",
+                        "content": "c) Kiểm tra kênh truyền từ điểm cầu đến\nhệ thống trung tâm;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:10:clause:3:point:4",
+                        "label": "d",
+                        "content": "d) Kết nối từ điểm cầu đến phòng họp\ntrực tuyến;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:10:clause:3:point:5",
+                        "label": "đ",
+                        "content": "đ) Phối hợp với cán bộ kỹ thuật tại điểm\ncầu trung tâm kiểm tra chất lượng hình ảnh, âm thanh;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:10:clause:3:point:6",
+                        "label": "e",
+                        "content": "e) Điều khiển các thiết bị theo yêu cầu;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:10:clause:3:point:7",
+                        "label": "g",
+                        "content": "g) Tắt thiết bị.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:269599:part:1:article:10:clause:4",
+                    "number": "4",
+                    "content": "4. Hỗ trợ kỹ thuật và xử lý sự cố",
+                    "points": [
+                      {
+                        "point_id": "doc:269599:part:1:article:10:clause:4:point:1",
+                        "label": "a",
+                        "content": "a) Tiếp nhận/ghi nhận sự cố;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:10:clause:4:point:2",
+                        "label": "b",
+                        "content": "b) Xác minh sự cố;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:10:clause:4:point:3",
+                        "label": "c",
+                        "content": "c) Phân tích nguyên nhân của sự cố;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:10:clause:4:point:4",
+                        "label": "d",
+                        "content": "d) Đề xuất giải pháp khắc phục sự cố;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:10:clause:4:point:5",
+                        "label": "d",
+                        "content": "d) Phối hợp khắc phục sự cố;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:10:clause:4:point:6",
+                        "label": "e",
+                        "content": "e) Cập nhật danh mục sự cố.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:269599:part:1:article:10:clause:5",
+                    "number": "5",
+                    "content": "5. Bảo dưỡng hệ thống và thay thế\nlinh kiện, thiết bị thực hiện theo quy định tại khoản 5 Điều 6 Thông tư này.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:269599:part:1:article:10:clause:6",
+                    "number": "6",
+                    "content": "6. Chế độ thực hiện:",
+                    "points": [
+                      {
+                        "point_id": "doc:269599:part:1:article:10:clause:6:point:1",
+                        "label": "a",
+                        "content": "a) Vận hành hệ thống trung tâm, phần\nmềm quản lý cuộc họp và thiết bị tại các điểm cầu thực hiện 01 lần/cuộc họp;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:10:clause:6:point:2",
+                        "label": "b",
+                        "content": "b) Bảo trì, bảo dưỡng hệ thống được thực hiện 01 lần/06 tháng;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:10:clause:6:point:3",
+                        "label": "c",
+                        "content": "c) Thay thế linh kiện, thiết bị thực\nhiện theo quy định hiện hành, theo tài liệu kỹ thuật của nhà sản xuất, hết thời hạn sử dụng hoặc bị hư hỏng.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:10:clause:6:point:4",
+                        "label": "d",
+                        "content": "d) Sau mỗi phiên họp ghi nhật kí vận\nhành hệ thống;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:10:clause:6:point:5",
+                        "label": "đ",
+                        "content": "đ) Hàng tháng lập báo cáo tổng hợp\ncông tác vận hành và duy trì hoạt động hệ thống truyền hình trực tuyến phục vụ tác nghiệp khí tượng thủy văn.",
+                        "children": []
+                      }
+                    ]
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:269599:part:1:article:11",
+                "number": "11",
+                "title": "Giám sát và đánh giá chất lượng truyền nhận, phát báo thông tin, dữ liệu khí tượng thủy văn thời gian thực",
+                "content": "Điều 11. Giám sát và đánh giá chất lượng truyền nhận, phát báo thông tin, dữ liệu khí tượng thủy văn thời gian thực",
+                "clauses": [
+                  {
+                    "clause_id": "doc:269599:part:1:article:11:clause:1",
+                    "number": "1",
+                    "content": "1. Kiểm tra tình trạng hoạt động của\ncác thiết bị, phần mềm theo dõi truyền nhận thông tin, dữ liệu.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:269599:part:1:article:11:clause:2",
+                    "number": "2",
+                    "content": "2. Giám sát quá trình truyền nhận và\nphát báo thông tin, dữ liệu:",
+                    "points": [
+                      {
+                        "point_id": "doc:269599:part:1:article:11:clause:2:point:1",
+                        "label": "a",
+                        "content": "a) Giám sát khối lượng thông tin, dữ\nliệu;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:11:clause:2:point:2",
+                        "label": "b",
+                        "content": "b) Giám sát thời gian truyền nhận và\nphát báo;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:11:clause:2:point:3",
+                        "label": "c",
+                        "content": "c) Kiểm tra cấu trúc, định dạng thông\ntin, dữ liệu.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:269599:part:1:article:11:clause:3",
+                    "number": "3",
+                    "content": "3. Xử lý sự cố:",
+                    "points": [
+                      {
+                        "point_id": "doc:269599:part:1:article:11:clause:3:point:1",
+                        "label": "a",
+                        "content": "a) Trường hợp không nhận được thông\ntin, dữ liệu hoặc không đủ khối lượng, sai cấu trúc, định dạng, không đúng thời gian truyền nhận theo quy định, bộ phận giám sát thông tin, báo cáo đến các đơn vị truyền thông tin, dữ liệu để xử lý;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:11:clause:3:point:2",
+                        "label": "b",
+                        "content": "b) Trường hợp lỗi đường truyền và phần mềm thì yêu cầu bộ phận kỹ thuật xử lý;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:11:clause:3:point:3",
+                        "label": "c",
+                        "content": "c) Ghi nhật ký.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:269599:part:1:article:11:clause:4",
+                    "number": "4",
+                    "content": "4. Đánh giá chất lượng truyền nhận và\nphát báo thông tin, dữ liệu:",
+                    "points": [
+                      {
+                        "point_id": "doc:269599:part:1:article:11:clause:4:point:1",
+                        "label": "a",
+                        "content": "a) Đánh giá tính đầy đủ khối lượng\nthông tin, dữ liệu;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:11:clause:4:point:2",
+                        "label": "b",
+                        "content": "b) Đánh giá cấu trúc, định dạng của\nthông tin, dữ liệu đúng hoặc sai;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:11:clause:4:point:3",
+                        "label": "c",
+                        "content": "c) Đánh giá tính kịp thời việc truyền\nnhận và phát báo thông tin, dữ liệu;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:11:clause:4:point:4",
+                        "label": "d",
+                        "content": "d) Lập báo cáo đánh giá chất lượng\ntruyền nhận và phát báo.",
+                        "children": []
+                      }
+                    ]
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:269599:part:1:article:12",
+                "number": "12",
+                "title": "Thu nhận, xử lý, lưu trữ và chia sẻ thông tin, dữ liệu số khí tượng thủy văn",
+                "content": "Điều 12. Thu nhận, xử lý, lưu trữ và chia sẻ thông tin, dữ liệu số khí tượng thủy văn",
+                "clauses": [
+                  {
+                    "clause_id": "doc:269599:part:1:article:12:clause:1",
+                    "number": "1",
+                    "content": "1. Thu nhận thông tin, dữ liệu khí tượng\nthủy văn:",
+                    "points": [
+                      {
+                        "point_id": "doc:269599:part:1:article:12:clause:1:point:1",
+                        "label": "a",
+                        "content": "a) Chuẩn bị thiết bị thu nhận, kiểm\ntra hoạt động của hệ thống truyền nhận số liệu và xác định thời gian thu nhận thông tin, dữ liệu;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:12:clause:1:point:2",
+                        "label": "b",
+                        "content": "b) Thực hiện thu nhận thông tin, dữ\nliệu;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:12:clause:1:point:3",
+                        "label": "c",
+                        "content": "c) Kiểm tra khối lượng, cấu trúc, định\ndạng của thông tin, dữ liệu và thời gian thu nhận;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:12:clause:1:point:4",
+                        "label": "d",
+                        "content": "d) Đơn vị thu nhận thông tin, dữ liệu\nphản hồi kết quả thu nhận đến đơn vị giao nộp.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:269599:part:1:article:12:clause:2",
+                    "number": "2",
+                    "content": "2. Xử lý thông tin, dữ liệu khí tượng\nthủy văn:",
+                    "points": [
+                      {
+                        "point_id": "doc:269599:part:1:article:12:clause:2:point:1",
+                        "label": "a",
+                        "content": "a) Chuẩn bị và kiểm tra hoạt động của\nhệ thống xử lý thông tin, dữ liệu;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:12:clause:2:point:2",
+                        "label": "b",
+                        "content": "b) Kiểm tra tính đầy đủ của thông tin, dữ liệu;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:12:clause:2:point:3",
+                        "label": "c",
+                        "content": "c) Tính toán các thông số đặc trưng\nvà kiểm tra các đường quá trình.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:269599:part:1:article:12:clause:3",
+                    "number": "3",
+                    "content": "3. Lưu trữ thông\ntin, dữ liệu khí tượng thủy văn:",
+                    "points": [
+                      {
+                        "point_id": "doc:269599:part:1:article:12:clause:3:point:1",
+                        "label": "a",
+                        "content": "a) Cập nhật thông tin, dữ liệu vào cơ\nsở dữ liệu;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:12:clause:3:point:2",
+                        "label": "b",
+                        "content": "b) Cập nhật danh mục dữ liệu và\nmetadata;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:12:clause:3:point:3",
+                        "label": "c",
+                        "content": "c) Sao lưu định\nkỳ 1 lần/tháng.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:269599:part:1:article:12:clause:4",
+                    "number": "4",
+                    "content": "4. Giao nộp thông tin, dữ liệu khí tượng\nthủy văn về đơn vị thu nhận theo quy định của pháp luật.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:269599:part:1:article:12:clause:5",
+                    "number": "5",
+                    "content": "5. Chia sẻ thông tin, dữ liệu khí tượng\nthủy văn:",
+                    "points": [
+                      {
+                        "point_id": "doc:269599:part:1:article:12:clause:5:point:1",
+                        "label": "a",
+                        "content": "a) Chia sẻ thông tin, dữ liệu cho hệ\nthống dự báo, cảnh báo khí tượng thủy văn quốc gia;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:12:clause:5:point:2",
+                        "label": "b",
+                        "content": "b) Chia sẻ thông tin, dữ liệu theo\nyêu cầu của tổ chức, cá nhân thực hiện theo quy định tại Điều 26 Nghị định số 38/2016/NĐ-CP ngày 15 tháng 5 năm 2016 của Chính phủ quy định chi tiết một số điều của Luật khí tượng thủy văn và Điều 21 Nghị định, số 73/2017/NĐ-CP ngày 14 tháng 6 năm 2017 của Chính phủ về thu thập, quản lý, khai thác và sử dụng thông tin dữ liệu tài nguyên và môi trường.",
+                        "children": []
+                      }
+                    ]
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:269599:part:1:article:13",
+                "number": "13",
+                "title": "Bảo quản, bổ sung, khai thác thông tin dữ liệu khí tượng văn trong hoạt động thư viện",
+                "content": "Điều 13. Bảo quản, bổ sung, khai thác thông tin dữ liệu khí tượng văn trong hoạt động thư viện",
+                "clauses": [
+                  {
+                    "clause_id": "doc:269599:part:1:article:13:clause:1",
+                    "number": "1",
+                    "content": "1. Bảo quản kho thư viện khí tượng thủy\nvăn:",
+                    "points": [
+                      {
+                        "point_id": "doc:269599:part:1:article:13:clause:1:point:1",
+                        "label": "a",
+                        "content": "a) Kiểm tra an toàn kho thư viện;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:13:clause:1:point:2",
+                        "label": "b",
+                        "content": "b) Vệ sinh tài liệu và kho thư viện;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:13:clause:1:point:3",
+                        "label": "c",
+                        "content": "c) Sắp xếp tài liệu;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:13:clause:1:point:4",
+                        "label": "d",
+                        "content": "d) Lập sổ theo dõi tài liệu;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:13:clause:1:point:5",
+                        "label": "d",
+                        "content": "d) Thống kê danh mục tài liệu;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:13:clause:1:point:6",
+                        "label": "e",
+                        "content": "e) Tu bổ, khắc phục các tài liệu bị\như hỏng nhỏ.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:269599:part:1:article:13:clause:2",
+                    "number": "2",
+                    "content": "2. Bổ sung tài liệu kho thư viện khí\ntượng thủy văn:",
+                    "points": [
+                      {
+                        "point_id": "doc:269599:part:1:article:13:clause:2:point:1",
+                        "label": "a",
+                        "content": "a) Đăng ký bổ sung tài liệu;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:13:clause:2:point:2",
+                        "label": "b",
+                        "content": "b) Bổ sung tài liệu;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:13:clause:2:point:3",
+                        "label": "c",
+                        "content": "c) Nhập kho thư viện;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:13:clause:2:point:4",
+                        "label": "d",
+                        "content": "d) Sắp xếp và giới thiệu tài liệu mới.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:269599:part:1:article:13:clause:3",
+                    "number": "3",
+                    "content": "3. Khai thác kho thư viện khí tượng\nthủy văn:",
+                    "points": [
+                      {
+                        "point_id": "doc:269599:part:1:article:13:clause:3:point:1",
+                        "label": "a",
+                        "content": "a) Tiếp nhận yêu cầu khai thác;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:13:clause:3:point:2",
+                        "label": "b",
+                        "content": "b) Cập nhật thông tin khai thác;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269599:part:1:article:13:clause:3:point:3",
+                        "label": "c",
+                        "content": "c) Phục vụ khai thác.",
+                        "children": []
+                      }
+                    ]
+                  }
+                ],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:269599:part:1:chapter:3",
+            "number": "III",
+            "title": "ĐIỀU KHOẢN THI HÀNH VÀ TỔ CHỨC THỰC HIỆN",
+            "content": "Chương III\nĐIỀU KHOẢN THI\nHÀNH VÀ TỔ CHỨC THỰC HIỆN",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:269599:part:1:article:14",
+                "number": "14",
+                "title": "Hiệu lực thi hành Thông tư này có hiệu lực thi hành kể từ ngày 03 tháng 12 năm 2018.",
+                "content": "Điều 14. Hiệu lực thi hành Thông tư này có hiệu lực thi hành kể từ ngày 03 tháng 12 năm 2018.",
+                "clauses": [],
+                "points": []
+              },
+              {
+                "article_id": "doc:269599:part:1:article:15",
+                "number": "15",
+                "title": "Trách nhiệm thực hiện",
+                "content": "Điều 15. Trách nhiệm thực hiện",
+                "clauses": [
+                  {
+                    "clause_id": "doc:269599:part:1:article:15:clause:1",
+                    "number": "1",
+                    "content": "1. Các Bộ, cơ quan ngang Bộ, cơ quan\nthuộc Chính phủ, Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương và các cơ quan, tổ chức, cá nhân có liên quan chịu trách nhiệm thực hiện Thông tư này.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:269599:part:1:article:15:clause:2",
+                    "number": "2",
+                    "content": "2. Tổng cục trưởng Tổng cục Khí tượng\nThủy văn có trách nhiệm giúp Bộ trưởng Bộ Tài nguyên và Môi trường hướng dẫn, đôn đốc, kiểm tra việc thực hiện Thông tư này.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:269599:part:1:article:15:clause:3",
+                    "number": "3",
+                    "content": "3. Trong quá trình thực hiện Thông tư\nnày, nếu có khó khăn, vướng mắc, các cơ quan, tổ chức, cá nhân phản ánh về Bộ Tài nguyên và Môi trường (qua Tổng cục Khí tượng Thủy văn) để xem xét, sửa đổi, bổ sung cho phù hợp./.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          }
+        ],
+        "sections": [],
+        "articles": [],
+        "unstructured_blocks": []
+      }
+    ]
+  },
+  "issues": [],
+  "status": "ok",
+  "source_hash": "context_269599.json",
+  "stats": {
+    "source_chars": 23321,
+    "passage_chars": 23151,
+    "parts": 1,
+    "chapters": 3,
+    "sections": 0,
+    "articles": 15,
+    "clauses": 88,
+    "points": 212
+  }
+}

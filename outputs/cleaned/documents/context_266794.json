@@ -1,0 +1,67 @@
+{
+  "schema_version": "2.0",
+  "document_id": 266794,
+  "metadata": {
+    "name": null,
+    "link": "https://thuvienphapluat.vn/tcvn/Dien-dien-tu/QCVN-102-2016-BTTTT-SD1-2022-Cau-truc-ma-dinh-danh-va-dinh-dang-du-lieu-goi-tin-919390.aspx",
+    "issuing_agency": null,
+    "national_header": null,
+    "motto": null,
+    "document_number": null,
+    "issued_place": null,
+    "issued_date": null,
+    "document_type": null,
+    "title": null
+  },
+  "administrative_header": {
+    "removed": false,
+    "removed_char_count": 0
+  },
+  "preamble": {
+    "text": null,
+    "legal_bases": [],
+    "proposals": [],
+    "enactment_formula": null
+  },
+  "passage": "A\nCác loại văn bản quy phạm pháp luật 1 Hiến pháp 2 Luật 3 Pháp lệnh 4 Lệnh 5 Nghị quyết 6 Nghị quyết liên tịch 7 Nghị định 8 Quyết định 9 Thông tư 10 Thông tư liên tịch 11 Chỉ thị (Chỉ thị của Ủy ban nhân dân) 12 Bộ luật 13 Văn bản quy phạm pháp luật (của chính quyền địa phương ở đơn vị hành chính - kinh tế đặc biệt)\nB\nCác loại văn bản hành chính 1 Nghị quyết (cá biệt) 18 Công văn 2 Quyết định (cá biệt) 19 Công điện 3 Chỉ thị, Chỉ thị (cá biệt) 20 Bản ghi nhớ 4\nQuy chế\n21 Bản cam kết 5 Quy định 22 Bản thỏa thuận 6 Thông cáo 23 Giấy chứng nhận 7 Thông báo 24 Giấy ủy quyền 8 Hướng dẫn 25 Giấy mời 9 Chương trình 26 Giấy giới thiệu 10 Kế hoạch 27 Giấy nghỉ phép 11 Phương án 28 Giấy đi đường 12 Đề án 29 Giấy biên nhận hồ sơ 13 Dự án 30 Phiếu gửi 14 Báo cáo 31 Phiếu chuyển 15 Biên bản 32 Thư công 16 Tờ trình 33 Phiếu báo 17 Hợp đồng 34 Văn bản khác\nA\nCác loại văn bản quy phạm pháp luật 1 Hiến pháp 2 Luật 3 Pháp lệnh 4 Lệnh 5 Nghị quyết 6 Nghị quyết liên tịch 7 Nghị định 8 Quyết định 9 Thông tư 10 Thông tư liên tịch 11 Chỉ thị (Chỉ thị của Ủy ban nhân dân) 12 Bộ luật 13 Văn bản quy phạm pháp luật (của chính quyền địa phương ở đơn vị hành chính - kinh tế đặc biệt)\nB\nCác loại văn bản hành chính 1 Nghị quyết (cá biệt) 18 Công văn 2 Quyết định (cá biệt) 19 Công điện 3 Chỉ thị, Chỉ thị (cá biệt) 20 Bản ghi nhớ 4\nQuy chế\n21 Bản cam kết 5 Quy định 22 Bản thỏa thuận 6 Thông cáo 23 Giấy chứng nhận 7 Thông báo 24 Giấy ủy quyền 8 Hướng dẫn 25 Giấy mời 9 Chương trình 26 Giấy giới thiệu 10 Kế hoạch 27 Giấy nghỉ phép 11 Phương án 28 Giấy đi đường 12 Đề án 29 Giấy biên nhận hồ sơ 13 Dự án 30 Phiếu gửi 14 Báo cáo 31 Phiếu chuyển 15 Biên bản 32 Thư công 16 Tờ trình 33 Phiếu báo 17 Hợp đồng 34 Văn bản khác Trạng thái: Tùy chọn. Định dạng: Kiểu String với độ dài tối đa là 100 ký tự. CHÚ THÍCH: Giá trị mặc định của trường này là Công văn.\n8. Bãi bỏ 4.2 của “4.\nQuy định về quản lý”.\n9. Bãi bỏ Phụ lục A\nvà Phụ lục D.\n10. Sửa đổi, bổ sung\nPhụ lục B như sau:\n“PHỤ LỤC B\n(Quy định) Hướng dẫn các sơ đồ đo kiểm chung ... ... ... Sơ đồ ghép nối hệ thống QLVBĐH cần đo kiểm với công cụ trích xuất gói tin để tạo thành tập tin edXML phục vụ đo kiểm. Để thực hiện đo kiểm gói tin edXML, phải sử dụng công cụ để trích xuất gói tin đi ra từ hệ thống QLVBĐH hoặc hệ thống trung gian (sau đây gọi tắt là công cụ trích xuất gói tin). Các Hình B.1 và Hình B.2 mô tả cách ghép nối các hệ thống cần đo kiểm với công cụ trích xuất gói tin. Hình B.1 - Sơ đồ ghép nối để trích xuất gói tin đi ra từ hệ thống QLVBĐH Sơ đồ ghép nối hệ thống trung gian cần đo kiểm với công cụ trích xuất gói tin để tạo thành tập tin edXML phục vụ đo kiểm. Hình B.2 - Sơ đồ ghép nối để trích xuất gói tin đi ra từ hệ thống trung gian B.2. Giải thích sơ đồ - Khi cần trích xuất gói tin đi ra từ hệ thống QLVBĐH thì sử dụng sơ đồ Hình B.1. ... ... ... - Công cụ trích xuất gói tin: + Công cụ trích xuất gói tin là một phần mềm. Phần mềm này cung cấp các bộ kết nối và các thông số, yêu cầu kỹ thuật kèm theo để các hệ thống QLVBĐH hoặc các hệ thống trung gian đang cần đo kiểm kết nối tới công cụ; + Công cụ trích xuất gói tin có các chức năng cơ bản gồm: Nhận gói tin (nhận văn bản); xuất gói tin nhận được thành tập tin edXML phục vụ đo kiểm; đọc và hiển thị gói tin trên màn hình phục vụ việc xem xét gói tin; các chức năng thông báo và các chức năng mở rộng khác. + Công cụ trích xuất gói tin sử dụng mã định danh điện tử cơ quan, tổ chức theo quy định tại Quy chuẩn này để nhận văn bản đến. - Bộ kết nối: Bộ kết nối để kết nối các hệ thống QLVBĐH khác nhau hoặc các hệ thống trung gian khác nhau vào công cụ trích xuất gói tin. B.3. Thực hiện bắt gói tin - Công cụ trích xuất gói tin đóng vai trò là nơi nhận. - Bắt và trích xuất gói tin gửi từ hệ thống\nQLVBĐH:\n+ Hệ thống QLVBĐH thực hiện gửi văn bản tới công cụ trích xuất gói tin (có thể gửi tới 1 cơ quan hoặc nhiều cơ quan). ... ... ... - Bắt và trích xuất gói tin gửi từ Hệ thống trung gian: + Hệ thống QLVBĐH thực hiện gửi văn bản tới công cụ trích gói tin xuất thông qua Hệ thống trung gian (có thể gửi tới 1 cơ quan hoặc nhiều cơ quan). + Hệ thống trung gian chuyển tiếp văn bản nhận được từ Hệ thống QLVBĐH đến công cụ trích xuất gói tin. + Công cụ trích xuất gói tin nhận được gói tin do Hệ thống trung gian gửi đến và sử dụng chức năng xuất gói tin thành tập tin edXML phục vụ đo kiểm. - Tập tin edXML được trích xuất là căn cứ để các đơn vị đo kiểm thực hiện việc đánh giá gói tin phù hợp với Quy chuẩn.”\n11. Sửa đổi, bổ sung Phụ lục C như sau:\n“PHỤ LỤC C\n(Tham khảo) Minh họa gói tin edXML ... ... ...",
+  "tree": {
+    "parts": [
+      {
+        "part_id": "doc:266794:part:1",
+        "part_type": "main",
+        "part_title": null,
+        "reference": null,
+        "direct_text": null,
+        "chapters": [],
+        "sections": [],
+        "articles": [],
+        "unstructured_blocks": [
+          {
+            "block_id": "doc:266794:part:1:block:1",
+            "content": "A\nCác loại văn bản quy phạm pháp luật 1 Hiến pháp 2 Luật 3 Pháp lệnh 4 Lệnh 5 Nghị quyết 6 Nghị quyết liên tịch 7 Nghị định 8 Quyết định 9 Thông tư 10 Thông tư liên tịch 11 Chỉ thị (Chỉ thị của Ủy ban nhân dân) 12 Bộ luật 13 Văn bản quy phạm pháp luật (của chính quyền địa phương ở đơn vị hành chính - kinh tế đặc biệt)\nB\nCác loại văn bản hành chính 1 Nghị quyết (cá biệt) 18 Công văn 2 Quyết định (cá biệt) 19 Công điện 3 Chỉ thị, Chỉ thị (cá biệt) 20 Bản ghi nhớ 4\nQuy chế\n21 Bản cam kết 5 Quy định 22 Bản thỏa thuận 6 Thông cáo 23 Giấy chứng nhận 7 Thông báo 24 Giấy ủy quyền 8 Hướng dẫn 25 Giấy mời 9 Chương trình 26 Giấy giới thiệu 10 Kế hoạch 27 Giấy nghỉ phép 11 Phương án 28 Giấy đi đường 12 Đề án 29 Giấy biên nhận hồ sơ 13 Dự án 30 Phiếu gửi 14 Báo cáo 31 Phiếu chuyển 15 Biên bản 32 Thư công 16 Tờ trình 33 Phiếu báo 17 Hợp đồng 34 Văn bản khác\nA\nCác loại văn bản quy phạm pháp luật 1 Hiến pháp 2 Luật 3 Pháp lệnh 4 Lệnh 5 Nghị quyết 6 Nghị quyết liên tịch 7 Nghị định 8 Quyết định 9 Thông tư 10 Thông tư liên tịch 11 Chỉ thị (Chỉ thị của Ủy ban nhân dân) 12 Bộ luật 13 Văn bản quy phạm pháp luật (của chính quyền địa phương ở đơn vị hành chính - kinh tế đặc biệt)\nB\nCác loại văn bản hành chính 1 Nghị quyết (cá biệt) 18 Công văn 2 Quyết định (cá biệt) 19 Công điện 3 Chỉ thị, Chỉ thị (cá biệt) 20 Bản ghi nhớ 4\nQuy chế\n21 Bản cam kết 5 Quy định 22 Bản thỏa thuận 6 Thông cáo 23 Giấy chứng nhận 7 Thông báo 24 Giấy ủy quyền 8 Hướng dẫn 25 Giấy mời 9 Chương trình 26 Giấy giới thiệu 10 Kế hoạch 27 Giấy nghỉ phép 11 Phương án 28 Giấy đi đường 12 Đề án 29 Giấy biên nhận hồ sơ 13 Dự án 30 Phiếu gửi 14 Báo cáo 31 Phiếu chuyển 15 Biên bản 32 Thư công 16 Tờ trình 33 Phiếu báo 17 Hợp đồng 34 Văn bản khác Trạng thái: Tùy chọn. Định dạng: Kiểu String với độ dài tối đa là 100 ký tự. CHÚ THÍCH: Giá trị mặc định của trường này là Công văn.\n8. Bãi bỏ 4.2 của “4.\nQuy định về quản lý”.\n9. Bãi bỏ Phụ lục A\nvà Phụ lục D.\n10. Sửa đổi, bổ sung\nPhụ lục B như sau:\n“PHỤ LỤC B\n(Quy định) Hướng dẫn các sơ đồ đo kiểm chung ... ... ... Sơ đồ ghép nối hệ thống QLVBĐH cần đo kiểm với công cụ trích xuất gói tin để tạo thành tập tin edXML phục vụ đo kiểm. Để thực hiện đo kiểm gói tin edXML, phải sử dụng công cụ để trích xuất gói tin đi ra từ hệ thống QLVBĐH hoặc hệ thống trung gian (sau đây gọi tắt là công cụ trích xuất gói tin). Các Hình B.1 và Hình B.2 mô tả cách ghép nối các hệ thống cần đo kiểm với công cụ trích xuất gói tin. Hình B.1 - Sơ đồ ghép nối để trích xuất gói tin đi ra từ hệ thống QLVBĐH Sơ đồ ghép nối hệ thống trung gian cần đo kiểm với công cụ trích xuất gói tin để tạo thành tập tin edXML phục vụ đo kiểm. Hình B.2 - Sơ đồ ghép nối để trích xuất gói tin đi ra từ hệ thống trung gian B.2. Giải thích sơ đồ - Khi cần trích xuất gói tin đi ra từ hệ thống QLVBĐH thì sử dụng sơ đồ Hình B.1. ... ... ... - Công cụ trích xuất gói tin: + Công cụ trích xuất gói tin là một phần mềm. Phần mềm này cung cấp các bộ kết nối và các thông số, yêu cầu kỹ thuật kèm theo để các hệ thống QLVBĐH hoặc các hệ thống trung gian đang cần đo kiểm kết nối tới công cụ; + Công cụ trích xuất gói tin có các chức năng cơ bản gồm: Nhận gói tin (nhận văn bản); xuất gói tin nhận được thành tập tin edXML phục vụ đo kiểm; đọc và hiển thị gói tin trên màn hình phục vụ việc xem xét gói tin; các chức năng thông báo và các chức năng mở rộng khác. + Công cụ trích xuất gói tin sử dụng mã định danh điện tử cơ quan, tổ chức theo quy định tại Quy chuẩn này để nhận văn bản đến. - Bộ kết nối: Bộ kết nối để kết nối các hệ thống QLVBĐH khác nhau hoặc các hệ thống trung gian khác nhau vào công cụ trích xuất gói tin. B.3. Thực hiện bắt gói tin - Công cụ trích xuất gói tin đóng vai trò là nơi nhận. - Bắt và trích xuất gói tin gửi từ hệ thống\nQLVBĐH:\n+ Hệ thống QLVBĐH thực hiện gửi văn bản tới công cụ trích xuất gói tin (có thể gửi tới 1 cơ quan hoặc nhiều cơ quan). ... ... ... - Bắt và trích xuất gói tin gửi từ Hệ thống trung gian: + Hệ thống QLVBĐH thực hiện gửi văn bản tới công cụ trích gói tin xuất thông qua Hệ thống trung gian (có thể gửi tới 1 cơ quan hoặc nhiều cơ quan). + Hệ thống trung gian chuyển tiếp văn bản nhận được từ Hệ thống QLVBĐH đến công cụ trích xuất gói tin. + Công cụ trích xuất gói tin nhận được gói tin do Hệ thống trung gian gửi đến và sử dụng chức năng xuất gói tin thành tập tin edXML phục vụ đo kiểm. - Tập tin edXML được trích xuất là căn cứ để các đơn vị đo kiểm thực hiện việc đánh giá gói tin phù hợp với Quy chuẩn.”\n11. Sửa đổi, bổ sung Phụ lục C như sau:\n“PHỤ LỤC C\n(Tham khảo) Minh họa gói tin edXML ... ... ...",
+            "indexable": true
+          }
+        ]
+      }
+    ]
+  },
+  "issues": [
+    {
+      "code": "no_articles",
+      "message": "no articles parsed",
+      "severity": "warning"
+    }
+  ],
+  "status": "ok",
+  "source_hash": "context_266794.json",
+  "stats": {
+    "source_chars": 4535,
+    "passage_chars": 4535,
+    "parts": 1,
+    "chapters": 0,
+    "sections": 0,
+    "articles": 0,
+    "clauses": 0,
+    "points": 0
+  }
+}

@@ -1,0 +1,1545 @@
+{
+  "schema_version": "2.0",
+  "document_id": 266253,
+  "metadata": {
+    "name": "Thong-tu-11-2019-TT-BKHDT-dang-tai-thong-tin-dau-thau-qua-mang-quan-ly-gia-tri-bao-dam-du-thau-43201",
+    "link": "https://thuvienphapluat.vn/van-ban/Dau-tu/Thong-tu-11-2019-TT-BKHDT-dang-tai-thong-tin-dau-thau-qua-mang-quan-ly-gia-tri-bao-dam-du-thau-432017.aspx",
+    "issuing_agency": "BỘ KẾ HOẠCH VÀ ĐẦU TƯ",
+    "national_header": "CỘNG HÒA XÃ HỘI\r\n\n  CHỦ NGHĨA VIỆT NAM",
+    "motto": "Độc lập - Tự do - Hạnh phúc",
+    "document_number": "11/2019/TT-BKHĐT",
+    "issued_place": "Hà Nội",
+    "issued_date": "ngày 16\r\n\n  tháng 12 năm 2019",
+    "document_type": "THÔNG TƯ",
+    "title": "QUY ĐỊNH CHI TIẾT VIỆC CUNG CẤP, ĐĂNG TẢI THÔNG TIN VỀ ĐẤU THẦU, LỘ TRÌNH ÁP DỤNG LỰA CHỌN NHÀ THẦU QUA MẠNG VÀ QUẢN LÝ, SỬ DỤNG GIÁ TRỊ BẢO ĐẢM DỰ THẦU, BẢO ĐẢM THỰC HIỆN HỢP ĐỒNG KHÔNG ĐƯỢC HOÀN TRẢ"
+  },
+  "administrative_header": {
+    "removed": true,
+    "removed_char_count": 163
+  },
+  "preamble": {
+    "text": "THÔNG TƯ QUY\nĐỊNH CHI TIẾT VIỆC CUNG CẤP, ĐĂNG TẢI THÔNG TIN VỀ ĐẤU THẦU, LỘ TRÌNH ÁP DỤNG LỰA\nCHỌN NHÀ THẦU QUA MẠNG VÀ QUẢN LÝ, SỬ DỤNG GIÁ TRỊ BẢO ĐẢM DỰ THẦU, BẢO ĐẢM THỰC\nHIỆN HỢP ĐỒNG KHÔNG ĐƯỢC HOÀN TRẢ\nCăn cứ Luật đấu thầu số 43/2013/QH13 ngày 26 tháng 11 năm 2013; Căn cứ Luật Giao dịch điện tử số 51/2005/QH11 ngày 29 tháng 11 năm 2005; Căn cứ Nghị định số 63/2014/NĐ-CP ngày 26 tháng 6 năm 2014 của Chính phủ quy định chi tiết thi hành một số điều của Luật đấu thầu về lựa chọn nhà thầu; Căn cứ Nghị định số 130/2018/NĐ-CP ngày 27 tháng 9 năm 2018 của Chính phủ quy định chi tiết thi hành Luật giao dịch điện tử về chữ ký số và dịch vụ chứng thực chữ ký số; Căn cứ Nghị định số 63/2018/NĐ-CP ngày 04 tháng 5 năm 2018 của Chính phủ quy định về đầu tư theo hình thức đối tác công tư; Căn cứ Nghị định số 30/2015/NĐ-CP ngày 17 tháng 3 năm 2015 của Chính phủ quy định chi tiết thi hành một số điều của Luật đấu thầu về lựa chọn nhà đầu tư; Căn cứ Nghị định số 86/2017/NĐ-CP ngày 25 tháng 7 năm 2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Kế hoạch và Đầu tư; Theo đề nghị của Cục trưởng Cục Quản lý đấu thầu; Bộ trưởng Bộ Kế hoạch và Đầu tư ban hành Thông tư quy định chi tiết việc cung cấp, đăng tải thông tin về đấu thầu, lộ trình áp dụng lựa chọn nhà thầu qua mạng và quản lý, sử dụng giá trị bảo đảm dự thầu, bảo đảm thực hiện hợp đồng không được hoàn trả.\nChương I\nQUY ĐỊNH CHUNG",
+    "legal_bases": [
+      "Căn cứ Luật Giao dịch điện tử số 51/2005/QH11 ngày 29 tháng 11 năm 2005",
+      "Căn cứ Nghị định số 63/2014/NĐ-CP ngày 26 tháng 6 năm 2014 của Chính phủ quy định chi tiết thi hành một số điều của Luật đấu thầu về lựa chọn nhà thầu",
+      "Căn cứ Nghị định số 130/2018/NĐ-CP ngày 27 tháng 9 năm 2018 của Chính phủ quy định chi tiết thi hành Luật giao dịch điện tử về chữ ký số và dịch vụ chứng thực chữ ký số",
+      "Căn cứ Nghị định số 63/2018/NĐ-CP ngày 04 tháng 5 năm 2018 của Chính phủ quy định về đầu tư theo hình thức đối tác công tư",
+      "Căn cứ Nghị định số 30/2015/NĐ-CP ngày 17 tháng 3 năm 2015 của Chính phủ quy định chi tiết thi hành một số điều của Luật đấu thầu về lựa chọn nhà đầu tư",
+      "Căn cứ Nghị định số 86/2017/NĐ-CP ngày 25 tháng 7 năm 2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Kế hoạch và Đầu tư"
+    ],
+    "proposals": [
+      "Theo đề nghị của Cục trưởng Cục Quản lý đấu thầu"
+    ],
+    "enactment_formula": null
+  },
+  "passage": "THÔNG TƯ QUY\nĐỊNH CHI TIẾT VIỆC CUNG CẤP, ĐĂNG TẢI THÔNG TIN VỀ ĐẤU THẦU, LỘ TRÌNH ÁP DỤNG LỰA\nCHỌN NHÀ THẦU QUA MẠNG VÀ QUẢN LÝ, SỬ DỤNG GIÁ TRỊ BẢO ĐẢM DỰ THẦU, BẢO ĐẢM THỰC\nHIỆN HỢP ĐỒNG KHÔNG ĐƯỢC HOÀN TRẢ\nCăn cứ Luật đấu thầu số 43/2013/QH13 ngày 26 tháng 11 năm 2013; Căn cứ Luật Giao dịch điện tử số 51/2005/QH11 ngày 29 tháng 11 năm 2005; Căn cứ Nghị định số 63/2014/NĐ-CP ngày 26 tháng 6 năm 2014 của Chính phủ quy định chi tiết thi hành một số điều của Luật đấu thầu về lựa chọn nhà thầu; Căn cứ Nghị định số 130/2018/NĐ-CP ngày 27 tháng 9 năm 2018 của Chính phủ quy định chi tiết thi hành Luật giao dịch điện tử về chữ ký số và dịch vụ chứng thực chữ ký số; Căn cứ Nghị định số 63/2018/NĐ-CP ngày 04 tháng 5 năm 2018 của Chính phủ quy định về đầu tư theo hình thức đối tác công tư; Căn cứ Nghị định số 30/2015/NĐ-CP ngày 17 tháng 3 năm 2015 của Chính phủ quy định chi tiết thi hành một số điều của Luật đấu thầu về lựa chọn nhà đầu tư; Căn cứ Nghị định số 86/2017/NĐ-CP ngày 25 tháng 7 năm 2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Kế hoạch và Đầu tư; Theo đề nghị của Cục trưởng Cục Quản lý đấu thầu; Bộ trưởng Bộ Kế hoạch và Đầu tư ban hành Thông tư quy định chi tiết việc cung cấp, đăng tải thông tin về đấu thầu, lộ trình áp dụng lựa chọn nhà thầu qua mạng và quản lý, sử dụng giá trị bảo đảm dự thầu, bảo đảm thực hiện hợp đồng không được hoàn trả.\nChương I\nQUY ĐỊNH CHUNG\nĐiều 1. Phạm vi điều chỉnh\n1. Thông tư này quy định việc cung cấp, đăng tải thông\ntin về đấu thầu trên Hệ thống mạng đấu thầu quốc gia (sau đây gọi là Hệ thống), Báo Đấu thầu theo quy định của Luật đấu thầu; lộ trình áp dụng lựa chọn nhà thầu qua mạng; quản lý, sử dụng giá trị bảo đảm dự thầu, bảo đảm thực hiện hợp đồng trong trường hợp không hoàn trả cho nhà thầu.\n2. Thông tin về đấu thầu đối với gói thầu thuộc dự\nán sử dụng vốn hỗ trợ phát triển chính thức (ODA), vốn vay ưu đãi phát sinh từ điều ước quốc tế, thỏa thuận quốc tế giữa Việt Nam với nhà tài trợ được khuyến khích đăng tải trong mục \"vốn khác\" trên Hệ thống, Báo Đấu thầu.\n3. Đối với dự án, gói thầu có nội dung thuộc danh mục\nbí mật nhà nước theo quy định của pháp luật về bảo vệ bí mật nhà nước thì không phải cung cấp, đăng tải thông tin theo quy định của Thông tư này. Việc quản lý thông tin thuộc danh mục bí mật nhà nước tuân thủ theo quy định của pháp luật về bảo vệ bí mật nhà nước.\nĐiều 2. Đối tượng áp dụng\n1. Tổ chức, cá nhân liên quan đến việc cung cấp,\nđăng tải thông tin về đấu thầu, thực hiện lựa chọn nhà thầu qua mạng và quản lý, sử dụng giá trị bảo đảm dự thầu, bảo đảm thực hiện hợp đồng trong trường hợp không hoàn trả cho nhà thầu thuộc phạm vi điều chỉnh quy định tại Điều 1 của Thông tư này.\n2. Tổ chức, cá nhân có hoạt động đấu thầu không thuộc\nphạm vi điều chỉnh của Luật đấu thầu chọn áp dụng việc cung cấp, đăng tải thông tin về đấu thầu và lựa chọn nhà thầu qua mạng trên Hệ thống mạng đấu thầu quốc gia. Trong trường hợp này, thông tin về đấu thầu được đăng tải trong mục \"vốn khác\" trên Hệ thống.\nĐiều 3. Giải thích từ ngữ\n1. Hệ thống mạng đấu thầu quốc gia theo quy\nđịnh tại Khoản 26 Điều 4 của Luật đấu thầu có địa chỉ tại http://muasamcong.mpi.gov.vn.\n2. Trung tâm Đấu thầu qua mạng quốc gia (sau\nđây gọi là Trung tâm) thuộc Cục Quản lý đấu thầu, Bộ Kế hoạch và Đầu tư là Tổ chức vận hành Hệ thống theo quy định tại Điều 85 của Luật đấu thầu, cung cấp dịch vụ chứng thực chữ ký số sử dụng trên Hệ thống và cung cấp Tổng đài hỗ trợ người dùng để giải đáp, hướng dẫn cho người dùng trong quá trình đăng ký tham gia Hệ thống, cung cấp, đăng tải thông tin về đấu thầu và thực hiện lựa chọn nhà thầu qua mạng.\n3. Văn bản điện tử được gửi, nhận và lưu trữ\nthành công trên Hệ thống, bao gồm:\na) Thông tin về dự án;\nb) Kế hoạch lựa chọn nhà thầu, kế hoạch lựa chọn\nnhà đầu tư;\nc) Thông tin dự án đầu tư PPP, danh mục dự án đầu\ntư có sử dụng đất;\nd) Thông báo mời quan tâm, thông báo mời sơ tuyển,\nthông báo mời thầu, thông báo mời chào hàng;\nđ) Danh sách ngắn;\ne) Hồ sơ mời quan tâm, hồ sơ mời sơ tuyển, hồ sơ mời\nthầu, hồ sơ yêu cầu, yêu cầu báo giá;\ng) Hồ sơ quan tâm, hồ sơ dự sơ tuyển, hồ sơ dự thầu,\nhồ sơ đề xuất, báo giá;\nh) Biên bản mở thầu, biên bản mở hồ sơ đề xuất về kỹ\nthuật, biên bản mở hồ sơ đề xuất về tài chính (đối với lựa chọn nhà thầu qua mạng);\ni) Báo cáo đánh giá hồ sơ dự thầu, báo cáo đánh giá\nhồ sơ đề xuất, báo cáo đánh giá báo giá (đối với lựa chọn nhà thầu qua mạng);\nk) Kết quả lựa chọn nhà thầu, kết quả lựa chọn nhà\nđầu tư;\nl) Thông tin trong quá trình lựa chọn nhà thầu qua\nmạng, bao gồm: nội dung làm rõ hồ sơ mời thầu, hồ sơ yêu cầu, hồ sơ dự thầu, hồ sơ đề xuất và văn bản dưới dạng điện tử khác được trao đổi giữa bên mời thầu và nhà thầu trên Hệ thống.\n4. Chứng thư số sử dụng trên Hệ thống là chứng\nthư số do Trung tâm cấp.\n5. Lịch sử giao dịch là bản ghi thông tin gửi,\nnhận dữ liệu giao dịch trên Hệ thống.\n6. Hướng dẫn sử dụng là tài liệu điện tử được\nđăng tải trên Hệ thống để hướng dẫn người dùng thực hiện giao dịch trên Hệ thống.\n7. Thông tin không hợp lệ là thông tin do đối\ntượng quy định tại Điều 2 của Thông tư này tự đăng tải trên Hệ thống không tuân thủ quy định có liên quan của pháp luật về đấu thầu.\nĐiều 4. Gửi, nhận văn bản điện tử trên Hệ thống\n1. Văn bản điện tử quy định tại Khoản 3 Điều 3 của Thông\ntư này được công nhận giá trị pháp lý, làm cơ sở đối chiếu, so sánh, xác thực thông tin phục vụ công tác đánh giá, thẩm định, giám sát theo quy định tại Khoản 5 Điều 85 Nghị định số 63/2014/NĐ-CP. Trường hợp văn bản điện tử được bên mời thầu, nhà thầu, nhà đầu tư tạo lập dưới dạng điện tử trên Hệ thống mà không phải được tạo lập từ văn bản giấy thì văn bản điện tử này có giá trị là bản gốc.\n2. Thời điểm gửi, nhận văn bản điện tử được xác định\ncăn cứ theo thời gian thực ghi lại trên Hệ thống. Văn bản điện tử đã gửi thành công được lưu trữ trên Hệ thống và không bị sửa đổi bởi bất kỳ tổ chức, cá nhân nào, trừ trường hợp quy định tại Điều 15 của Thông tư này.\n3. Khi người sử dụng gửi văn bản điện tử trên Hệ thống,\nHệ thống phải phản hồi cho người sử dụng về việc gửi thành công hoặc không thành công.\n4. Bên mời thầu, nhà thầu, nhà đầu tư đăng ký thành\ncông trên Hệ thống được quyền truy xuất lịch sử các giao dịch của mình, bao gồm thông tin về thời điểm, người gửi, người nhận, tình trạng gửi văn bản điện tử (thành công hoặc không thành công) và các thông tin khác trên Hệ thống. Thông tin về lịch sử giao dịch được sử dụng để giải quyết tranh chấp (nếu có) về việc gửi, nhận văn bản điện tử trên Hệ thống.\n5. Tổ chức, cá nhân thực hiện việc đánh giá, thẩm định,\ngiám sát không được yêu cầu cung cấp văn bản giấy khi tổ chức, cá nhân này có thể tra cứu, truy xuất văn bản điện tử tương ứng trên Hệ thống, trừ trường hợp cần kiểm tra, xác nhận văn bản gốc (như thư bảo lãnh, hợp đồng tương tự, báo cáo tài chính, giấy phép bán hàng hoặc tài liệu khác có giá trị tương đương, tài liệu cần thiết khác).\nĐiều 5. Điều kiện về hạ tầng công nghệ thông tin Để tham gia và thực hiện các giao dịch trên Hệ thống, bên mời thầu, nhà thầu, nhà đầu tư phải đáp ứng yêu cầu về hạ tầng công nghệ thông tin quy định tại Khoản 1 Điều 79 và Khoản 1 Điều 80 của Luật đấu thầu và được hướng dẫn chi tiết tại Hướng dẫn sử dụng.\nĐiều 6. Đăng ký tham gia Hệ thống và quy trình xử lý hồ sơ đăng ký\n1. Đối với bên mời thầu\na) Quy trình đăng ký:\nQuy trình đăng ký bên mời thầu được hướng dẫn chi tiết trong Hướng dẫn sử dụng.\nb) Hồ sơ đăng ký bao gồm:\n- Đơn đăng ký bên mời thầu (do Hệ thống tạo ra trong quá trình bên mời thầu cung cấp thông tin theo quy định tại Điểm a Khoản này); - Bản chụp Quyết định thành lập hoặc Giấy chứng nhận đăng ký doanh nghiệp hoặc các tài liệu tương đương khác (nếu có).\nc) Nộp hồ sơ đăng ký;\nBên mời thầu gửi hồ sơ đăng ký theo đường bưu điện hoặc nộp trực tiếp đến Trung tâm hoặc gửi trên Hệ thống. Trường hợp gửi hồ sơ đăng ký trên Hệ thống thì bên mời thầu thực hiện theo Hướng dẫn sử dụng.\nd) Xử lý hồ sơ đăng ký\nTrong thời hạn tối đa 02 ngày làm việc, kể từ ngày tiếp nhận hồ sơ đăng ký, Trung tâm có trách nhiệm xét duyệt hồ sơ và thông báo kết quả xử lý hồ sơ cho bên mời thầu. Trường hợp hồ sơ hợp lệ, bên mời thầu được phê duyệt việc đăng ký trên Hệ thống. Trường hợp hồ sơ chưa hợp lệ, Trung tâm có trách nhiệm thông báo lý do và hướng dẫn bên mời thầu bổ sung, sửa đổi hồ sơ cho phù hợp. Việc thông báo kết quả xử lý hồ sơ cho bên mời thầu được thực hiện trên Hệ thống, thư điện tử (e-mail), ứng dụng trên thiết bị di động hoặc các kênh thông tin khác và được hướng dẫn chi tiết trong Hướng dẫn sử dụng.\nđ) Việc sửa đổi thông tin đã đăng ký trên Hệ thống\nđược thực hiện theo Hướng dẫn sử dụng. Trường hợp không tự thực hiện được việc sửa đổi thông tin đã đăng ký trên Hệ thống, bên mời thầu gửi văn bản đề nghị sửa đổi thông tin và các văn bản có liên quan đến Trung tâm. Trong thời hạn tối đa 02 ngày làm việc, kể từ ngày nhận được văn bản đề nghị của bên mời thầu, Trung tâm có trách nhiệm xem xét, xử lý yêu cầu của bên mời thầu.\n2. Đối với nhà thầu, nhà đầu tư:\na) Quy trình đăng ký:\nQuy trình đăng ký nhà thầu, nhà đầu tư được hướng dẫn chi tiết trong Hướng dẫn sử dụng.\nb) Hồ sơ đăng ký bao gồm:\n- Đơn đăng ký nhà thầu, nhà đầu tư (do Hệ thống tạo ra trong quá trình nhà thầu, nhà đầu tư cung cấp thông tin theo quy định tại Điểm a Khoản này); - Bản chụp Quyết định thành lập hoặc Giấy chứng nhận đăng ký doanh nghiệp hoặc Giấy chứng nhận đăng ký hộ kinh doanh (đối với hộ kinh doanh cá thể) hoặc các tài liệu tương đương khác; - Bản chụp Giấy chứng minh nhân dân hoặc thẻ căn cước hoặc hộ chiếu của người đại diện hợp pháp của nhà thầu, nhà đầu tư (người đại diện theo pháp luật hoặc người được ủy quyền). Trường hợp ủy quyền thì phải có giấy ủy quyền của người đại diện theo pháp luật của nhà thầu, nhà đầu tư. Trường hợp nhà thầu, nhà đầu tư đã đăng ký và có thông tin trên Cổng thông tin quốc gia về đăng ký doanh nghiệp tại địa chỉ http://dangkykinhdoanh.gov.vn thì không phải nộp các tài liệu nêu trên, trừ đơn đăng ký nhà thầu, nhà đầu tư.\nc) Nộp hồ sơ đăng ký:\nNhà thầu, nhà đầu tư có thể gửi hồ sơ đăng ký theo đường bưu điện hoặc nộp trực tiếp đến Trung tâm hoặc gửi trên Hệ thống. Trường hợp gửi hồ sơ đăng ký trên Hệ thống thì nhà thầu, nhà đầu tư thực hiện theo Hướng dẫn sử dụng.\nd) Xử lý hồ sơ đăng ký:\nTrong thời hạn tối đa 02 ngày làm việc, kể từ ngày tiếp nhận hồ sơ đăng ký, Trung tâm có trách nhiệm xét duyệt hồ sơ và thông báo kết quả xử lý hồ sơ cho nhà thầu, nhà đầu tư. Trường hợp hồ sơ hợp lệ, nhà thầu, nhà đầu tư được phê duyệt việc đăng ký trên Hệ thống. Trường hợp hồ sơ chưa hợp lệ, Trung tâm có trách nhiệm thông báo lý do và hướng dẫn nhà thầu, nhà đầu tư bổ sung, sửa đổi hồ sơ cho phù hợp. Việc thông báo kết quả xử lý hồ sơ cho nhà thầu, nhà đầu tư được thực hiện trên Hệ thống, thư điện tử (e-mail), ứng dụng trên thiết bị di động hoặc các kênh thông tin khác và được hướng dẫn chi tiết trong Hướng dẫn sử dụng.\nđ) Việc sửa đổi thông tin đã đăng ký trên Hệ thống\nđược thực hiện theo Hướng dẫn sử dụng. Trường hợp không tự thực hiện được việc sửa đổi thông tin đã đăng ký trên Hệ thống, nhà thầu, nhà đầu tư gửi văn bản đề nghị sửa đổi thông tin và các văn bản có liên quan đến Trung tâm. Trong thời hạn tối đa 02 ngày làm việc, kể từ ngày nhận được văn bản đề nghị của nhà thầu, nhà đầu tư, Trung tâm có trách nhiệm xem xét, xử lý yêu cầu của nhà thầu, nhà đầu tư.\ne) Chấm dứt hoặc tạm ngừng tham gia Hệ thống\nTrường hợp cần chấm dứt hoặc tạm ngừng tham gia Hệ thống, nhà thầu, nhà đầu tư gửi văn bản đề nghị đến Trung tâm. Trong thời hạn tối đa 02 ngày làm việc, kể từ ngày nhận được đề nghị của nhà thầu, nhà đầu tư, Trung tâm có trách nhiệm xử lý yêu cầu này và thông báo trên Hệ thống về việc chấm dứt hoặc tạm ngừng tham gia Hệ thống của nhà thầu, nhà đầu tư. Kể từ thời điểm Hệ thống hiển thị thông báo này, nhà thầu, nhà đầu tư không bảo đảm tư cách hợp lệ theo quy định tại Điểm d Khoản 1 Điều 5 của Luật đấu thầu và không thực hiện được các giao dịch liên quan trên Hệ thống.\ng) Khôi phục việc tham gia Hệ thống\nTrường hợp cần khôi phục việc tham gia Hệ thống sau khi đã chấm dứt hoặc tạm ngừng tham gia Hệ thống theo quy định tại Điểm e Khoản này, nhà thầu, nhà đầu tư gửi văn bản đề nghị đến Trung tâm. Trong thời hạn tối đa 02 ngày làm việc, kể từ ngày nhận được văn bản đề nghị của nhà thầu, nhà đầu tư, Trung tâm có trách nhiệm xem xét, xử lý yêu cầu này. Nhà thầu, nhà đầu tư chỉ được khôi phục việc tham gia Hệ thống sau khi đã thanh toán đầy đủ chi phí theo quy định tại Khoản 3 Điều 24 của Thông tư này.\nĐiều 7. Chứng thư số\n1. Chứng thư số được cấp cho bên mời thầu, nhà thầu,\nnhà đầu tư sau khi thực hiện đăng ký tham gia Hệ thống theo quy định tại Điều 6 của Thông tư này.\n2. Hủy chứng thư số:\nBên mời thầu, nhà thầu, nhà đầu tư có thể tự hủy chứng thư số của mình theo Hướng dẫn sử dụng. Trường hợp không thể tự hủy, bên mời thầu, nhà thầu, nhà đầu tư gửi công văn đến Trung tâm để yêu cầu hủy chứng thư số.\n3. Thay đổi thiết bị lưu chứng thư số:\nBên mời thầu, nhà thầu, nhà đầu tư có thể sao chép chứng thư số và lưu trữ trên đĩa cứng, USB, thẻ thông minh hoặc các phương tiện lưu trữ thông tin khác.\n4. Thay đổi mật khẩu chứng thư số:\nBên mời thầu, nhà thầu, nhà đầu tư thực hiện việc thay đổi mật khẩu chứng thư số theo Hướng dẫn sử dụng.\n5. Đăng ký thêm chứng thư số:\na) Bên mời thầu, nhà thầu, nhà đầu tư đã đăng ký\ntham gia Hệ thống theo quy định tại Điều 6 của Thông tư này có thể đăng ký thêm chứng thư số để tham gia Hệ thống;\nb) Việc đăng ký thêm chứng thư số quy định tại Điểm\na Khoản này không áp dụng đối với trường hợp quy định tại Điểm e Khoản 2 Điều 6 của Thông tư này.\n6. Bên mời thầu, nhà thầu, nhà đầu tư có trách nhiệm\nquản lý, lưu giữ chứng thư số của mình và chịu mọi hậu quả phát sinh do việc đánh mất, làm hỏng hóc, thay đổi mật khẩu, quên mật khẩu, sao chép, lưu giữ chứng thư số được cấp.\n7. Việc hủy chứng thư số, thay đổi thiết bị lưu chứng\nthư số, thay đổi mật khẩu chứng thư số và đăng ký thêm chứng thư số quy định tại các Khoản 2, 3, 4 và 5 Điều này thực hiện theo Hướng dẫn sử dụng.\nChương II\nĐĂNG TẢI, CUNG CẤP THÔNG TIN VỀ ĐẤU THẦU\nMục 1. THÔNG TIN VÀ QUY TRÌNH\nĐĂNG TẢI TRÊN HỆ THỐNG\nĐiều 8. Thông tin về năng lực, kinh nghiệm của nhà thầu, nhà đầu tư\n1. Thông tin về năng lực, kinh nghiệm của nhà thầu,\nnhà đầu tư cung cấp trên Hệ thống theo quy định tại Điểm d Khoản 1 Điều 7 của Nghị định số 63/2014/NĐ-CP và Điểm e Khoản 1 Điều 4 của Nghị định số 30/2015/NĐ-CP bao gồm:\na) Thông tin chung về nhà thầu, nhà đầu tư;\nb) Số liệu về báo cáo tài chính hàng năm;\nc) Thông tin về các hợp đồng đã thực hiện;\nd) Thông tin về các nhân sự chủ chốt thuộc quản lý\ncủa nhà thầu, nhà đầu tư;\nđ) Thông tin về máy móc, thiết bị thuộc sở hữu của\nnhà thầu, nhà đầu tư.\n2. Nhà thầu, nhà đầu tư chủ động cập nhật thông tin\nvề năng lực, kinh nghiệm của mình khi có thay đổi và chịu trách nhiệm trước pháp luật về tính chính xác đối với các thông tin đã kê khai trên Hệ thống. Trường hợp cần chỉnh sửa thông tin đã kê khai, nhà thầu, nhà đầu tư tự thực hiện việc chỉnh sửa các thông tin trên Hệ thống thông qua chứng thư số của mình. Hệ thống sẽ lưu lại toàn bộ các thông tin trước và sau khi nhà thầu, nhà đầu tư thực hiện chỉnh sửa.\n3. Trường hợp nhà thầu, nhà đầu tư kê khai không trung\nthực nhằm thu được lợi ích tài chính hoặc lợi ích khác hoặc nhằm trốn tránh bất kỳ một nghĩa vụ nào thì bị coi là gian lận theo quy định tại Khoản 4 Điều 89 của Luật đấu thầu.\nĐiều 9. Thông tin về dự án, kế hoạch lựa chọn nhà thầu, nhà đầu tư\n1. Thời gian đăng tải:\nThông tin về kế hoạch lựa chọn nhà thầu, nhà đầu tư được đăng tải trên Hệ thống trong vòng 07 ngày làm việc, kể từ ngày các văn bản này được phê duyệt. Thông tin cơ bản về dự án được đăng tải đồng thời với kế hoạch lựa chọn nhà thầu.\n2. Tài liệu đính kèm:\nBên mời thầu phải đính kèm Quyết định phê duyệt kế hoạch lựa chọn nhà thầu, nhà đầu tư trong quá trình đăng tải kế hoạch lựa chọn nhà thầu, nhà đầu tư. Trường hợp dự toán của gói thầu được duyệt sau khi đăng tải kế hoạch lựa chọn nhà thầu thì bên mời thầu phải cập nhật dự toán và đính kèm Quyết định phê duyệt dự toán trên Hệ thống như sau:\na) Trong quá trình đăng tải thông báo mời thầu trên\nHệ thống nếu dự toán của gói thầu được phê duyệt trước khi đăng tải thông báo mời thầu;\nb) Trong quá trình đăng tải kết quả lựa chọn nhà thầu\ntrên Hệ thống nếu dự toán của gói thầu được phê duyệt sau khi đăng tải thông báo mời thầu.\nĐiều 10. Thông báo mời quan tâm, thông báo mời sơ tuyển\n1. Thời gian đăng tải:\nBên mời thầu đăng tải thông báo mời quan tâm, thông báo mời sơ tuyển trên Hệ thống theo tiến độ tổ chức lựa chọn nhà thầu, nhà đầu tư và phù hợp với thời gian tổ chức lựa chọn nhà thầu, nhà đầu tư trong kế hoạch lựa chọn nhà thầu, nhà đầu tư được phê duyệt.\n2. Đối với lựa chọn nhà thầu, trong quá trình đăng\ntải thông báo mời sơ tuyển, thông báo mời quan tâm, bên mời thầu phải đính kèm các tài liệu sau đây:\na) Quyết định phê duyệt hồ sơ mời quan tâm, hồ sơ mời\nsơ tuyển;\nb) Hồ sơ mời quan tâm, hồ sơ mời sơ tuyển đã được\nphê duyệt.\nĐiều 11. Phát hành, sửa đổi, làm rõ hồ sơ mời quan tâm, hồ sơ mời sơ tuyển\n1. Phát hành hồ sơ mời quan tâm, hồ sơ mời sơ tuyển:\nHồ sơ mời quan tâm, hồ sơ mời sơ tuyển được phát hành miễn phí trên Hệ thống ngay sau khi đăng tải thành công thông báo mời quan tâm, thông báo mời sơ tuyển.\n2. Sửa đổi hồ sơ mời quan tâm, hồ sơ mời sơ tuyển:\nTrường hợp sửa đổi hồ sơ mời quan tâm, hồ sơ mời sơ tuyển sau khi phát hành, bên mời thầu phải đăng tải các tài liệu theo một trong hai cách sau đây trên Hệ thống:\na) Quyết định sửa đổi kèm theo những nội dung sửa đổi\nhồ sơ mời quan tâm, hồ sơ mời sơ tuyển;\nb) Quyết định sửa đổi và hồ sơ mời quan tâm, hồ sơ\nmời sơ tuyển đã được sửa đổi, trong hồ sơ mời quan tâm, hồ sơ mời sơ tuyển phải thể hiện rõ nội dung sửa đổi.\n3. Làm rõ hồ sơ mời quan tâm, hồ sơ mời sơ tuyển:\na) Trường hợp cần làm rõ hồ sơ mời quan tâm, hồ sơ\nmời sơ tuyển, nhà thầu gửi đề nghị làm rõ đến bên mời thầu bằng văn bản hoặc thông qua Hệ thống trong khoảng thời gian tối thiểu 03 ngày làm việc trước ngày có thời điểm đóng thầu;\nb) Bên mời thầu tiếp nhận nội dung làm rõ để xem\nxét, làm rõ theo đề nghị của nhà thầu và đăng tải văn bản làm rõ hồ sơ mời quan tâm, hồ sơ mời sơ tuyển trên Hệ thống trong khoảng thời gian tối thiểu 02 ngày làm việc trước ngày có thời điểm đóng thầu;\nc) Nội dung làm rõ hồ sơ mời quan tâm, hồ sơ mời sơ\ntuyển không được trái với nội dung của hồ sơ mời quan tâm, hồ sơ mời sơ tuyển đã được phê duyệt. Trường hợp khi tiếp nhận nội dung yêu cầu làm rõ hồ sơ mời quan tâm, hồ sơ mời sơ tuyển dẫn đến phải sửa đổi hồ sơ mời quan tâm, hồ sơ mời sơ tuyển thì việc sửa đổi hồ sơ mời quan tâm, hồ sơ mời sơ tuyển thực hiện theo quy định tại Khoản 2 Điều này trên cơ sở tuân thủ thời gian theo quy định tại Điểm m Khoản 1 Điều 12 của Luật đấu thầu.\nĐiều 12. Danh sách ngắn\n1. Thời gian đăng tải:\nBên mời thầu đăng tải danh sách ngắn trên Hệ thống trong vòng 07 ngày làm việc, kể từ ngày danh sách ngắn được phê duyệt.\n2. Tài liệu đính kèm:\nBên mời thầu đính kèm quyết định phê duyệt danh sách ngắn trong quá trình đăng tải danh sách ngắn.\nĐiều 13. Thông báo mời thầu, thông báo mời chào hàng\n1. Thời gian đăng tải:\nBên mời thầu đăng tải thông báo mời thầu, thông báo mời chào hàng trên Hệ thống theo tiến độ tổ chức lựa chọn nhà thầu, nhà đầu tư và phù hợp với thời gian tổ chức lựa chọn nhà thầu, nhà đầu tư trong kế hoạch lựa chọn nhà thầu, nhà đầu tư được phê duyệt.\n2. Đối với lựa chọn nhà thầu, trong quá trình đăng\ntải thông báo mời thầu, thông báo mời chào hàng, bên mời thầu phải đính kèm các tài liệu sau đây:\na) Quyết định phê duyệt hồ sơ mời thầu, hồ sơ yêu cầu,\nyêu cầu báo giá;\nb) Hồ sơ mời thầu, hồ sơ yêu cầu, yêu cầu báo giá\nđược phê duyệt.\nĐiều 14. Phát hành, sửa đổi, làm rõ hồ sơ mời thầu, hồ sơ yêu cầu\n1. Phát hành hồ sơ mời thầu, hồ sơ yêu cầu:\na) Hồ sơ mời thầu, hồ sơ yêu cầu được phát hành\ntrên Hệ thống ngay sau khi đăng tải thành công thông báo mời thầu, thông báo mời chào hàng;\nb) Đối với đấu thầu không qua mạng, trường hợp hồ\nsơ mời thầu, hồ sơ yêu cầu được bán theo quy định tại Khoản 1\nĐiều 9 của Nghị định số 63/2014/NĐ-CP thì nhà thầu phải trả cho bên mời thầu một khoản tiền bằng giá bán hồ sơ mời thầu, hồ sơ yêu cầu trước khi hồ sơ dự thầu, hồ sơ đề xuất được tiếp nhận. Trường hợp hồ sơ mời thầu, hồ sơ yêu cầu được phát hành miễn phí thì nhà thầu không phải nộp khoản tiền này.\n2. Sửa đổi hồ sơ mời thầu, hồ sơ yêu cầu:\nTrường hợp sửa đổi hồ sơ mời thầu, hồ sơ yêu cầu sau khi phát hành, bên mời thầu phải đăng tải các tài liệu theo một trong hai cách sau đây trên Hệ thống:\na) Quyết định sửa đổi hồ sơ mời thầu, hồ sơ yêu cầu\nkèm theo những nội dung sửa đổi hồ sơ mời thầu, hồ sơ yêu cầu;\nb) Quyết định sửa đổi và hồ sơ mời thầu, hồ sơ yêu\ncầu đã được sửa đổi, trong hồ sơ mời thầu, hồ sơ yêu cầu phải thể hiện rõ nội dung sửa đổi.\n3. Làm rõ hồ sơ mời thầu, hồ sơ yêu cầu:\na) Trường hợp cần làm rõ hồ sơ mời thầu, hồ sơ yêu\ncầu, nhà thầu phải gửi đề nghị làm rõ đến bên mời thầu bằng văn bản hoặc thông qua Hệ thống tối thiểu 03 ngày làm việc (đối với đấu thầu trong nước), 05 ngày làm việc (đối với đấu thầu quốc tế) trước ngày có thời điểm đóng thầu để xem xét, xử lý;\nb) Bên mời thầu tiếp nhận nội dung làm rõ để xem\nxét, làm rõ theo đề nghị của nhà thầu và đăng tải văn bản làm rõ hồ sơ mời thầu, hồ sơ yêu cầu trên Hệ thống trong khoảng thời gian tối thiểu 02 ngày làm việc trước ngày có thời điểm đóng thầu;\nc) Nội dung làm rõ hồ sơ mời thầu, hồ sơ yêu cầu\nkhông được trái với nội dung của hồ sơ mời thầu, hồ sơ yêu cầu đã được phê duyệt. Trường hợp khi tiếp nhận nội dung yêu cầu làm rõ hồ sơ mời thầu, hồ sơ yêu cầu dẫn đến phải sửa đổi hồ sơ mời thầu, hồ sơ yêu cầu thì việc sửa đổi hồ sơ mời thầu, hồ sơ yêu cầu thực hiện theo quy định tại Khoản 2 Điều này trên cơ sở tuân thủ thời gian theo quy định tại Điểm m Khoản 1 Điều 12 của Luật đấu thầu và Điểm c Khoản 2 Điều 64 của Nghị định số 63/2014/NĐ-CP; đối với đấu thầu qua mạng, việc sửa đổi phải được thực hiện trước thời điểm đóng thầu tối thiểu 03 ngày làm việc. Trong trường hợp cần thiết, bên mời thầu tổ chức hội nghị tiền đấu thầu để trao đổi về những nội dung trong hồ sơ mời thầu mà các nhà thầu chưa rõ. Bên mời thầu đăng tải giấy mời tham dự hội nghị tiền đấu thầu trên Hệ thống. Nội dung trao đổi giữa bên mời thầu và nhà thầu phải được bên mời thầu ghi lại thành biên bản và đăng tải trên Hệ thống.\nĐiều 15. Hủy, gia hạn, sửa đổi thông tin đã đăng tải\n1. Việc hủy, gia hạn, sửa đổi thông tin đã đăng tải\ncủa bên mời thầu được thực hiện theo Hướng dẫn sử dụng.\n2. Trường hợp không tự thực hiện được việc hủy, gia\nhạn, sửa đổi các thông tin đã đăng tải, bên mời thầu gửi văn bản đề nghị đến Trung tâm. Trong thời hạn tối đa 02 ngày làm việc, kể từ ngày nhận được văn bản đề nghị của bên mời thầu, Trung tâm có trách nhiệm xem xét, xử lý yêu cầu của bên mời thầu.\nĐiều 16. Mở thầu đối với đấu thầu qua mạng Bên mời thầu phải tiến hành mở thầu và công khai biên bản mở thầu trên Hệ thống trong thời hạn không quá 02 giờ, kể từ thời điểm đóng thầu. Trường hợp đến thời điểm đóng thầu không có nhà thầu nộp hồ sơ, bên mời thầu có thể gia hạn thời điểm đóng thầu hoặc tổ chức đấu thầu lại. Việc gia hạn thời điểm đóng thầu được thực hiện theo Hướng dẫn sử dụng.\nĐiều 17. Kết quả lựa chọn nhà thầu, nhà đầu tư\n1. Thời gian đăng tải:\nBên mời thầu đăng tải kết quả lựa chọn nhà thầu, nhà đầu tư trên Hệ thống trong vòng 07 ngày làm việc, kể từ ngày phê duyệt kết quả lựa chọn nhà thầu, nhà đầu tư.\n2. Tài liệu đính kèm bao gồm:\na) Quyết định phê duyệt kết quả lựa chọn nhà thầu,\nnhà đầu tư;\nb) Báo cáo đánh giá hồ sơ dự thầu, hồ sơ đề xuất đối\nvới đấu thầu qua mạng;\n3. Đối với gói thầu mua sắm hàng hóa phải công khai\nchi tiết thông tin về các hạng mục hàng hóa thuộc gói thầu.\nĐiều 18. Danh mục dự án có sử dụng đất và thông tin dự án đầu tư PPP, dự án xã hội hóa\n1. Danh mục dự án có sử dụng đất và thông tin dự án\nđầu tư PPP được đăng tải trên Hệ thống trong vòng 07 ngày làm việc, kể từ ngày ban hành các văn bản này.\n2. Đối với dự án xã hội hóa được chọn áp dụng Luật\nđấu thầu thì thông tin dự án được đăng tải trên Hệ thống trong vòng 07 ngày làm việc, kể từ ngày dự án được phê duyệt.\nĐiều 19. Quy trình đăng tải trên Hệ thống\n1. Quy trình đăng tải thông tin tại các Điều 8, 9,\n10, 11, 12, 13, 14, 15, 16, 17 và 18 của Thông tư này được thực hiện theo Hướng dẫn sử dụng.\n2. Sau khi đăng tải thông tin lại các Điều 9, 10,\n11, 12, 13, 14, 15, 16 và 17 của Thông tư này, Hệ thống phản hồi cho người gửi về việc gửi thành công hoặc không thành công thông qua thư điện tử (e-mail), ứng dụng trên thiết bị di động hoặc các kênh thông tin khác.\nMục 2. TRÁCH NHIỆM CỦA TỔ CHỨC,\nCÁ NHÂN CUNG CẤP, ĐĂNG TẢI THÔNG TIN\nĐiều 20. Trách nhiệm của bên mời thầu\n1. Thực hiện theo quy định tại Điều\n79 của Luật đấu thầu khi tham gia Hệ thống.\n2. Tổ chức lựa chọn nhà thầu qua mạng theo đúng lộ\ntrình được quy định tại Khoản 1 Điều 29 của Thông tư này.\n3. Cung cấp, đăng tải thông tin về đấu thầu trên Hệ\nthống, chịu trách nhiệm theo quy định tại Điểm i Khoản 2 Điều 75, Điều 79 của Luật đấu thầu, Điều 7 của Nghị định số 63/2014/NĐ-CP, Điều 4 của Nghị định số 30/2015/NĐ-CP.\n4. Cung cấp thông tin về nhà thầu, nhà đầu tư nước\nngoài trúng thầu tại Việt Nam theo mẫu số 2 Phụ lục 1 ban hành kèm theo Thông tư này. Thông tin được gửi đến Cục Quản lý đấu thầu, Bộ Kế hoạch và Đầu tư trong vòng 07 ngày làm việc, kể từ ngày phê duyệt kết quả lựa chọn nhà thầu, nhà đầu tư theo quy định tại Điểm c Khoản 1\nĐiều 128 của Nghị định số 63/2014/NĐ-CP.\n5. Đối với gói thầu được tổ chức đấu thầu quốc tế,\nbên mời thầu phải đăng tải thông tin quy định tại Điều 10 và Điều 13 của Thông tư này bằng tiếng Việt và tiếng Anh. Ngoài việc đăng tải trên Hệ thống, Báo Đấu thầu, khuyến khích đăng tải thông báo mời quan tâm quốc tế, thông báo mời sơ tuyển quốc tế, thông báo mời thầu quốc tế lên trang thông tin điện tử hoặc tờ báo bằng tiếng Anh được phát hành rộng rãi tại Việt Nam.\n6. Bên mời thầu phải chịu trách nhiệm về tính xác\nthực của tài liệu đăng tải trên Hệ thống với tài liệu đã được phê duyệt. Trường hợp có sự sai khác giữa tài liệu được đăng tải trên Hệ thống với tài liệu đã được phê duyệt thì tài liệu đăng tải trên Hệ thống sẽ là cơ sở pháp lý để thực hiện.\n7. Thanh toán chi phí đăng tải thông tin về đấu thầu\ntrên Hệ thống, Báo Đấu thầu theo quy định tại Khoản 1 Điều 24 của Thông tư này.\n8. Theo dõi, cập nhật các thông tin đã đăng tải\ntrên Hệ thống và các thông tin mà Hệ thống phản hồi.\n9. Trường hợp bên mời thầu không thực hiện đăng tải\nthông tin về đấu thầu theo quy định thì bị xử lý theo Điểm d Khoản 3 Điều 20 và Điều 21 của Nghị định số 50/2016/NĐ-CP ngày 01/6/2016 của Chính phủ quy định về xử phạt vi phạm hành chính trong lĩnh vực kế hoạch và đầu tư.\nĐiều 21. Trách nhiệm của nhà thầu, nhà đầu tư\n1. Nhà thầu, nhà đầu tư phải đăng ký tham gia Hệ thống\nvà được phê duyệt theo quy định tại Khoản 2 Điều 6 của Thông tư này trước khi xét duyệt trúng thầu để bảo đảm tư cách hợp lệ theo quy định tại Điểm d Khoản 1 Điều 5 của Luật đấu thầu. Trường hợp trong quá trình đánh giá hồ sơ dự thầu, bên mời thầu phát hiện nhà thầu, nhà đầu tư chưa đăng ký tham gia Hệ thống thì bên mời thầu phải yêu cầu nhà thầu, nhà đầu tư hoàn thành việc đăng ký theo quy định tại Khoản 2 Điều 6 của Thông tư này.\n2. Cung cấp, đăng tải thông tin về đấu thầu trên Hệ\nthống, bảo đảm tuân thủ các quy định tại Điều 80 của Luật đấu thầu, Điều 7 của Nghị định số 63/2014/NĐ-CP, Điều 4 của Nghị định số 30/2015/NĐ-CP.\n3. Thanh toán chi phí lựa chọn nhà thầu qua mạng\ntheo quy định tại Khoản 2 Điều 24 của Thông tư này. Đối với gói thầu tổ chức đấu thầu qua mạng, trường hợp nhà thầu, nhà đầu tư đã có tên trên Hệ thống nhưng chưa thanh toán chi phí theo quy định tại Khoản 2 Điều 24 của Thông tư này, Trung tâm có trách nhiệm gửi thư điện tử (e-mail) yêu cầu thanh toán. Sau thời hạn 15 ngày, kể từ ngày nhận được thư điện tử của Trung tâm, nhà thầu, nhà đầu tư vẫn không thanh toán thì Hệ thống hiển thị thông báo về việc tạm ngừng tham gia Hệ thống của nhà thầu, nhà đầu tư. Trong trường hợp này, nhà thầu, nhà đầu tư được xem là không bảo đảm tư cách hợp lệ theo quy định tại Điểm d Khoản 1 Điều 5 của Luật đấu thầu, Mục 5 Chương I các Mẫu hồ sơ mời thầu ban hành kèm theo Thông tư số 04/2017/TT-BKHĐT , đồng thời nhà thầu, nhà đầu tư không thực hiện được các giao dịch liên quan trên Hệ thống.\nĐiều 22. Trách nhiệm của Trung tâm và Báo Đấu thầu\n1. Trung tâm có trách nhiệm:\na) Thực hiện trách nhiệm quy định tại Điều 85 của Luật đấu thầu;\nb) Xây dựng, vận hành, duy trì Hệ thống, bảo đảm Hệ\nthống hoạt động liên tục, an toàn, bảo mật, ổn định;\nc) Xây dựng tài liệu Hướng dẫn sử dụng, hỗ\ntrợ bên mời thầu, nhà thầu, nhà đầu tư đăng ký, cấp chứng thư số tham gia Hệ thống và lựa chọn nhà thầu qua mạng. Cung cấp các dịch vụ tuyên truyền, đào tạo, hướng dẫn bên mời thầu, nhà thầu, nhà đầu tư cung cấp, đăng tải thông tin về đấu thầu trên Hệ thống và triển khai các dịch vụ liên quan đến thông tin về đấu thầu, lựa chọn nhà thầu qua mạng.\n2. Báo Đấu thầu có trách nhiệm:\na) Rà soát, phát hiện các thông tin không hợp lệ\ntheo quy định tại Khoản 7 Điều 3 của Thông tư này và thông báo cho bên mời thầu trong thời hạn tối đa là 01 ngày làm việc, kể từ khi bên mời thầu tự đăng tải thông tin trên Hệ thống. Việc thông báo được thực hiện trên Hệ thống, thư điện tử, ứng dụng trên thiết bị di động hoặc các kênh thông tin khác về nội dung thông tin không hợp lệ để bên mời thầu tự chỉnh sửa, hoàn thiện, đăng tải lại trên Hệ thống.\nb) Trích xuất thông tin quy định tại các Điều 10,\n12,13 và 15 của Thông tư này để đăng tải 01 kỳ trên Báo Đấu thầu trong vòng 02 ngày làm việc, kể từ khi bên mời thầu tự đăng tải thông tin lên Hệ thống theo quy định tại Khoản 3 Điều 8 của Nghị định số 63/2014/NĐ-CP, Khoản 3 Điều 5 của Nghị định số 30/2015/NĐ-CP.\n3. Trường hợp để xảy ra sai sót trong việc đăng tải\nthông tin về đấu thầu như đăng chậm, sai nội dung hoặc cố tình không đăng tải thông tin gây thiệt hại cho bên mời thầu, nhà thầu, nhà đầu tư thì Báo Đấu thầu phải đăng tải thông tin cải chính công khai theo quy định của pháp luật về báo chí. Ngoài ra, tùy theo mức độ sai sót, tổ chức, cá nhân liên quan thuộc Báo Đấu thầu còn bị xem xét xử lý trách nhiệm theo quy định của pháp luật về cán bộ, công chức, viên chức, pháp luật về người lao động và quy định khác của pháp luật có liên quan.\nChương III\nNGUỒN THU, QUẢN LÝ, SỬ DỤNG\nCHI PHÍ ĐĂNG TẢI THÔNG TIN VỀ ĐẤU THẦU VÀ CHI PHÍ LỰA CHỌN NHÀ THẦU QUA MẠNG\nMục 1. NGUYÊN TẮC THU CHI VÀ\nNGUỒN THU\nĐiều 23. Nguyên tắc thu chi\n1. Trung tâm, Báo Đấu thầu có trách nhiệm thu, quản\nlý và sử dụng chi phí đăng tải thông tin về đấu thầu và chi phí lựa chọn nhà thầu qua mạng theo quy định tại Thông tư này để bảo đảm vận hành Hệ thống, Báo Đấu thầu theo đúng quy định.\n2. Nguồn thu từ đăng tải thông tin về đấu thầu, lựa\nchọn nhà thầu qua mạng bảo đảm đủ bù đắp chi phí hợp lý để thực hiện các nhiệm vụ sau đây:\na) Đăng tải thông tin về đấu thầu trên Hệ thống,\nBáo Đấu thầu;\nb) Lựa chọn nhà thầu qua mạng.\n3. Không sử dụng nguồn ngân sách nhà nước để thực\nhiện các nhiệm vụ quy định tại Khoản 2 Điều này.\nĐiều 24. Các loại chi phí và mức thu\n1. Chi phí đăng tải thông tin về đấu thầu:\na) Chi phí đăng tải thông báo mời quan tâm, thông\nbáo mời sơ tuyển là 330.000 đồng/gói thầu/thứ tiếng (đã bao gồm thuế giá trị gia tăng);\nb) Chi phí đăng tải thông báo mời chào hàng là\n165.000 đồng/gói thầu/thứ tiếng (đã bao gồm thuế giá trị gia tăng);\nc) Chi phí đăng tải thông báo mời thầu là 330.000 đồng/gói\nthầu/thứ tiếng (đã bao gồm thuế giá trị gia tăng);\nd) Chi phí đăng tải danh sách ngắn là 165.000 đồng/gói\nthầu/thứ tiếng (đã bao gồm thuế giá trị gia tăng).\n2. Đối với chi phí lựa chọn nhà thầu qua mạng:\na) Chi phí đăng ký tham gia Hệ thống là 550.000 đồng\n(đã bao gồm thuế giá trị gia tăng), chi phí này đã bao gồm chi phí duy trì tên và hồ sơ năng lực của nhà thầu, nhà đầu tư trên Hệ thống tính đến ngày cuối cùng của năm đăng ký;\nb) Chi phí duy trì tên và hồ sơ năng lực của nhà thầu,\nnhà đầu tư trên Hệ thống là 550.000 đồng/năm (đã bao gồm thuế giá trị gia tăng);\nc) Chi phí nộp hồ sơ dự thầu là 330.000 đồng/gói thầu\n(đã bao gồm thuế giá trị gia tăng);\nd) Chi phí nộp hồ sơ đề xuất là 220.000 đồng/gói thầu\n(đã bao gồm thuế giá trị gia tăng).\n3. Trường hợp cần khôi phục việc tham gia Hệ thống\ntheo quy định tại Điểm g Khoản 2 Điều 6 của Thông tư này, nhà thầu, nhà đầu tư phải thanh toán toàn bộ các khoản nợ (nếu có) theo quy định tại Khoản 2 Điều này, tính từ thời điểm bắt đầu phát sinh nợ đến khi có văn bản đề nghị chấm dứt hoặc tạm ngừng tham gia Hệ thống.\nĐiều 25. Tổ chức thu, nộp chi phí\n1. Đối với chi phí đăng tải thông tin về đấu thầu:\na) Báo Đấu thầu có trách nhiệm thu chi phí đăng tải\nthông tin về đấu thầu quy định tại Khoản 1 Điều 24 của Thông tư này. Tài khoản thu chi phí là tài khoản Việt Nam đồng của Báo Đấu thầu mở tại ngân hàng thương mại. Khoản thu chi phí đăng tải thông tin về đấu thầu được Báo Đấu thầu chuyển một phần sang Trung tâm theo quyết định của Bộ trưởng Bộ Kế hoạch và Đầu tư để bù đắp việc thực hiện nâng cấp, vận hành Hệ thống nhằm bảo đảm Hệ thống hoạt động liên tục, ổn định phục vụ việc thực hiện đăng tải thông tin về đấu thầu trên Hệ thống, phần còn lại được sử dụng để thực hiện chức năng đăng tải thông tin về đấu thầu trên Báo Đấu thầu.\nb) Bên mời thầu thanh toán chi phí đăng tải thông\ntin về đấu thầu theo quy định tại Khoản 1 Điều 24 của Thông tư này tối đa là 02 ngày làm việc, kể từ ngày tự đăng tải thông tin trên Hệ thống.\n2. Đối với chi phí lựa chọn nhà thầu qua mạng:\na) Trung tâm chịu trách nhiệm thu chi phí lựa chọn\nnhà thầu qua mạng quy định tại Khoản 2 Điều 24 của Thông tư này. Tài khoản thu chi phí là tài khoản Việt Nam đồng của Trung tâm mở tại ngân hàng thương mại.\nb) Nhà thầu thanh toán chi phí lựa chọn nhà thầu\nqua mạng theo quy định tại Khoản 2 Điều 24 của Thông tư này như sau: - Đối với chi phí đăng ký tham gia Hệ thống, thanh toán ngay tại thời điểm đăng ký trên Hệ thống; - Đối với chi phí duy trì tên và hồ sơ năng lực của nhà thầu, nhà đầu tư trên Hệ thống, thời hạn thanh toán là Quý I hàng năm trừ năm thực hiện đăng ký trên Hệ thống; - Đối với chi phí nộp hồ sơ dự thầu, hồ sơ đề xuất, thời hạn thanh toán tối đa là 02 ngày làm việc kể từ ngày mở thầu.\nMục 2. QUẢN LÝ VÀ SỬ DỤNG SỐ\nTIỀN THU ĐĂNG TẢI THÔNG TIN VỀ ĐẤU THẦU VÀ THỰC HIỆN LỰA CHỌN NHÀ THẦU QUA MẠNG\nĐiều 26. Nội dung chi tiền thu đăng tải thông tin về đấu thầu và thực hiện lựa chọn nhà thầu qua mạng\n1. Chi thực hiện nghĩa vụ với Ngân sách nhà nước.\n2. Chi thực hiện đăng tải thông tin về đấu thầu\ntrên Báo Đấu thầu bao gồm:\na) Chi in Báo;\nb) Chi vận chuyển và phát hành Báo trên toàn quốc;\nc) Chi cho cá nhân trực tiếp tham gia hoạt động\nđăng tải thông tin về đấu thầu, bao gồm: tiền lương, phụ cấp và các khoản chi hợp lệ khác cho người lao động theo quy định của pháp luật;\nd) Chi văn phòng phẩm, vật tư văn phòng, thông tin\nliên lạc, điện, nước, ứng dụng công nghệ thông tin và các dịch vụ thuê ngoài phục vụ hoạt động đăng tải thông tin về đấu thầu;\nđ) Chi mua sắm, bảo dưỡng và sửa chữa thường xuyên,\nsửa chữa lớn, bảo hành, bảo trì, nâng cấp hệ thống tài sản, máy móc, thiết bị phục vụ hoạt động đăng tải thông tin về đấu thầu;\ne) Chi tổ chức, quản lý hoạt động đăng tải, phát\nhành thông tin về đấu thầu;\ng) Các khoản chi khác phục vụ trực tiếp hoạt động\nđăng tải thông tin về đấu thầu.\n3. Chi thực hiện đăng tải thông tin về đấu thầu\ntrên Hệ thống.\n4. Chi thực hiện lựa chọn nhà thầu qua mạng bao gồm:\na) Chi tổ chức quản lý, vận hành và phát triển Hệ\nthống;\nb) Chi hoạt động hướng dẫn, hỗ trợ người sử dụng Hệ\nthống;\nc) Chi hoạt động truyền thông, hợp tác quốc tế về đấu\nthầu qua mạng;\nd) Chi hoạt động liên quan đến công việc tiếp nhận,\nxử lý hồ sơ tham gia Hệ thống, ứng dụng công nghệ thông tin trong quản lý cơ sở dữ liệu;\nd) Các khoản chi khác phục vụ trực tiếp cho việc\nđăng tải thông tin về đấu thầu và lựa chọn nhà thầu qua mạng.\n5. Việc phân phối kết quả tài chính được thực hiện theo\ncơ chế tự chủ theo quy định của pháp luật.\nĐiều 27. Tổ chức lập, phê duyệt kế hoạch thu, chi\n1. Lập, phê duyệt kế hoạch:\na) Hàng năm, Trung tâm, Báo Đấu thầu lập kế hoạch\nthu và kế hoạch chi liên quan đến hoạt động đăng tải thông tin về đấu thầu và thực hiện lựa chọn nhà thầu qua mạng theo các nội dung tại Phụ lục II kèm theo Thông tư này, tổng hợp vào dự toán của Cục Quản lý đấu thầu trình Bộ Kế hoạch và Đầu tư phê duyệt;\nb) Việc lập kế hoạch chi liên quan đến hoạt động\nđăng tải thông tin về đấu thầu và thực hiện lựa chọn nhà thầu qua mạng bảo đảm phù hợp với các tiêu chuẩn, định mức và chế độ tài chính hiện hành.\n2. Điều chỉnh kế hoạch:\nTrong quá trình thực hiện, trường hợp phát sinh nhiệm vụ, Cục Quản lý đấu thầu được chủ động điều chỉnh các khoản chi tại Phần B Phụ lục II kèm theo Thông tư này và chịu trách nhiệm về việc điều chỉnh trong phạm vi kế hoạch năm được duyệt. Việc điều chỉnh chỉ được thực hiện trong Quý IV năm kế hoạch.\n3. Quyết toán thu, chi:\nHàng năm, Trung tâm, Báo Đấu thầu có trách nhiệm lập quyết toán thu, chi theo các nội dung tại Phụ lục III kèm theo Thông tư này và tổng hợp vào quyết toán kinh phí hoạt động trong năm của Cục Quản lý đấu thầu, trình Bộ Kế hoạch và Đầu tư phê duyệt.\nChương IV\nKHOẢN THU TỪ BẢO ĐẢM DỰ\nTHẦU, BẢO ĐẢM THỰC HIỆN HỢP ĐỒNG KHÔNG ĐƯỢC HOÀN TRẢ\nĐiều 28. Khoản thu từ bảo đảm dự thầu, bảo đảm thực hiện hợp đồng không được hoàn trả Trường hợp nhà thầu, nhà đầu tư vi phạm quy định của pháp luật về đấu thầu dẫn đến không được hoàn trả bảo đảm dự thầu, bảo đảm thực hiện hợp đồng theo quy định tại Khoản 8 Điều 11 và Khoản 5 Điều 66 Luật đấu thầu thì việc sử dụng khoản thu từ bảo đảm dự thầu, bảo đảm thực hiện hợp đồng không được hoàn trả sẽ được thực hiện như sau:\n1. Đối với các dự án, gói thầu có sử dụng vốn ngân\nsách nhà nước, khoản thu này được nộp vào Ngân sách nhà nước theo quy định của pháp luật về ngân sách nhà nước.\n2. Đối với các dự án, gói thầu không sử dụng vốn\nngân sách nhà nước, khoản thu này được sử dụng theo quy chế tài chính của chủ đầu tư.\n3. Đối với trường hợp bên mời thầu là đơn vị tư vấn\nđược thuê thì khoản thu này phải nộp lại cho chủ đầu tư. Chủ đầu tư sử dụng khoản thu này căn cứ vào quy định tại Khoản 1 và Khoản 2 Điều này.\nChương V\nLỘ TRÌNH ÁP DỤNG LỰA CHỌN\nNHÀ THẦU QUA MẠNG\nĐiều 29. Lộ trình áp dụng lựa chọn nhà thầu qua mạng Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ, Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương, các Tập đoàn kinh tế, Tổng công ty nhà nước, các tổ chức chính trị, tổ chức chính trị - xã hội, tổ chức chính trị xã hội - nghề nghiệp, tổ chức xã hội - nghề nghiệp, tổ chức xã hội, đơn vị thuộc lực lượng vũ trang nhân dân, đơn vị sự nghiệp công lập chỉ đạo các chủ đầu tư, bên mời thầu trực thuộc phải tổ chức lựa chọn nhà thầu qua mạng theo lộ trình như sau:\n1. Năm 2020:\na) Tổ chức lựa chọn nhà thầu qua mạng đối với toàn\nbộ (100%) các gói thầu áp dụng hình thức đấu thầu rộng rãi, chào hàng cạnh tranh thuộc lĩnh vực hàng hóa, dịch vụ phi tư vấn, dịch vụ tư vấn có giá gói thầu không quá 5 tỷ đồng và thuộc lĩnh vực xây lắp có giá gói thầu không quá 10 tỷ đồng, trừ trường hợp đối với các gói thầu chưa thể tổ chức lựa chọn nhà thầu qua mạng hoặc các gói thầu có tính đặc thù;\nb) Việc tổ chức lựa chọn nhà thầu qua mạng trong\nnăm phải bảo đảm tổng số lượng các gói thầu đạt tối thiểu 60% số lượng gói thầu áp dụng hình thức đấu thầu rộng rãi, chào hàng cạnh tranh và tổng giá trị gói thầu đạt tối thiểu 25% tổng giá trị các gói thầu áp dụng hình thức đấu thầu rộng rãi, chào hàng cạnh tranh.\n2. Năm 2021:\na) Tổ chức lựa chọn nhà thầu qua mạng đối với toàn\nbộ (100%) các gói thầu áp dụng hình thức đấu thầu rộng rãi, chào hàng cạnh tranh thuộc lĩnh vực hàng hóa, dịch vụ phi tư vấn, dịch vụ tư vấn có giá gói thầu không quá 10 tỷ đồng và thuộc lĩnh vực xây lắp có giá gói thầu không quá 20 tỷ đồng, trừ trường hợp đối với gói thầu chưa thể tổ chức lựa chọn nhà thầu qua mạng hoặc các gói thầu có tính đặc thù;\nb) Việc tổ chức lựa chọn nhà thầu qua mạng trong\nnăm phải bảo đảm tổng số lượng các gói thầu đạt tối thiểu 70% số lượng gói thầu áp dụng hình thức đấu thầu rộng rãi, chào hàng cạnh tranh và tổng giá trị gói thầu đạt tối thiểu 35% tổng giá trị các gói thầu áp dụng hình thức đấu thầu rộng rãi, chào hàng cạnh tranh.\n3. Giai đoạn từ năm 2022 đến năm 2025:\na) Tổ chức lựa chọn nhà thầu qua mạng tối thiểu 70%\ncác gói thầu thuộc phạm vi điều chỉnh của Luật đấu thầu;\nb) Tổ chức lựa chọn nhà thầu qua mạng toàn bộ\n(100%) gói thầu sử dụng vốn nhà nước để mua sắm nhằm duy trì hoạt động thường xuyên của cơ quan nhà nước, tổ chức chính trị, tổ chức chính trị - xã hội, tổ chức chính trị xã hội - nghề nghiệp, tổ chức xã hội - nghề nghiệp, tổ chức xã hội, đơn vị thuộc lực lượng vũ trang nhân dân, đơn vị sự nghiệp công lập;\nc) Tổ chức lựa chọn nhà thầu qua mạng toàn bộ\n(100%) gói thầu mua sắm tập trung.\nChương VI\nTỔ CHỨC THỰC HIỆN\nĐiều 30. Hướng dẫn thi hành Vào các dịp nghỉ lễ, Tết hàng năm, Bộ Kế hoạch và Đầu tư hướng dẫn việc cung cấp, đăng tải thông tin về đấu thầu trên Hệ thống, Báo Đấu thầu phù hợp với lịch nghỉ lễ, Tết theo thông báo của Bộ Lao động - Thương binh và Xã hội.\nĐiều 31. Hiệu lực thi hành\n1. Thông tư này có hiệu lực thi hành kể từ ngày 01\ntháng 02 năm 2020.\n2. Kể từ ngày Thông tư này có hiệu lực thi hành,\nThông tư liên tịch số 07/2015/TTLT-BKHĐT-BTC ngày 8 tháng 9 năm 2015 của Bộ Kế hoạch và Đầu tư và Bộ Tài chính quy định chi tiết việc cung cấp, đăng tải thông tin về đấu thầu và lựa chọn nhà thầu qua mạng hết hiệu lực thi hành.\n3. Trong quá trình thực hiện, nếu có vướng mắc, các\nBộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ, cơ quan khác ở Trung ương, Ủy ban nhân dân các cấp, các tập đoàn kinh tế nhà nước, các tổng công ty nhà nước và tổ chức, cá nhân có liên quan gửi ý kiến về Bộ Kế hoạch và Đầu tư để kịp thời xem xét, hướng dẫn.\nNơi nhận:\n- Các Bộ, cơ quan ngang Bộ, cơ quan thuộc\nCP;\n- HĐND, UBND các tỉnh, thành phố trực thuộc TW;\n- Văn phòng Trung ương và các Ban của Đảng;\n- Văn phòng Chủ tịch nước;\n- Hội đồng Dân tộc và các Ủy Ban của Quốc hội;\n- Văn phòng Quốc hội:\n- Văn phòng Chính phủ;\n- Tòa án nhân dân tối cao;\n- Viện Kiểm sát nhân dân tối cao;\n- Kiểm toán Nhà nước;\n- Cơ quan Trung ương của các đoàn thể;\n- Sở Kế hoạch và Đầu tư các tỉnh, thành phố trực thuộc Trung ương;\n- Cục Kiểm tra văn bản QPPL (Bộ Tư pháp);\n- Công báo;\n- Cổng TTĐT Chính phủ;\n- Cổng TTĐT Kế hoạch và Đầu tư;\n- Các đơn vị thuộc Bộ Kế hoạch và Đầu tư;\n- Lưu: VT, Cục QLDT(H. ).\nBỘ TRƯỞNG\nNguyễn Chí Dũng\nPHỤ LỤC\n(Ban hành kèm theo Thông tư số 11/2019/TT-BKHĐT ngày 16 tháng 12 năm 2019 của Bộ Kế hoạch và Đầu\ntư)\nPHỤ LỤC 1\nCÁC MẪU PHIẾU\nMẫu 1\nPHIẾU ĐĂNG KÝ THÔNG TIN VĂN BẢN QUY PHẠM PHÁP LUẬT VỀ\nĐẤU THẦU\nKính gửi: Cục Quản lý đấu thầu - Bộ Kế hoạch và Đầu tư\n1. Tên đơn vị: [ghi tên đơn vị gửi phiếu đăng\nký] ……………………………………………………..\n2. Số văn bản: [ghi số của văn bản quy phạm pháp\nluật] ……………………………………………\n3. Cơ quan ban hành:\n…………………………………………………………………………………….\n4. Người ký: ……………………………………………………………………………………………….\n5. Loại văn bản:\n…………………………………………………………………………………………..\n6. Ngày ban hành: …………………….. Ngày hiệu lực\n……………………………………………….\n7. Tình trạng hiệu lực:\n………………………………………………………………………………… ……., ngày … tháng … năm ……………….. Đại diện hợp pháp của đơn vị đăng ký (Ký, ghi rõ họ tên, chức danh và đóng dấu) * Ghi chú: Yêu cầu gửi kèm theo văn bản quy phạm pháp luật về đấu thầu (bản cứng và file mềm. File mềm gửi về địa chỉ chinhsachdauthau@mpi.gov.vn). Mẫu 2\nPHIẾU ĐĂNG KÝ THÔNG TIN VỀ NHÀ THẦU, NHÀ ĐẦU TƯ NƯỚC\nNGOÀI TRÚNG THẦU TẠI VIỆT NAM\nKính gửi: Cục Quản lý đấu thầu - Bộ Kế hoạch và Đầu tư - Thông tin chung: …………………………………………………………………………………….. - Tên hợp đồng: ……………………………………………………………………………………….. - Tên nhà thầu/nhà đầu tư trúng thầu: ……………………………………………………………… - Địa chỉ đăng ký thành lập tại nước hoặc vùng lãnh thổ nơi nhà thầu, nhà đầu tư đang hoạt động: …………………………………………………………………………………………………… - Số điện thoại: …………………………………. Fax:………………………………………………… - Email: …………………………………………… Website: …………………………………………. - Địa chỉ chi nhánh hoặc văn phòng đại diện tại Việt Nam (nêu có): ……………………………… - Số điện thoại: …………………………………. Fax:…………………………………………………. - Email: …………………………………………… Website: …………………………………………. - Thời gian thực hiện gói thầu/dự án: từ …………………. đến: …………………………………… - Tổng số cán bộ, chuyên gia Việt Nam: ……………………………………………………….. người - Tổng số cán bộ, chuyên gia nước ngoài: ……………………………………………………. người - Cố vấn trưởng: ………………………………………………………………………………………… - Đội trưởng dự án: …………………………………………………………………………………….. - Giám đốc dự án: ………………………………………………………………………………………. - Tên ngày tháng năm sinh, số hộ chiếu của cán bộ chủ chốt thực hiện gói thầu: …………………………………………………………………………………………………………….. …………………………………………………………………………………………………………….. …………, ngày …. tháng …. năm ………. Đại diện hợp pháp của đơn vị đăng ký (Ký, ghi rõ họ tên, chức danh và đóng dấu) Mẫu 3\nPHIẾU ĐĂNG KÝ THÔNG TIN XỬ LÝ VI PHẠM PHÁP LUẬT VỀ ĐẤU\nTHẦU\nKính gửi: Cục Quản lý đấu thầu - Bộ Kế hoạch và Đầu tư A. Thông tin đơn vị đăng ký: - Tên đơn vị đăng ký: ………………………………………………………………………………… - Số quyết định: ……………………………………………………………………………………….. - Ngày quyết định: ……………………………………………………………………………………. B. Thông tin tổ chức, cá nhân bị xử lý vi phạm: - Tên tổ chức, cá nhân vi phạm: …………………………………………………………………….. - Địa chỉ: ………………………………………………………………………………………………… - Hình thức xử lý vi phạm: □ Cảnh cáo □ Phạt tiền (số tiền) □ Cấm tham gia hoạt động đấu thầu (thời gian cấm) - Lý do xử lý vi phạm: ………………………………………………………………………………….. …………, ngày …. tháng …. năm ………. Đại diện hợp pháp của đơn vị đăng ký (Ký, ghi rõ họ tên, chức danh và đóng dấu)\nPHỤ LỤC II\nKẾ HOẠCH THU VÀ KẾ HOẠCH CHI CÁC KHOẢN LIÊN QUAN ĐẾN\nĐĂNG TẢI THÔNG TIN VỀ ĐẤU THẦU VÀ THỰC HIỆN LỰA CHỌN NHÀ THẦU QUA MẠNG\nA. Kế hoạch thu (Đơn vị tính: đồng)\nSTT NỘI DUNG THU SỐ TIỀN\nTỔNG SỐ (I+II+III+IV) I\nKINH PHÍ NĂM TRƯỚC CHUYỂN SANG\nII\nTHU ĐĂNG TẢI THÔNG TIN VỀ ĐẤU THẦU TRÊN HỆ THỐNG,\nBÁO ĐẤU THẦU\n1 Đăng tải thông báo mời quan tâm, thông báo mời sơ tuyển 2 Đăng tải thông báo mời thầu 3 Đăng tải thông báo mời chào hàng 4 Đăng tải danh sách ngắn\nIII\nTHU THAM GIA HỆ THỐNG VÀ THỰC HIỆN LỰA CHỌN\nNHÀ THẦU QUA MẠNG\n1 Thu tham gia Hệ thống 1.1 Thu đăng ký tham gia Hệ thống (nộp một lần khi đăng ký) 1.2 Thu duy trì tên và thông tin về năng lực, kinh nghiệm của nhà thầu, nhà đầu tư trên Hệ thống (nộp vào Quý I hàng năm, trừ năm thực hiện đăng ký) 2 Thu nộp hồ sơ dự thầu, hồ sơ đề xuất\nIV THU KHÁC (NẾU CÓ)\nB. Kế hoạch chi (Đơn vị tính: đồng)\nSTT NỘI DUNG CHI SỐ TIỀN\nTỔNG SỐ (I+II+III+IV) I\nTHỰC HIỆN NGHĨA VỤ VỚI NGÂN SÁCH NHÀ NƯỚC\nII\nCHI THỰC HIỆN ĐĂNG TẢI THÔNG TIN VỀ ĐẤU THẦU\nTRÊN BÁO ĐẤU THẦU III\nCHUYỂN KHOẢN THU CHI PHÍ ĐĂNG TẢI THÔNG TIN VỀ\nĐẤU THẦU TỪ BÁO ĐẤU THẦU SANG TRUNG TÂM ĐẤU THẦU QUA MẠNG QUỐC GIA ĐỂ CHI THỰC\nHIỆN ĐĂNG TẢI THÔNG TIN VỀ ĐẤU THẦU TRÊN HỆ THỐNG\nIV\nCHI THỰC HIỆN LỰA CHỌN NHÀ THẦU QUA MẠNG\n1 Chi tổ chức quản lý, vận hành và phát triển Hệ thống 2 Chi hoạt động hướng dẫn, hỗ trợ người sử dụng Hệ thống 3 Chi hoạt động truyền thông, hợp tác quốc tế về đấu thầu qua mạng 4 Chi hoạt động liên quan đến công việc tiếp nhận, xử lý hồ sơ tham gia Hệ thống, ứng dụng công nghệ thông tin trong quản lý cơ sở dữ liệu 5 Các khoản chi khác phục vụ trực tiếp cho việc thực hiện lựa chọn nhà thầu qua mạng\nV\nPHÂN PHỐI KẾT QUẢ TÀI CHÍNH THEO CƠ CHẾ TỰ CHỦ\nPHỤ LỤC III\nQUYẾT TOÁN THU VÀ QUYẾT TOÁN CHI CÁC KHOẢN LIÊN QUAN ĐẾN\nĐĂNG TẢI THÔNG TIN VỀ ĐẤU THẦU VÀ THỰC HIỆN LỰA CHỌN NHÀ THẦU QUA MẠNG\nA. Quyết toán thu (Đơn vị tính: đồng)\nSTT NỘI DUNG THU SỐ TIỀN\nTỔNG SỐ (I+II+III+IV+V) I\nKINH PHÍ NĂM TRƯỚC CHUYỂN SANG\nII\nTHU ĐĂNG TẢI THÔNG TIN VỀ ĐẤU THẦU TRÊN HỆ THỐNG,\nBÁO ĐẤU THẦU\n1 Đăng tải thông báo mời quan tâm, thông báo mời sơ tuyển 2 Đăng tải thông báo mời thầu 3 Đăng tải thông báo mời chào hàng 4 Đăng tải danh sách ngắn\nIII\nTHU THAM GIA HỆ THỐNG VÀ THỰC HIỆN LỰA CHỌN\nNHÀ THẦU QUA MẠNG\n1 Thu tham gia Hệ thống 1.1 Thu đăng ký tham gia Hệ thống (nộp một lần khi đăng ký) 1.2 Thu duy trì tên và thông tin về năng lực, kinh nghiệm của nhà thầu, nhà đầu tư trên Hệ thống (nộp vào Quý I hàng năm, trừ năm thực hiện đăng ký) 2 Thu nộp hồ sơ dự thầu, hồ sơ đề xuất\nIV THU KHÁC (NẾU CÓ)\nB. Quyết toán chi (Đơn vị tính: đồng)\nSTT NỘI DUNG CHI SỐ TIỀN\nTỔNG SỐ (l+II+III+IV+V)\nI\nTHỰC HIỆN NGHĨA VỤ VỚI NGÂN SÁCH NHÀ NƯỚC\nII\nCHI THỰC HIỆN ĐĂNG TẢI THÔNG TIN VỀ ĐẤU THẦU\nTRÊN BÁO ĐẤU THẦU III\nCHUYỂN KHOẢN THU CHI PHÍ ĐĂNG TẢI THÔNG TIN VỀ\nĐẤU THẦU TỪ BÁO ĐẤU THẦU SANG TRUNG TÂM ĐẤU THẦU QUA MẠNG QUỐC GIA ĐỂ CHI THỰC\nHIỆN ĐĂNG TẢI THÔNG TIN VỀ ĐẤU THẦU TRÊN HỆ THỐNG\nIV\nCHI THỰC HIỆN LỰA CHỌN NHÀ THẦU QUA MẠNG\n1 Chi tổ chức quản lý, vận hành và phát triển Hệ thống 2 Chi hoạt động hướng dẫn, hỗ trợ người sử dụng Hệ thống 3 Chi hoạt động truyền thông, hợp tác quốc tế về đấu thầu qua mạng 4 Chi hoạt động liên quan đến công việc tiếp nhận, xử lý hồ sơ tham gia Hệ thống, ứng dụng công nghệ thông tin trong quản lý cơ sở dữ liệu 5 Các khoản chi khác phục vụ trực tiếp cho việc thực hiện lựa chọn nhà thầu qua mạng\nV\nPHÂN PHỐI KẾT QUẢ TÀI CHÍNH THEO CƠ CHẾ TỰ CHỦ",
+  "tree": {
+    "parts": [
+      {
+        "part_id": "doc:266253:part:1",
+        "part_type": "main",
+        "part_title": null,
+        "reference": null,
+        "direct_text": "THÔNG TƯ QUY\nĐỊNH CHI TIẾT VIỆC CUNG CẤP, ĐĂNG TẢI THÔNG TIN VỀ ĐẤU THẦU, LỘ TRÌNH ÁP DỤNG LỰA\nCHỌN NHÀ THẦU QUA MẠNG VÀ QUẢN LÝ, SỬ DỤNG GIÁ TRỊ BẢO ĐẢM DỰ THẦU, BẢO ĐẢM THỰC\nHIỆN HỢP ĐỒNG KHÔNG ĐƯỢC HOÀN TRẢ\nCăn cứ Luật đấu thầu số 43/2013/QH13 ngày 26 tháng 11 năm 2013; Căn cứ Luật Giao dịch điện tử số 51/2005/QH11 ngày 29 tháng 11 năm 2005; Căn cứ Nghị định số 63/2014/NĐ-CP ngày 26 tháng 6 năm 2014 của Chính phủ quy định chi tiết thi hành một số điều của Luật đấu thầu về lựa chọn nhà thầu; Căn cứ Nghị định số 130/2018/NĐ-CP ngày 27 tháng 9 năm 2018 của Chính phủ quy định chi tiết thi hành Luật giao dịch điện tử về chữ ký số và dịch vụ chứng thực chữ ký số; Căn cứ Nghị định số 63/2018/NĐ-CP ngày 04 tháng 5 năm 2018 của Chính phủ quy định về đầu tư theo hình thức đối tác công tư; Căn cứ Nghị định số 30/2015/NĐ-CP ngày 17 tháng 3 năm 2015 của Chính phủ quy định chi tiết thi hành một số điều của Luật đấu thầu về lựa chọn nhà đầu tư; Căn cứ Nghị định số 86/2017/NĐ-CP ngày 25 tháng 7 năm 2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Kế hoạch và Đầu tư; Theo đề nghị của Cục trưởng Cục Quản lý đấu thầu; Bộ trưởng Bộ Kế hoạch và Đầu tư ban hành Thông tư quy định chi tiết việc cung cấp, đăng tải thông tin về đấu thầu, lộ trình áp dụng lựa chọn nhà thầu qua mạng và quản lý, sử dụng giá trị bảo đảm dự thầu, bảo đảm thực hiện hợp đồng không được hoàn trả.",
+        "chapters": [
+          {
+            "chapter_id": "doc:266253:part:1:chapter:1",
+            "number": "I",
+            "title": "QUY ĐỊNH CHUNG",
+            "content": "Chương I\nQUY ĐỊNH CHUNG",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:266253:part:1:article:1",
+                "number": "1",
+                "title": "Phạm vi điều chỉnh",
+                "content": "Điều 1. Phạm vi điều chỉnh",
+                "clauses": [
+                  {
+                    "clause_id": "doc:266253:part:1:article:1:clause:1",
+                    "number": "1",
+                    "content": "1. Thông tư này quy định việc cung cấp, đăng tải thông\ntin về đấu thầu trên Hệ thống mạng đấu thầu quốc gia (sau đây gọi là Hệ thống), Báo Đấu thầu theo quy định của Luật đấu thầu; lộ trình áp dụng lựa chọn nhà thầu qua mạng; quản lý, sử dụng giá trị bảo đảm dự thầu, bảo đảm thực hiện hợp đồng trong trường hợp không hoàn trả cho nhà thầu.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:266253:part:1:article:1:clause:2",
+                    "number": "2",
+                    "content": "2. Thông tin về đấu thầu đối với gói thầu thuộc dự\nán sử dụng vốn hỗ trợ phát triển chính thức (ODA), vốn vay ưu đãi phát sinh từ điều ước quốc tế, thỏa thuận quốc tế giữa Việt Nam với nhà tài trợ được khuyến khích đăng tải trong mục \"vốn khác\" trên Hệ thống, Báo Đấu thầu.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:266253:part:1:article:1:clause:3",
+                    "number": "3",
+                    "content": "3. Đối với dự án, gói thầu có nội dung thuộc danh mục\nbí mật nhà nước theo quy định của pháp luật về bảo vệ bí mật nhà nước thì không phải cung cấp, đăng tải thông tin theo quy định của Thông tư này. Việc quản lý thông tin thuộc danh mục bí mật nhà nước tuân thủ theo quy định của pháp luật về bảo vệ bí mật nhà nước.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:266253:part:1:article:2",
+                "number": "2",
+                "title": "Đối tượng áp dụng",
+                "content": "Điều 2. Đối tượng áp dụng",
+                "clauses": [
+                  {
+                    "clause_id": "doc:266253:part:1:article:2:clause:1",
+                    "number": "1",
+                    "content": "1. Tổ chức, cá nhân liên quan đến việc cung cấp,\nđăng tải thông tin về đấu thầu, thực hiện lựa chọn nhà thầu qua mạng và quản lý, sử dụng giá trị bảo đảm dự thầu, bảo đảm thực hiện hợp đồng trong trường hợp không hoàn trả cho nhà thầu thuộc phạm vi điều chỉnh quy định tại Điều 1 của Thông tư này.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:266253:part:1:article:2:clause:2",
+                    "number": "2",
+                    "content": "2. Tổ chức, cá nhân có hoạt động đấu thầu không thuộc\nphạm vi điều chỉnh của Luật đấu thầu chọn áp dụng việc cung cấp, đăng tải thông tin về đấu thầu và lựa chọn nhà thầu qua mạng trên Hệ thống mạng đấu thầu quốc gia. Trong trường hợp này, thông tin về đấu thầu được đăng tải trong mục \"vốn khác\" trên Hệ thống.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:266253:part:1:article:3",
+                "number": "3",
+                "title": "Giải thích từ ngữ",
+                "content": "Điều 3. Giải thích từ ngữ",
+                "clauses": [
+                  {
+                    "clause_id": "doc:266253:part:1:article:3:clause:1",
+                    "number": "1",
+                    "content": "1. Hệ thống mạng đấu thầu quốc gia theo quy\nđịnh tại Khoản 26 Điều 4 của Luật đấu thầu có địa chỉ tại http://muasamcong.mpi.gov.vn.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:266253:part:1:article:3:clause:2",
+                    "number": "2",
+                    "content": "2. Trung tâm Đấu thầu qua mạng quốc gia (sau\nđây gọi là Trung tâm) thuộc Cục Quản lý đấu thầu, Bộ Kế hoạch và Đầu tư là Tổ chức vận hành Hệ thống theo quy định tại Điều 85 của Luật đấu thầu, cung cấp dịch vụ chứng thực chữ ký số sử dụng trên Hệ thống và cung cấp Tổng đài hỗ trợ người dùng để giải đáp, hướng dẫn cho người dùng trong quá trình đăng ký tham gia Hệ thống, cung cấp, đăng tải thông tin về đấu thầu và thực hiện lựa chọn nhà thầu qua mạng.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:266253:part:1:article:3:clause:3",
+                    "number": "3",
+                    "content": "3. Văn bản điện tử được gửi, nhận và lưu trữ\nthành công trên Hệ thống, bao gồm:",
+                    "points": [
+                      {
+                        "point_id": "doc:266253:part:1:article:3:clause:3:point:1",
+                        "label": "a",
+                        "content": "a) Thông tin về dự án;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:266253:part:1:article:3:clause:3:point:2",
+                        "label": "b",
+                        "content": "b) Kế hoạch lựa chọn nhà thầu, kế hoạch lựa chọn\nnhà đầu tư;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:266253:part:1:article:3:clause:3:point:3",
+                        "label": "c",
+                        "content": "c) Thông tin dự án đầu tư PPP, danh mục dự án đầu\ntư có sử dụng đất;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:266253:part:1:article:3:clause:3:point:4",
+                        "label": "d",
+                        "content": "d) Thông báo mời quan tâm, thông báo mời sơ tuyển,\nthông báo mời thầu, thông báo mời chào hàng;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:266253:part:1:article:3:clause:3:point:5",
+                        "label": "đ",
+                        "content": "đ) Danh sách ngắn;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:266253:part:1:article:3:clause:3:point:6",
+                        "label": "e",
+                        "content": "e) Hồ sơ mời quan tâm, hồ sơ mời sơ tuyển, hồ sơ mời\nthầu, hồ sơ yêu cầu, yêu cầu báo giá;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:266253:part:1:article:3:clause:3:point:7",
+                        "label": "g",
+                        "content": "g) Hồ sơ quan tâm, hồ sơ dự sơ tuyển, hồ sơ dự thầu,\nhồ sơ đề xuất, báo giá;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:266253:part:1:article:3:clause:3:point:8",
+                        "label": "h",
+                        "content": "h) Biên bản mở thầu, biên bản mở hồ sơ đề xuất về kỹ\nthuật, biên bản mở hồ sơ đề xuất về tài chính (đối với lựa chọn nhà thầu qua mạng);",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:266253:part:1:article:3:clause:3:point:9",
+                        "label": "i",
+                        "content": "i) Báo cáo đánh giá hồ sơ dự thầu, báo cáo đánh giá\nhồ sơ đề xuất, báo cáo đánh giá báo giá (đối với lựa chọn nhà thầu qua mạng);",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:266253:part:1:article:3:clause:3:point:10",
+                        "label": "k",
+                        "content": "k) Kết quả lựa chọn nhà thầu, kết quả lựa chọn nhà\nđầu tư;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:266253:part:1:article:3:clause:3:point:11",
+                        "label": "l",
+                        "content": "l) Thông tin trong quá trình lựa chọn nhà thầu qua\nmạng, bao gồm: nội dung làm rõ hồ sơ mời thầu, hồ sơ yêu cầu, hồ sơ dự thầu, hồ sơ đề xuất và văn bản dưới dạng điện tử khác được trao đổi giữa bên mời thầu và nhà thầu trên Hệ thống.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:266253:part:1:article:3:clause:4",
+                    "number": "4",
+                    "content": "4. Chứng thư số sử dụng trên Hệ thống là chứng\nthư số do Trung tâm cấp.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:266253:part:1:article:3:clause:5",
+                    "number": "5",
+                    "content": "5. Lịch sử giao dịch là bản ghi thông tin gửi,\nnhận dữ liệu giao dịch trên Hệ thống.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:266253:part:1:article:3:clause:6",
+                    "number": "6",
+                    "content": "6. Hướng dẫn sử dụng là tài liệu điện tử được\nđăng tải trên Hệ thống để hướng dẫn người dùng thực hiện giao dịch trên Hệ thống.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:266253:part:1:article:3:clause:7",
+                    "number": "7",
+                    "content": "7. Thông tin không hợp lệ là thông tin do đối\ntượng quy định tại Điều 2 của Thông tư này tự đăng tải trên Hệ thống không tuân thủ quy định có liên quan của pháp luật về đấu thầu.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:266253:part:1:article:4",
+                "number": "4",
+                "title": "Gửi, nhận văn bản điện tử trên Hệ thống",
+                "content": "Điều 4. Gửi, nhận văn bản điện tử trên Hệ thống",
+                "clauses": [
+                  {
+                    "clause_id": "doc:266253:part:1:article:4:clause:1",
+                    "number": "1",
+                    "content": "1. Văn bản điện tử quy định tại Khoản 3 Điều 3 của Thông\ntư này được công nhận giá trị pháp lý, làm cơ sở đối chiếu, so sánh, xác thực thông tin phục vụ công tác đánh giá, thẩm định, giám sát theo quy định tại Khoản 5 Điều 85 Nghị định số 63/2014/NĐ-CP. Trường hợp văn bản điện tử được bên mời thầu, nhà thầu, nhà đầu tư tạo lập dưới dạng điện tử trên Hệ thống mà không phải được tạo lập từ văn bản giấy thì văn bản điện tử này có giá trị là bản gốc.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:266253:part:1:article:4:clause:2",
+                    "number": "2",
+                    "content": "2. Thời điểm gửi, nhận văn bản điện tử được xác định\ncăn cứ theo thời gian thực ghi lại trên Hệ thống. Văn bản điện tử đã gửi thành công được lưu trữ trên Hệ thống và không bị sửa đổi bởi bất kỳ tổ chức, cá nhân nào, trừ trường hợp quy định tại Điều 15 của Thông tư này.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:266253:part:1:article:4:clause:3",
+                    "number": "3",
+                    "content": "3. Khi người sử dụng gửi văn bản điện tử trên Hệ thống,\nHệ thống phải phản hồi cho người sử dụng về việc gửi thành công hoặc không thành công.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:266253:part:1:article:4:clause:4",
+                    "number": "4",
+                    "content": "4. Bên mời thầu, nhà thầu, nhà đầu tư đăng ký thành\ncông trên Hệ thống được quyền truy xuất lịch sử các giao dịch của mình, bao gồm thông tin về thời điểm, người gửi, người nhận, tình trạng gửi văn bản điện tử (thành công hoặc không thành công) và các thông tin khác trên Hệ thống. Thông tin về lịch sử giao dịch được sử dụng để giải quyết tranh chấp (nếu có) về việc gửi, nhận văn bản điện tử trên Hệ thống.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:266253:part:1:article:4:clause:5",
+                    "number": "5",
+                    "content": "5. Tổ chức, cá nhân thực hiện việc đánh giá, thẩm định,\ngiám sát không được yêu cầu cung cấp văn bản giấy khi tổ chức, cá nhân này có thể tra cứu, truy xuất văn bản điện tử tương ứng trên Hệ thống, trừ trường hợp cần kiểm tra, xác nhận văn bản gốc (như thư bảo lãnh, hợp đồng tương tự, báo cáo tài chính, giấy phép bán hàng hoặc tài liệu khác có giá trị tương đương, tài liệu cần thiết khác).",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:266253:part:1:article:5",
+                "number": "5",
+                "title": "Điều kiện về hạ tầng công nghệ thông tin Để tham gia và thực hiện các giao dịch trên Hệ thống, bên mời thầu, nhà thầu, nhà đầu tư phải đáp ứng yêu cầu về hạ tầng công nghệ thông tin quy định tại Khoản 1 Điều 79 và Khoản 1 Điều 80 của Luật đấu thầu và được hướng dẫn chi tiết tại Hướng dẫn sử dụng.",
+                "content": "Điều 5. Điều kiện về hạ tầng công nghệ thông tin Để tham gia và thực hiện các giao dịch trên Hệ thống, bên mời thầu, nhà thầu, nhà đầu tư phải đáp ứng yêu cầu về hạ tầng công nghệ thông tin quy định tại Khoản 1 Điều 79 và Khoản 1 Điều 80 của Luật đấu thầu và được hướng dẫn chi tiết tại Hướng dẫn sử dụng.",
+                "clauses": [],
+                "points": []
+              },
+              {
+                "article_id": "doc:266253:part:1:article:6",
+                "number": "6",
+                "title": "Đăng ký tham gia Hệ thống và quy trình xử lý hồ sơ đăng ký",
+                "content": "Điều 6. Đăng ký tham gia Hệ thống và quy trình xử lý hồ sơ đăng ký\n1. Đối với bên mời thầu\na) Quy trình đăng ký:\nQuy trình đăng ký bên mời thầu được hướng dẫn chi tiết trong Hướng dẫn sử dụng.\nb) Hồ sơ đăng ký bao gồm:\n- Đơn đăng ký bên mời thầu (do Hệ thống tạo ra trong quá trình bên mời thầu cung cấp thông tin theo quy định tại Điểm a Khoản này); - Bản chụp Quyết định thành lập hoặc Giấy chứng nhận đăng ký doanh nghiệp hoặc các tài liệu tương đương khác (nếu có).\nc) Nộp hồ sơ đăng ký;\nBên mời thầu gửi hồ sơ đăng ký theo đường bưu điện hoặc nộp trực tiếp đến Trung tâm hoặc gửi trên Hệ thống. Trường hợp gửi hồ sơ đăng ký trên Hệ thống thì bên mời thầu thực hiện theo Hướng dẫn sử dụng.\nd) Xử lý hồ sơ đăng ký\nTrong thời hạn tối đa 02 ngày làm việc, kể từ ngày tiếp nhận hồ sơ đăng ký, Trung tâm có trách nhiệm xét duyệt hồ sơ và thông báo kết quả xử lý hồ sơ cho bên mời thầu. Trường hợp hồ sơ hợp lệ, bên mời thầu được phê duyệt việc đăng ký trên Hệ thống. Trường hợp hồ sơ chưa hợp lệ, Trung tâm có trách nhiệm thông báo lý do và hướng dẫn bên mời thầu bổ sung, sửa đổi hồ sơ cho phù hợp. Việc thông báo kết quả xử lý hồ sơ cho bên mời thầu được thực hiện trên Hệ thống, thư điện tử (e-mail), ứng dụng trên thiết bị di động hoặc các kênh thông tin khác và được hướng dẫn chi tiết trong Hướng dẫn sử dụng.\nđ) Việc sửa đổi thông tin đã đăng ký trên Hệ thống\nđược thực hiện theo Hướng dẫn sử dụng. Trường hợp không tự thực hiện được việc sửa đổi thông tin đã đăng ký trên Hệ thống, bên mời thầu gửi văn bản đề nghị sửa đổi thông tin và các văn bản có liên quan đến Trung tâm. Trong thời hạn tối đa 02 ngày làm việc, kể từ ngày nhận được văn bản đề nghị của bên mời thầu, Trung tâm có trách nhiệm xem xét, xử lý yêu cầu của bên mời thầu.\n2. Đối với nhà thầu, nhà đầu tư:\na) Quy trình đăng ký:\nQuy trình đăng ký nhà thầu, nhà đầu tư được hướng dẫn chi tiết trong Hướng dẫn sử dụng.\nb) Hồ sơ đăng ký bao gồm:\n- Đơn đăng ký nhà thầu, nhà đầu tư (do Hệ thống tạo ra trong quá trình nhà thầu, nhà đầu tư cung cấp thông tin theo quy định tại Điểm a Khoản này); - Bản chụp Quyết định thành lập hoặc Giấy chứng nhận đăng ký doanh nghiệp hoặc Giấy chứng nhận đăng ký hộ kinh doanh (đối với hộ kinh doanh cá thể) hoặc các tài liệu tương đương khác; - Bản chụp Giấy chứng minh nhân dân hoặc thẻ căn cước hoặc hộ chiếu của người đại diện hợp pháp của nhà thầu, nhà đầu tư (người đại diện theo pháp luật hoặc người được ủy quyền). Trường hợp ủy quyền thì phải có giấy ủy quyền của người đại diện theo pháp luật của nhà thầu, nhà đầu tư. Trường hợp nhà thầu, nhà đầu tư đã đăng ký và có thông tin trên Cổng thông tin quốc gia về đăng ký doanh nghiệp tại địa chỉ http://dangkykinhdoanh.gov.vn thì không phải nộp các tài liệu nêu trên, trừ đơn đăng ký nhà thầu, nhà đầu tư.\nc) Nộp hồ sơ đăng ký:\nNhà thầu, nhà đầu tư có thể gửi hồ sơ đăng ký theo đường bưu điện hoặc nộp trực tiếp đến Trung tâm hoặc gửi trên Hệ thống. Trường hợp gửi hồ sơ đăng ký trên Hệ thống thì nhà thầu, nhà đầu tư thực hiện theo Hướng dẫn sử dụng.\nd) Xử lý hồ sơ đăng ký:\nTrong thời hạn tối đa 02 ngày làm việc, kể từ ngày tiếp nhận hồ sơ đăng ký, Trung tâm có trách nhiệm xét duyệt hồ sơ và thông báo kết quả xử lý hồ sơ cho nhà thầu, nhà đầu tư. Trường hợp hồ sơ hợp lệ, nhà thầu, nhà đầu tư được phê duyệt việc đăng ký trên Hệ thống. Trường hợp hồ sơ chưa hợp lệ, Trung tâm có trách nhiệm thông báo lý do và hướng dẫn nhà thầu, nhà đầu tư bổ sung, sửa đổi hồ sơ cho phù hợp. Việc thông báo kết quả xử lý hồ sơ cho nhà thầu, nhà đầu tư được thực hiện trên Hệ thống, thư điện tử (e-mail), ứng dụng trên thiết bị di động hoặc các kênh thông tin khác và được hướng dẫn chi tiết trong Hướng dẫn sử dụng.\nđ) Việc sửa đổi thông tin đã đăng ký trên Hệ thống\nđược thực hiện theo Hướng dẫn sử dụng. Trường hợp không tự thực hiện được việc sửa đổi thông tin đã đăng ký trên Hệ thống, nhà thầu, nhà đầu tư gửi văn bản đề nghị sửa đổi thông tin và các văn bản có liên quan đến Trung tâm. Trong thời hạn tối đa 02 ngày làm việc, kể từ ngày nhận được văn bản đề nghị của nhà thầu, nhà đầu tư, Trung tâm có trách nhiệm xem xét, xử lý yêu cầu của nhà thầu, nhà đầu tư.\ne) Chấm dứt hoặc tạm ngừng tham gia Hệ thống\nTrường hợp cần chấm dứt hoặc tạm ngừng tham gia Hệ thống, nhà thầu, nhà đầu tư gửi văn bản đề nghị đến Trung tâm. Trong thời hạn tối đa 02 ngày làm việc, kể từ ngày nhận được đề nghị của nhà thầu, nhà đầu tư, Trung tâm có trách nhiệm xử lý yêu cầu này và thông báo trên Hệ thống về việc chấm dứt hoặc tạm ngừng tham gia Hệ thống của nhà thầu, nhà đầu tư. Kể từ thời điểm Hệ thống hiển thị thông báo này, nhà thầu, nhà đầu tư không bảo đảm tư cách hợp lệ theo quy định tại Điểm d Khoản 1 Điều 5 của Luật đấu thầu và không thực hiện được các giao dịch liên quan trên Hệ thống.\ng) Khôi phục việc tham gia Hệ thống\nTrường hợp cần khôi phục việc tham gia Hệ thống sau khi đã chấm dứt hoặc tạm ngừng tham gia Hệ thống theo quy định tại Điểm e Khoản này, nhà thầu, nhà đầu tư gửi văn bản đề nghị đến Trung tâm. Trong thời hạn tối đa 02 ngày làm việc, kể từ ngày nhận được văn bản đề nghị của nhà thầu, nhà đầu tư, Trung tâm có trách nhiệm xem xét, xử lý yêu cầu này. Nhà thầu, nhà đầu tư chỉ được khôi phục việc tham gia Hệ thống sau khi đã thanh toán đầy đủ chi phí theo quy định tại Khoản 3 Điều 24 của Thông tư này.",
+                "clauses": [],
+                "points": []
+              },
+              {
+                "article_id": "doc:266253:part:1:article:7",
+                "number": "7",
+                "title": "Chứng thư số",
+                "content": "Điều 7. Chứng thư số",
+                "clauses": [
+                  {
+                    "clause_id": "doc:266253:part:1:article:7:clause:1",
+                    "number": "1",
+                    "content": "1. Chứng thư số được cấp cho bên mời thầu, nhà thầu,\nnhà đầu tư sau khi thực hiện đăng ký tham gia Hệ thống theo quy định tại Điều 6 của Thông tư này.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:266253:part:1:article:7:clause:2",
+                    "number": "2",
+                    "content": "2. Hủy chứng thư số:\nBên mời thầu, nhà thầu, nhà đầu tư có thể tự hủy chứng thư số của mình theo Hướng dẫn sử dụng. Trường hợp không thể tự hủy, bên mời thầu, nhà thầu, nhà đầu tư gửi công văn đến Trung tâm để yêu cầu hủy chứng thư số.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:266253:part:1:article:7:clause:3",
+                    "number": "3",
+                    "content": "3. Thay đổi thiết bị lưu chứng thư số:\nBên mời thầu, nhà thầu, nhà đầu tư có thể sao chép chứng thư số và lưu trữ trên đĩa cứng, USB, thẻ thông minh hoặc các phương tiện lưu trữ thông tin khác.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:266253:part:1:article:7:clause:4",
+                    "number": "4",
+                    "content": "4. Thay đổi mật khẩu chứng thư số:\nBên mời thầu, nhà thầu, nhà đầu tư thực hiện việc thay đổi mật khẩu chứng thư số theo Hướng dẫn sử dụng.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:266253:part:1:article:7:clause:5",
+                    "number": "5",
+                    "content": "5. Đăng ký thêm chứng thư số:",
+                    "points": [
+                      {
+                        "point_id": "doc:266253:part:1:article:7:clause:5:point:1",
+                        "label": "a",
+                        "content": "a) Bên mời thầu, nhà thầu, nhà đầu tư đã đăng ký\ntham gia Hệ thống theo quy định tại Điều 6 của Thông tư này có thể đăng ký thêm chứng thư số để tham gia Hệ thống;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:266253:part:1:article:7:clause:5:point:2",
+                        "label": "b",
+                        "content": "b) Việc đăng ký thêm chứng thư số quy định tại Điểm\na Khoản này không áp dụng đối với trường hợp quy định tại Điểm e Khoản 2 Điều 6 của Thông tư này.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:266253:part:1:article:7:clause:6",
+                    "number": "6",
+                    "content": "6. Bên mời thầu, nhà thầu, nhà đầu tư có trách nhiệm\nquản lý, lưu giữ chứng thư số của mình và chịu mọi hậu quả phát sinh do việc đánh mất, làm hỏng hóc, thay đổi mật khẩu, quên mật khẩu, sao chép, lưu giữ chứng thư số được cấp.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:266253:part:1:article:7:clause:7",
+                    "number": "7",
+                    "content": "7. Việc hủy chứng thư số, thay đổi thiết bị lưu chứng\nthư số, thay đổi mật khẩu chứng thư số và đăng ký thêm chứng thư số quy định tại các Khoản 2, 3, 4 và 5 Điều này thực hiện theo Hướng dẫn sử dụng.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:266253:part:1:chapter:2",
+            "number": "II",
+            "title": "ĐĂNG TẢI, CUNG CẤP THÔNG TIN VỀ ĐẤU THẦU",
+            "content": "Chương II\nĐĂNG TẢI, CUNG CẤP THÔNG TIN VỀ ĐẤU THẦU",
+            "sections": [
+              {
+                "section_id": "doc:266253:part:1:section:1",
+                "number": "1",
+                "title": "ĐĂNG TẢI TRÊN HỆ THỐNG",
+                "content": "Mục 1. THÔNG TIN VÀ QUY TRÌNH\nĐĂNG TẢI TRÊN HỆ THỐNG",
+                "articles": [
+                  {
+                    "article_id": "doc:266253:part:1:article:8",
+                    "number": "8",
+                    "title": "Thông tin về năng lực, kinh nghiệm của nhà thầu, nhà đầu tư",
+                    "content": "Điều 8. Thông tin về năng lực, kinh nghiệm của nhà thầu, nhà đầu tư",
+                    "clauses": [
+                      {
+                        "clause_id": "doc:266253:part:1:article:8:clause:1",
+                        "number": "1",
+                        "content": "1. Thông tin về năng lực, kinh nghiệm của nhà thầu,\nnhà đầu tư cung cấp trên Hệ thống theo quy định tại Điểm d Khoản 1 Điều 7 của Nghị định số 63/2014/NĐ-CP và Điểm e Khoản 1 Điều 4 của Nghị định số 30/2015/NĐ-CP bao gồm:",
+                        "points": [
+                          {
+                            "point_id": "doc:266253:part:1:article:8:clause:1:point:1",
+                            "label": "a",
+                            "content": "a) Thông tin chung về nhà thầu, nhà đầu tư;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:266253:part:1:article:8:clause:1:point:2",
+                            "label": "b",
+                            "content": "b) Số liệu về báo cáo tài chính hàng năm;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:266253:part:1:article:8:clause:1:point:3",
+                            "label": "c",
+                            "content": "c) Thông tin về các hợp đồng đã thực hiện;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:266253:part:1:article:8:clause:1:point:4",
+                            "label": "d",
+                            "content": "d) Thông tin về các nhân sự chủ chốt thuộc quản lý\ncủa nhà thầu, nhà đầu tư;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:266253:part:1:article:8:clause:1:point:5",
+                            "label": "đ",
+                            "content": "đ) Thông tin về máy móc, thiết bị thuộc sở hữu của\nnhà thầu, nhà đầu tư.",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "clause_id": "doc:266253:part:1:article:8:clause:2",
+                        "number": "2",
+                        "content": "2. Nhà thầu, nhà đầu tư chủ động cập nhật thông tin\nvề năng lực, kinh nghiệm của mình khi có thay đổi và chịu trách nhiệm trước pháp luật về tính chính xác đối với các thông tin đã kê khai trên Hệ thống. Trường hợp cần chỉnh sửa thông tin đã kê khai, nhà thầu, nhà đầu tư tự thực hiện việc chỉnh sửa các thông tin trên Hệ thống thông qua chứng thư số của mình. Hệ thống sẽ lưu lại toàn bộ các thông tin trước và sau khi nhà thầu, nhà đầu tư thực hiện chỉnh sửa.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:266253:part:1:article:8:clause:3",
+                        "number": "3",
+                        "content": "3. Trường hợp nhà thầu, nhà đầu tư kê khai không trung\nthực nhằm thu được lợi ích tài chính hoặc lợi ích khác hoặc nhằm trốn tránh bất kỳ một nghĩa vụ nào thì bị coi là gian lận theo quy định tại Khoản 4 Điều 89 của Luật đấu thầu.",
+                        "points": []
+                      }
+                    ],
+                    "points": []
+                  },
+                  {
+                    "article_id": "doc:266253:part:1:article:9",
+                    "number": "9",
+                    "title": "Thông tin về dự án, kế hoạch lựa chọn nhà thầu, nhà đầu tư",
+                    "content": "Điều 9. Thông tin về dự án, kế hoạch lựa chọn nhà thầu, nhà đầu tư",
+                    "clauses": [
+                      {
+                        "clause_id": "doc:266253:part:1:article:9:clause:1",
+                        "number": "1",
+                        "content": "1. Thời gian đăng tải:\nThông tin về kế hoạch lựa chọn nhà thầu, nhà đầu tư được đăng tải trên Hệ thống trong vòng 07 ngày làm việc, kể từ ngày các văn bản này được phê duyệt. Thông tin cơ bản về dự án được đăng tải đồng thời với kế hoạch lựa chọn nhà thầu.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:266253:part:1:article:9:clause:2",
+                        "number": "2",
+                        "content": "2. Tài liệu đính kèm:\nBên mời thầu phải đính kèm Quyết định phê duyệt kế hoạch lựa chọn nhà thầu, nhà đầu tư trong quá trình đăng tải kế hoạch lựa chọn nhà thầu, nhà đầu tư. Trường hợp dự toán của gói thầu được duyệt sau khi đăng tải kế hoạch lựa chọn nhà thầu thì bên mời thầu phải cập nhật dự toán và đính kèm Quyết định phê duyệt dự toán trên Hệ thống như sau:",
+                        "points": [
+                          {
+                            "point_id": "doc:266253:part:1:article:9:clause:2:point:1",
+                            "label": "a",
+                            "content": "a) Trong quá trình đăng tải thông báo mời thầu trên\nHệ thống nếu dự toán của gói thầu được phê duyệt trước khi đăng tải thông báo mời thầu;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:266253:part:1:article:9:clause:2:point:2",
+                            "label": "b",
+                            "content": "b) Trong quá trình đăng tải kết quả lựa chọn nhà thầu\ntrên Hệ thống nếu dự toán của gói thầu được phê duyệt sau khi đăng tải thông báo mời thầu.",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ],
+                    "points": []
+                  },
+                  {
+                    "article_id": "doc:266253:part:1:article:10",
+                    "number": "10",
+                    "title": "Thông báo mời quan tâm, thông báo mời sơ tuyển",
+                    "content": "Điều 10. Thông báo mời quan tâm, thông báo mời sơ tuyển",
+                    "clauses": [
+                      {
+                        "clause_id": "doc:266253:part:1:article:10:clause:1",
+                        "number": "1",
+                        "content": "1. Thời gian đăng tải:\nBên mời thầu đăng tải thông báo mời quan tâm, thông báo mời sơ tuyển trên Hệ thống theo tiến độ tổ chức lựa chọn nhà thầu, nhà đầu tư và phù hợp với thời gian tổ chức lựa chọn nhà thầu, nhà đầu tư trong kế hoạch lựa chọn nhà thầu, nhà đầu tư được phê duyệt.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:266253:part:1:article:10:clause:2",
+                        "number": "2",
+                        "content": "2. Đối với lựa chọn nhà thầu, trong quá trình đăng\ntải thông báo mời sơ tuyển, thông báo mời quan tâm, bên mời thầu phải đính kèm các tài liệu sau đây:",
+                        "points": [
+                          {
+                            "point_id": "doc:266253:part:1:article:10:clause:2:point:1",
+                            "label": "a",
+                            "content": "a) Quyết định phê duyệt hồ sơ mời quan tâm, hồ sơ mời\nsơ tuyển;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:266253:part:1:article:10:clause:2:point:2",
+                            "label": "b",
+                            "content": "b) Hồ sơ mời quan tâm, hồ sơ mời sơ tuyển đã được\nphê duyệt.",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ],
+                    "points": []
+                  },
+                  {
+                    "article_id": "doc:266253:part:1:article:11",
+                    "number": "11",
+                    "title": "Phát hành, sửa đổi, làm rõ hồ sơ mời quan tâm, hồ sơ mời sơ tuyển",
+                    "content": "Điều 11. Phát hành, sửa đổi, làm rõ hồ sơ mời quan tâm, hồ sơ mời sơ tuyển",
+                    "clauses": [
+                      {
+                        "clause_id": "doc:266253:part:1:article:11:clause:1",
+                        "number": "1",
+                        "content": "1. Phát hành hồ sơ mời quan tâm, hồ sơ mời sơ tuyển:\nHồ sơ mời quan tâm, hồ sơ mời sơ tuyển được phát hành miễn phí trên Hệ thống ngay sau khi đăng tải thành công thông báo mời quan tâm, thông báo mời sơ tuyển.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:266253:part:1:article:11:clause:2",
+                        "number": "2",
+                        "content": "2. Sửa đổi hồ sơ mời quan tâm, hồ sơ mời sơ tuyển:\nTrường hợp sửa đổi hồ sơ mời quan tâm, hồ sơ mời sơ tuyển sau khi phát hành, bên mời thầu phải đăng tải các tài liệu theo một trong hai cách sau đây trên Hệ thống:",
+                        "points": [
+                          {
+                            "point_id": "doc:266253:part:1:article:11:clause:2:point:1",
+                            "label": "a",
+                            "content": "a) Quyết định sửa đổi kèm theo những nội dung sửa đổi\nhồ sơ mời quan tâm, hồ sơ mời sơ tuyển;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:266253:part:1:article:11:clause:2:point:2",
+                            "label": "b",
+                            "content": "b) Quyết định sửa đổi và hồ sơ mời quan tâm, hồ sơ\nmời sơ tuyển đã được sửa đổi, trong hồ sơ mời quan tâm, hồ sơ mời sơ tuyển phải thể hiện rõ nội dung sửa đổi.",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "clause_id": "doc:266253:part:1:article:11:clause:3",
+                        "number": "3",
+                        "content": "3. Làm rõ hồ sơ mời quan tâm, hồ sơ mời sơ tuyển:",
+                        "points": [
+                          {
+                            "point_id": "doc:266253:part:1:article:11:clause:3:point:1",
+                            "label": "a",
+                            "content": "a) Trường hợp cần làm rõ hồ sơ mời quan tâm, hồ sơ\nmời sơ tuyển, nhà thầu gửi đề nghị làm rõ đến bên mời thầu bằng văn bản hoặc thông qua Hệ thống trong khoảng thời gian tối thiểu 03 ngày làm việc trước ngày có thời điểm đóng thầu;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:266253:part:1:article:11:clause:3:point:2",
+                            "label": "b",
+                            "content": "b) Bên mời thầu tiếp nhận nội dung làm rõ để xem\nxét, làm rõ theo đề nghị của nhà thầu và đăng tải văn bản làm rõ hồ sơ mời quan tâm, hồ sơ mời sơ tuyển trên Hệ thống trong khoảng thời gian tối thiểu 02 ngày làm việc trước ngày có thời điểm đóng thầu;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:266253:part:1:article:11:clause:3:point:3",
+                            "label": "c",
+                            "content": "c) Nội dung làm rõ hồ sơ mời quan tâm, hồ sơ mời sơ\ntuyển không được trái với nội dung của hồ sơ mời quan tâm, hồ sơ mời sơ tuyển đã được phê duyệt. Trường hợp khi tiếp nhận nội dung yêu cầu làm rõ hồ sơ mời quan tâm, hồ sơ mời sơ tuyển dẫn đến phải sửa đổi hồ sơ mời quan tâm, hồ sơ mời sơ tuyển thì việc sửa đổi hồ sơ mời quan tâm, hồ sơ mời sơ tuyển thực hiện theo quy định tại Khoản 2 Điều này trên cơ sở tuân thủ thời gian theo quy định tại Điểm m Khoản 1 Điều 12 của Luật đấu thầu.",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ],
+                    "points": []
+                  },
+                  {
+                    "article_id": "doc:266253:part:1:article:12",
+                    "number": "12",
+                    "title": "Danh sách ngắn",
+                    "content": "Điều 12. Danh sách ngắn",
+                    "clauses": [
+                      {
+                        "clause_id": "doc:266253:part:1:article:12:clause:1",
+                        "number": "1",
+                        "content": "1. Thời gian đăng tải:\nBên mời thầu đăng tải danh sách ngắn trên Hệ thống trong vòng 07 ngày làm việc, kể từ ngày danh sách ngắn được phê duyệt.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:266253:part:1:article:12:clause:2",
+                        "number": "2",
+                        "content": "2. Tài liệu đính kèm:\nBên mời thầu đính kèm quyết định phê duyệt danh sách ngắn trong quá trình đăng tải danh sách ngắn.",
+                        "points": []
+                      }
+                    ],
+                    "points": []
+                  },
+                  {
+                    "article_id": "doc:266253:part:1:article:13",
+                    "number": "13",
+                    "title": "Thông báo mời thầu, thông báo mời chào hàng",
+                    "content": "Điều 13. Thông báo mời thầu, thông báo mời chào hàng",
+                    "clauses": [
+                      {
+                        "clause_id": "doc:266253:part:1:article:13:clause:1",
+                        "number": "1",
+                        "content": "1. Thời gian đăng tải:\nBên mời thầu đăng tải thông báo mời thầu, thông báo mời chào hàng trên Hệ thống theo tiến độ tổ chức lựa chọn nhà thầu, nhà đầu tư và phù hợp với thời gian tổ chức lựa chọn nhà thầu, nhà đầu tư trong kế hoạch lựa chọn nhà thầu, nhà đầu tư được phê duyệt.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:266253:part:1:article:13:clause:2",
+                        "number": "2",
+                        "content": "2. Đối với lựa chọn nhà thầu, trong quá trình đăng\ntải thông báo mời thầu, thông báo mời chào hàng, bên mời thầu phải đính kèm các tài liệu sau đây:",
+                        "points": [
+                          {
+                            "point_id": "doc:266253:part:1:article:13:clause:2:point:1",
+                            "label": "a",
+                            "content": "a) Quyết định phê duyệt hồ sơ mời thầu, hồ sơ yêu cầu,\nyêu cầu báo giá;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:266253:part:1:article:13:clause:2:point:2",
+                            "label": "b",
+                            "content": "b) Hồ sơ mời thầu, hồ sơ yêu cầu, yêu cầu báo giá\nđược phê duyệt.",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ],
+                    "points": []
+                  },
+                  {
+                    "article_id": "doc:266253:part:1:article:14",
+                    "number": "14",
+                    "title": "Phát hành, sửa đổi, làm rõ hồ sơ mời thầu, hồ sơ yêu cầu",
+                    "content": "Điều 14. Phát hành, sửa đổi, làm rõ hồ sơ mời thầu, hồ sơ yêu cầu",
+                    "clauses": [
+                      {
+                        "clause_id": "doc:266253:part:1:article:14:clause:1",
+                        "number": "1",
+                        "content": "1. Phát hành hồ sơ mời thầu, hồ sơ yêu cầu:",
+                        "points": [
+                          {
+                            "point_id": "doc:266253:part:1:article:14:clause:1:point:1",
+                            "label": "a",
+                            "content": "a) Hồ sơ mời thầu, hồ sơ yêu cầu được phát hành\ntrên Hệ thống ngay sau khi đăng tải thành công thông báo mời thầu, thông báo mời chào hàng;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:266253:part:1:article:14:clause:1:point:2",
+                            "label": "b",
+                            "content": "b) Đối với đấu thầu không qua mạng, trường hợp hồ\nsơ mời thầu, hồ sơ yêu cầu được bán theo quy định tại Khoản 1",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ],
+                    "points": []
+                  },
+                  {
+                    "article_id": "doc:266253:part:1:article:15",
+                    "number": "9",
+                    "title": "của Nghị định số 63/2014/NĐ-CP thì nhà thầu phải trả cho bên mời thầu một khoản tiền bằng giá bán hồ sơ mời thầu, hồ sơ yêu cầu trước khi hồ sơ dự thầu, hồ sơ đề xuất được tiếp nhận. Trường hợp hồ sơ mời thầu, hồ sơ yêu cầu được phát hành miễn phí thì nhà thầu không phải nộp khoản tiền này.",
+                    "content": "Điều 9 của Nghị định số 63/2014/NĐ-CP thì nhà thầu phải trả cho bên mời thầu một khoản tiền bằng giá bán hồ sơ mời thầu, hồ sơ yêu cầu trước khi hồ sơ dự thầu, hồ sơ đề xuất được tiếp nhận. Trường hợp hồ sơ mời thầu, hồ sơ yêu cầu được phát hành miễn phí thì nhà thầu không phải nộp khoản tiền này.",
+                    "clauses": [
+                      {
+                        "clause_id": "doc:266253:part:1:article:15:clause:1",
+                        "number": "2",
+                        "content": "2. Sửa đổi hồ sơ mời thầu, hồ sơ yêu cầu:\nTrường hợp sửa đổi hồ sơ mời thầu, hồ sơ yêu cầu sau khi phát hành, bên mời thầu phải đăng tải các tài liệu theo một trong hai cách sau đây trên Hệ thống:",
+                        "points": [
+                          {
+                            "point_id": "doc:266253:part:1:article:15:clause:1:point:1",
+                            "label": "a",
+                            "content": "a) Quyết định sửa đổi hồ sơ mời thầu, hồ sơ yêu cầu\nkèm theo những nội dung sửa đổi hồ sơ mời thầu, hồ sơ yêu cầu;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:266253:part:1:article:15:clause:1:point:2",
+                            "label": "b",
+                            "content": "b) Quyết định sửa đổi và hồ sơ mời thầu, hồ sơ yêu\ncầu đã được sửa đổi, trong hồ sơ mời thầu, hồ sơ yêu cầu phải thể hiện rõ nội dung sửa đổi.",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "clause_id": "doc:266253:part:1:article:15:clause:2",
+                        "number": "3",
+                        "content": "3. Làm rõ hồ sơ mời thầu, hồ sơ yêu cầu:",
+                        "points": [
+                          {
+                            "point_id": "doc:266253:part:1:article:15:clause:2:point:1",
+                            "label": "a",
+                            "content": "a) Trường hợp cần làm rõ hồ sơ mời thầu, hồ sơ yêu\ncầu, nhà thầu phải gửi đề nghị làm rõ đến bên mời thầu bằng văn bản hoặc thông qua Hệ thống tối thiểu 03 ngày làm việc (đối với đấu thầu trong nước), 05 ngày làm việc (đối với đấu thầu quốc tế) trước ngày có thời điểm đóng thầu để xem xét, xử lý;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:266253:part:1:article:15:clause:2:point:2",
+                            "label": "b",
+                            "content": "b) Bên mời thầu tiếp nhận nội dung làm rõ để xem\nxét, làm rõ theo đề nghị của nhà thầu và đăng tải văn bản làm rõ hồ sơ mời thầu, hồ sơ yêu cầu trên Hệ thống trong khoảng thời gian tối thiểu 02 ngày làm việc trước ngày có thời điểm đóng thầu;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:266253:part:1:article:15:clause:2:point:3",
+                            "label": "c",
+                            "content": "c) Nội dung làm rõ hồ sơ mời thầu, hồ sơ yêu cầu\nkhông được trái với nội dung của hồ sơ mời thầu, hồ sơ yêu cầu đã được phê duyệt. Trường hợp khi tiếp nhận nội dung yêu cầu làm rõ hồ sơ mời thầu, hồ sơ yêu cầu dẫn đến phải sửa đổi hồ sơ mời thầu, hồ sơ yêu cầu thì việc sửa đổi hồ sơ mời thầu, hồ sơ yêu cầu thực hiện theo quy định tại Khoản 2 Điều này trên cơ sở tuân thủ thời gian theo quy định tại Điểm m Khoản 1 Điều 12 của Luật đấu thầu và Điểm c Khoản 2 Điều 64 của Nghị định số 63/2014/NĐ-CP; đối với đấu thầu qua mạng, việc sửa đổi phải được thực hiện trước thời điểm đóng thầu tối thiểu 03 ngày làm việc. Trong trường hợp cần thiết, bên mời thầu tổ chức hội nghị tiền đấu thầu để trao đổi về những nội dung trong hồ sơ mời thầu mà các nhà thầu chưa rõ. Bên mời thầu đăng tải giấy mời tham dự hội nghị tiền đấu thầu trên Hệ thống. Nội dung trao đổi giữa bên mời thầu và nhà thầu phải được bên mời thầu ghi lại thành biên bản và đăng tải trên Hệ thống.",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ],
+                    "points": []
+                  },
+                  {
+                    "article_id": "doc:266253:part:1:article:16",
+                    "number": "15",
+                    "title": "Hủy, gia hạn, sửa đổi thông tin đã đăng tải",
+                    "content": "Điều 15. Hủy, gia hạn, sửa đổi thông tin đã đăng tải",
+                    "clauses": [
+                      {
+                        "clause_id": "doc:266253:part:1:article:16:clause:1",
+                        "number": "1",
+                        "content": "1. Việc hủy, gia hạn, sửa đổi thông tin đã đăng tải\ncủa bên mời thầu được thực hiện theo Hướng dẫn sử dụng.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:266253:part:1:article:16:clause:2",
+                        "number": "2",
+                        "content": "2. Trường hợp không tự thực hiện được việc hủy, gia\nhạn, sửa đổi các thông tin đã đăng tải, bên mời thầu gửi văn bản đề nghị đến Trung tâm. Trong thời hạn tối đa 02 ngày làm việc, kể từ ngày nhận được văn bản đề nghị của bên mời thầu, Trung tâm có trách nhiệm xem xét, xử lý yêu cầu của bên mời thầu.",
+                        "points": []
+                      }
+                    ],
+                    "points": []
+                  },
+                  {
+                    "article_id": "doc:266253:part:1:article:17",
+                    "number": "16",
+                    "title": "Mở thầu đối với đấu thầu qua mạng Bên mời thầu phải tiến hành mở thầu và công khai biên bản mở thầu trên Hệ thống trong thời hạn không quá 02 giờ, kể từ thời điểm đóng thầu. Trường hợp đến thời điểm đóng thầu không có nhà thầu nộp hồ sơ, bên mời thầu có thể gia hạn thời điểm đóng thầu hoặc tổ chức đấu thầu lại. Việc gia hạn thời điểm đóng thầu được thực hiện theo Hướng dẫn sử dụng.",
+                    "content": "Điều 16. Mở thầu đối với đấu thầu qua mạng Bên mời thầu phải tiến hành mở thầu và công khai biên bản mở thầu trên Hệ thống trong thời hạn không quá 02 giờ, kể từ thời điểm đóng thầu. Trường hợp đến thời điểm đóng thầu không có nhà thầu nộp hồ sơ, bên mời thầu có thể gia hạn thời điểm đóng thầu hoặc tổ chức đấu thầu lại. Việc gia hạn thời điểm đóng thầu được thực hiện theo Hướng dẫn sử dụng.",
+                    "clauses": [],
+                    "points": []
+                  },
+                  {
+                    "article_id": "doc:266253:part:1:article:18",
+                    "number": "17",
+                    "title": "Kết quả lựa chọn nhà thầu, nhà đầu tư",
+                    "content": "Điều 17. Kết quả lựa chọn nhà thầu, nhà đầu tư",
+                    "clauses": [
+                      {
+                        "clause_id": "doc:266253:part:1:article:18:clause:1",
+                        "number": "1",
+                        "content": "1. Thời gian đăng tải:\nBên mời thầu đăng tải kết quả lựa chọn nhà thầu, nhà đầu tư trên Hệ thống trong vòng 07 ngày làm việc, kể từ ngày phê duyệt kết quả lựa chọn nhà thầu, nhà đầu tư.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:266253:part:1:article:18:clause:2",
+                        "number": "2",
+                        "content": "2. Tài liệu đính kèm bao gồm:",
+                        "points": [
+                          {
+                            "point_id": "doc:266253:part:1:article:18:clause:2:point:1",
+                            "label": "a",
+                            "content": "a) Quyết định phê duyệt kết quả lựa chọn nhà thầu,\nnhà đầu tư;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:266253:part:1:article:18:clause:2:point:2",
+                            "label": "b",
+                            "content": "b) Báo cáo đánh giá hồ sơ dự thầu, hồ sơ đề xuất đối\nvới đấu thầu qua mạng;",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "clause_id": "doc:266253:part:1:article:18:clause:3",
+                        "number": "3",
+                        "content": "3. Đối với gói thầu mua sắm hàng hóa phải công khai\nchi tiết thông tin về các hạng mục hàng hóa thuộc gói thầu.",
+                        "points": []
+                      }
+                    ],
+                    "points": []
+                  },
+                  {
+                    "article_id": "doc:266253:part:1:article:19",
+                    "number": "18",
+                    "title": "Danh mục dự án có sử dụng đất và thông tin dự án đầu tư PPP, dự án xã hội hóa",
+                    "content": "Điều 18. Danh mục dự án có sử dụng đất và thông tin dự án đầu tư PPP, dự án xã hội hóa",
+                    "clauses": [
+                      {
+                        "clause_id": "doc:266253:part:1:article:19:clause:1",
+                        "number": "1",
+                        "content": "1. Danh mục dự án có sử dụng đất và thông tin dự án\nđầu tư PPP được đăng tải trên Hệ thống trong vòng 07 ngày làm việc, kể từ ngày ban hành các văn bản này.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:266253:part:1:article:19:clause:2",
+                        "number": "2",
+                        "content": "2. Đối với dự án xã hội hóa được chọn áp dụng Luật\nđấu thầu thì thông tin dự án được đăng tải trên Hệ thống trong vòng 07 ngày làm việc, kể từ ngày dự án được phê duyệt.",
+                        "points": []
+                      }
+                    ],
+                    "points": []
+                  },
+                  {
+                    "article_id": "doc:266253:part:1:article:20",
+                    "number": "19",
+                    "title": "Quy trình đăng tải trên Hệ thống",
+                    "content": "Điều 19. Quy trình đăng tải trên Hệ thống",
+                    "clauses": [
+                      {
+                        "clause_id": "doc:266253:part:1:article:20:clause:1",
+                        "number": "1",
+                        "content": "1. Quy trình đăng tải thông tin tại các Điều 8, 9,\n10, 11, 12, 13, 14, 15, 16, 17 và 18 của Thông tư này được thực hiện theo Hướng dẫn sử dụng.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:266253:part:1:article:20:clause:2",
+                        "number": "2",
+                        "content": "2. Sau khi đăng tải thông tin lại các Điều 9, 10,\n11, 12, 13, 14, 15, 16 và 17 của Thông tư này, Hệ thống phản hồi cho người gửi về việc gửi thành công hoặc không thành công thông qua thư điện tử (e-mail), ứng dụng trên thiết bị di động hoặc các kênh thông tin khác.",
+                        "points": []
+                      }
+                    ],
+                    "points": []
+                  }
+                ]
+              },
+              {
+                "section_id": "doc:266253:part:1:section:2",
+                "number": "2",
+                "title": "CÁ NHÂN CUNG CẤP, ĐĂNG TẢI THÔNG TIN",
+                "content": "Mục 2. TRÁCH NHIỆM CỦA TỔ CHỨC,\nCÁ NHÂN CUNG CẤP, ĐĂNG TẢI THÔNG TIN",
+                "articles": [
+                  {
+                    "article_id": "doc:266253:part:1:article:21",
+                    "number": "20",
+                    "title": "Trách nhiệm của bên mời thầu",
+                    "content": "Điều 20. Trách nhiệm của bên mời thầu",
+                    "clauses": [
+                      {
+                        "clause_id": "doc:266253:part:1:article:21:clause:1",
+                        "number": "1",
+                        "content": "1. Thực hiện theo quy định tại Điều\n79 của Luật đấu thầu khi tham gia Hệ thống.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:266253:part:1:article:21:clause:2",
+                        "number": "2",
+                        "content": "2. Tổ chức lựa chọn nhà thầu qua mạng theo đúng lộ\ntrình được quy định tại Khoản 1 Điều 29 của Thông tư này.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:266253:part:1:article:21:clause:3",
+                        "number": "3",
+                        "content": "3. Cung cấp, đăng tải thông tin về đấu thầu trên Hệ\nthống, chịu trách nhiệm theo quy định tại Điểm i Khoản 2 Điều 75, Điều 79 của Luật đấu thầu, Điều 7 của Nghị định số 63/2014/NĐ-CP, Điều 4 của Nghị định số 30/2015/NĐ-CP.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:266253:part:1:article:21:clause:4",
+                        "number": "4",
+                        "content": "4. Cung cấp thông tin về nhà thầu, nhà đầu tư nước\nngoài trúng thầu tại Việt Nam theo mẫu số 2 Phụ lục 1 ban hành kèm theo Thông tư này. Thông tin được gửi đến Cục Quản lý đấu thầu, Bộ Kế hoạch và Đầu tư trong vòng 07 ngày làm việc, kể từ ngày phê duyệt kết quả lựa chọn nhà thầu, nhà đầu tư theo quy định tại Điểm c Khoản 1",
+                        "points": []
+                      }
+                    ],
+                    "points": []
+                  },
+                  {
+                    "article_id": "doc:266253:part:1:article:22",
+                    "number": "128",
+                    "title": "của Nghị định số 63/2014/NĐ-CP.",
+                    "content": "Điều 128 của Nghị định số 63/2014/NĐ-CP.",
+                    "clauses": [
+                      {
+                        "clause_id": "doc:266253:part:1:article:22:clause:1",
+                        "number": "5",
+                        "content": "5. Đối với gói thầu được tổ chức đấu thầu quốc tế,\nbên mời thầu phải đăng tải thông tin quy định tại Điều 10 và Điều 13 của Thông tư này bằng tiếng Việt và tiếng Anh. Ngoài việc đăng tải trên Hệ thống, Báo Đấu thầu, khuyến khích đăng tải thông báo mời quan tâm quốc tế, thông báo mời sơ tuyển quốc tế, thông báo mời thầu quốc tế lên trang thông tin điện tử hoặc tờ báo bằng tiếng Anh được phát hành rộng rãi tại Việt Nam.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:266253:part:1:article:22:clause:2",
+                        "number": "6",
+                        "content": "6. Bên mời thầu phải chịu trách nhiệm về tính xác\nthực của tài liệu đăng tải trên Hệ thống với tài liệu đã được phê duyệt. Trường hợp có sự sai khác giữa tài liệu được đăng tải trên Hệ thống với tài liệu đã được phê duyệt thì tài liệu đăng tải trên Hệ thống sẽ là cơ sở pháp lý để thực hiện.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:266253:part:1:article:22:clause:3",
+                        "number": "7",
+                        "content": "7. Thanh toán chi phí đăng tải thông tin về đấu thầu\ntrên Hệ thống, Báo Đấu thầu theo quy định tại Khoản 1 Điều 24 của Thông tư này.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:266253:part:1:article:22:clause:4",
+                        "number": "8",
+                        "content": "8. Theo dõi, cập nhật các thông tin đã đăng tải\ntrên Hệ thống và các thông tin mà Hệ thống phản hồi.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:266253:part:1:article:22:clause:5",
+                        "number": "9",
+                        "content": "9. Trường hợp bên mời thầu không thực hiện đăng tải\nthông tin về đấu thầu theo quy định thì bị xử lý theo Điểm d Khoản 3 Điều 20 và Điều 21 của Nghị định số 50/2016/NĐ-CP ngày 01/6/2016 của Chính phủ quy định về xử phạt vi phạm hành chính trong lĩnh vực kế hoạch và đầu tư.",
+                        "points": []
+                      }
+                    ],
+                    "points": []
+                  },
+                  {
+                    "article_id": "doc:266253:part:1:article:23",
+                    "number": "21",
+                    "title": "Trách nhiệm của nhà thầu, nhà đầu tư",
+                    "content": "Điều 21. Trách nhiệm của nhà thầu, nhà đầu tư",
+                    "clauses": [
+                      {
+                        "clause_id": "doc:266253:part:1:article:23:clause:1",
+                        "number": "1",
+                        "content": "1. Nhà thầu, nhà đầu tư phải đăng ký tham gia Hệ thống\nvà được phê duyệt theo quy định tại Khoản 2 Điều 6 của Thông tư này trước khi xét duyệt trúng thầu để bảo đảm tư cách hợp lệ theo quy định tại Điểm d Khoản 1 Điều 5 của Luật đấu thầu. Trường hợp trong quá trình đánh giá hồ sơ dự thầu, bên mời thầu phát hiện nhà thầu, nhà đầu tư chưa đăng ký tham gia Hệ thống thì bên mời thầu phải yêu cầu nhà thầu, nhà đầu tư hoàn thành việc đăng ký theo quy định tại Khoản 2 Điều 6 của Thông tư này.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:266253:part:1:article:23:clause:2",
+                        "number": "2",
+                        "content": "2. Cung cấp, đăng tải thông tin về đấu thầu trên Hệ\nthống, bảo đảm tuân thủ các quy định tại Điều 80 của Luật đấu thầu, Điều 7 của Nghị định số 63/2014/NĐ-CP, Điều 4 của Nghị định số 30/2015/NĐ-CP.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:266253:part:1:article:23:clause:3",
+                        "number": "3",
+                        "content": "3. Thanh toán chi phí lựa chọn nhà thầu qua mạng\ntheo quy định tại Khoản 2 Điều 24 của Thông tư này. Đối với gói thầu tổ chức đấu thầu qua mạng, trường hợp nhà thầu, nhà đầu tư đã có tên trên Hệ thống nhưng chưa thanh toán chi phí theo quy định tại Khoản 2 Điều 24 của Thông tư này, Trung tâm có trách nhiệm gửi thư điện tử (e-mail) yêu cầu thanh toán. Sau thời hạn 15 ngày, kể từ ngày nhận được thư điện tử của Trung tâm, nhà thầu, nhà đầu tư vẫn không thanh toán thì Hệ thống hiển thị thông báo về việc tạm ngừng tham gia Hệ thống của nhà thầu, nhà đầu tư. Trong trường hợp này, nhà thầu, nhà đầu tư được xem là không bảo đảm tư cách hợp lệ theo quy định tại Điểm d Khoản 1 Điều 5 của Luật đấu thầu, Mục 5 Chương I các Mẫu hồ sơ mời thầu ban hành kèm theo Thông tư số 04/2017/TT-BKHĐT , đồng thời nhà thầu, nhà đầu tư không thực hiện được các giao dịch liên quan trên Hệ thống.",
+                        "points": []
+                      }
+                    ],
+                    "points": []
+                  },
+                  {
+                    "article_id": "doc:266253:part:1:article:24",
+                    "number": "22",
+                    "title": "Trách nhiệm của Trung tâm và Báo Đấu thầu",
+                    "content": "Điều 22. Trách nhiệm của Trung tâm và Báo Đấu thầu",
+                    "clauses": [
+                      {
+                        "clause_id": "doc:266253:part:1:article:24:clause:1",
+                        "number": "1",
+                        "content": "1. Trung tâm có trách nhiệm:",
+                        "points": [
+                          {
+                            "point_id": "doc:266253:part:1:article:24:clause:1:point:1",
+                            "label": "a",
+                            "content": "a) Thực hiện trách nhiệm quy định tại Điều 85 của Luật đấu thầu;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:266253:part:1:article:24:clause:1:point:2",
+                            "label": "b",
+                            "content": "b) Xây dựng, vận hành, duy trì Hệ thống, bảo đảm Hệ\nthống hoạt động liên tục, an toàn, bảo mật, ổn định;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:266253:part:1:article:24:clause:1:point:3",
+                            "label": "c",
+                            "content": "c) Xây dựng tài liệu Hướng dẫn sử dụng, hỗ\ntrợ bên mời thầu, nhà thầu, nhà đầu tư đăng ký, cấp chứng thư số tham gia Hệ thống và lựa chọn nhà thầu qua mạng. Cung cấp các dịch vụ tuyên truyền, đào tạo, hướng dẫn bên mời thầu, nhà thầu, nhà đầu tư cung cấp, đăng tải thông tin về đấu thầu trên Hệ thống và triển khai các dịch vụ liên quan đến thông tin về đấu thầu, lựa chọn nhà thầu qua mạng.",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "clause_id": "doc:266253:part:1:article:24:clause:2",
+                        "number": "2",
+                        "content": "2. Báo Đấu thầu có trách nhiệm:",
+                        "points": [
+                          {
+                            "point_id": "doc:266253:part:1:article:24:clause:2:point:1",
+                            "label": "a",
+                            "content": "a) Rà soát, phát hiện các thông tin không hợp lệ\ntheo quy định tại Khoản 7 Điều 3 của Thông tư này và thông báo cho bên mời thầu trong thời hạn tối đa là 01 ngày làm việc, kể từ khi bên mời thầu tự đăng tải thông tin trên Hệ thống. Việc thông báo được thực hiện trên Hệ thống, thư điện tử, ứng dụng trên thiết bị di động hoặc các kênh thông tin khác về nội dung thông tin không hợp lệ để bên mời thầu tự chỉnh sửa, hoàn thiện, đăng tải lại trên Hệ thống.",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:266253:part:1:article:24:clause:2:point:2",
+                            "label": "b",
+                            "content": "b) Trích xuất thông tin quy định tại các Điều 10,\n12,13 và 15 của Thông tư này để đăng tải 01 kỳ trên Báo Đấu thầu trong vòng 02 ngày làm việc, kể từ khi bên mời thầu tự đăng tải thông tin lên Hệ thống theo quy định tại Khoản 3 Điều 8 của Nghị định số 63/2014/NĐ-CP, Khoản 3 Điều 5 của Nghị định số 30/2015/NĐ-CP.",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "clause_id": "doc:266253:part:1:article:24:clause:3",
+                        "number": "3",
+                        "content": "3. Trường hợp để xảy ra sai sót trong việc đăng tải\nthông tin về đấu thầu như đăng chậm, sai nội dung hoặc cố tình không đăng tải thông tin gây thiệt hại cho bên mời thầu, nhà thầu, nhà đầu tư thì Báo Đấu thầu phải đăng tải thông tin cải chính công khai theo quy định của pháp luật về báo chí. Ngoài ra, tùy theo mức độ sai sót, tổ chức, cá nhân liên quan thuộc Báo Đấu thầu còn bị xem xét xử lý trách nhiệm theo quy định của pháp luật về cán bộ, công chức, viên chức, pháp luật về người lao động và quy định khác của pháp luật có liên quan.",
+                        "points": []
+                      }
+                    ],
+                    "points": []
+                  }
+                ]
+              }
+            ],
+            "articles": []
+          },
+          {
+            "chapter_id": "doc:266253:part:1:chapter:3",
+            "number": "III",
+            "title": "NGUỒN THU, QUẢN LÝ, SỬ DỤNG CHI PHÍ ĐĂNG TẢI THÔNG TIN VỀ ĐẤU THẦU VÀ CHI PHÍ LỰA CHỌN NHÀ THẦU QUA MẠNG",
+            "content": "Chương III\nNGUỒN THU, QUẢN LÝ, SỬ DỤNG\nCHI PHÍ ĐĂNG TẢI THÔNG TIN VỀ ĐẤU THẦU VÀ CHI PHÍ LỰA CHỌN NHÀ THẦU QUA MẠNG",
+            "sections": [
+              {
+                "section_id": "doc:266253:part:1:section:3",
+                "number": "1",
+                "title": "NGUỒN THU",
+                "content": "Mục 1. NGUYÊN TẮC THU CHI VÀ\nNGUỒN THU",
+                "articles": [
+                  {
+                    "article_id": "doc:266253:part:1:article:25",
+                    "number": "23",
+                    "title": "Nguyên tắc thu chi",
+                    "content": "Điều 23. Nguyên tắc thu chi",
+                    "clauses": [
+                      {
+                        "clause_id": "doc:266253:part:1:article:25:clause:1",
+                        "number": "1",
+                        "content": "1. Trung tâm, Báo Đấu thầu có trách nhiệm thu, quản\nlý và sử dụng chi phí đăng tải thông tin về đấu thầu và chi phí lựa chọn nhà thầu qua mạng theo quy định tại Thông tư này để bảo đảm vận hành Hệ thống, Báo Đấu thầu theo đúng quy định.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:266253:part:1:article:25:clause:2",
+                        "number": "2",
+                        "content": "2. Nguồn thu từ đăng tải thông tin về đấu thầu, lựa\nchọn nhà thầu qua mạng bảo đảm đủ bù đắp chi phí hợp lý để thực hiện các nhiệm vụ sau đây:",
+                        "points": [
+                          {
+                            "point_id": "doc:266253:part:1:article:25:clause:2:point:1",
+                            "label": "a",
+                            "content": "a) Đăng tải thông tin về đấu thầu trên Hệ thống,\nBáo Đấu thầu;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:266253:part:1:article:25:clause:2:point:2",
+                            "label": "b",
+                            "content": "b) Lựa chọn nhà thầu qua mạng.",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "clause_id": "doc:266253:part:1:article:25:clause:3",
+                        "number": "3",
+                        "content": "3. Không sử dụng nguồn ngân sách nhà nước để thực\nhiện các nhiệm vụ quy định tại Khoản 2 Điều này.",
+                        "points": []
+                      }
+                    ],
+                    "points": []
+                  },
+                  {
+                    "article_id": "doc:266253:part:1:article:26",
+                    "number": "24",
+                    "title": "Các loại chi phí và mức thu",
+                    "content": "Điều 24. Các loại chi phí và mức thu",
+                    "clauses": [
+                      {
+                        "clause_id": "doc:266253:part:1:article:26:clause:1",
+                        "number": "1",
+                        "content": "1. Chi phí đăng tải thông tin về đấu thầu:",
+                        "points": [
+                          {
+                            "point_id": "doc:266253:part:1:article:26:clause:1:point:1",
+                            "label": "a",
+                            "content": "a) Chi phí đăng tải thông báo mời quan tâm, thông\nbáo mời sơ tuyển là 330.000 đồng/gói thầu/thứ tiếng (đã bao gồm thuế giá trị gia tăng);",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:266253:part:1:article:26:clause:1:point:2",
+                            "label": "b",
+                            "content": "b) Chi phí đăng tải thông báo mời chào hàng là\n165.000 đồng/gói thầu/thứ tiếng (đã bao gồm thuế giá trị gia tăng);",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:266253:part:1:article:26:clause:1:point:3",
+                            "label": "c",
+                            "content": "c) Chi phí đăng tải thông báo mời thầu là 330.000 đồng/gói\nthầu/thứ tiếng (đã bao gồm thuế giá trị gia tăng);",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:266253:part:1:article:26:clause:1:point:4",
+                            "label": "d",
+                            "content": "d) Chi phí đăng tải danh sách ngắn là 165.000 đồng/gói\nthầu/thứ tiếng (đã bao gồm thuế giá trị gia tăng).",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "clause_id": "doc:266253:part:1:article:26:clause:2",
+                        "number": "2",
+                        "content": "2. Đối với chi phí lựa chọn nhà thầu qua mạng:",
+                        "points": [
+                          {
+                            "point_id": "doc:266253:part:1:article:26:clause:2:point:1",
+                            "label": "a",
+                            "content": "a) Chi phí đăng ký tham gia Hệ thống là 550.000 đồng\n(đã bao gồm thuế giá trị gia tăng), chi phí này đã bao gồm chi phí duy trì tên và hồ sơ năng lực của nhà thầu, nhà đầu tư trên Hệ thống tính đến ngày cuối cùng của năm đăng ký;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:266253:part:1:article:26:clause:2:point:2",
+                            "label": "b",
+                            "content": "b) Chi phí duy trì tên và hồ sơ năng lực của nhà thầu,\nnhà đầu tư trên Hệ thống là 550.000 đồng/năm (đã bao gồm thuế giá trị gia tăng);",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:266253:part:1:article:26:clause:2:point:3",
+                            "label": "c",
+                            "content": "c) Chi phí nộp hồ sơ dự thầu là 330.000 đồng/gói thầu\n(đã bao gồm thuế giá trị gia tăng);",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:266253:part:1:article:26:clause:2:point:4",
+                            "label": "d",
+                            "content": "d) Chi phí nộp hồ sơ đề xuất là 220.000 đồng/gói thầu\n(đã bao gồm thuế giá trị gia tăng).",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "clause_id": "doc:266253:part:1:article:26:clause:3",
+                        "number": "3",
+                        "content": "3. Trường hợp cần khôi phục việc tham gia Hệ thống\ntheo quy định tại Điểm g Khoản 2 Điều 6 của Thông tư này, nhà thầu, nhà đầu tư phải thanh toán toàn bộ các khoản nợ (nếu có) theo quy định tại Khoản 2 Điều này, tính từ thời điểm bắt đầu phát sinh nợ đến khi có văn bản đề nghị chấm dứt hoặc tạm ngừng tham gia Hệ thống.",
+                        "points": []
+                      }
+                    ],
+                    "points": []
+                  },
+                  {
+                    "article_id": "doc:266253:part:1:article:27",
+                    "number": "25",
+                    "title": "Tổ chức thu, nộp chi phí",
+                    "content": "Điều 25. Tổ chức thu, nộp chi phí",
+                    "clauses": [
+                      {
+                        "clause_id": "doc:266253:part:1:article:27:clause:1",
+                        "number": "1",
+                        "content": "1. Đối với chi phí đăng tải thông tin về đấu thầu:",
+                        "points": [
+                          {
+                            "point_id": "doc:266253:part:1:article:27:clause:1:point:1",
+                            "label": "a",
+                            "content": "a) Báo Đấu thầu có trách nhiệm thu chi phí đăng tải\nthông tin về đấu thầu quy định tại Khoản 1 Điều 24 của Thông tư này. Tài khoản thu chi phí là tài khoản Việt Nam đồng của Báo Đấu thầu mở tại ngân hàng thương mại. Khoản thu chi phí đăng tải thông tin về đấu thầu được Báo Đấu thầu chuyển một phần sang Trung tâm theo quyết định của Bộ trưởng Bộ Kế hoạch và Đầu tư để bù đắp việc thực hiện nâng cấp, vận hành Hệ thống nhằm bảo đảm Hệ thống hoạt động liên tục, ổn định phục vụ việc thực hiện đăng tải thông tin về đấu thầu trên Hệ thống, phần còn lại được sử dụng để thực hiện chức năng đăng tải thông tin về đấu thầu trên Báo Đấu thầu.",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:266253:part:1:article:27:clause:1:point:2",
+                            "label": "b",
+                            "content": "b) Bên mời thầu thanh toán chi phí đăng tải thông\ntin về đấu thầu theo quy định tại Khoản 1 Điều 24 của Thông tư này tối đa là 02 ngày làm việc, kể từ ngày tự đăng tải thông tin trên Hệ thống.",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "clause_id": "doc:266253:part:1:article:27:clause:2",
+                        "number": "2",
+                        "content": "2. Đối với chi phí lựa chọn nhà thầu qua mạng:",
+                        "points": [
+                          {
+                            "point_id": "doc:266253:part:1:article:27:clause:2:point:1",
+                            "label": "a",
+                            "content": "a) Trung tâm chịu trách nhiệm thu chi phí lựa chọn\nnhà thầu qua mạng quy định tại Khoản 2 Điều 24 của Thông tư này. Tài khoản thu chi phí là tài khoản Việt Nam đồng của Trung tâm mở tại ngân hàng thương mại.",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:266253:part:1:article:27:clause:2:point:2",
+                            "label": "b",
+                            "content": "b) Nhà thầu thanh toán chi phí lựa chọn nhà thầu\nqua mạng theo quy định tại Khoản 2 Điều 24 của Thông tư này như sau: - Đối với chi phí đăng ký tham gia Hệ thống, thanh toán ngay tại thời điểm đăng ký trên Hệ thống; - Đối với chi phí duy trì tên và hồ sơ năng lực của nhà thầu, nhà đầu tư trên Hệ thống, thời hạn thanh toán là Quý I hàng năm trừ năm thực hiện đăng ký trên Hệ thống; - Đối với chi phí nộp hồ sơ dự thầu, hồ sơ đề xuất, thời hạn thanh toán tối đa là 02 ngày làm việc kể từ ngày mở thầu.",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ],
+                    "points": []
+                  }
+                ]
+              },
+              {
+                "section_id": "doc:266253:part:1:section:4",
+                "number": "2",
+                "title": "TIỀN THU ĐĂNG TẢI THÔNG TIN VỀ ĐẤU THẦU VÀ THỰC HIỆN LỰA CHỌN NHÀ THẦU QUA MẠNG",
+                "content": "Mục 2. QUẢN LÝ VÀ SỬ DỤNG SỐ\nTIỀN THU ĐĂNG TẢI THÔNG TIN VỀ ĐẤU THẦU VÀ THỰC HIỆN LỰA CHỌN NHÀ THẦU QUA MẠNG",
+                "articles": [
+                  {
+                    "article_id": "doc:266253:part:1:article:28",
+                    "number": "26",
+                    "title": "Nội dung chi tiền thu đăng tải thông tin về đấu thầu và thực hiện lựa chọn nhà thầu qua mạng",
+                    "content": "Điều 26. Nội dung chi tiền thu đăng tải thông tin về đấu thầu và thực hiện lựa chọn nhà thầu qua mạng",
+                    "clauses": [
+                      {
+                        "clause_id": "doc:266253:part:1:article:28:clause:1",
+                        "number": "1",
+                        "content": "1. Chi thực hiện nghĩa vụ với Ngân sách nhà nước.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:266253:part:1:article:28:clause:2",
+                        "number": "2",
+                        "content": "2. Chi thực hiện đăng tải thông tin về đấu thầu\ntrên Báo Đấu thầu bao gồm:",
+                        "points": [
+                          {
+                            "point_id": "doc:266253:part:1:article:28:clause:2:point:1",
+                            "label": "a",
+                            "content": "a) Chi in Báo;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:266253:part:1:article:28:clause:2:point:2",
+                            "label": "b",
+                            "content": "b) Chi vận chuyển và phát hành Báo trên toàn quốc;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:266253:part:1:article:28:clause:2:point:3",
+                            "label": "c",
+                            "content": "c) Chi cho cá nhân trực tiếp tham gia hoạt động\nđăng tải thông tin về đấu thầu, bao gồm: tiền lương, phụ cấp và các khoản chi hợp lệ khác cho người lao động theo quy định của pháp luật;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:266253:part:1:article:28:clause:2:point:4",
+                            "label": "d",
+                            "content": "d) Chi văn phòng phẩm, vật tư văn phòng, thông tin\nliên lạc, điện, nước, ứng dụng công nghệ thông tin và các dịch vụ thuê ngoài phục vụ hoạt động đăng tải thông tin về đấu thầu;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:266253:part:1:article:28:clause:2:point:5",
+                            "label": "đ",
+                            "content": "đ) Chi mua sắm, bảo dưỡng và sửa chữa thường xuyên,\nsửa chữa lớn, bảo hành, bảo trì, nâng cấp hệ thống tài sản, máy móc, thiết bị phục vụ hoạt động đăng tải thông tin về đấu thầu;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:266253:part:1:article:28:clause:2:point:6",
+                            "label": "e",
+                            "content": "e) Chi tổ chức, quản lý hoạt động đăng tải, phát\nhành thông tin về đấu thầu;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:266253:part:1:article:28:clause:2:point:7",
+                            "label": "g",
+                            "content": "g) Các khoản chi khác phục vụ trực tiếp hoạt động\nđăng tải thông tin về đấu thầu.",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "clause_id": "doc:266253:part:1:article:28:clause:3",
+                        "number": "3",
+                        "content": "3. Chi thực hiện đăng tải thông tin về đấu thầu\ntrên Hệ thống.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:266253:part:1:article:28:clause:4",
+                        "number": "4",
+                        "content": "4. Chi thực hiện lựa chọn nhà thầu qua mạng bao gồm:",
+                        "points": [
+                          {
+                            "point_id": "doc:266253:part:1:article:28:clause:4:point:1",
+                            "label": "a",
+                            "content": "a) Chi tổ chức quản lý, vận hành và phát triển Hệ\nthống;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:266253:part:1:article:28:clause:4:point:2",
+                            "label": "b",
+                            "content": "b) Chi hoạt động hướng dẫn, hỗ trợ người sử dụng Hệ\nthống;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:266253:part:1:article:28:clause:4:point:3",
+                            "label": "c",
+                            "content": "c) Chi hoạt động truyền thông, hợp tác quốc tế về đấu\nthầu qua mạng;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:266253:part:1:article:28:clause:4:point:4",
+                            "label": "d",
+                            "content": "d) Chi hoạt động liên quan đến công việc tiếp nhận,\nxử lý hồ sơ tham gia Hệ thống, ứng dụng công nghệ thông tin trong quản lý cơ sở dữ liệu;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:266253:part:1:article:28:clause:4:point:5",
+                            "label": "d",
+                            "content": "d) Các khoản chi khác phục vụ trực tiếp cho việc\nđăng tải thông tin về đấu thầu và lựa chọn nhà thầu qua mạng.",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "clause_id": "doc:266253:part:1:article:28:clause:5",
+                        "number": "5",
+                        "content": "5. Việc phân phối kết quả tài chính được thực hiện theo\ncơ chế tự chủ theo quy định của pháp luật.",
+                        "points": []
+                      }
+                    ],
+                    "points": []
+                  },
+                  {
+                    "article_id": "doc:266253:part:1:article:29",
+                    "number": "27",
+                    "title": "Tổ chức lập, phê duyệt kế hoạch thu, chi",
+                    "content": "Điều 27. Tổ chức lập, phê duyệt kế hoạch thu, chi",
+                    "clauses": [
+                      {
+                        "clause_id": "doc:266253:part:1:article:29:clause:1",
+                        "number": "1",
+                        "content": "1. Lập, phê duyệt kế hoạch:",
+                        "points": [
+                          {
+                            "point_id": "doc:266253:part:1:article:29:clause:1:point:1",
+                            "label": "a",
+                            "content": "a) Hàng năm, Trung tâm, Báo Đấu thầu lập kế hoạch\nthu và kế hoạch chi liên quan đến hoạt động đăng tải thông tin về đấu thầu và thực hiện lựa chọn nhà thầu qua mạng theo các nội dung tại Phụ lục II kèm theo Thông tư này, tổng hợp vào dự toán của Cục Quản lý đấu thầu trình Bộ Kế hoạch và Đầu tư phê duyệt;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:266253:part:1:article:29:clause:1:point:2",
+                            "label": "b",
+                            "content": "b) Việc lập kế hoạch chi liên quan đến hoạt động\nđăng tải thông tin về đấu thầu và thực hiện lựa chọn nhà thầu qua mạng bảo đảm phù hợp với các tiêu chuẩn, định mức và chế độ tài chính hiện hành.",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "clause_id": "doc:266253:part:1:article:29:clause:2",
+                        "number": "2",
+                        "content": "2. Điều chỉnh kế hoạch:\nTrong quá trình thực hiện, trường hợp phát sinh nhiệm vụ, Cục Quản lý đấu thầu được chủ động điều chỉnh các khoản chi tại Phần B Phụ lục II kèm theo Thông tư này và chịu trách nhiệm về việc điều chỉnh trong phạm vi kế hoạch năm được duyệt. Việc điều chỉnh chỉ được thực hiện trong Quý IV năm kế hoạch.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:266253:part:1:article:29:clause:3",
+                        "number": "3",
+                        "content": "3. Quyết toán thu, chi:\nHàng năm, Trung tâm, Báo Đấu thầu có trách nhiệm lập quyết toán thu, chi theo các nội dung tại Phụ lục III kèm theo Thông tư này và tổng hợp vào quyết toán kinh phí hoạt động trong năm của Cục Quản lý đấu thầu, trình Bộ Kế hoạch và Đầu tư phê duyệt.",
+                        "points": []
+                      }
+                    ],
+                    "points": []
+                  }
+                ]
+              }
+            ],
+            "articles": []
+          },
+          {
+            "chapter_id": "doc:266253:part:1:chapter:4",
+            "number": "IV",
+            "title": "KHOẢN THU TỪ BẢO ĐẢM DỰ THẦU, BẢO ĐẢM THỰC HIỆN HỢP ĐỒNG KHÔNG ĐƯỢC HOÀN TRẢ",
+            "content": "Chương IV\nKHOẢN THU TỪ BẢO ĐẢM DỰ\nTHẦU, BẢO ĐẢM THỰC HIỆN HỢP ĐỒNG KHÔNG ĐƯỢC HOÀN TRẢ",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:266253:part:1:article:30",
+                "number": "28",
+                "title": "Khoản thu từ bảo đảm dự thầu, bảo đảm thực hiện hợp đồng không được hoàn trả Trường hợp nhà thầu, nhà đầu tư vi phạm quy định của pháp luật về đấu thầu dẫn đến không được hoàn trả bảo đảm dự thầu, bảo đảm thực hiện hợp đồng theo quy định tại Khoản 8 Điều 11 và Khoản 5 Điều 66 Luật đấu thầu thì việc sử dụng khoản thu từ bảo đảm dự thầu, bảo đảm thực hiện hợp đồng không được hoàn trả sẽ được thực hiện như sau:",
+                "content": "Điều 28. Khoản thu từ bảo đảm dự thầu, bảo đảm thực hiện hợp đồng không được hoàn trả Trường hợp nhà thầu, nhà đầu tư vi phạm quy định của pháp luật về đấu thầu dẫn đến không được hoàn trả bảo đảm dự thầu, bảo đảm thực hiện hợp đồng theo quy định tại Khoản 8 Điều 11 và Khoản 5 Điều 66 Luật đấu thầu thì việc sử dụng khoản thu từ bảo đảm dự thầu, bảo đảm thực hiện hợp đồng không được hoàn trả sẽ được thực hiện như sau:",
+                "clauses": [
+                  {
+                    "clause_id": "doc:266253:part:1:article:30:clause:1",
+                    "number": "1",
+                    "content": "1. Đối với các dự án, gói thầu có sử dụng vốn ngân\nsách nhà nước, khoản thu này được nộp vào Ngân sách nhà nước theo quy định của pháp luật về ngân sách nhà nước.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:266253:part:1:article:30:clause:2",
+                    "number": "2",
+                    "content": "2. Đối với các dự án, gói thầu không sử dụng vốn\nngân sách nhà nước, khoản thu này được sử dụng theo quy chế tài chính của chủ đầu tư.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:266253:part:1:article:30:clause:3",
+                    "number": "3",
+                    "content": "3. Đối với trường hợp bên mời thầu là đơn vị tư vấn\nđược thuê thì khoản thu này phải nộp lại cho chủ đầu tư. Chủ đầu tư sử dụng khoản thu này căn cứ vào quy định tại Khoản 1 và Khoản 2 Điều này.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:266253:part:1:chapter:5",
+            "number": "V",
+            "title": "LỘ TRÌNH ÁP DỤNG LỰA CHỌN NHÀ THẦU QUA MẠNG",
+            "content": "Chương V\nLỘ TRÌNH ÁP DỤNG LỰA CHỌN\nNHÀ THẦU QUA MẠNG",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:266253:part:1:article:31",
+                "number": "29",
+                "title": "Lộ trình áp dụng lựa chọn nhà thầu qua mạng Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ, Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương, các Tập đoàn kinh tế, Tổng công ty nhà nước, các tổ chức chính trị, tổ chức chính trị - xã hội, tổ chức chính trị xã hội - nghề nghiệp, tổ chức xã hội - nghề nghiệp, tổ chức xã hội, đơn vị thuộc lực lượng vũ trang nhân dân, đơn vị sự nghiệp công lập chỉ đạo các chủ đầu tư, bên mời thầu trực thuộc phải tổ chức lựa chọn nhà thầu qua mạng theo lộ trình như sau:",
+                "content": "Điều 29. Lộ trình áp dụng lựa chọn nhà thầu qua mạng Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ, Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương, các Tập đoàn kinh tế, Tổng công ty nhà nước, các tổ chức chính trị, tổ chức chính trị - xã hội, tổ chức chính trị xã hội - nghề nghiệp, tổ chức xã hội - nghề nghiệp, tổ chức xã hội, đơn vị thuộc lực lượng vũ trang nhân dân, đơn vị sự nghiệp công lập chỉ đạo các chủ đầu tư, bên mời thầu trực thuộc phải tổ chức lựa chọn nhà thầu qua mạng theo lộ trình như sau:",
+                "clauses": [
+                  {
+                    "clause_id": "doc:266253:part:1:article:31:clause:1",
+                    "number": "1",
+                    "content": "1. Năm 2020:",
+                    "points": [
+                      {
+                        "point_id": "doc:266253:part:1:article:31:clause:1:point:1",
+                        "label": "a",
+                        "content": "a) Tổ chức lựa chọn nhà thầu qua mạng đối với toàn\nbộ (100%) các gói thầu áp dụng hình thức đấu thầu rộng rãi, chào hàng cạnh tranh thuộc lĩnh vực hàng hóa, dịch vụ phi tư vấn, dịch vụ tư vấn có giá gói thầu không quá 5 tỷ đồng và thuộc lĩnh vực xây lắp có giá gói thầu không quá 10 tỷ đồng, trừ trường hợp đối với các gói thầu chưa thể tổ chức lựa chọn nhà thầu qua mạng hoặc các gói thầu có tính đặc thù;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:266253:part:1:article:31:clause:1:point:2",
+                        "label": "b",
+                        "content": "b) Việc tổ chức lựa chọn nhà thầu qua mạng trong\nnăm phải bảo đảm tổng số lượng các gói thầu đạt tối thiểu 60% số lượng gói thầu áp dụng hình thức đấu thầu rộng rãi, chào hàng cạnh tranh và tổng giá trị gói thầu đạt tối thiểu 25% tổng giá trị các gói thầu áp dụng hình thức đấu thầu rộng rãi, chào hàng cạnh tranh.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:266253:part:1:article:31:clause:2",
+                    "number": "2",
+                    "content": "2. Năm 2021:",
+                    "points": [
+                      {
+                        "point_id": "doc:266253:part:1:article:31:clause:2:point:1",
+                        "label": "a",
+                        "content": "a) Tổ chức lựa chọn nhà thầu qua mạng đối với toàn\nbộ (100%) các gói thầu áp dụng hình thức đấu thầu rộng rãi, chào hàng cạnh tranh thuộc lĩnh vực hàng hóa, dịch vụ phi tư vấn, dịch vụ tư vấn có giá gói thầu không quá 10 tỷ đồng và thuộc lĩnh vực xây lắp có giá gói thầu không quá 20 tỷ đồng, trừ trường hợp đối với gói thầu chưa thể tổ chức lựa chọn nhà thầu qua mạng hoặc các gói thầu có tính đặc thù;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:266253:part:1:article:31:clause:2:point:2",
+                        "label": "b",
+                        "content": "b) Việc tổ chức lựa chọn nhà thầu qua mạng trong\nnăm phải bảo đảm tổng số lượng các gói thầu đạt tối thiểu 70% số lượng gói thầu áp dụng hình thức đấu thầu rộng rãi, chào hàng cạnh tranh và tổng giá trị gói thầu đạt tối thiểu 35% tổng giá trị các gói thầu áp dụng hình thức đấu thầu rộng rãi, chào hàng cạnh tranh.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:266253:part:1:article:31:clause:3",
+                    "number": "3",
+                    "content": "3. Giai đoạn từ năm 2022 đến năm 2025:",
+                    "points": [
+                      {
+                        "point_id": "doc:266253:part:1:article:31:clause:3:point:1",
+                        "label": "a",
+                        "content": "a) Tổ chức lựa chọn nhà thầu qua mạng tối thiểu 70%\ncác gói thầu thuộc phạm vi điều chỉnh của Luật đấu thầu;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:266253:part:1:article:31:clause:3:point:2",
+                        "label": "b",
+                        "content": "b) Tổ chức lựa chọn nhà thầu qua mạng toàn bộ\n(100%) gói thầu sử dụng vốn nhà nước để mua sắm nhằm duy trì hoạt động thường xuyên của cơ quan nhà nước, tổ chức chính trị, tổ chức chính trị - xã hội, tổ chức chính trị xã hội - nghề nghiệp, tổ chức xã hội - nghề nghiệp, tổ chức xã hội, đơn vị thuộc lực lượng vũ trang nhân dân, đơn vị sự nghiệp công lập;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:266253:part:1:article:31:clause:3:point:3",
+                        "label": "c",
+                        "content": "c) Tổ chức lựa chọn nhà thầu qua mạng toàn bộ\n(100%) gói thầu mua sắm tập trung.",
+                        "children": []
+                      }
+                    ]
+                  }
+                ],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:266253:part:1:chapter:6",
+            "number": "VI",
+            "title": "TỔ CHỨC THỰC HIỆN",
+            "content": "Chương VI\nTỔ CHỨC THỰC HIỆN",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:266253:part:1:article:32",
+                "number": "30",
+                "title": "Hướng dẫn thi hành Vào các dịp nghỉ lễ, Tết hàng năm, Bộ Kế hoạch và Đầu tư hướng dẫn việc cung cấp, đăng tải thông tin về đấu thầu trên Hệ thống, Báo Đấu thầu phù hợp với lịch nghỉ lễ, Tết theo thông báo của Bộ Lao động - Thương binh và Xã hội.",
+                "content": "Điều 30. Hướng dẫn thi hành Vào các dịp nghỉ lễ, Tết hàng năm, Bộ Kế hoạch và Đầu tư hướng dẫn việc cung cấp, đăng tải thông tin về đấu thầu trên Hệ thống, Báo Đấu thầu phù hợp với lịch nghỉ lễ, Tết theo thông báo của Bộ Lao động - Thương binh và Xã hội.",
+                "clauses": [],
+                "points": []
+              },
+              {
+                "article_id": "doc:266253:part:1:article:33",
+                "number": "31",
+                "title": "Hiệu lực thi hành",
+                "content": "Điều 31. Hiệu lực thi hành",
+                "clauses": [
+                  {
+                    "clause_id": "doc:266253:part:1:article:33:clause:1",
+                    "number": "1",
+                    "content": "1. Thông tư này có hiệu lực thi hành kể từ ngày 01\ntháng 02 năm 2020.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:266253:part:1:article:33:clause:2",
+                    "number": "2",
+                    "content": "2. Kể từ ngày Thông tư này có hiệu lực thi hành,\nThông tư liên tịch số 07/2015/TTLT-BKHĐT-BTC ngày 8 tháng 9 năm 2015 của Bộ Kế hoạch và Đầu tư và Bộ Tài chính quy định chi tiết việc cung cấp, đăng tải thông tin về đấu thầu và lựa chọn nhà thầu qua mạng hết hiệu lực thi hành.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:266253:part:1:article:33:clause:3",
+                    "number": "3",
+                    "content": "3. Trong quá trình thực hiện, nếu có vướng mắc, các\nBộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ, cơ quan khác ở Trung ương, Ủy ban nhân dân các cấp, các tập đoàn kinh tế nhà nước, các tổng công ty nhà nước và tổ chức, cá nhân có liên quan gửi ý kiến về Bộ Kế hoạch và Đầu tư để kịp thời xem xét, hướng dẫn.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          }
+        ],
+        "sections": [],
+        "articles": [],
+        "unstructured_blocks": []
+      },
+      {
+        "part_id": "doc:266253:part:2",
+        "part_type": "appendix",
+        "part_title": "PHỤ LỤC",
+        "reference": null,
+        "direct_text": null,
+        "chapters": [],
+        "sections": [],
+        "articles": [],
+        "unstructured_blocks": [
+          {
+            "block_id": "doc:266253:part:2:block:1",
+            "content": "PHỤ LỤC\n(Ban hành kèm theo Thông tư số 11/2019/TT-BKHĐT ngày 16 tháng 12 năm 2019 của Bộ Kế hoạch và Đầu\ntư)",
+            "indexable": true
+          }
+        ]
+      },
+      {
+        "part_id": "doc:266253:part:3",
+        "part_type": "appendix",
+        "part_title": "PHỤ LỤC 1",
+        "reference": null,
+        "direct_text": null,
+        "chapters": [],
+        "sections": [],
+        "articles": [],
+        "unstructured_blocks": [
+          {
+            "block_id": "doc:266253:part:3:block:1",
+            "content": "PHỤ LỤC 1\nCÁC MẪU PHIẾU\nMẫu 1\nPHIẾU ĐĂNG KÝ THÔNG TIN VĂN BẢN QUY PHẠM PHÁP LUẬT VỀ\nĐẤU THẦU\nKính gửi: Cục Quản lý đấu thầu - Bộ Kế hoạch và Đầu tư\n1. Tên đơn vị: [ghi tên đơn vị gửi phiếu đăng\nký] ……………………………………………………..\n2. Số văn bản: [ghi số của văn bản quy phạm pháp\nluật] ……………………………………………\n3. Cơ quan ban hành:\n…………………………………………………………………………………….\n4. Người ký: ……………………………………………………………………………………………….\n5. Loại văn bản:\n…………………………………………………………………………………………..\n6. Ngày ban hành: …………………….. Ngày hiệu lực\n……………………………………………….\n7. Tình trạng hiệu lực:\n………………………………………………………………………………… ……., ngày … tháng … năm ……………….. Đại diện hợp pháp của đơn vị đăng ký (Ký, ghi rõ họ tên, chức danh và đóng dấu) * Ghi chú: Yêu cầu gửi kèm theo văn bản quy phạm pháp luật về đấu thầu (bản cứng và file mềm. File mềm gửi về địa chỉ chinhsachdauthau@mpi.gov.vn). Mẫu 2\nPHIẾU ĐĂNG KÝ THÔNG TIN VỀ NHÀ THẦU, NHÀ ĐẦU TƯ NƯỚC\nNGOÀI TRÚNG THẦU TẠI VIỆT NAM\nKính gửi: Cục Quản lý đấu thầu - Bộ Kế hoạch và Đầu tư - Thông tin chung: …………………………………………………………………………………….. - Tên hợp đồng: ……………………………………………………………………………………….. - Tên nhà thầu/nhà đầu tư trúng thầu: ……………………………………………………………… - Địa chỉ đăng ký thành lập tại nước hoặc vùng lãnh thổ nơi nhà thầu, nhà đầu tư đang hoạt động: …………………………………………………………………………………………………… - Số điện thoại: …………………………………. Fax:………………………………………………… - Email: …………………………………………… Website: …………………………………………. - Địa chỉ chi nhánh hoặc văn phòng đại diện tại Việt Nam (nêu có): ……………………………… - Số điện thoại: …………………………………. Fax:…………………………………………………. - Email: …………………………………………… Website: …………………………………………. - Thời gian thực hiện gói thầu/dự án: từ …………………. đến: …………………………………… - Tổng số cán bộ, chuyên gia Việt Nam: ……………………………………………………….. người - Tổng số cán bộ, chuyên gia nước ngoài: ……………………………………………………. người - Cố vấn trưởng: ………………………………………………………………………………………… - Đội trưởng dự án: …………………………………………………………………………………….. - Giám đốc dự án: ………………………………………………………………………………………. - Tên ngày tháng năm sinh, số hộ chiếu của cán bộ chủ chốt thực hiện gói thầu: …………………………………………………………………………………………………………….. …………………………………………………………………………………………………………….. …………, ngày …. tháng …. năm ………. Đại diện hợp pháp của đơn vị đăng ký (Ký, ghi rõ họ tên, chức danh và đóng dấu) Mẫu 3\nPHIẾU ĐĂNG KÝ THÔNG TIN XỬ LÝ VI PHẠM PHÁP LUẬT VỀ ĐẤU\nTHẦU\nKính gửi: Cục Quản lý đấu thầu - Bộ Kế hoạch và Đầu tư A. Thông tin đơn vị đăng ký: - Tên đơn vị đăng ký: ………………………………………………………………………………… - Số quyết định: ……………………………………………………………………………………….. - Ngày quyết định: ……………………………………………………………………………………. B. Thông tin tổ chức, cá nhân bị xử lý vi phạm: - Tên tổ chức, cá nhân vi phạm: …………………………………………………………………….. - Địa chỉ: ………………………………………………………………………………………………… - Hình thức xử lý vi phạm: □ Cảnh cáo □ Phạt tiền (số tiền) □ Cấm tham gia hoạt động đấu thầu (thời gian cấm) - Lý do xử lý vi phạm: ………………………………………………………………………………….. …………, ngày …. tháng …. năm ………. Đại diện hợp pháp của đơn vị đăng ký (Ký, ghi rõ họ tên, chức danh và đóng dấu)",
+            "indexable": true
+          }
+        ]
+      },
+      {
+        "part_id": "doc:266253:part:4",
+        "part_type": "appendix",
+        "part_title": "PHỤ LỤC II",
+        "reference": null,
+        "direct_text": null,
+        "chapters": [],
+        "sections": [],
+        "articles": [],
+        "unstructured_blocks": [
+          {
+            "block_id": "doc:266253:part:4:block:1",
+            "content": "PHỤ LỤC II\nKẾ HOẠCH THU VÀ KẾ HOẠCH CHI CÁC KHOẢN LIÊN QUAN ĐẾN\nĐĂNG TẢI THÔNG TIN VỀ ĐẤU THẦU VÀ THỰC HIỆN LỰA CHỌN NHÀ THẦU QUA MẠNG\nA. Kế hoạch thu (Đơn vị tính: đồng)\nSTT NỘI DUNG THU SỐ TIỀN\nTỔNG SỐ (I+II+III+IV) I\nKINH PHÍ NĂM TRƯỚC CHUYỂN SANG\nII\nTHU ĐĂNG TẢI THÔNG TIN VỀ ĐẤU THẦU TRÊN HỆ THỐNG,\nBÁO ĐẤU THẦU\n1 Đăng tải thông báo mời quan tâm, thông báo mời sơ tuyển 2 Đăng tải thông báo mời thầu 3 Đăng tải thông báo mời chào hàng 4 Đăng tải danh sách ngắn\nIII\nTHU THAM GIA HỆ THỐNG VÀ THỰC HIỆN LỰA CHỌN\nNHÀ THẦU QUA MẠNG\n1 Thu tham gia Hệ thống 1.1 Thu đăng ký tham gia Hệ thống (nộp một lần khi đăng ký) 1.2 Thu duy trì tên và thông tin về năng lực, kinh nghiệm của nhà thầu, nhà đầu tư trên Hệ thống (nộp vào Quý I hàng năm, trừ năm thực hiện đăng ký) 2 Thu nộp hồ sơ dự thầu, hồ sơ đề xuất\nIV THU KHÁC (NẾU CÓ)\nB. Kế hoạch chi (Đơn vị tính: đồng)\nSTT NỘI DUNG CHI SỐ TIỀN\nTỔNG SỐ (I+II+III+IV) I\nTHỰC HIỆN NGHĨA VỤ VỚI NGÂN SÁCH NHÀ NƯỚC\nII\nCHI THỰC HIỆN ĐĂNG TẢI THÔNG TIN VỀ ĐẤU THẦU\nTRÊN BÁO ĐẤU THẦU III\nCHUYỂN KHOẢN THU CHI PHÍ ĐĂNG TẢI THÔNG TIN VỀ\nĐẤU THẦU TỪ BÁO ĐẤU THẦU SANG TRUNG TÂM ĐẤU THẦU QUA MẠNG QUỐC GIA ĐỂ CHI THỰC\nHIỆN ĐĂNG TẢI THÔNG TIN VỀ ĐẤU THẦU TRÊN HỆ THỐNG\nIV\nCHI THỰC HIỆN LỰA CHỌN NHÀ THẦU QUA MẠNG\n1 Chi tổ chức quản lý, vận hành và phát triển Hệ thống 2 Chi hoạt động hướng dẫn, hỗ trợ người sử dụng Hệ thống 3 Chi hoạt động truyền thông, hợp tác quốc tế về đấu thầu qua mạng 4 Chi hoạt động liên quan đến công việc tiếp nhận, xử lý hồ sơ tham gia Hệ thống, ứng dụng công nghệ thông tin trong quản lý cơ sở dữ liệu 5 Các khoản chi khác phục vụ trực tiếp cho việc thực hiện lựa chọn nhà thầu qua mạng\nV\nPHÂN PHỐI KẾT QUẢ TÀI CHÍNH THEO CƠ CHẾ TỰ CHỦ",
+            "indexable": true
+          }
+        ]
+      },
+      {
+        "part_id": "doc:266253:part:5",
+        "part_type": "appendix",
+        "part_title": "PHỤ LỤC III",
+        "reference": null,
+        "direct_text": null,
+        "chapters": [],
+        "sections": [],
+        "articles": [],
+        "unstructured_blocks": [
+          {
+            "block_id": "doc:266253:part:5:block:1",
+            "content": "PHỤ LỤC III\nQUYẾT TOÁN THU VÀ QUYẾT TOÁN CHI CÁC KHOẢN LIÊN QUAN ĐẾN\nĐĂNG TẢI THÔNG TIN VỀ ĐẤU THẦU VÀ THỰC HIỆN LỰA CHỌN NHÀ THẦU QUA MẠNG\nA. Quyết toán thu (Đơn vị tính: đồng)\nSTT NỘI DUNG THU SỐ TIỀN\nTỔNG SỐ (I+II+III+IV+V) I\nKINH PHÍ NĂM TRƯỚC CHUYỂN SANG\nII\nTHU ĐĂNG TẢI THÔNG TIN VỀ ĐẤU THẦU TRÊN HỆ THỐNG,\nBÁO ĐẤU THẦU\n1 Đăng tải thông báo mời quan tâm, thông báo mời sơ tuyển 2 Đăng tải thông báo mời thầu 3 Đăng tải thông báo mời chào hàng 4 Đăng tải danh sách ngắn\nIII\nTHU THAM GIA HỆ THỐNG VÀ THỰC HIỆN LỰA CHỌN\nNHÀ THẦU QUA MẠNG\n1 Thu tham gia Hệ thống 1.1 Thu đăng ký tham gia Hệ thống (nộp một lần khi đăng ký) 1.2 Thu duy trì tên và thông tin về năng lực, kinh nghiệm của nhà thầu, nhà đầu tư trên Hệ thống (nộp vào Quý I hàng năm, trừ năm thực hiện đăng ký) 2 Thu nộp hồ sơ dự thầu, hồ sơ đề xuất\nIV THU KHÁC (NẾU CÓ)\nB. Quyết toán chi (Đơn vị tính: đồng)\nSTT NỘI DUNG CHI SỐ TIỀN\nTỔNG SỐ (l+II+III+IV+V)\nI\nTHỰC HIỆN NGHĨA VỤ VỚI NGÂN SÁCH NHÀ NƯỚC\nII\nCHI THỰC HIỆN ĐĂNG TẢI THÔNG TIN VỀ ĐẤU THẦU\nTRÊN BÁO ĐẤU THẦU III\nCHUYỂN KHOẢN THU CHI PHÍ ĐĂNG TẢI THÔNG TIN VỀ\nĐẤU THẦU TỪ BÁO ĐẤU THẦU SANG TRUNG TÂM ĐẤU THẦU QUA MẠNG QUỐC GIA ĐỂ CHI THỰC\nHIỆN ĐĂNG TẢI THÔNG TIN VỀ ĐẤU THẦU TRÊN HỆ THỐNG\nIV\nCHI THỰC HIỆN LỰA CHỌN NHÀ THẦU QUA MẠNG\n1 Chi tổ chức quản lý, vận hành và phát triển Hệ thống 2 Chi hoạt động hướng dẫn, hỗ trợ người sử dụng Hệ thống 3 Chi hoạt động truyền thông, hợp tác quốc tế về đấu thầu qua mạng 4 Chi hoạt động liên quan đến công việc tiếp nhận, xử lý hồ sơ tham gia Hệ thống, ứng dụng công nghệ thông tin trong quản lý cơ sở dữ liệu 5 Các khoản chi khác phục vụ trực tiếp cho việc thực hiện lựa chọn nhà thầu qua mạng\nV\nPHÂN PHỐI KẾT QUẢ TÀI CHÍNH THEO CƠ CHẾ TỰ CHỦ",
+            "indexable": true
+          }
+        ]
+      }
+    ]
+  },
+  "issues": [],
+  "status": "ok",
+  "source_hash": "context_266253.json",
+  "stats": {
+    "source_chars": 48964,
+    "passage_chars": 48800,
+    "parts": 5,
+    "chapters": 6,
+    "sections": 4,
+    "articles": 33,
+    "clauses": 90,
+    "points": 78
+  }
+}

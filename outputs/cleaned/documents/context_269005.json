@@ -1,0 +1,811 @@
+{
+  "schema_version": "2.0",
+  "document_id": 269005,
+  "metadata": {
+    "name": "Thong-tu-28-2022-TT-BGTVT-dam-bao-an-toan-thong-tin-du-lieu-dang-kiem-phuong-tien-giao-thong-543043",
+    "link": "https://thuvienphapluat.vn/van-ban/Cong-nghe-thong-tin/Thong-tu-28-2022-TT-BGTVT-dam-bao-an-toan-thong-tin-du-lieu-dang-kiem-phuong-tien-giao-thong-543043.aspx",
+    "issuing_agency": "BỘ GIAO THÔNG VẬN TẢI",
+    "national_header": "CỘNG HÒA XÃ HỘI\r\n\n  CHỦ NGHĨA VIỆT NAM",
+    "motto": "Độc lập - Tự do - Hạnh phúc",
+    "document_number": "28/2022/TT-BGTVT",
+    "issued_place": "Hà Nội",
+    "issued_date": "ngày 29\r\n\n  tháng 11 năm 2022",
+    "document_type": "THÔNG TƯ",
+    "title": "QUY ĐỊNH VỀ QUẢN LÝ, DUY TRÌ, CHIA SẺ VÀ ĐẢM BẢO AN TOÀN THÔNG TIN DỮ LIỆU ĐĂNG KIỂM PHƯƠNG TIỆN GIAO THÔNG VẬN TẢI"
+  },
+  "administrative_header": {
+    "removed": true,
+    "removed_char_count": 163
+  },
+  "preamble": {
+    "text": "THÔNG TƯ QUY\nĐỊNH VỀ QUẢN LÝ, DUY TRÌ, CHIA SẺ VÀ ĐẢM BẢO AN TOÀN THÔNG TIN DỮ LIỆU ĐĂNG KIỂM\nPHƯƠNG TIỆN GIAO THÔNG VẬN TẢI\nCăn cứ Luật Công nghệ thông tin ngày 29 tháng 6 năm 2006; Căn cứ Luật An toàn thông tin mạng ngày 19 tháng 11 năm 2015; Căn cứ Luật Giao dịch điện tử ngày 29 tháng 11 năm 2005; Căn cứ Luật Tiếp cận thông tin ngày 06 tháng 4 năm 2016; Căn cứ Nghị định số 85/2016/NĐ-CP ngày 01 tháng 7 năm 2016 của Chính phủ quy định về bảo đảm an toàn hệ thống thông tin theo cấp độ; Căn cứ Nghị định số 47/2020/NĐ-CP ngày 09 tháng 4 năm 2020 của Chính phủ quy định quản lý, kết nối và chia sẻ dữ liệu số của cơ quan nhà nước. Căn cứ Nghị định số 56/2022/NĐ-CP ngày 24 tháng 8 năm 2022 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Giao thông vận tải; Theo đề nghị của Giám đốc Trung tâm Công nghệ thông tin và Cục trưởng Cục Đăng kiểm Việt Nam; Bộ trưởng Bộ Giao thông vận tải ban hành Thông tư quy định về quản lý, duy trì, chia sẻ và đảm bảo an toàn thông tin dữ liệu đăng kiểm phương tiện giao thông vận tải.\nChương I\nQUY ĐỊNH CHUNG",
+    "legal_bases": [
+      "Căn cứ Luật An toàn thông tin mạng ngày 19 tháng 11 năm 2015",
+      "Căn cứ Luật Giao dịch điện tử ngày 29 tháng 11 năm 2005",
+      "Căn cứ Luật Tiếp cận thông tin ngày 06 tháng 4 năm 2016",
+      "Căn cứ Nghị định số 85/2016/NĐ-CP ngày 01 tháng 7 năm 2016 của Chính phủ quy định về bảo đảm an toàn hệ thống thông tin theo cấp độ",
+      "Căn cứ Nghị định số 47/2020/NĐ-CP ngày 09 tháng 4 năm 2020 của Chính phủ quy định quản lý, kết nối và chia sẻ dữ liệu số của cơ quan nhà nước. Căn cứ Nghị định số 56/2022/NĐ-CP ngày 24 tháng 8 năm 2022 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Giao thông vận tải"
+    ],
+    "proposals": [
+      "Theo đề nghị của Giám đốc Trung tâm Công nghệ thông tin và Cục trưởng Cục Đăng kiểm Việt Nam"
+    ],
+    "enactment_formula": null
+  },
+  "passage": "THÔNG TƯ QUY\nĐỊNH VỀ QUẢN LÝ, DUY TRÌ, CHIA SẺ VÀ ĐẢM BẢO AN TOÀN THÔNG TIN DỮ LIỆU ĐĂNG KIỂM\nPHƯƠNG TIỆN GIAO THÔNG VẬN TẢI\nCăn cứ Luật Công nghệ thông tin ngày 29 tháng 6 năm 2006; Căn cứ Luật An toàn thông tin mạng ngày 19 tháng 11 năm 2015; Căn cứ Luật Giao dịch điện tử ngày 29 tháng 11 năm 2005; Căn cứ Luật Tiếp cận thông tin ngày 06 tháng 4 năm 2016; Căn cứ Nghị định số 85/2016/NĐ-CP ngày 01 tháng 7 năm 2016 của Chính phủ quy định về bảo đảm an toàn hệ thống thông tin theo cấp độ; Căn cứ Nghị định số 47/2020/NĐ-CP ngày 09 tháng 4 năm 2020 của Chính phủ quy định quản lý, kết nối và chia sẻ dữ liệu số của cơ quan nhà nước. Căn cứ Nghị định số 56/2022/NĐ-CP ngày 24 tháng 8 năm 2022 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Giao thông vận tải; Theo đề nghị của Giám đốc Trung tâm Công nghệ thông tin và Cục trưởng Cục Đăng kiểm Việt Nam; Bộ trưởng Bộ Giao thông vận tải ban hành Thông tư quy định về quản lý, duy trì, chia sẻ và đảm bảo an toàn thông tin dữ liệu đăng kiểm phương tiện giao thông vận tải.\nChương I\nQUY ĐỊNH CHUNG\nĐiều 1. Phạm vi điều chỉnh và đối tượng áp dụng\n1. Phạm vi điều chỉnh\na) Thông tư này quy định về các hoạt động: tạo lập,\ncập nhật, quản lý, duy trì, kết nối, chia sẻ, sử dụng và đảm bảo an toàn thông tin dữ liệu đăng kiểm phương tiện giao thông vận tải thuộc phạm vi quản lý của Bộ Giao thông vận tải;\nb) Thông tư này không điều chỉnh đối với dữ liệu về\ntàu bay.\n2. Đối tượng áp dụng\na) Cơ quan, tổ chức, cá nhân tạo lập, cập nhật, quản\nlý, duy trì, kết nối, chia sẻ, sử dụng dữ liệu đăng kiểm phương tiện giao thông vận tải;\nb) Cơ quan, tổ chức, cá nhân được\nchia sẻ, kết nối dữ liệu đăng kiểm phương tiện giao thông vận tải;\nc) Các tổ chức, cá nhân khác có\nliên quan đến hoạt động kết nối, chia sẻ, sử dụng dữ liệu đăng kiểm phương tiện giao thông vận tải.\nĐiều 2. Giải thích từ ngữ Trong Thông tư này, các từ ngữ dưới đây được hiểu như sau:\n1. Phương tiện giao thông vận tải\n(sau đây gọi là phương tiện) bao gồm phương tiện giao thông cơ giới đường bộ, xe máy chuyên dùng, tàu biển, phương tiện thủy nội địa, phương tiện giao thông đường sắt.\n2. Nền tảng tích hợp, chia sẻ dữ\nliệu Bộ Giao thông vận tải là nền tảng phục vụ việc kết nối, chia sẻ dữ liệu các hệ thống thông tin, cơ sở dữ liệu trong nội bộ Bộ Giao thông vận tải và giữa Bộ Giao thông vận tải với các bộ, ngành, địa phương.\n3. Cơ quan quản lý dữ liệu đăng\nkiểm phương tiện là Cục Đăng kiểm Việt Nam.\nĐiều 3. Nguyên tắc tạo lập, cập nhật, quản lý, duy trì, kết nối, chia sẻ, sử dụng và đảm bảo an toàn thông tin dữ liệu đăng kiểm phương tiện\n1. Tuân thủ các quy định về bảo\nvệ bí mật nhà nước; các quy định về bảo đảm an toàn thông tin mạng, các quy định về bảo đảm an toàn hệ thống thông tin theo cấp độ.\n2. Quản lý kết nối và chia sẻ dữ\nliệu tuân thủ theo quy định tại Điều 5, Điều 6, Điều 7 của Nghị định số 47/2020/NĐ-CP ngày 09 tháng 4 năm 2020 của Chính phủ quy định quản lý, kết nối và chia sẻ dữ liệu số của cơ quan nhà nước.\n3. Bảo đảm sự đầy đủ, chính xác\ncủa dữ liệu nhằm phục vụ công tác quản lý, sử dụng dữ liệu đăng kiểm phương tiện.\n4. Phù hợp với Khung Kiến trúc\nChính phủ điện tử Việt Nam, Kiến trúc Chính phủ điện tử Bộ Giao thông vận tải.\n5. Tuân thủ các quy định về bảo\nmật thông tin; các quy định về quyền sở hữu trí tuệ liên quan đến dữ liệu; quyền riêng tư của tổ chức, cá nhân.\n6. Tuân thủ các quy định, hướng\ndẫn kỹ thuật về trao đổi dữ liệu, ứng dụng công nghệ thông tin trong cơ quan nhà nước.\nChương II\nTẠO LẬP, CẬP NHẬT, TÍCH\nHỢP DỮ LIỆU ĐĂNG KIỂM PHƯƠNG TIỆN\nĐiều 4. Cơ sở dữ liệu đăng kiểm phương tiện\n1. Cơ sở dữ liệu đăng kiểm\nphương tiện là tập hợp các dữ liệu có liên quan đến phương tiện được tạo lập trong quá trình thực hiện các thủ tục kiểm định, kiểm tra, chứng nhận an toàn kỹ thuật và bảo vệ môi trường phương tiện giao thông cơ giới đường bộ, xe máy chuyên dùng, tàu biển, phương tiện thủy nội địa, phương tiện giao thông đường sắt.\n2. Thông tin tối thiểu trong cơ\nsở dữ liệu đăng kiểm phương tiện bao gồm:\na) Thông tin về phương tiện\ngiao thông cơ giới đường bộ quy định tại Phụ lục I ban hành kèm theo Thông tư này;\nb) Thông tin về xe máy chuyên\ndùng quy định tại Phụ lục II ban hành kèm theo Thông tư này;\nc) Thông tin về tàu biển quy định\ntại Phụ lục III ban hành kèm theo Thông tư này;\nd) Thông tin về phương tiện thủy\nnội địa quy định tại Phụ lục IV ban hành kèm theo Thông tư này;\nđ) Thông tin về phương tiện\ngiao thông đường sắt quy định tại Phụ lục V ban hành kèm theo Thông tư này.\nĐiều 5. Tạo lập, cập nhật, tích hợp dữ liệu đăng kiểm phương tiện\n1. Các đơn vị kiểm định, kiểm\ntra, chứng nhận an toàn kỹ thuật và bảo vệ môi trường cho phương tiện thực hiện tạo lập, cập nhật dữ liệu sau khi hoàn thành công tác kiểm định, kiểm tra, cấp giấy chứng nhận, hồ sơ đăng kiểm thông qua phần mềm do cơ quan quản lý dữ liệu đăng kiểm phương tiện quản lý thống nhất và cấp quyền sử dụng. Trường hợp tàu biển được kiểm tra ở nước ngoài thì việc tạo lập, cập nhật dữ liệu được thực hiện trong thời hạn không quá ba (03) ngày làm việc kể từ ngày đăng kiểm viên trở lại đơn vị.\n2. Dữ liệu đăng kiểm phương tiện\nsau khi được tạo lập, cập nhật sẽ được cơ quan quản lý dữ liệu đăng kiểm phương tiện tích hợp vào cơ sở dữ liệu đăng kiểm phương tiện trong thời hạn không quá một (01) ngày làm việc. Chương\nIII\nQUẢN LÝ, DUY TRÌ DỮ LIỆU\nĐĂNG KIỂM PHƯƠNG TIỆN\nĐiều 6. Hệ thống thông tin dữ liệu đăng kiểm phương tiện\n1. Hệ thống thông tin dữ liệu\nđăng kiểm phương tiện là hệ thống công nghệ thông tin gồm hạ tầng công nghệ thông tin, phần mềm và cơ sở dữ liệu đăng kiểm phương tiện.\n2. Vai trò, chức năng của hệ thống\nthông tin dữ liệu đăng kiểm phương tiện\na) Quản lý tập trung thông tin\ndữ liệu đăng kiểm phương tiện trong phạm vi cả nước;\nb) Cung cấp các chức năng hỗ trợ\nhoạt động tạo lập, cập nhật, kết nối, chia sẻ dữ liệu đăng kiểm phương tiện.\n3. Cơ quan quản lý dữ liệu đăng\nkiểm phương tiện và đơn vị tạo lập, cập nhật dữ liệu đăng kiểm phương tiện có trách nhiệm bảo đảm:\na) Hệ thống thông tin và hạ tầng\nkết nối mạng phù hợp để tạo lập, cập nhật, quản lý, kết nối, chia sẻ dữ liệu đăng kiểm phương tiện;\nb) Công cụ, biện pháp để bảo vệ\ndữ liệu và xác thực dữ liệu trong quá trình kết nối, chia sẻ dữ liệu đăng kiểm phương tiện;\nc) Các điều kiện kỹ thuật, nguồn\nlực khác phục vụ việc tạo lập, cập nhật, kết nối, chia sẻ dữ liệu đăng kiểm phương tiện.\nĐiều 7. Kinh phí xây dựng, duy trì, nâng cấp, quản lý, vận hành hệ thống thông tin dữ liệu đăng kiểm phương tiện Kinh phí xây dựng, duy trì, nâng cấp, quản lý, vận hành hệ thống thông tin dữ liệu đăng kiểm phương tiện được đảm bảo bằng nguồn vốn ngân sách nhà nước và nguồn kinh phí hợp pháp khác theo quy định của pháp luật.\nĐiều 8. Đảm bảo an toàn thông tin\n1. Các cơ quan, tổ chức, cá\nnhân tham gia vào hoạt động tạo lập, cập nhật, quản lý, duy trì, kết nối, chia sẻ, sử dụng dữ liệu đăng kiểm phương tiện có trách nhiệm bảo đảm an toàn thông tin đối với hệ thống thông tin dữ liệu đăng kiểm phương tiện.\n2. Việc bảo đảm an toàn thông\ntin phải phù hợp với nhiệm vụ, quyền hạn và bảo đảm lợi ích hợp pháp của tổ chức, cá nhân có liên quan theo quy định của pháp luật.\n3. Cơ quan quản lý dữ liệu đăng\nkiểm phương tiện đề xuất hồ sơ cấp độ an toàn hệ thống thông tin và thực hiện phương án bảo đảm an toàn thông tin theo cấp độ được phê duyệt theo quy định của Nghị định số 85/2016/NĐ-CP ngày 01 tháng 7 năm 2016 của Chính phủ về bảo đảm an toàn hệ thống thông tin theo cấp độ.\nChương IV\nKẾT NỐI, CHIA SẺ, SỬ DỤNG\nDỮ LIỆU ĐĂNG KIỂM PHƯƠNG TIỆN\nĐiều 9. Đối tượng, phương thức kết nối, chia sẻ dữ liệu đăng kiểm phương tiện\n1. Cơ quan quản lý dữ liệu đăng\nkiểm phương tiện thực hiện kết nối, chia sẻ dữ liệu đăng kiểm phương tiện phục vụ công tác quản lý nhà nước của ngành vào cơ sở dữ liệu dùng chung của Bộ Giao thông vận tải.\n2. Đối tượng được cung cấp,\nchia sẻ dữ liệu đăng kiểm phương tiện\na) Các cơ quan phục vụ công tác\nquản lý nhà nước;\nb) Chủ sở hữu hoặc người quản\nlý phương tiện hợp pháp theo quy định của pháp luật;\nc) Các tổ chức, cá nhân khác\nkhi có yêu cầu.\n3. Các thông tin trong cơ sở dữ\nliệu đăng kiểm phương tiện được cung cấp, chia sẻ là các thông tin quy định tại khoản 2 Điều 4 của Thông tư này.\n4. Phương thức chia sẻ dữ liệu\na) Thông qua nền tảng tích hợp,\nchia sẻ dữ liệu Bộ Giao thông vận tải;\nb) Kết nối trực tiếp giữa hệ thống\nthông tin dữ liệu đăng kiểm phương tiện và hệ thống thông tin của tổ chức sử dụng dữ liệu;\nc) Tra cứu thông tin trực tuyến\ntrên Trang thông tin điện tử của cơ quan quản lý dữ liệu đăng kiểm phương tiện;\nd) Cung cấp thông tin dạng văn\nbản.\nĐiều 10. Thực hiện kết nối, chia sẻ, sử dụng dữ liệu đăng kiểm phương tiện\n1. Chia sẻ dữ liệu đăng kiểm\nphương tiện theo phương thức thông qua nền tảng tích hợp, chia sẻ dữ liệu Bộ Giao thông vận tải Các cơ quan quy định tại điểm a khoản 2 Điều 9 của Thông tư này có nhu cầu sử dụng dữ liệu đăng kiểm phương tiện gửi đề nghị bằng văn bản tới cơ quan quản lý dữ liệu đăng kiểm phương tiện nêu rõ mục đích sử dụng, danh mục thông tin cần chia sẻ, phương thức kết nối và tần suất sử dụng dữ liệu. Căn cứ đề nghị, cơ quan quản lý dữ liệu đăng kiểm phương tiện quyết định chia sẻ dữ liệu; phối hợp với cơ quan quản lý nền tảng tích hợp, chia sẻ dữ liệu Bộ Giao thông vận tải thiết lập kết nối; cấp quyền truy cập và hướng dẫn kỹ thuật thực hiện kết nối. Trường hợp không đồng ý phải có văn bản trả lời và nêu rõ lý do.\n2. Chia sẻ dữ liệu đăng kiểm\nphương tiện theo phương thức thông qua kết nối trực tiếp giữa hệ thống thông tin dữ liệu đăng kiểm phương tiện và hệ thống thông tin của tổ chức sử dụng dữ liệu Các tổ chức quy định tại điểm b, điểm c khoản 2 Điều 9 có nhu cầu sử dụng dữ liệu đăng kiểm phương tiện gửi đề nghị bằng văn bản tới cơ quan quản lý dữ liệu đăng kiểm phương tiện nêu rõ mục đích sử dụng, danh mục thông tin cần chia sẻ, phương thức kết nối và tần suất sử dụng dữ liệu. Căn cứ đề nghị, cơ quan quản lý dữ liệu đăng kiểm phương tiện quyết định chia sẻ dữ liệu; cấp quyền truy cập và hướng dẫn kỹ thuật thực hiện kết nối. Trường hợp không đồng ý phải có văn bản trả lời và nêu rõ lý do.\n3. Chia sẻ dữ liệu đăng kiểm\nphương tiện theo phương thức tra cứu thông tin trực tuyến trên Trang thông tin điện tử của cơ quan quản lý dữ liệu đăng kiểm phương tiện Các đối tượng quy định tại khoản 2 Điều 9 của Thông tư này được quyền tra cứu thông tin về đăng kiểm phương tiện do mình sở hữu hoặc quản lý hợp pháp trên Trang thông tin điện tử của cơ quan quản lý dữ liệu đăng kiểm phương tiện mà không cần cấp tài khoản, mã khoá. Trường hợp các cơ quan quy định tại điểm a khoản 2 Điều 9 của Thông tư này có nhu cầu cấp tài khoản, mã khoá và địa chỉ truy cập thì gửi đề nghị bằng văn bản tới cơ quan quản lý dữ liệu đăng kiểm phương tiện nêu rõ mục đích sử dụng và các thông tin có nhu cầu được chia sẻ. Căn cứ đề nghị, cơ quan quản lý dữ liệu đăng kiểm phương tiện quyết định chia sẻ dữ liệu; cấp tài khoản, mã khóa và địa chỉ truy cập. Trường hợp không đồng ý phải có văn bản trả lời và nêu rõ lý do.\n4. Chia sẻ dữ liệu đăng kiểm\nphương tiện theo phương thức cung cấp thông tin dạng văn bản\na) Các cơ quan, tổ chức, cá\nnhân quy định tại khoản 2 Điều 9 của Thông tư này có nhu cầu sử dụng dữ liệu đăng kiểm phương tiện gửi đề nghị bằng văn bản tới cơ quan quản lý dữ liệu đăng kiểm phương tiện hoặc đơn vị kiểm tra, kiểm định, chứng nhận an toàn kỹ thuật cho phương tiện, trong đó nêu rõ mục đích sử dụng và các thông tin có nhu cầu được chia sẻ. Căn cứ đề nghị, cơ quan quản lý dữ liệu đăng kiểm phương tiện hoặc đơn vị kiểm tra, kiểm định, chứng nhận an toàn kỹ thuật cho phương tiện cung cấp thông tin dạng văn bản trong phạm vi quyền hạn.\nb) Tổ chức, cá nhân quy định tại\nđiểm b, điểm c khoản 2 Điều 9 của Thông tư này khi được cung cấp thông tin dạng văn bản phải trả chi phí thực tế để in, sao, chụp và gửi thông tin theo quy định tại Thông tư số 46/2018/TT-BTC ngày 14 tháng 5 năm 2018 của Bộ trưởng Bộ Tài chính quy định chi tiết chi phí thực tế để in, sao, chụp và gửi thông tin theo quy định tại khoản 2 Điều 12 của Luật Tiếp cận thông tin.\nĐiều 11.Tạm ngừng, chấm dứt kết nối, chia sẻ dữ liệu trên môi trường điện tử\n1. Cơ quan quản lý dữ liệu đăng\nkiểm phương tiện tạm ngừng kết nối, chia sẻ dữ liệu trong các trường hợp sau:\na) Nâng cấp, mở rộng, bảo trì hệ\nthống thông tin, cơ sở hạ tầng thông tin;\nb) Trường hợp bất khả kháng làm\ngián đoạn kết nối, chia sẻ dữ liệu hoặc có ảnh hưởng đến hoạt động của hệ thống thông tin, sự an toàn dữ liệu;\nc) Cơ quan, tổ chức được kết nối,\nchia sẻ dữ liệu đăng kiểm phương tiện sử dụng không đúng mục đích, phạm vi dữ liệu đã nêu trong văn bản đề nghị kết nối, chia sẻ dữ liệu;\nd) Việc kết nối từ cơ quan, tổ\nchức được kết nối, chia sẻ dữ liệu đăng kiểm phương tiện được xác định có khả năng làm mất an toàn, an ninh.\n2. Cơ quan quản lý dữ liệu đăng\nkiểm phương tiện chấm dứt kết nối, chia sẻ dữ liệu trong những trường hợp sau:\na) Việc kết nối không thể khôi\nphục do sự cố hoặc do điều kiện khách quan mà cơ quan quản lý dữ liệu đăng kiểm phương tiện không thể tiếp tục duy trì chia sẻ dữ liệu;\nb) Cơ quan, tổ chức, cá nhân được\nkết nối, chia sẻ dữ liệu đăng kiểm phương tiện không có nhu cầu tiếp tục kết nối và sử dụng dữ liệu;\nc) Theo yêu cầu của cơ quan có\nthẩm quyền phù hợp với các quy định của pháp luật.\nChương V\nTỔ CHỨC THỰC HIỆN\nĐiều 12. Trách nhiệm của cơ quan quản lý dữ liệu đăng kiểm phương tiện\n1. Xây dựng, duy trì, nâng cấp,\nquản lý, vận hành hệ thống thông tin dữ liệu đăng kiểm phương tiện.\n2. Thiết lập các dữ liệu danh mục\ntrong cơ sở dữ liệu đăng kiểm phương tiện.\n3. Tập huấn nghiệp vụ cho tổ chức,\ncá nhân thực hiện tạo lập, cập nhật, duy trì, quản lý cơ sở dữ liệu đăng kiểm phương tiện.\n4. Kiểm tra việc tạo lập, cập\nnhật, kết nối, chia sẻ dữ liệu đăng kiểm phương tiện.\n5. Tiếp nhận, giải quyết các vướng\nmắc phát sinh trong quá trình kết nối, chia sẻ, sử dụng dữ liệu đăng kiểm phương tiện.\n6. Tạm ngừng, chấm dứt việc\nchia sẻ, kết nối dữ liệu đăng kiểm phương tiện theo quy định tại Điều 11 của Thông tư này.\nĐiều 13. Trách nhiệm của đơn vị tạo lập, cập nhật dữ liệu đăng kiểm phương tiện\n1. Kịp thời tạo lập, cập nhật dữ\nliệu đăng kiểm phương tiện theo quy định tại Điều 5 của Thông tư này.\n2. Bảo mật, bảo đảm an toàn\nthông tin trong quá trình tạo lập, cập nhật, sử dụng dữ liệu đăng kiểm phương tiện.\n3. Sử dụng thông tin trong cơ sở\ndữ liệu đăng kiểm phương tiện khi thực hiện kiểm định, kiểm tra, chứng nhận an toàn kỹ thuật và bảo vệ môi trường phương tiện để đảm bảo sự thống nhất.\n4. Thông báo kịp thời, phối hợp\nvới cơ quan quản lý dữ liệu đăng kiểm phương tiện giải quyết các vướng mắc trong quá trình tạo lập, cập nhật, sử dụng dữ liệu.\n5. Cung cấp thông tin dữ liệu\nđăng kiểm phương tiện do mình tạo lập, cập nhật bằng phương thức quy định tại điểm d khoản 4 Điều 9 của Thông tư này khi có yêu cầu.\nĐiều 14. Trách nhiệm của cơ quan, tổ chức, cá nhân được kết nối, chia sẻ dữ liệu đăng kiểm phương tiện\n1. Sử dụng, bảo mật dữ liệu đúng mục đích, phạm vi\nđã nêu trong văn bản đề nghị kết nối, chia sẻ dữ liệu; phù hợp với quy định của Thông tư này và các quy định pháp luật có liên quan.\n2. Bảo mật và sử dụng đúng tài khoản, mã khóa,\nphương thức kết nối, địa chỉ truy cập đã được cơ quan quản lý dữ liệu đăng kiểm phương tiện cung cấp.\n3. Thông báo kịp thời, phối hợp với cơ quan quản lý\ndữ liệu đăng kiểm phương tiện về vướng mắc phát sinh trong quá trình kết nối, chia sẻ, sử dụng dữ liệu đăng kiểm phương tiện.\n4. Không được chia sẻ dữ liệu đăng kiểm phương tiện\nđược cung cấp cho bên thứ ba khi chưa được phép của cơ quan quản lý dữ liệu đăng kiểm phương tiện.\nĐiều 15. Hiệu lực thi hành\n1. Thông tư này có hiệu lực thi hành kể từ ngày 01\ntháng 02 năm 2023.\n2. Trường hợp các văn bản quy phạm pháp luật dẫn\nchiếu trong Thông tư này được sửa đổi, bổ sung, thay thế thì thực hiện theo các quy định của văn bản quy phạm pháp luật sửa đổi, bổ sung, thay thế đó.\nĐiều 16. Trách nhiệm thi hành Chánh Văn phòng Bộ, Cục trưởng Cục Đăng kiểm Việt Nam, Giám đốc Trung tâm Công nghệ thông tin, Thủ trưởng các đơn vị và các tổ chức, cá nhân liên quan chịu trách nhiệm thi hành Thông tư này./.\nNơi nhận:\n- Bộ trưởng (để báo cáo);\n- Các Bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ;\n- UBND các tỉnh, TP trực thuộc TW;\n- Các Thứ trưởng Bộ Giao thông vận tải;\n- Cục Kiểm tra văn bản QPPL (Bộ Tư pháp);\n- Công báo;\n- Cổng TTĐT Chính phủ;\n- Cổng TTĐT Bộ Giao thông vận tải;\n- Báo GT, Tạp chí GTVT;\n- Lưu: VT, TTCNTT.\nKT. BỘ TRƯỞNG\nTHỨ TRƯỞNG\nNguyễn Danh Huy\nPHỤ LỤC I\nTHÔNG TIN VỀ PHƯƠNG TIỆN CƠ GIỚI ĐƯỜNG BỘ\n(Ban hành kèm theo Thông tư số 28/2022/TT-BGTVT ngày 29 tháng 11 năm 2022 của\nBộ trưởng Giao thông vận tải)\n1. Thông\ntin về xe ô tô, rơ moóc, sơ mi rơ moóc và xe chở người bốn bánh có gắn động cơ\nSTT\nTên thông tin Ghi chú 1 Số quản lý Số quản lý của phương tiện trong dữ liệu kiểm định 2 Biển số xe Biển số đăng kí cấp cho xe cơ giới 3 Nơi đăng ký Địa phương nơi đăng ký biển số 4 Tình trạng phương tiện Tình trạng khi lập hồ sơ (chưa qua sử dụng/đã qua sử dụng) 5 Ngày đăng kiểm Ngày đăng kiểm phương tiện gần nhất 6 Hạn đăng kiểm Ngày hết hạn đăng kiểm gần nhất 7 Nước sản xuất Nước sản xuất của phương tiện 8 Năm sản xuất Năm sản xuất của phương tiện 9 Năm hết niên hạn Niên hạn sử dụng của phương tiện 10 Số động cơ Còn gọi là số máy (được đóng trên thân động cơ) 11 Số khung 12 Số VIN Số nhận dạng của xe 13 Nhãn hiệu 14 Số loại Tên thương mại và số loại\n(VD: HIACE RZH114L-BRKRS)\n15 Số chỗ ngồi 16 Số chỗ nằm 17 Số chỗ đứng 18 Khối lượng bản thân Khối lượng của xe hoàn chỉnh (đơn vị: kg) 19 Khối lượng hàng hoá thiết kế Khối lượng hàng hoá được chuyên chở theo thiết kế của nhà sản xuất (đơn vị: kg) 20 Khối lượng hàng hoá cho phép tham gia giao thông Khối lượng hàng hóa được chuyên chở cho phép tham gia giao thông theo quy định của cơ quan quản lý đường bộ (đơn vị: kg) 21 Khối lượng toàn bộ thiết kế Khối lượng toàn bộ theo thiết kế của nhà sản xuất (đơn vị: kg) 22 Khối lượng toàn bộ cho phép tham gia giao thông Khối lượng toàn bộ cho phép tham gia giao thông theo quy định của cơ quan quản lý đường bộ (đơn vị: kg) 23 Kích thước bao Kích thước chiều dài toàn bộ, chiều rộng toàn bộ, chiều cao toàn bộ của toàn xe theo tài liệu kỹ thuật 24 Kích thước lòng thùng hàng Kích thước chiều dài, chiều rộng, chiều cao của lòng thùng xe (đơn vị: mm) 25 Dung tích động cơ Thể tích làm việc của động cơ (đơn vị cm3) 26 Nguồn gốc Nguồn gốc là xe sản xuất lắp ráp trong nước hay nhập khẩu 27 Số Giấy chứng nhận Số giấy chứng nhận kiểu loại đối với xe sản xuất trong nước hoặc số chứng chỉ đối với xe nhập khẩu 28 Ngày cấp giấy chứng nhận Ngày cấp giấy chứng nhận theo thứ tự số 27\n2. Thông\ntin về xe mô tô, xe gắn máy\nSTT\nTên thông tin Ghi chú 1 Nguồn gốc Nguồn gốc là xe sản xuất lắp ráp trong nước hay nhập khẩu 2 Số giấy chứng nhận Số giấy chứng nhận kiểu loại đối với xe sản xuất trong nước hoặc số chứng chỉ đối với xe nhập khẩu 3 Ngày cấp giấy chứng nhận (ngày/tháng/năm) 4 Nhãn hiệu 5 Tên thương mại 6 Mã kiểu loại 7 Năm sản xuất Năm sản xuất phương tiện 8 Nước sản xuất Nước sản xuất phương tiện 9 Số khung 10 Số động cơ Còn gọi là số máy 11 Màu sơn 12 Thể tích Thể tích làm việc (đơn vị cm3) 13 Công suất động cơ Công suất động cơ (đơn vị: kW)\nPHỤ LỤC II\nTHÔNG TIN VỀ XE MÁY CHUYÊN DÙNG\n(Ban hành kèm theo Thông tư số 28/2022/TT-BGTVT ngày 29 tháng 11 năm 2022 của\nBộ trưởng Bộ Giao thông vận tải)\nSTT\nTên thông tin Ghi chú 1 Loại xe máy chuyên dùng Tên (loại) xe máy chuyên dùng 2 Biển số xe Biển số đăng kí cấp cho xe cơ giới 3 Nhãn hiệu 4 Số động cơ Còn gọi là số máy (được đóng trên thân động cơ) 5 Số khung 6 Công suất động cơ Là đại lượng đặc trưng cho tốc độ sinh công của động cơ (đơn vị: kW) 7 Khối lượng bản thân Khối lượng của xe hoàn chỉnh (đơn vị: kg) 8 Chiều dài Chiều dài toàn bộ (đơn vị: mm) 9 Chiều rộng Chiều rộng toàn bộ (đơn vị: mm) 10 Chiều cao Chiều cao toàn bộ (đơn vị: mm) 11 Xe đã cải tạo Xe đã qua cải tạo hay chưa? 12 Nguồn gốc Nguồn gốc là xe sản xuất lắp ráp trong nước hay nhập khẩu 13 Số giấy chứng nhận Số giấy chứng nhận kiểu loại đối với xe sản xuất trong nước hoặc số chứng chỉ đối với xe nhập khẩu 14 Ngày cấp giấy chứng nhận Ngày cấp của giấy chứng nhận theo thứ tự số 13\nPHỤ LỤC III\nTHÔNG TIN VỀ TÀU BIỂN\n(Ban hành kèm theo Thông tư số 28/2022/TT-BGTVT ngày 29 tháng 11 năm 2022 của\nBộ trưởng Bộ Giao thông vận tải)\nSTT\nTên thông tin Ghi chú 1 Tên tàu Tên tàu biển do chủ tàu đặt và được cơ quan đăng ký tàu biển chấp thuận 2 Số phân cấp Số phân cấp được Cục Đăng kiểm Việt Nam ấn định phục vụ mục đích quản lý 3 Số IMO Là số được IHS Maritime ấn định phù hợp với Nghị quyết A.1078(28) của IMO. 4 Hô hiệu Là dãy ký tự được Cục tần số vô tuyến điện cấp để phân biệt giữa các tàu trong các phương thức liên lạc 5 Quốc tịch Là tên quốc gia tàu đăng ký mang cờ quốc tịch 6 Cảng đăng ký Là nơi tàu đăng ký mang cờ quốc tịch 7 Nhóm phương tiện tàu biển Theo Phụ lục C.19 của TCVN 13420: 2021 8 Công dụng tàu Thể hiện mục đích sử dụng, đặc tính kỹ thuật chính của tàu 9 Dấu hiệu phân cấp Theo QCVN 21: 2015/BGTVT và các sửa đổi, bổ sung 10 Chiều dài lớn nhất Chiều dài toàn bộ của tàu LOA (đơn vị: m) 11 Chiều dài Chiều dài phân cấp (m) theo QCVN 21: 2015/BGTVT 12 Chiều rộng Theo QCVN 21: 2015/BGTVT và các sửa đổi, bổ sung (đơn vị: m) 13 Chiều cao mạn Theo QCVN 21: 2015/BGTVT và các sửa đổi, bổ sung (đơn vị: m) 14 Tổng dung tích Dung tích (GT) theo Công ước quốc tế về đo dung tích tàu biển (TONNAGE 1969) hoặc QCVN 63: 2013/BGTVT 15 Dung tích có ích Dung tích có ích (NT) theo Công ước quốc tế về đo dung tích tàu biển (TONNAGE 1969) hoặc QCVN 63: 2013/BGTVT 16 Chiều chìm Theo QCVN 21: 2015/BGTVT và các sửa đổi, bổ sung (đơn vị: mét) 17 Trọng tải toàn phần Theo QCVN 21: 2015/BGTVT và các sửa đổi, bổ sung (đơn vị: t) 18 Tuyến hoạt động Theo Phụ lục C.21 của TCVN 13420: 2021 19 Vùng hoạt động Theo Phụ lục C.20 của TCVN 13420: 2021 20 Nhà máy đóng tàu Tên nhà máy đóng mới tàu biển 21 Ngày đặt sống chính Là ngày rải tấm tôn đáy giữa tâm đầu tiên hoặc ngày đặt tổng đoạn đầu tiên lên triền hoặc xác nhận tàu trong giai đoạn đóng tương tự. Ngày này được ghi nhận trong biên bản hoặc chứng nhận ngày đặt sống chính của tàu. 22 Ngày hạ thuỷ Là ngày tàu được hạ thủy xuống nước lần đầu tiên. 23 Ngày đóng tàu Ngày hoàn thành kiểm tra phân cấp theo QCVN 21: 2015/BGTVT và các sửa đổi, bổ sung 24 Tổng công suất máy chính Tổng công suất động cơ dùng để đẩy tàu (đơn vị: kW) 25 Tổng công suất máy phát điện Tổng công suất các máy phát điện của tàu và không bao gồm máy phát điện sự cố (đơn vị: KVA)\nPHỤ LỤC IV\nTHÔNG TIN VỀ PHƯƠNG TIỆN THỦY NỘI ĐỊA\n(Ban hành kèm theo Thông tư số 28/2022/TT-BGTVT ngày 29 tháng 11 năm 2022 của\nBộ trưởng Bộ Giao thông vận tải)\nSTT\nTên thông tin Ghi chú 1 Tên phương tiện 2 Số ĐKHC Số đăng ký hành chính của phương tiện do cơ quan quản lý hành chính cấp 3 Số kiểm soát Số kiểm soát nhằm kiểm soát từng phương tiện và số lượng phương tiện đã được đăng kiểm trên toàn quốc 4 Số đăng kiểm Số đăng kiểm của phương tiện là số được cơ quan đăng kiểm cấp sau khi phương tiện đã được kiểm tra thỏa mãn các yêu cầu của quy chuẩn kỹ thuật và các quy định hiện hành 5 Năm đóng Năm đóng của phương tiện được xác định theo quy định tại Nghị định số 111/2014/NĐ-CP . 6 Nơi đóng Nơi đóng của phương tiện là nơi phương tiện được đóng và cấp hồ sơ đăng kiểm lần đầu. 7 Vật liệu Vật liệu thân phương tiện 8 Công dụng 9 Cấp tàu Cấp hoạt động của phương tiện 10 Vùng hoạt động Vùng nước mà phương tiện được phép hoạt động 11 Dung tích Dung tích (GT) của phương tiện được xác định theo quy chuẩn sửa đổi 1:2015 QCVN 72:2015/BGTVT 12 Trọng tải toàn phần Trọng tải toàn phần của phương tiện là hiệu số, tính bằng tấn, giữa lượng chiếm nước tương ứng với đường nước thiết kế toàn tải của tàu và trọng lượng tàu không (đơn vị: t) 13 Số người được chở Số người được chở trên phương tiện theo quy định của Luật Giao thông đường thủy nội địa (đơn vị: người) 14 Lượng hàng Lượng hàng được chở trên phương tiện (đơn vị: t) 15 Chiều dài tàu lớn nhất Lmax (đơn vị: m) 16 Chiều dài tàu L Chiều dài thiết kế của phương tiện (đơn vị: m) 17 Chiều rộng tàu lớn nhất Bmax Chiều rộng tàu lớn nhất (đơn vị: m) 18 Chiều rộng tàu B Chiều rộng thiết kế của tàu (đơn vị: m) 19 Chiều cao mạn D Chiều cao mạn tàu (đơn vị: m) 20 Chiều chìm d Chiều chìm của phương tiện là khoảng cách thẳng đứng, tính bằng mét, đo ở mặt phẳng sườn giữa, từ mép trên của dải tấm giữa đáy đến đường nước thiết kế toàn tải (đơn vị: m) 21 Mạn khô F Mạn khô (đơn vị: mm) 22 Số lượng máy chính Số lượng máy dùng để đẩy phương tiện 23 Tổng công suất máy chính Tổng công suất máy chính tính bằng sức ngựa\nPHỤ LỤC V\nTHÔNG TIN VỀ PHƯƠNG TIỆN GIAO THÔNG ĐƯỜNG SẮT\n(Ban hành kèm theo Thông tư số 28/2022/TT-BGTVT ngày 29 tháng 11 năm 2022 của\nBộ trưởng Bộ Giao thông vận tải)\n1. Thông tin\nvề toa xe, phương tiện chuyên dùng không tự hành\nSTT\nTên thông tin Ghi chú 1 Loại phương tiện Tên kiểu loại phương tiện 2 Số đăng ký Biển số đăng ký 3 Số hiệu Số hiệu của toa xe theo quy ước 4 Năm sản xuất Năm sản xuất của toa xe 5 Nước sản xuất Nước sản xuất toa xe 6 Tốc độ cấu tạo Tốc độ cấu tạo theo tài liệu của nhà sản xuất (đơn vị: km/h) 7 Loại giá chuyển hướng Tên kiểu loại giá chuyển hướng 8 Loại van hãm Tên kiểu loại van hãm 9 Loại móc nối, đỡ đấm Tên kiểu loại móc nối, đỡ đấm 10 Khối lượng toa xe Khối lượng toa xe không bao gồm hàng hóa (đơn vị: tấn) 11 Trọng tải Khối lượng hàng hóa được phép chuyên chở (đơn vị: tấn) 12 Số chỗ Số hành khách được phép chuyên chở 13 Khổ đường Khổ đường sắt (1000mm/1435mm) (đơn vị: mm) 14 Chiều dài Kích thước giới hạn của toa xe (đơn vị: mm) 15 Chiều rộng 16 Chiều cao 17 Hiệu lực giấy chứng nhận Ngày hết hiệu lực của giấy chứng nhận đăng kiểm (ngày/tháng/năm)\n2. Thông\ntin về đầu máy, phương tiện chuyên dùng tự hành\nSTT\nThông tin Ghi chú 1 Loại phương tiện Tên kiểu loại phương tiện 2 Số đăng ký Biển số đăng ký 3 Số hiệu Số hiệu của đầu máy theo quy ước 4 Năm sản xuất Năm sản xuất của đầu máy 5 Nước sản xuất Nước sản xuất đầu máy 6 Tốc độ cấu tạo Tốc độ cấu tạo theo tài liệu của nhà sản xuất (đơn vị: km/h) 7 Ký hiệu động cơ Kiểu loại động cơ 8 Số động cơ Số series của động cơ 9 Công suất định mức Công suất động cơ (HP/kW) 10 Công thức trục Cách bố trí trục (B-B, Co-Co) 11 Kiểu truyền động Tên kiểu loại truyền động (Thủy lực, Điện, cơ khí) 12 Khối lượng chỉnh bị Khối lượng đầu máy/phương tiện chuyên dùng bao gồm nhiên liệu, dầu bôi trơn, nước làm mát, … ở trạng thái chỉnh bị (đơn vị: t) 13 Số chỗ Số chỗ trên buồng lái đầu máy 14 Khổ đường Khổ đường sắt (1000mm/1435mm) (đơn vị: mm) 15 Chiều dài Kích thước giới hạn của đầu máy (đơn vị: mm) 16 Chiều rộng 17 Chiều cao 18 Hiệu lực giấy chứng nhận Ngày hết hiệu lực của giấy chứng nhận đăng kiểm (ngày/tháng/năm)\n3. Thông\ntin về toa xe đường sắt đô thị\nSTT\nThông tin Ghi chú 1 Loại phương tiện Tên kiểu loại toa xe đường sắt đô thị 2 Số đăng ký Biển số đăng ký 3 Số hiệu Số hiệu của toa xe đường sắt đô thị 4 Năm sản xuất Năm sản xuất của toa xe đường sắt đô thị 5 Nước sản xuất Nước sản xuất toa xe đường sắt đô thị 6 Tốc độ cấu tạo (km/h) Tốc độ cấu tạo theo tài liệu của nhà sản xuất 7 Số chỗ Số hành khách được phép chuyên chở 8 Điện áp cung cấp Điện áp danh nghĩa cấp cho toa xe (đơn vị: V) 9 Hình thức cấp điện Tên hình thức cấp điện (trên cao/ray thứ ba) 10 Hệ thống tín hiệu điều khiển Tên kiểu loại hệ thống tín hiệu điều khiển chạy tàu 11 Chiều dài Kích thước giới hạn của toa xe đường sắt đô thị (đơn vị: mm) 12 Chiều rộng 13 Chiều cao 14 Hiệu lực giấy chứng nhận Ngày hết hiệu lực của giấy chứng nhận đăng kiểm",
+  "tree": {
+    "parts": [
+      {
+        "part_id": "doc:269005:part:1",
+        "part_type": "main",
+        "part_title": null,
+        "reference": null,
+        "direct_text": "THÔNG TƯ QUY\nĐỊNH VỀ QUẢN LÝ, DUY TRÌ, CHIA SẺ VÀ ĐẢM BẢO AN TOÀN THÔNG TIN DỮ LIỆU ĐĂNG KIỂM\nPHƯƠNG TIỆN GIAO THÔNG VẬN TẢI\nCăn cứ Luật Công nghệ thông tin ngày 29 tháng 6 năm 2006; Căn cứ Luật An toàn thông tin mạng ngày 19 tháng 11 năm 2015; Căn cứ Luật Giao dịch điện tử ngày 29 tháng 11 năm 2005; Căn cứ Luật Tiếp cận thông tin ngày 06 tháng 4 năm 2016; Căn cứ Nghị định số 85/2016/NĐ-CP ngày 01 tháng 7 năm 2016 của Chính phủ quy định về bảo đảm an toàn hệ thống thông tin theo cấp độ; Căn cứ Nghị định số 47/2020/NĐ-CP ngày 09 tháng 4 năm 2020 của Chính phủ quy định quản lý, kết nối và chia sẻ dữ liệu số của cơ quan nhà nước. Căn cứ Nghị định số 56/2022/NĐ-CP ngày 24 tháng 8 năm 2022 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Giao thông vận tải; Theo đề nghị của Giám đốc Trung tâm Công nghệ thông tin và Cục trưởng Cục Đăng kiểm Việt Nam; Bộ trưởng Bộ Giao thông vận tải ban hành Thông tư quy định về quản lý, duy trì, chia sẻ và đảm bảo an toàn thông tin dữ liệu đăng kiểm phương tiện giao thông vận tải.",
+        "chapters": [
+          {
+            "chapter_id": "doc:269005:part:1:chapter:1",
+            "number": "I",
+            "title": "QUY ĐỊNH CHUNG",
+            "content": "Chương I\nQUY ĐỊNH CHUNG",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:269005:part:1:article:1",
+                "number": "1",
+                "title": "Phạm vi điều chỉnh và đối tượng áp dụng",
+                "content": "Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng",
+                "clauses": [
+                  {
+                    "clause_id": "doc:269005:part:1:article:1:clause:1",
+                    "number": "1",
+                    "content": "1. Phạm vi điều chỉnh",
+                    "points": [
+                      {
+                        "point_id": "doc:269005:part:1:article:1:clause:1:point:1",
+                        "label": "a",
+                        "content": "a) Thông tư này quy định về các hoạt động: tạo lập,\ncập nhật, quản lý, duy trì, kết nối, chia sẻ, sử dụng và đảm bảo an toàn thông tin dữ liệu đăng kiểm phương tiện giao thông vận tải thuộc phạm vi quản lý của Bộ Giao thông vận tải;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269005:part:1:article:1:clause:1:point:2",
+                        "label": "b",
+                        "content": "b) Thông tư này không điều chỉnh đối với dữ liệu về\ntàu bay.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:269005:part:1:article:1:clause:2",
+                    "number": "2",
+                    "content": "2. Đối tượng áp dụng",
+                    "points": [
+                      {
+                        "point_id": "doc:269005:part:1:article:1:clause:2:point:1",
+                        "label": "a",
+                        "content": "a) Cơ quan, tổ chức, cá nhân tạo lập, cập nhật, quản\nlý, duy trì, kết nối, chia sẻ, sử dụng dữ liệu đăng kiểm phương tiện giao thông vận tải;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269005:part:1:article:1:clause:2:point:2",
+                        "label": "b",
+                        "content": "b) Cơ quan, tổ chức, cá nhân được\nchia sẻ, kết nối dữ liệu đăng kiểm phương tiện giao thông vận tải;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269005:part:1:article:1:clause:2:point:3",
+                        "label": "c",
+                        "content": "c) Các tổ chức, cá nhân khác có\nliên quan đến hoạt động kết nối, chia sẻ, sử dụng dữ liệu đăng kiểm phương tiện giao thông vận tải.",
+                        "children": []
+                      }
+                    ]
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:269005:part:1:article:2",
+                "number": "2",
+                "title": "Giải thích từ ngữ Trong Thông tư này, các từ ngữ dưới đây được hiểu như sau:",
+                "content": "Điều 2. Giải thích từ ngữ Trong Thông tư này, các từ ngữ dưới đây được hiểu như sau:",
+                "clauses": [
+                  {
+                    "clause_id": "doc:269005:part:1:article:2:clause:1",
+                    "number": "1",
+                    "content": "1. Phương tiện giao thông vận tải\n(sau đây gọi là phương tiện) bao gồm phương tiện giao thông cơ giới đường bộ, xe máy chuyên dùng, tàu biển, phương tiện thủy nội địa, phương tiện giao thông đường sắt.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:269005:part:1:article:2:clause:2",
+                    "number": "2",
+                    "content": "2. Nền tảng tích hợp, chia sẻ dữ\nliệu Bộ Giao thông vận tải là nền tảng phục vụ việc kết nối, chia sẻ dữ liệu các hệ thống thông tin, cơ sở dữ liệu trong nội bộ Bộ Giao thông vận tải và giữa Bộ Giao thông vận tải với các bộ, ngành, địa phương.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:269005:part:1:article:2:clause:3",
+                    "number": "3",
+                    "content": "3. Cơ quan quản lý dữ liệu đăng\nkiểm phương tiện là Cục Đăng kiểm Việt Nam.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:269005:part:1:article:3",
+                "number": "3",
+                "title": "Nguyên tắc tạo lập, cập nhật, quản lý, duy trì, kết nối, chia sẻ, sử dụng và đảm bảo an toàn thông tin dữ liệu đăng kiểm phương tiện",
+                "content": "Điều 3. Nguyên tắc tạo lập, cập nhật, quản lý, duy trì, kết nối, chia sẻ, sử dụng và đảm bảo an toàn thông tin dữ liệu đăng kiểm phương tiện",
+                "clauses": [
+                  {
+                    "clause_id": "doc:269005:part:1:article:3:clause:1",
+                    "number": "1",
+                    "content": "1. Tuân thủ các quy định về bảo\nvệ bí mật nhà nước; các quy định về bảo đảm an toàn thông tin mạng, các quy định về bảo đảm an toàn hệ thống thông tin theo cấp độ.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:269005:part:1:article:3:clause:2",
+                    "number": "2",
+                    "content": "2. Quản lý kết nối và chia sẻ dữ\nliệu tuân thủ theo quy định tại Điều 5, Điều 6, Điều 7 của Nghị định số 47/2020/NĐ-CP ngày 09 tháng 4 năm 2020 của Chính phủ quy định quản lý, kết nối và chia sẻ dữ liệu số của cơ quan nhà nước.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:269005:part:1:article:3:clause:3",
+                    "number": "3",
+                    "content": "3. Bảo đảm sự đầy đủ, chính xác\ncủa dữ liệu nhằm phục vụ công tác quản lý, sử dụng dữ liệu đăng kiểm phương tiện.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:269005:part:1:article:3:clause:4",
+                    "number": "4",
+                    "content": "4. Phù hợp với Khung Kiến trúc\nChính phủ điện tử Việt Nam, Kiến trúc Chính phủ điện tử Bộ Giao thông vận tải.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:269005:part:1:article:3:clause:5",
+                    "number": "5",
+                    "content": "5. Tuân thủ các quy định về bảo\nmật thông tin; các quy định về quyền sở hữu trí tuệ liên quan đến dữ liệu; quyền riêng tư của tổ chức, cá nhân.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:269005:part:1:article:3:clause:6",
+                    "number": "6",
+                    "content": "6. Tuân thủ các quy định, hướng\ndẫn kỹ thuật về trao đổi dữ liệu, ứng dụng công nghệ thông tin trong cơ quan nhà nước.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:269005:part:1:chapter:2",
+            "number": "II",
+            "title": "TẠO LẬP, CẬP NHẬT, TÍCH HỢP DỮ LIỆU ĐĂNG KIỂM PHƯƠNG TIỆN",
+            "content": "Chương II\nTẠO LẬP, CẬP NHẬT, TÍCH\nHỢP DỮ LIỆU ĐĂNG KIỂM PHƯƠNG TIỆN",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:269005:part:1:article:4",
+                "number": "4",
+                "title": "Cơ sở dữ liệu đăng kiểm phương tiện",
+                "content": "Điều 4. Cơ sở dữ liệu đăng kiểm phương tiện",
+                "clauses": [
+                  {
+                    "clause_id": "doc:269005:part:1:article:4:clause:1",
+                    "number": "1",
+                    "content": "1. Cơ sở dữ liệu đăng kiểm\nphương tiện là tập hợp các dữ liệu có liên quan đến phương tiện được tạo lập trong quá trình thực hiện các thủ tục kiểm định, kiểm tra, chứng nhận an toàn kỹ thuật và bảo vệ môi trường phương tiện giao thông cơ giới đường bộ, xe máy chuyên dùng, tàu biển, phương tiện thủy nội địa, phương tiện giao thông đường sắt.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:269005:part:1:article:4:clause:2",
+                    "number": "2",
+                    "content": "2. Thông tin tối thiểu trong cơ\nsở dữ liệu đăng kiểm phương tiện bao gồm:",
+                    "points": [
+                      {
+                        "point_id": "doc:269005:part:1:article:4:clause:2:point:1",
+                        "label": "a",
+                        "content": "a) Thông tin về phương tiện\ngiao thông cơ giới đường bộ quy định tại Phụ lục I ban hành kèm theo Thông tư này;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269005:part:1:article:4:clause:2:point:2",
+                        "label": "b",
+                        "content": "b) Thông tin về xe máy chuyên\ndùng quy định tại Phụ lục II ban hành kèm theo Thông tư này;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269005:part:1:article:4:clause:2:point:3",
+                        "label": "c",
+                        "content": "c) Thông tin về tàu biển quy định\ntại Phụ lục III ban hành kèm theo Thông tư này;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269005:part:1:article:4:clause:2:point:4",
+                        "label": "d",
+                        "content": "d) Thông tin về phương tiện thủy\nnội địa quy định tại Phụ lục IV ban hành kèm theo Thông tư này;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269005:part:1:article:4:clause:2:point:5",
+                        "label": "đ",
+                        "content": "đ) Thông tin về phương tiện\ngiao thông đường sắt quy định tại Phụ lục V ban hành kèm theo Thông tư này.",
+                        "children": []
+                      }
+                    ]
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:269005:part:1:article:5",
+                "number": "5",
+                "title": "Tạo lập, cập nhật, tích hợp dữ liệu đăng kiểm phương tiện",
+                "content": "Điều 5. Tạo lập, cập nhật, tích hợp dữ liệu đăng kiểm phương tiện",
+                "clauses": [
+                  {
+                    "clause_id": "doc:269005:part:1:article:5:clause:1",
+                    "number": "1",
+                    "content": "1. Các đơn vị kiểm định, kiểm\ntra, chứng nhận an toàn kỹ thuật và bảo vệ môi trường cho phương tiện thực hiện tạo lập, cập nhật dữ liệu sau khi hoàn thành công tác kiểm định, kiểm tra, cấp giấy chứng nhận, hồ sơ đăng kiểm thông qua phần mềm do cơ quan quản lý dữ liệu đăng kiểm phương tiện quản lý thống nhất và cấp quyền sử dụng. Trường hợp tàu biển được kiểm tra ở nước ngoài thì việc tạo lập, cập nhật dữ liệu được thực hiện trong thời hạn không quá ba (03) ngày làm việc kể từ ngày đăng kiểm viên trở lại đơn vị.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:269005:part:1:article:5:clause:2",
+                    "number": "2",
+                    "content": "2. Dữ liệu đăng kiểm phương tiện\nsau khi được tạo lập, cập nhật sẽ được cơ quan quản lý dữ liệu đăng kiểm phương tiện tích hợp vào cơ sở dữ liệu đăng kiểm phương tiện trong thời hạn không quá một (01) ngày làm việc. Chương\nIII\nQUẢN LÝ, DUY TRÌ DỮ LIỆU\nĐĂNG KIỂM PHƯƠNG TIỆN",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:269005:part:1:article:6",
+                "number": "6",
+                "title": "Hệ thống thông tin dữ liệu đăng kiểm phương tiện",
+                "content": "Điều 6. Hệ thống thông tin dữ liệu đăng kiểm phương tiện",
+                "clauses": [
+                  {
+                    "clause_id": "doc:269005:part:1:article:6:clause:1",
+                    "number": "1",
+                    "content": "1. Hệ thống thông tin dữ liệu\nđăng kiểm phương tiện là hệ thống công nghệ thông tin gồm hạ tầng công nghệ thông tin, phần mềm và cơ sở dữ liệu đăng kiểm phương tiện.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:269005:part:1:article:6:clause:2",
+                    "number": "2",
+                    "content": "2. Vai trò, chức năng của hệ thống\nthông tin dữ liệu đăng kiểm phương tiện",
+                    "points": [
+                      {
+                        "point_id": "doc:269005:part:1:article:6:clause:2:point:1",
+                        "label": "a",
+                        "content": "a) Quản lý tập trung thông tin\ndữ liệu đăng kiểm phương tiện trong phạm vi cả nước;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269005:part:1:article:6:clause:2:point:2",
+                        "label": "b",
+                        "content": "b) Cung cấp các chức năng hỗ trợ\nhoạt động tạo lập, cập nhật, kết nối, chia sẻ dữ liệu đăng kiểm phương tiện.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:269005:part:1:article:6:clause:3",
+                    "number": "3",
+                    "content": "3. Cơ quan quản lý dữ liệu đăng\nkiểm phương tiện và đơn vị tạo lập, cập nhật dữ liệu đăng kiểm phương tiện có trách nhiệm bảo đảm:",
+                    "points": [
+                      {
+                        "point_id": "doc:269005:part:1:article:6:clause:3:point:1",
+                        "label": "a",
+                        "content": "a) Hệ thống thông tin và hạ tầng\nkết nối mạng phù hợp để tạo lập, cập nhật, quản lý, kết nối, chia sẻ dữ liệu đăng kiểm phương tiện;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269005:part:1:article:6:clause:3:point:2",
+                        "label": "b",
+                        "content": "b) Công cụ, biện pháp để bảo vệ\ndữ liệu và xác thực dữ liệu trong quá trình kết nối, chia sẻ dữ liệu đăng kiểm phương tiện;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269005:part:1:article:6:clause:3:point:3",
+                        "label": "c",
+                        "content": "c) Các điều kiện kỹ thuật, nguồn\nlực khác phục vụ việc tạo lập, cập nhật, kết nối, chia sẻ dữ liệu đăng kiểm phương tiện.",
+                        "children": []
+                      }
+                    ]
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:269005:part:1:article:7",
+                "number": "7",
+                "title": "Kinh phí xây dựng, duy trì, nâng cấp, quản lý, vận hành hệ thống thông tin dữ liệu đăng kiểm phương tiện Kinh phí xây dựng, duy trì, nâng cấp, quản lý, vận hành hệ thống thông tin dữ liệu đăng kiểm phương tiện được đảm bảo bằng nguồn vốn ngân sách nhà nước và nguồn kinh phí hợp pháp khác theo quy định của pháp luật.",
+                "content": "Điều 7. Kinh phí xây dựng, duy trì, nâng cấp, quản lý, vận hành hệ thống thông tin dữ liệu đăng kiểm phương tiện Kinh phí xây dựng, duy trì, nâng cấp, quản lý, vận hành hệ thống thông tin dữ liệu đăng kiểm phương tiện được đảm bảo bằng nguồn vốn ngân sách nhà nước và nguồn kinh phí hợp pháp khác theo quy định của pháp luật.",
+                "clauses": [],
+                "points": []
+              },
+              {
+                "article_id": "doc:269005:part:1:article:8",
+                "number": "8",
+                "title": "Đảm bảo an toàn thông tin",
+                "content": "Điều 8. Đảm bảo an toàn thông tin",
+                "clauses": [
+                  {
+                    "clause_id": "doc:269005:part:1:article:8:clause:1",
+                    "number": "1",
+                    "content": "1. Các cơ quan, tổ chức, cá\nnhân tham gia vào hoạt động tạo lập, cập nhật, quản lý, duy trì, kết nối, chia sẻ, sử dụng dữ liệu đăng kiểm phương tiện có trách nhiệm bảo đảm an toàn thông tin đối với hệ thống thông tin dữ liệu đăng kiểm phương tiện.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:269005:part:1:article:8:clause:2",
+                    "number": "2",
+                    "content": "2. Việc bảo đảm an toàn thông\ntin phải phù hợp với nhiệm vụ, quyền hạn và bảo đảm lợi ích hợp pháp của tổ chức, cá nhân có liên quan theo quy định của pháp luật.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:269005:part:1:article:8:clause:3",
+                    "number": "3",
+                    "content": "3. Cơ quan quản lý dữ liệu đăng\nkiểm phương tiện đề xuất hồ sơ cấp độ an toàn hệ thống thông tin và thực hiện phương án bảo đảm an toàn thông tin theo cấp độ được phê duyệt theo quy định của Nghị định số 85/2016/NĐ-CP ngày 01 tháng 7 năm 2016 của Chính phủ về bảo đảm an toàn hệ thống thông tin theo cấp độ.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:269005:part:1:chapter:3",
+            "number": "IV",
+            "title": "KẾT NỐI, CHIA SẺ, SỬ DỤNG DỮ LIỆU ĐĂNG KIỂM PHƯƠNG TIỆN",
+            "content": "Chương IV\nKẾT NỐI, CHIA SẺ, SỬ DỤNG\nDỮ LIỆU ĐĂNG KIỂM PHƯƠNG TIỆN",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:269005:part:1:article:9",
+                "number": "9",
+                "title": "Đối tượng, phương thức kết nối, chia sẻ dữ liệu đăng kiểm phương tiện",
+                "content": "Điều 9. Đối tượng, phương thức kết nối, chia sẻ dữ liệu đăng kiểm phương tiện",
+                "clauses": [
+                  {
+                    "clause_id": "doc:269005:part:1:article:9:clause:1",
+                    "number": "1",
+                    "content": "1. Cơ quan quản lý dữ liệu đăng\nkiểm phương tiện thực hiện kết nối, chia sẻ dữ liệu đăng kiểm phương tiện phục vụ công tác quản lý nhà nước của ngành vào cơ sở dữ liệu dùng chung của Bộ Giao thông vận tải.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:269005:part:1:article:9:clause:2",
+                    "number": "2",
+                    "content": "2. Đối tượng được cung cấp,\nchia sẻ dữ liệu đăng kiểm phương tiện",
+                    "points": [
+                      {
+                        "point_id": "doc:269005:part:1:article:9:clause:2:point:1",
+                        "label": "a",
+                        "content": "a) Các cơ quan phục vụ công tác\nquản lý nhà nước;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269005:part:1:article:9:clause:2:point:2",
+                        "label": "b",
+                        "content": "b) Chủ sở hữu hoặc người quản\nlý phương tiện hợp pháp theo quy định của pháp luật;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269005:part:1:article:9:clause:2:point:3",
+                        "label": "c",
+                        "content": "c) Các tổ chức, cá nhân khác\nkhi có yêu cầu.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:269005:part:1:article:9:clause:3",
+                    "number": "3",
+                    "content": "3. Các thông tin trong cơ sở dữ\nliệu đăng kiểm phương tiện được cung cấp, chia sẻ là các thông tin quy định tại khoản 2 Điều 4 của Thông tư này.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:269005:part:1:article:9:clause:4",
+                    "number": "4",
+                    "content": "4. Phương thức chia sẻ dữ liệu",
+                    "points": [
+                      {
+                        "point_id": "doc:269005:part:1:article:9:clause:4:point:1",
+                        "label": "a",
+                        "content": "a) Thông qua nền tảng tích hợp,\nchia sẻ dữ liệu Bộ Giao thông vận tải;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269005:part:1:article:9:clause:4:point:2",
+                        "label": "b",
+                        "content": "b) Kết nối trực tiếp giữa hệ thống\nthông tin dữ liệu đăng kiểm phương tiện và hệ thống thông tin của tổ chức sử dụng dữ liệu;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269005:part:1:article:9:clause:4:point:3",
+                        "label": "c",
+                        "content": "c) Tra cứu thông tin trực tuyến\ntrên Trang thông tin điện tử của cơ quan quản lý dữ liệu đăng kiểm phương tiện;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269005:part:1:article:9:clause:4:point:4",
+                        "label": "d",
+                        "content": "d) Cung cấp thông tin dạng văn\nbản.",
+                        "children": []
+                      }
+                    ]
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:269005:part:1:article:10",
+                "number": "10",
+                "title": "Thực hiện kết nối, chia sẻ, sử dụng dữ liệu đăng kiểm phương tiện",
+                "content": "Điều 10. Thực hiện kết nối, chia sẻ, sử dụng dữ liệu đăng kiểm phương tiện",
+                "clauses": [
+                  {
+                    "clause_id": "doc:269005:part:1:article:10:clause:1",
+                    "number": "1",
+                    "content": "1. Chia sẻ dữ liệu đăng kiểm\nphương tiện theo phương thức thông qua nền tảng tích hợp, chia sẻ dữ liệu Bộ Giao thông vận tải Các cơ quan quy định tại điểm a khoản 2 Điều 9 của Thông tư này có nhu cầu sử dụng dữ liệu đăng kiểm phương tiện gửi đề nghị bằng văn bản tới cơ quan quản lý dữ liệu đăng kiểm phương tiện nêu rõ mục đích sử dụng, danh mục thông tin cần chia sẻ, phương thức kết nối và tần suất sử dụng dữ liệu. Căn cứ đề nghị, cơ quan quản lý dữ liệu đăng kiểm phương tiện quyết định chia sẻ dữ liệu; phối hợp với cơ quan quản lý nền tảng tích hợp, chia sẻ dữ liệu Bộ Giao thông vận tải thiết lập kết nối; cấp quyền truy cập và hướng dẫn kỹ thuật thực hiện kết nối. Trường hợp không đồng ý phải có văn bản trả lời và nêu rõ lý do.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:269005:part:1:article:10:clause:2",
+                    "number": "2",
+                    "content": "2. Chia sẻ dữ liệu đăng kiểm\nphương tiện theo phương thức thông qua kết nối trực tiếp giữa hệ thống thông tin dữ liệu đăng kiểm phương tiện và hệ thống thông tin của tổ chức sử dụng dữ liệu Các tổ chức quy định tại điểm b, điểm c khoản 2 Điều 9 có nhu cầu sử dụng dữ liệu đăng kiểm phương tiện gửi đề nghị bằng văn bản tới cơ quan quản lý dữ liệu đăng kiểm phương tiện nêu rõ mục đích sử dụng, danh mục thông tin cần chia sẻ, phương thức kết nối và tần suất sử dụng dữ liệu. Căn cứ đề nghị, cơ quan quản lý dữ liệu đăng kiểm phương tiện quyết định chia sẻ dữ liệu; cấp quyền truy cập và hướng dẫn kỹ thuật thực hiện kết nối. Trường hợp không đồng ý phải có văn bản trả lời và nêu rõ lý do.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:269005:part:1:article:10:clause:3",
+                    "number": "3",
+                    "content": "3. Chia sẻ dữ liệu đăng kiểm\nphương tiện theo phương thức tra cứu thông tin trực tuyến trên Trang thông tin điện tử của cơ quan quản lý dữ liệu đăng kiểm phương tiện Các đối tượng quy định tại khoản 2 Điều 9 của Thông tư này được quyền tra cứu thông tin về đăng kiểm phương tiện do mình sở hữu hoặc quản lý hợp pháp trên Trang thông tin điện tử của cơ quan quản lý dữ liệu đăng kiểm phương tiện mà không cần cấp tài khoản, mã khoá. Trường hợp các cơ quan quy định tại điểm a khoản 2 Điều 9 của Thông tư này có nhu cầu cấp tài khoản, mã khoá và địa chỉ truy cập thì gửi đề nghị bằng văn bản tới cơ quan quản lý dữ liệu đăng kiểm phương tiện nêu rõ mục đích sử dụng và các thông tin có nhu cầu được chia sẻ. Căn cứ đề nghị, cơ quan quản lý dữ liệu đăng kiểm phương tiện quyết định chia sẻ dữ liệu; cấp tài khoản, mã khóa và địa chỉ truy cập. Trường hợp không đồng ý phải có văn bản trả lời và nêu rõ lý do.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:269005:part:1:article:10:clause:4",
+                    "number": "4",
+                    "content": "4. Chia sẻ dữ liệu đăng kiểm\nphương tiện theo phương thức cung cấp thông tin dạng văn bản",
+                    "points": [
+                      {
+                        "point_id": "doc:269005:part:1:article:10:clause:4:point:1",
+                        "label": "a",
+                        "content": "a) Các cơ quan, tổ chức, cá\nnhân quy định tại khoản 2 Điều 9 của Thông tư này có nhu cầu sử dụng dữ liệu đăng kiểm phương tiện gửi đề nghị bằng văn bản tới cơ quan quản lý dữ liệu đăng kiểm phương tiện hoặc đơn vị kiểm tra, kiểm định, chứng nhận an toàn kỹ thuật cho phương tiện, trong đó nêu rõ mục đích sử dụng và các thông tin có nhu cầu được chia sẻ. Căn cứ đề nghị, cơ quan quản lý dữ liệu đăng kiểm phương tiện hoặc đơn vị kiểm tra, kiểm định, chứng nhận an toàn kỹ thuật cho phương tiện cung cấp thông tin dạng văn bản trong phạm vi quyền hạn.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269005:part:1:article:10:clause:4:point:2",
+                        "label": "b",
+                        "content": "b) Tổ chức, cá nhân quy định tại\nđiểm b, điểm c khoản 2 Điều 9 của Thông tư này khi được cung cấp thông tin dạng văn bản phải trả chi phí thực tế để in, sao, chụp và gửi thông tin theo quy định tại Thông tư số 46/2018/TT-BTC ngày 14 tháng 5 năm 2018 của Bộ trưởng Bộ Tài chính quy định chi tiết chi phí thực tế để in, sao, chụp và gửi thông tin theo quy định tại khoản 2 Điều 12 của Luật Tiếp cận thông tin.",
+                        "children": []
+                      }
+                    ]
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:269005:part:1:article:11",
+                "number": "11",
+                "title": "Tạm ngừng, chấm dứt kết nối, chia sẻ dữ liệu trên môi trường điện tử",
+                "content": "Điều 11.Tạm ngừng, chấm dứt kết nối, chia sẻ dữ liệu trên môi trường điện tử",
+                "clauses": [
+                  {
+                    "clause_id": "doc:269005:part:1:article:11:clause:1",
+                    "number": "1",
+                    "content": "1. Cơ quan quản lý dữ liệu đăng\nkiểm phương tiện tạm ngừng kết nối, chia sẻ dữ liệu trong các trường hợp sau:",
+                    "points": [
+                      {
+                        "point_id": "doc:269005:part:1:article:11:clause:1:point:1",
+                        "label": "a",
+                        "content": "a) Nâng cấp, mở rộng, bảo trì hệ\nthống thông tin, cơ sở hạ tầng thông tin;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269005:part:1:article:11:clause:1:point:2",
+                        "label": "b",
+                        "content": "b) Trường hợp bất khả kháng làm\ngián đoạn kết nối, chia sẻ dữ liệu hoặc có ảnh hưởng đến hoạt động của hệ thống thông tin, sự an toàn dữ liệu;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269005:part:1:article:11:clause:1:point:3",
+                        "label": "c",
+                        "content": "c) Cơ quan, tổ chức được kết nối,\nchia sẻ dữ liệu đăng kiểm phương tiện sử dụng không đúng mục đích, phạm vi dữ liệu đã nêu trong văn bản đề nghị kết nối, chia sẻ dữ liệu;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269005:part:1:article:11:clause:1:point:4",
+                        "label": "d",
+                        "content": "d) Việc kết nối từ cơ quan, tổ\nchức được kết nối, chia sẻ dữ liệu đăng kiểm phương tiện được xác định có khả năng làm mất an toàn, an ninh.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:269005:part:1:article:11:clause:2",
+                    "number": "2",
+                    "content": "2. Cơ quan quản lý dữ liệu đăng\nkiểm phương tiện chấm dứt kết nối, chia sẻ dữ liệu trong những trường hợp sau:",
+                    "points": [
+                      {
+                        "point_id": "doc:269005:part:1:article:11:clause:2:point:1",
+                        "label": "a",
+                        "content": "a) Việc kết nối không thể khôi\nphục do sự cố hoặc do điều kiện khách quan mà cơ quan quản lý dữ liệu đăng kiểm phương tiện không thể tiếp tục duy trì chia sẻ dữ liệu;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269005:part:1:article:11:clause:2:point:2",
+                        "label": "b",
+                        "content": "b) Cơ quan, tổ chức, cá nhân được\nkết nối, chia sẻ dữ liệu đăng kiểm phương tiện không có nhu cầu tiếp tục kết nối và sử dụng dữ liệu;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269005:part:1:article:11:clause:2:point:3",
+                        "label": "c",
+                        "content": "c) Theo yêu cầu của cơ quan có\nthẩm quyền phù hợp với các quy định của pháp luật.",
+                        "children": []
+                      }
+                    ]
+                  }
+                ],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:269005:part:1:chapter:4",
+            "number": "V",
+            "title": "TỔ CHỨC THỰC HIỆN",
+            "content": "Chương V\nTỔ CHỨC THỰC HIỆN",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:269005:part:1:article:12",
+                "number": "12",
+                "title": "Trách nhiệm của cơ quan quản lý dữ liệu đăng kiểm phương tiện",
+                "content": "Điều 12. Trách nhiệm của cơ quan quản lý dữ liệu đăng kiểm phương tiện",
+                "clauses": [
+                  {
+                    "clause_id": "doc:269005:part:1:article:12:clause:1",
+                    "number": "1",
+                    "content": "1. Xây dựng, duy trì, nâng cấp,\nquản lý, vận hành hệ thống thông tin dữ liệu đăng kiểm phương tiện.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:269005:part:1:article:12:clause:2",
+                    "number": "2",
+                    "content": "2. Thiết lập các dữ liệu danh mục\ntrong cơ sở dữ liệu đăng kiểm phương tiện.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:269005:part:1:article:12:clause:3",
+                    "number": "3",
+                    "content": "3. Tập huấn nghiệp vụ cho tổ chức,\ncá nhân thực hiện tạo lập, cập nhật, duy trì, quản lý cơ sở dữ liệu đăng kiểm phương tiện.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:269005:part:1:article:12:clause:4",
+                    "number": "4",
+                    "content": "4. Kiểm tra việc tạo lập, cập\nnhật, kết nối, chia sẻ dữ liệu đăng kiểm phương tiện.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:269005:part:1:article:12:clause:5",
+                    "number": "5",
+                    "content": "5. Tiếp nhận, giải quyết các vướng\nmắc phát sinh trong quá trình kết nối, chia sẻ, sử dụng dữ liệu đăng kiểm phương tiện.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:269005:part:1:article:12:clause:6",
+                    "number": "6",
+                    "content": "6. Tạm ngừng, chấm dứt việc\nchia sẻ, kết nối dữ liệu đăng kiểm phương tiện theo quy định tại Điều 11 của Thông tư này.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:269005:part:1:article:13",
+                "number": "13",
+                "title": "Trách nhiệm của đơn vị tạo lập, cập nhật dữ liệu đăng kiểm phương tiện",
+                "content": "Điều 13. Trách nhiệm của đơn vị tạo lập, cập nhật dữ liệu đăng kiểm phương tiện",
+                "clauses": [
+                  {
+                    "clause_id": "doc:269005:part:1:article:13:clause:1",
+                    "number": "1",
+                    "content": "1. Kịp thời tạo lập, cập nhật dữ\nliệu đăng kiểm phương tiện theo quy định tại Điều 5 của Thông tư này.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:269005:part:1:article:13:clause:2",
+                    "number": "2",
+                    "content": "2. Bảo mật, bảo đảm an toàn\nthông tin trong quá trình tạo lập, cập nhật, sử dụng dữ liệu đăng kiểm phương tiện.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:269005:part:1:article:13:clause:3",
+                    "number": "3",
+                    "content": "3. Sử dụng thông tin trong cơ sở\ndữ liệu đăng kiểm phương tiện khi thực hiện kiểm định, kiểm tra, chứng nhận an toàn kỹ thuật và bảo vệ môi trường phương tiện để đảm bảo sự thống nhất.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:269005:part:1:article:13:clause:4",
+                    "number": "4",
+                    "content": "4. Thông báo kịp thời, phối hợp\nvới cơ quan quản lý dữ liệu đăng kiểm phương tiện giải quyết các vướng mắc trong quá trình tạo lập, cập nhật, sử dụng dữ liệu.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:269005:part:1:article:13:clause:5",
+                    "number": "5",
+                    "content": "5. Cung cấp thông tin dữ liệu\nđăng kiểm phương tiện do mình tạo lập, cập nhật bằng phương thức quy định tại điểm d khoản 4 Điều 9 của Thông tư này khi có yêu cầu.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:269005:part:1:article:14",
+                "number": "14",
+                "title": "Trách nhiệm của cơ quan, tổ chức, cá nhân được kết nối, chia sẻ dữ liệu đăng kiểm phương tiện",
+                "content": "Điều 14. Trách nhiệm của cơ quan, tổ chức, cá nhân được kết nối, chia sẻ dữ liệu đăng kiểm phương tiện",
+                "clauses": [
+                  {
+                    "clause_id": "doc:269005:part:1:article:14:clause:1",
+                    "number": "1",
+                    "content": "1. Sử dụng, bảo mật dữ liệu đúng mục đích, phạm vi\nđã nêu trong văn bản đề nghị kết nối, chia sẻ dữ liệu; phù hợp với quy định của Thông tư này và các quy định pháp luật có liên quan.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:269005:part:1:article:14:clause:2",
+                    "number": "2",
+                    "content": "2. Bảo mật và sử dụng đúng tài khoản, mã khóa,\nphương thức kết nối, địa chỉ truy cập đã được cơ quan quản lý dữ liệu đăng kiểm phương tiện cung cấp.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:269005:part:1:article:14:clause:3",
+                    "number": "3",
+                    "content": "3. Thông báo kịp thời, phối hợp với cơ quan quản lý\ndữ liệu đăng kiểm phương tiện về vướng mắc phát sinh trong quá trình kết nối, chia sẻ, sử dụng dữ liệu đăng kiểm phương tiện.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:269005:part:1:article:14:clause:4",
+                    "number": "4",
+                    "content": "4. Không được chia sẻ dữ liệu đăng kiểm phương tiện\nđược cung cấp cho bên thứ ba khi chưa được phép của cơ quan quản lý dữ liệu đăng kiểm phương tiện.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:269005:part:1:article:15",
+                "number": "15",
+                "title": "Hiệu lực thi hành",
+                "content": "Điều 15. Hiệu lực thi hành",
+                "clauses": [
+                  {
+                    "clause_id": "doc:269005:part:1:article:15:clause:1",
+                    "number": "1",
+                    "content": "1. Thông tư này có hiệu lực thi hành kể từ ngày 01\ntháng 02 năm 2023.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:269005:part:1:article:15:clause:2",
+                    "number": "2",
+                    "content": "2. Trường hợp các văn bản quy phạm pháp luật dẫn\nchiếu trong Thông tư này được sửa đổi, bổ sung, thay thế thì thực hiện theo các quy định của văn bản quy phạm pháp luật sửa đổi, bổ sung, thay thế đó.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:269005:part:1:article:16",
+                "number": "16",
+                "title": "Trách nhiệm thi hành Chánh Văn phòng Bộ, Cục trưởng Cục Đăng kiểm Việt Nam, Giám đốc Trung tâm Công nghệ thông tin, Thủ trưởng các đơn vị và các tổ chức, cá nhân liên quan chịu trách nhiệm thi hành Thông tư này./.",
+                "content": "Điều 16. Trách nhiệm thi hành Chánh Văn phòng Bộ, Cục trưởng Cục Đăng kiểm Việt Nam, Giám đốc Trung tâm Công nghệ thông tin, Thủ trưởng các đơn vị và các tổ chức, cá nhân liên quan chịu trách nhiệm thi hành Thông tư này./.",
+                "clauses": [],
+                "points": []
+              }
+            ]
+          }
+        ],
+        "sections": [],
+        "articles": [],
+        "unstructured_blocks": []
+      },
+      {
+        "part_id": "doc:269005:part:2",
+        "part_type": "appendix",
+        "part_title": "PHỤ LỤC I",
+        "reference": null,
+        "direct_text": null,
+        "chapters": [],
+        "sections": [],
+        "articles": [],
+        "unstructured_blocks": [
+          {
+            "block_id": "doc:269005:part:2:block:1",
+            "content": "PHỤ LỤC I\nTHÔNG TIN VỀ PHƯƠNG TIỆN CƠ GIỚI ĐƯỜNG BỘ\n(Ban hành kèm theo Thông tư số 28/2022/TT-BGTVT ngày 29 tháng 11 năm 2022 của\nBộ trưởng Giao thông vận tải)\n1. Thông\ntin về xe ô tô, rơ moóc, sơ mi rơ moóc và xe chở người bốn bánh có gắn động cơ\nSTT\nTên thông tin Ghi chú 1 Số quản lý Số quản lý của phương tiện trong dữ liệu kiểm định 2 Biển số xe Biển số đăng kí cấp cho xe cơ giới 3 Nơi đăng ký Địa phương nơi đăng ký biển số 4 Tình trạng phương tiện Tình trạng khi lập hồ sơ (chưa qua sử dụng/đã qua sử dụng) 5 Ngày đăng kiểm Ngày đăng kiểm phương tiện gần nhất 6 Hạn đăng kiểm Ngày hết hạn đăng kiểm gần nhất 7 Nước sản xuất Nước sản xuất của phương tiện 8 Năm sản xuất Năm sản xuất của phương tiện 9 Năm hết niên hạn Niên hạn sử dụng của phương tiện 10 Số động cơ Còn gọi là số máy (được đóng trên thân động cơ) 11 Số khung 12 Số VIN Số nhận dạng của xe 13 Nhãn hiệu 14 Số loại Tên thương mại và số loại\n(VD: HIACE RZH114L-BRKRS)\n15 Số chỗ ngồi 16 Số chỗ nằm 17 Số chỗ đứng 18 Khối lượng bản thân Khối lượng của xe hoàn chỉnh (đơn vị: kg) 19 Khối lượng hàng hoá thiết kế Khối lượng hàng hoá được chuyên chở theo thiết kế của nhà sản xuất (đơn vị: kg) 20 Khối lượng hàng hoá cho phép tham gia giao thông Khối lượng hàng hóa được chuyên chở cho phép tham gia giao thông theo quy định của cơ quan quản lý đường bộ (đơn vị: kg) 21 Khối lượng toàn bộ thiết kế Khối lượng toàn bộ theo thiết kế của nhà sản xuất (đơn vị: kg) 22 Khối lượng toàn bộ cho phép tham gia giao thông Khối lượng toàn bộ cho phép tham gia giao thông theo quy định của cơ quan quản lý đường bộ (đơn vị: kg) 23 Kích thước bao Kích thước chiều dài toàn bộ, chiều rộng toàn bộ, chiều cao toàn bộ của toàn xe theo tài liệu kỹ thuật 24 Kích thước lòng thùng hàng Kích thước chiều dài, chiều rộng, chiều cao của lòng thùng xe (đơn vị: mm) 25 Dung tích động cơ Thể tích làm việc của động cơ (đơn vị cm3) 26 Nguồn gốc Nguồn gốc là xe sản xuất lắp ráp trong nước hay nhập khẩu 27 Số Giấy chứng nhận Số giấy chứng nhận kiểu loại đối với xe sản xuất trong nước hoặc số chứng chỉ đối với xe nhập khẩu 28 Ngày cấp giấy chứng nhận Ngày cấp giấy chứng nhận theo thứ tự số 27\n2. Thông\ntin về xe mô tô, xe gắn máy\nSTT\nTên thông tin Ghi chú 1 Nguồn gốc Nguồn gốc là xe sản xuất lắp ráp trong nước hay nhập khẩu 2 Số giấy chứng nhận Số giấy chứng nhận kiểu loại đối với xe sản xuất trong nước hoặc số chứng chỉ đối với xe nhập khẩu 3 Ngày cấp giấy chứng nhận (ngày/tháng/năm) 4 Nhãn hiệu 5 Tên thương mại 6 Mã kiểu loại 7 Năm sản xuất Năm sản xuất phương tiện 8 Nước sản xuất Nước sản xuất phương tiện 9 Số khung 10 Số động cơ Còn gọi là số máy 11 Màu sơn 12 Thể tích Thể tích làm việc (đơn vị cm3) 13 Công suất động cơ Công suất động cơ (đơn vị: kW)",
+            "indexable": true
+          }
+        ]
+      },
+      {
+        "part_id": "doc:269005:part:3",
+        "part_type": "appendix",
+        "part_title": "PHỤ LỤC II",
+        "reference": null,
+        "direct_text": null,
+        "chapters": [],
+        "sections": [],
+        "articles": [],
+        "unstructured_blocks": [
+          {
+            "block_id": "doc:269005:part:3:block:1",
+            "content": "PHỤ LỤC II\nTHÔNG TIN VỀ XE MÁY CHUYÊN DÙNG\n(Ban hành kèm theo Thông tư số 28/2022/TT-BGTVT ngày 29 tháng 11 năm 2022 của\nBộ trưởng Bộ Giao thông vận tải)\nSTT\nTên thông tin Ghi chú 1 Loại xe máy chuyên dùng Tên (loại) xe máy chuyên dùng 2 Biển số xe Biển số đăng kí cấp cho xe cơ giới 3 Nhãn hiệu 4 Số động cơ Còn gọi là số máy (được đóng trên thân động cơ) 5 Số khung 6 Công suất động cơ Là đại lượng đặc trưng cho tốc độ sinh công của động cơ (đơn vị: kW) 7 Khối lượng bản thân Khối lượng của xe hoàn chỉnh (đơn vị: kg) 8 Chiều dài Chiều dài toàn bộ (đơn vị: mm) 9 Chiều rộng Chiều rộng toàn bộ (đơn vị: mm) 10 Chiều cao Chiều cao toàn bộ (đơn vị: mm) 11 Xe đã cải tạo Xe đã qua cải tạo hay chưa? 12 Nguồn gốc Nguồn gốc là xe sản xuất lắp ráp trong nước hay nhập khẩu 13 Số giấy chứng nhận Số giấy chứng nhận kiểu loại đối với xe sản xuất trong nước hoặc số chứng chỉ đối với xe nhập khẩu 14 Ngày cấp giấy chứng nhận Ngày cấp của giấy chứng nhận theo thứ tự số 13",
+            "indexable": true
+          }
+        ]
+      },
+      {
+        "part_id": "doc:269005:part:4",
+        "part_type": "appendix",
+        "part_title": "PHỤ LỤC III",
+        "reference": null,
+        "direct_text": null,
+        "chapters": [],
+        "sections": [],
+        "articles": [],
+        "unstructured_blocks": [
+          {
+            "block_id": "doc:269005:part:4:block:1",
+            "content": "PHỤ LỤC III\nTHÔNG TIN VỀ TÀU BIỂN\n(Ban hành kèm theo Thông tư số 28/2022/TT-BGTVT ngày 29 tháng 11 năm 2022 của\nBộ trưởng Bộ Giao thông vận tải)\nSTT\nTên thông tin Ghi chú 1 Tên tàu Tên tàu biển do chủ tàu đặt và được cơ quan đăng ký tàu biển chấp thuận 2 Số phân cấp Số phân cấp được Cục Đăng kiểm Việt Nam ấn định phục vụ mục đích quản lý 3 Số IMO Là số được IHS Maritime ấn định phù hợp với Nghị quyết A.1078(28) của IMO. 4 Hô hiệu Là dãy ký tự được Cục tần số vô tuyến điện cấp để phân biệt giữa các tàu trong các phương thức liên lạc 5 Quốc tịch Là tên quốc gia tàu đăng ký mang cờ quốc tịch 6 Cảng đăng ký Là nơi tàu đăng ký mang cờ quốc tịch 7 Nhóm phương tiện tàu biển Theo Phụ lục C.19 của TCVN 13420: 2021 8 Công dụng tàu Thể hiện mục đích sử dụng, đặc tính kỹ thuật chính của tàu 9 Dấu hiệu phân cấp Theo QCVN 21: 2015/BGTVT và các sửa đổi, bổ sung 10 Chiều dài lớn nhất Chiều dài toàn bộ của tàu LOA (đơn vị: m) 11 Chiều dài Chiều dài phân cấp (m) theo QCVN 21: 2015/BGTVT 12 Chiều rộng Theo QCVN 21: 2015/BGTVT và các sửa đổi, bổ sung (đơn vị: m) 13 Chiều cao mạn Theo QCVN 21: 2015/BGTVT và các sửa đổi, bổ sung (đơn vị: m) 14 Tổng dung tích Dung tích (GT) theo Công ước quốc tế về đo dung tích tàu biển (TONNAGE 1969) hoặc QCVN 63: 2013/BGTVT 15 Dung tích có ích Dung tích có ích (NT) theo Công ước quốc tế về đo dung tích tàu biển (TONNAGE 1969) hoặc QCVN 63: 2013/BGTVT 16 Chiều chìm Theo QCVN 21: 2015/BGTVT và các sửa đổi, bổ sung (đơn vị: mét) 17 Trọng tải toàn phần Theo QCVN 21: 2015/BGTVT và các sửa đổi, bổ sung (đơn vị: t) 18 Tuyến hoạt động Theo Phụ lục C.21 của TCVN 13420: 2021 19 Vùng hoạt động Theo Phụ lục C.20 của TCVN 13420: 2021 20 Nhà máy đóng tàu Tên nhà máy đóng mới tàu biển 21 Ngày đặt sống chính Là ngày rải tấm tôn đáy giữa tâm đầu tiên hoặc ngày đặt tổng đoạn đầu tiên lên triền hoặc xác nhận tàu trong giai đoạn đóng tương tự. Ngày này được ghi nhận trong biên bản hoặc chứng nhận ngày đặt sống chính của tàu. 22 Ngày hạ thuỷ Là ngày tàu được hạ thủy xuống nước lần đầu tiên. 23 Ngày đóng tàu Ngày hoàn thành kiểm tra phân cấp theo QCVN 21: 2015/BGTVT và các sửa đổi, bổ sung 24 Tổng công suất máy chính Tổng công suất động cơ dùng để đẩy tàu (đơn vị: kW) 25 Tổng công suất máy phát điện Tổng công suất các máy phát điện của tàu và không bao gồm máy phát điện sự cố (đơn vị: KVA)",
+            "indexable": true
+          }
+        ]
+      },
+      {
+        "part_id": "doc:269005:part:5",
+        "part_type": "appendix",
+        "part_title": "PHỤ LỤC IV",
+        "reference": null,
+        "direct_text": null,
+        "chapters": [],
+        "sections": [],
+        "articles": [],
+        "unstructured_blocks": [
+          {
+            "block_id": "doc:269005:part:5:block:1",
+            "content": "PHỤ LỤC IV\nTHÔNG TIN VỀ PHƯƠNG TIỆN THỦY NỘI ĐỊA\n(Ban hành kèm theo Thông tư số 28/2022/TT-BGTVT ngày 29 tháng 11 năm 2022 của\nBộ trưởng Bộ Giao thông vận tải)\nSTT\nTên thông tin Ghi chú 1 Tên phương tiện 2 Số ĐKHC Số đăng ký hành chính của phương tiện do cơ quan quản lý hành chính cấp 3 Số kiểm soát Số kiểm soát nhằm kiểm soát từng phương tiện và số lượng phương tiện đã được đăng kiểm trên toàn quốc 4 Số đăng kiểm Số đăng kiểm của phương tiện là số được cơ quan đăng kiểm cấp sau khi phương tiện đã được kiểm tra thỏa mãn các yêu cầu của quy chuẩn kỹ thuật và các quy định hiện hành 5 Năm đóng Năm đóng của phương tiện được xác định theo quy định tại Nghị định số 111/2014/NĐ-CP . 6 Nơi đóng Nơi đóng của phương tiện là nơi phương tiện được đóng và cấp hồ sơ đăng kiểm lần đầu. 7 Vật liệu Vật liệu thân phương tiện 8 Công dụng 9 Cấp tàu Cấp hoạt động của phương tiện 10 Vùng hoạt động Vùng nước mà phương tiện được phép hoạt động 11 Dung tích Dung tích (GT) của phương tiện được xác định theo quy chuẩn sửa đổi 1:2015 QCVN 72:2015/BGTVT 12 Trọng tải toàn phần Trọng tải toàn phần của phương tiện là hiệu số, tính bằng tấn, giữa lượng chiếm nước tương ứng với đường nước thiết kế toàn tải của tàu và trọng lượng tàu không (đơn vị: t) 13 Số người được chở Số người được chở trên phương tiện theo quy định của Luật Giao thông đường thủy nội địa (đơn vị: người) 14 Lượng hàng Lượng hàng được chở trên phương tiện (đơn vị: t) 15 Chiều dài tàu lớn nhất Lmax (đơn vị: m) 16 Chiều dài tàu L Chiều dài thiết kế của phương tiện (đơn vị: m) 17 Chiều rộng tàu lớn nhất Bmax Chiều rộng tàu lớn nhất (đơn vị: m) 18 Chiều rộng tàu B Chiều rộng thiết kế của tàu (đơn vị: m) 19 Chiều cao mạn D Chiều cao mạn tàu (đơn vị: m) 20 Chiều chìm d Chiều chìm của phương tiện là khoảng cách thẳng đứng, tính bằng mét, đo ở mặt phẳng sườn giữa, từ mép trên của dải tấm giữa đáy đến đường nước thiết kế toàn tải (đơn vị: m) 21 Mạn khô F Mạn khô (đơn vị: mm) 22 Số lượng máy chính Số lượng máy dùng để đẩy phương tiện 23 Tổng công suất máy chính Tổng công suất máy chính tính bằng sức ngựa",
+            "indexable": true
+          }
+        ]
+      },
+      {
+        "part_id": "doc:269005:part:6",
+        "part_type": "appendix",
+        "part_title": "PHỤ LỤC V",
+        "reference": null,
+        "direct_text": null,
+        "chapters": [],
+        "sections": [],
+        "articles": [],
+        "unstructured_blocks": [
+          {
+            "block_id": "doc:269005:part:6:block:1",
+            "content": "PHỤ LỤC V\nTHÔNG TIN VỀ PHƯƠNG TIỆN GIAO THÔNG ĐƯỜNG SẮT\n(Ban hành kèm theo Thông tư số 28/2022/TT-BGTVT ngày 29 tháng 11 năm 2022 của\nBộ trưởng Bộ Giao thông vận tải)\n1. Thông tin\nvề toa xe, phương tiện chuyên dùng không tự hành\nSTT\nTên thông tin Ghi chú 1 Loại phương tiện Tên kiểu loại phương tiện 2 Số đăng ký Biển số đăng ký 3 Số hiệu Số hiệu của toa xe theo quy ước 4 Năm sản xuất Năm sản xuất của toa xe 5 Nước sản xuất Nước sản xuất toa xe 6 Tốc độ cấu tạo Tốc độ cấu tạo theo tài liệu của nhà sản xuất (đơn vị: km/h) 7 Loại giá chuyển hướng Tên kiểu loại giá chuyển hướng 8 Loại van hãm Tên kiểu loại van hãm 9 Loại móc nối, đỡ đấm Tên kiểu loại móc nối, đỡ đấm 10 Khối lượng toa xe Khối lượng toa xe không bao gồm hàng hóa (đơn vị: tấn) 11 Trọng tải Khối lượng hàng hóa được phép chuyên chở (đơn vị: tấn) 12 Số chỗ Số hành khách được phép chuyên chở 13 Khổ đường Khổ đường sắt (1000mm/1435mm) (đơn vị: mm) 14 Chiều dài Kích thước giới hạn của toa xe (đơn vị: mm) 15 Chiều rộng 16 Chiều cao 17 Hiệu lực giấy chứng nhận Ngày hết hiệu lực của giấy chứng nhận đăng kiểm (ngày/tháng/năm)\n2. Thông\ntin về đầu máy, phương tiện chuyên dùng tự hành\nSTT\nThông tin Ghi chú 1 Loại phương tiện Tên kiểu loại phương tiện 2 Số đăng ký Biển số đăng ký 3 Số hiệu Số hiệu của đầu máy theo quy ước 4 Năm sản xuất Năm sản xuất của đầu máy 5 Nước sản xuất Nước sản xuất đầu máy 6 Tốc độ cấu tạo Tốc độ cấu tạo theo tài liệu của nhà sản xuất (đơn vị: km/h) 7 Ký hiệu động cơ Kiểu loại động cơ 8 Số động cơ Số series của động cơ 9 Công suất định mức Công suất động cơ (HP/kW) 10 Công thức trục Cách bố trí trục (B-B, Co-Co) 11 Kiểu truyền động Tên kiểu loại truyền động (Thủy lực, Điện, cơ khí) 12 Khối lượng chỉnh bị Khối lượng đầu máy/phương tiện chuyên dùng bao gồm nhiên liệu, dầu bôi trơn, nước làm mát, … ở trạng thái chỉnh bị (đơn vị: t) 13 Số chỗ Số chỗ trên buồng lái đầu máy 14 Khổ đường Khổ đường sắt (1000mm/1435mm) (đơn vị: mm) 15 Chiều dài Kích thước giới hạn của đầu máy (đơn vị: mm) 16 Chiều rộng 17 Chiều cao 18 Hiệu lực giấy chứng nhận Ngày hết hiệu lực của giấy chứng nhận đăng kiểm (ngày/tháng/năm)\n3. Thông\ntin về toa xe đường sắt đô thị\nSTT\nThông tin Ghi chú 1 Loại phương tiện Tên kiểu loại toa xe đường sắt đô thị 2 Số đăng ký Biển số đăng ký 3 Số hiệu Số hiệu của toa xe đường sắt đô thị 4 Năm sản xuất Năm sản xuất của toa xe đường sắt đô thị 5 Nước sản xuất Nước sản xuất toa xe đường sắt đô thị 6 Tốc độ cấu tạo (km/h) Tốc độ cấu tạo theo tài liệu của nhà sản xuất 7 Số chỗ Số hành khách được phép chuyên chở 8 Điện áp cung cấp Điện áp danh nghĩa cấp cho toa xe (đơn vị: V) 9 Hình thức cấp điện Tên hình thức cấp điện (trên cao/ray thứ ba) 10 Hệ thống tín hiệu điều khiển Tên kiểu loại hệ thống tín hiệu điều khiển chạy tàu 11 Chiều dài Kích thước giới hạn của toa xe đường sắt đô thị (đơn vị: mm) 12 Chiều rộng 13 Chiều cao 14 Hiệu lực giấy chứng nhận Ngày hết hiệu lực của giấy chứng nhận đăng kiểm",
+            "indexable": true
+          }
+        ]
+      }
+    ]
+  },
+  "issues": [],
+  "status": "ok",
+  "source_hash": "context_269005.json",
+  "stats": {
+    "source_chars": 27510,
+    "passage_chars": 27346,
+    "parts": 6,
+    "chapters": 4,
+    "sections": 0,
+    "articles": 16,
+    "clauses": 48,
+    "points": 31
+  }
+}

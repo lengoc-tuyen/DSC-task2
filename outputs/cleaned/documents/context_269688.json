@@ -1,0 +1,1234 @@
+{
+  "schema_version": "2.0",
+  "document_id": 269688,
+  "metadata": {
+    "name": "Thong-tu-13-2017-TT-BTTTT-yeu-cau-ky-thuat-ket-noi-he-thong-thong-tin-co-so-du-lieu-quoc-gia-355458",
+    "link": "https://thuvienphapluat.vn/van-ban/Cong-nghe-thong-tin/Thong-tu-13-2017-TT-BTTTT-yeu-cau-ky-thuat-ket-noi-he-thong-thong-tin-co-so-du-lieu-quoc-gia-355458.aspx",
+    "issuing_agency": "BỘ THÔNG TIN VÀ TRUYỀN THÔNG",
+    "national_header": "CỘNG\r\n\n  HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM",
+    "motto": "Độc lập - Tự do - Hạnh phúc",
+    "document_number": "13/2017/TT-BTTTT",
+    "issued_place": "Hà Nội",
+    "issued_date": "ngày 23 tháng 6 năm 2017",
+    "document_type": "THÔNG TƯ",
+    "title": "QUY ĐỊNH CÁC YÊU CẦU KỸ THUẬT VỀ KẾT NỐI CÁC HỆ THỐNG THÔNG TIN, CƠ SỞ DỮ LIỆU VỚI CƠ SỞ DỮ LIỆU QUỐC GIA"
+  },
+  "administrative_header": {
+    "removed": true,
+    "removed_char_count": 169
+  },
+  "preamble": {
+    "text": "THÔNG TƯ\nQUY ĐỊNH CÁC YÊU CẦU KỸ THUẬT VỀ KẾT NỐI CÁC HỆ THỐNG THÔNG TIN, CƠ SỞ\nDỮ LIỆU VỚI CƠ SỞ DỮ LIỆU QUỐC GIA\nCăn cứ Luật Công nghệ thông tin ngày 29 tháng 6 năm 2006; Căn cứ Luật Giao dịch điện tử ngày 29 tháng 11 năm 2005; Căn cứ Luật An toàn thông tin mạng ngày 19 tháng 11 năm 2015; Căn cứ Nghị định số 64/2007/NĐ-CP ngày 10 tháng 4 năm 2007 của Chính phủ về ứng dụng công nghệ thông tin trong hoạt động của cơ quan nhà nước; Căn cứ Nghị định số 85/2016/NĐ-CP ngày 01 tháng 7 năm 2016 của Chính phủ về đảm bảo an toàn hệ thống thông tin theo cấp độ; Căn cứ Nghị định số 17/2017/NĐ-CP ngày 17 tháng 02 năm 2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Thông tin và Truyền thông; Thực hiện Quyết định số 714/QĐ-TTg ngày 22 tháng 5 năm 2015 của Thủ tướng Chính phủ ban hành Danh mục cơ sở dữ liệu quốc gia cần ưu tiên triển khai tạo nền tảng phát triển chính phủ điện tử; Theo đề nghị của Cục trưởng Cục Tin học hóa, Bộ trưởng Bộ Thông tin và Truyền thông ban hành Thông tư quy định các yêu cầu kỹ thuật về kết nối các hệ thống thông tin, cơ sở dữ liệu với cơ sở dữ liệu quốc gia.\nChương I\nQUY ĐỊNH CHUNG",
+    "legal_bases": [
+      "Căn cứ Luật Giao dịch điện tử ngày 29 tháng 11 năm 2005",
+      "Căn cứ Luật An toàn thông tin mạng ngày 19 tháng 11 năm 2015",
+      "Căn cứ Nghị định số 64/2007/NĐ-CP ngày 10 tháng 4 năm 2007 của Chính phủ về ứng dụng công nghệ thông tin trong hoạt động của cơ quan nhà nước",
+      "Căn cứ Nghị định số 85/2016/NĐ-CP ngày 01 tháng 7 năm 2016 của Chính phủ về đảm bảo an toàn hệ thống thông tin theo cấp độ",
+      "Căn cứ Nghị định số 17/2017/NĐ-CP ngày 17 tháng 02 năm 2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Thông tin và Truyền thông"
+    ],
+    "proposals": [
+      "Theo đề nghị của Cục trưởng Cục Tin học hóa, Bộ trưởng Bộ Thông tin và Truyền thông ban hành Thông tư quy định các yêu cầu kỹ thuật về kết nối các hệ thống thông tin, cơ sở dữ liệu với cơ sở dữ liệu quốc gia.\nChương I\nQUY ĐỊNH CHUNG"
+    ],
+    "enactment_formula": null
+  },
+  "passage": "THÔNG TƯ\nQUY ĐỊNH CÁC YÊU CẦU KỸ THUẬT VỀ KẾT NỐI CÁC HỆ THỐNG THÔNG TIN, CƠ SỞ\nDỮ LIỆU VỚI CƠ SỞ DỮ LIỆU QUỐC GIA\nCăn cứ Luật Công nghệ thông tin ngày 29 tháng 6 năm 2006; Căn cứ Luật Giao dịch điện tử ngày 29 tháng 11 năm 2005; Căn cứ Luật An toàn thông tin mạng ngày 19 tháng 11 năm 2015; Căn cứ Nghị định số 64/2007/NĐ-CP ngày 10 tháng 4 năm 2007 của Chính phủ về ứng dụng công nghệ thông tin trong hoạt động của cơ quan nhà nước; Căn cứ Nghị định số 85/2016/NĐ-CP ngày 01 tháng 7 năm 2016 của Chính phủ về đảm bảo an toàn hệ thống thông tin theo cấp độ; Căn cứ Nghị định số 17/2017/NĐ-CP ngày 17 tháng 02 năm 2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Thông tin và Truyền thông; Thực hiện Quyết định số 714/QĐ-TTg ngày 22 tháng 5 năm 2015 của Thủ tướng Chính phủ ban hành Danh mục cơ sở dữ liệu quốc gia cần ưu tiên triển khai tạo nền tảng phát triển chính phủ điện tử; Theo đề nghị của Cục trưởng Cục Tin học hóa, Bộ trưởng Bộ Thông tin và Truyền thông ban hành Thông tư quy định các yêu cầu kỹ thuật về kết nối các hệ thống thông tin, cơ sở dữ liệu với cơ sở dữ liệu quốc gia.\nChương I\nQUY ĐỊNH CHUNG\nĐiều 1. Phạm vi điều chỉnh Thông tư này quy định các yêu cầu kỹ thuật về kết nối các hệ thống thông tin, cơ sở dữ liệu với cơ sở dữ liệu quốc gia (sau đây gọi tắt là kết nối), bao gồm: nguyên tắc, yêu cầu kỹ thuật, tài liệu kỹ thuật, cấu trúc dữ liệu trao đổi phục vụ kết nối; trách nhiệm của các bên liên quan thực hiện kết nối.\nĐiều 2. Đối tượng áp dụng Thông tư này áp dụng đối với cơ quan chủ quản cơ sở dữ liệu quốc gia, chủ quản hệ thống thông tin kết nối với cơ sở dữ liệu quốc gia; đơn vị chuyên trách về công nghệ thông tin của các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ; Sở Thông tin và Truyền thông các tỉnh, thành phố trực thuộc Trung ương.\nĐiều 3. Giải thích từ ngữ Trong Thông tư này, các từ ngữ và chữ viết tắt dưới đây được hiểu như sau:\n1. Hệ thống thông tin được quy định\ntrong Thông tư này bao gồm hệ thống thông tin, cơ sở dữ liệu kết nối với cơ sở dữ liệu quốc gia theo quy định của pháp luật.\n2. Kết nối khai thác: là kết nối giữa\nhệ thống thông tin với cơ sở dữ liệu quốc gia để truy vấn và nhận dữ liệu có trong cơ sở dữ liệu quốc gia.\n3. Kết nối cập nhật: là kết nối giữa\nhệ thống thông tin với cơ sở dữ liệu quốc gia để khai thác dữ liệu từ cơ sở dữ liệu quốc gia và bổ sung, cập nhật dữ liệu vào cơ sở dữ liệu quốc gia. 4 Cấu trúc dữ liệu trao đổi: là cấu trúc của các thông điệp dữ liệu được trao đổi giữa cơ sở dữ liệu quốc gia và các hệ thống thông tin có kết nối với cơ sở dữ liệu quốc gia.\n5. Thực thể\n(entity): là sự vật cụ thể hoặc trừu tượng đã, đang và sẽ tồn tại trên thực tế gồm cả các mối liên kết giữa các sự vật này.\n6. Phần tử dữ liệu (data element): là\nđơn vị mô tả dữ liệu bao gồm một tập các thuộc tính và đại diện cho các thực thể cùng tập thuộc tính đó.\n7. Mô hình dữ liệu (data model): là\nthiết kế kỹ thuật sử dụng các ký hiệu, ngôn ngữ để thể hiện cấu trúc, nội dung của dữ liệu.\n8. Mô hình dữ liệu mức khái niệm\n(conceptual data model): là mô hình dữ liệu mức tổng quát, thể hiện các phần tử dữ liệu cơ bản và mối quan hệ giữa chúng.\n9. Mô hình dữ liệu mức logic (logical\ndata model): là mô hình dữ liệu thể hiện chi tiết mô hình dữ liệu mức khái niệm, mô tả nội dung đầy đủ của dữ liệu cần phản ánh và độc lập với công nghệ được sử dụng.\n10. Mô hình dữ liệu mức vật lý\n(physical data model): là mô hình dữ liệu chi tiết của mô hình dữ liệu mức logic và triển khai trên cơ sở tiêu chuẩn kỹ thuật, công nghệ được lựa chọn sử dụng.\n11. Lược đồ XML: là hình thức thể hiện\ncủa mô hình dữ liệu mức vật lý sử dụng nền tảng công nghệ XML.\n12. LGSP: là nền\ntảng tích hợp, chia sẻ dữ liệu cấp Bộ, cấp tỉnh chứa các dịch vụ dùng chung để chia sẻ dữ liệu giữa các hệ thống thông tin của các cơ quan, đơn vị thuộc phạm vi một Bộ, ngành, địa phương và đóng vai trò trung gian phục vụ kết nối các hệ thống thông tin trong nội bộ của Bộ, ngành, địa phương với các hệ thống bên ngoài; mô hình kết nối của LGSP theo kiến trúc Chính phủ điện tử của cơ quan cấp Bộ chủ quản hoặc kiến trúc chính quyền điện tử của cơ quan cấp tỉnh chủ quản phù hợp Khung kiến trúc Chính phủ điện tử Việt Nam.\n13. NGSP: là hệ\nthống kết nối, liên thông các hệ thống thông tin ở Trung ương và địa phương; đóng vai trò trung gian phục vụ kết nối giữa các hệ thống thông tin lớn (hệ thống thông tin quốc gia; cơ sở dữ liệu quốc gia; hệ thống thông tin có quy mô, phạm vi từ Trung ương đến địa phương), giữa các hệ thống thông tin của các cơ quan cấp Bộ, cấp tỉnh khác nhau hoặc giữa các LGSP; mô hình kết nối của NGSP theo Khung kiến trúc Chính phủ điện tử Việt Nam.\n14. XML, UML,\nTCP, IP, WSDL, SOAP, UTF8, HTTP, HTTPS: là các tiêu chuẩn kỹ thuật thuộc Danh mục tiêu chuẩn kỹ thuật về ứng dụng công nghệ thông tin trong cơ quan nhà nước được Bộ Thông tin và Truyền thông ban hành.\nĐiều 4. Nguyên tắc kết nối\n1. Tuân thủ các\nquy định tại Điều 7 và Điều 13 Nghị định số 64/2007/NĐ-CP ngày 10/4/2007 của Chính phủ về ứng dụng công nghệ thông tin trong hoạt động của cơ quan nhà nước.\n2. Bảo đảm quyền khai thác dữ liệu hợp pháp theo quy định\ncủa pháp luật; không làm hạn chế quyền khai thác, sử dụng cơ sở dữ liệu quốc gia của các cơ quan nhà nước, tổ chức, cá nhân do yếu tố kỹ thuật.\n3. Tuân thủ các\nquy định của pháp luật về an toàn thông tin mạng, các quy định về bảo đảm an toàn hệ thống thông tin theo cấp độ đối với cơ sở dữ liệu quốc gia và các hệ thống thông tin kết nối với cơ sở dữ liệu quốc gia.\n4. Phù hợp với\nKhung kiến trúc Chính phủ điện tử Việt Nam, kiến trúc Chính phủ điện tử cấp bộ, kiến trúc chính quyền điện tử cấp tỉnh.\nĐiều 5. Điều kiện kết nối\n1. Đối với kết nối khai thác\na) Hệ thống thông tin và cơ sở dữ liệu\nquốc gia phải cùng tuân thủ các yêu cầu kỹ thuật được quy định tại Thông tư này;\nb) Tài liệu kỹ thuật phục vụ kết nối\ncủa cơ sở dữ liệu quốc gia phải đáp ứng các quy định tại Điều 6, Điều 7 Thông tư này; hệ thống thông tin phải tuân thủ các tài liệu kỹ thuật phục vụ kết nối của cơ sở dữ liệu quốc gia đã ban hành.\n2. Đối với kết nối cập nhật\na) Đáp ứng các điều kiện kết nối khai\nthác tại Khoản 1 Điều này;\nb) Dữ liệu cập nhật bao gồm: thông\ntin định danh của phần tử dữ liệu và thông tin cần cập nhật của phần tử dữ liệu đó; dữ liệu đặc tả của dữ liệu cần cập nhật (trong trường hợp cần thiết);\nc) Quy trình kết nối, cập nhật dữ liệu\ntừ các hệ thống thông tin với cơ sở dữ liệu quốc gia phải phù hợp với quy trình nghiệp vụ liên quan theo các quy định về cập nhật dữ liệu với cơ sở dữ liệu quốc gia tương ứng.\nĐiều 6. Tài liệu kỹ thuật phục vụ kết nối của cơ sở dữ liệu quốc gia\n1. Cơ quan chủ quản cơ sở dữ liệu quốc\ngia có trách nhiệm xây dựng va ban hành các tài liệu kỹ thuật phục vụ kết nối, khai thác dữ liệu từ cơ sở dữ liệu quốc gia.\n2. Tài liệu kỹ thuật phục vụ kết nối\ncủa cơ sở dữ liệu quốc gia được ban hành theo một trong các hình thức sau:\na) Quy chuẩn kỹ thuật quốc gia;\nb) Quy định kỹ thuật.\n3. Tài liệu kỹ thuật phục vụ kết nối\ncủa cơ sở dữ liệu quốc gia được ban hành trước khi dự án xây dựng cơ sở dữ liệu quốc gia được nghiệm thu và đưa vào vận hành. Đối với các cơ sở dữ liệu quốc gia đã được vận hành trước thời điểm Thông tư này có hiệu lực, cơ quan chủ quản cơ sở dữ liệu quốc gia có trách nhiệm xây dựng và ban hành tài liệu kỹ thuật phục vụ kết nối trong thời hạn 12 tháng kể từ ngày Thông tư này có hiệu lực.\n4. Công bố tài liệu\na) Tài liệu quy định tại Điểm a Khoản\n1 Điều 7 Thông tư này và các tài liệu khác liên quan đến thông số kết nối được cung cấp cho chủ quản hệ thống thông tin tại thời điểm chấp nhận yêu cầu kết nối;\nb) Các tài liệu quy định tại Điều 7\nThông tư này phải được gửi Bộ Thông tin và Truyền thông để thống nhất quản lý;\nc) Các tài liệu quy định tại Điều 7\nThông tư này trừ các tài liệu theo quy định tại Điểm a Khoản này phải được đăng tải trên cổng thông tin điện tử của cơ quan chủ quản cơ sở dữ liệu quốc gia sau khi ban hành.\nĐiều 7. Nội dung tài liệu kỹ thuật phục vụ kết nối của cơ sở dữ liệu quốc gia\n1. Tài liệu kỹ thuật phục vụ kết nối\nkhai thác bao gồm:\na) Mô tả thông số kỹ thuật về địa chỉ,\ngiao diện kết nối; các dịch vụ cung cấp dữ liệu; các hàm giao tiếp giữa các hệ thống; công nghệ mã hóa, an toàn, bảo mật và công nghệ, kỹ thuật khác;\nb) Mô tả khả năng đáp ứng yêu cầu về\nkết nối, khả năng cung cấp dữ liệu cho các hệ thống thông tin khai thác tối thiểu theo yêu cầu tại Điều 21 Thông tư này; mô tả trình tự tiếp nhận và kết nối về mặt kỹ thuật;\nc) Cấu trúc dữ liệu trao đổi quy định\nchi tiết tại Chương II của Thông tư này;\nd) Dữ liệu đặc tả: thể hiện các thông\ntin mô tả về tập dữ liệu được trao đổi như thời gian, đơn vị thu thập; thời gian, đơn vị phê duyệt dữ liệu; phạm vi dữ liệu và các thông tin mô tả khác của dữ liệu hoặc tập dữ liệu được thu thập, cập nhật;\nđ) Thông tin về thu thập dữ liệu: thể\nhiện cách thức, tình huống khi thu thập dữ liệu từ thực tế bảo đảm dữ liệu được hiểu thống nhất về ý nghĩa thông tin;\ne) Chất lượng, độ chính xác dữ liệu (nếu\ncó): thể hiện mức độ chính xác khi dữ liệu được thu thập có tính chất gần đúng khi đo đạc hoặc phụ thuộc vào độ chính xác của thiết bị đo;\ng) Thông tin về\ntrình diễn dữ liệu (nếu có): thể hiện cách thức, yêu cầu khi trình diễn dữ liệu trên máy tính, trên bản in hoặc các thiết bị, phương tiện khác để bảo đảm dữ liệu phản ánh đúng thông tin đã thu thập trong trường hợp dữ liệu cần yêu cầu trình diễn.\n2. Tài liệu kỹ thuật phục vụ kết nối\ncập nhật bao gồm:\na) Các nội dung theo quy định tại Khoản\n1 Điều này;\nb) Quy định về các điều kiện duy trì\ndữ liệu bao gồm việc thay đổi, hủy bỏ dữ liệu; về chia sẻ thông tin số giữa các cơ quan nhà nước.\n3. Các nội dung kỹ thuật cần thiết\nkhác theo đặc thù của từng cơ sở dữ liệu quốc gia (nếu có) và các nội dung khác theo hướng dẫn của Bộ Thông tin và Truyền thông.\nChương II\nCẤU TRÚC DỮ LIỆU TRAO ĐỔI\nĐiều 8. Yêu cầu chung đối với cấu trúc dữ liệu trao đổi\n1. Yêu cầu về sự phù hợp giữa các cơ\nsở dữ liệu quốc gia\na) Một thực thể chỉ được định nghĩa bởi\nmột phần tử dữ liệu thống nhất trong các cấu trúc dữ liệu phục vụ trao đổi của các cơ sở dữ liệu quốc gia;\nb) Cấu trúc dữ liệu chứa phần tử dữ\nliệu chung trong các cơ sở dữ liệu quốc gia tuân thủ quy định của cơ quan chủ quản cơ sở dữ liệu quốc gia chứa dữ liệu gốc của phần tử dữ liệu chung đó.\n2. Yêu cầu về khả năng đáp ứng\na) Cấu trúc dữ liệu trao đổi có khả\nnăng mô tả thông điệp dữ liệu trong tình huống nội dung thông tin không thể xác định giá trị hoặc xác định được nhưng không đầy đủ;\nb) Cấu trúc dữ liệu trao đổi có khả\nnăng mô tả thông điệp dữ liệu trong các trường hợp trao đổi: nội dung thông tin có dữ liệu; nội dung thông tin không có dữ liệu và nội dung thông tin có dữ liệu nhưng không được phép trao đổi theo thẩm quyền;\nc) Cấu trúc dữ liệu trao đổi phải\nlinh hoạt trong việc mô tả thông điệp dữ liệu; có sự đa dạng về số lượng thành phần của nội dung thông tin được trao đổi phụ thuộc vào sự phân quyền, yêu cầu truy vấn, khai thác dữ liệu.\nĐiều 9. Yêu cầu chung đối với mô hình dữ liệu trong cấu trúc dữ liệu trao đổi Mô hình dữ liệu trong cấu trúc dữ liệu trao đổi phải đáp ứng các yêu cầu sau:\n1. Chỉ định nghĩa phần tử dữ liệu mô\ntả các thực thể cần thiết phục vụ nghiệp vụ quản lý nhà nước và cần trao đổi giữa các hệ thống thông tin với cơ sở dữ liệu quốc gia.\n2. Mô tả dữ liệu độc lập với công nghệ\nsử dụng để lưu trữ, xử lý và trao đổi được sử dụng trong các hệ thống thông tin trừ các công nghệ được quy định tại Thông tư này.\nĐiều 10. Các thành phần của mô hình dữ liệu\n1. Sơ đồ: hiển thị dưới dạng đồ họa,\nbản vẽ các phân tử dữ liệu, thuộc tính, mối quan hệ giữa các phần tử dữ liệu.\n2. Phần tử dữ liệu.\n3. Thuộc tính (trường dữ liệu): những\nđặc tính, tính chất của các phân tử dữ liệu thể hiện bằng giá trị.\n4. Mối quan hệ giữa hai phần tử dữ liệu\ndựa trên ràng buộc trong nghiệp vụ.\n5. Liệt kê các phần tử dữ liệu, thuộc\ntính và các thông tin mô tả, ràng buộc dữ liệu khác có giải thích ý nghĩa chi tiết kèm theo.\nĐiều 11. Các mức độ chi tiết mô hình dữ liệu Mô hình dữ liệu trong cấu trúc dữ liệu phải bao gồm các mức độ chi tiết sau:\n1. Mô hình dữ liệu mức khái niệm.\n2. Mô hình dữ liệu mức logic.\n3. Mô hình dữ liệu mức vật lý.\nĐiều 12. Yêu cầu đối với mô hình dữ liệu mức khái niệm Mô hình dữ liệu mức khái niệm phải đáp ứng các yêu cầu sau:\n1. Cung cấp thông tin tổng quát về phạm\nvi của toàn bộ dữ liệu được trao đổi giữa các hệ thống thông tin với cơ sở dữ liệu quốc gia; tạo cơ sở cho việc phân định vai trò trách nhiệm của các cơ quan nhà nước trong việc xây dựng, cung cấp, duy trì, quản lý, thiết lập quyền chia sẻ nội dung trong cơ sở dữ liệu.\n2. Bao gồm một số hữu hạn các phần tử\ndữ liệu quan trọng nhất thể hiện nội dung chính của dữ liệu được trao đổi; các nội dung thông tin được quy định trực tiếp trong các văn bản quy phạm pháp luật (nếu có); phần tử dữ liệu chỉ bao gồm các thuộc tính cơ bản, đại diện, thể hiện đặc tính chủ yếu.\n3. Định dạng mô tả: sử dụng ngôn ngữ\nUML (sơ đồ lớp không kèm phương thức) và mô tả kèm theo; phù hợp với bộ tiêu chuẩn quốc gia TCVN 7789:2007 (ISO/IEC 11179) về sổ đăng ký siêu dữ liệu.\nĐiều 13. Yêu cầu đối với mô hình dữ liệu mức logic Mô hình dữ liệu mức logic phải đáp ứng các yêu cầu sau:\n1. Cung cấp thông tin đầy đủ và toàn\ndiện về nội dung của các thông điệp dữ liệu trao đổi giữa các hệ thống thông tin với cơ sở dữ liệu quốc gia.\n2. Mở rộng và chi tiết hóa mô hình dữ liệu mức khái niệm; chứa toàn bộ các phần\ntử dữ liệu, các thuộc tính của phần tử dữ liệu với các thông tin bao gồm: tên, mô tả, kiểu dữ liệu, phạm vi giá trị, thuộc tính định danh của phần tử dữ liệu.\n3. Định dạng mô tả: sử dụng ngôn ngữ\nUML (sơ đồ lớp không kèm phương thức) và mô tả kèm theo; phù hợp với bộ tiêu chuẩn quốc gia TCVN 7789:2007 (ISO/IEC 11179) về sổ đăng ký siêu dữ liệu.\nĐiều 14. Yêu cầu đối với mô hình dữ liệu mức vật lý Mô hình dữ liệu mức vật lý phải đáp ứng các yêu cầu sau:\n1. Định dạng mô tả: sử dụng ngôn ngữ\nXML, tuân thủ lược đồ XML tiêu chuẩn; cú pháp hoàn chỉnh, rõ ràng, chặt chẽ (well-defined).\n2. Thể hiện đầy đủ cấu trúc dữ liệu của\nmô hình dữ liệu mức logic.\n3. Chỉ rõ không gian tên (namespace)\ncủa lược đồ dữ liệu XML.\n4. Bao gồm mã nguồn lược đồ XML.\n5. Đáp ứng đủ điều kiện để sử dụng trực\ntiếp phục vụ trích xuất dữ liệu từ cơ sở dữ liệu quốc gia sang thông điệp dữ liệu trao đổi hoặc phân tích các thông điệp dữ liệu trao đổi được thu nhận từ cơ sở dữ liệu quốc gia của các hệ thống thông tin.\nĐiều 15. Sử dụng bảng danh mục và mã trong cấu trúc dữ liệu trao đổi\n1. Cấu trúc dữ liệu trao đổi phải sử\ndụng chung bảng danh mục và mã theo các yêu cầu sau:\na) Thuộc tính của phần tử dữ liệu mô\ntả thông tin thuộc các bảng danh mục và mã được cơ quan nhà nước có thẩm quyền ban hành, sử dụng giá trị mã tương ứng trong bảng danh mục và mã đó;\nb) Trường hợp có nhiều bảng danh mục\nvà mã được ban hành thì ưu tiên sử dụng bảng danh mục và mã được sử dụng phổ biến bởi nhiều hệ thống thông tin hiện hành;\nc) Bảng danh mục và mã được sử dụng\nphải được chỉ rõ trong các tài liệu mô tả và công bố cho các cơ quan, đơn vị có liên quan sử dụng.\n2. Cục Tin học\nhóa - Bộ Thông tin và Truyền thông tổng hợp bảng danh mục và mã sử dụng chung; hướng dẫn áp dụng bảng danh mục và mã sử dụng trong cấu trúc dữ liệu trao đổi.\nChương III\nMÔ HÌNH KẾT NỐI\nVÀ YÊU CẦU KỸ THUẬT TỐI THIỂU PHỤC VỤ KẾT NỐI\nĐiều 16. Mô hình kết nối\n1. Mô hình kết nối hệ thống thông tin\nvới cơ sở dữ liệu quốc gia thực hiện theo các trường hợp sau:\na) Kết nối thông qua LGSP và NGSP;\nb) Kết nối thông qua NGSP trong trường\nhợp LGSP chưa sẵn sàng;\nc) Kết nối thông qua LGSP trong trường\nhợp NGSP chưa sẵn sàng;\nd) Kết nối trực tiếp đến các cơ sở dữ\nliệu quốc gia trong các trường hợp NGSP và LGSP chưa sẵn sàng.\n2. Trong trường hợp NGSP hoặc LGSP sẵn\nsàng nhưng không đáp ứng được yêu cầu phục vụ kết nối, chủ quản hệ thống thông tin phải báo cáo và đề xuất phương án kết nối với cơ quan quản lý cấp trên xem xét, quyết định.\nĐiều 17. Chức năng của NGSP và LGSP Chức năng của NGSP và LGSP trong kết nối các hệ thống thông tin với cơ sở dữ liệu quốc gia bao gồm:\n1. Tiếp nhận, chuyển tiếp yêu cầu dữ\nliệu, dữ liệu từ các hệ thống thông tin đến cơ sở dữ liệu quốc gia và ngược lại.\n2. Hỗ trợ chuyển đổi kỹ thuật để đáp ứng\nsự tương thích về giao thức, định dạng dữ liệu và các yếu tố kỹ thuật khác.\n3. Các chức năng\ncần thiết khác theo hướng dẫn của Cục Tin học hóa - Bộ Thông tin và Truyền thông theo yêu cầu thực tế.\nĐiều 18. Định dạng dữ liệu Định dạng dữ liệu phải đáp ứng các yêu cầu sau:\n1. Ngôn ngữ để mô tả dữ liệu trong tệp\ndữ liệu, thông điệp dữ liệu trao đổi là ngôn ngữ XML. Dữ liệu được mô tả bằng ngôn ngữ XML sử dụng bộ trình diễn ký tự UTF8.\n2. Nội dung dữ liệu chặt chẽ, đúng cú\npháp (well-defined); tuân thủ và tham chiếu đến lược đồ dữ liệu XML qua không gian tên (namespace).\n3. Các thông tin, dữ liệu thuộc phạm\nvi chuyên ngành đặc thù sử dụng các ngôn ngữ mô tả mở rộng từ ngôn ngữ XML phù hợp.\nĐiều 19. Sử dụng tiêu chuẩn kỹ thuật về giao thức kết nối Yêu cầu sử dụng các tiêu chuẩn kỹ thuật về giao thức trong kết nối bao gồm:\n1. Sử dụng bộ giao thức mạng TCP/IP để\ntrao đổi dữ liệu trong môi trường mạng.\n2. Sử dụng giao thức HTTP hoặc HTTPS\n(yêu cầu trong trường hợp bảo mật dữ liệu) để truy cập dịch vụ cung cấp dữ liệu.\n3. Sử dụng dịch vụ web (Web service)\nlàm phương thức để kết nối giữa các hệ thống thông tin với cơ sở dữ liệu quốc gia.\n4. Sử dụng ngôn\nngữ WSDL trong dịch vụ mô tả dịch vụ web.\n5. Sử dụng giao thức SOAP để đóng gói\nyêu cầu và dữ liệu phục vụ trao đổi giữa các hệ thống thông tin.\nĐiều 20. Giao diện khai thác dữ liệu\n1. Lược đồ dữ liệu XML phải được xây\ndựng và đặt không gian tên (namespace) trùng với địa chỉ trang thông tin điện tử hoặc cổng thông tin điện tử chính thức của cơ quan chủ quản cơ sở dữ liệu quốc gia và có thể tải về lược đồ dữ liệu qua địa chỉ đó.\n2. Các dịch vụ cung cấp dữ liệu được\ntriển khai cùng với dịch vụ mô tả dữ liệu bằng ngôn ngữ WSDL.\nĐiều 21. Chức năng và đặc tính cơ sở dữ liệu quốc gia Cơ sở dữ liệu quốc gia phải có các chức năng và đặc tính cơ bản phục vụ kết nối với các hệ thống thông tin như sau:\n1. Cung cấp dữ liệu theo phạm vi\na) Cung cấp dữ liệu đơn lẻ phục vụ sử\ndụng trực tiếp cho các hệ thống thông tin;\nb) Cung cấp dữ liệu theo gói phục vụ\ncác hệ thống thông tin lưu trữ và sử dụng.\n2. Cung cấp dữ liệu theo thời gian cập\nnhật\na) Cung cấp dữ liệu đầy đủ theo yêu cầu\nkhông phụ thuộc vào thời điểm cập nhật dữ liệu;\nb) Cung cấp dữ liệu đã thay đổi từ thời\nđiểm được chỉ định cho tới thời điểm yêu cầu cung cấp dữ liệu.\n3. Cung cấp dữ\nliệu theo đặc điểm lịch sử của dữ liệu\na) Cung cấp dữ liệu có giá trị tại thời\nđiểm yêu cầu (mặc định, khi không được chỉ định đặc tính thời gian của dữ liệu);\nb) Cung cấp dữ liệu có giá trị tại thời\nđiểm được chỉ định (trong trường hợp cơ sở dữ liệu quốc gia có lưu trữ dữ liệu lịch sử).\n4. Cung cấp dữ liệu chủ động/thụ động\na) Cung cấp dữ liệu thụ động khi có\nyêu cầu khai thác từ các hệ thống thông tin;\nb) Chủ động thông báo hoặc cung cấp dữ\nliệu cho các hệ thống thông tin theo yêu cầu đăng ký trước.\n5. Tần suất cung cấp dữ liệu của cơ sở\ndữ liệu quốc gia đối với hệ thống thông tin kết nối vào cơ sở dữ liệu quốc gia\na) Cung cấp dữ liệu trực tuyến ngay\nsau khi được yêu cầu;\nb) Cung cấp dữ liệu theo định kỳ\ntrong trường hợp dữ liệu lớn và không có sẵn.\nChương IV\nTỔ CHỨC THỰC HIỆN\nĐiều 22. Xử lý vướng mắc về kỹ thuật kết nối\n1. Trong trường\nhợp có vướng mắc về kỹ thuật trong việc kết nối các hệ thống thông tin với cơ sở dữ liệu quốc gia, chủ quản hệ thống thông tin chủ trì phối hợp với các bên liên quan giải quyết vướng mắc.\n2. Trong trường\nhợp không thống nhất được phương án giải quyết với các bên liên quan, chủ quản hệ thống thông tin có trách nhiệm gửi văn bản đề nghị Bộ Thông tin và Truyền thông để giải quyết theo mẫu tại Phụ lục ban hành kèm theo Thông tư này.\n3. Bộ Thông tin và Truyền thông chủ\ntrì, phối hợp với các bên liên quan giải quyết vướng mắc về kỹ thuật trong kết nối.\nĐiều 23. Trách nhiệm của các cơ quan chủ quản cơ sở dữ liệu quốc gia\n1. Thực hiện các\nyêu cầu kỹ thuật về kết nối theo quy định tại Thông tư này và các quy định của pháp luật có liên quan.\n2. Chủ trì phối\nhợp với Cục Tin học hóa - Bộ Thông tin và Truyền thông và các cơ quan có liên quan xây dựng, ban hành các tài liệu kỹ thuật phục vụ kết nối của cơ sở dữ liệu quốc gia; lấy ý kiến đồng thuận của Bộ Thông tin và Truyền thông trước khi ban hành.\n3. Tuân thủ các tài liệu kỹ thuật đã ban hành khi xây dựng, vận hành cơ sở dữ liệu quốc gia; triển\nkhai các biện pháp bảo đảm an toàn thông tin cho cơ sở dữ liệu quốc gia trong quá trình trao đổi dữ liệu với các hệ thống thông tin.\n4. Chủ trì phối hợp với Bộ Thông tin\nvà Truyền thông (Cục Tin học hóa) hướng dẫn, hỗ trợ, phối hợp các chủ quản hệ thống thông tin thực hiện triển khai kết nối; giải thích, làm rõ các nội dung liên quan đến các tài liệu của cơ sở dữ liệu quốc gia khi có yêu cầu; cập nhật tài liệu và thông báo cho các bên có liên quan khi có sự thay đổi các thông số kết nối.\n5. Đối với cơ sở dữ liệu quốc gia đã\nđược vận hành trước thời điểm Thông tư này có hiệu lực, cơ quan chủ quản cơ sở dữ liệu quốc gia có trách nhiệm:\na) Rà soát hiện trạng cơ sở dữ liệu\nquốc gia đang vận hành để đáp ứng khả năng kết nối và thực hiện các quy định tại Thông tư này;\nb) Xây dựng các tài liệu được quy định\ntrong Thông tư này bảo đảm khả năng kết nối với các hệ thống thông tin;\nc) Căn cứ các tài liệu được xây dựng\nvà các quy định kỹ thuật, tổ chức thực hiện sửa đổi các hạng mục, thành phần chịu trách nhiệm tiếp nhận kết nối với các hệ thống thông tin nếu chưa đáp ứng được yêu cầu.\n6. Tổng hợp về tình hình kết nối, cập\nnhật dữ liệu của cơ sở dữ liệu quốc gia; tình hình thực hiện các quy định tại Thông tư này gửi Bộ Thông tin và Truyền thông trước ngày 15 tháng 12 hàng năm.\nĐiều 24. Trách nhiệm của chủ quản hệ thống thông tin\n1. Thực hiện các\nquy định về kết nối được quy định tại Thông tư này và các quy định của pháp luật có liên quan.\n2. Tuân thủ các tài liệu kỹ thuật của\ncơ sở dữ liệu quốc gia khi xây dựng các hệ thống thông tin, triển khai kết nối.\n3. Thông báo, phản ánh về tình hình kết\nnối, khai thác cơ sở dữ liệu quốc gia với cơ quan chủ quản cơ sở dữ liệu quốc gia và đơn vị chuyên trách về công nghệ thông tin thuộc Bộ, ngành, địa phương mình.\nĐiều 25. Trách nhiệm của đơn vị chuyên trách về công nghệ thông tin của các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ; Sở Thông tin và Truyền thông các tỉnh, thành phố trực thuộc Trung ương\n1. Tổ chức hướng\ndẫn, phổ biến, đôn đốc các cơ quan, đơn vị thuộc Bộ, ngành địa phương mình thực hiện các quy định tại Thông tư này.\n2. Chủ trì phối\nhợp với cơ quan nhà nước có thẩm quyền thực hiện kết nối hoặc hướng dẫn các cơ quan nhà nước thuộc Bộ, ngành, địa phương mình kết nối đến cơ sở dữ liệu quốc gia hoặc thông qua LGSP kết nối đến cơ sở dữ liệu quốc gia.\n3. Thực hiện kết\nnối LGSP với NGSP hoặc LGSP với cơ sở dữ liệu quốc gia theo quy định tại Thông tư này, phù hợp với Khung kiến trúc Chính phủ điện tử Việt Nam.\n4. Tổng hợp việc\nthực hiện các quy định tại Thông tư này, kết quả thực hiện kết nối đến cơ sở dữ liệu quốc gia của các cơ quan nhà nước thuộc Bộ, ngành, địa phương mình; báo cáo Bộ Thông tin và Truyền thông trước ngày 15 tháng 12 hàng năm.\nĐiều 26. Trách nhiệm của các cơ quan, đơn vị thuộc Bộ Thông tin và Truyền thông\n1. Trách nhiệm của Cục Tin học hóa\na) Phổ biến, hướng dẫn việc thực hiện\ncác nội dung của Thông tư; tham mưu cho Bộ Thông tin và Truyền thông xử lý các vấn đề phát sinh trong quá trình thực hiện Thông tư;\nb) Tổ chức kiểm tra việc tuân thủ các\nquy định tại Thông tư này;\nc) Làm đầu mối tiếp nhận, giải quyết\ncác vướng mắc kỹ thuật trong quá trình triển khai kết nối;\nd) Đôn đốc, theo dõi, tổng hợp tình\nhình kết nối các hệ thống thông tin với các cơ sở dữ liệu quốc gia;\nđ) Xây dựng, quản lý, vận hành NGSP bảo đảm kết nối các hệ thống thông tin với cơ sở dữ\nliệu quốc gia tuân thủ các quy định tại Thông tư này và Khung kiến trúc Chính phủ điện tử Việt Nam.\n2. Trách nhiệm của Cục An toàn thông\ntin\na) Hướng dẫn các cơ quan, tổ chức thực\nhiện các biện pháp, giải pháp nhằm bảo đảm an toàn thông tin trong kết nối trao đổi dữ liệu với cơ sở dữ liệu quốc gia.\nb) Đôn đốc, kiểm tra theo thẩm quyền\ncông tác bảo đảm an toàn hệ thống thông tin, phương án kết nối an toàn giữa hệ thống thông tin với cơ sở dữ liệu quốc gia.\nĐiều 27. Hiệu lực và trách nhiệm thi hành\n1. Thông tư này\ncó hiệu lực thi hành kể từ ngày 10 tháng 8 năm 2017.\n2. Chánh Văn\nphòng, Thủ trưởng các cơ quan, đơn vị thuộc Bộ Thông tin và Truyền thông và các cơ quan, tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này.\n3. Trong quá\ntrình thực hiện, nếu có vướng mắc, đề nghị các cơ quan, tổ chức, cá nhân phản ánh kịp thời về Bộ Thông tin và Truyền thông để xem xét, giải quyết./.\nNơi nhận:\n- Thủ tướng và các Phó\nThủ tướng Chính phủ (để b/c);\n- Văn phòng Trung ương Đảng;\n- Văn phòng Tổng Bí thư;\n- Văn phòng Quốc hội;\n- Hội đồng dân tộc và các Ủy ban\ncủa Quốc hội;\n- Văn phòng Chủ tịch nước;\n- Cơ quan Trung ương của các\nđoàn thể;\n- Tòa án nhân dân tối cao;\n- Viện Kiểm sát nhân dân tối\ncao;\n- Kiểm toán Nhà nước;\n- Các Bộ, cơ quan ngang Bộ, cơ\nquan thuộc Chính phủ;\n- Ủy ban nhân dân các tỉnh, thành phố trực thuộc TW;\n- Ủy ban quốc gia về ứng dụng CNTT;\n- Cục kiểm tra VBQPPL (Bộ Tư pháp);\n- Đơn vị chuyên trách CNTT các Bộ,\ncơ quan ngang Bộ, cơ quan thuộc Chính phủ;\n- Sở TTTT các tỉnh, thành phố trực thuộc TW;\n- Bộ TTTT: Bộ trưởng và các Thứ trưởng; các cơ quan, đơn vị thuộc Bộ; Cổng\nTTĐT Bộ;\n- Công báo, Cổng TTĐT Chính phủ;\n- Lưu: VT, THH (5b).\nBỘ TRƯỞNG\nTrương Minh Tuấn\nPHỤ LỤC\nMẪU ĐỀ NGHỊ GIẢI QUYẾT VƯỚNG MẮC KỸ THUẬT\nKẾT NỐI\n(Ban hành kèm theo Thông tư số\n13/2017/TT-BTTTT ngày 23 tháng 6 năm 2017 của Bộ trưởng Bộ Thông tin và Truyền thông)\nTÊN CƠ QUAN\n-------\nCỘNG\nHÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc --------------- Số: ……….. …………, ngày ….. tháng … năm ….\nĐỀ\nNGHỊ GIẢI QUYẾT VƯỚNG MẮC KỸ THUẬT KẾT NỐI\nKính gửi: Bộ Thông tin và Truyền thông - Căn cứ Luật Công nghệ thông tin ngày 29 tháng 6 năm 2006; - Căn cứ……… ; - Căn cứ Thông tư số …./2017/TT-BTTTT ngày tháng năm của Bộ trưởng Bộ Thông tin và Truyền thông quy định các yêu cầu kỹ thuật về kết nối các hệ thống thông tin, cơ sở dữ liệu với cơ sở dữ liệu quốc gia; (Tên cơ quan) đề nghị giải quyết vướng mắc kỹ thuật kết nối các hệ thống thông tin với cơ sở dữ liệu quốc gia như sau: Phần A: Thông tin chung\n1. Tên đơn vị cần\nkết nối .................................................................................................... Đầu mối liên hệ: ................................................................................................................. Điện thoại ……………………………………email ...............................................................\n2. Tên hệ thống thông tin cần kết nối\n.................................................................................\n3. Cơ sở dữ liệu quốc gia cần kết nối\n.................................................................................\n4. Mục đích kết nối: .............................................................................................................\nPhần B: Nội dung vướng mắc kỹ thuật\n1. Mô tả vướng\nmắc kỹ thuật trong việc thực hiện kết nối .................................................. .............................................................................................................................................\n2. Đã liên hệ với cơ quan chủ quản cơ\nsở dữ liệu quốc gia nhưng chưa giải quyết được vướng mắc. Đầu mối đã tiếp nhận và xử lý vướng mắc của cơ quan chủ quản cơ sở dữ liệu quốc gia: (đơn vị, tên đầu mối, số điện thoại và email liên lạc)\n3. Kết quả giải quyết vướng mắc kỹ\nthuật bởi cơ quan chủ quản cơ sở dữ liệu quốc gia: ............................................................................................................................................. .............................................................................................................................................\n4. Vấn đề còn tồn tại:\n............................................................................................................................................. Phần C: Đề nghị Đề nghị Bộ Thông tin và Truyền thông giải quyết những vấn đề sau: ............................................................................................................................................. ............................................................................................................................................. Phần D: Tài liệu kèm theo Các văn bản gửi cơ quan chủ quản cơ sở dữ liệu quốc gia; các văn bản phản hồi; các tài liệu mô tả vướng mắc kỹ thuật liên quan (nếu có). (Tên cơ quan) cung cấp các tài liệu bổ sung làm rõ các vướng mắc và phối hợp với Bộ Thông tin và Truyền thông giải quyết vướng mắc./.\nNơi nhận:\n- Như trên;\n….\nTHỦ TRƯỞNG CƠ\nQUAN\n(Ký tên, đóng dấu)",
+  "tree": {
+    "parts": [
+      {
+        "part_id": "doc:269688:part:1",
+        "part_type": "main",
+        "part_title": null,
+        "reference": null,
+        "direct_text": "THÔNG TƯ\nQUY ĐỊNH CÁC YÊU CẦU KỸ THUẬT VỀ KẾT NỐI CÁC HỆ THỐNG THÔNG TIN, CƠ SỞ\nDỮ LIỆU VỚI CƠ SỞ DỮ LIỆU QUỐC GIA\nCăn cứ Luật Công nghệ thông tin ngày 29 tháng 6 năm 2006; Căn cứ Luật Giao dịch điện tử ngày 29 tháng 11 năm 2005; Căn cứ Luật An toàn thông tin mạng ngày 19 tháng 11 năm 2015; Căn cứ Nghị định số 64/2007/NĐ-CP ngày 10 tháng 4 năm 2007 của Chính phủ về ứng dụng công nghệ thông tin trong hoạt động của cơ quan nhà nước; Căn cứ Nghị định số 85/2016/NĐ-CP ngày 01 tháng 7 năm 2016 của Chính phủ về đảm bảo an toàn hệ thống thông tin theo cấp độ; Căn cứ Nghị định số 17/2017/NĐ-CP ngày 17 tháng 02 năm 2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Thông tin và Truyền thông; Thực hiện Quyết định số 714/QĐ-TTg ngày 22 tháng 5 năm 2015 của Thủ tướng Chính phủ ban hành Danh mục cơ sở dữ liệu quốc gia cần ưu tiên triển khai tạo nền tảng phát triển chính phủ điện tử; Theo đề nghị của Cục trưởng Cục Tin học hóa, Bộ trưởng Bộ Thông tin và Truyền thông ban hành Thông tư quy định các yêu cầu kỹ thuật về kết nối các hệ thống thông tin, cơ sở dữ liệu với cơ sở dữ liệu quốc gia.",
+        "chapters": [
+          {
+            "chapter_id": "doc:269688:part:1:chapter:1",
+            "number": "I",
+            "title": "QUY ĐỊNH CHUNG",
+            "content": "Chương I\nQUY ĐỊNH CHUNG",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:269688:part:1:article:1",
+                "number": "1",
+                "title": "Phạm vi điều chỉnh Thông tư này quy định các yêu cầu kỹ thuật về kết nối các hệ thống thông tin, cơ sở dữ liệu với cơ sở dữ liệu quốc gia (sau đây gọi tắt là kết nối), bao gồm: nguyên tắc, yêu cầu kỹ thuật, tài liệu kỹ thuật, cấu trúc dữ liệu trao đổi phục vụ kết nối; trách nhiệm của các bên liên quan thực hiện kết nối.",
+                "content": "Điều 1. Phạm vi điều chỉnh Thông tư này quy định các yêu cầu kỹ thuật về kết nối các hệ thống thông tin, cơ sở dữ liệu với cơ sở dữ liệu quốc gia (sau đây gọi tắt là kết nối), bao gồm: nguyên tắc, yêu cầu kỹ thuật, tài liệu kỹ thuật, cấu trúc dữ liệu trao đổi phục vụ kết nối; trách nhiệm của các bên liên quan thực hiện kết nối.",
+                "clauses": [],
+                "points": []
+              },
+              {
+                "article_id": "doc:269688:part:1:article:2",
+                "number": "2",
+                "title": "Đối tượng áp dụng Thông tư này áp dụng đối với cơ quan chủ quản cơ sở dữ liệu quốc gia, chủ quản hệ thống thông tin kết nối với cơ sở dữ liệu quốc gia; đơn vị chuyên trách về công nghệ thông tin của các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ; Sở Thông tin và Truyền thông các tỉnh, thành phố trực thuộc Trung ương.",
+                "content": "Điều 2. Đối tượng áp dụng Thông tư này áp dụng đối với cơ quan chủ quản cơ sở dữ liệu quốc gia, chủ quản hệ thống thông tin kết nối với cơ sở dữ liệu quốc gia; đơn vị chuyên trách về công nghệ thông tin của các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ; Sở Thông tin và Truyền thông các tỉnh, thành phố trực thuộc Trung ương.",
+                "clauses": [],
+                "points": []
+              },
+              {
+                "article_id": "doc:269688:part:1:article:3",
+                "number": "3",
+                "title": "Giải thích từ ngữ Trong Thông tư này, các từ ngữ và chữ viết tắt dưới đây được hiểu như sau:",
+                "content": "Điều 3. Giải thích từ ngữ Trong Thông tư này, các từ ngữ và chữ viết tắt dưới đây được hiểu như sau:",
+                "clauses": [
+                  {
+                    "clause_id": "doc:269688:part:1:article:3:clause:1",
+                    "number": "1",
+                    "content": "1. Hệ thống thông tin được quy định\ntrong Thông tư này bao gồm hệ thống thông tin, cơ sở dữ liệu kết nối với cơ sở dữ liệu quốc gia theo quy định của pháp luật.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:269688:part:1:article:3:clause:2",
+                    "number": "2",
+                    "content": "2. Kết nối khai thác: là kết nối giữa\nhệ thống thông tin với cơ sở dữ liệu quốc gia để truy vấn và nhận dữ liệu có trong cơ sở dữ liệu quốc gia.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:269688:part:1:article:3:clause:3",
+                    "number": "3",
+                    "content": "3. Kết nối cập nhật: là kết nối giữa\nhệ thống thông tin với cơ sở dữ liệu quốc gia để khai thác dữ liệu từ cơ sở dữ liệu quốc gia và bổ sung, cập nhật dữ liệu vào cơ sở dữ liệu quốc gia. 4 Cấu trúc dữ liệu trao đổi: là cấu trúc của các thông điệp dữ liệu được trao đổi giữa cơ sở dữ liệu quốc gia và các hệ thống thông tin có kết nối với cơ sở dữ liệu quốc gia.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:269688:part:1:article:3:clause:4",
+                    "number": "5",
+                    "content": "5. Thực thể\n(entity): là sự vật cụ thể hoặc trừu tượng đã, đang và sẽ tồn tại trên thực tế gồm cả các mối liên kết giữa các sự vật này.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:269688:part:1:article:3:clause:5",
+                    "number": "6",
+                    "content": "6. Phần tử dữ liệu (data element): là\nđơn vị mô tả dữ liệu bao gồm một tập các thuộc tính và đại diện cho các thực thể cùng tập thuộc tính đó.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:269688:part:1:article:3:clause:6",
+                    "number": "7",
+                    "content": "7. Mô hình dữ liệu (data model): là\nthiết kế kỹ thuật sử dụng các ký hiệu, ngôn ngữ để thể hiện cấu trúc, nội dung của dữ liệu.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:269688:part:1:article:3:clause:7",
+                    "number": "8",
+                    "content": "8. Mô hình dữ liệu mức khái niệm\n(conceptual data model): là mô hình dữ liệu mức tổng quát, thể hiện các phần tử dữ liệu cơ bản và mối quan hệ giữa chúng.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:269688:part:1:article:3:clause:8",
+                    "number": "9",
+                    "content": "9. Mô hình dữ liệu mức logic (logical\ndata model): là mô hình dữ liệu thể hiện chi tiết mô hình dữ liệu mức khái niệm, mô tả nội dung đầy đủ của dữ liệu cần phản ánh và độc lập với công nghệ được sử dụng.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:269688:part:1:article:3:clause:9",
+                    "number": "10",
+                    "content": "10. Mô hình dữ liệu mức vật lý\n(physical data model): là mô hình dữ liệu chi tiết của mô hình dữ liệu mức logic và triển khai trên cơ sở tiêu chuẩn kỹ thuật, công nghệ được lựa chọn sử dụng.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:269688:part:1:article:3:clause:10",
+                    "number": "11",
+                    "content": "11. Lược đồ XML: là hình thức thể hiện\ncủa mô hình dữ liệu mức vật lý sử dụng nền tảng công nghệ XML.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:269688:part:1:article:3:clause:11",
+                    "number": "12",
+                    "content": "12. LGSP: là nền\ntảng tích hợp, chia sẻ dữ liệu cấp Bộ, cấp tỉnh chứa các dịch vụ dùng chung để chia sẻ dữ liệu giữa các hệ thống thông tin của các cơ quan, đơn vị thuộc phạm vi một Bộ, ngành, địa phương và đóng vai trò trung gian phục vụ kết nối các hệ thống thông tin trong nội bộ của Bộ, ngành, địa phương với các hệ thống bên ngoài; mô hình kết nối của LGSP theo kiến trúc Chính phủ điện tử của cơ quan cấp Bộ chủ quản hoặc kiến trúc chính quyền điện tử của cơ quan cấp tỉnh chủ quản phù hợp Khung kiến trúc Chính phủ điện tử Việt Nam.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:269688:part:1:article:3:clause:12",
+                    "number": "13",
+                    "content": "13. NGSP: là hệ\nthống kết nối, liên thông các hệ thống thông tin ở Trung ương và địa phương; đóng vai trò trung gian phục vụ kết nối giữa các hệ thống thông tin lớn (hệ thống thông tin quốc gia; cơ sở dữ liệu quốc gia; hệ thống thông tin có quy mô, phạm vi từ Trung ương đến địa phương), giữa các hệ thống thông tin của các cơ quan cấp Bộ, cấp tỉnh khác nhau hoặc giữa các LGSP; mô hình kết nối của NGSP theo Khung kiến trúc Chính phủ điện tử Việt Nam.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:269688:part:1:article:3:clause:13",
+                    "number": "14",
+                    "content": "14. XML, UML,\nTCP, IP, WSDL, SOAP, UTF8, HTTP, HTTPS: là các tiêu chuẩn kỹ thuật thuộc Danh mục tiêu chuẩn kỹ thuật về ứng dụng công nghệ thông tin trong cơ quan nhà nước được Bộ Thông tin và Truyền thông ban hành.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:269688:part:1:article:4",
+                "number": "4",
+                "title": "Nguyên tắc kết nối",
+                "content": "Điều 4. Nguyên tắc kết nối",
+                "clauses": [
+                  {
+                    "clause_id": "doc:269688:part:1:article:4:clause:1",
+                    "number": "1",
+                    "content": "1. Tuân thủ các\nquy định tại Điều 7 và Điều 13 Nghị định số 64/2007/NĐ-CP ngày 10/4/2007 của Chính phủ về ứng dụng công nghệ thông tin trong hoạt động của cơ quan nhà nước.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:269688:part:1:article:4:clause:2",
+                    "number": "2",
+                    "content": "2. Bảo đảm quyền khai thác dữ liệu hợp pháp theo quy định\ncủa pháp luật; không làm hạn chế quyền khai thác, sử dụng cơ sở dữ liệu quốc gia của các cơ quan nhà nước, tổ chức, cá nhân do yếu tố kỹ thuật.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:269688:part:1:article:4:clause:3",
+                    "number": "3",
+                    "content": "3. Tuân thủ các\nquy định của pháp luật về an toàn thông tin mạng, các quy định về bảo đảm an toàn hệ thống thông tin theo cấp độ đối với cơ sở dữ liệu quốc gia và các hệ thống thông tin kết nối với cơ sở dữ liệu quốc gia.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:269688:part:1:article:4:clause:4",
+                    "number": "4",
+                    "content": "4. Phù hợp với\nKhung kiến trúc Chính phủ điện tử Việt Nam, kiến trúc Chính phủ điện tử cấp bộ, kiến trúc chính quyền điện tử cấp tỉnh.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:269688:part:1:article:5",
+                "number": "5",
+                "title": "Điều kiện kết nối",
+                "content": "Điều 5. Điều kiện kết nối",
+                "clauses": [
+                  {
+                    "clause_id": "doc:269688:part:1:article:5:clause:1",
+                    "number": "1",
+                    "content": "1. Đối với kết nối khai thác",
+                    "points": [
+                      {
+                        "point_id": "doc:269688:part:1:article:5:clause:1:point:1",
+                        "label": "a",
+                        "content": "a) Hệ thống thông tin và cơ sở dữ liệu\nquốc gia phải cùng tuân thủ các yêu cầu kỹ thuật được quy định tại Thông tư này;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269688:part:1:article:5:clause:1:point:2",
+                        "label": "b",
+                        "content": "b) Tài liệu kỹ thuật phục vụ kết nối\ncủa cơ sở dữ liệu quốc gia phải đáp ứng các quy định tại Điều 6, Điều 7 Thông tư này; hệ thống thông tin phải tuân thủ các tài liệu kỹ thuật phục vụ kết nối của cơ sở dữ liệu quốc gia đã ban hành.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:269688:part:1:article:5:clause:2",
+                    "number": "2",
+                    "content": "2. Đối với kết nối cập nhật",
+                    "points": [
+                      {
+                        "point_id": "doc:269688:part:1:article:5:clause:2:point:1",
+                        "label": "a",
+                        "content": "a) Đáp ứng các điều kiện kết nối khai\nthác tại Khoản 1 Điều này;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269688:part:1:article:5:clause:2:point:2",
+                        "label": "b",
+                        "content": "b) Dữ liệu cập nhật bao gồm: thông\ntin định danh của phần tử dữ liệu và thông tin cần cập nhật của phần tử dữ liệu đó; dữ liệu đặc tả của dữ liệu cần cập nhật (trong trường hợp cần thiết);",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269688:part:1:article:5:clause:2:point:3",
+                        "label": "c",
+                        "content": "c) Quy trình kết nối, cập nhật dữ liệu\ntừ các hệ thống thông tin với cơ sở dữ liệu quốc gia phải phù hợp với quy trình nghiệp vụ liên quan theo các quy định về cập nhật dữ liệu với cơ sở dữ liệu quốc gia tương ứng.",
+                        "children": []
+                      }
+                    ]
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:269688:part:1:article:6",
+                "number": "6",
+                "title": "Tài liệu kỹ thuật phục vụ kết nối của cơ sở dữ liệu quốc gia",
+                "content": "Điều 6. Tài liệu kỹ thuật phục vụ kết nối của cơ sở dữ liệu quốc gia",
+                "clauses": [
+                  {
+                    "clause_id": "doc:269688:part:1:article:6:clause:1",
+                    "number": "1",
+                    "content": "1. Cơ quan chủ quản cơ sở dữ liệu quốc\ngia có trách nhiệm xây dựng va ban hành các tài liệu kỹ thuật phục vụ kết nối, khai thác dữ liệu từ cơ sở dữ liệu quốc gia.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:269688:part:1:article:6:clause:2",
+                    "number": "2",
+                    "content": "2. Tài liệu kỹ thuật phục vụ kết nối\ncủa cơ sở dữ liệu quốc gia được ban hành theo một trong các hình thức sau:",
+                    "points": [
+                      {
+                        "point_id": "doc:269688:part:1:article:6:clause:2:point:1",
+                        "label": "a",
+                        "content": "a) Quy chuẩn kỹ thuật quốc gia;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269688:part:1:article:6:clause:2:point:2",
+                        "label": "b",
+                        "content": "b) Quy định kỹ thuật.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:269688:part:1:article:6:clause:3",
+                    "number": "3",
+                    "content": "3. Tài liệu kỹ thuật phục vụ kết nối\ncủa cơ sở dữ liệu quốc gia được ban hành trước khi dự án xây dựng cơ sở dữ liệu quốc gia được nghiệm thu và đưa vào vận hành. Đối với các cơ sở dữ liệu quốc gia đã được vận hành trước thời điểm Thông tư này có hiệu lực, cơ quan chủ quản cơ sở dữ liệu quốc gia có trách nhiệm xây dựng và ban hành tài liệu kỹ thuật phục vụ kết nối trong thời hạn 12 tháng kể từ ngày Thông tư này có hiệu lực.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:269688:part:1:article:6:clause:4",
+                    "number": "4",
+                    "content": "4. Công bố tài liệu",
+                    "points": [
+                      {
+                        "point_id": "doc:269688:part:1:article:6:clause:4:point:1",
+                        "label": "a",
+                        "content": "a) Tài liệu quy định tại Điểm a Khoản\n1 Điều 7 Thông tư này và các tài liệu khác liên quan đến thông số kết nối được cung cấp cho chủ quản hệ thống thông tin tại thời điểm chấp nhận yêu cầu kết nối;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269688:part:1:article:6:clause:4:point:2",
+                        "label": "b",
+                        "content": "b) Các tài liệu quy định tại Điều 7\nThông tư này phải được gửi Bộ Thông tin và Truyền thông để thống nhất quản lý;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269688:part:1:article:6:clause:4:point:3",
+                        "label": "c",
+                        "content": "c) Các tài liệu quy định tại Điều 7\nThông tư này trừ các tài liệu theo quy định tại Điểm a Khoản này phải được đăng tải trên cổng thông tin điện tử của cơ quan chủ quản cơ sở dữ liệu quốc gia sau khi ban hành.",
+                        "children": []
+                      }
+                    ]
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:269688:part:1:article:7",
+                "number": "7",
+                "title": "Nội dung tài liệu kỹ thuật phục vụ kết nối của cơ sở dữ liệu quốc gia",
+                "content": "Điều 7. Nội dung tài liệu kỹ thuật phục vụ kết nối của cơ sở dữ liệu quốc gia",
+                "clauses": [
+                  {
+                    "clause_id": "doc:269688:part:1:article:7:clause:1",
+                    "number": "1",
+                    "content": "1. Tài liệu kỹ thuật phục vụ kết nối\nkhai thác bao gồm:",
+                    "points": [
+                      {
+                        "point_id": "doc:269688:part:1:article:7:clause:1:point:1",
+                        "label": "a",
+                        "content": "a) Mô tả thông số kỹ thuật về địa chỉ,\ngiao diện kết nối; các dịch vụ cung cấp dữ liệu; các hàm giao tiếp giữa các hệ thống; công nghệ mã hóa, an toàn, bảo mật và công nghệ, kỹ thuật khác;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269688:part:1:article:7:clause:1:point:2",
+                        "label": "b",
+                        "content": "b) Mô tả khả năng đáp ứng yêu cầu về\nkết nối, khả năng cung cấp dữ liệu cho các hệ thống thông tin khai thác tối thiểu theo yêu cầu tại Điều 21 Thông tư này; mô tả trình tự tiếp nhận và kết nối về mặt kỹ thuật;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269688:part:1:article:7:clause:1:point:3",
+                        "label": "c",
+                        "content": "c) Cấu trúc dữ liệu trao đổi quy định\nchi tiết tại Chương II của Thông tư này;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269688:part:1:article:7:clause:1:point:4",
+                        "label": "d",
+                        "content": "d) Dữ liệu đặc tả: thể hiện các thông\ntin mô tả về tập dữ liệu được trao đổi như thời gian, đơn vị thu thập; thời gian, đơn vị phê duyệt dữ liệu; phạm vi dữ liệu và các thông tin mô tả khác của dữ liệu hoặc tập dữ liệu được thu thập, cập nhật;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269688:part:1:article:7:clause:1:point:5",
+                        "label": "đ",
+                        "content": "đ) Thông tin về thu thập dữ liệu: thể\nhiện cách thức, tình huống khi thu thập dữ liệu từ thực tế bảo đảm dữ liệu được hiểu thống nhất về ý nghĩa thông tin;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269688:part:1:article:7:clause:1:point:6",
+                        "label": "e",
+                        "content": "e) Chất lượng, độ chính xác dữ liệu (nếu\ncó): thể hiện mức độ chính xác khi dữ liệu được thu thập có tính chất gần đúng khi đo đạc hoặc phụ thuộc vào độ chính xác của thiết bị đo;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269688:part:1:article:7:clause:1:point:7",
+                        "label": "g",
+                        "content": "g) Thông tin về\ntrình diễn dữ liệu (nếu có): thể hiện cách thức, yêu cầu khi trình diễn dữ liệu trên máy tính, trên bản in hoặc các thiết bị, phương tiện khác để bảo đảm dữ liệu phản ánh đúng thông tin đã thu thập trong trường hợp dữ liệu cần yêu cầu trình diễn.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:269688:part:1:article:7:clause:2",
+                    "number": "2",
+                    "content": "2. Tài liệu kỹ thuật phục vụ kết nối\ncập nhật bao gồm:",
+                    "points": [
+                      {
+                        "point_id": "doc:269688:part:1:article:7:clause:2:point:1",
+                        "label": "a",
+                        "content": "a) Các nội dung theo quy định tại Khoản\n1 Điều này;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269688:part:1:article:7:clause:2:point:2",
+                        "label": "b",
+                        "content": "b) Quy định về các điều kiện duy trì\ndữ liệu bao gồm việc thay đổi, hủy bỏ dữ liệu; về chia sẻ thông tin số giữa các cơ quan nhà nước.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:269688:part:1:article:7:clause:3",
+                    "number": "3",
+                    "content": "3. Các nội dung kỹ thuật cần thiết\nkhác theo đặc thù của từng cơ sở dữ liệu quốc gia (nếu có) và các nội dung khác theo hướng dẫn của Bộ Thông tin và Truyền thông.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:269688:part:1:chapter:2",
+            "number": "II",
+            "title": "CẤU TRÚC DỮ LIỆU TRAO ĐỔI",
+            "content": "Chương II\nCẤU TRÚC DỮ LIỆU TRAO ĐỔI",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:269688:part:1:article:8",
+                "number": "8",
+                "title": "Yêu cầu chung đối với cấu trúc dữ liệu trao đổi",
+                "content": "Điều 8. Yêu cầu chung đối với cấu trúc dữ liệu trao đổi",
+                "clauses": [
+                  {
+                    "clause_id": "doc:269688:part:1:article:8:clause:1",
+                    "number": "1",
+                    "content": "1. Yêu cầu về sự phù hợp giữa các cơ\nsở dữ liệu quốc gia",
+                    "points": [
+                      {
+                        "point_id": "doc:269688:part:1:article:8:clause:1:point:1",
+                        "label": "a",
+                        "content": "a) Một thực thể chỉ được định nghĩa bởi\nmột phần tử dữ liệu thống nhất trong các cấu trúc dữ liệu phục vụ trao đổi của các cơ sở dữ liệu quốc gia;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269688:part:1:article:8:clause:1:point:2",
+                        "label": "b",
+                        "content": "b) Cấu trúc dữ liệu chứa phần tử dữ\nliệu chung trong các cơ sở dữ liệu quốc gia tuân thủ quy định của cơ quan chủ quản cơ sở dữ liệu quốc gia chứa dữ liệu gốc của phần tử dữ liệu chung đó.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:269688:part:1:article:8:clause:2",
+                    "number": "2",
+                    "content": "2. Yêu cầu về khả năng đáp ứng",
+                    "points": [
+                      {
+                        "point_id": "doc:269688:part:1:article:8:clause:2:point:1",
+                        "label": "a",
+                        "content": "a) Cấu trúc dữ liệu trao đổi có khả\nnăng mô tả thông điệp dữ liệu trong tình huống nội dung thông tin không thể xác định giá trị hoặc xác định được nhưng không đầy đủ;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269688:part:1:article:8:clause:2:point:2",
+                        "label": "b",
+                        "content": "b) Cấu trúc dữ liệu trao đổi có khả\nnăng mô tả thông điệp dữ liệu trong các trường hợp trao đổi: nội dung thông tin có dữ liệu; nội dung thông tin không có dữ liệu và nội dung thông tin có dữ liệu nhưng không được phép trao đổi theo thẩm quyền;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269688:part:1:article:8:clause:2:point:3",
+                        "label": "c",
+                        "content": "c) Cấu trúc dữ liệu trao đổi phải\nlinh hoạt trong việc mô tả thông điệp dữ liệu; có sự đa dạng về số lượng thành phần của nội dung thông tin được trao đổi phụ thuộc vào sự phân quyền, yêu cầu truy vấn, khai thác dữ liệu.",
+                        "children": []
+                      }
+                    ]
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:269688:part:1:article:9",
+                "number": "9",
+                "title": "Yêu cầu chung đối với mô hình dữ liệu trong cấu trúc dữ liệu trao đổi Mô hình dữ liệu trong cấu trúc dữ liệu trao đổi phải đáp ứng các yêu cầu sau:",
+                "content": "Điều 9. Yêu cầu chung đối với mô hình dữ liệu trong cấu trúc dữ liệu trao đổi Mô hình dữ liệu trong cấu trúc dữ liệu trao đổi phải đáp ứng các yêu cầu sau:",
+                "clauses": [
+                  {
+                    "clause_id": "doc:269688:part:1:article:9:clause:1",
+                    "number": "1",
+                    "content": "1. Chỉ định nghĩa phần tử dữ liệu mô\ntả các thực thể cần thiết phục vụ nghiệp vụ quản lý nhà nước và cần trao đổi giữa các hệ thống thông tin với cơ sở dữ liệu quốc gia.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:269688:part:1:article:9:clause:2",
+                    "number": "2",
+                    "content": "2. Mô tả dữ liệu độc lập với công nghệ\nsử dụng để lưu trữ, xử lý và trao đổi được sử dụng trong các hệ thống thông tin trừ các công nghệ được quy định tại Thông tư này.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:269688:part:1:article:10",
+                "number": "10",
+                "title": "Các thành phần của mô hình dữ liệu",
+                "content": "Điều 10. Các thành phần của mô hình dữ liệu",
+                "clauses": [
+                  {
+                    "clause_id": "doc:269688:part:1:article:10:clause:1",
+                    "number": "1",
+                    "content": "1. Sơ đồ: hiển thị dưới dạng đồ họa,\nbản vẽ các phân tử dữ liệu, thuộc tính, mối quan hệ giữa các phần tử dữ liệu.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:269688:part:1:article:10:clause:2",
+                    "number": "2",
+                    "content": "2. Phần tử dữ liệu.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:269688:part:1:article:10:clause:3",
+                    "number": "3",
+                    "content": "3. Thuộc tính (trường dữ liệu): những\nđặc tính, tính chất của các phân tử dữ liệu thể hiện bằng giá trị.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:269688:part:1:article:10:clause:4",
+                    "number": "4",
+                    "content": "4. Mối quan hệ giữa hai phần tử dữ liệu\ndựa trên ràng buộc trong nghiệp vụ.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:269688:part:1:article:10:clause:5",
+                    "number": "5",
+                    "content": "5. Liệt kê các phần tử dữ liệu, thuộc\ntính và các thông tin mô tả, ràng buộc dữ liệu khác có giải thích ý nghĩa chi tiết kèm theo.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:269688:part:1:article:11",
+                "number": "11",
+                "title": "Các mức độ chi tiết mô hình dữ liệu Mô hình dữ liệu trong cấu trúc dữ liệu phải bao gồm các mức độ chi tiết sau:",
+                "content": "Điều 11. Các mức độ chi tiết mô hình dữ liệu Mô hình dữ liệu trong cấu trúc dữ liệu phải bao gồm các mức độ chi tiết sau:",
+                "clauses": [
+                  {
+                    "clause_id": "doc:269688:part:1:article:11:clause:1",
+                    "number": "1",
+                    "content": "1. Mô hình dữ liệu mức khái niệm.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:269688:part:1:article:11:clause:2",
+                    "number": "2",
+                    "content": "2. Mô hình dữ liệu mức logic.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:269688:part:1:article:11:clause:3",
+                    "number": "3",
+                    "content": "3. Mô hình dữ liệu mức vật lý.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:269688:part:1:article:12",
+                "number": "12",
+                "title": "Yêu cầu đối với mô hình dữ liệu mức khái niệm Mô hình dữ liệu mức khái niệm phải đáp ứng các yêu cầu sau:",
+                "content": "Điều 12. Yêu cầu đối với mô hình dữ liệu mức khái niệm Mô hình dữ liệu mức khái niệm phải đáp ứng các yêu cầu sau:",
+                "clauses": [
+                  {
+                    "clause_id": "doc:269688:part:1:article:12:clause:1",
+                    "number": "1",
+                    "content": "1. Cung cấp thông tin tổng quát về phạm\nvi của toàn bộ dữ liệu được trao đổi giữa các hệ thống thông tin với cơ sở dữ liệu quốc gia; tạo cơ sở cho việc phân định vai trò trách nhiệm của các cơ quan nhà nước trong việc xây dựng, cung cấp, duy trì, quản lý, thiết lập quyền chia sẻ nội dung trong cơ sở dữ liệu.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:269688:part:1:article:12:clause:2",
+                    "number": "2",
+                    "content": "2. Bao gồm một số hữu hạn các phần tử\ndữ liệu quan trọng nhất thể hiện nội dung chính của dữ liệu được trao đổi; các nội dung thông tin được quy định trực tiếp trong các văn bản quy phạm pháp luật (nếu có); phần tử dữ liệu chỉ bao gồm các thuộc tính cơ bản, đại diện, thể hiện đặc tính chủ yếu.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:269688:part:1:article:12:clause:3",
+                    "number": "3",
+                    "content": "3. Định dạng mô tả: sử dụng ngôn ngữ\nUML (sơ đồ lớp không kèm phương thức) và mô tả kèm theo; phù hợp với bộ tiêu chuẩn quốc gia TCVN 7789:2007 (ISO/IEC 11179) về sổ đăng ký siêu dữ liệu.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:269688:part:1:article:13",
+                "number": "13",
+                "title": "Yêu cầu đối với mô hình dữ liệu mức logic Mô hình dữ liệu mức logic phải đáp ứng các yêu cầu sau:",
+                "content": "Điều 13. Yêu cầu đối với mô hình dữ liệu mức logic Mô hình dữ liệu mức logic phải đáp ứng các yêu cầu sau:",
+                "clauses": [
+                  {
+                    "clause_id": "doc:269688:part:1:article:13:clause:1",
+                    "number": "1",
+                    "content": "1. Cung cấp thông tin đầy đủ và toàn\ndiện về nội dung của các thông điệp dữ liệu trao đổi giữa các hệ thống thông tin với cơ sở dữ liệu quốc gia.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:269688:part:1:article:13:clause:2",
+                    "number": "2",
+                    "content": "2. Mở rộng và chi tiết hóa mô hình dữ liệu mức khái niệm; chứa toàn bộ các phần\ntử dữ liệu, các thuộc tính của phần tử dữ liệu với các thông tin bao gồm: tên, mô tả, kiểu dữ liệu, phạm vi giá trị, thuộc tính định danh của phần tử dữ liệu.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:269688:part:1:article:13:clause:3",
+                    "number": "3",
+                    "content": "3. Định dạng mô tả: sử dụng ngôn ngữ\nUML (sơ đồ lớp không kèm phương thức) và mô tả kèm theo; phù hợp với bộ tiêu chuẩn quốc gia TCVN 7789:2007 (ISO/IEC 11179) về sổ đăng ký siêu dữ liệu.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:269688:part:1:article:14",
+                "number": "14",
+                "title": "Yêu cầu đối với mô hình dữ liệu mức vật lý Mô hình dữ liệu mức vật lý phải đáp ứng các yêu cầu sau:",
+                "content": "Điều 14. Yêu cầu đối với mô hình dữ liệu mức vật lý Mô hình dữ liệu mức vật lý phải đáp ứng các yêu cầu sau:",
+                "clauses": [
+                  {
+                    "clause_id": "doc:269688:part:1:article:14:clause:1",
+                    "number": "1",
+                    "content": "1. Định dạng mô tả: sử dụng ngôn ngữ\nXML, tuân thủ lược đồ XML tiêu chuẩn; cú pháp hoàn chỉnh, rõ ràng, chặt chẽ (well-defined).",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:269688:part:1:article:14:clause:2",
+                    "number": "2",
+                    "content": "2. Thể hiện đầy đủ cấu trúc dữ liệu của\nmô hình dữ liệu mức logic.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:269688:part:1:article:14:clause:3",
+                    "number": "3",
+                    "content": "3. Chỉ rõ không gian tên (namespace)\ncủa lược đồ dữ liệu XML.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:269688:part:1:article:14:clause:4",
+                    "number": "4",
+                    "content": "4. Bao gồm mã nguồn lược đồ XML.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:269688:part:1:article:14:clause:5",
+                    "number": "5",
+                    "content": "5. Đáp ứng đủ điều kiện để sử dụng trực\ntiếp phục vụ trích xuất dữ liệu từ cơ sở dữ liệu quốc gia sang thông điệp dữ liệu trao đổi hoặc phân tích các thông điệp dữ liệu trao đổi được thu nhận từ cơ sở dữ liệu quốc gia của các hệ thống thông tin.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:269688:part:1:article:15",
+                "number": "15",
+                "title": "Sử dụng bảng danh mục và mã trong cấu trúc dữ liệu trao đổi",
+                "content": "Điều 15. Sử dụng bảng danh mục và mã trong cấu trúc dữ liệu trao đổi",
+                "clauses": [
+                  {
+                    "clause_id": "doc:269688:part:1:article:15:clause:1",
+                    "number": "1",
+                    "content": "1. Cấu trúc dữ liệu trao đổi phải sử\ndụng chung bảng danh mục và mã theo các yêu cầu sau:",
+                    "points": [
+                      {
+                        "point_id": "doc:269688:part:1:article:15:clause:1:point:1",
+                        "label": "a",
+                        "content": "a) Thuộc tính của phần tử dữ liệu mô\ntả thông tin thuộc các bảng danh mục và mã được cơ quan nhà nước có thẩm quyền ban hành, sử dụng giá trị mã tương ứng trong bảng danh mục và mã đó;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269688:part:1:article:15:clause:1:point:2",
+                        "label": "b",
+                        "content": "b) Trường hợp có nhiều bảng danh mục\nvà mã được ban hành thì ưu tiên sử dụng bảng danh mục và mã được sử dụng phổ biến bởi nhiều hệ thống thông tin hiện hành;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269688:part:1:article:15:clause:1:point:3",
+                        "label": "c",
+                        "content": "c) Bảng danh mục và mã được sử dụng\nphải được chỉ rõ trong các tài liệu mô tả và công bố cho các cơ quan, đơn vị có liên quan sử dụng.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:269688:part:1:article:15:clause:2",
+                    "number": "2",
+                    "content": "2. Cục Tin học\nhóa - Bộ Thông tin và Truyền thông tổng hợp bảng danh mục và mã sử dụng chung; hướng dẫn áp dụng bảng danh mục và mã sử dụng trong cấu trúc dữ liệu trao đổi.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:269688:part:1:chapter:3",
+            "number": "III",
+            "title": "MÔ HÌNH KẾT NỐI VÀ YÊU CẦU KỸ THUẬT TỐI THIỂU PHỤC VỤ KẾT NỐI",
+            "content": "Chương III\nMÔ HÌNH KẾT NỐI\nVÀ YÊU CẦU KỸ THUẬT TỐI THIỂU PHỤC VỤ KẾT NỐI",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:269688:part:1:article:16",
+                "number": "16",
+                "title": "Mô hình kết nối",
+                "content": "Điều 16. Mô hình kết nối",
+                "clauses": [
+                  {
+                    "clause_id": "doc:269688:part:1:article:16:clause:1",
+                    "number": "1",
+                    "content": "1. Mô hình kết nối hệ thống thông tin\nvới cơ sở dữ liệu quốc gia thực hiện theo các trường hợp sau:",
+                    "points": [
+                      {
+                        "point_id": "doc:269688:part:1:article:16:clause:1:point:1",
+                        "label": "a",
+                        "content": "a) Kết nối thông qua LGSP và NGSP;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269688:part:1:article:16:clause:1:point:2",
+                        "label": "b",
+                        "content": "b) Kết nối thông qua NGSP trong trường\nhợp LGSP chưa sẵn sàng;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269688:part:1:article:16:clause:1:point:3",
+                        "label": "c",
+                        "content": "c) Kết nối thông qua LGSP trong trường\nhợp NGSP chưa sẵn sàng;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269688:part:1:article:16:clause:1:point:4",
+                        "label": "d",
+                        "content": "d) Kết nối trực tiếp đến các cơ sở dữ\nliệu quốc gia trong các trường hợp NGSP và LGSP chưa sẵn sàng.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:269688:part:1:article:16:clause:2",
+                    "number": "2",
+                    "content": "2. Trong trường hợp NGSP hoặc LGSP sẵn\nsàng nhưng không đáp ứng được yêu cầu phục vụ kết nối, chủ quản hệ thống thông tin phải báo cáo và đề xuất phương án kết nối với cơ quan quản lý cấp trên xem xét, quyết định.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:269688:part:1:article:17",
+                "number": "17",
+                "title": "Chức năng của NGSP và LGSP Chức năng của NGSP và LGSP trong kết nối các hệ thống thông tin với cơ sở dữ liệu quốc gia bao gồm:",
+                "content": "Điều 17. Chức năng của NGSP và LGSP Chức năng của NGSP và LGSP trong kết nối các hệ thống thông tin với cơ sở dữ liệu quốc gia bao gồm:",
+                "clauses": [
+                  {
+                    "clause_id": "doc:269688:part:1:article:17:clause:1",
+                    "number": "1",
+                    "content": "1. Tiếp nhận, chuyển tiếp yêu cầu dữ\nliệu, dữ liệu từ các hệ thống thông tin đến cơ sở dữ liệu quốc gia và ngược lại.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:269688:part:1:article:17:clause:2",
+                    "number": "2",
+                    "content": "2. Hỗ trợ chuyển đổi kỹ thuật để đáp ứng\nsự tương thích về giao thức, định dạng dữ liệu và các yếu tố kỹ thuật khác.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:269688:part:1:article:17:clause:3",
+                    "number": "3",
+                    "content": "3. Các chức năng\ncần thiết khác theo hướng dẫn của Cục Tin học hóa - Bộ Thông tin và Truyền thông theo yêu cầu thực tế.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:269688:part:1:article:18",
+                "number": "18",
+                "title": "Định dạng dữ liệu Định dạng dữ liệu phải đáp ứng các yêu cầu sau:",
+                "content": "Điều 18. Định dạng dữ liệu Định dạng dữ liệu phải đáp ứng các yêu cầu sau:",
+                "clauses": [
+                  {
+                    "clause_id": "doc:269688:part:1:article:18:clause:1",
+                    "number": "1",
+                    "content": "1. Ngôn ngữ để mô tả dữ liệu trong tệp\ndữ liệu, thông điệp dữ liệu trao đổi là ngôn ngữ XML. Dữ liệu được mô tả bằng ngôn ngữ XML sử dụng bộ trình diễn ký tự UTF8.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:269688:part:1:article:18:clause:2",
+                    "number": "2",
+                    "content": "2. Nội dung dữ liệu chặt chẽ, đúng cú\npháp (well-defined); tuân thủ và tham chiếu đến lược đồ dữ liệu XML qua không gian tên (namespace).",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:269688:part:1:article:18:clause:3",
+                    "number": "3",
+                    "content": "3. Các thông tin, dữ liệu thuộc phạm\nvi chuyên ngành đặc thù sử dụng các ngôn ngữ mô tả mở rộng từ ngôn ngữ XML phù hợp.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:269688:part:1:article:19",
+                "number": "19",
+                "title": "Sử dụng tiêu chuẩn kỹ thuật về giao thức kết nối Yêu cầu sử dụng các tiêu chuẩn kỹ thuật về giao thức trong kết nối bao gồm:",
+                "content": "Điều 19. Sử dụng tiêu chuẩn kỹ thuật về giao thức kết nối Yêu cầu sử dụng các tiêu chuẩn kỹ thuật về giao thức trong kết nối bao gồm:",
+                "clauses": [
+                  {
+                    "clause_id": "doc:269688:part:1:article:19:clause:1",
+                    "number": "1",
+                    "content": "1. Sử dụng bộ giao thức mạng TCP/IP để\ntrao đổi dữ liệu trong môi trường mạng.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:269688:part:1:article:19:clause:2",
+                    "number": "2",
+                    "content": "2. Sử dụng giao thức HTTP hoặc HTTPS\n(yêu cầu trong trường hợp bảo mật dữ liệu) để truy cập dịch vụ cung cấp dữ liệu.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:269688:part:1:article:19:clause:3",
+                    "number": "3",
+                    "content": "3. Sử dụng dịch vụ web (Web service)\nlàm phương thức để kết nối giữa các hệ thống thông tin với cơ sở dữ liệu quốc gia.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:269688:part:1:article:19:clause:4",
+                    "number": "4",
+                    "content": "4. Sử dụng ngôn\nngữ WSDL trong dịch vụ mô tả dịch vụ web.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:269688:part:1:article:19:clause:5",
+                    "number": "5",
+                    "content": "5. Sử dụng giao thức SOAP để đóng gói\nyêu cầu và dữ liệu phục vụ trao đổi giữa các hệ thống thông tin.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:269688:part:1:article:20",
+                "number": "20",
+                "title": "Giao diện khai thác dữ liệu",
+                "content": "Điều 20. Giao diện khai thác dữ liệu",
+                "clauses": [
+                  {
+                    "clause_id": "doc:269688:part:1:article:20:clause:1",
+                    "number": "1",
+                    "content": "1. Lược đồ dữ liệu XML phải được xây\ndựng và đặt không gian tên (namespace) trùng với địa chỉ trang thông tin điện tử hoặc cổng thông tin điện tử chính thức của cơ quan chủ quản cơ sở dữ liệu quốc gia và có thể tải về lược đồ dữ liệu qua địa chỉ đó.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:269688:part:1:article:20:clause:2",
+                    "number": "2",
+                    "content": "2. Các dịch vụ cung cấp dữ liệu được\ntriển khai cùng với dịch vụ mô tả dữ liệu bằng ngôn ngữ WSDL.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:269688:part:1:article:21",
+                "number": "21",
+                "title": "Chức năng và đặc tính cơ sở dữ liệu quốc gia Cơ sở dữ liệu quốc gia phải có các chức năng và đặc tính cơ bản phục vụ kết nối với các hệ thống thông tin như sau:",
+                "content": "Điều 21. Chức năng và đặc tính cơ sở dữ liệu quốc gia Cơ sở dữ liệu quốc gia phải có các chức năng và đặc tính cơ bản phục vụ kết nối với các hệ thống thông tin như sau:",
+                "clauses": [
+                  {
+                    "clause_id": "doc:269688:part:1:article:21:clause:1",
+                    "number": "1",
+                    "content": "1. Cung cấp dữ liệu theo phạm vi",
+                    "points": [
+                      {
+                        "point_id": "doc:269688:part:1:article:21:clause:1:point:1",
+                        "label": "a",
+                        "content": "a) Cung cấp dữ liệu đơn lẻ phục vụ sử\ndụng trực tiếp cho các hệ thống thông tin;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269688:part:1:article:21:clause:1:point:2",
+                        "label": "b",
+                        "content": "b) Cung cấp dữ liệu theo gói phục vụ\ncác hệ thống thông tin lưu trữ và sử dụng.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:269688:part:1:article:21:clause:2",
+                    "number": "2",
+                    "content": "2. Cung cấp dữ liệu theo thời gian cập\nnhật",
+                    "points": [
+                      {
+                        "point_id": "doc:269688:part:1:article:21:clause:2:point:1",
+                        "label": "a",
+                        "content": "a) Cung cấp dữ liệu đầy đủ theo yêu cầu\nkhông phụ thuộc vào thời điểm cập nhật dữ liệu;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269688:part:1:article:21:clause:2:point:2",
+                        "label": "b",
+                        "content": "b) Cung cấp dữ liệu đã thay đổi từ thời\nđiểm được chỉ định cho tới thời điểm yêu cầu cung cấp dữ liệu.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:269688:part:1:article:21:clause:3",
+                    "number": "3",
+                    "content": "3. Cung cấp dữ\nliệu theo đặc điểm lịch sử của dữ liệu",
+                    "points": [
+                      {
+                        "point_id": "doc:269688:part:1:article:21:clause:3:point:1",
+                        "label": "a",
+                        "content": "a) Cung cấp dữ liệu có giá trị tại thời\nđiểm yêu cầu (mặc định, khi không được chỉ định đặc tính thời gian của dữ liệu);",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269688:part:1:article:21:clause:3:point:2",
+                        "label": "b",
+                        "content": "b) Cung cấp dữ liệu có giá trị tại thời\nđiểm được chỉ định (trong trường hợp cơ sở dữ liệu quốc gia có lưu trữ dữ liệu lịch sử).",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:269688:part:1:article:21:clause:4",
+                    "number": "4",
+                    "content": "4. Cung cấp dữ liệu chủ động/thụ động",
+                    "points": [
+                      {
+                        "point_id": "doc:269688:part:1:article:21:clause:4:point:1",
+                        "label": "a",
+                        "content": "a) Cung cấp dữ liệu thụ động khi có\nyêu cầu khai thác từ các hệ thống thông tin;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269688:part:1:article:21:clause:4:point:2",
+                        "label": "b",
+                        "content": "b) Chủ động thông báo hoặc cung cấp dữ\nliệu cho các hệ thống thông tin theo yêu cầu đăng ký trước.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:269688:part:1:article:21:clause:5",
+                    "number": "5",
+                    "content": "5. Tần suất cung cấp dữ liệu của cơ sở\ndữ liệu quốc gia đối với hệ thống thông tin kết nối vào cơ sở dữ liệu quốc gia",
+                    "points": [
+                      {
+                        "point_id": "doc:269688:part:1:article:21:clause:5:point:1",
+                        "label": "a",
+                        "content": "a) Cung cấp dữ liệu trực tuyến ngay\nsau khi được yêu cầu;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269688:part:1:article:21:clause:5:point:2",
+                        "label": "b",
+                        "content": "b) Cung cấp dữ liệu theo định kỳ\ntrong trường hợp dữ liệu lớn và không có sẵn.",
+                        "children": []
+                      }
+                    ]
+                  }
+                ],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:269688:part:1:chapter:4",
+            "number": "IV",
+            "title": "TỔ CHỨC THỰC HIỆN",
+            "content": "Chương IV\nTỔ CHỨC THỰC HIỆN",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:269688:part:1:article:22",
+                "number": "22",
+                "title": "Xử lý vướng mắc về kỹ thuật kết nối",
+                "content": "Điều 22. Xử lý vướng mắc về kỹ thuật kết nối",
+                "clauses": [
+                  {
+                    "clause_id": "doc:269688:part:1:article:22:clause:1",
+                    "number": "1",
+                    "content": "1. Trong trường\nhợp có vướng mắc về kỹ thuật trong việc kết nối các hệ thống thông tin với cơ sở dữ liệu quốc gia, chủ quản hệ thống thông tin chủ trì phối hợp với các bên liên quan giải quyết vướng mắc.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:269688:part:1:article:22:clause:2",
+                    "number": "2",
+                    "content": "2. Trong trường\nhợp không thống nhất được phương án giải quyết với các bên liên quan, chủ quản hệ thống thông tin có trách nhiệm gửi văn bản đề nghị Bộ Thông tin và Truyền thông để giải quyết theo mẫu tại Phụ lục ban hành kèm theo Thông tư này.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:269688:part:1:article:22:clause:3",
+                    "number": "3",
+                    "content": "3. Bộ Thông tin và Truyền thông chủ\ntrì, phối hợp với các bên liên quan giải quyết vướng mắc về kỹ thuật trong kết nối.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:269688:part:1:article:23",
+                "number": "23",
+                "title": "Trách nhiệm của các cơ quan chủ quản cơ sở dữ liệu quốc gia",
+                "content": "Điều 23. Trách nhiệm của các cơ quan chủ quản cơ sở dữ liệu quốc gia",
+                "clauses": [
+                  {
+                    "clause_id": "doc:269688:part:1:article:23:clause:1",
+                    "number": "1",
+                    "content": "1. Thực hiện các\nyêu cầu kỹ thuật về kết nối theo quy định tại Thông tư này và các quy định của pháp luật có liên quan.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:269688:part:1:article:23:clause:2",
+                    "number": "2",
+                    "content": "2. Chủ trì phối\nhợp với Cục Tin học hóa - Bộ Thông tin và Truyền thông và các cơ quan có liên quan xây dựng, ban hành các tài liệu kỹ thuật phục vụ kết nối của cơ sở dữ liệu quốc gia; lấy ý kiến đồng thuận của Bộ Thông tin và Truyền thông trước khi ban hành.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:269688:part:1:article:23:clause:3",
+                    "number": "3",
+                    "content": "3. Tuân thủ các tài liệu kỹ thuật đã ban hành khi xây dựng, vận hành cơ sở dữ liệu quốc gia; triển\nkhai các biện pháp bảo đảm an toàn thông tin cho cơ sở dữ liệu quốc gia trong quá trình trao đổi dữ liệu với các hệ thống thông tin.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:269688:part:1:article:23:clause:4",
+                    "number": "4",
+                    "content": "4. Chủ trì phối hợp với Bộ Thông tin\nvà Truyền thông (Cục Tin học hóa) hướng dẫn, hỗ trợ, phối hợp các chủ quản hệ thống thông tin thực hiện triển khai kết nối; giải thích, làm rõ các nội dung liên quan đến các tài liệu của cơ sở dữ liệu quốc gia khi có yêu cầu; cập nhật tài liệu và thông báo cho các bên có liên quan khi có sự thay đổi các thông số kết nối.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:269688:part:1:article:23:clause:5",
+                    "number": "5",
+                    "content": "5. Đối với cơ sở dữ liệu quốc gia đã\nđược vận hành trước thời điểm Thông tư này có hiệu lực, cơ quan chủ quản cơ sở dữ liệu quốc gia có trách nhiệm:",
+                    "points": [
+                      {
+                        "point_id": "doc:269688:part:1:article:23:clause:5:point:1",
+                        "label": "a",
+                        "content": "a) Rà soát hiện trạng cơ sở dữ liệu\nquốc gia đang vận hành để đáp ứng khả năng kết nối và thực hiện các quy định tại Thông tư này;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269688:part:1:article:23:clause:5:point:2",
+                        "label": "b",
+                        "content": "b) Xây dựng các tài liệu được quy định\ntrong Thông tư này bảo đảm khả năng kết nối với các hệ thống thông tin;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269688:part:1:article:23:clause:5:point:3",
+                        "label": "c",
+                        "content": "c) Căn cứ các tài liệu được xây dựng\nvà các quy định kỹ thuật, tổ chức thực hiện sửa đổi các hạng mục, thành phần chịu trách nhiệm tiếp nhận kết nối với các hệ thống thông tin nếu chưa đáp ứng được yêu cầu.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:269688:part:1:article:23:clause:6",
+                    "number": "6",
+                    "content": "6. Tổng hợp về tình hình kết nối, cập\nnhật dữ liệu của cơ sở dữ liệu quốc gia; tình hình thực hiện các quy định tại Thông tư này gửi Bộ Thông tin và Truyền thông trước ngày 15 tháng 12 hàng năm.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:269688:part:1:article:24",
+                "number": "24",
+                "title": "Trách nhiệm của chủ quản hệ thống thông tin",
+                "content": "Điều 24. Trách nhiệm của chủ quản hệ thống thông tin",
+                "clauses": [
+                  {
+                    "clause_id": "doc:269688:part:1:article:24:clause:1",
+                    "number": "1",
+                    "content": "1. Thực hiện các\nquy định về kết nối được quy định tại Thông tư này và các quy định của pháp luật có liên quan.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:269688:part:1:article:24:clause:2",
+                    "number": "2",
+                    "content": "2. Tuân thủ các tài liệu kỹ thuật của\ncơ sở dữ liệu quốc gia khi xây dựng các hệ thống thông tin, triển khai kết nối.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:269688:part:1:article:24:clause:3",
+                    "number": "3",
+                    "content": "3. Thông báo, phản ánh về tình hình kết\nnối, khai thác cơ sở dữ liệu quốc gia với cơ quan chủ quản cơ sở dữ liệu quốc gia và đơn vị chuyên trách về công nghệ thông tin thuộc Bộ, ngành, địa phương mình.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:269688:part:1:article:25",
+                "number": "25",
+                "title": "Trách nhiệm của đơn vị chuyên trách về công nghệ thông tin của các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ; Sở Thông tin và Truyền thông các tỉnh, thành phố trực thuộc Trung ương",
+                "content": "Điều 25. Trách nhiệm của đơn vị chuyên trách về công nghệ thông tin của các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ; Sở Thông tin và Truyền thông các tỉnh, thành phố trực thuộc Trung ương",
+                "clauses": [
+                  {
+                    "clause_id": "doc:269688:part:1:article:25:clause:1",
+                    "number": "1",
+                    "content": "1. Tổ chức hướng\ndẫn, phổ biến, đôn đốc các cơ quan, đơn vị thuộc Bộ, ngành địa phương mình thực hiện các quy định tại Thông tư này.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:269688:part:1:article:25:clause:2",
+                    "number": "2",
+                    "content": "2. Chủ trì phối\nhợp với cơ quan nhà nước có thẩm quyền thực hiện kết nối hoặc hướng dẫn các cơ quan nhà nước thuộc Bộ, ngành, địa phương mình kết nối đến cơ sở dữ liệu quốc gia hoặc thông qua LGSP kết nối đến cơ sở dữ liệu quốc gia.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:269688:part:1:article:25:clause:3",
+                    "number": "3",
+                    "content": "3. Thực hiện kết\nnối LGSP với NGSP hoặc LGSP với cơ sở dữ liệu quốc gia theo quy định tại Thông tư này, phù hợp với Khung kiến trúc Chính phủ điện tử Việt Nam.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:269688:part:1:article:25:clause:4",
+                    "number": "4",
+                    "content": "4. Tổng hợp việc\nthực hiện các quy định tại Thông tư này, kết quả thực hiện kết nối đến cơ sở dữ liệu quốc gia của các cơ quan nhà nước thuộc Bộ, ngành, địa phương mình; báo cáo Bộ Thông tin và Truyền thông trước ngày 15 tháng 12 hàng năm.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:269688:part:1:article:26",
+                "number": "26",
+                "title": "Trách nhiệm của các cơ quan, đơn vị thuộc Bộ Thông tin và Truyền thông",
+                "content": "Điều 26. Trách nhiệm của các cơ quan, đơn vị thuộc Bộ Thông tin và Truyền thông",
+                "clauses": [
+                  {
+                    "clause_id": "doc:269688:part:1:article:26:clause:1",
+                    "number": "1",
+                    "content": "1. Trách nhiệm của Cục Tin học hóa",
+                    "points": [
+                      {
+                        "point_id": "doc:269688:part:1:article:26:clause:1:point:1",
+                        "label": "a",
+                        "content": "a) Phổ biến, hướng dẫn việc thực hiện\ncác nội dung của Thông tư; tham mưu cho Bộ Thông tin và Truyền thông xử lý các vấn đề phát sinh trong quá trình thực hiện Thông tư;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269688:part:1:article:26:clause:1:point:2",
+                        "label": "b",
+                        "content": "b) Tổ chức kiểm tra việc tuân thủ các\nquy định tại Thông tư này;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269688:part:1:article:26:clause:1:point:3",
+                        "label": "c",
+                        "content": "c) Làm đầu mối tiếp nhận, giải quyết\ncác vướng mắc kỹ thuật trong quá trình triển khai kết nối;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269688:part:1:article:26:clause:1:point:4",
+                        "label": "d",
+                        "content": "d) Đôn đốc, theo dõi, tổng hợp tình\nhình kết nối các hệ thống thông tin với các cơ sở dữ liệu quốc gia;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269688:part:1:article:26:clause:1:point:5",
+                        "label": "đ",
+                        "content": "đ) Xây dựng, quản lý, vận hành NGSP bảo đảm kết nối các hệ thống thông tin với cơ sở dữ\nliệu quốc gia tuân thủ các quy định tại Thông tư này và Khung kiến trúc Chính phủ điện tử Việt Nam.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:269688:part:1:article:26:clause:2",
+                    "number": "2",
+                    "content": "2. Trách nhiệm của Cục An toàn thông\ntin",
+                    "points": [
+                      {
+                        "point_id": "doc:269688:part:1:article:26:clause:2:point:1",
+                        "label": "a",
+                        "content": "a) Hướng dẫn các cơ quan, tổ chức thực\nhiện các biện pháp, giải pháp nhằm bảo đảm an toàn thông tin trong kết nối trao đổi dữ liệu với cơ sở dữ liệu quốc gia.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:269688:part:1:article:26:clause:2:point:2",
+                        "label": "b",
+                        "content": "b) Đôn đốc, kiểm tra theo thẩm quyền\ncông tác bảo đảm an toàn hệ thống thông tin, phương án kết nối an toàn giữa hệ thống thông tin với cơ sở dữ liệu quốc gia.",
+                        "children": []
+                      }
+                    ]
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:269688:part:1:article:27",
+                "number": "27",
+                "title": "Hiệu lực và trách nhiệm thi hành",
+                "content": "Điều 27. Hiệu lực và trách nhiệm thi hành",
+                "clauses": [
+                  {
+                    "clause_id": "doc:269688:part:1:article:27:clause:1",
+                    "number": "1",
+                    "content": "1. Thông tư này\ncó hiệu lực thi hành kể từ ngày 10 tháng 8 năm 2017.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:269688:part:1:article:27:clause:2",
+                    "number": "2",
+                    "content": "2. Chánh Văn\nphòng, Thủ trưởng các cơ quan, đơn vị thuộc Bộ Thông tin và Truyền thông và các cơ quan, tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:269688:part:1:article:27:clause:3",
+                    "number": "3",
+                    "content": "3. Trong quá\ntrình thực hiện, nếu có vướng mắc, đề nghị các cơ quan, tổ chức, cá nhân phản ánh kịp thời về Bộ Thông tin và Truyền thông để xem xét, giải quyết./.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          }
+        ],
+        "sections": [],
+        "articles": [],
+        "unstructured_blocks": []
+      },
+      {
+        "part_id": "doc:269688:part:2",
+        "part_type": "appendix",
+        "part_title": "PHỤ LỤC",
+        "reference": null,
+        "direct_text": null,
+        "chapters": [],
+        "sections": [],
+        "articles": [],
+        "unstructured_blocks": [
+          {
+            "block_id": "doc:269688:part:2:block:1",
+            "content": "PHỤ LỤC\nMẪU ĐỀ NGHỊ GIẢI QUYẾT VƯỚNG MẮC KỸ THUẬT\nKẾT NỐI\n(Ban hành kèm theo Thông tư số\n13/2017/TT-BTTTT ngày 23 tháng 6 năm 2017 của Bộ trưởng Bộ Thông tin và Truyền thông)\nTÊN CƠ QUAN\n-------\nCỘNG\nHÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc --------------- Số: ……….. …………, ngày ….. tháng … năm ….\nĐỀ\nNGHỊ GIẢI QUYẾT VƯỚNG MẮC KỸ THUẬT KẾT NỐI\nKính gửi: Bộ Thông tin và Truyền thông - Căn cứ Luật Công nghệ thông tin ngày 29 tháng 6 năm 2006; - Căn cứ……… ; - Căn cứ Thông tư số …./2017/TT-BTTTT ngày tháng năm của Bộ trưởng Bộ Thông tin và Truyền thông quy định các yêu cầu kỹ thuật về kết nối các hệ thống thông tin, cơ sở dữ liệu với cơ sở dữ liệu quốc gia; (Tên cơ quan) đề nghị giải quyết vướng mắc kỹ thuật kết nối các hệ thống thông tin với cơ sở dữ liệu quốc gia như sau: Phần A: Thông tin chung\n1. Tên đơn vị cần\nkết nối .................................................................................................... Đầu mối liên hệ: ................................................................................................................. Điện thoại ……………………………………email ...............................................................\n2. Tên hệ thống thông tin cần kết nối\n.................................................................................\n3. Cơ sở dữ liệu quốc gia cần kết nối\n.................................................................................\n4. Mục đích kết nối: .............................................................................................................\nPhần B: Nội dung vướng mắc kỹ thuật\n1. Mô tả vướng\nmắc kỹ thuật trong việc thực hiện kết nối .................................................. .............................................................................................................................................\n2. Đã liên hệ với cơ quan chủ quản cơ\nsở dữ liệu quốc gia nhưng chưa giải quyết được vướng mắc. Đầu mối đã tiếp nhận và xử lý vướng mắc của cơ quan chủ quản cơ sở dữ liệu quốc gia: (đơn vị, tên đầu mối, số điện thoại và email liên lạc)\n3. Kết quả giải quyết vướng mắc kỹ\nthuật bởi cơ quan chủ quản cơ sở dữ liệu quốc gia: ............................................................................................................................................. .............................................................................................................................................\n4. Vấn đề còn tồn tại:\n............................................................................................................................................. Phần C: Đề nghị Đề nghị Bộ Thông tin và Truyền thông giải quyết những vấn đề sau: ............................................................................................................................................. ............................................................................................................................................. Phần D: Tài liệu kèm theo Các văn bản gửi cơ quan chủ quản cơ sở dữ liệu quốc gia; các văn bản phản hồi; các tài liệu mô tả vướng mắc kỹ thuật liên quan (nếu có). (Tên cơ quan) cung cấp các tài liệu bổ sung làm rõ các vướng mắc và phối hợp với Bộ Thông tin và Truyền thông giải quyết vướng mắc./.",
+            "indexable": true
+          }
+        ]
+      }
+    ]
+  },
+  "issues": [],
+  "status": "ok",
+  "source_hash": "context_269688.json",
+  "stats": {
+    "source_chars": 28937,
+    "passage_chars": 28767,
+    "parts": 2,
+    "chapters": 4,
+    "sections": 0,
+    "articles": 27,
+    "clauses": 92,
+    "points": 51
+  }
+}

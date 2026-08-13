@@ -1,0 +1,83 @@
+{
+  "schema_version": "2.0",
+  "document_id": 109124,
+  "metadata": {
+    "name": null,
+    "link": "https://thuvienphapluat.vn/cong-van/Thue-Phi-Le-Phi/Cong-van-2392-TCT-QLRR-2023-kiem-tra-hoa-don-dien-tu-569583.aspx",
+    "issuing_agency": "BỘ TÀI CHÍNH TỔNG CỤC THUẾ",
+    "national_header": "CỘNG\r\n\n  HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM",
+    "motto": "Độc lập - Tự do - Hạnh phúc",
+    "document_number": "2392/TCT-QLRR",
+    "issued_place": "Hà Nội",
+    "issued_date": "ngày 14\r\n\n  tháng 6 năm 2023",
+    "document_type": null,
+    "title": null
+  },
+  "administrative_header": {
+    "removed": true,
+    "removed_char_count": 365
+  },
+  "preamble": {
+    "text": "Kính gửi: Cục Thuế tỉnh/thành phố trực thuộc trung ương. Tổng cục Thuế đã xây dựng chức năng trên ứng dụng hóa đơn điện tử đáp ứng yêu cầu kiểm soát hóa đơn điện tử, ngăn chặn tình trạng xuất hóa đơn khống. Một số chức năng chính như sau: + Hệ thống tự động kiểm soát tổng giá trị hàng hóa bán ra trên các hóa đơn đã xuất so với ngưỡng giá trị hàng hóa đầu vào được tính toán bằng K lần tổng giá trị hàng tồn kho và tổng giá trị trị hàng hóa mua vào. + Hệ thống cảnh báo thực hiện theo tham số K. Trên cơ sở đó, các trường hợp người nộp thuế (NNT) vượt ngưỡng sẽ cảnh báo và đưa vào danh sách quản lý. Sử dụng chức năng tra cứu danh sách NNT cảnh báo để/xem xét, xác định các trường hợp thuộc diện ngừng sử dụng hóa đơn theo quy định. Cơ quan thuế sử dụng chức năng đã có khi triển khai phần mềm HĐĐT để thông báo ngừng/tiếp tục sử dụng hóa đơn (đáp ứng quy định tại",
+    "legal_bases": [],
+    "proposals": [],
+    "enactment_formula": null
+  },
+  "passage": "Kính gửi: Cục Thuế tỉnh/thành phố trực thuộc trung ương. Tổng cục Thuế đã xây dựng chức năng trên ứng dụng hóa đơn điện tử đáp ứng yêu cầu kiểm soát hóa đơn điện tử, ngăn chặn tình trạng xuất hóa đơn khống. Một số chức năng chính như sau: + Hệ thống tự động kiểm soát tổng giá trị hàng hóa bán ra trên các hóa đơn đã xuất so với ngưỡng giá trị hàng hóa đầu vào được tính toán bằng K lần tổng giá trị hàng tồn kho và tổng giá trị trị hàng hóa mua vào. + Hệ thống cảnh báo thực hiện theo tham số K. Trên cơ sở đó, các trường hợp người nộp thuế (NNT) vượt ngưỡng sẽ cảnh báo và đưa vào danh sách quản lý. Sử dụng chức năng tra cứu danh sách NNT cảnh báo để/xem xét, xác định các trường hợp thuộc diện ngừng sử dụng hóa đơn theo quy định. Cơ quan thuế sử dụng chức năng đã có khi triển khai phần mềm HĐĐT để thông báo ngừng/tiếp tục sử dụng hóa đơn (đáp ứng quy định tại\nĐiều 16, Nghị định số 123/2020/NĐ-CP). Trước khi thực hiện triển khai chính thức, Tổng cục Thuế tổ chức kiểm tra kết quả kiểm soát theo giá trị hệ số K ban đầu. Tổng cục Thuế đề nghị các Cục Thuế tổ chức kiểm tra “Danh sách NNT thuộc diện giám sát xuất hóa đơn vượt ngưỡng an toàn” theo hướng dẫn dưới đây.\n1. Kế hoạch thực hiện:\nChức năng “Danh sách cảnh báo sử dụng hóa đơn” tại ứng dụng hóa đơn điện tử phục vụ cho công tác kiểm soát hóa đơn điện tử, ngăn chặn tình trạng xuất hóa đơn khống trên phân hệ ứng dụng hóa đơn điện tử được triển khai từ ngày 15/6/2023.\n2. Tổ chức thực hiện:\nCục Thuế phân công công chức phụ trách triển khai thực hiện kết xuất “Danh sách NNT thuộc diện giám sát xuất hóa đơn vượt ngưỡng an toàn” trên chức năng liên quan tại Ứng dụng hóa đơn điện tử với tham số ngày giám sát là 14/6/2023 (theo đó, dữ liệu kiểm soát sẽ được tổng hợp đến hết ngày 14/6/2023). Trên cơ sở danh sách kết xuất được, cơ quan thuế phân công công chức thực hiện kiểm tra NNT theo quy định hiện hành. Hỗ trợ trong quá trình triển khai: Mọi vướng mắc trong quá trình triển khai, Cục Thuế liên hệ trực tiếp qua đầu mối: - Về nghiệp vụ: Thông qua số điện thoại tổng đài của Tổng cục: 024.39712555/ số máy lẻ 8023 (đ/c Nguyễn Thị Ngọc Thu, email: ntnthu@gdt.gov.vn). - Về ứng dụng: Mọi vướng mắc trong quá trình triển khai, Cục Thuế liên hệ qua hệ thống quản lý yêu cầu hỗ trợ Service desk (https://hotro.gdt.gov.vn) hoặc liên hệ bộ phận hỗ trợ qua số điện thoại (024) 73 055 999 - email:nhomhotrohddt@gdt.gov.vn.\n3. Về Báo cáo kết quả:\nCục Thuế tổng hợp kết quả triển khai gửi về Tổng cục Thuế (Ban Quản lý rủi ro) theo mẫu tại phụ lục (kèm theo công văn). Trên cơ sở kết quả kiểm tra thực tế, Cục Thuế đề xuất hệ số K theo thực tế quản lý. Báo cáo và đề xuất gửi về Tổng cục Thuế (qua Ban Quản lý rủi ro) trước ngày 30/6/2023. Tổng cục Thuế thông báo để Cục Thuế tổ chức và phối hợp triển khai thực hiện./.\nNơi nhận:\n- Như trên;\n- Tổng cục trưởng (để báo cáo);\n- Các Vụ/đơn vị: CNTT, KK&KTT, TTKT (để p/h);\n- Lưu: VT, QLRR.\nTL. TỔNG CỤC\nTRƯỞNG\nTRƯỞNG BAN QUẢN LÝ RỦI RO\nNguyễn Thu Trà\nPhụ Lục I\nTỔNG CỤC THUẾ TÊN CƠ QUAN THUẾ\n-------\nBÁO CÁO KẾT QUẢ\nTHỰC HIỆN TRIỂN KHAI ÁP DỤNG HỆ SỐ K\n(Kèm theo công văn số 2392/TCT-QLRR ngày 14/6/2023 của Tổng cục Thuế) Kỳ đánh giá:\nSTT\nCơ quan thuế quản lý Ngành nghề kinh doanh Giá trị HH mua vào luỹ kế Giá trị HH bán ra luỹ kế Hàng tồn kho Hệ số K Hệ số K thực tế Kết quả kiểm tra (Lí do vượt ngưỡng) Ghi chú 1 2 3 6 7 8 9 10 11 12 1 VPCuc 2 Cty A 3\nCCT\n4 …\nNGƯỜI LẬP\n...., ngày.... tháng.... năm 2023\nTHỦ TRƯỞNG CƠ QUAN ĐƠN VỊ\nLưu ý:\nK =\nTổng giá trị hàng hóa bán ra trên hóa đơn Tổng giá trị Hàng tồn kho + Tổng giá trị HH mua vào trên hóa đơn",
+  "tree": {
+    "parts": [
+      {
+        "part_id": "doc:109124:part:1",
+        "part_type": "main",
+        "part_title": null,
+        "reference": null,
+        "direct_text": "Kính gửi: Cục Thuế tỉnh/thành phố trực thuộc trung ương. Tổng cục Thuế đã xây dựng chức năng trên ứng dụng hóa đơn điện tử đáp ứng yêu cầu kiểm soát hóa đơn điện tử, ngăn chặn tình trạng xuất hóa đơn khống. Một số chức năng chính như sau: + Hệ thống tự động kiểm soát tổng giá trị hàng hóa bán ra trên các hóa đơn đã xuất so với ngưỡng giá trị hàng hóa đầu vào được tính toán bằng K lần tổng giá trị hàng tồn kho và tổng giá trị trị hàng hóa mua vào. + Hệ thống cảnh báo thực hiện theo tham số K. Trên cơ sở đó, các trường hợp người nộp thuế (NNT) vượt ngưỡng sẽ cảnh báo và đưa vào danh sách quản lý. Sử dụng chức năng tra cứu danh sách NNT cảnh báo để/xem xét, xác định các trường hợp thuộc diện ngừng sử dụng hóa đơn theo quy định. Cơ quan thuế sử dụng chức năng đã có khi triển khai phần mềm HĐĐT để thông báo ngừng/tiếp tục sử dụng hóa đơn (đáp ứng quy định tại\nPhụ Lục I\nTỔNG CỤC THUẾ TÊN CƠ QUAN THUẾ\n-------\nBÁO CÁO KẾT QUẢ\nTHỰC HIỆN TRIỂN KHAI ÁP DỤNG HỆ SỐ K\n(Kèm theo công văn số 2392/TCT-QLRR ngày 14/6/2023 của Tổng cục Thuế) Kỳ đánh giá:\nSTT\nCơ quan thuế quản lý Ngành nghề kinh doanh Giá trị HH mua vào luỹ kế Giá trị HH bán ra luỹ kế Hàng tồn kho Hệ số K Hệ số K thực tế Kết quả kiểm tra (Lí do vượt ngưỡng) Ghi chú 1 2 3 6 7 8 9 10 11 12 1 VPCuc 2 Cty A 3\nCCT\n4 …\nNGƯỜI LẬP\n...., ngày.... tháng.... năm 2023\nTHỦ TRƯỞNG CƠ QUAN ĐƠN VỊ\nLưu ý:\nK =\nTổng giá trị hàng hóa bán ra trên hóa đơn Tổng giá trị Hàng tồn kho + Tổng giá trị HH mua vào trên hóa đơn",
+        "chapters": [],
+        "sections": [],
+        "articles": [
+          {
+            "article_id": "doc:109124:part:1:article:1",
+            "number": "16",
+            "title": ", Nghị định số 123/2020/NĐ-CP). Trước khi thực hiện triển khai chính thức, Tổng cục Thuế tổ chức kiểm tra kết quả kiểm soát theo giá trị hệ số K ban đầu. Tổng cục Thuế đề nghị các Cục Thuế tổ chức kiểm tra “Danh sách NNT thuộc diện giám sát xuất hóa đơn vượt ngưỡng an toàn” theo hướng dẫn dưới đây.",
+            "content": "Điều 16, Nghị định số 123/2020/NĐ-CP). Trước khi thực hiện triển khai chính thức, Tổng cục Thuế tổ chức kiểm tra kết quả kiểm soát theo giá trị hệ số K ban đầu. Tổng cục Thuế đề nghị các Cục Thuế tổ chức kiểm tra “Danh sách NNT thuộc diện giám sát xuất hóa đơn vượt ngưỡng an toàn” theo hướng dẫn dưới đây.",
+            "clauses": [
+              {
+                "clause_id": "doc:109124:part:1:article:1:clause:1",
+                "number": "1",
+                "content": "1. Kế hoạch thực hiện:\nChức năng “Danh sách cảnh báo sử dụng hóa đơn” tại ứng dụng hóa đơn điện tử phục vụ cho công tác kiểm soát hóa đơn điện tử, ngăn chặn tình trạng xuất hóa đơn khống trên phân hệ ứng dụng hóa đơn điện tử được triển khai từ ngày 15/6/2023.",
+                "points": []
+              },
+              {
+                "clause_id": "doc:109124:part:1:article:1:clause:2",
+                "number": "2",
+                "content": "2. Tổ chức thực hiện:\nCục Thuế phân công công chức phụ trách triển khai thực hiện kết xuất “Danh sách NNT thuộc diện giám sát xuất hóa đơn vượt ngưỡng an toàn” trên chức năng liên quan tại Ứng dụng hóa đơn điện tử với tham số ngày giám sát là 14/6/2023 (theo đó, dữ liệu kiểm soát sẽ được tổng hợp đến hết ngày 14/6/2023). Trên cơ sở danh sách kết xuất được, cơ quan thuế phân công công chức thực hiện kiểm tra NNT theo quy định hiện hành. Hỗ trợ trong quá trình triển khai: Mọi vướng mắc trong quá trình triển khai, Cục Thuế liên hệ trực tiếp qua đầu mối: - Về nghiệp vụ: Thông qua số điện thoại tổng đài của Tổng cục: 024.39712555/ số máy lẻ 8023 (đ/c Nguyễn Thị Ngọc Thu, email: ntnthu@gdt.gov.vn). - Về ứng dụng: Mọi vướng mắc trong quá trình triển khai, Cục Thuế liên hệ qua hệ thống quản lý yêu cầu hỗ trợ Service desk (https://hotro.gdt.gov.vn) hoặc liên hệ bộ phận hỗ trợ qua số điện thoại (024) 73 055 999 - email:nhomhotrohddt@gdt.gov.vn.",
+                "points": []
+              },
+              {
+                "clause_id": "doc:109124:part:1:article:1:clause:3",
+                "number": "3",
+                "content": "3. Về Báo cáo kết quả:\nCục Thuế tổng hợp kết quả triển khai gửi về Tổng cục Thuế (Ban Quản lý rủi ro) theo mẫu tại phụ lục (kèm theo công văn). Trên cơ sở kết quả kiểm tra thực tế, Cục Thuế đề xuất hệ số K theo thực tế quản lý. Báo cáo và đề xuất gửi về Tổng cục Thuế (qua Ban Quản lý rủi ro) trước ngày 30/6/2023. Tổng cục Thuế thông báo để Cục Thuế tổ chức và phối hợp triển khai thực hiện./.",
+                "points": []
+              }
+            ],
+            "points": []
+          }
+        ],
+        "unstructured_blocks": []
+      }
+    ]
+  },
+  "issues": [],
+  "status": "ok",
+  "source_hash": "context_109124.json",
+  "stats": {
+    "source_chars": 3923,
+    "passage_chars": 3557,
+    "parts": 1,
+    "chapters": 0,
+    "sections": 0,
+    "articles": 1,
+    "clauses": 3,
+    "points": 0
+  }
+}

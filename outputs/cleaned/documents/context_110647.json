@@ -1,0 +1,1402 @@
+{
+  "schema_version": "2.0",
+  "document_id": 110647,
+  "metadata": {
+    "name": "Quyet-dinh-2456-QD-BTC-nam-2014-Quy-che-thanh-tra-Kho-bac-Nha-nuoc-251157",
+    "link": "https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-2456-QD-BTC-nam-2014-Quy-che-thanh-tra-Kho-bac-Nha-nuoc-251157.aspx",
+    "issuing_agency": "BỘ TÀI CHÍNH",
+    "national_header": "CỘNG HÒA XÃ HỘI\r\n\n  CHỦ NGHĨA VIỆT NAM",
+    "motto": "Độc lập - Tự do - Hạnh phúc",
+    "document_number": "2456/QĐ-BTC",
+    "issued_place": "Hà Nội",
+    "issued_date": "ngày 24 tháng 09 năm 2014",
+    "document_type": "QUYẾT ĐỊNH",
+    "title": "VỀ VIỆC BAN HÀNH QUY CHẾ HOẠT ĐỘNG THANH TRA CHUYÊN NGÀNH KHO BẠC NHÀ NƯỚC"
+  },
+  "administrative_header": {
+    "removed": true,
+    "removed_char_count": 149
+  },
+  "preamble": {
+    "text": "QUYẾT ĐỊNH\nVỀ VIỆC BAN HÀNH QUY CHẾ HOẠT ĐỘNG THANH TRA CHUYÊN NGÀNH KHO BẠC NHÀ\nNƯỚC BỘ TRƯỞNG BỘ TÀI CHÍNH\nCăn cứ Luật Thanh tra ngày 15 tháng 11 năm 2010; Căn cứ Nghị định số 86/2011/NĐ-CP ngày 22 tháng; 9 năm 2011 của Chính phủ Quy định chi tiết và hướng dẫn thi hành một số điều của Luật Thanh tra; Căn cứ Nghị định số 07/2012/NĐ-CP ngày 09 tháng 02 năm 2012 của Chính phủ Quy định về cơ quan được giao thực hiện chức năng thanh tra chuyên ngành và hoạt động thanh tra chuyên ngành; Căn cứ Nghị định số 82/2012/NĐ-CP ngày 09 tháng 10 năm 2012 của Chính phủ về tổ chức và hoạt động thanh tra ngành Tài chính; Căn cứ Nghị định số 192/2013/NĐ-CP ngày 21 tháng 11 năm 2013 của Chính phủ Quy định việc xử phạt vi phạm hành chính trong lĩnh vực quản lý, sử dụng tài sản nhà nước; thực hành tiết kiệm, chống lãng phí; dự trữ quốc gia; kho bạc nhà nước; Căn cứ Nghị định số 215/2013/NĐ-CP ngày 23 tháng 12 năm 2013 của Chính phủ Quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài chính; Căn cứ Quyết định số 12/2014/QĐ-TTg ngày 27 tháng 01 năm 2014 của Thủ tướng Chính phủ về việc quy định chế độ bồi dưỡng đối với công chức thanh tra chuyên ngành; Căn cứ Thông tư số 19/2013/TT-BTC ngày 20 tháng 02 năm 2013 của Bộ Tài chính hướng dẫn thực hiện một số quy định về tổ chức và hoạt động thanh tra ngành Tài chính; Căn cứ Thông tư số 54/2014/TT-BTC ngày 24 tháng 4 năm 2014 của Bộ Tài chính quy định chi tiết và hướng dẫn thực hiện việc xử phạt vi phạm hành chính trong lĩnh vực kho bạc nhà nước theo quy định tại Nghị định số 192/2013/NĐ-CP ngày 21/11/2013 của Chính phủ; Xét đề nghị của Tổng Giám đốc Kho bạc Nhà nước và Chánh Thanh tra Bộ Tài chính,\nQUYẾT ĐỊNH:",
+    "legal_bases": [
+      "Căn cứ Nghị định số 86/2011/NĐ-CP ngày 22 tháng",
+      "Căn cứ Nghị định số 07/2012/NĐ-CP ngày 09 tháng 02 năm 2012 của Chính phủ Quy định về cơ quan được giao thực hiện chức năng thanh tra chuyên ngành và hoạt động thanh tra chuyên ngành",
+      "Căn cứ Nghị định số 82/2012/NĐ-CP ngày 09 tháng 10 năm 2012 của Chính phủ về tổ chức và hoạt động thanh tra ngành Tài chính",
+      "Căn cứ Nghị định số 192/2013/NĐ-CP ngày 21 tháng 11 năm 2013 của Chính phủ Quy định việc xử phạt vi phạm hành chính trong lĩnh vực quản lý, sử dụng tài sản nhà nước",
+      "Căn cứ Nghị định số 215/2013/NĐ-CP ngày 23 tháng 12 năm 2013 của Chính phủ Quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài chính",
+      "Căn cứ Quyết định số 12/2014/QĐ-TTg ngày 27 tháng 01 năm 2014 của Thủ tướng Chính phủ về việc quy định chế độ bồi dưỡng đối với công chức thanh tra chuyên ngành",
+      "Căn cứ Thông tư số 19/2013/TT-BTC ngày 20 tháng 02 năm 2013 của Bộ Tài chính hướng dẫn thực hiện một số quy định về tổ chức và hoạt động thanh tra ngành Tài chính",
+      "Căn cứ Thông tư số 54/2014/TT-BTC ngày 24 tháng 4 năm 2014 của Bộ Tài chính quy định chi tiết và hướng dẫn thực hiện việc xử phạt vi phạm hành chính trong lĩnh vực kho bạc nhà nước theo quy định tại Nghị định số 192/2013/NĐ-CP ngày 21/11/2013 của Chính phủ"
+    ],
+    "proposals": [
+      "Xét đề nghị của Tổng Giám đốc Kho bạc Nhà nước và Chánh Thanh tra Bộ Tài chính,\nQUYẾT ĐỊNH:"
+    ],
+    "enactment_formula": "QUYẾT ĐỊNH"
+  },
+  "passage": "QUYẾT ĐỊNH\nVỀ VIỆC BAN HÀNH QUY CHẾ HOẠT ĐỘNG THANH TRA CHUYÊN NGÀNH KHO BẠC NHÀ\nNƯỚC BỘ TRƯỞNG BỘ TÀI CHÍNH\nCăn cứ Luật Thanh tra ngày 15 tháng 11 năm 2010; Căn cứ Nghị định số 86/2011/NĐ-CP ngày 22 tháng; 9 năm 2011 của Chính phủ Quy định chi tiết và hướng dẫn thi hành một số điều của Luật Thanh tra; Căn cứ Nghị định số 07/2012/NĐ-CP ngày 09 tháng 02 năm 2012 của Chính phủ Quy định về cơ quan được giao thực hiện chức năng thanh tra chuyên ngành và hoạt động thanh tra chuyên ngành; Căn cứ Nghị định số 82/2012/NĐ-CP ngày 09 tháng 10 năm 2012 của Chính phủ về tổ chức và hoạt động thanh tra ngành Tài chính; Căn cứ Nghị định số 192/2013/NĐ-CP ngày 21 tháng 11 năm 2013 của Chính phủ Quy định việc xử phạt vi phạm hành chính trong lĩnh vực quản lý, sử dụng tài sản nhà nước; thực hành tiết kiệm, chống lãng phí; dự trữ quốc gia; kho bạc nhà nước; Căn cứ Nghị định số 215/2013/NĐ-CP ngày 23 tháng 12 năm 2013 của Chính phủ Quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài chính; Căn cứ Quyết định số 12/2014/QĐ-TTg ngày 27 tháng 01 năm 2014 của Thủ tướng Chính phủ về việc quy định chế độ bồi dưỡng đối với công chức thanh tra chuyên ngành; Căn cứ Thông tư số 19/2013/TT-BTC ngày 20 tháng 02 năm 2013 của Bộ Tài chính hướng dẫn thực hiện một số quy định về tổ chức và hoạt động thanh tra ngành Tài chính; Căn cứ Thông tư số 54/2014/TT-BTC ngày 24 tháng 4 năm 2014 của Bộ Tài chính quy định chi tiết và hướng dẫn thực hiện việc xử phạt vi phạm hành chính trong lĩnh vực kho bạc nhà nước theo quy định tại Nghị định số 192/2013/NĐ-CP ngày 21/11/2013 của Chính phủ; Xét đề nghị của Tổng Giám đốc Kho bạc Nhà nước và Chánh Thanh tra Bộ Tài chính,\nQUYẾT ĐỊNH:\nĐiều 1. Ban hành kèm theo Quyết định này Quy chế hoạt động thanh tra chuyên ngành Kho bạc Nhà nước.\nĐiều 2. Chánh Thanh tra Bộ Tài chính, Tổng Giám đốc Kho bạc Nhà nước, Giám đốc Kho bạc Nhà nước các tỉnh, thành phố trực thuộc Trung ương chịu trách nhiệm thi hành Quyết định này./.\nNơi nhận:\n- Như điều 2;\n- Lãnh đạo Bộ Tài chính;\n- Các đơn vị thuộc Bộ Tài chính;\n- Lưu: VT, KBNN.\nBỘ TRƯỞNG\nĐinh Tiến Dũng\nQUY CHẾ HOẠT ĐỘNG\nTHANH TRA CHUYÊN NGÀNH KHO BẠC NHÀ NƯỚC\n(Ban hành kèm theo Quyết định số 2456/QĐ-BTC ngày 24/9/2014, của Bộ trưởng Bộ\nTài chính)\nChương I\nQUY ĐỊNH CHUNG\nĐiều 1. Phạm vi điều chỉnh\nQuy chế này quy định về hoạt động Thanh tra chuyên\nngành Kho bạc Nhà nước, bao gồm: nhiệm vụ, quyền hạn của cơ quan, thủ trưởng cơ quan, bộ phận tham mưu công tác thanh tra chuyên ngành Kho bạc Nhà nước; hoạt động thanh tra chuyên ngành Kho bạc Nhà nước; tiêu chuẩn công chức thanh tra chuyên ngành Kho bạc Nhà nước; trang phục, thẻ, biển hiệu, chế độ đối với công chức thanh tra chuyên ngành Kho bạc Nhà nước.\nĐiều 2. Đối tượng áp dụng\nQuy chế này áp dụng đối với Tổng Giám đốc Kho bạc\nNhà nước; Giám đốc Kho bạc Nhà nước tỉnh, thành phố trực thuộc Trung ương (sau đây gọi chung là Giám đốc Kho bạc Nhà nước tỉnh, thành phố); Trưởng đoàn thanh tra chuyên ngành, thành viên Đoàn thanh tra chuyên ngành, công chức được giao thực hiện nhiệm vụ thanh tra chuyên ngành Kho bạc Nhà nước.\nĐiều 3. Cơ quan thực hiện chức năng thanh tra chuyên ngành Kho bạc Nhà nước Kho bạc Nhà nước, Kho bạc Nhà nước tỉnh, thành phố trực thuộc Trung ương (sau đây gọi chung là Kho bạc Nhà nước tỉnh, thành phố) là cơ quan được giao thực hiện chức năng thanh tra chuyên ngành.\nĐiều 4. Bộ phận tham mưu công tác thanh tra chuyên ngành Kho bạc Nhà nước Bộ phận tham mưu công tác thanh tra chuyên ngành tại Kho bạc Nhà nước tổ chức thành Vụ Thanh tra; tại Kho bạc Nhà nước tỉnh, thành phố tổ chức thành Phòng Thanh tra, kiểm tra.\nĐiều 5. Nguyên tắc hoạt động thanh tra chuyên ngành Kho bạc Nhà nước\n1. Hoạt động thanh tra chuyên ngành Kho bạc Nhà nước\ndo Đoàn thanh tra chuyên ngành Kho bạc Nhà nước và người được giao thực hiện nhiệm vụ thanh tra chuyên ngành Kho bạc Nhà nước thực hiện.\n2. Hoạt động thanh tra chuyên ngành Kho bạc Nhà nước\nphải tuân theo pháp luật; bảo đảm chính xác, khách quan, trung thực, công khai, dân chủ, kịp thời; không trùng lặp về phạm vi, đối tượng, nội dung, thời gian thanh tra giữa các cơ quan thực hiện chức năng thanh tra; không làm cản trở hoạt động bình thường của cơ quan, tổ chức, cá nhân là đối tượng thanh tra.\n3. Hoạt động thanh tra chuyên ngành Kho bạc Nhà nước\nphải được tiến hành thường xuyên, gắn liền với việc thực hiện nhiệm vụ về chuyên môn, kỹ thuật, nghiệp vụ; phát hiện, ngăn chặn, xử lý kịp thời các hành vi vi phạm pháp luật.\n4. Tổng Giám đốc Kho bạc Nhà nước; Giám đốc Kho bạc\nNhà nước tỉnh, thành phố và người được giao thực hiện nhiệm vụ thanh tra chuyên ngành Kho bạc Nhà nước không được thực hiện các hành vi bị nghiêm cấm theo Điều 13 của Luật Thanh tra. Công chức thanh tra chuyên ngành Kho bạc Nhà nước phải báo cáo từ chối và không được tham gia Đoàn thanh tra trong trường hợp bố, mẹ, vợ, chồng, con, anh ruột, chị ruột, em ruột của mình trực tiếp là đối tượng thanh tra hoặc giữ chức vụ lãnh đạo, quản lý trong cơ quan, tổ chức là đối tượng thanh tra.\nĐiều 6. Các hoạt động thanh tra chuyên ngành Kho bạc Nhà nước\n1. Thanh tra đối với các cơ quan, tổ chức, cá nhân\nsử dụng ngân sách nhà nước có nghĩa vụ chấp hành quy định pháp luật trong các lĩnh vực thuộc phạm vi quản lý nhà nước của Kho bạc Nhà nước.\n2. Thanh tra việc chấp hành các quy định của pháp\nluật về các khoản chi ngân sách nhà nước thực hiện tại hệ thống Kho bạc Nhà nước, việc chấp hành các quy định của pháp luật của các quỹ tài chính do Kho bạc Nhà nước quản lý.\n3. Ban hành các quy định, quy trình, biện pháp nghiệp\nvụ thanh tra theo thẩm quyền thuộc lĩnh vực Kho bạc Nhà nước; Tổ chức tập huấn, đào tạo, bồi dưỡng, hướng dẫn nghiệp vụ và kiểm tra việc thực hiện các quy trình nghiệp vụ đó.\n4. Xây dựng kế hoạch thanh tra chuyên ngành Kho bạc\nNhà nước và tổ chức thực hiện kế hoạch thanh tra đã được phê duyệt; kiểm tra, đôn đốc việc xây dựng và thực hiện kế hoạch thanh, tra, việc chấp hành các quy định về công tác thanh tra của các cơ quan trong phạm vi quản lý của Kho bạc Nhà nước.\n5. Xử lý theo thẩm quyền hoặc kiến nghị cấp có thẩm\nquyền xử lý các vi phạm pháp luật thuộc phạm vi quản lý nhà nước của Kho bạc Nhà nước.\n6. Theo dõi, đôn đốc, kiểm tra các cơ quan, tổ chức,\ncá nhân thực hiện kết luận, kiến nghị thanh tra, các quyết định xử lý sau thanh tra.\n7. Giải quyết khiếu nại, tố cáo và phòng, chống\ntham nhũng theo quy định của pháp luật.\n8. Kiến nghị với cơ quan nhà nước có thẩm quyền sửa\nđổi, bổ sung, ban hành quy định cho phù hợp yêu cầu quản lý; kiến nghị đình chỉ hoặc hủy bỏ quy định trái pháp luật phát hiện qua công tác thanh tra.\n9. Tổng hợp, báo cáo kết quả công tác thanh tra\nchuyên ngành, giải quyết khiếu nại, tố cáo và phòng, chống tham nhũng thuộc phạm vi quản lý của Kho bạc Nhà nước.\nChương II\nNHIỆM VỤ, QUYỀN HẠN CỦA\nCƠ QUAN, THỦ TRƯỞNG CƠ QUAN, BỘ PHẬN THAM MƯU CÔNG TÁC THANH TRA CHUYÊN NGÀNH\nKHO BẠC NHÀ NƯỚC\nĐiều 7. Nhiệm vụ, quyền hạn của Kho bạc Nhà nước\n1. Xây dựng kế hoạch thanh tra gửi Thanh tra Bộ Tài\nchính tổng hợp để trình Bộ trưởng Bộ Tài chính phê duyệt và tổ chức thực hiện kế hoạch sau khi đã được phê duyệt Kho bạc Nhà nước có trách nhiệm hướng dẫn xây dựng và phê duyệt kế hoạch thanh tra của Kho bạc Nhà nước tỉnh, thành phố.\n2. Thanh tra việc chấp hành pháp luật chuyên ngành\nKho bạc Nhà nước, quy định về chuyên môn, quy tắc quản lý ngành, lĩnh vực thuộc phạm vi quản lý nhà nước của Kho bạc Nhà nước.\n3. Thanh tra theo kế hoạch; thanh tra những vụ việc\ncó dấu hiệu vi phạm pháp luật thuộc thẩm quyền của Kho bạc Nhà nước hoặc theo yêu cầu của Chánh Thanh tra Bộ Tài chính.\n4. Thanh tra những vụ việc khác do Bộ trưởng Bộ Tài\nchính giao.\n5. Theo dõi, đôn đốc, kiểm tra việc thực hiện kết\nluận, kiến nghị, quyết định xử lý về thanh tra của Kho bạc Nhà nước; theo dõi, kiểm tra việc thực hiện kết luận, kiến nghị, quyết định xử lý về thanh tra của Kho bạc Nhà nước tỉnh, thành phố.\n6. Thực hiện nhiệm vụ giải quyết khiếu nại, tố cáo\nvà phòng, chống tham nhũng theo quy định của pháp luật.\n7. Tổng hợp, báo cáo Thanh tra Bộ Tài chính kết quả\ncông tác thanh tra chuyên ngành, giải quyết khiếu nại, tố cáo và phòng, chống tham nhũng thuộc phạm vi quản lý của Kho bạc Nhà nước.\n8. Các nhiệm vụ, quyền hạn khác theo quy định của\npháp luật.\nĐiều 8. Nhiệm vụ, quyền hạn của Kho bạc Nhà nước tỉnh, thành phố\n1. Xây dựng kế hoạch thanh tra trình Tổng Giám đốc\nKho bạc Nhà nước phê duyệt và tổ chức thực hiện kế hoạch sau khi đã được phê duyệt.\n2. Thanh tra việc chấp hành pháp luật chuyên ngành,\nquy định về chuyên môn, quy tắc quản lý ngành, lĩnh vực thuộc phạm vi quản lý nhà nước của Kho bạc Nhà nước tỉnh, thành phố.\n3. Thanh tra theo kế hoạch; thanh tra những vụ việc\ncó dấu hiệu vi phạm pháp luật thuộc thẩm quyền của Kho bạc Nhà nước tỉnh, thành phố hoặc theo yêu cầu của Bộ trưởng Bộ Tài chính, Chánh Thanh tra Bộ Tài chính, Tổng Giám đốc Kho bạc Nhà nước.\n4. Theo dõi, đôn đốc, kiểm tra việc thực hiện kết luận, kiến nghị, quyết định xử lý về thanh\ntra của mình.\n5. Giải quyết khiếu nại, tố cáo và phòng, chống\ntham nhũng theo quy định của pháp luật.\n6. Tổng hợp, báo cáo Kho bạc Nhà nước kết quả công\ntác thanh tra chuyên ngành, giải quyết khiếu nại, tố cáo và phòng, chống tham nhũng thuộc phạm vi quản lý của Kho bạc Nhà nước tỉnh, thành phố.\n7. Các nhiệm vụ, quyền hạn khác theo quy định của\npháp luật.\nĐiều 9. Nhiệm vụ, quyền hạn của Tổng Giám đốc Kho bạc Nhà nước\n1. Chỉ đạo việc tổ chức thực hiện và kiểm tra công\ntác thanh tra chuyên ngành trong hệ thống Kho bạc Nhà nước.\n2. Ban hành các quy định, quy trình, biện pháp nghiệp\nvụ thanh tra theo thẩm quyền thuộc lĩnh vực Kho bạc Nhà nước.\n3. Quyết định thanh tra khi phát hiện có dấu hiệu\nvi phạm pháp luật hoặc theo yêu cầu của Bộ trưởng Bộ Tài chính, Chánh Thanh tra Bộ Tài chính; phân công công chức thực hiện nhiệm vụ thanh tra chuyên ngành.\n4. Chỉ đạo, kiểm tra, giám sát Đoàn thanh tra\nchuyên ngành thực hiện đúng nội dung quyết định thanh tra.\n5. Báo cáo Bộ trưởng Bộ Tài chính, Chánh Thanh tra\nBộ Tài chính việc chồng chéo về phạm vi, đối tượng, nội dung, thời gian thanh tra trong phạm vi quản lý của mình.\n6. Kiến nghị với cơ quan nhà nước có thẩm quyền sửa\nđổi, bổ sung, ban hành quy định cho phù hợp yêu cầu quản lý; kiến nghị đình chỉ hoặc hủy bỏ quy định trái pháp luật phát hiện qua công tác thanh tra.\n7. Yêu cầu đối tượng thanh tra cung cấp thông tin,\ntài liệu, báo cáo bằng văn bản, giải trình về vấn đề liên quan đến nội dung thanh tra; yêu cầu cơ quan, tổ chức, cá nhân có thông tin, tài liệu liên quan đến nội dung thanh tra cung cấp thông tin, tài liệu đó.\n8. Trưng cầu giám định về vấn đề liên quan đến nội\ndung thanh tra.\n9. Yêu cầu các tổ chức tín dụng (nơi đối tượng\nthanh tra mở tài khoản) phong tỏa tài khoản của đối tượng thanh tra để phục vụ việc thanh tra khi có căn cứ cho rằng đối tượng; thanh tra tẩu tán tài sản, không thực hiện quyết định thu hồi tiền, tài sản của cấp có thẩm quyền.\n10. Tạm đình chỉ hoặc kiến nghị người có thẩm quyền\nđình chỉ việc làm khi xét thấy việc Làm đó gây thiệt hại nghiêm trọng đến lợi ích của Nhà nước, quyền và lợi ích hợp pháp của cơ quan, tổ chức, cá nhân.\n11. Kiến nghị người có thẩm quyền tạm đình chỉ việc\nthi hành quyết định kỷ luật, thuyên chuyển công tác, cho nghỉ hưu đối với người đang cộng tác với cơ quan Kho bạc Nhà nước hoặc đang là đối tượng thanh tra nếu xét thấy việc thi hành quyết định đó gây trở ngại cho việc thanh tra.\n12. Tạm đình chỉ hoặc kiến nghị người có thẩm quyền\ntạm đình chỉ công tác và xử lý đối với cán bộ, công chức, viên chức cố ý cản trở việc thanh tra hoặc không thực hiện yêu cầu, kiến nghị, quyết định thanh tra.\n13. Đình chỉ, thay đổi Trưởng đoàn thanh tra, thành\nviên Đoàn thanh tra khi không đáp ứng được yêu cầu, nhiệm vụ thanh tra hoặc có hành vi vi phạm pháp luật hoặc là người thân thích với đối tượng thanh tra hoặc vì lý do khách quan khác mà không thể thực hiện nhiệm vụ thanh tra.\n14. Kết luận về nội dung thanh tra đối với những cuộc\nthanh tra do mình ra quyết định thanh tra.\n15. Quyết định xử lý theo thẩm quyền hoặc kiến nghị\nngười có thẩm quyền xử lý kết quả thanh tra; kiểm tra, đôn đốc việc thực hiện quyết định xử lý về thanh tra; Quyết định thu hồi tiền, tài sản bị chiếm đoạt, sử dụng trái phép hoặc bị thất thoát do hành vi vi phạm pháp luật của đối tượng thanh tra gây ra; Chuyển hồ sơ vụ việc vi phạm pháp luật sang cơ quan điều tra khi phát hiện có dấu hiệu của tội phạm, đồng thời thông báo bằng văn bản cho Viện kiểm sát cùng cấp biết.\n16. Xử phạt vi phạm hành chính theo quy định của Nghị định số 192/2013/NĐ-CP ngày\n21/11/2013 của Chính phủ quy định việc xử phạt vi phạm hành chính trong lĩnh vực quản lý, sử dụng tài sản nhà nước; thực hành tiết kiệm, chống lãng phí; dự trữ quốc gia; kho bạc nhà nước và Thông tư số 54/2014/TT-BTC ngày 24/4/2014 của Bộ Tài chính quy định chi tiết và hướng dẫn thực hiện việc xử phạt vi phạm hành chính trong lĩnh vực kho bạc nhà nước theo quy định tại Nghị định số 192/2013/NĐ-CP ngày 21/11/2013 của Chính phủ.\n17. Giải quyết khiếu nại, tố cáo liên quan đến\ntrách nhiệm của Trưởng đoàn thanh tra, các thành viên khác của Đoàn thanh tra.\n18. Khi xét thấy không cần thiết áp dụng biện pháp\nquy định tại các khoản 9, 10, 11, 12 nêu trên thì Tổng Giám đốc Kho bạc Nhà nước phải quyết định hoặc kiến nghị hủy bỏ ngay việc áp dụng biện pháp đó.\n19. Các nhiệm vụ, quyền hạn khác theo quy định của\npháp luật.\nĐiều 10. Nhiệm vụ, quyền hạn của Giám đốc Kho bạc Nhà nước tỉnh, thành phố\n1. Chỉ đạo việc tổ chức thực hiện và kiểm tra công\ntác thanh tra chuyên ngành trong phạm vi quản lý của mình.\n2. Quyết định thanh tra khi phát hiện có dấu hiệu\nvi phạm pháp luật hoặc theo yêu cầu của Tổng Giám đốc Kho bạc Nhà nước; phân công công chức thực hiện nhiệm vụ thanh tra chuyên ngành trong phạm vi quản lý của mình.\n3. Chỉ đạo, kiểm tra, giám sát Đoàn thanh tra\nchuyên ngành thực hiện đúng nội dung quyết định thanh tra.\n4. Báo cáo Tổng Giám đốc Kho bạc Nhà nước việc chồng\nchéo về phạm vi, đối tượng, nội dung, thời gian thanh tra trong phạm vi quản lý của mình.\n5. Kiến nghị với cơ quan nhà nước có thẩm quyền sửa\nđổi, bổ sung, ban hành quy định cho phù hợp yêu cầu quản lý; kiến nghị đình chỉ hoặc hủy bỏ quy định trái pháp luật phát hiện qua công tác thanh tra.\n6. Yêu cầu đối tượng thanh tra cung cấp thông tin,\ntài liệu, báo cáo bằng văn bản, giải trình về vấn đề liên quan đến nội dung thanh tra; yêu cầu cơ quan, tổ chức, cá nhân có thông tin, tài liệu liên quan đến nội dung thanh tra cung cấp thông tin, tài liệu đó.\n7. Trưng cầu giám định về vấn đề liên quan đến nội\ndung thanh tra.\n8. Yêu cầu các tổ chức tín dụng (nơi đối tượng\nthanh tra mở tài khoản) phong tỏa tài khoản của đối tượng thanh tra để phục vụ việc thanh tra khi có căn cứ cho rằng đối tượng thanh tra tẩu tán tài sản, không thực hiện quyết định thu hồi tiền, tài sản của cấp có thẩm quyền.\n9. Tạm đình chỉ hoặc kiến nghị người có thẩm quyền\nđình chỉ việc làm khi xét thấy việc làm đó gây thiệt hại nghiêm trọng đến lợi ích của Nhà nước, quyền và lợi ích hợp pháp của cơ quan, tổ chức, cá nhân.\n10. Kiến nghị người có thẩm quyền tạm đình chỉ việc\nthi hành quyết định kỷ luật, thuyên chuyển công tác, cho nghỉ hưu đối với người đang cộng tác với cơ quan Kho bạc Nhà nước hoặc đang là đối tượng thanh tra nếu xét thấy việc thi hành quyết định đó gây trở ngại cho việc thanh tra.\n11. Tạm đình chỉ hoặc kiến nghị người có thẩm quyền\ntạm đình chỉ công tác và xử lý đối với cán bộ, công chức, viên chức cố ý cản trở việc thanh tra hoặc không thực hiện yêu cầu, kiến nghị, quyết định thanh tra.\n12. Đình chỉ, thay đổi Trưởng đoàn thanh tra, thành\nviên Đoàn thanh tra khi không đáp ứng được yêu cầu, nhiệm vụ thanh tra hoặc có hành vi vi phạm pháp luật hoặc là người thân thích với đối tượng thanh tra hoặc vì lý do khách quan khác mà không thể thực hiện nhiệm vụ thanh tra.\n13. Kết luận về nội dung thanh tra đối với những cuộc\nthanh tra do mình ra quyết định thanh tra.\n14. Quyết định xử lý theo thẩm quyền hoặc kiến nghị\nngười có thẩm quyền xử lý kết quả thanh tra; kiểm tra, đôn đốc việc thực hiện quyết định xử lý về thanh tra; Quyết định thu hồi tiền, tài sản bị chiếm đoạt, sử dụng trái phép hoặc bị thất thoát do hành vi vi phạm pháp luật của đối tượng thanh tra gây ra; Chuyển hồ sơ vụ việc vi phạm pháp luật sang cơ quan điều tra khi phát hiện có dấu hiệu của tội phạm, đồng thời thông báo bằng văn bản cho Viện kiểm sát cùng cấp biết.\n15. Xử phạt vi phạm hành chính theo quy định của\nNghị định số 192/2013/NĐ-CP ngày 21/11/2013 của Chính phủ quy định việc xử phạt vi phạm hành chính trong lĩnh vực quản lý, sử dụng tài sản nhà nước; thực hành tiết kiệm, chống lãng phí; dự trữ quốc gia; kho bạc nhà nước và Thông tư số 54/2014/TT-BTC ngày 24/4/2014 của Bộ Tài chính quy định chi tiết và hướng dẫn thực hiện việc xử phạt vi phạm hành chính trong lĩnh vực kho bạc nhà nước theo quy định tại Nghị định số 192/2013/NĐ-CP ngày 21/11/2013 của Chính phủ.\n16. Giải quyết khiếu nại, tố cáo liên quan đến\ntrách nhiệm của Trưởng đoàn thanh tra, các thành viên khác của Đoàn thanh tra.\n17. Khi xét thấy không cần thiết áp dụng biện pháp\nquy định tại các khoản 8, 9, 10, 11 nêu trên thì Giám đốc Kho bạc Nhà nước tỉnh, thành phố phải quyết định hoặc kiến nghị hủy bỏ ngay việc áp dụng biện pháp đó.\n18. Các nhiệm vụ, quyền hạn khác theo quy định của\npháp luật.\nĐiều 11. Nhiệm vụ, quyền hạn của bộ phận tham mưu công tác thanh tra chuyên ngành tại Kho bạc Nhà nước\n1. Chủ trì xây dựng trình Tổng Giám đốc Kho bạc Nhà\nnước kế hoạch dài hạn và trung hạn về công tác thanh tra chuyên ngành; chủ trì, phối hợp với các đơn vị, bộ phận có liên quan thuộc cơ quan Kho bạc Nhà nước xây dựng chương trình, kế hoạch thanh tra hàng năm trình Tổng Giám đốc Kho bạc Nhà nước.\n2. Thực hiện thanh tra theo kế hoạch; thanh tra thường\nxuyên; thanh tra đột xuất khi được Tổng Giám đốc Kho bạc Nhà nước giao.\n3. Giải quyết khiếu nại, tố cáo và phòng, chống\ntham nhũng theo quy định của pháp luật khi được phân công.\n4. Tổng hợp, đánh giá và báo cáo kết quả công tác\nthanh tra chuyên ngành; giải quyết khiếu nại, tố cáo và phòng, chống tham nhũng.\n5. Theo dõi, đôn đốc, kiểm tra việc thực hiện kết\nluận, kiến nghị, quyết định xử lý về thanh tra của Tổng Giám đốc Kho bạc Nhà nước và Giám đốc Kho bạc Nhà nước tỉnh, thành phố.\n6. Xử lý theo thẩm quyền hoặc kiến nghị cơ quan nhà\nnước có thẩm quyền xử lý các vi phạm pháp luật phát hiện qua công tác thanh tra.\n7. Trình Tổng\nGiám đốc Kho bạc Nhà nước ban hành các quy định, quy trình, biện pháp nghiệp vụ thanh tra theo thẩm quyền.\n8. Giúp Tổng Giám đốc Kho bạc Nhà nước: hướng dẫn\nKho bạc Nhà nước tỉnh, thành phố xây dựng kế hoạch thanh tra chuyên ngành hàng năm; xem xét, phê duyệt kế hoạch thanh tra chuyên ngành hàng năm của Kho bạc Nhà nước tỉnh, thành phố.\n9. Giúp Tổng Giám đốc Kho bạc Nhà nước kiểm tra các Kho bạc Nhà nước tỉnh, thành\nphố trong việc thực hiện các quy định của pháp luật về thanh tra; giải quyết khiếu nại, tố cáo; phòng, chống tham nhũng.\n10. Chủ trì, phối hợp với các đơn vị liên quan giúp\nTổng Giám đốc Kho bạc Nhà nước tổ chức đào tạo, bồi dưỡng, hướng dẫn nghiệp vụ thanh tra chuyên ngành.\n11. Thực hiện các nhiệm vụ, quyền hạn khác do Tổng\nGiám đốc Kho bạc Nhà nước giao và theo quy định của pháp luật.\nĐiều 12. Nhiệm vụ, quyền hạn của bộ phận tham mưu công tác thanh tra chuyên ngành tại Kho bạc Nhà nước tỉnh, thành phố\n1. Chủ trì, phối hợp với các đơn vị, bộ phận có\nliên quan thuộc cơ quan mình xây dựng chương trình, kế hoạch thanh tra hàng năm trình Giám đốc Kho bạc Nhà nước tỉnh, thành phố.\n2. Thực hiện thanh tra theo kế hoạch; thanh tra thường\nxuyên; thanh tra đột xuất khi được Giám đốc Kho bạc Nhà nước tỉnh, thành phố giao.\n3. Giải quyết khiếu nại, tố cáo và phòng, chống\ntham nhũng theo quy định của pháp luật khi được phân công.\n4. Tổng hợp, đánh giá và báo cáo kết quả công tác\nthanh tra chuyên ngành; giải quyết khiếu nại, tố cáo và phòng, chống tham nhũng.\n5. Theo dõi, đôn đốc, kiểm tra việc thực hiện kết\nluận, kiến nghị, quyết định xử lý về thanh tra của Giám đốc Kho bạc Nhà nước tỉnh, thành phố.\n6. Xử lý theo thẩm quyền hoặc kiến nghị cơ quan nhà\nnước có thẩm quyền xử lý các vi phạm pháp luật phát hiện qua công tác thanh tra.\n7. Thực hiện các nhiệm vụ, quyền hạn khác do Giám đốc\nKho bạc Nhà nước tỉnh, thành phố giao và theo quy định của pháp luật.\nChương III\nHOẠT ĐỘNG THANH TRA\nCHUYÊN NGÀNH KHO BẠC NHÀ NƯỚC\nĐiều 13. Nội dung thanh tra chuyên ngành Kho bạc Nhà nước Kho bạc Nhà nước, Kho bạc Nhà nước tỉnh, thành phố thanh tra việc chấp hành các quy định của pháp luật về các khoản chi ngân sách nhà nước bao gồm chi thường xuyên và chi đầu tư xây dựng cơ bản thực hiện kiểm soát chi qua hệ thống Kho bạc Nhà nước, việc chấp hành các quy định của pháp luật của các quỹ tài chính do Kho bạc Nhà nước quản lý. Xác định tính hợp pháp, hợp lệ của các hồ sơ mà các đối tượng thanh tra gửi đến Kho bạc Nhà nước theo quy định để Kho bạc Nhà nước kiểm soát và thực hiện tạm ứng, thanh toán; đảm bảo các khoản chi theo đúng chế độ, đúng mục đích, đúng đối tượng và trong phạm vi dự toán được giao; việc chấp hành quy định về trình tự, thủ tục đối với chi thường xuyên và chi đầu tư xây dựng cơ bản thực hiện kiểm soát chi qua hệ thống Kho bạc Nhà nước; xem xét, xác định việc sử dụng vốn tạm ứng đúng mục đích. Đối với khoản chi đầu tư xây dựng cơ bản, vốn sự nghiệp có tính chất đầu tư, Kho bạc Nhà nước không thực hiện thanh tra chuyên ngành về việc chấp hành định mức, đơn giá, thiết kế, dự toán, khối lượng, chất lượng, hình thức lựa chọn nhà thầu và nhà cung cấp.\nĐiều 14. Xây dựng, phê duyệt và điều chỉnh kế hoạch thanh tra chuyên ngành Kho bạc Nhà nước hàng năm\n1. Kho bạc Nhà nước căn cứ vào yêu cầu nhiệm vụ\ncông tác thanh tra của ngành Tài chính, các nhiệm vụ trọng tâm của Kho bạc Nhà nước; hướng dẫn kế hoạch thanh tra chuyên ngành của hệ thống Kho bạc Nhà nước. Tổng Giám đốc Kho bạc Nhà nước ban hành hướng dẫn xây dựng kế hoạch thanh tra của hệ thống Kho bạc Nhà nước trước ngày 20 tháng 10 hàng năm.\n2. Kế hoạch thanh tra hàng năm được lập trên cơ sở\nyêu cầu quản lý của Kho bạc Nhà nước; căn cứ hướng dẫn, định hướng của Thanh tra Bộ Tài chính và việc đánh giá, phân tích thông tin về đối tượng thanh tra.\n3. Kế hoạch thanh tra hàng năm khi trình cấp có thẩm\nquyền phê duyệt bao gồm các tài liệu: thuyết minh căn cứ lập kế hoạch; danh mục đối tượng thanh tra và dự thảo Quyết định phê duyệt kế hoạch thanh tra.\nDanh mục đối tượng thanh tra bao gồm: Tên chuyên đề\nthanh tra; Tên đối tượng thanh tra; Trường hợp cần thiết ghi rõ nội dung thanh tra, thời gian thực hiện.\n4. Thời hạn xây dựng và phê duyệt kế hoạch thanh\ntra hàng năm thực hiện như sau:\na) Kho bạc Nhà nước lập kế hoạch thanh tra của\nmình, gửi đến Thanh tra Bộ Tài chính chậm nhất vào ngày 01 tháng 11 hàng năm, để tổng hợp trình Bộ trưởng Bộ Tài chính phê duyệt chậm nhất vào ngày 25 tháng 11 hàng năm.\nb) Kho bạc Nhà nước tỉnh, thành phố lập kế hoạch\nthanh tra của mình, gửi đến Kho bạc Nhà nước chậm nhất vào ngày 25 tháng 11 hàng năm. Tổng Giám đốc Kho bạc Nhà nước phê duyệt kế hoạch thanh tra của Kho bạc Nhà nước các tỉnh, thành phố chậm nhất vào ngày 15 tháng 12 hàng năm.\n5. Điều chỉnh kế hoạch thanh tra hàng năm:\na) Kế hoạch thanh tra hàng năm đã được phê duyệt được\nđiều chỉnh nếu thuộc một trong các trường hợp sau: - Theo chỉ đạo của Bộ trưởng Bộ Tài chính đối với Kho bạc Nhà nước; Tổng Giám đốc Kho bạc Nhà nước đối với Kho bạc Nhà nước tỉnh, thành phố. - Đề xuất của Chánh Thanh tra Bộ Tài chính đối với kế hoạch thanh tra chuyên ngành của Kho bạc Nhà nước trong quá trình thực hiện kế hoạch thanh tra hàng năm đã được phê duyệt, nếu phát sinh chồng chéo hoặc do các lý do khác. - Đề xuất của Tổng Giám đốc Kho bạc Nhà nước; Giám đốc Kho bạc Nhà nước tỉnh, thành phố, căn cứ nhiệm vụ của đơn vị, yêu cầu quản lý, trong trường hợp cần thiết, để đảm bảo thực hiện nhiệm vụ được giao.\nb) Thẩm quyền phê duyệt điều chỉnh kế hoạch thanh\ntra hàng năm: - Bộ trưởng Bộ Tài chính phê duyệt điều chỉnh kế hoạch thanh tra của Kho bạc Nhà nước. - Tổng Giám đốc Kho bạc Nhà nước phê duyệt điều chỉnh kế hoạch thanh tra của Kho bạc Nhà nước tỉnh, thành phố.\nc) Nội dung, thủ tục trình phê duyệt điều chỉnh kế\nhoạch thanh tra hàng năm như nội dung, thủ tục phê duyệt kế hoạch thanh tra hàng năm, trong đó phải nêu rõ lý do điều chỉnh.\nĐiều 15. Xử lý chồng chéo trong hoạt động thanh tra chuyên ngành Kho bạc Nhà nước\n1. Kế hoạch thanh tra của Kho bạc Nhà nước tỉnh,\nthành phố nếu có sự chồng chéo với kế hoạch của Kho bạc Nhà nước thì thực hiện theo kế hoạch của Kho bạc Nhà nước.\n2. Tổng Giám đốc Kho bạc Nhà nước chịu trách nhiệm\nxử lý các vấn đề chồng chéo trong hoạt động thanh tra của các Kho bạc Nhà nước tỉnh, thành phố; phối hợp với các đơn vị liên quan trong ngành xử lý chồng chéo phát sinh; báo cáo Chánh Thanh tra Bộ Tài chính xem xét quyết định khi cần thiết.\nĐiều 16. Thẩm quyền ra quyết định thanh tra chuyên ngành Kho bạc Nhà nước theo kế hoạch\n1. Tổng Giám đốc Kho bạc Nhà nước, Giám đốc Kho bạc\nNhà nước tỉnh, thành phố ra quyết định thanh tra theo kế hoạch và thành lập Đoàn thanh tra.\n2. Đối với những vụ việc phức tạp, liên quan đến\ntrách nhiệm quản lý của nhiều đơn vị trực thuộc thì Bộ trưởng Bộ Tài chính, Tổng Giám đốc Kho bạc Nhà nước ra quyết định thanh tra và thành lập đoàn thanh tra.\nĐiều 17. Thẩm quyền ra quyết định thanh tra chuyên ngành Kho bạc Nhà nước đột xuất\n1. Thanh tra đột xuất được tiến hành khi phát hiện\ncó dấu hiệu vi phạm pháp luật hoặc theo yêu cầu của việc giải quyết khiếu nại, tố cáo hoặc phòng chống tham nhũng hoặc theo yêu cầu của Bộ trưởng, Chánh Thanh tra Bộ Tài chính.\n2. Tổng Giám\nđốc Kho bạc Nhà nước, Giám đốc Kho bạc Nhà nước tỉnh, thành phố ra quyết định thanh tra đột xuất và thành lập Đoàn thanh tra. Kho bạc Nhà nước tỉnh, thành phố gửi quyết định thanh tra đột xuất về Kho bạc Nhà nước để tổng hợp báo cáo Chánh Thanh tra Bộ Tài chính.\n3. Đối với những vụ việc phức tạp, liên quan đến\ntrách nhiệm quản lý của nhiều đơn vị trực thuộc thì Bộ trưởng Bộ Tài chính, Tổng Giám đốc Kho bạc Nhà nước ra quyết định thanh tra và thành lập đoàn thanh tra.\nĐiều 18. Thời hạn của cuộc thanh tra chuyên ngành Kho bạc Nhà nước\n1. Thời hạn của cuộc thanh tra được tính từ ngày\ncông bố Quyết định thanh tra đến ngày kết thúc việc thanh tra tại nơi được thanh tra, trong đó: - Cuộc thanh tra chuyên ngành do Kho bạc Nhà nước tiến hành không quá 45 ngày, trường hợp phức tạp có kéo dài hơn, nhưng không quá 70 ngày. - Cuộc thanh tra chuyên ngành do Kho bạc Nhà nước tỉnh, thành phố trực thuộc Trung ương tiến hành không quá 30 ngày; trường hợp phức tạp có thể kéo dài hơn, nhưng không quá 45 ngày.\n2. Việc kéo dài thời hạn thanh tra đo người ra Quyết\nđịnh thanh tra chuyên ngành quyết định.\nĐiều 19. Đoàn thanh tra chuyên ngành Kho bạc Nhà nước\n1. Đoàn thanh tra chuyên ngành được thành lập để tiến\nhành cuộc thanh tra theo phạm vi, đối tượng, nội dung, nhiệm vụ, thời hạn ghi trong quyết định thanh tra. Đoàn thanh tra chuyên ngành có Trưởng đoàn thanh tra, thành viên Đoàn thanh tra, công chức thanh tra chuyên ngành; trường hợp cần thiết có Phó Trưởng đoàn thanh tra.\n2. Trưởng đoàn thanh tra chuyên ngành có nhiệm vụ,\nquyền hạn như sau:\na) Tổ chức, chỉ đạo\ncác thành viên Đoàn thanh tra thực hiện đúng nội dung quyết định thanh tra.\nb) Kiến nghị với người ra quyết định thanh tra áp dụng\nbiện pháp thuộc nhiệm vụ, quyền hạn của người ra quyết định thanh tra để bảo đảm thực hiện nhiệm vụ được giao.\nc) Yêu cầu đối tượng thanh tra cung cấp thông tin,\ntài liệu, báo cáo bằng văn bản, giải trình về vấn đề liên quan đến nội dung thanh tra.\nd) Lập biên bản về việc vi phạm của đối tượng thanh\ntra.\ne) Kiểm kê tài sản liên quan đến nội dung thanh tra\ncủa đối tượng thanh tra.\nf) Yêu cầu cơ quan, tổ chức, cá nhân có thông tin,\ntài liệu liên quan đến nội dung thanh tra cung cấp thông tin, tài liệu đó.\ng) Yêu cầu người có thẩm quyền tạm giữ tiền, đồ vật,\ngiấy phép sử dụng trái pháp luật khi xét thấy cần ngăn chặn ngay việc vi phạm pháp luật hoặc để xác minh tình tiết làm chứng cứ cho việc kết luận, xử lý.\nh) Quyết định niêm phong tài liệu của đối tượng\nthanh tra khi có căn cứ cho rằng có vi phạm pháp luật.\ni) Tạm đình chỉ hoặc kiến nghị người có thẩm quyền\nđình chỉ việc làm của người liên quan đến công việc đang được thanh tra khi xét thấy việc làm đó gây thiệt hại nghiêm trọng đến lợi ích của Nhà nước, quyền và lợi ích hợp pháp của cơ quan, tổ chức, cá nhân.\nj) Kiến nghị người có thẩm quyền tạm đình chỉ việc\nthi hành quyết định kỷ luật, thuyên chuyển công tác, cho nghỉ hưu đối với người đang cộng tác với cơ quan thanh tra nhà nước, cơ quan được giao thực hiện chức năng thanh tra chuyên ngành hoặc đang là đối tượng thanh tra nếu xét thấy việc thi hành quyết định đó gây trở ngại cho việc thanh tra.\nk) Yêu cầu tổ chức tín dụng nơi đối tượng thanh tra\ncó tài khoản phong tỏa tài khoản đó để phục vụ việc thanh tra khi có căn cứ cho rằng đối tượng thanh tra có hành vi tẩu tán tài sản.\nl) Báo cáo với người ra quyết định thanh tra về kết\nquả thanh tra và chịu trách nhiệm về tính chính xác, trung thực, khách quan của báo cáo đó.\nm) Khi xét thấy không cần thiết áp dụng biện pháp\nquy định tại các điểm g, h, i, j, và k khoản 2 Điều này thì Trưởng đoàn thanh tra phải quyết định hoặc kiến nghị hủy bỏ ngay việc áp dụng biện pháp đó. Khi thực hiện nhiệm vụ, quyền hạn của mình, Trưởng đoàn thanh tra phải chịu trách nhiệm trước trước pháp luật và người ra quyết định thanh tra về hành vi, quyết định của mình. Trưởng đoàn thanh tra được sử dụng dấu của cơ quan chủ trì tiến hành thanh tra khi ban hành văn bản để áp dụng các biện pháp thực hiện nhiệm vụ thanh tra.\n3. Thành viên Đoàn thanh tra, công chức thanh tra\nchuyên ngành có nhiệm vụ, quyền hạn như sau:\na) Thực hiện nhiệm vụ theo sự phân công của Trưởng đoàn thanh tra.\nb) Yêu cầu đối tượng thanh tra cung cấp thông tin,\ntài liệu, báo cáo bằng văn bản, giải trình về vấn đề liên quan đến nội dung thanh tra; yêu cầu cơ quan, tổ chức, cá nhân có thông tin, tài liệu liên quan đến nội dung thanh tra cung cấp thông tin, tài liệu đó.\nc) Kiến nghị Trưởng đoàn thanh tra áp dụng biện\npháp thuộc nhiệm vụ, quyền hạn của Trưởng đoàn thanh tra để bảo đảm thực hiện nhiệm vụ được giao.\nd) Lập biên bản vi phạm hành chính trong lĩnh vực\nKho bạc Nhà nước và có trách nhiệm ra quyết định xử phạt theo thẩm quyền hoặc báo cáo cấp có thẩm quyền ra quyết định xử lý vi phạm hành chính theo quy định.\ne) Kiến nghị việc xử lý về vấn đề khác liên quan đến\nnội dung thanh tra.\nf) Báo cáo kết quả thực hiện nhiệm vụ được giao với\nTrưởng đoàn thanh tra, chịu trách nhiệm trước pháp luật và Trưởng đoàn thanh tra về tính chính xác, trung thực, khách quan của nội dung đã báo cáo. Khi thực hiện các nhiệm vụ, quyền hạn của mình, thành viên Đoàn thanh tra, công chức thanh tra chuyên ngành phải chịu trách nhiệm trước pháp luật, trước Trưởng đoàn thanh tra và người ra quyết định thanh tra.\nĐiều 20. Trình tự, thủ tục hoạt động của Đoàn thanh tra chuyên ngành Kho bạc Nhà nước\n1. Xây dựng và phê duyệt kế hoạch tiến hành thanh\ntra của Đoàn Thanh tra chuyên ngành Kho bạc Nhà nước:\na) Trưởng đoàn thanh tra có trách nhiệm xây dựng kế\nhoạch tiến hành thanh tra của Đoàn thanh tra. Kế hoạch tiến hành thanh tra gồm: mục đích, yêu cầu, phạm vi, nội dung, đối tượng, thời kỳ, thời hạn thanh tra; phương pháp tiến hành thanh tra, tiến độ thực hiện, chế độ thông tin, báo cáo, phương tiện, thiết bị, kinh phí và những điều kiện vật chất cần thiết khác phục vụ hoạt động của Đoàn thanh tra; tổ chức thực hiện kế hoạch tiến hành thanh tra.\nb) Trưởng đoàn thanh tra trình người ra quyết định\nthanh tra phê duyệt kế hoạch tiến hành thanh tra.\nc) Thời gian xây dựng và phê duyệt kế hoạch tiến\nhành thanh tra do người ra quyết định thanh tra quyết định, nhưng không quá 05 ngày làm việc kể từ ngày ký quyết định thanh tra. Trường hợp thanh tra đột xuất thì thời gian không quá 03 ngày làm việc.\n2. Phổ biến kế hoạch tiến hành thanh tra:\na) Trưởng đoàn thanh tra phổ biến kế hoạch tiến\nhành thanh tra; phương pháp, cách thức tiến hành thanh tra; phân công nhiệm vụ cho các thành viên Đoàn thanh tra; khi cần thiết, tập huấn nghiệp vụ cho thành viên Đoàn thanh tra.\nb) Thành viên Đoàn thanh tra xây dựng kế hoạch thực\nhiện nhiệm vụ được phân công và báo cáo Trưởng đoàn thanh tra.\n3. Xây dựng đề cương yêu cầu đối tượng thanh tra\nbáo cáo: Căn cứ kế hoạch tiến hành thanh tra, Trưởng đoàn thanh tra có trách nhiệm xây dựng đề cương yêu cầu đối tượng thanh tra báo cáo và gửi đối tượng thanh tra trước ngày công bố quyết định thanh tra.\n4. Thông báo việc công bố quyết định thanh tra\nchuyên ngành: Trước khi công bố quyết định thanh tra, Trưởng đoàn thanh tra thông báo việc công bố quyết định thanh tra đến đối tượng thanh tra; trường hợp cần thiết, chuẩn bị để người ra quyết định thanh tra thông báo bằng văn bản đến đối tượng thanh tra. Thông báo phải nêu rõ thời gian, địa điểm, thành phần tham dự.\n5. Công bố quyết định thanh tra chuyên ngành:\na) Chậm nhất là 15 ngày kể từ ngày ký quyết định\nthanh tra, Trưởng đoàn thanh tra có trách nhiệm công bố quyết định thanh tra với đối tượng thanh tra.\nb) Khi công bố quyết định thanh tra, Trưởng đoàn\nthanh tra phải nêu rõ nhiệm vụ, quyền hạn của Đoàn thanh tra, thời hạn thanh tra, quyền và trách nhiệm của đối tượng thanh tra, dự kiến kế hoạch làm việc của Đoàn thanh tra với đối tượng thanh tra và những nội dung khác liên quan đến hoạt động của Đoàn thanh tra.\nc) Việc công bố quyết định thanh tra phải được lập\nthành biên bản. Biên bản phải có chữ ký của Trưởng đoàn thanh tra và Thủ trưởng cơ quan, tổ chức hoặc cá nhân là đối tượng thanh tra.\n6. Thu thập thông tin tài liệu, đánh giá việc chấp\nhành chính sách, pháp luật:\na) Thành viên Đoàn thanh tra có trách nhiệm thu thập,\nnghiên cứu, phân tích thông tin, tài liệu, chứng cứ; đánh giá việc chấp hành chính sách, pháp luật, nhiệm vụ, quyền hạn của đối tượng thanh tra liên quan đến nội dung thanh tra được phân công.\nb) Thành viên Đoàn thanh tra phải báo cáo về tiến độ\nvà kết quả thực hiện nhiệm vụ được giao theo yêu cầu của Trưởng đoàn thanh tra; trường hợp phát hiện những vấn đề vượt quá thẩm quyền cần phải xử lý ngay thì kịp thời báo cáo Trưởng đoàn thanh tra xem xét, quyết định.\nc) Trưởng đoàn thanh tra có trách nhiệm xem xét, xử\nlý kịp thời kiến nghị của thành viên Đoàn thanh tra; trường hợp vượt quá thẩm quyền thì báo cáo ngay người ra quyết định thanh tra xem xét, quyết định.\n7. Báo cáo tiến độ thực hiện nhiệm vụ thanh tra\nchuyên ngành:\na) Trưởng đoàn thanh tra có trách nhiệm báo cáo người\nra quyết định thanh tra về tiến độ thực hiện nhiệm vụ của Đoàn thanh tra theo kế hoạch tiến hành thanh tra hoặc theo yêu cầu đột xuất của người ra quyết định thanh tra.\nb) Tiến độ thực hiện nhiệm vụ thanh tra phải được\nbáo cáo bằng văn bản, gồm các nội dung: tiến độ thực hiện nhiệm vụ; nội dung đã hoàn thành; nội dung đang tiến hành; công việc thực hiện trong thời gian tới; kiến nghị, đề xuất (nếu có).\n8. Báo cáo kết quả thanh tra chuyên ngành:\nChậm nhất là 15 ngày, kể từ ngày kết thúc cuộc thanh tra, Trưởng đoàn thanh tra phải có văn bản báo cáo kết quả thanh tra, trừ trường hợp nội dung kết luận thanh tra phải chờ kết luận về chuyên môn của cơ quan, tổ chức có thẩm quyền. Báo cáo kết quả thanh tra chuyên ngành phải có các nội dung sau đây:\na) Khái quát về đối tượng thanh tra;\nb) Kết quả kiểm\ntra, xác minh về từng nội dung thanh tra;\nc) Đánh giá việc thực hiện chính sách, pháp luật,\nnhiệm vụ, việc chấp hành các quy định về tiêu chuẩn của đối tượng thanh tra;\nd) Các biện pháp xử lý theo thẩm quyền đã được áp dụng\ntrong quá trình tiến hành thanh tra; kiến nghị các biện pháp xử lý hành vi vi phạm pháp luật; kiến nghị sửa đổi, bổ sung, ban hành quy định cho phù hợp với yêu cầu quản lý hoặc hủy bỏ quy định trái pháp luật phát hiện qua thanh tra (nếu có);\ne) Ý kiến khác nhau giữa thành viên Đoàn thanh tra\n(nếu có).\n9. Xây dựng kết luận thanh tra chuyên ngành:\na) Người ra quyết định thanh tra chỉ đạo Trưởng\nđoàn thanh tra dự thảo kết luận thanh tra. Trường hợp cần thiết, người ra quyết định thanh tra yêu cầu đối tượng thanh tra, Trưởng đoàn thanh tra, thành viên Đoàn thanh tra báo cáo, giải trình để làm rõ thêm nội dung thanh tra.\nb) Trước khi kết luận chính thức, nếu thấy cần thiết\nthì người ra quyết định thanh tra lấy ý kiến của cơ quan chuyên môn hoặc gửi dự thảo kết luận thanh tra cho đối tượng thanh tra. Việc giải trình của đối tượng thanh tra được thực hiện bằng văn bản và có các tài liệu chứng minh kèm theo.\nĐiều 21. Kết luận thanh tra chuyên ngành và công khai kết luận thanh tra chuyên ngành Kho bạc Nhà nước\n1. Kết luận thanh tra chuyên ngành:\na) Căn cứ báo cáo kết quả thanh tra, nội dung giải\ntrình của đối tượng thanh tra (nếu có), chậm nhất 15 ngày kể từ ngày nhận được báo cáo kết quả thanh tra, người ra quyết định thanh tra phải ra văn bản kết luận thanh tra; trừ trường hợp nội dung kết luận thanh tra phải chờ kết luận về chuyên môn của cơ quan, tổ chức có thẩm quyền. Kết luận thanh tra phải có các nội dung sau đây: - Kết quả kiểm tra, xác minh về từng nội dung thanh tra - Kết luận về việc thực hiện chính sách, pháp luật, tiêu chuẩn theo nhiệm vụ, quyền hạn của đối tượng thanh tra thuộc nội dung thanh tra; xác định rõ tính chất, mức độ vi phạm, nguyên nhân, trách nhiệm của cơ quan, tổ chức, cá nhân có hành vi vi phạm (nếu có). - Kiến nghị các biện pháp xử lý vi phạm pháp luật; kiến nghị sửa đổi, bổ sung, ban hành quy định cho phù hợp với yêu cầu quản lý hoặc hủy bỏ quy định trái pháp luật phát hiện qua thanh tra (nếu có).\nb) Trong quá trình ra văn\nbản kết luận thanh tra, người ra quyết định thanh tra có quyền yêu cầu Trưởng đoàn thanh tra, thành viên Đoàn thanh tra báo cáo, yêu cầu đối tượng thanh tra giải trình để làm rõ thêm những vấn đề cần thiết phục vụ cho việc ra kết luận thanh tra.\nc) Người ra quyết định thanh tra có trách nhiệm tổ\nchức việc công bố kết luận thanh tra. Trường hợp cần thiết có thể ủy quyền cho Trưởng đoàn thanh tra công bố kết luận thanh tra. Việc công bố kết luận thanh tra được lập thành biên bản.\nd) Việc gửi kết luận thanh tra được thực hiện như\nsau: - Đối với cuộc thanh tra do Kho bạc Nhà nước tiến hành thì kết luận thanh tra phải gửi Thanh tra Bộ Tài chính, đối tượng thanh tra, Thủ trưởng cơ quan quản lý cấp trên trực tiếp của đối tượng thanh tra (nếu có) và cơ quan, tổ chức, cá nhân có liên quan. - Đối với cuộc thanh tra do Kho bạc Nhà nước tỉnh, thành phố tiến hành thì kết luận thanh tra phải gửi Kho bạc Nhà nước, đối tượng thanh tra, Thủ trưởng cơ quan quản lý cấp trên trực tiếp của đối tượng thanh tra (nếu có) và cơ quan, tổ chức, cá nhân có liên quan.\ne) Kết luận thanh tra chuyên ngành được lưu hồ sơ\nthanh tra.\n2. Công khai kết luận thanh tra chuyên ngành:\na) Kết luận thanh tra phải được công khai, trừ những\nnội dung trong kết luận thanh tra thuộc bí mật nhà nước.\nb) Trong thời hạn 10 ngày, kể từ ngày ký kết luận\nthanh tra, người ra kết luận thanh tra có trách nhiệm thực hiện việc công khai kết luận thanh tra.\nc) Việc công khai kết luận thanh tra theo những\nhình thức: - Công bố tại cuộc họp với thành phần gồm người ra quyết định thanh tra hoặc người được ủy quyền, đại diện Đoàn thanh tra, đối tượng thanh tra, cơ quan, tổ chức, cá nhân có liên quan. - Thông báo trên Trang thông tin điện tử của Kho bạc Nhà nước ít nhất là 05 ngày liên tục.\nd) Trong thời hạn 10 ngày, kể từ ngày ký kết luận\nthanh tra, căn cứ vào phạm vi trách nhiệm thực hiện kết luận thanh tra, người ra quyết định thanh tra có trách nhiệm cung cấp một phần hay toàn bộ kết luận thanh tra cho cơ quan, tổ chức, cá nhân có liên quan đến việc thực hiện kết luận thanh tra.\nĐiều 22. Thanh tra lại các kết luận thanh tra chuyên ngành Kho bạc Nhà nước\n1. Thẩm quyền thanh tra lại:\na) Chánh Thanh tra Bộ Tài chính quyết định thanh\ntra lại vụ việc đã được Tổng Giám đốc Kho bạc Nhà nước kết luận thuộc phạm vi, thẩm quyền quản lý nhà nước của Bộ Tài chính nhưng phát hiện có dấu hiệu vị phạm pháp luật khi được Bộ trưởng Bộ Tài chính giao.\nb) Tổng Giám đốc Kho bạc Nhà nước quyết định thanh tra lại vụ việc đã được\nGiám đốc Kho bạc Nhà nước tỉnh, thành phố kết luận nhưng phát hiện có dấu hiệu vi phạm pháp luật.\n2. Việc thanh tra lại được thực hiện khi có một\ntrong các căn cứ sau:\na) Có vi phạm nghiêm trọng về trình tự, thủ tục\ntrong tiến hành thanh tra.\nb) Có sai lầm trong việc áp dụng Pháp luật khi tiến\nhành thanh tra,\nc) Nội dung kết luận thanh tra không phù hợp với những\nchứng cứ thu thập được trong quá trình tiến hành thanh tra.\nd) Người ra Quyết định thanh tra, Trưởng đoàn thanh\ntra, thành viên Đoàn thanh tra cố ý làm sai lệch hồ sơ vụ việc hoặc cố ý kết luận trái với pháp luật.\ne) Có dấu hiệu vi phạm pháp luật nghiêm trọng của đối\ntượng thanh tra chưa được phát hiện đầy đủ qua thanh tra.\n3. Quyết định thanh tra lại:\na) Quyết định thanh tra lại bao gồm các nội dung:\nCăn cứ pháp lý để thanh tra; Phạm vi, đối tượng, nội dung, nhiệm vụ thanh tra; Thời hạn thanh tra; Trưởng đoàn thanh tra và các thành viên đoàn thanh tra.\nb) Chậm nhất là 03 ngày làm việc kể từ ngày ký quyết\nđịnh thanh tra lại, người ra quyết định thanh tra lại phải gửi quyết định thanh tra lại cho người đã ký kết luận thanh tra và đối tượng thanh tra lại.\nc) Quyết định thanh tra lại phải được công bố chậm\nnhất là 15 ngày kể từ ngày ký. Việc công bố Quyết định thanh tra lại phải được lập thành biên bản.\n4. Thời hiệu, thời hạn thanh tra lại:\na) Thời hiệu thanh tra lại là 01 năm kể từ ngày ký\nkết luận thanh tra.\nb) Thời hạn thanh tra lại như thời hạn thực hiện một\ncuộc thanh tra chuyên ngành theo quy định tại Điều 18 của Quy chế này.\n5. Nhiệm vụ, quyền hạn của người ra Quyết định\nthanh tra, Trưởng đoàn thanh tra, thành viên Đoàn thanh tra khi tiến hành thanh tra lại thực hiện theo quy định tại Điều 9 và Điều 19 Quy chế này.\n6. Báo cáo kết quả thanh tra lại, kết luận thanh\ntra lại, công khai kết luận thanh tra lại\na) Báo cáo kết quả thanh tra lại được thực hiện\ntheo quy định tại khoản 8 Điều 20 Quy chế này. Báo cáo kết quả thanh tra lại phải xác định rõ tính chất, mức độ vi phạm, nguyên nhân, trách nhiệm của người đã tiến hành thanh tra, kết luận thanh tra.\nb) Kết luận thanh tra lại được thực hiện theo quy định\ntại khoản 9 Điều 20 và khoản 1, khoản 2 Điều 21 Quy chế này. Kết luận thanh tra lại phải xác định rõ tính chất, mức độ vi phạm, nguyên nhân, trách nhiệm của người đã tiến hành thanh tra, kết luận thanh tra và kiến nghị biện pháp xử lý.\nc) Trong thời hạn 15 ngày, kể từ ngày ký kết luận\nthanh tra lại, Tổng Giám đốc Kho bạc Nhà nước gửi kết luận thanh tra lại tới Chánh Thanh tra Bộ Tài chính.\nĐiều 23. Chế độ thông tin, báo cáo\n1. Kho bạc Nhà nước, Kho bạc Nhà nước tỉnh, thành\nphố có trách nhiệm thực hiện các loại báo cáo về công tác thanh tra, giải quyết khiếu nại tố cáo và phòng, chống tham nhũng gửi cơ quan quản lý cấp trên trực tiếp (Kho bạc Nhà nước tỉnh, thành phố gửi báo cáo về Kho bạc Nhà nước; Kho bạc Nhà nước tổng hợp báo cáo toàn hệ thống gửi Thanh tra Bộ Tài chính).\n2. Các loại báo cáo:\na) Báo cáo định kỳ gồm: Báo cáo tháng, quý I, sơ kết\n6 tháng, Quý III và 9 tháng, báo cáo năm. Nội dung báo cáo: Nêu rõ kế hoạch công tác trong kỳ báo cáo; kết quả đạt được trong kỳ báo cáo; những đề xuất kiến nghị về xử lý các sai phạm; các kiến nghị sửa đổi bổ sung chế độ, chính sách quản lý tài chính và kết quả thực hiện kiến nghị, xử lý; khó khăn, vướng mắc, kiến nghị trong quá trình thực hiện nhiệm vụ và các nội dung cụ thể khác theo quy định, yêu cầu.\nb) Báo cáo chuyên đề.\nc) Báo cáo đột xuất theo yêu cầu quản lý của cơ\nquan quản lý nhà nước. Mẫu biểu, nội dung chi tiết các báo cáo trong từng lĩnh vực thực hiện theo quy định.\n3. Thời hạn gửi báo cáo:\n- Kho bạc Nhà nước tỉnh, thành phố gửi báo cáo định kỳ hàng tháng về Kho bạc Nhà nước trước ngày 05 tháng báo cáo; Báo cáo Quý I: trước ngày 05/3, Sơ kết 6 tháng: trước ngày 05/6, Quý III và 9 tháng: trước ngày 05/9, Tổng kết năm: trước ngày 05/12. - Kho bạc Nhà nước tổng hợp báo cáo gửi Thanh tra Bộ Tài chính theo thời hạn quy định tại Khoản 3 Điều 11 Thông tư số 19/2012/TT-BTC: gửi báo cáo định kỳ hàng tháng về Thanh tra Bộ Tài chính trước ngày 10 tháng báo cáo; Báo cáo Quý I: trước ngày 10/3, Sơ kết 6 tháng; trước ngày 10/6, Quý III và 9 tháng: trước ngày 10/9, Tổng kết năm: trước ngày 10/12.\nChương IV\nCÔNG CHỨC THANH TRA\nCHUYÊN NGÀNH KHO BẠC NHÀ NƯỚC\nĐiều 24. Tiêu chuẩn công chức thanh tra chuyên ngành Kho bạc Nhà nước Công chức thanh tra chuyên ngành Kho bạc Nhà nước là công chức thuộc biên chế của Kho bạc Nhà nước, Kho bạc Nhà nước tỉnh, thành phố có đủ điều kiện, tiêu chuẩn theo quy định của ngạch công chức đang giữ, theo quy định tại Điều 12 Nghị định số 07/2012/NĐ-CP ngày 09/02/2012 của Chính phủ quy định về cơ quan được giao thực hiện chức năng thanh tra chuyên ngành; Điều 6 Thông tư số 19/2013/TT-BTC ngày 20/02/2013 của Bộ Tài chính hướng dẫn thực hiện một số quy định về tổ chức và hoạt động thanh tra ngành Tài chính. Tiêu chuẩn công chức thanh tra chuyên ngành Kho bạc Nhà nước được quy định cụ thể như sau:\n1. Năng lực:\na) Am hiểu chủ trương, đường lối, chính sách của Đảng,\npháp luật của Nhà nước để vận dụng vào hoạt động thanh tra, giải quyết khiếu nại, tố cáo, phòng, chống tham nhũng.\nb) Nắm được nguyên tắc, chế độ, chính sách, quy định\ncủa Nhà nước về lĩnh vực chuyên ngành.\nc) Nắm được quy trình nghiệp vụ thanh tra, giải quyết\nkhiếu nại, tố cáo; có khả năng thực hiện nhiệm vụ được giao.\nd) Có khả năng phân tích, tổng hợp.\n2. Yêu cầu trình độ, thâm niên công tác:\na) Có bằng tốt nghiệp đại học trở lên phù hợp với\nchuyên môn thuộc ngành, lĩnh vực đang công tác;\nb) Có chứng chỉ bồi dưỡng nghiệp vụ thanh tra hoặc\nthanh tra chuyên ngành do cơ sở đào tạo có thẩm quyền cấp.\nc) Có ít nhất 01 năm làm công tác chuyên môn trong\nlĩnh vực được giao thực hiện nhiệm vụ thanh tra chuyên ngành (không kể thời gian tập sự).\nĐiều 25. Quyết định công nhận và cấp Thẻ công chức thanh tra chuyên ngành; mẫu Thẻ công chức; quản lý việc công nhận, cấp, sử dụng Thẻ công chức thanh tra chuyên ngành trong hệ thống Kho bạc Nhà nước\n1. Quyết định công nhận và cấp Thẻ công chức thanh\ntra chuyên ngành cho công chức làm công tác thanh tra chuyên ngành trong hệ thống Kho bạc Nhà nước:\na) Thủ trưởng đơn vị trực tiếp quản lý công chức tiến\nhành rà soát, lựa chọn công chức theo quy định tại Điều 24 Quy chế này có văn bản trình Tổng Giám đốc Kho bạc Nhà nước để xem xét, quyết định công nhận công chức thanh tra chuyên ngành.\nb) Điều kiện và thẩm quyền cấp thẻ công chức Thanh\ntra chuyên ngành: - Công chức thanh tra chuyên ngành Kho bạc Nhà nước được cấp Thẻ khi đảm bảo tiêu chuẩn nêu tại Điều 24 Quy chế này và tại thời điểm đề nghị cấp Thẻ đang công tác tại bộ phận tham mưu công tác thanh tra chuyên ngành Kho bạc Nhà nước (Vụ Thanh tra Kho bạc Nhà nước, Phòng Thanh tra, kiểm tra Kho bạc Nhà nước tỉnh, thành phố). - Tổng Giám đốc có thẩm quyền cấp Thẻ công chức thanh tra chuyên ngành cho công chức thuộc Kho bạc Nhà nước, Kho bạc Nhà nước tỉnh, thành phố.\nc) Hồ sơ trình quyết định công nhận công chức thanh\ntra chuyên ngành và cấp Thẻ gồm: - Văn bản đề nghị của cơ quan quản lý trực tiếp công chức (đối với Kho bạc Nhà nước tỉnh, thành phố) hoặc văn bản đề nghị của Vụ Thanh tra Kho bạc Nhà nước (đối với Kho bạc Nhà nước). - Sơ yếu lý lịch của công chức. - Bằng, chứng chỉ chuyên môn phù hợp với tiêu chuẩn công chức thanh tra chuyên ngành (bản sao có công chứng). - 02 ảnh cá nhân chụp kiểu chứng minh thư.\nd) Vụ tổ chức cán bộ Kho bạc Nhà nước phối hợp với\nVụ Thanh tra Kho bạc Nhà nước tiến hành thẩm định, trình Tổng Giám đốc Kho bạc Nhà nước ban hành Quyết định công nhận công chức thanh tra chuyên ngành và cấp Thẻ công chức thanh tra chuyên ngành trong vòng 15 ngày kể từ ngày nhận dù hồ sơ hợp lệ.\ne) Hồ sơ quyết định công nhận và cấp Thẻ công chức\nthanh tra chuyên ngành lưu tại Vụ Tổ chức cán bộ Kho bạc Nhà nước.\n2. Mẫu thẻ công chức thanh tra chuyên ngành: Mẫu thẻ\ncông chức thanh tra chuyên ngành của Kho bạc Nhà nước được thực hiện theo mẫu quy định tại Điều 8 Thông tư số 19/2013/TT-BTC ngày 20/02/2013 của Bộ Tài chính hướng dẫn thực hiện một số quy định về tổ chức và hoạt động thanh tra ngành Tài chính.\n3. Quản lý việc công nhận, cấp, sử dụng Thẻ công chức\nthanh tra chuyên ngành:\na) Công chức thanh tra chuyên ngành Kho bạc Nhà nước\nchỉ được sử dụng Thẻ công chức thanh tra chuyên ngành của mình khi thực hiện nhiệm vụ, quyền hạn theo quy định của pháp luật về thanh tra, giải quyết khiếu nại, tố cáo.\nb) Sử dụng Thẻ công chức thanh tra chuyên ngành:\n- Công chức được cấp Thẻ có trách nhiệm bảo quản Thẻ cẩn thận trong quá trình sử dụng. Nghiêm cấm công chức thanh tra chuyên ngành trong hệ thống Kho bạc Nhà nước sử dụng Thẻ vào mục đích cá nhân hoặc cho người khác mượn để sử dụng. Trường hợp công chức thanh tra chuyên ngành Kho bạc Nhà nước sử dụng Thẻ công chức thanh tra chuyên ngành để thực hiện hành vi trái pháp luật thì tùy theo mức độ vi phạm phải chịu xử lý theo quy định. - Trường hợp Thẻ công chức thanh tra chuyên ngành bị hỏng, bị mất, hết hạn sử dụng... phải làm thủ tục xin cấp lại. Thủ tục cấp lại Thẻ công chức thanh tra chuyên ngành giống như thủ tục cấp Thẻ lần đầu. - Thu hồi Thẻ công chức thanh tra chuyên ngành: Thẻ công chức thanh tra chuyên ngành phải thu hồi khi hết hạn hoặc công chức không được phân công thực hiện nhiệm vụ thanh tra chuyên ngành Kho bạc Nhà nước hoặc chuyển công tác, nghỉ hưu, chết. Trước khi Thẻ công chức thanh tra chuyên ngành hết hạn hoặc công chức chuyển công tác khác, nghỉ hưu thì công chức thanh tra chuyên ngành Kho bạc Nhà nước phải nộp Thẻ về Vụ Thanh tra Kho bạc Nhà nước. Ngay sau khi tiếp nhận Thẻ công chức thanh tra chuyên ngành thu hồi, đơn vị quản lý công chức (Vụ Thanh tra, Kho bạc Nhà nước tỉnh, thành phố) có trách nhiệm nộp Thẻ về Kho bạc Nhà nước (qua Vụ Tổ chức cán bộ).\nc) Quản lý việc công nhận, cấp, sử dụng Thẻ công chức\nthanh tra chuyên ngành: - Tổng Giám đốc Kho bạc Nhà nước chịu trách nhiệm về việc công nhận, cấp, quản lý việc sử dụng Thẻ công chức thanh tra chuyên ngành trong hệ thống Kho bạc Nhà nước theo đúng quy định. - Thanh tra Bộ Tài chính chịu trách nhiệm kiểm tra việc công nhận, cấp, quản lý Thẻ công chức thanh tra chuyên ngành của Kho bạc Nhà nước.\nd) Kinh phí làm thẻ, phát thẻ công chức thanh tra\nchuyên ngành do ngân sách nhà nước đảm bảo. Việc lập dự toán, quyết toán theo quy định của Luật ngân sách nhà nước và các văn bản hướng dẫn Luật.\nĐiều 26. Trang phục, biển hiệu, chế độ\n1. Trang phục:\nTrang phục của công chức thanh tra chuyên ngành trong hệ thống Kho bạc Nhà nước do Bộ Tài chính quy định theo đề nghị của Tổng Giám đốc Kho bạc Nhà nước. Kinh phí may, sắm trang phục của công chức thanh tra chuyên ngành trong hệ thống Kho bạc Nhà nước do ngân sách nhà nước đảm bảo, được bố trí trong dự toán ngân sách hàng năm của Kho bạc Nhà nước.\n2. Công chức thanh tra chuyên ngành trong hệ thống\nKho bạc Nhà nước phải đeo biển hiệu khi thực hiện nhiệm vụ thanh tra; tiếp công dân; giải quyết khiếu nại, tố cáo. Biển hiệu do Kho bạc Nhà nước cấp. Biển hiệu của công chức thanh tra chuyên ngành Kho bạc Nhà nước được thực hiện theo quy định tại Khoản 2 Điều 10 Thông tư số 19/2013/TT-BTC ngày 20/02/2013 của Bộ Tài chính hướng dẫn thực hiện một số quy định về tổ chức và hoạt động thanh tra ngành Tài chính.\n3. Công chức thanh tra chuyên ngành trong hệ thống Kho bạc Nhà nước được hưởng chế\nđộ bồi dưỡng theo quy định tại Quyết định số 12/2014/QĐ-TTg ngày 27/01/2014 của Thủ tướng Chính phủ về việc quy định chế độ bồi dưỡng đối với công chức thanh tra chuyên ngành.\nChương IV\nĐIỀU KHOẢN THI HÀNH\nĐiều 27. Điều khoản thi hành\n1. Quy chế này có hiệu lực từ ngày ký.\n2. Chánh Thanh tra Bộ Tài chính, Tổng Giám đốc Kho bạc\nNhà nước, Giám đốc Kho bạc Nhà nước các tỉnh, thành phố, các cơ quan, tổ chức và cá nhân có liên quan chịu trách nhiệm thực hiện theo Quy chế này./.",
+  "tree": {
+    "parts": [
+      {
+        "part_id": "doc:110647:part:1",
+        "part_type": "main",
+        "part_title": null,
+        "reference": null,
+        "direct_text": "QUYẾT ĐỊNH\nVỀ VIỆC BAN HÀNH QUY CHẾ HOẠT ĐỘNG THANH TRA CHUYÊN NGÀNH KHO BẠC NHÀ\nNƯỚC BỘ TRƯỞNG BỘ TÀI CHÍNH\nCăn cứ Luật Thanh tra ngày 15 tháng 11 năm 2010; Căn cứ Nghị định số 86/2011/NĐ-CP ngày 22 tháng; 9 năm 2011 của Chính phủ Quy định chi tiết và hướng dẫn thi hành một số điều của Luật Thanh tra; Căn cứ Nghị định số 07/2012/NĐ-CP ngày 09 tháng 02 năm 2012 của Chính phủ Quy định về cơ quan được giao thực hiện chức năng thanh tra chuyên ngành và hoạt động thanh tra chuyên ngành; Căn cứ Nghị định số 82/2012/NĐ-CP ngày 09 tháng 10 năm 2012 của Chính phủ về tổ chức và hoạt động thanh tra ngành Tài chính; Căn cứ Nghị định số 192/2013/NĐ-CP ngày 21 tháng 11 năm 2013 của Chính phủ Quy định việc xử phạt vi phạm hành chính trong lĩnh vực quản lý, sử dụng tài sản nhà nước; thực hành tiết kiệm, chống lãng phí; dự trữ quốc gia; kho bạc nhà nước; Căn cứ Nghị định số 215/2013/NĐ-CP ngày 23 tháng 12 năm 2013 của Chính phủ Quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài chính; Căn cứ Quyết định số 12/2014/QĐ-TTg ngày 27 tháng 01 năm 2014 của Thủ tướng Chính phủ về việc quy định chế độ bồi dưỡng đối với công chức thanh tra chuyên ngành; Căn cứ Thông tư số 19/2013/TT-BTC ngày 20 tháng 02 năm 2013 của Bộ Tài chính hướng dẫn thực hiện một số quy định về tổ chức và hoạt động thanh tra ngành Tài chính; Căn cứ Thông tư số 54/2014/TT-BTC ngày 24 tháng 4 năm 2014 của Bộ Tài chính quy định chi tiết và hướng dẫn thực hiện việc xử phạt vi phạm hành chính trong lĩnh vực kho bạc nhà nước theo quy định tại Nghị định số 192/2013/NĐ-CP ngày 21/11/2013 của Chính phủ; Xét đề nghị của Tổng Giám đốc Kho bạc Nhà nước và Chánh Thanh tra Bộ Tài chính,\nQUYẾT ĐỊNH:",
+        "chapters": [],
+        "sections": [],
+        "articles": [
+          {
+            "article_id": "doc:110647:part:1:article:1",
+            "number": "1",
+            "title": "Ban hành kèm theo Quyết định này Quy chế hoạt động thanh tra chuyên ngành Kho bạc Nhà nước.",
+            "content": "Điều 1. Ban hành kèm theo Quyết định này Quy chế hoạt động thanh tra chuyên ngành Kho bạc Nhà nước.",
+            "clauses": [],
+            "points": []
+          },
+          {
+            "article_id": "doc:110647:part:1:article:2",
+            "number": "2",
+            "title": "Chánh Thanh tra Bộ Tài chính, Tổng Giám đốc Kho bạc Nhà nước, Giám đốc Kho bạc Nhà nước các tỉnh, thành phố trực thuộc Trung ương chịu trách nhiệm thi hành Quyết định này./.",
+            "content": "Điều 2. Chánh Thanh tra Bộ Tài chính, Tổng Giám đốc Kho bạc Nhà nước, Giám đốc Kho bạc Nhà nước các tỉnh, thành phố trực thuộc Trung ương chịu trách nhiệm thi hành Quyết định này./.",
+            "clauses": [],
+            "points": []
+          }
+        ],
+        "unstructured_blocks": []
+      },
+      {
+        "part_id": "doc:110647:part:2",
+        "part_type": "regulation",
+        "part_title": "QUY CHẾ HOẠT ĐỘNG",
+        "reference": null,
+        "direct_text": "QUY CHẾ HOẠT ĐỘNG\nTHANH TRA CHUYÊN NGÀNH KHO BẠC NHÀ NƯỚC\n(Ban hành kèm theo Quyết định số 2456/QĐ-BTC ngày 24/9/2014, của Bộ trưởng Bộ\nTài chính)\nQuy chế này quy định về hoạt động Thanh tra chuyên\nngành Kho bạc Nhà nước, bao gồm: nhiệm vụ, quyền hạn của cơ quan, thủ trưởng cơ quan, bộ phận tham mưu công tác thanh tra chuyên ngành Kho bạc Nhà nước; hoạt động thanh tra chuyên ngành Kho bạc Nhà nước; tiêu chuẩn công chức thanh tra chuyên ngành Kho bạc Nhà nước; trang phục, thẻ, biển hiệu, chế độ đối với công chức thanh tra chuyên ngành Kho bạc Nhà nước.\nQuy chế này áp dụng đối với Tổng Giám đốc Kho bạc\nNhà nước; Giám đốc Kho bạc Nhà nước tỉnh, thành phố trực thuộc Trung ương (sau đây gọi chung là Giám đốc Kho bạc Nhà nước tỉnh, thành phố); Trưởng đoàn thanh tra chuyên ngành, thành viên Đoàn thanh tra chuyên ngành, công chức được giao thực hiện nhiệm vụ thanh tra chuyên ngành Kho bạc Nhà nước.\nDanh mục đối tượng thanh tra bao gồm: Tên chuyên đề\nthanh tra; Tên đối tượng thanh tra; Trường hợp cần thiết ghi rõ nội dung thanh tra, thời gian thực hiện.\n4. Thời hạn xây dựng và phê duyệt kế hoạch thanh\ntra hàng năm thực hiện như sau:\na) Kho bạc Nhà nước lập kế hoạch thanh tra của\nmình, gửi đến Thanh tra Bộ Tài chính chậm nhất vào ngày 01 tháng 11 hàng năm, để tổng hợp trình Bộ trưởng Bộ Tài chính phê duyệt chậm nhất vào ngày 25 tháng 11 hàng năm.\nb) Kho bạc Nhà nước tỉnh, thành phố lập kế hoạch\nthanh tra của mình, gửi đến Kho bạc Nhà nước chậm nhất vào ngày 25 tháng 11 hàng năm. Tổng Giám đốc Kho bạc Nhà nước phê duyệt kế hoạch thanh tra của Kho bạc Nhà nước các tỉnh, thành phố chậm nhất vào ngày 15 tháng 12 hàng năm.\n5. Điều chỉnh kế hoạch thanh tra hàng năm:\na) Kế hoạch thanh tra hàng năm đã được phê duyệt được\nđiều chỉnh nếu thuộc một trong các trường hợp sau: - Theo chỉ đạo của Bộ trưởng Bộ Tài chính đối với Kho bạc Nhà nước; Tổng Giám đốc Kho bạc Nhà nước đối với Kho bạc Nhà nước tỉnh, thành phố. - Đề xuất của Chánh Thanh tra Bộ Tài chính đối với kế hoạch thanh tra chuyên ngành của Kho bạc Nhà nước trong quá trình thực hiện kế hoạch thanh tra hàng năm đã được phê duyệt, nếu phát sinh chồng chéo hoặc do các lý do khác. - Đề xuất của Tổng Giám đốc Kho bạc Nhà nước; Giám đốc Kho bạc Nhà nước tỉnh, thành phố, căn cứ nhiệm vụ của đơn vị, yêu cầu quản lý, trong trường hợp cần thiết, để đảm bảo thực hiện nhiệm vụ được giao.\nb) Thẩm quyền phê duyệt điều chỉnh kế hoạch thanh\ntra hàng năm: - Bộ trưởng Bộ Tài chính phê duyệt điều chỉnh kế hoạch thanh tra của Kho bạc Nhà nước. - Tổng Giám đốc Kho bạc Nhà nước phê duyệt điều chỉnh kế hoạch thanh tra của Kho bạc Nhà nước tỉnh, thành phố.\nc) Nội dung, thủ tục trình phê duyệt điều chỉnh kế\nhoạch thanh tra hàng năm như nội dung, thủ tục phê duyệt kế hoạch thanh tra hàng năm, trong đó phải nêu rõ lý do điều chỉnh.",
+        "chapters": [
+          {
+            "chapter_id": "doc:110647:part:2:chapter:1",
+            "number": "I",
+            "title": "QUY ĐỊNH CHUNG",
+            "content": "Chương I\nQUY ĐỊNH CHUNG",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:110647:part:2:article:1",
+                "number": "1",
+                "title": "Phạm vi điều chỉnh",
+                "content": "Điều 1. Phạm vi điều chỉnh",
+                "clauses": [],
+                "points": []
+              },
+              {
+                "article_id": "doc:110647:part:2:article:2",
+                "number": "2",
+                "title": "Đối tượng áp dụng",
+                "content": "Điều 2. Đối tượng áp dụng",
+                "clauses": [],
+                "points": []
+              },
+              {
+                "article_id": "doc:110647:part:2:article:3",
+                "number": "3",
+                "title": "Cơ quan thực hiện chức năng thanh tra chuyên ngành Kho bạc Nhà nước Kho bạc Nhà nước, Kho bạc Nhà nước tỉnh, thành phố trực thuộc Trung ương (sau đây gọi chung là Kho bạc Nhà nước tỉnh, thành phố) là cơ quan được giao thực hiện chức năng thanh tra chuyên ngành.",
+                "content": "Điều 3. Cơ quan thực hiện chức năng thanh tra chuyên ngành Kho bạc Nhà nước Kho bạc Nhà nước, Kho bạc Nhà nước tỉnh, thành phố trực thuộc Trung ương (sau đây gọi chung là Kho bạc Nhà nước tỉnh, thành phố) là cơ quan được giao thực hiện chức năng thanh tra chuyên ngành.",
+                "clauses": [],
+                "points": []
+              },
+              {
+                "article_id": "doc:110647:part:2:article:4",
+                "number": "4",
+                "title": "Bộ phận tham mưu công tác thanh tra chuyên ngành Kho bạc Nhà nước Bộ phận tham mưu công tác thanh tra chuyên ngành tại Kho bạc Nhà nước tổ chức thành Vụ Thanh tra; tại Kho bạc Nhà nước tỉnh, thành phố tổ chức thành Phòng Thanh tra, kiểm tra.",
+                "content": "Điều 4. Bộ phận tham mưu công tác thanh tra chuyên ngành Kho bạc Nhà nước Bộ phận tham mưu công tác thanh tra chuyên ngành tại Kho bạc Nhà nước tổ chức thành Vụ Thanh tra; tại Kho bạc Nhà nước tỉnh, thành phố tổ chức thành Phòng Thanh tra, kiểm tra.",
+                "clauses": [],
+                "points": []
+              },
+              {
+                "article_id": "doc:110647:part:2:article:5",
+                "number": "5",
+                "title": "Nguyên tắc hoạt động thanh tra chuyên ngành Kho bạc Nhà nước",
+                "content": "Điều 5. Nguyên tắc hoạt động thanh tra chuyên ngành Kho bạc Nhà nước",
+                "clauses": [
+                  {
+                    "clause_id": "doc:110647:part:2:article:5:clause:1",
+                    "number": "1",
+                    "content": "1. Hoạt động thanh tra chuyên ngành Kho bạc Nhà nước\ndo Đoàn thanh tra chuyên ngành Kho bạc Nhà nước và người được giao thực hiện nhiệm vụ thanh tra chuyên ngành Kho bạc Nhà nước thực hiện.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:110647:part:2:article:5:clause:2",
+                    "number": "2",
+                    "content": "2. Hoạt động thanh tra chuyên ngành Kho bạc Nhà nước\nphải tuân theo pháp luật; bảo đảm chính xác, khách quan, trung thực, công khai, dân chủ, kịp thời; không trùng lặp về phạm vi, đối tượng, nội dung, thời gian thanh tra giữa các cơ quan thực hiện chức năng thanh tra; không làm cản trở hoạt động bình thường của cơ quan, tổ chức, cá nhân là đối tượng thanh tra.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:110647:part:2:article:5:clause:3",
+                    "number": "3",
+                    "content": "3. Hoạt động thanh tra chuyên ngành Kho bạc Nhà nước\nphải được tiến hành thường xuyên, gắn liền với việc thực hiện nhiệm vụ về chuyên môn, kỹ thuật, nghiệp vụ; phát hiện, ngăn chặn, xử lý kịp thời các hành vi vi phạm pháp luật.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:110647:part:2:article:5:clause:4",
+                    "number": "4",
+                    "content": "4. Tổng Giám đốc Kho bạc Nhà nước; Giám đốc Kho bạc\nNhà nước tỉnh, thành phố và người được giao thực hiện nhiệm vụ thanh tra chuyên ngành Kho bạc Nhà nước không được thực hiện các hành vi bị nghiêm cấm theo Điều 13 của Luật Thanh tra. Công chức thanh tra chuyên ngành Kho bạc Nhà nước phải báo cáo từ chối và không được tham gia Đoàn thanh tra trong trường hợp bố, mẹ, vợ, chồng, con, anh ruột, chị ruột, em ruột của mình trực tiếp là đối tượng thanh tra hoặc giữ chức vụ lãnh đạo, quản lý trong cơ quan, tổ chức là đối tượng thanh tra.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:110647:part:2:article:6",
+                "number": "6",
+                "title": "Các hoạt động thanh tra chuyên ngành Kho bạc Nhà nước",
+                "content": "Điều 6. Các hoạt động thanh tra chuyên ngành Kho bạc Nhà nước",
+                "clauses": [
+                  {
+                    "clause_id": "doc:110647:part:2:article:6:clause:1",
+                    "number": "1",
+                    "content": "1. Thanh tra đối với các cơ quan, tổ chức, cá nhân\nsử dụng ngân sách nhà nước có nghĩa vụ chấp hành quy định pháp luật trong các lĩnh vực thuộc phạm vi quản lý nhà nước của Kho bạc Nhà nước.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:110647:part:2:article:6:clause:2",
+                    "number": "2",
+                    "content": "2. Thanh tra việc chấp hành các quy định của pháp\nluật về các khoản chi ngân sách nhà nước thực hiện tại hệ thống Kho bạc Nhà nước, việc chấp hành các quy định của pháp luật của các quỹ tài chính do Kho bạc Nhà nước quản lý.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:110647:part:2:article:6:clause:3",
+                    "number": "3",
+                    "content": "3. Ban hành các quy định, quy trình, biện pháp nghiệp\nvụ thanh tra theo thẩm quyền thuộc lĩnh vực Kho bạc Nhà nước; Tổ chức tập huấn, đào tạo, bồi dưỡng, hướng dẫn nghiệp vụ và kiểm tra việc thực hiện các quy trình nghiệp vụ đó.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:110647:part:2:article:6:clause:4",
+                    "number": "4",
+                    "content": "4. Xây dựng kế hoạch thanh tra chuyên ngành Kho bạc\nNhà nước và tổ chức thực hiện kế hoạch thanh tra đã được phê duyệt; kiểm tra, đôn đốc việc xây dựng và thực hiện kế hoạch thanh, tra, việc chấp hành các quy định về công tác thanh tra của các cơ quan trong phạm vi quản lý của Kho bạc Nhà nước.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:110647:part:2:article:6:clause:5",
+                    "number": "5",
+                    "content": "5. Xử lý theo thẩm quyền hoặc kiến nghị cấp có thẩm\nquyền xử lý các vi phạm pháp luật thuộc phạm vi quản lý nhà nước của Kho bạc Nhà nước.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:110647:part:2:article:6:clause:6",
+                    "number": "6",
+                    "content": "6. Theo dõi, đôn đốc, kiểm tra các cơ quan, tổ chức,\ncá nhân thực hiện kết luận, kiến nghị thanh tra, các quyết định xử lý sau thanh tra.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:110647:part:2:article:6:clause:7",
+                    "number": "7",
+                    "content": "7. Giải quyết khiếu nại, tố cáo và phòng, chống\ntham nhũng theo quy định của pháp luật.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:110647:part:2:article:6:clause:8",
+                    "number": "8",
+                    "content": "8. Kiến nghị với cơ quan nhà nước có thẩm quyền sửa\nđổi, bổ sung, ban hành quy định cho phù hợp yêu cầu quản lý; kiến nghị đình chỉ hoặc hủy bỏ quy định trái pháp luật phát hiện qua công tác thanh tra.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:110647:part:2:article:6:clause:9",
+                    "number": "9",
+                    "content": "9. Tổng hợp, báo cáo kết quả công tác thanh tra\nchuyên ngành, giải quyết khiếu nại, tố cáo và phòng, chống tham nhũng thuộc phạm vi quản lý của Kho bạc Nhà nước.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:110647:part:2:chapter:2",
+            "number": "II",
+            "title": "NHIỆM VỤ, QUYỀN HẠN CỦA CƠ QUAN, THỦ TRƯỞNG CƠ QUAN, BỘ PHẬN THAM MƯU CÔNG TÁC THANH TRA CHUYÊN NGÀNH KHO BẠC NHÀ NƯỚC",
+            "content": "Chương II\nNHIỆM VỤ, QUYỀN HẠN CỦA\nCƠ QUAN, THỦ TRƯỞNG CƠ QUAN, BỘ PHẬN THAM MƯU CÔNG TÁC THANH TRA CHUYÊN NGÀNH\nKHO BẠC NHÀ NƯỚC",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:110647:part:2:article:7",
+                "number": "7",
+                "title": "Nhiệm vụ, quyền hạn của Kho bạc Nhà nước",
+                "content": "Điều 7. Nhiệm vụ, quyền hạn của Kho bạc Nhà nước",
+                "clauses": [
+                  {
+                    "clause_id": "doc:110647:part:2:article:7:clause:1",
+                    "number": "1",
+                    "content": "1. Xây dựng kế hoạch thanh tra gửi Thanh tra Bộ Tài\nchính tổng hợp để trình Bộ trưởng Bộ Tài chính phê duyệt và tổ chức thực hiện kế hoạch sau khi đã được phê duyệt Kho bạc Nhà nước có trách nhiệm hướng dẫn xây dựng và phê duyệt kế hoạch thanh tra của Kho bạc Nhà nước tỉnh, thành phố.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:110647:part:2:article:7:clause:2",
+                    "number": "2",
+                    "content": "2. Thanh tra việc chấp hành pháp luật chuyên ngành\nKho bạc Nhà nước, quy định về chuyên môn, quy tắc quản lý ngành, lĩnh vực thuộc phạm vi quản lý nhà nước của Kho bạc Nhà nước.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:110647:part:2:article:7:clause:3",
+                    "number": "3",
+                    "content": "3. Thanh tra theo kế hoạch; thanh tra những vụ việc\ncó dấu hiệu vi phạm pháp luật thuộc thẩm quyền của Kho bạc Nhà nước hoặc theo yêu cầu của Chánh Thanh tra Bộ Tài chính.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:110647:part:2:article:7:clause:4",
+                    "number": "4",
+                    "content": "4. Thanh tra những vụ việc khác do Bộ trưởng Bộ Tài\nchính giao.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:110647:part:2:article:7:clause:5",
+                    "number": "5",
+                    "content": "5. Theo dõi, đôn đốc, kiểm tra việc thực hiện kết\nluận, kiến nghị, quyết định xử lý về thanh tra của Kho bạc Nhà nước; theo dõi, kiểm tra việc thực hiện kết luận, kiến nghị, quyết định xử lý về thanh tra của Kho bạc Nhà nước tỉnh, thành phố.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:110647:part:2:article:7:clause:6",
+                    "number": "6",
+                    "content": "6. Thực hiện nhiệm vụ giải quyết khiếu nại, tố cáo\nvà phòng, chống tham nhũng theo quy định của pháp luật.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:110647:part:2:article:7:clause:7",
+                    "number": "7",
+                    "content": "7. Tổng hợp, báo cáo Thanh tra Bộ Tài chính kết quả\ncông tác thanh tra chuyên ngành, giải quyết khiếu nại, tố cáo và phòng, chống tham nhũng thuộc phạm vi quản lý của Kho bạc Nhà nước.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:110647:part:2:article:7:clause:8",
+                    "number": "8",
+                    "content": "8. Các nhiệm vụ, quyền hạn khác theo quy định của\npháp luật.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:110647:part:2:article:8",
+                "number": "8",
+                "title": "Nhiệm vụ, quyền hạn của Kho bạc Nhà nước tỉnh, thành phố",
+                "content": "Điều 8. Nhiệm vụ, quyền hạn của Kho bạc Nhà nước tỉnh, thành phố",
+                "clauses": [
+                  {
+                    "clause_id": "doc:110647:part:2:article:8:clause:1",
+                    "number": "1",
+                    "content": "1. Xây dựng kế hoạch thanh tra trình Tổng Giám đốc\nKho bạc Nhà nước phê duyệt và tổ chức thực hiện kế hoạch sau khi đã được phê duyệt.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:110647:part:2:article:8:clause:2",
+                    "number": "2",
+                    "content": "2. Thanh tra việc chấp hành pháp luật chuyên ngành,\nquy định về chuyên môn, quy tắc quản lý ngành, lĩnh vực thuộc phạm vi quản lý nhà nước của Kho bạc Nhà nước tỉnh, thành phố.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:110647:part:2:article:8:clause:3",
+                    "number": "3",
+                    "content": "3. Thanh tra theo kế hoạch; thanh tra những vụ việc\ncó dấu hiệu vi phạm pháp luật thuộc thẩm quyền của Kho bạc Nhà nước tỉnh, thành phố hoặc theo yêu cầu của Bộ trưởng Bộ Tài chính, Chánh Thanh tra Bộ Tài chính, Tổng Giám đốc Kho bạc Nhà nước.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:110647:part:2:article:8:clause:4",
+                    "number": "4",
+                    "content": "4. Theo dõi, đôn đốc, kiểm tra việc thực hiện kết luận, kiến nghị, quyết định xử lý về thanh\ntra của mình.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:110647:part:2:article:8:clause:5",
+                    "number": "5",
+                    "content": "5. Giải quyết khiếu nại, tố cáo và phòng, chống\ntham nhũng theo quy định của pháp luật.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:110647:part:2:article:8:clause:6",
+                    "number": "6",
+                    "content": "6. Tổng hợp, báo cáo Kho bạc Nhà nước kết quả công\ntác thanh tra chuyên ngành, giải quyết khiếu nại, tố cáo và phòng, chống tham nhũng thuộc phạm vi quản lý của Kho bạc Nhà nước tỉnh, thành phố.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:110647:part:2:article:8:clause:7",
+                    "number": "7",
+                    "content": "7. Các nhiệm vụ, quyền hạn khác theo quy định của\npháp luật.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:110647:part:2:article:9",
+                "number": "9",
+                "title": "Nhiệm vụ, quyền hạn của Tổng Giám đốc Kho bạc Nhà nước",
+                "content": "Điều 9. Nhiệm vụ, quyền hạn của Tổng Giám đốc Kho bạc Nhà nước",
+                "clauses": [
+                  {
+                    "clause_id": "doc:110647:part:2:article:9:clause:1",
+                    "number": "1",
+                    "content": "1. Chỉ đạo việc tổ chức thực hiện và kiểm tra công\ntác thanh tra chuyên ngành trong hệ thống Kho bạc Nhà nước.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:110647:part:2:article:9:clause:2",
+                    "number": "2",
+                    "content": "2. Ban hành các quy định, quy trình, biện pháp nghiệp\nvụ thanh tra theo thẩm quyền thuộc lĩnh vực Kho bạc Nhà nước.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:110647:part:2:article:9:clause:3",
+                    "number": "3",
+                    "content": "3. Quyết định thanh tra khi phát hiện có dấu hiệu\nvi phạm pháp luật hoặc theo yêu cầu của Bộ trưởng Bộ Tài chính, Chánh Thanh tra Bộ Tài chính; phân công công chức thực hiện nhiệm vụ thanh tra chuyên ngành.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:110647:part:2:article:9:clause:4",
+                    "number": "4",
+                    "content": "4. Chỉ đạo, kiểm tra, giám sát Đoàn thanh tra\nchuyên ngành thực hiện đúng nội dung quyết định thanh tra.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:110647:part:2:article:9:clause:5",
+                    "number": "5",
+                    "content": "5. Báo cáo Bộ trưởng Bộ Tài chính, Chánh Thanh tra\nBộ Tài chính việc chồng chéo về phạm vi, đối tượng, nội dung, thời gian thanh tra trong phạm vi quản lý của mình.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:110647:part:2:article:9:clause:6",
+                    "number": "6",
+                    "content": "6. Kiến nghị với cơ quan nhà nước có thẩm quyền sửa\nđổi, bổ sung, ban hành quy định cho phù hợp yêu cầu quản lý; kiến nghị đình chỉ hoặc hủy bỏ quy định trái pháp luật phát hiện qua công tác thanh tra.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:110647:part:2:article:9:clause:7",
+                    "number": "7",
+                    "content": "7. Yêu cầu đối tượng thanh tra cung cấp thông tin,\ntài liệu, báo cáo bằng văn bản, giải trình về vấn đề liên quan đến nội dung thanh tra; yêu cầu cơ quan, tổ chức, cá nhân có thông tin, tài liệu liên quan đến nội dung thanh tra cung cấp thông tin, tài liệu đó.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:110647:part:2:article:9:clause:8",
+                    "number": "8",
+                    "content": "8. Trưng cầu giám định về vấn đề liên quan đến nội\ndung thanh tra.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:110647:part:2:article:9:clause:9",
+                    "number": "9",
+                    "content": "9. Yêu cầu các tổ chức tín dụng (nơi đối tượng\nthanh tra mở tài khoản) phong tỏa tài khoản của đối tượng thanh tra để phục vụ việc thanh tra khi có căn cứ cho rằng đối tượng; thanh tra tẩu tán tài sản, không thực hiện quyết định thu hồi tiền, tài sản của cấp có thẩm quyền.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:110647:part:2:article:9:clause:10",
+                    "number": "10",
+                    "content": "10. Tạm đình chỉ hoặc kiến nghị người có thẩm quyền\nđình chỉ việc làm khi xét thấy việc Làm đó gây thiệt hại nghiêm trọng đến lợi ích của Nhà nước, quyền và lợi ích hợp pháp của cơ quan, tổ chức, cá nhân.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:110647:part:2:article:9:clause:11",
+                    "number": "11",
+                    "content": "11. Kiến nghị người có thẩm quyền tạm đình chỉ việc\nthi hành quyết định kỷ luật, thuyên chuyển công tác, cho nghỉ hưu đối với người đang cộng tác với cơ quan Kho bạc Nhà nước hoặc đang là đối tượng thanh tra nếu xét thấy việc thi hành quyết định đó gây trở ngại cho việc thanh tra.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:110647:part:2:article:9:clause:12",
+                    "number": "12",
+                    "content": "12. Tạm đình chỉ hoặc kiến nghị người có thẩm quyền\ntạm đình chỉ công tác và xử lý đối với cán bộ, công chức, viên chức cố ý cản trở việc thanh tra hoặc không thực hiện yêu cầu, kiến nghị, quyết định thanh tra.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:110647:part:2:article:9:clause:13",
+                    "number": "13",
+                    "content": "13. Đình chỉ, thay đổi Trưởng đoàn thanh tra, thành\nviên Đoàn thanh tra khi không đáp ứng được yêu cầu, nhiệm vụ thanh tra hoặc có hành vi vi phạm pháp luật hoặc là người thân thích với đối tượng thanh tra hoặc vì lý do khách quan khác mà không thể thực hiện nhiệm vụ thanh tra.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:110647:part:2:article:9:clause:14",
+                    "number": "14",
+                    "content": "14. Kết luận về nội dung thanh tra đối với những cuộc\nthanh tra do mình ra quyết định thanh tra.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:110647:part:2:article:9:clause:15",
+                    "number": "15",
+                    "content": "15. Quyết định xử lý theo thẩm quyền hoặc kiến nghị\nngười có thẩm quyền xử lý kết quả thanh tra; kiểm tra, đôn đốc việc thực hiện quyết định xử lý về thanh tra; Quyết định thu hồi tiền, tài sản bị chiếm đoạt, sử dụng trái phép hoặc bị thất thoát do hành vi vi phạm pháp luật của đối tượng thanh tra gây ra; Chuyển hồ sơ vụ việc vi phạm pháp luật sang cơ quan điều tra khi phát hiện có dấu hiệu của tội phạm, đồng thời thông báo bằng văn bản cho Viện kiểm sát cùng cấp biết.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:110647:part:2:article:9:clause:16",
+                    "number": "16",
+                    "content": "16. Xử phạt vi phạm hành chính theo quy định của Nghị định số 192/2013/NĐ-CP ngày\n21/11/2013 của Chính phủ quy định việc xử phạt vi phạm hành chính trong lĩnh vực quản lý, sử dụng tài sản nhà nước; thực hành tiết kiệm, chống lãng phí; dự trữ quốc gia; kho bạc nhà nước và Thông tư số 54/2014/TT-BTC ngày 24/4/2014 của Bộ Tài chính quy định chi tiết và hướng dẫn thực hiện việc xử phạt vi phạm hành chính trong lĩnh vực kho bạc nhà nước theo quy định tại Nghị định số 192/2013/NĐ-CP ngày 21/11/2013 của Chính phủ.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:110647:part:2:article:9:clause:17",
+                    "number": "17",
+                    "content": "17. Giải quyết khiếu nại, tố cáo liên quan đến\ntrách nhiệm của Trưởng đoàn thanh tra, các thành viên khác của Đoàn thanh tra.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:110647:part:2:article:9:clause:18",
+                    "number": "18",
+                    "content": "18. Khi xét thấy không cần thiết áp dụng biện pháp\nquy định tại các khoản 9, 10, 11, 12 nêu trên thì Tổng Giám đốc Kho bạc Nhà nước phải quyết định hoặc kiến nghị hủy bỏ ngay việc áp dụng biện pháp đó.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:110647:part:2:article:9:clause:19",
+                    "number": "19",
+                    "content": "19. Các nhiệm vụ, quyền hạn khác theo quy định của\npháp luật.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:110647:part:2:article:10",
+                "number": "10",
+                "title": "Nhiệm vụ, quyền hạn của Giám đốc Kho bạc Nhà nước tỉnh, thành phố",
+                "content": "Điều 10. Nhiệm vụ, quyền hạn của Giám đốc Kho bạc Nhà nước tỉnh, thành phố",
+                "clauses": [
+                  {
+                    "clause_id": "doc:110647:part:2:article:10:clause:1",
+                    "number": "1",
+                    "content": "1. Chỉ đạo việc tổ chức thực hiện và kiểm tra công\ntác thanh tra chuyên ngành trong phạm vi quản lý của mình.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:110647:part:2:article:10:clause:2",
+                    "number": "2",
+                    "content": "2. Quyết định thanh tra khi phát hiện có dấu hiệu\nvi phạm pháp luật hoặc theo yêu cầu của Tổng Giám đốc Kho bạc Nhà nước; phân công công chức thực hiện nhiệm vụ thanh tra chuyên ngành trong phạm vi quản lý của mình.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:110647:part:2:article:10:clause:3",
+                    "number": "3",
+                    "content": "3. Chỉ đạo, kiểm tra, giám sát Đoàn thanh tra\nchuyên ngành thực hiện đúng nội dung quyết định thanh tra.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:110647:part:2:article:10:clause:4",
+                    "number": "4",
+                    "content": "4. Báo cáo Tổng Giám đốc Kho bạc Nhà nước việc chồng\nchéo về phạm vi, đối tượng, nội dung, thời gian thanh tra trong phạm vi quản lý của mình.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:110647:part:2:article:10:clause:5",
+                    "number": "5",
+                    "content": "5. Kiến nghị với cơ quan nhà nước có thẩm quyền sửa\nđổi, bổ sung, ban hành quy định cho phù hợp yêu cầu quản lý; kiến nghị đình chỉ hoặc hủy bỏ quy định trái pháp luật phát hiện qua công tác thanh tra.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:110647:part:2:article:10:clause:6",
+                    "number": "6",
+                    "content": "6. Yêu cầu đối tượng thanh tra cung cấp thông tin,\ntài liệu, báo cáo bằng văn bản, giải trình về vấn đề liên quan đến nội dung thanh tra; yêu cầu cơ quan, tổ chức, cá nhân có thông tin, tài liệu liên quan đến nội dung thanh tra cung cấp thông tin, tài liệu đó.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:110647:part:2:article:10:clause:7",
+                    "number": "7",
+                    "content": "7. Trưng cầu giám định về vấn đề liên quan đến nội\ndung thanh tra.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:110647:part:2:article:10:clause:8",
+                    "number": "8",
+                    "content": "8. Yêu cầu các tổ chức tín dụng (nơi đối tượng\nthanh tra mở tài khoản) phong tỏa tài khoản của đối tượng thanh tra để phục vụ việc thanh tra khi có căn cứ cho rằng đối tượng thanh tra tẩu tán tài sản, không thực hiện quyết định thu hồi tiền, tài sản của cấp có thẩm quyền.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:110647:part:2:article:10:clause:9",
+                    "number": "9",
+                    "content": "9. Tạm đình chỉ hoặc kiến nghị người có thẩm quyền\nđình chỉ việc làm khi xét thấy việc làm đó gây thiệt hại nghiêm trọng đến lợi ích của Nhà nước, quyền và lợi ích hợp pháp của cơ quan, tổ chức, cá nhân.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:110647:part:2:article:10:clause:10",
+                    "number": "10",
+                    "content": "10. Kiến nghị người có thẩm quyền tạm đình chỉ việc\nthi hành quyết định kỷ luật, thuyên chuyển công tác, cho nghỉ hưu đối với người đang cộng tác với cơ quan Kho bạc Nhà nước hoặc đang là đối tượng thanh tra nếu xét thấy việc thi hành quyết định đó gây trở ngại cho việc thanh tra.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:110647:part:2:article:10:clause:11",
+                    "number": "11",
+                    "content": "11. Tạm đình chỉ hoặc kiến nghị người có thẩm quyền\ntạm đình chỉ công tác và xử lý đối với cán bộ, công chức, viên chức cố ý cản trở việc thanh tra hoặc không thực hiện yêu cầu, kiến nghị, quyết định thanh tra.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:110647:part:2:article:10:clause:12",
+                    "number": "12",
+                    "content": "12. Đình chỉ, thay đổi Trưởng đoàn thanh tra, thành\nviên Đoàn thanh tra khi không đáp ứng được yêu cầu, nhiệm vụ thanh tra hoặc có hành vi vi phạm pháp luật hoặc là người thân thích với đối tượng thanh tra hoặc vì lý do khách quan khác mà không thể thực hiện nhiệm vụ thanh tra.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:110647:part:2:article:10:clause:13",
+                    "number": "13",
+                    "content": "13. Kết luận về nội dung thanh tra đối với những cuộc\nthanh tra do mình ra quyết định thanh tra.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:110647:part:2:article:10:clause:14",
+                    "number": "14",
+                    "content": "14. Quyết định xử lý theo thẩm quyền hoặc kiến nghị\nngười có thẩm quyền xử lý kết quả thanh tra; kiểm tra, đôn đốc việc thực hiện quyết định xử lý về thanh tra; Quyết định thu hồi tiền, tài sản bị chiếm đoạt, sử dụng trái phép hoặc bị thất thoát do hành vi vi phạm pháp luật của đối tượng thanh tra gây ra; Chuyển hồ sơ vụ việc vi phạm pháp luật sang cơ quan điều tra khi phát hiện có dấu hiệu của tội phạm, đồng thời thông báo bằng văn bản cho Viện kiểm sát cùng cấp biết.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:110647:part:2:article:10:clause:15",
+                    "number": "15",
+                    "content": "15. Xử phạt vi phạm hành chính theo quy định của\nNghị định số 192/2013/NĐ-CP ngày 21/11/2013 của Chính phủ quy định việc xử phạt vi phạm hành chính trong lĩnh vực quản lý, sử dụng tài sản nhà nước; thực hành tiết kiệm, chống lãng phí; dự trữ quốc gia; kho bạc nhà nước và Thông tư số 54/2014/TT-BTC ngày 24/4/2014 của Bộ Tài chính quy định chi tiết và hướng dẫn thực hiện việc xử phạt vi phạm hành chính trong lĩnh vực kho bạc nhà nước theo quy định tại Nghị định số 192/2013/NĐ-CP ngày 21/11/2013 của Chính phủ.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:110647:part:2:article:10:clause:16",
+                    "number": "16",
+                    "content": "16. Giải quyết khiếu nại, tố cáo liên quan đến\ntrách nhiệm của Trưởng đoàn thanh tra, các thành viên khác của Đoàn thanh tra.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:110647:part:2:article:10:clause:17",
+                    "number": "17",
+                    "content": "17. Khi xét thấy không cần thiết áp dụng biện pháp\nquy định tại các khoản 8, 9, 10, 11 nêu trên thì Giám đốc Kho bạc Nhà nước tỉnh, thành phố phải quyết định hoặc kiến nghị hủy bỏ ngay việc áp dụng biện pháp đó.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:110647:part:2:article:10:clause:18",
+                    "number": "18",
+                    "content": "18. Các nhiệm vụ, quyền hạn khác theo quy định của\npháp luật.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:110647:part:2:article:11",
+                "number": "11",
+                "title": "Nhiệm vụ, quyền hạn của bộ phận tham mưu công tác thanh tra chuyên ngành tại Kho bạc Nhà nước",
+                "content": "Điều 11. Nhiệm vụ, quyền hạn của bộ phận tham mưu công tác thanh tra chuyên ngành tại Kho bạc Nhà nước",
+                "clauses": [
+                  {
+                    "clause_id": "doc:110647:part:2:article:11:clause:1",
+                    "number": "1",
+                    "content": "1. Chủ trì xây dựng trình Tổng Giám đốc Kho bạc Nhà\nnước kế hoạch dài hạn và trung hạn về công tác thanh tra chuyên ngành; chủ trì, phối hợp với các đơn vị, bộ phận có liên quan thuộc cơ quan Kho bạc Nhà nước xây dựng chương trình, kế hoạch thanh tra hàng năm trình Tổng Giám đốc Kho bạc Nhà nước.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:110647:part:2:article:11:clause:2",
+                    "number": "2",
+                    "content": "2. Thực hiện thanh tra theo kế hoạch; thanh tra thường\nxuyên; thanh tra đột xuất khi được Tổng Giám đốc Kho bạc Nhà nước giao.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:110647:part:2:article:11:clause:3",
+                    "number": "3",
+                    "content": "3. Giải quyết khiếu nại, tố cáo và phòng, chống\ntham nhũng theo quy định của pháp luật khi được phân công.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:110647:part:2:article:11:clause:4",
+                    "number": "4",
+                    "content": "4. Tổng hợp, đánh giá và báo cáo kết quả công tác\nthanh tra chuyên ngành; giải quyết khiếu nại, tố cáo và phòng, chống tham nhũng.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:110647:part:2:article:11:clause:5",
+                    "number": "5",
+                    "content": "5. Theo dõi, đôn đốc, kiểm tra việc thực hiện kết\nluận, kiến nghị, quyết định xử lý về thanh tra của Tổng Giám đốc Kho bạc Nhà nước và Giám đốc Kho bạc Nhà nước tỉnh, thành phố.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:110647:part:2:article:11:clause:6",
+                    "number": "6",
+                    "content": "6. Xử lý theo thẩm quyền hoặc kiến nghị cơ quan nhà\nnước có thẩm quyền xử lý các vi phạm pháp luật phát hiện qua công tác thanh tra.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:110647:part:2:article:11:clause:7",
+                    "number": "7",
+                    "content": "7. Trình Tổng\nGiám đốc Kho bạc Nhà nước ban hành các quy định, quy trình, biện pháp nghiệp vụ thanh tra theo thẩm quyền.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:110647:part:2:article:11:clause:8",
+                    "number": "8",
+                    "content": "8. Giúp Tổng Giám đốc Kho bạc Nhà nước: hướng dẫn\nKho bạc Nhà nước tỉnh, thành phố xây dựng kế hoạch thanh tra chuyên ngành hàng năm; xem xét, phê duyệt kế hoạch thanh tra chuyên ngành hàng năm của Kho bạc Nhà nước tỉnh, thành phố.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:110647:part:2:article:11:clause:9",
+                    "number": "9",
+                    "content": "9. Giúp Tổng Giám đốc Kho bạc Nhà nước kiểm tra các Kho bạc Nhà nước tỉnh, thành\nphố trong việc thực hiện các quy định của pháp luật về thanh tra; giải quyết khiếu nại, tố cáo; phòng, chống tham nhũng.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:110647:part:2:article:11:clause:10",
+                    "number": "10",
+                    "content": "10. Chủ trì, phối hợp với các đơn vị liên quan giúp\nTổng Giám đốc Kho bạc Nhà nước tổ chức đào tạo, bồi dưỡng, hướng dẫn nghiệp vụ thanh tra chuyên ngành.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:110647:part:2:article:11:clause:11",
+                    "number": "11",
+                    "content": "11. Thực hiện các nhiệm vụ, quyền hạn khác do Tổng\nGiám đốc Kho bạc Nhà nước giao và theo quy định của pháp luật.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:110647:part:2:article:12",
+                "number": "12",
+                "title": "Nhiệm vụ, quyền hạn của bộ phận tham mưu công tác thanh tra chuyên ngành tại Kho bạc Nhà nước tỉnh, thành phố",
+                "content": "Điều 12. Nhiệm vụ, quyền hạn của bộ phận tham mưu công tác thanh tra chuyên ngành tại Kho bạc Nhà nước tỉnh, thành phố",
+                "clauses": [
+                  {
+                    "clause_id": "doc:110647:part:2:article:12:clause:1",
+                    "number": "1",
+                    "content": "1. Chủ trì, phối hợp với các đơn vị, bộ phận có\nliên quan thuộc cơ quan mình xây dựng chương trình, kế hoạch thanh tra hàng năm trình Giám đốc Kho bạc Nhà nước tỉnh, thành phố.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:110647:part:2:article:12:clause:2",
+                    "number": "2",
+                    "content": "2. Thực hiện thanh tra theo kế hoạch; thanh tra thường\nxuyên; thanh tra đột xuất khi được Giám đốc Kho bạc Nhà nước tỉnh, thành phố giao.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:110647:part:2:article:12:clause:3",
+                    "number": "3",
+                    "content": "3. Giải quyết khiếu nại, tố cáo và phòng, chống\ntham nhũng theo quy định của pháp luật khi được phân công.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:110647:part:2:article:12:clause:4",
+                    "number": "4",
+                    "content": "4. Tổng hợp, đánh giá và báo cáo kết quả công tác\nthanh tra chuyên ngành; giải quyết khiếu nại, tố cáo và phòng, chống tham nhũng.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:110647:part:2:article:12:clause:5",
+                    "number": "5",
+                    "content": "5. Theo dõi, đôn đốc, kiểm tra việc thực hiện kết\nluận, kiến nghị, quyết định xử lý về thanh tra của Giám đốc Kho bạc Nhà nước tỉnh, thành phố.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:110647:part:2:article:12:clause:6",
+                    "number": "6",
+                    "content": "6. Xử lý theo thẩm quyền hoặc kiến nghị cơ quan nhà\nnước có thẩm quyền xử lý các vi phạm pháp luật phát hiện qua công tác thanh tra.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:110647:part:2:article:12:clause:7",
+                    "number": "7",
+                    "content": "7. Thực hiện các nhiệm vụ, quyền hạn khác do Giám đốc\nKho bạc Nhà nước tỉnh, thành phố giao và theo quy định của pháp luật.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:110647:part:2:chapter:3",
+            "number": "III",
+            "title": "HOẠT ĐỘNG THANH TRA CHUYÊN NGÀNH KHO BẠC NHÀ NƯỚC",
+            "content": "Chương III\nHOẠT ĐỘNG THANH TRA\nCHUYÊN NGÀNH KHO BẠC NHÀ NƯỚC",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:110647:part:2:article:13",
+                "number": "13",
+                "title": "Nội dung thanh tra chuyên ngành Kho bạc Nhà nước Kho bạc Nhà nước, Kho bạc Nhà nước tỉnh, thành phố thanh tra việc chấp hành các quy định của pháp luật về các khoản chi ngân sách nhà nước bao gồm chi thường xuyên và chi đầu tư xây dựng cơ bản thực hiện kiểm soát chi qua hệ thống Kho bạc Nhà nước, việc chấp hành các quy định của pháp luật của các quỹ tài chính do Kho bạc Nhà nước quản lý. Xác định tính hợp pháp, hợp lệ của các hồ sơ mà các đối tượng thanh tra gửi đến Kho bạc Nhà nước theo quy định để Kho bạc Nhà nước kiểm soát và thực hiện tạm ứng, thanh toán; đảm bảo các khoản chi theo đúng chế độ, đúng mục đích, đúng đối tượng và trong phạm vi dự toán được giao; việc chấp hành quy định về trình tự, thủ tục đối với chi thường xuyên và chi đầu tư xây dựng cơ bản thực hiện kiểm soát chi qua hệ thống Kho bạc Nhà nước; xem xét, xác định việc sử dụng vốn tạm ứng đúng mục đích. Đối với khoản chi đầu tư xây dựng cơ bản, vốn sự nghiệp có tính chất đầu tư, Kho bạc Nhà nước không thực hiện thanh tra chuyên ngành về việc chấp hành định mức, đơn giá, thiết kế, dự toán, khối lượng, chất lượng, hình thức lựa chọn nhà thầu và nhà cung cấp.",
+                "content": "Điều 13. Nội dung thanh tra chuyên ngành Kho bạc Nhà nước Kho bạc Nhà nước, Kho bạc Nhà nước tỉnh, thành phố thanh tra việc chấp hành các quy định của pháp luật về các khoản chi ngân sách nhà nước bao gồm chi thường xuyên và chi đầu tư xây dựng cơ bản thực hiện kiểm soát chi qua hệ thống Kho bạc Nhà nước, việc chấp hành các quy định của pháp luật của các quỹ tài chính do Kho bạc Nhà nước quản lý. Xác định tính hợp pháp, hợp lệ của các hồ sơ mà các đối tượng thanh tra gửi đến Kho bạc Nhà nước theo quy định để Kho bạc Nhà nước kiểm soát và thực hiện tạm ứng, thanh toán; đảm bảo các khoản chi theo đúng chế độ, đúng mục đích, đúng đối tượng và trong phạm vi dự toán được giao; việc chấp hành quy định về trình tự, thủ tục đối với chi thường xuyên và chi đầu tư xây dựng cơ bản thực hiện kiểm soát chi qua hệ thống Kho bạc Nhà nước; xem xét, xác định việc sử dụng vốn tạm ứng đúng mục đích. Đối với khoản chi đầu tư xây dựng cơ bản, vốn sự nghiệp có tính chất đầu tư, Kho bạc Nhà nước không thực hiện thanh tra chuyên ngành về việc chấp hành định mức, đơn giá, thiết kế, dự toán, khối lượng, chất lượng, hình thức lựa chọn nhà thầu và nhà cung cấp.",
+                "clauses": [],
+                "points": []
+              },
+              {
+                "article_id": "doc:110647:part:2:article:14",
+                "number": "14",
+                "title": "Xây dựng, phê duyệt và điều chỉnh kế hoạch thanh tra chuyên ngành Kho bạc Nhà nước hàng năm",
+                "content": "Điều 14. Xây dựng, phê duyệt và điều chỉnh kế hoạch thanh tra chuyên ngành Kho bạc Nhà nước hàng năm",
+                "clauses": [
+                  {
+                    "clause_id": "doc:110647:part:2:article:14:clause:1",
+                    "number": "1",
+                    "content": "1. Kho bạc Nhà nước căn cứ vào yêu cầu nhiệm vụ\ncông tác thanh tra của ngành Tài chính, các nhiệm vụ trọng tâm của Kho bạc Nhà nước; hướng dẫn kế hoạch thanh tra chuyên ngành của hệ thống Kho bạc Nhà nước. Tổng Giám đốc Kho bạc Nhà nước ban hành hướng dẫn xây dựng kế hoạch thanh tra của hệ thống Kho bạc Nhà nước trước ngày 20 tháng 10 hàng năm.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:110647:part:2:article:14:clause:2",
+                    "number": "2",
+                    "content": "2. Kế hoạch thanh tra hàng năm được lập trên cơ sở\nyêu cầu quản lý của Kho bạc Nhà nước; căn cứ hướng dẫn, định hướng của Thanh tra Bộ Tài chính và việc đánh giá, phân tích thông tin về đối tượng thanh tra.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:110647:part:2:article:14:clause:3",
+                    "number": "3",
+                    "content": "3. Kế hoạch thanh tra hàng năm khi trình cấp có thẩm\nquyền phê duyệt bao gồm các tài liệu: thuyết minh căn cứ lập kế hoạch; danh mục đối tượng thanh tra và dự thảo Quyết định phê duyệt kế hoạch thanh tra.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:110647:part:2:article:15",
+                "number": "15",
+                "title": "Xử lý chồng chéo trong hoạt động thanh tra chuyên ngành Kho bạc Nhà nước",
+                "content": "Điều 15. Xử lý chồng chéo trong hoạt động thanh tra chuyên ngành Kho bạc Nhà nước",
+                "clauses": [
+                  {
+                    "clause_id": "doc:110647:part:2:article:15:clause:1",
+                    "number": "1",
+                    "content": "1. Kế hoạch thanh tra của Kho bạc Nhà nước tỉnh,\nthành phố nếu có sự chồng chéo với kế hoạch của Kho bạc Nhà nước thì thực hiện theo kế hoạch của Kho bạc Nhà nước.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:110647:part:2:article:15:clause:2",
+                    "number": "2",
+                    "content": "2. Tổng Giám đốc Kho bạc Nhà nước chịu trách nhiệm\nxử lý các vấn đề chồng chéo trong hoạt động thanh tra của các Kho bạc Nhà nước tỉnh, thành phố; phối hợp với các đơn vị liên quan trong ngành xử lý chồng chéo phát sinh; báo cáo Chánh Thanh tra Bộ Tài chính xem xét quyết định khi cần thiết.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:110647:part:2:article:16",
+                "number": "16",
+                "title": "Thẩm quyền ra quyết định thanh tra chuyên ngành Kho bạc Nhà nước theo kế hoạch",
+                "content": "Điều 16. Thẩm quyền ra quyết định thanh tra chuyên ngành Kho bạc Nhà nước theo kế hoạch",
+                "clauses": [
+                  {
+                    "clause_id": "doc:110647:part:2:article:16:clause:1",
+                    "number": "1",
+                    "content": "1. Tổng Giám đốc Kho bạc Nhà nước, Giám đốc Kho bạc\nNhà nước tỉnh, thành phố ra quyết định thanh tra theo kế hoạch và thành lập Đoàn thanh tra.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:110647:part:2:article:16:clause:2",
+                    "number": "2",
+                    "content": "2. Đối với những vụ việc phức tạp, liên quan đến\ntrách nhiệm quản lý của nhiều đơn vị trực thuộc thì Bộ trưởng Bộ Tài chính, Tổng Giám đốc Kho bạc Nhà nước ra quyết định thanh tra và thành lập đoàn thanh tra.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:110647:part:2:article:17",
+                "number": "17",
+                "title": "Thẩm quyền ra quyết định thanh tra chuyên ngành Kho bạc Nhà nước đột xuất",
+                "content": "Điều 17. Thẩm quyền ra quyết định thanh tra chuyên ngành Kho bạc Nhà nước đột xuất",
+                "clauses": [
+                  {
+                    "clause_id": "doc:110647:part:2:article:17:clause:1",
+                    "number": "1",
+                    "content": "1. Thanh tra đột xuất được tiến hành khi phát hiện\ncó dấu hiệu vi phạm pháp luật hoặc theo yêu cầu của việc giải quyết khiếu nại, tố cáo hoặc phòng chống tham nhũng hoặc theo yêu cầu của Bộ trưởng, Chánh Thanh tra Bộ Tài chính.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:110647:part:2:article:17:clause:2",
+                    "number": "2",
+                    "content": "2. Tổng Giám\nđốc Kho bạc Nhà nước, Giám đốc Kho bạc Nhà nước tỉnh, thành phố ra quyết định thanh tra đột xuất và thành lập Đoàn thanh tra. Kho bạc Nhà nước tỉnh, thành phố gửi quyết định thanh tra đột xuất về Kho bạc Nhà nước để tổng hợp báo cáo Chánh Thanh tra Bộ Tài chính.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:110647:part:2:article:17:clause:3",
+                    "number": "3",
+                    "content": "3. Đối với những vụ việc phức tạp, liên quan đến\ntrách nhiệm quản lý của nhiều đơn vị trực thuộc thì Bộ trưởng Bộ Tài chính, Tổng Giám đốc Kho bạc Nhà nước ra quyết định thanh tra và thành lập đoàn thanh tra.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:110647:part:2:article:18",
+                "number": "18",
+                "title": "Thời hạn của cuộc thanh tra chuyên ngành Kho bạc Nhà nước",
+                "content": "Điều 18. Thời hạn của cuộc thanh tra chuyên ngành Kho bạc Nhà nước",
+                "clauses": [
+                  {
+                    "clause_id": "doc:110647:part:2:article:18:clause:1",
+                    "number": "1",
+                    "content": "1. Thời hạn của cuộc thanh tra được tính từ ngày\ncông bố Quyết định thanh tra đến ngày kết thúc việc thanh tra tại nơi được thanh tra, trong đó: - Cuộc thanh tra chuyên ngành do Kho bạc Nhà nước tiến hành không quá 45 ngày, trường hợp phức tạp có kéo dài hơn, nhưng không quá 70 ngày. - Cuộc thanh tra chuyên ngành do Kho bạc Nhà nước tỉnh, thành phố trực thuộc Trung ương tiến hành không quá 30 ngày; trường hợp phức tạp có thể kéo dài hơn, nhưng không quá 45 ngày.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:110647:part:2:article:18:clause:2",
+                    "number": "2",
+                    "content": "2. Việc kéo dài thời hạn thanh tra đo người ra Quyết\nđịnh thanh tra chuyên ngành quyết định.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:110647:part:2:article:19",
+                "number": "19",
+                "title": "Đoàn thanh tra chuyên ngành Kho bạc Nhà nước",
+                "content": "Điều 19. Đoàn thanh tra chuyên ngành Kho bạc Nhà nước",
+                "clauses": [
+                  {
+                    "clause_id": "doc:110647:part:2:article:19:clause:1",
+                    "number": "1",
+                    "content": "1. Đoàn thanh tra chuyên ngành được thành lập để tiến\nhành cuộc thanh tra theo phạm vi, đối tượng, nội dung, nhiệm vụ, thời hạn ghi trong quyết định thanh tra. Đoàn thanh tra chuyên ngành có Trưởng đoàn thanh tra, thành viên Đoàn thanh tra, công chức thanh tra chuyên ngành; trường hợp cần thiết có Phó Trưởng đoàn thanh tra.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:110647:part:2:article:19:clause:2",
+                    "number": "2",
+                    "content": "2. Trưởng đoàn thanh tra chuyên ngành có nhiệm vụ,\nquyền hạn như sau:",
+                    "points": [
+                      {
+                        "point_id": "doc:110647:part:2:article:19:clause:2:point:1",
+                        "label": "a",
+                        "content": "a) Tổ chức, chỉ đạo\ncác thành viên Đoàn thanh tra thực hiện đúng nội dung quyết định thanh tra.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:110647:part:2:article:19:clause:2:point:2",
+                        "label": "b",
+                        "content": "b) Kiến nghị với người ra quyết định thanh tra áp dụng\nbiện pháp thuộc nhiệm vụ, quyền hạn của người ra quyết định thanh tra để bảo đảm thực hiện nhiệm vụ được giao.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:110647:part:2:article:19:clause:2:point:3",
+                        "label": "c",
+                        "content": "c) Yêu cầu đối tượng thanh tra cung cấp thông tin,\ntài liệu, báo cáo bằng văn bản, giải trình về vấn đề liên quan đến nội dung thanh tra.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:110647:part:2:article:19:clause:2:point:4",
+                        "label": "d",
+                        "content": "d) Lập biên bản về việc vi phạm của đối tượng thanh\ntra.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:110647:part:2:article:19:clause:2:point:5",
+                        "label": "e",
+                        "content": "e) Kiểm kê tài sản liên quan đến nội dung thanh tra\ncủa đối tượng thanh tra.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:110647:part:2:article:19:clause:2:point:6",
+                        "label": "f",
+                        "content": "f) Yêu cầu cơ quan, tổ chức, cá nhân có thông tin,\ntài liệu liên quan đến nội dung thanh tra cung cấp thông tin, tài liệu đó.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:110647:part:2:article:19:clause:2:point:7",
+                        "label": "g",
+                        "content": "g) Yêu cầu người có thẩm quyền tạm giữ tiền, đồ vật,\ngiấy phép sử dụng trái pháp luật khi xét thấy cần ngăn chặn ngay việc vi phạm pháp luật hoặc để xác minh tình tiết làm chứng cứ cho việc kết luận, xử lý.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:110647:part:2:article:19:clause:2:point:8",
+                        "label": "h",
+                        "content": "h) Quyết định niêm phong tài liệu của đối tượng\nthanh tra khi có căn cứ cho rằng có vi phạm pháp luật.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:110647:part:2:article:19:clause:2:point:9",
+                        "label": "i",
+                        "content": "i) Tạm đình chỉ hoặc kiến nghị người có thẩm quyền\nđình chỉ việc làm của người liên quan đến công việc đang được thanh tra khi xét thấy việc làm đó gây thiệt hại nghiêm trọng đến lợi ích của Nhà nước, quyền và lợi ích hợp pháp của cơ quan, tổ chức, cá nhân.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:110647:part:2:article:19:clause:2:point:10",
+                        "label": "j",
+                        "content": "j) Kiến nghị người có thẩm quyền tạm đình chỉ việc\nthi hành quyết định kỷ luật, thuyên chuyển công tác, cho nghỉ hưu đối với người đang cộng tác với cơ quan thanh tra nhà nước, cơ quan được giao thực hiện chức năng thanh tra chuyên ngành hoặc đang là đối tượng thanh tra nếu xét thấy việc thi hành quyết định đó gây trở ngại cho việc thanh tra.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:110647:part:2:article:19:clause:2:point:11",
+                        "label": "k",
+                        "content": "k) Yêu cầu tổ chức tín dụng nơi đối tượng thanh tra\ncó tài khoản phong tỏa tài khoản đó để phục vụ việc thanh tra khi có căn cứ cho rằng đối tượng thanh tra có hành vi tẩu tán tài sản.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:110647:part:2:article:19:clause:2:point:12",
+                        "label": "l",
+                        "content": "l) Báo cáo với người ra quyết định thanh tra về kết\nquả thanh tra và chịu trách nhiệm về tính chính xác, trung thực, khách quan của báo cáo đó.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:110647:part:2:article:19:clause:2:point:13",
+                        "label": "m",
+                        "content": "m) Khi xét thấy không cần thiết áp dụng biện pháp\nquy định tại các điểm g, h, i, j, và k khoản 2 Điều này thì Trưởng đoàn thanh tra phải quyết định hoặc kiến nghị hủy bỏ ngay việc áp dụng biện pháp đó. Khi thực hiện nhiệm vụ, quyền hạn của mình, Trưởng đoàn thanh tra phải chịu trách nhiệm trước trước pháp luật và người ra quyết định thanh tra về hành vi, quyết định của mình. Trưởng đoàn thanh tra được sử dụng dấu của cơ quan chủ trì tiến hành thanh tra khi ban hành văn bản để áp dụng các biện pháp thực hiện nhiệm vụ thanh tra.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:110647:part:2:article:19:clause:3",
+                    "number": "3",
+                    "content": "3. Thành viên Đoàn thanh tra, công chức thanh tra\nchuyên ngành có nhiệm vụ, quyền hạn như sau:",
+                    "points": [
+                      {
+                        "point_id": "doc:110647:part:2:article:19:clause:3:point:1",
+                        "label": "a",
+                        "content": "a) Thực hiện nhiệm vụ theo sự phân công của Trưởng đoàn thanh tra.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:110647:part:2:article:19:clause:3:point:2",
+                        "label": "b",
+                        "content": "b) Yêu cầu đối tượng thanh tra cung cấp thông tin,\ntài liệu, báo cáo bằng văn bản, giải trình về vấn đề liên quan đến nội dung thanh tra; yêu cầu cơ quan, tổ chức, cá nhân có thông tin, tài liệu liên quan đến nội dung thanh tra cung cấp thông tin, tài liệu đó.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:110647:part:2:article:19:clause:3:point:3",
+                        "label": "c",
+                        "content": "c) Kiến nghị Trưởng đoàn thanh tra áp dụng biện\npháp thuộc nhiệm vụ, quyền hạn của Trưởng đoàn thanh tra để bảo đảm thực hiện nhiệm vụ được giao.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:110647:part:2:article:19:clause:3:point:4",
+                        "label": "d",
+                        "content": "d) Lập biên bản vi phạm hành chính trong lĩnh vực\nKho bạc Nhà nước và có trách nhiệm ra quyết định xử phạt theo thẩm quyền hoặc báo cáo cấp có thẩm quyền ra quyết định xử lý vi phạm hành chính theo quy định.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:110647:part:2:article:19:clause:3:point:5",
+                        "label": "e",
+                        "content": "e) Kiến nghị việc xử lý về vấn đề khác liên quan đến\nnội dung thanh tra.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:110647:part:2:article:19:clause:3:point:6",
+                        "label": "f",
+                        "content": "f) Báo cáo kết quả thực hiện nhiệm vụ được giao với\nTrưởng đoàn thanh tra, chịu trách nhiệm trước pháp luật và Trưởng đoàn thanh tra về tính chính xác, trung thực, khách quan của nội dung đã báo cáo. Khi thực hiện các nhiệm vụ, quyền hạn của mình, thành viên Đoàn thanh tra, công chức thanh tra chuyên ngành phải chịu trách nhiệm trước pháp luật, trước Trưởng đoàn thanh tra và người ra quyết định thanh tra.",
+                        "children": []
+                      }
+                    ]
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:110647:part:2:article:20",
+                "number": "20",
+                "title": "Trình tự, thủ tục hoạt động của Đoàn thanh tra chuyên ngành Kho bạc Nhà nước",
+                "content": "Điều 20. Trình tự, thủ tục hoạt động của Đoàn thanh tra chuyên ngành Kho bạc Nhà nước\n1. Xây dựng và phê duyệt kế hoạch tiến hành thanh\ntra của Đoàn Thanh tra chuyên ngành Kho bạc Nhà nước:\na) Trưởng đoàn thanh tra có trách nhiệm xây dựng kế\nhoạch tiến hành thanh tra của Đoàn thanh tra. Kế hoạch tiến hành thanh tra gồm: mục đích, yêu cầu, phạm vi, nội dung, đối tượng, thời kỳ, thời hạn thanh tra; phương pháp tiến hành thanh tra, tiến độ thực hiện, chế độ thông tin, báo cáo, phương tiện, thiết bị, kinh phí và những điều kiện vật chất cần thiết khác phục vụ hoạt động của Đoàn thanh tra; tổ chức thực hiện kế hoạch tiến hành thanh tra.\nb) Trưởng đoàn thanh tra trình người ra quyết định\nthanh tra phê duyệt kế hoạch tiến hành thanh tra.\nc) Thời gian xây dựng và phê duyệt kế hoạch tiến\nhành thanh tra do người ra quyết định thanh tra quyết định, nhưng không quá 05 ngày làm việc kể từ ngày ký quyết định thanh tra. Trường hợp thanh tra đột xuất thì thời gian không quá 03 ngày làm việc.\n2. Phổ biến kế hoạch tiến hành thanh tra:\na) Trưởng đoàn thanh tra phổ biến kế hoạch tiến\nhành thanh tra; phương pháp, cách thức tiến hành thanh tra; phân công nhiệm vụ cho các thành viên Đoàn thanh tra; khi cần thiết, tập huấn nghiệp vụ cho thành viên Đoàn thanh tra.\nb) Thành viên Đoàn thanh tra xây dựng kế hoạch thực\nhiện nhiệm vụ được phân công và báo cáo Trưởng đoàn thanh tra.\n3. Xây dựng đề cương yêu cầu đối tượng thanh tra\nbáo cáo: Căn cứ kế hoạch tiến hành thanh tra, Trưởng đoàn thanh tra có trách nhiệm xây dựng đề cương yêu cầu đối tượng thanh tra báo cáo và gửi đối tượng thanh tra trước ngày công bố quyết định thanh tra.\n4. Thông báo việc công bố quyết định thanh tra\nchuyên ngành: Trước khi công bố quyết định thanh tra, Trưởng đoàn thanh tra thông báo việc công bố quyết định thanh tra đến đối tượng thanh tra; trường hợp cần thiết, chuẩn bị để người ra quyết định thanh tra thông báo bằng văn bản đến đối tượng thanh tra. Thông báo phải nêu rõ thời gian, địa điểm, thành phần tham dự.\n5. Công bố quyết định thanh tra chuyên ngành:\na) Chậm nhất là 15 ngày kể từ ngày ký quyết định\nthanh tra, Trưởng đoàn thanh tra có trách nhiệm công bố quyết định thanh tra với đối tượng thanh tra.\nb) Khi công bố quyết định thanh tra, Trưởng đoàn\nthanh tra phải nêu rõ nhiệm vụ, quyền hạn của Đoàn thanh tra, thời hạn thanh tra, quyền và trách nhiệm của đối tượng thanh tra, dự kiến kế hoạch làm việc của Đoàn thanh tra với đối tượng thanh tra và những nội dung khác liên quan đến hoạt động của Đoàn thanh tra.\nc) Việc công bố quyết định thanh tra phải được lập\nthành biên bản. Biên bản phải có chữ ký của Trưởng đoàn thanh tra và Thủ trưởng cơ quan, tổ chức hoặc cá nhân là đối tượng thanh tra.\n6. Thu thập thông tin tài liệu, đánh giá việc chấp\nhành chính sách, pháp luật:\na) Thành viên Đoàn thanh tra có trách nhiệm thu thập,\nnghiên cứu, phân tích thông tin, tài liệu, chứng cứ; đánh giá việc chấp hành chính sách, pháp luật, nhiệm vụ, quyền hạn của đối tượng thanh tra liên quan đến nội dung thanh tra được phân công.\nb) Thành viên Đoàn thanh tra phải báo cáo về tiến độ\nvà kết quả thực hiện nhiệm vụ được giao theo yêu cầu của Trưởng đoàn thanh tra; trường hợp phát hiện những vấn đề vượt quá thẩm quyền cần phải xử lý ngay thì kịp thời báo cáo Trưởng đoàn thanh tra xem xét, quyết định.\nc) Trưởng đoàn thanh tra có trách nhiệm xem xét, xử\nlý kịp thời kiến nghị của thành viên Đoàn thanh tra; trường hợp vượt quá thẩm quyền thì báo cáo ngay người ra quyết định thanh tra xem xét, quyết định.\n7. Báo cáo tiến độ thực hiện nhiệm vụ thanh tra\nchuyên ngành:\na) Trưởng đoàn thanh tra có trách nhiệm báo cáo người\nra quyết định thanh tra về tiến độ thực hiện nhiệm vụ của Đoàn thanh tra theo kế hoạch tiến hành thanh tra hoặc theo yêu cầu đột xuất của người ra quyết định thanh tra.\nb) Tiến độ thực hiện nhiệm vụ thanh tra phải được\nbáo cáo bằng văn bản, gồm các nội dung: tiến độ thực hiện nhiệm vụ; nội dung đã hoàn thành; nội dung đang tiến hành; công việc thực hiện trong thời gian tới; kiến nghị, đề xuất (nếu có).\n8. Báo cáo kết quả thanh tra chuyên ngành:\nChậm nhất là 15 ngày, kể từ ngày kết thúc cuộc thanh tra, Trưởng đoàn thanh tra phải có văn bản báo cáo kết quả thanh tra, trừ trường hợp nội dung kết luận thanh tra phải chờ kết luận về chuyên môn của cơ quan, tổ chức có thẩm quyền. Báo cáo kết quả thanh tra chuyên ngành phải có các nội dung sau đây:\na) Khái quát về đối tượng thanh tra;\nb) Kết quả kiểm\ntra, xác minh về từng nội dung thanh tra;\nc) Đánh giá việc thực hiện chính sách, pháp luật,\nnhiệm vụ, việc chấp hành các quy định về tiêu chuẩn của đối tượng thanh tra;\nd) Các biện pháp xử lý theo thẩm quyền đã được áp dụng\ntrong quá trình tiến hành thanh tra; kiến nghị các biện pháp xử lý hành vi vi phạm pháp luật; kiến nghị sửa đổi, bổ sung, ban hành quy định cho phù hợp với yêu cầu quản lý hoặc hủy bỏ quy định trái pháp luật phát hiện qua thanh tra (nếu có);\ne) Ý kiến khác nhau giữa thành viên Đoàn thanh tra\n(nếu có).\n9. Xây dựng kết luận thanh tra chuyên ngành:\na) Người ra quyết định thanh tra chỉ đạo Trưởng\nđoàn thanh tra dự thảo kết luận thanh tra. Trường hợp cần thiết, người ra quyết định thanh tra yêu cầu đối tượng thanh tra, Trưởng đoàn thanh tra, thành viên Đoàn thanh tra báo cáo, giải trình để làm rõ thêm nội dung thanh tra.\nb) Trước khi kết luận chính thức, nếu thấy cần thiết\nthì người ra quyết định thanh tra lấy ý kiến của cơ quan chuyên môn hoặc gửi dự thảo kết luận thanh tra cho đối tượng thanh tra. Việc giải trình của đối tượng thanh tra được thực hiện bằng văn bản và có các tài liệu chứng minh kèm theo.",
+                "clauses": [],
+                "points": []
+              },
+              {
+                "article_id": "doc:110647:part:2:article:21",
+                "number": "21",
+                "title": "Kết luận thanh tra chuyên ngành và công khai kết luận thanh tra chuyên ngành Kho bạc Nhà nước",
+                "content": "Điều 21. Kết luận thanh tra chuyên ngành và công khai kết luận thanh tra chuyên ngành Kho bạc Nhà nước",
+                "clauses": [
+                  {
+                    "clause_id": "doc:110647:part:2:article:21:clause:1",
+                    "number": "1",
+                    "content": "1. Kết luận thanh tra chuyên ngành:",
+                    "points": [
+                      {
+                        "point_id": "doc:110647:part:2:article:21:clause:1:point:1",
+                        "label": "a",
+                        "content": "a) Căn cứ báo cáo kết quả thanh tra, nội dung giải\ntrình của đối tượng thanh tra (nếu có), chậm nhất 15 ngày kể từ ngày nhận được báo cáo kết quả thanh tra, người ra quyết định thanh tra phải ra văn bản kết luận thanh tra; trừ trường hợp nội dung kết luận thanh tra phải chờ kết luận về chuyên môn của cơ quan, tổ chức có thẩm quyền. Kết luận thanh tra phải có các nội dung sau đây: - Kết quả kiểm tra, xác minh về từng nội dung thanh tra - Kết luận về việc thực hiện chính sách, pháp luật, tiêu chuẩn theo nhiệm vụ, quyền hạn của đối tượng thanh tra thuộc nội dung thanh tra; xác định rõ tính chất, mức độ vi phạm, nguyên nhân, trách nhiệm của cơ quan, tổ chức, cá nhân có hành vi vi phạm (nếu có). - Kiến nghị các biện pháp xử lý vi phạm pháp luật; kiến nghị sửa đổi, bổ sung, ban hành quy định cho phù hợp với yêu cầu quản lý hoặc hủy bỏ quy định trái pháp luật phát hiện qua thanh tra (nếu có).",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:110647:part:2:article:21:clause:1:point:2",
+                        "label": "b",
+                        "content": "b) Trong quá trình ra văn\nbản kết luận thanh tra, người ra quyết định thanh tra có quyền yêu cầu Trưởng đoàn thanh tra, thành viên Đoàn thanh tra báo cáo, yêu cầu đối tượng thanh tra giải trình để làm rõ thêm những vấn đề cần thiết phục vụ cho việc ra kết luận thanh tra.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:110647:part:2:article:21:clause:1:point:3",
+                        "label": "c",
+                        "content": "c) Người ra quyết định thanh tra có trách nhiệm tổ\nchức việc công bố kết luận thanh tra. Trường hợp cần thiết có thể ủy quyền cho Trưởng đoàn thanh tra công bố kết luận thanh tra. Việc công bố kết luận thanh tra được lập thành biên bản.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:110647:part:2:article:21:clause:1:point:4",
+                        "label": "d",
+                        "content": "d) Việc gửi kết luận thanh tra được thực hiện như\nsau: - Đối với cuộc thanh tra do Kho bạc Nhà nước tiến hành thì kết luận thanh tra phải gửi Thanh tra Bộ Tài chính, đối tượng thanh tra, Thủ trưởng cơ quan quản lý cấp trên trực tiếp của đối tượng thanh tra (nếu có) và cơ quan, tổ chức, cá nhân có liên quan. - Đối với cuộc thanh tra do Kho bạc Nhà nước tỉnh, thành phố tiến hành thì kết luận thanh tra phải gửi Kho bạc Nhà nước, đối tượng thanh tra, Thủ trưởng cơ quan quản lý cấp trên trực tiếp của đối tượng thanh tra (nếu có) và cơ quan, tổ chức, cá nhân có liên quan.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:110647:part:2:article:21:clause:1:point:5",
+                        "label": "e",
+                        "content": "e) Kết luận thanh tra chuyên ngành được lưu hồ sơ\nthanh tra.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:110647:part:2:article:21:clause:2",
+                    "number": "2",
+                    "content": "2. Công khai kết luận thanh tra chuyên ngành:",
+                    "points": [
+                      {
+                        "point_id": "doc:110647:part:2:article:21:clause:2:point:1",
+                        "label": "a",
+                        "content": "a) Kết luận thanh tra phải được công khai, trừ những\nnội dung trong kết luận thanh tra thuộc bí mật nhà nước.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:110647:part:2:article:21:clause:2:point:2",
+                        "label": "b",
+                        "content": "b) Trong thời hạn 10 ngày, kể từ ngày ký kết luận\nthanh tra, người ra kết luận thanh tra có trách nhiệm thực hiện việc công khai kết luận thanh tra.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:110647:part:2:article:21:clause:2:point:3",
+                        "label": "c",
+                        "content": "c) Việc công khai kết luận thanh tra theo những\nhình thức: - Công bố tại cuộc họp với thành phần gồm người ra quyết định thanh tra hoặc người được ủy quyền, đại diện Đoàn thanh tra, đối tượng thanh tra, cơ quan, tổ chức, cá nhân có liên quan. - Thông báo trên Trang thông tin điện tử của Kho bạc Nhà nước ít nhất là 05 ngày liên tục.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:110647:part:2:article:21:clause:2:point:4",
+                        "label": "d",
+                        "content": "d) Trong thời hạn 10 ngày, kể từ ngày ký kết luận\nthanh tra, căn cứ vào phạm vi trách nhiệm thực hiện kết luận thanh tra, người ra quyết định thanh tra có trách nhiệm cung cấp một phần hay toàn bộ kết luận thanh tra cho cơ quan, tổ chức, cá nhân có liên quan đến việc thực hiện kết luận thanh tra.",
+                        "children": []
+                      }
+                    ]
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:110647:part:2:article:22",
+                "number": "22",
+                "title": "Thanh tra lại các kết luận thanh tra chuyên ngành Kho bạc Nhà nước",
+                "content": "Điều 22. Thanh tra lại các kết luận thanh tra chuyên ngành Kho bạc Nhà nước",
+                "clauses": [
+                  {
+                    "clause_id": "doc:110647:part:2:article:22:clause:1",
+                    "number": "1",
+                    "content": "1. Thẩm quyền thanh tra lại:",
+                    "points": [
+                      {
+                        "point_id": "doc:110647:part:2:article:22:clause:1:point:1",
+                        "label": "a",
+                        "content": "a) Chánh Thanh tra Bộ Tài chính quyết định thanh\ntra lại vụ việc đã được Tổng Giám đốc Kho bạc Nhà nước kết luận thuộc phạm vi, thẩm quyền quản lý nhà nước của Bộ Tài chính nhưng phát hiện có dấu hiệu vị phạm pháp luật khi được Bộ trưởng Bộ Tài chính giao.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:110647:part:2:article:22:clause:1:point:2",
+                        "label": "b",
+                        "content": "b) Tổng Giám đốc Kho bạc Nhà nước quyết định thanh tra lại vụ việc đã được\nGiám đốc Kho bạc Nhà nước tỉnh, thành phố kết luận nhưng phát hiện có dấu hiệu vi phạm pháp luật.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:110647:part:2:article:22:clause:2",
+                    "number": "2",
+                    "content": "2. Việc thanh tra lại được thực hiện khi có một\ntrong các căn cứ sau:",
+                    "points": [
+                      {
+                        "point_id": "doc:110647:part:2:article:22:clause:2:point:1",
+                        "label": "a",
+                        "content": "a) Có vi phạm nghiêm trọng về trình tự, thủ tục\ntrong tiến hành thanh tra.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:110647:part:2:article:22:clause:2:point:2",
+                        "label": "b",
+                        "content": "b) Có sai lầm trong việc áp dụng Pháp luật khi tiến\nhành thanh tra,",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:110647:part:2:article:22:clause:2:point:3",
+                        "label": "c",
+                        "content": "c) Nội dung kết luận thanh tra không phù hợp với những\nchứng cứ thu thập được trong quá trình tiến hành thanh tra.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:110647:part:2:article:22:clause:2:point:4",
+                        "label": "d",
+                        "content": "d) Người ra Quyết định thanh tra, Trưởng đoàn thanh\ntra, thành viên Đoàn thanh tra cố ý làm sai lệch hồ sơ vụ việc hoặc cố ý kết luận trái với pháp luật.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:110647:part:2:article:22:clause:2:point:5",
+                        "label": "e",
+                        "content": "e) Có dấu hiệu vi phạm pháp luật nghiêm trọng của đối\ntượng thanh tra chưa được phát hiện đầy đủ qua thanh tra.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:110647:part:2:article:22:clause:3",
+                    "number": "3",
+                    "content": "3. Quyết định thanh tra lại:",
+                    "points": [
+                      {
+                        "point_id": "doc:110647:part:2:article:22:clause:3:point:1",
+                        "label": "a",
+                        "content": "a) Quyết định thanh tra lại bao gồm các nội dung:\nCăn cứ pháp lý để thanh tra; Phạm vi, đối tượng, nội dung, nhiệm vụ thanh tra; Thời hạn thanh tra; Trưởng đoàn thanh tra và các thành viên đoàn thanh tra.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:110647:part:2:article:22:clause:3:point:2",
+                        "label": "b",
+                        "content": "b) Chậm nhất là 03 ngày làm việc kể từ ngày ký quyết\nđịnh thanh tra lại, người ra quyết định thanh tra lại phải gửi quyết định thanh tra lại cho người đã ký kết luận thanh tra và đối tượng thanh tra lại.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:110647:part:2:article:22:clause:3:point:3",
+                        "label": "c",
+                        "content": "c) Quyết định thanh tra lại phải được công bố chậm\nnhất là 15 ngày kể từ ngày ký. Việc công bố Quyết định thanh tra lại phải được lập thành biên bản.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:110647:part:2:article:22:clause:4",
+                    "number": "4",
+                    "content": "4. Thời hiệu, thời hạn thanh tra lại:",
+                    "points": [
+                      {
+                        "point_id": "doc:110647:part:2:article:22:clause:4:point:1",
+                        "label": "a",
+                        "content": "a) Thời hiệu thanh tra lại là 01 năm kể từ ngày ký\nkết luận thanh tra.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:110647:part:2:article:22:clause:4:point:2",
+                        "label": "b",
+                        "content": "b) Thời hạn thanh tra lại như thời hạn thực hiện một\ncuộc thanh tra chuyên ngành theo quy định tại Điều 18 của Quy chế này.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:110647:part:2:article:22:clause:5",
+                    "number": "5",
+                    "content": "5. Nhiệm vụ, quyền hạn của người ra Quyết định\nthanh tra, Trưởng đoàn thanh tra, thành viên Đoàn thanh tra khi tiến hành thanh tra lại thực hiện theo quy định tại Điều 9 và Điều 19 Quy chế này.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:110647:part:2:article:22:clause:6",
+                    "number": "6",
+                    "content": "6. Báo cáo kết quả thanh tra lại, kết luận thanh\ntra lại, công khai kết luận thanh tra lại",
+                    "points": [
+                      {
+                        "point_id": "doc:110647:part:2:article:22:clause:6:point:1",
+                        "label": "a",
+                        "content": "a) Báo cáo kết quả thanh tra lại được thực hiện\ntheo quy định tại khoản 8 Điều 20 Quy chế này. Báo cáo kết quả thanh tra lại phải xác định rõ tính chất, mức độ vi phạm, nguyên nhân, trách nhiệm của người đã tiến hành thanh tra, kết luận thanh tra.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:110647:part:2:article:22:clause:6:point:2",
+                        "label": "b",
+                        "content": "b) Kết luận thanh tra lại được thực hiện theo quy định\ntại khoản 9 Điều 20 và khoản 1, khoản 2 Điều 21 Quy chế này. Kết luận thanh tra lại phải xác định rõ tính chất, mức độ vi phạm, nguyên nhân, trách nhiệm của người đã tiến hành thanh tra, kết luận thanh tra và kiến nghị biện pháp xử lý.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:110647:part:2:article:22:clause:6:point:3",
+                        "label": "c",
+                        "content": "c) Trong thời hạn 15 ngày, kể từ ngày ký kết luận\nthanh tra lại, Tổng Giám đốc Kho bạc Nhà nước gửi kết luận thanh tra lại tới Chánh Thanh tra Bộ Tài chính.",
+                        "children": []
+                      }
+                    ]
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:110647:part:2:article:23",
+                "number": "23",
+                "title": "Chế độ thông tin, báo cáo",
+                "content": "Điều 23. Chế độ thông tin, báo cáo",
+                "clauses": [
+                  {
+                    "clause_id": "doc:110647:part:2:article:23:clause:1",
+                    "number": "1",
+                    "content": "1. Kho bạc Nhà nước, Kho bạc Nhà nước tỉnh, thành\nphố có trách nhiệm thực hiện các loại báo cáo về công tác thanh tra, giải quyết khiếu nại tố cáo và phòng, chống tham nhũng gửi cơ quan quản lý cấp trên trực tiếp (Kho bạc Nhà nước tỉnh, thành phố gửi báo cáo về Kho bạc Nhà nước; Kho bạc Nhà nước tổng hợp báo cáo toàn hệ thống gửi Thanh tra Bộ Tài chính).",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:110647:part:2:article:23:clause:2",
+                    "number": "2",
+                    "content": "2. Các loại báo cáo:",
+                    "points": [
+                      {
+                        "point_id": "doc:110647:part:2:article:23:clause:2:point:1",
+                        "label": "a",
+                        "content": "a) Báo cáo định kỳ gồm: Báo cáo tháng, quý I, sơ kết\n6 tháng, Quý III và 9 tháng, báo cáo năm. Nội dung báo cáo: Nêu rõ kế hoạch công tác trong kỳ báo cáo; kết quả đạt được trong kỳ báo cáo; những đề xuất kiến nghị về xử lý các sai phạm; các kiến nghị sửa đổi bổ sung chế độ, chính sách quản lý tài chính và kết quả thực hiện kiến nghị, xử lý; khó khăn, vướng mắc, kiến nghị trong quá trình thực hiện nhiệm vụ và các nội dung cụ thể khác theo quy định, yêu cầu.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:110647:part:2:article:23:clause:2:point:2",
+                        "label": "b",
+                        "content": "b) Báo cáo chuyên đề.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:110647:part:2:article:23:clause:2:point:3",
+                        "label": "c",
+                        "content": "c) Báo cáo đột xuất theo yêu cầu quản lý của cơ\nquan quản lý nhà nước. Mẫu biểu, nội dung chi tiết các báo cáo trong từng lĩnh vực thực hiện theo quy định.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:110647:part:2:article:23:clause:3",
+                    "number": "3",
+                    "content": "3. Thời hạn gửi báo cáo:\n- Kho bạc Nhà nước tỉnh, thành phố gửi báo cáo định kỳ hàng tháng về Kho bạc Nhà nước trước ngày 05 tháng báo cáo; Báo cáo Quý I: trước ngày 05/3, Sơ kết 6 tháng: trước ngày 05/6, Quý III và 9 tháng: trước ngày 05/9, Tổng kết năm: trước ngày 05/12. - Kho bạc Nhà nước tổng hợp báo cáo gửi Thanh tra Bộ Tài chính theo thời hạn quy định tại Khoản 3 Điều 11 Thông tư số 19/2012/TT-BTC: gửi báo cáo định kỳ hàng tháng về Thanh tra Bộ Tài chính trước ngày 10 tháng báo cáo; Báo cáo Quý I: trước ngày 10/3, Sơ kết 6 tháng; trước ngày 10/6, Quý III và 9 tháng: trước ngày 10/9, Tổng kết năm: trước ngày 10/12.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:110647:part:2:chapter:4",
+            "number": "IV",
+            "title": "CÔNG CHỨC THANH TRA CHUYÊN NGÀNH KHO BẠC NHÀ NƯỚC",
+            "content": "Chương IV\nCÔNG CHỨC THANH TRA\nCHUYÊN NGÀNH KHO BẠC NHÀ NƯỚC",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:110647:part:2:article:24",
+                "number": "24",
+                "title": "Tiêu chuẩn công chức thanh tra chuyên ngành Kho bạc Nhà nước Công chức thanh tra chuyên ngành Kho bạc Nhà nước là công chức thuộc biên chế của Kho bạc Nhà nước, Kho bạc Nhà nước tỉnh, thành phố có đủ điều kiện, tiêu chuẩn theo quy định của ngạch công chức đang giữ, theo quy định tại Điều 12 Nghị định số 07/2012/NĐ-CP ngày 09/02/2012 của Chính phủ quy định về cơ quan được giao thực hiện chức năng thanh tra chuyên ngành; Điều 6 Thông tư số 19/2013/TT-BTC ngày 20/02/2013 của Bộ Tài chính hướng dẫn thực hiện một số quy định về tổ chức và hoạt động thanh tra ngành Tài chính. Tiêu chuẩn công chức thanh tra chuyên ngành Kho bạc Nhà nước được quy định cụ thể như sau:",
+                "content": "Điều 24. Tiêu chuẩn công chức thanh tra chuyên ngành Kho bạc Nhà nước Công chức thanh tra chuyên ngành Kho bạc Nhà nước là công chức thuộc biên chế của Kho bạc Nhà nước, Kho bạc Nhà nước tỉnh, thành phố có đủ điều kiện, tiêu chuẩn theo quy định của ngạch công chức đang giữ, theo quy định tại Điều 12 Nghị định số 07/2012/NĐ-CP ngày 09/02/2012 của Chính phủ quy định về cơ quan được giao thực hiện chức năng thanh tra chuyên ngành; Điều 6 Thông tư số 19/2013/TT-BTC ngày 20/02/2013 của Bộ Tài chính hướng dẫn thực hiện một số quy định về tổ chức và hoạt động thanh tra ngành Tài chính. Tiêu chuẩn công chức thanh tra chuyên ngành Kho bạc Nhà nước được quy định cụ thể như sau:",
+                "clauses": [
+                  {
+                    "clause_id": "doc:110647:part:2:article:24:clause:1",
+                    "number": "1",
+                    "content": "1. Năng lực:",
+                    "points": [
+                      {
+                        "point_id": "doc:110647:part:2:article:24:clause:1:point:1",
+                        "label": "a",
+                        "content": "a) Am hiểu chủ trương, đường lối, chính sách của Đảng,\npháp luật của Nhà nước để vận dụng vào hoạt động thanh tra, giải quyết khiếu nại, tố cáo, phòng, chống tham nhũng.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:110647:part:2:article:24:clause:1:point:2",
+                        "label": "b",
+                        "content": "b) Nắm được nguyên tắc, chế độ, chính sách, quy định\ncủa Nhà nước về lĩnh vực chuyên ngành.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:110647:part:2:article:24:clause:1:point:3",
+                        "label": "c",
+                        "content": "c) Nắm được quy trình nghiệp vụ thanh tra, giải quyết\nkhiếu nại, tố cáo; có khả năng thực hiện nhiệm vụ được giao.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:110647:part:2:article:24:clause:1:point:4",
+                        "label": "d",
+                        "content": "d) Có khả năng phân tích, tổng hợp.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:110647:part:2:article:24:clause:2",
+                    "number": "2",
+                    "content": "2. Yêu cầu trình độ, thâm niên công tác:",
+                    "points": [
+                      {
+                        "point_id": "doc:110647:part:2:article:24:clause:2:point:1",
+                        "label": "a",
+                        "content": "a) Có bằng tốt nghiệp đại học trở lên phù hợp với\nchuyên môn thuộc ngành, lĩnh vực đang công tác;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:110647:part:2:article:24:clause:2:point:2",
+                        "label": "b",
+                        "content": "b) Có chứng chỉ bồi dưỡng nghiệp vụ thanh tra hoặc\nthanh tra chuyên ngành do cơ sở đào tạo có thẩm quyền cấp.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:110647:part:2:article:24:clause:2:point:3",
+                        "label": "c",
+                        "content": "c) Có ít nhất 01 năm làm công tác chuyên môn trong\nlĩnh vực được giao thực hiện nhiệm vụ thanh tra chuyên ngành (không kể thời gian tập sự).",
+                        "children": []
+                      }
+                    ]
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:110647:part:2:article:25",
+                "number": "25",
+                "title": "Quyết định công nhận và cấp Thẻ công chức thanh tra chuyên ngành; mẫu Thẻ công chức; quản lý việc công nhận, cấp, sử dụng Thẻ công chức thanh tra chuyên ngành trong hệ thống Kho bạc Nhà nước",
+                "content": "Điều 25. Quyết định công nhận và cấp Thẻ công chức thanh tra chuyên ngành; mẫu Thẻ công chức; quản lý việc công nhận, cấp, sử dụng Thẻ công chức thanh tra chuyên ngành trong hệ thống Kho bạc Nhà nước\n1. Quyết định công nhận và cấp Thẻ công chức thanh\ntra chuyên ngành cho công chức làm công tác thanh tra chuyên ngành trong hệ thống Kho bạc Nhà nước:\na) Thủ trưởng đơn vị trực tiếp quản lý công chức tiến\nhành rà soát, lựa chọn công chức theo quy định tại Điều 24 Quy chế này có văn bản trình Tổng Giám đốc Kho bạc Nhà nước để xem xét, quyết định công nhận công chức thanh tra chuyên ngành.\nb) Điều kiện và thẩm quyền cấp thẻ công chức Thanh\ntra chuyên ngành: - Công chức thanh tra chuyên ngành Kho bạc Nhà nước được cấp Thẻ khi đảm bảo tiêu chuẩn nêu tại Điều 24 Quy chế này và tại thời điểm đề nghị cấp Thẻ đang công tác tại bộ phận tham mưu công tác thanh tra chuyên ngành Kho bạc Nhà nước (Vụ Thanh tra Kho bạc Nhà nước, Phòng Thanh tra, kiểm tra Kho bạc Nhà nước tỉnh, thành phố). - Tổng Giám đốc có thẩm quyền cấp Thẻ công chức thanh tra chuyên ngành cho công chức thuộc Kho bạc Nhà nước, Kho bạc Nhà nước tỉnh, thành phố.\nc) Hồ sơ trình quyết định công nhận công chức thanh\ntra chuyên ngành và cấp Thẻ gồm: - Văn bản đề nghị của cơ quan quản lý trực tiếp công chức (đối với Kho bạc Nhà nước tỉnh, thành phố) hoặc văn bản đề nghị của Vụ Thanh tra Kho bạc Nhà nước (đối với Kho bạc Nhà nước). - Sơ yếu lý lịch của công chức. - Bằng, chứng chỉ chuyên môn phù hợp với tiêu chuẩn công chức thanh tra chuyên ngành (bản sao có công chứng). - 02 ảnh cá nhân chụp kiểu chứng minh thư.\nd) Vụ tổ chức cán bộ Kho bạc Nhà nước phối hợp với\nVụ Thanh tra Kho bạc Nhà nước tiến hành thẩm định, trình Tổng Giám đốc Kho bạc Nhà nước ban hành Quyết định công nhận công chức thanh tra chuyên ngành và cấp Thẻ công chức thanh tra chuyên ngành trong vòng 15 ngày kể từ ngày nhận dù hồ sơ hợp lệ.\ne) Hồ sơ quyết định công nhận và cấp Thẻ công chức\nthanh tra chuyên ngành lưu tại Vụ Tổ chức cán bộ Kho bạc Nhà nước.\n2. Mẫu thẻ công chức thanh tra chuyên ngành: Mẫu thẻ\ncông chức thanh tra chuyên ngành của Kho bạc Nhà nước được thực hiện theo mẫu quy định tại Điều 8 Thông tư số 19/2013/TT-BTC ngày 20/02/2013 của Bộ Tài chính hướng dẫn thực hiện một số quy định về tổ chức và hoạt động thanh tra ngành Tài chính.\n3. Quản lý việc công nhận, cấp, sử dụng Thẻ công chức\nthanh tra chuyên ngành:\na) Công chức thanh tra chuyên ngành Kho bạc Nhà nước\nchỉ được sử dụng Thẻ công chức thanh tra chuyên ngành của mình khi thực hiện nhiệm vụ, quyền hạn theo quy định của pháp luật về thanh tra, giải quyết khiếu nại, tố cáo.\nb) Sử dụng Thẻ công chức thanh tra chuyên ngành:\n- Công chức được cấp Thẻ có trách nhiệm bảo quản Thẻ cẩn thận trong quá trình sử dụng. Nghiêm cấm công chức thanh tra chuyên ngành trong hệ thống Kho bạc Nhà nước sử dụng Thẻ vào mục đích cá nhân hoặc cho người khác mượn để sử dụng. Trường hợp công chức thanh tra chuyên ngành Kho bạc Nhà nước sử dụng Thẻ công chức thanh tra chuyên ngành để thực hiện hành vi trái pháp luật thì tùy theo mức độ vi phạm phải chịu xử lý theo quy định. - Trường hợp Thẻ công chức thanh tra chuyên ngành bị hỏng, bị mất, hết hạn sử dụng... phải làm thủ tục xin cấp lại. Thủ tục cấp lại Thẻ công chức thanh tra chuyên ngành giống như thủ tục cấp Thẻ lần đầu. - Thu hồi Thẻ công chức thanh tra chuyên ngành: Thẻ công chức thanh tra chuyên ngành phải thu hồi khi hết hạn hoặc công chức không được phân công thực hiện nhiệm vụ thanh tra chuyên ngành Kho bạc Nhà nước hoặc chuyển công tác, nghỉ hưu, chết. Trước khi Thẻ công chức thanh tra chuyên ngành hết hạn hoặc công chức chuyển công tác khác, nghỉ hưu thì công chức thanh tra chuyên ngành Kho bạc Nhà nước phải nộp Thẻ về Vụ Thanh tra Kho bạc Nhà nước. Ngay sau khi tiếp nhận Thẻ công chức thanh tra chuyên ngành thu hồi, đơn vị quản lý công chức (Vụ Thanh tra, Kho bạc Nhà nước tỉnh, thành phố) có trách nhiệm nộp Thẻ về Kho bạc Nhà nước (qua Vụ Tổ chức cán bộ).\nc) Quản lý việc công nhận, cấp, sử dụng Thẻ công chức\nthanh tra chuyên ngành: - Tổng Giám đốc Kho bạc Nhà nước chịu trách nhiệm về việc công nhận, cấp, quản lý việc sử dụng Thẻ công chức thanh tra chuyên ngành trong hệ thống Kho bạc Nhà nước theo đúng quy định. - Thanh tra Bộ Tài chính chịu trách nhiệm kiểm tra việc công nhận, cấp, quản lý Thẻ công chức thanh tra chuyên ngành của Kho bạc Nhà nước.\nd) Kinh phí làm thẻ, phát thẻ công chức thanh tra\nchuyên ngành do ngân sách nhà nước đảm bảo. Việc lập dự toán, quyết toán theo quy định của Luật ngân sách nhà nước và các văn bản hướng dẫn Luật.",
+                "clauses": [],
+                "points": []
+              },
+              {
+                "article_id": "doc:110647:part:2:article:26",
+                "number": "26",
+                "title": "Trang phục, biển hiệu, chế độ",
+                "content": "Điều 26. Trang phục, biển hiệu, chế độ",
+                "clauses": [
+                  {
+                    "clause_id": "doc:110647:part:2:article:26:clause:1",
+                    "number": "1",
+                    "content": "1. Trang phục:\nTrang phục của công chức thanh tra chuyên ngành trong hệ thống Kho bạc Nhà nước do Bộ Tài chính quy định theo đề nghị của Tổng Giám đốc Kho bạc Nhà nước. Kinh phí may, sắm trang phục của công chức thanh tra chuyên ngành trong hệ thống Kho bạc Nhà nước do ngân sách nhà nước đảm bảo, được bố trí trong dự toán ngân sách hàng năm của Kho bạc Nhà nước.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:110647:part:2:article:26:clause:2",
+                    "number": "2",
+                    "content": "2. Công chức thanh tra chuyên ngành trong hệ thống\nKho bạc Nhà nước phải đeo biển hiệu khi thực hiện nhiệm vụ thanh tra; tiếp công dân; giải quyết khiếu nại, tố cáo. Biển hiệu do Kho bạc Nhà nước cấp. Biển hiệu của công chức thanh tra chuyên ngành Kho bạc Nhà nước được thực hiện theo quy định tại Khoản 2 Điều 10 Thông tư số 19/2013/TT-BTC ngày 20/02/2013 của Bộ Tài chính hướng dẫn thực hiện một số quy định về tổ chức và hoạt động thanh tra ngành Tài chính.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:110647:part:2:article:26:clause:3",
+                    "number": "3",
+                    "content": "3. Công chức thanh tra chuyên ngành trong hệ thống Kho bạc Nhà nước được hưởng chế\nđộ bồi dưỡng theo quy định tại Quyết định số 12/2014/QĐ-TTg ngày 27/01/2014 của Thủ tướng Chính phủ về việc quy định chế độ bồi dưỡng đối với công chức thanh tra chuyên ngành.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:110647:part:2:chapter:5",
+            "number": "IV",
+            "title": "ĐIỀU KHOẢN THI HÀNH",
+            "content": "Chương IV\nĐIỀU KHOẢN THI HÀNH",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:110647:part:2:article:27",
+                "number": "27",
+                "title": "Điều khoản thi hành",
+                "content": "Điều 27. Điều khoản thi hành",
+                "clauses": [
+                  {
+                    "clause_id": "doc:110647:part:2:article:27:clause:1",
+                    "number": "1",
+                    "content": "1. Quy chế này có hiệu lực từ ngày ký.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:110647:part:2:article:27:clause:2",
+                    "number": "2",
+                    "content": "2. Chánh Thanh tra Bộ Tài chính, Tổng Giám đốc Kho bạc\nNhà nước, Giám đốc Kho bạc Nhà nước các tỉnh, thành phố, các cơ quan, tổ chức và cá nhân có liên quan chịu trách nhiệm thực hiện theo Quy chế này./.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          }
+        ],
+        "sections": [],
+        "articles": [],
+        "unstructured_blocks": []
+      }
+    ]
+  },
+  "issues": [],
+  "status": "ok",
+  "source_hash": "context_110647.json",
+  "stats": {
+    "source_chars": 51610,
+    "passage_chars": 51460,
+    "parts": 2,
+    "chapters": 5,
+    "sections": 0,
+    "articles": 29,
+    "clauses": 116,
+    "points": 53
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "schema_version": "2.0",
+  "document_id": 12456,
+  "metadata": {
+    "name": "Quyet-dinh-46-QD-BTTTT-2022-yeu-cau-thiet-bi-doc-ma-QR-phuc-vu-phong-chong-Covid19-500907",
+    "link": "https://thuvienphapluat.vn/van-ban/Cong-nghe-thong-tin/Quyet-dinh-46-QD-BTTTT-2022-yeu-cau-thiet-bi-doc-ma-QR-phuc-vu-phong-chong-Covid19-500907.aspx",
+    "issuing_agency": "BỘ THÔNG TIN VÀ TRUYỀN THÔNG",
+    "national_header": "CỘNG\r\n\n  HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM",
+    "motto": "Độc lập - Tự do - Hạnh phúc",
+    "document_number": "46/QĐ-BTTTT",
+    "issued_place": "Hà Nội",
+    "issued_date": "ngày 18 tháng 01 năm 2022",
+    "document_type": "QUYẾT ĐỊNH",
+    "title": "BAN HÀNH HƯỚNG DẪN YÊU CẦU KỸ THUẬT CƠ BẢN ĐỐI VỚI THIẾT BỊ ĐỌC MÃ QR PHỤC VỤ PHÒNG, CHỐNG DỊCH COVID-19 (PHIÊN BẢN 1.0)"
+  },
+  "administrative_header": {
+    "removed": true,
+    "removed_char_count": 165
+  },
+  "preamble": {
+    "text": "QUYẾT ĐỊNH\nBAN HÀNH HƯỚNG DẪN YÊU CẦU KỸ THUẬT CƠ BẢN ĐỐI VỚI THIẾT BỊ ĐỌC MÃ QR\nPHỤC VỤ PHÒNG, CHỐNG DỊCH COVID-19\n(PHIÊN BẢN 1.0)\nBỘ TRƯỞNG BỘ THÔNG TIN VÀ TRUYỀN THÔNG\nCăn cứ Nghị định số 17/2017/NĐ-CP ngày 17/02/2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Thông tin và Truyền thông; Theo đề nghị của Cục trưởng Cục Tin học hóa,\nQUYẾT ĐỊNH:",
+    "legal_bases": [],
+    "proposals": [
+      "Theo đề nghị của Cục trưởng Cục Tin học hóa,\nQUYẾT ĐỊNH:"
+    ],
+    "enactment_formula": "QUYẾT ĐỊNH"
+  },
+  "passage": "QUYẾT ĐỊNH\nBAN HÀNH HƯỚNG DẪN YÊU CẦU KỸ THUẬT CƠ BẢN ĐỐI VỚI THIẾT BỊ ĐỌC MÃ QR\nPHỤC VỤ PHÒNG, CHỐNG DỊCH COVID-19\n(PHIÊN BẢN 1.0)\nBỘ TRƯỞNG BỘ THÔNG TIN VÀ TRUYỀN THÔNG\nCăn cứ Nghị định số 17/2017/NĐ-CP ngày 17/02/2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Thông tin và Truyền thông; Theo đề nghị của Cục trưởng Cục Tin học hóa,\nQUYẾT ĐỊNH:\nĐiều 1. Ban hành kèm theo Quyết định này hướng dẫn yêu cầu kỹ thuật cơ bản đối với thiết bị đọc mã QR phục vụ phòng, chống dịch Covid-19 (Phiên bản 1.0).\nĐiều 2. Quyết định này có hiệu lực thi hành kể từ ngày ký.\nĐiều 3. Chánh Văn phòng, Cục trưởng Cục Tin học hóa, Thủ trưởng các đơn vị có liên quan chịu trách nhiệm thi hành Quyết định này./.\nNơi nhận:\n- Như Điều 3;\n- Bộ trưởng (để b/c);\n- Các Thứ trưởng (để biết);\n- Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ;\n- UBND các tỉnh, thành phố trực thuộc Trung ương;\n- Đơn vị chuyên trách về CNTT của các Bộ, cơ quan ngang Bộ, cơ quan thuộc\nChính phủ (bản điện tử);\n- Sở TT&TT các tỉnh, thành phố trực thuộc Trung ương (bản điện tử);\n- Cổng thông tin điện tử Bộ TT&TT;\n- Lưu: VT, Cục THH.\nKT.\nBỘ TRƯỞNG\nTHỨ TRƯỞNG\nNguyễn Huy Dũng\nHƯỚNG DẪN\nYÊU CẦU KỸ THUẬT CƠ BẢN ĐỐI VỚI THIẾT BỊ ĐỌC MÃ QR PHỤC VỤ PHÒNG, CHỐNG\nDỊCH COVID-19\n(PHIÊN BẢN 1.0)\n(Kèm theo Quyết định số 46/QĐ-BTTTT ngày 18/01/2022 của Bộ Thông tin và Truyền\nthông)\nDANH\nMỤC TỪ NGỮ VIẾT TẮT VÀ GIẢI THÍCH TỪ NGỮ\nTừ\nviết tắt\nTên đầy đủ\nGiải thích\nQRCODE\nQuick response code\nMã phản hồi nhanh\nIP\nIngress protection\nSự bảo vệ chống xâm nhập\nAC\nAlternating current\nDòng điện xoay chiều\nDC\nDirect Current\nDòng điện một chiều\nTrong tài liệu này, các khái niệm, từ\nngữ dưới đây được hiểu như sau:\nThiết bị đọc mã QR là thiết bị điện tử cho phép đọc các mã QR và truyền dữ liệu mã QR đó đến\nmáy tính, điện thoại thông minh hoặc các thiết bị điện tử khác để xử lý. Các\ncamera có chức năng đọc mã QR không phải là thiết bị đọc mã QR trong tài liệu\nnày.\nData Matrix 2D gọi là mã vạch ma trận, là một loại mã vạch 2D (tức mã vạch hai chiều)\ngồm những module đen và trắng xen lẫn nhau, được sắp xếp trong một hình vuông.\nPDF417 là mã vạch hai chiều thể hiện tính mềm dẻo cao. Loại mã vạch này có khả\nnăng mã hóa dữ liệu tùy thuộc vào loại dữ liệu cần mã hóa và việc chọn khả năng\nsửa lỗi.\nIP41 (Ingress protection) là tiêu chuẩn mang đến khả năng chống bụi cho sản phẩm nhưng không có\nkhả năng chống ẩm hoàn toàn. Một sản phẩm được xếp hạng đạt IP41 chỉ có thể chống\nlại các vật thể rắn với kích thước trên 1mm và gần như không được bảo vệ khỏi\ncác hạt hơi nước nhỏ.\nI. MỤC ĐÍCH BAN\nHÀNH\nTài liệu này hướng dẫn yêu cầu kỹ thuật\ncơ bản để triển khai thiết bị đọc mã QR phục vụ công tác phòng, chống dịch\nCovid-19.\nViệc triển khai thực hiện quét mã QR\nphục vụ phòng, chống dịch Covid-19 có thể thực hiện bằng cách người dân quét mã\nQR địa điểm hoặc chủ địa điểm quét mã QR của người dân thông qua ứng dụng\nphòng, chống dịch/ camera kết nối hoặc tích hợp trên máy tính/ thiết bị quét mã\nQR.\nTrong trường hợp cần thiết triển khai\nthiết bị quét mã QR, các tổ chức, cá nhân tùy theo nhu cầu sử dụng, tần suất sử\ndụng, đặc điểm môi trường (ánh sáng, nhiệt độ, độ ẩm, khói bụi,...) chủ động\nxem xét, áp dụng phù hợp.\nII. YÊU CẦU KỸ THUẬT\nCƠ BẢN\n1. Yêu cầu chung\n- Bảo đảm không truyền, lưu trữ các dữ\nliệu phát sinh trong quá trình hoạt động cho các đối tượng không được cấp quyền\ntruy cập;\n- Có khả năng đọc các mã QR trên thẻ\nCăn cước công dân gắn chip, mã QR trên thẻ Bảo hiểm y tế, mã QR trên các ứng dụng\nphòng, chống dịch Covid-19 do Ban chỉ đạo quốc gia phòng, chống dịch Covid-19,\nBộ Y tế, Bộ Công an và Bộ Thông tin và Truyền thông triển khai, mã QR đáp ứng\ntiêu chuẩn quốc gia TCVN 7322:2009 (ISO/IEC 18004:2006) về Công nghệ thông tin\n- kỹ thuật phân định và thu nhận dữ liệu tự động - Yêu cầu kỹ thuật đối với mã\nhình QR CODE 2005;\n- Hỗ trợ cơ chế cập nhật phần mềm kèm\ntheo thiết bị đọc mã QR (nếu có) bao gồm cập nhật các bản vá và các lỗ hổng bảo\nmật.\n2. Yêu cầu cụ thể\nCác yêu cầu cụ thể đối với thiết bị đọc\nmã QR như sau:\nTT\nThông\nsố kỹ thuật tham khảo\nMô\ntả\n1.\nIP (Ingress Protection)\nTối thiểu ≥\nIP41.\n2.\nTiêu chuẩn đọc\nMột số tiêu chuẩn thông dụng như\n2D, QR 2D, Data Matrix 2D và PDF417.\n3.\nNhận diện mã QR\nCó thể phát hiện mã QR xuất hiện\ntrong khung hình.\n4.\nKích thước mã QR mà thiết bị đọc được\nKích thước ≥\n01 cm x 01 cm\n5.\nNguồn điện cấp\nSử dụng bộ chuyển đổi AC-DC trực tiếp\nhoặc nguồn điện dự phòng từ pin, ăcqui.\n6.\nThời gian hoạt động\nLàm việc 24/7.\n7.\nGóc quét\n- Phương đứng ≥ 30 độ\n- Phương ngang ≥ 48 độ\n8.\nĐộ lệch/nghiêng mã QR so với thiết\nbị quét\n- Độ lệch ≥ 45 độ (theo 2 chiều)\n- Độ nghiêng ≥ 65 độ (theo 2 chiều)\n9.\nKhoảng cách quét\nĐối với mã QR có kích thước 01 cm x\n01 cm, thiết bị đảm bảo khả năng quét mã QR tốt ở khoảng cách từ 5 cm đến 10\ncm.\n10.\nNhận diện chuyển động\nCó thể nhận diện mã QR chuyển động\ntrong phạm vi quét.\n11.\nKết nối với máy tính hoặc các thiết\nbị khác\nHỗ trợ ít nhất một trong các kết nối\nsau:\n- Cổng kết nối mạng: RJ45, wifi.\n- Cổng kết nối với máy tính: USB,\nRS-232, Bluetooth.\n- Kết nối 4G/5G/LTE.\n12.\nChế độ quét\nQuét tự động hoặc bấm nút khi cầm\ntay.\n13.\nTín hiệu nhận biết khi quét\nThiết bị hỗ trợ đèn báo hiệu trên\nthân máy hoặc phát âm thanh khi quét mã thành công.\n14.\nQuét đa tia\nHỗ trợ quét đa tia.\n15.\nKhả năng lưu trữ dữ liệu\nCó khả năng lưu trữ dữ liệu trên thẻ\nnhớ hoặc bộ nhớ trong của thiết bị hoặc lưu trữ trong các hệ thống mà thiết bị\nkết nối, dung lượng đảm bảo lưu trữ dữ liệu phát sinh trong thời gian tối thiểu\n01 ngày.",
+  "tree": {
+    "parts": [
+      {
+        "part_id": "doc:12456:part:1",
+        "part_type": "main",
+        "part_title": null,
+        "reference": null,
+        "direct_text": "QUYẾT ĐỊNH\nBAN HÀNH HƯỚNG DẪN YÊU CẦU KỸ THUẬT CƠ BẢN ĐỐI VỚI THIẾT BỊ ĐỌC MÃ QR\nPHỤC VỤ PHÒNG, CHỐNG DỊCH COVID-19\n(PHIÊN BẢN 1.0)\nBỘ TRƯỞNG BỘ THÔNG TIN VÀ TRUYỀN THÔNG\nCăn cứ Nghị định số 17/2017/NĐ-CP ngày 17/02/2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Thông tin và Truyền thông; Theo đề nghị của Cục trưởng Cục Tin học hóa,\nQUYẾT ĐỊNH:",
+        "chapters": [],
+        "sections": [],
+        "articles": [
+          {
+            "article_id": "doc:12456:part:1:article:1",
+            "number": "1",
+            "title": "Ban hành kèm theo Quyết định này hướng dẫn yêu cầu kỹ thuật cơ bản đối với thiết bị đọc mã QR phục vụ phòng, chống dịch Covid-19 (Phiên bản 1.0).",
+            "content": "Điều 1. Ban hành kèm theo Quyết định này hướng dẫn yêu cầu kỹ thuật cơ bản đối với thiết bị đọc mã QR phục vụ phòng, chống dịch Covid-19 (Phiên bản 1.0).",
+            "clauses": [],
+            "points": []
+          },
+          {
+            "article_id": "doc:12456:part:1:article:2",
+            "number": "2",
+            "title": "Quyết định này có hiệu lực thi hành kể từ ngày ký.",
+            "content": "Điều 2. Quyết định này có hiệu lực thi hành kể từ ngày ký.",
+            "clauses": [],
+            "points": []
+          },
+          {
+            "article_id": "doc:12456:part:1:article:3",
+            "number": "3",
+            "title": "Chánh Văn phòng, Cục trưởng Cục Tin học hóa, Thủ trưởng các đơn vị có liên quan chịu trách nhiệm thi hành Quyết định này./.",
+            "content": "Điều 3. Chánh Văn phòng, Cục trưởng Cục Tin học hóa, Thủ trưởng các đơn vị có liên quan chịu trách nhiệm thi hành Quyết định này./.",
+            "clauses": [],
+            "points": []
+          }
+        ],
+        "unstructured_blocks": []
+      }
+    ]
+  },
+  "issues": [],
+  "status": "ok",
+  "source_hash": "context_12456.json",
+  "stats": {
+    "source_chars": 5657,
+    "passage_chars": 5491,
+    "parts": 1,
+    "chapters": 0,
+    "sections": 0,
+    "articles": 3,
+    "clauses": 0,
+    "points": 0
+  }
+}

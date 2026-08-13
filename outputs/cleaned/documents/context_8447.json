@@ -1,0 +1,811 @@
+{
+  "schema_version": "2.0",
+  "document_id": 8447,
+  "metadata": {
+    "name": "Thong-tu-23-2010-TT-BNNPTNT-cong-nhan-tien-bo-ky-thuat-cong-nghe-sinh-hoc-Nganh-Nong-nghiep-Phat-tri",
+    "link": "https://thuvienphapluat.vn/van-ban/Tai-nguyen-Moi-truong/Thong-tu-23-2010-TT-BNNPTNT-cong-nhan-tien-bo-ky-thuat-cong-nghe-sinh-hoc-Nganh-Nong-nghiep-Phat-trien-nong-thon-104039.aspx",
+    "issuing_agency": "BỘ NÔNG NGHIỆP VÀ PHÁT TRIỂN NÔNG THÔN",
+    "national_header": "CỘNG\r\n\n  HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM",
+    "motto": null,
+    "document_number": "23/2010/TT-BNNPTNT",
+    "issued_place": "Hà Nội",
+    "issued_date": "ngày 07 tháng 4 năm 2010",
+    "document_type": "THÔNG TƯ",
+    "title": "CÔNG NHẬN TIẾN BỘ KỸ THUẬT CÔNG NGHỆ SINH HỌC CỦA NGÀNH NÔNG NGHIỆP VÀ PHÁT TRIỂN NÔNG THÔN"
+  },
+  "administrative_header": {
+    "removed": false,
+    "removed_char_count": 0
+  },
+  "preamble": {
+    "text": "BỘ\nNÔNG NGHIỆP VÀ PHÁT TRIỂN NÔNG THÔN\n-------\nCỘNG\nHÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập – Tự do – Hạnh phúc --------- Số:\n23/2010/TT-BNNPTNT\nHà Nội, ngày 07 tháng 4 năm 2010\nTHÔNG TƯ\nCÔNG NHẬN TIẾN BỘ KỸ THUẬT CÔNG NGHỆ SINH HỌC CỦA NGÀNH NÔNG\nNGHIỆP VÀ PHÁT TRIỂN NÔNG THÔN\nCăn cứ Luật Khoa học và Công nghệ ban hành ngày 22 tháng 6 năm 2000; Căn cứ Luật Tiêu chuẩn và Quy chuẩn kỹ thuật ngày 29 tháng 6 năm 2006; Căn cứ Nghị định số 01/2008/NĐ-CP ngày 3 tháng 1 năm 2008 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Nông nghiệp và Phát triển nông thôn và Nghị định số 75/2009/NĐ-CP của Chính phủ sửa đổi Điều 3 Nghị định số 01/2008/NĐ-CP ngày 3 tháng 1 năm 2008 quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Nông nghiệp và Phát triển nông thôn; Căn cứ Nghị định số 127/2007/NĐ-CP ngày 01 tháng 8 năm 2007 của Chính phủ quy định chi tiết thi hành một số điều của Luật Tiêu chuẩn và Quy chuẩn kỹ thuật; Căn cứ Quyết định số 11/2006/QĐ-TTg ngày 12 tháng 1 năm 2006 của Thủ tướng Chính phủ về việc Phê duyệt \"Chư­ơng trình trọng điểm phát triển và ứng dụng công nghệ sinh học trong lĩnh vực nông nghiệp và phát triển nông thôn đến năm 2020\"; Căn cứ Quyết định số 97/2007/QĐ-TTg ngày 29/6/2007 của Thủ tướng Chính phủ về việc phê duyệt \"Đề án phát triển và ứng dụng công nghệ sinh học trong lĩnh vực thuỷ sản đến năm 2020; Bộ Nông nghiệp và Phát triển nông thôn hướng dẫn việc công nhận tiến bộ kỹ thuật công nghệ sinh học của ngành Nông nghiệp và Phát triển nông thôn như sau:\nChương I\nQUY ĐỊNH CHUNG",
+    "legal_bases": [
+      "Căn cứ Luật Tiêu chuẩn và Quy chuẩn kỹ thuật ngày 29 tháng 6 năm 2006",
+      "Căn cứ Nghị định số 01/2008/NĐ-CP ngày 3 tháng 1 năm 2008 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Nông nghiệp và Phát triển nông thôn và Nghị định số 75/2009/NĐ-CP của Chính phủ sửa đổi Điều 3 Nghị định số 01/2008/NĐ-CP ngày 3 tháng 1 năm 2008 quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Nông nghiệp và Phát triển nông thôn",
+      "Căn cứ Nghị định số 127/2007/NĐ-CP ngày 01 tháng 8 năm 2007 của Chính phủ quy định chi tiết thi hành một số điều của Luật Tiêu chuẩn và Quy chuẩn kỹ thuật",
+      "Căn cứ Quyết định số 11/2006/QĐ-TTg ngày 12 tháng 1 năm 2006 của Thủ tướng Chính phủ về việc Phê duyệt \"Chư­ơng trình trọng điểm phát triển và ứng dụng công nghệ sinh học trong lĩnh vực nông nghiệp và phát triển nông thôn đến năm 2020\"",
+      "Căn cứ Quyết định số 97/2007/QĐ-TTg ngày 29/6/2007 của Thủ tướng Chính phủ về việc phê duyệt \"Đề án phát triển và ứng dụng công nghệ sinh học trong lĩnh vực thuỷ sản đến năm 2020"
+    ],
+    "proposals": [],
+    "enactment_formula": null
+  },
+  "passage": "BỘ\nNÔNG NGHIỆP VÀ PHÁT TRIỂN NÔNG THÔN\n-------\nCỘNG\nHÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập – Tự do – Hạnh phúc --------- Số:\n23/2010/TT-BNNPTNT\nHà Nội, ngày 07 tháng 4 năm 2010\nTHÔNG TƯ\nCÔNG NHẬN TIẾN BỘ KỸ THUẬT CÔNG NGHỆ SINH HỌC CỦA NGÀNH NÔNG\nNGHIỆP VÀ PHÁT TRIỂN NÔNG THÔN\nCăn cứ Luật Khoa học và Công nghệ ban hành ngày 22 tháng 6 năm 2000; Căn cứ Luật Tiêu chuẩn và Quy chuẩn kỹ thuật ngày 29 tháng 6 năm 2006; Căn cứ Nghị định số 01/2008/NĐ-CP ngày 3 tháng 1 năm 2008 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Nông nghiệp và Phát triển nông thôn và Nghị định số 75/2009/NĐ-CP của Chính phủ sửa đổi Điều 3 Nghị định số 01/2008/NĐ-CP ngày 3 tháng 1 năm 2008 quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Nông nghiệp và Phát triển nông thôn; Căn cứ Nghị định số 127/2007/NĐ-CP ngày 01 tháng 8 năm 2007 của Chính phủ quy định chi tiết thi hành một số điều của Luật Tiêu chuẩn và Quy chuẩn kỹ thuật; Căn cứ Quyết định số 11/2006/QĐ-TTg ngày 12 tháng 1 năm 2006 của Thủ tướng Chính phủ về việc Phê duyệt \"Chư­ơng trình trọng điểm phát triển và ứng dụng công nghệ sinh học trong lĩnh vực nông nghiệp và phát triển nông thôn đến năm 2020\"; Căn cứ Quyết định số 97/2007/QĐ-TTg ngày 29/6/2007 của Thủ tướng Chính phủ về việc phê duyệt \"Đề án phát triển và ứng dụng công nghệ sinh học trong lĩnh vực thuỷ sản đến năm 2020; Bộ Nông nghiệp và Phát triển nông thôn hướng dẫn việc công nhận tiến bộ kỹ thuật công nghệ sinh học của ngành Nông nghiệp và Phát triển nông thôn như sau:\nChương I\nQUY ĐỊNH CHUNG\nĐiều 1. Phạm vi điều chỉnh Thông tư này quy định về trình tự, thủ tục đăng ký và công nhận tiến bộ kỹ thuật công nghệ sinh học áp dụng trong lĩnh vực nông, lâm nghiệp, thuỷ sản và phát triển nông thôn thuộc phạm vi quản lý của Bộ Nông nghiệp và Phát triển nông thôn.\nĐiều 2. Đối tượng áp dụng Thông tư này áp dụng đối với các tổ chức trong nước và nước ngoài đăng ký công nhận tiến bộ kỹ thuật công nghệ sinh học (sau đây gọi chung là Tổ chức đăng ký) và các tổ chức, cá nhân liên quan đến đánh giá, công nhận tiến bộ kỹ thuật công nghệ sinh học thuộc phạm vi quản lý của Bộ Nông nghiệp và Phát triển nông thôn.\nĐiều 3. Giải thích từ ngữ Trong Thông tư này các từ ngữ dưới đây được hiểu như sau:\n1. Tiến bộ kỹ thuật công nghệ\nsinh học là những qui trình kỹ thuật, công nghệ và sản phẩm được tạo ra bằng các kỹ thuật, công nghệ và phương pháp của công nghệ sinh học đáp ứng được các yêu cầu và điều kiện theo qui định của Thông tư này được Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn ban hành quyết định công nhận và cho phép áp dụng trong sản xuất nông nghiệp ở Việt Nam.\n2. Hội đồng khoa học công nghệ\ncơ sở là Hội đồng khoa học công nghệ do tổ chức có tiến bộ kỹ thuật công nghệ sinh học đăng ký công nhận thành lập hoặc Hội đồng khoa học công nghệ của đơn vị sự nghiệp khoa học công nghệ chuyên ngành được tổ chức có tiến bộ kỹ thuật công nghệ sinh học đăng ký công nhận đề nghị thành lập. Hội đồng khoa học công nghệ cơ sở có nhiệm vụ đánh giá kết quả nghiên cứu, sản xuất thử nghiệm và đề nghị công nhận hoặc không đề nghị công nhận tiến bộ kỹ thuật công nghệ sinh học trên cơ sở hồ sơ đăng ký theo qui định của Thông tư này.\n3. Tổ chức/Đơn vị/Cơ sở khảo,\nkiểm nghiệm được công nhận hoặc chỉ định là các tổ chức khoa học công nghệ, đơn vị sự nghiệp hoặc tổ chức dịch vụ khoa học công nghệ được cơ quan quản lý nhà nước có thẩm quyền công nhận đủ điều kiện hoặc chỉ định thực hiện khảo, kiểm nghiệm công nhận giống cây trồng, vật nuôi, thuốc bảo vệ thực vật, phân bón, sản phẩm cải tạo đất, thức ăn chăn nuôi, thuốc thú y, vaccin, sản phẩm sử dụng trong bảo quản, chế biến nông, lâm thủy sản và xử lý môi trường.\nChương II\nĐĂNG KÝ CÔNG NHẬN TIẾN BỘ\nKỸ THUẬT CÔNG NGHỆ SINH HỌC\nĐiều 4. Điều kiện đăng ký\n1. Tiến bộ kỹ thuật công nghệ\nsinh học tạo ra ở Việt Nam Tiến bộ kỹ thuật công nghệ sinh học tạo ra ở Việt Nam được đăng ký công nhận khi đáp ứng một trong các điều kiện sau:\na) Là kết quả nghiên cứu nhiệm vụ\nkhoa học công nghệ (đề tài, dự án) cấp nhà nước, cấp bộ hoặc tương đương đã nghiệm thu và được Hội đồng khoa học công nghệ nghiệm thu đề nghị công nhận;\nb) Là một phần kết quả nghiên cứu\ncủa nhiệm vụ khoa học công nghệ cấp nhà nước, cấp bộ hoặc tương đương được Hội đồng khoa học công nghệ cơ sở đề nghị công nhận;\nc) Kết quả nghiên cứu của nhiệm\nvụ khoa học công nghệ do các tổ chức khoa học và công nghệ, doanh nghiệp, tổ chức xã hội nghề nghiệp thực hiện, đã đã nghiệm thu và được Hội đồng khoa học công nghệ cơ sở đề nghị xem xét công nhận.\n2. Tiến bộ kỹ thuật công nghệ\nsinh học tạo ra ở nước ngoài Các tiến bộ kỹ thuật công nghệ sinh học tạo ra ở nước ngoài được đăng ký công nhận khi đã sử dụng có hiệu quả ở nước ngoài và nằm trong danh mục công nghệ cao và sản phẩm công nghệ cao được khuyến khích chuyển giao và sử dụng tại Việt Nam theo các qui định hiện hành của pháp luật.\nĐiều 5. Trình tự, thủ tục đăng ký công nhận\n1. Hồ sơ đăng ký công nhận tiến\nbộ kỹ thuật công nghệ sinh học tạo ra ở Việt Nam (dưới đây gọi tắt là hồ sơ đăng ký) bao gồm các tài liệu sau:\na) Đăng ký công nhận tiến bộ kỹ\nthuật công nghệ sinh học (Phụ lục 1);\nb) Báo cáo kết quả nghiên cứu, sản\nxuất thử nghiệm của Tổ chức đăng ký (Phụ lục 2);\nc) Ý kiến nhận xét bằng văn bản\ncủa các tổ chức, cá nhân áp dụng tiến bộ kỹ thuật công nghệ sinh học (Phụ lục 3);\nd) Quyết định thành lập Hội đồng\nkhoa học công nghệ nghiệm thu hoặc Hội đồng khoa học công nghệ cơ sở, Biên bản họp Hội đồng khoa học công nghệ nghiệm thu hoặc biên bản họp của Hội đồng khoa học công nghệ cơ sở quy định tại Khoản 1 Điều 4 của Thông tư này;\nđ) Các kết quả khảo, kiểm nghiệm\ngiống cây trồng, vật nuôi, thuốc bảo vệ thực vật, phân bón, sản phẩm cải tạo đất, thức ăn chăn nuôi, thuốc thú y, vaccin, sản phẩm sử dụng trong bảo quản, chế biến nông, lâm, thủy sản và xử lý môi trường theo yêu cầu của các qui định hiện hành do Tổ chức đăng ký thực hiện đối với tiến bộ kỹ thuật công nghệ sinh học được tạo ra từ các nhiệm vụ khoa học công nghệ do ngân sách Nhà nước tài trợ hoặc do Tổ chức/Đơn vị/Cơ sở khảo, kiểm nghiệm được công nhận hoặc chỉ định thực hiện;\ne) Ngoài các tài liệu qui định tại\ncác mục từ a đến đ nêu trên, trường hợp tiến bộ kỹ thuật đăng ký là giống cây trồng, vật nuôi, vi sinh vật biến đổi gen và sản phẩm của sinh vật biến đổi gen, hồ sơ đăng ký phải có thêm bản sao các văn bản chứng nhận an toàn sinh học của cơ quan quản lý nhà nước có thẩm quyền;\ng) Các tài liệu khác liên quan\n(nếu có).\n2. Hồ sơ đăng ký công nhận tiến\nbộ kỹ thuật công nghệ sinh học tạo ra ở nước ngoài gồm các tài liệu sau:\na) Đăng ký công nhận tiến bộ kỹ\nthuật công nghệ sinh học (Phụ lục 1);\nb) Báo cáo kết quả nghiên cứu, sản\nxuất thử nghiệm của Tổ chức đăng ký (Phụ lục 2);\nc) Tài liệu công nhận tiến bộ kỹ\nthuật công nghệ sinh học hoặc tương đương tại nơi có nguồn gốc xuất xứ;\nd) Các kết quả khảo, kiểm nghiệm\ngiống cây trồng, vật nuôi, thuốc bảo vệ thực vật, phân bón, sản phẩm cải tạo đất, thức ăn chăn nuôi, thuốc thú y, vaccin, sản phẩm sử dụng trong bảo quản, chế biến nông, lâm thủy sản và xử lý môi trường theo yêu cầu của các qui định hiện hành do Tổ chức/Đơn vị/Cơ sở khảo, kiểm nghiệm được công nhận hoặc chỉ định thực hiện;\nđ) Ngoài các tài liệu qui định tại\ncác mục từ a đến d nêu trên, trường hợp tiến bộ kỹ thuật đăng ký là giống cây trồng, vật nuôi, vi sinh vật biến đổi gen và sản phẩm của sinh vật biến đổi gen, hồ sơ đăng ký phải có thêm bản sao các văn bản chứng nhận an toàn sinh học của cơ quan quản lý nhà nước Việt Nam có thẩm quyền;\ne) Các tài liệu khác liên quan\n(nếu có).\n3. Gửi và tiếp nhận hồ sơ đăng\nký\na) Hồ sơ đăng ký là các tài liệu\nquy định tại khoản 1 và 2 điều này, đóng gói trong túi hồ sơ có niêm phong gồm một (01) hồ sơ gốc và 10 bản sao hồ sơ gốc, gửi tới Vụ Khoa học, Công nghệ và Môi trường, Bộ Nông nghiệp và Phát triển nông thôn qua đường bưu điện hoặc nộp trực tiếp;\nb) Trong thời hạn 5 ngày làm việc\nkể từ khi nhận được hồ sơ đăng ký, Vụ Khoa học, Công nghệ và Môi trường xác nhận và thông báo bằng văn bản cho Tổ chức đăng ký biết hồ sơ đáp ứng yêu cầu đã được tiếp nhận;\nc) Trường hợp hồ sơ đăng ký chưa\nđầy đủ, Vụ Khoa học, Công nghệ và Môi trường yêu cầu Tổ chức đăng ký bổ sung. Thời gian chờ đợi cung cấp thông tin bổ sung không được tính vào thời gian xác nhận hồ sơ.\nChương III\nCÔNG NHẬN, ĐÌNH CHỈ, HUỶ\nBỎ TIẾN BỘ KỸ THUẬT CÔNG NGHỆ SINH HỌC\nĐiều 6. Điều kiện công nhận đối với tiến bộ kỹ thuật công nghệ sinh học Tiến bộ kỹ thuật công nghệ sinh học được công nhận khi đáp ứng các điều kiện sau:\n1. Hiệu quả kinh tế, xã hội, bảo\nvệ môi trường và vệ sinh an toàn thực phẩm cao hơn so với kỹ thuật, công nghệ và sản phẩm đang sử dụng phổ biến trong sản xuất.\n2. Phù hợp yêu cầu sản xuất (cơ\ncấu cây trồng, mùa vụ; giảm mức độ nhiễm sâu bệnh; sản xuất sạch, thân thiện môi trường, thích ứng, né tránh điều kiện ngoại cảnh bất thuận, có tính cạnh tranh cao hơn, bảo vệ sức khoẻ con người, phát triển ngành nghề truyền thống, chất lượng sản phẩm tốt hơn, phù hợp với điều kiện sản xuất, phong tục tập quán và một số lợi thế khác).\n3. Đã được khảo, kiểm nghiệm đáp\nứng các qui định hiện hành về khảo, kiểm nghiệm công nhận giống cây trồng, vật nuôi, thuốc bảo vệ thực vật, phân bón, sản phẩm cải tạo đất, thức ăn chăn nuôi, thuốc thú y, vaccin, sản phẩm sử dụng trong bảo quản, chế biến nông, lâm thủy sản và xử lý môi trường.\n4. Giống cây trồng, vật nuôi, vi\nsinh vật biến đổi gen và sản phẩm của cây trồng, vật nuôi, vi sinh vật biến đổi gen chỉ được công nhận là Tiến bộ kỹ thuật công nghệ sinh học khi được cơ quan quản lý nhà nước có thẩm quyền Việt Nam cấp giấy chứng nhận an toàn đối với đa dạng sinh học, môi trường và/hoặc giấy xác nhận đủ điều kiện làm thực phẩm hoặc thức ăn chăn nuôi.\nĐiều 7. Công nhận đặc cách\n1. Đối với Tiến bộ kỹ thuật công\nnghệ sinh học đăng ký công nhận là kết quả của nhiệm vụ khoa học công nghệ (đề tài, dự án) cấp nhà nước, cấp bộ hoặc tương đương đã nghiệm thu và được Hội đồng khoa học công nghệ nghiệm thu đề nghị công nhận, Vụ Khoa học, Công nghệ và Môi trường căn cứ hồ sơ đăng ký trình Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn ban hành quyết định công nhận trong thời gian 5 ngày làm việc kể từ ngày chấp nhận hồ sơ đăng ký.\n2. Đối với tiến\nbộ kỹ thuật công nghệ sinh học đăng ký là giống cây trồng, vật nuôi, vi sinh vật đã nằm trong danh mục được phép sản xuất kinh doanh tại Việt Nam có chứa sự kiện chuyển gen đã được cấp giấy chứng nhận an toàn đối với đa dạng sinh học, môi trường hoặc giấy xác nhận đủ điều kiện làm thực phẩm hoặc thức ăn chăn nuôi của cơ quan quản lý nhà nước Việt Nam có thẩm quyền, Vụ Khoa học, Công nghệ và Môi trường căn cứ hồ sơ đăng ký, trình Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn ban hành quyết định công nhận trong thời gian 5 ngày làm việc kể từ ngày chấp nhận hồ sơ đăng ký.\nĐiều 8. Công nhận thông qua Tổ chuyên gia tư vấn độc lập\n1. Trong trường hợp cần thiết, Bộ\nNông nghiệp và Phát triển nông thôn thành lập Tổ chuyên gia tư vấn độc lập (dưới đây gọi tắt là Tổ chuyên gia) đánh giá hồ sơ đăng ký tiến bộ kỹ thuật công nghệ sinh học là kết quả của nhiệm vụ khoa học công nghệ (đề tài, dự án) cấp nhà nước, cấp bộ hoặc tương đương đã nghiệm thu và được Hội đồng khoa học công nghệ nghiệm thu đề nghị công nhận. Tổ chuyên gia có từ 3 người đến 5 người là những người am hiểu về lĩnh vực đề nghị công nhận, gồm: 01 Tổ trưởng, 01 Thư ký và các thành viên; trong đó không có đại diện của Tổ chức đăng ký.\n2. Quy trình làm việc của Tổ\nchuyên gia: a. Thư ký hội Tổ chuyên gia đọc quyết định thành lập Tổ chuyên gia và giới thiệu đại biểu tham dự; b. Tổ trưởng Tổ chuyên gia chủ trì phiên họp theo trình tự sau: - Các thành viên Tổ chuyên gia đọc nhận xét, đánh giá hồ sơ đăng ký theo biểu mẫu (Phụ lục 4); - Thư ký Tổ chuyên gia đọc phiếu nhận xét của thành viên vắng mặt (nếu có) để Tổ chuyên gia đọc tham khảo; - Tổ chuyên gia thảo luận và tiến hành bỏ phiếu đánh giá đối với tiến bộ kỹ thuật công nghệ sinh học đăng ký công nhận; - Tổ trưởng Tổ chuyên gia công bố kết quả bỏ phiếu và dự thảo kết luận đánh giá tiến bộ kỹ thuật công nghệ sinh học đăng ký công nhận; - Tổ chuyên gia thảo luận để thống nhất nội dung kết luận và thông qua biên bản phiên họp của Tổ chuyên gia theo\nbiểu mẫu (Phụ lục 5);\n3. Vụ Khoa học, Công nghệ và Môi\ntrường căn cứ ý kiến kết luận của Tổ chuyên gia trình Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn ban hành quyết định công nhận trong thời gian 5 ngày làm việc kể từ ngày Hồ sơ đăng ký đã được hoàn thiện theo kết luận của Tổ chuyên gia.\nĐiều 9. Công nhận thông qua Hội đồng khoa học công nghệ\n1. Đối với tiến bộ kỹ thuật là một\nphần kết quả của nhiệm vụ khoa học công nghệ cấp nhà nước, cấp bộ hoặc tương đương; kết quả nghiên cứu của nhiệm vụ khoa học công nghệ do các tổ chức khoa học và công nghệ, doanh nghiệp, tổ chức xã hội nghề nghiệp đã nghiệm thu và được Hội đồng khoa học công nghệ cơ sở đề nghị công nhận, Vụ Khoa học, Công nghệ và Môi trường căn cứ hồ sơ đăng ký, trình Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn thành lập Hội đồng khoa học công nghệ đánh giá tiến bộ kỹ thuật (dưới đây gọi tắt là Hội đồng), gồm 7- 9 thành viên là những người am hiểu về lĩnh vực đề nghị công nhận, trong đó có 01 Chủ tịch, 01 Thư ký và 02 uỷ viên phản biện. Số thành viên Hội đồng là đại diện của doanh nghiệp, địa phương, cơ quan quản lý không quá 50%. Trong trường hợp cần thiết, thành viên Hội đồng có thể là cán bộ đang công tác tại Tổ chức đăng ký, nhưng không quá 01 người và không được làm Chủ tịch, Phó Chủ tịch hoặc chuyên gia phản biện. Thành viên Hội đồng đánh giá hồ sơ đăng ký theo biểu mẫu tại Phụ lục 4 và gửi về Vụ Khoa học, Công nghệ và Môi trường muộn nhất là 01 ngày trước phiên họp của Hội đồng.\n2. Quy trình làm việc của Hội đồng:\na) Thư ký Hội đồng đọc quyết định\nthành lập và giới thiệu đại biểu tham dự;\nb) Chủ tịch Hội đồng chủ trì\nphiên họp theo trình tự sau: - Đại diện Tổ chức đăng ký trình bày tóm tắt nội dung tiến bộ kỹ thuật công nghệ sinh học; - Các ủy viên phản biện đọc phiếu nhận xét đánh giá hồ sơ đăng ký; - Thư ký Hội đồng đọc phiếu nhận xét của thành viên vắng mặt (nếu có) để hội đồng tham khảo; - Thành viên Hội đồng nêu câu hỏi đối với Tổ chức đăng ký về nội dung tiến bộ kỹ thuật công nghệ sinh học; - Đại diện Tổ chức đăng ký trả lời các câu hỏi của Hội đồng; - Hội đồng thảo luận và tiến hành bỏ phiếu đánh giá đối với tiến bộ kỹ thuật công nghệ sinh học đăng ký công nhận; - Hội đồng bầu ban kiểm phiếu gồm 3 thành viên, trong đó có một trưởng ban; - Trưởng ban kiểm phiếu thông báo kết quả kiểm phiếu; - Chủ tịch Hội đồng dự thảo kết luận đánh giá tiến bộ kỹ thuật công nghệ sinh học đăng ký công nhận; - Hội đồng thảo luận để thống nhất nội dung kết luận và thông qua biên bản phiên họp của Hội đồng theo biểu mẫu (Phụ lục 6);\n3. Vụ Khoa học, Công nghệ và Môi\ntrường căn cứ ý kiến kết luận của Hội đồng, trình Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn ban hành quyết định công nhận trong thời gian 5 ngày làm việc kể từ ngày Hồ sơ đăng ký đã được hoàn thiện theo kết luận của Hội đồng.\nĐiều 10. Tạm dừng và khôi phục hiệu lực thi hành quyết định công nhận\n1. Bộ Nông nghiệp và Phát triển\nnông thôn công nhận tiến bộ kỹ thuật công nghệ sinh học và có quyền tạm dừng, khôi phục hiệu lực thi hành quyết định công nhận.\n2. Tạm dừng hiệu lực thi hành\nquyết định công nhận tiến bộ kỹ thuật công nghệ sinh học khi vi phạm một trong các trường hợp sau đây:\na) Tổ chức có tiến bộ kỹ thuật\ncông nghệ sinh học được không thực hiện trách nhiệm tại khoản 2 Điều 12 của Thông tư này;\nb) Tiến bộ kỹ thuật công nghệ\nsinh học sau một thời gian áp dụng trong thực tế không đáp ứng được các yêu cầu qui định tại khoản a, b Điều 5 của Thông tư này hoặc gây ảnh hưởng xấu đến sản xuất, đời sống, môi trường;\nc) Vi phạm các quy định có liên\nquan của Luật Sở hữu trí tuệ.\n3. Khi có dấu hiệu phi phạm, Vụ\nKhoa học, Công nghệ và Môi trường tổ chức xác định vi phạm và trình Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn ban hành quyết định tạm dừng hiệu lực thi hành quyết định công nhận tiến bộ kỹ thuật công nghệ sinh học.\n4. Quyết định công nhận tiến bộ\nkỹ thuật công nghệ sinh học được khôi phục hiệu lực thi hành khi tổ chức, cá nhân có tiến bộ kỹ thuật công nghệ sinh học bị tạm dừng đã khắc phục được lý do tạm dừng quy định tại khoản 2 điều này. Trình tự thủ tục khôi phục hiệu lực thi hành quyết định công nhận tiến bộ kỹ thuật công nghệ sinh học như sau:\na) Tổ chức có tiến bộ kỹ thuật\ncông nghệ sinh học nộp báo cáo kết quả khắc phục lý do tạm dừng hiệu lực thi hành Quyết định công nhận tiến bộ kỹ thuật công nghệ sinh học về Vụ Khoa học, Công nghệ và Môi trường;\nb) Vụ Khoa học, Công nghệ và Môi\ntrường tổ chức xác định kết quả khắc phục lý do tạm dừng hiệu lực thi hành và trình Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn ban hành quyết định khôi phục hiệu lực thi hành quyết định công nhận tiến bộ kỹ thuật.\nĐiều 11. Huỷ bỏ hiệu lực quyết định công nhận\n1. Bộ Nông nghiệp và Phát triển\nnông thôn công nhận tiến bộ kỹ thuật công nghệ sinh học và có quyền hủy bỏ hiệu lực thi hành quyết định công nhận.\n2. Quyết định công nhận tiến bộ\nkỹ thuật công nghệ sinh học bị huỷ bỏ trong các trường hợp sau đây:\na) Tổ chức có tiến bộ kỹ thuật\ncông nghệ sinh học tự nguyện đề nghị huỷ bỏ;\nb) Sau khi áp dụng trong thực tế,\ntiến bộ kỹ thuật công nghệ sinh học không còn đáp ứng được các yêu cầu qui định tại khoản a, b Điều 5 của Thông tư này và gây hậu quả xấu đến sản xuất, đời sống, môi trường mà không thể khắc phục được;\nc) Sau thời hạn 01 tháng kể từ\nkhi quyết định tạm dừng có hiệu lực thi hành mà tổ chức có tiến bộ kỹ thuật công nghệ sinh học bị tạm dừng không khắc phục được lý do tạm dừng quy định tại khoản 2 Điều 10 của Thông tư này.\nĐiều 12. Quyền và trách nhiệm của tổ chức có tiến bộ kỹ thuật công nghệ sinh học được công nhận\n1. Quyền của tổ chức có tiến bộ\nkỹ thuật công nghệ sinh học được công nhận:\na) Được quảng cáo, công bố, áp dụng\ntiến bộ kỹ thuật công nghệ sinh học vào sản xuất, chuyển giao, chuyển nhượng và các quyền lợi theo quy định của pháp luật;\nb) Khiếu nại, tố cáo về các hành\nvi vi phạm về quyền hợp pháp theo quy định của pháp luật và quy định tại khoản 1 của điều này trong việc đánh giá không đúng tiến bộ kỹ thuật công nghệ sinh học của mình;\n2. Trách nhiệm của tổ chức có tiến\nbộ kỹ thuật công nghệ sinh học:\na) Cung cấp các tài liệu, vật liệu\ncần thiết về tiến bộ kỹ thuật công nghệ sinh học đã được công nhận khi có yêu cầu của cơ quan nhà nước có thẩm quyền;\nb) Hướng dẫn quy trình kỹ thuật\náp dụng tiến bộ kỹ thuật công nghệ sinh học cho tổ chức, cá nhân được chuyển giao;\nc) Thực hiện đầy đủ trách nhiệm\ntheo quy định hiện hành của Nhà nước;\nd) Không được thực hiện các quyền\nquy định tại khoản 1 điều này trong thời gian tạm dừng hiệu lực thi hành quyết định công nhận tiến bộ kỹ thuật công nghệ sinh học.\nĐiều 13. Kinh phí cho hoạt động đánh giá, công nhận tiến bộ kỹ thuật công nghệ sinh học\n1. Tổ chức đăng ký phải nộp các\nkhoản chi phí liên quan đến việc đánh giá, công nhận tiến bộ kỹ thuật công nghệ sinh học theo quy định. Trường hợp chưa có quy định của nhà nước thì chi phí do các bên thoả thuận.\n2. Chi phí cho hoạt động đánh\ngiá công nhận tiến bộ kỹ thuật công nghệ sinh học được thực hiện theo quy định hiện hành về nghiệm thu nhiệm vụ khoa học công nghệ cấp nhà nước.\nChương IV\nTỔ CHỨC THỰC HIỆN\nĐiều 14. Trách nhiệm của Vụ Khoa học, Công nghệ và Môi trường\n1. Tiếp nhận, tổ chức đánh giá hồ\nsơ đăng ký, trình Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn ban hành quyết định công nhận tiến bộ kỹ thuật công nghệ sinh học, quyết định tạm dừng, khôi phục hoặc huỷ bỏ quyết định công nhận tiến bộ kỹ thuật công nghệ sinh học;\n2. Chủ trì, phối hợp với các đơn\nvị có liên quan kiểm tra, giải quyết khiếu nại, tố cáo, xử lý vi phạm trong đăng ký, công nhận và ứng dụng tiến bộ kỹ thuật công nghệ sinh học theo qui định của Thông tư này.\n3. Tổng hợp, báo cáo định kỳ (6\ntháng, báo báo năm) và đột xuất theo yêu cầu của Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn về kết quả đăng ký, công nhận tiến bộ kỹ thuật công nghệ sinh học. 4.. Phối hợp với các Tổng cục, Cục quản lý chuyên ngành, Sở Nông nghiệp và Phát triển nông thôn tổ chức kiểm tra, đánh giá tiến bộ kỹ thuật công nghệ sinh học áp dụng trong sản xuất.\nĐiều 15. Trách nhiệm của các Tổng cục, Cục quản lý chuyên ngành\n1. Chỉ đạo triển khai, áp dụng\ncác tiến bộ kỹ thuật công nghệ sinh học được công nhận thuộc lĩnh vực chuyên ngành trong phạm vi cả nước.\n2. Chủ trì và phối hợp với Vụ\nKhoa học, Công nghệ và Môi trường, Sở Nông nghiệp và Phát triển nông thôn tổ chức kiểm tra, đánh giá tiến bộ kỹ thuật công nghệ sinh học áp dụng trong sản xuất và đề nghị hình thức khen thưởng cho các tổ chức có tiến bộ kỹ thuật công nghệ sinh học ứng dụng có hiệu quả trong nông nghiệp và phát triển nông thôn;\n3. Tổng hợp, báo cáo định kỳ (6\ntháng, báo báo năm) và đột xuất theo yêu cầu của Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn (Thông qua Vụ Khoa học, Công nghệ và Môi trường) về kết quả áp dụng tiến bộ kỹ thuật công nghệ sinh học trong lĩnh vực quản lý.\nĐiều 16. Trách nhiệm của Sở Nông nghiệp và Phát triển nông thôn\n1. Chỉ đạo triển khai và giám\nsát việc ứng dụng tiến bộ kỹ thuật công nghệ sinh học trên địa bàn.\n2. Kiểm tra, đánh giá kết quả áp\ndụng tiến bộ kỹ thuật công nghệ sinh học trên địa bàn.\n3. Tổng hợp, báo cáo định kỳ báo\ncáo định kỳ (6 tháng, báo báo năm) và đột xuất theo yêu cầu của Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn về kết quả áp dụng tiến bộ kỹ thuật công nghệ sinh học trên địa bàn.\nĐiều 17. Điều khoản thi hành\n1. Thông tư này có hiệu lực sau\n45 ngày, kể từ ngày ký ban hành.\n2. Trong quá trình thực hiện, nếu\ncó khó khăn vướng mắc đề nghị các địa phương, tổ chức, cá nhân báo cáo phản ánh kịp thời về Bộ Nông nghiệp và Phát triển nông thôn để xem xét, sửa đổi, bổ sung./.\nNơi nhận:\n- Văn phòng Chính phủ;\n- Lãnh đạo Bộ;\n- UBND các tỉnh, TP trực thuộc TW;\n- Sở NNPTNT các tỉnh TP trực thuộc TW;\n- Cục Kiểm tra văn bản - Bộ Tư pháp;\n- Công báo Chính phủ;\n- Website Chính phủ;\n- Các đơn vị thuộc Bộ NNPTNT;\n- Lưu: VT, KHCN.\nKT.\nBỘ TRƯỞNG\nTHỨ TRƯỞNG\nBùi Bá Bổng\nPHỤ LỤC 1.\nMẪU ĐĂNG KÝ CÔNG NHẬN TIẾN BỘ KỸ THUẬT CÔNG NGHỆ\nSINH HỌC\n(Ban hành kèm theo Thông tư 23/2010/TT-BNNPTNT ngày 07 tháng 4 năm 2010 của\nBộ Nông nghiệp và Phát triển nông thôn)\nCỘNG\nHOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập – Tự do – Hạnh phúc -----------------\nĐĂNG KÝ CÔNG\nNHẬN TIẾN BỘ KỸ THUẬT CÔNG NGHỆ SINH HỌC\nKính gửi : Vụ Khoa học, Công nghệ và Môi trường Tổ chức đăng ký: Tên người đứng đầu tổ chức: Địa chỉ liên hệ: Điện thoại: Fax: E-mail: Website…… Căn cứ Thông tư số..........., ngày.......tháng....….năm .......của Bộ Nông nghiệp và Phát triển nông thôn về việc công nhận tiến bộ kỹ thuật trong lĩnh vực công nghệ sinh học của ngành Nông nghiệp và Phát triển nông thôn, chúng tôi đăng ký công nhận tiến bộ kỹ thuật mới như sau:\n1. Tên tiến bộ kỹ thuật công nghệ\nsinh học\n2. Nguồn gốc/ tác giả của tiến bộ\nkỹ thuật công nghệ sinh học\n3. Lĩnh vực áp dụng (giống cây\ntrồng, vật nuôi, thuốc bảo vệ thực vật, phân bón, sản phẩm cải tạo đất, thức ăn chăn nuôi, thuốc thú y, vaccin, sản phẩm sử dụng trong bảo quản, chế biến nông, lâm thủy sản và xử lý môi trường)\n4. Dự kiến địa bàn và thời gian\náp dụng Hồ sơ đăng ký công nhận tiến bộ kỹ thuật gồm (kê khai theo Điều 6 của Thông tư): 1. 2... Đề nghị Bộ Nông nghiệp và Phát triển nông thôn làm các thủ tục công nhận tiến bộ kỹ thuật đối với ..................để được áp dụng vào sản xuất./. ..........., ngày.......tháng.....năm............. Tổ chức đăng ký (Ký tên và đóng dấu)\nPHỤ LỤC 2.\nMẪU BÁO CÁO KẾT QUẢ NGHIÊN CỨU, SẢN XUẤT THỬ NGHIỆM\n(Ban hành kèm theo Thông tư 23/2010/TT-BNNPTNT ngày 07 tháng 4 năm\n2010 của Bộ Nông nghiệp và Phát triển nông thôn)\nBÁO CÁO KẾT\nQUẢ NGHIÊN CỨU, SẢN XUẤT THỬ NGHIỆM\n1. Thông tin chung\nTên tiến bộ kỹ thuật công nghệ sinh học Nguồn gốc/ tác giả của tiến bộ kỹ thuật công nghệ sinh học Lĩnh vực áp dụng (làm giống cây trồng, vật nuôi, thuốc bảo vệ thực vật, phân bón, sản phẩm cải tạo đất, thức ăn chăn nuôi, thuốc thú y, vaccin, sản phẩm sử dụng trong bảo quản, chế biến nông, lâm thủy sản và xử lý môi trường) Tổ chức đăng ký: Địa chỉ: Điện thoại: Fax: E-mail:\n2. Quá trình nghiên cứu, phát\ntriển\n3. Nội dung tiến bộ kỹ thuật\n(trình bày rõ đặc điểm, tính chất, chỉ tiêu chất lượng, đặc tính kỹ thuật, qui trình và điều kiện áp dung tiến bộ kỹ thuật)\n3. Địa điểm, thời gian và\nquy mô đã áp dụng\n3. Giá trị khoa học\n4. Hiệu quả kinh tế, xã hội, bảo\nvệ môi trường và vệ sinh an toàn thực phẩm\n5. Khả năng phù hợp với yêu cầu\nsản xuất\n6. Kết quả khảo, kiểm nghiệm\n7. Kết luận về ưu điểm, tồn tại\n8. Đề nghị (nêu rõ địa bàn, thời\ngian áp dung) Tổ chức đăng ký (Ký tên và đóng dấu)\nPHẦN PHỤ LỤC:\na. Báo cáo kết quả khảo nghiệm; b. Phiếu kết quả kiểm nghiệm; c. Một số hình ảnh liên quan đến tiến bộ kỹ thuật.\nPHỤ LỤC 3.\nMẪU NHẬN XÉT ỨNG DỤNG TIẾN BỘ KỸ THUẬT\n(Ban hành kèm theo Thông tư 23/2010/TT-BNNPTNT ngày 07 tháng 4 năm 2010 của\nBộ Nông nghiệp và Phát triển nông thôn)\nNHẬN XÉT ỨNG DỤNG TIẾN BỘ KỸ THUẬT\n(Dùng cho tổ chức, cá nhân ứng dụng tiến bộ kỹ thuật) I. Thông tin chung:\n1. Tên tiến bộ kỹ thuật công nghệ\nsinh học:\n2. Tổ chức đăng ký:\n2. Tổ chức, cá nhân ứng dụng:\n3. Lý do ứng dụng:\n3. Địa chỉ, thời gian, qui mô,\nphương pháp ứng dụng: II. Nhận xét:\n1. Hiệu quả kinh tế, xã hội, bảo\nvệ môi trường và vệ sinh an toàn thực phẩm\n2. Khả năng phù hợp với yêu cầu\nsản xuất (cơ cấu cây trồng, mùa vụ; giảm mức độ nhiễm sâu bệnh; sản xuất sạch, thân thiện môi trường, thích ứng, né tránh điều kiện ngoại cảnh bất thuận, có tính cạnh tranh cao hơn, bảo vệ sức khoẻ con người, phát triển ngành nghề truyền thống…). III. Kết luận\n1. Ưu điểm, tồn tại của tiến bộ\nkỹ thuật\n2. Tiềm năng phát triển vào sản\nxuất của tiến bộ kỹ thuật Xác nhận Tổ chức, cá nhân nhận xét (Ký tên )\nPHỤ LỤC 4.\nMẪU PHIẾU NHẬN XÉT HỒ SƠ ĐĂNG KÝ CÔNG NHẬN TIẾN BỘ KỸ\nTHUẬT\n(Ban hành kèm theo Thông tư 23/2010/TT-BNNPTNT ngày 07 tháng 4 năm 2010 của\nBộ Nông nghiệp và Phát triển nông thôn)\nBỘ\nNÔNG NGHIỆP VÀ PHÁT TRIỂN NÔNG THÔN\nHỘI ĐỒNG KHOA HỌC CÔNG NGHỆ/TỔ CHUYÊN GIA ĐÁNH GIÁ TIẾN BỘ KỸ THUẬT\n-------\nCỘNG\nHÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập – Tự do – Hạnh phúc --------- Hà Nội, ngày …. tháng … năm 20…\nNHẬN XÉT HỒ SƠ ĐĂNG KÝ CÔNG NHẬN\nTIẾN\nBỘ KỸ THUẬT CÔNG NGHỆ SINH HỌC\nI. Những thông tin chung\n1. Tên tiến bộ kỹ thuật:\n2. Tổ chức đăng ký\n3. Họ và tên người nhận xét\nII. Nội dung đánh giá\n1. Mức độ đầy đủ của hồ sơ\n2. Sự cần thiết của tiến bộ kỹ\nthuật đăng ký công nhận\n3. Nội dung của tiến bộ kỹ thuật\n4. Giá trị khoa học\n5. Hiệu quả kinh tế, xã hội, bảo\nvệ môi trường và vệ sinh an toàn thực phẩm\n6. Khả năng phù hợp với yêu cầu\nsản xuất (cơ cấu cây trồng, mùa vụ; giảm mức độ nhiễm sâu bệnh; sản xuất sạch, thân thiện môi trường, thích ứng, né tránh điều kiện ngoại cảnh bất thuận, có tính cạnh tranh cao hơn, bảo vệ sức khoẻ con người, phát triển ngành nghề truyền thống…). III. Kết luận\n1. Ưu điểm, tồn tại của tiến bộ\nkỹ thuật\n2. Tiềm năng phát triển vào sản\nxuất của tiến bộ kỹ thuật IV. Kiến nghị Đồng ý/ Không đồng ý công nhận tiến bộ kỹ thuật công nghệ sinh học: Địa bàn áp dụng: Điều kiện áp dụng: Kiến nghị khác (nếu có) Người đánh giá (Họ tên và chữ ký)\nPHỤ LỤC 5.\nMẪU BIÊN BẢN HỌP TỔ CHUYÊN GIA\n(Ban hành kèm theo Thông tư 23/2010/TT-BNNPTNT ngày 07 tháng 4 năm 2010 của\nBộ Nông nghiệp và Phát triển nông thôn)\nBỘ\nNÔNG NGHIỆP VÀ PHÁT TRIỂN NÔNG THÔN\nTỔ CHUYÊN GIA\nĐÁNH GIÁ TIẾN BỘ KỸ THUẬT\n-------\nCỘNG\nHÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập – Tự do – Hạnh phúc --------- Hà Nội, ngày tháng năm 200\nBIÊN\nBẢN HỌP TỔ CHUYÊN GIA ĐÁNH GIÁ HỒ SƠ ĐĂNG KÝ\nCÔNG\nNHẬN TIẾN BỘ KỸ THUẬT CÔNG NGHỆ SINH HỌC\nI. Thông tin chung\n1. Tên tiến bộ kỹ thuật công nghệ\nsinh học:\n2. Tên tổ chức đăng ký:\n3. Quyết định thành lập Tổ\nchuyên gia số KHCN ngày tháng năm 20\n4. Số thành viên có mặt trên tổng\nsố thành viên Vắng mặt: ........ người, gồm các thành viên:\n5. Khách mời tham dự cuộc họp\n6. Địa điểm và thời gian họp Tổ\nchuyên gia II. Nội dung phiên họp\n1. Các chuyên gia phản biện đọc\nbản nhận xét hồ sơ đăng ký (nhận xét kèm theo).\n2. Tổ chuyên gia thảo luận về hồ\nsơ đăng ký và nội dung tiến bộ kỹ thuật (ý kiến đánh giá của các thành viên Tổ chuyên gia kèm theo).\n3. Tổ chuyên gia bỏ phiếu kín\nđánh giá hồ sơ đăng ký kết quả như sau: Công nhận Phiếu; Không công nhận Phiếu Phiếu đánh giá hồ sơ đăng ký của các thành viên Tổ chuyên gia kèm theo. III. Kết luận và kiến nghị của Tổ chuyên gia\n1. Kết luận\nĐồng ý / Không đồng ý công nhận tiến bộ kỹ thuật:\n2. Kiến nghị\nĐịa bàn áp dụng: Điều kiện áp dụng: Kiến nghị khác (nếu có) Tổ chuyên gia đề nghị Bộ Nông nghiệp và PTNT xem xét công nhận .......…………….………………………………………… là tiến bộ kỹ thuật được phép áp dụng trong sản xuất./.\nTHƯ KÝ TỔ CHUYÊN GIA\n(Họ, tên và chữ ký)\nTỔ TRƯỞNG TỔ CHUYÊN GIA\n(Họ, tên và chữ ký)\nPHỤ LỤC 6.\nMẪU BIÊN BẢN HỌP HỘI ĐỒNG\n(Ban hành kèm theo Thông tư 23/2010/TT-BNNPTNT ngày 07 tháng 4 năm 2010 của\nBộ Nông nghiệp và Phát triển nông thôn)\nBỘ\nNÔNG NGHIỆP VÀ PHÁT TRIỂN NÔNG THÔN\nHỘI ĐỒNG KHOA HỌC CÔNG NGHỆ ĐÁNH GIÁ TIẾN BỘ KỸ THUẬT\n-------\nCỘNG\nHÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập – Tự do – Hạnh phúc --------- Hà Nội, ngày tháng năm 20\nBIÊN\nBẢN HỌP HỘI ĐỒNG KHOA HỌC CÔNG NGHỆ\nĐÁNH\nGIÁ HỒ SƠ ĐĂNG KÝ CÔNG NHẬN\nTIẾN\nBỘ KỸ THUẬT CÔNG NGHỆ SINH HỌC\nI. Thông tin chung\n1. Tên tiến bộ kỹ thuật công nghệ\ncông nghệ sinh học:\n2. Tổ chức đăng ký:\n3. Quyết định thành lập Hội đồng\nsố KHCN ngày tháng năm 20\n4. Số thành viên Hội đồng có mặt\ntrên tổng số thành viên Vắng mặt: ........ người, gồm các thành viên:\n5. Khách mời tham dự Hội đồng\n6. Địa điểm và thời gian họp Hội\nđồng: II. Nội dung phiên họp\n1. Hội đồng nghe đại diện\nTổ chức đăng ký báo cáo tóm tắt nội dung tiến bộ kỹ thuật.\n2. Các chuyên gia phản biện đọc\nbản nhận xét hồ sơ đăng ký (nhận xét kèm theo).\n3. Hội đồng đã nêu câu hỏi đối với\nTổ chức đăng ký về các vấn đề liên quan đến tiến bộ kỹ thuật.\n4. Đại diện Tổ chức đăng\nký trả lời các câu hỏi của thành viên hội đồng (câu hỏi và trả lời văn bản đính kèm).\n5. Hội đồng thảo luận về hồ sơ\nđăng ký, nội dung tiến bộ kỹ thuật và bầu ban kiểm phiếu với các thành viên sau: Trưởng ban Uỷ viên:\n6. Hội đồng bỏ phiếu kín đánh\ngiá hồ sơ đăng ký kết quả như sau: Công nhận Phiếu; Không công nhận Phiếu Kết quả kiểm phiếu đánh giá hồ sơ đăng ký trong biên bản kiểm phiếu kèm theo. III. Kết luận và kiến nghị của Hội đồng\n1. Kết luận\nĐồng ý /Không công nhận tiến bộ kỹ thuật:\n2. Kiến nghị\nĐịa bàn áp dụng: Điều kiện áp dụng: Kiến nghị khác (nếu có) Hội đồng đề nghị Bộ Nông nghiệp và Phát triển nông thôn xem xét công nhận …………………………………………………………… tiến bộ kỹ thuật được phép áp dụng trong sản xuất./.\nTHƯ KÝ HỘI ĐỒNG\n(Họ, tên và chữ ký)\nCHỦ TỊCH HỘI ĐỒNG\n(Họ, tên và chữ ký)",
+  "tree": {
+    "parts": [
+      {
+        "part_id": "doc:8447:part:1",
+        "part_type": "main",
+        "part_title": null,
+        "reference": null,
+        "direct_text": "BỘ\nNÔNG NGHIỆP VÀ PHÁT TRIỂN NÔNG THÔN\n-------\nCỘNG\nHÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập – Tự do – Hạnh phúc --------- Số:\n23/2010/TT-BNNPTNT\nHà Nội, ngày 07 tháng 4 năm 2010\nTHÔNG TƯ\nCÔNG NHẬN TIẾN BỘ KỸ THUẬT CÔNG NGHỆ SINH HỌC CỦA NGÀNH NÔNG\nNGHIỆP VÀ PHÁT TRIỂN NÔNG THÔN\nCăn cứ Luật Khoa học và Công nghệ ban hành ngày 22 tháng 6 năm 2000; Căn cứ Luật Tiêu chuẩn và Quy chuẩn kỹ thuật ngày 29 tháng 6 năm 2006; Căn cứ Nghị định số 01/2008/NĐ-CP ngày 3 tháng 1 năm 2008 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Nông nghiệp và Phát triển nông thôn và Nghị định số 75/2009/NĐ-CP của Chính phủ sửa đổi Điều 3 Nghị định số 01/2008/NĐ-CP ngày 3 tháng 1 năm 2008 quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Nông nghiệp và Phát triển nông thôn; Căn cứ Nghị định số 127/2007/NĐ-CP ngày 01 tháng 8 năm 2007 của Chính phủ quy định chi tiết thi hành một số điều của Luật Tiêu chuẩn và Quy chuẩn kỹ thuật; Căn cứ Quyết định số 11/2006/QĐ-TTg ngày 12 tháng 1 năm 2006 của Thủ tướng Chính phủ về việc Phê duyệt \"Chư­ơng trình trọng điểm phát triển và ứng dụng công nghệ sinh học trong lĩnh vực nông nghiệp và phát triển nông thôn đến năm 2020\"; Căn cứ Quyết định số 97/2007/QĐ-TTg ngày 29/6/2007 của Thủ tướng Chính phủ về việc phê duyệt \"Đề án phát triển và ứng dụng công nghệ sinh học trong lĩnh vực thuỷ sản đến năm 2020; Bộ Nông nghiệp và Phát triển nông thôn hướng dẫn việc công nhận tiến bộ kỹ thuật công nghệ sinh học của ngành Nông nghiệp và Phát triển nông thôn như sau:\nbiểu mẫu (Phụ lục 5);\n3. Vụ Khoa học, Công nghệ và Môi\ntrường căn cứ ý kiến kết luận của Tổ chuyên gia trình Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn ban hành quyết định công nhận trong thời gian 5 ngày làm việc kể từ ngày Hồ sơ đăng ký đã được hoàn thiện theo kết luận của Tổ chuyên gia.",
+        "chapters": [
+          {
+            "chapter_id": "doc:8447:part:1:chapter:1",
+            "number": "I",
+            "title": "QUY ĐỊNH CHUNG",
+            "content": "Chương I\nQUY ĐỊNH CHUNG",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:8447:part:1:article:1",
+                "number": "1",
+                "title": "Phạm vi điều chỉnh Thông tư này quy định về trình tự, thủ tục đăng ký và công nhận tiến bộ kỹ thuật công nghệ sinh học áp dụng trong lĩnh vực nông, lâm nghiệp, thuỷ sản và phát triển nông thôn thuộc phạm vi quản lý của Bộ Nông nghiệp và Phát triển nông thôn.",
+                "content": "Điều 1. Phạm vi điều chỉnh Thông tư này quy định về trình tự, thủ tục đăng ký và công nhận tiến bộ kỹ thuật công nghệ sinh học áp dụng trong lĩnh vực nông, lâm nghiệp, thuỷ sản và phát triển nông thôn thuộc phạm vi quản lý của Bộ Nông nghiệp và Phát triển nông thôn.",
+                "clauses": [],
+                "points": []
+              },
+              {
+                "article_id": "doc:8447:part:1:article:2",
+                "number": "2",
+                "title": "Đối tượng áp dụng Thông tư này áp dụng đối với các tổ chức trong nước và nước ngoài đăng ký công nhận tiến bộ kỹ thuật công nghệ sinh học (sau đây gọi chung là Tổ chức đăng ký) và các tổ chức, cá nhân liên quan đến đánh giá, công nhận tiến bộ kỹ thuật công nghệ sinh học thuộc phạm vi quản lý của Bộ Nông nghiệp và Phát triển nông thôn.",
+                "content": "Điều 2. Đối tượng áp dụng Thông tư này áp dụng đối với các tổ chức trong nước và nước ngoài đăng ký công nhận tiến bộ kỹ thuật công nghệ sinh học (sau đây gọi chung là Tổ chức đăng ký) và các tổ chức, cá nhân liên quan đến đánh giá, công nhận tiến bộ kỹ thuật công nghệ sinh học thuộc phạm vi quản lý của Bộ Nông nghiệp và Phát triển nông thôn.",
+                "clauses": [],
+                "points": []
+              },
+              {
+                "article_id": "doc:8447:part:1:article:3",
+                "number": "3",
+                "title": "Giải thích từ ngữ Trong Thông tư này các từ ngữ dưới đây được hiểu như sau:",
+                "content": "Điều 3. Giải thích từ ngữ Trong Thông tư này các từ ngữ dưới đây được hiểu như sau:",
+                "clauses": [
+                  {
+                    "clause_id": "doc:8447:part:1:article:3:clause:1",
+                    "number": "1",
+                    "content": "1. Tiến bộ kỹ thuật công nghệ\nsinh học là những qui trình kỹ thuật, công nghệ và sản phẩm được tạo ra bằng các kỹ thuật, công nghệ và phương pháp của công nghệ sinh học đáp ứng được các yêu cầu và điều kiện theo qui định của Thông tư này được Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn ban hành quyết định công nhận và cho phép áp dụng trong sản xuất nông nghiệp ở Việt Nam.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:8447:part:1:article:3:clause:2",
+                    "number": "2",
+                    "content": "2. Hội đồng khoa học công nghệ\ncơ sở là Hội đồng khoa học công nghệ do tổ chức có tiến bộ kỹ thuật công nghệ sinh học đăng ký công nhận thành lập hoặc Hội đồng khoa học công nghệ của đơn vị sự nghiệp khoa học công nghệ chuyên ngành được tổ chức có tiến bộ kỹ thuật công nghệ sinh học đăng ký công nhận đề nghị thành lập. Hội đồng khoa học công nghệ cơ sở có nhiệm vụ đánh giá kết quả nghiên cứu, sản xuất thử nghiệm và đề nghị công nhận hoặc không đề nghị công nhận tiến bộ kỹ thuật công nghệ sinh học trên cơ sở hồ sơ đăng ký theo qui định của Thông tư này.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:8447:part:1:article:3:clause:3",
+                    "number": "3",
+                    "content": "3. Tổ chức/Đơn vị/Cơ sở khảo,\nkiểm nghiệm được công nhận hoặc chỉ định là các tổ chức khoa học công nghệ, đơn vị sự nghiệp hoặc tổ chức dịch vụ khoa học công nghệ được cơ quan quản lý nhà nước có thẩm quyền công nhận đủ điều kiện hoặc chỉ định thực hiện khảo, kiểm nghiệm công nhận giống cây trồng, vật nuôi, thuốc bảo vệ thực vật, phân bón, sản phẩm cải tạo đất, thức ăn chăn nuôi, thuốc thú y, vaccin, sản phẩm sử dụng trong bảo quản, chế biến nông, lâm thủy sản và xử lý môi trường.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:8447:part:1:chapter:2",
+            "number": "II",
+            "title": "ĐĂNG KÝ CÔNG NHẬN TIẾN BỘ KỸ THUẬT CÔNG NGHỆ SINH HỌC",
+            "content": "Chương II\nĐĂNG KÝ CÔNG NHẬN TIẾN BỘ\nKỸ THUẬT CÔNG NGHỆ SINH HỌC",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:8447:part:1:article:4",
+                "number": "4",
+                "title": "Điều kiện đăng ký",
+                "content": "Điều 4. Điều kiện đăng ký",
+                "clauses": [
+                  {
+                    "clause_id": "doc:8447:part:1:article:4:clause:1",
+                    "number": "1",
+                    "content": "1. Tiến bộ kỹ thuật công nghệ\nsinh học tạo ra ở Việt Nam Tiến bộ kỹ thuật công nghệ sinh học tạo ra ở Việt Nam được đăng ký công nhận khi đáp ứng một trong các điều kiện sau:",
+                    "points": [
+                      {
+                        "point_id": "doc:8447:part:1:article:4:clause:1:point:1",
+                        "label": "a",
+                        "content": "a) Là kết quả nghiên cứu nhiệm vụ\nkhoa học công nghệ (đề tài, dự án) cấp nhà nước, cấp bộ hoặc tương đương đã nghiệm thu và được Hội đồng khoa học công nghệ nghiệm thu đề nghị công nhận;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:8447:part:1:article:4:clause:1:point:2",
+                        "label": "b",
+                        "content": "b) Là một phần kết quả nghiên cứu\ncủa nhiệm vụ khoa học công nghệ cấp nhà nước, cấp bộ hoặc tương đương được Hội đồng khoa học công nghệ cơ sở đề nghị công nhận;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:8447:part:1:article:4:clause:1:point:3",
+                        "label": "c",
+                        "content": "c) Kết quả nghiên cứu của nhiệm\nvụ khoa học công nghệ do các tổ chức khoa học và công nghệ, doanh nghiệp, tổ chức xã hội nghề nghiệp thực hiện, đã đã nghiệm thu và được Hội đồng khoa học công nghệ cơ sở đề nghị xem xét công nhận.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:8447:part:1:article:4:clause:2",
+                    "number": "2",
+                    "content": "2. Tiến bộ kỹ thuật công nghệ\nsinh học tạo ra ở nước ngoài Các tiến bộ kỹ thuật công nghệ sinh học tạo ra ở nước ngoài được đăng ký công nhận khi đã sử dụng có hiệu quả ở nước ngoài và nằm trong danh mục công nghệ cao và sản phẩm công nghệ cao được khuyến khích chuyển giao và sử dụng tại Việt Nam theo các qui định hiện hành của pháp luật.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:8447:part:1:article:5",
+                "number": "5",
+                "title": "Trình tự, thủ tục đăng ký công nhận",
+                "content": "Điều 5. Trình tự, thủ tục đăng ký công nhận",
+                "clauses": [
+                  {
+                    "clause_id": "doc:8447:part:1:article:5:clause:1",
+                    "number": "1",
+                    "content": "1. Hồ sơ đăng ký công nhận tiến\nbộ kỹ thuật công nghệ sinh học tạo ra ở Việt Nam (dưới đây gọi tắt là hồ sơ đăng ký) bao gồm các tài liệu sau:",
+                    "points": [
+                      {
+                        "point_id": "doc:8447:part:1:article:5:clause:1:point:1",
+                        "label": "a",
+                        "content": "a) Đăng ký công nhận tiến bộ kỹ\nthuật công nghệ sinh học (Phụ lục 1);",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:8447:part:1:article:5:clause:1:point:2",
+                        "label": "b",
+                        "content": "b) Báo cáo kết quả nghiên cứu, sản\nxuất thử nghiệm của Tổ chức đăng ký (Phụ lục 2);",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:8447:part:1:article:5:clause:1:point:3",
+                        "label": "c",
+                        "content": "c) Ý kiến nhận xét bằng văn bản\ncủa các tổ chức, cá nhân áp dụng tiến bộ kỹ thuật công nghệ sinh học (Phụ lục 3);",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:8447:part:1:article:5:clause:1:point:4",
+                        "label": "d",
+                        "content": "d) Quyết định thành lập Hội đồng\nkhoa học công nghệ nghiệm thu hoặc Hội đồng khoa học công nghệ cơ sở, Biên bản họp Hội đồng khoa học công nghệ nghiệm thu hoặc biên bản họp của Hội đồng khoa học công nghệ cơ sở quy định tại Khoản 1 Điều 4 của Thông tư này;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:8447:part:1:article:5:clause:1:point:5",
+                        "label": "đ",
+                        "content": "đ) Các kết quả khảo, kiểm nghiệm\ngiống cây trồng, vật nuôi, thuốc bảo vệ thực vật, phân bón, sản phẩm cải tạo đất, thức ăn chăn nuôi, thuốc thú y, vaccin, sản phẩm sử dụng trong bảo quản, chế biến nông, lâm, thủy sản và xử lý môi trường theo yêu cầu của các qui định hiện hành do Tổ chức đăng ký thực hiện đối với tiến bộ kỹ thuật công nghệ sinh học được tạo ra từ các nhiệm vụ khoa học công nghệ do ngân sách Nhà nước tài trợ hoặc do Tổ chức/Đơn vị/Cơ sở khảo, kiểm nghiệm được công nhận hoặc chỉ định thực hiện;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:8447:part:1:article:5:clause:1:point:6",
+                        "label": "e",
+                        "content": "e) Ngoài các tài liệu qui định tại\ncác mục từ a đến đ nêu trên, trường hợp tiến bộ kỹ thuật đăng ký là giống cây trồng, vật nuôi, vi sinh vật biến đổi gen và sản phẩm của sinh vật biến đổi gen, hồ sơ đăng ký phải có thêm bản sao các văn bản chứng nhận an toàn sinh học của cơ quan quản lý nhà nước có thẩm quyền;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:8447:part:1:article:5:clause:1:point:7",
+                        "label": "g",
+                        "content": "g) Các tài liệu khác liên quan\n(nếu có).",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:8447:part:1:article:5:clause:2",
+                    "number": "2",
+                    "content": "2. Hồ sơ đăng ký công nhận tiến\nbộ kỹ thuật công nghệ sinh học tạo ra ở nước ngoài gồm các tài liệu sau:",
+                    "points": [
+                      {
+                        "point_id": "doc:8447:part:1:article:5:clause:2:point:1",
+                        "label": "a",
+                        "content": "a) Đăng ký công nhận tiến bộ kỹ\nthuật công nghệ sinh học (Phụ lục 1);",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:8447:part:1:article:5:clause:2:point:2",
+                        "label": "b",
+                        "content": "b) Báo cáo kết quả nghiên cứu, sản\nxuất thử nghiệm của Tổ chức đăng ký (Phụ lục 2);",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:8447:part:1:article:5:clause:2:point:3",
+                        "label": "c",
+                        "content": "c) Tài liệu công nhận tiến bộ kỹ\nthuật công nghệ sinh học hoặc tương đương tại nơi có nguồn gốc xuất xứ;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:8447:part:1:article:5:clause:2:point:4",
+                        "label": "d",
+                        "content": "d) Các kết quả khảo, kiểm nghiệm\ngiống cây trồng, vật nuôi, thuốc bảo vệ thực vật, phân bón, sản phẩm cải tạo đất, thức ăn chăn nuôi, thuốc thú y, vaccin, sản phẩm sử dụng trong bảo quản, chế biến nông, lâm thủy sản và xử lý môi trường theo yêu cầu của các qui định hiện hành do Tổ chức/Đơn vị/Cơ sở khảo, kiểm nghiệm được công nhận hoặc chỉ định thực hiện;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:8447:part:1:article:5:clause:2:point:5",
+                        "label": "đ",
+                        "content": "đ) Ngoài các tài liệu qui định tại\ncác mục từ a đến d nêu trên, trường hợp tiến bộ kỹ thuật đăng ký là giống cây trồng, vật nuôi, vi sinh vật biến đổi gen và sản phẩm của sinh vật biến đổi gen, hồ sơ đăng ký phải có thêm bản sao các văn bản chứng nhận an toàn sinh học của cơ quan quản lý nhà nước Việt Nam có thẩm quyền;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:8447:part:1:article:5:clause:2:point:6",
+                        "label": "e",
+                        "content": "e) Các tài liệu khác liên quan\n(nếu có).",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:8447:part:1:article:5:clause:3",
+                    "number": "3",
+                    "content": "3. Gửi và tiếp nhận hồ sơ đăng\nký",
+                    "points": [
+                      {
+                        "point_id": "doc:8447:part:1:article:5:clause:3:point:1",
+                        "label": "a",
+                        "content": "a) Hồ sơ đăng ký là các tài liệu\nquy định tại khoản 1 và 2 điều này, đóng gói trong túi hồ sơ có niêm phong gồm một (01) hồ sơ gốc và 10 bản sao hồ sơ gốc, gửi tới Vụ Khoa học, Công nghệ và Môi trường, Bộ Nông nghiệp và Phát triển nông thôn qua đường bưu điện hoặc nộp trực tiếp;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:8447:part:1:article:5:clause:3:point:2",
+                        "label": "b",
+                        "content": "b) Trong thời hạn 5 ngày làm việc\nkể từ khi nhận được hồ sơ đăng ký, Vụ Khoa học, Công nghệ và Môi trường xác nhận và thông báo bằng văn bản cho Tổ chức đăng ký biết hồ sơ đáp ứng yêu cầu đã được tiếp nhận;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:8447:part:1:article:5:clause:3:point:3",
+                        "label": "c",
+                        "content": "c) Trường hợp hồ sơ đăng ký chưa\nđầy đủ, Vụ Khoa học, Công nghệ và Môi trường yêu cầu Tổ chức đăng ký bổ sung. Thời gian chờ đợi cung cấp thông tin bổ sung không được tính vào thời gian xác nhận hồ sơ.",
+                        "children": []
+                      }
+                    ]
+                  }
+                ],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:8447:part:1:chapter:3",
+            "number": "III",
+            "title": "CÔNG NHẬN, ĐÌNH CHỈ, HUỶ BỎ TIẾN BỘ KỸ THUẬT CÔNG NGHỆ SINH HỌC",
+            "content": "Chương III\nCÔNG NHẬN, ĐÌNH CHỈ, HUỶ\nBỎ TIẾN BỘ KỸ THUẬT CÔNG NGHỆ SINH HỌC",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:8447:part:1:article:6",
+                "number": "6",
+                "title": "Điều kiện công nhận đối với tiến bộ kỹ thuật công nghệ sinh học Tiến bộ kỹ thuật công nghệ sinh học được công nhận khi đáp ứng các điều kiện sau:",
+                "content": "Điều 6. Điều kiện công nhận đối với tiến bộ kỹ thuật công nghệ sinh học Tiến bộ kỹ thuật công nghệ sinh học được công nhận khi đáp ứng các điều kiện sau:",
+                "clauses": [
+                  {
+                    "clause_id": "doc:8447:part:1:article:6:clause:1",
+                    "number": "1",
+                    "content": "1. Hiệu quả kinh tế, xã hội, bảo\nvệ môi trường và vệ sinh an toàn thực phẩm cao hơn so với kỹ thuật, công nghệ và sản phẩm đang sử dụng phổ biến trong sản xuất.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:8447:part:1:article:6:clause:2",
+                    "number": "2",
+                    "content": "2. Phù hợp yêu cầu sản xuất (cơ\ncấu cây trồng, mùa vụ; giảm mức độ nhiễm sâu bệnh; sản xuất sạch, thân thiện môi trường, thích ứng, né tránh điều kiện ngoại cảnh bất thuận, có tính cạnh tranh cao hơn, bảo vệ sức khoẻ con người, phát triển ngành nghề truyền thống, chất lượng sản phẩm tốt hơn, phù hợp với điều kiện sản xuất, phong tục tập quán và một số lợi thế khác).",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:8447:part:1:article:6:clause:3",
+                    "number": "3",
+                    "content": "3. Đã được khảo, kiểm nghiệm đáp\nứng các qui định hiện hành về khảo, kiểm nghiệm công nhận giống cây trồng, vật nuôi, thuốc bảo vệ thực vật, phân bón, sản phẩm cải tạo đất, thức ăn chăn nuôi, thuốc thú y, vaccin, sản phẩm sử dụng trong bảo quản, chế biến nông, lâm thủy sản và xử lý môi trường.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:8447:part:1:article:6:clause:4",
+                    "number": "4",
+                    "content": "4. Giống cây trồng, vật nuôi, vi\nsinh vật biến đổi gen và sản phẩm của cây trồng, vật nuôi, vi sinh vật biến đổi gen chỉ được công nhận là Tiến bộ kỹ thuật công nghệ sinh học khi được cơ quan quản lý nhà nước có thẩm quyền Việt Nam cấp giấy chứng nhận an toàn đối với đa dạng sinh học, môi trường và/hoặc giấy xác nhận đủ điều kiện làm thực phẩm hoặc thức ăn chăn nuôi.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:8447:part:1:article:7",
+                "number": "7",
+                "title": "Công nhận đặc cách",
+                "content": "Điều 7. Công nhận đặc cách",
+                "clauses": [
+                  {
+                    "clause_id": "doc:8447:part:1:article:7:clause:1",
+                    "number": "1",
+                    "content": "1. Đối với Tiến bộ kỹ thuật công\nnghệ sinh học đăng ký công nhận là kết quả của nhiệm vụ khoa học công nghệ (đề tài, dự án) cấp nhà nước, cấp bộ hoặc tương đương đã nghiệm thu và được Hội đồng khoa học công nghệ nghiệm thu đề nghị công nhận, Vụ Khoa học, Công nghệ và Môi trường căn cứ hồ sơ đăng ký trình Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn ban hành quyết định công nhận trong thời gian 5 ngày làm việc kể từ ngày chấp nhận hồ sơ đăng ký.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:8447:part:1:article:7:clause:2",
+                    "number": "2",
+                    "content": "2. Đối với tiến\nbộ kỹ thuật công nghệ sinh học đăng ký là giống cây trồng, vật nuôi, vi sinh vật đã nằm trong danh mục được phép sản xuất kinh doanh tại Việt Nam có chứa sự kiện chuyển gen đã được cấp giấy chứng nhận an toàn đối với đa dạng sinh học, môi trường hoặc giấy xác nhận đủ điều kiện làm thực phẩm hoặc thức ăn chăn nuôi của cơ quan quản lý nhà nước Việt Nam có thẩm quyền, Vụ Khoa học, Công nghệ và Môi trường căn cứ hồ sơ đăng ký, trình Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn ban hành quyết định công nhận trong thời gian 5 ngày làm việc kể từ ngày chấp nhận hồ sơ đăng ký.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:8447:part:1:article:8",
+                "number": "8",
+                "title": "Công nhận thông qua Tổ chuyên gia tư vấn độc lập",
+                "content": "Điều 8. Công nhận thông qua Tổ chuyên gia tư vấn độc lập",
+                "clauses": [
+                  {
+                    "clause_id": "doc:8447:part:1:article:8:clause:1",
+                    "number": "1",
+                    "content": "1. Trong trường hợp cần thiết, Bộ\nNông nghiệp và Phát triển nông thôn thành lập Tổ chuyên gia tư vấn độc lập (dưới đây gọi tắt là Tổ chuyên gia) đánh giá hồ sơ đăng ký tiến bộ kỹ thuật công nghệ sinh học là kết quả của nhiệm vụ khoa học công nghệ (đề tài, dự án) cấp nhà nước, cấp bộ hoặc tương đương đã nghiệm thu và được Hội đồng khoa học công nghệ nghiệm thu đề nghị công nhận. Tổ chuyên gia có từ 3 người đến 5 người là những người am hiểu về lĩnh vực đề nghị công nhận, gồm: 01 Tổ trưởng, 01 Thư ký và các thành viên; trong đó không có đại diện của Tổ chức đăng ký.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:8447:part:1:article:8:clause:2",
+                    "number": "2",
+                    "content": "2. Quy trình làm việc của Tổ\nchuyên gia: a. Thư ký hội Tổ chuyên gia đọc quyết định thành lập Tổ chuyên gia và giới thiệu đại biểu tham dự; b. Tổ trưởng Tổ chuyên gia chủ trì phiên họp theo trình tự sau: - Các thành viên Tổ chuyên gia đọc nhận xét, đánh giá hồ sơ đăng ký theo biểu mẫu (Phụ lục 4); - Thư ký Tổ chuyên gia đọc phiếu nhận xét của thành viên vắng mặt (nếu có) để Tổ chuyên gia đọc tham khảo; - Tổ chuyên gia thảo luận và tiến hành bỏ phiếu đánh giá đối với tiến bộ kỹ thuật công nghệ sinh học đăng ký công nhận; - Tổ trưởng Tổ chuyên gia công bố kết quả bỏ phiếu và dự thảo kết luận đánh giá tiến bộ kỹ thuật công nghệ sinh học đăng ký công nhận; - Tổ chuyên gia thảo luận để thống nhất nội dung kết luận và thông qua biên bản phiên họp của Tổ chuyên gia theo",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:8447:part:1:article:9",
+                "number": "9",
+                "title": "Công nhận thông qua Hội đồng khoa học công nghệ",
+                "content": "Điều 9. Công nhận thông qua Hội đồng khoa học công nghệ",
+                "clauses": [
+                  {
+                    "clause_id": "doc:8447:part:1:article:9:clause:1",
+                    "number": "1",
+                    "content": "1. Đối với tiến bộ kỹ thuật là một\nphần kết quả của nhiệm vụ khoa học công nghệ cấp nhà nước, cấp bộ hoặc tương đương; kết quả nghiên cứu của nhiệm vụ khoa học công nghệ do các tổ chức khoa học và công nghệ, doanh nghiệp, tổ chức xã hội nghề nghiệp đã nghiệm thu và được Hội đồng khoa học công nghệ cơ sở đề nghị công nhận, Vụ Khoa học, Công nghệ và Môi trường căn cứ hồ sơ đăng ký, trình Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn thành lập Hội đồng khoa học công nghệ đánh giá tiến bộ kỹ thuật (dưới đây gọi tắt là Hội đồng), gồm 7- 9 thành viên là những người am hiểu về lĩnh vực đề nghị công nhận, trong đó có 01 Chủ tịch, 01 Thư ký và 02 uỷ viên phản biện. Số thành viên Hội đồng là đại diện của doanh nghiệp, địa phương, cơ quan quản lý không quá 50%. Trong trường hợp cần thiết, thành viên Hội đồng có thể là cán bộ đang công tác tại Tổ chức đăng ký, nhưng không quá 01 người và không được làm Chủ tịch, Phó Chủ tịch hoặc chuyên gia phản biện. Thành viên Hội đồng đánh giá hồ sơ đăng ký theo biểu mẫu tại Phụ lục 4 và gửi về Vụ Khoa học, Công nghệ và Môi trường muộn nhất là 01 ngày trước phiên họp của Hội đồng.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:8447:part:1:article:9:clause:2",
+                    "number": "2",
+                    "content": "2. Quy trình làm việc của Hội đồng:",
+                    "points": [
+                      {
+                        "point_id": "doc:8447:part:1:article:9:clause:2:point:1",
+                        "label": "a",
+                        "content": "a) Thư ký Hội đồng đọc quyết định\nthành lập và giới thiệu đại biểu tham dự;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:8447:part:1:article:9:clause:2:point:2",
+                        "label": "b",
+                        "content": "b) Chủ tịch Hội đồng chủ trì\nphiên họp theo trình tự sau: - Đại diện Tổ chức đăng ký trình bày tóm tắt nội dung tiến bộ kỹ thuật công nghệ sinh học; - Các ủy viên phản biện đọc phiếu nhận xét đánh giá hồ sơ đăng ký; - Thư ký Hội đồng đọc phiếu nhận xét của thành viên vắng mặt (nếu có) để hội đồng tham khảo; - Thành viên Hội đồng nêu câu hỏi đối với Tổ chức đăng ký về nội dung tiến bộ kỹ thuật công nghệ sinh học; - Đại diện Tổ chức đăng ký trả lời các câu hỏi của Hội đồng; - Hội đồng thảo luận và tiến hành bỏ phiếu đánh giá đối với tiến bộ kỹ thuật công nghệ sinh học đăng ký công nhận; - Hội đồng bầu ban kiểm phiếu gồm 3 thành viên, trong đó có một trưởng ban; - Trưởng ban kiểm phiếu thông báo kết quả kiểm phiếu; - Chủ tịch Hội đồng dự thảo kết luận đánh giá tiến bộ kỹ thuật công nghệ sinh học đăng ký công nhận; - Hội đồng thảo luận để thống nhất nội dung kết luận và thông qua biên bản phiên họp của Hội đồng theo biểu mẫu (Phụ lục 6);",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:8447:part:1:article:9:clause:3",
+                    "number": "3",
+                    "content": "3. Vụ Khoa học, Công nghệ và Môi\ntrường căn cứ ý kiến kết luận của Hội đồng, trình Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn ban hành quyết định công nhận trong thời gian 5 ngày làm việc kể từ ngày Hồ sơ đăng ký đã được hoàn thiện theo kết luận của Hội đồng.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:8447:part:1:article:10",
+                "number": "10",
+                "title": "Tạm dừng và khôi phục hiệu lực thi hành quyết định công nhận",
+                "content": "Điều 10. Tạm dừng và khôi phục hiệu lực thi hành quyết định công nhận",
+                "clauses": [
+                  {
+                    "clause_id": "doc:8447:part:1:article:10:clause:1",
+                    "number": "1",
+                    "content": "1. Bộ Nông nghiệp và Phát triển\nnông thôn công nhận tiến bộ kỹ thuật công nghệ sinh học và có quyền tạm dừng, khôi phục hiệu lực thi hành quyết định công nhận.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:8447:part:1:article:10:clause:2",
+                    "number": "2",
+                    "content": "2. Tạm dừng hiệu lực thi hành\nquyết định công nhận tiến bộ kỹ thuật công nghệ sinh học khi vi phạm một trong các trường hợp sau đây:",
+                    "points": [
+                      {
+                        "point_id": "doc:8447:part:1:article:10:clause:2:point:1",
+                        "label": "a",
+                        "content": "a) Tổ chức có tiến bộ kỹ thuật\ncông nghệ sinh học được không thực hiện trách nhiệm tại khoản 2 Điều 12 của Thông tư này;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:8447:part:1:article:10:clause:2:point:2",
+                        "label": "b",
+                        "content": "b) Tiến bộ kỹ thuật công nghệ\nsinh học sau một thời gian áp dụng trong thực tế không đáp ứng được các yêu cầu qui định tại khoản a, b Điều 5 của Thông tư này hoặc gây ảnh hưởng xấu đến sản xuất, đời sống, môi trường;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:8447:part:1:article:10:clause:2:point:3",
+                        "label": "c",
+                        "content": "c) Vi phạm các quy định có liên\nquan của Luật Sở hữu trí tuệ.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:8447:part:1:article:10:clause:3",
+                    "number": "3",
+                    "content": "3. Khi có dấu hiệu phi phạm, Vụ\nKhoa học, Công nghệ và Môi trường tổ chức xác định vi phạm và trình Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn ban hành quyết định tạm dừng hiệu lực thi hành quyết định công nhận tiến bộ kỹ thuật công nghệ sinh học.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:8447:part:1:article:10:clause:4",
+                    "number": "4",
+                    "content": "4. Quyết định công nhận tiến bộ\nkỹ thuật công nghệ sinh học được khôi phục hiệu lực thi hành khi tổ chức, cá nhân có tiến bộ kỹ thuật công nghệ sinh học bị tạm dừng đã khắc phục được lý do tạm dừng quy định tại khoản 2 điều này. Trình tự thủ tục khôi phục hiệu lực thi hành quyết định công nhận tiến bộ kỹ thuật công nghệ sinh học như sau:",
+                    "points": [
+                      {
+                        "point_id": "doc:8447:part:1:article:10:clause:4:point:1",
+                        "label": "a",
+                        "content": "a) Tổ chức có tiến bộ kỹ thuật\ncông nghệ sinh học nộp báo cáo kết quả khắc phục lý do tạm dừng hiệu lực thi hành Quyết định công nhận tiến bộ kỹ thuật công nghệ sinh học về Vụ Khoa học, Công nghệ và Môi trường;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:8447:part:1:article:10:clause:4:point:2",
+                        "label": "b",
+                        "content": "b) Vụ Khoa học, Công nghệ và Môi\ntrường tổ chức xác định kết quả khắc phục lý do tạm dừng hiệu lực thi hành và trình Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn ban hành quyết định khôi phục hiệu lực thi hành quyết định công nhận tiến bộ kỹ thuật.",
+                        "children": []
+                      }
+                    ]
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:8447:part:1:article:11",
+                "number": "11",
+                "title": "Huỷ bỏ hiệu lực quyết định công nhận",
+                "content": "Điều 11. Huỷ bỏ hiệu lực quyết định công nhận",
+                "clauses": [
+                  {
+                    "clause_id": "doc:8447:part:1:article:11:clause:1",
+                    "number": "1",
+                    "content": "1. Bộ Nông nghiệp và Phát triển\nnông thôn công nhận tiến bộ kỹ thuật công nghệ sinh học và có quyền hủy bỏ hiệu lực thi hành quyết định công nhận.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:8447:part:1:article:11:clause:2",
+                    "number": "2",
+                    "content": "2. Quyết định công nhận tiến bộ\nkỹ thuật công nghệ sinh học bị huỷ bỏ trong các trường hợp sau đây:",
+                    "points": [
+                      {
+                        "point_id": "doc:8447:part:1:article:11:clause:2:point:1",
+                        "label": "a",
+                        "content": "a) Tổ chức có tiến bộ kỹ thuật\ncông nghệ sinh học tự nguyện đề nghị huỷ bỏ;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:8447:part:1:article:11:clause:2:point:2",
+                        "label": "b",
+                        "content": "b) Sau khi áp dụng trong thực tế,\ntiến bộ kỹ thuật công nghệ sinh học không còn đáp ứng được các yêu cầu qui định tại khoản a, b Điều 5 của Thông tư này và gây hậu quả xấu đến sản xuất, đời sống, môi trường mà không thể khắc phục được;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:8447:part:1:article:11:clause:2:point:3",
+                        "label": "c",
+                        "content": "c) Sau thời hạn 01 tháng kể từ\nkhi quyết định tạm dừng có hiệu lực thi hành mà tổ chức có tiến bộ kỹ thuật công nghệ sinh học bị tạm dừng không khắc phục được lý do tạm dừng quy định tại khoản 2 Điều 10 của Thông tư này.",
+                        "children": []
+                      }
+                    ]
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:8447:part:1:article:12",
+                "number": "12",
+                "title": "Quyền và trách nhiệm của tổ chức có tiến bộ kỹ thuật công nghệ sinh học được công nhận",
+                "content": "Điều 12. Quyền và trách nhiệm của tổ chức có tiến bộ kỹ thuật công nghệ sinh học được công nhận",
+                "clauses": [
+                  {
+                    "clause_id": "doc:8447:part:1:article:12:clause:1",
+                    "number": "1",
+                    "content": "1. Quyền của tổ chức có tiến bộ\nkỹ thuật công nghệ sinh học được công nhận:",
+                    "points": [
+                      {
+                        "point_id": "doc:8447:part:1:article:12:clause:1:point:1",
+                        "label": "a",
+                        "content": "a) Được quảng cáo, công bố, áp dụng\ntiến bộ kỹ thuật công nghệ sinh học vào sản xuất, chuyển giao, chuyển nhượng và các quyền lợi theo quy định của pháp luật;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:8447:part:1:article:12:clause:1:point:2",
+                        "label": "b",
+                        "content": "b) Khiếu nại, tố cáo về các hành\nvi vi phạm về quyền hợp pháp theo quy định của pháp luật và quy định tại khoản 1 của điều này trong việc đánh giá không đúng tiến bộ kỹ thuật công nghệ sinh học của mình;",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:8447:part:1:article:12:clause:2",
+                    "number": "2",
+                    "content": "2. Trách nhiệm của tổ chức có tiến\nbộ kỹ thuật công nghệ sinh học:",
+                    "points": [
+                      {
+                        "point_id": "doc:8447:part:1:article:12:clause:2:point:1",
+                        "label": "a",
+                        "content": "a) Cung cấp các tài liệu, vật liệu\ncần thiết về tiến bộ kỹ thuật công nghệ sinh học đã được công nhận khi có yêu cầu của cơ quan nhà nước có thẩm quyền;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:8447:part:1:article:12:clause:2:point:2",
+                        "label": "b",
+                        "content": "b) Hướng dẫn quy trình kỹ thuật\náp dụng tiến bộ kỹ thuật công nghệ sinh học cho tổ chức, cá nhân được chuyển giao;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:8447:part:1:article:12:clause:2:point:3",
+                        "label": "c",
+                        "content": "c) Thực hiện đầy đủ trách nhiệm\ntheo quy định hiện hành của Nhà nước;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:8447:part:1:article:12:clause:2:point:4",
+                        "label": "d",
+                        "content": "d) Không được thực hiện các quyền\nquy định tại khoản 1 điều này trong thời gian tạm dừng hiệu lực thi hành quyết định công nhận tiến bộ kỹ thuật công nghệ sinh học.",
+                        "children": []
+                      }
+                    ]
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:8447:part:1:article:13",
+                "number": "13",
+                "title": "Kinh phí cho hoạt động đánh giá, công nhận tiến bộ kỹ thuật công nghệ sinh học",
+                "content": "Điều 13. Kinh phí cho hoạt động đánh giá, công nhận tiến bộ kỹ thuật công nghệ sinh học",
+                "clauses": [
+                  {
+                    "clause_id": "doc:8447:part:1:article:13:clause:1",
+                    "number": "1",
+                    "content": "1. Tổ chức đăng ký phải nộp các\nkhoản chi phí liên quan đến việc đánh giá, công nhận tiến bộ kỹ thuật công nghệ sinh học theo quy định. Trường hợp chưa có quy định của nhà nước thì chi phí do các bên thoả thuận.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:8447:part:1:article:13:clause:2",
+                    "number": "2",
+                    "content": "2. Chi phí cho hoạt động đánh\ngiá công nhận tiến bộ kỹ thuật công nghệ sinh học được thực hiện theo quy định hiện hành về nghiệm thu nhiệm vụ khoa học công nghệ cấp nhà nước.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:8447:part:1:chapter:4",
+            "number": "IV",
+            "title": "TỔ CHỨC THỰC HIỆN",
+            "content": "Chương IV\nTỔ CHỨC THỰC HIỆN",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:8447:part:1:article:14",
+                "number": "14",
+                "title": "Trách nhiệm của Vụ Khoa học, Công nghệ và Môi trường",
+                "content": "Điều 14. Trách nhiệm của Vụ Khoa học, Công nghệ và Môi trường",
+                "clauses": [
+                  {
+                    "clause_id": "doc:8447:part:1:article:14:clause:1",
+                    "number": "1",
+                    "content": "1. Tiếp nhận, tổ chức đánh giá hồ\nsơ đăng ký, trình Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn ban hành quyết định công nhận tiến bộ kỹ thuật công nghệ sinh học, quyết định tạm dừng, khôi phục hoặc huỷ bỏ quyết định công nhận tiến bộ kỹ thuật công nghệ sinh học;",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:8447:part:1:article:14:clause:2",
+                    "number": "2",
+                    "content": "2. Chủ trì, phối hợp với các đơn\nvị có liên quan kiểm tra, giải quyết khiếu nại, tố cáo, xử lý vi phạm trong đăng ký, công nhận và ứng dụng tiến bộ kỹ thuật công nghệ sinh học theo qui định của Thông tư này.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:8447:part:1:article:14:clause:3",
+                    "number": "3",
+                    "content": "3. Tổng hợp, báo cáo định kỳ (6\ntháng, báo báo năm) và đột xuất theo yêu cầu của Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn về kết quả đăng ký, công nhận tiến bộ kỹ thuật công nghệ sinh học. 4.. Phối hợp với các Tổng cục, Cục quản lý chuyên ngành, Sở Nông nghiệp và Phát triển nông thôn tổ chức kiểm tra, đánh giá tiến bộ kỹ thuật công nghệ sinh học áp dụng trong sản xuất.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:8447:part:1:article:15",
+                "number": "15",
+                "title": "Trách nhiệm của các Tổng cục, Cục quản lý chuyên ngành",
+                "content": "Điều 15. Trách nhiệm của các Tổng cục, Cục quản lý chuyên ngành",
+                "clauses": [
+                  {
+                    "clause_id": "doc:8447:part:1:article:15:clause:1",
+                    "number": "1",
+                    "content": "1. Chỉ đạo triển khai, áp dụng\ncác tiến bộ kỹ thuật công nghệ sinh học được công nhận thuộc lĩnh vực chuyên ngành trong phạm vi cả nước.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:8447:part:1:article:15:clause:2",
+                    "number": "2",
+                    "content": "2. Chủ trì và phối hợp với Vụ\nKhoa học, Công nghệ và Môi trường, Sở Nông nghiệp và Phát triển nông thôn tổ chức kiểm tra, đánh giá tiến bộ kỹ thuật công nghệ sinh học áp dụng trong sản xuất và đề nghị hình thức khen thưởng cho các tổ chức có tiến bộ kỹ thuật công nghệ sinh học ứng dụng có hiệu quả trong nông nghiệp và phát triển nông thôn;",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:8447:part:1:article:15:clause:3",
+                    "number": "3",
+                    "content": "3. Tổng hợp, báo cáo định kỳ (6\ntháng, báo báo năm) và đột xuất theo yêu cầu của Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn (Thông qua Vụ Khoa học, Công nghệ và Môi trường) về kết quả áp dụng tiến bộ kỹ thuật công nghệ sinh học trong lĩnh vực quản lý.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:8447:part:1:article:16",
+                "number": "16",
+                "title": "Trách nhiệm của Sở Nông nghiệp và Phát triển nông thôn",
+                "content": "Điều 16. Trách nhiệm của Sở Nông nghiệp và Phát triển nông thôn",
+                "clauses": [
+                  {
+                    "clause_id": "doc:8447:part:1:article:16:clause:1",
+                    "number": "1",
+                    "content": "1. Chỉ đạo triển khai và giám\nsát việc ứng dụng tiến bộ kỹ thuật công nghệ sinh học trên địa bàn.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:8447:part:1:article:16:clause:2",
+                    "number": "2",
+                    "content": "2. Kiểm tra, đánh giá kết quả áp\ndụng tiến bộ kỹ thuật công nghệ sinh học trên địa bàn.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:8447:part:1:article:16:clause:3",
+                    "number": "3",
+                    "content": "3. Tổng hợp, báo cáo định kỳ báo\ncáo định kỳ (6 tháng, báo báo năm) và đột xuất theo yêu cầu của Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn về kết quả áp dụng tiến bộ kỹ thuật công nghệ sinh học trên địa bàn.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:8447:part:1:article:17",
+                "number": "17",
+                "title": "Điều khoản thi hành",
+                "content": "Điều 17. Điều khoản thi hành",
+                "clauses": [
+                  {
+                    "clause_id": "doc:8447:part:1:article:17:clause:1",
+                    "number": "1",
+                    "content": "1. Thông tư này có hiệu lực sau\n45 ngày, kể từ ngày ký ban hành.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:8447:part:1:article:17:clause:2",
+                    "number": "2",
+                    "content": "2. Trong quá trình thực hiện, nếu\ncó khó khăn vướng mắc đề nghị các địa phương, tổ chức, cá nhân báo cáo phản ánh kịp thời về Bộ Nông nghiệp và Phát triển nông thôn để xem xét, sửa đổi, bổ sung./.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          }
+        ],
+        "sections": [],
+        "articles": [],
+        "unstructured_blocks": []
+      },
+      {
+        "part_id": "doc:8447:part:2",
+        "part_type": "appendix",
+        "part_title": "PHỤ LỤC 1.",
+        "reference": null,
+        "direct_text": null,
+        "chapters": [],
+        "sections": [],
+        "articles": [],
+        "unstructured_blocks": [
+          {
+            "block_id": "doc:8447:part:2:block:1",
+            "content": "PHỤ LỤC 1.\nMẪU ĐĂNG KÝ CÔNG NHẬN TIẾN BỘ KỸ THUẬT CÔNG NGHỆ\nSINH HỌC\n(Ban hành kèm theo Thông tư 23/2010/TT-BNNPTNT ngày 07 tháng 4 năm 2010 của\nBộ Nông nghiệp và Phát triển nông thôn)\nCỘNG\nHOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập – Tự do – Hạnh phúc -----------------\nĐĂNG KÝ CÔNG\nNHẬN TIẾN BỘ KỸ THUẬT CÔNG NGHỆ SINH HỌC\nKính gửi : Vụ Khoa học, Công nghệ và Môi trường Tổ chức đăng ký: Tên người đứng đầu tổ chức: Địa chỉ liên hệ: Điện thoại: Fax: E-mail: Website…… Căn cứ Thông tư số..........., ngày.......tháng....….năm .......của Bộ Nông nghiệp và Phát triển nông thôn về việc công nhận tiến bộ kỹ thuật trong lĩnh vực công nghệ sinh học của ngành Nông nghiệp và Phát triển nông thôn, chúng tôi đăng ký công nhận tiến bộ kỹ thuật mới như sau:\n1. Tên tiến bộ kỹ thuật công nghệ\nsinh học\n2. Nguồn gốc/ tác giả của tiến bộ\nkỹ thuật công nghệ sinh học\n3. Lĩnh vực áp dụng (giống cây\ntrồng, vật nuôi, thuốc bảo vệ thực vật, phân bón, sản phẩm cải tạo đất, thức ăn chăn nuôi, thuốc thú y, vaccin, sản phẩm sử dụng trong bảo quản, chế biến nông, lâm thủy sản và xử lý môi trường)\n4. Dự kiến địa bàn và thời gian\náp dụng Hồ sơ đăng ký công nhận tiến bộ kỹ thuật gồm (kê khai theo Điều 6 của Thông tư): 1. 2... Đề nghị Bộ Nông nghiệp và Phát triển nông thôn làm các thủ tục công nhận tiến bộ kỹ thuật đối với ..................để được áp dụng vào sản xuất./. ..........., ngày.......tháng.....năm............. Tổ chức đăng ký (Ký tên và đóng dấu)",
+            "indexable": true
+          }
+        ]
+      },
+      {
+        "part_id": "doc:8447:part:3",
+        "part_type": "appendix",
+        "part_title": "PHỤ LỤC 2.",
+        "reference": null,
+        "direct_text": null,
+        "chapters": [],
+        "sections": [],
+        "articles": [],
+        "unstructured_blocks": [
+          {
+            "block_id": "doc:8447:part:3:block:1",
+            "content": "PHỤ LỤC 2.\nMẪU BÁO CÁO KẾT QUẢ NGHIÊN CỨU, SẢN XUẤT THỬ NGHIỆM\n(Ban hành kèm theo Thông tư 23/2010/TT-BNNPTNT ngày 07 tháng 4 năm\n2010 của Bộ Nông nghiệp và Phát triển nông thôn)\nBÁO CÁO KẾT\nQUẢ NGHIÊN CỨU, SẢN XUẤT THỬ NGHIỆM\n1. Thông tin chung\nTên tiến bộ kỹ thuật công nghệ sinh học Nguồn gốc/ tác giả của tiến bộ kỹ thuật công nghệ sinh học Lĩnh vực áp dụng (làm giống cây trồng, vật nuôi, thuốc bảo vệ thực vật, phân bón, sản phẩm cải tạo đất, thức ăn chăn nuôi, thuốc thú y, vaccin, sản phẩm sử dụng trong bảo quản, chế biến nông, lâm thủy sản và xử lý môi trường) Tổ chức đăng ký: Địa chỉ: Điện thoại: Fax: E-mail:\n2. Quá trình nghiên cứu, phát\ntriển\n3. Nội dung tiến bộ kỹ thuật\n(trình bày rõ đặc điểm, tính chất, chỉ tiêu chất lượng, đặc tính kỹ thuật, qui trình và điều kiện áp dung tiến bộ kỹ thuật)\n3. Địa điểm, thời gian và\nquy mô đã áp dụng\n3. Giá trị khoa học\n4. Hiệu quả kinh tế, xã hội, bảo\nvệ môi trường và vệ sinh an toàn thực phẩm\n5. Khả năng phù hợp với yêu cầu\nsản xuất\n6. Kết quả khảo, kiểm nghiệm\n7. Kết luận về ưu điểm, tồn tại\n8. Đề nghị (nêu rõ địa bàn, thời\ngian áp dung) Tổ chức đăng ký (Ký tên và đóng dấu)\nPHẦN PHỤ LỤC:\na. Báo cáo kết quả khảo nghiệm; b. Phiếu kết quả kiểm nghiệm; c. Một số hình ảnh liên quan đến tiến bộ kỹ thuật.",
+            "indexable": true
+          }
+        ]
+      },
+      {
+        "part_id": "doc:8447:part:4",
+        "part_type": "appendix",
+        "part_title": "PHỤ LỤC 3.",
+        "reference": null,
+        "direct_text": null,
+        "chapters": [],
+        "sections": [],
+        "articles": [],
+        "unstructured_blocks": [
+          {
+            "block_id": "doc:8447:part:4:block:1",
+            "content": "PHỤ LỤC 3.\nMẪU NHẬN XÉT ỨNG DỤNG TIẾN BỘ KỸ THUẬT\n(Ban hành kèm theo Thông tư 23/2010/TT-BNNPTNT ngày 07 tháng 4 năm 2010 của\nBộ Nông nghiệp và Phát triển nông thôn)\nNHẬN XÉT ỨNG DỤNG TIẾN BỘ KỸ THUẬT\n(Dùng cho tổ chức, cá nhân ứng dụng tiến bộ kỹ thuật) I. Thông tin chung:\n1. Tên tiến bộ kỹ thuật công nghệ\nsinh học:\n2. Tổ chức đăng ký:\n2. Tổ chức, cá nhân ứng dụng:\n3. Lý do ứng dụng:\n3. Địa chỉ, thời gian, qui mô,\nphương pháp ứng dụng: II. Nhận xét:\n1. Hiệu quả kinh tế, xã hội, bảo\nvệ môi trường và vệ sinh an toàn thực phẩm\n2. Khả năng phù hợp với yêu cầu\nsản xuất (cơ cấu cây trồng, mùa vụ; giảm mức độ nhiễm sâu bệnh; sản xuất sạch, thân thiện môi trường, thích ứng, né tránh điều kiện ngoại cảnh bất thuận, có tính cạnh tranh cao hơn, bảo vệ sức khoẻ con người, phát triển ngành nghề truyền thống…). III. Kết luận\n1. Ưu điểm, tồn tại của tiến bộ\nkỹ thuật\n2. Tiềm năng phát triển vào sản\nxuất của tiến bộ kỹ thuật Xác nhận Tổ chức, cá nhân nhận xét (Ký tên )",
+            "indexable": true
+          }
+        ]
+      },
+      {
+        "part_id": "doc:8447:part:5",
+        "part_type": "appendix",
+        "part_title": "PHỤ LỤC 4.",
+        "reference": null,
+        "direct_text": null,
+        "chapters": [],
+        "sections": [],
+        "articles": [],
+        "unstructured_blocks": [
+          {
+            "block_id": "doc:8447:part:5:block:1",
+            "content": "PHỤ LỤC 4.\nMẪU PHIẾU NHẬN XÉT HỒ SƠ ĐĂNG KÝ CÔNG NHẬN TIẾN BỘ KỸ\nTHUẬT\n(Ban hành kèm theo Thông tư 23/2010/TT-BNNPTNT ngày 07 tháng 4 năm 2010 của\nBộ Nông nghiệp và Phát triển nông thôn)\nBỘ\nNÔNG NGHIỆP VÀ PHÁT TRIỂN NÔNG THÔN\nHỘI ĐỒNG KHOA HỌC CÔNG NGHỆ/TỔ CHUYÊN GIA ĐÁNH GIÁ TIẾN BỘ KỸ THUẬT\n-------\nCỘNG\nHÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập – Tự do – Hạnh phúc --------- Hà Nội, ngày …. tháng … năm 20…\nNHẬN XÉT HỒ SƠ ĐĂNG KÝ CÔNG NHẬN\nTIẾN\nBỘ KỸ THUẬT CÔNG NGHỆ SINH HỌC\nI. Những thông tin chung\n1. Tên tiến bộ kỹ thuật:\n2. Tổ chức đăng ký\n3. Họ và tên người nhận xét\nII. Nội dung đánh giá\n1. Mức độ đầy đủ của hồ sơ\n2. Sự cần thiết của tiến bộ kỹ\nthuật đăng ký công nhận\n3. Nội dung của tiến bộ kỹ thuật\n4. Giá trị khoa học\n5. Hiệu quả kinh tế, xã hội, bảo\nvệ môi trường và vệ sinh an toàn thực phẩm\n6. Khả năng phù hợp với yêu cầu\nsản xuất (cơ cấu cây trồng, mùa vụ; giảm mức độ nhiễm sâu bệnh; sản xuất sạch, thân thiện môi trường, thích ứng, né tránh điều kiện ngoại cảnh bất thuận, có tính cạnh tranh cao hơn, bảo vệ sức khoẻ con người, phát triển ngành nghề truyền thống…). III. Kết luận\n1. Ưu điểm, tồn tại của tiến bộ\nkỹ thuật\n2. Tiềm năng phát triển vào sản\nxuất của tiến bộ kỹ thuật IV. Kiến nghị Đồng ý/ Không đồng ý công nhận tiến bộ kỹ thuật công nghệ sinh học: Địa bàn áp dụng: Điều kiện áp dụng: Kiến nghị khác (nếu có) Người đánh giá (Họ tên và chữ ký)",
+            "indexable": true
+          }
+        ]
+      },
+      {
+        "part_id": "doc:8447:part:6",
+        "part_type": "appendix",
+        "part_title": "PHỤ LỤC 5.",
+        "reference": null,
+        "direct_text": null,
+        "chapters": [],
+        "sections": [],
+        "articles": [],
+        "unstructured_blocks": [
+          {
+            "block_id": "doc:8447:part:6:block:1",
+            "content": "PHỤ LỤC 5.\nMẪU BIÊN BẢN HỌP TỔ CHUYÊN GIA\n(Ban hành kèm theo Thông tư 23/2010/TT-BNNPTNT ngày 07 tháng 4 năm 2010 của\nBộ Nông nghiệp và Phát triển nông thôn)\nBỘ\nNÔNG NGHIỆP VÀ PHÁT TRIỂN NÔNG THÔN\nTỔ CHUYÊN GIA\nĐÁNH GIÁ TIẾN BỘ KỸ THUẬT\n-------\nCỘNG\nHÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập – Tự do – Hạnh phúc --------- Hà Nội, ngày tháng năm 200\nBIÊN\nBẢN HỌP TỔ CHUYÊN GIA ĐÁNH GIÁ HỒ SƠ ĐĂNG KÝ\nCÔNG\nNHẬN TIẾN BỘ KỸ THUẬT CÔNG NGHỆ SINH HỌC\nI. Thông tin chung\n1. Tên tiến bộ kỹ thuật công nghệ\nsinh học:\n2. Tên tổ chức đăng ký:\n3. Quyết định thành lập Tổ\nchuyên gia số KHCN ngày tháng năm 20\n4. Số thành viên có mặt trên tổng\nsố thành viên Vắng mặt: ........ người, gồm các thành viên:\n5. Khách mời tham dự cuộc họp\n6. Địa điểm và thời gian họp Tổ\nchuyên gia II. Nội dung phiên họp\n1. Các chuyên gia phản biện đọc\nbản nhận xét hồ sơ đăng ký (nhận xét kèm theo).\n2. Tổ chuyên gia thảo luận về hồ\nsơ đăng ký và nội dung tiến bộ kỹ thuật (ý kiến đánh giá của các thành viên Tổ chuyên gia kèm theo).\n3. Tổ chuyên gia bỏ phiếu kín\nđánh giá hồ sơ đăng ký kết quả như sau: Công nhận Phiếu; Không công nhận Phiếu Phiếu đánh giá hồ sơ đăng ký của các thành viên Tổ chuyên gia kèm theo. III. Kết luận và kiến nghị của Tổ chuyên gia\n1. Kết luận\nĐồng ý / Không đồng ý công nhận tiến bộ kỹ thuật:\n2. Kiến nghị\nĐịa bàn áp dụng: Điều kiện áp dụng: Kiến nghị khác (nếu có) Tổ chuyên gia đề nghị Bộ Nông nghiệp và PTNT xem xét công nhận .......…………….………………………………………… là tiến bộ kỹ thuật được phép áp dụng trong sản xuất./.\nTHƯ KÝ TỔ CHUYÊN GIA\n(Họ, tên và chữ ký)\nTỔ TRƯỞNG TỔ CHUYÊN GIA\n(Họ, tên và chữ ký)",
+            "indexable": true
+          }
+        ]
+      },
+      {
+        "part_id": "doc:8447:part:7",
+        "part_type": "appendix",
+        "part_title": "PHỤ LỤC 6.",
+        "reference": null,
+        "direct_text": null,
+        "chapters": [],
+        "sections": [],
+        "articles": [],
+        "unstructured_blocks": [
+          {
+            "block_id": "doc:8447:part:7:block:1",
+            "content": "PHỤ LỤC 6.\nMẪU BIÊN BẢN HỌP HỘI ĐỒNG\n(Ban hành kèm theo Thông tư 23/2010/TT-BNNPTNT ngày 07 tháng 4 năm 2010 của\nBộ Nông nghiệp và Phát triển nông thôn)\nBỘ\nNÔNG NGHIỆP VÀ PHÁT TRIỂN NÔNG THÔN\nHỘI ĐỒNG KHOA HỌC CÔNG NGHỆ ĐÁNH GIÁ TIẾN BỘ KỸ THUẬT\n-------\nCỘNG\nHÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập – Tự do – Hạnh phúc --------- Hà Nội, ngày tháng năm 20\nBIÊN\nBẢN HỌP HỘI ĐỒNG KHOA HỌC CÔNG NGHỆ\nĐÁNH\nGIÁ HỒ SƠ ĐĂNG KÝ CÔNG NHẬN\nTIẾN\nBỘ KỸ THUẬT CÔNG NGHỆ SINH HỌC\nI. Thông tin chung\n1. Tên tiến bộ kỹ thuật công nghệ\ncông nghệ sinh học:\n2. Tổ chức đăng ký:\n3. Quyết định thành lập Hội đồng\nsố KHCN ngày tháng năm 20\n4. Số thành viên Hội đồng có mặt\ntrên tổng số thành viên Vắng mặt: ........ người, gồm các thành viên:\n5. Khách mời tham dự Hội đồng\n6. Địa điểm và thời gian họp Hội\nđồng: II. Nội dung phiên họp\n1. Hội đồng nghe đại diện\nTổ chức đăng ký báo cáo tóm tắt nội dung tiến bộ kỹ thuật.\n2. Các chuyên gia phản biện đọc\nbản nhận xét hồ sơ đăng ký (nhận xét kèm theo).\n3. Hội đồng đã nêu câu hỏi đối với\nTổ chức đăng ký về các vấn đề liên quan đến tiến bộ kỹ thuật.\n4. Đại diện Tổ chức đăng\nký trả lời các câu hỏi của thành viên hội đồng (câu hỏi và trả lời văn bản đính kèm).\n5. Hội đồng thảo luận về hồ sơ\nđăng ký, nội dung tiến bộ kỹ thuật và bầu ban kiểm phiếu với các thành viên sau: Trưởng ban Uỷ viên:\n6. Hội đồng bỏ phiếu kín đánh\ngiá hồ sơ đăng ký kết quả như sau: Công nhận Phiếu; Không công nhận Phiếu Kết quả kiểm phiếu đánh giá hồ sơ đăng ký trong biên bản kiểm phiếu kèm theo. III. Kết luận và kiến nghị của Hội đồng\n1. Kết luận\nĐồng ý /Không công nhận tiến bộ kỹ thuật:\n2. Kiến nghị\nĐịa bàn áp dụng: Điều kiện áp dụng: Kiến nghị khác (nếu có) Hội đồng đề nghị Bộ Nông nghiệp và Phát triển nông thôn xem xét công nhận …………………………………………………………… tiến bộ kỹ thuật được phép áp dụng trong sản xuất./.\nTHƯ KÝ HỘI ĐỒNG\n(Họ, tên và chữ ký)\nCHỦ TỊCH HỘI ĐỒNG\n(Họ, tên và chữ ký)",
+            "indexable": true
+          }
+        ]
+      }
+    ]
+  },
+  "issues": [],
+  "status": "ok",
+  "source_hash": "context_8447.json",
+  "stats": {
+    "source_chars": 30499,
+    "passage_chars": 30499,
+    "parts": 7,
+    "chapters": 4,
+    "sections": 0,
+    "articles": 17,
+    "clauses": 40,
+    "points": 35
+  }
+}

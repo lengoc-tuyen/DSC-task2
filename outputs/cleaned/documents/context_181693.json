@@ -1,0 +1,61 @@
+{
+  "schema_version": "2.0",
+  "document_id": 181693,
+  "metadata": {
+    "name": null,
+    "link": "https://thuvienphapluat.vn/van-ban/Bao-hiem/Quyet-dinh-co-che-quan-ly-tai-chinh-ve-bao-hiem-xa-hoi-bao-hiem-that-nghiep-bao-hiem-y-te-561892.aspx",
+    "issuing_agency": null,
+    "national_header": null,
+    "motto": null,
+    "document_number": null,
+    "issued_place": null,
+    "issued_date": null,
+    "document_type": null,
+    "title": null
+  },
+  "administrative_header": {
+    "removed": false,
+    "removed_char_count": 0
+  },
+  "preamble": {
+    "text": null,
+    "legal_bases": [],
+    "proposals": [],
+    "enactment_formula": null
+  },
+  "passage": "",
+  "tree": {
+    "parts": [
+      {
+        "part_id": "doc:181693:part:1",
+        "part_type": "main",
+        "part_title": null,
+        "reference": null,
+        "direct_text": null,
+        "chapters": [],
+        "sections": [],
+        "articles": [],
+        "unstructured_blocks": []
+      }
+    ]
+  },
+  "issues": [
+    {
+      "code": "empty_passage",
+      "message": "passage is empty",
+      "severity": "error"
+    }
+  ],
+  "status": "failed",
+  "source_hash": "context_181693.json",
+  "stats": {
+    "source_chars": 0,
+    "passage_chars": 0,
+    "parts": 1,
+    "chapters": 0,
+    "sections": 0,
+    "articles": 0,
+    "clauses": 0,
+    "points": 0
+  }
+}

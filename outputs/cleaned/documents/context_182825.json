@@ -1,0 +1,448 @@
+{
+  "schema_version": "2.0",
+  "document_id": 182825,
+  "metadata": {
+    "name": "Thong-tu-02-2021-TT-TTCP-che-do-bao-cao-cong-tac-thanh-tra-tiep-cong-dan-giai-quyet-khieu-nai-469913",
+    "link": "https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Thong-tu-02-2021-TT-TTCP-che-do-bao-cao-cong-tac-thanh-tra-tiep-cong-dan-giai-quyet-khieu-nai-469913.aspx",
+    "issuing_agency": "THANH TRA CHÍNH PHỦ",
+    "national_header": "CỘNG HÒA XÃ\r\n\n  HỘI CHỦ NGHĨA VIỆT NAM",
+    "motto": "Độc lập - Tự do - Hạnh phúc",
+    "document_number": "02/2021/TT-TTCP",
+    "issued_place": "Hà Nội",
+    "issued_date": "ngày 22 tháng 3 năm 2021",
+    "document_type": null,
+    "title": null
+  },
+  "administrative_header": {
+    "removed": true,
+    "removed_char_count": 159
+  },
+  "preamble": {
+    "text": "THÔNG TƯ QUY\nĐỊNH CHẾ ĐỘ BÁO CÁO CÔNG TÁC THANH TRA, TIẾP CÔNG DÂN, GIẢI QUYẾT KHIẾU NẠI, TỐ\nCÁO VÀ PHÒNG, CHỐNG THAM NHŨNG\nCăn cứ Luật Thanh tra ngày 15 tháng 11 năm 2010; Căn cứ Luật Khiếu nại ngày 11 tháng 11 năm 2011; Căn cứ Luật Tiếp công dân ngày 25 tháng 11 năm 2013; Căn cứ Luật Tố cáo ngày 12 tháng 6 năm 2018; Căn cứ Luật Phòng, chống tham nhũng ngày 20 tháng 11 năm 2018; Căn cứ Nghị định số 86/2011/NĐ-CP ngày 22 tháng 9 năm 2011 của Chính phủ quy định chi tiết và hướng dẫn thi hành một điều của Luật Thanh tra; Căn cứ Nghị định số 64/2014/NĐ-CP ngày 26 tháng 6 năm 2014 của Chính phủ quy định chi tiết thi hành một số điều của Luật Tiếp công dân; Căn cứ Nghị định số 50/2018/NĐ-CP ngày 09 tháng 4 năm 2018 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Thanh tra Chính phủ; Căn cứ Nghị định số 31/2019/NĐ-CP ngày 10 tháng 4 năm 2019 của Chính phủ quy định chi tiết một số điều và biện pháp tổ chức thi hành Luật Tố cáo; Căn cứ Nghị định số 59/2019/NĐ-CP ngày 01 tháng 7 năm 2019 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Phòng, chống tham nhũng; Căn cứ Nghị định số 124/2020/NĐ-CP ngày 19 tháng 10 năm 2020 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Khiếu nại; Căn cứ Nghị định số 09/2019/NĐ-CP ngày 24 tháng 01 năm 2019 của Chính phủ quy định về chế độ báo cáo của cơ quan hành chính nhà nước; Theo đề nghị của Vụ trưởng Vụ Kế hoạch - Tổng hợp và Vụ trưởng Vụ Pháp chế; Tổng Thanh tra Chính phủ ban hành Thông tư quy định chế độ báo cáo công tác thanh tra, tiếp công dân, giải quyết khiếu nại, tố cáo và phòng, chống tham nhũng.\nChương I\nQUY ĐỊNH CHUNG",
+    "legal_bases": [
+      "Căn cứ Luật Khiếu nại ngày 11 tháng 11 năm 2011",
+      "Căn cứ Luật Tiếp công dân ngày 25 tháng 11 năm 2013",
+      "Căn cứ Luật Tố cáo ngày 12 tháng 6 năm 2018",
+      "Căn cứ Luật Phòng, chống tham nhũng ngày 20 tháng 11 năm 2018",
+      "Căn cứ Nghị định số 86/2011/NĐ-CP ngày 22 tháng 9 năm 2011 của Chính phủ quy định chi tiết và hướng dẫn thi hành một điều của Luật Thanh tra",
+      "Căn cứ Nghị định số 64/2014/NĐ-CP ngày 26 tháng 6 năm 2014 của Chính phủ quy định chi tiết thi hành một số điều của Luật Tiếp công dân",
+      "Căn cứ Nghị định số 50/2018/NĐ-CP ngày 09 tháng 4 năm 2018 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Thanh tra Chính phủ",
+      "Căn cứ Nghị định số 31/2019/NĐ-CP ngày 10 tháng 4 năm 2019 của Chính phủ quy định chi tiết một số điều và biện pháp tổ chức thi hành Luật Tố cáo",
+      "Căn cứ Nghị định số 59/2019/NĐ-CP ngày 01 tháng 7 năm 2019 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Phòng, chống tham nhũng",
+      "Căn cứ Nghị định số 124/2020/NĐ-CP ngày 19 tháng 10 năm 2020 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Khiếu nại",
+      "Căn cứ Nghị định số 09/2019/NĐ-CP ngày 24 tháng 01 năm 2019 của Chính phủ quy định về chế độ báo cáo của cơ quan hành chính nhà nước"
+    ],
+    "proposals": [
+      "Theo đề nghị của Vụ trưởng Vụ Kế hoạch - Tổng hợp và Vụ trưởng Vụ Pháp chế"
+    ],
+    "enactment_formula": null
+  },
+  "passage": "THÔNG TƯ QUY\nĐỊNH CHẾ ĐỘ BÁO CÁO CÔNG TÁC THANH TRA, TIẾP CÔNG DÂN, GIẢI QUYẾT KHIẾU NẠI, TỐ\nCÁO VÀ PHÒNG, CHỐNG THAM NHŨNG\nCăn cứ Luật Thanh tra ngày 15 tháng 11 năm 2010; Căn cứ Luật Khiếu nại ngày 11 tháng 11 năm 2011; Căn cứ Luật Tiếp công dân ngày 25 tháng 11 năm 2013; Căn cứ Luật Tố cáo ngày 12 tháng 6 năm 2018; Căn cứ Luật Phòng, chống tham nhũng ngày 20 tháng 11 năm 2018; Căn cứ Nghị định số 86/2011/NĐ-CP ngày 22 tháng 9 năm 2011 của Chính phủ quy định chi tiết và hướng dẫn thi hành một điều của Luật Thanh tra; Căn cứ Nghị định số 64/2014/NĐ-CP ngày 26 tháng 6 năm 2014 của Chính phủ quy định chi tiết thi hành một số điều của Luật Tiếp công dân; Căn cứ Nghị định số 50/2018/NĐ-CP ngày 09 tháng 4 năm 2018 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Thanh tra Chính phủ; Căn cứ Nghị định số 31/2019/NĐ-CP ngày 10 tháng 4 năm 2019 của Chính phủ quy định chi tiết một số điều và biện pháp tổ chức thi hành Luật Tố cáo; Căn cứ Nghị định số 59/2019/NĐ-CP ngày 01 tháng 7 năm 2019 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Phòng, chống tham nhũng; Căn cứ Nghị định số 124/2020/NĐ-CP ngày 19 tháng 10 năm 2020 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Khiếu nại; Căn cứ Nghị định số 09/2019/NĐ-CP ngày 24 tháng 01 năm 2019 của Chính phủ quy định về chế độ báo cáo của cơ quan hành chính nhà nước; Theo đề nghị của Vụ trưởng Vụ Kế hoạch - Tổng hợp và Vụ trưởng Vụ Pháp chế; Tổng Thanh tra Chính phủ ban hành Thông tư quy định chế độ báo cáo công tác thanh tra, tiếp công dân, giải quyết khiếu nại, tố cáo và phòng, chống tham nhũng.\nChương I\nQUY ĐỊNH CHUNG\nĐiều 1. Phạm vi điều chỉnh, đối tượng áp dụng\n1. Thông tư này quy định về chế độ báo\ncáo, nội dung báo cáo, hình thức báo cáo, phương thức gửi báo cáo, trách nhiệm báo cáo công tác thanh tra, tiếp công dân, giải quyết khiếu nại, tố cáo và phòng, chống tham nhũng.\n2. Thông tư này áp dụng đối với Bộ trưởng,\nThủ trưởng cơ quan ngang bộ, Thủ trưởng cơ quan thuộc Chính phủ. Chủ tịch Ủy ban nhân dân lỉnh, thành phố trực thuộc trung ương, Thủ trưởng các cơ quan, tổ chức, đơn vị có thẩm quyền và trách nhiệm trong công tác thanh tra, tiếp công dân, giải quyết khiếu nại, tố cáo và phòng, chống tham nhũng.\nĐiều 2. Nguyên tắc báo cáo\n1. Đầy đủ, chính xác, khách quan, kịp\nthời.\n2. Đúng quy định của pháp luật về\nthanh tra, tiếp công dân, khiếu nại, tố cáo, phòng, chống tham nhũng và hướng dẫn tại Thông tư này.\nChương II\nCÁC\nLOẠI BÁO CÁO, NỘI DUNG, THỜI KỲ LẤY SỐ LIỆU, THỜI HẠN GỬI BÁO CÁO\nĐiều 3. Các loại báo cáo\n1. Báo cáo định kỳ là báo cáo công tác\nthanh tra, tiếp công dân, giải quyết khiếu nại, tố cáo và phòng, chống tham nhũng được thực hiện hằng quý, 6 tháng, 9 tháng và hằng năm.\n2. Báo cáo chuyên đề là báo cáo để đáp\nứng yêu cầu thông tin có tính chuyên sâu về một chủ đề thuộc lĩnh vực thanh tra, tiếp công dân, giải quyết khiếu nại, tố cáo và phòng, chống tham nhũng được thực hiện một hoặc nhiều lần trong một khoảng thời gian nhất định.\n3. Báo cáo đột xuất là báo cáo để đáp ứng\nyêu cầu thông tin về vấn đề phát sinh bất thường trong các lĩnh vực thanh tra, tiếp công dân, giải quyết khiếu nại, tố cáo và phòng, chống tham nhũng được thực hiện theo yêu cầu của cơ quan cấp trên hoặc của Thanh tra Chính phủ.\nĐiều 4. Báo cáo định kỳ\n1. Báo cáo định kỳ gồm các loại báo\ncáo sau đây:\na) Báo cáo Quý I, 6 tháng, 9 tháng và hằng năm;\nb) Báo cáo Quý II, Quý III và Quý IV.\n2. Nội dung của Báo cáo định kỳ:\na) Nội dung Báo cáo Quý I, 6 tháng, 9\ntháng và hằng năm: - Về công tác thanh tra: Tình hình, kết quả, đánh giá việc thực hiện nhiệm vụ công tác thanh tra trong kỳ báo cáo, phương hướng, nhiệm vụ chủ yếu triển khai trong kỳ báo cáo tiếp theo. Nội dung báo cáo về công tác thanh tra được thực hiện theo Mẫu số 01 và các biểu số liệu: 01/TTr, 02/TTr, 03/TTr, 04/TTr, 05/TTr, 06/TTr, 07/TTr, 01/QLNN, 02/QLNN ban hành kèm theo Thông tư này. - Về công tác tiếp công dân, giải quyết khiếu nại, tố cáo: Tình hình, kết quả, đánh giá việc thực hiện nhiệm vụ công tác tiếp công dân, giải quyết khiếu nại, tố cáo trong kỳ báo cáo, phương hướng, nhiệm vụ chủ yếu triển khai trong kỳ báo cáo tiếp theo. Nội dung báo cáo về công tác tiếp công dân, giải quyết khiếu nại, tố cáo được thực hiện theo Mẫu số 02 và các biểu số liệu: 01/TCD, 02/TCD, 01/XLD, 02/XLD, 03/XLD, 04/XLD, 01/KQGQ, 02/KQGQ,\n03/KQGQ, 04/KQGQ\nban hành kèm theo Thông tư này. - Về công tác phòng, chống tham nhũng; Tình hình, kết quả thực hiện nhiệm vụ, đánh giá về công tác phòng, chống tham nhũng trong kỳ báo cáo, phương hướng, nhiệm vụ chủ yếu triển khai trong kỳ báo cáo tiếp theo. Nội dung báo cáo về công tác phòng, chống tham nhũng được thực hiện theo Mẫu số 03 và các biểu số liệu: 01/PCTN, 02/PCTN, 03/PCTN ban hành kèm theo Thông tư này.\nb) Nội dung của Báo cáo Quý II, Quý III\nvà Quý IV: được thực hiện thông qua các biểu số liệu quy định tại điểm a khoán 2 Điều này.\nc) Ngoài những nội dung được quy định\ntại điểm a và điểm b khoản 2 Điều này, trong trường hợp cần thiết, bộ, cơ quan ngang bộ báo cáo bổ sung nội dung tổng hợp chuyên sâu về kết quả công tác thanh tra, tiếp công dân giải quyết khiếu nại, tố cáo và phòng, chống tham nhũng thuộc phạm vi trách nhiệm của mình gửi Thanh tra Chính phủ.\nĐiều 5. Báo cáo chuyên đề\n1. Báo cáo chuyên đề gồm các loại\nbáo cáo sau đây:\na) Báo cáo chuyên đề về công tác tiếp\ncông dân, giải quyết khiếu nại, tố cáo hằng năm;\nb) Báo cáo chuyên đề về công tác\nphòng, chống tham nhũng hằng năm;\nc) Báo cáo chuyên đề khác.\n2. Nội dung của báo cáo chuyên đề:\na) Báo cáo chuyên đề về công tác tiếp\ncông dân, giải quyết khiếu nại, tố cáo hằng năm: Tình hình, kết quả, đánh giá việc thực hiện nhiệm vụ công tác tiếp công dân, giải quyết khiếu nại, tố cáo trong kỳ báo cáo, dự báo tình hình và phương hướng, nhiệm vụ chủ yếu triển khai trong kỳ báo cáo tiếp theo. Nội dung báo cáo được thực hiện theo Mẫu số 02 và các biêu số liệu: 01/TCD, 02/TCD,\n01/XLD, 02/XLD, 03/XLD, 04/XLD, 01/KQGQ, 02/KQGQ,\n03/KQGQ, 04/KQGQ\nvà biểu số liệu 03/QLNN ban hành kèm theo Thông tư này.\nb) Báo cáo chuyên đề về công tác\nphòng, chống tham nhũng hằng năm: Tình hình, kết quả thực hiện nhiệm vụ, đánh giá về công tác phòng, chống tham nhũng trong kỳ báo cáo, phương hướng, nhiệm vụ chủ yếu triển khai trong kỳ báo cáo tiếp theo. Nội dung báo cáo được thực hiện theo Mẫu số 03 và các biểu số liệu: 01/PCTN, 02/PCTN, 03/PCTN ban hành kèm theo Thông tư này.\nc) Đối với các Báo cáo chuyên đề khác\nhoặc khi có yêu cầu bổ sung nội dung đối với báo cáo được quy định tại điểm a và điểm b khoản 2 Điều này, Thanh tra Chính phủ sẽ có văn bản hướng dẫn cụ thể về đề cương, biểu số liệu báo cáo.\nĐiều 6. Báo cáo đột xuất\n1. Khi Thanh tra Chính phủ có yêu cầu Báo\ncáo về những vấn đề phát sinh bất thường trong lĩnh vực thanh tra, tiếp công dân, giải quyết khiếu nại, tố cáo và phòng, chống tham nhũng thì các chủ thể quy định tại khoản 2 Điều 1 Thông tư này có trách nhiệm báo cáo theo yêu cầu. Nội dung báo cáo được thực hiện theo hướng dẫn của Thanh tra Chính phủ.\n2. Khi các chủ thể quy định tại khoản 2 Điều 1 Thông tư này phát hiện những vấn đề bất thường,\ncó tính chất nghiêm trọng, phức tạp trong lĩnh vực thanh tra, tiếp công dân, giải quyết khiếu nại, tố cáo và phòng, chống tham nhũng liên quan trực tiếp tới chức năng, nhiệm vụ, quyền hạn của mình thì có trách nhiệm báo cáo kịp thời cho cơ quan thanh tra cấp trên và Thủ trưởng cơ quan quản lý nhà nước có thẩm quyền để chỉ đạo, phối hợp xử lý.\nĐiều 7. Thời gian chốt số liệu, đối tượng thực hiện báo cáo, cơ quan nhận báo cáo và thời hạn gửi báo cáo\n1. Thời gian chốt số liệu\na) Đối với báo cáo định kỳ:\n- Báo cáo hằng Quý + Báo cáo Quý I: Từ ngày 15 của tháng 12 năm trước đến ngày 14 tháng 3 của năm báo cáo. + Báo cáo Quý II, Quý III, Quý IV: Từ ngày 15 của tháng cuối quý trước đến ngày 14 của tháng cuối quý báo cáo. - Báo cáo 6 tháng: Từ ngày 15 của tháng 12 năm trước đến ngày 14 tháng 6 của năm báo cáo. - Báo cáo 9 tháng: Từ ngày 15 của tháng 12 năm trước đến ngày 14 tháng 9 của năm báo cáo. - Báo cáo hằng năm: Từ ngày 15 tháng 12 năm trước đến ngày 14 tháng 12 của năm báo cáo.\nb) Đối với báo cáo chuyên đề, đột xuất\nThời gian chốt số liệu theo yêu cầu bằng văn bản của Thanh tra Chính phủ.\n2. Đối tượng thực hiện báo cáo, cơ\nquan nhận Báo cáo, thời hạn gửi báo cáo\na) Đối với báo cáo định kỳ:\n- Ủy ban nhân dân cấp xã, cơ quan chuyên môn thuộc Ủy ban nhân dân cấp huyện và tổ chức, cá nhân có liên quan trong phạm vi địa bàn quản lý của cấp huyện gửi báo cáo Ủy ban nhân dân cấp huyện chậm nhất vào ngày 16 của tháng cuối thuộc kỳ báo cáo; Ủy ban nhân dân cấp huyện, cơ quan chuyên môn thuộc Ủy ban nhân dân cấp tỉnh và tổ chức, cá nhân có liên quan trong phạm vi địa bàn quản lý của cấp tỉnh gửi Báo cáo Ủy ban nhân dân cấp tỉnh chậm nhất vào ngày 18 của tháng cuối thuộc kỳ báo cáo; Ủy ban nhân dân cấp tỉnh tổng hợp, duyệt, gửi báo cáo Thanh tra Chính phủ chậm nhất vào ngày 20 của tháng cuối thuộc kỳ Báo cáo, - Cơ quan trung ương được tổ chức theo ngành dọc đặt tại cấp huyện gửi báo cáo cơ quan được tổ chức theo ngành dọc đặt tại cấp tỉnh chậm nhất vào ngày 15 của tháng cuối thuộc kỳ báo cáo; Cơ quan trung ương được tổ chức theo ngành dọc đặt tại cấp tỉnh tổng hợp, duyệt, gửi báo cáo cơ quan được tổ chức theo ngành dọc cấp trung ương chậm nhất vào ngày 16 của tháng cuối thuộc kỳ Báo cáo; Cơ quan, đơn vị trực thuộc bộ, cơ quan ngang bộ tổng hợp, duyệt, gửi báo cáo bộ, cơ quan ngang bộ chậm nhất vào ngày 18 của tháng cuối quý thuộc kỳ báo cáo; Bộ, cơ quan ngang bộ tổng hợp, duyệt, gửi báo cáo Thanh tra Chính phủ chậm nhất vào ngày 20 của tháng cuối thuộc kỳ báo cáo. Cơ quan được tổ chức theo ngành dọc đặt tại cấp tỉnh, cấp huyện đồng thời gửi báo cáo đến cơ quan thanh tra và cơ quan quản lý nhà nước cung cấp để phục vụ quản lý, Cơ quan thanh tra và cơ quan quản lý nhà nước cùng cấp không tổng hợp nội dung báo cáo này vào báo cáo của mình. - Trong trường hợp cần thiết, bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ và Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương quy định về thời hạn gửi báo cáo cho từng cấp theo thẩm quyền quản lý nhưng đảm bảo thời hạn gửi báo cáo về Thanh tra Chính phủ chậm nhất vào ngày 20 của tháng cuối thuộc kỳ Báo cáo.\nb) Đối với báo cáo chuyên đề, đột xuất:\nĐối tượng thực hiện báo cáo, thời hạn gửi báo cáo được thực hiện theo yêu cầu của Thanh tra Chính phủ.\nĐiều 8. Hình thức báo cáo, phương thức gửi báo cáo\n1. Báo cáo được thể hiện bằng văn bản\ngiấy hoặc văn bản điện tử, có chữ ký của Thủ trưởng cơ quan, tổ chức, đơn vị và được đóng dấu theo quy định. Trường hợp Thủ trưởng cơ quan quản lý nhà nước ủy quyền cho Thủ trưởng cơ quan thanh tra cùng cấp ký báo cáo thì thực hiện theo quy định về ký thừa ủy quyền.\n2. Báo cáo được gửi tới cơ\nquan nhận báo cáo bằng hệ thống văn bản điện tử trong cơ quan hành chính nhà nước hoặc một số phương thức sau:\na) Gửi qua phần mềm hệ thống thông tin\nbáo cáo của Thanh tra Chính phủ;\nb) Gửi qua thư điện tử của cơ quan\nhành chính nhà nước;\nc) Gửi trực tiếp;\nđ) Gửi qua dịch vụ bưu chính;\nđ) Gửi qua Fax.\nĐiều 9. Ứng dụng công nghệ thông tin trong thực hiện chế độ báo cáo\n1. Thanh tra Chính phủ xây dựng, quản\nlý, vận hành hệ thống thông tin báo cáo về các lĩnh vực quản lý nhà nước của mình; đảm bảo hạ tầng kỹ thuật, công nghệ, an toàn, an ninh thông tin phục vụ xây dựng, vận hành hệ thống thông tin báo cáo, chia sẻ dữ liệu theo các quy định của pháp luật.\n2. Bộ, cơ quan ngang bộ, cơ quan thuộc\nChính phủ và Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương tổ chức thực hiện có hiệu quả hệ thống thông tin Báo cáo về công tác thanh tra, tiếp công dân, giải quyết khiếu nại, tố cáo và phòng, chống tham nhũng khi Thanh tra Chính phủ triển khai.\nChương III\nĐIỀU KHOẢN THI HÀNH\nĐiều 10. Trách nhiệm thi hành\n1. Thanh tra Chính phủ có trách nhiệm hướng\ndẫn, tổ chức tập huấn về công tác báo cáo theo quy định của Thông tư này, đảm bảo đáp ứng các yêu cầu của Chính phủ về chế độ báo cáo của cơ quan hành chính nhà nước.\n2. Bộ trưởng, Thủ trưởng cơ quan ngang\nbộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương, Thủ trưởng các cơ quan, tổ chức, đơn vị có trách nhiệm thực hiện chế độ thông tin, báo cáo theo quy định tại Thông tư này.\nĐiều 11. Hiệu lực thi hành Thông tư có hiệu lực từ ngày 10 tháng 5 năm 2021. Thông tư số 03/2013/TT-TTCP ngày 10 tháng 6 năm 2013 của Thanh tra Chính phủ quy định chế độ Báo cáo công tác thanh tra, giải quyết khiếu nại, tố cáo và phòng, chống tham nhũng hết hiệu lực kể từ ngày Thông tư này có hiệu lực. Trong quá trình thực hiện, nếu có vướng mắc hoặc có vấn đề mới phát sinh, các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ, Ủy ban nhân dân các cấp và cơ quan, tổ chức, cá nhân có liên quan phản ánh về Thanh tra Chính phủ để được hướng dẫn hoặc kịp thời sửa đổi, bổ sung./.\nNơi nhận:\n-\nThủ tướng Chính phủ; các Phó Thủ tướng Chính phủ;\n- Các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ;\n- HĐND, UBND các tỉnh, thành phố trực thuộc TW;\n- Văn phòng Trung ương và các Ban của Đảng ở TW;\n- Văn phòng Tổng Bí thư;\n- Văn phòng Chủ tịch nước;\n- Hội đồng Dân tộc và các Ủy ban của Quốc hội;\n- Văn phòng Quốc hội;\n- Tòa án nhân dân tối cao;\n- Viện Kiểm sát nhân dân tối cao;\n- Kiểm toán Nhà nước;\n- Ủy ban TW Mặt trận tổ quốc Việt Nam;\n- Cơ quan Trung ương các đoàn thể;\n- Lãnh đạo Thanh tra Chính phủ;\n- Các đơn vị thuộc TTCP,\n- Thanh tra các bộ, ngành Trung Ương;\n- Thanh tra các tỉnh, thành phố trực thuộc TW;\n- Cục kiểm tra văn bản Bộ Tư pháp;\n- Công báo; Cổng thông tin điện tử TTCP;\n- Lưu; VT, Vụ KH-TH (5b).\nTỔNG THANH TRA\nLê Minh Khái\nFILE ĐƯỢC ĐÍNH KÈM THEO VĂN BẢN",
+  "tree": {
+    "parts": [
+      {
+        "part_id": "doc:182825:part:1",
+        "part_type": "main",
+        "part_title": null,
+        "reference": null,
+        "direct_text": "THÔNG TƯ QUY\nĐỊNH CHẾ ĐỘ BÁO CÁO CÔNG TÁC THANH TRA, TIẾP CÔNG DÂN, GIẢI QUYẾT KHIẾU NẠI, TỐ\nCÁO VÀ PHÒNG, CHỐNG THAM NHŨNG\nCăn cứ Luật Thanh tra ngày 15 tháng 11 năm 2010; Căn cứ Luật Khiếu nại ngày 11 tháng 11 năm 2011; Căn cứ Luật Tiếp công dân ngày 25 tháng 11 năm 2013; Căn cứ Luật Tố cáo ngày 12 tháng 6 năm 2018; Căn cứ Luật Phòng, chống tham nhũng ngày 20 tháng 11 năm 2018; Căn cứ Nghị định số 86/2011/NĐ-CP ngày 22 tháng 9 năm 2011 của Chính phủ quy định chi tiết và hướng dẫn thi hành một điều của Luật Thanh tra; Căn cứ Nghị định số 64/2014/NĐ-CP ngày 26 tháng 6 năm 2014 của Chính phủ quy định chi tiết thi hành một số điều của Luật Tiếp công dân; Căn cứ Nghị định số 50/2018/NĐ-CP ngày 09 tháng 4 năm 2018 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Thanh tra Chính phủ; Căn cứ Nghị định số 31/2019/NĐ-CP ngày 10 tháng 4 năm 2019 của Chính phủ quy định chi tiết một số điều và biện pháp tổ chức thi hành Luật Tố cáo; Căn cứ Nghị định số 59/2019/NĐ-CP ngày 01 tháng 7 năm 2019 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Phòng, chống tham nhũng; Căn cứ Nghị định số 124/2020/NĐ-CP ngày 19 tháng 10 năm 2020 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Khiếu nại; Căn cứ Nghị định số 09/2019/NĐ-CP ngày 24 tháng 01 năm 2019 của Chính phủ quy định về chế độ báo cáo của cơ quan hành chính nhà nước; Theo đề nghị của Vụ trưởng Vụ Kế hoạch - Tổng hợp và Vụ trưởng Vụ Pháp chế; Tổng Thanh tra Chính phủ ban hành Thông tư quy định chế độ báo cáo công tác thanh tra, tiếp công dân, giải quyết khiếu nại, tố cáo và phòng, chống tham nhũng.",
+        "chapters": [
+          {
+            "chapter_id": "doc:182825:part:1:chapter:1",
+            "number": "I",
+            "title": "QUY ĐỊNH CHUNG",
+            "content": "Chương I\nQUY ĐỊNH CHUNG",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:182825:part:1:article:1",
+                "number": "1",
+                "title": "Phạm vi điều chỉnh, đối tượng áp dụng",
+                "content": "Điều 1. Phạm vi điều chỉnh, đối tượng áp dụng",
+                "clauses": [
+                  {
+                    "clause_id": "doc:182825:part:1:article:1:clause:1",
+                    "number": "1",
+                    "content": "1. Thông tư này quy định về chế độ báo\ncáo, nội dung báo cáo, hình thức báo cáo, phương thức gửi báo cáo, trách nhiệm báo cáo công tác thanh tra, tiếp công dân, giải quyết khiếu nại, tố cáo và phòng, chống tham nhũng.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:182825:part:1:article:1:clause:2",
+                    "number": "2",
+                    "content": "2. Thông tư này áp dụng đối với Bộ trưởng,\nThủ trưởng cơ quan ngang bộ, Thủ trưởng cơ quan thuộc Chính phủ. Chủ tịch Ủy ban nhân dân lỉnh, thành phố trực thuộc trung ương, Thủ trưởng các cơ quan, tổ chức, đơn vị có thẩm quyền và trách nhiệm trong công tác thanh tra, tiếp công dân, giải quyết khiếu nại, tố cáo và phòng, chống tham nhũng.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:182825:part:1:article:2",
+                "number": "2",
+                "title": "Nguyên tắc báo cáo",
+                "content": "Điều 2. Nguyên tắc báo cáo",
+                "clauses": [
+                  {
+                    "clause_id": "doc:182825:part:1:article:2:clause:1",
+                    "number": "1",
+                    "content": "1. Đầy đủ, chính xác, khách quan, kịp\nthời.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:182825:part:1:article:2:clause:2",
+                    "number": "2",
+                    "content": "2. Đúng quy định của pháp luật về\nthanh tra, tiếp công dân, khiếu nại, tố cáo, phòng, chống tham nhũng và hướng dẫn tại Thông tư này.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:182825:part:1:chapter:2",
+            "number": "II",
+            "title": "CÁC LOẠI BÁO CÁO, NỘI DUNG, THỜI KỲ LẤY SỐ LIỆU, THỜI HẠN GỬI BÁO CÁO",
+            "content": "Chương II\nCÁC\nLOẠI BÁO CÁO, NỘI DUNG, THỜI KỲ LẤY SỐ LIỆU, THỜI HẠN GỬI BÁO CÁO",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:182825:part:1:article:3",
+                "number": "3",
+                "title": "Các loại báo cáo",
+                "content": "Điều 3. Các loại báo cáo",
+                "clauses": [
+                  {
+                    "clause_id": "doc:182825:part:1:article:3:clause:1",
+                    "number": "1",
+                    "content": "1. Báo cáo định kỳ là báo cáo công tác\nthanh tra, tiếp công dân, giải quyết khiếu nại, tố cáo và phòng, chống tham nhũng được thực hiện hằng quý, 6 tháng, 9 tháng và hằng năm.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:182825:part:1:article:3:clause:2",
+                    "number": "2",
+                    "content": "2. Báo cáo chuyên đề là báo cáo để đáp\nứng yêu cầu thông tin có tính chuyên sâu về một chủ đề thuộc lĩnh vực thanh tra, tiếp công dân, giải quyết khiếu nại, tố cáo và phòng, chống tham nhũng được thực hiện một hoặc nhiều lần trong một khoảng thời gian nhất định.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:182825:part:1:article:3:clause:3",
+                    "number": "3",
+                    "content": "3. Báo cáo đột xuất là báo cáo để đáp ứng\nyêu cầu thông tin về vấn đề phát sinh bất thường trong các lĩnh vực thanh tra, tiếp công dân, giải quyết khiếu nại, tố cáo và phòng, chống tham nhũng được thực hiện theo yêu cầu của cơ quan cấp trên hoặc của Thanh tra Chính phủ.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:182825:part:1:article:4",
+                "number": "4",
+                "title": "Báo cáo định kỳ",
+                "content": "Điều 4. Báo cáo định kỳ",
+                "clauses": [
+                  {
+                    "clause_id": "doc:182825:part:1:article:4:clause:1",
+                    "number": "1",
+                    "content": "1. Báo cáo định kỳ gồm các loại báo\ncáo sau đây:",
+                    "points": [
+                      {
+                        "point_id": "doc:182825:part:1:article:4:clause:1:point:1",
+                        "label": "a",
+                        "content": "a) Báo cáo Quý I, 6 tháng, 9 tháng và hằng năm;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:182825:part:1:article:4:clause:1:point:2",
+                        "label": "b",
+                        "content": "b) Báo cáo Quý II, Quý III và Quý IV.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:182825:part:1:article:4:clause:2",
+                    "number": "2",
+                    "content": "2. Nội dung của Báo cáo định kỳ:",
+                    "points": [
+                      {
+                        "point_id": "doc:182825:part:1:article:4:clause:2:point:1",
+                        "label": "a",
+                        "content": "a) Nội dung Báo cáo Quý I, 6 tháng, 9\ntháng và hằng năm: - Về công tác thanh tra: Tình hình, kết quả, đánh giá việc thực hiện nhiệm vụ công tác thanh tra trong kỳ báo cáo, phương hướng, nhiệm vụ chủ yếu triển khai trong kỳ báo cáo tiếp theo. Nội dung báo cáo về công tác thanh tra được thực hiện theo Mẫu số 01 và các biểu số liệu: 01/TTr, 02/TTr, 03/TTr, 04/TTr, 05/TTr, 06/TTr, 07/TTr, 01/QLNN, 02/QLNN ban hành kèm theo Thông tư này. - Về công tác tiếp công dân, giải quyết khiếu nại, tố cáo: Tình hình, kết quả, đánh giá việc thực hiện nhiệm vụ công tác tiếp công dân, giải quyết khiếu nại, tố cáo trong kỳ báo cáo, phương hướng, nhiệm vụ chủ yếu triển khai trong kỳ báo cáo tiếp theo. Nội dung báo cáo về công tác tiếp công dân, giải quyết khiếu nại, tố cáo được thực hiện theo Mẫu số 02 và các biểu số liệu: 01/TCD, 02/TCD, 01/XLD, 02/XLD, 03/XLD, 04/XLD, 01/KQGQ, 02/KQGQ,\n03/KQGQ, 04/KQGQ\nban hành kèm theo Thông tư này. - Về công tác phòng, chống tham nhũng; Tình hình, kết quả thực hiện nhiệm vụ, đánh giá về công tác phòng, chống tham nhũng trong kỳ báo cáo, phương hướng, nhiệm vụ chủ yếu triển khai trong kỳ báo cáo tiếp theo. Nội dung báo cáo về công tác phòng, chống tham nhũng được thực hiện theo Mẫu số 03 và các biểu số liệu: 01/PCTN, 02/PCTN, 03/PCTN ban hành kèm theo Thông tư này.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:182825:part:1:article:4:clause:2:point:2",
+                        "label": "b",
+                        "content": "b) Nội dung của Báo cáo Quý II, Quý III\nvà Quý IV: được thực hiện thông qua các biểu số liệu quy định tại điểm a khoán 2 Điều này.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:182825:part:1:article:4:clause:2:point:3",
+                        "label": "c",
+                        "content": "c) Ngoài những nội dung được quy định\ntại điểm a và điểm b khoản 2 Điều này, trong trường hợp cần thiết, bộ, cơ quan ngang bộ báo cáo bổ sung nội dung tổng hợp chuyên sâu về kết quả công tác thanh tra, tiếp công dân giải quyết khiếu nại, tố cáo và phòng, chống tham nhũng thuộc phạm vi trách nhiệm của mình gửi Thanh tra Chính phủ.",
+                        "children": []
+                      }
+                    ]
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:182825:part:1:article:5",
+                "number": "5",
+                "title": "Báo cáo chuyên đề",
+                "content": "Điều 5. Báo cáo chuyên đề",
+                "clauses": [
+                  {
+                    "clause_id": "doc:182825:part:1:article:5:clause:1",
+                    "number": "1",
+                    "content": "1. Báo cáo chuyên đề gồm các loại\nbáo cáo sau đây:",
+                    "points": [
+                      {
+                        "point_id": "doc:182825:part:1:article:5:clause:1:point:1",
+                        "label": "a",
+                        "content": "a) Báo cáo chuyên đề về công tác tiếp\ncông dân, giải quyết khiếu nại, tố cáo hằng năm;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:182825:part:1:article:5:clause:1:point:2",
+                        "label": "b",
+                        "content": "b) Báo cáo chuyên đề về công tác\nphòng, chống tham nhũng hằng năm;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:182825:part:1:article:5:clause:1:point:3",
+                        "label": "c",
+                        "content": "c) Báo cáo chuyên đề khác.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:182825:part:1:article:5:clause:2",
+                    "number": "2",
+                    "content": "2. Nội dung của báo cáo chuyên đề:",
+                    "points": [
+                      {
+                        "point_id": "doc:182825:part:1:article:5:clause:2:point:1",
+                        "label": "a",
+                        "content": "a) Báo cáo chuyên đề về công tác tiếp\ncông dân, giải quyết khiếu nại, tố cáo hằng năm: Tình hình, kết quả, đánh giá việc thực hiện nhiệm vụ công tác tiếp công dân, giải quyết khiếu nại, tố cáo trong kỳ báo cáo, dự báo tình hình và phương hướng, nhiệm vụ chủ yếu triển khai trong kỳ báo cáo tiếp theo. Nội dung báo cáo được thực hiện theo Mẫu số 02 và các biêu số liệu: 01/TCD, 02/TCD,\n01/XLD, 02/XLD, 03/XLD, 04/XLD, 01/KQGQ, 02/KQGQ,\n03/KQGQ, 04/KQGQ\nvà biểu số liệu 03/QLNN ban hành kèm theo Thông tư này.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:182825:part:1:article:5:clause:2:point:2",
+                        "label": "b",
+                        "content": "b) Báo cáo chuyên đề về công tác\nphòng, chống tham nhũng hằng năm: Tình hình, kết quả thực hiện nhiệm vụ, đánh giá về công tác phòng, chống tham nhũng trong kỳ báo cáo, phương hướng, nhiệm vụ chủ yếu triển khai trong kỳ báo cáo tiếp theo. Nội dung báo cáo được thực hiện theo Mẫu số 03 và các biểu số liệu: 01/PCTN, 02/PCTN, 03/PCTN ban hành kèm theo Thông tư này.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:182825:part:1:article:5:clause:2:point:3",
+                        "label": "c",
+                        "content": "c) Đối với các Báo cáo chuyên đề khác\nhoặc khi có yêu cầu bổ sung nội dung đối với báo cáo được quy định tại điểm a và điểm b khoản 2 Điều này, Thanh tra Chính phủ sẽ có văn bản hướng dẫn cụ thể về đề cương, biểu số liệu báo cáo.",
+                        "children": []
+                      }
+                    ]
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:182825:part:1:article:6",
+                "number": "6",
+                "title": "Báo cáo đột xuất",
+                "content": "Điều 6. Báo cáo đột xuất",
+                "clauses": [
+                  {
+                    "clause_id": "doc:182825:part:1:article:6:clause:1",
+                    "number": "1",
+                    "content": "1. Khi Thanh tra Chính phủ có yêu cầu Báo\ncáo về những vấn đề phát sinh bất thường trong lĩnh vực thanh tra, tiếp công dân, giải quyết khiếu nại, tố cáo và phòng, chống tham nhũng thì các chủ thể quy định tại khoản 2 Điều 1 Thông tư này có trách nhiệm báo cáo theo yêu cầu. Nội dung báo cáo được thực hiện theo hướng dẫn của Thanh tra Chính phủ.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:182825:part:1:article:6:clause:2",
+                    "number": "2",
+                    "content": "2. Khi các chủ thể quy định tại khoản 2 Điều 1 Thông tư này phát hiện những vấn đề bất thường,\ncó tính chất nghiêm trọng, phức tạp trong lĩnh vực thanh tra, tiếp công dân, giải quyết khiếu nại, tố cáo và phòng, chống tham nhũng liên quan trực tiếp tới chức năng, nhiệm vụ, quyền hạn của mình thì có trách nhiệm báo cáo kịp thời cho cơ quan thanh tra cấp trên và Thủ trưởng cơ quan quản lý nhà nước có thẩm quyền để chỉ đạo, phối hợp xử lý.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:182825:part:1:article:7",
+                "number": "7",
+                "title": "Thời gian chốt số liệu, đối tượng thực hiện báo cáo, cơ quan nhận báo cáo và thời hạn gửi báo cáo",
+                "content": "Điều 7. Thời gian chốt số liệu, đối tượng thực hiện báo cáo, cơ quan nhận báo cáo và thời hạn gửi báo cáo",
+                "clauses": [
+                  {
+                    "clause_id": "doc:182825:part:1:article:7:clause:1",
+                    "number": "1",
+                    "content": "1. Thời gian chốt số liệu",
+                    "points": [
+                      {
+                        "point_id": "doc:182825:part:1:article:7:clause:1:point:1",
+                        "label": "a",
+                        "content": "a) Đối với báo cáo định kỳ:\n- Báo cáo hằng Quý + Báo cáo Quý I: Từ ngày 15 của tháng 12 năm trước đến ngày 14 tháng 3 của năm báo cáo. + Báo cáo Quý II, Quý III, Quý IV: Từ ngày 15 của tháng cuối quý trước đến ngày 14 của tháng cuối quý báo cáo. - Báo cáo 6 tháng: Từ ngày 15 của tháng 12 năm trước đến ngày 14 tháng 6 của năm báo cáo. - Báo cáo 9 tháng: Từ ngày 15 của tháng 12 năm trước đến ngày 14 tháng 9 của năm báo cáo. - Báo cáo hằng năm: Từ ngày 15 tháng 12 năm trước đến ngày 14 tháng 12 của năm báo cáo.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:182825:part:1:article:7:clause:1:point:2",
+                        "label": "b",
+                        "content": "b) Đối với báo cáo chuyên đề, đột xuất\nThời gian chốt số liệu theo yêu cầu bằng văn bản của Thanh tra Chính phủ.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:182825:part:1:article:7:clause:2",
+                    "number": "2",
+                    "content": "2. Đối tượng thực hiện báo cáo, cơ\nquan nhận Báo cáo, thời hạn gửi báo cáo",
+                    "points": [
+                      {
+                        "point_id": "doc:182825:part:1:article:7:clause:2:point:1",
+                        "label": "a",
+                        "content": "a) Đối với báo cáo định kỳ:\n- Ủy ban nhân dân cấp xã, cơ quan chuyên môn thuộc Ủy ban nhân dân cấp huyện và tổ chức, cá nhân có liên quan trong phạm vi địa bàn quản lý của cấp huyện gửi báo cáo Ủy ban nhân dân cấp huyện chậm nhất vào ngày 16 của tháng cuối thuộc kỳ báo cáo; Ủy ban nhân dân cấp huyện, cơ quan chuyên môn thuộc Ủy ban nhân dân cấp tỉnh và tổ chức, cá nhân có liên quan trong phạm vi địa bàn quản lý của cấp tỉnh gửi Báo cáo Ủy ban nhân dân cấp tỉnh chậm nhất vào ngày 18 của tháng cuối thuộc kỳ báo cáo; Ủy ban nhân dân cấp tỉnh tổng hợp, duyệt, gửi báo cáo Thanh tra Chính phủ chậm nhất vào ngày 20 của tháng cuối thuộc kỳ Báo cáo, - Cơ quan trung ương được tổ chức theo ngành dọc đặt tại cấp huyện gửi báo cáo cơ quan được tổ chức theo ngành dọc đặt tại cấp tỉnh chậm nhất vào ngày 15 của tháng cuối thuộc kỳ báo cáo; Cơ quan trung ương được tổ chức theo ngành dọc đặt tại cấp tỉnh tổng hợp, duyệt, gửi báo cáo cơ quan được tổ chức theo ngành dọc cấp trung ương chậm nhất vào ngày 16 của tháng cuối thuộc kỳ Báo cáo; Cơ quan, đơn vị trực thuộc bộ, cơ quan ngang bộ tổng hợp, duyệt, gửi báo cáo bộ, cơ quan ngang bộ chậm nhất vào ngày 18 của tháng cuối quý thuộc kỳ báo cáo; Bộ, cơ quan ngang bộ tổng hợp, duyệt, gửi báo cáo Thanh tra Chính phủ chậm nhất vào ngày 20 của tháng cuối thuộc kỳ báo cáo. Cơ quan được tổ chức theo ngành dọc đặt tại cấp tỉnh, cấp huyện đồng thời gửi báo cáo đến cơ quan thanh tra và cơ quan quản lý nhà nước cung cấp để phục vụ quản lý, Cơ quan thanh tra và cơ quan quản lý nhà nước cùng cấp không tổng hợp nội dung báo cáo này vào báo cáo của mình. - Trong trường hợp cần thiết, bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ và Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương quy định về thời hạn gửi báo cáo cho từng cấp theo thẩm quyền quản lý nhưng đảm bảo thời hạn gửi báo cáo về Thanh tra Chính phủ chậm nhất vào ngày 20 của tháng cuối thuộc kỳ Báo cáo.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:182825:part:1:article:7:clause:2:point:2",
+                        "label": "b",
+                        "content": "b) Đối với báo cáo chuyên đề, đột xuất:\nĐối tượng thực hiện báo cáo, thời hạn gửi báo cáo được thực hiện theo yêu cầu của Thanh tra Chính phủ.",
+                        "children": []
+                      }
+                    ]
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:182825:part:1:article:8",
+                "number": "8",
+                "title": "Hình thức báo cáo, phương thức gửi báo cáo",
+                "content": "Điều 8. Hình thức báo cáo, phương thức gửi báo cáo",
+                "clauses": [
+                  {
+                    "clause_id": "doc:182825:part:1:article:8:clause:1",
+                    "number": "1",
+                    "content": "1. Báo cáo được thể hiện bằng văn bản\ngiấy hoặc văn bản điện tử, có chữ ký của Thủ trưởng cơ quan, tổ chức, đơn vị và được đóng dấu theo quy định. Trường hợp Thủ trưởng cơ quan quản lý nhà nước ủy quyền cho Thủ trưởng cơ quan thanh tra cùng cấp ký báo cáo thì thực hiện theo quy định về ký thừa ủy quyền.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:182825:part:1:article:8:clause:2",
+                    "number": "2",
+                    "content": "2. Báo cáo được gửi tới cơ\nquan nhận báo cáo bằng hệ thống văn bản điện tử trong cơ quan hành chính nhà nước hoặc một số phương thức sau:",
+                    "points": [
+                      {
+                        "point_id": "doc:182825:part:1:article:8:clause:2:point:1",
+                        "label": "a",
+                        "content": "a) Gửi qua phần mềm hệ thống thông tin\nbáo cáo của Thanh tra Chính phủ;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:182825:part:1:article:8:clause:2:point:2",
+                        "label": "b",
+                        "content": "b) Gửi qua thư điện tử của cơ quan\nhành chính nhà nước;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:182825:part:1:article:8:clause:2:point:3",
+                        "label": "c",
+                        "content": "c) Gửi trực tiếp;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:182825:part:1:article:8:clause:2:point:4",
+                        "label": "đ",
+                        "content": "đ) Gửi qua dịch vụ bưu chính;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:182825:part:1:article:8:clause:2:point:5",
+                        "label": "đ",
+                        "content": "đ) Gửi qua Fax.",
+                        "children": []
+                      }
+                    ]
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:182825:part:1:article:9",
+                "number": "9",
+                "title": "Ứng dụng công nghệ thông tin trong thực hiện chế độ báo cáo",
+                "content": "Điều 9. Ứng dụng công nghệ thông tin trong thực hiện chế độ báo cáo",
+                "clauses": [
+                  {
+                    "clause_id": "doc:182825:part:1:article:9:clause:1",
+                    "number": "1",
+                    "content": "1. Thanh tra Chính phủ xây dựng, quản\nlý, vận hành hệ thống thông tin báo cáo về các lĩnh vực quản lý nhà nước của mình; đảm bảo hạ tầng kỹ thuật, công nghệ, an toàn, an ninh thông tin phục vụ xây dựng, vận hành hệ thống thông tin báo cáo, chia sẻ dữ liệu theo các quy định của pháp luật.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:182825:part:1:article:9:clause:2",
+                    "number": "2",
+                    "content": "2. Bộ, cơ quan ngang bộ, cơ quan thuộc\nChính phủ và Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương tổ chức thực hiện có hiệu quả hệ thống thông tin Báo cáo về công tác thanh tra, tiếp công dân, giải quyết khiếu nại, tố cáo và phòng, chống tham nhũng khi Thanh tra Chính phủ triển khai.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:182825:part:1:chapter:3",
+            "number": "III",
+            "title": "ĐIỀU KHOẢN THI HÀNH",
+            "content": "Chương III\nĐIỀU KHOẢN THI HÀNH",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:182825:part:1:article:10",
+                "number": "10",
+                "title": "Trách nhiệm thi hành",
+                "content": "Điều 10. Trách nhiệm thi hành",
+                "clauses": [
+                  {
+                    "clause_id": "doc:182825:part:1:article:10:clause:1",
+                    "number": "1",
+                    "content": "1. Thanh tra Chính phủ có trách nhiệm hướng\ndẫn, tổ chức tập huấn về công tác báo cáo theo quy định của Thông tư này, đảm bảo đáp ứng các yêu cầu của Chính phủ về chế độ báo cáo của cơ quan hành chính nhà nước.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:182825:part:1:article:10:clause:2",
+                    "number": "2",
+                    "content": "2. Bộ trưởng, Thủ trưởng cơ quan ngang\nbộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương, Thủ trưởng các cơ quan, tổ chức, đơn vị có trách nhiệm thực hiện chế độ thông tin, báo cáo theo quy định tại Thông tư này.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:182825:part:1:article:11",
+                "number": "11",
+                "title": "Hiệu lực thi hành Thông tư có hiệu lực từ ngày 10 tháng 5 năm 2021. Thông tư số 03/2013/TT-TTCP ngày 10 tháng 6 năm 2013 của Thanh tra Chính phủ quy định chế độ Báo cáo công tác thanh tra, giải quyết khiếu nại, tố cáo và phòng, chống tham nhũng hết hiệu lực kể từ ngày Thông tư này có hiệu lực. Trong quá trình thực hiện, nếu có vướng mắc hoặc có vấn đề mới phát sinh, các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ, Ủy ban nhân dân các cấp và cơ quan, tổ chức, cá nhân có liên quan phản ánh về Thanh tra Chính phủ để được hướng dẫn hoặc kịp thời sửa đổi, bổ sung./.",
+                "content": "Điều 11. Hiệu lực thi hành Thông tư có hiệu lực từ ngày 10 tháng 5 năm 2021. Thông tư số 03/2013/TT-TTCP ngày 10 tháng 6 năm 2013 của Thanh tra Chính phủ quy định chế độ Báo cáo công tác thanh tra, giải quyết khiếu nại, tố cáo và phòng, chống tham nhũng hết hiệu lực kể từ ngày Thông tư này có hiệu lực. Trong quá trình thực hiện, nếu có vướng mắc hoặc có vấn đề mới phát sinh, các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ, Ủy ban nhân dân các cấp và cơ quan, tổ chức, cá nhân có liên quan phản ánh về Thanh tra Chính phủ để được hướng dẫn hoặc kịp thời sửa đổi, bổ sung./.",
+                "clauses": [],
+                "points": []
+              }
+            ]
+          }
+        ],
+        "sections": [],
+        "articles": [],
+        "unstructured_blocks": []
+      }
+    ]
+  },
+  "issues": [],
+  "status": "ok",
+  "source_hash": "context_182825.json",
+  "stats": {
+    "source_chars": 13735,
+    "passage_chars": 13575,
+    "parts": 1,
+    "chapters": 3,
+    "sections": 0,
+    "articles": 11,
+    "clauses": 21,
+    "points": 20
+  }
+}

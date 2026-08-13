@@ -1,0 +1,966 @@
+{
+  "schema_version": "2.0",
+  "document_id": 180368,
+  "metadata": {
+    "name": "Thong-tu-03-2013-TT-NHNN-hoat-dong-thong-tin-tin-dung-Ngan-hang-nha-nuoc-167551",
+    "link": "https://thuvienphapluat.vn/van-ban/Tien-te-Ngan-hang/Thong-tu-03-2013-TT-NHNN-hoat-dong-thong-tin-tin-dung-Ngan-hang-nha-nuoc-167551.aspx",
+    "issuing_agency": "NGÂN HÀNG NHÀ NƯỚC VIỆT NAM",
+    "national_header": "CỘNG HÒA XÃ\r\n\n  HỘI CHỦ NGHĨA VIỆT NAM",
+    "motto": "Độc lập - Tự do - Hạnh phúc",
+    "document_number": "03/2013/TT-NHNN",
+    "issued_place": "Hà Nội",
+    "issued_date": "ngày 28 tháng 01 năm 2013",
+    "document_type": null,
+    "title": null
+  },
+  "administrative_header": {
+    "removed": true,
+    "removed_char_count": 168
+  },
+  "preamble": {
+    "text": "THÔNG TƯ QUY\nĐỊNH VỀ HOẠT ĐỘNG THÔNG TIN TÍN DỤNG CỦA NGÂN HÀNG NHÀ NƯỚC VIỆT NAM\nCăn cứ Luật Ngân hàng Nhà nước Việt Nam số 46/2010/QH12 ngày 16 tháng 6 năm 2010; Căn cứ Luật các tổ chức tín dụng số 47/2010/QH12 ngày 16 tháng 6 năm 2010; Căn cứ Nghị định số 96/2008/NĐ-CP ngày 26 tháng 8 năm 2008 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Ngân hàng Nhà nước Việt Nam; Theo đề nghị của Giám đốc Trung tâm Thông tin tín dụng; Thống đốc Ngân hàng Nhà nước Việt Nam ban hành Thông tư quy định về hoạt động thông tin tín dụng của Ngân hàng Nhà nước Việt Nam,\nChương 1.\nQUY ĐỊNH CHUNG",
+    "legal_bases": [
+      "Căn cứ Luật các tổ chức tín dụng số 47/2010/QH12 ngày 16 tháng 6 năm 2010",
+      "Căn cứ Nghị định số 96/2008/NĐ-CP ngày 26 tháng 8 năm 2008 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Ngân hàng Nhà nước Việt Nam"
+    ],
+    "proposals": [
+      "Theo đề nghị của Giám đốc Trung tâm Thông tin tín dụng"
+    ],
+    "enactment_formula": null
+  },
+  "passage": "THÔNG TƯ QUY\nĐỊNH VỀ HOẠT ĐỘNG THÔNG TIN TÍN DỤNG CỦA NGÂN HÀNG NHÀ NƯỚC VIỆT NAM\nCăn cứ Luật Ngân hàng Nhà nước Việt Nam số 46/2010/QH12 ngày 16 tháng 6 năm 2010; Căn cứ Luật các tổ chức tín dụng số 47/2010/QH12 ngày 16 tháng 6 năm 2010; Căn cứ Nghị định số 96/2008/NĐ-CP ngày 26 tháng 8 năm 2008 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Ngân hàng Nhà nước Việt Nam; Theo đề nghị của Giám đốc Trung tâm Thông tin tín dụng; Thống đốc Ngân hàng Nhà nước Việt Nam ban hành Thông tư quy định về hoạt động thông tin tín dụng của Ngân hàng Nhà nước Việt Nam,\nChương 1.\nQUY ĐỊNH CHUNG\nĐiều 1. Phạm vi điều chỉnh Thông tư này quy định về hoạt động thông tin tín dụng của Ngân hàng Nhà nước Việt Nam do Trung tâm Thông tin tín dụng làm đầu mối (Credit Information Centre, sau đây gọi là CIC) bao gồm:\n1. Cung cấp thông tin tín dụng cho Ngân\nhàng Nhà nước Việt Nam;\n2. Xử lý, lưu giữ, bảo mật dữ liệu thông tin\ntín dụng;\n3. Khai thác, sử dụng sản phẩm, dịch vụ\nthông tin tín dụng;\n4. Quyền và nghĩa vụ của các tổ chức, cá\nnhân có liên quan.\nĐiều 2. Đối tượng áp dụng\n1. Vụ, Cục, đơn vị thuộc bộ máy tổ chức\ncủa Ngân hàng Nhà nước Việt Nam, Ngân hàng Nhà nước chi nhánh tỉnh, thành phố trực thuộc Trung ương (sau đây gọi chung là đơn vị thuộc Ngân hàng Nhà nước Việt Nam).\n2. Tổ chức tín dụng, chi nhánh ngân hàng\nnước ngoài.\n3. Khách hàng vay.\n4. Tổ chức, cá nhân có liên quan.\nĐiều 3. Giải thích từ ngữ Trong Thông tư này, các từ ngữ dưới đây được hiểu như sau:\n1. Hoạt động thông tin tín dụng của Ngân\nhàng Nhà nước Việt Nam là hoạt động cung cấp, xử lý, lưu giữ, bảo mật dữ liệu thông tin tín dụng và khai thác, sử dụng sản phẩm, dịch vụ thông tin tín dụng (sau đây gọi là hoạt động thông tin tín dụng).\n2. Thông tin tín dụng là các thông tin về khách\nhàng vay và những thông tin liên quan đến khách hàng vay tại tổ chức tín dụng, chi nhánh ngân hàng nước ngoài.\n3. Thông tin nhận dạng là các thông tin\nnhằm xác định rõ về một khách hàng vay và phân biệt được với khách hàng vay khác.\n4. Khách hàng vay là\ntổ chức, cá nhân hoặc chủ thể khác theo quy định của pháp luật, có quan hệ tín dụng với tổ chức tín dụng, chi nhánh ngân hàng nước ngoài.\n5. Sản phẩm thông tin tín dụng là báo cáo\nthông tin, ấn phẩm do CIC tạo lập, cung cấp cho tổ chức, cá nhân trên cơ sở thông tin tín dụng thu thập được.\n6. Dịch vụ thông tin tín dụng là việc\ncung cấp sản phẩm thông tin tín dụng và các tiện ích khác của CIC cho tổ chức tín dụng, chi nhánh ngân hàng nước ngoài, tổ chức khác và cá nhân có nhu cầu.\n7. Cơ sở dữ liệu Thông tin tín dụng quốc\ngia là tập hợp các loại dữ liệu, sản phẩm thông tin tín dụng được quản lý, lưu giữ, khai thác sử dụng trên hệ thống công nghệ thông tin của CIC.\n8. Tổ chức tự nguyện tham gia hệ thống\nthông tin tín dụng (sau đây gọi là tổ chức tự nguyện) bao gồm:\na) Ngân hàng Phát\ntriển Việt Nam, công ty có chức năng mua bán nợ, công ty quản lý nợ và khai thác tài sản, công ty thông tin tín dụng, doanh nghiệp kinh doanh dịch vụ bảo hiểm, chứng khoán;\nb) Tổ chức trong và ngoài nước tham gia\ntài trợ tín dụng tại Việt Nam hoặc có nhu cầu cấp tín dụng cho tổ chức, cá nhân Việt Nam tại nước ngoài;\nc) Tổ chức khác có nhu cầu tham gia hệ\nthống thông tin tín dụng và được CIC chấp thuận.\n9. Thông tin tiêu cực về khách hàng vay\nlà thông tin về: nợ xấu; vi phạm nghĩa vụ thanh toán; các hành vi vi phạm pháp luật; bị khởi kiện; bị khởi tố và các thông tin bất lợi khác ảnh hưởng đến kết quả đánh giá khả năng trả nợ của khách hàng vay.\n10. Đơn vị sử dụng là các tổ chức có đăng\nký hoặc ký hợp đồng khai thác dịch vụ thông tin tín dụng với CIC.\n11. Người sử dụng là những cá nhân thuộc\ncác tổ chức quy định tại khoản 10 Điều này và khách hàng vay là cá nhân được CIC cấp tài khoản truy cập hệ thống công nghệ thông tin của CIC để cung cấp thông tin, khai thác, sử dụng dịch vụ thông tin tín dụng.\nĐiều 4. Mục đích của hoạt động thông tin tín dụng Hoạt động thông tin tín dụng nhằm tạo lập Cơ sở dữ liệu Thông tin tín dụng quốc gia để hỗ trợ:\n1. Ngân hàng Nhà nước Việt Nam (sau đây\ngọi là Ngân hàng Nhà nước) thực hiện chức năng quản lý, giám sát hoạt động ngân hàng, góp phần bảo đảm an toàn hệ thông ngân hàng Việt Nam.\n2. Tổ chức tín dụng ngăn ngừa và hạn chế rủi ro trong\nhoạt động kinh doanh.\n3. Khách hàng vay trong viêc tiếp cận\nnguồn vốn tín dụng của các tổ chức cấp tín dụng, góp phần thúc đẩy phát triển kinh tế - xã hội.\nĐiều 5. Nguyên tắc hoạt động thông tin tín dụng\n1. Tuân thủ chặt chẽ\ncác quy định của pháp luật.\n2. Đảm bảo tính trung thực, khách quan trong hoạt động\nthông tin tín dụng.\n3. Đảm bảo quyền, lợi ích của các tổ\nchức và cá nhân trong việc cung cấp thông tin tín dụng, khai thác sản phẩm thông tin tín dụng.\nĐiều 6. Các hành vi bị cấm trong hoạt động thông tin tín dụng\n1. Thu thập, cung cấp, sử dụng trái phép\ncác thông tin thuộc phạm vi, danh mục bí mật của Nhà nước.\n2. Cố ý làm sai lệch nội dung thông tin tín\ndụng, ảnh hưởng đến quyền và lợi ích hợp pháp của tổ chức, cá nhân liên quan.\n3. Cung cấp thông tin tín dụng cho tổ\nchức, cá nhân không liên quan, bất hợp pháp.\n4. Lợi dụng các hoạt động thông tin tín\ndụng để tư lợi cá nhân, xâm phạm lợi ích của Nhà nước, quyền và lợi ích hợp pháp của tổ chức, cá nhân.\n5. Cản trở hoạt động thu thập và khai\nthác thông tin tín dụng hợp pháp của tổ chức, cá nhân.\n6. Cung cấp sản phẩm thông tin tín\ndụng cho các đối tượng không được quy định tại Điều 10 Thông tư này.\nChương 2.\nHOẠT ĐỘNG THÔNG TIN TÍN DỤNG\nĐiều 7. Cung cấp thông tin tín dụng\n1. Tổ chức tín dụng,\nchi nhánh ngân hàng nước ngoài cung cấp cho CIC toàn bộ Hệ thống chỉ tiêu thông tin tín dụng quy định tại Phụ lục kèm theo Thông tư này và được phân thành các nhóm chỉ tiêu sau:\na) Thông tin nhận dạng khách hàng vay là cá\nnhân, hộ kinh doanh cá thể; thông tin nhận dạng khách hàng vay là doanh nghiệp, tổ chức khác; thông tin nhận dạng chủ thẻ tín dụng;\nb) Thông tin hợp đồng tín\ndụng;\nc) Thông tin quan hệ tín dụng của khách\nhàng vay;\nd) Thông tin tình trạng tài khoản thẻ tín\ndụng;\ne) Thông tin bảo đảm tiền vay;\ng) Thông tin tài chính của khách hàng vay\nlà doanh nghiệp;\nh) Thông tin đầu tư trái phiếu vào khách\nhàng vay là doanh nghiệp.\n2. Tổ chức tự nguyện thực hiện cung\ncấp cho CIC toàn bộ hoặc một phần Hệ thống chỉ tiêu thông tin tín dụng quy định tại Phụ lục kèm theo Thông tư này trên cơ sở thỏa thuận với CIC, đảm bảo nguyên tắc an toàn, bảo mật và các quy định khác của pháp luật.\n3. Việc cung cấp thông tin tín dụng quy\nđịnh tại khoản 1 và khoản 2 Điều này được thực hiện dưới dạng các tệp dữ liệu điện tử theo các nhóm chỉ tiêu thông tin tín dụng và hướng dẫn của CIC. Trường hợp đặc biệt, tổ chức tín dụng, chi nhánh ngân hàng nước ngoài, tổ chức tự nguyện có thể cung cấp bằng văn bản đối với một số nhóm hoặc toàn bộ các nhóm chỉ tiêu thông tin tín dụng nhưng phải được CIC chấp thuận.\nĐiều 8. Thời hạn cung cấp thông tin tín dụng\n1. Cung cấp dữ liệu phát sinh\nchậm nhất sau 03 ngày làm việc kể từ ngày phát sinh dữ liệu đối với các nhóm chỉ tiêu thông tin sau:\na) Các nhóm chỉ tiêu thông tin tại điểm\na, b và g khoản 1 Điều 7 Thông tư này khi có khách hàng vay mới;\nb) Các nhóm chỉ tiêu thông tin tại điểm\na, b khoản 1 Điều 7 Thông tư này khi có tối thiểu một chỉ tiêu trong nhóm thay đổi nội dung.\n2. Các nhóm chỉ tiêu thông tin tại điểm\nc, d, e và h khoản 1 Điều 7 Thông tư này cung cấp chậm nhất sau 05 ngày làm việc kể từ ngày cuối cùng của tháng liền kề trước đó.\n3. Nhóm chỉ tiêu thông tin tại điểm g khoản\n1 Điều 7 Thông tư này cung cấp trước ngày 30 tháng 4 của năm tiếp theo.\n4. Ngân hàng Chính sách xã hội, Quỹ\ntín dụng nhân dân, Tổ chức tài chính vi mô cung cấp dữ liệu phát sinh trong tháng chậm nhất sau 05 ngày làm việc kể từ ngày cuối cùng của tháng liền kề trước đó.\nĐiều 9. Xử lý, lưu giữ, bảo mật dữ liệu thông tin tín dụng\n1. Trên cơ sở thông tin thu nhận, CIC sử\ndụng các giải pháp công nghệ, nghiệp vụ để xử lý dữ liệu thông tin tín dụng bao gồm các khâu tiếp nhận, chuẩn hóa, làm sạch, ghép nối và cập nhật vào Cơ sở dữ liệu Thông tin tín dụng quốc gia.\n2. Dữ liệu thông tin tín dụng được lưu giữ\ntại CIC, tổ chức tín dụng, chi nhánh ngân hàng nước ngoài, tổ chức tự nguyện trong thời gian tối thiểu 05 năm, kể từ ngày phát sinh dữ liệu.\n3. Việc xử lý, lưu giữ dữ liệu thông tin\ntín dụng phải bảo đảm tính toàn vẹn, đầy đủ, không bị sai lệch thông tin trong quá trình xử lý, lưu giữ và chiết xuất được khi có yêu cầu.\n4. Dữ liệu thông tin tín\ndụng phải được bảo mật, đảm bảo không bị xâm nhập trái với quy định tại Thông tư này và quy định khác của pháp luật.\nĐiều 10. Đối tượng khai thác thông tin tín dụng\n1. Cơ quan quản lý nhà nước khai thác sản\nphẩm thông tin tín dụng phục vụ trực tiếp cho hoạt động nghiệp vụ về thanh tra, giám sát, điều tra, truy tố, xét xử, thi hành án; điều tra, thống kê xã hội và các mục đích khác theo quy định của pháp luật.\n2. Các đơn vị thuộc Ngân hàng Nhà nước\nkhai thác sản phẩm thông tin tín dụng phục vụ cho yêu cầu quản lý nhà nước của Ngân hàng Nhà nước.\n3. Tổ chức tín dụng, chi nhánh ngân hàng\nnước ngoài khai thác dịch vụ thông tin tín dụng phục vụ cho nhu cầu tìm kiếm khách hàng, đánh giá khả năng trả nợ của khách hàng, quản lý rủi ro tín dụng và các hoạt động nghiệp vụ ngân hàng khác.\n4. Các tổ chức tự nguyện khai thác dịch\nvụ thông tin tín dụng phục vụ cho mục đích đánh giá khách hàng và các mục đích khác theo quy định của pháp luật.\n5. Khách hàng vay khai thác dịch vụ thông\ntin tín dụng để kiểm tra thông tin về bản thân và phục vụ mục đích khác theo quy định của pháp luật.\n6. Ngoài đối tượng quy định tại các khoản\ntrên, tổ chức hoặc cá nhân khi khai thác dịch vụ thông tin tín dụng về khách hàng vay phải có sự đồng ý bằng văn bản của khách hàng đó.\nĐiều 11. Hạn chế khai thác thông tin tín dụng\n1. Thông tin tiêu cực về khách hàng\nvay chỉ được sử dụng để tạo lập sản phẩm thông tin tín dụng trong thời gian tối đa 05 năm, kể từ ngày kết thúc thông tin tiêu cực đó, trừ trường hợp pháp luật có quy định khác.\n2. Thông tin về các khoản nợ đã được xử\nlý bằng dự phòng rủi ro chỉ được cung cấp cho Ngân hàng Nhà nước và các cơ quan quản lý nhà nước khác theo quy định của pháp luật.\n3. Tổ chức tự nguyện, khách hàng vay khai\nthác dịch vụ thông tin tín dụng theo thoả thuận và cam kết với CIC trên cơ sở nguyên tắc tự nguyện đảm bảo tuân thủ các quy định của pháp luật.\n4. Tổ chức, cá nhân vi phạm quy định tại\nThông tư này và các quy định khác của pháp luật tùy theo tính chất, mức độ sẽ bị hạn chế một phần, tạm dừng trong một thời gian hoặc ngừng vĩnh viễn quyền khai thác dịch vụ thông tin tín dụng.\nChương 3.\nQUYỀN\nVÀ NGHĨA VỤ CỦA TỔ CHỨC, CÁ NHÂN CÓ LIÊN QUAN\nĐiều 12. Quyền và nghĩa vụ của Trung tâm Thông tin tín dụng\n1. Xây dựng và hướng dẫn hệ thống mã số, chỉ tiêu thông\ntin, mẫu tệp dữ liệu báo cáo, cách thức truyền tin; cấp quyền truy cập hệ thống cho người sử dụng.\n2. Thu nhận, xử lý, lưu giữ, bảo mật\nthông tin tín dụng về khách hàng vay từ tổ chức tín dụng, chi nhánh ngân hàng nước ngoài, tổ chức tự nguyện và cá nhân.\n3. Đôn đốc, kiểm tra, giám sát việc thực\nhiện cung cấp thông tin tín dụng của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài theo quy định tại Điều 7, 8 Thông tư này.\n4. Phối hợp với các đơn vị thuộc Ngân\nhàng Nhà nước tạo lập và cung cấp kịp thời sản phẩm thông tin tín dụng để đáp ứng yêu cầu quản lý nhà nước.\n5. Công khai thông\ntin về nguyên tắc, phạm vi sử dụng dịch vụ thông tin tín dụng, quy trình khai thác và sử dụng dịch vụ thông tin tín dụng, mức phí sử dụng dịch vụ thông tin tín dụng cho người sử dụng.\n6. Hỗ trợ đào tạo cán bộ về nghiệp vụ thông tin tín\ndụng cho tổ chức tín dụng, chi nhánh ngân hàng nước ngoài và tổ chức tự nguyện khi có nhu cầu.\n7. Ký kết hợp đồng và\nthu phí sử dụng dịch vụ thông tin tín dụng đối với các đơn vị sử dụng, người sử dụng theo quy định của Ngân hàng Nhà nước và CIC.\n8. Quyết định mức thu dịch vụ trên nguyên tắc\nbảo đảm bù đắp đủ chi phí hoạt động.\n9. Hạn chế hoặc từ chối cung cấp sản\nphẩm, dịch vụ thông tin tín dụng cho tổ chức, cá nhân không tuân thủ quy định tại Thông tư này và các cam kết khác với CIC.\n10. Ban hành tiêu chí và tổ chức thực\nhiện việc đánh giá chất lượng cung cấp thông tin tín dụng; áp dụng các biện pháp khuyến khích đối với tổ chức, cá nhân thực hiện tốt hoạt động thông tin tín dụng; đề xuất việc xử lý vi phạm quy định về hoạt động thông tin tín dụng.\n11. Tổ chức\nlấy ý kiến đánh giá của đơn vị sử dụng, người sử dụng về chất lượng dịch vụ thông tin tín dụng tối thiểu một năm một lần.\nĐiều 13. Quyền và nghĩa vụ của các đơn vị liên quan thuộc Ngân hàng Nhà nước\n1. Các đơn vị có liên quan thuộc Ngân\nhàng Nhà nước trong phạm vi chức năng, nhiệm vụ của mình được khai thác sản phẩm thông tin tín dụng phục vụ hoạt động quản lý nhà nước theo quy định tại Thông tư này.\n2. Trách nhiệm phối hợp với CIC\na) Cơ quan Thanh tra, giám sát Ngân hàng\n- Cung cấp cho CIC các thông tin sau: danh sách tổ chức tín dụng, chi nhánh, đơn vị trực thuộc tổ chức tín dụng, chi nhánh ngân hàng nước ngoài được thành lập, giải thể, phá sản, mua bán, sáp nhập; cổ đông hoặc thành viên sáng lập, cổ đông lớn của tổ chức tín dụng; vốn tự có của tổ chức tín dụng và các thông tin liên quan đến hoạt động tín dụng của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài; - Chủ trì và phối hợp với CIC thực hiện thanh tra, kiểm tra hoạt động thông tin tín dụng tại tổ chức tín dụng, chi nhánh ngân hàng nước ngoài.\nb) Vụ\nDự báo, thống kê tiền tệ cung cấp cho CIC số liệu thống kê về hoạt động tín dụng của ngành;\nc) Vụ Quản lý Ngoại hối cung cấp cho CIC\nsố liệu về tình hình vay, trả nợ nước ngoài của tổ chức, cá nhân trong nước theo thẩm quyền;\nd) Vụ Tín dụng cung cấp cho\nCIC các trường hợp được cho vay vượt quy định của Ngân hàng Nhà nước;\ne) Ngân hàng Nhà nước chi nhánh tỉnh,\nthành phố trực thuộc Trung ương cung cấp cho CIC số liệu về tình hình vay, trả nợ nước ngoài của các tổ chức, cá nhân trong nước; phối hợp với CIC trong việc thực hiện hoạt động thông tin tín dụng trên địa bàn.\nĐiều 14. Quyền và nghĩa vụ của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài\n1. Cung cấp và chịu trách nhiệm về tính\nchính xác, đầy đủ, kịp thời của thông tin tín dụng theo quy định tại Điều 7, 8 Thông tư này và hướng dẫn của CIC.\n2. Xây dựng, thiết lập hệ thống công nghệ\nthông tin đáp ứng yêu cầu tạo lập dữ liệu, kiểm soát dữ liệu cung cấp cho CIC; ban hành các quy định nội bộ và quản lý hệ thống chỉ tiêu thông tin tín dụng trong toàn hệ thống.\n3. Khai thác, sử dụng dịch vụ thông tin\ntín dụng theo quy định tại Điều 11 Thông tư này và hướng dẫn của CIC.\n4. Kiểm tra, xác minh, điều chỉnh dữ liệu\nsai sót theo yêu cầu của CIC, khách hàng vay hoặc khi phát hiện sai sót.\n5. Thanh toán đầy đủ,\nkịp thời phí khai thác dịch vụ thông tin tín dụng theo thỏa thuận tại hợp đồng.\n6. Cử cán bộ, nhân viên tham gia các khóa\nđào tạo nghiệp vụ thông tin tín dụng do CIC tổ chức hoặc phối hợp tổ chức.\nĐiều 15. Quyền và nghĩa vụ của tổ chức tự nguyện tham gia hệ thống thông tin tín dụng\n1. Cung cấp và chịu trách nhiệm về tính\nchính xác, đầy đủ, kịp thời của thông tin tín dụng theo quy định của pháp luật và các cam kết với CIC.\n2. Kiểm tra, xác minh, điều chỉnh dữ liệu\nsai sót theo yêu cầu của CIC, khách hàng vay hoặc khi phát hiện sai sót.\n3. Khai thác, sử dụng dịch vụ thông tin\ntín dụng theo quy định tại Điều 10, 11 Thông tư này và các cam kết với CIC.\n4. Thanh toán đầy đủ,\nkịp thời phí khai thác dịch vụ thông tin tín dụng theo thỏa thuận tại hợp đồng.\n5. Cử cán bộ, nhân viên tham gia các khóa\nđào tạo nghiệp vụ thông tin tín dụng do CIC tổ chức hoặc phối hợp tổ chức.\nĐiều 16. Quyền và nghĩa vụ của khách hàng vay\n1. Khai thác miễn phí thông tin tín dụng\nvề bản thân một lần trong một năm, bao gồm các chỉ tiêu thông tin tín dụng tại điểm a, c, d và e khoản 1 Điều 7 Thông tư này.\n2. Sử dụng các sản phẩm thông tin tín\ndụng khác về bản thân theo hướng dẫn của CIC.\n3. Yêu cầu CIC, tổ chức tín dụng, tổ chức\nkhác có liên quan xem xét, điều chỉnh dữ liệu thông tin tín dụng về bản thân nếu phát hiện có sai sót.\n4. Khiếu nại khi phát hiện thông tin tín\ndụng của mình có sai sót theo quy định tại Điều 18 Thông tư này.\n5. Khách hàng vay có nghĩa vụ cung cấp\nđầy đủ, trung thực thông tin tín dụng cho CIC hoặc tổ chức tín dụng hoặc tổ chức khác có liên quan trong quá trình xử lý khiếu nại.\n6. Thanh toán đầy đủ,\nkịp thời phí khai thác dịch vụ thông tin tín dụng theo quy định của CIC.\nChương 4.\nĐIỀU\nCHỈNH DỮ LIỆU SAI SÓT, GIẢI QUYẾT KHIẾU NẠI VÀ XỬ LÝ VI PHẠM\nĐiều 17. Điều chỉnh dữ liệu sai sót\n1. Khi phát hiện dữ liệu có sai sót, tổ\nchức tín dụng, chi nhánh ngân hàng nước ngoài, tổ chức tự nguyện phải gửi lại dữ liệu thông tin tín dụng và có văn bản của người có thẩm quyền nêu rõ lý do sai sót và đề nghị CIC điều chỉnh dữ liệu sai sót đó.\n2. Trường hợp CIC phát hiện hoặc\nnghi ngờ dữ liệu có sai sót, CIC phối hợp với tổ chức tín dụng, chi nhánh ngân hàng nước ngoài, tổ chức tự nguyện để xem xét, điều chỉnh lại dữ liệu theo trình tự sau:\na) Dữ liệu không đúng tiêu chuẩn như sai\nmẫu tệp, thiếu chỉ tiêu thông tin bắt buộc, trùng lặp thông tin hoặc các lỗi kỹ thuật khác, CIC gửi trả lại toàn bộ dữ liệu hoặc phần dữ liệu sai sót. Trong thời hạn 01 ngày làm việc, tổ chức tín dụng, chi nhánh ngân hàng nước ngoài, tổ chức tự nguyện phải chỉnh sửa và gửi lại dữ liệu báo cáo;\nb) Dữ liệu nghi ngờ có sai sót được CIC\ngửi trả lại toàn bộ dữ liệu hoặc phần dữ liệu có nghi ngờ. Trong thời hạn 01 ngày làm việc, tổ chức tín dụng, chi nhánh ngân hàng nước ngoài, tổ chức tự nguyện phải kiểm tra lại dữ liệu và thông báo kết quả cho CIC, nếu có sai sót thực hiện điều chỉnh dữ liệu theo quy định tại khoản 1 Điều này.\nĐiều 18. Giải quyết khiếu nại\n1. Trường hợp khách hàng vay phát\nhiện thông tin tín dụng về bản thân có sai sót, khách hàng vay có quyền khiếu nại với CIC, tổ chức tín dụng, chi nhánh ngân hàng nước ngoài hoặc tổ chức tự nguyện (sau đây gọi là tổ chức tiếp nhận khiếu nại) để yêu cầu kiểm tra, điều chỉnh lại thông tin, nhưng không được lợi dụng khiếu nại sai sự thật. Việc khiếu nại có thể thực hiện qua hệ thống điện tử hoặc gửi bằng văn bản, trong đó phải nêu rõ lý do kèm theo các tài liệu, căn cứ chứng minh dữ liệu có sai sót.\n2. Trong thời hạn 05 ngày làm việc kể từ\nngày nhận được khiếu nại, tổ chức tiếp nhận khiếu nại phải thông báo cho khách hàng vay biết. Trường hợp cần bổ sung thông tin để có cơ sở xác minh, giải quyết, tổ chức tiếp nhận khiếu nại phải thông báo để khách hàng vay cung cấp thông tin, tài liệu liên quan.\n3. Trong thời hạn 10 ngày làm việc, kể từ\nngày tiếp nhận khiếu nại hợp lệ, tổ chức tiếp nhận khiếu nại phải xem xét, điều chỉnh dữ liệu sai sót và thông báo cho khách hàng vay biết. Trường hợp phải thực hiện việc kiểm tra, xác minh nội dung yêu cầu khiếu nại tại các cơ quan, tổ chức có liên quan, tổ chức tiếp nhận khiếu nại được kéo dài thời gian giải quyết khiếu nại theo tình hình thực tế nhưng phải thông báo cho khách hàng vay biết về nguyên nhân kéo dài thời gian.\n4. Trường hợp thông tin tín dụng\nbị sai sót gây bất lợi cho khách hàng vay, CIC phải gửi thông báo đính chính sai sót cho đơn vị sử dụng. Khi nhận được thông báo đính chính sai sót, đơn vị sử dụng phải xem xét lại quyết định cấp tín dụng.\n5. Trong thời hạn 02 ngày làm việc kể từ\nkhi có kết quả giải quyết khiếu nại, tổ chức tiếp nhận khiếu nại phải thông báo cho khách hàng vay về kết quả giải quyết khiếu nại.\nĐiều 19. Xử lý vi phạm Tổ chức, cá nhân vi phạm quy định tại Thông tư này, tùy theo tính chất và mức độ vi phạm sẽ bị xử lý theo quy định của pháp luật.\nChương 5.\nĐIỀU KHOẢN THI HÀNH\nĐiều 20. Hiệu lực thi hành Thông tư này có hiệu lực thi hành kể từ ngày 01 tháng 7 năm 2013 và thay thế Quyết định số 51/2007/QĐ-NHNN ngày 31 tháng 12 năm 2007 của Thống đốc Ngân hàng Nhà nước về việc ban hành Quy chế hoạt động thông tin tín dụng.\nĐiều 21. Tổ chức thực hiện\n1. Giám đốc Trung tâm\nThông tin tín dụng có trách nhiệm hướng dẫn, tổ chức thực hiện Thông tư này.\n2. Thủ trưởng các đơn vị thuộc Ngân hàng\nNhà nước, Chủ tịch Hội đồng quản trị, Chủ tịch Hội đồng thành viên và Tổng giám đốc (Giám đốc) các tổ chức tín dụng, chi nhánh ngân hàng nước ngoài, tổ chức và cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này.\nNơi nhận:\n-\nNhư\nĐiều 21; - Ban Lãnh đạo Ngân hàng Nhà nước; - Văn phòng Chính phủ (2 bản); - Bộ Tư pháp (để kiểm tra); - Công báo; - Lưu: VP, PC, TTTD. KT. THỐNG ĐỐC PHÓ THỐNG ĐỐC Đặng Thanh Bình PHỤ LỤC HỆ THỐNG CHỈ TIÊU THÔNG TIN TÍN DỤNG (Ban hành kèm theo Thông tư số 03/2013/TT-NHNN ngày 28/01/2013) STT Mã chỉ tiêu báo cáo Mã chỉ tiêu gốc Tên chỉ tiêu Định dạng Ghi chú Thông tin khai báo chung 1 KB001 KB001 Họ và tên người báo cáo thông tin C 2 KB002 KB002 Số điện thoại người báo cáo thông tin C 3 KB003 KB003 Vốn tự có của TCTD N Thông tin nhận dạng khách hàng vay là cá nhân/Hộ kinh doanh cá thể 4 CN001 CN001 Mã chi nhánh TCTD C 5 CN002 CN002 Mã khách hàng do TCTD cấp C 6 CN003 CN003 Họ và tên khách hàng vay C 7 CN004 CN004 Giới tính N Nam = 1, nữ = 0 8 CN005 CN005 Ngày sinh D 9 CN006 CN006 Địa chỉ C 10 CN007 CN007 Mã tỉnh, thành phố C Bảng mã 01 11 CN008 CN008 Số điện thoại C 12 CN009 CN009 Mã Quốc tịch C Bảng mã 02 13 CN010 CN010 Chứng minh nhân dân CN0101 CN0101 Số chứng minh nhân dân C CN0102 CN0102 Ngày cấp chứng minh nhân dân D 14 CN011 CN011 Giấy tờ cá nhân khác nếu có CN0111xx CN0111 Số giấy tờ cá nhân xx C xx = Bảng mã 03 CN0112xx CN0112 Ngày cấp giấy tờ cá nhân xx D 15 CN012 CN012 Mã số thuế C 16 CN013 CN013 Đăng ký kinh doanh Đối với hộ kinh doanh cá thể CN0131 CN0131 Số đăng ký kinh doanh C CN0132 CN0132 Ngày cấp đăng ký kinh doanh D 17 CN014 CN014 Họ tên vợ hoặc chồng C Nếu có 18 CN015 CN015 Số Chứng minh nhân dân của vợ/chồng C Thông tin nhận dạng khách hàng vay là doanh nghiệp/tổ chức khác 19 TC001 TC001 Mã chi nhánh TCTD C 20 TC002 TC002 Mã khách hàng do TCTD cấp C 21 TC003 TC003 Tên doanh nghiệp/tổ chức khác C 22 TC004 TC004 Tên đối ngoại C 23 TC005 TC005 Tên viết tắt C 24 TC006 TC006 Địa chỉ C 25 TC007 TC007 Mã tỉnh, thành phố C Bảng mã 01 26 TC008 TC008 Thông tin liên lạc khác Nếu có TC0081 TC0081 Điện thoại C TC0082 TC0082 Fax C TC0083 TC0083 Website C TC0084 TC0084 Email C 27 TC009 TC009 Mã số thuế (mã số doanh nghiệp đối với doanh nghiệp mới hoặc điều chỉnh) C 28 TC010 TC010 Ngày cấp mã số thuế D Ngày cấp lần đầu 29 TC011 TC011 Số quyết định thành lập (áp dụng đối với tổ chức không phải là doanh nghiệp như: tổ chức xã hội, đơn vị sự nghiệp...) C 30 TC012 TC012 Ngày cấp quyết định thành lập D 31 TC013 TC013 Số đăng ký kinh doanh C Số Giấy phép đầu tư nếu DN có vốn đầu tư nước ngoài 32 TC014 TC014 Ngày cấp đăng ký kinh doanh D 33 TC015 TC015 Mã loại hình doanh nghiệp/tổ chức khác C Bảng mã 04 34 TC016 TC016 Mã ngành nghề kinh doanh N Bảng mã 05 35 TC017 TC017 Vốn điều lệ TC0171yy TC0171 Số tiền nguyên tệ N yy = Bảng mã 06 TC0172yy TC0172 Mã tiền tệ yy C 36 TC018 TC018 Người đại diện theo pháp luật C 37 TC019 TC019 Số chứng minh nhân dân người đại diện C 38 TC020zz TC020 Họ tên thành viên HĐQT/HĐTV thứ zz C zz lấy từ 01 đến 99 (nếu có) 39 TC021zz TC021 Địa chỉ thành viên HĐQT/HĐTV thứ zz C 40 TC022zz TC022 Số chứng minh nhân dân HĐQT/HĐTV thứ zz C 41 TC023 TC023 Họ và tên Tổng giám đốc/Giám đốc C 42 TC024 TC024 Số chứng minh nhân dân Tổng giám đốc/Giám đốc C Thông tin Hợp đồng tín dụng 43 HD001 HD001 Mã chi nhánh TCTD C 44 HD002 HD002 Mã khách hàng do TCTD cấp C 45 HD003 HD003 Tên khách hàng vay C 46 HD004 HD004 Số Hợp đồng tín dụng C 47 HD005 HD005 Ngày ký hợp đồng D 48 HD006 HD006 Ngày kết thúc hợp đồng D 49 HD007 HD007 Ngày phát sinh D 50 HD008 HD008 Lãi suất (% năm) N 51 HD009 HD009 Mục đích sử dụng tiền vay C Bảng mã 07 52 HD010 HD010 Loại vay C Bảng mã 08 53 HD011 HD011 Mã tiền tệ C Bảng mã 06 54 HD012 HD012 Hạn mức tín dụng trên hợp đồng N 55 HD013 HD013 Số tiền cho vay trong kỳ N 56 HD014 HD014 Số tiền thu nợ trong kỳ N 57 HD015 HD015 Số dư nợ theo nguyên tệ N 58 HD016 HD016 Nhóm nợ C Bảng mã 09 59 HD017 HD017 Ngày trả nợ kỳ tiếp theo D 60 HD018 HD018 Số tiền trả nợ kỳ tiếp theo N 61 HD019 HD019 Số ngày chậm trả nợ thực tế N 62 HD020 HD020 Số tiền chậm trả nợ thực tế N 63 HD021 HD021 Số lần gia hạn nợ N 64 HD022 HD022 Số tiền gia hạn nợ N Thông tin quan hệ tín dụng của khách hàng vay 65 DN001 DN001 Mã chi nhánh TCTD C 66 DN002 DN002 Mã khách hàng do TCTD cấp C 67 DN003 DN003 Tên khách hàng vay C 68 DN004 DN004 Ngày báo cáo D 69 DNA05aabbcc DNA05 Dư nợ cam kết nội bảng theo loại vay aa, loại tiền vay bb, nhóm nợ cc N aa = Bảng mã 08; bb = Bảng mã 06; cc = Bảng mã 09 70 DNA06 DNA06 Lãi cho vay chưa thu hạch toán nội bảng N 71 DNA07 DNA07 Dự phòng phải trích nội bảng N 72 DNA08 DNA08 Dự phòng đã trích nội bảng N 73 DNB09bbcc DNB09 Dư nợ cam kết ngoại bảng theo loại tiền vay bb, nhóm nợ cc N bb = Bảng mã 06; cc = Bảng mã 09 74 DNB10 DNB10 Dự phòng phải trích ngoại bảng N 75 DNB11 DNB11 Dự phòng đã trích ngoại bảng N 76 DNB12 DNB12 Lãi cho vay chưa thu hạch toán ngoại bảng N 77 DNB13 DNB13 Số lần gia hạn nợ, điều chỉnh kỳ hạn nợ N Thông tin nhận dạng chủ thẻ tín dụng 78 TH000 TH000 Mã chi nhánh TCTD C 79 TH001 TH001 Mã khách hàng do TCTD cấp C 80 TH002 TH002 Họ và tên chủ thẻ chính C 81 TH003 TH003 Địa chỉ C 82 TH004 TH004 Mã tỉnh, thành phố C Bảng mã 01 83 TH005 TH005 Số điện thoại C 84 TH006 TH006 Quốc tịch C Bảng mã 02 85 TH007 TH007 Giới tính N Nam = 1, nữ = 0 86 TH008 TH008 Ngày sinh D 87 TH009 TH009 Chứng minh nhân dân TH0091 TH0091 Số chứng minh nhân dân C TH0092 TH0092 Ngày cấp chứng minh nhân dân D 88 TH010 TH010 Giấy tờ cá nhân khác TH0101xx TH0101 Số giấy tờ xx C xx = Bảng mã 03 TH0102xx TH0102 Ngày cấp giấy tờ xx D 89 TH011 TH011 Mã số thuế C 90 TH012 TH012 Họ tên vợ hoặc chồng C Nếu có 91 TH013 TH013 Số chứng minh nhân dân của vợ/chồng C 92 TH014zz TH014 Họ tên chủ thẻ phụ zz C zz lấy từ 01 đến 99 93 TH015zz TH015 Số chứng minh nhân dân chủ thẻ phụ zz C Thông tin tình trạng tài khoản thẻ tín dụng 94 TH000 TH000 Mã chi nhánh TCTD C 95 TH001 TH001 Mã khách hàng do TCTD cấp C 96 TH002 TH002 Họ và tên chủ thẻ chính C 97 TH101 TH101 Số Hợp đồng C 98 TH102 TH102 Loại thẻ C 99 TH103 TH103 Ngày mở thẻ D 100 TH104 TH104 Ngày hết hạn D 101 TH105 TH105 Ngày đóng thẻ D Với thẻ được đóng trước hạn 102 TH106 TH106 Hạn mức tín dụng N 103 TH107 TH107 Ngày sao kê D 104 TH108 TH108 Số tiền phải thanh toán N 105 TH109 TH109 Số tiền phải thanh toán tối thiểu N 106 TH110 TH110 Số tiền đã thanh toán N 107 TH111 TH111 Số tiền quá hạn N 108 TH112 TH112 Số ngày quá hạn N 109 TH113 TH113 Số lần quá hạn N Thông tin bảo đảm tiền vay 110 TS001 TS001 Mã chi nhánh TCTD C 111 TS002 TS002 Mã khách hàng do TCTD cấp C 112 TS003 TS003 Tên khách hàng vay C Khách hàng vay không có tài sản bảo đảm 113 TS004 TS004 Nơi làm việc C 114 TS005 TS005 Vị trí làm việc C 115 TS006 TS006 Số năm làm việc N 116 TS007 TS007 Thu nhập bình quân hàng tháng N Khách hàng vay có tài sản bảo đảm 117 TS008 TS008 Mã số tài sản bảo đảm do TCTD cấp C 118 TS009 TS009 Mã loại tài sản bảo đảm C Bảng mã 10 119 TS010 TS010 Tên chủ sở hữu tài sản C 120 TS011 TS011 Số chứng minh nhân dân của chủ sở hữu C 121 TS012 TS012 Mã số thuế của chủ sở hữu C 122 TS013 TS013 Ngày bắt đầu D Ngày cầm cố, thế chấp tài sản 123 TS014 TS014 Ngày kết thúc D Ngày giải chấp tài sản 124 TS015 TS015 Giá trị tài sản N 125 TS016 TS016 Ngày định giá D 126 TS017 TS017 Mô tả tài sản C Thông tin tài chính của khách hàng vay là doanh nghiệp Các chỉ tiêu trong Bảng cân đối kế toán 127 BC000yyyy BC000 Mã chi nhánh TCTD C 128 BC001yyyy BC001 Mã khách hàng do tổ chức tín dụng cấp C 129 BC002yyyy BC002 Tên khách hàng vay C 130 BC003yyyy BC003 Năm tài chính C 131 BC004yyyy BC004 Đơn vị tính C 132 BC005yyyy BC005 Loại tiền C Bảng mã 06 133 BC006yyyy BC006 Kiểm toán C (1=Có, 0=không) 134 BC007yyyy BC007 Báo cáo hợp nhất C (1=Có, 0=không) 135 CD100yyyy CD100 Tài sản ngắn hạn N 136 CD110yyyy CD110 Tiền và các khoản tương đương tiền N 137 CD111yyyy CD111 Tiền N 138 CD112yyyy CD112 Các khoản tương đương tiền N 139 CD120yyyy CD120 Các khoản đầu tư tài chính ngắn hạn N 140 CD121yyyy CD121 Đầu tư ngắn hạn N 141 CD129yyyy CD129 Dự phòng giảm giá đầu tư ngắn hạn N 142 CD130yyyy CD130 Các khoản phải thu ngắn hạn N 143 CD131yyyy CD131 Phải thu khách hàng N 144 CD132yyyy CD132 Trả trước cho người bán N 145 CD133yyyy CD133 Phải thu nội bộ ngắn hạn N 146 CD134yyyy CD134 Phải thu theo tiến độ kế hoạch hợp đồng xây dựng N 147 CD135yyyy CD135 Các khoản phải thu khác N 148 CD139yyyy CD139 Dự phòng phải thu ngắn hạn khó đòi N 149 CD140yyyy CD140 Hàng tồn kho N 150 CD141yyyy CD141 Hàng tồn kho N 151 CD149yyyy CD149 Dự phòng giảm giá hàng tồn kho N 152 CD150yyyy CD150 Tài sản ngắn hạn khác N 153 CD151yyyy CD151 Chi phí trả trước ngắn hạn N 154 CD152yyyy CD152 Thuế GTGT được khấu trừ N 155 CD154yyyy CD154 Thuế và các khoản khác phải thu Nhà nước N 156 CD158yyyy CD158 Tài sản ngắn hạn khác N 157 CD200yyyy CD200 Tài sản dài hạn N 158 CD210yyyy CD210 Các khoản phải thu dài hạn N 159 CD211yyyy CD211 Phải thu dài hạn của khách hàng N 160 CD212yyyy CD212 Vốn kinh doanh ở đơn vị trực thuộc N . 161 CD213yyyy CD213 Phải thu dài hạn nội bộ N 162 CD218yyyy CD218 Phải thu dài hạn khác N 163 CD219yyyy CD219 Dự phòng phải thu dài hạn khó đòi N 164 CD220yyyy CD220 Tài sản cố định N 165 CD221yyyy CD221 Tài sản cố định hữu hình N 166 CD222yyyy CD222 Nguyên giá N 167 CD223yyyy CD223 Giá trị hao mòn lũy kế N 168 CD224yyyy CD224 Tài sản cố định thuê tài chính N 169 CD225yyyy CD225 Nguyên giá N 170 CD226yyyy CD226 Giá trị hao mòn lũy kế N 171 CD227yyyy CD227 Tài sản cố định vô hình N 172 CD228yyyy CD228 Nguyên giá N 173 CD229yyyy CD229 Giá trị hao mòn lũy kế N 174 CD230yyyy CD230 Chi phí xây dựng cơ bản dở dang N 175 CD240yyyy CD240 Bất động sản đầu tư N 176 CD241yyyy CD241 Nguyên giá N 177 CD242yyyy CD242 Giá trị hao mòn lũy kế N 178 CD250yyyy CD250 Các khoản đầu tư tài chính dài hạn N 179 CD251yyyy CD251 Đầu tư vào công ty con N 180 CD252yyyy CD252 Đầu tư vào công ty liên kết, liên doanh N 181 CD258yyyy CD258 Đầu tư dài hạn khác N 182 CD259yyyy CD259 Dự phòng giảm giá đầu tư tài chính dài hạn N 183 CD260yyyy CD260 Tài sản dài hạn khác N 184 CD261yyyy CD261 Chi phí trả trước dài hạn N 185 CD262yyyy CD262 Tài sản thuế thu nhập hoãn lại N 186 CD268yyyy CD268 Tài sản dài hạn khác N 187 CD270yyyy CD270 Tổng cộng tài sản N 188 CD300yyyy CD300 Nợ phải trả N 189 CD310yyyy CD310 Nợ ngắn hạn N 190 CD311yyyy CD311 Vay và nợ ngắn hạn N 191 CD312yyyy CD312 Phải trả người bán N 192 CD313yyyy CD313 Người mua trả tiền trước N 193 CD314yyyy CD314 Thuế và các khoản phải nộp Nhà nước N 194 CD315yyyy CD315 Phải trả người lao động N 195 CD316yyyy CD316 Chi phí phải trả N 196 CD317yyyy CD317 Phải trả nội bộ N 197 CD318yyyy CD318 Phải trả theo tiến độ kế hoạch hợp đồng xây dựng N 198 CD319yyyy CD319 Các khoản phải trả, phải nộp ngắn hạn khác N 199 CD320yyyy CD320 Dự phòng phải trả ngắn hạn N 200 CD330yyyy CD330 Nợ dài hạn N 201 CD331yyyy CD331 Phải trả dài hạn người bán N 202 CD332yyyy CD332 Phải trả dài hạn nội bộ N 203 CD333yyyy CD333 Phải trả dài hạn khác N 204 CD334yyyy CD334 Vay và nợ dài hạn N 205 CD335yyyy CD335 Thuế thu nhập hoãn lại phải trả N 206 CD336yyyy CD336 Dự phòng trợ cấp mất việc làm N 207 CD337yyyy CD337 Dự phòng phải trả dài hạn N 208 CD400yyyy CD400 Vốn chủ sở hữu N 209 CD410yyyy CD410 Vốn chủ sở hữu N 210 CD411yyyy CD411 Vốn đầu tư của chủ sở hữu N 211 CD412yyyy CD412 Thặng dư vốn cổ phần N 212 CD413yyyy CD413 Vốn khác của chủ sở hữu N 213 CD414yyyy CD414 Cổ phiếu quỹ N 214 CD415yyyy CD415 Chênh lệch đánh giá lại tài sản N 215 CD416yyyy CD416 Chênh lệch tỷ giá hối đoái N 216 CD417yyyy CD417 Quỹ đầu tư phát triển N 217 CD418yyyy CD418 Quỹ dự phòng tài chính N 218 CD419yyyy CD419 Quỹ khác thuộc vốn chủ sở hữu N 219 CD420yyyy CD420 Lợi nhuận sau thuế chưa phân phối N 220 CD421yyyy CD421 Nguồn vốn đầu tư XDCB N 221 CD430yyyy CD430 Nguồn kinh phí và quỹ khác N 222 CD431yyyy CD431 Quỹ khen thưởng, phúc lợi N 223 CD432yyyy CD432 Nguồn kinh phí N 224 CD433yyyy CD433 Nguồn kinh phí đã hình thành TSCĐ N 225 CD439yyyy CD439 Lợi ích cổ đông thiểu số N 226 CD440yyyy CD440 Tổng cộng nguồn vốn N Các chỉ tiêu trong Báo cáo kết quả kinh doanh 227 KQ01yyyy KQ01 Doanh thu bán hàng và cung cấp dịch vụ N 228 KQ02yyyy KQ02 Các khoản giảm trừ doanh thu N 229 KQ10yyyy KQ10 Doanh thu thuần về bán hàng và cung cấp dịch vụ N 230 KQ11yyyy KQ11 Giá vốn hàng bán N 231 KQ20yyyy KQ20 Lợi nhuận gộp về bán hàng và cung cấp dịch vụ N 232 KQ21yyyy KQ21 Doanh thu hoạt động tài chính N 233 KQ22yyyy KQ22 Chi phí tài chính N 234 KQ23yyyy KQ23 Trong đó: Chi phí lãi vay N 235 KQ24yyyy KQ24 Chi phí bán hàng N 236 KQ25yyyy KQ25 Chi phí quản lý doanh nghiệp N 237 KQ30yyyy KQ30 Lợi nhuận thuần từ hoạt động kinh doanh N 238 KQ31yyyy KQ31 Thu nhập khác N 239 KQ32yyyy KQ32 Chi phí khác N 240 KQ40yyyy KQ40 Lợi nhuận khác N 241 KQ50yyyy KQ50 Tổng lợi nhuận kế toán trước thuế N 242 KQ51yyyy KQ51 Chi phí thuế TNDN hiện hành N 243 KQ52yyyy KQ52 Chi phí thuế TNDN hoãn lại N 244 KQ60yyyy KQ60 Lợi nhuận sau thuế thu nhập doanh nghiệp N 245 KQ70yyyy KQ70 Lãi cơ bản trên cổ phiếu N Các chỉ tiêu trong báo cáo lưu chuyển tiền tệ (trực tiếp) Lưu chuyển tiền từ hoạt động kinh doanh 246 LCT01yyyy LCT01 Tiền thu từ bán hàng, cung cấp dịch vụ và doanh thu khác N 247 LCT02yyyy LCT02 Tiền chi trả cho người cung cấp hàng hóa và dịch vụ N 248 LCT03yyyy LCT03 Tiền chi trả cho người lao động N 249 LCT04yyyy LCT04 Tiền chi trả lãi vay N 250 LCT05yyyy LCT05 Tiền chi nộp thuế thu nhập doanh nghiệp N 251 LCT06yyyy LCT06 Tiền thu khác từ hoạt động kinh doanh N 252 LCT07yyyy LCT07 Tiền chi khác cho hoạt động kinh doanh N 253 LCT20yyyy LCT20 Lưu chuyển tiền thuần từ hoạt động kinh doanh N Lưu chuyển tiền từ hoạt động đầu tư 254 LCT21yyyy LCT21 Tiền chi để mua sắm, xây dựng TSCĐ và các tài sản dài hạn khác N 255 LCT22yyyy LCT22 Tiền thu từ thanh lý, nhượng bán TSCĐ và các tài sản dài hạn khác N 256 LCT23yyyy LCT23 Tiền chi cho vay, mua các công cụ nợ của đơn vị khác N 257 LCT24yyyy LCT24 Tiền thu hồi cho vay, bán lại các công cụ nợ của đơn vị khác N 258 LCT25yyyy LCT25 Tiền chi đầu tư góp vốn vào đơn vị khác N 259 LCT26yyyy LCT26 Tiền thu hồi đầu tư góp vốn vào đơn vị khác N 260 LCT27yyyy LCT27 Tiền thu lãi cho vay, cổ tức và lợi nhuận được chia N 261 LCT30yyyy LCT30 Lưu chuyển tiền thuần từ hoạt động đầu tư N Lưu chuyển tiền từ hoạt động tài chính 262 LCT31yyyy LCT31 Tiền thu từ phát hành cổ phiếu, nhận vốn góp của chủ sở hữu N 263 LCT32yyyy LCT32 Tiền chi trả vốn góp cho các chủ sở hữu, mua lại cổ phiếu của doanh nghiệp đã phát hành N 264 LCT33yyyy LCT33 Tiền vay ngắn hạn, dài hạn nhận được N 265 LCT34yyyy LCT34 Tiền chi trả nợ gốc vay N 266 LCT35yyyy LCT35 Tiền chi trả nợ thuê tài chính N 267 LCT36yyyy LCT36 Cổ tức, lợi nhuận đã trả cho chủ sở hữu N 268 LCT40yyyy LCT40 Lưu chuyển tiền thuần từ hoạt động tài chính N 269 LCT50yyyy LCT50 Lưu chuyển tiền thuần trong kỳ N 270 LCT60yyyy LCT60 Tiền và tương đương tiền đầu kỳ N 271 LCT61yyyy LCT61 Ảnh hưởng của thay đổi tỷ giá hối đoái quy đổi ngoại tệ N 272 LCT70yyyy LCT70 Tiền và tương đương tiền cuối kỳ N Các chỉ tiêu trong báo cáo lưu chuyển tiền tệ (gián tiếp) Lưu chuyển tiền từ hoạt động kinh doanh 273 LCG01yyyy LCG01 Lợi nhuận trước thuế N Điều chỉnh cho các khoản 274 LCG02yyyy LCG02 Khấu hao TSCĐ N 275 LCG03yyyy LCG03 Các khoản dự phòng N 276 LCG04yyyy LCG04 Lãi, lỗ chênh lệch tỷ giá hối đoái chưa thực hiện N 277 LCG05yyyy LCG05 Lãi, lỗ từ hoạt động đầu tư N 278 LCG06yyyy LCG06 Chi phí lãi vay N 279 LCG08yyyy LCG08 Lợi nhuận từ hoạt động kinh doanh trước thay đổi vốn lưu động N 280 LCG09yyyy LCG09 Tăng, giảm các khoản phải thu N 281 LCG10yyyy LCG10 Tăng, giảm hàng tồn kho N 282 LCG11yyyy LCG11 Tăng, giảm các khoản phải trả (không kể lãi vay phải trả, thuế thu nhập phải nộp) N 283 LCG12yyyy LCG12 Tăng, giảm chi phí trả trước N 284 LCG13yyyy LCG13 Tiền lãi vay đã trả N 285 LCG14yyyy LCG14 Thuế thu nhập doanh nghiệp đã nộp N 286 LCG15yyyy LCG15 Tiền thu khác từ hoạt động kinh doanh N 287 LCG16yvvy LCG16 Tiền chi khác từ hoạt động kinh doanh N 288 LCG20yyyy LCG20 Lưu chuyển tiền thuần từ hoạt động kinh doanh N Lưu chuyển tiền từ hoạt động đầu tư 289 LCG21yyyy LCG21 Tiền chi để mua sắm, xây dựng TSCĐ, BĐS đầu tư và các tài sản dài hạn khác N 290 LCG22yyyy LCG22 Tiền thu từ thanh lý, nhượng bán TSCĐ, BĐS đầu tư và các tài sản dài hạn khác N 291 LCG23yyyy LCG23 Tiền chi cho vay, mua các công cụ nợ của đơn vị khác N 292 LCG24yyyy LCG24 Tiền thu hồi cho vay, bán lại các công cụ nợ của đơn vị khác N 293 LCG25yyyy LCG25 Tiền chi đầu tư góp vốn vào đơn vị khác N 294 LCG26yyyy LCG26 Tiền thu hồi đầu tư góp vốn vào đơn vị khác N 295 LCG27yyyy LCG27 Tiền thu lãi cho vay, cổ tức và lợi nhuận được chia N 296 LCG30yyyy LCG30 Lưu chuyển tiền thuần từ hoạt động đầu tư N Lưu chuyển tiền từ hoạt động tài chính 297 LCG31yyyy LCG31 Tiền thu từ phát hành cổ phiếu, nhận vốn góp của chủ sở hữu N 298 LCG32yyyy LCG32 Tiền chi trả vốn góp cho các chủ sở hữu, mua lại cổ phiếu của doanh nghiệp đã phát hành N 299 LCG33yyyy LCG33 Tiền vay ngắn hạn, dài hạn nhận được N 300 LCG34yyyy LCG34 Tiền chi trả nợ gốc vay N 301 LCG35yyyy LCG35 Tiền chi trả nợ thuê tài chính N 302 LCG36yyyy LCG36 Cổ tức, lợi nhuận đã trả cho chủ sở hữu N 303 LCG40yyyy LCG40 Lưu chuyển tiền thuần từ hoạt động tài chính N 304 LCG50yyyy LCG50 Lưu chuyển tiền thuần trong năm N 305 LCG60yyyy LCG60 Tiền và tương đương tiền đầu năm N 306 LCG61yyyy LCG61 Ảnh hưởng của thay đổi tỷ giá hối đoái quy đổi ngoại tệ N 307 LCG70yyyy LCG70 Tiền và tương đương tiền cuối năm N Thông tin đầu tư trái phiếu vào khách hàng vay là doanh nghiệp 308 TP001 TP001 Mã chi nhánh TCTD C 309 TP002 TP002 Mã khách hàng do tổ chức tín dụng cấp C 310 TP003 TP003 Tên doanh nghiệp phát hành C 311 TP004 TP004 Ngày phát hành D 312 TP005 TP005 Số hợp đồng đầu tư C 313 TP006 TP006 Lãi suất năm N 314 TP007 TP007 Số lượng trái phiếu N 315 TP008 TP008 Ngày đến hạn thanh toán D 316 TP009 TP009 Tổng giá trị đầu tư N 317 TP010 TP010 Mã loại tiền C Bảng mã 06 318 TP011 TP011 Mục đích phát hành trái phiếu C của doanh nghiệp 319 TP012 TP012 Dự phòng rủi ro phải trích N 320 TP013 TP013 Dự phòng rủi ro thực trích N Ghi chú: yyyy là năm tài chính BẢNG MÃ 01/CIC: MÃ TỈNH THÀNH PHỐ STT Tên tỉnh, Thành phố Mã số 1 Thành phố Hà Nội 1 2 Tỉnh Hà Giang 2 3 Tỉnh Cao Bằng 4 4 Tỉnh Bắc Kạn 6 5 Tỉnh Tuyên Quang 8 6 Tỉnh Lào Cai 10 7 Tỉnh Điện Biên 11 8 Tỉnh Lai Châu 12 9 Tỉnh Sơn La 14 10 Tỉnh Yên Bái 15 11 Tỉnh Hòa Bình 17 12 Tỉnh Thái Nguyên 19 13 Tỉnh Lạng Sơn 20 14 Tỉnh Quảng Ninh 22 15 Tỉnh Bắc Giang 24 16 Tỉnh Phú Thọ 25 17 Tỉnh Vĩnh Phúc 26 18 Tỉnh Bắc Ninh 27 19 Tỉnh Hải Dương 30 20 Thành phố Hải Phòng 31 21 Tỉnh Hưng Yên 33 22 Tỉnh Thái Bình 34 23 Tỉnh Hà Nam 35 24 Tỉnh Nam Định 36 25 Tỉnh Ninh Bình 37 26 Tỉnh Thanh Hóa 38 27 Tỉnh Nghệ An 40 28 Tỉnh Hà Tĩnh 42 29 Tỉnh Quảng Bình 44 30 Tỉnh Quảng Trị 45 31 Tỉnh Thừa Thiên - Huế 46 32 Thành phố Đà Nẵng 48 33 Tỉnh Quảng Nam 49 34 Tỉnh Quảng Ngãi 51 35 Tỉnh Bình Định 52 36 Tỉnh Phú Yên 54 37 Tỉnh Khánh Hòa 56 38 Tỉnh Ninh Thuận 58 39 Tỉnh Bình Thuận 60 40 Tỉnh Kon Tum 62 41 Tỉnh Gia Lai 64 42 Tỉnh Đắc Lắc 66 43 Tỉnh Đắc Nông 67 44 Tỉnh Lâm Đồng 68 45 Tỉnh Bình Phước 70 46 Tỉnh Tây Ninh 72 47 Tỉnh Bình Dương 74 48 Tỉnh Đồng Nai 75 49 Tỉnh Bà Rịa - Vũng Tàu 77 50 Thành phố Hồ Chí Minh 79 51 Tỉnh Long An 80 52 Tỉnh Tiền Giang 82 53 Tỉnh Bến Tre 83 54 Tỉnh Trà Vinh 84 55 Tỉnh Vĩnh Long 86 56 Tỉnh Đồng Tháp 87 57 Tỉnh An Giang 89 58 Tỉnh Kiên Giang 91 59 Tỉnh Cần Thơ 92 60 Tỉnh Hậu Giang 93 61 Tỉnh Sóc Trăng 94 62 Tỉnh Bạc Liêu 95 63 Tỉnh Cà Mau 96 BẢNG MÃ 02/CIC: MÃ QUỐC GIA STT Tên quốc gia Ký hiệu Mã số 1 Afghanistan AFG 001 2 Albania ALB 002 3 Algeria DZA 003 4 Andorra AND 004 5 Angola AGO 005 6 Antigua and Barbuda ATG 006 7 Argentina ARG 007 8 Armenia ARM 008 9 Australia AUS 009 10 Austria AUT 010 11 Azerbaijan AZE 011 12 Bahamas BHS 012 13 Bahrain BHR 013 14 Bangladesh BGD 014 15 Barbados BRB 015 16 Belarus BLR 016 17 Belgium BEL 017 18 Belize BLZ 018 19 Benin BEN 019 20 Bhutan BTN 020 21 Bolivia BOL 021 22 Bosnia and Herzegovina BIH 022 23 Botswana BWA 023 24 Brazil BRA 024 25 Brunei Darussalam BRN 025 26 Bulgaria BGR 026 27 Burkina Faso BFA 027 28 Burundi BDI 028 29 Cambodia KHM 029 30 Cameroon CMR 030 31 Canada CAN 031 32 Cape Verde CPV 032 33 Central African Republic CAF 033 34 Chad TCD 034 35 Chile CHL 035 36 China CHN 036 37 Colombia COL 037 38 Comoros COM 038 39 Congo COG 039 40 Costa Rica CRI 040 41 Cote d’ Ivoire CIV 041 42 Croatia HRV 042 43 Cuba --- 043 44 Cyrus --- 044 45 Czech Republic CZE 045 46 Democratic People’s Republic of Korea PRK 046 47 Democratic Republic of the Congo COD 047 48 Denmark DNK 048 49 Djibouti DJI 049 50 Dominica DMA 050 51 Dominican Republic DOM 051 52 Ecuador ECU 052 53 Egypt EGY 053 54 El Salvador SLV 054 55 Equatorial Guinea GNQ 055 56 Eritrea ERI 056 57 Estonia EST 057 58 Ethiopia ETH 058 59 Fiji FJI 059 60 Finland FIN 060 61 France FRA 061 62 Gabon GAB 062 63 Gambia GMB 063 64 Georgia GEO 064 65 Germany DEU 065 66 Ghana GHA 066 67 Greece GRC 067 68 Grenada GRD 068 69 Guatemala GTM 069 70 Guinea GIN 070 71 Guinea-Bissau GNB 071 72 Guyana GUY 072 73 Haiti HTI 073 74 Honduras HND 074 75 Hungary HUN 075 76 Iceland ISL 076 77 India IND 077 78 Indonesia IDN 078 79 Iran (Islamic Republic of) IRN 079 80 Iraq IRQ 080 81 Ireland IRL 081 82 Israel ISR 082 83 Italy ITA 083 84 Jamaica JAM 084 85 Japan JPN 085 86 Jordan JOR 086 87 Kazakhstan KAZ 087 88 Kenya KEN 088 89 Kiribati KIR 089 90 Kuwait KWT 090 91 Kyrgyzstan KGZ 091 92 Lao People’s Democratic Republic LAO 092 93 Latvia LVA 093 94 Lebanon LBN 094 95 Lesotho LSO 095 96 Liberia LBR 096 97 Libyan Arab Jamahiriya LBY 097 98 Liechtenstein LIE 098 99 Lithuania LTU 099 100 Luxembourg LUX 100 101 Madagascar MDG 101 102 Malawi MWI 102 103 Malaysia MYS 103 104 Maldives MDV 104 105 Mali MLI 105 106 Malta MLT 106 107 Marshall Islands MHL 107 108 Mauritania MRT 108 109 Mauritius MUS 109 110 Mexico MEX 110 111 Micronesia, Federared States of FSM 111 112 Monaco MCO 112 113 Mongolia MNG 113 114 Montenegro --- 114 115 Morocco MAR 115 116 Mozambique MOZ 116 117 Myanmar MMR 117 118 Namibia NAM 118 119 Nauru NRU 119 120 Nepal NPL 120 121 Netherlands NLD 121 122 New Zealand NZL 122 123 Nicaragua NIC 123 124 Niger NER 124 125 Nigeria NGA 125 126 Norway NOR 126 127 Oman OMN 127 128 Pakistan PAK 128 129 Palau PLW 129 130 Panama PAN 130 131 Papua New Guinea PNG 131 132 Paraguay PRY 132 133 Peru PER 133 134 Philippines PHL 134 135 Poland POL 135 136 Portugal PRT 136 137 Qatar QAT 137 138 Republic of Korea KOR 138 139 Republic of Moldova MDA 139 140 Romania ROU 140 141 Russian Federation RUS 141 142 Rwanda RWA 142 143 Saint Kitts and Nevis KNA 143 144 Saint Lucia LCA 144 145 Saint Vincent and the Grenadines VCT 145 146 Samoa WSM 146 147 San Marino SMR 147 148 Sao Tome and Principe STP 148 149 Saudi Arabia SAU 149 150 Senegal SEN 150 151 Serbia --- 151 152 Seychelles SYC 152 153 Sierra Leone SLE 153 154 Singapore SGP 154 155 Slovakia SVK 155 156 Slovenia SVN 156 157 Solomon Islands SLB 157 158 Somalia SOM 158 159 South Africa ZAF 159 160 Spain ESP 160 161 Sri Lanka LKA 161 162 Sudan SDN 162 163 Suriname SUR 163 164 Swaziland SWZ 164 165 Sweden SWE 165 166 Switzerland CHE 166 167 Syrian Arab Republic SYR 167 168 Tajikistan TJK 168 169 Thailand THA 169 170 The former Yugoslav Republic of Macedonia MKD 170 171 Timor-Leste TLS 171 172 Togo TGO 172 173 Tonga TON 173 174 Trinidad and Tobago TTO 174 175 Tunisia TUN 175 176 Turkey TUR 176 177 Turkmenistan TKM 177 178 Tuvalu TUV 178 179 Uganda UGA 179 180 Ukraine UKR 180 181 United Arab Emirates ARE 181 182 United Kingdom GBR 182 183 United Republic of Tanzania TZA 183 184 United States USA 184 185 Uruguay URY 185 186 Uzbekistan UZB 186 187 Vanuatu VUT 187 188 Venezuela VEN 188 189 Viet Nam VNM 189 190 Yemen YEM 190 191 Zambia ZMB 191 192 Zimbabwe ZWE 192 BẢNG MÃ 03/CIC: MÃ LOẠI GIẤY TỜ CÁ NHÂN STT Tên loại giấy tờ cá nhân Mã số 1 Hộ chiếu 01 2 Số hộ khẩu 02 3 Bằng lái xe ô tô 03 4 Thẻ quân nhân 04 5 Thẻ sinh viên 05 6 Các loại giấy tờ cá nhân khác 06 BẢNG MÃ 04/CIC: MÃ LOẠI HÌNH TỔ CHỨC STT Loại hình tổ chức và cá nhân Mã số 1 Công ty nhà nước 01 2 Công ty trách nhiệm hữu hạn 1 thành viên do nhà nước sở hữu 100% vốn điều lệ 02 3 Công ty trách nhiệm hữu hạn 2 thành viên trở lên có phần vốn góp của nhà nước trên 50% vốn điều lệ hoặc nhà nước giữ quyền chi phối 03 4 Công ty trách nhiệm hữu hạn khác 04 5 Công ty cổ phần có vốn cổ phần của nhà nước chiếm trên 50% vốn điều lệ hoặc tổng số cổ phần có quyền biểu quyết; hoặc nhà nước giữ quyền chi phối đối với công ty trong Điều lệ của công ty. 05 6 Công ty cổ phần khác 06 7 Công ty hợp danh 07 8 Doanh nghiệp tư nhân 08 9 Doanh nghiệp có vốn đầu tư nước ngoài 09 10 Hợp tác xã và liên hiệp hợp tác xã 10 11 Hộ kinh doanh, cá nhân 11 12 Đơn vị hành chính sự nghiệp, đảng, đoàn thể và hiệp hội 12 13 Khác 13 BẢNG MÃ 05/CIC: MÃ NGÀNH KINH TẾ STT Tên ngành Mã số 1 Nông nghiệp, lâm nghiệp và thủy sản 0101 2 Khai khoáng 0201 3 Công nghiệp chế biến, chế tạo 0202 4 Sản xuất và phân phối điện, khí đốt, nước nóng, hơi nước và điều hòa không khí 0203 5 Cung cấp nước; hoạt động quản lý và xử lý rác thải, nước thải. 0204 6 Xây dựng 0301 7 Bán buôn và bán lẻ; sửa chữa ô tô, mô tô, xe máy và xe có động cơ khác 0401 8 Vận tải kho bãi 0402 9 Dịch vụ lưu trú và ăn uống 0403 10 Thông tin và truyền thông 0501 11 Hoạt động tài chính, ngân hàng và bảo hiểm 0601 12 Hoạt động kinh doanh bất động sản 0602 13 Hoạt động chuyên môn, khoa học và công nghệ 0701 14 Hoạt động hành chính và dịch vụ hỗ trợ 0702 15 Hoạt động của đảng Cộng sản, tổ chức chính trị - xã hội, quản lý nhà nước, an ninh quốc phòng; bảo đảm xã hội bắt buộc 0801 16 Giáo dục và đào tạo 0802 17 Y tế và hoạt động trợ giúp xã hội 0803 18 Nghệ thuật, vui chơi và giải trí 0804 19 Hoạt động dịch vụ khác 0805 20 Hoạt động làm thuê các công việc trong các hộ gia đình, sản xuất sản phẩm vật chất và dịch vụ tự tiêu dùng của hộ gia đình 0806 21 Hoạt động của các tổ chức và cơ quan quốc tế 0807 BẢNG MÃ 06/CIC: KÝ HIỆU CÁC LOẠI TIỀN TỆ CỦA CÁC NƯỚC STT Tên nước (tiếng việt) Tên ngoại tệ Ký hiệu Chữ Số 1 VIỆT NAM ĐỒNG VND 00 2 VIỆT NAM VÀNG XAU 01 3 SLOVAKIA SLOVAKKORUNA SKK 09 4 MO ZĂM BÍCH METICAL MZM 10 5 NICARAGUA CORDOBA ORO NIO 11 6 NAM TƯ NEW DINAR YUM 12 7 ÁO EURO EUR 14 8 BỈ EURO EUR 14 9 PHẦN LAN EURO EUR 14 10 PHÁP EURO EUR 14 11 ĐỨC EURO EUR 14 12 AI LEN EURO EUR 14 13 Ý EURO EUR 14 14 LÚCH XĂM BUA EURO EUR 14 15 NETHERLANDS EURO EUR 14 16 THỔ NHĨ KỲ EURO EUR 14 17 TÂY BAN NHA EURO EUR 14 18 GUINEA- BISSAU GUINEA-BISSAU PESO GWP 15 19 HONDURAS LEMPIRA HNL 16 20 ANBANI LEK ALL 17 21 BA LAN ZLOTY PLN 18 22 BUN GA RI LEV BGL 19 23 LIBERIA LIBERIAN DOLLAR LRD 20 24 HUNGARY FORINT HƯF 21 25 LIÊN BANG NGA RUSSIAN RUBLE(NEW) RUB 22 26 MÔNG CỔ TUGRIK MNT 23 27 RUMANI LEU ROL 24 28 TIỆP KHẮC (MỚI) CZECH KORUNA CZK 25 29 TRUNG QUỐC YAN RENMINBI CNY 26 30 BẮC TRIỀU TIÊN NORTH KOREAN WON KPW 27 31 CU BA CUBAN PESO CUP 28 32 LÀO KIP LAK 29 33 CAM PU CHIA RIEL KHR 30 34 PAKISTAN PAKISTAN RUPEE PKR 31 35 ACHENTINA ARGENTINE PESO ARS 32 36 CA MƠ RUN CFA FRANC BEAC XAF 33 37 ANDURÁT SPANISIC PESETA ESP 34 38 GUERNSEY,C.I. POUND STERLING GBP 35 39 ISLE OF MAN POUND STERLING GBP 35 40 JERSEY,C.I POUND STERLING GBP 35 41 ANH POUND STERLING GBP 35 42 HỒNG KÔNG HONGKONG DOLLAR HKD 36 43 AMERICAN SAMOA US DOLLAR USD 37 44 BRISTISH INDIAN OCEAN TERRITORY US DOLLAR USD 37 45 GUAM US DOLLAR USD 37 46 HAITI US DOLLAR USD 37 47 MARSHALL ISLANDS US DOLLAR USD 37 48 MICRONESIA (PERERATED STATES OF) US DOLLAR USD 37 49 NORTHERN MARIANA ISLANDS US DOLLAR USD 37 50 PALAU US DOLLAR USD 37 51 PANAMA US DOLLAR USD 37 52 PUERTO RICO US DOLLAR USD 37 53 TURKS AND CAICOS ISLANDS US DOLLAR USD 37 54 MỸ US DOLLAR USD 37 55 UNITED STATES MINOR OU US DOLLAR USD 37 56 VIRGIN ISLANDS,BRISTISH US DOLLAR USD 37 57 VIRGIN ISLANDS,U.S. US DOLLAR USD 37 58 UNITED STATES MINOR OU US DOLLAR USD 37 59 PHÁP FRENCH FRANC FRF 38 60 FRENCH SOUTHERN TERRI FRENCH FRANC FRF 38 61 GUADELOUPE FRENCH FRANC FRF 38 62 MANTINIQUE FRENCH FRANC FRF 38 63 MAYOTTE FRENCH FRANC FRF 38 64 MONACO FRENCH FRANC FRF 38 65 REUNION FRENCH FRANC FRF 38 66 SAINT PIERRE AND MIQUEL FRENCH FRANC FRF 38 67 LIECHTENSTEIN SWISS FRANC CHF 39 68 THỤY SĨ SWISS FRANC CHF 39 69 ĐỨC DEUTSCHE MARK DEM 40 70 NHẬT BẢN YEN JPY 41 71 THỔ NHĨ KỲ PORTUGUESE ESCUDO PTE 42 72 GINE GUINEA FRANC GNF 43 73 SOMALIA SOMA- SHILLING SOS 44 74 THAI LAND BAHT THB 45 75 BRUNEI DARUSSALAM BRUNEI DOLLAR BND 46 76 BRAZIL BRAZILIAN REAL BRL 47 77 THỤY ĐIỂN SWEDISH KRONA SEK 48 78 BOUVET ISLAND NORWEGIAN KRONE NOK 49 79 NAUY NORWEGIAN KRONE NOK 49 80 SVALBARD AND JAN MAYE NORWEGIAN KRONE NOK 49 81 ĐAN MẠCH DANISH KRONE DKK 50 82 FAEROE ISLAND DANISH KRONE DKK 50 83 GREENLAND DANISH KRONE DKK 50 84 LÚCH XĂM BUA LUXEMBOURG FRANC LUF 51 85 ÚC AUSTRALIAN DOLLAR AUD 52 86 CHRISMAST ISLAND AUSTRALIAN DOLLAR AUD 52 87 COCOS(KEELING) ISLAND AUSTRALIAN DOLLAR AUD 52 88 KIRIBATI AUSTRALIAN DOLLAR AUD 52 89 NORFOLK ISLAND AUSTRALIAN DOLLAR AUD 52 90 TUVALU AUSTRALIAN DOLLAR AUD 52 91 CANADA CANADIAN DOLLAR CAD 53 92 SINGAPORE SINGAPORE DOLLAR SGD 54 93 MALAYSIA MALAYSIAN RINGGIT MYR 55 94 ALGIERI ALGERIAN DINAR DZD 56 95 YEMEN YEMENI RIAL YER 57 96 IRẮC IRAQI DINAR IQD 58 97 LIBYAN ARB JAMAHIRJYA LIBYAN DINAR LYD 59 98 TUNISIA TUNISIAN DINAR TND 60 99 BỈ BELGIAN FRANC BEF 61 100 LÚCH XĂM BUA BELGIAN FRANC BEF 61 101 MA RỐC MOROCCAN DIRHAM MAD 62 102 COLOMBIA COLOMBIAN PESO COP 63 103 CAMEROON CFA FRANC BEAC XAF 64 104 CỘNG HOÀ TRUNG PHI CFA FRANC BEAC XAF 64 105 SAT CFA FRANC BEAC XAF 64 106 CONGO CFA FRANC BEAC XAF 64 107 EQUATORIAL GUINEA CFA FRANC BEAC XAF 64 108 GABONG CFA FRANC BEAC XAF 64 109 ANGOLA KWANZA REAJUSTADO AOR 65 110 NETHERLANDS NETHERLANDS GUILDER NLG 66 111 BENIN CFA FRANC BCEAO XOF 67 112 BURKINA FASO CFA FRANC BCEAO XOF 67 113 COTED'IVOIRE CFA FRANC BCEAO XOF 67 114 GUINEA- BISSAU CFA FRANC BCEAO XOF 67 115 MALI CFA FRANC BCEAO XOF 67 116 NIGIÊ CFA FRANC BCEAO XOF 67 117 SENEGAL CFA FRANC BCEAO XOF 67 118 TOGO CFA FRANC BCEAO XOF 67 119 AI CẬP EGYPTIAN POUND EGP 69 120 CỘNG HOÀ SYRIAN ARAB SYRIAN POUND SYP 70 121 LI BĂNG LEBANESE POUND LBP 71 122 ETHIOPIA ETHIOPIANBIRR ETB 72 123 AI LEN IRISH POUND IEP 73 124 THỔ NHĨ KỲ TURKISH LIRA TRL 74 125 HOLY SEE(VATICAN CITY STATE) ITALIAN LIRA ITL 75 126 Ý ITALIAN LIRA ITL 75 127 SAN MARINO ITALIAN LIRA ITL 75 128 PHẦN LAN MARKKA FIM 76 129 MEXICO MEXICAN PESO MXN 77 130 PHI LIP PIN PHILIPPINE PESO PHP 78 131 PA RA GUAY GUARANI PYG 79 132 HI LẠP DRACHMA GRD 80 133 BHU TAN INDIAN RUPEE INR 81 134 ẤN ĐỘ INDIAN RUPEE INR 81 135 SRI LANKA SRI LANKA RUPEE LKR 82 136 BANGLADET TAKA BDT 83 137 INDONESIA RUPIAH IDR 84 138 ÁO SCHILLING ATS 85 139 ECUADOR SUCRE ECS 87 140 NEW ZEALAND NEWZEALAND DOLLAR NZD 88 141 NIUE NEWZEALAND DOLLAR NZD 88 142 PITCAIRN NEWZEALAND DOLLAR NZD 88 143 TOKELAU NEWZEALAND DOLLAR NZD 88 144 GIBUTI DJIBUTI FRANC DJF 89 145 ANDORRA SPANISH PESETA ESP 90 146 TÂY BAN NHA SPANISH PESETA ESP 90 147 ARẬP XÊ ÚT SAUDI RYAL SAR 91 148 PÊ RU NUEVO SOL PEN 92 149 PANAMA BALBOA PAB 93 150 ĐÀI LOAN NEW TAIWAN DOLLAR TWD 94 151 MA CAO PATACA MOP 95 152 IRAN (ISLAMIC REPUBLIC OF) IRANIAN RIAL IRR 96 153 CÔ OÉT KUWAITI DINAR KWD 97 154 HÀN QUỐC WON KRW 98 155 CÁC NƯỚC KHÁC CÁC NGOẠI TỆ KHÁC 99 BẢNG MÃ 07/CIC: MÃ MỤC ĐÍCH SỬ DỤNG TIỀN VAY STT Mục đích sử dụng tiền vay Mã số 1 Cho vay tiêu dùng 01 2 Cho vay đầu tư, kinh doanh bất động sản 02 3 Cho vay đầu tư, kinh doanh chứng khoán 03 4 Cho vay kinh doanh thương mại, dịch vụ 04 5 Cho vay sản xuất 05 5.1 Sản xuất công nghiệp 051 5.2 Sản xuất nông, lâm nghiệp 052 5.3 Nuôi trồng, chế biến thủy hải sản 053 5.4 Sản xuất khác 054 6 Cho vay xây dựng cầu, đường 06 7 Cho vay khác 09 BẢNG MÃ 08/CIC: MÃ LOẠI VAY STT Tên loại vay Mã số 1 Dư nợ cho vay ngắn hạn 01 2 Dư nợ cho vay trung hạn 02 3 Dư nợ cho vay dài hạn 03 4 Dư nợ chiết khấu thương phiếu và các giấy tờ có giá 04 5 Dư nợ cho thuê tài chính 05 6 Dư nợ các khoản phải trả thay khách hàng 06 7 Dư nợ cho vay vốn nhận trực tiếp từ các tổ chức quốc tế 07 8 Dư nợ cho vay vốn nhận của Chính phủ 08 9 Dư nợ cho vay vốn nhận của các tổ chức, cá nhân khác 09 10 Dư nợ cho vay vốn đặc biệt 10 11 Dư nợ cho vay thanh toán công nợ 11 12 Dư nợ cho vay đầu tư xây dựng cơ bản theo kế hoạch nhà nước 12 13 Dư nợ cho vay khác 13 14 Dư nợ chờ xử lý 14 15 Dư nợ được khoanh 15 16 Dư nợ cho vay đầu tư theo hợp đồng nhận ủy thác 16 17 Dư nợ cho vay theo hợp đồng nhận tài trợ 17 18 Dư nợ của khách hàng đã xử lý 18 BẢNG MÃ 09/CIC: MÃ NHÓM NỢ STT Nhóm nợ Mã số 1 Nhóm 1 (Nợ đủ tiêu chuẩn) 01 2 Nhóm 2 (Nợ cần chú ý) 02 3 Nhóm 3 (Nợ dưới tiêu chuẩn) 03 4 Nhóm 4 (Nợ nghi ngờ) 04 5 Nhóm 5 (Nợ có khả năng mất vốn) 05 BẢNG MÃ 10/CIC: MÃ LOẠI BẢO ĐẢM TIỀN VAY STT Tên loại tài sản bảo đảm tiền vay Mã số 1 Quyền sử dụng đất và tài sản gắn liền với đất 01 2 Phương tiện giao thông 02 3 Giấy tờ có giá 03 4 Trái phiếu 04 5 Cổ phiếu 05 6 Tín phiếu 06 7 Kỳ phiếu 07 8 Chứng chỉ tiền gửi 08 9 Thương phiếu 09 10 Giấy tờ khác trị giá được bằng tiền 10 11 Kim khí đá quý 11 12 Máy móc thiết bị, nguyên nhiên vật liệu, hàng hóa 12 13 Máy móc thiết bị 13 14 Dây chuyền sản xuất 14 15 Nguyên nhiên vật liệu 15 16 Hàng tiêu dùng 16 17 Hàng hóa khác 17 18 Tài sản đăng ký quyền sở hữu và quyền sử dụng khác 18 19 Quyền tài sản phát sinh từ quyền tác giả 19 20 Quyền sở hữu công nghiệp 20 21 Quyền đòi nợ 21 22 Quyền được nhận bảo hiểm 22 23 Quyền góp vốn doanh nghiệp 23 24 Quyền khai thác tài nguyên thiên nhiên 24 25 Lợi tức và các quyền phát sinh từ tài sản cầm cố 25 26 Quyền tài sản khác 26 27 Tài sản khác 27",
+  "tree": {
+    "parts": [
+      {
+        "part_id": "doc:180368:part:1",
+        "part_type": "main",
+        "part_title": null,
+        "reference": null,
+        "direct_text": "THÔNG TƯ QUY\nĐỊNH VỀ HOẠT ĐỘNG THÔNG TIN TÍN DỤNG CỦA NGÂN HÀNG NHÀ NƯỚC VIỆT NAM\nCăn cứ Luật Ngân hàng Nhà nước Việt Nam số 46/2010/QH12 ngày 16 tháng 6 năm 2010; Căn cứ Luật các tổ chức tín dụng số 47/2010/QH12 ngày 16 tháng 6 năm 2010; Căn cứ Nghị định số 96/2008/NĐ-CP ngày 26 tháng 8 năm 2008 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Ngân hàng Nhà nước Việt Nam; Theo đề nghị của Giám đốc Trung tâm Thông tin tín dụng; Thống đốc Ngân hàng Nhà nước Việt Nam ban hành Thông tư quy định về hoạt động thông tin tín dụng của Ngân hàng Nhà nước Việt Nam,",
+        "chapters": [
+          {
+            "chapter_id": "doc:180368:part:1:chapter:1",
+            "number": "1",
+            "title": "QUY ĐỊNH CHUNG",
+            "content": "Chương 1.\nQUY ĐỊNH CHUNG",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:180368:part:1:article:1",
+                "number": "1",
+                "title": "Phạm vi điều chỉnh Thông tư này quy định về hoạt động thông tin tín dụng của Ngân hàng Nhà nước Việt Nam do Trung tâm Thông tin tín dụng làm đầu mối (Credit Information Centre, sau đây gọi là CIC) bao gồm:",
+                "content": "Điều 1. Phạm vi điều chỉnh Thông tư này quy định về hoạt động thông tin tín dụng của Ngân hàng Nhà nước Việt Nam do Trung tâm Thông tin tín dụng làm đầu mối (Credit Information Centre, sau đây gọi là CIC) bao gồm:",
+                "clauses": [
+                  {
+                    "clause_id": "doc:180368:part:1:article:1:clause:1",
+                    "number": "1",
+                    "content": "1. Cung cấp thông tin tín dụng cho Ngân\nhàng Nhà nước Việt Nam;",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:180368:part:1:article:1:clause:2",
+                    "number": "2",
+                    "content": "2. Xử lý, lưu giữ, bảo mật dữ liệu thông tin\ntín dụng;",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:180368:part:1:article:1:clause:3",
+                    "number": "3",
+                    "content": "3. Khai thác, sử dụng sản phẩm, dịch vụ\nthông tin tín dụng;",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:180368:part:1:article:1:clause:4",
+                    "number": "4",
+                    "content": "4. Quyền và nghĩa vụ của các tổ chức, cá\nnhân có liên quan.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:180368:part:1:article:2",
+                "number": "2",
+                "title": "Đối tượng áp dụng",
+                "content": "Điều 2. Đối tượng áp dụng",
+                "clauses": [
+                  {
+                    "clause_id": "doc:180368:part:1:article:2:clause:1",
+                    "number": "1",
+                    "content": "1. Vụ, Cục, đơn vị thuộc bộ máy tổ chức\ncủa Ngân hàng Nhà nước Việt Nam, Ngân hàng Nhà nước chi nhánh tỉnh, thành phố trực thuộc Trung ương (sau đây gọi chung là đơn vị thuộc Ngân hàng Nhà nước Việt Nam).",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:180368:part:1:article:2:clause:2",
+                    "number": "2",
+                    "content": "2. Tổ chức tín dụng, chi nhánh ngân hàng\nnước ngoài.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:180368:part:1:article:2:clause:3",
+                    "number": "3",
+                    "content": "3. Khách hàng vay.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:180368:part:1:article:2:clause:4",
+                    "number": "4",
+                    "content": "4. Tổ chức, cá nhân có liên quan.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:180368:part:1:article:3",
+                "number": "3",
+                "title": "Giải thích từ ngữ Trong Thông tư này, các từ ngữ dưới đây được hiểu như sau:",
+                "content": "Điều 3. Giải thích từ ngữ Trong Thông tư này, các từ ngữ dưới đây được hiểu như sau:",
+                "clauses": [
+                  {
+                    "clause_id": "doc:180368:part:1:article:3:clause:1",
+                    "number": "1",
+                    "content": "1. Hoạt động thông tin tín dụng của Ngân\nhàng Nhà nước Việt Nam là hoạt động cung cấp, xử lý, lưu giữ, bảo mật dữ liệu thông tin tín dụng và khai thác, sử dụng sản phẩm, dịch vụ thông tin tín dụng (sau đây gọi là hoạt động thông tin tín dụng).",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:180368:part:1:article:3:clause:2",
+                    "number": "2",
+                    "content": "2. Thông tin tín dụng là các thông tin về khách\nhàng vay và những thông tin liên quan đến khách hàng vay tại tổ chức tín dụng, chi nhánh ngân hàng nước ngoài.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:180368:part:1:article:3:clause:3",
+                    "number": "3",
+                    "content": "3. Thông tin nhận dạng là các thông tin\nnhằm xác định rõ về một khách hàng vay và phân biệt được với khách hàng vay khác.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:180368:part:1:article:3:clause:4",
+                    "number": "4",
+                    "content": "4. Khách hàng vay là\ntổ chức, cá nhân hoặc chủ thể khác theo quy định của pháp luật, có quan hệ tín dụng với tổ chức tín dụng, chi nhánh ngân hàng nước ngoài.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:180368:part:1:article:3:clause:5",
+                    "number": "5",
+                    "content": "5. Sản phẩm thông tin tín dụng là báo cáo\nthông tin, ấn phẩm do CIC tạo lập, cung cấp cho tổ chức, cá nhân trên cơ sở thông tin tín dụng thu thập được.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:180368:part:1:article:3:clause:6",
+                    "number": "6",
+                    "content": "6. Dịch vụ thông tin tín dụng là việc\ncung cấp sản phẩm thông tin tín dụng và các tiện ích khác của CIC cho tổ chức tín dụng, chi nhánh ngân hàng nước ngoài, tổ chức khác và cá nhân có nhu cầu.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:180368:part:1:article:3:clause:7",
+                    "number": "7",
+                    "content": "7. Cơ sở dữ liệu Thông tin tín dụng quốc\ngia là tập hợp các loại dữ liệu, sản phẩm thông tin tín dụng được quản lý, lưu giữ, khai thác sử dụng trên hệ thống công nghệ thông tin của CIC.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:180368:part:1:article:3:clause:8",
+                    "number": "8",
+                    "content": "8. Tổ chức tự nguyện tham gia hệ thống\nthông tin tín dụng (sau đây gọi là tổ chức tự nguyện) bao gồm:",
+                    "points": [
+                      {
+                        "point_id": "doc:180368:part:1:article:3:clause:8:point:1",
+                        "label": "a",
+                        "content": "a) Ngân hàng Phát\ntriển Việt Nam, công ty có chức năng mua bán nợ, công ty quản lý nợ và khai thác tài sản, công ty thông tin tín dụng, doanh nghiệp kinh doanh dịch vụ bảo hiểm, chứng khoán;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:180368:part:1:article:3:clause:8:point:2",
+                        "label": "b",
+                        "content": "b) Tổ chức trong và ngoài nước tham gia\ntài trợ tín dụng tại Việt Nam hoặc có nhu cầu cấp tín dụng cho tổ chức, cá nhân Việt Nam tại nước ngoài;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:180368:part:1:article:3:clause:8:point:3",
+                        "label": "c",
+                        "content": "c) Tổ chức khác có nhu cầu tham gia hệ\nthống thông tin tín dụng và được CIC chấp thuận.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:180368:part:1:article:3:clause:9",
+                    "number": "9",
+                    "content": "9. Thông tin tiêu cực về khách hàng vay\nlà thông tin về: nợ xấu; vi phạm nghĩa vụ thanh toán; các hành vi vi phạm pháp luật; bị khởi kiện; bị khởi tố và các thông tin bất lợi khác ảnh hưởng đến kết quả đánh giá khả năng trả nợ của khách hàng vay.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:180368:part:1:article:3:clause:10",
+                    "number": "10",
+                    "content": "10. Đơn vị sử dụng là các tổ chức có đăng\nký hoặc ký hợp đồng khai thác dịch vụ thông tin tín dụng với CIC.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:180368:part:1:article:3:clause:11",
+                    "number": "11",
+                    "content": "11. Người sử dụng là những cá nhân thuộc\ncác tổ chức quy định tại khoản 10 Điều này và khách hàng vay là cá nhân được CIC cấp tài khoản truy cập hệ thống công nghệ thông tin của CIC để cung cấp thông tin, khai thác, sử dụng dịch vụ thông tin tín dụng.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:180368:part:1:article:4",
+                "number": "4",
+                "title": "Mục đích của hoạt động thông tin tín dụng Hoạt động thông tin tín dụng nhằm tạo lập Cơ sở dữ liệu Thông tin tín dụng quốc gia để hỗ trợ:",
+                "content": "Điều 4. Mục đích của hoạt động thông tin tín dụng Hoạt động thông tin tín dụng nhằm tạo lập Cơ sở dữ liệu Thông tin tín dụng quốc gia để hỗ trợ:",
+                "clauses": [
+                  {
+                    "clause_id": "doc:180368:part:1:article:4:clause:1",
+                    "number": "1",
+                    "content": "1. Ngân hàng Nhà nước Việt Nam (sau đây\ngọi là Ngân hàng Nhà nước) thực hiện chức năng quản lý, giám sát hoạt động ngân hàng, góp phần bảo đảm an toàn hệ thông ngân hàng Việt Nam.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:180368:part:1:article:4:clause:2",
+                    "number": "2",
+                    "content": "2. Tổ chức tín dụng ngăn ngừa và hạn chế rủi ro trong\nhoạt động kinh doanh.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:180368:part:1:article:4:clause:3",
+                    "number": "3",
+                    "content": "3. Khách hàng vay trong viêc tiếp cận\nnguồn vốn tín dụng của các tổ chức cấp tín dụng, góp phần thúc đẩy phát triển kinh tế - xã hội.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:180368:part:1:article:5",
+                "number": "5",
+                "title": "Nguyên tắc hoạt động thông tin tín dụng",
+                "content": "Điều 5. Nguyên tắc hoạt động thông tin tín dụng",
+                "clauses": [
+                  {
+                    "clause_id": "doc:180368:part:1:article:5:clause:1",
+                    "number": "1",
+                    "content": "1. Tuân thủ chặt chẽ\ncác quy định của pháp luật.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:180368:part:1:article:5:clause:2",
+                    "number": "2",
+                    "content": "2. Đảm bảo tính trung thực, khách quan trong hoạt động\nthông tin tín dụng.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:180368:part:1:article:5:clause:3",
+                    "number": "3",
+                    "content": "3. Đảm bảo quyền, lợi ích của các tổ\nchức và cá nhân trong việc cung cấp thông tin tín dụng, khai thác sản phẩm thông tin tín dụng.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:180368:part:1:article:6",
+                "number": "6",
+                "title": "Các hành vi bị cấm trong hoạt động thông tin tín dụng",
+                "content": "Điều 6. Các hành vi bị cấm trong hoạt động thông tin tín dụng",
+                "clauses": [
+                  {
+                    "clause_id": "doc:180368:part:1:article:6:clause:1",
+                    "number": "1",
+                    "content": "1. Thu thập, cung cấp, sử dụng trái phép\ncác thông tin thuộc phạm vi, danh mục bí mật của Nhà nước.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:180368:part:1:article:6:clause:2",
+                    "number": "2",
+                    "content": "2. Cố ý làm sai lệch nội dung thông tin tín\ndụng, ảnh hưởng đến quyền và lợi ích hợp pháp của tổ chức, cá nhân liên quan.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:180368:part:1:article:6:clause:3",
+                    "number": "3",
+                    "content": "3. Cung cấp thông tin tín dụng cho tổ\nchức, cá nhân không liên quan, bất hợp pháp.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:180368:part:1:article:6:clause:4",
+                    "number": "4",
+                    "content": "4. Lợi dụng các hoạt động thông tin tín\ndụng để tư lợi cá nhân, xâm phạm lợi ích của Nhà nước, quyền và lợi ích hợp pháp của tổ chức, cá nhân.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:180368:part:1:article:6:clause:5",
+                    "number": "5",
+                    "content": "5. Cản trở hoạt động thu thập và khai\nthác thông tin tín dụng hợp pháp của tổ chức, cá nhân.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:180368:part:1:article:6:clause:6",
+                    "number": "6",
+                    "content": "6. Cung cấp sản phẩm thông tin tín\ndụng cho các đối tượng không được quy định tại Điều 10 Thông tư này.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:180368:part:1:chapter:2",
+            "number": "2",
+            "title": "HOẠT ĐỘNG THÔNG TIN TÍN DỤNG",
+            "content": "Chương 2.\nHOẠT ĐỘNG THÔNG TIN TÍN DỤNG",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:180368:part:1:article:7",
+                "number": "7",
+                "title": "Cung cấp thông tin tín dụng",
+                "content": "Điều 7. Cung cấp thông tin tín dụng",
+                "clauses": [
+                  {
+                    "clause_id": "doc:180368:part:1:article:7:clause:1",
+                    "number": "1",
+                    "content": "1. Tổ chức tín dụng,\nchi nhánh ngân hàng nước ngoài cung cấp cho CIC toàn bộ Hệ thống chỉ tiêu thông tin tín dụng quy định tại Phụ lục kèm theo Thông tư này và được phân thành các nhóm chỉ tiêu sau:",
+                    "points": [
+                      {
+                        "point_id": "doc:180368:part:1:article:7:clause:1:point:1",
+                        "label": "a",
+                        "content": "a) Thông tin nhận dạng khách hàng vay là cá\nnhân, hộ kinh doanh cá thể; thông tin nhận dạng khách hàng vay là doanh nghiệp, tổ chức khác; thông tin nhận dạng chủ thẻ tín dụng;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:180368:part:1:article:7:clause:1:point:2",
+                        "label": "b",
+                        "content": "b) Thông tin hợp đồng tín\ndụng;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:180368:part:1:article:7:clause:1:point:3",
+                        "label": "c",
+                        "content": "c) Thông tin quan hệ tín dụng của khách\nhàng vay;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:180368:part:1:article:7:clause:1:point:4",
+                        "label": "d",
+                        "content": "d) Thông tin tình trạng tài khoản thẻ tín\ndụng;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:180368:part:1:article:7:clause:1:point:5",
+                        "label": "e",
+                        "content": "e) Thông tin bảo đảm tiền vay;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:180368:part:1:article:7:clause:1:point:6",
+                        "label": "g",
+                        "content": "g) Thông tin tài chính của khách hàng vay\nlà doanh nghiệp;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:180368:part:1:article:7:clause:1:point:7",
+                        "label": "h",
+                        "content": "h) Thông tin đầu tư trái phiếu vào khách\nhàng vay là doanh nghiệp.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:180368:part:1:article:7:clause:2",
+                    "number": "2",
+                    "content": "2. Tổ chức tự nguyện thực hiện cung\ncấp cho CIC toàn bộ hoặc một phần Hệ thống chỉ tiêu thông tin tín dụng quy định tại Phụ lục kèm theo Thông tư này trên cơ sở thỏa thuận với CIC, đảm bảo nguyên tắc an toàn, bảo mật và các quy định khác của pháp luật.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:180368:part:1:article:7:clause:3",
+                    "number": "3",
+                    "content": "3. Việc cung cấp thông tin tín dụng quy\nđịnh tại khoản 1 và khoản 2 Điều này được thực hiện dưới dạng các tệp dữ liệu điện tử theo các nhóm chỉ tiêu thông tin tín dụng và hướng dẫn của CIC. Trường hợp đặc biệt, tổ chức tín dụng, chi nhánh ngân hàng nước ngoài, tổ chức tự nguyện có thể cung cấp bằng văn bản đối với một số nhóm hoặc toàn bộ các nhóm chỉ tiêu thông tin tín dụng nhưng phải được CIC chấp thuận.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:180368:part:1:article:8",
+                "number": "8",
+                "title": "Thời hạn cung cấp thông tin tín dụng",
+                "content": "Điều 8. Thời hạn cung cấp thông tin tín dụng",
+                "clauses": [
+                  {
+                    "clause_id": "doc:180368:part:1:article:8:clause:1",
+                    "number": "1",
+                    "content": "1. Cung cấp dữ liệu phát sinh\nchậm nhất sau 03 ngày làm việc kể từ ngày phát sinh dữ liệu đối với các nhóm chỉ tiêu thông tin sau:",
+                    "points": [
+                      {
+                        "point_id": "doc:180368:part:1:article:8:clause:1:point:1",
+                        "label": "a",
+                        "content": "a) Các nhóm chỉ tiêu thông tin tại điểm\na, b và g khoản 1 Điều 7 Thông tư này khi có khách hàng vay mới;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:180368:part:1:article:8:clause:1:point:2",
+                        "label": "b",
+                        "content": "b) Các nhóm chỉ tiêu thông tin tại điểm\na, b khoản 1 Điều 7 Thông tư này khi có tối thiểu một chỉ tiêu trong nhóm thay đổi nội dung.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:180368:part:1:article:8:clause:2",
+                    "number": "2",
+                    "content": "2. Các nhóm chỉ tiêu thông tin tại điểm\nc, d, e và h khoản 1 Điều 7 Thông tư này cung cấp chậm nhất sau 05 ngày làm việc kể từ ngày cuối cùng của tháng liền kề trước đó.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:180368:part:1:article:8:clause:3",
+                    "number": "3",
+                    "content": "3. Nhóm chỉ tiêu thông tin tại điểm g khoản\n1 Điều 7 Thông tư này cung cấp trước ngày 30 tháng 4 của năm tiếp theo.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:180368:part:1:article:8:clause:4",
+                    "number": "4",
+                    "content": "4. Ngân hàng Chính sách xã hội, Quỹ\ntín dụng nhân dân, Tổ chức tài chính vi mô cung cấp dữ liệu phát sinh trong tháng chậm nhất sau 05 ngày làm việc kể từ ngày cuối cùng của tháng liền kề trước đó.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:180368:part:1:article:9",
+                "number": "9",
+                "title": "Xử lý, lưu giữ, bảo mật dữ liệu thông tin tín dụng",
+                "content": "Điều 9. Xử lý, lưu giữ, bảo mật dữ liệu thông tin tín dụng",
+                "clauses": [
+                  {
+                    "clause_id": "doc:180368:part:1:article:9:clause:1",
+                    "number": "1",
+                    "content": "1. Trên cơ sở thông tin thu nhận, CIC sử\ndụng các giải pháp công nghệ, nghiệp vụ để xử lý dữ liệu thông tin tín dụng bao gồm các khâu tiếp nhận, chuẩn hóa, làm sạch, ghép nối và cập nhật vào Cơ sở dữ liệu Thông tin tín dụng quốc gia.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:180368:part:1:article:9:clause:2",
+                    "number": "2",
+                    "content": "2. Dữ liệu thông tin tín dụng được lưu giữ\ntại CIC, tổ chức tín dụng, chi nhánh ngân hàng nước ngoài, tổ chức tự nguyện trong thời gian tối thiểu 05 năm, kể từ ngày phát sinh dữ liệu.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:180368:part:1:article:9:clause:3",
+                    "number": "3",
+                    "content": "3. Việc xử lý, lưu giữ dữ liệu thông tin\ntín dụng phải bảo đảm tính toàn vẹn, đầy đủ, không bị sai lệch thông tin trong quá trình xử lý, lưu giữ và chiết xuất được khi có yêu cầu.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:180368:part:1:article:9:clause:4",
+                    "number": "4",
+                    "content": "4. Dữ liệu thông tin tín\ndụng phải được bảo mật, đảm bảo không bị xâm nhập trái với quy định tại Thông tư này và quy định khác của pháp luật.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:180368:part:1:article:10",
+                "number": "10",
+                "title": "Đối tượng khai thác thông tin tín dụng",
+                "content": "Điều 10. Đối tượng khai thác thông tin tín dụng",
+                "clauses": [
+                  {
+                    "clause_id": "doc:180368:part:1:article:10:clause:1",
+                    "number": "1",
+                    "content": "1. Cơ quan quản lý nhà nước khai thác sản\nphẩm thông tin tín dụng phục vụ trực tiếp cho hoạt động nghiệp vụ về thanh tra, giám sát, điều tra, truy tố, xét xử, thi hành án; điều tra, thống kê xã hội và các mục đích khác theo quy định của pháp luật.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:180368:part:1:article:10:clause:2",
+                    "number": "2",
+                    "content": "2. Các đơn vị thuộc Ngân hàng Nhà nước\nkhai thác sản phẩm thông tin tín dụng phục vụ cho yêu cầu quản lý nhà nước của Ngân hàng Nhà nước.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:180368:part:1:article:10:clause:3",
+                    "number": "3",
+                    "content": "3. Tổ chức tín dụng, chi nhánh ngân hàng\nnước ngoài khai thác dịch vụ thông tin tín dụng phục vụ cho nhu cầu tìm kiếm khách hàng, đánh giá khả năng trả nợ của khách hàng, quản lý rủi ro tín dụng và các hoạt động nghiệp vụ ngân hàng khác.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:180368:part:1:article:10:clause:4",
+                    "number": "4",
+                    "content": "4. Các tổ chức tự nguyện khai thác dịch\nvụ thông tin tín dụng phục vụ cho mục đích đánh giá khách hàng và các mục đích khác theo quy định của pháp luật.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:180368:part:1:article:10:clause:5",
+                    "number": "5",
+                    "content": "5. Khách hàng vay khai thác dịch vụ thông\ntin tín dụng để kiểm tra thông tin về bản thân và phục vụ mục đích khác theo quy định của pháp luật.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:180368:part:1:article:10:clause:6",
+                    "number": "6",
+                    "content": "6. Ngoài đối tượng quy định tại các khoản\ntrên, tổ chức hoặc cá nhân khi khai thác dịch vụ thông tin tín dụng về khách hàng vay phải có sự đồng ý bằng văn bản của khách hàng đó.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:180368:part:1:article:11",
+                "number": "11",
+                "title": "Hạn chế khai thác thông tin tín dụng",
+                "content": "Điều 11. Hạn chế khai thác thông tin tín dụng",
+                "clauses": [
+                  {
+                    "clause_id": "doc:180368:part:1:article:11:clause:1",
+                    "number": "1",
+                    "content": "1. Thông tin tiêu cực về khách hàng\nvay chỉ được sử dụng để tạo lập sản phẩm thông tin tín dụng trong thời gian tối đa 05 năm, kể từ ngày kết thúc thông tin tiêu cực đó, trừ trường hợp pháp luật có quy định khác.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:180368:part:1:article:11:clause:2",
+                    "number": "2",
+                    "content": "2. Thông tin về các khoản nợ đã được xử\nlý bằng dự phòng rủi ro chỉ được cung cấp cho Ngân hàng Nhà nước và các cơ quan quản lý nhà nước khác theo quy định của pháp luật.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:180368:part:1:article:11:clause:3",
+                    "number": "3",
+                    "content": "3. Tổ chức tự nguyện, khách hàng vay khai\nthác dịch vụ thông tin tín dụng theo thoả thuận và cam kết với CIC trên cơ sở nguyên tắc tự nguyện đảm bảo tuân thủ các quy định của pháp luật.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:180368:part:1:article:11:clause:4",
+                    "number": "4",
+                    "content": "4. Tổ chức, cá nhân vi phạm quy định tại\nThông tư này và các quy định khác của pháp luật tùy theo tính chất, mức độ sẽ bị hạn chế một phần, tạm dừng trong một thời gian hoặc ngừng vĩnh viễn quyền khai thác dịch vụ thông tin tín dụng.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:180368:part:1:chapter:3",
+            "number": "3",
+            "title": "QUYỀN VÀ NGHĨA VỤ CỦA TỔ CHỨC, CÁ NHÂN CÓ LIÊN QUAN",
+            "content": "Chương 3.\nQUYỀN\nVÀ NGHĨA VỤ CỦA TỔ CHỨC, CÁ NHÂN CÓ LIÊN QUAN",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:180368:part:1:article:12",
+                "number": "12",
+                "title": "Quyền và nghĩa vụ của Trung tâm Thông tin tín dụng",
+                "content": "Điều 12. Quyền và nghĩa vụ của Trung tâm Thông tin tín dụng",
+                "clauses": [
+                  {
+                    "clause_id": "doc:180368:part:1:article:12:clause:1",
+                    "number": "1",
+                    "content": "1. Xây dựng và hướng dẫn hệ thống mã số, chỉ tiêu thông\ntin, mẫu tệp dữ liệu báo cáo, cách thức truyền tin; cấp quyền truy cập hệ thống cho người sử dụng.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:180368:part:1:article:12:clause:2",
+                    "number": "2",
+                    "content": "2. Thu nhận, xử lý, lưu giữ, bảo mật\nthông tin tín dụng về khách hàng vay từ tổ chức tín dụng, chi nhánh ngân hàng nước ngoài, tổ chức tự nguyện và cá nhân.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:180368:part:1:article:12:clause:3",
+                    "number": "3",
+                    "content": "3. Đôn đốc, kiểm tra, giám sát việc thực\nhiện cung cấp thông tin tín dụng của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài theo quy định tại Điều 7, 8 Thông tư này.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:180368:part:1:article:12:clause:4",
+                    "number": "4",
+                    "content": "4. Phối hợp với các đơn vị thuộc Ngân\nhàng Nhà nước tạo lập và cung cấp kịp thời sản phẩm thông tin tín dụng để đáp ứng yêu cầu quản lý nhà nước.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:180368:part:1:article:12:clause:5",
+                    "number": "5",
+                    "content": "5. Công khai thông\ntin về nguyên tắc, phạm vi sử dụng dịch vụ thông tin tín dụng, quy trình khai thác và sử dụng dịch vụ thông tin tín dụng, mức phí sử dụng dịch vụ thông tin tín dụng cho người sử dụng.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:180368:part:1:article:12:clause:6",
+                    "number": "6",
+                    "content": "6. Hỗ trợ đào tạo cán bộ về nghiệp vụ thông tin tín\ndụng cho tổ chức tín dụng, chi nhánh ngân hàng nước ngoài và tổ chức tự nguyện khi có nhu cầu.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:180368:part:1:article:12:clause:7",
+                    "number": "7",
+                    "content": "7. Ký kết hợp đồng và\nthu phí sử dụng dịch vụ thông tin tín dụng đối với các đơn vị sử dụng, người sử dụng theo quy định của Ngân hàng Nhà nước và CIC.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:180368:part:1:article:12:clause:8",
+                    "number": "8",
+                    "content": "8. Quyết định mức thu dịch vụ trên nguyên tắc\nbảo đảm bù đắp đủ chi phí hoạt động.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:180368:part:1:article:12:clause:9",
+                    "number": "9",
+                    "content": "9. Hạn chế hoặc từ chối cung cấp sản\nphẩm, dịch vụ thông tin tín dụng cho tổ chức, cá nhân không tuân thủ quy định tại Thông tư này và các cam kết khác với CIC.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:180368:part:1:article:12:clause:10",
+                    "number": "10",
+                    "content": "10. Ban hành tiêu chí và tổ chức thực\nhiện việc đánh giá chất lượng cung cấp thông tin tín dụng; áp dụng các biện pháp khuyến khích đối với tổ chức, cá nhân thực hiện tốt hoạt động thông tin tín dụng; đề xuất việc xử lý vi phạm quy định về hoạt động thông tin tín dụng.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:180368:part:1:article:12:clause:11",
+                    "number": "11",
+                    "content": "11. Tổ chức\nlấy ý kiến đánh giá của đơn vị sử dụng, người sử dụng về chất lượng dịch vụ thông tin tín dụng tối thiểu một năm một lần.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:180368:part:1:article:13",
+                "number": "13",
+                "title": "Quyền và nghĩa vụ của các đơn vị liên quan thuộc Ngân hàng Nhà nước",
+                "content": "Điều 13. Quyền và nghĩa vụ của các đơn vị liên quan thuộc Ngân hàng Nhà nước",
+                "clauses": [
+                  {
+                    "clause_id": "doc:180368:part:1:article:13:clause:1",
+                    "number": "1",
+                    "content": "1. Các đơn vị có liên quan thuộc Ngân\nhàng Nhà nước trong phạm vi chức năng, nhiệm vụ của mình được khai thác sản phẩm thông tin tín dụng phục vụ hoạt động quản lý nhà nước theo quy định tại Thông tư này.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:180368:part:1:article:13:clause:2",
+                    "number": "2",
+                    "content": "2. Trách nhiệm phối hợp với CIC",
+                    "points": [
+                      {
+                        "point_id": "doc:180368:part:1:article:13:clause:2:point:1",
+                        "label": "a",
+                        "content": "a) Cơ quan Thanh tra, giám sát Ngân hàng\n- Cung cấp cho CIC các thông tin sau: danh sách tổ chức tín dụng, chi nhánh, đơn vị trực thuộc tổ chức tín dụng, chi nhánh ngân hàng nước ngoài được thành lập, giải thể, phá sản, mua bán, sáp nhập; cổ đông hoặc thành viên sáng lập, cổ đông lớn của tổ chức tín dụng; vốn tự có của tổ chức tín dụng và các thông tin liên quan đến hoạt động tín dụng của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài; - Chủ trì và phối hợp với CIC thực hiện thanh tra, kiểm tra hoạt động thông tin tín dụng tại tổ chức tín dụng, chi nhánh ngân hàng nước ngoài.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:180368:part:1:article:13:clause:2:point:2",
+                        "label": "b",
+                        "content": "b) Vụ\nDự báo, thống kê tiền tệ cung cấp cho CIC số liệu thống kê về hoạt động tín dụng của ngành;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:180368:part:1:article:13:clause:2:point:3",
+                        "label": "c",
+                        "content": "c) Vụ Quản lý Ngoại hối cung cấp cho CIC\nsố liệu về tình hình vay, trả nợ nước ngoài của tổ chức, cá nhân trong nước theo thẩm quyền;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:180368:part:1:article:13:clause:2:point:4",
+                        "label": "d",
+                        "content": "d) Vụ Tín dụng cung cấp cho\nCIC các trường hợp được cho vay vượt quy định của Ngân hàng Nhà nước;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:180368:part:1:article:13:clause:2:point:5",
+                        "label": "e",
+                        "content": "e) Ngân hàng Nhà nước chi nhánh tỉnh,\nthành phố trực thuộc Trung ương cung cấp cho CIC số liệu về tình hình vay, trả nợ nước ngoài của các tổ chức, cá nhân trong nước; phối hợp với CIC trong việc thực hiện hoạt động thông tin tín dụng trên địa bàn.",
+                        "children": []
+                      }
+                    ]
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:180368:part:1:article:14",
+                "number": "14",
+                "title": "Quyền và nghĩa vụ của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài",
+                "content": "Điều 14. Quyền và nghĩa vụ của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài",
+                "clauses": [
+                  {
+                    "clause_id": "doc:180368:part:1:article:14:clause:1",
+                    "number": "1",
+                    "content": "1. Cung cấp và chịu trách nhiệm về tính\nchính xác, đầy đủ, kịp thời của thông tin tín dụng theo quy định tại Điều 7, 8 Thông tư này và hướng dẫn của CIC.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:180368:part:1:article:14:clause:2",
+                    "number": "2",
+                    "content": "2. Xây dựng, thiết lập hệ thống công nghệ\nthông tin đáp ứng yêu cầu tạo lập dữ liệu, kiểm soát dữ liệu cung cấp cho CIC; ban hành các quy định nội bộ và quản lý hệ thống chỉ tiêu thông tin tín dụng trong toàn hệ thống.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:180368:part:1:article:14:clause:3",
+                    "number": "3",
+                    "content": "3. Khai thác, sử dụng dịch vụ thông tin\ntín dụng theo quy định tại Điều 11 Thông tư này và hướng dẫn của CIC.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:180368:part:1:article:14:clause:4",
+                    "number": "4",
+                    "content": "4. Kiểm tra, xác minh, điều chỉnh dữ liệu\nsai sót theo yêu cầu của CIC, khách hàng vay hoặc khi phát hiện sai sót.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:180368:part:1:article:14:clause:5",
+                    "number": "5",
+                    "content": "5. Thanh toán đầy đủ,\nkịp thời phí khai thác dịch vụ thông tin tín dụng theo thỏa thuận tại hợp đồng.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:180368:part:1:article:14:clause:6",
+                    "number": "6",
+                    "content": "6. Cử cán bộ, nhân viên tham gia các khóa\nđào tạo nghiệp vụ thông tin tín dụng do CIC tổ chức hoặc phối hợp tổ chức.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:180368:part:1:article:15",
+                "number": "15",
+                "title": "Quyền và nghĩa vụ của tổ chức tự nguyện tham gia hệ thống thông tin tín dụng",
+                "content": "Điều 15. Quyền và nghĩa vụ của tổ chức tự nguyện tham gia hệ thống thông tin tín dụng",
+                "clauses": [
+                  {
+                    "clause_id": "doc:180368:part:1:article:15:clause:1",
+                    "number": "1",
+                    "content": "1. Cung cấp và chịu trách nhiệm về tính\nchính xác, đầy đủ, kịp thời của thông tin tín dụng theo quy định của pháp luật và các cam kết với CIC.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:180368:part:1:article:15:clause:2",
+                    "number": "2",
+                    "content": "2. Kiểm tra, xác minh, điều chỉnh dữ liệu\nsai sót theo yêu cầu của CIC, khách hàng vay hoặc khi phát hiện sai sót.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:180368:part:1:article:15:clause:3",
+                    "number": "3",
+                    "content": "3. Khai thác, sử dụng dịch vụ thông tin\ntín dụng theo quy định tại Điều 10, 11 Thông tư này và các cam kết với CIC.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:180368:part:1:article:15:clause:4",
+                    "number": "4",
+                    "content": "4. Thanh toán đầy đủ,\nkịp thời phí khai thác dịch vụ thông tin tín dụng theo thỏa thuận tại hợp đồng.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:180368:part:1:article:15:clause:5",
+                    "number": "5",
+                    "content": "5. Cử cán bộ, nhân viên tham gia các khóa\nđào tạo nghiệp vụ thông tin tín dụng do CIC tổ chức hoặc phối hợp tổ chức.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:180368:part:1:article:16",
+                "number": "16",
+                "title": "Quyền và nghĩa vụ của khách hàng vay",
+                "content": "Điều 16. Quyền và nghĩa vụ của khách hàng vay",
+                "clauses": [
+                  {
+                    "clause_id": "doc:180368:part:1:article:16:clause:1",
+                    "number": "1",
+                    "content": "1. Khai thác miễn phí thông tin tín dụng\nvề bản thân một lần trong một năm, bao gồm các chỉ tiêu thông tin tín dụng tại điểm a, c, d và e khoản 1 Điều 7 Thông tư này.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:180368:part:1:article:16:clause:2",
+                    "number": "2",
+                    "content": "2. Sử dụng các sản phẩm thông tin tín\ndụng khác về bản thân theo hướng dẫn của CIC.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:180368:part:1:article:16:clause:3",
+                    "number": "3",
+                    "content": "3. Yêu cầu CIC, tổ chức tín dụng, tổ chức\nkhác có liên quan xem xét, điều chỉnh dữ liệu thông tin tín dụng về bản thân nếu phát hiện có sai sót.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:180368:part:1:article:16:clause:4",
+                    "number": "4",
+                    "content": "4. Khiếu nại khi phát hiện thông tin tín\ndụng của mình có sai sót theo quy định tại Điều 18 Thông tư này.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:180368:part:1:article:16:clause:5",
+                    "number": "5",
+                    "content": "5. Khách hàng vay có nghĩa vụ cung cấp\nđầy đủ, trung thực thông tin tín dụng cho CIC hoặc tổ chức tín dụng hoặc tổ chức khác có liên quan trong quá trình xử lý khiếu nại.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:180368:part:1:article:16:clause:6",
+                    "number": "6",
+                    "content": "6. Thanh toán đầy đủ,\nkịp thời phí khai thác dịch vụ thông tin tín dụng theo quy định của CIC.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:180368:part:1:chapter:4",
+            "number": "4",
+            "title": "ĐIỀU CHỈNH DỮ LIỆU SAI SÓT, GIẢI QUYẾT KHIẾU NẠI VÀ XỬ LÝ VI PHẠM",
+            "content": "Chương 4.\nĐIỀU\nCHỈNH DỮ LIỆU SAI SÓT, GIẢI QUYẾT KHIẾU NẠI VÀ XỬ LÝ VI PHẠM",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:180368:part:1:article:17",
+                "number": "17",
+                "title": "Điều chỉnh dữ liệu sai sót",
+                "content": "Điều 17. Điều chỉnh dữ liệu sai sót",
+                "clauses": [
+                  {
+                    "clause_id": "doc:180368:part:1:article:17:clause:1",
+                    "number": "1",
+                    "content": "1. Khi phát hiện dữ liệu có sai sót, tổ\nchức tín dụng, chi nhánh ngân hàng nước ngoài, tổ chức tự nguyện phải gửi lại dữ liệu thông tin tín dụng và có văn bản của người có thẩm quyền nêu rõ lý do sai sót và đề nghị CIC điều chỉnh dữ liệu sai sót đó.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:180368:part:1:article:17:clause:2",
+                    "number": "2",
+                    "content": "2. Trường hợp CIC phát hiện hoặc\nnghi ngờ dữ liệu có sai sót, CIC phối hợp với tổ chức tín dụng, chi nhánh ngân hàng nước ngoài, tổ chức tự nguyện để xem xét, điều chỉnh lại dữ liệu theo trình tự sau:",
+                    "points": [
+                      {
+                        "point_id": "doc:180368:part:1:article:17:clause:2:point:1",
+                        "label": "a",
+                        "content": "a) Dữ liệu không đúng tiêu chuẩn như sai\nmẫu tệp, thiếu chỉ tiêu thông tin bắt buộc, trùng lặp thông tin hoặc các lỗi kỹ thuật khác, CIC gửi trả lại toàn bộ dữ liệu hoặc phần dữ liệu sai sót. Trong thời hạn 01 ngày làm việc, tổ chức tín dụng, chi nhánh ngân hàng nước ngoài, tổ chức tự nguyện phải chỉnh sửa và gửi lại dữ liệu báo cáo;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:180368:part:1:article:17:clause:2:point:2",
+                        "label": "b",
+                        "content": "b) Dữ liệu nghi ngờ có sai sót được CIC\ngửi trả lại toàn bộ dữ liệu hoặc phần dữ liệu có nghi ngờ. Trong thời hạn 01 ngày làm việc, tổ chức tín dụng, chi nhánh ngân hàng nước ngoài, tổ chức tự nguyện phải kiểm tra lại dữ liệu và thông báo kết quả cho CIC, nếu có sai sót thực hiện điều chỉnh dữ liệu theo quy định tại khoản 1 Điều này.",
+                        "children": []
+                      }
+                    ]
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:180368:part:1:article:18",
+                "number": "18",
+                "title": "Giải quyết khiếu nại",
+                "content": "Điều 18. Giải quyết khiếu nại",
+                "clauses": [
+                  {
+                    "clause_id": "doc:180368:part:1:article:18:clause:1",
+                    "number": "1",
+                    "content": "1. Trường hợp khách hàng vay phát\nhiện thông tin tín dụng về bản thân có sai sót, khách hàng vay có quyền khiếu nại với CIC, tổ chức tín dụng, chi nhánh ngân hàng nước ngoài hoặc tổ chức tự nguyện (sau đây gọi là tổ chức tiếp nhận khiếu nại) để yêu cầu kiểm tra, điều chỉnh lại thông tin, nhưng không được lợi dụng khiếu nại sai sự thật. Việc khiếu nại có thể thực hiện qua hệ thống điện tử hoặc gửi bằng văn bản, trong đó phải nêu rõ lý do kèm theo các tài liệu, căn cứ chứng minh dữ liệu có sai sót.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:180368:part:1:article:18:clause:2",
+                    "number": "2",
+                    "content": "2. Trong thời hạn 05 ngày làm việc kể từ\nngày nhận được khiếu nại, tổ chức tiếp nhận khiếu nại phải thông báo cho khách hàng vay biết. Trường hợp cần bổ sung thông tin để có cơ sở xác minh, giải quyết, tổ chức tiếp nhận khiếu nại phải thông báo để khách hàng vay cung cấp thông tin, tài liệu liên quan.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:180368:part:1:article:18:clause:3",
+                    "number": "3",
+                    "content": "3. Trong thời hạn 10 ngày làm việc, kể từ\nngày tiếp nhận khiếu nại hợp lệ, tổ chức tiếp nhận khiếu nại phải xem xét, điều chỉnh dữ liệu sai sót và thông báo cho khách hàng vay biết. Trường hợp phải thực hiện việc kiểm tra, xác minh nội dung yêu cầu khiếu nại tại các cơ quan, tổ chức có liên quan, tổ chức tiếp nhận khiếu nại được kéo dài thời gian giải quyết khiếu nại theo tình hình thực tế nhưng phải thông báo cho khách hàng vay biết về nguyên nhân kéo dài thời gian.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:180368:part:1:article:18:clause:4",
+                    "number": "4",
+                    "content": "4. Trường hợp thông tin tín dụng\nbị sai sót gây bất lợi cho khách hàng vay, CIC phải gửi thông báo đính chính sai sót cho đơn vị sử dụng. Khi nhận được thông báo đính chính sai sót, đơn vị sử dụng phải xem xét lại quyết định cấp tín dụng.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:180368:part:1:article:18:clause:5",
+                    "number": "5",
+                    "content": "5. Trong thời hạn 02 ngày làm việc kể từ\nkhi có kết quả giải quyết khiếu nại, tổ chức tiếp nhận khiếu nại phải thông báo cho khách hàng vay về kết quả giải quyết khiếu nại.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:180368:part:1:article:19",
+                "number": "19",
+                "title": "Xử lý vi phạm Tổ chức, cá nhân vi phạm quy định tại Thông tư này, tùy theo tính chất và mức độ vi phạm sẽ bị xử lý theo quy định của pháp luật.",
+                "content": "Điều 19. Xử lý vi phạm Tổ chức, cá nhân vi phạm quy định tại Thông tư này, tùy theo tính chất và mức độ vi phạm sẽ bị xử lý theo quy định của pháp luật.",
+                "clauses": [],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:180368:part:1:chapter:5",
+            "number": "5",
+            "title": "ĐIỀU KHOẢN THI HÀNH",
+            "content": "Chương 5.\nĐIỀU KHOẢN THI HÀNH",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:180368:part:1:article:20",
+                "number": "20",
+                "title": "Hiệu lực thi hành Thông tư này có hiệu lực thi hành kể từ ngày 01 tháng 7 năm 2013 và thay thế Quyết định số 51/2007/QĐ-NHNN ngày 31 tháng 12 năm 2007 của Thống đốc Ngân hàng Nhà nước về việc ban hành Quy chế hoạt động thông tin tín dụng.",
+                "content": "Điều 20. Hiệu lực thi hành Thông tư này có hiệu lực thi hành kể từ ngày 01 tháng 7 năm 2013 và thay thế Quyết định số 51/2007/QĐ-NHNN ngày 31 tháng 12 năm 2007 của Thống đốc Ngân hàng Nhà nước về việc ban hành Quy chế hoạt động thông tin tín dụng.",
+                "clauses": [],
+                "points": []
+              },
+              {
+                "article_id": "doc:180368:part:1:article:21",
+                "number": "21",
+                "title": "Tổ chức thực hiện",
+                "content": "Điều 21. Tổ chức thực hiện",
+                "clauses": [
+                  {
+                    "clause_id": "doc:180368:part:1:article:21:clause:1",
+                    "number": "1",
+                    "content": "1. Giám đốc Trung tâm\nThông tin tín dụng có trách nhiệm hướng dẫn, tổ chức thực hiện Thông tư này.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:180368:part:1:article:21:clause:2",
+                    "number": "2",
+                    "content": "2. Thủ trưởng các đơn vị thuộc Ngân hàng\nNhà nước, Chủ tịch Hội đồng quản trị, Chủ tịch Hội đồng thành viên và Tổng giám đốc (Giám đốc) các tổ chức tín dụng, chi nhánh ngân hàng nước ngoài, tổ chức và cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:180368:part:1:article:22",
+                "number": "21",
+                "title": "; - Ban Lãnh đạo Ngân hàng Nhà nước; - Văn phòng Chính phủ (2 bản); - Bộ Tư pháp (để kiểm tra); - Công báo; - Lưu: VP, PC, TTTD. KT. THỐNG ĐỐC PHÓ THỐNG ĐỐC Đặng Thanh Bình PHỤ LỤC HỆ THỐNG CHỈ TIÊU THÔNG TIN TÍN DỤNG (Ban hành kèm theo Thông tư số 03/2013/TT-NHNN ngày 28/01/2013) STT Mã chỉ tiêu báo cáo Mã chỉ tiêu gốc Tên chỉ tiêu Định dạng Ghi chú Thông tin khai báo chung 1 KB001 KB001 Họ và tên người báo cáo thông tin C 2 KB002 KB002 Số điện thoại người báo cáo thông tin C 3 KB003 KB003 Vốn tự có của TCTD N Thông tin nhận dạng khách hàng vay là cá nhân/Hộ kinh doanh cá thể 4 CN001 CN001 Mã chi nhánh TCTD C 5 CN002 CN002 Mã khách hàng do TCTD cấp C 6 CN003 CN003 Họ và tên khách hàng vay C 7 CN004 CN004 Giới tính N Nam = 1, nữ = 0 8 CN005 CN005 Ngày sinh D 9 CN006 CN006 Địa chỉ C 10 CN007 CN007 Mã tỉnh, thành phố C Bảng mã 01 11 CN008 CN008 Số điện thoại C 12 CN009 CN009 Mã Quốc tịch C Bảng mã 02 13 CN010 CN010 Chứng minh nhân dân CN0101 CN0101 Số chứng minh nhân dân C CN0102 CN0102 Ngày cấp chứng minh nhân dân D 14 CN011 CN011 Giấy tờ cá nhân khác nếu có CN0111xx CN0111 Số giấy tờ cá nhân xx C xx = Bảng mã 03 CN0112xx CN0112 Ngày cấp giấy tờ cá nhân xx D 15 CN012 CN012 Mã số thuế C 16 CN013 CN013 Đăng ký kinh doanh Đối với hộ kinh doanh cá thể CN0131 CN0131 Số đăng ký kinh doanh C CN0132 CN0132 Ngày cấp đăng ký kinh doanh D 17 CN014 CN014 Họ tên vợ hoặc chồng C Nếu có 18 CN015 CN015 Số Chứng minh nhân dân của vợ/chồng C Thông tin nhận dạng khách hàng vay là doanh nghiệp/tổ chức khác 19 TC001 TC001 Mã chi nhánh TCTD C 20 TC002 TC002 Mã khách hàng do TCTD cấp C 21 TC003 TC003 Tên doanh nghiệp/tổ chức khác C 22 TC004 TC004 Tên đối ngoại C 23 TC005 TC005 Tên viết tắt C 24 TC006 TC006 Địa chỉ C 25 TC007 TC007 Mã tỉnh, thành phố C Bảng mã 01 26 TC008 TC008 Thông tin liên lạc khác Nếu có TC0081 TC0081 Điện thoại C TC0082 TC0082 Fax C TC0083 TC0083 Website C TC0084 TC0084 Email C 27 TC009 TC009 Mã số thuế (mã số doanh nghiệp đối với doanh nghiệp mới hoặc điều chỉnh) C 28 TC010 TC010 Ngày cấp mã số thuế D Ngày cấp lần đầu 29 TC011 TC011 Số quyết định thành lập (áp dụng đối với tổ chức không phải là doanh nghiệp như: tổ chức xã hội, đơn vị sự nghiệp...) C 30 TC012 TC012 Ngày cấp quyết định thành lập D 31 TC013 TC013 Số đăng ký kinh doanh C Số Giấy phép đầu tư nếu DN có vốn đầu tư nước ngoài 32 TC014 TC014 Ngày cấp đăng ký kinh doanh D 33 TC015 TC015 Mã loại hình doanh nghiệp/tổ chức khác C Bảng mã 04 34 TC016 TC016 Mã ngành nghề kinh doanh N Bảng mã 05 35 TC017 TC017 Vốn điều lệ TC0171yy TC0171 Số tiền nguyên tệ N yy = Bảng mã 06 TC0172yy TC0172 Mã tiền tệ yy C 36 TC018 TC018 Người đại diện theo pháp luật C 37 TC019 TC019 Số chứng minh nhân dân người đại diện C 38 TC020zz TC020 Họ tên thành viên HĐQT/HĐTV thứ zz C zz lấy từ 01 đến 99 (nếu có) 39 TC021zz TC021 Địa chỉ thành viên HĐQT/HĐTV thứ zz C 40 TC022zz TC022 Số chứng minh nhân dân HĐQT/HĐTV thứ zz C 41 TC023 TC023 Họ và tên Tổng giám đốc/Giám đốc C 42 TC024 TC024 Số chứng minh nhân dân Tổng giám đốc/Giám đốc C Thông tin Hợp đồng tín dụng 43 HD001 HD001 Mã chi nhánh TCTD C 44 HD002 HD002 Mã khách hàng do TCTD cấp C 45 HD003 HD003 Tên khách hàng vay C 46 HD004 HD004 Số Hợp đồng tín dụng C 47 HD005 HD005 Ngày ký hợp đồng D 48 HD006 HD006 Ngày kết thúc hợp đồng D 49 HD007 HD007 Ngày phát sinh D 50 HD008 HD008 Lãi suất (% năm) N 51 HD009 HD009 Mục đích sử dụng tiền vay C Bảng mã 07 52 HD010 HD010 Loại vay C Bảng mã 08 53 HD011 HD011 Mã tiền tệ C Bảng mã 06 54 HD012 HD012 Hạn mức tín dụng trên hợp đồng N 55 HD013 HD013 Số tiền cho vay trong kỳ N 56 HD014 HD014 Số tiền thu nợ trong kỳ N 57 HD015 HD015 Số dư nợ theo nguyên tệ N 58 HD016 HD016 Nhóm nợ C Bảng mã 09 59 HD017 HD017 Ngày trả nợ kỳ tiếp theo D 60 HD018 HD018 Số tiền trả nợ kỳ tiếp theo N 61 HD019 HD019 Số ngày chậm trả nợ thực tế N 62 HD020 HD020 Số tiền chậm trả nợ thực tế N 63 HD021 HD021 Số lần gia hạn nợ N 64 HD022 HD022 Số tiền gia hạn nợ N Thông tin quan hệ tín dụng của khách hàng vay 65 DN001 DN001 Mã chi nhánh TCTD C 66 DN002 DN002 Mã khách hàng do TCTD cấp C 67 DN003 DN003 Tên khách hàng vay C 68 DN004 DN004 Ngày báo cáo D 69 DNA05aabbcc DNA05 Dư nợ cam kết nội bảng theo loại vay aa, loại tiền vay bb, nhóm nợ cc N aa = Bảng mã 08; bb = Bảng mã 06; cc = Bảng mã 09 70 DNA06 DNA06 Lãi cho vay chưa thu hạch toán nội bảng N 71 DNA07 DNA07 Dự phòng phải trích nội bảng N 72 DNA08 DNA08 Dự phòng đã trích nội bảng N 73 DNB09bbcc DNB09 Dư nợ cam kết ngoại bảng theo loại tiền vay bb, nhóm nợ cc N bb = Bảng mã 06; cc = Bảng mã 09 74 DNB10 DNB10 Dự phòng phải trích ngoại bảng N 75 DNB11 DNB11 Dự phòng đã trích ngoại bảng N 76 DNB12 DNB12 Lãi cho vay chưa thu hạch toán ngoại bảng N 77 DNB13 DNB13 Số lần gia hạn nợ, điều chỉnh kỳ hạn nợ N Thông tin nhận dạng chủ thẻ tín dụng 78 TH000 TH000 Mã chi nhánh TCTD C 79 TH001 TH001 Mã khách hàng do TCTD cấp C 80 TH002 TH002 Họ và tên chủ thẻ chính C 81 TH003 TH003 Địa chỉ C 82 TH004 TH004 Mã tỉnh, thành phố C Bảng mã 01 83 TH005 TH005 Số điện thoại C 84 TH006 TH006 Quốc tịch C Bảng mã 02 85 TH007 TH007 Giới tính N Nam = 1, nữ = 0 86 TH008 TH008 Ngày sinh D 87 TH009 TH009 Chứng minh nhân dân TH0091 TH0091 Số chứng minh nhân dân C TH0092 TH0092 Ngày cấp chứng minh nhân dân D 88 TH010 TH010 Giấy tờ cá nhân khác TH0101xx TH0101 Số giấy tờ xx C xx = Bảng mã 03 TH0102xx TH0102 Ngày cấp giấy tờ xx D 89 TH011 TH011 Mã số thuế C 90 TH012 TH012 Họ tên vợ hoặc chồng C Nếu có 91 TH013 TH013 Số chứng minh nhân dân của vợ/chồng C 92 TH014zz TH014 Họ tên chủ thẻ phụ zz C zz lấy từ 01 đến 99 93 TH015zz TH015 Số chứng minh nhân dân chủ thẻ phụ zz C Thông tin tình trạng tài khoản thẻ tín dụng 94 TH000 TH000 Mã chi nhánh TCTD C 95 TH001 TH001 Mã khách hàng do TCTD cấp C 96 TH002 TH002 Họ và tên chủ thẻ chính C 97 TH101 TH101 Số Hợp đồng C 98 TH102 TH102 Loại thẻ C 99 TH103 TH103 Ngày mở thẻ D 100 TH104 TH104 Ngày hết hạn D 101 TH105 TH105 Ngày đóng thẻ D Với thẻ được đóng trước hạn 102 TH106 TH106 Hạn mức tín dụng N 103 TH107 TH107 Ngày sao kê D 104 TH108 TH108 Số tiền phải thanh toán N 105 TH109 TH109 Số tiền phải thanh toán tối thiểu N 106 TH110 TH110 Số tiền đã thanh toán N 107 TH111 TH111 Số tiền quá hạn N 108 TH112 TH112 Số ngày quá hạn N 109 TH113 TH113 Số lần quá hạn N Thông tin bảo đảm tiền vay 110 TS001 TS001 Mã chi nhánh TCTD C 111 TS002 TS002 Mã khách hàng do TCTD cấp C 112 TS003 TS003 Tên khách hàng vay C Khách hàng vay không có tài sản bảo đảm 113 TS004 TS004 Nơi làm việc C 114 TS005 TS005 Vị trí làm việc C 115 TS006 TS006 Số năm làm việc N 116 TS007 TS007 Thu nhập bình quân hàng tháng N Khách hàng vay có tài sản bảo đảm 117 TS008 TS008 Mã số tài sản bảo đảm do TCTD cấp C 118 TS009 TS009 Mã loại tài sản bảo đảm C Bảng mã 10 119 TS010 TS010 Tên chủ sở hữu tài sản C 120 TS011 TS011 Số chứng minh nhân dân của chủ sở hữu C 121 TS012 TS012 Mã số thuế của chủ sở hữu C 122 TS013 TS013 Ngày bắt đầu D Ngày cầm cố, thế chấp tài sản 123 TS014 TS014 Ngày kết thúc D Ngày giải chấp tài sản 124 TS015 TS015 Giá trị tài sản N 125 TS016 TS016 Ngày định giá D 126 TS017 TS017 Mô tả tài sản C Thông tin tài chính của khách hàng vay là doanh nghiệp Các chỉ tiêu trong Bảng cân đối kế toán 127 BC000yyyy BC000 Mã chi nhánh TCTD C 128 BC001yyyy BC001 Mã khách hàng do tổ chức tín dụng cấp C 129 BC002yyyy BC002 Tên khách hàng vay C 130 BC003yyyy BC003 Năm tài chính C 131 BC004yyyy BC004 Đơn vị tính C 132 BC005yyyy BC005 Loại tiền C Bảng mã 06 133 BC006yyyy BC006 Kiểm toán C (1=Có, 0=không) 134 BC007yyyy BC007 Báo cáo hợp nhất C (1=Có, 0=không) 135 CD100yyyy CD100 Tài sản ngắn hạn N 136 CD110yyyy CD110 Tiền và các khoản tương đương tiền N 137 CD111yyyy CD111 Tiền N 138 CD112yyyy CD112 Các khoản tương đương tiền N 139 CD120yyyy CD120 Các khoản đầu tư tài chính ngắn hạn N 140 CD121yyyy CD121 Đầu tư ngắn hạn N 141 CD129yyyy CD129 Dự phòng giảm giá đầu tư ngắn hạn N 142 CD130yyyy CD130 Các khoản phải thu ngắn hạn N 143 CD131yyyy CD131 Phải thu khách hàng N 144 CD132yyyy CD132 Trả trước cho người bán N 145 CD133yyyy CD133 Phải thu nội bộ ngắn hạn N 146 CD134yyyy CD134 Phải thu theo tiến độ kế hoạch hợp đồng xây dựng N 147 CD135yyyy CD135 Các khoản phải thu khác N 148 CD139yyyy CD139 Dự phòng phải thu ngắn hạn khó đòi N 149 CD140yyyy CD140 Hàng tồn kho N 150 CD141yyyy CD141 Hàng tồn kho N 151 CD149yyyy CD149 Dự phòng giảm giá hàng tồn kho N 152 CD150yyyy CD150 Tài sản ngắn hạn khác N 153 CD151yyyy CD151 Chi phí trả trước ngắn hạn N 154 CD152yyyy CD152 Thuế GTGT được khấu trừ N 155 CD154yyyy CD154 Thuế và các khoản khác phải thu Nhà nước N 156 CD158yyyy CD158 Tài sản ngắn hạn khác N 157 CD200yyyy CD200 Tài sản dài hạn N 158 CD210yyyy CD210 Các khoản phải thu dài hạn N 159 CD211yyyy CD211 Phải thu dài hạn của khách hàng N 160 CD212yyyy CD212 Vốn kinh doanh ở đơn vị trực thuộc N . 161 CD213yyyy CD213 Phải thu dài hạn nội bộ N 162 CD218yyyy CD218 Phải thu dài hạn khác N 163 CD219yyyy CD219 Dự phòng phải thu dài hạn khó đòi N 164 CD220yyyy CD220 Tài sản cố định N 165 CD221yyyy CD221 Tài sản cố định hữu hình N 166 CD222yyyy CD222 Nguyên giá N 167 CD223yyyy CD223 Giá trị hao mòn lũy kế N 168 CD224yyyy CD224 Tài sản cố định thuê tài chính N 169 CD225yyyy CD225 Nguyên giá N 170 CD226yyyy CD226 Giá trị hao mòn lũy kế N 171 CD227yyyy CD227 Tài sản cố định vô hình N 172 CD228yyyy CD228 Nguyên giá N 173 CD229yyyy CD229 Giá trị hao mòn lũy kế N 174 CD230yyyy CD230 Chi phí xây dựng cơ bản dở dang N 175 CD240yyyy CD240 Bất động sản đầu tư N 176 CD241yyyy CD241 Nguyên giá N 177 CD242yyyy CD242 Giá trị hao mòn lũy kế N 178 CD250yyyy CD250 Các khoản đầu tư tài chính dài hạn N 179 CD251yyyy CD251 Đầu tư vào công ty con N 180 CD252yyyy CD252 Đầu tư vào công ty liên kết, liên doanh N 181 CD258yyyy CD258 Đầu tư dài hạn khác N 182 CD259yyyy CD259 Dự phòng giảm giá đầu tư tài chính dài hạn N 183 CD260yyyy CD260 Tài sản dài hạn khác N 184 CD261yyyy CD261 Chi phí trả trước dài hạn N 185 CD262yyyy CD262 Tài sản thuế thu nhập hoãn lại N 186 CD268yyyy CD268 Tài sản dài hạn khác N 187 CD270yyyy CD270 Tổng cộng tài sản N 188 CD300yyyy CD300 Nợ phải trả N 189 CD310yyyy CD310 Nợ ngắn hạn N 190 CD311yyyy CD311 Vay và nợ ngắn hạn N 191 CD312yyyy CD312 Phải trả người bán N 192 CD313yyyy CD313 Người mua trả tiền trước N 193 CD314yyyy CD314 Thuế và các khoản phải nộp Nhà nước N 194 CD315yyyy CD315 Phải trả người lao động N 195 CD316yyyy CD316 Chi phí phải trả N 196 CD317yyyy CD317 Phải trả nội bộ N 197 CD318yyyy CD318 Phải trả theo tiến độ kế hoạch hợp đồng xây dựng N 198 CD319yyyy CD319 Các khoản phải trả, phải nộp ngắn hạn khác N 199 CD320yyyy CD320 Dự phòng phải trả ngắn hạn N 200 CD330yyyy CD330 Nợ dài hạn N 201 CD331yyyy CD331 Phải trả dài hạn người bán N 202 CD332yyyy CD332 Phải trả dài hạn nội bộ N 203 CD333yyyy CD333 Phải trả dài hạn khác N 204 CD334yyyy CD334 Vay và nợ dài hạn N 205 CD335yyyy CD335 Thuế thu nhập hoãn lại phải trả N 206 CD336yyyy CD336 Dự phòng trợ cấp mất việc làm N 207 CD337yyyy CD337 Dự phòng phải trả dài hạn N 208 CD400yyyy CD400 Vốn chủ sở hữu N 209 CD410yyyy CD410 Vốn chủ sở hữu N 210 CD411yyyy CD411 Vốn đầu tư của chủ sở hữu N 211 CD412yyyy CD412 Thặng dư vốn cổ phần N 212 CD413yyyy CD413 Vốn khác của chủ sở hữu N 213 CD414yyyy CD414 Cổ phiếu quỹ N 214 CD415yyyy CD415 Chênh lệch đánh giá lại tài sản N 215 CD416yyyy CD416 Chênh lệch tỷ giá hối đoái N 216 CD417yyyy CD417 Quỹ đầu tư phát triển N 217 CD418yyyy CD418 Quỹ dự phòng tài chính N 218 CD419yyyy CD419 Quỹ khác thuộc vốn chủ sở hữu N 219 CD420yyyy CD420 Lợi nhuận sau thuế chưa phân phối N 220 CD421yyyy CD421 Nguồn vốn đầu tư XDCB N 221 CD430yyyy CD430 Nguồn kinh phí và quỹ khác N 222 CD431yyyy CD431 Quỹ khen thưởng, phúc lợi N 223 CD432yyyy CD432 Nguồn kinh phí N 224 CD433yyyy CD433 Nguồn kinh phí đã hình thành TSCĐ N 225 CD439yyyy CD439 Lợi ích cổ đông thiểu số N 226 CD440yyyy CD440 Tổng cộng nguồn vốn N Các chỉ tiêu trong Báo cáo kết quả kinh doanh 227 KQ01yyyy KQ01 Doanh thu bán hàng và cung cấp dịch vụ N 228 KQ02yyyy KQ02 Các khoản giảm trừ doanh thu N 229 KQ10yyyy KQ10 Doanh thu thuần về bán hàng và cung cấp dịch vụ N 230 KQ11yyyy KQ11 Giá vốn hàng bán N 231 KQ20yyyy KQ20 Lợi nhuận gộp về bán hàng và cung cấp dịch vụ N 232 KQ21yyyy KQ21 Doanh thu hoạt động tài chính N 233 KQ22yyyy KQ22 Chi phí tài chính N 234 KQ23yyyy KQ23 Trong đó: Chi phí lãi vay N 235 KQ24yyyy KQ24 Chi phí bán hàng N 236 KQ25yyyy KQ25 Chi phí quản lý doanh nghiệp N 237 KQ30yyyy KQ30 Lợi nhuận thuần từ hoạt động kinh doanh N 238 KQ31yyyy KQ31 Thu nhập khác N 239 KQ32yyyy KQ32 Chi phí khác N 240 KQ40yyyy KQ40 Lợi nhuận khác N 241 KQ50yyyy KQ50 Tổng lợi nhuận kế toán trước thuế N 242 KQ51yyyy KQ51 Chi phí thuế TNDN hiện hành N 243 KQ52yyyy KQ52 Chi phí thuế TNDN hoãn lại N 244 KQ60yyyy KQ60 Lợi nhuận sau thuế thu nhập doanh nghiệp N 245 KQ70yyyy KQ70 Lãi cơ bản trên cổ phiếu N Các chỉ tiêu trong báo cáo lưu chuyển tiền tệ (trực tiếp) Lưu chuyển tiền từ hoạt động kinh doanh 246 LCT01yyyy LCT01 Tiền thu từ bán hàng, cung cấp dịch vụ và doanh thu khác N 247 LCT02yyyy LCT02 Tiền chi trả cho người cung cấp hàng hóa và dịch vụ N 248 LCT03yyyy LCT03 Tiền chi trả cho người lao động N 249 LCT04yyyy LCT04 Tiền chi trả lãi vay N 250 LCT05yyyy LCT05 Tiền chi nộp thuế thu nhập doanh nghiệp N 251 LCT06yyyy LCT06 Tiền thu khác từ hoạt động kinh doanh N 252 LCT07yyyy LCT07 Tiền chi khác cho hoạt động kinh doanh N 253 LCT20yyyy LCT20 Lưu chuyển tiền thuần từ hoạt động kinh doanh N Lưu chuyển tiền từ hoạt động đầu tư 254 LCT21yyyy LCT21 Tiền chi để mua sắm, xây dựng TSCĐ và các tài sản dài hạn khác N 255 LCT22yyyy LCT22 Tiền thu từ thanh lý, nhượng bán TSCĐ và các tài sản dài hạn khác N 256 LCT23yyyy LCT23 Tiền chi cho vay, mua các công cụ nợ của đơn vị khác N 257 LCT24yyyy LCT24 Tiền thu hồi cho vay, bán lại các công cụ nợ của đơn vị khác N 258 LCT25yyyy LCT25 Tiền chi đầu tư góp vốn vào đơn vị khác N 259 LCT26yyyy LCT26 Tiền thu hồi đầu tư góp vốn vào đơn vị khác N 260 LCT27yyyy LCT27 Tiền thu lãi cho vay, cổ tức và lợi nhuận được chia N 261 LCT30yyyy LCT30 Lưu chuyển tiền thuần từ hoạt động đầu tư N Lưu chuyển tiền từ hoạt động tài chính 262 LCT31yyyy LCT31 Tiền thu từ phát hành cổ phiếu, nhận vốn góp của chủ sở hữu N 263 LCT32yyyy LCT32 Tiền chi trả vốn góp cho các chủ sở hữu, mua lại cổ phiếu của doanh nghiệp đã phát hành N 264 LCT33yyyy LCT33 Tiền vay ngắn hạn, dài hạn nhận được N 265 LCT34yyyy LCT34 Tiền chi trả nợ gốc vay N 266 LCT35yyyy LCT35 Tiền chi trả nợ thuê tài chính N 267 LCT36yyyy LCT36 Cổ tức, lợi nhuận đã trả cho chủ sở hữu N 268 LCT40yyyy LCT40 Lưu chuyển tiền thuần từ hoạt động tài chính N 269 LCT50yyyy LCT50 Lưu chuyển tiền thuần trong kỳ N 270 LCT60yyyy LCT60 Tiền và tương đương tiền đầu kỳ N 271 LCT61yyyy LCT61 Ảnh hưởng của thay đổi tỷ giá hối đoái quy đổi ngoại tệ N 272 LCT70yyyy LCT70 Tiền và tương đương tiền cuối kỳ N Các chỉ tiêu trong báo cáo lưu chuyển tiền tệ (gián tiếp) Lưu chuyển tiền từ hoạt động kinh doanh 273 LCG01yyyy LCG01 Lợi nhuận trước thuế N Điều chỉnh cho các khoản 274 LCG02yyyy LCG02 Khấu hao TSCĐ N 275 LCG03yyyy LCG03 Các khoản dự phòng N 276 LCG04yyyy LCG04 Lãi, lỗ chênh lệch tỷ giá hối đoái chưa thực hiện N 277 LCG05yyyy LCG05 Lãi, lỗ từ hoạt động đầu tư N 278 LCG06yyyy LCG06 Chi phí lãi vay N 279 LCG08yyyy LCG08 Lợi nhuận từ hoạt động kinh doanh trước thay đổi vốn lưu động N 280 LCG09yyyy LCG09 Tăng, giảm các khoản phải thu N 281 LCG10yyyy LCG10 Tăng, giảm hàng tồn kho N 282 LCG11yyyy LCG11 Tăng, giảm các khoản phải trả (không kể lãi vay phải trả, thuế thu nhập phải nộp) N 283 LCG12yyyy LCG12 Tăng, giảm chi phí trả trước N 284 LCG13yyyy LCG13 Tiền lãi vay đã trả N 285 LCG14yyyy LCG14 Thuế thu nhập doanh nghiệp đã nộp N 286 LCG15yyyy LCG15 Tiền thu khác từ hoạt động kinh doanh N 287 LCG16yvvy LCG16 Tiền chi khác từ hoạt động kinh doanh N 288 LCG20yyyy LCG20 Lưu chuyển tiền thuần từ hoạt động kinh doanh N Lưu chuyển tiền từ hoạt động đầu tư 289 LCG21yyyy LCG21 Tiền chi để mua sắm, xây dựng TSCĐ, BĐS đầu tư và các tài sản dài hạn khác N 290 LCG22yyyy LCG22 Tiền thu từ thanh lý, nhượng bán TSCĐ, BĐS đầu tư và các tài sản dài hạn khác N 291 LCG23yyyy LCG23 Tiền chi cho vay, mua các công cụ nợ của đơn vị khác N 292 LCG24yyyy LCG24 Tiền thu hồi cho vay, bán lại các công cụ nợ của đơn vị khác N 293 LCG25yyyy LCG25 Tiền chi đầu tư góp vốn vào đơn vị khác N 294 LCG26yyyy LCG26 Tiền thu hồi đầu tư góp vốn vào đơn vị khác N 295 LCG27yyyy LCG27 Tiền thu lãi cho vay, cổ tức và lợi nhuận được chia N 296 LCG30yyyy LCG30 Lưu chuyển tiền thuần từ hoạt động đầu tư N Lưu chuyển tiền từ hoạt động tài chính 297 LCG31yyyy LCG31 Tiền thu từ phát hành cổ phiếu, nhận vốn góp của chủ sở hữu N 298 LCG32yyyy LCG32 Tiền chi trả vốn góp cho các chủ sở hữu, mua lại cổ phiếu của doanh nghiệp đã phát hành N 299 LCG33yyyy LCG33 Tiền vay ngắn hạn, dài hạn nhận được N 300 LCG34yyyy LCG34 Tiền chi trả nợ gốc vay N 301 LCG35yyyy LCG35 Tiền chi trả nợ thuê tài chính N 302 LCG36yyyy LCG36 Cổ tức, lợi nhuận đã trả cho chủ sở hữu N 303 LCG40yyyy LCG40 Lưu chuyển tiền thuần từ hoạt động tài chính N 304 LCG50yyyy LCG50 Lưu chuyển tiền thuần trong năm N 305 LCG60yyyy LCG60 Tiền và tương đương tiền đầu năm N 306 LCG61yyyy LCG61 Ảnh hưởng của thay đổi tỷ giá hối đoái quy đổi ngoại tệ N 307 LCG70yyyy LCG70 Tiền và tương đương tiền cuối năm N Thông tin đầu tư trái phiếu vào khách hàng vay là doanh nghiệp 308 TP001 TP001 Mã chi nhánh TCTD C 309 TP002 TP002 Mã khách hàng do tổ chức tín dụng cấp C 310 TP003 TP003 Tên doanh nghiệp phát hành C 311 TP004 TP004 Ngày phát hành D 312 TP005 TP005 Số hợp đồng đầu tư C 313 TP006 TP006 Lãi suất năm N 314 TP007 TP007 Số lượng trái phiếu N 315 TP008 TP008 Ngày đến hạn thanh toán D 316 TP009 TP009 Tổng giá trị đầu tư N 317 TP010 TP010 Mã loại tiền C Bảng mã 06 318 TP011 TP011 Mục đích phát hành trái phiếu C của doanh nghiệp 319 TP012 TP012 Dự phòng rủi ro phải trích N 320 TP013 TP013 Dự phòng rủi ro thực trích N Ghi chú: yyyy là năm tài chính BẢNG MÃ 01/CIC: MÃ TỈNH THÀNH PHỐ STT Tên tỉnh, Thành phố Mã số 1 Thành phố Hà Nội 1 2 Tỉnh Hà Giang 2 3 Tỉnh Cao Bằng 4 4 Tỉnh Bắc Kạn 6 5 Tỉnh Tuyên Quang 8 6 Tỉnh Lào Cai 10 7 Tỉnh Điện Biên 11 8 Tỉnh Lai Châu 12 9 Tỉnh Sơn La 14 10 Tỉnh Yên Bái 15 11 Tỉnh Hòa Bình 17 12 Tỉnh Thái Nguyên 19 13 Tỉnh Lạng Sơn 20 14 Tỉnh Quảng Ninh 22 15 Tỉnh Bắc Giang 24 16 Tỉnh Phú Thọ 25 17 Tỉnh Vĩnh Phúc 26 18 Tỉnh Bắc Ninh 27 19 Tỉnh Hải Dương 30 20 Thành phố Hải Phòng 31 21 Tỉnh Hưng Yên 33 22 Tỉnh Thái Bình 34 23 Tỉnh Hà Nam 35 24 Tỉnh Nam Định 36 25 Tỉnh Ninh Bình 37 26 Tỉnh Thanh Hóa 38 27 Tỉnh Nghệ An 40 28 Tỉnh Hà Tĩnh 42 29 Tỉnh Quảng Bình 44 30 Tỉnh Quảng Trị 45 31 Tỉnh Thừa Thiên - Huế 46 32 Thành phố Đà Nẵng 48 33 Tỉnh Quảng Nam 49 34 Tỉnh Quảng Ngãi 51 35 Tỉnh Bình Định 52 36 Tỉnh Phú Yên 54 37 Tỉnh Khánh Hòa 56 38 Tỉnh Ninh Thuận 58 39 Tỉnh Bình Thuận 60 40 Tỉnh Kon Tum 62 41 Tỉnh Gia Lai 64 42 Tỉnh Đắc Lắc 66 43 Tỉnh Đắc Nông 67 44 Tỉnh Lâm Đồng 68 45 Tỉnh Bình Phước 70 46 Tỉnh Tây Ninh 72 47 Tỉnh Bình Dương 74 48 Tỉnh Đồng Nai 75 49 Tỉnh Bà Rịa - Vũng Tàu 77 50 Thành phố Hồ Chí Minh 79 51 Tỉnh Long An 80 52 Tỉnh Tiền Giang 82 53 Tỉnh Bến Tre 83 54 Tỉnh Trà Vinh 84 55 Tỉnh Vĩnh Long 86 56 Tỉnh Đồng Tháp 87 57 Tỉnh An Giang 89 58 Tỉnh Kiên Giang 91 59 Tỉnh Cần Thơ 92 60 Tỉnh Hậu Giang 93 61 Tỉnh Sóc Trăng 94 62 Tỉnh Bạc Liêu 95 63 Tỉnh Cà Mau 96 BẢNG MÃ 02/CIC: MÃ QUỐC GIA STT Tên quốc gia Ký hiệu Mã số 1 Afghanistan AFG 001 2 Albania ALB 002 3 Algeria DZA 003 4 Andorra AND 004 5 Angola AGO 005 6 Antigua and Barbuda ATG 006 7 Argentina ARG 007 8 Armenia ARM 008 9 Australia AUS 009 10 Austria AUT 010 11 Azerbaijan AZE 011 12 Bahamas BHS 012 13 Bahrain BHR 013 14 Bangladesh BGD 014 15 Barbados BRB 015 16 Belarus BLR 016 17 Belgium BEL 017 18 Belize BLZ 018 19 Benin BEN 019 20 Bhutan BTN 020 21 Bolivia BOL 021 22 Bosnia and Herzegovina BIH 022 23 Botswana BWA 023 24 Brazil BRA 024 25 Brunei Darussalam BRN 025 26 Bulgaria BGR 026 27 Burkina Faso BFA 027 28 Burundi BDI 028 29 Cambodia KHM 029 30 Cameroon CMR 030 31 Canada CAN 031 32 Cape Verde CPV 032 33 Central African Republic CAF 033 34 Chad TCD 034 35 Chile CHL 035 36 China CHN 036 37 Colombia COL 037 38 Comoros COM 038 39 Congo COG 039 40 Costa Rica CRI 040 41 Cote d’ Ivoire CIV 041 42 Croatia HRV 042 43 Cuba --- 043 44 Cyrus --- 044 45 Czech Republic CZE 045 46 Democratic People’s Republic of Korea PRK 046 47 Democratic Republic of the Congo COD 047 48 Denmark DNK 048 49 Djibouti DJI 049 50 Dominica DMA 050 51 Dominican Republic DOM 051 52 Ecuador ECU 052 53 Egypt EGY 053 54 El Salvador SLV 054 55 Equatorial Guinea GNQ 055 56 Eritrea ERI 056 57 Estonia EST 057 58 Ethiopia ETH 058 59 Fiji FJI 059 60 Finland FIN 060 61 France FRA 061 62 Gabon GAB 062 63 Gambia GMB 063 64 Georgia GEO 064 65 Germany DEU 065 66 Ghana GHA 066 67 Greece GRC 067 68 Grenada GRD 068 69 Guatemala GTM 069 70 Guinea GIN 070 71 Guinea-Bissau GNB 071 72 Guyana GUY 072 73 Haiti HTI 073 74 Honduras HND 074 75 Hungary HUN 075 76 Iceland ISL 076 77 India IND 077 78 Indonesia IDN 078 79 Iran (Islamic Republic of) IRN 079 80 Iraq IRQ 080 81 Ireland IRL 081 82 Israel ISR 082 83 Italy ITA 083 84 Jamaica JAM 084 85 Japan JPN 085 86 Jordan JOR 086 87 Kazakhstan KAZ 087 88 Kenya KEN 088 89 Kiribati KIR 089 90 Kuwait KWT 090 91 Kyrgyzstan KGZ 091 92 Lao People’s Democratic Republic LAO 092 93 Latvia LVA 093 94 Lebanon LBN 094 95 Lesotho LSO 095 96 Liberia LBR 096 97 Libyan Arab Jamahiriya LBY 097 98 Liechtenstein LIE 098 99 Lithuania LTU 099 100 Luxembourg LUX 100 101 Madagascar MDG 101 102 Malawi MWI 102 103 Malaysia MYS 103 104 Maldives MDV 104 105 Mali MLI 105 106 Malta MLT 106 107 Marshall Islands MHL 107 108 Mauritania MRT 108 109 Mauritius MUS 109 110 Mexico MEX 110 111 Micronesia, Federared States of FSM 111 112 Monaco MCO 112 113 Mongolia MNG 113 114 Montenegro --- 114 115 Morocco MAR 115 116 Mozambique MOZ 116 117 Myanmar MMR 117 118 Namibia NAM 118 119 Nauru NRU 119 120 Nepal NPL 120 121 Netherlands NLD 121 122 New Zealand NZL 122 123 Nicaragua NIC 123 124 Niger NER 124 125 Nigeria NGA 125 126 Norway NOR 126 127 Oman OMN 127 128 Pakistan PAK 128 129 Palau PLW 129 130 Panama PAN 130 131 Papua New Guinea PNG 131 132 Paraguay PRY 132 133 Peru PER 133 134 Philippines PHL 134 135 Poland POL 135 136 Portugal PRT 136 137 Qatar QAT 137 138 Republic of Korea KOR 138 139 Republic of Moldova MDA 139 140 Romania ROU 140 141 Russian Federation RUS 141 142 Rwanda RWA 142 143 Saint Kitts and Nevis KNA 143 144 Saint Lucia LCA 144 145 Saint Vincent and the Grenadines VCT 145 146 Samoa WSM 146 147 San Marino SMR 147 148 Sao Tome and Principe STP 148 149 Saudi Arabia SAU 149 150 Senegal SEN 150 151 Serbia --- 151 152 Seychelles SYC 152 153 Sierra Leone SLE 153 154 Singapore SGP 154 155 Slovakia SVK 155 156 Slovenia SVN 156 157 Solomon Islands SLB 157 158 Somalia SOM 158 159 South Africa ZAF 159 160 Spain ESP 160 161 Sri Lanka LKA 161 162 Sudan SDN 162 163 Suriname SUR 163 164 Swaziland SWZ 164 165 Sweden SWE 165 166 Switzerland CHE 166 167 Syrian Arab Republic SYR 167 168 Tajikistan TJK 168 169 Thailand THA 169 170 The former Yugoslav Republic of Macedonia MKD 170 171 Timor-Leste TLS 171 172 Togo TGO 172 173 Tonga TON 173 174 Trinidad and Tobago TTO 174 175 Tunisia TUN 175 176 Turkey TUR 176 177 Turkmenistan TKM 177 178 Tuvalu TUV 178 179 Uganda UGA 179 180 Ukraine UKR 180 181 United Arab Emirates ARE 181 182 United Kingdom GBR 182 183 United Republic of Tanzania TZA 183 184 United States USA 184 185 Uruguay URY 185 186 Uzbekistan UZB 186 187 Vanuatu VUT 187 188 Venezuela VEN 188 189 Viet Nam VNM 189 190 Yemen YEM 190 191 Zambia ZMB 191 192 Zimbabwe ZWE 192 BẢNG MÃ 03/CIC: MÃ LOẠI GIẤY TỜ CÁ NHÂN STT Tên loại giấy tờ cá nhân Mã số 1 Hộ chiếu 01 2 Số hộ khẩu 02 3 Bằng lái xe ô tô 03 4 Thẻ quân nhân 04 5 Thẻ sinh viên 05 6 Các loại giấy tờ cá nhân khác 06 BẢNG MÃ 04/CIC: MÃ LOẠI HÌNH TỔ CHỨC STT Loại hình tổ chức và cá nhân Mã số 1 Công ty nhà nước 01 2 Công ty trách nhiệm hữu hạn 1 thành viên do nhà nước sở hữu 100% vốn điều lệ 02 3 Công ty trách nhiệm hữu hạn 2 thành viên trở lên có phần vốn góp của nhà nước trên 50% vốn điều lệ hoặc nhà nước giữ quyền chi phối 03 4 Công ty trách nhiệm hữu hạn khác 04 5 Công ty cổ phần có vốn cổ phần của nhà nước chiếm trên 50% vốn điều lệ hoặc tổng số cổ phần có quyền biểu quyết; hoặc nhà nước giữ quyền chi phối đối với công ty trong Điều lệ của công ty. 05 6 Công ty cổ phần khác 06 7 Công ty hợp danh 07 8 Doanh nghiệp tư nhân 08 9 Doanh nghiệp có vốn đầu tư nước ngoài 09 10 Hợp tác xã và liên hiệp hợp tác xã 10 11 Hộ kinh doanh, cá nhân 11 12 Đơn vị hành chính sự nghiệp, đảng, đoàn thể và hiệp hội 12 13 Khác 13 BẢNG MÃ 05/CIC: MÃ NGÀNH KINH TẾ STT Tên ngành Mã số 1 Nông nghiệp, lâm nghiệp và thủy sản 0101 2 Khai khoáng 0201 3 Công nghiệp chế biến, chế tạo 0202 4 Sản xuất và phân phối điện, khí đốt, nước nóng, hơi nước và điều hòa không khí 0203 5 Cung cấp nước; hoạt động quản lý và xử lý rác thải, nước thải. 0204 6 Xây dựng 0301 7 Bán buôn và bán lẻ; sửa chữa ô tô, mô tô, xe máy và xe có động cơ khác 0401 8 Vận tải kho bãi 0402 9 Dịch vụ lưu trú và ăn uống 0403 10 Thông tin và truyền thông 0501 11 Hoạt động tài chính, ngân hàng và bảo hiểm 0601 12 Hoạt động kinh doanh bất động sản 0602 13 Hoạt động chuyên môn, khoa học và công nghệ 0701 14 Hoạt động hành chính và dịch vụ hỗ trợ 0702 15 Hoạt động của đảng Cộng sản, tổ chức chính trị - xã hội, quản lý nhà nước, an ninh quốc phòng; bảo đảm xã hội bắt buộc 0801 16 Giáo dục và đào tạo 0802 17 Y tế và hoạt động trợ giúp xã hội 0803 18 Nghệ thuật, vui chơi và giải trí 0804 19 Hoạt động dịch vụ khác 0805 20 Hoạt động làm thuê các công việc trong các hộ gia đình, sản xuất sản phẩm vật chất và dịch vụ tự tiêu dùng của hộ gia đình 0806 21 Hoạt động của các tổ chức và cơ quan quốc tế 0807 BẢNG MÃ 06/CIC: KÝ HIỆU CÁC LOẠI TIỀN TỆ CỦA CÁC NƯỚC STT Tên nước (tiếng việt) Tên ngoại tệ Ký hiệu Chữ Số 1 VIỆT NAM ĐỒNG VND 00 2 VIỆT NAM VÀNG XAU 01 3 SLOVAKIA SLOVAKKORUNA SKK 09 4 MO ZĂM BÍCH METICAL MZM 10 5 NICARAGUA CORDOBA ORO NIO 11 6 NAM TƯ NEW DINAR YUM 12 7 ÁO EURO EUR 14 8 BỈ EURO EUR 14 9 PHẦN LAN EURO EUR 14 10 PHÁP EURO EUR 14 11 ĐỨC EURO EUR 14 12 AI LEN EURO EUR 14 13 Ý EURO EUR 14 14 LÚCH XĂM BUA EURO EUR 14 15 NETHERLANDS EURO EUR 14 16 THỔ NHĨ KỲ EURO EUR 14 17 TÂY BAN NHA EURO EUR 14 18 GUINEA- BISSAU GUINEA-BISSAU PESO GWP 15 19 HONDURAS LEMPIRA HNL 16 20 ANBANI LEK ALL 17 21 BA LAN ZLOTY PLN 18 22 BUN GA RI LEV BGL 19 23 LIBERIA LIBERIAN DOLLAR LRD 20 24 HUNGARY FORINT HƯF 21 25 LIÊN BANG NGA RUSSIAN RUBLE(NEW) RUB 22 26 MÔNG CỔ TUGRIK MNT 23 27 RUMANI LEU ROL 24 28 TIỆP KHẮC (MỚI) CZECH KORUNA CZK 25 29 TRUNG QUỐC YAN RENMINBI CNY 26 30 BẮC TRIỀU TIÊN NORTH KOREAN WON KPW 27 31 CU BA CUBAN PESO CUP 28 32 LÀO KIP LAK 29 33 CAM PU CHIA RIEL KHR 30 34 PAKISTAN PAKISTAN RUPEE PKR 31 35 ACHENTINA ARGENTINE PESO ARS 32 36 CA MƠ RUN CFA FRANC BEAC XAF 33 37 ANDURÁT SPANISIC PESETA ESP 34 38 GUERNSEY,C.I. POUND STERLING GBP 35 39 ISLE OF MAN POUND STERLING GBP 35 40 JERSEY,C.I POUND STERLING GBP 35 41 ANH POUND STERLING GBP 35 42 HỒNG KÔNG HONGKONG DOLLAR HKD 36 43 AMERICAN SAMOA US DOLLAR USD 37 44 BRISTISH INDIAN OCEAN TERRITORY US DOLLAR USD 37 45 GUAM US DOLLAR USD 37 46 HAITI US DOLLAR USD 37 47 MARSHALL ISLANDS US DOLLAR USD 37 48 MICRONESIA (PERERATED STATES OF) US DOLLAR USD 37 49 NORTHERN MARIANA ISLANDS US DOLLAR USD 37 50 PALAU US DOLLAR USD 37 51 PANAMA US DOLLAR USD 37 52 PUERTO RICO US DOLLAR USD 37 53 TURKS AND CAICOS ISLANDS US DOLLAR USD 37 54 MỸ US DOLLAR USD 37 55 UNITED STATES MINOR OU US DOLLAR USD 37 56 VIRGIN ISLANDS,BRISTISH US DOLLAR USD 37 57 VIRGIN ISLANDS,U.S. US DOLLAR USD 37 58 UNITED STATES MINOR OU US DOLLAR USD 37 59 PHÁP FRENCH FRANC FRF 38 60 FRENCH SOUTHERN TERRI FRENCH FRANC FRF 38 61 GUADELOUPE FRENCH FRANC FRF 38 62 MANTINIQUE FRENCH FRANC FRF 38 63 MAYOTTE FRENCH FRANC FRF 38 64 MONACO FRENCH FRANC FRF 38 65 REUNION FRENCH FRANC FRF 38 66 SAINT PIERRE AND MIQUEL FRENCH FRANC FRF 38 67 LIECHTENSTEIN SWISS FRANC CHF 39 68 THỤY SĨ SWISS FRANC CHF 39 69 ĐỨC DEUTSCHE MARK DEM 40 70 NHẬT BẢN YEN JPY 41 71 THỔ NHĨ KỲ PORTUGUESE ESCUDO PTE 42 72 GINE GUINEA FRANC GNF 43 73 SOMALIA SOMA- SHILLING SOS 44 74 THAI LAND BAHT THB 45 75 BRUNEI DARUSSALAM BRUNEI DOLLAR BND 46 76 BRAZIL BRAZILIAN REAL BRL 47 77 THỤY ĐIỂN SWEDISH KRONA SEK 48 78 BOUVET ISLAND NORWEGIAN KRONE NOK 49 79 NAUY NORWEGIAN KRONE NOK 49 80 SVALBARD AND JAN MAYE NORWEGIAN KRONE NOK 49 81 ĐAN MẠCH DANISH KRONE DKK 50 82 FAEROE ISLAND DANISH KRONE DKK 50 83 GREENLAND DANISH KRONE DKK 50 84 LÚCH XĂM BUA LUXEMBOURG FRANC LUF 51 85 ÚC AUSTRALIAN DOLLAR AUD 52 86 CHRISMAST ISLAND AUSTRALIAN DOLLAR AUD 52 87 COCOS(KEELING) ISLAND AUSTRALIAN DOLLAR AUD 52 88 KIRIBATI AUSTRALIAN DOLLAR AUD 52 89 NORFOLK ISLAND AUSTRALIAN DOLLAR AUD 52 90 TUVALU AUSTRALIAN DOLLAR AUD 52 91 CANADA CANADIAN DOLLAR CAD 53 92 SINGAPORE SINGAPORE DOLLAR SGD 54 93 MALAYSIA MALAYSIAN RINGGIT MYR 55 94 ALGIERI ALGERIAN DINAR DZD 56 95 YEMEN YEMENI RIAL YER 57 96 IRẮC IRAQI DINAR IQD 58 97 LIBYAN ARB JAMAHIRJYA LIBYAN DINAR LYD 59 98 TUNISIA TUNISIAN DINAR TND 60 99 BỈ BELGIAN FRANC BEF 61 100 LÚCH XĂM BUA BELGIAN FRANC BEF 61 101 MA RỐC MOROCCAN DIRHAM MAD 62 102 COLOMBIA COLOMBIAN PESO COP 63 103 CAMEROON CFA FRANC BEAC XAF 64 104 CỘNG HOÀ TRUNG PHI CFA FRANC BEAC XAF 64 105 SAT CFA FRANC BEAC XAF 64 106 CONGO CFA FRANC BEAC XAF 64 107 EQUATORIAL GUINEA CFA FRANC BEAC XAF 64 108 GABONG CFA FRANC BEAC XAF 64 109 ANGOLA KWANZA REAJUSTADO AOR 65 110 NETHERLANDS NETHERLANDS GUILDER NLG 66 111 BENIN CFA FRANC BCEAO XOF 67 112 BURKINA FASO CFA FRANC BCEAO XOF 67 113 COTED'IVOIRE CFA FRANC BCEAO XOF 67 114 GUINEA- BISSAU CFA FRANC BCEAO XOF 67 115 MALI CFA FRANC BCEAO XOF 67 116 NIGIÊ CFA FRANC BCEAO XOF 67 117 SENEGAL CFA FRANC BCEAO XOF 67 118 TOGO CFA FRANC BCEAO XOF 67 119 AI CẬP EGYPTIAN POUND EGP 69 120 CỘNG HOÀ SYRIAN ARAB SYRIAN POUND SYP 70 121 LI BĂNG LEBANESE POUND LBP 71 122 ETHIOPIA ETHIOPIANBIRR ETB 72 123 AI LEN IRISH POUND IEP 73 124 THỔ NHĨ KỲ TURKISH LIRA TRL 74 125 HOLY SEE(VATICAN CITY STATE) ITALIAN LIRA ITL 75 126 Ý ITALIAN LIRA ITL 75 127 SAN MARINO ITALIAN LIRA ITL 75 128 PHẦN LAN MARKKA FIM 76 129 MEXICO MEXICAN PESO MXN 77 130 PHI LIP PIN PHILIPPINE PESO PHP 78 131 PA RA GUAY GUARANI PYG 79 132 HI LẠP DRACHMA GRD 80 133 BHU TAN INDIAN RUPEE INR 81 134 ẤN ĐỘ INDIAN RUPEE INR 81 135 SRI LANKA SRI LANKA RUPEE LKR 82 136 BANGLADET TAKA BDT 83 137 INDONESIA RUPIAH IDR 84 138 ÁO SCHILLING ATS 85 139 ECUADOR SUCRE ECS 87 140 NEW ZEALAND NEWZEALAND DOLLAR NZD 88 141 NIUE NEWZEALAND DOLLAR NZD 88 142 PITCAIRN NEWZEALAND DOLLAR NZD 88 143 TOKELAU NEWZEALAND DOLLAR NZD 88 144 GIBUTI DJIBUTI FRANC DJF 89 145 ANDORRA SPANISH PESETA ESP 90 146 TÂY BAN NHA SPANISH PESETA ESP 90 147 ARẬP XÊ ÚT SAUDI RYAL SAR 91 148 PÊ RU NUEVO SOL PEN 92 149 PANAMA BALBOA PAB 93 150 ĐÀI LOAN NEW TAIWAN DOLLAR TWD 94 151 MA CAO PATACA MOP 95 152 IRAN (ISLAMIC REPUBLIC OF) IRANIAN RIAL IRR 96 153 CÔ OÉT KUWAITI DINAR KWD 97 154 HÀN QUỐC WON KRW 98 155 CÁC NƯỚC KHÁC CÁC NGOẠI TỆ KHÁC 99 BẢNG MÃ 07/CIC: MÃ MỤC ĐÍCH SỬ DỤNG TIỀN VAY STT Mục đích sử dụng tiền vay Mã số 1 Cho vay tiêu dùng 01 2 Cho vay đầu tư, kinh doanh bất động sản 02 3 Cho vay đầu tư, kinh doanh chứng khoán 03 4 Cho vay kinh doanh thương mại, dịch vụ 04 5 Cho vay sản xuất 05 5.1 Sản xuất công nghiệp 051 5.2 Sản xuất nông, lâm nghiệp 052 5.3 Nuôi trồng, chế biến thủy hải sản 053 5.4 Sản xuất khác 054 6 Cho vay xây dựng cầu, đường 06 7 Cho vay khác 09 BẢNG MÃ 08/CIC: MÃ LOẠI VAY STT Tên loại vay Mã số 1 Dư nợ cho vay ngắn hạn 01 2 Dư nợ cho vay trung hạn 02 3 Dư nợ cho vay dài hạn 03 4 Dư nợ chiết khấu thương phiếu và các giấy tờ có giá 04 5 Dư nợ cho thuê tài chính 05 6 Dư nợ các khoản phải trả thay khách hàng 06 7 Dư nợ cho vay vốn nhận trực tiếp từ các tổ chức quốc tế 07 8 Dư nợ cho vay vốn nhận của Chính phủ 08 9 Dư nợ cho vay vốn nhận của các tổ chức, cá nhân khác 09 10 Dư nợ cho vay vốn đặc biệt 10 11 Dư nợ cho vay thanh toán công nợ 11 12 Dư nợ cho vay đầu tư xây dựng cơ bản theo kế hoạch nhà nước 12 13 Dư nợ cho vay khác 13 14 Dư nợ chờ xử lý 14 15 Dư nợ được khoanh 15 16 Dư nợ cho vay đầu tư theo hợp đồng nhận ủy thác 16 17 Dư nợ cho vay theo hợp đồng nhận tài trợ 17 18 Dư nợ của khách hàng đã xử lý 18 BẢNG MÃ 09/CIC: MÃ NHÓM NỢ STT Nhóm nợ Mã số 1 Nhóm 1 (Nợ đủ tiêu chuẩn) 01 2 Nhóm 2 (Nợ cần chú ý) 02 3 Nhóm 3 (Nợ dưới tiêu chuẩn) 03 4 Nhóm 4 (Nợ nghi ngờ) 04 5 Nhóm 5 (Nợ có khả năng mất vốn) 05 BẢNG MÃ 10/CIC: MÃ LOẠI BẢO ĐẢM TIỀN VAY STT Tên loại tài sản bảo đảm tiền vay Mã số 1 Quyền sử dụng đất và tài sản gắn liền với đất 01 2 Phương tiện giao thông 02 3 Giấy tờ có giá 03 4 Trái phiếu 04 5 Cổ phiếu 05 6 Tín phiếu 06 7 Kỳ phiếu 07 8 Chứng chỉ tiền gửi 08 9 Thương phiếu 09 10 Giấy tờ khác trị giá được bằng tiền 10 11 Kim khí đá quý 11 12 Máy móc thiết bị, nguyên nhiên vật liệu, hàng hóa 12 13 Máy móc thiết bị 13 14 Dây chuyền sản xuất 14 15 Nguyên nhiên vật liệu 15 16 Hàng tiêu dùng 16 17 Hàng hóa khác 17 18 Tài sản đăng ký quyền sở hữu và quyền sử dụng khác 18 19 Quyền tài sản phát sinh từ quyền tác giả 19 20 Quyền sở hữu công nghiệp 20 21 Quyền đòi nợ 21 22 Quyền được nhận bảo hiểm 22 23 Quyền góp vốn doanh nghiệp 23 24 Quyền khai thác tài nguyên thiên nhiên 24 25 Lợi tức và các quyền phát sinh từ tài sản cầm cố 25 26 Quyền tài sản khác 26 27 Tài sản khác 27",
+                "content": "Điều 21; - Ban Lãnh đạo Ngân hàng Nhà nước; - Văn phòng Chính phủ (2 bản); - Bộ Tư pháp (để kiểm tra); - Công báo; - Lưu: VP, PC, TTTD. KT. THỐNG ĐỐC PHÓ THỐNG ĐỐC Đặng Thanh Bình PHỤ LỤC HỆ THỐNG CHỈ TIÊU THÔNG TIN TÍN DỤNG (Ban hành kèm theo Thông tư số 03/2013/TT-NHNN ngày 28/01/2013) STT Mã chỉ tiêu báo cáo Mã chỉ tiêu gốc Tên chỉ tiêu Định dạng Ghi chú Thông tin khai báo chung 1 KB001 KB001 Họ và tên người báo cáo thông tin C 2 KB002 KB002 Số điện thoại người báo cáo thông tin C 3 KB003 KB003 Vốn tự có của TCTD N Thông tin nhận dạng khách hàng vay là cá nhân/Hộ kinh doanh cá thể 4 CN001 CN001 Mã chi nhánh TCTD C 5 CN002 CN002 Mã khách hàng do TCTD cấp C 6 CN003 CN003 Họ và tên khách hàng vay C 7 CN004 CN004 Giới tính N Nam = 1, nữ = 0 8 CN005 CN005 Ngày sinh D 9 CN006 CN006 Địa chỉ C 10 CN007 CN007 Mã tỉnh, thành phố C Bảng mã 01 11 CN008 CN008 Số điện thoại C 12 CN009 CN009 Mã Quốc tịch C Bảng mã 02 13 CN010 CN010 Chứng minh nhân dân CN0101 CN0101 Số chứng minh nhân dân C CN0102 CN0102 Ngày cấp chứng minh nhân dân D 14 CN011 CN011 Giấy tờ cá nhân khác nếu có CN0111xx CN0111 Số giấy tờ cá nhân xx C xx = Bảng mã 03 CN0112xx CN0112 Ngày cấp giấy tờ cá nhân xx D 15 CN012 CN012 Mã số thuế C 16 CN013 CN013 Đăng ký kinh doanh Đối với hộ kinh doanh cá thể CN0131 CN0131 Số đăng ký kinh doanh C CN0132 CN0132 Ngày cấp đăng ký kinh doanh D 17 CN014 CN014 Họ tên vợ hoặc chồng C Nếu có 18 CN015 CN015 Số Chứng minh nhân dân của vợ/chồng C Thông tin nhận dạng khách hàng vay là doanh nghiệp/tổ chức khác 19 TC001 TC001 Mã chi nhánh TCTD C 20 TC002 TC002 Mã khách hàng do TCTD cấp C 21 TC003 TC003 Tên doanh nghiệp/tổ chức khác C 22 TC004 TC004 Tên đối ngoại C 23 TC005 TC005 Tên viết tắt C 24 TC006 TC006 Địa chỉ C 25 TC007 TC007 Mã tỉnh, thành phố C Bảng mã 01 26 TC008 TC008 Thông tin liên lạc khác Nếu có TC0081 TC0081 Điện thoại C TC0082 TC0082 Fax C TC0083 TC0083 Website C TC0084 TC0084 Email C 27 TC009 TC009 Mã số thuế (mã số doanh nghiệp đối với doanh nghiệp mới hoặc điều chỉnh) C 28 TC010 TC010 Ngày cấp mã số thuế D Ngày cấp lần đầu 29 TC011 TC011 Số quyết định thành lập (áp dụng đối với tổ chức không phải là doanh nghiệp như: tổ chức xã hội, đơn vị sự nghiệp...) C 30 TC012 TC012 Ngày cấp quyết định thành lập D 31 TC013 TC013 Số đăng ký kinh doanh C Số Giấy phép đầu tư nếu DN có vốn đầu tư nước ngoài 32 TC014 TC014 Ngày cấp đăng ký kinh doanh D 33 TC015 TC015 Mã loại hình doanh nghiệp/tổ chức khác C Bảng mã 04 34 TC016 TC016 Mã ngành nghề kinh doanh N Bảng mã 05 35 TC017 TC017 Vốn điều lệ TC0171yy TC0171 Số tiền nguyên tệ N yy = Bảng mã 06 TC0172yy TC0172 Mã tiền tệ yy C 36 TC018 TC018 Người đại diện theo pháp luật C 37 TC019 TC019 Số chứng minh nhân dân người đại diện C 38 TC020zz TC020 Họ tên thành viên HĐQT/HĐTV thứ zz C zz lấy từ 01 đến 99 (nếu có) 39 TC021zz TC021 Địa chỉ thành viên HĐQT/HĐTV thứ zz C 40 TC022zz TC022 Số chứng minh nhân dân HĐQT/HĐTV thứ zz C 41 TC023 TC023 Họ và tên Tổng giám đốc/Giám đốc C 42 TC024 TC024 Số chứng minh nhân dân Tổng giám đốc/Giám đốc C Thông tin Hợp đồng tín dụng 43 HD001 HD001 Mã chi nhánh TCTD C 44 HD002 HD002 Mã khách hàng do TCTD cấp C 45 HD003 HD003 Tên khách hàng vay C 46 HD004 HD004 Số Hợp đồng tín dụng C 47 HD005 HD005 Ngày ký hợp đồng D 48 HD006 HD006 Ngày kết thúc hợp đồng D 49 HD007 HD007 Ngày phát sinh D 50 HD008 HD008 Lãi suất (% năm) N 51 HD009 HD009 Mục đích sử dụng tiền vay C Bảng mã 07 52 HD010 HD010 Loại vay C Bảng mã 08 53 HD011 HD011 Mã tiền tệ C Bảng mã 06 54 HD012 HD012 Hạn mức tín dụng trên hợp đồng N 55 HD013 HD013 Số tiền cho vay trong kỳ N 56 HD014 HD014 Số tiền thu nợ trong kỳ N 57 HD015 HD015 Số dư nợ theo nguyên tệ N 58 HD016 HD016 Nhóm nợ C Bảng mã 09 59 HD017 HD017 Ngày trả nợ kỳ tiếp theo D 60 HD018 HD018 Số tiền trả nợ kỳ tiếp theo N 61 HD019 HD019 Số ngày chậm trả nợ thực tế N 62 HD020 HD020 Số tiền chậm trả nợ thực tế N 63 HD021 HD021 Số lần gia hạn nợ N 64 HD022 HD022 Số tiền gia hạn nợ N Thông tin quan hệ tín dụng của khách hàng vay 65 DN001 DN001 Mã chi nhánh TCTD C 66 DN002 DN002 Mã khách hàng do TCTD cấp C 67 DN003 DN003 Tên khách hàng vay C 68 DN004 DN004 Ngày báo cáo D 69 DNA05aabbcc DNA05 Dư nợ cam kết nội bảng theo loại vay aa, loại tiền vay bb, nhóm nợ cc N aa = Bảng mã 08; bb = Bảng mã 06; cc = Bảng mã 09 70 DNA06 DNA06 Lãi cho vay chưa thu hạch toán nội bảng N 71 DNA07 DNA07 Dự phòng phải trích nội bảng N 72 DNA08 DNA08 Dự phòng đã trích nội bảng N 73 DNB09bbcc DNB09 Dư nợ cam kết ngoại bảng theo loại tiền vay bb, nhóm nợ cc N bb = Bảng mã 06; cc = Bảng mã 09 74 DNB10 DNB10 Dự phòng phải trích ngoại bảng N 75 DNB11 DNB11 Dự phòng đã trích ngoại bảng N 76 DNB12 DNB12 Lãi cho vay chưa thu hạch toán ngoại bảng N 77 DNB13 DNB13 Số lần gia hạn nợ, điều chỉnh kỳ hạn nợ N Thông tin nhận dạng chủ thẻ tín dụng 78 TH000 TH000 Mã chi nhánh TCTD C 79 TH001 TH001 Mã khách hàng do TCTD cấp C 80 TH002 TH002 Họ và tên chủ thẻ chính C 81 TH003 TH003 Địa chỉ C 82 TH004 TH004 Mã tỉnh, thành phố C Bảng mã 01 83 TH005 TH005 Số điện thoại C 84 TH006 TH006 Quốc tịch C Bảng mã 02 85 TH007 TH007 Giới tính N Nam = 1, nữ = 0 86 TH008 TH008 Ngày sinh D 87 TH009 TH009 Chứng minh nhân dân TH0091 TH0091 Số chứng minh nhân dân C TH0092 TH0092 Ngày cấp chứng minh nhân dân D 88 TH010 TH010 Giấy tờ cá nhân khác TH0101xx TH0101 Số giấy tờ xx C xx = Bảng mã 03 TH0102xx TH0102 Ngày cấp giấy tờ xx D 89 TH011 TH011 Mã số thuế C 90 TH012 TH012 Họ tên vợ hoặc chồng C Nếu có 91 TH013 TH013 Số chứng minh nhân dân của vợ/chồng C 92 TH014zz TH014 Họ tên chủ thẻ phụ zz C zz lấy từ 01 đến 99 93 TH015zz TH015 Số chứng minh nhân dân chủ thẻ phụ zz C Thông tin tình trạng tài khoản thẻ tín dụng 94 TH000 TH000 Mã chi nhánh TCTD C 95 TH001 TH001 Mã khách hàng do TCTD cấp C 96 TH002 TH002 Họ và tên chủ thẻ chính C 97 TH101 TH101 Số Hợp đồng C 98 TH102 TH102 Loại thẻ C 99 TH103 TH103 Ngày mở thẻ D 100 TH104 TH104 Ngày hết hạn D 101 TH105 TH105 Ngày đóng thẻ D Với thẻ được đóng trước hạn 102 TH106 TH106 Hạn mức tín dụng N 103 TH107 TH107 Ngày sao kê D 104 TH108 TH108 Số tiền phải thanh toán N 105 TH109 TH109 Số tiền phải thanh toán tối thiểu N 106 TH110 TH110 Số tiền đã thanh toán N 107 TH111 TH111 Số tiền quá hạn N 108 TH112 TH112 Số ngày quá hạn N 109 TH113 TH113 Số lần quá hạn N Thông tin bảo đảm tiền vay 110 TS001 TS001 Mã chi nhánh TCTD C 111 TS002 TS002 Mã khách hàng do TCTD cấp C 112 TS003 TS003 Tên khách hàng vay C Khách hàng vay không có tài sản bảo đảm 113 TS004 TS004 Nơi làm việc C 114 TS005 TS005 Vị trí làm việc C 115 TS006 TS006 Số năm làm việc N 116 TS007 TS007 Thu nhập bình quân hàng tháng N Khách hàng vay có tài sản bảo đảm 117 TS008 TS008 Mã số tài sản bảo đảm do TCTD cấp C 118 TS009 TS009 Mã loại tài sản bảo đảm C Bảng mã 10 119 TS010 TS010 Tên chủ sở hữu tài sản C 120 TS011 TS011 Số chứng minh nhân dân của chủ sở hữu C 121 TS012 TS012 Mã số thuế của chủ sở hữu C 122 TS013 TS013 Ngày bắt đầu D Ngày cầm cố, thế chấp tài sản 123 TS014 TS014 Ngày kết thúc D Ngày giải chấp tài sản 124 TS015 TS015 Giá trị tài sản N 125 TS016 TS016 Ngày định giá D 126 TS017 TS017 Mô tả tài sản C Thông tin tài chính của khách hàng vay là doanh nghiệp Các chỉ tiêu trong Bảng cân đối kế toán 127 BC000yyyy BC000 Mã chi nhánh TCTD C 128 BC001yyyy BC001 Mã khách hàng do tổ chức tín dụng cấp C 129 BC002yyyy BC002 Tên khách hàng vay C 130 BC003yyyy BC003 Năm tài chính C 131 BC004yyyy BC004 Đơn vị tính C 132 BC005yyyy BC005 Loại tiền C Bảng mã 06 133 BC006yyyy BC006 Kiểm toán C (1=Có, 0=không) 134 BC007yyyy BC007 Báo cáo hợp nhất C (1=Có, 0=không) 135 CD100yyyy CD100 Tài sản ngắn hạn N 136 CD110yyyy CD110 Tiền và các khoản tương đương tiền N 137 CD111yyyy CD111 Tiền N 138 CD112yyyy CD112 Các khoản tương đương tiền N 139 CD120yyyy CD120 Các khoản đầu tư tài chính ngắn hạn N 140 CD121yyyy CD121 Đầu tư ngắn hạn N 141 CD129yyyy CD129 Dự phòng giảm giá đầu tư ngắn hạn N 142 CD130yyyy CD130 Các khoản phải thu ngắn hạn N 143 CD131yyyy CD131 Phải thu khách hàng N 144 CD132yyyy CD132 Trả trước cho người bán N 145 CD133yyyy CD133 Phải thu nội bộ ngắn hạn N 146 CD134yyyy CD134 Phải thu theo tiến độ kế hoạch hợp đồng xây dựng N 147 CD135yyyy CD135 Các khoản phải thu khác N 148 CD139yyyy CD139 Dự phòng phải thu ngắn hạn khó đòi N 149 CD140yyyy CD140 Hàng tồn kho N 150 CD141yyyy CD141 Hàng tồn kho N 151 CD149yyyy CD149 Dự phòng giảm giá hàng tồn kho N 152 CD150yyyy CD150 Tài sản ngắn hạn khác N 153 CD151yyyy CD151 Chi phí trả trước ngắn hạn N 154 CD152yyyy CD152 Thuế GTGT được khấu trừ N 155 CD154yyyy CD154 Thuế và các khoản khác phải thu Nhà nước N 156 CD158yyyy CD158 Tài sản ngắn hạn khác N 157 CD200yyyy CD200 Tài sản dài hạn N 158 CD210yyyy CD210 Các khoản phải thu dài hạn N 159 CD211yyyy CD211 Phải thu dài hạn của khách hàng N 160 CD212yyyy CD212 Vốn kinh doanh ở đơn vị trực thuộc N . 161 CD213yyyy CD213 Phải thu dài hạn nội bộ N 162 CD218yyyy CD218 Phải thu dài hạn khác N 163 CD219yyyy CD219 Dự phòng phải thu dài hạn khó đòi N 164 CD220yyyy CD220 Tài sản cố định N 165 CD221yyyy CD221 Tài sản cố định hữu hình N 166 CD222yyyy CD222 Nguyên giá N 167 CD223yyyy CD223 Giá trị hao mòn lũy kế N 168 CD224yyyy CD224 Tài sản cố định thuê tài chính N 169 CD225yyyy CD225 Nguyên giá N 170 CD226yyyy CD226 Giá trị hao mòn lũy kế N 171 CD227yyyy CD227 Tài sản cố định vô hình N 172 CD228yyyy CD228 Nguyên giá N 173 CD229yyyy CD229 Giá trị hao mòn lũy kế N 174 CD230yyyy CD230 Chi phí xây dựng cơ bản dở dang N 175 CD240yyyy CD240 Bất động sản đầu tư N 176 CD241yyyy CD241 Nguyên giá N 177 CD242yyyy CD242 Giá trị hao mòn lũy kế N 178 CD250yyyy CD250 Các khoản đầu tư tài chính dài hạn N 179 CD251yyyy CD251 Đầu tư vào công ty con N 180 CD252yyyy CD252 Đầu tư vào công ty liên kết, liên doanh N 181 CD258yyyy CD258 Đầu tư dài hạn khác N 182 CD259yyyy CD259 Dự phòng giảm giá đầu tư tài chính dài hạn N 183 CD260yyyy CD260 Tài sản dài hạn khác N 184 CD261yyyy CD261 Chi phí trả trước dài hạn N 185 CD262yyyy CD262 Tài sản thuế thu nhập hoãn lại N 186 CD268yyyy CD268 Tài sản dài hạn khác N 187 CD270yyyy CD270 Tổng cộng tài sản N 188 CD300yyyy CD300 Nợ phải trả N 189 CD310yyyy CD310 Nợ ngắn hạn N 190 CD311yyyy CD311 Vay và nợ ngắn hạn N 191 CD312yyyy CD312 Phải trả người bán N 192 CD313yyyy CD313 Người mua trả tiền trước N 193 CD314yyyy CD314 Thuế và các khoản phải nộp Nhà nước N 194 CD315yyyy CD315 Phải trả người lao động N 195 CD316yyyy CD316 Chi phí phải trả N 196 CD317yyyy CD317 Phải trả nội bộ N 197 CD318yyyy CD318 Phải trả theo tiến độ kế hoạch hợp đồng xây dựng N 198 CD319yyyy CD319 Các khoản phải trả, phải nộp ngắn hạn khác N 199 CD320yyyy CD320 Dự phòng phải trả ngắn hạn N 200 CD330yyyy CD330 Nợ dài hạn N 201 CD331yyyy CD331 Phải trả dài hạn người bán N 202 CD332yyyy CD332 Phải trả dài hạn nội bộ N 203 CD333yyyy CD333 Phải trả dài hạn khác N 204 CD334yyyy CD334 Vay và nợ dài hạn N 205 CD335yyyy CD335 Thuế thu nhập hoãn lại phải trả N 206 CD336yyyy CD336 Dự phòng trợ cấp mất việc làm N 207 CD337yyyy CD337 Dự phòng phải trả dài hạn N 208 CD400yyyy CD400 Vốn chủ sở hữu N 209 CD410yyyy CD410 Vốn chủ sở hữu N 210 CD411yyyy CD411 Vốn đầu tư của chủ sở hữu N 211 CD412yyyy CD412 Thặng dư vốn cổ phần N 212 CD413yyyy CD413 Vốn khác của chủ sở hữu N 213 CD414yyyy CD414 Cổ phiếu quỹ N 214 CD415yyyy CD415 Chênh lệch đánh giá lại tài sản N 215 CD416yyyy CD416 Chênh lệch tỷ giá hối đoái N 216 CD417yyyy CD417 Quỹ đầu tư phát triển N 217 CD418yyyy CD418 Quỹ dự phòng tài chính N 218 CD419yyyy CD419 Quỹ khác thuộc vốn chủ sở hữu N 219 CD420yyyy CD420 Lợi nhuận sau thuế chưa phân phối N 220 CD421yyyy CD421 Nguồn vốn đầu tư XDCB N 221 CD430yyyy CD430 Nguồn kinh phí và quỹ khác N 222 CD431yyyy CD431 Quỹ khen thưởng, phúc lợi N 223 CD432yyyy CD432 Nguồn kinh phí N 224 CD433yyyy CD433 Nguồn kinh phí đã hình thành TSCĐ N 225 CD439yyyy CD439 Lợi ích cổ đông thiểu số N 226 CD440yyyy CD440 Tổng cộng nguồn vốn N Các chỉ tiêu trong Báo cáo kết quả kinh doanh 227 KQ01yyyy KQ01 Doanh thu bán hàng và cung cấp dịch vụ N 228 KQ02yyyy KQ02 Các khoản giảm trừ doanh thu N 229 KQ10yyyy KQ10 Doanh thu thuần về bán hàng và cung cấp dịch vụ N 230 KQ11yyyy KQ11 Giá vốn hàng bán N 231 KQ20yyyy KQ20 Lợi nhuận gộp về bán hàng và cung cấp dịch vụ N 232 KQ21yyyy KQ21 Doanh thu hoạt động tài chính N 233 KQ22yyyy KQ22 Chi phí tài chính N 234 KQ23yyyy KQ23 Trong đó: Chi phí lãi vay N 235 KQ24yyyy KQ24 Chi phí bán hàng N 236 KQ25yyyy KQ25 Chi phí quản lý doanh nghiệp N 237 KQ30yyyy KQ30 Lợi nhuận thuần từ hoạt động kinh doanh N 238 KQ31yyyy KQ31 Thu nhập khác N 239 KQ32yyyy KQ32 Chi phí khác N 240 KQ40yyyy KQ40 Lợi nhuận khác N 241 KQ50yyyy KQ50 Tổng lợi nhuận kế toán trước thuế N 242 KQ51yyyy KQ51 Chi phí thuế TNDN hiện hành N 243 KQ52yyyy KQ52 Chi phí thuế TNDN hoãn lại N 244 KQ60yyyy KQ60 Lợi nhuận sau thuế thu nhập doanh nghiệp N 245 KQ70yyyy KQ70 Lãi cơ bản trên cổ phiếu N Các chỉ tiêu trong báo cáo lưu chuyển tiền tệ (trực tiếp) Lưu chuyển tiền từ hoạt động kinh doanh 246 LCT01yyyy LCT01 Tiền thu từ bán hàng, cung cấp dịch vụ và doanh thu khác N 247 LCT02yyyy LCT02 Tiền chi trả cho người cung cấp hàng hóa và dịch vụ N 248 LCT03yyyy LCT03 Tiền chi trả cho người lao động N 249 LCT04yyyy LCT04 Tiền chi trả lãi vay N 250 LCT05yyyy LCT05 Tiền chi nộp thuế thu nhập doanh nghiệp N 251 LCT06yyyy LCT06 Tiền thu khác từ hoạt động kinh doanh N 252 LCT07yyyy LCT07 Tiền chi khác cho hoạt động kinh doanh N 253 LCT20yyyy LCT20 Lưu chuyển tiền thuần từ hoạt động kinh doanh N Lưu chuyển tiền từ hoạt động đầu tư 254 LCT21yyyy LCT21 Tiền chi để mua sắm, xây dựng TSCĐ và các tài sản dài hạn khác N 255 LCT22yyyy LCT22 Tiền thu từ thanh lý, nhượng bán TSCĐ và các tài sản dài hạn khác N 256 LCT23yyyy LCT23 Tiền chi cho vay, mua các công cụ nợ của đơn vị khác N 257 LCT24yyyy LCT24 Tiền thu hồi cho vay, bán lại các công cụ nợ của đơn vị khác N 258 LCT25yyyy LCT25 Tiền chi đầu tư góp vốn vào đơn vị khác N 259 LCT26yyyy LCT26 Tiền thu hồi đầu tư góp vốn vào đơn vị khác N 260 LCT27yyyy LCT27 Tiền thu lãi cho vay, cổ tức và lợi nhuận được chia N 261 LCT30yyyy LCT30 Lưu chuyển tiền thuần từ hoạt động đầu tư N Lưu chuyển tiền từ hoạt động tài chính 262 LCT31yyyy LCT31 Tiền thu từ phát hành cổ phiếu, nhận vốn góp của chủ sở hữu N 263 LCT32yyyy LCT32 Tiền chi trả vốn góp cho các chủ sở hữu, mua lại cổ phiếu của doanh nghiệp đã phát hành N 264 LCT33yyyy LCT33 Tiền vay ngắn hạn, dài hạn nhận được N 265 LCT34yyyy LCT34 Tiền chi trả nợ gốc vay N 266 LCT35yyyy LCT35 Tiền chi trả nợ thuê tài chính N 267 LCT36yyyy LCT36 Cổ tức, lợi nhuận đã trả cho chủ sở hữu N 268 LCT40yyyy LCT40 Lưu chuyển tiền thuần từ hoạt động tài chính N 269 LCT50yyyy LCT50 Lưu chuyển tiền thuần trong kỳ N 270 LCT60yyyy LCT60 Tiền và tương đương tiền đầu kỳ N 271 LCT61yyyy LCT61 Ảnh hưởng của thay đổi tỷ giá hối đoái quy đổi ngoại tệ N 272 LCT70yyyy LCT70 Tiền và tương đương tiền cuối kỳ N Các chỉ tiêu trong báo cáo lưu chuyển tiền tệ (gián tiếp) Lưu chuyển tiền từ hoạt động kinh doanh 273 LCG01yyyy LCG01 Lợi nhuận trước thuế N Điều chỉnh cho các khoản 274 LCG02yyyy LCG02 Khấu hao TSCĐ N 275 LCG03yyyy LCG03 Các khoản dự phòng N 276 LCG04yyyy LCG04 Lãi, lỗ chênh lệch tỷ giá hối đoái chưa thực hiện N 277 LCG05yyyy LCG05 Lãi, lỗ từ hoạt động đầu tư N 278 LCG06yyyy LCG06 Chi phí lãi vay N 279 LCG08yyyy LCG08 Lợi nhuận từ hoạt động kinh doanh trước thay đổi vốn lưu động N 280 LCG09yyyy LCG09 Tăng, giảm các khoản phải thu N 281 LCG10yyyy LCG10 Tăng, giảm hàng tồn kho N 282 LCG11yyyy LCG11 Tăng, giảm các khoản phải trả (không kể lãi vay phải trả, thuế thu nhập phải nộp) N 283 LCG12yyyy LCG12 Tăng, giảm chi phí trả trước N 284 LCG13yyyy LCG13 Tiền lãi vay đã trả N 285 LCG14yyyy LCG14 Thuế thu nhập doanh nghiệp đã nộp N 286 LCG15yyyy LCG15 Tiền thu khác từ hoạt động kinh doanh N 287 LCG16yvvy LCG16 Tiền chi khác từ hoạt động kinh doanh N 288 LCG20yyyy LCG20 Lưu chuyển tiền thuần từ hoạt động kinh doanh N Lưu chuyển tiền từ hoạt động đầu tư 289 LCG21yyyy LCG21 Tiền chi để mua sắm, xây dựng TSCĐ, BĐS đầu tư và các tài sản dài hạn khác N 290 LCG22yyyy LCG22 Tiền thu từ thanh lý, nhượng bán TSCĐ, BĐS đầu tư và các tài sản dài hạn khác N 291 LCG23yyyy LCG23 Tiền chi cho vay, mua các công cụ nợ của đơn vị khác N 292 LCG24yyyy LCG24 Tiền thu hồi cho vay, bán lại các công cụ nợ của đơn vị khác N 293 LCG25yyyy LCG25 Tiền chi đầu tư góp vốn vào đơn vị khác N 294 LCG26yyyy LCG26 Tiền thu hồi đầu tư góp vốn vào đơn vị khác N 295 LCG27yyyy LCG27 Tiền thu lãi cho vay, cổ tức và lợi nhuận được chia N 296 LCG30yyyy LCG30 Lưu chuyển tiền thuần từ hoạt động đầu tư N Lưu chuyển tiền từ hoạt động tài chính 297 LCG31yyyy LCG31 Tiền thu từ phát hành cổ phiếu, nhận vốn góp của chủ sở hữu N 298 LCG32yyyy LCG32 Tiền chi trả vốn góp cho các chủ sở hữu, mua lại cổ phiếu của doanh nghiệp đã phát hành N 299 LCG33yyyy LCG33 Tiền vay ngắn hạn, dài hạn nhận được N 300 LCG34yyyy LCG34 Tiền chi trả nợ gốc vay N 301 LCG35yyyy LCG35 Tiền chi trả nợ thuê tài chính N 302 LCG36yyyy LCG36 Cổ tức, lợi nhuận đã trả cho chủ sở hữu N 303 LCG40yyyy LCG40 Lưu chuyển tiền thuần từ hoạt động tài chính N 304 LCG50yyyy LCG50 Lưu chuyển tiền thuần trong năm N 305 LCG60yyyy LCG60 Tiền và tương đương tiền đầu năm N 306 LCG61yyyy LCG61 Ảnh hưởng của thay đổi tỷ giá hối đoái quy đổi ngoại tệ N 307 LCG70yyyy LCG70 Tiền và tương đương tiền cuối năm N Thông tin đầu tư trái phiếu vào khách hàng vay là doanh nghiệp 308 TP001 TP001 Mã chi nhánh TCTD C 309 TP002 TP002 Mã khách hàng do tổ chức tín dụng cấp C 310 TP003 TP003 Tên doanh nghiệp phát hành C 311 TP004 TP004 Ngày phát hành D 312 TP005 TP005 Số hợp đồng đầu tư C 313 TP006 TP006 Lãi suất năm N 314 TP007 TP007 Số lượng trái phiếu N 315 TP008 TP008 Ngày đến hạn thanh toán D 316 TP009 TP009 Tổng giá trị đầu tư N 317 TP010 TP010 Mã loại tiền C Bảng mã 06 318 TP011 TP011 Mục đích phát hành trái phiếu C của doanh nghiệp 319 TP012 TP012 Dự phòng rủi ro phải trích N 320 TP013 TP013 Dự phòng rủi ro thực trích N Ghi chú: yyyy là năm tài chính BẢNG MÃ 01/CIC: MÃ TỈNH THÀNH PHỐ STT Tên tỉnh, Thành phố Mã số 1 Thành phố Hà Nội 1 2 Tỉnh Hà Giang 2 3 Tỉnh Cao Bằng 4 4 Tỉnh Bắc Kạn 6 5 Tỉnh Tuyên Quang 8 6 Tỉnh Lào Cai 10 7 Tỉnh Điện Biên 11 8 Tỉnh Lai Châu 12 9 Tỉnh Sơn La 14 10 Tỉnh Yên Bái 15 11 Tỉnh Hòa Bình 17 12 Tỉnh Thái Nguyên 19 13 Tỉnh Lạng Sơn 20 14 Tỉnh Quảng Ninh 22 15 Tỉnh Bắc Giang 24 16 Tỉnh Phú Thọ 25 17 Tỉnh Vĩnh Phúc 26 18 Tỉnh Bắc Ninh 27 19 Tỉnh Hải Dương 30 20 Thành phố Hải Phòng 31 21 Tỉnh Hưng Yên 33 22 Tỉnh Thái Bình 34 23 Tỉnh Hà Nam 35 24 Tỉnh Nam Định 36 25 Tỉnh Ninh Bình 37 26 Tỉnh Thanh Hóa 38 27 Tỉnh Nghệ An 40 28 Tỉnh Hà Tĩnh 42 29 Tỉnh Quảng Bình 44 30 Tỉnh Quảng Trị 45 31 Tỉnh Thừa Thiên - Huế 46 32 Thành phố Đà Nẵng 48 33 Tỉnh Quảng Nam 49 34 Tỉnh Quảng Ngãi 51 35 Tỉnh Bình Định 52 36 Tỉnh Phú Yên 54 37 Tỉnh Khánh Hòa 56 38 Tỉnh Ninh Thuận 58 39 Tỉnh Bình Thuận 60 40 Tỉnh Kon Tum 62 41 Tỉnh Gia Lai 64 42 Tỉnh Đắc Lắc 66 43 Tỉnh Đắc Nông 67 44 Tỉnh Lâm Đồng 68 45 Tỉnh Bình Phước 70 46 Tỉnh Tây Ninh 72 47 Tỉnh Bình Dương 74 48 Tỉnh Đồng Nai 75 49 Tỉnh Bà Rịa - Vũng Tàu 77 50 Thành phố Hồ Chí Minh 79 51 Tỉnh Long An 80 52 Tỉnh Tiền Giang 82 53 Tỉnh Bến Tre 83 54 Tỉnh Trà Vinh 84 55 Tỉnh Vĩnh Long 86 56 Tỉnh Đồng Tháp 87 57 Tỉnh An Giang 89 58 Tỉnh Kiên Giang 91 59 Tỉnh Cần Thơ 92 60 Tỉnh Hậu Giang 93 61 Tỉnh Sóc Trăng 94 62 Tỉnh Bạc Liêu 95 63 Tỉnh Cà Mau 96 BẢNG MÃ 02/CIC: MÃ QUỐC GIA STT Tên quốc gia Ký hiệu Mã số 1 Afghanistan AFG 001 2 Albania ALB 002 3 Algeria DZA 003 4 Andorra AND 004 5 Angola AGO 005 6 Antigua and Barbuda ATG 006 7 Argentina ARG 007 8 Armenia ARM 008 9 Australia AUS 009 10 Austria AUT 010 11 Azerbaijan AZE 011 12 Bahamas BHS 012 13 Bahrain BHR 013 14 Bangladesh BGD 014 15 Barbados BRB 015 16 Belarus BLR 016 17 Belgium BEL 017 18 Belize BLZ 018 19 Benin BEN 019 20 Bhutan BTN 020 21 Bolivia BOL 021 22 Bosnia and Herzegovina BIH 022 23 Botswana BWA 023 24 Brazil BRA 024 25 Brunei Darussalam BRN 025 26 Bulgaria BGR 026 27 Burkina Faso BFA 027 28 Burundi BDI 028 29 Cambodia KHM 029 30 Cameroon CMR 030 31 Canada CAN 031 32 Cape Verde CPV 032 33 Central African Republic CAF 033 34 Chad TCD 034 35 Chile CHL 035 36 China CHN 036 37 Colombia COL 037 38 Comoros COM 038 39 Congo COG 039 40 Costa Rica CRI 040 41 Cote d’ Ivoire CIV 041 42 Croatia HRV 042 43 Cuba --- 043 44 Cyrus --- 044 45 Czech Republic CZE 045 46 Democratic People’s Republic of Korea PRK 046 47 Democratic Republic of the Congo COD 047 48 Denmark DNK 048 49 Djibouti DJI 049 50 Dominica DMA 050 51 Dominican Republic DOM 051 52 Ecuador ECU 052 53 Egypt EGY 053 54 El Salvador SLV 054 55 Equatorial Guinea GNQ 055 56 Eritrea ERI 056 57 Estonia EST 057 58 Ethiopia ETH 058 59 Fiji FJI 059 60 Finland FIN 060 61 France FRA 061 62 Gabon GAB 062 63 Gambia GMB 063 64 Georgia GEO 064 65 Germany DEU 065 66 Ghana GHA 066 67 Greece GRC 067 68 Grenada GRD 068 69 Guatemala GTM 069 70 Guinea GIN 070 71 Guinea-Bissau GNB 071 72 Guyana GUY 072 73 Haiti HTI 073 74 Honduras HND 074 75 Hungary HUN 075 76 Iceland ISL 076 77 India IND 077 78 Indonesia IDN 078 79 Iran (Islamic Republic of) IRN 079 80 Iraq IRQ 080 81 Ireland IRL 081 82 Israel ISR 082 83 Italy ITA 083 84 Jamaica JAM 084 85 Japan JPN 085 86 Jordan JOR 086 87 Kazakhstan KAZ 087 88 Kenya KEN 088 89 Kiribati KIR 089 90 Kuwait KWT 090 91 Kyrgyzstan KGZ 091 92 Lao People’s Democratic Republic LAO 092 93 Latvia LVA 093 94 Lebanon LBN 094 95 Lesotho LSO 095 96 Liberia LBR 096 97 Libyan Arab Jamahiriya LBY 097 98 Liechtenstein LIE 098 99 Lithuania LTU 099 100 Luxembourg LUX 100 101 Madagascar MDG 101 102 Malawi MWI 102 103 Malaysia MYS 103 104 Maldives MDV 104 105 Mali MLI 105 106 Malta MLT 106 107 Marshall Islands MHL 107 108 Mauritania MRT 108 109 Mauritius MUS 109 110 Mexico MEX 110 111 Micronesia, Federared States of FSM 111 112 Monaco MCO 112 113 Mongolia MNG 113 114 Montenegro --- 114 115 Morocco MAR 115 116 Mozambique MOZ 116 117 Myanmar MMR 117 118 Namibia NAM 118 119 Nauru NRU 119 120 Nepal NPL 120 121 Netherlands NLD 121 122 New Zealand NZL 122 123 Nicaragua NIC 123 124 Niger NER 124 125 Nigeria NGA 125 126 Norway NOR 126 127 Oman OMN 127 128 Pakistan PAK 128 129 Palau PLW 129 130 Panama PAN 130 131 Papua New Guinea PNG 131 132 Paraguay PRY 132 133 Peru PER 133 134 Philippines PHL 134 135 Poland POL 135 136 Portugal PRT 136 137 Qatar QAT 137 138 Republic of Korea KOR 138 139 Republic of Moldova MDA 139 140 Romania ROU 140 141 Russian Federation RUS 141 142 Rwanda RWA 142 143 Saint Kitts and Nevis KNA 143 144 Saint Lucia LCA 144 145 Saint Vincent and the Grenadines VCT 145 146 Samoa WSM 146 147 San Marino SMR 147 148 Sao Tome and Principe STP 148 149 Saudi Arabia SAU 149 150 Senegal SEN 150 151 Serbia --- 151 152 Seychelles SYC 152 153 Sierra Leone SLE 153 154 Singapore SGP 154 155 Slovakia SVK 155 156 Slovenia SVN 156 157 Solomon Islands SLB 157 158 Somalia SOM 158 159 South Africa ZAF 159 160 Spain ESP 160 161 Sri Lanka LKA 161 162 Sudan SDN 162 163 Suriname SUR 163 164 Swaziland SWZ 164 165 Sweden SWE 165 166 Switzerland CHE 166 167 Syrian Arab Republic SYR 167 168 Tajikistan TJK 168 169 Thailand THA 169 170 The former Yugoslav Republic of Macedonia MKD 170 171 Timor-Leste TLS 171 172 Togo TGO 172 173 Tonga TON 173 174 Trinidad and Tobago TTO 174 175 Tunisia TUN 175 176 Turkey TUR 176 177 Turkmenistan TKM 177 178 Tuvalu TUV 178 179 Uganda UGA 179 180 Ukraine UKR 180 181 United Arab Emirates ARE 181 182 United Kingdom GBR 182 183 United Republic of Tanzania TZA 183 184 United States USA 184 185 Uruguay URY 185 186 Uzbekistan UZB 186 187 Vanuatu VUT 187 188 Venezuela VEN 188 189 Viet Nam VNM 189 190 Yemen YEM 190 191 Zambia ZMB 191 192 Zimbabwe ZWE 192 BẢNG MÃ 03/CIC: MÃ LOẠI GIẤY TỜ CÁ NHÂN STT Tên loại giấy tờ cá nhân Mã số 1 Hộ chiếu 01 2 Số hộ khẩu 02 3 Bằng lái xe ô tô 03 4 Thẻ quân nhân 04 5 Thẻ sinh viên 05 6 Các loại giấy tờ cá nhân khác 06 BẢNG MÃ 04/CIC: MÃ LOẠI HÌNH TỔ CHỨC STT Loại hình tổ chức và cá nhân Mã số 1 Công ty nhà nước 01 2 Công ty trách nhiệm hữu hạn 1 thành viên do nhà nước sở hữu 100% vốn điều lệ 02 3 Công ty trách nhiệm hữu hạn 2 thành viên trở lên có phần vốn góp của nhà nước trên 50% vốn điều lệ hoặc nhà nước giữ quyền chi phối 03 4 Công ty trách nhiệm hữu hạn khác 04 5 Công ty cổ phần có vốn cổ phần của nhà nước chiếm trên 50% vốn điều lệ hoặc tổng số cổ phần có quyền biểu quyết; hoặc nhà nước giữ quyền chi phối đối với công ty trong Điều lệ của công ty. 05 6 Công ty cổ phần khác 06 7 Công ty hợp danh 07 8 Doanh nghiệp tư nhân 08 9 Doanh nghiệp có vốn đầu tư nước ngoài 09 10 Hợp tác xã và liên hiệp hợp tác xã 10 11 Hộ kinh doanh, cá nhân 11 12 Đơn vị hành chính sự nghiệp, đảng, đoàn thể và hiệp hội 12 13 Khác 13 BẢNG MÃ 05/CIC: MÃ NGÀNH KINH TẾ STT Tên ngành Mã số 1 Nông nghiệp, lâm nghiệp và thủy sản 0101 2 Khai khoáng 0201 3 Công nghiệp chế biến, chế tạo 0202 4 Sản xuất và phân phối điện, khí đốt, nước nóng, hơi nước và điều hòa không khí 0203 5 Cung cấp nước; hoạt động quản lý và xử lý rác thải, nước thải. 0204 6 Xây dựng 0301 7 Bán buôn và bán lẻ; sửa chữa ô tô, mô tô, xe máy và xe có động cơ khác 0401 8 Vận tải kho bãi 0402 9 Dịch vụ lưu trú và ăn uống 0403 10 Thông tin và truyền thông 0501 11 Hoạt động tài chính, ngân hàng và bảo hiểm 0601 12 Hoạt động kinh doanh bất động sản 0602 13 Hoạt động chuyên môn, khoa học và công nghệ 0701 14 Hoạt động hành chính và dịch vụ hỗ trợ 0702 15 Hoạt động của đảng Cộng sản, tổ chức chính trị - xã hội, quản lý nhà nước, an ninh quốc phòng; bảo đảm xã hội bắt buộc 0801 16 Giáo dục và đào tạo 0802 17 Y tế và hoạt động trợ giúp xã hội 0803 18 Nghệ thuật, vui chơi và giải trí 0804 19 Hoạt động dịch vụ khác 0805 20 Hoạt động làm thuê các công việc trong các hộ gia đình, sản xuất sản phẩm vật chất và dịch vụ tự tiêu dùng của hộ gia đình 0806 21 Hoạt động của các tổ chức và cơ quan quốc tế 0807 BẢNG MÃ 06/CIC: KÝ HIỆU CÁC LOẠI TIỀN TỆ CỦA CÁC NƯỚC STT Tên nước (tiếng việt) Tên ngoại tệ Ký hiệu Chữ Số 1 VIỆT NAM ĐỒNG VND 00 2 VIỆT NAM VÀNG XAU 01 3 SLOVAKIA SLOVAKKORUNA SKK 09 4 MO ZĂM BÍCH METICAL MZM 10 5 NICARAGUA CORDOBA ORO NIO 11 6 NAM TƯ NEW DINAR YUM 12 7 ÁO EURO EUR 14 8 BỈ EURO EUR 14 9 PHẦN LAN EURO EUR 14 10 PHÁP EURO EUR 14 11 ĐỨC EURO EUR 14 12 AI LEN EURO EUR 14 13 Ý EURO EUR 14 14 LÚCH XĂM BUA EURO EUR 14 15 NETHERLANDS EURO EUR 14 16 THỔ NHĨ KỲ EURO EUR 14 17 TÂY BAN NHA EURO EUR 14 18 GUINEA- BISSAU GUINEA-BISSAU PESO GWP 15 19 HONDURAS LEMPIRA HNL 16 20 ANBANI LEK ALL 17 21 BA LAN ZLOTY PLN 18 22 BUN GA RI LEV BGL 19 23 LIBERIA LIBERIAN DOLLAR LRD 20 24 HUNGARY FORINT HƯF 21 25 LIÊN BANG NGA RUSSIAN RUBLE(NEW) RUB 22 26 MÔNG CỔ TUGRIK MNT 23 27 RUMANI LEU ROL 24 28 TIỆP KHẮC (MỚI) CZECH KORUNA CZK 25 29 TRUNG QUỐC YAN RENMINBI CNY 26 30 BẮC TRIỀU TIÊN NORTH KOREAN WON KPW 27 31 CU BA CUBAN PESO CUP 28 32 LÀO KIP LAK 29 33 CAM PU CHIA RIEL KHR 30 34 PAKISTAN PAKISTAN RUPEE PKR 31 35 ACHENTINA ARGENTINE PESO ARS 32 36 CA MƠ RUN CFA FRANC BEAC XAF 33 37 ANDURÁT SPANISIC PESETA ESP 34 38 GUERNSEY,C.I. POUND STERLING GBP 35 39 ISLE OF MAN POUND STERLING GBP 35 40 JERSEY,C.I POUND STERLING GBP 35 41 ANH POUND STERLING GBP 35 42 HỒNG KÔNG HONGKONG DOLLAR HKD 36 43 AMERICAN SAMOA US DOLLAR USD 37 44 BRISTISH INDIAN OCEAN TERRITORY US DOLLAR USD 37 45 GUAM US DOLLAR USD 37 46 HAITI US DOLLAR USD 37 47 MARSHALL ISLANDS US DOLLAR USD 37 48 MICRONESIA (PERERATED STATES OF) US DOLLAR USD 37 49 NORTHERN MARIANA ISLANDS US DOLLAR USD 37 50 PALAU US DOLLAR USD 37 51 PANAMA US DOLLAR USD 37 52 PUERTO RICO US DOLLAR USD 37 53 TURKS AND CAICOS ISLANDS US DOLLAR USD 37 54 MỸ US DOLLAR USD 37 55 UNITED STATES MINOR OU US DOLLAR USD 37 56 VIRGIN ISLANDS,BRISTISH US DOLLAR USD 37 57 VIRGIN ISLANDS,U.S. US DOLLAR USD 37 58 UNITED STATES MINOR OU US DOLLAR USD 37 59 PHÁP FRENCH FRANC FRF 38 60 FRENCH SOUTHERN TERRI FRENCH FRANC FRF 38 61 GUADELOUPE FRENCH FRANC FRF 38 62 MANTINIQUE FRENCH FRANC FRF 38 63 MAYOTTE FRENCH FRANC FRF 38 64 MONACO FRENCH FRANC FRF 38 65 REUNION FRENCH FRANC FRF 38 66 SAINT PIERRE AND MIQUEL FRENCH FRANC FRF 38 67 LIECHTENSTEIN SWISS FRANC CHF 39 68 THỤY SĨ SWISS FRANC CHF 39 69 ĐỨC DEUTSCHE MARK DEM 40 70 NHẬT BẢN YEN JPY 41 71 THỔ NHĨ KỲ PORTUGUESE ESCUDO PTE 42 72 GINE GUINEA FRANC GNF 43 73 SOMALIA SOMA- SHILLING SOS 44 74 THAI LAND BAHT THB 45 75 BRUNEI DARUSSALAM BRUNEI DOLLAR BND 46 76 BRAZIL BRAZILIAN REAL BRL 47 77 THỤY ĐIỂN SWEDISH KRONA SEK 48 78 BOUVET ISLAND NORWEGIAN KRONE NOK 49 79 NAUY NORWEGIAN KRONE NOK 49 80 SVALBARD AND JAN MAYE NORWEGIAN KRONE NOK 49 81 ĐAN MẠCH DANISH KRONE DKK 50 82 FAEROE ISLAND DANISH KRONE DKK 50 83 GREENLAND DANISH KRONE DKK 50 84 LÚCH XĂM BUA LUXEMBOURG FRANC LUF 51 85 ÚC AUSTRALIAN DOLLAR AUD 52 86 CHRISMAST ISLAND AUSTRALIAN DOLLAR AUD 52 87 COCOS(KEELING) ISLAND AUSTRALIAN DOLLAR AUD 52 88 KIRIBATI AUSTRALIAN DOLLAR AUD 52 89 NORFOLK ISLAND AUSTRALIAN DOLLAR AUD 52 90 TUVALU AUSTRALIAN DOLLAR AUD 52 91 CANADA CANADIAN DOLLAR CAD 53 92 SINGAPORE SINGAPORE DOLLAR SGD 54 93 MALAYSIA MALAYSIAN RINGGIT MYR 55 94 ALGIERI ALGERIAN DINAR DZD 56 95 YEMEN YEMENI RIAL YER 57 96 IRẮC IRAQI DINAR IQD 58 97 LIBYAN ARB JAMAHIRJYA LIBYAN DINAR LYD 59 98 TUNISIA TUNISIAN DINAR TND 60 99 BỈ BELGIAN FRANC BEF 61 100 LÚCH XĂM BUA BELGIAN FRANC BEF 61 101 MA RỐC MOROCCAN DIRHAM MAD 62 102 COLOMBIA COLOMBIAN PESO COP 63 103 CAMEROON CFA FRANC BEAC XAF 64 104 CỘNG HOÀ TRUNG PHI CFA FRANC BEAC XAF 64 105 SAT CFA FRANC BEAC XAF 64 106 CONGO CFA FRANC BEAC XAF 64 107 EQUATORIAL GUINEA CFA FRANC BEAC XAF 64 108 GABONG CFA FRANC BEAC XAF 64 109 ANGOLA KWANZA REAJUSTADO AOR 65 110 NETHERLANDS NETHERLANDS GUILDER NLG 66 111 BENIN CFA FRANC BCEAO XOF 67 112 BURKINA FASO CFA FRANC BCEAO XOF 67 113 COTED'IVOIRE CFA FRANC BCEAO XOF 67 114 GUINEA- BISSAU CFA FRANC BCEAO XOF 67 115 MALI CFA FRANC BCEAO XOF 67 116 NIGIÊ CFA FRANC BCEAO XOF 67 117 SENEGAL CFA FRANC BCEAO XOF 67 118 TOGO CFA FRANC BCEAO XOF 67 119 AI CẬP EGYPTIAN POUND EGP 69 120 CỘNG HOÀ SYRIAN ARAB SYRIAN POUND SYP 70 121 LI BĂNG LEBANESE POUND LBP 71 122 ETHIOPIA ETHIOPIANBIRR ETB 72 123 AI LEN IRISH POUND IEP 73 124 THỔ NHĨ KỲ TURKISH LIRA TRL 74 125 HOLY SEE(VATICAN CITY STATE) ITALIAN LIRA ITL 75 126 Ý ITALIAN LIRA ITL 75 127 SAN MARINO ITALIAN LIRA ITL 75 128 PHẦN LAN MARKKA FIM 76 129 MEXICO MEXICAN PESO MXN 77 130 PHI LIP PIN PHILIPPINE PESO PHP 78 131 PA RA GUAY GUARANI PYG 79 132 HI LẠP DRACHMA GRD 80 133 BHU TAN INDIAN RUPEE INR 81 134 ẤN ĐỘ INDIAN RUPEE INR 81 135 SRI LANKA SRI LANKA RUPEE LKR 82 136 BANGLADET TAKA BDT 83 137 INDONESIA RUPIAH IDR 84 138 ÁO SCHILLING ATS 85 139 ECUADOR SUCRE ECS 87 140 NEW ZEALAND NEWZEALAND DOLLAR NZD 88 141 NIUE NEWZEALAND DOLLAR NZD 88 142 PITCAIRN NEWZEALAND DOLLAR NZD 88 143 TOKELAU NEWZEALAND DOLLAR NZD 88 144 GIBUTI DJIBUTI FRANC DJF 89 145 ANDORRA SPANISH PESETA ESP 90 146 TÂY BAN NHA SPANISH PESETA ESP 90 147 ARẬP XÊ ÚT SAUDI RYAL SAR 91 148 PÊ RU NUEVO SOL PEN 92 149 PANAMA BALBOA PAB 93 150 ĐÀI LOAN NEW TAIWAN DOLLAR TWD 94 151 MA CAO PATACA MOP 95 152 IRAN (ISLAMIC REPUBLIC OF) IRANIAN RIAL IRR 96 153 CÔ OÉT KUWAITI DINAR KWD 97 154 HÀN QUỐC WON KRW 98 155 CÁC NƯỚC KHÁC CÁC NGOẠI TỆ KHÁC 99 BẢNG MÃ 07/CIC: MÃ MỤC ĐÍCH SỬ DỤNG TIỀN VAY STT Mục đích sử dụng tiền vay Mã số 1 Cho vay tiêu dùng 01 2 Cho vay đầu tư, kinh doanh bất động sản 02 3 Cho vay đầu tư, kinh doanh chứng khoán 03 4 Cho vay kinh doanh thương mại, dịch vụ 04 5 Cho vay sản xuất 05 5.1 Sản xuất công nghiệp 051 5.2 Sản xuất nông, lâm nghiệp 052 5.3 Nuôi trồng, chế biến thủy hải sản 053 5.4 Sản xuất khác 054 6 Cho vay xây dựng cầu, đường 06 7 Cho vay khác 09 BẢNG MÃ 08/CIC: MÃ LOẠI VAY STT Tên loại vay Mã số 1 Dư nợ cho vay ngắn hạn 01 2 Dư nợ cho vay trung hạn 02 3 Dư nợ cho vay dài hạn 03 4 Dư nợ chiết khấu thương phiếu và các giấy tờ có giá 04 5 Dư nợ cho thuê tài chính 05 6 Dư nợ các khoản phải trả thay khách hàng 06 7 Dư nợ cho vay vốn nhận trực tiếp từ các tổ chức quốc tế 07 8 Dư nợ cho vay vốn nhận của Chính phủ 08 9 Dư nợ cho vay vốn nhận của các tổ chức, cá nhân khác 09 10 Dư nợ cho vay vốn đặc biệt 10 11 Dư nợ cho vay thanh toán công nợ 11 12 Dư nợ cho vay đầu tư xây dựng cơ bản theo kế hoạch nhà nước 12 13 Dư nợ cho vay khác 13 14 Dư nợ chờ xử lý 14 15 Dư nợ được khoanh 15 16 Dư nợ cho vay đầu tư theo hợp đồng nhận ủy thác 16 17 Dư nợ cho vay theo hợp đồng nhận tài trợ 17 18 Dư nợ của khách hàng đã xử lý 18 BẢNG MÃ 09/CIC: MÃ NHÓM NỢ STT Nhóm nợ Mã số 1 Nhóm 1 (Nợ đủ tiêu chuẩn) 01 2 Nhóm 2 (Nợ cần chú ý) 02 3 Nhóm 3 (Nợ dưới tiêu chuẩn) 03 4 Nhóm 4 (Nợ nghi ngờ) 04 5 Nhóm 5 (Nợ có khả năng mất vốn) 05 BẢNG MÃ 10/CIC: MÃ LOẠI BẢO ĐẢM TIỀN VAY STT Tên loại tài sản bảo đảm tiền vay Mã số 1 Quyền sử dụng đất và tài sản gắn liền với đất 01 2 Phương tiện giao thông 02 3 Giấy tờ có giá 03 4 Trái phiếu 04 5 Cổ phiếu 05 6 Tín phiếu 06 7 Kỳ phiếu 07 8 Chứng chỉ tiền gửi 08 9 Thương phiếu 09 10 Giấy tờ khác trị giá được bằng tiền 10 11 Kim khí đá quý 11 12 Máy móc thiết bị, nguyên nhiên vật liệu, hàng hóa 12 13 Máy móc thiết bị 13 14 Dây chuyền sản xuất 14 15 Nguyên nhiên vật liệu 15 16 Hàng tiêu dùng 16 17 Hàng hóa khác 17 18 Tài sản đăng ký quyền sở hữu và quyền sử dụng khác 18 19 Quyền tài sản phát sinh từ quyền tác giả 19 20 Quyền sở hữu công nghiệp 20 21 Quyền đòi nợ 21 22 Quyền được nhận bảo hiểm 22 23 Quyền góp vốn doanh nghiệp 23 24 Quyền khai thác tài nguyên thiên nhiên 24 25 Lợi tức và các quyền phát sinh từ tài sản cầm cố 25 26 Quyền tài sản khác 26 27 Tài sản khác 27",
+                "clauses": [],
+                "points": []
+              }
+            ]
+          }
+        ],
+        "sections": [],
+        "articles": [],
+        "unstructured_blocks": []
+      }
+    ]
+  },
+  "issues": [],
+  "status": "ok",
+  "source_hash": "context_180368.json",
+  "stats": {
+    "source_chars": 53382,
+    "passage_chars": 53213,
+    "parts": 1,
+    "chapters": 5,
+    "sections": 0,
+    "articles": 22,
+    "clauses": 91,
+    "points": 19
+  }
+}

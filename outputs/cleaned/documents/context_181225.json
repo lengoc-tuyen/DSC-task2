@@ -1,0 +1,646 @@
+{
+  "schema_version": "2.0",
+  "document_id": 181225,
+  "metadata": {
+    "name": "Thong-tu-12-2019-TT-BXD-quan-ly-he-thong-co-so-du-lieu-dinh-muc-gia-xay-dung-chi-so-gia-xay-dung-432",
+    "link": "https://thuvienphapluat.vn/van-ban/Tai-chinh-nha-nuoc/Thong-tu-12-2019-TT-BXD-quan-ly-he-thong-co-so-du-lieu-dinh-muc-gia-xay-dung-chi-so-gia-xay-dung-432771.aspx",
+    "issuing_agency": "BỘ XÂY DỰNG",
+    "national_header": "CỘNG HÒA XÃ HỘI\r\n\n  CHỦ NGHĨA VIỆT NAM",
+    "motto": "Độc lập - Tự do - Hạnh phúc",
+    "document_number": "12/2019/TT-BXD",
+    "issued_place": "Hà Nội",
+    "issued_date": "ngày 26\r\n\n  tháng 12 năm 2019",
+    "document_type": "THÔNG TƯ",
+    "title": "HƯỚNG DẪN XÂY DỰNG VÀ QUẢN LÝ HỆ THỐNG CƠ SỞ DỮ LIỆU VỀ ĐỊNH MỨC, GIÁ XÂY DỰNG VÀ CHỈ SỐ GIÁ XÂY DỰNG"
+  },
+  "administrative_header": {
+    "removed": true,
+    "removed_char_count": 151
+  },
+  "preamble": {
+    "text": "THÔNG TƯ HƯỚNG\nDẪN XÂY DỰNG VÀ QUẢN LÝ HỆ THỐNG CƠ SỞ DỮ LIỆU VỀ ĐỊNH MỨC, GIÁ XÂY DỰNG VÀ CHỈ\nSỐ GIÁ XÂY DỰNG\nCăn cứ Luật Xây dựng số 50/2014/QH13 ngày 18 tháng 6 năm 2014; Căn cứ Nghị định số 81/2017/NĐ-CP ngày 17 tháng 7 năm 2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Xây dựng; Căn cứ Nghị định số 68/2019/NĐ-CP ngày 14 tháng 8 năm 2019 của Chính phủ về quản lý chi phí đầu tư xây dựng; Theo đề nghị của Cục trưởng Cục Kinh tế xây dựng, Bộ trưởng Bộ Xây dựng ban hành Thông tư hướng dẫn xây dựng và quản lý hệ thống cơ sở dữ liệu về định mức, giá xây dựng và chỉ số giá xây dựng.\nChương I\nQUY ĐỊNH CHUNG",
+    "legal_bases": [
+      "Căn cứ Nghị định số 81/2017/NĐ-CP ngày 17 tháng 7 năm 2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Xây dựng",
+      "Căn cứ Nghị định số 68/2019/NĐ-CP ngày 14 tháng 8 năm 2019 của Chính phủ về quản lý chi phí đầu tư xây dựng"
+    ],
+    "proposals": [
+      "Theo đề nghị của Cục trưởng Cục Kinh tế xây dựng, Bộ trưởng Bộ Xây dựng ban hành Thông tư hướng dẫn xây dựng và quản lý hệ thống cơ sở dữ liệu về định mức, giá xây dựng và chỉ số giá xây dựng.\nChương I\nQUY ĐỊNH CHUNG"
+    ],
+    "enactment_formula": null
+  },
+  "passage": "THÔNG TƯ HƯỚNG\nDẪN XÂY DỰNG VÀ QUẢN LÝ HỆ THỐNG CƠ SỞ DỮ LIỆU VỀ ĐỊNH MỨC, GIÁ XÂY DỰNG VÀ CHỈ\nSỐ GIÁ XÂY DỰNG\nCăn cứ Luật Xây dựng số 50/2014/QH13 ngày 18 tháng 6 năm 2014; Căn cứ Nghị định số 81/2017/NĐ-CP ngày 17 tháng 7 năm 2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Xây dựng; Căn cứ Nghị định số 68/2019/NĐ-CP ngày 14 tháng 8 năm 2019 của Chính phủ về quản lý chi phí đầu tư xây dựng; Theo đề nghị của Cục trưởng Cục Kinh tế xây dựng, Bộ trưởng Bộ Xây dựng ban hành Thông tư hướng dẫn xây dựng và quản lý hệ thống cơ sở dữ liệu về định mức, giá xây dựng và chỉ số giá xây dựng.\nChương I\nQUY ĐỊNH CHUNG\nĐiều 1. Phạm vi điều chỉnh Thông tư này quy định việc xây dựng và quản lý hệ thống cơ sở dữ liệu về định mức, giá xây dựng và chỉ số giá xây dựng, bao gồm: cung cấp, thu thập, xử lý, cập nhật, lưu trữ, bảo mật, công bố, khai thác sử dụng, kiểm soát và vận hành hệ thống cơ sở dữ liệu.\nĐiều 2. Đối tượng áp dụng\n1. Thông tư này áp dụng đối với cơ quan, tổ chức,\ncá nhân có liên quan đến việc xây dựng và quản lý cơ sở dữ liệu định mức, giá xây dựng và chỉ số giá xây dựng phục vụ quản lý chi phí đầu tư xây dựng các dự án sử dụng vốn ngân sách nhà nước và vốn nhà nước ngoài ngân sách, các dự án đầu tư theo hình thức công tư (PPP), trừ các dự án đầu tư xây dựng thuộc danh mục bí mật nhà nước, an ninh quốc phòng.\n2. Khuyến khích các tổ chức, cá nhân không thuộc đối\ntượng quy định tại Khoản 1 Điều này áp dụng các quy định của Thông tư này.\nĐiều 3. Nguyên tắc xây dựng và quản lý hệ thống cơ sở dữ liệu về định mức, giá xây dựng và chỉ số giá xây dựng\n1. Hệ thống cơ sở dữ liệu về định mức, giá xây dựng\nvà chỉ số giá xây dựng phải bảo đảm chính xác, đầy đủ, đồng bộ kết nối và phù hợp với các quy định của pháp luật và thị trường; phục vụ kịp thời công tác quản lý nhà nước và đáp ứng yêu cầu phát triển kinh tế - xã hội.\n2. Việc thu thập, bổ sung các thông tin, dữ liệu phải\nbảo đảm không trùng lặp, chồng chéo nhiệm vụ; có sự phối hợp chặt chẽ trong việc thu thập thông tin, dữ liệu; tận dụng tối đa nguồn thông tin, dữ liệu sẵn có; đảm bảo thực hiện hiệu quả, khả thi, tiết kiệm kinh phí, nguồn lực; thông tin, dữ liệu đã được kiểm tra, xử lý và cập nhật theo quy định trong hệ thống cơ sở dữ liệu về định mức, giá xây dựng và chỉ số giá xây dựng có giá trị pháp lý như hồ sơ, văn bản dạng giấy.\n3. Góp phần nâng cao năng suất ngành xây dựng, nâng\ncao năng lực và hiệu quả quản lý nhà nước về kinh tế trong đầu tư xây dựng và phát triển đô thị, góp phần chống thất thoát, lãng phí trong đầu tư xây dựng.\n4. Các cơ quan, tổ chức và cá nhân chịu trách nhiệm\npháp lý đối với các thông tin, dữ liệu do mình cung cấp, cập nhật cho hệ thống cơ sở dữ liệu.\nĐiều 4. Danh mục thông tin, dữ liệu trong lĩnh vực định mức, giá xây dựng và chỉ số giá xây dựng\n1. Các thông tin, dữ liệu về định mức xây dựng bao\ngồm:\na) Định mức sử dụng vật liệu;\nb) Định mức năng suất lao động;\nc) Định mức năng suất máy và thiết bị thi công;\nd) Định mức dự toán xây dựng công trình;\nđ) Định mức chi phí quản lý dự án và tư vấn đầu tư\nxây dựng;\ne) Định mức chi phí gián tiếp.\n2. Các thông tin, dữ liệu về giá xây dựng bao gồm:\na) Suất vốn đầu tư và giá xây dựng tổng hợp bộ phận\nkết cấu công trình;\nb) Giá vật liệu xây dựng;\nc) Đơn giá nhân công xây dựng;\nd) Giá ca máy và thiết bị thi công xây dựng;\nđ) Đơn giá xây dựng công trình.\n3. Các thông tin, dữ liệu về chỉ số giá xây dựng.\n4. Các thông tin, dữ liệu về dự án đầu tư xây dựng\nvà hợp đồng xây dựng bao gồm:\na) Thông tin dự án;\nb) Tổng mức đầu tư;\nc) Dự toán xây dựng công trình;\nd) Giá trúng thầu;\nđ) Giá hợp đồng;\ne) Giá quyết toán.\n5. Chi tiết thông tin, dữ liệu quy định tại Phụ lục I của Thông tư này.\n6. Các thông tin, dữ liệu về định mức xây dựng, giá\nxây dựng và chỉ số giá xây dựng được mã hóa theo hệ thống mã hiệu quy định tại Phụ lục II của Thông tư này.\nChương II\nCUNG CẤP, THU THẬP, CẬP\nNHẬT, XỬ LÝ, LƯU TRỮ, BẢO QUẢN, BẢO MẬT THÔNG TIN, KHAI THÁC SỬ DỤNG DỮ LIỆU VỀ\nĐỊNH MỨC, GIÁ XÂY DỰNG VÀ CHỈ SỐ GIÁ XÂY DỰNG\nĐiều 5. Thu thập và cung cấp thông tin, dữ liệu\n1. Sở Xây dựng của các tỉnh, thành phố trực thuộc\ntrung ương chịu trách nhiệm thu thập, tổng hợp và cung cấp đầy đủ các thông tin, dữ liệu quy định tại Điều 4 của Thông tư này theo lĩnh vực quản lý nhà nước của mình tại địa phương cho cơ quan quản lý hệ thống cơ sở dữ liệu về định mức, giá xây dựng và chỉ số giá xây dựng để cập nhật vào hệ thống cơ sở dữ liệu.\n2. Cơ quan chuyên môn về xây dựng của các bộ quản\nlý công trình xây dựng chuyên ngành chịu trách nhiệm thu thập, tổng hợp và cung cấp các thông tin, dữ liệu quy định tại Điều 4 của Thông tư này theo lĩnh vực quản lý của mình cho cơ quan quản lý hệ thống cơ sở dữ liệu về định mức, giá xây dựng và chỉ số giá xây dựng để cập nhật vào hệ thống cơ sở dữ liệu.\n3. Chủ đầu tư, ban quản lý dự án và các chủ thể có\nliên quan thực hiện các dự án sử dụng vốn nhà nước, dự án đầu tư theo hình thức đối tác công tư (PPP) có trách nhiệm cung cấp thông tin, dữ liệu về dự án đầu tư xây dựng và hợp đồng xây dựng quy định tại Điều 4 của Thông tư này cho cơ quan quản lý hệ thống cơ sở dữ liệu về định mức, giá xây dựng và chỉ số giá xây dựng để cập nhật vào hệ thống cơ sở dữ liệu.\n4. Các cá nhân, tổ chức có hoạt động liên quan đến\nlĩnh vực quản lý chi phí đầu tư xây dựng thu thập, tổng hợp và cung cấp các thông tin, dữ liệu quy định tại Điều 4 của Thông tư này theo lĩnh vực hoạt động của mình cho cơ quan quản lý hệ thống cơ sở dữ liệu về định mức, giá xây dựng và chỉ số giá xây dựng để cập nhật vào hệ thống cơ sở dữ liệu.\n5. Yêu cầu đối với các thông tin, dữ liệu cung cấp\nvào hệ thống cơ sở dữ liệu, cụ thể như sau:\na) Đối với các số liệu từ các báo cáo định kỳ và đột\nxuất của các cơ quan, tổ chức, cá nhân phải có xác nhận của người có thẩm quyền ban hành.\nb) Đối với các số liệu lấy từ kết quả điều tra, khảo\nsát phải được cơ quan có thẩm quyền nghiệm thu.\nc) Các thông tin, dữ liệu cung cấp cho hệ thống cơ\nsở dữ liệu được thể hiện dưới dạng văn bản kèm theo tệp dữ liệu điện tử (file); các tệp dữ liệu điện tử phải theo đúng hình thức, biểu mẫu quy định tại các Phụ lục của Thông tư này.\n6. Các thông tin, dữ liệu phải đảm bảo phản ánh đầy\nđủ, kịp thời, chính xác tình hình của từng khu vực. Khi có chỉnh sửa, bổ sung đối với số liệu đã gửi hoặc số liệu trong kỳ gửi có biến động khác thường thì cơ quan, tổ chức phải gửi các thuyết minh bằng tài liệu điện tử hoặc văn bản cho cơ quan quản lý hệ thống cơ sở dữ liệu.\n7. Chế độ cung cấp, cập nhật thông tin, dữ liệu:\na) Sở Xây dựng của các tỉnh, thành phố trực thuộc\ntrung ương có trách nhiệm: Cung cấp các thông tin, dữ liệu về giá vật liệu xây dựng định kỳ hàng tháng lên hệ thống cơ sở dữ liệu, chậm nhất trước ngày đầu tiên của tháng tiếp theo; cung cấp các thông tin, dữ liệu về định mức, giá xây dựng và chỉ số giá xây dựng chậm nhất 10 ngày kể từ ngày ban hành.\nb) Cơ quan chuyên môn về xây dựng của các bộ quản\nlý công trình xây dựng chuyên ngành có trách nhiệm cung cấp các thông tin, dữ liệu về định mức, giá xây dựng và chỉ số giá xây dựng chậm nhất 10 ngày kể từ ngày ban hành.\nc) Chủ đầu tư, ban quản lý dự án và các chủ thể có\nliên quan thực hiện các dự án sử dụng vốn nhà nước, dự án đầu tư theo hình thức đối tác công tư (PPP) có trách nhiệm: Cung cấp các thông tin, dữ liệu về dự án đầu tư xây dựng theo quy định tại Điều 4 của Thông tư này trong vòng 10 ngày kể từ khi có quyết định phê duyệt; cung cấp các thông tin, dữ liệu về hợp đồng xây dựng theo quy định tại Điều 4 của Thông tư này trong vòng 10 ngày kể từ khi ký kết hợp đồng; cung cấp thông tin, dữ liệu về giá trị quyết toán trong vòng 10 ngày kể từ khi có quyết định phê duyệt quyết toán công trình, dự án.\nd) Các cá nhân, tổ chức có hoạt động liên quan đến\nlĩnh vực quản lý chi phí đầu tư xây dựng thu thập, tổng hợp và cung cấp các thông tin, dữ liệu quy định tại Điều 4 của Thông tư này theo lĩnh vực hoạt động của mình khi có phát sinh thông tin, dữ liệu mới.\nĐiều 6. Tổng hợp, xử lý, cập nhật và công bố thông tin, dữ liệu của cơ quan quản lý cơ sở dữ liệu\n1. Cơ quan quản lý hệ thống cơ sở dữ liệu có trách\nnhiệm định kỳ tổng hợp, cập nhật vào hệ thống cơ sở dữ liệu các thông tin do các đơn vị, cá nhân quy định tại Khoản 1, Khoản 2, Khoản 3 và Khoản 4 Điều 5 của Thông tư này cung cấp.\n2. Cập nhật, tổng hợp thông tin, dữ liệu thực hiện\ntheo các bước sau:\na) Tiếp nhận thông tin, dữ liệu; kiểm tra; sàng lọc.\nb) Phân loại thông tin, dữ liệu theo nội dung cơ sở\ndữ liệu quy định tại Điều 4 của Thông tư này.\nc) Thực hiện việc cập nhật, tổng hợp thông tin, dữ\nliệu bằng ứng dụng/phần mềm do Bộ Xây dựng quy định.\nd) Kiểm tra kết quả cập nhật trên hệ thống cơ sở dữ\nliệu.\n3. Đối với các thông tin, dữ liệu do tổ chức, cá\nnhân cung cấp, trong trường hợp cần thiết thì thủ trưởng cơ quan, đơn vị tiếp nhận, xử lý thông tin, dữ liệu thành lập hội đồng tư vấn có thành phần là các chuyên gia, nhà quản lý có kinh nghiệm để kiểm tra, đánh giá thông tin, dữ liệu đó.\n4. Trong quá trình xử lý các thông tin, trường hợp\nphát hiện các sai sót, không phù hợp về thông tin, dữ liệu được cung cấp, đơn vị cung cấp thông tin, dữ liệu có trách nhiệm làm rõ, giải trình và chỉnh sửa, cung cấp cho cơ quan, đơn vị được giao xử lý thông tin, dữ liệu.\n5. Chế độ công bố thông tin, dữ liệu về định mức,\ngiá xây dựng và chỉ số giá xây dựng:\na) Các thông tin được công bố thường xuyên trên Cổng\nthông tin điện tử do Bộ Xây dựng quản lý, gồm: Các văn bản quy phạm pháp luật có liên quan đến định mức, đơn giá, giá xây dựng do các bộ, ngành ban hành theo thẩm quyền; thông tin về định mức, giá xây dựng và chỉ số giá xây dựng theo báo cáo của các địa phương và các bộ quản lý công trình xây dựng chuyên ngành.\nb) Các thông tin, dữ liệu khác được công bố, cập nhật\nđịnh kỳ hàng tháng, quý.\nĐiều 7. Lưu trữ, bảo quản thông tin, dữ liệu\n1. Cơ quan quản lý cơ sở dữ liệu phải có các biện\npháp quản lý, nghiệp vụ và kỹ thuật đối với hệ thống thông tin nhằm bảo vệ, khôi phục hệ thống và nội dung dữ liệu; bảo đảm bảo mật cho hệ thống ứng dụng và các cơ sở dữ liệu của hệ thống gồm an toàn bảo mật mức cơ sở dữ liệu, mức hệ thống và ứng dụng, mức vật lý.\n2. Cơ quan quản lý cơ sở dữ liệu có trách nhiệm ứng\ndụng công nghệ thông tin để bảo đảm việc lưu trữ dữ liệu an toàn trong cơ sở dữ liệu về các mặt:\na) Lưu trữ vật lý: bảo đảm hệ thống luôn được hoạt\nđộng ổn định.\nb) Tổ chức logic: số liệu cần đảm bảo an toàn theo\nđúng các nguyên tắc, định dạng các hệ cơ sở dữ liệu, tránh các hiện tượng cố tình làm hỏng các tổ chức logic của dữ liệu.\nc) Bảo đảm việc an toàn thông tin trên mạng, chống\nviệc thất thoát thông tin từ hệ thống cơ sở dữ liệu.\nd) Dữ liệu số được lưu trữ trên máy chủ, bảo đảm chống\ntruy nhập trái phép thông qua hệ thống bảo mật với các biện pháp và kỹ thuật tiên tiến.\n3. Cơ quan quản lý cơ sở dữ liệu phải có biện pháp\nbảo đảm tính toàn vẹn của thông tin, dữ liệu, định kỳ kiểm tra và bảo đảm an toàn hệ thống thông tin điện tử.\n4. Sao lưu dữ liệu:\na) Các dữ liệu lưu giữ trong cơ sở dữ liệu phải được\nsao chép vào các thiết bị lưu trữ thông tin theo định kỳ và lưu trữ theo quy trình, quy phạm kỹ thuật, bảo mật và an toàn theo quy định hiện hành của pháp luật.\nb) Dữ liệu phải được thường xuyên sao chép và lưu\ntrữ theo quy định.\nĐiều 8. Chế độ bảo mật thông tin, dữ liệu\n1. Cơ quan quản lý cơ sở dữ liệu chịu trách nhiệm đảm\nbảo an toàn và bảo mật thông tin, có các biện pháp tổ chức, quản lý vận hành, nghiệp vụ và kỹ thuật nhằm bảo đảm an toàn, bảo mật dữ liệu và an ninh mạng.\n2. Việc in, sao, chụp, giao nhận, truyền dữ liệu,\nlưu giữ, bảo quản, cung cấp thông tin, dữ liệu phải tuân theo quy định về bảo mật thông tin, dữ liệu.\n3. Cơ quan quản lý cơ sở dữ liệu xây dựng quy định\ncụ thể về quyền truy cập, cập nhật các thông tin, dữ liệu.\n4. Cá nhân thực hiện cập nhật, khai thác cơ sở dữ\nliệu được cấp quyền truy cập, cập nhật nhất định trong từng thành phần dữ liệu, bảo đảm việc quản lý chặt chẽ đối với quyền truy cập thông tin trong hệ thống cơ sở dữ liệu.\nĐiều 9. Khai thác, sử dụng thông tin, dữ liệu\n1. Tổ chức, cá nhân được khai thác, sử dụng thông\ntin, dữ liệu về định mức, giá xây dựng và chỉ số giá xây dựng qua mạng Internet, trang điện tử, cụ thể gồm:\na) Khai thác, sử dụng danh mục thông tin, dữ liệu về\nđịnh mức, giá xây dựng và chỉ số giá xây dựng.\nb) Khai thác, sử dụng thông tin, dữ liệu về định mức,\ngiá xây dựng và chỉ số giá xây dựng theo quy định của pháp luật được công khai, phổ biến rộng rãi.\n2. Đối với các thông tin, dữ liệu ngoài quy định tại\nKhoản 1 Điều này, tổ chức, cá nhân được đăng ký cấp quyền truy cập khai thác, sử dụng qua mạng Internet, trang điện tử. Cơ quan quản lý cơ sở dữ liệu về định mức, giá xây dựng và chỉ số giá xây dựng cấp quyền truy cập cho các tổ chức, cá nhân đăng ký phù hợp với đối tượng và mục đích sử dụng theo quy định.\n3. Tổ chức, cá nhân khai thác, sử dụng hệ thống cơ\nsở dữ liệu có trách nhiệm:\na) Truy cập đúng địa chỉ, mã khóa; không được làm lộ\nđịa chỉ, mã khóa truy cập đã được cấp.\nb) Chỉ được khai thác, sử dụng thông tin, dữ liệu\ntrong phạm vi được cấp, không xâm nhập trái phép vào hệ thống cơ sở dữ liệu; sử dụng thông tin, dữ liệu đúng mục đích.\nc) Quản lý nội dung các thông tin, dữ liệu đã khai\nthác, không được cung cấp cho tổ chức, cá nhân khác trừ trường hợp được phép của cơ quan quản lý hệ thống cơ sở dữ liệu.\nd) Không được thay đổi, xóa, hủy, sao chép, tiết lộ,\nhiển thị, di chuyển trái phép một phần hoặc toàn bộ dữ liệu; không được tạo ra hoặc phát tán chương trình phần mềm làm ảnh hưởng, sai lệch cơ sở dữ liệu về định mức, giá xây dựng và chỉ số giá xây dựng; thông báo kịp thời cho cơ quan quản lý hệ thống cơ sở dữ liệu về những sai sót của thông tin, dữ liệu đã được cung cấp.\nđ) Tuân theo các quy định của pháp luật về bảo vệ\nbí mật nhà nước; Luật An ninh mạng; chịu trách nhiệm về sai phạm trong khai thác, sử dụng thông tin, dữ liệu.\n4. Việc khai thác, sử dụng thông tin, dữ liệu về định\nmức, giá xây dựng và chỉ số giá xây dựng qua mạng Internet, trang điện tử phải tuân thủ theo đúng các quy định của Luật Giao dịch điện tử, Luật Công nghệ thông tin và các văn bản hướng dẫn thi hành.\nChương III\nTỔ CHỨC THỰC HIỆN\nĐiều 10. Trách nhiệm của các cơ quan, tổ chức đối với hệ thống cơ sở dữ liệu về định mức, giá xây dựng và chỉ số giá xây dựng\n1. Bộ Xây dựng:\na) Giao Cục Kinh tế xây dựng thuộc Bộ Xây dựng là\ncơ quan quản lý hệ thống cơ sở dữ liệu về định mức, giá xây dựng và chỉ số giá xây dựng;\nb) Cung cấp các thông tin, dữ liệu trong hệ thống\ncơ sở dữ liệu về định mức, giá xây dựng và chỉ số giá xây dựng;\nc) Xây dựng, quản lý và kiểm soát toàn diện hệ thống\ncơ sở dữ liệu về định mức, giá xây dựng và chỉ số giá xây dựng trên phạm vi cả nước;\nd) Xây dựng và hoàn thiện hệ thống mã hiệu, hệ thống\nphần mềm ứng dụng để quản lý hệ thống cơ sở dữ liệu về định mức, giá xây dựng và chỉ số giá xây dựng;\nđ) Hướng dẫn nội dung, phương pháp xây dựng cơ sở dữ\nliệu; sử dụng hệ thống phần mềm quản lý cơ sở dữ liệu; cách thức cập nhật hệ thống cơ sở dữ liệu từ các bộ quản lý công trình xây dựng chuyên ngành, Ủy ban nhân dân cấp tỉnh và các chủ thể có liên quan;\ne) Thanh tra, kiểm tra việc thực hiện các quy định\nvề xây dựng, quản lý, khai thác sử dụng, cập nhật hệ thống cơ sở dữ liệu về định mức, giá xây dựng và chỉ số giá xây dựng;\ng) Bố trí kinh phí thường xuyên từ nguồn ngân sách\ncho việc quản lý, vận hành và duy trì hệ thống cơ sở dữ liệu về định mức, giá xây dựng và chỉ số giá xây dựng theo quy định.\n2. Cục Kinh tế xây dựng - Bộ Xây dựng:\na) Thực hiện tổ chức xây dựng, quản lý hệ thống phần\nmềm thống nhất để vận hành, khai thác hệ thống cơ sở dữ liệu về định mức, giá xây dựng và chỉ số giá xây dựng;\nb) Kiểm tra, đôn đốc, hướng dẫn các bộ, ngành, địa\nphương, các cá nhân và tổ chức có liên quan trên phạm vi cả nước về xây dựng, quản lý, khai thác, sử dụng, cập nhật hệ thống cơ sở dữ liệu về định mức, giá xây dựng và chỉ số giá xây dựng; đầu mối tiếp nhận, xử lý và tổng hợp các thông tin về định mức, giá xây dựng và chỉ số giá xây dựng do các bộ, ngành, địa phương, các cá nhân và tổ chức có liên quan báo cáo, cung cấp;\nc) Hướng dẫn truy cập, cung cấp thông tin về định mức,\ngiá xây dựng và chỉ số giá xây dựng phục vụ việc công bố của Bộ Xây dựng;\nd) Chủ trì, phối hợp với Trung tâm Thông tin - Bộ\nXây dựng xây dựng quy chế quản lý, sử dụng hệ thống thông tin về định mức, giá xây dựng và chỉ số giá xây dựng, tổ chức đào tạo, bồi dưỡng nghiệp vụ sử dụng phần mềm.\n3. Trung tâm Thông tin - Bộ Xây dựng: Có trách nhiệm\nchủ trì, phối hợp với Cục Kinh tế xây dựng quản lý hệ thống hạ tầng kỹ thuật công nghệ thông tin của hệ thống cơ sở dữ liệu định mức, giá xây dựng và chỉ số giá xây dựng; đảm bảo an toàn, an ninh, bảo mật cơ sở dữ liệu.\n4. Các bộ quản lý công trình xây dựng chuyên ngành:\nChỉ đạo cơ quan chuyên môn về xây dựng thu thập, tổng hợp, cung cấp thông tin, dữ liệu do mình quản lý cho cơ quan quản lý hệ thống cơ sở dữ liệu để cập nhật vào hệ thống cơ sở dữ liệu về định mức, giá xây dựng và chỉ số giá xây dựng theo quy định tại Điều 5 của Thông tư này.\n5. Ủy ban nhân dân cấp tỉnh/thành phố trực thuộc\ntrung ương:\na) Chỉ đạo Sở Xây dựng xây dựng quy chế quản lý,\nkhai thác, sử dụng, cập nhật cơ sở dữ liệu về định mức, giá xây dựng và chỉ số giá xây dựng tại địa phương; quy chế về bảo đảm an ninh, bảo mật thông tin; bố trí cán bộ chuyên trách có chuyên môn và trình độ phù hợp để thường xuyên cung cấp, cập nhật, khai thác, sử dụng hệ thống cơ sở dữ liệu về định mức, giá xây dựng và chỉ số giá xây dựng; thanh tra, kiểm tra việc thực hiện các quy định về xây dựng, quản lý, khai thác sử dụng, cập nhật hệ thống cơ sở dữ liệu về định mức, giá xây dựng và chỉ số giá xây dựng tại địa phương; hướng dẫn, đôn đốc các đơn vị, cơ quan, tổ chức có liên quan tại địa phương thực hiện nội dung báo cáo theo quy định; thông báo rộng rãi địa chỉ email trên trang thông tin điện tử để các tổ chức, cá nhân gửi báo cáo thông tin, dữ liệu.\nb) Bố trí kinh phí thường xuyên từ nguồn ngân sách\nđịa phương cho việc thu thập, tổng hợp và cung cấp thông tin cho Hệ thống cơ sở dữ liệu về định mức, giá xây dựng và chỉ số giá xây dựng theo quy định.\n6. Chủ đầu tư, ban quản lý dự án và các chủ thể có\nliên quan thực hiện các dự án sử dụng vốn nhà nước, dự án đầu tư theo hình thức đối tác công tư (PPP) có trách nhiệm cung cấp thông tin về dữ liệu đấu thầu, dữ liệu quyết toán công trình, dự án cho cơ quan chuyên môn về xây dựng theo phân cấp quy định tại Điều 5 của Thông tư này để cập nhật vào Hệ thống cơ sở dữ liệu.\nĐiều 11. Điều khoản thi hành\n1. Thông tư này có hiệu lực thi hành từ ngày 15\ntháng 02 năm 2020.\n2. Trong quá trình thực hiện nếu có vướng mắc, đề\nnghị gửi ý kiến về Bộ Xây dựng để xem xét, giải quyết./.\nNơi nhận:\n- Thủ tướng, các PTT Chính phủ;\n- Văn phòng Trung ương Đảng và các ban của Đảng;\n- Văn phòng Quốc hội;\n- Văn phòng Chính phủ;\n- Văn phòng Chủ tịch nước;\n- Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ;\n- HĐND, UBND các tỉnh, TP trực thuộc TW;\n- Tòa án nhân dân tối cao;\n- Viện Kiểm sát nhân dân tối cao;\n- Cơ quan Trung ương của các đoàn thể;\n- Cục Kiểm tra văn bản quy phạm pháp luật - Bộ Tư pháp;\n- Các Tổng công ty nhà nước;\n- Sở Xây dựng các tỉnh, thành phố trực thuộc TW;\n- Công báo, Website Chính phủ, Website Bộ Xây dựng;\n- Lưu: VT, PC, Cục KTXD.\nKT. BỘ TRƯỞNG\nTHỨ TRƯỞNG\nBùi Phạm Khánh\nPHỤ LỤC I\nDANH MỤC CÁC MẪU BIỂU BÁO CÁO, CẬP NHẬT THÔNG TIN, DỮ\nLIỆU VỀ ĐỊNH MỨC, GIÁ XÂY DỰNG VÀ CHỈ SỐ GIÁ XÂY DỰNG\n(Kèm theo Thông tư số 12/2019/TT-BXD ngày 26/12/2019 của Bộ Xây dựng) Mẫu số 01: Dữ liệu định mức sử dụng vật liệu - Bảng 1: Định mức sử dụng vật liệu Mẫu số 02: Dữ liệu định mức năng suất lao động - Bảng 2: Định mức năng suất lao động Mẫu số 03: Dữ liệu định mức năng suất máy và thiết bị thi công - Bảng 3: Định mức năng suất máy và thiết bị thi công Mẫu số 04: Dữ liệu định mức dự toán xây dựng công trình - Bảng 4: Định mức dự toán xây dựng công trình - Bảng 5: Hệ số điều chỉnh Mẫu số 05: Dữ liệu định mức chi phí quản lý dự án và tư vấn đầu tư xây dựng công trình - Bảng 6: Định mức chi phí quản lý dự án và tư vấn đầu tư xây dựng công trình - Bảng 7: Định mức chi phí thiết kế xây dựng Mẫu số 06: Dữ liệu định mức chi phí gián tiếp - Bảng 8: Định mức chi phí gián tiếp Mẫu số 07: Dữ liệu suất vốn đầu tư xây dựng công trình và giá xây dựng tổng hợp bộ phận kết cấu công trình - Bảng 9: Suất vốn đầu tư xây dựng công trình - Bảng 10: Hệ số điều chỉnh suất vốn đầu tư xây dựng công trình - Bảng 11: Giá xây dựng tổng hợp bộ phận kết cấu công trình Mẫu số 08: Dữ liệu giá vật liệu xây dựng - Bảng 12: Giá vật liệu xây dựng công bố - Bảng 13: Giá vật liệu xây dựng thị trường Mẫu số 09: Dữ liệu đơn giá nhân công xây dựng - Bảng 14: Đơn giá nhân công xây dựng - Bảng 15: Đơn giá nhân công tư vấn xây dựng Mẫu số 10: Dữ liệu giá ca máy và thiết bị thi công xây dựng Phần I: Giá ca máy và thiết bị thi công xây dựng công bố - Bảng 16: Tiền lương, nhiên liệu, năng lượng - Bảng 17: Hệ số nhiên liệu phụ - Bảng 18: Bảng giá ca máy và thiết bị thi công xây dựng công bố Phần II: Giá ca máy và thiết bị thi công xây dựng thị trường - Bảng 19: Tiền lương, nhiên liệu, năng lượng - Bảng 20: Hệ số nhiên liệu phụ - Bảng 21: Bảng giá ca máy và thiết bị thi công xây dựng thị trường Mẫu số 11: Dữ liệu đơn giá xây dựng công trình - Bảng 22: Nhiên liệu, năng lượng - Bảng 23: Hệ số nhiên liệu phụ - Bảng 24: Đơn giá xây dựng công trình Mẫu số 12: Dữ liệu chỉ số giá xây dựng - Bảng 25: Chỉ số giá xây dựng vùng, quốc gia - Bảng 26: Chỉ số giá xây dựng công trình - Bảng 27: Chỉ số giá phần xây dựng - Bảng 28: Chỉ số giá vật liệu, nhân công, máy thi công - Bảng 29: Chỉ số giá vật liệu xây dựng Mẫu số 13: Dữ liệu dự án đầu tư xây dựng và hợp đồng xây dựng - Bảng 30: Dự án đầu tư xây dựng và hợp đồng xây dựng Mẫu số 1\nDỮ LIỆU ĐỊNH MỨC SỬ DỤNG VẬT LIỆU\n(Kèm theo Thông tư số 12/2019/TT-BXD ngày 26 tháng 12 năm 2019 của Bộ Xây dựng)\n1. Cơ quan ban hành/công bố:\n2. Ngày tháng văn bản:\n3. Số hiệu văn bản:\n4. Hiệu lực:\nBẢNG\n1\nĐỊNH MỨC SỬ DỤNG VẬT LIỆU\nMã hiệu Loại công trình Nhóm công trình Hạng mục, bộ phận kết cấu công trình Công tác xây dựng Công nghệ Thông số kỹ thuật Đơn vị tính Vật liệu sử dụng Đơn vị Khối lượng Mẫu số 2\nDỮ LIỆU ĐỊNH MỨC NĂNG SUẤT LAO ĐỘNG\n(Kèm theo Thông tư số 12/2019/TT-BXD ngày 26 tháng 12 năm 2019 của Bộ Xây dựng)\n1. Cơ quan ban hành/công bố:\n2. Ngày tháng văn bản:\n3. Số hiệu văn bản:\n4. Hiệu lực:\nBẢNG\n2\nĐỊNH MỨC NĂNG SUẤT LAO ĐỘNG\nMã hiệu Loại công trình Nhóm công trình Hạng mục, bộ phận kết cấu công trình Công tác xây dựng Công nghệ Thông số kỹ thuật Đơn vị tính Nhân công Đơn vị Khối lượng 1 2 3 4 5 6 7 8 9 10 11 Ghi chú: Nội dung định mức năng suất lao động theo quy định tại Thông tư số 09/2019/TT-BXD ngày 26/12/2019 của Bộ Xây dựng. Mẫu số 3\nDỮ LIỆU ĐỊNH MỨC NĂNG SUẤT MÁY VÀ THIẾT BỊ THI CÔNG\n(Kèm theo Thông tư số 12/2019/TT-BXD ngày 26 tháng 12 năm 2019 của Bộ Xây dựng)\n1. Cơ quan ban hành/công bố:\n2. Ngày tháng văn bản:\n3. Số hiệu văn bản:\n4. Hiệu lực:\nBẢNG\n3\nĐỊNH\nMỨC NĂNG SUẤT MÁY VÀ THIẾT BỊ THI CÔNG\nMã hiệu Loại công trình Nhóm công trình Hạng mục, bộ phận kết cấu công trình Công tác xây dựng Công nghệ Thông số kỹ thuật Đơn vị tính Máy/thiết bị thi công sử dụng Đơn vị Khối lượng Ghi chú: Nội dung định mức năng suất máy và thiết bị thi công theo quy định tại Thông tư số 09/2019/TT-BXD ngày 26/12/2019 của Bộ Xây dựng. Mẫu số 4\nDỮ LIỆU ĐỊNH MỨC DỰ TOÁN XÂY DỰNG CÔNG TRÌNH\n(Kèm theo Thông tư số 12/2019/TT-BXD ngày 26 tháng 12 năm 2019 của Bộ Xây dựng)\n1. Cơ quan ban hành/công bố:\n2. Ngày tháng văn bản:\n3. Số hiệu văn bản:\n4. Hiệu lực:\nBẢNG\n4\nĐỊNH\nMỨC DỰ TOÁN XÂY DỰNG CÔNG TRÌNH\nMã hiệu Loại công trình Nhóm công trình Hạng mục, bộ phận kết cấu công trình Tên công tác Công nghệ Thông số kỹ thuật Đơn vị tính Thành phần hao phí Đơn vị Khối lượng\nBẢNG\n5\nHỆ SỐ ĐIỀU CHỈNH\nNội dung Hệ số Ghi chú Mẫu số 05\nDỮ LIỆU ĐỊNH MỨC CHI PHÍ QUẢN LÝ DỰ ÁN VÀ TƯ VẤN ĐẦU TƯ\nXÂY DỰNG CÔNG TRÌNH\n(Kèm theo Thông tư số 12/2019/TT-BXD ngày 26 tháng 12 năm 2019 của Bộ Xây dựng)\n1. Cơ quan ban hành/công bố:\n2. Ngày tháng văn bản:\n3. Số hiệu văn bản:\n4. Hiệu lực:\nBẢNG\n6\nĐỊNH\nMỨC CHI PHÍ QUẢN LÝ DỰ ÁN VÀ TƯ VẤN ĐẦU TƯ XÂY DỰNG CÔNG TRÌNH\nTên định mức Loại công trình Chi phí xây dựng và thiết bị (chưa có thuế GTGT) (tỷ đồng) Định mức chi phí (%) Giá trị tuyệt đối Hệ số điều chỉnh Hệ số thứ 1 Hệ số thứ 2 Hệ số thứ 3 Hệ số thứ n Mẫu số 05\nDỮ LIỆU ĐỊNH MỨC CHI PHÍ QUẢN LÝ DỰ ÁN VÀ TƯ VẤN ĐẦU TƯ\nXÂY DỰNG CÔNG TRÌNH\n(Kèm theo Thông tư số 12/2019/TT-BXD ngày 26 tháng 12 năm 2019 của Bộ Xây dựng)\n1. Cơ quan ban hành/công bố:\n2. Ngày tháng văn bản:\n3. Số hiệu văn bản:\n4. Hiệu lực:\nBẢNG\n7\nĐỊNH\nMỨC CHI PHÍ THIẾT KẾ XÂY DỰNG\nTên định mức Loại công trình Cấp công trình Chi phí xây dựng (chưa có thuế GTGT) (tỷ đồng) Định mức chi phí (%) theo chi phí xây dựng Chi phí xây dựng (chưa có thuế GTGT) (tỷ đồng) Định mức chi phí (%) theo chi phí thiết bị Giá trị tuyệt đối Hệ số điều chỉnh Hệ số thứ 1 Hệ số thứ 2 Hệ số thứ n Mẫu số 06\nDỮ LIỆU ĐỊNH MỨC CHI PHÍ GIÁN TIẾP\n(Kèm theo Thông tư số 12/2019/TT-BXD ngày 26 tháng 12 năm 2019 của Bộ Xây dựng)\n1. Cơ quan ban hành/công bố:\n2. Ngày tháng văn bản:\n3. Số hiệu văn bản:\n4. Hiệu lực:\nBẢNG\n8\nĐỊNH MỨC CHI PHÍ GIÁN TIẾP\nTên định mức Loại công trình Chi phí xây dựng và thiết bị (chưa có thuế GTGT) (tỷ đồng) Chi phí xây dựng (chưa có thuế GTGT) (tỷ đồng) Chi phí thiết bị (chưa có thuế GTGT) (tỷ đồng) Định mức chi phí (%) Hệ số điều chỉnh Mẫu số 07\nDỮ LIỆU SUẤT VỐN ĐẦU TƯ XÂY DỰNG CÔNG TRÌNH VÀ GIÁ XÂY\nDỰNG TỔNG HỢP BỘ PHẬN KẾT CẤU CÔNG TRÌNH\n(Kèm theo Thông tư số 12/2019/TT-BXD ngày 26 tháng 12 năm 2019 của Bộ Xây dựng)\n1. Cơ quan ban hành/công bố:\n2. Phạm vi (toàn quốc/vùng/tỉnh):\n3. Số hiệu văn bản:\n4. Ngày tháng văn bản:\n5. Hiệu lực:\nBẢNG\n9\nSUẤT\nVỐN ĐẦU TƯ XÂY DỰNG CÔNG TRÌNH\nMã hiệu Loại công trình Nhóm công trình Công trình Đơn vị Suất vốn đầu tư Chi phí xây dựng Chi phí thiết bị 1 2 3 4 5 6 7 8\nBẢNG\n10\nHỆ\nSỐ ĐIỀU CHỈNH SUẤT VỐN ĐẦU TƯ XÂY DỰNG CÔNG TRÌNH\nStt Nội dung Hệ số 1 2 3 Mẫu số 07\nDỮ LIỆU SUẤT VỐN ĐẦU TƯ XÂY DỰNG CÔNG TRÌNH VÀ GIÁ XÂY\nDỰNG TỔNG HỢP BỘ PHẬN KẾT CẤU CÔNG TRÌNH\n(Kèm theo Thông tư số 12/2019/TT-BXD ngày 26 tháng 12 năm 2019 của Bộ Xây dựng)\n1. Cơ quan ban hành/công bố:\n2. Phạm vi (toàn quốc/vùng/tỉnh):\n3. Số hiệu văn bản:\n4. Ngày tháng văn bản:\n5. Hiệu lực:\nBẢNG\n11\nGIÁ\nXÂY DỰNG TỔNG HỢP BỘ PHẬN KẾT CẤU CÔNG TRÌNH\nMã hiệu Loại công trình Nhóm công trình Công trình Bộ phận kết cấu Đơn vị Giá bộ phận kết cấu Ghi chú 1 2 3 4 5 6 7 8 Mẫu số 08\nDỮ LIỆU GIÁ VẬT LIỆU XÂY DỰNG\n(Kèm theo Thông tư số: 12/2019/TT-BXD ngày 26 tháng 12 năm 2019 của Bộ Xây dựng)\n1. Tỉnh/thành phố:\n2. Tổ chức ban hành/công bố:\n3. Ngày tháng văn bản:\n4. Số hiệu văn bản:\n5. Hiệu lực:\nBẢNG\n12\nGIÁ\nVẬT LIỆU XÂY DỰNG CÔNG BỐ\nMã hiệu Huyện Nhóm vật liệu Tên vật liệu Đơn vị tính Chỉ tiêu kỹ thuật Quy cách Thương hiệu Xuất xứ Điều kiện thương mại Vận chuyển Giá 1 2 3 4 5 6 7 8 9 10 11 12 Ghi chú: giá tại cột số 12 \"Giá\" chưa bao gồm thuế giá trị gia tăng (VAT). Mẫu số 08\nDỮ LIỆU GIÁ VẬT LIỆU XÂY DỰNG\n(Kèm theo Thông tư số 12/2019/TT-BXD ngày 26 tháng 12 năm 2019 của Bộ Xây dựng)\n1. Tỉnh/thành phố:\n2. Tổ chức ban hành/công bố:\n3. Ngày tháng văn bản:\n4. Số hiệu văn bản:\n5. Hiệu lực:\nBẢNG\n13\nGIÁ\nVẬT LIỆU XÂY DỰNG THỊ TRƯỜNG\nMã hiệu Huyện Nhóm vật liệu Tên vật liệu Đơn vị tính Chỉ tiêu kỹ thuật Quy cách Thương hiệu Xuất xứ Điều kiện thương mại Vận chuyển Dự án/công trình Giá 1 2 3 4 5 6 7 8 9 10 11 12 13 Ghi chú: giá tại cột số 12 \"Giá\" chưa bao gồm thuế giá trị gia tăng (VAT). Mẫu số 09\nDỮ LIỆU ĐƠN GIÁ NHÂN CÔNG XÂY DỰNG\n(Kèm theo Thông tư số 12/2019/TT-BXD ngày 26 tháng 12 năm 2019 của Bộ Xây dựng)\nBẢNG\n14\nĐƠN GIÁ NHÂN CÔNG XÂY DỰNG\n1. Tỉnh/thành phố:\n2. Tổ chức ban hành/công bố:\n3. Ngày tháng văn bản:\n4. Số hiệu văn bản:\n5. Hiệu lực:\nMã hiệu Vùng Khu vực Huyện Nhóm Loại công việc Cấp bậc Trình độ Điều kiện làm việc Đơn vị Đơn giá 1 2 3 4 5 6 7 8 9 10 11 Ghi chú: - Đơn vị: ngày công, giờ công; - Đơn giá: tính theo đồng Việt Nam. Mẫu số 09\nDỮ LIỆU ĐƠN GIÁ NHÂN CÔNG XÂY DỰNG\n(Kèm theo Thông tư số 12/2019/TT-BXD ngày 26 tháng 12 năm 2019 của Bộ Xây dựng)\nBẢNG\n15\nĐƠN\nGIÁ NHÂN CÔNG TƯ VẤN XÂY DỰNG\n1. Tỉnh/thành phố:\n2. Tổ chức ban hành/công bố:\n3. Ngày tháng văn bản:\n4. Số hiệu văn bản:\n5. Hiệu lực:\nMã hiệu Tư vấn trong nước/ngoài nước Công việc tư vấn Trình độ Điều kiện làm việc Tỉnh Huyện Đơn vị Đơn giá 1 2 3 4 5 6 7 8 9 Ghi chú: - Đơn vị: ngày công, giờ công; - Đơn giá: tính theo đồng Việt Nam. Mẫu số 10\nDỮ LIỆU GIÁ CA MÁY VÀ THIẾT BỊ THI CÔNG XÂY DỰNG\nPHẦN I: GIÁ CA MÁY VÀ THIẾT BỊ THI CÔNG XÂY DỰNG\nCÔNG BỐ\n(Kèm theo Thông tư số 12/2019/TT-BXD ngày 26 tháng 12 năm 2019 của Bộ Xây dựng)\n1. Tỉnh/thành phố:\n2. Huyện:\n3. Thời gian:\n4. Số hiệu văn bản:\n5. Hiệu lực:\nBẢNG\n16\nTIỀN LƯƠNG, NHIÊN LIỆU, NĂNG LƯỢNG\nNội dung Đơn giá Mức lương Xăng Dầu Diezel Dầu Mazut Điện\nBẢNG\n17\nHỆ SỐ NHIÊN LIỆU PHỤ\nNội dung Hệ số Động cơ xăng Động cơ Diezel Động cơ điện\nBẢNG\n18\nBẢNG\nGIÁ CA MÁY VÀ THIẾT BỊ THI CÔNG XÂY DỰNG CÔNG BỐ\nMã hiệu Máy và thiết bị thi công Định mức chi phí gián tiếp (%) Định mức chi phí trực tiếp Giá ca máy (đồng) Khấu hao Sửa chữa Chi phí khác Tiêu hao nhiên liệu, năng lượng Nhân công điều khiển máy Chi phí nhiên liệu, năng lượng Chi phí tiền lương Tổng số 1 2 3 4 5 6 7 8 9 10 Mẫu số 10\nDỮ LIỆU GIÁ CA MÁY VÀ THIẾT BỊ THI CÔNG XÂY DỰNG\nPHẦN II: GIÁ CA MÁY VÀ THIẾT BỊ THI CÔNG XÂY DỰNG\nTHỊ TRƯỜNG\n(Kèm theo Thông tư số 12/2019/TT-BXD ngày 26 tháng 12 năm 2019 của Bộ Xây dựng)\n1. Tỉnh/thành phố:\n2. Huyện:\n3. Thời gian:\n4. Số hiệu văn bản:\n5. Hiệu lực:\nBẢNG\n19\nTIỀN LƯƠNG, NHIÊN LIỆU, NĂNG LƯỢNG\nNội dung Đơn giá Mức lương Xăng Dầu Diezel Dầu Mazut Điện\nBẢNG\n20\nHỆ SỐ NHIÊN LIỆU PHỤ\nNội dung Hệ số Động cơ xăng Động cơ Diezel Động cơ điện\nBẢNG\n21\nBẢNG\nGIÁ CA MÁY VÀ THIẾT BỊ THI CÔNG XÂY DỰNG THỊ TRƯỜNG\nMã hiệu Máy và thiết bị thi công Thương hiệu Xuất xứ Định mức chi phí gián tiếp (%) Định mức chi phí trực tiếp Giá ca máy (đồng) Khấu hao Sửa chữa Chi phí khác Tiêu hao nhiên liệu, năng lượng Nhân công điều khiển máy Chi phí nhiên liệu, năng lượng Chi phí tiền lương Tổng số 1 2 3 4 5 6 7 8 9 10 11 12 Mẫu số 11\nDỮ LIỆU ĐƠN GIÁ XÂY DỰNG CÔNG TRÌNH\n(Kèm theo Thông tư số 12/2019/TT-BXD ngày 26 tháng 12 năm 2019 của Bộ Xây dựng)\n1. Tỉnh/Bộ chuyên ngành:\n2. Thời gian:\n3. Số hiệu văn bản:\n4. Hiệu lực:\nBẢNG\n22\nNHIÊN LIỆU, NĂNG LƯỢNG\nNội dung Đơn vị tính Đơn giá Xăng Dầu Diezel Dầu Mazut Điện\nBẢNG\n23\nHỆ SỐ NHIÊN LIỆU PHỤ\nNội dung Hệ số Động cơ xăng Động cơ Diezel Động cơ điện\nBẢNG\n24\nĐƠN GIÁ XÂY DỰNG CÔNG TRÌNH\nMã hiệu Công tác Đơn vị Vật liệu (đồng) Nhân công (đồng) Máy (đồng) Đơn giá (đồng) 1 2 3 4 5 6 7 Mẫu số 12\nDỮ LIỆU CHỈ SỐ GIÁ XÂY DỰNG\n(Kèm theo Thông tư số 12/2019/TT-BXD ngày 26 tháng 12 năm 2019 của Bộ Xây dựng)\nBẢNG\n25\nCHỈ\nSỐ GIÁ XÂY DỰNG VÙNG, QUỐC GIA\n1. Cơ quan ban hành/công bố:\n2. Thời gian:\n3. Hiệu lực:\nĐơn vị: % Mã hiệu Loại công trình Chỉ số giá vùng/quốc gia quý ... năm ….so với: Năm gốc 20… Cùng kỳ năm trước Quý trước Mẫu số 12\nDỮ LIỆU CHỈ SỐ GIÁ XÂY DỰNG\n(Kèm theo Thông tư số 12/2019/TT-BXD ngày 26 tháng 12 năm 2019 của Bộ Xây dựng)\nBẢNG\n26\nCHỈ\nSỐ GIÁ XÂY DỰNG CÔNG TRÌNH\n1. Cơ quan ban hành/công bố:\n2. Thời gian:\n3. Hiệu lực:\nĐơn vị: % Mã hiệu Loại công trình Chỉ số giá tháng (quý, năm) so với Năm gốc 20…. Tháng (quý, năm) trước Mẫu số 12\nDỮ LIỆU CHỈ SỐ GIÁ XÂY DỰNG\n(Kèm theo Thông tư số 12/2019/TT-BXD ngày 26 tháng 12 năm 2019 của Bộ Xây dựng)\nBẢNG\n27\nCHỈ SỐ GIÁ PHẦN XÂY DỰNG\n1. Cơ quan ban hành/công bố:\n2. Thời gian:\n3. Hiệu lực:\nĐơn vị: % Mã hiệu Loại công trình Chỉ số giá tháng (quý, năm) so với Năm gốc 20…. Tháng (quý, năm) trước Mẫu số 12\nDỮ LIỆU CHỈ SỐ GIÁ XÂY DỰNG\n(Kèm theo Thông tư số 12/2019/TT-BXD ngày 26 tháng 12 năm 2019 của Bộ Xây dựng)\nBẢNG\n28\nCHỈ\nSỐ GIÁ VẬT LIỆU, NHÂN CÔNG, MÁY THI CÔNG\n1. Cơ quan ban hành/công bố:\n2. Thời gian:\n3. Hiệu lực:\nĐơn vị: % Mã hiệu Loại công trình Chỉ số giá tháng (quý, năm) so với Năm gốc 20…. Tháng (quý, năm) trước Vật liệu Nhân công Máy TC Vật liệu Nhân công Máy TC Mẫu số 12\nDỮ LIỆU CHỈ SỐ GIÁ XÂY DỰNG\n(Kèm theo Thông tư số 12/2019/TT-BXD ngày 26 tháng 12 năm 2019 của Bộ Xây dựng)\nBẢNG\n29\nCHỈ\nSỐ GIÁ VẬT LIỆU XÂY DỰNG\n1. Cơ quan ban hành/công bố:\n2. Thời gian:\n3. Hiệu lực:\nĐơn vị: % Mã hiệu Loại vật liệu Chỉ số giá tháng (quý, năm) so với Năm gốc 20…. Tháng (quý, năm) trước Mẫu số 13\nDỮ LIỆU DỰ ÁN ĐẦU TƯ XÂY DỰNG VÀ HỢP ĐỒNG XÂY DỰNG\n(Kèm theo Thông tư số 12/2019/TT-BXD ngày 26 tháng 12 năm 2019 của Bộ Xây dựng)\nBẢNG\n30\nDỰ\nÁN ĐẦU TƯ XÂY DỰNG VÀ HỢP ĐỒNG XÂY DỰNG\nGói thầu Dự án/công trình Địa điểm Tổng mức đầu tư Giá gói thầu Giá trúng thầu Hình thức lựa chọn nhà thầu Giá trị hợp đồng Ngày ký hợp đồng Giá trị quyết toán 1 2 3 4 5 6 7 8 9 10\nPHỤ LỤC II\nPHƯƠNG PHÁP XÁC ĐỊNH MÃ HIỆU\n(Kèm theo Thông tư số 12/2019/TT-BXD ngày 26/12/2019 của Bộ Xây dựng) I. Nguyên tắc chung Mã hiệu của hệ thống cơ sở dữ liệu về định mức, giá xây dựng và chỉ số giá xây dựng là một chuỗi ký tự, bao gồm cả ký tự chữ và ký tự số. II. Mã hiệu\n1. Mã hiệu định mức cơ sở\nMã hiệu định mức là một dãy số gồm 5 thành phần chữ số được phân tách nhau bởi dấu “.” (tương đương với phân cấp\ndanh mục định mức), trong đó:\n- Cấp 1: dùng cho loại công trình; - Cấp 2: dùng cho nhóm công trình; - Cấp 3: dùng cho hạng mục, bộ phận kết cấu công trình; - Cấp 4: dùng cho công tác xây dựng; - Cấp 5: dùng cho công nghệ, kỹ thuật thi công.\n2. Mã hiệu suất vốn đầu tư\nxây dựng công trình Mã hiệu suất vốn đầu tư là một dãy số gồm 5 thành phần chữ số được phân tách nhau bởi dấu “.”, trong đó: - Cấp 1: dùng cho địa bàn áp dụng; - Cấp 2: dùng cho loại công trình; - Cấp 3: dùng cho nhóm công trình; - Cấp 4: dùng cho công trình; - Cấp 5: dùng cho các điều chỉnh nếu có.\n3. Mã hiệu giá xây dựng tổng\nhợp bộ phận kết cấu công trình Mã hiệu giá xây dựng tổng hợp bộ phận kết cấu công trình là một dãy số gồm 5 thành phần chữ số được phân tách nhau bởi dấu “.”, trong đó: - Cấp 1: dùng cho địa bàn áp dụng; - Cấp 2: dùng cho loại công trình; - Cấp 3: dùng cho nhóm công trình; - Cấp 4: dùng cho công trình; - Cấp 5: dùng cho bộ phận kết cấu.\n4. Mã hiệu giá vật liệu xây\ndựng 4.1. Mã hiệu giá vật liệu xây dựng công bố Mã hiệu giá vật liệu xây dựng công bố là một dãy số gồm 9 thành phần chữ số được phân tách nhau bởi dấu “.”, trong đó: - Cấp 1: dùng cho cấp tỉnh nơi bán vật liệu; - Cấp 2: dùng cho cấp huyện; - Cấp 3: dùng cho nhóm vật liệu; - Cấp 4: dùng cho tên vật liệu; - Cấp 5: dùng cho chỉ tiêu kỹ thuật; - Cấp 6: dùng cho quy cách; - Cấp 7: dùng cho thương hiệu vật liệu; - Cấp 8: dùng cho xuất xứ của vật liệu; - Cấp 9: dùng cho điều kiện thương mại; 4.2. Mã hiệu giá vật liệu xây dựng thị trường Mã hiệu giá vật liệu xây dựng thị trường là một dãy số gồm 10 thành phần chữ số được phân tách nhau bởi dấu “.”, trong đó: - Cấp 1: dùng cho cấp tỉnh nơi bán vật liệu; - Cấp 2: dùng cho cấp huyện; - Cấp 3: dùng cho nhóm vật liệu; - Cấp 4: dùng cho tên vật liệu; - Cấp 5: dùng cho chỉ tiêu kỹ thuật; - Cấp 6: dùng cho quy cách; - Cấp 7: dùng cho thương hiệu vật liệu; - Cấp 8: dùng cho xuất xứ của vật liệu; - Cấp 9: dùng cho điều kiện thương mại; - Cấp 10: dùng cho dự án/công trình;\n5. Mã hiệu đơn giá nhân công\nxây dựng Mã hiệu giá nhân công xây dựng là một dãy số gồm 9 thành phần chữ số được phân tách nhau bởi dấu “.”, trong đó: - Cấp 1: dùng cho vùng; - Cấp 2: dùng cho tỉnh; - Cấp 3: dùng cho huyện; - Cấp 4: dùng cho loại nhân công (nhân công xây dựng/nhân công tư vấn xây dựng); - Cấp 5: dùng cho nhóm nhân công xây dựng/nhóm chức danh tư vấn xây dựng; - Cấp 6: dùng cho cấp bậc nhân công; - Cấp 7: dùng cho loại công việc; - Cấp 8: dùng cho điều kiện làm việc; - Cấp 9: dùng cho dự án/công trình sử dụng nhân công.\n6. Mã hiệu giá ca máy và thiết\nbị thi công xây dựng Mã hiệu giá ca máy và thiết bị thi công xây dựng là một dãy số gồm 6 thành phần chữ số được phân tách nhau bởi dấu “.”, trong đó: - Cấp 1: dùng cho tỉnh; - Cấp 2: dùng cho huyện; - Cấp 3: dùng cho nhóm máy/thiết bị thi công xây dựng; - Cấp 4: dùng cho loại máy/thiết bị thi công xây dựng; - Cấp 5: dùng cho xuất xứ máy/thiết bị thi công xây dựng; - Cấp 6: dùng cho dự án sử dụng máy/thiết bị thi công xây dựng.\n7. Mã hiệu chỉ số giá xây dựng\nMã hiệu chỉ số giá là một dãy số gồm 5 thành phần chữ số được phân tách nhau bởi dấu “.”, trong đó: - Cấp 1: dùng cho loại chỉ số giá; - Cấp 2: dùng cho vùng quốc gia/vùng địa lý/tỉnh; - Cấp 3: dùng cho huyện; - Cấp 4: dùng cho loại công trình; - Cấp 5: dùng cho dự án/công trình.",
+  "tree": {
+    "parts": [
+      {
+        "part_id": "doc:181225:part:1",
+        "part_type": "main",
+        "part_title": null,
+        "reference": null,
+        "direct_text": "THÔNG TƯ HƯỚNG\nDẪN XÂY DỰNG VÀ QUẢN LÝ HỆ THỐNG CƠ SỞ DỮ LIỆU VỀ ĐỊNH MỨC, GIÁ XÂY DỰNG VÀ CHỈ\nSỐ GIÁ XÂY DỰNG\nCăn cứ Luật Xây dựng số 50/2014/QH13 ngày 18 tháng 6 năm 2014; Căn cứ Nghị định số 81/2017/NĐ-CP ngày 17 tháng 7 năm 2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Xây dựng; Căn cứ Nghị định số 68/2019/NĐ-CP ngày 14 tháng 8 năm 2019 của Chính phủ về quản lý chi phí đầu tư xây dựng; Theo đề nghị của Cục trưởng Cục Kinh tế xây dựng, Bộ trưởng Bộ Xây dựng ban hành Thông tư hướng dẫn xây dựng và quản lý hệ thống cơ sở dữ liệu về định mức, giá xây dựng và chỉ số giá xây dựng.",
+        "chapters": [
+          {
+            "chapter_id": "doc:181225:part:1:chapter:1",
+            "number": "I",
+            "title": "QUY ĐỊNH CHUNG",
+            "content": "Chương I\nQUY ĐỊNH CHUNG",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:181225:part:1:article:1",
+                "number": "1",
+                "title": "Phạm vi điều chỉnh Thông tư này quy định việc xây dựng và quản lý hệ thống cơ sở dữ liệu về định mức, giá xây dựng và chỉ số giá xây dựng, bao gồm: cung cấp, thu thập, xử lý, cập nhật, lưu trữ, bảo mật, công bố, khai thác sử dụng, kiểm soát và vận hành hệ thống cơ sở dữ liệu.",
+                "content": "Điều 1. Phạm vi điều chỉnh Thông tư này quy định việc xây dựng và quản lý hệ thống cơ sở dữ liệu về định mức, giá xây dựng và chỉ số giá xây dựng, bao gồm: cung cấp, thu thập, xử lý, cập nhật, lưu trữ, bảo mật, công bố, khai thác sử dụng, kiểm soát và vận hành hệ thống cơ sở dữ liệu.",
+                "clauses": [],
+                "points": []
+              },
+              {
+                "article_id": "doc:181225:part:1:article:2",
+                "number": "2",
+                "title": "Đối tượng áp dụng",
+                "content": "Điều 2. Đối tượng áp dụng",
+                "clauses": [
+                  {
+                    "clause_id": "doc:181225:part:1:article:2:clause:1",
+                    "number": "1",
+                    "content": "1. Thông tư này áp dụng đối với cơ quan, tổ chức,\ncá nhân có liên quan đến việc xây dựng và quản lý cơ sở dữ liệu định mức, giá xây dựng và chỉ số giá xây dựng phục vụ quản lý chi phí đầu tư xây dựng các dự án sử dụng vốn ngân sách nhà nước và vốn nhà nước ngoài ngân sách, các dự án đầu tư theo hình thức công tư (PPP), trừ các dự án đầu tư xây dựng thuộc danh mục bí mật nhà nước, an ninh quốc phòng.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:181225:part:1:article:2:clause:2",
+                    "number": "2",
+                    "content": "2. Khuyến khích các tổ chức, cá nhân không thuộc đối\ntượng quy định tại Khoản 1 Điều này áp dụng các quy định của Thông tư này.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:181225:part:1:article:3",
+                "number": "3",
+                "title": "Nguyên tắc xây dựng và quản lý hệ thống cơ sở dữ liệu về định mức, giá xây dựng và chỉ số giá xây dựng",
+                "content": "Điều 3. Nguyên tắc xây dựng và quản lý hệ thống cơ sở dữ liệu về định mức, giá xây dựng và chỉ số giá xây dựng",
+                "clauses": [
+                  {
+                    "clause_id": "doc:181225:part:1:article:3:clause:1",
+                    "number": "1",
+                    "content": "1. Hệ thống cơ sở dữ liệu về định mức, giá xây dựng\nvà chỉ số giá xây dựng phải bảo đảm chính xác, đầy đủ, đồng bộ kết nối và phù hợp với các quy định của pháp luật và thị trường; phục vụ kịp thời công tác quản lý nhà nước và đáp ứng yêu cầu phát triển kinh tế - xã hội.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:181225:part:1:article:3:clause:2",
+                    "number": "2",
+                    "content": "2. Việc thu thập, bổ sung các thông tin, dữ liệu phải\nbảo đảm không trùng lặp, chồng chéo nhiệm vụ; có sự phối hợp chặt chẽ trong việc thu thập thông tin, dữ liệu; tận dụng tối đa nguồn thông tin, dữ liệu sẵn có; đảm bảo thực hiện hiệu quả, khả thi, tiết kiệm kinh phí, nguồn lực; thông tin, dữ liệu đã được kiểm tra, xử lý và cập nhật theo quy định trong hệ thống cơ sở dữ liệu về định mức, giá xây dựng và chỉ số giá xây dựng có giá trị pháp lý như hồ sơ, văn bản dạng giấy.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:181225:part:1:article:3:clause:3",
+                    "number": "3",
+                    "content": "3. Góp phần nâng cao năng suất ngành xây dựng, nâng\ncao năng lực và hiệu quả quản lý nhà nước về kinh tế trong đầu tư xây dựng và phát triển đô thị, góp phần chống thất thoát, lãng phí trong đầu tư xây dựng.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:181225:part:1:article:3:clause:4",
+                    "number": "4",
+                    "content": "4. Các cơ quan, tổ chức và cá nhân chịu trách nhiệm\npháp lý đối với các thông tin, dữ liệu do mình cung cấp, cập nhật cho hệ thống cơ sở dữ liệu.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:181225:part:1:article:4",
+                "number": "4",
+                "title": "Danh mục thông tin, dữ liệu trong lĩnh vực định mức, giá xây dựng và chỉ số giá xây dựng",
+                "content": "Điều 4. Danh mục thông tin, dữ liệu trong lĩnh vực định mức, giá xây dựng và chỉ số giá xây dựng",
+                "clauses": [
+                  {
+                    "clause_id": "doc:181225:part:1:article:4:clause:1",
+                    "number": "1",
+                    "content": "1. Các thông tin, dữ liệu về định mức xây dựng bao\ngồm:",
+                    "points": [
+                      {
+                        "point_id": "doc:181225:part:1:article:4:clause:1:point:1",
+                        "label": "a",
+                        "content": "a) Định mức sử dụng vật liệu;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:181225:part:1:article:4:clause:1:point:2",
+                        "label": "b",
+                        "content": "b) Định mức năng suất lao động;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:181225:part:1:article:4:clause:1:point:3",
+                        "label": "c",
+                        "content": "c) Định mức năng suất máy và thiết bị thi công;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:181225:part:1:article:4:clause:1:point:4",
+                        "label": "d",
+                        "content": "d) Định mức dự toán xây dựng công trình;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:181225:part:1:article:4:clause:1:point:5",
+                        "label": "đ",
+                        "content": "đ) Định mức chi phí quản lý dự án và tư vấn đầu tư\nxây dựng;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:181225:part:1:article:4:clause:1:point:6",
+                        "label": "e",
+                        "content": "e) Định mức chi phí gián tiếp.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:181225:part:1:article:4:clause:2",
+                    "number": "2",
+                    "content": "2. Các thông tin, dữ liệu về giá xây dựng bao gồm:",
+                    "points": [
+                      {
+                        "point_id": "doc:181225:part:1:article:4:clause:2:point:1",
+                        "label": "a",
+                        "content": "a) Suất vốn đầu tư và giá xây dựng tổng hợp bộ phận\nkết cấu công trình;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:181225:part:1:article:4:clause:2:point:2",
+                        "label": "b",
+                        "content": "b) Giá vật liệu xây dựng;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:181225:part:1:article:4:clause:2:point:3",
+                        "label": "c",
+                        "content": "c) Đơn giá nhân công xây dựng;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:181225:part:1:article:4:clause:2:point:4",
+                        "label": "d",
+                        "content": "d) Giá ca máy và thiết bị thi công xây dựng;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:181225:part:1:article:4:clause:2:point:5",
+                        "label": "đ",
+                        "content": "đ) Đơn giá xây dựng công trình.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:181225:part:1:article:4:clause:3",
+                    "number": "3",
+                    "content": "3. Các thông tin, dữ liệu về chỉ số giá xây dựng.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:181225:part:1:article:4:clause:4",
+                    "number": "4",
+                    "content": "4. Các thông tin, dữ liệu về dự án đầu tư xây dựng\nvà hợp đồng xây dựng bao gồm:",
+                    "points": [
+                      {
+                        "point_id": "doc:181225:part:1:article:4:clause:4:point:1",
+                        "label": "a",
+                        "content": "a) Thông tin dự án;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:181225:part:1:article:4:clause:4:point:2",
+                        "label": "b",
+                        "content": "b) Tổng mức đầu tư;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:181225:part:1:article:4:clause:4:point:3",
+                        "label": "c",
+                        "content": "c) Dự toán xây dựng công trình;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:181225:part:1:article:4:clause:4:point:4",
+                        "label": "d",
+                        "content": "d) Giá trúng thầu;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:181225:part:1:article:4:clause:4:point:5",
+                        "label": "đ",
+                        "content": "đ) Giá hợp đồng;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:181225:part:1:article:4:clause:4:point:6",
+                        "label": "e",
+                        "content": "e) Giá quyết toán.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:181225:part:1:article:4:clause:5",
+                    "number": "5",
+                    "content": "5. Chi tiết thông tin, dữ liệu quy định tại Phụ lục I của Thông tư này.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:181225:part:1:article:4:clause:6",
+                    "number": "6",
+                    "content": "6. Các thông tin, dữ liệu về định mức xây dựng, giá\nxây dựng và chỉ số giá xây dựng được mã hóa theo hệ thống mã hiệu quy định tại Phụ lục II của Thông tư này.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:181225:part:1:chapter:2",
+            "number": "II",
+            "title": "CUNG CẤP, THU THẬP, CẬP NHẬT, XỬ LÝ, LƯU TRỮ, BẢO QUẢN, BẢO MẬT THÔNG TIN, KHAI THÁC SỬ DỤNG DỮ LIỆU VỀ ĐỊNH MỨC, GIÁ XÂY DỰNG VÀ CHỈ SỐ GIÁ XÂY DỰNG",
+            "content": "Chương II\nCUNG CẤP, THU THẬP, CẬP\nNHẬT, XỬ LÝ, LƯU TRỮ, BẢO QUẢN, BẢO MẬT THÔNG TIN, KHAI THÁC SỬ DỤNG DỮ LIỆU VỀ\nĐỊNH MỨC, GIÁ XÂY DỰNG VÀ CHỈ SỐ GIÁ XÂY DỰNG",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:181225:part:1:article:5",
+                "number": "5",
+                "title": "Thu thập và cung cấp thông tin, dữ liệu",
+                "content": "Điều 5. Thu thập và cung cấp thông tin, dữ liệu\n1. Sở Xây dựng của các tỉnh, thành phố trực thuộc\ntrung ương chịu trách nhiệm thu thập, tổng hợp và cung cấp đầy đủ các thông tin, dữ liệu quy định tại Điều 4 của Thông tư này theo lĩnh vực quản lý nhà nước của mình tại địa phương cho cơ quan quản lý hệ thống cơ sở dữ liệu về định mức, giá xây dựng và chỉ số giá xây dựng để cập nhật vào hệ thống cơ sở dữ liệu.\n2. Cơ quan chuyên môn về xây dựng của các bộ quản\nlý công trình xây dựng chuyên ngành chịu trách nhiệm thu thập, tổng hợp và cung cấp các thông tin, dữ liệu quy định tại Điều 4 của Thông tư này theo lĩnh vực quản lý của mình cho cơ quan quản lý hệ thống cơ sở dữ liệu về định mức, giá xây dựng và chỉ số giá xây dựng để cập nhật vào hệ thống cơ sở dữ liệu.\n3. Chủ đầu tư, ban quản lý dự án và các chủ thể có\nliên quan thực hiện các dự án sử dụng vốn nhà nước, dự án đầu tư theo hình thức đối tác công tư (PPP) có trách nhiệm cung cấp thông tin, dữ liệu về dự án đầu tư xây dựng và hợp đồng xây dựng quy định tại Điều 4 của Thông tư này cho cơ quan quản lý hệ thống cơ sở dữ liệu về định mức, giá xây dựng và chỉ số giá xây dựng để cập nhật vào hệ thống cơ sở dữ liệu.\n4. Các cá nhân, tổ chức có hoạt động liên quan đến\nlĩnh vực quản lý chi phí đầu tư xây dựng thu thập, tổng hợp và cung cấp các thông tin, dữ liệu quy định tại Điều 4 của Thông tư này theo lĩnh vực hoạt động của mình cho cơ quan quản lý hệ thống cơ sở dữ liệu về định mức, giá xây dựng và chỉ số giá xây dựng để cập nhật vào hệ thống cơ sở dữ liệu.\n5. Yêu cầu đối với các thông tin, dữ liệu cung cấp\nvào hệ thống cơ sở dữ liệu, cụ thể như sau:\na) Đối với các số liệu từ các báo cáo định kỳ và đột\nxuất của các cơ quan, tổ chức, cá nhân phải có xác nhận của người có thẩm quyền ban hành.\nb) Đối với các số liệu lấy từ kết quả điều tra, khảo\nsát phải được cơ quan có thẩm quyền nghiệm thu.\nc) Các thông tin, dữ liệu cung cấp cho hệ thống cơ\nsở dữ liệu được thể hiện dưới dạng văn bản kèm theo tệp dữ liệu điện tử (file); các tệp dữ liệu điện tử phải theo đúng hình thức, biểu mẫu quy định tại các Phụ lục của Thông tư này.\n6. Các thông tin, dữ liệu phải đảm bảo phản ánh đầy\nđủ, kịp thời, chính xác tình hình của từng khu vực. Khi có chỉnh sửa, bổ sung đối với số liệu đã gửi hoặc số liệu trong kỳ gửi có biến động khác thường thì cơ quan, tổ chức phải gửi các thuyết minh bằng tài liệu điện tử hoặc văn bản cho cơ quan quản lý hệ thống cơ sở dữ liệu.\n7. Chế độ cung cấp, cập nhật thông tin, dữ liệu:\na) Sở Xây dựng của các tỉnh, thành phố trực thuộc\ntrung ương có trách nhiệm: Cung cấp các thông tin, dữ liệu về giá vật liệu xây dựng định kỳ hàng tháng lên hệ thống cơ sở dữ liệu, chậm nhất trước ngày đầu tiên của tháng tiếp theo; cung cấp các thông tin, dữ liệu về định mức, giá xây dựng và chỉ số giá xây dựng chậm nhất 10 ngày kể từ ngày ban hành.\nb) Cơ quan chuyên môn về xây dựng của các bộ quản\nlý công trình xây dựng chuyên ngành có trách nhiệm cung cấp các thông tin, dữ liệu về định mức, giá xây dựng và chỉ số giá xây dựng chậm nhất 10 ngày kể từ ngày ban hành.\nc) Chủ đầu tư, ban quản lý dự án và các chủ thể có\nliên quan thực hiện các dự án sử dụng vốn nhà nước, dự án đầu tư theo hình thức đối tác công tư (PPP) có trách nhiệm: Cung cấp các thông tin, dữ liệu về dự án đầu tư xây dựng theo quy định tại Điều 4 của Thông tư này trong vòng 10 ngày kể từ khi có quyết định phê duyệt; cung cấp các thông tin, dữ liệu về hợp đồng xây dựng theo quy định tại Điều 4 của Thông tư này trong vòng 10 ngày kể từ khi ký kết hợp đồng; cung cấp thông tin, dữ liệu về giá trị quyết toán trong vòng 10 ngày kể từ khi có quyết định phê duyệt quyết toán công trình, dự án.\nd) Các cá nhân, tổ chức có hoạt động liên quan đến\nlĩnh vực quản lý chi phí đầu tư xây dựng thu thập, tổng hợp và cung cấp các thông tin, dữ liệu quy định tại Điều 4 của Thông tư này theo lĩnh vực hoạt động của mình khi có phát sinh thông tin, dữ liệu mới.",
+                "clauses": [],
+                "points": []
+              },
+              {
+                "article_id": "doc:181225:part:1:article:6",
+                "number": "6",
+                "title": "Tổng hợp, xử lý, cập nhật và công bố thông tin, dữ liệu của cơ quan quản lý cơ sở dữ liệu",
+                "content": "Điều 6. Tổng hợp, xử lý, cập nhật và công bố thông tin, dữ liệu của cơ quan quản lý cơ sở dữ liệu",
+                "clauses": [
+                  {
+                    "clause_id": "doc:181225:part:1:article:6:clause:1",
+                    "number": "1",
+                    "content": "1. Cơ quan quản lý hệ thống cơ sở dữ liệu có trách\nnhiệm định kỳ tổng hợp, cập nhật vào hệ thống cơ sở dữ liệu các thông tin do các đơn vị, cá nhân quy định tại Khoản 1, Khoản 2, Khoản 3 và Khoản 4 Điều 5 của Thông tư này cung cấp.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:181225:part:1:article:6:clause:2",
+                    "number": "2",
+                    "content": "2. Cập nhật, tổng hợp thông tin, dữ liệu thực hiện\ntheo các bước sau:",
+                    "points": [
+                      {
+                        "point_id": "doc:181225:part:1:article:6:clause:2:point:1",
+                        "label": "a",
+                        "content": "a) Tiếp nhận thông tin, dữ liệu; kiểm tra; sàng lọc.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:181225:part:1:article:6:clause:2:point:2",
+                        "label": "b",
+                        "content": "b) Phân loại thông tin, dữ liệu theo nội dung cơ sở\ndữ liệu quy định tại Điều 4 của Thông tư này.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:181225:part:1:article:6:clause:2:point:3",
+                        "label": "c",
+                        "content": "c) Thực hiện việc cập nhật, tổng hợp thông tin, dữ\nliệu bằng ứng dụng/phần mềm do Bộ Xây dựng quy định.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:181225:part:1:article:6:clause:2:point:4",
+                        "label": "d",
+                        "content": "d) Kiểm tra kết quả cập nhật trên hệ thống cơ sở dữ\nliệu.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:181225:part:1:article:6:clause:3",
+                    "number": "3",
+                    "content": "3. Đối với các thông tin, dữ liệu do tổ chức, cá\nnhân cung cấp, trong trường hợp cần thiết thì thủ trưởng cơ quan, đơn vị tiếp nhận, xử lý thông tin, dữ liệu thành lập hội đồng tư vấn có thành phần là các chuyên gia, nhà quản lý có kinh nghiệm để kiểm tra, đánh giá thông tin, dữ liệu đó.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:181225:part:1:article:6:clause:4",
+                    "number": "4",
+                    "content": "4. Trong quá trình xử lý các thông tin, trường hợp\nphát hiện các sai sót, không phù hợp về thông tin, dữ liệu được cung cấp, đơn vị cung cấp thông tin, dữ liệu có trách nhiệm làm rõ, giải trình và chỉnh sửa, cung cấp cho cơ quan, đơn vị được giao xử lý thông tin, dữ liệu.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:181225:part:1:article:6:clause:5",
+                    "number": "5",
+                    "content": "5. Chế độ công bố thông tin, dữ liệu về định mức,\ngiá xây dựng và chỉ số giá xây dựng:",
+                    "points": [
+                      {
+                        "point_id": "doc:181225:part:1:article:6:clause:5:point:1",
+                        "label": "a",
+                        "content": "a) Các thông tin được công bố thường xuyên trên Cổng\nthông tin điện tử do Bộ Xây dựng quản lý, gồm: Các văn bản quy phạm pháp luật có liên quan đến định mức, đơn giá, giá xây dựng do các bộ, ngành ban hành theo thẩm quyền; thông tin về định mức, giá xây dựng và chỉ số giá xây dựng theo báo cáo của các địa phương và các bộ quản lý công trình xây dựng chuyên ngành.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:181225:part:1:article:6:clause:5:point:2",
+                        "label": "b",
+                        "content": "b) Các thông tin, dữ liệu khác được công bố, cập nhật\nđịnh kỳ hàng tháng, quý.",
+                        "children": []
+                      }
+                    ]
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:181225:part:1:article:7",
+                "number": "7",
+                "title": "Lưu trữ, bảo quản thông tin, dữ liệu",
+                "content": "Điều 7. Lưu trữ, bảo quản thông tin, dữ liệu",
+                "clauses": [
+                  {
+                    "clause_id": "doc:181225:part:1:article:7:clause:1",
+                    "number": "1",
+                    "content": "1. Cơ quan quản lý cơ sở dữ liệu phải có các biện\npháp quản lý, nghiệp vụ và kỹ thuật đối với hệ thống thông tin nhằm bảo vệ, khôi phục hệ thống và nội dung dữ liệu; bảo đảm bảo mật cho hệ thống ứng dụng và các cơ sở dữ liệu của hệ thống gồm an toàn bảo mật mức cơ sở dữ liệu, mức hệ thống và ứng dụng, mức vật lý.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:181225:part:1:article:7:clause:2",
+                    "number": "2",
+                    "content": "2. Cơ quan quản lý cơ sở dữ liệu có trách nhiệm ứng\ndụng công nghệ thông tin để bảo đảm việc lưu trữ dữ liệu an toàn trong cơ sở dữ liệu về các mặt:",
+                    "points": [
+                      {
+                        "point_id": "doc:181225:part:1:article:7:clause:2:point:1",
+                        "label": "a",
+                        "content": "a) Lưu trữ vật lý: bảo đảm hệ thống luôn được hoạt\nđộng ổn định.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:181225:part:1:article:7:clause:2:point:2",
+                        "label": "b",
+                        "content": "b) Tổ chức logic: số liệu cần đảm bảo an toàn theo\nđúng các nguyên tắc, định dạng các hệ cơ sở dữ liệu, tránh các hiện tượng cố tình làm hỏng các tổ chức logic của dữ liệu.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:181225:part:1:article:7:clause:2:point:3",
+                        "label": "c",
+                        "content": "c) Bảo đảm việc an toàn thông tin trên mạng, chống\nviệc thất thoát thông tin từ hệ thống cơ sở dữ liệu.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:181225:part:1:article:7:clause:2:point:4",
+                        "label": "d",
+                        "content": "d) Dữ liệu số được lưu trữ trên máy chủ, bảo đảm chống\ntruy nhập trái phép thông qua hệ thống bảo mật với các biện pháp và kỹ thuật tiên tiến.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:181225:part:1:article:7:clause:3",
+                    "number": "3",
+                    "content": "3. Cơ quan quản lý cơ sở dữ liệu phải có biện pháp\nbảo đảm tính toàn vẹn của thông tin, dữ liệu, định kỳ kiểm tra và bảo đảm an toàn hệ thống thông tin điện tử.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:181225:part:1:article:7:clause:4",
+                    "number": "4",
+                    "content": "4. Sao lưu dữ liệu:",
+                    "points": [
+                      {
+                        "point_id": "doc:181225:part:1:article:7:clause:4:point:1",
+                        "label": "a",
+                        "content": "a) Các dữ liệu lưu giữ trong cơ sở dữ liệu phải được\nsao chép vào các thiết bị lưu trữ thông tin theo định kỳ và lưu trữ theo quy trình, quy phạm kỹ thuật, bảo mật và an toàn theo quy định hiện hành của pháp luật.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:181225:part:1:article:7:clause:4:point:2",
+                        "label": "b",
+                        "content": "b) Dữ liệu phải được thường xuyên sao chép và lưu\ntrữ theo quy định.",
+                        "children": []
+                      }
+                    ]
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:181225:part:1:article:8",
+                "number": "8",
+                "title": "Chế độ bảo mật thông tin, dữ liệu",
+                "content": "Điều 8. Chế độ bảo mật thông tin, dữ liệu",
+                "clauses": [
+                  {
+                    "clause_id": "doc:181225:part:1:article:8:clause:1",
+                    "number": "1",
+                    "content": "1. Cơ quan quản lý cơ sở dữ liệu chịu trách nhiệm đảm\nbảo an toàn và bảo mật thông tin, có các biện pháp tổ chức, quản lý vận hành, nghiệp vụ và kỹ thuật nhằm bảo đảm an toàn, bảo mật dữ liệu và an ninh mạng.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:181225:part:1:article:8:clause:2",
+                    "number": "2",
+                    "content": "2. Việc in, sao, chụp, giao nhận, truyền dữ liệu,\nlưu giữ, bảo quản, cung cấp thông tin, dữ liệu phải tuân theo quy định về bảo mật thông tin, dữ liệu.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:181225:part:1:article:8:clause:3",
+                    "number": "3",
+                    "content": "3. Cơ quan quản lý cơ sở dữ liệu xây dựng quy định\ncụ thể về quyền truy cập, cập nhật các thông tin, dữ liệu.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:181225:part:1:article:8:clause:4",
+                    "number": "4",
+                    "content": "4. Cá nhân thực hiện cập nhật, khai thác cơ sở dữ\nliệu được cấp quyền truy cập, cập nhật nhất định trong từng thành phần dữ liệu, bảo đảm việc quản lý chặt chẽ đối với quyền truy cập thông tin trong hệ thống cơ sở dữ liệu.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:181225:part:1:article:9",
+                "number": "9",
+                "title": "Khai thác, sử dụng thông tin, dữ liệu",
+                "content": "Điều 9. Khai thác, sử dụng thông tin, dữ liệu",
+                "clauses": [
+                  {
+                    "clause_id": "doc:181225:part:1:article:9:clause:1",
+                    "number": "1",
+                    "content": "1. Tổ chức, cá nhân được khai thác, sử dụng thông\ntin, dữ liệu về định mức, giá xây dựng và chỉ số giá xây dựng qua mạng Internet, trang điện tử, cụ thể gồm:",
+                    "points": [
+                      {
+                        "point_id": "doc:181225:part:1:article:9:clause:1:point:1",
+                        "label": "a",
+                        "content": "a) Khai thác, sử dụng danh mục thông tin, dữ liệu về\nđịnh mức, giá xây dựng và chỉ số giá xây dựng.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:181225:part:1:article:9:clause:1:point:2",
+                        "label": "b",
+                        "content": "b) Khai thác, sử dụng thông tin, dữ liệu về định mức,\ngiá xây dựng và chỉ số giá xây dựng theo quy định của pháp luật được công khai, phổ biến rộng rãi.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:181225:part:1:article:9:clause:2",
+                    "number": "2",
+                    "content": "2. Đối với các thông tin, dữ liệu ngoài quy định tại\nKhoản 1 Điều này, tổ chức, cá nhân được đăng ký cấp quyền truy cập khai thác, sử dụng qua mạng Internet, trang điện tử. Cơ quan quản lý cơ sở dữ liệu về định mức, giá xây dựng và chỉ số giá xây dựng cấp quyền truy cập cho các tổ chức, cá nhân đăng ký phù hợp với đối tượng và mục đích sử dụng theo quy định.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:181225:part:1:article:9:clause:3",
+                    "number": "3",
+                    "content": "3. Tổ chức, cá nhân khai thác, sử dụng hệ thống cơ\nsở dữ liệu có trách nhiệm:",
+                    "points": [
+                      {
+                        "point_id": "doc:181225:part:1:article:9:clause:3:point:1",
+                        "label": "a",
+                        "content": "a) Truy cập đúng địa chỉ, mã khóa; không được làm lộ\nđịa chỉ, mã khóa truy cập đã được cấp.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:181225:part:1:article:9:clause:3:point:2",
+                        "label": "b",
+                        "content": "b) Chỉ được khai thác, sử dụng thông tin, dữ liệu\ntrong phạm vi được cấp, không xâm nhập trái phép vào hệ thống cơ sở dữ liệu; sử dụng thông tin, dữ liệu đúng mục đích.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:181225:part:1:article:9:clause:3:point:3",
+                        "label": "c",
+                        "content": "c) Quản lý nội dung các thông tin, dữ liệu đã khai\nthác, không được cung cấp cho tổ chức, cá nhân khác trừ trường hợp được phép của cơ quan quản lý hệ thống cơ sở dữ liệu.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:181225:part:1:article:9:clause:3:point:4",
+                        "label": "d",
+                        "content": "d) Không được thay đổi, xóa, hủy, sao chép, tiết lộ,\nhiển thị, di chuyển trái phép một phần hoặc toàn bộ dữ liệu; không được tạo ra hoặc phát tán chương trình phần mềm làm ảnh hưởng, sai lệch cơ sở dữ liệu về định mức, giá xây dựng và chỉ số giá xây dựng; thông báo kịp thời cho cơ quan quản lý hệ thống cơ sở dữ liệu về những sai sót của thông tin, dữ liệu đã được cung cấp.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:181225:part:1:article:9:clause:3:point:5",
+                        "label": "đ",
+                        "content": "đ) Tuân theo các quy định của pháp luật về bảo vệ\nbí mật nhà nước; Luật An ninh mạng; chịu trách nhiệm về sai phạm trong khai thác, sử dụng thông tin, dữ liệu.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:181225:part:1:article:9:clause:4",
+                    "number": "4",
+                    "content": "4. Việc khai thác, sử dụng thông tin, dữ liệu về định\nmức, giá xây dựng và chỉ số giá xây dựng qua mạng Internet, trang điện tử phải tuân thủ theo đúng các quy định của Luật Giao dịch điện tử, Luật Công nghệ thông tin và các văn bản hướng dẫn thi hành.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:181225:part:1:chapter:3",
+            "number": "III",
+            "title": "TỔ CHỨC THỰC HIỆN",
+            "content": "Chương III\nTỔ CHỨC THỰC HIỆN",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:181225:part:1:article:10",
+                "number": "10",
+                "title": "Trách nhiệm của các cơ quan, tổ chức đối với hệ thống cơ sở dữ liệu về định mức, giá xây dựng và chỉ số giá xây dựng",
+                "content": "Điều 10. Trách nhiệm của các cơ quan, tổ chức đối với hệ thống cơ sở dữ liệu về định mức, giá xây dựng và chỉ số giá xây dựng\n1. Bộ Xây dựng:\na) Giao Cục Kinh tế xây dựng thuộc Bộ Xây dựng là\ncơ quan quản lý hệ thống cơ sở dữ liệu về định mức, giá xây dựng và chỉ số giá xây dựng;\nb) Cung cấp các thông tin, dữ liệu trong hệ thống\ncơ sở dữ liệu về định mức, giá xây dựng và chỉ số giá xây dựng;\nc) Xây dựng, quản lý và kiểm soát toàn diện hệ thống\ncơ sở dữ liệu về định mức, giá xây dựng và chỉ số giá xây dựng trên phạm vi cả nước;\nd) Xây dựng và hoàn thiện hệ thống mã hiệu, hệ thống\nphần mềm ứng dụng để quản lý hệ thống cơ sở dữ liệu về định mức, giá xây dựng và chỉ số giá xây dựng;\nđ) Hướng dẫn nội dung, phương pháp xây dựng cơ sở dữ\nliệu; sử dụng hệ thống phần mềm quản lý cơ sở dữ liệu; cách thức cập nhật hệ thống cơ sở dữ liệu từ các bộ quản lý công trình xây dựng chuyên ngành, Ủy ban nhân dân cấp tỉnh và các chủ thể có liên quan;\ne) Thanh tra, kiểm tra việc thực hiện các quy định\nvề xây dựng, quản lý, khai thác sử dụng, cập nhật hệ thống cơ sở dữ liệu về định mức, giá xây dựng và chỉ số giá xây dựng;\ng) Bố trí kinh phí thường xuyên từ nguồn ngân sách\ncho việc quản lý, vận hành và duy trì hệ thống cơ sở dữ liệu về định mức, giá xây dựng và chỉ số giá xây dựng theo quy định.\n2. Cục Kinh tế xây dựng - Bộ Xây dựng:\na) Thực hiện tổ chức xây dựng, quản lý hệ thống phần\nmềm thống nhất để vận hành, khai thác hệ thống cơ sở dữ liệu về định mức, giá xây dựng và chỉ số giá xây dựng;\nb) Kiểm tra, đôn đốc, hướng dẫn các bộ, ngành, địa\nphương, các cá nhân và tổ chức có liên quan trên phạm vi cả nước về xây dựng, quản lý, khai thác, sử dụng, cập nhật hệ thống cơ sở dữ liệu về định mức, giá xây dựng và chỉ số giá xây dựng; đầu mối tiếp nhận, xử lý và tổng hợp các thông tin về định mức, giá xây dựng và chỉ số giá xây dựng do các bộ, ngành, địa phương, các cá nhân và tổ chức có liên quan báo cáo, cung cấp;\nc) Hướng dẫn truy cập, cung cấp thông tin về định mức,\ngiá xây dựng và chỉ số giá xây dựng phục vụ việc công bố của Bộ Xây dựng;\nd) Chủ trì, phối hợp với Trung tâm Thông tin - Bộ\nXây dựng xây dựng quy chế quản lý, sử dụng hệ thống thông tin về định mức, giá xây dựng và chỉ số giá xây dựng, tổ chức đào tạo, bồi dưỡng nghiệp vụ sử dụng phần mềm.\n3. Trung tâm Thông tin - Bộ Xây dựng: Có trách nhiệm\nchủ trì, phối hợp với Cục Kinh tế xây dựng quản lý hệ thống hạ tầng kỹ thuật công nghệ thông tin của hệ thống cơ sở dữ liệu định mức, giá xây dựng và chỉ số giá xây dựng; đảm bảo an toàn, an ninh, bảo mật cơ sở dữ liệu.\n4. Các bộ quản lý công trình xây dựng chuyên ngành:\nChỉ đạo cơ quan chuyên môn về xây dựng thu thập, tổng hợp, cung cấp thông tin, dữ liệu do mình quản lý cho cơ quan quản lý hệ thống cơ sở dữ liệu để cập nhật vào hệ thống cơ sở dữ liệu về định mức, giá xây dựng và chỉ số giá xây dựng theo quy định tại Điều 5 của Thông tư này.\n5. Ủy ban nhân dân cấp tỉnh/thành phố trực thuộc\ntrung ương:\na) Chỉ đạo Sở Xây dựng xây dựng quy chế quản lý,\nkhai thác, sử dụng, cập nhật cơ sở dữ liệu về định mức, giá xây dựng và chỉ số giá xây dựng tại địa phương; quy chế về bảo đảm an ninh, bảo mật thông tin; bố trí cán bộ chuyên trách có chuyên môn và trình độ phù hợp để thường xuyên cung cấp, cập nhật, khai thác, sử dụng hệ thống cơ sở dữ liệu về định mức, giá xây dựng và chỉ số giá xây dựng; thanh tra, kiểm tra việc thực hiện các quy định về xây dựng, quản lý, khai thác sử dụng, cập nhật hệ thống cơ sở dữ liệu về định mức, giá xây dựng và chỉ số giá xây dựng tại địa phương; hướng dẫn, đôn đốc các đơn vị, cơ quan, tổ chức có liên quan tại địa phương thực hiện nội dung báo cáo theo quy định; thông báo rộng rãi địa chỉ email trên trang thông tin điện tử để các tổ chức, cá nhân gửi báo cáo thông tin, dữ liệu.\nb) Bố trí kinh phí thường xuyên từ nguồn ngân sách\nđịa phương cho việc thu thập, tổng hợp và cung cấp thông tin cho Hệ thống cơ sở dữ liệu về định mức, giá xây dựng và chỉ số giá xây dựng theo quy định.\n6. Chủ đầu tư, ban quản lý dự án và các chủ thể có\nliên quan thực hiện các dự án sử dụng vốn nhà nước, dự án đầu tư theo hình thức đối tác công tư (PPP) có trách nhiệm cung cấp thông tin về dữ liệu đấu thầu, dữ liệu quyết toán công trình, dự án cho cơ quan chuyên môn về xây dựng theo phân cấp quy định tại Điều 5 của Thông tư này để cập nhật vào Hệ thống cơ sở dữ liệu.",
+                "clauses": [],
+                "points": []
+              },
+              {
+                "article_id": "doc:181225:part:1:article:11",
+                "number": "11",
+                "title": "Điều khoản thi hành",
+                "content": "Điều 11. Điều khoản thi hành",
+                "clauses": [
+                  {
+                    "clause_id": "doc:181225:part:1:article:11:clause:1",
+                    "number": "1",
+                    "content": "1. Thông tư này có hiệu lực thi hành từ ngày 15\ntháng 02 năm 2020.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:181225:part:1:article:11:clause:2",
+                    "number": "2",
+                    "content": "2. Trong quá trình thực hiện nếu có vướng mắc, đề\nnghị gửi ý kiến về Bộ Xây dựng để xem xét, giải quyết./.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          }
+        ],
+        "sections": [],
+        "articles": [],
+        "unstructured_blocks": []
+      },
+      {
+        "part_id": "doc:181225:part:2",
+        "part_type": "appendix",
+        "part_title": "PHỤ LỤC I",
+        "reference": null,
+        "direct_text": null,
+        "chapters": [],
+        "sections": [],
+        "articles": [],
+        "unstructured_blocks": [
+          {
+            "block_id": "doc:181225:part:2:block:1",
+            "content": "PHỤ LỤC I",
+            "indexable": true
+          }
+        ]
+      },
+      {
+        "part_id": "doc:181225:part:3",
+        "part_type": "list",
+        "part_title": "DANH MỤC CÁC MẪU BIỂU BÁO CÁO, CẬP NHẬT THÔNG TIN, DỮ",
+        "reference": null,
+        "direct_text": null,
+        "chapters": [],
+        "sections": [],
+        "articles": [],
+        "unstructured_blocks": [
+          {
+            "block_id": "doc:181225:part:3:block:1",
+            "content": "DANH MỤC CÁC MẪU BIỂU BÁO CÁO, CẬP NHẬT THÔNG TIN, DỮ\nLIỆU VỀ ĐỊNH MỨC, GIÁ XÂY DỰNG VÀ CHỈ SỐ GIÁ XÂY DỰNG\n(Kèm theo Thông tư số 12/2019/TT-BXD ngày 26/12/2019 của Bộ Xây dựng) Mẫu số 01: Dữ liệu định mức sử dụng vật liệu - Bảng 1: Định mức sử dụng vật liệu Mẫu số 02: Dữ liệu định mức năng suất lao động - Bảng 2: Định mức năng suất lao động Mẫu số 03: Dữ liệu định mức năng suất máy và thiết bị thi công - Bảng 3: Định mức năng suất máy và thiết bị thi công Mẫu số 04: Dữ liệu định mức dự toán xây dựng công trình - Bảng 4: Định mức dự toán xây dựng công trình - Bảng 5: Hệ số điều chỉnh Mẫu số 05: Dữ liệu định mức chi phí quản lý dự án và tư vấn đầu tư xây dựng công trình - Bảng 6: Định mức chi phí quản lý dự án và tư vấn đầu tư xây dựng công trình - Bảng 7: Định mức chi phí thiết kế xây dựng Mẫu số 06: Dữ liệu định mức chi phí gián tiếp - Bảng 8: Định mức chi phí gián tiếp Mẫu số 07: Dữ liệu suất vốn đầu tư xây dựng công trình và giá xây dựng tổng hợp bộ phận kết cấu công trình - Bảng 9: Suất vốn đầu tư xây dựng công trình - Bảng 10: Hệ số điều chỉnh suất vốn đầu tư xây dựng công trình - Bảng 11: Giá xây dựng tổng hợp bộ phận kết cấu công trình Mẫu số 08: Dữ liệu giá vật liệu xây dựng - Bảng 12: Giá vật liệu xây dựng công bố - Bảng 13: Giá vật liệu xây dựng thị trường Mẫu số 09: Dữ liệu đơn giá nhân công xây dựng - Bảng 14: Đơn giá nhân công xây dựng - Bảng 15: Đơn giá nhân công tư vấn xây dựng Mẫu số 10: Dữ liệu giá ca máy và thiết bị thi công xây dựng Phần I: Giá ca máy và thiết bị thi công xây dựng công bố - Bảng 16: Tiền lương, nhiên liệu, năng lượng - Bảng 17: Hệ số nhiên liệu phụ - Bảng 18: Bảng giá ca máy và thiết bị thi công xây dựng công bố Phần II: Giá ca máy và thiết bị thi công xây dựng thị trường - Bảng 19: Tiền lương, nhiên liệu, năng lượng - Bảng 20: Hệ số nhiên liệu phụ - Bảng 21: Bảng giá ca máy và thiết bị thi công xây dựng thị trường Mẫu số 11: Dữ liệu đơn giá xây dựng công trình - Bảng 22: Nhiên liệu, năng lượng - Bảng 23: Hệ số nhiên liệu phụ - Bảng 24: Đơn giá xây dựng công trình Mẫu số 12: Dữ liệu chỉ số giá xây dựng - Bảng 25: Chỉ số giá xây dựng vùng, quốc gia - Bảng 26: Chỉ số giá xây dựng công trình - Bảng 27: Chỉ số giá phần xây dựng - Bảng 28: Chỉ số giá vật liệu, nhân công, máy thi công - Bảng 29: Chỉ số giá vật liệu xây dựng Mẫu số 13: Dữ liệu dự án đầu tư xây dựng và hợp đồng xây dựng - Bảng 30: Dự án đầu tư xây dựng và hợp đồng xây dựng Mẫu số 1\nDỮ LIỆU ĐỊNH MỨC SỬ DỤNG VẬT LIỆU\n(Kèm theo Thông tư số 12/2019/TT-BXD ngày 26 tháng 12 năm 2019 của Bộ Xây dựng)\n1. Cơ quan ban hành/công bố:\n2. Ngày tháng văn bản:\n3. Số hiệu văn bản:\n4. Hiệu lực:\nBẢNG\n1\nĐỊNH MỨC SỬ DỤNG VẬT LIỆU\nMã hiệu Loại công trình Nhóm công trình Hạng mục, bộ phận kết cấu công trình Công tác xây dựng Công nghệ Thông số kỹ thuật Đơn vị tính Vật liệu sử dụng Đơn vị Khối lượng Mẫu số 2\nDỮ LIỆU ĐỊNH MỨC NĂNG SUẤT LAO ĐỘNG\n(Kèm theo Thông tư số 12/2019/TT-BXD ngày 26 tháng 12 năm 2019 của Bộ Xây dựng)\n1. Cơ quan ban hành/công bố:\n2. Ngày tháng văn bản:\n3. Số hiệu văn bản:\n4. Hiệu lực:\nBẢNG\n2\nĐỊNH MỨC NĂNG SUẤT LAO ĐỘNG\nMã hiệu Loại công trình Nhóm công trình Hạng mục, bộ phận kết cấu công trình Công tác xây dựng Công nghệ Thông số kỹ thuật Đơn vị tính Nhân công Đơn vị Khối lượng 1 2 3 4 5 6 7 8 9 10 11 Ghi chú: Nội dung định mức năng suất lao động theo quy định tại Thông tư số 09/2019/TT-BXD ngày 26/12/2019 của Bộ Xây dựng. Mẫu số 3\nDỮ LIỆU ĐỊNH MỨC NĂNG SUẤT MÁY VÀ THIẾT BỊ THI CÔNG\n(Kèm theo Thông tư số 12/2019/TT-BXD ngày 26 tháng 12 năm 2019 của Bộ Xây dựng)\n1. Cơ quan ban hành/công bố:\n2. Ngày tháng văn bản:\n3. Số hiệu văn bản:\n4. Hiệu lực:\nBẢNG\n3\nĐỊNH\nMỨC NĂNG SUẤT MÁY VÀ THIẾT BỊ THI CÔNG\nMã hiệu Loại công trình Nhóm công trình Hạng mục, bộ phận kết cấu công trình Công tác xây dựng Công nghệ Thông số kỹ thuật Đơn vị tính Máy/thiết bị thi công sử dụng Đơn vị Khối lượng Ghi chú: Nội dung định mức năng suất máy và thiết bị thi công theo quy định tại Thông tư số 09/2019/TT-BXD ngày 26/12/2019 của Bộ Xây dựng. Mẫu số 4\nDỮ LIỆU ĐỊNH MỨC DỰ TOÁN XÂY DỰNG CÔNG TRÌNH\n(Kèm theo Thông tư số 12/2019/TT-BXD ngày 26 tháng 12 năm 2019 của Bộ Xây dựng)\n1. Cơ quan ban hành/công bố:\n2. Ngày tháng văn bản:\n3. Số hiệu văn bản:\n4. Hiệu lực:\nBẢNG\n4\nĐỊNH\nMỨC DỰ TOÁN XÂY DỰNG CÔNG TRÌNH\nMã hiệu Loại công trình Nhóm công trình Hạng mục, bộ phận kết cấu công trình Tên công tác Công nghệ Thông số kỹ thuật Đơn vị tính Thành phần hao phí Đơn vị Khối lượng\nBẢNG\n5\nHỆ SỐ ĐIỀU CHỈNH\nNội dung Hệ số Ghi chú Mẫu số 05\nDỮ LIỆU ĐỊNH MỨC CHI PHÍ QUẢN LÝ DỰ ÁN VÀ TƯ VẤN ĐẦU TƯ\nXÂY DỰNG CÔNG TRÌNH\n(Kèm theo Thông tư số 12/2019/TT-BXD ngày 26 tháng 12 năm 2019 của Bộ Xây dựng)\n1. Cơ quan ban hành/công bố:\n2. Ngày tháng văn bản:\n3. Số hiệu văn bản:\n4. Hiệu lực:\nBẢNG\n6\nĐỊNH\nMỨC CHI PHÍ QUẢN LÝ DỰ ÁN VÀ TƯ VẤN ĐẦU TƯ XÂY DỰNG CÔNG TRÌNH\nTên định mức Loại công trình Chi phí xây dựng và thiết bị (chưa có thuế GTGT) (tỷ đồng) Định mức chi phí (%) Giá trị tuyệt đối Hệ số điều chỉnh Hệ số thứ 1 Hệ số thứ 2 Hệ số thứ 3 Hệ số thứ n Mẫu số 05\nDỮ LIỆU ĐỊNH MỨC CHI PHÍ QUẢN LÝ DỰ ÁN VÀ TƯ VẤN ĐẦU TƯ\nXÂY DỰNG CÔNG TRÌNH\n(Kèm theo Thông tư số 12/2019/TT-BXD ngày 26 tháng 12 năm 2019 của Bộ Xây dựng)\n1. Cơ quan ban hành/công bố:\n2. Ngày tháng văn bản:\n3. Số hiệu văn bản:\n4. Hiệu lực:\nBẢNG\n7\nĐỊNH\nMỨC CHI PHÍ THIẾT KẾ XÂY DỰNG\nTên định mức Loại công trình Cấp công trình Chi phí xây dựng (chưa có thuế GTGT) (tỷ đồng) Định mức chi phí (%) theo chi phí xây dựng Chi phí xây dựng (chưa có thuế GTGT) (tỷ đồng) Định mức chi phí (%) theo chi phí thiết bị Giá trị tuyệt đối Hệ số điều chỉnh Hệ số thứ 1 Hệ số thứ 2 Hệ số thứ n Mẫu số 06\nDỮ LIỆU ĐỊNH MỨC CHI PHÍ GIÁN TIẾP\n(Kèm theo Thông tư số 12/2019/TT-BXD ngày 26 tháng 12 năm 2019 của Bộ Xây dựng)\n1. Cơ quan ban hành/công bố:\n2. Ngày tháng văn bản:\n3. Số hiệu văn bản:\n4. Hiệu lực:\nBẢNG\n8\nĐỊNH MỨC CHI PHÍ GIÁN TIẾP\nTên định mức Loại công trình Chi phí xây dựng và thiết bị (chưa có thuế GTGT) (tỷ đồng) Chi phí xây dựng (chưa có thuế GTGT) (tỷ đồng) Chi phí thiết bị (chưa có thuế GTGT) (tỷ đồng) Định mức chi phí (%) Hệ số điều chỉnh Mẫu số 07\nDỮ LIỆU SUẤT VỐN ĐẦU TƯ XÂY DỰNG CÔNG TRÌNH VÀ GIÁ XÂY\nDỰNG TỔNG HỢP BỘ PHẬN KẾT CẤU CÔNG TRÌNH\n(Kèm theo Thông tư số 12/2019/TT-BXD ngày 26 tháng 12 năm 2019 của Bộ Xây dựng)\n1. Cơ quan ban hành/công bố:\n2. Phạm vi (toàn quốc/vùng/tỉnh):\n3. Số hiệu văn bản:\n4. Ngày tháng văn bản:\n5. Hiệu lực:\nBẢNG\n9\nSUẤT\nVỐN ĐẦU TƯ XÂY DỰNG CÔNG TRÌNH\nMã hiệu Loại công trình Nhóm công trình Công trình Đơn vị Suất vốn đầu tư Chi phí xây dựng Chi phí thiết bị 1 2 3 4 5 6 7 8\nBẢNG\n10\nHỆ\nSỐ ĐIỀU CHỈNH SUẤT VỐN ĐẦU TƯ XÂY DỰNG CÔNG TRÌNH\nStt Nội dung Hệ số 1 2 3 Mẫu số 07\nDỮ LIỆU SUẤT VỐN ĐẦU TƯ XÂY DỰNG CÔNG TRÌNH VÀ GIÁ XÂY\nDỰNG TỔNG HỢP BỘ PHẬN KẾT CẤU CÔNG TRÌNH\n(Kèm theo Thông tư số 12/2019/TT-BXD ngày 26 tháng 12 năm 2019 của Bộ Xây dựng)\n1. Cơ quan ban hành/công bố:\n2. Phạm vi (toàn quốc/vùng/tỉnh):\n3. Số hiệu văn bản:\n4. Ngày tháng văn bản:\n5. Hiệu lực:\nBẢNG\n11\nGIÁ\nXÂY DỰNG TỔNG HỢP BỘ PHẬN KẾT CẤU CÔNG TRÌNH\nMã hiệu Loại công trình Nhóm công trình Công trình Bộ phận kết cấu Đơn vị Giá bộ phận kết cấu Ghi chú 1 2 3 4 5 6 7 8 Mẫu số 08\nDỮ LIỆU GIÁ VẬT LIỆU XÂY DỰNG\n(Kèm theo Thông tư số: 12/2019/TT-BXD ngày 26 tháng 12 năm 2019 của Bộ Xây dựng)\n1. Tỉnh/thành phố:\n2. Tổ chức ban hành/công bố:\n3. Ngày tháng văn bản:\n4. Số hiệu văn bản:\n5. Hiệu lực:\nBẢNG\n12\nGIÁ\nVẬT LIỆU XÂY DỰNG CÔNG BỐ\nMã hiệu Huyện Nhóm vật liệu Tên vật liệu Đơn vị tính Chỉ tiêu kỹ thuật Quy cách Thương hiệu Xuất xứ Điều kiện thương mại Vận chuyển Giá 1 2 3 4 5 6 7 8 9 10 11 12 Ghi chú: giá tại cột số 12 \"Giá\" chưa bao gồm thuế giá trị gia tăng (VAT). Mẫu số 08\nDỮ LIỆU GIÁ VẬT LIỆU XÂY DỰNG\n(Kèm theo Thông tư số 12/2019/TT-BXD ngày 26 tháng 12 năm 2019 của Bộ Xây dựng)\n1. Tỉnh/thành phố:\n2. Tổ chức ban hành/công bố:\n3. Ngày tháng văn bản:\n4. Số hiệu văn bản:\n5. Hiệu lực:\nBẢNG\n13\nGIÁ\nVẬT LIỆU XÂY DỰNG THỊ TRƯỜNG\nMã hiệu Huyện Nhóm vật liệu Tên vật liệu Đơn vị tính Chỉ tiêu kỹ thuật Quy cách Thương hiệu Xuất xứ Điều kiện thương mại Vận chuyển Dự án/công trình Giá 1 2 3 4 5 6 7 8 9 10 11 12 13 Ghi chú: giá tại cột số 12 \"Giá\" chưa bao gồm thuế giá trị gia tăng (VAT). Mẫu số 09\nDỮ LIỆU ĐƠN GIÁ NHÂN CÔNG XÂY DỰNG\n(Kèm theo Thông tư số 12/2019/TT-BXD ngày 26 tháng 12 năm 2019 của Bộ Xây dựng)\nBẢNG\n14\nĐƠN GIÁ NHÂN CÔNG XÂY DỰNG\n1. Tỉnh/thành phố:\n2. Tổ chức ban hành/công bố:\n3. Ngày tháng văn bản:\n4. Số hiệu văn bản:\n5. Hiệu lực:\nMã hiệu Vùng Khu vực Huyện Nhóm Loại công việc Cấp bậc Trình độ Điều kiện làm việc Đơn vị Đơn giá 1 2 3 4 5 6 7 8 9 10 11 Ghi chú: - Đơn vị: ngày công, giờ công; - Đơn giá: tính theo đồng Việt Nam. Mẫu số 09\nDỮ LIỆU ĐƠN GIÁ NHÂN CÔNG XÂY DỰNG\n(Kèm theo Thông tư số 12/2019/TT-BXD ngày 26 tháng 12 năm 2019 của Bộ Xây dựng)\nBẢNG\n15\nĐƠN\nGIÁ NHÂN CÔNG TƯ VẤN XÂY DỰNG\n1. Tỉnh/thành phố:\n2. Tổ chức ban hành/công bố:\n3. Ngày tháng văn bản:\n4. Số hiệu văn bản:\n5. Hiệu lực:\nMã hiệu Tư vấn trong nước/ngoài nước Công việc tư vấn Trình độ Điều kiện làm việc Tỉnh Huyện Đơn vị Đơn giá 1 2 3 4 5 6 7 8 9 Ghi chú: - Đơn vị: ngày công, giờ công; - Đơn giá: tính theo đồng Việt Nam. Mẫu số 10\nDỮ LIỆU GIÁ CA MÁY VÀ THIẾT BỊ THI CÔNG XÂY DỰNG\nPHẦN I: GIÁ CA MÁY VÀ THIẾT BỊ THI CÔNG XÂY DỰNG\nCÔNG BỐ\n(Kèm theo Thông tư số 12/2019/TT-BXD ngày 26 tháng 12 năm 2019 của Bộ Xây dựng)\n1. Tỉnh/thành phố:\n2. Huyện:\n3. Thời gian:\n4. Số hiệu văn bản:\n5. Hiệu lực:\nBẢNG\n16\nTIỀN LƯƠNG, NHIÊN LIỆU, NĂNG LƯỢNG\nNội dung Đơn giá Mức lương Xăng Dầu Diezel Dầu Mazut Điện\nBẢNG\n17\nHỆ SỐ NHIÊN LIỆU PHỤ\nNội dung Hệ số Động cơ xăng Động cơ Diezel Động cơ điện\nBẢNG\n18\nBẢNG\nGIÁ CA MÁY VÀ THIẾT BỊ THI CÔNG XÂY DỰNG CÔNG BỐ\nMã hiệu Máy và thiết bị thi công Định mức chi phí gián tiếp (%) Định mức chi phí trực tiếp Giá ca máy (đồng) Khấu hao Sửa chữa Chi phí khác Tiêu hao nhiên liệu, năng lượng Nhân công điều khiển máy Chi phí nhiên liệu, năng lượng Chi phí tiền lương Tổng số 1 2 3 4 5 6 7 8 9 10 Mẫu số 10\nDỮ LIỆU GIÁ CA MÁY VÀ THIẾT BỊ THI CÔNG XÂY DỰNG\nPHẦN II: GIÁ CA MÁY VÀ THIẾT BỊ THI CÔNG XÂY DỰNG\nTHỊ TRƯỜNG\n(Kèm theo Thông tư số 12/2019/TT-BXD ngày 26 tháng 12 năm 2019 của Bộ Xây dựng)\n1. Tỉnh/thành phố:\n2. Huyện:\n3. Thời gian:\n4. Số hiệu văn bản:\n5. Hiệu lực:\nBẢNG\n19\nTIỀN LƯƠNG, NHIÊN LIỆU, NĂNG LƯỢNG\nNội dung Đơn giá Mức lương Xăng Dầu Diezel Dầu Mazut Điện\nBẢNG\n20\nHỆ SỐ NHIÊN LIỆU PHỤ\nNội dung Hệ số Động cơ xăng Động cơ Diezel Động cơ điện\nBẢNG\n21\nBẢNG\nGIÁ CA MÁY VÀ THIẾT BỊ THI CÔNG XÂY DỰNG THỊ TRƯỜNG\nMã hiệu Máy và thiết bị thi công Thương hiệu Xuất xứ Định mức chi phí gián tiếp (%) Định mức chi phí trực tiếp Giá ca máy (đồng) Khấu hao Sửa chữa Chi phí khác Tiêu hao nhiên liệu, năng lượng Nhân công điều khiển máy Chi phí nhiên liệu, năng lượng Chi phí tiền lương Tổng số 1 2 3 4 5 6 7 8 9 10 11 12 Mẫu số 11\nDỮ LIỆU ĐƠN GIÁ XÂY DỰNG CÔNG TRÌNH\n(Kèm theo Thông tư số 12/2019/TT-BXD ngày 26 tháng 12 năm 2019 của Bộ Xây dựng)\n1. Tỉnh/Bộ chuyên ngành:\n2. Thời gian:\n3. Số hiệu văn bản:\n4. Hiệu lực:\nBẢNG\n22\nNHIÊN LIỆU, NĂNG LƯỢNG\nNội dung Đơn vị tính Đơn giá Xăng Dầu Diezel Dầu Mazut Điện\nBẢNG\n23\nHỆ SỐ NHIÊN LIỆU PHỤ\nNội dung Hệ số Động cơ xăng Động cơ Diezel Động cơ điện\nBẢNG\n24\nĐƠN GIÁ XÂY DỰNG CÔNG TRÌNH\nMã hiệu Công tác Đơn vị Vật liệu (đồng) Nhân công (đồng) Máy (đồng) Đơn giá (đồng) 1 2 3 4 5 6 7 Mẫu số 12\nDỮ LIỆU CHỈ SỐ GIÁ XÂY DỰNG\n(Kèm theo Thông tư số 12/2019/TT-BXD ngày 26 tháng 12 năm 2019 của Bộ Xây dựng)\nBẢNG\n25\nCHỈ\nSỐ GIÁ XÂY DỰNG VÙNG, QUỐC GIA\n1. Cơ quan ban hành/công bố:\n2. Thời gian:\n3. Hiệu lực:\nĐơn vị: % Mã hiệu Loại công trình Chỉ số giá vùng/quốc gia quý ... năm ….so với: Năm gốc 20… Cùng kỳ năm trước Quý trước Mẫu số 12\nDỮ LIỆU CHỈ SỐ GIÁ XÂY DỰNG\n(Kèm theo Thông tư số 12/2019/TT-BXD ngày 26 tháng 12 năm 2019 của Bộ Xây dựng)\nBẢNG\n26\nCHỈ\nSỐ GIÁ XÂY DỰNG CÔNG TRÌNH\n1. Cơ quan ban hành/công bố:\n2. Thời gian:\n3. Hiệu lực:\nĐơn vị: % Mã hiệu Loại công trình Chỉ số giá tháng (quý, năm) so với Năm gốc 20…. Tháng (quý, năm) trước Mẫu số 12\nDỮ LIỆU CHỈ SỐ GIÁ XÂY DỰNG\n(Kèm theo Thông tư số 12/2019/TT-BXD ngày 26 tháng 12 năm 2019 của Bộ Xây dựng)\nBẢNG\n27\nCHỈ SỐ GIÁ PHẦN XÂY DỰNG\n1. Cơ quan ban hành/công bố:\n2. Thời gian:\n3. Hiệu lực:\nĐơn vị: % Mã hiệu Loại công trình Chỉ số giá tháng (quý, năm) so với Năm gốc 20…. Tháng (quý, năm) trước Mẫu số 12\nDỮ LIỆU CHỈ SỐ GIÁ XÂY DỰNG\n(Kèm theo Thông tư số 12/2019/TT-BXD ngày 26 tháng 12 năm 2019 của Bộ Xây dựng)\nBẢNG\n28\nCHỈ\nSỐ GIÁ VẬT LIỆU, NHÂN CÔNG, MÁY THI CÔNG\n1. Cơ quan ban hành/công bố:\n2. Thời gian:\n3. Hiệu lực:\nĐơn vị: % Mã hiệu Loại công trình Chỉ số giá tháng (quý, năm) so với Năm gốc 20…. Tháng (quý, năm) trước Vật liệu Nhân công Máy TC Vật liệu Nhân công Máy TC Mẫu số 12\nDỮ LIỆU CHỈ SỐ GIÁ XÂY DỰNG\n(Kèm theo Thông tư số 12/2019/TT-BXD ngày 26 tháng 12 năm 2019 của Bộ Xây dựng)\nBẢNG\n29\nCHỈ\nSỐ GIÁ VẬT LIỆU XÂY DỰNG\n1. Cơ quan ban hành/công bố:\n2. Thời gian:\n3. Hiệu lực:\nĐơn vị: % Mã hiệu Loại vật liệu Chỉ số giá tháng (quý, năm) so với Năm gốc 20…. Tháng (quý, năm) trước Mẫu số 13\nDỮ LIỆU DỰ ÁN ĐẦU TƯ XÂY DỰNG VÀ HỢP ĐỒNG XÂY DỰNG\n(Kèm theo Thông tư số 12/2019/TT-BXD ngày 26 tháng 12 năm 2019 của Bộ Xây dựng)\nBẢNG\n30\nDỰ\nÁN ĐẦU TƯ XÂY DỰNG VÀ HỢP ĐỒNG XÂY DỰNG\nGói thầu Dự án/công trình Địa điểm Tổng mức đầu tư Giá gói thầu Giá trúng thầu Hình thức lựa chọn nhà thầu Giá trị hợp đồng Ngày ký hợp đồng Giá trị quyết toán 1 2 3 4 5 6 7 8 9 10",
+            "indexable": true
+          }
+        ]
+      },
+      {
+        "part_id": "doc:181225:part:4",
+        "part_type": "appendix",
+        "part_title": "PHỤ LỤC II",
+        "reference": null,
+        "direct_text": null,
+        "chapters": [],
+        "sections": [],
+        "articles": [],
+        "unstructured_blocks": [
+          {
+            "block_id": "doc:181225:part:4:block:1",
+            "content": "PHỤ LỤC II\nPHƯƠNG PHÁP XÁC ĐỊNH MÃ HIỆU\n(Kèm theo Thông tư số 12/2019/TT-BXD ngày 26/12/2019 của Bộ Xây dựng) I. Nguyên tắc chung Mã hiệu của hệ thống cơ sở dữ liệu về định mức, giá xây dựng và chỉ số giá xây dựng là một chuỗi ký tự, bao gồm cả ký tự chữ và ký tự số. II. Mã hiệu\n1. Mã hiệu định mức cơ sở\nMã hiệu định mức là một dãy số gồm 5 thành phần chữ số được phân tách nhau bởi dấu “.” (tương đương với phân cấp\ndanh mục định mức), trong đó:\n- Cấp 1: dùng cho loại công trình; - Cấp 2: dùng cho nhóm công trình; - Cấp 3: dùng cho hạng mục, bộ phận kết cấu công trình; - Cấp 4: dùng cho công tác xây dựng; - Cấp 5: dùng cho công nghệ, kỹ thuật thi công.\n2. Mã hiệu suất vốn đầu tư\nxây dựng công trình Mã hiệu suất vốn đầu tư là một dãy số gồm 5 thành phần chữ số được phân tách nhau bởi dấu “.”, trong đó: - Cấp 1: dùng cho địa bàn áp dụng; - Cấp 2: dùng cho loại công trình; - Cấp 3: dùng cho nhóm công trình; - Cấp 4: dùng cho công trình; - Cấp 5: dùng cho các điều chỉnh nếu có.\n3. Mã hiệu giá xây dựng tổng\nhợp bộ phận kết cấu công trình Mã hiệu giá xây dựng tổng hợp bộ phận kết cấu công trình là một dãy số gồm 5 thành phần chữ số được phân tách nhau bởi dấu “.”, trong đó: - Cấp 1: dùng cho địa bàn áp dụng; - Cấp 2: dùng cho loại công trình; - Cấp 3: dùng cho nhóm công trình; - Cấp 4: dùng cho công trình; - Cấp 5: dùng cho bộ phận kết cấu.\n4. Mã hiệu giá vật liệu xây\ndựng 4.1. Mã hiệu giá vật liệu xây dựng công bố Mã hiệu giá vật liệu xây dựng công bố là một dãy số gồm 9 thành phần chữ số được phân tách nhau bởi dấu “.”, trong đó: - Cấp 1: dùng cho cấp tỉnh nơi bán vật liệu; - Cấp 2: dùng cho cấp huyện; - Cấp 3: dùng cho nhóm vật liệu; - Cấp 4: dùng cho tên vật liệu; - Cấp 5: dùng cho chỉ tiêu kỹ thuật; - Cấp 6: dùng cho quy cách; - Cấp 7: dùng cho thương hiệu vật liệu; - Cấp 8: dùng cho xuất xứ của vật liệu; - Cấp 9: dùng cho điều kiện thương mại; 4.2. Mã hiệu giá vật liệu xây dựng thị trường Mã hiệu giá vật liệu xây dựng thị trường là một dãy số gồm 10 thành phần chữ số được phân tách nhau bởi dấu “.”, trong đó: - Cấp 1: dùng cho cấp tỉnh nơi bán vật liệu; - Cấp 2: dùng cho cấp huyện; - Cấp 3: dùng cho nhóm vật liệu; - Cấp 4: dùng cho tên vật liệu; - Cấp 5: dùng cho chỉ tiêu kỹ thuật; - Cấp 6: dùng cho quy cách; - Cấp 7: dùng cho thương hiệu vật liệu; - Cấp 8: dùng cho xuất xứ của vật liệu; - Cấp 9: dùng cho điều kiện thương mại; - Cấp 10: dùng cho dự án/công trình;\n5. Mã hiệu đơn giá nhân công\nxây dựng Mã hiệu giá nhân công xây dựng là một dãy số gồm 9 thành phần chữ số được phân tách nhau bởi dấu “.”, trong đó: - Cấp 1: dùng cho vùng; - Cấp 2: dùng cho tỉnh; - Cấp 3: dùng cho huyện; - Cấp 4: dùng cho loại nhân công (nhân công xây dựng/nhân công tư vấn xây dựng); - Cấp 5: dùng cho nhóm nhân công xây dựng/nhóm chức danh tư vấn xây dựng; - Cấp 6: dùng cho cấp bậc nhân công; - Cấp 7: dùng cho loại công việc; - Cấp 8: dùng cho điều kiện làm việc; - Cấp 9: dùng cho dự án/công trình sử dụng nhân công.\n6. Mã hiệu giá ca máy và thiết\nbị thi công xây dựng Mã hiệu giá ca máy và thiết bị thi công xây dựng là một dãy số gồm 6 thành phần chữ số được phân tách nhau bởi dấu “.”, trong đó: - Cấp 1: dùng cho tỉnh; - Cấp 2: dùng cho huyện; - Cấp 3: dùng cho nhóm máy/thiết bị thi công xây dựng; - Cấp 4: dùng cho loại máy/thiết bị thi công xây dựng; - Cấp 5: dùng cho xuất xứ máy/thiết bị thi công xây dựng; - Cấp 6: dùng cho dự án sử dụng máy/thiết bị thi công xây dựng.\n7. Mã hiệu chỉ số giá xây dựng\nMã hiệu chỉ số giá là một dãy số gồm 5 thành phần chữ số được phân tách nhau bởi dấu “.”, trong đó: - Cấp 1: dùng cho loại chỉ số giá; - Cấp 2: dùng cho vùng quốc gia/vùng địa lý/tỉnh; - Cấp 3: dùng cho huyện; - Cấp 4: dùng cho loại công trình; - Cấp 5: dùng cho dự án/công trình.",
+            "indexable": true
+          }
+        ]
+      }
+    ]
+  },
+  "issues": [],
+  "status": "ok",
+  "source_hash": "context_181225.json",
+  "stats": {
+    "source_chars": 36262,
+    "passage_chars": 36110,
+    "parts": 4,
+    "chapters": 3,
+    "sections": 0,
+    "articles": 11,
+    "clauses": 31,
+    "points": 36
+  }
+}

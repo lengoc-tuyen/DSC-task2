@@ -1,0 +1,67 @@
+{
+  "schema_version": "2.0",
+  "document_id": 182731,
+  "metadata": {
+    "name": null,
+    "link": "https://thuvienphapluat.vn/tcvn/Hoa-chat/TCVN-2618-1993-amoniac-long-tong-hop-phuong-phap-xac-dinh-901123.aspx",
+    "issuing_agency": null,
+    "national_header": null,
+    "motto": null,
+    "document_number": null,
+    "issued_place": null,
+    "issued_date": null,
+    "document_type": null,
+    "title": null
+  },
+  "administrative_header": {
+    "removed": false,
+    "removed_char_count": 0
+  },
+  "preamble": {
+    "text": null,
+    "legal_bases": [],
+    "proposals": [],
+    "enactment_formula": null
+  },
+  "passage": "X =\nm.100.1000.K\nV.50 X =\nm.100.1000.K\nV.50\nTrong đó : m-hàm lượng sắt, tìm được theo đồ thị; 100-dung tích bình định mức, ml K-hệ số bay hơi theo bảng phụ lục 4 TCVN 2616-1993 50-thể tích dung dịch thử, ml V - thể tích mẫu amoniac, lỏng, ml 6.2 Kết quả cuối cùng của phép thử là trung bình cộng các kết quả của hai phép xác định song song, sai lệch cho phép giữa chúng không được vượt quá 0,15 mg/l ở xác suất P = 0,95",
+  "tree": {
+    "parts": [
+      {
+        "part_id": "doc:182731:part:1",
+        "part_type": "main",
+        "part_title": null,
+        "reference": null,
+        "direct_text": null,
+        "chapters": [],
+        "sections": [],
+        "articles": [],
+        "unstructured_blocks": [
+          {
+            "block_id": "doc:182731:part:1:block:1",
+            "content": "X =\nm.100.1000.K\nV.50 X =\nm.100.1000.K\nV.50\nTrong đó : m-hàm lượng sắt, tìm được theo đồ thị; 100-dung tích bình định mức, ml K-hệ số bay hơi theo bảng phụ lục 4 TCVN 2616-1993 50-thể tích dung dịch thử, ml V - thể tích mẫu amoniac, lỏng, ml 6.2 Kết quả cuối cùng của phép thử là trung bình cộng các kết quả của hai phép xác định song song, sai lệch cho phép giữa chúng không được vượt quá 0,15 mg/l ở xác suất P = 0,95",
+            "indexable": true
+          }
+        ]
+      }
+    ]
+  },
+  "issues": [
+    {
+      "code": "no_articles",
+      "message": "no articles parsed",
+      "severity": "warning"
+    }
+  ],
+  "status": "ok",
+  "source_hash": "context_182731.json",
+  "stats": {
+    "source_chars": 419,
+    "passage_chars": 419,
+    "parts": 1,
+    "chapters": 0,
+    "sections": 0,
+    "articles": 0,
+    "clauses": 0,
+    "points": 0
+  }
+}

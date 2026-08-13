@@ -1,0 +1,16 @@
+# Core numerical and model runtime
+numpy>=1.26
+torch>=2.4
+transformers>=4.46
+sentence-transformers>=3.0
+accelerate>=1.0
+
+# Dense vector search using IndexFlatIP
+faiss-cpu>=1.8
+
+# Optional 4-bit generation on Linux/Colab GPUs
+bitsandbytes>=0.43; platform_system == "Linux"
+
+# Tests and coverage
+pytest>=8
+pytest-cov>=5

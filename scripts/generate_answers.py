@@ -19,6 +19,7 @@ def main() -> None:
     parser.add_argument("--reranked", type=Path, default=Path("outputs/rag/reranked.jsonl"))
     parser.add_argument("--nodes", type=Path, default=Path("artifacts/rag/nodes.jsonl"))
     parser.add_argument("--output", type=Path, default=Path("outputs/rag/submission.json"))
+    parser.add_argument("--resume-state", type=Path, default=Path("outputs/rag/generation_state.json"))
     parser.add_argument("--model", default=RAGConfig.generator_model)
     parser.add_argument("--device")
     parser.add_argument("--context-top-k", type=int, default=RAGConfig.context_top_k)
@@ -28,7 +29,7 @@ def main() -> None:
     args = parser.parse_args()
     node_lookup = {node.node_id: node for node in load_nodes(args.nodes)}
     records = load_jsonl(args.reranked)
-    completed = json.loads(args.output.read_text(encoding="utf-8")) if args.output.exists() else {}
+    completed = json.loads(args.resume_state.read_text(encoding="utf-8")) if args.resume_state.exists() else {}
     generator = TransformersGenerator(args.model, args.device, args.quantize_4bit)
     for record in records:
         qid = str(record["id"])
@@ -40,7 +41,9 @@ def main() -> None:
         if not answer:
             raise RuntimeError(f"Model returned an empty answer for question {qid}")
         completed = {**completed, qid: {"question": record["question"], "answer": answer}}
-        atomic_write_json(args.output, completed)
+        atomic_write_json(args.resume_state, completed)
+    submission = {qid: {"answer": value["answer"]} for qid, value in completed.items()}
+    atomic_write_json(args.output, submission)
     print(json.dumps({"output": str(args.output), "questions": len(completed)}, ensure_ascii=False))
 
 

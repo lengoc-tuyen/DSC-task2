@@ -1,0 +1,916 @@
+{
+  "schema_version": "2.0",
+  "document_id": 163477,
+  "metadata": {
+    "name": null,
+    "link": "https://thuvienphapluat.vn/tcvn/Cong-nghiep/QCVN-11-2012-BCT-rui-ro-chap-nhan-duoc-cac-hoat-dong-da-u-khi-xang-dau-ho-a-chat-906566.aspx",
+    "issuing_agency": null,
+    "national_header": null,
+    "motto": null,
+    "document_number": null,
+    "issued_place": null,
+    "issued_date": "ngày 28 tháng 12 năm 2012",
+    "document_type": null,
+    "title": null
+  },
+  "administrative_header": {
+    "removed": false,
+    "removed_char_count": 0
+  },
+  "preamble": {
+    "text": "QCVN 11 : 2012/BCT VỀ\nMỨC RỦI RO CHẤP NHẬN ĐƯỢC TRONG ĐÁNH GIÁ ĐỊNH LƯỢNG\nRỦI RO CHO CÁC HOẠT ĐỘNG DẦU KHÍ, XĂNG DẦU, HÓA CHẤT VÀ NHIỆT ĐIỆN\nNational Technical regulation on Risk Acceptance Criteria used for Quantitative Risk Assessment (QRA) of Oil and Gas, Petroleum, Chemicals, Thermal Power Activities Lời nói đầu\nQCVN 11 :\n2012/BCT Quy chuẩn kỹ thuật quốc gia về mức rủi ro chấp nhận được trong đánh giá định lượng rủi ro cho các hoạt động dầu khí, xăng dầu, hóa chất và nhiệt điện do Cục Kỹ thuật an toàn và Môi trường công nghiệp trình duyệt, Bộ Khoa học và Công nghệ thẩm định, Bộ trưởng Bộ Công Thương ban hành theo Thông tư số 50/2012/TT-BCT ngày 28 tháng 12 năm 2012.\nChương I\nQUY ĐỊNH CHUNG",
+    "legal_bases": [],
+    "proposals": [],
+    "enactment_formula": null
+  },
+  "passage": "QCVN 11 : 2012/BCT VỀ\nMỨC RỦI RO CHẤP NHẬN ĐƯỢC TRONG ĐÁNH GIÁ ĐỊNH LƯỢNG\nRỦI RO CHO CÁC HOẠT ĐỘNG DẦU KHÍ, XĂNG DẦU, HÓA CHẤT VÀ NHIỆT ĐIỆN\nNational Technical regulation on Risk Acceptance Criteria used for Quantitative Risk Assessment (QRA) of Oil and Gas, Petroleum, Chemicals, Thermal Power Activities Lời nói đầu\nQCVN 11 :\n2012/BCT Quy chuẩn kỹ thuật quốc gia về mức rủi ro chấp nhận được trong đánh giá định lượng rủi ro cho các hoạt động dầu khí, xăng dầu, hóa chất và nhiệt điện do Cục Kỹ thuật an toàn và Môi trường công nghiệp trình duyệt, Bộ Khoa học và Công nghệ thẩm định, Bộ trưởng Bộ Công Thương ban hành theo Thông tư số 50/2012/TT-BCT ngày 28 tháng 12 năm 2012.\nChương I\nQUY ĐỊNH CHUNG\nĐiều 1. Phạm vi điều chỉnh ... ... ...\nĐiều 2. Đối tượng áp dụng Quy chuẩn này áp dụng đối với các tổ chức, cá nhân tiến hành các hoạt động dầu khí, xăng dầu, hóa chất và nhiệt điện.\nĐiều 3. Giải thích từ ngữ Các từ ngữ trong Quy chuẩn này được hiểu như sau:\n1. Rủi ro: Là sự kết hợp khả năng\nxảy ra các sự cố, tai nạn và hậu quả của chúng.\n2. Mức rủi ro: Là khả năng xảy ra tử\nvong cá nhân do rủi ro trong các hoạt động hoặc công trình gây ra. Ví dụ mức rủi ro 1.00E-0 là khả năng xảy ra rủi ro tử vong 1 người/năm.\n3. Đánh giá rủi ro: Là việc nhận\ndiện, xác định các rủi ro tiềm tàng là cơ sở cho việc đưa ra các biện pháp giảm thiểu rủi ro đến mức hợp lý có thể thực hiện được.\n4. Đánh giá định lượng rủi ro: Là\nviệc phân tích, tính toán tần suất và hậu quả của sự cố dựa trên các phương pháp, dữ liệu đã được công bố và thừa nhận rộng rãi trên thế giới.\n5. Mức rủi ro chấp nhận được: Là\nmức độ rủi ro cho phép đối với con người. ... ... ...\n7. Người thuộc Nhóm I: Là những\nngười làm việc thường xuyên tại công trình.\n8. Người thuộc Nhóm II: Là những\nngười không làm việc tại công trình, nhưng có mặt đột xuất tại công trình như các đoàn kiểm tra, khách tham quan…\n9. Người thuộc Nhóm III: Là những\nngười không làm việc tại công trình nhưng có mặt xung quanh công trình.\n10. Mức rủi ro đương nhiên\nđược chấp nhận: Là mức rủi ro thấp đến mức việc giảm rủi ro không có ý nghĩa về mặt an toàn.\n11. Hư hỏng các chức năng ứng cứu, thoát nạn của công trình\ndầu, khí ngoài khơi: Khi xảy ra sự cố, những thiết bị có chức năng ứng cứu, thoát nạn của công trình dầu, khí ngoài khơi (lối thoát hiểm, khu vực trú ẩn tạm thời, phương tiện rời công trình, tính toàn vẹn của cấu trúc) cần được bảo đảm duy trì. Các thiết bị này phải được duy trì đủ thời gian cho phép con người thoát khỏi khu vực nguy hiểm và sau đó di chuyển an toàn ra khỏi công trình. Trong trường hợp có sự cố, một thiết bị được định nghĩa là “hư hỏng” khi không thể sử dụng đúng công dụng hoặc không giữ được toàn vẹn trong khoảng thời gian nhất định.\nChương II\nQUY ĐỊNH VỀ KỸ THUẬT\nMục 1. CÁC HOẠT ĐỘNG DẦU KHÍ, XĂNG DẦU, HÓA CHẤT VÀ NHIỆT ĐIỆN THEO\nĐẶC ĐIỂM RỦI RO\n... ... ... Các hoạt động thăm dò, khai thác dầu, khí ngoài khơi (không bao gồm hoạt động vận chuyển dầu, khí bằng đường ống từ nơi khai thác, thu gom vào bờ), bao gồm:\n1. Hoạt động tìm kiếm thăm dò (gồm cả các\nhoạt động thu nổ địa chấn), khai thác, thu gom, tồn chứa, xử lý khí dầu, khí;\n2. Hoạt động phát triển mỏ; lắp đặt, hoán\ncải các công trình dầu, khí;\n3. Hoạt động tháo dỡ công trình dầu,\nkhí, thu dọn mỏ, hủy bỏ và làm sạch giếng khoan;\n4. Hoạt động của giàn, tàu thăm dò và\nkhai thác dầu khí; các giàn xử lý khí; các tàu dịch vụ, tàu chứa, xử lý dầu (kho nổi) và các thiết bị phụ trợ đi kèm; Các đường ống dẫn dầu, khí nội mỏ;\n5. Hoạt động dịch vụ kỹ thuật phục vụ trực\ntiếp cho các hoạt động nói trên và các hoạt động khác theo quy định của pháp luật.\nĐiều 5. Các hoạt động vận chuyển dầu, khí và sản phẩm dầu, khí ngoài khơi bằng đường ống Các hoạt động vận chuyển dầu, khí và sản phẩm dầu, khí ngoài khơi bằng đường ống, bao gồm:\n1. Hoạt động liên quan đến việc lắp đặt, vận\nhành đường ống hay hệ thống đường ống vận chuyển dầu, khí và sản phẩm dầu, khí trực tiếp từ nơi khai thác hoặc nơi thu gom tập trung ngoài khơi vào bờ; ... ... ...\nĐiều 6. Các hoạt động vận chuyển dầu, khí, sản phẩm dầu, khí và xăng dầu trên đất liền bằng đường ống Các hoạt động vận chuyển dầu, khí, sản phẩm dầu, khí và xăng dầu trên đất liền, bao gồm:\n1. Hoạt động của hệ thống đường ống và\ncác thiết bị đi kèm để vận chuyển dầu, khí, sản phẩm dầu, khí và xăng dầu từ điểm tiếp bờ (đối với dự án khai thác dầu, khí ngoài khơi) đến nơi tồn chứa, tiêu thụ;\n2. Hoạt động của hệ thống đường ống và\ncác thiết bị đi kèm để vận chuyển dầu, khí, sản phẩm dầu, khí và xăng dầu từ các công trình khai thác hoặc từ điểm thu gom, xử lý, chế biến (đối với dự án trên đất liền) đến nơi tồn chứa, tiêu thụ.\nĐiều 7. Các hoạt động thăm dò, khai thác dầu, khí trên đất liền Các hoạt động thăm dò, khai thác dầu, khí trên đất liền, bao gồm:\n1. Hoạt động tìm kiếm thăm dò, khai thác,\nxử lý dầu, khí tại nơi khai thác;\n2. Hoạt động vận chuyển, thu gom dầu,\nkhí từ nơi khai thác đến nơi thu gom;\n3. Hoạt động phát triển mỏ, lắp đặt, hoán\ncải các công trình thăm dò, khai thác dầu, khí; ... ... ...\n5. Hoạt động dịch vụ kỹ thuật phục vụ trực\ntiếp cho các hoạt động tại khoản 1 đến khoản 4 Điều này và các hoạt động khác theo quy định của pháp luật.\nĐiều 8. Các hoạt động lọc hóa dầu, xử lý và chế biến dầu, khí trên đất liền Các hoạt động lọc hóa dầu, xử lý và chế biến dầu khí trên đất liền, bao gồm:\n1. Hoạt động xây dựng, lắp đặt, vận hành\ncông trình lọc hóa dầu, xử lý, chế biến dầu, khí và các sản phẩm dầu, khí;\n2. Hoạt động hoán cải, dỡ bỏ các công trình\nlọc hóa dầu, xử lý, chế biến dầu, khí và các sản phẩm dầu, khí.\nĐiều 9. Các hoạt động xuất, nhập, tồn chứa dầu, khí, sản phẩm dầu, khí và xăng dầu tại các kho, cảng Các hoạt động xuất, nhập, tồn chứa dầu, khí, sản phẩm dầu, khí và xăng dầu tại các kho, cảng bao gồm:\n1. Hoạt động xây dựng, lắp đặt, vận hành,\nhoán cải, dỡ bỏ các công trình kho, cảng hoặc cụm kho, cảng xuất, nhập, tồn chứa dầu, khí, sản phẩm dầu, khí và xăng dầu;\n2. Hoạt động xuất, nhập dầu, khí, sản phẩm\ndầu, khí và xăng dầu. ... ... ... Các hoạt động hóa chất, bao gồm: Hoạt động xây dựng, lắp đặt, vận hành, hoán cải, dỡ bỏ công trình sản xuất, chế biến hóa chất.\nĐiều 11. Các hoạt động nhiệt điện Các hoạt động nhiệt điện, bao gồm: Hoạt động xây dựng, lắp đặt, vận hành, hoán cải, dỡ bỏ các công trình nhiệt điện than và nhiệt điện khí.\nMục 2. QUY ĐỊNH VỀ\nĐÁNH GIÁ ĐỊNH LƯỢNG RỦI RO CHO CÁC HOẠT ĐỘNG DẦU KHÍ, XĂNG DẦU, HÓA CHẤT VÀ\nNHIỆT ĐIỆN\nĐiều 12. Quy định về đánh giá định lượng rủi ro cho các hoạt động dầu, khí Các hoạt động dầu khí phải đánh giá định lượng rủi ro, bao gồm:\n1. Hoạt động thăm dò, khai thác, tồn chứa, xử\nlý dầu, khí ngoài khơi;\n2. Hoạt động vận chuyển dầu, khí và sản phẩm\ndầu, khí ngoài khơi bằng đường ống;\n3. Hoạt động thăm dò, khai thác, vận chuyển,\nxử lý dầu, khí trên đất liền ... ... ...\nb) Hoạt động xuất, nhập, tồn chứa, chiết nạp,\npha chế dầu, khí và sản phẩm dầu, khí tại các trạm, kho cảng, nơi tồn chứa;\nc) Hoạt động xây dựng, lắp đặt, vận hành,\nhoán cải, thu dọn các công trình dầu khí;\nd) Hoạt động vận chuyển dầu, khí và sản phẩm\ndầu, khí trên đất liền bằng đường ống.\n4. Hoạt động xuất, nhập, tồn chứa dầu, khí\nvà sản phẩm dầu, khí tại các kho, cảng xuất nhập\na) Kho chứa khí dầu mỏ và các sản phẩm khí\ndầu mỏ hoá lỏng: Kho định áp và kho lạnh;\nb) Cảng xuất, nhập cấp 1: Cảng xuất, nhập sản\nphẩm có nhiệt độ chớp cháy bằng hoặc nhỏ hơn 37,80C (LPG, LNG, CNG, xăng các loại, nhiên liệu máy bay, condensate) có khả năng tiếp nhận tàu có tải trọng trên 50.000 DWT;\nc) Cảng xuất, nhập cấp 2: Cảng xuất, nhập sản\nphẩm có nhiệt độ chớp cháy nhỏ hơn hoặc bằng 37,80C (LPG, LNG, CNG, xăng các loại, nhiên liệu máy bay, condensate) có khả năng tiếp nhận tàu có tải trọng nhỏ hơn hoặc bằng 50.000 DWT;\nd) Cảng xuất, nhập cấp 3: Cảng xuất, nhập sản\nphẩm có nhiệt độ chớp cháy lớn hơn 37,80C (dầu hoả, diesel, madut, dầu nhờn) và có khả năng tiếp nhận tàu có tải trọng trên 50.000 DWT.\n5. Hoạt động dịch vụ kỹ thuật phục vụ trực\ntiếp cho các hoạt động từ khoản 1 đến khoản 4 của Điều này. ... ... ... Các hoạt động xăng dầu phải đánh giá định lượng rủi ro, bao gồm:\n1. Hoạt động vận chuyển xăng dầu bằng đường\nống theo áp suất vận hành tối đa cho phép:\na) Đường ống vận chuyển cấp 1: Áp suất bằng\nhoặc lớn hơn 60 bar;\nb) Đường ống vận chuyển cấp 2: Áp suất từ 19\nbar đến nhỏ hơn 60 bar.\n2. Hoạt động pha chế xăng dầu.\n3. Hoạt động tồn chứa xăng dầu tại các kho\nKho chứa xăng dầu có dung tích bằng hoặc lớn hơn 50.000 m3 (Kho cấp 1 và cấp 2).\n4. Hoạt động xây dựng, lắp đặt, vận hành,\nhoán cải các công trình xăng dầu được quy định từ khoản 1 đến khoản 3 Điều này.\nĐiều 14. Quy định về đánh giá định lượng rủi ro cho các hoạt động hoá chất ... ... ...\n1. Hoạt động xây dựng, lắp đặt, vận hành,\nhoán cải, dỡ bỏ các công trình sản xuất phân bón và hoá chất bảo vệ thực vật, gồm có:\na) Nhà máy sản xuất Urê, DAP, MPA, SA, NPK có\ncông suất lớn hơn hoặc bằng 500.000 tấn/năm;\nb) Nhà máy sản xuất phân lân các loại (supe\nlân, lân nung chảy) có công suất lớn hơn hoặc bằng 500.000 tấn/năm;\nc) Nhà máy sản xuất hóa chất bảo vệ thực vật\ncó công suất lớn hơn hoặc bằng 30.000 tấn/năm.\n2. Hoạt động xây dựng, lắp đặt, vận hành,\nhoán cải, dỡ bỏ các công trình sản xuất hoá chất cơ bản, gồm có:\na) Nhà máy sản xuất Amoniac, axit, xút, clo\ncó công suất lớn hơn hoặc bằng 50.000 tấn/năm;\nb) Nhà máy sản xuất sôđa có công suất lớn hơn\nhoặc bằng 200.000 tấn/năm.\n3. Hoạt động xây dựng, lắp đặt, vận hành,\nhoán cải, dỡ bỏ các công trình sản xuất cao su gồm có:\na) Nhà máy sản xuất săm lốp ô tô, máy kéo có\ncông suất lớn hơn hoặc bằng 1.000.000 chiếc/năm. ... ... ...\nc) Nhà máy sản xuất băng tải cao su có công\nsuất lớn hơn hoặc bằng 500.000 m2/năm.\n4. Hoạt động xây dựng, lắp đặt, vận hành,\nhoán cải, dỡ bỏ các công trình sản xuất sản phẩm điện hoá, sơn, gồm có:\na) Nhà máy sản xuất ắcquy có công suất lớn\nhơn hoặc bằng 500.000 Kwh/năm;\nb) Nhà máy sản xuất sơn các loại, nguyên liệu\nnhựa alkyd, acrylic có công suất lớn hơn hoặc bằng 100.000 tấn/năm.\n5. Hoạt động xây dựng, lắp đặt, vận hành,\nhoán cải, dỡ bỏ các công trình sản xuất sản phẩm hoá dầu và hoá chất khác, gồm có:\na) Nhà máy sản xuất hóa dầu (PP, PE, PVC, PS,\nPET, SV, sợi, DOP, Polystyren, LAB) cao su tổng hợp có công suất lớn hơn hoặc bằng 1.000.000 tấn/năm;\nb) Nhà máy sản xuất hóa mỹ phẩm có công suất\nlớn hơn hoặc bằng 100.000 tấn/năm.\n6. Nhà máy sản xuất vật liệu nổ công nghiệp\nvà tiền chất thuốc nổ.\nĐiều 15. Quy định về đánh giá định lượng rủi ro cho các hoạt động nhiệt điện than và nhiệt điện khí ... ... ...\n1. Các hoạt động xây\ndựng, lắp đặt, vận hành, hoán cải, dỡ bỏ các công trình nhiệt điện than, nhiệt điện khí có công suất lớn hơn hoặc bằng 300 MW;\n2. Các hoạt động xây\ndựng, lắp đặt, vận hành, hoán cải, dỡ bỏ các công trình nhiệt điện than, nhiệt điện khí có công suất nhỏ hơn 300 MW nhưng có tổng dung tích kho chứa dầu lớn hơn 10.000 m3.\nMục 3. QUY ĐỊNH VỀ\nMỨC RỦI RO CHẤP NHẬN ĐƯỢC CHO CÁC HOẠT ĐỘNG DẦU KHÍ, XĂNG DẦU, HÓA CHẤT\nVÀ NHIỆT ĐIỆN\nĐiều\n16. Quy định chung\nViệc đánh giá định lượng rủi ro để đưa ra mức rủi ro cho các hoạt động dầu khí, xăng dầu, hoá chất và nhiệt điện được thực hiện theo phương pháp luận đánh giá định lượng rủi ro quy định tại Phụ lục kèm theo Quy chuẩn này. Điều\n17. Quy định về mức rủi ro chấp nhận được cho các hoạt động thăm dò, khai thác,\ntồn chứa, xử lý dầu, khí ngoài khơi\n1. Mức rủi ro được\nchấp nhận cao nhất: 1.00E-03.\n2. Mức rủi ro đương\nnhiên được chấp nhận: 1.00E-05.\n3. Mức rủi ro hư hỏng\nthiết bị có chức năng ứng cứu, thoát nạn chấp nhận được cao nhất: 1.00E-03. ... ... ...\n1. Mức rủi ro được\nchấp nhận cao nhất: 1.00E-03.\n2. Mức rủi ro đương nhiên được chấp nhận:\n1.00E-05.\nĐiều 19. Quy định về mức rủi ro chấp nhận được cho các hoạt động vận chuyển dầu, khí và sản phẩm dầu, khí trên đất liền bằng đường ống\n1. Đối với người thuộc\nNhóm I\na) Mức rủi ro được chấp nhận cao nhất:\n1.00E-03;\nb) Mức rủi ro đương nhiên được chấp nhận:\n1.00E-06.\n2. Đối với người thuộc Nhóm III\na) Mức rủi ro được chấp nhận cao nhất:\n1.00E-04;\nb) Mức rủi ro đương nhiên được chấp nhận:\n1.00E-06.\n... ... ...\n1. Đối với người thuộc\nNhóm I\na) Mức rủi ro được chấp nhận cao nhất:\n1.00E-03;\nb) Mức rủi ro đương nhiên được chấp nhận:\n1.00E-06.\n2. Đối với người thuộc Nhóm III\na) Mức rủi ro được chấp nhận cao nhất:\n5.00E-05;\nb) Mức rủi ro đương nhiên được chấp nhận:\n1.00E-06.\nĐiều 21. Quy định về mức rủi ro chấp nhận được cho các hoạt động lọc hóa dầu, xử lý và chế biến dầu, khí\n1. Đối với người thuộc\nNhóm I\na) Mức rủi ro được chấp nhận cao\nnhất: 1.00E-03; ... ... ...\n2. Đối với người thuộc Nhóm III\na) Mức rủi ro được chấp nhận cao nhất:\n5.00E-05;\nb) Mức rủi ro đương nhiên được chấp nhận:\n1.00E-06.\nĐiều 22. Quy định về mức rủi ro chấp nhận được cho các hoạt động xuất, nhập, tồn chứa dầu, khí, sản phẩm dầu, khí và xăng dầu tại các trạm, kho cảng, nơi tồn chứa.\n1. Đối với người thuộc Nhóm I\na) Mức rủi ro được chấp nhận cao nhất:\n1.00E-03;\nb) Mức rủi ro đương nhiên được chấp nhận:\n1.00E-06.\n2. Đối với người thuộc Nhóm III\na) Mức rủi ro được chấp nhận cao nhất:\n5.00E-05;\n... ... ...\nĐiều 23. Quy định về mức rủi ro chấp nhận được cho các hoạt động hoá chất\n1. Đối với người thuộc Nhóm I\na) Mức rủi ro được chấp nhận cao nhất:\n1.00E-03;\nb) Mức rủi ro đương nhiên được chấp nhận:\n1.00E-06.\n2. Đối với người thuộc Nhóm III\na) Mức rủi ro được chấp nhận cao nhất:\n5.00E-05;\nb) Mức rủi ro đương nhiên được chấp nhận:\n1.00E-06.\nĐiều 24. Quy định về mức rủi ro chấp nhận được cho các hoạt động nhiệt điện than và nhiệt điện khí\n1. Đối với người thuộc Nhóm I\n... ... ...\nb) Mức rủi ro đương nhiên được chấp nhận:\n1.00E-06.\n2. Đối với người thuộc Nhóm III\na) Mức rủi ro được chấp nhận cao nhất:\n1.00E-04;\nb) Mức rủi ro đương nhiên được chấp nhận:\n1.00E-06.\nChương III\nTỔ CHỨC THỰC HIỆN\nĐiều 25. Trách nhiệm của cơ quan quản lý nhà nước\n1. Cục Kỹ thuật an toàn và Môi trường\ncông nghiệp thực hiện các nhiệm vụ sau:\na) Thực hiện quản lý về an toàn trong\nđánh giá định lượng rủi ro cho các hoạt động dầu, khí, xăng dầu, hoá chất và nhiệt điện. ... ... ...\nc) Căn cứ vào yêu cầu quản lý và kiến\nnghị của các tổ chức, cá nhân báo cáo Bộ trưởng Bộ Công Thương xem xét sửa đổi, bổ sung Quy chuẩn này.\n2. Sở Công Thương các tỉnh, thành phố\ntrực thuộc Trung ương có trách nhiệm:\na) Hướng dẫn, kiểm tra việc tổ chức,\nthực hiện Quy chuẩn này trên địa bàn;\nb) Tổng hợp, báo cáo Cục Kỹ thuật an\ntoàn và Môi trường công nghiệp những khó khăn, vướng mắc trong quá trình thực hiện Quy chuẩn này tại địa phương.\nĐiều 26. Trách nhiệm của tổ chức, cá nhân có hoạt động dầu, khí, xăng dầu, hoá chất và nhiệt điện\n1. Tổ chức, cá nhân tiến hành các hoạt\nđộng dầu khí, xăng dầu, hóa chất và nhiệt điện phải thực hiện đánh giá định lượng rủi ro và đưa ra các giải pháp để giảm thiểu các rủi ro đến mức hợp lý có thể thực hiện được.\n2. Đánh giá định lượng rủi ro phải\nđược thực hiện từ giai đoạn thiết kế. Khi tiến hành xây dựng, lắp đặt nếu khác với thiết kế đã được đánh giá định lượng rủi ro, phải thực hiện đánh giá định lượng rủi ro bổ sung trước khi vận hành công trình. Trong giai đoạn vận hành công trình nếu không có hoán cải thì việc đánh giá định lượng rủi ro được tiến hành định kỳ 05 năm/1 lần.\nChương IV\nĐIỀU KHOẢN THI HÀNH\n... ... ...\n1. Đối với các công trình dầu khí,\nxăng dầu, hóa chất và nhiệt điện đang hoạt động đã được phê duyệt Báo cáo đánh giá định lượng rủi ro trước khi Quy chuẩn này có hiệu lực thì mức rủi ro chấp nhận được được thực hiện theo báo cáo, nhưng khi có hoán cải hoặc tiến hành đánh giá định lượng rủi ro định kỳ phải thực hiện theo các quy định của Quy chuẩn này.\n2. Trong quá trình thực hiện Quy chuẩn này,\nnếu phát hiện những điều chưa phù hợp, những vấn đề chưa được quy định hoặc cần sửa đổi, bổ sung, yêu cầu tổ chức, cá nhân báo cáo, phản ảnh về Bộ Công Thương để xem xét sửa đổi, bổ sung./.\nPHỤ LỤC\nI. QUY TRÌNH ĐÁNH GIÁ ĐỊNH LƯỢNG RỦI RO\nĐánh giá định lượng rủi ro được phát triển và sử dụng như một công cụ trợ giúp cho công tác quản lý an toàn của tổ chức, cá nhân tiến hành các hoạt động dầu, khí, xăng dầu, hóa chất và nhiệt điện. Quy trình đánh giá định lượng rủi ro được thể hiện Hình 1. Hình 1. Quy trình đánh giá định lượng rủi ro\nII. TRÌNH TỰ NỘI DUNG\nCÁC BƯỚC ĐÁNH GIÁ ĐỊNH LƯỢNG RỦI RO\n... ... ... Đây là bước rất quan trọng trong phân tích đánh giá rủi ro, nó đảm bảo các kết quả đưa ra phản ánh thực tế mức độ rủi ro của hệ thống công nghệ gây ra. Các thông tin, số liệu, tài liệu cần thu thập, gồm có: - Mô tả công trình và điều kiện hoạt động của hệ thống công nghệ; - Môi trường và bố trí của khu vực xung quanh; - Các biện pháp an toàn hiện có nhằm ngăn ngừa hay giảm thiểu các tai nạn/sự cố.\n2. Nhận diện rủi ro\nTrên cơ sở kết quả công tác khảo sát và thu thập số liệu sẽ nhận biết và xác định các sự cố, tai nạn và hậu quả của chúng liên quan đến công trình. Quá trình này kết hợp kinh nghiệm từ các nghiên cứu trước, các kiến thức về tai nạn trên thế giới và đánh giá của các nhà phân tích có kinh nghiệm.\n3. Xác định các sự cố điển hình\nDựa trên danh sách xác định các nguy hiểm có thể xảy ra đối với công trình, các kinh nghiệm về tai nạn sự cố xảy ra trên thế giới, xem xét lựa chọn các loại sự cố sẽ được tiếp tục đưa vào phân tích rủi ro.\n4. Tính toán tần suất sự cố\n... ... ...\n5. Mô hình hậu quả\nMô hình hậu quả cho phép tính toán được mức độ hậu quả do sự cố gây ra và khả năng ảnh hưởng của nó tới con người. Hậu quả của từng sự cố được xác định và mô hình hóa bằng phần mềm chuyên dụng.\n6. Tính toán rủi ro\nDựa trên kết quả phân tích tần suất và mô hình hậu quả của mỗi sự cố sẽ tính toán định lượng mức độ rủi ro do các sự cố gây ra cũng như rủi ro cho cả công trình. Kết quả tính toán rủi ro sẽ được thể hiện bằng đại lượng rủi ro cá nhân và rủi ro cho một nhóm người (Nhóm III).\n7. Giải pháp kiểm soát rủi ro\nCác kết quả được so sánh với tiêu chuẩn, từ đó đưa ra những kiến nghị phù hợp nhằm kiểm soát và giảm rủi ro xuống mức thấp phù hợp với thực tế có thể chấp nhận được (nguyên lý ALARP). Mức rủi ro chấp nhận được thể hiện theo nguyên lý Thấp Hợp Lý Phù Hợp Với Thực Tế (ALARP). Tiêu chuẩn rủi ro ALARP có thể được minh họa bằng hình tam giác đảo ngược như trong Hình 2. Đường dưới là mức rủi ro có thể chấp nhận được và đường trên là mức rủi ro không thể chấp nhận được. Căn cứ vào diện tích vùng tam giác từ nhỏ đến lớn mức độ rủi ro sẽ tăng từ thấp lên cao. Phần bên trên của tam giác thể hiện rủi ro cao trong khi phần bên dưới thể hiện rủi ro thấp. Nếu rủi ro nằm bên dưới mức chấp nhận được thì không cần cải thiện gì ngoài việc giữ cho việc vận hành phù hợp với các quy định an toàn công nghiệp. Còn ngược lại, nếu rủi ro cao hơn mức chấp nhận được thì cần phải xem xét đến các biện pháp giảm thiểu. Dù vậy, chúng ta cần phải cân đối giữa chi phí của việc giảm thiểu với lợi ích của việc cải thiện mức độ an toàn. Khi chi phí là hợp lý, các biện pháp giảm thiểu có thể áp dụng và ngược lại nếu chi phí quá cao thì việc áp dụng các biện pháp đó là không thực tế. Nếu rủi ro quá cao, nằm trên mức rủi ro không chấp nhận được thì chỉ có một cách duy nhất để giảm rủi ro là chấm dứt hoạt động. Do đó, khoảng cách nằm giữa hai mức trên được gọi là vùng ALARP (hoặc vùng Thấp hợp lý phù hợp với thực tế). Hình 2. Nguyên lý rủi ro thấp hợp lý, phù hợp với thực tế ... ... ...",
+  "tree": {
+    "parts": [
+      {
+        "part_id": "doc:163477:part:1",
+        "part_type": "main",
+        "part_title": null,
+        "reference": null,
+        "direct_text": "QCVN 11 : 2012/BCT VỀ\nMỨC RỦI RO CHẤP NHẬN ĐƯỢC TRONG ĐÁNH GIÁ ĐỊNH LƯỢNG\nRỦI RO CHO CÁC HOẠT ĐỘNG DẦU KHÍ, XĂNG DẦU, HÓA CHẤT VÀ NHIỆT ĐIỆN\nNational Technical regulation on Risk Acceptance Criteria used for Quantitative Risk Assessment (QRA) of Oil and Gas, Petroleum, Chemicals, Thermal Power Activities Lời nói đầu\nQCVN 11 :\n2012/BCT Quy chuẩn kỹ thuật quốc gia về mức rủi ro chấp nhận được trong đánh giá định lượng rủi ro cho các hoạt động dầu khí, xăng dầu, hóa chất và nhiệt điện do Cục Kỹ thuật an toàn và Môi trường công nghiệp trình duyệt, Bộ Khoa học và Công nghệ thẩm định, Bộ trưởng Bộ Công Thương ban hành theo Thông tư số 50/2012/TT-BCT ngày 28 tháng 12 năm 2012.\nĐIỀU KHOẢN THI HÀNH\n... ... ...\n1. Đối với các công trình dầu khí,\nxăng dầu, hóa chất và nhiệt điện đang hoạt động đã được phê duyệt Báo cáo đánh giá định lượng rủi ro trước khi Quy chuẩn này có hiệu lực thì mức rủi ro chấp nhận được được thực hiện theo báo cáo, nhưng khi có hoán cải hoặc tiến hành đánh giá định lượng rủi ro định kỳ phải thực hiện theo các quy định của Quy chuẩn này.\n2. Trong quá trình thực hiện Quy chuẩn này,\nnếu phát hiện những điều chưa phù hợp, những vấn đề chưa được quy định hoặc cần sửa đổi, bổ sung, yêu cầu tổ chức, cá nhân báo cáo, phản ảnh về Bộ Công Thương để xem xét sửa đổi, bổ sung./.",
+        "chapters": [
+          {
+            "chapter_id": "doc:163477:part:1:chapter:1",
+            "number": "I",
+            "title": "QUY ĐỊNH CHUNG",
+            "content": "Chương I\nQUY ĐỊNH CHUNG",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:163477:part:1:article:1",
+                "number": "1",
+                "title": "Phạm vi điều chỉnh ... ... ...",
+                "content": "Điều 1. Phạm vi điều chỉnh ... ... ...",
+                "clauses": [],
+                "points": []
+              },
+              {
+                "article_id": "doc:163477:part:1:article:2",
+                "number": "2",
+                "title": "Đối tượng áp dụng Quy chuẩn này áp dụng đối với các tổ chức, cá nhân tiến hành các hoạt động dầu khí, xăng dầu, hóa chất và nhiệt điện.",
+                "content": "Điều 2. Đối tượng áp dụng Quy chuẩn này áp dụng đối với các tổ chức, cá nhân tiến hành các hoạt động dầu khí, xăng dầu, hóa chất và nhiệt điện.",
+                "clauses": [],
+                "points": []
+              },
+              {
+                "article_id": "doc:163477:part:1:article:3",
+                "number": "3",
+                "title": "Giải thích từ ngữ Các từ ngữ trong Quy chuẩn này được hiểu như sau:",
+                "content": "Điều 3. Giải thích từ ngữ Các từ ngữ trong Quy chuẩn này được hiểu như sau:",
+                "clauses": [
+                  {
+                    "clause_id": "doc:163477:part:1:article:3:clause:1",
+                    "number": "1",
+                    "content": "1. Rủi ro: Là sự kết hợp khả năng\nxảy ra các sự cố, tai nạn và hậu quả của chúng.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:163477:part:1:article:3:clause:2",
+                    "number": "2",
+                    "content": "2. Mức rủi ro: Là khả năng xảy ra tử\nvong cá nhân do rủi ro trong các hoạt động hoặc công trình gây ra. Ví dụ mức rủi ro 1.00E-0 là khả năng xảy ra rủi ro tử vong 1 người/năm.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:163477:part:1:article:3:clause:3",
+                    "number": "3",
+                    "content": "3. Đánh giá rủi ro: Là việc nhận\ndiện, xác định các rủi ro tiềm tàng là cơ sở cho việc đưa ra các biện pháp giảm thiểu rủi ro đến mức hợp lý có thể thực hiện được.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:163477:part:1:article:3:clause:4",
+                    "number": "4",
+                    "content": "4. Đánh giá định lượng rủi ro: Là\nviệc phân tích, tính toán tần suất và hậu quả của sự cố dựa trên các phương pháp, dữ liệu đã được công bố và thừa nhận rộng rãi trên thế giới.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:163477:part:1:article:3:clause:5",
+                    "number": "5",
+                    "content": "5. Mức rủi ro chấp nhận được: Là\nmức độ rủi ro cho phép đối với con người. ... ... ...",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:163477:part:1:article:3:clause:6",
+                    "number": "7",
+                    "content": "7. Người thuộc Nhóm I: Là những\nngười làm việc thường xuyên tại công trình.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:163477:part:1:article:3:clause:7",
+                    "number": "8",
+                    "content": "8. Người thuộc Nhóm II: Là những\nngười không làm việc tại công trình, nhưng có mặt đột xuất tại công trình như các đoàn kiểm tra, khách tham quan…",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:163477:part:1:article:3:clause:8",
+                    "number": "9",
+                    "content": "9. Người thuộc Nhóm III: Là những\nngười không làm việc tại công trình nhưng có mặt xung quanh công trình.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:163477:part:1:article:3:clause:9",
+                    "number": "10",
+                    "content": "10. Mức rủi ro đương nhiên\nđược chấp nhận: Là mức rủi ro thấp đến mức việc giảm rủi ro không có ý nghĩa về mặt an toàn.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:163477:part:1:article:3:clause:10",
+                    "number": "11",
+                    "content": "11. Hư hỏng các chức năng ứng cứu, thoát nạn của công trình\ndầu, khí ngoài khơi: Khi xảy ra sự cố, những thiết bị có chức năng ứng cứu, thoát nạn của công trình dầu, khí ngoài khơi (lối thoát hiểm, khu vực trú ẩn tạm thời, phương tiện rời công trình, tính toàn vẹn của cấu trúc) cần được bảo đảm duy trì. Các thiết bị này phải được duy trì đủ thời gian cho phép con người thoát khỏi khu vực nguy hiểm và sau đó di chuyển an toàn ra khỏi công trình. Trong trường hợp có sự cố, một thiết bị được định nghĩa là “hư hỏng” khi không thể sử dụng đúng công dụng hoặc không giữ được toàn vẹn trong khoảng thời gian nhất định.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:163477:part:1:chapter:2",
+            "number": "II",
+            "title": "QUY ĐỊNH VỀ KỸ THUẬT",
+            "content": "Chương II\nQUY ĐỊNH VỀ KỸ THUẬT",
+            "sections": [
+              {
+                "section_id": "doc:163477:part:1:section:1",
+                "number": "1",
+                "title": "ĐẶC ĐIỂM RỦI RO ... ... ... Các hoạt động thăm dò, khai thác dầu, khí ngoài khơi (không bao gồm hoạt động vận chuyển dầu, khí bằng đường ống từ nơi khai thác, thu gom vào bờ), bao gồm: 1. Hoạt động tìm kiếm thăm dò (gồm cả các hoạt động thu nổ địa chấn), khai thác, thu gom, tồn chứa, xử lý khí dầu, khí; 2. Hoạt động phát triển mỏ; lắp đặt, hoán cải các công trình dầu, khí; 3. Hoạt động tháo dỡ công trình dầu, khí, thu dọn mỏ, hủy bỏ và làm sạch giếng khoan; 4. Hoạt động của giàn, tàu thăm dò và khai thác dầu khí; các giàn xử lý khí; các tàu dịch vụ, tàu chứa, xử lý dầu (kho nổi) và các thiết bị phụ trợ đi kèm; Các đường ống dẫn dầu, khí nội mỏ; 5. Hoạt động dịch vụ kỹ thuật phục vụ trực tiếp cho các hoạt động nói trên và các hoạt động khác theo quy định của pháp luật",
+                "content": "Mục 1. CÁC HOẠT ĐỘNG DẦU KHÍ, XĂNG DẦU, HÓA CHẤT VÀ NHIỆT ĐIỆN THEO\nĐẶC ĐIỂM RỦI RO\n... ... ... Các hoạt động thăm dò, khai thác dầu, khí ngoài khơi (không bao gồm hoạt động vận chuyển dầu, khí bằng đường ống từ nơi khai thác, thu gom vào bờ), bao gồm:\n1. Hoạt động tìm kiếm thăm dò (gồm cả các\nhoạt động thu nổ địa chấn), khai thác, thu gom, tồn chứa, xử lý khí dầu, khí;\n2. Hoạt động phát triển mỏ; lắp đặt, hoán\ncải các công trình dầu, khí;\n3. Hoạt động tháo dỡ công trình dầu,\nkhí, thu dọn mỏ, hủy bỏ và làm sạch giếng khoan;\n4. Hoạt động của giàn, tàu thăm dò và\nkhai thác dầu khí; các giàn xử lý khí; các tàu dịch vụ, tàu chứa, xử lý dầu (kho nổi) và các thiết bị phụ trợ đi kèm; Các đường ống dẫn dầu, khí nội mỏ;\n5. Hoạt động dịch vụ kỹ thuật phục vụ trực\ntiếp cho các hoạt động nói trên và các hoạt động khác theo quy định của pháp luật.",
+                "articles": [
+                  {
+                    "article_id": "doc:163477:part:1:article:4",
+                    "number": "5",
+                    "title": "Các hoạt động vận chuyển dầu, khí và sản phẩm dầu, khí ngoài khơi bằng đường ống Các hoạt động vận chuyển dầu, khí và sản phẩm dầu, khí ngoài khơi bằng đường ống, bao gồm:",
+                    "content": "Điều 5. Các hoạt động vận chuyển dầu, khí và sản phẩm dầu, khí ngoài khơi bằng đường ống Các hoạt động vận chuyển dầu, khí và sản phẩm dầu, khí ngoài khơi bằng đường ống, bao gồm:",
+                    "clauses": [
+                      {
+                        "clause_id": "doc:163477:part:1:article:4:clause:1",
+                        "number": "1",
+                        "content": "1. Hoạt động liên quan đến việc lắp đặt, vận\nhành đường ống hay hệ thống đường ống vận chuyển dầu, khí và sản phẩm dầu, khí trực tiếp từ nơi khai thác hoặc nơi thu gom tập trung ngoài khơi vào bờ; ... ... ...",
+                        "points": []
+                      }
+                    ],
+                    "points": []
+                  },
+                  {
+                    "article_id": "doc:163477:part:1:article:5",
+                    "number": "6",
+                    "title": "Các hoạt động vận chuyển dầu, khí, sản phẩm dầu, khí và xăng dầu trên đất liền bằng đường ống Các hoạt động vận chuyển dầu, khí, sản phẩm dầu, khí và xăng dầu trên đất liền, bao gồm:",
+                    "content": "Điều 6. Các hoạt động vận chuyển dầu, khí, sản phẩm dầu, khí và xăng dầu trên đất liền bằng đường ống Các hoạt động vận chuyển dầu, khí, sản phẩm dầu, khí và xăng dầu trên đất liền, bao gồm:",
+                    "clauses": [
+                      {
+                        "clause_id": "doc:163477:part:1:article:5:clause:1",
+                        "number": "1",
+                        "content": "1. Hoạt động của hệ thống đường ống và\ncác thiết bị đi kèm để vận chuyển dầu, khí, sản phẩm dầu, khí và xăng dầu từ điểm tiếp bờ (đối với dự án khai thác dầu, khí ngoài khơi) đến nơi tồn chứa, tiêu thụ;",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:163477:part:1:article:5:clause:2",
+                        "number": "2",
+                        "content": "2. Hoạt động của hệ thống đường ống và\ncác thiết bị đi kèm để vận chuyển dầu, khí, sản phẩm dầu, khí và xăng dầu từ các công trình khai thác hoặc từ điểm thu gom, xử lý, chế biến (đối với dự án trên đất liền) đến nơi tồn chứa, tiêu thụ.",
+                        "points": []
+                      }
+                    ],
+                    "points": []
+                  },
+                  {
+                    "article_id": "doc:163477:part:1:article:6",
+                    "number": "7",
+                    "title": "Các hoạt động thăm dò, khai thác dầu, khí trên đất liền Các hoạt động thăm dò, khai thác dầu, khí trên đất liền, bao gồm:",
+                    "content": "Điều 7. Các hoạt động thăm dò, khai thác dầu, khí trên đất liền Các hoạt động thăm dò, khai thác dầu, khí trên đất liền, bao gồm:",
+                    "clauses": [
+                      {
+                        "clause_id": "doc:163477:part:1:article:6:clause:1",
+                        "number": "1",
+                        "content": "1. Hoạt động tìm kiếm thăm dò, khai thác,\nxử lý dầu, khí tại nơi khai thác;",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:163477:part:1:article:6:clause:2",
+                        "number": "2",
+                        "content": "2. Hoạt động vận chuyển, thu gom dầu,\nkhí từ nơi khai thác đến nơi thu gom;",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:163477:part:1:article:6:clause:3",
+                        "number": "3",
+                        "content": "3. Hoạt động phát triển mỏ, lắp đặt, hoán\ncải các công trình thăm dò, khai thác dầu, khí; ... ... ...",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:163477:part:1:article:6:clause:4",
+                        "number": "5",
+                        "content": "5. Hoạt động dịch vụ kỹ thuật phục vụ trực\ntiếp cho các hoạt động tại khoản 1 đến khoản 4 Điều này và các hoạt động khác theo quy định của pháp luật.",
+                        "points": []
+                      }
+                    ],
+                    "points": []
+                  },
+                  {
+                    "article_id": "doc:163477:part:1:article:7",
+                    "number": "8",
+                    "title": "Các hoạt động lọc hóa dầu, xử lý và chế biến dầu, khí trên đất liền Các hoạt động lọc hóa dầu, xử lý và chế biến dầu khí trên đất liền, bao gồm:",
+                    "content": "Điều 8. Các hoạt động lọc hóa dầu, xử lý và chế biến dầu, khí trên đất liền Các hoạt động lọc hóa dầu, xử lý và chế biến dầu khí trên đất liền, bao gồm:",
+                    "clauses": [
+                      {
+                        "clause_id": "doc:163477:part:1:article:7:clause:1",
+                        "number": "1",
+                        "content": "1. Hoạt động xây dựng, lắp đặt, vận hành\ncông trình lọc hóa dầu, xử lý, chế biến dầu, khí và các sản phẩm dầu, khí;",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:163477:part:1:article:7:clause:2",
+                        "number": "2",
+                        "content": "2. Hoạt động hoán cải, dỡ bỏ các công trình\nlọc hóa dầu, xử lý, chế biến dầu, khí và các sản phẩm dầu, khí.",
+                        "points": []
+                      }
+                    ],
+                    "points": []
+                  },
+                  {
+                    "article_id": "doc:163477:part:1:article:8",
+                    "number": "9",
+                    "title": "Các hoạt động xuất, nhập, tồn chứa dầu, khí, sản phẩm dầu, khí và xăng dầu tại các kho, cảng Các hoạt động xuất, nhập, tồn chứa dầu, khí, sản phẩm dầu, khí và xăng dầu tại các kho, cảng bao gồm:",
+                    "content": "Điều 9. Các hoạt động xuất, nhập, tồn chứa dầu, khí, sản phẩm dầu, khí và xăng dầu tại các kho, cảng Các hoạt động xuất, nhập, tồn chứa dầu, khí, sản phẩm dầu, khí và xăng dầu tại các kho, cảng bao gồm:",
+                    "clauses": [
+                      {
+                        "clause_id": "doc:163477:part:1:article:8:clause:1",
+                        "number": "1",
+                        "content": "1. Hoạt động xây dựng, lắp đặt, vận hành,\nhoán cải, dỡ bỏ các công trình kho, cảng hoặc cụm kho, cảng xuất, nhập, tồn chứa dầu, khí, sản phẩm dầu, khí và xăng dầu;",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:163477:part:1:article:8:clause:2",
+                        "number": "2",
+                        "content": "2. Hoạt động xuất, nhập dầu, khí, sản phẩm\ndầu, khí và xăng dầu. ... ... ... Các hoạt động hóa chất, bao gồm: Hoạt động xây dựng, lắp đặt, vận hành, hoán cải, dỡ bỏ công trình sản xuất, chế biến hóa chất.",
+                        "points": []
+                      }
+                    ],
+                    "points": []
+                  },
+                  {
+                    "article_id": "doc:163477:part:1:article:9",
+                    "number": "11",
+                    "title": "Các hoạt động nhiệt điện Các hoạt động nhiệt điện, bao gồm: Hoạt động xây dựng, lắp đặt, vận hành, hoán cải, dỡ bỏ các công trình nhiệt điện than và nhiệt điện khí.",
+                    "content": "Điều 11. Các hoạt động nhiệt điện Các hoạt động nhiệt điện, bao gồm: Hoạt động xây dựng, lắp đặt, vận hành, hoán cải, dỡ bỏ các công trình nhiệt điện than và nhiệt điện khí.",
+                    "clauses": [],
+                    "points": []
+                  }
+                ]
+              },
+              {
+                "section_id": "doc:163477:part:1:section:2",
+                "number": "2",
+                "title": "ĐÁNH GIÁ ĐỊNH LƯỢNG RỦI RO CHO CÁC HOẠT ĐỘNG DẦU KHÍ, XĂNG DẦU, HÓA CHẤT VÀ NHIỆT ĐIỆN",
+                "content": "Mục 2. QUY ĐỊNH VỀ\nĐÁNH GIÁ ĐỊNH LƯỢNG RỦI RO CHO CÁC HOẠT ĐỘNG DẦU KHÍ, XĂNG DẦU, HÓA CHẤT VÀ\nNHIỆT ĐIỆN",
+                "articles": [
+                  {
+                    "article_id": "doc:163477:part:1:article:10",
+                    "number": "12",
+                    "title": "Quy định về đánh giá định lượng rủi ro cho các hoạt động dầu, khí Các hoạt động dầu khí phải đánh giá định lượng rủi ro, bao gồm:",
+                    "content": "Điều 12. Quy định về đánh giá định lượng rủi ro cho các hoạt động dầu, khí Các hoạt động dầu khí phải đánh giá định lượng rủi ro, bao gồm:",
+                    "clauses": [
+                      {
+                        "clause_id": "doc:163477:part:1:article:10:clause:1",
+                        "number": "1",
+                        "content": "1. Hoạt động thăm dò, khai thác, tồn chứa, xử\nlý dầu, khí ngoài khơi;",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:163477:part:1:article:10:clause:2",
+                        "number": "2",
+                        "content": "2. Hoạt động vận chuyển dầu, khí và sản phẩm\ndầu, khí ngoài khơi bằng đường ống;",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:163477:part:1:article:10:clause:3",
+                        "number": "3",
+                        "content": "3. Hoạt động thăm dò, khai thác, vận chuyển,\nxử lý dầu, khí trên đất liền ... ... ...",
+                        "points": [
+                          {
+                            "point_id": "doc:163477:part:1:article:10:clause:3:point:1",
+                            "label": "b",
+                            "content": "b) Hoạt động xuất, nhập, tồn chứa, chiết nạp,\npha chế dầu, khí và sản phẩm dầu, khí tại các trạm, kho cảng, nơi tồn chứa;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:163477:part:1:article:10:clause:3:point:2",
+                            "label": "c",
+                            "content": "c) Hoạt động xây dựng, lắp đặt, vận hành,\nhoán cải, thu dọn các công trình dầu khí;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:163477:part:1:article:10:clause:3:point:3",
+                            "label": "d",
+                            "content": "d) Hoạt động vận chuyển dầu, khí và sản phẩm\ndầu, khí trên đất liền bằng đường ống.",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "clause_id": "doc:163477:part:1:article:10:clause:4",
+                        "number": "4",
+                        "content": "4. Hoạt động xuất, nhập, tồn chứa dầu, khí\nvà sản phẩm dầu, khí tại các kho, cảng xuất nhập",
+                        "points": [
+                          {
+                            "point_id": "doc:163477:part:1:article:10:clause:4:point:1",
+                            "label": "a",
+                            "content": "a) Kho chứa khí dầu mỏ và các sản phẩm khí\ndầu mỏ hoá lỏng: Kho định áp và kho lạnh;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:163477:part:1:article:10:clause:4:point:2",
+                            "label": "b",
+                            "content": "b) Cảng xuất, nhập cấp 1: Cảng xuất, nhập sản\nphẩm có nhiệt độ chớp cháy bằng hoặc nhỏ hơn 37,80C (LPG, LNG, CNG, xăng các loại, nhiên liệu máy bay, condensate) có khả năng tiếp nhận tàu có tải trọng trên 50.000 DWT;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:163477:part:1:article:10:clause:4:point:3",
+                            "label": "c",
+                            "content": "c) Cảng xuất, nhập cấp 2: Cảng xuất, nhập sản\nphẩm có nhiệt độ chớp cháy nhỏ hơn hoặc bằng 37,80C (LPG, LNG, CNG, xăng các loại, nhiên liệu máy bay, condensate) có khả năng tiếp nhận tàu có tải trọng nhỏ hơn hoặc bằng 50.000 DWT;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:163477:part:1:article:10:clause:4:point:4",
+                            "label": "d",
+                            "content": "d) Cảng xuất, nhập cấp 3: Cảng xuất, nhập sản\nphẩm có nhiệt độ chớp cháy lớn hơn 37,80C (dầu hoả, diesel, madut, dầu nhờn) và có khả năng tiếp nhận tàu có tải trọng trên 50.000 DWT.",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "clause_id": "doc:163477:part:1:article:10:clause:5",
+                        "number": "5",
+                        "content": "5. Hoạt động dịch vụ kỹ thuật phục vụ trực\ntiếp cho các hoạt động từ khoản 1 đến khoản 4 của Điều này. ... ... ... Các hoạt động xăng dầu phải đánh giá định lượng rủi ro, bao gồm:",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:163477:part:1:article:10:clause:6",
+                        "number": "1",
+                        "content": "1. Hoạt động vận chuyển xăng dầu bằng đường\nống theo áp suất vận hành tối đa cho phép:",
+                        "points": [
+                          {
+                            "point_id": "doc:163477:part:1:article:10:clause:6:point:1",
+                            "label": "a",
+                            "content": "a) Đường ống vận chuyển cấp 1: Áp suất bằng\nhoặc lớn hơn 60 bar;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:163477:part:1:article:10:clause:6:point:2",
+                            "label": "b",
+                            "content": "b) Đường ống vận chuyển cấp 2: Áp suất từ 19\nbar đến nhỏ hơn 60 bar.",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "clause_id": "doc:163477:part:1:article:10:clause:7",
+                        "number": "2",
+                        "content": "2. Hoạt động pha chế xăng dầu.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:163477:part:1:article:10:clause:8",
+                        "number": "3",
+                        "content": "3. Hoạt động tồn chứa xăng dầu tại các kho\nKho chứa xăng dầu có dung tích bằng hoặc lớn hơn 50.000 m3 (Kho cấp 1 và cấp 2).",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:163477:part:1:article:10:clause:9",
+                        "number": "4",
+                        "content": "4. Hoạt động xây dựng, lắp đặt, vận hành,\nhoán cải các công trình xăng dầu được quy định từ khoản 1 đến khoản 3 Điều này.",
+                        "points": []
+                      }
+                    ],
+                    "points": []
+                  },
+                  {
+                    "article_id": "doc:163477:part:1:article:11",
+                    "number": "14",
+                    "title": "Quy định về đánh giá định lượng rủi ro cho các hoạt động hoá chất ... ... ...",
+                    "content": "Điều 14. Quy định về đánh giá định lượng rủi ro cho các hoạt động hoá chất ... ... ...",
+                    "clauses": [
+                      {
+                        "clause_id": "doc:163477:part:1:article:11:clause:1",
+                        "number": "1",
+                        "content": "1. Hoạt động xây dựng, lắp đặt, vận hành,\nhoán cải, dỡ bỏ các công trình sản xuất phân bón và hoá chất bảo vệ thực vật, gồm có:",
+                        "points": [
+                          {
+                            "point_id": "doc:163477:part:1:article:11:clause:1:point:1",
+                            "label": "a",
+                            "content": "a) Nhà máy sản xuất Urê, DAP, MPA, SA, NPK có\ncông suất lớn hơn hoặc bằng 500.000 tấn/năm;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:163477:part:1:article:11:clause:1:point:2",
+                            "label": "b",
+                            "content": "b) Nhà máy sản xuất phân lân các loại (supe\nlân, lân nung chảy) có công suất lớn hơn hoặc bằng 500.000 tấn/năm;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:163477:part:1:article:11:clause:1:point:3",
+                            "label": "c",
+                            "content": "c) Nhà máy sản xuất hóa chất bảo vệ thực vật\ncó công suất lớn hơn hoặc bằng 30.000 tấn/năm.",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "clause_id": "doc:163477:part:1:article:11:clause:2",
+                        "number": "2",
+                        "content": "2. Hoạt động xây dựng, lắp đặt, vận hành,\nhoán cải, dỡ bỏ các công trình sản xuất hoá chất cơ bản, gồm có:",
+                        "points": [
+                          {
+                            "point_id": "doc:163477:part:1:article:11:clause:2:point:1",
+                            "label": "a",
+                            "content": "a) Nhà máy sản xuất Amoniac, axit, xút, clo\ncó công suất lớn hơn hoặc bằng 50.000 tấn/năm;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:163477:part:1:article:11:clause:2:point:2",
+                            "label": "b",
+                            "content": "b) Nhà máy sản xuất sôđa có công suất lớn hơn\nhoặc bằng 200.000 tấn/năm.",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "clause_id": "doc:163477:part:1:article:11:clause:3",
+                        "number": "3",
+                        "content": "3. Hoạt động xây dựng, lắp đặt, vận hành,\nhoán cải, dỡ bỏ các công trình sản xuất cao su gồm có:",
+                        "points": [
+                          {
+                            "point_id": "doc:163477:part:1:article:11:clause:3:point:1",
+                            "label": "a",
+                            "content": "a) Nhà máy sản xuất săm lốp ô tô, máy kéo có\ncông suất lớn hơn hoặc bằng 1.000.000 chiếc/năm. ... ... ...",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:163477:part:1:article:11:clause:3:point:2",
+                            "label": "c",
+                            "content": "c) Nhà máy sản xuất băng tải cao su có công\nsuất lớn hơn hoặc bằng 500.000 m2/năm.",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "clause_id": "doc:163477:part:1:article:11:clause:4",
+                        "number": "4",
+                        "content": "4. Hoạt động xây dựng, lắp đặt, vận hành,\nhoán cải, dỡ bỏ các công trình sản xuất sản phẩm điện hoá, sơn, gồm có:",
+                        "points": [
+                          {
+                            "point_id": "doc:163477:part:1:article:11:clause:4:point:1",
+                            "label": "a",
+                            "content": "a) Nhà máy sản xuất ắcquy có công suất lớn\nhơn hoặc bằng 500.000 Kwh/năm;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:163477:part:1:article:11:clause:4:point:2",
+                            "label": "b",
+                            "content": "b) Nhà máy sản xuất sơn các loại, nguyên liệu\nnhựa alkyd, acrylic có công suất lớn hơn hoặc bằng 100.000 tấn/năm.",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "clause_id": "doc:163477:part:1:article:11:clause:5",
+                        "number": "5",
+                        "content": "5. Hoạt động xây dựng, lắp đặt, vận hành,\nhoán cải, dỡ bỏ các công trình sản xuất sản phẩm hoá dầu và hoá chất khác, gồm có:",
+                        "points": [
+                          {
+                            "point_id": "doc:163477:part:1:article:11:clause:5:point:1",
+                            "label": "a",
+                            "content": "a) Nhà máy sản xuất hóa dầu (PP, PE, PVC, PS,\nPET, SV, sợi, DOP, Polystyren, LAB) cao su tổng hợp có công suất lớn hơn hoặc bằng 1.000.000 tấn/năm;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:163477:part:1:article:11:clause:5:point:2",
+                            "label": "b",
+                            "content": "b) Nhà máy sản xuất hóa mỹ phẩm có công suất\nlớn hơn hoặc bằng 100.000 tấn/năm.",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "clause_id": "doc:163477:part:1:article:11:clause:6",
+                        "number": "6",
+                        "content": "6. Nhà máy sản xuất vật liệu nổ công nghiệp\nvà tiền chất thuốc nổ.",
+                        "points": []
+                      }
+                    ],
+                    "points": []
+                  },
+                  {
+                    "article_id": "doc:163477:part:1:article:12",
+                    "number": "15",
+                    "title": "Quy định về đánh giá định lượng rủi ro cho các hoạt động nhiệt điện than và nhiệt điện khí ... ... ...",
+                    "content": "Điều 15. Quy định về đánh giá định lượng rủi ro cho các hoạt động nhiệt điện than và nhiệt điện khí ... ... ...",
+                    "clauses": [
+                      {
+                        "clause_id": "doc:163477:part:1:article:12:clause:1",
+                        "number": "1",
+                        "content": "1. Các hoạt động xây\ndựng, lắp đặt, vận hành, hoán cải, dỡ bỏ các công trình nhiệt điện than, nhiệt điện khí có công suất lớn hơn hoặc bằng 300 MW;",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:163477:part:1:article:12:clause:2",
+                        "number": "2",
+                        "content": "2. Các hoạt động xây\ndựng, lắp đặt, vận hành, hoán cải, dỡ bỏ các công trình nhiệt điện than, nhiệt điện khí có công suất nhỏ hơn 300 MW nhưng có tổng dung tích kho chứa dầu lớn hơn 10.000 m3.",
+                        "points": []
+                      }
+                    ],
+                    "points": []
+                  }
+                ]
+              },
+              {
+                "section_id": "doc:163477:part:1:section:3",
+                "number": "3",
+                "title": "MỨC RỦI RO CHẤP NHẬN ĐƯỢC CHO CÁC HOẠT ĐỘNG DẦU KHÍ, XĂNG DẦU, HÓA CHẤT VÀ NHIỆT ĐIỆN Điều 16. Quy định chung Việc đánh giá định lượng rủi ro để đưa ra mức rủi ro cho các hoạt động dầu khí, xăng dầu, hoá chất và nhiệt điện được thực hiện theo phương pháp luận đánh giá định lượng rủi ro quy định tại Phụ lục kèm theo Quy chuẩn này. Điều 17. Quy định về mức rủi ro chấp nhận được cho các hoạt động thăm dò, khai thác, tồn chứa, xử lý dầu, khí ngoài khơi 1. Mức rủi ro được chấp nhận cao nhất: 1.00E-03. 2. Mức rủi ro đương nhiên được chấp nhận: 1.00E-05. 3. Mức rủi ro hư hỏng thiết bị có chức năng ứng cứu, thoát nạn chấp nhận được cao nhất: 1.00E-03. ... ... ... 1. Mức rủi ro được chấp nhận cao nhất: 1.00E-03. 2. Mức rủi ro đương nhiên được chấp nhận: 1.00E-05",
+                "content": "Mục 3. QUY ĐỊNH VỀ\nMỨC RỦI RO CHẤP NHẬN ĐƯỢC CHO CÁC HOẠT ĐỘNG DẦU KHÍ, XĂNG DẦU, HÓA CHẤT\nVÀ NHIỆT ĐIỆN\nĐiều\n16. Quy định chung\nViệc đánh giá định lượng rủi ro để đưa ra mức rủi ro cho các hoạt động dầu khí, xăng dầu, hoá chất và nhiệt điện được thực hiện theo phương pháp luận đánh giá định lượng rủi ro quy định tại Phụ lục kèm theo Quy chuẩn này. Điều\n17. Quy định về mức rủi ro chấp nhận được cho các hoạt động thăm dò, khai thác,\ntồn chứa, xử lý dầu, khí ngoài khơi\n1. Mức rủi ro được\nchấp nhận cao nhất: 1.00E-03.\n2. Mức rủi ro đương\nnhiên được chấp nhận: 1.00E-05.\n3. Mức rủi ro hư hỏng\nthiết bị có chức năng ứng cứu, thoát nạn chấp nhận được cao nhất: 1.00E-03. ... ... ...\n1. Mức rủi ro được\nchấp nhận cao nhất: 1.00E-03.\n2. Mức rủi ro đương nhiên được chấp nhận:\n1.00E-05.",
+                "articles": [
+                  {
+                    "article_id": "doc:163477:part:1:article:13",
+                    "number": "19",
+                    "title": "Quy định về mức rủi ro chấp nhận được cho các hoạt động vận chuyển dầu, khí và sản phẩm dầu, khí trên đất liền bằng đường ống",
+                    "content": "Điều 19. Quy định về mức rủi ro chấp nhận được cho các hoạt động vận chuyển dầu, khí và sản phẩm dầu, khí trên đất liền bằng đường ống",
+                    "clauses": [
+                      {
+                        "clause_id": "doc:163477:part:1:article:13:clause:1",
+                        "number": "1",
+                        "content": "1. Đối với người thuộc\nNhóm I",
+                        "points": [
+                          {
+                            "point_id": "doc:163477:part:1:article:13:clause:1:point:1",
+                            "label": "a",
+                            "content": "a) Mức rủi ro được chấp nhận cao nhất:\n1.00E-03;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:163477:part:1:article:13:clause:1:point:2",
+                            "label": "b",
+                            "content": "b) Mức rủi ro đương nhiên được chấp nhận:\n1.00E-06.",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "clause_id": "doc:163477:part:1:article:13:clause:2",
+                        "number": "2",
+                        "content": "2. Đối với người thuộc Nhóm III",
+                        "points": [
+                          {
+                            "point_id": "doc:163477:part:1:article:13:clause:2:point:1",
+                            "label": "a",
+                            "content": "a) Mức rủi ro được chấp nhận cao nhất:\n1.00E-04;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:163477:part:1:article:13:clause:2:point:2",
+                            "label": "b",
+                            "content": "b) Mức rủi ro đương nhiên được chấp nhận:\n1.00E-06.\n... ... ...",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "clause_id": "doc:163477:part:1:article:13:clause:3",
+                        "number": "1",
+                        "content": "1. Đối với người thuộc\nNhóm I",
+                        "points": [
+                          {
+                            "point_id": "doc:163477:part:1:article:13:clause:3:point:1",
+                            "label": "a",
+                            "content": "a) Mức rủi ro được chấp nhận cao nhất:\n1.00E-03;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:163477:part:1:article:13:clause:3:point:2",
+                            "label": "b",
+                            "content": "b) Mức rủi ro đương nhiên được chấp nhận:\n1.00E-06.",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "clause_id": "doc:163477:part:1:article:13:clause:4",
+                        "number": "2",
+                        "content": "2. Đối với người thuộc Nhóm III",
+                        "points": [
+                          {
+                            "point_id": "doc:163477:part:1:article:13:clause:4:point:1",
+                            "label": "a",
+                            "content": "a) Mức rủi ro được chấp nhận cao nhất:\n5.00E-05;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:163477:part:1:article:13:clause:4:point:2",
+                            "label": "b",
+                            "content": "b) Mức rủi ro đương nhiên được chấp nhận:\n1.00E-06.",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ],
+                    "points": []
+                  },
+                  {
+                    "article_id": "doc:163477:part:1:article:14",
+                    "number": "21",
+                    "title": "Quy định về mức rủi ro chấp nhận được cho các hoạt động lọc hóa dầu, xử lý và chế biến dầu, khí",
+                    "content": "Điều 21. Quy định về mức rủi ro chấp nhận được cho các hoạt động lọc hóa dầu, xử lý và chế biến dầu, khí",
+                    "clauses": [
+                      {
+                        "clause_id": "doc:163477:part:1:article:14:clause:1",
+                        "number": "1",
+                        "content": "1. Đối với người thuộc\nNhóm I",
+                        "points": [
+                          {
+                            "point_id": "doc:163477:part:1:article:14:clause:1:point:1",
+                            "label": "a",
+                            "content": "a) Mức rủi ro được chấp nhận cao\nnhất: 1.00E-03; ... ... ...",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "clause_id": "doc:163477:part:1:article:14:clause:2",
+                        "number": "2",
+                        "content": "2. Đối với người thuộc Nhóm III",
+                        "points": [
+                          {
+                            "point_id": "doc:163477:part:1:article:14:clause:2:point:1",
+                            "label": "a",
+                            "content": "a) Mức rủi ro được chấp nhận cao nhất:\n5.00E-05;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:163477:part:1:article:14:clause:2:point:2",
+                            "label": "b",
+                            "content": "b) Mức rủi ro đương nhiên được chấp nhận:\n1.00E-06.",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ],
+                    "points": []
+                  },
+                  {
+                    "article_id": "doc:163477:part:1:article:15",
+                    "number": "22",
+                    "title": "Quy định về mức rủi ro chấp nhận được cho các hoạt động xuất, nhập, tồn chứa dầu, khí, sản phẩm dầu, khí và xăng dầu tại các trạm, kho cảng, nơi tồn chứa.",
+                    "content": "Điều 22. Quy định về mức rủi ro chấp nhận được cho các hoạt động xuất, nhập, tồn chứa dầu, khí, sản phẩm dầu, khí và xăng dầu tại các trạm, kho cảng, nơi tồn chứa.",
+                    "clauses": [
+                      {
+                        "clause_id": "doc:163477:part:1:article:15:clause:1",
+                        "number": "1",
+                        "content": "1. Đối với người thuộc Nhóm I",
+                        "points": [
+                          {
+                            "point_id": "doc:163477:part:1:article:15:clause:1:point:1",
+                            "label": "a",
+                            "content": "a) Mức rủi ro được chấp nhận cao nhất:\n1.00E-03;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:163477:part:1:article:15:clause:1:point:2",
+                            "label": "b",
+                            "content": "b) Mức rủi ro đương nhiên được chấp nhận:\n1.00E-06.",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "clause_id": "doc:163477:part:1:article:15:clause:2",
+                        "number": "2",
+                        "content": "2. Đối với người thuộc Nhóm III",
+                        "points": [
+                          {
+                            "point_id": "doc:163477:part:1:article:15:clause:2:point:1",
+                            "label": "a",
+                            "content": "a) Mức rủi ro được chấp nhận cao nhất:\n5.00E-05;\n... ... ...",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ],
+                    "points": []
+                  },
+                  {
+                    "article_id": "doc:163477:part:1:article:16",
+                    "number": "23",
+                    "title": "Quy định về mức rủi ro chấp nhận được cho các hoạt động hoá chất",
+                    "content": "Điều 23. Quy định về mức rủi ro chấp nhận được cho các hoạt động hoá chất",
+                    "clauses": [
+                      {
+                        "clause_id": "doc:163477:part:1:article:16:clause:1",
+                        "number": "1",
+                        "content": "1. Đối với người thuộc Nhóm I",
+                        "points": [
+                          {
+                            "point_id": "doc:163477:part:1:article:16:clause:1:point:1",
+                            "label": "a",
+                            "content": "a) Mức rủi ro được chấp nhận cao nhất:\n1.00E-03;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:163477:part:1:article:16:clause:1:point:2",
+                            "label": "b",
+                            "content": "b) Mức rủi ro đương nhiên được chấp nhận:\n1.00E-06.",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "clause_id": "doc:163477:part:1:article:16:clause:2",
+                        "number": "2",
+                        "content": "2. Đối với người thuộc Nhóm III",
+                        "points": [
+                          {
+                            "point_id": "doc:163477:part:1:article:16:clause:2:point:1",
+                            "label": "a",
+                            "content": "a) Mức rủi ro được chấp nhận cao nhất:\n5.00E-05;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:163477:part:1:article:16:clause:2:point:2",
+                            "label": "b",
+                            "content": "b) Mức rủi ro đương nhiên được chấp nhận:\n1.00E-06.",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ],
+                    "points": []
+                  },
+                  {
+                    "article_id": "doc:163477:part:1:article:17",
+                    "number": "24",
+                    "title": "Quy định về mức rủi ro chấp nhận được cho các hoạt động nhiệt điện than và nhiệt điện khí",
+                    "content": "Điều 24. Quy định về mức rủi ro chấp nhận được cho các hoạt động nhiệt điện than và nhiệt điện khí",
+                    "clauses": [
+                      {
+                        "clause_id": "doc:163477:part:1:article:17:clause:1",
+                        "number": "1",
+                        "content": "1. Đối với người thuộc Nhóm I\n... ... ...",
+                        "points": [
+                          {
+                            "point_id": "doc:163477:part:1:article:17:clause:1:point:1",
+                            "label": "b",
+                            "content": "b) Mức rủi ro đương nhiên được chấp nhận:\n1.00E-06.",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "clause_id": "doc:163477:part:1:article:17:clause:2",
+                        "number": "2",
+                        "content": "2. Đối với người thuộc Nhóm III",
+                        "points": [
+                          {
+                            "point_id": "doc:163477:part:1:article:17:clause:2:point:1",
+                            "label": "a",
+                            "content": "a) Mức rủi ro được chấp nhận cao nhất:\n1.00E-04;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:163477:part:1:article:17:clause:2:point:2",
+                            "label": "b",
+                            "content": "b) Mức rủi ro đương nhiên được chấp nhận:\n1.00E-06.",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ],
+                    "points": []
+                  }
+                ]
+              }
+            ],
+            "articles": []
+          },
+          {
+            "chapter_id": "doc:163477:part:1:chapter:3",
+            "number": "III",
+            "title": "TỔ CHỨC THỰC HIỆN",
+            "content": "Chương III\nTỔ CHỨC THỰC HIỆN",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:163477:part:1:article:18",
+                "number": "25",
+                "title": "Trách nhiệm của cơ quan quản lý nhà nước",
+                "content": "Điều 25. Trách nhiệm của cơ quan quản lý nhà nước",
+                "clauses": [
+                  {
+                    "clause_id": "doc:163477:part:1:article:18:clause:1",
+                    "number": "1",
+                    "content": "1. Cục Kỹ thuật an toàn và Môi trường\ncông nghiệp thực hiện các nhiệm vụ sau:",
+                    "points": [
+                      {
+                        "point_id": "doc:163477:part:1:article:18:clause:1:point:1",
+                        "label": "a",
+                        "content": "a) Thực hiện quản lý về an toàn trong\nđánh giá định lượng rủi ro cho các hoạt động dầu, khí, xăng dầu, hoá chất và nhiệt điện. ... ... ...",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:163477:part:1:article:18:clause:1:point:2",
+                        "label": "c",
+                        "content": "c) Căn cứ vào yêu cầu quản lý và kiến\nnghị của các tổ chức, cá nhân báo cáo Bộ trưởng Bộ Công Thương xem xét sửa đổi, bổ sung Quy chuẩn này.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:163477:part:1:article:18:clause:2",
+                    "number": "2",
+                    "content": "2. Sở Công Thương các tỉnh, thành phố\ntrực thuộc Trung ương có trách nhiệm:",
+                    "points": [
+                      {
+                        "point_id": "doc:163477:part:1:article:18:clause:2:point:1",
+                        "label": "a",
+                        "content": "a) Hướng dẫn, kiểm tra việc tổ chức,\nthực hiện Quy chuẩn này trên địa bàn;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:163477:part:1:article:18:clause:2:point:2",
+                        "label": "b",
+                        "content": "b) Tổng hợp, báo cáo Cục Kỹ thuật an\ntoàn và Môi trường công nghiệp những khó khăn, vướng mắc trong quá trình thực hiện Quy chuẩn này tại địa phương.",
+                        "children": []
+                      }
+                    ]
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:163477:part:1:article:19",
+                "number": "26",
+                "title": "Trách nhiệm của tổ chức, cá nhân có hoạt động dầu, khí, xăng dầu, hoá chất và nhiệt điện",
+                "content": "Điều 26. Trách nhiệm của tổ chức, cá nhân có hoạt động dầu, khí, xăng dầu, hoá chất và nhiệt điện",
+                "clauses": [
+                  {
+                    "clause_id": "doc:163477:part:1:article:19:clause:1",
+                    "number": "1",
+                    "content": "1. Tổ chức, cá nhân tiến hành các hoạt\nđộng dầu khí, xăng dầu, hóa chất và nhiệt điện phải thực hiện đánh giá định lượng rủi ro và đưa ra các giải pháp để giảm thiểu các rủi ro đến mức hợp lý có thể thực hiện được.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:163477:part:1:article:19:clause:2",
+                    "number": "2",
+                    "content": "2. Đánh giá định lượng rủi ro phải\nđược thực hiện từ giai đoạn thiết kế. Khi tiến hành xây dựng, lắp đặt nếu khác với thiết kế đã được đánh giá định lượng rủi ro, phải thực hiện đánh giá định lượng rủi ro bổ sung trước khi vận hành công trình. Trong giai đoạn vận hành công trình nếu không có hoán cải thì việc đánh giá định lượng rủi ro được tiến hành định kỳ 05 năm/1 lần.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:163477:part:1:chapter:4",
+            "number": "IV",
+            "title": null,
+            "content": "Chương IV",
+            "sections": [],
+            "articles": []
+          }
+        ],
+        "sections": [],
+        "articles": [],
+        "unstructured_blocks": []
+      },
+      {
+        "part_id": "doc:163477:part:2",
+        "part_type": "appendix",
+        "part_title": "PHỤ LỤC",
+        "reference": null,
+        "direct_text": null,
+        "chapters": [],
+        "sections": [],
+        "articles": [],
+        "unstructured_blocks": [
+          {
+            "block_id": "doc:163477:part:2:block:1",
+            "content": "PHỤ LỤC\nI. QUY TRÌNH ĐÁNH GIÁ ĐỊNH LƯỢNG RỦI RO\nĐánh giá định lượng rủi ro được phát triển và sử dụng như một công cụ trợ giúp cho công tác quản lý an toàn của tổ chức, cá nhân tiến hành các hoạt động dầu, khí, xăng dầu, hóa chất và nhiệt điện. Quy trình đánh giá định lượng rủi ro được thể hiện Hình 1. Hình 1. Quy trình đánh giá định lượng rủi ro\nII. TRÌNH TỰ NỘI DUNG\nCÁC BƯỚC ĐÁNH GIÁ ĐỊNH LƯỢNG RỦI RO\n... ... ... Đây là bước rất quan trọng trong phân tích đánh giá rủi ro, nó đảm bảo các kết quả đưa ra phản ánh thực tế mức độ rủi ro của hệ thống công nghệ gây ra. Các thông tin, số liệu, tài liệu cần thu thập, gồm có: - Mô tả công trình và điều kiện hoạt động của hệ thống công nghệ; - Môi trường và bố trí của khu vực xung quanh; - Các biện pháp an toàn hiện có nhằm ngăn ngừa hay giảm thiểu các tai nạn/sự cố.\n2. Nhận diện rủi ro\nTrên cơ sở kết quả công tác khảo sát và thu thập số liệu sẽ nhận biết và xác định các sự cố, tai nạn và hậu quả của chúng liên quan đến công trình. Quá trình này kết hợp kinh nghiệm từ các nghiên cứu trước, các kiến thức về tai nạn trên thế giới và đánh giá của các nhà phân tích có kinh nghiệm.\n3. Xác định các sự cố điển hình\nDựa trên danh sách xác định các nguy hiểm có thể xảy ra đối với công trình, các kinh nghiệm về tai nạn sự cố xảy ra trên thế giới, xem xét lựa chọn các loại sự cố sẽ được tiếp tục đưa vào phân tích rủi ro.\n4. Tính toán tần suất sự cố\n... ... ...\n5. Mô hình hậu quả\nMô hình hậu quả cho phép tính toán được mức độ hậu quả do sự cố gây ra và khả năng ảnh hưởng của nó tới con người. Hậu quả của từng sự cố được xác định và mô hình hóa bằng phần mềm chuyên dụng.\n6. Tính toán rủi ro\nDựa trên kết quả phân tích tần suất và mô hình hậu quả của mỗi sự cố sẽ tính toán định lượng mức độ rủi ro do các sự cố gây ra cũng như rủi ro cho cả công trình. Kết quả tính toán rủi ro sẽ được thể hiện bằng đại lượng rủi ro cá nhân và rủi ro cho một nhóm người (Nhóm III).\n7. Giải pháp kiểm soát rủi ro\nCác kết quả được so sánh với tiêu chuẩn, từ đó đưa ra những kiến nghị phù hợp nhằm kiểm soát và giảm rủi ro xuống mức thấp phù hợp với thực tế có thể chấp nhận được (nguyên lý ALARP). Mức rủi ro chấp nhận được thể hiện theo nguyên lý Thấp Hợp Lý Phù Hợp Với Thực Tế (ALARP). Tiêu chuẩn rủi ro ALARP có thể được minh họa bằng hình tam giác đảo ngược như trong Hình 2. Đường dưới là mức rủi ro có thể chấp nhận được và đường trên là mức rủi ro không thể chấp nhận được. Căn cứ vào diện tích vùng tam giác từ nhỏ đến lớn mức độ rủi ro sẽ tăng từ thấp lên cao. Phần bên trên của tam giác thể hiện rủi ro cao trong khi phần bên dưới thể hiện rủi ro thấp. Nếu rủi ro nằm bên dưới mức chấp nhận được thì không cần cải thiện gì ngoài việc giữ cho việc vận hành phù hợp với các quy định an toàn công nghiệp. Còn ngược lại, nếu rủi ro cao hơn mức chấp nhận được thì cần phải xem xét đến các biện pháp giảm thiểu. Dù vậy, chúng ta cần phải cân đối giữa chi phí của việc giảm thiểu với lợi ích của việc cải thiện mức độ an toàn. Khi chi phí là hợp lý, các biện pháp giảm thiểu có thể áp dụng và ngược lại nếu chi phí quá cao thì việc áp dụng các biện pháp đó là không thực tế. Nếu rủi ro quá cao, nằm trên mức rủi ro không chấp nhận được thì chỉ có một cách duy nhất để giảm rủi ro là chấm dứt hoạt động. Do đó, khoảng cách nằm giữa hai mức trên được gọi là vùng ALARP (hoặc vùng Thấp hợp lý phù hợp với thực tế). Hình 2. Nguyên lý rủi ro thấp hợp lý, phù hợp với thực tế ... ... ...",
+            "indexable": true
+          }
+        ]
+      }
+    ]
+  },
+  "issues": [],
+  "status": "ok",
+  "source_hash": "context_163477.json",
+  "stats": {
+    "source_chars": 19088,
+    "passage_chars": 19088,
+    "parts": 2,
+    "chapters": 4,
+    "sections": 3,
+    "articles": 19,
+    "clauses": 54,
+    "points": 45
+  }
+}

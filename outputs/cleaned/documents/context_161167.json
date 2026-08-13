@@ -1,0 +1,791 @@
+{
+  "schema_version": "2.0",
+  "document_id": 161167,
+  "metadata": {
+    "name": "Thong-tu-lien-tich-09-2014-TTLT-BTP-TANDTC-VKSNDTC-BTC-huong-dan-thi-diem-Thua-phat-lai-224304",
+    "link": "https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Thong-tu-lien-tich-09-2014-TTLT-BTP-TANDTC-VKSNDTC-BTC-huong-dan-thi-diem-Thua-phat-lai-224304.aspx",
+    "issuing_agency": "BỘ TƯ PHÁP - TÒA ÁN NHÂN DÂN TỐI CAO - VIỆN KIỂM SÁT NHÂN DÂN TỐI CAO - BỘ TÀI CHÍNH",
+    "national_header": "CỘNG HÒA XÃ HỘI CHỦ\r\n\n  NGHĨA VIỆT NAM",
+    "motto": "Độc lập - Tự do - Hạnh phúc",
+    "document_number": "09/2014/TTLT-BTP-TANDTC-VKSNDTC-BTC",
+    "issued_place": "Hà Nội",
+    "issued_date": "ngày 28 tháng 02 năm 2014",
+    "document_type": "THÔNG TƯ",
+    "title": "LIÊN TỊCH HƯỚNG DẪN THỰC HIỆN THÍ ĐIỂM CHẾ ĐỊNH THỪA PHÁT LẠI THEO NGHỊ QUYẾT SỐ 36/2012/QH13 NGÀY 23/11/2012 CỦA QUỐC HỘI"
+  },
+  "administrative_header": {
+    "removed": true,
+    "removed_char_count": 245
+  },
+  "preamble": {
+    "text": "THÔNG TƯ LIÊN TỊCH HƯỚNG\nDẪN THỰC HIỆN THÍ ĐIỂM CHẾ ĐỊNH THỪA PHÁT LẠI THEO NGHỊ QUYẾT SỐ 36/2012/QH13\nNGÀY 23/11/2012 CỦA QUỐC HỘI\nCăn cứ Luật Thi hành án dân sự; Căn cứ Luật Ban hành văn bản quy phạm pháp luật; Căn cứ Luật Tổ chức Tòa án nhân dân; Căn cứ Luật Tổ chức Viện kiểm sát nhân dân; Căn cứ Nghị quyết số 36/2012/QH13 ngày 23/11/2012 của Quốc hội về việc tiếp tục thực hiện thí điểm chế định Thừa phát lại; Căn cứ Nghị định số 61/2009/NĐ-CP ngày 24 tháng 7 năm 2009 của Chính phủ về tổ chức và hoạt động của Thừa phát lại thực hiện thí đỉểm tại thành phố Hồ Chí Minh; Căn cứ Nghị định số 135/2013/NĐ-CP ngày 18 tháng 10 năm 2013 của Chính phủ sửa đổi, bổ sung tên gọi và một số điều của Nghị định số 61/2009/NĐ-CP ngày 24 tháng 7 năm 2009 của Chính phủ về tổ chức và hoạt động của Thừa phát lại thực hiện thí điểm tại thành phố Hồ Chí Minh; Căn cứ Nghị định số 60/2003/NĐ-CP ngày 06 tháng 6 năm 2003 của Chính phủ quy định chi tiết và hướng dẫn thi hành Luật Ngân sách nhà nước; Căn cứ Nghị định số 22/2013/NĐ-CP ngày 13 tháng 03 năm 2013 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tư pháp; Căn cứ Nghị định số 215/2013/NĐ-CP ngày 23 tháng 12 năm 2013 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài chính; Bộ trưởng Bộ Tư pháp, Chánh án Tòa án nhân dân tối cao, Viện trưởng Viện Kiểm sát nhân dân tối cao, Bộ trưởng Bộ Tổ chức ban hành Thông tư liên tịch hướng dẫn thực hiện thí điểm chế định Thừa phát lại theo Nghị quyết số 36/2012/QH13 ngày 23 tháng 11 năm 2012 của Quốc hội.\nChương I\nNHỮNG QUY ĐỊNH CHUNG",
+    "legal_bases": [
+      "Căn cứ Luật Ban hành văn bản quy phạm pháp luật",
+      "Căn cứ Luật Tổ chức Tòa án nhân dân",
+      "Căn cứ Luật Tổ chức Viện kiểm sát nhân dân",
+      "Căn cứ Nghị quyết số 36/2012/QH13 ngày 23/11/2012 của Quốc hội về việc tiếp tục thực hiện thí điểm chế định Thừa phát lại",
+      "Căn cứ Nghị định số 61/2009/NĐ-CP ngày 24 tháng 7 năm 2009 của Chính phủ về tổ chức và hoạt động của Thừa phát lại thực hiện thí đỉểm tại thành phố Hồ Chí Minh",
+      "Căn cứ Nghị định số 135/2013/NĐ-CP ngày 18 tháng 10 năm 2013 của Chính phủ sửa đổi, bổ sung tên gọi và một số điều của Nghị định số 61/2009/NĐ-CP ngày 24 tháng 7 năm 2009 của Chính phủ về tổ chức và hoạt động của Thừa phát lại thực hiện thí điểm tại thành phố Hồ Chí Minh",
+      "Căn cứ Nghị định số 60/2003/NĐ-CP ngày 06 tháng 6 năm 2003 của Chính phủ quy định chi tiết và hướng dẫn thi hành Luật Ngân sách nhà nước",
+      "Căn cứ Nghị định số 22/2013/NĐ-CP ngày 13 tháng 03 năm 2013 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tư pháp",
+      "Căn cứ Nghị định số 215/2013/NĐ-CP ngày 23 tháng 12 năm 2013 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài chính"
+    ],
+    "proposals": [],
+    "enactment_formula": null
+  },
+  "passage": "THÔNG TƯ LIÊN TỊCH HƯỚNG\nDẪN THỰC HIỆN THÍ ĐIỂM CHẾ ĐỊNH THỪA PHÁT LẠI THEO NGHỊ QUYẾT SỐ 36/2012/QH13\nNGÀY 23/11/2012 CỦA QUỐC HỘI\nCăn cứ Luật Thi hành án dân sự; Căn cứ Luật Ban hành văn bản quy phạm pháp luật; Căn cứ Luật Tổ chức Tòa án nhân dân; Căn cứ Luật Tổ chức Viện kiểm sát nhân dân; Căn cứ Nghị quyết số 36/2012/QH13 ngày 23/11/2012 của Quốc hội về việc tiếp tục thực hiện thí điểm chế định Thừa phát lại; Căn cứ Nghị định số 61/2009/NĐ-CP ngày 24 tháng 7 năm 2009 của Chính phủ về tổ chức và hoạt động của Thừa phát lại thực hiện thí đỉểm tại thành phố Hồ Chí Minh; Căn cứ Nghị định số 135/2013/NĐ-CP ngày 18 tháng 10 năm 2013 của Chính phủ sửa đổi, bổ sung tên gọi và một số điều của Nghị định số 61/2009/NĐ-CP ngày 24 tháng 7 năm 2009 của Chính phủ về tổ chức và hoạt động của Thừa phát lại thực hiện thí điểm tại thành phố Hồ Chí Minh; Căn cứ Nghị định số 60/2003/NĐ-CP ngày 06 tháng 6 năm 2003 của Chính phủ quy định chi tiết và hướng dẫn thi hành Luật Ngân sách nhà nước; Căn cứ Nghị định số 22/2013/NĐ-CP ngày 13 tháng 03 năm 2013 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tư pháp; Căn cứ Nghị định số 215/2013/NĐ-CP ngày 23 tháng 12 năm 2013 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài chính; Bộ trưởng Bộ Tư pháp, Chánh án Tòa án nhân dân tối cao, Viện trưởng Viện Kiểm sát nhân dân tối cao, Bộ trưởng Bộ Tổ chức ban hành Thông tư liên tịch hướng dẫn thực hiện thí điểm chế định Thừa phát lại theo Nghị quyết số 36/2012/QH13 ngày 23 tháng 11 năm 2012 của Quốc hội.\nChương I\nNHỮNG QUY ĐỊNH CHUNG\nĐiều 1. Phạm vi điều chỉnh Thông tư này hướng dẫn về thủ tục, chi phí thực hiện công việc của Thừa phát lại; tổ chức Văn phòng Thừa phát lại; kiểm sát, thanh tra, kiểm tra hoạt động của Thừa phát lại tại các tỉnh, thành phố trực thuộc Trung ương (sau đây viết tắt là cấp tỉnh) nơi thực hiện thí điểm chế định Thừa phát lại.\nĐiều 2. Đối tượng áp dụng Thông tư liên tịch này được áp dụng đối với:\n1. Thừa phát lại, Văn phòng Thừa phát lại;\n2. Tòa án nhân dân, Cơ quan thi hành án dân sự\nnơi thực hiện thí điểm chế định Thừa phát lại;\n3. Các cơ quan, tổ chức, cá nhân có liên quan\ntrong việc thực hiện thí điểm chế định Thừa phát lại.\nChương II\nTHỦ TỤC\nTHỰC HIỆN CÔNG VIỆC CỦA THỪA PHÁT LẠI\nMục 1. TỐNG ĐẠT VĂN\nBẢN\nĐiều 3. Các loại văn bản Thừa phát lại được tống đạt Văn phòng Thừa phát lại thỏa thuận để tống đạt văn bản của Tòa án (trừ Tòa phúc thẩm Tòa án nhân dân tối cao), Cơ quan thi hành án dân sự các cấp trên địa bàn cấp tỉnh nơi đặt Văn phòng Thừa phát lại, bao gồm: Giấy báo, giấy triệu tập, giấy mời, quyết định đưa vụ án ra xét xử, bản án, quyết định trong trường hợp xét xử vắng mặt đương sự của Tòa án; các quyết định về thi hành án, giấy báo, giấy triệu tập của Cơ quan thi hành án dân sự. Trong trường hợp cần thiết, Tòa án, Cơ quan thi hành án dân sự có thể thỏa thuận với Văn phòng Thừa phát lại để tống đạt các loại văn bản, giấy tờ khác.\nĐiều 4. Ký hợp đồng dịch vụ tống đạt Việc ký hợp đồng dịch vụ tống đạt văn bản giữa Tòa án hoặc Cơ quan thi hành án dân sự với Văn phòng Thừa phát lại được thực hiện như sau:\n1. Tòa án, Cơ quan Thi hành án dân sự ký hợp\nđồng nguyên tắc giao các loại văn bản cho Văn phòng Thừa phát lại tống đạt. Trên cơ sở hợp đồng, số lượng và từng loại văn bản cụ thể, giao Thừa phát lại tống đạt được thực hiện thông qua sổ giao nhận có xác nhận của 02 bên. Trường hợp tống đạt ngoài địa bàn cấp tỉnh nơi đặt Văn phòng Thừa phát lại thì Tòa án, Cơ quan thi hành án dân sự có thể thỏa thuận với Văn phòng Thừa phát lại bằng một hợp đồng riêng cho từng việc cụ thể.\n2. Một cơ quan thi hành án dân sự chỉ được ký\nhợp đồng với một Văn phòng Thừa phát lại. Trên cơ sở tình hình thực tế của địa phương, Chánh án Tòa án nhân dân cấp tỉnh quyết định cho mỗi Tòa án trên địa bàn có thể ký hợp đồng với một hoặc nhiều Văn phòng Thừa phát lại. Một Văn phòng Thừa phát lại có quyền ký hợp đồng tống đạt với nhiều Cơ quan thi hành án dân sự hoặc nhiều Tòa án trên địa bàn cấp tỉnh nơi đặt Văn phòng Thừa phát lại. Chánh án Tòa án nhân dân cấp tỉnh, Cục trưởng Cục Thi hành án dân sự phối hợp với Giám đốc Sở Tư pháp thống nhất địa hạt để các Văn phòng Thừa phát lại ký kết hợp đồng dịch vụ với các Tòa án, Cơ quan thi hành án dân sự trên địa bàn.\n3. Hợp đồng dịch vụ tống đạt gồm các nội dung\nchính sau: Các loại văn bản cần tống đạt; các loại công việc cần thông báo; thời gian thực hiện hợp đồng; thủ tục tống đạt; quyền, nghĩa vụ của các bên; chi phí tống đạt.\n4. Tòa án, Cơ quan thi hành án dân sự chuyển\ngiao tất cả các loại văn bản đã thỏa thuận và Văn phòng Thừa phát lại không được từ chối khi có yêu cầu tống đạt.\n5. Toà án, Cơ quan thi hành án dân sự có\ntrách nhiệm gửi 01 bản hợp đồng dịch vụ tống đạt với Văn phòng Thừa phát lại đến Kho bạc Nhà nước nơi mở tài khoản ngay sau khi ký kết.\nĐiều 5. Giao nhận văn bản tống đạt Việc giao nhận các văn bản tống đạt giữa Tòa án, Cơ quan thi hành án dân sự với Văn phòng Thừa phát lại được thực hiện hàng ngày làm việc, trừ trường hợp có thỏa thuận khác, nhưng vẫn phải đảm bảo thời hạn tống đạt theo quy định của pháp luật về tố tụng, pháp luật về thi hành án dân sự và được ghi vào sổ giao nhận theo mẫu được ban hành kèm theo Thông tư này.\nĐiều 6. Thủ tục tống đạt\n1. Thủ tục tống đạt văn bản về thi hành án\ndân sự thực hiện theo quy định của pháp luật về thi hành án dân sự; thủ tục tống đạt văn bản của Tòa án thực hiện theo quy định của pháp luật về tố tụng.\n2. Việc tống đạt được thực hiện theo biểu mẫu\ncủa Tòa án hoặc biểu mẫu được ban hành kèm theo Thông tư này. Việc tống đạt được coi là hoàn thành khi Thừa phát lại đã thực hiện xong các thủ tục theo quy định của pháp luật, bao gồm cả việc thực hiện niêm yết công khai trong trường hợp không thể tống đạt trực tiếp mà theo quy định của pháp luật tố tụng và pháp luật về thi hành án dân sự phải niêm yết công khai.\nMục 2. LẬP VI BẰNG\nĐiều 7. Giá trị pháp lý của vi bằng Vi bằng do Thừa phát lại lập là nguồn chứng cứ để Tòa án xem xét khi giải quyết vụ án và là căn cứ để thực hiện các giao dịch hợp pháp theo quy định của pháp luật. Trong quá trình đánh giá, xem xét giá trị chứng cứ của vi bằng, nếu xét thấy cần thiết, Tòa án, Viện Kiểm sát nhân dân có thể triệu tập Thừa phát lại để làm rõ tính xác thực của vi bằng.\nĐiều 8. Sửa chữa lỗi kỹ thuật vi bằng\n1. Trong trường hợp có sai sót về kỹ thuật\ntrong khi ghi chép, đánh máy, in ấn vi bằng mà việc sửa chữa không làm ảnh hưởng đến tính xác thực của vi bàng thì Thừa phát lại có trách nhiệm sửa lỗi đó. Việc sửa chữa lỗi kỹ thuật của vi bằng phải được thực hiện bằng văn bản, do Thừa phát lại lập, ký và đóng dấu của Văn phòng Thừa phát lại. Trong trường hợp vi bằng đã được giao cho người yêu cầu và đăng ký tại Sở Tư pháp thì Thừa phát lại phải thông báo bằng văn bản việc sửa chữa lỗi kỹ thuật cho người yêu cầu và Sở Tư pháp biết. Sở Tư pháp phải có văn bản thông báo việc chấp nhận hoặc không chấp nhận việc sửa đổi, bổ sung cho Thừa phát lại và người yêu cầu biết.\n2. Vi bằng có từ hai trang trở lên thì từng\ntrang phải được đánh số thứ tự và đóng dấu giáp lai.\nMục 3. XÁC MINH ĐIỀU\nKIỆN THI HÀNH ÁN VÀ CHẤM DỨT THI HÀNH ÁN\nĐiều 9. Xác minh điều kiện thi hành án\n1. Người được thi hành án, người phải thi\nhành án, người có quyền lợi, nghĩa vụ liên quan đến việc thi hành án trong các vụ việc thuộc thẩm quyền thi hành án của các Cơ quan thi hành án dân sự trên địa bàn cấp tỉnh nơi đặt Văn phòng Thừa phát lại có quyền thỏa thuận với Văn phòng Thừa phát lại về việc xác minh điều kiện thi hành án. Khi thỏa thuận với Văn phòng Thừa phát lại về xác minh điều kiện thi hành án người được thi hành án, người phải thi hành án phải cung cấp bản án, quyết định của Tòa án và các tài liệu khác liên quan (nếu có); người có quyền lợi, nghĩa vụ liên quan đến việc thi hành án phải cung cấp tài liệu chứng minh quyền lợi, nghĩa vụ của mình liên quan trực tiếp đến việc thi hành án.\n2. Thỏa thuận về xác minh điều kiện thi hành\nán giữa người yêu cầu và Văn phòng Thừa phát lại được ký kết dưới hình thức hợp đồng dịch vụ. Trong thời hạn 03 ngày làm việc, kể từ ngày ký kết hợp đồng, Trưởng Văn phòng Thừa phát lại phải ra Quyết định xác minh điều kiện thi hành án, trừ trường hợp các bên có thỏa thuận khác. Quyết định xác minh điều kiện thi hành án phải được gửi cho Viện Kiểm sát nhân dân cấp huyện nơi đặt Văn phòng Thừa phát lại và Cơ quan thi hành án dân sự có thẩm quyền thi hành án theo quy định của Luật Thi hành án dân sự.\nĐiều 10. Chấm dứt việc thi hành án\n1. Trường hợp người yêu cầu đề nghị Văn phòng\nThừa phát lại không tiếp tục việc thi hành án hoặc Thừa phát lại tổ chức thi hành án mà phát sinh điều kiện thi hành án nằm ngoài địa bàn cấp tỉnh nơi đặt Văn phòng Thừa phát lại thì xử lý như sau:\na) Các bên cùng nhau thanh lý hợp đồng;\nb) Trưởng Văn phòng Thừa phát lại ra quyết\nđịnh hoặc đề nghị cơ quan có thẩm quyền ra quyết định thu hồi các quyết định, thông báo, văn bản về thi hành án chưa thực hiện xong;\nc) Các vấn đề khác phát sinh được giải quyết\ntheo quy định của pháp luật về thi hành án dân sự.\n2. Quy định tại khoản 1 Điều này không được\náp dụng đối với trường hợp người yêu cầu đề nghị Văn phòng Thừa phát lại chấm dứt việc thi hành án làm ảnh hưởng đến quyền và lợi ích hợp pháp của người thứ ba.\n3. Trong quá trình thanh lý hợp đồng và giải\nquyết các vấn đề phát sinh, nếu có tranh chấp thì các bên yêu cầu Tòa án giải quyết theo quy định của pháp luật.\nMục 4. BIỂU MẪU\nNGHIỆP VỤ CỦA VĂN PHÒNG THỪA PHÁT LẠI\nĐiều 11. Biểu mẫu nghiệp vụ của Văn phòng Thừa phát lại\n1. Ban hành 113 biểu mẫu nghiệp vụ của Văn\nphòng Thừa phát lại kèm theo Thông tư này, bao gồm:\na) Các sổ theo dõi nghiệp vụ;\nb) Các mẫu hợp đồng thực hiện công việc;\nc) Các mẫu quyết định về thi hành án dân sự;\nd) Các mẫu giấy báo, triệu tập, thông báo, mẫu\nbiên bản, mẫu đơn trong thi hành án dân sự.\n2. Tòa án, Cơ quan thi hành án dân sự lập sổ theo dõi để quản lý\ncác hoạt động của cơ quan mình liên quan đến Thừa phát lại. Việc lập và sử dụng sổ theo dõi được lấy từ nguồn kinh phí hoạt động của Tòa án, Cơ quan thi hành án dân sự theo quy định của pháp luật.\nChương III\nCHI PHÍ\nTHỰC HIỆN CÔNG VIỆC CỦA THỪA PHÁT LẠI\nĐiều 12. Đối tượng chịu chi phí tống đạt Ngân sách nhà nước chi trả chi phí tống đạt đối với trường hợp tống đạt các văn bản của Tòa án, Cơ quan thi hành án dân sự, trừ trường hợp pháp luật về tố tụng và pháp luật về thi hành án dân sự quy định đương sự phải chi phí tống đạt, chi phí thông báo.\nĐiều 13. Mức chi phí tống đạt Tòa án nhân dân, Cục Thi hành án dân sự phối hợp với Sở Tư pháp, Sở Tài chính cấp tỉnh nơi đặt Văn phòng Thừa phát lại thỏa thuận với các Văn phòng Thừa phát lại để thống nhất, quyết định cụ thể mức chi phí tống đạt áp dụng đối với từng quận, huyện trên địa bàn căn cứ vào tình hình thực tế ở địa phương mình; đồng thời, gửi Kho bạc Nhà nước nơi mở tài khoản của các đơn vị thực hiện chi trả chi phí tống đạt trên địa bàn để làm cơ sở xác định chi phí tống đạt theo các mức như sau:\n1. Trong phạm vi cấp huyện nơi đặt Văn phòng\nThừa phát lại không quá 65.000 đồng/việc (bao gồm cả thuế giá trị gia tăng).\n2. Ngoài phạm vi cấp huyện nơi đặt Văn phòng\nThừa phát nhưng trong địa bàn cấp tỉnh không quá 130.000 đồng/việc (bao gồm cả thuế giá trị gia tăng).\n3. Trường hợp tống đạt văn bản ngoài địa bàn\ncấp tỉnh nơi đặt Văn phòng Thừa phát lại thì Tòa án, Cơ quan thi hành án dân sự thỏa thuận với Văn phòng Thừa phát lại về chi phí tống đạt, gồm:\na) Chi phí phát sinh thực tế nhưng không vượt\nquá chế độ công tác phí theo quy định của pháp luật áp dụng đối với các cơ quan nhà nước và đơn vị sự nghiệp công lập;\nb) Tiền công theo ngày làm việc của người\nthực hiện việc tống đạt nhưng không vượt quá mức lương tối thiểu đối với người lao động làm việc tại cơ quan nhà nước và đơn vị sự nghiệp công lập.\n4. Chi phí tống đạt quy định tại Điều này bao\ngồm cả việc thực hiện niêm yết công khai trong trường hợp không thể tống đạt trực tiếp mà theo quy định của pháp luật tố tụng và thi hành án dân sự phải niêm yết công khai.\n5. Mức chi phí tống đạt quy định tại Điều này\nchỉ áp dụng đối với các hợp đồng được thực hiện kể từ ngày Thông tư liên tịch này có hiệu lực thi hành.\nĐiều 14. Thanh toán chi phí tống đạt\n1. Việc thanh toán chi phí tống đạt được thực\nhiện hàng tháng. Văn phòng Thừa phát lại có trách nhiệm lập và giao hóa đơn dịch vụ cho Tòa án, Cơ quan thi hành án dân sự. Trong thời hạn 5 ngày làm việc, kể từ ngày nhận được hóa đơn, các cơ quan trên có trách nhiệm hoàn tất thủ tục, hồ sơ thanh toán bằng hình thức chuyển khoản gửi Kho bạc Nhà nước nơi mở tài khoản để kiểm soát thanh toán chi phí tống đạt cho Văn phòng Thừa phát lại.\n2. Trong trường hợp chưa thu được tiền của\nđương sự tại thời điểm thanh toán theo quy định tại khoản 1 Điều này thì Cơ quan thi hành án dân sự tạm ứng trước kinh phí đế thanh toán cho Văn phòng Thừa phát lại từ nguồn dự toán kinh phí được cấp có thẩm quyền giao theo quy định của pháp luật về ngân sách nhà nước. Cơ quan thi hành án dân sự có trách nhiệm đôn đốc thu hồi khoản tiền tống đạt mà đương sự phải nộp để hoàn trả cho ngân sách nhà nước.\n3. Trong trường hợp tống đạt văn bản của Cơ\nquan thi hành án dân sự, nếu vụ việc được ủy thác thì Cơ quan thi hành án dân sự đã chuyển giao văn bản cho Thừa phát lại tống đạt phải thanh toán chi phí tống đạt đã thực hiện. Trường hợp đương sự phải chịu chi phí tống đạt nhưng chưa thu được thì Cơ quan thi hành án dân sự ủy thác phải có văn bản đề nghị Cơ quan thi hành án dân sự nơi nhận ủy thác thu hồi chi phí tống đạt của đương sự.\n4. Kho bạc Nhà nước kiểm soát thanh toán chi\nphí tống đạt theo quy định hiện hành của nhà nước tại Thông tư số 161/2012/TT-BTC ngày 02/10/2012 của Bộ Tài chính về việc quy định chế độ kiểm soát, thanh toán các khoản chi ngân sách nhà nước qua Kho bạc Nhà nước.\nĐiều 15. Lập dự toán kinh phí tống đạt Hàng năm, căn cứ vào khối lượng công việc của năm trước, mức chi phí quy định tại Điều 13 của Thông tư này và công việc dự kiến thực hiện cho năm kế hoạch, Tòa án và Cơ quan thi hành án dân sự nơi thực hiện thí điểm lập dự toán kinh phí tống đạt để tổng hợp chung vào dự toán ngân sách của cơ quan mình gửi cơ quan cấp trên theo quy định của pháp luật về ngân sách Nhà nước, trong đó tách riêng làm 2 phần:\n1. Kinh phí tống đạt trong trường hợp ngân\nsách nhà nước chi trả.\n2. Kinh phí tạm ứng trong trường hợp đương sự\nphải chi trả.\nĐiều 16. Chi phí lập vi bằng và xác minh điều kiện thi hành án\n1. Văn phòng Thừa phát lại quy định và niêm\nyết công khai khung giá về chi phí lập vi bằng và xác minh điều kiện thi hành án, trong đó xác định rõ mức tối đa, mức tối thiểu, nguyên tắc tính. Trên cơ sở khung giá đã niêm yết, người yêu cầu và Văn phòng Thừa phát lại thỏa thuận về chi phí thực hiện theo công việc hoặc theo giờ làm việc và các khoản chi phí thực tế phát sinh gồm: chi phí đi lại; phí dịch vụ cho các cơ quan cung cấp thông tin; chi phí cho người làm chứng, người tham gia hoặc chi phí khác, nếu có.\n2. Trong trường hợp Văn phòng Thừa phát lại\ntổ chức thi hành án mà phải tiến hành xác minh thì chi phí xác minh do Thừa phát lại và người yêu cầu thỏa thuận theo quy định tại khoản 1 Điều này hoặc được tính vào chi phí thi hành án dân sự quy định tại Điều 17 của Thông tư này.\nĐiều 17. Chi phí thi hành án dân sự\n1. Đối với việc trực tiếp tổ chức thi hành\nán, Văn phòng Thừa phát lại được thu chi phí theo mức phí thi hành án dân sự theo quy định của pháp luật về phí thi hành án dân sự. Đối với những vụ việc phức tạp, Văn phòng Thừa phát lại có thể thỏa thuận thêm với đương sự về chi phí thực hiện công việc.\n2. Trường hợp được miễn, giảm chi phí cưỡng\nchế thi hành án theo quy định của pháp luật về thi hành án dân sự, người phải thi hành án có đơn đề nghị gửi Văn phòng Thừa phát lại kèm theo các tài liệu chứng minh. Trong thời hạn không quá 10 ngày, kể từ ngày nhận được đơn và tài liệu của đương sự, Trưởng Văn phòng Thừa phát lại lập hồ sơ đề nghị Cục trưởng Cục Thi hành án dân sự nơi đặt Văn phòng Thừa phát lại xem xét, quyết định. Cục trưởng Cục Thi hành án dân sự xem xét, quyết định việc miễn, giảm và thực hiện việc chi trả số tiền được miễn, giảm cho Văn phòng Thừa phát lại trong thời hạn 10 ngày, kể từ ngày nhận được đề nghị, đồng thời tổng hợp số kinh phí phải thực hiện để đề nghị Bộ Tư pháp cấp bổ sung. Nếu đề nghị miễn, giảm bị từ chối thì Trưởng Văn phòng Thừa phát lại phải trả lời bằng văn bản cho đương sự và nêu rõ lý do.\nChương IV\nTỔ CHỨC VĂN PHÒNG THỪA PHÁT LẠI\nĐiều 18. Chế độ hoạt động của Văn phòng Thừa phát lại\n1. Văn phòng Thừa phát lại là tổ chức hành\nnghề của Thừa phát lại, được tổ chức và hoạt động theo loại hình doanh nghiệp, thực hiện các dịch vụ công, không vì mục đích lợi nhuận.\n2. Văn phòng Thừa phát lại do một Thừa phát\nlại thành lập được tổ chức và hoạt động theo loại hình doanh nghiệp tư nhân. Văn phòng Thừa phát lại do từ hai Thừa phát lại trở lên thành lập được tổ chức và hoạt động theo loại hình công ty hợp danh.\n3. Chế độ tài chính của Văn phòng Thừa phát\nlại được thực hiện theo chế độ tài chính của loại hình doanh nghiệp tương ứng theo quy định của pháp luật về doanh nghiệp.\nĐiều 19. Thẻ, trang phục của Thừa phát lại\n1. Mẫu Thẻ Thừa phát lại và mẫu trang phục\ncủa Thừa phát lại do Bộ trưởng Bộ Tư pháp quy định.\n2. Kinh phí cấp phát Thẻ Thừa phát lại do\nngân sách nhà nước bảo đảm từ nguồn kinh phí thường xuyên hàng năm của Bộ Tư pháp. Văn phòng Thừa phát lại có trách nhiệm bảo đảm trang phục cho Thừa phát lại hoạt động tại Văn phòng mình từ nguồn kinh phí của Văn phòng.\nĐiều 20. Việc giải thể, chấm dứt hoạt động của Văn phòng Thừa phát lại Việc giải thể, chấm dứt hoạt động của Văn phòng Thừa phát lại thực hiện theo quy định của pháp luật về doanh nghiệp, Nghị định số 61/2009/NĐ-CP ngày 24 tháng 7 năm 2009 của Chính phủ, Nghị định số 135/2013/NĐ-CP ngày 18 tháng 10 năm 2013 của Chính phủ và tùy từng trường hợp, Văn phòng Thừa phát lại còn phải thực hiện các công việc sau đây:\n1. Trường hợp tự giải thể, Văn phòng Thừa\nphát lại phải có phương án giải thể gửi Sở Tư pháp nơi đặt Văn phòng Thừa phát lại. Trên cơ sở đồng ý của Sở Tư pháp thì tiến hành các thủ tục sau:\na) Hoàn tất việc đăng ký các vi bằng đã được\nlập;\nb) Thanh lý các hợp đồng theo quy định của pháp\nluật;\nc) Xử lý các công việc về thi hành án theo\nquy định của pháp luật.\n2. Trường hợp Chủ tịch Ủy ban nhân dân cấp\ntỉnh quyết định đình chỉ hoạt động của Văn phòng Thừa phát lại thì trong thời hạn 30 ngày, kể từ ngày nhận được quyết định, Văn phòng Thừa phát lại phải thực hiện các nội dung nêu tại khoản 1 Điều này.\n3. Giám đốc Sở Tư pháp có trách nhiệm giúp Ủy\nban nhân dân cấp tỉnh theo dõi, đôn đốc thực hiện các công việc khi Văn phòng Thừa phát lại giải thể, chấm dứt hoạt động.\nChương V\nKIỂM\nSÁT, THANH TRA, KIỂM TRA HOẠT ĐỘNG CỦA THỪA PHÁT LẠI\nĐiều 21. Phạm vi, thẩm quyền kiểm sát hoạt động của Thừa phát lại Viện Kiểm sát nhân dân cấp huyện nơi đặt Văn phòng Thừa phát lại có thẩm quyền:\n1. Kiểm sát việc tuân theo pháp luật của Thừa\nphát lại trong việc tống đạt các văn bản theo quy định của Luật tổ chức Viện kiểm sát nhân dân, pháp luật về thi hành án dân sự và pháp luật về tố tụng.\n2. Kiểm sát việc tuân theo pháp luật của Thừa\nphát lại trong việc thi hành án theo quy định của Luật tổ chức Viện kiểm sát nhân dân và pháp luật về thi hành án dân sự.\nĐiều 22. Quyền kháng nghị, kiến nghị, yêu cầu của Viện Kiểm sát nhân dân\n1. Viện Kiểm sát nhân dân cấp huyện nơi đặt\nVăn phòng Thừa phát lại có quyền kháng nghị quyết định, hành vi pháp luật của Trưởng Văn phòng Thừa phát lại, Thừa phát lại trong thời hạn 15 ngày, kể từ ngày nhận được quyết định hoặc phát hiện hành vi vi phạm. Trưởng Văn phòng Thừa phát lại có trách nhiệm trả lời kháng nghị và thực hiện nội dung kháng nghị trong thời hạn 20 ngày, kể từ ngày nhận được kháng nghị. Trường hợp không chấp nhận kháng nghị thì Trưởng văn phòng Thừa phát lại có quyền kiến nghị Cục trưởng Cục Thi hành án dân sự cấp tỉnh nơi đặt Văn phòng Thừa phát lại xem xét trong thời hạn 05 ngày làm việc, kể từ ngày nhận được kháng nghị. Văn bản kiến nghị được gửi đồng thời cho Viện Kiểm sát nhân dân đã kháng nghị và Viện Kiểm sát nhân dân cấp trên trực tiếp của Viện Kiểm sát nhân dân đã kháng nghị. Cục trưởng Cục thi hành án dân sự có trách nhiệm trả lời trong thời hạn 30 ngày, kể từ ngày nhận được kiến nghị; văn bản trả lời của Cục trưởng Cục Thi hành án dân sự có hiệu lực thi hành. Văn bản trả lời kiến nghị được gửi đồng thời cho Viện Kiểm sát nhân dân cùng cấp và Viện Kiểm sát nhân dân đã kháng nghị. Trường hợp xét thấy văn bản trả lời kháng nghị không có căn cứ thì Viện trưởng Viện Kiểm sát nhân dân tối cao có văn bản đề nghị Bộ trưởng Bộ Tư pháp xem xét lại văn bản trả lời của Cục trưởng Cục Thi hành án dân sự.\n2. Việc thực hiện các quyền kiến nghị và yêu\ncầu của Viện Kiểm sát nhân dân trong kiểm sát hoạt động của Thừa phát lại được thực hiện theo quy định của Luật tổ chức Viện Kiểm sát nhân dân, pháp luật về tố tụng và pháp luật về thi hành án dân sự.\nĐiều 23. Kiểm tra, thanh tra hoạt động của Thừa phát lại\n1. Sở Tư pháp có trách nhiệm chủ trì, phối\nhợp với các Sở, ban, ngành, cơ quan, tổ chức có liên quan giúp Ủy ban nhân dân cấp tỉnh nơi thực hiện thí điểm kiểm tra về tổ chức và hoạt động của các Văn phòng Thừa phát lại trên địa bàn. Trong phạm vi nhiệm vụ, quyền hạn của mình, các cơ quan nhà nước có thẩm quyền khác có trách nhiệm kiểm tra tổ chức và hoạt động của Văn phòng Thừa phát lại theo quy định của pháp luật.\n2. Công tác thanh tra đối với tổ chức và hoạt\nđộng của Văn phòng Thừa phát lại được thực hiện theo quy định của pháp luật về thanh tra.\nChương VI\nTỔ CHỨC THỰC HIỆN\nĐiều 24. Tổ chức thực hiện\n1. Định kỳ sáu tháng và đột xuất, Tổng cục\nThi hành án dân sự thuộc Bộ Tư pháp, các đơn vị chức năng của Toà án nhân dân tối cao, Viện kiểm sát nhân dân tối cao, Bộ Tài chính tổ chức đánh giá việc thực hiện các quy định của Thông tư này, kịp thời có biện pháp xử lý, giải quyết hoặc báo cáo, kiến nghị Lãnh đạo liên ngành, Ban Chỉ đạo thực hiện thí điểm chế định Thừa phát lại Trung ương xử lý, giải quyết.\n2. Định kỳ ba tháng và đột xuất, Sở Tư pháp,\nToà án nhân dân, Cục Thi hành án dân sự, Viện kiểm sát nhân dân, Sở Tài chính cấp tỉnh nơi thực hiện thí điểm phải trao đổi, tổ chức đánh giá việc thực hiện các quy định của Thông tư này, kịp thời có biện pháp xử lý, giải quyết hoặc báo cáo, kiến nghị Lãnh đạo liên ngành, Ban Chỉ đạo thực hiện thí điểm chế định Thừa phát lại tại địa phương xử lý, giải quyết.\n3. Trong quá trình thực hiện, nếu có vướng\nmắc các cơ quan, tổ chức, cá nhân có liên quan kịp thời báo cáo cấp có thẩm quyền để có biện pháp giải quyết.\nĐiều 25. Hiệu lực thi hành\n1. Thông tư liên tịch này có hiệu lực từ ngày\n20 tháng 4 năm 2014.\n2. Thông tư này thay thế các Thông tư sau:\na) Thông tư liên tịch số 12/2010/TTLT-BTP-BTC-TANDTC\nngày 24 tháng 6 năm 2010 của Bộ Tư pháp, Tòa án nhân dân tối cao, Bộ Tài chính hướng dẫn một số điều của Nghị định 61/2009/NĐ-CP ngày 24 tháng 7 năm 2009 của Chính phủ về tổ chức và hoạt động của Thừa phát lại thực hiện thí điểm tại Thành phố Hồ Chí Minh;\nb) Thông tư liên tịch số 13/2010/TTLT-BTP-TANDTC-VKSNDTC\nngày 7 tháng 7 năm 2010 của Bộ Tư pháp, Tòa án nhân dân tối cao, Viện Kiểm sát nhân dân tối cao hướng dẫn thủ tục thực hiện một số công việc của Thừa phát lại thực hiện thí điểm tại Thành phố Hồ Chí Minh;\nc) Thông tư số 03/2009/TT-BTP ngày 30 tháng 9\nnăm 2009 của Bộ Tư pháp hướng dẫn thực hiện một số quy định của Nghị định số 61/2009/NĐ-CP ngày 24 tháng 7 năm 2009 của Chính phủ về tổ chức và hoạt động của Thừa phát lại thực hiện thí điểm tại thành phố Hồ Chí Minh.\n3. Đối với những công việc Văn phòng Thừa\nphát lại đã thụ lý giải quyết nhưng đến thời điểm Thông tư liên tịch này có hiệu lực mà chưa thực hiện xong thì tiếp tục thực hiện theo quy định của Thông tư này./.\nKT. CHÁNH ÁN\nTÒA ÁN NHÂN DÂN TỐI CAO\nPHÓ CHÁNH ÁN\nNguyễn Sơn\nKT. VIỆN TRƯỞNG\nVIỆN KIỂM SÁT NHÂN DÂN TỐI CAO\nPHÓ VIỆN TRƯỞNG\nNguyễn Hải Phong\nKT. BỘ TRƯỞNG BỘ TÀI CHÍNH\nTHỨ TRƯỞNG\nTrương Chí Trung\nKT. BỘ TRƯỞNG BỘ TƯ PHÁP\nTHỨ TRƯỞNG\nĐinh Trung Tụng\nNơi nhận:\n-\nThủ tướng Chính phủ và các PTT Chính phủ;\n- Văn phòng Chủ tịch nước;\n- Văn phòng Quốc hội và các UB của Quốc hội;\n- Văn phòng Tổng Bí thư;\n- Văn phòng Trung ương và các Ban của Đảng;\n- Tòa án nhân dân tối cao;\n- Viện Kiểm sát nhân dân tối cao;\n- Văn phòng Chính phủ;\n- Các Bộ, cơ quan ngang Bộ, cơ quan thuộc CP;\n- Kiểm toán nhà nước;\n- UBTW Mặt trận tổ quốc Việt Nam;\n- Cơ quan Trung ương của các đoàn thể;\n- HĐND, UBND các tỉnh/thành phố trực thuộc TW;\n- Sở Tư pháp, Tòa án nhân dân, Viện Kiểm sát nhân dân, Sở Tài chính, Cục Thi\nhành án dân sự tỉnh/thành phố trực thuộc TW nơi thực hiện thí điểm chế định\nThừa phát lại;\n- Cục Kiểm tra VBQPPL, Bộ Tư pháp;\n- Công báo;\n- Website: Chính phủ; Bộ Tư pháp; Tòa án nhân dân tối cao, Viện Kiểm sát nhân\ndân tối cao, Bộ Tài chính;\n- Lưu: VT BTP, TANDTC, VKSNDTC, BTC.\nFILE ĐƯỢC ĐÍNH KÈM THEO VĂN BẢN",
+  "tree": {
+    "parts": [
+      {
+        "part_id": "doc:161167:part:1",
+        "part_type": "main",
+        "part_title": null,
+        "reference": null,
+        "direct_text": "THÔNG TƯ LIÊN TỊCH HƯỚNG\nDẪN THỰC HIỆN THÍ ĐIỂM CHẾ ĐỊNH THỪA PHÁT LẠI THEO NGHỊ QUYẾT SỐ 36/2012/QH13\nNGÀY 23/11/2012 CỦA QUỐC HỘI\nCăn cứ Luật Thi hành án dân sự; Căn cứ Luật Ban hành văn bản quy phạm pháp luật; Căn cứ Luật Tổ chức Tòa án nhân dân; Căn cứ Luật Tổ chức Viện kiểm sát nhân dân; Căn cứ Nghị quyết số 36/2012/QH13 ngày 23/11/2012 của Quốc hội về việc tiếp tục thực hiện thí điểm chế định Thừa phát lại; Căn cứ Nghị định số 61/2009/NĐ-CP ngày 24 tháng 7 năm 2009 của Chính phủ về tổ chức và hoạt động của Thừa phát lại thực hiện thí đỉểm tại thành phố Hồ Chí Minh; Căn cứ Nghị định số 135/2013/NĐ-CP ngày 18 tháng 10 năm 2013 của Chính phủ sửa đổi, bổ sung tên gọi và một số điều của Nghị định số 61/2009/NĐ-CP ngày 24 tháng 7 năm 2009 của Chính phủ về tổ chức và hoạt động của Thừa phát lại thực hiện thí điểm tại thành phố Hồ Chí Minh; Căn cứ Nghị định số 60/2003/NĐ-CP ngày 06 tháng 6 năm 2003 của Chính phủ quy định chi tiết và hướng dẫn thi hành Luật Ngân sách nhà nước; Căn cứ Nghị định số 22/2013/NĐ-CP ngày 13 tháng 03 năm 2013 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tư pháp; Căn cứ Nghị định số 215/2013/NĐ-CP ngày 23 tháng 12 năm 2013 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài chính; Bộ trưởng Bộ Tư pháp, Chánh án Tòa án nhân dân tối cao, Viện trưởng Viện Kiểm sát nhân dân tối cao, Bộ trưởng Bộ Tổ chức ban hành Thông tư liên tịch hướng dẫn thực hiện thí điểm chế định Thừa phát lại theo Nghị quyết số 36/2012/QH13 ngày 23 tháng 11 năm 2012 của Quốc hội.",
+        "chapters": [
+          {
+            "chapter_id": "doc:161167:part:1:chapter:1",
+            "number": "I",
+            "title": "NHỮNG QUY ĐỊNH CHUNG",
+            "content": "Chương I\nNHỮNG QUY ĐỊNH CHUNG",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:161167:part:1:article:1",
+                "number": "1",
+                "title": "Phạm vi điều chỉnh Thông tư này hướng dẫn về thủ tục, chi phí thực hiện công việc của Thừa phát lại; tổ chức Văn phòng Thừa phát lại; kiểm sát, thanh tra, kiểm tra hoạt động của Thừa phát lại tại các tỉnh, thành phố trực thuộc Trung ương (sau đây viết tắt là cấp tỉnh) nơi thực hiện thí điểm chế định Thừa phát lại.",
+                "content": "Điều 1. Phạm vi điều chỉnh Thông tư này hướng dẫn về thủ tục, chi phí thực hiện công việc của Thừa phát lại; tổ chức Văn phòng Thừa phát lại; kiểm sát, thanh tra, kiểm tra hoạt động của Thừa phát lại tại các tỉnh, thành phố trực thuộc Trung ương (sau đây viết tắt là cấp tỉnh) nơi thực hiện thí điểm chế định Thừa phát lại.",
+                "clauses": [],
+                "points": []
+              },
+              {
+                "article_id": "doc:161167:part:1:article:2",
+                "number": "2",
+                "title": "Đối tượng áp dụng Thông tư liên tịch này được áp dụng đối với:",
+                "content": "Điều 2. Đối tượng áp dụng Thông tư liên tịch này được áp dụng đối với:",
+                "clauses": [
+                  {
+                    "clause_id": "doc:161167:part:1:article:2:clause:1",
+                    "number": "1",
+                    "content": "1. Thừa phát lại, Văn phòng Thừa phát lại;",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:161167:part:1:article:2:clause:2",
+                    "number": "2",
+                    "content": "2. Tòa án nhân dân, Cơ quan thi hành án dân sự\nnơi thực hiện thí điểm chế định Thừa phát lại;",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:161167:part:1:article:2:clause:3",
+                    "number": "3",
+                    "content": "3. Các cơ quan, tổ chức, cá nhân có liên quan\ntrong việc thực hiện thí điểm chế định Thừa phát lại.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:161167:part:1:chapter:2",
+            "number": "II",
+            "title": "THỦ TỤC THỰC HIỆN CÔNG VIỆC CỦA THỪA PHÁT LẠI",
+            "content": "Chương II\nTHỦ TỤC\nTHỰC HIỆN CÔNG VIỆC CỦA THỪA PHÁT LẠI",
+            "sections": [
+              {
+                "section_id": "doc:161167:part:1:section:1",
+                "number": "1",
+                "title": "BẢN",
+                "content": "Mục 1. TỐNG ĐẠT VĂN\nBẢN",
+                "articles": [
+                  {
+                    "article_id": "doc:161167:part:1:article:3",
+                    "number": "3",
+                    "title": "Các loại văn bản Thừa phát lại được tống đạt Văn phòng Thừa phát lại thỏa thuận để tống đạt văn bản của Tòa án (trừ Tòa phúc thẩm Tòa án nhân dân tối cao), Cơ quan thi hành án dân sự các cấp trên địa bàn cấp tỉnh nơi đặt Văn phòng Thừa phát lại, bao gồm: Giấy báo, giấy triệu tập, giấy mời, quyết định đưa vụ án ra xét xử, bản án, quyết định trong trường hợp xét xử vắng mặt đương sự của Tòa án; các quyết định về thi hành án, giấy báo, giấy triệu tập của Cơ quan thi hành án dân sự. Trong trường hợp cần thiết, Tòa án, Cơ quan thi hành án dân sự có thể thỏa thuận với Văn phòng Thừa phát lại để tống đạt các loại văn bản, giấy tờ khác.",
+                    "content": "Điều 3. Các loại văn bản Thừa phát lại được tống đạt Văn phòng Thừa phát lại thỏa thuận để tống đạt văn bản của Tòa án (trừ Tòa phúc thẩm Tòa án nhân dân tối cao), Cơ quan thi hành án dân sự các cấp trên địa bàn cấp tỉnh nơi đặt Văn phòng Thừa phát lại, bao gồm: Giấy báo, giấy triệu tập, giấy mời, quyết định đưa vụ án ra xét xử, bản án, quyết định trong trường hợp xét xử vắng mặt đương sự của Tòa án; các quyết định về thi hành án, giấy báo, giấy triệu tập của Cơ quan thi hành án dân sự. Trong trường hợp cần thiết, Tòa án, Cơ quan thi hành án dân sự có thể thỏa thuận với Văn phòng Thừa phát lại để tống đạt các loại văn bản, giấy tờ khác.",
+                    "clauses": [],
+                    "points": []
+                  },
+                  {
+                    "article_id": "doc:161167:part:1:article:4",
+                    "number": "4",
+                    "title": "Ký hợp đồng dịch vụ tống đạt Việc ký hợp đồng dịch vụ tống đạt văn bản giữa Tòa án hoặc Cơ quan thi hành án dân sự với Văn phòng Thừa phát lại được thực hiện như sau:",
+                    "content": "Điều 4. Ký hợp đồng dịch vụ tống đạt Việc ký hợp đồng dịch vụ tống đạt văn bản giữa Tòa án hoặc Cơ quan thi hành án dân sự với Văn phòng Thừa phát lại được thực hiện như sau:",
+                    "clauses": [
+                      {
+                        "clause_id": "doc:161167:part:1:article:4:clause:1",
+                        "number": "1",
+                        "content": "1. Tòa án, Cơ quan Thi hành án dân sự ký hợp\nđồng nguyên tắc giao các loại văn bản cho Văn phòng Thừa phát lại tống đạt. Trên cơ sở hợp đồng, số lượng và từng loại văn bản cụ thể, giao Thừa phát lại tống đạt được thực hiện thông qua sổ giao nhận có xác nhận của 02 bên. Trường hợp tống đạt ngoài địa bàn cấp tỉnh nơi đặt Văn phòng Thừa phát lại thì Tòa án, Cơ quan thi hành án dân sự có thể thỏa thuận với Văn phòng Thừa phát lại bằng một hợp đồng riêng cho từng việc cụ thể.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:161167:part:1:article:4:clause:2",
+                        "number": "2",
+                        "content": "2. Một cơ quan thi hành án dân sự chỉ được ký\nhợp đồng với một Văn phòng Thừa phát lại. Trên cơ sở tình hình thực tế của địa phương, Chánh án Tòa án nhân dân cấp tỉnh quyết định cho mỗi Tòa án trên địa bàn có thể ký hợp đồng với một hoặc nhiều Văn phòng Thừa phát lại. Một Văn phòng Thừa phát lại có quyền ký hợp đồng tống đạt với nhiều Cơ quan thi hành án dân sự hoặc nhiều Tòa án trên địa bàn cấp tỉnh nơi đặt Văn phòng Thừa phát lại. Chánh án Tòa án nhân dân cấp tỉnh, Cục trưởng Cục Thi hành án dân sự phối hợp với Giám đốc Sở Tư pháp thống nhất địa hạt để các Văn phòng Thừa phát lại ký kết hợp đồng dịch vụ với các Tòa án, Cơ quan thi hành án dân sự trên địa bàn.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:161167:part:1:article:4:clause:3",
+                        "number": "3",
+                        "content": "3. Hợp đồng dịch vụ tống đạt gồm các nội dung\nchính sau: Các loại văn bản cần tống đạt; các loại công việc cần thông báo; thời gian thực hiện hợp đồng; thủ tục tống đạt; quyền, nghĩa vụ của các bên; chi phí tống đạt.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:161167:part:1:article:4:clause:4",
+                        "number": "4",
+                        "content": "4. Tòa án, Cơ quan thi hành án dân sự chuyển\ngiao tất cả các loại văn bản đã thỏa thuận và Văn phòng Thừa phát lại không được từ chối khi có yêu cầu tống đạt.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:161167:part:1:article:4:clause:5",
+                        "number": "5",
+                        "content": "5. Toà án, Cơ quan thi hành án dân sự có\ntrách nhiệm gửi 01 bản hợp đồng dịch vụ tống đạt với Văn phòng Thừa phát lại đến Kho bạc Nhà nước nơi mở tài khoản ngay sau khi ký kết.",
+                        "points": []
+                      }
+                    ],
+                    "points": []
+                  },
+                  {
+                    "article_id": "doc:161167:part:1:article:5",
+                    "number": "5",
+                    "title": "Giao nhận văn bản tống đạt Việc giao nhận các văn bản tống đạt giữa Tòa án, Cơ quan thi hành án dân sự với Văn phòng Thừa phát lại được thực hiện hàng ngày làm việc, trừ trường hợp có thỏa thuận khác, nhưng vẫn phải đảm bảo thời hạn tống đạt theo quy định của pháp luật về tố tụng, pháp luật về thi hành án dân sự và được ghi vào sổ giao nhận theo mẫu được ban hành kèm theo Thông tư này.",
+                    "content": "Điều 5. Giao nhận văn bản tống đạt Việc giao nhận các văn bản tống đạt giữa Tòa án, Cơ quan thi hành án dân sự với Văn phòng Thừa phát lại được thực hiện hàng ngày làm việc, trừ trường hợp có thỏa thuận khác, nhưng vẫn phải đảm bảo thời hạn tống đạt theo quy định của pháp luật về tố tụng, pháp luật về thi hành án dân sự và được ghi vào sổ giao nhận theo mẫu được ban hành kèm theo Thông tư này.",
+                    "clauses": [],
+                    "points": []
+                  },
+                  {
+                    "article_id": "doc:161167:part:1:article:6",
+                    "number": "6",
+                    "title": "Thủ tục tống đạt",
+                    "content": "Điều 6. Thủ tục tống đạt",
+                    "clauses": [
+                      {
+                        "clause_id": "doc:161167:part:1:article:6:clause:1",
+                        "number": "1",
+                        "content": "1. Thủ tục tống đạt văn bản về thi hành án\ndân sự thực hiện theo quy định của pháp luật về thi hành án dân sự; thủ tục tống đạt văn bản của Tòa án thực hiện theo quy định của pháp luật về tố tụng.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:161167:part:1:article:6:clause:2",
+                        "number": "2",
+                        "content": "2. Việc tống đạt được thực hiện theo biểu mẫu\ncủa Tòa án hoặc biểu mẫu được ban hành kèm theo Thông tư này. Việc tống đạt được coi là hoàn thành khi Thừa phát lại đã thực hiện xong các thủ tục theo quy định của pháp luật, bao gồm cả việc thực hiện niêm yết công khai trong trường hợp không thể tống đạt trực tiếp mà theo quy định của pháp luật tố tụng và pháp luật về thi hành án dân sự phải niêm yết công khai.",
+                        "points": []
+                      }
+                    ],
+                    "points": []
+                  }
+                ]
+              },
+              {
+                "section_id": "doc:161167:part:1:section:2",
+                "number": "2",
+                "title": "LẬP VI BẰNG",
+                "content": "Mục 2. LẬP VI BẰNG",
+                "articles": [
+                  {
+                    "article_id": "doc:161167:part:1:article:7",
+                    "number": "7",
+                    "title": "Giá trị pháp lý của vi bằng Vi bằng do Thừa phát lại lập là nguồn chứng cứ để Tòa án xem xét khi giải quyết vụ án và là căn cứ để thực hiện các giao dịch hợp pháp theo quy định của pháp luật. Trong quá trình đánh giá, xem xét giá trị chứng cứ của vi bằng, nếu xét thấy cần thiết, Tòa án, Viện Kiểm sát nhân dân có thể triệu tập Thừa phát lại để làm rõ tính xác thực của vi bằng.",
+                    "content": "Điều 7. Giá trị pháp lý của vi bằng Vi bằng do Thừa phát lại lập là nguồn chứng cứ để Tòa án xem xét khi giải quyết vụ án và là căn cứ để thực hiện các giao dịch hợp pháp theo quy định của pháp luật. Trong quá trình đánh giá, xem xét giá trị chứng cứ của vi bằng, nếu xét thấy cần thiết, Tòa án, Viện Kiểm sát nhân dân có thể triệu tập Thừa phát lại để làm rõ tính xác thực của vi bằng.",
+                    "clauses": [],
+                    "points": []
+                  },
+                  {
+                    "article_id": "doc:161167:part:1:article:8",
+                    "number": "8",
+                    "title": "Sửa chữa lỗi kỹ thuật vi bằng",
+                    "content": "Điều 8. Sửa chữa lỗi kỹ thuật vi bằng",
+                    "clauses": [
+                      {
+                        "clause_id": "doc:161167:part:1:article:8:clause:1",
+                        "number": "1",
+                        "content": "1. Trong trường hợp có sai sót về kỹ thuật\ntrong khi ghi chép, đánh máy, in ấn vi bằng mà việc sửa chữa không làm ảnh hưởng đến tính xác thực của vi bàng thì Thừa phát lại có trách nhiệm sửa lỗi đó. Việc sửa chữa lỗi kỹ thuật của vi bằng phải được thực hiện bằng văn bản, do Thừa phát lại lập, ký và đóng dấu của Văn phòng Thừa phát lại. Trong trường hợp vi bằng đã được giao cho người yêu cầu và đăng ký tại Sở Tư pháp thì Thừa phát lại phải thông báo bằng văn bản việc sửa chữa lỗi kỹ thuật cho người yêu cầu và Sở Tư pháp biết. Sở Tư pháp phải có văn bản thông báo việc chấp nhận hoặc không chấp nhận việc sửa đổi, bổ sung cho Thừa phát lại và người yêu cầu biết.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:161167:part:1:article:8:clause:2",
+                        "number": "2",
+                        "content": "2. Vi bằng có từ hai trang trở lên thì từng\ntrang phải được đánh số thứ tự và đóng dấu giáp lai.",
+                        "points": []
+                      }
+                    ],
+                    "points": []
+                  }
+                ]
+              },
+              {
+                "section_id": "doc:161167:part:1:section:3",
+                "number": "3",
+                "title": "KIỆN THI HÀNH ÁN VÀ CHẤM DỨT THI HÀNH ÁN",
+                "content": "Mục 3. XÁC MINH ĐIỀU\nKIỆN THI HÀNH ÁN VÀ CHẤM DỨT THI HÀNH ÁN",
+                "articles": [
+                  {
+                    "article_id": "doc:161167:part:1:article:9",
+                    "number": "9",
+                    "title": "Xác minh điều kiện thi hành án",
+                    "content": "Điều 9. Xác minh điều kiện thi hành án",
+                    "clauses": [
+                      {
+                        "clause_id": "doc:161167:part:1:article:9:clause:1",
+                        "number": "1",
+                        "content": "1. Người được thi hành án, người phải thi\nhành án, người có quyền lợi, nghĩa vụ liên quan đến việc thi hành án trong các vụ việc thuộc thẩm quyền thi hành án của các Cơ quan thi hành án dân sự trên địa bàn cấp tỉnh nơi đặt Văn phòng Thừa phát lại có quyền thỏa thuận với Văn phòng Thừa phát lại về việc xác minh điều kiện thi hành án. Khi thỏa thuận với Văn phòng Thừa phát lại về xác minh điều kiện thi hành án người được thi hành án, người phải thi hành án phải cung cấp bản án, quyết định của Tòa án và các tài liệu khác liên quan (nếu có); người có quyền lợi, nghĩa vụ liên quan đến việc thi hành án phải cung cấp tài liệu chứng minh quyền lợi, nghĩa vụ của mình liên quan trực tiếp đến việc thi hành án.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:161167:part:1:article:9:clause:2",
+                        "number": "2",
+                        "content": "2. Thỏa thuận về xác minh điều kiện thi hành\nán giữa người yêu cầu và Văn phòng Thừa phát lại được ký kết dưới hình thức hợp đồng dịch vụ. Trong thời hạn 03 ngày làm việc, kể từ ngày ký kết hợp đồng, Trưởng Văn phòng Thừa phát lại phải ra Quyết định xác minh điều kiện thi hành án, trừ trường hợp các bên có thỏa thuận khác. Quyết định xác minh điều kiện thi hành án phải được gửi cho Viện Kiểm sát nhân dân cấp huyện nơi đặt Văn phòng Thừa phát lại và Cơ quan thi hành án dân sự có thẩm quyền thi hành án theo quy định của Luật Thi hành án dân sự.",
+                        "points": []
+                      }
+                    ],
+                    "points": []
+                  },
+                  {
+                    "article_id": "doc:161167:part:1:article:10",
+                    "number": "10",
+                    "title": "Chấm dứt việc thi hành án",
+                    "content": "Điều 10. Chấm dứt việc thi hành án",
+                    "clauses": [
+                      {
+                        "clause_id": "doc:161167:part:1:article:10:clause:1",
+                        "number": "1",
+                        "content": "1. Trường hợp người yêu cầu đề nghị Văn phòng\nThừa phát lại không tiếp tục việc thi hành án hoặc Thừa phát lại tổ chức thi hành án mà phát sinh điều kiện thi hành án nằm ngoài địa bàn cấp tỉnh nơi đặt Văn phòng Thừa phát lại thì xử lý như sau:",
+                        "points": [
+                          {
+                            "point_id": "doc:161167:part:1:article:10:clause:1:point:1",
+                            "label": "a",
+                            "content": "a) Các bên cùng nhau thanh lý hợp đồng;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:161167:part:1:article:10:clause:1:point:2",
+                            "label": "b",
+                            "content": "b) Trưởng Văn phòng Thừa phát lại ra quyết\nđịnh hoặc đề nghị cơ quan có thẩm quyền ra quyết định thu hồi các quyết định, thông báo, văn bản về thi hành án chưa thực hiện xong;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:161167:part:1:article:10:clause:1:point:3",
+                            "label": "c",
+                            "content": "c) Các vấn đề khác phát sinh được giải quyết\ntheo quy định của pháp luật về thi hành án dân sự.",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "clause_id": "doc:161167:part:1:article:10:clause:2",
+                        "number": "2",
+                        "content": "2. Quy định tại khoản 1 Điều này không được\náp dụng đối với trường hợp người yêu cầu đề nghị Văn phòng Thừa phát lại chấm dứt việc thi hành án làm ảnh hưởng đến quyền và lợi ích hợp pháp của người thứ ba.",
+                        "points": []
+                      },
+                      {
+                        "clause_id": "doc:161167:part:1:article:10:clause:3",
+                        "number": "3",
+                        "content": "3. Trong quá trình thanh lý hợp đồng và giải\nquyết các vấn đề phát sinh, nếu có tranh chấp thì các bên yêu cầu Tòa án giải quyết theo quy định của pháp luật.",
+                        "points": []
+                      }
+                    ],
+                    "points": []
+                  }
+                ]
+              },
+              {
+                "section_id": "doc:161167:part:1:section:4",
+                "number": "4",
+                "title": "NGHIỆP VỤ CỦA VĂN PHÒNG THỪA PHÁT LẠI",
+                "content": "Mục 4. BIỂU MẪU\nNGHIỆP VỤ CỦA VĂN PHÒNG THỪA PHÁT LẠI",
+                "articles": [
+                  {
+                    "article_id": "doc:161167:part:1:article:11",
+                    "number": "11",
+                    "title": "Biểu mẫu nghiệp vụ của Văn phòng Thừa phát lại",
+                    "content": "Điều 11. Biểu mẫu nghiệp vụ của Văn phòng Thừa phát lại",
+                    "clauses": [
+                      {
+                        "clause_id": "doc:161167:part:1:article:11:clause:1",
+                        "number": "1",
+                        "content": "1. Ban hành 113 biểu mẫu nghiệp vụ của Văn\nphòng Thừa phát lại kèm theo Thông tư này, bao gồm:",
+                        "points": [
+                          {
+                            "point_id": "doc:161167:part:1:article:11:clause:1:point:1",
+                            "label": "a",
+                            "content": "a) Các sổ theo dõi nghiệp vụ;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:161167:part:1:article:11:clause:1:point:2",
+                            "label": "b",
+                            "content": "b) Các mẫu hợp đồng thực hiện công việc;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:161167:part:1:article:11:clause:1:point:3",
+                            "label": "c",
+                            "content": "c) Các mẫu quyết định về thi hành án dân sự;",
+                            "children": []
+                          },
+                          {
+                            "point_id": "doc:161167:part:1:article:11:clause:1:point:4",
+                            "label": "d",
+                            "content": "d) Các mẫu giấy báo, triệu tập, thông báo, mẫu\nbiên bản, mẫu đơn trong thi hành án dân sự.",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "clause_id": "doc:161167:part:1:article:11:clause:2",
+                        "number": "2",
+                        "content": "2. Tòa án, Cơ quan thi hành án dân sự lập sổ theo dõi để quản lý\ncác hoạt động của cơ quan mình liên quan đến Thừa phát lại. Việc lập và sử dụng sổ theo dõi được lấy từ nguồn kinh phí hoạt động của Tòa án, Cơ quan thi hành án dân sự theo quy định của pháp luật.",
+                        "points": []
+                      }
+                    ],
+                    "points": []
+                  }
+                ]
+              }
+            ],
+            "articles": []
+          },
+          {
+            "chapter_id": "doc:161167:part:1:chapter:3",
+            "number": "III",
+            "title": "CHI PHÍ THỰC HIỆN CÔNG VIỆC CỦA THỪA PHÁT LẠI",
+            "content": "Chương III\nCHI PHÍ\nTHỰC HIỆN CÔNG VIỆC CỦA THỪA PHÁT LẠI",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:161167:part:1:article:12",
+                "number": "12",
+                "title": "Đối tượng chịu chi phí tống đạt Ngân sách nhà nước chi trả chi phí tống đạt đối với trường hợp tống đạt các văn bản của Tòa án, Cơ quan thi hành án dân sự, trừ trường hợp pháp luật về tố tụng và pháp luật về thi hành án dân sự quy định đương sự phải chi phí tống đạt, chi phí thông báo.",
+                "content": "Điều 12. Đối tượng chịu chi phí tống đạt Ngân sách nhà nước chi trả chi phí tống đạt đối với trường hợp tống đạt các văn bản của Tòa án, Cơ quan thi hành án dân sự, trừ trường hợp pháp luật về tố tụng và pháp luật về thi hành án dân sự quy định đương sự phải chi phí tống đạt, chi phí thông báo.",
+                "clauses": [],
+                "points": []
+              },
+              {
+                "article_id": "doc:161167:part:1:article:13",
+                "number": "13",
+                "title": "Mức chi phí tống đạt Tòa án nhân dân, Cục Thi hành án dân sự phối hợp với Sở Tư pháp, Sở Tài chính cấp tỉnh nơi đặt Văn phòng Thừa phát lại thỏa thuận với các Văn phòng Thừa phát lại để thống nhất, quyết định cụ thể mức chi phí tống đạt áp dụng đối với từng quận, huyện trên địa bàn căn cứ vào tình hình thực tế ở địa phương mình; đồng thời, gửi Kho bạc Nhà nước nơi mở tài khoản của các đơn vị thực hiện chi trả chi phí tống đạt trên địa bàn để làm cơ sở xác định chi phí tống đạt theo các mức như sau:",
+                "content": "Điều 13. Mức chi phí tống đạt Tòa án nhân dân, Cục Thi hành án dân sự phối hợp với Sở Tư pháp, Sở Tài chính cấp tỉnh nơi đặt Văn phòng Thừa phát lại thỏa thuận với các Văn phòng Thừa phát lại để thống nhất, quyết định cụ thể mức chi phí tống đạt áp dụng đối với từng quận, huyện trên địa bàn căn cứ vào tình hình thực tế ở địa phương mình; đồng thời, gửi Kho bạc Nhà nước nơi mở tài khoản của các đơn vị thực hiện chi trả chi phí tống đạt trên địa bàn để làm cơ sở xác định chi phí tống đạt theo các mức như sau:",
+                "clauses": [
+                  {
+                    "clause_id": "doc:161167:part:1:article:13:clause:1",
+                    "number": "1",
+                    "content": "1. Trong phạm vi cấp huyện nơi đặt Văn phòng\nThừa phát lại không quá 65.000 đồng/việc (bao gồm cả thuế giá trị gia tăng).",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:161167:part:1:article:13:clause:2",
+                    "number": "2",
+                    "content": "2. Ngoài phạm vi cấp huyện nơi đặt Văn phòng\nThừa phát nhưng trong địa bàn cấp tỉnh không quá 130.000 đồng/việc (bao gồm cả thuế giá trị gia tăng).",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:161167:part:1:article:13:clause:3",
+                    "number": "3",
+                    "content": "3. Trường hợp tống đạt văn bản ngoài địa bàn\ncấp tỉnh nơi đặt Văn phòng Thừa phát lại thì Tòa án, Cơ quan thi hành án dân sự thỏa thuận với Văn phòng Thừa phát lại về chi phí tống đạt, gồm:",
+                    "points": [
+                      {
+                        "point_id": "doc:161167:part:1:article:13:clause:3:point:1",
+                        "label": "a",
+                        "content": "a) Chi phí phát sinh thực tế nhưng không vượt\nquá chế độ công tác phí theo quy định của pháp luật áp dụng đối với các cơ quan nhà nước và đơn vị sự nghiệp công lập;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:161167:part:1:article:13:clause:3:point:2",
+                        "label": "b",
+                        "content": "b) Tiền công theo ngày làm việc của người\nthực hiện việc tống đạt nhưng không vượt quá mức lương tối thiểu đối với người lao động làm việc tại cơ quan nhà nước và đơn vị sự nghiệp công lập.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:161167:part:1:article:13:clause:4",
+                    "number": "4",
+                    "content": "4. Chi phí tống đạt quy định tại Điều này bao\ngồm cả việc thực hiện niêm yết công khai trong trường hợp không thể tống đạt trực tiếp mà theo quy định của pháp luật tố tụng và thi hành án dân sự phải niêm yết công khai.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:161167:part:1:article:13:clause:5",
+                    "number": "5",
+                    "content": "5. Mức chi phí tống đạt quy định tại Điều này\nchỉ áp dụng đối với các hợp đồng được thực hiện kể từ ngày Thông tư liên tịch này có hiệu lực thi hành.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:161167:part:1:article:14",
+                "number": "14",
+                "title": "Thanh toán chi phí tống đạt",
+                "content": "Điều 14. Thanh toán chi phí tống đạt",
+                "clauses": [
+                  {
+                    "clause_id": "doc:161167:part:1:article:14:clause:1",
+                    "number": "1",
+                    "content": "1. Việc thanh toán chi phí tống đạt được thực\nhiện hàng tháng. Văn phòng Thừa phát lại có trách nhiệm lập và giao hóa đơn dịch vụ cho Tòa án, Cơ quan thi hành án dân sự. Trong thời hạn 5 ngày làm việc, kể từ ngày nhận được hóa đơn, các cơ quan trên có trách nhiệm hoàn tất thủ tục, hồ sơ thanh toán bằng hình thức chuyển khoản gửi Kho bạc Nhà nước nơi mở tài khoản để kiểm soát thanh toán chi phí tống đạt cho Văn phòng Thừa phát lại.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:161167:part:1:article:14:clause:2",
+                    "number": "2",
+                    "content": "2. Trong trường hợp chưa thu được tiền của\nđương sự tại thời điểm thanh toán theo quy định tại khoản 1 Điều này thì Cơ quan thi hành án dân sự tạm ứng trước kinh phí đế thanh toán cho Văn phòng Thừa phát lại từ nguồn dự toán kinh phí được cấp có thẩm quyền giao theo quy định của pháp luật về ngân sách nhà nước. Cơ quan thi hành án dân sự có trách nhiệm đôn đốc thu hồi khoản tiền tống đạt mà đương sự phải nộp để hoàn trả cho ngân sách nhà nước.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:161167:part:1:article:14:clause:3",
+                    "number": "3",
+                    "content": "3. Trong trường hợp tống đạt văn bản của Cơ\nquan thi hành án dân sự, nếu vụ việc được ủy thác thì Cơ quan thi hành án dân sự đã chuyển giao văn bản cho Thừa phát lại tống đạt phải thanh toán chi phí tống đạt đã thực hiện. Trường hợp đương sự phải chịu chi phí tống đạt nhưng chưa thu được thì Cơ quan thi hành án dân sự ủy thác phải có văn bản đề nghị Cơ quan thi hành án dân sự nơi nhận ủy thác thu hồi chi phí tống đạt của đương sự.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:161167:part:1:article:14:clause:4",
+                    "number": "4",
+                    "content": "4. Kho bạc Nhà nước kiểm soát thanh toán chi\nphí tống đạt theo quy định hiện hành của nhà nước tại Thông tư số 161/2012/TT-BTC ngày 02/10/2012 của Bộ Tài chính về việc quy định chế độ kiểm soát, thanh toán các khoản chi ngân sách nhà nước qua Kho bạc Nhà nước.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:161167:part:1:article:15",
+                "number": "15",
+                "title": "Lập dự toán kinh phí tống đạt Hàng năm, căn cứ vào khối lượng công việc của năm trước, mức chi phí quy định tại Điều 13 của Thông tư này và công việc dự kiến thực hiện cho năm kế hoạch, Tòa án và Cơ quan thi hành án dân sự nơi thực hiện thí điểm lập dự toán kinh phí tống đạt để tổng hợp chung vào dự toán ngân sách của cơ quan mình gửi cơ quan cấp trên theo quy định của pháp luật về ngân sách Nhà nước, trong đó tách riêng làm 2 phần:",
+                "content": "Điều 15. Lập dự toán kinh phí tống đạt Hàng năm, căn cứ vào khối lượng công việc của năm trước, mức chi phí quy định tại Điều 13 của Thông tư này và công việc dự kiến thực hiện cho năm kế hoạch, Tòa án và Cơ quan thi hành án dân sự nơi thực hiện thí điểm lập dự toán kinh phí tống đạt để tổng hợp chung vào dự toán ngân sách của cơ quan mình gửi cơ quan cấp trên theo quy định của pháp luật về ngân sách Nhà nước, trong đó tách riêng làm 2 phần:",
+                "clauses": [
+                  {
+                    "clause_id": "doc:161167:part:1:article:15:clause:1",
+                    "number": "1",
+                    "content": "1. Kinh phí tống đạt trong trường hợp ngân\nsách nhà nước chi trả.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:161167:part:1:article:15:clause:2",
+                    "number": "2",
+                    "content": "2. Kinh phí tạm ứng trong trường hợp đương sự\nphải chi trả.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:161167:part:1:article:16",
+                "number": "16",
+                "title": "Chi phí lập vi bằng và xác minh điều kiện thi hành án",
+                "content": "Điều 16. Chi phí lập vi bằng và xác minh điều kiện thi hành án",
+                "clauses": [
+                  {
+                    "clause_id": "doc:161167:part:1:article:16:clause:1",
+                    "number": "1",
+                    "content": "1. Văn phòng Thừa phát lại quy định và niêm\nyết công khai khung giá về chi phí lập vi bằng và xác minh điều kiện thi hành án, trong đó xác định rõ mức tối đa, mức tối thiểu, nguyên tắc tính. Trên cơ sở khung giá đã niêm yết, người yêu cầu và Văn phòng Thừa phát lại thỏa thuận về chi phí thực hiện theo công việc hoặc theo giờ làm việc và các khoản chi phí thực tế phát sinh gồm: chi phí đi lại; phí dịch vụ cho các cơ quan cung cấp thông tin; chi phí cho người làm chứng, người tham gia hoặc chi phí khác, nếu có.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:161167:part:1:article:16:clause:2",
+                    "number": "2",
+                    "content": "2. Trong trường hợp Văn phòng Thừa phát lại\ntổ chức thi hành án mà phải tiến hành xác minh thì chi phí xác minh do Thừa phát lại và người yêu cầu thỏa thuận theo quy định tại khoản 1 Điều này hoặc được tính vào chi phí thi hành án dân sự quy định tại Điều 17 của Thông tư này.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:161167:part:1:article:17",
+                "number": "17",
+                "title": "Chi phí thi hành án dân sự",
+                "content": "Điều 17. Chi phí thi hành án dân sự",
+                "clauses": [
+                  {
+                    "clause_id": "doc:161167:part:1:article:17:clause:1",
+                    "number": "1",
+                    "content": "1. Đối với việc trực tiếp tổ chức thi hành\nán, Văn phòng Thừa phát lại được thu chi phí theo mức phí thi hành án dân sự theo quy định của pháp luật về phí thi hành án dân sự. Đối với những vụ việc phức tạp, Văn phòng Thừa phát lại có thể thỏa thuận thêm với đương sự về chi phí thực hiện công việc.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:161167:part:1:article:17:clause:2",
+                    "number": "2",
+                    "content": "2. Trường hợp được miễn, giảm chi phí cưỡng\nchế thi hành án theo quy định của pháp luật về thi hành án dân sự, người phải thi hành án có đơn đề nghị gửi Văn phòng Thừa phát lại kèm theo các tài liệu chứng minh. Trong thời hạn không quá 10 ngày, kể từ ngày nhận được đơn và tài liệu của đương sự, Trưởng Văn phòng Thừa phát lại lập hồ sơ đề nghị Cục trưởng Cục Thi hành án dân sự nơi đặt Văn phòng Thừa phát lại xem xét, quyết định. Cục trưởng Cục Thi hành án dân sự xem xét, quyết định việc miễn, giảm và thực hiện việc chi trả số tiền được miễn, giảm cho Văn phòng Thừa phát lại trong thời hạn 10 ngày, kể từ ngày nhận được đề nghị, đồng thời tổng hợp số kinh phí phải thực hiện để đề nghị Bộ Tư pháp cấp bổ sung. Nếu đề nghị miễn, giảm bị từ chối thì Trưởng Văn phòng Thừa phát lại phải trả lời bằng văn bản cho đương sự và nêu rõ lý do.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:161167:part:1:chapter:4",
+            "number": "IV",
+            "title": "TỔ CHỨC VĂN PHÒNG THỪA PHÁT LẠI",
+            "content": "Chương IV\nTỔ CHỨC VĂN PHÒNG THỪA PHÁT LẠI",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:161167:part:1:article:18",
+                "number": "18",
+                "title": "Chế độ hoạt động của Văn phòng Thừa phát lại",
+                "content": "Điều 18. Chế độ hoạt động của Văn phòng Thừa phát lại",
+                "clauses": [
+                  {
+                    "clause_id": "doc:161167:part:1:article:18:clause:1",
+                    "number": "1",
+                    "content": "1. Văn phòng Thừa phát lại là tổ chức hành\nnghề của Thừa phát lại, được tổ chức và hoạt động theo loại hình doanh nghiệp, thực hiện các dịch vụ công, không vì mục đích lợi nhuận.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:161167:part:1:article:18:clause:2",
+                    "number": "2",
+                    "content": "2. Văn phòng Thừa phát lại do một Thừa phát\nlại thành lập được tổ chức và hoạt động theo loại hình doanh nghiệp tư nhân. Văn phòng Thừa phát lại do từ hai Thừa phát lại trở lên thành lập được tổ chức và hoạt động theo loại hình công ty hợp danh.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:161167:part:1:article:18:clause:3",
+                    "number": "3",
+                    "content": "3. Chế độ tài chính của Văn phòng Thừa phát\nlại được thực hiện theo chế độ tài chính của loại hình doanh nghiệp tương ứng theo quy định của pháp luật về doanh nghiệp.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:161167:part:1:article:19",
+                "number": "19",
+                "title": "Thẻ, trang phục của Thừa phát lại",
+                "content": "Điều 19. Thẻ, trang phục của Thừa phát lại",
+                "clauses": [
+                  {
+                    "clause_id": "doc:161167:part:1:article:19:clause:1",
+                    "number": "1",
+                    "content": "1. Mẫu Thẻ Thừa phát lại và mẫu trang phục\ncủa Thừa phát lại do Bộ trưởng Bộ Tư pháp quy định.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:161167:part:1:article:19:clause:2",
+                    "number": "2",
+                    "content": "2. Kinh phí cấp phát Thẻ Thừa phát lại do\nngân sách nhà nước bảo đảm từ nguồn kinh phí thường xuyên hàng năm của Bộ Tư pháp. Văn phòng Thừa phát lại có trách nhiệm bảo đảm trang phục cho Thừa phát lại hoạt động tại Văn phòng mình từ nguồn kinh phí của Văn phòng.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:161167:part:1:article:20",
+                "number": "20",
+                "title": "Việc giải thể, chấm dứt hoạt động của Văn phòng Thừa phát lại Việc giải thể, chấm dứt hoạt động của Văn phòng Thừa phát lại thực hiện theo quy định của pháp luật về doanh nghiệp, Nghị định số 61/2009/NĐ-CP ngày 24 tháng 7 năm 2009 của Chính phủ, Nghị định số 135/2013/NĐ-CP ngày 18 tháng 10 năm 2013 của Chính phủ và tùy từng trường hợp, Văn phòng Thừa phát lại còn phải thực hiện các công việc sau đây:",
+                "content": "Điều 20. Việc giải thể, chấm dứt hoạt động của Văn phòng Thừa phát lại Việc giải thể, chấm dứt hoạt động của Văn phòng Thừa phát lại thực hiện theo quy định của pháp luật về doanh nghiệp, Nghị định số 61/2009/NĐ-CP ngày 24 tháng 7 năm 2009 của Chính phủ, Nghị định số 135/2013/NĐ-CP ngày 18 tháng 10 năm 2013 của Chính phủ và tùy từng trường hợp, Văn phòng Thừa phát lại còn phải thực hiện các công việc sau đây:",
+                "clauses": [
+                  {
+                    "clause_id": "doc:161167:part:1:article:20:clause:1",
+                    "number": "1",
+                    "content": "1. Trường hợp tự giải thể, Văn phòng Thừa\nphát lại phải có phương án giải thể gửi Sở Tư pháp nơi đặt Văn phòng Thừa phát lại. Trên cơ sở đồng ý của Sở Tư pháp thì tiến hành các thủ tục sau:",
+                    "points": [
+                      {
+                        "point_id": "doc:161167:part:1:article:20:clause:1:point:1",
+                        "label": "a",
+                        "content": "a) Hoàn tất việc đăng ký các vi bằng đã được\nlập;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:161167:part:1:article:20:clause:1:point:2",
+                        "label": "b",
+                        "content": "b) Thanh lý các hợp đồng theo quy định của pháp\nluật;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:161167:part:1:article:20:clause:1:point:3",
+                        "label": "c",
+                        "content": "c) Xử lý các công việc về thi hành án theo\nquy định của pháp luật.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:161167:part:1:article:20:clause:2",
+                    "number": "2",
+                    "content": "2. Trường hợp Chủ tịch Ủy ban nhân dân cấp\ntỉnh quyết định đình chỉ hoạt động của Văn phòng Thừa phát lại thì trong thời hạn 30 ngày, kể từ ngày nhận được quyết định, Văn phòng Thừa phát lại phải thực hiện các nội dung nêu tại khoản 1 Điều này.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:161167:part:1:article:20:clause:3",
+                    "number": "3",
+                    "content": "3. Giám đốc Sở Tư pháp có trách nhiệm giúp Ủy\nban nhân dân cấp tỉnh theo dõi, đôn đốc thực hiện các công việc khi Văn phòng Thừa phát lại giải thể, chấm dứt hoạt động.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:161167:part:1:chapter:5",
+            "number": "V",
+            "title": "KIỂM SÁT, THANH TRA, KIỂM TRA HOẠT ĐỘNG CỦA THỪA PHÁT LẠI",
+            "content": "Chương V\nKIỂM\nSÁT, THANH TRA, KIỂM TRA HOẠT ĐỘNG CỦA THỪA PHÁT LẠI",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:161167:part:1:article:21",
+                "number": "21",
+                "title": "Phạm vi, thẩm quyền kiểm sát hoạt động của Thừa phát lại Viện Kiểm sát nhân dân cấp huyện nơi đặt Văn phòng Thừa phát lại có thẩm quyền:",
+                "content": "Điều 21. Phạm vi, thẩm quyền kiểm sát hoạt động của Thừa phát lại Viện Kiểm sát nhân dân cấp huyện nơi đặt Văn phòng Thừa phát lại có thẩm quyền:",
+                "clauses": [
+                  {
+                    "clause_id": "doc:161167:part:1:article:21:clause:1",
+                    "number": "1",
+                    "content": "1. Kiểm sát việc tuân theo pháp luật của Thừa\nphát lại trong việc tống đạt các văn bản theo quy định của Luật tổ chức Viện kiểm sát nhân dân, pháp luật về thi hành án dân sự và pháp luật về tố tụng.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:161167:part:1:article:21:clause:2",
+                    "number": "2",
+                    "content": "2. Kiểm sát việc tuân theo pháp luật của Thừa\nphát lại trong việc thi hành án theo quy định của Luật tổ chức Viện kiểm sát nhân dân và pháp luật về thi hành án dân sự.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:161167:part:1:article:22",
+                "number": "22",
+                "title": "Quyền kháng nghị, kiến nghị, yêu cầu của Viện Kiểm sát nhân dân",
+                "content": "Điều 22. Quyền kháng nghị, kiến nghị, yêu cầu của Viện Kiểm sát nhân dân",
+                "clauses": [
+                  {
+                    "clause_id": "doc:161167:part:1:article:22:clause:1",
+                    "number": "1",
+                    "content": "1. Viện Kiểm sát nhân dân cấp huyện nơi đặt\nVăn phòng Thừa phát lại có quyền kháng nghị quyết định, hành vi pháp luật của Trưởng Văn phòng Thừa phát lại, Thừa phát lại trong thời hạn 15 ngày, kể từ ngày nhận được quyết định hoặc phát hiện hành vi vi phạm. Trưởng Văn phòng Thừa phát lại có trách nhiệm trả lời kháng nghị và thực hiện nội dung kháng nghị trong thời hạn 20 ngày, kể từ ngày nhận được kháng nghị. Trường hợp không chấp nhận kháng nghị thì Trưởng văn phòng Thừa phát lại có quyền kiến nghị Cục trưởng Cục Thi hành án dân sự cấp tỉnh nơi đặt Văn phòng Thừa phát lại xem xét trong thời hạn 05 ngày làm việc, kể từ ngày nhận được kháng nghị. Văn bản kiến nghị được gửi đồng thời cho Viện Kiểm sát nhân dân đã kháng nghị và Viện Kiểm sát nhân dân cấp trên trực tiếp của Viện Kiểm sát nhân dân đã kháng nghị. Cục trưởng Cục thi hành án dân sự có trách nhiệm trả lời trong thời hạn 30 ngày, kể từ ngày nhận được kiến nghị; văn bản trả lời của Cục trưởng Cục Thi hành án dân sự có hiệu lực thi hành. Văn bản trả lời kiến nghị được gửi đồng thời cho Viện Kiểm sát nhân dân cùng cấp và Viện Kiểm sát nhân dân đã kháng nghị. Trường hợp xét thấy văn bản trả lời kháng nghị không có căn cứ thì Viện trưởng Viện Kiểm sát nhân dân tối cao có văn bản đề nghị Bộ trưởng Bộ Tư pháp xem xét lại văn bản trả lời của Cục trưởng Cục Thi hành án dân sự.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:161167:part:1:article:22:clause:2",
+                    "number": "2",
+                    "content": "2. Việc thực hiện các quyền kiến nghị và yêu\ncầu của Viện Kiểm sát nhân dân trong kiểm sát hoạt động của Thừa phát lại được thực hiện theo quy định của Luật tổ chức Viện Kiểm sát nhân dân, pháp luật về tố tụng và pháp luật về thi hành án dân sự.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:161167:part:1:article:23",
+                "number": "23",
+                "title": "Kiểm tra, thanh tra hoạt động của Thừa phát lại",
+                "content": "Điều 23. Kiểm tra, thanh tra hoạt động của Thừa phát lại",
+                "clauses": [
+                  {
+                    "clause_id": "doc:161167:part:1:article:23:clause:1",
+                    "number": "1",
+                    "content": "1. Sở Tư pháp có trách nhiệm chủ trì, phối\nhợp với các Sở, ban, ngành, cơ quan, tổ chức có liên quan giúp Ủy ban nhân dân cấp tỉnh nơi thực hiện thí điểm kiểm tra về tổ chức và hoạt động của các Văn phòng Thừa phát lại trên địa bàn. Trong phạm vi nhiệm vụ, quyền hạn của mình, các cơ quan nhà nước có thẩm quyền khác có trách nhiệm kiểm tra tổ chức và hoạt động của Văn phòng Thừa phát lại theo quy định của pháp luật.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:161167:part:1:article:23:clause:2",
+                    "number": "2",
+                    "content": "2. Công tác thanh tra đối với tổ chức và hoạt\nđộng của Văn phòng Thừa phát lại được thực hiện theo quy định của pháp luật về thanh tra.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:161167:part:1:chapter:6",
+            "number": "VI",
+            "title": "TỔ CHỨC THỰC HIỆN",
+            "content": "Chương VI\nTỔ CHỨC THỰC HIỆN",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:161167:part:1:article:24",
+                "number": "24",
+                "title": "Tổ chức thực hiện",
+                "content": "Điều 24. Tổ chức thực hiện",
+                "clauses": [
+                  {
+                    "clause_id": "doc:161167:part:1:article:24:clause:1",
+                    "number": "1",
+                    "content": "1. Định kỳ sáu tháng và đột xuất, Tổng cục\nThi hành án dân sự thuộc Bộ Tư pháp, các đơn vị chức năng của Toà án nhân dân tối cao, Viện kiểm sát nhân dân tối cao, Bộ Tài chính tổ chức đánh giá việc thực hiện các quy định của Thông tư này, kịp thời có biện pháp xử lý, giải quyết hoặc báo cáo, kiến nghị Lãnh đạo liên ngành, Ban Chỉ đạo thực hiện thí điểm chế định Thừa phát lại Trung ương xử lý, giải quyết.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:161167:part:1:article:24:clause:2",
+                    "number": "2",
+                    "content": "2. Định kỳ ba tháng và đột xuất, Sở Tư pháp,\nToà án nhân dân, Cục Thi hành án dân sự, Viện kiểm sát nhân dân, Sở Tài chính cấp tỉnh nơi thực hiện thí điểm phải trao đổi, tổ chức đánh giá việc thực hiện các quy định của Thông tư này, kịp thời có biện pháp xử lý, giải quyết hoặc báo cáo, kiến nghị Lãnh đạo liên ngành, Ban Chỉ đạo thực hiện thí điểm chế định Thừa phát lại tại địa phương xử lý, giải quyết.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:161167:part:1:article:24:clause:3",
+                    "number": "3",
+                    "content": "3. Trong quá trình thực hiện, nếu có vướng\nmắc các cơ quan, tổ chức, cá nhân có liên quan kịp thời báo cáo cấp có thẩm quyền để có biện pháp giải quyết.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:161167:part:1:article:25",
+                "number": "25",
+                "title": "Hiệu lực thi hành",
+                "content": "Điều 25. Hiệu lực thi hành",
+                "clauses": [
+                  {
+                    "clause_id": "doc:161167:part:1:article:25:clause:1",
+                    "number": "1",
+                    "content": "1. Thông tư liên tịch này có hiệu lực từ ngày\n20 tháng 4 năm 2014.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:161167:part:1:article:25:clause:2",
+                    "number": "2",
+                    "content": "2. Thông tư này thay thế các Thông tư sau:",
+                    "points": [
+                      {
+                        "point_id": "doc:161167:part:1:article:25:clause:2:point:1",
+                        "label": "a",
+                        "content": "a) Thông tư liên tịch số 12/2010/TTLT-BTP-BTC-TANDTC\nngày 24 tháng 6 năm 2010 của Bộ Tư pháp, Tòa án nhân dân tối cao, Bộ Tài chính hướng dẫn một số điều của Nghị định 61/2009/NĐ-CP ngày 24 tháng 7 năm 2009 của Chính phủ về tổ chức và hoạt động của Thừa phát lại thực hiện thí điểm tại Thành phố Hồ Chí Minh;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:161167:part:1:article:25:clause:2:point:2",
+                        "label": "b",
+                        "content": "b) Thông tư liên tịch số 13/2010/TTLT-BTP-TANDTC-VKSNDTC\nngày 7 tháng 7 năm 2010 của Bộ Tư pháp, Tòa án nhân dân tối cao, Viện Kiểm sát nhân dân tối cao hướng dẫn thủ tục thực hiện một số công việc của Thừa phát lại thực hiện thí điểm tại Thành phố Hồ Chí Minh;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:161167:part:1:article:25:clause:2:point:3",
+                        "label": "c",
+                        "content": "c) Thông tư số 03/2009/TT-BTP ngày 30 tháng 9\nnăm 2009 của Bộ Tư pháp hướng dẫn thực hiện một số quy định của Nghị định số 61/2009/NĐ-CP ngày 24 tháng 7 năm 2009 của Chính phủ về tổ chức và hoạt động của Thừa phát lại thực hiện thí điểm tại thành phố Hồ Chí Minh.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:161167:part:1:article:25:clause:3",
+                    "number": "3",
+                    "content": "3. Đối với những công việc Văn phòng Thừa\nphát lại đã thụ lý giải quyết nhưng đến thời điểm Thông tư liên tịch này có hiệu lực mà chưa thực hiện xong thì tiếp tục thực hiện theo quy định của Thông tư này./.\nKT. CHÁNH ÁN\nTÒA ÁN NHÂN DÂN TỐI CAO\nPHÓ CHÁNH ÁN\nNguyễn Sơn\nKT. VIỆN TRƯỞNG\nVIỆN KIỂM SÁT NHÂN DÂN TỐI CAO\nPHÓ VIỆN TRƯỞNG\nNguyễn Hải Phong\nKT. BỘ TRƯỞNG BỘ TÀI CHÍNH\nTHỨ TRƯỞNG\nTrương Chí Trung\nKT. BỘ TRƯỞNG BỘ TƯ PHÁP\nTHỨ TRƯỞNG\nĐinh Trung Tụng",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          }
+        ],
+        "sections": [],
+        "articles": [],
+        "unstructured_blocks": []
+      }
+    ]
+  },
+  "issues": [],
+  "status": "ok",
+  "source_hash": "context_161167.json",
+  "stats": {
+    "source_chars": 24997,
+    "passage_chars": 24751,
+    "parts": 1,
+    "chapters": 6,
+    "sections": 4,
+    "articles": 25,
+    "clauses": 54,
+    "points": 15
+  }
+}

@@ -1,0 +1,830 @@
+{
+  "schema_version": "2.0",
+  "document_id": 164058,
+  "metadata": {
+    "name": "Thong-tu-06-2021-TT-BKHDT-chi-phi-dang-ky-tren-He-thong-mang-dau-thau-quoc-gia-490510",
+    "link": "https://thuvienphapluat.vn/van-ban/Dau-tu/Thong-tu-06-2021-TT-BKHDT-chi-phi-dang-ky-tren-He-thong-mang-dau-thau-quoc-gia-490510.aspx",
+    "issuing_agency": "BỘ KẾ HOẠCH VÀ ĐẦU TƯ",
+    "national_header": "CỘNG HÒA XÃ HỘI\r\n\n  CHỦ NGHĨA VIỆT NAM",
+    "motto": "Độc lập - Tự do - Hạnh phúc",
+    "document_number": "06/2021/TT-BKHĐT",
+    "issued_place": "Hà Nội",
+    "issued_date": "ngày 30\r\n\n  tháng 9 năm 2021",
+    "document_type": "THÔNG TƯ",
+    "title": "QUY ĐỊNH CHI TIẾT VIỆC THU, NỘP, QUẢN LÝ VÀ SỬ DỤNG CÁC CHI PHÍ VỀ ĐĂNG KÝ, ĐĂNG TẢI THÔNG TIN, LỰA CHỌN NHÀ THẦU, NHÀ ĐẦU TƯ TRÊN HỆ THỐNG MẠNG ĐẤU THẦU QUỐC GIA, BÁO ĐẤU THẦU"
+  },
+  "administrative_header": {
+    "removed": true,
+    "removed_char_count": 162
+  },
+  "preamble": {
+    "text": "THÔNG TƯ QUY\nĐỊNH CHI TIẾT VIỆC THU, NỘP, QUẢN LÝ VÀ SỬ DỤNG CÁC CHI PHÍ VỀ ĐĂNG KÝ, ĐĂNG TẢI\nTHÔNG TIN, LỰA CHỌN NHÀ THẦU, NHÀ ĐẦU TƯ TRÊN HỆ THỐNG MẠNG ĐẤU THẦU QUỐC GIA,\nBÁO ĐẤU THẦU\nCăn cứ Luật Đấu thầu ngày 26 tháng 11 năm 2013; Căn cứ Luật Đầu tư theo phương thức đối tác công tư ngày 18 tháng 6 năm 2020; Căn cứ Luật Giao dịch điện tử ngày 29 tháng 11 năm 2005; Căn cứ Nghị định số 63/2014/NĐ-CP ngày 26 tháng 6 năm 2014 của Chính phủ quy định chi tiết thi hành một số điều của Luật Đấu thầu về lựa chọn nhà thầu; Căn cứ Nghị định số 86/2017/NĐ-CP ngày 25 tháng 7 năm 2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Kế hoạch và Đầu tư; Căn cứ Nghị định số 25/2020/NĐ-CP ngày 28 tháng 02 năm 2020 của Chính phủ quy định chi tiết thi hành một số điều của Luật Đấu thầu về lựa chọn nhà đầu tư; Căn cứ Nghị định số 120/2020/NĐ-CP ngày 07 tháng 10 năm 2020 của Chính phủ quy định về thành lập, tổ chức lại, giải thể đơn vị sự nghiệp công lập; Căn cứ Nghị định số 35/2021/NĐ-CP ngày 29 tháng 3 năm 2021 của Chính phủ quy định chi tiết và hướng dẫn thi hành Luật Đầu tư theo phương thức đối tác công tư; Theo đề nghị của Cục trưởng Cục Quản lý đấu thầu, Bộ trưởng Bộ Kế hoạch và Đầu tư ban hành Thông tư quy định chi tiết việc thu, nộp, quản lý và sử dụng các chi phí về đăng ký, đăng tải thông tin, lựa chọn nhà thầu, nhà đầu tư trên Hệ thống mạng đấu thầu quốc gia, Báo Đấu thầu.\nChương I.\nQUY ĐỊNH CHUNG",
+    "legal_bases": [
+      "Căn cứ Luật Đầu tư theo phương thức đối tác công tư ngày 18 tháng 6 năm 2020",
+      "Căn cứ Luật Giao dịch điện tử ngày 29 tháng 11 năm 2005",
+      "Căn cứ Nghị định số 63/2014/NĐ-CP ngày 26 tháng 6 năm 2014 của Chính phủ quy định chi tiết thi hành một số điều của Luật Đấu thầu về lựa chọn nhà thầu",
+      "Căn cứ Nghị định số 86/2017/NĐ-CP ngày 25 tháng 7 năm 2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Kế hoạch và Đầu tư",
+      "Căn cứ Nghị định số 25/2020/NĐ-CP ngày 28 tháng 02 năm 2020 của Chính phủ quy định chi tiết thi hành một số điều của Luật Đấu thầu về lựa chọn nhà đầu tư",
+      "Căn cứ Nghị định số 120/2020/NĐ-CP ngày 07 tháng 10 năm 2020 của Chính phủ quy định về thành lập, tổ chức lại, giải thể đơn vị sự nghiệp công lập",
+      "Căn cứ Nghị định số 35/2021/NĐ-CP ngày 29 tháng 3 năm 2021 của Chính phủ quy định chi tiết và hướng dẫn thi hành Luật Đầu tư theo phương thức đối tác công tư"
+    ],
+    "proposals": [
+      "Theo đề nghị của Cục trưởng Cục Quản lý đấu thầu, Bộ trưởng Bộ Kế hoạch và Đầu tư ban hành Thông tư quy định chi tiết việc thu, nộp, quản lý và sử dụng các chi phí về đăng ký, đăng tải thông tin, lựa chọn nhà thầu, nhà đầu tư trên Hệ thống mạng đấu thầu quốc gia, Báo Đấu thầu.\nChương I.\nQUY ĐỊNH CHUNG"
+    ],
+    "enactment_formula": null
+  },
+  "passage": "THÔNG TƯ QUY\nĐỊNH CHI TIẾT VIỆC THU, NỘP, QUẢN LÝ VÀ SỬ DỤNG CÁC CHI PHÍ VỀ ĐĂNG KÝ, ĐĂNG TẢI\nTHÔNG TIN, LỰA CHỌN NHÀ THẦU, NHÀ ĐẦU TƯ TRÊN HỆ THỐNG MẠNG ĐẤU THẦU QUỐC GIA,\nBÁO ĐẤU THẦU\nCăn cứ Luật Đấu thầu ngày 26 tháng 11 năm 2013; Căn cứ Luật Đầu tư theo phương thức đối tác công tư ngày 18 tháng 6 năm 2020; Căn cứ Luật Giao dịch điện tử ngày 29 tháng 11 năm 2005; Căn cứ Nghị định số 63/2014/NĐ-CP ngày 26 tháng 6 năm 2014 của Chính phủ quy định chi tiết thi hành một số điều của Luật Đấu thầu về lựa chọn nhà thầu; Căn cứ Nghị định số 86/2017/NĐ-CP ngày 25 tháng 7 năm 2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Kế hoạch và Đầu tư; Căn cứ Nghị định số 25/2020/NĐ-CP ngày 28 tháng 02 năm 2020 của Chính phủ quy định chi tiết thi hành một số điều của Luật Đấu thầu về lựa chọn nhà đầu tư; Căn cứ Nghị định số 120/2020/NĐ-CP ngày 07 tháng 10 năm 2020 của Chính phủ quy định về thành lập, tổ chức lại, giải thể đơn vị sự nghiệp công lập; Căn cứ Nghị định số 35/2021/NĐ-CP ngày 29 tháng 3 năm 2021 của Chính phủ quy định chi tiết và hướng dẫn thi hành Luật Đầu tư theo phương thức đối tác công tư; Theo đề nghị của Cục trưởng Cục Quản lý đấu thầu, Bộ trưởng Bộ Kế hoạch và Đầu tư ban hành Thông tư quy định chi tiết việc thu, nộp, quản lý và sử dụng các chi phí về đăng ký, đăng tải thông tin, lựa chọn nhà thầu, nhà đầu tư trên Hệ thống mạng đấu thầu quốc gia, Báo Đấu thầu.\nChương I.\nQUY ĐỊNH CHUNG\nĐiều 1. Phạm vi điều chỉnh\n1. Thông tư này quy định\nchi tiết việc:\na) Thu, nộp, quản lý và sử\ndụng các Chi phí sử dụng dịch vụ đối với các gói thầu, dự án thuộc phạm vi điều chỉnh tại Điều 1 của Luật Đấu thầu;\nb) Thu, nộp, quản lý và sử\ndụng chi phí quy định tại khoản 6 Điều 32 Nghị định số 35/2021/NĐ-CP ngày 29 tháng 3 năm 2021 của Chính phủ quy định chi tiết và hướng dẫn thi hành Luật Đầu tư theo phương thức đối tác công tư (sau đây gọi tắt là Nghị định số 35/2021/NĐ-CP).\n2. Việc thu, nộp, quản lý\nvà sử dụng các chi phí quy định tại các khoản 1, 2, 3, 4 và 5 Điều 32 Nghị định số 35/2021/NĐ-CP thực hiện theo hướng dẫn của Bộ Tài chính.\nĐiều 2. Đối tượng áp dụng\n1. Thông tư này áp dụng đối\nvới:\na) Tổ chức, cá nhân thực\nhiện việc đăng ký, đăng tải thông tin, lựa chọn nhà thầu, nhà đầu tư theo quy định tại khoản 1 Điều 1 Thông tư này;\nb) Tổ chức, cá nhân liên\nquan đến việc quản lý, vận hành Hệ thống mạng đấu thầu quốc gia.\n2. Tổ chức, cá nhân không\nthuộc phạm vi điều chỉnh tại khoản 1 Điều 1 của Thông tư này được chọn áp dụng quy định của Thông tư này để thực hiện việc đăng ký, đăng tải thông tin, lựa chọn nhà thầu, nhà đầu tư trên Hệ thống mạng đấu thầu quốc gia.\nĐiều 3. Giải thích từ ngữ\n1. Hệ thống mạng đấu thầu quốc gia (sau đây gọi tắt là Hệ thống) là hệ thống công nghệ thông\ntin do Bộ Kế hoạch và Đầu tư xây dựng và quản lý theo quy định tại khoản 26 Điều 4 của Luật Đấu thầu, có địa chỉ tại http://muasamcong.mpi.gov.vn.\n2. Trung tâm Đấu thầu qua mạng quốc gia thuộc Cục Quản lý đấu thầu, Bộ Kế hoạch và Đầu tư là Tổ chức\nvận hành Hệ thống theo quy định tại Điều 75 của Luật Đấu thầu.\n3. Dự án e-GP là dự án “Ứng\ndụng thương mại điện tử trong mua sắm Chính phủ” theo hình thức đối tác công tư (PPP), được phê duyệt theo Quyết định số 1546/QĐ-BKHĐT ngày 30 tháng 10 năm 2014 của Bộ trưởng Bộ Kế hoạch và Đầu tư, Quyết định số 2032/QĐ-BKHĐT ngày 23 tháng 12 năm 2019 của Bộ trưởng Bộ Kế hoạch và Đầu tư và các quyết định sửa đổi, bổ sung khác (nếu có).\n4. Hợp đồng BOT Dự án e-GP\nlà thỏa thuận bằng văn bản và các phụ lục hợp đồng (nếu có) được ký kết giữa Bộ Kế hoạch và Đầu tư với Nhà đầu tư được lựa chọn thực hiện Dự án e-GP, Doanh nghiệp Dự án e-GP về việc Nhà nước nhượng quyền cho Nhà đầu tư, Doanh nghiệp Dự án e-GP thực hiện đầu tư, thiết kế, xây dựng, vận hành, bảo trì, nâng cấp và chuyển giao Hệ thống mạng đấu thầu quốc gia theo hình thức đối tác công tư\n(PPP).\n5. Doanh nghiệp Dự án e-GP\nlà doanh nghiệp do Nhà đầu tư được lựa chọn thực hiện Dự án e-GP thành lập theo quy định pháp luật với mục đích duy nhất là thực hiện Hợp đồng BOT Dự án e-GP.\n6. Chi phí sử dụng dịch vụ\nlà các loại chi phí theo quy định tại khoản 3 Điều 13 của Luật Đấu thầu, khoản 9 Điều 9 và Điều 86 của Nghị định số 63/2014/NĐ-CP ngày 26 tháng 6 năm 2014 của Chính phủ quy định chi tiết thi hành một số điều của Luật Đấu thầu về lựa chọn nhà thầu, khoản 6 Điều 32 của Nghị định số 35/2021/NĐ-CP.\n7. Hợp đồng điện tử là hợp đồng\nđược thiết lập dưới dạng thông điệp dữ liệu được tạo ra, được gửi đi, được nhận, ký số, lưu trữ trên Hệ thống và có giá trị pháp lý theo quy định của pháp luật về giao dịch điện tử.\nChương II\nNGUYÊN TẮC THU CHI, MỨC THU VÀ TỔ CHỨC THU, NỘP CHI PHÍ SỬ DỤNG DỊCH\nVỤ\nĐiều 4. Nguyên tắc thu, chi đối với khoản thu Chi phí sử dụng dịch vụ\n1. Trung tâm Đấu thầu qua\nmạng quốc gia, Báo Đấu thầu, Doanh nghiệp Dự án e-GP có trách nhiệm thu, quản lý và sử dụng khoản thu Chi phí sử dụng dịch vụ theo quy định tại Thông tư này và Hợp đồng BOT Dự án e-GP để cung cấp dịch vụ trên Hệ thống, Báo Đấu thầu.\n2. Nguồn thu từ Chi phí sử\ndụng dịch vụ để thực hiện các nhiệm vụ sau đây:\na) Quản lý, duy trì, vận\nhành và phát triển Hệ thống;\nb) Đăng tải thông tin về\nđấu thầu, thông tin về lựa chọn nhà đầu tư trên Hệ thống, Báo đấu thầu;\nb) Lựa chọn nhà thầu, nhà\nđầu tư trên Hệ thống;\nc) Các nhiệm vụ chi thường\nxuyên khác và chi đầu tư liên quan đến việc tổ chức quản lý, duy trì, vận hành và phát triển Hệ thống của Trung tâm Đấu thầu qua mạng quốc gia và Báo Đấu thầu.\n3. Khoản thu Chi phí sử dụng\ndịch vụ trên Hệ thống, Báo Đấu thầu để phục vụ hoạt động của Trung tâm Đấu thầu qua mạng quốc gia, Báo Đấu thầu theo cơ chế tự chủ về tài chính đối với đơn vị sự nghiệp công lập.\n4. Không sử dụng nguồn\nngân sách nhà nước để thực hiện các nhiệm vụ quy định tại khoản 2 Điều này. Chênh lệch thu chi được hạch toán vào các quỹ theo quy định của pháp luật hiện hành và chỉ phục vụ cho các nhiệm vụ quy định tại khoản 2 Điều này.\nĐiều 5. Mức thu các loại Chi phí sử dụng dịch vụ\n1. Chi phí lựa chọn nhà\nthầu, nhà đầu tư trên Hệ thống gồm:\na) Chi phí đăng ký tham\ngia Hệ thống (chỉ nộp 01 lần khi đăng ký) là 550.000 đồng (đã bao gồm thuế giá trị gia tăng);\nb) Chi phí duy trì tên và\nhồ sơ năng lực của nhà thầu, nhà đầu tư trên Hệ thống là 550.000 đồng cho một (01) năm (đã bao gồm thuế giá trị gia tăng). Nhà thầu, nhà đầu tư nộp chi phí này kể từ năm thứ hai trở đi sau năm đăng ký tham gia Hệ thống;\nc) Chi phí nộp hồ sơ dự\nthầu là 330.000 đồng cho một (01) gói thầu (đã bao gồm thuế giá trị gia tăng); chi phí nộp hồ sơ đề xuất là 220.000 đồng cho một (01) gói thầu (đã bao gồm thuế giá trị gia tăng);\nd) Chi phí nhà thầu trúng\nthầu được tính bằng 0,022% giá trúng thầu nhưng tối đa là 2.200.000 đồng (đã bao gồm thuế giá trị gia tăng). Đối với gói thầu chia thành nhiều phần hoặc lô riêng biệt thì chi phí nhà thầu trúng thầu được tính theo giá trị trúng thầu của mỗi phần hoặc lô riêng biệt;\nđ) Chi phí sử dụng Hợp đồng\nđiện tử được tính bằng 0,022% giá hợp đồng nhưng tối đa là 2.200.000 đồng (đã bao gồm thuế giá trị gia tăng).\n2. Chi phí đăng tải thông\ntin về đấu thầu trên Hệ thống, Báo Đấu thầu:\na) Chi phí đăng tải thông\nbáo mời thầu, thông báo mời quan tâm, thông báo mời sơ tuyển là 330.000 đồng cho một (01) gói thầu hoặc một (01) dự án đối với một (01) thứ tiếng (đã bao gồm thuế giá trị gia tăng);\nb) Chi phí đăng tải thông\nbáo mời chào hàng, danh sách ngắn là 165.000 đồng cho một (01) gói thầu đối với một (01) thứ tiếng (đã bao gồm thuế giá trị gia tăng).\nĐiều 6. Tổ chức thu, nộp Chi phí sử dụng dịch vụ\n1. Tổ chức thu Chi phí sử\ndụng dịch vụ:\na) Trung tâm Đấu thầu qua\nmạng quốc gia chịu trách nhiệm thu các loại Chi phí sử dụng dịch vụ quy định tại các điểm a, b khoản 1 Điều 5 của Thông tư này. Tài khoản thu là tài khoản đồng Việt Nam của Trung tâm Đấu thầu qua mạng quốc gia mở tại ngân hàng thương mại;\nb) Báo Đấu thầu chịu\ntrách nhiệm thu Chi phí sử dụng dịch vụ quy định tại khoản 2 Điều 5 của Thông tư này. Tài khoản thu là tài khoản đồng Việt Nam của Báo Đấu thầu mở tại ngân hàng thương mại. Khoản thu chi phí đăng tải thông tin về đấu thầu được Báo Đấu thầu chuyển một phần sang Trung tâm Đấu thầu qua mạng quốc gia theo Quyết định của Bộ trưởng Bộ Kế hoạch và Đầu tư để thực hiện quản lý, giám sát việc nâng cấp, vận hành, phát triển Hệ thống, bảo đảm hoạt động liên tục, ổn định trong việc đăng tải thông tin về đấu thầu trên Hệ thống, phần còn lại được sử dụng để thực hiện chức năng đăng tải thông tin về đấu thầu trên Báo Đấu thầu;\nc) Doanh nghiệp Dự án\ne-GP thông qua Hợp đồng BOT Dự án e-GP thực hiện thu các loại Chi phí sử dụng dịch vụ quy định tại các điểm c, d, đ khoản 1 Điều 5 của Thông tư này. Thời điểm bắt đầu thu được quy định tại các khoản 3, 4 Điều 11 của Thông tư này. Tài khoản thu là tài khoản đồng Việt Nam của Doanh nghiệp Dự án e-GP mở tại ngân hàng thương mại.\n2. Tổ chức nộp Chi phí sử\ndụng dịch vụ:\na) Bên mời thầu nộp chi\nphí đăng tải thông tin về đấu thầu theo quy định tại khoản 2 Điều 5 của Thông tư này trong thời hạn tối đa là 14 ngày, kể từ ngày thông tin được bên mời thầu tự đăng tải hợp lệ trên Hệ thống;\nb) Nhà thầu nộp chi phí\ntheo quy định tại khoản 1 Điều 5 của Thông tư này như sau: - Đối với chi phí đăng ký tham gia Hệ thống, thời hạn nộp tối đa là 14 ngày kể từ ngày được phê duyệt đăng ký trên Hệ thống; - Đối với chi phí duy trì tên và hồ sơ năng lực của nhà thầu trên Hệ thống, thời hạn nộp trước ngày 01 tháng 4 hằng năm (trừ năm thực hiện đăng ký trên Hệ thống); nhà thầu không phải nộp chi phí duy trì tên và hồ sơ năng lực trên Hệ thống đối với những năm mà trạng thái tài khoản của nhà thầu được chính thức thông báo tạm ngừng trong cả năm (tính từ ngày 01 tháng 01 đến hết ngày 31 tháng 12 của năm đó); Trường hợp nhà thầu nộp chi phí duy trì tên và hồ sơ năng lực trên Hệ thống cho nhiều năm (tối đa là 05 năm) thì số tiền sẽ được khấu trừ tương ứng theo từng năm; trong thời gian đó, nếu nhà thầu đăng ký tạm ngừng tài khoản trên Hệ thống trong cả năm (tính từ ngày 01 tháng 01 đến hết ngày 31 tháng 12 của năm đăng ký) thì số tiền đã nộp còn lại sẽ được bảo lưu và được tự động khấu trừ cho các năm tiếp theo sau khi nhà thầu đăng ký khôi phục tài khoản trên Hệ thống; - Đối với chi phí nộp hồ sơ dự thầu, hồ sơ đề xuất, thời hạn nộp tối đa là 14 ngày kể từ ngày mở thầu; - Đối với chi phí nhà thầu trúng thầu, thời hạn nộp tối đa là 14 ngày kể từ ngày ký hợp đồng; - Đối với chi phí sử dụng Hợp đồng điện tử, thời hạn nộp tối đa là 14 ngày kể từ ngày Hợp đồng điện tử được các bên ký số trên Hệ thống. Trường hợp nhà thầu không lựa chọn sử dụng dịch vụ Hợp đồng điện tử thì không phải nộp chi phí này.\nc) Nhà đầu tư nộp chi phí\ntham gia Hệ thống theo quy định tại điểm a, b khoản 1 Điều 5 của Thông tư này như sau: - Đối với chi phí đăng ký tham gia Hệ thống, thời hạn nộp tối đa là 14 ngày kể từ ngày được phê duyệt đăng ký trên Hệ thống; - Đối với chi phí duy trì tên và hồ sơ năng lực của nhà đầu tư trên Hệ thống, thời hạn nộp trước ngày 01 tháng 4 hằng năm (trừ năm thực hiện đăng ký trên Hệ thống); nhà đầu tư không phải nộp chi phí duy trì tên và hồ sơ năng lực trên Hệ thống đối với những năm mà trạng thái tài khoản của nhà đầu tư được chính thức thông báo tạm ngừng trong cả năm (tính từ ngày 01/01 đến hết ngày 31/12 của năm đó); Trường hợp nhà đầu tư nộp chi phí duy trì tên và hồ sơ năng lực trên Hệ thống cho nhiều năm (tối đa là 05 năm) thì số tiền sẽ được khấu trừ tương ứng theo từng năm; trong thời gian đó, nếu nhà đầu tư đăng ký tạm ngừng tài khoản trên Hệ thống trong cả năm (tính từ ngày 01 tháng 01 đến hết ngày 31 tháng 12 của năm đăng ký) thì số tiền đã nộp còn lại sẽ được bảo lưu và được tự động khấu trừ cho các năm tiếp theo sau khi nhà đầu tư đăng ký khôi phục tài khoản trên Hệ thống.\nChương III\nQUẢN LÝ VÀ SỬ DỤNG KHOẢN THU CHI PHÍ SỬ DỤNG DỊCH VỤ\nĐiều 7. Quản lý, sử dụng khoản thu Chi phí sử dụng dịch vụ đối với Trung tâm Đấu thầu qua mạng quốc gia\n1. Nội dung chi:\na) Chi thực hiện nghĩa vụ\nvới Ngân sách nhà nước;\nb) Chi tổ chức quản lý,\ngiám sát đăng tải thông tin về đấu thầu, thông tin về lựa chọn nhà đầu tư trên Hệ thống;\nc) Chi tổ chức quản lý,\ngiám sát, vận hành và phát triển Hệ thống;\nd) Chi quản lý, giám sát\nDoanh nghiệp Dự án e-GP;\nđ) Chi hoạt động hướng dẫn,\nđào tạo người sử dụng Hệ thống;\ne) Chi hoạt động truyền\nthông, hợp tác quốc tế về đấu thầu qua mạng;\ng) Chi hoạt động liên\nquan đến công việc tiếp nhận, xử lý hồ sơ tham gia Hệ thống, ứng dụng công nghệ thông tin trong công tác đấu thầu, quản lý cơ sở dữ liệu;\nh) Chi đầu tư, sử dụng\ncác quỹ thực hiện theo quy định về tự chủ trong đơn vị sự nghiệp công lập;\ni) Các nhiệm vụ chi thường\nxuyên, chi đầu tư khác phục vụ triển khai áp dụng đấu thầu qua mạng.\n2. Việc phân phối kết quả\ntài chính, trích lập các quỹ thực hiện theo cơ chế tự chủ tuân thủ theo quy định của pháp luật hiện hành.\n3. Không sử dụng nguồn\nngân sách nhà nước để thực hiện các nhiệm vụ quy định tại khoản 1 Điều này. Chênh lệch thu chi được hạch toán vào các quỹ theo quy định của pháp luật hiện hành và chỉ phục vụ cho các nhiệm vụ quy định tại khoản 1 Điều này.\n4. Tổ chức lập, phê duyệt,\nđiều chỉnh kế hoạch, quyết toán thu chi hằng năm:\na) Trung tâm Đấu thầu qua\nmạng quốc gia lập kế hoạch thu và kế hoạch chi liên quan đến lựa chọn nhà thầu, nhà đầu tư trên Hệ thống; đăng tải thông tin về đấu thầu, thông tin về lựa chọn nhà đầu tư theo các nội dung tại Phụ lục I ban hành kèm theo Thông tư này trình Hội đồng quản lý hoặc tổng hợp vào dự toán của Cục Quản lý đấu thầu trình Bộ Kế hoạch và Đầu tư phê duyệt (trong trường hợp chưa thành lập Hội đồng quản lý);\nb) Trường hợp phát sinh\nnhiệm vụ, Hội đồng quản lý hoặc Cục Quản lý đấu thầu (trong trường hợp chưa thành lập Hội đồng quản lý) được chủ động điều chỉnh các khoản thu, chi tại Phụ lục I ban hành kèm theo Thông tư này và chịu trách nhiệm về việc điều chỉnh trong phạm vi kế hoạch năm được duyệt, Việc điều chỉnh chỉ được thực hiện trong năm kế hoạch;\nc) Trung tâm Đấu thầu qua\nmạng quốc gia có trách nhiệm lập quyết toán thu, chi theo các nội dung tại Phụ lục II ban hành kèm theo Thông tư này và quyết toán vào kinh phí hoạt động của Cục Quản lý đấu thầu.\nĐiều 8. Quản lý, sử dụng khoản thu Chi phí sử dụng dịch vụ đối với Báo Đấu thầu\n1. Nội dung chi:\na) Chi thực hiện nghĩa vụ\nvới Ngân sách nhà nước;\nb) Chi in Báo;\nc) Chi vận chuyển và phát\nhành Báo trên toàn quốc;\nd) Chi cho cá nhân tham\ngia hoạt động đăng tải thông tin về đấu thầu bao gồm: tiền lương, phụ cấp và các khoản chi hợp lệ khác cho người lao động theo quy định của pháp luật;\nđ) Chi văn phòng phẩm, vật\ntư văn phòng, thông tin liên lạc, điện, nước, ứng dụng công nghệ thông tin và các dịch vụ thuê ngoài phục vụ hoạt động đăng tải thông tin về đấu thầu;\ne) Chi mua sắm, bảo dưỡng\nvà sửa chữa thường xuyên, sửa chữa lớn, bảo hành, bảo trì, nâng cấp hệ thống tài sản, máy móc, thiết bị phục vụ hoạt động đăng tải thông tin về đấu thầu;\ng) Chi tổ chức, quản lý\nhoạt động đăng tải, phát hành thông tin về đấu thầu;\nh) Các nhiệm vụ chi thường\nxuyên, chi đầu tư khác liên quan đến việc tổ chức quản, lý, đăng tải thông tin về đấu thầu.\n2. Phân phối kết quả tài\nchính, trích lập các quỹ thực hiện theo cơ chế tự chủ tuân thủ theo quy định của pháp luật hiện hành.\n3. Không sử dụng nguồn\nngân sách nhà nước để thực hiện các nhiệm vụ quy định tại khoản 1 Điều này. Chênh lệch thu chi được hạch toán vào các quỹ theo quy định của pháp luật hiện hành và chỉ phục vụ cho các nhiệm vụ quy định tại khoản 1 Điều này.\n4. Tổ chức lập, phê duyệt,\nđiều chỉnh kế hoạch, quyết toán thu chi hằng năm:\na) Báo Đấu thầu lập kế hoạch\nthu và kế hoạch chi liên quan đến đăng tải thông tin về đấu thầu trên Báo Đấu thầu theo các nội dung tại Phụ lục I ban hành kèm theo Thông tư này, tổng hợp vào dự toán của Cục Quản lý đấu thầu trình Bộ Kế hoạch và Đầu tư phê duyệt;\nb) Trường hợp phát sinh\nnhiệm vụ, Cục Quản lý đấu thầu được, chủ động điều chỉnh các khoản thu, chi tại\nPhụ lục I ban hành kèm theo Thông tư này và chịu trách nhiệm về việc điều chỉnh\ntrong phạm vi kế hoạch năm được duyệt. Việc điều chỉnh chỉ được thực hiện trong năm kế hoạch;\nc) Báo Đấu thầu có trách\nnhiệm lập quyết toán thu, chi theo các nội dung tại Phụ lục II kèm theo Thông tư này và quyết toán vào kinh phí hoạt động của Cục Quản lý đấu thầu.\nChương IV\nTRÁCH NHIỆM CỦA CÁC BÊN\nĐiều 9. Trách nhiệm của Hội đồng quản lý Trung tâm Đấu thầu qua mạng quốc gia, Cục Quản lý đấu thầu, Trung tâm Đấu thầu qua mạng quốc gia, Báo Đấu thầu, Doanh nghiệp Dự án e-GP\n1. Hội đồng quản lý Trung\ntâm Đấu thầu qua mạng quốc gia:\na) Phê duyệt kế hoạch thu\nvà kế hoạch chi hằng năm của Trung tâm Đấu thầu qua mạng quốc gia theo quy định tại điểm a khoản 4 Điều 7 của Thông tư này;\nb) Điều chỉnh kế hoạch\nthu và kế hoạch chi của Trung tâm Đấu thầu qua mạng quốc gia theo quy định tại điểm b khoản 4 Điều 7 của Thông tư này;\nc) Báo cáo cơ quan quản\nlý cấp trên về các hoạt động thu, chi của Trung tâm Đấu thầu qua mạng quốc gia theo quy định.\n2. Cục Quản lý đấu thầu:\na) Theo dõi, giám sát và\nquản lý việc thực hiện Hợp đồng BOT Dự án e- GP;\nb) Tổng hợp kế hoạch thu và\nkế hoạch chi hằng năm của Trung tâm Đấu thầu qua mạng quốc gia (trong trường hợp chưa thành lập Hội đồng quản lý), Báo Đấu thầu trình Bộ Kế hoạch và Đầu tư phê duyệt theo quy định tại điểm a khoản 4 Điều 7 và điểm a khoản 4 Điều 8 của Thông tư này;\nc) Điều chỉnh kế hoạch\nthu và kế hoạch chi của Trung tâm Đấu thầu qua mạng quốc gia (trong trường hợp chưa thành lập Hội đồng quản lý), Báo Đấu thầu theo quy định tại điểm b khoản 4 Điều 7 và điểm b khoản 4 Điều 8 của Thông tư này;\nd) Quyết toán thu, chi của\ntrung tâm Đấu thầu qua mạng quốc gia, Báo Đấu thầu theo quy định tại điểm c khoản 4 Điều 7 và điểm c khoản 4 Điều 8 của Thông tư này.\n3. Trung tâm Đấu thầu qua\nmạng quốc gia:\na) Thông báo công khai\ntrên Hệ thống quy trình thu Chi phí sử dụng dịch vụ bao gồm cách thức, phương thức, đối tượng và mức thu;\nb) Thông báo công khai\ntrên Hệ thống các thông tin về tên Dự án e-GP, Doanh nghiệp Dự án e-GP, thời điểm Doanh nghiệp Dự án e-GP bắt đầu thu Chi phí sử dụng dịch vụ, số điện thoại để tiếp nhận thông tin phản ánh;\nc) Kiểm tra, giám sát dữ\nliệu thu đối với khoản thu Chi phí sử dụng dịch vụ của Doanh nghiệp Dự án e-GP trên Hệ thống, đảm bảo hoạt động thu đúng quy định, báo cáo kịp thời các vi phạm và đề xuất cách thức xử lý. Cục Quản lý đấu thầu chịu trách nhiệm trình Bộ Kế hoạch và Đầu tư xem xét, quyết định xử lý vi phạm trên cơ sở đề xuất của Trung tâm Đấu thầu qua mạng quốc gia;\nd) Tổ chức thu Chi phí sử\ndụng dịch vụ theo quy định tại điểm a khoản 1 Điều 6 Thông tư này;\nđ) Quản lý, sử dụng khoản\nthu Chi phí sử dụng dịch vụ theo quy định tại Điều 7 của Thông tư này.\n4. Báo Đấu thầu:\na) Tổ chức thu Chi phí sử\ndụng dịch vụ theo quy định tại điểm b khoản 1 Điều 6 của Thông tư này;\nb) Quản lý, sử dụng khoản\nthu Chi phí sử dụng dịch vụ theo quy định tại Điều 8 của Thông tư này.\n5. Doanh nghiệp Dự án\ne-GP:\na) Tuân thủ quy định pháp\nluật và thực hiện đầy đủ tất cả các nội dung quy định trong Hợp đồng BOT Dự án e-GP;\nb) Bảo đảm an toàn, bảo mật\ncơ sở dữ liệu của Hệ thống và chịu trách nhiệm trước pháp luật nếu xảy ra vi phạm;\nc) Cung cấp đầy đủ thông\ntin, dữ liệu, số liệu, tài liệu theo yêu cầu của Bộ Kế hoạch và Đầu tư phục vụ công tác giám sát, thanh tra, kiểm tra các vấn đề liên quan đến Hệ thống.\nĐiều 10. Trách nhiệm của bên mời thầu, nhà thầu, nhà đầu tư\n1. Bên mời thầu có trách\nnhiệm nộp chi phí đăng tải thông tin về đấu thầu theo thời hạn quy định tại điểm a khoản 2 Điều 6 của Thông tư này. Hết thời hạn thanh toán chi phí theo quy định mà không thanh toán chi phí thì bên mời thầu không được thực hiện đăng tải thông tin về đấu thầu trên Hệ thống đối với các gói thầu tiếp theo cho đến khi hoàn thành trách nhiệm thanh toán chi phí theo quy định.\n2. Nhà thầu có trách nhiệm\nnộp chi phí quy định tại điểm b khoản 2 Điều 6 của Thông tư này. Hết thời hạn thanh toán chi phí theo quy định mà không thanh toán chi phí thì tài khoản của nhà thầu trên Hệ thống bị chuyển sang trạng thái tạm ngừng và nhà thầu không được thực hiện các giao dịch liên quan trên Hệ thống cho đến khi hoàn thành trách nhiệm thanh toán chi phí theo quy định.\n3. Nhà đầu tư có trách\nnhiệm nộp chi phí quy định tại điểm c khoản 2 Điều 6 của Thông tư này. Hết thời hạn thanh toán chi phí theo quy định mà không thanh toán chi phí thì tài khoản của nhà đầu tư trên Hệ thống bị chuyển sang trạng thái tạm ngừng và nhà đầu tư không được thực hiện các giao dịch liên quan trên Hệ thống cho đến khi hoàn thành trách nhiệm thanh toán chi phí theo quy định.\nChương V\nĐIỀU KHOẢN THI HÀNH\nĐiều 11. Hiệu lực thi hành\n1. Thông tư này có hiệu lực\nthi hành kể từ ngày 01 tháng 03 năm 2022.\n2. Các\nquy định tại Chương III Thông tư số 11/2019/TT-BKHĐT ngày 16 tháng 12 năm 2019 của Bộ trưởng Bộ Kế hoạch và Đầu tư quy định chi tiết việc cung cấp, đăng tải thông tin về đấu thầu, lộ trình áp dụng lựa chọn nhà thầu qua mạng và quản lý, sử dụng giá trị bảo đảm dự thầu, bảo đảm thực hiện hợp đồng không được hoàn trả hết hiệu lực kể từ ngày Thông tư này có hiệu lực.\n3. Bộ trưởng Bộ Kế hoạch\nvà Đầu tư ban hành Quyết định về thời điểm bắt đầu thu và nội dung thu chi phí đối với Doanh nghiệp Dự án e-GP theo quy định tại điểm c khoản 1 Điều 5 của Thông tư này.\n4. Việc thu chi phí nhà\nthầu trúng thầu và chi phí sử dụng Hợp đồng điện tử quy định tại các điểm d và đ khoản 1 Điều 5 của Thông tư này được áp dụng kể từ ngày 01 tháng 01 năm 2023 và trên cơ sở Quyết định của Bộ trưởng Bộ Kế hoạch và Đầu tư.\n5. Trung tâm Đấu thầu qua\nmạng quốc gia tiếp tục thu, quản lý và sử dụng Chi phí sử dụng dịch vụ quy định tại điểm c khoản 1 Điều 5 của Thông tư này đến thời điểm Doanh nghiệp Dự án e-GP bắt đầu thu theo quy định tại khoản 3 Điều này.\nĐiều 12. Trách nhiệm thi hành\n1. Các Bộ, cơ quan ngang\nBộ, cơ quan thuộc Chính phủ, Ủy ban nhân dân các cấp và các cơ quan, tổ chức có liên quan đến việc đăng ký, đăng tải thông tin, lựa chọn nhà thầu, nhà đầu tư trên Hệ thống mạng đấu thầu quốc gia, Báo Đấu thầu căn cứ vào phạm vi chức năng, nhiệm vụ của mình tổ chức thực hiện Thông tư này.\n2. Trong quá trình thực\nhiện, nếu có vướng mắc liên quan đến nội dung về thu chi phí theo quy định tại Thông tư này, các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ, Ủy ban nhân dân các cấp và các cơ quan, tổ chức có liên quan gửi ý kiến về Bộ Kế hoạch và Đầu tư để kịp thời xem xét, hướng dẫn./.\nNơi nhận:\n- Thủ tướng Chính phủ;\n- Các Phó Thủ tướng Chính phủ;\n- Văn phòng TW Đảng và các\nBan của Đảng;\n- Văn phòng Quốc hội;\n- Văn phòng Chính phủ;\n- Văn phòng Chủ tịch nước;\n- Viện KSNDTC, Tòa án NDTC,\nKiểm toán nhà nước;\n- Các Bộ, cơ quan ngang Bộ,\ncơ quan thuộc CP;\n- Cơ quan TW của các đoàn thể;\n- UBND các tỉnh, TP trực thuộc\nTW;\n- Sở Kế hoạch và Đầu tư các\ntỉnh, TP trực thuộc TW;\n- Ban Quản lý các KCN, KCX,\nKCNC và KKT;\n- Công báo; Cổng thông tin\nđiện tử Chính phủ;\n-Cục Kiểm tra văn bản\nQPPL-Bộ Tư pháp;\n- Bộ KH&ĐT: Lãnh đạo Bộ,\ncác đơn vị thuộc Bộ KH&ĐT, Cổng TTĐT Bộ KH&ĐT;\n- Lưu: VT, Cục QLĐT (TL)\nBỘ TRƯỞNG\nNguyễn Chí Dũng\nPHỤ LỤC I\nKẾ HOẠCH THU VÀ KẾ HOẠCH CHI CÁC KHOẢN LIÊN QUAN ĐẾN THAM\nGIA HỆ THỐNG VÀ ĐĂNG TẢI THÔNG TIN VỀ ĐẤU THẦU TRÊN HỆ THỐNG, BÁO ĐẤU THẦU CỦA\nCỤC QUẢN LÝ ĐẤU THẦU\nA. Kế hoạch thu (Đơn vị tính: đồng)\nSTT NỘI DUNG THU SỐ TIỀN\nTỔNG SỐ (I+II+III+IV) I\nKINH PHÍ NĂM TRƯỚC CHUYỂN SANG\nII\nTHU ĐĂNG TẢI THÔNG TIN VỀ ĐẤU THẦU, LỰA CHỌN NHÀ ĐẦU TƯ TRÊN HỆ\nTHỐNG, BÁO ĐẤU THẦU\n1 Đăng tải thông báo mời quan tâm, thông báo mời sơ tuyển 2 Đăng tải thông báo mời thầu 3 Đăng tải thông báo mời chào hàng 4 Đăng tải danh sách ngắn\nIII\nTHU ĐĂNG KÝ THAM GIA, DUY TRÌ TÊN VÀ THÔNG TIN VỀ NĂNG LỰC TRÊN\nHỆ THỐNG\n1 Thu đăng ký tham gia Hệ thống (nộp một lần khi đăng ký) 2 Thu duy trì tên và thông tin về năng lực, kinh nghiệm của nhà thầu, nhà đầu tư trên Hệ thống (thanh toán trước ngày 01 tháng 4 hằng năm trừ năm thực hiện đăng ký trên Hệ thống)\nIV THU KHÁC (NẾU CÓ)\nB. Kế hoạch chi (Đơn vị tính: đồng)\nSTT NỘI DUNG CHI SỐ TIỀN\nTỔNG SỐ (I+II+III+IV) I\nTHỰC HIỆN NGHĨA VỤ VỚI NGÂN SÁCH NHÀ NƯỚC\nII\nCHI ĐĂNG TẢI THÔNG TIN VỀ ĐẤU THẦU TRÊN BÁO ĐẤU THẦU\nIII\nCHUYỂN KHOẢN THU CHI PHÍ ĐĂNG TẢI THÔNG TIN VỀ ĐẤU THẦU TỪ BÁO ĐẤU\nTHẦU SANG TRUNG TÂM ĐẤU THẦU QUA MẠNG QUỐC GIA ĐỂ CHI THỰC HIỆN QUẢN LÝ, GIÁM\nSÁT ĐĂNG TẢI THÔNG TIN VỀ ĐẤU THẦU TRÊN HỆ THỐNG\nIV\nCHI THỰC HIỆN QUẢN LÝ ĐĂNG KÝ THAM GIA HỆ THỐNG, DUY TRÌ TÊN VÀ\nTHÔNG TIN VỀ NĂNG LỰC TRÊN HỆ THỐNG\n1 Chi thực hiện nghĩa vụ với Ngân sách nhà nước 2 Chi tổ chức quản lý, giám sát đăng tải thông tin về đấu thầu, lựa chọn nhà đầu tư trên Hệ thống 3 Chi tổ chức quản lý, giám sát, vận hành và phát triển Hệ thống 4 Chi tổ chức quản lý, giám sát Doanh nghiệp Dự án e-GP 5 Chi hoạt động hướng dẫn, đào tạo người sử dụng Hệ thống 6 Chi hoạt động truyền thông, hợp tác quốc tế về đấu thầu qua mạng 7 Chi hoạt động liên quan đến công việc tiếp nhận, xử lý hồ sơ tham gia Hệ thống, ứng dụng công nghệ thông tin trong công tác đấu thầu, quản lý cơ sở dữ liệu 8 Chi đầu tư, sử dụng các quỹ thực hiện theo quy định về tự chủ trong đơn vị sự nghiệp công lập 9 Các nhiệm vụ chi thường xuyên khác và chi đầu tư phục vụ triển khai áp dụng đấu thầu qua mạng\nV\nPHÂN PHỐI KẾT QUẢ TÀI CHÍNH THEO CƠ CHẾ TỰ CHỦ\nPHỤ LỤC\nII\nQUYẾT TOÁN THU VÀ QUYẾT TOÁN CHI CÁC KHOẢN LIÊN\nQUAN ĐẾN THAM GIA HỆ THỐNG VÀ ĐĂNG TẢI THÔNG TIN VỀ ĐẤU THẦU, TRÊN HỆ THỐNG,\nBÁO ĐẤU THẦU CỦA CỤC QUẢN LÝ ĐẤU THẦU\nA. Quyết toán thu (Đơn vị tính: đồng)\nSTT NỘI DUNG THU SỐ TIỀN\nTỔNG SỐ (I+II+III+IV+V) I\nKINH PHÍ NĂM TRƯỚC CHUYỂN SANG\nII\nTHU ĐĂNG TẢI THÔNG TIN VỀ ĐẤU THẦU TRÊN BÁO ĐẤU THẦU\n1 Đăng tải thông báo mời quan tâm, thông báo mời sơ tuyển 2 Đăng tải thông báo mời thầu 3 Đăng tải thông báo mời chào hàng 4 Đăng tải danh sách ngắn\nIII\nTHU ĐĂNG KÝ THAM GIA, DUY TRÌ TÊN VÀ THÔNG TIN VỀ NĂNG LỰC TRÊN\nHỆ THỐNG\n1 Thu đăng ký tham gia Hệ thống (nộp một lần khi đăng ký) 2 Thu duy trì tên và thông tin về năng lực, kinh nghiệm của nhà thầu, nhà đầu tư trên Hệ thống (thanh toán trước ngày 01 tháng 4 hàng năm trừ năm thực hiện đăng ký trên Hệ thống).\nIV THU KHÁC (NẾU CÓ)\nB. Quyết toán chi (Đơn vị tính: đồng)\nSTT NỘI DUNG CHI SỐ TIỀN\nTỔNG SỐ (I+II+III+IV+V) I\nTHỰC HIỆN NGHĨA VỤ VỚI NGÂN SÁCH NHÀ NƯỚC\nII\nCHI THỰC HIỆN ĐĂNG TẢI THÔNG TIN VỀ ĐẤU THẦU TRÊN BÁO ĐẤU THẦU\nIII\nCHUYỂN KHOẢN THU CHI PHÍ ĐĂNG TẢI THÔNG TIN VỀ ĐẤU THẦU TỪ BÁO\nĐẤU THẦU SANG TRUNG TÂM ĐẤU THẦU QUA MẠNG QUỐC GIA ĐỂ CHI THỰC HIỆN QUẢN LÝ,\nGIÁM SÁT ĐĂNG TẢI THÔNG TIN VỀ ĐẤU THẦU TRÊN HỆ THỐNG\nIV\nCHI THỰC HIỆN QUẢN LÝ ĐĂNG KÝ THAM GIA HỆ THỐNG, DUY TRÌ TÊN VÀ\nTHÔNG TIN VỀ NĂNG LỰC TRÊN HỆ THỐNG\n1 Chi thực hiện nghĩa vụ với Ngân sách nhà nước 2 Chi tổ chức quản lý, giám sát đăng tải thông tin về đấu thầu, lựa chọn nhà đầu tư trên Hệ thống 3 Chi tổ chức quản lý, giám sát, vận hành và phát triển Hệ thống 4 Chi tổ chức quản lý, giám sát Doanh nghiệp Dự án e-GP 5 Chi hoạt động hướng dẫn, đào tạo người sử dụng Hệ thống 6 Chi hoạt động truyền thông, hợp tác quốc tế về đấu thầu qua mạng 7 Chi hoạt động liên quan đến công việc tiếp nhận, xử lý hồ sơ tham gia Hệ thống, ứng dụng công nghệ thông tin trong công tác đấu thầu, quản lý cơ sở dữ liệu 8 Chi đầu tư, sử dụng các quỹ thực hiện theo quy định về tự chủ trong đơn vị sự nghiệp công lập 9 Các nhiệm vụ chi thường xuyên khác và chi đầu tư phục vụ triển khai áp dụng đấu thầu qua mạng\nV\nPHÂN PHỐI KẾT QUẢ TÀI CHÍNH THEO CƠ CHẾ TỰ CHỦ",
+  "tree": {
+    "parts": [
+      {
+        "part_id": "doc:164058:part:1",
+        "part_type": "main",
+        "part_title": null,
+        "reference": null,
+        "direct_text": "THÔNG TƯ QUY\nĐỊNH CHI TIẾT VIỆC THU, NỘP, QUẢN LÝ VÀ SỬ DỤNG CÁC CHI PHÍ VỀ ĐĂNG KÝ, ĐĂNG TẢI\nTHÔNG TIN, LỰA CHỌN NHÀ THẦU, NHÀ ĐẦU TƯ TRÊN HỆ THỐNG MẠNG ĐẤU THẦU QUỐC GIA,\nBÁO ĐẤU THẦU\nCăn cứ Luật Đấu thầu ngày 26 tháng 11 năm 2013; Căn cứ Luật Đầu tư theo phương thức đối tác công tư ngày 18 tháng 6 năm 2020; Căn cứ Luật Giao dịch điện tử ngày 29 tháng 11 năm 2005; Căn cứ Nghị định số 63/2014/NĐ-CP ngày 26 tháng 6 năm 2014 của Chính phủ quy định chi tiết thi hành một số điều của Luật Đấu thầu về lựa chọn nhà thầu; Căn cứ Nghị định số 86/2017/NĐ-CP ngày 25 tháng 7 năm 2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Kế hoạch và Đầu tư; Căn cứ Nghị định số 25/2020/NĐ-CP ngày 28 tháng 02 năm 2020 của Chính phủ quy định chi tiết thi hành một số điều của Luật Đấu thầu về lựa chọn nhà đầu tư; Căn cứ Nghị định số 120/2020/NĐ-CP ngày 07 tháng 10 năm 2020 của Chính phủ quy định về thành lập, tổ chức lại, giải thể đơn vị sự nghiệp công lập; Căn cứ Nghị định số 35/2021/NĐ-CP ngày 29 tháng 3 năm 2021 của Chính phủ quy định chi tiết và hướng dẫn thi hành Luật Đầu tư theo phương thức đối tác công tư; Theo đề nghị của Cục trưởng Cục Quản lý đấu thầu, Bộ trưởng Bộ Kế hoạch và Đầu tư ban hành Thông tư quy định chi tiết việc thu, nộp, quản lý và sử dụng các chi phí về đăng ký, đăng tải thông tin, lựa chọn nhà thầu, nhà đầu tư trên Hệ thống mạng đấu thầu quốc gia, Báo Đấu thầu.\nPhụ lục I ban hành kèm theo Thông tư này và chịu trách nhiệm về việc điều chỉnh\ntrong phạm vi kế hoạch năm được duyệt. Việc điều chỉnh chỉ được thực hiện trong năm kế hoạch;\nc) Báo Đấu thầu có trách\nnhiệm lập quyết toán thu, chi theo các nội dung tại Phụ lục II kèm theo Thông tư này và quyết toán vào kinh phí hoạt động của Cục Quản lý đấu thầu.",
+        "chapters": [
+          {
+            "chapter_id": "doc:164058:part:1:chapter:1",
+            "number": "I",
+            "title": "QUY ĐỊNH CHUNG",
+            "content": "Chương I.\nQUY ĐỊNH CHUNG",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:164058:part:1:article:1",
+                "number": "1",
+                "title": "Phạm vi điều chỉnh",
+                "content": "Điều 1. Phạm vi điều chỉnh",
+                "clauses": [
+                  {
+                    "clause_id": "doc:164058:part:1:article:1:clause:1",
+                    "number": "1",
+                    "content": "1. Thông tư này quy định\nchi tiết việc:",
+                    "points": [
+                      {
+                        "point_id": "doc:164058:part:1:article:1:clause:1:point:1",
+                        "label": "a",
+                        "content": "a) Thu, nộp, quản lý và sử\ndụng các Chi phí sử dụng dịch vụ đối với các gói thầu, dự án thuộc phạm vi điều chỉnh tại Điều 1 của Luật Đấu thầu;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:164058:part:1:article:1:clause:1:point:2",
+                        "label": "b",
+                        "content": "b) Thu, nộp, quản lý và sử\ndụng chi phí quy định tại khoản 6 Điều 32 Nghị định số 35/2021/NĐ-CP ngày 29 tháng 3 năm 2021 của Chính phủ quy định chi tiết và hướng dẫn thi hành Luật Đầu tư theo phương thức đối tác công tư (sau đây gọi tắt là Nghị định số 35/2021/NĐ-CP).",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:164058:part:1:article:1:clause:2",
+                    "number": "2",
+                    "content": "2. Việc thu, nộp, quản lý\nvà sử dụng các chi phí quy định tại các khoản 1, 2, 3, 4 và 5 Điều 32 Nghị định số 35/2021/NĐ-CP thực hiện theo hướng dẫn của Bộ Tài chính.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:164058:part:1:article:2",
+                "number": "2",
+                "title": "Đối tượng áp dụng",
+                "content": "Điều 2. Đối tượng áp dụng",
+                "clauses": [
+                  {
+                    "clause_id": "doc:164058:part:1:article:2:clause:1",
+                    "number": "1",
+                    "content": "1. Thông tư này áp dụng đối\nvới:",
+                    "points": [
+                      {
+                        "point_id": "doc:164058:part:1:article:2:clause:1:point:1",
+                        "label": "a",
+                        "content": "a) Tổ chức, cá nhân thực\nhiện việc đăng ký, đăng tải thông tin, lựa chọn nhà thầu, nhà đầu tư theo quy định tại khoản 1 Điều 1 Thông tư này;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:164058:part:1:article:2:clause:1:point:2",
+                        "label": "b",
+                        "content": "b) Tổ chức, cá nhân liên\nquan đến việc quản lý, vận hành Hệ thống mạng đấu thầu quốc gia.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:164058:part:1:article:2:clause:2",
+                    "number": "2",
+                    "content": "2. Tổ chức, cá nhân không\nthuộc phạm vi điều chỉnh tại khoản 1 Điều 1 của Thông tư này được chọn áp dụng quy định của Thông tư này để thực hiện việc đăng ký, đăng tải thông tin, lựa chọn nhà thầu, nhà đầu tư trên Hệ thống mạng đấu thầu quốc gia.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:164058:part:1:article:3",
+                "number": "3",
+                "title": "Giải thích từ ngữ",
+                "content": "Điều 3. Giải thích từ ngữ",
+                "clauses": [
+                  {
+                    "clause_id": "doc:164058:part:1:article:3:clause:1",
+                    "number": "1",
+                    "content": "1. Hệ thống mạng đấu thầu quốc gia (sau đây gọi tắt là Hệ thống) là hệ thống công nghệ thông\ntin do Bộ Kế hoạch và Đầu tư xây dựng và quản lý theo quy định tại khoản 26 Điều 4 của Luật Đấu thầu, có địa chỉ tại http://muasamcong.mpi.gov.vn.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:164058:part:1:article:3:clause:2",
+                    "number": "2",
+                    "content": "2. Trung tâm Đấu thầu qua mạng quốc gia thuộc Cục Quản lý đấu thầu, Bộ Kế hoạch và Đầu tư là Tổ chức\nvận hành Hệ thống theo quy định tại Điều 75 của Luật Đấu thầu.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:164058:part:1:article:3:clause:3",
+                    "number": "3",
+                    "content": "3. Dự án e-GP là dự án “Ứng\ndụng thương mại điện tử trong mua sắm Chính phủ” theo hình thức đối tác công tư (PPP), được phê duyệt theo Quyết định số 1546/QĐ-BKHĐT ngày 30 tháng 10 năm 2014 của Bộ trưởng Bộ Kế hoạch và Đầu tư, Quyết định số 2032/QĐ-BKHĐT ngày 23 tháng 12 năm 2019 của Bộ trưởng Bộ Kế hoạch và Đầu tư và các quyết định sửa đổi, bổ sung khác (nếu có).",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:164058:part:1:article:3:clause:4",
+                    "number": "4",
+                    "content": "4. Hợp đồng BOT Dự án e-GP\nlà thỏa thuận bằng văn bản và các phụ lục hợp đồng (nếu có) được ký kết giữa Bộ Kế hoạch và Đầu tư với Nhà đầu tư được lựa chọn thực hiện Dự án e-GP, Doanh nghiệp Dự án e-GP về việc Nhà nước nhượng quyền cho Nhà đầu tư, Doanh nghiệp Dự án e-GP thực hiện đầu tư, thiết kế, xây dựng, vận hành, bảo trì, nâng cấp và chuyển giao Hệ thống mạng đấu thầu quốc gia theo hình thức đối tác công tư\n(PPP).",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:164058:part:1:article:3:clause:5",
+                    "number": "5",
+                    "content": "5. Doanh nghiệp Dự án e-GP\nlà doanh nghiệp do Nhà đầu tư được lựa chọn thực hiện Dự án e-GP thành lập theo quy định pháp luật với mục đích duy nhất là thực hiện Hợp đồng BOT Dự án e-GP.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:164058:part:1:article:3:clause:6",
+                    "number": "6",
+                    "content": "6. Chi phí sử dụng dịch vụ\nlà các loại chi phí theo quy định tại khoản 3 Điều 13 của Luật Đấu thầu, khoản 9 Điều 9 và Điều 86 của Nghị định số 63/2014/NĐ-CP ngày 26 tháng 6 năm 2014 của Chính phủ quy định chi tiết thi hành một số điều của Luật Đấu thầu về lựa chọn nhà thầu, khoản 6 Điều 32 của Nghị định số 35/2021/NĐ-CP.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:164058:part:1:article:3:clause:7",
+                    "number": "7",
+                    "content": "7. Hợp đồng điện tử là hợp đồng\nđược thiết lập dưới dạng thông điệp dữ liệu được tạo ra, được gửi đi, được nhận, ký số, lưu trữ trên Hệ thống và có giá trị pháp lý theo quy định của pháp luật về giao dịch điện tử.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:164058:part:1:chapter:2",
+            "number": "II",
+            "title": "NGUYÊN TẮC THU CHI, MỨC THU VÀ TỔ CHỨC THU, NỘP CHI PHÍ SỬ DỤNG DỊCH VỤ",
+            "content": "Chương II\nNGUYÊN TẮC THU CHI, MỨC THU VÀ TỔ CHỨC THU, NỘP CHI PHÍ SỬ DỤNG DỊCH\nVỤ",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:164058:part:1:article:4",
+                "number": "4",
+                "title": "Nguyên tắc thu, chi đối với khoản thu Chi phí sử dụng dịch vụ",
+                "content": "Điều 4. Nguyên tắc thu, chi đối với khoản thu Chi phí sử dụng dịch vụ",
+                "clauses": [
+                  {
+                    "clause_id": "doc:164058:part:1:article:4:clause:1",
+                    "number": "1",
+                    "content": "1. Trung tâm Đấu thầu qua\nmạng quốc gia, Báo Đấu thầu, Doanh nghiệp Dự án e-GP có trách nhiệm thu, quản lý và sử dụng khoản thu Chi phí sử dụng dịch vụ theo quy định tại Thông tư này và Hợp đồng BOT Dự án e-GP để cung cấp dịch vụ trên Hệ thống, Báo Đấu thầu.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:164058:part:1:article:4:clause:2",
+                    "number": "2",
+                    "content": "2. Nguồn thu từ Chi phí sử\ndụng dịch vụ để thực hiện các nhiệm vụ sau đây:",
+                    "points": [
+                      {
+                        "point_id": "doc:164058:part:1:article:4:clause:2:point:1",
+                        "label": "a",
+                        "content": "a) Quản lý, duy trì, vận\nhành và phát triển Hệ thống;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:164058:part:1:article:4:clause:2:point:2",
+                        "label": "b",
+                        "content": "b) Đăng tải thông tin về\nđấu thầu, thông tin về lựa chọn nhà đầu tư trên Hệ thống, Báo đấu thầu;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:164058:part:1:article:4:clause:2:point:3",
+                        "label": "b",
+                        "content": "b) Lựa chọn nhà thầu, nhà\nđầu tư trên Hệ thống;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:164058:part:1:article:4:clause:2:point:4",
+                        "label": "c",
+                        "content": "c) Các nhiệm vụ chi thường\nxuyên khác và chi đầu tư liên quan đến việc tổ chức quản lý, duy trì, vận hành và phát triển Hệ thống của Trung tâm Đấu thầu qua mạng quốc gia và Báo Đấu thầu.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:164058:part:1:article:4:clause:3",
+                    "number": "3",
+                    "content": "3. Khoản thu Chi phí sử dụng\ndịch vụ trên Hệ thống, Báo Đấu thầu để phục vụ hoạt động của Trung tâm Đấu thầu qua mạng quốc gia, Báo Đấu thầu theo cơ chế tự chủ về tài chính đối với đơn vị sự nghiệp công lập.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:164058:part:1:article:4:clause:4",
+                    "number": "4",
+                    "content": "4. Không sử dụng nguồn\nngân sách nhà nước để thực hiện các nhiệm vụ quy định tại khoản 2 Điều này. Chênh lệch thu chi được hạch toán vào các quỹ theo quy định của pháp luật hiện hành và chỉ phục vụ cho các nhiệm vụ quy định tại khoản 2 Điều này.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:164058:part:1:article:5",
+                "number": "5",
+                "title": "Mức thu các loại Chi phí sử dụng dịch vụ",
+                "content": "Điều 5. Mức thu các loại Chi phí sử dụng dịch vụ",
+                "clauses": [
+                  {
+                    "clause_id": "doc:164058:part:1:article:5:clause:1",
+                    "number": "1",
+                    "content": "1. Chi phí lựa chọn nhà\nthầu, nhà đầu tư trên Hệ thống gồm:",
+                    "points": [
+                      {
+                        "point_id": "doc:164058:part:1:article:5:clause:1:point:1",
+                        "label": "a",
+                        "content": "a) Chi phí đăng ký tham\ngia Hệ thống (chỉ nộp 01 lần khi đăng ký) là 550.000 đồng (đã bao gồm thuế giá trị gia tăng);",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:164058:part:1:article:5:clause:1:point:2",
+                        "label": "b",
+                        "content": "b) Chi phí duy trì tên và\nhồ sơ năng lực của nhà thầu, nhà đầu tư trên Hệ thống là 550.000 đồng cho một (01) năm (đã bao gồm thuế giá trị gia tăng). Nhà thầu, nhà đầu tư nộp chi phí này kể từ năm thứ hai trở đi sau năm đăng ký tham gia Hệ thống;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:164058:part:1:article:5:clause:1:point:3",
+                        "label": "c",
+                        "content": "c) Chi phí nộp hồ sơ dự\nthầu là 330.000 đồng cho một (01) gói thầu (đã bao gồm thuế giá trị gia tăng); chi phí nộp hồ sơ đề xuất là 220.000 đồng cho một (01) gói thầu (đã bao gồm thuế giá trị gia tăng);",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:164058:part:1:article:5:clause:1:point:4",
+                        "label": "d",
+                        "content": "d) Chi phí nhà thầu trúng\nthầu được tính bằng 0,022% giá trúng thầu nhưng tối đa là 2.200.000 đồng (đã bao gồm thuế giá trị gia tăng). Đối với gói thầu chia thành nhiều phần hoặc lô riêng biệt thì chi phí nhà thầu trúng thầu được tính theo giá trị trúng thầu của mỗi phần hoặc lô riêng biệt;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:164058:part:1:article:5:clause:1:point:5",
+                        "label": "đ",
+                        "content": "đ) Chi phí sử dụng Hợp đồng\nđiện tử được tính bằng 0,022% giá hợp đồng nhưng tối đa là 2.200.000 đồng (đã bao gồm thuế giá trị gia tăng).",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:164058:part:1:article:5:clause:2",
+                    "number": "2",
+                    "content": "2. Chi phí đăng tải thông\ntin về đấu thầu trên Hệ thống, Báo Đấu thầu:",
+                    "points": [
+                      {
+                        "point_id": "doc:164058:part:1:article:5:clause:2:point:1",
+                        "label": "a",
+                        "content": "a) Chi phí đăng tải thông\nbáo mời thầu, thông báo mời quan tâm, thông báo mời sơ tuyển là 330.000 đồng cho một (01) gói thầu hoặc một (01) dự án đối với một (01) thứ tiếng (đã bao gồm thuế giá trị gia tăng);",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:164058:part:1:article:5:clause:2:point:2",
+                        "label": "b",
+                        "content": "b) Chi phí đăng tải thông\nbáo mời chào hàng, danh sách ngắn là 165.000 đồng cho một (01) gói thầu đối với một (01) thứ tiếng (đã bao gồm thuế giá trị gia tăng).",
+                        "children": []
+                      }
+                    ]
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:164058:part:1:article:6",
+                "number": "6",
+                "title": "Tổ chức thu, nộp Chi phí sử dụng dịch vụ",
+                "content": "Điều 6. Tổ chức thu, nộp Chi phí sử dụng dịch vụ\n1. Tổ chức thu Chi phí sử\ndụng dịch vụ:\na) Trung tâm Đấu thầu qua\nmạng quốc gia chịu trách nhiệm thu các loại Chi phí sử dụng dịch vụ quy định tại các điểm a, b khoản 1 Điều 5 của Thông tư này. Tài khoản thu là tài khoản đồng Việt Nam của Trung tâm Đấu thầu qua mạng quốc gia mở tại ngân hàng thương mại;\nb) Báo Đấu thầu chịu\ntrách nhiệm thu Chi phí sử dụng dịch vụ quy định tại khoản 2 Điều 5 của Thông tư này. Tài khoản thu là tài khoản đồng Việt Nam của Báo Đấu thầu mở tại ngân hàng thương mại. Khoản thu chi phí đăng tải thông tin về đấu thầu được Báo Đấu thầu chuyển một phần sang Trung tâm Đấu thầu qua mạng quốc gia theo Quyết định của Bộ trưởng Bộ Kế hoạch và Đầu tư để thực hiện quản lý, giám sát việc nâng cấp, vận hành, phát triển Hệ thống, bảo đảm hoạt động liên tục, ổn định trong việc đăng tải thông tin về đấu thầu trên Hệ thống, phần còn lại được sử dụng để thực hiện chức năng đăng tải thông tin về đấu thầu trên Báo Đấu thầu;\nc) Doanh nghiệp Dự án\ne-GP thông qua Hợp đồng BOT Dự án e-GP thực hiện thu các loại Chi phí sử dụng dịch vụ quy định tại các điểm c, d, đ khoản 1 Điều 5 của Thông tư này. Thời điểm bắt đầu thu được quy định tại các khoản 3, 4 Điều 11 của Thông tư này. Tài khoản thu là tài khoản đồng Việt Nam của Doanh nghiệp Dự án e-GP mở tại ngân hàng thương mại.\n2. Tổ chức nộp Chi phí sử\ndụng dịch vụ:\na) Bên mời thầu nộp chi\nphí đăng tải thông tin về đấu thầu theo quy định tại khoản 2 Điều 5 của Thông tư này trong thời hạn tối đa là 14 ngày, kể từ ngày thông tin được bên mời thầu tự đăng tải hợp lệ trên Hệ thống;\nb) Nhà thầu nộp chi phí\ntheo quy định tại khoản 1 Điều 5 của Thông tư này như sau: - Đối với chi phí đăng ký tham gia Hệ thống, thời hạn nộp tối đa là 14 ngày kể từ ngày được phê duyệt đăng ký trên Hệ thống; - Đối với chi phí duy trì tên và hồ sơ năng lực của nhà thầu trên Hệ thống, thời hạn nộp trước ngày 01 tháng 4 hằng năm (trừ năm thực hiện đăng ký trên Hệ thống); nhà thầu không phải nộp chi phí duy trì tên và hồ sơ năng lực trên Hệ thống đối với những năm mà trạng thái tài khoản của nhà thầu được chính thức thông báo tạm ngừng trong cả năm (tính từ ngày 01 tháng 01 đến hết ngày 31 tháng 12 của năm đó); Trường hợp nhà thầu nộp chi phí duy trì tên và hồ sơ năng lực trên Hệ thống cho nhiều năm (tối đa là 05 năm) thì số tiền sẽ được khấu trừ tương ứng theo từng năm; trong thời gian đó, nếu nhà thầu đăng ký tạm ngừng tài khoản trên Hệ thống trong cả năm (tính từ ngày 01 tháng 01 đến hết ngày 31 tháng 12 của năm đăng ký) thì số tiền đã nộp còn lại sẽ được bảo lưu và được tự động khấu trừ cho các năm tiếp theo sau khi nhà thầu đăng ký khôi phục tài khoản trên Hệ thống; - Đối với chi phí nộp hồ sơ dự thầu, hồ sơ đề xuất, thời hạn nộp tối đa là 14 ngày kể từ ngày mở thầu; - Đối với chi phí nhà thầu trúng thầu, thời hạn nộp tối đa là 14 ngày kể từ ngày ký hợp đồng; - Đối với chi phí sử dụng Hợp đồng điện tử, thời hạn nộp tối đa là 14 ngày kể từ ngày Hợp đồng điện tử được các bên ký số trên Hệ thống. Trường hợp nhà thầu không lựa chọn sử dụng dịch vụ Hợp đồng điện tử thì không phải nộp chi phí này.\nc) Nhà đầu tư nộp chi phí\ntham gia Hệ thống theo quy định tại điểm a, b khoản 1 Điều 5 của Thông tư này như sau: - Đối với chi phí đăng ký tham gia Hệ thống, thời hạn nộp tối đa là 14 ngày kể từ ngày được phê duyệt đăng ký trên Hệ thống; - Đối với chi phí duy trì tên và hồ sơ năng lực của nhà đầu tư trên Hệ thống, thời hạn nộp trước ngày 01 tháng 4 hằng năm (trừ năm thực hiện đăng ký trên Hệ thống); nhà đầu tư không phải nộp chi phí duy trì tên và hồ sơ năng lực trên Hệ thống đối với những năm mà trạng thái tài khoản của nhà đầu tư được chính thức thông báo tạm ngừng trong cả năm (tính từ ngày 01/01 đến hết ngày 31/12 của năm đó); Trường hợp nhà đầu tư nộp chi phí duy trì tên và hồ sơ năng lực trên Hệ thống cho nhiều năm (tối đa là 05 năm) thì số tiền sẽ được khấu trừ tương ứng theo từng năm; trong thời gian đó, nếu nhà đầu tư đăng ký tạm ngừng tài khoản trên Hệ thống trong cả năm (tính từ ngày 01 tháng 01 đến hết ngày 31 tháng 12 của năm đăng ký) thì số tiền đã nộp còn lại sẽ được bảo lưu và được tự động khấu trừ cho các năm tiếp theo sau khi nhà đầu tư đăng ký khôi phục tài khoản trên Hệ thống.",
+                "clauses": [],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:164058:part:1:chapter:3",
+            "number": "III",
+            "title": "QUẢN LÝ VÀ SỬ DỤNG KHOẢN THU CHI PHÍ SỬ DỤNG DỊCH VỤ",
+            "content": "Chương III\nQUẢN LÝ VÀ SỬ DỤNG KHOẢN THU CHI PHÍ SỬ DỤNG DỊCH VỤ",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:164058:part:1:article:7",
+                "number": "7",
+                "title": "Quản lý, sử dụng khoản thu Chi phí sử dụng dịch vụ đối với Trung tâm Đấu thầu qua mạng quốc gia",
+                "content": "Điều 7. Quản lý, sử dụng khoản thu Chi phí sử dụng dịch vụ đối với Trung tâm Đấu thầu qua mạng quốc gia",
+                "clauses": [
+                  {
+                    "clause_id": "doc:164058:part:1:article:7:clause:1",
+                    "number": "1",
+                    "content": "1. Nội dung chi:",
+                    "points": [
+                      {
+                        "point_id": "doc:164058:part:1:article:7:clause:1:point:1",
+                        "label": "a",
+                        "content": "a) Chi thực hiện nghĩa vụ\nvới Ngân sách nhà nước;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:164058:part:1:article:7:clause:1:point:2",
+                        "label": "b",
+                        "content": "b) Chi tổ chức quản lý,\ngiám sát đăng tải thông tin về đấu thầu, thông tin về lựa chọn nhà đầu tư trên Hệ thống;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:164058:part:1:article:7:clause:1:point:3",
+                        "label": "c",
+                        "content": "c) Chi tổ chức quản lý,\ngiám sát, vận hành và phát triển Hệ thống;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:164058:part:1:article:7:clause:1:point:4",
+                        "label": "d",
+                        "content": "d) Chi quản lý, giám sát\nDoanh nghiệp Dự án e-GP;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:164058:part:1:article:7:clause:1:point:5",
+                        "label": "đ",
+                        "content": "đ) Chi hoạt động hướng dẫn,\nđào tạo người sử dụng Hệ thống;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:164058:part:1:article:7:clause:1:point:6",
+                        "label": "e",
+                        "content": "e) Chi hoạt động truyền\nthông, hợp tác quốc tế về đấu thầu qua mạng;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:164058:part:1:article:7:clause:1:point:7",
+                        "label": "g",
+                        "content": "g) Chi hoạt động liên\nquan đến công việc tiếp nhận, xử lý hồ sơ tham gia Hệ thống, ứng dụng công nghệ thông tin trong công tác đấu thầu, quản lý cơ sở dữ liệu;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:164058:part:1:article:7:clause:1:point:8",
+                        "label": "h",
+                        "content": "h) Chi đầu tư, sử dụng\ncác quỹ thực hiện theo quy định về tự chủ trong đơn vị sự nghiệp công lập;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:164058:part:1:article:7:clause:1:point:9",
+                        "label": "i",
+                        "content": "i) Các nhiệm vụ chi thường\nxuyên, chi đầu tư khác phục vụ triển khai áp dụng đấu thầu qua mạng.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:164058:part:1:article:7:clause:2",
+                    "number": "2",
+                    "content": "2. Việc phân phối kết quả\ntài chính, trích lập các quỹ thực hiện theo cơ chế tự chủ tuân thủ theo quy định của pháp luật hiện hành.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:164058:part:1:article:7:clause:3",
+                    "number": "3",
+                    "content": "3. Không sử dụng nguồn\nngân sách nhà nước để thực hiện các nhiệm vụ quy định tại khoản 1 Điều này. Chênh lệch thu chi được hạch toán vào các quỹ theo quy định của pháp luật hiện hành và chỉ phục vụ cho các nhiệm vụ quy định tại khoản 1 Điều này.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:164058:part:1:article:7:clause:4",
+                    "number": "4",
+                    "content": "4. Tổ chức lập, phê duyệt,\nđiều chỉnh kế hoạch, quyết toán thu chi hằng năm:",
+                    "points": [
+                      {
+                        "point_id": "doc:164058:part:1:article:7:clause:4:point:1",
+                        "label": "a",
+                        "content": "a) Trung tâm Đấu thầu qua\nmạng quốc gia lập kế hoạch thu và kế hoạch chi liên quan đến lựa chọn nhà thầu, nhà đầu tư trên Hệ thống; đăng tải thông tin về đấu thầu, thông tin về lựa chọn nhà đầu tư theo các nội dung tại Phụ lục I ban hành kèm theo Thông tư này trình Hội đồng quản lý hoặc tổng hợp vào dự toán của Cục Quản lý đấu thầu trình Bộ Kế hoạch và Đầu tư phê duyệt (trong trường hợp chưa thành lập Hội đồng quản lý);",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:164058:part:1:article:7:clause:4:point:2",
+                        "label": "b",
+                        "content": "b) Trường hợp phát sinh\nnhiệm vụ, Hội đồng quản lý hoặc Cục Quản lý đấu thầu (trong trường hợp chưa thành lập Hội đồng quản lý) được chủ động điều chỉnh các khoản thu, chi tại Phụ lục I ban hành kèm theo Thông tư này và chịu trách nhiệm về việc điều chỉnh trong phạm vi kế hoạch năm được duyệt, Việc điều chỉnh chỉ được thực hiện trong năm kế hoạch;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:164058:part:1:article:7:clause:4:point:3",
+                        "label": "c",
+                        "content": "c) Trung tâm Đấu thầu qua\nmạng quốc gia có trách nhiệm lập quyết toán thu, chi theo các nội dung tại Phụ lục II ban hành kèm theo Thông tư này và quyết toán vào kinh phí hoạt động của Cục Quản lý đấu thầu.",
+                        "children": []
+                      }
+                    ]
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:164058:part:1:article:8",
+                "number": "8",
+                "title": "Quản lý, sử dụng khoản thu Chi phí sử dụng dịch vụ đối với Báo Đấu thầu",
+                "content": "Điều 8. Quản lý, sử dụng khoản thu Chi phí sử dụng dịch vụ đối với Báo Đấu thầu",
+                "clauses": [
+                  {
+                    "clause_id": "doc:164058:part:1:article:8:clause:1",
+                    "number": "1",
+                    "content": "1. Nội dung chi:",
+                    "points": [
+                      {
+                        "point_id": "doc:164058:part:1:article:8:clause:1:point:1",
+                        "label": "a",
+                        "content": "a) Chi thực hiện nghĩa vụ\nvới Ngân sách nhà nước;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:164058:part:1:article:8:clause:1:point:2",
+                        "label": "b",
+                        "content": "b) Chi in Báo;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:164058:part:1:article:8:clause:1:point:3",
+                        "label": "c",
+                        "content": "c) Chi vận chuyển và phát\nhành Báo trên toàn quốc;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:164058:part:1:article:8:clause:1:point:4",
+                        "label": "d",
+                        "content": "d) Chi cho cá nhân tham\ngia hoạt động đăng tải thông tin về đấu thầu bao gồm: tiền lương, phụ cấp và các khoản chi hợp lệ khác cho người lao động theo quy định của pháp luật;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:164058:part:1:article:8:clause:1:point:5",
+                        "label": "đ",
+                        "content": "đ) Chi văn phòng phẩm, vật\ntư văn phòng, thông tin liên lạc, điện, nước, ứng dụng công nghệ thông tin và các dịch vụ thuê ngoài phục vụ hoạt động đăng tải thông tin về đấu thầu;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:164058:part:1:article:8:clause:1:point:6",
+                        "label": "e",
+                        "content": "e) Chi mua sắm, bảo dưỡng\nvà sửa chữa thường xuyên, sửa chữa lớn, bảo hành, bảo trì, nâng cấp hệ thống tài sản, máy móc, thiết bị phục vụ hoạt động đăng tải thông tin về đấu thầu;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:164058:part:1:article:8:clause:1:point:7",
+                        "label": "g",
+                        "content": "g) Chi tổ chức, quản lý\nhoạt động đăng tải, phát hành thông tin về đấu thầu;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:164058:part:1:article:8:clause:1:point:8",
+                        "label": "h",
+                        "content": "h) Các nhiệm vụ chi thường\nxuyên, chi đầu tư khác liên quan đến việc tổ chức quản, lý, đăng tải thông tin về đấu thầu.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:164058:part:1:article:8:clause:2",
+                    "number": "2",
+                    "content": "2. Phân phối kết quả tài\nchính, trích lập các quỹ thực hiện theo cơ chế tự chủ tuân thủ theo quy định của pháp luật hiện hành.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:164058:part:1:article:8:clause:3",
+                    "number": "3",
+                    "content": "3. Không sử dụng nguồn\nngân sách nhà nước để thực hiện các nhiệm vụ quy định tại khoản 1 Điều này. Chênh lệch thu chi được hạch toán vào các quỹ theo quy định của pháp luật hiện hành và chỉ phục vụ cho các nhiệm vụ quy định tại khoản 1 Điều này.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:164058:part:1:article:8:clause:4",
+                    "number": "4",
+                    "content": "4. Tổ chức lập, phê duyệt,\nđiều chỉnh kế hoạch, quyết toán thu chi hằng năm:",
+                    "points": [
+                      {
+                        "point_id": "doc:164058:part:1:article:8:clause:4:point:1",
+                        "label": "a",
+                        "content": "a) Báo Đấu thầu lập kế hoạch\nthu và kế hoạch chi liên quan đến đăng tải thông tin về đấu thầu trên Báo Đấu thầu theo các nội dung tại Phụ lục I ban hành kèm theo Thông tư này, tổng hợp vào dự toán của Cục Quản lý đấu thầu trình Bộ Kế hoạch và Đầu tư phê duyệt;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:164058:part:1:article:8:clause:4:point:2",
+                        "label": "b",
+                        "content": "b) Trường hợp phát sinh\nnhiệm vụ, Cục Quản lý đấu thầu được, chủ động điều chỉnh các khoản thu, chi tại",
+                        "children": []
+                      }
+                    ]
+                  }
+                ],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:164058:part:1:chapter:4",
+            "number": "IV",
+            "title": "TRÁCH NHIỆM CỦA CÁC BÊN",
+            "content": "Chương IV\nTRÁCH NHIỆM CỦA CÁC BÊN",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:164058:part:1:article:9",
+                "number": "9",
+                "title": "Trách nhiệm của Hội đồng quản lý Trung tâm Đấu thầu qua mạng quốc gia, Cục Quản lý đấu thầu, Trung tâm Đấu thầu qua mạng quốc gia, Báo Đấu thầu, Doanh nghiệp Dự án e-GP",
+                "content": "Điều 9. Trách nhiệm của Hội đồng quản lý Trung tâm Đấu thầu qua mạng quốc gia, Cục Quản lý đấu thầu, Trung tâm Đấu thầu qua mạng quốc gia, Báo Đấu thầu, Doanh nghiệp Dự án e-GP",
+                "clauses": [
+                  {
+                    "clause_id": "doc:164058:part:1:article:9:clause:1",
+                    "number": "1",
+                    "content": "1. Hội đồng quản lý Trung\ntâm Đấu thầu qua mạng quốc gia:",
+                    "points": [
+                      {
+                        "point_id": "doc:164058:part:1:article:9:clause:1:point:1",
+                        "label": "a",
+                        "content": "a) Phê duyệt kế hoạch thu\nvà kế hoạch chi hằng năm của Trung tâm Đấu thầu qua mạng quốc gia theo quy định tại điểm a khoản 4 Điều 7 của Thông tư này;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:164058:part:1:article:9:clause:1:point:2",
+                        "label": "b",
+                        "content": "b) Điều chỉnh kế hoạch\nthu và kế hoạch chi của Trung tâm Đấu thầu qua mạng quốc gia theo quy định tại điểm b khoản 4 Điều 7 của Thông tư này;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:164058:part:1:article:9:clause:1:point:3",
+                        "label": "c",
+                        "content": "c) Báo cáo cơ quan quản\nlý cấp trên về các hoạt động thu, chi của Trung tâm Đấu thầu qua mạng quốc gia theo quy định.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:164058:part:1:article:9:clause:2",
+                    "number": "2",
+                    "content": "2. Cục Quản lý đấu thầu:",
+                    "points": [
+                      {
+                        "point_id": "doc:164058:part:1:article:9:clause:2:point:1",
+                        "label": "a",
+                        "content": "a) Theo dõi, giám sát và\nquản lý việc thực hiện Hợp đồng BOT Dự án e- GP;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:164058:part:1:article:9:clause:2:point:2",
+                        "label": "b",
+                        "content": "b) Tổng hợp kế hoạch thu và\nkế hoạch chi hằng năm của Trung tâm Đấu thầu qua mạng quốc gia (trong trường hợp chưa thành lập Hội đồng quản lý), Báo Đấu thầu trình Bộ Kế hoạch và Đầu tư phê duyệt theo quy định tại điểm a khoản 4 Điều 7 và điểm a khoản 4 Điều 8 của Thông tư này;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:164058:part:1:article:9:clause:2:point:3",
+                        "label": "c",
+                        "content": "c) Điều chỉnh kế hoạch\nthu và kế hoạch chi của Trung tâm Đấu thầu qua mạng quốc gia (trong trường hợp chưa thành lập Hội đồng quản lý), Báo Đấu thầu theo quy định tại điểm b khoản 4 Điều 7 và điểm b khoản 4 Điều 8 của Thông tư này;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:164058:part:1:article:9:clause:2:point:4",
+                        "label": "d",
+                        "content": "d) Quyết toán thu, chi của\ntrung tâm Đấu thầu qua mạng quốc gia, Báo Đấu thầu theo quy định tại điểm c khoản 4 Điều 7 và điểm c khoản 4 Điều 8 của Thông tư này.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:164058:part:1:article:9:clause:3",
+                    "number": "3",
+                    "content": "3. Trung tâm Đấu thầu qua\nmạng quốc gia:",
+                    "points": [
+                      {
+                        "point_id": "doc:164058:part:1:article:9:clause:3:point:1",
+                        "label": "a",
+                        "content": "a) Thông báo công khai\ntrên Hệ thống quy trình thu Chi phí sử dụng dịch vụ bao gồm cách thức, phương thức, đối tượng và mức thu;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:164058:part:1:article:9:clause:3:point:2",
+                        "label": "b",
+                        "content": "b) Thông báo công khai\ntrên Hệ thống các thông tin về tên Dự án e-GP, Doanh nghiệp Dự án e-GP, thời điểm Doanh nghiệp Dự án e-GP bắt đầu thu Chi phí sử dụng dịch vụ, số điện thoại để tiếp nhận thông tin phản ánh;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:164058:part:1:article:9:clause:3:point:3",
+                        "label": "c",
+                        "content": "c) Kiểm tra, giám sát dữ\nliệu thu đối với khoản thu Chi phí sử dụng dịch vụ của Doanh nghiệp Dự án e-GP trên Hệ thống, đảm bảo hoạt động thu đúng quy định, báo cáo kịp thời các vi phạm và đề xuất cách thức xử lý. Cục Quản lý đấu thầu chịu trách nhiệm trình Bộ Kế hoạch và Đầu tư xem xét, quyết định xử lý vi phạm trên cơ sở đề xuất của Trung tâm Đấu thầu qua mạng quốc gia;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:164058:part:1:article:9:clause:3:point:4",
+                        "label": "d",
+                        "content": "d) Tổ chức thu Chi phí sử\ndụng dịch vụ theo quy định tại điểm a khoản 1 Điều 6 Thông tư này;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:164058:part:1:article:9:clause:3:point:5",
+                        "label": "đ",
+                        "content": "đ) Quản lý, sử dụng khoản\nthu Chi phí sử dụng dịch vụ theo quy định tại Điều 7 của Thông tư này.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:164058:part:1:article:9:clause:4",
+                    "number": "4",
+                    "content": "4. Báo Đấu thầu:",
+                    "points": [
+                      {
+                        "point_id": "doc:164058:part:1:article:9:clause:4:point:1",
+                        "label": "a",
+                        "content": "a) Tổ chức thu Chi phí sử\ndụng dịch vụ theo quy định tại điểm b khoản 1 Điều 6 của Thông tư này;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:164058:part:1:article:9:clause:4:point:2",
+                        "label": "b",
+                        "content": "b) Quản lý, sử dụng khoản\nthu Chi phí sử dụng dịch vụ theo quy định tại Điều 8 của Thông tư này.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:164058:part:1:article:9:clause:5",
+                    "number": "5",
+                    "content": "5. Doanh nghiệp Dự án\ne-GP:",
+                    "points": [
+                      {
+                        "point_id": "doc:164058:part:1:article:9:clause:5:point:1",
+                        "label": "a",
+                        "content": "a) Tuân thủ quy định pháp\nluật và thực hiện đầy đủ tất cả các nội dung quy định trong Hợp đồng BOT Dự án e-GP;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:164058:part:1:article:9:clause:5:point:2",
+                        "label": "b",
+                        "content": "b) Bảo đảm an toàn, bảo mật\ncơ sở dữ liệu của Hệ thống và chịu trách nhiệm trước pháp luật nếu xảy ra vi phạm;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:164058:part:1:article:9:clause:5:point:3",
+                        "label": "c",
+                        "content": "c) Cung cấp đầy đủ thông\ntin, dữ liệu, số liệu, tài liệu theo yêu cầu của Bộ Kế hoạch và Đầu tư phục vụ công tác giám sát, thanh tra, kiểm tra các vấn đề liên quan đến Hệ thống.",
+                        "children": []
+                      }
+                    ]
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:164058:part:1:article:10",
+                "number": "10",
+                "title": "Trách nhiệm của bên mời thầu, nhà thầu, nhà đầu tư",
+                "content": "Điều 10. Trách nhiệm của bên mời thầu, nhà thầu, nhà đầu tư",
+                "clauses": [
+                  {
+                    "clause_id": "doc:164058:part:1:article:10:clause:1",
+                    "number": "1",
+                    "content": "1. Bên mời thầu có trách\nnhiệm nộp chi phí đăng tải thông tin về đấu thầu theo thời hạn quy định tại điểm a khoản 2 Điều 6 của Thông tư này. Hết thời hạn thanh toán chi phí theo quy định mà không thanh toán chi phí thì bên mời thầu không được thực hiện đăng tải thông tin về đấu thầu trên Hệ thống đối với các gói thầu tiếp theo cho đến khi hoàn thành trách nhiệm thanh toán chi phí theo quy định.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:164058:part:1:article:10:clause:2",
+                    "number": "2",
+                    "content": "2. Nhà thầu có trách nhiệm\nnộp chi phí quy định tại điểm b khoản 2 Điều 6 của Thông tư này. Hết thời hạn thanh toán chi phí theo quy định mà không thanh toán chi phí thì tài khoản của nhà thầu trên Hệ thống bị chuyển sang trạng thái tạm ngừng và nhà thầu không được thực hiện các giao dịch liên quan trên Hệ thống cho đến khi hoàn thành trách nhiệm thanh toán chi phí theo quy định.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:164058:part:1:article:10:clause:3",
+                    "number": "3",
+                    "content": "3. Nhà đầu tư có trách\nnhiệm nộp chi phí quy định tại điểm c khoản 2 Điều 6 của Thông tư này. Hết thời hạn thanh toán chi phí theo quy định mà không thanh toán chi phí thì tài khoản của nhà đầu tư trên Hệ thống bị chuyển sang trạng thái tạm ngừng và nhà đầu tư không được thực hiện các giao dịch liên quan trên Hệ thống cho đến khi hoàn thành trách nhiệm thanh toán chi phí theo quy định.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:164058:part:1:chapter:5",
+            "number": "V",
+            "title": "ĐIỀU KHOẢN THI HÀNH",
+            "content": "Chương V\nĐIỀU KHOẢN THI HÀNH",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:164058:part:1:article:11",
+                "number": "11",
+                "title": "Hiệu lực thi hành",
+                "content": "Điều 11. Hiệu lực thi hành",
+                "clauses": [
+                  {
+                    "clause_id": "doc:164058:part:1:article:11:clause:1",
+                    "number": "1",
+                    "content": "1. Thông tư này có hiệu lực\nthi hành kể từ ngày 01 tháng 03 năm 2022.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:164058:part:1:article:11:clause:2",
+                    "number": "2",
+                    "content": "2. Các\nquy định tại Chương III Thông tư số 11/2019/TT-BKHĐT ngày 16 tháng 12 năm 2019 của Bộ trưởng Bộ Kế hoạch và Đầu tư quy định chi tiết việc cung cấp, đăng tải thông tin về đấu thầu, lộ trình áp dụng lựa chọn nhà thầu qua mạng và quản lý, sử dụng giá trị bảo đảm dự thầu, bảo đảm thực hiện hợp đồng không được hoàn trả hết hiệu lực kể từ ngày Thông tư này có hiệu lực.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:164058:part:1:article:11:clause:3",
+                    "number": "3",
+                    "content": "3. Bộ trưởng Bộ Kế hoạch\nvà Đầu tư ban hành Quyết định về thời điểm bắt đầu thu và nội dung thu chi phí đối với Doanh nghiệp Dự án e-GP theo quy định tại điểm c khoản 1 Điều 5 của Thông tư này.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:164058:part:1:article:11:clause:4",
+                    "number": "4",
+                    "content": "4. Việc thu chi phí nhà\nthầu trúng thầu và chi phí sử dụng Hợp đồng điện tử quy định tại các điểm d và đ khoản 1 Điều 5 của Thông tư này được áp dụng kể từ ngày 01 tháng 01 năm 2023 và trên cơ sở Quyết định của Bộ trưởng Bộ Kế hoạch và Đầu tư.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:164058:part:1:article:11:clause:5",
+                    "number": "5",
+                    "content": "5. Trung tâm Đấu thầu qua\nmạng quốc gia tiếp tục thu, quản lý và sử dụng Chi phí sử dụng dịch vụ quy định tại điểm c khoản 1 Điều 5 của Thông tư này đến thời điểm Doanh nghiệp Dự án e-GP bắt đầu thu theo quy định tại khoản 3 Điều này.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:164058:part:1:article:12",
+                "number": "12",
+                "title": "Trách nhiệm thi hành",
+                "content": "Điều 12. Trách nhiệm thi hành",
+                "clauses": [
+                  {
+                    "clause_id": "doc:164058:part:1:article:12:clause:1",
+                    "number": "1",
+                    "content": "1. Các Bộ, cơ quan ngang\nBộ, cơ quan thuộc Chính phủ, Ủy ban nhân dân các cấp và các cơ quan, tổ chức có liên quan đến việc đăng ký, đăng tải thông tin, lựa chọn nhà thầu, nhà đầu tư trên Hệ thống mạng đấu thầu quốc gia, Báo Đấu thầu căn cứ vào phạm vi chức năng, nhiệm vụ của mình tổ chức thực hiện Thông tư này.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:164058:part:1:article:12:clause:2",
+                    "number": "2",
+                    "content": "2. Trong quá trình thực\nhiện, nếu có vướng mắc liên quan đến nội dung về thu chi phí theo quy định tại Thông tư này, các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ, Ủy ban nhân dân các cấp và các cơ quan, tổ chức có liên quan gửi ý kiến về Bộ Kế hoạch và Đầu tư để kịp thời xem xét, hướng dẫn./.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          }
+        ],
+        "sections": [],
+        "articles": [],
+        "unstructured_blocks": []
+      },
+      {
+        "part_id": "doc:164058:part:2",
+        "part_type": "appendix",
+        "part_title": "PHỤ LỤC I",
+        "reference": null,
+        "direct_text": null,
+        "chapters": [],
+        "sections": [],
+        "articles": [],
+        "unstructured_blocks": [
+          {
+            "block_id": "doc:164058:part:2:block:1",
+            "content": "PHỤ LỤC I\nKẾ HOẠCH THU VÀ KẾ HOẠCH CHI CÁC KHOẢN LIÊN QUAN ĐẾN THAM\nGIA HỆ THỐNG VÀ ĐĂNG TẢI THÔNG TIN VỀ ĐẤU THẦU TRÊN HỆ THỐNG, BÁO ĐẤU THẦU CỦA\nCỤC QUẢN LÝ ĐẤU THẦU\nA. Kế hoạch thu (Đơn vị tính: đồng)\nSTT NỘI DUNG THU SỐ TIỀN\nTỔNG SỐ (I+II+III+IV) I\nKINH PHÍ NĂM TRƯỚC CHUYỂN SANG\nII\nTHU ĐĂNG TẢI THÔNG TIN VỀ ĐẤU THẦU, LỰA CHỌN NHÀ ĐẦU TƯ TRÊN HỆ\nTHỐNG, BÁO ĐẤU THẦU\n1 Đăng tải thông báo mời quan tâm, thông báo mời sơ tuyển 2 Đăng tải thông báo mời thầu 3 Đăng tải thông báo mời chào hàng 4 Đăng tải danh sách ngắn\nIII\nTHU ĐĂNG KÝ THAM GIA, DUY TRÌ TÊN VÀ THÔNG TIN VỀ NĂNG LỰC TRÊN\nHỆ THỐNG\n1 Thu đăng ký tham gia Hệ thống (nộp một lần khi đăng ký) 2 Thu duy trì tên và thông tin về năng lực, kinh nghiệm của nhà thầu, nhà đầu tư trên Hệ thống (thanh toán trước ngày 01 tháng 4 hằng năm trừ năm thực hiện đăng ký trên Hệ thống)\nIV THU KHÁC (NẾU CÓ)\nB. Kế hoạch chi (Đơn vị tính: đồng)\nSTT NỘI DUNG CHI SỐ TIỀN\nTỔNG SỐ (I+II+III+IV) I\nTHỰC HIỆN NGHĨA VỤ VỚI NGÂN SÁCH NHÀ NƯỚC\nII\nCHI ĐĂNG TẢI THÔNG TIN VỀ ĐẤU THẦU TRÊN BÁO ĐẤU THẦU\nIII\nCHUYỂN KHOẢN THU CHI PHÍ ĐĂNG TẢI THÔNG TIN VỀ ĐẤU THẦU TỪ BÁO ĐẤU\nTHẦU SANG TRUNG TÂM ĐẤU THẦU QUA MẠNG QUỐC GIA ĐỂ CHI THỰC HIỆN QUẢN LÝ, GIÁM\nSÁT ĐĂNG TẢI THÔNG TIN VỀ ĐẤU THẦU TRÊN HỆ THỐNG\nIV\nCHI THỰC HIỆN QUẢN LÝ ĐĂNG KÝ THAM GIA HỆ THỐNG, DUY TRÌ TÊN VÀ\nTHÔNG TIN VỀ NĂNG LỰC TRÊN HỆ THỐNG\n1 Chi thực hiện nghĩa vụ với Ngân sách nhà nước 2 Chi tổ chức quản lý, giám sát đăng tải thông tin về đấu thầu, lựa chọn nhà đầu tư trên Hệ thống 3 Chi tổ chức quản lý, giám sát, vận hành và phát triển Hệ thống 4 Chi tổ chức quản lý, giám sát Doanh nghiệp Dự án e-GP 5 Chi hoạt động hướng dẫn, đào tạo người sử dụng Hệ thống 6 Chi hoạt động truyền thông, hợp tác quốc tế về đấu thầu qua mạng 7 Chi hoạt động liên quan đến công việc tiếp nhận, xử lý hồ sơ tham gia Hệ thống, ứng dụng công nghệ thông tin trong công tác đấu thầu, quản lý cơ sở dữ liệu 8 Chi đầu tư, sử dụng các quỹ thực hiện theo quy định về tự chủ trong đơn vị sự nghiệp công lập 9 Các nhiệm vụ chi thường xuyên khác và chi đầu tư phục vụ triển khai áp dụng đấu thầu qua mạng\nV\nPHÂN PHỐI KẾT QUẢ TÀI CHÍNH THEO CƠ CHẾ TỰ CHỦ",
+            "indexable": true
+          }
+        ]
+      },
+      {
+        "part_id": "doc:164058:part:3",
+        "part_type": "appendix",
+        "part_title": "PHỤ LỤC",
+        "reference": null,
+        "direct_text": null,
+        "chapters": [],
+        "sections": [],
+        "articles": [],
+        "unstructured_blocks": [
+          {
+            "block_id": "doc:164058:part:3:block:1",
+            "content": "PHỤ LỤC\nII\nQUYẾT TOÁN THU VÀ QUYẾT TOÁN CHI CÁC KHOẢN LIÊN\nQUAN ĐẾN THAM GIA HỆ THỐNG VÀ ĐĂNG TẢI THÔNG TIN VỀ ĐẤU THẦU, TRÊN HỆ THỐNG,\nBÁO ĐẤU THẦU CỦA CỤC QUẢN LÝ ĐẤU THẦU\nA. Quyết toán thu (Đơn vị tính: đồng)\nSTT NỘI DUNG THU SỐ TIỀN\nTỔNG SỐ (I+II+III+IV+V) I\nKINH PHÍ NĂM TRƯỚC CHUYỂN SANG\nII\nTHU ĐĂNG TẢI THÔNG TIN VỀ ĐẤU THẦU TRÊN BÁO ĐẤU THẦU\n1 Đăng tải thông báo mời quan tâm, thông báo mời sơ tuyển 2 Đăng tải thông báo mời thầu 3 Đăng tải thông báo mời chào hàng 4 Đăng tải danh sách ngắn\nIII\nTHU ĐĂNG KÝ THAM GIA, DUY TRÌ TÊN VÀ THÔNG TIN VỀ NĂNG LỰC TRÊN\nHỆ THỐNG\n1 Thu đăng ký tham gia Hệ thống (nộp một lần khi đăng ký) 2 Thu duy trì tên và thông tin về năng lực, kinh nghiệm của nhà thầu, nhà đầu tư trên Hệ thống (thanh toán trước ngày 01 tháng 4 hàng năm trừ năm thực hiện đăng ký trên Hệ thống).\nIV THU KHÁC (NẾU CÓ)\nB. Quyết toán chi (Đơn vị tính: đồng)\nSTT NỘI DUNG CHI SỐ TIỀN\nTỔNG SỐ (I+II+III+IV+V) I\nTHỰC HIỆN NGHĨA VỤ VỚI NGÂN SÁCH NHÀ NƯỚC\nII\nCHI THỰC HIỆN ĐĂNG TẢI THÔNG TIN VỀ ĐẤU THẦU TRÊN BÁO ĐẤU THẦU\nIII\nCHUYỂN KHOẢN THU CHI PHÍ ĐĂNG TẢI THÔNG TIN VỀ ĐẤU THẦU TỪ BÁO\nĐẤU THẦU SANG TRUNG TÂM ĐẤU THẦU QUA MẠNG QUỐC GIA ĐỂ CHI THỰC HIỆN QUẢN LÝ,\nGIÁM SÁT ĐĂNG TẢI THÔNG TIN VỀ ĐẤU THẦU TRÊN HỆ THỐNG\nIV\nCHI THỰC HIỆN QUẢN LÝ ĐĂNG KÝ THAM GIA HỆ THỐNG, DUY TRÌ TÊN VÀ\nTHÔNG TIN VỀ NĂNG LỰC TRÊN HỆ THỐNG\n1 Chi thực hiện nghĩa vụ với Ngân sách nhà nước 2 Chi tổ chức quản lý, giám sát đăng tải thông tin về đấu thầu, lựa chọn nhà đầu tư trên Hệ thống 3 Chi tổ chức quản lý, giám sát, vận hành và phát triển Hệ thống 4 Chi tổ chức quản lý, giám sát Doanh nghiệp Dự án e-GP 5 Chi hoạt động hướng dẫn, đào tạo người sử dụng Hệ thống 6 Chi hoạt động truyền thông, hợp tác quốc tế về đấu thầu qua mạng 7 Chi hoạt động liên quan đến công việc tiếp nhận, xử lý hồ sơ tham gia Hệ thống, ứng dụng công nghệ thông tin trong công tác đấu thầu, quản lý cơ sở dữ liệu 8 Chi đầu tư, sử dụng các quỹ thực hiện theo quy định về tự chủ trong đơn vị sự nghiệp công lập 9 Các nhiệm vụ chi thường xuyên khác và chi đầu tư phục vụ triển khai áp dụng đấu thầu qua mạng\nV\nPHÂN PHỐI KẾT QUẢ TÀI CHÍNH THEO CƠ CHẾ TỰ CHỦ",
+            "indexable": true
+          }
+        ]
+      }
+    ]
+  },
+  "issues": [],
+  "status": "ok",
+  "source_hash": "context_164058.json",
+  "stats": {
+    "source_chars": 27289,
+    "passage_chars": 27126,
+    "parts": 3,
+    "chapters": 5,
+    "sections": 0,
+    "articles": 12,
+    "clauses": 40,
+    "points": 54
+  }
+}

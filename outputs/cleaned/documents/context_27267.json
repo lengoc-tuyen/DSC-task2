@@ -1,0 +1,473 @@
+{
+  "schema_version": "2.0",
+  "document_id": 27267,
+  "metadata": {
+    "name": "Quyet-dinh-2366-QD-BHXH-2018-khai-thac-thong-tin-tu-co-so-du-lieu-tap-trung-nganh-Bao-hiem-xa-hoi-41",
+    "link": "https://thuvienphapluat.vn/van-ban/Bao-hiem/Quyet-dinh-2366-QD-BHXH-2018-khai-thac-thong-tin-tu-co-so-du-lieu-tap-trung-nganh-Bao-hiem-xa-hoi-411893.aspx",
+    "issuing_agency": "BẢO HIỂM XÃ HỘI VIỆT NAM",
+    "national_header": "CỘNG HÒA XÃ HỘI\r\n\n  CHỦ NGHĨA VIỆT NAM",
+    "motto": "Độc lập - Tự do - Hạnh phúc",
+    "document_number": "2366/QĐ-BHXH",
+    "issued_place": "Hà Nội",
+    "issued_date": "ngày 28\r\n\n  tháng 11 năm 2018",
+    "document_type": "QUYẾT ĐỊNH",
+    "title": "VỀ VIỆC BAN HÀNH QUY CHẾ QUẢN LÝ, KHAI THÁC VÀ SỬ DỤNG THÔNG TIN TỪ CƠ SỞ DỮ LIỆU TẬP TRUNG NGÀNH BẢO HIỂM XÃ HỘI TỔNG GIÁM ĐỐC BẢO HIỂM XÃ HỘI VIỆT NAM"
+  },
+  "administrative_header": {
+    "removed": true,
+    "removed_char_count": 162
+  },
+  "preamble": {
+    "text": "QUYẾT ĐỊNH\nVỀ VIỆC BAN HÀNH QUY CHẾ QUẢN LÝ, KHAI THÁC VÀ\nSỬ DỤNG THÔNG TIN TỪ CƠ SỞ DỮ LIỆU TẬP TRUNG NGÀNH BẢO HIỂM XÃ HỘI\nTỔNG GIÁM ĐỐC BẢO HIỂM XÃ HỘI VIỆT NAM\nCăn cứ Luật Công nghệ thông tin ngày 29 tháng 6 năm 2006; Căn cứ Luật An toàn thông tin mạng ngày 19 tháng 11 năm 2015; Căn cứ Nghị định số 01/2016/NĐ-CP ngày 05 tháng 01 năm 2016 của Chính phủ về việc quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bảo hiểm xã hội Việt Nam; Căn cứ Nghị định số 64/2007/NĐ-CP ngày 10 tháng 4 năm 2007 của Chính phủ về ứng dụng công nghệ thông tin trong hoạt động của cơ quan nhà nước; Căn cứ Quyết định số 3582/QĐ-BHXH ngày 26 tháng 12 năm 2006 của Tổng Giám đốc Bảo hiểm xã hội Việt Nam về việc ban hành quy định về quản lý hoạt động công nghệ thông tin trong hệ thống Bảo hiểm xã hội Việt Nam; Căn cứ Quyết định 967/QĐ-BHXH ngày 20 tháng 06 năm 2017 của Tổng Giám đốc Bảo hiểm xã hội Việt Nam về việc ban hành quy chế bảo đảm an toàn thông tin trong ứng dụng công nghệ thông tin của ngành Bảo hiểm xã hội; Xét đề nghị của Giám đốc Trung tâm Công nghệ thông tin,\nQUYẾT ĐỊNH",
+    "legal_bases": [
+      "Căn cứ Luật An toàn thông tin mạng ngày 19 tháng 11 năm 2015",
+      "Căn cứ Nghị định số 01/2016/NĐ-CP ngày 05 tháng 01 năm 2016 của Chính phủ về việc quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bảo hiểm xã hội Việt Nam",
+      "Căn cứ Nghị định số 64/2007/NĐ-CP ngày 10 tháng 4 năm 2007 của Chính phủ về ứng dụng công nghệ thông tin trong hoạt động của cơ quan nhà nước",
+      "Căn cứ Quyết định số 3582/QĐ-BHXH ngày 26 tháng 12 năm 2006 của Tổng Giám đốc Bảo hiểm xã hội Việt Nam về việc ban hành quy định về quản lý hoạt động công nghệ thông tin trong hệ thống Bảo hiểm xã hội Việt Nam",
+      "Căn cứ Quyết định 967/QĐ-BHXH ngày 20 tháng 06 năm 2017 của Tổng Giám đốc Bảo hiểm xã hội Việt Nam về việc ban hành quy chế bảo đảm an toàn thông tin trong ứng dụng công nghệ thông tin của ngành Bảo hiểm xã hội"
+    ],
+    "proposals": [
+      "Xét đề nghị của Giám đốc Trung tâm Công nghệ thông tin,\nQUYẾT ĐỊNH"
+    ],
+    "enactment_formula": "QUYẾT ĐỊNH"
+  },
+  "passage": "QUYẾT ĐỊNH\nVỀ VIỆC BAN HÀNH QUY CHẾ QUẢN LÝ, KHAI THÁC VÀ\nSỬ DỤNG THÔNG TIN TỪ CƠ SỞ DỮ LIỆU TẬP TRUNG NGÀNH BẢO HIỂM XÃ HỘI\nTỔNG GIÁM ĐỐC BẢO HIỂM XÃ HỘI VIỆT NAM\nCăn cứ Luật Công nghệ thông tin ngày 29 tháng 6 năm 2006; Căn cứ Luật An toàn thông tin mạng ngày 19 tháng 11 năm 2015; Căn cứ Nghị định số 01/2016/NĐ-CP ngày 05 tháng 01 năm 2016 của Chính phủ về việc quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bảo hiểm xã hội Việt Nam; Căn cứ Nghị định số 64/2007/NĐ-CP ngày 10 tháng 4 năm 2007 của Chính phủ về ứng dụng công nghệ thông tin trong hoạt động của cơ quan nhà nước; Căn cứ Quyết định số 3582/QĐ-BHXH ngày 26 tháng 12 năm 2006 của Tổng Giám đốc Bảo hiểm xã hội Việt Nam về việc ban hành quy định về quản lý hoạt động công nghệ thông tin trong hệ thống Bảo hiểm xã hội Việt Nam; Căn cứ Quyết định 967/QĐ-BHXH ngày 20 tháng 06 năm 2017 của Tổng Giám đốc Bảo hiểm xã hội Việt Nam về việc ban hành quy chế bảo đảm an toàn thông tin trong ứng dụng công nghệ thông tin của ngành Bảo hiểm xã hội; Xét đề nghị của Giám đốc Trung tâm Công nghệ thông tin,\nQUYẾT ĐỊNH\nĐiều 1. Ban hành kèm theo Quyết định này Quy chế Quản lý, khai thác và sử dụng thông tin từ cơ sở dữ liệu tập trung ngành Bảo hiểm xã hội.\nĐiều 2. Quyết định này có hiệu lực thi hành từ ngày ký.\nĐiều 3. Thủ trưởng các đơn vị trực thuộc Bảo hiểm xã hội Việt Nam, Giám đốc Bảo hiểm xã hội các tỉnh, thành phố trực thuộc Trung ương chịu trách nhiệm thi hành Quyết định này./.\nNơi nhận:\n- Như Điều 3;\n- Các Phó Tổng Giám đốc;\n- Lưu: VT, CNTT(03).\nTỔNG GIÁM ĐỐC\nNguyễn Thị Minh\nQUY CHẾ\nQUẢN LÝ, KHAI THÁC VÀ SỬ DỤNG THÔNG TIN TỪ CƠ\nSỞ DỮ LIỆU TẬP TRUNG NGÀNH BẢO HIỂM XÃ HỘI\n(Ban hành kèm theo Quyết định số 2366/QĐ-BHXH ngày 28/112018 của Tổng Giám đốc\nBảo hiểm xã hội Việt Nam)\nChương I\nCÁC QUY ĐỊNH CHUNG\nĐiều 1. Phạm vi điều chỉnh\nQuy chế này quy định việc thiết\nlập, tổ chức quản lý, khai thác và sử dụng thông tin từ cơ sở dữ liệu tập trung ngành Bảo hiểm xã hội (BHXH).\nĐiều 2. Đối tượng áp dụng\nQuy chế này áp dụng đối với các\ncá nhân, đơn vị trong và ngoài ngành BHXH bao gồm: các đơn vị trực thuộc BHXH Việt Nam, cơ quan BHXH các cấp (sau đây được gọi chung là các đơn vị), đơn vị cung cấp dịch vụ, cán bộ, công chức, viên chức, người lao động làm việc trong các đơn vị trên (sau đây được gọi chung là cá nhân).\nĐiều 3. Giải thích từ ngữ\n1. Tài khoản là những\nthông số nhất định mà người thiết lập, tổ chức quản lý và sử dụng cơ sở dữ liệu (CSDL) của BHXH Việt Nam được cấp để truy cập vào các phần mềm nghiệp vụ hoặc CSDL ngành BHXH để thực hiện các tác vụ theo chức năng, nhiệm vụ được phân quyền, bao gồm: tên tài khoản và mật khẩu.\n2. Dữ liệu là thông tin\ndưới dạng ký hiệu, chữ viết, chữ số, hình ảnh, âm thanh, hoặc dạng tương tự có thể xử lý được trên máy tính.\n3. Cơ sở dữ liệu tập trung\nngành BHXH (CSDL ngành BHXH) là tập hợp các dữ liệu được sắp xếp, tổ chức có cấu trúc liên quan với nhau, tập trung tại Trung tâm dữ liệu Ngành của BHXH Việt Nam bao gồm toàn bộ thông tin về một lĩnh vực quản lý của ngành BHXH.\n4. Phần mềm nghiệp vụ là\nphần mềm máy tính do BHXH Việt Nam ban hành nhằm mục đích phục vụ các hoạt động nghiệp vụ của ngành BHXH.\n5. Trung tâm dữ liệu Ngành là\nnơi tập trung các thiết bị phần cứng, ứng dụng và các thành phần liên quan để lưu trữ và quản lý CSDL ngành BHXH bao gồm Trung tâm dữ liệu chính và Trung tâm dự phòng và phục hồi thảm họa của ngành BHXH.\n6. Đơn vị cung cấp dịch vụ là\ntổ chức ngoài ngành BHXH được cơ quan BHXH thuê hoặc thỏa thuận để tham gia xây dựng, quản lý, khai thác CSDL ngành BHXH.\n7. Cán bộ quản trị CSDL\nngành BHXH (cán bộ quản trị) là cán bộ, công chức, viên chức trong Ngành BHXH được Lãnh đạo đơn vị giao nhiệm vụ quản trị, vận hành CSDL ngành BHXH.\nĐiều 4. Mục đích, nguyên tắc thiết lập, tổ chức quản lý và sử dụng CSDL ngành BHXH\n1. Mục đích:\nGiảm thiểu các nguy cơ gây mất an toàn thông tin trong quá trình quản lý, khai thác và sử dụng thông tin trên các phần mềm nghiệp vụ và CSDL ngành BHXH.\n2. Nguyên tắc:\n2.1. Tuân thủ các quy định của Luật Công nghệ thông tin, Luật an ninh mạng và các quy định của BHXH Việt Nam về quản lý hoạt động công nghệ thông tin của Ngành. 2.2. Bảo đảm an toàn trong công tác thiết lập, tổ chức quản lý và sử dụng CSDL ngành BHXH phải được thực hiện thường xuyên, liên tục, hiệu quả. 2.3. Việc thiết lập, tổ chức quản lý và sử dụng CSDL ngành BHXH phải đảm bảo đúng mục đích, chính xác, đầy đủ, kịp thời, an toàn, bảo mật thông tin và lưu trữ lâu dài. 2.4. Mọi tác vụ liên quan đến CSDL ngành BHXH phải được ghi nhận bằng nhật ký tự động đã được thiết kế sẵn trong CSDL ngành BHXH. Nhật ký tự động là căn cứ chứng minh cho các hoạt động có tác động đến dữ liệu trong CSDL ngành BHXH. 2.5. Thủ trưởng các đơn vị là người chịu trách nhiệm trực tiếp chỉ đạo công tác bảo đảm an toàn dữ liệu trong việc tổ chức quản lý và sử dụng CSDL ngành BHXH theo chức năng, nhiệm vụ của đơn vị. 2.6. Các thiết bị dùng để quản lý, sử dụng, khai thác CSDL ngành BHXH phải được cài đặt thường trú các chương trình diệt virus và các phần mềm hệ thống, phần mềm ứng dụng được cài đặt phải có bản quyền 2.7. Các cán bộ nghiệp vụ được phân quyền phải thực hiện khóa dữ liệu trước kỳ báo cáo để đảm bảo tính toàn vẹn của dữ liệu, trong một số trường hợp đặc biệt cần mở khóa để thay đổi dữ liệu cần có ý kiến đồng ý của Thủ trưởng đơn vị. 2.8. Các đơn vị bố trí nguồn lực phù hợp với quy mô, điều kiện của mình nhằm thực hiện tốt nhất công tác bảo đảm an toàn trong hoạt động quản lý, khai thác và sử dụng dữ liệu trên các phần mềm nghiệp vụ và CSDL ngành BHXH.\nChương II\nCÁC QUY ĐỊNH CỤ THỂ\nĐiều 5. Xây dựng, cập nhật, khai thác CSDL\n1. CSDL ngành BHXH được BHXH Việt\nNam xây dựng, dữ liệu được cập nhật từ các đơn vị thông qua các phần mềm nghiệp vụ hoặc được cập nhật theo kế hoạch của BHXH Việt Nam.\n2. Việc xây dựng, cập nhật,\nkhai thác, sử dụng thông tin từ CSDL ngành BHXH được thực hiện trên cơ sở phân quyền phù hợp với chức năng, nhiệm vụ và quyền hạn của chủ thể khai thác thông tin. Đối với các thông tin cần khai thác mà không khai thác được trên phần mềm, các đơn vị xin ý kiến Lãnh đạo Ngành, sau đó chuyển đến Trung tâm Công nghệ thông tin (CNTT). Trên cơ sở đó Trung tâm CNTT tiến hành kết xuất thông tin và gửi kết quả tới các đơn vị có yêu cầu khai thác.\n3. Các cá nhân, đơn vị thực hiện\nviệc xây dựng, cập nhật, khai thác CSDL ngành BHXH trên các phần mềm nghiệp vụ hoặc CSDL ngành BHXH được cấp tài khoản truy cập theo phân cấp, cụ thể: 3.1. BHXH các tỉnh, thành phố trực thuộc Trung ương Cập nhật, khai thác, kết xuất thông tin từ các phần mềm nghiệp vụ theo địa bàn BHXH tỉnh, thành phố quản lý. 3.2. BHXH các quận, huyện Cập nhật, khai thác, kết xuất thông tin từ các phần mềm nghiệp vụ theo phân cấp của BHXH cấp tỉnh. 3.3. Các đơn vị nghiệp vụ thuộc BHXH Việt Nam Tham gia xây dựng CSDL ngành BHXH, khai thác, kết xuất thông tin từ các phần mềm nghiệp vụ để phục vụ yêu cầu công việc chuyên môn của đơn vị. 3.4. Trung tâm CNTT Là đơn vị chuyên trách tham gia xây dựng, cập nhật, quản lý, khai thác, kết xuất dữ liệu từ CSDL ngành BHXH, thực hiện các yêu cầu cung cấp, thống kê số liệu khi được sự cho phép của Lãnh đạo Ngành. 3.5. Các đơn vị cung cấp dịch vụ Tham gia xây dựng, cập nhật, quản lý, khai thác, kết xuất dữ liệu từ CSDL ngành BHXH theo các hợp đồng hoặc thỏa thuận đã ký với cơ quan BHXH và phải được sự đồng ý của Lãnh đạo Ngành.\nĐiều 6. Quản lý tài khoản\n1. Quy định phân quyền.\n1.1. Trung tâm CNTT là đơn vị thực hiện việc cấp phát, khóa tài khoản truy cập thuộc các đơn vị nghiệp vụ của BHXH Việt Nam, các tài khoản quản trị của BHXH các tỉnh, thành phố trực thuộc Trung ương, các tài khoản thuộc các đơn vị cung cấp dịch vụ. Khi có đề nghị cấp phát, khóa, các đơn vị trên lập danh sách gửi trung tâm CNTT theo mẫu Phụ lục 01. 1.2. BHXH các tỉnh, thành phố trực thuộc Trung ương có trách nhiệm thực hiện và quản lý việc cấp phát, khóa tài khoản thuộc đơn vị mình theo sự phân cấp quản lý.\n2. Các trường hợp bị khóa tài\nkhoản. 2.1. Cá nhân nghỉ thai sản, ốm đau dài ngày, nghỉ không lương, chấm dứt làm việc tại cơ quan BHXH. 2.2. Cá nhân được cấp tài khoản chuyển công tác sang lĩnh vực khác trong các đơn vị. 2.3. Cá nhân vi phạm các nội quy, quy định về việc sử dụng tài khoản. 2.4. Cá nhân thuộc các đơn vị cung cấp dịch vụ nghỉ thai sản, ốm đau dài ngày, nghỉ không lương, chấm dứt làm việc với cơ quan BHXH\n3. Trong trường hợp phát hiện\nviệc sử dụng tài khoản không đúng mục đích hoặc vi phạm quy định sử dụng, Trung tâm CNTT sẽ chủ động khóa tài khoản vi phạm.\nĐiều 7. Sử dụng tài khoản\n1. Tài khoản truy cập các phần\nmềm nghiệp vụ và CSDL ngành BHXH được cấp và phân quyền cho các đơn vị, cá nhân theo đúng chức năng và nhiệm vụ được phân công.\n2. Các đơn vị, cá nhân được cấp\ntài khoản có trách nhiệm quản lý, bảo mật tài khoản đã được cấp để truy cập vào các phần mềm nghiệp vụ và CSDL ngành BHXH.\n3. Việc sử dụng tài khoản chỉ\nphục vụ các công vụ của Ngành theo nhiệm vụ được giao, không dùng cho mục đích khác.\nĐiều 8. Sao lưu CSDL\n1. Trung tâm CNTT và các đơn vị\ncung cấp dịch vụ thực hiện sao lưu CSDL ngành BHXH.\n2. Việc sao lưu phải được thực\nhiện hàng ngày, ngoài giờ làm việc và được theo dõi trên Sổ nhật ký sao lưu CSDL theo mẫu Phụ lục 02.\n3. CSDL ngành BHXH sau khi được\nsao lưu phải được bảo vệ an toàn, định kỳ kiểm tra và phục hồi thử để sẵn sàng sử dụng khi cần thiết và được bảo mật tại Trung tâm dữ liệu Ngành BHXH.\nĐiều 9. Các hành vi bị nghiêm cấm\n1. Sử dụng các ứng dụng hoặc\ncác phương thức để truy cập vào CSDL ngành BHXH mà chưa được phép của BHXH Việt Nam.\n2. Cấp tài khoản truy cập các\nphần mềm nghiệp vụ, CSDL ngành BHXH cho người, tổ chức không phải là đối tượng được cấp tài khoản theo quy định của Quy chế này.\n3. Tiết lộ, cung cấp tài khoản\ncủa cá nhân, đơn vị thuộc hệ thống cơ quan BHXH Việt Nam hoặc đơn vị cung cấp dịch vụ cho người không có trách nhiệm, thẩm quyền.\n4. Truy cập vào các phần mềm\nnghiệp vụ, CSDL ngành BHXH bằng tài khoản của cá nhân, tổ chức khác khi chưa được phép.\n5. Truy cập vào các phần mềm\nnghiệp vụ, CSDL ngành BHXH để thực hiện các công việc không được giao hoặc sửa đổi các nội dung không đúng với các quy định của BHXH Việt Nam.\n6. Tự ý sao chép, cung cấp, tiết\nlộ thông tin, dữ liệu của ngành BHXH.\n7. Các hành vi khác làm hư hỏng,\nsai lệch hoặc làm mất tính ổn định của các phần mềm nghiệp vụ, CSDL ngành BHXH. Chương\nIII TỔ CHỨC THỰC HIỆN\nĐiều 10. Trách nhiệm của các đơn vị trực thuộc BHXH Việt Nam\n1. Trách nhiệm của Trung tâm\nCNTT\n1.1. Giúp Tổng Giám đốc tổ chức, quản lý, hỗ trợ các đơn vị thực hiện việc khai thác, sử dụng CSDL ngành BHXH. 1.2. Quản lý, vận hành CSDL ngành BHXH, phân công cán bộ trực tiếp quản lý CSDL, đảm bảo hoạt động ổn định thường xuyên, liên tục, bảo mật và an toàn dữ liệu, đảm bảo an toàn hệ thống kỹ thuật. 1.3. Cung cấp, khai thác và chia sẻ dữ liệu cho các đơn vị trong ngành BHXH để phục vụ các hoạt động nghiệp vụ theo yêu cầu kế hoạch của BHXH Việt Nam, và cho các cơ quan, đơn vị khác khi có sự đồng ý của Lãnh đạo Ngành. 1.4. Kiểm tra, giám sát việc sử dụng CSDL của các đơn vị, cá nhân trong ngành và đơn vị cung cấp dịch vụ. 1.5. Xử lý theo thẩm quyền và kiến nghị Tổng Giám đốc BHXH Việt Nam xử lý các vi phạm Quy chế này và các quy định khác liên quan của pháp luật hiện hành. 1.6. Sao lưu dữ liệu hàng ngày, định kỳ hàng tháng kiểm tra CSDL ngành BHXH. 1.7. Khắc phục sự cố trong quá trình vận hành. 1.8. Xây dựng kế hoạch nâng cấp, mở rộng, phát triển CSDL ngành BHXH khi có nhu cầu.\n2. Trách nhiệm của các đơn vị\ntrực thuộc BHXH Việt Nam 2.1. Các đơn vị trực thuộc BHXH Việt Nam: Tùy theo chức năng nhiệm vụ, xây dựng các tiêu thức, đảm bảo đầy đủ thông tin trong CSDL ngành BHXH để phục vụ yêu cầu quản lý. 2.2. Trách nhiệm của BHXH các tỉnh, huyện. - Cấp phát, quản lý tài khoản truy cập các phần mềm nghiệp vụ theo phân cấp quản lý . - Chịu trách nhiệm về tính chính xác, đầy đủ, kịp thời của dữ liệu được cập nhật vào CSDL ngành BHXH.\n3. Trách nhiệm của các đơn vị\ncung cấp dịch vụ Các đơn vị cung cấp dịch vụ có trách nhiệm thực hiện các nghiệp vụ liên quan đến CSDL ngành BHXH theo các văn bản đã ký với BHXH Việt Nam, không được tự ý cung cấp dữ liệu khi chưa có sự đồng ý của BHXH Việt Nam và phải đảm bảo an toàn thông tin, chịu sự giám sát của BHXH Việt Nam khi khai thác, quản lý dữ liệu thông qua đầu mối là Trung tâm\nCNTT.\n4. Trách nhiệm của cán bộ cập\nnhật dữ liệu 4.1.Tự bảo quản tài khoản và mật khẩu của mình tránh để bị lộ. Khi phát hiện tài khoản của mình bị đánh cắp hoặc người khác sử dụng trái phép cá nhân, đơn vị phải thông báo sớm nhất với cán bộ quản lý tại đơn vị để khóa tài khoản tránh việc đánh cắp thông tin cũng như việc kẻ gian sử dụng tài khoản vào mục đích xấu. 4.2. Chịu trách nhiệm về tính chính xác, đầy đủ, kịp thời của dữ liệu được cập nhật vào CSDL ngành BHXH. 4.3. Định kỳ thay đổi mật khẩu của mình tối thiểu 03 tháng 1 lần.\n5. Trách nhiệm của cán bộ quản\ntrị dữ liệu 5.1. Không tự ý thay đổi dữ liệu. 5.2. Không cung cấp dữ liệu khi chưa được sự đồng ý của Lãnh đạo đơn vị.\nĐiều 11. Khen thưởng và xử lý vi phạm\n1. Trung tâm CNTT dựa trên các\nđiều tra, báo cáo, trên cơ sở đó đề xuất BHXH Việt Nam xem xét khen thưởng các cá nhân, tổ chức có thành tích, sáng kiến trong việc quản lý, khai thác, sử dụng CSDL ngành BHXH theo quy chế thi đua khen thưởng của Ngành.\n2. Các đơn vị và cá nhân trong\nngành BHXH nếu vi phạm Quy chế này tùy theo mức độ vi phạm sẽ bị xử lý trách nhiệm theo quy định của Ngành và pháp luật hiện hành.\n3. Các đơn vị cung cấp dịch vụ,\ncá nhân thuộc đơn vị cung cấp dịch vụ tùy theo mức độ vi phạm sẽ phải chịu trách nhiệm theo hợp đồng đã ký hoặc thỏa thuận với BHXH Việt Nam và chịu trách nhiệm theo quy định của pháp luật hiện hành.\nĐiều 12. Tổ chức thực hiện Thủ trưởng các đơn vị có trách nhiệm phổ biến, quán triệt, triển khai thực hiện Quy chế này trong phạm vi quản lý của đơn vị. Trung tâm CNTT chủ trì, phối hợp với các đơn vị có liên quan tổ chức hướng dẫn, triển khai thực hiện Quy chế này. Trong quá trình thực hiện, nếu khó khăn, vướng mắc hoặc có những vấn đề mới phát sinh, các tổ chức, cá nhân phản ánh về Trung tâm CNTT để tổng hợp, trình Tổng Giám đốc BHXH Việt Nam xem xét sửa đổi, bổ sung Quy chế cho phù hợp./.\nPHỤ LỤC 01\n(Ban hành kèm theo Quyết định số: 2366/QĐ-BHXH ngày 28/11/ 2018 của Tổng Giám đốc Bảo\nhiểm xã hội Việt Nam)\nBẢO HIỂM XÃ HỘI VIỆT NAM\nĐƠN VỊ: ............................. CỘNG HÒA XÃ HỘI\nCHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\nDANH SÁCH ĐỀ NGHỊ CẤP PHÁT/KHÓA/THAY ĐỔI\nTÀI KHOẢN TRUY CẬP\nKính gửi: Trung tâm Công nghệ thông tin – BHXH Việt Nam\nSTT\nHọ và Tên người dùng Chức vụ Đơn vị Địa chỉ thư điện tử Tài khoản truy cập đang dùng (Nếu có) Nội dung đề nghị 1 2 3 4 5 Người lập (Ký viết rõ họ tên) Ngày ..... tháng ...... năm 20.... Thủ trưởng đơn vị (Ký tên và đóng dấu)\nPHỤ LỤC 02\n(Ban hành kèm theo Quyết định số: 2366/QĐ-BHXH ngày 28/11/ 2018 của Tổng\nGiám đốc Bảo hiểm xã hội Việt Nam)\nBẢO HIỂM XÃ HỘI VIỆT NAM\nĐƠN VỊ:\n...............................\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\nNHẬT KÝ SAO LƯU DỮ LIỆU\nTháng….năm….\nSTT\nNgày/Giờ thực hiện sao lưu Họ và Tên người thực hiện/kiểm tra Tài khoản truy cập hệ thống Tên CSDL sao lưu Kích thước CSDL sao lưu Tình trạng sao lưu Ghi chú 1 2 3 4 5 Người lập (Ký viết rõ họ tên) Ngày ..... tháng ...... năm 20.... Thủ trưởng đơn vị (Ký tên và đóng dấu)",
+  "tree": {
+    "parts": [
+      {
+        "part_id": "doc:27267:part:1",
+        "part_type": "main",
+        "part_title": null,
+        "reference": null,
+        "direct_text": "QUYẾT ĐỊNH\nVỀ VIỆC BAN HÀNH QUY CHẾ QUẢN LÝ, KHAI THÁC VÀ\nSỬ DỤNG THÔNG TIN TỪ CƠ SỞ DỮ LIỆU TẬP TRUNG NGÀNH BẢO HIỂM XÃ HỘI\nTỔNG GIÁM ĐỐC BẢO HIỂM XÃ HỘI VIỆT NAM\nCăn cứ Luật Công nghệ thông tin ngày 29 tháng 6 năm 2006; Căn cứ Luật An toàn thông tin mạng ngày 19 tháng 11 năm 2015; Căn cứ Nghị định số 01/2016/NĐ-CP ngày 05 tháng 01 năm 2016 của Chính phủ về việc quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bảo hiểm xã hội Việt Nam; Căn cứ Nghị định số 64/2007/NĐ-CP ngày 10 tháng 4 năm 2007 của Chính phủ về ứng dụng công nghệ thông tin trong hoạt động của cơ quan nhà nước; Căn cứ Quyết định số 3582/QĐ-BHXH ngày 26 tháng 12 năm 2006 của Tổng Giám đốc Bảo hiểm xã hội Việt Nam về việc ban hành quy định về quản lý hoạt động công nghệ thông tin trong hệ thống Bảo hiểm xã hội Việt Nam; Căn cứ Quyết định 967/QĐ-BHXH ngày 20 tháng 06 năm 2017 của Tổng Giám đốc Bảo hiểm xã hội Việt Nam về việc ban hành quy chế bảo đảm an toàn thông tin trong ứng dụng công nghệ thông tin của ngành Bảo hiểm xã hội; Xét đề nghị của Giám đốc Trung tâm Công nghệ thông tin,\nQUYẾT ĐỊNH",
+        "chapters": [],
+        "sections": [],
+        "articles": [
+          {
+            "article_id": "doc:27267:part:1:article:1",
+            "number": "1",
+            "title": "Ban hành kèm theo Quyết định này Quy chế Quản lý, khai thác và sử dụng thông tin từ cơ sở dữ liệu tập trung ngành Bảo hiểm xã hội.",
+            "content": "Điều 1. Ban hành kèm theo Quyết định này Quy chế Quản lý, khai thác và sử dụng thông tin từ cơ sở dữ liệu tập trung ngành Bảo hiểm xã hội.",
+            "clauses": [],
+            "points": []
+          },
+          {
+            "article_id": "doc:27267:part:1:article:2",
+            "number": "2",
+            "title": "Quyết định này có hiệu lực thi hành từ ngày ký.",
+            "content": "Điều 2. Quyết định này có hiệu lực thi hành từ ngày ký.",
+            "clauses": [],
+            "points": []
+          },
+          {
+            "article_id": "doc:27267:part:1:article:3",
+            "number": "3",
+            "title": "Thủ trưởng các đơn vị trực thuộc Bảo hiểm xã hội Việt Nam, Giám đốc Bảo hiểm xã hội các tỉnh, thành phố trực thuộc Trung ương chịu trách nhiệm thi hành Quyết định này./.",
+            "content": "Điều 3. Thủ trưởng các đơn vị trực thuộc Bảo hiểm xã hội Việt Nam, Giám đốc Bảo hiểm xã hội các tỉnh, thành phố trực thuộc Trung ương chịu trách nhiệm thi hành Quyết định này./.",
+            "clauses": [],
+            "points": []
+          }
+        ],
+        "unstructured_blocks": []
+      },
+      {
+        "part_id": "doc:27267:part:2",
+        "part_type": "regulation",
+        "part_title": "QUY CHẾ",
+        "reference": null,
+        "direct_text": "QUY CHẾ\nQUẢN LÝ, KHAI THÁC VÀ SỬ DỤNG THÔNG TIN TỪ CƠ\nSỞ DỮ LIỆU TẬP TRUNG NGÀNH BẢO HIỂM XÃ HỘI\n(Ban hành kèm theo Quyết định số 2366/QĐ-BHXH ngày 28/112018 của Tổng Giám đốc\nBảo hiểm xã hội Việt Nam)\nQuy chế này quy định việc thiết\nlập, tổ chức quản lý, khai thác và sử dụng thông tin từ cơ sở dữ liệu tập trung ngành Bảo hiểm xã hội (BHXH).\nQuy chế này áp dụng đối với các\ncá nhân, đơn vị trong và ngoài ngành BHXH bao gồm: các đơn vị trực thuộc BHXH Việt Nam, cơ quan BHXH các cấp (sau đây được gọi chung là các đơn vị), đơn vị cung cấp dịch vụ, cán bộ, công chức, viên chức, người lao động làm việc trong các đơn vị trên (sau đây được gọi chung là cá nhân).",
+        "chapters": [
+          {
+            "chapter_id": "doc:27267:part:2:chapter:1",
+            "number": "I",
+            "title": "CÁC QUY ĐỊNH CHUNG",
+            "content": "Chương I\nCÁC QUY ĐỊNH CHUNG",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:27267:part:2:article:1",
+                "number": "1",
+                "title": "Phạm vi điều chỉnh",
+                "content": "Điều 1. Phạm vi điều chỉnh",
+                "clauses": [],
+                "points": []
+              },
+              {
+                "article_id": "doc:27267:part:2:article:2",
+                "number": "2",
+                "title": "Đối tượng áp dụng",
+                "content": "Điều 2. Đối tượng áp dụng",
+                "clauses": [],
+                "points": []
+              },
+              {
+                "article_id": "doc:27267:part:2:article:3",
+                "number": "3",
+                "title": "Giải thích từ ngữ",
+                "content": "Điều 3. Giải thích từ ngữ",
+                "clauses": [
+                  {
+                    "clause_id": "doc:27267:part:2:article:3:clause:1",
+                    "number": "1",
+                    "content": "1. Tài khoản là những\nthông số nhất định mà người thiết lập, tổ chức quản lý và sử dụng cơ sở dữ liệu (CSDL) của BHXH Việt Nam được cấp để truy cập vào các phần mềm nghiệp vụ hoặc CSDL ngành BHXH để thực hiện các tác vụ theo chức năng, nhiệm vụ được phân quyền, bao gồm: tên tài khoản và mật khẩu.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:27267:part:2:article:3:clause:2",
+                    "number": "2",
+                    "content": "2. Dữ liệu là thông tin\ndưới dạng ký hiệu, chữ viết, chữ số, hình ảnh, âm thanh, hoặc dạng tương tự có thể xử lý được trên máy tính.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:27267:part:2:article:3:clause:3",
+                    "number": "3",
+                    "content": "3. Cơ sở dữ liệu tập trung\nngành BHXH (CSDL ngành BHXH) là tập hợp các dữ liệu được sắp xếp, tổ chức có cấu trúc liên quan với nhau, tập trung tại Trung tâm dữ liệu Ngành của BHXH Việt Nam bao gồm toàn bộ thông tin về một lĩnh vực quản lý của ngành BHXH.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:27267:part:2:article:3:clause:4",
+                    "number": "4",
+                    "content": "4. Phần mềm nghiệp vụ là\nphần mềm máy tính do BHXH Việt Nam ban hành nhằm mục đích phục vụ các hoạt động nghiệp vụ của ngành BHXH.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:27267:part:2:article:3:clause:5",
+                    "number": "5",
+                    "content": "5. Trung tâm dữ liệu Ngành là\nnơi tập trung các thiết bị phần cứng, ứng dụng và các thành phần liên quan để lưu trữ và quản lý CSDL ngành BHXH bao gồm Trung tâm dữ liệu chính và Trung tâm dự phòng và phục hồi thảm họa của ngành BHXH.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:27267:part:2:article:3:clause:6",
+                    "number": "6",
+                    "content": "6. Đơn vị cung cấp dịch vụ là\ntổ chức ngoài ngành BHXH được cơ quan BHXH thuê hoặc thỏa thuận để tham gia xây dựng, quản lý, khai thác CSDL ngành BHXH.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:27267:part:2:article:3:clause:7",
+                    "number": "7",
+                    "content": "7. Cán bộ quản trị CSDL\nngành BHXH (cán bộ quản trị) là cán bộ, công chức, viên chức trong Ngành BHXH được Lãnh đạo đơn vị giao nhiệm vụ quản trị, vận hành CSDL ngành BHXH.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:27267:part:2:article:4",
+                "number": "4",
+                "title": "Mục đích, nguyên tắc thiết lập, tổ chức quản lý và sử dụng CSDL ngành BHXH",
+                "content": "Điều 4. Mục đích, nguyên tắc thiết lập, tổ chức quản lý và sử dụng CSDL ngành BHXH",
+                "clauses": [
+                  {
+                    "clause_id": "doc:27267:part:2:article:4:clause:1",
+                    "number": "1",
+                    "content": "1. Mục đích:\nGiảm thiểu các nguy cơ gây mất an toàn thông tin trong quá trình quản lý, khai thác và sử dụng thông tin trên các phần mềm nghiệp vụ và CSDL ngành BHXH.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:27267:part:2:article:4:clause:2",
+                    "number": "2",
+                    "content": "2. Nguyên tắc:\n2.1. Tuân thủ các quy định của Luật Công nghệ thông tin, Luật an ninh mạng và các quy định của BHXH Việt Nam về quản lý hoạt động công nghệ thông tin của Ngành. 2.2. Bảo đảm an toàn trong công tác thiết lập, tổ chức quản lý và sử dụng CSDL ngành BHXH phải được thực hiện thường xuyên, liên tục, hiệu quả. 2.3. Việc thiết lập, tổ chức quản lý và sử dụng CSDL ngành BHXH phải đảm bảo đúng mục đích, chính xác, đầy đủ, kịp thời, an toàn, bảo mật thông tin và lưu trữ lâu dài. 2.4. Mọi tác vụ liên quan đến CSDL ngành BHXH phải được ghi nhận bằng nhật ký tự động đã được thiết kế sẵn trong CSDL ngành BHXH. Nhật ký tự động là căn cứ chứng minh cho các hoạt động có tác động đến dữ liệu trong CSDL ngành BHXH. 2.5. Thủ trưởng các đơn vị là người chịu trách nhiệm trực tiếp chỉ đạo công tác bảo đảm an toàn dữ liệu trong việc tổ chức quản lý và sử dụng CSDL ngành BHXH theo chức năng, nhiệm vụ của đơn vị. 2.6. Các thiết bị dùng để quản lý, sử dụng, khai thác CSDL ngành BHXH phải được cài đặt thường trú các chương trình diệt virus và các phần mềm hệ thống, phần mềm ứng dụng được cài đặt phải có bản quyền 2.7. Các cán bộ nghiệp vụ được phân quyền phải thực hiện khóa dữ liệu trước kỳ báo cáo để đảm bảo tính toàn vẹn của dữ liệu, trong một số trường hợp đặc biệt cần mở khóa để thay đổi dữ liệu cần có ý kiến đồng ý của Thủ trưởng đơn vị. 2.8. Các đơn vị bố trí nguồn lực phù hợp với quy mô, điều kiện của mình nhằm thực hiện tốt nhất công tác bảo đảm an toàn trong hoạt động quản lý, khai thác và sử dụng dữ liệu trên các phần mềm nghiệp vụ và CSDL ngành BHXH.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:27267:part:2:chapter:2",
+            "number": "II",
+            "title": "CÁC QUY ĐỊNH CỤ THỂ",
+            "content": "Chương II\nCÁC QUY ĐỊNH CỤ THỂ",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:27267:part:2:article:5",
+                "number": "5",
+                "title": "Xây dựng, cập nhật, khai thác CSDL",
+                "content": "Điều 5. Xây dựng, cập nhật, khai thác CSDL",
+                "clauses": [
+                  {
+                    "clause_id": "doc:27267:part:2:article:5:clause:1",
+                    "number": "1",
+                    "content": "1. CSDL ngành BHXH được BHXH Việt\nNam xây dựng, dữ liệu được cập nhật từ các đơn vị thông qua các phần mềm nghiệp vụ hoặc được cập nhật theo kế hoạch của BHXH Việt Nam.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:27267:part:2:article:5:clause:2",
+                    "number": "2",
+                    "content": "2. Việc xây dựng, cập nhật,\nkhai thác, sử dụng thông tin từ CSDL ngành BHXH được thực hiện trên cơ sở phân quyền phù hợp với chức năng, nhiệm vụ và quyền hạn của chủ thể khai thác thông tin. Đối với các thông tin cần khai thác mà không khai thác được trên phần mềm, các đơn vị xin ý kiến Lãnh đạo Ngành, sau đó chuyển đến Trung tâm Công nghệ thông tin (CNTT). Trên cơ sở đó Trung tâm CNTT tiến hành kết xuất thông tin và gửi kết quả tới các đơn vị có yêu cầu khai thác.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:27267:part:2:article:5:clause:3",
+                    "number": "3",
+                    "content": "3. Các cá nhân, đơn vị thực hiện\nviệc xây dựng, cập nhật, khai thác CSDL ngành BHXH trên các phần mềm nghiệp vụ hoặc CSDL ngành BHXH được cấp tài khoản truy cập theo phân cấp, cụ thể: 3.1. BHXH các tỉnh, thành phố trực thuộc Trung ương Cập nhật, khai thác, kết xuất thông tin từ các phần mềm nghiệp vụ theo địa bàn BHXH tỉnh, thành phố quản lý. 3.2. BHXH các quận, huyện Cập nhật, khai thác, kết xuất thông tin từ các phần mềm nghiệp vụ theo phân cấp của BHXH cấp tỉnh. 3.3. Các đơn vị nghiệp vụ thuộc BHXH Việt Nam Tham gia xây dựng CSDL ngành BHXH, khai thác, kết xuất thông tin từ các phần mềm nghiệp vụ để phục vụ yêu cầu công việc chuyên môn của đơn vị. 3.4. Trung tâm CNTT Là đơn vị chuyên trách tham gia xây dựng, cập nhật, quản lý, khai thác, kết xuất dữ liệu từ CSDL ngành BHXH, thực hiện các yêu cầu cung cấp, thống kê số liệu khi được sự cho phép của Lãnh đạo Ngành. 3.5. Các đơn vị cung cấp dịch vụ Tham gia xây dựng, cập nhật, quản lý, khai thác, kết xuất dữ liệu từ CSDL ngành BHXH theo các hợp đồng hoặc thỏa thuận đã ký với cơ quan BHXH và phải được sự đồng ý của Lãnh đạo Ngành.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:27267:part:2:article:6",
+                "number": "6",
+                "title": "Quản lý tài khoản",
+                "content": "Điều 6. Quản lý tài khoản",
+                "clauses": [
+                  {
+                    "clause_id": "doc:27267:part:2:article:6:clause:1",
+                    "number": "1",
+                    "content": "1. Quy định phân quyền.\n1.1. Trung tâm CNTT là đơn vị thực hiện việc cấp phát, khóa tài khoản truy cập thuộc các đơn vị nghiệp vụ của BHXH Việt Nam, các tài khoản quản trị của BHXH các tỉnh, thành phố trực thuộc Trung ương, các tài khoản thuộc các đơn vị cung cấp dịch vụ. Khi có đề nghị cấp phát, khóa, các đơn vị trên lập danh sách gửi trung tâm CNTT theo mẫu Phụ lục 01. 1.2. BHXH các tỉnh, thành phố trực thuộc Trung ương có trách nhiệm thực hiện và quản lý việc cấp phát, khóa tài khoản thuộc đơn vị mình theo sự phân cấp quản lý.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:27267:part:2:article:6:clause:2",
+                    "number": "2",
+                    "content": "2. Các trường hợp bị khóa tài\nkhoản. 2.1. Cá nhân nghỉ thai sản, ốm đau dài ngày, nghỉ không lương, chấm dứt làm việc tại cơ quan BHXH. 2.2. Cá nhân được cấp tài khoản chuyển công tác sang lĩnh vực khác trong các đơn vị. 2.3. Cá nhân vi phạm các nội quy, quy định về việc sử dụng tài khoản. 2.4. Cá nhân thuộc các đơn vị cung cấp dịch vụ nghỉ thai sản, ốm đau dài ngày, nghỉ không lương, chấm dứt làm việc với cơ quan BHXH",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:27267:part:2:article:6:clause:3",
+                    "number": "3",
+                    "content": "3. Trong trường hợp phát hiện\nviệc sử dụng tài khoản không đúng mục đích hoặc vi phạm quy định sử dụng, Trung tâm CNTT sẽ chủ động khóa tài khoản vi phạm.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:27267:part:2:article:7",
+                "number": "7",
+                "title": "Sử dụng tài khoản",
+                "content": "Điều 7. Sử dụng tài khoản",
+                "clauses": [
+                  {
+                    "clause_id": "doc:27267:part:2:article:7:clause:1",
+                    "number": "1",
+                    "content": "1. Tài khoản truy cập các phần\nmềm nghiệp vụ và CSDL ngành BHXH được cấp và phân quyền cho các đơn vị, cá nhân theo đúng chức năng và nhiệm vụ được phân công.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:27267:part:2:article:7:clause:2",
+                    "number": "2",
+                    "content": "2. Các đơn vị, cá nhân được cấp\ntài khoản có trách nhiệm quản lý, bảo mật tài khoản đã được cấp để truy cập vào các phần mềm nghiệp vụ và CSDL ngành BHXH.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:27267:part:2:article:7:clause:3",
+                    "number": "3",
+                    "content": "3. Việc sử dụng tài khoản chỉ\nphục vụ các công vụ của Ngành theo nhiệm vụ được giao, không dùng cho mục đích khác.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:27267:part:2:article:8",
+                "number": "8",
+                "title": "Sao lưu CSDL",
+                "content": "Điều 8. Sao lưu CSDL",
+                "clauses": [
+                  {
+                    "clause_id": "doc:27267:part:2:article:8:clause:1",
+                    "number": "1",
+                    "content": "1. Trung tâm CNTT và các đơn vị\ncung cấp dịch vụ thực hiện sao lưu CSDL ngành BHXH.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:27267:part:2:article:8:clause:2",
+                    "number": "2",
+                    "content": "2. Việc sao lưu phải được thực\nhiện hàng ngày, ngoài giờ làm việc và được theo dõi trên Sổ nhật ký sao lưu CSDL theo mẫu Phụ lục 02.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:27267:part:2:article:8:clause:3",
+                    "number": "3",
+                    "content": "3. CSDL ngành BHXH sau khi được\nsao lưu phải được bảo vệ an toàn, định kỳ kiểm tra và phục hồi thử để sẵn sàng sử dụng khi cần thiết và được bảo mật tại Trung tâm dữ liệu Ngành BHXH.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:27267:part:2:article:9",
+                "number": "9",
+                "title": "Các hành vi bị nghiêm cấm",
+                "content": "Điều 9. Các hành vi bị nghiêm cấm",
+                "clauses": [
+                  {
+                    "clause_id": "doc:27267:part:2:article:9:clause:1",
+                    "number": "1",
+                    "content": "1. Sử dụng các ứng dụng hoặc\ncác phương thức để truy cập vào CSDL ngành BHXH mà chưa được phép của BHXH Việt Nam.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:27267:part:2:article:9:clause:2",
+                    "number": "2",
+                    "content": "2. Cấp tài khoản truy cập các\nphần mềm nghiệp vụ, CSDL ngành BHXH cho người, tổ chức không phải là đối tượng được cấp tài khoản theo quy định của Quy chế này.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:27267:part:2:article:9:clause:3",
+                    "number": "3",
+                    "content": "3. Tiết lộ, cung cấp tài khoản\ncủa cá nhân, đơn vị thuộc hệ thống cơ quan BHXH Việt Nam hoặc đơn vị cung cấp dịch vụ cho người không có trách nhiệm, thẩm quyền.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:27267:part:2:article:9:clause:4",
+                    "number": "4",
+                    "content": "4. Truy cập vào các phần mềm\nnghiệp vụ, CSDL ngành BHXH bằng tài khoản của cá nhân, tổ chức khác khi chưa được phép.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:27267:part:2:article:9:clause:5",
+                    "number": "5",
+                    "content": "5. Truy cập vào các phần mềm\nnghiệp vụ, CSDL ngành BHXH để thực hiện các công việc không được giao hoặc sửa đổi các nội dung không đúng với các quy định của BHXH Việt Nam.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:27267:part:2:article:9:clause:6",
+                    "number": "6",
+                    "content": "6. Tự ý sao chép, cung cấp, tiết\nlộ thông tin, dữ liệu của ngành BHXH.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:27267:part:2:article:9:clause:7",
+                    "number": "7",
+                    "content": "7. Các hành vi khác làm hư hỏng,\nsai lệch hoặc làm mất tính ổn định của các phần mềm nghiệp vụ, CSDL ngành BHXH. Chương\nIII TỔ CHỨC THỰC HIỆN",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:27267:part:2:article:10",
+                "number": "10",
+                "title": "Trách nhiệm của các đơn vị trực thuộc BHXH Việt Nam",
+                "content": "Điều 10. Trách nhiệm của các đơn vị trực thuộc BHXH Việt Nam",
+                "clauses": [
+                  {
+                    "clause_id": "doc:27267:part:2:article:10:clause:1",
+                    "number": "1",
+                    "content": "1. Trách nhiệm của Trung tâm\nCNTT\n1.1. Giúp Tổng Giám đốc tổ chức, quản lý, hỗ trợ các đơn vị thực hiện việc khai thác, sử dụng CSDL ngành BHXH. 1.2. Quản lý, vận hành CSDL ngành BHXH, phân công cán bộ trực tiếp quản lý CSDL, đảm bảo hoạt động ổn định thường xuyên, liên tục, bảo mật và an toàn dữ liệu, đảm bảo an toàn hệ thống kỹ thuật. 1.3. Cung cấp, khai thác và chia sẻ dữ liệu cho các đơn vị trong ngành BHXH để phục vụ các hoạt động nghiệp vụ theo yêu cầu kế hoạch của BHXH Việt Nam, và cho các cơ quan, đơn vị khác khi có sự đồng ý của Lãnh đạo Ngành. 1.4. Kiểm tra, giám sát việc sử dụng CSDL của các đơn vị, cá nhân trong ngành và đơn vị cung cấp dịch vụ. 1.5. Xử lý theo thẩm quyền và kiến nghị Tổng Giám đốc BHXH Việt Nam xử lý các vi phạm Quy chế này và các quy định khác liên quan của pháp luật hiện hành. 1.6. Sao lưu dữ liệu hàng ngày, định kỳ hàng tháng kiểm tra CSDL ngành BHXH. 1.7. Khắc phục sự cố trong quá trình vận hành. 1.8. Xây dựng kế hoạch nâng cấp, mở rộng, phát triển CSDL ngành BHXH khi có nhu cầu.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:27267:part:2:article:10:clause:2",
+                    "number": "2",
+                    "content": "2. Trách nhiệm của các đơn vị\ntrực thuộc BHXH Việt Nam 2.1. Các đơn vị trực thuộc BHXH Việt Nam: Tùy theo chức năng nhiệm vụ, xây dựng các tiêu thức, đảm bảo đầy đủ thông tin trong CSDL ngành BHXH để phục vụ yêu cầu quản lý. 2.2. Trách nhiệm của BHXH các tỉnh, huyện. - Cấp phát, quản lý tài khoản truy cập các phần mềm nghiệp vụ theo phân cấp quản lý . - Chịu trách nhiệm về tính chính xác, đầy đủ, kịp thời của dữ liệu được cập nhật vào CSDL ngành BHXH.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:27267:part:2:article:10:clause:3",
+                    "number": "3",
+                    "content": "3. Trách nhiệm của các đơn vị\ncung cấp dịch vụ Các đơn vị cung cấp dịch vụ có trách nhiệm thực hiện các nghiệp vụ liên quan đến CSDL ngành BHXH theo các văn bản đã ký với BHXH Việt Nam, không được tự ý cung cấp dữ liệu khi chưa có sự đồng ý của BHXH Việt Nam và phải đảm bảo an toàn thông tin, chịu sự giám sát của BHXH Việt Nam khi khai thác, quản lý dữ liệu thông qua đầu mối là Trung tâm\nCNTT.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:27267:part:2:article:10:clause:4",
+                    "number": "4",
+                    "content": "4. Trách nhiệm của cán bộ cập\nnhật dữ liệu 4.1.Tự bảo quản tài khoản và mật khẩu của mình tránh để bị lộ. Khi phát hiện tài khoản của mình bị đánh cắp hoặc người khác sử dụng trái phép cá nhân, đơn vị phải thông báo sớm nhất với cán bộ quản lý tại đơn vị để khóa tài khoản tránh việc đánh cắp thông tin cũng như việc kẻ gian sử dụng tài khoản vào mục đích xấu. 4.2. Chịu trách nhiệm về tính chính xác, đầy đủ, kịp thời của dữ liệu được cập nhật vào CSDL ngành BHXH. 4.3. Định kỳ thay đổi mật khẩu của mình tối thiểu 03 tháng 1 lần.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:27267:part:2:article:10:clause:5",
+                    "number": "5",
+                    "content": "5. Trách nhiệm của cán bộ quản\ntrị dữ liệu 5.1. Không tự ý thay đổi dữ liệu. 5.2. Không cung cấp dữ liệu khi chưa được sự đồng ý của Lãnh đạo đơn vị.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:27267:part:2:article:11",
+                "number": "11",
+                "title": "Khen thưởng và xử lý vi phạm",
+                "content": "Điều 11. Khen thưởng và xử lý vi phạm",
+                "clauses": [
+                  {
+                    "clause_id": "doc:27267:part:2:article:11:clause:1",
+                    "number": "1",
+                    "content": "1. Trung tâm CNTT dựa trên các\nđiều tra, báo cáo, trên cơ sở đó đề xuất BHXH Việt Nam xem xét khen thưởng các cá nhân, tổ chức có thành tích, sáng kiến trong việc quản lý, khai thác, sử dụng CSDL ngành BHXH theo quy chế thi đua khen thưởng của Ngành.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:27267:part:2:article:11:clause:2",
+                    "number": "2",
+                    "content": "2. Các đơn vị và cá nhân trong\nngành BHXH nếu vi phạm Quy chế này tùy theo mức độ vi phạm sẽ bị xử lý trách nhiệm theo quy định của Ngành và pháp luật hiện hành.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:27267:part:2:article:11:clause:3",
+                    "number": "3",
+                    "content": "3. Các đơn vị cung cấp dịch vụ,\ncá nhân thuộc đơn vị cung cấp dịch vụ tùy theo mức độ vi phạm sẽ phải chịu trách nhiệm theo hợp đồng đã ký hoặc thỏa thuận với BHXH Việt Nam và chịu trách nhiệm theo quy định của pháp luật hiện hành.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:27267:part:2:article:12",
+                "number": "12",
+                "title": "Tổ chức thực hiện Thủ trưởng các đơn vị có trách nhiệm phổ biến, quán triệt, triển khai thực hiện Quy chế này trong phạm vi quản lý của đơn vị. Trung tâm CNTT chủ trì, phối hợp với các đơn vị có liên quan tổ chức hướng dẫn, triển khai thực hiện Quy chế này. Trong quá trình thực hiện, nếu khó khăn, vướng mắc hoặc có những vấn đề mới phát sinh, các tổ chức, cá nhân phản ánh về Trung tâm CNTT để tổng hợp, trình Tổng Giám đốc BHXH Việt Nam xem xét sửa đổi, bổ sung Quy chế cho phù hợp./.",
+                "content": "Điều 12. Tổ chức thực hiện Thủ trưởng các đơn vị có trách nhiệm phổ biến, quán triệt, triển khai thực hiện Quy chế này trong phạm vi quản lý của đơn vị. Trung tâm CNTT chủ trì, phối hợp với các đơn vị có liên quan tổ chức hướng dẫn, triển khai thực hiện Quy chế này. Trong quá trình thực hiện, nếu khó khăn, vướng mắc hoặc có những vấn đề mới phát sinh, các tổ chức, cá nhân phản ánh về Trung tâm CNTT để tổng hợp, trình Tổng Giám đốc BHXH Việt Nam xem xét sửa đổi, bổ sung Quy chế cho phù hợp./.",
+                "clauses": [],
+                "points": []
+              }
+            ]
+          }
+        ],
+        "sections": [],
+        "articles": [],
+        "unstructured_blocks": []
+      },
+      {
+        "part_id": "doc:27267:part:3",
+        "part_type": "appendix",
+        "part_title": "PHỤ LỤC 01",
+        "reference": null,
+        "direct_text": null,
+        "chapters": [],
+        "sections": [],
+        "articles": [],
+        "unstructured_blocks": [
+          {
+            "block_id": "doc:27267:part:3:block:1",
+            "content": "PHỤ LỤC 01\n(Ban hành kèm theo Quyết định số: 2366/QĐ-BHXH ngày 28/11/ 2018 của Tổng Giám đốc Bảo\nhiểm xã hội Việt Nam)\nBẢO HIỂM XÃ HỘI VIỆT NAM\nĐƠN VỊ: ............................. CỘNG HÒA XÃ HỘI\nCHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\nDANH SÁCH ĐỀ NGHỊ CẤP PHÁT/KHÓA/THAY ĐỔI\nTÀI KHOẢN TRUY CẬP\nKính gửi: Trung tâm Công nghệ thông tin – BHXH Việt Nam\nSTT\nHọ và Tên người dùng Chức vụ Đơn vị Địa chỉ thư điện tử Tài khoản truy cập đang dùng (Nếu có) Nội dung đề nghị 1 2 3 4 5 Người lập (Ký viết rõ họ tên) Ngày ..... tháng ...... năm 20.... Thủ trưởng đơn vị (Ký tên và đóng dấu)",
+            "indexable": true
+          }
+        ]
+      },
+      {
+        "part_id": "doc:27267:part:4",
+        "part_type": "appendix",
+        "part_title": "PHỤ LỤC 02",
+        "reference": null,
+        "direct_text": null,
+        "chapters": [],
+        "sections": [],
+        "articles": [],
+        "unstructured_blocks": [
+          {
+            "block_id": "doc:27267:part:4:block:1",
+            "content": "PHỤ LỤC 02\n(Ban hành kèm theo Quyết định số: 2366/QĐ-BHXH ngày 28/11/ 2018 của Tổng\nGiám đốc Bảo hiểm xã hội Việt Nam)\nBẢO HIỂM XÃ HỘI VIỆT NAM\nĐƠN VỊ:\n...............................\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\nNHẬT KÝ SAO LƯU DỮ LIỆU\nTháng….năm….\nSTT\nNgày/Giờ thực hiện sao lưu Họ và Tên người thực hiện/kiểm tra Tài khoản truy cập hệ thống Tên CSDL sao lưu Kích thước CSDL sao lưu Tình trạng sao lưu Ghi chú 1 2 3 4 5 Người lập (Ký viết rõ họ tên) Ngày ..... tháng ...... năm 20.... Thủ trưởng đơn vị (Ký tên và đóng dấu)",
+            "indexable": true
+          }
+        ]
+      }
+    ]
+  },
+  "issues": [],
+  "status": "ok",
+  "source_hash": "context_27267.json",
+  "stats": {
+    "source_chars": 15440,
+    "passage_chars": 15277,
+    "parts": 4,
+    "chapters": 2,
+    "sections": 0,
+    "articles": 15,
+    "clauses": 36,
+    "points": 0
+  }
+}

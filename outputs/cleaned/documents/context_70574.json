@@ -1,0 +1,615 @@
+{
+  "schema_version": "2.0",
+  "document_id": 70574,
+  "metadata": {
+    "name": null,
+    "link": "https://thuvienphapluat.vn/van-ban/Thuong-mai/Thong-tu-106-2016-TT-BTC-thu-tuc-hải-quan-xuat-nhap-xang-dau-nguyen-lieu-pha-che-xang-dau-298699.aspx",
+    "issuing_agency": "BỘ TÀI CHÍNH",
+    "national_header": "CỘNG\r\n\n  HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM",
+    "motto": "Độc lập - Tự do - Hạnh phúc",
+    "document_number": "106/2016/TT-BTC",
+    "issued_place": "Hà Nội",
+    "issued_date": "ngày 29 tháng 6 năm 2016",
+    "document_type": null,
+    "title": null
+  },
+  "administrative_header": {
+    "removed": true,
+    "removed_char_count": 307
+  },
+  "preamble": {
+    "text": "THÔNG TƯ\nHƯỚNG DẪN THỦ TỤC HẢI QUAN ĐỐI VỚI HOẠT ĐỘNG\nXUẤT, NHẬP XĂNG DẦU, NGUYÊN LIỆU ĐỂ PHA CHẾ XĂNG DẦU VÀ HOẠT ĐỘNG PHA CHẾ CHUYỂN\nĐỔI CHỦNG LOẠI XĂNG DẦU TẠI KHO NGOẠI QUAN XĂNG DẦU\nCăn cứ Luật Hải quan số 54/2014/QH13 ngày 23 tháng 6 năm 2014; Căn cứ Luật Thuế xuất khẩu, thuế nhập khẩu số 45/2005/QH11 ngày 14 tháng 06 năm 2005; Căn cứ Luật Quản lý thuế số 78/2006/QH10 ngày 29 tháng 11 năm 2006; Luật sửa đổi, bổ sung một số điều của Luật quản lý thuế số 21/2012/QH13 ngày 20 tháng 11 năm 2012; Luật sửa đổi, bổ sung một số điều của các Luật về thuế số 71/2014/QH13 ngày 26 tháng 11 năm 2014; Căn cứ Luật Thương mại số 36/2005/QH11 ngày 14 tháng 6 năm 2005; Căn cứ Luật Chất lượng, sản phẩm hàng hóa số 05/2007/QH12 ngày 21 tháng 12 năm 2007; Căn cứ Nghị định số 08/2015/NĐ-CP ngày 21 tháng 01 năm 2015 của Chính phủ quy định chi tiết và biện pháp thi hành Luật Hải quan về thủ tục hải quan, kiểm tra, giám sát, kiểm soát hải quan; Căn cứ Nghị định số 12/2015/NĐ-CP ngày 12 tháng 2 năm 2015 của Chính phủ quy định chi tiết thi hành Luật sửa đổi, bổ sung một số điều của các Luật về thuế và sửa đổi, bổ sung một số Điều của các Nghị định về thuế; Căn cứ Nghị định số 87/2010/NĐ-CP ngày 13 tháng 8 năm 2010 của Chính phủ quy định chi tiết thi hành một số Điều của Luật thuế xuất khẩu, thuế nhập khẩu; Căn cứ Nghị định số 83/2014/NĐ-CP ngày 03 tháng 9 năm 2014 của Chính phủ về kinh doanh xăng dầu; Căn cứ Nghị định số 83/2013/NĐ-CP ngày 22 tháng 7 năm 2013 của Chính phủ quy định chi tiết thi hành một số điều của Luật quản lý thuế và Luật sửa đổi, bổ sung một số điều của Luật quản lý thuế; Căn cứ Nghị định số 187/2013/NĐ-CP ngày 20/11/2013 của Chính phủ quy định chi tiết thi hành Luật Thương mại về hoạt động mua bán hàng hóa quốc tế và các hoạt động đại lý mua, bán, gia công và quá cảnh hàng hóa với nước ngoài; Căn cứ Nghị định số 215/2013/NĐ-CP ngày 23 tháng 12 năm 2013 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài chính; Theo đề nghị của Tổng cục trưởng Tổng cục Hải quan, Bộ trưởng Bộ Tài chính ban hành Thông tư hướng dẫn thủ tục hải quan đối với hoạt động xuất, nhập xăng dầu, nguyên liệu để pha chế xăng dầu; hoạt động pha chế, chuyển đổi chủng loại xăng dầu tại kho ngoại quan xăng dầu. Chương\nI QUY ĐỊNH CHUNG",
+    "legal_bases": [
+      "Căn cứ Luật Thuế xuất khẩu, thuế nhập khẩu số 45/2005/QH11 ngày 14 tháng 06 năm 2005",
+      "Căn cứ Luật Quản lý thuế số 78/2006/QH10 ngày 29 tháng 11 năm 2006",
+      "Căn cứ Luật Thương mại số 36/2005/QH11 ngày 14 tháng 6 năm 2005",
+      "Căn cứ Luật Chất lượng, sản phẩm hàng hóa số 05/2007/QH12 ngày 21 tháng 12 năm 2007",
+      "Căn cứ Nghị định số 08/2015/NĐ-CP ngày 21 tháng 01 năm 2015 của Chính phủ quy định chi tiết và biện pháp thi hành Luật Hải quan về thủ tục hải quan, kiểm tra, giám sát, kiểm soát hải quan",
+      "Căn cứ Nghị định số 12/2015/NĐ-CP ngày 12 tháng 2 năm 2015 của Chính phủ quy định chi tiết thi hành Luật sửa đổi, bổ sung một số điều của các Luật về thuế và sửa đổi, bổ sung một số Điều của các Nghị định về thuế",
+      "Căn cứ Nghị định số 87/2010/NĐ-CP ngày 13 tháng 8 năm 2010 của Chính phủ quy định chi tiết thi hành một số Điều của Luật thuế xuất khẩu, thuế nhập khẩu",
+      "Căn cứ Nghị định số 83/2014/NĐ-CP ngày 03 tháng 9 năm 2014 của Chính phủ về kinh doanh xăng dầu",
+      "Căn cứ Nghị định số 83/2013/NĐ-CP ngày 22 tháng 7 năm 2013 của Chính phủ quy định chi tiết thi hành một số điều của Luật quản lý thuế và Luật sửa đổi, bổ sung một số điều của Luật quản lý thuế",
+      "Căn cứ Nghị định số 187/2013/NĐ-CP ngày 20/11/2013 của Chính phủ quy định chi tiết thi hành Luật Thương mại về hoạt động mua bán hàng hóa quốc tế và các hoạt động đại lý mua, bán, gia công và quá cảnh hàng hóa với nước ngoài",
+      "Căn cứ Nghị định số 215/2013/NĐ-CP ngày 23 tháng 12 năm 2013 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài chính"
+    ],
+    "proposals": [
+      "Theo đề nghị của Tổng cục trưởng Tổng cục Hải quan, Bộ trưởng Bộ Tài chính ban hành Thông tư hướng dẫn thủ tục hải quan đối với hoạt động xuất, nhập xăng dầu, nguyên liệu để pha chế xăng dầu"
+    ],
+    "enactment_formula": null
+  },
+  "passage": "THÔNG TƯ\nHƯỚNG DẪN THỦ TỤC HẢI QUAN ĐỐI VỚI HOẠT ĐỘNG\nXUẤT, NHẬP XĂNG DẦU, NGUYÊN LIỆU ĐỂ PHA CHẾ XĂNG DẦU VÀ HOẠT ĐỘNG PHA CHẾ CHUYỂN\nĐỔI CHỦNG LOẠI XĂNG DẦU TẠI KHO NGOẠI QUAN XĂNG DẦU\nCăn cứ Luật Hải quan số 54/2014/QH13 ngày 23 tháng 6 năm 2014; Căn cứ Luật Thuế xuất khẩu, thuế nhập khẩu số 45/2005/QH11 ngày 14 tháng 06 năm 2005; Căn cứ Luật Quản lý thuế số 78/2006/QH10 ngày 29 tháng 11 năm 2006; Luật sửa đổi, bổ sung một số điều của Luật quản lý thuế số 21/2012/QH13 ngày 20 tháng 11 năm 2012; Luật sửa đổi, bổ sung một số điều của các Luật về thuế số 71/2014/QH13 ngày 26 tháng 11 năm 2014; Căn cứ Luật Thương mại số 36/2005/QH11 ngày 14 tháng 6 năm 2005; Căn cứ Luật Chất lượng, sản phẩm hàng hóa số 05/2007/QH12 ngày 21 tháng 12 năm 2007; Căn cứ Nghị định số 08/2015/NĐ-CP ngày 21 tháng 01 năm 2015 của Chính phủ quy định chi tiết và biện pháp thi hành Luật Hải quan về thủ tục hải quan, kiểm tra, giám sát, kiểm soát hải quan; Căn cứ Nghị định số 12/2015/NĐ-CP ngày 12 tháng 2 năm 2015 của Chính phủ quy định chi tiết thi hành Luật sửa đổi, bổ sung một số điều của các Luật về thuế và sửa đổi, bổ sung một số Điều của các Nghị định về thuế; Căn cứ Nghị định số 87/2010/NĐ-CP ngày 13 tháng 8 năm 2010 của Chính phủ quy định chi tiết thi hành một số Điều của Luật thuế xuất khẩu, thuế nhập khẩu; Căn cứ Nghị định số 83/2014/NĐ-CP ngày 03 tháng 9 năm 2014 của Chính phủ về kinh doanh xăng dầu; Căn cứ Nghị định số 83/2013/NĐ-CP ngày 22 tháng 7 năm 2013 của Chính phủ quy định chi tiết thi hành một số điều của Luật quản lý thuế và Luật sửa đổi, bổ sung một số điều của Luật quản lý thuế; Căn cứ Nghị định số 187/2013/NĐ-CP ngày 20/11/2013 của Chính phủ quy định chi tiết thi hành Luật Thương mại về hoạt động mua bán hàng hóa quốc tế và các hoạt động đại lý mua, bán, gia công và quá cảnh hàng hóa với nước ngoài; Căn cứ Nghị định số 215/2013/NĐ-CP ngày 23 tháng 12 năm 2013 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài chính; Theo đề nghị của Tổng cục trưởng Tổng cục Hải quan, Bộ trưởng Bộ Tài chính ban hành Thông tư hướng dẫn thủ tục hải quan đối với hoạt động xuất, nhập xăng dầu, nguyên liệu để pha chế xăng dầu; hoạt động pha chế, chuyển đổi chủng loại xăng dầu tại kho ngoại quan xăng dầu. Chương\nI QUY ĐỊNH CHUNG\nĐiều 1. Phạm vi điều chỉnh Thông tư này quy định thủ tục hải quan đối với hoạt động xuất, nhập xăng dầu, nguyên liệu để tồn chứa, pha chế xăng dầu và hoạt động pha chế, chuyển đổi chủng loại xăng dầu tại kho ngoại quan xăng dầu.\nĐiều 2. Đối tượng áp dụng\n1. Thương nhân đầu mối\ntheo quy định tại Nghị định số 83/2014/NĐ-CP ngày 03 tháng 9 năm 2014 của Chính phủ về kinh doanh xăng dầu và thương nhân nước ngoài (sau đây gọi là chủ hàng).\n2. Công ty kinh doanh\nkho ngoại quan xăng dầu (sau đây gọi là chủ kho);\n3. Thương nhân kinh\ndoanh dịch vụ giám định.\n4. Cơ quan Hải quan,\ncông chức hải quan;\n5. Cơ quan quản lý\nnhà nước về đo lường, chất lượng và cơ quan nhà nước, tổ chức, cá nhân khác có liên quan;\nĐiều 3. Quy định về chuyển đổi chủng loại và pha chế xăng dầu trong kho ngoại quan xăng dầu\n1. Chuyển đổi chủng\nloại xăng dầu (sau đây gọi là chuyển loại xăng dầu) Xăng dầu chứa trong kho ngoại quan xăng dầu (sau đây gọi là kho) chỉ được phép chuyển loại để xuất kho đưa ra nước ngoài theo yêu cầu của chủ hàng trên cơ sở hợp đồng mua bán hoặc hợp đồng dịch vụ chuyển loại để đưa ra nước ngoài, cụ thể:\na) Chỉ được chuyển loại\nxăng dầu tương ứng với số lượng, chủng loại phù hợp với từng hợp đồng mua bán hoặc hợp đồng dịch vụ chuyển loại để đưa ra nước ngoài; và\nb) Hợp đồng mua bán\nhoặc hợp đồng dịch vụ chuyển loại để đưa ra nước ngoài quy định rõ số lượng, chủng loại, nơi nhận hàng là cảng, địa điểm ở nước ngoài; và\nc) Xăng dầu đã chuyển\nloại đưa ra nước ngoài không được tái nhập, chuyển tiêu thụ nội địa.\n2. Pha chế xăng dầu:\na) Việc pha chế xăng\ndầu được thực hiện bằng hình thức: a.1) bơm từ các bồn bể khác nhau vào chung một bồn, bể; a.2) được pha chế trên tuyến ống; a.3) các hình thức pha chế khác (nếu có).\nb) Chủ kho có trách\nnhiệm lưu trữ và xuất trình cho Chi cục Hải quan quản lý kho khi được yêu cầu đầy đủ các số liệu về số lượng, chủng loại các nguyên liệu, phụ gia, thành phẩm đầu vào khi pha chế cũng như các số liệu về số lượng, chủng loại, chất lượng, tỷ lệ hao hụt của các nguyên liệu, thành phẩm là sản phẩm của quá trình pha chế và chịu trách nhiệm trước pháp luật về chất lượng của nguyên liệu, phụ gia và thành phẩm trước, sau quá trình pha chế và tỉ lệ hao hụt trong quá trình pha chế.\nĐiều 4. Một số quy định cụ thể\n1. Đối với việc bơm\nxăng dầu, nguyên liệu nhập, xuất kho: Xăng dầu, nguyên liệu chỉ được xuất, nhập kho sau khi đã hoàn thành đăng ký tờ khai nhập kho, khai báo xuất kho, và chịu sự giám sát của cơ quan Hải quan theo quy định. Chủ kho được bơm xăng dầu, nguyên liệu theo quy định dưới đây:\na) Trên cơ sở hợp đồng\nthuê kho với chủ hàng (trường hợp chủ hàng đồng thời là chủ kho thì không yêu cầu hợp đồng thuê kho), chủ kho bơm xăng dầu, nguyên liệu từ phương tiện vận chuyển xăng dầu, nguyên liệu vào bồn, bể thuộc kho. Trường hợp bơm xăng dầu, nguyên liệu vào bồn, bể đã chứa xăng dầu, nguyên liệu, chủ kho phải đảm bảo cùng chủng loại, cùng chất lượng với xăng dầu, nguyên liệu đang chứa trong bồn, bể đó và chủ kho chịu trách nhiệm về chủng loại, chất lượng.\nb) Công chức hải quan\ncăn cứ vào chứng thư giám định xăng dầu để quản lý kho, bồn bể của kho, khối lượng xăng dầu nhập, xuất kho. Trường hợp chủ kho có bồn bể liên hoàn và có hệ thống máy tính kiểm soát việc bơm xăng dầu, nguyên liệu đã đáp ứng quy định tại khoản 20 Điều 4 Thông tư số 69/2016/TT-BTC ngày 06 tháng 05 năm 2016 của Bộ trưởng Bộ Tài chính quy định thủ tục hải quan đối với xăng dầu, hóa chất, khí xuất khẩu, nhập khẩu, tạm nhập tái xuất, chuyển khẩu, quá cảnh; nguyên liệu nhập khẩu để sản xuất và pha chế hoặc gia công xuất khẩu xăng dầu, khí; dầu thô xuất khẩu, nhập khẩu; hàng hóa xuất khẩu, nhập khẩu phục vụ hoạt động dầu khí (sau đây gọi là Thông tư số 69/2016/TT-BTC) thì chủ kho thông báo việc bơm xăng dầu, nguyên liệu cho cơ quan hải quan (bao gồm các thông tin về địa điểm, thời gian, khối lượng bơm) và cơ quan hải quan căn cứ vào số liệu của hệ thống máy tính để giám sát quản lý kho, bồn bể của kho, khối lượng xăng dầu xuất, nhập kho.\nc) Chi cục trưởng Chi\ncục Hải quan quản lý kho căn cứ tình hình thực tế giám sát quyết định hình thức giám sát phù hợp.\n2. Thời hạn lưu giữ,\nbảo quản xăng dầu, nguyên liệu tại kho phải phù hợp với hợp đồng thuê kho, hợp đồng pha chế hoặc hợp đồng chuyển loại và tuân thủ nội dung quy định tại Điều 61 Luật Hải quan năm 2014, Điều 84 Nghị định số 08/2015/NĐ-CP ngày 21/01/2015 của Chính phủ quy định chi tiết và biện pháp thi hành Luật Hải quan về thủ tục hải quan, kiểm tra, giám sát hải quan (sau đây gọi là Nghị định số 08/2015/NĐ-CP).\n3. Giấy Thông báo kiểm\ntra nhà nước về chất lượng: Xăng dầu, nguyên liệu xuất kho đưa vào nội địa thuộc danh mục hàng hóa phải kiểm tra nhà nước về chất lượng, thương nhân nộp cho cơ quan Hải quan bản chính giấy Thông báo kết quả kiểm tra trước khi thông quan hàng hóa; Trường hợp áp dụng cơ chế một cửa quốc gia, cơ quan quản lý chuyên ngành gửi giấy Thông báo kết quả kiểm tra dưới dạng điện tử thông qua Cổng thông tin một cửa quốc gia, người khai hải quan không phải nộp khi làm thủ tục hải quan.\n4. Xác định khối lượng,\nchủng loại xăng dầu, nguyên liệu và xăng dầu sau pha chế, chuyển loại nhập, xuất kho:\na) Xăng dầu, nguyên\nliệu nhập kho; xăng dầu sau pha chế, chuyển loại phải được giám định khối lượng, chủng loại. Chủ kho hoặc chủ hàng thực hiện đăng ký giám định và nộp giấy chứng nhận cho cơ quan Hải quan trong thời hạn 8 giờ (kể từ khi kết thúc bơm xăng dầu, nguyên liệu vào bồn, bể hoặc kết thúc hoạt động pha chế, chuyển loại). Chi cục Hải quan quản lý kho xác nhận qua khu vực giám sát theo chứng thư giám định khối lượng, chủng loại xăng dầu, nguyên liệu đã nhập, xuất kho trên Hệ thống hoặc trên tờ khai hải quan theo mẫu HQ/2015/NK tại Phụ lục IV ban hành kèm Thông tư 38/2015/TT-BTC ngày 25/3/2015 của Bộ trưởng Bộ Tài chính quy định về thủ tục hải quan; kiểm tra giám sát hải quan; thuế xuất khẩu, thuế nhập khẩu và quản lý thuế đối với hàng hóa xuất khẩu, nhập khẩu (sau đây gọi là Thông tư số 38/2015/TT-BTC).\n5. Đối với xăng dầu,\nxăng dầu sau pha chế, chuyển loại xuất kho được lấy ra từ bồn, bể thì việc giám định về khối lượng, chủng loại và kiểm tra nhà nước về chất lượng (nếu có) là việc giám định, kiểm tra cho cả lô hàng xuất; không yêu cầu phải giám định và kiểm tra xăng dầu riêng lẻ cho từng phương tiện vận tải xăng dầu của lô hàng đã giám định và kiểm tra.\n6. Lấy mẫu xăng dầu,\nnguyên liệu nhập kho và xăng dầu sau pha chế, chuyển loại xuất kho (nếu có): Chủ hàng, chủ kho có trách nhiệm lấy mẫu xăng dầu, nguyên liệu nhập kho, xăng dầu sau pha chế, chuyển loại xuất kho. Việc lấy mẫu được thực hiện dưới sự giám sát của công chức Hải quan và được niêm phong theo quy định.\n7. Tỷ lệ hao hụt đối\nvới hoạt động nhập, xuất, pha chế, chuyển loại, bảo quản, tồn trữ xăng dầu trong kho được xác định căn cứ vào chứng thư giám định của Thương nhân kinh doanh dịch vụ giám định. Trường hợp xăng dầu nhập khẩu tiêu thụ nội địa thì tỷ lệ hao hụt căn cứ vào các quy định hiện hành của Bộ Công thương.\n8. Trước khi tiến\nhành pha chế, chuyển loại xăng dầu, chủ kho phải thông báo bằng văn bản cho Chi cục Hải quan quản lý kho trước 8 giờ làm việc. Chương\nII QUY ĐỊNH CỤ THỂ\nĐiều 5. Thủ tục hải quan đối với xăng dầu, nguyên liệu từ nước ngoài nhập kho ngoại quan xăng dầu\n1. Hồ sơ hải quan:\na) Tờ khai hàng hóa\nnhập khẩu theo các chỉ tiêu thông tin tại Phụ lục II và khai vận chuyển kết hợp theo quy định tại điểm a khoản 2 Điều 51 Thông tư số 38/2015/TT-BTC ; Trường hợp thực hiện trên tờ khai hải quan giấy theo quy định tại khoản 2 Điều 25 Nghị định số 08/2015/NĐ-CP , người khai hải quan khai và nộp 02 bản chính tờ khai hàng hóa nhập khẩu theo mẫu HQ/2015/NK Phụ lục IV ban hành kèm Thông tư số 38/2015/TT-BTC .\nb) Vận tải đơn hoặc\ncác chứng từ vận tải khác có giá trị tương đương theo quy định của pháp luật (trừ hàng hóa nhập khẩu qua cửa khẩu biên giới đường bộ): Nộp 01 bản chụp;\nc) Hợp đồng thuê kho:\nXuất trình cho cơ quan Hải quan khi được yêu cầu; Trường hợp chủ hàng đồng thời là chủ kho thì không yêu cầu hợp đồng thuê kho. Thời hạn gửi kho áp dụng như đối với trường hợp có hợp đồng thuê kho và được tính từ ngày cơ quan hải quan xác nhận hàng hóa đã qua khu vực giám sát trên Hệ thống. Trường hợp chủ kho thay mặt chủ hàng thực hiện khai báo hải quan thì chủ kho phải là đại lý làm thủ tục hải quan theo quy định.\nd) Chứng thư giám định\nkhối lượng, chủng loại: Nộp 01 bản chính trong thời gian 8 giờ làm việc kể từ khi kết thúc bơm xăng dầu, nguyên liệu từ phương tiện vận tải xăng dầu, nguyên liệu vào bồn, bể chứa tại kho.\n2. Trách nhiệm của\nChi cục Hải quan quản lý kho:\na) Thực hiện theo quy\nđịnh tại điểm b khoản 1 Điều 91 Thông tư số 38/2015/TT-BTC ;\nb) Cập nhật thông tin\nđến đích của lô hàng nhập kho trên Hệ thống;\nc) Vào ngày làm việc\nthứ hai của tháng tiếp theo, Chi cục Hải quan quản lý kho có trách nhiệm báo cáo Cục Hải quan tỉnh/thành phố về xăng dầu, nguyên liệu nhập kho (theo Mẫu BC01-XDVRK Phụ lục đính kèm Thông tư này).\n3. Trách nhiệm của Cục\nHải quan tỉnh/thành phố: Mỗi quý, vào ngày 05 tháng đầu tiên của quý tiếp theo, Cục Hải quan tỉnh/thành phố căn cứ báo cáo xăng dầu, nguyên liệu nhập kho của Chi cục Hải quan quản lý kho tổng hợp báo cáo Tổng cục Hải quan về xăng dầu, nguyên liệu nhập kho thuộc địa bàn quản lý (theo Mẫu BC01-XDVRK Phụ lục đính kèm Thông tư này).\n4. Trách nhiệm của chủ\nkho, chủ hàng:\na) Khai tờ khai hàng\nhóa nhập khẩu, nộp, lưu giữ các chứng từ liên quan theo quy định tại khoản 1 Điều này;\nb) Thực hiện giám định\nkhối lượng, chủng loại lô hàng thông qua thương nhân kinh doanh dịch vụ giám định;\nc) Đảm bảo nguyên trạng\nxăng dầu, nguyên liệu từ nước ngoài nhập kho chứa trong bồn bể trong thời gian chờ thông báo kết quả giám định;\nd) Vào ngày làm việc\nđầu tiên của tháng tiếp theo, chủ kho tổng hợp báo cáo Chi cục Hải quan quản lý kho về xăng dầu, nguyên liệu nhập kho (theo Mẫu BC02-XDVRK Phụ lục đính kèm Thông tư này);\nđ) Cập nhật thông tin\nxăng dầu nhập kho vào phần mềm quản lý hàng hóa nhập, xuất kho của chủ kho và gửi đến Chi cục Hải quan quản lý kho.\n5. Xăng dầu, nguyên\nliệu từ nước ngoài đưa vào kho ngoại quan xăng dầu không phải nộp thuế nhập khẩu, thuế tiêu thụ đặc biệt, thuế bảo vệ môi trường và thuế giá trị gia tăng.\nĐiều 6. Thủ tục hải quan đối với xăng dầu, nguyên liệu từ nội địa nhập kho ngoại quan xăng dầu.\n1. Hồ sơ hải quan:\na) Hợp đồng thuê kho:\nXuất trình cho cơ quan Hải quan khi được yêu cầu; Trường hợp chủ hàng đồng thời là chủ kho thì không yêu cầu hợp đồng thuê kho. Thời hạn gửi kho áp dụng như đối với trường hợp có hợp đồng thuê kho và được tính từ ngày cơ quan hải quan xác nhận hàng hóa đã qua khu vực giám sát trên Hệ thống. Trường hợp chủ kho thay mặt chủ hàng thực hiện khai báo hải quan thì chủ kho phải là đại lý làm thủ tục hải quan theo quy định.\nb) Chứng thư giám định\nvề khối lượng, chủng loại: Nộp 01 bản chính;\nc) Quyết định buộc\ntái xuất của cơ quan có thẩm quyền (đối với trường hợp buộc tái xuất): Nộp 01 bản chụp có đóng dấu xác nhận của chủ hàng hoặc người được chủ hàng ủy quyền.\n2. Trách nhiệm của\nChi cục Hải quan quản lý kho:\na) Thực hiện quy định\ntại điểm b khoản 2 Điều 91 Thông tư số 38/2015/TT-BTC ;\nb) Xác nhận “hàng đã\nđược đưa vào kho” trên tờ khai hải quan giấy (trường hợp khai trên tờ khai hải quan giấy);\nc) Vào ngày làm việc\nthứ hai của tháng tiếp theo, Chi cục Hải quan quản lý kho có trách nhiệm báo cáo Cục Hải quan tỉnh/thành phố về xăng dầu, nguyên liệu từ nội địa nhập kho (theo Mẫu BC01-XDVRK Phụ lục đính kèm Thông tư này).\n3. Trách nhiệm của chủ\nkho, chủ hàng:\na) Thực hiện theo quy\nđịnh tại điểm a khoản 2 Điều 91 Thông tư số 38/2015/TT-BTC ;\nb) Nộp, lưu giữ hồ sơ\ntheo quy định tại khoản 1 Điều này;\nc) Thực hiện giám định\nkhối lượng, chủng loại lô hàng thông qua thương nhân kinh doanh dịch vụ giám định;\nd) Đảm bảo nguyên trạng\nxăng dầu, nguyên liệu từ nội địa đưa vào kho chứa trong bồn bể trong thời gian chờ thông báo kết quả giám định;\nđ) Vào ngày làm việc\nđầu tiên của tháng tiếp theo, chủ kho tổng hợp báo cáo Chi cục Hải quan quản lý kho về xăng dầu, nguyên liệu xuất kho (theo Mẫu BC02-XDVRK Phụ lục đính kèm Thông tư này);\ne) Cập nhật thông tin\nxăng dầu nhập kho vào phần mềm quản lý hàng hóa nhập, xuất kho của chủ kho và gửi đến Chi cục Hải quan quản lý kho.\n4. Xăng dầu, nguyên\nliệu từ nội địa đưa vào kho ngoại quan xăng dầu phải nộp thuế xuất khẩu như đối với hàng hóa xuất khẩu ra nước ngoài.\nĐiều 7. Thủ tục hải quan đối với chuyển loại xăng dầu trong kho ngoại quan xăng dầu.\n1. Hồ sơ hải quan:\na) Văn bản đề nghị được\nchuyển loại xăng dầu và phương án chuyển loại (trong đó nêu rõ xăng dầu dự kiến chuyển loại thuộc tờ khai nào, lý do chuyển loại, số lượng dự kiến chuyển loại): Nộp 01 bản chính;\nb) Hợp đồng mua bán\nhoặc hợp đồng dịch vụ chuyển loại xăng dầu theo quy định tại khoản 1 Điều 3 Thông tư này: Nộp 01 bản chụp có đóng dấu xác nhận của chủ kho;\nc) Chứng thư giám định\nvề khối lượng, chủng loại của xăng dầu dự kiến chuyển loại: Nộp 01 bản chính;\nd) Bảng kê xăng dầu\nsau chuyển loại (theo Mẫu BK01-XDSCL Phụ lục đính kèm Thông tư này): Nộp 02 bản chính.\n2. Trách nhiệm của\nChi cục Hải quan quản lý kho:\na) Sau khi nhận hồ sơ\nphù hợp với quy định tại điểm a khoản 1 Điều này, Chi cục Hải quan quản lý kho xác nhận trên Bảng kê xăng dầu sau chuyển loại, trả chủ kho 01 bản chính, lưu cơ quan Hải quan 01 bản chính;\nb) Giám sát, đảm bảo\nxăng dầu sau chuyển loại phải được xuất kho để đưa ra nước ngoài;\nc) Vào ngày làm việc\nthứ hai của tháng tiếp theo, Chi cục Hải quan quản lý kho báo cáo Cục Hải quan tỉnh/thành phố về xăng dầu sau chuyển loại tại kho (theo Mẫu BC03-XDCL Phụ lục đính kèm Thông tư này).\n3. Trách nhiệm của Cục\nHải quan tỉnh/thành phố: Mỗi quý, vào ngày 05 tháng đầu tiên của quý tiếp theo, Cục Hải quan tỉnh/thành phố căn cứ báo cáo xăng dầu sau chuyển loại của Chi cục Hải quan tổng hợp báo cáo Tổng cục Hải quan về xăng dầu chuyển loại tại kho trong địa bàn quản lý (theo Mẫu BC03-XDCL\nPhụ lục đính kèm Thông tư này).\n4. Trách nhiệm của chủ\nkho:\na) Nộp hồ sơ theo quy\nđịnh tại khoản 1 Điều này;\nb) Thực hiện giám định\nkhối lượng, chủng loại lô hàng thông qua thương nhân kinh doanh dịch vụ giám định;\nc) Xăng dầu sau chuyển\nloại phải được xuất kho đưa ra nước ngoài theo đúng thời hạn tại hợp đồng mua bán hoặc hợp đồng dịch vụ chuyển loại;\nd) Vào ngày làm việc\ncủa tháng tiếp theo, chủ kho tổng hợp báo cáo Chi cục Hải quan quản lý kho về xăng dầu sau chuyển loại tại kho (theo Mẫu BC03-XDCL Phụ lục đính kèm Thông tư này).\nĐiều 8. Thủ tục hải quan đối với pha chế xăng dầu trong kho ngoại quan xăng dầu.\n1. Hồ sơ nộp hải\nquan:\na) Trước khi tiến\nhành pha chế: a.1) Giấy chứng nhận đăng ký cơ sở pha chế xăng dầu: Nộp 01 bản chụp có xác nhận và đóng dấu của chủ kho; a.2) Văn bản đề nghị được pha chế xăng dầu và phương án pha chế: Nộp 01 bản chính; a.3) Tờ khai nhập kho của xăng dầu dự kiến pha chế: Nộp 01 bản chụp có đóng dấu xác nhận của chủ hàng hoặc người được chủ hàng ủy quyền; a.4) Hợp đồng thuê dịch vụ pha chế (đối với trường hợp thuê dịch vụ pha chế): Nộp 01 bản chụp có xác nhận và đóng dấu của chủ kho; a.5) Chứng thư giám định về khối lượng, chủng loại của xăng dầu, nguyên liệu là đầu vào của quá trình pha chế: Nộp 01 bản chụp từ bản chính có đóng dấu xác nhận của thương nhân.\nb) Sau khi tiến hành\npha chế: b.1) Chứng thư giám định về khối lượng, chủng loại và chất lượng của sản phẩm xăng dầu sau pha chế: Nộp 01 bản chính; b.2) Bảng kê xăng dầu sau pha chế (theo Mẫu BK02-XDPC Phụ lục đính kèm Thông tư này): Nộp 02 bản chính; b.3) Bảng định mức xăng dầu sau pha chế (theo Mẫu BĐMXDPC Phụ lục đính kèm Thông tư này): Nộp 02 bản chính.\n2. Trách nhiệm của\nChi cục Hải quan quản lý kho:\na) Sau khi nhận hồ sơ\nphù hợp với quy định tại điểm a khoản 1 Điều này, lãnh đạo Chi cục Hải quan quản lý kho cho phép tiến hành pha chế và quyết định hình thức giám sát phù hợp;\nb) Công chức hải quan\ngiám sát việc pha chế xăng dầu, tổng hợp thống kê số liệu, theo dõi xăng dầu, nguyên liệu đầu vào của quá trình pha chế và xăng dầu sau pha chế;\nc) Kết thúc quá trình\npha chế, xác nhận trên Bảng kê xăng dầu sau pha chế quy định tại điểm b2 khoản 1 Điều này, trả chủ kho 01 bản chính, lưu cơ quan Hải quan 01 bản chính;\nd) Vào ngày làm việc\nthứ hai của tháng tiếp theo, Chi cục Hải quan quản lý kho báo cáo Cục Hải quan tỉnh/thành phố về xăng dầu sau pha chế tại kho (theo Mẫu BC04-XDPC Phụ lục đính kèm Thông tư này).\n3. Trách nhiệm của Cục\nHải quan tỉnh/thành phố: Mỗi quý, vào ngày 05 tháng đầu tiên của quý tiếp theo, Cục Hải quan tỉnh, thành phố căn cứ báo cáo xăng dầu sau pha chế của Chi cục Hải quan quản lý kho tổng hợp báo cáo Tổng cục Hải quan về xăng dầu pha chế tại kho (theo Mẫu BC04-XDPC Phụ lục đính kèm Thông tư này).\n4. Trách nhiệm của chủ\nkho:\na) Nộp hồ sơ theo quy\nđịnh tại khoản 1 Điều này;\nb) Đảm bảo nguyên trạng\nxăng dầu, nguyên liệu nhập kho chứa trong bồn bể chứa xăng dầu, nguyên liệu dự kiến pha chế và xăng dầu sau pha chế trong thời gian chờ thông báo kết quả giám định;\nc) Sản phẩm xăng dầu\nsau pha chế được sử dụng làm nguyên liệu tiếp tục pha chế, chủ kho chịu trách nhiệm hoàn toàn về chất lượng trước, sau quá trình pha chế, tỉ lệ hao hụt trong quá trình pha chế và nộp bổ sung bản sao bộ hồ sơ đã pha chế đối với phần sản phẩm được sử dụng làm nguyên liệu pha chế;\nd) Vào ngày làm việc\nđầu tiên của tháng tiếp theo, chủ kho tổng hợp báo cáo Chi cục Hải quan quản lý kho về xăng dầu sau pha chế tại kho (theo Mẫu BC04-XDPC Phụ lục đính kèm Thông tư này);\nđ) Chủ kho có trách\nnhiệm lưu trữ đầy đủ và xuất trình cho Chi cục Hải quan quản lý kho khi được yêu cầu đầy đủ các số liệu về số lượng, chủng loại các nguyên liệu, phụ gia, thành phẩm đầu vào khi pha chế cũng như các số liệu về số lượng, chủng loại, chất lượng, tỷ lệ hao hụt của các nguyên liệu, thành phẩm là sản phẩm của quá trình pha chế.\nĐiều 9. Thủ tục hải quan đối với xăng dầu, nguyên liệu và xăng dầu sau khi pha chế, chuyển loại từ kho ngoại quan xăng dầu đưa ra nước ngoài.\n1. Hồ sơ hải quan:\na) Phiếu xuất kho do\nchủ kho lập theo quy định về pháp luật kế toán, trong đó có ghi cụ thể xăng dầu xuất kho của từng tờ khai nhập kho: Nộp 01 bản chụp;\nb) Chứng thư giám định\nvề khối lượng, chủng loại: mỗi loại 01 bản chính;\n2. Trách nhiệm của\nChi cục Hải quan quản lý kho:\na) Thực hiện theo quy\nđịnh tại b khoản 3 Điều 91 Thông tư số 38/2015/TT-BTC ;\nb) Xăng dầu, nguyên\nliệu để pha chế, chuyển loại của một lần nhập kho được đưa ra khỏi kho ngoại quan một lần hoặc nhiều lần. Thủ tục hải quan đối với trường hợp này thực hiện theo quy định tại điểm b, điểm c khoản 2 Điều 93 Thông tư số 38/2015/TT-BTC ;\nc) Vào ngày làm việc\nthứ hai của tháng tiếp theo, Chi cục Hải quan quản lý kho báo cáo Cục Hải quan tỉnh/thành phố về xăng dầu xuất kho (theo Mẫu BC01-XDVRK Phụ lục đính kèm Thông tư này).\n3. Trách nhiệm của Cục\nHải quan tỉnh/thành phố: Mỗi quý, vào ngày 05 tháng đầu tiên của quý tiếp theo, Cục Hải quan tỉnh, thành phố căn cứ báo cáo của Chi cục Hải quan quản lý kho tổng hợp, báo cáo Tổng cục Hải quan về xăng dầu xuất kho (theo Mẫu BC01-XDVRK Phụ lục đính kèm Thông tư này).\n4. Trách nhiệm của chủ\nkho:\na) Trường hợp chủ kho\nthay mặt chủ hàng thực hiện khai báo hải quan thì chủ kho phải là đại lý khai thuê hải quan theo quy định;\nb) Nộp hồ sơ hải quan\ntheo quy định tại khoản 1 Điều này;\nc) Thực hiện giám định\nkhối lượng, chủng loại lô hàng thông qua thương nhân kinh doanh dịch vụ giám định;\nd) Vào ngày làm việc\nđầu tiên của tháng tiếp theo, chủ kho tổng hợp báo cáo Chi cục Hải quan quản lý kho về xăng dầu xuất kho (theo Mẫu BC02-XDVRK Phụ lục đính kèm Thông tư này);\nđ) Cập nhật thông tin\nxăng dầu xuất kho vào phần mềm quản lý hàng hóa nhập, xuất kho của chủ kho và gửi đến Chi cục Hải quan quản lý kho.\n5. Xăng dầu sau khi\npha chế trong kho khi xuất khẩu sản phẩm ra nước ngoài không phải nộp thuế xuất khẩu. Điều\n10. Thủ tục hải quan đối với xăng dầu, nguyên liệu và xăng dầu sau khi pha chế\ntừ kho ngoại quan xăng dầu đưa vào nội địa, các khu phi thuế quan.\n1. Thực hiện theo quy\nđịnh tại điểm a, điểm b khoản 4 Điều 91 Thông tư số 38/2015/TT-BTC .\na) Bộ hồ sơ nhập khẩu\nxăng dầu (thực hiện pha chế hoặc không thực hiện pha chế) từ kho vào nội địa không phải nộp vận đơn hoặc chứng từ vận tải. a.1) Trường hợp thương nhân làm thủ tục lần đầu tại Chi cục Hải quan thì nộp Giấy phép kinh doanh xuất khẩu, nhập khẩu xăng dầu do Bộ Thương mại cấp: 01 bản chụp có đóng dấu xác nhận của doanh nghiệp; a.2) Bảng hạn mức nhập khẩu xăng dầu tối thiểu hàng năm do Bộ Công Thương cấp (đối với xăng dầu nhập khẩu): Nộp 01 bản chụp có đóng dấu xác nhận của doanh nghiệp vào thời điểm đăng ký tờ khai đầu tiên hàng năm; a.3) Hóa đơn thương mại: thực hiện theo quy định tại điểm c khoản 2 Điều 7 Thông tư số 69/2016/TT-BTC .\nb) Người khai hải\nquan thực hiện thủ tục nhập khẩu xăng dầu, nguyên liệu và xăng dầu sau pha chế theo quy định đối với từng loại hình tương ứng, sau đó chủ kho thực hiện thủ tục xuất kho.\n2. Xăng dầu pha chế,\nsau đó chuyển tiêu thụ nội địa phải có chất lượng đáp ứng quy chuẩn kỹ thuật quốc gia và tiêu chuẩn công bố áp dụng.\n3. Trường hợp xăng dầu,\nnguyên liệu và xăng dầu sau pha chế trong kho làm thủ tục nhập khẩu vào nội địa nhiều lần thì hồ sơ hải quan đối với từng lần nhập khẩu được chấp nhận bộ chứng từ bản sao gồm bản kê chi tiết hàng hóa, giấy chứng nhận xuất xứ có đóng dấu xác nhận của Chi cục Hải quan quản lý kho, bản chính của các chứng từ do Chi cục Hải quan quản lý kho lưu.\n4. Người khai hải\nquan nộp đủ thuế theo quy định đối với xăng dầu, nguyên liệu và xăng dầu sau pha chế xuất kho nhập khẩu vào nội địa tại Chi cục Hải quan nơi thương nhân có hệ thống kho chứa xăng dầu trong nội địa. Trường hợp xăng dầu sau khi pha chế trong kho đã sử dụng toàn bộ nguyên liệu có nguồn gốc trong nước thì khi nhập khẩu sản phẩm sau pha chế vào nội địa Việt Nam không phải nộp thuế nhập khẩu. Trường hợp xăng, dầu sau khi pha chế trong kho có sử dụng toàn bộ nguyên liệu nhập khẩu từ nước ngoài thì khi nhập khẩu sản phẩm sau pha chế vào thị trường nội địa Việt Nam phải nộp các loại thuế như đối với xăng dầu nhập khẩu từ nước ngoài vào Việt Nam. Trường hợp sử dụng một phần nguyên liệu nhập khẩu từ nước ngoài kết hợp với nguyên liệu trong nước để pha chế trong kho, khi nhập khẩu sản phẩm sau pha chế vào thị trường nội địa, số thuế phải nộp căn cứ vào số lượng, mức thuế suất của mặt hàng nhập khẩu vào nội địa Việt Nam; trị giá hải quan tính trên phần nguyên liệu nhập khẩu từ nước ngoài cấu thành trong sản phẩm sau pha chế nhập khẩu vào nội địa Việt Nam. Trường hợp không xác định được trị giá hải quan đối với phần nguyên liệu có nguồn gốc nhập khẩu thì cơ quan hải quan ấn định thuế đối với phần nguyên liệu có nguồn gốc nhập khẩu cấu thành trong sản phẩm sau pha chế theo quy định pháp luật về quản lý thuế và pháp luật về trị giá hải quan. Việc xác định thuế suất thuế nhập khẩu ưu đãi hoặc thuế nhập khẩu ưu đãi đặc biệt được thực hiện theo quy định của pháp luật về thuế xuất khẩu, thuế nhập khẩu hiện hành.\n5. Thủ tục vận chuyển\nxăng dầu, nguyên liệu từ kho đến Chi cục Hải quan nơi đăng ký tờ khai nhập khẩu:\na) Thực hiện theo quy\nđịnh tại khoản 2 Điều 51 Thông tư số 38/2015/TT-BTC ;\nb) Trường hợp Hệ thống\nchưa hỗ trợ việc khai báo chuyển cửa khẩu: Doanh nghiệp có đơn đề nghị chuyển xăng dầu, nguyên liệu, xăng dầu sau pha chế tại kho nhập khẩu vào nội địa (theo mẫu số 22-CKHH/GSQL Phụ lục V ban hành kèm theo Thông tư số 38/2015/TT-BTC);\nc) Trường hợp xăng dầu\nđược giám định về khối lượng, chủng loại khi xếp hàng lên phương tiện vận chuyển tại kho và sau đó được chuyển đến Chi cục Hải quan nơi làm thủ tục hải quan nhập vào nội địa, lại được giám định về chủng loại và khối lượng trước khi được thông quan (Chi cục hải quan nơi làm thủ tục nhập khẩu ghi vào phần thông báo chỉ thị hải quan của tờ khai trên Hệ thống: được giám định về chủng loại và số lượng lại trước khi được thông quan) thì không phải niêm phong. Chi cục Hải quan quản lý kho, Chi cục Hải quan nơi hoàn thành thủ tục hải quan nhập vào nội địa căn cứ vào kết quả giám định để lập biên bản bàn giao và làm thủ tục hải quan, thương nhân kinh doanh dịch vụ giám định chịu trách nhiệm về kết quả giám định.\nđ) Vào ngày làm việc\nthứ hai của tháng tiếp theo, Chi cục Hải quan quản lý kho báo cáo Cục Hải quan tỉnh/thành phố về xăng dầu, nguyên liệu và xăng dầu sau pha chế từ kho đưa vào nội địa, các khu phi thuế quan (theo Mẫu BC01-XDVRK Phụ lục đính kèm Thông tư này).\ne) Trách nhiệm của Cục\nHải quan tỉnh/thành phố: Mỗi quý, vào ngày 05 tháng đầu tiên của quý tiếp theo, Cục Hải quan tỉnh/thành phố căn cứ báo cáo của Chi cục Hải quan quản lý kho tổng hợp, báo cáo Tổng cục Hải quan về xăng dầu, nguyên liệu và xăng dầu sau khi pha chế từ kho đưa vào nội địa, các khu phi thuế quan (theo Mẫu BC01-XDVRK Phụ lục đính kèm Thông tư này).\ng) Trách nhiệm của chủ\nkho, chủ hàng g.1) Giám định khối lượng lô hàng thông qua thương nhân kinh doanh dịch vụ giám định. Lô hàng nhập khẩu trước khi thông quan phải có giấy đăng ký kiểm tra nhà nước về chất lượng; g.2) Chủ hàng kê khai và nộp đầy đủ các loại thuế và lệ phí theo quy định; g.3) Vào ngày làm việc đầu tiên của tháng tiếp theo, chủ kho tổng hợp báo cáo Chi cục Hải quan quản lý kho về xăng dầu, nguyên liệu và xăng dầu sau pha chế (theo Mẫu BC02-XDVRK Phụ lục đính kèm Thông tư này); g.4) Cập nhật thông tin xăng dầu xuất kho vào phần mềm quản lý hàng hóa nhập, xuất kho của chủ kho và gửi đến Chi cục Hải quan quản lý kho.\n6. Trường hợp hàng\nhóa trong kho bán cho thương nhân nước ngoài và đã giao hàng qua lan can tàu tại cảng của kho sau đó khách hàng nước ngoài tiếp tục giao ngay cho một doanh nghiệp Việt Nam tại chính con tàu đã xếp hàng tại cảng của kho để nhập vào nội địa thì thực hiện thủ tục nhập khẩu theo quy định tại Mục 1 Chương II Thông tư số\n69/2016/TT-BTC .\n7. Khai báo trị giá hải\nquan đối với xăng dầu từ kho đưa vào nội địa.\na) Trường hợp mua bán\nhàng hóa có điều kiện giao hàng tại kho và doanh nghiệp chứng minh được trị giá khai báo là tương đương thì khai báo như sau: a1) Khai ô “điều kiện giá hóa đơn” là CFR, đồng thời tại ô “chi tiết khai trị giá” khai điều kiện giao hàng thực tế FOB và giải trình rõ lý do giá FOB= CFR; a2) Ô “tổng trị giá hóa đơn” nhập tổng giá trị trên hóa đơn.\nb) Xác định trị giá hải\nquan; b.1) Thực hiện theo quy định tại Thông tư 39/2015/TT-BTC ngày 25/3/2015 của Bộ Tài chính quy định về trị giá hải quan đối với hàng hóa xuất, nhập khẩu; b.2) Đối với hàng hóa xăng dầu được vận chuyển từ kho đến nơi làm thủ tục nhập khẩu vào nội địa thì các chi phí phát sinh từ kho đến nơi làm thủ tục nhập khẩu không phải cộng vào trị giá hải quan.\n8. Khai báo xuất xứ:\na) Trường hợp có yêu\ncầu hưởng thuế suất ưu đãi đặc biệt theo các Hiệp định thương mại tự do (FTAs), doanh nghiệp phải nộp C/O theo quy định; Đối với trường hợp khác, doanh nghiệp tự khai và tự chịu trách nhiệm về xuất xứ hàng hóa (không phải nộp C/O).\nb) Đối với sản phẩm\nxăng dầu nhập khẩu sau khi được pha chế trong kho, doanh nghiệp không yêu cầu hưởng thuế suất ưu đãi đặc biệt theo FTAs: b.1) Thực hiện quy định tại Nghị định 19/2006/NĐ-CP ngày 20/02/2006 của Chính phủ quy định chi tiết Luật Thương mại về xuất xứ hàng hóa, Thông tư 08/2006/TT-BTM ngày 17/04/2006 của Bộ trưởng Bộ Thương mại hướng dẫn cách xác định xuất xứ hàng hóa và tổng số lượng nhập khẩu phù hợp với xuất xứ và số lượng hàng ghi trên tờ khai nhập kho; b.2) Trường hợp lô hàng nhập khẩu vào nội địa được pha chế từ xăng dầu có nguồn gốc xuất xứ từ nhiều nước khác nhau, doanh nghiệp khai đại diện 01 nước tại ô xuất xứ hàng hóa trên tờ khai và khai báo xuất xứ các nước tại ô mô tả hàng hóa: “xăng dầu được pha chế từ xăng dầu có xuất xứ từ những nước...tương ứng với tờ khai nhập kho hoặc thuộc lô hàng pha chế số...(trong đó ghi đầy đủ tên các nước xuất xứ của lô hàng xăng dầu dùng để pha chế)”. Tại phần ghi chú trên tờ khai hải quan, khai báo “Xăng/dầu được pha chế trong kho ngoại quan xăng dầu…”\nc) Trường hợp lô hàng\nđưa vào kho để nhập khẩu vào nội địa nhiều lần thì xuất xứ hàng hóa mỗi lần nhập khẩu theo xuất xứ lô gốc. Cơ quan hải quan sẽ lập Phiếu trừ lùi để theo dõi lô hàng (theo Mẫu PTDTL Phụ lục đính kèm Thông tư này). Khi doanh nghiệp nhập khẩu hết số lượng hàng hóa trên C/O, Chi cục Hải quan tổng hợp lượng hàng hóa đã nhập khẩu, xác nhận đã nhập khẩu hết lượng hàng trên C/O vào Phiếu trừ lùi.\n9. Trường hợp xuất\nkho nhập nội địa bằng đường bộ, việc giám định về khối lượng, trọng lượng, chủng loại và kiểm tra nhà nước về chất lượng được thực hiện tại bể chứa dùng để chứa hàng nhập vào nội địa bằng đường bộ, sau đó bể chứa này sẽ được công chức hải quan niêm phong. Cơ quan hải quan làm thủ tục và thông quan hàng hóa cho lượng xăng dầu dự định nhập khẩu tại bể chứa này. Xăng dầu sau thông quan sẽ được đưa vào nội địa theo từng chuyến xe ô tô, có phiếu xuất kho theo tương ứng với từng chuyến xe nhận hàng để công chức hải quan giám sát và đối chiếu với tổng lượng hàng đã làm thủ tục thông quan. Sau khi kết thúc xuất hết lượng hàng đã được làm thủ tục thông quan, phải nộp cho cơ quan hải quan chứng thư giám định khối lượng cho tổng lượng hàng đã xuất này theo quy định và danh sách các chuyến xe vận chuyển.\n10. Xăng, dầu sau khi\npha chế trong kho đưa vào kho ngoại quan khác không phải nộp thuế xuất khẩu. Thời gian lưu giữ tại kho ngoại quan mới được tính kể từ ngày xăng dầu đưa vào kho ngoại quan cũ. Điều\n11. Thủ tục tạm nhập - tái xuất xăng dầu.\nKhi làm thủ tục tạm nhập xăng dầu từ kho, doanh nghiệp có thể đăng ký làm thủ tục tạm nhập tại Chi cục Hải quan quản lý kho đó hoặc tại Chi cục Hải quan ngoài cửa khẩu nơi thương nhân có hệ thống kho nội địa chứa xăng dầu tạm nhập.\n1. Trường hợp doanh nghiệp\nđăng ký làm thủ tục tạm nhập tại Chi cục Hải quan quản lý kho:\na) Xăng dầu tạm nhập\nđược lưu giữ tại kho chứa xăng dầu trong nội địa thuộc địa bàn quản lý của Chi cục Hải quan quản lý kho chứa xăng dầu thì thực hiện thủ tục tái xuất theo quy định tại Mục 2 Chương II Thông tư số 69/2016/TT-BTC ;\nb) Doanh nghiệp kinh\ndoanh xăng dầu tạm nhập - tái xuất khi tái xuất được sử dụng nguồn xăng dầu cùng chất lượng, cùng chủng loại với nguồn xăng dầu tạm nhập trong hệ thống kho nội địa của mình.\nc) Đối với lượng xăng\ndầu không tái xuất hết phải chuyển tiêu thụ nội địa: c.1) Trường hợp Doanh nghiệp đã thực hiện tái xuất tại Chi cục Hải quan quản lý kho thì làm thủ tục chuyển tiêu thụ nội địa tại Chi cục Hải quan quản lý kho theo quy định tại Mục 3 Chương II Thông tư số 69/2016/TT-BTC ; c.2) Trường hợp Doanh nghiệp đã thực hiện tái xuất tại Chi cục Hải quan ngoài cửa khẩu nơi thương nhân có hệ thống kho chứa xăng dầu trong nội địa xuất khẩu thì thực hiện như sau: c.2.1) Hồ sơ hải quan: thực hiện theo quy định tại Điều 18 Thông tư số 69/2016/TT-BTC . c.2.2) Chi cục Hải quan quản lý kho thực hiện: c.2.2.1) Có văn bản thông báo gửi Chi cục Hải quan ngoài cửa khẩu nơi thương nhân có hệ thống kho chứa xăng dầu nội địa xuất khẩu về số lượng xăng dầu doanh nghiệp dự kiến chuyển tiêu thụ nội địa và đề nghị Chi cục ngoài cửa khẩu giám sát việc lấy mẫu xác định chất lượng (trường hợp xăng dầu thuộc danh mục hàng hóa phải kiểm tra chất lượng khi nhập khẩu) cũng như giám định khối lượng; c.2.2.2) Sau khi nhận được kết quả giám định có xác nhận của Chi cục Hải quan ngoài cửa khẩu thì thực hiện thủ tục hải quan theo quy định tại Điều 19 Thông tư số 69/2016/TT-BTC . c.2.3) Chi cục Hải quan ngoài cửa khẩu nơi thương nhân có hệ thống kho nội địa chứa xăng dầu xuất khẩu thực hiện: c.2.3.1) Tiếp nhận văn bản đề nghị theo quy định tại điểm c.2.2 khoản này của Chi cục Hải quan quản lý kho; c.2.3.2) Giám sát việc doanh nghiệp lấy mẫu để xác định chất lượng (trường hợp xăng dầu thuộc danh mục hàng hóa phải kiểm tra chất lượng khi nhập khẩu), khối lượng đối với lượng xăng dầu không tái xuất hết, xác nhận kết quả giám định khối lượng, chủng loại đối với lượng xăng dầu không tái xuất hết, chuyển tiêu thụ nội địa; c.2.3.3) Lưu bản chụp và chuyển bản chính kết quả giám định có xác nhận cho Chi cục Hải quan quản lý kho thực hiện tiếp thủ tục theo quy định.\n2. Trường hợp Doanh nghiệp\nđăng ký làm thủ tục tạm nhập tại Chi cục Hải quan ngoài cửa khẩu nơi thương nhân có hệ thống kho nội địa chứa xăng dầu tạm nhập:\na) Trường hợp lưu giữ\nxăng dầu tại hệ thống kho xăng dầu nội địa ngoài địa bàn quản lý của Chi cục Hải quan quản lý kho thì đăng ký và làm thủ tục tại Chi cục hải quan nơi thương nhân có hệ thống kho nội địa chứa xăng dầu;\nb) Thực hiện thủ tục\ntái xuất theo quy định tại Thông tư số 69/2016/TT-BTC ngày 06 tháng 05 năm 2016; Doanh nghiệp kinh doanh xăng dầu tạm nhập - tái xuất khi tái xuất được sử dụng nguồn xăng dầu cùng chủng loại với nguồn xăng dầu tạm nhập trong hệ thống kho nội địa của mình.\nc) Đối với lượng xăng\ndầu không tái xuất hết phải chuyển tiêu thụ nội địa thì làm thủ tục chuyển tiêu thụ nội địa tại Chi cục Hải quan nơi đã làm thủ tục tạm nhập theo quy định tại thực hiện theo quy định tại Thông tư số 69/2016/TT-BTC . Hồ sơ thực hiện thủ tục nhập khẩu trong trường hợp này tương tự như hướng dẫn tại điểm c.2.1 Khoản 1 Điều này. Điều\n12. Chuyển quyền sở hữu trong kho ngoại quan xăng dầu\nQuản lý hải quan đối với xăng dầu, nguyên liệu, xăng dầu pha chế, chuyển loại chuyển quyền sở hữu trong kho thực hiện quy định tại khoản 8 Điều 91 Thông tư số 38/2015/TT-BTC . Điều\n13. Thủ tục thanh lý xăng dầu, nguyên liệu, xăng dầu pha chế, chuyển loại tồn đọng\ntrong kho ngoại quan xăng dầu Thủ tục thanh lý xăng dầu, nguyên liệu, xăng dầu pha chế, chuyển loại tồn đọng trong kho thực hiện như đối với hàng hóa tồn đọng trong kho ngoại quan quy định tại Thông tư số 203/2014/TT-BTC ngày 22/12/2014 của Bộ trưởng Bộ Tài chính hướng dẫn xử lý hàng hóa tồn đọng thuộc địa bàn hoạt động của hải quan. Chương\nIII ĐIỀU KHOẢN THI HÀNH\nĐiều\n14. Hiệu lực thi hành\n1. Thông tư này có hiệu\nlực thi hành kể từ ngày 16/08/2016.\n2. Thông tư này thay\nthế Thông tư số 88/2013/TT-BTC ngày 28/6/2013 của Bộ trưởng Bộ Tài chính hướng dẫn thí điểm thủ tục hải quan đối với hoạt động xuất, nhập xăng dầu, nguyên liệu để pha chế xăng dầu; hoạt động pha chế, chuyển loại xăng dầu tại Kho ngoại quan xăng dầu Vân Phong;\n3. Trong quá trình thực\nhiện, nếu các văn bản liên quan đề cập tại Thông tư này được sửa đổi, bổ sung hoặc thay thế thì thực hiện theo văn bản mới được sửa đổi, bổ sung hoặc thay thế.\n4. Đối với các trường\nhợp không được quy định tại Thông tư này, thực hiện theo quy định tại Thông tư số 69/2016/TT-BTC .\n5. Tổng cục trưởng Tổng\ncục Hải quan chỉ đạo Cục trưởng Cục Hải quan các tỉnh, thành phố chịu trách nhiệm tổ chức quản lý, theo dõi và triển khai thực hiện nội dung quy định tại Thông tư này. Trong quá trình thực hiện, nếu có vướng mắc phát sinh, đề nghị phản ánh kịp thời Bộ Tài chính (qua Tổng cục Hải quan) để được nghiên cứu, giải quyết./.\nNơi nhận:\n-\nThủ tướng Chính phủ và các Phó Thủ tướng CP;\n- Văn phòng Tổng bí thư;\n- Văn phòng Quốc hội; VP Chủ tịch nước;\n- Văn phòng TW và các Ban của Đảng;\n- Các Bộ, cơ quan ngang Bộ, cơ quan thuộc CP;\n- Văn phòng Ban chỉ đạo TW về phòng chống tham nhũng;\n- Viện kiểm sát nhân dân tối cao;\n- Tòa án nhân dân tối cao;\n- Kiểm toán Nhà nước;\n- UBND các tỉnh, TP trực thuộc TW;\n- Sở TC, Cục thuế, Hải quan, KBNN các tỉnh, TP trực thuộc TW;\n- Phòng Thương mại và Công nghiệp Việt Nam;\n- Công báo; Cục Kiểm tra văn bản (Bộ Tư pháp);\n- Website Chính phủ; Website Bộ Tài chính;\n- Các đơn vị thuộc và trực thuộc Bộ Tài chính;\n- Lưu: VT, TCHQ.\nKT. BỘ TRƯỞNG\nTHỨ TRƯỞNG\nĐỗ Hoàng Anh Tuấn\nPHỤ LỤC\nDANH MỤC BIỂU MẪU\n(Ban hành kèm theo Thông tư số 106/2016/TT-BTC ngày 29 tháng 6 năm 2016)\nSTT\nTên\nBiểu mẫu\nSố hiệu 1 Báo cáo lượng xăng dầu đưa vào, đưa ra kho Mẫu số BC01-XDVRK 2 Báo cáo lượng xăng dầu đưa vào, đưa ra kho Mẫu số BC02-XDVRK 3 Báo cáo xăng dầu chuyển loại theo tháng/quý Mẫu số BC03-XDCL 4 Báo cáo xăng dầu pha chế theo tháng/quý Mẫu số BC04-XDPC 5 Bảng kê xăng dầu sau chuyển loại Mẫu số BK01-XDSCL 6 Bảng kê xăng dầu pha chế, sau pha chế Mẫu số BK02-XDPC 7 Bảng định mức xăng dầu pha chế Mẫu số BĐMXDP 8 Phiếu theo dõi trừ lùi C/O Mẫu số PTDTL Mẫu số BC01-XDVRK Tên cơ quan hải quan thực hiện báo cáo (Chi cục Hải quan/Cục Hải quan tỉnh, thành phố) (*)\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc ---------------\nBÁO CÁO LƯỢNG XĂNG DẦU ĐƯA VÀO, ĐƯA RA\nKHO NGOẠI QUAN XĂNG DẦU (**)\nSố liệu tính từ ngày....đến....\nSTT\n(1) Loại hình (2) Trọng lượng (Tấn) (3) Mặt hàng chủ yếu Dầu Diesel (Thống kê theo từng loại) (4) Xăng (Thống kê theo từng loại) (5) 1 Hàng tồn kho đầu kỳ (Tính từ ngày cuối cùng của Tháng/Quý trước) 2 Từ nước ngoài đưa vào kho 3 Nguyên liệu đưa vào pha chế 4 Thành phẩm pha chế tại kho 5 Từ nội địa đưa vào kho 6 Từ kho đưa ra nước ngoài 7 Từ kho đưa vào nội địa 8 Từ kho này chuyển sang kho khác 9 Hàng còn tồn trong kho (tính tới ngày cuối cùng của Tháng/Quý) Lưu ý: (*): Đơn vị nào thực hiện báo cáo thì đóng dấu treo đơn vị mình vào góc trên cùng bên trái Biểu mẫu; (**): Chi cục Hải quan quản lý kho tổng hợp báo cáo Cục Hải quan quản lý theo tháng; Cục Hải quan các tỉnh, thành phố tổng hợp, báo cáo Tổng cục Hải quan theo Quý. Mẫu số BC02-XDVRK\nKHO NGOẠI QUAN XĂNG DẦU ....\n(đóng dấu treo của kho)\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc --------------- Kính gửi: Chi cục Hải quan....\nBÁO CÁO LƯỢNG XĂNG DẦU ĐƯA VÀO, ĐƯA RA\nKHO\nNGOẠI QUAN XĂNG DẦU (Theo tháng) Số liệu tính từ ngày....đến....\nSTT\n(1) Loại hình (2) Trọng lượng (Tấn) (3) Mặt hàng chủ yếu Dầu Diesel (Thống kê theo từng loại) (4) Xăng (Thống kê theo từng loại) (5)\nI\nNhập kho 1 Hàng tồn kho đầu kỳ (Tính từ ngày cuối cùng của Tháng trước) 2 Từ nước ngoài đưa vào kho 3 Từ nội địa đưa vào kho\nII\nPha chế 1 Nguyên liệu đưa vào pha chế 2 Sản phẩm sau pha chế\nIII\nChuyển loại 1 Tên xăng dầu trước khi chuyển loại 2 Tên xăng dầu sau chuyển loại\nIV\nXuất kho 1 Từ kho đưa ra nước ngoài 2 Từ kho đưa vào nội địa 3 Từ kho này chuyển sang kho khác\nV\nTồn kho Hàng còn tồn trong kho (tính đến ngày cuối cùng của Tháng) Mẫu số BC03-XDCL Tên đơn vị báo cáo (*)\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc ---------------\nBÁO CÁO XĂNG DẦU CHUYỂN LOẠI (**)\nTính từ ngày...tháng...đến ngày...tháng...năm\nSTT\n(1) Tên nguyên liệu, xăng dầu trước chuyển loại (2) Mã\nHS\n(3) Xuất xứ (4) Số tờ khai (5) Số lượng (m3) (7) Trọng lượng (Tấn) (8) Trị giá (USD) (9) Tên xăng dầu sau khi chuyển loại (10) Số lượng (11) Trọng lượng (Tấn) (12) Trị giá (USD) (13) 1 2 3 4 …… Tổng cộng: Tổng xăng dầu sau chuyển loại đã xuất: Tổng xăng dầu sau chuyển loại còn tồn kho: Lưu ý: (*): Đơn vị báo cáo bao gồm: Kho ngoại quan xăng dầu, cơ quan hải quan (Chi cục Hải quan/Cục Hải quan tỉnh, thành phố quản lý kho). Đơn vị nào thực hiện báo cáo thì đóng dấu treo vào góc trên cùng bên trái Biểu mẫu; (**): Kho ngoại quan xăng dầu báo cáo Chi cục Hải quan quản lý kho theo tháng; Chi cục Hải quan quản lý kho tổng hợp báo cáo Cục Hải quan quản lý theo tháng; Cục Hải quan các tỉnh, thành phố tổng hợp, báo cáo Tổng cục Hải quan theo Quý. Mẫu BC04-XDPC Tên đơn vị báo cáo (*)\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc ---------------\nBÁO CÁO XĂNG DẦU PHA CHẾ (**)\nSTT\n(1) Tên nguyên liệu, xăng dầu trước pha chế (2) Mã\nHS\n(3) Xuất xứ (4) Số tờ khai (5) Số lượng (m3) (6) Trọng lượng (Tấn) (7) Trị giá (USD) (8) Tên xăng dầu sau khi pha chế (9) Số lượng (10) Trọng lượng (Tấn) (11) Trị giá (USD) (12) 1 2 3 4 … Tổng cộng Tổng xăng dầu sau pha chế đã xuất: Tổng xăng dầu sau pha chế đưa vào nội địa, các khu phi thuế quan: Tổng xăng dầu sau pha chế còn tồn kho: Lưu ý: (*) Đơn vị báo cáo bao gồm: Kho ngoại quan xăng dầu, cơ quan hải quan (Chi cục Hải quan/Cục Hải quan tỉnh, thành phố quản lý kho). Đơn vị nào thực hiện báo cáo thì đóng dấu treo vào góc trên cùng bên trái Biểu mẫu; (**): Kho ngoại quan xăng dầu báo cáo Chi cục Hải quan quản lý kho theo tháng; Chi cục Hải quan quản lý kho tổng hợp báo cáo Cục Hải quan quản lý theo tháng; Cục Hải quan các tỉnh, thành phố tổng hợp, báo cáo Tổng cục Hải quan theo Quý. Mẫu BK01-XDSCL\nBẢNG KÊ XĂNG DẦU SAU CHUYỂN LOẠI\nBan hành kèm theo Thông tư số ..../2016/TT-BTC ngày... tháng... năm... của Bộ Tài chính\n1. Tên đơn vị:...\n2. Số hợp đồng thuê dịch\nvụ chuyển loại: ngày...tháng...năm...\nSTT\n(1) Tên xăng dầu trước khi chuyển loại (2) Mã\nHS\n(3) Số TK nhập/xuất kho ngoại quan xăng dầu (4) Số lượng (m3) (5) Trọng lượng (Tấn) (6) Trị giá (USD) (7) Tên xăng dầu sau chuyển loại (8) Mã\nHS\n(9) 1 2 … Tổng cộng (*) ……, ngày… tháng... năm...\nNGƯỜI LẬP BIỂU\n(ký, và ghi rõ họ tên) ……, ngày… tháng... năm... Công chức HQ quản lý kho NQ xăng dầu xác nhận (ký, đóng dấu công chức) ……, ngày… tháng... năm... Chủ kho NQ xăng dầu (ký, ghi rõ họ tên và đóng dấu) Lưu ý (*): Tính tổng số liệu của các cột số 5, 6, 7. Mẫu BK02-XDPC\nBẢNG KÊ XĂNG DẦU PHA CHẾ VÀ SAU PHA CHẾ\nBan hành kèm theo Thông tư số .../2016/TT-BTC ngày...tháng...năm... của Bộ Tài chính\n1. Tên đơn vị: …\n2. Số hợp đồng thuê dịch\nvụ chuyển loại: ..., ngày...tháng...năm...\nSTT\n(1) Tên nguyên liệu, xăng dầu trước khi pha chế (2) Mã\nHS\n(3) Số TK nhập /xuất kho ngoại quan xăng dầu (4) Số lượng (m3) (5) Trọng lượng (Tấn) (6) Trị giá (USD) (7) Định mức (kể cả hao hụt) (8) Tên xăng dầu sau pha chế (9) Mã\nHS\n(10) Số lượng (11) Trọng lượng (12) Trị giá\n(USD)\n(13) 1 2 … Tổng cộng (*) ……, ngày… tháng... năm...\nNGƯỜI LẬP BIỂU\n(ký, và ghi rõ họ tên) ……, ngày… tháng... năm... Công chức HQ quản lý kho NQ xăng dầu xác nhận (ký, đóng dấu công chức) ……, ngày… tháng... năm... Chủ kho NQ xăng dầu (ký, ghi rõ họ tên và đóng dấu) Lưu ý (*): Tính tổng số liệu của cột số 5, 6, 7, 11, 12, 13. Mẫu BĐMXDPC\nBẢNG ĐỊNH MỨC XĂNG DẦU PHA CHẾ\nBan hành kèm theo Thông tư số .../2016/TT-BTC ngày... tháng... năm... của Bộ Tài chính\nSTT\n(1) Tên nguyên liệu, xăng dầu trước khi pha chế (2) Chi tiêu Reserch Octane number(Ron) (3) Số lượng pha chế (m3) (4) Trọng lượng pha chế (Ton) (5) Định mức đầu vào (Ton) (6) Định mức đầu ra (Ton) (7) Tên xăng dầu sau pha chế (8) Chi tiêu Reserch Octane number(Ron) (9) Số lượng thành phẩm (10) Trọng lượng thành phẩm (11) 1 2 … Tổng cộng ……, ngày… tháng... năm...\nNGƯỜI LẬP BIỂU\n(ký, và ghi rõ họ tên) ……, ngày… tháng... năm... Công chức HQ quản lý kho NQ xăng dầu xác nhận (ký, đóng dấu công chức) ……, ngày… tháng... năm... Chủ kho NQ xăng dầu (ký, ghi rõ họ tên và đóng dấu) Mẫu\nPTDTL\nCục Hải quan.... Chi cục Hải quan..... Số:…\nPHIẾU THEO DÕI TRỪ LÙI C/O\nKèm theo C/O mẫu………, số tham chiếu……………… ngày…… tháng…… năm…………… Doanh nghiệp nhập khẩu: Tên hàng: Tổng số lượng hàng hóa khai báo trên C/O: Số tờ khai thực hiện trừ lùi C/O: Ngày đăng ký tờ khai: ……, Ngày....tháng...năm…\nLÃNH ĐẠO CHI CỤC\n(Ký tên, đóng dấu)\nSTT\n(1) Số lượng hàng làm thủ tục (2) Số lượng hàng còn lại (3) Xác nhận của công chức hải quan (4) Ghi chú (5) Lần 1 Lần 2 …… Tổng cộng Ghi chú: - Công chức hải quan ký, ghi rõ họ tên, đóng dấu công chức; - Khi doanh nghiệp đã nhập khẩu hết số lượng hàng hóa trên C/O thì công chức hải quan xác nhận đã nhập khẩu hết lượng hàng trên C/O vào phiếu theo dõi trừ lùi.",
+  "tree": {
+    "parts": [
+      {
+        "part_id": "doc:70574:part:1",
+        "part_type": "main",
+        "part_title": null,
+        "reference": null,
+        "direct_text": "THÔNG TƯ\nHƯỚNG DẪN THỦ TỤC HẢI QUAN ĐỐI VỚI HOẠT ĐỘNG\nXUẤT, NHẬP XĂNG DẦU, NGUYÊN LIỆU ĐỂ PHA CHẾ XĂNG DẦU VÀ HOẠT ĐỘNG PHA CHẾ CHUYỂN\nĐỔI CHỦNG LOẠI XĂNG DẦU TẠI KHO NGOẠI QUAN XĂNG DẦU\nCăn cứ Luật Hải quan số 54/2014/QH13 ngày 23 tháng 6 năm 2014; Căn cứ Luật Thuế xuất khẩu, thuế nhập khẩu số 45/2005/QH11 ngày 14 tháng 06 năm 2005; Căn cứ Luật Quản lý thuế số 78/2006/QH10 ngày 29 tháng 11 năm 2006; Luật sửa đổi, bổ sung một số điều của Luật quản lý thuế số 21/2012/QH13 ngày 20 tháng 11 năm 2012; Luật sửa đổi, bổ sung một số điều của các Luật về thuế số 71/2014/QH13 ngày 26 tháng 11 năm 2014; Căn cứ Luật Thương mại số 36/2005/QH11 ngày 14 tháng 6 năm 2005; Căn cứ Luật Chất lượng, sản phẩm hàng hóa số 05/2007/QH12 ngày 21 tháng 12 năm 2007; Căn cứ Nghị định số 08/2015/NĐ-CP ngày 21 tháng 01 năm 2015 của Chính phủ quy định chi tiết và biện pháp thi hành Luật Hải quan về thủ tục hải quan, kiểm tra, giám sát, kiểm soát hải quan; Căn cứ Nghị định số 12/2015/NĐ-CP ngày 12 tháng 2 năm 2015 của Chính phủ quy định chi tiết thi hành Luật sửa đổi, bổ sung một số điều của các Luật về thuế và sửa đổi, bổ sung một số Điều của các Nghị định về thuế; Căn cứ Nghị định số 87/2010/NĐ-CP ngày 13 tháng 8 năm 2010 của Chính phủ quy định chi tiết thi hành một số Điều của Luật thuế xuất khẩu, thuế nhập khẩu; Căn cứ Nghị định số 83/2014/NĐ-CP ngày 03 tháng 9 năm 2014 của Chính phủ về kinh doanh xăng dầu; Căn cứ Nghị định số 83/2013/NĐ-CP ngày 22 tháng 7 năm 2013 của Chính phủ quy định chi tiết thi hành một số điều của Luật quản lý thuế và Luật sửa đổi, bổ sung một số điều của Luật quản lý thuế; Căn cứ Nghị định số 187/2013/NĐ-CP ngày 20/11/2013 của Chính phủ quy định chi tiết thi hành Luật Thương mại về hoạt động mua bán hàng hóa quốc tế và các hoạt động đại lý mua, bán, gia công và quá cảnh hàng hóa với nước ngoài; Căn cứ Nghị định số 215/2013/NĐ-CP ngày 23 tháng 12 năm 2013 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài chính; Theo đề nghị của Tổng cục trưởng Tổng cục Hải quan, Bộ trưởng Bộ Tài chính ban hành Thông tư hướng dẫn thủ tục hải quan đối với hoạt động xuất, nhập xăng dầu, nguyên liệu để pha chế xăng dầu; hoạt động pha chế, chuyển đổi chủng loại xăng dầu tại kho ngoại quan xăng dầu. Chương\nI QUY ĐỊNH CHUNG\nPhụ lục đính kèm Thông tư này).\n4. Trách nhiệm của chủ\nkho:\na) Nộp hồ sơ theo quy\nđịnh tại khoản 1 Điều này;\nb) Thực hiện giám định\nkhối lượng, chủng loại lô hàng thông qua thương nhân kinh doanh dịch vụ giám định;\nc) Xăng dầu sau chuyển\nloại phải được xuất kho đưa ra nước ngoài theo đúng thời hạn tại hợp đồng mua bán hoặc hợp đồng dịch vụ chuyển loại;\nd) Vào ngày làm việc\ncủa tháng tiếp theo, chủ kho tổng hợp báo cáo Chi cục Hải quan quản lý kho về xăng dầu sau chuyển loại tại kho (theo Mẫu BC03-XDCL Phụ lục đính kèm Thông tư này).",
+        "chapters": [],
+        "sections": [],
+        "articles": [
+          {
+            "article_id": "doc:70574:part:1:article:1",
+            "number": "1",
+            "title": "Phạm vi điều chỉnh Thông tư này quy định thủ tục hải quan đối với hoạt động xuất, nhập xăng dầu, nguyên liệu để tồn chứa, pha chế xăng dầu và hoạt động pha chế, chuyển đổi chủng loại xăng dầu tại kho ngoại quan xăng dầu.",
+            "content": "Điều 1. Phạm vi điều chỉnh Thông tư này quy định thủ tục hải quan đối với hoạt động xuất, nhập xăng dầu, nguyên liệu để tồn chứa, pha chế xăng dầu và hoạt động pha chế, chuyển đổi chủng loại xăng dầu tại kho ngoại quan xăng dầu.",
+            "clauses": [],
+            "points": []
+          },
+          {
+            "article_id": "doc:70574:part:1:article:2",
+            "number": "2",
+            "title": "Đối tượng áp dụng",
+            "content": "Điều 2. Đối tượng áp dụng",
+            "clauses": [
+              {
+                "clause_id": "doc:70574:part:1:article:2:clause:1",
+                "number": "1",
+                "content": "1. Thương nhân đầu mối\ntheo quy định tại Nghị định số 83/2014/NĐ-CP ngày 03 tháng 9 năm 2014 của Chính phủ về kinh doanh xăng dầu và thương nhân nước ngoài (sau đây gọi là chủ hàng).",
+                "points": []
+              },
+              {
+                "clause_id": "doc:70574:part:1:article:2:clause:2",
+                "number": "2",
+                "content": "2. Công ty kinh doanh\nkho ngoại quan xăng dầu (sau đây gọi là chủ kho);",
+                "points": []
+              },
+              {
+                "clause_id": "doc:70574:part:1:article:2:clause:3",
+                "number": "3",
+                "content": "3. Thương nhân kinh\ndoanh dịch vụ giám định.",
+                "points": []
+              },
+              {
+                "clause_id": "doc:70574:part:1:article:2:clause:4",
+                "number": "4",
+                "content": "4. Cơ quan Hải quan,\ncông chức hải quan;",
+                "points": []
+              },
+              {
+                "clause_id": "doc:70574:part:1:article:2:clause:5",
+                "number": "5",
+                "content": "5. Cơ quan quản lý\nnhà nước về đo lường, chất lượng và cơ quan nhà nước, tổ chức, cá nhân khác có liên quan;",
+                "points": []
+              }
+            ],
+            "points": []
+          },
+          {
+            "article_id": "doc:70574:part:1:article:3",
+            "number": "3",
+            "title": "Quy định về chuyển đổi chủng loại và pha chế xăng dầu trong kho ngoại quan xăng dầu",
+            "content": "Điều 3. Quy định về chuyển đổi chủng loại và pha chế xăng dầu trong kho ngoại quan xăng dầu",
+            "clauses": [
+              {
+                "clause_id": "doc:70574:part:1:article:3:clause:1",
+                "number": "1",
+                "content": "1. Chuyển đổi chủng\nloại xăng dầu (sau đây gọi là chuyển loại xăng dầu) Xăng dầu chứa trong kho ngoại quan xăng dầu (sau đây gọi là kho) chỉ được phép chuyển loại để xuất kho đưa ra nước ngoài theo yêu cầu của chủ hàng trên cơ sở hợp đồng mua bán hoặc hợp đồng dịch vụ chuyển loại để đưa ra nước ngoài, cụ thể:",
+                "points": [
+                  {
+                    "point_id": "doc:70574:part:1:article:3:clause:1:point:1",
+                    "label": "a",
+                    "content": "a) Chỉ được chuyển loại\nxăng dầu tương ứng với số lượng, chủng loại phù hợp với từng hợp đồng mua bán hoặc hợp đồng dịch vụ chuyển loại để đưa ra nước ngoài; và",
+                    "children": []
+                  },
+                  {
+                    "point_id": "doc:70574:part:1:article:3:clause:1:point:2",
+                    "label": "b",
+                    "content": "b) Hợp đồng mua bán\nhoặc hợp đồng dịch vụ chuyển loại để đưa ra nước ngoài quy định rõ số lượng, chủng loại, nơi nhận hàng là cảng, địa điểm ở nước ngoài; và",
+                    "children": []
+                  },
+                  {
+                    "point_id": "doc:70574:part:1:article:3:clause:1:point:3",
+                    "label": "c",
+                    "content": "c) Xăng dầu đã chuyển\nloại đưa ra nước ngoài không được tái nhập, chuyển tiêu thụ nội địa.",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "clause_id": "doc:70574:part:1:article:3:clause:2",
+                "number": "2",
+                "content": "2. Pha chế xăng dầu:",
+                "points": [
+                  {
+                    "point_id": "doc:70574:part:1:article:3:clause:2:point:1",
+                    "label": "a",
+                    "content": "a) Việc pha chế xăng\ndầu được thực hiện bằng hình thức: a.1) bơm từ các bồn bể khác nhau vào chung một bồn, bể; a.2) được pha chế trên tuyến ống; a.3) các hình thức pha chế khác (nếu có).",
+                    "children": []
+                  },
+                  {
+                    "point_id": "doc:70574:part:1:article:3:clause:2:point:2",
+                    "label": "b",
+                    "content": "b) Chủ kho có trách\nnhiệm lưu trữ và xuất trình cho Chi cục Hải quan quản lý kho khi được yêu cầu đầy đủ các số liệu về số lượng, chủng loại các nguyên liệu, phụ gia, thành phẩm đầu vào khi pha chế cũng như các số liệu về số lượng, chủng loại, chất lượng, tỷ lệ hao hụt của các nguyên liệu, thành phẩm là sản phẩm của quá trình pha chế và chịu trách nhiệm trước pháp luật về chất lượng của nguyên liệu, phụ gia và thành phẩm trước, sau quá trình pha chế và tỉ lệ hao hụt trong quá trình pha chế.",
+                    "children": []
+                  }
+                ]
+              }
+            ],
+            "points": []
+          },
+          {
+            "article_id": "doc:70574:part:1:article:4",
+            "number": "4",
+            "title": "Một số quy định cụ thể",
+            "content": "Điều 4. Một số quy định cụ thể\n1. Đối với việc bơm\nxăng dầu, nguyên liệu nhập, xuất kho: Xăng dầu, nguyên liệu chỉ được xuất, nhập kho sau khi đã hoàn thành đăng ký tờ khai nhập kho, khai báo xuất kho, và chịu sự giám sát của cơ quan Hải quan theo quy định. Chủ kho được bơm xăng dầu, nguyên liệu theo quy định dưới đây:\na) Trên cơ sở hợp đồng\nthuê kho với chủ hàng (trường hợp chủ hàng đồng thời là chủ kho thì không yêu cầu hợp đồng thuê kho), chủ kho bơm xăng dầu, nguyên liệu từ phương tiện vận chuyển xăng dầu, nguyên liệu vào bồn, bể thuộc kho. Trường hợp bơm xăng dầu, nguyên liệu vào bồn, bể đã chứa xăng dầu, nguyên liệu, chủ kho phải đảm bảo cùng chủng loại, cùng chất lượng với xăng dầu, nguyên liệu đang chứa trong bồn, bể đó và chủ kho chịu trách nhiệm về chủng loại, chất lượng.\nb) Công chức hải quan\ncăn cứ vào chứng thư giám định xăng dầu để quản lý kho, bồn bể của kho, khối lượng xăng dầu nhập, xuất kho. Trường hợp chủ kho có bồn bể liên hoàn và có hệ thống máy tính kiểm soát việc bơm xăng dầu, nguyên liệu đã đáp ứng quy định tại khoản 20 Điều 4 Thông tư số 69/2016/TT-BTC ngày 06 tháng 05 năm 2016 của Bộ trưởng Bộ Tài chính quy định thủ tục hải quan đối với xăng dầu, hóa chất, khí xuất khẩu, nhập khẩu, tạm nhập tái xuất, chuyển khẩu, quá cảnh; nguyên liệu nhập khẩu để sản xuất và pha chế hoặc gia công xuất khẩu xăng dầu, khí; dầu thô xuất khẩu, nhập khẩu; hàng hóa xuất khẩu, nhập khẩu phục vụ hoạt động dầu khí (sau đây gọi là Thông tư số 69/2016/TT-BTC) thì chủ kho thông báo việc bơm xăng dầu, nguyên liệu cho cơ quan hải quan (bao gồm các thông tin về địa điểm, thời gian, khối lượng bơm) và cơ quan hải quan căn cứ vào số liệu của hệ thống máy tính để giám sát quản lý kho, bồn bể của kho, khối lượng xăng dầu xuất, nhập kho.\nc) Chi cục trưởng Chi\ncục Hải quan quản lý kho căn cứ tình hình thực tế giám sát quyết định hình thức giám sát phù hợp.\n2. Thời hạn lưu giữ,\nbảo quản xăng dầu, nguyên liệu tại kho phải phù hợp với hợp đồng thuê kho, hợp đồng pha chế hoặc hợp đồng chuyển loại và tuân thủ nội dung quy định tại Điều 61 Luật Hải quan năm 2014, Điều 84 Nghị định số 08/2015/NĐ-CP ngày 21/01/2015 của Chính phủ quy định chi tiết và biện pháp thi hành Luật Hải quan về thủ tục hải quan, kiểm tra, giám sát hải quan (sau đây gọi là Nghị định số 08/2015/NĐ-CP).\n3. Giấy Thông báo kiểm\ntra nhà nước về chất lượng: Xăng dầu, nguyên liệu xuất kho đưa vào nội địa thuộc danh mục hàng hóa phải kiểm tra nhà nước về chất lượng, thương nhân nộp cho cơ quan Hải quan bản chính giấy Thông báo kết quả kiểm tra trước khi thông quan hàng hóa; Trường hợp áp dụng cơ chế một cửa quốc gia, cơ quan quản lý chuyên ngành gửi giấy Thông báo kết quả kiểm tra dưới dạng điện tử thông qua Cổng thông tin một cửa quốc gia, người khai hải quan không phải nộp khi làm thủ tục hải quan.\n4. Xác định khối lượng,\nchủng loại xăng dầu, nguyên liệu và xăng dầu sau pha chế, chuyển loại nhập, xuất kho:\na) Xăng dầu, nguyên\nliệu nhập kho; xăng dầu sau pha chế, chuyển loại phải được giám định khối lượng, chủng loại. Chủ kho hoặc chủ hàng thực hiện đăng ký giám định và nộp giấy chứng nhận cho cơ quan Hải quan trong thời hạn 8 giờ (kể từ khi kết thúc bơm xăng dầu, nguyên liệu vào bồn, bể hoặc kết thúc hoạt động pha chế, chuyển loại). Chi cục Hải quan quản lý kho xác nhận qua khu vực giám sát theo chứng thư giám định khối lượng, chủng loại xăng dầu, nguyên liệu đã nhập, xuất kho trên Hệ thống hoặc trên tờ khai hải quan theo mẫu HQ/2015/NK tại Phụ lục IV ban hành kèm Thông tư 38/2015/TT-BTC ngày 25/3/2015 của Bộ trưởng Bộ Tài chính quy định về thủ tục hải quan; kiểm tra giám sát hải quan; thuế xuất khẩu, thuế nhập khẩu và quản lý thuế đối với hàng hóa xuất khẩu, nhập khẩu (sau đây gọi là Thông tư số 38/2015/TT-BTC).\n5. Đối với xăng dầu,\nxăng dầu sau pha chế, chuyển loại xuất kho được lấy ra từ bồn, bể thì việc giám định về khối lượng, chủng loại và kiểm tra nhà nước về chất lượng (nếu có) là việc giám định, kiểm tra cho cả lô hàng xuất; không yêu cầu phải giám định và kiểm tra xăng dầu riêng lẻ cho từng phương tiện vận tải xăng dầu của lô hàng đã giám định và kiểm tra.\n6. Lấy mẫu xăng dầu,\nnguyên liệu nhập kho và xăng dầu sau pha chế, chuyển loại xuất kho (nếu có): Chủ hàng, chủ kho có trách nhiệm lấy mẫu xăng dầu, nguyên liệu nhập kho, xăng dầu sau pha chế, chuyển loại xuất kho. Việc lấy mẫu được thực hiện dưới sự giám sát của công chức Hải quan và được niêm phong theo quy định.\n7. Tỷ lệ hao hụt đối\nvới hoạt động nhập, xuất, pha chế, chuyển loại, bảo quản, tồn trữ xăng dầu trong kho được xác định căn cứ vào chứng thư giám định của Thương nhân kinh doanh dịch vụ giám định. Trường hợp xăng dầu nhập khẩu tiêu thụ nội địa thì tỷ lệ hao hụt căn cứ vào các quy định hiện hành của Bộ Công thương.\n8. Trước khi tiến\nhành pha chế, chuyển loại xăng dầu, chủ kho phải thông báo bằng văn bản cho Chi cục Hải quan quản lý kho trước 8 giờ làm việc. Chương\nII QUY ĐỊNH CỤ THỂ",
+            "clauses": [],
+            "points": []
+          },
+          {
+            "article_id": "doc:70574:part:1:article:5",
+            "number": "5",
+            "title": "Thủ tục hải quan đối với xăng dầu, nguyên liệu từ nước ngoài nhập kho ngoại quan xăng dầu",
+            "content": "Điều 5. Thủ tục hải quan đối với xăng dầu, nguyên liệu từ nước ngoài nhập kho ngoại quan xăng dầu",
+            "clauses": [
+              {
+                "clause_id": "doc:70574:part:1:article:5:clause:1",
+                "number": "1",
+                "content": "1. Hồ sơ hải quan:",
+                "points": [
+                  {
+                    "point_id": "doc:70574:part:1:article:5:clause:1:point:1",
+                    "label": "a",
+                    "content": "a) Tờ khai hàng hóa\nnhập khẩu theo các chỉ tiêu thông tin tại Phụ lục II và khai vận chuyển kết hợp theo quy định tại điểm a khoản 2 Điều 51 Thông tư số 38/2015/TT-BTC ; Trường hợp thực hiện trên tờ khai hải quan giấy theo quy định tại khoản 2 Điều 25 Nghị định số 08/2015/NĐ-CP , người khai hải quan khai và nộp 02 bản chính tờ khai hàng hóa nhập khẩu theo mẫu HQ/2015/NK Phụ lục IV ban hành kèm Thông tư số 38/2015/TT-BTC .",
+                    "children": []
+                  },
+                  {
+                    "point_id": "doc:70574:part:1:article:5:clause:1:point:2",
+                    "label": "b",
+                    "content": "b) Vận tải đơn hoặc\ncác chứng từ vận tải khác có giá trị tương đương theo quy định của pháp luật (trừ hàng hóa nhập khẩu qua cửa khẩu biên giới đường bộ): Nộp 01 bản chụp;",
+                    "children": []
+                  },
+                  {
+                    "point_id": "doc:70574:part:1:article:5:clause:1:point:3",
+                    "label": "c",
+                    "content": "c) Hợp đồng thuê kho:\nXuất trình cho cơ quan Hải quan khi được yêu cầu; Trường hợp chủ hàng đồng thời là chủ kho thì không yêu cầu hợp đồng thuê kho. Thời hạn gửi kho áp dụng như đối với trường hợp có hợp đồng thuê kho và được tính từ ngày cơ quan hải quan xác nhận hàng hóa đã qua khu vực giám sát trên Hệ thống. Trường hợp chủ kho thay mặt chủ hàng thực hiện khai báo hải quan thì chủ kho phải là đại lý làm thủ tục hải quan theo quy định.",
+                    "children": []
+                  },
+                  {
+                    "point_id": "doc:70574:part:1:article:5:clause:1:point:4",
+                    "label": "d",
+                    "content": "d) Chứng thư giám định\nkhối lượng, chủng loại: Nộp 01 bản chính trong thời gian 8 giờ làm việc kể từ khi kết thúc bơm xăng dầu, nguyên liệu từ phương tiện vận tải xăng dầu, nguyên liệu vào bồn, bể chứa tại kho.",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "clause_id": "doc:70574:part:1:article:5:clause:2",
+                "number": "2",
+                "content": "2. Trách nhiệm của\nChi cục Hải quan quản lý kho:",
+                "points": [
+                  {
+                    "point_id": "doc:70574:part:1:article:5:clause:2:point:1",
+                    "label": "a",
+                    "content": "a) Thực hiện theo quy\nđịnh tại điểm b khoản 1 Điều 91 Thông tư số 38/2015/TT-BTC ;",
+                    "children": []
+                  },
+                  {
+                    "point_id": "doc:70574:part:1:article:5:clause:2:point:2",
+                    "label": "b",
+                    "content": "b) Cập nhật thông tin\nđến đích của lô hàng nhập kho trên Hệ thống;",
+                    "children": []
+                  },
+                  {
+                    "point_id": "doc:70574:part:1:article:5:clause:2:point:3",
+                    "label": "c",
+                    "content": "c) Vào ngày làm việc\nthứ hai của tháng tiếp theo, Chi cục Hải quan quản lý kho có trách nhiệm báo cáo Cục Hải quan tỉnh/thành phố về xăng dầu, nguyên liệu nhập kho (theo Mẫu BC01-XDVRK Phụ lục đính kèm Thông tư này).",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "clause_id": "doc:70574:part:1:article:5:clause:3",
+                "number": "3",
+                "content": "3. Trách nhiệm của Cục\nHải quan tỉnh/thành phố: Mỗi quý, vào ngày 05 tháng đầu tiên của quý tiếp theo, Cục Hải quan tỉnh/thành phố căn cứ báo cáo xăng dầu, nguyên liệu nhập kho của Chi cục Hải quan quản lý kho tổng hợp báo cáo Tổng cục Hải quan về xăng dầu, nguyên liệu nhập kho thuộc địa bàn quản lý (theo Mẫu BC01-XDVRK Phụ lục đính kèm Thông tư này).",
+                "points": []
+              },
+              {
+                "clause_id": "doc:70574:part:1:article:5:clause:4",
+                "number": "4",
+                "content": "4. Trách nhiệm của chủ\nkho, chủ hàng:",
+                "points": [
+                  {
+                    "point_id": "doc:70574:part:1:article:5:clause:4:point:1",
+                    "label": "a",
+                    "content": "a) Khai tờ khai hàng\nhóa nhập khẩu, nộp, lưu giữ các chứng từ liên quan theo quy định tại khoản 1 Điều này;",
+                    "children": []
+                  },
+                  {
+                    "point_id": "doc:70574:part:1:article:5:clause:4:point:2",
+                    "label": "b",
+                    "content": "b) Thực hiện giám định\nkhối lượng, chủng loại lô hàng thông qua thương nhân kinh doanh dịch vụ giám định;",
+                    "children": []
+                  },
+                  {
+                    "point_id": "doc:70574:part:1:article:5:clause:4:point:3",
+                    "label": "c",
+                    "content": "c) Đảm bảo nguyên trạng\nxăng dầu, nguyên liệu từ nước ngoài nhập kho chứa trong bồn bể trong thời gian chờ thông báo kết quả giám định;",
+                    "children": []
+                  },
+                  {
+                    "point_id": "doc:70574:part:1:article:5:clause:4:point:4",
+                    "label": "d",
+                    "content": "d) Vào ngày làm việc\nđầu tiên của tháng tiếp theo, chủ kho tổng hợp báo cáo Chi cục Hải quan quản lý kho về xăng dầu, nguyên liệu nhập kho (theo Mẫu BC02-XDVRK Phụ lục đính kèm Thông tư này);",
+                    "children": []
+                  },
+                  {
+                    "point_id": "doc:70574:part:1:article:5:clause:4:point:5",
+                    "label": "đ",
+                    "content": "đ) Cập nhật thông tin\nxăng dầu nhập kho vào phần mềm quản lý hàng hóa nhập, xuất kho của chủ kho và gửi đến Chi cục Hải quan quản lý kho.",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "clause_id": "doc:70574:part:1:article:5:clause:5",
+                "number": "5",
+                "content": "5. Xăng dầu, nguyên\nliệu từ nước ngoài đưa vào kho ngoại quan xăng dầu không phải nộp thuế nhập khẩu, thuế tiêu thụ đặc biệt, thuế bảo vệ môi trường và thuế giá trị gia tăng.",
+                "points": []
+              }
+            ],
+            "points": []
+          },
+          {
+            "article_id": "doc:70574:part:1:article:6",
+            "number": "6",
+            "title": "Thủ tục hải quan đối với xăng dầu, nguyên liệu từ nội địa nhập kho ngoại quan xăng dầu.",
+            "content": "Điều 6. Thủ tục hải quan đối với xăng dầu, nguyên liệu từ nội địa nhập kho ngoại quan xăng dầu.",
+            "clauses": [
+              {
+                "clause_id": "doc:70574:part:1:article:6:clause:1",
+                "number": "1",
+                "content": "1. Hồ sơ hải quan:",
+                "points": [
+                  {
+                    "point_id": "doc:70574:part:1:article:6:clause:1:point:1",
+                    "label": "a",
+                    "content": "a) Hợp đồng thuê kho:\nXuất trình cho cơ quan Hải quan khi được yêu cầu; Trường hợp chủ hàng đồng thời là chủ kho thì không yêu cầu hợp đồng thuê kho. Thời hạn gửi kho áp dụng như đối với trường hợp có hợp đồng thuê kho và được tính từ ngày cơ quan hải quan xác nhận hàng hóa đã qua khu vực giám sát trên Hệ thống. Trường hợp chủ kho thay mặt chủ hàng thực hiện khai báo hải quan thì chủ kho phải là đại lý làm thủ tục hải quan theo quy định.",
+                    "children": []
+                  },
+                  {
+                    "point_id": "doc:70574:part:1:article:6:clause:1:point:2",
+                    "label": "b",
+                    "content": "b) Chứng thư giám định\nvề khối lượng, chủng loại: Nộp 01 bản chính;",
+                    "children": []
+                  },
+                  {
+                    "point_id": "doc:70574:part:1:article:6:clause:1:point:3",
+                    "label": "c",
+                    "content": "c) Quyết định buộc\ntái xuất của cơ quan có thẩm quyền (đối với trường hợp buộc tái xuất): Nộp 01 bản chụp có đóng dấu xác nhận của chủ hàng hoặc người được chủ hàng ủy quyền.",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "clause_id": "doc:70574:part:1:article:6:clause:2",
+                "number": "2",
+                "content": "2. Trách nhiệm của\nChi cục Hải quan quản lý kho:",
+                "points": [
+                  {
+                    "point_id": "doc:70574:part:1:article:6:clause:2:point:1",
+                    "label": "a",
+                    "content": "a) Thực hiện quy định\ntại điểm b khoản 2 Điều 91 Thông tư số 38/2015/TT-BTC ;",
+                    "children": []
+                  },
+                  {
+                    "point_id": "doc:70574:part:1:article:6:clause:2:point:2",
+                    "label": "b",
+                    "content": "b) Xác nhận “hàng đã\nđược đưa vào kho” trên tờ khai hải quan giấy (trường hợp khai trên tờ khai hải quan giấy);",
+                    "children": []
+                  },
+                  {
+                    "point_id": "doc:70574:part:1:article:6:clause:2:point:3",
+                    "label": "c",
+                    "content": "c) Vào ngày làm việc\nthứ hai của tháng tiếp theo, Chi cục Hải quan quản lý kho có trách nhiệm báo cáo Cục Hải quan tỉnh/thành phố về xăng dầu, nguyên liệu từ nội địa nhập kho (theo Mẫu BC01-XDVRK Phụ lục đính kèm Thông tư này).",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "clause_id": "doc:70574:part:1:article:6:clause:3",
+                "number": "3",
+                "content": "3. Trách nhiệm của chủ\nkho, chủ hàng:",
+                "points": [
+                  {
+                    "point_id": "doc:70574:part:1:article:6:clause:3:point:1",
+                    "label": "a",
+                    "content": "a) Thực hiện theo quy\nđịnh tại điểm a khoản 2 Điều 91 Thông tư số 38/2015/TT-BTC ;",
+                    "children": []
+                  },
+                  {
+                    "point_id": "doc:70574:part:1:article:6:clause:3:point:2",
+                    "label": "b",
+                    "content": "b) Nộp, lưu giữ hồ sơ\ntheo quy định tại khoản 1 Điều này;",
+                    "children": []
+                  },
+                  {
+                    "point_id": "doc:70574:part:1:article:6:clause:3:point:3",
+                    "label": "c",
+                    "content": "c) Thực hiện giám định\nkhối lượng, chủng loại lô hàng thông qua thương nhân kinh doanh dịch vụ giám định;",
+                    "children": []
+                  },
+                  {
+                    "point_id": "doc:70574:part:1:article:6:clause:3:point:4",
+                    "label": "d",
+                    "content": "d) Đảm bảo nguyên trạng\nxăng dầu, nguyên liệu từ nội địa đưa vào kho chứa trong bồn bể trong thời gian chờ thông báo kết quả giám định;",
+                    "children": []
+                  },
+                  {
+                    "point_id": "doc:70574:part:1:article:6:clause:3:point:5",
+                    "label": "đ",
+                    "content": "đ) Vào ngày làm việc\nđầu tiên của tháng tiếp theo, chủ kho tổng hợp báo cáo Chi cục Hải quan quản lý kho về xăng dầu, nguyên liệu xuất kho (theo Mẫu BC02-XDVRK Phụ lục đính kèm Thông tư này);",
+                    "children": []
+                  },
+                  {
+                    "point_id": "doc:70574:part:1:article:6:clause:3:point:6",
+                    "label": "e",
+                    "content": "e) Cập nhật thông tin\nxăng dầu nhập kho vào phần mềm quản lý hàng hóa nhập, xuất kho của chủ kho và gửi đến Chi cục Hải quan quản lý kho.",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "clause_id": "doc:70574:part:1:article:6:clause:4",
+                "number": "4",
+                "content": "4. Xăng dầu, nguyên\nliệu từ nội địa đưa vào kho ngoại quan xăng dầu phải nộp thuế xuất khẩu như đối với hàng hóa xuất khẩu ra nước ngoài.",
+                "points": []
+              }
+            ],
+            "points": []
+          },
+          {
+            "article_id": "doc:70574:part:1:article:7",
+            "number": "7",
+            "title": "Thủ tục hải quan đối với chuyển loại xăng dầu trong kho ngoại quan xăng dầu.",
+            "content": "Điều 7. Thủ tục hải quan đối với chuyển loại xăng dầu trong kho ngoại quan xăng dầu.",
+            "clauses": [
+              {
+                "clause_id": "doc:70574:part:1:article:7:clause:1",
+                "number": "1",
+                "content": "1. Hồ sơ hải quan:",
+                "points": [
+                  {
+                    "point_id": "doc:70574:part:1:article:7:clause:1:point:1",
+                    "label": "a",
+                    "content": "a) Văn bản đề nghị được\nchuyển loại xăng dầu và phương án chuyển loại (trong đó nêu rõ xăng dầu dự kiến chuyển loại thuộc tờ khai nào, lý do chuyển loại, số lượng dự kiến chuyển loại): Nộp 01 bản chính;",
+                    "children": []
+                  },
+                  {
+                    "point_id": "doc:70574:part:1:article:7:clause:1:point:2",
+                    "label": "b",
+                    "content": "b) Hợp đồng mua bán\nhoặc hợp đồng dịch vụ chuyển loại xăng dầu theo quy định tại khoản 1 Điều 3 Thông tư này: Nộp 01 bản chụp có đóng dấu xác nhận của chủ kho;",
+                    "children": []
+                  },
+                  {
+                    "point_id": "doc:70574:part:1:article:7:clause:1:point:3",
+                    "label": "c",
+                    "content": "c) Chứng thư giám định\nvề khối lượng, chủng loại của xăng dầu dự kiến chuyển loại: Nộp 01 bản chính;",
+                    "children": []
+                  },
+                  {
+                    "point_id": "doc:70574:part:1:article:7:clause:1:point:4",
+                    "label": "d",
+                    "content": "d) Bảng kê xăng dầu\nsau chuyển loại (theo Mẫu BK01-XDSCL Phụ lục đính kèm Thông tư này): Nộp 02 bản chính.",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "clause_id": "doc:70574:part:1:article:7:clause:2",
+                "number": "2",
+                "content": "2. Trách nhiệm của\nChi cục Hải quan quản lý kho:",
+                "points": [
+                  {
+                    "point_id": "doc:70574:part:1:article:7:clause:2:point:1",
+                    "label": "a",
+                    "content": "a) Sau khi nhận hồ sơ\nphù hợp với quy định tại điểm a khoản 1 Điều này, Chi cục Hải quan quản lý kho xác nhận trên Bảng kê xăng dầu sau chuyển loại, trả chủ kho 01 bản chính, lưu cơ quan Hải quan 01 bản chính;",
+                    "children": []
+                  },
+                  {
+                    "point_id": "doc:70574:part:1:article:7:clause:2:point:2",
+                    "label": "b",
+                    "content": "b) Giám sát, đảm bảo\nxăng dầu sau chuyển loại phải được xuất kho để đưa ra nước ngoài;",
+                    "children": []
+                  },
+                  {
+                    "point_id": "doc:70574:part:1:article:7:clause:2:point:3",
+                    "label": "c",
+                    "content": "c) Vào ngày làm việc\nthứ hai của tháng tiếp theo, Chi cục Hải quan quản lý kho báo cáo Cục Hải quan tỉnh/thành phố về xăng dầu sau chuyển loại tại kho (theo Mẫu BC03-XDCL Phụ lục đính kèm Thông tư này).",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "clause_id": "doc:70574:part:1:article:7:clause:3",
+                "number": "3",
+                "content": "3. Trách nhiệm của Cục\nHải quan tỉnh/thành phố: Mỗi quý, vào ngày 05 tháng đầu tiên của quý tiếp theo, Cục Hải quan tỉnh/thành phố căn cứ báo cáo xăng dầu sau chuyển loại của Chi cục Hải quan tổng hợp báo cáo Tổng cục Hải quan về xăng dầu chuyển loại tại kho trong địa bàn quản lý (theo Mẫu BC03-XDCL",
+                "points": []
+              }
+            ],
+            "points": []
+          },
+          {
+            "article_id": "doc:70574:part:1:article:8",
+            "number": "8",
+            "title": "Thủ tục hải quan đối với pha chế xăng dầu trong kho ngoại quan xăng dầu.",
+            "content": "Điều 8. Thủ tục hải quan đối với pha chế xăng dầu trong kho ngoại quan xăng dầu.",
+            "clauses": [
+              {
+                "clause_id": "doc:70574:part:1:article:8:clause:1",
+                "number": "1",
+                "content": "1. Hồ sơ nộp hải\nquan:",
+                "points": [
+                  {
+                    "point_id": "doc:70574:part:1:article:8:clause:1:point:1",
+                    "label": "a",
+                    "content": "a) Trước khi tiến\nhành pha chế: a.1) Giấy chứng nhận đăng ký cơ sở pha chế xăng dầu: Nộp 01 bản chụp có xác nhận và đóng dấu của chủ kho; a.2) Văn bản đề nghị được pha chế xăng dầu và phương án pha chế: Nộp 01 bản chính; a.3) Tờ khai nhập kho của xăng dầu dự kiến pha chế: Nộp 01 bản chụp có đóng dấu xác nhận của chủ hàng hoặc người được chủ hàng ủy quyền; a.4) Hợp đồng thuê dịch vụ pha chế (đối với trường hợp thuê dịch vụ pha chế): Nộp 01 bản chụp có xác nhận và đóng dấu của chủ kho; a.5) Chứng thư giám định về khối lượng, chủng loại của xăng dầu, nguyên liệu là đầu vào của quá trình pha chế: Nộp 01 bản chụp từ bản chính có đóng dấu xác nhận của thương nhân.",
+                    "children": []
+                  },
+                  {
+                    "point_id": "doc:70574:part:1:article:8:clause:1:point:2",
+                    "label": "b",
+                    "content": "b) Sau khi tiến hành\npha chế: b.1) Chứng thư giám định về khối lượng, chủng loại và chất lượng của sản phẩm xăng dầu sau pha chế: Nộp 01 bản chính; b.2) Bảng kê xăng dầu sau pha chế (theo Mẫu BK02-XDPC Phụ lục đính kèm Thông tư này): Nộp 02 bản chính; b.3) Bảng định mức xăng dầu sau pha chế (theo Mẫu BĐMXDPC Phụ lục đính kèm Thông tư này): Nộp 02 bản chính.",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "clause_id": "doc:70574:part:1:article:8:clause:2",
+                "number": "2",
+                "content": "2. Trách nhiệm của\nChi cục Hải quan quản lý kho:",
+                "points": [
+                  {
+                    "point_id": "doc:70574:part:1:article:8:clause:2:point:1",
+                    "label": "a",
+                    "content": "a) Sau khi nhận hồ sơ\nphù hợp với quy định tại điểm a khoản 1 Điều này, lãnh đạo Chi cục Hải quan quản lý kho cho phép tiến hành pha chế và quyết định hình thức giám sát phù hợp;",
+                    "children": []
+                  },
+                  {
+                    "point_id": "doc:70574:part:1:article:8:clause:2:point:2",
+                    "label": "b",
+                    "content": "b) Công chức hải quan\ngiám sát việc pha chế xăng dầu, tổng hợp thống kê số liệu, theo dõi xăng dầu, nguyên liệu đầu vào của quá trình pha chế và xăng dầu sau pha chế;",
+                    "children": []
+                  },
+                  {
+                    "point_id": "doc:70574:part:1:article:8:clause:2:point:3",
+                    "label": "c",
+                    "content": "c) Kết thúc quá trình\npha chế, xác nhận trên Bảng kê xăng dầu sau pha chế quy định tại điểm b2 khoản 1 Điều này, trả chủ kho 01 bản chính, lưu cơ quan Hải quan 01 bản chính;",
+                    "children": []
+                  },
+                  {
+                    "point_id": "doc:70574:part:1:article:8:clause:2:point:4",
+                    "label": "d",
+                    "content": "d) Vào ngày làm việc\nthứ hai của tháng tiếp theo, Chi cục Hải quan quản lý kho báo cáo Cục Hải quan tỉnh/thành phố về xăng dầu sau pha chế tại kho (theo Mẫu BC04-XDPC Phụ lục đính kèm Thông tư này).",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "clause_id": "doc:70574:part:1:article:8:clause:3",
+                "number": "3",
+                "content": "3. Trách nhiệm của Cục\nHải quan tỉnh/thành phố: Mỗi quý, vào ngày 05 tháng đầu tiên của quý tiếp theo, Cục Hải quan tỉnh, thành phố căn cứ báo cáo xăng dầu sau pha chế của Chi cục Hải quan quản lý kho tổng hợp báo cáo Tổng cục Hải quan về xăng dầu pha chế tại kho (theo Mẫu BC04-XDPC Phụ lục đính kèm Thông tư này).",
+                "points": []
+              },
+              {
+                "clause_id": "doc:70574:part:1:article:8:clause:4",
+                "number": "4",
+                "content": "4. Trách nhiệm của chủ\nkho:",
+                "points": [
+                  {
+                    "point_id": "doc:70574:part:1:article:8:clause:4:point:1",
+                    "label": "a",
+                    "content": "a) Nộp hồ sơ theo quy\nđịnh tại khoản 1 Điều này;",
+                    "children": []
+                  },
+                  {
+                    "point_id": "doc:70574:part:1:article:8:clause:4:point:2",
+                    "label": "b",
+                    "content": "b) Đảm bảo nguyên trạng\nxăng dầu, nguyên liệu nhập kho chứa trong bồn bể chứa xăng dầu, nguyên liệu dự kiến pha chế và xăng dầu sau pha chế trong thời gian chờ thông báo kết quả giám định;",
+                    "children": []
+                  },
+                  {
+                    "point_id": "doc:70574:part:1:article:8:clause:4:point:3",
+                    "label": "c",
+                    "content": "c) Sản phẩm xăng dầu\nsau pha chế được sử dụng làm nguyên liệu tiếp tục pha chế, chủ kho chịu trách nhiệm hoàn toàn về chất lượng trước, sau quá trình pha chế, tỉ lệ hao hụt trong quá trình pha chế và nộp bổ sung bản sao bộ hồ sơ đã pha chế đối với phần sản phẩm được sử dụng làm nguyên liệu pha chế;",
+                    "children": []
+                  },
+                  {
+                    "point_id": "doc:70574:part:1:article:8:clause:4:point:4",
+                    "label": "d",
+                    "content": "d) Vào ngày làm việc\nđầu tiên của tháng tiếp theo, chủ kho tổng hợp báo cáo Chi cục Hải quan quản lý kho về xăng dầu sau pha chế tại kho (theo Mẫu BC04-XDPC Phụ lục đính kèm Thông tư này);",
+                    "children": []
+                  },
+                  {
+                    "point_id": "doc:70574:part:1:article:8:clause:4:point:5",
+                    "label": "đ",
+                    "content": "đ) Chủ kho có trách\nnhiệm lưu trữ đầy đủ và xuất trình cho Chi cục Hải quan quản lý kho khi được yêu cầu đầy đủ các số liệu về số lượng, chủng loại các nguyên liệu, phụ gia, thành phẩm đầu vào khi pha chế cũng như các số liệu về số lượng, chủng loại, chất lượng, tỷ lệ hao hụt của các nguyên liệu, thành phẩm là sản phẩm của quá trình pha chế.",
+                    "children": []
+                  }
+                ]
+              }
+            ],
+            "points": []
+          },
+          {
+            "article_id": "doc:70574:part:1:article:9",
+            "number": "9",
+            "title": "Thủ tục hải quan đối với xăng dầu, nguyên liệu và xăng dầu sau khi pha chế, chuyển loại từ kho ngoại quan xăng dầu đưa ra nước ngoài.",
+            "content": "Điều 9. Thủ tục hải quan đối với xăng dầu, nguyên liệu và xăng dầu sau khi pha chế, chuyển loại từ kho ngoại quan xăng dầu đưa ra nước ngoài.\n1. Hồ sơ hải quan:\na) Phiếu xuất kho do\nchủ kho lập theo quy định về pháp luật kế toán, trong đó có ghi cụ thể xăng dầu xuất kho của từng tờ khai nhập kho: Nộp 01 bản chụp;\nb) Chứng thư giám định\nvề khối lượng, chủng loại: mỗi loại 01 bản chính;\n2. Trách nhiệm của\nChi cục Hải quan quản lý kho:\na) Thực hiện theo quy\nđịnh tại b khoản 3 Điều 91 Thông tư số 38/2015/TT-BTC ;\nb) Xăng dầu, nguyên\nliệu để pha chế, chuyển loại của một lần nhập kho được đưa ra khỏi kho ngoại quan một lần hoặc nhiều lần. Thủ tục hải quan đối với trường hợp này thực hiện theo quy định tại điểm b, điểm c khoản 2 Điều 93 Thông tư số 38/2015/TT-BTC ;\nc) Vào ngày làm việc\nthứ hai của tháng tiếp theo, Chi cục Hải quan quản lý kho báo cáo Cục Hải quan tỉnh/thành phố về xăng dầu xuất kho (theo Mẫu BC01-XDVRK Phụ lục đính kèm Thông tư này).\n3. Trách nhiệm của Cục\nHải quan tỉnh/thành phố: Mỗi quý, vào ngày 05 tháng đầu tiên của quý tiếp theo, Cục Hải quan tỉnh, thành phố căn cứ báo cáo của Chi cục Hải quan quản lý kho tổng hợp, báo cáo Tổng cục Hải quan về xăng dầu xuất kho (theo Mẫu BC01-XDVRK Phụ lục đính kèm Thông tư này).\n4. Trách nhiệm của chủ\nkho:\na) Trường hợp chủ kho\nthay mặt chủ hàng thực hiện khai báo hải quan thì chủ kho phải là đại lý khai thuê hải quan theo quy định;\nb) Nộp hồ sơ hải quan\ntheo quy định tại khoản 1 Điều này;\nc) Thực hiện giám định\nkhối lượng, chủng loại lô hàng thông qua thương nhân kinh doanh dịch vụ giám định;\nd) Vào ngày làm việc\nđầu tiên của tháng tiếp theo, chủ kho tổng hợp báo cáo Chi cục Hải quan quản lý kho về xăng dầu xuất kho (theo Mẫu BC02-XDVRK Phụ lục đính kèm Thông tư này);\nđ) Cập nhật thông tin\nxăng dầu xuất kho vào phần mềm quản lý hàng hóa nhập, xuất kho của chủ kho và gửi đến Chi cục Hải quan quản lý kho.\n5. Xăng dầu sau khi\npha chế trong kho khi xuất khẩu sản phẩm ra nước ngoài không phải nộp thuế xuất khẩu. Điều\n10. Thủ tục hải quan đối với xăng dầu, nguyên liệu và xăng dầu sau khi pha chế\ntừ kho ngoại quan xăng dầu đưa vào nội địa, các khu phi thuế quan.\n1. Thực hiện theo quy\nđịnh tại điểm a, điểm b khoản 4 Điều 91 Thông tư số 38/2015/TT-BTC .\na) Bộ hồ sơ nhập khẩu\nxăng dầu (thực hiện pha chế hoặc không thực hiện pha chế) từ kho vào nội địa không phải nộp vận đơn hoặc chứng từ vận tải. a.1) Trường hợp thương nhân làm thủ tục lần đầu tại Chi cục Hải quan thì nộp Giấy phép kinh doanh xuất khẩu, nhập khẩu xăng dầu do Bộ Thương mại cấp: 01 bản chụp có đóng dấu xác nhận của doanh nghiệp; a.2) Bảng hạn mức nhập khẩu xăng dầu tối thiểu hàng năm do Bộ Công Thương cấp (đối với xăng dầu nhập khẩu): Nộp 01 bản chụp có đóng dấu xác nhận của doanh nghiệp vào thời điểm đăng ký tờ khai đầu tiên hàng năm; a.3) Hóa đơn thương mại: thực hiện theo quy định tại điểm c khoản 2 Điều 7 Thông tư số 69/2016/TT-BTC .\nb) Người khai hải\nquan thực hiện thủ tục nhập khẩu xăng dầu, nguyên liệu và xăng dầu sau pha chế theo quy định đối với từng loại hình tương ứng, sau đó chủ kho thực hiện thủ tục xuất kho.\n2. Xăng dầu pha chế,\nsau đó chuyển tiêu thụ nội địa phải có chất lượng đáp ứng quy chuẩn kỹ thuật quốc gia và tiêu chuẩn công bố áp dụng.\n3. Trường hợp xăng dầu,\nnguyên liệu và xăng dầu sau pha chế trong kho làm thủ tục nhập khẩu vào nội địa nhiều lần thì hồ sơ hải quan đối với từng lần nhập khẩu được chấp nhận bộ chứng từ bản sao gồm bản kê chi tiết hàng hóa, giấy chứng nhận xuất xứ có đóng dấu xác nhận của Chi cục Hải quan quản lý kho, bản chính của các chứng từ do Chi cục Hải quan quản lý kho lưu.\n4. Người khai hải\nquan nộp đủ thuế theo quy định đối với xăng dầu, nguyên liệu và xăng dầu sau pha chế xuất kho nhập khẩu vào nội địa tại Chi cục Hải quan nơi thương nhân có hệ thống kho chứa xăng dầu trong nội địa. Trường hợp xăng dầu sau khi pha chế trong kho đã sử dụng toàn bộ nguyên liệu có nguồn gốc trong nước thì khi nhập khẩu sản phẩm sau pha chế vào nội địa Việt Nam không phải nộp thuế nhập khẩu. Trường hợp xăng, dầu sau khi pha chế trong kho có sử dụng toàn bộ nguyên liệu nhập khẩu từ nước ngoài thì khi nhập khẩu sản phẩm sau pha chế vào thị trường nội địa Việt Nam phải nộp các loại thuế như đối với xăng dầu nhập khẩu từ nước ngoài vào Việt Nam. Trường hợp sử dụng một phần nguyên liệu nhập khẩu từ nước ngoài kết hợp với nguyên liệu trong nước để pha chế trong kho, khi nhập khẩu sản phẩm sau pha chế vào thị trường nội địa, số thuế phải nộp căn cứ vào số lượng, mức thuế suất của mặt hàng nhập khẩu vào nội địa Việt Nam; trị giá hải quan tính trên phần nguyên liệu nhập khẩu từ nước ngoài cấu thành trong sản phẩm sau pha chế nhập khẩu vào nội địa Việt Nam. Trường hợp không xác định được trị giá hải quan đối với phần nguyên liệu có nguồn gốc nhập khẩu thì cơ quan hải quan ấn định thuế đối với phần nguyên liệu có nguồn gốc nhập khẩu cấu thành trong sản phẩm sau pha chế theo quy định pháp luật về quản lý thuế và pháp luật về trị giá hải quan. Việc xác định thuế suất thuế nhập khẩu ưu đãi hoặc thuế nhập khẩu ưu đãi đặc biệt được thực hiện theo quy định của pháp luật về thuế xuất khẩu, thuế nhập khẩu hiện hành.\n5. Thủ tục vận chuyển\nxăng dầu, nguyên liệu từ kho đến Chi cục Hải quan nơi đăng ký tờ khai nhập khẩu:\na) Thực hiện theo quy\nđịnh tại khoản 2 Điều 51 Thông tư số 38/2015/TT-BTC ;\nb) Trường hợp Hệ thống\nchưa hỗ trợ việc khai báo chuyển cửa khẩu: Doanh nghiệp có đơn đề nghị chuyển xăng dầu, nguyên liệu, xăng dầu sau pha chế tại kho nhập khẩu vào nội địa (theo mẫu số 22-CKHH/GSQL Phụ lục V ban hành kèm theo Thông tư số 38/2015/TT-BTC);\nc) Trường hợp xăng dầu\nđược giám định về khối lượng, chủng loại khi xếp hàng lên phương tiện vận chuyển tại kho và sau đó được chuyển đến Chi cục Hải quan nơi làm thủ tục hải quan nhập vào nội địa, lại được giám định về chủng loại và khối lượng trước khi được thông quan (Chi cục hải quan nơi làm thủ tục nhập khẩu ghi vào phần thông báo chỉ thị hải quan của tờ khai trên Hệ thống: được giám định về chủng loại và số lượng lại trước khi được thông quan) thì không phải niêm phong. Chi cục Hải quan quản lý kho, Chi cục Hải quan nơi hoàn thành thủ tục hải quan nhập vào nội địa căn cứ vào kết quả giám định để lập biên bản bàn giao và làm thủ tục hải quan, thương nhân kinh doanh dịch vụ giám định chịu trách nhiệm về kết quả giám định.\nđ) Vào ngày làm việc\nthứ hai của tháng tiếp theo, Chi cục Hải quan quản lý kho báo cáo Cục Hải quan tỉnh/thành phố về xăng dầu, nguyên liệu và xăng dầu sau pha chế từ kho đưa vào nội địa, các khu phi thuế quan (theo Mẫu BC01-XDVRK Phụ lục đính kèm Thông tư này).\ne) Trách nhiệm của Cục\nHải quan tỉnh/thành phố: Mỗi quý, vào ngày 05 tháng đầu tiên của quý tiếp theo, Cục Hải quan tỉnh/thành phố căn cứ báo cáo của Chi cục Hải quan quản lý kho tổng hợp, báo cáo Tổng cục Hải quan về xăng dầu, nguyên liệu và xăng dầu sau khi pha chế từ kho đưa vào nội địa, các khu phi thuế quan (theo Mẫu BC01-XDVRK Phụ lục đính kèm Thông tư này).\ng) Trách nhiệm của chủ\nkho, chủ hàng g.1) Giám định khối lượng lô hàng thông qua thương nhân kinh doanh dịch vụ giám định. Lô hàng nhập khẩu trước khi thông quan phải có giấy đăng ký kiểm tra nhà nước về chất lượng; g.2) Chủ hàng kê khai và nộp đầy đủ các loại thuế và lệ phí theo quy định; g.3) Vào ngày làm việc đầu tiên của tháng tiếp theo, chủ kho tổng hợp báo cáo Chi cục Hải quan quản lý kho về xăng dầu, nguyên liệu và xăng dầu sau pha chế (theo Mẫu BC02-XDVRK Phụ lục đính kèm Thông tư này); g.4) Cập nhật thông tin xăng dầu xuất kho vào phần mềm quản lý hàng hóa nhập, xuất kho của chủ kho và gửi đến Chi cục Hải quan quản lý kho.\n6. Trường hợp hàng\nhóa trong kho bán cho thương nhân nước ngoài và đã giao hàng qua lan can tàu tại cảng của kho sau đó khách hàng nước ngoài tiếp tục giao ngay cho một doanh nghiệp Việt Nam tại chính con tàu đã xếp hàng tại cảng của kho để nhập vào nội địa thì thực hiện thủ tục nhập khẩu theo quy định tại Mục 1 Chương II Thông tư số\n69/2016/TT-BTC .\n7. Khai báo trị giá hải\nquan đối với xăng dầu từ kho đưa vào nội địa.\na) Trường hợp mua bán\nhàng hóa có điều kiện giao hàng tại kho và doanh nghiệp chứng minh được trị giá khai báo là tương đương thì khai báo như sau: a1) Khai ô “điều kiện giá hóa đơn” là CFR, đồng thời tại ô “chi tiết khai trị giá” khai điều kiện giao hàng thực tế FOB và giải trình rõ lý do giá FOB= CFR; a2) Ô “tổng trị giá hóa đơn” nhập tổng giá trị trên hóa đơn.\nb) Xác định trị giá hải\nquan; b.1) Thực hiện theo quy định tại Thông tư 39/2015/TT-BTC ngày 25/3/2015 của Bộ Tài chính quy định về trị giá hải quan đối với hàng hóa xuất, nhập khẩu; b.2) Đối với hàng hóa xăng dầu được vận chuyển từ kho đến nơi làm thủ tục nhập khẩu vào nội địa thì các chi phí phát sinh từ kho đến nơi làm thủ tục nhập khẩu không phải cộng vào trị giá hải quan.\n8. Khai báo xuất xứ:\na) Trường hợp có yêu\ncầu hưởng thuế suất ưu đãi đặc biệt theo các Hiệp định thương mại tự do (FTAs), doanh nghiệp phải nộp C/O theo quy định; Đối với trường hợp khác, doanh nghiệp tự khai và tự chịu trách nhiệm về xuất xứ hàng hóa (không phải nộp C/O).\nb) Đối với sản phẩm\nxăng dầu nhập khẩu sau khi được pha chế trong kho, doanh nghiệp không yêu cầu hưởng thuế suất ưu đãi đặc biệt theo FTAs: b.1) Thực hiện quy định tại Nghị định 19/2006/NĐ-CP ngày 20/02/2006 của Chính phủ quy định chi tiết Luật Thương mại về xuất xứ hàng hóa, Thông tư 08/2006/TT-BTM ngày 17/04/2006 của Bộ trưởng Bộ Thương mại hướng dẫn cách xác định xuất xứ hàng hóa và tổng số lượng nhập khẩu phù hợp với xuất xứ và số lượng hàng ghi trên tờ khai nhập kho; b.2) Trường hợp lô hàng nhập khẩu vào nội địa được pha chế từ xăng dầu có nguồn gốc xuất xứ từ nhiều nước khác nhau, doanh nghiệp khai đại diện 01 nước tại ô xuất xứ hàng hóa trên tờ khai và khai báo xuất xứ các nước tại ô mô tả hàng hóa: “xăng dầu được pha chế từ xăng dầu có xuất xứ từ những nước...tương ứng với tờ khai nhập kho hoặc thuộc lô hàng pha chế số...(trong đó ghi đầy đủ tên các nước xuất xứ của lô hàng xăng dầu dùng để pha chế)”. Tại phần ghi chú trên tờ khai hải quan, khai báo “Xăng/dầu được pha chế trong kho ngoại quan xăng dầu…”\nc) Trường hợp lô hàng\nđưa vào kho để nhập khẩu vào nội địa nhiều lần thì xuất xứ hàng hóa mỗi lần nhập khẩu theo xuất xứ lô gốc. Cơ quan hải quan sẽ lập Phiếu trừ lùi để theo dõi lô hàng (theo Mẫu PTDTL Phụ lục đính kèm Thông tư này). Khi doanh nghiệp nhập khẩu hết số lượng hàng hóa trên C/O, Chi cục Hải quan tổng hợp lượng hàng hóa đã nhập khẩu, xác nhận đã nhập khẩu hết lượng hàng trên C/O vào Phiếu trừ lùi.\n9. Trường hợp xuất\nkho nhập nội địa bằng đường bộ, việc giám định về khối lượng, trọng lượng, chủng loại và kiểm tra nhà nước về chất lượng được thực hiện tại bể chứa dùng để chứa hàng nhập vào nội địa bằng đường bộ, sau đó bể chứa này sẽ được công chức hải quan niêm phong. Cơ quan hải quan làm thủ tục và thông quan hàng hóa cho lượng xăng dầu dự định nhập khẩu tại bể chứa này. Xăng dầu sau thông quan sẽ được đưa vào nội địa theo từng chuyến xe ô tô, có phiếu xuất kho theo tương ứng với từng chuyến xe nhận hàng để công chức hải quan giám sát và đối chiếu với tổng lượng hàng đã làm thủ tục thông quan. Sau khi kết thúc xuất hết lượng hàng đã được làm thủ tục thông quan, phải nộp cho cơ quan hải quan chứng thư giám định khối lượng cho tổng lượng hàng đã xuất này theo quy định và danh sách các chuyến xe vận chuyển.\n10. Xăng, dầu sau khi\npha chế trong kho đưa vào kho ngoại quan khác không phải nộp thuế xuất khẩu. Thời gian lưu giữ tại kho ngoại quan mới được tính kể từ ngày xăng dầu đưa vào kho ngoại quan cũ. Điều\n11. Thủ tục tạm nhập - tái xuất xăng dầu.\nKhi làm thủ tục tạm nhập xăng dầu từ kho, doanh nghiệp có thể đăng ký làm thủ tục tạm nhập tại Chi cục Hải quan quản lý kho đó hoặc tại Chi cục Hải quan ngoài cửa khẩu nơi thương nhân có hệ thống kho nội địa chứa xăng dầu tạm nhập.\n1. Trường hợp doanh nghiệp\nđăng ký làm thủ tục tạm nhập tại Chi cục Hải quan quản lý kho:\na) Xăng dầu tạm nhập\nđược lưu giữ tại kho chứa xăng dầu trong nội địa thuộc địa bàn quản lý của Chi cục Hải quan quản lý kho chứa xăng dầu thì thực hiện thủ tục tái xuất theo quy định tại Mục 2 Chương II Thông tư số 69/2016/TT-BTC ;\nb) Doanh nghiệp kinh\ndoanh xăng dầu tạm nhập - tái xuất khi tái xuất được sử dụng nguồn xăng dầu cùng chất lượng, cùng chủng loại với nguồn xăng dầu tạm nhập trong hệ thống kho nội địa của mình.\nc) Đối với lượng xăng\ndầu không tái xuất hết phải chuyển tiêu thụ nội địa: c.1) Trường hợp Doanh nghiệp đã thực hiện tái xuất tại Chi cục Hải quan quản lý kho thì làm thủ tục chuyển tiêu thụ nội địa tại Chi cục Hải quan quản lý kho theo quy định tại Mục 3 Chương II Thông tư số 69/2016/TT-BTC ; c.2) Trường hợp Doanh nghiệp đã thực hiện tái xuất tại Chi cục Hải quan ngoài cửa khẩu nơi thương nhân có hệ thống kho chứa xăng dầu trong nội địa xuất khẩu thì thực hiện như sau: c.2.1) Hồ sơ hải quan: thực hiện theo quy định tại Điều 18 Thông tư số 69/2016/TT-BTC . c.2.2) Chi cục Hải quan quản lý kho thực hiện: c.2.2.1) Có văn bản thông báo gửi Chi cục Hải quan ngoài cửa khẩu nơi thương nhân có hệ thống kho chứa xăng dầu nội địa xuất khẩu về số lượng xăng dầu doanh nghiệp dự kiến chuyển tiêu thụ nội địa và đề nghị Chi cục ngoài cửa khẩu giám sát việc lấy mẫu xác định chất lượng (trường hợp xăng dầu thuộc danh mục hàng hóa phải kiểm tra chất lượng khi nhập khẩu) cũng như giám định khối lượng; c.2.2.2) Sau khi nhận được kết quả giám định có xác nhận của Chi cục Hải quan ngoài cửa khẩu thì thực hiện thủ tục hải quan theo quy định tại Điều 19 Thông tư số 69/2016/TT-BTC . c.2.3) Chi cục Hải quan ngoài cửa khẩu nơi thương nhân có hệ thống kho nội địa chứa xăng dầu xuất khẩu thực hiện: c.2.3.1) Tiếp nhận văn bản đề nghị theo quy định tại điểm c.2.2 khoản này của Chi cục Hải quan quản lý kho; c.2.3.2) Giám sát việc doanh nghiệp lấy mẫu để xác định chất lượng (trường hợp xăng dầu thuộc danh mục hàng hóa phải kiểm tra chất lượng khi nhập khẩu), khối lượng đối với lượng xăng dầu không tái xuất hết, xác nhận kết quả giám định khối lượng, chủng loại đối với lượng xăng dầu không tái xuất hết, chuyển tiêu thụ nội địa; c.2.3.3) Lưu bản chụp và chuyển bản chính kết quả giám định có xác nhận cho Chi cục Hải quan quản lý kho thực hiện tiếp thủ tục theo quy định.\n2. Trường hợp Doanh nghiệp\nđăng ký làm thủ tục tạm nhập tại Chi cục Hải quan ngoài cửa khẩu nơi thương nhân có hệ thống kho nội địa chứa xăng dầu tạm nhập:\na) Trường hợp lưu giữ\nxăng dầu tại hệ thống kho xăng dầu nội địa ngoài địa bàn quản lý của Chi cục Hải quan quản lý kho thì đăng ký và làm thủ tục tại Chi cục hải quan nơi thương nhân có hệ thống kho nội địa chứa xăng dầu;\nb) Thực hiện thủ tục\ntái xuất theo quy định tại Thông tư số 69/2016/TT-BTC ngày 06 tháng 05 năm 2016; Doanh nghiệp kinh doanh xăng dầu tạm nhập - tái xuất khi tái xuất được sử dụng nguồn xăng dầu cùng chủng loại với nguồn xăng dầu tạm nhập trong hệ thống kho nội địa của mình.\nc) Đối với lượng xăng\ndầu không tái xuất hết phải chuyển tiêu thụ nội địa thì làm thủ tục chuyển tiêu thụ nội địa tại Chi cục Hải quan nơi đã làm thủ tục tạm nhập theo quy định tại thực hiện theo quy định tại Thông tư số 69/2016/TT-BTC . Hồ sơ thực hiện thủ tục nhập khẩu trong trường hợp này tương tự như hướng dẫn tại điểm c.2.1 Khoản 1 Điều này. Điều\n12. Chuyển quyền sở hữu trong kho ngoại quan xăng dầu\nQuản lý hải quan đối với xăng dầu, nguyên liệu, xăng dầu pha chế, chuyển loại chuyển quyền sở hữu trong kho thực hiện quy định tại khoản 8 Điều 91 Thông tư số 38/2015/TT-BTC . Điều\n13. Thủ tục thanh lý xăng dầu, nguyên liệu, xăng dầu pha chế, chuyển loại tồn đọng\ntrong kho ngoại quan xăng dầu Thủ tục thanh lý xăng dầu, nguyên liệu, xăng dầu pha chế, chuyển loại tồn đọng trong kho thực hiện như đối với hàng hóa tồn đọng trong kho ngoại quan quy định tại Thông tư số 203/2014/TT-BTC ngày 22/12/2014 của Bộ trưởng Bộ Tài chính hướng dẫn xử lý hàng hóa tồn đọng thuộc địa bàn hoạt động của hải quan. Chương\nIII ĐIỀU KHOẢN THI HÀNH\nĐiều\n14. Hiệu lực thi hành\n1. Thông tư này có hiệu\nlực thi hành kể từ ngày 16/08/2016.\n2. Thông tư này thay\nthế Thông tư số 88/2013/TT-BTC ngày 28/6/2013 của Bộ trưởng Bộ Tài chính hướng dẫn thí điểm thủ tục hải quan đối với hoạt động xuất, nhập xăng dầu, nguyên liệu để pha chế xăng dầu; hoạt động pha chế, chuyển loại xăng dầu tại Kho ngoại quan xăng dầu Vân Phong;\n3. Trong quá trình thực\nhiện, nếu các văn bản liên quan đề cập tại Thông tư này được sửa đổi, bổ sung hoặc thay thế thì thực hiện theo văn bản mới được sửa đổi, bổ sung hoặc thay thế.\n4. Đối với các trường\nhợp không được quy định tại Thông tư này, thực hiện theo quy định tại Thông tư số 69/2016/TT-BTC .\n5. Tổng cục trưởng Tổng\ncục Hải quan chỉ đạo Cục trưởng Cục Hải quan các tỉnh, thành phố chịu trách nhiệm tổ chức quản lý, theo dõi và triển khai thực hiện nội dung quy định tại Thông tư này. Trong quá trình thực hiện, nếu có vướng mắc phát sinh, đề nghị phản ánh kịp thời Bộ Tài chính (qua Tổng cục Hải quan) để được nghiên cứu, giải quyết./.",
+            "clauses": [],
+            "points": []
+          }
+        ],
+        "unstructured_blocks": []
+      },
+      {
+        "part_id": "doc:70574:part:2",
+        "part_type": "appendix",
+        "part_title": "PHỤ LỤC",
+        "reference": null,
+        "direct_text": null,
+        "chapters": [],
+        "sections": [],
+        "articles": [],
+        "unstructured_blocks": [
+          {
+            "block_id": "doc:70574:part:2:block:1",
+            "content": "PHỤ LỤC",
+            "indexable": true
+          }
+        ]
+      },
+      {
+        "part_id": "doc:70574:part:3",
+        "part_type": "list",
+        "part_title": "DANH MỤC BIỂU MẪU",
+        "reference": null,
+        "direct_text": null,
+        "chapters": [],
+        "sections": [],
+        "articles": [],
+        "unstructured_blocks": [
+          {
+            "block_id": "doc:70574:part:3:block:1",
+            "content": "DANH MỤC BIỂU MẪU\n(Ban hành kèm theo Thông tư số 106/2016/TT-BTC ngày 29 tháng 6 năm 2016)\nSTT\nTên\nBiểu mẫu\nSố hiệu 1 Báo cáo lượng xăng dầu đưa vào, đưa ra kho Mẫu số BC01-XDVRK 2 Báo cáo lượng xăng dầu đưa vào, đưa ra kho Mẫu số BC02-XDVRK 3 Báo cáo xăng dầu chuyển loại theo tháng/quý Mẫu số BC03-XDCL 4 Báo cáo xăng dầu pha chế theo tháng/quý Mẫu số BC04-XDPC 5 Bảng kê xăng dầu sau chuyển loại Mẫu số BK01-XDSCL 6 Bảng kê xăng dầu pha chế, sau pha chế Mẫu số BK02-XDPC 7 Bảng định mức xăng dầu pha chế Mẫu số BĐMXDP 8 Phiếu theo dõi trừ lùi C/O Mẫu số PTDTL Mẫu số BC01-XDVRK Tên cơ quan hải quan thực hiện báo cáo (Chi cục Hải quan/Cục Hải quan tỉnh, thành phố) (*)\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc ---------------\nBÁO CÁO LƯỢNG XĂNG DẦU ĐƯA VÀO, ĐƯA RA\nKHO NGOẠI QUAN XĂNG DẦU (**)\nSố liệu tính từ ngày....đến....\nSTT\n(1) Loại hình (2) Trọng lượng (Tấn) (3) Mặt hàng chủ yếu Dầu Diesel (Thống kê theo từng loại) (4) Xăng (Thống kê theo từng loại) (5) 1 Hàng tồn kho đầu kỳ (Tính từ ngày cuối cùng của Tháng/Quý trước) 2 Từ nước ngoài đưa vào kho 3 Nguyên liệu đưa vào pha chế 4 Thành phẩm pha chế tại kho 5 Từ nội địa đưa vào kho 6 Từ kho đưa ra nước ngoài 7 Từ kho đưa vào nội địa 8 Từ kho này chuyển sang kho khác 9 Hàng còn tồn trong kho (tính tới ngày cuối cùng của Tháng/Quý) Lưu ý: (*): Đơn vị nào thực hiện báo cáo thì đóng dấu treo đơn vị mình vào góc trên cùng bên trái Biểu mẫu; (**): Chi cục Hải quan quản lý kho tổng hợp báo cáo Cục Hải quan quản lý theo tháng; Cục Hải quan các tỉnh, thành phố tổng hợp, báo cáo Tổng cục Hải quan theo Quý. Mẫu số BC02-XDVRK\nKHO NGOẠI QUAN XĂNG DẦU ....\n(đóng dấu treo của kho)\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc --------------- Kính gửi: Chi cục Hải quan....\nBÁO CÁO LƯỢNG XĂNG DẦU ĐƯA VÀO, ĐƯA RA\nKHO\nNGOẠI QUAN XĂNG DẦU (Theo tháng) Số liệu tính từ ngày....đến....\nSTT\n(1) Loại hình (2) Trọng lượng (Tấn) (3) Mặt hàng chủ yếu Dầu Diesel (Thống kê theo từng loại) (4) Xăng (Thống kê theo từng loại) (5)\nI\nNhập kho 1 Hàng tồn kho đầu kỳ (Tính từ ngày cuối cùng của Tháng trước) 2 Từ nước ngoài đưa vào kho 3 Từ nội địa đưa vào kho\nII\nPha chế 1 Nguyên liệu đưa vào pha chế 2 Sản phẩm sau pha chế\nIII\nChuyển loại 1 Tên xăng dầu trước khi chuyển loại 2 Tên xăng dầu sau chuyển loại\nIV\nXuất kho 1 Từ kho đưa ra nước ngoài 2 Từ kho đưa vào nội địa 3 Từ kho này chuyển sang kho khác\nV\nTồn kho Hàng còn tồn trong kho (tính đến ngày cuối cùng của Tháng) Mẫu số BC03-XDCL Tên đơn vị báo cáo (*)\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc ---------------\nBÁO CÁO XĂNG DẦU CHUYỂN LOẠI (**)\nTính từ ngày...tháng...đến ngày...tháng...năm\nSTT\n(1) Tên nguyên liệu, xăng dầu trước chuyển loại (2) Mã\nHS\n(3) Xuất xứ (4) Số tờ khai (5) Số lượng (m3) (7) Trọng lượng (Tấn) (8) Trị giá (USD) (9) Tên xăng dầu sau khi chuyển loại (10) Số lượng (11) Trọng lượng (Tấn) (12) Trị giá (USD) (13) 1 2 3 4 …… Tổng cộng: Tổng xăng dầu sau chuyển loại đã xuất: Tổng xăng dầu sau chuyển loại còn tồn kho: Lưu ý: (*): Đơn vị báo cáo bao gồm: Kho ngoại quan xăng dầu, cơ quan hải quan (Chi cục Hải quan/Cục Hải quan tỉnh, thành phố quản lý kho). Đơn vị nào thực hiện báo cáo thì đóng dấu treo vào góc trên cùng bên trái Biểu mẫu; (**): Kho ngoại quan xăng dầu báo cáo Chi cục Hải quan quản lý kho theo tháng; Chi cục Hải quan quản lý kho tổng hợp báo cáo Cục Hải quan quản lý theo tháng; Cục Hải quan các tỉnh, thành phố tổng hợp, báo cáo Tổng cục Hải quan theo Quý. Mẫu BC04-XDPC Tên đơn vị báo cáo (*)\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc ---------------\nBÁO CÁO XĂNG DẦU PHA CHẾ (**)\nSTT\n(1) Tên nguyên liệu, xăng dầu trước pha chế (2) Mã\nHS\n(3) Xuất xứ (4) Số tờ khai (5) Số lượng (m3) (6) Trọng lượng (Tấn) (7) Trị giá (USD) (8) Tên xăng dầu sau khi pha chế (9) Số lượng (10) Trọng lượng (Tấn) (11) Trị giá (USD) (12) 1 2 3 4 … Tổng cộng Tổng xăng dầu sau pha chế đã xuất: Tổng xăng dầu sau pha chế đưa vào nội địa, các khu phi thuế quan: Tổng xăng dầu sau pha chế còn tồn kho: Lưu ý: (*) Đơn vị báo cáo bao gồm: Kho ngoại quan xăng dầu, cơ quan hải quan (Chi cục Hải quan/Cục Hải quan tỉnh, thành phố quản lý kho). Đơn vị nào thực hiện báo cáo thì đóng dấu treo vào góc trên cùng bên trái Biểu mẫu; (**): Kho ngoại quan xăng dầu báo cáo Chi cục Hải quan quản lý kho theo tháng; Chi cục Hải quan quản lý kho tổng hợp báo cáo Cục Hải quan quản lý theo tháng; Cục Hải quan các tỉnh, thành phố tổng hợp, báo cáo Tổng cục Hải quan theo Quý. Mẫu BK01-XDSCL\nBẢNG KÊ XĂNG DẦU SAU CHUYỂN LOẠI\nBan hành kèm theo Thông tư số ..../2016/TT-BTC ngày... tháng... năm... của Bộ Tài chính\n1. Tên đơn vị:...\n2. Số hợp đồng thuê dịch\nvụ chuyển loại: ngày...tháng...năm...\nSTT\n(1) Tên xăng dầu trước khi chuyển loại (2) Mã\nHS\n(3) Số TK nhập/xuất kho ngoại quan xăng dầu (4) Số lượng (m3) (5) Trọng lượng (Tấn) (6) Trị giá (USD) (7) Tên xăng dầu sau chuyển loại (8) Mã\nHS\n(9) 1 2 … Tổng cộng (*) ……, ngày… tháng... năm...\nNGƯỜI LẬP BIỂU\n(ký, và ghi rõ họ tên) ……, ngày… tháng... năm... Công chức HQ quản lý kho NQ xăng dầu xác nhận (ký, đóng dấu công chức) ……, ngày… tháng... năm... Chủ kho NQ xăng dầu (ký, ghi rõ họ tên và đóng dấu) Lưu ý (*): Tính tổng số liệu của các cột số 5, 6, 7. Mẫu BK02-XDPC\nBẢNG KÊ XĂNG DẦU PHA CHẾ VÀ SAU PHA CHẾ\nBan hành kèm theo Thông tư số .../2016/TT-BTC ngày...tháng...năm... của Bộ Tài chính\n1. Tên đơn vị: …\n2. Số hợp đồng thuê dịch\nvụ chuyển loại: ..., ngày...tháng...năm...\nSTT\n(1) Tên nguyên liệu, xăng dầu trước khi pha chế (2) Mã\nHS\n(3) Số TK nhập /xuất kho ngoại quan xăng dầu (4) Số lượng (m3) (5) Trọng lượng (Tấn) (6) Trị giá (USD) (7) Định mức (kể cả hao hụt) (8) Tên xăng dầu sau pha chế (9) Mã\nHS\n(10) Số lượng (11) Trọng lượng (12) Trị giá\n(USD)\n(13) 1 2 … Tổng cộng (*) ……, ngày… tháng... năm...\nNGƯỜI LẬP BIỂU\n(ký, và ghi rõ họ tên) ……, ngày… tháng... năm... Công chức HQ quản lý kho NQ xăng dầu xác nhận (ký, đóng dấu công chức) ……, ngày… tháng... năm... Chủ kho NQ xăng dầu (ký, ghi rõ họ tên và đóng dấu) Lưu ý (*): Tính tổng số liệu của cột số 5, 6, 7, 11, 12, 13. Mẫu BĐMXDPC\nBẢNG ĐỊNH MỨC XĂNG DẦU PHA CHẾ\nBan hành kèm theo Thông tư số .../2016/TT-BTC ngày... tháng... năm... của Bộ Tài chính\nSTT\n(1) Tên nguyên liệu, xăng dầu trước khi pha chế (2) Chi tiêu Reserch Octane number(Ron) (3) Số lượng pha chế (m3) (4) Trọng lượng pha chế (Ton) (5) Định mức đầu vào (Ton) (6) Định mức đầu ra (Ton) (7) Tên xăng dầu sau pha chế (8) Chi tiêu Reserch Octane number(Ron) (9) Số lượng thành phẩm (10) Trọng lượng thành phẩm (11) 1 2 … Tổng cộng ……, ngày… tháng... năm...\nNGƯỜI LẬP BIỂU\n(ký, và ghi rõ họ tên) ……, ngày… tháng... năm... Công chức HQ quản lý kho NQ xăng dầu xác nhận (ký, đóng dấu công chức) ……, ngày… tháng... năm... Chủ kho NQ xăng dầu (ký, ghi rõ họ tên và đóng dấu) Mẫu\nPTDTL\nCục Hải quan.... Chi cục Hải quan..... Số:…\nPHIẾU THEO DÕI TRỪ LÙI C/O\nKèm theo C/O mẫu………, số tham chiếu……………… ngày…… tháng…… năm…………… Doanh nghiệp nhập khẩu: Tên hàng: Tổng số lượng hàng hóa khai báo trên C/O: Số tờ khai thực hiện trừ lùi C/O: Ngày đăng ký tờ khai: ……, Ngày....tháng...năm…\nLÃNH ĐẠO CHI CỤC\n(Ký tên, đóng dấu)\nSTT\n(1) Số lượng hàng làm thủ tục (2) Số lượng hàng còn lại (3) Xác nhận của công chức hải quan (4) Ghi chú (5) Lần 1 Lần 2 …… Tổng cộng Ghi chú: - Công chức hải quan ký, ghi rõ họ tên, đóng dấu công chức; - Khi doanh nghiệp đã nhập khẩu hết số lượng hàng hóa trên C/O thì công chức hải quan xác nhận đã nhập khẩu hết lượng hàng trên C/O vào phiếu theo dõi trừ lùi.",
+            "indexable": true
+          }
+        ]
+      }
+    ]
+  },
+  "issues": [],
+  "status": "ok",
+  "source_hash": "context_70574.json",
+  "stats": {
+    "source_chars": 45241,
+    "passage_chars": 44933,
+    "parts": 3,
+    "chapters": 0,
+    "sections": 0,
+    "articles": 9,
+    "clauses": 23,
+    "points": 47
+  }
+}

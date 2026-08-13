@@ -1,0 +1,731 @@
+{
+  "schema_version": "2.0",
+  "document_id": 69910,
+  "metadata": {
+    "name": "Quyet-dinh-1076-QD-KTNN-2021-Quy-che-quan-ly-Phan-mem-Quan-ly-dao-tao-Kiem-toan-nha-nuoc-495440",
+    "link": "https://thuvienphapluat.vn/van-ban/Ke-toan-Kiem-toan/Quyet-dinh-1076-QD-KTNN-2021-Quy-che-quan-ly-Phan-mem-Quan-ly-dao-tao-Kiem-toan-nha-nuoc-495440.aspx",
+    "issuing_agency": "KIỂM TOÁN NHÀ NƯỚC",
+    "national_header": "CỘNG\r\n\n  HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM",
+    "motto": "Độc lập - Tự do - Hạnh phúc",
+    "document_number": "1076/QĐ-KTNN",
+    "issued_place": "Hà Nội",
+    "issued_date": "ngày 18 tháng 6 năm 2021",
+    "document_type": "QUYẾT ĐỊNH",
+    "title": "BAN HÀNH QUY CHẾ QUẢN LÝ, KHAI THÁC, SỬ DỤNG PHẦN MỀM QUẢN LÝ ĐÀO TẠO CỦA KIỂM TOÁN NHÀ NƯỚC TỔNG KIỂM TOÁN NHÀ NƯỚC"
+  },
+  "administrative_header": {
+    "removed": true,
+    "removed_char_count": 155
+  },
+  "preamble": {
+    "text": "QUYẾT ĐỊNH\nBAN HÀNH QUY CHẾ QUẢN LÝ, KHAI THÁC, SỬ DỤNG PHẦN MỀM QUẢN LÝ ĐÀO TẠO CỦA\nKIỂM TOÁN NHÀ NƯỚC TỔNG KIỂM TOÁN NHÀ NƯỚC\nCăn cứ Luật Kiểm toán nhà nước và Luật sửa đổi, bổ sung một số điều của Luật Kiểm toán nhà nước; Căn cứ Luật Công nghệ thông tin; Căn cứ Nghị định số 64/2007/NĐ-CP ngày 10 tháng 4 năm 2007 của Chính phủ về việc ứng dụng công nghệ thông tin trong hoạt động của cơ quan nhà nước; Căn cứ Quyết định số 1662/QĐ-KTNN ngày 03/11/2017 của Tổng KTNN ban hành Quy chế soạn thảo, thẩm định, ban hành văn bản quy phạm pháp luật và văn bản quản lý của Kiểm toán nhà nước; Xét đề nghị của Giám đốc Trung tâm Tin học.\nQUYẾT ĐỊNH:",
+    "legal_bases": [
+      "Căn cứ Luật Công nghệ thông tin",
+      "Căn cứ Nghị định số 64/2007/NĐ-CP ngày 10 tháng 4 năm 2007 của Chính phủ về việc ứng dụng công nghệ thông tin trong hoạt động của cơ quan nhà nước",
+      "Căn cứ Quyết định số 1662/QĐ-KTNN ngày 03/11/2017 của Tổng KTNN ban hành Quy chế soạn thảo, thẩm định, ban hành văn bản quy phạm pháp luật và văn bản quản lý của Kiểm toán nhà nước"
+    ],
+    "proposals": [
+      "Xét đề nghị của Giám đốc Trung tâm Tin học.\nQUYẾT ĐỊNH:"
+    ],
+    "enactment_formula": "QUYẾT ĐỊNH"
+  },
+  "passage": "QUYẾT ĐỊNH\nBAN HÀNH QUY CHẾ QUẢN LÝ, KHAI THÁC, SỬ DỤNG PHẦN MỀM QUẢN LÝ ĐÀO TẠO CỦA\nKIỂM TOÁN NHÀ NƯỚC TỔNG KIỂM TOÁN NHÀ NƯỚC\nCăn cứ Luật Kiểm toán nhà nước và Luật sửa đổi, bổ sung một số điều của Luật Kiểm toán nhà nước; Căn cứ Luật Công nghệ thông tin; Căn cứ Nghị định số 64/2007/NĐ-CP ngày 10 tháng 4 năm 2007 của Chính phủ về việc ứng dụng công nghệ thông tin trong hoạt động của cơ quan nhà nước; Căn cứ Quyết định số 1662/QĐ-KTNN ngày 03/11/2017 của Tổng KTNN ban hành Quy chế soạn thảo, thẩm định, ban hành văn bản quy phạm pháp luật và văn bản quản lý của Kiểm toán nhà nước; Xét đề nghị của Giám đốc Trung tâm Tin học.\nQUYẾT ĐỊNH:\nĐiều 1. Ban hành kèm theo Quyết định này Quy chế quản lý, khai thác, sử dụng Phần mềm Quản lý đào tạo của Kiểm toán nhà nước.\nĐiều 2. Quyết định này có hiệu lực thi hành kể từ ngày ký.\nĐiều 3. Vụ trưởng Vụ Tổ chức cán bộ, Trường Đào tạo và Bồi dưỡng nghiệp vụ kiểm toán, Giám đốc Trung tâm Tin học, Thủ trưởng các đơn vị trực thuộc Kiểm toán nhà nước và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này./.\nNơi nhận:\n- Như Điều 3;\n- Lãnh đạo Kiểm toán nhà nước\n- Lưu: VT, TTTH (3).\nTỔNG\nKIỂM TOÁN NHÀ NƯỚC\nTrần Sỹ Thanh\nQUY CHẾ\nQUẢN LÝ, KHAI THÁC VÀ SỬ DỤNG PHẦN MỀM QUẢN LÝ ĐÀO TẠO CỦA KIỂM TOÁN\nNHÀ NƯỚC\n(Ban hành kèm theo Quyết định số 1076/QĐ-KTNN ngày 18 tháng 6 năm 2021 của Tổng\nKiểm toán nhà nước)\nChương I\nQUY ĐỊNH CHUNG\nĐiều 1. Phạm vi điều chỉnh, đối tượng áp dụng\n1. Quy chế này quy định trình tự, thủ\ntục, trách nhiệm, quyền hạn, mối quan hệ giữa các đơn vị trực thuộc Kiểm toán nhà nước và các tổ chức, cá nhân trong việc quản lý, khai thác và sử dụng Phần mềm Quản lý đào tạo của Kiểm toán nhà nước.\n2. Quy chế này áp dụng với các đơn vị\ntrực thuộc Kiểm toán nhà nước; cán bộ, công chức, viên chức và người lao động (sau đây gọi tắt là công chức) của các đơn vị trực thuộc Kiểm toán nhà nước và các tổ chức, cá nhân khác có liên quan trong việc quản lý, khai thác và sử dụng Phần mềm Quản lý đào tạo của Kiểm toán nhà nước.\nĐiều 2. Giải thích từ ngữ Trong Quy chế này, các từ ngữ dưới đây được hiểu như sau:\n1. Phần mềm Quản lý đào tạo: là phần\nmềm do Kiểm toán nhà nước xây dựng (gọi tắt là phần mềm) nhằm hỗ trợ công tác quản lý đào tạo, bồi dưỡng của Kiểm toán nhà nước.\n2. Đơn vị quản lý đào tạo của Kiểm\ntoán nhà nước: là đơn vị được Tổng Kiểm toán nhà nước giao quản lý hoạt động đào tạo, bồi dưỡng của Kiểm toán nhà nước theo quy định.\n3. Đơn vị thực hiện đào tạo của Kiểm\ntoán nhà nước: là đơn vị được Tổng Kiểm toán nhà nước giao tổ chức hoạt động đào tạo, bồi dưỡng của Kiểm toán nhà nước theo quy định.\n4. Tài khoản người dùng bao gồm tên\nđăng nhập và mật khẩu cấp cho người sử dụng phần mềm để đăng nhập vào khai thác, sử dụng hoặc quản trị phần mềm. Tùy theo vị trí và quyền hạn, tài khoản người dùng được cấp một hoặc nhiều quyền khác nhau. Có các loại tài khoản sau: a. Tài khoản quản trị hệ thống: là tài khoản có quyền sử dụng để cấp quyền hoặc hủy bỏ quyền, khóa hoặc mở khóa tài khoản khác; thiết lập các tham số hệ thống của phần mềm. b. Tài khoản quản trị thông tin tại đơn vị: là tài khoản cấp cho người dùng của đơn vị trực thuộc Kiểm toán nhà nước để thực hiện công tác quản lý đào tạo của Kiểm toán nhà nước hoặc của đơn vị tùy theo chức năng nhiệm vụ được giao. c. Tài khoản cá nhân: là tài khoản cấp cho công chức của các đơn vị trực thuộc Kiểm toán nhà nước hoặc các tổ chức, cá nhân khác được cấp quyền để truy cập vào phần mềm.\nĐiều 3. Các hành vi bị cấm\n1. Phá hoại hệ thống cơ sở hạ tầng\nthông tin hoặc cản trở quá trình vận hành, duy trì ổn định, liên tục của phần mềm.\n2. Truy cập bất hợp pháp, thay đổi dữ\nliệu không đúng thẩm quyền làm sai lệch hoặc phá hủy dữ liệu trên phần mềm.\n3. Tự ý xoá bỏ, tháo gỡ, thay đổi\nthông số thiết lập của phần mềm gây xung đột tài nguyên, ảnh hưởng đến việc vận hành các phần mềm và cơ sở dữ liệu khác được cài đặt trong hệ thống mạng của Kiểm toán nhà nước. Tự ý cấp quyền không đúng đối tượng theo quy định tại Quy chế này.\n4. Sử dụng, lợi dụng phần mềm, dữ liệu\ncủa phần mềm vào các mục đích không thuộc phạm vi, chức năng, nhiệm vụ được phân công; cung cấp, phát tán thông tin trái với quy định của Kiểm toán nhà nước và pháp luật hiện hành.\n5. Tiết lộ tài khoản, các quy tắc sử\ndụng, danh sách người sử dụng, sơ đồ tổ chức hệ thống, thông tin dữ liệu của Phần mềm cho các tổ chức, cá nhân không có thẩm quyền.\nChương II\nQUẢN LÝ, VẬN HÀNH PHẦN MỀM\nĐiều 4. Nguyên tắc quản lý, vận hành\n1. Phần mềm được quản lý tập trung,\nthống nhất tại Trung tâm dữ liệu Kiểm toán nhà nước, vận hành thông qua hệ thống mạng Internet, đảm bảo hoạt động liên tục, ổn định, an toàn và bảo mật thông tin.\n2. Phần mềm được quản lý, vận hành đảm\nbảo nguyên tắc đề cao trách nhiệm của công chức của Kiểm toán nhà nước và các đơn vị, tổ chức, cá nhân có liên quan.\n3. Phần mềm được quản lý, vận hành đảm\nbảo tuân thủ theo quy định bảo mật cấp nhà nước của Kiểm toán nhà nước và của pháp luật hiện hành.\n4. Việc cài đặt, quản lý, vận hành phần\nmềm phải tuân thủ theo Quy chế Quản lý và sử dụng hệ thống mạng Kiểm toán nhà nước.\nĐiều 5. Bảo trì, nâng cấp, phát triển phần mềm\n1. Bảo đảm hệ thống cơ sở hạ tầng\nthông tin, các thiết bị có liên quan và môi trường cho việc cài đặt, vận hành phần mềm.\n2. Thực hiện các biện pháp sao lưu dữ\nliệu định kỳ, đảm bảo khả năng khôi phục hệ thống khi xảy ra sự cố. Dữ liệu đã sao lưu cần được bảo vệ an toàn, định kỳ kiểm tra và đảm bảo phục hồi được dữ liệu sao lưu để sẵn sàng sử dụng khi cần thiết.\n3. Thực hiện các hoạt động bảo trì, bảo\ndưỡng, sửa chữa định kỳ để đảm bảo phần mềm hoạt động ổn định, liên tục.\n4. Định kỳ hàng năm (hoặc đột xuất\nkhi có đề xuất từ người sử dụng) thực hiện rà soát, đề xuất phương án nâng cấp, phát triển hệ thống hạ tầng phần cứng, phần mềm nhằm đáp ứng nhu cầu thực tế.\nĐiều 6. Đảm bảo an toàn, bảo mật thông tin\n1. Thực hiện các hoạt động kiểm tra,\ngiám sát để cảnh báo các hành vi xâm phạm an toàn Phần mềm.\n2. Sử dụng các kênh mã hóa và xác thực\nngười dùng cho các hoạt động: đăng nhập hệ thống, thay đổi thông tin người dùng, gửi nhận dữ liệu giữa các máy chủ, sao lưu dữ liệu, cập nhật và biên tập dữ liệu.\n3. Áp dụng các biện pháp bảo đảm tính\nxác thực và bảo vệ sự toàn vẹn của dữ liệu trong phần mềm.\n4. Thực hiện việc lưu trữ lịch sử các\nhoạt động của người sử dụng: truy nhập vào phần mềm; thay đổi thông tin, quyền hạn người dùng; tạo mới, thay đổi, sửa, xóa thông tin và các nghiệp vụ khác trên phần mềm.\n5. Thiết lập và duy trì hệ thống dự\nphòng nhằm đảm bảo phần mềm hoạt động liên tục.\n6. Thực hiện các biện pháp cần thiết\nkhác để đảm bảo an toàn, bảo mật của phần mềm.\nĐiều 7. Quản lý tài khoản người dùng\n1. Quản lý tài khoản quản trị hệ thống\na. Giám đốc Trung tâm Tin học chịu trách nhiệm phân công người quản trị hệ thống. b. Người quản trị hệ thống sử dụng tài khoản được phân quyền để thực hiện việc quản trị hệ thống, phân quyền cho tài khoản người dùng trong hệ thống và chịu trách nhiệm quản lý và bảo mật tài khoản.\n2. Quản lý tài khoản quản trị thông\ntin tại các đơn vị a. Vụ Tổ chức cán bộ được cấp tài khoản có quyền quản trị thông tin để quản lý hoạt động đào tạo, bồi dưỡng của Kiểm toán nhà nước theo chức năng, nhiệm vụ được giao và được quy định cụ thể tại Điều 9 của Quy chế này. b. Đơn vị được phân công tổ chức đào tạo, bồi dưỡng (theo Quy chế đào tạo, bồi dưỡng của Kiểm toán nhà nước) được cấp tài khoản có quyền quản trị thông tin để tổ chức thực hiện hoạt động đào tạo, bồi dưỡng của Kiểm toán nhà nước theo chức năng, nhiệm vụ được giao và được quy định cụ thể tại Điều 10 của Quy chế này. c. Các đơn vị trực thuộc Kiểm toán nhà nước được cấp tài khoản có quyền quản trị thông tin của đơn vị để thực hiện công tác quản lý hoạt động đào tạo của đơn vị mình. d. Thủ trưởng đơn vị có trách nhiệm phân công người sử dụng tài khoản quản trị thông tin của đơn vị, đồng thời đăng ký với Trung tâm Tin học. Việc đăng ký được thực hiện theo mẫu tại phụ lục kèm theo Quy chế này. e. Người sử dụng tài khoản quản trị thông tin của đơn vị sử dụng phần mềm theo nhiệm vụ được giao và chịu trách nhiệm bảo mật tài khoản theo đúng quy định.\n3. Quản lý tài khoản cá nhân\na. Mỗi công chức của Kiểm toán nhà nước được cấp 01 tài khoản để khai thác, sử dụng phần mềm và chịu trách nhiệm đảm bảo việc bảo mật tài khoản của mình theo đúng quy định của Kiểm toán nhà nước và của pháp luật. b. Tổng Kiểm toán nhà nước xem xét quyết định cấp tài khoản cho tổ chức, cá nhân không thuộc diện quản lý của Kiểm toán nhà nước khi có yêu cầu khai thác thông tin. Các tổ chức, cá nhân được cấp tài khoản phải phù hợp với các quy định của pháp luật, của Kiểm toán nhà nước về khai thác thông tin của Kiểm toán nhà nước và có trách nhiệm quản lý, bảo mật tài khoản được cấp, không vi phạm các hành vi bị cấm được quy định tại Điều 3 của\nQuy chế này.\nChương III\nCẬP NHẬT DỮ LIỆU\nVÀ KHAI THÁC, SỬ DỤNG PHẦN MỀM\nĐiều 8. Nguyên tắc cập nhật dữ liệu, khai thác, sử dụng phần mềm\n1. Việc cập nhật thông tin phải được\nthực hiện theo quy định tại Điều 9, Điều 10 của Quy chế này. Dữ liệu được cập nhật phải đảm bảo tính chính xác, đầy đủ và kịp thời phục vụ cho các cấp quản lý. Thủ trưởng các đơn vị và cán bộ giao cập nhật dữ liệu chịu trách nhiệm về tính chính xác của dữ liệu cập nhật.\n2. Công chức của Kiểm toán nhà nước\nvà các tổ chức, cá nhân được cấp tài khoản có trách nhiệm khai thác, sử dụng phần mềm đúng mục đích, nhiệm vụ được phân công và tuân thủ các quy định tại Quy chế này.\n3. Công chức của Kiểm toán nhà nước\nvà các tổ chức, cá nhân kịp thời gửi thông tin tới bộ phận quản trị phần mềm ngay khi xảy ra các trường hợp sau: a. Gặp các sự cố không thể truy cập vào phần mềm hoặc gặp lỗi phần mềm phát sinh trong quá trình sử dụng. b. Phát hiện nguy cơ lộ thông tin tài khoản hoặc dữ liệu. c. Quên hoặc mất mật khẩu. d. Đề xuất cải tiến, hoàn thiện phần mềm.\nĐiều 9. Trách nhiệm cập nhật thông tin của đơn vị quản lý đào tạo của Kiểm toán nhà nước\n1. Quản lý, cập nhật danh mục các nội\ndung đào tạo, bồi dưỡng ngoài ngành (bao gồm đào tạo trong và ngoài nước).\n2. Lập kế hoạch khảo sát nhu cầu đào\ntạo, bồi dưỡng của công chức của Kiểm toán nhà nước hàng năm và theo giai đoạn. Tổng hợp kết quả khảo sát, xác định số lớp đào tạo và phân bổ chỉ tiêu đào tạo trên phần mềm làm cơ sở để xây dựng kế hoạch đào tạo, bồi dưỡng của Kiểm toán nhà nước hàng năm và theo giai đoạn.\n3. Xây dựng dự thảo kế hoạch đào tạo,\nbồi dưỡng và cập nhật kế hoạch đào tạo, bồi dưỡng hàng năm. Việc cập nhật kế hoạch đào tạo, bồi dưỡng trên phần mềm chậm nhất 5 ngày làm việc sau ngày Lãnh đạo Kiểm toán nhà nước phê duyệt.\n4. Quản lý và cập nhật thông tin, kết\nquả nội dung đào tạo, bồi dưỡng các công chức cử đi học nước ngoài của Kiểm toán nhà nước; cập nhật kết quả đào tạo ngoài ngành theo phân cấp ký Quyết định cử đi học trong Quy chế đào tạo, bồi dưỡng của Kiểm toán nhà nước.\n5. Quản lý quá trình thực hiện đào tạo\nhàng năm của Kiểm toán nhà nước trên phần mềm.\nĐiều 10. Trách nhiệm cập nhật thông tin của đơn vị tổ chức đào tạo của Kiểm toán nhà nước\n1. Phối hợp với đơn vị quản lý đào tạo\ntrong việc xây dựng dự thảo kế hoạch đào tạo, bồi dưỡng của Kiểm toán nhà nước.\n2. Chậm nhất 5 ngày làm việc sau ngày\nLãnh đạo Kiểm toán nhà nước ban hành chương trình, tài liệu bồi dưỡng, đơn vị tổ chức đào tạo, bồi dưỡng của Kiểm toán nhà nước có trách nhiệm cập nhật danh mục chương trình, tài liệu đào tạo, bồi dưỡng trên phần mềm.\n3. Quản lý, cập nhật danh mục ngân hàng\ncâu hỏi, ngân hàng đề thi, lịch thi đối với các kỳ thi trong chương trình đào tạo của Kiểm toán nhà nước.\n4. Chậm nhất 10 ngày làm việc sau\nngày kết thúc khóa học/lớp học đơn vị có trách nhiệm cập nhật thông tin về quá trình tổ chức đào tạo (bao gồm: thông tin chung của lớp học; thông tin giảng viên; thông báo của lớp học; quản lý điểm danh; phê duyệt bảo lưu, miễn học, miễn thi; tổ chức thi).\n5. Chậm nhất 30 ngày làm việc sau\nngày kết thúc khóa học/lớp học, đơn vị có trách nhiệm cập nhật kết quả đào tạo trên phần mềm.\n6. Cập nhật thông tin xây dựng chương\ntrình, tài liệu đào tạo theo kế hoạch đào tạo được Lãnh đạo Kiểm toán nhà nước phê duyệt.\nĐiều 11. Trách nhiệm cập nhật thông tin của đơn vị trực thuộc Kiểm toán nhà nước\n1. Đôn đốc công chức trong đơn vị\ntham gia đầy đủ, đúng hạn đối với các cuộc khảo sát nhu cầu đào tạo, bồi dưỡng của Kiểm toán nhà nước trên phần mềm.\n2. Đề xuất nhu cầu đào tạo, bồi dưỡng\ncủa đơn vị trên phần mềm đối với các chương trình đào tạo, bồi dưỡng trong và ngoài ngành để xây dựng kế hoạch đào tạo, bồi dưỡng hàng năm và theo giai đoạn của Kiểm toán nhà nước.\n3. Quản trị thông tin tại đơn vị có\ntrách nhiệm đăng ký danh sách học viên của đơn vị trên phần mềm trên cơ sở chỉ tiêu được phân bổ theo các lớp đào tạo hàng năm của Kiểm toán nhà nước.\n4. Thủ trưởng đơn vị có trách nhiệm\nphê duyệt trên phần mềm danh sách công chức của đơn vị tham gia khảo sát theo kế hoạch đào tạo, bồi dưỡng hàng năm và phê duyệt danh sách đề xuất học viên của đơn vị mình trên cơ sở chỉ tiêu được phân bổ theo các lớp đào tạo hàng năm của Kiểm toán nhà nước.\n5. Phối hợp với đơn vị quản lý đào tạo\ntrong việc đề xuất nhu cầu bồi dưỡng, tập huấn trong nội bộ đơn vị trên phần mềm.\n6. Chậm nhất 10 ngày làm việc sau\nngày kết thúc lớp bồi dưỡng, tập huấn trong nội bộ đơn vị, quản trị thông tin của đơn vị có trách nhiệm cập nhật thông tin về quá trình tổ chức lớp bao gồm thông tin chung của lớp học; thông tin giảng viên; thông báo của lớp học; quản lý điểm danh; kết quả học tập của học viên trên phần mềm (nếu có).\n7. Đối với đơn vị sự nghiệp và các Kiểm\ntoán nhà nước khu vực cập nhật kết quả đào tạo ngoài ngành theo phân cấp ký Quyết định cử đi học trong Quy chế đào tạo, bồi dưỡng của Kiểm toán nhà nước.\nĐiều 12. Quyền khai thác, sử dụng thông tin\n1. Tổng Kiểm toán nhà nước có quyền\ntruy cập vào phần mềm để khai thác, sử dụng thông tin về công tác đào tạo, bồi dưỡng của toàn ngành.\n2. Phó Tổng Kiểm toán nhà nước có quyền\ntruy cập vào phần mềm để khai thác, sử dụng thông tin về công tác đào tạo, bồi dưỡng của các đơn vị trực thuộc được phân công phụ trách.\n3. Lãnh đạo Vụ Tổ chức cán bộ và công\nchức của Vụ Tổ chức cán bộ được phân quyền quản trị thông tin tại đơn vị thuộc đơn vị mình có quyền truy cập vào phần mềm để khai thác, sử dụng thông tin về công tác đào tạo, bồi dưỡng của Kiểm toán nhà nước bao gồm: kế hoạch đào tạo, quá trình tổ chức đào tạo, báo cáo kết quả đào tạo của Kiểm toán nhà nước và kết quả tổ chức đào tạo nội bộ của tất cả các đơn vị, kết quả xây dựng chương trình/tài liệu, danh mục chương trình, tài liệu đào tạo trong và ngoài ngành.\n4. Thủ trưởng đơn vị tổ chức đào tạo,\nbồi dưỡng của Kiểm toán nhà nước và công chức của đơn vị được phân quyền quản trị thông tin của đơn vị thuộc đơn vị mình có quyền truy cập vào phần mềm để khai thác, sử dụng thông tin về công tác triển khai đào tạo, bồi dưỡng của Kiểm toán nhà nước bao gồm: thông tin chi tiết về quá trình tổ chức đào tạo, quá trình tổ chức xây dựng chương trình, tài liệu, quá trình tổ chức thi, danh mục chương trình, tài liệu đào tạo trong ngành, báo cáo kết quả đào tạo của Kiểm toán nhà nước.\n5. Thủ trưởng các đơn vị trực thuộc\nKiểm toán nhà nước và công chức của đơn vị được phân quyền quản trị đơn vị có quyền truy cập vào phần mềm để khai thác, sử dụng thông tin về công tác đào tạo, bồi dưỡng của đơn vị mình bao gồm: kết quả khảo sát, quá trình đào tạo của cán bộ trong đơn vị, kết quả tổ chức đào tạo nội bộ của đơn vị, báo cáo kết quả đào tạo theo các lớp hàng năm của Kiểm toán nhà nước mà đơn vị có học viên tham gia.\n6. Các tổ chức, cá nhân khác được quyền\ntruy cập vào phần mềm để khai thác, sử dụng thông tin về công tác đào tạo, bồi dưỡng của Kiểm toán nhà nước khi được Tổng Kiểm toán nhà nước cho phép bằng văn bản.\nĐiều 13. Quyền và trách nhiệm của công chức\n1. Công chức có quyền đăng ký và có\ntrách nhiệm tham gia đầy đủ, đúng hạn trên phần mềm đối với các cuộc khảo sát đào tạo, bồi dưỡng đối với các lớp trong và ngoài ngành do Kiểm toán nhà nước tổ chức trên phần mềm.\n2. Công chức có quyền đề xuất bảo lưu\nkết quả học tập, phúc khảo, đề xuất miễn học, miễn thi đối với các môn học hoặc khóa học trong chương trình đào tạo của Kiểm toán nhà nước trên phần mềm theo quy định của đơn vị quản lý triển khai đào tạo.\n3. Công chức được quyền truy cập vào\nphần mềm để khai thác, sử dụng thông tin đào tạo, bồi dưỡng của cá nhân; có quyền khai thác kết quả khảo sát đào tạo của cá nhân; có quyền nhận được các thông báo về khóa học/lớp học mà mình được cử tham gia; có quyền khai thác các tài liệu đã được ban hành toàn Ngành và các tài liệu liên quan đến khóa học/lớp học của ngành trên phần mềm.\nChương IV\nTRÁCH NHIỆM CỦA\nCÁC ĐƠN VỊ TRỰC THUỘC KIỂM TOÁN NHÀ NƯỚC\nĐiều 14. Trách nhiệm của Trung tâm Tin học\n1. Quản lý, vận hành đảm bảo hoạt động\nổn định, liên tục, an toàn và bảo mật thông tin.\n2. Phối hợp với các đơn vị liên quan\ntổ chức đào tạo, hướng dẫn sử dụng phần mềm.\n3. Chủ trì, phối hợp với các đơn vị\nliên quan nghiên cứu, đề xuất giải pháp và kinh phí duy trì; chịu trách nhiệm bảo trì, nâng cấp, phát triển phần mềm và hạ tầng kỹ thuật để đảm bảo phần mềm hoạt động ổn định, liên tục, an toàn, bảo mật và hiệu quả.\n4. Định kỳ hàng năm (hoặc đột xuất)\nbáo cáo lãnh đạo Kiểm toán nhà nước tình hình quản lý, khai thác và sử dụng phần mềm.\n5. Kiểm tra và đề xuất giải pháp bảo đảm\nan toàn và bảo mật dữ liệu theo quy định hiện hành. Định kỳ tổ chức sao lưu dữ liệu.\n6. Hỗ trợ các đơn vị sử dụng phần mềm,\nthông báo cho các đơn vị về sự cố hoặc nguy cơ xảy ra sự cố có ảnh hưởng đến việc quản lý, khai thác và sử dụng phần mềm.\nĐiều 15. Trách nhiệm của các đơn vị trực thuộc Kiểm toán nhà nước\n1. Vụ Tổ chức cán bộ đôn đốc các đơn\nvị kịp thời cập nhật dữ liệu vào phần mềm.\n2. Trường Đào tạo và bồi dưỡng nghiệp\nvụ kiểm toán tổ chức đào tạo hướng dẫn sử dụng phần mềm khi có yêu cầu của các đơn vị.\n3. Văn phòng Kiểm toán nhà nước tham\nmưu, đề xuất Tổng Kiểm toán nhà nước trong việc bố trí kinh phí đảm bảo duy trì hoạt động, nâng cấp, phát triển phần mềm, bổ sung hạ tầng kỹ thuật để đảm bảo hoạt động an toàn, ổn định, hiệu quả phần mềm.\n4. Thủ trưởng các đơn vị có trách nhiệm\nkiểm tra, đôn đốc việc cập nhật, khai thác và sử dụng thông tin theo đúng quy định của Quy chế này.\n5. Các đơn vị trực thuộc Kiểm toán\nnhà nước căn cứ chức năng nhiệm vụ của đơn vị mình có trách nhiệm phối hợp với Vụ Tổ chức cán bộ và Trung tâm Tin học trong việc quản lý, triển khai áp dụng phần mềm, định kỳ hàng năm (hoặc đột xuất) đơn vị có trách nhiệm báo cáo Lãnh đạo Kiểm toán nhà nước (qua Trung tâm Tin học) tình hình sử dụng phần mềm.\n6. Thủ trưởng đơn vị có trách nhiệm đề\nnghị tạm dừng quyền truy cập phần mềm đối với các công chức vi phạm quy định trong quá trình sử dụng.\nChương V\nĐIỀU KHOẢN THI HÀNH\nĐiều 16. Tổ chức thực hiện\n1. Trung tâm Tin học chủ trì tổ chức\ntriển khai, hướng dẫn thực hiện Quy chế này.\n2. Vụ Tổ chức cán bộ, Trường đào tạo\nvà bồi dưỡng nghiệp vụ kiểm toán, Trung tâm Tin học có trách nhiệm tổ chức, hướng dẫn thực hiện và kiểm tra việc thi hành Quy chế này.\n3. Thủ trưởng các đơn vị chịu trách\nnhiệm về việc tổ chức triển khai thực hiện Quy chế này trong phạm vi quản lý của mình.\n4. Trong quá trình thực hiện nếu có\nkhó khăn, vướng mắc, các đơn vị phản ánh về Vụ Tổ chức cán bộ, Trường đào tạo và bồi dưỡng nghiệp vụ kiểm toán (đối với các nội dung liên quan đến công tác đào tạo), Trung tâm Tin học (đối với các chức năng phần mềm) để tổng hợp, báo cáo Tổng Kiểm toán nhà nước xem xét điều chỉnh bổ sung cho phù hợp./.",
+  "tree": {
+    "parts": [
+      {
+        "part_id": "doc:69910:part:1",
+        "part_type": "main",
+        "part_title": null,
+        "reference": null,
+        "direct_text": "QUYẾT ĐỊNH\nBAN HÀNH QUY CHẾ QUẢN LÝ, KHAI THÁC, SỬ DỤNG PHẦN MỀM QUẢN LÝ ĐÀO TẠO CỦA\nKIỂM TOÁN NHÀ NƯỚC TỔNG KIỂM TOÁN NHÀ NƯỚC\nCăn cứ Luật Kiểm toán nhà nước và Luật sửa đổi, bổ sung một số điều của Luật Kiểm toán nhà nước; Căn cứ Luật Công nghệ thông tin; Căn cứ Nghị định số 64/2007/NĐ-CP ngày 10 tháng 4 năm 2007 của Chính phủ về việc ứng dụng công nghệ thông tin trong hoạt động của cơ quan nhà nước; Căn cứ Quyết định số 1662/QĐ-KTNN ngày 03/11/2017 của Tổng KTNN ban hành Quy chế soạn thảo, thẩm định, ban hành văn bản quy phạm pháp luật và văn bản quản lý của Kiểm toán nhà nước; Xét đề nghị của Giám đốc Trung tâm Tin học.\nQUYẾT ĐỊNH:",
+        "chapters": [],
+        "sections": [],
+        "articles": [
+          {
+            "article_id": "doc:69910:part:1:article:1",
+            "number": "1",
+            "title": "Ban hành kèm theo Quyết định này Quy chế quản lý, khai thác, sử dụng Phần mềm Quản lý đào tạo của Kiểm toán nhà nước.",
+            "content": "Điều 1. Ban hành kèm theo Quyết định này Quy chế quản lý, khai thác, sử dụng Phần mềm Quản lý đào tạo của Kiểm toán nhà nước.",
+            "clauses": [],
+            "points": []
+          },
+          {
+            "article_id": "doc:69910:part:1:article:2",
+            "number": "2",
+            "title": "Quyết định này có hiệu lực thi hành kể từ ngày ký.",
+            "content": "Điều 2. Quyết định này có hiệu lực thi hành kể từ ngày ký.",
+            "clauses": [],
+            "points": []
+          },
+          {
+            "article_id": "doc:69910:part:1:article:3",
+            "number": "3",
+            "title": "Vụ trưởng Vụ Tổ chức cán bộ, Trường Đào tạo và Bồi dưỡng nghiệp vụ kiểm toán, Giám đốc Trung tâm Tin học, Thủ trưởng các đơn vị trực thuộc Kiểm toán nhà nước và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này./.",
+            "content": "Điều 3. Vụ trưởng Vụ Tổ chức cán bộ, Trường Đào tạo và Bồi dưỡng nghiệp vụ kiểm toán, Giám đốc Trung tâm Tin học, Thủ trưởng các đơn vị trực thuộc Kiểm toán nhà nước và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này./.",
+            "clauses": [],
+            "points": []
+          }
+        ],
+        "unstructured_blocks": []
+      },
+      {
+        "part_id": "doc:69910:part:2",
+        "part_type": "regulation",
+        "part_title": "QUY CHẾ",
+        "reference": null,
+        "direct_text": "QUY CHẾ\nQUẢN LÝ, KHAI THÁC VÀ SỬ DỤNG PHẦN MỀM QUẢN LÝ ĐÀO TẠO CỦA KIỂM TOÁN\nNHÀ NƯỚC\n(Ban hành kèm theo Quyết định số 1076/QĐ-KTNN ngày 18 tháng 6 năm 2021 của Tổng\nKiểm toán nhà nước)\nQuy chế này.",
+        "chapters": [
+          {
+            "chapter_id": "doc:69910:part:2:chapter:1",
+            "number": "I",
+            "title": "QUY ĐỊNH CHUNG",
+            "content": "Chương I\nQUY ĐỊNH CHUNG",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:69910:part:2:article:1",
+                "number": "1",
+                "title": "Phạm vi điều chỉnh, đối tượng áp dụng",
+                "content": "Điều 1. Phạm vi điều chỉnh, đối tượng áp dụng",
+                "clauses": [
+                  {
+                    "clause_id": "doc:69910:part:2:article:1:clause:1",
+                    "number": "1",
+                    "content": "1. Quy chế này quy định trình tự, thủ\ntục, trách nhiệm, quyền hạn, mối quan hệ giữa các đơn vị trực thuộc Kiểm toán nhà nước và các tổ chức, cá nhân trong việc quản lý, khai thác và sử dụng Phần mềm Quản lý đào tạo của Kiểm toán nhà nước.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:69910:part:2:article:1:clause:2",
+                    "number": "2",
+                    "content": "2. Quy chế này áp dụng với các đơn vị\ntrực thuộc Kiểm toán nhà nước; cán bộ, công chức, viên chức và người lao động (sau đây gọi tắt là công chức) của các đơn vị trực thuộc Kiểm toán nhà nước và các tổ chức, cá nhân khác có liên quan trong việc quản lý, khai thác và sử dụng Phần mềm Quản lý đào tạo của Kiểm toán nhà nước.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:69910:part:2:article:2",
+                "number": "2",
+                "title": "Giải thích từ ngữ Trong Quy chế này, các từ ngữ dưới đây được hiểu như sau:",
+                "content": "Điều 2. Giải thích từ ngữ Trong Quy chế này, các từ ngữ dưới đây được hiểu như sau:",
+                "clauses": [
+                  {
+                    "clause_id": "doc:69910:part:2:article:2:clause:1",
+                    "number": "1",
+                    "content": "1. Phần mềm Quản lý đào tạo: là phần\nmềm do Kiểm toán nhà nước xây dựng (gọi tắt là phần mềm) nhằm hỗ trợ công tác quản lý đào tạo, bồi dưỡng của Kiểm toán nhà nước.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:69910:part:2:article:2:clause:2",
+                    "number": "2",
+                    "content": "2. Đơn vị quản lý đào tạo của Kiểm\ntoán nhà nước: là đơn vị được Tổng Kiểm toán nhà nước giao quản lý hoạt động đào tạo, bồi dưỡng của Kiểm toán nhà nước theo quy định.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:69910:part:2:article:2:clause:3",
+                    "number": "3",
+                    "content": "3. Đơn vị thực hiện đào tạo của Kiểm\ntoán nhà nước: là đơn vị được Tổng Kiểm toán nhà nước giao tổ chức hoạt động đào tạo, bồi dưỡng của Kiểm toán nhà nước theo quy định.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:69910:part:2:article:2:clause:4",
+                    "number": "4",
+                    "content": "4. Tài khoản người dùng bao gồm tên\nđăng nhập và mật khẩu cấp cho người sử dụng phần mềm để đăng nhập vào khai thác, sử dụng hoặc quản trị phần mềm. Tùy theo vị trí và quyền hạn, tài khoản người dùng được cấp một hoặc nhiều quyền khác nhau. Có các loại tài khoản sau: a. Tài khoản quản trị hệ thống: là tài khoản có quyền sử dụng để cấp quyền hoặc hủy bỏ quyền, khóa hoặc mở khóa tài khoản khác; thiết lập các tham số hệ thống của phần mềm. b. Tài khoản quản trị thông tin tại đơn vị: là tài khoản cấp cho người dùng của đơn vị trực thuộc Kiểm toán nhà nước để thực hiện công tác quản lý đào tạo của Kiểm toán nhà nước hoặc của đơn vị tùy theo chức năng nhiệm vụ được giao. c. Tài khoản cá nhân: là tài khoản cấp cho công chức của các đơn vị trực thuộc Kiểm toán nhà nước hoặc các tổ chức, cá nhân khác được cấp quyền để truy cập vào phần mềm.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:69910:part:2:article:3",
+                "number": "3",
+                "title": "Các hành vi bị cấm",
+                "content": "Điều 3. Các hành vi bị cấm",
+                "clauses": [
+                  {
+                    "clause_id": "doc:69910:part:2:article:3:clause:1",
+                    "number": "1",
+                    "content": "1. Phá hoại hệ thống cơ sở hạ tầng\nthông tin hoặc cản trở quá trình vận hành, duy trì ổn định, liên tục của phần mềm.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:69910:part:2:article:3:clause:2",
+                    "number": "2",
+                    "content": "2. Truy cập bất hợp pháp, thay đổi dữ\nliệu không đúng thẩm quyền làm sai lệch hoặc phá hủy dữ liệu trên phần mềm.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:69910:part:2:article:3:clause:3",
+                    "number": "3",
+                    "content": "3. Tự ý xoá bỏ, tháo gỡ, thay đổi\nthông số thiết lập của phần mềm gây xung đột tài nguyên, ảnh hưởng đến việc vận hành các phần mềm và cơ sở dữ liệu khác được cài đặt trong hệ thống mạng của Kiểm toán nhà nước. Tự ý cấp quyền không đúng đối tượng theo quy định tại Quy chế này.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:69910:part:2:article:3:clause:4",
+                    "number": "4",
+                    "content": "4. Sử dụng, lợi dụng phần mềm, dữ liệu\ncủa phần mềm vào các mục đích không thuộc phạm vi, chức năng, nhiệm vụ được phân công; cung cấp, phát tán thông tin trái với quy định của Kiểm toán nhà nước và pháp luật hiện hành.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:69910:part:2:article:3:clause:5",
+                    "number": "5",
+                    "content": "5. Tiết lộ tài khoản, các quy tắc sử\ndụng, danh sách người sử dụng, sơ đồ tổ chức hệ thống, thông tin dữ liệu của Phần mềm cho các tổ chức, cá nhân không có thẩm quyền.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:69910:part:2:chapter:2",
+            "number": "II",
+            "title": "QUẢN LÝ, VẬN HÀNH PHẦN MỀM",
+            "content": "Chương II\nQUẢN LÝ, VẬN HÀNH PHẦN MỀM",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:69910:part:2:article:4",
+                "number": "4",
+                "title": "Nguyên tắc quản lý, vận hành",
+                "content": "Điều 4. Nguyên tắc quản lý, vận hành",
+                "clauses": [
+                  {
+                    "clause_id": "doc:69910:part:2:article:4:clause:1",
+                    "number": "1",
+                    "content": "1. Phần mềm được quản lý tập trung,\nthống nhất tại Trung tâm dữ liệu Kiểm toán nhà nước, vận hành thông qua hệ thống mạng Internet, đảm bảo hoạt động liên tục, ổn định, an toàn và bảo mật thông tin.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:69910:part:2:article:4:clause:2",
+                    "number": "2",
+                    "content": "2. Phần mềm được quản lý, vận hành đảm\nbảo nguyên tắc đề cao trách nhiệm của công chức của Kiểm toán nhà nước và các đơn vị, tổ chức, cá nhân có liên quan.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:69910:part:2:article:4:clause:3",
+                    "number": "3",
+                    "content": "3. Phần mềm được quản lý, vận hành đảm\nbảo tuân thủ theo quy định bảo mật cấp nhà nước của Kiểm toán nhà nước và của pháp luật hiện hành.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:69910:part:2:article:4:clause:4",
+                    "number": "4",
+                    "content": "4. Việc cài đặt, quản lý, vận hành phần\nmềm phải tuân thủ theo Quy chế Quản lý và sử dụng hệ thống mạng Kiểm toán nhà nước.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:69910:part:2:article:5",
+                "number": "5",
+                "title": "Bảo trì, nâng cấp, phát triển phần mềm",
+                "content": "Điều 5. Bảo trì, nâng cấp, phát triển phần mềm",
+                "clauses": [
+                  {
+                    "clause_id": "doc:69910:part:2:article:5:clause:1",
+                    "number": "1",
+                    "content": "1. Bảo đảm hệ thống cơ sở hạ tầng\nthông tin, các thiết bị có liên quan và môi trường cho việc cài đặt, vận hành phần mềm.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:69910:part:2:article:5:clause:2",
+                    "number": "2",
+                    "content": "2. Thực hiện các biện pháp sao lưu dữ\nliệu định kỳ, đảm bảo khả năng khôi phục hệ thống khi xảy ra sự cố. Dữ liệu đã sao lưu cần được bảo vệ an toàn, định kỳ kiểm tra và đảm bảo phục hồi được dữ liệu sao lưu để sẵn sàng sử dụng khi cần thiết.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:69910:part:2:article:5:clause:3",
+                    "number": "3",
+                    "content": "3. Thực hiện các hoạt động bảo trì, bảo\ndưỡng, sửa chữa định kỳ để đảm bảo phần mềm hoạt động ổn định, liên tục.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:69910:part:2:article:5:clause:4",
+                    "number": "4",
+                    "content": "4. Định kỳ hàng năm (hoặc đột xuất\nkhi có đề xuất từ người sử dụng) thực hiện rà soát, đề xuất phương án nâng cấp, phát triển hệ thống hạ tầng phần cứng, phần mềm nhằm đáp ứng nhu cầu thực tế.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:69910:part:2:article:6",
+                "number": "6",
+                "title": "Đảm bảo an toàn, bảo mật thông tin",
+                "content": "Điều 6. Đảm bảo an toàn, bảo mật thông tin",
+                "clauses": [
+                  {
+                    "clause_id": "doc:69910:part:2:article:6:clause:1",
+                    "number": "1",
+                    "content": "1. Thực hiện các hoạt động kiểm tra,\ngiám sát để cảnh báo các hành vi xâm phạm an toàn Phần mềm.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:69910:part:2:article:6:clause:2",
+                    "number": "2",
+                    "content": "2. Sử dụng các kênh mã hóa và xác thực\nngười dùng cho các hoạt động: đăng nhập hệ thống, thay đổi thông tin người dùng, gửi nhận dữ liệu giữa các máy chủ, sao lưu dữ liệu, cập nhật và biên tập dữ liệu.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:69910:part:2:article:6:clause:3",
+                    "number": "3",
+                    "content": "3. Áp dụng các biện pháp bảo đảm tính\nxác thực và bảo vệ sự toàn vẹn của dữ liệu trong phần mềm.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:69910:part:2:article:6:clause:4",
+                    "number": "4",
+                    "content": "4. Thực hiện việc lưu trữ lịch sử các\nhoạt động của người sử dụng: truy nhập vào phần mềm; thay đổi thông tin, quyền hạn người dùng; tạo mới, thay đổi, sửa, xóa thông tin và các nghiệp vụ khác trên phần mềm.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:69910:part:2:article:6:clause:5",
+                    "number": "5",
+                    "content": "5. Thiết lập và duy trì hệ thống dự\nphòng nhằm đảm bảo phần mềm hoạt động liên tục.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:69910:part:2:article:6:clause:6",
+                    "number": "6",
+                    "content": "6. Thực hiện các biện pháp cần thiết\nkhác để đảm bảo an toàn, bảo mật của phần mềm.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:69910:part:2:article:7",
+                "number": "7",
+                "title": "Quản lý tài khoản người dùng",
+                "content": "Điều 7. Quản lý tài khoản người dùng",
+                "clauses": [
+                  {
+                    "clause_id": "doc:69910:part:2:article:7:clause:1",
+                    "number": "1",
+                    "content": "1. Quản lý tài khoản quản trị hệ thống\na. Giám đốc Trung tâm Tin học chịu trách nhiệm phân công người quản trị hệ thống. b. Người quản trị hệ thống sử dụng tài khoản được phân quyền để thực hiện việc quản trị hệ thống, phân quyền cho tài khoản người dùng trong hệ thống và chịu trách nhiệm quản lý và bảo mật tài khoản.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:69910:part:2:article:7:clause:2",
+                    "number": "2",
+                    "content": "2. Quản lý tài khoản quản trị thông\ntin tại các đơn vị a. Vụ Tổ chức cán bộ được cấp tài khoản có quyền quản trị thông tin để quản lý hoạt động đào tạo, bồi dưỡng của Kiểm toán nhà nước theo chức năng, nhiệm vụ được giao và được quy định cụ thể tại Điều 9 của Quy chế này. b. Đơn vị được phân công tổ chức đào tạo, bồi dưỡng (theo Quy chế đào tạo, bồi dưỡng của Kiểm toán nhà nước) được cấp tài khoản có quyền quản trị thông tin để tổ chức thực hiện hoạt động đào tạo, bồi dưỡng của Kiểm toán nhà nước theo chức năng, nhiệm vụ được giao và được quy định cụ thể tại Điều 10 của Quy chế này. c. Các đơn vị trực thuộc Kiểm toán nhà nước được cấp tài khoản có quyền quản trị thông tin của đơn vị để thực hiện công tác quản lý hoạt động đào tạo của đơn vị mình. d. Thủ trưởng đơn vị có trách nhiệm phân công người sử dụng tài khoản quản trị thông tin của đơn vị, đồng thời đăng ký với Trung tâm Tin học. Việc đăng ký được thực hiện theo mẫu tại phụ lục kèm theo Quy chế này. e. Người sử dụng tài khoản quản trị thông tin của đơn vị sử dụng phần mềm theo nhiệm vụ được giao và chịu trách nhiệm bảo mật tài khoản theo đúng quy định.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:69910:part:2:article:7:clause:3",
+                    "number": "3",
+                    "content": "3. Quản lý tài khoản cá nhân\na. Mỗi công chức của Kiểm toán nhà nước được cấp 01 tài khoản để khai thác, sử dụng phần mềm và chịu trách nhiệm đảm bảo việc bảo mật tài khoản của mình theo đúng quy định của Kiểm toán nhà nước và của pháp luật. b. Tổng Kiểm toán nhà nước xem xét quyết định cấp tài khoản cho tổ chức, cá nhân không thuộc diện quản lý của Kiểm toán nhà nước khi có yêu cầu khai thác thông tin. Các tổ chức, cá nhân được cấp tài khoản phải phù hợp với các quy định của pháp luật, của Kiểm toán nhà nước về khai thác thông tin của Kiểm toán nhà nước và có trách nhiệm quản lý, bảo mật tài khoản được cấp, không vi phạm các hành vi bị cấm được quy định tại Điều 3 của",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:69910:part:2:chapter:3",
+            "number": "III",
+            "title": "CẬP NHẬT DỮ LIỆU VÀ KHAI THÁC, SỬ DỤNG PHẦN MỀM",
+            "content": "Chương III\nCẬP NHẬT DỮ LIỆU\nVÀ KHAI THÁC, SỬ DỤNG PHẦN MỀM",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:69910:part:2:article:8",
+                "number": "8",
+                "title": "Nguyên tắc cập nhật dữ liệu, khai thác, sử dụng phần mềm",
+                "content": "Điều 8. Nguyên tắc cập nhật dữ liệu, khai thác, sử dụng phần mềm",
+                "clauses": [
+                  {
+                    "clause_id": "doc:69910:part:2:article:8:clause:1",
+                    "number": "1",
+                    "content": "1. Việc cập nhật thông tin phải được\nthực hiện theo quy định tại Điều 9, Điều 10 của Quy chế này. Dữ liệu được cập nhật phải đảm bảo tính chính xác, đầy đủ và kịp thời phục vụ cho các cấp quản lý. Thủ trưởng các đơn vị và cán bộ giao cập nhật dữ liệu chịu trách nhiệm về tính chính xác của dữ liệu cập nhật.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:69910:part:2:article:8:clause:2",
+                    "number": "2",
+                    "content": "2. Công chức của Kiểm toán nhà nước\nvà các tổ chức, cá nhân được cấp tài khoản có trách nhiệm khai thác, sử dụng phần mềm đúng mục đích, nhiệm vụ được phân công và tuân thủ các quy định tại Quy chế này.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:69910:part:2:article:8:clause:3",
+                    "number": "3",
+                    "content": "3. Công chức của Kiểm toán nhà nước\nvà các tổ chức, cá nhân kịp thời gửi thông tin tới bộ phận quản trị phần mềm ngay khi xảy ra các trường hợp sau: a. Gặp các sự cố không thể truy cập vào phần mềm hoặc gặp lỗi phần mềm phát sinh trong quá trình sử dụng. b. Phát hiện nguy cơ lộ thông tin tài khoản hoặc dữ liệu. c. Quên hoặc mất mật khẩu. d. Đề xuất cải tiến, hoàn thiện phần mềm.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:69910:part:2:article:9",
+                "number": "9",
+                "title": "Trách nhiệm cập nhật thông tin của đơn vị quản lý đào tạo của Kiểm toán nhà nước",
+                "content": "Điều 9. Trách nhiệm cập nhật thông tin của đơn vị quản lý đào tạo của Kiểm toán nhà nước",
+                "clauses": [
+                  {
+                    "clause_id": "doc:69910:part:2:article:9:clause:1",
+                    "number": "1",
+                    "content": "1. Quản lý, cập nhật danh mục các nội\ndung đào tạo, bồi dưỡng ngoài ngành (bao gồm đào tạo trong và ngoài nước).",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:69910:part:2:article:9:clause:2",
+                    "number": "2",
+                    "content": "2. Lập kế hoạch khảo sát nhu cầu đào\ntạo, bồi dưỡng của công chức của Kiểm toán nhà nước hàng năm và theo giai đoạn. Tổng hợp kết quả khảo sát, xác định số lớp đào tạo và phân bổ chỉ tiêu đào tạo trên phần mềm làm cơ sở để xây dựng kế hoạch đào tạo, bồi dưỡng của Kiểm toán nhà nước hàng năm và theo giai đoạn.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:69910:part:2:article:9:clause:3",
+                    "number": "3",
+                    "content": "3. Xây dựng dự thảo kế hoạch đào tạo,\nbồi dưỡng và cập nhật kế hoạch đào tạo, bồi dưỡng hàng năm. Việc cập nhật kế hoạch đào tạo, bồi dưỡng trên phần mềm chậm nhất 5 ngày làm việc sau ngày Lãnh đạo Kiểm toán nhà nước phê duyệt.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:69910:part:2:article:9:clause:4",
+                    "number": "4",
+                    "content": "4. Quản lý và cập nhật thông tin, kết\nquả nội dung đào tạo, bồi dưỡng các công chức cử đi học nước ngoài của Kiểm toán nhà nước; cập nhật kết quả đào tạo ngoài ngành theo phân cấp ký Quyết định cử đi học trong Quy chế đào tạo, bồi dưỡng của Kiểm toán nhà nước.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:69910:part:2:article:9:clause:5",
+                    "number": "5",
+                    "content": "5. Quản lý quá trình thực hiện đào tạo\nhàng năm của Kiểm toán nhà nước trên phần mềm.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:69910:part:2:article:10",
+                "number": "10",
+                "title": "Trách nhiệm cập nhật thông tin của đơn vị tổ chức đào tạo của Kiểm toán nhà nước",
+                "content": "Điều 10. Trách nhiệm cập nhật thông tin của đơn vị tổ chức đào tạo của Kiểm toán nhà nước",
+                "clauses": [
+                  {
+                    "clause_id": "doc:69910:part:2:article:10:clause:1",
+                    "number": "1",
+                    "content": "1. Phối hợp với đơn vị quản lý đào tạo\ntrong việc xây dựng dự thảo kế hoạch đào tạo, bồi dưỡng của Kiểm toán nhà nước.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:69910:part:2:article:10:clause:2",
+                    "number": "2",
+                    "content": "2. Chậm nhất 5 ngày làm việc sau ngày\nLãnh đạo Kiểm toán nhà nước ban hành chương trình, tài liệu bồi dưỡng, đơn vị tổ chức đào tạo, bồi dưỡng của Kiểm toán nhà nước có trách nhiệm cập nhật danh mục chương trình, tài liệu đào tạo, bồi dưỡng trên phần mềm.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:69910:part:2:article:10:clause:3",
+                    "number": "3",
+                    "content": "3. Quản lý, cập nhật danh mục ngân hàng\ncâu hỏi, ngân hàng đề thi, lịch thi đối với các kỳ thi trong chương trình đào tạo của Kiểm toán nhà nước.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:69910:part:2:article:10:clause:4",
+                    "number": "4",
+                    "content": "4. Chậm nhất 10 ngày làm việc sau\nngày kết thúc khóa học/lớp học đơn vị có trách nhiệm cập nhật thông tin về quá trình tổ chức đào tạo (bao gồm: thông tin chung của lớp học; thông tin giảng viên; thông báo của lớp học; quản lý điểm danh; phê duyệt bảo lưu, miễn học, miễn thi; tổ chức thi).",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:69910:part:2:article:10:clause:5",
+                    "number": "5",
+                    "content": "5. Chậm nhất 30 ngày làm việc sau\nngày kết thúc khóa học/lớp học, đơn vị có trách nhiệm cập nhật kết quả đào tạo trên phần mềm.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:69910:part:2:article:10:clause:6",
+                    "number": "6",
+                    "content": "6. Cập nhật thông tin xây dựng chương\ntrình, tài liệu đào tạo theo kế hoạch đào tạo được Lãnh đạo Kiểm toán nhà nước phê duyệt.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:69910:part:2:article:11",
+                "number": "11",
+                "title": "Trách nhiệm cập nhật thông tin của đơn vị trực thuộc Kiểm toán nhà nước",
+                "content": "Điều 11. Trách nhiệm cập nhật thông tin của đơn vị trực thuộc Kiểm toán nhà nước",
+                "clauses": [
+                  {
+                    "clause_id": "doc:69910:part:2:article:11:clause:1",
+                    "number": "1",
+                    "content": "1. Đôn đốc công chức trong đơn vị\ntham gia đầy đủ, đúng hạn đối với các cuộc khảo sát nhu cầu đào tạo, bồi dưỡng của Kiểm toán nhà nước trên phần mềm.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:69910:part:2:article:11:clause:2",
+                    "number": "2",
+                    "content": "2. Đề xuất nhu cầu đào tạo, bồi dưỡng\ncủa đơn vị trên phần mềm đối với các chương trình đào tạo, bồi dưỡng trong và ngoài ngành để xây dựng kế hoạch đào tạo, bồi dưỡng hàng năm và theo giai đoạn của Kiểm toán nhà nước.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:69910:part:2:article:11:clause:3",
+                    "number": "3",
+                    "content": "3. Quản trị thông tin tại đơn vị có\ntrách nhiệm đăng ký danh sách học viên của đơn vị trên phần mềm trên cơ sở chỉ tiêu được phân bổ theo các lớp đào tạo hàng năm của Kiểm toán nhà nước.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:69910:part:2:article:11:clause:4",
+                    "number": "4",
+                    "content": "4. Thủ trưởng đơn vị có trách nhiệm\nphê duyệt trên phần mềm danh sách công chức của đơn vị tham gia khảo sát theo kế hoạch đào tạo, bồi dưỡng hàng năm và phê duyệt danh sách đề xuất học viên của đơn vị mình trên cơ sở chỉ tiêu được phân bổ theo các lớp đào tạo hàng năm của Kiểm toán nhà nước.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:69910:part:2:article:11:clause:5",
+                    "number": "5",
+                    "content": "5. Phối hợp với đơn vị quản lý đào tạo\ntrong việc đề xuất nhu cầu bồi dưỡng, tập huấn trong nội bộ đơn vị trên phần mềm.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:69910:part:2:article:11:clause:6",
+                    "number": "6",
+                    "content": "6. Chậm nhất 10 ngày làm việc sau\nngày kết thúc lớp bồi dưỡng, tập huấn trong nội bộ đơn vị, quản trị thông tin của đơn vị có trách nhiệm cập nhật thông tin về quá trình tổ chức lớp bao gồm thông tin chung của lớp học; thông tin giảng viên; thông báo của lớp học; quản lý điểm danh; kết quả học tập của học viên trên phần mềm (nếu có).",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:69910:part:2:article:11:clause:7",
+                    "number": "7",
+                    "content": "7. Đối với đơn vị sự nghiệp và các Kiểm\ntoán nhà nước khu vực cập nhật kết quả đào tạo ngoài ngành theo phân cấp ký Quyết định cử đi học trong Quy chế đào tạo, bồi dưỡng của Kiểm toán nhà nước.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:69910:part:2:article:12",
+                "number": "12",
+                "title": "Quyền khai thác, sử dụng thông tin",
+                "content": "Điều 12. Quyền khai thác, sử dụng thông tin",
+                "clauses": [
+                  {
+                    "clause_id": "doc:69910:part:2:article:12:clause:1",
+                    "number": "1",
+                    "content": "1. Tổng Kiểm toán nhà nước có quyền\ntruy cập vào phần mềm để khai thác, sử dụng thông tin về công tác đào tạo, bồi dưỡng của toàn ngành.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:69910:part:2:article:12:clause:2",
+                    "number": "2",
+                    "content": "2. Phó Tổng Kiểm toán nhà nước có quyền\ntruy cập vào phần mềm để khai thác, sử dụng thông tin về công tác đào tạo, bồi dưỡng của các đơn vị trực thuộc được phân công phụ trách.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:69910:part:2:article:12:clause:3",
+                    "number": "3",
+                    "content": "3. Lãnh đạo Vụ Tổ chức cán bộ và công\nchức của Vụ Tổ chức cán bộ được phân quyền quản trị thông tin tại đơn vị thuộc đơn vị mình có quyền truy cập vào phần mềm để khai thác, sử dụng thông tin về công tác đào tạo, bồi dưỡng của Kiểm toán nhà nước bao gồm: kế hoạch đào tạo, quá trình tổ chức đào tạo, báo cáo kết quả đào tạo của Kiểm toán nhà nước và kết quả tổ chức đào tạo nội bộ của tất cả các đơn vị, kết quả xây dựng chương trình/tài liệu, danh mục chương trình, tài liệu đào tạo trong và ngoài ngành.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:69910:part:2:article:12:clause:4",
+                    "number": "4",
+                    "content": "4. Thủ trưởng đơn vị tổ chức đào tạo,\nbồi dưỡng của Kiểm toán nhà nước và công chức của đơn vị được phân quyền quản trị thông tin của đơn vị thuộc đơn vị mình có quyền truy cập vào phần mềm để khai thác, sử dụng thông tin về công tác triển khai đào tạo, bồi dưỡng của Kiểm toán nhà nước bao gồm: thông tin chi tiết về quá trình tổ chức đào tạo, quá trình tổ chức xây dựng chương trình, tài liệu, quá trình tổ chức thi, danh mục chương trình, tài liệu đào tạo trong ngành, báo cáo kết quả đào tạo của Kiểm toán nhà nước.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:69910:part:2:article:12:clause:5",
+                    "number": "5",
+                    "content": "5. Thủ trưởng các đơn vị trực thuộc\nKiểm toán nhà nước và công chức của đơn vị được phân quyền quản trị đơn vị có quyền truy cập vào phần mềm để khai thác, sử dụng thông tin về công tác đào tạo, bồi dưỡng của đơn vị mình bao gồm: kết quả khảo sát, quá trình đào tạo của cán bộ trong đơn vị, kết quả tổ chức đào tạo nội bộ của đơn vị, báo cáo kết quả đào tạo theo các lớp hàng năm của Kiểm toán nhà nước mà đơn vị có học viên tham gia.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:69910:part:2:article:12:clause:6",
+                    "number": "6",
+                    "content": "6. Các tổ chức, cá nhân khác được quyền\ntruy cập vào phần mềm để khai thác, sử dụng thông tin về công tác đào tạo, bồi dưỡng của Kiểm toán nhà nước khi được Tổng Kiểm toán nhà nước cho phép bằng văn bản.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:69910:part:2:article:13",
+                "number": "13",
+                "title": "Quyền và trách nhiệm của công chức",
+                "content": "Điều 13. Quyền và trách nhiệm của công chức",
+                "clauses": [
+                  {
+                    "clause_id": "doc:69910:part:2:article:13:clause:1",
+                    "number": "1",
+                    "content": "1. Công chức có quyền đăng ký và có\ntrách nhiệm tham gia đầy đủ, đúng hạn trên phần mềm đối với các cuộc khảo sát đào tạo, bồi dưỡng đối với các lớp trong và ngoài ngành do Kiểm toán nhà nước tổ chức trên phần mềm.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:69910:part:2:article:13:clause:2",
+                    "number": "2",
+                    "content": "2. Công chức có quyền đề xuất bảo lưu\nkết quả học tập, phúc khảo, đề xuất miễn học, miễn thi đối với các môn học hoặc khóa học trong chương trình đào tạo của Kiểm toán nhà nước trên phần mềm theo quy định của đơn vị quản lý triển khai đào tạo.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:69910:part:2:article:13:clause:3",
+                    "number": "3",
+                    "content": "3. Công chức được quyền truy cập vào\nphần mềm để khai thác, sử dụng thông tin đào tạo, bồi dưỡng của cá nhân; có quyền khai thác kết quả khảo sát đào tạo của cá nhân; có quyền nhận được các thông báo về khóa học/lớp học mà mình được cử tham gia; có quyền khai thác các tài liệu đã được ban hành toàn Ngành và các tài liệu liên quan đến khóa học/lớp học của ngành trên phần mềm.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:69910:part:2:chapter:4",
+            "number": "IV",
+            "title": "TRÁCH NHIỆM CỦA CÁC ĐƠN VỊ TRỰC THUỘC KIỂM TOÁN NHÀ NƯỚC",
+            "content": "Chương IV\nTRÁCH NHIỆM CỦA\nCÁC ĐƠN VỊ TRỰC THUỘC KIỂM TOÁN NHÀ NƯỚC",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:69910:part:2:article:14",
+                "number": "14",
+                "title": "Trách nhiệm của Trung tâm Tin học",
+                "content": "Điều 14. Trách nhiệm của Trung tâm Tin học",
+                "clauses": [
+                  {
+                    "clause_id": "doc:69910:part:2:article:14:clause:1",
+                    "number": "1",
+                    "content": "1. Quản lý, vận hành đảm bảo hoạt động\nổn định, liên tục, an toàn và bảo mật thông tin.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:69910:part:2:article:14:clause:2",
+                    "number": "2",
+                    "content": "2. Phối hợp với các đơn vị liên quan\ntổ chức đào tạo, hướng dẫn sử dụng phần mềm.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:69910:part:2:article:14:clause:3",
+                    "number": "3",
+                    "content": "3. Chủ trì, phối hợp với các đơn vị\nliên quan nghiên cứu, đề xuất giải pháp và kinh phí duy trì; chịu trách nhiệm bảo trì, nâng cấp, phát triển phần mềm và hạ tầng kỹ thuật để đảm bảo phần mềm hoạt động ổn định, liên tục, an toàn, bảo mật và hiệu quả.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:69910:part:2:article:14:clause:4",
+                    "number": "4",
+                    "content": "4. Định kỳ hàng năm (hoặc đột xuất)\nbáo cáo lãnh đạo Kiểm toán nhà nước tình hình quản lý, khai thác và sử dụng phần mềm.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:69910:part:2:article:14:clause:5",
+                    "number": "5",
+                    "content": "5. Kiểm tra và đề xuất giải pháp bảo đảm\nan toàn và bảo mật dữ liệu theo quy định hiện hành. Định kỳ tổ chức sao lưu dữ liệu.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:69910:part:2:article:14:clause:6",
+                    "number": "6",
+                    "content": "6. Hỗ trợ các đơn vị sử dụng phần mềm,\nthông báo cho các đơn vị về sự cố hoặc nguy cơ xảy ra sự cố có ảnh hưởng đến việc quản lý, khai thác và sử dụng phần mềm.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:69910:part:2:article:15",
+                "number": "15",
+                "title": "Trách nhiệm của các đơn vị trực thuộc Kiểm toán nhà nước",
+                "content": "Điều 15. Trách nhiệm của các đơn vị trực thuộc Kiểm toán nhà nước",
+                "clauses": [
+                  {
+                    "clause_id": "doc:69910:part:2:article:15:clause:1",
+                    "number": "1",
+                    "content": "1. Vụ Tổ chức cán bộ đôn đốc các đơn\nvị kịp thời cập nhật dữ liệu vào phần mềm.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:69910:part:2:article:15:clause:2",
+                    "number": "2",
+                    "content": "2. Trường Đào tạo và bồi dưỡng nghiệp\nvụ kiểm toán tổ chức đào tạo hướng dẫn sử dụng phần mềm khi có yêu cầu của các đơn vị.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:69910:part:2:article:15:clause:3",
+                    "number": "3",
+                    "content": "3. Văn phòng Kiểm toán nhà nước tham\nmưu, đề xuất Tổng Kiểm toán nhà nước trong việc bố trí kinh phí đảm bảo duy trì hoạt động, nâng cấp, phát triển phần mềm, bổ sung hạ tầng kỹ thuật để đảm bảo hoạt động an toàn, ổn định, hiệu quả phần mềm.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:69910:part:2:article:15:clause:4",
+                    "number": "4",
+                    "content": "4. Thủ trưởng các đơn vị có trách nhiệm\nkiểm tra, đôn đốc việc cập nhật, khai thác và sử dụng thông tin theo đúng quy định của Quy chế này.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:69910:part:2:article:15:clause:5",
+                    "number": "5",
+                    "content": "5. Các đơn vị trực thuộc Kiểm toán\nnhà nước căn cứ chức năng nhiệm vụ của đơn vị mình có trách nhiệm phối hợp với Vụ Tổ chức cán bộ và Trung tâm Tin học trong việc quản lý, triển khai áp dụng phần mềm, định kỳ hàng năm (hoặc đột xuất) đơn vị có trách nhiệm báo cáo Lãnh đạo Kiểm toán nhà nước (qua Trung tâm Tin học) tình hình sử dụng phần mềm.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:69910:part:2:article:15:clause:6",
+                    "number": "6",
+                    "content": "6. Thủ trưởng đơn vị có trách nhiệm đề\nnghị tạm dừng quyền truy cập phần mềm đối với các công chức vi phạm quy định trong quá trình sử dụng.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:69910:part:2:chapter:5",
+            "number": "V",
+            "title": "ĐIỀU KHOẢN THI HÀNH",
+            "content": "Chương V\nĐIỀU KHOẢN THI HÀNH",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:69910:part:2:article:16",
+                "number": "16",
+                "title": "Tổ chức thực hiện",
+                "content": "Điều 16. Tổ chức thực hiện",
+                "clauses": [
+                  {
+                    "clause_id": "doc:69910:part:2:article:16:clause:1",
+                    "number": "1",
+                    "content": "1. Trung tâm Tin học chủ trì tổ chức\ntriển khai, hướng dẫn thực hiện Quy chế này.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:69910:part:2:article:16:clause:2",
+                    "number": "2",
+                    "content": "2. Vụ Tổ chức cán bộ, Trường đào tạo\nvà bồi dưỡng nghiệp vụ kiểm toán, Trung tâm Tin học có trách nhiệm tổ chức, hướng dẫn thực hiện và kiểm tra việc thi hành Quy chế này.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:69910:part:2:article:16:clause:3",
+                    "number": "3",
+                    "content": "3. Thủ trưởng các đơn vị chịu trách\nnhiệm về việc tổ chức triển khai thực hiện Quy chế này trong phạm vi quản lý của mình.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:69910:part:2:article:16:clause:4",
+                    "number": "4",
+                    "content": "4. Trong quá trình thực hiện nếu có\nkhó khăn, vướng mắc, các đơn vị phản ánh về Vụ Tổ chức cán bộ, Trường đào tạo và bồi dưỡng nghiệp vụ kiểm toán (đối với các nội dung liên quan đến công tác đào tạo), Trung tâm Tin học (đối với các chức năng phần mềm) để tổng hợp, báo cáo Tổng Kiểm toán nhà nước xem xét điều chỉnh bổ sung cho phù hợp./.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          }
+        ],
+        "sections": [],
+        "articles": [],
+        "unstructured_blocks": []
+      }
+    ]
+  },
+  "issues": [],
+  "status": "ok",
+  "source_hash": "context_69910.json",
+  "stats": {
+    "source_chars": 19524,
+    "passage_chars": 19368,
+    "parts": 2,
+    "chapters": 5,
+    "sections": 0,
+    "articles": 19,
+    "clauses": 74,
+    "points": 0
+  }
+}

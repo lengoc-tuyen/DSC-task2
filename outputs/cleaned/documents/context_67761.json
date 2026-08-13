@@ -1,0 +1,487 @@
+{
+  "schema_version": "2.0",
+  "document_id": 67761,
+  "metadata": {
+    "name": "Thong-tu-45-2021-TT-BTC-ap-dung-co-che-Thoa-thuan-truoc-ve-phuong-phap-xac-dinh-gia-tinh-thue-478609",
+    "link": "https://thuvienphapluat.vn/van-ban/Doanh-nghiep/Thong-tu-45-2021-TT-BTC-ap-dung-co-che-Thoa-thuan-truoc-ve-phuong-phap-xac-dinh-gia-tinh-thue-478609.aspx",
+    "issuing_agency": "BỘ TÀI CHÍNH",
+    "national_header": "CỘNG HÒA XÃ\r\n\n  HỘI CHỦ NGHĨA VIỆT NAM",
+    "motto": "Độc lập - Tự do - Hạnh phúc",
+    "document_number": "45/2021/TT-BTC",
+    "issued_place": "Hà Nội",
+    "issued_date": "ngày 18 tháng 6 năm 2021",
+    "document_type": "THÔNG TƯ",
+    "title": "HƯỚNG DẪN VIỆC ÁP DỤNG CƠ CHẾ THỎA THUẬN TRƯỚC VỀ PHƯƠNG PHÁP XÁC ĐỊNH GIÁ TÍNH THUẾ (APA) TRONG QUẢN LÝ THUẾ ĐỐI VỚI DOANH NGHIỆP CÓ GIAO DỊCH LIÊN KẾT Căn cứ Luật Quản lý thuế ngày 13 tháng 6 năm 2019; Căn cứ Luật Thuế thu nhập doanh nghiệp ngày 03 tháng 6 năm 2008; Luật sửa đổi, bổ sung một số điều của Luật Thuế thu nhập doanh nghiệp ngày 19 tháng 6 năm 2013; Luật sửa đổi, bổ sung một số điều của các Luật về Thuế ngày 26 tháng 11 năm 2014; Căn cứ Nghị định số 218/2013/NĐ-CP ngày 26 tháng 12 năm 2013 của Chính phủ quy định chi tiết và hướng dẫn thi hành Luật Thuế thu nhập doanh nghiệp; Nghị định số 91/2014/NĐ-CP ngày 01 tháng 10 năm 2014 của Chính phủ sửa đổi, bổ sung một số điều tại các Nghị định quy định về thuế; Nghị định số 12/2015/NĐ-CP ngày 12 tháng 02 năm 2015 của Chính phủ quy định chi tiết thi hành Luật sửa đổi, bổ sung một số điều của các Luật về thuế và sửa đổi, bổ sung một số điều của các Nghị định về thuế; Nghị định số 146/2017/NĐ-CP ngày 15 tháng 12 năm 2017 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 100/2016/NĐ-CP ngày 01 tháng 7 năm 2016 và Nghị định số 12/2015/NĐ-CP ngày 12 tháng 02 năm 2015 của Chính phủ; Căn cứ Điều 41 Nghị định số 126/2020/NĐ-CP ngày 19 tháng 10 năm 2020 của Chính phủ quy định chi tiết một số điều của Luật Quản lý thuế; Căn cứ Nghị định số 132/2020/NĐ-CP ngày 05 tháng 11 năm 2020 của Chính phủ quy định về quản lý thuế đối với doanh nghiệp có giao dịch liên kết; Căn cứ Nghị định số 87/2017/NĐ-CP ngày 26 tháng 7 năm 2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức cua Bộ Tài chính; Theo đề nghị của Tổng cục trưởng Tổng cục Thuế; Bộ trưởng Bộ Tài chính ban hành Thông tư hướng dẫn việc áp dụng cơ chế Thỏa thuận trước về phương pháp xác định giá tính thuế (APA) trong quản lý thuế đối với doanh nghiệp có giao dịch liên kết"
+  },
+  "administrative_header": {
+    "removed": true,
+    "removed_char_count": 152
+  },
+  "preamble": {
+    "text": "THÔNG TƯ\nHƯỚNG DẪN VIỆC ÁP DỤNG CƠ CHẾ THỎA THUẬN TRƯỚC VỀ PHƯƠNG PHÁP\nXÁC ĐỊNH GIÁ TÍNH THUẾ (APA) TRONG QUẢN LÝ THUẾ ĐỐI VỚI DOANH NGHIỆP CÓ GIAO DỊCH\nLIÊN KẾT\nCăn cứ Luật Quản lý thuế ngày 13 tháng 6 năm 2019; Căn cứ Luật Thuế thu nhập doanh nghiệp ngày 03 tháng 6 năm 2008; Luật sửa đổi, bổ sung một số điều của Luật Thuế thu nhập doanh nghiệp ngày 19 tháng 6 năm 2013; Luật sửa đổi, bổ sung một số điều của các Luật về Thuế ngày 26 tháng 11 năm 2014; Căn cứ Nghị định số 218/2013/NĐ-CP ngày 26 tháng 12 năm 2013 của Chính phủ quy định chi tiết và hướng dẫn thi hành Luật Thuế thu nhập doanh nghiệp; Nghị định số 91/2014/NĐ-CP ngày 01 tháng 10 năm 2014 của Chính phủ sửa đổi, bổ sung một số điều tại các Nghị định quy định về thuế; Nghị định số 12/2015/NĐ-CP ngày 12 tháng 02 năm 2015 của Chính phủ quy định chi tiết thi hành Luật sửa đổi, bổ sung một số điều của các Luật về thuế và sửa đổi, bổ sung một số điều của các Nghị định về thuế; Nghị định số 146/2017/NĐ-CP ngày 15 tháng 12 năm 2017 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 100/2016/NĐ-CP ngày 01 tháng 7 năm 2016 và Nghị định số 12/2015/NĐ-CP ngày 12 tháng 02 năm 2015 của Chính phủ; Căn cứ Điều 41 Nghị định số 126/2020/NĐ-CP ngày 19 tháng 10 năm 2020 của Chính phủ quy định chi tiết một số điều của Luật Quản lý thuế; Căn cứ Nghị định số 132/2020/NĐ-CP ngày 05 tháng 11 năm 2020 của Chính phủ quy định về quản lý thuế đối với doanh nghiệp có giao dịch liên kết; Căn cứ Nghị định số 87/2017/NĐ-CP ngày 26 tháng 7 năm 2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức cua Bộ Tài chính; Theo đề nghị của Tổng cục trưởng Tổng cục Thuế; Bộ trưởng Bộ Tài chính ban hành Thông tư hướng dẫn việc áp dụng cơ chế Thỏa thuận trước về phương pháp xác định giá tính thuế (APA) trong quản lý thuế đối với doanh nghiệp có giao dịch liên kết.",
+    "legal_bases": [
+      "Căn cứ Luật Thuế thu nhập doanh nghiệp ngày 03 tháng 6 năm 2008",
+      "Căn cứ Nghị định số 218/2013/NĐ-CP ngày 26 tháng 12 năm 2013 của Chính phủ quy định chi tiết và hướng dẫn thi hành Luật Thuế thu nhập doanh nghiệp",
+      "Căn cứ Điều 41 Nghị định số 126/2020/NĐ-CP ngày 19 tháng 10 năm 2020 của Chính phủ quy định chi tiết một số điều của Luật Quản lý thuế",
+      "Căn cứ Nghị định số 132/2020/NĐ-CP ngày 05 tháng 11 năm 2020 của Chính phủ quy định về quản lý thuế đối với doanh nghiệp có giao dịch liên kết",
+      "Căn cứ Nghị định số 87/2017/NĐ-CP ngày 26 tháng 7 năm 2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức cua Bộ Tài chính"
+    ],
+    "proposals": [
+      "Theo đề nghị của Tổng cục trưởng Tổng cục Thuế"
+    ],
+    "enactment_formula": null
+  },
+  "passage": "THÔNG TƯ\nHƯỚNG DẪN VIỆC ÁP DỤNG CƠ CHẾ THỎA THUẬN TRƯỚC VỀ PHƯƠNG PHÁP\nXÁC ĐỊNH GIÁ TÍNH THUẾ (APA) TRONG QUẢN LÝ THUẾ ĐỐI VỚI DOANH NGHIỆP CÓ GIAO DỊCH\nLIÊN KẾT\nCăn cứ Luật Quản lý thuế ngày 13 tháng 6 năm 2019; Căn cứ Luật Thuế thu nhập doanh nghiệp ngày 03 tháng 6 năm 2008; Luật sửa đổi, bổ sung một số điều của Luật Thuế thu nhập doanh nghiệp ngày 19 tháng 6 năm 2013; Luật sửa đổi, bổ sung một số điều của các Luật về Thuế ngày 26 tháng 11 năm 2014; Căn cứ Nghị định số 218/2013/NĐ-CP ngày 26 tháng 12 năm 2013 của Chính phủ quy định chi tiết và hướng dẫn thi hành Luật Thuế thu nhập doanh nghiệp; Nghị định số 91/2014/NĐ-CP ngày 01 tháng 10 năm 2014 của Chính phủ sửa đổi, bổ sung một số điều tại các Nghị định quy định về thuế; Nghị định số 12/2015/NĐ-CP ngày 12 tháng 02 năm 2015 của Chính phủ quy định chi tiết thi hành Luật sửa đổi, bổ sung một số điều của các Luật về thuế và sửa đổi, bổ sung một số điều của các Nghị định về thuế; Nghị định số 146/2017/NĐ-CP ngày 15 tháng 12 năm 2017 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 100/2016/NĐ-CP ngày 01 tháng 7 năm 2016 và Nghị định số 12/2015/NĐ-CP ngày 12 tháng 02 năm 2015 của Chính phủ; Căn cứ Điều 41 Nghị định số 126/2020/NĐ-CP ngày 19 tháng 10 năm 2020 của Chính phủ quy định chi tiết một số điều của Luật Quản lý thuế; Căn cứ Nghị định số 132/2020/NĐ-CP ngày 05 tháng 11 năm 2020 của Chính phủ quy định về quản lý thuế đối với doanh nghiệp có giao dịch liên kết; Căn cứ Nghị định số 87/2017/NĐ-CP ngày 26 tháng 7 năm 2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức cua Bộ Tài chính; Theo đề nghị của Tổng cục trưởng Tổng cục Thuế; Bộ trưởng Bộ Tài chính ban hành Thông tư hướng dẫn việc áp dụng cơ chế Thỏa thuận trước về phương pháp xác định giá tính thuế (APA) trong quản lý thuế đối với doanh nghiệp có giao dịch liên kết.\nĐiều 1. Phạm vi điều chỉnh\n1. Thông tư này hướng dẫn thi hành Điều\n41 Nghị định số 126/2020/NĐ-CP ngày 19 tháng 10 năm 2020 của Chính phủ về việc áp dụng cơ chế Thỏa thuận trước về phương pháp xác định giá tính thuế (sau đây được gọi tắt là APA) trong quản lý thuế đối với doanh nghiệp có giao dịch liên kết.\n2. Các nội dung khác về cơ chế APA được thực hiện\ntheo quy định của Luật Quản lý thuế số 38/2019/QH14 ngày 13 tháng 6 năm 2019, Nghị định số 132/2020/NĐ-CP ngày 05 tháng 11 năm 2020 của Chính phủ quy định về quản lý thuế đối với doanh nghiệp có giao dịch liên kết và các văn bản quy phạm pháp luật khác có liên quan.\nĐiều 2. Đối tượng áp dụng\n1. Tổ chức sản xuất, kinh doanh hàng hóa, dịch vụ\nlà người nộp thuế thu nhập doanh nghiệp theo phương pháp kê khai, thực hiện giao dịch với các bên có quan hệ liên kết và có đề nghị với cơ quan thuế về việc áp dụng APA. Các bên có quan hệ liên kết được quy định tại Điều 5 Nghị định số 132/2020/NĐ-CP.\n2. Tổng cục Thuế và Cục Thuế (sau đây gọi là cơ\nquan thuế).\n3. Cơ quan nhà nước, tổ chức, cá nhân khác có\nliên quan đến việc áp dụng APA trong quản lý thuế.\nĐiều 3. Giao dịch được đề nghị áp dụng APA\n1. Giao dịch được đề nghị áp dụng APA là các\ngiao dịch liên kết được quy định tại khoản 2 Điều 1 Nghị định số\n132/2020/NĐ-CP.\n2. Giao dịch được đề nghị áp dụng APA theo quy định\ntại khoản 1 Điều này phải đáp ứng đồng thời các điều kiện sau:\na) Giao dịch thực tế đã phát sinh trong hoạt động\nsản xuất kinh doanh của người nộp thuế và sẽ tiếp tục diễn ra trong giai đoạn đề nghị áp dụng APA.\nb) Giao dịch có cơ sở để xác định được bản chất\ngiao dịch quyết định nghĩa vụ thuế và có cơ sở để phân tích, so sánh, lựa chọn đối tượng so sánh độc lập theo quy định tại Điều 6 và Điều 7 Nghị định số 132/2020/NĐ-CP, dựa trên các thông tin, dữ liệu tuân thủ quy định tại điểm b khoản 6 Điều 42 Luật Quản lý thuế.\nc) Giao dịch không thuộc trường hợp có tranh chấp,\nkhiếu nại về thuế.\nd) Giao dịch được thực hiện minh bạch, không nhằm\nmục đích trốn, tránh thuế hoặc lợi dụng Hiệp định thuế.\nĐiều 4. Giải thích từ ngữ Ngoài các từ ngữ đã được giải thích tại Luật Quản lý thuế và Nghị định số 132/2020/NĐ-CP, các từ ngữ dưới đây được hiểu như sau:\n1. “APA đơn phương” là thỏa thuận được ký kết giữa\ncơ quan thuế Việt Nam và người nộp thuế đề nghị áp dụng APA.\n2. “APA song phương” là thỏa thuận được ký kết\ngiữa cơ quan thuế Việt Nam, người nộp thuế và một cơ quan thuế đối tác có liên quan đến việc xác định nghĩa vụ thuế của người nộp thuế đề nghị áp dụng APA trên cơ sở Hiệp định thuế.\n3. “APA đa phương” là thỏa thuận được ký kết giữa\ncơ quan thuế Việt Nam, người nộp thuế và nhiều cơ quan thuế đối tác có liên quan đến việc xác định nghĩa vụ thuế của người nộp thuế đề nghị áp dụng APA trên cơ sở Hiệp định thuế.\nĐiều 5. Nguyên tắc áp dụng APA\n1. APA được áp dụng trên nguyên tắc cơ quan thuế\nvà người nộp thuế hoặc cơ quan thuế Việt Nam và cơ quan thuế đối tác và người nộp thuế cùng hợp tác, trao đổi, đàm phán về việc áp dụng các quy định pháp luật về thực hiện nghĩa vụ thuế thu nhập doanh nghiệp đối với các giao dịch liên kết thuộc phạm vi APA phù hợp với các nguyên tắc giao dịch độc lập và nguyên tắc bản chất hoạt động, giao dịch quyết định nghĩa vụ thuế.\n2. Việc áp dụng APA nhằm nâng cao hiệu quả công\ntác quản lý thuế, giảm chi phí tuân thủ pháp luật thuế, xác định giá giao dịch liên kết của người nộp thuế phù hợp với nguyên tắc phân tích, so sánh với các giao dịch độc lập và nguyên tắc bản chất hoạt động, giao dịch quyết định nghĩa vụ thuế để xác định bản chất giao dịch liên kết, nghĩa vụ thuế thu nhập doanh nghiệp phải nộp của người nộp thuế như trong điều kiện giao dịch giữa các bên độc lập và ngăn ngừa việc đánh thuế trùng và trốn lậu thuế, giảm thiểu tranh chấp về xác định giá của giao dịch liên kết.\n3. Đề nghị áp dụng APA của người nộp thuế được\ngiải quyết trên cơ sở hồ sơ với các tài liệu, thông tin cần thiết theo quy định tại khoản 3 Điều 41 Nghị định số 126/2020/NĐ-CP do người nộp thuế cung cấp đầy đủ, chính xác, trung thực, kịp thời.\n4. Việc phân tích, so sánh, lựa chọn đối tượng\nso sánh độc lập và phương pháp được sử dụng để so sánh, xác định giá của giao dịch liên kết thuộc phạm vi áp dụng của APA được thực hiện theo quy định tại Nghị định số 132/2020/NĐ-CP.\n5. Việc áp dụng cơ chế APA phải đảm bảo tuân thủ\nnguyên tắc được quy định tại khoản 6 Điều 42 Luật Quản lý thuế.\nĐiều 6. Hồ Sơ và thông tin, dữ liệu sử dụng\n1. Hồ sơ đề nghị áp dụng APA thực hiện theo quy\nđịnh tại khoản 3 Điều 41 Nghị định số 126/2020/NĐ-CP. Hồ sơ đề nghị áp dụng APA được thể hiện bằng tiếng Việt; trường hợp hồ sơ đề nghị áp dụng APA song phương hoặc đa phương thì có thêm bản tiếng Anh. Người nộp thuế đóng dấu xác nhận và chịu trách nhiệm về nội dung bản dịch. Đối với hồ sơ đề nghị áp dụng APA song phương hoặc APA đa phương, người nộp thuế chịu trách nhiệm về tính đồng nhất của nội dung giữa hồ sơ nộp cho cơ quan thuế Việt Nam và hồ sơ do bên liên kết thuộc phạm vi đề nghị áp dụng APA nộp cho cơ quan thuế đối tác.\n2. Các thông tin, dữ liệu, cơ sở dữ liệu được sử\ndụng phải đảm bảo tuân thủ quy định tại điểm b khoản 6 Điều 42 Luật Quản lý thuế và Điều 17 Nghị định số 132/2020/NĐ-CP.\nĐiều 7. Thẩm định hồ Sơ đề nghị áp dụng APA\n1. Tổng cục Thuế tiến hành thẩm định hồ sơ đề\nnghị áp dụng APA của người nộp thuế nhằm kiểm tra, đối chiếu, xác định và đánh giá tính đầy đủ, chính xác, hợp pháp, hợp lý, hợp lệ của các thông tin, dữ liệu do người nộp thuế cung cấp để đưa ra bản đánh giá về phương pháp xác định giá giao dịch liên kết, đối tượng so sánh được lựa chọn phù hợp cho việc xác định mức giá, tỷ suất lợi nhuận hoặc tỷ lệ phân bố lợi nhuận đối với các giao dịch thuộc phạm vi đề nghị áp dụng APA.\n2. Trong quá trình thẩm định, Tổng cục Thuế có\nthể áp dụng các biện pháp sau:\na) Yêu cầu người nộp thuế và tổ chức, cá nhân\nkhác có liên quan giải trình, làm rõ các thông tin trong hồ sơ đề nghị áp dụng\nAPA.\nb) Áp dụng các biện pháp quản lý thuế đối với\nngười nộp thuế để xác minh tính đầy đủ, chính xác, hợp pháp, hợp lý, hợp lệ của các thông tin, tài liệu do người nộp thuế cung cấp.\nĐiều 8. Trao đổi, đàm phán nội dung APA\n1. Tổng cục Thuế thực hiện trao đổi, đàm phán nội\ndung APA với người nộp thuế (trong trường họp đề nghị áp dụng APA đơn phương) hoặc với cơ quan thuế đối tác và người nộp thuế (trong trường hợp đề nghị áp dụng APA song phương, đa phương) qua các hình thức tổ chức họp, gặp mặt trực tiếp hoặc qua điện thoại, truyền hình trực tuyến hoặc bằng trao đổi văn bản qua thư tín về các nội dung liên quan đến đề nghị áp dụng APA của người nộp thuế. Việc trao đổi, đàm phán nhằm thống nhất với người nộp thuế, cơ quan thuế đối tác về các nội dung dự kiến tại bản dự thảo APA cuối cùng theo quy định tại khoản 6 Điều 41 Nghị định số 126/2020/NĐ-CP để trình cấp có thẩm quyền phê duyệt. Kết quả của từng lần trao đổi, đàm phán phải được các bên tham gia ghi nhận bằng văn bản.\n2. Trường hợp người nộp thuế đề nghị áp dụng APA\nsong phương hoặc đa phương, người nộp thuế có trách nhiệm thông báo với bên liên kết thuộc phạm vi đề nghị áp dụng APA để đề nghị cơ quan thuế đối tác liên lạc và xúc tiến việc trao đổi, đàm phán với Tổng cục Thuế. Trong quá trình trao đổi, đàm phán song phương, đa phương giữa các cơ quan thuế có liên quan, trường hợp cần thiết và được Tổng cục Thuế và cơ quan thuế đối tác chấp thuận, người nộp thuế có thể cử đại diện tham dự theo thư mời của cơ quan thuế để giải trình về các vấn đề liên quan. Cơ quan thuế có thể thông báo các thông tin tóm tắt về tiến độ, kết quả đàm phán cho người nộp thuế; đồng thời có thể yêu cầu người nộp thuế giải trình các nội dung có liên quan.\nĐiều 9. Quyền, nghĩa vụ và trách nhiệm của người nộp thuế\n1. Quyền của người nộp thuế\na) Người nộp thuế có quyền đề nghị với Tổng cục\nThuế về việc rút đơn hoặc dừng đàm phán tại bất cứ thời điểm nào trước khi APA được ký kết;\nb) Người nộp thuế có quyền mời hoặc thuê chuyên\ngia độc lập là người có kỹ năng, kiến thức phù hợp với nội dung APA để tham gia trao đổi, đàm phán APA. Trong các văn bản ghi nhận kết quả trao đổi, đàm phán phải được ký xác nhận bởi người nộp thuế.\nc) Trường hợp trong khi thực hiện APA đơn phương\nnếu có phát sinh việc đánh thuế trùng hoặc có sự điều chỉnh về thu nhập chịu thuế dẫn đến bất lợi cho người nộp thuế xuất phát từ quyết định của cơ quan thuế đối tác, người nộp thuế có quyền đề nghị Tổng cục Thuế về việc sửa đổi hoặc hủy bỏ APA theo quy định tại khoản 9 và khoản 10 Điều 41 Nghị định số 126/2020/NĐ-CP.\n2. Nghĩa vụ và trách nhiệm của người nộp thuế\na) Người nộp thuế có trách nhiệm cung cấp đầy đủ,\nkịp thời, trung thực, chính xác các thông tin, dữ liệu cho cơ quan thuế trong quá trình tham vấn (nếu có), nộp hồ sơ chính thức, thẩm định, đàm phán, ký kết, thực hiện APA cũng như trong quá trình giải quyết đề nghị gia hạn, sửa đổi APA theo quy định tại Điều 97 Luật Quản lý thuế. Người nộp thuế chịu trách nhiệm trước pháp luật về tính trung thực, chính xác của những thông tin này.\nb) Người nộp thuế có nghĩa vụ lưu giữ hồ sơ, chứng\ntừ liên quan trong quá trình thẩm định, đàm phán, ký kết, thực hiện APA và cung cấp cho cơ quan thuế khi có yêu cầu.\nc) Trong thời gian thực hiện APA, người nộp thuế\ncó trách nhiệm tuân thủ các điều kiện tại APA đã được ký kết và thực hiện việc điều chỉnh thu nhập chịu thuế phù hợp với mức giá hoặc tỷ suất lợi nhuận hoặc tỷ lệ phân bổ lợi nhuận đã được quy định tại APA để thực hiện khai nộp thuế thu nhập doanh nghiệp theo quy định.\nd) Người nộp thuế có trách nhiệm lập và nộp các\nbáo cáo APA thường niên cho từng năm tính thuế và báo cáo đột xuất (nếu có) trong giai đoạn hiệu lực của APA đã ký kết theo quy định tại khoản 7 Điều 41 Nghị định số 126/2020/NĐ-CP.\nđ) Người nộp thuế có hành vi vi phạm hành chính\nvề thuế trong quá trình thực hiện APA đã ký sẽ bị xử phạt vi phạm hành chính về thuế theo quy định hiện hành.\nĐiều 10. Quyền hạn và trách nhiệm của cơ quan thuế\n1. Quyền hạn của cơ quan thuế\na) Cơ quan thuế có quyền yêu cầu người nộp thuế\ngiải trình, làm rõ các thông tin người nộp thuế cung cấp trong suốt quá trình giải quyết hồ sơ đề nghị áp dụng APA.\nb) Cơ quan thuế có quyền dừng đàm phán khi phát\nsinh một trong các trường hợp sau: b1) Việc tiếp tục đàm phán APA không đáp ứng được các nguyên tắc áp dụng APA quy định tại Luật Quản lý thuế, Nghị định số 126/2020/NĐ-CP và Điều 5 Thông tư này; b2) Các bên liên quan không thống nhất được nội dung APA khi giai đoạn được đề nghị áp dụng APA kết thúc; b3) Người nộp thuế hoặc cơ quan thuế đối tác đề nghị dừng đàm phán APA. Tổng cục Thuế thông báo cho người nộp thuế (đối với APA đơn phương) hoặc cho người nộp thuế và thông báo hoặc xác nhận với cơ quan thuế nước ngoài (đối với APA song phương hoặc đa phương) về việc dừng đàm phán APA.\n2. Trách nhiệm của cơ quan thuế\na) Căn cứ thẩm quyền theo quy định tại Điều 41 Nghị định số 126/2020/NĐ-CP, Tổng cục Thuế thực hiện\ntiếp nhận hồ sơ của người nộp thuế; tiến hành giải quyết đề nghị của người nộp thuế về việc áp dụng APA, gia hạn, sửa đổi APA đã ký kết; hủy bỏ, thu hồi APA đã ký kết.\nb) Cơ quan thuế có trách nhiệm quản lý, kiểm\ntra, thanh tra việc thực hiện APA đã ký kết của người nộp thuế theo quy định tại khoản 9 Điều 20 Nghị định số 132/2020/NĐ-CP theo chức năng, nhiệm vụ được giao, bao gồm: Thanh tra, kiểm tra, xác định thực tế việc chấp hành các quy định tại APA đã ký kết; thanh tra, kiểm tra, xác định việc khai, nộp thuế và điều chỉnh thu nhập chịu thuế theo các quy định tại APA đã ký kết; kiểm tra, xác định thông tin tại các báo cáo APA thường niên, báo cáo đột xuất do người nộp thuế báo cáo phù hợp với thực tế phát sinh. Việc quản lý, kiểm tra, thanh tra của cơ quan thuế nhằm giám sát sự tuân thủ của người nộp thuế trong việc thực hiện APA đã ký kết, không thẩm định lại APA đã ký kết.\nc) Cục Thuế tham gia và chịu trách nhiệm đối với\ncác nội dung tham gia trong quá trình tham định, trao đổi, đàm phán APA thuộc phạm vi quản lý nhà nước được phân công; quản lý, kiểm tra, thanh tra việc thực hiện các APA đã được ký kết theo chức năng, nhiệm vụ của Cục Thuế.\nĐiều 11. Bảo mật thông tin\n1. Cơ quan thuế, người nộp thuế và các cơ quan\ncó liên quan có trách nhiệm bảo mật thông tin, dữ liệu được sử dụng trong suốt quá trình giải quyết hồ sơ APA theo quy định về bảo mật thông tin người nộp thuế tại Điều 99 Luật Quản lý thuế, các văn bản hướng dẫn thi hành và Hiệp định thuế có liên quan. 2/ Trường hợp hồ sơ APA bị dừng đàm phán, bị rút đơn, bị hủy bỏ hoặc bị thu hồi thì các thông tin, dữ liệu do người nộp thuế cung cấp tại hồ sơ đề nghị áp dụng APA chính thức, giải trình theo yêu cầu, báo cáo APA thường niên, báo cáo đột xuất sẽ không được cơ quan thuế sử dụng làm chứng cứ hay chứng từ để phục vụ các mục đích kiểm tra, thanh tra hay ấn định thuế đối với người nộp thuế. Trường hợp các thông tin, dữ liệu do người nộp thuế cung cấp là các thông tin, dữ liệu đã được người nộp thuế công khai thì cơ quan thuế được tiếp tục sử dụng làm căn cứ xác định nghĩa vụ thuế của người nộp thuế.\nĐiều 12. Hiệu lực APA\n1. APA đã ký kết sẽ có hiệu lực thi hành bắt buộc\nvới cơ quan thuế và người nộp thuế.\n2. Thời gian có hiệu lực của APA đã ký kết tối\nđa là 03 năm tính thuế nhưng không vượt quá số năm thực tế người nộp thuế đã hoạt động sản xuất kinh doanh và kê khai, nộp thuế thu nhập doanh nghiệp tại Việt Nam.\nĐiều 13. Hiệu lực thi hành\n1. Thông tư này có hiệu lực thi hành kể từ ngày\n03 tháng 8 năm 2021, thay thế Thông tư số 201/2013/TT-BTC ngày 20 tháng 12 năm 2013 của Bộ Tài chính hướng dẫn việc áp dụng Thỏa thuận trước về phương pháp xác định giá tính thuế (APA) trong quản lý thuế.\n2. Đối với đề nghị áp dụng APA nộp trước ngày\nThông tư này có hiệu lực nhưng chưa được ký kết và giai đoạn đề nghị áp dụng APA chưa kết thúc tính đến thời điểm Thông tư này có hiệu lực thì được tiếp tục giải quyết theo quy định tại Luật Quản lý thuế, Nghị định số 126/2020/NĐ-CP và Thông tư này.\n3. Trong quá trình thực hiện nếu có vướng mắc, đề\nnghị các tổ chức, cá nhân phản ánh kịp thời về Bộ Tài chính để nghiên cứu giải quyết./. Nơi nhận: - Văn phòng Trung ương và các Ban của Đảng; - Văn phòng Quốc hội; - Văn phòng Tổng Bí thư; - Văn phòng Chủ tịch nước; - Văn phòng Chính phủ; - Viện Kiểm sát nhân dân tối cao; - Toà án nhân dân tối cao; - Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ; - Cơ quan Trung ương của các đoàn thể; - Kiểm toán Nhà nước; - HĐND, UBND, Sở Tài chính, Cục Thuế, Kho bạc Nhà nước các tỉnh, thành phố trực thuộc TW; - Cục Kiểm tra văn bản (Bộ Tư pháp); - Công báo; - Website Chính phủ; - Website Bộ Tài chính; - Website Tổng cục Thuế; - Các đơn vị thuộc Bộ Tài chính; - Lưu: VT, TCT (VT, DNL(3b))\nBỘ TRƯỞNG\nHồ Đức Phớc",
+  "tree": {
+    "parts": [
+      {
+        "part_id": "doc:67761:part:1",
+        "part_type": "main",
+        "part_title": null,
+        "reference": null,
+        "direct_text": "THÔNG TƯ\nHƯỚNG DẪN VIỆC ÁP DỤNG CƠ CHẾ THỎA THUẬN TRƯỚC VỀ PHƯƠNG PHÁP\nXÁC ĐỊNH GIÁ TÍNH THUẾ (APA) TRONG QUẢN LÝ THUẾ ĐỐI VỚI DOANH NGHIỆP CÓ GIAO DỊCH\nLIÊN KẾT\nCăn cứ Luật Quản lý thuế ngày 13 tháng 6 năm 2019; Căn cứ Luật Thuế thu nhập doanh nghiệp ngày 03 tháng 6 năm 2008; Luật sửa đổi, bổ sung một số điều của Luật Thuế thu nhập doanh nghiệp ngày 19 tháng 6 năm 2013; Luật sửa đổi, bổ sung một số điều của các Luật về Thuế ngày 26 tháng 11 năm 2014; Căn cứ Nghị định số 218/2013/NĐ-CP ngày 26 tháng 12 năm 2013 của Chính phủ quy định chi tiết và hướng dẫn thi hành Luật Thuế thu nhập doanh nghiệp; Nghị định số 91/2014/NĐ-CP ngày 01 tháng 10 năm 2014 của Chính phủ sửa đổi, bổ sung một số điều tại các Nghị định quy định về thuế; Nghị định số 12/2015/NĐ-CP ngày 12 tháng 02 năm 2015 của Chính phủ quy định chi tiết thi hành Luật sửa đổi, bổ sung một số điều của các Luật về thuế và sửa đổi, bổ sung một số điều của các Nghị định về thuế; Nghị định số 146/2017/NĐ-CP ngày 15 tháng 12 năm 2017 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 100/2016/NĐ-CP ngày 01 tháng 7 năm 2016 và Nghị định số 12/2015/NĐ-CP ngày 12 tháng 02 năm 2015 của Chính phủ; Căn cứ Điều 41 Nghị định số 126/2020/NĐ-CP ngày 19 tháng 10 năm 2020 của Chính phủ quy định chi tiết một số điều của Luật Quản lý thuế; Căn cứ Nghị định số 132/2020/NĐ-CP ngày 05 tháng 11 năm 2020 của Chính phủ quy định về quản lý thuế đối với doanh nghiệp có giao dịch liên kết; Căn cứ Nghị định số 87/2017/NĐ-CP ngày 26 tháng 7 năm 2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức cua Bộ Tài chính; Theo đề nghị của Tổng cục trưởng Tổng cục Thuế; Bộ trưởng Bộ Tài chính ban hành Thông tư hướng dẫn việc áp dụng cơ chế Thỏa thuận trước về phương pháp xác định giá tính thuế (APA) trong quản lý thuế đối với doanh nghiệp có giao dịch liên kết.",
+        "chapters": [],
+        "sections": [],
+        "articles": [
+          {
+            "article_id": "doc:67761:part:1:article:1",
+            "number": "1",
+            "title": "Phạm vi điều chỉnh",
+            "content": "Điều 1. Phạm vi điều chỉnh",
+            "clauses": [
+              {
+                "clause_id": "doc:67761:part:1:article:1:clause:1",
+                "number": "1",
+                "content": "1. Thông tư này hướng dẫn thi hành Điều\n41 Nghị định số 126/2020/NĐ-CP ngày 19 tháng 10 năm 2020 của Chính phủ về việc áp dụng cơ chế Thỏa thuận trước về phương pháp xác định giá tính thuế (sau đây được gọi tắt là APA) trong quản lý thuế đối với doanh nghiệp có giao dịch liên kết.",
+                "points": []
+              },
+              {
+                "clause_id": "doc:67761:part:1:article:1:clause:2",
+                "number": "2",
+                "content": "2. Các nội dung khác về cơ chế APA được thực hiện\ntheo quy định của Luật Quản lý thuế số 38/2019/QH14 ngày 13 tháng 6 năm 2019, Nghị định số 132/2020/NĐ-CP ngày 05 tháng 11 năm 2020 của Chính phủ quy định về quản lý thuế đối với doanh nghiệp có giao dịch liên kết và các văn bản quy phạm pháp luật khác có liên quan.",
+                "points": []
+              }
+            ],
+            "points": []
+          },
+          {
+            "article_id": "doc:67761:part:1:article:2",
+            "number": "2",
+            "title": "Đối tượng áp dụng",
+            "content": "Điều 2. Đối tượng áp dụng",
+            "clauses": [
+              {
+                "clause_id": "doc:67761:part:1:article:2:clause:1",
+                "number": "1",
+                "content": "1. Tổ chức sản xuất, kinh doanh hàng hóa, dịch vụ\nlà người nộp thuế thu nhập doanh nghiệp theo phương pháp kê khai, thực hiện giao dịch với các bên có quan hệ liên kết và có đề nghị với cơ quan thuế về việc áp dụng APA. Các bên có quan hệ liên kết được quy định tại Điều 5 Nghị định số 132/2020/NĐ-CP.",
+                "points": []
+              },
+              {
+                "clause_id": "doc:67761:part:1:article:2:clause:2",
+                "number": "2",
+                "content": "2. Tổng cục Thuế và Cục Thuế (sau đây gọi là cơ\nquan thuế).",
+                "points": []
+              },
+              {
+                "clause_id": "doc:67761:part:1:article:2:clause:3",
+                "number": "3",
+                "content": "3. Cơ quan nhà nước, tổ chức, cá nhân khác có\nliên quan đến việc áp dụng APA trong quản lý thuế.",
+                "points": []
+              }
+            ],
+            "points": []
+          },
+          {
+            "article_id": "doc:67761:part:1:article:3",
+            "number": "3",
+            "title": "Giao dịch được đề nghị áp dụng APA",
+            "content": "Điều 3. Giao dịch được đề nghị áp dụng APA",
+            "clauses": [
+              {
+                "clause_id": "doc:67761:part:1:article:3:clause:1",
+                "number": "1",
+                "content": "1. Giao dịch được đề nghị áp dụng APA là các\ngiao dịch liên kết được quy định tại khoản 2 Điều 1 Nghị định số\n132/2020/NĐ-CP.",
+                "points": []
+              },
+              {
+                "clause_id": "doc:67761:part:1:article:3:clause:2",
+                "number": "2",
+                "content": "2. Giao dịch được đề nghị áp dụng APA theo quy định\ntại khoản 1 Điều này phải đáp ứng đồng thời các điều kiện sau:",
+                "points": [
+                  {
+                    "point_id": "doc:67761:part:1:article:3:clause:2:point:1",
+                    "label": "a",
+                    "content": "a) Giao dịch thực tế đã phát sinh trong hoạt động\nsản xuất kinh doanh của người nộp thuế và sẽ tiếp tục diễn ra trong giai đoạn đề nghị áp dụng APA.",
+                    "children": []
+                  },
+                  {
+                    "point_id": "doc:67761:part:1:article:3:clause:2:point:2",
+                    "label": "b",
+                    "content": "b) Giao dịch có cơ sở để xác định được bản chất\ngiao dịch quyết định nghĩa vụ thuế và có cơ sở để phân tích, so sánh, lựa chọn đối tượng so sánh độc lập theo quy định tại Điều 6 và Điều 7 Nghị định số 132/2020/NĐ-CP, dựa trên các thông tin, dữ liệu tuân thủ quy định tại điểm b khoản 6 Điều 42 Luật Quản lý thuế.",
+                    "children": []
+                  },
+                  {
+                    "point_id": "doc:67761:part:1:article:3:clause:2:point:3",
+                    "label": "c",
+                    "content": "c) Giao dịch không thuộc trường hợp có tranh chấp,\nkhiếu nại về thuế.",
+                    "children": []
+                  },
+                  {
+                    "point_id": "doc:67761:part:1:article:3:clause:2:point:4",
+                    "label": "d",
+                    "content": "d) Giao dịch được thực hiện minh bạch, không nhằm\nmục đích trốn, tránh thuế hoặc lợi dụng Hiệp định thuế.",
+                    "children": []
+                  }
+                ]
+              }
+            ],
+            "points": []
+          },
+          {
+            "article_id": "doc:67761:part:1:article:4",
+            "number": "4",
+            "title": "Giải thích từ ngữ Ngoài các từ ngữ đã được giải thích tại Luật Quản lý thuế và Nghị định số 132/2020/NĐ-CP, các từ ngữ dưới đây được hiểu như sau:",
+            "content": "Điều 4. Giải thích từ ngữ Ngoài các từ ngữ đã được giải thích tại Luật Quản lý thuế và Nghị định số 132/2020/NĐ-CP, các từ ngữ dưới đây được hiểu như sau:",
+            "clauses": [
+              {
+                "clause_id": "doc:67761:part:1:article:4:clause:1",
+                "number": "1",
+                "content": "1. “APA đơn phương” là thỏa thuận được ký kết giữa\ncơ quan thuế Việt Nam và người nộp thuế đề nghị áp dụng APA.",
+                "points": []
+              },
+              {
+                "clause_id": "doc:67761:part:1:article:4:clause:2",
+                "number": "2",
+                "content": "2. “APA song phương” là thỏa thuận được ký kết\ngiữa cơ quan thuế Việt Nam, người nộp thuế và một cơ quan thuế đối tác có liên quan đến việc xác định nghĩa vụ thuế của người nộp thuế đề nghị áp dụng APA trên cơ sở Hiệp định thuế.",
+                "points": []
+              },
+              {
+                "clause_id": "doc:67761:part:1:article:4:clause:3",
+                "number": "3",
+                "content": "3. “APA đa phương” là thỏa thuận được ký kết giữa\ncơ quan thuế Việt Nam, người nộp thuế và nhiều cơ quan thuế đối tác có liên quan đến việc xác định nghĩa vụ thuế của người nộp thuế đề nghị áp dụng APA trên cơ sở Hiệp định thuế.",
+                "points": []
+              }
+            ],
+            "points": []
+          },
+          {
+            "article_id": "doc:67761:part:1:article:5",
+            "number": "5",
+            "title": "Nguyên tắc áp dụng APA",
+            "content": "Điều 5. Nguyên tắc áp dụng APA",
+            "clauses": [
+              {
+                "clause_id": "doc:67761:part:1:article:5:clause:1",
+                "number": "1",
+                "content": "1. APA được áp dụng trên nguyên tắc cơ quan thuế\nvà người nộp thuế hoặc cơ quan thuế Việt Nam và cơ quan thuế đối tác và người nộp thuế cùng hợp tác, trao đổi, đàm phán về việc áp dụng các quy định pháp luật về thực hiện nghĩa vụ thuế thu nhập doanh nghiệp đối với các giao dịch liên kết thuộc phạm vi APA phù hợp với các nguyên tắc giao dịch độc lập và nguyên tắc bản chất hoạt động, giao dịch quyết định nghĩa vụ thuế.",
+                "points": []
+              },
+              {
+                "clause_id": "doc:67761:part:1:article:5:clause:2",
+                "number": "2",
+                "content": "2. Việc áp dụng APA nhằm nâng cao hiệu quả công\ntác quản lý thuế, giảm chi phí tuân thủ pháp luật thuế, xác định giá giao dịch liên kết của người nộp thuế phù hợp với nguyên tắc phân tích, so sánh với các giao dịch độc lập và nguyên tắc bản chất hoạt động, giao dịch quyết định nghĩa vụ thuế để xác định bản chất giao dịch liên kết, nghĩa vụ thuế thu nhập doanh nghiệp phải nộp của người nộp thuế như trong điều kiện giao dịch giữa các bên độc lập và ngăn ngừa việc đánh thuế trùng và trốn lậu thuế, giảm thiểu tranh chấp về xác định giá của giao dịch liên kết.",
+                "points": []
+              },
+              {
+                "clause_id": "doc:67761:part:1:article:5:clause:3",
+                "number": "3",
+                "content": "3. Đề nghị áp dụng APA của người nộp thuế được\ngiải quyết trên cơ sở hồ sơ với các tài liệu, thông tin cần thiết theo quy định tại khoản 3 Điều 41 Nghị định số 126/2020/NĐ-CP do người nộp thuế cung cấp đầy đủ, chính xác, trung thực, kịp thời.",
+                "points": []
+              },
+              {
+                "clause_id": "doc:67761:part:1:article:5:clause:4",
+                "number": "4",
+                "content": "4. Việc phân tích, so sánh, lựa chọn đối tượng\nso sánh độc lập và phương pháp được sử dụng để so sánh, xác định giá của giao dịch liên kết thuộc phạm vi áp dụng của APA được thực hiện theo quy định tại Nghị định số 132/2020/NĐ-CP.",
+                "points": []
+              },
+              {
+                "clause_id": "doc:67761:part:1:article:5:clause:5",
+                "number": "5",
+                "content": "5. Việc áp dụng cơ chế APA phải đảm bảo tuân thủ\nnguyên tắc được quy định tại khoản 6 Điều 42 Luật Quản lý thuế.",
+                "points": []
+              }
+            ],
+            "points": []
+          },
+          {
+            "article_id": "doc:67761:part:1:article:6",
+            "number": "6",
+            "title": "Hồ Sơ và thông tin, dữ liệu sử dụng",
+            "content": "Điều 6. Hồ Sơ và thông tin, dữ liệu sử dụng",
+            "clauses": [
+              {
+                "clause_id": "doc:67761:part:1:article:6:clause:1",
+                "number": "1",
+                "content": "1. Hồ sơ đề nghị áp dụng APA thực hiện theo quy\nđịnh tại khoản 3 Điều 41 Nghị định số 126/2020/NĐ-CP. Hồ sơ đề nghị áp dụng APA được thể hiện bằng tiếng Việt; trường hợp hồ sơ đề nghị áp dụng APA song phương hoặc đa phương thì có thêm bản tiếng Anh. Người nộp thuế đóng dấu xác nhận và chịu trách nhiệm về nội dung bản dịch. Đối với hồ sơ đề nghị áp dụng APA song phương hoặc APA đa phương, người nộp thuế chịu trách nhiệm về tính đồng nhất của nội dung giữa hồ sơ nộp cho cơ quan thuế Việt Nam và hồ sơ do bên liên kết thuộc phạm vi đề nghị áp dụng APA nộp cho cơ quan thuế đối tác.",
+                "points": []
+              },
+              {
+                "clause_id": "doc:67761:part:1:article:6:clause:2",
+                "number": "2",
+                "content": "2. Các thông tin, dữ liệu, cơ sở dữ liệu được sử\ndụng phải đảm bảo tuân thủ quy định tại điểm b khoản 6 Điều 42 Luật Quản lý thuế và Điều 17 Nghị định số 132/2020/NĐ-CP.",
+                "points": []
+              }
+            ],
+            "points": []
+          },
+          {
+            "article_id": "doc:67761:part:1:article:7",
+            "number": "7",
+            "title": "Thẩm định hồ Sơ đề nghị áp dụng APA",
+            "content": "Điều 7. Thẩm định hồ Sơ đề nghị áp dụng APA",
+            "clauses": [
+              {
+                "clause_id": "doc:67761:part:1:article:7:clause:1",
+                "number": "1",
+                "content": "1. Tổng cục Thuế tiến hành thẩm định hồ sơ đề\nnghị áp dụng APA của người nộp thuế nhằm kiểm tra, đối chiếu, xác định và đánh giá tính đầy đủ, chính xác, hợp pháp, hợp lý, hợp lệ của các thông tin, dữ liệu do người nộp thuế cung cấp để đưa ra bản đánh giá về phương pháp xác định giá giao dịch liên kết, đối tượng so sánh được lựa chọn phù hợp cho việc xác định mức giá, tỷ suất lợi nhuận hoặc tỷ lệ phân bố lợi nhuận đối với các giao dịch thuộc phạm vi đề nghị áp dụng APA.",
+                "points": []
+              },
+              {
+                "clause_id": "doc:67761:part:1:article:7:clause:2",
+                "number": "2",
+                "content": "2. Trong quá trình thẩm định, Tổng cục Thuế có\nthể áp dụng các biện pháp sau:",
+                "points": [
+                  {
+                    "point_id": "doc:67761:part:1:article:7:clause:2:point:1",
+                    "label": "a",
+                    "content": "a) Yêu cầu người nộp thuế và tổ chức, cá nhân\nkhác có liên quan giải trình, làm rõ các thông tin trong hồ sơ đề nghị áp dụng\nAPA.",
+                    "children": []
+                  },
+                  {
+                    "point_id": "doc:67761:part:1:article:7:clause:2:point:2",
+                    "label": "b",
+                    "content": "b) Áp dụng các biện pháp quản lý thuế đối với\nngười nộp thuế để xác minh tính đầy đủ, chính xác, hợp pháp, hợp lý, hợp lệ của các thông tin, tài liệu do người nộp thuế cung cấp.",
+                    "children": []
+                  }
+                ]
+              }
+            ],
+            "points": []
+          },
+          {
+            "article_id": "doc:67761:part:1:article:8",
+            "number": "8",
+            "title": "Trao đổi, đàm phán nội dung APA",
+            "content": "Điều 8. Trao đổi, đàm phán nội dung APA",
+            "clauses": [
+              {
+                "clause_id": "doc:67761:part:1:article:8:clause:1",
+                "number": "1",
+                "content": "1. Tổng cục Thuế thực hiện trao đổi, đàm phán nội\ndung APA với người nộp thuế (trong trường họp đề nghị áp dụng APA đơn phương) hoặc với cơ quan thuế đối tác và người nộp thuế (trong trường hợp đề nghị áp dụng APA song phương, đa phương) qua các hình thức tổ chức họp, gặp mặt trực tiếp hoặc qua điện thoại, truyền hình trực tuyến hoặc bằng trao đổi văn bản qua thư tín về các nội dung liên quan đến đề nghị áp dụng APA của người nộp thuế. Việc trao đổi, đàm phán nhằm thống nhất với người nộp thuế, cơ quan thuế đối tác về các nội dung dự kiến tại bản dự thảo APA cuối cùng theo quy định tại khoản 6 Điều 41 Nghị định số 126/2020/NĐ-CP để trình cấp có thẩm quyền phê duyệt. Kết quả của từng lần trao đổi, đàm phán phải được các bên tham gia ghi nhận bằng văn bản.",
+                "points": []
+              },
+              {
+                "clause_id": "doc:67761:part:1:article:8:clause:2",
+                "number": "2",
+                "content": "2. Trường hợp người nộp thuế đề nghị áp dụng APA\nsong phương hoặc đa phương, người nộp thuế có trách nhiệm thông báo với bên liên kết thuộc phạm vi đề nghị áp dụng APA để đề nghị cơ quan thuế đối tác liên lạc và xúc tiến việc trao đổi, đàm phán với Tổng cục Thuế. Trong quá trình trao đổi, đàm phán song phương, đa phương giữa các cơ quan thuế có liên quan, trường hợp cần thiết và được Tổng cục Thuế và cơ quan thuế đối tác chấp thuận, người nộp thuế có thể cử đại diện tham dự theo thư mời của cơ quan thuế để giải trình về các vấn đề liên quan. Cơ quan thuế có thể thông báo các thông tin tóm tắt về tiến độ, kết quả đàm phán cho người nộp thuế; đồng thời có thể yêu cầu người nộp thuế giải trình các nội dung có liên quan.",
+                "points": []
+              }
+            ],
+            "points": []
+          },
+          {
+            "article_id": "doc:67761:part:1:article:9",
+            "number": "9",
+            "title": "Quyền, nghĩa vụ và trách nhiệm của người nộp thuế",
+            "content": "Điều 9. Quyền, nghĩa vụ và trách nhiệm của người nộp thuế",
+            "clauses": [
+              {
+                "clause_id": "doc:67761:part:1:article:9:clause:1",
+                "number": "1",
+                "content": "1. Quyền của người nộp thuế",
+                "points": [
+                  {
+                    "point_id": "doc:67761:part:1:article:9:clause:1:point:1",
+                    "label": "a",
+                    "content": "a) Người nộp thuế có quyền đề nghị với Tổng cục\nThuế về việc rút đơn hoặc dừng đàm phán tại bất cứ thời điểm nào trước khi APA được ký kết;",
+                    "children": []
+                  },
+                  {
+                    "point_id": "doc:67761:part:1:article:9:clause:1:point:2",
+                    "label": "b",
+                    "content": "b) Người nộp thuế có quyền mời hoặc thuê chuyên\ngia độc lập là người có kỹ năng, kiến thức phù hợp với nội dung APA để tham gia trao đổi, đàm phán APA. Trong các văn bản ghi nhận kết quả trao đổi, đàm phán phải được ký xác nhận bởi người nộp thuế.",
+                    "children": []
+                  },
+                  {
+                    "point_id": "doc:67761:part:1:article:9:clause:1:point:3",
+                    "label": "c",
+                    "content": "c) Trường hợp trong khi thực hiện APA đơn phương\nnếu có phát sinh việc đánh thuế trùng hoặc có sự điều chỉnh về thu nhập chịu thuế dẫn đến bất lợi cho người nộp thuế xuất phát từ quyết định của cơ quan thuế đối tác, người nộp thuế có quyền đề nghị Tổng cục Thuế về việc sửa đổi hoặc hủy bỏ APA theo quy định tại khoản 9 và khoản 10 Điều 41 Nghị định số 126/2020/NĐ-CP.",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "clause_id": "doc:67761:part:1:article:9:clause:2",
+                "number": "2",
+                "content": "2. Nghĩa vụ và trách nhiệm của người nộp thuế",
+                "points": [
+                  {
+                    "point_id": "doc:67761:part:1:article:9:clause:2:point:1",
+                    "label": "a",
+                    "content": "a) Người nộp thuế có trách nhiệm cung cấp đầy đủ,\nkịp thời, trung thực, chính xác các thông tin, dữ liệu cho cơ quan thuế trong quá trình tham vấn (nếu có), nộp hồ sơ chính thức, thẩm định, đàm phán, ký kết, thực hiện APA cũng như trong quá trình giải quyết đề nghị gia hạn, sửa đổi APA theo quy định tại Điều 97 Luật Quản lý thuế. Người nộp thuế chịu trách nhiệm trước pháp luật về tính trung thực, chính xác của những thông tin này.",
+                    "children": []
+                  },
+                  {
+                    "point_id": "doc:67761:part:1:article:9:clause:2:point:2",
+                    "label": "b",
+                    "content": "b) Người nộp thuế có nghĩa vụ lưu giữ hồ sơ, chứng\ntừ liên quan trong quá trình thẩm định, đàm phán, ký kết, thực hiện APA và cung cấp cho cơ quan thuế khi có yêu cầu.",
+                    "children": []
+                  },
+                  {
+                    "point_id": "doc:67761:part:1:article:9:clause:2:point:3",
+                    "label": "c",
+                    "content": "c) Trong thời gian thực hiện APA, người nộp thuế\ncó trách nhiệm tuân thủ các điều kiện tại APA đã được ký kết và thực hiện việc điều chỉnh thu nhập chịu thuế phù hợp với mức giá hoặc tỷ suất lợi nhuận hoặc tỷ lệ phân bổ lợi nhuận đã được quy định tại APA để thực hiện khai nộp thuế thu nhập doanh nghiệp theo quy định.",
+                    "children": []
+                  },
+                  {
+                    "point_id": "doc:67761:part:1:article:9:clause:2:point:4",
+                    "label": "d",
+                    "content": "d) Người nộp thuế có trách nhiệm lập và nộp các\nbáo cáo APA thường niên cho từng năm tính thuế và báo cáo đột xuất (nếu có) trong giai đoạn hiệu lực của APA đã ký kết theo quy định tại khoản 7 Điều 41 Nghị định số 126/2020/NĐ-CP.",
+                    "children": []
+                  },
+                  {
+                    "point_id": "doc:67761:part:1:article:9:clause:2:point:5",
+                    "label": "đ",
+                    "content": "đ) Người nộp thuế có hành vi vi phạm hành chính\nvề thuế trong quá trình thực hiện APA đã ký sẽ bị xử phạt vi phạm hành chính về thuế theo quy định hiện hành.",
+                    "children": []
+                  }
+                ]
+              }
+            ],
+            "points": []
+          },
+          {
+            "article_id": "doc:67761:part:1:article:10",
+            "number": "10",
+            "title": "Quyền hạn và trách nhiệm của cơ quan thuế",
+            "content": "Điều 10. Quyền hạn và trách nhiệm của cơ quan thuế",
+            "clauses": [
+              {
+                "clause_id": "doc:67761:part:1:article:10:clause:1",
+                "number": "1",
+                "content": "1. Quyền hạn của cơ quan thuế",
+                "points": [
+                  {
+                    "point_id": "doc:67761:part:1:article:10:clause:1:point:1",
+                    "label": "a",
+                    "content": "a) Cơ quan thuế có quyền yêu cầu người nộp thuế\ngiải trình, làm rõ các thông tin người nộp thuế cung cấp trong suốt quá trình giải quyết hồ sơ đề nghị áp dụng APA.",
+                    "children": []
+                  },
+                  {
+                    "point_id": "doc:67761:part:1:article:10:clause:1:point:2",
+                    "label": "b",
+                    "content": "b) Cơ quan thuế có quyền dừng đàm phán khi phát\nsinh một trong các trường hợp sau: b1) Việc tiếp tục đàm phán APA không đáp ứng được các nguyên tắc áp dụng APA quy định tại Luật Quản lý thuế, Nghị định số 126/2020/NĐ-CP và Điều 5 Thông tư này; b2) Các bên liên quan không thống nhất được nội dung APA khi giai đoạn được đề nghị áp dụng APA kết thúc; b3) Người nộp thuế hoặc cơ quan thuế đối tác đề nghị dừng đàm phán APA. Tổng cục Thuế thông báo cho người nộp thuế (đối với APA đơn phương) hoặc cho người nộp thuế và thông báo hoặc xác nhận với cơ quan thuế nước ngoài (đối với APA song phương hoặc đa phương) về việc dừng đàm phán APA.",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "clause_id": "doc:67761:part:1:article:10:clause:2",
+                "number": "2",
+                "content": "2. Trách nhiệm của cơ quan thuế",
+                "points": [
+                  {
+                    "point_id": "doc:67761:part:1:article:10:clause:2:point:1",
+                    "label": "a",
+                    "content": "a) Căn cứ thẩm quyền theo quy định tại Điều 41 Nghị định số 126/2020/NĐ-CP, Tổng cục Thuế thực hiện\ntiếp nhận hồ sơ của người nộp thuế; tiến hành giải quyết đề nghị của người nộp thuế về việc áp dụng APA, gia hạn, sửa đổi APA đã ký kết; hủy bỏ, thu hồi APA đã ký kết.",
+                    "children": []
+                  },
+                  {
+                    "point_id": "doc:67761:part:1:article:10:clause:2:point:2",
+                    "label": "b",
+                    "content": "b) Cơ quan thuế có trách nhiệm quản lý, kiểm\ntra, thanh tra việc thực hiện APA đã ký kết của người nộp thuế theo quy định tại khoản 9 Điều 20 Nghị định số 132/2020/NĐ-CP theo chức năng, nhiệm vụ được giao, bao gồm: Thanh tra, kiểm tra, xác định thực tế việc chấp hành các quy định tại APA đã ký kết; thanh tra, kiểm tra, xác định việc khai, nộp thuế và điều chỉnh thu nhập chịu thuế theo các quy định tại APA đã ký kết; kiểm tra, xác định thông tin tại các báo cáo APA thường niên, báo cáo đột xuất do người nộp thuế báo cáo phù hợp với thực tế phát sinh. Việc quản lý, kiểm tra, thanh tra của cơ quan thuế nhằm giám sát sự tuân thủ của người nộp thuế trong việc thực hiện APA đã ký kết, không thẩm định lại APA đã ký kết.",
+                    "children": []
+                  },
+                  {
+                    "point_id": "doc:67761:part:1:article:10:clause:2:point:3",
+                    "label": "c",
+                    "content": "c) Cục Thuế tham gia và chịu trách nhiệm đối với\ncác nội dung tham gia trong quá trình tham định, trao đổi, đàm phán APA thuộc phạm vi quản lý nhà nước được phân công; quản lý, kiểm tra, thanh tra việc thực hiện các APA đã được ký kết theo chức năng, nhiệm vụ của Cục Thuế.",
+                    "children": []
+                  }
+                ]
+              }
+            ],
+            "points": []
+          },
+          {
+            "article_id": "doc:67761:part:1:article:11",
+            "number": "11",
+            "title": "Bảo mật thông tin",
+            "content": "Điều 11. Bảo mật thông tin",
+            "clauses": [
+              {
+                "clause_id": "doc:67761:part:1:article:11:clause:1",
+                "number": "1",
+                "content": "1. Cơ quan thuế, người nộp thuế và các cơ quan\ncó liên quan có trách nhiệm bảo mật thông tin, dữ liệu được sử dụng trong suốt quá trình giải quyết hồ sơ APA theo quy định về bảo mật thông tin người nộp thuế tại Điều 99 Luật Quản lý thuế, các văn bản hướng dẫn thi hành và Hiệp định thuế có liên quan. 2/ Trường hợp hồ sơ APA bị dừng đàm phán, bị rút đơn, bị hủy bỏ hoặc bị thu hồi thì các thông tin, dữ liệu do người nộp thuế cung cấp tại hồ sơ đề nghị áp dụng APA chính thức, giải trình theo yêu cầu, báo cáo APA thường niên, báo cáo đột xuất sẽ không được cơ quan thuế sử dụng làm chứng cứ hay chứng từ để phục vụ các mục đích kiểm tra, thanh tra hay ấn định thuế đối với người nộp thuế. Trường hợp các thông tin, dữ liệu do người nộp thuế cung cấp là các thông tin, dữ liệu đã được người nộp thuế công khai thì cơ quan thuế được tiếp tục sử dụng làm căn cứ xác định nghĩa vụ thuế của người nộp thuế.",
+                "points": []
+              }
+            ],
+            "points": []
+          },
+          {
+            "article_id": "doc:67761:part:1:article:12",
+            "number": "12",
+            "title": "Hiệu lực APA",
+            "content": "Điều 12. Hiệu lực APA",
+            "clauses": [
+              {
+                "clause_id": "doc:67761:part:1:article:12:clause:1",
+                "number": "1",
+                "content": "1. APA đã ký kết sẽ có hiệu lực thi hành bắt buộc\nvới cơ quan thuế và người nộp thuế.",
+                "points": []
+              },
+              {
+                "clause_id": "doc:67761:part:1:article:12:clause:2",
+                "number": "2",
+                "content": "2. Thời gian có hiệu lực của APA đã ký kết tối\nđa là 03 năm tính thuế nhưng không vượt quá số năm thực tế người nộp thuế đã hoạt động sản xuất kinh doanh và kê khai, nộp thuế thu nhập doanh nghiệp tại Việt Nam.",
+                "points": []
+              }
+            ],
+            "points": []
+          },
+          {
+            "article_id": "doc:67761:part:1:article:13",
+            "number": "13",
+            "title": "Hiệu lực thi hành",
+            "content": "Điều 13. Hiệu lực thi hành",
+            "clauses": [
+              {
+                "clause_id": "doc:67761:part:1:article:13:clause:1",
+                "number": "1",
+                "content": "1. Thông tư này có hiệu lực thi hành kể từ ngày\n03 tháng 8 năm 2021, thay thế Thông tư số 201/2013/TT-BTC ngày 20 tháng 12 năm 2013 của Bộ Tài chính hướng dẫn việc áp dụng Thỏa thuận trước về phương pháp xác định giá tính thuế (APA) trong quản lý thuế.",
+                "points": []
+              },
+              {
+                "clause_id": "doc:67761:part:1:article:13:clause:2",
+                "number": "2",
+                "content": "2. Đối với đề nghị áp dụng APA nộp trước ngày\nThông tư này có hiệu lực nhưng chưa được ký kết và giai đoạn đề nghị áp dụng APA chưa kết thúc tính đến thời điểm Thông tư này có hiệu lực thì được tiếp tục giải quyết theo quy định tại Luật Quản lý thuế, Nghị định số 126/2020/NĐ-CP và Thông tư này.",
+                "points": []
+              },
+              {
+                "clause_id": "doc:67761:part:1:article:13:clause:3",
+                "number": "3",
+                "content": "3. Trong quá trình thực hiện nếu có vướng mắc, đề\nnghị các tổ chức, cá nhân phản ánh kịp thời về Bộ Tài chính để nghiên cứu giải quyết./. Nơi nhận: - Văn phòng Trung ương và các Ban của Đảng; - Văn phòng Quốc hội; - Văn phòng Tổng Bí thư; - Văn phòng Chủ tịch nước; - Văn phòng Chính phủ; - Viện Kiểm sát nhân dân tối cao; - Toà án nhân dân tối cao; - Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ; - Cơ quan Trung ương của các đoàn thể; - Kiểm toán Nhà nước; - HĐND, UBND, Sở Tài chính, Cục Thuế, Kho bạc Nhà nước các tỉnh, thành phố trực thuộc TW; - Cục Kiểm tra văn bản (Bộ Tư pháp); - Công báo; - Website Chính phủ; - Website Bộ Tài chính; - Website Tổng cục Thuế; - Các đơn vị thuộc Bộ Tài chính; - Lưu: VT, TCT (VT, DNL(3b))\nBỘ TRƯỞNG\nHồ Đức Phớc",
+                "points": []
+              }
+            ],
+            "points": []
+          }
+        ],
+        "unstructured_blocks": []
+      }
+    ]
+  },
+  "issues": [],
+  "status": "ok",
+  "source_hash": "context_67761.json",
+  "stats": {
+    "source_chars": 16546,
+    "passage_chars": 16393,
+    "parts": 1,
+    "chapters": 0,
+    "sections": 0,
+    "articles": 13,
+    "clauses": 31,
+    "points": 19
+  }
+}

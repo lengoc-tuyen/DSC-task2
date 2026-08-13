@@ -1,0 +1,799 @@
+{
+  "schema_version": "2.0",
+  "document_id": 123000,
+  "metadata": {
+    "name": "Quyet-dinh-1330-QD-BTC-quy-che-quan-ly-van-hanh-su-dung-he-thong-dien-tu-da-phuong-tien-ho-tro-2016-",
+    "link": "https://thuvienphapluat.vn/van-ban/Cong-nghe-thong-tin/Quyet-dinh-1330-QD-BTC-quy-che-quan-ly-van-hanh-su-dung-he-thong-dien-tu-da-phuong-tien-ho-tro-2016-314713.aspx",
+    "issuing_agency": "BỘ TÀI CHÍNH",
+    "national_header": "CỘNG\r\n\n  HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM",
+    "motto": "Độc lập - Tự do - Hạnh phúc",
+    "document_number": "1330/QĐ-BTC",
+    "issued_place": "Hà Nội",
+    "issued_date": "ngày 13 tháng 6\r\n\n  năm 2016",
+    "document_type": "QUYẾT ĐỊNH",
+    "title": "VỀ VIỆC BAN HÀNH QUY CHẾ QUẢN LÝ, VẬN HÀNH, SỬ DỤNG HỆ THỐNG ĐIỆN TỬ ĐA PHƯƠNG TIỆN HỖ TRỢ CHỈ ĐẠO ĐIỀU HÀNH CỦA BỘ TÀI CHÍNH"
+  },
+  "administrative_header": {
+    "removed": true,
+    "removed_char_count": 148
+  },
+  "preamble": {
+    "text": "QUYẾT ĐỊNH\nVỀ VIỆC BAN HÀNH QUY CHẾ QUẢN LÝ, VẬN HÀNH, SỬ DỤNG HỆ THỐNG ĐIỆN TỬ ĐA\nPHƯƠNG TIỆN HỖ TRỢ CHỈ ĐẠO ĐIỀU HÀNH CỦA BỘ TÀI CHÍNH\nBỘ TRƯỞNG BỘ TÀI CHÍNH\nCăn cứ Luật Công nghệ Thông tin số 67/2006/QH11 ngày 29/6/2006; Căn cứ Nghị định số 64/2007/NĐ-CP ngày 10/4/2007 của Chính phủ về ứng dụng công nghệ thông tin trong hoạt động của cơ quan Nhà nước; Căn cứ Nghị định số 36/2012/NĐ-CP ngày 18/4/2012 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ, cơ quan ngang Bộ; Căn cứ Nghị định số 215/2013/NĐ-CP ngày 23/12/2013 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức Bộ Tài chính; Căn cứ Quyết định số 80/2014/QĐ-TTg ngày 30/12/2014 của Thủ tướng Chính phủ quy định thí điểm về thuê dịch vụ công nghệ thông tin trong cơ quan nhà nước; Căn cứ Hợp đồng số 23/2015/KBNN-VIETTEL ngày 26/10/2015 giữa Kho bạc Nhà nước và Tập đoàn viễn thông quân đội về việc “Thuê dịch vụ Hệ thống điện tử đa phương tiện hỗ trợ chỉ đạo điều hành của Bộ Tài chính”; Căn cứ Quyết định số 2395/QĐ-BTC ngày 12/11/2015 của Bộ trưởng Bộ Tài chính về việc thành lập tổ triển khai xây dựng hệ thống điện tử đa phương tiện hỗ trợ chỉ đạo điều hành của Bộ Tài chính; Xét đề nghị của Tổng Giám đốc Kho bạc Nhà nước và Chánh Văn phòng Bộ Tài chính,\nQUYẾT ĐỊNH:",
+    "legal_bases": [
+      "Căn cứ Nghị định số 64/2007/NĐ-CP ngày 10/4/2007 của Chính phủ về ứng dụng công nghệ thông tin trong hoạt động của cơ quan Nhà nước",
+      "Căn cứ Nghị định số 36/2012/NĐ-CP ngày 18/4/2012 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ, cơ quan ngang Bộ",
+      "Căn cứ Nghị định số 215/2013/NĐ-CP ngày 23/12/2013 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức Bộ Tài chính",
+      "Căn cứ Quyết định số 80/2014/QĐ-TTg ngày 30/12/2014 của Thủ tướng Chính phủ quy định thí điểm về thuê dịch vụ công nghệ thông tin trong cơ quan nhà nước",
+      "Căn cứ Hợp đồng số 23/2015/KBNN-VIETTEL ngày 26/10/2015 giữa Kho bạc Nhà nước và Tập đoàn viễn thông quân đội về việc “Thuê dịch vụ Hệ thống điện tử đa phương tiện hỗ trợ chỉ đạo điều hành của Bộ Tài chính”",
+      "Căn cứ Quyết định số 2395/QĐ-BTC ngày 12/11/2015 của Bộ trưởng Bộ Tài chính về việc thành lập tổ triển khai xây dựng hệ thống điện tử đa phương tiện hỗ trợ chỉ đạo điều hành của Bộ Tài chính"
+    ],
+    "proposals": [
+      "Xét đề nghị của Tổng Giám đốc Kho bạc Nhà nước và Chánh Văn phòng Bộ Tài chính,\nQUYẾT ĐỊNH:"
+    ],
+    "enactment_formula": "QUYẾT ĐỊNH"
+  },
+  "passage": "QUYẾT ĐỊNH\nVỀ VIỆC BAN HÀNH QUY CHẾ QUẢN LÝ, VẬN HÀNH, SỬ DỤNG HỆ THỐNG ĐIỆN TỬ ĐA\nPHƯƠNG TIỆN HỖ TRỢ CHỈ ĐẠO ĐIỀU HÀNH CỦA BỘ TÀI CHÍNH\nBỘ TRƯỞNG BỘ TÀI CHÍNH\nCăn cứ Luật Công nghệ Thông tin số 67/2006/QH11 ngày 29/6/2006; Căn cứ Nghị định số 64/2007/NĐ-CP ngày 10/4/2007 của Chính phủ về ứng dụng công nghệ thông tin trong hoạt động của cơ quan Nhà nước; Căn cứ Nghị định số 36/2012/NĐ-CP ngày 18/4/2012 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ, cơ quan ngang Bộ; Căn cứ Nghị định số 215/2013/NĐ-CP ngày 23/12/2013 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức Bộ Tài chính; Căn cứ Quyết định số 80/2014/QĐ-TTg ngày 30/12/2014 của Thủ tướng Chính phủ quy định thí điểm về thuê dịch vụ công nghệ thông tin trong cơ quan nhà nước; Căn cứ Hợp đồng số 23/2015/KBNN-VIETTEL ngày 26/10/2015 giữa Kho bạc Nhà nước và Tập đoàn viễn thông quân đội về việc “Thuê dịch vụ Hệ thống điện tử đa phương tiện hỗ trợ chỉ đạo điều hành của Bộ Tài chính”; Căn cứ Quyết định số 2395/QĐ-BTC ngày 12/11/2015 của Bộ trưởng Bộ Tài chính về việc thành lập tổ triển khai xây dựng hệ thống điện tử đa phương tiện hỗ trợ chỉ đạo điều hành của Bộ Tài chính; Xét đề nghị của Tổng Giám đốc Kho bạc Nhà nước và Chánh Văn phòng Bộ Tài chính,\nQUYẾT ĐỊNH:\nĐiều 1. Ban hành kèm theo Quyết định này Quy chế quản lý, vận hành, sử dụng Hệ thống điện tử đa phương tiện hỗ trợ chỉ đạo điều hành của Bộ Tài chính.\nĐiều 2. Quyết định này có hiệu lực thi hành kể từ ngày ký. Chánh Văn phòng Bộ, thủ trưởng các đơn vị thuộc Bộ Tài chính, Tổng Giám đốc Kho bạc Nhà nước và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này./.\nNơi nhận:\n- Như Điều 2;\n- Tập đoàn viễn thông quân đội (Viettel);\n- Lưu: VT, KBNN (300)\nKT. BỘ TRƯỞNG\nTHỨ TRƯỞNG\nVũ Thị Mai\nQUY CHẾ\nQUẢN LÝ, VẬN HÀNH, SỬ DỤNG HỆ THỐNG ĐIỆN TỬ ĐA PHƯƠNG TIỆN HỖ TRỢ CHỈ ĐẠO\nĐIỀU HÀNH CỦA BỘ TÀI CHÍNH\n(Ban hành kèm theo Quyết định số 1330/QĐ-BTC\nngày 13/06/2016 của Bộ trưởng Bộ Tài chính)\nChương I\nQUY ĐỊNH CHUNG\nĐiều 1. Phạm vi điều chỉnh\n1. Quy chế này quy định việc quản lý,\nvận hành và sử dụng Hệ thống điện tử đa phương tiện hỗ trợ chỉ đạo điều hành của Bộ Tài chính (hệ thống THHN).\n2. Các hội nghị phải sử dụng hệ thống\nTHHN, bao gồm:\na) Hội nghị toàn quốc triển khai nhiệm\nvụ tài chính ngân sách 6 tháng cuối năm (Hội nghị sơ kết 6 tháng công tác tài chính - ngân sách).\nb) Hội nghị toàn quốc tổng kết và triển\nkhai nhiệm vụ tài chính ngân sách năm (hội nghị tổng kết công tác tài chính ngân sách hàng năm).\nc) Các hội nghị sơ kết, tổng kết, tập\nhuấn chuyên đề theo lĩnh vực có phạm vi toàn quốc của các Tổng cục.\nd) Các hội nghị, cuộc họp khác theo\nchỉ đạo của Lãnh đạo Bộ Tài chính phải tổ chức theo hình thức trực tuyến.\nđ) Các hội nghị khác do Bộ Tài chính,\ncác Tổng cục chủ trì có liên quan đến các đơn vị thuộc ngành Tài chính ở địa phương.\nĐiều 2. Đối tượng áp dụng\na) Bộ Tài chính, Kho bạc Nhà nước, Tổng\ncục Thuế, Tổng cục Hải quan, Tổng cục Dự trữ Nhà nước, Ủy ban Chứng khoán Nhà nước.\nb) Sở Tài chính, Kho bạc Nhà nước, Cục\nThuế, Cục Hải quan các tỉnh, thành phố trực thuộc Trung ương và Cục Dự trữ Nhà nước các khu vực.\nc) Tập đoàn Viễn thông quân đội\n(Viettel), chi nhánh của Viettel tại các tỉnh, thành phố trực thuộc Trung ương.\nChương II\nCÁC QUY ĐỊNH CỤ THỂ\nĐiều 3. Yêu cầu khi sử dụng hệ thống THHN\n1. Không để các vật dễ cháy, nổ, chất lỏng, hóa chất gần các thiết bị của hệ thống.\n2. Bảo đảm các điều kiện về phòng\ncháy, chữa cháy.\n3. Bảo đảm các điều kiện về âm thanh,\nánh sáng, nhiệt độ, độ ẩm, nguồn điện ổn định cho hệ thống THHN.\n4. Không được tự ý di chuyển, sử dụng\nthiết bị vào mục đích khác hoặc thay đổi các tham số cấu hình hệ thống.\n5. Giữ bí mật tài khoản truy cập vào\nhệ thống.\n6. Không dùng tay, vật cứng chạm vào ống\nkính camera hoặc xoay camera.\n7. Bật, tắt, vận hành hệ thống phải\nđúng quy trình kỹ thuật.\n8. Ngắt nguồn\nđiện cung cấp cho hệ thống khi không sử dụng.\n9. Thường xuyên vệ sinh hệ thống theo\nđúng quy trình, đặc biệt đối với thiết bị camera phải dùng khăn lau mềm tiêu chuẩn và chất tẩy rửa chuyên dụng.\nĐiều 4. Đăng ký sử dụng hệ thống THHN\n1. Các đơn vị cấp Vụ, Cục thuộc Bộ\nTài chính và các đơn vị cấp Tổng cục trực thuộc Bộ Tài chính được quyền đăng ký sử dụng hệ thống THHN.\n2. Đơn vị có nhu cầu sử dụng hệ thống THHN (đơn vị chủ trì cuộc họp)\nđăng ký với Kho bạc Nhà nước theo mẫu đính kèm. Hình thức gửi: bản fax đến địa chỉ: 0462.764.368 hoặc scan văn bản đăng ký (có chữ ký Lãnh đạo và đóng dấu của đơn vị) gửi về hòm thư điện tử: dangkyTHHN@vst.gov.vn, hotline: 0912.561.444 ít nhất 05 ngày làm việc trước khi diễn ra hội nghị, trừ trường hợp họp đột xuất do Lãnh đạo Bộ quyết định.\n3. Thứ tự ưu tiên giải quyết nhu cầu\nsử dụng hệ thống THHN:\na) Các cuộc họp, hội nghị do Lãnh đạo\nBộ Tài chính chủ trì.\nb) Các cuộc họp, hội nghị do Lãnh đạo\ncác Tổng cục trực thuộc Bộ Tài chính chủ trì.\nc) Các cuộc họp, hội nghị do Lãnh đạo\ncác đơn vị thuộc Bộ Tài chính chủ trì.\n4. Ngay trong ngày tiếp nhận thông\ntin đăng ký lịch họp từ các đơn vị, KBNN có trách nhiệm sắp xếp lịch họp theo thứ tự ưu tiên tại Khoản 3 Điều này và thông báo cho đơn vị chủ trì cuộc họp biết thông tin về việc được sử dụng hoặc không được sử dụng hệ thống THHN. Trường hợp các cuộc họp đăng ký có thứ tự ưu tiên trên giống nhau, KBNN trao đổi với đơn vị để sắp xếp lịch họp cho phù hợp.\n5. Trường hợp họp\nđột xuất, khẩn cấp, căn cứ nhu cầu đăng ký của đơn vị chủ trì cuộc họp, KBNN cùng Viettel và các điểm cầu có trách nhiệm phối hợp kịp thời, đảm bảo các điều kiện kỹ thuật, hậu cần phục vụ cuộc họp.\nĐiều 5. Công tác chuẩn bị trước cuộc họp THHN\n1. Trách nhiệm của KBNN:\na) Thông báo kịp thời cho Viettel và\ncác điểm cầu biết đơn vị được sử dụng hệ thống THHN, thời gian tổ chức họp, số lượng đại biểu và yêu cầu phục vụ họp để chuẩn bị triển khai cuộc họp.\nb) Phối hợp với Viettel và đơn vị chủ\ntrì cuộc họp THHN tổ chức kiểm tra chạy thử các thiết bị đầu cuối, đường truyền, chất lượng âm thanh, hình ảnh xong trước giờ khai mạc cuộc họp 60 phút.\nc) Phối hợp với\nViettel thiết lập các thông số kỹ thuật, điều khiển thiết bị hệ thống THHN phục vụ cuộc họp được đảm bảo hoạt động thông suốt.\n2. Viettel có\ntrách nhiệm:\na) Thông báo cho các chi nhánh có\nliên quan của Viettel cử cán bộ kỹ thuật sẵn sàng phối hợp tổ chức cuộc họp THHN.\nb) Chủ trì cùng KBNN và đơn vị\nchủ trì cuộc họp THHN tổ chức kiểm tra chạy thử các thiết bị đầu cuối, đường truyền, chất lượng âm thanh, hình ảnh xong trước giờ khai mạc cuộc họp 60 phút.\nc) Chủ trì cùng KBNN thiết lập các\nthông số kỹ thuật, điều khiển thiết bị hệ thống THHN phục vụ cuộc họp được đảm bảo hoạt động thông suốt.\n3. Các đơn vị quản lý điểm cầu có trách nhiệm:\na) Bố trí phòng họp THHN.\nb) Kiểm tra âm thanh, ánh sáng, nguồn\nđiện và điện dự phòng (đề phòng khi có sự cố mất điện đột xuất xảy ra), mạng Lan, thiết bị bên ngoài kết nối với thiết bị đầu cuối.\nc) Cử cán bộ phối hợp với cán bộ vận hành của chi nhánh Viettel tại điểm cầu kiểm tra chạy\nthử các thiết bị đầu cuối, đường truyền, chất lượng âm thanh, hình ảnh; thiết lập các vị trí khung hình cần thiết phù hợp với sơ đồ hội trường.\nd) Phối hợp chuẩn bị các điều kiện hậu\ncần khác theo đề nghị của đơn vị chủ trì họp.\n4. Đơn vị chủ trì cuộc họp có trách\nnhiệm:\na) Chuẩn bị chương trình, nội dung và\nthông báo tới các đại biểu tham dự đúng thành phần, thời gian và địa điểm tổ chức cuộc họp THHN.\nb) Cử cán bộ tham gia quá trình chạy\nthử hệ thống, rà soát các điều kiện phục vụ họp tại các điểm cầu; trực tiếp thực hiện các công tác về hậu cần, lễ tân, khánh tiết: trang trí, hoa tươi, trái cây, nước uống, tiếp đón,...\nĐiều 6. Điều khiển hệ thống trong cuộc họp THHN\n1. Cán bộ kỹ thuật tại Trung tâm điều\nkhiển của Viettel:\na) Trực tiếp điều chỉnh khung hình hiển\nthị hình ảnh, âm thanh cho phù hợp với từng thời điểm diễn ra trong cuộc họp.\nb) Phối hợp ngay với cán bộ Viettel\ntrực hệ thống ở các điểm cầu khi có sự cố về đường truyền, tín hiệu âm thanh, hình ảnh để kịp thời khắc phục.\nc) Gửi yêu cầu phát biểu tại các điểm\ncầu cho người chủ trì cuộc họp.\n2. Cán bộ Viettel và cán bộ trực hệ\nthống ở các điểm cầu:\na) Vận hành hệ thống trong toàn bộ\nquá trình diễn ra cuộc họp, chỉ được bật micro khi có yêu cầu phát biểu của người chủ trì cuộc họp.\nb) Điều chỉnh camera phù hợp với vị\ntrí đại biểu ở điểm cầu đang phát biểu.\nc) Không được tự ý quay số tới bất kỳ\nđiểm cầu nào trong hệ thống khi chưa có yêu cầu của cán bộ kỹ thuật Trung tâm điều khiển.\nd) Khi mất kết nối, phải thông báo\nngay với cán bộ kỹ thuật của Trung tâm điều khiển Viettel để khắc phục sự cố; báo cáo chủ trì cuộc họp tại điểm cầu mình phụ trách điều chỉnh nội dung, thời gian cho phù hợp với thực tế.\nđ) Tiếp nhận đăng ký phát biểu của chủ\ntrì cuộc họp tại điểm cầu mình phụ trách và gửi cho cán bộ kỹ thuật tại Trung tâm điều khiển Viettel bằng điện thoại.\nĐiều 7. Kết thúc cuộc họp THHN\n1. Cán bộ kỹ thuật Viettel ở trung\ntâm điều khiển và các điểm cầu kiểm tra lại toàn bộ hệ thống, tắt thiết bị trước và sau đó ngắt nguồn điện cung cấp theo đúng quy trình.\n2. Cán bộ vận hành của Viettel\nvà cán bộ trực hệ thống tại các điểm cầu và đại diện đơn vị dự họp ký biên bản xác nhận chất lượng của hệ thống THHN phục vụ họp tại điểm cầu (theo mẫu biên bản đính kèm quy chế).\nĐiều 8. Bố trí kinh phí tổ chức cuộc họp THHN\n1. Đối với các\nđiểm cầu Trung ương: các điểm cầu đảm bảo các chi phí phát sinh liên quan đến tổ chức họp, hội nghị trong chi phí thường xuyên của đơn vị theo quy định.\n2. Đối với các điểm cầu địa phương:\na) Kho bạc Nhà nước các, tỉnh, thành\nphố đảm bảo các chi phí phát sinh liên quan đến tổ chức họp THHN gồm chi phí điện, điều hòa…; chi phí sửa chữa, bảo trì, bảo dưỡng thường xuyên tài sản cố định của phòng họp ngoài trách nhiệm của nhà cung cấp dịch vụ từ nguồn kinh phí thường xuyên của đơn vị theo quy định.\nb) Các đơn vị ngành Tài chính tại địa\nphương sử dụng điểm cầu tại địa phương có trách nhiệm đảm bảo chi phí họp THHN (trang trí, tài liệu, nước uống, lễ tân khánh tiết...) trong chi phí thường xuyên của đơn vị theo quy định.\nChương III\nTRÁCH NHIỆM QUẢN\nLÝ, VẬN HÀNH, SỬ DỤNG HỆ THỐNG TRUYỀN HÌNH HỘI NGHỊ\nĐiều 9. Trách nhiệm của các đơn vị thuộc Bộ Tài chính\na) Văn phòng Bộ Tài chính có trách\nnhiệm điều phối, sắp xếp lịch họp THHN tại điểm cầu trụ sở cơ quan Bộ.\nb) Cục Tin học\nvà thống kê Tài chính có trách nhiệm cử cán bộ kỹ thuật phối hợp với Văn phòng Bộ và Cục Kế hoạch - Tài chính để bảo đảm hạ tầng truyền thông khi tổ chức họp THHN tại điểm cầu trụ sở cơ quan Bộ.\nc) Cục Kế hoạch - Tài chính, Bộ Tài\nchính có trách nhiệm chuẩn bị công tác hậu cần tổ chức các cuộc họp THHN tại điểm cầu trụ sở cơ quan Bộ, như: nước uống, trang trí, lễ tân, khánh tiết…\nĐiều 10. Trách nhiệm của Kho bạc Nhà nước\n1. Là đầu mối tiếp\nnhận đăng ký sử dụng hệ thống THHN.\n2. Kịp thời\nthông báo, phối hợp với Viettel và đơn vị được sử dụng hệ thống THHN hoàn tất công tác chuẩn bị trước 60 phút khi cuộc họp THHN bắt đầu.\n3. Phối hợp chặt\nchẽ với Viettel và các điểm cầu điều khiển hệ thống trong cuộc họp THHN đảm bảo hình ảnh, âm thanh rõ nét; kịp thời khắc phục các sự cố xẩy ra (nếu có).\n4. Theo dõi đánh giá chất lượng cung cấp\ndịch vụ và việc thực hiện các nghĩa vụ với Viettel theo hợp đồng đã ký kết.\n5. Tổng hợp, theo dõi, đánh giá tình\nhình thực hiện quy chế; trong quá trình thực hiện nếu phát hiện bất cập, tồn tại, kịp thời tham mưu đề xuất trình Bộ sửa đổi bổ sung qui chế cho phù hợp.\n6. Chịu trách nhiệm về tiêu chuẩn kỹ\nthuật của hệ thống, đảm bảo phù hợp với quy định chung của Bộ.\nĐiều 11. Trách nhiệm của các đơn vị quản lý điểm cầu\n1. Các đơn vị quản\nlý điểm cầu có trách nhiệm bảo quản toàn bộ hệ thống thiết bị đầu cuối phục vụ THHN, bố trí phòng họp, nhân lực phối hợp chặt chẽ với cán bộ kỹ thuật của Viettel trong quá trình chuẩn bị cũng như khi diễn ra THHN theo các quy định tại Quy chế này. Bố trí và duy trì thường xuyên các thiết bị liên quan, như: bàn, ghế, âm thanh, ánh sáng.\n2. Bố trí ổn định cán bộ kỹ thuật phối\nhợp tham gia vận hành và sử dụng thiết bị phòng họp trực tuyến (mỗi đơn vị 1-2 cán bộ). Danh sách cán bộ kỹ thuật có sự thay đổi phải cử cán bộ thay thế và gửi về Kho bạc Nhà nước (họ tên, đơn vị, số điện thoại, email) để cập nhật, tổng hợp gửi Viettel và các đơn vị có liên quan thuận lợi trong quá trình phối hợp vận hành và sử dụng hệ thống.\n3. Ký biên\nbản xác nhận chất lượng THHN với Viettel và đại diện đơn vị dự họp.\nĐiều 12. Trách nhiệm của các đơn vị đăng ký sử dụng hệ thống THHN (đơn vị chủ trì cuộc họp)\n1. Khi có nhu cầu sử dụng hệ thống\nTHHN để tổ chức các cuộc họp phải đăng ký, thống nhất với KBNN theo quy định tại\nĐiều 4 Quy chế này.\n2. Phối hợp chặt chẽ với KBNN trong\nviệc đăng ký thời gian, số lượng đại biểu và các yêu cầu khác để phục vụ cuộc họp trực tuyến. Khi có sự thay đổi về thời gian tổ chức họp phải thông báo kịp thời cho KBNN để có sự điều chỉnh phù hợp.\n3. Chủ trì chuẩn bị nội dung và thông\nbáo tới các đại biểu tham dự đúng thành phần, thời gian và địa điểm tổ chức cuộc họp THHN; chuẩn bị tài liệu họp, nước uống, trang trí, lễ tân khánh tiết tại điểm cầu đơn vị dự họp.\n4. Cử cán bộ trực tại điểm cầu trung\ntâm để tiếp nhận đăng ký phát biểu trong cuộc họp THHN (nếu có).\n5. Ký biên\nbản xác nhận chất lượng THHN với Viettel theo mẫu đính kèm.\nĐiều 13. Trách nhiệm của Viettel\n1. Quản trị, vận hành bảo trì, sửa chữa\ntoàn bộ hệ thống THHN.\n2. Đảm bảo các chỉ tiêu kỹ thuật và\nchất lượng đường truyền dẫn cho hệ thống THHN.\n3. Tổng hợp danh sách các cán bộ kỹ\nthuật của Viettel tham gia quản trị, vận hành hệ thống THHN tại trung tâm và các chi nhánh ở địa phương thông báo cho Kho bạc Nhà nước để gửi các điểm cầu và đơn vị liên quan biết liên hệ. Trường hợp cán bộ có sự thay đổi, Viettel phải cử cán bộ thay thế và thông báo cho Kho bạc Nhà nước (họ tên, đơn vị, số điện thoại, email) để cập nhật gửi các đơn vị có liên quan thuận lợi trong quá trình phối hợp vận hành và sử dụng hệ thống.\n4. Có trách nhiệm bảo mật thông tin\ncác cuộc họp theo các quy định của hợp đồng và pháp luật hiện hành.\nChương IV\nTỔ CHỨC THỰC HIỆN\nĐiều 14. Điều khoản thi hành\n1. Quy chế này có hiệu lực kể từ ngày\nký. Kho bạc nhà nước, Viettel và các đơn vị liên quan thuộc Bộ Tài chính, chịu trách nhiệm thực hiện đúng các quy định tại Quy chế này.\n2. Các tổ chức,\ncá nhân vi phạm các quy định của Quy chế này tùy theo tính chất, mức độ vi phạm sẽ bị xử lý kỷ luật, xử lý vi phạm hành chính hoặc truy cứu trách nhiệm hình sự, nếu gây thiệt hại phải bồi thường theo quy định của pháp luật. Trong quá trình thực hiện nếu có vấn đề vướng mắc, kịp thời báo cáo, đề xuất trình Bộ Tài chính xem xét, quyết định./. Mẫu đăng ký sử dụng hệ thống hội nghị truyền hình (Kèm theo Quy chế quản lý, vận hành, sử dụng Hệ thống điện tử đa phương tiện hỗ trợ chỉ đạo điều hành của Bộ Tài chính)\nBỘ TÀI CHÍNH TÊN ĐƠN VỊ\n-------\nĐĂNG KÝ SỬ DỤNG HỆ THỐNG HỘI NGHỊ TRUYỀN HÌNH\nKính gửi: Kho bạc Nhà nước.\n1. Họ và tên (đại diện Ban tổ chức Hội nghị):..................................................................\n2. Đơn vị:.........................................................................................................................\n3. Chức vụ:......................................................................................................................\n4. Số điện thoại\n(số cố định và số di động): ....................................................................\n5. Đăng ký sử dụng\nhệ thống ngày:.................................................................................\n6. Thời gian: bắt đầu từ…...…giờ…..….phút, đến………giờ………phút\n7. Nội dung họp:...............................................................................................................\n8. Số điểm cầu và số lượng người dự họp:\nStt Điểm cầu Số lượng người 1 2 3 … Tổng cộng\n9. Các yêu cầu khác:..........................................................................................................\n…, ngày tháng năm Thủ trưởng đơn vị (Ký và ghi rõ họ tên, đóng dấu)\nMẪU BIÊN BẢN XÁC NHẬN CUỘC HỌP TẠI ĐIỂM CẦU\n(Kèm theo Quy chế quản lý, vận hành, sử dụng Hệ thống điện tử đa phương tiện hỗ trợ chỉ đạo điều hành của Bộ Tài chính)\nCỘNG\nHÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc -----------------\nBIÊN\nBẢN XÁC NHẬN CUỘC HỌP TẠI ĐIỂM CẦU...(Ghi tên điểm cầu) Số:……./BBXN/……….(tên viết tắt của đơn vị nơi có điểm cầu tổ chức cuộc họp)- VIETTEL/201... Căn cứ thực tế cuộc họp ngày ....tháng...năm…. do ………….. (ghi tên đơn vị chủ trì) tổ chức tại ………………….. (ghi tên điểm cầu), Hôm nay ngày .../.../201.., tại ……………. (ghi tên điểm cầu) - số ……………… (ghi địa chỉ), chúng tôi gồm:\n1. Ông (bà) ………… Chức vụ: ……………..(ghi tên đơn vị có điểm cầu)\n2. Ông (bà) ………… Chức vụ: ……………..(ghi tên đơn vị dự họp)\n3. Ông (bà) ………… Chức vụ: ……………..(ghi tên đại diện Viettel)\nCác Bên cùng thống nhất xác nhận chất lượng dịch vụ truyền hình hội nghị do VIETTEL cung cấp trong cuộc họp như sau: I. Nội dung xác nhận: - Thời gian tổ chức cuộc họp: Từ ....giờ...phút đến ….giờ…..phút ngày...tháng....năm 201.. - Về chất lượng âm thanh (ổn định/không ổn định (vọng, rú):.......................................... - Về chất lượng hình ảnh (rõ nét/không rõ nét):............................................................... - Về hoạt động của hệ thống (ổn định/không ổn định):..................................................... - Các sự cố (nếu có): + Sự cố 1: Từ ......h.....phút đến …..h…..phút, tổng thời gian:.... phút Mô tả sự cố:...................................................................................................................... Nguyên nhân:.................................................................................................................... Công tác xử lý sự cố (đã thực hiện):................................................................................. + Sự cố...: Từ …..h…..phút đến …..h…...phút, tổng thời gian:.... phút Mô tả sự cố:...................................................................................................................... Nguyên nhân:.................................................................................................................... Công tác xử lý sự cố (đã thực hiện):................................................................................. - Bảo mật thông tin trong quá trình họp: đảm bảo. II. Kết luận: - Các bên đồng ý với nội dung xác nhận nêu trên. - Biên bản này được lập thành 05 (năm) bản có giá trị pháp lý như nhau: Điểm cầu giữ 01 bản, đơn vị dự họp giữ 01 (một) bản, Chi nhánh Viettel tỉnh/thành phố giữ 01 bản, Tổng Công ty Viễn thông Viettel giữ 01 bản, KBNN giữ 01 bản./.\nĐẠI\nDIỆN ……..(ghi tên đơn vị dự họp) (ký, ghi rõ họ tên)\nĐẠI DIỆN VIETTEL ……\n(ký, ghi rõ họ tên)\nĐẠI DIỆN ĐƠN VỊ CÓ ĐIỂM CẦU …………\n(ký, ghi rõ họ tên, đóng dấu)",
+  "tree": {
+    "parts": [
+      {
+        "part_id": "doc:123000:part:1",
+        "part_type": "main",
+        "part_title": null,
+        "reference": null,
+        "direct_text": "QUYẾT ĐỊNH\nVỀ VIỆC BAN HÀNH QUY CHẾ QUẢN LÝ, VẬN HÀNH, SỬ DỤNG HỆ THỐNG ĐIỆN TỬ ĐA\nPHƯƠNG TIỆN HỖ TRỢ CHỈ ĐẠO ĐIỀU HÀNH CỦA BỘ TÀI CHÍNH\nBỘ TRƯỞNG BỘ TÀI CHÍNH\nCăn cứ Luật Công nghệ Thông tin số 67/2006/QH11 ngày 29/6/2006; Căn cứ Nghị định số 64/2007/NĐ-CP ngày 10/4/2007 của Chính phủ về ứng dụng công nghệ thông tin trong hoạt động của cơ quan Nhà nước; Căn cứ Nghị định số 36/2012/NĐ-CP ngày 18/4/2012 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ, cơ quan ngang Bộ; Căn cứ Nghị định số 215/2013/NĐ-CP ngày 23/12/2013 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức Bộ Tài chính; Căn cứ Quyết định số 80/2014/QĐ-TTg ngày 30/12/2014 của Thủ tướng Chính phủ quy định thí điểm về thuê dịch vụ công nghệ thông tin trong cơ quan nhà nước; Căn cứ Hợp đồng số 23/2015/KBNN-VIETTEL ngày 26/10/2015 giữa Kho bạc Nhà nước và Tập đoàn viễn thông quân đội về việc “Thuê dịch vụ Hệ thống điện tử đa phương tiện hỗ trợ chỉ đạo điều hành của Bộ Tài chính”; Căn cứ Quyết định số 2395/QĐ-BTC ngày 12/11/2015 của Bộ trưởng Bộ Tài chính về việc thành lập tổ triển khai xây dựng hệ thống điện tử đa phương tiện hỗ trợ chỉ đạo điều hành của Bộ Tài chính; Xét đề nghị của Tổng Giám đốc Kho bạc Nhà nước và Chánh Văn phòng Bộ Tài chính,\nQUYẾT ĐỊNH:",
+        "chapters": [],
+        "sections": [],
+        "articles": [
+          {
+            "article_id": "doc:123000:part:1:article:1",
+            "number": "1",
+            "title": "Ban hành kèm theo Quyết định này Quy chế quản lý, vận hành, sử dụng Hệ thống điện tử đa phương tiện hỗ trợ chỉ đạo điều hành của Bộ Tài chính.",
+            "content": "Điều 1. Ban hành kèm theo Quyết định này Quy chế quản lý, vận hành, sử dụng Hệ thống điện tử đa phương tiện hỗ trợ chỉ đạo điều hành của Bộ Tài chính.",
+            "clauses": [],
+            "points": []
+          },
+          {
+            "article_id": "doc:123000:part:1:article:2",
+            "number": "2",
+            "title": "Quyết định này có hiệu lực thi hành kể từ ngày ký. Chánh Văn phòng Bộ, thủ trưởng các đơn vị thuộc Bộ Tài chính, Tổng Giám đốc Kho bạc Nhà nước và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này./.",
+            "content": "Điều 2. Quyết định này có hiệu lực thi hành kể từ ngày ký. Chánh Văn phòng Bộ, thủ trưởng các đơn vị thuộc Bộ Tài chính, Tổng Giám đốc Kho bạc Nhà nước và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này./.",
+            "clauses": [],
+            "points": []
+          }
+        ],
+        "unstructured_blocks": []
+      },
+      {
+        "part_id": "doc:123000:part:2",
+        "part_type": "regulation",
+        "part_title": "QUY CHẾ",
+        "reference": null,
+        "direct_text": "QUY CHẾ\nQUẢN LÝ, VẬN HÀNH, SỬ DỤNG HỆ THỐNG ĐIỆN TỬ ĐA PHƯƠNG TIỆN HỖ TRỢ CHỈ ĐẠO\nĐIỀU HÀNH CỦA BỘ TÀI CHÍNH\n(Ban hành kèm theo Quyết định số 1330/QĐ-BTC\nngày 13/06/2016 của Bộ trưởng Bộ Tài chính)",
+        "chapters": [
+          {
+            "chapter_id": "doc:123000:part:2:chapter:1",
+            "number": "I",
+            "title": "QUY ĐỊNH CHUNG",
+            "content": "Chương I\nQUY ĐỊNH CHUNG",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:123000:part:2:article:1",
+                "number": "1",
+                "title": "Phạm vi điều chỉnh",
+                "content": "Điều 1. Phạm vi điều chỉnh",
+                "clauses": [
+                  {
+                    "clause_id": "doc:123000:part:2:article:1:clause:1",
+                    "number": "1",
+                    "content": "1. Quy chế này quy định việc quản lý,\nvận hành và sử dụng Hệ thống điện tử đa phương tiện hỗ trợ chỉ đạo điều hành của Bộ Tài chính (hệ thống THHN).",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:123000:part:2:article:1:clause:2",
+                    "number": "2",
+                    "content": "2. Các hội nghị phải sử dụng hệ thống\nTHHN, bao gồm:",
+                    "points": [
+                      {
+                        "point_id": "doc:123000:part:2:article:1:clause:2:point:1",
+                        "label": "a",
+                        "content": "a) Hội nghị toàn quốc triển khai nhiệm\nvụ tài chính ngân sách 6 tháng cuối năm (Hội nghị sơ kết 6 tháng công tác tài chính - ngân sách).",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:123000:part:2:article:1:clause:2:point:2",
+                        "label": "b",
+                        "content": "b) Hội nghị toàn quốc tổng kết và triển\nkhai nhiệm vụ tài chính ngân sách năm (hội nghị tổng kết công tác tài chính ngân sách hàng năm).",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:123000:part:2:article:1:clause:2:point:3",
+                        "label": "c",
+                        "content": "c) Các hội nghị sơ kết, tổng kết, tập\nhuấn chuyên đề theo lĩnh vực có phạm vi toàn quốc của các Tổng cục.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:123000:part:2:article:1:clause:2:point:4",
+                        "label": "d",
+                        "content": "d) Các hội nghị, cuộc họp khác theo\nchỉ đạo của Lãnh đạo Bộ Tài chính phải tổ chức theo hình thức trực tuyến.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:123000:part:2:article:1:clause:2:point:5",
+                        "label": "đ",
+                        "content": "đ) Các hội nghị khác do Bộ Tài chính,\ncác Tổng cục chủ trì có liên quan đến các đơn vị thuộc ngành Tài chính ở địa phương.",
+                        "children": []
+                      }
+                    ]
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:123000:part:2:article:2",
+                "number": "2",
+                "title": "Đối tượng áp dụng",
+                "content": "Điều 2. Đối tượng áp dụng\na) Bộ Tài chính, Kho bạc Nhà nước, Tổng\ncục Thuế, Tổng cục Hải quan, Tổng cục Dự trữ Nhà nước, Ủy ban Chứng khoán Nhà nước.\nb) Sở Tài chính, Kho bạc Nhà nước, Cục\nThuế, Cục Hải quan các tỉnh, thành phố trực thuộc Trung ương và Cục Dự trữ Nhà nước các khu vực.\nc) Tập đoàn Viễn thông quân đội\n(Viettel), chi nhánh của Viettel tại các tỉnh, thành phố trực thuộc Trung ương.",
+                "clauses": [],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:123000:part:2:chapter:2",
+            "number": "II",
+            "title": "CÁC QUY ĐỊNH CỤ THỂ",
+            "content": "Chương II\nCÁC QUY ĐỊNH CỤ THỂ",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:123000:part:2:article:3",
+                "number": "3",
+                "title": "Yêu cầu khi sử dụng hệ thống THHN",
+                "content": "Điều 3. Yêu cầu khi sử dụng hệ thống THHN",
+                "clauses": [
+                  {
+                    "clause_id": "doc:123000:part:2:article:3:clause:1",
+                    "number": "1",
+                    "content": "1. Không để các vật dễ cháy, nổ, chất lỏng, hóa chất gần các thiết bị của hệ thống.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:123000:part:2:article:3:clause:2",
+                    "number": "2",
+                    "content": "2. Bảo đảm các điều kiện về phòng\ncháy, chữa cháy.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:123000:part:2:article:3:clause:3",
+                    "number": "3",
+                    "content": "3. Bảo đảm các điều kiện về âm thanh,\nánh sáng, nhiệt độ, độ ẩm, nguồn điện ổn định cho hệ thống THHN.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:123000:part:2:article:3:clause:4",
+                    "number": "4",
+                    "content": "4. Không được tự ý di chuyển, sử dụng\nthiết bị vào mục đích khác hoặc thay đổi các tham số cấu hình hệ thống.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:123000:part:2:article:3:clause:5",
+                    "number": "5",
+                    "content": "5. Giữ bí mật tài khoản truy cập vào\nhệ thống.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:123000:part:2:article:3:clause:6",
+                    "number": "6",
+                    "content": "6. Không dùng tay, vật cứng chạm vào ống\nkính camera hoặc xoay camera.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:123000:part:2:article:3:clause:7",
+                    "number": "7",
+                    "content": "7. Bật, tắt, vận hành hệ thống phải\nđúng quy trình kỹ thuật.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:123000:part:2:article:3:clause:8",
+                    "number": "8",
+                    "content": "8. Ngắt nguồn\nđiện cung cấp cho hệ thống khi không sử dụng.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:123000:part:2:article:3:clause:9",
+                    "number": "9",
+                    "content": "9. Thường xuyên vệ sinh hệ thống theo\nđúng quy trình, đặc biệt đối với thiết bị camera phải dùng khăn lau mềm tiêu chuẩn và chất tẩy rửa chuyên dụng.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:123000:part:2:article:4",
+                "number": "4",
+                "title": "Đăng ký sử dụng hệ thống THHN",
+                "content": "Điều 4. Đăng ký sử dụng hệ thống THHN",
+                "clauses": [
+                  {
+                    "clause_id": "doc:123000:part:2:article:4:clause:1",
+                    "number": "1",
+                    "content": "1. Các đơn vị cấp Vụ, Cục thuộc Bộ\nTài chính và các đơn vị cấp Tổng cục trực thuộc Bộ Tài chính được quyền đăng ký sử dụng hệ thống THHN.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:123000:part:2:article:4:clause:2",
+                    "number": "2",
+                    "content": "2. Đơn vị có nhu cầu sử dụng hệ thống THHN (đơn vị chủ trì cuộc họp)\nđăng ký với Kho bạc Nhà nước theo mẫu đính kèm. Hình thức gửi: bản fax đến địa chỉ: 0462.764.368 hoặc scan văn bản đăng ký (có chữ ký Lãnh đạo và đóng dấu của đơn vị) gửi về hòm thư điện tử: dangkyTHHN@vst.gov.vn, hotline: 0912.561.444 ít nhất 05 ngày làm việc trước khi diễn ra hội nghị, trừ trường hợp họp đột xuất do Lãnh đạo Bộ quyết định.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:123000:part:2:article:4:clause:3",
+                    "number": "3",
+                    "content": "3. Thứ tự ưu tiên giải quyết nhu cầu\nsử dụng hệ thống THHN:",
+                    "points": [
+                      {
+                        "point_id": "doc:123000:part:2:article:4:clause:3:point:1",
+                        "label": "a",
+                        "content": "a) Các cuộc họp, hội nghị do Lãnh đạo\nBộ Tài chính chủ trì.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:123000:part:2:article:4:clause:3:point:2",
+                        "label": "b",
+                        "content": "b) Các cuộc họp, hội nghị do Lãnh đạo\ncác Tổng cục trực thuộc Bộ Tài chính chủ trì.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:123000:part:2:article:4:clause:3:point:3",
+                        "label": "c",
+                        "content": "c) Các cuộc họp, hội nghị do Lãnh đạo\ncác đơn vị thuộc Bộ Tài chính chủ trì.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:123000:part:2:article:4:clause:4",
+                    "number": "4",
+                    "content": "4. Ngay trong ngày tiếp nhận thông\ntin đăng ký lịch họp từ các đơn vị, KBNN có trách nhiệm sắp xếp lịch họp theo thứ tự ưu tiên tại Khoản 3 Điều này và thông báo cho đơn vị chủ trì cuộc họp biết thông tin về việc được sử dụng hoặc không được sử dụng hệ thống THHN. Trường hợp các cuộc họp đăng ký có thứ tự ưu tiên trên giống nhau, KBNN trao đổi với đơn vị để sắp xếp lịch họp cho phù hợp.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:123000:part:2:article:4:clause:5",
+                    "number": "5",
+                    "content": "5. Trường hợp họp\nđột xuất, khẩn cấp, căn cứ nhu cầu đăng ký của đơn vị chủ trì cuộc họp, KBNN cùng Viettel và các điểm cầu có trách nhiệm phối hợp kịp thời, đảm bảo các điều kiện kỹ thuật, hậu cần phục vụ cuộc họp.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:123000:part:2:article:5",
+                "number": "5",
+                "title": "Công tác chuẩn bị trước cuộc họp THHN",
+                "content": "Điều 5. Công tác chuẩn bị trước cuộc họp THHN",
+                "clauses": [
+                  {
+                    "clause_id": "doc:123000:part:2:article:5:clause:1",
+                    "number": "1",
+                    "content": "1. Trách nhiệm của KBNN:",
+                    "points": [
+                      {
+                        "point_id": "doc:123000:part:2:article:5:clause:1:point:1",
+                        "label": "a",
+                        "content": "a) Thông báo kịp thời cho Viettel và\ncác điểm cầu biết đơn vị được sử dụng hệ thống THHN, thời gian tổ chức họp, số lượng đại biểu và yêu cầu phục vụ họp để chuẩn bị triển khai cuộc họp.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:123000:part:2:article:5:clause:1:point:2",
+                        "label": "b",
+                        "content": "b) Phối hợp với Viettel và đơn vị chủ\ntrì cuộc họp THHN tổ chức kiểm tra chạy thử các thiết bị đầu cuối, đường truyền, chất lượng âm thanh, hình ảnh xong trước giờ khai mạc cuộc họp 60 phút.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:123000:part:2:article:5:clause:1:point:3",
+                        "label": "c",
+                        "content": "c) Phối hợp với\nViettel thiết lập các thông số kỹ thuật, điều khiển thiết bị hệ thống THHN phục vụ cuộc họp được đảm bảo hoạt động thông suốt.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:123000:part:2:article:5:clause:2",
+                    "number": "2",
+                    "content": "2. Viettel có\ntrách nhiệm:",
+                    "points": [
+                      {
+                        "point_id": "doc:123000:part:2:article:5:clause:2:point:1",
+                        "label": "a",
+                        "content": "a) Thông báo cho các chi nhánh có\nliên quan của Viettel cử cán bộ kỹ thuật sẵn sàng phối hợp tổ chức cuộc họp THHN.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:123000:part:2:article:5:clause:2:point:2",
+                        "label": "b",
+                        "content": "b) Chủ trì cùng KBNN và đơn vị\nchủ trì cuộc họp THHN tổ chức kiểm tra chạy thử các thiết bị đầu cuối, đường truyền, chất lượng âm thanh, hình ảnh xong trước giờ khai mạc cuộc họp 60 phút.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:123000:part:2:article:5:clause:2:point:3",
+                        "label": "c",
+                        "content": "c) Chủ trì cùng KBNN thiết lập các\nthông số kỹ thuật, điều khiển thiết bị hệ thống THHN phục vụ cuộc họp được đảm bảo hoạt động thông suốt.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:123000:part:2:article:5:clause:3",
+                    "number": "3",
+                    "content": "3. Các đơn vị quản lý điểm cầu có trách nhiệm:",
+                    "points": [
+                      {
+                        "point_id": "doc:123000:part:2:article:5:clause:3:point:1",
+                        "label": "a",
+                        "content": "a) Bố trí phòng họp THHN.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:123000:part:2:article:5:clause:3:point:2",
+                        "label": "b",
+                        "content": "b) Kiểm tra âm thanh, ánh sáng, nguồn\nđiện và điện dự phòng (đề phòng khi có sự cố mất điện đột xuất xảy ra), mạng Lan, thiết bị bên ngoài kết nối với thiết bị đầu cuối.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:123000:part:2:article:5:clause:3:point:3",
+                        "label": "c",
+                        "content": "c) Cử cán bộ phối hợp với cán bộ vận hành của chi nhánh Viettel tại điểm cầu kiểm tra chạy\nthử các thiết bị đầu cuối, đường truyền, chất lượng âm thanh, hình ảnh; thiết lập các vị trí khung hình cần thiết phù hợp với sơ đồ hội trường.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:123000:part:2:article:5:clause:3:point:4",
+                        "label": "d",
+                        "content": "d) Phối hợp chuẩn bị các điều kiện hậu\ncần khác theo đề nghị của đơn vị chủ trì họp.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:123000:part:2:article:5:clause:4",
+                    "number": "4",
+                    "content": "4. Đơn vị chủ trì cuộc họp có trách\nnhiệm:",
+                    "points": [
+                      {
+                        "point_id": "doc:123000:part:2:article:5:clause:4:point:1",
+                        "label": "a",
+                        "content": "a) Chuẩn bị chương trình, nội dung và\nthông báo tới các đại biểu tham dự đúng thành phần, thời gian và địa điểm tổ chức cuộc họp THHN.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:123000:part:2:article:5:clause:4:point:2",
+                        "label": "b",
+                        "content": "b) Cử cán bộ tham gia quá trình chạy\nthử hệ thống, rà soát các điều kiện phục vụ họp tại các điểm cầu; trực tiếp thực hiện các công tác về hậu cần, lễ tân, khánh tiết: trang trí, hoa tươi, trái cây, nước uống, tiếp đón,...",
+                        "children": []
+                      }
+                    ]
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:123000:part:2:article:6",
+                "number": "6",
+                "title": "Điều khiển hệ thống trong cuộc họp THHN",
+                "content": "Điều 6. Điều khiển hệ thống trong cuộc họp THHN",
+                "clauses": [
+                  {
+                    "clause_id": "doc:123000:part:2:article:6:clause:1",
+                    "number": "1",
+                    "content": "1. Cán bộ kỹ thuật tại Trung tâm điều\nkhiển của Viettel:",
+                    "points": [
+                      {
+                        "point_id": "doc:123000:part:2:article:6:clause:1:point:1",
+                        "label": "a",
+                        "content": "a) Trực tiếp điều chỉnh khung hình hiển\nthị hình ảnh, âm thanh cho phù hợp với từng thời điểm diễn ra trong cuộc họp.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:123000:part:2:article:6:clause:1:point:2",
+                        "label": "b",
+                        "content": "b) Phối hợp ngay với cán bộ Viettel\ntrực hệ thống ở các điểm cầu khi có sự cố về đường truyền, tín hiệu âm thanh, hình ảnh để kịp thời khắc phục.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:123000:part:2:article:6:clause:1:point:3",
+                        "label": "c",
+                        "content": "c) Gửi yêu cầu phát biểu tại các điểm\ncầu cho người chủ trì cuộc họp.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:123000:part:2:article:6:clause:2",
+                    "number": "2",
+                    "content": "2. Cán bộ Viettel và cán bộ trực hệ\nthống ở các điểm cầu:",
+                    "points": [
+                      {
+                        "point_id": "doc:123000:part:2:article:6:clause:2:point:1",
+                        "label": "a",
+                        "content": "a) Vận hành hệ thống trong toàn bộ\nquá trình diễn ra cuộc họp, chỉ được bật micro khi có yêu cầu phát biểu của người chủ trì cuộc họp.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:123000:part:2:article:6:clause:2:point:2",
+                        "label": "b",
+                        "content": "b) Điều chỉnh camera phù hợp với vị\ntrí đại biểu ở điểm cầu đang phát biểu.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:123000:part:2:article:6:clause:2:point:3",
+                        "label": "c",
+                        "content": "c) Không được tự ý quay số tới bất kỳ\nđiểm cầu nào trong hệ thống khi chưa có yêu cầu của cán bộ kỹ thuật Trung tâm điều khiển.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:123000:part:2:article:6:clause:2:point:4",
+                        "label": "d",
+                        "content": "d) Khi mất kết nối, phải thông báo\nngay với cán bộ kỹ thuật của Trung tâm điều khiển Viettel để khắc phục sự cố; báo cáo chủ trì cuộc họp tại điểm cầu mình phụ trách điều chỉnh nội dung, thời gian cho phù hợp với thực tế.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:123000:part:2:article:6:clause:2:point:5",
+                        "label": "đ",
+                        "content": "đ) Tiếp nhận đăng ký phát biểu của chủ\ntrì cuộc họp tại điểm cầu mình phụ trách và gửi cho cán bộ kỹ thuật tại Trung tâm điều khiển Viettel bằng điện thoại.",
+                        "children": []
+                      }
+                    ]
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:123000:part:2:article:7",
+                "number": "7",
+                "title": "Kết thúc cuộc họp THHN",
+                "content": "Điều 7. Kết thúc cuộc họp THHN",
+                "clauses": [
+                  {
+                    "clause_id": "doc:123000:part:2:article:7:clause:1",
+                    "number": "1",
+                    "content": "1. Cán bộ kỹ thuật Viettel ở trung\ntâm điều khiển và các điểm cầu kiểm tra lại toàn bộ hệ thống, tắt thiết bị trước và sau đó ngắt nguồn điện cung cấp theo đúng quy trình.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:123000:part:2:article:7:clause:2",
+                    "number": "2",
+                    "content": "2. Cán bộ vận hành của Viettel\nvà cán bộ trực hệ thống tại các điểm cầu và đại diện đơn vị dự họp ký biên bản xác nhận chất lượng của hệ thống THHN phục vụ họp tại điểm cầu (theo mẫu biên bản đính kèm quy chế).",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:123000:part:2:article:8",
+                "number": "8",
+                "title": "Bố trí kinh phí tổ chức cuộc họp THHN",
+                "content": "Điều 8. Bố trí kinh phí tổ chức cuộc họp THHN",
+                "clauses": [
+                  {
+                    "clause_id": "doc:123000:part:2:article:8:clause:1",
+                    "number": "1",
+                    "content": "1. Đối với các\nđiểm cầu Trung ương: các điểm cầu đảm bảo các chi phí phát sinh liên quan đến tổ chức họp, hội nghị trong chi phí thường xuyên của đơn vị theo quy định.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:123000:part:2:article:8:clause:2",
+                    "number": "2",
+                    "content": "2. Đối với các điểm cầu địa phương:",
+                    "points": [
+                      {
+                        "point_id": "doc:123000:part:2:article:8:clause:2:point:1",
+                        "label": "a",
+                        "content": "a) Kho bạc Nhà nước các, tỉnh, thành\nphố đảm bảo các chi phí phát sinh liên quan đến tổ chức họp THHN gồm chi phí điện, điều hòa…; chi phí sửa chữa, bảo trì, bảo dưỡng thường xuyên tài sản cố định của phòng họp ngoài trách nhiệm của nhà cung cấp dịch vụ từ nguồn kinh phí thường xuyên của đơn vị theo quy định.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:123000:part:2:article:8:clause:2:point:2",
+                        "label": "b",
+                        "content": "b) Các đơn vị ngành Tài chính tại địa\nphương sử dụng điểm cầu tại địa phương có trách nhiệm đảm bảo chi phí họp THHN (trang trí, tài liệu, nước uống, lễ tân khánh tiết...) trong chi phí thường xuyên của đơn vị theo quy định.",
+                        "children": []
+                      }
+                    ]
+                  }
+                ],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:123000:part:2:chapter:3",
+            "number": "III",
+            "title": "TRÁCH NHIỆM QUẢN LÝ, VẬN HÀNH, SỬ DỤNG HỆ THỐNG TRUYỀN HÌNH HỘI NGHỊ",
+            "content": "Chương III\nTRÁCH NHIỆM QUẢN\nLÝ, VẬN HÀNH, SỬ DỤNG HỆ THỐNG TRUYỀN HÌNH HỘI NGHỊ",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:123000:part:2:article:9",
+                "number": "9",
+                "title": "Trách nhiệm của các đơn vị thuộc Bộ Tài chính",
+                "content": "Điều 9. Trách nhiệm của các đơn vị thuộc Bộ Tài chính\na) Văn phòng Bộ Tài chính có trách\nnhiệm điều phối, sắp xếp lịch họp THHN tại điểm cầu trụ sở cơ quan Bộ.\nb) Cục Tin học\nvà thống kê Tài chính có trách nhiệm cử cán bộ kỹ thuật phối hợp với Văn phòng Bộ và Cục Kế hoạch - Tài chính để bảo đảm hạ tầng truyền thông khi tổ chức họp THHN tại điểm cầu trụ sở cơ quan Bộ.\nc) Cục Kế hoạch - Tài chính, Bộ Tài\nchính có trách nhiệm chuẩn bị công tác hậu cần tổ chức các cuộc họp THHN tại điểm cầu trụ sở cơ quan Bộ, như: nước uống, trang trí, lễ tân, khánh tiết…",
+                "clauses": [],
+                "points": []
+              },
+              {
+                "article_id": "doc:123000:part:2:article:10",
+                "number": "10",
+                "title": "Trách nhiệm của Kho bạc Nhà nước",
+                "content": "Điều 10. Trách nhiệm của Kho bạc Nhà nước",
+                "clauses": [
+                  {
+                    "clause_id": "doc:123000:part:2:article:10:clause:1",
+                    "number": "1",
+                    "content": "1. Là đầu mối tiếp\nnhận đăng ký sử dụng hệ thống THHN.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:123000:part:2:article:10:clause:2",
+                    "number": "2",
+                    "content": "2. Kịp thời\nthông báo, phối hợp với Viettel và đơn vị được sử dụng hệ thống THHN hoàn tất công tác chuẩn bị trước 60 phút khi cuộc họp THHN bắt đầu.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:123000:part:2:article:10:clause:3",
+                    "number": "3",
+                    "content": "3. Phối hợp chặt\nchẽ với Viettel và các điểm cầu điều khiển hệ thống trong cuộc họp THHN đảm bảo hình ảnh, âm thanh rõ nét; kịp thời khắc phục các sự cố xẩy ra (nếu có).",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:123000:part:2:article:10:clause:4",
+                    "number": "4",
+                    "content": "4. Theo dõi đánh giá chất lượng cung cấp\ndịch vụ và việc thực hiện các nghĩa vụ với Viettel theo hợp đồng đã ký kết.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:123000:part:2:article:10:clause:5",
+                    "number": "5",
+                    "content": "5. Tổng hợp, theo dõi, đánh giá tình\nhình thực hiện quy chế; trong quá trình thực hiện nếu phát hiện bất cập, tồn tại, kịp thời tham mưu đề xuất trình Bộ sửa đổi bổ sung qui chế cho phù hợp.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:123000:part:2:article:10:clause:6",
+                    "number": "6",
+                    "content": "6. Chịu trách nhiệm về tiêu chuẩn kỹ\nthuật của hệ thống, đảm bảo phù hợp với quy định chung của Bộ.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:123000:part:2:article:11",
+                "number": "11",
+                "title": "Trách nhiệm của các đơn vị quản lý điểm cầu",
+                "content": "Điều 11. Trách nhiệm của các đơn vị quản lý điểm cầu",
+                "clauses": [
+                  {
+                    "clause_id": "doc:123000:part:2:article:11:clause:1",
+                    "number": "1",
+                    "content": "1. Các đơn vị quản\nlý điểm cầu có trách nhiệm bảo quản toàn bộ hệ thống thiết bị đầu cuối phục vụ THHN, bố trí phòng họp, nhân lực phối hợp chặt chẽ với cán bộ kỹ thuật của Viettel trong quá trình chuẩn bị cũng như khi diễn ra THHN theo các quy định tại Quy chế này. Bố trí và duy trì thường xuyên các thiết bị liên quan, như: bàn, ghế, âm thanh, ánh sáng.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:123000:part:2:article:11:clause:2",
+                    "number": "2",
+                    "content": "2. Bố trí ổn định cán bộ kỹ thuật phối\nhợp tham gia vận hành và sử dụng thiết bị phòng họp trực tuyến (mỗi đơn vị 1-2 cán bộ). Danh sách cán bộ kỹ thuật có sự thay đổi phải cử cán bộ thay thế và gửi về Kho bạc Nhà nước (họ tên, đơn vị, số điện thoại, email) để cập nhật, tổng hợp gửi Viettel và các đơn vị có liên quan thuận lợi trong quá trình phối hợp vận hành và sử dụng hệ thống.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:123000:part:2:article:11:clause:3",
+                    "number": "3",
+                    "content": "3. Ký biên\nbản xác nhận chất lượng THHN với Viettel và đại diện đơn vị dự họp.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:123000:part:2:article:12",
+                "number": "12",
+                "title": "Trách nhiệm của các đơn vị đăng ký sử dụng hệ thống THHN (đơn vị chủ trì cuộc họp)",
+                "content": "Điều 12. Trách nhiệm của các đơn vị đăng ký sử dụng hệ thống THHN (đơn vị chủ trì cuộc họp)",
+                "clauses": [
+                  {
+                    "clause_id": "doc:123000:part:2:article:12:clause:1",
+                    "number": "1",
+                    "content": "1. Khi có nhu cầu sử dụng hệ thống\nTHHN để tổ chức các cuộc họp phải đăng ký, thống nhất với KBNN theo quy định tại",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:123000:part:2:article:13",
+                "number": "4",
+                "title": "Quy chế này.",
+                "content": "Điều 4 Quy chế này.",
+                "clauses": [
+                  {
+                    "clause_id": "doc:123000:part:2:article:13:clause:1",
+                    "number": "2",
+                    "content": "2. Phối hợp chặt chẽ với KBNN trong\nviệc đăng ký thời gian, số lượng đại biểu và các yêu cầu khác để phục vụ cuộc họp trực tuyến. Khi có sự thay đổi về thời gian tổ chức họp phải thông báo kịp thời cho KBNN để có sự điều chỉnh phù hợp.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:123000:part:2:article:13:clause:2",
+                    "number": "3",
+                    "content": "3. Chủ trì chuẩn bị nội dung và thông\nbáo tới các đại biểu tham dự đúng thành phần, thời gian và địa điểm tổ chức cuộc họp THHN; chuẩn bị tài liệu họp, nước uống, trang trí, lễ tân khánh tiết tại điểm cầu đơn vị dự họp.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:123000:part:2:article:13:clause:3",
+                    "number": "4",
+                    "content": "4. Cử cán bộ trực tại điểm cầu trung\ntâm để tiếp nhận đăng ký phát biểu trong cuộc họp THHN (nếu có).",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:123000:part:2:article:13:clause:4",
+                    "number": "5",
+                    "content": "5. Ký biên\nbản xác nhận chất lượng THHN với Viettel theo mẫu đính kèm.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:123000:part:2:article:14",
+                "number": "13",
+                "title": "Trách nhiệm của Viettel",
+                "content": "Điều 13. Trách nhiệm của Viettel",
+                "clauses": [
+                  {
+                    "clause_id": "doc:123000:part:2:article:14:clause:1",
+                    "number": "1",
+                    "content": "1. Quản trị, vận hành bảo trì, sửa chữa\ntoàn bộ hệ thống THHN.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:123000:part:2:article:14:clause:2",
+                    "number": "2",
+                    "content": "2. Đảm bảo các chỉ tiêu kỹ thuật và\nchất lượng đường truyền dẫn cho hệ thống THHN.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:123000:part:2:article:14:clause:3",
+                    "number": "3",
+                    "content": "3. Tổng hợp danh sách các cán bộ kỹ\nthuật của Viettel tham gia quản trị, vận hành hệ thống THHN tại trung tâm và các chi nhánh ở địa phương thông báo cho Kho bạc Nhà nước để gửi các điểm cầu và đơn vị liên quan biết liên hệ. Trường hợp cán bộ có sự thay đổi, Viettel phải cử cán bộ thay thế và thông báo cho Kho bạc Nhà nước (họ tên, đơn vị, số điện thoại, email) để cập nhật gửi các đơn vị có liên quan thuận lợi trong quá trình phối hợp vận hành và sử dụng hệ thống.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:123000:part:2:article:14:clause:4",
+                    "number": "4",
+                    "content": "4. Có trách nhiệm bảo mật thông tin\ncác cuộc họp theo các quy định của hợp đồng và pháp luật hiện hành.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:123000:part:2:chapter:4",
+            "number": "IV",
+            "title": "TỔ CHỨC THỰC HIỆN",
+            "content": "Chương IV\nTỔ CHỨC THỰC HIỆN",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:123000:part:2:article:15",
+                "number": "14",
+                "title": "Điều khoản thi hành",
+                "content": "Điều 14. Điều khoản thi hành",
+                "clauses": [
+                  {
+                    "clause_id": "doc:123000:part:2:article:15:clause:1",
+                    "number": "1",
+                    "content": "1. Quy chế này có hiệu lực kể từ ngày\nký. Kho bạc nhà nước, Viettel và các đơn vị liên quan thuộc Bộ Tài chính, chịu trách nhiệm thực hiện đúng các quy định tại Quy chế này.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:123000:part:2:article:15:clause:2",
+                    "number": "2",
+                    "content": "2. Các tổ chức,\ncá nhân vi phạm các quy định của Quy chế này tùy theo tính chất, mức độ vi phạm sẽ bị xử lý kỷ luật, xử lý vi phạm hành chính hoặc truy cứu trách nhiệm hình sự, nếu gây thiệt hại phải bồi thường theo quy định của pháp luật. Trong quá trình thực hiện nếu có vấn đề vướng mắc, kịp thời báo cáo, đề xuất trình Bộ Tài chính xem xét, quyết định./. Mẫu đăng ký sử dụng hệ thống hội nghị truyền hình (Kèm theo Quy chế quản lý, vận hành, sử dụng Hệ thống điện tử đa phương tiện hỗ trợ chỉ đạo điều hành của Bộ Tài chính)\nBỘ TÀI CHÍNH TÊN ĐƠN VỊ\n-------\nĐĂNG KÝ SỬ DỤNG HỆ THỐNG HỘI NGHỊ TRUYỀN HÌNH\nKính gửi: Kho bạc Nhà nước.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:123000:part:2:article:15:clause:3",
+                    "number": "1",
+                    "content": "1. Họ và tên (đại diện Ban tổ chức Hội nghị):..................................................................",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:123000:part:2:article:15:clause:4",
+                    "number": "2",
+                    "content": "2. Đơn vị:.........................................................................................................................",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:123000:part:2:article:15:clause:5",
+                    "number": "3",
+                    "content": "3. Chức vụ:......................................................................................................................",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:123000:part:2:article:15:clause:6",
+                    "number": "4",
+                    "content": "4. Số điện thoại\n(số cố định và số di động): ....................................................................",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:123000:part:2:article:15:clause:7",
+                    "number": "5",
+                    "content": "5. Đăng ký sử dụng\nhệ thống ngày:.................................................................................",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:123000:part:2:article:15:clause:8",
+                    "number": "6",
+                    "content": "6. Thời gian: bắt đầu từ…...…giờ…..….phút, đến………giờ………phút",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:123000:part:2:article:15:clause:9",
+                    "number": "7",
+                    "content": "7. Nội dung họp:...............................................................................................................",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:123000:part:2:article:15:clause:10",
+                    "number": "8",
+                    "content": "8. Số điểm cầu và số lượng người dự họp:\nStt Điểm cầu Số lượng người 1 2 3 … Tổng cộng",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:123000:part:2:article:15:clause:11",
+                    "number": "9",
+                    "content": "9. Các yêu cầu khác:..........................................................................................................\n…, ngày tháng năm Thủ trưởng đơn vị (Ký và ghi rõ họ tên, đóng dấu)\nMẪU BIÊN BẢN XÁC NHẬN CUỘC HỌP TẠI ĐIỂM CẦU\n(Kèm theo Quy chế quản lý, vận hành, sử dụng Hệ thống điện tử đa phương tiện hỗ trợ chỉ đạo điều hành của Bộ Tài chính)\nCỘNG\nHÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc -----------------\nBIÊN\nBẢN XÁC NHẬN CUỘC HỌP TẠI ĐIỂM CẦU...(Ghi tên điểm cầu) Số:……./BBXN/……….(tên viết tắt của đơn vị nơi có điểm cầu tổ chức cuộc họp)- VIETTEL/201... Căn cứ thực tế cuộc họp ngày ....tháng...năm…. do ………….. (ghi tên đơn vị chủ trì) tổ chức tại ………………….. (ghi tên điểm cầu), Hôm nay ngày .../.../201.., tại ……………. (ghi tên điểm cầu) - số ……………… (ghi địa chỉ), chúng tôi gồm:",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:123000:part:2:article:15:clause:12",
+                    "number": "1",
+                    "content": "1. Ông (bà) ………… Chức vụ: ……………..(ghi tên đơn vị có điểm cầu)",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:123000:part:2:article:15:clause:13",
+                    "number": "2",
+                    "content": "2. Ông (bà) ………… Chức vụ: ……………..(ghi tên đơn vị dự họp)",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:123000:part:2:article:15:clause:14",
+                    "number": "3",
+                    "content": "3. Ông (bà) ………… Chức vụ: ……………..(ghi tên đại diện Viettel)\nCác Bên cùng thống nhất xác nhận chất lượng dịch vụ truyền hình hội nghị do VIETTEL cung cấp trong cuộc họp như sau: I. Nội dung xác nhận: - Thời gian tổ chức cuộc họp: Từ ....giờ...phút đến ….giờ…..phút ngày...tháng....năm 201.. - Về chất lượng âm thanh (ổn định/không ổn định (vọng, rú):.......................................... - Về chất lượng hình ảnh (rõ nét/không rõ nét):............................................................... - Về hoạt động của hệ thống (ổn định/không ổn định):..................................................... - Các sự cố (nếu có): + Sự cố 1: Từ ......h.....phút đến …..h…..phút, tổng thời gian:.... phút Mô tả sự cố:...................................................................................................................... Nguyên nhân:.................................................................................................................... Công tác xử lý sự cố (đã thực hiện):................................................................................. + Sự cố...: Từ …..h…..phút đến …..h…...phút, tổng thời gian:.... phút Mô tả sự cố:...................................................................................................................... Nguyên nhân:.................................................................................................................... Công tác xử lý sự cố (đã thực hiện):................................................................................. - Bảo mật thông tin trong quá trình họp: đảm bảo. II. Kết luận: - Các bên đồng ý với nội dung xác nhận nêu trên. - Biên bản này được lập thành 05 (năm) bản có giá trị pháp lý như nhau: Điểm cầu giữ 01 bản, đơn vị dự họp giữ 01 (một) bản, Chi nhánh Viettel tỉnh/thành phố giữ 01 bản, Tổng Công ty Viễn thông Viettel giữ 01 bản, KBNN giữ 01 bản./.\nĐẠI\nDIỆN ……..(ghi tên đơn vị dự họp) (ký, ghi rõ họ tên)\nĐẠI DIỆN VIETTEL ……\n(ký, ghi rõ họ tên)\nĐẠI DIỆN ĐƠN VỊ CÓ ĐIỂM CẦU …………\n(ký, ghi rõ họ tên, đóng dấu)",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          }
+        ],
+        "sections": [],
+        "articles": [],
+        "unstructured_blocks": []
+      }
+    ]
+  },
+  "issues": [],
+  "status": "ok",
+  "source_hash": "context_123000.json",
+  "stats": {
+    "source_chars": 18791,
+    "passage_chars": 18642,
+    "parts": 2,
+    "chapters": 4,
+    "sections": 0,
+    "articles": 17,
+    "clauses": 58,
+    "points": 30
+  }
+}

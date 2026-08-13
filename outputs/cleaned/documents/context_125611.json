@@ -1,0 +1,67 @@
+{
+  "schema_version": "2.0",
+  "document_id": 125611,
+  "metadata": {
+    "name": null,
+    "link": "https://thuvienphapluat.vn/cong-van/Thue-Phi-Le-Phi/Cong-van-3041-TCT-CS-2020-thue-gia-tri-gia-tang-doi-voi-san-pham-ngo-hat-448933.aspx",
+    "issuing_agency": "BỘ TÀI CHÍNH TỔNG CỤC THUẾ",
+    "national_header": "CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM",
+    "motto": "Độc lập - Tự do - Hạnh phúc",
+    "document_number": "3041/TCT-CS",
+    "issued_place": "Hà Nội",
+    "issued_date": "ngày 31 tháng 7 năm 2020",
+    "document_type": null,
+    "title": null
+  },
+  "administrative_header": {
+    "removed": true,
+    "removed_char_count": 353
+  },
+  "preamble": {
+    "text": null,
+    "legal_bases": [],
+    "proposals": [],
+    "enactment_formula": null
+  },
+  "passage": "Kính gửi: Cục Thuế tỉnh Lào Cai. Tổng cục Thuế nhận được công văn số 289/CT-TTKT3 ngày 20/01/2020 của Cục Thuế tỉnh Lào Cai về chính sách thuế giá trị gia tăng (GTGT) đối với sản phẩm ngô hạt. Về vấn đề này, Tổng cục Thuế có ý kiến như sau: Về chính sách thuế GTGT đối với mặt hàng ngô hạt, Tổng cục Thuế đã có công văn số 2487/TCT-CS ngày 18/6/2020 lấy ý kiến Bộ Nông nghiệp và Phát triển nông thôn. Ngày 26/6/2020, Bộ Nông nghiệp và Phát triển nông thôn có công văn trả lời số 534/CN-TACN về mặt hàng ngô hạt làm thức ăn chăn nuôi. (bản photocopy các công văn đính kèm). Do đó, đề nghị Cục Thuế tỉnh Lào Cai căn cứ ý kiến của Bộ NN&PTNT tại công văn số 534/CN-TACN nêu trên và đối chiếu với các quy định pháp luật về chính sách thuế giá trị gia tăng để thực hiện. Tổng cục Thuế có ý kiến để Cục Thuế tỉnh Lào Cai được biết./.\nNơi nhận:\n- Như trên\n- Phó TCTr, Đặng Ngọc Minh (để báo cáo);\n- Vụ PC, CST, TCHQ (BTC);\n- Vụ PC, KK, KTNB, TTKT (TCT);\n- Website TCT;\n- Lưu: VT, CS (3).\nTL. TỔNG CỤC TRƯỞNG\nVỤ TRƯỞNG VỤ CHÍNH SÁCH\nLưu Đức Huy",
+  "tree": {
+    "parts": [
+      {
+        "part_id": "doc:125611:part:1",
+        "part_type": "main",
+        "part_title": null,
+        "reference": null,
+        "direct_text": null,
+        "chapters": [],
+        "sections": [],
+        "articles": [],
+        "unstructured_blocks": [
+          {
+            "block_id": "doc:125611:part:1:block:1",
+            "content": "Kính gửi: Cục Thuế tỉnh Lào Cai. Tổng cục Thuế nhận được công văn số 289/CT-TTKT3 ngày 20/01/2020 của Cục Thuế tỉnh Lào Cai về chính sách thuế giá trị gia tăng (GTGT) đối với sản phẩm ngô hạt. Về vấn đề này, Tổng cục Thuế có ý kiến như sau: Về chính sách thuế GTGT đối với mặt hàng ngô hạt, Tổng cục Thuế đã có công văn số 2487/TCT-CS ngày 18/6/2020 lấy ý kiến Bộ Nông nghiệp và Phát triển nông thôn. Ngày 26/6/2020, Bộ Nông nghiệp và Phát triển nông thôn có công văn trả lời số 534/CN-TACN về mặt hàng ngô hạt làm thức ăn chăn nuôi. (bản photocopy các công văn đính kèm). Do đó, đề nghị Cục Thuế tỉnh Lào Cai căn cứ ý kiến của Bộ NN&PTNT tại công văn số 534/CN-TACN nêu trên và đối chiếu với các quy định pháp luật về chính sách thuế giá trị gia tăng để thực hiện. Tổng cục Thuế có ý kiến để Cục Thuế tỉnh Lào Cai được biết./.",
+            "indexable": true
+          }
+        ]
+      }
+    ]
+  },
+  "issues": [
+    {
+      "code": "no_articles",
+      "message": "no articles parsed",
+      "severity": "warning"
+    }
+  ],
+  "status": "ok",
+  "source_hash": "context_125611.json",
+  "stats": {
+    "source_chars": 1390,
+    "passage_chars": 1036,
+    "parts": 1,
+    "chapters": 0,
+    "sections": 0,
+    "articles": 0,
+    "clauses": 0,
+    "points": 0
+  }
+}

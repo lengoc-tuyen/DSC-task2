@@ -1,0 +1,991 @@
+{
+  "schema_version": "2.0",
+  "document_id": 170162,
+  "metadata": {
+    "name": "Thong-tu-07-2017-TT-BTNMT-cung-cap-dich-vu-cong-truc-tuyen-Bo-Tai-nguyen-va-Moi-truong-344080",
+    "link": "https://thuvienphapluat.vn/van-ban/Cong-nghe-thong-tin/Thong-tu-07-2017-TT-BTNMT-cung-cap-dich-vu-cong-truc-tuyen-Bo-Tai-nguyen-va-Moi-truong-344080.aspx",
+    "issuing_agency": "BỘ TÀI NGUYÊN MÔI TRƯỜNG",
+    "national_header": "CỘNG\r\n\n  HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM",
+    "motto": "Độc lập - Tự do - Hạnh phúc",
+    "document_number": "07/2017/TT-BTNMT",
+    "issued_place": "Hà Nội",
+    "issued_date": "ngày 29 tháng 05 năm 2017",
+    "document_type": "THÔNG TƯ",
+    "title": "QUY ĐỊNH VỀ CUNG CẤP DỊCH VỤ CÔNG TRỰC TUYẾN THUỘC THẨM QUYỀN GIẢI QUYẾT CỦA BỘ TÀI NGUYÊN VÀ MÔI TRƯỜNG"
+  },
+  "administrative_header": {
+    "removed": true,
+    "removed_char_count": 166
+  },
+  "preamble": {
+    "text": "THÔNG TƯ\nQUY ĐỊNH VỀ CUNG CẤP DỊCH VỤ CÔNG TRỰC TUYẾN THUỘC THẨM QUYỀN GIẢI QUYẾT\nCỦA BỘ TÀI NGUYÊN VÀ MÔI TRƯỜNG\nCăn cứ Nghị định số 43/2011/NĐ-CP ngày 13 tháng 6 năm 2011 của Chính phủ quy định về việc cung cấp thông tin và dịch vụ công trực tuyến trên trang thông tin điện tử hoặc cổng thông tin điện tử của cơ quan nhà nước; Căn cứ Nghị định số 36/2017/NĐ-CP ngày 04 tháng 4 năm 2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài nguyên và Môi trường; Căn cứ Nghị định số 63/2010/NĐ-CP ngày 08 tháng 6 năm 2010 của Chính phủ về kiểm soát thủ tục hành chính; Nghị định số 48/2013/NĐ-CP ngày 14 tháng 5 năm 2013 của Chính phủ sửa đổi, bổ sung một số điều của các Nghị định liên quan đến kiểm soát thủ tục hành chính; Căn cứ Nghị định số 64/2007/NĐ-CP ngày 10 tháng 4 năm 2007 của Chính phủ về ứng dụng công nghệ thông tin trong hoạt động của cơ quan nhà nước; Theo đề nghị của Cục trưởng Cục Công nghệ thông tin và Dữ liệu tài nguyên môi trường và Vụ trưởng Vụ Pháp chế; Bộ trưởng Bộ Tài nguyên và Môi trường ban hành Thông tư quy định về cung cấp dịch vụ công trực tuyến thuộc thẩm quyền giải quyết của Bộ Tài nguyên và Môi trường.\nChương I\nQUY ĐỊNH CHUNG",
+    "legal_bases": [
+      "Căn cứ Nghị định số 36/2017/NĐ-CP ngày 04 tháng 4 năm 2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài nguyên và Môi trường",
+      "Căn cứ Nghị định số 63/2010/NĐ-CP ngày 08 tháng 6 năm 2010 của Chính phủ về kiểm soát thủ tục hành chính",
+      "Căn cứ Nghị định số 64/2007/NĐ-CP ngày 10 tháng 4 năm 2007 của Chính phủ về ứng dụng công nghệ thông tin trong hoạt động của cơ quan nhà nước"
+    ],
+    "proposals": [
+      "Theo đề nghị của Cục trưởng Cục Công nghệ thông tin và Dữ liệu tài nguyên môi trường và Vụ trưởng Vụ Pháp chế"
+    ],
+    "enactment_formula": null
+  },
+  "passage": "THÔNG TƯ\nQUY ĐỊNH VỀ CUNG CẤP DỊCH VỤ CÔNG TRỰC TUYẾN THUỘC THẨM QUYỀN GIẢI QUYẾT\nCỦA BỘ TÀI NGUYÊN VÀ MÔI TRƯỜNG\nCăn cứ Nghị định số 43/2011/NĐ-CP ngày 13 tháng 6 năm 2011 của Chính phủ quy định về việc cung cấp thông tin và dịch vụ công trực tuyến trên trang thông tin điện tử hoặc cổng thông tin điện tử của cơ quan nhà nước; Căn cứ Nghị định số 36/2017/NĐ-CP ngày 04 tháng 4 năm 2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài nguyên và Môi trường; Căn cứ Nghị định số 63/2010/NĐ-CP ngày 08 tháng 6 năm 2010 của Chính phủ về kiểm soát thủ tục hành chính; Nghị định số 48/2013/NĐ-CP ngày 14 tháng 5 năm 2013 của Chính phủ sửa đổi, bổ sung một số điều của các Nghị định liên quan đến kiểm soát thủ tục hành chính; Căn cứ Nghị định số 64/2007/NĐ-CP ngày 10 tháng 4 năm 2007 của Chính phủ về ứng dụng công nghệ thông tin trong hoạt động của cơ quan nhà nước; Theo đề nghị của Cục trưởng Cục Công nghệ thông tin và Dữ liệu tài nguyên môi trường và Vụ trưởng Vụ Pháp chế; Bộ trưởng Bộ Tài nguyên và Môi trường ban hành Thông tư quy định về cung cấp dịch vụ công trực tuyến thuộc thẩm quyền giải quyết của Bộ Tài nguyên và Môi trường.\nChương I\nQUY ĐỊNH CHUNG\nĐiều 1. Phạm vi điều chỉnh Thông tư này quy định về việc cung cấp dịch vụ công trực tuyến mức độ 3, 4 thuộc thẩm quyền giải quyết của Bộ Tài nguyên và Môi trường, bao gồm việc tạo lập tài khoản; quy trình khai; tiếp nhận, xử lý thông tin khai và trả kết quả thủ tục hành chính bằng phương thức điện tử; xây dựng, quản lý và vận hành Hệ thống dịch vụ công trực tuyến.\nĐiều 2. Đối tượng áp dụng\n1. Các đơn vị thuộc Bộ Tài nguyên và\nMôi trường; các cơ quan, tổ chức, cá nhân có liên quan tham gia thực hiện cung cấp dịch vụ công trực tuyến.\n2. Tổ chức, cá nhân khi thực hiện thủ\ntục hành chính qua Hệ thống dịch vụ công trực tuyến của Bộ Tài nguyên và Môi trường.\nĐiều 3. Giải thích từ ngữ Trong Thông tư này, các từ ngữ dưới đây được hiểu như sau:\n1. Hệ thống dịch vụ công trực tuyến Bộ\nTài nguyên và Môi trường (sau đây viết tắt là Hệ thống dịch vụ công trực tuyến) là hệ thống giao dịch điện tử trên môi trường mạng để thực hiện việc tiếp nhận, xử lý và trả kết quả thủ tục hành chính thuộc thẩm quyền giải quyết của Bộ Tài nguyên và Môi trường tại địa chỉ: dvctt.monre.gov.vn.\n2. Cơ quan thực hiện thủ tục hành\nchính dịch vụ công trực tuyến (sau đây gọi là Cơ quan thực hiện thủ tục hành chính) là các đơn vị trực thuộc Bộ Tài nguyên và Môi trường thực hiện tiếp nhận, xử lý và trả kết quả thủ tục hành chính theo quy định của Thông tư này và pháp luật chuyên ngành.\nĐiều 4. Nguyên tắc cung cấp dịch vụ công trực tuyến\n1. Tuân thủ quy định pháp luật về\ngiao dịch điện tử, pháp luật bảo vệ bí mật nhà nước; pháp luật chuyên ngành quy định thủ tục hành chính thực hiện qua Hệ thống dịch vụ công trực tuyến.\n2. Quy trình thực hiện thủ tục hành\nchính trên Hệ thống dịch vụ công trực tuyến tuân thủ theo quy trình đã quy định tại pháp luật chuyên ngành.\n3. Đảm bảo tính chính xác, khách\nquan, đầy đủ và kịp thời của các giao dịch điện tử thực hiện qua Hệ thống dịch vụ công trực tuyến.\nĐiều 5. Hệ thống dịch vụ công trực tuyến\n1. Hệ thống dịch vụ công trực tuyến\nbao gồm: Cổng dịch vụ công trực tuyến thực hiện tiếp nhận, xử lý và trả kết quả thủ tục hành chính; các cơ sở dữ liệu, hệ thống công nghệ thông tin và các hệ thống xử lý chuyên ngành có liên quan.\n2. Hệ thống dịch vụ công trực tuyến\nđược tích hợp trên Cổng thông tin điện tử của Bộ Tài nguyên và Môi trường.\n3. Hệ thống dịch vụ công trực tuyến\nhoạt động, cung cấp dịch vụ theo thời gian 24 giờ trong một ngày và 7 ngày trong một tuần.\n4. Hệ thống dịch vụ công trực tuyến thực hiện việc tiếp nhận và phản hồi thông tin khai theo\nchế độ tự động tới tổ chức, cá nhân và tới các hệ thống xử lý chuyên ngành.\nĐiều 6. Các giao dịch điện tử trên Hệ thống dịch vụ công trực tuyến\n1. Khai, nhận và phản hồi thông tin về\nviệc xử lý hồ sơ thủ tục hành chính của tổ chức, cá nhân.\n2. Tiếp nhận, trao đổi, chuyển thông\ntin, hồ sơ thủ tục hành chính tới hệ thống xử lý chuyên ngành.\n3. Nhận kết quả xử lý từ các cơ quan\nthực hiện thủ tục hành chính, hệ thống xử lý chuyên ngành tới Hệ thống dịch vụ công trực tuyến.\n4. Cung cấp tình trạng thực hiện, trả\nkết quả thủ tục hành chính cho tổ chức, cá nhân trên Hệ thống dịch vụ công trực tuyến.\n5. Giao dịch qua dịch vụ giá trị gia\ntăng (tin nhắn, mạng xã hội...) trên cơ sở thỏa thuận, tạo điều kiện thuận lợi cho tổ chức, cá nhân thực hiện dịch vụ công trực tuyến.\nĐiều 7. Hồ sơ hành chính trực tuyến\n1. Hồ sơ hành chính trực tuyến gồm\ncác chứng từ điện tử, tài liệu kèm theo đối với từng thủ tục hành chính theo quy định của pháp luật chuyên ngành dưới hình thức chứng từ điện tử chuyển đổi từ chứng từ giấy.\n2. Chứng từ điện tử là thông tin khai, kết quả xử lý, thông báo được tạo ra, gửi đi, nhận\nvà lưu trữ bằng phương tiện điện tử để thực hiện các thủ tục hành chính:\na) Thông tin khai dưới hình thức:\nđơn, đăng ký để thực hiện thủ tục hành chính;\nb) Thông báo trên Hệ thống dịch vụ\ncông trực tuyến: tiếp nhận (chấp nhận/từ chối/yêu cầu sửa đổi, bổ sung) thông tin khai báo;\nc) Kết quả của cơ quan thực hiện và\nquyết định của cấp có thẩm quyền: quyết định cấp phép, giấy phép, giấy chứng nhận, xác nhận hoặc kết quả xử lý khác đối với thủ tục hành chính.\n3. Chứng từ điện tử và giá trị pháp\nlý\na) Chứng từ điện tử phải ký bằng chữ\nký số do tổ chức cung cấp dịch vụ chứng thực chữ ký số hợp pháp cấp theo quy định của pháp luật về chữ ký số;\nb) Chứng từ điện tử có giá trị tương\nđương chứng từ giấy;\nc) Chứng từ điện tử phải được lập,\nđáp ứng yêu cầu quy định của pháp luật chuyên ngành;\nd) Chứng từ điện tử phải bảo đảm tin\ncậy về tính toàn vẹn của thông tin từ thời điểm thông tin được khởi tạo và phải bảo đảm truy cập, sử dụng được dưới dạng hoàn chỉnh;\nđ) Việc gửi, nhận, lưu trữ và giá trị\npháp lý của chứng từ điện tử được thực hiện theo quy định pháp luật về giao dịch điện tử và các quy định pháp luật có liên quan;\ne) Việc tạo lập, chuyển đổi hồ sơ\nhành chính trực tuyến từ hồ sơ hành chính giấy và ngược lại được thực hiện theo quy định pháp luật về giao dịch điện tử và pháp luật chuyên ngành.\n4. Kết quả thực hiện thủ tục hành\nchính là chứng từ giấy, chứng từ điện tử hoặc bao gồm cả chứng từ giấy và chứng từ điện tử. Việc trả kết quả bằng chứng từ điện tử được áp dụng phù hợp với khả năng và điều kiện thực tế của cơ quan thực hiện và tổ chức, cá nhân tham gia dịch vụ công trực tuyến.\nChương II\nCUNG CẤP, SỬ DỤNG DỊCH VỤ CÔNG TRỰC TUYẾN\nĐiều 8. Tạo lập, thay đổi thông tin tài khoản thực hiện dịch vụ công trực tuyến\n1. Tổ chức, cá nhân thực hiện tạo lập\ntài khoản sử dụng Hệ thống dịch vụ công trực tuyến theo quy định sau:\na) Tổ chức, cá nhân nhập đầy đủ thông\ntin theo yêu cầu trên Hệ thống dịch vụ công trực tuyến tại địa chỉ: dvctt.monre.gov.vn.\nb) Hệ thống dịch vụ công trực tuyến\nthông báo tài khoản truy nhập ban đầu qua hệ thống, thư điện tử hoặc tin nhắn trên điện thoại theo đăng ký của tổ chức, cá nhân.\nc) Tổ chức, cá nhân sử dụng tài khoản\nđược cấp để truy nhập Hệ thống dịch vụ công trực tuyến.\n2. Trường hợp tổ chức, cá nhân đã có\ntài khoản, thì sử dụng tài khoản đó để truy nhập Hệ thống dịch vụ công trực tuyến.\n3. Việc thay đổi thông tin tài khoản\nthực hiện dịch vụ công trực tuyến trong các trường hợp sau:\na) Có sự thay đổi các thông tin đăng\nký của tài khoản;\nb) Yêu cầu của Hệ thống dịch vụ công trực\ntuyến.\nĐiều 9. Khai thông tin hồ sơ hành chính trực tuyến\n1. Sau khi được cấp tài khoản, tổ chức,\ncá nhân truy nhập Hệ thống dịch vụ công trực tuyến, khai và gửi hồ sơ hành chính trực tuyến hoặc sửa đổi, bổ sung thông tin khai, hồ sơ hành chính trực tuyến.\n2. Đối với dịch vụ công trực tuyến mức\nđộ 4: tổ chức, cá nhân thực hiện việc thanh toán phí, lệ phí (nếu có) trên Hệ thống dịch vụ công trực tuyến và được cung cấp chứng từ đã nộp phí, lệ phí theo quy định pháp luật.\n3. Tổ chức, cá nhân sử dụng Hệ thống\ndịch vụ công trực tuyến có trách nhiệm xuất trình hồ sơ thủ tục hành chính (bản gốc hoặc bản chính hoặc bản sao có chứng thực) theo quy định của pháp luật chuyên ngành khi có yêu cầu kiểm tra, đối chiếu.\nĐiều 10. Sửa đổi, bổ sung thông tin hồ sơ hành chính trực tuyến\n1. Việc sửa đổi, bổ sung thông tin hồ\nsơ hành chính trực tuyến thực hiện khi có sự thay đổi của hồ sơ hoặc theo yêu cầu của cơ quan thực hiện thủ tục hành chính.\n2. Hình thức sửa đổi, bổ sung thông\ntin hồ sơ hành chính trực tuyến như sau:\na) Sửa đổi, bổ sung trực tiếp trên Hệ\nthống dịch vụ công trực tuyến;\nb) Tạo lập thông tin khai theo các\ntiêu chí, định dạng của các biểu mẫu của thủ tục hành chính đã quy định và gửi đến cơ quan thực hiện thủ tục hành chính.\nĐiều 11. Xử lý, thẩm định hồ sơ hành chính trực tuyến\n1. Sau khi nhận được hồ sơ hành chính\ntrực tuyến, cơ quan thực hiện thủ tục hành chính phản hồi tính đầy đủ và hợp lệ của hồ sơ cho tổ chức, cá nhân. Trường hợp hồ sơ chưa đầy đủ, hợp lệ, tổ chức, cá nhân có trách nhiệm bổ sung đầy đủ theo quy định của pháp luật chuyên ngành.\n2. Sau khi nhận hồ sơ hành chính trực\ntuyến đầy đủ và hợp lệ, cơ quan thực hiện thủ tục hành chính thực hiện xử lý, thẩm định hồ sơ theo quy định của pháp luật chuyên ngành và thông báo tình trạng, kết quả thực hiện thủ tục hành chính cho tổ chức, cá nhân.\n3. Thời gian xử lý, thẩm định hồ sơ\nhành chính trực tuyến thực hiện theo quy định của pháp luật chuyên ngành.\nĐiều 12. Trả kết quả dịch vụ công trực tuyến\n1. Cơ quan thực hiện dịch vụ công trực\ntuyến có trách nhiệm trả kết quả cho tổ chức, cá nhân theo phương thức sau:\na) Qua Hệ thống dịch vụ công trực tuyến;\nb) Qua dịch vụ bưu chính công ích;\nc) Tại cơ quan cung cấp dịch vụ công\ntheo quy định.\n2. Đối với dịch vụ công trực tuyến thực\nhiện theo Cơ chế hải quan một cửa quốc gia, việc trả kết quả thực hiện theo Cơ chế hải quan một cửa quốc gia.\nĐiều 13. Quyền và trách nhiệm của tổ chức, cá nhân được cung cấp dịch vụ công trực tuyến\n1. Tổ chức, cá nhân có các quyền sau:\na) Được hỗ trợ đào tạo, hướng dẫn,\ncung cấp các thông tin cần thiết khi thực hiện dịch vụ công trực tuyến;\nb) Được cung cấp tài khoản sử dụng, tạm\ndừng, hủy bỏ tài khoản qua Hệ thống dịch vụ công trực tuyến;\nc) Được bảo đảm an toàn thông tin, bảo\nvệ bí mật kinh doanh và thương mại theo quy định của pháp luật;\nd) Được cung cấp đầy đủ thông tin về\nquá trình, tình trạng xử lý Hồ sơ hành chính trực tuyến; hóa đơn điện tử (đối với dịch vụ công trực tuyến mức độ 4);\nđ) Được phản ánh, kiến nghị việc thực\nhiện dịch vụ công trực tuyến qua Hệ thống dịch vụ công trực tuyến.\n2. Tổ chức, cá nhân có trách nhiệm\nsau:\na) Cung cấp đầy đủ, chính xác và chịu trách nhiệm trước pháp luật về nội dung thông tin đã\nđăng ký, kê khai khi thực hiện các thủ tục hành chính trực tuyến;\nb) Cung cấp đầy\nđủ thông tin tạo tài khoản trên Hệ thống dịch vụ công trực tuyến;\nc) Tuân thủ quy định của pháp luật\nchuyên ngành, giao dịch điện tử, bí mật nhà nước và sử dụng chữ ký số;\nd) Không làm sai lệch, hư hỏng, thất thoát, chiếm đoạt, phá hủy, gian lận, mạo nhận\ntrái phép và khai thác, sử dụng, phát tán thông tin, dữ liệu thủ tục hành chính;\nđ) Lưu giữ hồ sơ hành chính trực tuyến\ntheo quy định của pháp luật giao dịch điện tử và pháp luật chuyên ngành; cung cấp các chứng từ điện tử/chứng từ giấy có liên quan để phục vụ công tác kiểm tra, thanh tra (nếu có);\ne) Không được cản trở hoạt động cung\ncấp và sử dụng các dịch vụ, giả mạo, sử dụng mật khẩu trái phép, chiếm quyền điều khiển; tạo, cài đặt, phát tán phần mềm độc hại, vi-rút máy tính; phá hoại cơ sở hạ tầng kỹ thuật Hệ thống dịch vụ công trực tuyến;\ng) Nộp thuế, phí, lệ phí, các khoản\nthu khác theo quy định của pháp luật.\nChương III\nXÂY DỰNG, QUẢN\nLÝ VÀ VẬN HÀNH HỆ THỐNG DỊCH VỤ CÔNG TRỰC TUYẾN\nĐiều 14. Thẩm quyền truy nhập, xử lý trên Hệ thống dịch vụ công trực tuyến\n1. Thẩm quyền truy nhập, xử lý trên Hệ\nthống dịch vụ công trực tuyến:\na) Tổ chức, cá nhân thực hiện thủ tục\nhành chính truy nhập Hệ thống dịch vụ công trực tuyến để khai thông tin, nhận phản hồi thông tin về việc xử lý hồ sơ, nhận kết quả xử lý đối với thủ tục hành chính;\nb) Người có thẩm quyền, cơ quan thực\nhiện thủ tục hành chính và các đơn vị liên quan tiếp nhận, xử lý, trao đổi, cung cấp thông tin, tình trạng xử lý, kiểm soát việc sử dụng, khai thác thông tin và trả kết quả thực hiện thủ tục hành chính;\nc) Đơn vị quản lý, vận hành Hệ thống\ndịch vụ công trực tuyến truy cập hệ thống để quản lý tài khoản người dùng và quản lý, vận hành Hệ thống dịch vụ công trực tuyến.\n2. Cán bộ, công chức của các đơn vị\ntrực thuộc Bộ Tài nguyên và Môi trường sử dụng tài khoản công vụ để giải quyết thủ tục hành chính dịch vụ công trực tuyến theo quy định.\nĐiều 15. Bảo đảm an toàn thông tin, dữ liệu\n1. Hệ thống dịch vụ công trực tuyến\nphải được áp dụng các biện pháp an toàn, bảo mật thông tin, dữ liệu để đảm bảo cung cấp thông tin, dữ liệu kịp thời và hiệu quả cho các cơ quan, tổ chức, cá nhân.\n2. Tổ chức, cá nhân tham gia Hệ thống\ndịch vụ công trực tuyến có trách nhiệm truy nhập đúng thẩm quyền quy định và tuân thủ các quy định về an toàn, thông tin, dữ liệu.\nĐiều 16. Bảo mật thông tin\n1. Đơn vị quản lý, vận hành Hệ thống\ndịch vụ công trực tuyến, người có thẩm quyền, Cơ quan thực hiện thủ tục hành chính có trách nhiệm bảo mật và lưu giữ thông tin của tổ chức, cá nhân trừ trường hợp phải cung cấp thông tin này cho các cơ quan có thẩm quyền theo quy định của pháp luật.\n2. Tổ chức, cá nhân có trách nhiệm bảo mật tài khoản và mật khẩu đăng nhập được cấp.\nĐiều 17. Xử lý sự cố Trường hợp Hệ thống dịch vụ công trực tuyến xảy ra sự cố không thực hiện được cung cấp trực tuyến:\n1. Đơn vị quản lý, vận hành Hệ thống\ndịch vụ công trực tuyến có trách nhiệm thông báo cho tổ chức, cá nhân và cơ quan có liên quan bằng hình thức phù hợp và trên Hệ thống dịch vụ công trực tuyến đồng thời khẩn trương phối hợp với các đơn vị liên quan xử lý sự cố đưa hệ thống vào hoạt động.\n2. Cơ quan thực hiện thủ tục hành\nchính có trách nhiệm thông báo cho tổ chức, cá nhân bằng văn bản, qua điện thoại hoặc thư điện tử theo thông tin đã đăng ký và hướng dẫn tổ chức, cá nhân hoàn thành các thủ tục đang thực hiện theo các phương thức khác theo quy định của pháp luật chuyên ngành.\n3. Trong thời gian khắc phục sự cố,\ncác thủ tục hành chính được thực hiện theo các phương thức khác theo quy định của pháp luật chuyên ngành.\nĐiều 18. Trách nhiệm của cơ quan thực hiện thủ tục hành chính\n1. Tiếp nhận, xử lý, thẩm định hồ sơ,\nphê duyệt hoặc từ chối phê duyệt, trả kết quả giải quyết thủ tục hành chính theo quy định tại Thông tư này và pháp luật chuyên ngành.\n2. Tiếp nhận thông tin, đề xuất, kiến\nnghị của tổ chức, cá nhân về việc cung cấp dịch vụ công trực tuyến, hướng dẫn tổ chức, cá nhân sử dụng các dịch vụ của Hệ thống dịch vụ công trực tuyến, phối hợp với các đơn vị liên quan bảo đảm thực hiện cung cấp dịch vụ công trực tuyến đúng quy định.\n3. Phối hợp với\nđơn vị quản lý, vận hành Hệ thống dịch vụ công trực tuyến quản lý tài khoản truy nhập của tổ chức, cá nhân; thu phí, lệ phí và các khoản thu khác của thủ tục hành chính theo quy định.\n5. Cung cấp cho đơn vị quản lý, vận\nhành Hệ thống dịch vụ công trực tuyến các yêu cầu kỹ thuật kết nối hệ thống thuộc phạm vi quản lý, tiêu chí thông tin, định dạng mẫu của hồ sơ hành chính trực tuyến theo quy định của pháp luật chuyên ngành.\n4. Thông báo cho đơn vị quản lý, vận\nhành Hệ thống dịch vụ công trực tuyến khi có sự cố kỹ thuật để có biện pháp khắc phục kịp thời.\n5. Lưu trữ, bảo quản hồ sơ hành chính\ntrực tuyến theo quy định của pháp luật.\nĐiều 19. Trách nhiệm của đơn vị quản lý, vận hành Hệ thống dịch vụ công trực tuyến Cục Công nghệ thông tin và Dữ liệu tài nguyên môi trường trực thuộc Bộ Tài nguyên và Môi trường là đơn vị quản lý, vận hành Hệ thống dịch vụ công trực tuyến có trách nhiệm:\n1. Quản lý, vận hành, bảo trì, nâng cấp\nhạ tầng kỹ thuật, phần mềm, hệ thống an ninh, an toàn cho Hệ thống dịch vụ công trực tuyến đáp ứng các yêu cầu của cơ quan thực hiện thủ tục hành chính, tổ chức, cá nhân liên quan.\n2. Làm đầu mối tiếp nhận, xử lý phản\nánh, kiến nghị của tổ chức, cá nhân về việc cung cấp dịch vụ công trực tuyến của Bộ Tài nguyên và Môi trường. Phối hợp với các đơn vị liên quan thực hiện các giải pháp bảo đảm việc cung cấp dịch vụ công, trực tuyến đúng quy định.\n3. Quản lý, xác thực tài khoản, kích\nhoạt các tài khoản quên hoặc mất mật khẩu truy nhập, tạm dừng tài khoản của tổ chức, cá nhân khi có hành vi gây nguy hại đến hệ thống.\n4. Thông báo đến các cơ quan thực hiện\nthủ tục hành chính và tổ chức, cá nhân thời gian khắc phục sự cố trong trường hợp Hệ thống dịch vụ công trực tuyến gặp sự cố.\n5. Tư vấn, hỗ trợ,\nhướng dẫn cơ quan thực hiện thủ tục hành chính và tổ chức, cá nhân sử dụng Hệ thống dịch vụ công trực tuyến.\n6. Tổ chức đánh giá chất lượng, sử dụng\ndịch vụ công trực tuyến của cơ quan nhà nước, tổ chức, cá nhân trên Hệ thống dịch vụ công trực tuyến.\n7. Chủ trì xây dựng, trình cấp có thẩm\nquyền ban hành quy chế hoạt động của Hệ thống dịch vụ công trực tuyến.\nĐiều 20. Xây dựng, cung cấp dịch vụ công trực tuyến\n1. Trong quá trình soạn thảo và công\nbố quyết định thủ tục hành chính cấp Trung ương, các đơn vị trực thuộc Bộ có trách nhiệm phối hợp với Cục Công nghệ thông tin và Dữ liệu tài nguyên môi trường xây dựng và cung cấp dịch vụ công trực tuyến mức độ 3, 4.\n2. Cục Công nghệ thông tin và Dữ liệu tài nguyên môi trường có trách nhiệm xây\ndựng hạ tầng thực hiện dịch vụ công trực tuyến bao gồm xác lập, hoàn thiện quy trình hành chính điện tử và nội dung đặc tả, giao diện, cấu trúc để triển khai thực hiện các thủ tục hành chính trực tuyến.\nĐiều 21. Nâng cấp dịch vụ công trực tuyến\n1. Trước ngày 30 tháng 11 hàng năm, Cục\nCông nghệ thông tin và Dữ liệu tài nguyên môi trường có trách nhiệm phối hợp với các đơn vị liên quan xây dựng và trình Bộ trưởng Bộ Tài nguyên và Môi trường ban hành Kế hoạch bổ sung, nâng cấp dịch vụ công trực tuyến (sau đây gọi tắt là Kế hoạch) thực hiện trong năm sau.\n2. Kế hoạch bao gồm các nội dung chủ\nyếu sau:\na) Tên văn bản quy phạm pháp luật có\nquy định thủ tục hành chính đề xuất nâng cấp dịch vụ công trực tuyến. Tên thủ tục hành chính được cung cấp dưới dạng dịch vụ công trực tuyến;\nb) Tên thủ tục hành chính đề xuất\nnâng cấp dịch vụ công trực tuyến từ mức độ 3 lên mức độ 4;\nc) Thời gian nâng cấp đối với mỗi dịch\nvụ công trực tuyến;\nd) Đơn vị chủ trì thực hiện dịch vụ\ncông trực tuyến;\nđ) Kinh phí thực hiện;\ne) Các nội dung cần thiết khác.\n3. Cục Công nghệ thông tin và Dữ liệu tài nguyên môi trường và các đơn vị liên\nquan có trách nhiệm tổ chức triển khai thực hiện Kế hoạch theo đúng nội dung và tiến độ phê duyệt.\nChương IV\nTỔ CHỨC THỰC HIỆN\nĐiều 22. Chế độ báo cáo\n1. Chế độ báo cáo theo định kỳ từng quý\nvà đột xuất theo yêu cầu của Lãnh đạo Bộ hoặc do công tác quản lý điều hành.\n2. Cơ quan thực hiện thủ tục hành\nchính dịch vụ công trực tuyến có trách nhiệm báo cáo tình hình cung cấp dịch vụ công trực tuyến theo nhiệm vụ được phân công gửi cơ quan theo quy định tại Khoản 3 Điều này để tổng hợp báo cáo Bộ.\n3. Văn phòng Bộ có trách nhiệm theo\ndõi, đôn đốc, tổng hợp báo cáo Bộ kết quả giải quyết thủ tục hành chính qua dịch vụ công trực tuyến theo quy định.\n4. Cục Công nghệ thông tin và Dữ liệu tài nguyên môi trường có trách nhiệm báo\ncáo Bộ về tình hình quản lý, vận hành Hệ thống dịch vụ công trực tuyến, kế hoạch triển khai bổ sung và nâng cấp dịch vụ công trực tuyến quy định tại Thông tư này.\nĐiều 23. Kinh phí bảo đảm hoạt động dịch vụ công trực tuyến\n1. Cục Công nghệ thông tin và Dữ liệu tài nguyên môi trường là đầu mối, phối hợp\nvới các đơn vị liên quan lập dự toán kinh phí xây dựng, duy trì, vận hành và nâng cấp dịch vụ công trực tuyến gửi Vụ Kế hoạch -Tài chính tổng hợp.\n2. Vụ Kế hoạch - Tài chính có trách\nnhiệm lập phương án phân bổ kinh phí cho công tác xây dựng, duy trì, vận hành, nâng cấp dịch vụ công trực tuyến từ nguồn ngân sách Nhà nước hàng năm trình Lãnh đạo Bộ quyết định.\nĐiều 24. Trách nhiệm thi hành\n1. Thủ trưởng đơn vị thuộc Bộ Tài\nnguyên và Môi trường và các cơ quan nhà nước, tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này.\n2. Cục Công nghệ thông tin và Dữ liệu tài nguyên môi trường chủ trì, phối hợp với Vụ Pháp chế, Văn phòng Bộ và các\nđơn vị thuộc Bộ Tài nguyên và Môi trường cung cấp dịch vụ công trực tuyến có trách nhiệm hướng dẫn, theo dõi, đôn đốc, kiểm tra việc thực hiện Thông tư này.\nĐiều 25. Hiệu lực thi hành Thông tư này có hiệu lực thi hành từ ngày 12 tháng 7 năm 2017. Trong quá trình thực hiện, nếu có khó khăn, vướng mắc, đề nghị các cơ quan, tổ chức, cá nhân phản ánh về Bộ Tài nguyên và Môi trường để sửa đổi, bổ sung cho phù hợp./.\nNơi nhận:\n- Thủ tướng Chính phủ;\n- Các Phó Thủ tướng Chính phủ;\n- Văn phòng Quốc hội;\n- Văn phòng Chính phủ;\n- Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ;\n- Các Thứ trưởng Bộ TN&MT;\n- Kiểm toán Nhà nước;\n- UBND các tỉnh, thành phố trực thuộc Trung ương;\n- Cục Kiểm tra văn bản QPPL (Bộ Tư pháp);\n- Các đơn vị trực thuộc Bộ TN&MT;\n- Sở TN&MT các tỉnh, TP trực thuộc Trung ương;\n- Công báo, Cổng thông tin điện tử Chính phủ;\n- Lưu: VT, PC, CNTT.\nBỘ TRƯỞNG\nTrần Hồng Hà",
+  "tree": {
+    "parts": [
+      {
+        "part_id": "doc:170162:part:1",
+        "part_type": "main",
+        "part_title": null,
+        "reference": null,
+        "direct_text": "THÔNG TƯ\nQUY ĐỊNH VỀ CUNG CẤP DỊCH VỤ CÔNG TRỰC TUYẾN THUỘC THẨM QUYỀN GIẢI QUYẾT\nCỦA BỘ TÀI NGUYÊN VÀ MÔI TRƯỜNG\nCăn cứ Nghị định số 43/2011/NĐ-CP ngày 13 tháng 6 năm 2011 của Chính phủ quy định về việc cung cấp thông tin và dịch vụ công trực tuyến trên trang thông tin điện tử hoặc cổng thông tin điện tử của cơ quan nhà nước; Căn cứ Nghị định số 36/2017/NĐ-CP ngày 04 tháng 4 năm 2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài nguyên và Môi trường; Căn cứ Nghị định số 63/2010/NĐ-CP ngày 08 tháng 6 năm 2010 của Chính phủ về kiểm soát thủ tục hành chính; Nghị định số 48/2013/NĐ-CP ngày 14 tháng 5 năm 2013 của Chính phủ sửa đổi, bổ sung một số điều của các Nghị định liên quan đến kiểm soát thủ tục hành chính; Căn cứ Nghị định số 64/2007/NĐ-CP ngày 10 tháng 4 năm 2007 của Chính phủ về ứng dụng công nghệ thông tin trong hoạt động của cơ quan nhà nước; Theo đề nghị của Cục trưởng Cục Công nghệ thông tin và Dữ liệu tài nguyên môi trường và Vụ trưởng Vụ Pháp chế; Bộ trưởng Bộ Tài nguyên và Môi trường ban hành Thông tư quy định về cung cấp dịch vụ công trực tuyến thuộc thẩm quyền giải quyết của Bộ Tài nguyên và Môi trường.",
+        "chapters": [
+          {
+            "chapter_id": "doc:170162:part:1:chapter:1",
+            "number": "I",
+            "title": "QUY ĐỊNH CHUNG",
+            "content": "Chương I\nQUY ĐỊNH CHUNG",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:170162:part:1:article:1",
+                "number": "1",
+                "title": "Phạm vi điều chỉnh Thông tư này quy định về việc cung cấp dịch vụ công trực tuyến mức độ 3, 4 thuộc thẩm quyền giải quyết của Bộ Tài nguyên và Môi trường, bao gồm việc tạo lập tài khoản; quy trình khai; tiếp nhận, xử lý thông tin khai và trả kết quả thủ tục hành chính bằng phương thức điện tử; xây dựng, quản lý và vận hành Hệ thống dịch vụ công trực tuyến.",
+                "content": "Điều 1. Phạm vi điều chỉnh Thông tư này quy định về việc cung cấp dịch vụ công trực tuyến mức độ 3, 4 thuộc thẩm quyền giải quyết của Bộ Tài nguyên và Môi trường, bao gồm việc tạo lập tài khoản; quy trình khai; tiếp nhận, xử lý thông tin khai và trả kết quả thủ tục hành chính bằng phương thức điện tử; xây dựng, quản lý và vận hành Hệ thống dịch vụ công trực tuyến.",
+                "clauses": [],
+                "points": []
+              },
+              {
+                "article_id": "doc:170162:part:1:article:2",
+                "number": "2",
+                "title": "Đối tượng áp dụng",
+                "content": "Điều 2. Đối tượng áp dụng",
+                "clauses": [
+                  {
+                    "clause_id": "doc:170162:part:1:article:2:clause:1",
+                    "number": "1",
+                    "content": "1. Các đơn vị thuộc Bộ Tài nguyên và\nMôi trường; các cơ quan, tổ chức, cá nhân có liên quan tham gia thực hiện cung cấp dịch vụ công trực tuyến.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:170162:part:1:article:2:clause:2",
+                    "number": "2",
+                    "content": "2. Tổ chức, cá nhân khi thực hiện thủ\ntục hành chính qua Hệ thống dịch vụ công trực tuyến của Bộ Tài nguyên và Môi trường.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:170162:part:1:article:3",
+                "number": "3",
+                "title": "Giải thích từ ngữ Trong Thông tư này, các từ ngữ dưới đây được hiểu như sau:",
+                "content": "Điều 3. Giải thích từ ngữ Trong Thông tư này, các từ ngữ dưới đây được hiểu như sau:",
+                "clauses": [
+                  {
+                    "clause_id": "doc:170162:part:1:article:3:clause:1",
+                    "number": "1",
+                    "content": "1. Hệ thống dịch vụ công trực tuyến Bộ\nTài nguyên và Môi trường (sau đây viết tắt là Hệ thống dịch vụ công trực tuyến) là hệ thống giao dịch điện tử trên môi trường mạng để thực hiện việc tiếp nhận, xử lý và trả kết quả thủ tục hành chính thuộc thẩm quyền giải quyết của Bộ Tài nguyên và Môi trường tại địa chỉ: dvctt.monre.gov.vn.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:170162:part:1:article:3:clause:2",
+                    "number": "2",
+                    "content": "2. Cơ quan thực hiện thủ tục hành\nchính dịch vụ công trực tuyến (sau đây gọi là Cơ quan thực hiện thủ tục hành chính) là các đơn vị trực thuộc Bộ Tài nguyên và Môi trường thực hiện tiếp nhận, xử lý và trả kết quả thủ tục hành chính theo quy định của Thông tư này và pháp luật chuyên ngành.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:170162:part:1:article:4",
+                "number": "4",
+                "title": "Nguyên tắc cung cấp dịch vụ công trực tuyến",
+                "content": "Điều 4. Nguyên tắc cung cấp dịch vụ công trực tuyến",
+                "clauses": [
+                  {
+                    "clause_id": "doc:170162:part:1:article:4:clause:1",
+                    "number": "1",
+                    "content": "1. Tuân thủ quy định pháp luật về\ngiao dịch điện tử, pháp luật bảo vệ bí mật nhà nước; pháp luật chuyên ngành quy định thủ tục hành chính thực hiện qua Hệ thống dịch vụ công trực tuyến.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:170162:part:1:article:4:clause:2",
+                    "number": "2",
+                    "content": "2. Quy trình thực hiện thủ tục hành\nchính trên Hệ thống dịch vụ công trực tuyến tuân thủ theo quy trình đã quy định tại pháp luật chuyên ngành.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:170162:part:1:article:4:clause:3",
+                    "number": "3",
+                    "content": "3. Đảm bảo tính chính xác, khách\nquan, đầy đủ và kịp thời của các giao dịch điện tử thực hiện qua Hệ thống dịch vụ công trực tuyến.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:170162:part:1:article:5",
+                "number": "5",
+                "title": "Hệ thống dịch vụ công trực tuyến",
+                "content": "Điều 5. Hệ thống dịch vụ công trực tuyến",
+                "clauses": [
+                  {
+                    "clause_id": "doc:170162:part:1:article:5:clause:1",
+                    "number": "1",
+                    "content": "1. Hệ thống dịch vụ công trực tuyến\nbao gồm: Cổng dịch vụ công trực tuyến thực hiện tiếp nhận, xử lý và trả kết quả thủ tục hành chính; các cơ sở dữ liệu, hệ thống công nghệ thông tin và các hệ thống xử lý chuyên ngành có liên quan.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:170162:part:1:article:5:clause:2",
+                    "number": "2",
+                    "content": "2. Hệ thống dịch vụ công trực tuyến\nđược tích hợp trên Cổng thông tin điện tử của Bộ Tài nguyên và Môi trường.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:170162:part:1:article:5:clause:3",
+                    "number": "3",
+                    "content": "3. Hệ thống dịch vụ công trực tuyến\nhoạt động, cung cấp dịch vụ theo thời gian 24 giờ trong một ngày và 7 ngày trong một tuần.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:170162:part:1:article:5:clause:4",
+                    "number": "4",
+                    "content": "4. Hệ thống dịch vụ công trực tuyến thực hiện việc tiếp nhận và phản hồi thông tin khai theo\nchế độ tự động tới tổ chức, cá nhân và tới các hệ thống xử lý chuyên ngành.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:170162:part:1:article:6",
+                "number": "6",
+                "title": "Các giao dịch điện tử trên Hệ thống dịch vụ công trực tuyến",
+                "content": "Điều 6. Các giao dịch điện tử trên Hệ thống dịch vụ công trực tuyến",
+                "clauses": [
+                  {
+                    "clause_id": "doc:170162:part:1:article:6:clause:1",
+                    "number": "1",
+                    "content": "1. Khai, nhận và phản hồi thông tin về\nviệc xử lý hồ sơ thủ tục hành chính của tổ chức, cá nhân.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:170162:part:1:article:6:clause:2",
+                    "number": "2",
+                    "content": "2. Tiếp nhận, trao đổi, chuyển thông\ntin, hồ sơ thủ tục hành chính tới hệ thống xử lý chuyên ngành.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:170162:part:1:article:6:clause:3",
+                    "number": "3",
+                    "content": "3. Nhận kết quả xử lý từ các cơ quan\nthực hiện thủ tục hành chính, hệ thống xử lý chuyên ngành tới Hệ thống dịch vụ công trực tuyến.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:170162:part:1:article:6:clause:4",
+                    "number": "4",
+                    "content": "4. Cung cấp tình trạng thực hiện, trả\nkết quả thủ tục hành chính cho tổ chức, cá nhân trên Hệ thống dịch vụ công trực tuyến.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:170162:part:1:article:6:clause:5",
+                    "number": "5",
+                    "content": "5. Giao dịch qua dịch vụ giá trị gia\ntăng (tin nhắn, mạng xã hội...) trên cơ sở thỏa thuận, tạo điều kiện thuận lợi cho tổ chức, cá nhân thực hiện dịch vụ công trực tuyến.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:170162:part:1:article:7",
+                "number": "7",
+                "title": "Hồ sơ hành chính trực tuyến",
+                "content": "Điều 7. Hồ sơ hành chính trực tuyến",
+                "clauses": [
+                  {
+                    "clause_id": "doc:170162:part:1:article:7:clause:1",
+                    "number": "1",
+                    "content": "1. Hồ sơ hành chính trực tuyến gồm\ncác chứng từ điện tử, tài liệu kèm theo đối với từng thủ tục hành chính theo quy định của pháp luật chuyên ngành dưới hình thức chứng từ điện tử chuyển đổi từ chứng từ giấy.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:170162:part:1:article:7:clause:2",
+                    "number": "2",
+                    "content": "2. Chứng từ điện tử là thông tin khai, kết quả xử lý, thông báo được tạo ra, gửi đi, nhận\nvà lưu trữ bằng phương tiện điện tử để thực hiện các thủ tục hành chính:",
+                    "points": [
+                      {
+                        "point_id": "doc:170162:part:1:article:7:clause:2:point:1",
+                        "label": "a",
+                        "content": "a) Thông tin khai dưới hình thức:\nđơn, đăng ký để thực hiện thủ tục hành chính;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:170162:part:1:article:7:clause:2:point:2",
+                        "label": "b",
+                        "content": "b) Thông báo trên Hệ thống dịch vụ\ncông trực tuyến: tiếp nhận (chấp nhận/từ chối/yêu cầu sửa đổi, bổ sung) thông tin khai báo;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:170162:part:1:article:7:clause:2:point:3",
+                        "label": "c",
+                        "content": "c) Kết quả của cơ quan thực hiện và\nquyết định của cấp có thẩm quyền: quyết định cấp phép, giấy phép, giấy chứng nhận, xác nhận hoặc kết quả xử lý khác đối với thủ tục hành chính.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:170162:part:1:article:7:clause:3",
+                    "number": "3",
+                    "content": "3. Chứng từ điện tử và giá trị pháp\nlý",
+                    "points": [
+                      {
+                        "point_id": "doc:170162:part:1:article:7:clause:3:point:1",
+                        "label": "a",
+                        "content": "a) Chứng từ điện tử phải ký bằng chữ\nký số do tổ chức cung cấp dịch vụ chứng thực chữ ký số hợp pháp cấp theo quy định của pháp luật về chữ ký số;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:170162:part:1:article:7:clause:3:point:2",
+                        "label": "b",
+                        "content": "b) Chứng từ điện tử có giá trị tương\nđương chứng từ giấy;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:170162:part:1:article:7:clause:3:point:3",
+                        "label": "c",
+                        "content": "c) Chứng từ điện tử phải được lập,\nđáp ứng yêu cầu quy định của pháp luật chuyên ngành;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:170162:part:1:article:7:clause:3:point:4",
+                        "label": "d",
+                        "content": "d) Chứng từ điện tử phải bảo đảm tin\ncậy về tính toàn vẹn của thông tin từ thời điểm thông tin được khởi tạo và phải bảo đảm truy cập, sử dụng được dưới dạng hoàn chỉnh;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:170162:part:1:article:7:clause:3:point:5",
+                        "label": "đ",
+                        "content": "đ) Việc gửi, nhận, lưu trữ và giá trị\npháp lý của chứng từ điện tử được thực hiện theo quy định pháp luật về giao dịch điện tử và các quy định pháp luật có liên quan;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:170162:part:1:article:7:clause:3:point:6",
+                        "label": "e",
+                        "content": "e) Việc tạo lập, chuyển đổi hồ sơ\nhành chính trực tuyến từ hồ sơ hành chính giấy và ngược lại được thực hiện theo quy định pháp luật về giao dịch điện tử và pháp luật chuyên ngành.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:170162:part:1:article:7:clause:4",
+                    "number": "4",
+                    "content": "4. Kết quả thực hiện thủ tục hành\nchính là chứng từ giấy, chứng từ điện tử hoặc bao gồm cả chứng từ giấy và chứng từ điện tử. Việc trả kết quả bằng chứng từ điện tử được áp dụng phù hợp với khả năng và điều kiện thực tế của cơ quan thực hiện và tổ chức, cá nhân tham gia dịch vụ công trực tuyến.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:170162:part:1:chapter:2",
+            "number": "II",
+            "title": "CUNG CẤP, SỬ DỤNG DỊCH VỤ CÔNG TRỰC TUYẾN",
+            "content": "Chương II\nCUNG CẤP, SỬ DỤNG DỊCH VỤ CÔNG TRỰC TUYẾN",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:170162:part:1:article:8",
+                "number": "8",
+                "title": "Tạo lập, thay đổi thông tin tài khoản thực hiện dịch vụ công trực tuyến",
+                "content": "Điều 8. Tạo lập, thay đổi thông tin tài khoản thực hiện dịch vụ công trực tuyến",
+                "clauses": [
+                  {
+                    "clause_id": "doc:170162:part:1:article:8:clause:1",
+                    "number": "1",
+                    "content": "1. Tổ chức, cá nhân thực hiện tạo lập\ntài khoản sử dụng Hệ thống dịch vụ công trực tuyến theo quy định sau:",
+                    "points": [
+                      {
+                        "point_id": "doc:170162:part:1:article:8:clause:1:point:1",
+                        "label": "a",
+                        "content": "a) Tổ chức, cá nhân nhập đầy đủ thông\ntin theo yêu cầu trên Hệ thống dịch vụ công trực tuyến tại địa chỉ: dvctt.monre.gov.vn.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:170162:part:1:article:8:clause:1:point:2",
+                        "label": "b",
+                        "content": "b) Hệ thống dịch vụ công trực tuyến\nthông báo tài khoản truy nhập ban đầu qua hệ thống, thư điện tử hoặc tin nhắn trên điện thoại theo đăng ký của tổ chức, cá nhân.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:170162:part:1:article:8:clause:1:point:3",
+                        "label": "c",
+                        "content": "c) Tổ chức, cá nhân sử dụng tài khoản\nđược cấp để truy nhập Hệ thống dịch vụ công trực tuyến.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:170162:part:1:article:8:clause:2",
+                    "number": "2",
+                    "content": "2. Trường hợp tổ chức, cá nhân đã có\ntài khoản, thì sử dụng tài khoản đó để truy nhập Hệ thống dịch vụ công trực tuyến.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:170162:part:1:article:8:clause:3",
+                    "number": "3",
+                    "content": "3. Việc thay đổi thông tin tài khoản\nthực hiện dịch vụ công trực tuyến trong các trường hợp sau:",
+                    "points": [
+                      {
+                        "point_id": "doc:170162:part:1:article:8:clause:3:point:1",
+                        "label": "a",
+                        "content": "a) Có sự thay đổi các thông tin đăng\nký của tài khoản;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:170162:part:1:article:8:clause:3:point:2",
+                        "label": "b",
+                        "content": "b) Yêu cầu của Hệ thống dịch vụ công trực\ntuyến.",
+                        "children": []
+                      }
+                    ]
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:170162:part:1:article:9",
+                "number": "9",
+                "title": "Khai thông tin hồ sơ hành chính trực tuyến",
+                "content": "Điều 9. Khai thông tin hồ sơ hành chính trực tuyến",
+                "clauses": [
+                  {
+                    "clause_id": "doc:170162:part:1:article:9:clause:1",
+                    "number": "1",
+                    "content": "1. Sau khi được cấp tài khoản, tổ chức,\ncá nhân truy nhập Hệ thống dịch vụ công trực tuyến, khai và gửi hồ sơ hành chính trực tuyến hoặc sửa đổi, bổ sung thông tin khai, hồ sơ hành chính trực tuyến.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:170162:part:1:article:9:clause:2",
+                    "number": "2",
+                    "content": "2. Đối với dịch vụ công trực tuyến mức\nđộ 4: tổ chức, cá nhân thực hiện việc thanh toán phí, lệ phí (nếu có) trên Hệ thống dịch vụ công trực tuyến và được cung cấp chứng từ đã nộp phí, lệ phí theo quy định pháp luật.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:170162:part:1:article:9:clause:3",
+                    "number": "3",
+                    "content": "3. Tổ chức, cá nhân sử dụng Hệ thống\ndịch vụ công trực tuyến có trách nhiệm xuất trình hồ sơ thủ tục hành chính (bản gốc hoặc bản chính hoặc bản sao có chứng thực) theo quy định của pháp luật chuyên ngành khi có yêu cầu kiểm tra, đối chiếu.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:170162:part:1:article:10",
+                "number": "10",
+                "title": "Sửa đổi, bổ sung thông tin hồ sơ hành chính trực tuyến",
+                "content": "Điều 10. Sửa đổi, bổ sung thông tin hồ sơ hành chính trực tuyến",
+                "clauses": [
+                  {
+                    "clause_id": "doc:170162:part:1:article:10:clause:1",
+                    "number": "1",
+                    "content": "1. Việc sửa đổi, bổ sung thông tin hồ\nsơ hành chính trực tuyến thực hiện khi có sự thay đổi của hồ sơ hoặc theo yêu cầu của cơ quan thực hiện thủ tục hành chính.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:170162:part:1:article:10:clause:2",
+                    "number": "2",
+                    "content": "2. Hình thức sửa đổi, bổ sung thông\ntin hồ sơ hành chính trực tuyến như sau:",
+                    "points": [
+                      {
+                        "point_id": "doc:170162:part:1:article:10:clause:2:point:1",
+                        "label": "a",
+                        "content": "a) Sửa đổi, bổ sung trực tiếp trên Hệ\nthống dịch vụ công trực tuyến;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:170162:part:1:article:10:clause:2:point:2",
+                        "label": "b",
+                        "content": "b) Tạo lập thông tin khai theo các\ntiêu chí, định dạng của các biểu mẫu của thủ tục hành chính đã quy định và gửi đến cơ quan thực hiện thủ tục hành chính.",
+                        "children": []
+                      }
+                    ]
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:170162:part:1:article:11",
+                "number": "11",
+                "title": "Xử lý, thẩm định hồ sơ hành chính trực tuyến",
+                "content": "Điều 11. Xử lý, thẩm định hồ sơ hành chính trực tuyến",
+                "clauses": [
+                  {
+                    "clause_id": "doc:170162:part:1:article:11:clause:1",
+                    "number": "1",
+                    "content": "1. Sau khi nhận được hồ sơ hành chính\ntrực tuyến, cơ quan thực hiện thủ tục hành chính phản hồi tính đầy đủ và hợp lệ của hồ sơ cho tổ chức, cá nhân. Trường hợp hồ sơ chưa đầy đủ, hợp lệ, tổ chức, cá nhân có trách nhiệm bổ sung đầy đủ theo quy định của pháp luật chuyên ngành.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:170162:part:1:article:11:clause:2",
+                    "number": "2",
+                    "content": "2. Sau khi nhận hồ sơ hành chính trực\ntuyến đầy đủ và hợp lệ, cơ quan thực hiện thủ tục hành chính thực hiện xử lý, thẩm định hồ sơ theo quy định của pháp luật chuyên ngành và thông báo tình trạng, kết quả thực hiện thủ tục hành chính cho tổ chức, cá nhân.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:170162:part:1:article:11:clause:3",
+                    "number": "3",
+                    "content": "3. Thời gian xử lý, thẩm định hồ sơ\nhành chính trực tuyến thực hiện theo quy định của pháp luật chuyên ngành.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:170162:part:1:article:12",
+                "number": "12",
+                "title": "Trả kết quả dịch vụ công trực tuyến",
+                "content": "Điều 12. Trả kết quả dịch vụ công trực tuyến",
+                "clauses": [
+                  {
+                    "clause_id": "doc:170162:part:1:article:12:clause:1",
+                    "number": "1",
+                    "content": "1. Cơ quan thực hiện dịch vụ công trực\ntuyến có trách nhiệm trả kết quả cho tổ chức, cá nhân theo phương thức sau:",
+                    "points": [
+                      {
+                        "point_id": "doc:170162:part:1:article:12:clause:1:point:1",
+                        "label": "a",
+                        "content": "a) Qua Hệ thống dịch vụ công trực tuyến;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:170162:part:1:article:12:clause:1:point:2",
+                        "label": "b",
+                        "content": "b) Qua dịch vụ bưu chính công ích;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:170162:part:1:article:12:clause:1:point:3",
+                        "label": "c",
+                        "content": "c) Tại cơ quan cung cấp dịch vụ công\ntheo quy định.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:170162:part:1:article:12:clause:2",
+                    "number": "2",
+                    "content": "2. Đối với dịch vụ công trực tuyến thực\nhiện theo Cơ chế hải quan một cửa quốc gia, việc trả kết quả thực hiện theo Cơ chế hải quan một cửa quốc gia.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:170162:part:1:article:13",
+                "number": "13",
+                "title": "Quyền và trách nhiệm của tổ chức, cá nhân được cung cấp dịch vụ công trực tuyến",
+                "content": "Điều 13. Quyền và trách nhiệm của tổ chức, cá nhân được cung cấp dịch vụ công trực tuyến",
+                "clauses": [
+                  {
+                    "clause_id": "doc:170162:part:1:article:13:clause:1",
+                    "number": "1",
+                    "content": "1. Tổ chức, cá nhân có các quyền sau:",
+                    "points": [
+                      {
+                        "point_id": "doc:170162:part:1:article:13:clause:1:point:1",
+                        "label": "a",
+                        "content": "a) Được hỗ trợ đào tạo, hướng dẫn,\ncung cấp các thông tin cần thiết khi thực hiện dịch vụ công trực tuyến;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:170162:part:1:article:13:clause:1:point:2",
+                        "label": "b",
+                        "content": "b) Được cung cấp tài khoản sử dụng, tạm\ndừng, hủy bỏ tài khoản qua Hệ thống dịch vụ công trực tuyến;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:170162:part:1:article:13:clause:1:point:3",
+                        "label": "c",
+                        "content": "c) Được bảo đảm an toàn thông tin, bảo\nvệ bí mật kinh doanh và thương mại theo quy định của pháp luật;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:170162:part:1:article:13:clause:1:point:4",
+                        "label": "d",
+                        "content": "d) Được cung cấp đầy đủ thông tin về\nquá trình, tình trạng xử lý Hồ sơ hành chính trực tuyến; hóa đơn điện tử (đối với dịch vụ công trực tuyến mức độ 4);",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:170162:part:1:article:13:clause:1:point:5",
+                        "label": "đ",
+                        "content": "đ) Được phản ánh, kiến nghị việc thực\nhiện dịch vụ công trực tuyến qua Hệ thống dịch vụ công trực tuyến.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:170162:part:1:article:13:clause:2",
+                    "number": "2",
+                    "content": "2. Tổ chức, cá nhân có trách nhiệm\nsau:",
+                    "points": [
+                      {
+                        "point_id": "doc:170162:part:1:article:13:clause:2:point:1",
+                        "label": "a",
+                        "content": "a) Cung cấp đầy đủ, chính xác và chịu trách nhiệm trước pháp luật về nội dung thông tin đã\nđăng ký, kê khai khi thực hiện các thủ tục hành chính trực tuyến;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:170162:part:1:article:13:clause:2:point:2",
+                        "label": "b",
+                        "content": "b) Cung cấp đầy\nđủ thông tin tạo tài khoản trên Hệ thống dịch vụ công trực tuyến;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:170162:part:1:article:13:clause:2:point:3",
+                        "label": "c",
+                        "content": "c) Tuân thủ quy định của pháp luật\nchuyên ngành, giao dịch điện tử, bí mật nhà nước và sử dụng chữ ký số;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:170162:part:1:article:13:clause:2:point:4",
+                        "label": "d",
+                        "content": "d) Không làm sai lệch, hư hỏng, thất thoát, chiếm đoạt, phá hủy, gian lận, mạo nhận\ntrái phép và khai thác, sử dụng, phát tán thông tin, dữ liệu thủ tục hành chính;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:170162:part:1:article:13:clause:2:point:5",
+                        "label": "đ",
+                        "content": "đ) Lưu giữ hồ sơ hành chính trực tuyến\ntheo quy định của pháp luật giao dịch điện tử và pháp luật chuyên ngành; cung cấp các chứng từ điện tử/chứng từ giấy có liên quan để phục vụ công tác kiểm tra, thanh tra (nếu có);",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:170162:part:1:article:13:clause:2:point:6",
+                        "label": "e",
+                        "content": "e) Không được cản trở hoạt động cung\ncấp và sử dụng các dịch vụ, giả mạo, sử dụng mật khẩu trái phép, chiếm quyền điều khiển; tạo, cài đặt, phát tán phần mềm độc hại, vi-rút máy tính; phá hoại cơ sở hạ tầng kỹ thuật Hệ thống dịch vụ công trực tuyến;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:170162:part:1:article:13:clause:2:point:7",
+                        "label": "g",
+                        "content": "g) Nộp thuế, phí, lệ phí, các khoản\nthu khác theo quy định của pháp luật.",
+                        "children": []
+                      }
+                    ]
+                  }
+                ],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:170162:part:1:chapter:3",
+            "number": "III",
+            "title": "XÂY DỰNG, QUẢN LÝ VÀ VẬN HÀNH HỆ THỐNG DỊCH VỤ CÔNG TRỰC TUYẾN",
+            "content": "Chương III\nXÂY DỰNG, QUẢN\nLÝ VÀ VẬN HÀNH HỆ THỐNG DỊCH VỤ CÔNG TRỰC TUYẾN",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:170162:part:1:article:14",
+                "number": "14",
+                "title": "Thẩm quyền truy nhập, xử lý trên Hệ thống dịch vụ công trực tuyến",
+                "content": "Điều 14. Thẩm quyền truy nhập, xử lý trên Hệ thống dịch vụ công trực tuyến",
+                "clauses": [
+                  {
+                    "clause_id": "doc:170162:part:1:article:14:clause:1",
+                    "number": "1",
+                    "content": "1. Thẩm quyền truy nhập, xử lý trên Hệ\nthống dịch vụ công trực tuyến:",
+                    "points": [
+                      {
+                        "point_id": "doc:170162:part:1:article:14:clause:1:point:1",
+                        "label": "a",
+                        "content": "a) Tổ chức, cá nhân thực hiện thủ tục\nhành chính truy nhập Hệ thống dịch vụ công trực tuyến để khai thông tin, nhận phản hồi thông tin về việc xử lý hồ sơ, nhận kết quả xử lý đối với thủ tục hành chính;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:170162:part:1:article:14:clause:1:point:2",
+                        "label": "b",
+                        "content": "b) Người có thẩm quyền, cơ quan thực\nhiện thủ tục hành chính và các đơn vị liên quan tiếp nhận, xử lý, trao đổi, cung cấp thông tin, tình trạng xử lý, kiểm soát việc sử dụng, khai thác thông tin và trả kết quả thực hiện thủ tục hành chính;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:170162:part:1:article:14:clause:1:point:3",
+                        "label": "c",
+                        "content": "c) Đơn vị quản lý, vận hành Hệ thống\ndịch vụ công trực tuyến truy cập hệ thống để quản lý tài khoản người dùng và quản lý, vận hành Hệ thống dịch vụ công trực tuyến.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:170162:part:1:article:14:clause:2",
+                    "number": "2",
+                    "content": "2. Cán bộ, công chức của các đơn vị\ntrực thuộc Bộ Tài nguyên và Môi trường sử dụng tài khoản công vụ để giải quyết thủ tục hành chính dịch vụ công trực tuyến theo quy định.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:170162:part:1:article:15",
+                "number": "15",
+                "title": "Bảo đảm an toàn thông tin, dữ liệu",
+                "content": "Điều 15. Bảo đảm an toàn thông tin, dữ liệu",
+                "clauses": [
+                  {
+                    "clause_id": "doc:170162:part:1:article:15:clause:1",
+                    "number": "1",
+                    "content": "1. Hệ thống dịch vụ công trực tuyến\nphải được áp dụng các biện pháp an toàn, bảo mật thông tin, dữ liệu để đảm bảo cung cấp thông tin, dữ liệu kịp thời và hiệu quả cho các cơ quan, tổ chức, cá nhân.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:170162:part:1:article:15:clause:2",
+                    "number": "2",
+                    "content": "2. Tổ chức, cá nhân tham gia Hệ thống\ndịch vụ công trực tuyến có trách nhiệm truy nhập đúng thẩm quyền quy định và tuân thủ các quy định về an toàn, thông tin, dữ liệu.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:170162:part:1:article:16",
+                "number": "16",
+                "title": "Bảo mật thông tin",
+                "content": "Điều 16. Bảo mật thông tin",
+                "clauses": [
+                  {
+                    "clause_id": "doc:170162:part:1:article:16:clause:1",
+                    "number": "1",
+                    "content": "1. Đơn vị quản lý, vận hành Hệ thống\ndịch vụ công trực tuyến, người có thẩm quyền, Cơ quan thực hiện thủ tục hành chính có trách nhiệm bảo mật và lưu giữ thông tin của tổ chức, cá nhân trừ trường hợp phải cung cấp thông tin này cho các cơ quan có thẩm quyền theo quy định của pháp luật.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:170162:part:1:article:16:clause:2",
+                    "number": "2",
+                    "content": "2. Tổ chức, cá nhân có trách nhiệm bảo mật tài khoản và mật khẩu đăng nhập được cấp.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:170162:part:1:article:17",
+                "number": "17",
+                "title": "Xử lý sự cố Trường hợp Hệ thống dịch vụ công trực tuyến xảy ra sự cố không thực hiện được cung cấp trực tuyến:",
+                "content": "Điều 17. Xử lý sự cố Trường hợp Hệ thống dịch vụ công trực tuyến xảy ra sự cố không thực hiện được cung cấp trực tuyến:",
+                "clauses": [
+                  {
+                    "clause_id": "doc:170162:part:1:article:17:clause:1",
+                    "number": "1",
+                    "content": "1. Đơn vị quản lý, vận hành Hệ thống\ndịch vụ công trực tuyến có trách nhiệm thông báo cho tổ chức, cá nhân và cơ quan có liên quan bằng hình thức phù hợp và trên Hệ thống dịch vụ công trực tuyến đồng thời khẩn trương phối hợp với các đơn vị liên quan xử lý sự cố đưa hệ thống vào hoạt động.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:170162:part:1:article:17:clause:2",
+                    "number": "2",
+                    "content": "2. Cơ quan thực hiện thủ tục hành\nchính có trách nhiệm thông báo cho tổ chức, cá nhân bằng văn bản, qua điện thoại hoặc thư điện tử theo thông tin đã đăng ký và hướng dẫn tổ chức, cá nhân hoàn thành các thủ tục đang thực hiện theo các phương thức khác theo quy định của pháp luật chuyên ngành.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:170162:part:1:article:17:clause:3",
+                    "number": "3",
+                    "content": "3. Trong thời gian khắc phục sự cố,\ncác thủ tục hành chính được thực hiện theo các phương thức khác theo quy định của pháp luật chuyên ngành.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:170162:part:1:article:18",
+                "number": "18",
+                "title": "Trách nhiệm của cơ quan thực hiện thủ tục hành chính",
+                "content": "Điều 18. Trách nhiệm của cơ quan thực hiện thủ tục hành chính",
+                "clauses": [
+                  {
+                    "clause_id": "doc:170162:part:1:article:18:clause:1",
+                    "number": "1",
+                    "content": "1. Tiếp nhận, xử lý, thẩm định hồ sơ,\nphê duyệt hoặc từ chối phê duyệt, trả kết quả giải quyết thủ tục hành chính theo quy định tại Thông tư này và pháp luật chuyên ngành.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:170162:part:1:article:18:clause:2",
+                    "number": "2",
+                    "content": "2. Tiếp nhận thông tin, đề xuất, kiến\nnghị của tổ chức, cá nhân về việc cung cấp dịch vụ công trực tuyến, hướng dẫn tổ chức, cá nhân sử dụng các dịch vụ của Hệ thống dịch vụ công trực tuyến, phối hợp với các đơn vị liên quan bảo đảm thực hiện cung cấp dịch vụ công trực tuyến đúng quy định.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:170162:part:1:article:18:clause:3",
+                    "number": "3",
+                    "content": "3. Phối hợp với\nđơn vị quản lý, vận hành Hệ thống dịch vụ công trực tuyến quản lý tài khoản truy nhập của tổ chức, cá nhân; thu phí, lệ phí và các khoản thu khác của thủ tục hành chính theo quy định.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:170162:part:1:article:18:clause:4",
+                    "number": "5",
+                    "content": "5. Cung cấp cho đơn vị quản lý, vận\nhành Hệ thống dịch vụ công trực tuyến các yêu cầu kỹ thuật kết nối hệ thống thuộc phạm vi quản lý, tiêu chí thông tin, định dạng mẫu của hồ sơ hành chính trực tuyến theo quy định của pháp luật chuyên ngành.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:170162:part:1:article:18:clause:5",
+                    "number": "4",
+                    "content": "4. Thông báo cho đơn vị quản lý, vận\nhành Hệ thống dịch vụ công trực tuyến khi có sự cố kỹ thuật để có biện pháp khắc phục kịp thời.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:170162:part:1:article:18:clause:6",
+                    "number": "5",
+                    "content": "5. Lưu trữ, bảo quản hồ sơ hành chính\ntrực tuyến theo quy định của pháp luật.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:170162:part:1:article:19",
+                "number": "19",
+                "title": "Trách nhiệm của đơn vị quản lý, vận hành Hệ thống dịch vụ công trực tuyến Cục Công nghệ thông tin và Dữ liệu tài nguyên môi trường trực thuộc Bộ Tài nguyên và Môi trường là đơn vị quản lý, vận hành Hệ thống dịch vụ công trực tuyến có trách nhiệm:",
+                "content": "Điều 19. Trách nhiệm của đơn vị quản lý, vận hành Hệ thống dịch vụ công trực tuyến Cục Công nghệ thông tin và Dữ liệu tài nguyên môi trường trực thuộc Bộ Tài nguyên và Môi trường là đơn vị quản lý, vận hành Hệ thống dịch vụ công trực tuyến có trách nhiệm:",
+                "clauses": [
+                  {
+                    "clause_id": "doc:170162:part:1:article:19:clause:1",
+                    "number": "1",
+                    "content": "1. Quản lý, vận hành, bảo trì, nâng cấp\nhạ tầng kỹ thuật, phần mềm, hệ thống an ninh, an toàn cho Hệ thống dịch vụ công trực tuyến đáp ứng các yêu cầu của cơ quan thực hiện thủ tục hành chính, tổ chức, cá nhân liên quan.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:170162:part:1:article:19:clause:2",
+                    "number": "2",
+                    "content": "2. Làm đầu mối tiếp nhận, xử lý phản\nánh, kiến nghị của tổ chức, cá nhân về việc cung cấp dịch vụ công trực tuyến của Bộ Tài nguyên và Môi trường. Phối hợp với các đơn vị liên quan thực hiện các giải pháp bảo đảm việc cung cấp dịch vụ công, trực tuyến đúng quy định.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:170162:part:1:article:19:clause:3",
+                    "number": "3",
+                    "content": "3. Quản lý, xác thực tài khoản, kích\nhoạt các tài khoản quên hoặc mất mật khẩu truy nhập, tạm dừng tài khoản của tổ chức, cá nhân khi có hành vi gây nguy hại đến hệ thống.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:170162:part:1:article:19:clause:4",
+                    "number": "4",
+                    "content": "4. Thông báo đến các cơ quan thực hiện\nthủ tục hành chính và tổ chức, cá nhân thời gian khắc phục sự cố trong trường hợp Hệ thống dịch vụ công trực tuyến gặp sự cố.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:170162:part:1:article:19:clause:5",
+                    "number": "5",
+                    "content": "5. Tư vấn, hỗ trợ,\nhướng dẫn cơ quan thực hiện thủ tục hành chính và tổ chức, cá nhân sử dụng Hệ thống dịch vụ công trực tuyến.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:170162:part:1:article:19:clause:6",
+                    "number": "6",
+                    "content": "6. Tổ chức đánh giá chất lượng, sử dụng\ndịch vụ công trực tuyến của cơ quan nhà nước, tổ chức, cá nhân trên Hệ thống dịch vụ công trực tuyến.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:170162:part:1:article:19:clause:7",
+                    "number": "7",
+                    "content": "7. Chủ trì xây dựng, trình cấp có thẩm\nquyền ban hành quy chế hoạt động của Hệ thống dịch vụ công trực tuyến.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:170162:part:1:article:20",
+                "number": "20",
+                "title": "Xây dựng, cung cấp dịch vụ công trực tuyến",
+                "content": "Điều 20. Xây dựng, cung cấp dịch vụ công trực tuyến",
+                "clauses": [
+                  {
+                    "clause_id": "doc:170162:part:1:article:20:clause:1",
+                    "number": "1",
+                    "content": "1. Trong quá trình soạn thảo và công\nbố quyết định thủ tục hành chính cấp Trung ương, các đơn vị trực thuộc Bộ có trách nhiệm phối hợp với Cục Công nghệ thông tin và Dữ liệu tài nguyên môi trường xây dựng và cung cấp dịch vụ công trực tuyến mức độ 3, 4.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:170162:part:1:article:20:clause:2",
+                    "number": "2",
+                    "content": "2. Cục Công nghệ thông tin và Dữ liệu tài nguyên môi trường có trách nhiệm xây\ndựng hạ tầng thực hiện dịch vụ công trực tuyến bao gồm xác lập, hoàn thiện quy trình hành chính điện tử và nội dung đặc tả, giao diện, cấu trúc để triển khai thực hiện các thủ tục hành chính trực tuyến.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:170162:part:1:article:21",
+                "number": "21",
+                "title": "Nâng cấp dịch vụ công trực tuyến",
+                "content": "Điều 21. Nâng cấp dịch vụ công trực tuyến",
+                "clauses": [
+                  {
+                    "clause_id": "doc:170162:part:1:article:21:clause:1",
+                    "number": "1",
+                    "content": "1. Trước ngày 30 tháng 11 hàng năm, Cục\nCông nghệ thông tin và Dữ liệu tài nguyên môi trường có trách nhiệm phối hợp với các đơn vị liên quan xây dựng và trình Bộ trưởng Bộ Tài nguyên và Môi trường ban hành Kế hoạch bổ sung, nâng cấp dịch vụ công trực tuyến (sau đây gọi tắt là Kế hoạch) thực hiện trong năm sau.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:170162:part:1:article:21:clause:2",
+                    "number": "2",
+                    "content": "2. Kế hoạch bao gồm các nội dung chủ\nyếu sau:",
+                    "points": [
+                      {
+                        "point_id": "doc:170162:part:1:article:21:clause:2:point:1",
+                        "label": "a",
+                        "content": "a) Tên văn bản quy phạm pháp luật có\nquy định thủ tục hành chính đề xuất nâng cấp dịch vụ công trực tuyến. Tên thủ tục hành chính được cung cấp dưới dạng dịch vụ công trực tuyến;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:170162:part:1:article:21:clause:2:point:2",
+                        "label": "b",
+                        "content": "b) Tên thủ tục hành chính đề xuất\nnâng cấp dịch vụ công trực tuyến từ mức độ 3 lên mức độ 4;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:170162:part:1:article:21:clause:2:point:3",
+                        "label": "c",
+                        "content": "c) Thời gian nâng cấp đối với mỗi dịch\nvụ công trực tuyến;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:170162:part:1:article:21:clause:2:point:4",
+                        "label": "d",
+                        "content": "d) Đơn vị chủ trì thực hiện dịch vụ\ncông trực tuyến;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:170162:part:1:article:21:clause:2:point:5",
+                        "label": "đ",
+                        "content": "đ) Kinh phí thực hiện;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:170162:part:1:article:21:clause:2:point:6",
+                        "label": "e",
+                        "content": "e) Các nội dung cần thiết khác.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:170162:part:1:article:21:clause:3",
+                    "number": "3",
+                    "content": "3. Cục Công nghệ thông tin và Dữ liệu tài nguyên môi trường và các đơn vị liên\nquan có trách nhiệm tổ chức triển khai thực hiện Kế hoạch theo đúng nội dung và tiến độ phê duyệt.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:170162:part:1:chapter:4",
+            "number": "IV",
+            "title": "TỔ CHỨC THỰC HIỆN",
+            "content": "Chương IV\nTỔ CHỨC THỰC HIỆN",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:170162:part:1:article:22",
+                "number": "22",
+                "title": "Chế độ báo cáo",
+                "content": "Điều 22. Chế độ báo cáo",
+                "clauses": [
+                  {
+                    "clause_id": "doc:170162:part:1:article:22:clause:1",
+                    "number": "1",
+                    "content": "1. Chế độ báo cáo theo định kỳ từng quý\nvà đột xuất theo yêu cầu của Lãnh đạo Bộ hoặc do công tác quản lý điều hành.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:170162:part:1:article:22:clause:2",
+                    "number": "2",
+                    "content": "2. Cơ quan thực hiện thủ tục hành\nchính dịch vụ công trực tuyến có trách nhiệm báo cáo tình hình cung cấp dịch vụ công trực tuyến theo nhiệm vụ được phân công gửi cơ quan theo quy định tại Khoản 3 Điều này để tổng hợp báo cáo Bộ.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:170162:part:1:article:22:clause:3",
+                    "number": "3",
+                    "content": "3. Văn phòng Bộ có trách nhiệm theo\ndõi, đôn đốc, tổng hợp báo cáo Bộ kết quả giải quyết thủ tục hành chính qua dịch vụ công trực tuyến theo quy định.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:170162:part:1:article:22:clause:4",
+                    "number": "4",
+                    "content": "4. Cục Công nghệ thông tin và Dữ liệu tài nguyên môi trường có trách nhiệm báo\ncáo Bộ về tình hình quản lý, vận hành Hệ thống dịch vụ công trực tuyến, kế hoạch triển khai bổ sung và nâng cấp dịch vụ công trực tuyến quy định tại Thông tư này.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:170162:part:1:article:23",
+                "number": "23",
+                "title": "Kinh phí bảo đảm hoạt động dịch vụ công trực tuyến",
+                "content": "Điều 23. Kinh phí bảo đảm hoạt động dịch vụ công trực tuyến",
+                "clauses": [
+                  {
+                    "clause_id": "doc:170162:part:1:article:23:clause:1",
+                    "number": "1",
+                    "content": "1. Cục Công nghệ thông tin và Dữ liệu tài nguyên môi trường là đầu mối, phối hợp\nvới các đơn vị liên quan lập dự toán kinh phí xây dựng, duy trì, vận hành và nâng cấp dịch vụ công trực tuyến gửi Vụ Kế hoạch -Tài chính tổng hợp.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:170162:part:1:article:23:clause:2",
+                    "number": "2",
+                    "content": "2. Vụ Kế hoạch - Tài chính có trách\nnhiệm lập phương án phân bổ kinh phí cho công tác xây dựng, duy trì, vận hành, nâng cấp dịch vụ công trực tuyến từ nguồn ngân sách Nhà nước hàng năm trình Lãnh đạo Bộ quyết định.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:170162:part:1:article:24",
+                "number": "24",
+                "title": "Trách nhiệm thi hành",
+                "content": "Điều 24. Trách nhiệm thi hành",
+                "clauses": [
+                  {
+                    "clause_id": "doc:170162:part:1:article:24:clause:1",
+                    "number": "1",
+                    "content": "1. Thủ trưởng đơn vị thuộc Bộ Tài\nnguyên và Môi trường và các cơ quan nhà nước, tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:170162:part:1:article:24:clause:2",
+                    "number": "2",
+                    "content": "2. Cục Công nghệ thông tin và Dữ liệu tài nguyên môi trường chủ trì, phối hợp với Vụ Pháp chế, Văn phòng Bộ và các\nđơn vị thuộc Bộ Tài nguyên và Môi trường cung cấp dịch vụ công trực tuyến có trách nhiệm hướng dẫn, theo dõi, đôn đốc, kiểm tra việc thực hiện Thông tư này.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:170162:part:1:article:25",
+                "number": "25",
+                "title": "Hiệu lực thi hành Thông tư này có hiệu lực thi hành từ ngày 12 tháng 7 năm 2017. Trong quá trình thực hiện, nếu có khó khăn, vướng mắc, đề nghị các cơ quan, tổ chức, cá nhân phản ánh về Bộ Tài nguyên và Môi trường để sửa đổi, bổ sung cho phù hợp./.",
+                "content": "Điều 25. Hiệu lực thi hành Thông tư này có hiệu lực thi hành từ ngày 12 tháng 7 năm 2017. Trong quá trình thực hiện, nếu có khó khăn, vướng mắc, đề nghị các cơ quan, tổ chức, cá nhân phản ánh về Bộ Tài nguyên và Môi trường để sửa đổi, bổ sung cho phù hợp./.",
+                "clauses": [],
+                "points": []
+              }
+            ]
+          }
+        ],
+        "sections": [],
+        "articles": [],
+        "unstructured_blocks": []
+      }
+    ]
+  },
+  "issues": [],
+  "status": "ok",
+  "source_hash": "context_170162.json",
+  "stats": {
+    "source_chars": 21053,
+    "passage_chars": 20886,
+    "parts": 1,
+    "chapters": 4,
+    "sections": 0,
+    "articles": 25,
+    "clauses": 70,
+    "points": 40
+  }
+}

@@ -1,0 +1,495 @@
+{
+  "schema_version": "2.0",
+  "document_id": 135819,
+  "metadata": {
+    "name": "Thong-tu-63-2019-TT-BTC-huong-dan-ve-che-do-thu-nop-quan-ly-su-dung-phi-bao-dam-hang-hai-424182",
+    "link": "https://thuvienphapluat.vn/van-ban/Thue-Phi-Le-Phi/Thong-tu-63-2019-TT-BTC-huong-dan-ve-che-do-thu-nop-quan-ly-su-dung-phi-bao-dam-hang-hai-424182.aspx",
+    "issuing_agency": "BỘ TÀI CHÍNH",
+    "national_header": "CỘNG\r\n\n  HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM",
+    "motto": "Độc lập - Tự do - Hạnh phúc",
+    "document_number": "63/2019/TT-BTC",
+    "issued_place": "Hà Nội",
+    "issued_date": "ngày 09 tháng 09 năm 2019",
+    "document_type": "THÔNG TƯ",
+    "title": "HƯỚNG DẪN VỀ CHẾ ĐỘ THU, NỘP, QUẢN LÝ, SỬ DỤNG PHÍ BẢO ĐẢM HÀNG HẢI VÀ CƠ CHẾ TÀI CHÍNH TRONG LĨNH VỰC CUNG ỨNG DỊCH VỤ SỰ NGHIỆP CÔNG BẢO ĐẢM AN TOÀN HÀNG HẢI"
+  },
+  "administrative_header": {
+    "removed": true,
+    "removed_char_count": 152
+  },
+  "preamble": {
+    "text": "THÔNG TƯ\nHƯỚNG DẪN VỀ CHẾ ĐỘ THU, NỘP, QUẢN LÝ, SỬ DỤNG PHÍ BẢO ĐẢM HÀNG HẢI VÀ\nCƠ CHẾ TÀI CHÍNH TRONG LĨNH VỰC CUNG ỨNG DỊCH VỤ SỰ NGHIỆP CÔNG BẢO ĐẢM AN TOÀN\nHÀNG HẢI\nCăn cứ Luật ngân sách nhà nước ngày 25 tháng 6 năm 2015; Căn cứ Luật phí và lệ phí ngày 25 tháng 11 năm 2015; Căn cứ Nghị định số 32/2019/NĐ-CP ngày 10 tháng 4 năm 2019 của Chính phủ quy định giao nhiệm vụ, đặt hàng hoặc đấu thầu cung cấp sản phẩm, dịch vụ công sử dụng ngân sách nhà nước từ nguồn kinh phí chi thường xuyên; Căn cứ Nghị định số 120/2016/NĐ-CP ngày 23 tháng 8 năm 2016 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật phí và lệ phí; Căn cứ Nghị định số 58/2017/NĐ-CP ngày 10 tháng 5 năm 2017 của Chính phủ quy định chi tiết một số điều của Bộ luật hàng hải Việt Nam về quản lý hoạt động hàng hải; Căn cứ Nghị định số 43/2018/NĐ-CP ngày 12 tháng 3 năm 2018 của Chính phủ quy định việc quản lý, sử dụng và khai thác tài sản kết cấu hạ tầng hàng hải; Căn cứ Nghị định số 159/2018/NĐ-CP ngày 28 tháng 11 năm 2018 của Chính phủ về quản lý hoạt động nạo vét trong vùng nước cảng biển và vùng nước đường thủy nội địa; Căn cứ Nghị định số 87/2017/NĐ-CP ngày 26 tháng 7 năm 2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài chính; Theo đề nghị của Cục trưởng Cục Tài chính doanh nghiệp, Bộ trưởng Bộ Tài chính ban hành Thông tư hướng dẫn về chế độ thu, nộp, quản lý, sử dụng phí bảo đảm hàng hải và cơ chế tài chính trong lĩnh vực cung ứng dịch vụ sự nghiệp công bảo đảm an toàn hàng hải.\nChương I\nQUY ĐỊNH CHUNG",
+    "legal_bases": [
+      "Căn cứ Luật phí và lệ phí ngày 25 tháng 11 năm 2015",
+      "Căn cứ Nghị định số 32/2019/NĐ-CP ngày 10 tháng 4 năm 2019 của Chính phủ quy định giao nhiệm vụ, đặt hàng hoặc đấu thầu cung cấp sản phẩm, dịch vụ công sử dụng ngân sách nhà nước từ nguồn kinh phí chi thường xuyên",
+      "Căn cứ Nghị định số 120/2016/NĐ-CP ngày 23 tháng 8 năm 2016 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật phí và lệ phí",
+      "Căn cứ Nghị định số 58/2017/NĐ-CP ngày 10 tháng 5 năm 2017 của Chính phủ quy định chi tiết một số điều của Bộ luật hàng hải Việt Nam về quản lý hoạt động hàng hải",
+      "Căn cứ Nghị định số 43/2018/NĐ-CP ngày 12 tháng 3 năm 2018 của Chính phủ quy định việc quản lý, sử dụng và khai thác tài sản kết cấu hạ tầng hàng hải",
+      "Căn cứ Nghị định số 159/2018/NĐ-CP ngày 28 tháng 11 năm 2018 của Chính phủ về quản lý hoạt động nạo vét trong vùng nước cảng biển và vùng nước đường thủy nội địa",
+      "Căn cứ Nghị định số 87/2017/NĐ-CP ngày 26 tháng 7 năm 2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài chính"
+    ],
+    "proposals": [
+      "Theo đề nghị của Cục trưởng Cục Tài chính doanh nghiệp, Bộ trưởng Bộ Tài chính ban hành Thông tư hướng dẫn về chế độ thu, nộp, quản lý, sử dụng phí bảo đảm hàng hải và cơ chế tài chính trong lĩnh vực cung ứng dịch vụ sự nghiệp công bảo đảm an toàn hàng hải.\nChương I\nQUY ĐỊNH CHUNG"
+    ],
+    "enactment_formula": null
+  },
+  "passage": "THÔNG TƯ\nHƯỚNG DẪN VỀ CHẾ ĐỘ THU, NỘP, QUẢN LÝ, SỬ DỤNG PHÍ BẢO ĐẢM HÀNG HẢI VÀ\nCƠ CHẾ TÀI CHÍNH TRONG LĨNH VỰC CUNG ỨNG DỊCH VỤ SỰ NGHIỆP CÔNG BẢO ĐẢM AN TOÀN\nHÀNG HẢI\nCăn cứ Luật ngân sách nhà nước ngày 25 tháng 6 năm 2015; Căn cứ Luật phí và lệ phí ngày 25 tháng 11 năm 2015; Căn cứ Nghị định số 32/2019/NĐ-CP ngày 10 tháng 4 năm 2019 của Chính phủ quy định giao nhiệm vụ, đặt hàng hoặc đấu thầu cung cấp sản phẩm, dịch vụ công sử dụng ngân sách nhà nước từ nguồn kinh phí chi thường xuyên; Căn cứ Nghị định số 120/2016/NĐ-CP ngày 23 tháng 8 năm 2016 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật phí và lệ phí; Căn cứ Nghị định số 58/2017/NĐ-CP ngày 10 tháng 5 năm 2017 của Chính phủ quy định chi tiết một số điều của Bộ luật hàng hải Việt Nam về quản lý hoạt động hàng hải; Căn cứ Nghị định số 43/2018/NĐ-CP ngày 12 tháng 3 năm 2018 của Chính phủ quy định việc quản lý, sử dụng và khai thác tài sản kết cấu hạ tầng hàng hải; Căn cứ Nghị định số 159/2018/NĐ-CP ngày 28 tháng 11 năm 2018 của Chính phủ về quản lý hoạt động nạo vét trong vùng nước cảng biển và vùng nước đường thủy nội địa; Căn cứ Nghị định số 87/2017/NĐ-CP ngày 26 tháng 7 năm 2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài chính; Theo đề nghị của Cục trưởng Cục Tài chính doanh nghiệp, Bộ trưởng Bộ Tài chính ban hành Thông tư hướng dẫn về chế độ thu, nộp, quản lý, sử dụng phí bảo đảm hàng hải và cơ chế tài chính trong lĩnh vực cung ứng dịch vụ sự nghiệp công bảo đảm an toàn hàng hải.\nChương I\nQUY ĐỊNH CHUNG\nĐiều 1. Phạm vi điều chỉnh Quy định chế độ thu, nộp, quản lý, sử dụng phí bảo đảm hàng hải và cơ chế tài chính trong lĩnh vực cung ứng dịch vụ sự nghiệp công bảo đảm an toàn hàng hải.\nĐiều 2. Đối tượng áp dụng Thông tư này áp dụng đối với:\n1. Cục Hàng hải Việt Nam.\n2. Các Cảng vụ hàng hải.\n3. Tổng công ty Bảo đảm an toàn hàng\nhải miền Bắc - Công ty trách nhiệm hữu hạn một thành viên, Tổng công ty Bảo đảm an toàn hàng hải miền Nam (sau đây gọi tắt là các Tổng công ty Bảo đảm an toàn hàng hải) và các đơn vị cung ứng dịch vụ sự nghiệp công bảo đảm an toàn hàng hải khác.\n4. Doanh nghiệp đầu tư xây dựng và quản\nlý vận hành luồng hàng hải đã được cơ quan có thẩm quyền công bố đưa luồng hàng hải vào sử dụng theo quy định tại khoản 4 Điều 13 Nghị định số 58/2017/NĐ-CP ngày 10 tháng 5 năm 2017 của Chính phủ quy định chi tiết một số điều của Bộ luật hàng hải Việt Nam về quản lý hoạt động hàng hải.\n5. Các tổ chức,\ncá nhân và cơ quan nhà nước có liên quan đến hoạt động bảo đảm an toàn hàng hải.\nĐiều 3. Dịch vụ sự nghiệp công bảo đảm an toàn hàng hải Dịch vụ sự nghiệp công bảo đảm an toàn hàng hải được thực hiện theo quy định tại Thông tư này bao gồm:\n1. Vận hành hệ thống đèn biển, đăng\ntiêu độc lập.\n2. Vận hành, bảo trì hệ thống luồng\nhàng hải công cộng (bao gồm cả đê chắn sóng, đê chắn cát, kè hướng dòng và kè bảo vệ bờ luồng hàng hải).\n3. Khảo sát phục vụ công bố thông báo\nhàng hải đối với luồng hàng hải công cộng (bao gồm cả vị trí đón trả hoa tiêu).\n4. Sửa chữa, cải tạo tài sản kết cấu\nhạ tầng hàng hải là đê chắn sóng, đê chắn cát, kè hướng dòng và kè bảo vệ bờ luồng hàng hải công cộng được giao cho cơ quan quản lý nhà nước chuyên ngành về hàng hải thuộc Bộ Giao thông vận tải quản lý.\n5. Nạo vét duy tu luồng hàng hải để đảm\nbảo chuẩn tắc thiết kế được cơ quan có thẩm quyền phê duyệt (không bao gồm công tác nạo vét đầu tư xây dựng mới luồng hàng hải).\n6. Nhiệm vụ đột xuất bảo đảm an toàn\nhàng hải.\nĐiều 4. Phương thức cung ứng dịch vụ sự nghiệp công bảo đảm an toàn hàng hải\n1. Phương thức cung ứng dịch vụ sự\nnghiệp công bảo đảm an toàn hàng hải quy định tại khoản 1, 2, 3 và 6 Điều 3 Thông tư này được thực hiện theo phương thức đặt hàng.\n2. Phương thức cung ứng dịch vụ sự\nnghiệp công bảo đảm an toàn hàng hải quy định tại khoản 4 Điều 3 Thông tư này được thực hiện theo phương thức đấu thầu.\n3. Phương thức,\ntrình tự, thủ tục cung ứng dịch vụ sự nghiệp công bảo đảm an toàn hàng hải quy định tại khoản 5 Điều 3 Thông tư này được thực hiện theo quy định tại Nghị định số 32/2019/NĐ-CP ngày 10 tháng 4 năm 2019 của Chính phủ quy định giao nhiệm vụ, đặt hàng hoặc đấu thầu cung cấp sản phẩm, dịch vụ công sử dụng ngân sách nhà nước từ nguồn kinh phí chi thường xuyên và Nghị định số 159/2018/NĐ-CP ngày 28 tháng 11 năm 2018 của Chính phủ về quản lý hoạt động nạo vét trong vùng nước cảng biển và vùng nước đường thủy nội địa.\nĐiều 5. Nguồn thu phí bảo đảm hàng hải Phí bảo đảm hàng hải thuộc nguồn thu của ngân sách nhà nước bao gồm:\n1. Phí bảo đảm hàng hải thu được từ\ncác luồng hàng hải công cộng do Nhà nước đầu tư.\n2. Phần phí bảo đảm hàng hải trích nộp\nngân sách nhà nước thu được từ các luồng hàng hải chuyên dùng theo quy định tại điểm a khoản 2 Điều 8 Thông tư này.\nChương II\nCHẾ ĐỘ KÊ KHAI,\nTHU, NỘP, QUẢN LÝ VÀ SỬ DỤNG PHÍ BẢO ĐẢM HÀNG HẢI\nĐiều 6. Mức thu phí bảo đảm hàng hải Mức thu phí bảo đảm hàng hải thực hiện theo Thông tư số 261/2016/TT-BTC ngày 14 tháng 11 năm 2016 của Bộ trưởng Bộ Tài chính quy định về phí, lệ phí hàng hải và biểu mức thu phí, lệ phí hàng hải.\nĐiều 7. Kê khai, nộp phí bảo đảm hàng hải của tổ chức thu\n1. Đối với số phí bảo đảm hàng hải thực\nhiện nộp ngân sách nhà nước, các cảng vụ hàng hải có trách nhiệm thực hiện kê khai, nộp tiền phí thu được theo tháng, quyết toán năm theo hướng dẫn tại Thông tư số 156/2013/TT-BTC ngày 06 tháng 11 năm 2013 của Bộ trưởng Bộ Tài chính hướng dẫn thi hành một số điều của Luật Quản lý thuế; Luật sửa đổi, bổ sung một số điều của Luật Quản lý thuế và Nghị định số 83/2013/NĐ-CP ngày 22 tháng 07 năm 2013 của Chính phủ quy định chi tiết thi hành một số điều của Luật Quản lý thuế và Luật sửa đổi, bổ sung một số điều của Luật Quản lý thuế.\n2. Đối với phí bảo đảm hàng hải được\nquy định tại điểm b khoản 2 Điều 8 Thông tư này, trong vòng 10 ngày làm việc đầu tiên của tháng tiếp theo, các cảng vụ hàng hải có trách nhiệm xác định số tiền doanh nghiệp được hưởng của tháng trước và thực hiện chuyển tiền cho đơn vị. Nguồn thu phí này đã bao gồm thuế giá trị gia tăng. Khi nhận tiền, các doanh nghiệp thực hiện xuất hóa đơn giá trị gia tăng cho các cảng vụ hàng hải, thực hiện việc kê khai, nộp thuế giá trị gia tăng theo quy định. Các cảng vụ hàng hải không thực hiện kê khai, khấu trừ thuế giá trị gia tăng.\nĐiều 8. Quản lý và sử dụng phí bảo đảm hàng hải\n1. Các cảng vụ hàng hải khu vực thực\nhiện thu phí bảo đảm hàng hải tại luồng hàng hải công cộng do nhà nước đầu tư và được để lại tỷ lệ phần trăm (%) trên tổng số tiền phí thu được để chi cho hoạt động thu phí theo quy định tại Điều 5 Nghị định số 120/2016/NĐ-CP ngày 23 tháng 8 năm 2016 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật phí và lệ phí. Tỷ lệ để lại phí bảo đảm hàng hải cho các cảng vụ hàng hải được xác định theo phụ lục đính kèm. Phí bảo đảm hàng hải thu được sau khi trừ số tiền phí để lại theo quy định, các cảng vụ hàng hải thực hiện kê khai, nộp vào ngân sách Trung ương và hạch toán vào tiểu mục và chương tương ứng.\n2. Các cảng vụ hàng hải khu vực thực\nhiện thu phí bảo đảm hàng hải tại luồng hàng hải chuyên dùng do doanh nghiệp đầu tư, khai thác và được để lại 2% trên tổng số tiền thu phí để chi cho hoạt động thu phí theo quy định tại Điều 5 Nghị định số 120/2016/NĐ-CP ngày 23 tháng 8 năm 2016 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật phí và lệ phí. Phí bảo đảm hàng hải thu được hàng năm tại luồng hàng hải chuyên dùng sau khi trừ số tiền phí để lại tại cảng vụ hàng hải được sử dụng như sau:\na) Thực hiện trích 30% để nộp vào\nngân sách nhà nước;\nb) Doanh nghiệp đầu tư, khai thác luồng\nhàng hải chuyên dùng được hưởng 70% số tiền để bù đắp chi phí đầu tư, khai thác và vận hành luồng hàng hải chuyên dùng đảm bảo chuẩn tắc theo quy định.\nChương III\nLẬP, PHÂN BỔ VÀ\nGIAO DỰ TOÁN THU PHÍ BẢO ĐẢM HÀNG HẢI\nĐiều 9. Lập, phân bổ và giao dự toán thu phí bảo đảm hàng hải\n1. Lập dự toán thu:\na) Hàng năm, căn cứ vào số kiểm tra dự\ntoán thu phí bảo đảm hàng hải do Bộ Tài chính thông báo cho Bộ Giao thông vận tải; Bộ Giao thông vận tải thông báo cho Cục Hàng hải Việt Nam.\nb) Cục Hàng hải Việt Nam lập dự toán\nthu phí bảo đảm hàng hải gửi Bộ Giao thông vận tải xem xét, tổng hợp chung trong dự toán ngân sách nhà nước của Bộ Giao thông vận tải để gửi Bộ Tài chính tổng hợp theo quy định của Luật ngân sách nhà nước và các văn bản hướng dẫn.\n2. Phân bổ và giao dự toán thu:\nCăn cứ dự toán thu phí bảo đảm hàng hải hàng năm được cấp có thẩm quyền giao, trước ngày 31 tháng 12, Bộ Giao thông vận tải phân bổ và giao dự toán thu phí bảo đảm hàng hải cho các cảng vụ hàng hải; đồng thời gửi Bộ Tài chính, Cục Hàng hải Việt Nam và Kho bạc Nhà nước.\nĐiều 10. Tổng hợp, quyết toán nguồn thu phí bảo đảm hàng hải Kết thúc năm tài chính, các cảng vụ hàng hải tổng hợp số thu, nộp phí bảo đảm hàng hải trong báo cáo quyết toán năm gửi Cục Hàng hải Việt Nam; Cục Hàng hải Việt Nam xét duyệt và tổng hợp, báo cáo Bộ Giao thông vận tải để tổng hợp số thu ngân sách nhà nước của Bộ Giao thông vận tải hàng năm theo quy định hiện hành.\nChương IV\nCƠ CHẾ TÀI CHÍNH\nTHỰC HIỆN NHIỆM VỤ CUNG ỨNG DỊCH VỤ SỰ NGHIỆP CÔNG BẢO ĐẢM AN TOÀN HÀNG HẢI\nĐiều 11. Nguồn kinh phí để thực hiện nhiệm vụ cung ứng dịch vụ sự nghiệp công bảo đảm an toàn hàng hải Căn cứ nguồn thu phí bảo đảm hàng hải và khả năng cân đối của ngân sách nhà nước, nguồn kinh phí để thực hiện nhiệm vụ cung ứng dịch vụ sự nghiệp công bảo đảm an toàn hàng hải được bố trí từ ngân sách trung ương hàng năm.\nĐiều 12. Lập, phân bổ và giao dự toán chi cung ứng dịch vụ sự nghiệp công bảo đảm an toàn hàng hải\n1. Lập dự toán\na) Căn cứ vào khối lượng dịch vụ sự\nnghiệp công quy định tại Điều 3 Thông tư này, giá dịch vụ sự nghiệp công bảo đảm an toàn hàng hải năm trước, dự kiến biến động các yếu tố chi phí đầu vào, các Tổng công ty Bảo đảm an toàn hàng hải lập nhu cầu kinh phí cung ứng dịch vụ sự nghiệp công bảo đảm an toàn hàng hải gửi Cục Hàng hải Việt Nam.\nb) Trên cơ sở đề xuất của các Tổng\ncông ty Bảo đảm an toàn hàng hải nêu tại điểm a khoản 1 Điều này, Cục Hàng hải Việt Nam lập dự toán chi ngân sách nhà nước cung ứng dịch vụ sự nghiệp công bảo đảm an toàn hàng hải năm tiếp theo gửi Bộ Giao thông vận tải trước ngày 15 tháng 07 hàng năm. Bộ Giao thông vận tải xem xét, tổng hợp chung trong dự toán chi ngân sách nhà nước của Bộ Giao thông vận tải gửi Bộ Tài chính tổng hợp theo quy định của Luật ngân sách nhà nước.\n2. Phân bổ và giao dự toán\nTrước ngày 31 tháng 12, Bộ Giao thông vận tải thực hiện phân bổ và giao dự toán chi cung ứng dịch vụ sự nghiệp công bảo đảm an toàn hàng hải cho Cục Hàng hải Việt Nam, đồng thời gửi Bộ Tài chính, Kho bạc Nhà nước nơi Cục Hàng hải Việt Nam mở tài khoản giao dịch để phối hợp thực hiện.\nĐiều 13. Tạm ứng, thanh toán kinh phí cung ứng dịch vụ sự nghiệp công bảo đảm an toàn hàng hải\n1. Đối với dịch vụ sự nghiệp công bảo\nđảm an toàn hàng hải thực hiện theo phương thức đặt hàng\na) Căn cứ dự toán chi ngân sách nhà\nnước do Bộ Giao thông vận tải giao, đơn giá dịch vụ sự nghiệp công bảo đảm an toàn hàng hải năm trước đã được duyệt, trước ngày 31 tháng 12, Cục Hàng hải Việt Nam thực hiện ký hợp đồng cung ứng dịch vụ sự nghiệp công bảo đảm an toàn hàng hải với các Tổng công ty Bảo đảm an toàn hàng hải và các đơn vị cung ứng dịch vụ. Hợp đồng cung ứng dịch vụ sự nghiệp công bảo đảm an toàn hàng hải bao gồm các nội dung chủ yếu sau: Tên sản phẩm, dịch vụ công; số lượng, khối lượng, chất lượng thực hiện; giá, đơn giá, giá trị hợp đồng; thời gian hoàn thành; phương thức nghiệm thu, tạm ứng, thanh toán; quyền, nghĩa vụ của các bên.\nb) Cục Hàng hải Việt Nam thực hiện\nrút dự toán tại Kho bạc Nhà nước để tạm ứng, thanh toán cho các Tổng công ty Bảo đảm an toàn hàng hải và các đơn vị cung ứng dịch vụ theo hợp đồng đã ký. Kho bạc Nhà nước nơi Cục Hàng hải Việt Nam giao dịch kiểm tra hồ sơ, thực hiện kiểm soát chi trước khi tạm ứng, thanh toán theo hợp đồng.\nc) Tạm ứng kinh phí cung ứng dịch vụ\nsự nghiệp công bảo đảm an toàn hàng hải. Mức tạm ứng cho Tổng công ty Bảo đảm an toàn hàng hải và các đơn vị cung ứng dịch vụ sự nghiệp công bảo đảm an toàn hàng hải thực hiện theo quy định của hợp đồng nhưng không vượt quá 50% giá trị hợp đồng tại thời điểm ký kết và không vượt dự toán giao hàng năm. Việc thu hồi số tiền tạm ứng bắt đầu từ lần thanh toán đầu tiên và thu hồi hết số tiền tạm ứng khi thanh toán cuối cùng của năm kế hoạch.\nd) Thanh toán kinh phí cung ứng dịch\nvụ sự nghiệp công bảo đảm an toàn hàng hải. Định kỳ hoặc sau khi nghiệm thu cung ứng dịch vụ sự nghiệp công bảo đảm an toàn hàng hải, Cục Hàng hải Việt Nam thực hiện thanh toán giá trị khối lượng hoàn thành cho Tổng công ty Bảo đảm an toàn hàng hải và các đơn vị cung ứng dịch vụ theo quy định.\n2. Đối với dịch vụ sự nghiệp công bảo\nđảm an toàn hàng hải thực hiện theo phương thức đấu thầu\na) Căn cứ dự toán chi ngân sách nhà\nnước do Bộ Giao thông vận tải giao, Cục Hàng hải Việt Nam thực hiện theo quy định của pháp luật về xây dựng và bảo trì công trình xây dựng để tổ chức lựa chọn và ký hợp đồng với các nhà thầu.\nb) Cục Hàng hải Việt Nam thực hiện\nrút dự toán tại Kho bạc Nhà nước để tạm ứng, thanh toán cho các nhà thầu theo hợp đồng đã ký. Kho bạc Nhà nước nơi Cục Hàng hải Việt Nam giao dịch kiểm tra hồ sơ, thực hiện kiểm soát chi trước khi tạm ứng, thanh toán theo hợp đồng.\nc) Tạm ứng kinh phí cung ứng dịch vụ\nsự nghiệp công bảo đảm an toàn hàng hải. Mức tạm ứng cho các đơn vị cung ứng dịch vụ thực hiện theo quy định của hợp đồng nhưng không vượt quá 50% giá trị hợp đồng tại thời điểm ký kết và không vượt dự toán giao hàng năm. Việc thu hồi số tiền tạm ứng bắt đầu từ lần thanh toán đầu tiên và thu hồi hết số tiền tạm ứng khi thanh toán cuối cùng của năm kế hoạch.\nd) Thanh toán kinh phí cung ứng dịch\nvụ sự nghiệp công bảo đảm an toàn hàng hải. Khi nghiệm thu hoàn thành hạng mục công trình, công trình xây dựng đưa vào sử dụng, Cục Hàng hải Việt Nam thực hiện thanh toán giá trị khối lượng hoàn thành cho các đơn vị cung ứng dịch vụ theo quy định.\n3. Hồ sơ tạm ứng, thanh toán thực hiện\ntheo quy định tại Thông tư số 161/2012/TT-BTC ngày 02 tháng 10 năm 2012 của Bộ trưởng Bộ Tài chính quy định chế độ kiểm soát, thanh toán các khoản chi ngân sách nhà nước qua Kho bạc Nhà nước; Thông tư số 39/2016/TT-BTC ngày 01 tháng 3 năm 2016 của Bộ trưởng Bộ Tài chính sửa đổi, bổ sung một số điều của Thông tư số 161/2012/TT-BTC , cụ thể như sau:\na) Hồ sơ tạm ứng gồm:\n- Quyết định giao dự toán chi ngân sách nhà nước của Bộ Giao thông vận tải cho Cục Hàng hải Việt Nam; - Hợp đồng giữa Cục Hàng hải Việt Nam với đơn vị cung ứng dịch vụ; - Giấy đề nghị tạm ứng (nếu có); - Giấy rút dự toán ngân sách nhà nước (tạm ứng) của Cục Hàng hải việt Nam, trong đó ghi rõ nội dung tạm ứng để Kho bạc Nhà nước có căn cứ kiểm soát và theo dõi khi thanh toán.\nb) Hồ sơ thanh toán gồm:\n- Quyết định giao dự toán chi ngân sách nhà nước của Bộ Giao thông vận tải cho Cục Hàng hải Việt Nam; - Hợp đồng giữa Cục Hàng hải Việt Nam với đơn vị cung ứng dịch vụ; - Biên bản nghiệm thu xác nhận khối lượng, chất lượng hoàn thành; - Bảng xác định giá trị khối lượng công việc hoàn thành theo Hợp đồng đề nghị thanh toán; - Giấy đề nghị thanh toán (nếu có); - Giấy rút dự toán ngân sách nhà nước của Cục Hàng hải Việt Nam, trong đó ghi rõ nội dung để Kho bạc Nhà nước có căn cứ kiểm soát và theo dõi khi thanh toán.\nĐiều 14. Kiểm tra, quyết toán nhiệm vụ cung ứng dịch vụ sự nghiệp công bảo đảm an toàn hàng hải\n1. Hàng năm, các Tổng công ty Bảo đảm\nan toàn hàng hải và các đơn vị cung ứng dịch vụ sự nghiệp công bảo đảm an toàn hàng hải lập báo cáo quyết toán thực hiện nhiệm vụ cung ứng dịch vụ sự nghiệp công bảo đảm an toàn hàng hải gửi Cục Hàng hải Việt Nam, Bộ Giao thông vận tải, Bộ Tài chính.\n2. Cục Hàng hải Việt Nam chủ trì, phối\nhợp với các cơ quan, đơn vị có liên quan của Bộ Giao thông vận tải tổ chức kiểm tra báo cáo quyết toán thực hiện cung ứng dịch vụ sự nghiệp công của các Tổng công ty Bảo đảm an toàn hàng hải và các đơn vị cung ứng dịch vụ sự nghiệp công bảo đảm an toàn hàng hải.\n3. Bộ Giao thông vận tải chỉ đạo Cục\nHàng hải Việt Nam lập báo cáo quyết toán nguồn kinh phí chi cung ứng dịch vụ sự nghiệp công bảo đảm an toàn hàng hải theo quy định của Luật ngân sách nhà nước; tổng hợp chung trong báo cáo quyết toán của Cục Hàng hải Việt Nam, gửi Bộ Giao thông vận tải thẩm định và tổng hợp chung trong quyết toán của Bộ Giao thông vận tải, gửi Bộ Tài chính thẩm định theo quy định của Luật ngân sách nhà nước.\n4. Các tổ chức, cá nhân có liên quan\nphải chịu trách nhiệm trước Nhà nước và pháp luật về tính chính xác, trung thực của số liệu báo cáo quyết toán và chịu trách nhiệm bồi hoàn khi thực hiện quyết toán dịch vụ sự nghiệp công bảo đảm an toàn hàng hải được giao không đúng quy định.\nChương V\nTỔ CHỨC THỰC HIỆN\nĐiều 15. Điều khoản thi hành\n1. Thông tư này có hiệu lực thi hành\nkể từ ngày 01 tháng 01 năm 2020 và áp dụng từ năm tài chính 2020.\n2. Thông tư này thay thế Thông tư số\n14/2017/TT-BTC ngày 15 tháng 02 năm 2017 của Bộ trưởng Bộ Tài chính hướng dẫn quản lý, sử dụng phí bảo đảm hàng hải thuộc nguồn thu ngân sách nhà nước và cơ chế tài chính trong lĩnh vực cung ứng dịch vụ công ích bảo đảm an toàn hàng hải và Thông tư số 262/2016/TT-BTC ngày 14 tháng 11 năm 2016 của Bộ trưởng Bộ Tài chính quy định chế độ thu, nộp phí bảo đảm hàng hải đối với luồng hàng hải chuyên dùng.\n3. Việc quản lý, sử dụng phí bảo đảm\nhàng hải thu trên tuyến luồng Soài Rạp được tiếp tục thực hiện cơ chế thí điểm theo chỉ đạo của Thủ tướng Chính phủ và hướng dẫn của Bộ Tài chính.\n4. Trong quá trình thực hiện, trường\nhợp văn bản quy phạm pháp luật được dẫn chiếu trong Thông tư này sửa đổi, bổ sung hoặc thay thế thì áp dụng theo các văn bản quy phạm pháp luật được sửa đổi, bổ sung, thay thế.\n5. Trong quá trình thực hiện, nếu có\nvướng mắc đề nghị Bộ Giao thông vận tải và các đơn vị phản ánh về Bộ Tài chính để xem xét, giải quyết./.\nNơi nhận:\n- Thủ tướng, các Phó Thủ\ntướng Chính phủ;\n- Văn phòng Tổng Bí thư;\n- Văn phòng Quốc hội;\n- Văn phòng Chủ tịch nước;\n- Văn phòng Chính phủ;\n- Văn phòng Trung ương Đảng;\n- Tòa án nhân dân tối cao;\n- Viện Kiểm sát nhân dân tối cao;\n- Kiểm toán nhà nước;\n- Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ;\n- UBND, Sở Tài chính, Cục thuế, KBNN, Sở GTVT các tỉnh, thành phố\ntrực thuộc TƯ;\n- Cục Kiểm tra văn bản (Bộ Tư pháp);\n- Cục Hàng hải Việt Nam;\n- Cổng TTĐT Chính phủ;\n- Cổng TTĐT Bộ Giao thông vận tải, Bộ Tài chính;\n- Lưu: VT, Cục TCDN.\nKT. BỘ TRƯỞNG\nTHỨ TRƯỞNG\nHuỳnh Quang Hải\nPHỤ LỤC\nTỶ LỆ PHÍ BẢO ĐẢM HÀNG HẢI ĐƯỢC ĐỂ LẠI CHO\nCÁC CẢNG VỤ HÀNG HẢI ĐỂ CHI CHO CÔNG TÁC THU PHÍ\n(Ban hành kèm theo Thông tư số 63/2019/TT-BTC ngày 09/9/2019 của Bộ trưởng Bộ Tài chính\nTT\nTên đơn vị Tỷ lệ để lại 1 Cảng vụ HH Quảng Ninh 0,70% 2 Cảng vụ HH Hải Phòng 0,50% 3 Cảng vụ HH Thái Bình 3,50% 4 Cảng vụ HH Nam Định 4,00% 5 Cảng vụ HH Thanh Hóa 1,50% 6 Cảng vụ HH Nghệ An 2,50% 7 Cảng vụ HH Hà Tĩnh 2,50% 8 Cảng vụ HH Quảng Bình 3,00% 9 Cảng vụ HH Quảng Trị 3,50% 10 Cảng vụ HH TT Huế 3,00% 11 Cảng vụ HH Đà Nẵng 1,00% 12 Cảng vụ HH Quảng Nam 3,00% 13 Cảng vụ HH Quảng Ngãi 1,50% 14 Cảng vụ HH Quy Nhơn 1,50% 15 Cảng vụ HH Nha Trang 1,50% 16 Cảng vụ HH Đồng Nai 1,50% 17 Cảng vụ HH Bình Thuận 1,50% 18 Cảng vụ HH Vũng Tàu 0,50% 19 Cảng vụ HH TP. HCM 0,50% 20 Cảng vụ HH Mỹ Tho 3,50% 21 Cảng vụ HH An Giang 3,50% 22 Cảng vụ HH Đồng Tháp 4,00% 23 Cảng vụ HH Cần Thơ 2,50% 24 Cảng vụ HH Kiên Giang 3,50% 25 Cảng vụ HH Cà Mau 4,00%",
+  "tree": {
+    "parts": [
+      {
+        "part_id": "doc:135819:part:1",
+        "part_type": "main",
+        "part_title": null,
+        "reference": null,
+        "direct_text": "THÔNG TƯ\nHƯỚNG DẪN VỀ CHẾ ĐỘ THU, NỘP, QUẢN LÝ, SỬ DỤNG PHÍ BẢO ĐẢM HÀNG HẢI VÀ\nCƠ CHẾ TÀI CHÍNH TRONG LĨNH VỰC CUNG ỨNG DỊCH VỤ SỰ NGHIỆP CÔNG BẢO ĐẢM AN TOÀN\nHÀNG HẢI\nCăn cứ Luật ngân sách nhà nước ngày 25 tháng 6 năm 2015; Căn cứ Luật phí và lệ phí ngày 25 tháng 11 năm 2015; Căn cứ Nghị định số 32/2019/NĐ-CP ngày 10 tháng 4 năm 2019 của Chính phủ quy định giao nhiệm vụ, đặt hàng hoặc đấu thầu cung cấp sản phẩm, dịch vụ công sử dụng ngân sách nhà nước từ nguồn kinh phí chi thường xuyên; Căn cứ Nghị định số 120/2016/NĐ-CP ngày 23 tháng 8 năm 2016 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật phí và lệ phí; Căn cứ Nghị định số 58/2017/NĐ-CP ngày 10 tháng 5 năm 2017 của Chính phủ quy định chi tiết một số điều của Bộ luật hàng hải Việt Nam về quản lý hoạt động hàng hải; Căn cứ Nghị định số 43/2018/NĐ-CP ngày 12 tháng 3 năm 2018 của Chính phủ quy định việc quản lý, sử dụng và khai thác tài sản kết cấu hạ tầng hàng hải; Căn cứ Nghị định số 159/2018/NĐ-CP ngày 28 tháng 11 năm 2018 của Chính phủ về quản lý hoạt động nạo vét trong vùng nước cảng biển và vùng nước đường thủy nội địa; Căn cứ Nghị định số 87/2017/NĐ-CP ngày 26 tháng 7 năm 2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài chính; Theo đề nghị của Cục trưởng Cục Tài chính doanh nghiệp, Bộ trưởng Bộ Tài chính ban hành Thông tư hướng dẫn về chế độ thu, nộp, quản lý, sử dụng phí bảo đảm hàng hải và cơ chế tài chính trong lĩnh vực cung ứng dịch vụ sự nghiệp công bảo đảm an toàn hàng hải.",
+        "chapters": [
+          {
+            "chapter_id": "doc:135819:part:1:chapter:1",
+            "number": "I",
+            "title": "QUY ĐỊNH CHUNG",
+            "content": "Chương I\nQUY ĐỊNH CHUNG",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:135819:part:1:article:1",
+                "number": "1",
+                "title": "Phạm vi điều chỉnh Quy định chế độ thu, nộp, quản lý, sử dụng phí bảo đảm hàng hải và cơ chế tài chính trong lĩnh vực cung ứng dịch vụ sự nghiệp công bảo đảm an toàn hàng hải.",
+                "content": "Điều 1. Phạm vi điều chỉnh Quy định chế độ thu, nộp, quản lý, sử dụng phí bảo đảm hàng hải và cơ chế tài chính trong lĩnh vực cung ứng dịch vụ sự nghiệp công bảo đảm an toàn hàng hải.",
+                "clauses": [],
+                "points": []
+              },
+              {
+                "article_id": "doc:135819:part:1:article:2",
+                "number": "2",
+                "title": "Đối tượng áp dụng Thông tư này áp dụng đối với:",
+                "content": "Điều 2. Đối tượng áp dụng Thông tư này áp dụng đối với:",
+                "clauses": [
+                  {
+                    "clause_id": "doc:135819:part:1:article:2:clause:1",
+                    "number": "1",
+                    "content": "1. Cục Hàng hải Việt Nam.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:135819:part:1:article:2:clause:2",
+                    "number": "2",
+                    "content": "2. Các Cảng vụ hàng hải.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:135819:part:1:article:2:clause:3",
+                    "number": "3",
+                    "content": "3. Tổng công ty Bảo đảm an toàn hàng\nhải miền Bắc - Công ty trách nhiệm hữu hạn một thành viên, Tổng công ty Bảo đảm an toàn hàng hải miền Nam (sau đây gọi tắt là các Tổng công ty Bảo đảm an toàn hàng hải) và các đơn vị cung ứng dịch vụ sự nghiệp công bảo đảm an toàn hàng hải khác.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:135819:part:1:article:2:clause:4",
+                    "number": "4",
+                    "content": "4. Doanh nghiệp đầu tư xây dựng và quản\nlý vận hành luồng hàng hải đã được cơ quan có thẩm quyền công bố đưa luồng hàng hải vào sử dụng theo quy định tại khoản 4 Điều 13 Nghị định số 58/2017/NĐ-CP ngày 10 tháng 5 năm 2017 của Chính phủ quy định chi tiết một số điều của Bộ luật hàng hải Việt Nam về quản lý hoạt động hàng hải.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:135819:part:1:article:2:clause:5",
+                    "number": "5",
+                    "content": "5. Các tổ chức,\ncá nhân và cơ quan nhà nước có liên quan đến hoạt động bảo đảm an toàn hàng hải.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:135819:part:1:article:3",
+                "number": "3",
+                "title": "Dịch vụ sự nghiệp công bảo đảm an toàn hàng hải Dịch vụ sự nghiệp công bảo đảm an toàn hàng hải được thực hiện theo quy định tại Thông tư này bao gồm:",
+                "content": "Điều 3. Dịch vụ sự nghiệp công bảo đảm an toàn hàng hải Dịch vụ sự nghiệp công bảo đảm an toàn hàng hải được thực hiện theo quy định tại Thông tư này bao gồm:",
+                "clauses": [
+                  {
+                    "clause_id": "doc:135819:part:1:article:3:clause:1",
+                    "number": "1",
+                    "content": "1. Vận hành hệ thống đèn biển, đăng\ntiêu độc lập.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:135819:part:1:article:3:clause:2",
+                    "number": "2",
+                    "content": "2. Vận hành, bảo trì hệ thống luồng\nhàng hải công cộng (bao gồm cả đê chắn sóng, đê chắn cát, kè hướng dòng và kè bảo vệ bờ luồng hàng hải).",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:135819:part:1:article:3:clause:3",
+                    "number": "3",
+                    "content": "3. Khảo sát phục vụ công bố thông báo\nhàng hải đối với luồng hàng hải công cộng (bao gồm cả vị trí đón trả hoa tiêu).",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:135819:part:1:article:3:clause:4",
+                    "number": "4",
+                    "content": "4. Sửa chữa, cải tạo tài sản kết cấu\nhạ tầng hàng hải là đê chắn sóng, đê chắn cát, kè hướng dòng và kè bảo vệ bờ luồng hàng hải công cộng được giao cho cơ quan quản lý nhà nước chuyên ngành về hàng hải thuộc Bộ Giao thông vận tải quản lý.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:135819:part:1:article:3:clause:5",
+                    "number": "5",
+                    "content": "5. Nạo vét duy tu luồng hàng hải để đảm\nbảo chuẩn tắc thiết kế được cơ quan có thẩm quyền phê duyệt (không bao gồm công tác nạo vét đầu tư xây dựng mới luồng hàng hải).",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:135819:part:1:article:3:clause:6",
+                    "number": "6",
+                    "content": "6. Nhiệm vụ đột xuất bảo đảm an toàn\nhàng hải.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:135819:part:1:article:4",
+                "number": "4",
+                "title": "Phương thức cung ứng dịch vụ sự nghiệp công bảo đảm an toàn hàng hải",
+                "content": "Điều 4. Phương thức cung ứng dịch vụ sự nghiệp công bảo đảm an toàn hàng hải",
+                "clauses": [
+                  {
+                    "clause_id": "doc:135819:part:1:article:4:clause:1",
+                    "number": "1",
+                    "content": "1. Phương thức cung ứng dịch vụ sự\nnghiệp công bảo đảm an toàn hàng hải quy định tại khoản 1, 2, 3 và 6 Điều 3 Thông tư này được thực hiện theo phương thức đặt hàng.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:135819:part:1:article:4:clause:2",
+                    "number": "2",
+                    "content": "2. Phương thức cung ứng dịch vụ sự\nnghiệp công bảo đảm an toàn hàng hải quy định tại khoản 4 Điều 3 Thông tư này được thực hiện theo phương thức đấu thầu.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:135819:part:1:article:4:clause:3",
+                    "number": "3",
+                    "content": "3. Phương thức,\ntrình tự, thủ tục cung ứng dịch vụ sự nghiệp công bảo đảm an toàn hàng hải quy định tại khoản 5 Điều 3 Thông tư này được thực hiện theo quy định tại Nghị định số 32/2019/NĐ-CP ngày 10 tháng 4 năm 2019 của Chính phủ quy định giao nhiệm vụ, đặt hàng hoặc đấu thầu cung cấp sản phẩm, dịch vụ công sử dụng ngân sách nhà nước từ nguồn kinh phí chi thường xuyên và Nghị định số 159/2018/NĐ-CP ngày 28 tháng 11 năm 2018 của Chính phủ về quản lý hoạt động nạo vét trong vùng nước cảng biển và vùng nước đường thủy nội địa.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:135819:part:1:article:5",
+                "number": "5",
+                "title": "Nguồn thu phí bảo đảm hàng hải Phí bảo đảm hàng hải thuộc nguồn thu của ngân sách nhà nước bao gồm:",
+                "content": "Điều 5. Nguồn thu phí bảo đảm hàng hải Phí bảo đảm hàng hải thuộc nguồn thu của ngân sách nhà nước bao gồm:",
+                "clauses": [
+                  {
+                    "clause_id": "doc:135819:part:1:article:5:clause:1",
+                    "number": "1",
+                    "content": "1. Phí bảo đảm hàng hải thu được từ\ncác luồng hàng hải công cộng do Nhà nước đầu tư.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:135819:part:1:article:5:clause:2",
+                    "number": "2",
+                    "content": "2. Phần phí bảo đảm hàng hải trích nộp\nngân sách nhà nước thu được từ các luồng hàng hải chuyên dùng theo quy định tại điểm a khoản 2 Điều 8 Thông tư này.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:135819:part:1:chapter:2",
+            "number": "II",
+            "title": "CHẾ ĐỘ KÊ KHAI, THU, NỘP, QUẢN LÝ VÀ SỬ DỤNG PHÍ BẢO ĐẢM HÀNG HẢI",
+            "content": "Chương II\nCHẾ ĐỘ KÊ KHAI,\nTHU, NỘP, QUẢN LÝ VÀ SỬ DỤNG PHÍ BẢO ĐẢM HÀNG HẢI",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:135819:part:1:article:6",
+                "number": "6",
+                "title": "Mức thu phí bảo đảm hàng hải Mức thu phí bảo đảm hàng hải thực hiện theo Thông tư số 261/2016/TT-BTC ngày 14 tháng 11 năm 2016 của Bộ trưởng Bộ Tài chính quy định về phí, lệ phí hàng hải và biểu mức thu phí, lệ phí hàng hải.",
+                "content": "Điều 6. Mức thu phí bảo đảm hàng hải Mức thu phí bảo đảm hàng hải thực hiện theo Thông tư số 261/2016/TT-BTC ngày 14 tháng 11 năm 2016 của Bộ trưởng Bộ Tài chính quy định về phí, lệ phí hàng hải và biểu mức thu phí, lệ phí hàng hải.",
+                "clauses": [],
+                "points": []
+              },
+              {
+                "article_id": "doc:135819:part:1:article:7",
+                "number": "7",
+                "title": "Kê khai, nộp phí bảo đảm hàng hải của tổ chức thu",
+                "content": "Điều 7. Kê khai, nộp phí bảo đảm hàng hải của tổ chức thu",
+                "clauses": [
+                  {
+                    "clause_id": "doc:135819:part:1:article:7:clause:1",
+                    "number": "1",
+                    "content": "1. Đối với số phí bảo đảm hàng hải thực\nhiện nộp ngân sách nhà nước, các cảng vụ hàng hải có trách nhiệm thực hiện kê khai, nộp tiền phí thu được theo tháng, quyết toán năm theo hướng dẫn tại Thông tư số 156/2013/TT-BTC ngày 06 tháng 11 năm 2013 của Bộ trưởng Bộ Tài chính hướng dẫn thi hành một số điều của Luật Quản lý thuế; Luật sửa đổi, bổ sung một số điều của Luật Quản lý thuế và Nghị định số 83/2013/NĐ-CP ngày 22 tháng 07 năm 2013 của Chính phủ quy định chi tiết thi hành một số điều của Luật Quản lý thuế và Luật sửa đổi, bổ sung một số điều của Luật Quản lý thuế.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:135819:part:1:article:7:clause:2",
+                    "number": "2",
+                    "content": "2. Đối với phí bảo đảm hàng hải được\nquy định tại điểm b khoản 2 Điều 8 Thông tư này, trong vòng 10 ngày làm việc đầu tiên của tháng tiếp theo, các cảng vụ hàng hải có trách nhiệm xác định số tiền doanh nghiệp được hưởng của tháng trước và thực hiện chuyển tiền cho đơn vị. Nguồn thu phí này đã bao gồm thuế giá trị gia tăng. Khi nhận tiền, các doanh nghiệp thực hiện xuất hóa đơn giá trị gia tăng cho các cảng vụ hàng hải, thực hiện việc kê khai, nộp thuế giá trị gia tăng theo quy định. Các cảng vụ hàng hải không thực hiện kê khai, khấu trừ thuế giá trị gia tăng.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:135819:part:1:article:8",
+                "number": "8",
+                "title": "Quản lý và sử dụng phí bảo đảm hàng hải",
+                "content": "Điều 8. Quản lý và sử dụng phí bảo đảm hàng hải",
+                "clauses": [
+                  {
+                    "clause_id": "doc:135819:part:1:article:8:clause:1",
+                    "number": "1",
+                    "content": "1. Các cảng vụ hàng hải khu vực thực\nhiện thu phí bảo đảm hàng hải tại luồng hàng hải công cộng do nhà nước đầu tư và được để lại tỷ lệ phần trăm (%) trên tổng số tiền phí thu được để chi cho hoạt động thu phí theo quy định tại Điều 5 Nghị định số 120/2016/NĐ-CP ngày 23 tháng 8 năm 2016 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật phí và lệ phí. Tỷ lệ để lại phí bảo đảm hàng hải cho các cảng vụ hàng hải được xác định theo phụ lục đính kèm. Phí bảo đảm hàng hải thu được sau khi trừ số tiền phí để lại theo quy định, các cảng vụ hàng hải thực hiện kê khai, nộp vào ngân sách Trung ương và hạch toán vào tiểu mục và chương tương ứng.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:135819:part:1:article:8:clause:2",
+                    "number": "2",
+                    "content": "2. Các cảng vụ hàng hải khu vực thực\nhiện thu phí bảo đảm hàng hải tại luồng hàng hải chuyên dùng do doanh nghiệp đầu tư, khai thác và được để lại 2% trên tổng số tiền thu phí để chi cho hoạt động thu phí theo quy định tại Điều 5 Nghị định số 120/2016/NĐ-CP ngày 23 tháng 8 năm 2016 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật phí và lệ phí. Phí bảo đảm hàng hải thu được hàng năm tại luồng hàng hải chuyên dùng sau khi trừ số tiền phí để lại tại cảng vụ hàng hải được sử dụng như sau:",
+                    "points": [
+                      {
+                        "point_id": "doc:135819:part:1:article:8:clause:2:point:1",
+                        "label": "a",
+                        "content": "a) Thực hiện trích 30% để nộp vào\nngân sách nhà nước;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:135819:part:1:article:8:clause:2:point:2",
+                        "label": "b",
+                        "content": "b) Doanh nghiệp đầu tư, khai thác luồng\nhàng hải chuyên dùng được hưởng 70% số tiền để bù đắp chi phí đầu tư, khai thác và vận hành luồng hàng hải chuyên dùng đảm bảo chuẩn tắc theo quy định.",
+                        "children": []
+                      }
+                    ]
+                  }
+                ],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:135819:part:1:chapter:3",
+            "number": "III",
+            "title": "LẬP, PHÂN BỔ VÀ GIAO DỰ TOÁN THU PHÍ BẢO ĐẢM HÀNG HẢI",
+            "content": "Chương III\nLẬP, PHÂN BỔ VÀ\nGIAO DỰ TOÁN THU PHÍ BẢO ĐẢM HÀNG HẢI",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:135819:part:1:article:9",
+                "number": "9",
+                "title": "Lập, phân bổ và giao dự toán thu phí bảo đảm hàng hải",
+                "content": "Điều 9. Lập, phân bổ và giao dự toán thu phí bảo đảm hàng hải",
+                "clauses": [
+                  {
+                    "clause_id": "doc:135819:part:1:article:9:clause:1",
+                    "number": "1",
+                    "content": "1. Lập dự toán thu:",
+                    "points": [
+                      {
+                        "point_id": "doc:135819:part:1:article:9:clause:1:point:1",
+                        "label": "a",
+                        "content": "a) Hàng năm, căn cứ vào số kiểm tra dự\ntoán thu phí bảo đảm hàng hải do Bộ Tài chính thông báo cho Bộ Giao thông vận tải; Bộ Giao thông vận tải thông báo cho Cục Hàng hải Việt Nam.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:135819:part:1:article:9:clause:1:point:2",
+                        "label": "b",
+                        "content": "b) Cục Hàng hải Việt Nam lập dự toán\nthu phí bảo đảm hàng hải gửi Bộ Giao thông vận tải xem xét, tổng hợp chung trong dự toán ngân sách nhà nước của Bộ Giao thông vận tải để gửi Bộ Tài chính tổng hợp theo quy định của Luật ngân sách nhà nước và các văn bản hướng dẫn.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:135819:part:1:article:9:clause:2",
+                    "number": "2",
+                    "content": "2. Phân bổ và giao dự toán thu:\nCăn cứ dự toán thu phí bảo đảm hàng hải hàng năm được cấp có thẩm quyền giao, trước ngày 31 tháng 12, Bộ Giao thông vận tải phân bổ và giao dự toán thu phí bảo đảm hàng hải cho các cảng vụ hàng hải; đồng thời gửi Bộ Tài chính, Cục Hàng hải Việt Nam và Kho bạc Nhà nước.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:135819:part:1:article:10",
+                "number": "10",
+                "title": "Tổng hợp, quyết toán nguồn thu phí bảo đảm hàng hải Kết thúc năm tài chính, các cảng vụ hàng hải tổng hợp số thu, nộp phí bảo đảm hàng hải trong báo cáo quyết toán năm gửi Cục Hàng hải Việt Nam; Cục Hàng hải Việt Nam xét duyệt và tổng hợp, báo cáo Bộ Giao thông vận tải để tổng hợp số thu ngân sách nhà nước của Bộ Giao thông vận tải hàng năm theo quy định hiện hành.",
+                "content": "Điều 10. Tổng hợp, quyết toán nguồn thu phí bảo đảm hàng hải Kết thúc năm tài chính, các cảng vụ hàng hải tổng hợp số thu, nộp phí bảo đảm hàng hải trong báo cáo quyết toán năm gửi Cục Hàng hải Việt Nam; Cục Hàng hải Việt Nam xét duyệt và tổng hợp, báo cáo Bộ Giao thông vận tải để tổng hợp số thu ngân sách nhà nước của Bộ Giao thông vận tải hàng năm theo quy định hiện hành.",
+                "clauses": [],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:135819:part:1:chapter:4",
+            "number": "IV",
+            "title": "CƠ CHẾ TÀI CHÍNH THỰC HIỆN NHIỆM VỤ CUNG ỨNG DỊCH VỤ SỰ NGHIỆP CÔNG BẢO ĐẢM AN TOÀN HÀNG HẢI",
+            "content": "Chương IV\nCƠ CHẾ TÀI CHÍNH\nTHỰC HIỆN NHIỆM VỤ CUNG ỨNG DỊCH VỤ SỰ NGHIỆP CÔNG BẢO ĐẢM AN TOÀN HÀNG HẢI",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:135819:part:1:article:11",
+                "number": "11",
+                "title": "Nguồn kinh phí để thực hiện nhiệm vụ cung ứng dịch vụ sự nghiệp công bảo đảm an toàn hàng hải Căn cứ nguồn thu phí bảo đảm hàng hải và khả năng cân đối của ngân sách nhà nước, nguồn kinh phí để thực hiện nhiệm vụ cung ứng dịch vụ sự nghiệp công bảo đảm an toàn hàng hải được bố trí từ ngân sách trung ương hàng năm.",
+                "content": "Điều 11. Nguồn kinh phí để thực hiện nhiệm vụ cung ứng dịch vụ sự nghiệp công bảo đảm an toàn hàng hải Căn cứ nguồn thu phí bảo đảm hàng hải và khả năng cân đối của ngân sách nhà nước, nguồn kinh phí để thực hiện nhiệm vụ cung ứng dịch vụ sự nghiệp công bảo đảm an toàn hàng hải được bố trí từ ngân sách trung ương hàng năm.",
+                "clauses": [],
+                "points": []
+              },
+              {
+                "article_id": "doc:135819:part:1:article:12",
+                "number": "12",
+                "title": "Lập, phân bổ và giao dự toán chi cung ứng dịch vụ sự nghiệp công bảo đảm an toàn hàng hải",
+                "content": "Điều 12. Lập, phân bổ và giao dự toán chi cung ứng dịch vụ sự nghiệp công bảo đảm an toàn hàng hải",
+                "clauses": [
+                  {
+                    "clause_id": "doc:135819:part:1:article:12:clause:1",
+                    "number": "1",
+                    "content": "1. Lập dự toán",
+                    "points": [
+                      {
+                        "point_id": "doc:135819:part:1:article:12:clause:1:point:1",
+                        "label": "a",
+                        "content": "a) Căn cứ vào khối lượng dịch vụ sự\nnghiệp công quy định tại Điều 3 Thông tư này, giá dịch vụ sự nghiệp công bảo đảm an toàn hàng hải năm trước, dự kiến biến động các yếu tố chi phí đầu vào, các Tổng công ty Bảo đảm an toàn hàng hải lập nhu cầu kinh phí cung ứng dịch vụ sự nghiệp công bảo đảm an toàn hàng hải gửi Cục Hàng hải Việt Nam.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:135819:part:1:article:12:clause:1:point:2",
+                        "label": "b",
+                        "content": "b) Trên cơ sở đề xuất của các Tổng\ncông ty Bảo đảm an toàn hàng hải nêu tại điểm a khoản 1 Điều này, Cục Hàng hải Việt Nam lập dự toán chi ngân sách nhà nước cung ứng dịch vụ sự nghiệp công bảo đảm an toàn hàng hải năm tiếp theo gửi Bộ Giao thông vận tải trước ngày 15 tháng 07 hàng năm. Bộ Giao thông vận tải xem xét, tổng hợp chung trong dự toán chi ngân sách nhà nước của Bộ Giao thông vận tải gửi Bộ Tài chính tổng hợp theo quy định của Luật ngân sách nhà nước.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:135819:part:1:article:12:clause:2",
+                    "number": "2",
+                    "content": "2. Phân bổ và giao dự toán\nTrước ngày 31 tháng 12, Bộ Giao thông vận tải thực hiện phân bổ và giao dự toán chi cung ứng dịch vụ sự nghiệp công bảo đảm an toàn hàng hải cho Cục Hàng hải Việt Nam, đồng thời gửi Bộ Tài chính, Kho bạc Nhà nước nơi Cục Hàng hải Việt Nam mở tài khoản giao dịch để phối hợp thực hiện.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:135819:part:1:article:13",
+                "number": "13",
+                "title": "Tạm ứng, thanh toán kinh phí cung ứng dịch vụ sự nghiệp công bảo đảm an toàn hàng hải",
+                "content": "Điều 13. Tạm ứng, thanh toán kinh phí cung ứng dịch vụ sự nghiệp công bảo đảm an toàn hàng hải\n1. Đối với dịch vụ sự nghiệp công bảo\nđảm an toàn hàng hải thực hiện theo phương thức đặt hàng\na) Căn cứ dự toán chi ngân sách nhà\nnước do Bộ Giao thông vận tải giao, đơn giá dịch vụ sự nghiệp công bảo đảm an toàn hàng hải năm trước đã được duyệt, trước ngày 31 tháng 12, Cục Hàng hải Việt Nam thực hiện ký hợp đồng cung ứng dịch vụ sự nghiệp công bảo đảm an toàn hàng hải với các Tổng công ty Bảo đảm an toàn hàng hải và các đơn vị cung ứng dịch vụ. Hợp đồng cung ứng dịch vụ sự nghiệp công bảo đảm an toàn hàng hải bao gồm các nội dung chủ yếu sau: Tên sản phẩm, dịch vụ công; số lượng, khối lượng, chất lượng thực hiện; giá, đơn giá, giá trị hợp đồng; thời gian hoàn thành; phương thức nghiệm thu, tạm ứng, thanh toán; quyền, nghĩa vụ của các bên.\nb) Cục Hàng hải Việt Nam thực hiện\nrút dự toán tại Kho bạc Nhà nước để tạm ứng, thanh toán cho các Tổng công ty Bảo đảm an toàn hàng hải và các đơn vị cung ứng dịch vụ theo hợp đồng đã ký. Kho bạc Nhà nước nơi Cục Hàng hải Việt Nam giao dịch kiểm tra hồ sơ, thực hiện kiểm soát chi trước khi tạm ứng, thanh toán theo hợp đồng.\nc) Tạm ứng kinh phí cung ứng dịch vụ\nsự nghiệp công bảo đảm an toàn hàng hải. Mức tạm ứng cho Tổng công ty Bảo đảm an toàn hàng hải và các đơn vị cung ứng dịch vụ sự nghiệp công bảo đảm an toàn hàng hải thực hiện theo quy định của hợp đồng nhưng không vượt quá 50% giá trị hợp đồng tại thời điểm ký kết và không vượt dự toán giao hàng năm. Việc thu hồi số tiền tạm ứng bắt đầu từ lần thanh toán đầu tiên và thu hồi hết số tiền tạm ứng khi thanh toán cuối cùng của năm kế hoạch.\nd) Thanh toán kinh phí cung ứng dịch\nvụ sự nghiệp công bảo đảm an toàn hàng hải. Định kỳ hoặc sau khi nghiệm thu cung ứng dịch vụ sự nghiệp công bảo đảm an toàn hàng hải, Cục Hàng hải Việt Nam thực hiện thanh toán giá trị khối lượng hoàn thành cho Tổng công ty Bảo đảm an toàn hàng hải và các đơn vị cung ứng dịch vụ theo quy định.\n2. Đối với dịch vụ sự nghiệp công bảo\nđảm an toàn hàng hải thực hiện theo phương thức đấu thầu\na) Căn cứ dự toán chi ngân sách nhà\nnước do Bộ Giao thông vận tải giao, Cục Hàng hải Việt Nam thực hiện theo quy định của pháp luật về xây dựng và bảo trì công trình xây dựng để tổ chức lựa chọn và ký hợp đồng với các nhà thầu.\nb) Cục Hàng hải Việt Nam thực hiện\nrút dự toán tại Kho bạc Nhà nước để tạm ứng, thanh toán cho các nhà thầu theo hợp đồng đã ký. Kho bạc Nhà nước nơi Cục Hàng hải Việt Nam giao dịch kiểm tra hồ sơ, thực hiện kiểm soát chi trước khi tạm ứng, thanh toán theo hợp đồng.\nc) Tạm ứng kinh phí cung ứng dịch vụ\nsự nghiệp công bảo đảm an toàn hàng hải. Mức tạm ứng cho các đơn vị cung ứng dịch vụ thực hiện theo quy định của hợp đồng nhưng không vượt quá 50% giá trị hợp đồng tại thời điểm ký kết và không vượt dự toán giao hàng năm. Việc thu hồi số tiền tạm ứng bắt đầu từ lần thanh toán đầu tiên và thu hồi hết số tiền tạm ứng khi thanh toán cuối cùng của năm kế hoạch.\nd) Thanh toán kinh phí cung ứng dịch\nvụ sự nghiệp công bảo đảm an toàn hàng hải. Khi nghiệm thu hoàn thành hạng mục công trình, công trình xây dựng đưa vào sử dụng, Cục Hàng hải Việt Nam thực hiện thanh toán giá trị khối lượng hoàn thành cho các đơn vị cung ứng dịch vụ theo quy định.\n3. Hồ sơ tạm ứng, thanh toán thực hiện\ntheo quy định tại Thông tư số 161/2012/TT-BTC ngày 02 tháng 10 năm 2012 của Bộ trưởng Bộ Tài chính quy định chế độ kiểm soát, thanh toán các khoản chi ngân sách nhà nước qua Kho bạc Nhà nước; Thông tư số 39/2016/TT-BTC ngày 01 tháng 3 năm 2016 của Bộ trưởng Bộ Tài chính sửa đổi, bổ sung một số điều của Thông tư số 161/2012/TT-BTC , cụ thể như sau:\na) Hồ sơ tạm ứng gồm:\n- Quyết định giao dự toán chi ngân sách nhà nước của Bộ Giao thông vận tải cho Cục Hàng hải Việt Nam; - Hợp đồng giữa Cục Hàng hải Việt Nam với đơn vị cung ứng dịch vụ; - Giấy đề nghị tạm ứng (nếu có); - Giấy rút dự toán ngân sách nhà nước (tạm ứng) của Cục Hàng hải việt Nam, trong đó ghi rõ nội dung tạm ứng để Kho bạc Nhà nước có căn cứ kiểm soát và theo dõi khi thanh toán.\nb) Hồ sơ thanh toán gồm:\n- Quyết định giao dự toán chi ngân sách nhà nước của Bộ Giao thông vận tải cho Cục Hàng hải Việt Nam; - Hợp đồng giữa Cục Hàng hải Việt Nam với đơn vị cung ứng dịch vụ; - Biên bản nghiệm thu xác nhận khối lượng, chất lượng hoàn thành; - Bảng xác định giá trị khối lượng công việc hoàn thành theo Hợp đồng đề nghị thanh toán; - Giấy đề nghị thanh toán (nếu có); - Giấy rút dự toán ngân sách nhà nước của Cục Hàng hải Việt Nam, trong đó ghi rõ nội dung để Kho bạc Nhà nước có căn cứ kiểm soát và theo dõi khi thanh toán.",
+                "clauses": [],
+                "points": []
+              },
+              {
+                "article_id": "doc:135819:part:1:article:14",
+                "number": "14",
+                "title": "Kiểm tra, quyết toán nhiệm vụ cung ứng dịch vụ sự nghiệp công bảo đảm an toàn hàng hải",
+                "content": "Điều 14. Kiểm tra, quyết toán nhiệm vụ cung ứng dịch vụ sự nghiệp công bảo đảm an toàn hàng hải",
+                "clauses": [
+                  {
+                    "clause_id": "doc:135819:part:1:article:14:clause:1",
+                    "number": "1",
+                    "content": "1. Hàng năm, các Tổng công ty Bảo đảm\nan toàn hàng hải và các đơn vị cung ứng dịch vụ sự nghiệp công bảo đảm an toàn hàng hải lập báo cáo quyết toán thực hiện nhiệm vụ cung ứng dịch vụ sự nghiệp công bảo đảm an toàn hàng hải gửi Cục Hàng hải Việt Nam, Bộ Giao thông vận tải, Bộ Tài chính.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:135819:part:1:article:14:clause:2",
+                    "number": "2",
+                    "content": "2. Cục Hàng hải Việt Nam chủ trì, phối\nhợp với các cơ quan, đơn vị có liên quan của Bộ Giao thông vận tải tổ chức kiểm tra báo cáo quyết toán thực hiện cung ứng dịch vụ sự nghiệp công của các Tổng công ty Bảo đảm an toàn hàng hải và các đơn vị cung ứng dịch vụ sự nghiệp công bảo đảm an toàn hàng hải.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:135819:part:1:article:14:clause:3",
+                    "number": "3",
+                    "content": "3. Bộ Giao thông vận tải chỉ đạo Cục\nHàng hải Việt Nam lập báo cáo quyết toán nguồn kinh phí chi cung ứng dịch vụ sự nghiệp công bảo đảm an toàn hàng hải theo quy định của Luật ngân sách nhà nước; tổng hợp chung trong báo cáo quyết toán của Cục Hàng hải Việt Nam, gửi Bộ Giao thông vận tải thẩm định và tổng hợp chung trong quyết toán của Bộ Giao thông vận tải, gửi Bộ Tài chính thẩm định theo quy định của Luật ngân sách nhà nước.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:135819:part:1:article:14:clause:4",
+                    "number": "4",
+                    "content": "4. Các tổ chức, cá nhân có liên quan\nphải chịu trách nhiệm trước Nhà nước và pháp luật về tính chính xác, trung thực của số liệu báo cáo quyết toán và chịu trách nhiệm bồi hoàn khi thực hiện quyết toán dịch vụ sự nghiệp công bảo đảm an toàn hàng hải được giao không đúng quy định.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:135819:part:1:chapter:5",
+            "number": "V",
+            "title": "TỔ CHỨC THỰC HIỆN",
+            "content": "Chương V\nTỔ CHỨC THỰC HIỆN",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:135819:part:1:article:15",
+                "number": "15",
+                "title": "Điều khoản thi hành",
+                "content": "Điều 15. Điều khoản thi hành",
+                "clauses": [
+                  {
+                    "clause_id": "doc:135819:part:1:article:15:clause:1",
+                    "number": "1",
+                    "content": "1. Thông tư này có hiệu lực thi hành\nkể từ ngày 01 tháng 01 năm 2020 và áp dụng từ năm tài chính 2020.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:135819:part:1:article:15:clause:2",
+                    "number": "2",
+                    "content": "2. Thông tư này thay thế Thông tư số\n14/2017/TT-BTC ngày 15 tháng 02 năm 2017 của Bộ trưởng Bộ Tài chính hướng dẫn quản lý, sử dụng phí bảo đảm hàng hải thuộc nguồn thu ngân sách nhà nước và cơ chế tài chính trong lĩnh vực cung ứng dịch vụ công ích bảo đảm an toàn hàng hải và Thông tư số 262/2016/TT-BTC ngày 14 tháng 11 năm 2016 của Bộ trưởng Bộ Tài chính quy định chế độ thu, nộp phí bảo đảm hàng hải đối với luồng hàng hải chuyên dùng.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:135819:part:1:article:15:clause:3",
+                    "number": "3",
+                    "content": "3. Việc quản lý, sử dụng phí bảo đảm\nhàng hải thu trên tuyến luồng Soài Rạp được tiếp tục thực hiện cơ chế thí điểm theo chỉ đạo của Thủ tướng Chính phủ và hướng dẫn của Bộ Tài chính.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:135819:part:1:article:15:clause:4",
+                    "number": "4",
+                    "content": "4. Trong quá trình thực hiện, trường\nhợp văn bản quy phạm pháp luật được dẫn chiếu trong Thông tư này sửa đổi, bổ sung hoặc thay thế thì áp dụng theo các văn bản quy phạm pháp luật được sửa đổi, bổ sung, thay thế.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:135819:part:1:article:15:clause:5",
+                    "number": "5",
+                    "content": "5. Trong quá trình thực hiện, nếu có\nvướng mắc đề nghị Bộ Giao thông vận tải và các đơn vị phản ánh về Bộ Tài chính để xem xét, giải quyết./.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          }
+        ],
+        "sections": [],
+        "articles": [],
+        "unstructured_blocks": []
+      },
+      {
+        "part_id": "doc:135819:part:2",
+        "part_type": "appendix",
+        "part_title": "PHỤ LỤC",
+        "reference": null,
+        "direct_text": null,
+        "chapters": [],
+        "sections": [],
+        "articles": [],
+        "unstructured_blocks": [
+          {
+            "block_id": "doc:135819:part:2:block:1",
+            "content": "PHỤ LỤC\nTỶ LỆ PHÍ BẢO ĐẢM HÀNG HẢI ĐƯỢC ĐỂ LẠI CHO\nCÁC CẢNG VỤ HÀNG HẢI ĐỂ CHI CHO CÔNG TÁC THU PHÍ\n(Ban hành kèm theo Thông tư số 63/2019/TT-BTC ngày 09/9/2019 của Bộ trưởng Bộ Tài chính\nTT\nTên đơn vị Tỷ lệ để lại 1 Cảng vụ HH Quảng Ninh 0,70% 2 Cảng vụ HH Hải Phòng 0,50% 3 Cảng vụ HH Thái Bình 3,50% 4 Cảng vụ HH Nam Định 4,00% 5 Cảng vụ HH Thanh Hóa 1,50% 6 Cảng vụ HH Nghệ An 2,50% 7 Cảng vụ HH Hà Tĩnh 2,50% 8 Cảng vụ HH Quảng Bình 3,00% 9 Cảng vụ HH Quảng Trị 3,50% 10 Cảng vụ HH TT Huế 3,00% 11 Cảng vụ HH Đà Nẵng 1,00% 12 Cảng vụ HH Quảng Nam 3,00% 13 Cảng vụ HH Quảng Ngãi 1,50% 14 Cảng vụ HH Quy Nhơn 1,50% 15 Cảng vụ HH Nha Trang 1,50% 16 Cảng vụ HH Đồng Nai 1,50% 17 Cảng vụ HH Bình Thuận 1,50% 18 Cảng vụ HH Vũng Tàu 0,50% 19 Cảng vụ HH TP. HCM 0,50% 20 Cảng vụ HH Mỹ Tho 3,50% 21 Cảng vụ HH An Giang 3,50% 22 Cảng vụ HH Đồng Tháp 4,00% 23 Cảng vụ HH Cần Thơ 2,50% 24 Cảng vụ HH Kiên Giang 3,50% 25 Cảng vụ HH Cà Mau 4,00%",
+            "indexable": true
+          }
+        ]
+      }
+    ]
+  },
+  "issues": [],
+  "status": "ok",
+  "source_hash": "context_135819.json",
+  "stats": {
+    "source_chars": 19477,
+    "passage_chars": 19324,
+    "parts": 2,
+    "chapters": 5,
+    "sections": 0,
+    "articles": 15,
+    "clauses": 33,
+    "points": 6
+  }
+}

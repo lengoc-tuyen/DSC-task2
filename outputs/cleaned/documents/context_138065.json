@@ -1,0 +1,647 @@
+{
+  "schema_version": "2.0",
+  "document_id": 138065,
+  "metadata": {
+    "name": "Thong-tu-185-2019-TT-BQP-quan-ly-su-dung-dich-vu-chung-thuc-chu-ky-so-chuyen-dung-Chinh-phu-430756",
+    "link": "https://thuvienphapluat.vn/van-ban/Cong-nghe-thong-tin/Thong-tu-185-2019-TT-BQP-quan-ly-su-dung-dich-vu-chung-thuc-chu-ky-so-chuyen-dung-Chinh-phu-430756.aspx",
+    "issuing_agency": "BỘ QUỐC PHÒNG",
+    "national_header": "CỘNG HÒA XÃ HỘI\r\n\n  CHỦ NGHĨA VIỆT NAM",
+    "motto": "Độc lập - Tự do - Hạnh phúc",
+    "document_number": "185/2019/TT-BQP",
+    "issued_place": "Hà Nội",
+    "issued_date": "ngày 04\r\n\n  tháng 12 năm 2019",
+    "document_type": "THÔNG TƯ",
+    "title": "HƯỚNG DẪN VIỆC CUNG CẤP, QUẢN LÝ, SỬ DỤNG DỊCH VỤ CHỨNG THỰC CHỮ KÝ SỐ CHUYÊN DÙNG CHÍNH PHỦ"
+  },
+  "administrative_header": {
+    "removed": true,
+    "removed_char_count": 154
+  },
+  "preamble": {
+    "text": "THÔNG TƯ HƯỚNG\nDẪN VIỆC CUNG CẤP, QUẢN LÝ, SỬ DỤNG DỊCH VỤ CHỨNG THỰC CHỮ KÝ SỐ CHUYÊN DÙNG CHÍNH\nPHỦ\nCăn cứ Luật Cơ yếu ngày 26 tháng 11 năm 2011; Căn cứ Nghị định số 164/2017/NĐ-CP ngày 30 tháng 12 năm 2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Quốc phòng; Căn cứ Nghị định số 09/2014/NĐ-CP ngày 17 tháng 01 năm 2014 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Ban Cơ yếu Chính phủ; Căn cứ Nghị định số 130/2018/NĐ-CP ngày 27 tháng 9 năm 2018 của Chính phủ quy định chi tiết thi hành Luật Giao dịch điện tử về chữ ký số và dịch vụ chứng thực chữ ký số; Theo đề nghị của Trưởng ban Ban Cơ yếu Chính phủ, Bộ trưởng Bộ Quốc phòng ban hành Thông tư hướng dẫn việc cung cấp, quản lý, sử dụng dịch vụ chứng thực chữ ký số chuyên dùng Chính phủ.\nChương I\nQUY ĐỊNH CHUNG",
+    "legal_bases": [
+      "Căn cứ Nghị định số 164/2017/NĐ-CP ngày 30 tháng 12 năm 2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Quốc phòng",
+      "Căn cứ Nghị định số 09/2014/NĐ-CP ngày 17 tháng 01 năm 2014 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Ban Cơ yếu Chính phủ",
+      "Căn cứ Nghị định số 130/2018/NĐ-CP ngày 27 tháng 9 năm 2018 của Chính phủ quy định chi tiết thi hành Luật Giao dịch điện tử về chữ ký số và dịch vụ chứng thực chữ ký số"
+    ],
+    "proposals": [
+      "Theo đề nghị của Trưởng ban Ban Cơ yếu Chính phủ, Bộ trưởng Bộ Quốc phòng ban hành Thông tư hướng dẫn việc cung cấp, quản lý, sử dụng dịch vụ chứng thực chữ ký số chuyên dùng Chính phủ.\nChương I\nQUY ĐỊNH CHUNG"
+    ],
+    "enactment_formula": null
+  },
+  "passage": "THÔNG TƯ HƯỚNG\nDẪN VIỆC CUNG CẤP, QUẢN LÝ, SỬ DỤNG DỊCH VỤ CHỨNG THỰC CHỮ KÝ SỐ CHUYÊN DÙNG CHÍNH\nPHỦ\nCăn cứ Luật Cơ yếu ngày 26 tháng 11 năm 2011; Căn cứ Nghị định số 164/2017/NĐ-CP ngày 30 tháng 12 năm 2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Quốc phòng; Căn cứ Nghị định số 09/2014/NĐ-CP ngày 17 tháng 01 năm 2014 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Ban Cơ yếu Chính phủ; Căn cứ Nghị định số 130/2018/NĐ-CP ngày 27 tháng 9 năm 2018 của Chính phủ quy định chi tiết thi hành Luật Giao dịch điện tử về chữ ký số và dịch vụ chứng thực chữ ký số; Theo đề nghị của Trưởng ban Ban Cơ yếu Chính phủ, Bộ trưởng Bộ Quốc phòng ban hành Thông tư hướng dẫn việc cung cấp, quản lý, sử dụng dịch vụ chứng thực chữ ký số chuyên dùng Chính phủ.\nChương I\nQUY ĐỊNH CHUNG\nĐiều 1. Phạm vi điều chỉnh Thông tư này hướng dẫn việc cung cấp, quản lý, sử dụng dịch vụ chứng thực chữ ký số chuyên dùng Chính phủ.\nĐiều 2. Đối tượng áp dụng Thông tư này áp dụng đối với các cơ quan, tổ chức, cá nhân có liên quan đến hoạt động cung cấp, quản lý, sử dụng dịch vụ chứng thực chữ ký số chuyên dùng Chính phủ.\nĐiều 3. Giải thích từ ngữ Trong Thông tư này các từ ngữ dưới đây được hiểu như sau:\n1. “Cơ quan, tổ chức quản lý trực tiếp” là cơ quan,\ntổ chức có tư cách pháp nhân, có con dấu riêng thuộc các cơ quan Đảng, Nhà nước trực tiếp quản lý thuê bao sử dụng dịch vụ chứng thực chữ ký số chuyên dùng Chính phủ.\n2. “Yêu cầu chứng thực” là các yêu cầu cấp mới, gia\nhạn, thay đổi nội dung thông tin, thu hồi chứng thư số và khôi phục thiết bị lưu khóa bí mật.\n3. “Hệ thống thông tin đăng ký, quản lý yêu cầu chứng\nthực” là hệ thống điện tử hỗ trợ đăng ký, quản lý dịch vụ chứng thực chữ ký số chuyên dùng Chính phủ trên môi trường mạng.\nĐiều 4. Tổ chức cung cấp dịch vụ chứng thực chữ ký số chuyên dùng Chính phủ\n1. Tổ chức cung cấp dịch vụ chứng thực chữ ký số\nchuyên dùng Chính phủ là Cục Chứng thực số và Bảo mật thông tin trực thuộc Ban Cơ yếu Chính phủ.\n2. Thông tin liên hệ:\nCục Chứng thực số và Bảo mật thông tin. Địa chỉ: Số 23 Ngụy Như Kon Tum, Thanh Xuân, Hà Nội Điện thoại/Fax: 024.3773.8668 Địa chỉ thư điện tử: ca@bcy.gov.vn Trang thông tin điện tử: http://ca.gov.vn Mã định danh trao đổi văn bản điện tử:\n000.05.07.G11\nĐiều 5. Gửi, nhận văn bản yêu cầu chứng thực\n1. Gửi, nhận văn bản yêu cầu chứng thực giữa cơ\nquan, tổ chức quản lý trực tiếp và Cục Chứng thực số và Bảo mật thông tin được thực hiện bằng văn bản giấy hoặc văn bản điện tử có ký số theo quy định của pháp luật.\n2. Gửi, nhận văn bản điện tử yêu cầu chứng thực giữa\ncơ quan, tổ chức quản lý trực tiếp và Cục Chứng thực số và Bảo mật thông tin được thực hiện trên Hệ thống thông tin đăng ký, quản lý yêu cầu chứng thực hoặc Trục liên thông văn bản quốc gia.\na) Văn bản điện tử yêu cầu chứng thực đã ký số theo\nquy định của pháp luật gửi, nhận qua Hệ thống thông tin đăng ký, quản lý yêu cầu chứng thực hoặc Trục liên thông văn bản quốc gia có giá trị pháp lý tương đương văn bản giấy và thay cho việc gửi, nhận văn bản giấy.\nb) Văn bản điện tử yêu cầu chứng thực không thuộc\nđiểm a khoản 2 Điều này gửi, nhận qua Hệ thống thông tin đăng ký, quản lý yêu cầu chứng thực hoặc Trục liên thông văn bản quốc gia có giá trị để biết, tham khảo, không thay cho việc gửi, nhận văn bản giấy. Trong trường hợp này, cơ quan, tổ chức quản lý trực tiếp phải cung cấp bản chính của văn bản giấy tại thời điểm tiếp nhận chứng thư số, thiết bị lưu khóa bí mật.\nĐiều 6. Gửi, nhận thiết bị lưu khóa bí mật Gửi, nhận thiết bị lưu khóa bí mật giữa thuê bao, cơ quan, tổ chức quản lý trực tiếp, Cục Chứng thực số và Bảo mật thông tin được thực hiện bằng phương thức trực tiếp, thông qua tổ chức cơ yếu hoặc thông qua đơn vị cung cấp dịch vụ bưu chính công ích theo quy định của pháp luật.\nĐiều 7. Gửi, nhận văn bản yêu cầu chứng thực, thiết bị lưu khóa bí mật trong Bộ Quốc phòng, Bộ Công an và Bộ Ngoại giao Việc gửi, nhận văn bản yêu cầu chứng thực, thiết bị lưu khóa bí mật giữa các cơ quan, tổ chức quản lý trực tiếp trong Bộ Quốc phòng, Bộ Công an và Bộ Ngoại giao với Cục Chứng thực số và Bảo mật thông tin thông qua các tổ chức Cơ yếu trực thuộc Bộ Quốc phòng, Bộ Công an và Bộ Ngoại giao.\nChương II\nHƯỚNG DẪN HỒ SƠ, MẪU BIỂU\nCUNG CẤP, QUẢN LÝ DỊCH VỤ CHỨNG THỰC CHỮ KÝ SỐ CHUYÊN DÙNG CHÍNH PHỦ\nĐiều 8. Cấp mới chứng thư số\n1. Cấp mới chứng thư số cho cá nhân:\na) Cá nhân có văn bản đề nghị cấp mới chứng thư số\ntheo Mẫu 01 tại Phụ lục ban hành kèm theo Thông tư này gửi cơ quan, tổ chức quản lý trực tiếp;\nb) Cơ quan, tổ chức quản lý trực tiếp gửi văn bản đề\nnghị cấp mới chứng thư số theo Mẫu 02 tại Phụ lục ban hành kèm theo Thông tư này đến Cục Chứng thực số và Bảo mật thông tin.\n2. Cấp mới chứng thư số cho cơ quan, tổ chức:\na) Người có thẩm quyền của cơ quan, tổ chức theo\nquy định của pháp luật về quản lý và sử dụng con dấu được cơ quan, tổ chức giao quản lý chứng thư số của cơ quan, tổ chức có văn bản đề nghị cấp chứng thư số theo Mẫu 03 tại Phụ lục ban hành kèm theo Thông tư này gửi cơ quan, tổ chức quản lý trực tiếp;\nb) Cơ quan, tổ chức quản lý trực tiếp gửi văn bản đề\nnghị cấp mới chứng thư số theo Mẫu 04 tại Phụ lục ban hành kèm theo Thông tư này đến Cục Chứng thực số và Bảo mật thông tin.\n3. Cấp mới chứng thư số cho thiết bị, dịch vụ, phần\nmềm:\na) Người có thẩm quyền của cơ quan, tổ chức theo\nquy định của pháp luật về quản lý và sử dụng con dấu được cơ quan, tổ chức giao quản lý chứng thư số của thiết bị, dịch vụ, phần mềm có văn bản đề nghị cấp chứng thư số theo Mẫu 05 tại Phụ lục ban hành kèm theo Thông tư này gửi cơ quan, tổ chức quản lý trực tiếp;\nb) Cơ quan, tổ chức quản lý trực tiếp gửi văn bản đề\nnghị cấp mới chứng thư số theo Mẫu 06 tại Phụ lục ban hành kèm theo Thông tư nầy đến Cục Chứng thực số và Bảo mật thông tin.\n4. Sau khi bàn giao thiết bị lưu khóa bí mật cho\nthuê bao, cơ quan, tổ chức quản lý trực tiếp gửi văn bản đề nghị thời điểm có hiệu lực của chứng thư số theo Mẫu 13 tại Phụ lục ban hành kèm theo Thông tư này về Cục Chứng thực số và Bảo mật thông tin.\nĐiều 9. Gia hạn, thay đổi nội dung thông tin chứng thư số\n1. Thuê bao có văn bản đề nghị gia hạn, thay đổi nội\ndung thông tin chứng thư số theo Mẫu 07 tại Phụ lục ban hành kèm theo Thông tư này gửi cơ quan, tổ chức quản lý trực tiếp.\n2. Cơ quan, tổ chức quản lý trực tiếp gửi văn bản đề\nnghị gia hạn, thay đổi nội dung thông tin chứng thư số theo Mẫu 08 tại Phụ lục ban hành kèm theo Thông tư này đến Cục Chứng thực số và Bảo mật thông tin.\nĐiều 10. Thu hồi chứng thư số, thu hồi thiết bị lưu khóa bí mật 1 .Thu hồi chứng thư số:\na) Thuê bao có văn bản đề nghị thu hồi chứng thư số\ntheo Mẫu 09 tại Phụ lục ban hành kèm theo Thông tư này gửi cơ quan, tổ chức quản lý trực tiếp;\nb) Cơ quan, tổ chức quản lý trực tiếp gửi văn bản đề\nnghị thu hồi chứng thư số theo Mẫu 10 tại Phụ lục ban hành kèm theo Thông tư này đến Cục Chứng thực số và Bảo mật thông tin.\n2. Thu hồi thiết bị lưu khóa bí mật:\na) Cơ quan, tổ chức quản lý trực tiếp có trách nhiệm\nthu hồi thiết bị lưu khóa bí mật của chứng thư số hết hạn sử dụng hoặc chứng thư số bị thu hồi, bàn giao cho Cục Chứng thực số và Bảo mật thông tin. Biên bản giao, nhận thiết bị lưu khóa bí mật sau khi chứng thư số hết hạn sử dụng hoặc chứng thư số bị thu hồi theo Mẫu 14 tại Phụ lục ban hành kèm theo Thông tư này;\nb) Trong trường hợp thiết bị lưu khóa bí mật bị thất\nlạc, cơ quan, tổ chức quản lý trực tiếp phải lập biên bản xác nhận theo Mẫu 15 tại Phụ lục ban hành kèm theo Thông tư này gửi ngay về Cục Chứng thực số và Bảo mật thông tin.\nĐiều 11. Khôi phục thiết bị lưu khóa bí mật\n1. Thuê bao có văn bản đề nghị khôi phục thiết bị\nlưu khóa bí mật theo Mẫu 11 tại Phụ lục ban hành kèm theo Thông tư này gửi cơ quan, tổ chức quản lý trực tiếp.\n2. Cơ quan, tổ chức quản lý trực tiếp gửi văn bản đề\nnghị khôi phục thiết bị lưu khóa bí mật theo Mẫu 12 tại Phụ lục ban hành kèm theo Thông tư này đến Cục Chứng thực số và Bảo mật thông tin hoặc tổ chức được Cục Chứng thực số và Bảo mật thông tin ủy quyền.\nChương III\nTRÁCH NHIỆM CỦA CÁC CƠ\nQUAN, TỔ CHỨC VÀ CÁ NHÂN\nĐiều 12. Trách nhiệm của các cơ quan Đảng, Nhà nước\n1. Xây dựng, ban hành quy chế, quy định về quản lý,\nsử dụng dịch vụ chứng thực chữ ký số chuyên dùng Chính phủ trong phạm vi quản lý.\n2. Hằng năm, báo cáo tình hình triển khai, sử dụng\ndịch vụ chứng thực chữ ký số chuyên dùng Chính phủ trong năm và xây dựng kế hoạch, nhu cầu sử dụng của năm kế tiếp cho thuê bao thuộc quyền quản lý theo hướng dẫn của Ban Cơ yếu Chính phủ.\n3. Quản lý, hướng dẫn, kiểm tra các thuê bao trong\nquá trình triển khai, quản lý và sử dụng chứng thư số, thiết bị lưu khóa bí mật, dịch vụ chứng thực chữ ký số chuyên dùng Chính phủ thuộc phạm vi quản lý.\n4. Chủ trì, phối hợp với Cục Chứng thực số và Bảo mật\nthông tin tổ chức tập huấn, huấn luyện triển khai, sử dụng chứng thư số, thiết bị lưu khóa bí mật, dịch vụ chứng thực chữ ký số chuyên dùng Chính phủ.\n5. Người đứng đầu các cơ quan,\ntổ chức: Văn phòng Trung ương Đảng và các ban, cơ quan tham mưu, giúp việc trực thuộc Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam; Hội đồng dân tộc; các Ủy ban của Quốc hội; Văn phòng Quốc hội; Văn phòng Chủ tịch nước; các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ; Viện Kiểm sát nhân dân tối cao; Tòa án nhân dân tối cao; Kiểm toán nhà nước; tỉnh ủy, thành ủy trực thuộc Trung ương; Hội đồng nhân dân, Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương và các tổ chức khác theo quy định của cấp có thẩm quyền chỉ đạo, ủy quyền cho cơ quan chuyên trách trực thuộc tổ chức triển khai thực hiện các nội dung tại các khoản 1, 2, 3, 4 Điều này.\nĐiều 13. Trách nhiệm của Ban Cơ yếu Chính phủ\n1. Giúp Bộ trưởng Bộ Quốc phòng thực hiện quản lý\nnhà nước về dịch vụ chứng thực chữ ký số chuyên dùng Chính phủ; tổ chức thực hiện cung cấp chứng thực chữ ký số, xác thực và an toàn thông tin trong các giao dịch điện tử phục vụ các cơ quan Đảng, Nhà nước.\n2. Phối hợp với các cơ quan Đảng, Nhà nước xây dựng\nquy chế, quy định về quản lý, sử dụng dịch vụ chứng thực chữ ký số chuyên dùng\nChính phủ.\n3. Hướng dẫn, kiểm tra các tổ chức, cá nhân có liên\nquan việc đăng ký, cung cấp, quản lý, sử dụng dịch vụ chứng thực chữ ký số chuyên dùng Chính phủ.\n4. Phối hợp, hỗ trợ các cơ quan liên quan tích hợp\ndịch vụ chứng thực chữ ký số chuyên dùng Chính phủ vào các ứng dụng công nghệ thông tin nhằm đảm bảo an toàn, xác thực và bảo mật thông tin.\n5. Nghiên cứu, ứng dụng các công nghệ liên quan đến\ndịch vụ chứng thực chữ ký số phù hợp với các ứng dụng công nghệ thông tin phục vụ các cơ quan, tổ chức.\n6. Chủ trì, phối hợp với các cơ quan liên quan bố\ntrí, đảm bảo nhân sự, kinh phí và trụ sở làm việc để triển khai các nhiệm vụ, quản lý, duy trì hoạt động, bảo đảm cung cấp chứng thư số, thiết bị lưu khóa bí mật và dịch vụ chứng thực chữ ký số chuyên dùng Chính phủ theo nhu cầu thực tế của các cơ quan Đảng, Nhà nước đảm bảo an toàn, liên tục.\n7. Quản lý, chỉ đạo Cục Chứng thực số và Bảo mật\nthông tin bảo đảm việc cung cấp chứng thư số, thiết bị lưu khóa bí mật, dịch vụ chứng thực chữ ký số chuyên dùng Chính phủ một cách hiệu quả trên cơ sở kế hoạch, nhu cầu của các cơ quan, tổ chức.\n8. Giúp Bộ trưởng Bộ Quốc phòng theo dõi và kiểm\ntra việc thực hiện Thông tư này.\nĐiều 14. Trách nhiệm của Tổ chức cung cấp dịch vụ chứng thực chữ ký số chuyên dùng Chính phủ\n1. Đảm bảo an toàn tuyệt đối khóa bí mật của chứng\nthư số và xử lý các tình huống trong quá trình cung cấp và quản lý chứng thư số.\n2. Quản lý, vận hành hạ tầng kỹ thuật của hệ thống\nchứng thực chữ ký số, đảm bảo việc cung cấp dịch vụ chứng thực chữ ký số được an toàn, liên tục.\n3. Cập nhật, lưu trữ đầy đủ, chính xác thông tin\nyêu cầu chứng thực theo quy định của pháp luật.\n4. Đảm bảo kênh thông tin tiếp nhận các yêu cầu cấp,\ngia hạn, thay đổi nội dung thông tin, thu hồi chứng thư số, khôi phục thiết bị lưu khóa bí mật; cập nhật và duy trì 24 giờ trong ngày và 7 ngày trong tuần các cơ sở dữ liệu trực tuyến về chính sách chứng thư số, các quy định về việc cung cấp, quản lý, sử dụng dịch vụ chứng thực chữ ký số, chứng thư số của Cục Chứng thực số và Bảo mật thông tin, danh sách chứng thư số có hiệu lực, chứng thư số bị thu hồi và những thông tin cần thiết khác.\n5. Quản lý, vận hành, duy trì và tổ chức hướng dẫn\ncác cơ quan, tổ chức sử dụng Hệ thống thông tin đăng ký, quản lý yêu cầu chứng thực.\nĐiều 15. Trách nhiệm của cơ quan, tổ chức quản lý trực tiếp\n1. Căn cứ yêu cầu đảm bảo an toàn, xác thực thông\ntin trong giao dịch điện tử phục vụ nhiệm vụ của cơ quan, tổ chức mình xem xét, xác nhận văn bản và chịu trách nhiệm về tính chính xác của các thông tin đề nghị cấp, gia hạn, thay đổi nội dung thông tin, thu hồi chứng thư số, khôi phục thiết bị lưu khóa bí mật cho tổ chức, cá nhân thuộc quyền quản lý.\n2. Tiếp nhận, bàn giao chứng thư số, thiết bị lưu\nkhóa bí mật cho thuê bao theo quy định.\n3. Thu hồi thiết bị lưu khóa bí mật của các tổ chức,\ncá nhân thuộc quyền bàn giao cho Cục Chứng thực số và Bảo mật thông tin.\n4. Cập nhật, quản lý, lưu trữ hồ sơ đề nghị cấp,\ngia hạn, thay đổi nội dung thông tin, thu hồi chứng thư số, khôi phục thiết bị lưu khóa bí mật của thuê bao thuộc phạm vi quản lý theo quy định của pháp luật.\n5. Kiểm tra việc triển khai, sử dụng chứng thư số,\nthiết bị lưu khóa bí mật, dịch vụ chứng thực chữ ký số chuyên dùng Chính phủ thuộc phạm vi quản lý.\n6. Định kỳ, đột xuất báo cáo về tình hình cung cấp,\nquản lý, sử dụng dịch vụ chứng thực chữ ký sổ chuyên dùng Chính phủ theo yêu cầu của cơ quan có thẩm quyền.\nĐiều 16. Trách nhiệm của các tổ chức Cơ yếu trực thuộc Bộ Quốc phòng, Bộ Công an và Bộ Ngoại giao\n1. Hằng năm, tham mưu giúp người đứng đầu các Bộ chủ\nquản xây dựng kế hoạch, nhu cầu ứng dụng dịch vụ chứng thực chữ ký số chuyên dùng Chính phủ cho thuê bao thuộc quyền quản lý để bảo đảm an toàn và xác thực thông tin trong giao dịch điện tử.\n2. Xây dựng, trình cấp có thẩm quyền ban hành quy\nchế, quy định về quản lý, sử dụng dịch vụ chứng thực chữ ký số chuyên dùng Chính phủ thuộc phạm vi quản lý.\n3. Chịu trách nhiệm về tính chính xác của các thông\ntin đề nghị cấp, gia hạn, thay đổi nội dung thông tin, thu hồi chứng thư số, khôi phục thiết bị lưu khóa bí mật; văn bản đề nghị áp dụng theo các Mẫu 2, 4, 6, 8, 10, 12, 14, 15 tại Phụ lục ban hành kèm theo Thông tư này.\n4. Tiếp nhận chứng thư số, thiết bị lưu khóa bí mật\ntừ Cục Chứng thực số và Bảo mật thông tin bàn giao cho cơ quan, tổ chức quản lý trực tiếp.\n5. Tiếp nhận chứng thư số, thiết bị lưu khóa bí mật\nthu hồi từ cơ quan, tổ chức quản lý trực tiếp bàn giao cho Cục Chứng thực số và Bảo mật thông tin.\n6. Cập nhật, quản lý, lưu trữ hồ sơ đề nghị cấp,\ngia hạn, thay đổi nội dung thông tin, thu hồi chứng thư số, khôi phục thiết bị lưu khóa bí mật của thuê bao thuộc phạm vi quản lý theo quy định của pháp luật.\n7. Chủ trì, phối hợp với Cục Chứng thực số và Bảo mật\nthông tin tổ chức tập huấn, huấn luyện triển khai, sử dụng chứng thư số, thiết bị lưu khóa bí mật, dịch vụ chứng thực chữ ký số chuyên dùng Chính phủ cho các thuê bao trong phạm vi quản lý.\n8. Hướng dẫn, kiểm tra các thuê bao trong quá trình\ntriển khai, quản lý và sử dụng chứng thư số, thiết bị lưu khóa bí mật, dịch vụ chứng thực chữ ký số chuyên dùng Chính phủ.\n9. Phối hợp với Cục Chứng thực số và Bảo mật thông\ntin triển khai tích hợp dịch vụ chứng thực chữ ký số chuyên dùng Chính phủ vào các ứng dụng công nghệ thông tin nhằm đảm bảo an toàn, xác thực và bảo mật thông tin.\n10. Thống kê, kiểm tra, quản lý việc cấp, gia hạn,\nthay đổi nội dung thông tin, thu hồi chứng thư số và khôi phục thiết bị lưu khóa bí mật của các cơ quan, tổ chức trong phạm vi quản lý của Bộ chủ quản và định kỳ 01 năm một lần trước ngày 31 tháng 10 hằng năm hoặc đột xuất báo cáo về Ban Cơ yếu Chính phủ (qua Cục Chứng thực số và Bảo mật thông tin).\nĐiều 17. Trách nhiệm của Thuê bao\n1. Cung cấp các thông tin liên quan đến việc cấp,\ngia hạn, thay đổi nội dung thông tin của chứng thư số chính xác và đầy đủ.\n2. Tiếp nhận chứng thư số, thiết bị lưu khóa bí mật\ntừ cơ quan, tổ chức quản lý trực tiếp theo quy định.\n3. Thông báo kịp thời cho cơ quan, tổ chức quản lý\ntrực tiếp thu hồi chứng thư số theo quy định tại khoản 1 Điều 10 Thông tư này.\n4. Bàn giao thiết bị lưu khóa bí mật thu hồi cho cơ\nquan, tổ chức quản lý trực tiếp theo quy định tại khoản 2 Điều 10 Thông tư này.\n5. Đề nghị khôi phục thiết bị lưu khóa bí mật trong\ntrường hợp thiết bị lưu khóa bí mật bị khóa theo quy định tại Điều 11 Thông tư này.\n6. Sử dụng chứng thư số đúng mục đích và tuân thủ\ncác quy trình, quy định về quản lý, sử dụng chữ ký số, chứng thư số, thiết bị lưu khóa mật và dịch vụ chứng thực chữ ký số chuyên dùng Chính phủ.\n7. Quản lý thiết bị lưu khóa bí mật theo quy định của\npháp luật.\nChương IV\nĐIỀU KHOẢN THI HÀNH\nĐiều 18. Hiệu lực thi hành Thông tư này có hiệu lực thi hành từ ngày 18 tháng 02 năm 2020. Thay thế Thông tư số 08/2016/TT-BQP ngày 01 tháng 02 năm 2016 của Bộ trưởng Bộ Quốc phòng quy định về cung cấp, quản lý, sử dụng dịch vụ chứng thực chữ ký số chuyên dùng phục vụ các cơ quan Đảng, Nhà nước, tổ chức chính trị - xã hội.\nĐiều 19. Trách nhiệm thi hành\n1. Trưởng ban Ban Cơ yếu Chính phủ, Thủ trưởng các\ncơ quan, đơn vị, tổ chức và cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này.\n2. Trong quá trình thực hiện nếu có khó khăn, vướng\nmắc đề nghị các cơ quan, đơn vị, tổ chức và cá nhân phản ánh về Ban Cơ yếu Chính phủ để tổng hợp, báo cáo Bộ trưởng Bộ Quốc phòng./.\nNơi nhận:\n- Ban Bí thư Trung ương Đảng;\n- Thủ tướng, các Phó Thủ tướng Chính phủ;\n- Văn phòng Trung ương và các Ban của Đảng ở TW;\n- Văn phòng Tổng Bí thư;\n- Văn phòng Chủ tịch nước;\n- Văn phòng Quốc hội;\n- Văn phòng Chính phủ;\n- Hội đồng dân tộc và các Ủy ban của Quốc hội;\n- Viện Kiểm sát nhân dân tối cao;\n- Tòa án nhân dân tối cao;\n- Kiểm toán Nhà nước;\n- Ủy ban Trung ương mặt trận tổ quốc Việt Nam;\n- Cơ quan Trung ương của các đoàn thể;\n- Các Bộ, cơ quan ngang Bộ, cơ quan thuộc CP;\n- Tỉnh ủy/Thành ủy; HĐND, UBND các tỉnh, thành phố trực thuộc TW;\n- VP BCĐ T W về phòng, chống tham nhũng;\n- Ủy ban Quốc gia về Chính phủ điện tử;\n- Đồng chí TTMT - Thứ trưởng Bộ Quốc phòng;\n- Bộ Tổng tham mưu; Tổng cục Chính trị;\n- C86; C54; C41; C53; C13;\n- Ban CYCP (10 bản);\n- Cục Kiểm tra văn bản QPPL (Bộ Tư pháp);\n- Công báo, Cổng TTĐT Chính phủ;\n- Cổng thông tin điện tử Bộ Quốc phòng;\n- Lưu: VT, PC, BĐ, HvThủy286b.\nBỘ TRƯỞNG\nĐại tướng Ngô Xuân Lịch\nPHỤ\nLỤC\n(Ban hành kèm\ntheo Thông tư số: 185/2019/TT-BQP ngày 04 tháng 12 năm 2019 của Bộ trưởng Bộ Quốc\nphòng)\nSTT\nMẫu biểu\nNội dung\n1\nMẫu 01\nVăn bản đề nghị cấp chứng thư số của cá nhân\n2\nMẫu 02\nVăn bản đề nghị cấp chứng thư số cho các cá nhân\ncủa Cơ quan, tổ chức quản lý trực tiếp\n3\nMẫu 03\nVăn bản đề nghị cấp chứng thư số cho cơ quan, tổ\nchức của người được cơ quan, tổ chức giao quản lý chứng thư số\n4\nMẫu 04\nVăn bản đề nghị cấp chứng thư số cho các cơ quan,\ntổ chức của Cơ quan, tổ chức quản lý trực tiếp\n5\nMẫu 05\nVăn bản đề nghị cấp chứng thư số cho thiết bị, dịch\nvụ, phần mềm của người được cơ quan, tổ chức giao quản lý chứng thư số\n6\nMẫu 06\nVăn bản đề nghị cấp chứng thư số cho thiết bị, dịch\nvụ, phần mềm của Cơ quan, tổ chức quản lý trực tiếp\n7\nMẫu 07\nVăn bản đề nghị gia hạn, thay đổi nội dung thông\ntin chứng thư số của Thuê bao\n8\nMẫu 08\nVăn bản đề nghị gia hạn, thay đổi nội dung thông\ntin chứng thư số cho các Thuê bao của Cơ quan, tổ chức quản lý trực tiếp\n9\nMẫu 09\nVăn bản đề nghị thu hồi chứng thư số của Thuê bao\n10\nMẫu 10\nVăn bản đề nghị thu hồi chứng thư số cho các Thuê\nbao của Cơ quan, tổ chức quản lý trực tiếp\n11\nMẫu 11\nVăn bản đề nghị khôi phục thiết bị lưu khóa bí mật\ncủa Thuê bao\n12\nMẫu 12\nVăn bản đề nghị khôi phục thiết bị lưu khóa bí mật\ncho các Thuê bao của Cơ quan, tổ chức quản lý trực tiếp\n13\nMẫu 13\nVăn bản bàn giao thiết bị lưu khóa bí mật cho\nthuê bao và đề nghị thời điểm hiệu lực của chứng thư số\n14\nMẫu 14\nBiên bản giao/nhận thiết bị lưu khóa bí mật sau\nkhi chứng thư số hết hạn sử dụng hoặc chứng thư số bị thu hồi\n15\nMẫu 15\nBiên bản xác nhận thất lạc thiết bị lưu khóa bí mật\nMẫu\n01\nCỘNG HÒA XÃ HỘI\nCHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\n---------------\nĐỀ NGHỊ CẤP CHỨNG THƯ SỐ CHO CÁ NHÂN\nKính gửi: <Cơ\nquan, tổ chức quản lý trực tiếp>.\nHọ và tên (chữ in hoa):……………………………………….Giới\ntính:....□... Nam ....□....Nữ\nNgày sinh: ……../……./………. Nơi sinh:\n……………………………………………………..\nSố CMND/CCCD/Hộ chiếu:……………………Ngày cấp:\n.............Nơi cấp: ……………….\nĐịa chỉ thư điện tử công vụ\n(1):…………………………………………………………………\nCơ quan, tổ chức công tác:\n……………………………………………………………………..\nĐịa chỉ: ……………………………………………………………………………………………..\nChức vụ: ……………………………………………………………………………………………\nSố điện thoại di động:\n…………………………………………………………………………….\nSIM PKI (2): ………………………………………………………………………………………..\nSố hiệu chứng thư số cũ (nếu có): ………………. Ngày cấp:………\nNgày hết hạn: ………\n<Địa\ndanh>, ngày ... tháng ... năm ...\nNgười khai\n(Ký và ghi rõ họ tên)\nGhi chú:\n(1) Địa chỉ hộp thư điện tử của cá nhân được cấp bởi\ncơ quan nhà nước (không sử dụng các địa chỉ thư điện tử gmail, yahoo,\nhotmail...).\n(2) SIM PKI là thiết bị thẻ SIM điện thoại có chức\nnăng lưu khóa bí mật phục vụ ký số dữ liệu trên thiết bị di động đảm bảo an\ntoàn. Nếu Thuê bao muốn đăng ký sử dụng SIM PKI thì điền thông tin nhà mạng viễn\nthông (Viettel, Vinaphone, Mobifone); Thuê bao muốn chuyển số đang sử dụng sang\nSIM PKI thì ghi thêm ký hiệu \"cs ” (Ví dụ: Viettel/cs).\nMẫu\n02\n<CƠ QUAN CHỦ QUẢN>\n<CƠ QUAN, TỔ CHỨC QUẢN LÝ TRỰC TIẾP>\n-------\nCỘNG HÒA XÃ HỘI\nCHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\n---------------\n<Số, ký hiệu>\nV/v đề nghị cấp chứng thư số cho cá nhân\n<Địa danh>,\nngày ... tháng ... năm ...\nKính gửi: Cục Chứng\nthực số và Bảo mật thông tin, Ban Cơ yếu Chính phủ.\n1. Thông tin người tiếp nhận chứng thư số (thiết\nbị lưu khóa bí mật):\n- Họ và tên:………………………Số CMND/CCCD/Hộ chiếu:………………………Ngày\ncấp:…………………..Nơi cấp: …………………….\n- Chức vụ:………………………..Số điện thoại di động:……………………………………Địa\nchỉ thư điện tử công vụ:………………………..\n- Địa chỉ tiếp nhận: <Chi tiết địa chỉ của cơ\nquan, tổ chức công tác>.\n2. Số lượng và danh sách đăng ký: <Tổng\nsố cá nhân đăng ký>, gồm:\nTT\nHọ và tên\nNgày sinh\nSố CMND/ CCCD/Hộ\nchiếu; Ngày cấp, nơi cấp\nĐịa chỉ thư điện tử\ncông vụ (1)\nTên cơ quan, tổ chức\ncông tác\nTỉnh/Thành phố (2)\nChức vụ\nSố điện thoại di động\nSố hiệu chứng thư\nsố cũ (nếu có)\nSIM PKI (3)\n01\n02\n…\nNơi nhận:\n- Như trên;\n- Lưu: VT,...\nNgười đứng đầu\nCơ quan, tổ chức quản lý trực tiếp (4)\n(Ký, đóng dấu và ghi rõ họ tên)\nGhi chú:\n(1) Địa chỉ hộp thư điện tử của cá nhân được cấp\nbởi cơ quan nhà nước (không sử dụng các địa chỉ thư điện tử gmail, yahoo,\nhotmail…)\n(2) Tỉnh/Thành phố của cơ quan, tổ chức công\ntác.\n(3) Nếu Thuê bao muốn đăng ký sử dụng SIM PKI\nthì điền thông tin nhà mạng viễn thông (Viettel, Vinaphone, Mobifone); Thuê bao\nmuốn chuyển sổ đang sử dụng sang SIM PKI thì ghi thêm ký hiệu “cs” (Ví dụ:\nViettel/cs).\n(4) Đối với Bộ Quốc phòng, Bộ Công an, Bộ Ngoại\ngiao là người đứng đầu các tổ chức Cơ yếu trực thuộc.\nMẫu\n03\nCỘNG HÒA XÃ HỘI\nCHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\n---------------\nĐỀ NGHỊ CẤP CHỨNG THƯ SỐ CHO CƠ QUAN, TỔ CHỨC\nKính gửi: <Cơ\nquan, tổ chức quản lý trực tiếp>.\nTên cơ quan, tổ chức được cấp chứng thư số:\n……………………………………………\nĐịa chỉ: ………………………………………………………………………………………….\nMã số thuế: ……………………………………………………………………………………..\nMã quan hệ ngân sách: ……………………………………………………………………….\nTỉnh/Thành phố: ……………………………………………………………………………….\nĐịa chỉ thư điện tử công vụ (1): ………………………………………………………………\nSố hiệu chứng thư số cũ (nếu có): ………….. Ngày cấp:\n…………Ngày hết hạn: ……..\n<Địa\ndanh>, ngày ... tháng ... năm ...\nNgười quản lý chứng thư số\n(Ký và ghi rõ họ tên)\nGhi chú:\n(1) Địa chỉ hộp thư điện tử của cơ quan, tổ chức\nsử dụng chứng thư số được cấp bởi cơ quan nhà nước (không sử dụng các địa chỉ\nthư điện tử gmail, yahoo, hotmail...).\nMẫu\n04\n<CƠ QUAN CHỦ QUẢN>\n<CƠ QUAN, TỔ CHỨC QUẢN LÝ TRỰC TIẾP>\n-------\nCỘNG HÒA XÃ HỘI\nCHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\n---------------\n<Số, ký hiệu>\nV/v đề nghị cấp chứng thư số cho cơ quan, tổ chức\n<Địa danh>,\nngày ... tháng ... năm ...\nKinh gửi: Cục Chứng\nthực số và Bảo mật thông tin, Ban Cơ yếu Chính phủ.\n1. Thông tin người tiếp nhận chứng thư số (thiết\nbị lưu khóa bí mật):\n- Họ và tên:………………………..Số CMND/CCCD/Hộ chiếu:……………………..Ngày\ncấp:……………..Nơi cấp:…………………….\n- Chức vụ:…………………………Số điện thoại di động:………………………………….Địa\nchỉ thư điện tử công vụ:…………………..\n- Địa chỉ tiếp nhận: <Chi tiết địa chỉ của cơ\nquan, tổ chức công tác>.\n2. Số lượng và danh sách đăng ký: <Tổng\nsố cơ quan, tổ chức đăng ký>, gồm:\nTT\nTên cơ quan, tổ chức\nĐịa chỉ\nMã số thuế\nMã quan hệ ngân\nsách\nTỉnh/Thành phố (1)\nĐịa chỉ thư điện tử\ncông vụ (2)\nSố hiệu chứng thư\nsố cũ (nếu có)\n01\n02\n…\nNơi nhận:\n- Như trên;\n- Lưu: VT,...\nNgười đứng đầu\nCơ quan, tổ chức quản lý trực tiếp (3)\n(Ký, đóng dấu và ghi rõ họ tên)\nGhi chú:\n(1) Tỉnh/Thành phố của cơ quan, tổ chức.\n(2) Địa chỉ hộp thư điện tử của cơ quan, tổ chức\nsử dụng chứng thư số được cấp bởi cơ quan nhà nước (không sử dụng các địa chỉ\nthư điện tử gmail, yahoo, hotmail...).\n(3) Đối với Bộ Quốc phòng Bộ Công an, Bộ Ngoại\ngiao là người đứng đầu các tổ chức Cơ yếu trực thuộc.\nMẫu\n05\nCỘNG HÒA XÃ HỘI\nCHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\n---------------\nĐỀ NGHỊ CẤP CHỨNG THƯ SỐ CHO THIẾT BỊ, DỊCH VỤ, PHẦN\nMỀM\nKính, gửi: <Cơ\nquan, tổ chức quản lý trực tiếp>.\nLoại chứng thư số (1):………………………………………………………………………\nTên chứng thư số (2):………………………………………………………………………\nCơ quan, tổ chức (3):………………………………………………………………………\n<Địa\ndanh>, ngày ... tháng ... năm ...\nNgười quản lý chứng thư số\n(Ký và ghi rõ họ tên)\nGhi chú:\n(1) Các loại chứng thư số Web Server (SSL), VPN\nServer, Mail Server, Code Signing ... thuộc quyền sở hữu của cơ quan, tổ chức.\n(2) Tên đăng ký chứng thư số được khai báo theo\nthứ tự ưu tiên như sau: Tên miền hoặc địa chỉ IP hoặc Tên thiết bị.\n(3) Cơ quan, tổ chức quản lý thiết bị, dịch vụ,\nphần mềm.\nMẫu\n06\n<CƠ QUAN CHỦ QUẢN>\n<CƠ QUAN, TỔ CHỨC QUẢN LÝ TRỰC TIẾP>\n-------\nCỘNG HÒA XÃ HỘI\nCHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\n---------------\n<Số, ký hiệu>\nV/v đề nghị cấp chứng thư số cho thiết bị, dịch vụ,\nphần mềm\n<Địa danh>,\nngày ... tháng ... năm ...\nKính gửi: Cục Chứng\nthực số và Bảo mật thông tin, Ban Cơ yếu Chính phủ.\n1. Thông tin người tiếp nhận chứng thư số (Thiết\nbị lưu khóa bí mật):\n- Họ và tên:………………………….Số CMND/CCCD/Hộ chiếu:…………………Ngày\ncấp:……………Nơi cấp: ……………….\n- Chức vụ:…………………………...Số điện thoại di động:………………………………Địa\nchỉ thư điện tử công vụ: ……………\n- Địa chỉ tiếp nhận: <Chi tiết địa chỉ của cơ\nquan, tổ chức công tác>.\n2. Số lượng và danh sách đăng ký: <Tổng\nsố chứng thu số đăng ký>, gồm:\nTT\nLoại chứng thư số\n(1)\nTên chứng thư số\n(2)\nCơ quan, tổ chức\n(3)\n01\n02\n…\nNơi nhận:\n- Như trên;\n- Lưu: VT,...\nNgười đứng đầu\nCơ quan, tổ chức quản lý trực tiếp (4)\n(Ký, đóng dấu và ghi rõ họ tên)\nGhi chú:\n(1) Các loại chứng thư số Web Server (SSL), VPN Server,\nMail Server, Code Signing... thuộc quyền sở hữu của cơ quan, tổ chức.\n(2) Tên đăng ký chứng thư số được khai báo theo\nthứ tự ưu tiên như sau: Tên miền hoặc địa chỉ IP hoặc Tên thiết bị.\n(3) Cơ quan, tổ chức quản lý thiết bị, dịch vụ,\nphần mềm.\n(4) Đối với Bộ Quốc phòng, Bộ Công an, Bộ Ngoại\ngiao là người đứng đầu các tổ chức Cơ yếu trực thuộc.\nMẫu\n07\nCỘNG HÒA XÃ HỘI\nCHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\n---------------\nĐỀ NGHỊ GIA HẠN, THAY ĐỔI NỘI DUNG THÔNG TIN CHỨNG\nTHƯ SỐ\nKính gửi: <Cơ\nquan, tổ chức quản lý trực tiếp>.\nI. Thông tin chứng thư số:\nLoại chứng thư số: □ Cá nhân □ Cơ quan, tổ chức □\nThiết bị, dịch vụ, phần mềm\nTên chứng thư số (1): …………………………………………………………………..\nSố điện thoại di động (2):\n……………………………………………………………….\nSố hiệu chứng thư số:……………….Ngày cấp:……………Ngày hết\nhạn: ………..\nĐịa chỉ thư điện tử công vụ (3):\n………………………………………………………..\nII. Thông tin đề nghị (4):\n1. Gia hạn chứng thư số: □\n2. Thay đổi nội dung thông tin chứng thư số: □\nThông tin cần thay\nđổi\nThông tin mới\n<Địa\ndanh>, ngày ... tháng ... năm ...\nNgười quản lý chứng thư số\n(Ký và ghi rõ họ tên)\nGhi chú:\n(1) Tên cá nhân hoặc cơ quan, tổ chức hoặc thiết\nbị, dịch vụ, phần mềm đã đăng ký trong đề nghị cấp chứng thư số.\n(2) Trường hợp gia hạn, thay đổi nội dung thông\ntin chứng thư số đối với SIM PKI.\n(3) Địa chỉ thư điện tử công vụ thuê bao đã đăng\nký trong đề nghị cấp chứng thư số.\n(4) Gia hạn hoặc thay đổi nội dung thông tin hoặc\ngia hạn và thay đổi nội dung thông tin.\nMẫu\n08\n<CƠ QUAN CHỦ QUẢN>\n<CƠ QUAN, TỔ CHỨC QUẢN LÝ TRỰC TIẾP>\n-------\nCỘNG HÒA XÃ HỘI\nCHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\n---------------\n<Số, ký hiệu>\nV/v đề nghị gia hạn, thay đổi nội dung thông tin\nchứng thư số\n<Địa danh>,\nngày ... tháng ... năm ...\nKính gửi: Cục Chứng\nthực số và Bảo mật thông tin, Ban Cơ yếu Chính phủ.\n1. Thông tin người tiếp nhận chứng thư số (Thiết\nbị lưu khóa bí mật):\n- Họ và tên:....................................Số\nCMND/CCCD/Hộ chiếu:…………………..Ngày cấp:……………Nơi cấp: …………………..\n- Chức vụ:…………………………..Số điện thoại di động:………………………………Địa\nchỉ thư điện tử công vụ: ………………..\n- Địa chỉ tiếp nhận: <Chi tiết địa chỉ của cơ\nquan, tổ chức công tác>. …………………………………………………………………..\n2. Số lượng và danh sách đăng ký: <Tổng\nsố chứng thư số đăng ký>, gồm:\nTT\nTên chứng thư số\n(1)\nSố hiệu chứng thư\nsố\nĐịa chỉ thư điện tử\ncông vụ\nSố điện thoại di động\n(2)\nThông tin cần thay\nđổi (3)\nThông tin mới (4)\nDịch vụ yêu cầu\n(5)\nGia hạn (6)\nThay đổi thông tin\n(7)\n01\n□\n□\n02\n□\n□\n…\nNơi nhận:\n- Như trên;\n- Lưu: VT,...\nNgười đứng đầu\nCơ quan, tổ chức quản lý trực tiếp (8)\n(Ký, đóng dấu và ghi rõ họ tên)\nGhi chú:\n(1) Tên cá nhân hoặc cơ quan, tổ chức hoặc thiết\nbị, dịch vụ, phần mềm đã đăng ký trong đề nghị cấp chứng thư số.\n(2) Trường hợp gia hạn, thay đổi nội dung thông\ntin chứng thư số đối với SIM PKI.\n(3) và (4) Trường hợp đăng ký thay đổi nội dung\nthông tin chứng thư số.\n(5) Nếu đăng ký gia hạn chứng thư số đánh dấu\n“x” vào ô vuông trống tại cột (6); nếu đăng ký thay đổi nội dung thông tin chứng\nthư số đánh dấu “x” vào ô vuông trống tại cột (7); Nếu đăng ký cả gia hạn và\nthay đổi nội dung thông tin chứng thư số thì đánh dấu “x” vào ô vuông trống tại\ncột (6) và (7).\n(8) Đối với Bộ Quốc phòng, Bộ Công an, Bộ Ngoại\ngiao là người đứng đầu các tổ chức Cơ yếu trực thuộc.\nMẫu\n09\nCỘNG HÒA XÃ HỘI\nCHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\n---------------\nĐỀ NGHỊ THU HỒI CHỨNG THƯ SỐ\nKính gửi: <Cơ\nquan, tổ chức quản lý trực tiếp>.\nHọ và tên (chữ in hoa): ………………………………….Giới tính:...\n□... Nam .....□...Nữ\nNgày sinh: …………………… Nơi sinh: …………………………………………………..\nSố CMND/CCCD/Hộ chiếu: …………………… Ngày cấp:………….Nơi cấp:.............\nChức vụ:………………………………………………………………………………………\nCơ quan, tổ chức công tác:\n………………………………………………………………..\nSố điện thoại di động: ………………………………………………………………………\nĐề nghị thu hồi chứng thư số:\nTên chứng thư số (1): ………………………………………………………………………\nSố CMND/CCCD/Hộ chiếu (2): ………………… Ngày cấp: ……….\nNơi cấp: ………..\nMã số thuế (3): ………………………………………………………………………………\nMã quan hệ ngân sách (4):\n………………………………………………………………..\nĐịa chỉ thư điện tử công vụ (5):\n…………………………………………………………..\nSố hiệu chứng thư số: …………………………………………………………………….\nSố hiệu Thiết bị lưu khóa bí mật: ………………………………………………………..\nSố điện thoại di động (6):\n………………………………………………………………..\nLý do thu hồi: ……………………………………………………………………………..\n<Địa\ndanh>, ngày.... tháng... năm\nNgười khai\n(Ký và ghi rõ họ tên)\nGhi chú:\n(1) Tên cá nhân hoặc cơ quan, tổ chức hoặc thiết\nbị, dịch vụ, phần mềm đã đăng ký trong đề nghị cấp chứng thư số.\n(2) Trường hợp thu hồi chứng thư số của cá nhân.\n(3), (4) Trường hợp thu hồi chứng thư số của cơ\nquan, tổ chức.\n(5) Địa chỉ thư điện tử của Thuê bao đã đăng ký\ntrong đề nghị cấp chứng thư số.\n(6) Trường hợp thu hồi chứng thư số đối với SIM\nPKI.\nMẫu\n10\n<CƠ QUAN CHỦ QUẢN>\n<CƠ QUAN, TỔ CHỨC QUẢN LÝ TRỰC TIẾP>\n-------\nCỘNG HÒA XÃ HỘI\nCHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\n---------------\n<Số, ký hiệu>\nV/v đề nghị thu hồi chứng thu số\n<Địa danh>,\nngày ... tháng ... năm ...\nKính gửi: Cục Chứng\nthực số và Bảo mật thông tin, Ban Cơ yếu Chính phủ.\n1. Thông tin đầu mối phối hợp thu hồi Thiết bị\nlưu khóa bí mật:\n- Họ và tên:………………………….Số CMND/CCCD/Hộ chiếu:………………..Ngày\ncấp:…………….Nơi cấp: ……………………..\n- Chức vụ:……………………………Số điện thoại di động:…………………………..Địa\nchỉ thư điện tử công vụ:…………………….\n- Địa chỉ thu hồi: <Chi tiết địa chỉ của cơ\nquan, tổ chức công tác>.\n2. Số lượng và danh sách thu hồi: <Tổng\nsố chứng thư số đề nghị thu hồi>, gồm:\nTT\nTên chứng thư số\nSố CMND/CCCD/ Hộ\nchiếu; Ngày cấp, nơi cấp (1)\nMã số thuế (2)\nMã quan hệ ngân\nsách (3)\nĐịa chỉ thư điện tử\ncông vụ (4)\nSố hiệu chứng thư\nsố\nSố hiệu thiết bị\nlưu khóa bí mật\nSố điện thoại di động\n(5)\nLý do thu hồi\n01\n02\n...\nNơi nhận:\n- Như trên;\n- Lưu: VT,...\nNgười đứng đầu\nCơ quan, tổ chức quản lý trực tiếp (6)\n(Ký, đóng dấu và ghi rõ họ tên)\nGhi chú:\n(1) Trường hợp thu hồi chứng thư số của cá nhân.\n(2), (3) Trường hợp thu hồi chứng thư số của cơ\nquan, tổ chức.\n(4) Địa chỉ thư điện tử cùa Thuê bao đã đăng ký\ntrong đề nghị cấp chứng thư số.\n(5) Trường hợp thu hồi chứng thư số đối với SIM\nPKI.\n(6) Đối với Bộ Quốc phòng, Bộ Công an, Bộ Ngoại giao\nlà người đứng đầu các tổ chức Cơ yếu trực thuộc.\nMẫu\n11\nCỘNG HÒA XÃ HỘI\nCHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\n---------------\nĐỀ NGHỊ KHÔI PHỤC THIẾT BỊ LƯU KHÓA BÍ MẬT\nKính gửi: <Cơ\nquan, tổ chức quản lý trực tiếp>.\nHọ và tên (chữ in hoa): ………………………………..Giới\ntính:...□.... Nam ....□.... Nữ\nNgày sinh: ………………… Nơi sinh: …………………………………………………….\nSố CMND/CCCD/Hộ chiếu:……………………… Ngày cấp:………Nơi cấp:\n…………\nCơ quan, tổ chức công tác:\n………………………………………………………………..\nChức vụ: …………………………………………………………………………………….\nSố điện thoại di động: ……………………………………………………………………..\nĐề nghị khôi phục Thiết bị lưu khóa bí mật:\nSố hiệu Thiết bị lưu khóa bí mật:\n………………………………………………………..\nTên chứng thư số (1): …………………………………………………………………….\nĐịa chỉ thư điện tử công vụ (2): ………………………………………………………….\n<Địa\ndanh>, ngày ... tháng ... năm ...\nNgười khai\n(Ký và ghi rõ họ tên)\nGhi chú:\n(1) Tên cá nhân hoặc cơ quan, tổ chức hoặc thiết\nbị, dịch vụ, phần mềm đã đăng ký trong đề nghị cấp chứng thư số.\n(2) Địa chỉ thư điện tử của Thuê bao đã đăng ký trong\nđề nghị cấp chứng thư số.\nMẫu\n12\n<CƠ QUAN CHỦ QUẢN>\n<CƠ QUAN, TỔ CHỨC QUẢN LÝ TRỰC TIẾP>\n-------\nCỘNG HÒA XÃ HỘI\nCHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\n---------------\n<Số, ký hiệu>\nV/v đề nghị khôi phục Thiết bị lưu khóa bí mật\n<Địa danh>,\nngày ... tháng ... năm ...\nKính gửi: Cục Chứng\nthực số và Bảo mật thông tin, Ban Cơ yếu Chính phủ (hoặc tổ chức được ủy quyền).\n1. Thông tin về Thiết bị lưu khóa bí mật cần\nkhôi phục:\nTT\nSố hiệu Thiết bị\nlưu khóa bí mật\nThông tin của thuê\nbao\nTên chứng thư số\n(1)\nCơ quan, tổ chức\ncông tác\nĐịa chỉ thư điện tử\ncông vụ\n01\n02\n...\n2. Thông tin về người phối hợp hỗ trợ khôi phục\nThiết bị lưu khóa bí mật:\nHọ và tên: ……………………………………………………………………………………..\nSố CMND/CCCD/Hộ chiếu:………………………………. Ngày cấp:………………………..\nNơi cấp: ……………………………………………\nCơ quan, tổ chức công\ntác:………………………………………………………………………….\nSố điện thoại di động:………………………… Số điện thoại cơ\nquan: ………………………\nNơi nhận:\n- Như trên;\n- Lưu: VT,...\nNgười đứng đầu\nCơ quan, tổ chức quản lý trực tiếp (2)\n(Ký, đóng dấu và ghi rõ họ tên)\nGhi chú:\n(1) Tên cá nhân hoặc cơ quan, tổ chức hoặc thiết\nbị, dịch vụ, phần mềm đã đăng ký trong đề nghị cấp chứng thư số.\n(2) Đối với Bộ Quốc phòng, Bộ Công an, Bộ Ngoại\ngiao là người đứng đầu các tổ chức Cơ yếu trực thuộc.\nMẫu\n13\n<CƠ QUAN CHỦ QUẢN>\n<CƠ QUAN, TỔ CHỨC QUẢN LÝ TRỰC TIẾP>\n-------\nCỘNG HÒA XÃ HỘI\nCHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\n---------------\n<Số, ký hiệu>\nV/v bàn giao Thiết bị lưu khóa bí mật và hiệu lực\ncủa chứng thư số\n<Địa danh>,\nngày … tháng … năm …\nKính gửi: Cục Chứng\nthực số và Bảo mật thông tin.\nSố lượng đề nghị:……………………………………………………………………………\nDanh sách đề nghị:\nTT\nTên chứng thư số\n(1)\nSố hiệu chứng thư\nsố\nSố hiệu Thiết bị lưu\nkhóa bí mật\nThời điểm bàn giao\nThiết bị lưu khóa bí mật (Giờ, phút, ngày, tháng, năm) (2)\n01\n02\n...\nNơi nhận:\n- Như trên;\n-Lưu: VT...\nNgười đứng đầu\nCơ quan, tổ chức quản lý trực tiếp\n(Ký, đóng dấu và ghi rõ họ tên)\nGhi chú:\n(1) Tên cá nhân hoặc cơ quan, tổ chức hoặc thiết\nbị, dịch vụ, phần mềm đã đăng ký trong đề nghị cấp chứng thư số.\n(2) Thời điểm Cơ quan, tổ chức quản lý trực tiếp\nbàn giao chứng thư số cho Thuê bao.\nMẫu\n14\nCỘNG HÒA XÃ HỘI\nCHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\n---------------\n<Địa danh>,\nngày ... tháng ... năm ...\nBIÊN BẢN GIAO/NHẬN THIẾT BỊ LƯU KHÓA BÍ MẬT SAU KHI\nCHỨNG THƯ SỐ HẾT HẠN SỬ DỤNG HOẶC CHỨNG THƯ SỐ BỊ THU HỒI\n1. Bên giao:\nÔng/Bà: ………………………………………………………………………………………\nSố CMND/CCCD/Hộ chiếu:……………………Ngày cấp:………….Nơi cấp:…………\nChức vụ: …………………………………………………………………………………….\nCơ quan, tổ chức công tác:\n……………………………………………………………….\n2. Bên nhận:\nÔng/Bà: ……………………………………………………………………………………..\nSố CMND/CCCD/Hộ chiếu:…………………. Ngày cấp:…………..Nơi cấp:………….\nChức vụ: ……………………………………………………………………………………..\nCơ quan, tổ chức công tác:\n……………………………………………………………….\n3. Địa điểm giao/nhận:\n…………………………………………………………………….\n4. Danh sách Thiết bị lưu khóa bí mật thu hồi\nTT\nTên chứng thư số\n(1)\nCơ quan, tổ chức\nSố hiệu Thiết bị\nlưu khóa bí mật\nGhi chú\n1\n2\n...\nCộng\nHai bên thống nhất các nội dung giao/nhận như trên.\nBiên bản được lập thành 03 bản có giá trị như nhau,\nmỗi bên giữ 01 bản và 01 bản gửi về Cục Chứng thực số và Bảo mật thông tin.\nBÊN GIAO\nBÊN NHẬN\nGhi chú:\n(1) Tên cá nhân hoặc cơ quan, tổ chức hoặc thiết\nbị, dịch vụ, phần mềm đã đăng ký trong đề nghị cấp chứng thư số.\nMẫu\n15\nCỘNG HÒA XÃ HỘI CHỦ\nNGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\n---------------\nBIÊN BẢN XÁC NHẬN THẤT LẠC THIẾT BỊ LƯU KHÓA BÍ MẬT\nKính gửi: Cục Chứng\nthực số và Bảo mật thông tin, Ban Cơ yếu Chính phủ.\nHôm nay, ngày……..tháng……năm 20...\nTại: …………………………………………………………………………………………………\nChúng tôi gồm:\nI. Đại diện cơ quan, tổ chức quản lý trực tiếp:\n1. Họ và tên: ………………………………………………………………………………………\n2. Chức vụ: ………………………………………………………………………………………..\n3. Cơ quan, tổ chức công tác:\n…………………………………………………………………..\n4. Địa chỉ: …………………………………………………………………………………………..\nII. Người quản lý Thiết bị lưu khóa bí mật:\n1. Họ và tên: ……………………………………………………………………………………….\n2. Ngày sinh: ……………………………………………………………………………………….\n3. Số CMND/CCCD/Hộ chiếu:…………….Ngày cấp:……………Nơi cấp:\n…………………..\n4. Cơ quan, tổ chức công tác: ……………………………………………………………………\n5. Số điện thoại di động:\n…………………………………………………………………………..\nChúng tôi xác nhận việc Ông (bà):\n……………………………………………………………….\nĐã làm thất lạc Thiết bị lưu khóa bí mật có\nthông tin như sau:\n- Tên chứng thư số (1):\n…………………………………………………………………………….\n- Số hiệu chứng thư số:\n…………………………………………………………………………….\n- Số hiệu Thiết bị lưu khóa bí mật:\n…………………………………………………………………\n- Địa chỉ thư điện tử công vụ (2):\n…………………………………………………………………..\n- Lý do thất lạc: ……………………………………………………………………………………….\nChúng tôi cam đoan những thông tin trên là đúng sự\nthật và hoàn toàn chịu trách nhiệm trước pháp luật về việc thất lạc Thiết bị\nlưu khóa bí mật nêu trên.\nNgười quản lý\nThiết bị lưu khóa bí mật\n(Ký và ghi rõ họ tên)\nNgười đứng đầu\nCơ quan, tổ chức quản lý trực tiếp\n(Ký, đóng dấu và ghi rõ họ tên)\nGhi chú:\n(1) Tên cá nhân hoặc cơ quan, tổ chức hoặc thiết\nbị, dịch vụ, phần mềm đã đăng ký trong đề nghị cấp chứng thu số.\n(2) Địa chỉ thư điện tử của thuê bao đã đăng ký\ntrong đề nghị cấp chứng thư số.",
+  "tree": {
+    "parts": [
+      {
+        "part_id": "doc:138065:part:1",
+        "part_type": "main",
+        "part_title": null,
+        "reference": null,
+        "direct_text": "THÔNG TƯ HƯỚNG\nDẪN VIỆC CUNG CẤP, QUẢN LÝ, SỬ DỤNG DỊCH VỤ CHỨNG THỰC CHỮ KÝ SỐ CHUYÊN DÙNG CHÍNH\nPHỦ\nCăn cứ Luật Cơ yếu ngày 26 tháng 11 năm 2011; Căn cứ Nghị định số 164/2017/NĐ-CP ngày 30 tháng 12 năm 2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Quốc phòng; Căn cứ Nghị định số 09/2014/NĐ-CP ngày 17 tháng 01 năm 2014 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Ban Cơ yếu Chính phủ; Căn cứ Nghị định số 130/2018/NĐ-CP ngày 27 tháng 9 năm 2018 của Chính phủ quy định chi tiết thi hành Luật Giao dịch điện tử về chữ ký số và dịch vụ chứng thực chữ ký số; Theo đề nghị của Trưởng ban Ban Cơ yếu Chính phủ, Bộ trưởng Bộ Quốc phòng ban hành Thông tư hướng dẫn việc cung cấp, quản lý, sử dụng dịch vụ chứng thực chữ ký số chuyên dùng Chính phủ.\nquy chế, quy định về quản lý, sử dụng dịch vụ chứng thực chữ ký số chuyên dùng\nChính phủ.\n3. Hướng dẫn, kiểm tra các tổ chức, cá nhân có liên\nquan việc đăng ký, cung cấp, quản lý, sử dụng dịch vụ chứng thực chữ ký số chuyên dùng Chính phủ.\n4. Phối hợp, hỗ trợ các cơ quan liên quan tích hợp\ndịch vụ chứng thực chữ ký số chuyên dùng Chính phủ vào các ứng dụng công nghệ thông tin nhằm đảm bảo an toàn, xác thực và bảo mật thông tin.\n5. Nghiên cứu, ứng dụng các công nghệ liên quan đến\ndịch vụ chứng thực chữ ký số phù hợp với các ứng dụng công nghệ thông tin phục vụ các cơ quan, tổ chức.\n6. Chủ trì, phối hợp với các cơ quan liên quan bố\ntrí, đảm bảo nhân sự, kinh phí và trụ sở làm việc để triển khai các nhiệm vụ, quản lý, duy trì hoạt động, bảo đảm cung cấp chứng thư số, thiết bị lưu khóa bí mật và dịch vụ chứng thực chữ ký số chuyên dùng Chính phủ theo nhu cầu thực tế của các cơ quan Đảng, Nhà nước đảm bảo an toàn, liên tục.\n7. Quản lý, chỉ đạo Cục Chứng thực số và Bảo mật\nthông tin bảo đảm việc cung cấp chứng thư số, thiết bị lưu khóa bí mật, dịch vụ chứng thực chữ ký số chuyên dùng Chính phủ một cách hiệu quả trên cơ sở kế hoạch, nhu cầu của các cơ quan, tổ chức.\n8. Giúp Bộ trưởng Bộ Quốc phòng theo dõi và kiểm\ntra việc thực hiện Thông tư này.",
+        "chapters": [
+          {
+            "chapter_id": "doc:138065:part:1:chapter:1",
+            "number": "I",
+            "title": "QUY ĐỊNH CHUNG",
+            "content": "Chương I\nQUY ĐỊNH CHUNG",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:138065:part:1:article:1",
+                "number": "1",
+                "title": "Phạm vi điều chỉnh Thông tư này hướng dẫn việc cung cấp, quản lý, sử dụng dịch vụ chứng thực chữ ký số chuyên dùng Chính phủ.",
+                "content": "Điều 1. Phạm vi điều chỉnh Thông tư này hướng dẫn việc cung cấp, quản lý, sử dụng dịch vụ chứng thực chữ ký số chuyên dùng Chính phủ.",
+                "clauses": [],
+                "points": []
+              },
+              {
+                "article_id": "doc:138065:part:1:article:2",
+                "number": "2",
+                "title": "Đối tượng áp dụng Thông tư này áp dụng đối với các cơ quan, tổ chức, cá nhân có liên quan đến hoạt động cung cấp, quản lý, sử dụng dịch vụ chứng thực chữ ký số chuyên dùng Chính phủ.",
+                "content": "Điều 2. Đối tượng áp dụng Thông tư này áp dụng đối với các cơ quan, tổ chức, cá nhân có liên quan đến hoạt động cung cấp, quản lý, sử dụng dịch vụ chứng thực chữ ký số chuyên dùng Chính phủ.",
+                "clauses": [],
+                "points": []
+              },
+              {
+                "article_id": "doc:138065:part:1:article:3",
+                "number": "3",
+                "title": "Giải thích từ ngữ Trong Thông tư này các từ ngữ dưới đây được hiểu như sau:",
+                "content": "Điều 3. Giải thích từ ngữ Trong Thông tư này các từ ngữ dưới đây được hiểu như sau:",
+                "clauses": [
+                  {
+                    "clause_id": "doc:138065:part:1:article:3:clause:1",
+                    "number": "1",
+                    "content": "1. “Cơ quan, tổ chức quản lý trực tiếp” là cơ quan,\ntổ chức có tư cách pháp nhân, có con dấu riêng thuộc các cơ quan Đảng, Nhà nước trực tiếp quản lý thuê bao sử dụng dịch vụ chứng thực chữ ký số chuyên dùng Chính phủ.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:138065:part:1:article:3:clause:2",
+                    "number": "2",
+                    "content": "2. “Yêu cầu chứng thực” là các yêu cầu cấp mới, gia\nhạn, thay đổi nội dung thông tin, thu hồi chứng thư số và khôi phục thiết bị lưu khóa bí mật.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:138065:part:1:article:3:clause:3",
+                    "number": "3",
+                    "content": "3. “Hệ thống thông tin đăng ký, quản lý yêu cầu chứng\nthực” là hệ thống điện tử hỗ trợ đăng ký, quản lý dịch vụ chứng thực chữ ký số chuyên dùng Chính phủ trên môi trường mạng.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:138065:part:1:article:4",
+                "number": "4",
+                "title": "Tổ chức cung cấp dịch vụ chứng thực chữ ký số chuyên dùng Chính phủ",
+                "content": "Điều 4. Tổ chức cung cấp dịch vụ chứng thực chữ ký số chuyên dùng Chính phủ",
+                "clauses": [
+                  {
+                    "clause_id": "doc:138065:part:1:article:4:clause:1",
+                    "number": "1",
+                    "content": "1. Tổ chức cung cấp dịch vụ chứng thực chữ ký số\nchuyên dùng Chính phủ là Cục Chứng thực số và Bảo mật thông tin trực thuộc Ban Cơ yếu Chính phủ.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:138065:part:1:article:4:clause:2",
+                    "number": "2",
+                    "content": "2. Thông tin liên hệ:\nCục Chứng thực số và Bảo mật thông tin. Địa chỉ: Số 23 Ngụy Như Kon Tum, Thanh Xuân, Hà Nội Điện thoại/Fax: 024.3773.8668 Địa chỉ thư điện tử: ca@bcy.gov.vn Trang thông tin điện tử: http://ca.gov.vn Mã định danh trao đổi văn bản điện tử:\n000.05.07.G11",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:138065:part:1:article:5",
+                "number": "5",
+                "title": "Gửi, nhận văn bản yêu cầu chứng thực",
+                "content": "Điều 5. Gửi, nhận văn bản yêu cầu chứng thực",
+                "clauses": [
+                  {
+                    "clause_id": "doc:138065:part:1:article:5:clause:1",
+                    "number": "1",
+                    "content": "1. Gửi, nhận văn bản yêu cầu chứng thực giữa cơ\nquan, tổ chức quản lý trực tiếp và Cục Chứng thực số và Bảo mật thông tin được thực hiện bằng văn bản giấy hoặc văn bản điện tử có ký số theo quy định của pháp luật.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:138065:part:1:article:5:clause:2",
+                    "number": "2",
+                    "content": "2. Gửi, nhận văn bản điện tử yêu cầu chứng thực giữa\ncơ quan, tổ chức quản lý trực tiếp và Cục Chứng thực số và Bảo mật thông tin được thực hiện trên Hệ thống thông tin đăng ký, quản lý yêu cầu chứng thực hoặc Trục liên thông văn bản quốc gia.",
+                    "points": [
+                      {
+                        "point_id": "doc:138065:part:1:article:5:clause:2:point:1",
+                        "label": "a",
+                        "content": "a) Văn bản điện tử yêu cầu chứng thực đã ký số theo\nquy định của pháp luật gửi, nhận qua Hệ thống thông tin đăng ký, quản lý yêu cầu chứng thực hoặc Trục liên thông văn bản quốc gia có giá trị pháp lý tương đương văn bản giấy và thay cho việc gửi, nhận văn bản giấy.",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:138065:part:1:article:5:clause:2:point:2",
+                        "label": "b",
+                        "content": "b) Văn bản điện tử yêu cầu chứng thực không thuộc\nđiểm a khoản 2 Điều này gửi, nhận qua Hệ thống thông tin đăng ký, quản lý yêu cầu chứng thực hoặc Trục liên thông văn bản quốc gia có giá trị để biết, tham khảo, không thay cho việc gửi, nhận văn bản giấy. Trong trường hợp này, cơ quan, tổ chức quản lý trực tiếp phải cung cấp bản chính của văn bản giấy tại thời điểm tiếp nhận chứng thư số, thiết bị lưu khóa bí mật.",
+                        "children": []
+                      }
+                    ]
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:138065:part:1:article:6",
+                "number": "6",
+                "title": "Gửi, nhận thiết bị lưu khóa bí mật Gửi, nhận thiết bị lưu khóa bí mật giữa thuê bao, cơ quan, tổ chức quản lý trực tiếp, Cục Chứng thực số và Bảo mật thông tin được thực hiện bằng phương thức trực tiếp, thông qua tổ chức cơ yếu hoặc thông qua đơn vị cung cấp dịch vụ bưu chính công ích theo quy định của pháp luật.",
+                "content": "Điều 6. Gửi, nhận thiết bị lưu khóa bí mật Gửi, nhận thiết bị lưu khóa bí mật giữa thuê bao, cơ quan, tổ chức quản lý trực tiếp, Cục Chứng thực số và Bảo mật thông tin được thực hiện bằng phương thức trực tiếp, thông qua tổ chức cơ yếu hoặc thông qua đơn vị cung cấp dịch vụ bưu chính công ích theo quy định của pháp luật.",
+                "clauses": [],
+                "points": []
+              },
+              {
+                "article_id": "doc:138065:part:1:article:7",
+                "number": "7",
+                "title": "Gửi, nhận văn bản yêu cầu chứng thực, thiết bị lưu khóa bí mật trong Bộ Quốc phòng, Bộ Công an và Bộ Ngoại giao Việc gửi, nhận văn bản yêu cầu chứng thực, thiết bị lưu khóa bí mật giữa các cơ quan, tổ chức quản lý trực tiếp trong Bộ Quốc phòng, Bộ Công an và Bộ Ngoại giao với Cục Chứng thực số và Bảo mật thông tin thông qua các tổ chức Cơ yếu trực thuộc Bộ Quốc phòng, Bộ Công an và Bộ Ngoại giao.",
+                "content": "Điều 7. Gửi, nhận văn bản yêu cầu chứng thực, thiết bị lưu khóa bí mật trong Bộ Quốc phòng, Bộ Công an và Bộ Ngoại giao Việc gửi, nhận văn bản yêu cầu chứng thực, thiết bị lưu khóa bí mật giữa các cơ quan, tổ chức quản lý trực tiếp trong Bộ Quốc phòng, Bộ Công an và Bộ Ngoại giao với Cục Chứng thực số và Bảo mật thông tin thông qua các tổ chức Cơ yếu trực thuộc Bộ Quốc phòng, Bộ Công an và Bộ Ngoại giao.",
+                "clauses": [],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:138065:part:1:chapter:2",
+            "number": "II",
+            "title": "HƯỚNG DẪN HỒ SƠ, MẪU BIỂU CUNG CẤP, QUẢN LÝ DỊCH VỤ CHỨNG THỰC CHỮ KÝ SỐ CHUYÊN DÙNG CHÍNH PHỦ",
+            "content": "Chương II\nHƯỚNG DẪN HỒ SƠ, MẪU BIỂU\nCUNG CẤP, QUẢN LÝ DỊCH VỤ CHỨNG THỰC CHỮ KÝ SỐ CHUYÊN DÙNG CHÍNH PHỦ",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:138065:part:1:article:8",
+                "number": "8",
+                "title": "Cấp mới chứng thư số",
+                "content": "Điều 8. Cấp mới chứng thư số",
+                "clauses": [
+                  {
+                    "clause_id": "doc:138065:part:1:article:8:clause:1",
+                    "number": "1",
+                    "content": "1. Cấp mới chứng thư số cho cá nhân:",
+                    "points": [
+                      {
+                        "point_id": "doc:138065:part:1:article:8:clause:1:point:1",
+                        "label": "a",
+                        "content": "a) Cá nhân có văn bản đề nghị cấp mới chứng thư số\ntheo Mẫu 01 tại Phụ lục ban hành kèm theo Thông tư này gửi cơ quan, tổ chức quản lý trực tiếp;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:138065:part:1:article:8:clause:1:point:2",
+                        "label": "b",
+                        "content": "b) Cơ quan, tổ chức quản lý trực tiếp gửi văn bản đề\nnghị cấp mới chứng thư số theo Mẫu 02 tại Phụ lục ban hành kèm theo Thông tư này đến Cục Chứng thực số và Bảo mật thông tin.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:138065:part:1:article:8:clause:2",
+                    "number": "2",
+                    "content": "2. Cấp mới chứng thư số cho cơ quan, tổ chức:",
+                    "points": [
+                      {
+                        "point_id": "doc:138065:part:1:article:8:clause:2:point:1",
+                        "label": "a",
+                        "content": "a) Người có thẩm quyền của cơ quan, tổ chức theo\nquy định của pháp luật về quản lý và sử dụng con dấu được cơ quan, tổ chức giao quản lý chứng thư số của cơ quan, tổ chức có văn bản đề nghị cấp chứng thư số theo Mẫu 03 tại Phụ lục ban hành kèm theo Thông tư này gửi cơ quan, tổ chức quản lý trực tiếp;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:138065:part:1:article:8:clause:2:point:2",
+                        "label": "b",
+                        "content": "b) Cơ quan, tổ chức quản lý trực tiếp gửi văn bản đề\nnghị cấp mới chứng thư số theo Mẫu 04 tại Phụ lục ban hành kèm theo Thông tư này đến Cục Chứng thực số và Bảo mật thông tin.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:138065:part:1:article:8:clause:3",
+                    "number": "3",
+                    "content": "3. Cấp mới chứng thư số cho thiết bị, dịch vụ, phần\nmềm:",
+                    "points": [
+                      {
+                        "point_id": "doc:138065:part:1:article:8:clause:3:point:1",
+                        "label": "a",
+                        "content": "a) Người có thẩm quyền của cơ quan, tổ chức theo\nquy định của pháp luật về quản lý và sử dụng con dấu được cơ quan, tổ chức giao quản lý chứng thư số của thiết bị, dịch vụ, phần mềm có văn bản đề nghị cấp chứng thư số theo Mẫu 05 tại Phụ lục ban hành kèm theo Thông tư này gửi cơ quan, tổ chức quản lý trực tiếp;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:138065:part:1:article:8:clause:3:point:2",
+                        "label": "b",
+                        "content": "b) Cơ quan, tổ chức quản lý trực tiếp gửi văn bản đề\nnghị cấp mới chứng thư số theo Mẫu 06 tại Phụ lục ban hành kèm theo Thông tư nầy đến Cục Chứng thực số và Bảo mật thông tin.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "clause_id": "doc:138065:part:1:article:8:clause:4",
+                    "number": "4",
+                    "content": "4. Sau khi bàn giao thiết bị lưu khóa bí mật cho\nthuê bao, cơ quan, tổ chức quản lý trực tiếp gửi văn bản đề nghị thời điểm có hiệu lực của chứng thư số theo Mẫu 13 tại Phụ lục ban hành kèm theo Thông tư này về Cục Chứng thực số và Bảo mật thông tin.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:138065:part:1:article:9",
+                "number": "9",
+                "title": "Gia hạn, thay đổi nội dung thông tin chứng thư số",
+                "content": "Điều 9. Gia hạn, thay đổi nội dung thông tin chứng thư số",
+                "clauses": [
+                  {
+                    "clause_id": "doc:138065:part:1:article:9:clause:1",
+                    "number": "1",
+                    "content": "1. Thuê bao có văn bản đề nghị gia hạn, thay đổi nội\ndung thông tin chứng thư số theo Mẫu 07 tại Phụ lục ban hành kèm theo Thông tư này gửi cơ quan, tổ chức quản lý trực tiếp.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:138065:part:1:article:9:clause:2",
+                    "number": "2",
+                    "content": "2. Cơ quan, tổ chức quản lý trực tiếp gửi văn bản đề\nnghị gia hạn, thay đổi nội dung thông tin chứng thư số theo Mẫu 08 tại Phụ lục ban hành kèm theo Thông tư này đến Cục Chứng thực số và Bảo mật thông tin.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:138065:part:1:article:10",
+                "number": "10",
+                "title": "Thu hồi chứng thư số, thu hồi thiết bị lưu khóa bí mật 1 .Thu hồi chứng thư số:",
+                "content": "Điều 10. Thu hồi chứng thư số, thu hồi thiết bị lưu khóa bí mật 1 .Thu hồi chứng thư số:\na) Thuê bao có văn bản đề nghị thu hồi chứng thư số\ntheo Mẫu 09 tại Phụ lục ban hành kèm theo Thông tư này gửi cơ quan, tổ chức quản lý trực tiếp;\nb) Cơ quan, tổ chức quản lý trực tiếp gửi văn bản đề\nnghị thu hồi chứng thư số theo Mẫu 10 tại Phụ lục ban hành kèm theo Thông tư này đến Cục Chứng thực số và Bảo mật thông tin.",
+                "clauses": [
+                  {
+                    "clause_id": "doc:138065:part:1:article:10:clause:1",
+                    "number": "2",
+                    "content": "2. Thu hồi thiết bị lưu khóa bí mật:",
+                    "points": [
+                      {
+                        "point_id": "doc:138065:part:1:article:10:clause:1:point:1",
+                        "label": "a",
+                        "content": "a) Cơ quan, tổ chức quản lý trực tiếp có trách nhiệm\nthu hồi thiết bị lưu khóa bí mật của chứng thư số hết hạn sử dụng hoặc chứng thư số bị thu hồi, bàn giao cho Cục Chứng thực số và Bảo mật thông tin. Biên bản giao, nhận thiết bị lưu khóa bí mật sau khi chứng thư số hết hạn sử dụng hoặc chứng thư số bị thu hồi theo Mẫu 14 tại Phụ lục ban hành kèm theo Thông tư này;",
+                        "children": []
+                      },
+                      {
+                        "point_id": "doc:138065:part:1:article:10:clause:1:point:2",
+                        "label": "b",
+                        "content": "b) Trong trường hợp thiết bị lưu khóa bí mật bị thất\nlạc, cơ quan, tổ chức quản lý trực tiếp phải lập biên bản xác nhận theo Mẫu 15 tại Phụ lục ban hành kèm theo Thông tư này gửi ngay về Cục Chứng thực số và Bảo mật thông tin.",
+                        "children": []
+                      }
+                    ]
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:138065:part:1:article:11",
+                "number": "11",
+                "title": "Khôi phục thiết bị lưu khóa bí mật",
+                "content": "Điều 11. Khôi phục thiết bị lưu khóa bí mật",
+                "clauses": [
+                  {
+                    "clause_id": "doc:138065:part:1:article:11:clause:1",
+                    "number": "1",
+                    "content": "1. Thuê bao có văn bản đề nghị khôi phục thiết bị\nlưu khóa bí mật theo Mẫu 11 tại Phụ lục ban hành kèm theo Thông tư này gửi cơ quan, tổ chức quản lý trực tiếp.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:138065:part:1:article:11:clause:2",
+                    "number": "2",
+                    "content": "2. Cơ quan, tổ chức quản lý trực tiếp gửi văn bản đề\nnghị khôi phục thiết bị lưu khóa bí mật theo Mẫu 12 tại Phụ lục ban hành kèm theo Thông tư này đến Cục Chứng thực số và Bảo mật thông tin hoặc tổ chức được Cục Chứng thực số và Bảo mật thông tin ủy quyền.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:138065:part:1:chapter:3",
+            "number": "III",
+            "title": "TRÁCH NHIỆM CỦA CÁC CƠ QUAN, TỔ CHỨC VÀ CÁ NHÂN",
+            "content": "Chương III\nTRÁCH NHIỆM CỦA CÁC CƠ\nQUAN, TỔ CHỨC VÀ CÁ NHÂN",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:138065:part:1:article:12",
+                "number": "12",
+                "title": "Trách nhiệm của các cơ quan Đảng, Nhà nước",
+                "content": "Điều 12. Trách nhiệm của các cơ quan Đảng, Nhà nước",
+                "clauses": [
+                  {
+                    "clause_id": "doc:138065:part:1:article:12:clause:1",
+                    "number": "1",
+                    "content": "1. Xây dựng, ban hành quy chế, quy định về quản lý,\nsử dụng dịch vụ chứng thực chữ ký số chuyên dùng Chính phủ trong phạm vi quản lý.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:138065:part:1:article:12:clause:2",
+                    "number": "2",
+                    "content": "2. Hằng năm, báo cáo tình hình triển khai, sử dụng\ndịch vụ chứng thực chữ ký số chuyên dùng Chính phủ trong năm và xây dựng kế hoạch, nhu cầu sử dụng của năm kế tiếp cho thuê bao thuộc quyền quản lý theo hướng dẫn của Ban Cơ yếu Chính phủ.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:138065:part:1:article:12:clause:3",
+                    "number": "3",
+                    "content": "3. Quản lý, hướng dẫn, kiểm tra các thuê bao trong\nquá trình triển khai, quản lý và sử dụng chứng thư số, thiết bị lưu khóa bí mật, dịch vụ chứng thực chữ ký số chuyên dùng Chính phủ thuộc phạm vi quản lý.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:138065:part:1:article:12:clause:4",
+                    "number": "4",
+                    "content": "4. Chủ trì, phối hợp với Cục Chứng thực số và Bảo mật\nthông tin tổ chức tập huấn, huấn luyện triển khai, sử dụng chứng thư số, thiết bị lưu khóa bí mật, dịch vụ chứng thực chữ ký số chuyên dùng Chính phủ.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:138065:part:1:article:12:clause:5",
+                    "number": "5",
+                    "content": "5. Người đứng đầu các cơ quan,\ntổ chức: Văn phòng Trung ương Đảng và các ban, cơ quan tham mưu, giúp việc trực thuộc Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam; Hội đồng dân tộc; các Ủy ban của Quốc hội; Văn phòng Quốc hội; Văn phòng Chủ tịch nước; các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ; Viện Kiểm sát nhân dân tối cao; Tòa án nhân dân tối cao; Kiểm toán nhà nước; tỉnh ủy, thành ủy trực thuộc Trung ương; Hội đồng nhân dân, Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương và các tổ chức khác theo quy định của cấp có thẩm quyền chỉ đạo, ủy quyền cho cơ quan chuyên trách trực thuộc tổ chức triển khai thực hiện các nội dung tại các khoản 1, 2, 3, 4 Điều này.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:138065:part:1:article:13",
+                "number": "13",
+                "title": "Trách nhiệm của Ban Cơ yếu Chính phủ",
+                "content": "Điều 13. Trách nhiệm của Ban Cơ yếu Chính phủ",
+                "clauses": [
+                  {
+                    "clause_id": "doc:138065:part:1:article:13:clause:1",
+                    "number": "1",
+                    "content": "1. Giúp Bộ trưởng Bộ Quốc phòng thực hiện quản lý\nnhà nước về dịch vụ chứng thực chữ ký số chuyên dùng Chính phủ; tổ chức thực hiện cung cấp chứng thực chữ ký số, xác thực và an toàn thông tin trong các giao dịch điện tử phục vụ các cơ quan Đảng, Nhà nước.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:138065:part:1:article:13:clause:2",
+                    "number": "2",
+                    "content": "2. Phối hợp với các cơ quan Đảng, Nhà nước xây dựng",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:138065:part:1:article:14",
+                "number": "14",
+                "title": "Trách nhiệm của Tổ chức cung cấp dịch vụ chứng thực chữ ký số chuyên dùng Chính phủ",
+                "content": "Điều 14. Trách nhiệm của Tổ chức cung cấp dịch vụ chứng thực chữ ký số chuyên dùng Chính phủ",
+                "clauses": [
+                  {
+                    "clause_id": "doc:138065:part:1:article:14:clause:1",
+                    "number": "1",
+                    "content": "1. Đảm bảo an toàn tuyệt đối khóa bí mật của chứng\nthư số và xử lý các tình huống trong quá trình cung cấp và quản lý chứng thư số.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:138065:part:1:article:14:clause:2",
+                    "number": "2",
+                    "content": "2. Quản lý, vận hành hạ tầng kỹ thuật của hệ thống\nchứng thực chữ ký số, đảm bảo việc cung cấp dịch vụ chứng thực chữ ký số được an toàn, liên tục.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:138065:part:1:article:14:clause:3",
+                    "number": "3",
+                    "content": "3. Cập nhật, lưu trữ đầy đủ, chính xác thông tin\nyêu cầu chứng thực theo quy định của pháp luật.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:138065:part:1:article:14:clause:4",
+                    "number": "4",
+                    "content": "4. Đảm bảo kênh thông tin tiếp nhận các yêu cầu cấp,\ngia hạn, thay đổi nội dung thông tin, thu hồi chứng thư số, khôi phục thiết bị lưu khóa bí mật; cập nhật và duy trì 24 giờ trong ngày và 7 ngày trong tuần các cơ sở dữ liệu trực tuyến về chính sách chứng thư số, các quy định về việc cung cấp, quản lý, sử dụng dịch vụ chứng thực chữ ký số, chứng thư số của Cục Chứng thực số và Bảo mật thông tin, danh sách chứng thư số có hiệu lực, chứng thư số bị thu hồi và những thông tin cần thiết khác.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:138065:part:1:article:14:clause:5",
+                    "number": "5",
+                    "content": "5. Quản lý, vận hành, duy trì và tổ chức hướng dẫn\ncác cơ quan, tổ chức sử dụng Hệ thống thông tin đăng ký, quản lý yêu cầu chứng thực.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:138065:part:1:article:15",
+                "number": "15",
+                "title": "Trách nhiệm của cơ quan, tổ chức quản lý trực tiếp",
+                "content": "Điều 15. Trách nhiệm của cơ quan, tổ chức quản lý trực tiếp",
+                "clauses": [
+                  {
+                    "clause_id": "doc:138065:part:1:article:15:clause:1",
+                    "number": "1",
+                    "content": "1. Căn cứ yêu cầu đảm bảo an toàn, xác thực thông\ntin trong giao dịch điện tử phục vụ nhiệm vụ của cơ quan, tổ chức mình xem xét, xác nhận văn bản và chịu trách nhiệm về tính chính xác của các thông tin đề nghị cấp, gia hạn, thay đổi nội dung thông tin, thu hồi chứng thư số, khôi phục thiết bị lưu khóa bí mật cho tổ chức, cá nhân thuộc quyền quản lý.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:138065:part:1:article:15:clause:2",
+                    "number": "2",
+                    "content": "2. Tiếp nhận, bàn giao chứng thư số, thiết bị lưu\nkhóa bí mật cho thuê bao theo quy định.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:138065:part:1:article:15:clause:3",
+                    "number": "3",
+                    "content": "3. Thu hồi thiết bị lưu khóa bí mật của các tổ chức,\ncá nhân thuộc quyền bàn giao cho Cục Chứng thực số và Bảo mật thông tin.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:138065:part:1:article:15:clause:4",
+                    "number": "4",
+                    "content": "4. Cập nhật, quản lý, lưu trữ hồ sơ đề nghị cấp,\ngia hạn, thay đổi nội dung thông tin, thu hồi chứng thư số, khôi phục thiết bị lưu khóa bí mật của thuê bao thuộc phạm vi quản lý theo quy định của pháp luật.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:138065:part:1:article:15:clause:5",
+                    "number": "5",
+                    "content": "5. Kiểm tra việc triển khai, sử dụng chứng thư số,\nthiết bị lưu khóa bí mật, dịch vụ chứng thực chữ ký số chuyên dùng Chính phủ thuộc phạm vi quản lý.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:138065:part:1:article:15:clause:6",
+                    "number": "6",
+                    "content": "6. Định kỳ, đột xuất báo cáo về tình hình cung cấp,\nquản lý, sử dụng dịch vụ chứng thực chữ ký sổ chuyên dùng Chính phủ theo yêu cầu của cơ quan có thẩm quyền.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:138065:part:1:article:16",
+                "number": "16",
+                "title": "Trách nhiệm của các tổ chức Cơ yếu trực thuộc Bộ Quốc phòng, Bộ Công an và Bộ Ngoại giao",
+                "content": "Điều 16. Trách nhiệm của các tổ chức Cơ yếu trực thuộc Bộ Quốc phòng, Bộ Công an và Bộ Ngoại giao",
+                "clauses": [
+                  {
+                    "clause_id": "doc:138065:part:1:article:16:clause:1",
+                    "number": "1",
+                    "content": "1. Hằng năm, tham mưu giúp người đứng đầu các Bộ chủ\nquản xây dựng kế hoạch, nhu cầu ứng dụng dịch vụ chứng thực chữ ký số chuyên dùng Chính phủ cho thuê bao thuộc quyền quản lý để bảo đảm an toàn và xác thực thông tin trong giao dịch điện tử.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:138065:part:1:article:16:clause:2",
+                    "number": "2",
+                    "content": "2. Xây dựng, trình cấp có thẩm quyền ban hành quy\nchế, quy định về quản lý, sử dụng dịch vụ chứng thực chữ ký số chuyên dùng Chính phủ thuộc phạm vi quản lý.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:138065:part:1:article:16:clause:3",
+                    "number": "3",
+                    "content": "3. Chịu trách nhiệm về tính chính xác của các thông\ntin đề nghị cấp, gia hạn, thay đổi nội dung thông tin, thu hồi chứng thư số, khôi phục thiết bị lưu khóa bí mật; văn bản đề nghị áp dụng theo các Mẫu 2, 4, 6, 8, 10, 12, 14, 15 tại Phụ lục ban hành kèm theo Thông tư này.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:138065:part:1:article:16:clause:4",
+                    "number": "4",
+                    "content": "4. Tiếp nhận chứng thư số, thiết bị lưu khóa bí mật\ntừ Cục Chứng thực số và Bảo mật thông tin bàn giao cho cơ quan, tổ chức quản lý trực tiếp.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:138065:part:1:article:16:clause:5",
+                    "number": "5",
+                    "content": "5. Tiếp nhận chứng thư số, thiết bị lưu khóa bí mật\nthu hồi từ cơ quan, tổ chức quản lý trực tiếp bàn giao cho Cục Chứng thực số và Bảo mật thông tin.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:138065:part:1:article:16:clause:6",
+                    "number": "6",
+                    "content": "6. Cập nhật, quản lý, lưu trữ hồ sơ đề nghị cấp,\ngia hạn, thay đổi nội dung thông tin, thu hồi chứng thư số, khôi phục thiết bị lưu khóa bí mật của thuê bao thuộc phạm vi quản lý theo quy định của pháp luật.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:138065:part:1:article:16:clause:7",
+                    "number": "7",
+                    "content": "7. Chủ trì, phối hợp với Cục Chứng thực số và Bảo mật\nthông tin tổ chức tập huấn, huấn luyện triển khai, sử dụng chứng thư số, thiết bị lưu khóa bí mật, dịch vụ chứng thực chữ ký số chuyên dùng Chính phủ cho các thuê bao trong phạm vi quản lý.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:138065:part:1:article:16:clause:8",
+                    "number": "8",
+                    "content": "8. Hướng dẫn, kiểm tra các thuê bao trong quá trình\ntriển khai, quản lý và sử dụng chứng thư số, thiết bị lưu khóa bí mật, dịch vụ chứng thực chữ ký số chuyên dùng Chính phủ.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:138065:part:1:article:16:clause:9",
+                    "number": "9",
+                    "content": "9. Phối hợp với Cục Chứng thực số và Bảo mật thông\ntin triển khai tích hợp dịch vụ chứng thực chữ ký số chuyên dùng Chính phủ vào các ứng dụng công nghệ thông tin nhằm đảm bảo an toàn, xác thực và bảo mật thông tin.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:138065:part:1:article:16:clause:10",
+                    "number": "10",
+                    "content": "10. Thống kê, kiểm tra, quản lý việc cấp, gia hạn,\nthay đổi nội dung thông tin, thu hồi chứng thư số và khôi phục thiết bị lưu khóa bí mật của các cơ quan, tổ chức trong phạm vi quản lý của Bộ chủ quản và định kỳ 01 năm một lần trước ngày 31 tháng 10 hằng năm hoặc đột xuất báo cáo về Ban Cơ yếu Chính phủ (qua Cục Chứng thực số và Bảo mật thông tin).",
+                    "points": []
+                  }
+                ],
+                "points": []
+              },
+              {
+                "article_id": "doc:138065:part:1:article:17",
+                "number": "17",
+                "title": "Trách nhiệm của Thuê bao",
+                "content": "Điều 17. Trách nhiệm của Thuê bao",
+                "clauses": [
+                  {
+                    "clause_id": "doc:138065:part:1:article:17:clause:1",
+                    "number": "1",
+                    "content": "1. Cung cấp các thông tin liên quan đến việc cấp,\ngia hạn, thay đổi nội dung thông tin của chứng thư số chính xác và đầy đủ.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:138065:part:1:article:17:clause:2",
+                    "number": "2",
+                    "content": "2. Tiếp nhận chứng thư số, thiết bị lưu khóa bí mật\ntừ cơ quan, tổ chức quản lý trực tiếp theo quy định.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:138065:part:1:article:17:clause:3",
+                    "number": "3",
+                    "content": "3. Thông báo kịp thời cho cơ quan, tổ chức quản lý\ntrực tiếp thu hồi chứng thư số theo quy định tại khoản 1 Điều 10 Thông tư này.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:138065:part:1:article:17:clause:4",
+                    "number": "4",
+                    "content": "4. Bàn giao thiết bị lưu khóa bí mật thu hồi cho cơ\nquan, tổ chức quản lý trực tiếp theo quy định tại khoản 2 Điều 10 Thông tư này.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:138065:part:1:article:17:clause:5",
+                    "number": "5",
+                    "content": "5. Đề nghị khôi phục thiết bị lưu khóa bí mật trong\ntrường hợp thiết bị lưu khóa bí mật bị khóa theo quy định tại Điều 11 Thông tư này.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:138065:part:1:article:17:clause:6",
+                    "number": "6",
+                    "content": "6. Sử dụng chứng thư số đúng mục đích và tuân thủ\ncác quy trình, quy định về quản lý, sử dụng chữ ký số, chứng thư số, thiết bị lưu khóa mật và dịch vụ chứng thực chữ ký số chuyên dùng Chính phủ.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:138065:part:1:article:17:clause:7",
+                    "number": "7",
+                    "content": "7. Quản lý thiết bị lưu khóa bí mật theo quy định của\npháp luật.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          },
+          {
+            "chapter_id": "doc:138065:part:1:chapter:4",
+            "number": "IV",
+            "title": "ĐIỀU KHOẢN THI HÀNH",
+            "content": "Chương IV\nĐIỀU KHOẢN THI HÀNH",
+            "sections": [],
+            "articles": [
+              {
+                "article_id": "doc:138065:part:1:article:18",
+                "number": "18",
+                "title": "Hiệu lực thi hành Thông tư này có hiệu lực thi hành từ ngày 18 tháng 02 năm 2020. Thay thế Thông tư số 08/2016/TT-BQP ngày 01 tháng 02 năm 2016 của Bộ trưởng Bộ Quốc phòng quy định về cung cấp, quản lý, sử dụng dịch vụ chứng thực chữ ký số chuyên dùng phục vụ các cơ quan Đảng, Nhà nước, tổ chức chính trị - xã hội.",
+                "content": "Điều 18. Hiệu lực thi hành Thông tư này có hiệu lực thi hành từ ngày 18 tháng 02 năm 2020. Thay thế Thông tư số 08/2016/TT-BQP ngày 01 tháng 02 năm 2016 của Bộ trưởng Bộ Quốc phòng quy định về cung cấp, quản lý, sử dụng dịch vụ chứng thực chữ ký số chuyên dùng phục vụ các cơ quan Đảng, Nhà nước, tổ chức chính trị - xã hội.",
+                "clauses": [],
+                "points": []
+              },
+              {
+                "article_id": "doc:138065:part:1:article:19",
+                "number": "19",
+                "title": "Trách nhiệm thi hành",
+                "content": "Điều 19. Trách nhiệm thi hành",
+                "clauses": [
+                  {
+                    "clause_id": "doc:138065:part:1:article:19:clause:1",
+                    "number": "1",
+                    "content": "1. Trưởng ban Ban Cơ yếu Chính phủ, Thủ trưởng các\ncơ quan, đơn vị, tổ chức và cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này.",
+                    "points": []
+                  },
+                  {
+                    "clause_id": "doc:138065:part:1:article:19:clause:2",
+                    "number": "2",
+                    "content": "2. Trong quá trình thực hiện nếu có khó khăn, vướng\nmắc đề nghị các cơ quan, đơn vị, tổ chức và cá nhân phản ánh về Ban Cơ yếu Chính phủ để tổng hợp, báo cáo Bộ trưởng Bộ Quốc phòng./.",
+                    "points": []
+                  }
+                ],
+                "points": []
+              }
+            ]
+          }
+        ],
+        "sections": [],
+        "articles": [],
+        "unstructured_blocks": []
+      }
+    ]
+  },
+  "issues": [],
+  "status": "ok",
+  "source_hash": "context_138065.json",
+  "stats": {
+    "source_chars": 38972,
+    "passage_chars": 38817,
+    "parts": 1,
+    "chapters": 4,
+    "sections": 0,
+    "articles": 19,
+    "clauses": 53,
+    "points": 10
+  }
+}

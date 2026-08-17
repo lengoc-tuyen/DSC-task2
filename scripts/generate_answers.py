@@ -29,6 +29,9 @@ def main() -> None:
     args = parser.parse_args()
     node_lookup = {node.node_id: node for node in load_nodes(args.nodes)}
     records = load_jsonl(args.reranked)
+    expected_ids = [str(record["id"]) for record in records]
+    if len(expected_ids) != len(set(expected_ids)):
+        raise ValueError("reranked input contains duplicate question IDs")
     completed = json.loads(args.resume_state.read_text(encoding="utf-8")) if args.resume_state.exists() else {}
     generator = TransformersGenerator(args.model, args.device, args.quantize_4bit)
     for record in records:
@@ -42,7 +45,10 @@ def main() -> None:
             raise RuntimeError(f"Model returned an empty answer for question {qid}")
         completed = {**completed, qid: {"question": record["question"], "answer": answer}}
         atomic_write_json(args.resume_state, completed)
-    submission = {qid: {"answer": value["answer"]} for qid, value in completed.items()}
+    missing = [qid for qid in expected_ids if qid not in completed or not completed[qid].get("answer")]
+    if missing:
+        raise RuntimeError(f"Cannot build submission: {len(missing)} questions are missing answers")
+    submission = {qid: {"answer": completed[qid]["answer"]} for qid in expected_ids}
     atomic_write_json(args.output, submission)
     print(json.dumps({"output": str(args.output), "questions": len(completed)}, ensure_ascii=False))
 

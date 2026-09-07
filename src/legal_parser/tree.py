@@ -356,7 +356,16 @@ def _extract_preamble(passage: str) -> str:
 
 
 def _extract_segments(text: str, prefixes: tuple[str, ...]) -> list[str]:
-    return [segment.strip() for segment in re.split(r";\s*", text) if segment.strip().casefold().startswith(prefixes)]
+    output: list[str] = []
+    prefix_pattern = re.compile(
+        r"\b(?:" + "|".join(re.escape(prefix) for prefix in prefixes) + r")\b",
+        re.IGNORECASE,
+    )
+    for segment in re.split(r";\s*", text):
+        match = prefix_pattern.search(segment)
+        if match:
+            output.append(segment[match.start():].strip())
+    return output
 
 
 def _extract_enactment_formula(text: str) -> str | None:
